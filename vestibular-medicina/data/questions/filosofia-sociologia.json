@@ -2306,6 +2306,36 @@
       "explicacao": "A pergunta sobre resistência bacteriana é legítima e não é sociológica: ela descreve o micro-organismo, não o abandono. As demais tratam do que faz uma pessoa deixar de voltar — que é onde a tuberculose se decide no Brasil.",
       "formato": "excecao",
       "banca": "einstein"
+    },
+    {
+      "id": "filosofia-sociologia-151",
+      "enunciado": "Em meados do século XIX, Nísia Floresta publicou no Brasil seu Opúsculo Humanitário, uma ardente defesa da educação como meio para eliminar os obstáculos que impediam as mulheres de contribuir, em condições de igualdade com os homens, com a sociedade brasileira. Para tanto, contrapõe o estado da educação das mulheres nas nações ditas civilizadas e cultas ao péssimo estado da educação, pública e privada, religiosa e laica no Brasil, assumindo que a educação é uma expressão do grau de civilização das nações e muito influente sobre sua moralidade.\n\nMeio século mais tarde, Émile Durkheim dedicou duas obras à educação escolar: Educação e Sociologia e A Educação Moral. Nelas, o sociólogo francês concebe a escola como um espaço de transmissão da civilização às novas gerações por meio da sua socialização nos sentimentos, ideias e valores da sociedade, além da promoção da solidariedade com as múltiplas sociedades das quais participamos e com a humanidade como um todo. Ao funcionar como uma forma de vinculação às normas sociais por meio de uma compreensão racional da moralidade que subjaz a esses sentimentos, ideias e valores, a escola seria também um espaço de produção de autonomia. Mas, para que assim seja, esses sentimentos, ideias e valores deveriam ser justificáveis exclusivamente pela razão, sem invocar princípios religiosos, que são exclusivistas.\n\nÉ correto afirmar que em seus escritos sobre educação, Durkheim e Floresta convergem ao",
+      "alternativas": {
+        "a": "reafirmar a importância dos valores religiosos da sociedade na educação como um projeto moralizante, ainda que critiquem a educação católica.",
+        "b": "conceber a educação das mulheres como manifestação de uma lei necessária do progresso das nações, expressão do positivismo dos autores.",
+        "c": "indicar a função da escola de integrar seus estudantes às normas e valores morais característicos de uma sociedade para permitir que com ela contribuam.",
+        "d": "justificar uma educação escolar segregada de grupos menos integrados socialmente, como as mulheres, em virtude de normas e valores da sociedade.",
+        "e": "defender uma educação com caráter cívico e nacionalista, que afirme a superioridade da nação e promova as glórias da civilização nacional."
+      },
+      "resposta": "c",
+      "explicacao": "Durkheim entende a escola como instância de socialização que integra o indivíduo às normas e valores morais da coletividade; Nísia Floresta defende a educação como caminho para que as mulheres participem da sociedade em igualdade de condições. Os dois convergem nessa função integradora da escola, não em apelos religiosos, nacionalistas ou segregacionistas.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "filosofia-sociologia-152",
+      "enunciado": "País com a terceira maior população carcerária do mundo (quase 827 mil presos), o Brasil registra também alto índice de egressos de penitenciárias voltando ao sistema prisional por reincidência de crimes. Não há números oficiais, mas estudos mostram que cerca de 1/3 dos que cumpriram pena acaba preso novamente.\n\nSob o viés da cidadania e dos direitos humanos, a reincidência problematizada no excerto revela a carência de",
+      "alternativas": {
+        "a": "isolamento social e modelos prisionais de segurança máxima.",
+        "b": "vigilância urbana e policiamento ostensivo.",
+        "c": "rigor em leis punitivistas e identitárias.",
+        "d": "políticas públicas de inclusão e de igualdade social.",
+        "e": "programas de segregação socioespacial e inclusão no mercado de trabalho."
+      },
+      "resposta": "d",
+      "explicacao": "A reincidência prisional revela que o egresso não encontra condições reais de reinserção social após cumprir pena; sob a ótica da cidadania e dos direitos humanos, isso aponta para a ausência de políticas públicas de inclusão e igualdade social, e não para mais repressão, vigilância ou isolamento.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
     }
   ]
 }

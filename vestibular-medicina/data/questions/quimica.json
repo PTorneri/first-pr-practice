@@ -3196,6 +3196,1579 @@
       "explicacao": "Na série H2S, H2Se e H2Te todas as moléculas são polares e de dipolo semelhante; o que muda é o tamanho, e o crescimento das forças de dispersão eleva o ponto de ebulição. A água quebra a sequência porque o oxigênio é pequeno e muito eletronegativo, o que viabiliza ligações de hidrogênio, interação bem mais intensa — se seguisse a tendência, ferveria abaixo de zero e não haveria água líquida na Terra. A alternativa (d) confunde os dois níveis: ferver não rompe a ligação O–H, apenas separa moléculas vizinhas.",
       "formato": "direta",
       "dificuldade": "dificil"
+    },
+    {
+      "id": "quimica-206",
+      "enunciado": "A figura a seguir apresenta a evolução dos modelos atômicos, desde o primeiro, proposto por Dalton em 1803, até o de Bohr, proposto em 1913 (passando pelos modelos de Thomson e Rutherford).\n\nSobre os quatro modelos atômicos apresentados, é correto afirmar:",
+      "alternativas": {
+        "a": "Todos os modelos previram a presença de cargas positivas no núcleo atômico.",
+        "b": "O modelo proposto por Thomson, por prever a existência de nêutrons, não poderia explicar a radiação alfa (α).",
+        "c": "Diferentemente do modelo de Dalton, o modelo de Rutherford não explica a estrutura de cátions e ânions.",
+        "d": "Apenas o modelo de Bohr, com o advento de balanças de precisão, considerou a diferença de massa entre os elementos.",
+        "e": "Elementos radioativos não poderiam ser explicados pelo modelo proposto por Dalton."
+      },
+      "resposta": "e",
+      "explicacao": "O modelo de Dalton concebia o átomo como uma esfera maciça e indivisível, sem estrutura interna; ele não poderia explicar a radioatividade, fenômeno que envolve transformações no núcleo atômico e a emissão de partículas subatômicas, conceitos incompatíveis com um átomo indivisível.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "quimica-207",
+      "enunciado": "Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons Li+ penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons Li+ intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon-sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta.\n\nConsiderando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado (Na+ ou Li+) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é",
+      "alternativas": {
+        "a": "maior do que de uma bateria íon-Li, pois o Na+ tem maior massa e menor raio iônico do que o Li+.",
+        "b": "menor do que de uma bateria íon-Li, pois o Na+ tem maior massa e maior raio iônico do que o Li+.",
+        "c": "maior do que de uma bateria íon-Li, pois o Na+ tem menor massa e maior raio iônico do que o Li+.",
+        "d": "menor do que de uma bateria íon-Li, pois o Na+ tem menor massa e menor raio iônico do que o Li+.",
+        "e": "igual à de uma bateria íon-Li, pois ambos os íons são monovalentes."
+      },
+      "resposta": "b",
+      "explicacao": "O Na⁺ tem maior massa e maior raio iônico do que o Li⁺; o maior raio reduz o número de íons que cabem no mesmo volume (menor densidade de carga armazenada) e a maior massa reduz a energia armazenada por unidade de massa — por isso a bateria de íon-sódio tem menor densidade de energia.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "quimica-208",
+      "enunciado": "Na zona sul da cidade de São Paulo, há uma esquina formada pelas ruas Cloreto de Sódio e Relíquia do Oceano.\n\nA coincidência do encontro dessas ruas chama a atenção, pois o cloreto de sódio",
+      "alternativas": {
+        "a": "praticamente não está presente no oceano, apesar de este ser salgado.",
+        "b": "é insolúvel na água do oceano por apresentar ligação iônica.",
+        "c": "utilizado no Brasil é quase todo proveniente do oceano.",
+        "d": "obtido do oceano apresenta ligação covalente, enquanto o extraído do sal-gema, ligação iônica.",
+        "e": "retirado do oceano tem mais átomos de cloro ligados ao sódio do que o oriundo de outras fontes."
+      },
+      "resposta": "c",
+      "explicacao": "A quase totalidade do cloreto de sódio consumido no Brasil é obtida por evaporação da água do mar em salinas, o que explica a coincidência simbólica entre os nomes das ruas.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "quimica-209",
+      "enunciado": "O processo de mumificação usado pelos egípcios começava com a retirada dos órgãos e desidratação do corpo utilizando uma mistura natural, obtida em leito de lagos, de sais solúveis de sódio, como carbonato, hidrogenocarbonato, cloreto e sulfato. Após a desidratação, o corpo era preenchido com uma mistura de serragem e ervas aromáticas como canela, cássia, mirra e até mesmo cebola, que, por conterem álcoois e aldeídos com propriedades antimicrobianas, dificultavam a decomposição do corpo. Por fim, o corpo era envolvido em tecido embebido em resinas insolúveis em água, como betume ou óleo de cedro, que, após seco, formava uma camada impermeabilizante.\n\nA partir dessas informações, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Os sais de sódio mencionados, por serem hidrofílicos, repelem a água.",
+        "b": "Propanona e hexano são exemplos de álcoois e aldeídos antimicrobianos.",
+        "c": "Assim como o betume e óleo de cedro, qualquer outro composto orgânico serviria como impermeabilizante.",
+        "d": "Todo sal iônico poderia ser utilizado em substituição aos sais de sódio mencionados.",
+        "e": "A impermeabilidade conferida pelas resinas se deve às suas características apolares ou muito pouco polares."
+      },
+      "resposta": "e",
+      "explicacao": "As resinas usadas (betume, óleo de cedro) são substâncias apolares ou pouco polares, que repelem a água (polar) por diferença de polaridade — o princípio do \"semelhante dissolve semelhante\" explica por que elas formam uma camada impermeabilizante eficaz.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "quimica-210",
+      "enunciado": "Em países frios, é comum o uso de pequenos aquecedores de mãos, normalmente descartáveis, que podem ser colocados dentro de luvas. Uma alternativa mais sustentável é o aquecedor de mão reutilizável, que é constituído por uma solução aquosa supersaturada de acetato de sódio armazenada em um reservatório maleável.\n\nUm choque mecânico nesse reservatório perturba a solução supersaturada e leva à precipitação do sal, resultando no seu aquecimento. Após o uso, o aquecedor pode ser regenerado por imersão em água quente, que dissolve o sal, deixando-o pronto para ser reutilizado.\n\nEm relação à operação desse aquecedor, é correto afirmar:",
+      "alternativas": {
+        "a": "A precipitação do acetato de sódio é exotérmica e sua solubilização é endotérmica.",
+        "b": "A diminuição da temperatura aumenta a solubilidade do acetato de sódio.",
+        "c": "A solubilização do acetato de sódio para a regeneração do aquecedor libera energia, aquecendo o banho de água.",
+        "d": "Quando o aquecedor é regenerado, a solução interna passa de supersaturada para uma solução diluída.",
+        "e": "A concentração de acetato de sódio na solução dentro do reservatório não muda durante a regeneração do aquecedor."
+      },
+      "resposta": "a",
+      "explicacao": "A cristalização (precipitação) do acetato de sódio libera a energia que havia sido usada para dissolvê-lo, sendo portanto exotérmica; a dissolução, ao regenerar o aquecedor em água quente, absorve energia do banho, sendo endotérmica.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "quimica-211",
+      "enunciado": "A toxicidade do Pb e o risco de sua ingestão ganharam notoriedade na mídia devido à presença desse elemento em copos térmicos amplamente comercializados. A exposição ao Pb, no entanto, pode ocorrer também por fontes naturais, como a ingestão de água em contato prolongado com minérios como a anglesita, rico em PbSO4 (Kps = 1,0 × 10⁻⁸).\n\nSabendo que a legislação estabelece a concentração máxima de Pb de 0,01 mg/L para água potável, assinale a alternativa correta em relação à ingestão de água que tenha contato prolongado com a anglesita.",
+      "alternativas": {
+        "a": "Não é segura, pois a concentração de Pb na água será de 2,07×10¹ mg/L, maior que o valor permitido.",
+        "b": "É segura, pois a concentração de Pb na água será de 1×10⁻⁴ mg/L, menor que o valor permitido.",
+        "c": "Não é segura, pois a concentração de Pb na água será de 1×10⁻⁸ mg/L, menor que o valor permitido.",
+        "d": "É segura, pois a concentração de Pb na água será de 1×10⁻² mg/L, igual ao valor permitido.",
+        "e": "É segura, pois a concentração de Pb na água será de 2,07×10⁻⁶ mg/L, maior que o valor permitido."
+      },
+      "resposta": "a",
+      "explicacao": "Como Ksp = [Pb²⁺][SO₄²⁻] = s², a solubilidade é s = √(1,0×10⁻⁸) = 1,0×10⁻⁴ mol/L; convertendo para mg/L usando a massa molar do chumbo (207 g/mol), obtém-se cerca de 2,07×10¹ mg/L, muito acima do limite legal de 0,01 mg/L — portanto a água não é segura.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "quimica-212",
+      "enunciado": "A utilização de matrizes energéticas limpas, tais como aquelas que não aumentam a concentração de CO2(g) na atmosfera, é essencial para evitar a escalada das alterações climáticas causadas pela emissão de gases de efeito estufa. Considere a seguinte proposta para a produção de uma matriz energética limpa:\n\n(I) Capturar o CO2(g) atmosférico utilizando NaOH(aq) para formar Na2CO3(aq).\n(II) Tratar essa solução, na presença de um catalisador, com H2(g) oriundo de fontes renováveis, para gerar CH4(g), um gás combustível.\n\nCom base nessas informações e em seus conhecimentos, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "O catalisador participa da reação de produção de metano e se decompõe em NaOH.",
+        "b": "A combustão do CH4 não emite CO2, motivo pelo qual a proposta se configura como uma matriz energética limpa.",
+        "c": "A proposta não representa uma matriz energética limpa, pois a combustão completa de 1 mol de CH4 emite mais CO2 do que o que é utilizado para a sua síntese.",
+        "d": "A retirada de CO2 da atmosfera seria maior se a proposta de usar uma matriz energética limpa se resumisse unicamente em utilizar o H2 como combustível.",
+        "e": "Em relação ao ciclo do carbono, a proposta é semelhante ao uso do etanol como combustível veicular."
+      },
+      "resposta": "e",
+      "explicacao": "Assim como o etanol, que é produzido a partir de CO₂ atmosférico fixado pela cana-de-açúcar e depois devolvido à atmosfera na queima, a proposta captura CO₂ atmosférico (etapa I) para depois devolvê-lo na combustão do metano formado (etapa II) — um ciclo fechado de carbono, sem adição líquida de CO₂ à atmosfera.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "quimica-213",
+      "enunciado": "Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação CH4(l) + 2 O2(l) → CO2(g) + 2 H2O(g).\n\nNessas condições, é correto afirmar que a razão entre a densidade do metano líquido e a densidade do oxigênio líquido é igual a",
+      "alternativas": {
+        "a": "0,186.",
+        "b": "0,375.",
+        "c": "0,75.",
+        "d": "1,5.",
+        "e": "3."
+      },
+      "resposta": "b",
+      "explicacao": "Como a razão de volumes é V(O₂)=1,5×V(CH4) e a proporção molar da equação é 1 CH4 : 2 O2, a razão de massas m(CH4)/m(O2) = [n×16]/[2n×32] = 16/64 = 0,25 em mols; ajustando pela razão de volumes (dividindo pela densidade), obtém-se a razão de densidades ρ(CH4)/ρ(O2) = 0,375.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "quimica-214",
+      "enunciado": "A reação do antibiótico sulfanilamida com halogênios leva à reação de substituição com o halogênio em duas posições distintas do anel aromático.\n\nEm um experimento, 1 L de uma solução de sulfanilamida de pH 5 reagiu com Br2 em excesso, obtendo-se pH 4 após reação total. Considerando que o volume se manteve inalterado após a adição do halogênio, quantos mols de sulfanilamida reagiram com bromo?",
+      "alternativas": {
+        "a": "4,5 × 10⁻⁵",
+        "b": "9,0 × 10⁻⁵",
+        "c": "1,0 × 10⁻⁴",
+        "d": "5,0 × 10⁻²",
+        "e": "1,0 × 10⁻¹"
+      },
+      "resposta": "a",
+      "explicacao": "A variação de pH de 5 para 4 corresponde a um aumento de [H⁺] de 1×10⁻⁵ para 1×10⇁⁴ mol/L, ou seja, 9×10⁻⁵ mol de H⁺ liberados no litro de solução; como cada substituição por bromo nas duas posições do anel libera 2 H⁺ por molécula de sulfanilamida, o número de mols que reagiu é 9×10⁻⁵/2 = 4,5×10⁻⁵.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "quimica-215",
+      "enunciado": "Uma imagem gerada por Inteligência Artificial (IA), chamada de \"A formatura da capivara\", ilustra o tema desta questão. Em 2024 estimou-se que 30 milhões de imagens foram geradas diariamente no mundo utilizando modelos de IA a um gasto energético médio de 131 kJ por imagem. O uso intenso dessa tecnologia tem levado à reativação de usinas termoelétricas e à construção de novas usinas nucleares para suportar os servidores que realizam o processamento de IA.\n\nConsiderando que toda a energia para gerar essas imagens fosse proveniente da combustão completa de carvão, a pegada de carbono diária medida em toneladas de CO2 formado, resultante da produção dessas imagens, seria de",
+      "alternativas": {
+        "a": "0,2.",
+        "b": "10.",
+        "c": "150.",
+        "d": "280.",
+        "e": "440."
+      },
+      "resposta": "e",
+      "explicacao": "A energia total gasta é 30 milhões × 131 kJ ≈ 3,93×10⁹ kJ. Usando a entalpia de combustão do carbono (~393,5 kJ/mol, produzindo 1 mol de CO₂ cada), isso corresponde a cerca de 10⁷ mol de C, ou seja, 10⁷ × 44 g = 4,4×10⁸ g = 440 toneladas de CO₂.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "quimica-216",
+      "enunciado": "O processo de corrosão do aço é favorecido em ambientes úmidos e ácidos. Para evitar a corrosão de superfícies de aço é comum utilizar óleos para impedir o contato da umidade do ar com a superfície. Nos casos em que o uso de óleo não é conveniente, é possível criar uma camada de NaOH(s) na superfície do metal aplicando uma solução aquosa relativamente concentrada desta base sobre a ferramenta e deixando a solução secar por completo.\n\nEsse tipo de tratamento com hidróxido de sódio é efetivo em ambientes com elevada acidez pois, caso a água entre em contato com a superfície tratada, ela",
+      "alternativas": {
+        "a": "será repelida pela camada hidrofóbica de hidróxido de sódio, evitando o contato direto da água com o metal e sua oxidação.",
+        "b": "solubilizará o hidróxido de sódio, que neutralizará o ácido presente na água que poderia induzir o processo de oxidação na superfície do metal.",
+        "c": "será oxidada pelo hidróxido de sódio, gerando sua forma reduzida que, em contato com a superfície do metal, impede o processo de corrosão.",
+        "d": "gerará um acúmulo de água na superfície hidrofílica da camada de hidróxido de sódio, impedindo sua solubilização e a consequente formação de ácido.",
+        "e": "reagirá diretamente com o sódio do hidróxido de sódio, já que este atuará como metal de sacrifício, sofrendo oxidação e protegendo a superfície metálica."
+      },
+      "resposta": "b",
+      "explicacao": "Ao entrar em contato com a água, o NaOH se dissolve e neutraliza o ácido presente nessa água (proveniente do ambiente ácido), impedindo que o meio ácido favoreça a oxidação (corrosão) da superfície metálica.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "quimica-217",
+      "enunciado": "O produto conhecido como descalcificante, comumente composto por ácido cítrico, é usado para desentupir os dutos internos de eletrodomésticos como cafeteiras e ferros de passar roupa a vapor. O entupimento frequentemente é causado pelo depósito de calcário (CaCO3), produto da reação entre CO2 e íons cálcio presentes na água. O equilíbrio de formação do carbonato de cálcio está representado a seguir:\n\nCa²⁺(aq) + CO2(g) + H2O(l) ⇌ CaCO3(s) + 2H⁺(aq)\n\nSobre os processos de entupimento por carbonato de cálcio e a descalcificação desses eletrodomésticos, é correto afirmar que",
+      "alternativas": {
+        "a": "a diminuição do pH pela presença do ácido cítrico leva à reação de descalcificação.",
+        "b": "a reação de descalcificação com ácido cítrico desloca o equilíbrio porque consome CO2.",
+        "c": "ambientes ricos em CO2 causam menos entupimento dos eletrodomésticos.",
+        "d": "a utilização de água com maior pH nos eletrodomésticos causa menos entupimento.",
+        "e": "o ácido cítrico age como um catalisador, pois não participa do equilíbrio de descalcificação."
+      },
+      "resposta": "a",
+      "explicacao": "O ácido cítrico libera H⁺, que desloca o equilíbrio Ca²⁺+CO2+H2O⇌CaCO3+2H⁺ no sentido inverso (para a esquerda, consumindo CaCO₃ e formando Ca²⁺ e CO₂), dissolvendo o depósito de calcário — por isso a diminuição do pH provoca a descalcificação.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "quimica-218",
+      "enunciado": "Quem viajou de avião já ouviu o famoso aviso: \"Em caso de despressurização da cabine, máscaras de oxigênio cairão automaticamente acima do seu assento. Puxe uma das máscaras, coloque-a sobre o nariz e a boca e respire normalmente (...)\". Porém, ao invés de aviões conterem cilindros de oxigênio que alimentam as máscaras, esse gás é gerado por meio de uma reação química. No compartimento sobre cada passageiro encontra-se um reservatório contendo um sal como o clorato de sódio (NaClO3) que, ao se decompor, produz oxigênio (O2), cloreto de sódio (NaCl) e calor. O clorato de sódio é estável em temperatura ambiente, e sua decomposição só se inicia quando o passageiro puxa a máscara, o que dispara um gatilho que gera calor suficiente para iniciar a reação que, então, se mantém autossuficiente até consumo total do reagente.\n\nEssa reação de geração de oxigênio",
+      "alternativas": {
+        "a": "é endotérmica, pois se inicia somente em altas temperaturas.",
+        "b": "é uma reação de oxirredução na qual o cloro é oxidado e o oxigênio é reduzido.",
+        "c": "deve possuir uma baixa energia de ativação para ser ativada nas baixas temperaturas das altitudes elevadas.",
+        "d": "deve ser exotérmica o suficiente para manter a temperatura alta após iniciada.",
+        "e": "é uma reação de oxirredução na qual o sódio é reduzido e o oxigênio é oxidado."
+      },
+      "resposta": "d",
+      "explicacao": "Uma vez disparada pelo calor inicial do gatilho, a decomposição do clorato de sódio precisa ser exotérmica o suficiente para manter a temperatura elevada e sustentar a reação até o consumo total do reagente, sem depender de calor externo contínuo.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "quimica-219",
+      "enunciado": "A massa de clorato de sódio consumida na reação (ver questão anterior, sobre a geração química de oxigênio em máscaras de avião) deve ser suficiente para gerar, no mínimo, 15 minutos de oxigênio, permitindo que a aeronave baixe sua altitude, restabelecendo a pressão da cabine. Calcule a massa de clorato de sódio mínima, em gramas, que deve ser utilizada por reservatório, para gerar oxigênio suficiente por 15 minutos, considerando que a taxa de respiração média de oxigênio de um adulto é de 1,2 L/min ao nível do mar a 20 °C.",
+      "alternativas": {
+        "a": "27",
+        "b": "53",
+        "c": "80",
+        "d": "94",
+        "e": "119"
+      },
+      "resposta": "c",
+      "explicacao": "Calculando os mols de O₂ necessários para suprir a respiração durante 15 minutos (pela equação dos gases ideais) e convertendo para mols de NaClO₃ pela proporção estequiométrica da decomposição 2NaClO₃ → 2NaCl + 3O₂, chega-se à massa mínima necessária de clorato de sódio por reservatório.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "quimica-220",
+      "enunciado": "Aviões são os únicos meios de transporte que cruzam continentes em um dia. Apesar dos avanços em eficiência energética, as aeronaves contribuem com 3,5% do aquecimento global. Por isso, existe o interesse em substituir o querosene usado por essas aeronaves por hidrogênio, com destaque para o uso do hidrogênio líquido combustível. A tabela a seguir apresenta dados desses dois tipos de combustíveis na aviação.\n\n| Combustível | Energia combustão (kJ·mol⁻¹) | Densidade do líquido (g·cm⁻³) | Massa molar (g·mol⁻¹) |\n|---|---|---|---|\n| Querosene* | 6745 | 0,804 | 153 |\n| Hidrogênio | 240 | 0,071 | 2 |\n\n*valores médios e aproximados.\n\nCaracterísticas como massa e volume da aeronave são fatores importantes para seu desempenho. Levando em conta essa informação, para uma mesma quantidade de energia gerada pelo combustível, é correto afirmar que o hidrogênio é melhor que o querosene, pois",
+      "alternativas": {
+        "a": "sua razão energia por volume é maior.",
+        "b": "o volume utilizado será menor.",
+        "c": "sua razão energia por massa é maior.",
+        "d": "a massa utilizada será maior."
+      },
+      "resposta": "c",
+      "explicacao": "Dividindo a energia de combustão pela massa molar, o hidrogênio libera cerca de 120 kJ/g, contra apenas cerca de 44 kJ/g do querosene — ou seja, para a mesma energia gerada, seria necessária uma massa muito menor de hidrogênio, tornando sua razão energia/massa maior (apesar de sua razão energia/volume ser menor, por causa da baixa densidade do H₂ líquido).",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "quimica-221",
+      "enunciado": "A Agência Nacional do Petróleo (ANP) é responsável por implementar a política nacional de combustíveis e proteger os interesses dos consumidores quanto a preço, qualidade e oferta de produtos, além de especificar a qualidade dos derivados de petróleo, do gás natural e de seus derivados e dos biocombustíveis. Nesse sentido, a resolução ANP 907, de 2022, especifica algumas características do Etanol Anidro Combustível (EAC), do Etanol Hidratado Combustível (EHC) e do Etanol Hidratado Combustível Premium (EHCP). Algumas dessas características estão na tabela a seguir e nas alternativas.\n\n| Combustível | Massa Específica (kg/m³) | Teor Alcoólico (% massa) |\n|---|---|---|\n| EAC | 791,5 (a) | 99,3 (b) |\n| EHC | (c) | entre 92,5 e 94,6 |\n| EHCP | (d) | entre 95,5 e 96,5 |\n\nConsiderando que água e etanol formam uma mistura ideal, para preencher corretamente essa tabela, as letras a, b, c e d devem corresponder, respectivamente, a",
+      "alternativas": {
+        "a": "máximo; mínimo; entre 805 e 811 e entre 800 e 803.",
+        "b": "mínimo; máximo; entre 805 e 811 e entre 800 e 803.",
+        "c": "máximo; mínimo; entre 800 e 803 e entre 805 e 811.",
+        "d": "mínimo; máximo; entre 800 e 803 e entre 805 e 811."
+      },
+      "resposta": "a",
+      "explicacao": "Como a densidade da mistura água-etanol aumenta com o teor de água, o etanol anidro (EAC), com o menor teor de água possível, tem massa específica máxima permitida (a) e teor alcoólico mínimo (b) para garantir pureza; já o EHC, com mais água que o EHCP, apresenta a maior faixa de densidade (c, entre 805 e 811 kg/m³), e o EHCP, mais concentrado, densidade um pouco menor (d, entre 800 e 803 kg/m³).",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "quimica-222",
+      "enunciado": "O radioisótopo ¹³¹Ba é empregado na composição de microesferas usadas no monitoramento de tubulações em instalações petrolíferas. A tabela apresenta a atividade desse radioisótopo ao longo do tempo:\n\n| Atividade (Megabequerel, MBq) | Tempo em dias (d) |\n|---|---|\n| 1000 | 0 |\n| 800 | 4 |\n| 650 | 7 |\n| 125 | 36 |\n| 50 | 52 |\n\nA quantidade de nêutrons do ¹³¹Ba e a meia-vida desse radioisótopo são, respectivamente:",
+      "alternativas": {
+        "a": "75 nêutrons e 12 dias.",
+        "b": "75 nêutrons e 52 dias.",
+        "c": "75 nêutrons e 36 dias.",
+        "d": "56 nêutrons e 36 dias.",
+        "e": "56 nêutrons e 12 dias."
+      },
+      "resposta": "a",
+      "explicacao": "O bário tem número atômico 56; como o número de massa do isótopo é 131, o número de nêutrons é 131−56=75. Os dados mostram que a atividade cai de 1000 para 125 MBq (um oitavo, ou seja, três meias-vidas) em 36 dias, o que dá uma meia-vida de 36/3=12 dias.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "quimica-223",
+      "enunciado": "Compostos do elemento vanádio têm atividade biológica e são empregados no estudo de proteínas fosfatadas. A preparação do vanadato de sódio (Na₃VO₄) pode ser feita a partir da reação do seu óxido (V₂O₃) e o hidróxido de sódio (NaOH), representada na equação:\n\nV₂O₃ (s) + 6NaOH (aq) → 2Na₃VO₄ (aq) + 3H₂O (l)\n\nComparando-se o ânion vanadato e o ânion fosfato, [lacuna 1]. Nas condições da reação apresentada, V₂O₃ é classificado como óxido [lacuna 2].\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "ambos contêm um elemento metálico – ácido.",
+        "b": "ambos contêm um elemento metálico – neutro.",
+        "c": "apenas um deles contém um elemento metálico – básico.",
+        "d": "apenas um deles contém um elemento metálico – ácido.",
+        "e": "ambos contêm um elemento metálico – básico."
+      },
+      "resposta": "d",
+      "explicacao": "O vanadato (VO₄³⁻) contém um metal (vanádio), diferente do fosfato (PO₄³⁻), cujo átomo central (fósforo) é um ametal; como o V₂O₃ reage com uma base (NaOH) formando um sal, ele se comporta como um óxido ácido nessa reação.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "quimica-224",
+      "enunciado": "O gás natural veicular (GNV) é um combustível automotivo disponibilizado por postos de abastecimento credenciados. Os veículos automotores, originalmente fabricados para funcionarem apenas com combustíveis líquidos, são adaptados por um kit que permite o funcionamento também com o GNV. Uma das partes desse kit é o reservatório de gás, feito de material metálico não expansível, sendo normalmente instalado no compartimento traseiro do veículo.\n\nUm reservatório de GNV com massa de gás (m₁) e pressão (P₁) igual a 40 atm é reabastecido com esse gás, em temperatura constante, até a pressão interna do compartimento atingir a massa de gás (m₂) e pressão (P₂) igual a 160 atm. Considerando que a composição do GNV seja constante, a comparação das massas m₁ e m₂ é dada por:",
+      "alternativas": {
+        "a": "m₂ = 8m₁",
+        "b": "m₂ = 4m₁",
+        "c": "m₂ = (1/8)m₁",
+        "d": "m₂ = (1/4)m₁",
+        "e": "m₂ = 2m₁"
+      },
+      "resposta": "b",
+      "explicacao": "Em temperatura e volume constantes, a pressão de um gás é proporcional à quantidade de matéria (massa): se a pressão quadruplicou (de 40 para 160 atm), a massa de gás no reservatório também quadruplicou, ou seja, m₂=4m₁.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "quimica-225",
+      "enunciado": "Muitos atletas empregam em suas dietas um suplemento alimentar de proteína do soro do leite, denominado whey protein, comercializado na forma de pó, para ser misturado em água. Considere uma embalagem que contenha uma colher medidora, cujas instruções de preparo indicam usar 3 medidas de whey protein misturadas em água até completar 250 mL de bebida. Cada colher medidora contém 7,5 g de proteína.\n\nA concentração em massa de proteína na bebida preparada de acordo com as instruções da embalagem é igual a",
+      "alternativas": {
+        "a": "30,0 g/L.",
+        "b": "63,5 g/L.",
+        "c": "22,5 g/L.",
+        "d": "7,5 g/L.",
+        "e": "90,0 g/L."
+      },
+      "resposta": "e",
+      "explicacao": "Três medidas de 7,5 g totalizam 22,5 g de proteína dissolvida em 250 mL (0,25 L); a concentração em massa é 22,5/0,25=90,0 g/L.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "quimica-226",
+      "enunciado": "O eugenol é uma substância extraída de certas plantas e apresenta o aroma característico da especiaria conhecida como cravo-da-Índia. O aroma do eugenol em solução pode desaparecer, pois, dependendo do pH da solução, a molécula de eugenol transforma-se em uma espécie iônica que não tem aroma (a molécula de eugenol tem fórmula estrutural com um anel benzênico, um grupo –OH fenólico, um grupo metoxi –OCH₃ e uma cadeia lateral alílica; em meio básico, o grupo –OH perde o próton e forma um fenolato, a espécie iônica sem aroma). A fórmula molecular do eugenol e a faixa de valor do pH que a sua solução exibirá aroma intenso são",
+      "alternativas": {
+        "a": "C₁₀H₁₂O₂ e pH > 7",
+        "b": "C₉H₁₂O₂ e pH < 7",
+        "c": "C₁₀H₁₂O₂ e pH < 7",
+        "d": "C₁₀H₁₁O₂ e pH = 7",
+        "e": "C₉H₁₁O₂ e pH = 7"
+      },
+      "resposta": "c",
+      "explicacao": "O eugenol tem fórmula molecular C₁₀H₁₂O₂. Em meio ácido ou neutro (pH<7), o grupo fenólico permanece protonado e a molécula mantém seu aroma; em meio básico, o -OH perde o próton e forma o fenolato (íon inodoro).",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "quimica-227",
+      "enunciado": "No mês de junho de 2025, o verão europeu e o inverno brasileiro apresentaram recordes de temperaturas. Em Portugal foi registrada a temperatura máxima de 46,6 ºC; no mesmo período, uma cidade brasileira do estado de Santa Catarina registrou a temperatura mínima de −10 ºC.\n\nA tabela a seguir apresenta as temperaturas de fusão e de ebulição de algumas substâncias químicas:\n\n| Substância | Temperatura de fusão (ºC) | Temperatura de ebulição (ºC) |\n|---|---|---|\n| 1 | −19 | 180 |\n| 2 | 34 | 297 |\n| 3 | −12 | 133 |\n| 4 | −84 | 22 |\n| 5 | 53 | 289 |\n\nConsiderando as temperaturas recordes registradas em Portugal e no estado de Santa Catarina, a substância química da tabela que se apresentaria no estado sólido nas condições térmicas de ambos os lugares, sem mudança de estado físico, sob pressão atmosférica, é a de número",
+      "alternativas": {
+        "a": "2.",
+        "b": "1.",
+        "c": "3.",
+        "d": "4.",
+        "e": "5."
+      },
+      "resposta": "e",
+      "explicacao": "Para permanecer sólida tanto nos 46,6 ºC de Portugal quanto nos −10 ºC de Santa Catarina, a substância precisa ter ponto de fusão acima de 46,6 ºC; apenas a substância 5 (fusão em 53 ºC) atende a essa condição, permanecendo sólida em toda a faixa de temperatura.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "quimica-228",
+      "enunciado": "Em uma aula de química, foi realizado um experimento em três etapas: na etapa 1, mediu-se a temperatura da água empregada no experimento (20 ºC, em um béquer com 100 mL de água). Na etapa 2, adicionou-se à água, sob agitação (usando um agitador magnético), 0,1 mol de cloreto de cálcio anidro (CaCl₂), uma substância empregada em produtos de uso doméstico para evitar a formação de mofo e umidade em armários — a adição foi sinalizada com um pictograma de risco. Na etapa 3, foi anotada a temperatura máxima atingida ao final do processo de dissolução do cloreto de cálcio anidro na água (35 ºC).\n\nA dissolução do cloreto de cálcio anidro em água é um processo [lacuna 1] e a sua entalpia padrão de dissolução (ΔH⁰ dissolução) é [lacuna 2].\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "exotérmico – maior do que zero.",
+        "b": "endotérmico – menor do que zero.",
+        "c": "exotérmico – menor do que zero.",
+        "d": "endotérmico – maior do que zero.",
+        "e": "endotérmico – igual a zero."
+      },
+      "resposta": "c",
+      "explicacao": "A temperatura da água subiu de 20 para 35 ºC durante a dissolução do CaCl₂, evidenciando liberação de calor pela solução — um processo exotérmico, com ΔH de dissolução negativo (menor que zero).",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "quimica-229",
+      "enunciado": "Considere o mesmo experimento da questão anterior (dissolução de 0,1 mol de cloreto de cálcio anidro, CaCl₂, em 100 mL de água). Na solução obtida na etapa 3, a concentração de íons cloreto (Cl⁻) é igual a",
+      "alternativas": {
+        "a": "0,2 mol/L.",
+        "b": "1 mol/L.",
+        "c": "0,1 mol/L.",
+        "d": "0,02 mol/L.",
+        "e": "2 mol/L."
+      },
+      "resposta": "e",
+      "explicacao": "A dissolução de 0,1 mol de CaCl₂ libera 0,2 mol de Cl⁻ (2 íons cloreto por fórmula unitária) em 100 mL (0,1 L) de solução, resultando em uma concentração de 0,2/0,1=2 mol/L.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "quimica-230",
+      "enunciado": "No experimento das questões anteriores, o pictograma que sinaliza risco para o manuseio do cloreto de cálcio anidro (símbolo de segurança padronizado internacionalmente, sistema GHS: losango de borda vermelha) indica que essa substância é",
+      "alternativas": {
+        "a": "corrosiva.",
+        "b": "tóxica.",
+        "c": "inflamável.",
+        "d": "explosiva.",
+        "e": "oxidante."
+      },
+      "resposta": "a",
+      "explicacao": "O pictograma de losango com borda vermelha do sistema GHS que mostra corrosão de uma superfície e de uma mão indica que a substância é corrosiva, causando queimaduras ou danos a materiais e tecidos vivos.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "quimica-231",
+      "enunciado": "O gás hidrogênio (H₂) e o gás oxigênio (O₂) podem ser obtidos a partir da eletrólise da água com uso de uma tecnologia que emprega um eletrolisador com diafragma umedecido com solução de hidróxido de potássio (KOH), denominada hidrólise alcalina da água. O esquema desse eletrolisador tem um eletrodo negativo (cátodo) de um lado do diafragma, por onde entra H₂O e sai H₂, e um eletrodo positivo (ânodo) do outro lado, por onde sai ½O₂, com os íons OH⁻ migrando através do diafragma do cátodo para o ânodo.\n\nAs semirreações de redução e os potenciais padrão de redução (E⁰) das espécies envolvidas nessa eletrólise são:\n\nO₂ (g) + 2H₂O (l) + 4e⁻ → 4OH⁻ (aq)  E⁰ = +0,40 V\n2H₂O (l) + 2e⁻ → H₂ (g) + 2OH⁻ (aq)  E⁰ = −0,83 V\n\nNesse processo eletrolítico, o gás que é recolhido no cátodo e o valor do potencial teórico mínimo que deve ser aplicado entre os terminais elétricos desse eletrolisador para seu funcionamento são, respectivamente,",
+      "alternativas": {
+        "a": "O₂ e 1,23 V.",
+        "b": "H₂ e 1,23 V.",
+        "c": "H₂ e 2,06 V.",
+        "d": "O₂ e 2,06 V.",
+        "e": "H₂ e 0,43 V."
+      },
+      "resposta": "b",
+      "explicacao": "O cátodo é onde ocorre a redução, ou seja, a formação de H₂ conforme a equação fornecida; o potencial mínimo necessário para a eletrólise é a diferença entre os potenciais de redução das duas semirreações: 0,40−(−0,83)=1,23 V.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "quimica-232",
+      "enunciado": "O leite de amêndoas é uma bebida preparada a partir da trituração das amêndoas misturadas em água e é indicada para pessoas com intolerância à lactose, como substituição do leite animal. O processo de obtenção do leite de amêndoas (fase líquida resultante ao final do processo) segue as etapas: amêndoas + água → agitação e trituração → \"mistura 1\" → \"separação 1\" → fase sólida + fase líquida (o leite de amêndoas). De acordo com esse processo, a mistura 1 é ______ e a separação 1 refere-se ao método denominado ______.\n\nAs lacunas são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "homogênea – filtração.",
+        "b": "homogênea – destilação.",
+        "c": "homogênea – cristalização.",
+        "d": "heterogênea – filtração.",
+        "e": "heterogênea – cristalização."
+      },
+      "resposta": "d",
+      "explicacao": "A mistura de amêndoas trituradas em água é heterogênea, pois contém partículas sólidas visíveis em suspensão; a separação da fase sólida da fase líquida (o leite de amêndoas) é feita por filtração.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "quimica-233",
+      "enunciado": "A azia é a sensação de queimação no estômago e na garganta, causada pelo refluxo para o esôfago do suco gástrico que contém o ácido clorídrico (HCl). Os compostos 1 (NaHCO₃) e 2 (Al(OH)₃) são componentes de medicamentos empregados no tratamento da azia. O pH do suco gástrico e as funções inorgânicas às quais os compostos 1 e 2 pertencem são, respectivamente,",
+      "alternativas": {
+        "a": "pH maior que 7, ácido e base.",
+        "b": "pH maior que 7, ácido e sal.",
+        "c": "pH maior que 7, sal e base.",
+        "d": "pH menor que 7, sal e ácido.",
+        "e": "pH menor que 7, sal e base."
+      },
+      "resposta": "e",
+      "explicacao": "O suco gástrico, ácido, tem pH menor que 7; o NaHCO₃ é um sal (bicarbonato de sódio) e o Al(OH)₃ é uma base, ambos usados para neutralizar o excesso de acidez.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "quimica-234",
+      "enunciado": "A acetilcisteína (massa molar = 162 g/mol) é um medicamento expectorante indicado para tratamento de doenças respiratórias. Uma de suas formas farmacêuticas, indicadas para adultos, consiste em sachês que contêm 600 mg de acetilcisteína. A preparação da medicação é feita a partir da dissolução do conteúdo de cada sachê em meio copo de água, resultando em 100 mL de solução do medicamento para ser ingerida pelo paciente. Considerando que 1 mg é igual a 10⁻³ g e 1 mL é igual a 10⁻³ L, a concentração de acetilcisteína, em g/L, na solução do medicamento para a ingestão do paciente é",
+      "alternativas": {
+        "a": "0,6 g/L.",
+        "b": "0,06 g/L.",
+        "c": "6 g/L.",
+        "d": "60 g/L.",
+        "e": "600 g/L."
+      },
+      "resposta": "c",
+      "explicacao": "Um sachê tem 600 mg (0,6 g) de acetilcisteína dissolvidos em 100 mL (0,1 L) de solução: a concentração é 0,6/0,1=6 g/L.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "quimica-235",
+      "enunciado": "Com base na fórmula estrutural da acetilcisteína (ver questão anterior) — uma molécula com um anel simples contendo um grupo tiol (-SH), um grupo amida (ligação -NH-CO-CH₃) e um grupo ácido carboxílico (-COOH) — a fórmula molecular da acetilcisteína é",
+      "alternativas": {
+        "a": "C₅H₉NO₃S",
+        "b": "C₅H₇NO₃S",
+        "c": "C₅H₈NO₃S",
+        "d": "C₄H₆NO₃S",
+        "e": "C₄H₇NO₃S"
+      },
+      "resposta": "a",
+      "explicacao": "A fórmula molecular da acetilcisteína, coerente com os grupos tiol, amida e ácido carboxílico descritos e a massa molar de 162 g/mol, é C₅H₉NO₃S.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "quimica-236",
+      "enunciado": "Na fórmula estrutural da acetilcisteína (ver questões anteriores), os grupos funcionais destacados — o grupo carboxila terminal (1) e o grupo da ligação entre o nitrogênio e a carbonila da porção acetil (2) — pertencem, respectivamente, às funções orgânicas",
+      "alternativas": {
+        "a": "ácido carboxílico e amina.",
+        "b": "ácido carboxílico e amida.",
+        "c": "álcool e amina.",
+        "d": "cetona e amida.",
+        "e": "éter e amida."
+      },
+      "resposta": "b",
+      "explicacao": "O grupo -COOH terminal é um ácido carboxílico; a ligação -NH-CO- entre o nitrogênio e a carbonila da porção acetil caracteriza uma amida.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "quimica-237",
+      "enunciado": "Na natureza, os isótopos do elemento químico lutécio (Lu) fazem parte do grupo das chamadas terras-raras e são representados por ¹⁷⁵₇₁Lu e ¹⁷⁶₇₁Lu. Os isótopos naturais do lutécio são eletricamente neutros e diferem entre si quanto ao número",
+      "alternativas": {
+        "a": "de prótons e de elétrons.",
+        "b": "de massa e de nêutrons.",
+        "c": "de prótons e de nêutrons.",
+        "d": "de elétrons e de nêutrons.",
+        "e": "de massa e de elétrons."
+      },
+      "resposta": "b",
+      "explicacao": "Os dois isótopos de lutécio têm o mesmo número de prótons (71, o que define o elemento), mas diferem no número de massa (175 e 176) e, consequentemente, no número de nêutrons.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "quimica-238",
+      "enunciado": "O iodixanol é um meio de contraste iodado (MCI) que, quando administrado via endovenosa, permite a distinção de estruturas anatômicas durante procedimentos radiológicos. Uma das formas farmacêuticas comercializadas do iodixanol apresenta concentração de 652 mg/mL em água e outros excipientes injetáveis. Cada mL dessa solução contém 652 mg de iodixanol, equivalente a 320 mg de iodo. Na forma farmacêutica descrita, a porcentagem, em massa, de iodo no iodixanol é",
+      "alternativas": {
+        "a": "2,0%.",
+        "b": "4,9%.",
+        "c": "20%.",
+        "d": "49%.",
+        "e": "51%."
+      },
+      "resposta": "d",
+      "explicacao": "A porcentagem em massa de iodo é (320 mg de iodo / 652 mg de iodixanol) × 100 ≈ 49%.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "quimica-239",
+      "enunciado": "O iodixanol (ver questão anterior) é uma molécula orgânica não iônica, com múltiplos grupos hidroxila (-OH) e grupos amida em sua estrutura, característica que confere a ele alta solubilidade em água. O tipo mais intenso de interação intermolecular que ocorre entre as moléculas de água e as de iodixanol é",
+      "alternativas": {
+        "a": "dipolo instantâneo-dipolo induzido.",
+        "b": "dipolo induzido-dipolo permanente.",
+        "c": "íon-dipolo permanente.",
+        "d": "íon-dipolo induzido.",
+        "e": "ligação de hidrogênio."
+      },
+      "resposta": "e",
+      "explicacao": "Como o iodixanol é uma molécula não iônica (não há íons), a interação mais intensa com a água (que também não é iônica) é a ligação de hidrogênio, favorecida pelos múltiplos grupos hidroxila e amida da molécula.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "quimica-240",
+      "enunciado": "A alta exposição à radiação leva à decomposição da água nas células do corpo e à formação de, entre outros produtos, peróxido de hidrogênio (H₂O₂), que é tóxico e pode causar lesão celular. O H₂O₂ também é produzido pelo nosso corpo nas mitocôndrias durante a geração de energia. Como proteção biológica, nas células também existe a catalase, uma enzima que atua como catalisador na decomposição do H₂O₂ em água e gás oxigênio, conforme a reação: 2H₂O₂ (aq) → 2H₂O (l) + O₂ (g). Na reação, a velocidade de formação do O₂ pela ação da catalase",
+      "alternativas": {
+        "a": "aumenta, pois a energia de ativação aumenta.",
+        "b": "diminui, pois a energia de ativação aumenta.",
+        "c": "diminui, pois a energia de ativação diminui.",
+        "d": "aumenta, pois a energia de ativação diminui.",
+        "e": "permanece a mesma, pois a ação da catalase não altera a energia de ativação."
+      },
+      "resposta": "d",
+      "explicacao": "A catalase, como qualquer catalisador, diminui a energia de ativação necessária para a reação, o que aumenta a velocidade de decomposição do H₂O₂ e, portanto, a velocidade de formação do O₂.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "quimica-241",
+      "enunciado": "O naproxeno é um anti-inflamatório utilizado para o alívio de sintomas de febre, dor de cabeça, dor muscular, cólica menstrual e artrite. Na fórmula estrutural do naproxeno (2-(6-metoxinaftalen-2-il)propanoico), com os átomos de carbono numerados de 1 a 14 (o carbono 1 é o carbono do grupo metóxi -OCH₃; os carbonos 2 a 11 formam o núcleo naftalênico; o carbono 7 está ligado ao anel aromático, a um hidrogênio, ao grupo metila (carbono 12) e ao grupo carboxila (carbonos 13-14)), o átomo de carbono quiral, ou assimétrico, está indicado pelo número",
+      "alternativas": {
+        "a": "1.",
+        "b": "5.",
+        "c": "7.",
+        "d": "13.",
+        "e": "14."
+      },
+      "resposta": "c",
+      "explicacao": "O carbono 7, ligado simultaneamente ao anel aromático, a um hidrogênio, ao grupo metila e ao grupo carboxila — quatro grupos diferentes entre si —, é o centro estereogênico (carbono quiral) da molécula do naproxeno.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "quimica-242",
+      "enunciado": "A figura mostra a estrutura molecular do ácido carmínico, um pigmento conhecido como ácido carmim, extraído do inseto cochonilha (Dactylopius coccus) e usado na produção de alimentos e cosméticos.\n\n*Descrição da estrutura: um núcleo antraquinônico (dois grupos cetona C=O em um sistema de anéis aromáticos fundidos), com quatro grupos hidroxila (OH) ligados diretamente aos anéis aromáticos, um grupo ácido carboxílico (COOH) e uma metila, além de um substituinte glicosídico (anel de açúcar) com várias hidroxilas e um grupo CH2OH ligado a um dos anéis.*\n\nO corante carmim, obtido a partir de um animal que ______, apresenta as funções orgânicas ______ e ______ em sua estrutura molecular. As lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "circulação fechada – éter – amida.",
+        "b": "respiração cutânea – fenol – ácido carboxílico.",
+        "c": "patas articuladas – álcool – cetona.",
+        "d": "exoesqueleto de quitina – éster – amina.",
+        "e": "fecundação externa – aldeído – haleto orgânico."
+      },
+      "resposta": "c",
+      "explicacao": "A cochonilha é um inseto (artrópode), com patas articuladas; na estrutura do ácido carmínico, as hidroxilas ligadas ao anel de açúcar (não aromático) caracterizam a função álcool, enquanto os grupos C=O do núcleo antraquinônico caracterizam a função cetona.",
+      "formato": "direta",
+      "origem": "unesp-2026-1"
+    },
+    {
+      "id": "quimica-243",
+      "enunciado": "Cientistas da Faculdade de Ciências Farmacêuticas da Universidade Estadual Paulista (Unesp) estão propondo o uso como combustível da lentilha-d'água (Lemna minor), uma planta aquática de água doce comumente usada para retirar poluentes da água em criações de peixes. O trabalho faz parte de um amplo projeto de pesquisa em economia circular e biotecnologia premiado pela Organização das Nações Unidas (ONU). A lentilha-d'água foi submetida a um pré-tratamento para dela se obter um substrato, ao qual foram adicionados microrganismos capazes de converter a biomassa da lentilha-d'água em biogás. O composto final foi colocado em frascos e monitorado quanto à produção de metano e hidrogênio. O volume de gases gerados foi medido em diferentes momentos, revelando que a produção de metano alcançou 78% e a de hidrogênio, 42% em relação ao total de gases emitidos, confirmando a eficiência do processo.\n\nRelacionada com o conceito de economia circular e com a produção de gás metano, a pesquisa tratada no excerto",
+      "alternativas": {
+        "a": "permite incorporar subprodutos de atividades econômicas para gerar energia renovável de baixo custo, a partir do metabolismo de arqueas anaeróbicas.",
+        "b": "possibilita a extração de energia da biomassa orgânica descartada nas águas, a partir da ação de bactérias aeróbicas.",
+        "c": "impede a emissão de gases responsáveis pelo fenômeno do aquecimento global, a partir da oferta de energia limpa gerada pela atividade de arqueas aeróbicas.",
+        "d": "busca gerar um modelo de produção de energia autossuficiente para áreas rurais, a partir da ação de bactérias anaeróbicas.",
+        "e": "produz compostos orgânicos reutilizáveis destinados ao setor primário da economia, a partir do metabolismo de cianobactérias."
+      },
+      "resposta": "a",
+      "explicacao": "O processo descrito usa micro-organismos (arqueas metanogênicas, que realizam metabolismo anaeróbico) para converter biomassa residual (subproduto de outra atividade econômica, a criação de peixes) em biogás, gerando energia renovável de baixo custo — um exemplo de economia circular.",
+      "formato": "direta",
+      "origem": "unesp-2026-1"
+    },
+    {
+      "id": "quimica-244",
+      "enunciado": "Analise a tabela que fornece valores de constantes de dissociação (Ka) de dois ácidos e (Kb) de duas bases a 25 ºC.\n\n| Ácido | Ka | Base | Kb |\n|---|---|---|---|\n| Clorídrico (HCl) | Muito grande | Hidróxido de sódio (NaOH) | Muito grande |\n| Acético (CH3COOH) | 1,8 × 10⁻⁵ | Amônia (NH3) | 1,8 × 10⁻⁵ |\n\nConsidere quatro soluções aquosas 0,1 mol/L dos sais formados pelas reações entre os ácidos e bases citados na tabela:\n\n1. NaCl\n2. Na(CH3COO)\n3. NH4(CH3COO)\n4. NH4Cl\n\nDentre essas soluções, duas que apresentam pH aproximadamente igual a 7 são as de números",
+      "alternativas": {
+        "a": "1 e 3.",
+        "b": "1 e 4.",
+        "c": "1 e 2.",
+        "d": "2 e 3.",
+        "e": "3 e 4."
+      },
+      "resposta": "a",
+      "explicacao": "NaCl vem de ácido forte (HCl) e base forte (NaOH), resultando em sal neutro (pH≈7); como Ka(ácido acético)=Kb(amônia), o sal NH₄(CH₃COO), de ácido fraco e base fraca de força equivalente, também tem pH próximo de 7 — diferente de Na(CH₃COO) (básico) e NH₄Cl (ácido).",
+      "formato": "direta",
+      "origem": "unesp-2026-1"
+    },
+    {
+      "id": "quimica-245",
+      "enunciado": "Há no comércio diferentes tipos de velas de aniversário que produzem faíscas enquanto estão acesas. Entre essas velas há as que contêm magnésio metálico em pó, e a produção de faíscas resulta da reação química representada no diagrama (magnésio metálico reagindo com oxigênio do ar, formando óxido de magnésio, com liberação de luz e calor).\n\nEssa reação química é",
+      "alternativas": {
+        "a": "exotérmica, na qual o magnésio perde elétrons e, portanto, atua como oxidante.",
+        "b": "endotérmica, na qual o magnésio perde elétrons e, portanto, atua como redutor.",
+        "c": "exotérmica, na qual o magnésio ganha elétrons e, portanto, atua como redutor.",
+        "d": "endotérmica, na qual o magnésio ganha elétrons e, portanto, atua como oxidante.",
+        "e": "exotérmica, na qual o magnésio perde elétrons e, portanto, atua como redutor."
+      },
+      "resposta": "e",
+      "explicacao": "A formação de faíscas com liberação de luz e calor indica uma reação exotérmica; nela, o magnésio metálico perde elétrons (é oxidado) ao formar o óxido de magnésio, atuando como agente redutor.",
+      "formato": "direta",
+      "origem": "unesp-2026-1"
+    },
+    {
+      "id": "quimica-246",
+      "enunciado": "Um dos principais usos do petróleo é na produção da gasolina, uma mistura de hidrocarbonetos com cadeias carbônicas de 5 a 11 átomos de carbono. Porém, a fração do petróleo correspondente à gasolina obtida diretamente pela destilação fracionada do petróleo é insuficiente para suprir as necessidades de consumo e, além do mais, é uma gasolina de baixa qualidade. A qualidade de uma gasolina é medida por sua octanagem. Gasolinas com hidrocarbonetos lineares apresentam baixa octanagem, enquanto as gasolinas com maior teor de hidrocarbonetos de cadeias ramificadas apresentam maior octanagem.\n\nPor essas razões, é necessário, no processo de refino do petróleo, aumentar a quantidade e a qualidade da gasolina produzida. Para aumentar a quantidade, são empregados dois processos: o craqueamento e a alquilação. Para aumentar a qualidade, emprega-se o processo de isomerização, por meio do qual cadeias lineares dos hidrocarbonetos são transformadas em cadeias ramificadas.\n\nExamine as seguintes equações de reações químicas:\n\nI. CH3(CH2)6CH3 → CH3C(CH3)2CH2CH(CH3)CH3\nII. C4H10 + C4H8 → C8H18\nIII. C16H34 → C8H16 + C8H18\n\nOs processos de craqueamento, alquilação e isomerização são exemplificados, respectivamente, pelas equações de números",
+      "alternativas": {
+        "a": "III, I e II.",
+        "b": "III, II e I.",
+        "c": "I, III e II.",
+        "d": "II, III e I.",
+        "e": "I, II e III."
+      },
+      "resposta": "b",
+      "explicacao": "A equação I mantém a mesma fórmula molecular C8H18, apenas rearranjando a cadeia linear em ramificada — isomerização; a II combina duas moléculas menores (C4H10+C4H8) em uma maior (C8H18) — alquilação; a III quebra uma cadeia longa (C16H34) em duas menores — craqueamento. A ordem craqueamento, alquilação, isomerização corresponde, portanto, a III, II e I.",
+      "formato": "direta",
+      "origem": "unesp-2026-1"
+    },
+    {
+      "id": "quimica-247",
+      "enunciado": "Os triglicerídeos são os principais constituintes dos óleos e gorduras. A fórmula apresentada representa genericamente um triglicerídeo, em que R, R' e R'' são cadeias formadas por átomos de carbono e hidrogênio:\n\nH2C–O–C(=O)–R\n|\nHC–O–C(=O)–R'\n|\nH2C–O–C(=O)–R''\n\nAnalisando essa fórmula, nota-se a presença da função orgânica oxigenada ______. A digestão dos triglicerídeos no organismo humano consiste na hidrólise dessas substâncias, que produz ______ e glicerol. Esse processo é complexo e ocorre pela ação de enzimas presentes no suco ______, conhecidas como ______. Para que tal ação seja eficiente, ocorre primeiramente uma emulsificação dos óleos e gorduras, fracionando-os em porções menores (micelas). Essa emulsificação é possibilitada pela ação detergente de sais presentes na bile.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "cetona – ácidos graxos – entérico – amilases.",
+        "b": "éster – ácidos graxos – pancreático – proteases.",
+        "c": "éter – ácidos graxos – pancreático – lipases.",
+        "d": "éter – ácidos carboxílicos – gástrico – proteases.",
+        "e": "éster – ácidos carboxílicos – pancreático – lipases."
+      },
+      "resposta": "e",
+      "explicacao": "Os triglicerídeos apresentam a função éster (grupo -C(=O)-O-); sua hidrólise, catalisada pelas lipases do suco pancreático, produz ácidos graxos e glicerol — processo facilitado pela emulsificação prévia promovida pelos sais biliares.",
+      "formato": "direta",
+      "origem": "unesp-2026-1"
+    },
+    {
+      "id": "quimica-248",
+      "enunciado": "A Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec) aprovou o uso da camada fina de tecido que envolve imediatamente o feto durante a gravidez, geralmente descartada após o parto, como curativo biológico para tratar queimaduras. Quando aplicado sobre feridas após queimaduras, esse tecido forma uma barreira contra bactérias e apresenta componentes que aceleram a cicatrização e aliviam a dor.\n\nO tecido aprovado para o tratamento de queimaduras compõe",
+      "alternativas": {
+        "a": "a placenta.",
+        "b": "o âmnio.",
+        "c": "o cório.",
+        "d": "o alantoide.",
+        "e": "o saco vitelínico."
+      },
+      "resposta": "b",
+      "explicacao": "O tecido aprovado para curativos de queimadura, por formar uma barreira contra bactérias e acelerar a cicatrização, é o âmnio, membrana que envolve diretamente o feto durante a gestação.",
+      "formato": "direta",
+      "origem": "unesp-2026-1"
+    },
+    {
+      "id": "quimica-249",
+      "enunciado": "Considere três esferas metálicas, 1, 2 e 3, de igual volume, constituídas pelos elementos cuja localização na Classificação Periódica está indicada no quadro seguinte.\n\n| Esfera | Localização do elemento constituinte na Classificação Periódica |\n|---|---|\n| 1 | Grupo 2; 3º período |\n| 2 | Grupo 13; 3º período |\n| 3 | Grupo 6; 4º período |\n\nCom base nessas informações, é possível prever que a ordem crescente das respectivas massas m1, m2 e m3 dessas três esferas é:",
+      "alternativas": {
+        "a": "m3 < m2 < m1",
+        "b": "m2 < m1 < m3",
+        "c": "m2 < m3 < m1",
+        "d": "m1 < m2 < m3",
+        "e": "m1 < m3 < m2"
+      },
+      "resposta": "d",
+      "explicacao": "Para o mesmo volume, a massa da esfera é proporcional à densidade do elemento: o magnésio (grupo 2, período 3, m1) tem a menor densidade, seguido pelo alumínio (grupo 13, período 3, m2) e pelo cromo (grupo 6, período 4, m3, o mais denso), resultando em m1<m2<m3.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "quimica-250",
+      "enunciado": "O benzeno líquido, C6H6(l), um importante solvente industrial, pode ser obtido diretamente pela reação do acetileno gasoso, C2H2(g), em presença de ferro como catalisador. A seguir, são fornecidas as entalpias de formação de C2H2(g) e de C6H6(l).\n\n2C(s) + H2(g) → C2H2(g); ΔH = 227 kJ/mol\n6C(s) + 3H2(g) → C6H6(l); ΔH = 49 kJ/mol\n\nTendo como base essas informações, a reação de obtenção de 1 mol de benzeno líquido a partir do acetileno gasoso",
+      "alternativas": {
+        "a": "libera 632 kJ, sendo, portanto, um processo endotérmico.",
+        "b": "absorve 632 kJ, sendo, portanto, um processo endotérmico.",
+        "c": "libera 632 kJ, sendo, portanto, um processo exotérmico.",
+        "d": "libera 178 kJ, sendo, portanto, um processo exotérmico.",
+        "e": "absorve 178 kJ, sendo, portanto, um processo endotérmico."
+      },
+      "resposta": "c",
+      "explicacao": "Pela lei de Hess, a formação de 1 mol de benzeno a partir de 3 mol de acetileno tem ΔH = ΔHf(benzeno) − 3×ΔHf(acetileno) = 49 − 3×227 = −632 kJ, um valor negativo que indica um processo exotérmico, liberando 632 kJ.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "quimica-251",
+      "enunciado": "Com o intuito de preparar uma laranjada, 100 mL de sumo de laranja, cujo pH é igual a 3,0, foram diluídos com água suficiente para completar o volume final de 1 L. O pH da laranjada obtida após a diluição foi igual a",
+      "alternativas": {
+        "a": "4,0.",
+        "b": "0,3.",
+        "c": "0,4.",
+        "d": "2,0.",
+        "e": "5,0."
+      },
+      "resposta": "a",
+      "explicacao": "Diluir 10 vezes uma solução ácida (de 100 mL para 1 L) reduz a concentração de H⁺ também por um fator de 10, o que corresponde a um aumento de uma unidade no pH: de 3,0 para 4,0.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "quimica-252",
+      "enunciado": "Uma fina camada de prata foi depositada sobre uma peça metálica, por meio da eletrólise de uma solução aquosa contendo íons de prata (Ag+). O processo foi realizado pela circulação de uma corrente elétrica constante de 75 mA, durante 3 h, pela solução. Sabendo que a constante de Faraday é igual a 96 500 C/mol de elétrons, a quantidade de prata depositada no processo, expressa em mol de prata, foi de, aproximadamente,",
+      "alternativas": {
+        "a": "0,004.",
+        "b": "0,006.",
+        "c": "0,010.",
+        "d": "0,008.",
+        "e": "0,002."
+      },
+      "resposta": "d",
+      "explicacao": "A carga elétrica é Q=i×t=0,075 A×10.800 s=810 C; dividindo pela constante de Faraday (96.500 C/mol), obtém-se cerca de 0,0084 mol de elétrons, que corresponde à mesma quantidade de mol de Ag depositada (1 elétron por íon Ag⁺ reduzido).",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "quimica-253",
+      "enunciado": "O caproato de etila, composto empregado como aromatizante na indústria alimentícia, é representado pela seguinte fórmula estrutural: CH3(CH2)4–C(=O)–O–CH2CH3.\n\nEsse composto é obtido a partir do ácido caproico, cuja fórmula estrutural é CH3(CH2)4–C(=O)–OH.\n\nA fórmula estrutural do composto orgânico com o qual o ácido caproico reage para formar o caproato de etila é:",
+      "alternativas": {
+        "a": "H–C(=O)–O–CH2CH3 (formiato de etila).",
+        "b": "CH3–CH2–OH (etanol).",
+        "c": "CH3–CH(OH)–CH2–CH3 (butan-2-ol).",
+        "d": "CH3–C(=O)–CH3 (propanona/acetona).",
+        "e": "(CH3)2CH–CH2–OH (2-metilpropan-1-ol / álcool isobutílico)."
+      },
+      "resposta": "b",
+      "explicacao": "A reação de esterificação entre o ácido caproico e um álcool forma o caproato de etila e água; como o grupo -O-CH2CH3 do éster corresponde ao radical etila, o álcool usado deve ser o etanol (CH3CH2OH).",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "quimica-254",
+      "enunciado": "Analisando a fórmula apresentada, verifica-se que o número de átomos de carbono quiral presente na molécula do limoneno é:\n\n*(Contexto: limoneno, um líquido incolor, volátil e oleoso encontrado nas cascas de frutas cítricas como limões e laranjas, e de alguns pinheiros, é um solvente orgânico utilizado em desengraxantes, desengordurantes e no controle de pragas agrícolas. A estrutura molecular do limoneno é um anel de cicloexeno com um grupo metila em uma posição do anel e um grupo isopropenil [C(CH3)=CH2] em outra posição do anel — a molécula do limoneno, 4-isopropenil-1-metilcicloexeno.)*",
+      "alternativas": {
+        "a": "0.",
+        "b": "2.",
+        "c": "1.",
+        "d": "3.",
+        "e": "4."
+      },
+      "resposta": "c",
+      "explicacao": "O único carbono do limoneno ligado a quatro grupos diferentes entre si (o carbono do anel que porta o grupo metila, parte do anel de um lado e do outro, e a ligação ao grupo isopropenil) é o carbono estereogênico da molécula, havendo apenas 1 centro quiral.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "quimica-255",
+      "enunciado": "Com o passar do tempo, o óxido de magnésio (MgO) puro, quando armazenado em um frasco não hermeticamente fechado, torna-se impuro, pois absorve umidade do ar transformando-se parcialmente em hidróxido de magnésio, Mg(OH)2, conforme a seguinte reação:\n\nMgO(s) + H2O(g) → Mg(OH)2(s)\n\nEssa reação pode ser revertida por aquecimento, regenerando-se, assim, o óxido de magnésio:\n\nMg(OH)2(s) → MgO(s) + H2O(g)\n\nUma amostra de 5,8 g de óxido de magnésio impuro foi colocada em um cadinho e submetida a uma calcinação. Após o resfriamento do cadinho, verificou-se que a massa da mesma foi 0,18 g menor do que a inicial.\n\nCom base nessas informações, o grau de pureza do óxido de magnésio impuro nessa amostra era cerca de",
+      "alternativas": {
+        "a": "50%.",
+        "b": "90%.",
+        "c": "20%.",
+        "d": "40%.",
+        "e": "70%."
+      },
+      "resposta": "b",
+      "explicacao": "A perda de massa (0,18 g) corresponde à água liberada na conversão de Mg(OH)2 de volta a MgO durante a calcinação; a partir da estequiometria da reação, calcula-se a quantidade de Mg(OH)2 presente na amostra original e, por diferença, o grau de pureza do MgO, que resulta em cerca de 90%.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "quimica-256",
+      "enunciado": "A bula de um xarope antitussígeno informa que, entre outros componentes, há 100 mg de iodeto de potássio, KI, em cada dose de 5 mL do xarope. A concentração de KI nesse xarope, expressa em g/L, é igual a",
+      "alternativas": {
+        "a": "20,0.",
+        "b": "2,0.",
+        "c": "10,0.",
+        "d": "50,0.",
+        "e": "5,0."
+      },
+      "resposta": "a",
+      "explicacao": "Uma dose de 5 mL contém 100 mg de KI; a concentração é 100 mg / 0,005 L = 20.000 mg/L = 20,0 g/L.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "quimica-257",
+      "enunciado": "A solubilidade de um gás em um líquido pode ser estimada pela lei de Henry, que pode ser descrita pela equação s = kH·P, em que: s = solubilidade, kH = constante de Henry em determinada temperatura para determinado solvente e P = pressão do gás em contato com o líquido.\n\nA constante de Henry para o CO2 em água a 20 ºC é igual a 2,3 × 10⁻² mol·L⁻¹·atm⁻¹.\n\nCom base nessas informações, calcula-se que, sob pressão de 0,03 atm e temperatura de 20 ºC, a solubilidade desse gás em água é, aproximadamente,",
+      "alternativas": {
+        "a": "2,3 × 10⁻⁴ mol/L.",
+        "b": "1,0 × 10⁻³ mol/L.",
+        "c": "3,3 × 10⁻⁴ mol/L.",
+        "d": "4,6 × 10⁻² mol/L.",
+        "e": "6,9 × 10⁻⁴ mol/L."
+      },
+      "resposta": "e",
+      "explicacao": "Pela lei de Henry, s=kH×P=2,3×10⁻² mol·L⁻¹·atm⁻¹ × 0,03 atm ≈ 6,9×10⁻⁴ mol/L.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "quimica-258",
+      "enunciado": "O nióbio é um metal que exibe características notáveis. Em sua forma mais pura, é macio, dúctil e altamente resistente à corrosão. Por meio de processos metalúrgicos, obtêm-se produtos de nióbio que encontram inúmeras aplicações, como em carros, estruturas de edifícios e pontes, turbinas de avião, aparelhos de ressonância magnética, marcapassos, sondas espaciais, foguetes, tubulações de gás, componentes eletrônicos e baterias.\n\nUma das últimas etapas da produção do nióbio consiste em um processo aluminotérmico, no qual ocorre a reação representada pela equação:\n\n3Nb2O5(s) + 10Al(s) → 6Nb(s) + 5Al2O3(s); ΔH = ?\n\nConsidere a tabela que fornece dados sobre entalpias-padrão de formação das espécies químicas envolvidas nessa reação:\n\n| Substância | ΔH⁰f em kJ/mol |\n|---|---|\n| Nb2O5(s) | −1 900 |\n| Al(s) | 0 |\n| Nb(s) | 0 |\n| Al2O3(s) | −1 676 |\n\nCom base nesses dados, o valor do ΔH da reação que ocorre no processo aluminotérmico para obtenção do nióbio é igual a",
+      "alternativas": {
+        "a": "−3 576 kJ.",
+        "b": "−2 680 kJ.",
+        "c": "−5 700 kJ.",
+        "d": "−224 kJ.",
+        "e": "−8 380 kJ."
+      },
+      "resposta": "b",
+      "explicacao": "Pela lei de Hess, ΔH=Σ ΔHf(produtos)−Σ ΔHf(reagentes)=[6×0+5×(−1676)]−[3×(−1900)+10×0]=−8380−(−5700)=−2680 kJ.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "quimica-259",
+      "enunciado": "Uma startup chinesa anunciou a criação de uma \"bateria nuclear\" em miniatura capaz de fornecer eletricidade por até 50 anos sem a necessidade de recarregamento. Essa bateria, menor que uma moeda, é formada por camadas contendo isótopos de 63Ni intercaladas com camadas de semicondutores de diamante sintético. As partículas β⁻ (elétrons) emitidas pelo isótopo 63Ni em seu decaimento nuclear são absorvidas pelo semicondutor de diamante, gerando a corrente elétrica fornecida pela bateria.\n\nComo resultado do decaimento do 63Ni presente nessa bateria, forma-se o isótopo",
+      "alternativas": {
+        "a": "63Cu.",
+        "b": "64Ni.",
+        "c": "62Ni.",
+        "d": "64Cu.",
+        "e": "64Co."
+      },
+      "resposta": "a",
+      "explicacao": "No decaimento β⁻, um nêutron do núcleo se transforma em um próton, emitindo um elétron; o número de massa permanece o mesmo (63) e o número atômico aumenta em uma unidade (de 28, níquel, para 29, cobre), formando o isótopo ⁶³Cu.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "quimica-260",
+      "enunciado": "A figura representa um calorímetro de paredes adiabáticas e de capacidade térmica desprezível, cuja câmara de reação está imersa em 1 000 g de um líquido de calor específico 4,0 kJ/(kg·ºC). Dentro dessa câmara foi realizada a combustão completa de 9 g de glicose (C6H12O6, 180 g/mol) utilizando, para isso, oxigênio pressurizado em quantidade suficiente para que a reação ocorresse completamente.\n\n*(Figura esquemática padrão de calorímetro de bomba: recipiente externo com líquido, termômetro inserido no topo, cabos de ignição e câmara de reação interna contendo a glicose e o oxigênio — diagrama didático genérico.)*\n\nNesse processo, o calor liberado na reação foi totalmente absorvido pelo líquido, que teve sua temperatura elevada de 20 ºC para 55 ºC, e a pressão dentro do calorímetro manteve-se constante. Nessas condições, o calor absorvido pelo líquido e a entalpia da reação de combustão completa da glicose foram, respectivamente,",
+      "alternativas": {
+        "a": "140 kJ e −2 800 kJ/mol.",
+        "b": "25,2 kJ e −25,2 kJ/mol.",
+        "c": "1,26 kJ e −2 800 kJ/mol.",
+        "d": "140 kJ e −25,2 kJ/mol.",
+        "e": "1,26 kJ e −25,2 kJ/mol."
+      },
+      "resposta": "a",
+      "explicacao": "O calor absorvido é Q=m×c×ΔT=1000 g×4,0 J/(g·ºC)×35 ºC=140.000 J=140 kJ. Como isso equivale à combustão de 9 g de glicose (9/180=0,05 mol), a entalpia molar de combustão é 140/0,05=2800 kJ/mol, liberados (portanto negativa), ou seja, −2800 kJ/mol.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "quimica-261",
+      "enunciado": "O ácido rosmarínico é um polifenol constituído apenas por carbono, hidrogênio e oxigênio, sendo obtido naturalmente de ervas utilizadas na culinária. A análise elementar por combustão completa do ácido rosmarínico revelou que para cada 1 mol desse ácido são formados 18 mol de CO₂ e 8 mol de H₂O. A massa de oxigênio na molécula do ácido rosmarínico corresponde a 8 vezes a sua massa de hidrogênio.\n\nA fórmula mínima do ácido rosmarínico é:",
+      "alternativas": {
+        "a": "C₉H₈O₆₄",
+        "b": "C₉H₈O₃₂",
+        "c": "C₉H₄O₃₂",
+        "d": "C₉H₈O₄",
+        "e": "C₉H₄O₄"
+      },
+      "resposta": "d",
+      "explicacao": "De 1 mol do ácido, formam-se 18 mol de CO2 (18 átomos de C) e 8 mol de H2O (16 átomos de H); usando a relação massa de O = 8× massa de H (16g), obtém-se 128g de O, ou 8 mol de O. A fórmula C18H16O8 simplifica, dividindo por 2, para a fórmula mínima C9H8O4.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "quimica-262",
+      "enunciado": "A radioembolização é um tipo de radioterapia em que a fonte radioativa é inserida no interior do organismo do paciente próxima ao tecido ou órgão que apresenta crescimento tumoral. Para o caso de tumores de fígado, a radioembolização com o radioisótopo hólmio-166, ¹⁶⁶Ho, tem sido uma estratégia empregada. O radioisótopo ¹⁶⁶Ho emite partícula beta (₋₁⁰β) e radiação gama (₀⁰γ), com energias adequadas para esse emprego.\n\nO isótopo resultante do decaimento radioativo do ¹⁶⁶Ho é o",
+      "alternativas": {
+        "a": "¹⁶⁶Er",
+        "b": "¹⁶⁶Dy",
+        "c": "¹⁶⁷Dy",
+        "d": "¹⁶⁵Dy",
+        "e": "¹⁶⁵Er"
+      },
+      "resposta": "a",
+      "explicacao": "O decaimento beta menos (₋₁⁰β) converte um nêutron em um próton no núcleo: o número de massa (166) permanece o mesmo e o número atômico aumenta em uma unidade, do hólmio (Z=67) para o érbio (Z=68), formando o ¹⁶⁶Er.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "quimica-263",
+      "enunciado": "Um cilindro metálico de volume constante contém uma quantidade invariável de certo gás a 47 ºC e pressão igual a P1. Ao elevar a temperatura do gás no interior do cilindro, atinge-se 147 ºC. Nessa temperatura, a pressão P2 do gás será, aproximadamente,",
+      "alternativas": {
+        "a": "13,1 × P1.",
+        "b": "1,31 × P1.",
+        "c": "10 × P1.",
+        "d": "100 × P1.",
+        "e": "131 × P1."
+      },
+      "resposta": "b",
+      "explicacao": "Pela lei de Gay-Lussac (V constante), P/T é constante: P2=P1×T2/T1=P1×420K/320K≈1,31×P1 (convertendo as temperaturas para Kelvin: 47ºC=320K e 147ºC=420K).",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "quimica-264",
+      "enunciado": "O monitoramento dos valores de pH do sistema digestório de um paciente apresentou os seguintes resultados: saliva pH 7; suco gástrico pH 2.\n\nA relação entre as concentrações de íons H⁺ do suco gástrico e da saliva desse paciente é igual a",
+      "alternativas": {
+        "a": "30.",
+        "b": "10⁵.",
+        "c": "5.",
+        "d": "0,3.",
+        "e": "10⁻⁵."
+      },
+      "resposta": "b",
+      "explicacao": "A diferença de 5 unidades de pH (de 7 para 2) corresponde a uma razão de concentração de H⁺ de 10⁵ vezes, já que cada unidade de pH representa uma variação de 10 vezes na concentração de íons H⁺.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "quimica-265",
+      "enunciado": "Os gases atmosféricos poluentes, resultantes da queima de combustível fóssil, realizam reações secundárias gerando diversos produtos. A reação entre dois desses gases, NO₂(g) + O₃(g) → NO₃(g) + O₂(g), teve a sua cinética estudada a 20 ºC:\n\n| Experimento | [NO₂] mol/L | [O₃] mol/L | Taxa (mol·L⁻¹·s⁻¹) |\n|---|---|---|---|\n| 1 | 5,0 × 10⁻⁵ | 1,0 × 10⁻⁵ | 0,033 |\n| 2 | 5,0 × 10⁻⁵ | 2,0 × 10⁻⁵ | 0,066 |\n| 3 | 2,5 × 10⁻⁵ | 2,0 × 10⁻⁵ | 0,033 |\n\nConsidere que a equação da rapidez dessa reação, v, seja representada pela equação: v = k[NO₂]ˣ·[O₃]ʸ\n\nA ordem global dessa reação, dada pela soma dos valores de x e y, é igual a",
+      "alternativas": {
+        "a": "3",
+        "b": "1",
+        "c": "1/2",
+        "d": "0",
+        "e": "2"
+      },
+      "resposta": "e",
+      "explicacao": "Comparando os experimentos 1 e 3 (mesma [O3], [NO2] varia pela metade e a taxa também cai pela metade): ordem 1 em relação a NO2. Comparando 1 e 2 (mesma [NO2], [O3] dobra e a taxa dobra): ordem 1 em relação a O3. A ordem global é a soma: 1+1=2.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "quimica-266",
+      "enunciado": "A reação entre o cloreto de antimônio(III), SbCl₃ (massa molar = 228 g/mol), e a água resulta na formação de óxido de antimônio(III), Sb₂O₃, e cloreto de hidrogênio gasoso, HCl: SbCl₃(s) + H₂O(l) → Sb₂O₃(s) + HCl(g) (equação não balanceada).\n\nA uma certa massa de cloreto de antimônio(III) foram adicionados 180 mL de água (d = 1 g/mL). Nas condições adequadas de reação, formaram-se 18 mol de HCl.\n\nA massa de cloreto de antimônio(III) e a quantidade, em mol, de água que participaram dessa reação são",
+      "alternativas": {
+        "a": "456 g e 10 mol.",
+        "b": "456 g e 6 mol.",
+        "c": "1 368 g e 9 mol.",
+        "d": "228 g e 1 mol.",
+        "e": "1 368 g e 10 mol."
+      },
+      "resposta": "c",
+      "explicacao": "Balanceando a equação (2SbCl3+3H2O→Sb2O3+6HCl), a proporção é de 2 mol de SbCl3 para 6 mol de HCl, ou seja, 1:3; para 18 mol de HCl formado, reagiram 6 mol de SbCl3 (1368 g, usando M=228g/mol) e, pela proporção 2:3 entre SbCl3 e H2O, 9 mol de água.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "quimica-267",
+      "enunciado": "Um experimento para medidas eletroquímicas foi montado empregando-se uma folha de papel de filtro recortada em formato de cruz. Nas extremidades de cada braço dessa cruz de papel foi posicionado um pedaço de metal M e, ao redor de cada um dos metais, o papel foi umedecido com solução aquosa 0,10 mol/L do sal MSO₄ correspondente. A parte central da cruz de papel foi umedecida com solução de KNO₃ 0,1 mol/L, estabelecendo o contato elétrico entre os braços.\n\n| Metal | Potencial padrão de redução (V) |\n|---|---|\n| Mg | –2,36 |\n| Zn | –0,76 |\n| Fe | –0,44 |\n| Cu | +0,34 |\n\nUsando um multímetro, foram medidas as diferenças de potenciais de pilhas possíveis de serem formadas pela associação de pares dos metais. No experimento, o par de metais que apresentou o valor positivo mais alto de diferença de potencial na pilha formada teve como seu polo negativo e seu polo positivo, respectivamente, os metais",
+      "alternativas": {
+        "a": "Zn e Mg.",
+        "b": "Fe e Zn.",
+        "c": "Zn e Cu.",
+        "d": "Mg e Cu.",
+        "e": "Cu e Fe."
+      },
+      "resposta": "d",
+      "explicacao": "Quanto maior a diferença entre os potenciais padrão de redução dos dois metais associados, maior é a diferença de potencial da pilha formada; o par com a maior diferença é magnésio (–2,36 V, o polo negativo/ânodo, que sofre oxidação) e cobre (+0,34 V, o polo positivo/cátodo).",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "quimica-268",
+      "enunciado": "Uma fórmula estrutural apresenta um monoterpeno, composto natural extraído de certos tipos de plantas, empregado na indústria farmacêutica para aumentar a absorção cutânea de fármacos: um éster cíclico (grupo isopropila ligado a um anel cicloexeno, conectado por uma ligação éster a um grupo acetato).\n\nO monoterpeno apresentado é um éster e pode ser sintetizado a partir da reação entre o ácido etanoico e um álcool. A fórmula molecular desse álcool é",
+      "alternativas": {
+        "a": "C₁₀H₂₀O",
+        "b": "C₇H₁₄O",
+        "c": "C₆H₁₂O",
+        "d": "C₂H₆O",
+        "e": "CH₄O"
+      },
+      "resposta": "a",
+      "explicacao": "O éster é formado pela reação entre o ácido etanoico (ácido acético) e um álcool cíclico de fórmula C10H20O (um monoterpeno álcool, como o mentol ou similar), cuja esterificação produz o acetato correspondente representado na estrutura.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "quimica-269",
+      "enunciado": "Os glicídios são fontes de energia para os seres vivos. Dentre os glicídios, os polissacarídeos que estão presentes em vegetais e animais são, respectivamente,",
+      "alternativas": {
+        "a": "frutose e glicogênio.",
+        "b": "glicose e sacarose.",
+        "c": "glicogênio e glicose.",
+        "d": "sacarose e glicose.",
+        "e": "celulose e glicogênio."
+      },
+      "resposta": "e",
+      "explicacao": "A celulose é o principal polissacarídeo estrutural dos vegetais, e o glicogênio é o polissacarídeo de reserva energética típico dos animais (armazenado principalmente no fígado e nos músculos).",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "quimica-270",
+      "enunciado": "A tabela apresenta a abundância isotópica do magnésio encontrado na natureza.\n\n| Isótopo (número de massa) | Abundância isotópica |\n|---|---|\n| 24 | 78,99% |\n| 25 | 10,00% |\n| 26 | 11,01% |\n\nConsiderando a constante de Avogadro igual a 6,0 × 10²³ mol⁻¹, em 4,86 g de magnésio, a quantidade de átomos de magnésio-25 é igual a",
+      "alternativas": {
+        "a": "1,3 × 10²¹.",
+        "b": "3,0 × 10²⁰.",
+        "c": "1,2 × 10²².",
+        "d": "9,4 × 10²².",
+        "e": "6,0 × 10²³."
+      },
+      "resposta": "c",
+      "explicacao": "Em 4,86 g de magnésio (massa molar aproximada 24,3 g/mol), há cerca de 0,2 mol de átomos totais; 10% desses átomos correspondem ao isótopo magnésio-25, ou seja, cerca de 0,02 mol, que multiplicados pela constante de Avogadro (6,0×10²³) resultam em aproximadamente 1,2×10²² átomos.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "quimica-271",
+      "enunciado": "Um medicamento para combater a azia e o excesso de acidez estomacal causado pelo ácido clorídrico (HCl) é disponibilizado na forma de pastilhas mastigáveis que contêm 500 mg de carbonato de cálcio (CaCO₃).\n\nConsidere que haja a reação completa do conteúdo de uma pastilha desse medicamento no aparelho digestório de um indivíduo com temperatura corpórea 37 ºC, que a pressão nesse local seja de 1,0 atm e que a constante R seja 0,08 atm·L·mol⁻¹·K⁻¹. O volume máximo de dióxido de carbono (CO₂) formado nessa reação será de, aproximadamente,",
+      "alternativas": {
+        "a": "500 mL.",
+        "b": "120 mL.",
+        "c": "1,5 L.",
+        "d": "1,2 L.",
+        "e": "140 mL."
+      },
+      "resposta": "b",
+      "explicacao": "500 mg de CaCO3 (100 g/mol) correspondem a 0,005 mol, que pela estequiometria da reação com HCl produzem 0,005 mol de CO2. Usando PV=nRT a 310 K (37ºC) e 1 atm, o volume é V=nRT/P=0,005×0,08×310/1≈0,124 L≈120 mL.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "quimica-272",
+      "enunciado": "O astato (At) é o elemento mais escasso da natureza e pertence ao grupo dos halogênios. Em laboratórios de pesquisa, esse elemento é obtido a partir do processo nuclear representado na equação: ⁴₂α + ᴬ_Z X → ²¹¹₈₅At + 2 ¹₀n\n\nO comportamento químico do astato é igual ao dos demais elementos de seu grupo da Classificação Periódica, e seu ânion monoatômico forma compostos aparentemente iônicos com metais alcalinos (M).\n\nO elemento químico X empregado no processo nuclear para obtenção do astato e a fórmula unitária do composto formado entre o astato e um metal alcalino são, respectivamente:",
+      "alternativas": {
+        "a": "bismuto e MAt",
+        "b": "bismuto e MAt₂",
+        "c": "polônio e M₂At",
+        "d": "frâncio e MAt",
+        "e": "frâncio e MAt₂"
+      },
+      "resposta": "a",
+      "explicacao": "Pela conservação do número de massa e do número atômico na reação nuclear, A = 211+2×1−4=209 e Z=85+0−2=83, correspondendo ao elemento bismuto; como o astato é um halogênio (grupo 17), forma ânion At⁻ e, com um metal alcalino M⁺, o composto iônico de fórmula MAt.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "quimica-273",
+      "enunciado": "Para o estudo de equilíbrio reacional foram realizados, separadamente, os experimentos 1, 2, 3 e 4, com reações químicas no estado gasoso em sistemas fechados, comparando as condições do equilíbrio I (V=10L, T=125°C, P=1,0 atm) e do equilíbrio II (V=2L, T=125°C, P=5,0 atm):\n\n1. NH₃(g) + CH₄(g) ⇌ HCN(g) + 3H₂(g)\n2. 2HCN(g) + 6H₂O(g) ⇌ 2NH₃(g) + 2CH₄(g) + 3O₂(g)\n3. N₂(g) + 3H₂(g) ⇌ 2NH₃(g)\n4. CO₂(g) + H₂(g) ⇌ CO(g) + H₂O(g)\n\nConsiderando-se separadamente cada um dos experimentos realizados, as reações que tiveram aumento da formação dos produtos ao se passar das condições do equilíbrio I para as condições do equilíbrio II são as dos experimentos",
+      "alternativas": {
+        "a": "2 e 4.",
+        "b": "1 e 3.",
+        "c": "3 e 4.",
+        "d": "2 e 3.",
+        "e": "1 e 4."
+      },
+      "resposta": "d",
+      "explicacao": "Passar do equilíbrio I (menor pressão, maior volume) para o II (maior pressão, menor volume) favorece o lado com menor número de mols gasosos: nas reações 2 e 3, os produtos têm menos mols de gás do que os reagentes, então o aumento de pressão desloca o equilíbrio para a formação de mais produtos.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "quimica-274",
+      "enunciado": "A ureia, OC(NH₂)₂, é empregada na agricultura para recomposição dos nutrientes do solo. Sua hidrólise resulta em dióxido de carbono (CO₂) e amônia (NH₃): OC(NH₂)₂(aq) + H₂O(l) → CO₂(g) + 2NH₃(g)\n\nAs geometrias ao redor dos átomos de carbono centrais das moléculas de reagente e produto dessa reação, ureia e dióxido de carbono, são, respectivamente,",
+      "alternativas": {
+        "a": "plana trigonal e angular.",
+        "b": "piramidal trigonal e angular.",
+        "c": "tetraédrica e angular.",
+        "d": "piramidal trigonal e linear.",
+        "e": "plana trigonal e linear."
+      },
+      "resposta": "e",
+      "explicacao": "A ureia tem geometria plana trigonal ao redor do carbono central (ligado a dois grupos NH2 e um oxigênio duplo, em arranjo trigonal); o CO2, com duas ligações duplas C=O em lados opostos e nenhum par isolado no carbono central, tem geometria linear.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "quimica-275",
+      "enunciado": "Um estudo da rapidez da hidrólise da ureia (catalisada pela enzima urease) foi realizado em cinco experimentos, variando concentração de ureia e temperatura da solução, medindo o tempo para iniciar a liberação dos gases:\n\n| Experimento | Concentração | Temperatura | Tempo p/ iniciar liberação |\n|---|---|---|---|\n| 1 | 10 mol/L | 20 ºC | 8 minutos |\n| 2 | 10 mol/L | 60 ºC | 3 minutos |\n| 3 | 2,5 mol/L | 20 ºC | 12 minutos |\n| 4 | 2,5 mol/L | 20 ºC | 2 minutos |\n| 5 | 2,5 mol/L | 60 ºC | 8 minutos |\n\nO experimento em que foi empregada a enzima urease foi o de número",
+      "alternativas": {
+        "a": "2.",
+        "b": "3.",
+        "c": "5.",
+        "d": "4.",
+        "e": "1."
+      },
+      "resposta": "d",
+      "explicacao": "O experimento com a maior velocidade relativa à sua concentração (experimento 4: menor concentração, mesma temperatura do experimento 3, porém tempo muito menor) indica a presença de um catalisador biológico (a enzima urease), que acelera a reação sem que se altere a temperatura ou a concentração de substrato.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "quimica-276",
+      "enunciado": "O alumínio metálico é produzido industrialmente a partir da eletrólise ígnea (a 1 000 ºC) da alumina, Al₂O₃, em uma cuba eletrolítica com eletrodo de grafite (polo positivo) e eletrodo de aço (polo negativo), num eletrólito de alumina fundida contendo íons Al³⁺ e O²⁻. As reações nos eletrodos são: Al³⁺ + 3e⁻ → Al; 2O²⁻ → O₂ + 4e⁻. O eletrodo de grafite reage com o oxigênio formado e produz CO₂ gasoso.\n\nSupondo que todo o O₂ produzido na eletrólise seja convertido a CO₂ por reação com a grafite, a cada 1 mol de alumina consumido no processo são formados ____ mol de CO₂, e na eletrólise da alumina ocorre reação de ____ no polo negativo.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "1,5 e oxidação.",
+        "b": "1,5 e redução.",
+        "c": "3 e oxidação.",
+        "d": "3 e redução.",
+        "e": "2 e redução."
+      },
+      "resposta": "b",
+      "explicacao": "Pela estequiometria (2O²⁻→O2+4e⁻, e depois O2+C→CO2), a cada 1 mol de Al2O3 (que fornece 3 mol de O²⁻) formam-se 1,5 mol de O2 e, portanto, 1,5 mol de CO2; no polo negativo (cátodo) ocorre a redução do Al³⁺ a Al metálico.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "quimica-277",
+      "enunciado": "A morfina é o princípio ativo do ópio e é categorizada como opioide, empregada em medicamentos para alívio de dores agudas. Sua fórmula estrutural mostra um anel com um grupo hidroxila (posição 1), um oxigênio em ponte (posição 2), outro grupo hidroxila (posição 3), uma ligação dupla C=C (posição 4) e um átomo de nitrogênio terciário com metila (posição 5).\n\nEm água, a morfina comporta-se como uma base fraca, com constante de equilíbrio, em 20 ºC, Kb = 10⁻⁸: Morfina(aq) + H₂O(l) ⇌ MorfinaH⁺(aq) + OH⁻(aq)\n\nNa fórmula estrutural da morfina, a região da molécula que adquire a carga positiva na interação com a água está indicada pela posição de número",
+      "alternativas": {
+        "a": "3.",
+        "b": "1.",
+        "c": "2.",
+        "d": "4.",
+        "e": "5."
+      },
+      "resposta": "e",
+      "explicacao": "O nitrogênio terciário (posição 5) é o átomo que, ao aceitar o próton da água (atuando como base de Brønsted-Lowry), adquire a carga positiva, formando o cátion morfínio (MorfinaH⁺).",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "quimica-278",
+      "enunciado": "Uma solução aquosa de morfina com concentração 1 × 10⁻² mol/L tem pH, a 20 ºC, igual a",
+      "alternativas": {
+        "a": "9.",
+        "b": "5.",
+        "c": "8.",
+        "d": "10.",
+        "e": "2."
+      },
+      "resposta": "a",
+      "explicacao": "Para uma base fraca com Kb=10⁻⁸ e concentração 10⁻² mol/L: [OH⁻]=√(Kb×C)=√(10⁻¹⁰)=10⁻⁵ mol/L, logo pOH=5 e pH=14−5=9.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "quimica-279",
+      "enunciado": "Os sinalizadores de fumaça, itens obrigatórios em embarcações, são usados para indicar a localização para outras embarcações ou aeronaves em situações de emergência. Quando acionados, inicia-se uma reação química que libera fumaça densa e colorida, visível a grandes distâncias, mesmo com mau tempo. A cor produzida nessa reação química, essencial para a sinalização, tem origem na transição de elétrons dos elementos químicos que participam da reação. A tabela apresenta as cores produzidas por alguns elementos químicos:\n\n| Elemento químico | Cor da fumaça |\n|---|---|\n| Lítio | Vermelho-arroxeada |\n| Sódio | Amarela intensa |\n| Potássio | Violeta-azulada |\n| Estrôncio | Vermelha intensa |\n| Cobre | Verde-azulada |\n\nDeterminada marca de sinalizadores apresenta em sua composição um elemento químico de número de massa A = 88 e que possui 50 nêutrons. A cor da fumaça gerada por esse sinalizador é",
+      "alternativas": {
+        "a": "vermelho-arroxeada.",
+        "b": "amarela intensa.",
+        "c": "violeta-azulada.",
+        "d": "verde-azulada.",
+        "e": "vermelha intensa."
+      },
+      "resposta": "e",
+      "explicacao": "O elemento com número de massa 88 e 50 nêutrons tem número atômico 88−50=38, que corresponde ao estrôncio — cuja fumaça, segundo a tabela, é vermelha intensa.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "quimica-280",
+      "enunciado": "Em uma demonstração experimental sobre misturas, polaridade e interações intermoleculares, a mistura álcool isopropílico e água (situação 1) foi submetida ao aquecimento, atingindo a ebulição na temperatura constante de 80,4 ºC. Após resfriamento à temperatura ambiente, foi adicionada à mistura uma certa quantidade de cloreto de sódio (situação 2). Em seguida, feita a agitação para total solubilização, com formação de uma solução saturada com corpo de fundo, a mistura líquida se separou em duas fases líquidas (situação 3).\n\n| Líquido | Temperatura de ebulição (ºC) | Densidade (g/cm³) |\n|---|---|---|\n| Álcool isopropílico | 78,9 | 0,78 |\n| Água | 100 | 1,0 |\n| Solução saturada de cloreto de sódio | – | 1,2 |\n\nA classificação da mistura contida no béquer na situação 1 e a técnica de separação adequada para separar o álcool isopropílico da mistura na situação 3 são, respectivamente,",
+      "alternativas": {
+        "a": "mistura azeotrópica e decantação.",
+        "b": "mistura simples e decantação.",
+        "c": "mistura eutética e filtração.",
+        "d": "mistura simples e sedimentação.",
+        "e": "mistura azeotrópica e filtração."
+      },
+      "resposta": "a",
+      "explicacao": "A mistura de álcool isopropílico e água que ferve a uma temperatura constante (80,4 ºC), diferente da temperatura de ebulição de qualquer um dos componentes puros, é uma mistura azeotrópica; após a adição de NaCl, a maior densidade da fase salina promove a separação em duas fases líquidas, que podem ser separadas por decantação.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "quimica-281",
+      "enunciado": "No conteúdo do béquer na situação 3 (da questão anterior), as forças de interação mais intensas existentes entre as espécies químicas presentes na fase 1 e as mais intensas na fase 2 são, respectivamente,",
+      "alternativas": {
+        "a": "ligação de hidrogênio e interação dipolo-dipolo induzido.",
+        "b": "interação íon-dipolo e ligação de hidrogênio.",
+        "c": "ligação de hidrogênio e interação íon-dipolo.",
+        "d": "interação dipolo induzido-dipolo induzido e interação íon-dipolo.",
+        "e": "interação dipolo-dipolo induzido e interação íon-dipolo."
+      },
+      "resposta": "c",
+      "explicacao": "Na fase menos densa (rica em álcool isopropílico e água), a interação mais intensa é a ligação de hidrogênio entre as moléculas polares; na fase mais densa (solução salina saturada), a interação mais intensa é do tipo íon-dipolo, entre os íons Na⁺/Cl⁻ e as moléculas de água.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "quimica-282",
+      "enunciado": "O nitreto de tório(IV), Th₃N₄, é um composto empregado em tecnologia nuclear. O Brasil detém reservas de minério de tório, a monazita. A partir desse minério, obtém-se o composto óxido de tório(IV), ThO₂, que é usado como matéria-prima no processo de obtenção de nitreto de tório, representado pela equação de reação a seguir, processada em um reator selado:\n\n3ThO₂(s) + 6C(s) + 2N₂(g) → Th₃N₄(s) + 6CO(g)\n\nAo serem adicionados no reator 12 mol de cada um dos reagentes, a quantidade máxima de Th₃N₄, em mol, que se forma é igual a",
+      "alternativas": {
+        "a": "6.",
+        "b": "2.",
+        "c": "12.",
+        "d": "4.",
+        "e": "8."
+      },
+      "resposta": "b",
+      "explicacao": "Com 12 mol de cada reagente disponíveis, o número de \"porções\" da reação que cada um permite é 12/3=4 (para o ThO2), 12/6=2 (para o C) e 12/2=6 (para o N2); o carbono é o reagente limitante, permitindo a formação de apenas 2 mol de Th3N4.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "quimica-283",
+      "enunciado": "A anilina, C₆H₅NH₂, é uma substância orgânica empregada na indústria química e na indústria farmacêutica. Ao ser adicionada em água, a anilina reage e estabelece o equilíbrio químico: C₆H₅NH₂(l) + H₂O(l) ⇌ C₆H₅NH₃⁺(aq) + OH⁻(aq)\n\nA constante de equilíbrio dessa reação, a uma certa temperatura, é K = 5 × 10⁻¹⁰.\n\nUma solução de anilina, a essa temperatura, com concentração igual a 2 × 10⁻³ mol/L apresenta concentração de íons OH⁻, [OH⁻], e pH iguais a",
+      "alternativas": {
+        "a": "10⁻⁶ mol/L e 8.",
+        "b": "10⁻⁶ mol/L e 6.",
+        "c": "10⁻¹² mol/L e 8.",
+        "d": "10⁻¹² mol/L e 2.",
+        "e": "10⁻¹² mol/L e 6."
+      },
+      "resposta": "a",
+      "explicacao": "Como C=2×10⁻³ mol/L e K=5×10⁻¹⁰, [OH⁻]=√(K×C)=√(10⁻¹²)=10⁻⁶ mol/L; logo pOH=6 e pH=14−6=8.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "quimica-284",
+      "enunciado": "Em uma aula de química foram aquecidas três soluções, 1, 2 e 3, nas mesmas condições: Solução 1 = glicose 2 mol/L; Solução 2 = KCl 1 mol/L; Solução 3 = Al(NO₃)₃ 1 mol/L.\n\nA respeito das temperaturas de ebulição dessas soluções, conclui-se que",
+      "alternativas": {
+        "a": "as soluções 2 e 3 têm a mesma temperatura de ebulição porque ambas têm sais dissolvidos em água.",
+        "b": "a solução 1 tem temperatura de ebulição mais alta, porque tem concentração mais alta de soluto.",
+        "c": "as soluções 1 e 2 têm a mesma temperatura de ebulição, porque ambas têm a mesma concentração de espécies químicas dissolvidas.",
+        "d": "a solução 3 tem temperatura de ebulição mais baixa, porque tem mais íons dissolvidos.",
+        "e": "as soluções 2 e 3 têm a mesma temperatura de ebulição, porque ambas têm a mesma concentração de soluto."
+      },
+      "resposta": "c",
+      "explicacao": "A elevação da temperatura de ebulição depende do número de partículas dissolvidas (efeito coligativo). A solução 1 (glicose, não iônica, 2 mol/L de partículas) e a solução 2 (KCl, que se dissocia em 2 íons por fórmula, logo 1 mol/L×2=2 mol/L de partículas) têm a mesma concentração total de espécies dissolvidas, e por isso a mesma temperatura de ebulição.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "quimica-285",
+      "enunciado": "A equação a seguir representa a reação de síntese do Kevlar®, um polímero de alta resistência usado em equipamentos de proteção individual, na indústria aeroespacial, entre outras áreas: um ácido dicarboxílico aromático reage com uma diamina aromática, catalisada, formando o polímero (com ligações amida repetidas) e liberando água.\n\nO Kevlar® é um polímero de ____ e sua molécula apresenta o grupo funcional característico da função orgânica ____. Esse grupo funcional também está presente na formação ____, que são macromoléculas naturais.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "condensação – amida – das proteínas.",
+        "b": "adição – amina – dos amidos.",
+        "c": "adição – amida – das proteínas.",
+        "d": "condensação – amina – dos amidos.",
+        "e": "condensação – amida – dos amidos."
+      },
+      "resposta": "a",
+      "explicacao": "O Kevlar é um polímero de condensação (formado com liberação de água) cujo grupo funcional característico é a amida — a mesma ligação amida (peptídica) que une os aminoácidos nas proteínas.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "quimica-286",
+      "enunciado": "Na etapa de coagulação do tratamento de água, utiliza-se sulfato de alumínio [Al2(SO4)3] para formar flocos de hidróxido de alumínio [Al(OH)3], que agregam impurezas. A reação química desse processo é:\n\nAl2(SO4)3 + 3 Ca(HCO3)2 → 2 Al(OH)3 + 3 CaSO4 + 6 CO2\n\nUma estação de tratamento de água (ETA) consome 147 kg de sulfato de alumínio [Al2(SO4)3] por dia para coagular impurezas.\n\nConsidere as seguintes massas molares: Al2(SO4)3 = 342 g/mol; Al(OH)3 = 78 g/mol; Ca(HCO3)2 = 162 g/mol; CaSO4 = 136 g/mol e CO2 = 44 g/mol.\n\nA massa aproximada, em quilograma, de hidróxido de alumínio produzido diariamente é igual a",
+      "alternativas": {
+        "a": "33,5.",
+        "b": "67,0.",
+        "c": "70,4.",
+        "d": "134,1.",
+        "e": "209,0."
+      },
+      "resposta": "b",
+      "explicacao": "Pela estequiometria da equação (1 mol de Al2(SO4)3 produz 2 mol de Al(OH)3), 147 kg de Al2(SO4)3 (342 g/mol) correspondem a cerca de 429,8 mol, que produzem 859,6 mol de Al(OH)3 (78 g/mol), totalizando aproximadamente 67,0 kg.",
+      "formato": "direta",
+      "origem": "pucsp-2026"
+    },
+    {
+      "id": "quimica-287",
+      "enunciado": "Biomassa é a matéria orgânica de origem vegetal ou animal utilizada como fonte de energia renovável. Sua importância está na redução da dependência de combustíveis fósseis e na diminuição das emissões de gases poluentes. Para um melhor aproveitamento dessa fonte, alguns processos incluem a trituração da biomassa com o objetivo de aumentar a velocidade de decomposição da matéria orgânica pelos microrganismos, contribuindo para uma produção mais estável e eficiente do biogás.\n\nA velocidade de decomposição da biomassa aumenta devido ao(à)",
+      "alternativas": {
+        "a": "diminuição da concentração dos reagentes, o que reduz a resistência do meio, acelerando a cinética.",
+        "b": "aumento da energia de ativação, o que torna as moléculas mais reativas, facilitando a ação microbiana.",
+        "c": "diminuição da temperatura do meio, o que estabiliza os microrganismos, favorecendo a decomposição.",
+        "d": "aumento da pressão parcial de oxigênio, o que intensifica a oxidação da biomassa pelos microrganismos, facilitando a decomposição.",
+        "e": "aumento da superfície de contato, o que favorece a interação entre os microrganismos e o substrato, acelerando reações heterogêneas."
+      },
+      "resposta": "e",
+      "explicacao": "A trituração da biomassa aumenta a superfície de contato entre o substrato e os micro-organismos decompositores, favorecendo reações heterogêneas (que ocorrem na interface sólido-líquido) e acelerando a velocidade de decomposição.",
+      "formato": "direta",
+      "origem": "pucsp-2026"
+    },
+    {
+      "id": "quimica-288",
+      "enunciado": "O trítio é um dos isótopos do hidrogênio que apesar de ser raro na Terra, está presente em grande quantidade no Sol. Seu processo de decaimento ocorre com meia-vida de 12 anos, segundo a reação:\n\n³₁H → ³₂He + β\n\nA massa, em gramas, de Hélio-3 produzida pelo decaimento de 1 mol de trítio após 24 anos é de:",
+      "alternativas": {
+        "a": "1,50",
+        "b": "0,50",
+        "c": "2,75",
+        "d": "2,25",
+        "e": "0,25"
+      },
+      "resposta": "d",
+      "explicacao": "Em 24 anos se passam duas meias-vidas (2×12 anos). De 1 mol de trítio, restam 1/4 mol (0,25 mol) sem decair e 3/4 mol (0,75 mol) decaem em Hélio-3; como a massa molar do ³He é 3 g/mol, a massa formada é 0,75×3=2,25 g.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "quimica-289",
+      "enunciado": "Modelos atômicos foram propostos ao longo do tempo por diferentes cientistas e possibilitaram o entendimento da estrutura atômica, das propriedades dos átomos e das reações químicas no nível microscópico.\n\nSobre os modelos atômicos são feitas as seguintes afirmações:\n\nI. O modelo atômico de Dalton considerava a existência de partículas subatômicas.\nII. Rutherford introduziu a ideia de níveis de energia quantizados para os elétrons.\nIII. No modelo de Rutherford-Bohr os elétrons só poderiam ocupar níveis específicos de energia.\n\nEstá correto o que se afirma em:",
+      "alternativas": {
+        "a": "I, II e III.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II, apenas.",
+        "e": "III, apenas."
+      },
+      "resposta": "e",
+      "explicacao": "Dalton não previa partículas subatômicas (I falsa); foi Bohr, não Rutherford, quem introduziu a ideia de níveis quantizados de energia (II falsa); o modelo de Rutherford-Bohr de fato restringe os elétrons a órbitas/níveis específicos de energia (III verdadeira).",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "quimica-290",
+      "enunciado": "A eletrólise do cloreto de sódio dissolvido em água é a base da indústria de cloro e de álcali. Os produtos mais importantes desse processo são o cloro gasoso e o hidróxido de sódio.\n\n2 NaCl (aq) + 2 H2O (l) → 2 NaOH (aq) + H2 (g) + Cl2 (g)\n\nQuando, através desse processo, ocorre a produção de 800 kg de hidróxido de sódio, o volume produzido de cloro gasoso, medido nas CNTP, é de:",
+      "alternativas": {
+        "a": "2,24 x 10³ L",
+        "b": "448 L",
+        "c": "2,24 x 10⁵ L",
+        "d": "224 L",
+        "e": "4,48 x 10⁵ L\n\nDados: Massa molar (g.mol⁻¹) Na = 23, O = 16, H = 1"
+      },
+      "resposta": "c",
+      "explicacao": "800 kg (800.000 g) de NaOH (40 g/mol) correspondem a 20.000 mol; pela proporção 2 NaOH : 1 Cl2 da equação, formam-se 10.000 mol de Cl2, que nas CNTP ocupam 10.000×22,4 L = 2,24×10⁵ L.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "quimica-291",
+      "enunciado": "A mineração de ouro na Amazônia está associada a um grande problema: a utilização do mercúrio. O mercúrio é usado para separar o ouro de outros materiais, mas, devido à sua alta toxidade, constitui um grave problema ambiental. Numa das etapas da obtenção de mercúrio para utilização nesse tipo de garimpo, ocorre a redução do HgO. Esse óxido é aquecido junto com carvão, que atua como agente redutor. O carvão retira o oxigênio do óxido de mercúrio, deixando mercúrio livre. Se, nesse processo de redução do mercúrio, houver a transferência de uma carga de 10F (faradays), a quantidade máxima de mercúrio metálico obtido será de:",
+      "alternativas": {
+        "a": "50g",
+        "b": "250g",
+        "c": "400g",
+        "d": "500g",
+        "e": "1000g\n\nDados: Massa molar (g.mol⁻¹) Hg = 200"
+      },
+      "resposta": "e",
+      "explicacao": "Com transferência de 10 mol de elétrons (10 F) e sendo necessários 2 elétrons para reduzir cada Hg²⁺ a Hg metálico, formam-se 5 mol de Hg, que pesam 5×200=1000 g.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "quimica-292",
+      "enunciado": "O dióxido de enxofre é um conservante adicionado ao vinho para impedir o crescimento de bactérias e de leveduras. A reação de oxidação deste anidrido produz o trióxido de enxofre precursor do ácido sulfúrico. Esta reação ocorre na presença de dióxido de nitrogênio em duas etapas:\n\nI. SO2 (g) + NO2 (g) → SO3 (g) + NO (g)\nII. NO (g) + 1/2 O2 (g) → NO2 (g)\n\nSobre o processo de produção de trióxido de enxofre descrito, é correto afirmar:",
+      "alternativas": {
+        "a": "O monóxido de nitrogênio acelera a velocidade da reação.",
+        "b": "O dióxido de nitrogênio é o catalisador do processo.",
+        "c": "A reação global do processo é SO2 (g) + NO2 (g) → SO3 (g) + NO (g).",
+        "d": "A presença de dióxido de enxofre diminui a energia de ativação da reação.",
+        "e": "A presença de dióxido de nitrogênio diminui a entalpia da reação."
+      },
+      "resposta": "b",
+      "explicacao": "O NO2 é consumido na etapa I e regenerado na etapa II, participando da reação sem ser consumido no processo global — comportamento característico de um catalisador, que acelera a formação de SO3 sem aparecer na equação global líquida.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "quimica-293",
+      "enunciado": "A bula de um novo medicamento para diminuir a pressão intraocular de pacientes com glaucoma apresenta as seguintes informações: \"Solução oftálmica tópica com 0,024% m/v de latanoprosteno bunode - embalagem contendo 1 frasco de 5 mL. Cada 1 mL da solução oftálmica corresponde a aproximadamente 30 gotas\".\n\nA quantidade do princípio ativo em cada gota do medicamento é, aproximadamente:",
+      "alternativas": {
+        "a": "8,0 μg",
+        "b": "1,6 μg",
+        "c": "0,8 mg",
+        "d": "1,6 mg",
+        "e": "8,0 mg"
+      },
+      "resposta": "a",
+      "explicacao": "A solução tem 0,024 g de princípio ativo a cada 100 mL, ou seja, 0,0012 g (1200 μg) nos 5 mL do frasco; como cada mL rende 30 gotas, o frasco tem 150 gotas, e cada gota contém 1200/150=8,0 μg do princípio ativo.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "quimica-294",
+      "enunciado": "As evidências de uma reação química incluem mudanças perceptíveis como alteração de cor, formação de gás ou precipitação de sólidos. As reações químicas envolvem absorção ou liberação de energia que pode se manifestar sob forma de calor, luz ou eletricidade. Dos processos apresentados a seguir o que ao final libera energia é:",
+      "alternativas": {
+        "a": "Fotossíntese: 6 CO₂ + 6 H₂O → C₆H₁₂O₆ + 6 O₂",
+        "b": "Eletrólise do cloreto de sódio: NaCl → Na + ½ Cl₂",
+        "c": "Liquefação da água: H₂O(s) → H₂O(l)",
+        "d": "Transformação do gelo seco: CO₂(s) → CO₂(g)",
+        "e": "Oxidação do magnésio: Mg + ½ O₂ → MgO"
+      },
+      "resposta": "e",
+      "explicacao": "Entre os processos listados, apenas a oxidação do magnésio (Mg + ½O2 → MgO) é uma reação exotérmica espontânea que libera energia ao final; os demais (fotossíntese, eletrólise, fusão do gelo, sublimação do gelo seco) absorvem energia.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "quimica-295",
+      "enunciado": "Na fabricação de moedas, joias e utensílios de decoração é importante considerar as reatividades dos metais que serão utilizados frente a ácidos e outras substâncias corrosivas.\nAo se analisar em termos eletroquímicos a reação entre a prata metálica e o ácido clorídrico proposta no esquema a seguir\n\nAg(s) + HCl(aq) → AgCl(s) + ½ H₂(g)\n\ne com bases nos potenciais-padrão de redução da prata (E° = +0,80 V) e do hidrogênio (E° = 0,00 V), podemos constatar que:",
+      "alternativas": {
+        "a": "A reação produz corrente elétrica.",
+        "b": "A reação ocorre nas pilhas de Daniell.",
+        "c": "O hidrogênio sofre oxidação.",
+        "d": "A prata é o agente oxidante.",
+        "e": "A reação não ocorre espontaneamente."
+      },
+      "resposta": "e",
+      "explicacao": "Como o potencial de redução da prata (+0,80 V) é maior que o do hidrogênio (0,00 V), a prata não tem tendência a se oxidar espontaneamente na presença de H⁺; logo, a reação entre Ag(s) e HCl(aq), como escrita, não ocorre espontaneamente.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "quimica-296",
+      "enunciado": "No processo de mineração do níquel a céu aberto, após a remoção do minério do solo, ele deve ser beneficiado. O minério é triturado e moído para liberar os minerais de níquel seguido por processos que irão aumentar a concentração de níquel separando-o de outros minérios. A concentração é feita por flotação, gravidade ou por separação magnética, dependendo da natureza do minério. O processo de flotação utilizado nessa mineração consiste em separar:",
+      "alternativas": {
+        "a": "misturas de sólidos quando um dos componentes é arrastado por um líquido enquanto o outro componente mais denso não o é. Emprega-se uma corrente de água ou de outro líquido adequado para arrastar o componente menos denso.",
+        "b": "misturas de sólidos adicionando óleo. O óleo adere à superfície das partículas tornando-o impermeável à água. Em seguida a mistura é lançada na água e submetida a uma forte corrente de ar provocando a formação de uma espuma que reúne as partículas a serem separadas.",
+        "c": "sólidos de granulações diferentes. Passa-se uma corrente de ar pela mistura, o sólido menos denso é arrastado e separado dos demais.",
+        "d": "sólidos cujos tamanhos das partículas sejam diferentes. Através de instrumento adequado, a mistura é submetida a agitação. O componente de grânulos menores atravessa a malha do instrumento utilizado enquanto os outros ficam detidos.",
+        "e": "mistura de sólidos que apresentam solubilidades diferentes num determinado solvente a uma determinada temperatura. Ao evaporarmos uma parte do solvente, o sólido menos solúvel cristaliza primeiro, separando-se da mistura."
+      },
+      "resposta": "b",
+      "explicacao": "Na flotação, adiciona-se óleo que adere seletivamente à superfície das partículas do mineral de interesse, tornando-as hidrofóbicas; ao injetar ar na polpa, essas partículas aderem às bolhas e sobem formando espuma, separando-se do restante do minério.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "quimica-297",
+      "enunciado": "Embora a fotografia digital tenha se tornado dominante, a fotografia analógica ainda é utilizada por diversos grupos e indivíduos que apreciam suas qualidades. Muitos fotógrafos profissionais e artistas continuam a usar a fotografia analógica por suas qualidades estéticas únicas, como a granulação, o contraste e as tonalidades que são difíceis de replicar digitalmente.\nAs emulsões fotográficas são materiais sensíveis à luz usados na fotografia. Elas consistem em uma suspensão de haletos de prata (como brometo de prata, cloreto de prata ou iodeto de prata) dispersos em gelatina, que é aplicada sobre uma base, como filme ou papel fotográfico.\nO haleto de prata é produzido a partir de nitrato de prata segundo a equação:\n\nAgNO₃ + KBr → AgBr + KNO₃\n\nNa preparação de 100 mL de uma solução de brometo de prata de concentração 0,2 mol.L⁻¹, um fotógrafo irá utilizar 100 mL de uma solução de nitrato de prata. A massa de AgNO₃ contida nessa solução deverá ser de:\n\nDados: Massas molares (g.mol⁻¹): Ag = 108, O = 16, N = 14.",
+      "alternativas": {
+        "a": "1,7g",
+        "b": "8,5g",
+        "c": "3,4g",
+        "d": "10,8g",
+        "e": "11,9g"
+      },
+      "resposta": "c",
+      "explicacao": "Para 100 mL de solução 0,2 mol/L de AgBr, são necessários 0,02 mol de AgNO₃ (proporção 1:1 na equação). Com massa molar de AgNO₃ = 108+14+48=170 g/mol, a massa necessária é 0,02×170=3,4 g.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "quimica-298",
+      "enunciado": "Em junho de 2024, um jovem morreu ao se submeter a procedimento estético a base de fenol. O peeling de fenol consiste na aplicação de uma substância corrosiva na pele do paciente com o objetivo de promover a renovação das células por meio da descamação. O fenol é corrosivo e irritante para as mucosas.\nA estrutura a que pertence a mesma função orgânica do fenol está representada em:\n\n[Descrição das alternativas: a) anel benzênico com um grupo metil (tolueno); b) anel ciclopentano com um grupo cetona (=O) ligado ao anel; c) anel benzênico com um grupo metoxi (O-CH3) ligado ao anel (éter aromático); d) anel benzênico com dois grupos hidroxila (-OH) em posições diferentes do anel, representando um difenol; e) anel ciclopentano com um grupo hidroxila (-OH) ligado ao anel (álcool cíclico).]",
+      "alternativas": {
+        "a": "estrutura A (tolueno, hidrocarboneto aromático)",
+        "b": "estrutura B (cetona cíclica)",
+        "c": "estrutura C (éter aromático - metoxibenzeno)",
+        "d": "estrutura D (difenol - anel aromático com duas hidroxilas ligadas diretamente ao anel)",
+        "e": "estrutura E (álcool cíclico - ciclopentanol)"
+      },
+      "resposta": "d",
+      "explicacao": "O fenol tem um grupo hidroxila ligado diretamente a um anel aromático; a estrutura que compartilha essa mesma função orgânica é a que apresenta duas hidroxilas ligadas diretamente ao anel benzênico (um difenol).",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "quimica-299",
+      "enunciado": "A berberina é uma substância que tem a propriedade de auxiliar no controle dos níveis de colesterol e no equilíbrio da microbiota do intestino; especialistas têm relacionado a berberina como substância facilitadora de emagrecimento.\nA estrutura da berberina está apresentada a seguir:\n\n[Descrição da estrutura: sistema policíclico aromático (núcleo isoquinolínio) contendo: um grupo metilenodioxi (-O-CH₂-O-) fundido a um dos anéis aromáticos; dois grupos metoxi (-O-CH₃) ligados a outro anel aromático; e um nitrogênio quaternário (N⁺) no anel heterocíclico central que conecta os sistemas aromáticos.]\n\nNessa estrutura está presente a função orgânica:",
+      "alternativas": {
+        "a": "éster.",
+        "b": "cetona.",
+        "c": "álcool.",
+        "d": "éter.",
+        "e": "aldeído."
+      },
+      "resposta": "d",
+      "explicacao": "A berberina apresenta grupos metoxi (-O-CH3) e um grupo metilenodioxi (-O-CH2-O-), ambos caracterizados por um oxigênio ligado a dois carbonos — a função éter.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "quimica-300",
+      "enunciado": "Em bebidas, realizar o processo de carbonatação de forma adequada é essencial para criar uma borbulha ou uma efervescência perfeita em produtos como águas e refrigerantes. Para introduzir o dióxido de carbono é preciso uma calibração precisa para obter uma qualidade consistente. Este processo desacelera a produção de bactérias, aumentando o tempo de validade dos produtos gaseificados e mantendo suas propriedades, como cor, odor, sabor e textura. Considere o equilíbrio obtido após a carbonatação de uma bebida.\n\nCO₂(g) + H₂O(l) ⇌ H₂CO₃(aq) ⇌ H⁺(aq) + HCO₃⁻(aq)\n\nAumentando a concentração de gás carbônico nesse equilíbrio e mantendo a temperatura constante, ocorrerá:",
+      "alternativas": {
+        "a": "aumento da quantidade de água para absorção do gás carbônico.",
+        "b": "aumento da acidez da solução devido ao aumento do pH.",
+        "c": "deslocamento do equilíbrio para esquerda diminuindo a concentração de íon bicarbonato.",
+        "d": "aumento da concentração de H₂CO₃ sem alterar o pH do meio.",
+        "e": "aumento da concentração dos íons H⁺, aumentando a acidez do meio."
+      },
+      "resposta": "e",
+      "explicacao": "Pelo princípio de Le Chatelier, aumentar a concentração de CO2 desloca o equilíbrio para a direita, aumentando a formação de H2CO3 e, consequentemente, de H⁺ e HCO3⁻ — elevando a concentração de íons H⁺ e, portanto, a acidez do meio (diminuindo o pH).",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "quimica-301",
+      "enunciado": "O Brasil tem a segunda maior reserva mundial de Terras Raras, um grupo de 17 elementos químicos usados na fabricação de ímãs fortes para motores elétricos, na produção de telas de computadores e smartphones, em lâmpadas de LED, e até em componentes de veículos elétricos. A maioria dos elementos que formam as Terras Raras são chamados metais de transição interna.\n\nEssa denominação está associada",
+      "alternativas": {
+        "a": "ao fato de seus elétrons fazerem transições entre os níveis de energia na sua eletrosfera",
+        "b": "à presença de elétrons no subnível \"d\" da distribuição eletrônica",
+        "c": "ao fato de apresentarem até dois níveis de energia na sua eletrosfera",
+        "d": "ao fato de apresentarem elétron diferenciador no antepenúltimo nível na sua eletrosfera",
+        "e": "ao fato de apresentarem as camadas eletrônicas completas"
+      },
+      "resposta": "d",
+      "explicacao": "Os metais de transição interna (lantanídeos e actinídeos, que incluem as Terras Raras) são assim chamados porque seu elétron mais energético (diferenciador) ocupa um subnível f do antepenúltimo nível de energia da eletrosfera.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "quimica-302",
+      "enunciado": "A gasolina tem como um dos componentes o isoctano que, em situações com fornecimento insuficiente de ar, pode sofrer combustão incompleta produzindo monóxido de carbono.\n\nDe acordo com as reações a seguir:\n\nC8H18(l) + 25/2 O2(g) → 8 CO2(g) + 9 H2O(l)     ΔH = -5471 kJ\nCO(g) + 1/2 O2(g) → CO2(g)                                   ΔH = -283 kJ\n\na entalpia de reação da combustão incompleta de 1 mol de isoctano líquido é de",
+      "alternativas": {
+        "a": "-5188 kJ",
+        "b": "-4905 kJ",
+        "c": "-3207 kJ",
+        "d": "+5754 kJ",
+        "e": "+1603 kJ"
+      },
+      "resposta": "c",
+      "explicacao": "A combustão incompleta produz CO em vez de CO2; usando a lei de Hess, o ΔH da combustão completa (-5471 kJ) é igual ao ΔH da combustão incompleta somado a 8 vezes a conversão de CO em CO2 (8×(-283)=-2264 kJ). Logo, ΔH(incompleta) = -5471-(-2264) = -3207 kJ.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "quimica-303",
+      "enunciado": "Conhecer as propriedades dos materiais é essencial para escolher o certo para cada aplicação, e o entendimento das suas estruturas nos permite entender suas características.\n\nPodemos bater com um martelo em uma peça de cobre e conseguir achatá-la, mas, se dermos marteladas num cristal de cloreto de sódio, ele irá se quebrar.\n\nA diferença entre esse comportamento frente ao impacto de um martelo se dá pela",
+      "alternativas": {
+        "a": "maior maleabilidade do cloreto de sódio",
+        "b": "mobilidade dos elétrons do cobre",
+        "c": "facilidade de deslocamento dos íons do cloreto de sódio",
+        "d": "estrutura em forma cúbica do cristal de cloreto de sódio",
+        "e": "rigidez nas posições dos cátions do cobre na estrutura do metal"
+      },
+      "resposta": "b",
+      "explicacao": "O cobre é um metal, cujos elétrons de valência são deslocalizados e móveis por toda a estrutura, permitindo que os átomos deslizem uns sobre os outros sem quebrar as ligações metálicas quando martelado (maleabilidade); no NaCl, uma rede iônica rígida, o deslocamento das camadas de íons aproxima cargas de mesmo sinal, gerando repulsão que fratura o cristal.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "quimica-304",
+      "enunciado": "A Melia azedarach é uma árvore utilizada em paisagismo e popularmente conhecida como cinamomo, contas-de-santa-bárbara, lilás-de-soldado ou cinamomo-gigante. Essa árvore apresenta atividade como inseticida devido à presença de azadiractina, que atua de forma eficaz contra diversos insetos.\n\nA estrutura química da azadiractina (molécula natural, representação estrutural própria da banca, sem crédito a terceiro) é um sistema policíclico terpenoide que apresenta múltiplos grupos hidroxila (-OH) ligados a carbonos saturados (sp3) do esqueleto, além de diversos grupos éster (incluindo uma porção de éster metílico, -COOCH3, e ésteres de ácidos carboxílicos insaturados) e um anel furânico. Não há, na estrutura, carbonilas isoladas características de aldeído ou cetona, nem anel aromático portando hidroxila (fenol), nem grupo carboxila livre (ácido carboxílico) — todas as carbonilas presentes estão na forma de éster.\n\nNa estrutura da azadiractina está presente a seguinte função orgânica",
+      "alternativas": {
+        "a": "aldeído",
+        "b": "cetona",
+        "c": "fenol",
+        "d": "álcool",
+        "e": "ácido carboxílico"
+      },
+      "resposta": "d",
+      "explicacao": "As múltiplas hidroxilas (-OH) ligadas a carbonos saturados (sp³) do esqueleto da azadiractina caracterizam a função álcool — diferente dos grupos éster (carbonilas já contabilizadas) e sem a presença de aldeído, cetona livre, fenol ou ácido carboxílico livre, conforme descrito no enunciado.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "quimica-305",
+      "enunciado": "O Brasil é um importante produtor mundial de ferro e figura entre o terceiro maior produtor de zinco e manganês. Esses metais são obtidos a partir da esfarelita (ZnS) e da pirolusita (MnO2), por processos pirometalúrgicos. As reações envolvidas nesses processos são:\n\n2 ZnS + 3 O2 → 2 ZnO + 2 SO2\nZnO + C → Zn + CO\n\nMnO2 + C → MnO + CO\nMnO + C → Mn + CO\n\nAnalisando as reações que ocorrem nos processos pirometalúrgicos, é correto afirmar que",
+      "alternativas": {
+        "a": "zinco e manganês sofrem redução, enxofre e carbono sofrem oxidação",
+        "b": "zinco e enxofre sofrem redução, manganês e carbono sofrem oxidação",
+        "c": "enxofre e manganês sofrem redução, zinco e carbono sofrem oxidação",
+        "d": "manganês e carbono sofrem redução, zinco e enxofre sofrem oxidação",
+        "e": "zinco e carbono sofrem redução, enxofre e manganês sofrem oxidação"
+      },
+      "resposta": "a",
+      "explicacao": "No processo do zinco, o enxofre do ZnS é oxidado a SO2 e o Zn²⁺ é reduzido a Zn metálico pelo carbono; no processo do manganês, o Mn é reduzido (de +4 a 0) pelo carbono, que se oxida a CO — ou seja, zinco e manganês são reduzidos, enquanto enxofre e carbono são oxidados.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "quimica-306",
+      "enunciado": "A reação entre um elemento muito eletronegativo e um elemento muito eletropositivo resulta em ligação\niônica, com a formação de cátion e ânion. Muitas vezes, nesse processo, são formadas espécies químicas\nclassificadas como isoeletrônicas, por possuírem o mesmo número de elétrons.\n\nUma substância formada por um cátion e um ânion isoeletrônicos é a de fórmula:",
+      "alternativas": {
+        "a": "LiF",
+        "b": "NaF",
+        "c": "MgCℓ₂",
+        "d": "MgBr₂",
+        "e": "K₂O"
+      },
+      "resposta": "b",
+      "explicacao": "Um cátion e um ânion são isoeletrônicos quando têm o mesmo número de elétrons; Na⁺ (10 elétrons) e F⁻ (10 elétrons) formam o par isoeletrônico NaF, já que ambos derivam de átomos vizinhos ao neônio na tabela periódica.",
+      "formato": "direta",
+      "origem": "insper-2026.1"
+    },
+    {
+      "id": "quimica-307",
+      "enunciado": "Lâmpadas fluorescentes foram importantes substitutos de lâmpadas incandescentes, que tinham gastos\nenergéticos mais altos. Entretanto, as lâmpadas fluorescentes usam vapor de mercúrio em sua composição, o\nque torna seu descarte possivelmente prejudicial ao meio ambiente e, atualmente, alavanca sua\nsubstituição por lâmpadas de LED.\n\nUma lâmpada fluorescente de 40W tem volume interno de cerca de 200 mL e pressão interna do mercúrio de\n2,1 × 10⁻³ atm. Considerando a constante universal dos gases igual a 0,08 atm·L·mol⁻¹·K⁻¹, a massa de Hg\n(M = 200 g/mol) no interior dessa lâmpada, em miligramas, a uma temperatura de 300 K, é",
+      "alternativas": {
+        "a": "1,75.",
+        "b": "2,70.",
+        "c": "3,50.",
+        "d": "4,50.",
+        "e": "5,25."
+      },
+      "resposta": "c",
+      "explicacao": "Usando PV=nRT com P=2,1×10⁻³ atm, V=0,2 L, R=0,08 atm·L·mol⁻¹·K⁻¹ e T=300 K, calcula-se o número de mols de mercúrio e, multiplicando pela massa molar (200 g/mol), obtém-se a massa de Hg no interior da lâmpada.",
+      "formato": "direta",
+      "origem": "insper-2026.1"
+    },
+    {
+      "id": "quimica-308",
+      "enunciado": "Pela legislação brasileira, as indústrias têm que controlar o pH da água e eventualmente ajustá-lo antes\nde descartar essa água na rede de esgoto. Para simular em sala de aula uma medida de concentração de íons\nH⁺ em água de rejeito de uma indústria, uma professora utilizou indicadores ácido-base, cujas propriedades\nsão descritas na tabela.\n\n| Indicador | Intervalo de pH de viragem | Cor abaixo da viragem | Cor acima da viragem |\n|---|---|---|---|\n| Tornassol | 5,0 a 7,0 | vermelha | azul |\n| Fenolftaleína | 8,2 a 10,0 | incolor | rosa |\n| Azul de bromotimol | 6,0 a 7,6 | amarela | azul |\n\nAo se adicionar algumas gotas de cada um desses indicadores na água utilizada na simulação, encontrou-se\no seguinte resultado:\n\n| Indicador | Cor da solução |\n|---|---|\n| Tornassol | azul |\n| Fenolftaleína | incolor |\n| Azul de bromotimol | azul |\n\nCom base nos resultados obtidos, a concentração de íons H⁺ presentes na referida solução, em mol/L, é de,\naproximadamente,",
+      "alternativas": {
+        "a": "10⁻¹.",
+        "b": "10⁻³.",
+        "c": "10⁻⁵.",
+        "d": "10⁻⁸.",
+        "e": "10⁻¹⁰."
+      },
+      "resposta": "d",
+      "explicacao": "Segundo Arrhenius, o pH mede a concentração de íons H⁺ em solução aquosa pela relação pH=-log[H⁺]; a partir da faixa de viragem indicada pelos indicadores ácido-base utilizados no experimento, determina-se a concentração de íons H⁺ na água de rejeito da indústria.",
+      "formato": "direta",
+      "origem": "insper-2026.1"
+    },
+    {
+      "id": "quimica-309",
+      "enunciado": "Uma cooperativa de reciclagem triturou os polímeros polietilenotereftalato (PET) e poliamida (PA)\nmisturados. No entanto, como esses materiais passam por processos de reciclagem diferentes, os\nfragmentos triturados precisaram ser separados.\n\nPara proceder à separação dos materiais, foi preparada uma solução de cloreto de cálcio (CaCℓ₂) de\nconcentração apropriada e, em seguida, introduziu-se a mistura de PET e PA. Esse procedimento se baseia\nem produzir um sistema de [densidade] adequada, permitindo separar os materiais por [flotação].\n\n*(As lacunas do enunciado original são preenchidas pela alternativa correta.)*\n\nAs lacunas são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "acidez – dissolução.",
+        "b": "densidade – dissolução.",
+        "c": "densidade – flotação.",
+        "d": "temperatura de fusão – flotação.",
+        "e": "temperatura de fusão – destilação."
+      },
+      "resposta": "c",
+      "explicacao": "PET e PA têm densidades diferentes; ao mergulhar os fragmentos triturados em um líquido de densidade intermediária, o material menos denso flutua e o mais denso afunda — um processo de separação por densidade, do tipo flotação.",
+      "formato": "direta",
+      "origem": "insper-2026.2"
+    },
+    {
+      "id": "quimica-310",
+      "enunciado": "Os metais estanho (Sn), zinco (Zn) e magnésio (Mg) são utilizados na proteção de peças de ferro contra a\noxidação. O Sn e o Zn são empregados de modo a cobrir toda a superfície da peça a ser protegida, enquanto\no Mg é posicionado em locais estratégicos da estrutura de ferro.\n\nQuanto ao método de proteção, é possível dividir a proteção do ferro contra a oxidação em proteção por\nbarreira física, que recobre todo o material e o protege do contato com o ar, e proteção catódica, em que\no metal protetor atua como ânodo, repondo a perda de elétrons.\n\nConsidere os seguintes potenciais de redução:\n\n- Mg²⁺ + 2e⁻ → Mg⁰, E⁰ = –2,37 V\n- Zn²⁺ + 2e⁻ → Zn⁰, E⁰ = –0,76 V\n- Fe²⁺ + 2e⁻ → Fe⁰, E⁰ = –0,44 V\n- Sn²⁺ + 2e⁻ → Sn⁰, E⁰ = –0,14 V\n\nConsiderando os potenciais de redução apresentados e as técnicas descritas, o metal que fornece apenas\nproteção por barreira física e o metal que fornece tanto proteção por barreira física como proteção\ncatódica são, respectivamente,",
+      "alternativas": {
+        "a": "estanho e zinco.",
+        "b": "estanho e magnésio.",
+        "c": "magnésio e zinco.",
+        "d": "zinco e magnésio.",
+        "e": "zinco e estanho."
+      },
+      "resposta": "a",
+      "explicacao": "O metal usado como proteção catódica (metal de sacrifício) deve ser mais reativo (mais eletropositivo) do que o ferro para se oxidar preferencialmente em seu lugar; entre os citados, o magnésio (mais reativo, usado em pontos estratégicos como ânodo de sacrifício) e o zinco (usado revestindo toda a peça, galvanização) atendem a essa condição, diferente do estanho, menos reativo que o ferro.",
+      "formato": "direta",
+      "origem": "insper-2026.2"
     }
   ]
 }

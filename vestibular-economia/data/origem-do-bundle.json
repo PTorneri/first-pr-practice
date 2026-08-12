@@ -1,24 +1,24 @@
 {
-  "composto": "2026-08-10",
-  "total": 2922,
+  "composto": "2026-08-12",
+  "total": 3416,
   "origem": {
     "direito/interpretacao-texto": "dfa2c9939c15",
-    "direito/literatura": "5ff7eeffb367",
+    "direito/literatura": "ea8f7134f1c5",
     "direito/gramatica": "839d70231ce9",
     "direito/ingles": "d11ede3436a2",
-    "direito/matematica-rlm": "3fbaa7daac49",
-    "medicina/matematica": "f33aff71e10b",
-    "direito/historia-brasil": "e28a972c2aa7",
-    "direito/historia-geral": "979971270291",
-    "direito/geografia": "32d3cc9ff2e0",
-    "direito/filosofia-sociologia": "feda856efa6e",
+    "direito/matematica-rlm": "e5c28c759b47",
+    "medicina/matematica": "39161d196c5f",
+    "direito/historia-brasil": "eea10c8f16c2",
+    "direito/historia-geral": "f6cc8672beb8",
+    "direito/geografia": "12bd9329dd0e",
+    "direito/filosofia-sociologia": "bc0987990c15",
     "direito/direitos-humanos": "fd7bc51928c0",
     "direito/atualidades-politica": "3625cf638d25",
-    "direito/atualidades-geopolitica": "27d19388be49",
-    "direito/atualidades-meioambiente": "fe79fed6e5f8",
+    "direito/atualidades-geopolitica": "aee1da545e0b",
+    "direito/atualidades-meioambiente": "fb580866aa5f",
     "direito/atualidades-tecnologia": "01e020799744",
-    "medicina/biologia": "73b70af567e8",
-    "medicina/quimica": "fa6047cbeb20",
-    "medicina/fisica": "fe2f3b37036b"
+    "medicina/biologia": "e1cdc523aa4c",
+    "medicina/quimica": "42f43070a92a",
+    "medicina/fisica": "9c681cde390c"
   }
 }

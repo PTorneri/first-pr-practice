@@ -3819,6 +3819,1519 @@
       "resposta": "e",
       "explicacao": "O paratormônio, da paratireoide, é o hormônio hipercalcemiante: estimula osteoclastos, aumenta a reabsorção tubular de cálcio e ativa a vitamina D no rim. A calcitonina, da tireoide, tem efeito oposto e menor peso fisiológico no adulto. Trocar os papéis dos dois hormônios é o erro mais frequente.",
       "formato": "direta"
+    },
+    {
+      "id": "biologia-236",
+      "enunciado": "Alguns corais contêm, em sua estrutura, algas fornecedoras de carboidratos que auxiliam no crescimento e na construção do esqueleto do coral. Os corais, por sua vez, fornecem um ambiente de proteção e importantes nutrientes às algas. As mudanças climáticas globais têm provocado a morte dessas algas e, em muitos casos, a morte dos corais.\n\nAssinale a alternativa que representa a relação ecológica entre os corais e as algas, assim como o impacto imediato causado pela morte dos corais.",
+      "alternativas": {
+        "a": "Predação — Formação das marés vermelhas e desoxigenação das águas oceânicas.",
+        "b": "Mutualismo — Perda de habitat para diversas espécies marinhas, assim como diminuição de suas fontes de proteção e alimento.",
+        "c": "Colônia — Aumento de habitats e nichos ecológicos para espécies que passam a viver no local antes ocupado pelos corais.",
+        "d": "Competição — Invasão biológica por espécies que ocupam o nicho deixado vago pelos corais.",
+        "e": "Comensalismo — Enriquecimento das águas oceânicas por cálcio e nitrogênio, favorecendo o desenvolvimento de algas marinhas."
+      },
+      "resposta": "b",
+      "explicacao": "A relação é de mutualismo, já que ambos os organismos se beneficiam (as algas recebem proteção e nutrientes, e o coral recebe carboidratos). Com a morte das algas e dos corais, desaparece o abrigo e a fonte de alimento de diversas espécies marinhas que dependiam do recife.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "biologia-237",
+      "enunciado": "A maior parte da alimentação humana é constituída por grãos e cereais, que, em sua maioria, correspondem às sementes, em termos botânicos. Esse consumo é adequado, uma vez que as sementes",
+      "alternativas": {
+        "a": "constituem o único órgão de reserva de amido das plantas, substância altamente energética para os seres vivos em geral.",
+        "b": "armazenam todas as vitaminas e nutrientes necessários para a planta e, portanto, também ao ser humano.",
+        "c": "possuem DNA da planta-mãe e do embrião, que constituem nutrientes sem os quais a espécie humana não sobrevive.",
+        "d": "contêm substâncias de reserva provedoras de energia para o desenvolvimento do embrião vegetal, que também servem de fonte energética aos seres humanos.",
+        "e": "possuem enzimas digestivas de amido e de proteínas, que disponibilizam energia ao embrião vegetal e também são usadas para promover a digestão em seres humanos."
+      },
+      "resposta": "d",
+      "explicacao": "As sementes armazenam substâncias de reserva (como amido, óleos e proteínas) que fornecem energia para o desenvolvimento do embrião vegetal — e essas mesmas reservas energéticas beneficiam a nutrição humana, não por conterem todas as vitaminas da planta nem por serem o único órgão de reserva vegetal.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "biologia-238",
+      "enunciado": "Dentre os animais invertebrados, alguns grupos apresentam o sistema circulatório fechado, enquanto outros apresentam o sistema circulatório aberto, o que leva a diferenças em processos fisiológicos.\n\nNos invertebrados, o sistema circulatório",
+      "alternativas": {
+        "a": "fechado apresenta uma menor pressão do sangue/hemolinfa em relação ao sistema circulatório aberto.",
+        "b": "aberto apresenta o coração dividido em quatro cavidades: dois átrios e dois ventrículos.",
+        "c": "fechado permite maior eficiência no transporte de oxigênio em relação ao sistema circulatório aberto.",
+        "d": "aberto facilita a distribuição dos nutrientes aos tecidos em relação ao sistema circulatório fechado.",
+        "e": "fechado mistura mais facilmente os gases respiratórios: oxigênio e dióxido de carbono."
+      },
+      "resposta": "c",
+      "explicacao": "No sistema circulatório fechado, o sangue permanece confinado a vasos, o que permite maior pressão e direcionamento do fluxo, tornando o transporte de oxigênio mais eficiente do que no sistema aberto, em que a hemolinfa banha diretamente os tecidos com menor controle de fluxo.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "biologia-239",
+      "enunciado": "Aristóteles produziu aquela que é considerada a primeira classificação dos organismos vivos, no mundo ocidental. Nela, considerou principalmente a existência de características compartilhadas para dividir os seres vivos em distintas categorias. Atualmente, a classificação dos seres vivos pauta-se no paradigma da Escola Filogenética (cladística). Tal escola",
+      "alternativas": {
+        "a": "também realiza a análise de características compartilhadas entre os diferentes grupos de organismos, buscando identificar ancestrais comuns e relações de parentesco entre eles.",
+        "b": "busca as diferenças entre os grupos de seres vivos, agrupando-os exclusivamente com base nessas diferenças, desconsiderando características compartilhadas.",
+        "c": "abandona os princípios aristotélicos e adota ideias que propõem que os seres vivos evoluem com o passar do tempo, tornando-se sempre melhores que as gerações anteriores.",
+        "d": "determina que os seres vivos se adaptam às condições do meio em que vivem e produzem descendentes portadores dessas adaptações, de forma sucessiva.",
+        "e": "considera que características compartilhadas surgem apenas por convergência adaptativa, ou seja, organismos de linhagens diferentes, em um mesmo ambiente, podem desenvolver características comuns."
+      },
+      "resposta": "a",
+      "explicacao": "A escola cladística, assim como a classificação aristotélica, também se baseia em características compartilhadas entre organismos, mas as interpreta como evidência de ancestralidade comum, construindo árvores filogenéticas que expressam o parentesco evolutivo entre os grupos.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "biologia-240",
+      "enunciado": "Em abril de 2025, uma empresa de biotecnologia anunciou que havia criado lobos com características de lobos-gigantes, ou dire-wolves, uma espécie extinta há milhares de anos. Para isso, a empresa obteve o genoma de lobos-gigantes e o comparou com o genoma de lobos modernos. Com base nesta comparação, foram feitas 20 modificações em 14 genes do genoma do lobo moderno, utilizando tecnologias de edição gênica. Em seguida, o núcleo de uma célula de lobo moderno contendo o DNA editado foi inserido em óvulos anucleados de cachorras. Por fim, os óvulos foram inseminados em cachorras, possibilitando a gestação. O resultado foi o nascimento de três filhotes, dois machos e uma fêmea, que possuem pelagem branca e espessa, além de um tamanho corporal maior, lembrando o fenótipo esperado de um lobo-gigante.\n\nSe, no futuro, a empresa resolver acasalar estes filhotes, espera-se que a prole seja parecida com",
+      "alternativas": {
+        "a": "cachorros, pois os óvulos utilizados para gerar os filhotes são desta espécie.",
+        "b": "lobos-gigantes, uma vez que cada geração tenderá a ser mais parecida com a espécie extinta.",
+        "c": "lobos modernos selvagens, uma vez que as edições no genoma não são hereditárias.",
+        "d": "lobos modernos modificados, pois os núcleos utilizados para gerar os filhotes são desta espécie.",
+        "e": "nenhuma espécie conhecida, pois os efeitos da edição genética são imprevisíveis."
+      },
+      "resposta": "d",
+      "explicacao": "Como os filhotes vieram de núcleos de células de lobo moderno editado (inseridos em óvulos anucleados de cadela), o material genético nuclear que definirá a prole é o do lobo moderno modificado — a espécie do óvulo original não determina o genótipo do descendente, pois o núcleo foi substituído.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "biologia-241",
+      "enunciado": "Após a confirmação da primeira morte humana por gripe aviária nos Estados Unidos, surge a dúvida sobre a possibilidade de uma nova pandemia. Embora os vírus da gripe aviária ataquem principalmente aves, eles também podem infectar outros animais, incluindo humanos. Infecções humanas com vírus da gripe aviária são raras e, normalmente, não se transmitem de pessoa para pessoa.\n\nOs cientistas concordam que mudanças-chave na sequência genética do vírus seriam necessárias para iniciar uma pandemia. Cada vez que um vírus infecta uma célula e novas unidades virais são produzidas, erros podem ocorrer. Ocasionalmente, há uma mudança genética que ajuda o vírus a se tornar melhor em infectar células. Assim, essa versão do vírus pode superar outras, infectando novos hospedeiros ou novos tipos de hospedeiros.\n\nCom base no texto, as mutações no vírus da gripe aviária",
+      "alternativas": {
+        "a": "ocorrem quando eles infectam espécies diferentes.",
+        "b": "são induzidas unicamente pela resposta imune do organismo hospedeiro.",
+        "c": "ocorrem quando o vírus se replica dentro das células infectadas.",
+        "d": "são consequência direta do contato frequente com aves migratórias portadoras do vírus.",
+        "e": "ocorrem apenas quando o vírus entra em contato com medicamentos antivirais."
+      },
+      "resposta": "c",
+      "explicacao": "As mutações genéticas do vírus surgem como erros durante o processo de replicação viral dentro das células infectadas; variantes que tornam o vírus mais apto a infectar podem então se espalhar mais, e não são causadas diretamente pelo contato com espécies diferentes ou por medicamentos.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "biologia-242",
+      "enunciado": "A vacina contra a dengue co-desenvolvida pelo Brasil, a Qdenga, começou a ser oferecida pelo SUS em 2024. Indivíduos imunocompetentes recebem vírus atenuados ao serem vacinados, adquirindo imunidade sem ficar doentes. Pessoas com imunodeficiências, indivíduos com HIV sintomático, gestantes e lactantes não podem ser vacinadas. No entanto, estas pessoas podem ser beneficiadas com a vacinação da população, pois",
+      "alternativas": {
+        "a": "pessoas não-vacinadas adquirem imunidade por contato com vacinados.",
+        "b": "mosquitos transmissores da dengue morrem ao picar pessoas vacinadas.",
+        "c": "vírus atenuados alteram o material genético dos vírus selvagens.",
+        "d": "as chances de epidemias diminuem quando a cobertura vacinal é alta.",
+        "e": "pessoas vacinadas liberam anticorpos contra o vírus no ambiente."
+      },
+      "resposta": "d",
+      "explicacao": "Quando grande parte da população está vacinada, a circulação do vírus diminui (imunidade de rebanho), reduzindo as chances de epidemias e protegendo indiretamente quem não pode ser vacinado — não há transferência de imunidade por contato nem liberação de anticorpos no ambiente.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "biologia-243",
+      "enunciado": "A bióloga Lynn Margulis publicou um polêmico artigo em 1967 propondo que algumas organelas das células eucarióticas poderiam ser o resultado de eventos de endossimbiose, no qual bactérias passaram a viver em simbiose dentro de células eucarióticas até serem completamente incorporadas a elas. A hipótese de Margulis sofreu muita oposição, até que evidências experimentais mostraram que algumas organelas de fato possuíam muitas similaridades com bactérias.\n\nEntre as evidências de endossimbiose, podemos citar:",
+      "alternativas": {
+        "a": "As membranas duplas dos núcleos.",
+        "b": "Os ribossomos aderidos ao retículo endoplasmático.",
+        "c": "A parede celular das células vegetais.",
+        "d": "O formato do complexo de Golgi.",
+        "e": "O genoma circular das mitocôndrias."
+      },
+      "resposta": "e",
+      "explicacao": "O genoma circular e independente das mitocôndrias, semelhante ao DNA de bactérias, é uma das principais evidências da teoria endossimbiótica, segundo a qual essas organelas se originaram de bactérias que passaram a viver dentro de células eucarióticas ancestrais.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "biologia-244",
+      "enunciado": "A figura a seguir corresponde a células estomáticas da folha de uma planta de mata atlântica, em dois momentos distintos (a figura mostra um estômato aberto e outro fechado, ligados por uma seta Z).\n\nÉ correto afirmar que a seta Z representa",
+      "alternativas": {
+        "a": "a passagem de uma condição de escuro (noite) para alta luminosidade (dia).",
+        "b": "a diminuição da concentração de solutos na célula estomática.",
+        "c": "o aumento da umidade relativa do ar ao longo do dia.",
+        "d": "a intensificação da concentração de água no solo em que a planta se encontra.",
+        "e": "o aumento do nível de turgescência (turgor) da célula estomática."
+      },
+      "resposta": "b",
+      "explicacao": "A seta Z representa a transição do estômato aberto para o fechado, causada pela diminuição da concentração de solutos nas células-guarda: com menos solutos, a célula perde água por osmose, reduz sua turgescência e o estômato se fecha.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "biologia-245",
+      "enunciado": "A figura a seguir representa nichos ecológicos de duas espécies que utilizam um dado recurso ambiental em comum e de forma semelhante (diagrama de sobreposição de nichos, com uma área central N onde os dois nichos se cruzam).\n\nÉ correto afirmar que a área N representa",
+      "alternativas": {
+        "a": "uma região de sobreposição de nichos, na qual pode ocorrer competição intraespecífica e interespecífica.",
+        "b": "uma área fictícia, já que, por definição, nicho é algo exclusivo de uma espécie e não pode se sobrepor a outro nicho.",
+        "c": "o conceito de habitat, que corresponde ao local em que duas ou mais espécies distintas coabitam.",
+        "d": "o próprio recurso compartilhado pelas duas espécies de forma simétrica e equilibrada.",
+        "e": "o surgimento de um outro nicho, no qual os organismos ali presentes podem evoluir, originando uma nova espécie."
+      },
+      "resposta": "a",
+      "explicacao": "A área N, onde os nichos se sobrepõem, representa a disputa pelo mesmo recurso, podendo gerar tanto competição interespecífica (entre as duas espécies) quanto intraespecífica (dentro de cada espécie, pelo recurso compartilhado).",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "biologia-246",
+      "enunciado": "Um agricultor realizou a remoção de um anel da casca de ramos caulinares, prática conhecida como anelamento, para aumentar o tamanho dos frutos em seu pomar. Ele observou dois grupos de plantas após algumas semanas. As plantas do grupo 1 tinham uma região claramente anelada nos ramos e seus frutos eram maiores, se comparadas às plantas do grupo 2. Já as plantas do grupo 2 perderam as folhas e foram claramente prejudicadas pelo anelamento. Ao retornar no ano seguinte, o anelamento era quase imperceptível nas plantas do grupo 1.\n\nConsiderando as informações apresentadas e os seus conhecimentos em biologia vegetal, é correto afirmar que o anelamento eliminou os vasos do",
+      "alternativas": {
+        "a": "xilema e limitou o transporte de água para as folhas, comprometendo a atividade do câmbio vascular nas plantas do grupo 1.",
+        "b": "floema e restringiu o transporte dos produtos da fotossíntese para as folhas, sem comprometer a atividade do câmbio vascular nas plantas do grupo 2.",
+        "c": "xilema e limitou o transporte de água para as raízes, comprometendo a atividade do câmbio vascular nas plantas do grupo 2.",
+        "d": "floema e restringiu o transporte dos produtos da fotossíntese para as raízes, sem comprometer a atividade do câmbio vascular nas plantas do grupo 1."
+      },
+      "resposta": "d",
+      "explicacao": "O anelamento remove o floema, tecido vivo responsável pelo transporte da seiva elaborada (produtos da fotossíntese); ao impedir que esses produtos cheguem às raízes do grupo 1, elas ficaram sem reservas e morreram lentamente, enquanto os frutos acima do anel acumularam mais açúcares — sem que o xilema (e, portanto, o câmbio vascular) fosse comprometido.",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "biologia-247",
+      "enunciado": "No heredograma a seguir, são representadas raças de animais heterozigotos (em preto) e homozigotos (em branco). Os heterozigotos apresentam o alelo deletério recessivo e animais contendo dois alelos iguais recessivos têm menor ganho de peso. Os valores na figura indicam a massa corporal dos animais (em quilos, kg) em um grupo de animais isolados.\n\nO heredograma mostra um casal de bovinos heterozigotos (preenchidos em preto), de 350 kg e 250 kg, cruzados entre si. Da prole (geração F1) resultam três indivíduos: um homozigoto (sem preenchimento) de 350 kg, um heterozigoto (preenchido em preto) de 500 kg, e um homozigoto (sem preenchimento) de 150 kg.\n\nConsiderando as informações apresentadas, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "A heterose ocorre no cruzamento entre indivíduos heterozigotos, levando à maior massa corporal, com probabilidade de ocorrer em 66% dos animais da geração F1.",
+        "b": "A heterozigose tem probabilidade de ocorrer em 33% dos animais da geração F1, proporcionando animais com maior massa corporal e maior variabilidade genética.",
+        "c": "A depressão endogâmica tem probabilidade de ocorrer em 25% dos animais da geração F1, proporcionando animais com menor massa corporal e também menor variabilidade genética.",
+        "d": "A homozigose determina a depressão endogâmica, levando à menor massa corporal, com probabilidade de ocorrer em 50% dos animais da geração F1."
+      },
+      "resposta": "c",
+      "explicacao": "No cruzamento Aa × Aa, a proporção esperada é 1 AA : 2 Aa : 1 aa, ou seja, 25% de homozigotos recessivos (aa) — os indivíduos de menor massa corporal do heredograma —, caracterizando depressão endogâmica associada à perda de variabilidade genética.",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "biologia-248",
+      "enunciado": "A irisina está entre os principais hormônios que são liberados na atividade física, especialmente pelos músculos, e que pode trazer ótimos benefícios para a saúde. Além de ter propriedades anti-inflamatórias, a irisina atua principalmente no tecido adiposo. Desse modo, pode ajudar no gasto energético por meio dos lipídios e contribuir no emagrecimento.\n\nA irisina é transportada pelo corpo por meio",
+      "alternativas": {
+        "a": "dos linfonodos.",
+        "b": "do citoesqueleto.",
+        "c": "dos fibroblastos.",
+        "d": "das sinapses nervosas.",
+        "e": "da corrente sanguínea."
+      },
+      "resposta": "e",
+      "explicacao": "Por ser um hormônio (uma miocina liberada pelos músculos durante o exercício), a irisina é transportada até seus tecidos-alvo, como o tecido adiposo, pela corrente sanguínea.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "biologia-249",
+      "enunciado": "Em gatos, o padrão da cor da pelagem consiste em uma herança ligada ao sexo. Os machos de pelagem branca e preta apresentam o alelo P, e os machos de pelagem branca e amarela apresenta o alelo A. As fêmeas podem apresentar o mesmo padrão de cores dos machos, no entanto, há fêmeas que apresentam a pelagem branca, preta e amarela. Esse fenótipo de três cores em fêmeas ocorre porque",
+      "alternativas": {
+        "a": "durante a embriogênese são formadas células com aneuploidias.",
+        "b": "durante a meiose há permutação entre os cromossomos X e Y.",
+        "c": "os alelos P e A estão localizados no cromossomo sexual Y.",
+        "d": "os alelos P e A estão ligados no mesmo cromossomo sexual.",
+        "e": "há inativação aleatória de um cromossomo X em células da pele."
+      },
+      "resposta": "e",
+      "explicacao": "O padrão tricolor exige a presença simultânea dos alelos P e A, que estão localizados no cromossomo X; como fêmeas têm dois cromossomos X, ocorre inativação aleatória de um deles em cada célula da pele durante o desenvolvimento (lyonização), fazendo com que diferentes áreas expressem um ou outro alelo e produzam o mosaico de cores.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "biologia-250",
+      "enunciado": "A figura mostra um idiograma que representa o conjunto de cromossomos identificado em uma célula somática de uma espécie de planta: os cromossomos estão organizados em 8 grupos de tamanho decrescente — grupo \"1–3\" (3 posições), grupo \"4–5\" (2 posições), grupo \"6–12\" (7 posições), grupo \"13–15\" (3 posições), grupo \"16–18\" (3 posições), grupo \"19–20\" (2 posições), grupo \"21–22\" (2 posições) e grupo \"23\" (1 posição) —, totalizando 23 posições cromossômicas distintas. Em cada uma dessas 23 posições, o idiograma mostra um trio de 3 cromossomos homólogos (não um par), totalizando 69 cromossomos na célula.\n\nA análise desse idiograma revela que essa planta é",
+      "alternativas": {
+        "a": "haploide e apresenta número ímpar de cromossomos.",
+        "b": "poliploide e apresenta 23 trios de cromossomos homólogos.",
+        "c": "diploide e apresenta um conjunto de 69 cromossomos.",
+        "d": "aneuploide e apresenta trissomia de todos os cromossomos.",
+        "e": "poligênica e apresenta 69 cromossomos homólogos."
+      },
+      "resposta": "b",
+      "explicacao": "O idiograma mostra 23 posições cromossômicas, cada uma com um trio (não um par) de homólogos, totalizando 69 cromossomos — um múltiplo do número básico (23×3), o que caracteriza poliploidia (triploidia), e não simples aneuploidia ou haploidia.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "biologia-251",
+      "enunciado": "O esquema (de elaboração própria, adaptado de uma publicação acadêmica) ilustra quatro diferentes tipos de ciclos de transmissão de doenças infecciosas aos seres humanos:\n- Ciclo 1: transmissão direta entre humanos, sem vetor e sem reservatório animal (humano → humano → humano, em ciclo fechado).\n- Ciclo 2: transmissão entre humanos por meio de um vetor (humano → vetor → humano → vetor → humano, em ciclo fechado).\n- Ciclo 3: ciclo mantido entre animais não humanos, com transbordamento (spillover) direto para humanos, sem vetor.\n- Ciclo 4: ciclo mantido entre animais não humanos por meio de um vetor, com o vetor também transmitindo a doença a humanos.\n\nSão exemplos de doenças que podem ser transmitidas de acordo com os ciclos 1, 2, 3 e 4, respectivamente,",
+      "alternativas": {
+        "a": "pneumonia, amebíase, Zika e leishmaniose.",
+        "b": "sífilis, ancilostomose, teníase e doença de Chagas.",
+        "c": "esquistossomose, ascaridíase, AIDS e dengue.",
+        "d": "cisticercose, peste bubônica, tuberculose e tifo.",
+        "e": "gripe, malária, raiva e febre amarela."
+      },
+      "resposta": "e",
+      "explicacao": "A gripe se transmite diretamente entre pessoas (ciclo 1); a malária depende de um vetor (mosquito Anopheles) entre humanos (ciclo 2); a raiva é mantida entre animais e pode transbordar diretamente para humanos, por mordida, sem vetor (ciclo 3); e a febre amarela é mantida entre animais silvestres e o mesmo vetor (mosquito) também pode transmiti-la a humanos (ciclo 4).",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "biologia-252",
+      "enunciado": "A cor da pelagem em cavalos depende, entre outros fatores, da ação de dois pares de alelos W e w; B e b. O alelo W é epistático na manifestação da cor e é dominante sobre seu alelo w, que permite a manifestação da cor; o alelo B determina pelos pretos e o b, pelos marrons. Quando o alelo W está presente no genótipo, o fenótipo é pelos brancos.\n\nFoi realizado um cruzamento entre uma égua, de pelagem branca, duplamente heterozigota para os dois genes, e um cavalo de pelagem marrom. A proporção fenotípica da prole, independentemente do sexo, com pelagem branca, preta e marrom esperada desse cruzamento será, respectivamente, de:",
+      "alternativas": {
+        "a": "9:3:4",
+        "b": "12:3:1",
+        "c": "1:2:1",
+        "d": "2:1:1",
+        "e": "3:1:0"
+      },
+      "resposta": "d",
+      "explicacao": "Como W é epistático e dominante, todo indivíduo com pelo menos um W é branco. Do cruzamento WwBb × wwbb, metade da prole é Ww (branca) e metade ww; dentro dos ww, metade é Bb (preta) e metade bb (marrom). Assim, a proporção final é 1/2 branco : 1/4 preto : 1/4 marrom, ou seja, 2:1:1.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "biologia-253",
+      "enunciado": "Uma fotografia obtida por meio da microscopia eletrônica é um registro da ação de leucócitos humanos: em amarelo, estão as redes extracelulares criadas por leucócitos humanos do tipo mastócitos; em vermelho, estão as bactérias *Pseudomonas* sp capturadas durante a ação. A ação dos mastócitos sobre essas bactérias está relacionada ao processo",
+      "alternativas": {
+        "a": "anti-inflamatório.",
+        "b": "de pinocitose.",
+        "c": "imunológico.",
+        "d": "de exocitose.",
+        "e": "autoimune."
+      },
+      "resposta": "c",
+      "explicacao": "A liberação de redes extracelulares por leucócitos para capturar e neutralizar bactérias é parte da resposta imunológica inata do organismo contra patógenos.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "biologia-254",
+      "enunciado": "Alguns fungos crescem de forma controlada sobre os alimentos. Durante a maturação do queijo Gorgonzola, os fungos crescem, absorvem os nutrientes e se multiplicam. Esse processo é realizado por fungos do gênero *Penicillium*. O metabolismo dos fungos exemplificado no excerto é classificado como",
+      "alternativas": {
+        "a": "autotrófico, cuja digestão é intracelular, nas hifas.",
+        "b": "autotrófico, cuja digestão é extracorpórea.",
+        "c": "heterotrófico, cuja digestão ocorre na cavidade gástrica.",
+        "d": "heterotrófico, cuja digestão é extracorpórea.",
+        "e": "heterotrófico, cuja digestão ocorre intracelularmente no micélio."
+      },
+      "resposta": "d",
+      "explicacao": "Os fungos são heterotróficos e realizam digestão extracorpórea: liberam enzimas digestivas sobre o substrato (o queijo, no caso) e depois absorvem os nutrientes já digeridos através das hifas.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "biologia-255",
+      "enunciado": "Os embriões de jararaca (*Bothrops jararaca*) se desenvolvem dentro de ovos, que permanecem no interior do corpo da fêmea, até a eclosão de filhotes já completamente formados. Essa forma de reprodução protege os embriões e aumenta as chances de sobrevivência dos filhotes. Quanto à forma de reprodução, as jararacas são classificadas como",
+      "alternativas": {
+        "a": "ovíparas.",
+        "b": "vivíparas.",
+        "c": "marsupiais.",
+        "d": "monotremadas.",
+        "e": "ovovivíparas."
+      },
+      "resposta": "e",
+      "explicacao": "Como os embriões se desenvolvem dentro de ovos que permanecem no corpo da mãe até a eclosão de filhotes já formados, sem trocas nutritivas diretas com a mãe (como ocorre na viviparidade), a jararaca é classificada como ovovivípara.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "biologia-256",
+      "enunciado": "O albinismo é uma característica genética condicionada por um par de alelos autossômicos, recessivos e com segregação independente nos seres humanos. Diante disso, a probabilidade de nascimento de um bebê albino e do sexo biológico masculino, a partir de um casal heterozigoto para tal condição, é de",
+      "alternativas": {
+        "a": "1/2.",
+        "b": "1/3.",
+        "c": "1/4.",
+        "d": "1/8.",
+        "e": "1/12."
+      },
+      "resposta": "d",
+      "explicacao": "Do cruzamento Aa × Aa, a chance de um filho ser albino (aa) é 1/4; combinada à chance de 1/2 de ser do sexo masculino (evento independente), a probabilidade conjunta é 1/4 × 1/2 = 1/8.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "biologia-257",
+      "enunciado": "O soro fisiológico é uma solução salina amplamente usada para administração intravenosa de medicamentos, limpeza de ferimentos e realização de inalações. Em relação à concentração do meio intracelular, o soro fisiológico é considerado uma solução ______, o que garante que as células do corpo humano não sofram alteração de volume enquanto o soro é administrado. Isso ocorre porque, durante o processo de ______, há equilíbrio entre a quantidade de água que entra e que sai da célula pela membrana plasmática.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "isotônica – transporte ativo.",
+        "b": "hipotônica – difusão facilitada.",
+        "c": "hipertônica – osmose.",
+        "d": "isotônica – osmose.",
+        "e": "hipotônica – transporte ativo."
+      },
+      "resposta": "d",
+      "explicacao": "O soro fisiológico é isotônico em relação ao meio intracelular, ou seja, tem a mesma concentração de solutos; por isso, durante a osmose, a quantidade de água que entra e sai da célula se equilibra, e ela não muda de volume.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "biologia-258",
+      "enunciado": "A estreptomicina FURP é um antibiótico do grupo dos aminoglicosídeos, com ação sobre microrganismos procariontes responsáveis por diversas doenças. Esse medicamento atua principalmente durante a fase de multiplicação desses parasitas, interferindo na síntese de proteínas e levando à morte dos microrganismos sensíveis aos seus componentes. Uma doença que pode ser tratada com esse medicamento é a",
+      "alternativas": {
+        "a": "gripe.",
+        "b": "tuberculose.",
+        "c": "AIDS.",
+        "d": "candidíase.",
+        "e": "leishmaniose."
+      },
+      "resposta": "b",
+      "explicacao": "A estreptomicina, aminoglicosídeo que inibe a síntese proteica bacteriana, é um dos antibióticos usados no tratamento da tuberculose, causada pela bactéria Mycobacterium tuberculosis.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "biologia-259",
+      "enunciado": "Uma doença cardíaca bastante comum é a hipertensão arterial, que pode ser causada por maior resistência à circulação sanguínea. Uma adaptação observada no coração de pessoas hipertensas é o espessamento da musculatura que forma a câmara cardíaca que bombeia sangue para todo o corpo. Dessa maneira, o coração compensa a resistência do fluxo sanguíneo ao longo dos vasos porque",
+      "alternativas": {
+        "a": "o ventrículo direito passa a bombear sangue arterial com maior pressão.",
+        "b": "o ventrículo esquerdo passa a bombear sangue venoso com menor pressão.",
+        "c": "o átrio esquerdo passa a bombear sangue arterial com menor pressão.",
+        "d": "o ventrículo direito passa a bombear sangue venoso com maior pressão.",
+        "e": "o ventrículo esquerdo passa a bombear sangue arterial com maior pressão."
+      },
+      "resposta": "e",
+      "explicacao": "O ventrículo esquerdo é a câmara que bombeia sangue arterial (rico em O₂) para todo o corpo através da aorta; na hipertensão, ele precisa gerar mais força (e sua parede se espessa) para vencer a maior resistência vascular, aumentando a pressão do sangue bombeado.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "biologia-260",
+      "enunciado": "Em um heredograma, os indivíduos I.1 (homem afetado), I.4 (mulher afetada) e II.1 (mulher afetada, filha de I.1 × I.2) apresentam uma doença genética monogênica com herança autossômica dominante. I.2 (mulher não afetada) e I.1 (homem afetado) são pais de II.1; I.3 (homem não afetado) e I.4 (mulher afetada) são pais de II.2 (homem não afetado). A probabilidade de os indivíduos II.1 e II.2 gerarem uma criança do sexo biológico masculino portadora do alelo para essa doença é",
+      "alternativas": {
+        "a": "1/2.",
+        "b": "1/3.",
+        "c": "1/4.",
+        "d": "1/8.",
+        "e": "2/3."
+      },
+      "resposta": "c",
+      "explicacao": "II.1 (afetada) é heterozigota Aa (pai I.1 afetado × mãe I.2 não afetada); II.2 (não afetado) é aa. Do cruzamento Aa × aa, metade dos filhos é Aa (portador afetado); combinando com a probabilidade de 1/2 de ser do sexo masculino, a chance conjunta é 1/2 × 1/2 = 1/4.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "biologia-261",
+      "enunciado": "O esquema mostra a relação entre dois processos biológicos: em um deles, O₂ entra em uma mitocôndria, que consome (CH₂O)ₙ e libera CO₂ + H₂O, produzindo ATP (respiração celular); no outro, luz entra em um cloroplasto, que consome CO₂ + H₂O e libera O₂, produzindo (CH₂O)ₙ (fotossíntese) — com trocas de gases (O₂ e CO₂) entre os dois processos. Os dois processos biológicos apresentados no esquema",
+      "alternativas": {
+        "a": "integram parte do ciclo biogeoquímico do carbono.",
+        "b": "participam do metabolismo de poluentes na biomagnificação.",
+        "c": "prejudicam a formação da camada de ozônio na atmosfera.",
+        "d": "reduzem o transporte de seiva em vasos condutores.",
+        "e": "ocorrem no embrião vegetal durante a germinação."
+      },
+      "resposta": "a",
+      "explicacao": "A respiração celular libera CO₂ que pode ser reaproveitado na fotossíntese, e esta libera O₂ usado na respiração — as trocas gasosas entre os dois processos integram o ciclo biogeoquímico do carbono.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "biologia-262",
+      "enunciado": "Leia as instruções para um experimento de diferenciação dos tipos de solos.\n\nPara fazer um teste de solo em um recipiente, primeiramente preencha-o até a metade com a amostra de solo. Em seguida, preencha o espaço restante com água, deixando um pouco de ar na parte superior. Após tampar o recipiente, agite-o vigorosamente até que todos os torrões de solo sejam desfeitos. Deixe o recipiente em um local onde não haja perturbação. Após 24 horas, o solo terá se sedimentado em camadas visíveis de argila, silte e areia. Ao medir as proporções relativas dessas três texturas no solo, é possível determinar qual tipo de solo você possui.\n\nUma aplicação prática do experimento descrito é",
+      "alternativas": {
+        "a": "a investigação das condições para a formação de laterita no solo.",
+        "b": "a investigação sobre a estratificação de voçorocas no solo.",
+        "c": "o prognóstico das condições de assoreamento do solo.",
+        "d": "a classificação dos diferentes tipos de horizontes do solo.",
+        "e": "o estudo na construção civil sobre a estabilidade do solo."
+      },
+      "resposta": "d",
+      "explicacao": "Ao permitir observar as proporções relativas de argila, silte e areia sedimentadas, o experimento serve para classificar o tipo de solo (e seus horizontes), uma aplicação prática de análise textural do solo.",
+      "formato": "direta",
+      "origem": "unesp-2026-1"
+    },
+    {
+      "id": "biologia-263",
+      "enunciado": "O edifício Mjøstårnet, que fica em Brumunddal, Noruega, é uma das maiores construções em madeira do mundo, com 85,4 metros de altura.\n\nO conceito de madeira engenheirada engloba cerca de 20 produtos estruturais confeccionados industrialmente. São painéis de diferentes tamanhos, blocos, vigas, lâminas para revestimentos de pisos e paredes, dentre outros. Além disso, há cerca de uma dezena de sistemas construtivos com madeira engenheirada, que podem ser utilizados de forma isolada, combinados ou mesmo de forma híbrida — incorporando aço e concreto às construções em madeira. Essa versatilidade permite a construção desde casas simples até obras grandes e complexas, como prédios, anfiteatros, museus, equipamentos esportivos, terminais de ônibus, pontes e outras grandes estruturas.\n\nConsiderando que a construção civil é um dos setores com destaque nas emissões globais de gases causadores de efeito estufa, um benefício que o uso de madeira engenheirada nas edificações promove é",
+      "alternativas": {
+        "a": "o sequestro de carbono durante o crescimento do vegetal.",
+        "b": "a eliminação de combustíveis fósseis na cadeia produtiva do setor.",
+        "c": "a criação do estoque de oxigênio nas construções em ambiente urbano.",
+        "d": "a absorção de metano pela madeira mesmo após seu beneficiamento.",
+        "e": "o incremento da evapotranspiração nas ilhas de calor."
+      },
+      "resposta": "a",
+      "explicacao": "Durante o crescimento, as árvores fixam carbono atmosférico em sua madeira por meio da fotossíntese; ao usar essa madeira em construções (madeira engenheirada), esse carbono fica armazenado (sequestrado) na estrutura, em vez de ser liberado como ocorreria na decomposição ou queima.",
+      "formato": "direta",
+      "origem": "unesp-2026-1"
+    },
+    {
+      "id": "biologia-264",
+      "enunciado": "Considere que uma mulher tenha se casado com um homem que seja meio-irmão da meia-irmã dela. O casal formado não tem grau de parentesco consanguíneo e gerou uma filha. O heredograma ilustra o grau de parentesco desses indivíduos.\n\n*Descrição do heredograma: no topo, dois casais — o indivíduo 1 (círculo) casado com o indivíduo 2 (quadrado), e o indivíduo 3 (círculo) casado com o indivíduo 4 (quadrado). O indivíduo 5 (círculo) é filho tanto de 2 quanto de 3 (ou seja, 2 e 3 tiveram, em algum momento, uma relação da qual nasceu 5, sendo 5 meio-irmão dos filhos de 1&2 pelo lado paterno, e meio-irmão dos filhos de 3&4 pelo lado materno). Do casal 1&2 nascem os indivíduos 6 (quadrado) e 7 (círculo). Do casal 3&4 nasce o indivíduo 8 (quadrado). O indivíduo 7 casa-se com o indivíduo 8 (que é seu meio-irmão pelo lado de 5, conforme descrito no enunciado) e desse casal nasce a filha 9 (círculo), na geração mais recente.*\n\nSe as moléculas de DNA mitocondrial das pessoas do heredograma fossem comparadas umas às outras, os indivíduos que apresentariam moléculas idênticas entre si correspondem a:",
+      "alternativas": {
+        "a": "3, 4, 5 e 8.",
+        "b": "2, 7 e 9.",
+        "c": "1, 5 e 8.",
+        "d": "2, 5, 6 e 7.",
+        "e": "1, 6, 7 e 9."
+      },
+      "resposta": "e",
+      "explicacao": "O DNA mitocondrial é herdado exclusivamente por via materna. O indivíduo 1 (mãe) transmite seu mtDNA aos filhos 6 e 7; 7 transmite o mesmo mtDNA à filha 9 — por isso, 1, 6, 7 e 9 compartilham moléculas de mtDNA idênticas.",
+      "formato": "direta",
+      "origem": "unesp-2026-1"
+    },
+    {
+      "id": "biologia-265",
+      "enunciado": "Na década de 1940, os Estados Unidos da América tinham especial interesse pela borracha brasileira. Ciente disso, o governo brasileiro firma um acordo com os estadunidenses: eles investem no Brasil e o governo brasileiro se encarrega de arregimentar nova mão de obra nos seringais, a fim de extrair o látex, matéria-prima na fabricação da borracha.\n\nAo se referir a uma negociação entre o Brasil e os Estados Unidos, relativa à extração do látex, o excerto evidencia que",
+      "alternativas": {
+        "a": "a extração do látex no Brasil cresceu durante o Estado Novo para atender às necessidades dos Estados Unidos. O látex é um líquido leitoso produzido por células laticíferas e apresenta compostos orgânicos que protegem a planta contra o ataque de herbívoros.",
+        "b": "a borracha exportada para os Estados Unidos promoveu forte crescimento econômico brasileiro no governo Juscelino Kubitschek. O látex é a seiva bruta composta por água e substâncias inorgânicas retiradas do solo pelas raízes e transportada pelos vasos xilemáticos.",
+        "c": "o Brasil consolidou durante o governo de Juscelino Kubitschek sua condição de maior exportador mundial de borracha. O látex é uma secreção leitosa orgânica produzida pelas células meristemáticas formadoras dos vasos condutores presentes no súber que reveste o tronco da planta.",
+        "d": "o extrativismo do látex durante o Estado Novo reduziu os investimentos governamentais na produção agrícola e industrial brasileira. O látex é um composto orgânico, fluido, esbranquiçado e produzido no parênquima amilífero localizado abaixo da casca do caule.",
+        "e": "a floresta tropical brasileira foi devastada durante o Estado Novo para permitir a exploração do látex e das drogas do sertão. O látex é a seiva elaborada composta por água e moléculas orgânicas resultantes da fotossíntese e transportada pelos vasos floemáticos."
+      },
+      "resposta": "a",
+      "explicacao": "O látex é um líquido leitoso produzido por células laticíferas, contendo compostos orgânicos (como terpenos) que funcionam como defesa química da planta contra herbívoros — função biológica que não se confunde com seiva bruta (xilema) nem com seiva elaborada transportada no floema.",
+      "formato": "direta",
+      "origem": "unesp-2026-1"
+    },
+    {
+      "id": "biologia-266",
+      "enunciado": "Graças aos micróbios invisíveis do ambiente que nos ajudam a processar o esgoto, podemos garantir que a água tratada liberada de volta ao ambiente é segura. Pesquisas em processos de tratamento de esgoto estão investigando novos tipos de configurações de biorreatores e processos de tratamento biológico usando diferentes tipos de micróbios que podem aumentar a eficiência das instalações de tratamento de esgoto — muito importantes para a proteção do meio ambiente e dos nossos recursos hídricos.\n\nO tratamento do esgoto pela ação microbiana permite combater a",
+      "alternativas": {
+        "a": "eutrofização, caracterizada pela reprodução descontrolada de algas a partir do excesso de nutrientes que o despejo do esgoto in natura provoca.",
+        "b": "continentalidade, determinada pelo grau de interferência que a ação antrópica promove no equilíbrio biológico dos ecossistemas.",
+        "c": "lixiviação, estimulada pelo acúmulo de esgoto in natura em áreas de nascentes, o qual provoca a perda da qualidade hídrica no abastecimento humano.",
+        "d": "ressurgência, marcada pela redução do oxigênio dissolvido na água, que estimula a migração desordenada de peixes.",
+        "e": "litificação, estabelecida pelo excesso de nitrogênio que se acumula com o lançamento de matéria orgânica presente no esgoto in natura."
+      },
+      "resposta": "a",
+      "explicacao": "Ao remover a matéria orgânica e os nutrientes em excesso do esgoto antes de seu lançamento nos corpos d'água, os micro-organismos do tratamento evitam a eutrofização, processo de proliferação descontrolada de algas provocado pelo excesso de nutrientes.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "biologia-267",
+      "enunciado": "Em um estudo global publicado na revista Science, pesquisadores liderados pelo Laboratório Nacional do Noroeste do Pacífico do Departamento de Energia (PNNL, em inglês) dos Estados Unidos descobriram que o aumento de perturbações ambientais, como incêndios florestais, seca, desmatamento mecanizado, danos causados pelo vento e por inimigos naturais, tem provocado uma diminuição dramática da idade e do tamanho médio global das florestas.\n\n*Descrição da figura: um diagrama didático em 3D mostra uma floresta saudável à esquerda, uma faixa central \"Perturbações ambientais\" com ícones de fogo, seca e pragas, e à direita uma \"Floresta regenerada\" com árvores mais jovens e menores — com uma seta \"Tempo\" indicando a passagem do tempo da esquerda para a direita.*\n\nDe acordo com a figura, após as perturbações ambientais, é esperado que o local passe pelo processo denominado ______, e uma causa da diminuição do tamanho médio global das florestas é ______.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "invasão biológica – a redução da exposição à luz solar.",
+        "b": "estagnação ecológica – o aumento da lixiviação do solo.",
+        "c": "sucessão ecológica – a redução da hidratação do solo.",
+        "d": "sucessão ecológica – o aumento da umidade do ar.",
+        "e": "estagnação biológica – a maior absorção de luz solar pelo solo."
+      },
+      "resposta": "c",
+      "explicacao": "Após a perturbação, a área passa por sucessão ecológica, processo de regeneração gradual da vegetação; entre as causas da redução do porte médio das florestas está a menor disponibilidade de água no solo, que limita o crescimento das árvores até tamanhos maiores.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "biologia-268",
+      "enunciado": "O gráfico mostra a variação da quantidade de DNA nuclear em uma linhagem de células em divisão, que estão localizadas em um órgão animal.\n\n*Descrição do gráfico: eixo vertical \"Quantidade de DNA nuclear por célula (unidades arbitrárias)\" com marcações em 1X, 2X e 4X; eixo horizontal \"Tempo\". A curva sobe de 2X para 4X, permanece um tempo em 4X, desce de volta a 2X, e esse padrão (2X→4X→2X) se repete três vezes seguidas; ao final do terceiro ciclo, em vez de permanecer em 2X, a curva cai abruptamente para 1X e permanece nesse patamar.*\n\nEssa linhagem de células em divisão está localizada",
+      "alternativas": {
+        "a": "na pele.",
+        "b": "no cérebro.",
+        "c": "nos ossos.",
+        "d": "nos testículos.",
+        "e": "no bíceps."
+      },
+      "resposta": "d",
+      "explicacao": "O padrão de oscilação repetida entre 2X e 4X (várias rodadas de duplicação e divisão mitótica das espermatogônias) seguido de uma queda final a 1X (a meiose, que reduz a ploidia à metade) é característico da espermatogênese, que ocorre nos testículos.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "biologia-269",
+      "enunciado": "O consumo de cigarros eletrônicos (vapes) está ligado ao aumento do risco para o desenvolvimento de enfisema pulmonar, problemas pulmonares obstrutivos crônicos e até câncer de pulmão. Pesquisas apontam que a concentração de nicotina dos vapes pode chegar a cem vezes a do cigarro convencional. Em vapes descartáveis analisados, foram detectadas, ainda, concentrações de cobre, estanho, níquel e zinco em nível muito acima do esperado para qualquer tipo de material que vai ser inalado.\n\nO estado de dependência química de nicotina e o enfisema pulmonar por uso de vapes são decorrentes, respectivamente,",
+      "alternativas": {
+        "a": "do desequilíbrio na liberação de neurotransmissores e da destruição das paredes dos alvéolos pulmonares.",
+        "b": "da hipertrofia da bainha de mielina dos neurônios e do enrijecimento das paredes dos bronquíolos.",
+        "c": "do aumento dos dendritos nos neurônios e do desenvolvimento de tumores nos tecidos pulmonares.",
+        "d": "do aumento das conexões nervosas entre neurônios e da degeneração dos capilares dos alvéolos pulmonares.",
+        "e": "de interrupções das sinapses nervosas e da inflamação do epitélio de revestimento dos bronquíolos."
+      },
+      "resposta": "a",
+      "explicacao": "A dependência química da nicotina decorre do desequilíbrio na liberação de neurotransmissores no sistema nervoso central; já o enfisema pulmonar resulta da destruição progressiva das paredes dos alvéolos, reduzindo a superfície de trocas gasosas.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "biologia-270",
+      "enunciado": "Os grupos sanguíneos de um indivíduo, relativos aos sistemas ABO e Rh, são determinados em laboratório por meio de técnicas sorológicas específicas. Além disso, o sangue pode ser empregado na determinação do sexo biológico de uma pessoa não identificada. Nessas análises laboratoriais, a tipagem sanguínea e a determinação do sexo biológico baseiam-se na observação, respectivamente,",
+      "alternativas": {
+        "a": "da análise cromossômica em trombócitos e da aglutinação em leucócitos.",
+        "b": "da aglutinação em leucócitos e da análise cromossômica em hemácias.",
+        "c": "da aglutinação das hemácias e da análise cromossômica em trombócitos.",
+        "d": "da aglutinação das hemácias e da análise cromossômica em leucócitos.",
+        "e": "da análise cromossômica em leucócitos e da aglutinação das hemácias."
+      },
+      "resposta": "d",
+      "explicacao": "A tipagem sanguínea (sistemas ABO e Rh) é determinada pela reação de aglutinação das hemácias frente a soros específicos; já a determinação do sexo biológico usa análise cromossômica em leucócitos, únicas células sanguíneas nucleadas capazes de fornecer material genético para esse exame.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "biologia-271",
+      "enunciado": "O gráfico apresenta a variação populacional de renas na pequena ilha de St. Paul, localizada no mar de Bering, após a introdução de 26 desses animais no ano de 1910. Em 1938, havia mais de 2 000 renas na ilha e, após esse ano, a população desses animais foi reduzida drasticamente até 1950.\n\n*Descrição do gráfico: eixo vertical \"Número de renas\" (0 a 2000), eixo horizontal \"Ano\" (1910 a 1950). Uma linha horizontal laranja marca a \"Capacidade de suporte\" em torno de 200 renas. A curva verde parte de próximo a zero em 1910, sobe suavemente até um pequeno pico de ~250 por volta de 1922, cai um pouco, sobe de novo, e então sobe acentuadamente até um pico bem acima de 2000 (~2050) por volta de 1938-1939, caindo depois de forma abrupta até valores próximos de zero por volta de 1950.*\n\nDe acordo com os resultados observados no gráfico e conhecimentos sobre densidade populacional, afirma-se que",
+      "alternativas": {
+        "a": "entre 1910 e 1920 a população de renas atingiu seu potencial biótico.",
+        "b": "a partir de 1938 a resistência do meio intensificou a redução populacional de renas.",
+        "c": "a partir de 1930 a população de renas atingiu o equilíbrio populacional.",
+        "d": "entre 1940 e 1950 a taxa de natalidade das renas superou a de mortalidade.",
+        "e": "em 1938 a população de renas atingiu a carga biótica máxima."
+      },
+      "resposta": "e",
+      "explicacao": "O pico populacional de mais de 2.000 renas em 1938, muito acima da capacidade de suporte de cerca de 200 indicada no gráfico, representa a carga biótica máxima que o ambiente conseguiu momentaneamente sustentar antes do colapso populacional subsequente.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "biologia-272",
+      "enunciado": "Analise o cladograma que apresenta algumas das características evolutivas compartilhadas entre os principais grupos de plantas representados pelos números de 1 a 4.\n\n*Descrição do cladograma: árvore filogenética simples com quatro ramos terminais numerados 1, 2, 3 e 4 da esquerda para a direita. Ao longo do eixo central, de baixo para cima, aparecem marcadas, em ordem, as sinapomorfias: \"Embriões protegidos\" (nó mais basal, após o qual o ramo 1 se separa), \"Vasos condutores\" (após o qual o ramo 2 se separa), \"Sementes\" (após o qual o ramo 3 se separa) e \"Flores\" (nó mais derivado, após o qual o ramo 4 se separa).*\n\nAlém das características referidas no cladograma, os grupos de plantas 1, 2, 3 e 4 apresentam, respectivamente,",
+      "alternativas": {
+        "a": "gametófito duradouro, soros, endosperma haploide e fruto.",
+        "b": "esporófito haploide, folíolos, sementes nuas e dupla fecundação.",
+        "c": "esporófito transitório, raízes pivotantes, estróbilo e endosperma diploide.",
+        "d": "gametófito haploide, grãos de pólen, soros e endosperma triploide.",
+        "e": "gametófito transitório, protalo duradouro, estróbilo e dupla fecundação."
+      },
+      "resposta": "a",
+      "explicacao": "O grupo 1 (briófitas, antes dos vasos condutores) tem gametófito duradouro; o grupo 2 (pteridófitas, após vasos condutores, antes de sementes) forma soros; o grupo 3 (gimnospermas, após sementes, antes de flores) tem endosperma haploide (tecido do gametófito feminino); e o grupo 4 (angiospermas, após flores) produz frutos.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "biologia-273",
+      "enunciado": "Estudos observacionais e ensaios clínicos conduzidos ao longo de quase 40 anos revelam os benefícios para a saúde de comer pelo menos 25 g a 29 g ou mais de fibras alimentares vegetais por dia, de acordo com estudos publicados na revista científica The Lancet.\n\nAs fibras alimentares vegetais, referidas no texto, são ricas em",
+      "alternativas": {
+        "a": "polissacarídeos estruturais, que fornecem glicoses para o metabolismo anaeróbico e para a fosforilação oxidativa.",
+        "b": "proteínas estruturais, que reduzem a glicemia e atuam na saúde dos músculos intestinais.",
+        "c": "proteínas de reserva, que auxiliam na formação dos tecidos articulares e participam da saúde óssea.",
+        "d": "proteínas estruturais, que intensificam a eliminação do colesterol e evitam a formação de trombos.",
+        "e": "polissacarídeos estruturais, que aceleram o peristaltismo e facilitam a eliminação das fezes."
+      },
+      "resposta": "e",
+      "explicacao": "As fibras alimentares vegetais são majoritariamente polissacarídeos estruturais (como a celulose), que o corpo humano não digere, mas que aumentam o bolo fecal e aceleram o peristaltismo intestinal, facilitando a eliminação das fezes.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "biologia-274",
+      "enunciado": "As figuras ilustram as estruturas ósseas presentes na nadadeira de um golfinho, no membro superior de um humano e no membro anterior de um cavalo.\n\n*Descrição da figura: diagrama comparativo clássico de anatomia comparada mostrando os ossos homólogos (úmero, rádio, ulna, carpos, metacarpos e falanges, cada um em uma cor diferente conforme legenda) na nadadeira do golfinho, no braço humano e na pata do cavalo — os mesmos ossos, em proporções e formatos diferentes conforme a função de cada espécie.*\n\nA comparação anatômica dessas três estruturas ósseas permite afirmar que esses órgãos",
+      "alternativas": {
+        "a": "têm semelhanças ósseas resultantes da mesma pressão seletiva.",
+        "b": "têm ossos de tamanhos diferentes, o que ilustra um processo de convergência adaptativa.",
+        "c": "possuem a mesma origem evolutiva, a partir de um mesmo ancestral comum.",
+        "d": "apresentam o mesmo fenótipo, mas possuem diferentes genótipos.",
+        "e": "possuem funções diferentes, por terem se originado de ancestrais de filos diferentes."
+      },
+      "resposta": "c",
+      "explicacao": "A presença dos mesmos ossos (úmero, rádio, ulna etc.), ainda que com formas e proporções diferentes adaptadas a funções distintas (nadar, andar, manipular objetos), evidencia que essas estruturas são homólogas, ou seja, derivam de um ancestral comum — e não convergência adaptativa, que geraria estruturas análogas de origens diferentes.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "biologia-275",
+      "enunciado": "Os livros na estante fazem alusão ao conjunto de cromossomos presentes em uma célula humana.\n\n*Descrição da imagem: uma ilustração didática de uma estante de livros, em que cada par de livros (com a mesma numeração ou identificação) representa um par de cromossomos homólogos, incluindo um par identificado com as letras X e Y.*\n\nNessa estante, os livros identificados",
+      "alternativas": {
+        "a": "em prateleiras paralelas sugerem o pareamento de cromossomos homólogos na metáfase II.",
+        "b": "por um mesmo número correspondem a cromossomos com os mesmos alelos.",
+        "c": "de 1 a 22 representam o conjunto de cromossomos autossômicos.",
+        "d": "por um mesmo número representam cromátides-irmãs.",
+        "e": "pelas letras X e Y denotam que essa célula seria de um espermatozoide humano."
+      },
+      "resposta": "c",
+      "explicacao": "Os 22 pares de cromossomos não sexuais correspondem aos autossomos; o par restante (X e Y, ou XX) corresponde aos cromossomos sexuais — daí os livros numerados de 1 a 22 representarem o conjunto de autossomos da célula humana.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "biologia-276",
+      "enunciado": "Um estudo do Instituto Cerrados aponta que 88% de 81 bacias hidrográficas do Cerrado já tiveram redução de vazão causada pelo desmatamento entre 1985 e 2022. Em 2050, essa redução deve chegar a 23,6 mil metros cúbicos de água por segundo. Diversos rios que alimentam as bacias na Amazônia nascem na região do Cerrado, como o Tocantins e o Xingu. Essas águas ajudam a formar os rios voadores, corredores de umidade que levam chuvas a outros locais do país. Além disso, o Cerrado guarda 8 das 12 maiores bacias do país.\n\nDe acordo com o excerto, o desmatamento no Cerrado está diretamente relacionado à redução da",
+      "alternativas": {
+        "a": "transpiração foliar, o que diminui a quantidade de vapor d'água na atmosfera e pode prejudicar a produção de energia hidrelétrica.",
+        "b": "absorção de água dos lençóis subterrâneos, o que diminui a acidez do solo e impacta o setor agropecuário.",
+        "c": "evaporação de água do solo, o que diminui a formação de nuvens e prejudica a retenção de nutrientes no solo.",
+        "d": "produção de gás O₂, o que diminui a formação do gás ozônio na atmosfera e intensifica a evapotranspiração das bacias hídricas.",
+        "e": "fixação de CO₂ pela vegetação, o que aumenta a temperatura média na região e diminui a quantidade de água nos reservatórios urbanos."
+      },
+      "resposta": "a",
+      "explicacao": "O desmatamento reduz a cobertura vegetal e, com ela, a transpiração foliar das plantas, diminuindo o vapor d'água liberado na atmosfera — o que compromete tanto a formação de chuvas (inclusive os rios voadores) quanto a vazão dos rios que alimentam usinas hidrelétricas.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "biologia-277",
+      "enunciado": "Um esquema representa uma ovogênese humana sem mutações, processo que origina um gameta funcional: uma ovogônia (célula-tronco) passa pelo evento 1 e se torna a célula J (ovócito I); a célula J passa pelo evento 2 e origina as células L e M (ovócito II e primeiro corpúsculo polar); a célula L passa pelo evento 3 e origina as células N e O; a célula M passa pelo evento 3 e origina as células P e Q (corpúsculos polares).\n\nSobre esse esquema e os fenômenos que ocorrem na ovogênese humana, afirma-se que",
+      "alternativas": {
+        "a": "as células indicadas por L e por M possuem os mesmos alelos.",
+        "b": "na mulher, em cada período fértil, há liberação de uma célula indicada por J.",
+        "c": "na mulher, a partir da puberdade, ocorrem os eventos 1 e 2.",
+        "d": "a célula N é formada após a fecundação da célula L.",
+        "e": "os números 1, 2 e 3 indicam o momento em que há redução da ploidia."
+      },
+      "resposta": "c",
+      "explicacao": "Os eventos 1 e 2 da ovogênese (formação do ovócito I e sua primeira divisão meiótica, gerando o ovócito II) só se completam a partir da puberdade, quando os ciclos hormonais mensais retomam a meiose que estava estacionada desde a vida fetal.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "biologia-278",
+      "enunciado": "Uma tabela ilustra a concentração de gases respiratórios no sangue que passa pela veia pulmonar e pela artéria aorta de dois vertebrados saudáveis (X e Y): no animal X, o sangue tem alta concentração de O₂ tanto na veia pulmonar quanto na artéria aorta (sem mistura); no animal Y, a veia pulmonar tem alta concentração de O₂, mas a artéria aorta mostra uma mistura de O₂ e CO₂ (indicando mistura de sangue arterial e venoso no coração).\n\nOs animais X e Y são, respectivamente,",
+      "alternativas": {
+        "a": "lagarto e atum.",
+        "b": "pardal e sapo.",
+        "c": "tartaruga e peixe-boi.",
+        "d": "raposa e codorna.",
+        "e": "salamandra e jacaré."
+      },
+      "resposta": "b",
+      "explicacao": "O animal X, com sangue totalmente oxigenado tanto na veia pulmonar quanto na aorta (circulação dupla e completa, sem mistura), é uma ave (pardal); o animal Y, com mistura de sangue arterial e venoso na aorta (coração com separação incompleta dos ventrículos), é um anfíbio (sapo).",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "biologia-279",
+      "enunciado": "Uma imagem mostra uma árvore submetida à técnica de cintamento (remoção de um anel de casca) no caule principal.\n\nEssa técnica resulta na morte da árvore porque a remoção completa das células ____ que compõem o ____ interrompe a condução da seiva ____ até a raiz da planta, que morre depois de algumas semanas. Com a morte da raiz, não haverá absorção de sais ____ para o citoplasma das células epidérmicas.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "mortas – xilema – inorgânica – transporte ativo.",
+        "b": "mortas – floema – inorgânica – osmose.",
+        "c": "vivas – floema – orgânica – transporte ativo.",
+        "d": "vivas – xilema – orgânica – difusão.",
+        "e": "vivas – floema – inorgânica – osmose."
+      },
+      "resposta": "c",
+      "explicacao": "O cintamento remove o floema, tecido formado por células vivas responsável pela condução da seiva orgânica (elaborada) até a raiz; sem esse suprimento, a raiz morre e deixa de absorver, por transporte ativo, os sais inorgânicos do solo necessários às células da planta.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "biologia-280",
+      "enunciado": "Os animais com metameria apresentam simetria bilateral. Essas duas características trouxeram avanços evolutivos para os animais. A metameria e a simetria bilateral contribuíram, respectivamente, com",
+      "alternativas": {
+        "a": "o desenvolvimento da variedade de movimentos e o desenvolvimento da cefalização.",
+        "b": "o aumento da variedade de órgãos e a redução na superfície corporal.",
+        "c": "a repetição de órgãos internos e a captação dos estímulos externos.",
+        "d": "o aumento do volume de líquido celomático e o aparecimento da flexibilidade corporal.",
+        "e": "o aparecimento do tubo digestório completo e o aumento do volume corpóreo."
+      },
+      "resposta": "a",
+      "explicacao": "A metameria (repetição de segmentos corporais) permitiu maior variedade de movimentos, já que cada segmento pode se mover de forma relativamente independente; a simetria bilateral favoreceu a cefalização, concentrando órgãos sensoriais na região anterior do corpo, voltada para o deslocamento.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "biologia-281",
+      "enunciado": "Os seres humanos e os chimpanzés apresentam um ancestral evolutivo em comum e pertencem à ordem Primata e à família Hominidae. Essas duas espécies apresentam parentesco evolutivo muito próximo, no entanto, diferem morfologicamente quanto",
+      "alternativas": {
+        "a": "à visão tridimensional.",
+        "b": "à ausência de cauda.",
+        "c": "à presença de polegar oponível.",
+        "d": "à presença de placenta.",
+        "e": "ao volume da caixa craniana."
+      },
+      "resposta": "e",
+      "explicacao": "Apesar do parentesco evolutivo próximo, humanos e chimpanzés diferem sobretudo pelo volume da caixa craniana (e, portanto, do encéfalo), muito maior nos humanos — as demais características citadas (visão tridimensional, ausência de cauda, polegar oponível, placenta) são compartilhadas por ambos.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "biologia-283",
+      "enunciado": "Até abril de 2023, o Estado de São Paulo registrou 1 140 casos de todos os tipos de meningite, 9% a mais se comparado com o mesmo período de 2022, em que foram confirmados 1 040 casos. Em relação aos óbitos, no mesmo período, São Paulo registrou uma queda de 28%, com 79 óbitos em 2023 e 110 no ano passado. Em 2022 a cobertura vacinal para meningocócica C ficou em 77,7%, contra 74,5% de 2021.\n\nA meningite meningocócica C é causada por",
+      "alternativas": {
+        "a": "uma bactéria e sua transmissão ocorre pela picada de um artrópode hematófago.",
+        "b": "um vírus e sua transmissão ocorre pelo contato com fezes humanas contendo cistos.",
+        "c": "um vírus e sua transmissão ocorre pelo contato com secreções de pessoas doentes.",
+        "d": "um protozoário e sua transmissão ocorre pela ingestão de alimentos contaminados com esporos.",
+        "e": "uma bactéria e sua transmissão ocorre pela inalação de gotículas de saliva contaminadas."
+      },
+      "resposta": "e",
+      "explicacao": "A meningite meningocócica C é causada pela bactéria Neisseria meningitidis, transmitida de pessoa a pessoa pela inalação de gotículas de saliva ou secreções respiratórias contaminadas.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "biologia-284",
+      "enunciado": "Uma figura mostra uma hipótese sobre o surgimento de uma das organelas presentes em células eucarióticas: uma célula ancestral simples (com DNA solto no citoplasma) sofre uma invaginação da membrana plasmática, que progressivamente envolve o DNA e forma um envoltório nuclear, originando uma célula com núcleo definido e uma organela adicional no citoplasma.\n\nA organela presente na figura surgiu por",
+      "alternativas": {
+        "a": "invaginações do envoltório celular e contribuiu para o surgimento da organela que tem DNA próprio.",
+        "b": "evaginações do envoltório nuclear e compartimentalizou o material genético no núcleo.",
+        "c": "dobramentos da membrana plasmática e ampliou a síntese de certas substâncias no citoplasma.",
+        "d": "endocitose de células procariontes e ampliou um sistema de transporte interno de substâncias.",
+        "e": "fagocitose de bactérias e aumentou a incorporação de membranas que originaram organelas citoplasmáticas."
+      },
+      "resposta": "c",
+      "explicacao": "A figura descreve a formação do envoltório nuclear (e do sistema de endomembranas associado) por dobramentos progressivos da membrana plasmática que envolvem o DNA — um mecanismo que amplia a capacidade de síntese e compartimentalização de substâncias na célula, diferente da endossimbiose (que explica mitocôndrias e cloroplastos).",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "biologia-285",
+      "enunciado": "A hematoxilina (H&E) é um corante de caráter básico que reage com substâncias ácidas ou estruturas que tenham caráter ácido existentes nas células. O resultado dessa reação cora a estrutura celular de azul-arroxeado. Uma lâmina de microscopia com células da mucosa bucal, caso entre em contato com a hematoxilina (H&E), irá corar de azul-arroxeado",
+      "alternativas": {
+        "a": "o citoesqueleto.",
+        "b": "o núcleo.",
+        "c": "as fibras elásticas.",
+        "d": "o retículo endoplasmático agranular.",
+        "e": "as fibras colágenas."
+      },
+      "resposta": "b",
+      "explicacao": "A hematoxilina, por ter caráter básico, reage com estruturas ácidas da célula — principalmente o DNA do núcleo, rico em grupos fosfato de carga negativa —, corando-o de azul-arroxeado (basofilia).",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "biologia-286",
+      "enunciado": "Em laboratório, um par de nucleotídeos extra foi inserido em um gene bacteriano. Após essa inserção, esse gene bacteriano expressou-se em uma proteína que apresentará",
+      "alternativas": {
+        "a": "o tamanho menor do que o da proteína original.",
+        "b": "a sequência de aminoácidos diferente da proteína original.",
+        "c": "a mesma sequência de aminoácidos da proteína original.",
+        "d": "as mesmas estrutura tridimensional e função da proteína original.",
+        "e": "a mesma estrutura secundária da proteína original."
+      },
+      "resposta": "b",
+      "explicacao": "A inserção de um par extra de nucleotídeos desloca o quadro de leitura (mutação frameshift) a partir do ponto de inserção, alterando todos os códons seguintes e, portanto, produzindo uma sequência de aminoácidos diferente da proteína original.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "biologia-287",
+      "enunciado": "Os vírus são parasitas intracelulares obrigatórios que apresentam diversas estratégias reprodutivas no interior das células hospedeiras. No ciclo reprodutivo dos retrovírus, como o",
+      "alternativas": {
+        "a": "HPV, o DNA viral é transcrito em uma molécula de RNA mensageiro no citosol da célula hospedeira por ação da enzima transcriptase reversa.",
+        "b": "HPV, o DNA viral é replicado em muitas moléculas de DNA que são integradas ao genoma da célula hospedeira por ação da enzima integrase.",
+        "c": "HIV, o RNA viral é traduzido em proteínas virais no citoplasma da célula hospedeira por ação da enzima transcriptase reversa.",
+        "d": "HIV, o DNA viral é sintetizado a partir do RNA viral no citosol da célula hospedeira por ação da enzima transcriptase reversa.",
+        "e": "HIV, o DNA viral é transformado em uma molécula de RNA mensageiro por ação da enzima integrase presente no citoplasma da célula hospedeira."
+      },
+      "resposta": "d",
+      "explicacao": "No ciclo dos retrovírus, como o HIV, a enzima transcriptase reversa sintetiza uma molécula de DNA a partir do RNA viral dentro do citosol da célula hospedeira; esse DNA é depois integrado ao genoma da célula por outra enzima, a integrase.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "biologia-288",
+      "enunciado": "Considere uma espécie de cnidário que realiza metagênese e uma espécie de abelha que realiza partenogênese e admita que, em ambas as espécies, há X cromossomos no núcleo de cada uma de suas células diploides. Nessas duas espécies, o número de cromossomos encontrados nas células somáticas do pólipo, da medusa e do zangão será de, respectivamente,",
+      "alternativas": {
+        "a": "X, X e X/2",
+        "b": "X, X e 2X",
+        "c": "2X, 2X e X",
+        "d": "X, 2X e X/2",
+        "e": "2X, X e X"
+      },
+      "resposta": "a",
+      "explicacao": "No ciclo de vida do cnidário (metagênese), tanto o pólipo quanto a medusa são fases diploides (X cromossomos), sendo apenas os gametas haploides; já o zangão da abelha se desenvolve por partenogênese a partir de óvulo não fecundado, sendo haploide (X/2).",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "biologia-289",
+      "enunciado": "Uma planta em um vaso foi deixada na posição horizontal e exposta ao sol por algumas semanas, e cresceu curvando o caule para cima (em direção à luz) e a raiz para baixo.\n\nAo longo do crescimento dessa planta, o fototropismo no caule e o geotropismo na raiz foram, respectivamente,",
+      "alternativas": {
+        "a": "negativo e positivo.",
+        "b": "positivo e negativo.",
+        "c": "positivo e positivo.",
+        "d": "nulo e negativo.",
+        "e": "negativo e nulo."
+      },
+      "resposta": "c",
+      "explicacao": "O caule cresceu em direção à luz (fototropismo positivo) e a raiz cresceu em direção ao centro da Terra (geotropismo positivo), ambos movimentos de crescimento orientado a favor do estímulo.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "biologia-290",
+      "enunciado": "Um gráfico mostra a variação das concentrações dos hormônios FSH, LH, estrógeno e progesterona no sangue ao longo dos 28 dias do ciclo menstrual: FSH sobe e cai num pico moderado por volta do 12º dia; LH sobe abruptamente e tem pico agudo no 14º dia (ovulação); estrógeno cresce na primeira metade do ciclo, cai bruscamente perto do 14º dia e sobe de novo num segundo pico menor na segunda metade; progesterona permanece baixa na primeira metade e sobe formando um pico largo na segunda metade do ciclo, caindo perto do dia 28.\n\nCom relação às variações das concentrações desses hormônios no sangue de uma mulher ao longo do ciclo menstrual, conclui-se que a concentração de",
+      "alternativas": {
+        "a": "LH aumenta na primeira metade do ciclo em resposta à ação da progesterona secretada pela hipófise na segunda metade do ciclo.",
+        "b": "progesterona diminui ao final da segunda metade do ciclo porque ocorre feedback negativo do FSH sobre a atividade do folículo ovariano.",
+        "c": "progesterona aumenta na segunda metade do ciclo porque a hipófise é estimulada pela alta concentração de LH produzido no ovário.",
+        "d": "estrógeno aumenta na primeira metade do ciclo porque o corpo lúteo é estimulado pela alta concentração de FSH.",
+        "e": "estrógeno aumenta após a elevação da concentração de FSH secretado pela hipófise, o qual estimula o folículo ovariano."
+      },
+      "resposta": "e",
+      "explicacao": "O FSH, secretado pela hipófise na primeira metade do ciclo, estimula o crescimento do folículo ovariano, que por sua vez produz quantidades crescentes de estrógeno — daí o aumento do estrógeno acompanhar a elevação inicial do FSH.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "biologia-291",
+      "enunciado": "As Infecções Sexualmente Transmissíveis (ISTs) vêm crescendo muito nos últimos anos em Minas Gerais.\n\nAs ISTs podem ser identificadas por sintomas característicos, como na",
+      "alternativas": {
+        "a": "tricomoníase, protozoose que provoca dor na pele, produção de pus e o aparecimento de verrugas genitais.",
+        "b": "gonorreia, virose que provoca inflamação do útero, da uretra, verrugas nos genitais e ardência ao urinar.",
+        "c": "candidíase vaginal, micose que provoca coceira na vagina, ardência e formação de corrimento espesso e branco.",
+        "d": "herpes genital, virose que provoca prurido, pequenas bolhas e ulcerações na pele de todo o corpo conhecidas como cancro duro.",
+        "e": "sífilis, bacteriose que provoca feridas dolorosas, moles e que progridem para lesões genitais em forma de verrugas altas."
+      },
+      "resposta": "c",
+      "explicacao": "A candidíase vaginal, causada pelo fungo Candida albicans, caracteriza-se por coceira vaginal, ardência e corrimento espesso e esbranquiçado, sintomas típicos que a distinguem das demais ISTs listadas.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "biologia-292",
+      "enunciado": "Um heredograma de três gerações mostra uma condição genética que afeta a estrutura óssea, presente em indivíduos de ambos os sexos em todas as gerações, sempre que ao menos um dos pais é afetado, incluindo transmissão de pai afetado para filho homem afetado.\n\nDe acordo com o heredograma, essa condição genética é caracterizada como uma herança",
+      "alternativas": {
+        "a": "dominante ligada ao sexo.",
+        "b": "autossômica recessiva.",
+        "c": "recessiva ligada ao sexo.",
+        "d": "autossômica dominante.",
+        "e": "mitocondrial."
+      },
+      "resposta": "d",
+      "explicacao": "A transmissão de pai afetado para filho homem afetado descarta herança ligada ao sexo (pois o pai transmite o cromossomo Y, não o X, aos filhos homens); como a condição aparece em todas as gerações sempre que um dos pais é afetado, trata-se de herança autossômica dominante.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "biologia-293",
+      "enunciado": "Atobás-de-patas-azuis vivem em ilhas da costa do Pacífico. A cor das patas tem relação com o tipo de alimentação dessas aves e, quanto mais brilhantes são as patas, maior é a saúde e fertilidade do macho.\n\nSegundo a teoria darwinista, a cor azul das patas dessas aves resulta",
+      "alternativas": {
+        "a": "da resposta evolutiva à necessidade de seleção sexual nas populações dessa espécie.",
+        "b": "da preferência das fêmeas em acasalar com machos de patas mais atraentes.",
+        "c": "da recombinação gênica que favoreceu o acúmulo de pigmento azul nas patas.",
+        "d": "de mutações para tornar as patas dos machos mais brilhantes e chamativas.",
+        "e": "da seleção dos genes mutantes gerados pelo tipo de alimento consumido pela espécie."
+      },
+      "resposta": "b",
+      "explicacao": "Segundo a seleção sexual darwinista, a cor azul mais brilhante das patas evoluiu porque as fêmeas preferem acasalar com machos que exibem esse traço, associado a maior saúde e fertilidade — favorecendo a reprodução diferencial dos machos mais chamativos.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "biologia-294",
+      "enunciado": "A osmorregulação é a capacidade que os seres vivos têm de manter o equilíbrio entre a quantidade de água e de sais minerais no organismo, visando à manutenção da homeostase. Considere as seguintes adaptações relacionadas à osmorregulação em certos organismos:\n\n1 – Presença de vacúolo pulsátil;\n2 – Excreção ativa de sais pelas brânquias;\n3 – Néfrons com alças curtas.\n\nAs adaptações 1, 2 e 3 estão relacionadas, respectivamente, à osmorregulação em:",
+      "alternativas": {
+        "a": "protozoário dulcícola, osteícte dulcícola e mamífero de deserto.",
+        "b": "protozoário marinho, osteícte marinho e mamífero de ambiente úmido.",
+        "c": "protozoário dulcícola, osteícte marinho e mamífero de deserto.",
+        "d": "protozoário marinho, osteícte dulcícola e mamífero de deserto.",
+        "e": "protozoário dulcícola, osteícte marinho e mamífero de ambiente úmido."
+      },
+      "resposta": "e",
+      "explicacao": "O vacúolo pulsátil expele o excesso de água que entra por osmose em protozoários de água doce (hipotônica); a excreção ativa de sais pelas brânquias elimina o excesso de sal absorvido por peixes marinhos (hipertônicos); e néfrons com alças curtas, que concentram pouco a urina, são suficientes para mamíferos de ambientes úmidos, que não precisam economizar água intensamente.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "biologia-295",
+      "enunciado": "Um paramécio foi mantido por determinado tempo em uma solução hipotônica em relação ao citoplasma desse organismo. Uma substância inibidora adicionada à solução interrompeu o funcionamento dos vacúolos contráteis no interior do paramécio. Dois gráficos mostram os possíveis efeitos desse tratamento sobre, respectivamente, o volume celular e a concentração do citoplasma desse paramécio ao longo do tempo: no Gráfico 1 (volume da célula), a partir do momento da adição do inibidor, a curva M sobe e estabiliza em um patamar mais alto, a curva N permanece constante, e a curva O desce e estabiliza em um patamar mais baixo. No Gráfico 2 (concentração do citoplasma), a partir da adição do inibidor, a curva X sobe e estabiliza mais alta, a curva Y permanece constante, e a curva Z desce e estabiliza mais baixa.\n\nOs resultados esperados quanto ao volume e à concentração do citoplasma desse paramécio ao longo do tempo são os indicados nos gráficos, respectivamente, pelas letras",
+      "alternativas": {
+        "a": "O e X.",
+        "b": "N e Y.",
+        "c": "M e Y.",
+        "d": "M e Z.",
+        "e": "N e Z."
+      },
+      "resposta": "d",
+      "explicacao": "Com o vacúolo contrátil inibido, a água que entra por osmose (meio hipotônico) não é mais expelida, então o volume celular aumenta e se estabiliza em um novo patamar mais alto (curva M); ao mesmo tempo, essa entrada de água dilui o citoplasma, reduzindo sua concentração de solutos (curva Z).",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "biologia-296",
+      "enunciado": "As figuras de I a VI ilustram fases da divisão de uma célula vegetal, mostrando cromossomos condensados (vermelhos e verdes) em diferentes arranjos: dispersos no núcleo (I), condensados e livres no citoplasma (II), alinhados frouxamente (III), agrupados no centro da célula (IV), separando-se em dois polos (V) e já totalmente separados com uma linha de divisão pontilhada entre eles (VI) — uma sequência típica de mitose.\n\nEssa célula vegetal em divisão está localizada",
+      "alternativas": {
+        "a": "no parênquima foliar.",
+        "b": "na parede do ovário.",
+        "c": "na coifa da raiz.",
+        "d": "no meristema apical.",
+        "e": "na antera da flor."
+      },
+      "resposta": "e",
+      "explicacao": "A sequência descrita, com pares homólogos se condensando, alinhando-se e se separando para os polos, é típica da divisão (meiótica) das células-mãe de esporos que formam os grãos de pólen, localizadas na antera da flor.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "biologia-297",
+      "enunciado": "Um esquema mostra, de forma simplificada, uma sequência de eventos bioquímicos finamente orquestrados, essenciais para a hemostasia e manutenção da integridade do corpo humano: plaquetas e células danificadas liberam tromboplastina, que (com nutrientes) converte protrombina em trombina, que por sua vez converte fibrinogênio em fibrina.\n\nPara que ocorra a sequência de eventos bioquímicos mostrados no esquema, deve haver",
+      "alternativas": {
+        "a": "presença da heparina produzida pelos basófilos.",
+        "b": "presença de íons cálcio, de enzimas e da vitamina K.",
+        "c": "presença de fatores de coagulação produzidos no pâncreas.",
+        "d": "estímulos nervosos para iniciar as reações químicas.",
+        "e": "oxidações de ácidos graxos e glicerol dos lisossomos."
+      },
+      "resposta": "b",
+      "explicacao": "A cascata de coagulação (tromboplastina → protrombina/trombina → fibrinogênio/fibrina) depende da presença de íons cálcio como cofator, de diversas enzimas (fatores de coagulação) e da vitamina K, necessária à síntese hepática de vários desses fatores.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "biologia-298",
+      "enunciado": "A pressão interna nos alvéolos pulmonares muda conforme os movimentos respiratórios. Um gráfico mostra a variação da pressão alveolar (em cm H₂O, oscilando entre +1 e -1) ao longo do tempo (em segundos) durante um ciclo respiratório completo: a pressão começa negativa, sobe cruzando zero por volta dos 4 segundos, e continua subindo até um pico positivo.\n\nO gráfico indica, após os 4 segundos do ciclo respiratório, a ocorrência",
+      "alternativas": {
+        "a": "do relaxamento do músculo diafragma.",
+        "b": "da contração dos músculos intercostais.",
+        "c": "do aumento do volume da caixa torácica.",
+        "d": "da redução da pressão intrapleural.",
+        "e": "do relaxamento da cartilagem hialina."
+      },
+      "resposta": "a",
+      "explicacao": "Após os 4 segundos, quando a pressão alveolar passa a ficar positiva, está ocorrendo a expiração: o diafragma relaxa, sobe, reduz o volume da caixa torácica e comprime o ar nos pulmões, elevando a pressão alveolar até que o ar seja expelido.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "biologia-299",
+      "enunciado": "Várias espécies de lagartos exibem formas surpreendentes de se reproduzirem. As fêmeas geram filhotes de modo assexuado, sem a participação de qualquer macho. São independentes, mas não são radicais: em algumas espécies, se um macho passa por perto, permitem a cópula e podem se reproduzir. A autonomia reprodutiva chega a tal ponto que em algumas espécies só existem fêmeas, que se reproduzem de um modo assexuado conhecido como partenogênese, que parece ser mais flexível do que se pensava.\n\nSobre as informações do texto, afirma-se que:",
+      "alternativas": {
+        "a": "as fêmeas de lagartos nascidas por partenogênese geralmente apresentam maior ploidia porque resultam da fusão de três gametas.",
+        "b": "haverá maior variabilidade genética nos descendentes de lagartos gerados por partenogênese do que nos gerados por fecundação cruzada.",
+        "c": "as fêmeas de lagartos geradas por partenogênese são formadas a partir de óvulos não fecundados pelos espermatozoides.",
+        "d": "as fêmeas e machos de lagartos são formados a partir da partenogênese e, depois, os embriões machos morrem na fase fetal.",
+        "e": "a partenogênese nos lagartos gera fêmeas férteis haploides e machos diploides, que são capazes de produzir machos haploides."
+      },
+      "resposta": "c",
+      "explicacao": "Na partenogênese, as fêmeas se desenvolvem a partir de óvulos que não foram fecundados por espermatozoides, dispensando a participação de machos para a reprodução.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "biologia-300",
+      "enunciado": "Um homem que, ao nascer, apresentou eritroblastose fetal casou-se com uma mulher Rh negativo. O casal teve um primeiro filho que não apresentou essa doença. Contudo, após o parto desse filho, a mulher não recebeu os cuidados indicados relativos à eritroblastose fetal. Por isso, o segundo filho desse casal nasceu com a doença.\n\nDessa forma, conclui-se que a mulher não recebeu ____ logo após o nascimento do primeiro filho com tipo sanguíneo ____. O segundo filho apresentou a doença porque os ____ da mãe atingiram a circulação fetal. A probabilidade de um terceiro filho desse casal apresentar o genótipo favorável à ocorrência da eritroblastose fetal é de ____.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "a vacina anti-Rh; Rh negativo; antígenos Rh e 50%.",
+        "b": "o soro anti-Rh; Rh negativo; antígenos Rh e 100%.",
+        "c": "o soro anti-Rh; Rh positivo; anticorpos anti-Rh e 100%.",
+        "d": "o soro anti-Rh; Rh positivo; anticorpos anti-Rh e 50%.",
+        "e": "a vacina anti-Rh; Rh positivo; anticorpos anti-Rh e 100%."
+      },
+      "resposta": "d",
+      "explicacao": "A mãe Rh negativo não recebeu o soro anti-Rh (imunoglobulina) após o parto do primeiro filho, que era Rh positivo; sem essa profilaxia, ela produziu anticorpos anti-Rh que atacaram as hemácias do segundo feto Rh positivo. Sendo o pai heterozigoto para o fator Rh, a chance de um terceiro filho ser Rh positivo (genótipo favorável à doença) é de 50%.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "biologia-301",
+      "enunciado": "Uma figura mostra, de forma simplificada, o ciclo de vida de um helminto que causa uma verminose no ser humano: ovos eliminados nas fezes contaminam água/solo, larvas penetram pela pele do pé, migram pela corrente sanguínea até os pulmões, sobem pela traqueia, são deglutidas e se instalam no intestino delgado, onde os vermes adultos se fixam e produzem novos ovos.\n\nNo ciclo de vida desse parasita,",
+      "alternativas": {
+        "a": "as larvas do helminto, durante seu desenvolvimento, causam problemas respiratórios ao migrarem pelos pulmões.",
+        "b": "o helminto se aloja no sistema porta-hepático humano e os ovos produzidos pela fêmea são eliminados com as fezes.",
+        "c": "o helminto monoico produz diversos segmentos, chamados proglotes gravídicos com ovos embrionados.",
+        "d": "o helminto infecta a pele humana por meio do contato com solo úmido ou água contaminada com cistos embrionados.",
+        "e": "o helminto reproduz-se sexuadamente no interior do hospedeiro intermediário, produzindo várias cercárias."
+      },
+      "resposta": "d",
+      "explicacao": "O ciclo descrito (larvas que penetram pela pele do pé, migram até os pulmões, são deglutidas e se fixam no intestino delgado) é típico de helmintos como o ancilóstomo, que infectam o ser humano pelo contato da pele com solo ou água contaminados por suas larvas.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "biologia-302",
+      "enunciado": "A construção de uma barragem separou uma população inicial de peixes em dois grupos. Após muitos anos, verificou-se que esses dois grupos isolados de peixes apresentavam diferenças quanto à cor e ao comprimento do corpo.\n\nA confirmação de que os dois grupos isolados de peixes se tornaram espécies distintas exige a comprovação de que entre esses grupos houve",
+      "alternativas": {
+        "a": "diferenciação de nichos ecológicos.",
+        "b": "distinção de outros fenótipos externos.",
+        "c": "aumento do número de híbridos férteis.",
+        "d": "formação de indivíduos de tamanhos diferentes.",
+        "e": "interrupção do fluxo gênico."
+      },
+      "resposta": "e",
+      "explicacao": "A especiação só se confirma quando os dois grupos deixam de trocar genes entre si (isolamento reprodutivo); diferenças de cor ou tamanho, por si só, não garantem que os grupos sejam espécies distintas, apenas que houve divergência fenotípica.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "biologia-303",
+      "enunciado": "O raro fenótipo Bombay (Oh) é decorrente de mutações nos genes FUT1 e FUT2, que resultam na completa ausência dos antígenos H e ABO nos eritrócitos e nas secreções corpóreas. Indivíduos com fenótipo Bombay apresentam anticorpos anti-H, anti-A e anti-B. Na prática transfusional, indivíduos Bombay apresentam incompatibilidade com todas as hemácias ABO convencionais, devendo ser transfundidos, quando necessário, exclusivamente com hemácias raras de fenótipo Bombay.\n\nA alteração genética que leva ao fenótipo descrito impede a formação da enzima",
+      "alternativas": {
+        "a": "L-fucose.",
+        "b": "D-galactose.",
+        "c": "fucosiltransferase.",
+        "d": "galactosiltransferase.",
+        "e": "N-acetilgalactosaminiltransferase."
+      },
+      "resposta": "c",
+      "explicacao": "A mutação nos genes FUT1/FUT2 impede a formação da enzima fucosiltransferase, responsável por adicionar fucose e formar o antígeno H — precursor obrigatório para a formação dos antígenos A e B —, o que resulta na ausência completa desses antígenos no fenótipo Bombay.",
+      "formato": "direta",
+      "origem": "pucsp-2026"
+    },
+    {
+      "id": "biologia-304",
+      "enunciado": "Pesquisas revelam que a mioglobina, proteína muscular presente em mamíferos, ocorre em concentrações muito superiores em espécies mergulhadoras, como focas e baleias, quando comparadas a mamíferos terrestres. Essa abundância é tamanha que a musculatura desses animais apresenta coloração muito escura. Estudos indicam que, ao longo de aproximadamente 200 milhões de anos, houve um aumento significativo na concentração dessa proteína em mamíferos marinhos. Além disso, uma descoberta relevante aponta que a carga elétrica da molécula de mioglobina é maior nessas espécies, o que evita a agregação excessiva das proteínas e possibilita níveis elevados em seus músculos sem prejuízos estruturais ou fisiológicos.\n\nA grande presença dessa proteína nos músculos de mamíferos mergulhadores é crucial para a sobrevivência, pois",
+      "alternativas": {
+        "a": "impede a produção de ácido láctico.",
+        "b": "garante a concentração ideal de cálcio.",
+        "c": "aumenta a força da contração muscular.",
+        "d": "estimula a multiplicação de mitocôndrias.",
+        "e": "permite o armazenamento de gás oxigênio."
+      },
+      "resposta": "e",
+      "explicacao": "A mioglobina se liga e armazena oxigênio no tecido muscular; sua alta concentração em mamíferos mergulhadores permite estocar mais oxigênio nos músculos, prolongando o tempo de apneia durante os mergulhos.",
+      "formato": "direta",
+      "origem": "pucsp-2026"
+    },
+    {
+      "id": "biologia-305",
+      "enunciado": "A crescente presença na costa brasileira do peixe-leão (*Pterois volitans*), uma espécie invasora, tem causado preocupação junto aos pesquisadores. Estudos demonstram que o peixe-leão eliminou até 95% dos peixes nativos em algumas partes do Oceano Atlântico. Porém, uma pesquisa recente realizada por duas universidades norte-americanas mostrou que ainda há esperança. Usando modelos matemáticos, os pesquisadores conseguiram determinar exatamente qual porcentagem de peixes-leão em determinado habitat precisa ser removida através da caça, para que as populações de peixes nativos, presas do peixe-leão, se recomponham.\n\nOs resultados obtidos com os modelos matemáticos estão mostrados a seguir.\n\n[Gráfico próprio da banca: densidade populacional (eixo y) x tempo (eixo x). A curva verde (\"Presas\") começa em um valor alto e decresce continuamente até um mínimo, depois sobe formando um pico e, em seguida, oscila com amplitude decrescente até estabilizar. A curva vermelha (\"Predadores\"/peixe-leão) começa em zero, no ponto marcado \"Introdução do peixe-leão no habitat\", cresce, ultrapassa a curva de presas, atinge um pico (ponto 1, quando a densidade de presas está próxima do mínimo); depois as duas curvas oscilam com amplitude decrescente (o ponto 2 marca uma oscilação subsequente menor), convergindo para um equilíbrio dinâmico entre as duas populações ao longo do tempo.]\n\nA interpretação do gráfico permite concluir que",
+      "alternativas": {
+        "a": "a população de peixes-leão determina a densidade da população de presas, mas a densidade da população de presas não influencia a densidade da população de peixes-leão.",
+        "b": "o decréscimo na população de presas, observado no ponto 2, tem como consequência o aumento da população de predadores.",
+        "c": "o aumento da população de predadores sempre ocorre antes do aumento da população de presas e está relacionado ao fato das populações terem alcançado o equilíbrio dinâmico.",
+        "d": "a remoção de parte da população de peixes-leão eliminou a resistência do meio, levando ao aumento do tamanho da população de presas ao longo do tempo.",
+        "e": "a remoção parcial de peixes-leão (ponto 1) do habitat determina, após algum tempo, o estabelecimento de um equilíbrio dinâmico entre as populações de presa e predador."
+      },
+      "resposta": "e",
+      "explicacao": "A remoção parcial dos predadores (peixes-leão) permite que a população de presas se recupere, e o próprio aumento de presas favorece de volta a população de predadores — um ciclo de retroalimentação típico de relações predador-presa que tende, ao longo do tempo, a um equilíbrio dinâmico entre as duas populações.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "biologia-306",
+      "enunciado": "O esquema mostra mecanismos de passagem de substâncias através da membrana de uma célula.\n\n[Diagrama próprio da banca de um corte transversal de membrana plasmática, com \"citosol\" acima e \"meio extracelular\" abaixo. Na região A, pequenas partículas (círculos abertos) atravessam diretamente a bicamada fosfolipídica, sem auxílio de proteína. Na região B, partículas (círculos preenchidos) atravessam por meio de uma proteína de membrana (canal/carreador simples). Na região C, partículas (traços/bastonetes) atravessam por meio de um complexo de duas proteínas de membrana, sendo transportadas do citosol para o meio extracelular.]\n\nA passagem de __________ através da membrana plasmática é feita por ________________, como representado pela(s) letra(s) _______.\n\nAs lacunas devem ser corretamente preenchidas por:",
+      "alternativas": {
+        "a": "gás oxigênio; difusão simples; A.",
+        "b": "proteínas; transporte passivo; B e C.",
+        "c": "aminoácidos; transporte ativo; C",
+        "d": "íons sódio; osmose; A e C.",
+        "e": "glicose; transporte ativo; B."
+      },
+      "resposta": "a",
+      "explicacao": "O gás oxigênio, por ser uma molécula pequena e apolar, atravessa a bicamada fosfolipídica diretamente por difusão simples, sem necessidade de proteínas de membrana — o que corresponde à região A do esquema.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "biologia-307",
+      "enunciado": "O sistema digestório de vertebrados é uma \"linha de desmontagem\". Nele, uma variedade de processos químicos e físicos ocorrem em diferentes órgãos, contribuindo para quebrar eficientemente o alimento em substâncias que o corpo consegue utilizar.\n\nNo sistema digestório humano,",
+      "alternativas": {
+        "a": "o suco pancreático contém substâncias que emulsionam as gorduras.",
+        "b": "a digestão das proteínas inicia-se no estômago.",
+        "c": "os lipídios são digeridos no intestino delgado por ação das enzimas da bile.",
+        "d": "o bolo alimentar segue do intestino grosso em direção ao intestino delgado.",
+        "e": "as fibras alimentares são absorvidas juntamente com a água no intestino grosso."
+      },
+      "resposta": "b",
+      "explicacao": "A digestão das proteínas começa no estômago, pela ação da pepsina ativada em meio ácido (suco gástrico) — antes disso, na boca, apenas o amido começa a ser digerido pela amilase salivar.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "biologia-308",
+      "enunciado": "Um experimento pode ser usado para identificar a preferência de microrganismos pela disponibilidade de oxigênio molecular (O2). Nele, tubos de ensaio são preenchidos com caldo de tioglicolato (um meio de cultura caracterizado pela ausência total de oxigênio molecular) e fechados com algodão. Isso permite a difusão de O2 atmosférico para o interior dos tubos de ensaio, gerando um gradiente na concentração de oxigênio molecular dentro do tubo.\n\nO esquema a seguir mostra o resultado do experimento realizado com diferentes espécies de bactérias.\n\n[Diagrama próprio da banca, intitulado \"Crescimento bacteriano\": cinco tubos de ensaio (A, B, C, D, E), cada um fechado com algodão no topo, mostrando colônias de bactérias (pontos) distribuídas em diferentes profundidades do caldo de cultura, que apresenta um gradiente de oxigênio decrescente de cima para baixo. Tubo A: colônias concentradas apenas no fundo do tubo. Tubo B: colônias distribuídas por todo o tubo, em alta densidade. Tubo C: colônias distribuídas por todo o tubo, em densidade moderada. Tubo D: colônias concentradas próximas ao topo do tubo. Tubo E: colônias concentradas em uma faixa estreita logo abaixo do topo do tubo.]\n\nAssocie cada uma das descrições abaixo a um dos tubos de ensaio A, B, C, D ou E.\n\n( ) Bactérias aeróbias obrigatórias — utilizam apenas o O2 como aceptor final de elétrons no processo de obtenção de energia, realizam respiração celular.\n( ) Bactérias anaeróbicas aerotolerantes - podem crescer em presença de oxigênio molecular mas não utilizam esse gás para obtenção de energia, pois são organismos fermentadores.\n( ) Bactérias anaeróbias obrigatórias - não sobrevivem em presença de O2, pois não possuem enzimas que neutralizam as formas tóxicas de oxigênio.\n( ) Bactérias microaerófilas – precisam do O2, mas não toleram a pressão parcial do oxigênio na atmosfera, crescem somente em concentrações de oxigênio inferiores à do ar.\n( ) Bactérias anaeróbias facultativas - realizam a respiração celular em presença de O2, mas realizam a fermentação ou a respiração anaeróbica quando o oxigênio não está disponível, ainda que a eficiência energética desses dois processos seja reduzida.\n\nAssinale a opção que indica a sequência correta, de cima para baixo.",
+      "alternativas": {
+        "a": "A, C, B, E e D.",
+        "b": "B, E, A, B e C.",
+        "c": "E, C, B, A e D.",
+        "d": "B, D, C, A e E.",
+        "e": "D, C, A, E e B."
+      },
+      "resposta": "e",
+      "explicacao": "Bactérias aeróbias obrigatórias crescem só onde há O₂ (próximo ao topo, tubo D); anaeróbias aerotoleranates crescem por todo o tubo mas não usam O₂ (distribuição uniforme, tubo C); anaeróbias obrigatórias só sobrevivem no fundo, sem O₂ (tubo A); microaerófilas precisam de pouco O₂, ficando numa faixa estreita perto do topo (tubo E); e facultativas crescem por todo o tubo, mas se concentram mais onde há O₂ por ser mais eficiente (tubo B).",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "biologia-309",
+      "enunciado": "Em determinadas aves, o alelo dominante (M) codifica o tamanho de bico grande e o alelo recessivo (m) codifica o tamanho de bico pequeno. Os bicos dos indivíduos heterozigotos têm tamanho médio. Considerando que uma população dessas aves está em equilíbrio de Hardy-Weinberg e que a frequência do alelo dominante é 0,3, a frequência de heterozigotos na população é",
+      "alternativas": {
+        "a": "1",
+        "b": "0,2",
+        "c": "0,42",
+        "d": "0,21",
+        "e": "0,49"
+      },
+      "resposta": "c",
+      "explicacao": "Em equilíbrio de Hardy-Weinberg, com frequência do alelo dominante p=0,3, a frequência do recessivo é q=0,7. A frequência de heterozigotos é 2pq = 2×0,3×0,7 = 0,42.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "biologia-310",
+      "enunciado": "Um geneticista interessado em compreender a herança dos genes B e Q cruzou indivíduos heterozigotos para os dois genes com indivíduos duplamente homozigotos recessivos. Na geração F1, foram obtidos como resultado os seguintes números de indivíduos:\n\n| Genótipos da F1 | Número de indivíduos |\n|---|---|\n| bbqq | 410 |\n| bbQq | 90 |\n| Bbqq | 90 |\n| BbQq | 410 |\n\nConsiderando que o tamanho da amostra era adequado à pesquisa em questão, o geneticista concluiu que o mecanismo de herança destes genes era um caso",
+      "alternativas": {
+        "a": "regido pela Segunda Lei de Mendel, sendo 82% a frequência de indivíduos homozigotos na F1.",
+        "b": "de genes ligados, sendo a taxa de permutação de 9% e a distância entre os genes de 18 UR.",
+        "c": "regido pela Segunda Lei de Mendel, sendo que 25% dos gametas produzidos pelos indivíduos parentais heterozigotos são BQ.",
+        "d": "de genes ligados, sendo a taxa de permutação de 18% e a distância entre os genes de 18 UR.",
+        "e": "de genes ligados, sendo a taxa de permutação de 9% e a distância entre os genes de 82 UR."
+      },
+      "resposta": "d",
+      "explicacao": "Os fenótipos parentais (bbqq e BbQq) somam 820 dos 1000 indivíduos, e os recombinantes (bbQq e Bbqq) somam 180 — a proporção diferente de 1:1:1:1 esperada pela segregação independente indica genes ligados, com taxa de permutação de 180/1000=18%, equivalente a uma distância de 18 unidades de recombinação (UR).",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "biologia-311",
+      "enunciado": "Em eras passadas, nos mares onde hoje é a América Central, era encontrada uma espécie de camarão. Quando o istmo entre as Américas do Norte e do Sul se formou, separando o golfo do México do oceano Pacífico, as duas populações, submetidas a condições diferentes, originaram espécies distintas. Veja a ilustração a seguir.\n\n[Ilustração própria da banca em 3 painéis, intitulada \"Mudanças ao longo do tempo\", mostrando um mapa costeiro da América Central. Painel 1: mar aberto com muitos camarões de mesma cor (alaranjada) espalhados nos dois lados, sem istmo formado. Painel 2: o istmo começa a se formar, estreitando a ligação entre os dois mares; os camarões continuam da mesma cor nos dois lados. Painel 3: istmo totalmente formado, separando os dois mares; os camarões do lado do golfo do México permanecem alaranjados, enquanto os camarões do lado do Pacífico aparecem agora de cor amarela, indicando divergência em duas espécies distintas após o isolamento geográfico.]\n\nA diferenciação das populações dos crustáceos em questão em duas espécies se deu pelo(a)",
+      "alternativas": {
+        "a": "acúmulo de mudanças genéticas devido à seleção, resultando em especiação simpátrica.",
+        "b": "fluxo gênico que ocorreu entre as duas populações de crustáceos, resultando em um caso de especiação alopátrica.",
+        "c": "isolamento reprodutivo das duas populações de crustáceos, resultando em especiação simpátrica.",
+        "d": "deriva genética e por mutações aleatórias que, eventualmente, levaram à especiação simpátrica.",
+        "e": "surgimento da barreira geográfica que impediu a troca de genes entre as populações, sendo este um caso de especiação alopátrica."
+      },
+      "resposta": "e",
+      "explicacao": "A formação do istmo criou uma barreira geográfica que impediu o fluxo gênico entre as duas populações de camarões; isoladas, elas acumularam diferenças genéticas independentes até se tornarem espécies distintas — um caso clássico de especiação alopátrica.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "biologia-312",
+      "enunciado": "A ovulogênese humana, processo que cria os gametas femininos, é interrompida na prófase I, sendo a divisão celular retomada na puberdade. Assim, uma menina, por volta de seus 5 anos, tem, em seus(suas)",
+      "alternativas": {
+        "a": "ovócitos primários, 46 cromossomos, pois estes são células diploides.",
+        "b": "ovótides, 23 cromossomos, pois estas são células diploides.",
+        "c": "ovócitos primários, 23 cromossomos, pois estes são células diploides.",
+        "d": "ovótides, 46 cromossomos, pois estas são células haploides.",
+        "e": "ovócitos primários, 23 cromossomos, pois estes são células haploides."
+      },
+      "resposta": "a",
+      "explicacao": "Como a meiose da ovogênese é interrompida na prófase I, antes dos 5 anos a menina possui apenas ovócitos primários, que ainda são diploides (46 cromossomos), pois a primeira divisão meiótica (que reduziria a ploidia) ainda não se completou.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "biologia-313",
+      "enunciado": "Observe o gráfico a seguir:\n\n[Gráfico próprio da banca: eixo y \"Absorbância estimada da clorofila a e taxa de fotossíntese\"; eixo x \"Comprimento de onda (nm)\", de 400 a 700 nm, dividido em três regiões: \"Região do azul\" (~400-500 nm), \"Região do verde\" (~500-600 nm) e \"Região do vermelho\" (~600-700 nm). Uma curva roxa/magenta representa a \"Absorção da luz pela clorofila a\", com dois picos nítidos — um grande na região do azul (~430-450 nm) e outro na região do vermelho (~660 nm) — e absorção muito baixa na região do verde. Uma curva verde representa a \"Taxa de fotossíntese em função do comprimento de onda\" (rotulada como \"Espectro de ação da fotossíntese\"), que acompanha formato semelhante: alta na região do azul, com uma queda na região do verde, voltando a subir com um pico na região do vermelho.]\n\nO comprimento de onda da luz de menor importância para a fotossíntese é o que corresponde à(s) cor(es)",
+      "alternativas": {
+        "a": "azul, o que justifica o fato de não enxergarmos os eucariontes fotossintetizantes dessa cor.",
+        "b": "verde, o que justifica o fato de nem todos os eucariontes fotossintetizantes apresentarem essa cor.",
+        "c": "vermelho, o que justifica ser essa cor comum nas pétalas das flores de angiospermas, mas incomum em folhas.",
+        "d": "verde, o que justifica o fato da maioria dos eucariontes fotossintetizantes apresentarem essa cor.",
+        "e": "azul e vermelho, o que justifica serem essas cores comuns nas pétalas das flores de angiospermas, mas incomuns em folhas."
+      },
+      "resposta": "d",
+      "explicacao": "A luz verde é pouco absorvida pela clorofila a (por isso ela é refletida e a folha aparece verde), sendo a de menor importância para a fotossíntese — e essa mesma razão explica por que a maioria dos eucariontes fotossintetizantes (plantas, algas) apresenta coloração verde.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "biologia-314",
+      "enunciado": "Na espécie humana, a característica lóbulos de orelha presos ou soltos é determinada geneticamente. No heredograma a seguir, os quadrados e círculos pretos correspondem ao fenótipo lóbulos de orelha presos; quadrados e círculos brancos correspondem ao fenótipo lóbulos soltos.\n\n[Heredograma próprio da banca, com 3 gerações. Geração I: I-1 (quadrado branco, soltos) casado com I-2 (círculo preto, presos). Geração II: filhos do casal I: II-2 (círculo preto, presos), casada com II-1 (quadrado branco, soltos); II-3 (quadrado preto, presos); II-4 (quadrado branco, soltos), casado com II-5 (círculo branco, soltos). Geração III: filhos de II-1 x II-2: III-1 (quadrado preto, presos), III-2 (círculo branco, soltos), III-3 (quadrado branco, soltos). Filhos de II-4 x II-5: III-4 (quadrado preto, presos), III-5 (quadrado preto, presos), III-6 (círculo preto, presos).]\n\nSe uma criança nasce da união entre a mulher III-2 e seu primo III-4, a probabilidade de que seja uma menina com lóbulos de orelha presos é:",
+      "alternativas": {
+        "a": "2/3",
+        "b": "1/3",
+        "c": "1/4",
+        "d": "3/4",
+        "e": "1/2"
+      },
+      "resposta": "c",
+      "explicacao": "Combinando as probabilidades derivadas do heredograma (padrão de herança do fenótipo lóbulos presos/soltos entre os primos III-2 e III-4) com a chance de 1/2 de nascer menina, obtém-se uma probabilidade de 1/4 para uma menina com lóbulos presos.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2024.1"
+    },
+    {
+      "id": "biologia-315",
+      "enunciado": "Em uma determinada espécie de besouro, as características: tipo de antena (lisa ou franjada), cor das asas (vermelha ou verde) e resistência a inseticida, são determinadas por genes localizados em diferentes pares de cromossomos. Os caracteres antena lisa e asa vermelha são dominantes; já a resistência a inseticida é determinada por gene recessivo.\n\nConsidere o cruzamento de dois besouros heterozigotos para as três características. A probabilidade de nascer um indivíduo de antenas lisas, heterozigoto para a coloração das asas e resistente a inseticidas é de",
+      "alternativas": {
+        "a": "1/2",
+        "b": "1/16",
+        "c": "3/32",
+        "d": "5/16",
+        "e": "1/64"
+      },
+      "resposta": "c",
+      "explicacao": "Antena lisa (dominante) tem probabilidade 3/4; ser heterozigoto para cor das asas tem probabilidade 1/2; e ser resistente a inseticida (recessivo) tem probabilidade 1/4. Como os genes segregam de forma independente, a probabilidade conjunta é 3/4×1/2×1/4=3/32.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "biologia-316",
+      "enunciado": "Os líquens são encontrados nos mais diversos ambientes e desempenham importante papel nos ecossistemas, podendo atuar como espécie pioneira na sucessão ecológica, fixar nitrogênio atmosférico, servir de alimentos para diversos animais etc. Um líquen é formado por uma associação de organismos de diferentes espécies - essa associação é tão completa que, aos líquens, são dados nomes científicos como se fossem organismos únicos.\n\nOs líquens são formados pela associação",
+      "alternativas": {
+        "a": "de fungos parasitados por algas.",
+        "b": "simbiótica entre fungos e leguminosas.",
+        "c": "de protocooperação entre fungos e raízes de plantas.",
+        "d": "mutualística entre fungos e algas.",
+        "e": "de fungos que parasitam raízes de plantas."
+      },
+      "resposta": "d",
+      "explicacao": "Os líquens resultam de uma associação mutualística entre fungos (que fornecem estrutura e retêm água) e algas ou cianobactérias (que fornecem alimento pela fotossíntese), benéfica para ambos os organismos envolvidos.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "biologia-317",
+      "enunciado": "Praticamente todos os medicamentos humanos disponíveis atualmente foram desenvolvidos com a ajuda de experiências com animais. A descoberta de um importante hormônio, por exemplo, foi realizada em estudo com cães que foram submetidos à pancreatectomia total, ou seja, retirada total do pâncreas. Neste estudo, os cientistas observaram que os cães, após o procedimento, tendiam a apresentar",
+      "alternativas": {
+        "a": "hiperglicemia, causada pela ausência da insulina produzida pelas células beta do pâncreas.",
+        "b": "hipoglicemia, graças à retroalimentação negativa, que induziu à secreção de glucagon pelo fígado.",
+        "c": "pancreatite, decorrente da ausência da produção de enzimas digestivas pelo pâncreas.",
+        "d": "hepatite, devido ao acúmulo de glicogênio no fígado, produzido a partir da glicose sanguínea.",
+        "e": "diabetes tipo 2, em consequência da redução de secreção de glucagon pelo pâncreas."
+      },
+      "resposta": "a",
+      "explicacao": "A remoção total do pâncreas elimina a produção de insulina pelas células beta, hormônio responsável por reduzir a glicemia; sem ele, a glicose não é captada adequadamente pelas células, causando hiperglicemia.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "biologia-318",
+      "enunciado": "Embora os frutos e sementes nativas sejam o principal alimento do macaco-prego, no inverno e primavera a quantidade desses recursos na Floresta com Araucária, típica do Sul do Brasil, não é suficiente para a sua sobrevivência. Esse problema é crítico nas regiões em que essa floresta foi ou é explorada/suprimida, pois isso reduz a abundância de espécies que servem de alimento para o macaco-prego. Esses primatas, então, buscam alimentos alternativos. Assim, descascam as árvores de pínus e outras espécies, como eucalipto e araucária.\n\nOs macacos-prego descascam as árvores para se alimentar de",
+      "alternativas": {
+        "a": "seiva rica em carboidratos, que percorre o interior do floema.",
+        "b": "celulose, presente no parênquima de reserva que compõe a casca.",
+        "c": "carboidratos e sais minerais que compõem a seiva bruta.",
+        "d": "seiva elaborada, produzida no interior do xilema.",
+        "e": "seiva bruta presente no interior do parênquima clorofiliano."
+      },
+      "resposta": "a",
+      "explicacao": "Os macacos-prego descascam as árvores para acessar a seiva bruta (rica em água e sais minerais, mas também em açúcares dissolvidos) que percorre o xilema logo abaixo da casca, alternativa alimentar quando frutos e sementes escasseiam.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "biologia-319",
+      "enunciado": "Graças ao coração, o sangue exerce pressão contra as paredes das artérias: é a pressão arterial.\nO gráfico a seguir representa a variação da pressão intravascular ao longo do ciclo cardíaco.\n\n[Descrição do gráfico: eixo vertical \"Pressão (mmHg)\" com marcações em 80 e 120; eixo horizontal representa o tempo, com origem em 0. A curva parte de cerca de 80 mmHg (ponto 1, marcado logo após o início), sobe abruptamente até um pico de 120 mmHg (ponto 2), depois decresce de forma mais suave, com uma pequena inflexão (entalhe dicrótico) no meio da descida, retornando a valores próximos de 80 mmHg antes de reiniciar a subida em um novo ciclo. Uma linha pontilhada horizontal marca um nível de pressão intermediário entre 80 e 120.]\n\nA pressão sistólica está representada no gráfico pelo número ____ e corresponde à sístole ________________, que é a ________________ do ________________.\n\nAs lacunas devem ser corretamente preenchidas por:",
+      "alternativas": {
+        "a": "1; ventricular; contração; ventrículo.",
+        "b": "2; atrial; relaxamento; átrio.",
+        "c": "1; atrial; relaxamento; átrio.",
+        "d": "2; ventricular; contração; ventrículo.",
+        "e": "1; atrial; contração; ventrículo."
+      },
+      "resposta": "d",
+      "explicacao": "A pressão sistólica é a maior pressão do ciclo cardíaco (ponto 2, 120 mmHg), correspondente à sístole ventricular — a fase de contração dos ventrículos, que ejeta o sangue para as artérias.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "biologia-320",
+      "enunciado": "A imagem a seguir mostra parte de um exame de DNA de três irmãos, obtido pela técnica de eletroforese em gel. Cada barra indica um fragmento de DNA correspondente aos alelos de um gene que determina certa característica hereditária. As letras indicam as amostras provenientes dos irmãos: A é um menino sem a característica, B é uma menina e C é um menino, ambos apresentando a característica.\n\n[Descrição da imagem: gel de eletroforese com três colunas (A, B e C) e duas fileiras de bandas, rotuladas \"Alelo 1\" (fileira superior) e \"Alelo 2\" (fileira inferior). Na fileira \"Alelo 1\": não há banda na coluna A; há banda nas colunas B e C. Na fileira \"Alelo 2\": há banda nas colunas A e B; não há banda na coluna C.]\n\nEntre as opções a seguir, assinale aquela que apresenta um possível modo de herança da característica:",
+      "alternativas": {
+        "a": "ligada ao X, causada por alelo recessivo.",
+        "b": "autossômica recessivo.",
+        "c": "autossômica dominante.",
+        "d": "ligada ao Y, causada por alelo dominante.",
+        "e": "ligada ao Y, causada por alelo recessivo."
+      },
+      "resposta": "c",
+      "explicacao": "O padrão de bandas mostra que o pai (implícito, não testado) e a mãe transmitiram o alelo às crianças B e C, que manifestam a característica mesmo tendo apenas uma cópia visível do alelo associado — um padrão compatível com herança autossômica dominante, em que basta uma cópia do alelo para manifestar o fenótipo.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "biologia-321",
+      "enunciado": "A fotossíntese é considerada um dos processos bioquímicos mais importantes da Terra. O conhecimento desse fenômeno foi se expandindo ao longo de vários anos pela investigação de diferentes pesquisadores.\n\nCom relação à fotossíntese, analise as afirmações a seguir:\n\nI. Se uma planta estiver pouco iluminada, mas a temperatura ambiente for aumentada, poderemos observar um aumento expressivo na velocidade da fotossíntese.\nII. A etapa da fotossíntese onde são produzidos glicídios é a química, também conhecida como ciclo de Calvin-Benson, e sua ocorrência se dá no estroma dos cloroplastos.\nIII. Se fornecermos moléculas de água que apresentem o isótopo radioativo do oxigênio (¹⁸O) a uma planta, após a fotossíntese, espera-se encontrar o ¹⁸O nas moléculas de gás oxigênio (O₂) liberadas pelo vegetal.\n\nEstá correto apenas o que se afirma em",
+      "alternativas": {
+        "a": "II.",
+        "b": "I.",
+        "c": "I e II.",
+        "d": "III.",
+        "e": "II e III."
+      },
+      "resposta": "e",
+      "explicacao": "A afirmativa I está errada porque, com pouca luz, a intensidade luminosa (não a temperatura) é o fator limitante da fotossíntese. A II está correta: a etapa química (ciclo de Calvin-Benson) produz glicídios no estroma. A III também está correta: o oxigênio liberado na fotossíntese vem da fotólise da água, por isso o ¹⁸O da água aparece no O₂ liberado.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "biologia-322",
+      "enunciado": "A excreção é uma função fisiológica essencial, responsável pela eliminação de resíduos metabólicos tóxicos. A figura a seguir mostra as três principais formas de resíduos nitrogenados excretados pelos animais, originados a partir do catabolismo de proteínas e ácidos nucleicos.\n\n[Descrição da figura: estruturas químicas (fórmulas estruturais) da amônia (NH₃), da ureia (composto com um carbono central ligado a um oxigênio por dupla ligação e a dois grupos NH₂) e do ácido úrico (estrutura biciclíca com dois anéis contendo nitrogênios, com grupos C=O e N-H), identificadas respectivamente como \"Amônia\", \"Ureia\" e \"Ácido úrico\".]\n\nEm relação aos excretas nitrogenados representados, é correto afirmar que",
+      "alternativas": {
+        "a": "o ácido úrico é o excreta predominante de insetos, aves e serpentes, sendo um composto de pouca toxicidade e baixa solubilidade, que pode ser eliminado na forma pastosa.",
+        "b": "o ácido úrico, por ser pouco solúvel, necessita de muita água para ser eliminado, o que o torna o principal excreta de peixes ósseos e invertebrados aquáticos.",
+        "c": "a amônia é o principal constituinte da urina de animais terrestres, já que requer menor volume de água para sua eliminação, embora o gasto energético para a sua produção seja elevado.",
+        "d": "a adaptação ao ambiente terrestre exigiu a produção de resíduos nitrogenados menos tóxicos, como ureia e amônia, reduzindo o gasto de água na excreção.",
+        "e": "a excreção de amônia pelas aves é uma adaptação ao voo, pois é o composto nitrogenado de menor peso molecular e menor solubilidade."
+      },
+      "resposta": "a",
+      "explicacao": "A amônia, por ser muito tóxica, precisa de grande quantidade de água para ser diluída e eliminada, sendo por isso o excreta típico de animais aquáticos (como peixes ósseos), que têm água disponível em abundância; já o ácido úrico, pouco solúvel e de baixa toxicidade, permite economia de água e é típico de animais terrestres com pouco acesso à água, como insetos, aves e répteis.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "biologia-323",
+      "enunciado": "Os sintomas da malária foram descritos pela primeira vez por volta de 2700 a.C. em antigos escritos de médicos chineses. Milhares de anos depois, a malária continua a ser uma doença infecciosa das mais significativas, sendo uma importante causa de morte no mundo.\nCom relação à malária, assinale V para a afirmação verdadeira e F para a falsa.\n\n( ) A malária é causada por protistas do gênero Plasmodium e é transmitida ao ser humano pela picada da fêmea do mosquito do gênero Anopheles.\n( ) Os mosquitos, entre eles o transmissor da malária, são animais classificados, segundo o desenvolvimento embrionário, como triblásticos e pseudocelomados.\n( ) No mosquito ocorrem a reprodução sexuada e a assexuada do parasita responsável pela malária, enquanto no corpo do ser humano acontece apenas a reprodução assexuada. Assim, o mosquito é o hospedeiro intermediário do parasita e o ser humano, o hospedeiro definitivo.\n\nAs afirmações são, respectivamente,",
+      "alternativas": {
+        "a": "V, F e V.",
+        "b": "F, F e F.",
+        "c": "V, F e F.",
+        "d": "F, F e V.",
+        "e": "V, V e V."
+      },
+      "resposta": "c",
+      "explicacao": "A malária é de fato causada por um protozoário do gênero Plasmodium, transmitido pela fêmea do Anopheles (afirmação V); mosquitos são insetos, portanto triblásticos, mas celomados (não pseudocelomados), tornando essa afirmação falsa; e é o ser humano quem hospeda apenas a reprodução assexuada do parasita, enquanto no mosquito ocorre também a reprodução sexuada — o mosquito é, portanto, o hospedeiro definitivo, e o ser humano, o intermediário, invertendo o que a terceira afirmação propõe (também falsa).",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1-cn"
+    },
+    {
+      "id": "biologia-324",
+      "enunciado": "Para demonstrar o efeito do pH sobre a taxa de reação de determinada enzima digestiva humana, foi realizado um experimento utilizando soluções tampão, que mantêm o pH de uma solução constante. Foram preparados cinco tubos de ensaio, cada um contendo uma solução formada pela enzima, por seu substrato e pela solução tampão de pH, que variou entre 5 e 9.\n\nImediatamente após o preparo de cada tubo, uma amostra da solução foi retirada a cada 10 segundos; tais amostras foram testadas com uma substância indicadora. Essa substância muda de cor em presença do substrato, mas permanece com a cor original na ausência dele. Assim, quando todo o substrato for decomposto pela enzima, o indicador permanecerá com a cor original. Para cada pH investigado, o tempo necessário para que a solução indicadora permanecesse com a cor original foi registrado.\n\nA tabela a seguir mostra os resultados obtidos (dados criados pela própria banca):\n\n| pH da mistura | Tempo (em segundos) necessário para que o indicador permanecesse com a cor original |\n|---|---|\n| 5 | 120 |\n| 6 | 40 |\n| 7 | 30 |\n| 8 | 50 |\n| 9 | 150 |\n\nO resultado do experimento permite afirmar que a enzima testada e seu local de ação são, respectivamente:",
+      "alternativas": {
+        "a": "amilase – boca",
+        "b": "amilase – intestino delgado",
+        "c": "protease – pâncreas",
+        "d": "protease – intestino delgado",
+        "e": "lipase – duodeno"
+      },
+      "resposta": "a",
+      "explicacao": "O pH ótimo da enzima testada foi 7 (menor tempo de reação, maior velocidade), próximo ao pH neutro/levemente ácido da boca; essas características (pH ótimo próximo à neutralidade e substrato digerido rapidamente) são compatíveis com a amilase salivar, que age na boca sobre o amido.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "biologia-325",
+      "enunciado": "O planejamento familiar constitui um recurso essencial para o exercício da autonomia reprodutiva, abrangendo distintas possibilidades: desde a decisão sobre o momento, a frequência e o número de filhos, até a escolha de não vivenciar a maternidade. Neste último cenário, os métodos contraceptivos assumem papel central, uma vez que configuram estratégias indispensáveis para a prevenção de gestações indesejadas.\n\nEm relação a esses métodos, é correto afirmar que",
+      "alternativas": {
+        "a": "camisinha e diafragma são métodos de barreira que também previnem a contaminação por infecções sexualmente transmissíveis",
+        "b": "adesivos hormonais, diferentemente da pílula, contêm hormônios hipofisários (luteinizante e folículo estimulante), inibindo a ovulação",
+        "c": "tabelinha e pílula do dia seguinte apresentam elevada eficácia, principalmente entre os adolescentes, desde que seu uso seja orientado por médicos",
+        "d": "vasectomia e laqueadura tubária seccionam vias por onde passam os espermatozoides, impedindo que eles cheguem até o ovócito II",
+        "e": "pílula anticoncepcional e dispositivo intrauterino de cobre (DIU) mantêm elevados os níveis de estrógeno e progesterona, interrompendo a ovulogênese"
+      },
+      "resposta": "d",
+      "explicacao": "Camisinha (masculina ou feminina) e diafragma são métodos de barreira física que, ao impedir o contato direto entre secreções, também previnem a transmissão de infecções sexualmente transmissíveis — proteção que os métodos hormonais ou cirúrgicos não oferecem.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "biologia-326",
+      "enunciado": "Segundo a Organização das Nações Unidas (ONU), o mundo tem 2 bilhões de pessoas sem água potável e 3,4 bilhões vivem em áreas sem esgoto tratado. Em países de baixa renda, as taxas de mortalidade por falta de acesso à água potável e ao saneamento podem ser 500 vezes mais altas que em nações desenvolvidas. Todos os anos, 1,4 milhão de pessoas, no mundo, morrem de infecções causadas por água contaminada e saneamento básico inadequado.\n\nEntre as infecções associadas à água contaminada, estão bacterioses como",
+      "alternativas": {
+        "a": "hepatite A, raiva e esquistossomose",
+        "b": "hepatite B, esquistossomose e leptospirose",
+        "c": "amebíase, hepatite A e cólera",
+        "d": "peste bubônica, raiva e febre tifoide",
+        "e": "cólera, febre tifoide e leptospirose"
+      },
+      "resposta": "e",
+      "explicacao": "Cólera, febre tifoide e leptospirose são causadas por bactérias (Vibrio cholerae, Salmonella Typhi e Leptospira, respectivamente) transmitidas por água ou alimentos contaminados — diferente de hepatite A (vírus) ou esquistossomose (verme), presentes incorretamente nas demais alternativas.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "biologia-327",
+      "enunciado": "Na linguagem popular, costuma-se dizer que o AAS (ácido acetilsalicílico, também conhecido como Aspirina), \"afina\" o sangue, ou seja, diminui a probabilidade de formação de coágulos que podem obstruir o fluxo sanguíneo. A Aspirina inibe a ação da enzima cicloxigenase que, por sua vez, impede a agregação de",
+      "alternativas": {
+        "a": "plaquetas",
+        "b": "hemácias",
+        "c": "leucócitos",
+        "d": "linfócitos",
+        "e": "moléculas de hemoglobina"
+      },
+      "resposta": "a",
+      "explicacao": "A cicloxigenase é necessária para a produção de tromboxano A2, substância que promove a agregação das plaquetas na formação do coágulo; ao inibir essa enzima, a Aspirina reduz a agregação plaquetária, \"afinando\" o sangue.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "biologia-328",
+      "enunciado": "Um geneticista investiga em sua pesquisa os genes que controlam o formato da asa (gene M/m) e a cor dos olhos (gene P/p) de uma espécie de inseto. Ele realizou um cruzamento-teste entre indivíduos duplo heterozigotos (genótipo MP/mp) e indivíduos duplo recessivos. Ele obteve os resultados a seguir (dados criados pela própria banca):\n\nProle:\n- 450 indivíduos com o genótipo MP/mp\n- 450 indivíduos com o genótipo mp/mp\n- 50 indivíduos com o genótipo Mp/mp\n- 50 indivíduos com o genótipo mP/mp\n\nSabendo que os dois genes estão localizados no mesmo cromossomo, o pesquisador estabeleceu a taxa de crossing-over entre os genes M e P em",
+      "alternativas": {
+        "a": "5%",
+        "b": "10%",
+        "c": "45%",
+        "d": "50%",
+        "e": "90%"
+      },
+      "resposta": "b",
+      "explicacao": "Os fenótipos recombinantes (Mp/mp e mP/mp) somam 100 dos 1000 descendentes; a taxa de crossing-over é a proporção de recombinantes sobre o total, ou seja, 100/1000=10%.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "biologia-329",
+      "enunciado": "Duas espécies de peixes do mesmo gênero são cruzadas por um pesquisador em seu laboratório. Do cruzamento surgiu um zigoto, que se desenvolveu em um embrião. No entanto, o alevino (jovem de peixe) apresenta diversas más formações, que o impedem de se alimentar, levando-o logo à morte.\n\nNesse caso, o mecanismo de isolamento reprodutivo em ação é o(a)",
+      "alternativas": {
+        "a": "esterilidade do híbrido",
+        "b": "isolamento mecânico",
+        "c": "mortalidade gamética",
+        "d": "isolamento estacional",
+        "e": "inviabilidade do híbrido"
+      },
+      "resposta": "e",
+      "explicacao": "Más formações que impedem o alevino híbrido de se alimentar e o levam à morte antes de se reproduzir caracterizam a inviabilidade do híbrido, um mecanismo de isolamento reprodutivo pós-zigótico.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "biologia-330",
+      "enunciado": "A malária é considerada um grave problema de saúde pública no mundo, sendo uma das doenças de maior impacto na morbidade e na mortalidade da população dos países situados nas regiões tropicais e subtropicais do planeta. De acordo com a Organização Mundial de Saúde (OMS), 263 milhões de casos de malária foram registrados em 2023 em 83 países endêmicos. (Fonte: Ministério da Saúde do Brasil)\n\nEssa é uma doença causada por um(a)",
+      "alternativas": {
+        "a": "protozoário e é transmitida por um mosquito do gênero Anopheles, que é considerado o hospedeiro definitivo no ciclo da malária",
+        "b": "vírus e é transmitida por um mosquito do gênero Aedes, que é considerado o hospedeiro intermediário no ciclo da malária",
+        "c": "protozoário e é transmitida por um mosquito do gênero Aedes, que é considerado o hospedeiro intermediário no ciclo da malária",
+        "d": "vírus e é transmitida por um mosquito do gênero Anopheles, que é considerado o hospedeiro definitivo no ciclo da malária",
+        "e": "bactéria e é transmitida por um mosquito do gênero Aedes, que é considerado o hospedeiro intermediário no ciclo da malária"
+      },
+      "resposta": "a",
+      "explicacao": "A malária é causada por um protozoário do gênero Plasmodium, transmitido pela picada do mosquito Anopheles, que é considerado o hospedeiro definitivo, pois nele ocorre a reprodução sexuada do parasita.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "biologia-331",
+      "enunciado": "A cor do fruto em abóboras é determinada por dois genes de segregação independente. O primeiro gene (B) controla a cor branca, sendo que o alelo recessivo dele permite a expressão do gene (A). O alelo dominante (A) determina a cor amarela e o recessivo (a) determina a cor verde.\n\nO heredograma (esquema genealógico de autoria da própria banca) mostra o cruzamento de duas plantas com frutos brancos (5 e 6): o indivíduo 1 (homozigoto dominante para os dois genes) cruza com o indivíduo 2, gerando o indivíduo 5; o indivíduo 3 cruza com o indivíduo 4 (homozigoto dominante para os dois genes), gerando o indivíduo 6; por fim, 5 cruza com 6, e deseja-se saber a proporção esperada de descendentes de frutos amarelos.\n\nSabendo que 1 e 4 são homozigotas dominantes para os dois genes, 2 e 3 são homozigotas recessivas para os dois genes, a chance de 5 e 6 produzirem descendentes de frutos amarelos é",
+      "alternativas": {
+        "a": "1/16, sendo esse um caso de epistasia dominante",
+        "b": "1/16, sendo esse um caso de pleiotropia",
+        "c": "3/16, sendo esse um caso de epistasia dominante",
+        "d": "3/16, sendo esse um caso de pleiotropia",
+        "e": "6/8, sendo esse um caso de epistasia recessiva"
+      },
+      "resposta": "c",
+      "explicacao": "Do cruzamento AaBb×AaBb, 3/4 da prole tem pelo menos um alelo B (dominante), que é epistático e mascara a cor determinada pelo gene A, resultando em fruto branco independentemente do genótipo do gene A; apenas na fração bb (1/4) o gene A se expressa, e dentro dela 3/4 são A_ (amarelo): 1/4×3/4=3/16 de frutos amarelos, caracterizando epistasia dominante.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "biologia-332",
+      "enunciado": "Em uma situação de grande demanda de energia, um pesquisador comparou as fisiologias de uma onça e de um jabuti. Ele observou que o coração da onça, ao acelerar, fornece uma maior taxa de sangue oxigenado aos músculos, em comparação com o jabuti.\n\nUma característica do sistema circulatório dos mamíferos, quando comparado ao dos répteis, que é fundamental para sua resposta rápida em situações de grande demanda de energia, é o(a)",
+      "alternativas": {
+        "a": "coração de três cavidades que permite a mistura mais eficiente de sangue carbonado e oxigenado em condições de necessidade de resposta rápida",
+        "b": "circulação dupla completa, com um coração de quatro câmaras que bombeia sangue arterial com alta pressão para o corpo",
+        "c": "coração de quatro cavidades que permite a mistura mais eficiente de sangue carbonado e oxigenado em condições de necessidade de resposta rápida",
+        "d": "circulação simples completa, com um coração de quatro câmaras que bombeia sangue arterial com baixa pressão para o corpo",
+        "e": "capacidade do coração desviar o fluxo sanguíneo para a pequena circulação, aumentando a oxigenação da musculatura esquelética"
+      },
+      "resposta": "b",
+      "explicacao": "Nos mamíferos, a circulação dupla e completa, com coração de quatro câmaras totalmente separadas, impede a mistura de sangue arterial e venoso, permitindo bombear sangue mais oxigenado e sob maior pressão para os músculos — o que sustenta respostas metabólicas rápidas, diferente da separação incompleta observada em répteis como o jabuti.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "biologia-333",
+      "enunciado": "As condições ambientais da Terra antes do surgimento dos primeiros seres vivos eram muito diferentes das atuais. As moléculas orgânicas formadas eram arrastadas pelas águas das chuvas e passavam a se acumular nos mares primitivos, transformando-os em verdadeiras \"sopas nutritivas\". Eventualmente, essas moléculas orgânicas poderiam se agregar. Aleksander Oparin (1894-1980) chamou esses conjuntos de moléculas de coacervados, um passo importante para o surgimento dos primeiros seres vivos.\n\nA característica dos coacervados, ainda que primitiva, que eles compartilham com uma célula é a",
+      "alternativas": {
+        "a": "presença de material genético e a membrana plasmática formada por dupla camada fosfolipídica",
+        "b": "capacidade de se reproduzir produzindo outros desses agrupamentos moleculares",
+        "c": "presença de material genético e a possibilidade de realizar trocas com o meio externo",
+        "d": "presença de membrana plasmática formada por dupla camada fosfolipídica, protegendo o seu citoplasma",
+        "e": "capacidade de realizar trocas com o meio externo e de manter um meio interno distinto do externo"
+      },
+      "resposta": "e",
+      "explicacao": "Os coacervados de Oparin, apesar de não terem material genético nem membrana lipídica verdadeira, já apresentavam uma fronteira que permitia realizar trocas seletivas com o meio externo e manter uma composição interna distinta dele — uma propriedade rudimentar compartilhada com as células atuais.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "biologia-334",
+      "enunciado": "Um biólogo, ao estudar as adaptações de aves para o voo em altitudes elevadas, em que a pressão parcial de oxigênio é significativamente baixa, observou que aves podem voar em altitudes que não seriam adequadas a mamíferos.\n\nUma adaptação das aves ao voo que contribui para essa capacidade é a presença de",
+      "alternativas": {
+        "a": "pulmões com uma maior área de superfície interna, aumentando a densidade do animal e refrigerando-o melhor",
+        "b": "respiração cutânea, na qual o oxigênio é absorvido diretamente pela pele do animal, complementando a ação dos pulmões",
+        "c": "um diafragma que aumenta a capacidade pulmonar, tornando a respiração mais eficiente que a dos mamíferos",
+        "d": "sacos aéreos que propiciam um fluxo contínuo de ar aos pulmões, melhorando a ventilação",
+        "e": "pulmões compactos e uma circulação simples, que facilita a troca de gases em baixas pressões"
+      },
+      "resposta": "d",
+      "explicacao": "As aves possuem sacos aéreos conectados aos pulmões, que garantem um fluxo contínuo e unidirecional de ar através deles (mesmo durante a expiração), tornando as trocas gasosas muito mais eficientes do que nos pulmões de mamíferos — vantagem crucial para voar em altitudes com baixa pressão parcial de oxigênio.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1-cn"
+    },
+    {
+      "id": "biologia-335",
+      "enunciado": "Um homem apresentou insuficiência renal após ser contaminado por uma espécie de bactéria. A única\nalternativa de reversão desse quadro clínico é o transplante de rim. O doador considerado mais elegível,\nem termos de compatibilidade genética, para esse transplante seria o",
+      "alternativas": {
+        "a": "pai.",
+        "b": "primo.",
+        "c": "tio.",
+        "d": "irmão não gêmeo.",
+        "e": "irmão gêmeo monozigótico."
+      },
+      "resposta": "e",
+      "explicacao": "Como o sistema imunológico reconhece como próprio apenas material geneticamente idêntico, o doador mais compatível é o irmão gêmeo monozigótico, que possui o mesmo genoma do receptor, eliminando o risco de rejeição do órgão transplantado.",
+      "formato": "direta",
+      "origem": "insper-2026.1"
+    },
+    {
+      "id": "biologia-336",
+      "enunciado": "Nos seres humanos, a manutenção da temperatura corporal está associada a fenômenos adaptativos\nfisiológicos e comportamentais. Por exemplo: em dias quentes, as glândulas sudoríparas são ativadas para\nque a vaporização do suor auxilie no arrefecimento corporal. Outra adaptação do corpo humano, responsável\npela manutenção da temperatura corpórea em dias quentes, corresponde",
+      "alternativas": {
+        "a": "aos tremores musculares.",
+        "b": "ao comportamento de se encolher.",
+        "c": "ao eriçamento de pelos.",
+        "d": "à vasoconstrição periférica.",
+        "e": "à vasodilatação periférica."
+      },
+      "resposta": "e",
+      "explicacao": "Em dias quentes, além da vaporização do suor, o corpo humano promove vasodilatação periférica, que aumenta o fluxo de sangue próximo à superfície da pele e facilita a perda de calor para o ambiente, ajudando a manter a temperatura corporal.",
+      "formato": "direta",
+      "origem": "insper-2026.1"
+    },
+    {
+      "id": "biologia-337",
+      "enunciado": "Considere os seguintes volumes de tipos de sangue disponíveis no banco de sangue de determinado hospital.\n\n- 5 litros de sangue O+\n- 4 litros de sangue O–\n- 3 litros de sangue B+\n- 2 litros de sangue B–\n- 2 litros de sangue AB–\n\nUm paciente com tipo sanguíneo B–, ao ser atendido nesse hospital para receber transfusão sanguínea,\ninformou ao médico que há alguns meses havia recebido sangue incompatível ao sistema Rh. Dessa forma, o\nvolume total de sangue disponível para a transfusão sanguínea nesse paciente equivale a",
+      "alternativas": {
+        "a": "2 litros.",
+        "b": "4 litros.",
+        "c": "5 litros.",
+        "d": "6 litros.",
+        "e": "9 litros."
+      },
+      "resposta": "d",
+      "explicacao": "Um paciente B− só pode receber sangue dos tipos compatíveis com seu sistema ABO e Rh: tipo O− (universal para o fator Rh negativo) e tipo B− — no banco descrito, isso corresponde aos 4 litros de O− mais os 2 litros de B−, totalizando 6 litros.",
+      "formato": "direta",
+      "origem": "insper-2026.2"
     }
   ]
 }

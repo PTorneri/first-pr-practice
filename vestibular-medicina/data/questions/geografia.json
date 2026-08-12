@@ -2467,6 +2467,678 @@
       "explicacao": "A deformação é menor onde a superfície geométrica toca a esfera: no equador, no caso do cilindro; num paralelo de latitude média, no do cone; e num único ponto, no da projeção plana, razão pela qual ela é a escolha usual para mapas polares. Dizer que todas distorcem igualmente confunde duas coisas: é verdade que nenhuma é fiel, mas o padrão e a localização da distorção mudam conforme a superfície adotada, e é isso que orienta a escolha.",
       "formato": "direta",
       "dificuldade": "media"
+    },
+    {
+      "id": "geografia-163",
+      "enunciado": "Neste bioma, a vegetação nativa apresenta-se intercalada por extensas monoculturas de soja e de arroz. Em alguns lugares, a vegetação campestre original tem sido substituída por vegetação florestal, formada por árvores de eucaliptos. Em vários locais, observa-se a expansão de grandes areais, em que os solos arenosos ficam expostos e suscetíveis a uma intensa erosão. Este é o bioma brasileiro menos protegido por Unidades de Conservação, embora esteja entre aqueles que mais perderam vegetação nativa nas últimas três décadas.\n\nA descrição da paisagem impactada por ações humanas refere-se ao bioma",
+      "alternativas": {
+        "a": "Caatinga.",
+        "b": "Cerrado.",
+        "c": "Mata Atlântica.",
+        "d": "Pampas.",
+        "e": "Pantanal."
+      },
+      "resposta": "d",
+      "explicacao": "O bioma Pampa (campos sulinos do Rio Grande do Sul) é o menos protegido por Unidades de Conservação no Brasil e vem perdendo vegetação campestre nativa para monoculturas de soja e arroz e para o florestamento de eucalipto, além de sofrer intensa arenização em áreas de solo exposto.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "geografia-164",
+      "enunciado": "A Estação Meteorológica Mirante de Santana é a principal referência do Instituto Nacional de Meteorologia (INMET) no município de São Paulo - SP. O climograma a seguir apresenta dados diários de temperatura (máxima e mínima) e de precipitação referentes ao mês de fevereiro de 2023 (28 dias). Neste mesmo mês, o Centro de Gerenciamento de Emergências Climáticas detectou 11 pontos de alagamentos no dia 19 e 14 pontos no dia 21.\n\nValores destacados no climograma: no dia 1, a temperatura máxima (T.Max) registrada foi de 31,5°C. Por volta do dia 19, a T.Max atingiu seu menor valor do mês, 21,6°C, e a temperatura mínima (T.Min) atingiu seu menor valor do mês, 17,8°C — a menor amplitude térmica (diferença entre T.Max e T.Min) de todo o período, coincidindo com dias de chuva intensa e com os alagamentos relatados nos dias 19 e 21. Por volta dos dias 25-26, a T.Min atingiu um pico local de 21,5°C. A chuva acumulada no mês (eixo secundário, linha pontilhada) cresce ao longo dos dias e totaliza 428,9 mm até o dia 28, o último dia do gráfico.\n\nCom base no texto e no gráfico, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "A menor amplitude térmica ocorreu no dia 19, quando foi observado um dos maiores volumes de chuva do mês.",
+        "b": "Os quatro dias mais chuvosos apresentaram as menores temperaturas mínimas.",
+        "c": "A temperatura máxima no período variou entre 21,5 °C e 17,8 °C.",
+        "d": "Os cinco dias mais quentes correspondem às maiores precipitações.",
+        "e": "Os pontos de alagamento nos dias 19 e 21 foram provocados pela chuva acumulada de 428,9 mm."
+      },
+      "resposta": "a",
+      "explicacao": "No dia 19 tanto a temperatura máxima (21,6°C) quanto a mínima (17,8°C) atingiram seus menores valores do mês, reduzindo a amplitude térmica justamente no dia de chuva intensa e alagamentos — céu nublado e chuva reduzem o aquecimento diurno, achatando a diferença entre máxima e mínima.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "geografia-165",
+      "enunciado": "Na obra Caminho de pedras, de 1937, a autora Rachel de Queiroz aborda os desafios da personagem Noemi em busca de sua liberdade política, social e sexual, em uma sociedade conservadora. O papel da mulher na sociedade e sua inserção no mercado de trabalho são temas atuais. Em março de 2025, o governo federal lançou um boletim que tem como objetivo analisar a inserção das mulheres no mercado de trabalho brasileiro. Um dos gráficos apresentados pelo boletim trata da taxa de participação na força de trabalho no Brasil, no 3º trimestre de cada ano, no período de 2012 a 2024 (fonte: Pesquisa Nacional por Amostra de Domicílio Contínua — PNAD Contínua/IBGE).\n\nTaxa de participação na força de trabalho (%), por sexo, no terceiro trimestre de cada ano:\n\n| Ano | Homens | Total | Mulheres |\n|---|---|---|---|\n| 2012 | 74,5 | 62,8 | 51,9 |\n| 2013 | 74,4 | 62,6 | 51,6 |\n| 2014 | 74,0 | 62,3 | 51,4 |\n| 2015 | 74,0 | 62,9 | 52,4 |\n| 2016 | 73,5 | 62,5 | 52,2 |\n| 2017 | 73,6 | 63,2 | 53,5 |\n| 2018 | 73,6 | 63,3 | 53,7 |\n| 2019 | 73,6 | 63,8 | 54,6 |\n| 2020 | 68,6 | 57,6 | 47,3 |\n| 2021 | 72,2 | 61,9 | 52,3 |\n| 2022 | 72,6 | 62,7 | 53,4 |\n| 2023 | 72,0 | 61,8 | 52,3 |\n| 2024 | 72,6 | 62,4 | 52,8 |\n\nEm relação ao gráfico apresentado, é correto afirmar:",
+      "alternativas": {
+        "a": "A queda na taxa de participação de homens na força de trabalho foi maior do que a de mulheres no terceiro trimestre do ano em que a pandemia de Covid se iniciou.",
+        "b": "A taxa de participação de mulheres na força de trabalho é crescente durante todo o período entre o terceiro trimestre do ano de início da pandemia de Covid e o terceiro trimestre de 2024.",
+        "c": "A taxa de participação de mulheres na força de trabalho teve seu maior crescimento anual do terceiro trimestre de 2020 para o terceiro trimestre de 2021.",
+        "d": "A diferença entre a taxa de participação de homens e mulheres na força de trabalho foi de 11,7 no terceiro trimestre de 2012.",
+        "e": "A taxa de participação de mulheres na força de trabalho atingiu seu maior valor após o terceiro trimestre de 2020."
+      },
+      "resposta": "c",
+      "explicacao": "Comparando os valores da tabela, a taxa de participação feminina saltou de 47,3% em 2020 para 52,3% em 2021, um aumento de 5,0 pontos percentuais — a maior variação anual de toda a série, superior a qualquer outro salto ano a ano observado na tabela.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "geografia-166",
+      "enunciado": "O conceito de mercado de carbono foi formalizado a partir do Protocolo de Kyoto, em 1997, e foi impulsionado pelo Acordo de Paris, em 2015. No Brasil, o mercado de créditos de carbono foi formalizado em dezembro de 2024.\n\nIndique a alternativa que explica corretamente a ideia central acerca dos créditos de carbono.",
+      "alternativas": {
+        "a": "Países com mais florestas devem receber créditos financeiros de países menos florestados para manter a floresta em pé.",
+        "b": "Créditos de carbono correspondem a um aumento da taxa fotossintética e uma maior conversão de CO2 em matéria orgânica pelas florestas tropicais.",
+        "c": "Créditos de carbono são obtidos por qualquer país, mesmo os mais industrializados, pela redução da emissão de CO2 e seus equivalentes na atmosfera.",
+        "d": "Países industrializados geram muitos créditos de carbono, que podem ser repassados aos países menos poluidores, via mercado de carbono.",
+        "e": "Há um limite de créditos de carbono que cada país pode emitir, estabelecido internacionalmente; ultrapassado tal limite, o país sofre sanções econômicas."
+      },
+      "resposta": "c",
+      "explicacao": "O mercado de créditos de carbono permite que qualquer país ou empresa, inclusive os mais industrializados, gere créditos ao reduzir ou evitar emissões de CO2 e gases equivalentes, podendo depois negociá-los — não se trata de uma doação fixa a países florestados nem de aumento da fotossíntese das florestas.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "geografia-167",
+      "enunciado": "No censo do IBGE 2022 foi possível perceber que, do total de 203,1 milhões de pessoas da população brasileira, 177,5 milhões (87,4%) residiam em áreas urbanas, enquanto 25,6 milhões viviam em áreas rurais. Em relação a 2010, quando o grau de urbanização foi de 84,4%, houve aumento de 16,6 milhões de pessoas morando em áreas urbanas e queda de 4,3 milhões vivendo em áreas rurais.\n\nJá em relação à distribuição da população brasileira, o Censo 2022 trouxe uma importante constatação: o crescimento das cidades médias. Cabem nessa classificação do IBGE os municípios que contam entre 100 mil e 500 mil habitantes.\n\nAlém disso, os dados também revelam que os maiores percentuais de população urbana foram observados nas regiões Sudeste (94,44%) e Centro-Oeste (91,35%), seguidas das regiões Sul (88,24%), Norte (78,47%) e Nordeste (77,64%). A população rural, por sua vez, apresentou pela primeira vez decréscimo em todas as regiões do Brasil. Este contexto de mudanças é denominado de fragmentação socioespacial.\n\nCom base no texto e em seus conhecimentos, é correto afirmar a respeito das novas tendências sobre a urbanização do Brasil:",
+      "alternativas": {
+        "a": "O grau de urbanização vem aumentando na região Centro-Oeste (91,35%) e Norte (78,47%), devido à expansão industrial e ao impacto das áreas reflorestadas e com baixa modernização agrícola.",
+        "b": "Houve um aumento de 16,6 milhões de pessoas morando em áreas urbanas, revelando que as grandes metrópoles continuam como o principal polo de crescimento populacional relativo, registrando taxas de aumento superiores às cidades médias e pequenas.",
+        "c": "Em 2010, 84,4% da população absoluta do país vivia em áreas urbanas e, em 2022, essa porcentagem passou para 87,4%; esse aumento do grau de urbanização ocorreu sobretudo nas cidades médias (entre 100 e 500 mil habitantes).",
+        "d": "De acordo com o Censo de 2022, a população rural manteve-se estável na última década, como mostram os dados das regiões Sul (88,24%) e Sudeste (94,44%), ampliando a fragmentação socioespacial.",
+        "e": "No contexto do Censo de 2022, os pequenos municípios brasileiros apresentaram o maior crescimento populacional relativo do país, superando as cidades médias e grandes, em função do avanço da industrialização e da expansão do agronegócio."
+      },
+      "resposta": "c",
+      "explicacao": "Os dados do texto confirmam a evolução do grau de urbanização de 84,4% (2010) para 87,4% (2022), e apontam que esse crescimento se concentrou sobretudo nas cidades médias (100 a 500 mil habitantes), e não nas grandes metrópoles nem nos pequenos municípios.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "geografia-168",
+      "enunciado": "Atualmente, é comum denominar a divisão político-regional do mundo entre Norte e Sul Global. Essa delimitação não segue exatamente os pontos cardeais. Há países do Norte que estão no Sul e vice-versa, conforme indicado no mapa. Essa forma de divisão está baseada no tabuleiro geopolítico e econômico mundial e afastada da localização geográfica dos países.\n\nO mapa \"Localização dos países do Norte e Sul Global\" (elaboração própria da COMVEST, 2025) mostra um planisfério com os países coloridos em azul (Norte Global) ou vermelho (Sul Global). Estão em azul (Norte Global): Estados Unidos, Canadá, toda a Europa, a Rússia, e também a Austrália e a Nova Zelândia. Estão em vermelho (Sul Global): México, toda a América Central e do Sul, toda a África, e a Ásia (incluindo China, Índia, Oriente Médio e Sudeste Asiático).\n\nEm relação à localização dos países do Norte e Sul Global nos diferentes hemisférios, assinale, com base no mapa, a alternativa correta.",
+      "alternativas": {
+        "a": "Austrália e Nova Zelândia são os únicos países do Norte Global situados no hemisfério meridional e hemisfério ocidental.",
+        "b": "Argentina, Brasil, Chile, Colômbia, Equador e Venezuela estão no Sul Global e têm seus territórios no hemisfério meridional e no hemisfério oriental.",
+        "c": "Estados Unidos e Canadá são países do continente americano no Norte Global que têm seus territórios localizados no hemisfério setentrional e hemisfério ocidental.",
+        "d": "China, Rússia, Índia e Japão, integrantes do Norte Global, estão situados no hemisfério setentrional e no hemisfério oriental."
+      },
+      "resposta": "c",
+      "explicacao": "Estados Unidos e Canadá pertencem ao Norte Global e estão localizados ao norte do Equador (hemisfério setentrional) e a oeste do meridiano de Greenwich (hemisfério ocidental) — diferentemente da Austrália e Nova Zelândia (hemisfério oriental, não ocidental) e da maioria dos países sul-americanos citados na alternativa b (hemisfério ocidental, não oriental).",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "geografia-169",
+      "enunciado": "O mapa a seguir apresenta frações do território brasileiro transformadas a partir da década de 1970 pela implementação de políticas de desenvolvimento. Três áreas limítrofes do Estado da Bahia, que até então não eram modernizadas, foram incorporadas a diferentes circuitos espaciais produtivos globalizados.\n\nO mapa \"Circuitos produtivos do agronegócio no estado da Bahia\" (elaboração própria da COMVEST, 2025) mostra o estado da Bahia e vizinhos (Maranhão, Piauí, Tocantins, Pernambuco, Goiás, Distrito Federal, Espírito Santo), com três zonas destacadas: a \"Zona produtora de grãos\" (a oeste, na divisa com Tocantins/Piauí), a \"Zona da Fruticultura Irrigada\" (ao norte, na divisa com Pernambuco) e a \"Zona da Silvicultura de Eucalipto\" (ao sul, na divisa com Espírito Santo).\n\nConsiderando o texto e o mapa dos circuitos produtivos do agronegócio no Estado da Bahia, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "A especialização produtiva regional favoreceu o uso intensivo de inovações técnico-científicas, promovendo seletividade espacial da modernização, o que gerou impactos nos mosaicos produtivos tradicionais.",
+        "b": "Os enclaves de modernização regional promoveram a difusão de uma produção diversificada setorialmente, o que garantiu o espraiamento das inovações técnico-científicas para as demais localidades da região.",
+        "c": "A especialização produtiva regional permitiu a cooperação das inovações técnico-científicas com os mosaicos produtivos tradicionais, o que restringiu maior conectividade espacial entre os estados limítrofes.",
+        "d": "Os enclaves de modernização regional viabilizaram a dilatação das inovações técnico-científicas para setores produtivos não especializados, o que acarretou a eliminação da seletividade espacial produzida pela especialização."
+      },
+      "resposta": "a",
+      "explicacao": "As três zonas do agronegócio baiano são enclaves modernos que empregam tecnologia de ponta de forma seletiva no espaço, coexistindo com — e impactando — os mosaicos produtivos tradicionais da região, sem difundir a modernização para todo o entorno, como sugerem as demais alternativas.",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "geografia-170",
+      "enunciado": "A segunda edição do estudo Gestão do Território, elaborado pelo Instituto Brasileiro de Geografia e Estatística (IBGE) em 2024, mostra, no universo dos 5.570 municípios do país, quais são os Centros de Gestão, isto é, os núcleos responsáveis pelo papel de comando na rede urbana brasileira. Em 2024, apenas 39,1% dos municípios do Brasil se qualificavam como Centros de Gestão do Território (2.176 municípios).\n\nUm indicador de centralidade na gestão do território é o número de assalariados externos ao Município da sede da empresa.\n\nO gráfico \"Assalariados externos ao Município\" (fonte: IBGE, Cadastro Central de Empresas: 2012/2021) apresenta, para dez cidades, o número de assalariados externos em 2012 e em 2021:\n\n- São Paulo (SP): 2012 = 1.581.348; 2021 = 1.855.722\n- Rio de Janeiro (RJ): 2012 = 594.662; 2021 = 486.696\n- Brasília (DF): 2012 = 399.595; 2021 = 315.047\n- Belo Horizonte (MG): 2012 = 266.921; 2021 = 26.371\n- Barueri (SP): 2012 = 163.989; 2021 = 197.356\n- Fortaleza (CE): 2012 = 92.701; 2021 = 118.860\n- Porto Alegre (RS): 2012 = 134.302; 2021 = 117.568\n- Osasco (SP): 2012 = 128.754; 2021 = 108.566\n- Itajaí (SC): 2012 = 57.408; 2021 = 103.241\n- Curitiba (PR): 2012 = 97.246; 2021 = 99.072\n\nCom base no gráfico anterior, e em seus conhecimentos sobre a rede urbana brasileira, é correto afirmar que",
+      "alternativas": {
+        "a": "Rio de Janeiro, capital, amplia sua centralidade como centro de gestão empresarial do território nacional, conservando sua histórica função industrial e de administração pública.",
+        "b": "Barueri apresenta tendência de crescimento do assalariado externo, contribuindo para manter a Região Metropolitana de São Paulo no topo da hierarquia urbana.",
+        "c": "Brasília apresenta tendência de queda de seus assalariados externos, demonstrando a dificuldade da capital do país para permanecer como centro de gestão pública do território na atualidade.",
+        "d": "Itajaí apresenta destaque por sua função industrial, perdendo força na centralidade da gestão empresarial do território por ser uma cidade de médio porte na Região Metropolitana da Foz do Rio Itajaí."
+      },
+      "resposta": "b",
+      "explicacao": "Os dados mostram que Barueri passou de 163.989 para 197.356 assalariados externos entre 2012 e 2021, crescimento que reforça sua posição como polo de gestão empresarial dentro da Região Metropolitana de São Paulo, mantendo a capital paulista no topo da hierarquia urbana nacional.",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "geografia-171",
+      "enunciado": "O mapa (fonte: portalgeo.seade.gov.br, portal geográfico da Fundação Sistema Estadual de Análise de Dados — SEADE, órgão público do governo do Estado de São Paulo) mostra a região de influência da Grande Metrópole Nacional, São Paulo, no ano de 2018, representada por uma rede de conexões (pontos e linhas irradiando do centro metropolitano para cidades do interior paulista e de estados vizinhos, com tamanhos de símbolo proporcionais à intensidade da relação).\n\nContribui para a espacialização da rede e da hierarquia urbana demonstradas no mapa",
+      "alternativas": {
+        "a": "o desenvolvimento dos sistemas de transporte e de comunicação.",
+        "b": "a ausência de acidentes geográficos e de barreiras orográficas.",
+        "c": "o declínio das atividades locais nos setores primário e secundário da economia.",
+        "d": "a implantação de um modelo urbano pautado em megacidades e megalópoles.",
+        "e": "a desregulamentação político-administrativa dos estados e dos municípios."
+      },
+      "resposta": "a",
+      "explicacao": "A hierarquia e a rede urbana representadas no mapa dependem diretamente da infraestrutura de transportes e de comunicação, que viabiliza os fluxos de pessoas, mercadorias, capital e informações entre São Paulo e as cidades de sua área de influência.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "geografia-172",
+      "enunciado": "Em novembro de 2024, o Brasil alcançou um marco significativo na geração de energia eólica. No dia 3 de novembro, às 23h, foi registrado um recorde de \"geração média horária\", atingindo 23.699 megawatts médios (MWmed). Esses resultados destacam o avanço da energia eólica como fonte essencial para a matriz energética do país, indicador do papel crucial dessa tecnologia no fornecimento de energia. (Fonte: www.gov.br, portal oficial do governo federal.)\n\nAs turbinas eólicas aproveitam uma fonte de energia",
+      "alternativas": {
+        "a": "renovável, embora provoquem impactos sonoros para as comunidades próximas ao parque eólico.",
+        "b": "não renovável, prejudicando o voo de morcegos e afetando a rota de aves migratórias.",
+        "c": "não renovável, alterando o microclima da região em que são instaladas.",
+        "d": "renovável, embora causem poluição do ar e afetem a camada de ozônio.",
+        "e": "renovável, embora intensifiquem o aquecimento global e agravem as mudanças climáticas."
+      },
+      "resposta": "a",
+      "explicacao": "A energia eólica é renovável, pois depende do vento, fonte inesgotável em escala humana; seu principal impacto ambiental local é a poluição sonora das turbinas para as comunidades próximas, e não emissões atmosféricas ou danos à camada de ozônio.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "geografia-173",
+      "enunciado": "O Programa das Nações Unidas para os Assentamentos Humanos (ONU-Habitat) apresentou o Relatório Mundial das Cidades, que alerta que mais de 2 bilhões de pessoas podem enfrentar um aumento adicional de pelo menos 0,5 ºC na temperatura até 2040. O documento revela também que alguns esforços para combater as mudanças climáticas nas áreas urbanas pioraram as condições para comunidades vulneráveis. Iniciativas como a criação de parques deslocam famílias de baixa renda ou aumentam os valores imobiliários, sendo necessário aos agentes produtores do espaço urbano propor soluções climáticas mais justas e inclusivas. Com base no excerto, o processo de transformação no espaço urbano relacionado com os efeitos das mudanças climáticas denomina-se",
+      "alternativas": {
+        "a": "gentrificação verde.",
+        "b": "verticalização sustentável.",
+        "c": "espoliação conservacionista.",
+        "d": "metropolização preservacionista.",
+        "e": "conurbação socioambiental."
+      },
+      "resposta": "a",
+      "explicacao": "A criação de áreas verdes urbanas que valoriza os imóveis do entorno e acaba expulsando moradores de baixa renda é o fenômeno conhecido como gentrificação verde, no qual soluções ambientais aprofundam desigualdades socioespaciais.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "geografia-174",
+      "enunciado": "Um mapa-múndi (fonte: pt.atlasbig.com, site de referência estatística/cartográfica) destaca, em laranja, os países produtores de determinada commodity em 2021 — os países destacados incluem grandes produtores da América do Sul (como Brasil), África Ocidental, e Sudeste Asiático (como Indonésia). A commodity produzida pelos países destacados nesse mapa-múndi é",
+      "alternativas": {
+        "a": "o cacau.",
+        "b": "o café.",
+        "c": "a soja.",
+        "d": "o trigo.",
+        "e": "a seda."
+      },
+      "resposta": "b",
+      "explicacao": "Brasil, países da África Ocidental e Indonésia estão entre os maiores produtores mundiais de café, o que identifica a commodity destacada no mapa.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "geografia-175",
+      "enunciado": "A projeção de Robinson é uma projeção cartográfica criada por Arthur H. Robinson em 1963, com o objetivo de produzir uma representação visualmente equilibrada do globo terrestre. Ela não é conforme nem equivalente, o que significa que não preserva perfeitamente ângulos ou áreas, mas busca minimizar as distorções em ambos os aspectos. Os paralelos aparecem como linhas retas e os meridianos como arcos suavemente curvados, criando uma forma elíptica que aproxima a aparência da Terra. A projeção que o excerto descreve é do tipo",
+      "alternativas": {
+        "a": "cilíndrica oblíqua.",
+        "b": "azimutal polar.",
+        "c": "pseudocilíndrica afilática.",
+        "d": "equidistante equatorial.",
+        "e": "cônica tangencial."
+      },
+      "resposta": "c",
+      "explicacao": "Com meridianos curvos e paralelos retos, e sem preservar fielmente nem ângulos (conforme) nem áreas (equivalente), a projeção de Robinson é classificada como pseudocilíndrica afilática — uma projeção de compromisso que busca equilíbrio visual em vez de fidelidade métrica.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "geografia-176",
+      "enunciado": "Um grupo de pesquisadores está mapeando a extensão de um importante cabo de fibra óptica submarino que conecta a cidade de Fortaleza, no Brasil, à cidade de Lisboa, em Portugal, visando melhorar a conectividade transatlântica. A distância real aproximada desse traçado é de 4000 km. Ao plotar esse projeto em um mapa técnico para uma apresentação, o cartógrafo representou essa distância em linha reta com um traço de 20 cm. Considerando essas informações, a escala desse mapa técnico é",
+      "alternativas": {
+        "a": "1:800000.",
+        "b": "1:1250000.",
+        "c": "1:80000000.",
+        "d": "1:2000000.",
+        "e": "1:20000000."
+      },
+      "resposta": "e",
+      "explicacao": "A escala é a razão entre a distância no mapa e a distância real na mesma unidade: 4.000 km equivalem a 400.000.000 cm; dividindo essa distância real por 20 cm no mapa, obtemos a escala 1:20.000.000.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "geografia-177",
+      "enunciado": "*Descrição da imagem: um selo/logotipo retangular verde e branco, com o texto \"PRODUZIDO NO POLO INDUSTRIAL DE MANAUS\" e, abaixo, \"CONHEÇA A AMAZÔNIA\", com um ícone estilizado de folhas — um selo oficial de identificação de produto, publicado no site do governo federal (www.gov.br).*\n\nUma justificativa para a criação do polo citado na imagem em meados do século XX e uma característica que o define são, respectivamente,",
+      "alternativas": {
+        "a": "a redução das desigualdades regionais e a oferta de incentivos fiscais às indústrias instaladas no local.",
+        "b": "o potencial mercado consumidor da região Norte e a isenção de impostos para indústrias que migram para a Amazônia ocidental.",
+        "c": "o reforço das fronteiras meridionais do território brasileiro e o acesso a verbas públicas para investimentos na produção industrial.",
+        "d": "a desconcentração industrial para além do eixo Rio-São Paulo e a oferta de subsídios para a apropriação de terras devolutas.",
+        "e": "o desenvolvimento socioeconômico da Amazônia oriental e a concessão de bens primários gratuitos aos produtores locais."
+      },
+      "resposta": "a",
+      "explicacao": "A Zona Franca de Manaus foi criada em 1967 como política de redução das desigualdades regionais, oferecendo incentivos fiscais às indústrias que se instalassem na região para atrair investimentos e desenvolvimento à Amazônia.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "geografia-178",
+      "enunciado": "A tecnologia espacial está profundamente integrada ao cotidiano e às atividades econômicas, dominando sistemas de informação, comunicação e geolocalização. Torna-se, portanto, um setor estratégico para o desenvolvimento socioeconômico nacional e, nesse sentido, a localização geográfica da base de Alcântara, no estado do Maranhão, é frequentemente citada como privilegiada, o que pode significar uma economia de cerca de 30% de combustível no lançamento de foguetes.\n\nA base de Alcântara apresenta vantagem locacional por estar situada em",
+      "alternativas": {
+        "a": "média latitude, que amplia a pressão atmosférica capaz de impulsionar as aeronaves lançadas.",
+        "b": "baixa latitude, que garante maior velocidade linear aos lançamentos.",
+        "c": "elevada latitude, que proporciona menor pressão atmosférica aos lançamentos.",
+        "d": "baixa latitude, que oferece maior velocidade angular às aeronaves lançadas.",
+        "e": "elevada latitude, que reduz a resistência do ar para as aeronaves lançadas."
+      },
+      "resposta": "b",
+      "explicacao": "Por estar próxima ao Equador, a base de Alcântara já possui, devido à rotação da Terra, uma velocidade linear tangencial maior do que localidades de latitude mais elevada, o que permite economizar combustível no lançamento de foguetes.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "geografia-179",
+      "enunciado": "A China particulariza-se no cenário internacional por seu sistema econômico híbrido, inaugurado na década de 1970. Conhecido como \"socialismo de mercado\", esse sistema apresenta características que",
+      "alternativas": {
+        "a": "corrompem o capitalismo com táticas socialistas, ou seja, que oferecem mercadorias subsidiadas para desestabilizar as economias capitalistas pelo mundo.",
+        "b": "associam os modos de produção socialista e capitalista, ou seja, que atendem aos interesses tanto de uma economia planificada quanto de uma economia de mercado.",
+        "c": "incorporam lógicas capitalistas à organização política socialista, ou seja, que empregam análises de demanda do mercado para definir investimentos públicos.",
+        "d": "se opõem às estratégias monetarizadas do capitalismo, ou seja, que valorizam modelos como a economia criativa para gerar valor de maneira equitativa.",
+        "e": "se sobrepõem às regras do comércio internacional, ou seja, que violam normas e regras estabelecidas para garantir o fim de crises econômicas mundiais."
+      },
+      "resposta": "b",
+      "explicacao": "O \"socialismo de mercado\" chinês combina o controle político e o planejamento estatal típicos do socialismo com mecanismos de mercado e abertura ao capital privado e estrangeiro, característicos do capitalismo — daí a hibridização do sistema.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "geografia-180",
+      "enunciado": "Durante uma aula, o professor de Geografia apresentou a seus alunos a seguinte imagem, que retrata a arte do macramê, uma técnica de tecelagem manual com uso de barbante para a confecção e integração de um conjunto de nós.\n\n*Descrição da imagem: uma fotografia simples de um trabalho de macramê — um padrão de nós de barbante formando uma malha, usado apenas como analogia visual para o conceito de rede urbana (nós = cidades, fios = conexões).*\n\nA imagem apresentada pelo professor é um recurso didático para explicar, por meio de analogia, o conceito de",
+      "alternativas": {
+        "a": "densidade demográfica, em que os nós representam os limites municipais e os fios representam os cidadãos dos municípios.",
+        "b": "gentrificação, em que os nós representam os espaços de moradia e os fios representam os eixos de circulação entre os espaços urbanos.",
+        "c": "hierarquia urbana, em que os nós representam os municípios e os fios representam graus diferentes de relevância entre as cidades.",
+        "d": "verticalização, em que os nós representam os prédios construídos em áreas centrais e os fios representam os espaços públicos de lazer.",
+        "e": "rede urbana, em que os nós representam as cidades e os fios representam a conexão pelo sistema de transporte."
+      },
+      "resposta": "e",
+      "explicacao": "Na analogia do macramê, os nós representam as cidades e os fios representam as conexões (de transporte, econômicas, de comunicação) entre elas, ilustrando o conceito de rede urbana.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "geografia-181",
+      "enunciado": "Na atividade extrativista mineral, informações sobre a geologia de uma região são estratégicas para a",
+      "alternativas": {
+        "a": "inserção de um país em acordos de livre-comércio, redefinindo a posição deste na divisão internacional do trabalho.",
+        "b": "decisão de investimento em um projeto minerador, considerando a possibilidade de existirem ali recursos minerais de importância econômica.",
+        "c": "avaliação de custos operacionais às organizações trabalhistas, normativamente responsáveis pela aquisição de instrumentos de proteção aos trabalhadores.",
+        "d": "análise de riscos ambientais em empreendimentos mineradores, atendendo às regras internacionais de impacto ambiental zero nesse setor.",
+        "e": "emissão de certidões de doação de terrenos, em cumprimento à lei que confere primazia à função social da propriedade."
+      },
+      "resposta": "b",
+      "explicacao": "Informações geológicas indicam a probabilidade de existirem depósitos minerais economicamente viáveis em uma área, sendo, portanto, estratégicas para orientar a decisão de investir ou não em um projeto de mineração.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "geografia-182",
+      "enunciado": "Texto 1: Esta massa de ar tem papel fundamental no transporte de umidade para outras regiões do país, em razão do forte processo de evapotranspiração da floresta. Além de úmida, é considerada quente, muito devido à região de origem.\n\nTexto 2: Origina-se na árida depressão do Chaco, entre Paraguai, Bolívia e Argentina. Por essa característica, esta massa de ar é seca. Quando ocorre no inverno, ela impede a chegada de massas de ar frio, causando uma elevação da temperatura, o chamado veranico.\n\nAs definições apresentadas nos textos 1 e 2 correspondem, respectivamente, às massas de ar",
+      "alternativas": {
+        "a": "equatorial continental e tropical continental.",
+        "b": "tropical atlântica e equatorial atlântica.",
+        "c": "equatorial continental e tropical atlântica.",
+        "d": "tropical atlântica e equatorial continental.",
+        "e": "equatorial atlântica e tropical continental."
+      },
+      "resposta": "a",
+      "explicacao": "A massa úmida e quente originada na floresta amazônica, que transporta umidade via evapotranspiração, é a massa Equatorial Continental; a massa seca originada na árida depressão do Chaco, responsável pelo veranico no inverno, é a massa Tropical Continental.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "geografia-183",
+      "enunciado": "A Argentina é um dos países que não tem isenção de taxa alfandegária, mesmo para importações de pequeno valor. De acordo com informações do governo argentino, produtos importados para consumidores finais são tributados pelo \"Imposto para uma Argentina Inclusiva e Solidária\" (PAIS), que é de 30% sobre o valor da mercadoria importada e é usado para financiar políticas sociais e econômicas.\n\nEssa prática fiscal argentina tem como intuito",
+      "alternativas": {
+        "a": "estimular a competitividade no exterior.",
+        "b": "impulsionar o crescimento do mercado externo.",
+        "c": "inutilizar a tarifa externa comum.",
+        "d": "estabelecer uma estratégia protecionista.",
+        "e": "ampliar o acesso às mercadorias estrangeiras."
+      },
+      "resposta": "d",
+      "explicacao": "Ao taxar fortemente as importações, mesmo as de pequeno valor, a Argentina busca proteger sua produção e indústria nacional da concorrência estrangeira, caracterizando uma estratégia protecionista, e não de estímulo ao comércio externo.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "geografia-184",
+      "enunciado": "Um mapa apresenta a região de passagem de migrantes sul-americanos que tentam chegar aos Estados Unidos, destacando a \"Região de Darién\" — uma área de selva densa na fronteira entre a Colômbia e o Panamá, atravessada pela rota migratória entre a Colômbia (Turbo) e a Cidade do Panamá (via Yaviza).\n\nConsiderando o mapa e conhecimentos sobre a região, uma característica natural dessa rota migratória é a",
+      "alternativas": {
+        "a": "reduzida atividade sísmica.",
+        "b": "influência do clima árido.",
+        "c": "existência de floresta densa.",
+        "d": "travessia da cordilheira dos Andes.",
+        "e": "predominância de rios intermitentes."
+      },
+      "resposta": "c",
+      "explicacao": "A Região de Darién, na fronteira Colômbia-Panamá, é coberta por floresta tropical densa, o que torna a travessia migratória extremamente perigosa — a área não é árida nem cruza a cordilheira dos Andes.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "geografia-185",
+      "enunciado": "Um gráfico de participação setorial no PIB em 2019 mostra: serviços 73,3% (dividido em comércio varejista 11,3%, administração pública 10,2%, atividades financeiras 7,2%, saúde 5,1%, educação 6,7%, entre outros), indústria 21,8% (dividida em três subsetores I, II e III, com 12,0%, 3,9% e 2,9% respectivamente, mais 2,1% de energia) e agropecuária 4,9% (agricultura 3,2%, pecuária 1,2%).\n\nConsiderando os setores da indústria, os números I, II e III presentes no gráfico correspondem, respectivamente, a",
+      "alternativas": {
+        "a": "indústria extrativa, indústria de bens intermediários e indústria de transformação.",
+        "b": "indústria de transformação, indústria de bens duráveis e indústria de capital.",
+        "c": "indústria de transformação, indústria de construção e indústria extrativa.",
+        "d": "indústria de construção, indústria de bens não-duráveis e indústria de bens intermediários.",
+        "e": "indústria de bens duráveis, indústria extrativa e indústria de construção."
+      },
+      "resposta": "c",
+      "explicacao": "Os três subsetores da indústria, em ordem decrescente de participação no PIB, correspondem à indústria de transformação (a mais representativa, 12,0%), à indústria da construção civil (3,9%) e à indústria extrativa mineral (2,9%).",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "geografia-186",
+      "enunciado": "Uma imagem ilustra métodos e práticas agroecológicas de produção: composto orgânico, biofertilizante líquido à base de composto orgânico, adubo verde (fixação de nitrogênio e carbono), manejo de ervas espontâneas, cobertura morta e fosfato natural, todos formando um ciclo que retroalimenta a produção de alimentos numa horta/pomar.\n\nOs métodos e práticas de produção apresentados na imagem envolvem",
+      "alternativas": {
+        "a": "a aplicação de fertilizantes químicos.",
+        "b": "a produção de um único produto.",
+        "c": "a progressiva mecanização do plantio.",
+        "d": "o uso de defensivos agrícolas.",
+        "e": "o manejo equilibrado do solo."
+      },
+      "resposta": "e",
+      "explicacao": "As práticas descritas — compostagem, biofertilizante, adubação verde, cobertura morta — são técnicas agroecológicas que promovem o manejo equilibrado e sustentável do solo, em contraposição ao uso de insumos químicos e defensivos agrícolas.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "geografia-187",
+      "enunciado": "Três imagens sequenciais demonstram um processo de erosão do solo: (1) a água da chuva penetra em solos porosos e acumula-se sobre solos permeáveis, formando um túnel de fluxo subsuperficial; (2) o acúmulo de água satura o solo, aprofundando e alargando a vala num \"túnel erosivo\"; (3) colapso do terreno.\n\nAs imagens demonstram",
+      "alternativas": {
+        "a": "a formação de voçoroca.",
+        "b": "os efeitos da impermeabilização do solo.",
+        "c": "a retração do assoreamento.",
+        "d": "a diminuição do intemperismo.",
+        "e": "o surgimento de um aquífero."
+      },
+      "resposta": "a",
+      "explicacao": "O processo descrito — infiltração de água, formação de túnel subsuperficial, alargamento e colapso do terreno — é o mecanismo clássico de formação de uma voçoroca, uma erosão profunda causada pelo escoamento concentrado de água no solo.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "geografia-188",
+      "enunciado": "Uma ilustração representa a dinâmica de um elemento do clima: setas indicam ventos convergindo em direção à linha do Equador a partir das faixas de 30ºN e 30ºS (os ventos alísios).\n\nO movimento desse elemento climático ocorre",
+      "alternativas": {
+        "a": "de zonas de baixa salinidade para zonas de alta salinidade.",
+        "b": "de zonas de alta pressão para zonas de baixa pressão.",
+        "c": "de zonas de alta umidade para zonas de baixa umidade.",
+        "d": "de zonas de alta radiação para zonas de baixa radiação.",
+        "e": "de zonas de baixa latitude para zonas de alta latitude."
+      },
+      "resposta": "b",
+      "explicacao": "Os ventos alísios sopram das zonas de alta pressão subtropical (por volta de 30°N e 30°S) em direção à zona de baixa pressão equatorial, movimento típico da circulação geral da atmosfera, sempre de alta para baixa pressão.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "geografia-189",
+      "enunciado": "Artigo 2º do Acordo de Paris: \"[...] seu objetivo visa fortalecer a resposta global à ameaça da mudança do clima, no contexto do desenvolvimento sustentável e dos esforços de erradicação da pobreza, incluindo: (a) manter o aumento da temperatura média global bem abaixo de 2 ºC em relação aos níveis pré-industriais, e envidar esforços para limitar esse aumento da temperatura a 1,5 ºC em relação aos níveis pré-industriais [...]\"\n\nO excerto faz referência",
+      "alternativas": {
+        "a": "à Conferência de Estocolmo.",
+        "b": "ao Tratado do Alto Mar.",
+        "c": "à ECO-92.",
+        "d": "ao Acordo de Paris.",
+        "e": "ao Protocolo de Kyoto."
+      },
+      "resposta": "d",
+      "explicacao": "O próprio enunciado cita o \"Artigo 2º do Acordo de Paris\", tratado internacional de 2015 que estabelece a meta de limitar o aquecimento global a bem abaixo de 2°C, com esforços para não ultrapassar 1,5°C.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "geografia-190",
+      "enunciado": "O conflito armado na Ucrânia tem causado impactos ambientais significativos, deixando também um rastro de contaminação no solo e nas águas. Uma pesquisadora do Instituto Sokolovskyi de Ciência do Solo e Agroquímica da Academia Nacional de Ciências da Ucrânia relata que amostras de solo da região leste da Ucrânia já mostraram concentrações elevadas de metais pesados.\n\nConsiderando o excerto, uma das possíveis consequências da contaminação do solo e das águas na Ucrânia é",
+      "alternativas": {
+        "a": "a formação de ravinas e voçorocas.",
+        "b": "o crescimento de ilhas de calor.",
+        "c": "a intensa lixiviação do solo.",
+        "d": "a absorção de mercúrio pelas plantas.",
+        "e": "o aumento da emissão de dióxido de carbono."
+      },
+      "resposta": "d",
+      "explicacao": "Solos e águas contaminados por metais pesados liberados em conflitos armados (como o mercúrio de munições e equipamentos bélicos) podem ter esses elementos absorvidos pelas raízes das plantas, contaminando a cadeia alimentar.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "geografia-191",
+      "enunciado": "Analise as duas definições de um dicionário técnico de cartografia: Definição 1: \"Distância linear ou angular medida ao norte ou ao sul do Equador, numa esfera elipsoide.\" Definição 2: \"Representação cartográfica, geralmente em escala grande, destinada a fornecer informações muito detalhadas, visando, por exemplo, ao cadastro urbano, a certos fins econômico-sociais, militares etc.\"\n\nAs definições 1 e 2 referem-se, respectivamente,",
+      "alternativas": {
+        "a": "a linha imaginária e a mapa temático.",
+        "b": "a trópico de Câncer e a imagem de satélite.",
+        "c": "a longitude e a carta topográfica.",
+        "d": "a coordenadas geográficas e a mapa.",
+        "e": "a latitude e a planta."
+      },
+      "resposta": "e",
+      "explicacao": "A Definição 1 descreve a latitude (distância angular medida ao norte ou ao sul do Equador) e a Definição 2 descreve a planta, um tipo de representação cartográfica em escala grande e alto nível de detalhe, usada para fins de cadastro urbano.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "geografia-192",
+      "enunciado": "Analise o mapa que destaca o Estreito de Ormuz, canal marítimo de apenas 39 km de largura, situado entre o Irã (ao norte) e os Emirados Árabes Unidos (ao sul), ligando o Golfo Pérsico ao Oceano Índico, com rotas marítimas de petroleiros passando pelo canal.\n\nO Estreito de Ormuz é um ponto estratégico para a geopolítica e para a economia mundial devido",
+      "alternativas": {
+        "a": "ao controle do canal ter sido concedido por um tratado internacional ao Irã.",
+        "b": "à ausência de rotas alternativas ao canal com grande capacidade para o escoamento de petróleo.",
+        "c": "à importância histórica do canal como centro do comércio de especiarias.",
+        "d": "aos projetos de dessalinização das águas do canal financiados pelos Estados Unidos.",
+        "e": "à presença de bases militares de várias potências mundiais no canal."
+      },
+      "resposta": "b",
+      "explicacao": "O Estreito de Ormuz é estratégico porque concentra grande parte do escoamento marítimo de petróleo do Golfo Pérsico, sem alternativas de rota com capacidade equivalente para transportar esse volume.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "geografia-193",
+      "enunciado": "A Bolívia foi oficialmente integrada ao Mercosul no dia 07 de dezembro de 2023, durante reunião do bloco no Rio de Janeiro. A decisão ainda precisa passar por aprovação no Congresso boliviano. O país andino tem quatro anos para concluir o processo e adotar as normas do bloco. Com a adesão, a Bolívia torna-se o quinto membro efetivo do grupo econômico de integração regional, que conta com Brasil, Argentina, Paraguai e Uruguai.\n\nConsiderando o excerto, a Bolívia deverá aderir à seguinte norma do bloco:",
+      "alternativas": {
+        "a": "adoção da Tarifa Externa Comum.",
+        "b": "adesão ao banco central unificado.",
+        "c": "substituição da sua moeda nacional.",
+        "d": "padronização das leis trabalhistas.",
+        "e": "ampliação de subsídios agrícolas."
+      },
+      "resposta": "a",
+      "explicacao": "Como membro efetivo do Mercosul, a Bolívia deverá adotar a Tarifa Externa Comum (TEC), instrumento que padroniza as tarifas de importação dos países-membros em relação a terceiros países; o bloco não prevê moeda única nem banco central unificado.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "geografia-194",
+      "enunciado": "O IBGE divulgou no dia 14 de junho de 2024 a versão completa do Cadastro Nacional de Endereços para Fins Estatísticos (CNEFE), que traz microdados com os principais atributos dos 106 814 877 endereços do país. Uma análise dos diversos atributos do CNEFE permite saber que o país tem 24,4 milhões de endereços sem número (ou 22,8% do total de endereços) e a maior parte deles está em Goiás (2,46 milhões).\n\nA ausência de numeração nos endereços, como a mencionada no excerto, sinaliza",
+      "alternativas": {
+        "a": "a redução do índice de Gini nacionalmente.",
+        "b": "a diminuição do adensamento de domicílios precários.",
+        "c": "o crescimento da infraestrutura de serviços essenciais.",
+        "d": "a vulnerabilidade no âmbito habitacional.",
+        "e": "o superávit habitacional no país."
+      },
+      "resposta": "d",
+      "explicacao": "A ausência de numeração formal nos endereços é um indicador de urbanização precária e informal, associada a áreas de maior vulnerabilidade socioeconômica e habitacional.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "geografia-195",
+      "enunciado": "Um gráfico mostra a evolução das vendas (em mil unidades) internas de tratores de roda e colheitadeiras de grãos no Brasil, entre 1960 e 2017, com a curva de tratores oscilando entre cerca de 5 e 65 mil unidades/ano, subindo fortemente entre 1968 e 1975 até um primeiro grande pico, e a curva de colheitadeiras se mantendo baixa e estável (abaixo de 15 mil) no mesmo período.\n\nA análise do gráfico revela que o crescimento nas vendas de tratores e colheitadeiras na década de 1970 está relacionado com",
+      "alternativas": {
+        "a": "a revogação do crédito agrícola, que aqueceu o mercado externo.",
+        "b": "a diminuição das vagas de emprego, que desencadeou o desemprego conjuntural.",
+        "c": "o processo de desconcentração fundiária, que aumentou a oferta de terras.",
+        "d": "a expansão da Revolução Verde, que estimulou a mecanização.",
+        "e": "o aumento das importações de produtos agropecuárias, que promoveu o acesso à tecnologia."
+      },
+      "resposta": "d",
+      "explicacao": "O crescimento das vendas de tratores e colheitadeiras entre o final dos anos 1960 e o início dos anos 1970 está diretamente ligado à difusão da Revolução Verde no Brasil, que estimulou a modernização e a mecanização da agricultura.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "geografia-196",
+      "enunciado": "Duas imagens esquemáticas apresentam a evolução do sistema petrolífero: a primeira mostra a deposição de matéria orgânica (plantas terrestres, fitoplâncton, zooplâncton, algas) em ambiente óxico/anóxico sobre a rocha geradora em potencial; a segunda mostra o soterramento, calor e migração de óleo e gás da rocha geradora, através de uma trapa, sob uma camada selante (selo), com sobrecarga acima.\n\nAs imagens indicam que a formação de petróleo",
+      "alternativas": {
+        "a": "depende de terreno pré-cambriano.",
+        "b": "depende da concentração de rochas magmáticas.",
+        "c": "associa-se à formação de bacias sedimentares.",
+        "d": "associa-se à formação dos escudos cristalinos.",
+        "e": "envolve recente e intensa atividade tectônica."
+      },
+      "resposta": "c",
+      "explicacao": "A formação de petróleo depende do acúmulo de matéria orgânica em ambientes de deposição sedimentar (rocha geradora), soterramento e migração através de rochas porosas até uma trapa — processo característico de bacias sedimentares, e não de terrenos cristalinos ou magmáticos.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "geografia-197",
+      "enunciado": "Uma imagem ilustra o ciclo da água na presença de Florestas Tropicais: vento carregado de umidade sopra do oceano em direção ao continente, atravessa a floresta formando nuvens e chuva através da evapotranspiração das árvores, e o vento (agora mais seco) segue adiante.\n\nConsiderando a ilustração, um dos efeitos gerados pelo desmatamento das Florestas Tropicais é a",
+      "alternativas": {
+        "a": "redução da disponibilidade de água.",
+        "b": "ampliação dos rios voadores.",
+        "c": "evapotranspiração intensificada.",
+        "d": "diminuição das temperaturas médias.",
+        "e": "intensificação das chuvas convectivas."
+      },
+      "resposta": "a",
+      "explicacao": "A floresta tropical funciona como uma \"bomba de umidade\" que gera chuva por evapotranspiração; seu desmatamento reduz esse processo e, consequentemente, diminui a disponibilidade de água na região e em áreas distantes que dependem dos rios voadores.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "geografia-198",
+      "enunciado": "No dia 31 de julho de 2024, a seleção estadunidense de futebol feminino jogou contra a Austrália nas Olimpíadas de Paris. Sabendo que o jogo teve início às 14h no horário de Brasília, a hora do início da partida na Califórnia (GMT –7) e em Sydney (GMT +10) foram, respectivamente,",
+      "alternativas": {
+        "a": "às 9h, do mesmo dia, e às 2h do dia seguinte.",
+        "b": "às 10h, do mesmo dia, e às 3h do dia seguinte.",
+        "c": "às 7h, do mesmo dia, e às 00h do dia seguinte.",
+        "d": "às 7h e às 23h do mesmo dia.",
+        "e": "às 9h e às 2h do mesmo dia."
+      },
+      "resposta": "b",
+      "explicacao": "Brasília está em GMT-3: a Califórnia (GMT-7) está 4 horas atrás, então 14h - 4h = 10h do mesmo dia; Sydney (GMT+10) está 13 horas à frente, então 14h + 13h = 27h = 3h do dia seguinte.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "geografia-199",
+      "enunciado": "O novo mapa-múndi oficial do IBGE, lançado no início de 2024, adota uma projeção cartográfica que preserva melhor as proporções reais de área dos continentes (ao contrário da projeção de Mercator tradicional, que aumenta a área aparente de países próximos aos polos, como os da Europa e América do Norte, em relação a países equatoriais, como os da África e América do Sul).\n\nEssa nova representação cartográfica",
+      "alternativas": {
+        "a": "ajusta corretamente o centro da superfície terrestre.",
+        "b": "contesta a utilização das coordenadas geográficas.",
+        "c": "questiona a perspectiva eurocêntrica de Mercator.",
+        "d": "corrige as distorções presentes em outras projeções.",
+        "e": "descarta o uso da padronização dos elementos cartográficos."
+      },
+      "resposta": "c",
+      "explicacao": "Ao adotar uma projeção que preserva melhor as proporções reais de área, o novo mapa-múndi do IBGE contesta a distorção da projeção de Mercator, que amplia visualmente países de latitudes altas em detrimento dos países equatoriais — uma crítica à tradicional visão eurocêntrica da cartografia.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "geografia-200",
+      "enunciado": "A cartografia social permite às comunidades desenharem, com a ajuda de profissionais, mapas dos territórios que ocupam. Esse tipo de mapeamento social geralmente envolve populações tradicionais e é um instrumento utilizado para fazer valer o registro de suas tradições, a defesa de seus territórios e a promoção de seus direitos.\n\nUma das funções da cartografia social corresponde à",
+      "alternativas": {
+        "a": "substituição de processos jurídicos por conciliações territoriais.",
+        "b": "tradução do conhecimento ancestral em um instrumento de luta política.",
+        "c": "criação de planos de gestão externos sem a anuência do Estado.",
+        "d": "observação de erros técnicos nos mapas oficiais da região mapeada.",
+        "e": "delimitação de áreas voltadas para o arrendamento de terras."
+      },
+      "resposta": "b",
+      "explicacao": "A cartografia social converte o conhecimento tradicional das comunidades sobre seu território em um mapa formal, que serve como instrumento de reivindicação política e de defesa de direitos territoriais.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "geografia-201",
+      "enunciado": "Analise o mapa que destaca o Estreito de Ormuz, canal marítimo de apenas 39 km de largura, situado entre o Irã (ao norte) e os Emirados Árabes Unidos (ao sul), ligando o Golfo Pérsico ao Oceano Índico, com rotas marítimas de petroleiros passando pelo canal.\n\nO Estreito de Ormuz é um ponto estratégico para a geopolítica e para a economia mundial devido",
+      "alternativas": {
+        "a": "ao controle do canal ter sido concedido por um tratado internacional ao Irã.",
+        "b": "à ausência de rotas alternativas ao canal com grande capacidade para o escoamento de petróleo.",
+        "c": "à importância histórica do canal como centro do comércio de especiarias.",
+        "d": "aos projetos de dessalinização das águas do canal financiados pelos Estados Unidos.",
+        "e": "à presença de bases militares de várias potências mundiais no canal."
+      },
+      "resposta": "b",
+      "explicacao": "O Estreito de Ormuz é estratégico porque concentra grande parte do escoamento marítimo de petróleo do Golfo Pérsico, sem alternativas de rota com capacidade equivalente para transportar esse volume.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "geografia-202",
+      "enunciado": "O El Niño é caracterizado pelo aquecimento anormal e persistente da superfície do Oceano Pacífico na região da Linha do Equador, podendo se estender desde a costa da América do Sul até o meio do Pacífico Equatorial. No fenômeno, as águas ficam, pelo menos, 0,5 ºC acima da média por um longo período de tempo de, no mínimo, seis meses. Vale lembrar que o El Niño não tem um período de duração definido, podendo persistir até dois anos ou mais.\n\nA formação do fenômeno El Niño está relacionada com",
+      "alternativas": {
+        "a": "o fortalecimento das monções de verão.",
+        "b": "a intensificação da ressurgência.",
+        "c": "o enfraquecimento dos ventos alísios.",
+        "d": "a diminuição das brisas marítimas.",
+        "e": "a ativação da área da anticiclonal."
+      },
+      "resposta": "c",
+      "explicacao": "O El Niño está associado ao enfraquecimento dos ventos alísios, que normalmente empurram as águas quentes superficiais do Pacífico em direção à Ásia; com os alísios mais fracos, essas águas quentes se acumulam e se espalham em direção à costa da América do Sul.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "geografia-203",
+      "enunciado": "Mais de 60 líderes de países dos cinco continentes estiveram em Nice, cidade portuária no sul da França, para a 3ª Conferência das Nações Unidas sobre os Oceanos. Na cúpula, realizada entre os dias 09 a 13 de junho de 2025, mais 19 países ratificaram o Tratado de Proteção da Biodiversidade Marinha em Áreas além da Jurisdição Nacional (Tratado do Alto Mar), elevando o total para 51 partes (50 países mais a UE). Com isso, o acordo está mais perto que nunca de alcançar o limite de 60 adesões, que é necessário para que ele entre em vigor, permitindo o estabelecimento de áreas protegidas em alto mar.\n\nSão objetivos do Tratado do Alto Mar",
+      "alternativas": {
+        "a": "a aplicação de taxas para exploração oceânica e o combate à poluição marinha.",
+        "b": "a licença para a mineração em águas profundas e a divisão equitativa dos recursos.",
+        "c": "a descarbonização do transporte marítimo e a cooperação internacional.",
+        "d": "o patenteamento dos recursos genéticos e o financiamento de pesquisas.",
+        "e": "a regeneração de ecossistemas marinhos e a justa partilha de benefícios."
+      },
+      "resposta": "e",
+      "explicacao": "O Tratado do Alto Mar tem como objetivos a conservação e regeneração da biodiversidade marinha em águas internacionais e a repartição justa e equitativa dos benefícios decorrentes do uso de recursos genéticos marinhos, e não a exploração mineral ou o patenteamento de recursos.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "geografia-204",
+      "enunciado": "O estado do Rio de Janeiro registrou, em 2022, uma perda líquida de 165 360 habitantes para outras unidades da federação. Isso significa que, para cada 100 pessoas que chegaram ao estado, 203 o deixaram. A Região Sudeste como um todo passou por significativas mudanças populacionais. O estado de São Paulo, tradicional polo de atração do país, também registrou perda líquida de habitantes, embora continue recebendo grandes contingentes da Bahia, Minas Gerais e Paraná.\n\nO fenômeno migratório descrito no excerto é denominado",
+      "alternativas": {
+        "a": "migração circular.",
+        "b": "taxa de retração natural.",
+        "c": "saldo migratório negativo.",
+        "d": "êxodo urbano.",
+        "e": "transição demográfica."
+      },
+      "resposta": "c",
+      "explicacao": "Quando um estado perde mais habitantes para outras unidades da federação do que recebe, como no caso do Rio de Janeiro em 2022, configura-se um saldo migratório negativo.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "geografia-205",
+      "enunciado": "Um geossítio de importância geomorfológica e turística no estado de São Paulo é o Pico do Itapeva, de 2 025 metros de altura, na divisa entre Pindamonhangaba e Campos do Jordão. A montanha, na Serra da Mantiqueira, é formada por granitos e gnaisses muito antigos, pré-cambrianos, portanto, com mais de 550 milhões de anos.\n\nA estrutura geológica do Pico do Itapeva, localizado na Serra da Mantiqueira, corresponde a:",
+      "alternativas": {
+        "a": "bacia sedimentar.",
+        "b": "cuestas.",
+        "c": "dobramentos modernos.",
+        "d": "escudos cristalinos.",
+        "e": "tabuleiro costeiro."
+      },
+      "resposta": "d",
+      "explicacao": "Formações de granito e gnaisse com mais de 550 milhões de anos, como o Pico do Itapeva na Serra da Mantiqueira, correspondem a escudos cristalinos, estruturas geológicas antigas do embasamento pré-cambriano.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "geografia-206",
+      "enunciado": "O projeto da Petrobras para a Margem Equatorial, na Foz do Rio Amazonas, compreende uma extensão de 2 200 km ao longo da costa brasileira. Ele vai do extremo norte do Amapá ao litoral do Rio Grande do Norte, e prevê a perfuração de 16 poços exploratórios de petróleo.\n\nUm entrave relativo à viabilidade do projeto de exploração de petróleo na Margem Equatorial é",
+      "alternativas": {
+        "a": "o estudo de impacto ambiental, que considera as correntes marinhas da região relevantes para a prospecção.",
+        "b": "a pressão de países vizinhos, que temem um acidente ambiental capaz de afetar seus ecossistemas marinhos.",
+        "c": "a baixa qualidade do petróleo, que torna a exploração economicamente pouco rentável.",
+        "d": "a ausência de consenso entre as comunidades tradicionais, que se recusaram a participar das audiências públicas.",
+        "e": "o tamanho das reservas de petróleo, que são menores do que o estimado pela agência de exploração."
+      },
+      "resposta": "a",
+      "explicacao": "A viabilidade da exploração de petróleo na Margem Equatorial esbarra em estudos de impacto ambiental que avaliam os riscos ligados às correntes marinhas da foz do Amazonas, área de grande sensibilidade ecológica e de difícil resposta a eventuais vazamentos.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "geografia-207",
+      "enunciado": "Ao longo da estreita e recortada faixa costeira do litoral centro-meridional brasileiro, nos ambientes estuarinos, ricos em peixes, moluscos e crustáceos, viveram populações pescadoras e coletoras entre 8 mil anos atrás e o início da era cristã. Seus vestígios podem ser vistos em grandes montes feitos de areia, terra e conchas — os chamados sambaquis — onde são encontrados restos alimentares, ferramentas, armas, adornos e os sepultamentos dos que ali viveram. Esses montes, com alturas variáveis, têm alta visibilidade e se destacam na paisagem litorânea.\n\nA boa conservação dos sambaquis deve-se",
+      "alternativas": {
+        "a": "ao processo de sedimentação, que recristalizou os minerais da areia.",
+        "b": "à ação da lixiviação, que laterizou os hidróxidos de ferro da terra.",
+        "c": "à salinização do solo, que solidificou os depósitos de sal do mar.",
+        "d": "à ação da chuva, que precipitou carbonato de cálcio das conchas.",
+        "e": "ao processo de metamorfização, que solidificou os minerais das conchas."
+      },
+      "resposta": "d",
+      "explicacao": "A boa conservação dos sambaquis se deve à ação da água da chuva, que dissolve e reprecipita o carbonato de cálcio das conchas, cimentando o monte e conferindo-lhe maior resistência à erosão ao longo do tempo.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
     }
   ]
 }

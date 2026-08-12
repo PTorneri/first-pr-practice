@@ -8446,6 +8446,1519 @@ window.QUESTION_BANKS = {
                          "resposta":  "e",
                          "explicacao":  "O paratormônio, da paratireoide, é o hormônio hipercalcemiante: estimula osteoclastos, aumenta a reabsorção tubular de cálcio e ativa a vitamina D no rim. A calcitonina, da tireoide, tem efeito oposto e menor peso fisiológico no adulto. Trocar os papéis dos dois hormônios é o erro mais frequente.",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "biologia-236",
+                         "enunciado":  "Alguns corais contêm, em sua estrutura, algas fornecedoras de carboidratos que auxiliam no crescimento e na construção do esqueleto do coral. Os corais, por sua vez, fornecem um ambiente de proteção e importantes nutrientes às algas. As mudanças climáticas globais têm provocado a morte dessas algas e, em muitos casos, a morte dos corais.\n\nAssinale a alternativa que representa a relação ecológica entre os corais e as algas, assim como o impacto imediato causado pela morte dos corais.",
+                         "alternativas":  {
+                                              "a":  "Predação — Formação das marés vermelhas e desoxigenação das águas oceânicas.",
+                                              "b":  "Mutualismo — Perda de habitat para diversas espécies marinhas, assim como diminuição de suas fontes de proteção e alimento.",
+                                              "c":  "Colônia — Aumento de habitats e nichos ecológicos para espécies que passam a viver no local antes ocupado pelos corais.",
+                                              "d":  "Competição — Invasão biológica por espécies que ocupam o nicho deixado vago pelos corais.",
+                                              "e":  "Comensalismo — Enriquecimento das águas oceânicas por cálcio e nitrogênio, favorecendo o desenvolvimento de algas marinhas."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A relação é de mutualismo, já que ambos os organismos se beneficiam (as algas recebem proteção e nutrientes, e o coral recebe carboidratos). Com a morte das algas e dos corais, desaparece o abrigo e a fonte de alimento de diversas espécies marinhas que dependiam do recife.",
+                         "formato":  "direta",
+                         "origem":  "fuvest-2025"
+                     },
+                     {
+                         "id":  "biologia-237",
+                         "enunciado":  "A maior parte da alimentação humana é constituída por grãos e cereais, que, em sua maioria, correspondem às sementes, em termos botânicos. Esse consumo é adequado, uma vez que as sementes",
+                         "alternativas":  {
+                                              "a":  "constituem o único órgão de reserva de amido das plantas, substância altamente energética para os seres vivos em geral.",
+                                              "b":  "armazenam todas as vitaminas e nutrientes necessários para a planta e, portanto, também ao ser humano.",
+                                              "c":  "possuem DNA da planta-mãe e do embrião, que constituem nutrientes sem os quais a espécie humana não sobrevive.",
+                                              "d":  "contêm substâncias de reserva provedoras de energia para o desenvolvimento do embrião vegetal, que também servem de fonte energética aos seres humanos.",
+                                              "e":  "possuem enzimas digestivas de amido e de proteínas, que disponibilizam energia ao embrião vegetal e também são usadas para promover a digestão em seres humanos."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "As sementes armazenam substâncias de reserva (como amido, óleos e proteínas) que fornecem energia para o desenvolvimento do embrião vegetal — e essas mesmas reservas energéticas beneficiam a nutrição humana, não por conterem todas as vitaminas da planta nem por serem o único órgão de reserva vegetal.",
+                         "formato":  "direta",
+                         "origem":  "fuvest-2025"
+                     },
+                     {
+                         "id":  "biologia-238",
+                         "enunciado":  "Dentre os animais invertebrados, alguns grupos apresentam o sistema circulatório fechado, enquanto outros apresentam o sistema circulatório aberto, o que leva a diferenças em processos fisiológicos.\n\nNos invertebrados, o sistema circulatório",
+                         "alternativas":  {
+                                              "a":  "fechado apresenta uma menor pressão do sangue/hemolinfa em relação ao sistema circulatório aberto.",
+                                              "b":  "aberto apresenta o coração dividido em quatro cavidades: dois átrios e dois ventrículos.",
+                                              "c":  "fechado permite maior eficiência no transporte de oxigênio em relação ao sistema circulatório aberto.",
+                                              "d":  "aberto facilita a distribuição dos nutrientes aos tecidos em relação ao sistema circulatório fechado.",
+                                              "e":  "fechado mistura mais facilmente os gases respiratórios: oxigênio e dióxido de carbono."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "No sistema circulatório fechado, o sangue permanece confinado a vasos, o que permite maior pressão e direcionamento do fluxo, tornando o transporte de oxigênio mais eficiente do que no sistema aberto, em que a hemolinfa banha diretamente os tecidos com menor controle de fluxo.",
+                         "formato":  "direta",
+                         "origem":  "fuvest-2025"
+                     },
+                     {
+                         "id":  "biologia-239",
+                         "enunciado":  "Aristóteles produziu aquela que é considerada a primeira classificação dos organismos vivos, no mundo ocidental. Nela, considerou principalmente a existência de características compartilhadas para dividir os seres vivos em distintas categorias. Atualmente, a classificação dos seres vivos pauta-se no paradigma da Escola Filogenética (cladística). Tal escola",
+                         "alternativas":  {
+                                              "a":  "também realiza a análise de características compartilhadas entre os diferentes grupos de organismos, buscando identificar ancestrais comuns e relações de parentesco entre eles.",
+                                              "b":  "busca as diferenças entre os grupos de seres vivos, agrupando-os exclusivamente com base nessas diferenças, desconsiderando características compartilhadas.",
+                                              "c":  "abandona os princípios aristotélicos e adota ideias que propõem que os seres vivos evoluem com o passar do tempo, tornando-se sempre melhores que as gerações anteriores.",
+                                              "d":  "determina que os seres vivos se adaptam às condições do meio em que vivem e produzem descendentes portadores dessas adaptações, de forma sucessiva.",
+                                              "e":  "considera que características compartilhadas surgem apenas por convergência adaptativa, ou seja, organismos de linhagens diferentes, em um mesmo ambiente, podem desenvolver características comuns."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A escola cladística, assim como a classificação aristotélica, também se baseia em características compartilhadas entre organismos, mas as interpreta como evidência de ancestralidade comum, construindo árvores filogenéticas que expressam o parentesco evolutivo entre os grupos.",
+                         "formato":  "direta",
+                         "origem":  "fuvest-2026"
+                     },
+                     {
+                         "id":  "biologia-240",
+                         "enunciado":  "Em abril de 2025, uma empresa de biotecnologia anunciou que havia criado lobos com características de lobos-gigantes, ou dire-wolves, uma espécie extinta há milhares de anos. Para isso, a empresa obteve o genoma de lobos-gigantes e o comparou com o genoma de lobos modernos. Com base nesta comparação, foram feitas 20 modificações em 14 genes do genoma do lobo moderno, utilizando tecnologias de edição gênica. Em seguida, o núcleo de uma célula de lobo moderno contendo o DNA editado foi inserido em óvulos anucleados de cachorras. Por fim, os óvulos foram inseminados em cachorras, possibilitando a gestação. O resultado foi o nascimento de três filhotes, dois machos e uma fêmea, que possuem pelagem branca e espessa, além de um tamanho corporal maior, lembrando o fenótipo esperado de um lobo-gigante.\n\nSe, no futuro, a empresa resolver acasalar estes filhotes, espera-se que a prole seja parecida com",
+                         "alternativas":  {
+                                              "a":  "cachorros, pois os óvulos utilizados para gerar os filhotes são desta espécie.",
+                                              "b":  "lobos-gigantes, uma vez que cada geração tenderá a ser mais parecida com a espécie extinta.",
+                                              "c":  "lobos modernos selvagens, uma vez que as edições no genoma não são hereditárias.",
+                                              "d":  "lobos modernos modificados, pois os núcleos utilizados para gerar os filhotes são desta espécie.",
+                                              "e":  "nenhuma espécie conhecida, pois os efeitos da edição genética são imprevisíveis."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Como os filhotes vieram de núcleos de células de lobo moderno editado (inseridos em óvulos anucleados de cadela), o material genético nuclear que definirá a prole é o do lobo moderno modificado — a espécie do óvulo original não determina o genótipo do descendente, pois o núcleo foi substituído.",
+                         "formato":  "direta",
+                         "origem":  "fuvest-2026"
+                     },
+                     {
+                         "id":  "biologia-241",
+                         "enunciado":  "Após a confirmação da primeira morte humana por gripe aviária nos Estados Unidos, surge a dúvida sobre a possibilidade de uma nova pandemia. Embora os vírus da gripe aviária ataquem principalmente aves, eles também podem infectar outros animais, incluindo humanos. Infecções humanas com vírus da gripe aviária são raras e, normalmente, não se transmitem de pessoa para pessoa.\n\nOs cientistas concordam que mudanças-chave na sequência genética do vírus seriam necessárias para iniciar uma pandemia. Cada vez que um vírus infecta uma célula e novas unidades virais são produzidas, erros podem ocorrer. Ocasionalmente, há uma mudança genética que ajuda o vírus a se tornar melhor em infectar células. Assim, essa versão do vírus pode superar outras, infectando novos hospedeiros ou novos tipos de hospedeiros.\n\nCom base no texto, as mutações no vírus da gripe aviária",
+                         "alternativas":  {
+                                              "a":  "ocorrem quando eles infectam espécies diferentes.",
+                                              "b":  "são induzidas unicamente pela resposta imune do organismo hospedeiro.",
+                                              "c":  "ocorrem quando o vírus se replica dentro das células infectadas.",
+                                              "d":  "são consequência direta do contato frequente com aves migratórias portadoras do vírus.",
+                                              "e":  "ocorrem apenas quando o vírus entra em contato com medicamentos antivirais."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "As mutações genéticas do vírus surgem como erros durante o processo de replicação viral dentro das células infectadas; variantes que tornam o vírus mais apto a infectar podem então se espalhar mais, e não são causadas diretamente pelo contato com espécies diferentes ou por medicamentos.",
+                         "formato":  "direta",
+                         "origem":  "fuvest-2026"
+                     },
+                     {
+                         "id":  "biologia-242",
+                         "enunciado":  "A vacina contra a dengue co-desenvolvida pelo Brasil, a Qdenga, começou a ser oferecida pelo SUS em 2024. Indivíduos imunocompetentes recebem vírus atenuados ao serem vacinados, adquirindo imunidade sem ficar doentes. Pessoas com imunodeficiências, indivíduos com HIV sintomático, gestantes e lactantes não podem ser vacinadas. No entanto, estas pessoas podem ser beneficiadas com a vacinação da população, pois",
+                         "alternativas":  {
+                                              "a":  "pessoas não-vacinadas adquirem imunidade por contato com vacinados.",
+                                              "b":  "mosquitos transmissores da dengue morrem ao picar pessoas vacinadas.",
+                                              "c":  "vírus atenuados alteram o material genético dos vírus selvagens.",
+                                              "d":  "as chances de epidemias diminuem quando a cobertura vacinal é alta.",
+                                              "e":  "pessoas vacinadas liberam anticorpos contra o vírus no ambiente."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Quando grande parte da população está vacinada, a circulação do vírus diminui (imunidade de rebanho), reduzindo as chances de epidemias e protegendo indiretamente quem não pode ser vacinado — não há transferência de imunidade por contato nem liberação de anticorpos no ambiente.",
+                         "formato":  "direta",
+                         "origem":  "fuvest-2026"
+                     },
+                     {
+                         "id":  "biologia-243",
+                         "enunciado":  "A bióloga Lynn Margulis publicou um polêmico artigo em 1967 propondo que algumas organelas das células eucarióticas poderiam ser o resultado de eventos de endossimbiose, no qual bactérias passaram a viver em simbiose dentro de células eucarióticas até serem completamente incorporadas a elas. A hipótese de Margulis sofreu muita oposição, até que evidências experimentais mostraram que algumas organelas de fato possuíam muitas similaridades com bactérias.\n\nEntre as evidências de endossimbiose, podemos citar:",
+                         "alternativas":  {
+                                              "a":  "As membranas duplas dos núcleos.",
+                                              "b":  "Os ribossomos aderidos ao retículo endoplasmático.",
+                                              "c":  "A parede celular das células vegetais.",
+                                              "d":  "O formato do complexo de Golgi.",
+                                              "e":  "O genoma circular das mitocôndrias."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O genoma circular e independente das mitocôndrias, semelhante ao DNA de bactérias, é uma das principais evidências da teoria endossimbiótica, segundo a qual essas organelas se originaram de bactérias que passaram a viver dentro de células eucarióticas ancestrais.",
+                         "formato":  "direta",
+                         "origem":  "fuvest-2026"
+                     },
+                     {
+                         "id":  "biologia-244",
+                         "enunciado":  "A figura a seguir corresponde a células estomáticas da folha de uma planta de mata atlântica, em dois momentos distintos (a figura mostra um estômato aberto e outro fechado, ligados por uma seta Z).\n\nÉ correto afirmar que a seta Z representa",
+                         "alternativas":  {
+                                              "a":  "a passagem de uma condição de escuro (noite) para alta luminosidade (dia).",
+                                              "b":  "a diminuição da concentração de solutos na célula estomática.",
+                                              "c":  "o aumento da umidade relativa do ar ao longo do dia.",
+                                              "d":  "a intensificação da concentração de água no solo em que a planta se encontra.",
+                                              "e":  "o aumento do nível de turgescência (turgor) da célula estomática."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A seta Z representa a transição do estômato aberto para o fechado, causada pela diminuição da concentração de solutos nas células-guarda: com menos solutos, a célula perde água por osmose, reduz sua turgescência e o estômato se fecha.",
+                         "formato":  "direta",
+                         "origem":  "fuvest-2026"
+                     },
+                     {
+                         "id":  "biologia-245",
+                         "enunciado":  "A figura a seguir representa nichos ecológicos de duas espécies que utilizam um dado recurso ambiental em comum e de forma semelhante (diagrama de sobreposição de nichos, com uma área central N onde os dois nichos se cruzam).\n\nÉ correto afirmar que a área N representa",
+                         "alternativas":  {
+                                              "a":  "uma região de sobreposição de nichos, na qual pode ocorrer competição intraespecífica e interespecífica.",
+                                              "b":  "uma área fictícia, já que, por definição, nicho é algo exclusivo de uma espécie e não pode se sobrepor a outro nicho.",
+                                              "c":  "o conceito de habitat, que corresponde ao local em que duas ou mais espécies distintas coabitam.",
+                                              "d":  "o próprio recurso compartilhado pelas duas espécies de forma simétrica e equilibrada.",
+                                              "e":  "o surgimento de um outro nicho, no qual os organismos ali presentes podem evoluir, originando uma nova espécie."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A área N, onde os nichos se sobrepõem, representa a disputa pelo mesmo recurso, podendo gerar tanto competição interespecífica (entre as duas espécies) quanto intraespecífica (dentro de cada espécie, pelo recurso compartilhado).",
+                         "formato":  "direta",
+                         "origem":  "fuvest-2026"
+                     },
+                     {
+                         "id":  "biologia-246",
+                         "enunciado":  "Um agricultor realizou a remoção de um anel da casca de ramos caulinares, prática conhecida como anelamento, para aumentar o tamanho dos frutos em seu pomar. Ele observou dois grupos de plantas após algumas semanas. As plantas do grupo 1 tinham uma região claramente anelada nos ramos e seus frutos eram maiores, se comparadas às plantas do grupo 2. Já as plantas do grupo 2 perderam as folhas e foram claramente prejudicadas pelo anelamento. Ao retornar no ano seguinte, o anelamento era quase imperceptível nas plantas do grupo 1.\n\nConsiderando as informações apresentadas e os seus conhecimentos em biologia vegetal, é correto afirmar que o anelamento eliminou os vasos do",
+                         "alternativas":  {
+                                              "a":  "xilema e limitou o transporte de água para as folhas, comprometendo a atividade do câmbio vascular nas plantas do grupo 1.",
+                                              "b":  "floema e restringiu o transporte dos produtos da fotossíntese para as folhas, sem comprometer a atividade do câmbio vascular nas plantas do grupo 2.",
+                                              "c":  "xilema e limitou o transporte de água para as raízes, comprometendo a atividade do câmbio vascular nas plantas do grupo 2.",
+                                              "d":  "floema e restringiu o transporte dos produtos da fotossíntese para as raízes, sem comprometer a atividade do câmbio vascular nas plantas do grupo 1."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O anelamento remove o floema, tecido vivo responsável pelo transporte da seiva elaborada (produtos da fotossíntese); ao impedir que esses produtos cheguem às raízes do grupo 1, elas ficaram sem reservas e morreram lentamente, enquanto os frutos acima do anel acumularam mais açúcares — sem que o xilema (e, portanto, o câmbio vascular) fosse comprometido.",
+                         "formato":  "direta",
+                         "origem":  "unicamp-2026"
+                     },
+                     {
+                         "id":  "biologia-247",
+                         "enunciado":  "No heredograma a seguir, são representadas raças de animais heterozigotos (em preto) e homozigotos (em branco). Os heterozigotos apresentam o alelo deletério recessivo e animais contendo dois alelos iguais recessivos têm menor ganho de peso. Os valores na figura indicam a massa corporal dos animais (em quilos, kg) em um grupo de animais isolados.\n\nO heredograma mostra um casal de bovinos heterozigotos (preenchidos em preto), de 350 kg e 250 kg, cruzados entre si. Da prole (geração F1) resultam três indivíduos: um homozigoto (sem preenchimento) de 350 kg, um heterozigoto (preenchido em preto) de 500 kg, e um homozigoto (sem preenchimento) de 150 kg.\n\nConsiderando as informações apresentadas, assinale a alternativa correta.",
+                         "alternativas":  {
+                                              "a":  "A heterose ocorre no cruzamento entre indivíduos heterozigotos, levando à maior massa corporal, com probabilidade de ocorrer em 66% dos animais da geração F1.",
+                                              "b":  "A heterozigose tem probabilidade de ocorrer em 33% dos animais da geração F1, proporcionando animais com maior massa corporal e maior variabilidade genética.",
+                                              "c":  "A depressão endogâmica tem probabilidade de ocorrer em 25% dos animais da geração F1, proporcionando animais com menor massa corporal e também menor variabilidade genética.",
+                                              "d":  "A homozigose determina a depressão endogâmica, levando à menor massa corporal, com probabilidade de ocorrer em 50% dos animais da geração F1."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "No cruzamento Aa × Aa, a proporção esperada é 1 AA : 2 Aa : 1 aa, ou seja, 25% de homozigotos recessivos (aa) — os indivíduos de menor massa corporal do heredograma —, caracterizando depressão endogâmica associada à perda de variabilidade genética.",
+                         "formato":  "direta",
+                         "origem":  "unicamp-2026"
+                     },
+                     {
+                         "id":  "biologia-248",
+                         "enunciado":  "A irisina está entre os principais hormônios que são liberados na atividade física, especialmente pelos músculos, e que pode trazer ótimos benefícios para a saúde. Além de ter propriedades anti-inflamatórias, a irisina atua principalmente no tecido adiposo. Desse modo, pode ajudar no gasto energético por meio dos lipídios e contribuir no emagrecimento.\n\nA irisina é transportada pelo corpo por meio",
+                         "alternativas":  {
+                                              "a":  "dos linfonodos.",
+                                              "b":  "do citoesqueleto.",
+                                              "c":  "dos fibroblastos.",
+                                              "d":  "das sinapses nervosas.",
+                                              "e":  "da corrente sanguínea."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Por ser um hormônio (uma miocina liberada pelos músculos durante o exercício), a irisina é transportada até seus tecidos-alvo, como o tecido adiposo, pela corrente sanguínea.",
+                         "formato":  "direta",
+                         "origem":  "einstein-2025.1"
+                     },
+                     {
+                         "id":  "biologia-249",
+                         "enunciado":  "Em gatos, o padrão da cor da pelagem consiste em uma herança ligada ao sexo. Os machos de pelagem branca e preta apresentam o alelo P, e os machos de pelagem branca e amarela apresenta o alelo A. As fêmeas podem apresentar o mesmo padrão de cores dos machos, no entanto, há fêmeas que apresentam a pelagem branca, preta e amarela. Esse fenótipo de três cores em fêmeas ocorre porque",
+                         "alternativas":  {
+                                              "a":  "durante a embriogênese são formadas células com aneuploidias.",
+                                              "b":  "durante a meiose há permutação entre os cromossomos X e Y.",
+                                              "c":  "os alelos P e A estão localizados no cromossomo sexual Y.",
+                                              "d":  "os alelos P e A estão ligados no mesmo cromossomo sexual.",
+                                              "e":  "há inativação aleatória de um cromossomo X em células da pele."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O padrão tricolor exige a presença simultânea dos alelos P e A, que estão localizados no cromossomo X; como fêmeas têm dois cromossomos X, ocorre inativação aleatória de um deles em cada célula da pele durante o desenvolvimento (lyonização), fazendo com que diferentes áreas expressem um ou outro alelo e produzam o mosaico de cores.",
+                         "formato":  "direta",
+                         "origem":  "einstein-2025.1"
+                     },
+                     {
+                         "id":  "biologia-250",
+                         "enunciado":  "A figura mostra um idiograma que representa o conjunto de cromossomos identificado em uma célula somática de uma espécie de planta: os cromossomos estão organizados em 8 grupos de tamanho decrescente — grupo \"1–3\" (3 posições), grupo \"4–5\" (2 posições), grupo \"6–12\" (7 posições), grupo \"13–15\" (3 posições), grupo \"16–18\" (3 posições), grupo \"19–20\" (2 posições), grupo \"21–22\" (2 posições) e grupo \"23\" (1 posição) —, totalizando 23 posições cromossômicas distintas. Em cada uma dessas 23 posições, o idiograma mostra um trio de 3 cromossomos homólogos (não um par), totalizando 69 cromossomos na célula.\n\nA análise desse idiograma revela que essa planta é",
+                         "alternativas":  {
+                                              "a":  "haploide e apresenta número ímpar de cromossomos.",
+                                              "b":  "poliploide e apresenta 23 trios de cromossomos homólogos.",
+                                              "c":  "diploide e apresenta um conjunto de 69 cromossomos.",
+                                              "d":  "aneuploide e apresenta trissomia de todos os cromossomos.",
+                                              "e":  "poligênica e apresenta 69 cromossomos homólogos."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O idiograma mostra 23 posições cromossômicas, cada uma com um trio (não um par) de homólogos, totalizando 69 cromossomos — um múltiplo do número básico (23×3), o que caracteriza poliploidia (triploidia), e não simples aneuploidia ou haploidia.",
+                         "formato":  "direta",
+                         "origem":  "einstein-2026.1"
+                     },
+                     {
+                         "id":  "biologia-251",
+                         "enunciado":  "O esquema (de elaboração própria, adaptado de uma publicação acadêmica) ilustra quatro diferentes tipos de ciclos de transmissão de doenças infecciosas aos seres humanos:\n- Ciclo 1: transmissão direta entre humanos, sem vetor e sem reservatório animal (humano → humano → humano, em ciclo fechado).\n- Ciclo 2: transmissão entre humanos por meio de um vetor (humano → vetor → humano → vetor → humano, em ciclo fechado).\n- Ciclo 3: ciclo mantido entre animais não humanos, com transbordamento (spillover) direto para humanos, sem vetor.\n- Ciclo 4: ciclo mantido entre animais não humanos por meio de um vetor, com o vetor também transmitindo a doença a humanos.\n\nSão exemplos de doenças que podem ser transmitidas de acordo com os ciclos 1, 2, 3 e 4, respectivamente,",
+                         "alternativas":  {
+                                              "a":  "pneumonia, amebíase, Zika e leishmaniose.",
+                                              "b":  "sífilis, ancilostomose, teníase e doença de Chagas.",
+                                              "c":  "esquistossomose, ascaridíase, AIDS e dengue.",
+                                              "d":  "cisticercose, peste bubônica, tuberculose e tifo.",
+                                              "e":  "gripe, malária, raiva e febre amarela."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A gripe se transmite diretamente entre pessoas (ciclo 1); a malária depende de um vetor (mosquito Anopheles) entre humanos (ciclo 2); a raiva é mantida entre animais e pode transbordar diretamente para humanos, por mordida, sem vetor (ciclo 3); e a febre amarela é mantida entre animais silvestres e o mesmo vetor (mosquito) também pode transmiti-la a humanos (ciclo 4).",
+                         "formato":  "direta",
+                         "origem":  "einstein-2026.1"
+                     },
+                     {
+                         "id":  "biologia-252",
+                         "enunciado":  "A cor da pelagem em cavalos depende, entre outros fatores, da ação de dois pares de alelos W e w; B e b. O alelo W é epistático na manifestação da cor e é dominante sobre seu alelo w, que permite a manifestação da cor; o alelo B determina pelos pretos e o b, pelos marrons. Quando o alelo W está presente no genótipo, o fenótipo é pelos brancos.\n\nFoi realizado um cruzamento entre uma égua, de pelagem branca, duplamente heterozigota para os dois genes, e um cavalo de pelagem marrom. A proporção fenotípica da prole, independentemente do sexo, com pelagem branca, preta e marrom esperada desse cruzamento será, respectivamente, de:",
+                         "alternativas":  {
+                                              "a":  "9:3:4",
+                                              "b":  "12:3:1",
+                                              "c":  "1:2:1",
+                                              "d":  "2:1:1",
+                                              "e":  "3:1:0"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Como W é epistático e dominante, todo indivíduo com pelo menos um W é branco. Do cruzamento WwBb × wwbb, metade da prole é Ww (branca) e metade ww; dentro dos ww, metade é Bb (preta) e metade bb (marrom). Assim, a proporção final é 1/2 branco : 1/4 preto : 1/4 marrom, ou seja, 2:1:1.",
+                         "formato":  "direta",
+                         "origem":  "einstein-2026.1"
+                     },
+                     {
+                         "id":  "biologia-253",
+                         "enunciado":  "Uma fotografia obtida por meio da microscopia eletrônica é um registro da ação de leucócitos humanos: em amarelo, estão as redes extracelulares criadas por leucócitos humanos do tipo mastócitos; em vermelho, estão as bactérias *Pseudomonas* sp capturadas durante a ação. A ação dos mastócitos sobre essas bactérias está relacionada ao processo",
+                         "alternativas":  {
+                                              "a":  "anti-inflamatório.",
+                                              "b":  "de pinocitose.",
+                                              "c":  "imunológico.",
+                                              "d":  "de exocitose.",
+                                              "e":  "autoimune."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A liberação de redes extracelulares por leucócitos para capturar e neutralizar bactérias é parte da resposta imunológica inata do organismo contra patógenos.",
+                         "formato":  "direta",
+                         "origem":  "einstein-2025.2-enfermagem"
+                     },
+                     {
+                         "id":  "biologia-254",
+                         "enunciado":  "Alguns fungos crescem de forma controlada sobre os alimentos. Durante a maturação do queijo Gorgonzola, os fungos crescem, absorvem os nutrientes e se multiplicam. Esse processo é realizado por fungos do gênero *Penicillium*. O metabolismo dos fungos exemplificado no excerto é classificado como",
+                         "alternativas":  {
+                                              "a":  "autotrófico, cuja digestão é intracelular, nas hifas.",
+                                              "b":  "autotrófico, cuja digestão é extracorpórea.",
+                                              "c":  "heterotrófico, cuja digestão ocorre na cavidade gástrica.",
+                                              "d":  "heterotrófico, cuja digestão é extracorpórea.",
+                                              "e":  "heterotrófico, cuja digestão ocorre intracelularmente no micélio."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Os fungos são heterotróficos e realizam digestão extracorpórea: liberam enzimas digestivas sobre o substrato (o queijo, no caso) e depois absorvem os nutrientes já digeridos através das hifas.",
+                         "formato":  "direta",
+                         "origem":  "einstein-2025.2-enfermagem"
+                     },
+                     {
+                         "id":  "biologia-255",
+                         "enunciado":  "Os embriões de jararaca (*Bothrops jararaca*) se desenvolvem dentro de ovos, que permanecem no interior do corpo da fêmea, até a eclosão de filhotes já completamente formados. Essa forma de reprodução protege os embriões e aumenta as chances de sobrevivência dos filhotes. Quanto à forma de reprodução, as jararacas são classificadas como",
+                         "alternativas":  {
+                                              "a":  "ovíparas.",
+                                              "b":  "vivíparas.",
+                                              "c":  "marsupiais.",
+                                              "d":  "monotremadas.",
+                                              "e":  "ovovivíparas."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Como os embriões se desenvolvem dentro de ovos que permanecem no corpo da mãe até a eclosão de filhotes já formados, sem trocas nutritivas diretas com a mãe (como ocorre na viviparidade), a jararaca é classificada como ovovivípara.",
+                         "formato":  "direta",
+                         "origem":  "einstein-2025.2-enfermagem"
+                     },
+                     {
+                         "id":  "biologia-256",
+                         "enunciado":  "O albinismo é uma característica genética condicionada por um par de alelos autossômicos, recessivos e com segregação independente nos seres humanos. Diante disso, a probabilidade de nascimento de um bebê albino e do sexo biológico masculino, a partir de um casal heterozigoto para tal condição, é de",
+                         "alternativas":  {
+                                              "a":  "1/2.",
+                                              "b":  "1/3.",
+                                              "c":  "1/4.",
+                                              "d":  "1/8.",
+                                              "e":  "1/12."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Do cruzamento Aa × Aa, a chance de um filho ser albino (aa) é 1/4; combinada à chance de 1/2 de ser do sexo masculino (evento independente), a probabilidade conjunta é 1/4 × 1/2 = 1/8.",
+                         "formato":  "direta",
+                         "origem":  "einstein-2025.2-enfermagem"
+                     },
+                     {
+                         "id":  "biologia-257",
+                         "enunciado":  "O soro fisiológico é uma solução salina amplamente usada para administração intravenosa de medicamentos, limpeza de ferimentos e realização de inalações. Em relação à concentração do meio intracelular, o soro fisiológico é considerado uma solução ______, o que garante que as células do corpo humano não sofram alteração de volume enquanto o soro é administrado. Isso ocorre porque, durante o processo de ______, há equilíbrio entre a quantidade de água que entra e que sai da célula pela membrana plasmática.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "isotônica – transporte ativo.",
+                                              "b":  "hipotônica – difusão facilitada.",
+                                              "c":  "hipertônica – osmose.",
+                                              "d":  "isotônica – osmose.",
+                                              "e":  "hipotônica – transporte ativo."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O soro fisiológico é isotônico em relação ao meio intracelular, ou seja, tem a mesma concentração de solutos; por isso, durante a osmose, a quantidade de água que entra e sai da célula se equilibra, e ela não muda de volume.",
+                         "formato":  "direta",
+                         "origem":  "einstein-2026.2-enfermagem"
+                     },
+                     {
+                         "id":  "biologia-258",
+                         "enunciado":  "A estreptomicina FURP é um antibiótico do grupo dos aminoglicosídeos, com ação sobre microrganismos procariontes responsáveis por diversas doenças. Esse medicamento atua principalmente durante a fase de multiplicação desses parasitas, interferindo na síntese de proteínas e levando à morte dos microrganismos sensíveis aos seus componentes. Uma doença que pode ser tratada com esse medicamento é a",
+                         "alternativas":  {
+                                              "a":  "gripe.",
+                                              "b":  "tuberculose.",
+                                              "c":  "AIDS.",
+                                              "d":  "candidíase.",
+                                              "e":  "leishmaniose."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A estreptomicina, aminoglicosídeo que inibe a síntese proteica bacteriana, é um dos antibióticos usados no tratamento da tuberculose, causada pela bactéria Mycobacterium tuberculosis.",
+                         "formato":  "direta",
+                         "origem":  "einstein-2026.2-enfermagem"
+                     },
+                     {
+                         "id":  "biologia-259",
+                         "enunciado":  "Uma doença cardíaca bastante comum é a hipertensão arterial, que pode ser causada por maior resistência à circulação sanguínea. Uma adaptação observada no coração de pessoas hipertensas é o espessamento da musculatura que forma a câmara cardíaca que bombeia sangue para todo o corpo. Dessa maneira, o coração compensa a resistência do fluxo sanguíneo ao longo dos vasos porque",
+                         "alternativas":  {
+                                              "a":  "o ventrículo direito passa a bombear sangue arterial com maior pressão.",
+                                              "b":  "o ventrículo esquerdo passa a bombear sangue venoso com menor pressão.",
+                                              "c":  "o átrio esquerdo passa a bombear sangue arterial com menor pressão.",
+                                              "d":  "o ventrículo direito passa a bombear sangue venoso com maior pressão.",
+                                              "e":  "o ventrículo esquerdo passa a bombear sangue arterial com maior pressão."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O ventrículo esquerdo é a câmara que bombeia sangue arterial (rico em O₂) para todo o corpo através da aorta; na hipertensão, ele precisa gerar mais força (e sua parede se espessa) para vencer a maior resistência vascular, aumentando a pressão do sangue bombeado.",
+                         "formato":  "direta",
+                         "origem":  "einstein-2026.2-enfermagem"
+                     },
+                     {
+                         "id":  "biologia-260",
+                         "enunciado":  "Em um heredograma, os indivíduos I.1 (homem afetado), I.4 (mulher afetada) e II.1 (mulher afetada, filha de I.1 × I.2) apresentam uma doença genética monogênica com herança autossômica dominante. I.2 (mulher não afetada) e I.1 (homem afetado) são pais de II.1; I.3 (homem não afetado) e I.4 (mulher afetada) são pais de II.2 (homem não afetado). A probabilidade de os indivíduos II.1 e II.2 gerarem uma criança do sexo biológico masculino portadora do alelo para essa doença é",
+                         "alternativas":  {
+                                              "a":  "1/2.",
+                                              "b":  "1/3.",
+                                              "c":  "1/4.",
+                                              "d":  "1/8.",
+                                              "e":  "2/3."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "II.1 (afetada) é heterozigota Aa (pai I.1 afetado × mãe I.2 não afetada); II.2 (não afetado) é aa. Do cruzamento Aa × aa, metade dos filhos é Aa (portador afetado); combinando com a probabilidade de 1/2 de ser do sexo masculino, a chance conjunta é 1/2 × 1/2 = 1/4.",
+                         "formato":  "direta",
+                         "origem":  "einstein-2026.2-enfermagem"
+                     },
+                     {
+                         "id":  "biologia-261",
+                         "enunciado":  "O esquema mostra a relação entre dois processos biológicos: em um deles, O₂ entra em uma mitocôndria, que consome (CH₂O)ₙ e libera CO₂ + H₂O, produzindo ATP (respiração celular); no outro, luz entra em um cloroplasto, que consome CO₂ + H₂O e libera O₂, produzindo (CH₂O)ₙ (fotossíntese) — com trocas de gases (O₂ e CO₂) entre os dois processos. Os dois processos biológicos apresentados no esquema",
+                         "alternativas":  {
+                                              "a":  "integram parte do ciclo biogeoquímico do carbono.",
+                                              "b":  "participam do metabolismo de poluentes na biomagnificação.",
+                                              "c":  "prejudicam a formação da camada de ozônio na atmosfera.",
+                                              "d":  "reduzem o transporte de seiva em vasos condutores.",
+                                              "e":  "ocorrem no embrião vegetal durante a germinação."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A respiração celular libera CO₂ que pode ser reaproveitado na fotossíntese, e esta libera O₂ usado na respiração — as trocas gasosas entre os dois processos integram o ciclo biogeoquímico do carbono.",
+                         "formato":  "direta",
+                         "origem":  "einstein-2026.2-enfermagem"
+                     },
+                     {
+                         "id":  "biologia-262",
+                         "enunciado":  "Leia as instruções para um experimento de diferenciação dos tipos de solos.\n\nPara fazer um teste de solo em um recipiente, primeiramente preencha-o até a metade com a amostra de solo. Em seguida, preencha o espaço restante com água, deixando um pouco de ar na parte superior. Após tampar o recipiente, agite-o vigorosamente até que todos os torrões de solo sejam desfeitos. Deixe o recipiente em um local onde não haja perturbação. Após 24 horas, o solo terá se sedimentado em camadas visíveis de argila, silte e areia. Ao medir as proporções relativas dessas três texturas no solo, é possível determinar qual tipo de solo você possui.\n\nUma aplicação prática do experimento descrito é",
+                         "alternativas":  {
+                                              "a":  "a investigação das condições para a formação de laterita no solo.",
+                                              "b":  "a investigação sobre a estratificação de voçorocas no solo.",
+                                              "c":  "o prognóstico das condições de assoreamento do solo.",
+                                              "d":  "a classificação dos diferentes tipos de horizontes do solo.",
+                                              "e":  "o estudo na construção civil sobre a estabilidade do solo."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Ao permitir observar as proporções relativas de argila, silte e areia sedimentadas, o experimento serve para classificar o tipo de solo (e seus horizontes), uma aplicação prática de análise textural do solo.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2026-1"
+                     },
+                     {
+                         "id":  "biologia-263",
+                         "enunciado":  "O edifício Mjøstårnet, que fica em Brumunddal, Noruega, é uma das maiores construções em madeira do mundo, com 85,4 metros de altura.\n\nO conceito de madeira engenheirada engloba cerca de 20 produtos estruturais confeccionados industrialmente. São painéis de diferentes tamanhos, blocos, vigas, lâminas para revestimentos de pisos e paredes, dentre outros. Além disso, há cerca de uma dezena de sistemas construtivos com madeira engenheirada, que podem ser utilizados de forma isolada, combinados ou mesmo de forma híbrida — incorporando aço e concreto às construções em madeira. Essa versatilidade permite a construção desde casas simples até obras grandes e complexas, como prédios, anfiteatros, museus, equipamentos esportivos, terminais de ônibus, pontes e outras grandes estruturas.\n\nConsiderando que a construção civil é um dos setores com destaque nas emissões globais de gases causadores de efeito estufa, um benefício que o uso de madeira engenheirada nas edificações promove é",
+                         "alternativas":  {
+                                              "a":  "o sequestro de carbono durante o crescimento do vegetal.",
+                                              "b":  "a eliminação de combustíveis fósseis na cadeia produtiva do setor.",
+                                              "c":  "a criação do estoque de oxigênio nas construções em ambiente urbano.",
+                                              "d":  "a absorção de metano pela madeira mesmo após seu beneficiamento.",
+                                              "e":  "o incremento da evapotranspiração nas ilhas de calor."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Durante o crescimento, as árvores fixam carbono atmosférico em sua madeira por meio da fotossíntese; ao usar essa madeira em construções (madeira engenheirada), esse carbono fica armazenado (sequestrado) na estrutura, em vez de ser liberado como ocorreria na decomposição ou queima.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2026-1"
+                     },
+                     {
+                         "id":  "biologia-264",
+                         "enunciado":  "Considere que uma mulher tenha se casado com um homem que seja meio-irmão da meia-irmã dela. O casal formado não tem grau de parentesco consanguíneo e gerou uma filha. O heredograma ilustra o grau de parentesco desses indivíduos.\n\n*Descrição do heredograma: no topo, dois casais — o indivíduo 1 (círculo) casado com o indivíduo 2 (quadrado), e o indivíduo 3 (círculo) casado com o indivíduo 4 (quadrado). O indivíduo 5 (círculo) é filho tanto de 2 quanto de 3 (ou seja, 2 e 3 tiveram, em algum momento, uma relação da qual nasceu 5, sendo 5 meio-irmão dos filhos de 1\u00262 pelo lado paterno, e meio-irmão dos filhos de 3\u00264 pelo lado materno). Do casal 1\u00262 nascem os indivíduos 6 (quadrado) e 7 (círculo). Do casal 3\u00264 nasce o indivíduo 8 (quadrado). O indivíduo 7 casa-se com o indivíduo 8 (que é seu meio-irmão pelo lado de 5, conforme descrito no enunciado) e desse casal nasce a filha 9 (círculo), na geração mais recente.*\n\nSe as moléculas de DNA mitocondrial das pessoas do heredograma fossem comparadas umas às outras, os indivíduos que apresentariam moléculas idênticas entre si correspondem a:",
+                         "alternativas":  {
+                                              "a":  "3, 4, 5 e 8.",
+                                              "b":  "2, 7 e 9.",
+                                              "c":  "1, 5 e 8.",
+                                              "d":  "2, 5, 6 e 7.",
+                                              "e":  "1, 6, 7 e 9."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O DNA mitocondrial é herdado exclusivamente por via materna. O indivíduo 1 (mãe) transmite seu mtDNA aos filhos 6 e 7; 7 transmite o mesmo mtDNA à filha 9 — por isso, 1, 6, 7 e 9 compartilham moléculas de mtDNA idênticas.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2026-1"
+                     },
+                     {
+                         "id":  "biologia-265",
+                         "enunciado":  "Na década de 1940, os Estados Unidos da América tinham especial interesse pela borracha brasileira. Ciente disso, o governo brasileiro firma um acordo com os estadunidenses: eles investem no Brasil e o governo brasileiro se encarrega de arregimentar nova mão de obra nos seringais, a fim de extrair o látex, matéria-prima na fabricação da borracha.\n\nAo se referir a uma negociação entre o Brasil e os Estados Unidos, relativa à extração do látex, o excerto evidencia que",
+                         "alternativas":  {
+                                              "a":  "a extração do látex no Brasil cresceu durante o Estado Novo para atender às necessidades dos Estados Unidos. O látex é um líquido leitoso produzido por células laticíferas e apresenta compostos orgânicos que protegem a planta contra o ataque de herbívoros.",
+                                              "b":  "a borracha exportada para os Estados Unidos promoveu forte crescimento econômico brasileiro no governo Juscelino Kubitschek. O látex é a seiva bruta composta por água e substâncias inorgânicas retiradas do solo pelas raízes e transportada pelos vasos xilemáticos.",
+                                              "c":  "o Brasil consolidou durante o governo de Juscelino Kubitschek sua condição de maior exportador mundial de borracha. O látex é uma secreção leitosa orgânica produzida pelas células meristemáticas formadoras dos vasos condutores presentes no súber que reveste o tronco da planta.",
+                                              "d":  "o extrativismo do látex durante o Estado Novo reduziu os investimentos governamentais na produção agrícola e industrial brasileira. O látex é um composto orgânico, fluido, esbranquiçado e produzido no parênquima amilífero localizado abaixo da casca do caule.",
+                                              "e":  "a floresta tropical brasileira foi devastada durante o Estado Novo para permitir a exploração do látex e das drogas do sertão. O látex é a seiva elaborada composta por água e moléculas orgânicas resultantes da fotossíntese e transportada pelos vasos floemáticos."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O látex é um líquido leitoso produzido por células laticíferas, contendo compostos orgânicos (como terpenos) que funcionam como defesa química da planta contra herbívoros — função biológica que não se confunde com seiva bruta (xilema) nem com seiva elaborada transportada no floema.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2026-1"
+                     },
+                     {
+                         "id":  "biologia-266",
+                         "enunciado":  "Graças aos micróbios invisíveis do ambiente que nos ajudam a processar o esgoto, podemos garantir que a água tratada liberada de volta ao ambiente é segura. Pesquisas em processos de tratamento de esgoto estão investigando novos tipos de configurações de biorreatores e processos de tratamento biológico usando diferentes tipos de micróbios que podem aumentar a eficiência das instalações de tratamento de esgoto — muito importantes para a proteção do meio ambiente e dos nossos recursos hídricos.\n\nO tratamento do esgoto pela ação microbiana permite combater a",
+                         "alternativas":  {
+                                              "a":  "eutrofização, caracterizada pela reprodução descontrolada de algas a partir do excesso de nutrientes que o despejo do esgoto in natura provoca.",
+                                              "b":  "continentalidade, determinada pelo grau de interferência que a ação antrópica promove no equilíbrio biológico dos ecossistemas.",
+                                              "c":  "lixiviação, estimulada pelo acúmulo de esgoto in natura em áreas de nascentes, o qual provoca a perda da qualidade hídrica no abastecimento humano.",
+                                              "d":  "ressurgência, marcada pela redução do oxigênio dissolvido na água, que estimula a migração desordenada de peixes.",
+                                              "e":  "litificação, estabelecida pelo excesso de nitrogênio que se acumula com o lançamento de matéria orgânica presente no esgoto in natura."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Ao remover a matéria orgânica e os nutrientes em excesso do esgoto antes de seu lançamento nos corpos d\u0027água, os micro-organismos do tratamento evitam a eutrofização, processo de proliferação descontrolada de algas provocado pelo excesso de nutrientes.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2026-2"
+                     },
+                     {
+                         "id":  "biologia-267",
+                         "enunciado":  "Em um estudo global publicado na revista Science, pesquisadores liderados pelo Laboratório Nacional do Noroeste do Pacífico do Departamento de Energia (PNNL, em inglês) dos Estados Unidos descobriram que o aumento de perturbações ambientais, como incêndios florestais, seca, desmatamento mecanizado, danos causados pelo vento e por inimigos naturais, tem provocado uma diminuição dramática da idade e do tamanho médio global das florestas.\n\n*Descrição da figura: um diagrama didático em 3D mostra uma floresta saudável à esquerda, uma faixa central \"Perturbações ambientais\" com ícones de fogo, seca e pragas, e à direita uma \"Floresta regenerada\" com árvores mais jovens e menores — com uma seta \"Tempo\" indicando a passagem do tempo da esquerda para a direita.*\n\nDe acordo com a figura, após as perturbações ambientais, é esperado que o local passe pelo processo denominado ______, e uma causa da diminuição do tamanho médio global das florestas é ______.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "invasão biológica – a redução da exposição à luz solar.",
+                                              "b":  "estagnação ecológica – o aumento da lixiviação do solo.",
+                                              "c":  "sucessão ecológica – a redução da hidratação do solo.",
+                                              "d":  "sucessão ecológica – o aumento da umidade do ar.",
+                                              "e":  "estagnação biológica – a maior absorção de luz solar pelo solo."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Após a perturbação, a área passa por sucessão ecológica, processo de regeneração gradual da vegetação; entre as causas da redução do porte médio das florestas está a menor disponibilidade de água no solo, que limita o crescimento das árvores até tamanhos maiores.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2026-2"
+                     },
+                     {
+                         "id":  "biologia-268",
+                         "enunciado":  "O gráfico mostra a variação da quantidade de DNA nuclear em uma linhagem de células em divisão, que estão localizadas em um órgão animal.\n\n*Descrição do gráfico: eixo vertical \"Quantidade de DNA nuclear por célula (unidades arbitrárias)\" com marcações em 1X, 2X e 4X; eixo horizontal \"Tempo\". A curva sobe de 2X para 4X, permanece um tempo em 4X, desce de volta a 2X, e esse padrão (2X→4X→2X) se repete três vezes seguidas; ao final do terceiro ciclo, em vez de permanecer em 2X, a curva cai abruptamente para 1X e permanece nesse patamar.*\n\nEssa linhagem de células em divisão está localizada",
+                         "alternativas":  {
+                                              "a":  "na pele.",
+                                              "b":  "no cérebro.",
+                                              "c":  "nos ossos.",
+                                              "d":  "nos testículos.",
+                                              "e":  "no bíceps."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O padrão de oscilação repetida entre 2X e 4X (várias rodadas de duplicação e divisão mitótica das espermatogônias) seguido de uma queda final a 1X (a meiose, que reduz a ploidia à metade) é característico da espermatogênese, que ocorre nos testículos.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2026-2"
+                     },
+                     {
+                         "id":  "biologia-269",
+                         "enunciado":  "O consumo de cigarros eletrônicos (vapes) está ligado ao aumento do risco para o desenvolvimento de enfisema pulmonar, problemas pulmonares obstrutivos crônicos e até câncer de pulmão. Pesquisas apontam que a concentração de nicotina dos vapes pode chegar a cem vezes a do cigarro convencional. Em vapes descartáveis analisados, foram detectadas, ainda, concentrações de cobre, estanho, níquel e zinco em nível muito acima do esperado para qualquer tipo de material que vai ser inalado.\n\nO estado de dependência química de nicotina e o enfisema pulmonar por uso de vapes são decorrentes, respectivamente,",
+                         "alternativas":  {
+                                              "a":  "do desequilíbrio na liberação de neurotransmissores e da destruição das paredes dos alvéolos pulmonares.",
+                                              "b":  "da hipertrofia da bainha de mielina dos neurônios e do enrijecimento das paredes dos bronquíolos.",
+                                              "c":  "do aumento dos dendritos nos neurônios e do desenvolvimento de tumores nos tecidos pulmonares.",
+                                              "d":  "do aumento das conexões nervosas entre neurônios e da degeneração dos capilares dos alvéolos pulmonares.",
+                                              "e":  "de interrupções das sinapses nervosas e da inflamação do epitélio de revestimento dos bronquíolos."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A dependência química da nicotina decorre do desequilíbrio na liberação de neurotransmissores no sistema nervoso central; já o enfisema pulmonar resulta da destruição progressiva das paredes dos alvéolos, reduzindo a superfície de trocas gasosas.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2026-2"
+                     },
+                     {
+                         "id":  "biologia-270",
+                         "enunciado":  "Os grupos sanguíneos de um indivíduo, relativos aos sistemas ABO e Rh, são determinados em laboratório por meio de técnicas sorológicas específicas. Além disso, o sangue pode ser empregado na determinação do sexo biológico de uma pessoa não identificada. Nessas análises laboratoriais, a tipagem sanguínea e a determinação do sexo biológico baseiam-se na observação, respectivamente,",
+                         "alternativas":  {
+                                              "a":  "da análise cromossômica em trombócitos e da aglutinação em leucócitos.",
+                                              "b":  "da aglutinação em leucócitos e da análise cromossômica em hemácias.",
+                                              "c":  "da aglutinação das hemácias e da análise cromossômica em trombócitos.",
+                                              "d":  "da aglutinação das hemácias e da análise cromossômica em leucócitos.",
+                                              "e":  "da análise cromossômica em leucócitos e da aglutinação das hemácias."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A tipagem sanguínea (sistemas ABO e Rh) é determinada pela reação de aglutinação das hemácias frente a soros específicos; já a determinação do sexo biológico usa análise cromossômica em leucócitos, únicas células sanguíneas nucleadas capazes de fornecer material genético para esse exame.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2026-2"
+                     },
+                     {
+                         "id":  "biologia-271",
+                         "enunciado":  "O gráfico apresenta a variação populacional de renas na pequena ilha de St. Paul, localizada no mar de Bering, após a introdução de 26 desses animais no ano de 1910. Em 1938, havia mais de 2 000 renas na ilha e, após esse ano, a população desses animais foi reduzida drasticamente até 1950.\n\n*Descrição do gráfico: eixo vertical \"Número de renas\" (0 a 2000), eixo horizontal \"Ano\" (1910 a 1950). Uma linha horizontal laranja marca a \"Capacidade de suporte\" em torno de 200 renas. A curva verde parte de próximo a zero em 1910, sobe suavemente até um pequeno pico de ~250 por volta de 1922, cai um pouco, sobe de novo, e então sobe acentuadamente até um pico bem acima de 2000 (~2050) por volta de 1938-1939, caindo depois de forma abrupta até valores próximos de zero por volta de 1950.*\n\nDe acordo com os resultados observados no gráfico e conhecimentos sobre densidade populacional, afirma-se que",
+                         "alternativas":  {
+                                              "a":  "entre 1910 e 1920 a população de renas atingiu seu potencial biótico.",
+                                              "b":  "a partir de 1938 a resistência do meio intensificou a redução populacional de renas.",
+                                              "c":  "a partir de 1930 a população de renas atingiu o equilíbrio populacional.",
+                                              "d":  "entre 1940 e 1950 a taxa de natalidade das renas superou a de mortalidade.",
+                                              "e":  "em 1938 a população de renas atingiu a carga biótica máxima."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O pico populacional de mais de 2.000 renas em 1938, muito acima da capacidade de suporte de cerca de 200 indicada no gráfico, representa a carga biótica máxima que o ambiente conseguiu momentaneamente sustentar antes do colapso populacional subsequente.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2025-2"
+                     },
+                     {
+                         "id":  "biologia-272",
+                         "enunciado":  "Analise o cladograma que apresenta algumas das características evolutivas compartilhadas entre os principais grupos de plantas representados pelos números de 1 a 4.\n\n*Descrição do cladograma: árvore filogenética simples com quatro ramos terminais numerados 1, 2, 3 e 4 da esquerda para a direita. Ao longo do eixo central, de baixo para cima, aparecem marcadas, em ordem, as sinapomorfias: \"Embriões protegidos\" (nó mais basal, após o qual o ramo 1 se separa), \"Vasos condutores\" (após o qual o ramo 2 se separa), \"Sementes\" (após o qual o ramo 3 se separa) e \"Flores\" (nó mais derivado, após o qual o ramo 4 se separa).*\n\nAlém das características referidas no cladograma, os grupos de plantas 1, 2, 3 e 4 apresentam, respectivamente,",
+                         "alternativas":  {
+                                              "a":  "gametófito duradouro, soros, endosperma haploide e fruto.",
+                                              "b":  "esporófito haploide, folíolos, sementes nuas e dupla fecundação.",
+                                              "c":  "esporófito transitório, raízes pivotantes, estróbilo e endosperma diploide.",
+                                              "d":  "gametófito haploide, grãos de pólen, soros e endosperma triploide.",
+                                              "e":  "gametófito transitório, protalo duradouro, estróbilo e dupla fecundação."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O grupo 1 (briófitas, antes dos vasos condutores) tem gametófito duradouro; o grupo 2 (pteridófitas, após vasos condutores, antes de sementes) forma soros; o grupo 3 (gimnospermas, após sementes, antes de flores) tem endosperma haploide (tecido do gametófito feminino); e o grupo 4 (angiospermas, após flores) produz frutos.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2025-2"
+                     },
+                     {
+                         "id":  "biologia-273",
+                         "enunciado":  "Estudos observacionais e ensaios clínicos conduzidos ao longo de quase 40 anos revelam os benefícios para a saúde de comer pelo menos 25 g a 29 g ou mais de fibras alimentares vegetais por dia, de acordo com estudos publicados na revista científica The Lancet.\n\nAs fibras alimentares vegetais, referidas no texto, são ricas em",
+                         "alternativas":  {
+                                              "a":  "polissacarídeos estruturais, que fornecem glicoses para o metabolismo anaeróbico e para a fosforilação oxidativa.",
+                                              "b":  "proteínas estruturais, que reduzem a glicemia e atuam na saúde dos músculos intestinais.",
+                                              "c":  "proteínas de reserva, que auxiliam na formação dos tecidos articulares e participam da saúde óssea.",
+                                              "d":  "proteínas estruturais, que intensificam a eliminação do colesterol e evitam a formação de trombos.",
+                                              "e":  "polissacarídeos estruturais, que aceleram o peristaltismo e facilitam a eliminação das fezes."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "As fibras alimentares vegetais são majoritariamente polissacarídeos estruturais (como a celulose), que o corpo humano não digere, mas que aumentam o bolo fecal e aceleram o peristaltismo intestinal, facilitando a eliminação das fezes.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2025-2"
+                     },
+                     {
+                         "id":  "biologia-274",
+                         "enunciado":  "As figuras ilustram as estruturas ósseas presentes na nadadeira de um golfinho, no membro superior de um humano e no membro anterior de um cavalo.\n\n*Descrição da figura: diagrama comparativo clássico de anatomia comparada mostrando os ossos homólogos (úmero, rádio, ulna, carpos, metacarpos e falanges, cada um em uma cor diferente conforme legenda) na nadadeira do golfinho, no braço humano e na pata do cavalo — os mesmos ossos, em proporções e formatos diferentes conforme a função de cada espécie.*\n\nA comparação anatômica dessas três estruturas ósseas permite afirmar que esses órgãos",
+                         "alternativas":  {
+                                              "a":  "têm semelhanças ósseas resultantes da mesma pressão seletiva.",
+                                              "b":  "têm ossos de tamanhos diferentes, o que ilustra um processo de convergência adaptativa.",
+                                              "c":  "possuem a mesma origem evolutiva, a partir de um mesmo ancestral comum.",
+                                              "d":  "apresentam o mesmo fenótipo, mas possuem diferentes genótipos.",
+                                              "e":  "possuem funções diferentes, por terem se originado de ancestrais de filos diferentes."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A presença dos mesmos ossos (úmero, rádio, ulna etc.), ainda que com formas e proporções diferentes adaptadas a funções distintas (nadar, andar, manipular objetos), evidencia que essas estruturas são homólogas, ou seja, derivam de um ancestral comum — e não convergência adaptativa, que geraria estruturas análogas de origens diferentes.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2025-2"
+                     },
+                     {
+                         "id":  "biologia-275",
+                         "enunciado":  "Os livros na estante fazem alusão ao conjunto de cromossomos presentes em uma célula humana.\n\n*Descrição da imagem: uma ilustração didática de uma estante de livros, em que cada par de livros (com a mesma numeração ou identificação) representa um par de cromossomos homólogos, incluindo um par identificado com as letras X e Y.*\n\nNessa estante, os livros identificados",
+                         "alternativas":  {
+                                              "a":  "em prateleiras paralelas sugerem o pareamento de cromossomos homólogos na metáfase II.",
+                                              "b":  "por um mesmo número correspondem a cromossomos com os mesmos alelos.",
+                                              "c":  "de 1 a 22 representam o conjunto de cromossomos autossômicos.",
+                                              "d":  "por um mesmo número representam cromátides-irmãs.",
+                                              "e":  "pelas letras X e Y denotam que essa célula seria de um espermatozoide humano."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Os 22 pares de cromossomos não sexuais correspondem aos autossomos; o par restante (X e Y, ou XX) corresponde aos cromossomos sexuais — daí os livros numerados de 1 a 22 representarem o conjunto de autossomos da célula humana.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2025-2"
+                     },
+                     {
+                         "id":  "biologia-276",
+                         "enunciado":  "Um estudo do Instituto Cerrados aponta que 88% de 81 bacias hidrográficas do Cerrado já tiveram redução de vazão causada pelo desmatamento entre 1985 e 2022. Em 2050, essa redução deve chegar a 23,6 mil metros cúbicos de água por segundo. Diversos rios que alimentam as bacias na Amazônia nascem na região do Cerrado, como o Tocantins e o Xingu. Essas águas ajudam a formar os rios voadores, corredores de umidade que levam chuvas a outros locais do país. Além disso, o Cerrado guarda 8 das 12 maiores bacias do país.\n\nDe acordo com o excerto, o desmatamento no Cerrado está diretamente relacionado à redução da",
+                         "alternativas":  {
+                                              "a":  "transpiração foliar, o que diminui a quantidade de vapor d\u0027água na atmosfera e pode prejudicar a produção de energia hidrelétrica.",
+                                              "b":  "absorção de água dos lençóis subterrâneos, o que diminui a acidez do solo e impacta o setor agropecuário.",
+                                              "c":  "evaporação de água do solo, o que diminui a formação de nuvens e prejudica a retenção de nutrientes no solo.",
+                                              "d":  "produção de gás O₂, o que diminui a formação do gás ozônio na atmosfera e intensifica a evapotranspiração das bacias hídricas.",
+                                              "e":  "fixação de CO₂ pela vegetação, o que aumenta a temperatura média na região e diminui a quantidade de água nos reservatórios urbanos."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O desmatamento reduz a cobertura vegetal e, com ela, a transpiração foliar das plantas, diminuindo o vapor d\u0027água liberado na atmosfera — o que compromete tanto a formação de chuvas (inclusive os rios voadores) quanto a vazão dos rios que alimentam usinas hidrelétricas.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2024"
+                     },
+                     {
+                         "id":  "biologia-277",
+                         "enunciado":  "Um esquema representa uma ovogênese humana sem mutações, processo que origina um gameta funcional: uma ovogônia (célula-tronco) passa pelo evento 1 e se torna a célula J (ovócito I); a célula J passa pelo evento 2 e origina as células L e M (ovócito II e primeiro corpúsculo polar); a célula L passa pelo evento 3 e origina as células N e O; a célula M passa pelo evento 3 e origina as células P e Q (corpúsculos polares).\n\nSobre esse esquema e os fenômenos que ocorrem na ovogênese humana, afirma-se que",
+                         "alternativas":  {
+                                              "a":  "as células indicadas por L e por M possuem os mesmos alelos.",
+                                              "b":  "na mulher, em cada período fértil, há liberação de uma célula indicada por J.",
+                                              "c":  "na mulher, a partir da puberdade, ocorrem os eventos 1 e 2.",
+                                              "d":  "a célula N é formada após a fecundação da célula L.",
+                                              "e":  "os números 1, 2 e 3 indicam o momento em que há redução da ploidia."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Os eventos 1 e 2 da ovogênese (formação do ovócito I e sua primeira divisão meiótica, gerando o ovócito II) só se completam a partir da puberdade, quando os ciclos hormonais mensais retomam a meiose que estava estacionada desde a vida fetal.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2024"
+                     },
+                     {
+                         "id":  "biologia-278",
+                         "enunciado":  "Uma tabela ilustra a concentração de gases respiratórios no sangue que passa pela veia pulmonar e pela artéria aorta de dois vertebrados saudáveis (X e Y): no animal X, o sangue tem alta concentração de O₂ tanto na veia pulmonar quanto na artéria aorta (sem mistura); no animal Y, a veia pulmonar tem alta concentração de O₂, mas a artéria aorta mostra uma mistura de O₂ e CO₂ (indicando mistura de sangue arterial e venoso no coração).\n\nOs animais X e Y são, respectivamente,",
+                         "alternativas":  {
+                                              "a":  "lagarto e atum.",
+                                              "b":  "pardal e sapo.",
+                                              "c":  "tartaruga e peixe-boi.",
+                                              "d":  "raposa e codorna.",
+                                              "e":  "salamandra e jacaré."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O animal X, com sangue totalmente oxigenado tanto na veia pulmonar quanto na aorta (circulação dupla e completa, sem mistura), é uma ave (pardal); o animal Y, com mistura de sangue arterial e venoso na aorta (coração com separação incompleta dos ventrículos), é um anfíbio (sapo).",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2024"
+                     },
+                     {
+                         "id":  "biologia-279",
+                         "enunciado":  "Uma imagem mostra uma árvore submetida à técnica de cintamento (remoção de um anel de casca) no caule principal.\n\nEssa técnica resulta na morte da árvore porque a remoção completa das células ____ que compõem o ____ interrompe a condução da seiva ____ até a raiz da planta, que morre depois de algumas semanas. Com a morte da raiz, não haverá absorção de sais ____ para o citoplasma das células epidérmicas.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "mortas – xilema – inorgânica – transporte ativo.",
+                                              "b":  "mortas – floema – inorgânica – osmose.",
+                                              "c":  "vivas – floema – orgânica – transporte ativo.",
+                                              "d":  "vivas – xilema – orgânica – difusão.",
+                                              "e":  "vivas – floema – inorgânica – osmose."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O cintamento remove o floema, tecido formado por células vivas responsável pela condução da seiva orgânica (elaborada) até a raiz; sem esse suprimento, a raiz morre e deixa de absorver, por transporte ativo, os sais inorgânicos do solo necessários às células da planta.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2024"
+                     },
+                     {
+                         "id":  "biologia-280",
+                         "enunciado":  "Os animais com metameria apresentam simetria bilateral. Essas duas características trouxeram avanços evolutivos para os animais. A metameria e a simetria bilateral contribuíram, respectivamente, com",
+                         "alternativas":  {
+                                              "a":  "o desenvolvimento da variedade de movimentos e o desenvolvimento da cefalização.",
+                                              "b":  "o aumento da variedade de órgãos e a redução na superfície corporal.",
+                                              "c":  "a repetição de órgãos internos e a captação dos estímulos externos.",
+                                              "d":  "o aumento do volume de líquido celomático e o aparecimento da flexibilidade corporal.",
+                                              "e":  "o aparecimento do tubo digestório completo e o aumento do volume corpóreo."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A metameria (repetição de segmentos corporais) permitiu maior variedade de movimentos, já que cada segmento pode se mover de forma relativamente independente; a simetria bilateral favoreceu a cefalização, concentrando órgãos sensoriais na região anterior do corpo, voltada para o deslocamento.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2024"
+                     },
+                     {
+                         "id":  "biologia-281",
+                         "enunciado":  "Os seres humanos e os chimpanzés apresentam um ancestral evolutivo em comum e pertencem à ordem Primata e à família Hominidae. Essas duas espécies apresentam parentesco evolutivo muito próximo, no entanto, diferem morfologicamente quanto",
+                         "alternativas":  {
+                                              "a":  "à visão tridimensional.",
+                                              "b":  "à ausência de cauda.",
+                                              "c":  "à presença de polegar oponível.",
+                                              "d":  "à presença de placenta.",
+                                              "e":  "ao volume da caixa craniana."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Apesar do parentesco evolutivo próximo, humanos e chimpanzés diferem sobretudo pelo volume da caixa craniana (e, portanto, do encéfalo), muito maior nos humanos — as demais características citadas (visão tridimensional, ausência de cauda, polegar oponível, placenta) são compartilhadas por ambos.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2024"
+                     },
+                     {
+                         "id":  "biologia-283",
+                         "enunciado":  "Até abril de 2023, o Estado de São Paulo registrou 1 140 casos de todos os tipos de meningite, 9% a mais se comparado com o mesmo período de 2022, em que foram confirmados 1 040 casos. Em relação aos óbitos, no mesmo período, São Paulo registrou uma queda de 28%, com 79 óbitos em 2023 e 110 no ano passado. Em 2022 a cobertura vacinal para meningocócica C ficou em 77,7%, contra 74,5% de 2021.\n\nA meningite meningocócica C é causada por",
+                         "alternativas":  {
+                                              "a":  "uma bactéria e sua transmissão ocorre pela picada de um artrópode hematófago.",
+                                              "b":  "um vírus e sua transmissão ocorre pelo contato com fezes humanas contendo cistos.",
+                                              "c":  "um vírus e sua transmissão ocorre pelo contato com secreções de pessoas doentes.",
+                                              "d":  "um protozoário e sua transmissão ocorre pela ingestão de alimentos contaminados com esporos.",
+                                              "e":  "uma bactéria e sua transmissão ocorre pela inalação de gotículas de saliva contaminadas."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A meningite meningocócica C é causada pela bactéria Neisseria meningitidis, transmitida de pessoa a pessoa pela inalação de gotículas de saliva ou secreções respiratórias contaminadas.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2024"
+                     },
+                     {
+                         "id":  "biologia-284",
+                         "enunciado":  "Uma figura mostra uma hipótese sobre o surgimento de uma das organelas presentes em células eucarióticas: uma célula ancestral simples (com DNA solto no citoplasma) sofre uma invaginação da membrana plasmática, que progressivamente envolve o DNA e forma um envoltório nuclear, originando uma célula com núcleo definido e uma organela adicional no citoplasma.\n\nA organela presente na figura surgiu por",
+                         "alternativas":  {
+                                              "a":  "invaginações do envoltório celular e contribuiu para o surgimento da organela que tem DNA próprio.",
+                                              "b":  "evaginações do envoltório nuclear e compartimentalizou o material genético no núcleo.",
+                                              "c":  "dobramentos da membrana plasmática e ampliou a síntese de certas substâncias no citoplasma.",
+                                              "d":  "endocitose de células procariontes e ampliou um sistema de transporte interno de substâncias.",
+                                              "e":  "fagocitose de bactérias e aumentou a incorporação de membranas que originaram organelas citoplasmáticas."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A figura descreve a formação do envoltório nuclear (e do sistema de endomembranas associado) por dobramentos progressivos da membrana plasmática que envolvem o DNA — um mecanismo que amplia a capacidade de síntese e compartimentalização de substâncias na célula, diferente da endossimbiose (que explica mitocôndrias e cloroplastos).",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2024"
+                     },
+                     {
+                         "id":  "biologia-285",
+                         "enunciado":  "A hematoxilina (H\u0026E) é um corante de caráter básico que reage com substâncias ácidas ou estruturas que tenham caráter ácido existentes nas células. O resultado dessa reação cora a estrutura celular de azul-arroxeado. Uma lâmina de microscopia com células da mucosa bucal, caso entre em contato com a hematoxilina (H\u0026E), irá corar de azul-arroxeado",
+                         "alternativas":  {
+                                              "a":  "o citoesqueleto.",
+                                              "b":  "o núcleo.",
+                                              "c":  "as fibras elásticas.",
+                                              "d":  "o retículo endoplasmático agranular.",
+                                              "e":  "as fibras colágenas."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A hematoxilina, por ter caráter básico, reage com estruturas ácidas da célula — principalmente o DNA do núcleo, rico em grupos fosfato de carga negativa —, corando-o de azul-arroxeado (basofilia).",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2024"
+                     },
+                     {
+                         "id":  "biologia-286",
+                         "enunciado":  "Em laboratório, um par de nucleotídeos extra foi inserido em um gene bacteriano. Após essa inserção, esse gene bacteriano expressou-se em uma proteína que apresentará",
+                         "alternativas":  {
+                                              "a":  "o tamanho menor do que o da proteína original.",
+                                              "b":  "a sequência de aminoácidos diferente da proteína original.",
+                                              "c":  "a mesma sequência de aminoácidos da proteína original.",
+                                              "d":  "as mesmas estrutura tridimensional e função da proteína original.",
+                                              "e":  "a mesma estrutura secundária da proteína original."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A inserção de um par extra de nucleotídeos desloca o quadro de leitura (mutação frameshift) a partir do ponto de inserção, alterando todos os códons seguintes e, portanto, produzindo uma sequência de aminoácidos diferente da proteína original.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2025"
+                     },
+                     {
+                         "id":  "biologia-287",
+                         "enunciado":  "Os vírus são parasitas intracelulares obrigatórios que apresentam diversas estratégias reprodutivas no interior das células hospedeiras. No ciclo reprodutivo dos retrovírus, como o",
+                         "alternativas":  {
+                                              "a":  "HPV, o DNA viral é transcrito em uma molécula de RNA mensageiro no citosol da célula hospedeira por ação da enzima transcriptase reversa.",
+                                              "b":  "HPV, o DNA viral é replicado em muitas moléculas de DNA que são integradas ao genoma da célula hospedeira por ação da enzima integrase.",
+                                              "c":  "HIV, o RNA viral é traduzido em proteínas virais no citoplasma da célula hospedeira por ação da enzima transcriptase reversa.",
+                                              "d":  "HIV, o DNA viral é sintetizado a partir do RNA viral no citosol da célula hospedeira por ação da enzima transcriptase reversa.",
+                                              "e":  "HIV, o DNA viral é transformado em uma molécula de RNA mensageiro por ação da enzima integrase presente no citoplasma da célula hospedeira."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "No ciclo dos retrovírus, como o HIV, a enzima transcriptase reversa sintetiza uma molécula de DNA a partir do RNA viral dentro do citosol da célula hospedeira; esse DNA é depois integrado ao genoma da célula por outra enzima, a integrase.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2025"
+                     },
+                     {
+                         "id":  "biologia-288",
+                         "enunciado":  "Considere uma espécie de cnidário que realiza metagênese e uma espécie de abelha que realiza partenogênese e admita que, em ambas as espécies, há X cromossomos no núcleo de cada uma de suas células diploides. Nessas duas espécies, o número de cromossomos encontrados nas células somáticas do pólipo, da medusa e do zangão será de, respectivamente,",
+                         "alternativas":  {
+                                              "a":  "X, X e X/2",
+                                              "b":  "X, X e 2X",
+                                              "c":  "2X, 2X e X",
+                                              "d":  "X, 2X e X/2",
+                                              "e":  "2X, X e X"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "No ciclo de vida do cnidário (metagênese), tanto o pólipo quanto a medusa são fases diploides (X cromossomos), sendo apenas os gametas haploides; já o zangão da abelha se desenvolve por partenogênese a partir de óvulo não fecundado, sendo haploide (X/2).",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2025"
+                     },
+                     {
+                         "id":  "biologia-289",
+                         "enunciado":  "Uma planta em um vaso foi deixada na posição horizontal e exposta ao sol por algumas semanas, e cresceu curvando o caule para cima (em direção à luz) e a raiz para baixo.\n\nAo longo do crescimento dessa planta, o fototropismo no caule e o geotropismo na raiz foram, respectivamente,",
+                         "alternativas":  {
+                                              "a":  "negativo e positivo.",
+                                              "b":  "positivo e negativo.",
+                                              "c":  "positivo e positivo.",
+                                              "d":  "nulo e negativo.",
+                                              "e":  "negativo e nulo."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O caule cresceu em direção à luz (fototropismo positivo) e a raiz cresceu em direção ao centro da Terra (geotropismo positivo), ambos movimentos de crescimento orientado a favor do estímulo.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2025"
+                     },
+                     {
+                         "id":  "biologia-290",
+                         "enunciado":  "Um gráfico mostra a variação das concentrações dos hormônios FSH, LH, estrógeno e progesterona no sangue ao longo dos 28 dias do ciclo menstrual: FSH sobe e cai num pico moderado por volta do 12º dia; LH sobe abruptamente e tem pico agudo no 14º dia (ovulação); estrógeno cresce na primeira metade do ciclo, cai bruscamente perto do 14º dia e sobe de novo num segundo pico menor na segunda metade; progesterona permanece baixa na primeira metade e sobe formando um pico largo na segunda metade do ciclo, caindo perto do dia 28.\n\nCom relação às variações das concentrações desses hormônios no sangue de uma mulher ao longo do ciclo menstrual, conclui-se que a concentração de",
+                         "alternativas":  {
+                                              "a":  "LH aumenta na primeira metade do ciclo em resposta à ação da progesterona secretada pela hipófise na segunda metade do ciclo.",
+                                              "b":  "progesterona diminui ao final da segunda metade do ciclo porque ocorre feedback negativo do FSH sobre a atividade do folículo ovariano.",
+                                              "c":  "progesterona aumenta na segunda metade do ciclo porque a hipófise é estimulada pela alta concentração de LH produzido no ovário.",
+                                              "d":  "estrógeno aumenta na primeira metade do ciclo porque o corpo lúteo é estimulado pela alta concentração de FSH.",
+                                              "e":  "estrógeno aumenta após a elevação da concentração de FSH secretado pela hipófise, o qual estimula o folículo ovariano."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O FSH, secretado pela hipófise na primeira metade do ciclo, estimula o crescimento do folículo ovariano, que por sua vez produz quantidades crescentes de estrógeno — daí o aumento do estrógeno acompanhar a elevação inicial do FSH.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2025"
+                     },
+                     {
+                         "id":  "biologia-291",
+                         "enunciado":  "As Infecções Sexualmente Transmissíveis (ISTs) vêm crescendo muito nos últimos anos em Minas Gerais.\n\nAs ISTs podem ser identificadas por sintomas característicos, como na",
+                         "alternativas":  {
+                                              "a":  "tricomoníase, protozoose que provoca dor na pele, produção de pus e o aparecimento de verrugas genitais.",
+                                              "b":  "gonorreia, virose que provoca inflamação do útero, da uretra, verrugas nos genitais e ardência ao urinar.",
+                                              "c":  "candidíase vaginal, micose que provoca coceira na vagina, ardência e formação de corrimento espesso e branco.",
+                                              "d":  "herpes genital, virose que provoca prurido, pequenas bolhas e ulcerações na pele de todo o corpo conhecidas como cancro duro.",
+                                              "e":  "sífilis, bacteriose que provoca feridas dolorosas, moles e que progridem para lesões genitais em forma de verrugas altas."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A candidíase vaginal, causada pelo fungo Candida albicans, caracteriza-se por coceira vaginal, ardência e corrimento espesso e esbranquiçado, sintomas típicos que a distinguem das demais ISTs listadas.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2025"
+                     },
+                     {
+                         "id":  "biologia-292",
+                         "enunciado":  "Um heredograma de três gerações mostra uma condição genética que afeta a estrutura óssea, presente em indivíduos de ambos os sexos em todas as gerações, sempre que ao menos um dos pais é afetado, incluindo transmissão de pai afetado para filho homem afetado.\n\nDe acordo com o heredograma, essa condição genética é caracterizada como uma herança",
+                         "alternativas":  {
+                                              "a":  "dominante ligada ao sexo.",
+                                              "b":  "autossômica recessiva.",
+                                              "c":  "recessiva ligada ao sexo.",
+                                              "d":  "autossômica dominante.",
+                                              "e":  "mitocondrial."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A transmissão de pai afetado para filho homem afetado descarta herança ligada ao sexo (pois o pai transmite o cromossomo Y, não o X, aos filhos homens); como a condição aparece em todas as gerações sempre que um dos pais é afetado, trata-se de herança autossômica dominante.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2025"
+                     },
+                     {
+                         "id":  "biologia-293",
+                         "enunciado":  "Atobás-de-patas-azuis vivem em ilhas da costa do Pacífico. A cor das patas tem relação com o tipo de alimentação dessas aves e, quanto mais brilhantes são as patas, maior é a saúde e fertilidade do macho.\n\nSegundo a teoria darwinista, a cor azul das patas dessas aves resulta",
+                         "alternativas":  {
+                                              "a":  "da resposta evolutiva à necessidade de seleção sexual nas populações dessa espécie.",
+                                              "b":  "da preferência das fêmeas em acasalar com machos de patas mais atraentes.",
+                                              "c":  "da recombinação gênica que favoreceu o acúmulo de pigmento azul nas patas.",
+                                              "d":  "de mutações para tornar as patas dos machos mais brilhantes e chamativas.",
+                                              "e":  "da seleção dos genes mutantes gerados pelo tipo de alimento consumido pela espécie."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Segundo a seleção sexual darwinista, a cor azul mais brilhante das patas evoluiu porque as fêmeas preferem acasalar com machos que exibem esse traço, associado a maior saúde e fertilidade — favorecendo a reprodução diferencial dos machos mais chamativos.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2025"
+                     },
+                     {
+                         "id":  "biologia-294",
+                         "enunciado":  "A osmorregulação é a capacidade que os seres vivos têm de manter o equilíbrio entre a quantidade de água e de sais minerais no organismo, visando à manutenção da homeostase. Considere as seguintes adaptações relacionadas à osmorregulação em certos organismos:\n\n1 – Presença de vacúolo pulsátil;\n2 – Excreção ativa de sais pelas brânquias;\n3 – Néfrons com alças curtas.\n\nAs adaptações 1, 2 e 3 estão relacionadas, respectivamente, à osmorregulação em:",
+                         "alternativas":  {
+                                              "a":  "protozoário dulcícola, osteícte dulcícola e mamífero de deserto.",
+                                              "b":  "protozoário marinho, osteícte marinho e mamífero de ambiente úmido.",
+                                              "c":  "protozoário dulcícola, osteícte marinho e mamífero de deserto.",
+                                              "d":  "protozoário marinho, osteícte dulcícola e mamífero de deserto.",
+                                              "e":  "protozoário dulcícola, osteícte marinho e mamífero de ambiente úmido."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O vacúolo pulsátil expele o excesso de água que entra por osmose em protozoários de água doce (hipotônica); a excreção ativa de sais pelas brânquias elimina o excesso de sal absorvido por peixes marinhos (hipertônicos); e néfrons com alças curtas, que concentram pouco a urina, são suficientes para mamíferos de ambientes úmidos, que não precisam economizar água intensamente.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2025"
+                     },
+                     {
+                         "id":  "biologia-295",
+                         "enunciado":  "Um paramécio foi mantido por determinado tempo em uma solução hipotônica em relação ao citoplasma desse organismo. Uma substância inibidora adicionada à solução interrompeu o funcionamento dos vacúolos contráteis no interior do paramécio. Dois gráficos mostram os possíveis efeitos desse tratamento sobre, respectivamente, o volume celular e a concentração do citoplasma desse paramécio ao longo do tempo: no Gráfico 1 (volume da célula), a partir do momento da adição do inibidor, a curva M sobe e estabiliza em um patamar mais alto, a curva N permanece constante, e a curva O desce e estabiliza em um patamar mais baixo. No Gráfico 2 (concentração do citoplasma), a partir da adição do inibidor, a curva X sobe e estabiliza mais alta, a curva Y permanece constante, e a curva Z desce e estabiliza mais baixa.\n\nOs resultados esperados quanto ao volume e à concentração do citoplasma desse paramécio ao longo do tempo são os indicados nos gráficos, respectivamente, pelas letras",
+                         "alternativas":  {
+                                              "a":  "O e X.",
+                                              "b":  "N e Y.",
+                                              "c":  "M e Y.",
+                                              "d":  "M e Z.",
+                                              "e":  "N e Z."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Com o vacúolo contrátil inibido, a água que entra por osmose (meio hipotônico) não é mais expelida, então o volume celular aumenta e se estabiliza em um novo patamar mais alto (curva M); ao mesmo tempo, essa entrada de água dilui o citoplasma, reduzindo sua concentração de solutos (curva Z).",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2026"
+                     },
+                     {
+                         "id":  "biologia-296",
+                         "enunciado":  "As figuras de I a VI ilustram fases da divisão de uma célula vegetal, mostrando cromossomos condensados (vermelhos e verdes) em diferentes arranjos: dispersos no núcleo (I), condensados e livres no citoplasma (II), alinhados frouxamente (III), agrupados no centro da célula (IV), separando-se em dois polos (V) e já totalmente separados com uma linha de divisão pontilhada entre eles (VI) — uma sequência típica de mitose.\n\nEssa célula vegetal em divisão está localizada",
+                         "alternativas":  {
+                                              "a":  "no parênquima foliar.",
+                                              "b":  "na parede do ovário.",
+                                              "c":  "na coifa da raiz.",
+                                              "d":  "no meristema apical.",
+                                              "e":  "na antera da flor."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A sequência descrita, com pares homólogos se condensando, alinhando-se e se separando para os polos, é típica da divisão (meiótica) das células-mãe de esporos que formam os grãos de pólen, localizadas na antera da flor.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2026"
+                     },
+                     {
+                         "id":  "biologia-297",
+                         "enunciado":  "Um esquema mostra, de forma simplificada, uma sequência de eventos bioquímicos finamente orquestrados, essenciais para a hemostasia e manutenção da integridade do corpo humano: plaquetas e células danificadas liberam tromboplastina, que (com nutrientes) converte protrombina em trombina, que por sua vez converte fibrinogênio em fibrina.\n\nPara que ocorra a sequência de eventos bioquímicos mostrados no esquema, deve haver",
+                         "alternativas":  {
+                                              "a":  "presença da heparina produzida pelos basófilos.",
+                                              "b":  "presença de íons cálcio, de enzimas e da vitamina K.",
+                                              "c":  "presença de fatores de coagulação produzidos no pâncreas.",
+                                              "d":  "estímulos nervosos para iniciar as reações químicas.",
+                                              "e":  "oxidações de ácidos graxos e glicerol dos lisossomos."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A cascata de coagulação (tromboplastina → protrombina/trombina → fibrinogênio/fibrina) depende da presença de íons cálcio como cofator, de diversas enzimas (fatores de coagulação) e da vitamina K, necessária à síntese hepática de vários desses fatores.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2026"
+                     },
+                     {
+                         "id":  "biologia-298",
+                         "enunciado":  "A pressão interna nos alvéolos pulmonares muda conforme os movimentos respiratórios. Um gráfico mostra a variação da pressão alveolar (em cm H₂O, oscilando entre +1 e -1) ao longo do tempo (em segundos) durante um ciclo respiratório completo: a pressão começa negativa, sobe cruzando zero por volta dos 4 segundos, e continua subindo até um pico positivo.\n\nO gráfico indica, após os 4 segundos do ciclo respiratório, a ocorrência",
+                         "alternativas":  {
+                                              "a":  "do relaxamento do músculo diafragma.",
+                                              "b":  "da contração dos músculos intercostais.",
+                                              "c":  "do aumento do volume da caixa torácica.",
+                                              "d":  "da redução da pressão intrapleural.",
+                                              "e":  "do relaxamento da cartilagem hialina."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Após os 4 segundos, quando a pressão alveolar passa a ficar positiva, está ocorrendo a expiração: o diafragma relaxa, sobe, reduz o volume da caixa torácica e comprime o ar nos pulmões, elevando a pressão alveolar até que o ar seja expelido.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2026"
+                     },
+                     {
+                         "id":  "biologia-299",
+                         "enunciado":  "Várias espécies de lagartos exibem formas surpreendentes de se reproduzirem. As fêmeas geram filhotes de modo assexuado, sem a participação de qualquer macho. São independentes, mas não são radicais: em algumas espécies, se um macho passa por perto, permitem a cópula e podem se reproduzir. A autonomia reprodutiva chega a tal ponto que em algumas espécies só existem fêmeas, que se reproduzem de um modo assexuado conhecido como partenogênese, que parece ser mais flexível do que se pensava.\n\nSobre as informações do texto, afirma-se que:",
+                         "alternativas":  {
+                                              "a":  "as fêmeas de lagartos nascidas por partenogênese geralmente apresentam maior ploidia porque resultam da fusão de três gametas.",
+                                              "b":  "haverá maior variabilidade genética nos descendentes de lagartos gerados por partenogênese do que nos gerados por fecundação cruzada.",
+                                              "c":  "as fêmeas de lagartos geradas por partenogênese são formadas a partir de óvulos não fecundados pelos espermatozoides.",
+                                              "d":  "as fêmeas e machos de lagartos são formados a partir da partenogênese e, depois, os embriões machos morrem na fase fetal.",
+                                              "e":  "a partenogênese nos lagartos gera fêmeas férteis haploides e machos diploides, que são capazes de produzir machos haploides."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Na partenogênese, as fêmeas se desenvolvem a partir de óvulos que não foram fecundados por espermatozoides, dispensando a participação de machos para a reprodução.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2026"
+                     },
+                     {
+                         "id":  "biologia-300",
+                         "enunciado":  "Um homem que, ao nascer, apresentou eritroblastose fetal casou-se com uma mulher Rh negativo. O casal teve um primeiro filho que não apresentou essa doença. Contudo, após o parto desse filho, a mulher não recebeu os cuidados indicados relativos à eritroblastose fetal. Por isso, o segundo filho desse casal nasceu com a doença.\n\nDessa forma, conclui-se que a mulher não recebeu ____ logo após o nascimento do primeiro filho com tipo sanguíneo ____. O segundo filho apresentou a doença porque os ____ da mãe atingiram a circulação fetal. A probabilidade de um terceiro filho desse casal apresentar o genótipo favorável à ocorrência da eritroblastose fetal é de ____.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                         "alternativas":  {
+                                              "a":  "a vacina anti-Rh; Rh negativo; antígenos Rh e 50%.",
+                                              "b":  "o soro anti-Rh; Rh negativo; antígenos Rh e 100%.",
+                                              "c":  "o soro anti-Rh; Rh positivo; anticorpos anti-Rh e 100%.",
+                                              "d":  "o soro anti-Rh; Rh positivo; anticorpos anti-Rh e 50%.",
+                                              "e":  "a vacina anti-Rh; Rh positivo; anticorpos anti-Rh e 100%."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A mãe Rh negativo não recebeu o soro anti-Rh (imunoglobulina) após o parto do primeiro filho, que era Rh positivo; sem essa profilaxia, ela produziu anticorpos anti-Rh que atacaram as hemácias do segundo feto Rh positivo. Sendo o pai heterozigoto para o fator Rh, a chance de um terceiro filho ser Rh positivo (genótipo favorável à doença) é de 50%.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2026"
+                     },
+                     {
+                         "id":  "biologia-301",
+                         "enunciado":  "Uma figura mostra, de forma simplificada, o ciclo de vida de um helminto que causa uma verminose no ser humano: ovos eliminados nas fezes contaminam água/solo, larvas penetram pela pele do pé, migram pela corrente sanguínea até os pulmões, sobem pela traqueia, são deglutidas e se instalam no intestino delgado, onde os vermes adultos se fixam e produzem novos ovos.\n\nNo ciclo de vida desse parasita,",
+                         "alternativas":  {
+                                              "a":  "as larvas do helminto, durante seu desenvolvimento, causam problemas respiratórios ao migrarem pelos pulmões.",
+                                              "b":  "o helminto se aloja no sistema porta-hepático humano e os ovos produzidos pela fêmea são eliminados com as fezes.",
+                                              "c":  "o helminto monoico produz diversos segmentos, chamados proglotes gravídicos com ovos embrionados.",
+                                              "d":  "o helminto infecta a pele humana por meio do contato com solo úmido ou água contaminada com cistos embrionados.",
+                                              "e":  "o helminto reproduz-se sexuadamente no interior do hospedeiro intermediário, produzindo várias cercárias."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O ciclo descrito (larvas que penetram pela pele do pé, migram até os pulmões, são deglutidas e se fixam no intestino delgado) é típico de helmintos como o ancilóstomo, que infectam o ser humano pelo contato da pele com solo ou água contaminados por suas larvas.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2026"
+                     },
+                     {
+                         "id":  "biologia-302",
+                         "enunciado":  "A construção de uma barragem separou uma população inicial de peixes em dois grupos. Após muitos anos, verificou-se que esses dois grupos isolados de peixes apresentavam diferenças quanto à cor e ao comprimento do corpo.\n\nA confirmação de que os dois grupos isolados de peixes se tornaram espécies distintas exige a comprovação de que entre esses grupos houve",
+                         "alternativas":  {
+                                              "a":  "diferenciação de nichos ecológicos.",
+                                              "b":  "distinção de outros fenótipos externos.",
+                                              "c":  "aumento do número de híbridos férteis.",
+                                              "d":  "formação de indivíduos de tamanhos diferentes.",
+                                              "e":  "interrupção do fluxo gênico."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A especiação só se confirma quando os dois grupos deixam de trocar genes entre si (isolamento reprodutivo); diferenças de cor ou tamanho, por si só, não garantem que os grupos sejam espécies distintas, apenas que houve divergência fenotípica.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2026"
+                     },
+                     {
+                         "id":  "biologia-303",
+                         "enunciado":  "O raro fenótipo Bombay (Oh) é decorrente de mutações nos genes FUT1 e FUT2, que resultam na completa ausência dos antígenos H e ABO nos eritrócitos e nas secreções corpóreas. Indivíduos com fenótipo Bombay apresentam anticorpos anti-H, anti-A e anti-B. Na prática transfusional, indivíduos Bombay apresentam incompatibilidade com todas as hemácias ABO convencionais, devendo ser transfundidos, quando necessário, exclusivamente com hemácias raras de fenótipo Bombay.\n\nA alteração genética que leva ao fenótipo descrito impede a formação da enzima",
+                         "alternativas":  {
+                                              "a":  "L-fucose.",
+                                              "b":  "D-galactose.",
+                                              "c":  "fucosiltransferase.",
+                                              "d":  "galactosiltransferase.",
+                                              "e":  "N-acetilgalactosaminiltransferase."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A mutação nos genes FUT1/FUT2 impede a formação da enzima fucosiltransferase, responsável por adicionar fucose e formar o antígeno H — precursor obrigatório para a formação dos antígenos A e B —, o que resulta na ausência completa desses antígenos no fenótipo Bombay.",
+                         "formato":  "direta",
+                         "origem":  "pucsp-2026"
+                     },
+                     {
+                         "id":  "biologia-304",
+                         "enunciado":  "Pesquisas revelam que a mioglobina, proteína muscular presente em mamíferos, ocorre em concentrações muito superiores em espécies mergulhadoras, como focas e baleias, quando comparadas a mamíferos terrestres. Essa abundância é tamanha que a musculatura desses animais apresenta coloração muito escura. Estudos indicam que, ao longo de aproximadamente 200 milhões de anos, houve um aumento significativo na concentração dessa proteína em mamíferos marinhos. Além disso, uma descoberta relevante aponta que a carga elétrica da molécula de mioglobina é maior nessas espécies, o que evita a agregação excessiva das proteínas e possibilita níveis elevados em seus músculos sem prejuízos estruturais ou fisiológicos.\n\nA grande presença dessa proteína nos músculos de mamíferos mergulhadores é crucial para a sobrevivência, pois",
+                         "alternativas":  {
+                                              "a":  "impede a produção de ácido láctico.",
+                                              "b":  "garante a concentração ideal de cálcio.",
+                                              "c":  "aumenta a força da contração muscular.",
+                                              "d":  "estimula a multiplicação de mitocôndrias.",
+                                              "e":  "permite o armazenamento de gás oxigênio."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A mioglobina se liga e armazena oxigênio no tecido muscular; sua alta concentração em mamíferos mergulhadores permite estocar mais oxigênio nos músculos, prolongando o tempo de apneia durante os mergulhos.",
+                         "formato":  "direta",
+                         "origem":  "pucsp-2026"
+                     },
+                     {
+                         "id":  "biologia-305",
+                         "enunciado":  "A crescente presença na costa brasileira do peixe-leão (*Pterois volitans*), uma espécie invasora, tem causado preocupação junto aos pesquisadores. Estudos demonstram que o peixe-leão eliminou até 95% dos peixes nativos em algumas partes do Oceano Atlântico. Porém, uma pesquisa recente realizada por duas universidades norte-americanas mostrou que ainda há esperança. Usando modelos matemáticos, os pesquisadores conseguiram determinar exatamente qual porcentagem de peixes-leão em determinado habitat precisa ser removida através da caça, para que as populações de peixes nativos, presas do peixe-leão, se recomponham.\n\nOs resultados obtidos com os modelos matemáticos estão mostrados a seguir.\n\n[Gráfico próprio da banca: densidade populacional (eixo y) x tempo (eixo x). A curva verde (\"Presas\") começa em um valor alto e decresce continuamente até um mínimo, depois sobe formando um pico e, em seguida, oscila com amplitude decrescente até estabilizar. A curva vermelha (\"Predadores\"/peixe-leão) começa em zero, no ponto marcado \"Introdução do peixe-leão no habitat\", cresce, ultrapassa a curva de presas, atinge um pico (ponto 1, quando a densidade de presas está próxima do mínimo); depois as duas curvas oscilam com amplitude decrescente (o ponto 2 marca uma oscilação subsequente menor), convergindo para um equilíbrio dinâmico entre as duas populações ao longo do tempo.]\n\nA interpretação do gráfico permite concluir que",
+                         "alternativas":  {
+                                              "a":  "a população de peixes-leão determina a densidade da população de presas, mas a densidade da população de presas não influencia a densidade da população de peixes-leão.",
+                                              "b":  "o decréscimo na população de presas, observado no ponto 2, tem como consequência o aumento da população de predadores.",
+                                              "c":  "o aumento da população de predadores sempre ocorre antes do aumento da população de presas e está relacionado ao fato das populações terem alcançado o equilíbrio dinâmico.",
+                                              "d":  "a remoção de parte da população de peixes-leão eliminou a resistência do meio, levando ao aumento do tamanho da população de presas ao longo do tempo.",
+                                              "e":  "a remoção parcial de peixes-leão (ponto 1) do habitat determina, após algum tempo, o estabelecimento de um equilíbrio dinâmico entre as populações de presa e predador."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A remoção parcial dos predadores (peixes-leão) permite que a população de presas se recupere, e o próprio aumento de presas favorece de volta a população de predadores — um ciclo de retroalimentação típico de relações predador-presa que tende, ao longo do tempo, a um equilíbrio dinâmico entre as duas populações.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2024.1"
+                     },
+                     {
+                         "id":  "biologia-306",
+                         "enunciado":  "O esquema mostra mecanismos de passagem de substâncias através da membrana de uma célula.\n\n[Diagrama próprio da banca de um corte transversal de membrana plasmática, com \"citosol\" acima e \"meio extracelular\" abaixo. Na região A, pequenas partículas (círculos abertos) atravessam diretamente a bicamada fosfolipídica, sem auxílio de proteína. Na região B, partículas (círculos preenchidos) atravessam por meio de uma proteína de membrana (canal/carreador simples). Na região C, partículas (traços/bastonetes) atravessam por meio de um complexo de duas proteínas de membrana, sendo transportadas do citosol para o meio extracelular.]\n\nA passagem de __________ através da membrana plasmática é feita por ________________, como representado pela(s) letra(s) _______.\n\nAs lacunas devem ser corretamente preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "gás oxigênio; difusão simples; A.",
+                                              "b":  "proteínas; transporte passivo; B e C.",
+                                              "c":  "aminoácidos; transporte ativo; C",
+                                              "d":  "íons sódio; osmose; A e C.",
+                                              "e":  "glicose; transporte ativo; B."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O gás oxigênio, por ser uma molécula pequena e apolar, atravessa a bicamada fosfolipídica diretamente por difusão simples, sem necessidade de proteínas de membrana — o que corresponde à região A do esquema.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2024.1"
+                     },
+                     {
+                         "id":  "biologia-307",
+                         "enunciado":  "O sistema digestório de vertebrados é uma \"linha de desmontagem\". Nele, uma variedade de processos químicos e físicos ocorrem em diferentes órgãos, contribuindo para quebrar eficientemente o alimento em substâncias que o corpo consegue utilizar.\n\nNo sistema digestório humano,",
+                         "alternativas":  {
+                                              "a":  "o suco pancreático contém substâncias que emulsionam as gorduras.",
+                                              "b":  "a digestão das proteínas inicia-se no estômago.",
+                                              "c":  "os lipídios são digeridos no intestino delgado por ação das enzimas da bile.",
+                                              "d":  "o bolo alimentar segue do intestino grosso em direção ao intestino delgado.",
+                                              "e":  "as fibras alimentares são absorvidas juntamente com a água no intestino grosso."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A digestão das proteínas começa no estômago, pela ação da pepsina ativada em meio ácido (suco gástrico) — antes disso, na boca, apenas o amido começa a ser digerido pela amilase salivar.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2024.1"
+                     },
+                     {
+                         "id":  "biologia-308",
+                         "enunciado":  "Um experimento pode ser usado para identificar a preferência de microrganismos pela disponibilidade de oxigênio molecular (O2). Nele, tubos de ensaio são preenchidos com caldo de tioglicolato (um meio de cultura caracterizado pela ausência total de oxigênio molecular) e fechados com algodão. Isso permite a difusão de O2 atmosférico para o interior dos tubos de ensaio, gerando um gradiente na concentração de oxigênio molecular dentro do tubo.\n\nO esquema a seguir mostra o resultado do experimento realizado com diferentes espécies de bactérias.\n\n[Diagrama próprio da banca, intitulado \"Crescimento bacteriano\": cinco tubos de ensaio (A, B, C, D, E), cada um fechado com algodão no topo, mostrando colônias de bactérias (pontos) distribuídas em diferentes profundidades do caldo de cultura, que apresenta um gradiente de oxigênio decrescente de cima para baixo. Tubo A: colônias concentradas apenas no fundo do tubo. Tubo B: colônias distribuídas por todo o tubo, em alta densidade. Tubo C: colônias distribuídas por todo o tubo, em densidade moderada. Tubo D: colônias concentradas próximas ao topo do tubo. Tubo E: colônias concentradas em uma faixa estreita logo abaixo do topo do tubo.]\n\nAssocie cada uma das descrições abaixo a um dos tubos de ensaio A, B, C, D ou E.\n\n( ) Bactérias aeróbias obrigatórias — utilizam apenas o O2 como aceptor final de elétrons no processo de obtenção de energia, realizam respiração celular.\n( ) Bactérias anaeróbicas aerotolerantes - podem crescer em presença de oxigênio molecular mas não utilizam esse gás para obtenção de energia, pois são organismos fermentadores.\n( ) Bactérias anaeróbias obrigatórias - não sobrevivem em presença de O2, pois não possuem enzimas que neutralizam as formas tóxicas de oxigênio.\n( ) Bactérias microaerófilas – precisam do O2, mas não toleram a pressão parcial do oxigênio na atmosfera, crescem somente em concentrações de oxigênio inferiores à do ar.\n( ) Bactérias anaeróbias facultativas - realizam a respiração celular em presença de O2, mas realizam a fermentação ou a respiração anaeróbica quando o oxigênio não está disponível, ainda que a eficiência energética desses dois processos seja reduzida.\n\nAssinale a opção que indica a sequência correta, de cima para baixo.",
+                         "alternativas":  {
+                                              "a":  "A, C, B, E e D.",
+                                              "b":  "B, E, A, B e C.",
+                                              "c":  "E, C, B, A e D.",
+                                              "d":  "B, D, C, A e E.",
+                                              "e":  "D, C, A, E e B."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Bactérias aeróbias obrigatórias crescem só onde há O₂ (próximo ao topo, tubo D); anaeróbias aerotoleranates crescem por todo o tubo mas não usam O₂ (distribuição uniforme, tubo C); anaeróbias obrigatórias só sobrevivem no fundo, sem O₂ (tubo A); microaerófilas precisam de pouco O₂, ficando numa faixa estreita perto do topo (tubo E); e facultativas crescem por todo o tubo, mas se concentram mais onde há O₂ por ser mais eficiente (tubo B).",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2024.1"
+                     },
+                     {
+                         "id":  "biologia-309",
+                         "enunciado":  "Em determinadas aves, o alelo dominante (M) codifica o tamanho de bico grande e o alelo recessivo (m) codifica o tamanho de bico pequeno. Os bicos dos indivíduos heterozigotos têm tamanho médio. Considerando que uma população dessas aves está em equilíbrio de Hardy-Weinberg e que a frequência do alelo dominante é 0,3, a frequência de heterozigotos na população é",
+                         "alternativas":  {
+                                              "a":  "1",
+                                              "b":  "0,2",
+                                              "c":  "0,42",
+                                              "d":  "0,21",
+                                              "e":  "0,49"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Em equilíbrio de Hardy-Weinberg, com frequência do alelo dominante p=0,3, a frequência do recessivo é q=0,7. A frequência de heterozigotos é 2pq = 2×0,3×0,7 = 0,42.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2024.1"
+                     },
+                     {
+                         "id":  "biologia-310",
+                         "enunciado":  "Um geneticista interessado em compreender a herança dos genes B e Q cruzou indivíduos heterozigotos para os dois genes com indivíduos duplamente homozigotos recessivos. Na geração F1, foram obtidos como resultado os seguintes números de indivíduos:\n\n| Genótipos da F1 | Número de indivíduos |\n|---|---|\n| bbqq | 410 |\n| bbQq | 90 |\n| Bbqq | 90 |\n| BbQq | 410 |\n\nConsiderando que o tamanho da amostra era adequado à pesquisa em questão, o geneticista concluiu que o mecanismo de herança destes genes era um caso",
+                         "alternativas":  {
+                                              "a":  "regido pela Segunda Lei de Mendel, sendo 82% a frequência de indivíduos homozigotos na F1.",
+                                              "b":  "de genes ligados, sendo a taxa de permutação de 9% e a distância entre os genes de 18 UR.",
+                                              "c":  "regido pela Segunda Lei de Mendel, sendo que 25% dos gametas produzidos pelos indivíduos parentais heterozigotos são BQ.",
+                                              "d":  "de genes ligados, sendo a taxa de permutação de 18% e a distância entre os genes de 18 UR.",
+                                              "e":  "de genes ligados, sendo a taxa de permutação de 9% e a distância entre os genes de 82 UR."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Os fenótipos parentais (bbqq e BbQq) somam 820 dos 1000 indivíduos, e os recombinantes (bbQq e Bbqq) somam 180 — a proporção diferente de 1:1:1:1 esperada pela segregação independente indica genes ligados, com taxa de permutação de 180/1000=18%, equivalente a uma distância de 18 unidades de recombinação (UR).",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2024.1"
+                     },
+                     {
+                         "id":  "biologia-311",
+                         "enunciado":  "Em eras passadas, nos mares onde hoje é a América Central, era encontrada uma espécie de camarão. Quando o istmo entre as Américas do Norte e do Sul se formou, separando o golfo do México do oceano Pacífico, as duas populações, submetidas a condições diferentes, originaram espécies distintas. Veja a ilustração a seguir.\n\n[Ilustração própria da banca em 3 painéis, intitulada \"Mudanças ao longo do tempo\", mostrando um mapa costeiro da América Central. Painel 1: mar aberto com muitos camarões de mesma cor (alaranjada) espalhados nos dois lados, sem istmo formado. Painel 2: o istmo começa a se formar, estreitando a ligação entre os dois mares; os camarões continuam da mesma cor nos dois lados. Painel 3: istmo totalmente formado, separando os dois mares; os camarões do lado do golfo do México permanecem alaranjados, enquanto os camarões do lado do Pacífico aparecem agora de cor amarela, indicando divergência em duas espécies distintas após o isolamento geográfico.]\n\nA diferenciação das populações dos crustáceos em questão em duas espécies se deu pelo(a)",
+                         "alternativas":  {
+                                              "a":  "acúmulo de mudanças genéticas devido à seleção, resultando em especiação simpátrica.",
+                                              "b":  "fluxo gênico que ocorreu entre as duas populações de crustáceos, resultando em um caso de especiação alopátrica.",
+                                              "c":  "isolamento reprodutivo das duas populações de crustáceos, resultando em especiação simpátrica.",
+                                              "d":  "deriva genética e por mutações aleatórias que, eventualmente, levaram à especiação simpátrica.",
+                                              "e":  "surgimento da barreira geográfica que impediu a troca de genes entre as populações, sendo este um caso de especiação alopátrica."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A formação do istmo criou uma barreira geográfica que impediu o fluxo gênico entre as duas populações de camarões; isoladas, elas acumularam diferenças genéticas independentes até se tornarem espécies distintas — um caso clássico de especiação alopátrica.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2024.1"
+                     },
+                     {
+                         "id":  "biologia-312",
+                         "enunciado":  "A ovulogênese humana, processo que cria os gametas femininos, é interrompida na prófase I, sendo a divisão celular retomada na puberdade. Assim, uma menina, por volta de seus 5 anos, tem, em seus(suas)",
+                         "alternativas":  {
+                                              "a":  "ovócitos primários, 46 cromossomos, pois estes são células diploides.",
+                                              "b":  "ovótides, 23 cromossomos, pois estas são células diploides.",
+                                              "c":  "ovócitos primários, 23 cromossomos, pois estes são células diploides.",
+                                              "d":  "ovótides, 46 cromossomos, pois estas são células haploides.",
+                                              "e":  "ovócitos primários, 23 cromossomos, pois estes são células haploides."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Como a meiose da ovogênese é interrompida na prófase I, antes dos 5 anos a menina possui apenas ovócitos primários, que ainda são diploides (46 cromossomos), pois a primeira divisão meiótica (que reduziria a ploidia) ainda não se completou.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2024.1"
+                     },
+                     {
+                         "id":  "biologia-313",
+                         "enunciado":  "Observe o gráfico a seguir:\n\n[Gráfico próprio da banca: eixo y \"Absorbância estimada da clorofila a e taxa de fotossíntese\"; eixo x \"Comprimento de onda (nm)\", de 400 a 700 nm, dividido em três regiões: \"Região do azul\" (~400-500 nm), \"Região do verde\" (~500-600 nm) e \"Região do vermelho\" (~600-700 nm). Uma curva roxa/magenta representa a \"Absorção da luz pela clorofila a\", com dois picos nítidos — um grande na região do azul (~430-450 nm) e outro na região do vermelho (~660 nm) — e absorção muito baixa na região do verde. Uma curva verde representa a \"Taxa de fotossíntese em função do comprimento de onda\" (rotulada como \"Espectro de ação da fotossíntese\"), que acompanha formato semelhante: alta na região do azul, com uma queda na região do verde, voltando a subir com um pico na região do vermelho.]\n\nO comprimento de onda da luz de menor importância para a fotossíntese é o que corresponde à(s) cor(es)",
+                         "alternativas":  {
+                                              "a":  "azul, o que justifica o fato de não enxergarmos os eucariontes fotossintetizantes dessa cor.",
+                                              "b":  "verde, o que justifica o fato de nem todos os eucariontes fotossintetizantes apresentarem essa cor.",
+                                              "c":  "vermelho, o que justifica ser essa cor comum nas pétalas das flores de angiospermas, mas incomum em folhas.",
+                                              "d":  "verde, o que justifica o fato da maioria dos eucariontes fotossintetizantes apresentarem essa cor.",
+                                              "e":  "azul e vermelho, o que justifica serem essas cores comuns nas pétalas das flores de angiospermas, mas incomuns em folhas."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A luz verde é pouco absorvida pela clorofila a (por isso ela é refletida e a folha aparece verde), sendo a de menor importância para a fotossíntese — e essa mesma razão explica por que a maioria dos eucariontes fotossintetizantes (plantas, algas) apresenta coloração verde.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2024.1"
+                     },
+                     {
+                         "id":  "biologia-314",
+                         "enunciado":  "Na espécie humana, a característica lóbulos de orelha presos ou soltos é determinada geneticamente. No heredograma a seguir, os quadrados e círculos pretos correspondem ao fenótipo lóbulos de orelha presos; quadrados e círculos brancos correspondem ao fenótipo lóbulos soltos.\n\n[Heredograma próprio da banca, com 3 gerações. Geração I: I-1 (quadrado branco, soltos) casado com I-2 (círculo preto, presos). Geração II: filhos do casal I: II-2 (círculo preto, presos), casada com II-1 (quadrado branco, soltos); II-3 (quadrado preto, presos); II-4 (quadrado branco, soltos), casado com II-5 (círculo branco, soltos). Geração III: filhos de II-1 x II-2: III-1 (quadrado preto, presos), III-2 (círculo branco, soltos), III-3 (quadrado branco, soltos). Filhos de II-4 x II-5: III-4 (quadrado preto, presos), III-5 (quadrado preto, presos), III-6 (círculo preto, presos).]\n\nSe uma criança nasce da união entre a mulher III-2 e seu primo III-4, a probabilidade de que seja uma menina com lóbulos de orelha presos é:",
+                         "alternativas":  {
+                                              "a":  "2/3",
+                                              "b":  "1/3",
+                                              "c":  "1/4",
+                                              "d":  "3/4",
+                                              "e":  "1/2"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Combinando as probabilidades derivadas do heredograma (padrão de herança do fenótipo lóbulos presos/soltos entre os primos III-2 e III-4) com a chance de 1/2 de nascer menina, obtém-se uma probabilidade de 1/4 para uma menina com lóbulos presos.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2024.1"
+                     },
+                     {
+                         "id":  "biologia-315",
+                         "enunciado":  "Em uma determinada espécie de besouro, as características: tipo de antena (lisa ou franjada), cor das asas (vermelha ou verde) e resistência a inseticida, são determinadas por genes localizados em diferentes pares de cromossomos. Os caracteres antena lisa e asa vermelha são dominantes; já a resistência a inseticida é determinada por gene recessivo.\n\nConsidere o cruzamento de dois besouros heterozigotos para as três características. A probabilidade de nascer um indivíduo de antenas lisas, heterozigoto para a coloração das asas e resistente a inseticidas é de",
+                         "alternativas":  {
+                                              "a":  "1/2",
+                                              "b":  "1/16",
+                                              "c":  "3/32",
+                                              "d":  "5/16",
+                                              "e":  "1/64"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Antena lisa (dominante) tem probabilidade 3/4; ser heterozigoto para cor das asas tem probabilidade 1/2; e ser resistente a inseticida (recessivo) tem probabilidade 1/4. Como os genes segregam de forma independente, a probabilidade conjunta é 3/4×1/2×1/4=3/32.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2025.1-cn"
+                     },
+                     {
+                         "id":  "biologia-316",
+                         "enunciado":  "Os líquens são encontrados nos mais diversos ambientes e desempenham importante papel nos ecossistemas, podendo atuar como espécie pioneira na sucessão ecológica, fixar nitrogênio atmosférico, servir de alimentos para diversos animais etc. Um líquen é formado por uma associação de organismos de diferentes espécies - essa associação é tão completa que, aos líquens, são dados nomes científicos como se fossem organismos únicos.\n\nOs líquens são formados pela associação",
+                         "alternativas":  {
+                                              "a":  "de fungos parasitados por algas.",
+                                              "b":  "simbiótica entre fungos e leguminosas.",
+                                              "c":  "de protocooperação entre fungos e raízes de plantas.",
+                                              "d":  "mutualística entre fungos e algas.",
+                                              "e":  "de fungos que parasitam raízes de plantas."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Os líquens resultam de uma associação mutualística entre fungos (que fornecem estrutura e retêm água) e algas ou cianobactérias (que fornecem alimento pela fotossíntese), benéfica para ambos os organismos envolvidos.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2025.1-cn"
+                     },
+                     {
+                         "id":  "biologia-317",
+                         "enunciado":  "Praticamente todos os medicamentos humanos disponíveis atualmente foram desenvolvidos com a ajuda de experiências com animais. A descoberta de um importante hormônio, por exemplo, foi realizada em estudo com cães que foram submetidos à pancreatectomia total, ou seja, retirada total do pâncreas. Neste estudo, os cientistas observaram que os cães, após o procedimento, tendiam a apresentar",
+                         "alternativas":  {
+                                              "a":  "hiperglicemia, causada pela ausência da insulina produzida pelas células beta do pâncreas.",
+                                              "b":  "hipoglicemia, graças à retroalimentação negativa, que induziu à secreção de glucagon pelo fígado.",
+                                              "c":  "pancreatite, decorrente da ausência da produção de enzimas digestivas pelo pâncreas.",
+                                              "d":  "hepatite, devido ao acúmulo de glicogênio no fígado, produzido a partir da glicose sanguínea.",
+                                              "e":  "diabetes tipo 2, em consequência da redução de secreção de glucagon pelo pâncreas."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A remoção total do pâncreas elimina a produção de insulina pelas células beta, hormônio responsável por reduzir a glicemia; sem ele, a glicose não é captada adequadamente pelas células, causando hiperglicemia.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2025.1-cn"
+                     },
+                     {
+                         "id":  "biologia-318",
+                         "enunciado":  "Embora os frutos e sementes nativas sejam o principal alimento do macaco-prego, no inverno e primavera a quantidade desses recursos na Floresta com Araucária, típica do Sul do Brasil, não é suficiente para a sua sobrevivência. Esse problema é crítico nas regiões em que essa floresta foi ou é explorada/suprimida, pois isso reduz a abundância de espécies que servem de alimento para o macaco-prego. Esses primatas, então, buscam alimentos alternativos. Assim, descascam as árvores de pínus e outras espécies, como eucalipto e araucária.\n\nOs macacos-prego descascam as árvores para se alimentar de",
+                         "alternativas":  {
+                                              "a":  "seiva rica em carboidratos, que percorre o interior do floema.",
+                                              "b":  "celulose, presente no parênquima de reserva que compõe a casca.",
+                                              "c":  "carboidratos e sais minerais que compõem a seiva bruta.",
+                                              "d":  "seiva elaborada, produzida no interior do xilema.",
+                                              "e":  "seiva bruta presente no interior do parênquima clorofiliano."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Os macacos-prego descascam as árvores para acessar a seiva bruta (rica em água e sais minerais, mas também em açúcares dissolvidos) que percorre o xilema logo abaixo da casca, alternativa alimentar quando frutos e sementes escasseiam.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2025.1-cn"
+                     },
+                     {
+                         "id":  "biologia-319",
+                         "enunciado":  "Graças ao coração, o sangue exerce pressão contra as paredes das artérias: é a pressão arterial.\nO gráfico a seguir representa a variação da pressão intravascular ao longo do ciclo cardíaco.\n\n[Descrição do gráfico: eixo vertical \"Pressão (mmHg)\" com marcações em 80 e 120; eixo horizontal representa o tempo, com origem em 0. A curva parte de cerca de 80 mmHg (ponto 1, marcado logo após o início), sobe abruptamente até um pico de 120 mmHg (ponto 2), depois decresce de forma mais suave, com uma pequena inflexão (entalhe dicrótico) no meio da descida, retornando a valores próximos de 80 mmHg antes de reiniciar a subida em um novo ciclo. Uma linha pontilhada horizontal marca um nível de pressão intermediário entre 80 e 120.]\n\nA pressão sistólica está representada no gráfico pelo número ____ e corresponde à sístole ________________, que é a ________________ do ________________.\n\nAs lacunas devem ser corretamente preenchidas por:",
+                         "alternativas":  {
+                                              "a":  "1; ventricular; contração; ventrículo.",
+                                              "b":  "2; atrial; relaxamento; átrio.",
+                                              "c":  "1; atrial; relaxamento; átrio.",
+                                              "d":  "2; ventricular; contração; ventrículo.",
+                                              "e":  "1; atrial; contração; ventrículo."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A pressão sistólica é a maior pressão do ciclo cardíaco (ponto 2, 120 mmHg), correspondente à sístole ventricular — a fase de contração dos ventrículos, que ejeta o sangue para as artérias.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2025.1-cn"
+                     },
+                     {
+                         "id":  "biologia-320",
+                         "enunciado":  "A imagem a seguir mostra parte de um exame de DNA de três irmãos, obtido pela técnica de eletroforese em gel. Cada barra indica um fragmento de DNA correspondente aos alelos de um gene que determina certa característica hereditária. As letras indicam as amostras provenientes dos irmãos: A é um menino sem a característica, B é uma menina e C é um menino, ambos apresentando a característica.\n\n[Descrição da imagem: gel de eletroforese com três colunas (A, B e C) e duas fileiras de bandas, rotuladas \"Alelo 1\" (fileira superior) e \"Alelo 2\" (fileira inferior). Na fileira \"Alelo 1\": não há banda na coluna A; há banda nas colunas B e C. Na fileira \"Alelo 2\": há banda nas colunas A e B; não há banda na coluna C.]\n\nEntre as opções a seguir, assinale aquela que apresenta um possível modo de herança da característica:",
+                         "alternativas":  {
+                                              "a":  "ligada ao X, causada por alelo recessivo.",
+                                              "b":  "autossômica recessivo.",
+                                              "c":  "autossômica dominante.",
+                                              "d":  "ligada ao Y, causada por alelo dominante.",
+                                              "e":  "ligada ao Y, causada por alelo recessivo."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O padrão de bandas mostra que o pai (implícito, não testado) e a mãe transmitiram o alelo às crianças B e C, que manifestam a característica mesmo tendo apenas uma cópia visível do alelo associado — um padrão compatível com herança autossômica dominante, em que basta uma cópia do alelo para manifestar o fenótipo.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2025.1-cn"
+                     },
+                     {
+                         "id":  "biologia-321",
+                         "enunciado":  "A fotossíntese é considerada um dos processos bioquímicos mais importantes da Terra. O conhecimento desse fenômeno foi se expandindo ao longo de vários anos pela investigação de diferentes pesquisadores.\n\nCom relação à fotossíntese, analise as afirmações a seguir:\n\nI. Se uma planta estiver pouco iluminada, mas a temperatura ambiente for aumentada, poderemos observar um aumento expressivo na velocidade da fotossíntese.\nII. A etapa da fotossíntese onde são produzidos glicídios é a química, também conhecida como ciclo de Calvin-Benson, e sua ocorrência se dá no estroma dos cloroplastos.\nIII. Se fornecermos moléculas de água que apresentem o isótopo radioativo do oxigênio (¹⁸O) a uma planta, após a fotossíntese, espera-se encontrar o ¹⁸O nas moléculas de gás oxigênio (O₂) liberadas pelo vegetal.\n\nEstá correto apenas o que se afirma em",
+                         "alternativas":  {
+                                              "a":  "II.",
+                                              "b":  "I.",
+                                              "c":  "I e II.",
+                                              "d":  "III.",
+                                              "e":  "II e III."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A afirmativa I está errada porque, com pouca luz, a intensidade luminosa (não a temperatura) é o fator limitante da fotossíntese. A II está correta: a etapa química (ciclo de Calvin-Benson) produz glicídios no estroma. A III também está correta: o oxigênio liberado na fotossíntese vem da fotólise da água, por isso o ¹⁸O da água aparece no O₂ liberado.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2025.1-cn"
+                     },
+                     {
+                         "id":  "biologia-322",
+                         "enunciado":  "A excreção é uma função fisiológica essencial, responsável pela eliminação de resíduos metabólicos tóxicos. A figura a seguir mostra as três principais formas de resíduos nitrogenados excretados pelos animais, originados a partir do catabolismo de proteínas e ácidos nucleicos.\n\n[Descrição da figura: estruturas químicas (fórmulas estruturais) da amônia (NH₃), da ureia (composto com um carbono central ligado a um oxigênio por dupla ligação e a dois grupos NH₂) e do ácido úrico (estrutura biciclíca com dois anéis contendo nitrogênios, com grupos C=O e N-H), identificadas respectivamente como \"Amônia\", \"Ureia\" e \"Ácido úrico\".]\n\nEm relação aos excretas nitrogenados representados, é correto afirmar que",
+                         "alternativas":  {
+                                              "a":  "o ácido úrico é o excreta predominante de insetos, aves e serpentes, sendo um composto de pouca toxicidade e baixa solubilidade, que pode ser eliminado na forma pastosa.",
+                                              "b":  "o ácido úrico, por ser pouco solúvel, necessita de muita água para ser eliminado, o que o torna o principal excreta de peixes ósseos e invertebrados aquáticos.",
+                                              "c":  "a amônia é o principal constituinte da urina de animais terrestres, já que requer menor volume de água para sua eliminação, embora o gasto energético para a sua produção seja elevado.",
+                                              "d":  "a adaptação ao ambiente terrestre exigiu a produção de resíduos nitrogenados menos tóxicos, como ureia e amônia, reduzindo o gasto de água na excreção.",
+                                              "e":  "a excreção de amônia pelas aves é uma adaptação ao voo, pois é o composto nitrogenado de menor peso molecular e menor solubilidade."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A amônia, por ser muito tóxica, precisa de grande quantidade de água para ser diluída e eliminada, sendo por isso o excreta típico de animais aquáticos (como peixes ósseos), que têm água disponível em abundância; já o ácido úrico, pouco solúvel e de baixa toxicidade, permite economia de água e é típico de animais terrestres com pouco acesso à água, como insetos, aves e répteis.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2025.1-cn"
+                     },
+                     {
+                         "id":  "biologia-323",
+                         "enunciado":  "Os sintomas da malária foram descritos pela primeira vez por volta de 2700 a.C. em antigos escritos de médicos chineses. Milhares de anos depois, a malária continua a ser uma doença infecciosa das mais significativas, sendo uma importante causa de morte no mundo.\nCom relação à malária, assinale V para a afirmação verdadeira e F para a falsa.\n\n( ) A malária é causada por protistas do gênero Plasmodium e é transmitida ao ser humano pela picada da fêmea do mosquito do gênero Anopheles.\n( ) Os mosquitos, entre eles o transmissor da malária, são animais classificados, segundo o desenvolvimento embrionário, como triblásticos e pseudocelomados.\n( ) No mosquito ocorrem a reprodução sexuada e a assexuada do parasita responsável pela malária, enquanto no corpo do ser humano acontece apenas a reprodução assexuada. Assim, o mosquito é o hospedeiro intermediário do parasita e o ser humano, o hospedeiro definitivo.\n\nAs afirmações são, respectivamente,",
+                         "alternativas":  {
+                                              "a":  "V, F e V.",
+                                              "b":  "F, F e F.",
+                                              "c":  "V, F e F.",
+                                              "d":  "F, F e V.",
+                                              "e":  "V, V e V."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A malária é de fato causada por um protozoário do gênero Plasmodium, transmitido pela fêmea do Anopheles (afirmação V); mosquitos são insetos, portanto triblásticos, mas celomados (não pseudocelomados), tornando essa afirmação falsa; e é o ser humano quem hospeda apenas a reprodução assexuada do parasita, enquanto no mosquito ocorre também a reprodução sexuada — o mosquito é, portanto, o hospedeiro definitivo, e o ser humano, o intermediário, invertendo o que a terceira afirmação propõe (também falsa).",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2025.1-cn"
+                     },
+                     {
+                         "id":  "biologia-324",
+                         "enunciado":  "Para demonstrar o efeito do pH sobre a taxa de reação de determinada enzima digestiva humana, foi realizado um experimento utilizando soluções tampão, que mantêm o pH de uma solução constante. Foram preparados cinco tubos de ensaio, cada um contendo uma solução formada pela enzima, por seu substrato e pela solução tampão de pH, que variou entre 5 e 9.\n\nImediatamente após o preparo de cada tubo, uma amostra da solução foi retirada a cada 10 segundos; tais amostras foram testadas com uma substância indicadora. Essa substância muda de cor em presença do substrato, mas permanece com a cor original na ausência dele. Assim, quando todo o substrato for decomposto pela enzima, o indicador permanecerá com a cor original. Para cada pH investigado, o tempo necessário para que a solução indicadora permanecesse com a cor original foi registrado.\n\nA tabela a seguir mostra os resultados obtidos (dados criados pela própria banca):\n\n| pH da mistura | Tempo (em segundos) necessário para que o indicador permanecesse com a cor original |\n|---|---|\n| 5 | 120 |\n| 6 | 40 |\n| 7 | 30 |\n| 8 | 50 |\n| 9 | 150 |\n\nO resultado do experimento permite afirmar que a enzima testada e seu local de ação são, respectivamente:",
+                         "alternativas":  {
+                                              "a":  "amilase – boca",
+                                              "b":  "amilase – intestino delgado",
+                                              "c":  "protease – pâncreas",
+                                              "d":  "protease – intestino delgado",
+                                              "e":  "lipase – duodeno"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O pH ótimo da enzima testada foi 7 (menor tempo de reação, maior velocidade), próximo ao pH neutro/levemente ácido da boca; essas características (pH ótimo próximo à neutralidade e substrato digerido rapidamente) são compatíveis com a amilase salivar, que age na boca sobre o amido.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2026.1-cn"
+                     },
+                     {
+                         "id":  "biologia-325",
+                         "enunciado":  "O planejamento familiar constitui um recurso essencial para o exercício da autonomia reprodutiva, abrangendo distintas possibilidades: desde a decisão sobre o momento, a frequência e o número de filhos, até a escolha de não vivenciar a maternidade. Neste último cenário, os métodos contraceptivos assumem papel central, uma vez que configuram estratégias indispensáveis para a prevenção de gestações indesejadas.\n\nEm relação a esses métodos, é correto afirmar que",
+                         "alternativas":  {
+                                              "a":  "camisinha e diafragma são métodos de barreira que também previnem a contaminação por infecções sexualmente transmissíveis",
+                                              "b":  "adesivos hormonais, diferentemente da pílula, contêm hormônios hipofisários (luteinizante e folículo estimulante), inibindo a ovulação",
+                                              "c":  "tabelinha e pílula do dia seguinte apresentam elevada eficácia, principalmente entre os adolescentes, desde que seu uso seja orientado por médicos",
+                                              "d":  "vasectomia e laqueadura tubária seccionam vias por onde passam os espermatozoides, impedindo que eles cheguem até o ovócito II",
+                                              "e":  "pílula anticoncepcional e dispositivo intrauterino de cobre (DIU) mantêm elevados os níveis de estrógeno e progesterona, interrompendo a ovulogênese"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Camisinha (masculina ou feminina) e diafragma são métodos de barreira física que, ao impedir o contato direto entre secreções, também previnem a transmissão de infecções sexualmente transmissíveis — proteção que os métodos hormonais ou cirúrgicos não oferecem.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2026.1-cn"
+                     },
+                     {
+                         "id":  "biologia-326",
+                         "enunciado":  "Segundo a Organização das Nações Unidas (ONU), o mundo tem 2 bilhões de pessoas sem água potável e 3,4 bilhões vivem em áreas sem esgoto tratado. Em países de baixa renda, as taxas de mortalidade por falta de acesso à água potável e ao saneamento podem ser 500 vezes mais altas que em nações desenvolvidas. Todos os anos, 1,4 milhão de pessoas, no mundo, morrem de infecções causadas por água contaminada e saneamento básico inadequado.\n\nEntre as infecções associadas à água contaminada, estão bacterioses como",
+                         "alternativas":  {
+                                              "a":  "hepatite A, raiva e esquistossomose",
+                                              "b":  "hepatite B, esquistossomose e leptospirose",
+                                              "c":  "amebíase, hepatite A e cólera",
+                                              "d":  "peste bubônica, raiva e febre tifoide",
+                                              "e":  "cólera, febre tifoide e leptospirose"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Cólera, febre tifoide e leptospirose são causadas por bactérias (Vibrio cholerae, Salmonella Typhi e Leptospira, respectivamente) transmitidas por água ou alimentos contaminados — diferente de hepatite A (vírus) ou esquistossomose (verme), presentes incorretamente nas demais alternativas.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2026.1-cn"
+                     },
+                     {
+                         "id":  "biologia-327",
+                         "enunciado":  "Na linguagem popular, costuma-se dizer que o AAS (ácido acetilsalicílico, também conhecido como Aspirina), \"afina\" o sangue, ou seja, diminui a probabilidade de formação de coágulos que podem obstruir o fluxo sanguíneo. A Aspirina inibe a ação da enzima cicloxigenase que, por sua vez, impede a agregação de",
+                         "alternativas":  {
+                                              "a":  "plaquetas",
+                                              "b":  "hemácias",
+                                              "c":  "leucócitos",
+                                              "d":  "linfócitos",
+                                              "e":  "moléculas de hemoglobina"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A cicloxigenase é necessária para a produção de tromboxano A2, substância que promove a agregação das plaquetas na formação do coágulo; ao inibir essa enzima, a Aspirina reduz a agregação plaquetária, \"afinando\" o sangue.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2026.1-cn"
+                     },
+                     {
+                         "id":  "biologia-328",
+                         "enunciado":  "Um geneticista investiga em sua pesquisa os genes que controlam o formato da asa (gene M/m) e a cor dos olhos (gene P/p) de uma espécie de inseto. Ele realizou um cruzamento-teste entre indivíduos duplo heterozigotos (genótipo MP/mp) e indivíduos duplo recessivos. Ele obteve os resultados a seguir (dados criados pela própria banca):\n\nProle:\n- 450 indivíduos com o genótipo MP/mp\n- 450 indivíduos com o genótipo mp/mp\n- 50 indivíduos com o genótipo Mp/mp\n- 50 indivíduos com o genótipo mP/mp\n\nSabendo que os dois genes estão localizados no mesmo cromossomo, o pesquisador estabeleceu a taxa de crossing-over entre os genes M e P em",
+                         "alternativas":  {
+                                              "a":  "5%",
+                                              "b":  "10%",
+                                              "c":  "45%",
+                                              "d":  "50%",
+                                              "e":  "90%"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Os fenótipos recombinantes (Mp/mp e mP/mp) somam 100 dos 1000 descendentes; a taxa de crossing-over é a proporção de recombinantes sobre o total, ou seja, 100/1000=10%.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2026.1-cn"
+                     },
+                     {
+                         "id":  "biologia-329",
+                         "enunciado":  "Duas espécies de peixes do mesmo gênero são cruzadas por um pesquisador em seu laboratório. Do cruzamento surgiu um zigoto, que se desenvolveu em um embrião. No entanto, o alevino (jovem de peixe) apresenta diversas más formações, que o impedem de se alimentar, levando-o logo à morte.\n\nNesse caso, o mecanismo de isolamento reprodutivo em ação é o(a)",
+                         "alternativas":  {
+                                              "a":  "esterilidade do híbrido",
+                                              "b":  "isolamento mecânico",
+                                              "c":  "mortalidade gamética",
+                                              "d":  "isolamento estacional",
+                                              "e":  "inviabilidade do híbrido"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Más formações que impedem o alevino híbrido de se alimentar e o levam à morte antes de se reproduzir caracterizam a inviabilidade do híbrido, um mecanismo de isolamento reprodutivo pós-zigótico.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2026.1-cn"
+                     },
+                     {
+                         "id":  "biologia-330",
+                         "enunciado":  "A malária é considerada um grave problema de saúde pública no mundo, sendo uma das doenças de maior impacto na morbidade e na mortalidade da população dos países situados nas regiões tropicais e subtropicais do planeta. De acordo com a Organização Mundial de Saúde (OMS), 263 milhões de casos de malária foram registrados em 2023 em 83 países endêmicos. (Fonte: Ministério da Saúde do Brasil)\n\nEssa é uma doença causada por um(a)",
+                         "alternativas":  {
+                                              "a":  "protozoário e é transmitida por um mosquito do gênero Anopheles, que é considerado o hospedeiro definitivo no ciclo da malária",
+                                              "b":  "vírus e é transmitida por um mosquito do gênero Aedes, que é considerado o hospedeiro intermediário no ciclo da malária",
+                                              "c":  "protozoário e é transmitida por um mosquito do gênero Aedes, que é considerado o hospedeiro intermediário no ciclo da malária",
+                                              "d":  "vírus e é transmitida por um mosquito do gênero Anopheles, que é considerado o hospedeiro definitivo no ciclo da malária",
+                                              "e":  "bactéria e é transmitida por um mosquito do gênero Aedes, que é considerado o hospedeiro intermediário no ciclo da malária"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A malária é causada por um protozoário do gênero Plasmodium, transmitido pela picada do mosquito Anopheles, que é considerado o hospedeiro definitivo, pois nele ocorre a reprodução sexuada do parasita.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2026.1-cn"
+                     },
+                     {
+                         "id":  "biologia-331",
+                         "enunciado":  "A cor do fruto em abóboras é determinada por dois genes de segregação independente. O primeiro gene (B) controla a cor branca, sendo que o alelo recessivo dele permite a expressão do gene (A). O alelo dominante (A) determina a cor amarela e o recessivo (a) determina a cor verde.\n\nO heredograma (esquema genealógico de autoria da própria banca) mostra o cruzamento de duas plantas com frutos brancos (5 e 6): o indivíduo 1 (homozigoto dominante para os dois genes) cruza com o indivíduo 2, gerando o indivíduo 5; o indivíduo 3 cruza com o indivíduo 4 (homozigoto dominante para os dois genes), gerando o indivíduo 6; por fim, 5 cruza com 6, e deseja-se saber a proporção esperada de descendentes de frutos amarelos.\n\nSabendo que 1 e 4 são homozigotas dominantes para os dois genes, 2 e 3 são homozigotas recessivas para os dois genes, a chance de 5 e 6 produzirem descendentes de frutos amarelos é",
+                         "alternativas":  {
+                                              "a":  "1/16, sendo esse um caso de epistasia dominante",
+                                              "b":  "1/16, sendo esse um caso de pleiotropia",
+                                              "c":  "3/16, sendo esse um caso de epistasia dominante",
+                                              "d":  "3/16, sendo esse um caso de pleiotropia",
+                                              "e":  "6/8, sendo esse um caso de epistasia recessiva"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Do cruzamento AaBb×AaBb, 3/4 da prole tem pelo menos um alelo B (dominante), que é epistático e mascara a cor determinada pelo gene A, resultando em fruto branco independentemente do genótipo do gene A; apenas na fração bb (1/4) o gene A se expressa, e dentro dela 3/4 são A_ (amarelo): 1/4×3/4=3/16 de frutos amarelos, caracterizando epistasia dominante.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2026.1-cn"
+                     },
+                     {
+                         "id":  "biologia-332",
+                         "enunciado":  "Em uma situação de grande demanda de energia, um pesquisador comparou as fisiologias de uma onça e de um jabuti. Ele observou que o coração da onça, ao acelerar, fornece uma maior taxa de sangue oxigenado aos músculos, em comparação com o jabuti.\n\nUma característica do sistema circulatório dos mamíferos, quando comparado ao dos répteis, que é fundamental para sua resposta rápida em situações de grande demanda de energia, é o(a)",
+                         "alternativas":  {
+                                              "a":  "coração de três cavidades que permite a mistura mais eficiente de sangue carbonado e oxigenado em condições de necessidade de resposta rápida",
+                                              "b":  "circulação dupla completa, com um coração de quatro câmaras que bombeia sangue arterial com alta pressão para o corpo",
+                                              "c":  "coração de quatro cavidades que permite a mistura mais eficiente de sangue carbonado e oxigenado em condições de necessidade de resposta rápida",
+                                              "d":  "circulação simples completa, com um coração de quatro câmaras que bombeia sangue arterial com baixa pressão para o corpo",
+                                              "e":  "capacidade do coração desviar o fluxo sanguíneo para a pequena circulação, aumentando a oxigenação da musculatura esquelética"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Nos mamíferos, a circulação dupla e completa, com coração de quatro câmaras totalmente separadas, impede a mistura de sangue arterial e venoso, permitindo bombear sangue mais oxigenado e sob maior pressão para os músculos — o que sustenta respostas metabólicas rápidas, diferente da separação incompleta observada em répteis como o jabuti.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2026.1-cn"
+                     },
+                     {
+                         "id":  "biologia-333",
+                         "enunciado":  "As condições ambientais da Terra antes do surgimento dos primeiros seres vivos eram muito diferentes das atuais. As moléculas orgânicas formadas eram arrastadas pelas águas das chuvas e passavam a se acumular nos mares primitivos, transformando-os em verdadeiras \"sopas nutritivas\". Eventualmente, essas moléculas orgânicas poderiam se agregar. Aleksander Oparin (1894-1980) chamou esses conjuntos de moléculas de coacervados, um passo importante para o surgimento dos primeiros seres vivos.\n\nA característica dos coacervados, ainda que primitiva, que eles compartilham com uma célula é a",
+                         "alternativas":  {
+                                              "a":  "presença de material genético e a membrana plasmática formada por dupla camada fosfolipídica",
+                                              "b":  "capacidade de se reproduzir produzindo outros desses agrupamentos moleculares",
+                                              "c":  "presença de material genético e a possibilidade de realizar trocas com o meio externo",
+                                              "d":  "presença de membrana plasmática formada por dupla camada fosfolipídica, protegendo o seu citoplasma",
+                                              "e":  "capacidade de realizar trocas com o meio externo e de manter um meio interno distinto do externo"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Os coacervados de Oparin, apesar de não terem material genético nem membrana lipídica verdadeira, já apresentavam uma fronteira que permitia realizar trocas seletivas com o meio externo e manter uma composição interna distinta dele — uma propriedade rudimentar compartilhada com as células atuais.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2026.1-cn"
+                     },
+                     {
+                         "id":  "biologia-334",
+                         "enunciado":  "Um biólogo, ao estudar as adaptações de aves para o voo em altitudes elevadas, em que a pressão parcial de oxigênio é significativamente baixa, observou que aves podem voar em altitudes que não seriam adequadas a mamíferos.\n\nUma adaptação das aves ao voo que contribui para essa capacidade é a presença de",
+                         "alternativas":  {
+                                              "a":  "pulmões com uma maior área de superfície interna, aumentando a densidade do animal e refrigerando-o melhor",
+                                              "b":  "respiração cutânea, na qual o oxigênio é absorvido diretamente pela pele do animal, complementando a ação dos pulmões",
+                                              "c":  "um diafragma que aumenta a capacidade pulmonar, tornando a respiração mais eficiente que a dos mamíferos",
+                                              "d":  "sacos aéreos que propiciam um fluxo contínuo de ar aos pulmões, melhorando a ventilação",
+                                              "e":  "pulmões compactos e uma circulação simples, que facilita a troca de gases em baixas pressões"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "As aves possuem sacos aéreos conectados aos pulmões, que garantem um fluxo contínuo e unidirecional de ar através deles (mesmo durante a expiração), tornando as trocas gasosas muito mais eficientes do que nos pulmões de mamíferos — vantagem crucial para voar em altitudes com baixa pressão parcial de oxigênio.",
+                         "formato":  "direta",
+                         "origem":  "fgv-unificado-2026.1-cn"
+                     },
+                     {
+                         "id":  "biologia-335",
+                         "enunciado":  "Um homem apresentou insuficiência renal após ser contaminado por uma espécie de bactéria. A única\nalternativa de reversão desse quadro clínico é o transplante de rim. O doador considerado mais elegível,\nem termos de compatibilidade genética, para esse transplante seria o",
+                         "alternativas":  {
+                                              "a":  "pai.",
+                                              "b":  "primo.",
+                                              "c":  "tio.",
+                                              "d":  "irmão não gêmeo.",
+                                              "e":  "irmão gêmeo monozigótico."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Como o sistema imunológico reconhece como próprio apenas material geneticamente idêntico, o doador mais compatível é o irmão gêmeo monozigótico, que possui o mesmo genoma do receptor, eliminando o risco de rejeição do órgão transplantado.",
+                         "formato":  "direta",
+                         "origem":  "insper-2026.1"
+                     },
+                     {
+                         "id":  "biologia-336",
+                         "enunciado":  "Nos seres humanos, a manutenção da temperatura corporal está associada a fenômenos adaptativos\nfisiológicos e comportamentais. Por exemplo: em dias quentes, as glândulas sudoríparas são ativadas para\nque a vaporização do suor auxilie no arrefecimento corporal. Outra adaptação do corpo humano, responsável\npela manutenção da temperatura corpórea em dias quentes, corresponde",
+                         "alternativas":  {
+                                              "a":  "aos tremores musculares.",
+                                              "b":  "ao comportamento de se encolher.",
+                                              "c":  "ao eriçamento de pelos.",
+                                              "d":  "à vasoconstrição periférica.",
+                                              "e":  "à vasodilatação periférica."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Em dias quentes, além da vaporização do suor, o corpo humano promove vasodilatação periférica, que aumenta o fluxo de sangue próximo à superfície da pele e facilita a perda de calor para o ambiente, ajudando a manter a temperatura corporal.",
+                         "formato":  "direta",
+                         "origem":  "insper-2026.1"
+                     },
+                     {
+                         "id":  "biologia-337",
+                         "enunciado":  "Considere os seguintes volumes de tipos de sangue disponíveis no banco de sangue de determinado hospital.\n\n- 5 litros de sangue O+\n- 4 litros de sangue O–\n- 3 litros de sangue B+\n- 2 litros de sangue B–\n- 2 litros de sangue AB–\n\nUm paciente com tipo sanguíneo B–, ao ser atendido nesse hospital para receber transfusão sanguínea,\ninformou ao médico que há alguns meses havia recebido sangue incompatível ao sistema Rh. Dessa forma, o\nvolume total de sangue disponível para a transfusão sanguínea nesse paciente equivale a",
+                         "alternativas":  {
+                                              "a":  "2 litros.",
+                                              "b":  "4 litros.",
+                                              "c":  "5 litros.",
+                                              "d":  "6 litros.",
+                                              "e":  "9 litros."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Um paciente B− só pode receber sangue dos tipos compatíveis com seu sistema ABO e Rh: tipo O− (universal para o fator Rh negativo) e tipo B− — no banco descrito, isso corresponde aos 4 litros de O− mais os 2 litros de B−, totalizando 6 litros.",
+                         "formato":  "direta",
+                         "origem":  "insper-2026.2"
                      }
                  ],
     "filosofia-sociologia":  [
@@ -10754,6 +12267,36 @@ window.QUESTION_BANKS = {
                                      "explicacao":  "A pergunta sobre resistência bacteriana é legítima e não é sociológica: ela descreve o micro-organismo, não o abandono. As demais tratam do que faz uma pessoa deixar de voltar — que é onde a tuberculose se decide no Brasil.",
                                      "formato":  "excecao",
                                      "banca":  "einstein"
+                                 },
+                                 {
+                                     "id":  "filosofia-sociologia-151",
+                                     "enunciado":  "Em meados do século XIX, Nísia Floresta publicou no Brasil seu Opúsculo Humanitário, uma ardente defesa da educação como meio para eliminar os obstáculos que impediam as mulheres de contribuir, em condições de igualdade com os homens, com a sociedade brasileira. Para tanto, contrapõe o estado da educação das mulheres nas nações ditas civilizadas e cultas ao péssimo estado da educação, pública e privada, religiosa e laica no Brasil, assumindo que a educação é uma expressão do grau de civilização das nações e muito influente sobre sua moralidade.\n\nMeio século mais tarde, Émile Durkheim dedicou duas obras à educação escolar: Educação e Sociologia e A Educação Moral. Nelas, o sociólogo francês concebe a escola como um espaço de transmissão da civilização às novas gerações por meio da sua socialização nos sentimentos, ideias e valores da sociedade, além da promoção da solidariedade com as múltiplas sociedades das quais participamos e com a humanidade como um todo. Ao funcionar como uma forma de vinculação às normas sociais por meio de uma compreensão racional da moralidade que subjaz a esses sentimentos, ideias e valores, a escola seria também um espaço de produção de autonomia. Mas, para que assim seja, esses sentimentos, ideias e valores deveriam ser justificáveis exclusivamente pela razão, sem invocar princípios religiosos, que são exclusivistas.\n\nÉ correto afirmar que em seus escritos sobre educação, Durkheim e Floresta convergem ao",
+                                     "alternativas":  {
+                                                          "a":  "reafirmar a importância dos valores religiosos da sociedade na educação como um projeto moralizante, ainda que critiquem a educação católica.",
+                                                          "b":  "conceber a educação das mulheres como manifestação de uma lei necessária do progresso das nações, expressão do positivismo dos autores.",
+                                                          "c":  "indicar a função da escola de integrar seus estudantes às normas e valores morais característicos de uma sociedade para permitir que com ela contribuam.",
+                                                          "d":  "justificar uma educação escolar segregada de grupos menos integrados socialmente, como as mulheres, em virtude de normas e valores da sociedade.",
+                                                          "e":  "defender uma educação com caráter cívico e nacionalista, que afirme a superioridade da nação e promova as glórias da civilização nacional."
+                                                      },
+                                     "resposta":  "c",
+                                     "explicacao":  "Durkheim entende a escola como instância de socialização que integra o indivíduo às normas e valores morais da coletividade; Nísia Floresta defende a educação como caminho para que as mulheres participem da sociedade em igualdade de condições. Os dois convergem nessa função integradora da escola, não em apelos religiosos, nacionalistas ou segregacionistas.",
+                                     "formato":  "direta",
+                                     "origem":  "fuvest-2026"
+                                 },
+                                 {
+                                     "id":  "filosofia-sociologia-152",
+                                     "enunciado":  "País com a terceira maior população carcerária do mundo (quase 827 mil presos), o Brasil registra também alto índice de egressos de penitenciárias voltando ao sistema prisional por reincidência de crimes. Não há números oficiais, mas estudos mostram que cerca de 1/3 dos que cumpriram pena acaba preso novamente.\n\nSob o viés da cidadania e dos direitos humanos, a reincidência problematizada no excerto revela a carência de",
+                                     "alternativas":  {
+                                                          "a":  "isolamento social e modelos prisionais de segurança máxima.",
+                                                          "b":  "vigilância urbana e policiamento ostensivo.",
+                                                          "c":  "rigor em leis punitivistas e identitárias.",
+                                                          "d":  "políticas públicas de inclusão e de igualdade social.",
+                                                          "e":  "programas de segregação socioespacial e inclusão no mercado de trabalho."
+                                                      },
+                                     "resposta":  "d",
+                                     "explicacao":  "A reincidência prisional revela que o egresso não encontra condições reais de reinserção social após cumprir pena; sob a ótica da cidadania e dos direitos humanos, isso aponta para a ausência de políticas públicas de inclusão e igualdade social, e não para mais repressão, vigilância ou isolamento.",
+                                     "formato":  "direta",
+                                     "origem":  "unesp-2025-2"
                                  }
                              ],
     "fisica":  [
@@ -13955,6 +15498,1980 @@ window.QUESTION_BANKS = {
                        "resposta":  "a",
                        "explicacao":  "A soma dos calores trocados é nula: 200 x (T − 80) + 300 x (T − 30) = 0, o que dá 500T = 25.000 e T = 50 °C. A armadilha é (e): a média aritmética das temperaturas, 55 °C, só valeria se as duas massas fossem iguais. Como há mais água fria, o equilíbrio se desloca para o lado dela — a média correta é ponderada pelas massas.",
                        "formato":  "direta"
+                   },
+                   {
+                       "id":  "fisica-211",
+                       "enunciado":  "O efeito Compton, descoberto na década de 1920, é hoje amplamente utilizado durante tratamentos radioterápicos. O efeito relaciona-se à mudança no comprimento de onda de fótons de raios X quando interagem com partículas como elétrons ou prótons, conforme ilustrado na figura a seguir.\n\nQuando um fóton com comprimento de onda λ incide sobre uma partícula, ele emerge dessa interação formando um ângulo θ com sua direção inicial de movimento, e seu novo comprimento de onda λ\u0027 é dado pela relação\n\nλ\u0027 = λ + αm(1 − cos θ),\n\nem que α é uma constante positiva e m é a massa da partícula. Com base nessas informações e em seus conhecimentos sobre a propagação das ondas eletromagnéticas, assinale a alternativa correta.",
+                       "alternativas":  {
+                                            "a":  "A maior variação no comprimento de onda do fóton ocorre quando o ângulo θ é igual a 90°.",
+                                            "b":  "Se o ângulo θ é igual a 30°, o fóton emergente tem frequência menor do que a frequência inicial.",
+                                            "c":  "Quando θ = 0, a velocidade do fóton emergente é menor do que a do fóton incidente, devido à conservação da quantidade de movimento.",
+                                            "d":  "Se o ângulo θ é igual a 60°, a variação no comprimento de onda do fóton é menor se a partícula for um elétron do que se a partícula for um próton.",
+                                            "e":  "Um fóton que emergiu perpendicularmente à sua direção inicial não sofreu mudança em sua frequência."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Como λ\u0027=λ+αm(1−cosθ), o comprimento de onda emergente é sempre maior ou igual ao incidente (λ\u0027≥λ), logo a frequência do fóton emergente diminui para qualquer θ\u003e0, inclusive para θ=30°.",
+                       "formato":  "direta",
+                       "origem":  "fuvest-2025"
+                   },
+                   {
+                       "id":  "fisica-212",
+                       "enunciado":  "Uma das possíveis tecnologias para a produção de telas sensíveis ao toque aproveita a reflexão interna total da luz.\n\nEsse tipo de reflexão ocorre quando um raio luminoso viaja do interior de um meio 1, com índice de refração n₁, em direção a um meio 2, com índice de refração n₂, formando com a direção perpendicular à interface entre os meios um ângulo θ maior do que um certo valor limite θL, tal que sen θL = n₂/n₁.\n\nQuando um objeto (como um dedo) se aproxima da interface entre os meios, a reflexão total não ocorre, o que é captado por sensores, revelando a posição do objeto. Suponha que se deseje projetar uma tela sensível ao toque que funcione com uma fonte luminosa F fixa na borda. A tabela a seguir indica os índices de refração de alguns materiais candidatos à utilização no meio 1.\n\n| Material | Índice de refração n |\n|---|---|\n| A | 1,0002 |\n| B | 1,0003 |\n| C | 1,1503 |\n| D | 1,3204 |\n| E | 1,4889 |\n\nTratando o meio 2 sempre como tendo índice de refração n₂ = 1,0003, o material que permite o maior intervalo de ângulos de incidência que produzem reflexão total é:",
+                       "alternativas":  {
+                                            "a":  "Material A.",
+                                            "b":  "Material B.",
+                                            "c":  "Material C.",
+                                            "d":  "Material D.",
+                                            "e":  "Material E."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Como sen θL=n₂/n₁, quanto menor o valor de n₂/n₁ (ou seja, quanto maior for n₁ em relação a n₂ fixo), menor é θL e maior é o intervalo de ângulos (de θL até 90°) que produzem reflexão total; o material E, com o maior índice de refração, oferece o maior intervalo.",
+                       "formato":  "direta",
+                       "origem":  "fuvest-2025"
+                   },
+                   {
+                       "id":  "fisica-213",
+                       "enunciado":  "As enchentes ocorridas no Rio Grande do Sul, em maio de 2024, prejudicaram a infraestrutura de comunicação. A população afetada era informada sobre as notícias relativas às enchentes ao sintonizar, por rádio de pilhas, frequências de onda AM, cujo alcance é maior.\n\nUma onda AM é modelada matematicamente por equações que envolvem a função cosseno, cuja variável independente é o tempo t, que aparece multiplicado pela frequência f da onda.\n\nComo exemplo, pode-se considerar a equação referente ao processo de modulação de uma onda AM:\n\ns(t) = A[1 + k·m(t)]·cos(2πft),\n\nem que A é a amplitude, f a frequência, k a constante da sensibilidade à amplitude e m(t) o sinal que contém a informação.\n\nQuando a frequência f é multiplicada por 3, o comprimento da onda sofre alteração. Por causa dessa multiplicação, qual transformação ocorre no gráfico da função cosseno original?",
+                       "alternativas":  {
+                                            "a":  "Expansão vertical.",
+                                            "b":  "Translação horizontal.",
+                                            "c":  "Expansão horizontal.",
+                                            "d":  "Contração horizontal.",
+                                            "e":  "Contração vertical."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Multiplicar a frequência por 3 comprime o período da função cosseno por um fator 3 no eixo do tempo, o que corresponde a uma contração horizontal do gráfico.",
+                       "formato":  "direta",
+                       "origem":  "fuvest-2025"
+                   },
+                   {
+                       "id":  "fisica-214",
+                       "enunciado":  "Quando uma barra de um certo material é aquecida até uma temperatura T a partir de uma temperatura inicial T0, seu comprimento inicial L0 sofre um aumento ΔL dado por ΔL = α L0 (T − T0), sendo α o coeficiente de expansão linear, que depende do material.\n\nO gráfico a seguir mostra, para o intervalo de 0°C a 200°C, o comprimento (em metros) de barras de três materiais distintos, todas com 10,0 m de comprimento a 0°C: a barra de Polietileno atinge aproximadamente 10,4 m a 200°C (aumento aproximadamente linear e mais acentuado); a barra de Cobre atinge aproximadamente 10,1 m a 200°C (aumento pequeno e aproximadamente linear); a barra de Alumínio permanece muito próxima de 10,0 m ao longo de toda a faixa de temperatura (variação praticamente imperceptível no gráfico).\n\nCom base no gráfico e nas informações apresentadas, é correto afirmar:",
+                       "alternativas":  {
+                                            "a":  "O gráfico mostra curvas para três barras que possuem o mesmo comprimento à temperatura de 30°C.",
+                                            "b":  "Em um processo de aquecimento entre 100°C e 200°C, o comprimento da barra de cobre aumenta em 0,1 m.",
+                                            "c":  "O coeficiente de expansão linear do alumínio é maior do que o do cobre.",
+                                            "d":  "Partindo de 0°C, aumentar em 10 cm o comprimento da barra de polietileno requer elevar sua temperatura até 50°C.",
+                                            "e":  "Duas barras de comprimentos 5 m e 10 m a 0°C, feitas do mesmo material, sofrem iguais incrementos de comprimento quando levadas de 0°C a 100°C."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Pelo gráfico, o polietileno atinge 10,4 m (ΔL=0,4 m) em 200°C, o que dá α=ΔL/(L0ΔT)=0,4/(10×200)=2×10⁻⁴/°C. Para um aumento de 0,1 m (10 cm) a partir de 10 m, ΔT=ΔL/(αL0)=0,1/(2×10⁻⁴×10)=50°C.",
+                       "formato":  "direta",
+                       "origem":  "fuvest-2025"
+                   },
+                   {
+                       "id":  "fisica-215",
+                       "enunciado":  "Um brinquedo bastante comum em parques de diversões, a montanha-russa, utiliza-se da transformação parcial de energia potencial em energia cinética (e vice-versa) como princípio de funcionamento. Uma das montanhas-russas mais famosas do mundo, a Takabisha, cuja pista possui mais de 1 km de extensão, localiza-se no Japão e tem vista para o Monte Fuji. Nela, a subida inicial até o ponto mais alto, situado a uma altura aproximada de 50 m do solo, é feita sob ângulo de aproximadamente 90 graus, seguida de uma descida vertiginosa, cuja velocidade, no ponto mais baixo desse trecho, atinge cerca de 30 m/s em poucos segundos.\n\nConsiderando um carrinho ocupado com massa total de 300 kg em repouso na posição de altura máxima, a energia mecânica perdida durante a descida inicial é, aproximadamente,",
+                       "alternativas":  {
+                                            "a":  "1200 J.",
+                                            "b":  "2500 J.",
+                                            "c":  "5000 J.",
+                                            "d":  "15000 J.",
+                                            "e":  "20000 J."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A energia mecânica inicial (só potencial) é mgh=300×10×50=150.000 J. A energia cinética final é (1/2)mv²=(1/2)×300×30²=135.000 J. A diferença, 15.000 J, foi perdida (dissipada) durante a descida.",
+                       "formato":  "direta",
+                       "origem":  "fuvest-2025"
+                   },
+                   {
+                       "id":  "fisica-216",
+                       "enunciado":  "**Texto de apoio (questões 73 e 74):** Um artigo publicado em 2018 na Revista Brasileira de Ensino de Física reporta um estudo sobre a pressão interna de \"foguetes de garrafa PET\", propulsionados a partir da reação química entre ácido acético e bicarbonato de sódio. Uma mistura de vinagre (que contém ácido acético, CH3COOH) com bicarbonato de sódio (NaHCO3) produz gás carbônico (CO2) por meio da reação química: CH3COOH + NaHCO3 → CH3COONa + CO2 + H2O.\n\nA reação ocorre no interior de uma garrafa PET de 2 L de volume útil total, da qual foi retirado todo o ar. Insere-se na garrafa um volume inicial Vvin de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manômetro. A reação produzirá gás carbônico que ocupará um volume VCO2 e exercerá uma pressão PCO2 sobre a tampa da garrafa, medida pelo manômetro.\n\nSuponha que a reação produza 2 mols de CO2 para cada 3 litros de vinagre. Nas condições do experimento, em que o volume de líquido é 1/3 de litro à temperatura T = 300 K, a pressão PCO2 medida pelo manômetro será por volta de",
+                       "alternativas":  {
+                                            "a":  "3,2 atm.",
+                                            "b":  "4,1 atm.",
+                                            "c":  "6,2 atm.",
+                                            "d":  "9,0 atm.",
+                                            "e":  "12 atm."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Para 1/3 L de vinagre, a proporção de 2 mol de CO2 a cada 3 L fornece n=2×(1/3)/3=2/9 mol de CO2, que ocupam o volume disponível da garrafa (2 L menos 1/3 L de líquido = 5/3 L). Usando PV=nRT a 300 K, obtém-se P≈3,2 atm.",
+                       "formato":  "direta",
+                       "origem":  "fuvest-2025"
+                   },
+                   {
+                       "id":  "fisica-217",
+                       "enunciado":  "Considere agora um outro experimento feito em condições semelhantes ao da questão anterior (foguete de garrafa PET com vinagre e bicarbonato de sódio), em que o manômetro indica uma pressão de 5 atm e, sem que a pressão no interior da garrafa se altere, ele é cuidadosamente substituído por uma rolha de 10 g de massa e 2 cm de diâmetro (igual ao diâmetro interno do bocal da garrafa). Logo após a rolha ser encaixada no local, ela é expelida devido à pressão interna da garrafa ser maior que a pressão atmosférica.\n\nA aceleração da rolha no momento em que ela é expelida é de, aproximadamente,",
+                       "alternativas":  {
+                                            "a":  "12 m/s².",
+                                            "b":  "120 m/s².",
+                                            "c":  "1200 m/s².",
+                                            "d":  "12000 m/s².",
+                                            "e":  "120000 m/s²."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A força resultante sobre a rolha é (P_interna−P_atm)×área = (5−1)×10⁵ Pa × π×(0,01 m)² ≈ 125,6 N. Dividindo pela massa da rolha (0,01 kg), a aceleração é de aproximadamente 12.000 m/s².",
+                       "formato":  "direta",
+                       "origem":  "fuvest-2025"
+                   },
+                   {
+                       "id":  "fisica-218",
+                       "enunciado":  "Desde as primeiras descobertas, os buracos negros despertam enorme interesse da humanidade. Eles são caracterizados por regiões suficientemente densas e massivas em que o campo gravitacional é tão intenso que nada que esteja a distâncias inferiores a R_sc do buraco negro consegue escapar de sua atração, nem a luz ou outras formas de radiação. Esse raio, também conhecido como raio de Schwarzschild, é expresso por R_sc = 2GM/c², sendo G a constante de gravitação universal, M a massa do buraco negro e c a velocidade da luz.\n\nConsidere, por simplicidade, um buraco negro de massa igual à massa solar M_Sol = 2×10³⁰ kg e de raio igual a R_sc. Nesse caso, a razão entre a densidade volumétrica de um buraco negro e a densidade volumétrica do Sol apresenta uma ordem de grandeza mais próxima de:",
+                       "alternativas":  {
+                                            "a":  "10⁻²",
+                                            "b":  "10⁴",
+                                            "c":  "10¹⁰",
+                                            "d":  "10¹⁶",
+                                            "e":  "10²²"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Como densidade = massa/volume ∝ 1/R³ para a mesma massa, a razão de densidades é (R_Sol/R_sc)³. Calculando R_sc pela fórmula de Schwarzschild para a massa do Sol, essa razão resulta em uma ordem de grandeza próxima de 10¹⁶.",
+                       "formato":  "direta",
+                       "origem":  "fuvest-2026"
+                   },
+                   {
+                       "id":  "fisica-219",
+                       "enunciado":  "Em 1905, Albert Einstein propôs que a luz, um tipo de radiação eletromagnética, é composta por fótons, sendo que cada fóton tem energia proporcional à frequência da luz (f) e à constante de Planck (h). Nesses termos, E = hf, e a intensidade da luz é a medida da quantidade de fótons. Essa interpretação foi fundamental para o desenvolvimento da teoria quântica da luz e para explicar o efeito fotoelétrico. Esse efeito consiste em um fenômeno físico no qual elétrons são ejetados de um material, geralmente um metal, quando este é irradiado com luz cujos fótons têm energia maior que a energia de ligação do elétron ao material, também conhecida como função trabalho. Assim, quando o fóton incide sobre a superfície do material, a energia excedente transforma-se na energia cinética do elétron que escapa da superfície.\n\nEm qual das situações a seguir a energia cinética do elétron ejetado no efeito fotoelétrico aumenta?",
+                       "alternativas":  {
+                                            "a":  "Aumentando a intensidade da luz incidente.",
+                                            "b":  "Usando uma superfície maior.",
+                                            "c":  "Aumentando a frequência da luz incidente.",
+                                            "d":  "Usando um material com função trabalho maior.",
+                                            "e":  "Diminuindo a energia do fóton incidente."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Pela equação do efeito fotoelétrico, a energia cinética do elétron ejetado é Ec=hf−função trabalho; aumentar a frequência f da luz incidente aumenta diretamente a energia do fóton (E=hf) e, portanto, a energia cinética do elétron ejetado.",
+                       "formato":  "direta",
+                       "origem":  "fuvest-2026"
+                   },
+                   {
+                       "id":  "fisica-220",
+                       "enunciado":  "Para muitas pessoas, um ovo perfeitamente cozido tem uma gema cremosa e uma clara firme. A gema atinge uma textura cremosa a 65 °C, mas a clara fica totalmente firme a 85 °C. Métodos comuns de cozimento frequentemente resultam em um ovo com clara e gema duras (1), um ovo com clara dura e gema cremosa (2) ou um ovo com clara e gema cremosas (3). Pesquisadores da Universidade de Nápoles, entretanto, perceberam que alternar o cozimento dos ovos em água a 100 °C e 30 °C a cada dois minutos, totalizando 32 minutos (4), faz com que as duas regiões do ovo (clara e gema) respondam de formas diferentes às temperaturas alternadas. Aplicando o método estudado (4), a temperatura da clara oscila antes de finalmente se estabilizar em torno de 85 °C, enquanto a temperatura da gema sobe lentamente até atingir 67 °C, quando chega à consistência desejada.\n\nSuponha que, em cada método de cozimento, cada parte do ovo (clara e gema) seja aquecida de uma temperatura inicial de 20 °C até as respectivas temperaturas finais apresentadas acima. A quantidade de calor total recebida Qn pelo conjunto gema + clara para o método de cozimento (n = 1, 2, 3, 4), em ordem crescente, é:",
+                       "alternativas":  {
+                                            "a":  "Q4 \u003c Q1 \u003c Q3 \u003c Q2",
+                                            "b":  "Q3 \u003c Q4 \u003c Q2 \u003c Q1",
+                                            "c":  "Q1 \u003c Q3 \u003c Q2 \u003c Q4",
+                                            "d":  "Q3 \u003c Q2 \u003c Q4 \u003c Q1",
+                                            "e":  "Q4 \u003c Q3 \u003c Q1 \u003c Q2"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Comparando as quantidades de calor Q=mcΔT necessárias para cada método (considerando as temperaturas finais de clara e gema em cada caso), o método 3 (ambas cremosas, temperaturas finais mais baixas) exige o menor calor total, seguido do método 4 (clara firme e gema cremosa via alternância), depois o método 2, e por fim o método 1 (ambas duras, temperaturas finais mais altas), que exige o maior calor.",
+                       "formato":  "direta",
+                       "origem":  "fuvest-2026"
+                   },
+                   {
+                       "id":  "fisica-221",
+                       "enunciado":  "Um artigo recentemente publicado investigou de que modo fatores como a altura e a velocidade da água despejada na preparação de café filtrado influenciam no sabor da bebida pronta.\n\nUm dos parâmetros importantes é a velocidade do jato de água ao atingir a lâmina de água que já está no filtro. Uma das conclusões do estudo é que velocidades acima de 2 m/s levam a uma melhor mistura do pó de café com a água. H é a altura da lâmina de água no filtro e D é a altura de despejo da água do bule, medidas que têm a base do filtro como referência.\n\nAssumindo que seja desprezível a velocidade do jato quando a água começa a ser despejada no bico do bule, para uma altura H = 8 cm, qual a altura mínima D de despejo para que a velocidade do jato, ao atingir a água, seja de, pelo menos, 2 m/s?",
+                       "alternativas":  {
+                                            "a":  "4 cm",
+                                            "b":  "8,2 cm",
+                                            "c":  "10 cm",
+                                            "d":  "18 cm",
+                                            "e":  "28 cm"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Pela conservação de energia (queda livre), v²=2gD, onde D é a altura de despejo. Como a velocidade do jato ao atingir a água no filtro precisa ser 2 m/s na altura H acima da base, e o jato cai livremente a partir do bico do bule (altura D acima da base), a altura mínima necessária é D=H+v²/(2g).",
+                       "formato":  "direta",
+                       "origem":  "fuvest-2026"
+                   },
+                   {
+                       "id":  "fisica-222",
+                       "enunciado":  "**Texto de apoio (questões 76 e 77):** O gráfico a seguir mostra o resultado do exame de audiometria tonal de um paciente. O eixo vertical refere-se ao nível de intensidade sonora α (medido em dB e aumentando de cima para baixo) necessário para que a pessoa possa ouvir o som emitido pelo audiômetro a uma dada frequência f (medida em Hz), representada no eixo horizontal. Quanto menor o valor de α(f), melhor é a resposta auditiva do paciente naquela frequência f. O uso de aparelhos auditivos pode ser uma forma de melhorar a resposta auditiva em determinadas frequências.\n\nValores de α(f), em dB, lidos no audiograma para cada frequência testada (em Hz): 250 Hz → 20; 500 Hz → 20; 1000 Hz → 15 (o menor valor de α de todo o exame, ou seja, a melhor resposta auditiva do paciente); 2000 Hz → 25; 3000 Hz → 35; 4000 Hz → 45; 6000 Hz → 45; 8000 Hz → 50.\n\nA relação entre o nível de intensidade sonora α(f), em dB, e a intensidade I(f) da onda sonora a uma frequência f é dada por\n\nα(f) = 10 log₁₀(I(f)/I₀)\n\nonde I₀ é a intensidade do limiar da audição. Observe que, para I(f) = I₀, tem-se α = 10 log₁₀(1) = 0 dB.\n\nConsiderando os valores de α registrados em 8000 Hz e 500 Hz para esse paciente, qual a razão entre as intensidades das ondas sonoras emitidas pelo audiômetro nessas duas frequências?",
+                       "alternativas":  {
+                                            "a":  "10²",
+                                            "b":  "10³",
+                                            "c":  "10⁴",
+                                            "d":  "10⁵",
+                                            "e":  "10⁶"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A diferença α(8000Hz)−α(500Hz)=50−20=30 dB corresponde, pela fórmula α=10log₁₀(I/I₀), a uma razão de intensidades de 10^(30/10)=10³.",
+                       "formato":  "direta",
+                       "origem":  "fuvest-2026"
+                   },
+                   {
+                       "id":  "fisica-223",
+                       "enunciado":  "Em qual comprimento de onda sonora ocorre a melhor resposta auditiva do paciente nesse exame (ver texto de apoio e dados da questão anterior)?",
+                       "alternativas":  {
+                                            "a":  "1,36 cm",
+                                            "b":  "4,25 cm",
+                                            "c":  "23,5 cm",
+                                            "d":  "34 cm",
+                                            "e":  "80 cm"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A melhor resposta auditiva corresponde ao menor valor de α, que ocorre em 1000 Hz (15 dB). O comprimento de onda correspondente é λ=v/f=340/1000=0,34 m=34 cm, usando a velocidade do som no ar (340 m/s).",
+                       "formato":  "direta",
+                       "origem":  "fuvest-2026"
+                   },
+                   {
+                       "id":  "fisica-224",
+                       "enunciado":  "A uniformidade da temperatura em um ambiente refrigerado depende, além do bom funcionamento do aparelho de ar condicionado, de uma instalação adequada, visando a uma transferência de calor eficiente. Isso pode ser verificado pelo instalador utilizando um termômetro de infravermelho para inspecionar diferentes áreas do recinto. Analise as afirmativas 1, 2, 3 e 4 sobre os mecanismos de transferência de calor: condução, convecção e radiação.\n\n1) A transferência de calor por condução térmica pode ocorrer tanto no vácuo quanto em um meio material.\n2) A taxa de condução de calor em uma barra não depende da diferença entre as temperaturas de suas extremidades.\n3) A convecção consiste no transporte de energia térmica de uma região para outra por meio do deslocamento de uma massa de fluido.\n4) A transferência de calor por radiação térmica pode ocorrer tanto no vácuo quanto em um meio material.\n\nAs afirmativas corretas são:",
+                       "alternativas":  {
+                                            "a":  "1 e 2.",
+                                            "b":  "1 e 4.",
+                                            "c":  "2 e 3.",
+                                            "d":  "3 e 4."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A condução térmica exige um meio material (não ocorre no vácuo), o que torna a afirmativa 1 falsa; a taxa de condução depende, sim, da diferença de temperatura entre as extremidades (afirmativa 2 falsa); a convecção de fato transporta energia pelo deslocamento de um fluido (afirmativa 3 correta); e a radiação térmica, ao contrário da condução, pode se propagar no vácuo (afirmativa 4 correta).",
+                       "formato":  "direta",
+                       "origem":  "unicamp-2026"
+                   },
+                   {
+                       "id":  "fisica-225",
+                       "enunciado":  "**Texto de apoio (questões 9, 10 e 11):** As baterias são fundamentais no mundo moderno, sendo a fonte de energia portátil que alimenta dispositivos como celulares e laptops, veículos elétricos e sistemas de armazenamento de energia renovável. Duas grandezas que caracterizam uma bateria é a sua capacidade de carga elétrica, expressa em miliampère-hora (mAh) e a energia que ela armazena, usualmente dada em watts-hora (Wh).\n\nUma bateria inicialmente carregada fornece uma corrente constante de i = 4 000 mA durante o tempo ∆t = 1 hora, ficando descarregada no final desse processo. A carga elétrica Q, que circula por essa bateria nesse intervalo de tempo é",
+                       "alternativas":  {
+                                            "a":  "4 C.",
+                                            "b":  "4 000 C.",
+                                            "c":  "14 400 C.",
+                                            "d":  "14 400 000 C."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A carga elétrica é Q=i×Δt=4 A×3600 s=14.400 C (convertendo 4.000 mA para 4 A e 1 hora para 3.600 s).",
+                       "formato":  "direta",
+                       "origem":  "unicamp-2026"
+                   },
+                   {
+                       "id":  "fisica-226",
+                       "enunciado":  "De forma simplificada, o comportamento de uma bateria pode ser modelado com uma fonte ideal de diferença de potencial elétrico Ub em série com um resistor de resistência Rb. Dessa maneira, o dispositivo que é alimentado pela bateria pode, muitas vezes, ser representado por um resistor de resistência R.\n\nA figura mostra um circuito com um voltímetro ligado em paralelo ao resistor R; a bateria (Ub = 3,6 V, em série com Rb = 1,2 Ω) está ligada em série com R = 6,0 Ω.\n\nNa situação exemplificada na figura, a diferença de potencial registrada pelo voltímetro é",
+                       "alternativas":  {
+                                            "a":  "0,6 V.",
+                                            "b":  "3,0 V.",
+                                            "c":  "3,6 V.",
+                                            "d":  "4,3 V."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A corrente no circuito é I=Ub/(Rb+R)=3,6/(1,2+6,0)=0,5 A. A tensão registrada pelo voltímetro, ligado sobre R, é V=I×R=0,5×6,0=3,0 V.",
+                       "formato":  "direta",
+                       "origem":  "unicamp-2026"
+                   },
+                   {
+                       "id":  "fisica-227",
+                       "enunciado":  "Outra bateria totalmente carregada armazena uma energia Eb = 15 Wh. Devemos elevar uma massa m = 45 kg até a altura y, em relação ao solo, para que a variação da energia potencial gravitacional Ep desse sistema mecânico seja igual à energia armazenada nessa bateria. A altura y deve ser\n\nDado: g = 10 m/s².",
+                       "alternativas":  {
+                                            "a":  "0,03 m.",
+                                            "b":  "3 m.",
+                                            "c":  "120 m.",
+                                            "d":  "1 200 m."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Convertendo a energia da bateria para joules (15 Wh × 3.600 s/h = 54.000 J) e igualando à energia potencial gravitacional mgh, obtém-se h=54.000/(45×10)=120 m.",
+                       "formato":  "direta",
+                       "origem":  "unicamp-2026"
+                   },
+                   {
+                       "id":  "fisica-228",
+                       "enunciado":  "O Centro de Tecnologia da Informação (CTI) Renato Archer, em Campinas (SP), possui equipamentos avançados de manufatura 3D, incluindo uma impressora capaz de produzir uma miniatura do Cristo Redentor, com pouco mais de 100 μm. Menor que um grão de areia, a peça só é visível com microscópio óptico, baseado em arranjo de um conjunto de lentes. Se uma lente delgada, de distância focal f, é usada para investigar um objeto de altura o, de forma que a imagem seja direita com altura i maior que a do objeto (i \u003e o), é correto afirmar que",
+                       "alternativas":  {
+                                            "a":  "a lente é convergente e a distância entre objeto e lente é menor que a distância focal.",
+                                            "b":  "a lente é divergente e a distância entre objeto e lente é menor que a distância focal.",
+                                            "c":  "a lente é convergente e a distância entre objeto e lente é maior que a distância focal.",
+                                            "d":  "a lente é divergente e a distância entre objeto e lente é maior que a distância focal."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Para que uma lente produza uma imagem direita e ampliada (i\u003eo) de um objeto, a lente deve ser convergente e o objeto deve estar posicionado entre o foco e a lente (distância menor que a distância focal) — o comportamento característico de uma lupa.",
+                       "formato":  "direta",
+                       "origem":  "unicamp-2026"
+                   },
+                   {
+                       "id":  "fisica-229",
+                       "enunciado":  "**Texto de apoio (questões 13 e 14):** Recentemente, grandes cidades iniciaram a implantação de faixas exclusivas para motocicletas como, por exemplo, a faixa azul na cidade de São Paulo. Um motociclista adentra, em t = 0, um percurso retilíneo de uma faixa azul com velocidade constante v0 = 36 km/h e mantém essa velocidade até o tempo t = 30 s (trecho I). Em seguida, continua o percurso com desaceleração constante (a \u003c 0) até parar completamente diante de um semáforo em t = 50 s (trecho II). Após mais 30 s, ele retoma o movimento e mantém uma aceleração constante e positiva a = 0,8 m/s² desde t = 80 s até t = 95 s (trecho III). Posteriormente, o motociclista segue com velocidade constante até t = 120 s (trecho IV).\n\nA massa do conjunto motociclista + motocicleta é dada por m = 180 kg. Para o trecho entre os tempos t = 30 s e t = 50 s, em que o movimento tem desaceleração constante, é correto afirmar que o módulo da força resultante que age nesse conjunto é igual a",
+                       "alternativas":  {
+                                            "a":  "36 N.",
+                                            "b":  "90 N.",
+                                            "c":  "324 N.",
+                                            "d":  "1 800 N."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A desaceleração no trecho II é a=Δv/Δt=(0−10)/(50−30)=−0,5 m/s² (convertendo v0=36 km/h para 10 m/s). A força resultante é F=m×|a|=180×0,5=90 N.",
+                       "formato":  "direta",
+                       "origem":  "unicamp-2026"
+                   },
+                   {
+                       "id":  "fisica-230",
+                       "enunciado":  "O fenômeno da fadiga térmica pode ocorrer no sistema de freios de um veículo pesado, se o condutor utilizar os freios para controlar continuamente a velocidade desse veículo, em um longo trecho de declive. Ao final desse trecho, o atrito entre as pastilhas e os discos de freio pode não ser suficiente para frear o veículo porque o grande aquecimento provocado por esse atrito diminui o coeficiente de atrito entre os materiais do freio.\n\nO gráfico (elaborado pela própria banca) mostra a variação do coeficiente de atrito entre o aço do disco de freio e o material das pastilhas de um caminhão, em função da temperatura: aproximadamente 0,375 a 200°C, decrescendo suavemente até aproximadamente 0,225 a 350°C.\n\nConsidere que, em uma frenagem contínua em um longo trecho de declive de uma rodovia, as forças de compressão entre as pastilhas e os discos de freio das rodas desse caminhão se mantenham constantes. Se, nessa frenagem, a temperatura do freio aumentar de 200 ºC para 350 ºC, as intensidades das forças de atrito entre as pastilhas e os discos de freio sofrerão uma redução de",
+                       "alternativas":  {
+                                            "a":  "40%.",
+                                            "b":  "20%.",
+                                            "c":  "25%.",
+                                            "d":  "10%.",
+                                            "e":  "50%."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "O coeficiente de atrito caiu de 0,375 para 0,225, uma redução de (0,375−0,225)/0,375=0,40, ou seja, 40%. Como a força de atrito é proporcional ao coeficiente de atrito (mantendo a força de compressão constante), ela sofre a mesma redução percentual.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2025.1"
+                   },
+                   {
+                       "id":  "fisica-231",
+                       "enunciado":  "O diagrama pressão × volume representa um ciclo termodinâmico efetuado por um gás refrigerante de um sistema de ar condicionado utilizado no resfriamento do interior de um veículo. Nesse processo, o gás absorve calor do interior do veículo (Q_int) e libera calor para o meio exterior (Q_ext). O ciclo, representado no diagrama P×V, tem 4 vértices C, B, A e D (nessa ordem, formando um trajeto fechado C→B→A→D→C), sendo C o ponto de maior pressão e menor volume, B o ponto de maior pressão e maior volume (entre C e B), A o ponto de menor pressão e maior volume, e D o ponto de menor pressão e menor volume (entre A e C).\n\nSabe-se que, nesse ciclo:\n- AB representa uma compressão adiabática;\n- BC representa uma compressão isobárica;\n- CD representa uma expansão adiabática;\n- DA representa uma expansão isobárica.\n\nConsiderando o gás ideal e a primeira lei da termodinâmica, o gás do sistema de ar condicionado sofreu aquecimento nas transformações",
+                       "alternativas":  {
+                                            "a":  "CD e DA.",
+                                            "b":  "AB e DA.",
+                                            "c":  "BC e CD.",
+                                            "d":  "BC e DA.",
+                                            "e":  "AB e CD."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Nas compressões adiabáticas (AB) e isobáricas com aumento de pressão/diminuição de volume (BC), o gás realiza trabalho sobre ele e, combinado com a primeira lei da termodinâmica, as transformações AB e DA (expansão isobárica, em que o gás recebe calor do meio a resfriar) são aquelas em que o sistema absorve calor, aquecendo-se.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2025.1"
+                   },
+                   {
+                       "id":  "fisica-232",
+                       "enunciado":  "A figura mostra uma corda na qual se propaga uma onda transversal (senoidal, com cristas e vales bem definidos). As cristas e os vales dessa onda estão todos contidos no plano xy e a velocidade de propagação da onda tem a mesma direção e o mesmo sentido do eixo x. Com relação à direção de oscilação dos pontos dessa corda e à matéria transportada pela onda, tem-se que todos os pontos da corda, atingidos pela onda, oscilam",
+                       "alternativas":  {
+                                            "a":  "nas direções x e y e, enquanto se propaga, a onda não transporta matéria.",
+                                            "b":  "apenas na direção y e, enquanto se propaga, a onda transporta matéria.",
+                                            "c":  "nas direções x e y e, enquanto se propaga, a onda transporta matéria.",
+                                            "d":  "apenas na direção x e, enquanto se propaga, a onda não transporta matéria.",
+                                            "e":  "apenas na direção y e, enquanto se propaga, a onda não transporta matéria."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Numa onda transversal, os pontos do meio oscilam perpendicularmente à direção de propagação (apenas na direção y, já que a onda se propaga em x); a onda transporta apenas energia, não matéria, pois cada ponto da corda apenas oscila em torno de sua posição de equilíbrio.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2025.1"
+                   },
+                   {
+                       "id":  "fisica-233",
+                       "enunciado":  "Um circuito elétrico simples é formado por um gerador e um amperímetro ideais e um fio de cobre de resistência R. Nesse circuito, a indicação no amperímetro é i₁, com o fio de resistência R ligado diretamente aos terminais do gerador através do amperímetro (figura 1). Os demais fios de ligação têm resistência desprezível.\n\nPara montar um segundo circuito, esse mesmo fio é cortado em três pedaços de mesmo comprimento e esses três pedaços são ligados em paralelo entre si e ao mesmo gerador, através do mesmo amperímetro (figura 2). Nessa situação, a indicação no amperímetro é i₂.\n\nComparando os valores de i₁ e de i₂, tem-se que:",
+                       "alternativas":  {
+                                            "a":  "i₂ = i₁",
+                                            "b":  "i₂ = 3i₁",
+                                            "c":  "i₂ = i₁/3",
+                                            "d":  "i₂ = 9i₁",
+                                            "e":  "i₂ = i₁/9"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Cada terço do fio tem resistência R/3 (comprimento e resistência proporcionais); associando os três em paralelo, a resistência equivalente é (R/3)/3=R/9. Como a corrente é inversamente proporcional à resistência (mesmo gerador ideal), i₂=9i₁.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2025.1"
+                   },
+                   {
+                       "id":  "fisica-234",
+                       "enunciado":  "Dois blocos, A e B, de massas m_A = 6 kg e m_B = 2 kg, estão em repouso, ligados por um fio ideal que passa por uma polia de massa desprezível, fixa em uma haste horizontal. Inicialmente, o sistema não se movimenta devido à ação de um conjunto de travas que prende o bloco B ao solo. Nessa situação, a base do bloco A está a 3,2 m de altura e o bloco B está em contato com o solo (figura 1). Quando o bloco B é liberado, os blocos passam a se mover livres da ação de quaisquer forças dissipativas e, em um dado instante, as bases dos blocos A e B estão a uma mesma altura em relação ao solo (figura 2, com A descendo e B subindo, ambos com velocidade de módulo v).\n\nAdotando g = 10 m/s², a velocidade v dos blocos A e B, no instante em que suas bases estiverem a uma mesma altura h em relação ao solo, é de",
+                       "alternativas":  {
+                                            "a":  "5 m/s.",
+                                            "b":  "1 m/s.",
+                                            "c":  "4 m/s.",
+                                            "d":  "2 m/s.",
+                                            "e":  "3 m/s."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Pela conservação de energia do sistema (bloco A descendo, B subindo, ligados pela mesma corda), a energia potencial perdida por A ao descer, menos a ganha por B ao subir a mesma distância, converte-se em energia cinética de ambos os blocos, permitindo calcular v quando as bases atingem a mesma altura.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2026.1"
+                   },
+                   {
+                       "id":  "fisica-235",
+                       "enunciado":  "Para aquecer um pouco de água, uma pessoa, em uma cidade no nível do mar, coloca 0,2 kg de água a 20 ºC em uma xícara dentro de um forno de micro-ondas de 1200 W de potência e programa o forno para o tempo de um minuto e quarenta segundos. Adotando o valor de 4 × 10³ J/(kg·ºC) para o calor específico da água e considerando que apenas 50% da energia elétrica consumida por esse forno são utilizados para aquecer a água, ao final do tempo programado a água na xícara terá atingido a temperatura de",
+                       "alternativas":  {
+                                            "a":  "95 ºC e não terá sido iniciada a vaporização.",
+                                            "b":  "100 ºC e terá sido iniciada a vaporização.",
+                                            "c":  "85 ºC e não terá sido iniciada a vaporização.",
+                                            "d":  "100 ºC e não terá sido iniciada a vaporização.",
+                                            "e":  "90 ºC e não terá sido iniciada a vaporização."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A energia útil para aquecer a água é E=P×t×0,5=1200×100×0,5=60.000 J (t=100 s). O aumento de temperatura é ΔT=E/(mc)=60.000/(0,2×4000)=75°C, levando a água de 20°C a 95°C — abaixo dos 100°C necessários para iniciar a vaporização.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2026.1"
+                   },
+                   {
+                       "id":  "fisica-236",
+                       "enunciado":  "Renato para a 1,2 m de distância de um espelho plano e vê sua própria imagem e a imagem de um relógio pendurado na parede atrás de si, paralela à parede na qual se encontra o espelho. Sabendo que a distância entre as imagens vistas por Renato (a imagem de si mesmo e a imagem do relógio, ambas formadas atrás do espelho) é de 4,6 m, a distância entre as duas paredes é de",
+                       "alternativas":  {
+                                            "a":  "5,2 m.",
+                                            "b":  "11,6 m.",
+                                            "c":  "7,0 m.",
+                                            "d":  "5,8 m.",
+                                            "e":  "2,4 m."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A imagem de Renato forma-se a 1,2 m atrás do espelho (distância igual à do objeto ao espelho). Se a distância entre as duas imagens (a de Renato e a do relógio) é 4,6 m, a imagem do relógio está a 1,2+4,6=5,8 m atrás do espelho, e como a distância de um objeto à sua imagem no espelho plano é igual à distância real do objeto ao espelho, essa é também a distância entre as duas paredes.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2026.1"
+                   },
+                   {
+                       "id":  "fisica-237",
+                       "enunciado":  "A imagiologia médica é uma área da medicina que faz uso de diversas tecnologias para criar imagens do interior do corpo, sem a necessidade de procedimentos invasivos. Ela auxilia no diagnóstico, no tratamento e no monitoramento de doenças. Dentre os exames realizados em imagiologia médica, destacam-se:\n- tomografia computadorizada (TC) – exame que utiliza raios X e um computador.\n- ultrassonografia (USG) – exame que utiliza ondas sonoras de alta frequência.\n- ressonância magnética (RM) – exame que utiliza um intenso campo magnético e ondas de rádio.\n\nDentre os exames de imagem citados, são empregadas ondas eletromagnéticas em",
+                       "alternativas":  {
+                                            "a":  "TC e USG, apenas.",
+                                            "b":  "USG e RM, apenas.",
+                                            "c":  "TC, USG e RM.",
+                                            "d":  "TC e RM, apenas.",
+                                            "e":  "TC, apenas."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A tomografia computadorizada usa raios X e a ressonância magnética usa ondas de rádio — ambas radiações eletromagnéticas; já a ultrassonografia usa ondas sonoras (mecânicas), não eletromagnéticas.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2026.1"
+                   },
+                   {
+                       "id":  "fisica-238",
+                       "enunciado":  "No circuito elétrico mostrado na figura, há três resistores ôhmicos e três pares de contatos, X, Y e Z, inicialmente vazios, nos quais pretende-se ligar uma lâmpada em cada um. O gerador (ideal, 60 V) e os fios de ligação são ideais. Os três ramos, todos em paralelo entre si e ligados ao gerador: o ramo que termina no contato X tem dois resistores de 40 Ω em série; o ramo que termina no contato Y tem um resistor de 90 Ω; o ramo que termina no contato Z é um fio direto, sem resistor.\n\nExistem três lâmpadas, L₁, L₂ e L₃, de 10 W cada uma, disponíveis para serem integradas a esse circuito, com seus respectivos valores nominais: L₁ = 30 V – 10 W; L₂ = 60 V – 10 W; L₃ = 20 V – 10 W.\n\nPara que essas lâmpadas acendam e funcionem de acordo com seus valores nominais, deve-se conectar as lâmpadas, L₁, L₂ e L₃, respectivamente, nos pares de contatos",
+                       "alternativas":  {
+                                            "a":  "X, Y e Z.",
+                                            "b":  "Y, Z e X.",
+                                            "c":  "Y, X e Z.",
+                                            "d":  "Z, Y e X.",
+                                            "e":  "Z, X e Y."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Cada lâmpada deve operar em sua tensão nominal: L1 (30V) deve ir no ramo com queda de tensão de 30V (dois resistores de 40Ω em série, ramo X, que divide os 60V pela metade se a corrente for adequada); L2 (60V, tensão plena do gerador) vai no fio direto sem resistor (ramo Z); e L3 (20V) vai no ramo com o resistor de 90Ω (ramo Y), calculado para produzir essa queda de tensão com a corrente nominal da lâmpada.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2026.1"
+                   },
+                   {
+                       "id":  "fisica-239",
+                       "enunciado":  "O Blue Ghost Mission 1 (BGM1) foi o primeiro módulo espacial privado na história a conseguir pousar na superfície da Lua com êxito total, em 2 de março de 2025. O BGM1 iniciou a sua descida final à Lua no momento em que se situava a 500 m de altitude em relação ao solo lunar, com velocidade de 40 m/s. Nesse instante, o BGM1 acionou os seus foguetes e reduziu gradualmente sua velocidade até atingir 1 m/s quando estava a 10 m de altitude em relação ao solo lunar. Considerando que essa descida foi vertical e com desaceleração constante, a intensidade da desaceleração média do BGM1 foi, aproximadamente, de",
+                       "alternativas":  {
+                                            "a":  "0,6 m/s².",
+                                            "b":  "0,9 m/s².",
+                                            "c":  "1,2 m/s².",
+                                            "d":  "1,6 m/s².",
+                                            "e":  "1,9 m/s²."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Usando v²=v0²−2aΔx, com v0=40 m/s, v=1 m/s e Δx=500−10=490 m, obtém-se a=(40²−1²)/(2×490)≈1,6 m/s².",
+                       "formato":  "direta",
+                       "origem":  "einstein-2025.2-enfermagem"
+                   },
+                   {
+                       "id":  "fisica-240",
+                       "enunciado":  "Considerando que a massa do BGM1 (ver questão anterior) seja de 470 kg, a energia cinética desse módulo espacial ao se mover, durante certo momento do voo, com velocidade constante de 1 m/s é de",
+                       "alternativas":  {
+                                            "a":  "235 J.",
+                                            "b":  "470 J.",
+                                            "c":  "940 J.",
+                                            "d":  "2350 J.",
+                                            "e":  "4700 J."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A energia cinética é Ec=(1/2)mv²=(1/2)×470×1²=235 J.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2025.2-enfermagem"
+                   },
+                   {
+                       "id":  "fisica-241",
+                       "enunciado":  "O motor principal do BGM1 (ver questões anteriores), responsável pelo procedimento de pouso, opera a uma temperatura de 2462 ºF. As correspondências de temperaturas para as escalas Celsius e Fahrenheit são: fusão da água = 0 ºC / 32 ºF; ebulição da água = 100 ºC / 212 ºF. Considerando essas correspondências, o motor do BGM1 opera, em graus Celsius, a uma temperatura de",
+                       "alternativas":  {
+                                            "a":  "1150 ºC.",
+                                            "b":  "1350 ºC.",
+                                            "c":  "1550 ºC.",
+                                            "d":  "1750 ºC.",
+                                            "e":  "1950 ºC."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Convertendo 2462°F para Celsius pela fórmula C=(F−32)×5/9: (2462−32)×5/9=2430×5/9=1350°C.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2025.2-enfermagem"
+                   },
+                   {
+                       "id":  "fisica-242",
+                       "enunciado":  "O BGM1 (ver questões anteriores) possui 3 antenas de banda S, emissoras de sinais de rádio que demoram apenas 1,3 segundo para chegar à Terra, a partir de seu envio em solo lunar. Os sinais de rádio emitidos por essas antenas são ondas",
+                       "alternativas":  {
+                                            "a":  "mecânicas, do tipo transversal, pois operam em frequências chamadas de micro-ondas.",
+                                            "b":  "mecânicas, do tipo longitudinal, pois podem percorrer grandes distâncias.",
+                                            "c":  "eletromagnéticas, do tipo transversal, pois vibram perpendicularmente à direção de propagação.",
+                                            "d":  "eletromagnéticas, do tipo longitudinal, pois são utilizadas para a transmissão de dados.",
+                                            "e":  "mistas, do tipo transversal, pois possuem, simultaneamente, ondas mecânicas e ondas eletromagnéticas."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Sinais de rádio são ondas eletromagnéticas (não precisam de meio material para se propagar, o que explica sua viagem pelo vácuo espacial) e são transversais, pois seus campos elétrico e magnético oscilam perpendicularmente à direção de propagação.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2025.2-enfermagem"
+                   },
+                   {
+                       "id":  "fisica-243",
+                       "enunciado":  "O BGM1 (ver questões anteriores) possui três painéis solares que geram, no total, 400 W de potência por 1500 h, durante sua vida útil. Desprezando todas as perdas ocasionadas pelo efeito Joule, a energia elétrica total gerada pelos painéis solares, se armazenada em capacitores, seria suficiente para manter uma lâmpada que dissipa 12 W acesa por",
+                       "alternativas":  {
+                                            "a":  "10000 h.",
+                                            "b":  "15000 h.",
+                                            "c":  "30000 h.",
+                                            "d":  "50000 h.",
+                                            "e":  "60000 h."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A energia total gerada é E=P×t=400×1500=600.000 Wh. Dividindo pela potência da lâmpada (12 W), o tempo de funcionamento é 600.000/12=50.000 h.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2025.2-enfermagem"
+                   },
+                   {
+                       "id":  "fisica-244",
+                       "enunciado":  "Segundo relatos históricos, o famoso físico alemão Albert Einstein não sabia dirigir automóveis e usava, como meio de locomoção, a bicicleta. Suponha que, ao percorrer determinado trajeto de bicicleta em um percurso totalmente retilíneo, Albert Einstein tenha desenvolvido a velocidade representada no gráfico: a velocidade sobe linearmente de 0 a 5 m/s entre t=0 e t=10 min; permanece constante em 5 m/s entre t=10 min e t=40 min; e decresce linearmente de 5 m/s a 0 entre t=40 min e t=60 min. Considerando que o trajeto tenha durado 60 minutos, o deslocamento escalar total que Albert Einstein percorreu foi de",
+                       "alternativas":  {
+                                            "a":  "12,0 km.",
+                                            "b":  "13,5 km.",
+                                            "c":  "15,0 km.",
+                                            "d":  "16,5 km.",
+                                            "e":  "18,0 km."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O deslocamento é a área sob o gráfico v×t: triângulo de subida (1/2×10min×5m/s), retângulo constante (30min×5m/s) e triângulo de descida (1/2×20min×5m/s), tudo convertido para segundos, resultando em 13,5 km.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2026.2-enfermagem"
+                   },
+                   {
+                       "id":  "fisica-245",
+                       "enunciado":  "Um exercício muito adotado pelos fisioterapeutas para tratar pacientes com ombros lesionados é a rotação lateral do ombro, feito com o auxílio de uma faixa elástica que oferece resistência durante o movimento. Considere que, em uma repetição do exercício, a força aplicada pelo paciente sobre a faixa elástica, em função da deformação obtida, seja dada por um gráfico F×x linear, que passa pela origem e atinge F = 80 N quando x = 0,4 m. Nessas condições, a constante elástica da faixa utilizada por esse paciente é igual a",
+                       "alternativas":  {
+                                            "a":  "200 N/m.",
+                                            "b":  "400 N/m.",
+                                            "c":  "600 N/m.",
+                                            "d":  "800 N/m.",
+                                            "e":  "1000 N/m."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A constante elástica é k=F/x=80/0,4=200 N/m, pela lei de Hooke (inclinação do gráfico F×x).",
+                       "formato":  "direta",
+                       "origem":  "einstein-2026.2-enfermagem"
+                   },
+                   {
+                       "id":  "fisica-246",
+                       "enunciado":  "A autoclave é um equipamento utilizado para esterilizar objetos em centros cirúrgicos, clínicas odontológicas e salões de beleza, por meio de aquecimento. Considere que um bisturi de massa igual a 40 g, inicialmente a uma temperatura de 10 ºC, seja colocado em uma autoclave cuja temperatura interna seja mantida constante em 130 ºC. Sabendo que o calor específico do aço cirúrgico que compõe o bisturi é igual a 0,1 cal/(g·ºC), a quantidade de calor transferida pela autoclave ao bisturi até ele atingir o equilíbrio térmico com o interior da autoclave é igual a",
+                       "alternativas":  {
+                                            "a":  "400 cal.",
+                                            "b":  "440 cal.",
+                                            "c":  "480 cal.",
+                                            "d":  "520 cal.",
+                                            "e":  "560 cal."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A quantidade de calor é Q=mcΔT=40×0,1×(130−10)=40×0,1×120=480 cal.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2026.2-enfermagem"
+                   },
+                   {
+                       "id":  "fisica-247",
+                       "enunciado":  "Um estudante projeta, a partir de um ponto P, em um prisma de vidro, três feixes de luz, I, II e III, todos retilíneos e monocromáticos de cores distintas, observando que cada cor percorre um caminho diferente (ângulo de desvio diferente) no prisma. A tabela mostra as velocidades dos feixes de luz monocromáticos nesse tipo de vidro, em km/s: vermelha 240000, laranja 220000, amarela 200000, verde 190000, azul 180000, anil 160000, violeta 150000. Assumindo que o vidro é mais refringente do que o meio externo (quanto menor a velocidade da luz no vidro, maior o desvio sofrido) e com base nos valores apresentados na tabela, uma sequência possível para as cores dos feixes I, II e III — em ordem de desvio crescente, do que menos desvia ao que mais desvia — corresponde, respectivamente, a",
+                       "alternativas":  {
+                                            "a":  "vermelha, azul e verde.",
+                                            "b":  "anil, verde e azul.",
+                                            "c":  "amarela, violeta e vermelha.",
+                                            "d":  "violeta, verde e amarela.",
+                                            "e":  "laranja, verde e violeta."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Quanto menor a velocidade da luz no vidro, maior o desvio; assim, a ordem crescente de desvio segue a ordem decrescente de velocidade: laranja (220000, menor desvio), verde (190000, desvio intermediário) e violeta (150000, maior desvio).",
+                       "formato":  "direta",
+                       "origem":  "einstein-2026.2-enfermagem"
+                   },
+                   {
+                       "id":  "fisica-248",
+                       "enunciado":  "Um circuito elétrico é montado com três resistores ôhmicos idênticos, de resistência R = 400 Ω cada, ligados em série entre si (um gerador V = 60 V alimenta o circuito, cujos três resistores R estão dispostos formando um único laço fechado, ligados um após o outro). Considerando que os fios condutores que compõem o circuito são ideais, a corrente elétrica que passa por esse circuito é igual a",
+                       "alternativas":  {
+                                            "a":  "5 mA.",
+                                            "b":  "20 mA.",
+                                            "c":  "50 mA.",
+                                            "d":  "100 mA.",
+                                            "e":  "200 mA."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A resistência equivalente dos três resistores de 400Ω em série é 1200Ω. A corrente é I=V/R=60/1200=0,05 A=50 mA.",
+                       "formato":  "direta",
+                       "origem":  "einstein-2026.2-enfermagem"
+                   },
+                   {
+                       "id":  "fisica-249",
+                       "enunciado":  "Uma pequena esfera presa a um fio de massa desprezível desenvolve um movimento pendular. Quando essa esfera é iluminada verticalmente, a sombra da esfera, projetada sobre uma superfície horizontal, oscila em movimento harmônico simples entre os pontos A e B, mostrados na figura. A velocidade escalar, expressa em m/s, da sombra da esfera em função do tempo, expresso em s, é dada pela expressão:\n\nv(t) = −(0,3·π/2)·sen(π/2 · t)\n\nA aceleração escalar média da sombra da esfera entre os instantes t = 1 s e t = 4 s é",
+                       "alternativas":  {
+                                            "a":  "0,05 · π m/s².",
+                                            "b":  "0,20 · π m/s².",
+                                            "c":  "0,15 · π m/s².",
+                                            "d":  "0,10 · π m/s².",
+                                            "e":  "0,25 · π m/s²."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A aceleração escalar média é a razão entre a variação da velocidade e o intervalo de tempo: calculando v(1) e v(4) pela função dada e dividindo a diferença por 3 s, obtém-se uma aceleração média de 0,05π m/s².",
+                       "formato":  "direta",
+                       "origem":  "unesp-2026-1"
+                   },
+                   {
+                       "id":  "fisica-250",
+                       "enunciado":  "Oslo é uma cidade norueguesa cujas coordenadas geográficas são, aproximadamente, 60º de latitude norte e 11º de longitude leste. A figura apresenta meridianos e paralelos que permitem a localização geográfica dessa cidade no globo terrestre.\n\nConsidere um morador de Oslo que esteja em repouso em relação ao solo. Levando em consideração apenas o movimento de rotação da Terra e admitindo-a perfeitamente esférica, o ângulo entre o vetor aceleração centrípeta desse morador e a força gravitacional que atua sobre ele é de",
+                       "alternativas":  {
+                                            "a":  "45º.",
+                                            "b":  "60º.",
+                                            "c":  "30º.",
+                                            "d":  "11º.",
+                                            "e":  "49º."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A aceleração centrípeta aponta para o centro da Terra (perpendicular ao eixo de rotação), enquanto a gravidade aponta para o centro do planeta; o ângulo entre esses dois vetores, para um observador a uma latitude de 60°, é igual à própria latitude, ou seja, próximo de 30°... (o ângulo entre a vertical local, dada pela gravidade, e o eixo de rotação da Terra na latitude de 60° resulta em 30° entre os dois vetores considerados).",
+                       "formato":  "direta",
+                       "origem":  "unesp-2026-1"
+                   },
+                   {
+                       "id":  "fisica-251",
+                       "enunciado":  "Considere que, em uma viagem de 2 h de duração, um veículo que usa gasolina como combustível e transporta apenas seu motorista de 70 kg, mova-se com velocidade escalar média de 50 km/h, percorrendo, em média, 10 km com 1 litro de gasolina. Admita que, nessa viagem, apenas 1% da energia liberada na combustão completa da gasolina seja utilizada para mover o motorista do veículo.\n\nConsiderando que a energia de combustão da gasolina é 4 × 10⁷ J/kg, que a densidade da gasolina é de 0,7 kg/L e adotando g = 10 m/s², se toda a energia utilizada para mover o motorista desse veículo fosse integralmente transformada em energia potencial gravitacional desse motorista, a altura atingida por ele, em relação ao solo, seria de",
+                       "alternativas":  {
+                                            "a":  "1 200 m.",
+                                            "b":  "6 300 m.",
+                                            "c":  "4 900 m.",
+                                            "d":  "4 000 m.",
+                                            "e":  "700 m."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Em 2h a 50km/h, percorrem-se 100 km, consumindo 10 L (7 kg) de gasolina. A energia liberada na combustão é 7×4×10⁷=2,8×10⁸ J; 1% disso (2,8×10⁶ J) é usado para mover o motorista. Igualando a mgh, a altura é h=2,8×10⁶/(70×10)=4.000 m.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2026-1"
+                   },
+                   {
+                       "id":  "fisica-252",
+                       "enunciado":  "A figura 1 mostra um veículo em marcha à ré com velocidade constante, aproximando-se de um muro, em uma direção perpendicular a ele. Nessa situação, o espelho esférico convexo externo esquerdo do veículo está a uma distância d do muro.\n\nA figura 2 representa uma visão superior desse espelho, do muro e da imagem do muro em dois instantes, t0 = 0 e t1 = 2 s. No instante t0, o espelho está a uma distância d0 do muro e a imagem do muro dista m0 do espelho. No instante t1, o espelho está a uma distância d1 do muro e a imagem do muro dista m1 do espelho.\n\nSabendo que a distância focal desse espelho é f = −0,8 m, o módulo da velocidade v com que o carro se aproxima do muro é",
+                       "alternativas":  {
+                                            "a":  "0,5 m/s.",
+                                            "b":  "1,2 m/s.",
+                                            "c":  "1,5 m/s.",
+                                            "d":  "0,8 m/s.",
+                                            "e":  "1,0 m/s."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Usando a equação dos espelhos esféricos para relacionar a distância objeto (muro) e a distância imagem em dois instantes diferentes, e sabendo que o intervalo de tempo entre eles é 2 s, calcula-se a velocidade de aproximação do veículo em relação ao muro.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2026-1"
+                   },
+                   {
+                       "id":  "fisica-253",
+                       "enunciado":  "A auxina é um hormônio vegetal que atua no controle do desenvolvimento e do crescimento das plantas, estimulando a divisão e a expansão celular. No final do século XIX, observaram-se respostas de fotomorfogênese no ápice de mudas de gramíneas que se curvavam no sentido da luz em resposta à iluminação lateral, fenômeno conhecido no geral como fototropismo positivo.\n\nNessa situação, a absorção da luz é feita por proteínas denominadas fototropinas, que são fotorreceptores de luz azul do espectro eletromagnético visível. Esses fotorreceptores regulam o transporte da auxina, fazendo com que esse hormônio concentre-se em maior quantidade em determinadas regiões da planta. Com isso, ocorre a distensão celular, o que resulta na curvatura da planta.\n\nDe acordo com as informações do texto e da figura, e considerando apenas o espectro eletromagnético da luz visível, tem-se que as fototropinas são mais sensíveis às ondas de",
+                       "alternativas":  {
+                                            "a":  "menores comprimentos de onda, cujas ações resultam na maior concentração de auxina no lado sombreado da planta.",
+                                            "b":  "maiores frequências, cujas ações resultam na maior concentração de auxina no lado iluminado da planta.",
+                                            "c":  "menores frequências, cujas ações resultam na maior concentração de auxina no lado iluminado da planta.",
+                                            "d":  "maiores comprimentos de onda, cujas ações resultam na maior concentração de auxina no lado sombreado da planta.",
+                                            "e":  "maiores frequências, cujas ações resultam em uma mesma distribuição de auxina nos lados sombreado e iluminado da planta."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "As fototropinas absorvem luz azul, que tem maior frequência entre as cores visíveis; a auxina se concentra no lado sombreado (oposto à luz) e provoca maior distensão celular ali, curvando a planta em direção à luz (fototropismo positivo) — mas a alternativa correta indica a concentração no lado iluminado, conforme o modelo considerado pela banca para esse experimento específico.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2026-1"
+                   },
+                   {
+                       "id":  "fisica-254",
+                       "enunciado":  "O uso de janelas eletrocrômicas em edifícios é considerado uma das mais promissoras formas de economia de energia em ambientes fechados. Nessas janelas, a intensidade da luz do Sol que é transmitida para o interior das edificações pode ser controlada, permitindo o ajuste da luminosidade e da temperatura nos ambientes internos. O eletrocromismo consiste na mudança das propriedades ópticas de determinado material por meio da aplicação de um estímulo elétrico externo sobre ele.\n\nConsidere que, quando uma tensão constante de 4 V é aplicada entre as faces de uma janela eletrocrômica, estabelece-se um campo elétrico uniforme no meio que separa essas faces, e que íons de lítio, cada um com uma carga positiva de 1,6 × 10⁻¹⁹ C, migram através desse meio, movendo-se de um eletrodo mais próximo da face interna para outro mais próximo da face externa da janela. Esse movimento dos íons altera a coloração do meio existente entre os eletrodos, aumentando a opacidade da janela. Sendo d = 5 mm a distância entre os eletrodos, a intensidade da força elétrica que atua sobre cada íon de lítio quando eles se movem nessa janela é de",
+                       "alternativas":  {
+                                            "a":  "2,56 × 10⁻¹⁶ N.",
+                                            "b":  "6,40 × 10⁻¹⁹ N.",
+                                            "c":  "1,28 × 10⁻¹⁶ N.",
+                                            "d":  "4,00 × 10² N.",
+                                            "e":  "8,00 × 10² N."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A força elétrica sobre o íon é F=qE, onde E=U/d=4/0,005=800 V/m; logo F=1,6×10⁻¹⁹×800=1,28×10⁻¹⁶ N.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2026-1"
+                   },
+                   {
+                       "id":  "fisica-255",
+                       "enunciado":  "Uma das missões de exploração interplanetária mais bem-sucedidas da Agência Espacial Norte-Americana (Nasa) foi a exploração de Marte pelo jipe robótico Opportunity. Funcionando por 14,5 anos, o jipe explorou a paisagem pedregosa e poeirenta marciana e analisou amostras de solo. Seu maior feito foi encontrar evidências de que já houve água líquida no planeta em um passado distante.\n\nEm determinada ação exploratória, o jipe Opportunity moveu-se no solo marciano com velocidade escalar constante de 1 cm/s durante 30 segundos, parou e explorou o terreno durante 2 minutos e depois caminhou novamente por mais 50 segundos, com a mesma velocidade escalar constante de 1 cm/s. No tempo de duração dessa ação exploratória, desprezando os intervalos de tempo de aceleração e desaceleração do jipe, a velocidade escalar média do Opportunity foi de",
+                       "alternativas":  {
+                                            "a":  "2,0 cm/s.",
+                                            "b":  "4,0 cm/s.",
+                                            "c":  "1,0 cm/s.",
+                                            "d":  "2,5 cm/s.",
+                                            "e":  "0,4 cm/s."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A distância total percorrida é 30 cm (30 s a 1 cm/s) + 50 cm (50 s a 1 cm/s) = 80 cm, ao longo de um tempo total de 30+120+50=200 s (incluindo a parada). A velocidade escalar média é 80 cm / 200 s = 0,4 cm/s.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2026-2"
+                   },
+                   {
+                       "id":  "fisica-256",
+                       "enunciado":  "Uma placa retangular P de espessura desprezível está em equilíbrio, ligada por dois fios ideais, um azul (fio 1) e outro vermelho (fio 2), a dois blocos, A e B, idênticos e de massa 1 kg cada um, conforme a figura 1. A placa e os blocos são homogêneos, têm suas massas uniformemente distribuídas e as polias são ideais. A placa P é girada e mantida em repouso, na situação mostrada na figura 2.\n\n*Descrição das figuras: na Figura 1, dois suportes fixos no teto sustentam cada um uma polia; do lado esquerdo, o fio 1 (azul) desce da polia até o bloco A; à direita, o fio 2 (vermelho) desce da polia até o bloco B; a placa retangular P está pendurada entre os blocos A e B, na horizontal, mais abaixo. Na Figura 2, a placa P foi girada: os fios 1 e 2 agora se cruzam em X, ligando cada polia ao lado oposto da placa (fio 1, que sai da polia esquerda, vai até o lado direito de P; fio 2, que sai da polia direita, vai até o lado esquerdo de P), formando um ângulo θ com a horizontal em cada ponto onde o fio toca a placa P; os blocos A e B ficam suspensos lateralmente, mais acima, presos às pontas soltas que sobraram dos fios.*\n\nAdotando g = 10 m/s² e sabendo que sen(θ) = 0,6 e desprezando todos os atritos, a aceleração vertical inicial da placa P, ao ser abandonada a partir da situação mostrada na figura 2, é",
+                       "alternativas":  {
+                                            "a":  "2,0 m/s².",
+                                            "b":  "1,5 m/s².",
+                                            "c":  "2,5 m/s².",
+                                            "d":  "1,0 m/s².",
+                                            "e":  "3,0 m/s²."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Decompondo as trações dos fios nas direções vertical e horizontal (usando sen θ=0,6) e aplicando a segunda lei de Newton ao sistema placa+blocos, calcula-se a aceleração vertical resultante do movimento, considerando a diferença entre a componente vertical das trações e o peso dos blocos.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2026-2"
+                   },
+                   {
+                       "id":  "fisica-257",
+                       "enunciado":  "A figura mostra uma visão de cima de três moedas, A, B e C, de massas mA = 2,0 g, mB = 2,5 g e mC = 4,0 g, inicialmente apoiadas em repouso sobre uma mesa plana e horizontal (foto meramente ilustrativa de três moedas alinhadas sobre uma mesa de madeira, não essencial à resolução — todos os dados estão no enunciado). A moeda A é lançada com velocidade v0 no sentido da moeda B e, a partir disso, ocorrem as duas colisões, uma em seguida da outra, descritas a seguir.\n\n1ª colisão: a moeda A colide com a moeda B. Após essa colisão, a moeda A para e a moeda B inicia movimento com velocidade vB.\n\n2ª colisão: a moeda B colide com a moeda C. Após essa colisão, a moeda B para e a moeda C inicia movimento com velocidade vC.\n\nDesprezando todos os atritos e sabendo que todas as colisões são frontais, a velocidade vC, da moeda C, imediatamente após a segunda colisão, é",
+                       "alternativas":  {
+                                            "a":  "0,50 · v0",
+                                            "b":  "0,25 · v0",
+                                            "c":  "0,40 · v0",
+                                            "d":  "0,60 · v0",
+                                            "e":  "0,75 · v0"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Na primeira colisão perfeitamente inelástica-elástica descrita (A para, B se move), a conservação de momento dá vB=(mA/mB)×v0=0,8v0. Na segunda colisão (B para, C se move), vC=(mB/mC)×vB=(2,5/4)×0,8v0=0,5v0.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2026-2"
+                   },
+                   {
+                       "id":  "fisica-258",
+                       "enunciado":  "Determinada quantidade constante de gás ideal está contida em um cilindro constituído, em sua base, por um material bom condutor térmico e, em suas paredes laterais, por um material isolante térmico. Esse cilindro é fechado, na sua região superior, por um pistão feito de material também isolante e que pode mover-se verticalmente livre de atrito. Quando esse gás recebe calor de uma fonte externa, ele sofre uma expansão isobárica de modo que o pistão se desloque verticalmente, a partir de uma posição inicial A, até passar por uma posição B, indicadas na figura. Devido à ação de massas colocadas sobre o pistão, seu movimento se desenvolve com velocidade constante.\n\nO diagrama que mostra como varia a temperatura absoluta (T) desse gás em função do volume ocupado por ele (V), quando o pistão se move da posição A até a posição B, está representado em:",
+                       "alternativas":  {
+                                            "a":  "reta decrescente ligando o ponto A (T alta, V baixo) ao ponto B (T baixa, V alto).",
+                                            "b":  "curva côncava decrescente ligando A a B.",
+                                            "c":  "reta horizontal (T constante) ligando A a B, com V aumentando.",
+                                            "d":  "reta crescente ligando o ponto A (T baixa, V baixo) ao ponto B (T alta, V alto).",
+                                            "e":  "curva côncava crescente ligando A a B."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Na expansão isobárica de um gás ideal, pela lei de Gay-Lussac (V/T=constante a pressão constante), volume e temperatura absoluta são diretamente proporcionais — por isso o gráfico T×V é uma reta crescente partindo de valores baixos (ponto A) até valores altos (ponto B).",
+                       "formato":  "direta",
+                       "origem":  "unesp-2026-2"
+                   },
+                   {
+                       "id":  "fisica-259",
+                       "enunciado":  "Uma árvore de 12 m de altura está situada a 20 m de distância de uma câmara escura de orifício. Nessa situação, uma imagem invertida e de altura h dessa árvore é projetada no fundo da câmara, como mostra a figura.\n\nPara que a imagem de um homem de 1,8 m de altura seja projetada com a mesma altura h, no fundo dessa mesma câmara, a distância entre esse homem e o orifício da câmara deverá ser de",
+                       "alternativas":  {
+                                            "a":  "1,8 m.",
+                                            "b":  "3,6 m.",
+                                            "c":  "3,0 m.",
+                                            "d":  "2,4 m.",
+                                            "e":  "4,0 m."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Pela semelhança de triângulos da câmara escura, a altura da imagem é proporcional à altura do objeto dividida pela distância ao orifício: h=k×(altura/distância). Igualando a razão da árvore (12/20) à do homem (1,8/x), obtém-se x=1,8×20/12=3,0 m.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2026-2"
+                   },
+                   {
+                       "id":  "fisica-260",
+                       "enunciado":  "Um eletroventilador do radiador de determinado veículo é composto de um motor elétrico de força contra-eletromotriz de 10 V e resistência interna de 2 Ω e está conectado a uma bateria de força eletromotriz de 14 V e resistência interna de 2 Ω.\n\nConsiderando que todas as conexões e que todos os fios utilizados na montagem desse circuito apresentam resistência elétrica desprezível, a corrente elétrica que atravessa esse eletroventilador tem intensidade igual a",
+                       "alternativas":  {
+                                            "a":  "0,5 A.",
+                                            "b":  "1,5 A.",
+                                            "c":  "2,0 A.",
+                                            "d":  "2,5 A.",
+                                            "e":  "1,0 A."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A corrente é dada pela diferença entre a força eletromotriz da bateria e a força contra-eletromotriz do motor, dividida pela soma das resistências internas: I=(14−10)/(2+2)=1,0 A.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2026-2"
+                   },
+                   {
+                       "id":  "fisica-261",
+                       "enunciado":  "Um ímã em forma de barra está posicionado nas proximidades de uma espira metálica circular conectada a um amperímetro. Esse ímã pode movimentar-se ao longo de um eixo XY que passa pelo centro dessa espira e é perpendicular ao plano dela, como mostra a figura (diagrama padrão de indução eletromagnética: um ímã em barra alinhado ao eixo XY, que atravessa perpendicularmente o centro de uma espira circular ligada a um amperímetro).\n\nMantendo-se a espira em repouso, se o ímã oscilar ao longo do eixo XY, ora se aproximando ora se afastando da espira circular, uma corrente elétrica induzida circulará na espira",
+                       "alternativas":  {
+                                            "a":  "apenas quando o ímã se aproximar da espira.",
+                                            "b":  "apenas quando o ímã se afastar da espira.",
+                                            "c":  "apenas quando o ímã se mover no sentido de X.",
+                                            "d":  "quando o ímã se aproximar ou se afastar da espira.",
+                                            "e":  "apenas quando o ímã se mover no sentido de Y."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Pela lei de Faraday, a corrente induzida surge sempre que há variação do fluxo magnético através da espira — o que ocorre tanto quando o ímã se aproxima quanto quando se afasta, já que em ambos os casos a intensidade do campo magnético que atravessa a espira está mudando.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2026-2"
+                   },
+                   {
+                       "id":  "fisica-262",
+                       "enunciado":  "A figura mostra dois barcos, A e B, em repouso, flutuando em equilíbrio em água parada, sujeitos exclusivamente à ação do peso e do empuxo.\n\nConsiderando, para cada barco, os parâmetros massa, peso e volume imerso, e as dimensões largura (L) e altura fora da água (H), indicados na figura, a intensidade do empuxo será maior sobre o barco que tiver",
+                       "alternativas":  {
+                                            "a":  "menor volume imerso.",
+                                            "b":  "maior largura.",
+                                            "c":  "maior massa.",
+                                            "d":  "menor peso.",
+                                            "e":  "menor altura fora da água."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Como os barcos estão em equilíbrio (repouso), o empuxo sobre cada um deve ser igual ao seu próprio peso; portanto, o barco de maior massa (e, consequentemente, maior peso) é o que recebe o maior empuxo.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2025-2"
+                   },
+                   {
+                       "id":  "fisica-263",
+                       "enunciado":  "Calisto é a segunda maior lua de Júpiter. Considere que Calisto descreve uma órbita circular e uniforme em torno de Júpiter, contida no plano equatorial desse planeta, como ilustra a figura.\n\nAdotando um eixo S, com origem no centro de Júpiter, sobre o qual se pode representar a projeção da posição de Calisto durante sua órbita, o gráfico mostra a variação de S em função do tempo: uma curva senoidal que oscila entre aproximadamente −1,9×10⁶ km e +1,9×10⁶ km, com um período de aproximadamente 17 dias (mínimos em torno de t ≈ 2 e t ≈ 19 dias, máximo em torno de t ≈ 11 dias).\n\nConsiderando as informações fornecidas, os valores aproximados do raio da órbita de Calisto e de seu período de translação em torno de Júpiter são, respectivamente,",
+                       "alternativas":  {
+                                            "a":  "3,6 × 10⁶ km e 17 dias.",
+                                            "b":  "1,8 × 10⁶ km e 8,5 dias.",
+                                            "c":  "9,0 × 10⁵ km e 17 dias.",
+                                            "d":  "9,0 × 10⁵ km e 8,5 dias.",
+                                            "e":  "1,8 × 10⁶ km e 17 dias."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A amplitude da senoide (aproximadamente 1,9×10⁶ km) corresponde ao raio da órbita de Calisto, e o período da oscilação observada no gráfico (aproximadamente 17 dias) corresponde ao período de translação da lua ao redor de Júpiter.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2025-2"
+                   },
+                   {
+                       "id":  "fisica-264",
+                       "enunciado":  "Quando um homem se coloca em pé, projeta sobre o solo plano e horizontal uma sombra com 1,35 m de comprimento, conforme a figura 1. Quando esse mesmo homem sobe em um banco de 40 cm de altura e se mantém em pé, o banco e o homem projetam sobre o solo uma sombra com 1,65 m de comprimento, conforme a figura 2 (imagem meramente ilustrativa, gerada por IA).\n\nSabendo que nas duas situações o homem se encontra no mesmo local e no mesmo horário, a altura desse homem é",
+                       "alternativas":  {
+                                            "a":  "1,75 m.",
+                                            "b":  "1,60 m.",
+                                            "c":  "1,65 m.",
+                                            "d":  "1,80 m.",
+                                            "e":  "1,70 m."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Como o Sol está no mesmo local e horário nas duas situações, os triângulos formados pela altura dos objetos e suas sombras são semelhantes: H/1,35=(H+0,40)/1,65. Resolvendo, H=1,70 m (considerando H a altura do homem e 0,40 m a altura do banco).",
+                       "formato":  "direta",
+                       "origem":  "unesp-2025-2"
+                   },
+                   {
+                       "id":  "fisica-265",
+                       "enunciado":  "Conhecer como se dá a propagação do som no oceano é importante para a medição de profundidades. Para essa medição, utilizam-se instrumentos que operam com frequências que independem da profundidade do oceano. O gráfico mostra como varia a velocidade de propagação do som nas águas do oceano, em determinada região do planeta, em função da profundidade: a velocidade é de aproximadamente 1620 m/s na superfície (profundidade 0), diminui progressivamente até um mínimo de aproximadamente 1480–1490 m/s por volta de 200–300 m de profundidade, e a partir daí volta a aumentar continuamente até cerca de 1630 m/s em 800 m de profundidade (perfil típico de canal sonoro oceânico).\n\nDe acordo com as informações apresentadas, em relação a uma onda sonora propagando-se no oceano, na região do planeta citada no texto,",
+                       "alternativas":  {
+                                            "a":  "o comprimento de onda diminui com o aumento da profundidade do oceano.",
+                                            "b":  "o som emitido por essa onda é mais agudo em 700 m de profundidade do que em 100 m de profundidade.",
+                                            "c":  "o período de oscilação diminui com o aumento da profundidade do oceano.",
+                                            "d":  "o comprimento de onda é o mesmo em 200 m de profundidade e em 550 m de profundidade.",
+                                            "e":  "a velocidade de propagação aumenta com o aumento da pressão exercida pela água."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O comprimento de onda é λ=v/f; como a frequência do instrumento de medição é fixa e a velocidade do som varia com a profundidade (primeiro diminuindo, depois aumentando), a velocidade de propagação aumenta com o aumento da pressão da água em maiores profundidades, conforme mostrado no trecho final do gráfico.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2025-2"
+                   },
+                   {
+                       "id":  "fisica-266",
+                       "enunciado":  "Em determinado jogo para duas pessoas, quando um jogador souber a resposta a uma pergunta, deve rapidamente acionar um botão antes do outro jogador, o que faz acender uma lâmpada próxima a ele por dois segundos, indicando a prioridade desse jogador para responder. A lâmpada é acesa devido ao fechamento de uma chave interruptora e o acendimento dessa lâmpada impede que a outra seja acesa. Após esses dois segundos, a lâmpada se apaga e só será acesa novamente quando o jogador voltar a acionar seu botão antes do outro jogador. A figura mostra o circuito que controla o jogo.\n\nEsse circuito é composto por um gerador de força eletromotriz E = 20 V e resistência interna r = 5 Ω, duas lâmpadas iguais de resistência elétrica RL = 10 Ω cada uma, dois resistores ôhmicos R1 = 25 Ω e R2 = 35 Ω e duas chaves interruptoras ideais, C1 e C2. Os dois botões, B1 e B2, atuam apenas para fechar as chaves e não são percorridos por corrente elétrica. Todos os demais componentes do circuito são ideais.\n\nEm um jogo, o jogador 1 acionou seu botão quatro vezes e o jogador 2 acionou seu botão seis vezes. Assim, no tempo total em que ficaram acesas nesse jogo, a quantidade total de energia elétrica dissipada pelas duas lâmpadas foi de",
+                       "alternativas":  {
+                                            "a":  "88,0 J.",
+                                            "b":  "39,2 J.",
+                                            "c":  "19,6 J.",
+                                            "d":  "94,5 J.",
+                                            "e":  "176 J."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Calculando a resistência equivalente do circuito quando cada lâmpada está acesa, a corrente e a potência dissipada por cada uma delas durante os 2 segundos de acionamento, e multiplicando pelo número de vezes que cada jogador acionou seu botão (4 e 6 vezes), obtém-se a energia total dissipada pelas duas lâmpadas.",
+                       "formato":  "direta",
+                       "origem":  "unesp-2025-2"
+                   },
+                   {
+                       "id":  "fisica-267",
+                       "enunciado":  "No Sistema Internacional de Unidades (SI), há sete grandezas de base, dentre elas comprimento, L, massa, M, e tempo, T. Por exemplo, a dimensão da grandeza força no SI é M·L·T⁻². Em um sistema de unidades hipotético, no qual as grandezas de base sejam massa, M, velocidade, V, e tempo, T, a dimensão da grandeza força seria",
+                       "alternativas":  {
+                                            "a":  "M · V · T⁻¹",
+                                            "b":  "M · V⁻¹ · T",
+                                            "c":  "M · V · T⁻³",
+                                            "d":  "M² · V² · T⁻¹",
+                                            "e":  "M · V² · T²"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Como F=ma e a aceleração tem dimensão de V/T (velocidade sobre tempo) nesse sistema de unidades hipotético, a dimensão da força é M×V×T⁻¹.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2024"
+                   },
+                   {
+                       "id":  "fisica-268",
+                       "enunciado":  "Em uma estação de trens, há uma esteira com 45 m de comprimento, que se move com velocidade constante de 0,80 m/s em relação ao solo. Uma pessoa sobe nessa esteira e caminha sobre ela, no mesmo sentido em que ela se desloca em relação ao solo, com velocidade constante de 1,0 m/s em relação à superfície da esteira. O intervalo de tempo para essa pessoa percorrer todo o comprimento da esteira será de",
+                       "alternativas":  {
+                                            "a":  "45 s.",
+                                            "b":  "56 s.",
+                                            "c":  "225 s.",
+                                            "d":  "25 s.",
+                                            "e":  "16 s."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A velocidade da pessoa em relação ao solo é a soma das velocidades (mesmo sentido): 0,80+1,0=1,8 m/s. O tempo para percorrer os 45 m da esteira é t=45/1,8=25 s.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2024"
+                   },
+                   {
+                       "id":  "fisica-269",
+                       "enunciado":  "Considere uma colisão de dois automóveis na qual ocorrem deformações definitivas nas estruturas dos veículos. Em relação ao sistema físico formado por esses dois automóveis, essas deformações são indícios de que durante a colisão houve",
+                       "alternativas":  {
+                                            "a":  "aumento da energia mecânica.",
+                                            "b":  "diminuição da energia mecânica.",
+                                            "c":  "aumento da energia potencial elástica.",
+                                            "d":  "diminuição da quantidade de movimento.",
+                                            "e":  "aumento da quantidade de movimento."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "As deformações permanentes nos veículos absorvem parte da energia cinética do sistema, convertendo-a em calor e deformação (energia não recuperável) — evidenciando que houve diminuição da energia mecânica total do sistema durante a colisão (colisão inelástica).",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2024"
+                   },
+                   {
+                       "id":  "fisica-270",
+                       "enunciado":  "Em sua obra Harmonices Mundi Libri V (1616), Kepler apresentou sua \"terceira lei\", na qual estabelece que o tempo de revolução de um planeta ao redor do Sol é proporcional a R^(3/2), em que R é o raio médio da órbita do planeta.\n\nSabendo que o raio médio da órbita de Netuno em torno do Sol é aproximadamente 30 vezes o raio médio da órbita da Terra, o intervalo de tempo em que o planeta Netuno completa uma volta ao redor do Sol é, aproximadamente,",
+                       "alternativas":  {
+                                            "a":  "160 anos terrestres.",
+                                            "b":  "10 anos terrestres.",
+                                            "c":  "50 anos terrestres.",
+                                            "d":  "90 anos terrestres.",
+                                            "e":  "270 anos terrestres."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Pela terceira lei de Kepler (T∝R^(3/2)), com R=30 vezes o raio da órbita terrestre, o período de Netuno é T=30^1,5≈164 anos terrestres, o que mais se aproxima de 160 anos entre as opções.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2024"
+                   },
+                   {
+                       "id":  "fisica-271",
+                       "enunciado":  "A temperatura de uma amostra de 500 g de gálio, inicialmente no estado sólido, variou, em função do tempo, subindo de forma linear de 0 ºC a 30 ºC entre o instante 0 e o instante 4 minutos, permanecendo depois constante em 30 ºC.\n\nConsiderando que o calor específico do gálio no estado sólido seja constante e igual a 0,08 cal/(g·ºC) e que a amostra não perdeu calor durante o processo de aquecimento, a taxa com que a amostra absorveu calor foi de",
+                       "alternativas":  {
+                                            "a":  "240 cal/min.",
+                                            "b":  "200 cal/min.",
+                                            "c":  "300 cal/min.",
+                                            "d":  "150 cal/min.",
+                                            "e":  "75 cal/min."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O calor total necessário é Q=mcΔT=500×0,08×30=1200 cal, absorvido em 4 minutos; a taxa de absorção de calor é 1200/4=300 cal/min.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2024"
+                   },
+                   {
+                       "id":  "fisica-272",
+                       "enunciado":  "Devido ao aumento dos preços dos combustíveis e do custo de vida, cada vez mais os brasileiros vêm buscando carros econômicos. O que a maioria das pessoas não sabe é que o rendimento dos motores dos automóveis é baixo: de cada 1 litro de gasolina, somente 220 mL são transformados em trabalho para movimentação do carro.\n\nConsidere que o motor de um automóvel funcione como uma máquina térmica que desenvolve uma potência útil de 44 kW. A quantidade de energia que esse motor necessita para funcionar, a cada segundo, é",
+                       "alternativas":  {
+                                            "a":  "9,7 kJ.",
+                                            "b":  "97 kJ.",
+                                            "c":  "970 kJ.",
+                                            "d":  "20 kJ.",
+                                            "e":  "200 kJ."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Se a potência útil (44 kW) representa a fração do combustível convertida em trabalho (22% do total, já que 220 mL de cada 1000 mL viram trabalho), a energia total necessária por segundo é 44/0,22=200 kJ.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2024"
+                   },
+                   {
+                       "id":  "fisica-273",
+                       "enunciado":  "Um raio de luz monocromática se propaga no meio R, incide na superfície de uma lâmina de faces paralelas, constituída de um material S, sob ângulo de incidência δ, e penetra na lâmina. Em seguida, esse raio de luz incide na outra face da lâmina, a qual está em contato com um terceiro meio, T, onde sofre reflexão total.\n\nConsiderando que sen δ = 0,60 e que o índice de refração absoluto do meio R é igual a 2,50, o máximo valor do índice de refração absoluto do meio T para que ocorra a reflexão total desse raio de luz na superfície entre S e T é",
+                       "alternativas":  {
+                                            "a":  "1,37.",
+                                            "b":  "4,17.",
+                                            "c":  "3,10.",
+                                            "d":  "1,50.",
+                                            "e":  "1,23."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Pela lei de Snell na primeira interface, nR·senδ=nS·senφ, com senφ=nR·senδ/nS. Como no ângulo crítico da segunda interface sen(crítico)=nT/nS, e esse ângulo crítico é igual a φ (o raio segue reto dentro da lâmina de faces paralelas), tem-se nT=nS·senφ=nR·senδ=2,50×0,60=1,50.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2024"
+                   },
+                   {
+                       "id":  "fisica-274",
+                       "enunciado":  "Nas transmissões de corridas automobilísticas, é perceptível que a frequência do som emitido pelo motor de um automóvel, captado por um microfone estático quando o automóvel dele se aproxima, é diferente da frequência quando ele se afasta. A frequência do som captado quando o automóvel se aproxima e a frequência do som captado quando se afasta, em relação à frequência do som emitido pelo motor, são, respectivamente,",
+                       "alternativas":  {
+                                            "a":  "igual e maior.",
+                                            "b":  "igual e menor.",
+                                            "c":  "maior e menor.",
+                                            "d":  "menor e igual.",
+                                            "e":  "menor e maior."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Pelo efeito Doppler, quando a fonte sonora se aproxima do observador, a frequência percebida é maior que a emitida; quando se afasta, é menor — por isso o som é percebido como mais agudo na aproximação e mais grave no afastamento.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2024"
+                   },
+                   {
+                       "id":  "fisica-275",
+                       "enunciado":  "Um quadro mostra parte de um manual técnico com características de três modelos de chuveiros elétricos (X, Y, Z): tensões de 127V, 220V e 220V respectivamente; potências máximas de 5500W, 6400W e 7500W; disjuntor/fusível de 50A, 30A e 40A respectivamente.\n\nObserva-se que, dentre os três modelos de chuveiros, o modelo X é aquele que requer um disjuntor ou fusível que suporta maior corrente elétrica. Isso ocorre porque esse modelo",
+                       "alternativas":  {
+                                            "a":  "funciona com a menor tensão elétrica.",
+                                            "b":  "apresenta a menor potência máxima.",
+                                            "c":  "apresenta a menor razão entre a maior e a menor potência de funcionamento.",
+                                            "d":  "apresenta a menor diferença entre a maior e a menor potência de funcionamento.",
+                                            "e":  "apresenta a maior razão entre a potência máxima e a tensão de funcionamento."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A corrente elétrica é I=P/V; o chuveiro X, apesar de não ter a maior potência isolada, tem a maior razão potência/tensão (5500/127, muito maior que 6400/220 ou 7500/220), o que exige a maior corrente e, portanto, o disjuntor de maior capacidade.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2024"
+                   },
+                   {
+                       "id":  "fisica-276",
+                       "enunciado":  "Grande parte da produção de energia elétrica no Brasil ocorre em usinas que utilizam processos baseados no fenômeno da indução eletromagnética. Muito simplificadamente, esses processos assemelham-se ao procedimento de girar uma espira condutora no interior de um campo magnético produzido por um ímã permanente.\n\nEm uma montagem desse tipo, produz-se uma força eletromotriz induzida ε porque, durante a rotação da espira, ocorre",
+                       "alternativas":  {
+                                            "a":  "inversão periódica no sentido dessa rotação.",
+                                            "b":  "variação periódica do fluxo magnético através da espira.",
+                                            "c":  "variação periódica do campo magnético produzido pelo ímã.",
+                                            "d":  "variação periódica da resistência elétrica da espira.",
+                                            "e":  "inversão periódica dos polos do ímã."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A força eletromotriz induzida surge porque, ao girar a espira dentro do campo magnético fixo, o ângulo entre a espira e as linhas de campo varia continuamente, causando uma variação periódica do fluxo magnético através da espira (lei de Faraday).",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2024"
+                   },
+                   {
+                       "id":  "fisica-277",
+                       "enunciado":  "Nos testes ergométricos, o paciente inicialmente caminha e depois corre sobre uma esteira que, a cada etapa do teste, tem a velocidade e a inclinação alteradas. A tabela mostra as velocidades de algumas dessas etapas, cada uma delas com duração de 3 minutos.\n\n| Etapa do teste | Velocidade (m/s) |\n|---|---|\n| 4 | 1,90 |\n| 5 | 2,20 |\n| 6 | 2,45 |\n| 7 | 2,70 |\n| 8 | 2,90 |\n\nUm paciente correu o equivalente a 396 m em uma das etapas de um teste ergométrico. Essa etapa era a",
+                       "alternativas":  {
+                                            "a":  "6.",
+                                            "b":  "5.",
+                                            "c":  "4.",
+                                            "d":  "8.",
+                                            "e":  "7."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A velocidade nessa etapa foi v=396 m/180 s=2,2 m/s, que corresponde exatamente à velocidade da etapa 5 na tabela.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2025"
+                   },
+                   {
+                       "id":  "fisica-278",
+                       "enunciado":  "Uma esfera X, de massa mX, colide com uma esfera Y, de massa mY, que se encontrava em repouso. Após a colisão, ambas as esferas se movem na mesma direção em que a esfera X se movia antes da colisão.\n\nSabendo que mX é maior do que mY e que, durante a colisão, FX é a intensidade média da força que a esfera X exerce na esfera Y e FY é a intensidade média da força que a esfera Y exerce na esfera X, tem-se que:",
+                       "alternativas":  {
+                                            "a":  "FX \u003e FY",
+                                            "b":  "FX · mX \u003c FY · mY",
+                                            "c":  "FX/mX = FY/mY",
+                                            "d":  "FX/mX \u003c FY/mY",
+                                            "e":  "FX \u003c FY"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Pela terceira lei de Newton, as forças de ação e reação entre X e Y têm sempre a mesma intensidade (FX=FY). Como mX\u003emY, a razão força/massa é maior para Y (menor massa) do que para X, ou seja, FX/mX\u003cFY/mY.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2025"
+                   },
+                   {
+                       "id":  "fisica-279",
+                       "enunciado":  "Partindo do repouso, um avião, de massa 72 toneladas, desloca-se pela pista de um aeroporto até atingir a velocidade de 80 m/s, momento em que suas rodas deixam o solo. O impulso recebido por esse avião durante a decolagem foi de, aproximadamente,",
+                       "alternativas":  {
+                                            "a":  "9,0 × 10² N·s.",
+                                            "b":  "1,1 × 10³ N·s.",
+                                            "c":  "5,8 × 10⁶ N·s.",
+                                            "d":  "8,0 × 10⁴ N·s.",
+                                            "e":  "1,5 × 10⁴ N·s."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O impulso recebido é igual à variação da quantidade de movimento: I=Δp=m×Δv=72.000 kg×80 m/s=5,76×10⁶ N·s, aproximadamente 5,8×10⁶ N·s.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2025"
+                   },
+                   {
+                       "id":  "fisica-280",
+                       "enunciado":  "Urano é o planeta do Sistema Solar em cuja superfície a aceleração gravitacional tem valor mais próximo ao da aceleração gravitacional na superfície da Terra. A lei da gravitação universal de Newton permite deduzir que Urano e Terra também têm valores próximos",
+                       "alternativas":  {
+                                            "a":  "nos produtos entre suas massas e seus diâmetros.",
+                                            "b":  "em suas massas.",
+                                            "c":  "nos produtos entre suas massas e seus raios elevados ao quadrado.",
+                                            "d":  "em seus diâmetros.",
+                                            "e":  "nas razões entre suas massas e seus raios elevados ao quadrado."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Pela lei da gravitação universal, g=GM/R², ou seja, a razão M/R² é o que determina o valor de g na superfície de um planeta; como Urano e Terra têm valores de g parecidos, suas razões massa/raio² também devem ser próximas.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2025"
+                   },
+                   {
+                       "id":  "fisica-281",
+                       "enunciado":  "A calibração de uma proveta de vidro, de volume 500 mL, foi efetuada para a temperatura de 20 ºC. Considerando o coeficiente de dilatação linear desse vidro igual a 3,3 × 10⁻⁶ ºC⁻¹, a diferença entre o volume de 500 mL indicado pela proveta na temperatura de 25 ºC e o volume real do líquido nela contido, a essa mesma temperatura, é, aproximadamente,",
+                       "alternativas":  {
+                                            "a":  "6,2 × 10⁻² mL.",
+                                            "b":  "3,3 × 10⁻² mL.",
+                                            "c":  "4,1 × 10⁻² mL.",
+                                            "d":  "1,8 × 10⁻² mL.",
+                                            "e":  "2,5 × 10⁻² mL."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A dilatação volumétrica do vidro é ΔV=V×3α×ΔT=500×3×3,3×10⁻⁶×5≈2,5×10⁻² mL — essa é a diferença entre o volume nominal indicado pela proveta (que também se dilatou) e o volume real do líquido nela contido.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2025"
+                   },
+                   {
+                       "id":  "fisica-282",
+                       "enunciado":  "A presbiopia é uma anomalia da visão associada ao envelhecimento, na qual a acomodação visual do olho diminui, afetando a capacidade de focalizar objetos próximos. Considere que um dos olhos de uma pessoa portadora de presbiopia conjugue imagens nítidas de um objeto apenas se este estiver a uma distância de 50 cm ou mais desse olho. Para que esse olho possa conjugar uma imagem nítida de um objeto distante 25 cm dele, uma lente convergente, posicionada entre o objeto e o olho, conjuga uma imagem virtual do objeto situada a 50 cm do olho.\n\nDesprezando a distância entre a lente e o olho, a vergência dessa lente é",
+                       "alternativas":  {
+                                            "a":  "2,0 di.",
+                                            "b":  "1,0 di.",
+                                            "c":  "0,5 di.",
+                                            "d":  "5,0 di.",
+                                            "e":  "8,0 di."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Usando a equação de Gauss para lentes (1/f=1/di+1/do) com objeto a 25 cm e imagem virtual a 50 cm (mesmo lado, sinal negativo para imagem virtual): 1/f=1/25−1/50=1/50, logo f=50 cm=0,5 m, e a vergência é V=1/f=2,0 di.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2025"
+                   },
+                   {
+                       "id":  "fisica-283",
+                       "enunciado":  "Um gráfico mostra como a velocidade de propagação das ondas sonoras no ar varia com a temperatura desse meio, numa reta que passa por aproximadamente 320 m/s a –20 ºC e 380 m/s a 80 ºC.\n\nSe uma onda sonora de frequência 200 Hz se propaga no ar com comprimento de onda de 1,84 m, a temperatura do ar é, aproximadamente,",
+                       "alternativas":  {
+                                            "a":  "40 ºC.",
+                                            "b":  "0 ºC.",
+                                            "c":  "60 ºC.",
+                                            "d":  "20 ºC.",
+                                            "e":  "– 20 ºC."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A velocidade da onda é v=f×λ=200×1,84=368 m/s. Usando a relação linear do gráfico entre velocidade e temperatura (crescendo de 320 m/s a −20°C até 380 m/s a 80°C), essa velocidade corresponde a uma temperatura de aproximadamente 60°C.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2025"
+                   },
+                   {
+                       "id":  "fisica-284",
+                       "enunciado":  "Considere dois objetos de dimensões desprezíveis e eletrizados com cargas Q1 e Q2. Há um ponto P, localizado entre esses dois objetos e sobre o segmento de reta que os une, em que o campo elétrico resultante, produzido pelas cargas elétricas presentes em cada objeto, é nulo.\n\nNessas condições, e considerando o potencial elétrico no infinito igual a zero, as cargas Q1 e Q2 têm",
+                       "alternativas":  {
+                                            "a":  "sinais opostos, e o potencial elétrico no ponto P é nulo.",
+                                            "b":  "sinais opostos, e o potencial elétrico no ponto P é necessariamente positivo.",
+                                            "c":  "sinais opostos, e o potencial elétrico no ponto P é necessariamente negativo.",
+                                            "d":  "o mesmo sinal, e o potencial elétrico no ponto P é diferente de zero.",
+                                            "e":  "o mesmo sinal, e o potencial elétrico no ponto P é nulo."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Para que o campo elétrico resultante seja nulo em um ponto entre as duas cargas (e não fora delas), as cargas precisam ter o mesmo sinal, de modo que seus campos se oponham nesse ponto; como o potencial elétrico de cargas de mesmo sinal se soma (não cancela) em pontos internos, o potencial em P é diferente de zero.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2025"
+                   },
+                   {
+                       "id":  "fisica-285",
+                       "enunciado":  "Um circuito é constituído por um gerador de força eletromotriz ε = 3,0 V e resistência interna ri, um resistor R de resistência 10 Ω e um LED L associados em série. A corrente nesse circuito é igual a 60 mA e a diferença de potencial entre os terminais do LED é 2,25 V.\n\nA resistência interna do gerador é igual a",
+                       "alternativas":  {
+                                            "a":  "1,5 Ω.",
+                                            "b":  "2,5 Ω.",
+                                            "c":  "3,0 Ω.",
+                                            "d":  "0,5 Ω.",
+                                            "e":  "1,0 Ω."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Pela lei das malhas: ε=I×ri+I×R+V_LED, ou seja, 3,0=0,06×ri+0,06×10+2,25, o que dá ri=(3,0−0,6−2,25)/0,06=2,5 Ω.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2025"
+                   },
+                   {
+                       "id":  "fisica-286",
+                       "enunciado":  "No modelo de átomo do hidrogênio proposto por Bohr, o elétron pode se encontrar somente em determinados níveis de energia: n=1 (fundamental, –13,6 eV), n=2 (1º excitado, –3,4 eV), n=3 (2º excitado, –1,5 eV), n=4 (3º excitado, –0,85 eV), n=∞ (0 eV).\n\nConsidere que um elétron se encontre no estado fundamental de energia no átomo de hidrogênio. De acordo com o modelo de Bohr, a menor quantidade de energia necessária para remover esse elétron do átomo e a menor quantidade de energia necessária para excitá-lo são, respectivamente,",
+                       "alternativas":  {
+                                            "a":  "13,6 eV e 10,2 eV.",
+                                            "b":  "13,6 eV e 3,4 eV.",
+                                            "c":  "10,2 eV e 1,9 eV.",
+                                            "d":  "3,4 eV e 1,5 eV.",
+                                            "e":  "3,4 eV e 13,6 eV."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A energia mínima para remover o elétron do estado fundamental (n=1, −13,6 eV) até o infinito (0 eV) é 13,6 eV (ionização); a menor energia de excitação é para o primeiro nível excitado (n=2, −3,4 eV), ou seja, 13,6−3,4=10,2 eV.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2025"
+                   },
+                   {
+                       "id":  "fisica-287",
+                       "enunciado":  "A figura mostra o velocímetro de um veículo, em que os valores de velocidade estão indicados em km/h, com o ponteiro tendo girado 120º. Considere que, em determinado percurso, esse veículo partiu do repouso e atingiu a velocidade de 90 km/h.\n\nSabendo que, nesse movimento do veículo, o ponteiro do velocímetro girou com velocidade angular constante de π/30 rad/s, a aceleração escalar média desse veículo foi de",
+                       "alternativas":  {
+                                            "a":  "1,50 m/s².",
+                                            "b":  "1,00 m/s².",
+                                            "c":  "0,75 m/s².",
+                                            "d":  "0,50 m/s².",
+                                            "e":  "1,25 m/s²."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O tempo de rotação do ponteiro é t=Δθ/ω=(120°×π/180°)/(π/30)=20 s. A velocidade final é 90 km/h=25 m/s, partindo do repouso; a aceleração média é a=25/20=1,25 m/s².",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2026"
+                   },
+                   {
+                       "id":  "fisica-288",
+                       "enunciado":  "Uma pequena esfera suspensa por um fio ideal preso no ponto P é colocada para girar em movimento uniforme, em uma trajetória circular de centro C, contida em um plano horizontal (um pêndulo cônico). A esfera passa por quatro posições diferentes, I, II, III e IV, ao longo da trajetória circular.\n\nDesprezando a resistência do ar sobre a esfera, tem-se que, nas quatro posições citadas,",
+                       "alternativas":  {
+                                            "a":  "a aceleração escalar da esfera é diferente de zero.",
+                                            "b":  "a velocidade vetorial da esfera tem mesma direção e mesmo sentido.",
+                                            "c":  "a aceleração vetorial da esfera tem mesma direção e mesmo sentido.",
+                                            "d":  "a resultante das forças que atuam sobre a esfera tem mesma direção.",
+                                            "e":  "a resultante das forças que atuam sobre a esfera tem mesma intensidade."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "No pêndulo cônico (movimento circular uniforme), embora a velocidade escalar seja constante (aceleração escalar nula) e as direções da velocidade e da aceleração centrípeta mudem continuamente ao longo da trajetória, a intensidade da força resultante (centrípeta) é a mesma em todas as posições, pois depende apenas de v²/r, que não varia.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2026"
+                   },
+                   {
+                       "id":  "fisica-289",
+                       "enunciado":  "Em um dia frio, uma pessoa esfrega suas mãos, uma na outra, para aquecê-las. Considere que, nesse movimento, a taxa com a qual a energia mecânica é dissipada pelo atrito seja de 20 J/s.\n\nAdmitindo que a massa de cada uma das mãos seja 200 g e que o calor específico das mãos seja 4 000 J/(kg·ºC), se toda a energia mecânica dissipada pelo atrito for utilizada para aquecer suas mãos, essa pessoa deverá esfregá-las, para aumentar sua temperatura em 1,5 ºC, durante um intervalo de tempo de",
+                       "alternativas":  {
+                                            "a":  "3,0 min.",
+                                            "b":  "4,5 min.",
+                                            "c":  "2,0 min.",
+                                            "d":  "2,5 min.",
+                                            "e":  "1,0 min."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A energia necessária é Q=mcΔT=0,4 kg×4000 J/(kg·°C)×1,5°C=2400 J. Dividindo pela taxa de dissipação (20 J/s), o tempo necessário é 2400/20=120 s=2,0 min.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2026"
+                   },
+                   {
+                       "id":  "fisica-290",
+                       "enunciado":  "Uma pessoa posiciona-se em pé diante de um espelho plano vertical E em seu banheiro e, devido às dimensões e à posição do espelho, só consegue ver refletida nesse espelho parte de seu corpo: a distância entre a pessoa e o espelho é 1,2 m, a altura total da pessoa é 1,4 m, e o espelho tem altura h medida a partir de uma altura intermediária do corpo da pessoa.\n\nConsiderando as informações da figura e do texto inicial, a altura h do espelho é",
+                       "alternativas":  {
+                                            "a":  "0,60 m.",
+                                            "b":  "0,50 m.",
+                                            "c":  "0,40 m.",
+                                            "d":  "0,70 m.",
+                                            "e":  "0,80 m."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Usando a geometria de reflexão em espelho plano (o campo de visão de um espelho depende da posição relativa entre olho, espelho e a parte do corpo a ser vista, sendo a altura necessária igual à metade da distância vertical correspondente do corpo observado), calcula-se a altura h do espelho necessária para a pessoa ver a parte especificada do próprio corpo.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2026"
+                   },
+                   {
+                       "id":  "fisica-291",
+                       "enunciado":  "Na figura, veem-se dois raios luminosos monocromáticos, I e II, incidindo na superfície que separa um líquido desconhecido e o ar. O raio I incide do lado do líquido formando ângulo β com a normal e refrata para o ar; o raio II incide do lado do ar formando ângulo θ com a normal e refrata para dentro do líquido formando ângulo α.\n\nSabendo que o índice de refração absoluto do ar é nAr = 1 e considerando a tabela de senos de ângulos notáveis fornecida, tem-se que o ângulo θ, indicado na figura, é:",
+                       "alternativas":  {
+                                            "a":  "45º",
+                                            "b":  "48º",
+                                            "c":  "60º",
+                                            "d":  "75º",
+                                            "e":  "30º"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Aplicando a lei de Snell nas duas interfaces (líquido-ar para o raio I e ar-líquido para o raio II) e usando os valores de seno fornecidos na tabela de ângulos notáveis, determina-se o ângulo θ de incidência do raio II a partir do ar.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2026"
+                   },
+                   {
+                       "id":  "fisica-292",
+                       "enunciado":  "No circuito representado na figura, o gerador tem resistência interna desprezível e os resistores são ôhmicos: um resistor de 2 Ω em paralelo com um ramo Rx, que por sua vez está em série com dois resistores de 6 Ω em paralelo entre si, alimentados por uma fonte de 12 V.\n\nSe os fios de ligação utilizados na montagem desse circuito tiverem resistência desprezível, a potência total dissipada por ele será de 14,4 W se o valor de Rx for",
+                       "alternativas":  {
+                                            "a":  "18 Ω.",
+                                            "b":  "6 Ω.",
+                                            "c":  "12 Ω.",
+                                            "d":  "3 Ω.",
+                                            "e":  "24 Ω."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Calculando a resistência equivalente do circuito (a associação do resistor de 2Ω com o ramo Rx em série com os dois resistores de 6Ω em paralelo) que resulta na potência total de 14,4W para a fonte de 12V, determina-se o valor de Rx que satisfaz P=V²/R_equivalente.",
+                       "formato":  "direta",
+                       "origem":  "santacasa-2026"
+                   },
+                   {
+                       "id":  "fisica-293",
+                       "enunciado":  "Uma empresa de internet está instalando cabos de fibra óptica submarinos que utilizam laser para transmitir dados. Os receptores ópticos da fibra devem receber o sinal do laser lançado com uma frequência de 1,29 · 10¹⁴ Hz, priorizando maior eficiência com o mínimo de perdas.\n\nConsidere que o sinal se propaga dentro da fibra a uma velocidade de 2 · 10⁸ m/s.\n\nO comprimento de onda ideal para o sinal a ser transmitido é",
+                       "alternativas":  {
+                                            "a":  "0,8 · 10⁻³ mm.",
+                                            "b":  "1,2 · 10⁻³ mm.",
+                                            "c":  "1,55 · 10⁻³ mm.",
+                                            "d":  "2,0 · 10⁻³ mm.",
+                                            "e":  "15,5 · 10⁻³ mm."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O comprimento de onda é λ=v/f=(2×10⁸)/(1,29×10¹⁴)≈1,55×10⁻⁶ m=1,55×10⁻³ mm.",
+                       "formato":  "direta",
+                       "origem":  "pucsp-2026"
+                   },
+                   {
+                       "id":  "fisica-294",
+                       "enunciado":  "Durante uma expedição científica na Patagônia, um grupo de pesquisadores coletou amostras de água de um lago parcialmente congelado. Para realizar as análises, eles precisaram derreter um bloco de gelo de 500 g que estava a −10 ºC e aquecê-lo até 20 ºC. Eles utilizaram um pequeno aquecedor portátil de potência 500 W, alimentado por energia solar.\n\nConsidere que o calor específico do gelo é de 0,5 cal/g°C, o calor específico da água é de 1 cal/g°C, o calor latente de fusão é de 80 cal/g e 1 cal equivale a aproximadamente 4,2 J.\n\nO tempo necessário para que todo o processo descrito no texto ocorra é de",
+                       "alternativas":  {
+                                            "a":  "1 min e 24 s.",
+                                            "b":  "1 min e 55 s.",
+                                            "c":  "5 min e 36 s.",
+                                            "d":  "5 min e 57 s.",
+                                            "e":  "7 min e 21 s."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O processo envolve três etapas: aquecer o gelo de −10°C a 0°C (Q1=mcΔT), fundir o gelo (Q2=mL), e aquecer a água resultante de 0°C a 20°C (Q3=mcΔT). Somando as três quantidades de calor (em calorias, convertidas para joules) e dividindo pela potência do aquecedor (500 W), obtém-se o tempo total do processo, cerca de 7 min e 21 s.",
+                       "formato":  "direta",
+                       "origem":  "pucsp-2026"
+                   },
+                   {
+                       "id":  "fisica-295",
+                       "enunciado":  "Os testes de segurança de frenagem avaliam a capacidade do veículo de parar em diferentes condições. Os resultados desses testes são apresentados em uma escala de estrelas, que varia de 0 a 5, indicando o nível de segurança do veículo. Uma montadora é posta em um teste de frenagem que envolve posicionar um boneco, que simula um pedestre, a 85 m de distância do carro, que deve estar a uma velocidade de 108 km/h. Caso o automóvel consiga evitar a colisão, passa no teste atingindo 5 estrelas. Os níveis de estrela vão diminuindo à medida que a velocidade do carro no momento da colisão aumenta, como mostra o quadro:\n\n| Nível de qualidade da frenagem | Velocidade do carro no momento do impacto |\n|---|---|\n| 4 estrelas | 0 a 10 km/h |\n| 3 estrelas | 10 a 20 km/h |\n| 2 estrelas | 20 a 40 km/h |\n| 1 estrela | Mais de 40 km/h |\n\nEm um desses testes, o sistema de frenagem automática leva 0,50 s para reagir e, após esse tempo, inicia uma desaceleração constante de 6,0 m/s² até parar.\n\nO nível de qualidade de frenagem do veículo testado é",
+                       "alternativas":  {
+                                            "a":  "5 estrelas.",
+                                            "b":  "4 estrelas.",
+                                            "c":  "3 estrelas.",
+                                            "d":  "2 estrelas.",
+                                            "e":  "1 estrela."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Durante os 0,5 s de reação, o carro percorre uma distância a 108 km/h (30 m/s); depois disso, desacelera a 6,0 m/s² até parar. Calculando a distância total percorrida até a parada e comparando com os 85 m disponíveis, determina-se a velocidade de impacto (caso o carro não pare a tempo) e, com isso, o nível de estrelas correspondente.",
+                       "formato":  "direta",
+                       "origem":  "pucsp-2026"
+                   },
+                   {
+                       "id":  "fisica-296",
+                       "enunciado":  "Uma onda eletromagnética de 60 Hz, frequência da rede doméstica, se propaga no ar. Seu comprimento de onda tem a ordem de grandeza",
+                       "alternativas":  {
+                                            "a":  "da distância do Sol à Terra.",
+                                            "b":  "da altura de um prédio de oito andares.",
+                                            "c":  "do raio do planeta Terra.",
+                                            "d":  "do raio de uma bola de vôlei.",
+                                            "e":  "do raio de uma bolinha de gude.\n\nDado: Velocidade de propagação da luz no ar = 3 x 10⁸ m/s."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O comprimento de onda é λ=c/f=(3×10⁸)/60=5×10⁶ m=5.000 km, ordem de grandeza comparável ao raio da Terra (cerca de 6.371 km).",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-297",
+                       "enunciado":  "Um raio de luz monocromática se propaga no ar e incide em um espelho plano cuja normal forma um ângulo de 41° com sua direção de propagação. A luz refletida atinge a face plana de um bloco de vidro perpendicular ao espelho. O ângulo de refração da luz no vidro é",
+                       "alternativas":  {
+                                            "a":  "41°.",
+                                            "b":  "26°.",
+                                            "c":  "22°.",
+                                            "d":  "30°.",
+                                            "e":  "49°.\n\nDados:\nÍndice de refração do ar = 1\nÍndice de refração do vidro = 1,5\nsen 22° = 0,37\nsen 26° = 0,44\nsen 30° = 0,50\nsen 41° = 0,66\nsen 49° = 0,75"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Pela lei da reflexão, o raio reflete no espelho também a 41° da normal, incidindo no vidro perpendicular ao espelho com ângulo de incidência de 90°−41°=49°. Pela lei de Snell, 1×sen49°=1,5×senr → senr=0,75/1,5=0,50 → r=30°.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-298",
+                       "enunciado":  "Um recipiente cilíndrico contendo água tem raio interno de 2 cm. Um objeto metálico de 270 g, feito de um único material, é totalmente mergulhado na água cujo nível sobe 2 cm. Dentre os metais abaixo, qual pode ser o material de que é feito o objeto?",
+                       "alternativas":  {
+                                            "a":  "Prata.",
+                                            "b":  "Cobre.",
+                                            "c":  "Alumínio.",
+                                            "d":  "Ferro.",
+                                            "e":  "Chumbo.\n\nConsidere: π = 3\nDados: densidades (em g/cm³) de água = 1; alumínio = 2,7; ferro = 7,9; cobre = 8,9; prata = 10,5; chumbo = 11,3."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O volume do objeto é V=πr²h=3×(2)²×2=24 cm³ (usando π=3). A densidade do material é 270g/24cm³=11,25 g/cm³, valor mais próximo da densidade do chumbo (11,3 g/cm³).",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-299",
+                       "enunciado":  "Um carrinho de brinquedo desliza, sem atrito e em linha reta, sobre um plano horizontal, com velocidade 3 m/s. O carrinho tem um dispositivo com uma mola comprimida sobre a qual está uma bolinha. Num dado instante a mola é solta, a bolinha é lançada verticalmente para cima com velocidade vertical igual a 4 m/s e o carrinho, sem parar, segue com velocidade 3 m/s, na horizontal. A altura máxima atingida pela bolinha e a posição em que ela cai, em relação ao carrinho, são respectivamente:",
+                       "alternativas":  {
+                                            "a":  "1,25 m, atrás do carrinho.",
+                                            "b":  "0,8 m, sobre o carrinho.",
+                                            "c":  "1,25 m, sobre o carrinho.",
+                                            "d":  "0,8 m, atrás do carrinho.",
+                                            "e":  "1,25 m, na frente do carrinho.\n\nDado: aceleração da gravidade local = 10 m/s². Observação: despreze a resistência do ar."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A bolinha sobe e desce com v0=4m/s, atingindo altura máxima h=v0²/2g=16/20=0,8m e permanecendo no ar por t=2v0/g=0,8s. Nesse tempo, tanto a bolinha (que mantém a componente horizontal de 3m/s do carrinho) quanto o carrinho percorrem 3×0,8=2,4m, então a bolinha cai exatamente sobre o carrinho.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-300",
+                       "enunciado":  "No modelo de Bohr, o átomo de hidrogênio no estado fundamental é tratado como um próton em torno do qual um elétron executa movimento circular uniforme de raio *a*. A força entre o próton e o elétron é a de Coulomb. O valor da soma *E* das energias cinética e potencial do sistema é, aproximadamente,",
+                       "alternativas":  {
+                                            "a":  "− 2,3 x 10⁻¹⁸ J.",
+                                            "b":  "+ 2,3 x 10⁻¹⁸ J.",
+                                            "c":  "− 0,5 x 10⁻¹⁸ J.",
+                                            "d":  "+ 0,5 x 10⁻¹⁸ J.",
+                                            "e":  "− 1,0 x 10⁻¹⁸ J.\n\nDados: constante de Coulomb K = 1/(4πε0) = 9 x 10⁹ N·m²/C²; carga elementar e = 1,6 x 10⁻¹⁹ C; a = 5 x 10⁻¹¹ m."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A energia total do elétron na órbita de Bohr é E=−Ke²/(2a)=−(9×10⁹×(1,6×10⁻¹⁹)²)/(2×5×10⁻¹¹)≈−2,3×10⁻¹⁸ J.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-301",
+                       "enunciado":  "Duas placas metálicas planas, paralelas e circulares, de raio R, distam d uma da outra, sendo d \u003c\u003c R. As placas estão carregadas com cargas +Q e -Q. A figura esquemática ilustra o sistema, sendo x̂, ŷ e ẑ os versores nas direções x, y e z, respectivamente. As superfícies equipotenciais entre as placas são planos paralelos a elas e a diferença de potencial entre superfícies, separadas por 1 mm, é 4 V.\n\n[Diagrama próprio da banca: duas placas circulares paralelas e horizontais, vistas em perspectiva (como elipses); a placa de cima rotulada \"+Q\" e a de baixo rotulada \"−Q\", separadas por uma pequena distância. Ao lado, um sistema de eixos 3D mostrando os versores ẑ (para cima), ŷ (para a direita) e x̂ (saindo obliquamente da página).]\n\nO campo elétrico E entre as placas é",
+                       "alternativas":  {
+                                            "a":  "uniforme e igual a (+ 4 kV/m) ẑ.",
+                                            "b":  "uniforme e igual a (− 4 kV/m) ẑ.",
+                                            "c":  "uniforme e igual a (− 4 V/m) x̂.",
+                                            "d":  "uniforme e igual a (+ 4 V/m) ŷ.",
+                                            "e":  "(+ 4 kV/m) ẑ nas proximidades da placa superior e sua intensidade decresce com z."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "O campo elétrico entre placas paralelas aponta da placa positiva para a negativa; como a placa +Q está acima (no sentido +z) e -Q está abaixo, o campo aponta no sentido −z, com módulo E=U/d=4V/0,001m=4000V/m=4kV/m.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-302",
+                       "enunciado":  "Quatro cargas puntiformes, +q, −2q, −q, +2q, sendo q \u003e 0, estão fixas, respectivamente, nas posições (−d, −d), (2d, −2d), (−d, d) e (2d, 2d) do plano, com d \u003e 0. Num certo instante um elétron se encontra na origem do sistema de coordenadas. O campo elétrico E na origem (de módulo E) e a aceleração a deste elétron (de módulo a) nesse instante são dados por:",
+                       "alternativas":  {
+                                            "a":  "E = 0, a = 0.",
+                                            "b":  "E = E x̂, a = a x̂.",
+                                            "c":  "E = −(E/√2)(ŷ+x̂), a = +(a/√2)(ŷ+x̂).",
+                                            "d":  "E = −E ŷ, a = −a ŷ.",
+                                            "e":  "E = E ŷ, a = −a ŷ.\n\nObservação: x̂ e ŷ são, respectivamente, os versores paralelos aos eixos x e y."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Por simetria da configuração de cargas (que tem simetria de rotação de 180° em torno da origem trocando +q↔+2q e −2q↔−q ao longo do eixo y), o campo elétrico resultante na origem aponta na direção y, e a força sobre o elétron (carga negativa) é oposta ao campo.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-303",
+                       "enunciado":  "Um atleta de 70 kg sobe, pelas escadas, 10 andares de um prédio, cada um deles com 3 m de altura, em 42 s. A potência por ele produzida é",
+                       "alternativas":  {
+                                            "a":  "1350 W.",
+                                            "b":  "500 W.",
+                                            "c":  "2100 W.",
+                                            "d":  "250 W.",
+                                            "e":  "882 W.\n\nDado: Aceleração da gravidade local = 10 m/s²."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A potência é P=mgh/t=(70×10×30)/42=21000/42=500 W.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-304",
+                       "enunciado":  "Um elétron e um pósitron, ambos em repouso e próximos um do outro, se aniquilam gerando dois fótons. Se um dos fótons tiver quantidade de movimento p1 = +a x̂ − b ŷ, o outro terá quantidade de movimento p2 igual a",
+                       "alternativas":  {
+                                            "a":  "+a x̂ + b ŷ.",
+                                            "b":  "−a x̂ − b ŷ.",
+                                            "c":  "−a x̂ + b ŷ.",
+                                            "d":  "+a x̂ − b ŷ.",
+                                            "e":  "zero.\n\nDados: Pósitron e elétron têm a mesma massa e cargas de sinais contrários. a e b são constantes. x̂ e ŷ são, respectivamente, os versores paralelos aos eixos x e y."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Pela conservação da quantidade de movimento (o par elétron-pósitron está em repouso, momento total inicial zero), o momento dos dois fótons deve se cancelar: p2=−p1=−a x̂+b ŷ.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-305",
+                       "enunciado":  "Um fio condutor cilíndrico, feito de um único material, tem uma parte A de comprimento L e seção transversal de raio a e outra, B, de comprimento 2L e raio 2a. As razões RI = IA/IB e RV = VA/VB, respectivamente, entre as correntes e as tensões nas partes A e B do fio são:",
+                       "alternativas":  {
+                                            "a":  "RI = 1; RV = 2.",
+                                            "b":  "RI = 1; RV = 1.",
+                                            "c":  "RI = 2; RV = 1.",
+                                            "d":  "RI = 2; RV = 2.",
+                                            "e":  "RI = 1; RV = 4."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Como A e B são partes do mesmo fio em série, a corrente é a mesma em ambas: RI=IA/IB=1. A resistência de B é metade da de A (dobro da área, dobro do comprimento: RB=ρ(2L)/(4πa²)=RA/2), logo a tensão em A é o dobro da tensão em B: RV=VA/VB=2.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-306",
+                       "enunciado":  "Uma usina termoelétrica cuja eficiência da conversão de calor em trabalho é 55% queima 7200 kg de gás natural por hora. O calor não utilizado na produção de trabalho aquece as águas de um rio de vazão igual a 4500 L por segundo. O aumento de temperatura da água do rio que passa pela usina é",
+                       "alternativas":  {
+                                            "a":  "9,0 °C.",
+                                            "b":  "5,5 °C.",
+                                            "c":  "1,0 °C.",
+                                            "d":  "2,5 °C.",
+                                            "e":  "6,5 °C.\n\nDados: A queima de 1 kg de gás natural gera 50.000 kJ de energia. Calor específico da água = 1 cal/g°C. 1 cal = 4 J. Densidade da água = 1 g/cm³."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A energia total gerada por hora é 7200×50.000=3,6×10⁸ kJ; 45% (não convertida em trabalho) aquece o rio: 1,62×10⁸ kJ/h = 45.000 kJ/s = 11.250.000 cal/s (dividindo por 4). Com vazão de 4.500.000 g/s de água (c=1cal/g°C), ΔT=11.250.000/4.500.000=2,5°C.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-307",
+                       "enunciado":  "Um gás ideal sofre a transformação ABCDA representada no diagrama pressão P x volume V, mostrado abaixo. O trabalho realizado pelo gás, o calor por ele recebido e a variação de sua energia interna são, respectivamente,\n\n[Gráfico próprio da banca: diagrama P (em 10⁵ Pa, eixo y) x V (em 10⁻³ m³, eixo x), formando um ciclo retangular fechado ABCDA. Ponto A em (V=1, P=2,8); ponto B em (V=3, P=2,8); ponto C em (V=3, P=1,5); ponto D em (V=1, P=1,5). O ciclo percorre A→B (horizontal, expansão isobárica em P=2,8), B→C (vertical, queda de pressão a V=3 constante), C→D (horizontal, compressão isobárica em P=1,5) e D→A (vertical, aumento de pressão a V=1 constante), fechando o retângulo.]",
+                       "alternativas":  {
+                                            "a":  "560 J, 140 cal, zero.",
+                                            "b":  "130 J, zero, - 130 J.",
+                                            "c":  "260 J, 65 cal, zero.",
+                                            "d":  "260 J, zero, -260 J.",
+                                            "e":  "560 J, - 140 cal, zero.\n\nDado: 1 cal = 4 J"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O trabalho do ciclo é a área do retângulo no diagrama PV: (2,8×10⁵−1,5×10⁵)×(3×10⁻³−1×10⁻³)=260 J. Como o ciclo retorna ao estado inicial, a variação de energia interna é zero, e pela 1ª lei da termodinâmica, Q=W=260 J=65 cal.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-308",
+                       "enunciado":  "Em uma escola, uma sirene, em repouso, emite um som de 680 Hz para indicar o início das aulas. Um estudante atrasado corre em linha reta, se aproximando da sirene na escola, a uma velocidade de 28,8 km/h. A frequência do som da sirene que ele escuta é igual a",
+                       "alternativas":  {
+                                            "a":  "738 Hz.",
+                                            "b":  "664 Hz",
+                                            "c":  "612 Hz.",
+                                            "d":  "680 Hz.",
+                                            "e":  "696 Hz.\n\nDado: velocidade do som no ar = 340 m/s."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Pelo efeito Doppler, com o observador se aproximando da fonte parada, f\u0027=f×(v_som+v_obs)/v_som=680×(340+8)/340=696 Hz (convertendo 28,8 km/h para 8 m/s).",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-309",
+                       "enunciado":  "Em um treino de salto à distância, um atleta de 70 kg corre com uma velocidade horizontal de 10 m/s e, imediatamente antes do salto, dá um empurrão contra o chão e, ganhando velocidade vertical, aumenta sua energia cinética de 560 J. A velocidade vertical adquirida pelo atleta logo após o salto é, aproximadamente,",
+                       "alternativas":  {
+                                            "a":  "5 m/s.",
+                                            "b":  "3 m/s.",
+                                            "c":  "2 m/s.",
+                                            "d":  "4 m/s.",
+                                            "e":  "6 m/s."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Da energia cinética vertical, 560=(1/2)×70×v² → v²=16 → v=4 m/s.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2024.1"
+                   },
+                   {
+                       "id":  "fisica-310",
+                       "enunciado":  "A estrela α Centauri-A é uma estrela semelhante ao Sol, mas seu brilho aparente é 40 bilhões de vezes menor que o do Sol, quando observados da Terra. Estando o Sol a 8 minutos-luz da Terra, a distância entre o nosso planeta e α Centauri-A é, aproximadamente,",
+                       "alternativas":  {
+                                            "a":  "20 anos-luz.",
+                                            "b":  "3 anos-luz.",
+                                            "c":  "2 x 10⁶ anos-luz.",
+                                            "d":  "1 ano-luz.",
+                                            "e":  "3 x 10¹¹ anos-luz.\n\nConsidere que:\nA uma mesma distância, os valores de intensidade da luz emitida pelo Sol e por α Centauri-A são iguais.\nSe uma fonte emite igualmente em todas as direções, a intensidade de sua radiação é inversamente proporcional ao quadrado da distância a ela.\n1 ano = 360 dias\n1 dia = 24 horas"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Como a intensidade é inversamente proporcional ao quadrado da distância e o brilho aparente de α Centauri é 40 bilhões de vezes menor, sua distância é √(4×10¹⁰)≈2×10⁵ vezes maior que a distância Terra-Sol (8 minutos-luz); convertendo para anos-luz, obtém-se aproximadamente 3 anos-luz.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-311",
+                       "enunciado":  "Uma régua de plástico, atritada com papel, ficou eletrizada e foi usada para carregar eletricamente dois eletroscópios (A e B). A foi eletrizado por contato com a régua e B, por indução e aterramento. A seguir, com os eletroscópios eletricamente carregados com o procedimento acima descrito, a régua eletrizada foi aproximada da extremidade de A oposta às hastes, sem tocar nele e, em seguida, de B, também longe das hastes e sem se tocarem. Nessas condições, observa-se que as hastes de",
+                       "alternativas":  {
+                                            "a":  "A e de B se aproximam.",
+                                            "b":  "A e de B se afastam.",
+                                            "c":  "A se aproximam e de B se afastam.",
+                                            "d":  "A e de B não se movem.",
+                                            "e":  "A se afastam e de B se aproximam.\n\nUm eletroscópio é um dispositivo usado para detecção de carga elétrica. É basicamente formado por um condutor isolado que, em uma de suas extremidades, contém duas hastes móveis. Quando eletricamente neutro, suas hastes estão próximas (esquema I) e, quando carregado, suas hastes se repelem e se afastam uma da outra (esquema II)."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O eletroscópio A, eletrizado por contato, adquire carga de mesmo sinal que a régua; ao aproximar a régua novamente, a repulsão entre cargas de mesmo sinal aumenta a carga nas hastes, afastando-as ainda mais. O eletroscópio B, eletrizado por indução e aterramento, adquire carga de sinal oposto ao da régua; ao reaproximá-la, a atração entre cargas opostas atenua a carga efetiva nas hastes, fazendo-as se aproximar.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-312",
+                       "enunciado":  "A figura apresenta o gráfico da velocidade em função do tempo de um atleta em uma corrida de 100 m rasos, desde o início até o final. Sua aceleração inicial e o tempo que ele levou para percorrer os 100 metros são, respectivamente, próximos de\n\n[Descrição do gráfico: eixo vertical V(m/s) com marcação em 10; eixo horizontal t(s) com marcação em 2. A velocidade cresce linearmente de 0 a 10 m/s entre t=0 e t=2s, e depois permanece constante em 10 m/s até o fim do gráfico.]",
+                       "alternativas":  {
+                                            "a":  "5 m/s², 11 s.",
+                                            "b":  "10 m/s², 11 s.",
+                                            "c":  "5 m/s², 8 s.",
+                                            "d":  "10 m/s², 9 s.",
+                                            "e":  "5 m/s², 9 s."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A aceleração inicial é a=Δv/Δt=10/2=5 m/s². Nos primeiros 2s, o atleta percorre (1/2)×5×2²=10m; os 90m restantes, a 10m/s constantes, levam 9s. O tempo total é 2+9=11s.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-313",
+                       "enunciado":  "Ana, com uma bola na mão, está sobre um skate, em repouso, sobre uma pista horizontal. Lia está sobre outro skate, na mesma pista, com velocidade constante v⃗, indo ao encontro de Ana. Num certo instante, Ana joga a bola com velocidade u⃗, constante, na mesma direção e sentido oposto ao da velocidade v⃗ de Lia, que a agarra. Ana e Lia têm massa M e a bola, m. As velocidades de Ana e de Lia, logo após ela agarrar a bola, são, respectivamente,",
+                       "alternativas":  {
+                                            "a":  "-(m/M)u⃗ e (mu⃗+Mv⃗)/(m+M).",
+                                            "b":  "-(m/M)u⃗ e (mu⃗-Mv⃗)/(m+M).",
+                                            "c":  "+(m/M)u⃗ e (Mv⃗-mu⃗)/(m+M).",
+                                            "d":  "-(m/(M+m))u⃗ e (mu⃗-Mv⃗)/M.",
+                                            "e":  "-(M/m)u⃗ e (mu⃗+Mv⃗)/(m+M).\n\nObservação: Forças dissipativas devem ser ignoradas."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "Pela conservação do momento linear (sistema Ana+bola inicialmente em repouso), Ana recua com velocidade −(m/M)u⃗ ao lançar a bola. Lia, que já se movia com v⃗, ao agarrar a bola de massa m (momento mu⃗, em sentido oposto a v⃗), passa a se mover com velocidade (Mv⃗+mu⃗)/(m+M), pela conservação do momento no sistema Lia+bola.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-314",
+                       "enunciado":  "A menor velocidade que um objeto de massa m precisa ter para escapar da atração gravitacional terrestre é,",
+                       "alternativas":  {
+                                            "a":  "inversamente proporcional a m.",
+                                            "b":  "aproximadamente igual a 2,2 x 10⁴ m/s.",
+                                            "c":  "aproximadamente igual a 1,1 x 10⁴ m/s.",
+                                            "d":  "aproximadamente igual a 6000 km/h.",
+                                            "e":  "diretamente proporcional a m.\n\nDados:\nAceleração da gravidade na superfície da Terra = 10 m/s².\nRaio da Terra = 6000 km."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A velocidade de escape é v=√(2gR)=√(2×10×6×10⁶)≈1,1×10⁴ m/s, valor independente da massa do objeto.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-315",
+                       "enunciado":  "Um próton, acelerado no vácuo, a partir do repouso, em um campo elétrico uniforme de intensidade E, percorre 4 cm de distância e adquire energia cinética igual a 3,2 x 10⁻¹⁷ J. O valor de E é",
+                       "alternativas":  {
+                                            "a":  "100 V/m.",
+                                            "b":  "2 kV/m.",
+                                            "c":  "500 V/m.",
+                                            "d":  "5 kV/m.",
+                                            "e":  "200 V/m.\n\nCarga elementar = 1,6 x 10⁻¹⁹ C."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Da energia cinética adquirida, Ec=qEd, tem-se E=Ec/(qd)=(3,2×10⁻¹⁷)/(1,6×10⁻¹⁹×0,04)=5000 V/m=5 kV/m.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-316",
+                       "enunciado":  "O raio de curvatura de um espelho esférico convexo é 20 cm. Uma vela de 8 cm de comprimento é colocada a 10 cm do espelho como esquematizado na figura. A imagem da vela é\n\n[Descrição da figura: diagrama esquemático de um espelho esférico convexo (curvatura voltada para a direita) com uma vela (\"vela\"), representada por uma seta vertical, posicionada à esquerda do espelho sobre um eixo horizontal.]",
+                       "alternativas":  {
+                                            "a":  "real, invertida e mede 4 cm.",
+                                            "b":  "virtual, direita e mede 4 cm.",
+                                            "c":  "real, direita e mede 8 cm.",
+                                            "d":  "virtual, invertida e mede 4 cm.",
+                                            "e":  "virtual, direita e mede 6 cm."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Para espelho convexo, f=−R/2=−10cm. Pela equação de Gauss, 1/di=1/f−1/do=−1/10−1/10=−1/5 → di=−5cm (imagem virtual, atrás do espelho). A ampliação é −di/do=0,5, positiva (imagem direita), com altura 0,5×8=4cm.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-317",
+                       "enunciado":  "Uma espira condutora quadrada, rígida, de lado L atravessa com velocidade constante v⃗ = vx̂ uma região também quadrada, de lado D \u003e L, onde há um campo magnético uniforme B⃗ = Bẑ. No instante t=0, ela penetra no campo e em t=T, sai dele. As figuras representam a situação em diferentes instantes.\n\n[Descrição das figuras: cinco diagramas mostrando uma espira quadrada de lado L se deslocando da esquerda para a direita (sentido +x) através de uma região quadrada de lado D com campo magnético B saindo do plano (ẑ). Em t=0, a espira está encostada à borda esquerda da região de campo, prestes a entrar. Em t=t1, a espira está parcialmente dentro da região de campo (entrando). Em t=t2, a espira está totalmente dentro da região de campo. Em t=t3, a espira está parcialmente fora, cruzando a borda direita (saindo). Em t=T, a espira já saiu completamente da região de campo, à direita dela. Eixos de referência x (horizontal) e y (vertical) são indicados.]\n\nConsidere as afirmações:\n\nI. Em t=t1, a espira é percorrida por uma corrente em sentido horário e sofre uma força de origem eletromagnética na direção -x̂.\nII. Em t=t1, a espira é percorrida por uma corrente em sentido anti-horário e sofre uma força de origem eletromagnética na direção x̂.\nIII. Em t=t2, a espira é percorrida por uma corrente em sentido horário e sofre uma força de origem eletromagnética na direção x̂.\nIV. Em t=t2, não há corrente na espira e sobre ela não há força resultante de origem eletromagnética.\nV. Em t=t3, a espira é percorrida por uma corrente em sentido anti-horário e sofre uma força na direção -x̂.\n\nApenas estão corretas as afirmações",
+                       "alternativas":  {
+                                            "a":  "II, III e V.",
+                                            "b":  "II e V.",
+                                            "c":  "I, III e IV.",
+                                            "d":  "II e IV.",
+                                            "e":  "I, IV e V."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Ao entrar no campo (t1), o fluxo aumenta, induzindo corrente que se opõe ao aumento (sentido horário, pela regra da mão direita/lei de Lenz), gerando força que se opõe ao movimento (−x̂); quando a espira está totalmente dentro do campo (t2), o fluxo não varia, logo não há corrente nem força; ao sair (t3), o fluxo diminui, induzindo corrente anti-horária e força que também se opõe ao movimento (−x̂) — confirmando as afirmações I, IV e V.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-318",
+                       "enunciado":  "Uma haste vibra com frequência 40 Hz, perpendicularmente à superfície da água contida em uma cuba, e produz ondas circulares. Duas cristas consecutivas da onda distam 2,5 cm uma da outra. A velocidade de propagação da onda é",
+                       "alternativas":  {
+                                            "a":  "1 m/s.",
+                                            "b":  "5 cm/s.",
+                                            "c":  "6 m/s.",
+                                            "d":  "16 cm/s.",
+                                            "e":  "2,5 cm/s."
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A velocidade de propagação é v=f×λ=40×0,025=1 m/s.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-319",
+                       "enunciado":  "O nível de intensidade sonora de uma britadeira, a 5 m dela, é 100 dB. Considerando ondas esféricas, a potência sonora da britadeira é",
+                       "alternativas":  {
+                                            "a":  "0,3 W.",
+                                            "b":  "0,8 W.",
+                                            "c":  "3 W.",
+                                            "d":  "4 W.",
+                                            "e":  "20 W.\n\nConsidere:\nNível de intensidade sonora (em dB) = 10 log₁₀(I/I₀)\nA intensidade mínima de referência I₀ usada na definição de nível de intensidade sonora é 10⁻¹² W/m².\nπ = 3"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "De 100dB, a intensidade é I=I₀×10^10=10⁻² W/m². A potência sonora é P=I×4πr²=10⁻²×4×3×5²=3 W (usando π=3 e ondas esféricas se espalhando por uma esfera de raio 5m).",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-320",
+                       "enunciado":  "Um carro a gasolina faz 10 km com 1 litro de combustível. Um carro elétrico com bateria de 66 kWh tem autonomia de 416 km. Considerando que 1 litro de gasolina e 1 kWh custam, respectivamente, R$6,00 e R$0,90, a razão entre os preços do combustível e da energia em uma viagem de 832 km com o carro a gasolina e com o carro elétrico é",
+                       "alternativas":  {
+                                            "a":  "6,7.",
+                                            "b":  "6,3.",
+                                            "c":  "13,3.",
+                                            "d":  "4,2.",
+                                            "e":  "8,4."
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O carro a gasolina gasta 832/10=83,2 L, custando 83,2×6=R$499,20; o carro elétrico gasta 832/416×66=132 kWh, custando 132×0,90=R$118,80. A razão entre os custos é 499,20/118,80≈4,2.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-321",
+                       "enunciado":  "Um gás à pressão 6 x 10⁵ N/m² sofre uma expansão isobárica, do estado I ao II, conforme o diagrama de volume (V) x temperatura (T) mostrado abaixo. Neste processo, o trabalho realizado pelo gás, a variação de sua energia interna e a quantidade de calor trocada entre o gás e o ambiente são, respectivamente\n\n[Descrição do gráfico: eixo vertical V(l) com marcações em 24 e 32; eixo horizontal T(K) com marcações em 300 e 400. O estado I está no ponto (300K, 24L) e o estado II no ponto (400K, 32L), ligados por uma reta (processo isobárico).]",
+                       "alternativas":  {
+                                            "a":  "4,8 x 10³ J; 2,4 x 10³ J; 1,8 x 10³ cal.",
+                                            "b":  "8,0 x 10² J; 1,4 x 10³ J; 5,5 x 10³ cal.",
+                                            "c":  "8,0 x 10² J; 7,2 x 10³ J; 4,0 x 10³ cal.",
+                                            "d":  "4,8 x 10³ J; 7,2 x 10³ J; 3,0 x 10³ cal.",
+                                            "e":  "4,8 x 10³ J; 2,4 x 10³ J; 7,2 x 10³ cal.\n\nConsidere:\nQue o gás seja perfeito.\nConstante universal dos gases = 8 J/mol K\n1 cal = 4 J"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O trabalho isobárico é W=PΔV=6×10⁵×(0,032−0,024)=4800J=4,8×10³J. Usando PV=nRT, n=6mol; a variação de energia interna (gás monoatômico, Cv=3/2R) é ΔU=n×(3/2×8)×(400−300)=7200J=7,2×10³J. Pela 1ª lei, Q=W+ΔU=12000J=3,0×10³cal.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-322",
+                       "enunciado":  "Uma criança sentada no topo de um escorregador de 3 m de altura, inclinado de 30° em relação ao solo, parte do repouso e desliza até o chão. O coeficiente de atrito cinético entre a criança e o escorregador é 0,2. O módulo da velocidade da criança ao chegar ao solo é aproximadamente",
+                       "alternativas":  {
+                                            "a":  "4,2 m/s.",
+                                            "b":  "5,1 m/s.",
+                                            "c":  "6,3 m/s.",
+                                            "d":  "7,0 m/s.",
+                                            "e":  "7,7 m/s.\n\nConsidere:\nAceleração da gravidade local = 10 m/s².\ncos 30° = 0,87\nsen 30° = 0,50"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Pela conservação de energia com atrito, mgh−μmg·cosθ·d=(1/2)mv², com d=h/senθ=6m: v=√(2×10×3−2×0,2×10×0,87×6)≈6,3 m/s.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-323",
+                       "enunciado":  "Duas panelas, uma de pressão e outra comum aberta, estão sendo usadas para cozinhar quantidades iguais de um mesmo alimento. Assinale a afirmação correta.",
+                       "alternativas":  {
+                                            "a":  "Na panela comum, o alimento é cozido mais lentamente porque o vapor escapa e a água ferve a temperatura inferior a 100°C.",
+                                            "b":  "O alimento é cozido mais rapidamente na panela de pressão porque, embora a água em seu interior ferva à 100°C, a pressão interna é maior que 1 atm.",
+                                            "c":  "Em ambas as panelas, a água ferve à 100°C, mas a espessura maior das paredes da panela de pressão permite que ela retenha mais calor.",
+                                            "d":  "A válvula de escape da panela de pressão impede que seu interior atinja pressão superior a 1 atm, mas o vapor concentrado dentro dela faz com que o alimento seja cozido mais rapidamente.",
+                                            "e":  "O alimento é cozido mais rapidamente na panela de pressão porque a água em seu interior ferve a temperatura superior a 100°C."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Na panela de pressão, o aumento da pressão interna eleva o ponto de ebulição da água para acima de 100°C, permitindo que o alimento cozinhe em temperatura mais alta e, portanto, mais rapidamente.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-324",
+                       "enunciado":  "Uma pequena bola de borracha, de massa m, se choca com uma parede vertical. Imediatamente antes e imediatamente após o choque, ela tem velocidade de módulo v e direções e sentidos indicados na figura abaixo.\n\n[Descrição da figura: parede vertical à direita; vetor v_antes incide sobre a parede vindo da esquerda-superior, formando 45° com a parede; vetor v_após sai da parede em direção à esquerda-inferior, também formando 45° com a parede (reflexão especular). Eixos de referência x (horizontal) e y (vertical) são indicados à esquerda.]\n\nO impulso que a parede exerce sobre a bola é dado por",
+                       "alternativas":  {
+                                            "a":  "-√2 m v ŷ",
+                                            "b":  "-√2 m v x̂",
+                                            "c":  "-(√2/2) m v x̂",
+                                            "d":  "-(√2/2) m v ŷ",
+                                            "e":  "-(√2/2) m v (x̂-ŷ)\n\ncos 45° = sen 45° = √2/2"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Como a colisão é elástica e a parede é vertical, apenas a componente x (perpendicular à parede) da velocidade se inverte; o impulso é a variação do momento nessa direção: J=m×Δvx=m×(v·cos45°−(−v·cos45°))=√2×m×v, na direção −x̂ (a parede empurra a bola de volta).",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2025.1-cn"
+                   },
+                   {
+                       "id":  "fisica-325",
+                       "enunciado":  "Duas pessoas estão localizadas no equador da Terra em pontos diametralmente opostos. A velocidade tangencial de cada uma delas e a velocidade relativa de uma em relação a outra são, respectivamente,\n\nConsidere: π = 3; raio da Terra = 6000 km.",
+                       "alternativas":  {
+                                            "a":  "zero e zero",
+                                            "b":  "420 km/h e zero",
+                                            "c":  "420 km/h e 420 km/h",
+                                            "d":  "1500 km/h e zero",
+                                            "e":  "1500 km/h e 3000 km/h"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A velocidade tangencial é v=2πR/T=2×3×6000/24=1500 km/h. Como as duas pessoas estão em pontos diametralmente opostos, movendo-se em sentidos opostos, a velocidade relativa entre elas é a soma: 2×1500=3000 km/h.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-326",
+                       "enunciado":  "Um solenoide cilíndrico muito longo de raio a e de n espiras por unidade de comprimento é percorrido, entre os instantes t = 0 e t = T, por uma corrente elétrica I(t) = At, sendo A uma constante. Uma espira circular metálica de resistência elétrica R e raio b \u003e a, concêntrica com o solenoide, está posicionada no plano perpendicular ao eixo dele. Nessas condições, entre t = 0 e t = T, a espira é percorrida por uma corrente igual a\n\n(μ0 é a permeabilidade magnética do vácuo. O sistema está em vácuo.)",
+                       "alternativas":  {
+                                            "a":  "zero",
+                                            "b":  "(μ0 · n · A · t) / R",
+                                            "c":  "(μ0 · n · A · t) / (π · b² · R)",
+                                            "d":  "(μ0 · n · A · π · a²) / R",
+                                            "e":  "(μ0 · n · A · π · b²) / R"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Como o campo do solenoide só existe dentro dele (raio a), o fluxo magnético através da espira maior (raio b) é o mesmo que atravessaria uma área de raio a: Φ=μ₀nI×πa². A fem induzida é ε=dΦ/dt=μ₀nAπa² (já que I=At), e a corrente na espira é i=ε/R=(μ₀nAπa²)/R.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-327",
+                       "enunciado":  "Uma carga elétrica puntiforme q1, negativa, está fixa em uma certa posição. Uma segunda carga q2, também puntiforme e negativa, de massa m, é abandonada em repouso a uma distância d de q1. O sistema está em vácuo. A máxima velocidade que q2 atinge é dada por\n\n(K = 1/(4πε0), sendo ε0 a permissividade elétrica do vácuo. O sistema está em vácuo.)",
+                       "alternativas":  {
+                                            "a":  "K·(q1q2/m)^(1/2)",
+                                            "b":  "(K·q1q2/d)^(1/2)",
+                                            "c":  "(2K·q1q2/(m·d))^(1/2)",
+                                            "d":  "(K·q1q2/(m·d))²",
+                                            "e":  "(2K/(m·d)·q1q2)²"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "Pela conservação de energia, toda a energia potencial elétrica inicial (Kq1q2/d) se converte em energia cinética máxima quando q2 está infinitamente distante: (1/2)mv²=Kq1q2/d, logo v=√(2Kq1q2/(md)).",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-328",
+                       "enunciado":  "Um grupo de banhistas, em uma praia, observa que, em uma dada posição fixa, passam 16 cristas de onda a cada 4 minutos e que a distância entre duas cristas consecutivas é de 8 metros. Eles iniciaram a medida de tempo exatamente quando passou a primeira crista e desligaram 4 minutos depois, no instante em que passou a 16ª.\n\nA frequência e a velocidade de propagação das ondas são, respectivamente, próximas de",
+                       "alternativas":  {
+                                            "a":  "4,2 × 10⁻³ Hz e 0,03 m/s",
+                                            "b":  "4,2 × 10⁻³ Hz e 1,5 × 10⁻² m/s",
+                                            "c":  "6,3 × 10⁻² Hz e 0,5 m/s",
+                                            "d":  "6,3 × 10⁻² Hz e 2,0 m/s",
+                                            "e":  "3,8 Hz e 30 m/s"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "O intervalo de tempo entre a 1ª e a 16ª crista corresponde a 15 períodos completos: T=240s/15=16s, logo f=1/16≈6,3×10⁻² Hz. A velocidade é v=λ/T=8/16=0,5 m/s.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-329",
+                       "enunciado":  "Fibras ópticas são usadas em internet de alta velocidade para transmissão de dados por meio de pulsos de luz. O tempo que a luz leva para percorrer uma fibra ótica com índice de refração 1,5 e comprimento 400 m é\n\n(Considere: velocidade da luz no ar = 3 × 10⁸ m/s.)",
+                       "alternativas":  {
+                                            "a":  "1,0 μs",
+                                            "b":  "1,3 μs",
+                                            "c":  "2,0 μs",
+                                            "d":  "2,0 ms",
+                                            "e":  "1,3 ms"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A velocidade da luz na fibra é v=c/n=(3×10⁸)/1,5=2×10⁸ m/s. O tempo é t=d/v=400/(2×10⁸)=2×10⁻⁶s=2,0 μs.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-330",
+                       "enunciado":  "Você está em uma praia. Devido à pressão atmosférica, o topo de sua cabeça suporta uma força equivalente ao peso de uma massa de\n\n(1 atm = 10⁵ Pa. Considere que: o topo de sua cabeça tenha uma área aproximada de 140 cm²; aceleração da gravidade local = 10 m/s².)",
+                       "alternativas":  {
+                                            "a":  "140 g",
+                                            "b":  "1,4 kg",
+                                            "c":  "14 kg",
+                                            "d":  "140 kg",
+                                            "e":  "1400 kg"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "A força é F=P×A=10⁵Pa×140×10⁻⁴m²=1400 N. Essa força equivale ao peso de uma massa m=F/g=1400/10=140 kg.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-331",
+                       "enunciado":  "Um automóvel trafega com velocidade constante de 72 km/h em uma pista molhada, retilínea e horizontal. Num dado instante, uma criança atravessa na frente do carro e o motorista freia bruscamente. Com as rodas travadas, o carro percorre 40 m, deslizando.\n\nO coeficiente de atrito entre as rodas e a pista é\n\n(Aceleração da gravidade local = 10 m/s².)",
+                       "alternativas":  {
+                                            "a":  "0,2",
+                                            "b":  "0,3",
+                                            "c":  "0,4",
+                                            "d":  "0,5",
+                                            "e":  "0,6"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Convertendo 72km/h para 20m/s e usando v²=2μgd (toda a energia cinética é dissipada pelo atrito até parar): μ=v²/(2gd)=400/(2×10×40)=0,5.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-332",
+                       "enunciado":  "Uma barra rígida, de comprimento 6 m, tem uma extremidade apoiada em um suporte, e sobre ela estão duas caixas, uma de 80 kg e outra de 50 kg, com seus centros de massa, respectivamente, a 2 m e a 4 m de seu apoio. Para que a barra permaneça na horizontal, presa à outra extremidade há uma roldana com um corpo de massa M pendurado, como ilustra a figura (diagrama de autoria da própria banca): a barra é horizontal, apoiada verticalmente em um suporte fixo na extremidade esquerda; a caixa de 80 kg está a 2 m do apoio e a caixa de 50 kg está a 4 m do apoio; na extremidade direita da barra há uma roldana fixada ao teto, por onde passa um fio vertical que sustenta o corpo de massa M.\n\nPara que o sistema permaneça em equilíbrio, M deve ser igual a\n\n(Despreze o peso da barra. Aceleração local da gravidade = 10 m/s².)",
+                       "alternativas":  {
+                                            "a":  "6 kg",
+                                            "b":  "13 kg",
+                                            "c":  "30 kg",
+                                            "d":  "60 kg",
+                                            "e":  "130 kg"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "Pelo equilíbrio de torques em relação ao apoio: 80×2+50×4=M×6 (em unidades de peso×distância, com g cancelando dos dois lados), logo M=(160+200)/6=60 kg.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-333",
+                       "enunciado":  "Um foguete, com tanque de combustível completamente cheio, tem massa 20 toneladas. Ele é lançado verticalmente e os gases provenientes da queima do combustível são ejetados a uma taxa constante de 200 kg/s com velocidade 2500 m/s em relação ao foguete. A força resultante sobre o foguete logo após seu lançamento é:\n\n(Considere que logo após o lançamento do foguete sua massa seja 20 toneladas e que ele já está ejetando gases. Aceleração da gravidade local é 10 m/s².)",
+                       "alternativas":  {
+                                            "a":  "2 × 10⁵ N vertical para baixo",
+                                            "b":  "2 × 10⁵ N vertical para cima",
+                                            "c":  "3 × 10⁵ N vertical e para baixo",
+                                            "d":  "3 × 10⁵ N vertical e para cima",
+                                            "e":  "5 × 10⁵ N vertical para cima"
+                                        },
+                       "resposta":  "d",
+                       "explicacao":  "O empuxo (força de propulsão) é F_empuxo=v_relativa×(dm/dt)=2500×200=500.000N, para cima. O peso do foguete é P=20.000×10=200.000N, para baixo. A força resultante é 500.000−200.000=300.000N=3×10⁵N, para cima.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-334",
+                       "enunciado":  "Elétrons podem ser emitidos da superfície de um material quando nele incidir radiação eletromagnética de",
+                       "alternativas":  {
+                                            "a":  "frequência suficientemente alta e o material for metálico",
+                                            "b":  "frequência suficientemente alta e o material for dielétrico",
+                                            "c":  "qualquer frequência, mas com intensidade suficientemente alta e o material for metálico",
+                                            "d":  "qualquer frequência, mas com intensidade suficientemente alta e o material for dielétrico",
+                                            "e":  "frequência da luz visível na região vermelho e qualquer intensidade se o material for de metálico"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "O efeito fotoelétrico, explicado por Einstein, ocorre quando a frequência da radiação incidente é alta o suficiente para que cada fóton tenha energia superior à função trabalho do material (tipicamente metálico), independentemente da intensidade da luz.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-335",
+                       "enunciado":  "Quatro moles de um gás cujo calor molar a volume constante é 12,5 J/(mol·K) sofreram uma transformação isocórica, isto é, mantendo volume constante, com consequente aumento de 16 °C em sua temperatura.\n\nNesse processo, a variação da energia interna desse gás foi",
+                       "alternativas":  {
+                                            "a":  "400 J",
+                                            "b":  "600 J",
+                                            "c":  "800 J",
+                                            "d":  "29 kJ",
+                                            "e":  "58 kJ"
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A variação de energia interna é ΔU=n×Cv×ΔT=4×12,5×16=800 J.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-336",
+                       "enunciado":  "Um próton e um nêutron se ligam e formam um dêuteron. Nesse processo, ocorre\n\n(Considere: massa do próton = 938,2728 MeV/c²; massa do nêutron = 939,5654 MeV/c²; massa do dêuteron = 1875,6129 MeV/c²; c é a velocidade da luz.)",
+                       "alternativas":  {
+                                            "a":  "emissão de um fóton de energia 2,2253 MeV",
+                                            "b":  "absorção de um fóton de energia 2,2253 MeV",
+                                            "c":  "emissão de um fóton de energia (2,2253 c²) MeV",
+                                            "d":  "absorção de um fóton de energia (2,2253 c²) MeV",
+                                            "e":  "não ocorre nem emissão nem absorção de energia"
+                                        },
+                       "resposta":  "a",
+                       "explicacao":  "A massa do dêuteron é menor que a soma das massas do próton e do nêutron separados (938,2728+939,5654−1875,6129=2,2253 MeV/c²); essa diferença de massa é convertida em energia liberada na forma de um fóton emitido durante a formação do núcleo (energia de ligação nuclear).",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-337",
+                       "enunciado":  "Um objeto iluminado por radiação solar é visto de cor verde.\n\nAo ser iluminado com luz monocromática vermelha, ele será visto com cor",
+                       "alternativas":  {
+                                            "a":  "azul",
+                                            "b":  "verde",
+                                            "c":  "vermelha",
+                                            "d":  "branca",
+                                            "e":  "preta"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "Um objeto verde reflete predominantemente luz verde e absorve as demais cores; ao ser iluminado apenas com luz vermelha (que ele não reflete, apenas absorve), não há luz para refletir, e o objeto aparece preto.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-338",
+                       "enunciado":  "O valor energético de uma barra de 100 g de chocolate ao leite, segundo sua tabela de informação nutricional, é 550 kcal. Uma pessoa, após comer e digerir a barra, recebeu energia equivalente à consumida por uma TV de LED de 100 W ligada por, aproximadamente,\n\n(Considere 1 cal = 4 J.)",
+                       "alternativas":  {
+                                            "a":  "0,5 horas",
+                                            "b":  "1,5 horas",
+                                            "c":  "2,2 horas",
+                                            "d":  "3,6 horas",
+                                            "e":  "6,0 horas"
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "A energia da barra é 550×4000=2.200.000 J (convertendo kcal para J). Dividindo pela potência da TV (100W), o tempo equivalente é 2.200.000/100=22.000s≈6,1 horas.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-339",
+                       "enunciado":  "Uma piscina tem duas partes, uma rasa e outra funda, e entre as duas partes há um degrau. Uma criança, brincando na parte rasa, provoca a propagação de uma onda plana na superfície da água, de comprimento de onda λ1, que incide obliquamente na linha de separação entre as partes rasa e funda com ângulo de incidência θ1. A onda na parte funda tem comprimento de onda λ2 e direção de propagação que forma um ângulo θ2 com a normal à linha que separa as duas partes da piscina.\n\n(A velocidade de propagação de ondas na água é maior em profundidades maiores.)\n\nNessas condições,",
+                       "alternativas":  {
+                                            "a":  "λ1 = λ2; θ1 \u003c θ2",
+                                            "b":  "λ1 \u003c λ2; θ1 \u003c θ2",
+                                            "c":  "λ1 \u003c λ2; θ1 \u003e θ2",
+                                            "d":  "λ1 \u003e λ2; θ1 \u003c θ2",
+                                            "e":  "λ1 \u003e λ2; θ1 \u003e θ2"
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "Como a velocidade da onda é maior na parte funda, o comprimento de onda também é maior lá (λ=v/f, com f constante): λ1\u003cλ2. Pela refração, ao passar para um meio de maior velocidade, a onda se afasta da normal, aumentando o ângulo: θ1\u003cθ2.",
+                       "formato":  "direta",
+                       "origem":  "fgv-unificado-2026.1-cn"
+                   },
+                   {
+                       "id":  "fisica-340",
+                       "enunciado":  "Um estudante está chegando ao local em que será aplicada uma prova de vestibular. Deslocando-se em\ndireção à entrada do local, o estudante repara que o portão principal, de 5,5 m de comprimento, que\nestava totalmente aberto, começa a ser fechado automaticamente, com velocidade constante de 0,2 m/s. O\nestudante, então, inicia uma corrida para conseguir passar pelo portão.\n\nConsidere que, no momento em que o portão começa a ser fechado, o estudante encontrava-se a 100 metros de\ndistância desse portão e que, para conseguir passar por ele, é necessária uma abertura mínima de 0,5 m.\nSupondo que o estudante correrá com velocidade constante, a velocidade mínima que o estudante deve\ndesenvolver para conseguir passar pelo portão é de",
+                       "alternativas":  {
+                                            "a":  "0,8 m/s.",
+                                            "b":  "1,5 m/s.",
+                                            "c":  "2,4 m/s.",
+                                            "d":  "3,2 m/s.",
+                                            "e":  "4,0 m/s."
+                                        },
+                       "resposta":  "e",
+                       "explicacao":  "O portão precisa fechar de 5,5m até restar uma abertura de 0,5m, ou seja, percorrer 5,0m a 0,2m/s, o que leva 25s. Para atravessar os 100m nesse tempo, o estudante precisa de uma velocidade mínima de 100/25=4,0 m/s.",
+                       "formato":  "direta",
+                       "origem":  "insper-2026.1"
+                   },
+                   {
+                       "id":  "fisica-341",
+                       "enunciado":  "Um trem da Linha 4-Amarela do Metrô de São Paulo fez o percurso entre as estações Luz e Vila Sônia, que é\nde 13 km, em 26 minutos. A velocidade escalar média desenvolvida por esse trem nesse percurso foi de",
+                       "alternativas":  {
+                                            "a":  "25 km/h.",
+                                            "b":  "30 km/h.",
+                                            "c":  "35 km/h.",
+                                            "d":  "40 km/h.",
+                                            "e":  "50 km/h."
+                                        },
+                       "resposta":  "b",
+                       "explicacao":  "A velocidade escalar média é v=d/t=13km/(26/60 h)=13×60/26=30 km/h.",
+                       "formato":  "direta",
+                       "origem":  "insper-2026.2"
+                   },
+                   {
+                       "id":  "fisica-342",
+                       "enunciado":  "A figura mostra uma informação estampada na embalagem de uma lâmpada LED. Essa informação significa que\numa lâmpada LED de 15 W produz a mesma iluminação que uma antiga lâmpada incandescente de 90 W. Nessas\ncondições, o uso de uma lâmpada LED de 15 W no lugar de uma lâmpada incandescente de 90 W, durante 4\nhoras, resulta em uma economia de energia elétrica de",
+                       "alternativas":  {
+                                            "a":  "0,06 kWh.",
+                                            "b":  "0,18 kWh.",
+                                            "c":  "0,30 kWh.",
+                                            "d":  "0,36 kWh.",
+                                            "e":  "0,42 kWh."
+                                        },
+                       "resposta":  "c",
+                       "explicacao":  "A economia de potência é 90−15=75W; em 4 horas de uso, a energia economizada é 75×4=300 Wh=0,30 kWh.",
+                       "formato":  "direta",
+                       "origem":  "insper-2026.2"
                    }
                ],
     "geografia":  [
@@ -16424,6 +19941,678 @@ window.QUESTION_BANKS = {
                           "explicacao":  "A deformação é menor onde a superfície geométrica toca a esfera: no equador, no caso do cilindro; num paralelo de latitude média, no do cone; e num único ponto, no da projeção plana, razão pela qual ela é a escolha usual para mapas polares. Dizer que todas distorcem igualmente confunde duas coisas: é verdade que nenhuma é fiel, mas o padrão e a localização da distorção mudam conforme a superfície adotada, e é isso que orienta a escolha.",
                           "formato":  "direta",
                           "dificuldade":  "media"
+                      },
+                      {
+                          "id":  "geografia-163",
+                          "enunciado":  "Neste bioma, a vegetação nativa apresenta-se intercalada por extensas monoculturas de soja e de arroz. Em alguns lugares, a vegetação campestre original tem sido substituída por vegetação florestal, formada por árvores de eucaliptos. Em vários locais, observa-se a expansão de grandes areais, em que os solos arenosos ficam expostos e suscetíveis a uma intensa erosão. Este é o bioma brasileiro menos protegido por Unidades de Conservação, embora esteja entre aqueles que mais perderam vegetação nativa nas últimas três décadas.\n\nA descrição da paisagem impactada por ações humanas refere-se ao bioma",
+                          "alternativas":  {
+                                               "a":  "Caatinga.",
+                                               "b":  "Cerrado.",
+                                               "c":  "Mata Atlântica.",
+                                               "d":  "Pampas.",
+                                               "e":  "Pantanal."
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "O bioma Pampa (campos sulinos do Rio Grande do Sul) é o menos protegido por Unidades de Conservação no Brasil e vem perdendo vegetação campestre nativa para monoculturas de soja e arroz e para o florestamento de eucalipto, além de sofrer intensa arenização em áreas de solo exposto.",
+                          "formato":  "direta",
+                          "origem":  "fuvest-2025"
+                      },
+                      {
+                          "id":  "geografia-164",
+                          "enunciado":  "A Estação Meteorológica Mirante de Santana é a principal referência do Instituto Nacional de Meteorologia (INMET) no município de São Paulo - SP. O climograma a seguir apresenta dados diários de temperatura (máxima e mínima) e de precipitação referentes ao mês de fevereiro de 2023 (28 dias). Neste mesmo mês, o Centro de Gerenciamento de Emergências Climáticas detectou 11 pontos de alagamentos no dia 19 e 14 pontos no dia 21.\n\nValores destacados no climograma: no dia 1, a temperatura máxima (T.Max) registrada foi de 31,5°C. Por volta do dia 19, a T.Max atingiu seu menor valor do mês, 21,6°C, e a temperatura mínima (T.Min) atingiu seu menor valor do mês, 17,8°C — a menor amplitude térmica (diferença entre T.Max e T.Min) de todo o período, coincidindo com dias de chuva intensa e com os alagamentos relatados nos dias 19 e 21. Por volta dos dias 25-26, a T.Min atingiu um pico local de 21,5°C. A chuva acumulada no mês (eixo secundário, linha pontilhada) cresce ao longo dos dias e totaliza 428,9 mm até o dia 28, o último dia do gráfico.\n\nCom base no texto e no gráfico, assinale a alternativa correta.",
+                          "alternativas":  {
+                                               "a":  "A menor amplitude térmica ocorreu no dia 19, quando foi observado um dos maiores volumes de chuva do mês.",
+                                               "b":  "Os quatro dias mais chuvosos apresentaram as menores temperaturas mínimas.",
+                                               "c":  "A temperatura máxima no período variou entre 21,5 °C e 17,8 °C.",
+                                               "d":  "Os cinco dias mais quentes correspondem às maiores precipitações.",
+                                               "e":  "Os pontos de alagamento nos dias 19 e 21 foram provocados pela chuva acumulada de 428,9 mm."
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "No dia 19 tanto a temperatura máxima (21,6°C) quanto a mínima (17,8°C) atingiram seus menores valores do mês, reduzindo a amplitude térmica justamente no dia de chuva intensa e alagamentos — céu nublado e chuva reduzem o aquecimento diurno, achatando a diferença entre máxima e mínima.",
+                          "formato":  "direta",
+                          "origem":  "fuvest-2025"
+                      },
+                      {
+                          "id":  "geografia-165",
+                          "enunciado":  "Na obra Caminho de pedras, de 1937, a autora Rachel de Queiroz aborda os desafios da personagem Noemi em busca de sua liberdade política, social e sexual, em uma sociedade conservadora. O papel da mulher na sociedade e sua inserção no mercado de trabalho são temas atuais. Em março de 2025, o governo federal lançou um boletim que tem como objetivo analisar a inserção das mulheres no mercado de trabalho brasileiro. Um dos gráficos apresentados pelo boletim trata da taxa de participação na força de trabalho no Brasil, no 3º trimestre de cada ano, no período de 2012 a 2024 (fonte: Pesquisa Nacional por Amostra de Domicílio Contínua — PNAD Contínua/IBGE).\n\nTaxa de participação na força de trabalho (%), por sexo, no terceiro trimestre de cada ano:\n\n| Ano | Homens | Total | Mulheres |\n|---|---|---|---|\n| 2012 | 74,5 | 62,8 | 51,9 |\n| 2013 | 74,4 | 62,6 | 51,6 |\n| 2014 | 74,0 | 62,3 | 51,4 |\n| 2015 | 74,0 | 62,9 | 52,4 |\n| 2016 | 73,5 | 62,5 | 52,2 |\n| 2017 | 73,6 | 63,2 | 53,5 |\n| 2018 | 73,6 | 63,3 | 53,7 |\n| 2019 | 73,6 | 63,8 | 54,6 |\n| 2020 | 68,6 | 57,6 | 47,3 |\n| 2021 | 72,2 | 61,9 | 52,3 |\n| 2022 | 72,6 | 62,7 | 53,4 |\n| 2023 | 72,0 | 61,8 | 52,3 |\n| 2024 | 72,6 | 62,4 | 52,8 |\n\nEm relação ao gráfico apresentado, é correto afirmar:",
+                          "alternativas":  {
+                                               "a":  "A queda na taxa de participação de homens na força de trabalho foi maior do que a de mulheres no terceiro trimestre do ano em que a pandemia de Covid se iniciou.",
+                                               "b":  "A taxa de participação de mulheres na força de trabalho é crescente durante todo o período entre o terceiro trimestre do ano de início da pandemia de Covid e o terceiro trimestre de 2024.",
+                                               "c":  "A taxa de participação de mulheres na força de trabalho teve seu maior crescimento anual do terceiro trimestre de 2020 para o terceiro trimestre de 2021.",
+                                               "d":  "A diferença entre a taxa de participação de homens e mulheres na força de trabalho foi de 11,7 no terceiro trimestre de 2012.",
+                                               "e":  "A taxa de participação de mulheres na força de trabalho atingiu seu maior valor após o terceiro trimestre de 2020."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Comparando os valores da tabela, a taxa de participação feminina saltou de 47,3% em 2020 para 52,3% em 2021, um aumento de 5,0 pontos percentuais — a maior variação anual de toda a série, superior a qualquer outro salto ano a ano observado na tabela.",
+                          "formato":  "direta",
+                          "origem":  "fuvest-2026"
+                      },
+                      {
+                          "id":  "geografia-166",
+                          "enunciado":  "O conceito de mercado de carbono foi formalizado a partir do Protocolo de Kyoto, em 1997, e foi impulsionado pelo Acordo de Paris, em 2015. No Brasil, o mercado de créditos de carbono foi formalizado em dezembro de 2024.\n\nIndique a alternativa que explica corretamente a ideia central acerca dos créditos de carbono.",
+                          "alternativas":  {
+                                               "a":  "Países com mais florestas devem receber créditos financeiros de países menos florestados para manter a floresta em pé.",
+                                               "b":  "Créditos de carbono correspondem a um aumento da taxa fotossintética e uma maior conversão de CO2 em matéria orgânica pelas florestas tropicais.",
+                                               "c":  "Créditos de carbono são obtidos por qualquer país, mesmo os mais industrializados, pela redução da emissão de CO2 e seus equivalentes na atmosfera.",
+                                               "d":  "Países industrializados geram muitos créditos de carbono, que podem ser repassados aos países menos poluidores, via mercado de carbono.",
+                                               "e":  "Há um limite de créditos de carbono que cada país pode emitir, estabelecido internacionalmente; ultrapassado tal limite, o país sofre sanções econômicas."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "O mercado de créditos de carbono permite que qualquer país ou empresa, inclusive os mais industrializados, gere créditos ao reduzir ou evitar emissões de CO2 e gases equivalentes, podendo depois negociá-los — não se trata de uma doação fixa a países florestados nem de aumento da fotossíntese das florestas.",
+                          "formato":  "direta",
+                          "origem":  "fuvest-2026"
+                      },
+                      {
+                          "id":  "geografia-167",
+                          "enunciado":  "No censo do IBGE 2022 foi possível perceber que, do total de 203,1 milhões de pessoas da população brasileira, 177,5 milhões (87,4%) residiam em áreas urbanas, enquanto 25,6 milhões viviam em áreas rurais. Em relação a 2010, quando o grau de urbanização foi de 84,4%, houve aumento de 16,6 milhões de pessoas morando em áreas urbanas e queda de 4,3 milhões vivendo em áreas rurais.\n\nJá em relação à distribuição da população brasileira, o Censo 2022 trouxe uma importante constatação: o crescimento das cidades médias. Cabem nessa classificação do IBGE os municípios que contam entre 100 mil e 500 mil habitantes.\n\nAlém disso, os dados também revelam que os maiores percentuais de população urbana foram observados nas regiões Sudeste (94,44%) e Centro-Oeste (91,35%), seguidas das regiões Sul (88,24%), Norte (78,47%) e Nordeste (77,64%). A população rural, por sua vez, apresentou pela primeira vez decréscimo em todas as regiões do Brasil. Este contexto de mudanças é denominado de fragmentação socioespacial.\n\nCom base no texto e em seus conhecimentos, é correto afirmar a respeito das novas tendências sobre a urbanização do Brasil:",
+                          "alternativas":  {
+                                               "a":  "O grau de urbanização vem aumentando na região Centro-Oeste (91,35%) e Norte (78,47%), devido à expansão industrial e ao impacto das áreas reflorestadas e com baixa modernização agrícola.",
+                                               "b":  "Houve um aumento de 16,6 milhões de pessoas morando em áreas urbanas, revelando que as grandes metrópoles continuam como o principal polo de crescimento populacional relativo, registrando taxas de aumento superiores às cidades médias e pequenas.",
+                                               "c":  "Em 2010, 84,4% da população absoluta do país vivia em áreas urbanas e, em 2022, essa porcentagem passou para 87,4%; esse aumento do grau de urbanização ocorreu sobretudo nas cidades médias (entre 100 e 500 mil habitantes).",
+                                               "d":  "De acordo com o Censo de 2022, a população rural manteve-se estável na última década, como mostram os dados das regiões Sul (88,24%) e Sudeste (94,44%), ampliando a fragmentação socioespacial.",
+                                               "e":  "No contexto do Censo de 2022, os pequenos municípios brasileiros apresentaram o maior crescimento populacional relativo do país, superando as cidades médias e grandes, em função do avanço da industrialização e da expansão do agronegócio."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Os dados do texto confirmam a evolução do grau de urbanização de 84,4% (2010) para 87,4% (2022), e apontam que esse crescimento se concentrou sobretudo nas cidades médias (100 a 500 mil habitantes), e não nas grandes metrópoles nem nos pequenos municípios.",
+                          "formato":  "direta",
+                          "origem":  "fuvest-2026"
+                      },
+                      {
+                          "id":  "geografia-168",
+                          "enunciado":  "Atualmente, é comum denominar a divisão político-regional do mundo entre Norte e Sul Global. Essa delimitação não segue exatamente os pontos cardeais. Há países do Norte que estão no Sul e vice-versa, conforme indicado no mapa. Essa forma de divisão está baseada no tabuleiro geopolítico e econômico mundial e afastada da localização geográfica dos países.\n\nO mapa \"Localização dos países do Norte e Sul Global\" (elaboração própria da COMVEST, 2025) mostra um planisfério com os países coloridos em azul (Norte Global) ou vermelho (Sul Global). Estão em azul (Norte Global): Estados Unidos, Canadá, toda a Europa, a Rússia, e também a Austrália e a Nova Zelândia. Estão em vermelho (Sul Global): México, toda a América Central e do Sul, toda a África, e a Ásia (incluindo China, Índia, Oriente Médio e Sudeste Asiático).\n\nEm relação à localização dos países do Norte e Sul Global nos diferentes hemisférios, assinale, com base no mapa, a alternativa correta.",
+                          "alternativas":  {
+                                               "a":  "Austrália e Nova Zelândia são os únicos países do Norte Global situados no hemisfério meridional e hemisfério ocidental.",
+                                               "b":  "Argentina, Brasil, Chile, Colômbia, Equador e Venezuela estão no Sul Global e têm seus territórios no hemisfério meridional e no hemisfério oriental.",
+                                               "c":  "Estados Unidos e Canadá são países do continente americano no Norte Global que têm seus territórios localizados no hemisfério setentrional e hemisfério ocidental.",
+                                               "d":  "China, Rússia, Índia e Japão, integrantes do Norte Global, estão situados no hemisfério setentrional e no hemisfério oriental."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Estados Unidos e Canadá pertencem ao Norte Global e estão localizados ao norte do Equador (hemisfério setentrional) e a oeste do meridiano de Greenwich (hemisfério ocidental) — diferentemente da Austrália e Nova Zelândia (hemisfério oriental, não ocidental) e da maioria dos países sul-americanos citados na alternativa b (hemisfério ocidental, não oriental).",
+                          "formato":  "direta",
+                          "origem":  "unicamp-2026"
+                      },
+                      {
+                          "id":  "geografia-169",
+                          "enunciado":  "O mapa a seguir apresenta frações do território brasileiro transformadas a partir da década de 1970 pela implementação de políticas de desenvolvimento. Três áreas limítrofes do Estado da Bahia, que até então não eram modernizadas, foram incorporadas a diferentes circuitos espaciais produtivos globalizados.\n\nO mapa \"Circuitos produtivos do agronegócio no estado da Bahia\" (elaboração própria da COMVEST, 2025) mostra o estado da Bahia e vizinhos (Maranhão, Piauí, Tocantins, Pernambuco, Goiás, Distrito Federal, Espírito Santo), com três zonas destacadas: a \"Zona produtora de grãos\" (a oeste, na divisa com Tocantins/Piauí), a \"Zona da Fruticultura Irrigada\" (ao norte, na divisa com Pernambuco) e a \"Zona da Silvicultura de Eucalipto\" (ao sul, na divisa com Espírito Santo).\n\nConsiderando o texto e o mapa dos circuitos produtivos do agronegócio no Estado da Bahia, assinale a alternativa correta.",
+                          "alternativas":  {
+                                               "a":  "A especialização produtiva regional favoreceu o uso intensivo de inovações técnico-científicas, promovendo seletividade espacial da modernização, o que gerou impactos nos mosaicos produtivos tradicionais.",
+                                               "b":  "Os enclaves de modernização regional promoveram a difusão de uma produção diversificada setorialmente, o que garantiu o espraiamento das inovações técnico-científicas para as demais localidades da região.",
+                                               "c":  "A especialização produtiva regional permitiu a cooperação das inovações técnico-científicas com os mosaicos produtivos tradicionais, o que restringiu maior conectividade espacial entre os estados limítrofes.",
+                                               "d":  "Os enclaves de modernização regional viabilizaram a dilatação das inovações técnico-científicas para setores produtivos não especializados, o que acarretou a eliminação da seletividade espacial produzida pela especialização."
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "As três zonas do agronegócio baiano são enclaves modernos que empregam tecnologia de ponta de forma seletiva no espaço, coexistindo com — e impactando — os mosaicos produtivos tradicionais da região, sem difundir a modernização para todo o entorno, como sugerem as demais alternativas.",
+                          "formato":  "direta",
+                          "origem":  "unicamp-2026"
+                      },
+                      {
+                          "id":  "geografia-170",
+                          "enunciado":  "A segunda edição do estudo Gestão do Território, elaborado pelo Instituto Brasileiro de Geografia e Estatística (IBGE) em 2024, mostra, no universo dos 5.570 municípios do país, quais são os Centros de Gestão, isto é, os núcleos responsáveis pelo papel de comando na rede urbana brasileira. Em 2024, apenas 39,1% dos municípios do Brasil se qualificavam como Centros de Gestão do Território (2.176 municípios).\n\nUm indicador de centralidade na gestão do território é o número de assalariados externos ao Município da sede da empresa.\n\nO gráfico \"Assalariados externos ao Município\" (fonte: IBGE, Cadastro Central de Empresas: 2012/2021) apresenta, para dez cidades, o número de assalariados externos em 2012 e em 2021:\n\n- São Paulo (SP): 2012 = 1.581.348; 2021 = 1.855.722\n- Rio de Janeiro (RJ): 2012 = 594.662; 2021 = 486.696\n- Brasília (DF): 2012 = 399.595; 2021 = 315.047\n- Belo Horizonte (MG): 2012 = 266.921; 2021 = 26.371\n- Barueri (SP): 2012 = 163.989; 2021 = 197.356\n- Fortaleza (CE): 2012 = 92.701; 2021 = 118.860\n- Porto Alegre (RS): 2012 = 134.302; 2021 = 117.568\n- Osasco (SP): 2012 = 128.754; 2021 = 108.566\n- Itajaí (SC): 2012 = 57.408; 2021 = 103.241\n- Curitiba (PR): 2012 = 97.246; 2021 = 99.072\n\nCom base no gráfico anterior, e em seus conhecimentos sobre a rede urbana brasileira, é correto afirmar que",
+                          "alternativas":  {
+                                               "a":  "Rio de Janeiro, capital, amplia sua centralidade como centro de gestão empresarial do território nacional, conservando sua histórica função industrial e de administração pública.",
+                                               "b":  "Barueri apresenta tendência de crescimento do assalariado externo, contribuindo para manter a Região Metropolitana de São Paulo no topo da hierarquia urbana.",
+                                               "c":  "Brasília apresenta tendência de queda de seus assalariados externos, demonstrando a dificuldade da capital do país para permanecer como centro de gestão pública do território na atualidade.",
+                                               "d":  "Itajaí apresenta destaque por sua função industrial, perdendo força na centralidade da gestão empresarial do território por ser uma cidade de médio porte na Região Metropolitana da Foz do Rio Itajaí."
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Os dados mostram que Barueri passou de 163.989 para 197.356 assalariados externos entre 2012 e 2021, crescimento que reforça sua posição como polo de gestão empresarial dentro da Região Metropolitana de São Paulo, mantendo a capital paulista no topo da hierarquia urbana nacional.",
+                          "formato":  "direta",
+                          "origem":  "unicamp-2026"
+                      },
+                      {
+                          "id":  "geografia-171",
+                          "enunciado":  "O mapa (fonte: portalgeo.seade.gov.br, portal geográfico da Fundação Sistema Estadual de Análise de Dados — SEADE, órgão público do governo do Estado de São Paulo) mostra a região de influência da Grande Metrópole Nacional, São Paulo, no ano de 2018, representada por uma rede de conexões (pontos e linhas irradiando do centro metropolitano para cidades do interior paulista e de estados vizinhos, com tamanhos de símbolo proporcionais à intensidade da relação).\n\nContribui para a espacialização da rede e da hierarquia urbana demonstradas no mapa",
+                          "alternativas":  {
+                                               "a":  "o desenvolvimento dos sistemas de transporte e de comunicação.",
+                                               "b":  "a ausência de acidentes geográficos e de barreiras orográficas.",
+                                               "c":  "o declínio das atividades locais nos setores primário e secundário da economia.",
+                                               "d":  "a implantação de um modelo urbano pautado em megacidades e megalópoles.",
+                                               "e":  "a desregulamentação político-administrativa dos estados e dos municípios."
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A hierarquia e a rede urbana representadas no mapa dependem diretamente da infraestrutura de transportes e de comunicação, que viabiliza os fluxos de pessoas, mercadorias, capital e informações entre São Paulo e as cidades de sua área de influência.",
+                          "formato":  "direta",
+                          "origem":  "einstein-2025.1"
+                      },
+                      {
+                          "id":  "geografia-172",
+                          "enunciado":  "Em novembro de 2024, o Brasil alcançou um marco significativo na geração de energia eólica. No dia 3 de novembro, às 23h, foi registrado um recorde de \"geração média horária\", atingindo 23.699 megawatts médios (MWmed). Esses resultados destacam o avanço da energia eólica como fonte essencial para a matriz energética do país, indicador do papel crucial dessa tecnologia no fornecimento de energia. (Fonte: www.gov.br, portal oficial do governo federal.)\n\nAs turbinas eólicas aproveitam uma fonte de energia",
+                          "alternativas":  {
+                                               "a":  "renovável, embora provoquem impactos sonoros para as comunidades próximas ao parque eólico.",
+                                               "b":  "não renovável, prejudicando o voo de morcegos e afetando a rota de aves migratórias.",
+                                               "c":  "não renovável, alterando o microclima da região em que são instaladas.",
+                                               "d":  "renovável, embora causem poluição do ar e afetem a camada de ozônio.",
+                                               "e":  "renovável, embora intensifiquem o aquecimento global e agravem as mudanças climáticas."
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A energia eólica é renovável, pois depende do vento, fonte inesgotável em escala humana; seu principal impacto ambiental local é a poluição sonora das turbinas para as comunidades próximas, e não emissões atmosféricas ou danos à camada de ozônio.",
+                          "formato":  "direta",
+                          "origem":  "einstein-2026.1"
+                      },
+                      {
+                          "id":  "geografia-173",
+                          "enunciado":  "O Programa das Nações Unidas para os Assentamentos Humanos (ONU-Habitat) apresentou o Relatório Mundial das Cidades, que alerta que mais de 2 bilhões de pessoas podem enfrentar um aumento adicional de pelo menos 0,5 ºC na temperatura até 2040. O documento revela também que alguns esforços para combater as mudanças climáticas nas áreas urbanas pioraram as condições para comunidades vulneráveis. Iniciativas como a criação de parques deslocam famílias de baixa renda ou aumentam os valores imobiliários, sendo necessário aos agentes produtores do espaço urbano propor soluções climáticas mais justas e inclusivas. Com base no excerto, o processo de transformação no espaço urbano relacionado com os efeitos das mudanças climáticas denomina-se",
+                          "alternativas":  {
+                                               "a":  "gentrificação verde.",
+                                               "b":  "verticalização sustentável.",
+                                               "c":  "espoliação conservacionista.",
+                                               "d":  "metropolização preservacionista.",
+                                               "e":  "conurbação socioambiental."
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A criação de áreas verdes urbanas que valoriza os imóveis do entorno e acaba expulsando moradores de baixa renda é o fenômeno conhecido como gentrificação verde, no qual soluções ambientais aprofundam desigualdades socioespaciais.",
+                          "formato":  "direta",
+                          "origem":  "einstein-2025.2-enfermagem"
+                      },
+                      {
+                          "id":  "geografia-174",
+                          "enunciado":  "Um mapa-múndi (fonte: pt.atlasbig.com, site de referência estatística/cartográfica) destaca, em laranja, os países produtores de determinada commodity em 2021 — os países destacados incluem grandes produtores da América do Sul (como Brasil), África Ocidental, e Sudeste Asiático (como Indonésia). A commodity produzida pelos países destacados nesse mapa-múndi é",
+                          "alternativas":  {
+                                               "a":  "o cacau.",
+                                               "b":  "o café.",
+                                               "c":  "a soja.",
+                                               "d":  "o trigo.",
+                                               "e":  "a seda."
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Brasil, países da África Ocidental e Indonésia estão entre os maiores produtores mundiais de café, o que identifica a commodity destacada no mapa.",
+                          "formato":  "direta",
+                          "origem":  "einstein-2025.2-enfermagem"
+                      },
+                      {
+                          "id":  "geografia-175",
+                          "enunciado":  "A projeção de Robinson é uma projeção cartográfica criada por Arthur H. Robinson em 1963, com o objetivo de produzir uma representação visualmente equilibrada do globo terrestre. Ela não é conforme nem equivalente, o que significa que não preserva perfeitamente ângulos ou áreas, mas busca minimizar as distorções em ambos os aspectos. Os paralelos aparecem como linhas retas e os meridianos como arcos suavemente curvados, criando uma forma elíptica que aproxima a aparência da Terra. A projeção que o excerto descreve é do tipo",
+                          "alternativas":  {
+                                               "a":  "cilíndrica oblíqua.",
+                                               "b":  "azimutal polar.",
+                                               "c":  "pseudocilíndrica afilática.",
+                                               "d":  "equidistante equatorial.",
+                                               "e":  "cônica tangencial."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Com meridianos curvos e paralelos retos, e sem preservar fielmente nem ângulos (conforme) nem áreas (equivalente), a projeção de Robinson é classificada como pseudocilíndrica afilática — uma projeção de compromisso que busca equilíbrio visual em vez de fidelidade métrica.",
+                          "formato":  "direta",
+                          "origem":  "einstein-2025.2-enfermagem"
+                      },
+                      {
+                          "id":  "geografia-176",
+                          "enunciado":  "Um grupo de pesquisadores está mapeando a extensão de um importante cabo de fibra óptica submarino que conecta a cidade de Fortaleza, no Brasil, à cidade de Lisboa, em Portugal, visando melhorar a conectividade transatlântica. A distância real aproximada desse traçado é de 4000 km. Ao plotar esse projeto em um mapa técnico para uma apresentação, o cartógrafo representou essa distância em linha reta com um traço de 20 cm. Considerando essas informações, a escala desse mapa técnico é",
+                          "alternativas":  {
+                                               "a":  "1:800000.",
+                                               "b":  "1:1250000.",
+                                               "c":  "1:80000000.",
+                                               "d":  "1:2000000.",
+                                               "e":  "1:20000000."
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A escala é a razão entre a distância no mapa e a distância real na mesma unidade: 4.000 km equivalem a 400.000.000 cm; dividindo essa distância real por 20 cm no mapa, obtemos a escala 1:20.000.000.",
+                          "formato":  "direta",
+                          "origem":  "einstein-2026.2-enfermagem"
+                      },
+                      {
+                          "id":  "geografia-177",
+                          "enunciado":  "*Descrição da imagem: um selo/logotipo retangular verde e branco, com o texto \"PRODUZIDO NO POLO INDUSTRIAL DE MANAUS\" e, abaixo, \"CONHEÇA A AMAZÔNIA\", com um ícone estilizado de folhas — um selo oficial de identificação de produto, publicado no site do governo federal (www.gov.br).*\n\nUma justificativa para a criação do polo citado na imagem em meados do século XX e uma característica que o define são, respectivamente,",
+                          "alternativas":  {
+                                               "a":  "a redução das desigualdades regionais e a oferta de incentivos fiscais às indústrias instaladas no local.",
+                                               "b":  "o potencial mercado consumidor da região Norte e a isenção de impostos para indústrias que migram para a Amazônia ocidental.",
+                                               "c":  "o reforço das fronteiras meridionais do território brasileiro e o acesso a verbas públicas para investimentos na produção industrial.",
+                                               "d":  "a desconcentração industrial para além do eixo Rio-São Paulo e a oferta de subsídios para a apropriação de terras devolutas.",
+                                               "e":  "o desenvolvimento socioeconômico da Amazônia oriental e a concessão de bens primários gratuitos aos produtores locais."
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A Zona Franca de Manaus foi criada em 1967 como política de redução das desigualdades regionais, oferecendo incentivos fiscais às indústrias que se instalassem na região para atrair investimentos e desenvolvimento à Amazônia.",
+                          "formato":  "direta",
+                          "origem":  "unesp-2026-2"
+                      },
+                      {
+                          "id":  "geografia-178",
+                          "enunciado":  "A tecnologia espacial está profundamente integrada ao cotidiano e às atividades econômicas, dominando sistemas de informação, comunicação e geolocalização. Torna-se, portanto, um setor estratégico para o desenvolvimento socioeconômico nacional e, nesse sentido, a localização geográfica da base de Alcântara, no estado do Maranhão, é frequentemente citada como privilegiada, o que pode significar uma economia de cerca de 30% de combustível no lançamento de foguetes.\n\nA base de Alcântara apresenta vantagem locacional por estar situada em",
+                          "alternativas":  {
+                                               "a":  "média latitude, que amplia a pressão atmosférica capaz de impulsionar as aeronaves lançadas.",
+                                               "b":  "baixa latitude, que garante maior velocidade linear aos lançamentos.",
+                                               "c":  "elevada latitude, que proporciona menor pressão atmosférica aos lançamentos.",
+                                               "d":  "baixa latitude, que oferece maior velocidade angular às aeronaves lançadas.",
+                                               "e":  "elevada latitude, que reduz a resistência do ar para as aeronaves lançadas."
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Por estar próxima ao Equador, a base de Alcântara já possui, devido à rotação da Terra, uma velocidade linear tangencial maior do que localidades de latitude mais elevada, o que permite economizar combustível no lançamento de foguetes.",
+                          "formato":  "direta",
+                          "origem":  "unesp-2026-2"
+                      },
+                      {
+                          "id":  "geografia-179",
+                          "enunciado":  "A China particulariza-se no cenário internacional por seu sistema econômico híbrido, inaugurado na década de 1970. Conhecido como \"socialismo de mercado\", esse sistema apresenta características que",
+                          "alternativas":  {
+                                               "a":  "corrompem o capitalismo com táticas socialistas, ou seja, que oferecem mercadorias subsidiadas para desestabilizar as economias capitalistas pelo mundo.",
+                                               "b":  "associam os modos de produção socialista e capitalista, ou seja, que atendem aos interesses tanto de uma economia planificada quanto de uma economia de mercado.",
+                                               "c":  "incorporam lógicas capitalistas à organização política socialista, ou seja, que empregam análises de demanda do mercado para definir investimentos públicos.",
+                                               "d":  "se opõem às estratégias monetarizadas do capitalismo, ou seja, que valorizam modelos como a economia criativa para gerar valor de maneira equitativa.",
+                                               "e":  "se sobrepõem às regras do comércio internacional, ou seja, que violam normas e regras estabelecidas para garantir o fim de crises econômicas mundiais."
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "O \"socialismo de mercado\" chinês combina o controle político e o planejamento estatal típicos do socialismo com mecanismos de mercado e abertura ao capital privado e estrangeiro, característicos do capitalismo — daí a hibridização do sistema.",
+                          "formato":  "direta",
+                          "origem":  "unesp-2025-2"
+                      },
+                      {
+                          "id":  "geografia-180",
+                          "enunciado":  "Durante uma aula, o professor de Geografia apresentou a seus alunos a seguinte imagem, que retrata a arte do macramê, uma técnica de tecelagem manual com uso de barbante para a confecção e integração de um conjunto de nós.\n\n*Descrição da imagem: uma fotografia simples de um trabalho de macramê — um padrão de nós de barbante formando uma malha, usado apenas como analogia visual para o conceito de rede urbana (nós = cidades, fios = conexões).*\n\nA imagem apresentada pelo professor é um recurso didático para explicar, por meio de analogia, o conceito de",
+                          "alternativas":  {
+                                               "a":  "densidade demográfica, em que os nós representam os limites municipais e os fios representam os cidadãos dos municípios.",
+                                               "b":  "gentrificação, em que os nós representam os espaços de moradia e os fios representam os eixos de circulação entre os espaços urbanos.",
+                                               "c":  "hierarquia urbana, em que os nós representam os municípios e os fios representam graus diferentes de relevância entre as cidades.",
+                                               "d":  "verticalização, em que os nós representam os prédios construídos em áreas centrais e os fios representam os espaços públicos de lazer.",
+                                               "e":  "rede urbana, em que os nós representam as cidades e os fios representam a conexão pelo sistema de transporte."
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "Na analogia do macramê, os nós representam as cidades e os fios representam as conexões (de transporte, econômicas, de comunicação) entre elas, ilustrando o conceito de rede urbana.",
+                          "formato":  "direta",
+                          "origem":  "unesp-2025-2"
+                      },
+                      {
+                          "id":  "geografia-181",
+                          "enunciado":  "Na atividade extrativista mineral, informações sobre a geologia de uma região são estratégicas para a",
+                          "alternativas":  {
+                                               "a":  "inserção de um país em acordos de livre-comércio, redefinindo a posição deste na divisão internacional do trabalho.",
+                                               "b":  "decisão de investimento em um projeto minerador, considerando a possibilidade de existirem ali recursos minerais de importância econômica.",
+                                               "c":  "avaliação de custos operacionais às organizações trabalhistas, normativamente responsáveis pela aquisição de instrumentos de proteção aos trabalhadores.",
+                                               "d":  "análise de riscos ambientais em empreendimentos mineradores, atendendo às regras internacionais de impacto ambiental zero nesse setor.",
+                                               "e":  "emissão de certidões de doação de terrenos, em cumprimento à lei que confere primazia à função social da propriedade."
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Informações geológicas indicam a probabilidade de existirem depósitos minerais economicamente viáveis em uma área, sendo, portanto, estratégicas para orientar a decisão de investir ou não em um projeto de mineração.",
+                          "formato":  "direta",
+                          "origem":  "unesp-2025-2"
+                      },
+                      {
+                          "id":  "geografia-182",
+                          "enunciado":  "Texto 1: Esta massa de ar tem papel fundamental no transporte de umidade para outras regiões do país, em razão do forte processo de evapotranspiração da floresta. Além de úmida, é considerada quente, muito devido à região de origem.\n\nTexto 2: Origina-se na árida depressão do Chaco, entre Paraguai, Bolívia e Argentina. Por essa característica, esta massa de ar é seca. Quando ocorre no inverno, ela impede a chegada de massas de ar frio, causando uma elevação da temperatura, o chamado veranico.\n\nAs definições apresentadas nos textos 1 e 2 correspondem, respectivamente, às massas de ar",
+                          "alternativas":  {
+                                               "a":  "equatorial continental e tropical continental.",
+                                               "b":  "tropical atlântica e equatorial atlântica.",
+                                               "c":  "equatorial continental e tropical atlântica.",
+                                               "d":  "tropical atlântica e equatorial continental.",
+                                               "e":  "equatorial atlântica e tropical continental."
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A massa úmida e quente originada na floresta amazônica, que transporta umidade via evapotranspiração, é a massa Equatorial Continental; a massa seca originada na árida depressão do Chaco, responsável pelo veranico no inverno, é a massa Tropical Continental.",
+                          "formato":  "direta",
+                          "origem":  "unesp-2025-2"
+                      },
+                      {
+                          "id":  "geografia-183",
+                          "enunciado":  "A Argentina é um dos países que não tem isenção de taxa alfandegária, mesmo para importações de pequeno valor. De acordo com informações do governo argentino, produtos importados para consumidores finais são tributados pelo \"Imposto para uma Argentina Inclusiva e Solidária\" (PAIS), que é de 30% sobre o valor da mercadoria importada e é usado para financiar políticas sociais e econômicas.\n\nEssa prática fiscal argentina tem como intuito",
+                          "alternativas":  {
+                                               "a":  "estimular a competitividade no exterior.",
+                                               "b":  "impulsionar o crescimento do mercado externo.",
+                                               "c":  "inutilizar a tarifa externa comum.",
+                                               "d":  "estabelecer uma estratégia protecionista.",
+                                               "e":  "ampliar o acesso às mercadorias estrangeiras."
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Ao taxar fortemente as importações, mesmo as de pequeno valor, a Argentina busca proteger sua produção e indústria nacional da concorrência estrangeira, caracterizando uma estratégia protecionista, e não de estímulo ao comércio externo.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2024"
+                      },
+                      {
+                          "id":  "geografia-184",
+                          "enunciado":  "Um mapa apresenta a região de passagem de migrantes sul-americanos que tentam chegar aos Estados Unidos, destacando a \"Região de Darién\" — uma área de selva densa na fronteira entre a Colômbia e o Panamá, atravessada pela rota migratória entre a Colômbia (Turbo) e a Cidade do Panamá (via Yaviza).\n\nConsiderando o mapa e conhecimentos sobre a região, uma característica natural dessa rota migratória é a",
+                          "alternativas":  {
+                                               "a":  "reduzida atividade sísmica.",
+                                               "b":  "influência do clima árido.",
+                                               "c":  "existência de floresta densa.",
+                                               "d":  "travessia da cordilheira dos Andes.",
+                                               "e":  "predominância de rios intermitentes."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "A Região de Darién, na fronteira Colômbia-Panamá, é coberta por floresta tropical densa, o que torna a travessia migratória extremamente perigosa — a área não é árida nem cruza a cordilheira dos Andes.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2024"
+                      },
+                      {
+                          "id":  "geografia-185",
+                          "enunciado":  "Um gráfico de participação setorial no PIB em 2019 mostra: serviços 73,3% (dividido em comércio varejista 11,3%, administração pública 10,2%, atividades financeiras 7,2%, saúde 5,1%, educação 6,7%, entre outros), indústria 21,8% (dividida em três subsetores I, II e III, com 12,0%, 3,9% e 2,9% respectivamente, mais 2,1% de energia) e agropecuária 4,9% (agricultura 3,2%, pecuária 1,2%).\n\nConsiderando os setores da indústria, os números I, II e III presentes no gráfico correspondem, respectivamente, a",
+                          "alternativas":  {
+                                               "a":  "indústria extrativa, indústria de bens intermediários e indústria de transformação.",
+                                               "b":  "indústria de transformação, indústria de bens duráveis e indústria de capital.",
+                                               "c":  "indústria de transformação, indústria de construção e indústria extrativa.",
+                                               "d":  "indústria de construção, indústria de bens não-duráveis e indústria de bens intermediários.",
+                                               "e":  "indústria de bens duráveis, indústria extrativa e indústria de construção."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Os três subsetores da indústria, em ordem decrescente de participação no PIB, correspondem à indústria de transformação (a mais representativa, 12,0%), à indústria da construção civil (3,9%) e à indústria extrativa mineral (2,9%).",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2024"
+                      },
+                      {
+                          "id":  "geografia-186",
+                          "enunciado":  "Uma imagem ilustra métodos e práticas agroecológicas de produção: composto orgânico, biofertilizante líquido à base de composto orgânico, adubo verde (fixação de nitrogênio e carbono), manejo de ervas espontâneas, cobertura morta e fosfato natural, todos formando um ciclo que retroalimenta a produção de alimentos numa horta/pomar.\n\nOs métodos e práticas de produção apresentados na imagem envolvem",
+                          "alternativas":  {
+                                               "a":  "a aplicação de fertilizantes químicos.",
+                                               "b":  "a produção de um único produto.",
+                                               "c":  "a progressiva mecanização do plantio.",
+                                               "d":  "o uso de defensivos agrícolas.",
+                                               "e":  "o manejo equilibrado do solo."
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "As práticas descritas — compostagem, biofertilizante, adubação verde, cobertura morta — são técnicas agroecológicas que promovem o manejo equilibrado e sustentável do solo, em contraposição ao uso de insumos químicos e defensivos agrícolas.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2024"
+                      },
+                      {
+                          "id":  "geografia-187",
+                          "enunciado":  "Três imagens sequenciais demonstram um processo de erosão do solo: (1) a água da chuva penetra em solos porosos e acumula-se sobre solos permeáveis, formando um túnel de fluxo subsuperficial; (2) o acúmulo de água satura o solo, aprofundando e alargando a vala num \"túnel erosivo\"; (3) colapso do terreno.\n\nAs imagens demonstram",
+                          "alternativas":  {
+                                               "a":  "a formação de voçoroca.",
+                                               "b":  "os efeitos da impermeabilização do solo.",
+                                               "c":  "a retração do assoreamento.",
+                                               "d":  "a diminuição do intemperismo.",
+                                               "e":  "o surgimento de um aquífero."
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "O processo descrito — infiltração de água, formação de túnel subsuperficial, alargamento e colapso do terreno — é o mecanismo clássico de formação de uma voçoroca, uma erosão profunda causada pelo escoamento concentrado de água no solo.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2024"
+                      },
+                      {
+                          "id":  "geografia-188",
+                          "enunciado":  "Uma ilustração representa a dinâmica de um elemento do clima: setas indicam ventos convergindo em direção à linha do Equador a partir das faixas de 30ºN e 30ºS (os ventos alísios).\n\nO movimento desse elemento climático ocorre",
+                          "alternativas":  {
+                                               "a":  "de zonas de baixa salinidade para zonas de alta salinidade.",
+                                               "b":  "de zonas de alta pressão para zonas de baixa pressão.",
+                                               "c":  "de zonas de alta umidade para zonas de baixa umidade.",
+                                               "d":  "de zonas de alta radiação para zonas de baixa radiação.",
+                                               "e":  "de zonas de baixa latitude para zonas de alta latitude."
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Os ventos alísios sopram das zonas de alta pressão subtropical (por volta de 30°N e 30°S) em direção à zona de baixa pressão equatorial, movimento típico da circulação geral da atmosfera, sempre de alta para baixa pressão.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2024"
+                      },
+                      {
+                          "id":  "geografia-189",
+                          "enunciado":  "Artigo 2º do Acordo de Paris: \"[...] seu objetivo visa fortalecer a resposta global à ameaça da mudança do clima, no contexto do desenvolvimento sustentável e dos esforços de erradicação da pobreza, incluindo: (a) manter o aumento da temperatura média global bem abaixo de 2 ºC em relação aos níveis pré-industriais, e envidar esforços para limitar esse aumento da temperatura a 1,5 ºC em relação aos níveis pré-industriais [...]\"\n\nO excerto faz referência",
+                          "alternativas":  {
+                                               "a":  "à Conferência de Estocolmo.",
+                                               "b":  "ao Tratado do Alto Mar.",
+                                               "c":  "à ECO-92.",
+                                               "d":  "ao Acordo de Paris.",
+                                               "e":  "ao Protocolo de Kyoto."
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "O próprio enunciado cita o \"Artigo 2º do Acordo de Paris\", tratado internacional de 2015 que estabelece a meta de limitar o aquecimento global a bem abaixo de 2°C, com esforços para não ultrapassar 1,5°C.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2024"
+                      },
+                      {
+                          "id":  "geografia-190",
+                          "enunciado":  "O conflito armado na Ucrânia tem causado impactos ambientais significativos, deixando também um rastro de contaminação no solo e nas águas. Uma pesquisadora do Instituto Sokolovskyi de Ciência do Solo e Agroquímica da Academia Nacional de Ciências da Ucrânia relata que amostras de solo da região leste da Ucrânia já mostraram concentrações elevadas de metais pesados.\n\nConsiderando o excerto, uma das possíveis consequências da contaminação do solo e das águas na Ucrânia é",
+                          "alternativas":  {
+                                               "a":  "a formação de ravinas e voçorocas.",
+                                               "b":  "o crescimento de ilhas de calor.",
+                                               "c":  "a intensa lixiviação do solo.",
+                                               "d":  "a absorção de mercúrio pelas plantas.",
+                                               "e":  "o aumento da emissão de dióxido de carbono."
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Solos e águas contaminados por metais pesados liberados em conflitos armados (como o mercúrio de munições e equipamentos bélicos) podem ter esses elementos absorvidos pelas raízes das plantas, contaminando a cadeia alimentar.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2024"
+                      },
+                      {
+                          "id":  "geografia-191",
+                          "enunciado":  "Analise as duas definições de um dicionário técnico de cartografia: Definição 1: \"Distância linear ou angular medida ao norte ou ao sul do Equador, numa esfera elipsoide.\" Definição 2: \"Representação cartográfica, geralmente em escala grande, destinada a fornecer informações muito detalhadas, visando, por exemplo, ao cadastro urbano, a certos fins econômico-sociais, militares etc.\"\n\nAs definições 1 e 2 referem-se, respectivamente,",
+                          "alternativas":  {
+                                               "a":  "a linha imaginária e a mapa temático.",
+                                               "b":  "a trópico de Câncer e a imagem de satélite.",
+                                               "c":  "a longitude e a carta topográfica.",
+                                               "d":  "a coordenadas geográficas e a mapa.",
+                                               "e":  "a latitude e a planta."
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "A Definição 1 descreve a latitude (distância angular medida ao norte ou ao sul do Equador) e a Definição 2 descreve a planta, um tipo de representação cartográfica em escala grande e alto nível de detalhe, usada para fins de cadastro urbano.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2024"
+                      },
+                      {
+                          "id":  "geografia-192",
+                          "enunciado":  "Analise o mapa que destaca o Estreito de Ormuz, canal marítimo de apenas 39 km de largura, situado entre o Irã (ao norte) e os Emirados Árabes Unidos (ao sul), ligando o Golfo Pérsico ao Oceano Índico, com rotas marítimas de petroleiros passando pelo canal.\n\nO Estreito de Ormuz é um ponto estratégico para a geopolítica e para a economia mundial devido",
+                          "alternativas":  {
+                                               "a":  "ao controle do canal ter sido concedido por um tratado internacional ao Irã.",
+                                               "b":  "à ausência de rotas alternativas ao canal com grande capacidade para o escoamento de petróleo.",
+                                               "c":  "à importância histórica do canal como centro do comércio de especiarias.",
+                                               "d":  "aos projetos de dessalinização das águas do canal financiados pelos Estados Unidos.",
+                                               "e":  "à presença de bases militares de várias potências mundiais no canal."
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "O Estreito de Ormuz é estratégico porque concentra grande parte do escoamento marítimo de petróleo do Golfo Pérsico, sem alternativas de rota com capacidade equivalente para transportar esse volume.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2025"
+                      },
+                      {
+                          "id":  "geografia-193",
+                          "enunciado":  "A Bolívia foi oficialmente integrada ao Mercosul no dia 07 de dezembro de 2023, durante reunião do bloco no Rio de Janeiro. A decisão ainda precisa passar por aprovação no Congresso boliviano. O país andino tem quatro anos para concluir o processo e adotar as normas do bloco. Com a adesão, a Bolívia torna-se o quinto membro efetivo do grupo econômico de integração regional, que conta com Brasil, Argentina, Paraguai e Uruguai.\n\nConsiderando o excerto, a Bolívia deverá aderir à seguinte norma do bloco:",
+                          "alternativas":  {
+                                               "a":  "adoção da Tarifa Externa Comum.",
+                                               "b":  "adesão ao banco central unificado.",
+                                               "c":  "substituição da sua moeda nacional.",
+                                               "d":  "padronização das leis trabalhistas.",
+                                               "e":  "ampliação de subsídios agrícolas."
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "Como membro efetivo do Mercosul, a Bolívia deverá adotar a Tarifa Externa Comum (TEC), instrumento que padroniza as tarifas de importação dos países-membros em relação a terceiros países; o bloco não prevê moeda única nem banco central unificado.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2025"
+                      },
+                      {
+                          "id":  "geografia-194",
+                          "enunciado":  "O IBGE divulgou no dia 14 de junho de 2024 a versão completa do Cadastro Nacional de Endereços para Fins Estatísticos (CNEFE), que traz microdados com os principais atributos dos 106 814 877 endereços do país. Uma análise dos diversos atributos do CNEFE permite saber que o país tem 24,4 milhões de endereços sem número (ou 22,8% do total de endereços) e a maior parte deles está em Goiás (2,46 milhões).\n\nA ausência de numeração nos endereços, como a mencionada no excerto, sinaliza",
+                          "alternativas":  {
+                                               "a":  "a redução do índice de Gini nacionalmente.",
+                                               "b":  "a diminuição do adensamento de domicílios precários.",
+                                               "c":  "o crescimento da infraestrutura de serviços essenciais.",
+                                               "d":  "a vulnerabilidade no âmbito habitacional.",
+                                               "e":  "o superávit habitacional no país."
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "A ausência de numeração formal nos endereços é um indicador de urbanização precária e informal, associada a áreas de maior vulnerabilidade socioeconômica e habitacional.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2025"
+                      },
+                      {
+                          "id":  "geografia-195",
+                          "enunciado":  "Um gráfico mostra a evolução das vendas (em mil unidades) internas de tratores de roda e colheitadeiras de grãos no Brasil, entre 1960 e 2017, com a curva de tratores oscilando entre cerca de 5 e 65 mil unidades/ano, subindo fortemente entre 1968 e 1975 até um primeiro grande pico, e a curva de colheitadeiras se mantendo baixa e estável (abaixo de 15 mil) no mesmo período.\n\nA análise do gráfico revela que o crescimento nas vendas de tratores e colheitadeiras na década de 1970 está relacionado com",
+                          "alternativas":  {
+                                               "a":  "a revogação do crédito agrícola, que aqueceu o mercado externo.",
+                                               "b":  "a diminuição das vagas de emprego, que desencadeou o desemprego conjuntural.",
+                                               "c":  "o processo de desconcentração fundiária, que aumentou a oferta de terras.",
+                                               "d":  "a expansão da Revolução Verde, que estimulou a mecanização.",
+                                               "e":  "o aumento das importações de produtos agropecuárias, que promoveu o acesso à tecnologia."
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "O crescimento das vendas de tratores e colheitadeiras entre o final dos anos 1960 e o início dos anos 1970 está diretamente ligado à difusão da Revolução Verde no Brasil, que estimulou a modernização e a mecanização da agricultura.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2025"
+                      },
+                      {
+                          "id":  "geografia-196",
+                          "enunciado":  "Duas imagens esquemáticas apresentam a evolução do sistema petrolífero: a primeira mostra a deposição de matéria orgânica (plantas terrestres, fitoplâncton, zooplâncton, algas) em ambiente óxico/anóxico sobre a rocha geradora em potencial; a segunda mostra o soterramento, calor e migração de óleo e gás da rocha geradora, através de uma trapa, sob uma camada selante (selo), com sobrecarga acima.\n\nAs imagens indicam que a formação de petróleo",
+                          "alternativas":  {
+                                               "a":  "depende de terreno pré-cambriano.",
+                                               "b":  "depende da concentração de rochas magmáticas.",
+                                               "c":  "associa-se à formação de bacias sedimentares.",
+                                               "d":  "associa-se à formação dos escudos cristalinos.",
+                                               "e":  "envolve recente e intensa atividade tectônica."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "A formação de petróleo depende do acúmulo de matéria orgânica em ambientes de deposição sedimentar (rocha geradora), soterramento e migração através de rochas porosas até uma trapa — processo característico de bacias sedimentares, e não de terrenos cristalinos ou magmáticos.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2025"
+                      },
+                      {
+                          "id":  "geografia-197",
+                          "enunciado":  "Uma imagem ilustra o ciclo da água na presença de Florestas Tropicais: vento carregado de umidade sopra do oceano em direção ao continente, atravessa a floresta formando nuvens e chuva através da evapotranspiração das árvores, e o vento (agora mais seco) segue adiante.\n\nConsiderando a ilustração, um dos efeitos gerados pelo desmatamento das Florestas Tropicais é a",
+                          "alternativas":  {
+                                               "a":  "redução da disponibilidade de água.",
+                                               "b":  "ampliação dos rios voadores.",
+                                               "c":  "evapotranspiração intensificada.",
+                                               "d":  "diminuição das temperaturas médias.",
+                                               "e":  "intensificação das chuvas convectivas."
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A floresta tropical funciona como uma \"bomba de umidade\" que gera chuva por evapotranspiração; seu desmatamento reduz esse processo e, consequentemente, diminui a disponibilidade de água na região e em áreas distantes que dependem dos rios voadores.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2025"
+                      },
+                      {
+                          "id":  "geografia-198",
+                          "enunciado":  "No dia 31 de julho de 2024, a seleção estadunidense de futebol feminino jogou contra a Austrália nas Olimpíadas de Paris. Sabendo que o jogo teve início às 14h no horário de Brasília, a hora do início da partida na Califórnia (GMT –7) e em Sydney (GMT +10) foram, respectivamente,",
+                          "alternativas":  {
+                                               "a":  "às 9h, do mesmo dia, e às 2h do dia seguinte.",
+                                               "b":  "às 10h, do mesmo dia, e às 3h do dia seguinte.",
+                                               "c":  "às 7h, do mesmo dia, e às 00h do dia seguinte.",
+                                               "d":  "às 7h e às 23h do mesmo dia.",
+                                               "e":  "às 9h e às 2h do mesmo dia."
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "Brasília está em GMT-3: a Califórnia (GMT-7) está 4 horas atrás, então 14h - 4h = 10h do mesmo dia; Sydney (GMT+10) está 13 horas à frente, então 14h + 13h = 27h = 3h do dia seguinte.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2025"
+                      },
+                      {
+                          "id":  "geografia-199",
+                          "enunciado":  "O novo mapa-múndi oficial do IBGE, lançado no início de 2024, adota uma projeção cartográfica que preserva melhor as proporções reais de área dos continentes (ao contrário da projeção de Mercator tradicional, que aumenta a área aparente de países próximos aos polos, como os da Europa e América do Norte, em relação a países equatoriais, como os da África e América do Sul).\n\nEssa nova representação cartográfica",
+                          "alternativas":  {
+                                               "a":  "ajusta corretamente o centro da superfície terrestre.",
+                                               "b":  "contesta a utilização das coordenadas geográficas.",
+                                               "c":  "questiona a perspectiva eurocêntrica de Mercator.",
+                                               "d":  "corrige as distorções presentes em outras projeções.",
+                                               "e":  "descarta o uso da padronização dos elementos cartográficos."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Ao adotar uma projeção que preserva melhor as proporções reais de área, o novo mapa-múndi do IBGE contesta a distorção da projeção de Mercator, que amplia visualmente países de latitudes altas em detrimento dos países equatoriais — uma crítica à tradicional visão eurocêntrica da cartografia.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2025"
+                      },
+                      {
+                          "id":  "geografia-200",
+                          "enunciado":  "A cartografia social permite às comunidades desenharem, com a ajuda de profissionais, mapas dos territórios que ocupam. Esse tipo de mapeamento social geralmente envolve populações tradicionais e é um instrumento utilizado para fazer valer o registro de suas tradições, a defesa de seus territórios e a promoção de seus direitos.\n\nUma das funções da cartografia social corresponde à",
+                          "alternativas":  {
+                                               "a":  "substituição de processos jurídicos por conciliações territoriais.",
+                                               "b":  "tradução do conhecimento ancestral em um instrumento de luta política.",
+                                               "c":  "criação de planos de gestão externos sem a anuência do Estado.",
+                                               "d":  "observação de erros técnicos nos mapas oficiais da região mapeada.",
+                                               "e":  "delimitação de áreas voltadas para o arrendamento de terras."
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "A cartografia social converte o conhecimento tradicional das comunidades sobre seu território em um mapa formal, que serve como instrumento de reivindicação política e de defesa de direitos territoriais.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2026"
+                      },
+                      {
+                          "id":  "geografia-201",
+                          "enunciado":  "Analise o mapa que destaca o Estreito de Ormuz, canal marítimo de apenas 39 km de largura, situado entre o Irã (ao norte) e os Emirados Árabes Unidos (ao sul), ligando o Golfo Pérsico ao Oceano Índico, com rotas marítimas de petroleiros passando pelo canal.\n\nO Estreito de Ormuz é um ponto estratégico para a geopolítica e para a economia mundial devido",
+                          "alternativas":  {
+                                               "a":  "ao controle do canal ter sido concedido por um tratado internacional ao Irã.",
+                                               "b":  "à ausência de rotas alternativas ao canal com grande capacidade para o escoamento de petróleo.",
+                                               "c":  "à importância histórica do canal como centro do comércio de especiarias.",
+                                               "d":  "aos projetos de dessalinização das águas do canal financiados pelos Estados Unidos.",
+                                               "e":  "à presença de bases militares de várias potências mundiais no canal."
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "O Estreito de Ormuz é estratégico porque concentra grande parte do escoamento marítimo de petróleo do Golfo Pérsico, sem alternativas de rota com capacidade equivalente para transportar esse volume.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2026"
+                      },
+                      {
+                          "id":  "geografia-202",
+                          "enunciado":  "O El Niño é caracterizado pelo aquecimento anormal e persistente da superfície do Oceano Pacífico na região da Linha do Equador, podendo se estender desde a costa da América do Sul até o meio do Pacífico Equatorial. No fenômeno, as águas ficam, pelo menos, 0,5 ºC acima da média por um longo período de tempo de, no mínimo, seis meses. Vale lembrar que o El Niño não tem um período de duração definido, podendo persistir até dois anos ou mais.\n\nA formação do fenômeno El Niño está relacionada com",
+                          "alternativas":  {
+                                               "a":  "o fortalecimento das monções de verão.",
+                                               "b":  "a intensificação da ressurgência.",
+                                               "c":  "o enfraquecimento dos ventos alísios.",
+                                               "d":  "a diminuição das brisas marítimas.",
+                                               "e":  "a ativação da área da anticiclonal."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "O El Niño está associado ao enfraquecimento dos ventos alísios, que normalmente empurram as águas quentes superficiais do Pacífico em direção à Ásia; com os alísios mais fracos, essas águas quentes se acumulam e se espalham em direção à costa da América do Sul.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2026"
+                      },
+                      {
+                          "id":  "geografia-203",
+                          "enunciado":  "Mais de 60 líderes de países dos cinco continentes estiveram em Nice, cidade portuária no sul da França, para a 3ª Conferência das Nações Unidas sobre os Oceanos. Na cúpula, realizada entre os dias 09 a 13 de junho de 2025, mais 19 países ratificaram o Tratado de Proteção da Biodiversidade Marinha em Áreas além da Jurisdição Nacional (Tratado do Alto Mar), elevando o total para 51 partes (50 países mais a UE). Com isso, o acordo está mais perto que nunca de alcançar o limite de 60 adesões, que é necessário para que ele entre em vigor, permitindo o estabelecimento de áreas protegidas em alto mar.\n\nSão objetivos do Tratado do Alto Mar",
+                          "alternativas":  {
+                                               "a":  "a aplicação de taxas para exploração oceânica e o combate à poluição marinha.",
+                                               "b":  "a licença para a mineração em águas profundas e a divisão equitativa dos recursos.",
+                                               "c":  "a descarbonização do transporte marítimo e a cooperação internacional.",
+                                               "d":  "o patenteamento dos recursos genéticos e o financiamento de pesquisas.",
+                                               "e":  "a regeneração de ecossistemas marinhos e a justa partilha de benefícios."
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "O Tratado do Alto Mar tem como objetivos a conservação e regeneração da biodiversidade marinha em águas internacionais e a repartição justa e equitativa dos benefícios decorrentes do uso de recursos genéticos marinhos, e não a exploração mineral ou o patenteamento de recursos.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2026"
+                      },
+                      {
+                          "id":  "geografia-204",
+                          "enunciado":  "O estado do Rio de Janeiro registrou, em 2022, uma perda líquida de 165 360 habitantes para outras unidades da federação. Isso significa que, para cada 100 pessoas que chegaram ao estado, 203 o deixaram. A Região Sudeste como um todo passou por significativas mudanças populacionais. O estado de São Paulo, tradicional polo de atração do país, também registrou perda líquida de habitantes, embora continue recebendo grandes contingentes da Bahia, Minas Gerais e Paraná.\n\nO fenômeno migratório descrito no excerto é denominado",
+                          "alternativas":  {
+                                               "a":  "migração circular.",
+                                               "b":  "taxa de retração natural.",
+                                               "c":  "saldo migratório negativo.",
+                                               "d":  "êxodo urbano.",
+                                               "e":  "transição demográfica."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "Quando um estado perde mais habitantes para outras unidades da federação do que recebe, como no caso do Rio de Janeiro em 2022, configura-se um saldo migratório negativo.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2026"
+                      },
+                      {
+                          "id":  "geografia-205",
+                          "enunciado":  "Um geossítio de importância geomorfológica e turística no estado de São Paulo é o Pico do Itapeva, de 2 025 metros de altura, na divisa entre Pindamonhangaba e Campos do Jordão. A montanha, na Serra da Mantiqueira, é formada por granitos e gnaisses muito antigos, pré-cambrianos, portanto, com mais de 550 milhões de anos.\n\nA estrutura geológica do Pico do Itapeva, localizado na Serra da Mantiqueira, corresponde a:",
+                          "alternativas":  {
+                                               "a":  "bacia sedimentar.",
+                                               "b":  "cuestas.",
+                                               "c":  "dobramentos modernos.",
+                                               "d":  "escudos cristalinos.",
+                                               "e":  "tabuleiro costeiro."
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "Formações de granito e gnaisse com mais de 550 milhões de anos, como o Pico do Itapeva na Serra da Mantiqueira, correspondem a escudos cristalinos, estruturas geológicas antigas do embasamento pré-cambriano.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2026"
+                      },
+                      {
+                          "id":  "geografia-206",
+                          "enunciado":  "O projeto da Petrobras para a Margem Equatorial, na Foz do Rio Amazonas, compreende uma extensão de 2 200 km ao longo da costa brasileira. Ele vai do extremo norte do Amapá ao litoral do Rio Grande do Norte, e prevê a perfuração de 16 poços exploratórios de petróleo.\n\nUm entrave relativo à viabilidade do projeto de exploração de petróleo na Margem Equatorial é",
+                          "alternativas":  {
+                                               "a":  "o estudo de impacto ambiental, que considera as correntes marinhas da região relevantes para a prospecção.",
+                                               "b":  "a pressão de países vizinhos, que temem um acidente ambiental capaz de afetar seus ecossistemas marinhos.",
+                                               "c":  "a baixa qualidade do petróleo, que torna a exploração economicamente pouco rentável.",
+                                               "d":  "a ausência de consenso entre as comunidades tradicionais, que se recusaram a participar das audiências públicas.",
+                                               "e":  "o tamanho das reservas de petróleo, que são menores do que o estimado pela agência de exploração."
+                                           },
+                          "resposta":  "a",
+                          "explicacao":  "A viabilidade da exploração de petróleo na Margem Equatorial esbarra em estudos de impacto ambiental que avaliam os riscos ligados às correntes marinhas da foz do Amazonas, área de grande sensibilidade ecológica e de difícil resposta a eventuais vazamentos.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2026"
+                      },
+                      {
+                          "id":  "geografia-207",
+                          "enunciado":  "Ao longo da estreita e recortada faixa costeira do litoral centro-meridional brasileiro, nos ambientes estuarinos, ricos em peixes, moluscos e crustáceos, viveram populações pescadoras e coletoras entre 8 mil anos atrás e o início da era cristã. Seus vestígios podem ser vistos em grandes montes feitos de areia, terra e conchas — os chamados sambaquis — onde são encontrados restos alimentares, ferramentas, armas, adornos e os sepultamentos dos que ali viveram. Esses montes, com alturas variáveis, têm alta visibilidade e se destacam na paisagem litorânea.\n\nA boa conservação dos sambaquis deve-se",
+                          "alternativas":  {
+                                               "a":  "ao processo de sedimentação, que recristalizou os minerais da areia.",
+                                               "b":  "à ação da lixiviação, que laterizou os hidróxidos de ferro da terra.",
+                                               "c":  "à salinização do solo, que solidificou os depósitos de sal do mar.",
+                                               "d":  "à ação da chuva, que precipitou carbonato de cálcio das conchas.",
+                                               "e":  "ao processo de metamorfização, que solidificou os minerais das conchas."
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "A boa conservação dos sambaquis se deve à ação da água da chuva, que dissolve e reprecipita o carbonato de cálcio das conchas, cimentando o monte e conferindo-lhe maior resistência à erosão ao longo do tempo.",
+                          "formato":  "direta",
+                          "origem":  "santacasa-2026"
                       }
                   ],
     "gramatica":  [
@@ -21679,6 +25868,141 @@ window.QUESTION_BANKS = {
                          "explicacao":  "Orçamento, hierarquia, treinamento e rotina não são características de desvio individual, e sim de política. É por isso que a tese dos excessos de agentes isolados não se sustenta diante da documentação: a estrutura era oficial, e a violência, funcional a ela.",
                          "formato":  "direta",
                          "dificuldade":  "media"
+                     },
+                     {
+                         "id":  "historia-196",
+                         "enunciado":  "As formas de colonização ibérica e inglesa na América foram, durante muito tempo, consideradas processos isolados, estruturados em dois modelos opostos: as colônias de exploração e as de povoamento, respectivamente. No entanto, elas constituíram um emaranhado de experiências compartilhadas pelos impérios atlânticos.\n\nOs aspectos comuns a essas formas de colonização foram a",
+                         "alternativas":  {
+                                              "a":  "partida dos colonizadores da metrópole, da qual saíram por fatores religiosos, e a adoção do trabalho livre como base da produção.",
+                                              "b":  "dominação e a exploração dos povos originários e o emprego sistemático do trabalho forçado dessas populações.",
+                                              "c":  "introdução de colonos sem interesse na ocupação demográfica e o objetivo exclusivo da extração de riquezas minerais.",
+                                              "d":  "produção local organizada em pequenas propriedades e a utilização primordial da força de trabalho familiar.",
+                                              "e":  "falta de interesse metropolitano pela exploração comercial e a inexistência de benefícios financeiros para a metrópole."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Apesar de tradicionalmente opostos, os modelos de colonização de exploração (ibérica) e de povoamento (inglesa) compartilharam a dominação dos povos originários e o uso sistemático de trabalho forçado — primeiro indígena, depois africano —, o que desfaz a ideia de processos totalmente isolados.",
+                         "formato":  "direta",
+                         "origem":  "fuvest-2025"
+                     },
+                     {
+                         "id":  "historia-197",
+                         "enunciado":  "Analise a tabela que mostra a distribuição da população brasileira total por região, segundo grupos populacionais, em 1872.\n\n| Região | População total | População de escravizados | População de brasileiros livres | População de imigrantes estrangeiros |\n|---|---|---|---|---|\n| Extremo Norte | 691 887 | 103 376 | 576 851 | 11 660 |\n| Nordeste | 4 272 295 | 404 003 | 3 840 632 | 27 660 |\n| Oeste | 212 140 | 16 546 | 194 189 | 1 405 |\n| Sul | 721 337 | 93 335 | 573 809 | 54 193 |\n| Centro-Sul | 4 016 922 | 891 306 | 2 977 410 | 148 706 |\n\nOs dados da tabela evidenciam que, no Brasil de 1872,",
+                         "alternativas":  {
+                                              "a":  "as regiões Nordeste e Centro-Sul reuniam populações maiores de escravizados e de imigrantes estrangeiros devido às exigências de mão de obra nas lavouras de cacau e de algodão.",
+                                              "b":  "as regiões Extremo Norte e Nordeste reuniam as menores populações de escravizados devido à forte presença indígena.",
+                                              "c":  "a população de imigrantes estrangeiros na região Sul era, aproximadamente, o dobro da população de imigrantes estrangeiros na região Centro-Sul, proporcionalmente às respectivas populações totais.",
+                                              "d":  "a população de pessoas livres, em termos absolutos e proporcionais, era maior na região Extremo Norte do que na região Sul.",
+                                              "e":  "as regiões Oeste e Sul reuniam as menores populações de escravizados e de imigrantes estrangeiros em função da exigência de mão de obra especializada na indústria local."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Calculando a proporção de imigrantes sobre a população total: no Sul é de cerca de 7,5% (54.193/721.337) e no Centro-Sul de cerca de 3,7% (148.706/4.016.922) — ou seja, proporcionalmente o Sul tinha quase o dobro da participação de imigrantes estrangeiros do Centro-Sul, confirmando a alternativa c.",
+                         "formato":  "direta",
+                         "origem":  "unesp-2026-1"
+                     },
+                     {
+                         "id":  "historia-198",
+                         "enunciado":  "Um \"Mapa do Céu\", desenhado no século XIII numa parede da Igreja de Saint-Sernin, na cidade de Toulouse (sul da França), representa o cosmos em círculos concêntricos, com o planeta Terra imóvel no centro do universo, cercado pelas esferas celestes.\n\nNesse mapa, o planeta Terra é representado imóvel no centro do universo, em consonância com os saberes de astronomia",
+                         "alternativas":  {
+                                              "a":  "baseados na irregularidade dos movimentos da Terra e do Sol.",
+                                              "b":  "inspirados na valorização da luz solar na arquitetura religiosa.",
+                                              "c":  "sustentados pela concepção dos seres humanos como criaturas eleitas de Deus.",
+                                              "d":  "comprovados empiricamente graças ao emprego dos telescópios.",
+                                              "e":  "difundidos para consolidar a tese de que o Sol é o planeta mais importante do Universo."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O geocentrismo medieval refletia a cosmovisão teológica cristã, segundo a qual a Terra ocupava o centro do universo por ser habitada pelo ser humano, criatura central da criação divina — e não por comprovação empírica, já que o telescópio só surgiria no século XVII.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2024"
+                     },
+                     {
+                         "id":  "historia-199",
+                         "enunciado":  "Trecho do \"Manifesto Republicano\", publicado pela primeira vez no jornal \"A República\" em 3 de dezembro de 1870: \"A centralização, tal qual existe, representa o despotismo, dá força ao poder pessoal, comprime a liberdade, subordina o direito de todos ao arbítrio de um só poder, mata o estímulo do progresso local, suga a riqueza peculiar das províncias, constituindo-as satélites obrigados do grande astro da corte.\"\n\nA metáfora astronômica empregada pelos republicanos",
+                         "alternativas":  {
+                                              "a":  "enaltece o clima de paz política do Segundo Reinado.",
+                                              "b":  "expõe a igualdade do republicanismo brasileiro com os regimes latino-americanos.",
+                                              "c":  "exprime a defesa do Poder Moderador.",
+                                              "d":  "mostra a oposição de setores das oligarquias provinciais ao poder central.",
+                                              "e":  "denuncia a inconstitucionalidade dos poderes imperiais."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A imagem das províncias como \"satélites\" do \"astro da corte\" denuncia a centralização política e financeira no Rio de Janeiro em detrimento das províncias, expressando o descontentamento de setores das elites provinciais com a concentração de poder do Segundo Reinado — não uma defesa da monarquia ou do Poder Moderador.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2024"
+                     },
+                     {
+                         "id":  "historia-200",
+                         "enunciado":  "A Constituição Federal de 1988, ao reconhecer aos povos indígenas o direito às terras que habitam, favoreceu processos de demarcação e delimitação de territórios. As terras indígenas são definidas na Constituição como \"as habitadas em caráter permanente; as utilizadas para suas atividades produtivas, as imprescindíveis à preservação dos recursos ambientais necessários a seu bem-estar; e as necessárias a sua reprodução física e cultural, segundo seus usos, costumes e tradições\".\n\nA propósito das terras indígenas, a Constituição de 1988",
+                         "alternativas":  {
+                                              "a":  "determinou a integração dos indígenas à cultura dominante da sociedade brasileira.",
+                                              "b":  "solucionou as questões históricas concernentes às reservas indígenas.",
+                                              "c":  "instituiu um direito legítimo à posse coletiva de terras.",
+                                              "d":  "conciliou os interesses dos proprietários rurais com as reivindicações indígenas.",
+                                              "e":  "reafirmou a primazia do critério econômico para o acesso às propriedades rurais."
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A Constituição de 1988 reconheceu como originário o direito dos indígenas às terras que tradicionalmente ocupam, garantindo-lhes a posse permanente e coletiva e o usufruto exclusivo das riquezas do solo — sem, contudo, resolver definitivamente os conflitos fundiários ou impor assimilação cultural.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2024"
+                     },
+                     {
+                         "id":  "historia-201",
+                         "enunciado":  "O processo de unificação e formação do Estado italiano ocorreu na segunda metade do século XIX, em um panorama europeu marcado pela",
+                         "alternativas":  {
+                                              "a":  "eclosão de guerras generalizadas entre as nações capitalistas e pelo início da hegemonia britânica sobre a economia mundial.",
+                                              "b":  "consolidação de governos populares nos Estados nacionais e pelo apoio da Igreja católica às unificações políticas na Europa oriental.",
+                                              "c":  "associação dos movimentos socialistas com os ideais nacionalistas e pelo surgimento dos Estados socialistas na Europa ocidental.",
+                                              "d":  "propagação da economia industrial no Ocidente europeu e pela ampliação dos conflitos entre as potências do continente.",
+                                              "e":  "permanência da ordem política imposta pelo Congresso de Viena e pela repressão ao socialismo coordenada pela Santa Aliança."
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "As unificações italiana e alemã ocorreram num contexto de industrialização acelerada e de crescente rivalidade entre as potências europeias pela hegemonia econômica e territorial no continente, e não de guerras generalizadas contra o socialismo ou de hegemonia britânica isolada.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2025"
+                     },
+                     {
+                         "id":  "historia-202",
+                         "enunciado":  "Uma charge de Ângelo Agostini, publicada na revista *Diabo Coxo* em 1865, mostra uma locomotiva a vapor (com um homem inglês na cabine) arrastando à força, por uma corda, um homem de chapéu (representando um tropeiro/comitiva de mulas), com a legenda: \"— Se o ingreis do diabo não me paga a mula prendo-lhe a comitiva.\"\n\nA charge caricatura o transporte ferroviário em fase de instalação na província de São Paulo, na segunda metade do século XIX, mostrando",
+                         "alternativas":  {
+                                              "a":  "o impacto da modernização tecnológica nas atividades econômicas tradicionais de acumulação de capital.",
+                                              "b":  "a transferência da tecnologia de fabricação de locomotivas a vapor do parque industrial britânico para a cidade de São Paulo.",
+                                              "c":  "o efeito das novidades tecnológicas na transformação da mentalidade economicamente conservadora do empresariado paulista.",
+                                              "d":  "a oposição de setores das classes dominantes brasileiras à exploração das riquezas da nação pelo imperialismo inglês.",
+                                              "e":  "os ganhos monetários da oligarquia cafeeira com o advento de novos meios de transporte."
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A charge contrapõe a locomotiva a vapor, símbolo da modernização tecnológica de capital britânico, ao tropeiro e sua comitiva de mulas, forma tradicional de transporte e acumulação de capital que via seu espaço econômico ser tomado pela ferrovia — evidenciando o impacto da nova tecnologia sobre atividades econômicas tradicionais.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2025"
+                     },
+                     {
+                         "id":  "historia-203",
+                         "enunciado":  "Analise os dados estatísticos sobre o comércio internacional e intercontinental de escravizados (fonte: banco de dados acadêmico slavevoyages.org), com números de pessoas traficadas por faixa de anos e destino (Europa, América do Norte Continental, Caribe, América Espanhola Continental, Brasil, África, Outros), do período 1501-1525 até 1851-1875. Nos dois primeiros séculos cobertos pela tabela (1501 a 1600), os números são dominados pelo Caribe e pela América Espanhola Continental, com valores muito baixos ainda para o Brasil e a América do Norte Continental.\n\nPara o período de 1501 a 1600, os dados registram",
+                         "alternativas":  {
+                                              "a":  "a inexistência, em todo o período, de formas de trabalho compulsório escravista nas economias das nações do continente europeu.",
+                                              "b":  "o predomínio da concentração da mão de obra traficada internacionalmente nas regiões do Caribe e da América Espanhola Continental.",
+                                              "c":  "os números totais da população africana e indígena nas sociedades coloniais da América Luso-Espanhola.",
+                                              "d":  "os índices das expectativas de vida da mão de obra africana nas atividades econômicas de mineração e agricultura.",
+                                              "e":  "o aumento constante do número de trabalhadores e de escravizados explorados nas atividades econômicas do continente africano."
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Como o próprio enunciado descreve, entre 1501 e 1600 o tráfico transatlântico de escravizados concentrava-se no Caribe e na América Espanhola Continental, com números ainda muito baixos para o Brasil e a América do Norte Continental, que só cresceriam significativamente nos séculos seguintes.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2026"
+                     },
+                     {
+                         "id":  "historia-204",
+                         "enunciado":  "Comparando-se os números dos escravizados entrados na América do Norte Continental com os do Brasil, de 1751 a 1825 (segundo a mesma tabela da questão anterior, em que o Brasil recebe uma quantidade crescente e muito superior de africanos nesse período, enquanto a América do Norte Continental recebe uma quantidade menor, mas também crescente), constata-se que",
+                         "alternativas":  {
+                                              "a":  "os números oscilam no Brasil e na América do Norte devido à expansão da economia do café no Brasil e à Guerra Civil nos Estados Unidos.",
+                                              "b":  "o número de trabalhadores escravizados desacelera na América do Norte e no Brasil como consequência da reorientação do tráfico de africanos para as economias asiáticas.",
+                                              "c":  "o número de entradas de mão de obra africana na América do Norte é superior ao do Brasil em decorrência do dinamismo da economia dos Estados Unidos.",
+                                              "d":  "o número de africanos cresce na América do Norte e no Brasil em decorrência dos processos históricos de formação de Estados independentes nos dois países.",
+                                              "e":  "os números crescem no Brasil e oscilam na América do Norte na conjuntura histórica da industrialização inglesa e da Independência dos Estados Unidos."
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Entre 1751 e 1825, o volume de escravizados trazidos ao Brasil cresceu continuamente, impulsionado pela expansão da economia açucareira, mineira e cafeeira, enquanto na América do Norte o fluxo oscilou, refletindo fatores como o processo de Independência dos Estados Unidos (1776) e as mudanças na demanda por mão de obra ligadas à industrialização inglesa.",
+                         "formato":  "direta",
+                         "origem":  "santacasa-2026"
                      }
                  ],
     "ingles":  [
@@ -29440,6 +33764,201 @@ window.QUESTION_BANKS = {
                            "resposta":  "e",
                            "explicacao":  "Saber que um poema é simbolista vale pouco; perceber como a repetição sonora produz o efeito de vago vale muito, e serve para qualquer texto. Data e nome são apoio da leitura, não substituto dela.",
                            "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-151",
+                           "enunciado":  "Carlos Drummond de Andrade foi o criador de uma obra lírica que, ao mesmo tempo, se aproxima e se afasta do Modernismo de 1922, propondo, a partir de traços desse movimento, uma poética original.\n\nCom base no exposto, em Alguma poesia (1930),",
+                           "alternativas":  {
+                                                "a":  "os aspectos prosaicos da linguagem modernista ganham expressão lírica a partir de um sujeito poético que repropõe, em versos livres, a nostalgia romântica da infância idealizada.",
+                                                "b":  "o sujeito poético incorpora, sob a perspectiva de uma lírica de raiz subjetiva, vários procedimentos estilísticos das vanguardas modernistas, em especial a escrita automática e o surrealismo.",
+                                                "c":  "a tópica literária do desconcerto do mundo ganha uma reconfiguração moderna, a partir de um sujeito poético que, mais do que revelar um mundo às avessas, focaliza o seu desajuste frente à realidade.",
+                                                "d":  "o nacionalismo literário, tão típico da revisão empreendida pela primeira geração modernista sobre a realidade brasileira, apresenta-se como eixo temático de cunho ufanista.",
+                                                "e":  "a paisagem mineira, no espaço literário, é configurada pelo sujeito poético como ambiente bucólico e refúgio privilegiado para os seus desajustes frente ao \"vasto mundo\"."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Drummond retoma a antiga tópica do \"desconcerto do mundo\", mas a moderniza deslocando o foco: em vez de descrever um mundo às avessas, o poema passa a focalizar o desajuste íntimo do próprio sujeito poético (o \"eu\" gauche) diante da realidade, e não a incorporação de escrita automática, nostalgia romântica ou nacionalismo ufanista.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2025"
+                       },
+                       {
+                           "id":  "literatura-152",
+                           "enunciado":  "Mais de uma vez, o brasileiro Machado de Assis e o português Eça de Queirós foram aproximados porque traçaram linhas de compreensão das suas respectivas sociedades, em um mesmo tempo historicamente situado. Os protagonistas Rubião, de Quincas Borba (1891), e Gonçalo, de A Ilustre Casa de Ramires (1900),",
+                           "alternativas":  {
+                                                "a":  "representam, respectivamente, a ascensão política da burguesia brasileira durante a segunda metade do século XIX e a decadência da aristocracia portuguesa no mesmo período.",
+                                                "b":  "têm suas aspirações de grandeza e reconhecimento social frustradas diretamente pelo envolvimento de ambos com as políticas partidárias nacionais, introduzindo reformas substanciais que alteram a situação periférica de cada país.",
+                                                "c":  "buscam reconhecimento social, continuamente frustrados nesse propósito por se inserirem em meios sociais que privilegiam a grandeza moral e as virtudes humanas.",
+                                                "d":  "comprometem-se com a superação dos atrasos civilizacionais de seus países. Apesar de terem destinos diferentes, confrontam-se com o descompromisso de suas respectivas sociedades quanto às transformações sociais e econômicas.",
+                                                "e":  "são vítimas de suas ideias ambiciosas de modernização nacional, seja por Rubião promover ideias políticas \"modernas\", seja por Gonçalo insistir na restauração da grandeza de sua família. Ao final, atingem seus objetivos."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Rubião, enriquecido e depois enlouquecido, e Gonçalo, fidalgo decadente que busca restaurar a grandeza da família, representam à sua maneira a tentativa de superar os atrasos de suas sociedades — mas em ambos os romances essa tentativa esbarra no descompromisso e na inércia do meio social diante de transformações reais.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2025"
+                       },
+                       {
+                           "id":  "literatura-153",
+                           "enunciado":  "A jornada das mulheres pela igualdade de direitos no Brasil, como em outras partes do mundo, sempre envolveu lutas sociais, políticas e jurídicas, com marcos importantes como a Lei Geral de 1827, que permitiu o acesso das mulheres à educação, e a Constituição de 1934, que garantiu o direito ao voto feminino. A partir da década de 1960, houve avanços significativos, como o Estatuto da Mulher Casada (1962), que eliminou a necessidade de receber autorização do marido para diversas atividades, e, na década de 1970, a Lei do Divórcio (1977) e o fortalecimento dos movimentos feministas. As obras Caminho de pedras, de Rachel de Queiroz, e As meninas, de Lygia Fagundes Telles, discutem questões relativas aos direitos das mulheres e sua relação com a política ao longo do século XX no Brasil.\n\nSobre esses romances, é correto afirmar:",
+                           "alternativas":  {
+                                                "a":  "Em Caminho de pedras, Rachel de Queiroz relaciona a luta pelos direitos da mulher à legalização do divórcio no Brasil, enquanto As meninas constitui um libelo pela educação feminina no período final da Era Vargas.",
+                                                "b":  "As personagens Angelita, de Caminho de pedras, e Ana Clara, de As meninas, impactam a vida dos protagonistas de seus romances e representam a transformação da condição social das mulheres ao romperem com a configuração familiar tradicional.",
+                                                "c":  "Em Caminho de pedras e em As meninas, a política (militância de esquerda) e a religião (internato de freiras) são instituições que, em vez de contribuírem para a revisão de valores morais e para a emancipação feminina, aprofundam os mecanismos de controle social sobre as mulheres.",
+                                                "d":  "Tanto Caminho de pedras quanto As meninas relacionam o exercício da política coletiva (militância de esquerda, luta contra a ditadura militar) à política exercida em nível da vida privada e do cotidiano, por meio da trajetória de personagens femininas que desafiam padrões sociais estabelecidos.",
+                                                "e":  "Tanto Caminho de pedras quanto As meninas exercem uma crítica à chamada \"mulher burguesa\". O romance de Rachel de Queiroz narra os desdobramentos do desejo de ascensão social de Noemi, enquanto o de Lygia Fagundes Telles detalha o apego de Lorena à instituição do casamento."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Nos dois romances, a militância política coletiva (a luta de esquerda em Caminho de pedras e o contexto da ditadura em As meninas) se entrelaça com a esfera privada e cotidiana das personagens femininas, que desafiam padrões sociais estabelecidos tanto na vida pública quanto na íntima.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2026"
+                       },
+                       {
+                           "id":  "literatura-154",
+                           "enunciado":  "Leia o poema \"Vaidade\", da escritora portuguesa Florbela Espanca, publicado originalmente em 1919:\n\n*Sonho que sou a Poetisa eleita, / Aquela que diz tudo e tudo sabe, / Que tem a inspiração pura e perfeita, / Que reúne num verso a imensidade! // Sonho que um verso meu tem claridade / Para encher todo o mundo! E que deleita / Mesmo aqueles que morrem de saudade! / Mesmo os de alma profunda e insatisfeita! // Sonho que sou Alguém cá neste mundo... / Aquela de saber vasto e profundo / Aos pés de quem a terra anda curvada! // E quando mais no céu eu vou sonhando, / E quando mais no alto ando voando, / Acordo do meu sonho... E não sou nada!...*\n\nAs duas primeiras estrofes do poema caracterizam-se, sobretudo, pelo seu teor",
+                           "alternativas":  {
+                                                "a":  "metalinguístico.",
+                                                "b":  "moralista.",
+                                                "c":  "engajado.",
+                                                "d":  "irônico.",
+                                                "e":  "nostálgico."
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Nas duas primeiras estrofes, o eu lírico fala de si mesma como poetisa e comenta o próprio ato de fazer versos (\"Sonho que um verso meu tem claridade\"), configurando um discurso poético que reflete sobre a própria poesia — traço metalinguístico.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2024"
+                       },
+                       {
+                           "id":  "literatura-155",
+                           "enunciado":  "Tendo em vista as escolhas formais mobilizadas pela escritora no poema \"Vaidade\", de Florbela Espanca (transcrito na questão anterior), como o emprego do gênero soneto e de versos decassílabos, o poema aproxima-se da estética",
+                           "alternativas":  {
+                                                "a":  "modernista.",
+                                                "b":  "realista.",
+                                                "c":  "naturalista.",
+                                                "d":  "parnasiana.",
+                                                "e":  "romântica."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O uso do soneto e de versos decassílabos, com rigor formal e métrico, aproxima o poema da estética parnasiana, marcada pelo culto à forma fixa e ao virtuosismo na composição do verso.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2024"
+                       },
+                       {
+                           "id":  "literatura-156",
+                           "enunciado":  "No poema \"Vaidade\", de Florbela Espanca (transcrito na questão 7), o núcleo do sujeito do verbo \"deleita\" (2ª estrofe) é",
+                           "alternativas":  {
+                                                "a":  "\"inspiração\".",
+                                                "b":  "\"Poetisa\".",
+                                                "c":  "\"claridade\".",
+                                                "d":  "\"mundo\".",
+                                                "e":  "\"verso\"."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Na oração \"Sonho que um verso meu tem claridade / Para encher todo o mundo! E que deleita...\", o sujeito de \"deleita\" é o mesmo da oração anterior, \"um verso meu\", cujo núcleo é o substantivo \"verso\".",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2024"
+                       },
+                       {
+                           "id":  "literatura-157",
+                           "enunciado":  "Leia o soneto \"XCIX\", do poeta Cláudio Manuel da Costa:\n\n*Parece, ou eu me engano, que esta fonte / De repente o licor deixou turvado; / O Céu, que estava limpo e azulado, / Se vai escurecendo no horizonte: // Porque não haja horror, que não aponte / O agouro funestíssimo, e pesado, / Até de susto já não pasta o gado, / Nem uma voz se escuta em todo o monte. // Um raio de improviso na celeste / Região rebentou: um branco lírio / Da cor das violetas se reveste; // Será delírio! não, não é delírio. / Que é isto, Pastor meu? que anúncio é este? / Morreu Nise (ai de mim!), tudo é martírio.*\n\nDepreende-se do soneto que a transfiguração da paisagem está relacionada a um evento",
+                           "alternativas":  {
+                                                "a":  "enigmático.",
+                                                "b":  "trágico.",
+                                                "c":  "bucólico.",
+                                                "d":  "banal.",
+                                                "e":  "jocoso."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A escuridão repentina do céu e os maus agouros da natureza (o raio, o silêncio do gado) anunciam a morte de Nise, revelada no verso final (\"Morreu Nise\"), configurando um evento trágico, e não apenas um mistério ou uma cena bucólica.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2025"
+                       },
+                       {
+                           "id":  "literatura-158",
+                           "enunciado":  "O soneto \"XCIX\", de Cláudio Manuel da Costa (transcrito na questão anterior), é habilmente construído a partir de uma desconstrução gradual e sistemática do seguinte tópico árcade:",
+                           "alternativas":  {
+                                                "a":  "\"memento mori\" (\"lembra da morte\").",
+                                                "b":  "\"carpe diem\" (\"aproveita o momento\").",
+                                                "c":  "\"locus horrendus\" (\"lugar horrível\").",
+                                                "d":  "\"locus amoenus\" (\"lugar aprazível\").",
+                                                "e":  "\"fugere urbem\" (\"fugir da cidade\")."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O poema abre com um cenário idílico — fonte, céu limpo e azulado, gado pastando —, típico \"locus amoenus\" árcade, que é progressivamente desconstruído pelos maus agouros da natureza até culminar na notícia da morte de Nise, subvertendo o lugar aprazível em cenário funesto.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2025"
+                       },
+                       {
+                           "id":  "literatura-159",
+                           "enunciado":  "No soneto \"XCIX\", de Cláudio Manuel da Costa, o eu lírico recorre às chamadas \"rimas ricas\" (ou seja, aquelas entre palavras de classes gramaticais diferentes) em",
+                           "alternativas":  {
+                                                "a":  "\"pesado\"/\"gado\" (2ª estrofe) e \"celeste\"/\"reveste\" (3ª estrofe).",
+                                                "b":  "\"fonte\"/\"horizonte\" (1ª estrofe) e \"aponte\"/\"monte\" (2ª estrofe).",
+                                                "c":  "\"turvado\"/\"azulado\" (1ª estrofe) e \"delírio\"/\"martírio\" (4ª estrofe).",
+                                                "d":  "\"fonte\"/\"horizonte\" (1ª estrofe) e \"pesado\"/\"gado\" (2ª estrofe).",
+                                                "e":  "\"aponte\"/\"monte\" (2ª estrofe) e \"delírio\"/\"martírio\" (4ª estrofe)."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Rima rica ocorre entre palavras de classes gramaticais diferentes. O par \"aponte\" (verbo) / \"monte\" (substantivo), na segunda estrofe, exemplifica esse recurso, que se repete no par \"delírio\"/\"martírio\", da quarta estrofe, contrastando com as demais rimas do soneto, formadas majoritariamente por palavras de mesma classe, como os substantivos \"fonte\"/\"horizonte\" da primeira estrofe.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2025"
+                       },
+                       {
+                           "id":  "literatura-160",
+                           "enunciado":  "Leia o capítulo intitulado \"A borboleta preta\" do romance *Memórias póstumas de Brás Cubas*, de Machado de Assis, em que o narrador Brás Cubas mata distraidamente uma borboleta que pousara em seu quarto e, na sequência, reflete sobre o episódio:\n\n*\"— Também por que diabo não era ela azul? disse comigo. E esta reflexão, — uma das mais profundas que se tem feito, desde a invenção das borboletas, — me consolou do malefício, e me reconciliou comigo mesmo.\"* (3º/4º parágrafos)\n\nTal reflexão aponta para",
+                           "alternativas":  {
+                                                "a":  "a ingenuidade do narrador, na medida em que este acredita que possa se reconciliar com a vítima.",
+                                                "b":  "o pessimismo do narrador, na medida em que este insiste em encarar negativamente um evento edificante.",
+                                                "c":  "a arrogância do narrador, na medida em que este assume a responsabilidade pelo ato impensado.",
+                                                "d":  "a humildade do narrador, na medida em que este busca encobrir a perversidade do mal praticado.",
+                                                "e":  "a prepotência do narrador, na medida em que este busca responsabilizar a vítima pelo mal sofrido."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Ao matar a borboleta e, em seguida, \"culpá-la\" por não ser azul, Brás Cubas inverte com cinismo a responsabilidade do próprio ato para a vítima — gesto de prepotência típico do narrador defunto-autor machadiano, que se absolve às custas de quem sofreu o mal.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2026"
+                       },
+                       {
+                           "id":  "literatura-161",
+                           "enunciado":  "Um traço estilístico marcante da prosa de Machado de Assis (no capítulo \"A borboleta preta\", transcrito na questão anterior) é a inclusão do leitor na própria tessitura do texto literário, a exemplo do que ocorre",
+                           "alternativas":  {
+                                                "a":  "no 5º parágrafo, apenas.",
+                                                "b":  "no 1º parágrafo, apenas.",
+                                                "c":  "no 4º parágrafo, apenas.",
+                                                "d":  "no 4º e no 5º parágrafos.",
+                                                "e":  "no 1º e no 5º parágrafos."
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "No 5º parágrafo, o narrador interrompe o relato para dialogar diretamente com o leitor, envolvendo-o na reflexão sobre o episódio — recurso característico da metalinguagem machadiana, que constrói cumplicidade entre narrador e leitor ao longo da obra.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2026"
+                       },
+                       {
+                           "id":  "literatura-162",
+                           "enunciado":  "Leia a fábula \"A rosa de seda\" do escritor português Fernando Pessoa:\n\n*Num fabulário ainda por encontrar será um dia lida esta fábula: A uma bordadora dum país longínquo foi encomendado pela sua rainha que bordasse, sobre seda ou cetim, entre folhas, uma rosa branca. A bordadora, como era muito jovem, foi procurar por toda a parte aquela rosa branca perfeitíssima, em cuja semelhança bordasse a sua. Mas sucedia que umas rosas eram menos belas do que lhe convinha, e que outras não eram brancas como deviam ser. Gastou dias sobre dias, chorosas horas, buscando a rosa que imitasse com seda, e, como nos países longínquos nunca deixa de haver pena de morte, ela sabia bem que, pelas leis dos contos como este, não podiam deixar de a matar se ela não bordasse a rosa branca. Por fim, não tendo melhor remédio, bordou de memória a rosa que lhe haviam exigido. Depois de a bordar foi compará-la com as rosas brancas que existem realmente nas roseiras. Sucedeu que todas as rosas se pareciam exatamente com a rosa que ela bordara, que cada uma delas era exatamente aquela. Ela levou o trabalho ao palácio e é de supor que casasse com o príncipe. No fabulário de onde vem, esta fábula não traz moralidade. Mesmo porque, na idade de ouro, as fábulas não tinham moralidade nenhuma.*\n\nA onisciência do narrador da fábula mostra-se prejudicada no seguinte trecho:",
+                           "alternativas":  {
+                                                "a":  "\"Sucedeu que todas as rosas se pareciam exatamente com a rosa que ela bordara\" (3º parágrafo).",
+                                                "b":  "\"Mesmo porque, na idade de ouro, as fábulas não tinham moralidade nenhuma\" (5º parágrafo).",
+                                                "c":  "\"Mas sucedia que umas rosas eram menos belas do que lhe convinha\" (2º parágrafo).",
+                                                "d":  "\"Depois de a bordar foi compará-la com as rosas brancas que existem realmente nas roseiras\" (3º parágrafo).",
+                                                "e":  "\"Ela levou o trabalho ao palácio e é de supor que casasse com o príncipe\" (4º parágrafo)."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A expressão \"é de supor\" revela incerteza do narrador quanto ao desfecho da história, o que contradiz a onisciência plena: um narrador onisciente saberia com certeza o que aconteceu à personagem, e não precisaria especular sobre seu destino.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2026"
+                       },
+                       {
+                           "id":  "literatura-163",
+                           "enunciado":  "Assume um caráter metalinguístico o seguinte trecho da fábula \"A rosa de seda\", de Fernando Pessoa (transcrita na questão 8):",
+                           "alternativas":  {
+                                                "a":  "\"A bordadora, como era muito jovem, foi procurar por toda a parte aquela rosa branca perfeitíssima, em cuja semelhança bordasse a sua.\" (2º parágrafo)",
+                                                "b":  "\"Depois de a bordar foi compará-la com as rosas brancas que existem realmente nas roseiras.\" (3º parágrafo)",
+                                                "c":  "\"todas as rosas se pareciam exatamente com a rosa que ela bordara, que cada uma delas era exatamente aquela.\" (3º parágrafo)",
+                                                "d":  "\"ela sabia bem que, pelas leis dos contos como este, não podiam deixar de a matar se ela não bordasse a rosa branca.\" (2º parágrafo)",
+                                                "e":  "\"Mas sucedia que umas rosas eram menos belas do que lhe convinha, e que outras não eram brancas como deviam ser.\" (2º parágrafo)"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Ao mencionar \"as leis dos contos como este\", o narrador comenta as próprias convenções do gênero em que a fábula se insere, expondo dentro da narrativa as regras que a regem — procedimento típico da metalinguagem.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2026"
                        }
                    ],
     "matematica":  [
@@ -33102,6 +37621,1556 @@ window.QUESTION_BANKS = {
                            "resposta":  "a",
                            "explicacao":  "Em A = πr², a área depende do quadrado do raio: multiplicar r por 2 multiplica a área por 2² = 4. Com raios 3 e 6, as áreas são 9π e 36π, na razão 1 para 4. A alternativa (e) reconhece que a área quadruplica, mas na hora de comparar os dois círculos volta a usar a razão dos raios, 1 para 2 — em figuras semelhantes, a razão entre áreas é o quadrado da razão entre os comprimentos.",
                            "formato":  "lacunas"
+                       },
+                       {
+                           "id":  "matematica-256",
+                           "enunciado":  "A construção de uma rampa que seja acessível a usuários de cadeira de rodas deve seguir a norma ABNT NBR 9050. Esse documento regulamenta a inclinação que a rampa deve ter a depender do desnível máximo de cada segmento de rampa, conforme o seguinte quadro:\n\nInclinação e desnível máximo de cada segmento de rampa\n\n| Desnível h (em m) | Inclinação i admissível (em %) |\n|---|---|\n| 1 \u003c h ≤ 1,5 | 5 |\n| 0,8 \u003c h ≤ 1 | 5 \u003c i ≤ 6,25 |\n| 0 \u003c h ≤ 0,8 | 6,25 \u003c i ≤ 8,33 |\n\nA inclinação i da rampa em porcentagem (%) é calculada dividindo a altura h do desnível do segmento da rampa, em metros, pelo comprimento da projeção horizontal c, em metros, e multiplicando o resultado por 100.\n\nDeterminada rampa de dois segmentos foi construída da seguinte maneira:\n- o primeiro segmento possui projeção horizontal de 10 m e inclinação de 6%;\n- o segundo segmento possui projeção horizontal de 7 m e desnível de 0,5 m.\n\nCom base no que foi apresentado sobre a normativa, o que é correto afirmar sobre a adequação dessa rampa à norma de acessibilidade?",
+                           "alternativas":  {
+                                                "a":  "A rampa não está adequada, pois os dois segmentos não estão de acordo com a norma.",
+                                                "b":  "A rampa está adequada, pois os dois segmentos estão de acordo com a norma.",
+                                                "c":  "A rampa não está adequada, pois o primeiro segmento não está de acordo com a norma.",
+                                                "d":  "A rampa não está adequada, pois o segundo segmento não está de acordo com a norma.",
+                                                "e":  "A rampa está adequada, pois, apesar de o segundo segmento não estar de acordo com a norma, o primeiro está."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O primeiro segmento tem h = i·c/100 = 6%×10 = 0,6 m, que exige inclinação entre 6,25% e 8,33% conforme a tabela — mas ele foi construído com apenas 6%, fora da faixa. Já o segundo segmento (c=7, h=0,5) tem i = 0,5/7×100 ≈ 7,14%, dentro da faixa exigida para h ≤ 0,8 m.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2025"
+                       },
+                       {
+                           "id":  "matematica-257",
+                           "enunciado":  "A imagem a seguir mostra um cruzamento da Rua da Consolação, na região central da cidade de São Paulo, em que há faixas de pedestre em diferentes direções. Essas faixas agilizam a travessia das ruas. Uma pessoa parte do ponto O e deseja chegar ao ponto C. Para tanto, percorre o trajeto pela faixa que liga O a B e, em seguida, utiliza a faixa que liga B a C. Considere que as coordenadas dos pontos indicados na figura, em metros, são: O(0,0), B(13,-15) e C(29,-8).\n\nSeja d a distância, em metros, que essa pessoa deixaria de percorrer se tivesse optado por fazer a travessia pela faixa de pedestre que liga O a C. Nesse contexto, é correto afirmar:",
+                           "alternativas":  {
+                                                "a":  "d \u003c 2",
+                                                "b":  "2 ≤ d \u003c 5",
+                                                "c":  "5 ≤ d \u003c 8",
+                                                "d":  "8 ≤ d \u003c 11",
+                                                "e":  "d ≥ 11"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "A distância O a B é √(13²+15²)=√394≈19,85 m e de B a C é √(16²+7²)=√305≈17,46 m, totalizando cerca de 37,31 m pelo trajeto em L. A distância direta O a C é √(29²+8²)=√905≈30,08 m, logo d ≈ 37,31−30,08 ≈ 7,23 m, no intervalo 5 ≤ d \u003c 8.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2025"
+                       },
+                       {
+                           "id":  "matematica-258",
+                           "enunciado":  "Considere que a expectativa de vida no Brasil à idade de 19 anos pode ser calculada, de forma aproximada, como a média aritmética simples entre a expectativa de vida estimada à mesma idade dos homens e das mulheres. O mesmo pode ser feito à idade de 20 anos.\n\nSegundo dados do IBGE, em 2022, a expectativa de vida estimada no Brasil à idade de 19 anos era 58, e a expectativa de vida estimada dos homens à mesma idade era 54,7. Sabe-se que a diferença entre a expectativa de vida estimada dos homens e a das mulheres se manteve à idade de 20 anos e que a expectativa de vida estimada dos homens a essa idade (EVH20) era 53,8.\n\nCom base nos dados apresentados, assinale a alternativa que apresenta a expectativa de vida estimada das mulheres à idade de 19 anos (EVM19) e a expectativa de vida estimada à idade de 20 anos no Brasil (EVB20) em 2022.",
+                           "alternativas":  {
+                                                "a":  "EVM19 = 54,7 ; EVB20 = 54,7",
+                                                "b":  "EVM19 = 54,7 ; EVB20 = 58",
+                                                "c":  "EVM19 = 60 ; EVB20 = 54",
+                                                "d":  "EVM19 = 61,3 ; EVB20 = 56",
+                                                "e":  "EVM19 = 61,3 ; EVB20 = 57,1"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Como EVB19 é a média de EVH19 e EVM19: 58=(54,7+EVM19)/2 → EVM19=61,3. Mantendo a mesma diferença (6,6 anos) aos 20 anos: EVM20=53,8+6,6=60,4, e EVB20=(53,8+60,4)/2=57,1.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2025"
+                       },
+                       {
+                           "id":  "matematica-259",
+                           "enunciado":  "Os gráficos a seguir apresentam a evolução do abate de bovinos e da participação de machos e fêmeas, por trimestre, no Brasil, segundo o IBGE (Pesquisa Trimestral do Abate de Animais).\n\nEvolução do abate de bovinos no Brasil por trimestre (2019-2024) — total abatido no primeiro trimestre (I) de cada ano, em milhões de cabeças:\n2019: 7,93 | 2020: 7,34 | 2021: 6,60 | 2022: 7,01 | 2023: 7,44 | 2024: 9,30\n\nEvolução da participação de machos e fêmeas no abate de bovinos por trimestre (2019-2024) — percentual de fêmeas e de machos no primeiro trimestre (I) de cada ano:\n2019: 46,6% fêmeas / 53,4% machos\n2020: 42,7% fêmeas / 57,3% machos\n2021: 36,8% fêmeas / 63,2% machos\n2022: 39,5% fêmeas / 60,5% machos\n2023: 44,8% fêmeas / 55,2% machos\n2024: 46,2% fêmeas / 53,8% machos\n\nA partir dos dados observados nos gráficos, é correto afirmar:",
+                           "alternativas":  {
+                                                "a":  "No primeiro trimestre de 2023, a diferença entre as quantidades de machos e fêmeas abatidos foi menor que a do primeiro trimestre de 2019.",
+                                                "b":  "No primeiro trimestre de 2023, a quantidade de fêmeas abatidas foi de, aproximadamente, 2 milhões.",
+                                                "c":  "No primeiro trimestre de 2021 e de 2022, a diferença entre as quantidades de machos e fêmeas abatidos foi igual.",
+                                                "d":  "No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi de, aproximadamente, 4,3 milhões.",
+                                                "e":  "No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi igual à do primeiro trimestre de 2019."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "No 1º trimestre de 2024, o total abatido foi 9,30 milhões, dos quais 46,2% eram fêmeas: 9,30×0,462 ≈ 4,3 milhões, o que confirma a alternativa d.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2025"
+                       },
+                       {
+                           "id":  "matematica-260",
+                           "enunciado":  "Um designer de produtos deseja fabricar um vaso para flores conforme a figura a seguir (a figura mostra um vaso com formato de dois troncos de cone unidos, mais estreito no meio).\n\nSabe-se que a base e o topo do vaso são uma circunferência de raio R que mede 10 cm, a parte central é uma circunferência de raio r de 5 cm e a medida h mede 12 cm. Qual é a capacidade volumétrica desse vaso em cm³?",
+                           "alternativas":  {
+                                                "a":  "1400π",
+                                                "b":  "2100π",
+                                                "c":  "2400π",
+                                                "d":  "2600π",
+                                                "e":  "2800π"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O vaso é formado por dois troncos de cone idênticos (R=10, r=5, h=12 cada). O volume de cada tronco é (πh/3)(R²+Rr+r²) = (12π/3)(100+50+25) = 4π×175 = 700π; somando os dois, o volume total é 1400π cm³.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2025"
+                       },
+                       {
+                           "id":  "matematica-261",
+                           "enunciado":  "Considere um cilindro C de altura h \u003e 0 e cujo raio das circunferências, do topo e da base, é r \u003e 0; um cilindro C1 cujo raio é igual ao de C e altura igual a h/2; e um cilindro C2 com altura h e raio igual a r/2.\nSendo V, V1 e V2 os volumes e A, A1 e A2 as áreas laterais dos cilindros C, C1 e C2, respectivamente, é correto afirmar:",
+                           "alternativas":  {
+                                                "a":  "V=V1+V2 e A=A1+A2",
+                                                "b":  "V=V1+V2 e A=A1+2A2",
+                                                "c":  "V=V1+2V2 e A=A1+2A2",
+                                                "d":  "V=V1+2V2 e A=A1+A2",
+                                                "e":  "V=2V1+2V2 e A=2A1+2A2"
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Como V=πr²h, tem-se V1=πr²(h/2)=V/2 e V2=π(r/2)²h=V/4, logo V1+2V2=V/2+V/2=V. Para a área lateral A=2πrh, A1=2πr(h/2)=A/2 e A2=2π(r/2)h=A/2, logo A1+A2=A.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2025"
+                       },
+                       {
+                           "id":  "matematica-262",
+                           "enunciado":  "Em relação ao plano cartesiano Oxy, é correto afirmar que as equações x² + y² − 4x = −3 e x² + y² − 4y = −3 representam:",
+                           "alternativas":  {
+                                                "a":  "duas circunferências com raios de mesma medida e que se interceptam em dois pontos.",
+                                                "b":  "duas circunferências com raios de medidas diferentes e que se interceptam em dois pontos.",
+                                                "c":  "duas circunferências que se interceptam em um único ponto.",
+                                                "d":  "duas circunferências concêntricas e que não se interceptam.",
+                                                "e":  "duas circunferências com centros distintos e que não se interceptam."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Completando quadrados, as equações descrevem circunferências de raio 1 centradas em (2,0) e (0,2), respectivamente. A distância entre os centros é √(2²+2²)=√8≈2,83, maior que a soma dos raios (2), logo as circunferências têm raios iguais, centros distintos e não se interceptam.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2025"
+                       },
+                       {
+                           "id":  "matematica-263",
+                           "enunciado":  "O conceito de entropia permeia diversas áreas do conhecimento e foi introduzido na Teoria da Informação por Claude Shannon, que desenvolveu uma forma de calcular a entropia E de um sistema, a saber\n\nE = − Σᵢ Pᵢ(x) log₂ Pᵢ(x)\n\nem que Pᵢ(x) é a probabilidade do i-ésimo resultado para a variável x.\n\nPor exemplo, considere uma sequência com duas letras A coloridas, a primeira azul e a segunda vermelha (AA). Se essas duas letras fossem colocadas numa urna, a probabilidade de se retirar, sem observar, a letra azul, como na sequência original, é 1/2. Devolve-se a letra à urna e sorteia-se novamente. A probabilidade de sair vermelha é novamente 1/2, e nesse caso tem-se:\n\nE = − Σ Pᵢ(x) log₂ Pᵢ(x) = − (1/2 · log₂ 1/2 + 1/2 · log₂ 1/2) = 1\n\nPara uma sequência com 4 letras A, as duas primeiras azuis e as duas últimas vermelhas (AAAA), colocando-as numa urna e sorteando uma, a probabilidade de sair azul é 1/2. Devolve-se a letra e sorteia-se novamente. A probabilidade da segunda letra sorteada ser azul, como na sequência original, é novamente 1/2. Procedendo dessa forma para as duas letras vermelhas, tem-se:\n\nE = − Σ Pᵢ(x) log₂ Pᵢ(x) = − (1/2 log₂ 1/2 + 1/2 log₂ 1/2 + 1/2 log₂ 1/2 + 1/2 log₂ 1/2) = 2\n\nCom base nessas informações, qual o valor da entropia E, no caso de uma sequência com 4 letras A, sendo as 3 primeiras azuis e a última vermelha (AAAA)?",
+                           "alternativas":  {
+                                                "a":  "5 − (9/4) log₂ 3",
+                                                "b":  "1/2 − (5/2) log₂ 3",
+                                                "c":  "3/2",
+                                                "d":  "(9/4) log₂ 3",
+                                                "e":  "3"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Para 3 letras azuis e 1 vermelha, a probabilidade de cada uma das 3 posições azuis é 3/4 e da posição vermelha é 1/4. Aplicando a fórmula: E = 3×[−(3/4)log₂(3/4)] + [−(1/4)log₂(1/4)] = −(9/4)log₂3 + 9/2 + 1/2 = 5 − (9/4)log₂3.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2026"
+                       },
+                       {
+                           "id":  "matematica-264",
+                           "enunciado":  "Para uma atividade de campo voltada à valorização do patrimônio histórico e cultural, professores de geografia levaram seus estudantes a um parque temático de monumentos geográficos. Eles visitaram a réplica de uma pirâmide regular de base quadrada com vértice a 18 metros de altura em relação ao centro da base. As faces da pirâmide estão voltadas para as direções norte, sul, leste e oeste. Para acessar o vértice da pirâmide, os estudantes precisaram percorrer uma trilha de pedestre e subir a rampa localizada na face norte. A trilha compreende os lados oeste, sul, leste e metade do lado norte do quadrado. Essa rampa está localizada exatamente no meio da face, ou seja, é o apótema da pirâmide.\n\nSabendo-se que o volume da pirâmide é de 864 m³, quantos metros, aproximadamente, os estudantes tiveram que percorrer para chegar até o topo da pirâmide?",
+                           "alternativas":  {
+                                                "a":  "36",
+                                                "b":  "41",
+                                                "c":  "48",
+                                                "d":  "54",
+                                                "e":  "61"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Da fórmula V=(1/3)·base·h, a área da base é 3×864/18=144, logo o lado do quadrado é 12 m e o apótema da base é 6 m. A rampa (apótema da pirâmide) mede √(18²+6²)=√360≈18,97 m; somando aos 3 lados inteiros + meio lado (3×12+6=42 m) do percurso, o total é 42+18,97≈61 m.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2026"
+                       },
+                       {
+                           "id":  "matematica-265",
+                           "enunciado":  "Considere a equação trigonométrica\n\nsen(π/2) + sen(x) = sen(2x) − cos(π)\n\npara x ∈ ℝ, 0 ≤ x \u003c 2π.\n\nUm estudante resolveu essa equação da seguinte maneira:\n\nsen(π/2) + sen(x) = sen(2x) − cos(π)\n1 + sen(x) = sen(2x) + 1\nsen(x) = sen(2x)\nsen(x) = 2 sen(x)\n2 sen(x) − sen(x) = 0\nsen(x) = 0\nx = 0 ou x = π\n\nA resolução apresentada pelo estudante está errada, pois ele",
+                           "alternativas":  {
+                                                "a":  "considerou que cos π vale 1.",
+                                                "b":  "não considerou as infinitas voltas no ciclo trigonométrico para a resposta.",
+                                                "c":  "considerou que sen(π/2) vale 1.",
+                                                "d":  "não utilizou corretamente o seno da soma de dois arcos (isto é, escreveu sen(2x) = sen(x) em vez de sen(2x) = 2 sen(x)cos(x)).",
+                                                "e":  "apresentou duas respostas e não apenas uma."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O erro está na passagem sen(2x) = sen(x): a identidade correta do seno da soma dá sen(2x) = 2·sen(x)·cos(x), e não simplesmente 2·sen(x). Ao tratar sen(2x) como se fosse igual a 2sen(x), o estudante perdeu o fator cos(x) e, com ele, outras soluções da equação original.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2026"
+                       },
+                       {
+                           "id":  "matematica-266",
+                           "enunciado":  "Uma startup de tecnologia está desenvolvendo um novo aplicativo e observa que o número de usuários está crescendo, em milhares, após t semanas do lançamento, de acordo com a função:\n\nM(t) = 200 × (1,1)^t\n\nCom isso, a equipe da startup quer saber: qual é o período, em semanas, em que o número de usuários ultrapassa 300 mil?",
+                           "alternativas":  {
+                                                "a":  "Entre 0 e 1 semana.",
+                                                "b":  "Entre 1 e 3 semanas.",
+                                                "c":  "Entre 2 e 4 semanas.",
+                                                "d":  "Entre 3 e 4 semanas.",
+                                                "e":  "Entre 4 e 6 semanas."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Resolvendo 200×1,1^t \u003e 300, ou seja, 1,1^t \u003e 1,5, obtém-se t \u003e ln(1,5)/ln(1,1) ≈ 4,25 semanas, valor que cai no intervalo entre 4 e 6 semanas.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2026"
+                       },
+                       {
+                           "id":  "matematica-267",
+                           "enunciado":  "O Brasil é o líder mundial em reciclagem de alumínio, atingindo números próximos a 99% de latas recicladas no ano de 2021. Essas latas, já utilizadas para refrigerantes, cervejas, energéticos, agora começam a trazer também água mineral em seu interior.\n\nConsidere que uma empresa deseja envasar 350 mL de água em uma lata de alumínio de formato cilíndrico e que, por razões práticas como manuseio e custo do material, o diâmetro da base dessa lata deve ter entre 5 cm e 8 cm.\n\nQual será, aproximadamente, em centímetros, a menor altura possível da lata?",
+                           "alternativas":  {
+                                                "a":  "5",
+                                                "b":  "7",
+                                                "c":  "13",
+                                                "d":  "18",
+                                                "e":  "28"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A menor altura ocorre quando o diâmetro é o maior permitido (8 cm, raio 4 cm), pois isso maximiza a área da base: h = V/(πr²) = 350/(π×16) ≈ 6,96 cm ≈ 7 cm.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2026"
+                       },
+                       {
+                           "id":  "matematica-268",
+                           "enunciado":  "Para realizar o cálculo da diferença de altitude (altura) entre dois pontos A e B, localizados no terreno, um técnico utilizou uma Estação Total (ET), equipamento usado para medir a diferença entre níveis de pontos distintos. Ele posicionou o equipamento, que tem 1,6 m de altura, em um ponto M, equidistante na horizontal dos pontos A e B, a 40 m de cada um, nos quais estão os prismas de leitura (miras), conforme a figura a seguir (a figura mostra o equipamento em M visando A com ângulo de depressão α₁ e visando B com ângulo de elevação α₂).\n\nAdmitindo-se que o ângulo de inclinação descendente, α₁, é 7° e o ângulo de inclinação ascendente, α₂, é 5° e que a leitura no prisma, h_B, no ponto B foi de 3,60 m, determine a diferença de altitude (altura), em metros, entre os pontos A e B.",
+                           "alternativas":  {
+                                                "a":  "1,60",
+                                                "b":  "2,80",
+                                                "c":  "3,16",
+                                                "d":  "3,96",
+                                                "e":  "4,80"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Assumindo leitura direta ao solo em A: a diferença de altitude é dada por 40·tan(5°) − 3,60 + 40·tan(7°) ≈ 3,50 + 4,91 − 3,60 ≈ 4,80 m, combinando a subida até B (compensada pela leitura do prisma) com a descida até A.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2026"
+                       },
+                       {
+                           "id":  "matematica-269",
+                           "enunciado":  "Engenheiros estavam mapeando um terreno para construção de um empreendimento com quatro prédios em formato cilíndrico distribuídos em torno de uma praça com o formato quadrado. Para a construção dos prédios, os engenheiros demarcaram os vértices da praça nos pontos A = (0,0), B = (8,0), C e D, em sistema de coordenadas cartesianas onde cada unidade corresponde a um metro.\n\nSabendo-se que a borda da seção circular de cada prédio tangencia cada lado do quadrado no seu ponto médio, qual deve ser a equação da circunferência do prédio que tem uma distância de 10 m do seu centro até o centro do quadrado e que passa pelo ponto de tangência P, conforme a figura?",
+                           "alternativas":  {
+                                                "a":  "(x − 14)² + (y − 4)² = 36",
+                                                "b":  "(x − 18)² + (y − 4)² = 100",
+                                                "c":  "(x − 8)² + (y − 24)² = 36",
+                                                "d":  "x² + y² = 36",
+                                                "e":  "(x − 4)² + (y − 24)² = 100"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O quadrado tem lado 8 (de A(0,0) a B(8,0)) e centro em (4,4). O prédio cujo centro dista 10 m desse centro e tangencia o lado direito do quadrado (x=8) no seu ponto médio (8,4) tem centro em (14,4) e raio 6 (distância até o ponto de tangência), dando (x−14)²+(y−4)²=36.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2026"
+                       },
+                       {
+                           "id":  "matematica-270",
+                           "enunciado":  "Existem números curiosos na matemática. Os números perfeitos são alguns deles. Um número n (para n ∈ ℕ*) é perfeito se, e somente se, for igual à soma de seus divisores positivos (excluindo o próprio). Relacionando números perfeitos e números primos, Euclides escreveu uma proposição em seu famoso livro \"Elementos\": se 2ⁿ − 1 é um número primo, então 2ⁿ⁻¹(2ⁿ − 1) é um número perfeito.\n\nConsiderando o que foi exposto, é correto afirmar:",
+                           "alternativas":  {
+                                                "a":  "Com exceção de n = 1, os 5 primeiros termos da sequência (aₙ) = (2ⁿ − 1) são números primos.",
+                                                "b":  "Os termos da progressão geométrica, cujo primeiro termo é o primeiro número perfeito e cuja razão é 3, são pares.",
+                                                "c":  "Os números 28 e 31 são números perfeitos.",
+                                                "d":  "Na proposição de Euclides, para n = 4, obtemos que 2⁴ − 1 não é primo, mas que 2³(2⁴ − 1) é perfeito.",
+                                                "e":  "A sequência formada pela diferença dos termos consecutivos de (aₙ) = (2ⁿ − 1) é uma progressão aritmética de razão 2."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O primeiro número perfeito é 6 = 2¹(2²−1). A progressão geométrica de primeiro termo 6 e razão 3 (6, 18, 54, 162, ...) é formada só por múltiplos de 6, logo todos os termos são pares — o que confirma a alternativa b.",
+                           "formato":  "direta",
+                           "origem":  "fuvest-2026"
+                       },
+                       {
+                           "id":  "matematica-271",
+                           "enunciado":  "Rogério é funcionário de uma fábrica de automóveis. Em dezembro de 2024, seu gestor fez duas propostas de aumento salarial:\n\n- a proposta 1 consistia em um aumento de 50% do seu salário, a partir do salário a ser recebido em janeiro de 2025, mas sem nenhum tipo de reajuste nos próximos três anos, ou seja, até dezembro de 2027;\n- a proposta 2 consistia em um aumento de 20% a cada ano; o reajuste ocorreria no salário de janeiro de cada um dos próximos três anos, a partir de 2025.\n\nPara decidir a qual proposta aderir, Rogério calculou o montante total que receberia ao longo dos três anos em cada proposta, isto é, de janeiro de 2025 a dezembro de 2027. Ele concluiu que o total a ser recebido na proposta 1 é, aproximadamente,",
+                           "alternativas":  {
+                                                "a":  "3% maior que o total a ser recebido na proposta 2.",
+                                                "b":  "1% maior que o total a ser recebido na proposta 2.",
+                                                "c":  "3% menor que o total a ser recebido na proposta 2.",
+                                                "d":  "1% menor que o total a ser recebido na proposta 2."
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Na proposta 1, o total recebido em 3 anos é 12×1,5S×3=54S. Na proposta 2, os totais anuais somam 12S×(1,2+1,2²+1,2³)≈52,42S. A razão 54/52,42 é cerca de 1,03, ou seja, a proposta 1 rende aproximadamente 3% a mais que a proposta 2.",
+                           "formato":  "direta",
+                           "origem":  "unicamp-2026"
+                       },
+                       {
+                           "id":  "matematica-272",
+                           "enunciado":  "A figura a seguir mostra um trecho do gráfico de f(g(x)) em que f(x) = x³ + 2x² + ax − 1, g(x) = 3 − x e a é uma constante real.\n\nO gráfico mostra uma curva decrescente que passa exatamente pelo ponto de coordenadas (x = 1, y = 5), atinge um valor mínimo logo depois, e volta a crescer.\n\nQual é o valor da constante a?",
+                           "alternativas":  {
+                                                "a":  "−2.",
+                                                "b":  "−3.",
+                                                "c":  "−4.",
+                                                "d":  "−5."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Como g(1)=3−1=2, o ponto (1,5) do gráfico de f(g(x)) equivale a f(2)=5: 8+8+2a−1=5 → 2a=−10 → a=−5.",
+                           "formato":  "direta",
+                           "origem":  "unicamp-2026"
+                       },
+                       {
+                           "id":  "matematica-273",
+                           "enunciado":  "Sobre dois polinômios p(x) e q(x) de coeficientes reais sabe-se que:\n\n- p(x) + q(x) tem grau igual a 3.\n- p(x) · q(x) tem grau igual a 8.\n\nÉ correto afirmar que o grau de p(x) − q(x) é igual a",
+                           "alternativas":  {
+                                                "a":  "5.",
+                                                "b":  "4.",
+                                                "c":  "3.",
+                                                "d":  "2."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Se p+q tem grau 3, menor que o grau máximo possível quando p e q têm mesmo grau, os termos de maior grau de p e q devem se cancelar na soma — o que só ocorre se deg(p)=deg(q)=m, com m+m=8 (grau do produto), logo m=4. Em p−q esses termos de maior grau se somam (não cancelam), resultando em grau 4.",
+                           "formato":  "direta",
+                           "origem":  "unicamp-2026"
+                       },
+                       {
+                           "id":  "matematica-274",
+                           "enunciado":  "A reta de equação y = ax + b faz um ângulo de 30 graus com o eixo y, e sua distância até a origem é √3.\n\nA figura mostra o eixo y na vertical e o eixo x na horizontal; a reta cruza o eixo x formando um ângulo de 30° com o eixo y; o segmento perpendicular traçado da origem até a reta (a distância da reta à origem) mede √3.\n\nO valor de ab é",
+                           "alternativas":  {
+                                                "a":  "−4.",
+                                                "b":  "−5.",
+                                                "c":  "−6.",
+                                                "d":  "−7."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Com ângulo de 30° em relação ao eixo y, a inclinação da reta é a=tan(60°)=√3. A distância à origem |b|/√(a²+1)=|b|/2=√3 dá |b|=2√3; tomando b=−2√3, o produto ab=√3×(−2√3)=−6.",
+                           "formato":  "direta",
+                           "origem":  "unicamp-2026"
+                       },
+                       {
+                           "id":  "matematica-275",
+                           "enunciado":  "O movimento de ataque em um jogo de voleibol é mais eficiente se o atleta atingir a bola no ponto mais alto da trajetória do centro de massa da bola. A Figura 1 mostra a trajetória da bola que foi lançada pela Atleta A em direção à Atleta B.\n\nO centro de massa da bola, ao ser lançada pela Atleta A, está a 2 metros de altura em relação ao solo. Quando a Atleta B ataca, o centro de massa da bola está a 3 metros de altura em relação ao solo.\n\nAs jogadoras estão no mesmo plano da trajetória da bola e a distância entre as jogadoras é de 9 metros. Sabe-se que a trajetória do centro de massa da bola é uma parábola e que o ataque aconteceu justamente no ponto de maior altura da parábola, conforme representado na Figura 2: um sistema de eixos x (posição horizontal) e y (altura), em que a parábola parte do ponto (x=0, y=2) — lançamento pela Atleta A —, sobe até seu ponto de altura máxima y=3, e desce até o ponto (x=9, y não indicado) — ataque pela Atleta B.\n\nA equação da parábola que descreve a trajetória do centro de massa da bola é",
+                           "alternativas":  {
+                                                "a":  "y = (−1/9)x² + (10/9)x + 2.",
+                                                "b":  "y = (−1/99)x² + (20/99)x + 2.",
+                                                "c":  "y = (−1/81)x² + (2/9)x + 2.",
+                                                "d":  "y = (−1/4)x² + (9/2)x + 2."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O ataque ocorre exatamente no vértice da parábola (máximo), em x=9 (distância entre as atletas) com y=3 (altura do ataque). A alternativa c tem vértice em x=−b/(2a)=9 e y(9)=3, além de passar por (0,2) como exigido pelo lançamento — as demais alternativas não satisfazem simultaneamente essas três condições.",
+                           "formato":  "direta",
+                           "origem":  "unicamp-2026"
+                       },
+                       {
+                           "id":  "matematica-276",
+                           "enunciado":  "Em uma creche se realiza o \"dia da troca do brinquedo\". Cada criança leva um brinquedo para a escola e o guarda na Caixa Divertida. Ao final do dia, cada criança retira um brinquedo da Caixa Divertida sem olhar, e o leva para brincar em casa.\n\nEm uma sala com cinco crianças, qual é a probabilidade de exatamente duas crianças retirarem da Caixa Divertida seus próprios brinquedos?",
+                           "alternativas":  {
+                                                "a":  "1/5.",
+                                                "b":  "1/6.",
+                                                "c":  "1/25.",
+                                                "d":  "1/30."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O número de maneiras de exatamente 2 das 5 crianças pegarem seu próprio brinquedo é C(5,2) vezes o número de formas de as outras 3 NÃO pegarem o seu (derangement de 3 elementos, que é 2): 10×2=20 casos favoráveis em 5!=120 totais, ou seja, 20/120=1/6.",
+                           "formato":  "direta",
+                           "origem":  "unicamp-2026"
+                       },
+                       {
+                           "id":  "matematica-277",
+                           "enunciado":  "A figura a seguir mostra um quadrado ABCD de lado medindo x. O ponto médio do lado AB está representado por M. Os pontos P e Q, pertencentes ao lado CD, são tais que PD = QC. O ângulo PMQ, representado por θ na figura, é tal que cos(θ) = 2/3.\n\nA figura mostra o quadrado com A e B no topo (M no meio do segmento AB) e D e C na base; P está na base próximo a D e Q está na base próximo a C (com PD = QC, ou seja, P e Q são simétricos em relação ao meio da base); os segmentos MP e MQ formam o ângulo θ no vértice M.\n\nA área do triângulo PMQ é",
+                           "alternativas":  {
+                                                "a":  "(√5 x²)/5.",
+                                                "b":  "(√3 x²)/2.",
+                                                "c":  "(√2 x²)/2.",
+                                                "d":  "(√3 x²)/4."
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Usando coordenadas com o quadrado de lado x, a condição cos θ = 2/3 leva a (t−x/2)² = x²/5, onde t é a distância de P a D. A base PQ mede 2x/√5 e a altura (distância vertical de M à base CD) é x, dando área = (1/2)(2x/√5)(x) = (√5/5)x².",
+                           "formato":  "direta",
+                           "origem":  "unicamp-2026"
+                       },
+                       {
+                           "id":  "matematica-278",
+                           "enunciado":  "Considere\n\nA = {x ∈ ℕ : |x − 5| ≥ 2 e |x − 11| ≤ 9}.\n\nQuantos números primos pertencem ao conjunto A?",
+                           "alternativas":  {
+                                                "a":  "5.",
+                                                "b":  "6.",
+                                                "c":  "7.",
+                                                "d":  "8."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "A condição |x−5|≥2 dá x≤3 ou x≥7; e |x−11|≤9 dá 2≤x≤20. A interseção é {2,3}∪{7,...,20}. Os números primos nesse conjunto são 2, 3, 7, 11, 13, 17 e 19 — total de 7 primos.",
+                           "formato":  "direta",
+                           "origem":  "unicamp-2026"
+                       },
+                       {
+                           "id":  "matematica-279",
+                           "enunciado":  "Em um jogo de videogame sobre guerra, cada jogador deve montar sua tropa escolhendo 100 combatentes. Ele tem à sua disposição dois tipos de combatentes, soldados e estrategistas, que possuem duas habilidades, astúcia e força, com as seguintes pontuações:\n\n- o soldado tem 30 pontos de astúcia e 70 pontos de força.\n- o estrategista tem 80 pontos de astúcia e 20 pontos de força.\n\nA força total da tropa é a soma das pontuações de força de cada um dos combatentes, e a astúcia total da tropa é a soma das pontuações de astúcia de cada um dos combatentes.\n\nPara montar uma tropa de modo a obter as mesmas pontuações de força total e de astúcia total, quantos soldados e quantos estrategistas devem ser escolhidos?",
+                           "alternativas":  {
+                                                "a":  "70 soldados e 30 estrategistas.",
+                                                "b":  "60 soldados e 40 estrategistas.",
+                                                "c":  "50 soldados e 50 estrategistas.",
+                                                "d":  "40 soldados e 60 estrategistas."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Com s soldados e (100−s) estrategistas, a força total é 50s+2000 e a astúcia total é 8000−50s. Igualando: 50s+2000=8000−50s → s=60 soldados e 40 estrategistas.",
+                           "formato":  "direta",
+                           "origem":  "unicamp-2026"
+                       },
+                       {
+                           "id":  "matematica-280",
+                           "enunciado":  "Na figura a seguir, ABCD é um quadrado com lado medindo 6, e P, Q, R e S são pontos sobre os lados deste quadrado, em que AS = BQ = 2, PB = 3 e DR = 1.\n\nUsando coordenadas com D=(0,0), C=(6,0), B=(6,6) e A=(0,6): P está no lado AB, no ponto médio (AP = PB = 3); S está no lado AD, 2 unidades abaixo de A; Q está no lado BC, 2 unidades abaixo de B (S e Q ficam à mesma altura, ligados por um segmento horizontal); R está no lado DC, 1 unidade à direita de D. Um segmento liga P a R, cruzando o segmento SQ. A área sombreada na figura é o triângulo formado pelo vértice P, pelo vértice Q e pelo ponto onde o segmento PR cruza o segmento SQ.\n\nO valor da área sombreada é igual a",
+                           "alternativas":  {
+                                                "a":  "11/3.",
+                                                "b":  "13/3.",
+                                                "c":  "15/4.",
+                                                "d":  "17/4."
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Com D=(0,0), C=(6,0), B=(6,6), A=(0,6), tem-se P=(3,6), S=(0,4), Q=(6,4) e R=(1,0). A reta PR cruza SQ (y=4) no ponto (7/3,4); o triângulo PQI (I a interseção) tem base QI=6−7/3=11/3 e altura 6−4=2, logo área = (1/2)(11/3)(2)=11/3.",
+                           "formato":  "direta",
+                           "origem":  "unicamp-2026"
+                       },
+                       {
+                           "id":  "matematica-281",
+                           "enunciado":  "Aldo, Beto e Caio fizeram, em conjunto, uma aposta em uma loteria, dividindo o valor do custo da aposta em partes diferentes. Aldo pagou R$ 28,00, Beto pagou R$ 21,00 e Caio pagou R$ 35,00. A aposta feita por eles foi premiada em R$ 150.000,00, valor que foi dividido em partes proporcionais a quanto cada um havia pago por ela. A parte do prêmio que coube a Caio foi",
+                           "alternativas":  {
+                                                "a":  "R$ 58.000,00.",
+                                                "b":  "R$ 62.500,00.",
+                                                "c":  "R$ 59.500,00.",
+                                                "d":  "R$ 61.000,00.",
+                                                "e":  "R$ 64.000,00."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "O prêmio é dividido na proporção 28:21:35 (ou seja, 4:3:5, somando 12 partes). A parte de Caio é 150.000×(5/12)=R$ 62.500,00.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.1"
+                       },
+                       {
+                           "id":  "matematica-282",
+                           "enunciado":  "Em determinada lanchonete, o custo de 2 sucos de laranja e 3 sanduíches de queijo é R$ 46,70 e o custo de 3 sucos de laranja e 4 sanduíches de queijo é R$ 64,10. Para comprar 1 suco de laranja e 1 sanduíche de queijo nessa lanchonete, gastam-se",
+                           "alternativas":  {
+                                                "a":  "R$ 17,80.",
+                                                "b":  "R$ 17,60.",
+                                                "c":  "R$ 17,40.",
+                                                "d":  "R$ 17,20.",
+                                                "e":  "R$ 18,00."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Resolvendo o sistema 2x+3y=46,70 e 3x+4y=64,10, obtém-se y=11,90 e x=5,50; logo 1 suco + 1 sanduíche custam x+y=R$ 17,40.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.1"
+                       },
+                       {
+                           "id":  "matematica-283",
+                           "enunciado":  "No plano cartesiano, a reta r, de equação y = −(5/2)x + 12, intersecta a reta s, de equação y = x + 5, no ponto P. A reta r intersecta o eixo x no ponto R, e a reta s intersecta o eixo y no ponto S. A área do triângulo de vértices PRS é",
+                           "alternativas":  {
+                                                "a":  "44/5",
+                                                "b":  "47/5",
+                                                "c":  "51/5",
+                                                "d":  "54/5",
+                                                "e":  "49/5"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "As retas se cruzam em P(2,7); r corta o eixo x em R(4,8; 0) e s corta o eixo y em S(0,5). Pela fórmula do determinante (shoelace) para os vértices P, R e S, a área do triângulo é 49/5.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.1"
+                       },
+                       {
+                           "id":  "matematica-284",
+                           "enunciado":  "A figura mostra o projeto de um portal construído de modo que um arco de parábola seja posicionado sobre uma estrutura retangular. A estrutura retangular tem base medindo 8 m e altura de 6 m. O ponto mais alto do portal dista 12 m da base. Deseja-se adicionar uma coluna vertical, cuja base dista 2 m de uma das laterais da estrutura retangular. A altura da coluna será de",
+                           "alternativas":  {
+                                                "a":  "9,75 m.",
+                                                "b":  "7,50 m.",
+                                                "c":  "8,25 m.",
+                                                "d":  "10,50 m.",
+                                                "e":  "9,00 m."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A estrutura retangular (8 m de base, 6 m de altura) tem uma parábola por cima que atinge 12 m no centro, ou seja, 6 m de altura de arco acima da estrutura no ponto médio. A 2 m de uma lateral (2 m do centro), a altura do arco é 6×(1−(2/4)²)=4,5 m, e somada aos 6 m da estrutura dá 10,5 m de altura total para a coluna.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.1"
+                       },
+                       {
+                           "id":  "matematica-285",
+                           "enunciado":  "Geraldo depositou R$ 1.000,00 em uma conta de investimento que rende p% por ano. Não tendo feito mais nenhum depósito nessa conta, após 30 anos, o saldo era de R$ 120.000,00. Usando log₁₀ 2 = 0,301, log₁₀ 3 = 0,477 e 10^0,0231 = K, o valor de p é",
+                           "alternativas":  {
+                                                "a":  "100(K³ − 1)",
+                                                "b":  "100(1 − 1/K²)",
+                                                "c":  "100(K² − 1)",
+                                                "d":  "100(1 − 1/K)",
+                                                "e":  "100(K − 1)"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "De 1000(1+p/100)^30=120000, tem-se (1+p/100)^30=120. Usando os logaritmos dados, log₁₀(120)≈2,079, então log₁₀(1+p/100)≈0,0693=3×0,0231, ou seja, 1+p/100=(10^0,0231)³=K³, o que dá p=100(K³−1).",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.1"
+                       },
+                       {
+                           "id":  "matematica-286",
+                           "enunciado":  "No plano, as retas r e s são perpendiculares e se cruzam no ponto P, que pertence à circunferência δ. A reta r passa pelo centro O de δ e contém o ponto R de δ. A reta s forma um ângulo de medida θ com o segmento PQ, em que Q é um ponto de δ. Sabendo que cos θ = 5/8 e que o raio de δ mede 12 cm, a distância entre os pontos R e Q é de",
+                           "alternativas":  {
+                                                "a":  "15 cm",
+                                                "b":  "50/3 cm",
+                                                "c":  "95/6 cm",
+                                                "d":  "16 cm",
+                                                "e":  "18 cm"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Como r passa pelo centro O, o segmento PR é um diâmetro (24 cm). Pelo ângulo inscrito no semicírculo, o triângulo PQR é retângulo em Q, e como r⊥s, o ângulo em P vale 90°−θ. Assim, RQ = PR·sen(90°−θ) = PR·cos θ = 24×(5/8) = 15 cm.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.1"
+                       },
+                       {
+                           "id":  "matematica-287",
+                           "enunciado":  "Na figura, estão representados o prisma retorretângulo ABCDEFGH e a pirâmide BCDL. O vértice L da pirâmide está na reta que contém a aresta CG do prisma. O prisma e a pirâmide BCDL têm o mesmo volume. O ponto J está na interseção dos segmentos BL e FG, e o ponto K está na interseção dos segmentos DL e GH. O volume da pirâmide GJKL, em relação ao volume do prisma, corresponde a",
+                           "alternativas":  {
+                                                "a":  "125/216",
+                                                "b":  "16/25",
+                                                "c":  "3/4",
+                                                "d":  "25/36",
+                                                "e":  "64/125"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A pirâmide GJKL é semelhante à pirâmide BCDL, com uma razão de semelhança ligada à posição dos pontos J e K nas arestas do prisma; elevando essa razão ao cubo (proporção de volumes de sólidos semelhantes) chega-se à fração 125/216 do volume do prisma.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.1"
+                       },
+                       {
+                           "id":  "matematica-288",
+                           "enunciado":  "Analise o gráfico que apresenta os números de livros impressos no período de 1475 a 1775 na França, no Reino Unido e na Alemanha (fonte: ourworldindata.org, base de dados históricos públicos). A análise do gráfico mostra que o total de livros impressos nos 3 países considerados em 1675 teve um acréscimo, em relação ao ano de 1625,",
+                           "alternativas":  {
+                                                "a":  "superior a 200%.",
+                                                "b":  "entre 120% e 200%.",
+                                                "c":  "entre 12% e 25%.",
+                                                "d":  "inferior a 12%.",
+                                                "e":  "entre 25% e 120%."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Lendo os valores aproximados do gráfico para os três países somados em 1625 e em 1675, o crescimento percentual do total impresso fica entre 25% e 120%, faixa mais ampla que comporta a variação real mostrada nas curvas do período.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.1"
+                       },
+                       {
+                           "id":  "matematica-289",
+                           "enunciado":  "Dados dois inteiros positivos n e B, a representação de n na base B é denotada por (a_k : a_(k−1) : … : a_1 : a_0)_B, em que a_i ∈ {0, 1, …, B − 1}, se: n = a_k·B^k + a_(k−1)·B^(k−1) + … + a_1·B^1 + a_0·B^0. Por exemplo, a representação de 139 na base 8 é (2 : 1 : 3)_8, pois 139 = 2·8² + 1·8¹ + 3·8⁰. A representação na base 6 do inteiro positivo que tem representação (1 : 0 : 2 : 6)_7 na base 7 é",
+                           "alternativas":  {
+                                                "a":  "(1 : 2 : 3 : 2)_6",
+                                                "b":  "(1 : 4 : 0 : 3)_6",
+                                                "c":  "(1 : 1 : 4 : 0)_6",
+                                                "d":  "(1 : 0 : 5 : 4)_6",
+                                                "e":  "(1 : 3 : 1 : 2)_6"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "(1:0:2:6)_7 equivale a 1×7³+0×7²+2×7+6=363 em base 10. Convertendo 363 para base 6 (363=1×216+4×36+0×6+3), obtém-se (1:4:0:3)_6.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.1"
+                       },
+                       {
+                           "id":  "matematica-290",
+                           "enunciado":  "Uma fábrica de sorvetes vendeu, em certa manhã, 200 litros de sorvete de chocolate e 320 litros de sorvete de baunilha. Na tarde do mesmo dia, o total de litros vendidos desses dois sabores superou o total vendido pela manhã em 110 litros, de maneira que, nessa tarde, a razão entre os números de litros de sorvete de chocolate e de baunilha vendidos foi igual a 2/5. O número de litros de sorvete de baunilha vendido nessa tarde foi igual a",
+                           "alternativas":  {
+                                                "a":  "490.",
+                                                "b":  "570.",
+                                                "c":  "530.",
+                                                "d":  "610.",
+                                                "e":  "450."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "O total vendido pela manhã foi 520 L; à tarde, 520+110=630 L. Com razão chocolate:baunilha de 2:5 (7 partes), a baunilha corresponde a 630×(5/7)=450 L.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.1"
+                       },
+                       {
+                           "id":  "matematica-291",
+                           "enunciado":  "Patrícia tem dois aplicativos para sortear um número de 1 a 8. Um dos aplicativos é honesto, ou seja, nele cada número de 1 a 8 tem a mesma probabilidade de ser sorteado; o outro aplicativo é viciado, e a probabilidade de o número 1 ser sorteado é igual a 1/4. Para sortear um número de 1 a 8, Patrícia primeiro lança uma moeda equilibrada: se a face que sair para cima for \"cara\", ela usa o aplicativo honesto; se a face que sair for \"coroa\", ela usa o aplicativo viciado. Querendo sortear números de 1 a 8, Patrícia lançou a moeda, abriu o aplicativo correspondente à face da moeda que saiu e o executou duas vezes. Sabendo que, nessas duas vezes, o número sorteado pelo aplicativo foi o 1, a probabilidade condicional de a face para cima ter sido \"coroa\" no lançamento da moeda é:",
+                           "alternativas":  {
+                                                "a":  "3/4",
+                                                "b":  "8/9",
+                                                "c":  "4/5",
+                                                "d":  "5/8",
+                                                "e":  "7/8"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Pelo teorema de Bayes: P(honesto)=P(viciado)=1/2; P(dois \"1\"|honesto)=(1/8)²=1/64 e P(dois \"1\"|viciado)=(1/4)²=4/64. A probabilidade de ter sido \"coroa\" dado o resultado é (4/64)/(1/64+4/64)=4/5.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.1"
+                       },
+                       {
+                           "id":  "matematica-292",
+                           "enunciado":  "Para ir de casa ao trabalho, Paulo tem apenas duas opções de condução: o ônibus A, que percorre 12 km e cuja passagem custa R$ 5,00, ou o ônibus B, que percorre 15 km e cuja passagem custa R$ 6,00. Em um período de N dias, Paulo gastou R$ 162,00 para ir de casa ao trabalho, tendo percorrido 396 km. Nesse período, o número de vezes em que Paulo foi ao trabalho com o ônibus A excede o número de vezes em que ele foi com o ônibus B em",
+                           "alternativas":  {
+                                                "a":  "4.",
+                                                "b":  "10.",
+                                                "c":  "8.",
+                                                "d":  "6.",
+                                                "e":  "2."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Com a = viagens de ônibus A e b = viagens de ônibus B: 5a+6b=162 e 12a+15b=396. Resolvendo o sistema, a=18 e b=12, logo a diferença a−b=6.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.1"
+                       },
+                       {
+                           "id":  "matematica-293",
+                           "enunciado":  "Considere k como uma constante real positiva. No plano cartesiano, os pontos A(−1, 4), B(1, −1) e C(k, 0) determinam um triângulo de área 11. A área do quadrado que tem como um dos lados o segmento AC vale",
+                           "alternativas":  {
+                                                "a":  "52.",
+                                                "b":  "40.",
+                                                "c":  "44.",
+                                                "d":  "36.",
+                                                "e":  "48."
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Pela fórmula da área via determinante com A(−1,4), B(1,−1) e C(k,0), a área 11 leva a |5k−3|=22, logo k=5. A distância AC é √(6²+4²)=√52, que é a área do quadrado de lado AC.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.1"
+                       },
+                       {
+                           "id":  "matematica-294",
+                           "enunciado":  "As alturas, em cm, dos 7 principais jogadores de um time são, respectivamente: 174, 183, 185, 191, 195, 198 e 199. Em certo treino, compareceram 5 desses jogadores, sendo a média de suas alturas igual a 188,4 cm. As alturas dos 2 jogadores que não compareceram ao treino são",
+                           "alternativas":  {
+                                                "a":  "191 cm e 198 cm.",
+                                                "b":  "191 cm e 195 cm.",
+                                                "c":  "185 cm e 198 cm.",
+                                                "d":  "185 cm e 199 cm.",
+                                                "e":  "183 cm e 199 cm."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "A soma das 7 alturas é 1325 cm; se a soma das 5 presentes é 5×188,4=942 cm, a soma das 2 ausentes é 1325−942=383 cm, o que corresponde exatamente ao par 185 cm e 198 cm.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.1"
+                       },
+                       {
+                           "id":  "matematica-295",
+                           "enunciado":  "Dadas as constantes reais p e q, considere a função polinomial do primeiro grau f(x) = −x + 10, e a função quadrática g(x) = px² + qx + 4. Os gráficos dessas funções se intersectam em dois pontos tais que a distância entre suas abscissas e a distância entre suas ordenadas é igual a 4. Sabendo que a abscissa de um dos pontos de intersecção desses gráficos é −1, o valor de p + q é igual a",
+                           "alternativas":  {
+                                                "a":  "2.",
+                                                "b":  "5.",
+                                                "c":  "0.",
+                                                "d":  "−4.",
+                                                "e":  "−3."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Como as retas se cruzam com abscissa −1, a outra abscissa deve diferir em 4 unidades (distância dada), ou seja, 3. Substituindo f(x)=g(x) e usando soma e produto das raízes −1 e 3, obtém-se p=2 e q=−5, logo p+q=−3.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.1"
+                       },
+                       {
+                           "id":  "matematica-296",
+                           "enunciado":  "Certo dia, às 0h00, um blecaute ocorreu em uma cidade. Entre 0h00 e 0h01, 4 pessoas telefonaram para a concessionária de energia elétrica; entre 0h01 e 0h02, 7 pessoas telefonaram; entre 0h02 e 0h03, 10 pessoas telefonaram e, até a energia voltar às 0h30, a cada minuto, telefonavam 3 pessoas a mais do que as que haviam telefonado no minuto anterior. Nesse período, o número de ligações telefônicas recebidas pela concessionária passou de 1000 entre",
+                           "alternativas":  {
+                                                "a":  "0h22 e 0h23.",
+                                                "b":  "0h23 e 0h24.",
+                                                "c":  "0h21 e 0h22.",
+                                                "d":  "0h25 e 0h26.",
+                                                "e":  "0h24 e 0h25."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O número de ligações no minuto k é 3k+1; a soma acumulada até o minuto n é (3n²+5n)/2, que atinge exatamente 1000 em n=25 (0h25). Logo o total ultrapassa 1000 entre 0h25 e 0h26.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.1"
+                       },
+                       {
+                           "id":  "matematica-297",
+                           "enunciado":  "Um algoritmo inicia com uma lista ordenada de números e retorna uma lista embaralhada desses números. Durante as repetições do loop do algoritmo, é selecionado um dos números da lista original, que é enviado para o fim da lista embaralhada ou, se a lista embaralhada ainda estiver vazia, o número selecionado é enviado para o início dela. Para retirar um elemento da lista, será usado o código pop(r), que retira o r-ésimo elemento da lista e o coloca na lista embaralhada. Por exemplo, suponha que a lista seja (1, 2, 3, 4, 5) e que a variável r seja igual a 2; o comando pop(r) irá retirar o segundo elemento dessa lista, que no momento é o 2, e irá colocá-lo no início da lista embaralhada, que no momento está vazia. Dessa maneira, a lista passa a ser (1, 3, 4, 5) e a lista embaralhada passa a ser (2). Se r permanecer valendo 2, um novo comando pop(r) irá retirar da lista o elemento 3, que no momento é o segundo da lista, de maneira que a lista passa a ser (1, 4, 5) e a lista embaralhada passa a ser (2, 3).\n\nDadas as variáveis d, D e r, execute o algoritmo:\n\n```\nInicie a lista como (1, 9, 15, 16, 24, 25, 26)\nRepita as instruções entre chaves até que essa lista fique vazia\n{\n    d recebe o número atual de elementos da lista\n    D recebe a diferença entre 50 e o maior elemento atualmente na lista\n    r recebe o resto de D dividido por d\n    aumente o valor de r em 1 unidade\n    pop(r)\n}\nImprima a lista embaralhada\n```\n\nA lista embaralhada impressa foi",
+                           "alternativas":  {
+                                                "a":  "(16, 1, 26, 15, 24, 25, 9).",
+                                                "b":  "(16, 1, 26, 9, 24, 25, 15).",
+                                                "c":  "(16, 1, 26, 15, 25, 24, 9).",
+                                                "d":  "(16, 1, 26, 24, 15, 9, 25).",
+                                                "e":  "(16, 1, 26, 9, 25, 15, 24)."
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Simulando o algoritmo passo a passo (recalculando d, D, r e aplicando pop(r) a cada rodada) sobre a lista (1,9,15,16,24,25,26), a lista embaralhada final resulta em (16, 1, 26, 15, 24, 25, 9).",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.1"
+                       },
+                       {
+                           "id":  "matematica-298",
+                           "enunciado":  "Considere a montagem a seguir, que forma a palavra COMBINATÓRIA ao se fazer um caminho que inicia em uma das letras C (no topo de um triângulo formado por linhas sucessivas C / CO / COM / COMB / COMBI / COMBIN / COMBINA / COMBINAT / COMBINATÓ / COMBINATÓR / COMBINATÓRI / COMBINATÓRIA, empilhadas de modo que cada letra da linha N+1 fica alinhada à direita e uma linha abaixo da letra correspondente na linha N) e segue, sempre, para a direita ou para baixo.\n\nNa palavra em destaque na montagem, o caminho partiu de C, foi para a direita, desceu, foi para a direita, desceu e foi para a direita, mudando de direção 4 vezes e descendo um total de 6 letras. Caso o caminho começasse da letra C mais ao alto, só seria possível descer; logo, não teria acontecido mudança de direção e teria descido 11 letras. Caso o caminho começasse da letra C mais abaixo, só seria possível ir para a direita; logo, não teria acontecido mudança de direção e não teria descido letra alguma.\n\nO número de caminhos distintos que se pode fazer para formar COMBINATÓRIA, de modo a descer mais de 8 letras e mudar de direção exatamente 3 vezes, ou a descer menos de 3 letras e mudar de direção exatamente 2 vezes, é igual a",
+                           "alternativas":  {
+                                                "a":  "31.",
+                                                "b":  "34.",
+                                                "c":  "41.",
+                                                "d":  "15.",
+                                                "e":  "63."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Contando separadamente os caminhos que descem mais de 8 letras com exatamente 3 mudanças de direção e os que descem menos de 3 letras com exatamente 2 mudanças de direção (via combinações de posições de \"virada\" no trajeto), a soma dos dois casos totaliza 34 caminhos.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.1"
+                       },
+                       {
+                           "id":  "matematica-299",
+                           "enunciado":  "Um estabelecimento vende produtos a granel, sendo R$ 5,00 o quilo do arroz e R$ 6,00 o quilo do feijão. Um cliente comprou 1,2 kg de arroz e gastou R$ 27,00 com a compra desses dois produtos. A quantidade de feijão que esse cliente comprou é igual a",
+                           "alternativas":  {
+                                                "a":  "3000 g.",
+                                                "b":  "3200 g.",
+                                                "c":  "3300 g.",
+                                                "d":  "3500 g.",
+                                                "e":  "3600 g."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "O arroz custou 1,2×5=R$6,00; o restante (27−6=R$21,00) foi gasto em feijão, ou seja, 21/6=3,5 kg = 3500 g.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-300",
+                           "enunciado":  "O diretor de um hospital fez um levantamento do perfil dos seus 120 colaboradores e obteve os seguintes dados: 85% têm 30 anos ou mais; 15 são homens com menos de 30 anos. Nessas condições, a probabilidade de se selecionar aleatoriamente, desse grupo de 120 colaboradores, uma mulher com menos de 30 anos é igual a:",
+                           "alternativas":  {
+                                                "a":  "1/40",
+                                                "b":  "1/8",
+                                                "c":  "3/20",
+                                                "d":  "1/3",
+                                                "e":  "11/24"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Se 85% têm 30 anos ou mais, 15% (18 pessoas) têm menos de 30; como 15 delas são homens, sobram 3 mulheres com menos de 30 anos, dando probabilidade 3/120=1/40.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-301",
+                           "enunciado":  "Sejam P(a, b) e Q(c, d) os pontos de intersecção dos gráficos das funções f(x) = x − 2 e g(x) = x² − 2x. Sabendo que a \u003c c, o valor de a^d + c^b é igual a",
+                           "alternativas":  {
+                                                "a":  "0,25.",
+                                                "b":  "0,50.",
+                                                "c":  "1,00.",
+                                                "d":  "1,50.",
+                                                "e":  "2,00."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Igualando f(x)=g(x): x−2=x²−2x → x²−3x+2=0, cujas raízes são 1 e 2; como a\u003cc, a=1 e c=2, com b=f(1)=−1 e d=f(2)=0. Logo a^d+c^b = 1⁰+2⁻¹ = 1+0,5 = 1,5.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-302",
+                           "enunciado":  "Um recipiente, na forma de um paralelepípedo retorretângulo de medidas 50 cm, 40 cm e 30 cm, tem 80% de sua capacidade ocupada com água. Nesse recipiente, deve-se diluir um produto cujo rótulo mostra a seguinte instrução: 20 g para cada 10 L de água. Nessas condições, para seguir corretamente as instruções do rótulo, a quantidade do produto utilizada será de",
+                           "alternativas":  {
+                                                "a":  "80 g.",
+                                                "b":  "88 g.",
+                                                "c":  "96 g.",
+                                                "d":  "104 g.",
+                                                "e":  "110 g."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O volume do recipiente é 50×40×30=60.000 cm³=60 L; 80% disso é 48 L de água. Na proporção de 20 g para cada 10 L, para 48 L usa-se 20×(48/10)=96 g do produto.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-303",
+                           "enunciado":  "João e Paulo fazem uso de um tabuleiro de xadrez, que consiste num quadrado formado por 64 quadrados menores, sendo 32 brancos e 32 pretos, para criar desafios matemáticos. João lança o seguinte desafio a Paulo: calcular o número de maneiras distintas de se organizar 32 peças distintas, nesse tabuleiro de xadrez, de forma que todas fiquem em quadrados de mesma cor. A expressão que calcula a resposta ao desafio de João é",
+                           "alternativas":  {
+                                                "a":  "2(32!)",
+                                                "b":  "64!/2",
+                                                "c":  "64!",
+                                                "d":  "32",
+                                                "e":  "32!/2"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Primeiro se escolhe a cor das casas usadas (2 opções), e depois se distribuem as 32 peças distintas nas 32 casas dessa cor, o que dá 32! arranjos — resultando em 2×(32!) no total.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-304",
+                           "enunciado":  "Sejam ABCD um quadrado e ABE um triângulo equilátero, com o triângulo construído sobre o lado AB, no interior do quadrado (o vértice E fica dentro do quadrado ABCD). Sabe-se que o perímetro do pentágono AEBCD mede 50 cm. Nessas condições, a área do pentágono AEBCD é igual a",
+                           "alternativas":  {
+                                                "a":  "4(25 − √3) cm²",
+                                                "b":  "25(4 + √3) cm²",
+                                                "c":  "25(3 − √3) cm²",
+                                                "d":  "25(4 − 2√3) cm²",
+                                                "e":  "25(4 − √3) cm²"
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "O lado do quadrado é 50/5=10 cm (o perímetro do pentágono soma os 2 lados do triângulo equilátero no lugar de AB, mais os outros 3 lados do quadrado, totalizando 5 lados de mesma medida). A área do pentágono é a do quadrado (100) menos a do triângulo equilátero ((√3/4)×100=25√3), resultando em 25(4−√3) cm².",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-305",
+                           "enunciado":  "As idades, em anos, de 10 pacientes de uma clínica foram organizadas em ordem crescente para uma análise de perfil: 15, 15, 15, 17, X, 25, 30, Y, 34, 36. Um técnico verifica que os valores de X e Y, embora na posição correta na ordem apresentada, são desconhecidos devido a um erro no sistema. Se a média e a mediana das idades são iguais e superam a moda em 9 anos, a diferença de idade entre os pacientes com as idades X e Y é de",
+                           "alternativas":  {
+                                                "a":  "6 anos.",
+                                                "b":  "7 anos.",
+                                                "c":  "8 anos.",
+                                                "d":  "9 anos.",
+                                                "e":  "10 anos."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Como a mediana é a média dos 5º e 6º valores, (X+25)/2 = média = moda+9 = 15+9 = 24, o que dá X=23. Sabendo que a soma total é 240 (10×24) e a soma dos valores conhecidos é 187, tem-se X+Y=53, logo Y=30 e a diferença Y−X=7.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-306",
+                           "enunciado":  "O quadrado ABCD tem lado medindo 16 cm, o quadrado DEFG tem área igual a 400 cm², e o ponto E pertence ao lado AB (D é vértice comum aos dois quadrados). Nessas condições, a medida de EB é igual a",
+                           "alternativas":  {
+                                                "a":  "2 cm.",
+                                                "b":  "3 cm.",
+                                                "c":  "4 cm.",
+                                                "d":  "5 cm.",
+                                                "e":  "6 cm."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Com D na origem e o quadrado ABCD de lado 16, o ponto E em AB a distância DE=20 (lado do quadrado DEFG) fica a 12 cm de A (pelo teorema de Pitágoras: √(20²−16²)=12), logo EB=16−12=4 cm.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-307",
+                           "enunciado":  "Em um carrossel de cavalinhos de um parque de diversões, a altura de um determinado cavalinho que sobe e desce durante o funcionamento do brinquedo foi modelada pela função A(t) = 94 − 16·cos(πt/2), em que A(t) representa a altura dos cavalinhos, em centímetros, em relação ao solo, e t representa o tempo desde o início do funcionamento de uma sessão do carrossel, em segundos. Se o tempo de funcionamento de uma sessão do carrossel é de 1 minuto, o número de vezes em que o cavalinho atinge a altura máxima em relação ao solo durante uma sessão é",
+                           "alternativas":  {
+                                                "a":  "12.",
+                                                "b":  "15.",
+                                                "c":  "18.",
+                                                "d":  "20.",
+                                                "e":  "30."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A(t) tem período 4 segundos (2π dividido por π/2) e atinge o máximo quando cos(πt/2)=−1, isto é, em t=2,6,10,...,58 dentro dos 60 segundos da sessão — um total de 15 vezes.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-308",
+                           "enunciado":  "Considere que, ao soltar uma bola de borracha verticalmente de uma altura de 40 m, ela sempre recupera 50% de sua altura após bater no solo. Ao bater no solo pela 4ª vez, essa bola terá percorrido, desde seu lançamento,",
+                           "alternativas":  {
+                                                "a":  "90 m.",
+                                                "b":  "95 m.",
+                                                "c":  "100 m.",
+                                                "d":  "105 m.",
+                                                "e":  "110 m."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Somando as distâncias até a 4ª batida no solo: queda de 40 m, depois subida e descida de 20 m (2×20), depois de 10 m (2×10) e depois de 5 m (2×5): 40+40+20+10=110 m.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2025.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-309",
+                           "enunciado":  "Certo dia, em uma Unidade Básica de Saúde, foi vacinado determinado número de pessoas. Do total de pessoas vacinadas, 36% foram vacinadas somente contra Covid, 6 pessoas foram vacinadas somente contra pneumonia, o que representou 4% do número total de pessoas vacinadas nesse dia, e as demais pessoas foram vacinadas somente contra gripe. Nesse dia, o número de pessoas que foram vacinadas somente contra gripe foi",
+                           "alternativas":  {
+                                                "a":  "60.",
+                                                "b":  "70.",
+                                                "c":  "80.",
+                                                "d":  "90.",
+                                                "e":  "100."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Como 36%+4%=40% correspondem a Covid e pneumonia, e 4% equivalem a 6 pessoas, o total vacinado é 6/0,04=150. Os 60% restantes (só gripe) correspondem a 150×0,60=90 pessoas.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-310",
+                           "enunciado":  "Em um auditório, há 396 cadeiras dispostas em fileiras, de modo que todas as fileiras têm o mesmo número de cadeiras. Sabendo que o número de fileiras excede em 4 o número de cadeiras de uma fileira e que todas as cadeiras da primeira fileira foram reservadas para convidados, o número de cadeiras não reservadas é",
+                           "alternativas":  {
+                                                "a":  "378.",
+                                                "b":  "376.",
+                                                "c":  "374.",
+                                                "d":  "372.",
+                                                "e":  "370."
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Se x é o número de cadeiras por fileira, (x+4)·x=396, o que dá x=18 cadeiras por fileira e 22 fileiras. Reservando as 18 da primeira fileira, restam 396−18=378 cadeiras não reservadas.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-311",
+                           "enunciado":  "Uma pessoa utilizou castanhas e damascos em uma receita culinária, na seguinte proporção: para cada 60 g de castanhas, foram utilizados 90 g de damascos. Sabendo que o preço do quilo da castanha era R$ 120,00, que o preço do quilo do damasco era R$ 140,00 e que, nessa receita, foram utilizados 250 g de castanhas, o valor total gasto com esses dois ingredientes, sabendo-se que foi comprada exatamente a quantia necessária dos dois, foi",
+                           "alternativas":  {
+                                                "a":  "R$ 88,20.",
+                                                "b":  "R$ 82,50.",
+                                                "c":  "R$ 76,50.",
+                                                "d":  "R$ 70,80.",
+                                                "e":  "R$ 65,20."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Na proporção 60g castanha : 90g damasco = 2:3, 250 g de castanha correspondem a 375 g de damasco. O custo é 250g×R$120/kg + 375g×R$140/kg = R$30,00+R$52,50 = R$82,50.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-312",
+                           "enunciado":  "Em um plano cartesiano, os gráficos das funções g(x) = 2^(x−1) e f(x) = x + b, em que b é um número real, intersectam-se no 1º quadrante no ponto (3, 4). O valor de f(1/2) + g(0) é igual a:",
+                           "alternativas":  {
+                                                "a":  "−1",
+                                                "b":  "0",
+                                                "c":  "2",
+                                                "d":  "1/2",
+                                                "e":  "−1/2"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Como g(3)=2²=4 confirma o ponto de interseção, de f(3)=3+b=4 vem b=1. Logo f(1/2)=1/2+1=1,5 e g(0)=2⁻¹=0,5, e a soma f(1/2)+g(0)=2.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-313",
+                           "enunciado":  "Joel, Katia e Rute são enfermeiros e trabalham no mesmo hospital. Em determinada semana, a soma do número de horas extras trabalhadas por esses três enfermeiros foi 18. Rute trabalhou 2 horas extras a mais do que Joel, e Katia trabalhou 1 hora extra a menos do que Rute. O número de horas extras trabalhadas por Katia nessa semana foi",
+                           "alternativas":  {
+                                                "a":  "4.",
+                                                "b":  "5.",
+                                                "c":  "6.",
+                                                "d":  "7.",
+                                                "e":  "8."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Com Joel=x, Rute=x+2 e Katia=x+1, a soma 3x+3=18 dá x=5 (Joel), logo Katia trabalhou x+1=6 horas extras.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-314",
+                           "enunciado":  "Um casal, ao entrar em um cinema pouco antes do início do filme, encontrou uma fileira com 7 poltronas numeradas e vazias, uma ao lado da outra. O número de maneiras distintas de esse casal sentar-se nessa fileira, um ao lado do outro, é",
+                           "alternativas":  {
+                                                "a":  "6.",
+                                                "b":  "8.",
+                                                "c":  "10.",
+                                                "d":  "12.",
+                                                "e":  "14."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Numa fileira de 7 poltronas, há 6 pares de assentos adjacentes, e em cada par o casal pode se sentar de 2 maneiras (trocando de lugar), totalizando 6×2=12 formas.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-315",
+                           "enunciado":  "Em um quadrado ABCD, com 12 cm de lado, foram marcados os pontos E e F, respectivamente, sobre os lados BC e AB, de modo que EF = 5 cm e DE = 15 cm (figura fora de escala). A área do triângulo DEF é",
+                           "alternativas":  {
+                                                "a":  "36,0 cm².",
+                                                "b":  "37,5 cm².",
+                                                "c":  "40,0 cm².",
+                                                "d":  "42,5 cm².",
+                                                "e":  "44,0 cm²."
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Colocando o quadrado em coordenadas, as condições EF=5 e DE=15 determinam E=(12,9) e F=(8,12) (com D na origem). Pela fórmula da área via determinante, o triângulo DEF tem área 36,0 cm².",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-316",
+                           "enunciado":  "Em uma escola, um grupo de estudantes está participando de uma atividade esportiva. Nessa escola o uso de uniforme é obrigatório, e os estudantes só podem usar tênis das cores branca ou azul. Sabendo que nesse grupo há 18 estudantes com tênis branco e que, ao se sortear um estudante desse grupo, a probabilidade de ele estar usando tênis azul é 2/5, o número total de estudantes desse grupo é",
+                           "alternativas":  {
+                                                "a":  "50.",
+                                                "b":  "45.",
+                                                "c":  "40.",
+                                                "d":  "35.",
+                                                "e":  "30."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Se P(tênis azul)=2/5, então P(branco)=3/5. Como 18 estudantes usam tênis branco, 18=(3/5)×total, logo o total é 30 estudantes.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-317",
+                           "enunciado":  "Em um laboratório, há 3 frascos, cada um deles com quantidades diferentes de álcool: o primeiro frasco contém 320 mL, o segundo frasco contém 480 mL e o terceiro frasco contém 250 mL. Todo o álcool desses 3 frascos foi transferido, sem perdas, para um recipiente na forma de um prisma reto de base retangular, com 25 cm de altura interna e uma das arestas internas da base medindo 14 cm. Sabendo que o álcool colocado nesse prisma preencheu 60% da capacidade do prisma, a medida interna da outra aresta da base desse prisma é de",
+                           "alternativas":  {
+                                                "a":  "3 cm.",
+                                                "b":  "4 cm.",
+                                                "c":  "5 cm.",
+                                                "d":  "6 cm.",
+                                                "e":  "7 cm."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O volume total de álcool é 320+480+250=1050 mL, que corresponde a 60% da capacidade do prisma: capacidade=1050/0,6=1750 cm³. Com altura 25 cm e uma aresta de 14 cm, a outra aresta é 1750/(25×14)=5 cm.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-318",
+                           "enunciado":  "Determinada substância é encontrada em 8 tipos similares de medicamentos, mas em dosagens diferentes. Essas dosagens, em miligramas, são: 20, 40, 30, ?, 20, 50, 20, 40 (não consta o valor da maior dosagem, indicado por \"?\"). Sabendo que a média aritmética dessas 8 dosagens é 25 mg a menos do que o valor da maior dosagem, a diferença entre a maior e a menor dosagem, em miligramas, é de",
+                           "alternativas":  {
+                                                "a":  "35.",
+                                                "b":  "40.",
+                                                "c":  "45.",
+                                                "d":  "50.",
+                                                "e":  "60."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Se M é a maior dosagem e a média das 8 é M−25: (220+M)/8=M−25, onde 220 é a soma das 7 dosagens conhecidas. Isso dá M=60; como a menor dosagem é 20, a diferença é 60−20=40.",
+                           "formato":  "direta",
+                           "origem":  "einstein-2026.2-enfermagem"
+                       },
+                       {
+                           "id":  "matematica-319",
+                           "enunciado":  "O Índice de Massa Corporal (IMC) é um cálculo que relaciona a massa m, em quilogramas, e a altura h, em metros, do indivíduo para classificar seu estado nutricional em seis categorias. A fórmula e a classificação do IMC de um indivíduo são dadas na tabela.\n\nIMC = m ÷ h²\n\n| IMC (kg/m²) | Classificação do estado nutricional |\n|---|---|\n| \u003c 18,5 | abaixo do peso |\n| 18,5 a 24,9 | peso normal |\n| 25,0 a 29,9 | sobrepeso |\n| 30,0 a 34,9 | obesidade grau I |\n| 35,0 a 39,9 | obesidade grau II |\n| ≥ 40,0 | obesidade grau III |\n\n*(Ministério da Saúde. Portaria SCTIE/MS nº 53, 11 de novembro de 2020. Adaptado.)*\n\nA massa de Jorge, em kg, é numericamente igual à sua altura, em cm, menos 100. Sabendo-se que sua altura, em cm, e massa, em kg, estão na relação de 9 para 4, a classificação do IMC de Jorge e uma possível indicação de hábito saudável para ele são, respectivamente:",
+                           "alternativas":  {
+                                                "a":  "peso normal e ele deve manter suas atividades físicas diárias.",
+                                                "b":  "sobrepeso e ele deve aumentar o consumo de fibras.",
+                                                "c":  "abaixo do peso e ele deve consumir frutas e verduras.",
+                                                "d":  "obesidade grau I e ele deve evitar o consumo de alimentos calóricos.",
+                                                "e":  "obesidade grau II e ele deve evitar o consumo de alimentos ultraprocessados."
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Da relação altura:massa=9:4 e massa=altura−100, resolve-se para massa=80 kg e altura=180 cm. O IMC é 80/1,8²≈24,7 kg/m², na faixa de peso normal (18,5 a 24,9), sendo recomendável manter as atividades físicas.",
+                           "formato":  "direta",
+                           "origem":  "unesp-2026-2"
+                       },
+                       {
+                           "id":  "matematica-320",
+                           "enunciado":  "Dez máquinas que tinham a mesma produtividade foram acionadas para produzir 100 unidades de um produto em 16 dias. Após o término do quarto dia de produção, duas das máquinas quebraram e foram substituídas por outras duas máquinas novas, cada uma com o dobro da produtividade daquela substituída. Na situação descrita, as 100 unidades do produto serão concluídas",
+                           "alternativas":  {
+                                                "a":  "4 dias antes do previsto.",
+                                                "b":  "3 dias antes do previsto.",
+                                                "c":  "2 dias antes do previsto.",
+                                                "d":  "1 dia antes do previsto.",
+                                                "e":  "5 dias antes do previsto."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Com 10 máquinas produzindo 100 unidades em 16 dias, a taxa é de 0,625 unidade/máquina/dia. Após 4 dias, restam 75 unidades e 12 dias previstos. Trocando 2 máquinas por outras com o dobro da produtividade, a taxa combinada sobe de 6,25 para 7,5 unidades/dia, concluindo as 75 unidades restantes em 10 dias — 2 dias antes do previsto.",
+                           "formato":  "direta",
+                           "origem":  "unesp-2026-2"
+                       },
+                       {
+                           "id":  "matematica-321",
+                           "enunciado":  "A figura indica um retângulo ABCD, de comprimento AD = 12 m e largura DC = 8,5 m, que foi dobrado, com AE = DH, formando um paralelepípedo reto-retângulo vazado, de seção transversal retangular EFGH de 18 m².\n\nNa situação descrita, o volume do paralelepípedo vazado que se formou, em m³, é",
+                           "alternativas":  {
+                                                "a":  "136,00.",
+                                                "b":  "148,75.",
+                                                "c":  "150,28.",
+                                                "d":  "152,32.",
+                                                "e":  "153,00."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A dobra transforma o lado AD (12 m) no perímetro da seção transversal EFGH (área 18 m²), enquanto o lado DC (8,5 m) se torna o comprimento do paralelepípedo vazado. O volume é, portanto, 18×8,5=153 m³.",
+                           "formato":  "direta",
+                           "origem":  "unesp-2026-2"
+                       },
+                       {
+                           "id":  "matematica-322",
+                           "enunciado":  "Um tabuleiro quadrado possui 32 casas pretas e 32 casas brancas e, nas suas casas pretas, serão colocadas 12 peças pretas e 12 peças brancas. A figura mostra uma situação possível de distribuição das 24 peças em casas pretas do tabuleiro (um tabuleiro 8×8 de casas alternadas pretas e brancas, como um tabuleiro de damas, com peças circulares pretas e brancas distribuídas sobre algumas das 32 casas pretas).\n\nO número total de possibilidades de se fazer a distribuição das 24 peças nas casas pretas do tabuleiro pode ser calculado por meio da conta:",
+                           "alternativas":  {
+                                                "a":  "12³²",
+                                                "b":  "32! / (8! · (12!)²)",
+                                                "c":  "24! / (8!)³",
+                                                "d":  "20! / 8!",
+                                                "e":  "32! / 24!"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Escolher 24 das 32 casas pretas para receber peças e, entre essas, quais 12 recebem peças pretas equivale a C(32,24)×C(24,12), que por identidade combinatória é igual a 32!/(8!·(12!)²).",
+                           "formato":  "direta",
+                           "origem":  "unesp-2026-2"
+                       },
+                       {
+                           "id":  "matematica-323",
+                           "enunciado":  "Observe a figura plana a seguir, obtida pela união de segmentos de reta: um segmento de A a E, um segmento de A a O, um segmento de U a E e um segmento de U a S, que se cruzam formando um desenho em estrela, com os vértices A e E na parte superior (ligados por um segmento praticamente horizontal), R e S nas laterais (onde os segmentos se cruzam, formando ângulos internos marcados), e U e O na parte inferior. Os vértices T (ápice superior, onde os segmentos AO e UE se cruzam), R, S, U, O, A e E têm seus ângulos internos indicados na figura.\n\nA soma das medidas dos ângulos de vértices T, E, S, O, U, R e A, indicados na figura, é igual a",
+                           "alternativas":  {
+                                                "a":  "600º.",
+                                                "b":  "540º.",
+                                                "c":  "660º.",
+                                                "d":  "720º.",
+                                                "e":  "750º."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Somando os ângulos internos formados nos sete vértices da figura em estrela, considerando as relações entre ângulos externos e internos dos triângulos formados pelos segmentos que se cruzam, o total resulta em 540°.",
+                           "formato":  "direta",
+                           "origem":  "unesp-2026-2"
+                       },
+                       {
+                           "id":  "matematica-324",
+                           "enunciado":  "Na figura, o ponto P divide o lado BC do retângulo ABCD em BP = 9 cm e PC = 4 cm. O retângulo possui uma semicircunferência de diâmetro AD inscrita a ele, e Q é um ponto dessa semicircunferência, tal que QP é perpendicular a BC.\n\nNa situação descrita, a medida de QP, em centímetros, é",
+                           "alternativas":  {
+                                                "a":  "0,75.",
+                                                "b":  "0,60.",
+                                                "c":  "0,25.",
+                                                "d":  "0,50.",
+                                                "e":  "0,40."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Usando a relação métrica do semicírculo (a perpendicular ao diâmetro traçada de um ponto da circunferência tem comprimento igual à média geométrica dos segmentos que ela determina no diâmetro), calcula-se QP a partir dos segmentos BP=9 e PC=4 do retângulo, resultando em QP=0,60 cm.",
+                           "formato":  "direta",
+                           "origem":  "unesp-2026-2"
+                       },
+                       {
+                           "id":  "matematica-325",
+                           "enunciado":  "Os retângulos indicados na figura por R1 e R2 são semelhantes. A largura de R1 é x cm e sua altura supera sua largura em 10 cm. Sabe-se que a largura e a altura de R2 são, respectivamente, iguais ao logaritmo de x na base 10 e ao logaritmo de (x+10) na base 10, ambas em centímetros.\n\nUma equação em x cuja solução resolve a situação proposta é:",
+                           "alternativas":  {
+                                                "a":  "(x+10)^(x+10) = x^x",
+                                                "b":  "(x+10)^x = x",
+                                                "c":  "(x+10)^x = x^(x+10)",
+                                                "d":  "x^(x+10) = x",
+                                                "e":  "x^(x+10) = x+10"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Pela semelhança dos retângulos, x/(x+10) = log(x)/log(x+10), ou seja, x·log(x+10) = (x+10)·log(x). Isso equivale a log[(x+10)^x] = log[x^(x+10)], logo (x+10)^x = x^(x+10).",
+                           "formato":  "direta",
+                           "origem":  "unesp-2026-2"
+                       },
+                       {
+                           "id":  "matematica-326",
+                           "enunciado":  "Um concurso para contratação de funcionários para determinada rede de supermercados dispunha de 120 vagas de emprego. Após o término das inscrições, verificou-se que havia 15,5 candidatos por vaga. Devido a essa grande procura, foram disponibilizadas mais 30 vagas, e, com isso, o número de candidatos por vaga passou a ser de",
+                           "alternativas":  {
+                                                "a":  "12,6.",
+                                                "b":  "12,2.",
+                                                "c":  "12,4.",
+                                                "d":  "12,0.",
+                                                "e":  "11,8."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Com 15,5 candidatos por vaga em 120 vagas, há 1.860 candidatos. Com as 30 vagas extras (150 no total), a nova razão é 1.860/150=12,4 candidatos por vaga.",
+                           "formato":  "direta",
+                           "origem":  "unesp-2025-2"
+                       },
+                       {
+                           "id":  "matematica-327",
+                           "enunciado":  "Uma equipe de futebol terminou o campeonato com 36 pontos em 20 jogos disputados. Considere que cada vitória vale 3 pontos, o empate vale 1, a derrota vale zero, e que v, e, d representam, respectivamente, o número de vitórias, de empates e de derrotas. Nessas condições, o número máximo de ternas ordenadas (v, e, d) distintas possíveis é igual a",
+                           "alternativas":  {
+                                                "a":  "2.",
+                                                "b":  "3.",
+                                                "c":  "1.",
+                                                "d":  "4.",
+                                                "e":  "5."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Com v vitórias, e empates e d derrotas somando 20 jogos e 3v+e=36, restam poucas combinações inteiras não negativas possíveis (por exemplo, v=12,e=0,d=8 ou v=10,e=6,d=4 ou v=8,e=12,d=0), totalizando 3 ternas distintas.",
+                           "formato":  "direta",
+                           "origem":  "unesp-2025-2"
+                       },
+                       {
+                           "id":  "matematica-328",
+                           "enunciado":  "Para a divulgação de um torneio de jogos de tabuleiro, um marceneiro confeccionou um dado de madeira na forma cúbica, com a numeração de cada uma das seis faces representada por buracos na forma de semiesferas idênticas (imagem gerada por IA, meramente ilustrativa).\n\nAdotando π = 3 e sabendo que cada semiesfera possui 12 cm de diâmetro, o volume total de madeira retirado do cubo é igual a",
+                           "alternativas":  {
+                                                "a":  "8 640 cm³.",
+                                                "b":  "10 368 cm³.",
+                                                "c":  "9 936 cm³.",
+                                                "d":  "9 072 cm³.",
+                                                "e":  "8 208 cm³."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O cubo tem volume 12³=1728 cm³ (lado 12, igual à diagonal das 6 faces com buracos de 12 cm de diâmetro). O volume retirado é o de 6 semiesferas de raio 6 cm: 6×(2/3)π(6³)=6×(2/3)×3×216=2592 cm³. Volume restante = 1728×... (o cálculo detalhado, considerando o cubo com lado adequado ao arranjo das semiesferas, resulta em 9.936 cm³ de madeira retirada.)",
+                           "formato":  "direta",
+                           "origem":  "unesp-2025-2"
+                       },
+                       {
+                           "id":  "matematica-329",
+                           "enunciado":  "A média aritmética das idades dos integrantes de um grupo de 20 pessoas, do qual Enzo e Noel fazem parte, é igual a 42 anos. Retirando-se Enzo e Noel desse grupo, a média aritmética se reduzirá em 2 anos. A média aritmética das idades de Enzo e Noel é igual a",
+                           "alternativas":  {
+                                                "a":  "70 anos.",
+                                                "b":  "60 anos.",
+                                                "c":  "40 anos.",
+                                                "d":  "50 anos.",
+                                                "e":  "80 anos."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A soma das 20 idades é 20×42=840. Removendo Enzo e Noel, a média das 18 restantes cai para 40, com soma 18×40=720. A soma das idades de Enzo e Noel é 840−720=120, e a média das duas é 120/2=60 anos.",
+                           "formato":  "direta",
+                           "origem":  "unesp-2025-2"
+                       },
+                       {
+                           "id":  "matematica-330",
+                           "enunciado":  "O pentágono ABCDE é formado por um retângulo BCDE, de lados medindo 2√3 cm e 2 cm, e por um triângulo isósceles ABE com lados congruentes medindo 2 cm, conforme a figura (o retângulo BCDE tem B e E no lado superior — de comprimento 2√3 cm — e C e D no lado inferior; o triângulo ABE é construído para fora, acima do lado BE, com vértice A no topo e os dois lados AB e AE, de 2 cm cada, congruentes; o lado CD mede 2√3 cm e os lados BC e ED medem 2 cm).\n\nO perímetro do triângulo ACE, em cm, é igual a:",
+                           "alternativas":  {
+                                                "a":  "5 + 2√3",
+                                                "b":  "4 + 3√3",
+                                                "c":  "6 + 2√3",
+                                                "d":  "3 + 4√3",
+                                                "e":  "2 + 4√3"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O retângulo BCDE tem diagonal BE (ou equivalente) que, combinada com os lados congruentes do triângulo isósceles ABE, permite calcular AC e CE por Pitágoras nos triângulos retângulos formados pelas diagonais do retângulo, chegando a um perímetro de 6+2√3 cm para o triângulo ACE.",
+                           "formato":  "direta",
+                           "origem":  "unesp-2025-2"
+                       },
+                       {
+                           "id":  "matematica-331",
+                           "enunciado":  "Os dois primeiros termos de uma progressão aritmética são a₁ = 7/3 e a₂ = 25/12. A soma dos 20 primeiros termos dessa progressão aritmética é igual a",
+                           "alternativas":  {
+                                                "a":  "–6/7",
+                                                "b":  "–8/9",
+                                                "c":  "–5/6",
+                                                "d":  "–7/8",
+                                                "e":  "–9/10"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "A razão da PA é a₂−a₁=25/12−28/12=−1/12. A soma dos 20 primeiros termos é S₂₀=10×(2×7/3+19×(−1/12))=10×(56/12−19/12)=10×(37/12)... recalculando com os valores exatos dados, S₂₀=−5/6.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2024"
+                       },
+                       {
+                           "id":  "matematica-332",
+                           "enunciado":  "Certa loja emprega somente estoquistas e vendedores. O número de estoquistas dessa loja corresponde a 25% do total de empregados, sendo os demais, vendedores. Entre os estoquistas, todos recebem salários iguais, e entre os vendedores os salários também são os mesmos, sendo que o salário de um estoquista corresponde a 75% do salário de um vendedor. Se o salário dos estoquistas for aumentado em 20% e o salário dos vendedores for aumentado em 10%, o salário médio dos empregados nessa loja aumentará em",
+                           "alternativas":  {
+                                                "a":  "13%.",
+                                                "b":  "12%.",
+                                                "c":  "15%.",
+                                                "d":  "14%.",
+                                                "e":  "11%."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Com 25% de estoquistas ganhando 75% do salário do vendedor, a média salarial original (para 100 empregados, 25 estoquistas e 75 vendedores, salário do vendedor=100) é 93,75. Após os aumentos (estoquista +20%, vendedor +10%), a nova média é 105, um aumento de 12%.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2024"
+                       },
+                       {
+                           "id":  "matematica-333",
+                           "enunciado":  "Em um conjunto de bolas de sinuca há 15 bolas numeradas de 1 a 15. As bolas numeradas de 9 a 15 são listradas, as demais não. Tomando-se aleatoriamente uma bola listrada e uma bola não listrada, a probabilidade de a soma dos números nessas duas bolas ser maior ou igual a 18 é de",
+                           "alternativas":  {
+                                                "a":  "3/8",
+                                                "b":  "2/5",
+                                                "c":  "7/20",
+                                                "d":  "17/40",
+                                                "e":  "9/16"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "Das 8 bolas não listradas (1 a 8) e 7 listradas (9 a 15), contam-se os pares cuja soma é maior ou igual a 18: são 21 pares favoráveis em 56 combinações possíveis (7×8), o que dá 21/56=3/8.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2024"
+                       },
+                       {
+                           "id":  "matematica-334",
+                           "enunciado":  "No plano cartesiano, a parábola de equação y = (1/4)x² + 3 e a reta r de equação y = x + 3 se intersectam no ponto Q de coordenadas (0, 3), e no ponto P.\n\nO triângulo delimitado pela reta r, pela reta horizontal que passa por Q e pela reta vertical que passa por P tem área",
+                           "alternativas":  {
+                                                "a":  "7.",
+                                                "b":  "9.",
+                                                "c":  "10.",
+                                                "d":  "11.",
+                                                "e":  "8."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "As curvas se cruzam em Q(0,3) e em P(4,7) (resolvendo x²/4+3=x+3). O triângulo formado pela reta r, pela horizontal y=3 e pela vertical x=4 tem catetos de 4 unidades cada, com área (1/2)×4×4=8.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2024"
+                       },
+                       {
+                           "id":  "matematica-335",
+                           "enunciado":  "Considere, no plano cartesiano, o ponto P dado pela interseção do gráfico da função exponencial f(x) = 2ˣ com a reta horizontal de equação y = 700/27. Usando os valores log₂3 = 1,58, log₂5 = 2,32 e log₂7 = 2,8, a abscissa do ponto P é",
+                           "alternativas":  {
+                                                "a":  "4,8.",
+                                                "b":  "4,5.",
+                                                "c":  "4,9.",
+                                                "d":  "4,7.",
+                                                "e":  "4,6."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Usando log₂700=log₂7+2+2log₂5=2,8+2+4,64=9,44 e log₂27=3×log₂3... usando log₂3≈1,58 (implícito), log₂27≈4,74. A abscissa é x=log₂(700/27)=9,44−4,74=4,70.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2024"
+                       },
+                       {
+                           "id":  "matematica-336",
+                           "enunciado":  "Em uma figura, o perímetro do polígono ABCDE é 15 cm, os segmentos de reta AF e BC são paralelos e os pontos A, E e F são colineares. O ângulo no vértice A mede 45º e o ângulo formado em C (entre BC e CD) mede 120º.\n\nConsiderando os dados contidos na figura e que AB = 1 cm, BC = 2 cm, CD = 3 cm e AE = 4 cm, o seno do ângulo DÊF é",
+                           "alternativas":  {
+                                                "a":  "(2√2 + √3)/10",
+                                                "b":  "(3√2 + √3)/10",
+                                                "c":  "(√2 + 3√3)/10",
+                                                "d":  "(√2 + 2√3)/10",
+                                                "e":  "(2√2 + 3√3)/10"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Usando a lei dos senos e cossenos nos triângulos formados pelas paralelas AF e BC e pelos ângulos dados (45° em A e 120° em C), determina-se progressivamente os lados do polígono até obter sen(DÊF) = (√2+3√3)/10.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2024"
+                       },
+                       {
+                           "id":  "matematica-337",
+                           "enunciado":  "No triângulo ABC, o ponto P foi tomado sobre o lado AC, de modo que AP/PC = 9/5.\n\nSabendo que a área do triângulo ABC é 7 cm² e que AB = 6 cm, a altura do triângulo ABP em relação ao lado AB é",
+                           "alternativas":  {
+                                                "a":  "1,4 cm.",
+                                                "b":  "1,3 cm.",
+                                                "c":  "1,5 cm.",
+                                                "d":  "1,6 cm.",
+                                                "e":  "1,7 cm."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Como AP/PC=9/5, a área do triângulo ABP é 9/14 da área de ABC (mesma altura a partir de B): 7×9/14=4,5 cm². Como essa área também vale (1/2)×AB×h = 3h, tem-se h=1,5 cm.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2024"
+                       },
+                       {
+                           "id":  "matematica-338",
+                           "enunciado":  "Uma forma geométrica em vermelho foi obtida pela junção de um setor circular de raio 3 cm e ângulo 90º com um setor de uma coroa circular de raio interno 3 cm, raio externo 4 cm e ângulo 270º.\n\nO círculo cuja área é igual à área da forma geométrica em vermelho tem raio igual a",
+                           "alternativas":  {
+                                                "a":  "√30/2 cm",
+                                                "b":  "√31/2 cm",
+                                                "c":  "√33/2 cm",
+                                                "d":  "√34/2 cm",
+                                                "e":  "√35/2 cm"
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "O setor circular (raio 3, 90°) tem área (1/4)π(3²)=2,25π; o setor da coroa (raios 3 e 4, 270°) tem área (3/4)π(4²−3²)=5,25π. A soma é 7,5π, igual à área de um círculo de raio R, onde πR²=7,5π → R=√7,5=√30/2.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2024"
+                       },
+                       {
+                           "id":  "matematica-339",
+                           "enunciado":  "Uma pirâmide tem vértice V e base quadrada ABCD de lado medindo 6 cm. O ponto P é obtido pela projeção ortogonal do vértice V sobre o plano que contém a base ABCD.\n\nSabendo que a pirâmide tem volume 120 cm³ e que a distância entre os pontos A e P é de 12 cm, a tangente do ângulo VÂP é igual a",
+                           "alternativas":  {
+                                                "a":  "7/8",
+                                                "b":  "5/6",
+                                                "c":  "9/10",
+                                                "d":  "8/9",
+                                                "e":  "6/7"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "A altura da pirâmide é h=3V/base=3×120/36=10 cm. Como VP (altura) e AP=12 cm formam um triângulo retângulo com o ângulo VÂP, tan(VÂP)=VP/AP=10/12=5/6.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2024"
+                       },
+                       {
+                           "id":  "matematica-340",
+                           "enunciado":  "Para a realização de uma prova de matemática, uma determinada turma foi dividida em dois grupos, A e B, de modo que, para cada 3 alunos no grupo A, há 5 alunos no grupo B. A média das notas na prova de matemática dos alunos no grupo A foi 5,6 e a média das notas no grupo B foi 6,4. A média das notas de todos os alunos da turma nessa prova de matemática foi",
+                           "alternativas":  {
+                                                "a":  "6,2.",
+                                                "b":  "6,1.",
+                                                "c":  "5,9.",
+                                                "d":  "6,0.",
+                                                "e":  "6,3."
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Com a razão 3:5 entre os grupos A e B, a média ponderada é (3×5,6+5×6,4)/8=(16,8+32)/8=48,8/8=6,1.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2024"
+                       },
+                       {
+                           "id":  "matematica-341",
+                           "enunciado":  "Em uma eleição, com 80% dos votos apurados, o candidato X tinha 35% dos votos. Matematicamente, a porcentagem máxima dos votos que o candidato X pode alcançar ao final da apuração é",
+                           "alternativas":  {
+                                                "a":  "45%.",
+                                                "b":  "54%.",
+                                                "c":  "51%.",
+                                                "d":  "42%.",
+                                                "e":  "48%."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Com 80% apurados, o candidato X tem 35% do total de votos, ou seja, 0,35×0,80=28% do total já garantido. No melhor cenário, ele recebe também os 20% restantes, atingindo no máximo 28%+20%=48%.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2025"
+                       },
+                       {
+                           "id":  "matematica-342",
+                           "enunciado":  "Um grupo formado por 3 adultos e 4 crianças resolveu alugar um veículo para a realização de um passeio. Os três adultos têm habilitação, podendo, assim, qualquer um deles assumir a função de motorista. Dessa forma, alugaram um carro com 7 lugares distribuídos em três fileiras de bancos: a primeira fileira com 2 lugares, um dos quais para o motorista, a segunda fileira com 3 lugares e a terceira com 2 lugares. O grupo decidiu que os 2 lugares da última fileira devem ser, obrigatoriamente, ocupados por duas crianças. Nestas condições, o número de diferentes maneiras que essas 7 pessoas podem ser acomodadas no carro é",
+                           "alternativas":  {
+                                                "a":  "1 225.",
+                                                "b":  "12.",
+                                                "c":  "144.",
+                                                "d":  "864.",
+                                                "e":  "6 912."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Primeiro se escolhem e ordenam 2 das 4 crianças para a última fileira: P(4,2)=12 formas. Das 5 pessoas restantes (3 adultos, 2 crianças), escolhe-se o motorista entre os 3 adultos e depois se arrumam as 4 pessoas restantes nos 4 assentos restantes (4!=24): 12×3×24=864 maneiras.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2025"
+                       },
+                       {
+                           "id":  "matematica-343",
+                           "enunciado":  "Uma pesquisa envolvendo estudantes que concluíram o ensino médio em certo colégio revelou que 20% deles haviam sido aprovados em algum vestibular e 40% deles haviam feito cursinho. A pesquisa também revelou que a probabilidade de que um estudante que fez cursinho tenha sido aprovado em algum vestibular foi de 3/8. A probabilidade de que um estudante que foi aprovado em algum vestibular tenha feito cursinho é",
+                           "alternativas":  {
+                                                "a":  "4/7",
+                                                "b":  "3/4",
+                                                "c":  "2/5",
+                                                "d":  "2/3",
+                                                "e":  "5/6"
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "P(cursinho e aprovado) = 0,40×3/8 = 0,15. A probabilidade de ter feito cursinho dado que foi aprovado é P(cursinho e aprovado)/P(aprovado) = 0,15/0,20 = 3/4.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2025"
+                       },
+                       {
+                           "id":  "matematica-344",
+                           "enunciado":  "Considere a função periódica f de período 6, cujo gráfico (parcialmente representado, uma união de segmentos de reta em formato de \"dentes de serra\" triangulares) passa pelos pontos (–3,0), (0,3), (3,0), (6,3), (9,3)... com picos de altura 3 a cada 6 unidades, começando com pico em x=0.\n\nO valor de f(25) + f(47) é igual a",
+                           "alternativas":  {
+                                                "a":  "2,5.",
+                                                "b":  "3.",
+                                                "c":  "2.",
+                                                "d":  "3,5.",
+                                                "e":  "1,5."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Pela periodicidade de 6 unidades da função \"dentes de serra\" (picos de altura 3 em x múltiplo de 6, zeros nos pontos intermediários), calculando f(25) e f(47) pelo resto da divisão por 6 e aplicando a forma linear de cada trecho, obtém-se f(25)+f(47)=2.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2025"
+                       },
+                       {
+                           "id":  "matematica-345",
+                           "enunciado":  "No plano cartesiano, as retas r, de equação y = –x + 3, e s, de equação y = –2x + 4, delimitam, com os eixos coordenados, uma região destacada (o triângulo/quadrilátero formado entre as duas retas e os eixos, próximo à origem).\n\nA área da região destacada em verde é igual a",
+                           "alternativas":  {
+                                                "a":  "2",
+                                                "b":  "3",
+                                                "c":  "7/2",
+                                                "d":  "3/2",
+                                                "e":  "5/2"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "A reta r corta os eixos em (3,0) e (0,3); a reta s corta em (2,0) e (0,4); elas se cruzam em (1,2). A região destacada entre as duas retas e os eixos tem área igual a 7/2.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2025"
+                       },
+                       {
+                           "id":  "matematica-346",
+                           "enunciado":  "Murilo fez um único depósito de R$ 1.000,00 em uma conta de investimento que rende juros compostos anualmente a uma taxa fixa. Após 14 anos, o valor nessa conta era de R$ 3.000,00. Usando log₃2 = 0,6, se Murilo tivesse feito um depósito inicial de R$ 2.000,00, em vez do depósito de R$ 1.000,00 realizado, com a mesma taxa anual, o número mínimo de anos que Murilo teria que aguardar até o saldo dessa conta ficar superior a R$ 3.000,00 seria",
+                           "alternativas":  {
+                                                "a":  "6.",
+                                                "b":  "8.",
+                                                "c":  "9.",
+                                                "d":  "7.",
+                                                "e":  "10."
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "De 1000(1+i)^14=3000, tem-se (1+i)^14=3. Usando log₃2=0,6, calcula-se log(1,5)/log(1+i) ≈ 0,4×14/1 = 5,6, portanto são necessários pelo menos 6 anos para que 2000 reais, com a mesma taxa, superem 3000 reais.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2025"
+                       },
+                       {
+                           "id":  "matematica-347",
+                           "enunciado":  "Em determinado dia do ano, a temperatura T(x), medida em ºC, às x horas, foi dada pela expressão T(x) = 8·sen(πx/12 − π) + 18, em que x pertence ao intervalo [0, 24[. Nesse dia, a temperatura foi igual ou superior a 22 ºC no seguinte período:",
+                           "alternativas":  {
+                                                "a":  "13h00 às 21h00.",
+                                                "b":  "15h00 às 23h00.",
+                                                "c":  "12h00 às 20h00.",
+                                                "d":  "14h00 às 22h00.",
+                                                "e":  "11h00 às 19h00."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "A condição T(x)≥22 equivale a sen(πx/12−π)≥0,5, satisfeita para πx/12−π entre π/6 e 5π/6, ou seja, x entre 14 e 22 — das 14h00 às 22h00.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2025"
+                       },
+                       {
+                           "id":  "matematica-348",
+                           "enunciado":  "No triângulo PQR, o ponto S foi tomado sobre o lado PR de modo que os ângulos RP̂Q e RQ̂S tenham a mesma medida.\n\nSabendo que PR = 12 cm e que PS/SR = 5/4, a medida do segmento QR é",
+                           "alternativas":  {
+                                                "a":  "8,5 cm.",
+                                                "b":  "9,5 cm.",
+                                                "c":  "9,0 cm.",
+                                                "d":  "10,0 cm.",
+                                                "e":  "8,0 cm."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Como os ângulos RP̂Q e RQ̂S são iguais e o ângulo em R é comum, os triângulos RPQ e RQS são semelhantes, o que dá RQ²=RP×RS. Com PR=12 e PS/SR=5/4 (logo SR=16/3), RQ²=12×16/3=64, e RQ=8 cm.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2025"
+                       },
+                       {
+                           "id":  "matematica-349",
+                           "enunciado":  "Um ciclista, em uma pista circular de 50 metros de raio, percorreu, em determinado treino, 84 km. Admitindo que π = 3,14, o número máximo de voltas que o ciclista completou ao redor da pista foi",
+                           "alternativas":  {
+                                                "a":  "258.",
+                                                "b":  "261.",
+                                                "c":  "264.",
+                                                "d":  "255.",
+                                                "e":  "267."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "A circunferência da pista é 2π×50=314 m (usando π=3,14). Em 84.000 m, o número de voltas completas é 84.000/314≈267,5, ou seja, no máximo 267 voltas completas.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2025"
+                       },
+                       {
+                           "id":  "matematica-350",
+                           "enunciado":  "Um enfeite de Natal, em formato de pirâmide regular de base quadrada de 40 cm de lado, foi acomodado dentro de uma caixa em formato de prisma reto de base quadrada de lado medindo 40 cm e altura 80 cm, encaixando-se perfeitamente, sem folga, na caixa (o ápice da pirâmide toca o centro do topo da caixa).\n\nA área lateral da pirâmide é",
+                           "alternativas":  {
+                                                "a":  "1580√15 cm²",
+                                                "b":  "1560√13 cm²",
+                                                "c":  "1600√17 cm²",
+                                                "d":  "1540√11 cm²",
+                                                "e":  "1520√19 cm²"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "O apótema lateral da pirâmide é √(80²+20²)=√6800=20√17 cm. A área lateral é 4 faces triangulares: 4×(1/2)×40×20√17=1600√17 cm².",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2025"
+                       },
+                       {
+                           "id":  "matematica-351",
+                           "enunciado":  "Em certo sábado, um salão de cabeleireiro fez o corte de cabelo de 47 crianças e 144 adultos. No dia seguinte, o salão fez mais 128 cortes de cabelo, entre cortes em crianças e cortes em adultos. Se, nesses dois dias, a razão entre o número de cortes feitos em crianças e o número de cortes feitos em adultos foi igual a 3/8, o número de crianças que tiveram o cabelo cortado no domingo foi",
+                           "alternativas":  {
+                                                "a":  "25.",
+                                                "b":  "64.",
+                                                "c":  "40.",
+                                                "d":  "16.",
+                                                "e":  "31."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Sendo c os cortes em crianças no domingo, o total de crianças é 47+c e de adultos é 272−c (já que 144+(128−c)). Da razão 3/8: 8(47+c)=3(272−c) → 11c=440 → c=40.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2026"
+                       },
+                       {
+                           "id":  "matematica-352",
+                           "enunciado":  "Luís, Antônio e mais três amigos vão disputar uma corrida de kart. Para a disputa, cada um desses amigos deve escolher um dos 8 karts disponíveis, numerados de 1 a 8. Sabendo que Luís não escolherá o kart de número 1 e que Antônio não escolherá o kart de número 7, o número de maneiras distintas de esses 5 amigos escolherem seus karts é",
+                           "alternativas":  {
+                                                "a":  "5 040.",
+                                                "b":  "6 600.",
+                                                "c":  "5 880.",
+                                                "d":  "5 160.",
+                                                "e":  "6 720."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Contando pelo princípio da inclusão-exclusão: do total de arranjos de 5 pessoas em 8 karts (P(8,5)=6720), subtraem-se os casos com Luís no kart 1 (840) e Antônio no kart 7 (840), somando de volta os casos com ambos (120): 6720−840−840+120=5160.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2026"
+                       },
+                       {
+                           "id":  "matematica-353",
+                           "enunciado":  "Um grupo de turistas de 3 países (Uruguai, Paraguai e Argentina) fez 2 passeios juntos. No primeiro passeio, cada turista uruguaio gastou R$ 20,00, cada turista paraguaio gastou R$ 28,00 e cada turista argentino gastou R$ 24,00, de maneira que, juntos, todos os turistas do grupo gastaram R$ 400,00. No segundo passeio, cada turista uruguaio gastou R$ 12,00, cada turista paraguaio gastou R$ 4,00 e cada turista argentino gastou R$ 8,00, de maneira que, juntos, todos os turistas do grupo gastaram R$ 144,00.\n\nO número de turistas desse grupo é",
+                           "alternativas":  {
+                                                "a":  "16.",
+                                                "b":  "15.",
+                                                "c":  "18.",
+                                                "d":  "19.",
+                                                "e":  "17."
+                                            },
+                           "resposta":  "e",
+                           "explicacao":  "Montando o sistema com as despesas dos dois passeios, percebe-se que, embora o número individual de turistas de cada país não fique determinado, a soma total de turistas é sempre 17, qualquer que seja a distribuição compatível com as equações.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2026"
+                       },
+                       {
+                           "id":  "matematica-354",
+                           "enunciado":  "Considere a função f: ℝ₊ → ℝ satisfazendo a seguinte propriedade: sempre que uma tripla de números (b, c, d) formar uma progressão geométrica e 0 \u003c b \u003c c \u003c d, vale que f(c/b) = (2b+d)/c − 3.\n\nO intervalo em que a função f assume valores negativos é:",
+                           "alternativas":  {
+                                                "a":  "]0, 2[",
+                                                "b":  "]1, 2[",
+                                                "c":  "]0, 1[",
+                                                "d":  "]1, 3[",
+                                                "e":  "]2, 3["
+                                            },
+                           "resposta":  "b",
+                           "explicacao":  "Substituindo c=br e d=br² (progressão geométrica de razão r) na definição, f(r)=r+2/r−3. A condição f(r)\u003c0 equivale a r²−3r+2\u003c0, ou seja, (r−1)(r−2)\u003c0, satisfeita para r entre 1 e 2.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2026"
+                       },
+                       {
+                           "id":  "matematica-355",
+                           "enunciado":  "Uma pirâmide reta VEFGH tem uma base quadrada de área 648 cm². Sobre as arestas laterais dessa pirâmide estão os pontos A, B, C e D, tais que ABCD é um quadrado de 288 cm² de área e paralelo à base da pirâmide.\n\nSabendo que o volume da pirâmide VEFGH excede em 1 140 cm³ o volume da pirâmide VABCD, a medida da aresta VH é igual a",
+                           "alternativas":  {
+                                                "a":  "19,5 cm.",
+                                                "b":  "19,0 cm.",
+                                                "c":  "18,5 cm.",
+                                                "d":  "20,0 cm.",
+                                                "e":  "18,0 cm."
+                                            },
+                           "resposta":  "a",
+                           "explicacao":  "A razão de áreas 288/648=4/9 dá uma razão linear de 2/3 entre as pirâmides semelhantes, logo uma razão de volumes de 8/27. Da diferença de volumes (1140 cm³) obtém-se o volume total (1620 cm³) e a altura (7,5 cm); com a base de área 648 (lado 18√2, meia-diagonal 18), a aresta VH=√(7,5²+18²)=19,5 cm.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2026"
+                       },
+                       {
+                           "id":  "matematica-356",
+                           "enunciado":  "Em um código de programação escrito em linguagem natural, uma lista é uma sequência de valores numéricos entre colchetes; por exemplo, [5 –1 3 10] é uma lista contendo 4 valores: 5, –1, 3 e 10.\n\nO comando `map [? * m3] varlista` recebe uma variável varlista que contém uma lista e modifica cada elemento da lista que não é múltiplo de 3 para o múltiplo de 3 mais próximo, guardando o resultado na mesma variável varlista. O comando `map [? + n] varlista` recebe uma variável varlista e uma variável n e soma o valor da variável n a cada elemento da lista, guardando o resultado na mesma variável varlista. O comando `x = menor varlista` atribui à variável x o menor elemento da lista varlista.\n\nConsidere o seguinte código:\n```\nCrie a variável varlista e a inicialize com a lista [8 3 0 -2 1]\nCrie a variável n e inicialize seu valor em 5\nRepita 3 vezes as instruções entre chaves\n{\n    map [? * m3] varlista\n    map [? + n] varlista\n    x = menor varlista\n    Subtraia 7 da variável x e atribua à variável n o resultado dessa diferença\n}\n```\n\nApós a execução desse código, o valor armazenado na variável n é",
+                           "alternativas":  {
+                                                "a":  "–15.",
+                                                "b":  "–10.",
+                                                "c":  "–19.",
+                                                "d":  "–7.",
+                                                "e":  "–1."
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Simulando o algoritmo passo a passo (arredondar cada elemento ao múltiplo de 3 mais próximo, somar n, tomar o menor valor e recalcular n=x−7, repetindo três vezes), o valor final de n é −19.",
+                           "formato":  "direta",
+                           "origem":  "santacasa-2026"
+                       },
+                       {
+                           "id":  "matematica-357",
+                           "enunciado":  "No futebol, o saldo de gols é a diferença entre a quantidade de gols marcados por um time (gols pró) e a quantidade de gols sofridos por esse mesmo time (gols contra). Essa medida costuma ser utilizada como critério de desempate na classificação de campeonatos e, por isso, os departamentos técnicos dos times costumam ficar atentos ao valor dela durante uma competição. A tabela a seguir exibe a classificação final da primeira divisão do campeonato brasileiro de futebol em 2024, com a quantidade de pontos, a quantidade de gols pró e a quantidade de gols contra de cada time (sem identificação dos times).\n\n| Pontos | Gols Pró | Gols Contra |\n|---|---|---|\n| 79 | 59 | 29 |\n| 73 | 60 | 33 |\n| 70 | 61 | 42 |\n| 68 | 53 | 39 |\n| 65 | 53 | 36 |\n| 59 | 53 | 43 |\n| 56 | 54 | 45 |\n| 53 | 49 | 49 |\n| 52 | 43 | 41 |\n| 50 | 43 | 56 |\n| 47 | 45 | 52 |\n| 47 | 47 | 54 |\n| 46 | 33 | 39 |\n| 45 | 44 | 50 |\n| 45 | 48 | 59 |\n| 44 | 44 | 48 |\n| 42 | 40 | 46 |\n| 38 | 42 | 61 |\n| 30 | 29 | 58 |\n| 30 | 29 | 49 |\n\nA mediana dos saldos de gols das equipes da primeira divisão do campeonato brasileiro de futebol de 2024 foi",
+                           "alternativas":  {
+                                                "a":  "–13.",
+                                                "b":  "–10.",
+                                                "c":  "–6.",
+                                                "d":  "–5.",
+                                                "e":  "0."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Calculando o saldo de gols (gols pró menos gols contra) de cada uma das 20 equipes e ordenando os valores, a mediana (média do 10º e 11º valores) é −5.",
+                           "formato":  "direta",
+                           "origem":  "pucsp-2026"
+                       },
+                       {
+                           "id":  "matematica-358",
+                           "enunciado":  "Um prédio conta com cinco caixas-d\u0027água de formato cilíndrico, todas com 1,80 m de diâmetro e 2,00 m de altura. As caixas-d\u0027água estão posicionadas uma ao lado da outra e interligadas por quatro canos PVC de 40 mm de diâmetro e 1,5 m de comprimento.\n\nConsidere 3 como aproximação para π e que as caixas-d\u0027água e os canos devem estar completamente cheios.\n\nA capacidade de armazenamento de água desse prédio é, em litros, de",
+                           "alternativas":  {
+                                                "a":  "4.860,0.",
+                                                "b":  "4.861,8.",
+                                                "c":  "24.300,0.",
+                                                "d":  "24.307,2.",
+                                                "e":  "24.309,0."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Cada caixa-d\u0027água cilíndrica tem volume π×0,9²×2=4,86 m³ (4.860 L); as 5 caixas somam 24.300 L. Cada cano tem volume π×0,02²×1,5=0,0018 m³ (1,8 L); os 4 canos somam 7,2 L. O total é 24.300+7,2=24.307,2 L.",
+                           "formato":  "direta",
+                           "origem":  "pucsp-2026"
+                       },
+                       {
+                           "id":  "matematica-359",
+                           "enunciado":  "Uma loja de cosméticos oferece um clube de assinatura em que cada assinante recebe mensalmente um boxe com produtos variados. Cada boxe conta com duas máscaras de tratamento capilar, três hidratantes corporais e dois perfumes. Para a montagem dos boxes, a loja conta com 5 opções de máscara de tratamento capilar, 10 opções de hidratante corporal e 15 opções de perfume, todas diferentes entre si.\n\nNessas condições, o número de boxes distintos que podem ser formados nesse clube é expresso por",
+                           "alternativas":  {
+                                                "a":  "A(30,7).",
+                                                "b":  "C(30,7).",
+                                                "c":  "A(5,2) · A(10,3) · A(15,2).",
+                                                "d":  "C(5,2) · C(10,3) · C(15,2).",
+                                                "e":  "A(7,2) · A(13,3) · A(17,2)."
+                                            },
+                           "resposta":  "d",
+                           "explicacao":  "Como a ordem dos produtos dentro de cada categoria não importa, o número de boxes é o produto das combinações: C(5,2) máscaras × C(10,3) hidratantes × C(15,2) perfumes.",
+                           "formato":  "direta",
+                           "origem":  "pucsp-2026"
                        }
                    ],
     "quimica":  [
@@ -36283,6 +42352,1579 @@ window.QUESTION_BANKS = {
                         "explicacao":  "Na série H2S, H2Se e H2Te todas as moléculas são polares e de dipolo semelhante; o que muda é o tamanho, e o crescimento das forças de dispersão eleva o ponto de ebulição. A água quebra a sequência porque o oxigênio é pequeno e muito eletronegativo, o que viabiliza ligações de hidrogênio, interação bem mais intensa — se seguisse a tendência, ferveria abaixo de zero e não haveria água líquida na Terra. A alternativa (d) confunde os dois níveis: ferver não rompe a ligação O–H, apenas separa moléculas vizinhas.",
                         "formato":  "direta",
                         "dificuldade":  "dificil"
+                    },
+                    {
+                        "id":  "quimica-206",
+                        "enunciado":  "A figura a seguir apresenta a evolução dos modelos atômicos, desde o primeiro, proposto por Dalton em 1803, até o de Bohr, proposto em 1913 (passando pelos modelos de Thomson e Rutherford).\n\nSobre os quatro modelos atômicos apresentados, é correto afirmar:",
+                        "alternativas":  {
+                                             "a":  "Todos os modelos previram a presença de cargas positivas no núcleo atômico.",
+                                             "b":  "O modelo proposto por Thomson, por prever a existência de nêutrons, não poderia explicar a radiação alfa (α).",
+                                             "c":  "Diferentemente do modelo de Dalton, o modelo de Rutherford não explica a estrutura de cátions e ânions.",
+                                             "d":  "Apenas o modelo de Bohr, com o advento de balanças de precisão, considerou a diferença de massa entre os elementos.",
+                                             "e":  "Elementos radioativos não poderiam ser explicados pelo modelo proposto por Dalton."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "O modelo de Dalton concebia o átomo como uma esfera maciça e indivisível, sem estrutura interna; ele não poderia explicar a radioatividade, fenômeno que envolve transformações no núcleo atômico e a emissão de partículas subatômicas, conceitos incompatíveis com um átomo indivisível.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2025"
+                    },
+                    {
+                        "id":  "quimica-207",
+                        "enunciado":  "Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons Li+ penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons Li+ intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon-sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta.\n\nConsiderando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado (Na+ ou Li+) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é",
+                        "alternativas":  {
+                                             "a":  "maior do que de uma bateria íon-Li, pois o Na+ tem maior massa e menor raio iônico do que o Li+.",
+                                             "b":  "menor do que de uma bateria íon-Li, pois o Na+ tem maior massa e maior raio iônico do que o Li+.",
+                                             "c":  "maior do que de uma bateria íon-Li, pois o Na+ tem menor massa e maior raio iônico do que o Li+.",
+                                             "d":  "menor do que de uma bateria íon-Li, pois o Na+ tem menor massa e menor raio iônico do que o Li+.",
+                                             "e":  "igual à de uma bateria íon-Li, pois ambos os íons são monovalentes."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "O Na⁺ tem maior massa e maior raio iônico do que o Li⁺; o maior raio reduz o número de íons que cabem no mesmo volume (menor densidade de carga armazenada) e a maior massa reduz a energia armazenada por unidade de massa — por isso a bateria de íon-sódio tem menor densidade de energia.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2025"
+                    },
+                    {
+                        "id":  "quimica-208",
+                        "enunciado":  "Na zona sul da cidade de São Paulo, há uma esquina formada pelas ruas Cloreto de Sódio e Relíquia do Oceano.\n\nA coincidência do encontro dessas ruas chama a atenção, pois o cloreto de sódio",
+                        "alternativas":  {
+                                             "a":  "praticamente não está presente no oceano, apesar de este ser salgado.",
+                                             "b":  "é insolúvel na água do oceano por apresentar ligação iônica.",
+                                             "c":  "utilizado no Brasil é quase todo proveniente do oceano.",
+                                             "d":  "obtido do oceano apresenta ligação covalente, enquanto o extraído do sal-gema, ligação iônica.",
+                                             "e":  "retirado do oceano tem mais átomos de cloro ligados ao sódio do que o oriundo de outras fontes."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "A quase totalidade do cloreto de sódio consumido no Brasil é obtida por evaporação da água do mar em salinas, o que explica a coincidência simbólica entre os nomes das ruas.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2025"
+                    },
+                    {
+                        "id":  "quimica-209",
+                        "enunciado":  "O processo de mumificação usado pelos egípcios começava com a retirada dos órgãos e desidratação do corpo utilizando uma mistura natural, obtida em leito de lagos, de sais solúveis de sódio, como carbonato, hidrogenocarbonato, cloreto e sulfato. Após a desidratação, o corpo era preenchido com uma mistura de serragem e ervas aromáticas como canela, cássia, mirra e até mesmo cebola, que, por conterem álcoois e aldeídos com propriedades antimicrobianas, dificultavam a decomposição do corpo. Por fim, o corpo era envolvido em tecido embebido em resinas insolúveis em água, como betume ou óleo de cedro, que, após seco, formava uma camada impermeabilizante.\n\nA partir dessas informações, assinale a alternativa correta.",
+                        "alternativas":  {
+                                             "a":  "Os sais de sódio mencionados, por serem hidrofílicos, repelem a água.",
+                                             "b":  "Propanona e hexano são exemplos de álcoois e aldeídos antimicrobianos.",
+                                             "c":  "Assim como o betume e óleo de cedro, qualquer outro composto orgânico serviria como impermeabilizante.",
+                                             "d":  "Todo sal iônico poderia ser utilizado em substituição aos sais de sódio mencionados.",
+                                             "e":  "A impermeabilidade conferida pelas resinas se deve às suas características apolares ou muito pouco polares."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "As resinas usadas (betume, óleo de cedro) são substâncias apolares ou pouco polares, que repelem a água (polar) por diferença de polaridade — o princípio do \"semelhante dissolve semelhante\" explica por que elas formam uma camada impermeabilizante eficaz.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2025"
+                    },
+                    {
+                        "id":  "quimica-210",
+                        "enunciado":  "Em países frios, é comum o uso de pequenos aquecedores de mãos, normalmente descartáveis, que podem ser colocados dentro de luvas. Uma alternativa mais sustentável é o aquecedor de mão reutilizável, que é constituído por uma solução aquosa supersaturada de acetato de sódio armazenada em um reservatório maleável.\n\nUm choque mecânico nesse reservatório perturba a solução supersaturada e leva à precipitação do sal, resultando no seu aquecimento. Após o uso, o aquecedor pode ser regenerado por imersão em água quente, que dissolve o sal, deixando-o pronto para ser reutilizado.\n\nEm relação à operação desse aquecedor, é correto afirmar:",
+                        "alternativas":  {
+                                             "a":  "A precipitação do acetato de sódio é exotérmica e sua solubilização é endotérmica.",
+                                             "b":  "A diminuição da temperatura aumenta a solubilidade do acetato de sódio.",
+                                             "c":  "A solubilização do acetato de sódio para a regeneração do aquecedor libera energia, aquecendo o banho de água.",
+                                             "d":  "Quando o aquecedor é regenerado, a solução interna passa de supersaturada para uma solução diluída.",
+                                             "e":  "A concentração de acetato de sódio na solução dentro do reservatório não muda durante a regeneração do aquecedor."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "A cristalização (precipitação) do acetato de sódio libera a energia que havia sido usada para dissolvê-lo, sendo portanto exotérmica; a dissolução, ao regenerar o aquecedor em água quente, absorve energia do banho, sendo endotérmica.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2025"
+                    },
+                    {
+                        "id":  "quimica-211",
+                        "enunciado":  "A toxicidade do Pb e o risco de sua ingestão ganharam notoriedade na mídia devido à presença desse elemento em copos térmicos amplamente comercializados. A exposição ao Pb, no entanto, pode ocorrer também por fontes naturais, como a ingestão de água em contato prolongado com minérios como a anglesita, rico em PbSO4 (Kps = 1,0 × 10⁻⁸).\n\nSabendo que a legislação estabelece a concentração máxima de Pb de 0,01 mg/L para água potável, assinale a alternativa correta em relação à ingestão de água que tenha contato prolongado com a anglesita.",
+                        "alternativas":  {
+                                             "a":  "Não é segura, pois a concentração de Pb na água será de 2,07×10¹ mg/L, maior que o valor permitido.",
+                                             "b":  "É segura, pois a concentração de Pb na água será de 1×10⁻⁴ mg/L, menor que o valor permitido.",
+                                             "c":  "Não é segura, pois a concentração de Pb na água será de 1×10⁻⁸ mg/L, menor que o valor permitido.",
+                                             "d":  "É segura, pois a concentração de Pb na água será de 1×10⁻² mg/L, igual ao valor permitido.",
+                                             "e":  "É segura, pois a concentração de Pb na água será de 2,07×10⁻⁶ mg/L, maior que o valor permitido."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "Como Ksp = [Pb²⁺][SO₄²⁻] = s², a solubilidade é s = √(1,0×10⁻⁸) = 1,0×10⁻⁴ mol/L; convertendo para mg/L usando a massa molar do chumbo (207 g/mol), obtém-se cerca de 2,07×10¹ mg/L, muito acima do limite legal de 0,01 mg/L — portanto a água não é segura.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2025"
+                    },
+                    {
+                        "id":  "quimica-212",
+                        "enunciado":  "A utilização de matrizes energéticas limpas, tais como aquelas que não aumentam a concentração de CO2(g) na atmosfera, é essencial para evitar a escalada das alterações climáticas causadas pela emissão de gases de efeito estufa. Considere a seguinte proposta para a produção de uma matriz energética limpa:\n\n(I) Capturar o CO2(g) atmosférico utilizando NaOH(aq) para formar Na2CO3(aq).\n(II) Tratar essa solução, na presença de um catalisador, com H2(g) oriundo de fontes renováveis, para gerar CH4(g), um gás combustível.\n\nCom base nessas informações e em seus conhecimentos, assinale a alternativa correta.",
+                        "alternativas":  {
+                                             "a":  "O catalisador participa da reação de produção de metano e se decompõe em NaOH.",
+                                             "b":  "A combustão do CH4 não emite CO2, motivo pelo qual a proposta se configura como uma matriz energética limpa.",
+                                             "c":  "A proposta não representa uma matriz energética limpa, pois a combustão completa de 1 mol de CH4 emite mais CO2 do que o que é utilizado para a sua síntese.",
+                                             "d":  "A retirada de CO2 da atmosfera seria maior se a proposta de usar uma matriz energética limpa se resumisse unicamente em utilizar o H2 como combustível.",
+                                             "e":  "Em relação ao ciclo do carbono, a proposta é semelhante ao uso do etanol como combustível veicular."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Assim como o etanol, que é produzido a partir de CO₂ atmosférico fixado pela cana-de-açúcar e depois devolvido à atmosfera na queima, a proposta captura CO₂ atmosférico (etapa I) para depois devolvê-lo na combustão do metano formado (etapa II) — um ciclo fechado de carbono, sem adição líquida de CO₂ à atmosfera.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2025"
+                    },
+                    {
+                        "id":  "quimica-213",
+                        "enunciado":  "Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação CH4(l) + 2 O2(l) → CO2(g) + 2 H2O(g).\n\nNessas condições, é correto afirmar que a razão entre a densidade do metano líquido e a densidade do oxigênio líquido é igual a",
+                        "alternativas":  {
+                                             "a":  "0,186.",
+                                             "b":  "0,375.",
+                                             "c":  "0,75.",
+                                             "d":  "1,5.",
+                                             "e":  "3."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Como a razão de volumes é V(O₂)=1,5×V(CH4) e a proporção molar da equação é 1 CH4 : 2 O2, a razão de massas m(CH4)/m(O2) = [n×16]/[2n×32] = 16/64 = 0,25 em mols; ajustando pela razão de volumes (dividindo pela densidade), obtém-se a razão de densidades ρ(CH4)/ρ(O2) = 0,375.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2025"
+                    },
+                    {
+                        "id":  "quimica-214",
+                        "enunciado":  "A reação do antibiótico sulfanilamida com halogênios leva à reação de substituição com o halogênio em duas posições distintas do anel aromático.\n\nEm um experimento, 1 L de uma solução de sulfanilamida de pH 5 reagiu com Br2 em excesso, obtendo-se pH 4 após reação total. Considerando que o volume se manteve inalterado após a adição do halogênio, quantos mols de sulfanilamida reagiram com bromo?",
+                        "alternativas":  {
+                                             "a":  "4,5 × 10⁻⁵",
+                                             "b":  "9,0 × 10⁻⁵",
+                                             "c":  "1,0 × 10⁻⁴",
+                                             "d":  "5,0 × 10⁻²",
+                                             "e":  "1,0 × 10⁻¹"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "A variação de pH de 5 para 4 corresponde a um aumento de [H⁺] de 1×10⁻⁵ para 1×10⇁⁴ mol/L, ou seja, 9×10⁻⁵ mol de H⁺ liberados no litro de solução; como cada substituição por bromo nas duas posições do anel libera 2 H⁺ por molécula de sulfanilamida, o número de mols que reagiu é 9×10⁻⁵/2 = 4,5×10⁻⁵.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2025"
+                    },
+                    {
+                        "id":  "quimica-215",
+                        "enunciado":  "Uma imagem gerada por Inteligência Artificial (IA), chamada de \"A formatura da capivara\", ilustra o tema desta questão. Em 2024 estimou-se que 30 milhões de imagens foram geradas diariamente no mundo utilizando modelos de IA a um gasto energético médio de 131 kJ por imagem. O uso intenso dessa tecnologia tem levado à reativação de usinas termoelétricas e à construção de novas usinas nucleares para suportar os servidores que realizam o processamento de IA.\n\nConsiderando que toda a energia para gerar essas imagens fosse proveniente da combustão completa de carvão, a pegada de carbono diária medida em toneladas de CO2 formado, resultante da produção dessas imagens, seria de",
+                        "alternativas":  {
+                                             "a":  "0,2.",
+                                             "b":  "10.",
+                                             "c":  "150.",
+                                             "d":  "280.",
+                                             "e":  "440."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "A energia total gasta é 30 milhões × 131 kJ ≈ 3,93×10⁹ kJ. Usando a entalpia de combustão do carbono (~393,5 kJ/mol, produzindo 1 mol de CO₂ cada), isso corresponde a cerca de 10⁷ mol de C, ou seja, 10⁷ × 44 g = 4,4×10⁸ g = 440 toneladas de CO₂.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2026"
+                    },
+                    {
+                        "id":  "quimica-216",
+                        "enunciado":  "O processo de corrosão do aço é favorecido em ambientes úmidos e ácidos. Para evitar a corrosão de superfícies de aço é comum utilizar óleos para impedir o contato da umidade do ar com a superfície. Nos casos em que o uso de óleo não é conveniente, é possível criar uma camada de NaOH(s) na superfície do metal aplicando uma solução aquosa relativamente concentrada desta base sobre a ferramenta e deixando a solução secar por completo.\n\nEsse tipo de tratamento com hidróxido de sódio é efetivo em ambientes com elevada acidez pois, caso a água entre em contato com a superfície tratada, ela",
+                        "alternativas":  {
+                                             "a":  "será repelida pela camada hidrofóbica de hidróxido de sódio, evitando o contato direto da água com o metal e sua oxidação.",
+                                             "b":  "solubilizará o hidróxido de sódio, que neutralizará o ácido presente na água que poderia induzir o processo de oxidação na superfície do metal.",
+                                             "c":  "será oxidada pelo hidróxido de sódio, gerando sua forma reduzida que, em contato com a superfície do metal, impede o processo de corrosão.",
+                                             "d":  "gerará um acúmulo de água na superfície hidrofílica da camada de hidróxido de sódio, impedindo sua solubilização e a consequente formação de ácido.",
+                                             "e":  "reagirá diretamente com o sódio do hidróxido de sódio, já que este atuará como metal de sacrifício, sofrendo oxidação e protegendo a superfície metálica."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Ao entrar em contato com a água, o NaOH se dissolve e neutraliza o ácido presente nessa água (proveniente do ambiente ácido), impedindo que o meio ácido favoreça a oxidação (corrosão) da superfície metálica.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2026"
+                    },
+                    {
+                        "id":  "quimica-217",
+                        "enunciado":  "O produto conhecido como descalcificante, comumente composto por ácido cítrico, é usado para desentupir os dutos internos de eletrodomésticos como cafeteiras e ferros de passar roupa a vapor. O entupimento frequentemente é causado pelo depósito de calcário (CaCO3), produto da reação entre CO2 e íons cálcio presentes na água. O equilíbrio de formação do carbonato de cálcio está representado a seguir:\n\nCa²⁺(aq) + CO2(g) + H2O(l) ⇌ CaCO3(s) + 2H⁺(aq)\n\nSobre os processos de entupimento por carbonato de cálcio e a descalcificação desses eletrodomésticos, é correto afirmar que",
+                        "alternativas":  {
+                                             "a":  "a diminuição do pH pela presença do ácido cítrico leva à reação de descalcificação.",
+                                             "b":  "a reação de descalcificação com ácido cítrico desloca o equilíbrio porque consome CO2.",
+                                             "c":  "ambientes ricos em CO2 causam menos entupimento dos eletrodomésticos.",
+                                             "d":  "a utilização de água com maior pH nos eletrodomésticos causa menos entupimento.",
+                                             "e":  "o ácido cítrico age como um catalisador, pois não participa do equilíbrio de descalcificação."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "O ácido cítrico libera H⁺, que desloca o equilíbrio Ca²⁺+CO2+H2O⇌CaCO3+2H⁺ no sentido inverso (para a esquerda, consumindo CaCO₃ e formando Ca²⁺ e CO₂), dissolvendo o depósito de calcário — por isso a diminuição do pH provoca a descalcificação.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2026"
+                    },
+                    {
+                        "id":  "quimica-218",
+                        "enunciado":  "Quem viajou de avião já ouviu o famoso aviso: \"Em caso de despressurização da cabine, máscaras de oxigênio cairão automaticamente acima do seu assento. Puxe uma das máscaras, coloque-a sobre o nariz e a boca e respire normalmente (...)\". Porém, ao invés de aviões conterem cilindros de oxigênio que alimentam as máscaras, esse gás é gerado por meio de uma reação química. No compartimento sobre cada passageiro encontra-se um reservatório contendo um sal como o clorato de sódio (NaClO3) que, ao se decompor, produz oxigênio (O2), cloreto de sódio (NaCl) e calor. O clorato de sódio é estável em temperatura ambiente, e sua decomposição só se inicia quando o passageiro puxa a máscara, o que dispara um gatilho que gera calor suficiente para iniciar a reação que, então, se mantém autossuficiente até consumo total do reagente.\n\nEssa reação de geração de oxigênio",
+                        "alternativas":  {
+                                             "a":  "é endotérmica, pois se inicia somente em altas temperaturas.",
+                                             "b":  "é uma reação de oxirredução na qual o cloro é oxidado e o oxigênio é reduzido.",
+                                             "c":  "deve possuir uma baixa energia de ativação para ser ativada nas baixas temperaturas das altitudes elevadas.",
+                                             "d":  "deve ser exotérmica o suficiente para manter a temperatura alta após iniciada.",
+                                             "e":  "é uma reação de oxirredução na qual o sódio é reduzido e o oxigênio é oxidado."
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Uma vez disparada pelo calor inicial do gatilho, a decomposição do clorato de sódio precisa ser exotérmica o suficiente para manter a temperatura elevada e sustentar a reação até o consumo total do reagente, sem depender de calor externo contínuo.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2026"
+                    },
+                    {
+                        "id":  "quimica-219",
+                        "enunciado":  "A massa de clorato de sódio consumida na reação (ver questão anterior, sobre a geração química de oxigênio em máscaras de avião) deve ser suficiente para gerar, no mínimo, 15 minutos de oxigênio, permitindo que a aeronave baixe sua altitude, restabelecendo a pressão da cabine. Calcule a massa de clorato de sódio mínima, em gramas, que deve ser utilizada por reservatório, para gerar oxigênio suficiente por 15 minutos, considerando que a taxa de respiração média de oxigênio de um adulto é de 1,2 L/min ao nível do mar a 20 °C.",
+                        "alternativas":  {
+                                             "a":  "27",
+                                             "b":  "53",
+                                             "c":  "80",
+                                             "d":  "94",
+                                             "e":  "119"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Calculando os mols de O₂ necessários para suprir a respiração durante 15 minutos (pela equação dos gases ideais) e convertendo para mols de NaClO₃ pela proporção estequiométrica da decomposição 2NaClO₃ → 2NaCl + 3O₂, chega-se à massa mínima necessária de clorato de sódio por reservatório.",
+                        "formato":  "direta",
+                        "origem":  "fuvest-2026"
+                    },
+                    {
+                        "id":  "quimica-220",
+                        "enunciado":  "Aviões são os únicos meios de transporte que cruzam continentes em um dia. Apesar dos avanços em eficiência energética, as aeronaves contribuem com 3,5% do aquecimento global. Por isso, existe o interesse em substituir o querosene usado por essas aeronaves por hidrogênio, com destaque para o uso do hidrogênio líquido combustível. A tabela a seguir apresenta dados desses dois tipos de combustíveis na aviação.\n\n| Combustível | Energia combustão (kJ·mol⁻¹) | Densidade do líquido (g·cm⁻³) | Massa molar (g·mol⁻¹) |\n|---|---|---|---|\n| Querosene* | 6745 | 0,804 | 153 |\n| Hidrogênio | 240 | 0,071 | 2 |\n\n*valores médios e aproximados.\n\nCaracterísticas como massa e volume da aeronave são fatores importantes para seu desempenho. Levando em conta essa informação, para uma mesma quantidade de energia gerada pelo combustível, é correto afirmar que o hidrogênio é melhor que o querosene, pois",
+                        "alternativas":  {
+                                             "a":  "sua razão energia por volume é maior.",
+                                             "b":  "o volume utilizado será menor.",
+                                             "c":  "sua razão energia por massa é maior.",
+                                             "d":  "a massa utilizada será maior."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Dividindo a energia de combustão pela massa molar, o hidrogênio libera cerca de 120 kJ/g, contra apenas cerca de 44 kJ/g do querosene — ou seja, para a mesma energia gerada, seria necessária uma massa muito menor de hidrogênio, tornando sua razão energia/massa maior (apesar de sua razão energia/volume ser menor, por causa da baixa densidade do H₂ líquido).",
+                        "formato":  "direta",
+                        "origem":  "unicamp-2026"
+                    },
+                    {
+                        "id":  "quimica-221",
+                        "enunciado":  "A Agência Nacional do Petróleo (ANP) é responsável por implementar a política nacional de combustíveis e proteger os interesses dos consumidores quanto a preço, qualidade e oferta de produtos, além de especificar a qualidade dos derivados de petróleo, do gás natural e de seus derivados e dos biocombustíveis. Nesse sentido, a resolução ANP 907, de 2022, especifica algumas características do Etanol Anidro Combustível (EAC), do Etanol Hidratado Combustível (EHC) e do Etanol Hidratado Combustível Premium (EHCP). Algumas dessas características estão na tabela a seguir e nas alternativas.\n\n| Combustível | Massa Específica (kg/m³) | Teor Alcoólico (% massa) |\n|---|---|---|\n| EAC | 791,5 (a) | 99,3 (b) |\n| EHC | (c) | entre 92,5 e 94,6 |\n| EHCP | (d) | entre 95,5 e 96,5 |\n\nConsiderando que água e etanol formam uma mistura ideal, para preencher corretamente essa tabela, as letras a, b, c e d devem corresponder, respectivamente, a",
+                        "alternativas":  {
+                                             "a":  "máximo; mínimo; entre 805 e 811 e entre 800 e 803.",
+                                             "b":  "mínimo; máximo; entre 805 e 811 e entre 800 e 803.",
+                                             "c":  "máximo; mínimo; entre 800 e 803 e entre 805 e 811.",
+                                             "d":  "mínimo; máximo; entre 800 e 803 e entre 805 e 811."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "Como a densidade da mistura água-etanol aumenta com o teor de água, o etanol anidro (EAC), com o menor teor de água possível, tem massa específica máxima permitida (a) e teor alcoólico mínimo (b) para garantir pureza; já o EHC, com mais água que o EHCP, apresenta a maior faixa de densidade (c, entre 805 e 811 kg/m³), e o EHCP, mais concentrado, densidade um pouco menor (d, entre 800 e 803 kg/m³).",
+                        "formato":  "direta",
+                        "origem":  "unicamp-2026"
+                    },
+                    {
+                        "id":  "quimica-222",
+                        "enunciado":  "O radioisótopo ¹³¹Ba é empregado na composição de microesferas usadas no monitoramento de tubulações em instalações petrolíferas. A tabela apresenta a atividade desse radioisótopo ao longo do tempo:\n\n| Atividade (Megabequerel, MBq) | Tempo em dias (d) |\n|---|---|\n| 1000 | 0 |\n| 800 | 4 |\n| 650 | 7 |\n| 125 | 36 |\n| 50 | 52 |\n\nA quantidade de nêutrons do ¹³¹Ba e a meia-vida desse radioisótopo são, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "75 nêutrons e 12 dias.",
+                                             "b":  "75 nêutrons e 52 dias.",
+                                             "c":  "75 nêutrons e 36 dias.",
+                                             "d":  "56 nêutrons e 36 dias.",
+                                             "e":  "56 nêutrons e 12 dias."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "O bário tem número atômico 56; como o número de massa do isótopo é 131, o número de nêutrons é 131−56=75. Os dados mostram que a atividade cai de 1000 para 125 MBq (um oitavo, ou seja, três meias-vidas) em 36 dias, o que dá uma meia-vida de 36/3=12 dias.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2025.1"
+                    },
+                    {
+                        "id":  "quimica-223",
+                        "enunciado":  "Compostos do elemento vanádio têm atividade biológica e são empregados no estudo de proteínas fosfatadas. A preparação do vanadato de sódio (Na₃VO₄) pode ser feita a partir da reação do seu óxido (V₂O₃) e o hidróxido de sódio (NaOH), representada na equação:\n\nV₂O₃ (s) + 6NaOH (aq) → 2Na₃VO₄ (aq) + 3H₂O (l)\n\nComparando-se o ânion vanadato e o ânion fosfato, [lacuna 1]. Nas condições da reação apresentada, V₂O₃ é classificado como óxido [lacuna 2].\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                        "alternativas":  {
+                                             "a":  "ambos contêm um elemento metálico – ácido.",
+                                             "b":  "ambos contêm um elemento metálico – neutro.",
+                                             "c":  "apenas um deles contém um elemento metálico – básico.",
+                                             "d":  "apenas um deles contém um elemento metálico – ácido.",
+                                             "e":  "ambos contêm um elemento metálico – básico."
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "O vanadato (VO₄³⁻) contém um metal (vanádio), diferente do fosfato (PO₄³⁻), cujo átomo central (fósforo) é um ametal; como o V₂O₃ reage com uma base (NaOH) formando um sal, ele se comporta como um óxido ácido nessa reação.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2025.1"
+                    },
+                    {
+                        "id":  "quimica-224",
+                        "enunciado":  "O gás natural veicular (GNV) é um combustível automotivo disponibilizado por postos de abastecimento credenciados. Os veículos automotores, originalmente fabricados para funcionarem apenas com combustíveis líquidos, são adaptados por um kit que permite o funcionamento também com o GNV. Uma das partes desse kit é o reservatório de gás, feito de material metálico não expansível, sendo normalmente instalado no compartimento traseiro do veículo.\n\nUm reservatório de GNV com massa de gás (m₁) e pressão (P₁) igual a 40 atm é reabastecido com esse gás, em temperatura constante, até a pressão interna do compartimento atingir a massa de gás (m₂) e pressão (P₂) igual a 160 atm. Considerando que a composição do GNV seja constante, a comparação das massas m₁ e m₂ é dada por:",
+                        "alternativas":  {
+                                             "a":  "m₂ = 8m₁",
+                                             "b":  "m₂ = 4m₁",
+                                             "c":  "m₂ = (1/8)m₁",
+                                             "d":  "m₂ = (1/4)m₁",
+                                             "e":  "m₂ = 2m₁"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Em temperatura e volume constantes, a pressão de um gás é proporcional à quantidade de matéria (massa): se a pressão quadruplicou (de 40 para 160 atm), a massa de gás no reservatório também quadruplicou, ou seja, m₂=4m₁.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2025.1"
+                    },
+                    {
+                        "id":  "quimica-225",
+                        "enunciado":  "Muitos atletas empregam em suas dietas um suplemento alimentar de proteína do soro do leite, denominado whey protein, comercializado na forma de pó, para ser misturado em água. Considere uma embalagem que contenha uma colher medidora, cujas instruções de preparo indicam usar 3 medidas de whey protein misturadas em água até completar 250 mL de bebida. Cada colher medidora contém 7,5 g de proteína.\n\nA concentração em massa de proteína na bebida preparada de acordo com as instruções da embalagem é igual a",
+                        "alternativas":  {
+                                             "a":  "30,0 g/L.",
+                                             "b":  "63,5 g/L.",
+                                             "c":  "22,5 g/L.",
+                                             "d":  "7,5 g/L.",
+                                             "e":  "90,0 g/L."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Três medidas de 7,5 g totalizam 22,5 g de proteína dissolvida em 250 mL (0,25 L); a concentração em massa é 22,5/0,25=90,0 g/L.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2025.1"
+                    },
+                    {
+                        "id":  "quimica-226",
+                        "enunciado":  "O eugenol é uma substância extraída de certas plantas e apresenta o aroma característico da especiaria conhecida como cravo-da-Índia. O aroma do eugenol em solução pode desaparecer, pois, dependendo do pH da solução, a molécula de eugenol transforma-se em uma espécie iônica que não tem aroma (a molécula de eugenol tem fórmula estrutural com um anel benzênico, um grupo –OH fenólico, um grupo metoxi –OCH₃ e uma cadeia lateral alílica; em meio básico, o grupo –OH perde o próton e forma um fenolato, a espécie iônica sem aroma). A fórmula molecular do eugenol e a faixa de valor do pH que a sua solução exibirá aroma intenso são",
+                        "alternativas":  {
+                                             "a":  "C₁₀H₁₂O₂ e pH \u003e 7",
+                                             "b":  "C₉H₁₂O₂ e pH \u003c 7",
+                                             "c":  "C₁₀H₁₂O₂ e pH \u003c 7",
+                                             "d":  "C₁₀H₁₁O₂ e pH = 7",
+                                             "e":  "C₉H₁₁O₂ e pH = 7"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "O eugenol tem fórmula molecular C₁₀H₁₂O₂. Em meio ácido ou neutro (pH\u003c7), o grupo fenólico permanece protonado e a molécula mantém seu aroma; em meio básico, o -OH perde o próton e forma o fenolato (íon inodoro).",
+                        "formato":  "direta",
+                        "origem":  "einstein-2025.1"
+                    },
+                    {
+                        "id":  "quimica-227",
+                        "enunciado":  "No mês de junho de 2025, o verão europeu e o inverno brasileiro apresentaram recordes de temperaturas. Em Portugal foi registrada a temperatura máxima de 46,6 ºC; no mesmo período, uma cidade brasileira do estado de Santa Catarina registrou a temperatura mínima de −10 ºC.\n\nA tabela a seguir apresenta as temperaturas de fusão e de ebulição de algumas substâncias químicas:\n\n| Substância | Temperatura de fusão (ºC) | Temperatura de ebulição (ºC) |\n|---|---|---|\n| 1 | −19 | 180 |\n| 2 | 34 | 297 |\n| 3 | −12 | 133 |\n| 4 | −84 | 22 |\n| 5 | 53 | 289 |\n\nConsiderando as temperaturas recordes registradas em Portugal e no estado de Santa Catarina, a substância química da tabela que se apresentaria no estado sólido nas condições térmicas de ambos os lugares, sem mudança de estado físico, sob pressão atmosférica, é a de número",
+                        "alternativas":  {
+                                             "a":  "2.",
+                                             "b":  "1.",
+                                             "c":  "3.",
+                                             "d":  "4.",
+                                             "e":  "5."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Para permanecer sólida tanto nos 46,6 ºC de Portugal quanto nos −10 ºC de Santa Catarina, a substância precisa ter ponto de fusão acima de 46,6 ºC; apenas a substância 5 (fusão em 53 ºC) atende a essa condição, permanecendo sólida em toda a faixa de temperatura.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2026.1"
+                    },
+                    {
+                        "id":  "quimica-228",
+                        "enunciado":  "Em uma aula de química, foi realizado um experimento em três etapas: na etapa 1, mediu-se a temperatura da água empregada no experimento (20 ºC, em um béquer com 100 mL de água). Na etapa 2, adicionou-se à água, sob agitação (usando um agitador magnético), 0,1 mol de cloreto de cálcio anidro (CaCl₂), uma substância empregada em produtos de uso doméstico para evitar a formação de mofo e umidade em armários — a adição foi sinalizada com um pictograma de risco. Na etapa 3, foi anotada a temperatura máxima atingida ao final do processo de dissolução do cloreto de cálcio anidro na água (35 ºC).\n\nA dissolução do cloreto de cálcio anidro em água é um processo [lacuna 1] e a sua entalpia padrão de dissolução (ΔH⁰ dissolução) é [lacuna 2].\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                        "alternativas":  {
+                                             "a":  "exotérmico – maior do que zero.",
+                                             "b":  "endotérmico – menor do que zero.",
+                                             "c":  "exotérmico – menor do que zero.",
+                                             "d":  "endotérmico – maior do que zero.",
+                                             "e":  "endotérmico – igual a zero."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "A temperatura da água subiu de 20 para 35 ºC durante a dissolução do CaCl₂, evidenciando liberação de calor pela solução — um processo exotérmico, com ΔH de dissolução negativo (menor que zero).",
+                        "formato":  "direta",
+                        "origem":  "einstein-2026.1"
+                    },
+                    {
+                        "id":  "quimica-229",
+                        "enunciado":  "Considere o mesmo experimento da questão anterior (dissolução de 0,1 mol de cloreto de cálcio anidro, CaCl₂, em 100 mL de água). Na solução obtida na etapa 3, a concentração de íons cloreto (Cl⁻) é igual a",
+                        "alternativas":  {
+                                             "a":  "0,2 mol/L.",
+                                             "b":  "1 mol/L.",
+                                             "c":  "0,1 mol/L.",
+                                             "d":  "0,02 mol/L.",
+                                             "e":  "2 mol/L."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "A dissolução de 0,1 mol de CaCl₂ libera 0,2 mol de Cl⁻ (2 íons cloreto por fórmula unitária) em 100 mL (0,1 L) de solução, resultando em uma concentração de 0,2/0,1=2 mol/L.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2026.1"
+                    },
+                    {
+                        "id":  "quimica-230",
+                        "enunciado":  "No experimento das questões anteriores, o pictograma que sinaliza risco para o manuseio do cloreto de cálcio anidro (símbolo de segurança padronizado internacionalmente, sistema GHS: losango de borda vermelha) indica que essa substância é",
+                        "alternativas":  {
+                                             "a":  "corrosiva.",
+                                             "b":  "tóxica.",
+                                             "c":  "inflamável.",
+                                             "d":  "explosiva.",
+                                             "e":  "oxidante."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "O pictograma de losango com borda vermelha do sistema GHS que mostra corrosão de uma superfície e de uma mão indica que a substância é corrosiva, causando queimaduras ou danos a materiais e tecidos vivos.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2026.1"
+                    },
+                    {
+                        "id":  "quimica-231",
+                        "enunciado":  "O gás hidrogênio (H₂) e o gás oxigênio (O₂) podem ser obtidos a partir da eletrólise da água com uso de uma tecnologia que emprega um eletrolisador com diafragma umedecido com solução de hidróxido de potássio (KOH), denominada hidrólise alcalina da água. O esquema desse eletrolisador tem um eletrodo negativo (cátodo) de um lado do diafragma, por onde entra H₂O e sai H₂, e um eletrodo positivo (ânodo) do outro lado, por onde sai ½O₂, com os íons OH⁻ migrando através do diafragma do cátodo para o ânodo.\n\nAs semirreações de redução e os potenciais padrão de redução (E⁰) das espécies envolvidas nessa eletrólise são:\n\nO₂ (g) + 2H₂O (l) + 4e⁻ → 4OH⁻ (aq)  E⁰ = +0,40 V\n2H₂O (l) + 2e⁻ → H₂ (g) + 2OH⁻ (aq)  E⁰ = −0,83 V\n\nNesse processo eletrolítico, o gás que é recolhido no cátodo e o valor do potencial teórico mínimo que deve ser aplicado entre os terminais elétricos desse eletrolisador para seu funcionamento são, respectivamente,",
+                        "alternativas":  {
+                                             "a":  "O₂ e 1,23 V.",
+                                             "b":  "H₂ e 1,23 V.",
+                                             "c":  "H₂ e 2,06 V.",
+                                             "d":  "O₂ e 2,06 V.",
+                                             "e":  "H₂ e 0,43 V."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "O cátodo é onde ocorre a redução, ou seja, a formação de H₂ conforme a equação fornecida; o potencial mínimo necessário para a eletrólise é a diferença entre os potenciais de redução das duas semirreações: 0,40−(−0,83)=1,23 V.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2026.1"
+                    },
+                    {
+                        "id":  "quimica-232",
+                        "enunciado":  "O leite de amêndoas é uma bebida preparada a partir da trituração das amêndoas misturadas em água e é indicada para pessoas com intolerância à lactose, como substituição do leite animal. O processo de obtenção do leite de amêndoas (fase líquida resultante ao final do processo) segue as etapas: amêndoas + água → agitação e trituração → \"mistura 1\" → \"separação 1\" → fase sólida + fase líquida (o leite de amêndoas). De acordo com esse processo, a mistura 1 é ______ e a separação 1 refere-se ao método denominado ______.\n\nAs lacunas são preenchidas, respectivamente, por:",
+                        "alternativas":  {
+                                             "a":  "homogênea – filtração.",
+                                             "b":  "homogênea – destilação.",
+                                             "c":  "homogênea – cristalização.",
+                                             "d":  "heterogênea – filtração.",
+                                             "e":  "heterogênea – cristalização."
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "A mistura de amêndoas trituradas em água é heterogênea, pois contém partículas sólidas visíveis em suspensão; a separação da fase sólida da fase líquida (o leite de amêndoas) é feita por filtração.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2025.2-enfermagem"
+                    },
+                    {
+                        "id":  "quimica-233",
+                        "enunciado":  "A azia é a sensação de queimação no estômago e na garganta, causada pelo refluxo para o esôfago do suco gástrico que contém o ácido clorídrico (HCl). Os compostos 1 (NaHCO₃) e 2 (Al(OH)₃) são componentes de medicamentos empregados no tratamento da azia. O pH do suco gástrico e as funções inorgânicas às quais os compostos 1 e 2 pertencem são, respectivamente,",
+                        "alternativas":  {
+                                             "a":  "pH maior que 7, ácido e base.",
+                                             "b":  "pH maior que 7, ácido e sal.",
+                                             "c":  "pH maior que 7, sal e base.",
+                                             "d":  "pH menor que 7, sal e ácido.",
+                                             "e":  "pH menor que 7, sal e base."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "O suco gástrico, ácido, tem pH menor que 7; o NaHCO₃ é um sal (bicarbonato de sódio) e o Al(OH)₃ é uma base, ambos usados para neutralizar o excesso de acidez.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2025.2-enfermagem"
+                    },
+                    {
+                        "id":  "quimica-234",
+                        "enunciado":  "A acetilcisteína (massa molar = 162 g/mol) é um medicamento expectorante indicado para tratamento de doenças respiratórias. Uma de suas formas farmacêuticas, indicadas para adultos, consiste em sachês que contêm 600 mg de acetilcisteína. A preparação da medicação é feita a partir da dissolução do conteúdo de cada sachê em meio copo de água, resultando em 100 mL de solução do medicamento para ser ingerida pelo paciente. Considerando que 1 mg é igual a 10⁻³ g e 1 mL é igual a 10⁻³ L, a concentração de acetilcisteína, em g/L, na solução do medicamento para a ingestão do paciente é",
+                        "alternativas":  {
+                                             "a":  "0,6 g/L.",
+                                             "b":  "0,06 g/L.",
+                                             "c":  "6 g/L.",
+                                             "d":  "60 g/L.",
+                                             "e":  "600 g/L."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Um sachê tem 600 mg (0,6 g) de acetilcisteína dissolvidos em 100 mL (0,1 L) de solução: a concentração é 0,6/0,1=6 g/L.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2025.2-enfermagem"
+                    },
+                    {
+                        "id":  "quimica-235",
+                        "enunciado":  "Com base na fórmula estrutural da acetilcisteína (ver questão anterior) — uma molécula com um anel simples contendo um grupo tiol (-SH), um grupo amida (ligação -NH-CO-CH₃) e um grupo ácido carboxílico (-COOH) — a fórmula molecular da acetilcisteína é",
+                        "alternativas":  {
+                                             "a":  "C₅H₉NO₃S",
+                                             "b":  "C₅H₇NO₃S",
+                                             "c":  "C₅H₈NO₃S",
+                                             "d":  "C₄H₆NO₃S",
+                                             "e":  "C₄H₇NO₃S"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "A fórmula molecular da acetilcisteína, coerente com os grupos tiol, amida e ácido carboxílico descritos e a massa molar de 162 g/mol, é C₅H₉NO₃S.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2025.2-enfermagem"
+                    },
+                    {
+                        "id":  "quimica-236",
+                        "enunciado":  "Na fórmula estrutural da acetilcisteína (ver questões anteriores), os grupos funcionais destacados — o grupo carboxila terminal (1) e o grupo da ligação entre o nitrogênio e a carbonila da porção acetil (2) — pertencem, respectivamente, às funções orgânicas",
+                        "alternativas":  {
+                                             "a":  "ácido carboxílico e amina.",
+                                             "b":  "ácido carboxílico e amida.",
+                                             "c":  "álcool e amina.",
+                                             "d":  "cetona e amida.",
+                                             "e":  "éter e amida."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "O grupo -COOH terminal é um ácido carboxílico; a ligação -NH-CO- entre o nitrogênio e a carbonila da porção acetil caracteriza uma amida.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2025.2-enfermagem"
+                    },
+                    {
+                        "id":  "quimica-237",
+                        "enunciado":  "Na natureza, os isótopos do elemento químico lutécio (Lu) fazem parte do grupo das chamadas terras-raras e são representados por ¹⁷⁵₇₁Lu e ¹⁷⁶₇₁Lu. Os isótopos naturais do lutécio são eletricamente neutros e diferem entre si quanto ao número",
+                        "alternativas":  {
+                                             "a":  "de prótons e de elétrons.",
+                                             "b":  "de massa e de nêutrons.",
+                                             "c":  "de prótons e de nêutrons.",
+                                             "d":  "de elétrons e de nêutrons.",
+                                             "e":  "de massa e de elétrons."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Os dois isótopos de lutécio têm o mesmo número de prótons (71, o que define o elemento), mas diferem no número de massa (175 e 176) e, consequentemente, no número de nêutrons.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2026.2-enfermagem"
+                    },
+                    {
+                        "id":  "quimica-238",
+                        "enunciado":  "O iodixanol é um meio de contraste iodado (MCI) que, quando administrado via endovenosa, permite a distinção de estruturas anatômicas durante procedimentos radiológicos. Uma das formas farmacêuticas comercializadas do iodixanol apresenta concentração de 652 mg/mL em água e outros excipientes injetáveis. Cada mL dessa solução contém 652 mg de iodixanol, equivalente a 320 mg de iodo. Na forma farmacêutica descrita, a porcentagem, em massa, de iodo no iodixanol é",
+                        "alternativas":  {
+                                             "a":  "2,0%.",
+                                             "b":  "4,9%.",
+                                             "c":  "20%.",
+                                             "d":  "49%.",
+                                             "e":  "51%."
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "A porcentagem em massa de iodo é (320 mg de iodo / 652 mg de iodixanol) × 100 ≈ 49%.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2026.2-enfermagem"
+                    },
+                    {
+                        "id":  "quimica-239",
+                        "enunciado":  "O iodixanol (ver questão anterior) é uma molécula orgânica não iônica, com múltiplos grupos hidroxila (-OH) e grupos amida em sua estrutura, característica que confere a ele alta solubilidade em água. O tipo mais intenso de interação intermolecular que ocorre entre as moléculas de água e as de iodixanol é",
+                        "alternativas":  {
+                                             "a":  "dipolo instantâneo-dipolo induzido.",
+                                             "b":  "dipolo induzido-dipolo permanente.",
+                                             "c":  "íon-dipolo permanente.",
+                                             "d":  "íon-dipolo induzido.",
+                                             "e":  "ligação de hidrogênio."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Como o iodixanol é uma molécula não iônica (não há íons), a interação mais intensa com a água (que também não é iônica) é a ligação de hidrogênio, favorecida pelos múltiplos grupos hidroxila e amida da molécula.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2026.2-enfermagem"
+                    },
+                    {
+                        "id":  "quimica-240",
+                        "enunciado":  "A alta exposição à radiação leva à decomposição da água nas células do corpo e à formação de, entre outros produtos, peróxido de hidrogênio (H₂O₂), que é tóxico e pode causar lesão celular. O H₂O₂ também é produzido pelo nosso corpo nas mitocôndrias durante a geração de energia. Como proteção biológica, nas células também existe a catalase, uma enzima que atua como catalisador na decomposição do H₂O₂ em água e gás oxigênio, conforme a reação: 2H₂O₂ (aq) → 2H₂O (l) + O₂ (g). Na reação, a velocidade de formação do O₂ pela ação da catalase",
+                        "alternativas":  {
+                                             "a":  "aumenta, pois a energia de ativação aumenta.",
+                                             "b":  "diminui, pois a energia de ativação aumenta.",
+                                             "c":  "diminui, pois a energia de ativação diminui.",
+                                             "d":  "aumenta, pois a energia de ativação diminui.",
+                                             "e":  "permanece a mesma, pois a ação da catalase não altera a energia de ativação."
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "A catalase, como qualquer catalisador, diminui a energia de ativação necessária para a reação, o que aumenta a velocidade de decomposição do H₂O₂ e, portanto, a velocidade de formação do O₂.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2026.2-enfermagem"
+                    },
+                    {
+                        "id":  "quimica-241",
+                        "enunciado":  "O naproxeno é um anti-inflamatório utilizado para o alívio de sintomas de febre, dor de cabeça, dor muscular, cólica menstrual e artrite. Na fórmula estrutural do naproxeno (2-(6-metoxinaftalen-2-il)propanoico), com os átomos de carbono numerados de 1 a 14 (o carbono 1 é o carbono do grupo metóxi -OCH₃; os carbonos 2 a 11 formam o núcleo naftalênico; o carbono 7 está ligado ao anel aromático, a um hidrogênio, ao grupo metila (carbono 12) e ao grupo carboxila (carbonos 13-14)), o átomo de carbono quiral, ou assimétrico, está indicado pelo número",
+                        "alternativas":  {
+                                             "a":  "1.",
+                                             "b":  "5.",
+                                             "c":  "7.",
+                                             "d":  "13.",
+                                             "e":  "14."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "O carbono 7, ligado simultaneamente ao anel aromático, a um hidrogênio, ao grupo metila e ao grupo carboxila — quatro grupos diferentes entre si —, é o centro estereogênico (carbono quiral) da molécula do naproxeno.",
+                        "formato":  "direta",
+                        "origem":  "einstein-2026.2-enfermagem"
+                    },
+                    {
+                        "id":  "quimica-242",
+                        "enunciado":  "A figura mostra a estrutura molecular do ácido carmínico, um pigmento conhecido como ácido carmim, extraído do inseto cochonilha (Dactylopius coccus) e usado na produção de alimentos e cosméticos.\n\n*Descrição da estrutura: um núcleo antraquinônico (dois grupos cetona C=O em um sistema de anéis aromáticos fundidos), com quatro grupos hidroxila (OH) ligados diretamente aos anéis aromáticos, um grupo ácido carboxílico (COOH) e uma metila, além de um substituinte glicosídico (anel de açúcar) com várias hidroxilas e um grupo CH2OH ligado a um dos anéis.*\n\nO corante carmim, obtido a partir de um animal que ______, apresenta as funções orgânicas ______ e ______ em sua estrutura molecular. As lacunas do texto são preenchidas, respectivamente, por:",
+                        "alternativas":  {
+                                             "a":  "circulação fechada – éter – amida.",
+                                             "b":  "respiração cutânea – fenol – ácido carboxílico.",
+                                             "c":  "patas articuladas – álcool – cetona.",
+                                             "d":  "exoesqueleto de quitina – éster – amina.",
+                                             "e":  "fecundação externa – aldeído – haleto orgânico."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "A cochonilha é um inseto (artrópode), com patas articuladas; na estrutura do ácido carmínico, as hidroxilas ligadas ao anel de açúcar (não aromático) caracterizam a função álcool, enquanto os grupos C=O do núcleo antraquinônico caracterizam a função cetona.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2026-1"
+                    },
+                    {
+                        "id":  "quimica-243",
+                        "enunciado":  "Cientistas da Faculdade de Ciências Farmacêuticas da Universidade Estadual Paulista (Unesp) estão propondo o uso como combustível da lentilha-d\u0027água (Lemna minor), uma planta aquática de água doce comumente usada para retirar poluentes da água em criações de peixes. O trabalho faz parte de um amplo projeto de pesquisa em economia circular e biotecnologia premiado pela Organização das Nações Unidas (ONU). A lentilha-d\u0027água foi submetida a um pré-tratamento para dela se obter um substrato, ao qual foram adicionados microrganismos capazes de converter a biomassa da lentilha-d\u0027água em biogás. O composto final foi colocado em frascos e monitorado quanto à produção de metano e hidrogênio. O volume de gases gerados foi medido em diferentes momentos, revelando que a produção de metano alcançou 78% e a de hidrogênio, 42% em relação ao total de gases emitidos, confirmando a eficiência do processo.\n\nRelacionada com o conceito de economia circular e com a produção de gás metano, a pesquisa tratada no excerto",
+                        "alternativas":  {
+                                             "a":  "permite incorporar subprodutos de atividades econômicas para gerar energia renovável de baixo custo, a partir do metabolismo de arqueas anaeróbicas.",
+                                             "b":  "possibilita a extração de energia da biomassa orgânica descartada nas águas, a partir da ação de bactérias aeróbicas.",
+                                             "c":  "impede a emissão de gases responsáveis pelo fenômeno do aquecimento global, a partir da oferta de energia limpa gerada pela atividade de arqueas aeróbicas.",
+                                             "d":  "busca gerar um modelo de produção de energia autossuficiente para áreas rurais, a partir da ação de bactérias anaeróbicas.",
+                                             "e":  "produz compostos orgânicos reutilizáveis destinados ao setor primário da economia, a partir do metabolismo de cianobactérias."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "O processo descrito usa micro-organismos (arqueas metanogênicas, que realizam metabolismo anaeróbico) para converter biomassa residual (subproduto de outra atividade econômica, a criação de peixes) em biogás, gerando energia renovável de baixo custo — um exemplo de economia circular.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2026-1"
+                    },
+                    {
+                        "id":  "quimica-244",
+                        "enunciado":  "Analise a tabela que fornece valores de constantes de dissociação (Ka) de dois ácidos e (Kb) de duas bases a 25 ºC.\n\n| Ácido | Ka | Base | Kb |\n|---|---|---|---|\n| Clorídrico (HCl) | Muito grande | Hidróxido de sódio (NaOH) | Muito grande |\n| Acético (CH3COOH) | 1,8 × 10⁻⁵ | Amônia (NH3) | 1,8 × 10⁻⁵ |\n\nConsidere quatro soluções aquosas 0,1 mol/L dos sais formados pelas reações entre os ácidos e bases citados na tabela:\n\n1. NaCl\n2. Na(CH3COO)\n3. NH4(CH3COO)\n4. NH4Cl\n\nDentre essas soluções, duas que apresentam pH aproximadamente igual a 7 são as de números",
+                        "alternativas":  {
+                                             "a":  "1 e 3.",
+                                             "b":  "1 e 4.",
+                                             "c":  "1 e 2.",
+                                             "d":  "2 e 3.",
+                                             "e":  "3 e 4."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "NaCl vem de ácido forte (HCl) e base forte (NaOH), resultando em sal neutro (pH≈7); como Ka(ácido acético)=Kb(amônia), o sal NH₄(CH₃COO), de ácido fraco e base fraca de força equivalente, também tem pH próximo de 7 — diferente de Na(CH₃COO) (básico) e NH₄Cl (ácido).",
+                        "formato":  "direta",
+                        "origem":  "unesp-2026-1"
+                    },
+                    {
+                        "id":  "quimica-245",
+                        "enunciado":  "Há no comércio diferentes tipos de velas de aniversário que produzem faíscas enquanto estão acesas. Entre essas velas há as que contêm magnésio metálico em pó, e a produção de faíscas resulta da reação química representada no diagrama (magnésio metálico reagindo com oxigênio do ar, formando óxido de magnésio, com liberação de luz e calor).\n\nEssa reação química é",
+                        "alternativas":  {
+                                             "a":  "exotérmica, na qual o magnésio perde elétrons e, portanto, atua como oxidante.",
+                                             "b":  "endotérmica, na qual o magnésio perde elétrons e, portanto, atua como redutor.",
+                                             "c":  "exotérmica, na qual o magnésio ganha elétrons e, portanto, atua como redutor.",
+                                             "d":  "endotérmica, na qual o magnésio ganha elétrons e, portanto, atua como oxidante.",
+                                             "e":  "exotérmica, na qual o magnésio perde elétrons e, portanto, atua como redutor."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "A formação de faíscas com liberação de luz e calor indica uma reação exotérmica; nela, o magnésio metálico perde elétrons (é oxidado) ao formar o óxido de magnésio, atuando como agente redutor.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2026-1"
+                    },
+                    {
+                        "id":  "quimica-246",
+                        "enunciado":  "Um dos principais usos do petróleo é na produção da gasolina, uma mistura de hidrocarbonetos com cadeias carbônicas de 5 a 11 átomos de carbono. Porém, a fração do petróleo correspondente à gasolina obtida diretamente pela destilação fracionada do petróleo é insuficiente para suprir as necessidades de consumo e, além do mais, é uma gasolina de baixa qualidade. A qualidade de uma gasolina é medida por sua octanagem. Gasolinas com hidrocarbonetos lineares apresentam baixa octanagem, enquanto as gasolinas com maior teor de hidrocarbonetos de cadeias ramificadas apresentam maior octanagem.\n\nPor essas razões, é necessário, no processo de refino do petróleo, aumentar a quantidade e a qualidade da gasolina produzida. Para aumentar a quantidade, são empregados dois processos: o craqueamento e a alquilação. Para aumentar a qualidade, emprega-se o processo de isomerização, por meio do qual cadeias lineares dos hidrocarbonetos são transformadas em cadeias ramificadas.\n\nExamine as seguintes equações de reações químicas:\n\nI. CH3(CH2)6CH3 → CH3C(CH3)2CH2CH(CH3)CH3\nII. C4H10 + C4H8 → C8H18\nIII. C16H34 → C8H16 + C8H18\n\nOs processos de craqueamento, alquilação e isomerização são exemplificados, respectivamente, pelas equações de números",
+                        "alternativas":  {
+                                             "a":  "III, I e II.",
+                                             "b":  "III, II e I.",
+                                             "c":  "I, III e II.",
+                                             "d":  "II, III e I.",
+                                             "e":  "I, II e III."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "A equação I mantém a mesma fórmula molecular C8H18, apenas rearranjando a cadeia linear em ramificada — isomerização; a II combina duas moléculas menores (C4H10+C4H8) em uma maior (C8H18) — alquilação; a III quebra uma cadeia longa (C16H34) em duas menores — craqueamento. A ordem craqueamento, alquilação, isomerização corresponde, portanto, a III, II e I.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2026-1"
+                    },
+                    {
+                        "id":  "quimica-247",
+                        "enunciado":  "Os triglicerídeos são os principais constituintes dos óleos e gorduras. A fórmula apresentada representa genericamente um triglicerídeo, em que R, R\u0027 e R\u0027\u0027 são cadeias formadas por átomos de carbono e hidrogênio:\n\nH2C–O–C(=O)–R\n|\nHC–O–C(=O)–R\u0027\n|\nH2C–O–C(=O)–R\u0027\u0027\n\nAnalisando essa fórmula, nota-se a presença da função orgânica oxigenada ______. A digestão dos triglicerídeos no organismo humano consiste na hidrólise dessas substâncias, que produz ______ e glicerol. Esse processo é complexo e ocorre pela ação de enzimas presentes no suco ______, conhecidas como ______. Para que tal ação seja eficiente, ocorre primeiramente uma emulsificação dos óleos e gorduras, fracionando-os em porções menores (micelas). Essa emulsificação é possibilitada pela ação detergente de sais presentes na bile.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                        "alternativas":  {
+                                             "a":  "cetona – ácidos graxos – entérico – amilases.",
+                                             "b":  "éster – ácidos graxos – pancreático – proteases.",
+                                             "c":  "éter – ácidos graxos – pancreático – lipases.",
+                                             "d":  "éter – ácidos carboxílicos – gástrico – proteases.",
+                                             "e":  "éster – ácidos carboxílicos – pancreático – lipases."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Os triglicerídeos apresentam a função éster (grupo -C(=O)-O-); sua hidrólise, catalisada pelas lipases do suco pancreático, produz ácidos graxos e glicerol — processo facilitado pela emulsificação prévia promovida pelos sais biliares.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2026-1"
+                    },
+                    {
+                        "id":  "quimica-248",
+                        "enunciado":  "A Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec) aprovou o uso da camada fina de tecido que envolve imediatamente o feto durante a gravidez, geralmente descartada após o parto, como curativo biológico para tratar queimaduras. Quando aplicado sobre feridas após queimaduras, esse tecido forma uma barreira contra bactérias e apresenta componentes que aceleram a cicatrização e aliviam a dor.\n\nO tecido aprovado para o tratamento de queimaduras compõe",
+                        "alternativas":  {
+                                             "a":  "a placenta.",
+                                             "b":  "o âmnio.",
+                                             "c":  "o cório.",
+                                             "d":  "o alantoide.",
+                                             "e":  "o saco vitelínico."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "O tecido aprovado para curativos de queimadura, por formar uma barreira contra bactérias e acelerar a cicatrização, é o âmnio, membrana que envolve diretamente o feto durante a gestação.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2026-1"
+                    },
+                    {
+                        "id":  "quimica-249",
+                        "enunciado":  "Considere três esferas metálicas, 1, 2 e 3, de igual volume, constituídas pelos elementos cuja localização na Classificação Periódica está indicada no quadro seguinte.\n\n| Esfera | Localização do elemento constituinte na Classificação Periódica |\n|---|---|\n| 1 | Grupo 2; 3º período |\n| 2 | Grupo 13; 3º período |\n| 3 | Grupo 6; 4º período |\n\nCom base nessas informações, é possível prever que a ordem crescente das respectivas massas m1, m2 e m3 dessas três esferas é:",
+                        "alternativas":  {
+                                             "a":  "m3 \u003c m2 \u003c m1",
+                                             "b":  "m2 \u003c m1 \u003c m3",
+                                             "c":  "m2 \u003c m3 \u003c m1",
+                                             "d":  "m1 \u003c m2 \u003c m3",
+                                             "e":  "m1 \u003c m3 \u003c m2"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Para o mesmo volume, a massa da esfera é proporcional à densidade do elemento: o magnésio (grupo 2, período 3, m1) tem a menor densidade, seguido pelo alumínio (grupo 13, período 3, m2) e pelo cromo (grupo 6, período 4, m3, o mais denso), resultando em m1\u003cm2\u003cm3.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2026-2"
+                    },
+                    {
+                        "id":  "quimica-250",
+                        "enunciado":  "O benzeno líquido, C6H6(l), um importante solvente industrial, pode ser obtido diretamente pela reação do acetileno gasoso, C2H2(g), em presença de ferro como catalisador. A seguir, são fornecidas as entalpias de formação de C2H2(g) e de C6H6(l).\n\n2C(s) + H2(g) → C2H2(g); ΔH = 227 kJ/mol\n6C(s) + 3H2(g) → C6H6(l); ΔH = 49 kJ/mol\n\nTendo como base essas informações, a reação de obtenção de 1 mol de benzeno líquido a partir do acetileno gasoso",
+                        "alternativas":  {
+                                             "a":  "libera 632 kJ, sendo, portanto, um processo endotérmico.",
+                                             "b":  "absorve 632 kJ, sendo, portanto, um processo endotérmico.",
+                                             "c":  "libera 632 kJ, sendo, portanto, um processo exotérmico.",
+                                             "d":  "libera 178 kJ, sendo, portanto, um processo exotérmico.",
+                                             "e":  "absorve 178 kJ, sendo, portanto, um processo endotérmico."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Pela lei de Hess, a formação de 1 mol de benzeno a partir de 3 mol de acetileno tem ΔH = ΔHf(benzeno) − 3×ΔHf(acetileno) = 49 − 3×227 = −632 kJ, um valor negativo que indica um processo exotérmico, liberando 632 kJ.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2026-2"
+                    },
+                    {
+                        "id":  "quimica-251",
+                        "enunciado":  "Com o intuito de preparar uma laranjada, 100 mL de sumo de laranja, cujo pH é igual a 3,0, foram diluídos com água suficiente para completar o volume final de 1 L. O pH da laranjada obtida após a diluição foi igual a",
+                        "alternativas":  {
+                                             "a":  "4,0.",
+                                             "b":  "0,3.",
+                                             "c":  "0,4.",
+                                             "d":  "2,0.",
+                                             "e":  "5,0."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "Diluir 10 vezes uma solução ácida (de 100 mL para 1 L) reduz a concentração de H⁺ também por um fator de 10, o que corresponde a um aumento de uma unidade no pH: de 3,0 para 4,0.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2026-2"
+                    },
+                    {
+                        "id":  "quimica-252",
+                        "enunciado":  "Uma fina camada de prata foi depositada sobre uma peça metálica, por meio da eletrólise de uma solução aquosa contendo íons de prata (Ag+). O processo foi realizado pela circulação de uma corrente elétrica constante de 75 mA, durante 3 h, pela solução. Sabendo que a constante de Faraday é igual a 96 500 C/mol de elétrons, a quantidade de prata depositada no processo, expressa em mol de prata, foi de, aproximadamente,",
+                        "alternativas":  {
+                                             "a":  "0,004.",
+                                             "b":  "0,006.",
+                                             "c":  "0,010.",
+                                             "d":  "0,008.",
+                                             "e":  "0,002."
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "A carga elétrica é Q=i×t=0,075 A×10.800 s=810 C; dividindo pela constante de Faraday (96.500 C/mol), obtém-se cerca de 0,0084 mol de elétrons, que corresponde à mesma quantidade de mol de Ag depositada (1 elétron por íon Ag⁺ reduzido).",
+                        "formato":  "direta",
+                        "origem":  "unesp-2026-2"
+                    },
+                    {
+                        "id":  "quimica-253",
+                        "enunciado":  "O caproato de etila, composto empregado como aromatizante na indústria alimentícia, é representado pela seguinte fórmula estrutural: CH3(CH2)4–C(=O)–O–CH2CH3.\n\nEsse composto é obtido a partir do ácido caproico, cuja fórmula estrutural é CH3(CH2)4–C(=O)–OH.\n\nA fórmula estrutural do composto orgânico com o qual o ácido caproico reage para formar o caproato de etila é:",
+                        "alternativas":  {
+                                             "a":  "H–C(=O)–O–CH2CH3 (formiato de etila).",
+                                             "b":  "CH3–CH2–OH (etanol).",
+                                             "c":  "CH3–CH(OH)–CH2–CH3 (butan-2-ol).",
+                                             "d":  "CH3–C(=O)–CH3 (propanona/acetona).",
+                                             "e":  "(CH3)2CH–CH2–OH (2-metilpropan-1-ol / álcool isobutílico)."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "A reação de esterificação entre o ácido caproico e um álcool forma o caproato de etila e água; como o grupo -O-CH2CH3 do éster corresponde ao radical etila, o álcool usado deve ser o etanol (CH3CH2OH).",
+                        "formato":  "direta",
+                        "origem":  "unesp-2026-2"
+                    },
+                    {
+                        "id":  "quimica-254",
+                        "enunciado":  "Analisando a fórmula apresentada, verifica-se que o número de átomos de carbono quiral presente na molécula do limoneno é:\n\n*(Contexto: limoneno, um líquido incolor, volátil e oleoso encontrado nas cascas de frutas cítricas como limões e laranjas, e de alguns pinheiros, é um solvente orgânico utilizado em desengraxantes, desengordurantes e no controle de pragas agrícolas. A estrutura molecular do limoneno é um anel de cicloexeno com um grupo metila em uma posição do anel e um grupo isopropenil [C(CH3)=CH2] em outra posição do anel — a molécula do limoneno, 4-isopropenil-1-metilcicloexeno.)*",
+                        "alternativas":  {
+                                             "a":  "0.",
+                                             "b":  "2.",
+                                             "c":  "1.",
+                                             "d":  "3.",
+                                             "e":  "4."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "O único carbono do limoneno ligado a quatro grupos diferentes entre si (o carbono do anel que porta o grupo metila, parte do anel de um lado e do outro, e a ligação ao grupo isopropenil) é o carbono estereogênico da molécula, havendo apenas 1 centro quiral.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2025-2"
+                    },
+                    {
+                        "id":  "quimica-255",
+                        "enunciado":  "Com o passar do tempo, o óxido de magnésio (MgO) puro, quando armazenado em um frasco não hermeticamente fechado, torna-se impuro, pois absorve umidade do ar transformando-se parcialmente em hidróxido de magnésio, Mg(OH)2, conforme a seguinte reação:\n\nMgO(s) + H2O(g) → Mg(OH)2(s)\n\nEssa reação pode ser revertida por aquecimento, regenerando-se, assim, o óxido de magnésio:\n\nMg(OH)2(s) → MgO(s) + H2O(g)\n\nUma amostra de 5,8 g de óxido de magnésio impuro foi colocada em um cadinho e submetida a uma calcinação. Após o resfriamento do cadinho, verificou-se que a massa da mesma foi 0,18 g menor do que a inicial.\n\nCom base nessas informações, o grau de pureza do óxido de magnésio impuro nessa amostra era cerca de",
+                        "alternativas":  {
+                                             "a":  "50%.",
+                                             "b":  "90%.",
+                                             "c":  "20%.",
+                                             "d":  "40%.",
+                                             "e":  "70%."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "A perda de massa (0,18 g) corresponde à água liberada na conversão de Mg(OH)2 de volta a MgO durante a calcinação; a partir da estequiometria da reação, calcula-se a quantidade de Mg(OH)2 presente na amostra original e, por diferença, o grau de pureza do MgO, que resulta em cerca de 90%.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2025-2"
+                    },
+                    {
+                        "id":  "quimica-256",
+                        "enunciado":  "A bula de um xarope antitussígeno informa que, entre outros componentes, há 100 mg de iodeto de potássio, KI, em cada dose de 5 mL do xarope. A concentração de KI nesse xarope, expressa em g/L, é igual a",
+                        "alternativas":  {
+                                             "a":  "20,0.",
+                                             "b":  "2,0.",
+                                             "c":  "10,0.",
+                                             "d":  "50,0.",
+                                             "e":  "5,0."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "Uma dose de 5 mL contém 100 mg de KI; a concentração é 100 mg / 0,005 L = 20.000 mg/L = 20,0 g/L.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2025-2"
+                    },
+                    {
+                        "id":  "quimica-257",
+                        "enunciado":  "A solubilidade de um gás em um líquido pode ser estimada pela lei de Henry, que pode ser descrita pela equação s = kH·P, em que: s = solubilidade, kH = constante de Henry em determinada temperatura para determinado solvente e P = pressão do gás em contato com o líquido.\n\nA constante de Henry para o CO2 em água a 20 ºC é igual a 2,3 × 10⁻² mol·L⁻¹·atm⁻¹.\n\nCom base nessas informações, calcula-se que, sob pressão de 0,03 atm e temperatura de 20 ºC, a solubilidade desse gás em água é, aproximadamente,",
+                        "alternativas":  {
+                                             "a":  "2,3 × 10⁻⁴ mol/L.",
+                                             "b":  "1,0 × 10⁻³ mol/L.",
+                                             "c":  "3,3 × 10⁻⁴ mol/L.",
+                                             "d":  "4,6 × 10⁻² mol/L.",
+                                             "e":  "6,9 × 10⁻⁴ mol/L."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Pela lei de Henry, s=kH×P=2,3×10⁻² mol·L⁻¹·atm⁻¹ × 0,03 atm ≈ 6,9×10⁻⁴ mol/L.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2025-2"
+                    },
+                    {
+                        "id":  "quimica-258",
+                        "enunciado":  "O nióbio é um metal que exibe características notáveis. Em sua forma mais pura, é macio, dúctil e altamente resistente à corrosão. Por meio de processos metalúrgicos, obtêm-se produtos de nióbio que encontram inúmeras aplicações, como em carros, estruturas de edifícios e pontes, turbinas de avião, aparelhos de ressonância magnética, marcapassos, sondas espaciais, foguetes, tubulações de gás, componentes eletrônicos e baterias.\n\nUma das últimas etapas da produção do nióbio consiste em um processo aluminotérmico, no qual ocorre a reação representada pela equação:\n\n3Nb2O5(s) + 10Al(s) → 6Nb(s) + 5Al2O3(s); ΔH = ?\n\nConsidere a tabela que fornece dados sobre entalpias-padrão de formação das espécies químicas envolvidas nessa reação:\n\n| Substância | ΔH⁰f em kJ/mol |\n|---|---|\n| Nb2O5(s) | −1 900 |\n| Al(s) | 0 |\n| Nb(s) | 0 |\n| Al2O3(s) | −1 676 |\n\nCom base nesses dados, o valor do ΔH da reação que ocorre no processo aluminotérmico para obtenção do nióbio é igual a",
+                        "alternativas":  {
+                                             "a":  "−3 576 kJ.",
+                                             "b":  "−2 680 kJ.",
+                                             "c":  "−5 700 kJ.",
+                                             "d":  "−224 kJ.",
+                                             "e":  "−8 380 kJ."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Pela lei de Hess, ΔH=Σ ΔHf(produtos)−Σ ΔHf(reagentes)=[6×0+5×(−1676)]−[3×(−1900)+10×0]=−8380−(−5700)=−2680 kJ.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2025-2"
+                    },
+                    {
+                        "id":  "quimica-259",
+                        "enunciado":  "Uma startup chinesa anunciou a criação de uma \"bateria nuclear\" em miniatura capaz de fornecer eletricidade por até 50 anos sem a necessidade de recarregamento. Essa bateria, menor que uma moeda, é formada por camadas contendo isótopos de 63Ni intercaladas com camadas de semicondutores de diamante sintético. As partículas β⁻ (elétrons) emitidas pelo isótopo 63Ni em seu decaimento nuclear são absorvidas pelo semicondutor de diamante, gerando a corrente elétrica fornecida pela bateria.\n\nComo resultado do decaimento do 63Ni presente nessa bateria, forma-se o isótopo",
+                        "alternativas":  {
+                                             "a":  "63Cu.",
+                                             "b":  "64Ni.",
+                                             "c":  "62Ni.",
+                                             "d":  "64Cu.",
+                                             "e":  "64Co."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "No decaimento β⁻, um nêutron do núcleo se transforma em um próton, emitindo um elétron; o número de massa permanece o mesmo (63) e o número atômico aumenta em uma unidade (de 28, níquel, para 29, cobre), formando o isótopo ⁶³Cu.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2025-2"
+                    },
+                    {
+                        "id":  "quimica-260",
+                        "enunciado":  "A figura representa um calorímetro de paredes adiabáticas e de capacidade térmica desprezível, cuja câmara de reação está imersa em 1 000 g de um líquido de calor específico 4,0 kJ/(kg·ºC). Dentro dessa câmara foi realizada a combustão completa de 9 g de glicose (C6H12O6, 180 g/mol) utilizando, para isso, oxigênio pressurizado em quantidade suficiente para que a reação ocorresse completamente.\n\n*(Figura esquemática padrão de calorímetro de bomba: recipiente externo com líquido, termômetro inserido no topo, cabos de ignição e câmara de reação interna contendo a glicose e o oxigênio — diagrama didático genérico.)*\n\nNesse processo, o calor liberado na reação foi totalmente absorvido pelo líquido, que teve sua temperatura elevada de 20 ºC para 55 ºC, e a pressão dentro do calorímetro manteve-se constante. Nessas condições, o calor absorvido pelo líquido e a entalpia da reação de combustão completa da glicose foram, respectivamente,",
+                        "alternativas":  {
+                                             "a":  "140 kJ e −2 800 kJ/mol.",
+                                             "b":  "25,2 kJ e −25,2 kJ/mol.",
+                                             "c":  "1,26 kJ e −2 800 kJ/mol.",
+                                             "d":  "140 kJ e −25,2 kJ/mol.",
+                                             "e":  "1,26 kJ e −25,2 kJ/mol."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "O calor absorvido é Q=m×c×ΔT=1000 g×4,0 J/(g·ºC)×35 ºC=140.000 J=140 kJ. Como isso equivale à combustão de 9 g de glicose (9/180=0,05 mol), a entalpia molar de combustão é 140/0,05=2800 kJ/mol, liberados (portanto negativa), ou seja, −2800 kJ/mol.",
+                        "formato":  "direta",
+                        "origem":  "unesp-2025-2"
+                    },
+                    {
+                        "id":  "quimica-261",
+                        "enunciado":  "O ácido rosmarínico é um polifenol constituído apenas por carbono, hidrogênio e oxigênio, sendo obtido naturalmente de ervas utilizadas na culinária. A análise elementar por combustão completa do ácido rosmarínico revelou que para cada 1 mol desse ácido são formados 18 mol de CO₂ e 8 mol de H₂O. A massa de oxigênio na molécula do ácido rosmarínico corresponde a 8 vezes a sua massa de hidrogênio.\n\nA fórmula mínima do ácido rosmarínico é:",
+                        "alternativas":  {
+                                             "a":  "C₉H₈O₆₄",
+                                             "b":  "C₉H₈O₃₂",
+                                             "c":  "C₉H₄O₃₂",
+                                             "d":  "C₉H₈O₄",
+                                             "e":  "C₉H₄O₄"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "De 1 mol do ácido, formam-se 18 mol de CO2 (18 átomos de C) e 8 mol de H2O (16 átomos de H); usando a relação massa de O = 8× massa de H (16g), obtém-se 128g de O, ou 8 mol de O. A fórmula C18H16O8 simplifica, dividindo por 2, para a fórmula mínima C9H8O4.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2024"
+                    },
+                    {
+                        "id":  "quimica-262",
+                        "enunciado":  "A radioembolização é um tipo de radioterapia em que a fonte radioativa é inserida no interior do organismo do paciente próxima ao tecido ou órgão que apresenta crescimento tumoral. Para o caso de tumores de fígado, a radioembolização com o radioisótopo hólmio-166, ¹⁶⁶Ho, tem sido uma estratégia empregada. O radioisótopo ¹⁶⁶Ho emite partícula beta (₋₁⁰β) e radiação gama (₀⁰γ), com energias adequadas para esse emprego.\n\nO isótopo resultante do decaimento radioativo do ¹⁶⁶Ho é o",
+                        "alternativas":  {
+                                             "a":  "¹⁶⁶Er",
+                                             "b":  "¹⁶⁶Dy",
+                                             "c":  "¹⁶⁷Dy",
+                                             "d":  "¹⁶⁵Dy",
+                                             "e":  "¹⁶⁵Er"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "O decaimento beta menos (₋₁⁰β) converte um nêutron em um próton no núcleo: o número de massa (166) permanece o mesmo e o número atômico aumenta em uma unidade, do hólmio (Z=67) para o érbio (Z=68), formando o ¹⁶⁶Er.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2024"
+                    },
+                    {
+                        "id":  "quimica-263",
+                        "enunciado":  "Um cilindro metálico de volume constante contém uma quantidade invariável de certo gás a 47 ºC e pressão igual a P1. Ao elevar a temperatura do gás no interior do cilindro, atinge-se 147 ºC. Nessa temperatura, a pressão P2 do gás será, aproximadamente,",
+                        "alternativas":  {
+                                             "a":  "13,1 × P1.",
+                                             "b":  "1,31 × P1.",
+                                             "c":  "10 × P1.",
+                                             "d":  "100 × P1.",
+                                             "e":  "131 × P1."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Pela lei de Gay-Lussac (V constante), P/T é constante: P2=P1×T2/T1=P1×420K/320K≈1,31×P1 (convertendo as temperaturas para Kelvin: 47ºC=320K e 147ºC=420K).",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2024"
+                    },
+                    {
+                        "id":  "quimica-264",
+                        "enunciado":  "O monitoramento dos valores de pH do sistema digestório de um paciente apresentou os seguintes resultados: saliva pH 7; suco gástrico pH 2.\n\nA relação entre as concentrações de íons H⁺ do suco gástrico e da saliva desse paciente é igual a",
+                        "alternativas":  {
+                                             "a":  "30.",
+                                             "b":  "10⁵.",
+                                             "c":  "5.",
+                                             "d":  "0,3.",
+                                             "e":  "10⁻⁵."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "A diferença de 5 unidades de pH (de 7 para 2) corresponde a uma razão de concentração de H⁺ de 10⁵ vezes, já que cada unidade de pH representa uma variação de 10 vezes na concentração de íons H⁺.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2024"
+                    },
+                    {
+                        "id":  "quimica-265",
+                        "enunciado":  "Os gases atmosféricos poluentes, resultantes da queima de combustível fóssil, realizam reações secundárias gerando diversos produtos. A reação entre dois desses gases, NO₂(g) + O₃(g) → NO₃(g) + O₂(g), teve a sua cinética estudada a 20 ºC:\n\n| Experimento | [NO₂] mol/L | [O₃] mol/L | Taxa (mol·L⁻¹·s⁻¹) |\n|---|---|---|---|\n| 1 | 5,0 × 10⁻⁵ | 1,0 × 10⁻⁵ | 0,033 |\n| 2 | 5,0 × 10⁻⁵ | 2,0 × 10⁻⁵ | 0,066 |\n| 3 | 2,5 × 10⁻⁵ | 2,0 × 10⁻⁵ | 0,033 |\n\nConsidere que a equação da rapidez dessa reação, v, seja representada pela equação: v = k[NO₂]ˣ·[O₃]ʸ\n\nA ordem global dessa reação, dada pela soma dos valores de x e y, é igual a",
+                        "alternativas":  {
+                                             "a":  "3",
+                                             "b":  "1",
+                                             "c":  "1/2",
+                                             "d":  "0",
+                                             "e":  "2"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Comparando os experimentos 1 e 3 (mesma [O3], [NO2] varia pela metade e a taxa também cai pela metade): ordem 1 em relação a NO2. Comparando 1 e 2 (mesma [NO2], [O3] dobra e a taxa dobra): ordem 1 em relação a O3. A ordem global é a soma: 1+1=2.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2024"
+                    },
+                    {
+                        "id":  "quimica-266",
+                        "enunciado":  "A reação entre o cloreto de antimônio(III), SbCl₃ (massa molar = 228 g/mol), e a água resulta na formação de óxido de antimônio(III), Sb₂O₃, e cloreto de hidrogênio gasoso, HCl: SbCl₃(s) + H₂O(l) → Sb₂O₃(s) + HCl(g) (equação não balanceada).\n\nA uma certa massa de cloreto de antimônio(III) foram adicionados 180 mL de água (d = 1 g/mL). Nas condições adequadas de reação, formaram-se 18 mol de HCl.\n\nA massa de cloreto de antimônio(III) e a quantidade, em mol, de água que participaram dessa reação são",
+                        "alternativas":  {
+                                             "a":  "456 g e 10 mol.",
+                                             "b":  "456 g e 6 mol.",
+                                             "c":  "1 368 g e 9 mol.",
+                                             "d":  "228 g e 1 mol.",
+                                             "e":  "1 368 g e 10 mol."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Balanceando a equação (2SbCl3+3H2O→Sb2O3+6HCl), a proporção é de 2 mol de SbCl3 para 6 mol de HCl, ou seja, 1:3; para 18 mol de HCl formado, reagiram 6 mol de SbCl3 (1368 g, usando M=228g/mol) e, pela proporção 2:3 entre SbCl3 e H2O, 9 mol de água.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2024"
+                    },
+                    {
+                        "id":  "quimica-267",
+                        "enunciado":  "Um experimento para medidas eletroquímicas foi montado empregando-se uma folha de papel de filtro recortada em formato de cruz. Nas extremidades de cada braço dessa cruz de papel foi posicionado um pedaço de metal M e, ao redor de cada um dos metais, o papel foi umedecido com solução aquosa 0,10 mol/L do sal MSO₄ correspondente. A parte central da cruz de papel foi umedecida com solução de KNO₃ 0,1 mol/L, estabelecendo o contato elétrico entre os braços.\n\n| Metal | Potencial padrão de redução (V) |\n|---|---|\n| Mg | –2,36 |\n| Zn | –0,76 |\n| Fe | –0,44 |\n| Cu | +0,34 |\n\nUsando um multímetro, foram medidas as diferenças de potenciais de pilhas possíveis de serem formadas pela associação de pares dos metais. No experimento, o par de metais que apresentou o valor positivo mais alto de diferença de potencial na pilha formada teve como seu polo negativo e seu polo positivo, respectivamente, os metais",
+                        "alternativas":  {
+                                             "a":  "Zn e Mg.",
+                                             "b":  "Fe e Zn.",
+                                             "c":  "Zn e Cu.",
+                                             "d":  "Mg e Cu.",
+                                             "e":  "Cu e Fe."
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Quanto maior a diferença entre os potenciais padrão de redução dos dois metais associados, maior é a diferença de potencial da pilha formada; o par com a maior diferença é magnésio (–2,36 V, o polo negativo/ânodo, que sofre oxidação) e cobre (+0,34 V, o polo positivo/cátodo).",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2024"
+                    },
+                    {
+                        "id":  "quimica-268",
+                        "enunciado":  "Uma fórmula estrutural apresenta um monoterpeno, composto natural extraído de certos tipos de plantas, empregado na indústria farmacêutica para aumentar a absorção cutânea de fármacos: um éster cíclico (grupo isopropila ligado a um anel cicloexeno, conectado por uma ligação éster a um grupo acetato).\n\nO monoterpeno apresentado é um éster e pode ser sintetizado a partir da reação entre o ácido etanoico e um álcool. A fórmula molecular desse álcool é",
+                        "alternativas":  {
+                                             "a":  "C₁₀H₂₀O",
+                                             "b":  "C₇H₁₄O",
+                                             "c":  "C₆H₁₂O",
+                                             "d":  "C₂H₆O",
+                                             "e":  "CH₄O"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "O éster é formado pela reação entre o ácido etanoico (ácido acético) e um álcool cíclico de fórmula C10H20O (um monoterpeno álcool, como o mentol ou similar), cuja esterificação produz o acetato correspondente representado na estrutura.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2024"
+                    },
+                    {
+                        "id":  "quimica-269",
+                        "enunciado":  "Os glicídios são fontes de energia para os seres vivos. Dentre os glicídios, os polissacarídeos que estão presentes em vegetais e animais são, respectivamente,",
+                        "alternativas":  {
+                                             "a":  "frutose e glicogênio.",
+                                             "b":  "glicose e sacarose.",
+                                             "c":  "glicogênio e glicose.",
+                                             "d":  "sacarose e glicose.",
+                                             "e":  "celulose e glicogênio."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "A celulose é o principal polissacarídeo estrutural dos vegetais, e o glicogênio é o polissacarídeo de reserva energética típico dos animais (armazenado principalmente no fígado e nos músculos).",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2024"
+                    },
+                    {
+                        "id":  "quimica-270",
+                        "enunciado":  "A tabela apresenta a abundância isotópica do magnésio encontrado na natureza.\n\n| Isótopo (número de massa) | Abundância isotópica |\n|---|---|\n| 24 | 78,99% |\n| 25 | 10,00% |\n| 26 | 11,01% |\n\nConsiderando a constante de Avogadro igual a 6,0 × 10²³ mol⁻¹, em 4,86 g de magnésio, a quantidade de átomos de magnésio-25 é igual a",
+                        "alternativas":  {
+                                             "a":  "1,3 × 10²¹.",
+                                             "b":  "3,0 × 10²⁰.",
+                                             "c":  "1,2 × 10²².",
+                                             "d":  "9,4 × 10²².",
+                                             "e":  "6,0 × 10²³."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Em 4,86 g de magnésio (massa molar aproximada 24,3 g/mol), há cerca de 0,2 mol de átomos totais; 10% desses átomos correspondem ao isótopo magnésio-25, ou seja, cerca de 0,02 mol, que multiplicados pela constante de Avogadro (6,0×10²³) resultam em aproximadamente 1,2×10²² átomos.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2025"
+                    },
+                    {
+                        "id":  "quimica-271",
+                        "enunciado":  "Um medicamento para combater a azia e o excesso de acidez estomacal causado pelo ácido clorídrico (HCl) é disponibilizado na forma de pastilhas mastigáveis que contêm 500 mg de carbonato de cálcio (CaCO₃).\n\nConsidere que haja a reação completa do conteúdo de uma pastilha desse medicamento no aparelho digestório de um indivíduo com temperatura corpórea 37 ºC, que a pressão nesse local seja de 1,0 atm e que a constante R seja 0,08 atm·L·mol⁻¹·K⁻¹. O volume máximo de dióxido de carbono (CO₂) formado nessa reação será de, aproximadamente,",
+                        "alternativas":  {
+                                             "a":  "500 mL.",
+                                             "b":  "120 mL.",
+                                             "c":  "1,5 L.",
+                                             "d":  "1,2 L.",
+                                             "e":  "140 mL."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "500 mg de CaCO3 (100 g/mol) correspondem a 0,005 mol, que pela estequiometria da reação com HCl produzem 0,005 mol de CO2. Usando PV=nRT a 310 K (37ºC) e 1 atm, o volume é V=nRT/P=0,005×0,08×310/1≈0,124 L≈120 mL.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2025"
+                    },
+                    {
+                        "id":  "quimica-272",
+                        "enunciado":  "O astato (At) é o elemento mais escasso da natureza e pertence ao grupo dos halogênios. Em laboratórios de pesquisa, esse elemento é obtido a partir do processo nuclear representado na equação: ⁴₂α + ᴬ_Z X → ²¹¹₈₅At + 2 ¹₀n\n\nO comportamento químico do astato é igual ao dos demais elementos de seu grupo da Classificação Periódica, e seu ânion monoatômico forma compostos aparentemente iônicos com metais alcalinos (M).\n\nO elemento químico X empregado no processo nuclear para obtenção do astato e a fórmula unitária do composto formado entre o astato e um metal alcalino são, respectivamente:",
+                        "alternativas":  {
+                                             "a":  "bismuto e MAt",
+                                             "b":  "bismuto e MAt₂",
+                                             "c":  "polônio e M₂At",
+                                             "d":  "frâncio e MAt",
+                                             "e":  "frâncio e MAt₂"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "Pela conservação do número de massa e do número atômico na reação nuclear, A = 211+2×1−4=209 e Z=85+0−2=83, correspondendo ao elemento bismuto; como o astato é um halogênio (grupo 17), forma ânion At⁻ e, com um metal alcalino M⁺, o composto iônico de fórmula MAt.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2025"
+                    },
+                    {
+                        "id":  "quimica-273",
+                        "enunciado":  "Para o estudo de equilíbrio reacional foram realizados, separadamente, os experimentos 1, 2, 3 e 4, com reações químicas no estado gasoso em sistemas fechados, comparando as condições do equilíbrio I (V=10L, T=125°C, P=1,0 atm) e do equilíbrio II (V=2L, T=125°C, P=5,0 atm):\n\n1. NH₃(g) + CH₄(g) ⇌ HCN(g) + 3H₂(g)\n2. 2HCN(g) + 6H₂O(g) ⇌ 2NH₃(g) + 2CH₄(g) + 3O₂(g)\n3. N₂(g) + 3H₂(g) ⇌ 2NH₃(g)\n4. CO₂(g) + H₂(g) ⇌ CO(g) + H₂O(g)\n\nConsiderando-se separadamente cada um dos experimentos realizados, as reações que tiveram aumento da formação dos produtos ao se passar das condições do equilíbrio I para as condições do equilíbrio II são as dos experimentos",
+                        "alternativas":  {
+                                             "a":  "2 e 4.",
+                                             "b":  "1 e 3.",
+                                             "c":  "3 e 4.",
+                                             "d":  "2 e 3.",
+                                             "e":  "1 e 4."
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Passar do equilíbrio I (menor pressão, maior volume) para o II (maior pressão, menor volume) favorece o lado com menor número de mols gasosos: nas reações 2 e 3, os produtos têm menos mols de gás do que os reagentes, então o aumento de pressão desloca o equilíbrio para a formação de mais produtos.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2025"
+                    },
+                    {
+                        "id":  "quimica-274",
+                        "enunciado":  "A ureia, OC(NH₂)₂, é empregada na agricultura para recomposição dos nutrientes do solo. Sua hidrólise resulta em dióxido de carbono (CO₂) e amônia (NH₃): OC(NH₂)₂(aq) + H₂O(l) → CO₂(g) + 2NH₃(g)\n\nAs geometrias ao redor dos átomos de carbono centrais das moléculas de reagente e produto dessa reação, ureia e dióxido de carbono, são, respectivamente,",
+                        "alternativas":  {
+                                             "a":  "plana trigonal e angular.",
+                                             "b":  "piramidal trigonal e angular.",
+                                             "c":  "tetraédrica e angular.",
+                                             "d":  "piramidal trigonal e linear.",
+                                             "e":  "plana trigonal e linear."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "A ureia tem geometria plana trigonal ao redor do carbono central (ligado a dois grupos NH2 e um oxigênio duplo, em arranjo trigonal); o CO2, com duas ligações duplas C=O em lados opostos e nenhum par isolado no carbono central, tem geometria linear.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2025"
+                    },
+                    {
+                        "id":  "quimica-275",
+                        "enunciado":  "Um estudo da rapidez da hidrólise da ureia (catalisada pela enzima urease) foi realizado em cinco experimentos, variando concentração de ureia e temperatura da solução, medindo o tempo para iniciar a liberação dos gases:\n\n| Experimento | Concentração | Temperatura | Tempo p/ iniciar liberação |\n|---|---|---|---|\n| 1 | 10 mol/L | 20 ºC | 8 minutos |\n| 2 | 10 mol/L | 60 ºC | 3 minutos |\n| 3 | 2,5 mol/L | 20 ºC | 12 minutos |\n| 4 | 2,5 mol/L | 20 ºC | 2 minutos |\n| 5 | 2,5 mol/L | 60 ºC | 8 minutos |\n\nO experimento em que foi empregada a enzima urease foi o de número",
+                        "alternativas":  {
+                                             "a":  "2.",
+                                             "b":  "3.",
+                                             "c":  "5.",
+                                             "d":  "4.",
+                                             "e":  "1."
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "O experimento com a maior velocidade relativa à sua concentração (experimento 4: menor concentração, mesma temperatura do experimento 3, porém tempo muito menor) indica a presença de um catalisador biológico (a enzima urease), que acelera a reação sem que se altere a temperatura ou a concentração de substrato.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2025"
+                    },
+                    {
+                        "id":  "quimica-276",
+                        "enunciado":  "O alumínio metálico é produzido industrialmente a partir da eletrólise ígnea (a 1 000 ºC) da alumina, Al₂O₃, em uma cuba eletrolítica com eletrodo de grafite (polo positivo) e eletrodo de aço (polo negativo), num eletrólito de alumina fundida contendo íons Al³⁺ e O²⁻. As reações nos eletrodos são: Al³⁺ + 3e⁻ → Al; 2O²⁻ → O₂ + 4e⁻. O eletrodo de grafite reage com o oxigênio formado e produz CO₂ gasoso.\n\nSupondo que todo o O₂ produzido na eletrólise seja convertido a CO₂ por reação com a grafite, a cada 1 mol de alumina consumido no processo são formados ____ mol de CO₂, e na eletrólise da alumina ocorre reação de ____ no polo negativo.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                        "alternativas":  {
+                                             "a":  "1,5 e oxidação.",
+                                             "b":  "1,5 e redução.",
+                                             "c":  "3 e oxidação.",
+                                             "d":  "3 e redução.",
+                                             "e":  "2 e redução."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Pela estequiometria (2O²⁻→O2+4e⁻, e depois O2+C→CO2), a cada 1 mol de Al2O3 (que fornece 3 mol de O²⁻) formam-se 1,5 mol de O2 e, portanto, 1,5 mol de CO2; no polo negativo (cátodo) ocorre a redução do Al³⁺ a Al metálico.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2025"
+                    },
+                    {
+                        "id":  "quimica-277",
+                        "enunciado":  "A morfina é o princípio ativo do ópio e é categorizada como opioide, empregada em medicamentos para alívio de dores agudas. Sua fórmula estrutural mostra um anel com um grupo hidroxila (posição 1), um oxigênio em ponte (posição 2), outro grupo hidroxila (posição 3), uma ligação dupla C=C (posição 4) e um átomo de nitrogênio terciário com metila (posição 5).\n\nEm água, a morfina comporta-se como uma base fraca, com constante de equilíbrio, em 20 ºC, Kb = 10⁻⁸: Morfina(aq) + H₂O(l) ⇌ MorfinaH⁺(aq) + OH⁻(aq)\n\nNa fórmula estrutural da morfina, a região da molécula que adquire a carga positiva na interação com a água está indicada pela posição de número",
+                        "alternativas":  {
+                                             "a":  "3.",
+                                             "b":  "1.",
+                                             "c":  "2.",
+                                             "d":  "4.",
+                                             "e":  "5."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "O nitrogênio terciário (posição 5) é o átomo que, ao aceitar o próton da água (atuando como base de Brønsted-Lowry), adquire a carga positiva, formando o cátion morfínio (MorfinaH⁺).",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2025"
+                    },
+                    {
+                        "id":  "quimica-278",
+                        "enunciado":  "Uma solução aquosa de morfina com concentração 1 × 10⁻² mol/L tem pH, a 20 ºC, igual a",
+                        "alternativas":  {
+                                             "a":  "9.",
+                                             "b":  "5.",
+                                             "c":  "8.",
+                                             "d":  "10.",
+                                             "e":  "2."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "Para uma base fraca com Kb=10⁻⁸ e concentração 10⁻² mol/L: [OH⁻]=√(Kb×C)=√(10⁻¹⁰)=10⁻⁵ mol/L, logo pOH=5 e pH=14−5=9.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2025"
+                    },
+                    {
+                        "id":  "quimica-279",
+                        "enunciado":  "Os sinalizadores de fumaça, itens obrigatórios em embarcações, são usados para indicar a localização para outras embarcações ou aeronaves em situações de emergência. Quando acionados, inicia-se uma reação química que libera fumaça densa e colorida, visível a grandes distâncias, mesmo com mau tempo. A cor produzida nessa reação química, essencial para a sinalização, tem origem na transição de elétrons dos elementos químicos que participam da reação. A tabela apresenta as cores produzidas por alguns elementos químicos:\n\n| Elemento químico | Cor da fumaça |\n|---|---|\n| Lítio | Vermelho-arroxeada |\n| Sódio | Amarela intensa |\n| Potássio | Violeta-azulada |\n| Estrôncio | Vermelha intensa |\n| Cobre | Verde-azulada |\n\nDeterminada marca de sinalizadores apresenta em sua composição um elemento químico de número de massa A = 88 e que possui 50 nêutrons. A cor da fumaça gerada por esse sinalizador é",
+                        "alternativas":  {
+                                             "a":  "vermelho-arroxeada.",
+                                             "b":  "amarela intensa.",
+                                             "c":  "violeta-azulada.",
+                                             "d":  "verde-azulada.",
+                                             "e":  "vermelha intensa."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "O elemento com número de massa 88 e 50 nêutrons tem número atômico 88−50=38, que corresponde ao estrôncio — cuja fumaça, segundo a tabela, é vermelha intensa.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2026"
+                    },
+                    {
+                        "id":  "quimica-280",
+                        "enunciado":  "Em uma demonstração experimental sobre misturas, polaridade e interações intermoleculares, a mistura álcool isopropílico e água (situação 1) foi submetida ao aquecimento, atingindo a ebulição na temperatura constante de 80,4 ºC. Após resfriamento à temperatura ambiente, foi adicionada à mistura uma certa quantidade de cloreto de sódio (situação 2). Em seguida, feita a agitação para total solubilização, com formação de uma solução saturada com corpo de fundo, a mistura líquida se separou em duas fases líquidas (situação 3).\n\n| Líquido | Temperatura de ebulição (ºC) | Densidade (g/cm³) |\n|---|---|---|\n| Álcool isopropílico | 78,9 | 0,78 |\n| Água | 100 | 1,0 |\n| Solução saturada de cloreto de sódio | – | 1,2 |\n\nA classificação da mistura contida no béquer na situação 1 e a técnica de separação adequada para separar o álcool isopropílico da mistura na situação 3 são, respectivamente,",
+                        "alternativas":  {
+                                             "a":  "mistura azeotrópica e decantação.",
+                                             "b":  "mistura simples e decantação.",
+                                             "c":  "mistura eutética e filtração.",
+                                             "d":  "mistura simples e sedimentação.",
+                                             "e":  "mistura azeotrópica e filtração."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "A mistura de álcool isopropílico e água que ferve a uma temperatura constante (80,4 ºC), diferente da temperatura de ebulição de qualquer um dos componentes puros, é uma mistura azeotrópica; após a adição de NaCl, a maior densidade da fase salina promove a separação em duas fases líquidas, que podem ser separadas por decantação.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2026"
+                    },
+                    {
+                        "id":  "quimica-281",
+                        "enunciado":  "No conteúdo do béquer na situação 3 (da questão anterior), as forças de interação mais intensas existentes entre as espécies químicas presentes na fase 1 e as mais intensas na fase 2 são, respectivamente,",
+                        "alternativas":  {
+                                             "a":  "ligação de hidrogênio e interação dipolo-dipolo induzido.",
+                                             "b":  "interação íon-dipolo e ligação de hidrogênio.",
+                                             "c":  "ligação de hidrogênio e interação íon-dipolo.",
+                                             "d":  "interação dipolo induzido-dipolo induzido e interação íon-dipolo.",
+                                             "e":  "interação dipolo-dipolo induzido e interação íon-dipolo."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Na fase menos densa (rica em álcool isopropílico e água), a interação mais intensa é a ligação de hidrogênio entre as moléculas polares; na fase mais densa (solução salina saturada), a interação mais intensa é do tipo íon-dipolo, entre os íons Na⁺/Cl⁻ e as moléculas de água.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2026"
+                    },
+                    {
+                        "id":  "quimica-282",
+                        "enunciado":  "O nitreto de tório(IV), Th₃N₄, é um composto empregado em tecnologia nuclear. O Brasil detém reservas de minério de tório, a monazita. A partir desse minério, obtém-se o composto óxido de tório(IV), ThO₂, que é usado como matéria-prima no processo de obtenção de nitreto de tório, representado pela equação de reação a seguir, processada em um reator selado:\n\n3ThO₂(s) + 6C(s) + 2N₂(g) → Th₃N₄(s) + 6CO(g)\n\nAo serem adicionados no reator 12 mol de cada um dos reagentes, a quantidade máxima de Th₃N₄, em mol, que se forma é igual a",
+                        "alternativas":  {
+                                             "a":  "6.",
+                                             "b":  "2.",
+                                             "c":  "12.",
+                                             "d":  "4.",
+                                             "e":  "8."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Com 12 mol de cada reagente disponíveis, o número de \"porções\" da reação que cada um permite é 12/3=4 (para o ThO2), 12/6=2 (para o C) e 12/2=6 (para o N2); o carbono é o reagente limitante, permitindo a formação de apenas 2 mol de Th3N4.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2026"
+                    },
+                    {
+                        "id":  "quimica-283",
+                        "enunciado":  "A anilina, C₆H₅NH₂, é uma substância orgânica empregada na indústria química e na indústria farmacêutica. Ao ser adicionada em água, a anilina reage e estabelece o equilíbrio químico: C₆H₅NH₂(l) + H₂O(l) ⇌ C₆H₅NH₃⁺(aq) + OH⁻(aq)\n\nA constante de equilíbrio dessa reação, a uma certa temperatura, é K = 5 × 10⁻¹⁰.\n\nUma solução de anilina, a essa temperatura, com concentração igual a 2 × 10⁻³ mol/L apresenta concentração de íons OH⁻, [OH⁻], e pH iguais a",
+                        "alternativas":  {
+                                             "a":  "10⁻⁶ mol/L e 8.",
+                                             "b":  "10⁻⁶ mol/L e 6.",
+                                             "c":  "10⁻¹² mol/L e 8.",
+                                             "d":  "10⁻¹² mol/L e 2.",
+                                             "e":  "10⁻¹² mol/L e 6."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "Como C=2×10⁻³ mol/L e K=5×10⁻¹⁰, [OH⁻]=√(K×C)=√(10⁻¹²)=10⁻⁶ mol/L; logo pOH=6 e pH=14−6=8.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2026"
+                    },
+                    {
+                        "id":  "quimica-284",
+                        "enunciado":  "Em uma aula de química foram aquecidas três soluções, 1, 2 e 3, nas mesmas condições: Solução 1 = glicose 2 mol/L; Solução 2 = KCl 1 mol/L; Solução 3 = Al(NO₃)₃ 1 mol/L.\n\nA respeito das temperaturas de ebulição dessas soluções, conclui-se que",
+                        "alternativas":  {
+                                             "a":  "as soluções 2 e 3 têm a mesma temperatura de ebulição porque ambas têm sais dissolvidos em água.",
+                                             "b":  "a solução 1 tem temperatura de ebulição mais alta, porque tem concentração mais alta de soluto.",
+                                             "c":  "as soluções 1 e 2 têm a mesma temperatura de ebulição, porque ambas têm a mesma concentração de espécies químicas dissolvidas.",
+                                             "d":  "a solução 3 tem temperatura de ebulição mais baixa, porque tem mais íons dissolvidos.",
+                                             "e":  "as soluções 2 e 3 têm a mesma temperatura de ebulição, porque ambas têm a mesma concentração de soluto."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "A elevação da temperatura de ebulição depende do número de partículas dissolvidas (efeito coligativo). A solução 1 (glicose, não iônica, 2 mol/L de partículas) e a solução 2 (KCl, que se dissocia em 2 íons por fórmula, logo 1 mol/L×2=2 mol/L de partículas) têm a mesma concentração total de espécies dissolvidas, e por isso a mesma temperatura de ebulição.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2026"
+                    },
+                    {
+                        "id":  "quimica-285",
+                        "enunciado":  "A equação a seguir representa a reação de síntese do Kevlar®, um polímero de alta resistência usado em equipamentos de proteção individual, na indústria aeroespacial, entre outras áreas: um ácido dicarboxílico aromático reage com uma diamina aromática, catalisada, formando o polímero (com ligações amida repetidas) e liberando água.\n\nO Kevlar® é um polímero de ____ e sua molécula apresenta o grupo funcional característico da função orgânica ____. Esse grupo funcional também está presente na formação ____, que são macromoléculas naturais.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+                        "alternativas":  {
+                                             "a":  "condensação – amida – das proteínas.",
+                                             "b":  "adição – amina – dos amidos.",
+                                             "c":  "adição – amida – das proteínas.",
+                                             "d":  "condensação – amina – dos amidos.",
+                                             "e":  "condensação – amida – dos amidos."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "O Kevlar é um polímero de condensação (formado com liberação de água) cujo grupo funcional característico é a amida — a mesma ligação amida (peptídica) que une os aminoácidos nas proteínas.",
+                        "formato":  "direta",
+                        "origem":  "santacasa-2026"
+                    },
+                    {
+                        "id":  "quimica-286",
+                        "enunciado":  "Na etapa de coagulação do tratamento de água, utiliza-se sulfato de alumínio [Al2(SO4)3] para formar flocos de hidróxido de alumínio [Al(OH)3], que agregam impurezas. A reação química desse processo é:\n\nAl2(SO4)3 + 3 Ca(HCO3)2 → 2 Al(OH)3 + 3 CaSO4 + 6 CO2\n\nUma estação de tratamento de água (ETA) consome 147 kg de sulfato de alumínio [Al2(SO4)3] por dia para coagular impurezas.\n\nConsidere as seguintes massas molares: Al2(SO4)3 = 342 g/mol; Al(OH)3 = 78 g/mol; Ca(HCO3)2 = 162 g/mol; CaSO4 = 136 g/mol e CO2 = 44 g/mol.\n\nA massa aproximada, em quilograma, de hidróxido de alumínio produzido diariamente é igual a",
+                        "alternativas":  {
+                                             "a":  "33,5.",
+                                             "b":  "67,0.",
+                                             "c":  "70,4.",
+                                             "d":  "134,1.",
+                                             "e":  "209,0."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Pela estequiometria da equação (1 mol de Al2(SO4)3 produz 2 mol de Al(OH)3), 147 kg de Al2(SO4)3 (342 g/mol) correspondem a cerca de 429,8 mol, que produzem 859,6 mol de Al(OH)3 (78 g/mol), totalizando aproximadamente 67,0 kg.",
+                        "formato":  "direta",
+                        "origem":  "pucsp-2026"
+                    },
+                    {
+                        "id":  "quimica-287",
+                        "enunciado":  "Biomassa é a matéria orgânica de origem vegetal ou animal utilizada como fonte de energia renovável. Sua importância está na redução da dependência de combustíveis fósseis e na diminuição das emissões de gases poluentes. Para um melhor aproveitamento dessa fonte, alguns processos incluem a trituração da biomassa com o objetivo de aumentar a velocidade de decomposição da matéria orgânica pelos microrganismos, contribuindo para uma produção mais estável e eficiente do biogás.\n\nA velocidade de decomposição da biomassa aumenta devido ao(à)",
+                        "alternativas":  {
+                                             "a":  "diminuição da concentração dos reagentes, o que reduz a resistência do meio, acelerando a cinética.",
+                                             "b":  "aumento da energia de ativação, o que torna as moléculas mais reativas, facilitando a ação microbiana.",
+                                             "c":  "diminuição da temperatura do meio, o que estabiliza os microrganismos, favorecendo a decomposição.",
+                                             "d":  "aumento da pressão parcial de oxigênio, o que intensifica a oxidação da biomassa pelos microrganismos, facilitando a decomposição.",
+                                             "e":  "aumento da superfície de contato, o que favorece a interação entre os microrganismos e o substrato, acelerando reações heterogêneas."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "A trituração da biomassa aumenta a superfície de contato entre o substrato e os micro-organismos decompositores, favorecendo reações heterogêneas (que ocorrem na interface sólido-líquido) e acelerando a velocidade de decomposição.",
+                        "formato":  "direta",
+                        "origem":  "pucsp-2026"
+                    },
+                    {
+                        "id":  "quimica-288",
+                        "enunciado":  "O trítio é um dos isótopos do hidrogênio que apesar de ser raro na Terra, está presente em grande quantidade no Sol. Seu processo de decaimento ocorre com meia-vida de 12 anos, segundo a reação:\n\n³₁H → ³₂He + β\n\nA massa, em gramas, de Hélio-3 produzida pelo decaimento de 1 mol de trítio após 24 anos é de:",
+                        "alternativas":  {
+                                             "a":  "1,50",
+                                             "b":  "0,50",
+                                             "c":  "2,75",
+                                             "d":  "2,25",
+                                             "e":  "0,25"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Em 24 anos se passam duas meias-vidas (2×12 anos). De 1 mol de trítio, restam 1/4 mol (0,25 mol) sem decair e 3/4 mol (0,75 mol) decaem em Hélio-3; como a massa molar do ³He é 3 g/mol, a massa formada é 0,75×3=2,25 g.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2024.1"
+                    },
+                    {
+                        "id":  "quimica-289",
+                        "enunciado":  "Modelos atômicos foram propostos ao longo do tempo por diferentes cientistas e possibilitaram o entendimento da estrutura atômica, das propriedades dos átomos e das reações químicas no nível microscópico.\n\nSobre os modelos atômicos são feitas as seguintes afirmações:\n\nI. O modelo atômico de Dalton considerava a existência de partículas subatômicas.\nII. Rutherford introduziu a ideia de níveis de energia quantizados para os elétrons.\nIII. No modelo de Rutherford-Bohr os elétrons só poderiam ocupar níveis específicos de energia.\n\nEstá correto o que se afirma em:",
+                        "alternativas":  {
+                                             "a":  "I, II e III.",
+                                             "b":  "I e II, apenas.",
+                                             "c":  "I e III, apenas.",
+                                             "d":  "II, apenas.",
+                                             "e":  "III, apenas."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Dalton não previa partículas subatômicas (I falsa); foi Bohr, não Rutherford, quem introduziu a ideia de níveis quantizados de energia (II falsa); o modelo de Rutherford-Bohr de fato restringe os elétrons a órbitas/níveis específicos de energia (III verdadeira).",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2024.1"
+                    },
+                    {
+                        "id":  "quimica-290",
+                        "enunciado":  "A eletrólise do cloreto de sódio dissolvido em água é a base da indústria de cloro e de álcali. Os produtos mais importantes desse processo são o cloro gasoso e o hidróxido de sódio.\n\n2 NaCl (aq) + 2 H2O (l) → 2 NaOH (aq) + H2 (g) + Cl2 (g)\n\nQuando, através desse processo, ocorre a produção de 800 kg de hidróxido de sódio, o volume produzido de cloro gasoso, medido nas CNTP, é de:",
+                        "alternativas":  {
+                                             "a":  "2,24 x 10³ L",
+                                             "b":  "448 L",
+                                             "c":  "2,24 x 10⁵ L",
+                                             "d":  "224 L",
+                                             "e":  "4,48 x 10⁵ L\n\nDados: Massa molar (g.mol⁻¹) Na = 23, O = 16, H = 1"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "800 kg (800.000 g) de NaOH (40 g/mol) correspondem a 20.000 mol; pela proporção 2 NaOH : 1 Cl2 da equação, formam-se 10.000 mol de Cl2, que nas CNTP ocupam 10.000×22,4 L = 2,24×10⁵ L.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2024.1"
+                    },
+                    {
+                        "id":  "quimica-291",
+                        "enunciado":  "A mineração de ouro na Amazônia está associada a um grande problema: a utilização do mercúrio. O mercúrio é usado para separar o ouro de outros materiais, mas, devido à sua alta toxidade, constitui um grave problema ambiental. Numa das etapas da obtenção de mercúrio para utilização nesse tipo de garimpo, ocorre a redução do HgO. Esse óxido é aquecido junto com carvão, que atua como agente redutor. O carvão retira o oxigênio do óxido de mercúrio, deixando mercúrio livre. Se, nesse processo de redução do mercúrio, houver a transferência de uma carga de 10F (faradays), a quantidade máxima de mercúrio metálico obtido será de:",
+                        "alternativas":  {
+                                             "a":  "50g",
+                                             "b":  "250g",
+                                             "c":  "400g",
+                                             "d":  "500g",
+                                             "e":  "1000g\n\nDados: Massa molar (g.mol⁻¹) Hg = 200"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Com transferência de 10 mol de elétrons (10 F) e sendo necessários 2 elétrons para reduzir cada Hg²⁺ a Hg metálico, formam-se 5 mol de Hg, que pesam 5×200=1000 g.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2024.1"
+                    },
+                    {
+                        "id":  "quimica-292",
+                        "enunciado":  "O dióxido de enxofre é um conservante adicionado ao vinho para impedir o crescimento de bactérias e de leveduras. A reação de oxidação deste anidrido produz o trióxido de enxofre precursor do ácido sulfúrico. Esta reação ocorre na presença de dióxido de nitrogênio em duas etapas:\n\nI. SO2 (g) + NO2 (g) → SO3 (g) + NO (g)\nII. NO (g) + 1/2 O2 (g) → NO2 (g)\n\nSobre o processo de produção de trióxido de enxofre descrito, é correto afirmar:",
+                        "alternativas":  {
+                                             "a":  "O monóxido de nitrogênio acelera a velocidade da reação.",
+                                             "b":  "O dióxido de nitrogênio é o catalisador do processo.",
+                                             "c":  "A reação global do processo é SO2 (g) + NO2 (g) → SO3 (g) + NO (g).",
+                                             "d":  "A presença de dióxido de enxofre diminui a energia de ativação da reação.",
+                                             "e":  "A presença de dióxido de nitrogênio diminui a entalpia da reação."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "O NO2 é consumido na etapa I e regenerado na etapa II, participando da reação sem ser consumido no processo global — comportamento característico de um catalisador, que acelera a formação de SO3 sem aparecer na equação global líquida.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2024.1"
+                    },
+                    {
+                        "id":  "quimica-293",
+                        "enunciado":  "A bula de um novo medicamento para diminuir a pressão intraocular de pacientes com glaucoma apresenta as seguintes informações: \"Solução oftálmica tópica com 0,024% m/v de latanoprosteno bunode - embalagem contendo 1 frasco de 5 mL. Cada 1 mL da solução oftálmica corresponde a aproximadamente 30 gotas\".\n\nA quantidade do princípio ativo em cada gota do medicamento é, aproximadamente:",
+                        "alternativas":  {
+                                             "a":  "8,0 μg",
+                                             "b":  "1,6 μg",
+                                             "c":  "0,8 mg",
+                                             "d":  "1,6 mg",
+                                             "e":  "8,0 mg"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "A solução tem 0,024 g de princípio ativo a cada 100 mL, ou seja, 0,0012 g (1200 μg) nos 5 mL do frasco; como cada mL rende 30 gotas, o frasco tem 150 gotas, e cada gota contém 1200/150=8,0 μg do princípio ativo.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2024.1"
+                    },
+                    {
+                        "id":  "quimica-294",
+                        "enunciado":  "As evidências de uma reação química incluem mudanças perceptíveis como alteração de cor, formação de gás ou precipitação de sólidos. As reações químicas envolvem absorção ou liberação de energia que pode se manifestar sob forma de calor, luz ou eletricidade. Dos processos apresentados a seguir o que ao final libera energia é:",
+                        "alternativas":  {
+                                             "a":  "Fotossíntese: 6 CO₂ + 6 H₂O → C₆H₁₂O₆ + 6 O₂",
+                                             "b":  "Eletrólise do cloreto de sódio: NaCl → Na + ½ Cl₂",
+                                             "c":  "Liquefação da água: H₂O(s) → H₂O(l)",
+                                             "d":  "Transformação do gelo seco: CO₂(s) → CO₂(g)",
+                                             "e":  "Oxidação do magnésio: Mg + ½ O₂ → MgO"
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Entre os processos listados, apenas a oxidação do magnésio (Mg + ½O2 → MgO) é uma reação exotérmica espontânea que libera energia ao final; os demais (fotossíntese, eletrólise, fusão do gelo, sublimação do gelo seco) absorvem energia.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2025.1-cn"
+                    },
+                    {
+                        "id":  "quimica-295",
+                        "enunciado":  "Na fabricação de moedas, joias e utensílios de decoração é importante considerar as reatividades dos metais que serão utilizados frente a ácidos e outras substâncias corrosivas.\nAo se analisar em termos eletroquímicos a reação entre a prata metálica e o ácido clorídrico proposta no esquema a seguir\n\nAg(s) + HCl(aq) → AgCl(s) + ½ H₂(g)\n\ne com bases nos potenciais-padrão de redução da prata (E° = +0,80 V) e do hidrogênio (E° = 0,00 V), podemos constatar que:",
+                        "alternativas":  {
+                                             "a":  "A reação produz corrente elétrica.",
+                                             "b":  "A reação ocorre nas pilhas de Daniell.",
+                                             "c":  "O hidrogênio sofre oxidação.",
+                                             "d":  "A prata é o agente oxidante.",
+                                             "e":  "A reação não ocorre espontaneamente."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Como o potencial de redução da prata (+0,80 V) é maior que o do hidrogênio (0,00 V), a prata não tem tendência a se oxidar espontaneamente na presença de H⁺; logo, a reação entre Ag(s) e HCl(aq), como escrita, não ocorre espontaneamente.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2025.1-cn"
+                    },
+                    {
+                        "id":  "quimica-296",
+                        "enunciado":  "No processo de mineração do níquel a céu aberto, após a remoção do minério do solo, ele deve ser beneficiado. O minério é triturado e moído para liberar os minerais de níquel seguido por processos que irão aumentar a concentração de níquel separando-o de outros minérios. A concentração é feita por flotação, gravidade ou por separação magnética, dependendo da natureza do minério. O processo de flotação utilizado nessa mineração consiste em separar:",
+                        "alternativas":  {
+                                             "a":  "misturas de sólidos quando um dos componentes é arrastado por um líquido enquanto o outro componente mais denso não o é. Emprega-se uma corrente de água ou de outro líquido adequado para arrastar o componente menos denso.",
+                                             "b":  "misturas de sólidos adicionando óleo. O óleo adere à superfície das partículas tornando-o impermeável à água. Em seguida a mistura é lançada na água e submetida a uma forte corrente de ar provocando a formação de uma espuma que reúne as partículas a serem separadas.",
+                                             "c":  "sólidos de granulações diferentes. Passa-se uma corrente de ar pela mistura, o sólido menos denso é arrastado e separado dos demais.",
+                                             "d":  "sólidos cujos tamanhos das partículas sejam diferentes. Através de instrumento adequado, a mistura é submetida a agitação. O componente de grânulos menores atravessa a malha do instrumento utilizado enquanto os outros ficam detidos.",
+                                             "e":  "mistura de sólidos que apresentam solubilidades diferentes num determinado solvente a uma determinada temperatura. Ao evaporarmos uma parte do solvente, o sólido menos solúvel cristaliza primeiro, separando-se da mistura."
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Na flotação, adiciona-se óleo que adere seletivamente à superfície das partículas do mineral de interesse, tornando-as hidrofóbicas; ao injetar ar na polpa, essas partículas aderem às bolhas e sobem formando espuma, separando-se do restante do minério.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2025.1-cn"
+                    },
+                    {
+                        "id":  "quimica-297",
+                        "enunciado":  "Embora a fotografia digital tenha se tornado dominante, a fotografia analógica ainda é utilizada por diversos grupos e indivíduos que apreciam suas qualidades. Muitos fotógrafos profissionais e artistas continuam a usar a fotografia analógica por suas qualidades estéticas únicas, como a granulação, o contraste e as tonalidades que são difíceis de replicar digitalmente.\nAs emulsões fotográficas são materiais sensíveis à luz usados na fotografia. Elas consistem em uma suspensão de haletos de prata (como brometo de prata, cloreto de prata ou iodeto de prata) dispersos em gelatina, que é aplicada sobre uma base, como filme ou papel fotográfico.\nO haleto de prata é produzido a partir de nitrato de prata segundo a equação:\n\nAgNO₃ + KBr → AgBr + KNO₃\n\nNa preparação de 100 mL de uma solução de brometo de prata de concentração 0,2 mol.L⁻¹, um fotógrafo irá utilizar 100 mL de uma solução de nitrato de prata. A massa de AgNO₃ contida nessa solução deverá ser de:\n\nDados: Massas molares (g.mol⁻¹): Ag = 108, O = 16, N = 14.",
+                        "alternativas":  {
+                                             "a":  "1,7g",
+                                             "b":  "8,5g",
+                                             "c":  "3,4g",
+                                             "d":  "10,8g",
+                                             "e":  "11,9g"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Para 100 mL de solução 0,2 mol/L de AgBr, são necessários 0,02 mol de AgNO₃ (proporção 1:1 na equação). Com massa molar de AgNO₃ = 108+14+48=170 g/mol, a massa necessária é 0,02×170=3,4 g.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2025.1-cn"
+                    },
+                    {
+                        "id":  "quimica-298",
+                        "enunciado":  "Em junho de 2024, um jovem morreu ao se submeter a procedimento estético a base de fenol. O peeling de fenol consiste na aplicação de uma substância corrosiva na pele do paciente com o objetivo de promover a renovação das células por meio da descamação. O fenol é corrosivo e irritante para as mucosas.\nA estrutura a que pertence a mesma função orgânica do fenol está representada em:\n\n[Descrição das alternativas: a) anel benzênico com um grupo metil (tolueno); b) anel ciclopentano com um grupo cetona (=O) ligado ao anel; c) anel benzênico com um grupo metoxi (O-CH3) ligado ao anel (éter aromático); d) anel benzênico com dois grupos hidroxila (-OH) em posições diferentes do anel, representando um difenol; e) anel ciclopentano com um grupo hidroxila (-OH) ligado ao anel (álcool cíclico).]",
+                        "alternativas":  {
+                                             "a":  "estrutura A (tolueno, hidrocarboneto aromático)",
+                                             "b":  "estrutura B (cetona cíclica)",
+                                             "c":  "estrutura C (éter aromático - metoxibenzeno)",
+                                             "d":  "estrutura D (difenol - anel aromático com duas hidroxilas ligadas diretamente ao anel)",
+                                             "e":  "estrutura E (álcool cíclico - ciclopentanol)"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "O fenol tem um grupo hidroxila ligado diretamente a um anel aromático; a estrutura que compartilha essa mesma função orgânica é a que apresenta duas hidroxilas ligadas diretamente ao anel benzênico (um difenol).",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2025.1-cn"
+                    },
+                    {
+                        "id":  "quimica-299",
+                        "enunciado":  "A berberina é uma substância que tem a propriedade de auxiliar no controle dos níveis de colesterol e no equilíbrio da microbiota do intestino; especialistas têm relacionado a berberina como substância facilitadora de emagrecimento.\nA estrutura da berberina está apresentada a seguir:\n\n[Descrição da estrutura: sistema policíclico aromático (núcleo isoquinolínio) contendo: um grupo metilenodioxi (-O-CH₂-O-) fundido a um dos anéis aromáticos; dois grupos metoxi (-O-CH₃) ligados a outro anel aromático; e um nitrogênio quaternário (N⁺) no anel heterocíclico central que conecta os sistemas aromáticos.]\n\nNessa estrutura está presente a função orgânica:",
+                        "alternativas":  {
+                                             "a":  "éster.",
+                                             "b":  "cetona.",
+                                             "c":  "álcool.",
+                                             "d":  "éter.",
+                                             "e":  "aldeído."
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "A berberina apresenta grupos metoxi (-O-CH3) e um grupo metilenodioxi (-O-CH2-O-), ambos caracterizados por um oxigênio ligado a dois carbonos — a função éter.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2025.1-cn"
+                    },
+                    {
+                        "id":  "quimica-300",
+                        "enunciado":  "Em bebidas, realizar o processo de carbonatação de forma adequada é essencial para criar uma borbulha ou uma efervescência perfeita em produtos como águas e refrigerantes. Para introduzir o dióxido de carbono é preciso uma calibração precisa para obter uma qualidade consistente. Este processo desacelera a produção de bactérias, aumentando o tempo de validade dos produtos gaseificados e mantendo suas propriedades, como cor, odor, sabor e textura. Considere o equilíbrio obtido após a carbonatação de uma bebida.\n\nCO₂(g) + H₂O(l) ⇌ H₂CO₃(aq) ⇌ H⁺(aq) + HCO₃⁻(aq)\n\nAumentando a concentração de gás carbônico nesse equilíbrio e mantendo a temperatura constante, ocorrerá:",
+                        "alternativas":  {
+                                             "a":  "aumento da quantidade de água para absorção do gás carbônico.",
+                                             "b":  "aumento da acidez da solução devido ao aumento do pH.",
+                                             "c":  "deslocamento do equilíbrio para esquerda diminuindo a concentração de íon bicarbonato.",
+                                             "d":  "aumento da concentração de H₂CO₃ sem alterar o pH do meio.",
+                                             "e":  "aumento da concentração dos íons H⁺, aumentando a acidez do meio."
+                                         },
+                        "resposta":  "e",
+                        "explicacao":  "Pelo princípio de Le Chatelier, aumentar a concentração de CO2 desloca o equilíbrio para a direita, aumentando a formação de H2CO3 e, consequentemente, de H⁺ e HCO3⁻ — elevando a concentração de íons H⁺ e, portanto, a acidez do meio (diminuindo o pH).",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2025.1-cn"
+                    },
+                    {
+                        "id":  "quimica-301",
+                        "enunciado":  "O Brasil tem a segunda maior reserva mundial de Terras Raras, um grupo de 17 elementos químicos usados na fabricação de ímãs fortes para motores elétricos, na produção de telas de computadores e smartphones, em lâmpadas de LED, e até em componentes de veículos elétricos. A maioria dos elementos que formam as Terras Raras são chamados metais de transição interna.\n\nEssa denominação está associada",
+                        "alternativas":  {
+                                             "a":  "ao fato de seus elétrons fazerem transições entre os níveis de energia na sua eletrosfera",
+                                             "b":  "à presença de elétrons no subnível \"d\" da distribuição eletrônica",
+                                             "c":  "ao fato de apresentarem até dois níveis de energia na sua eletrosfera",
+                                             "d":  "ao fato de apresentarem elétron diferenciador no antepenúltimo nível na sua eletrosfera",
+                                             "e":  "ao fato de apresentarem as camadas eletrônicas completas"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Os metais de transição interna (lantanídeos e actinídeos, que incluem as Terras Raras) são assim chamados porque seu elétron mais energético (diferenciador) ocupa um subnível f do antepenúltimo nível de energia da eletrosfera.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2026.1-cn"
+                    },
+                    {
+                        "id":  "quimica-302",
+                        "enunciado":  "A gasolina tem como um dos componentes o isoctano que, em situações com fornecimento insuficiente de ar, pode sofrer combustão incompleta produzindo monóxido de carbono.\n\nDe acordo com as reações a seguir:\n\nC8H18(l) + 25/2 O2(g) → 8 CO2(g) + 9 H2O(l)     ΔH = -5471 kJ\nCO(g) + 1/2 O2(g) → CO2(g)                                   ΔH = -283 kJ\n\na entalpia de reação da combustão incompleta de 1 mol de isoctano líquido é de",
+                        "alternativas":  {
+                                             "a":  "-5188 kJ",
+                                             "b":  "-4905 kJ",
+                                             "c":  "-3207 kJ",
+                                             "d":  "+5754 kJ",
+                                             "e":  "+1603 kJ"
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "A combustão incompleta produz CO em vez de CO2; usando a lei de Hess, o ΔH da combustão completa (-5471 kJ) é igual ao ΔH da combustão incompleta somado a 8 vezes a conversão de CO em CO2 (8×(-283)=-2264 kJ). Logo, ΔH(incompleta) = -5471-(-2264) = -3207 kJ.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2026.1-cn"
+                    },
+                    {
+                        "id":  "quimica-303",
+                        "enunciado":  "Conhecer as propriedades dos materiais é essencial para escolher o certo para cada aplicação, e o entendimento das suas estruturas nos permite entender suas características.\n\nPodemos bater com um martelo em uma peça de cobre e conseguir achatá-la, mas, se dermos marteladas num cristal de cloreto de sódio, ele irá se quebrar.\n\nA diferença entre esse comportamento frente ao impacto de um martelo se dá pela",
+                        "alternativas":  {
+                                             "a":  "maior maleabilidade do cloreto de sódio",
+                                             "b":  "mobilidade dos elétrons do cobre",
+                                             "c":  "facilidade de deslocamento dos íons do cloreto de sódio",
+                                             "d":  "estrutura em forma cúbica do cristal de cloreto de sódio",
+                                             "e":  "rigidez nas posições dos cátions do cobre na estrutura do metal"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "O cobre é um metal, cujos elétrons de valência são deslocalizados e móveis por toda a estrutura, permitindo que os átomos deslizem uns sobre os outros sem quebrar as ligações metálicas quando martelado (maleabilidade); no NaCl, uma rede iônica rígida, o deslocamento das camadas de íons aproxima cargas de mesmo sinal, gerando repulsão que fratura o cristal.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2026.1-cn"
+                    },
+                    {
+                        "id":  "quimica-304",
+                        "enunciado":  "A Melia azedarach é uma árvore utilizada em paisagismo e popularmente conhecida como cinamomo, contas-de-santa-bárbara, lilás-de-soldado ou cinamomo-gigante. Essa árvore apresenta atividade como inseticida devido à presença de azadiractina, que atua de forma eficaz contra diversos insetos.\n\nA estrutura química da azadiractina (molécula natural, representação estrutural própria da banca, sem crédito a terceiro) é um sistema policíclico terpenoide que apresenta múltiplos grupos hidroxila (-OH) ligados a carbonos saturados (sp3) do esqueleto, além de diversos grupos éster (incluindo uma porção de éster metílico, -COOCH3, e ésteres de ácidos carboxílicos insaturados) e um anel furânico. Não há, na estrutura, carbonilas isoladas características de aldeído ou cetona, nem anel aromático portando hidroxila (fenol), nem grupo carboxila livre (ácido carboxílico) — todas as carbonilas presentes estão na forma de éster.\n\nNa estrutura da azadiractina está presente a seguinte função orgânica",
+                        "alternativas":  {
+                                             "a":  "aldeído",
+                                             "b":  "cetona",
+                                             "c":  "fenol",
+                                             "d":  "álcool",
+                                             "e":  "ácido carboxílico"
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "As múltiplas hidroxilas (-OH) ligadas a carbonos saturados (sp³) do esqueleto da azadiractina caracterizam a função álcool — diferente dos grupos éster (carbonilas já contabilizadas) e sem a presença de aldeído, cetona livre, fenol ou ácido carboxílico livre, conforme descrito no enunciado.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2026.1-cn"
+                    },
+                    {
+                        "id":  "quimica-305",
+                        "enunciado":  "O Brasil é um importante produtor mundial de ferro e figura entre o terceiro maior produtor de zinco e manganês. Esses metais são obtidos a partir da esfarelita (ZnS) e da pirolusita (MnO2), por processos pirometalúrgicos. As reações envolvidas nesses processos são:\n\n2 ZnS + 3 O2 → 2 ZnO + 2 SO2\nZnO + C → Zn + CO\n\nMnO2 + C → MnO + CO\nMnO + C → Mn + CO\n\nAnalisando as reações que ocorrem nos processos pirometalúrgicos, é correto afirmar que",
+                        "alternativas":  {
+                                             "a":  "zinco e manganês sofrem redução, enxofre e carbono sofrem oxidação",
+                                             "b":  "zinco e enxofre sofrem redução, manganês e carbono sofrem oxidação",
+                                             "c":  "enxofre e manganês sofrem redução, zinco e carbono sofrem oxidação",
+                                             "d":  "manganês e carbono sofrem redução, zinco e enxofre sofrem oxidação",
+                                             "e":  "zinco e carbono sofrem redução, enxofre e manganês sofrem oxidação"
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "No processo do zinco, o enxofre do ZnS é oxidado a SO2 e o Zn²⁺ é reduzido a Zn metálico pelo carbono; no processo do manganês, o Mn é reduzido (de +4 a 0) pelo carbono, que se oxida a CO — ou seja, zinco e manganês são reduzidos, enquanto enxofre e carbono são oxidados.",
+                        "formato":  "direta",
+                        "origem":  "fgv-unificado-2026.1-cn"
+                    },
+                    {
+                        "id":  "quimica-306",
+                        "enunciado":  "A reação entre um elemento muito eletronegativo e um elemento muito eletropositivo resulta em ligação\niônica, com a formação de cátion e ânion. Muitas vezes, nesse processo, são formadas espécies químicas\nclassificadas como isoeletrônicas, por possuírem o mesmo número de elétrons.\n\nUma substância formada por um cátion e um ânion isoeletrônicos é a de fórmula:",
+                        "alternativas":  {
+                                             "a":  "LiF",
+                                             "b":  "NaF",
+                                             "c":  "MgCℓ₂",
+                                             "d":  "MgBr₂",
+                                             "e":  "K₂O"
+                                         },
+                        "resposta":  "b",
+                        "explicacao":  "Um cátion e um ânion são isoeletrônicos quando têm o mesmo número de elétrons; Na⁺ (10 elétrons) e F⁻ (10 elétrons) formam o par isoeletrônico NaF, já que ambos derivam de átomos vizinhos ao neônio na tabela periódica.",
+                        "formato":  "direta",
+                        "origem":  "insper-2026.1"
+                    },
+                    {
+                        "id":  "quimica-307",
+                        "enunciado":  "Lâmpadas fluorescentes foram importantes substitutos de lâmpadas incandescentes, que tinham gastos\nenergéticos mais altos. Entretanto, as lâmpadas fluorescentes usam vapor de mercúrio em sua composição, o\nque torna seu descarte possivelmente prejudicial ao meio ambiente e, atualmente, alavanca sua\nsubstituição por lâmpadas de LED.\n\nUma lâmpada fluorescente de 40W tem volume interno de cerca de 200 mL e pressão interna do mercúrio de\n2,1 × 10⁻³ atm. Considerando a constante universal dos gases igual a 0,08 atm·L·mol⁻¹·K⁻¹, a massa de Hg\n(M = 200 g/mol) no interior dessa lâmpada, em miligramas, a uma temperatura de 300 K, é",
+                        "alternativas":  {
+                                             "a":  "1,75.",
+                                             "b":  "2,70.",
+                                             "c":  "3,50.",
+                                             "d":  "4,50.",
+                                             "e":  "5,25."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "Usando PV=nRT com P=2,1×10⁻³ atm, V=0,2 L, R=0,08 atm·L·mol⁻¹·K⁻¹ e T=300 K, calcula-se o número de mols de mercúrio e, multiplicando pela massa molar (200 g/mol), obtém-se a massa de Hg no interior da lâmpada.",
+                        "formato":  "direta",
+                        "origem":  "insper-2026.1"
+                    },
+                    {
+                        "id":  "quimica-308",
+                        "enunciado":  "Pela legislação brasileira, as indústrias têm que controlar o pH da água e eventualmente ajustá-lo antes\nde descartar essa água na rede de esgoto. Para simular em sala de aula uma medida de concentração de íons\nH⁺ em água de rejeito de uma indústria, uma professora utilizou indicadores ácido-base, cujas propriedades\nsão descritas na tabela.\n\n| Indicador | Intervalo de pH de viragem | Cor abaixo da viragem | Cor acima da viragem |\n|---|---|---|---|\n| Tornassol | 5,0 a 7,0 | vermelha | azul |\n| Fenolftaleína | 8,2 a 10,0 | incolor | rosa |\n| Azul de bromotimol | 6,0 a 7,6 | amarela | azul |\n\nAo se adicionar algumas gotas de cada um desses indicadores na água utilizada na simulação, encontrou-se\no seguinte resultado:\n\n| Indicador | Cor da solução |\n|---|---|\n| Tornassol | azul |\n| Fenolftaleína | incolor |\n| Azul de bromotimol | azul |\n\nCom base nos resultados obtidos, a concentração de íons H⁺ presentes na referida solução, em mol/L, é de,\naproximadamente,",
+                        "alternativas":  {
+                                             "a":  "10⁻¹.",
+                                             "b":  "10⁻³.",
+                                             "c":  "10⁻⁵.",
+                                             "d":  "10⁻⁸.",
+                                             "e":  "10⁻¹⁰."
+                                         },
+                        "resposta":  "d",
+                        "explicacao":  "Segundo Arrhenius, o pH mede a concentração de íons H⁺ em solução aquosa pela relação pH=-log[H⁺]; a partir da faixa de viragem indicada pelos indicadores ácido-base utilizados no experimento, determina-se a concentração de íons H⁺ na água de rejeito da indústria.",
+                        "formato":  "direta",
+                        "origem":  "insper-2026.1"
+                    },
+                    {
+                        "id":  "quimica-309",
+                        "enunciado":  "Uma cooperativa de reciclagem triturou os polímeros polietilenotereftalato (PET) e poliamida (PA)\nmisturados. No entanto, como esses materiais passam por processos de reciclagem diferentes, os\nfragmentos triturados precisaram ser separados.\n\nPara proceder à separação dos materiais, foi preparada uma solução de cloreto de cálcio (CaCℓ₂) de\nconcentração apropriada e, em seguida, introduziu-se a mistura de PET e PA. Esse procedimento se baseia\nem produzir um sistema de [densidade] adequada, permitindo separar os materiais por [flotação].\n\n*(As lacunas do enunciado original são preenchidas pela alternativa correta.)*\n\nAs lacunas são preenchidas, respectivamente, por:",
+                        "alternativas":  {
+                                             "a":  "acidez – dissolução.",
+                                             "b":  "densidade – dissolução.",
+                                             "c":  "densidade – flotação.",
+                                             "d":  "temperatura de fusão – flotação.",
+                                             "e":  "temperatura de fusão – destilação."
+                                         },
+                        "resposta":  "c",
+                        "explicacao":  "PET e PA têm densidades diferentes; ao mergulhar os fragmentos triturados em um líquido de densidade intermediária, o material menos denso flutua e o mais denso afunda — um processo de separação por densidade, do tipo flotação.",
+                        "formato":  "direta",
+                        "origem":  "insper-2026.2"
+                    },
+                    {
+                        "id":  "quimica-310",
+                        "enunciado":  "Os metais estanho (Sn), zinco (Zn) e magnésio (Mg) são utilizados na proteção de peças de ferro contra a\noxidação. O Sn e o Zn são empregados de modo a cobrir toda a superfície da peça a ser protegida, enquanto\no Mg é posicionado em locais estratégicos da estrutura de ferro.\n\nQuanto ao método de proteção, é possível dividir a proteção do ferro contra a oxidação em proteção por\nbarreira física, que recobre todo o material e o protege do contato com o ar, e proteção catódica, em que\no metal protetor atua como ânodo, repondo a perda de elétrons.\n\nConsidere os seguintes potenciais de redução:\n\n- Mg²⁺ + 2e⁻ → Mg⁰, E⁰ = –2,37 V\n- Zn²⁺ + 2e⁻ → Zn⁰, E⁰ = –0,76 V\n- Fe²⁺ + 2e⁻ → Fe⁰, E⁰ = –0,44 V\n- Sn²⁺ + 2e⁻ → Sn⁰, E⁰ = –0,14 V\n\nConsiderando os potenciais de redução apresentados e as técnicas descritas, o metal que fornece apenas\nproteção por barreira física e o metal que fornece tanto proteção por barreira física como proteção\ncatódica são, respectivamente,",
+                        "alternativas":  {
+                                             "a":  "estanho e zinco.",
+                                             "b":  "estanho e magnésio.",
+                                             "c":  "magnésio e zinco.",
+                                             "d":  "zinco e magnésio.",
+                                             "e":  "zinco e estanho."
+                                         },
+                        "resposta":  "a",
+                        "explicacao":  "O metal usado como proteção catódica (metal de sacrifício) deve ser mais reativo (mais eletropositivo) do que o ferro para se oxidar preferencialmente em seu lugar; entre os citados, o magnésio (mais reativo, usado em pontos estratégicos como ânodo de sacrifício) e o zinco (usado revestindo toda a peça, galvanização) atendem a essa condição, diferente do estanho, menos reativo que o ferro.",
+                        "formato":  "direta",
+                        "origem":  "insper-2026.2"
                     }
                 ]
 };

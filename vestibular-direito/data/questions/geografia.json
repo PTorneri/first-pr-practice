@@ -2635,6 +2635,81 @@
       },
       "resposta": "d",
       "explicacao": "Planaltos ocupam a maior parte do território, e a contradição é só aparente: a rocha é pré-cambriana, mas a forma que se vê é obra da erosão, que trabalha a superfície sem parar e a refaz em escala de tempo muito menor. Em (b) e (c) estão as duas explicações alternativas, ambas falsas para o caso brasileiro — as rochas do embasamento são das mais antigas do planeta, e o país está no meio de uma placa, sem tectonismo intenso recente. Em (a) e (e), as planícies existem e são pequenas diante dos planaltos: a Amazônica, que parece imensa no mapa, é sobretudo planalto rebaixado."
+    },
+    {
+      "id": "geografia-168",
+      "enunciado": "A respeito da urbanização brasileira a partir dos anos 1980, assinale a afirmação correta.",
+      "alternativas": {
+        "a": "O processo de metropolização foi acelerado devido às mudanças demográficas, principalmente, à diminuição da taxa de natalidade.",
+        "b": "As cidades situadas nas regiões de recepção do fluxo migratório mais intenso, como foi o caso do Centro-Oeste, apresentaram crescimento superior ao das metrópoles.",
+        "c": "As periferias das metrópoles cresceram mais do que os núcleos centrais, o que implicou o adensamento do espaço urbano e a melhoria dos indicadores sociais.",
+        "d": "As cidades de porte médio cresceram com taxas menores do que as metrópoles, devido às deficiências do setor de serviços demandados pelas empresas.",
+        "e": "As metrópoles nacionais, devido ao aumento das migrações internas, mantiveram taxas de crescimento demográfico maiores que a do país, mas o ritmo desse crescimento foi diminuindo."
+      },
+      "resposta": "b",
+      "explicacao": "A partir dos anos 1980, o processo de desmetropolização redirecionou fluxos migratórios para cidades médias e regiões de fronteira agrícola, como o Centro-Oeste, que passaram a crescer em ritmo superior ao das metrópoles tradicionais, cujo crescimento demográfico relativo perdia força.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2025.1"
+    },
+    {
+      "id": "geografia-169",
+      "enunciado": "Sobre as mudanças pelas quais a cidade de São Paulo vem passando desde os anos 1980, analise as afirmativas a seguir.\n\nI. De metrópole industrial, que se expandiu integrando municípios contíguos, passou a conformar um território de limites imprecisos, parcialmente descontínuo, uma macrometrópole que se estende por cerca de 200 km a partir da capital.\nII. A nova configuração do espaço metropolitano foi formulada articulando dinâmicas globais e locais, em que a reestruturação da economia e as transformações da cidade intensificaram os fluxos de pessoas, mercadorias e informações.\nIII. Sua integração à circulação de mercadorias e às redes financeiras globais exigiu mudanças na infraestrutura urbana, capazes de integrar as áreas periféricas à área central e de agilizar a mobilidade urbana.\n\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "resposta": "b",
+      "explicacao": "A macrometrópole paulista de fato se expandiu de forma descontínua a partir da década de 1980 (afirmativa I), integrando dinâmicas globais e locais que intensificaram os fluxos (afirmativa II). A afirmativa III é a armadilha: as mudanças na infraestrutura urbana priorizaram sobretudo a mobilidade das áreas mais dinâmicas e conectadas às redes globais, sem de fato integrar plenamente as periferias à área central.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1"
+    },
+    {
+      "id": "geografia-170",
+      "enunciado": "Leia o trecho a seguir.\n\n*Uma agricultura sem agricultores*\n\nO objetivo do agricultor é o lucro – conseguir o menor preço de produção em relação ao preço de venda. Para atingi-lo, ele substituiu o fator trabalho por máquinas, o que possibilitou um controle mais preciso e eficiente dos custos de produção. O uso de máquinas permitiu a aplicação de insumos (como água, fertilizantes e defensivos) de forma localizada e eficiente, otimizando o uso da terra. Assim, o agricultor tendeu à especialização – grandes extensões cultivadas com um único produto. O uso de tecnologia levou a um aumento significativo da produtividade (relação produção/homem–dia) e da eficiência no campo.\n\nAssinale a alternativa que indica corretamente o sistema agrícola descrito.",
+      "alternativas": {
+        "a": "A plantation de chá, na província de Assam, na Índia.",
+        "b": "A rizicultura submersa, na planície do Hoang-ho, na China.",
+        "c": "A agricultura empresarial, na região central dos Estados Unidos.",
+        "d": "A agricultura de subsistência sobre cinzas, nas savanas africanas.",
+        "e": "A média propriedade familiar, na região da Borgonha, na França."
+      },
+      "resposta": "c",
+      "explicacao": "O texto descreve um sistema baseado em mecanização intensiva, especialização em monocultura e ganhos de produtividade por trabalhador — características da agricultura empresarial praticada nas grandes planícies centrais dos Estados Unidos, distinta dos sistemas de plantation, rizicultura de subsistência ou pequena propriedade familiar citados nas demais alternativas.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1"
+    },
+    {
+      "id": "geografia-171",
+      "enunciado": "O processo de urbanização no Brasil é determinante na conformação da moderna sociedade brasileira, principalmente a partir da segunda metade do século XX.\n\nAs alternativas a seguir apresentam características desse processo, à exceção de uma. Assinale-a.",
+      "alternativas": {
+        "a": "Os centros urbanos surgidos na \"fronteira\" atuam como base logística para as frentes de expansão da agropecuária e para os polos de mineração.",
+        "b": "A velocidade do processo fez coincidir, no tempo, o êxodo rural, a concentração da população urbana nas grandes cidades e o processo de metropolização.",
+        "c": "O urbano passou a ser o locus privilegiado das atividades econômicas mais relevantes e da grande maioria da população, assim como o difusor de novos padrões culturais.",
+        "d": "O espraiamento urbano, que marca a \"cidade do automóvel\", favoreceu o acesso da população às áreas centrais, agilizando os fluxos e promovendo integração social.",
+        "e": "O crescimento acelerado das periferias urbanas reflete a redistribuição das atividades econômicas no espaço metropolitano, mas, principalmente, a segregação espacial."
+      },
+      "resposta": "d",
+      "explicacao": "O espraiamento urbano associado à \"cidade do automóvel\" tende a dificultar, e não favorecer, o acesso da população de baixa renda às áreas centrais, pois amplia distâncias e aprofunda a segregação espacial — por isso essa é a alternativa incorreta, ao contrário das demais, que descrevem corretamente aspectos da urbanização brasileira recente.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1"
+    },
+    {
+      "id": "geografia-172",
+      "enunciado": "O agronegócio brasileiro é uma das mais importantes fontes geradoras de riquezas para o país, sendo responsável por cerca de 30% do Produto Interno Bruto (PIB), por 35% da mão de obra empregada e por 40% das exportações nacionais. Nesse contexto, destaca-se a cultura da soja, cuja produção consolidou-se na região Centro-Oeste, tendo apresentado, nos últimos anos, uma significativa expansão da área ocupada, com ganhos evidentes de rendimentos.\n\nSobre a infraestrutura de transporte para o escoamento da soja, analise as afirmativas a seguir.\n\nI. O uso do transporte rodoviário interfere na competitividade internacional da soja brasileira, porque esse modal é inadequado às características do produto e às distâncias percorridas.\nII. A intermodalidade seria mais adequada para o escoamento de commodities, devido à eficiência energética dos transportes hidroviários e ferroviários e à maior produtividade no deslocamento de cargas de maior densidade a maiores distâncias.\nIII. O escoamento da soja até os portos da Região Norte, como Itacoatiara no Amazonas, oferece vantagens competitivas, por diminuir o trajeto percorrido e estar mais próximo dos mercados consumidores externos.\n\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "I e II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "resposta": "e",
+      "explicacao": "O transporte rodoviário é de fato pouco competitivo para longas distâncias (I), a intermodalidade com hidrovias e ferrovias é mais eficiente para commodities (II), e o escoamento pela Região Norte, como por Itacoatiara, reduz distâncias e aproxima a soja dos mercados consumidores externos (III) — as três afirmativas descrevem corretamente a logística do agronegócio brasileiro.",
+      "formato": "direta",
+      "origem": "fgv-unificado-2026.1"
     }
   ]
 }

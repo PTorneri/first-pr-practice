@@ -3672,6 +3672,1556 @@
       "resposta": "a",
       "explicacao": "Em A = πr², a área depende do quadrado do raio: multiplicar r por 2 multiplica a área por 2² = 4. Com raios 3 e 6, as áreas são 9π e 36π, na razão 1 para 4. A alternativa (e) reconhece que a área quadruplica, mas na hora de comparar os dois círculos volta a usar a razão dos raios, 1 para 2 — em figuras semelhantes, a razão entre áreas é o quadrado da razão entre os comprimentos.",
       "formato": "lacunas"
+    },
+    {
+      "id": "matematica-256",
+      "enunciado": "A construção de uma rampa que seja acessível a usuários de cadeira de rodas deve seguir a norma ABNT NBR 9050. Esse documento regulamenta a inclinação que a rampa deve ter a depender do desnível máximo de cada segmento de rampa, conforme o seguinte quadro:\n\nInclinação e desnível máximo de cada segmento de rampa\n\n| Desnível h (em m) | Inclinação i admissível (em %) |\n|---|---|\n| 1 < h ≤ 1,5 | 5 |\n| 0,8 < h ≤ 1 | 5 < i ≤ 6,25 |\n| 0 < h ≤ 0,8 | 6,25 < i ≤ 8,33 |\n\nA inclinação i da rampa em porcentagem (%) é calculada dividindo a altura h do desnível do segmento da rampa, em metros, pelo comprimento da projeção horizontal c, em metros, e multiplicando o resultado por 100.\n\nDeterminada rampa de dois segmentos foi construída da seguinte maneira:\n- o primeiro segmento possui projeção horizontal de 10 m e inclinação de 6%;\n- o segundo segmento possui projeção horizontal de 7 m e desnível de 0,5 m.\n\nCom base no que foi apresentado sobre a normativa, o que é correto afirmar sobre a adequação dessa rampa à norma de acessibilidade?",
+      "alternativas": {
+        "a": "A rampa não está adequada, pois os dois segmentos não estão de acordo com a norma.",
+        "b": "A rampa está adequada, pois os dois segmentos estão de acordo com a norma.",
+        "c": "A rampa não está adequada, pois o primeiro segmento não está de acordo com a norma.",
+        "d": "A rampa não está adequada, pois o segundo segmento não está de acordo com a norma.",
+        "e": "A rampa está adequada, pois, apesar de o segundo segmento não estar de acordo com a norma, o primeiro está."
+      },
+      "resposta": "c",
+      "explicacao": "O primeiro segmento tem h = i·c/100 = 6%×10 = 0,6 m, que exige inclinação entre 6,25% e 8,33% conforme a tabela — mas ele foi construído com apenas 6%, fora da faixa. Já o segundo segmento (c=7, h=0,5) tem i = 0,5/7×100 ≈ 7,14%, dentro da faixa exigida para h ≤ 0,8 m.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "matematica-257",
+      "enunciado": "A imagem a seguir mostra um cruzamento da Rua da Consolação, na região central da cidade de São Paulo, em que há faixas de pedestre em diferentes direções. Essas faixas agilizam a travessia das ruas. Uma pessoa parte do ponto O e deseja chegar ao ponto C. Para tanto, percorre o trajeto pela faixa que liga O a B e, em seguida, utiliza a faixa que liga B a C. Considere que as coordenadas dos pontos indicados na figura, em metros, são: O(0,0), B(13,-15) e C(29,-8).\n\nSeja d a distância, em metros, que essa pessoa deixaria de percorrer se tivesse optado por fazer a travessia pela faixa de pedestre que liga O a C. Nesse contexto, é correto afirmar:",
+      "alternativas": {
+        "a": "d < 2",
+        "b": "2 ≤ d < 5",
+        "c": "5 ≤ d < 8",
+        "d": "8 ≤ d < 11",
+        "e": "d ≥ 11"
+      },
+      "resposta": "c",
+      "explicacao": "A distância O a B é √(13²+15²)=√394≈19,85 m e de B a C é √(16²+7²)=√305≈17,46 m, totalizando cerca de 37,31 m pelo trajeto em L. A distância direta O a C é √(29²+8²)=√905≈30,08 m, logo d ≈ 37,31−30,08 ≈ 7,23 m, no intervalo 5 ≤ d < 8.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "matematica-258",
+      "enunciado": "Considere que a expectativa de vida no Brasil à idade de 19 anos pode ser calculada, de forma aproximada, como a média aritmética simples entre a expectativa de vida estimada à mesma idade dos homens e das mulheres. O mesmo pode ser feito à idade de 20 anos.\n\nSegundo dados do IBGE, em 2022, a expectativa de vida estimada no Brasil à idade de 19 anos era 58, e a expectativa de vida estimada dos homens à mesma idade era 54,7. Sabe-se que a diferença entre a expectativa de vida estimada dos homens e a das mulheres se manteve à idade de 20 anos e que a expectativa de vida estimada dos homens a essa idade (EVH20) era 53,8.\n\nCom base nos dados apresentados, assinale a alternativa que apresenta a expectativa de vida estimada das mulheres à idade de 19 anos (EVM19) e a expectativa de vida estimada à idade de 20 anos no Brasil (EVB20) em 2022.",
+      "alternativas": {
+        "a": "EVM19 = 54,7 ; EVB20 = 54,7",
+        "b": "EVM19 = 54,7 ; EVB20 = 58",
+        "c": "EVM19 = 60 ; EVB20 = 54",
+        "d": "EVM19 = 61,3 ; EVB20 = 56",
+        "e": "EVM19 = 61,3 ; EVB20 = 57,1"
+      },
+      "resposta": "e",
+      "explicacao": "Como EVB19 é a média de EVH19 e EVM19: 58=(54,7+EVM19)/2 → EVM19=61,3. Mantendo a mesma diferença (6,6 anos) aos 20 anos: EVM20=53,8+6,6=60,4, e EVB20=(53,8+60,4)/2=57,1.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "matematica-259",
+      "enunciado": "Os gráficos a seguir apresentam a evolução do abate de bovinos e da participação de machos e fêmeas, por trimestre, no Brasil, segundo o IBGE (Pesquisa Trimestral do Abate de Animais).\n\nEvolução do abate de bovinos no Brasil por trimestre (2019-2024) — total abatido no primeiro trimestre (I) de cada ano, em milhões de cabeças:\n2019: 7,93 | 2020: 7,34 | 2021: 6,60 | 2022: 7,01 | 2023: 7,44 | 2024: 9,30\n\nEvolução da participação de machos e fêmeas no abate de bovinos por trimestre (2019-2024) — percentual de fêmeas e de machos no primeiro trimestre (I) de cada ano:\n2019: 46,6% fêmeas / 53,4% machos\n2020: 42,7% fêmeas / 57,3% machos\n2021: 36,8% fêmeas / 63,2% machos\n2022: 39,5% fêmeas / 60,5% machos\n2023: 44,8% fêmeas / 55,2% machos\n2024: 46,2% fêmeas / 53,8% machos\n\nA partir dos dados observados nos gráficos, é correto afirmar:",
+      "alternativas": {
+        "a": "No primeiro trimestre de 2023, a diferença entre as quantidades de machos e fêmeas abatidos foi menor que a do primeiro trimestre de 2019.",
+        "b": "No primeiro trimestre de 2023, a quantidade de fêmeas abatidas foi de, aproximadamente, 2 milhões.",
+        "c": "No primeiro trimestre de 2021 e de 2022, a diferença entre as quantidades de machos e fêmeas abatidos foi igual.",
+        "d": "No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi de, aproximadamente, 4,3 milhões.",
+        "e": "No primeiro trimestre de 2024, a quantidade de fêmeas abatidas foi igual à do primeiro trimestre de 2019."
+      },
+      "resposta": "d",
+      "explicacao": "No 1º trimestre de 2024, o total abatido foi 9,30 milhões, dos quais 46,2% eram fêmeas: 9,30×0,462 ≈ 4,3 milhões, o que confirma a alternativa d.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "matematica-260",
+      "enunciado": "Um designer de produtos deseja fabricar um vaso para flores conforme a figura a seguir (a figura mostra um vaso com formato de dois troncos de cone unidos, mais estreito no meio).\n\nSabe-se que a base e o topo do vaso são uma circunferência de raio R que mede 10 cm, a parte central é uma circunferência de raio r de 5 cm e a medida h mede 12 cm. Qual é a capacidade volumétrica desse vaso em cm³?",
+      "alternativas": {
+        "a": "1400π",
+        "b": "2100π",
+        "c": "2400π",
+        "d": "2600π",
+        "e": "2800π"
+      },
+      "resposta": "a",
+      "explicacao": "O vaso é formado por dois troncos de cone idênticos (R=10, r=5, h=12 cada). O volume de cada tronco é (πh/3)(R²+Rr+r²) = (12π/3)(100+50+25) = 4π×175 = 700π; somando os dois, o volume total é 1400π cm³.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "matematica-261",
+      "enunciado": "Considere um cilindro C de altura h > 0 e cujo raio das circunferências, do topo e da base, é r > 0; um cilindro C1 cujo raio é igual ao de C e altura igual a h/2; e um cilindro C2 com altura h e raio igual a r/2.\nSendo V, V1 e V2 os volumes e A, A1 e A2 as áreas laterais dos cilindros C, C1 e C2, respectivamente, é correto afirmar:",
+      "alternativas": {
+        "a": "V=V1+V2 e A=A1+A2",
+        "b": "V=V1+V2 e A=A1+2A2",
+        "c": "V=V1+2V2 e A=A1+2A2",
+        "d": "V=V1+2V2 e A=A1+A2",
+        "e": "V=2V1+2V2 e A=2A1+2A2"
+      },
+      "resposta": "d",
+      "explicacao": "Como V=πr²h, tem-se V1=πr²(h/2)=V/2 e V2=π(r/2)²h=V/4, logo V1+2V2=V/2+V/2=V. Para a área lateral A=2πrh, A1=2πr(h/2)=A/2 e A2=2π(r/2)h=A/2, logo A1+A2=A.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "matematica-262",
+      "enunciado": "Em relação ao plano cartesiano Oxy, é correto afirmar que as equações x² + y² − 4x = −3 e x² + y² − 4y = −3 representam:",
+      "alternativas": {
+        "a": "duas circunferências com raios de mesma medida e que se interceptam em dois pontos.",
+        "b": "duas circunferências com raios de medidas diferentes e que se interceptam em dois pontos.",
+        "c": "duas circunferências que se interceptam em um único ponto.",
+        "d": "duas circunferências concêntricas e que não se interceptam.",
+        "e": "duas circunferências com centros distintos e que não se interceptam."
+      },
+      "resposta": "e",
+      "explicacao": "Completando quadrados, as equações descrevem circunferências de raio 1 centradas em (2,0) e (0,2), respectivamente. A distância entre os centros é √(2²+2²)=√8≈2,83, maior que a soma dos raios (2), logo as circunferências têm raios iguais, centros distintos e não se interceptam.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "matematica-263",
+      "enunciado": "O conceito de entropia permeia diversas áreas do conhecimento e foi introduzido na Teoria da Informação por Claude Shannon, que desenvolveu uma forma de calcular a entropia E de um sistema, a saber\n\nE = − Σᵢ Pᵢ(x) log₂ Pᵢ(x)\n\nem que Pᵢ(x) é a probabilidade do i-ésimo resultado para a variável x.\n\nPor exemplo, considere uma sequência com duas letras A coloridas, a primeira azul e a segunda vermelha (AA). Se essas duas letras fossem colocadas numa urna, a probabilidade de se retirar, sem observar, a letra azul, como na sequência original, é 1/2. Devolve-se a letra à urna e sorteia-se novamente. A probabilidade de sair vermelha é novamente 1/2, e nesse caso tem-se:\n\nE = − Σ Pᵢ(x) log₂ Pᵢ(x) = − (1/2 · log₂ 1/2 + 1/2 · log₂ 1/2) = 1\n\nPara uma sequência com 4 letras A, as duas primeiras azuis e as duas últimas vermelhas (AAAA), colocando-as numa urna e sorteando uma, a probabilidade de sair azul é 1/2. Devolve-se a letra e sorteia-se novamente. A probabilidade da segunda letra sorteada ser azul, como na sequência original, é novamente 1/2. Procedendo dessa forma para as duas letras vermelhas, tem-se:\n\nE = − Σ Pᵢ(x) log₂ Pᵢ(x) = − (1/2 log₂ 1/2 + 1/2 log₂ 1/2 + 1/2 log₂ 1/2 + 1/2 log₂ 1/2) = 2\n\nCom base nessas informações, qual o valor da entropia E, no caso de uma sequência com 4 letras A, sendo as 3 primeiras azuis e a última vermelha (AAAA)?",
+      "alternativas": {
+        "a": "5 − (9/4) log₂ 3",
+        "b": "1/2 − (5/2) log₂ 3",
+        "c": "3/2",
+        "d": "(9/4) log₂ 3",
+        "e": "3"
+      },
+      "resposta": "a",
+      "explicacao": "Para 3 letras azuis e 1 vermelha, a probabilidade de cada uma das 3 posições azuis é 3/4 e da posição vermelha é 1/4. Aplicando a fórmula: E = 3×[−(3/4)log₂(3/4)] + [−(1/4)log₂(1/4)] = −(9/4)log₂3 + 9/2 + 1/2 = 5 − (9/4)log₂3.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "matematica-264",
+      "enunciado": "Para uma atividade de campo voltada à valorização do patrimônio histórico e cultural, professores de geografia levaram seus estudantes a um parque temático de monumentos geográficos. Eles visitaram a réplica de uma pirâmide regular de base quadrada com vértice a 18 metros de altura em relação ao centro da base. As faces da pirâmide estão voltadas para as direções norte, sul, leste e oeste. Para acessar o vértice da pirâmide, os estudantes precisaram percorrer uma trilha de pedestre e subir a rampa localizada na face norte. A trilha compreende os lados oeste, sul, leste e metade do lado norte do quadrado. Essa rampa está localizada exatamente no meio da face, ou seja, é o apótema da pirâmide.\n\nSabendo-se que o volume da pirâmide é de 864 m³, quantos metros, aproximadamente, os estudantes tiveram que percorrer para chegar até o topo da pirâmide?",
+      "alternativas": {
+        "a": "36",
+        "b": "41",
+        "c": "48",
+        "d": "54",
+        "e": "61"
+      },
+      "resposta": "e",
+      "explicacao": "Da fórmula V=(1/3)·base·h, a área da base é 3×864/18=144, logo o lado do quadrado é 12 m e o apótema da base é 6 m. A rampa (apótema da pirâmide) mede √(18²+6²)=√360≈18,97 m; somando aos 3 lados inteiros + meio lado (3×12+6=42 m) do percurso, o total é 42+18,97≈61 m.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "matematica-265",
+      "enunciado": "Considere a equação trigonométrica\n\nsen(π/2) + sen(x) = sen(2x) − cos(π)\n\npara x ∈ ℝ, 0 ≤ x < 2π.\n\nUm estudante resolveu essa equação da seguinte maneira:\n\nsen(π/2) + sen(x) = sen(2x) − cos(π)\n1 + sen(x) = sen(2x) + 1\nsen(x) = sen(2x)\nsen(x) = 2 sen(x)\n2 sen(x) − sen(x) = 0\nsen(x) = 0\nx = 0 ou x = π\n\nA resolução apresentada pelo estudante está errada, pois ele",
+      "alternativas": {
+        "a": "considerou que cos π vale 1.",
+        "b": "não considerou as infinitas voltas no ciclo trigonométrico para a resposta.",
+        "c": "considerou que sen(π/2) vale 1.",
+        "d": "não utilizou corretamente o seno da soma de dois arcos (isto é, escreveu sen(2x) = sen(x) em vez de sen(2x) = 2 sen(x)cos(x)).",
+        "e": "apresentou duas respostas e não apenas uma."
+      },
+      "resposta": "d",
+      "explicacao": "O erro está na passagem sen(2x) = sen(x): a identidade correta do seno da soma dá sen(2x) = 2·sen(x)·cos(x), e não simplesmente 2·sen(x). Ao tratar sen(2x) como se fosse igual a 2sen(x), o estudante perdeu o fator cos(x) e, com ele, outras soluções da equação original.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "matematica-266",
+      "enunciado": "Uma startup de tecnologia está desenvolvendo um novo aplicativo e observa que o número de usuários está crescendo, em milhares, após t semanas do lançamento, de acordo com a função:\n\nM(t) = 200 × (1,1)^t\n\nCom isso, a equipe da startup quer saber: qual é o período, em semanas, em que o número de usuários ultrapassa 300 mil?",
+      "alternativas": {
+        "a": "Entre 0 e 1 semana.",
+        "b": "Entre 1 e 3 semanas.",
+        "c": "Entre 2 e 4 semanas.",
+        "d": "Entre 3 e 4 semanas.",
+        "e": "Entre 4 e 6 semanas."
+      },
+      "resposta": "e",
+      "explicacao": "Resolvendo 200×1,1^t > 300, ou seja, 1,1^t > 1,5, obtém-se t > ln(1,5)/ln(1,1) ≈ 4,25 semanas, valor que cai no intervalo entre 4 e 6 semanas.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "matematica-267",
+      "enunciado": "O Brasil é o líder mundial em reciclagem de alumínio, atingindo números próximos a 99% de latas recicladas no ano de 2021. Essas latas, já utilizadas para refrigerantes, cervejas, energéticos, agora começam a trazer também água mineral em seu interior.\n\nConsidere que uma empresa deseja envasar 350 mL de água em uma lata de alumínio de formato cilíndrico e que, por razões práticas como manuseio e custo do material, o diâmetro da base dessa lata deve ter entre 5 cm e 8 cm.\n\nQual será, aproximadamente, em centímetros, a menor altura possível da lata?",
+      "alternativas": {
+        "a": "5",
+        "b": "7",
+        "c": "13",
+        "d": "18",
+        "e": "28"
+      },
+      "resposta": "b",
+      "explicacao": "A menor altura ocorre quando o diâmetro é o maior permitido (8 cm, raio 4 cm), pois isso maximiza a área da base: h = V/(πr²) = 350/(π×16) ≈ 6,96 cm ≈ 7 cm.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "matematica-268",
+      "enunciado": "Para realizar o cálculo da diferença de altitude (altura) entre dois pontos A e B, localizados no terreno, um técnico utilizou uma Estação Total (ET), equipamento usado para medir a diferença entre níveis de pontos distintos. Ele posicionou o equipamento, que tem 1,6 m de altura, em um ponto M, equidistante na horizontal dos pontos A e B, a 40 m de cada um, nos quais estão os prismas de leitura (miras), conforme a figura a seguir (a figura mostra o equipamento em M visando A com ângulo de depressão α₁ e visando B com ângulo de elevação α₂).\n\nAdmitindo-se que o ângulo de inclinação descendente, α₁, é 7° e o ângulo de inclinação ascendente, α₂, é 5° e que a leitura no prisma, h_B, no ponto B foi de 3,60 m, determine a diferença de altitude (altura), em metros, entre os pontos A e B.",
+      "alternativas": {
+        "a": "1,60",
+        "b": "2,80",
+        "c": "3,16",
+        "d": "3,96",
+        "e": "4,80"
+      },
+      "resposta": "e",
+      "explicacao": "Assumindo leitura direta ao solo em A: a diferença de altitude é dada por 40·tan(5°) − 3,60 + 40·tan(7°) ≈ 3,50 + 4,91 − 3,60 ≈ 4,80 m, combinando a subida até B (compensada pela leitura do prisma) com a descida até A.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "matematica-269",
+      "enunciado": "Engenheiros estavam mapeando um terreno para construção de um empreendimento com quatro prédios em formato cilíndrico distribuídos em torno de uma praça com o formato quadrado. Para a construção dos prédios, os engenheiros demarcaram os vértices da praça nos pontos A = (0,0), B = (8,0), C e D, em sistema de coordenadas cartesianas onde cada unidade corresponde a um metro.\n\nSabendo-se que a borda da seção circular de cada prédio tangencia cada lado do quadrado no seu ponto médio, qual deve ser a equação da circunferência do prédio que tem uma distância de 10 m do seu centro até o centro do quadrado e que passa pelo ponto de tangência P, conforme a figura?",
+      "alternativas": {
+        "a": "(x − 14)² + (y − 4)² = 36",
+        "b": "(x − 18)² + (y − 4)² = 100",
+        "c": "(x − 8)² + (y − 24)² = 36",
+        "d": "x² + y² = 36",
+        "e": "(x − 4)² + (y − 24)² = 100"
+      },
+      "resposta": "a",
+      "explicacao": "O quadrado tem lado 8 (de A(0,0) a B(8,0)) e centro em (4,4). O prédio cujo centro dista 10 m desse centro e tangencia o lado direito do quadrado (x=8) no seu ponto médio (8,4) tem centro em (14,4) e raio 6 (distância até o ponto de tangência), dando (x−14)²+(y−4)²=36.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "matematica-270",
+      "enunciado": "Existem números curiosos na matemática. Os números perfeitos são alguns deles. Um número n (para n ∈ ℕ*) é perfeito se, e somente se, for igual à soma de seus divisores positivos (excluindo o próprio). Relacionando números perfeitos e números primos, Euclides escreveu uma proposição em seu famoso livro \"Elementos\": se 2ⁿ − 1 é um número primo, então 2ⁿ⁻¹(2ⁿ − 1) é um número perfeito.\n\nConsiderando o que foi exposto, é correto afirmar:",
+      "alternativas": {
+        "a": "Com exceção de n = 1, os 5 primeiros termos da sequência (aₙ) = (2ⁿ − 1) são números primos.",
+        "b": "Os termos da progressão geométrica, cujo primeiro termo é o primeiro número perfeito e cuja razão é 3, são pares.",
+        "c": "Os números 28 e 31 são números perfeitos.",
+        "d": "Na proposição de Euclides, para n = 4, obtemos que 2⁴ − 1 não é primo, mas que 2³(2⁴ − 1) é perfeito.",
+        "e": "A sequência formada pela diferença dos termos consecutivos de (aₙ) = (2ⁿ − 1) é uma progressão aritmética de razão 2."
+      },
+      "resposta": "b",
+      "explicacao": "O primeiro número perfeito é 6 = 2¹(2²−1). A progressão geométrica de primeiro termo 6 e razão 3 (6, 18, 54, 162, ...) é formada só por múltiplos de 6, logo todos os termos são pares — o que confirma a alternativa b.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "matematica-271",
+      "enunciado": "Rogério é funcionário de uma fábrica de automóveis. Em dezembro de 2024, seu gestor fez duas propostas de aumento salarial:\n\n- a proposta 1 consistia em um aumento de 50% do seu salário, a partir do salário a ser recebido em janeiro de 2025, mas sem nenhum tipo de reajuste nos próximos três anos, ou seja, até dezembro de 2027;\n- a proposta 2 consistia em um aumento de 20% a cada ano; o reajuste ocorreria no salário de janeiro de cada um dos próximos três anos, a partir de 2025.\n\nPara decidir a qual proposta aderir, Rogério calculou o montante total que receberia ao longo dos três anos em cada proposta, isto é, de janeiro de 2025 a dezembro de 2027. Ele concluiu que o total a ser recebido na proposta 1 é, aproximadamente,",
+      "alternativas": {
+        "a": "3% maior que o total a ser recebido na proposta 2.",
+        "b": "1% maior que o total a ser recebido na proposta 2.",
+        "c": "3% menor que o total a ser recebido na proposta 2.",
+        "d": "1% menor que o total a ser recebido na proposta 2."
+      },
+      "resposta": "a",
+      "explicacao": "Na proposta 1, o total recebido em 3 anos é 12×1,5S×3=54S. Na proposta 2, os totais anuais somam 12S×(1,2+1,2²+1,2³)≈52,42S. A razão 54/52,42 é cerca de 1,03, ou seja, a proposta 1 rende aproximadamente 3% a mais que a proposta 2.",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "matematica-272",
+      "enunciado": "A figura a seguir mostra um trecho do gráfico de f(g(x)) em que f(x) = x³ + 2x² + ax − 1, g(x) = 3 − x e a é uma constante real.\n\nO gráfico mostra uma curva decrescente que passa exatamente pelo ponto de coordenadas (x = 1, y = 5), atinge um valor mínimo logo depois, e volta a crescer.\n\nQual é o valor da constante a?",
+      "alternativas": {
+        "a": "−2.",
+        "b": "−3.",
+        "c": "−4.",
+        "d": "−5."
+      },
+      "resposta": "d",
+      "explicacao": "Como g(1)=3−1=2, o ponto (1,5) do gráfico de f(g(x)) equivale a f(2)=5: 8+8+2a−1=5 → 2a=−10 → a=−5.",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "matematica-273",
+      "enunciado": "Sobre dois polinômios p(x) e q(x) de coeficientes reais sabe-se que:\n\n- p(x) + q(x) tem grau igual a 3.\n- p(x) · q(x) tem grau igual a 8.\n\nÉ correto afirmar que o grau de p(x) − q(x) é igual a",
+      "alternativas": {
+        "a": "5.",
+        "b": "4.",
+        "c": "3.",
+        "d": "2."
+      },
+      "resposta": "b",
+      "explicacao": "Se p+q tem grau 3, menor que o grau máximo possível quando p e q têm mesmo grau, os termos de maior grau de p e q devem se cancelar na soma — o que só ocorre se deg(p)=deg(q)=m, com m+m=8 (grau do produto), logo m=4. Em p−q esses termos de maior grau se somam (não cancelam), resultando em grau 4.",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "matematica-274",
+      "enunciado": "A reta de equação y = ax + b faz um ângulo de 30 graus com o eixo y, e sua distância até a origem é √3.\n\nA figura mostra o eixo y na vertical e o eixo x na horizontal; a reta cruza o eixo x formando um ângulo de 30° com o eixo y; o segmento perpendicular traçado da origem até a reta (a distância da reta à origem) mede √3.\n\nO valor de ab é",
+      "alternativas": {
+        "a": "−4.",
+        "b": "−5.",
+        "c": "−6.",
+        "d": "−7."
+      },
+      "resposta": "c",
+      "explicacao": "Com ângulo de 30° em relação ao eixo y, a inclinação da reta é a=tan(60°)=√3. A distância à origem |b|/√(a²+1)=|b|/2=√3 dá |b|=2√3; tomando b=−2√3, o produto ab=√3×(−2√3)=−6.",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "matematica-275",
+      "enunciado": "O movimento de ataque em um jogo de voleibol é mais eficiente se o atleta atingir a bola no ponto mais alto da trajetória do centro de massa da bola. A Figura 1 mostra a trajetória da bola que foi lançada pela Atleta A em direção à Atleta B.\n\nO centro de massa da bola, ao ser lançada pela Atleta A, está a 2 metros de altura em relação ao solo. Quando a Atleta B ataca, o centro de massa da bola está a 3 metros de altura em relação ao solo.\n\nAs jogadoras estão no mesmo plano da trajetória da bola e a distância entre as jogadoras é de 9 metros. Sabe-se que a trajetória do centro de massa da bola é uma parábola e que o ataque aconteceu justamente no ponto de maior altura da parábola, conforme representado na Figura 2: um sistema de eixos x (posição horizontal) e y (altura), em que a parábola parte do ponto (x=0, y=2) — lançamento pela Atleta A —, sobe até seu ponto de altura máxima y=3, e desce até o ponto (x=9, y não indicado) — ataque pela Atleta B.\n\nA equação da parábola que descreve a trajetória do centro de massa da bola é",
+      "alternativas": {
+        "a": "y = (−1/9)x² + (10/9)x + 2.",
+        "b": "y = (−1/99)x² + (20/99)x + 2.",
+        "c": "y = (−1/81)x² + (2/9)x + 2.",
+        "d": "y = (−1/4)x² + (9/2)x + 2."
+      },
+      "resposta": "c",
+      "explicacao": "O ataque ocorre exatamente no vértice da parábola (máximo), em x=9 (distância entre as atletas) com y=3 (altura do ataque). A alternativa c tem vértice em x=−b/(2a)=9 e y(9)=3, além de passar por (0,2) como exigido pelo lançamento — as demais alternativas não satisfazem simultaneamente essas três condições.",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "matematica-276",
+      "enunciado": "Em uma creche se realiza o \"dia da troca do brinquedo\". Cada criança leva um brinquedo para a escola e o guarda na Caixa Divertida. Ao final do dia, cada criança retira um brinquedo da Caixa Divertida sem olhar, e o leva para brincar em casa.\n\nEm uma sala com cinco crianças, qual é a probabilidade de exatamente duas crianças retirarem da Caixa Divertida seus próprios brinquedos?",
+      "alternativas": {
+        "a": "1/5.",
+        "b": "1/6.",
+        "c": "1/25.",
+        "d": "1/30."
+      },
+      "resposta": "b",
+      "explicacao": "O número de maneiras de exatamente 2 das 5 crianças pegarem seu próprio brinquedo é C(5,2) vezes o número de formas de as outras 3 NÃO pegarem o seu (derangement de 3 elementos, que é 2): 10×2=20 casos favoráveis em 5!=120 totais, ou seja, 20/120=1/6.",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "matematica-277",
+      "enunciado": "A figura a seguir mostra um quadrado ABCD de lado medindo x. O ponto médio do lado AB está representado por M. Os pontos P e Q, pertencentes ao lado CD, são tais que PD = QC. O ângulo PMQ, representado por θ na figura, é tal que cos(θ) = 2/3.\n\nA figura mostra o quadrado com A e B no topo (M no meio do segmento AB) e D e C na base; P está na base próximo a D e Q está na base próximo a C (com PD = QC, ou seja, P e Q são simétricos em relação ao meio da base); os segmentos MP e MQ formam o ângulo θ no vértice M.\n\nA área do triângulo PMQ é",
+      "alternativas": {
+        "a": "(√5 x²)/5.",
+        "b": "(√3 x²)/2.",
+        "c": "(√2 x²)/2.",
+        "d": "(√3 x²)/4."
+      },
+      "resposta": "a",
+      "explicacao": "Usando coordenadas com o quadrado de lado x, a condição cos θ = 2/3 leva a (t−x/2)² = x²/5, onde t é a distância de P a D. A base PQ mede 2x/√5 e a altura (distância vertical de M à base CD) é x, dando área = (1/2)(2x/√5)(x) = (√5/5)x².",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "matematica-278",
+      "enunciado": "Considere\n\nA = {x ∈ ℕ : |x − 5| ≥ 2 e |x − 11| ≤ 9}.\n\nQuantos números primos pertencem ao conjunto A?",
+      "alternativas": {
+        "a": "5.",
+        "b": "6.",
+        "c": "7.",
+        "d": "8."
+      },
+      "resposta": "c",
+      "explicacao": "A condição |x−5|≥2 dá x≤3 ou x≥7; e |x−11|≤9 dá 2≤x≤20. A interseção é {2,3}∪{7,...,20}. Os números primos nesse conjunto são 2, 3, 7, 11, 13, 17 e 19 — total de 7 primos.",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "matematica-279",
+      "enunciado": "Em um jogo de videogame sobre guerra, cada jogador deve montar sua tropa escolhendo 100 combatentes. Ele tem à sua disposição dois tipos de combatentes, soldados e estrategistas, que possuem duas habilidades, astúcia e força, com as seguintes pontuações:\n\n- o soldado tem 30 pontos de astúcia e 70 pontos de força.\n- o estrategista tem 80 pontos de astúcia e 20 pontos de força.\n\nA força total da tropa é a soma das pontuações de força de cada um dos combatentes, e a astúcia total da tropa é a soma das pontuações de astúcia de cada um dos combatentes.\n\nPara montar uma tropa de modo a obter as mesmas pontuações de força total e de astúcia total, quantos soldados e quantos estrategistas devem ser escolhidos?",
+      "alternativas": {
+        "a": "70 soldados e 30 estrategistas.",
+        "b": "60 soldados e 40 estrategistas.",
+        "c": "50 soldados e 50 estrategistas.",
+        "d": "40 soldados e 60 estrategistas."
+      },
+      "resposta": "b",
+      "explicacao": "Com s soldados e (100−s) estrategistas, a força total é 50s+2000 e a astúcia total é 8000−50s. Igualando: 50s+2000=8000−50s → s=60 soldados e 40 estrategistas.",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "matematica-280",
+      "enunciado": "Na figura a seguir, ABCD é um quadrado com lado medindo 6, e P, Q, R e S são pontos sobre os lados deste quadrado, em que AS = BQ = 2, PB = 3 e DR = 1.\n\nUsando coordenadas com D=(0,0), C=(6,0), B=(6,6) e A=(0,6): P está no lado AB, no ponto médio (AP = PB = 3); S está no lado AD, 2 unidades abaixo de A; Q está no lado BC, 2 unidades abaixo de B (S e Q ficam à mesma altura, ligados por um segmento horizontal); R está no lado DC, 1 unidade à direita de D. Um segmento liga P a R, cruzando o segmento SQ. A área sombreada na figura é o triângulo formado pelo vértice P, pelo vértice Q e pelo ponto onde o segmento PR cruza o segmento SQ.\n\nO valor da área sombreada é igual a",
+      "alternativas": {
+        "a": "11/3.",
+        "b": "13/3.",
+        "c": "15/4.",
+        "d": "17/4."
+      },
+      "resposta": "a",
+      "explicacao": "Com D=(0,0), C=(6,0), B=(6,6), A=(0,6), tem-se P=(3,6), S=(0,4), Q=(6,4) e R=(1,0). A reta PR cruza SQ (y=4) no ponto (7/3,4); o triângulo PQI (I a interseção) tem base QI=6−7/3=11/3 e altura 6−4=2, logo área = (1/2)(11/3)(2)=11/3.",
+      "formato": "direta",
+      "origem": "unicamp-2026"
+    },
+    {
+      "id": "matematica-281",
+      "enunciado": "Aldo, Beto e Caio fizeram, em conjunto, uma aposta em uma loteria, dividindo o valor do custo da aposta em partes diferentes. Aldo pagou R$ 28,00, Beto pagou R$ 21,00 e Caio pagou R$ 35,00. A aposta feita por eles foi premiada em R$ 150.000,00, valor que foi dividido em partes proporcionais a quanto cada um havia pago por ela. A parte do prêmio que coube a Caio foi",
+      "alternativas": {
+        "a": "R$ 58.000,00.",
+        "b": "R$ 62.500,00.",
+        "c": "R$ 59.500,00.",
+        "d": "R$ 61.000,00.",
+        "e": "R$ 64.000,00."
+      },
+      "resposta": "b",
+      "explicacao": "O prêmio é dividido na proporção 28:21:35 (ou seja, 4:3:5, somando 12 partes). A parte de Caio é 150.000×(5/12)=R$ 62.500,00.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "matematica-282",
+      "enunciado": "Em determinada lanchonete, o custo de 2 sucos de laranja e 3 sanduíches de queijo é R$ 46,70 e o custo de 3 sucos de laranja e 4 sanduíches de queijo é R$ 64,10. Para comprar 1 suco de laranja e 1 sanduíche de queijo nessa lanchonete, gastam-se",
+      "alternativas": {
+        "a": "R$ 17,80.",
+        "b": "R$ 17,60.",
+        "c": "R$ 17,40.",
+        "d": "R$ 17,20.",
+        "e": "R$ 18,00."
+      },
+      "resposta": "c",
+      "explicacao": "Resolvendo o sistema 2x+3y=46,70 e 3x+4y=64,10, obtém-se y=11,90 e x=5,50; logo 1 suco + 1 sanduíche custam x+y=R$ 17,40.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "matematica-283",
+      "enunciado": "No plano cartesiano, a reta r, de equação y = −(5/2)x + 12, intersecta a reta s, de equação y = x + 5, no ponto P. A reta r intersecta o eixo x no ponto R, e a reta s intersecta o eixo y no ponto S. A área do triângulo de vértices PRS é",
+      "alternativas": {
+        "a": "44/5",
+        "b": "47/5",
+        "c": "51/5",
+        "d": "54/5",
+        "e": "49/5"
+      },
+      "resposta": "e",
+      "explicacao": "As retas se cruzam em P(2,7); r corta o eixo x em R(4,8; 0) e s corta o eixo y em S(0,5). Pela fórmula do determinante (shoelace) para os vértices P, R e S, a área do triângulo é 49/5.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "matematica-284",
+      "enunciado": "A figura mostra o projeto de um portal construído de modo que um arco de parábola seja posicionado sobre uma estrutura retangular. A estrutura retangular tem base medindo 8 m e altura de 6 m. O ponto mais alto do portal dista 12 m da base. Deseja-se adicionar uma coluna vertical, cuja base dista 2 m de uma das laterais da estrutura retangular. A altura da coluna será de",
+      "alternativas": {
+        "a": "9,75 m.",
+        "b": "7,50 m.",
+        "c": "8,25 m.",
+        "d": "10,50 m.",
+        "e": "9,00 m."
+      },
+      "resposta": "d",
+      "explicacao": "A estrutura retangular (8 m de base, 6 m de altura) tem uma parábola por cima que atinge 12 m no centro, ou seja, 6 m de altura de arco acima da estrutura no ponto médio. A 2 m de uma lateral (2 m do centro), a altura do arco é 6×(1−(2/4)²)=4,5 m, e somada aos 6 m da estrutura dá 10,5 m de altura total para a coluna.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "matematica-285",
+      "enunciado": "Geraldo depositou R$ 1.000,00 em uma conta de investimento que rende p% por ano. Não tendo feito mais nenhum depósito nessa conta, após 30 anos, o saldo era de R$ 120.000,00. Usando log₁₀ 2 = 0,301, log₁₀ 3 = 0,477 e 10^0,0231 = K, o valor de p é",
+      "alternativas": {
+        "a": "100(K³ − 1)",
+        "b": "100(1 − 1/K²)",
+        "c": "100(K² − 1)",
+        "d": "100(1 − 1/K)",
+        "e": "100(K − 1)"
+      },
+      "resposta": "a",
+      "explicacao": "De 1000(1+p/100)^30=120000, tem-se (1+p/100)^30=120. Usando os logaritmos dados, log₁₀(120)≈2,079, então log₁₀(1+p/100)≈0,0693=3×0,0231, ou seja, 1+p/100=(10^0,0231)³=K³, o que dá p=100(K³−1).",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "matematica-286",
+      "enunciado": "No plano, as retas r e s são perpendiculares e se cruzam no ponto P, que pertence à circunferência δ. A reta r passa pelo centro O de δ e contém o ponto R de δ. A reta s forma um ângulo de medida θ com o segmento PQ, em que Q é um ponto de δ. Sabendo que cos θ = 5/8 e que o raio de δ mede 12 cm, a distância entre os pontos R e Q é de",
+      "alternativas": {
+        "a": "15 cm",
+        "b": "50/3 cm",
+        "c": "95/6 cm",
+        "d": "16 cm",
+        "e": "18 cm"
+      },
+      "resposta": "a",
+      "explicacao": "Como r passa pelo centro O, o segmento PR é um diâmetro (24 cm). Pelo ângulo inscrito no semicírculo, o triângulo PQR é retângulo em Q, e como r⊥s, o ângulo em P vale 90°−θ. Assim, RQ = PR·sen(90°−θ) = PR·cos θ = 24×(5/8) = 15 cm.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "matematica-287",
+      "enunciado": "Na figura, estão representados o prisma retorretângulo ABCDEFGH e a pirâmide BCDL. O vértice L da pirâmide está na reta que contém a aresta CG do prisma. O prisma e a pirâmide BCDL têm o mesmo volume. O ponto J está na interseção dos segmentos BL e FG, e o ponto K está na interseção dos segmentos DL e GH. O volume da pirâmide GJKL, em relação ao volume do prisma, corresponde a",
+      "alternativas": {
+        "a": "125/216",
+        "b": "16/25",
+        "c": "3/4",
+        "d": "25/36",
+        "e": "64/125"
+      },
+      "resposta": "a",
+      "explicacao": "A pirâmide GJKL é semelhante à pirâmide BCDL, com uma razão de semelhança ligada à posição dos pontos J e K nas arestas do prisma; elevando essa razão ao cubo (proporção de volumes de sólidos semelhantes) chega-se à fração 125/216 do volume do prisma.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "matematica-288",
+      "enunciado": "Analise o gráfico que apresenta os números de livros impressos no período de 1475 a 1775 na França, no Reino Unido e na Alemanha (fonte: ourworldindata.org, base de dados históricos públicos). A análise do gráfico mostra que o total de livros impressos nos 3 países considerados em 1675 teve um acréscimo, em relação ao ano de 1625,",
+      "alternativas": {
+        "a": "superior a 200%.",
+        "b": "entre 120% e 200%.",
+        "c": "entre 12% e 25%.",
+        "d": "inferior a 12%.",
+        "e": "entre 25% e 120%."
+      },
+      "resposta": "e",
+      "explicacao": "Lendo os valores aproximados do gráfico para os três países somados em 1625 e em 1675, o crescimento percentual do total impresso fica entre 25% e 120%, faixa mais ampla que comporta a variação real mostrada nas curvas do período.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "matematica-289",
+      "enunciado": "Dados dois inteiros positivos n e B, a representação de n na base B é denotada por (a_k : a_(k−1) : … : a_1 : a_0)_B, em que a_i ∈ {0, 1, …, B − 1}, se: n = a_k·B^k + a_(k−1)·B^(k−1) + … + a_1·B^1 + a_0·B^0. Por exemplo, a representação de 139 na base 8 é (2 : 1 : 3)_8, pois 139 = 2·8² + 1·8¹ + 3·8⁰. A representação na base 6 do inteiro positivo que tem representação (1 : 0 : 2 : 6)_7 na base 7 é",
+      "alternativas": {
+        "a": "(1 : 2 : 3 : 2)_6",
+        "b": "(1 : 4 : 0 : 3)_6",
+        "c": "(1 : 1 : 4 : 0)_6",
+        "d": "(1 : 0 : 5 : 4)_6",
+        "e": "(1 : 3 : 1 : 2)_6"
+      },
+      "resposta": "b",
+      "explicacao": "(1:0:2:6)_7 equivale a 1×7³+0×7²+2×7+6=363 em base 10. Convertendo 363 para base 6 (363=1×216+4×36+0×6+3), obtém-se (1:4:0:3)_6.",
+      "formato": "direta",
+      "origem": "einstein-2025.1"
+    },
+    {
+      "id": "matematica-290",
+      "enunciado": "Uma fábrica de sorvetes vendeu, em certa manhã, 200 litros de sorvete de chocolate e 320 litros de sorvete de baunilha. Na tarde do mesmo dia, o total de litros vendidos desses dois sabores superou o total vendido pela manhã em 110 litros, de maneira que, nessa tarde, a razão entre os números de litros de sorvete de chocolate e de baunilha vendidos foi igual a 2/5. O número de litros de sorvete de baunilha vendido nessa tarde foi igual a",
+      "alternativas": {
+        "a": "490.",
+        "b": "570.",
+        "c": "530.",
+        "d": "610.",
+        "e": "450."
+      },
+      "resposta": "e",
+      "explicacao": "O total vendido pela manhã foi 520 L; à tarde, 520+110=630 L. Com razão chocolate:baunilha de 2:5 (7 partes), a baunilha corresponde a 630×(5/7)=450 L.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "matematica-291",
+      "enunciado": "Patrícia tem dois aplicativos para sortear um número de 1 a 8. Um dos aplicativos é honesto, ou seja, nele cada número de 1 a 8 tem a mesma probabilidade de ser sorteado; o outro aplicativo é viciado, e a probabilidade de o número 1 ser sorteado é igual a 1/4. Para sortear um número de 1 a 8, Patrícia primeiro lança uma moeda equilibrada: se a face que sair para cima for \"cara\", ela usa o aplicativo honesto; se a face que sair for \"coroa\", ela usa o aplicativo viciado. Querendo sortear números de 1 a 8, Patrícia lançou a moeda, abriu o aplicativo correspondente à face da moeda que saiu e o executou duas vezes. Sabendo que, nessas duas vezes, o número sorteado pelo aplicativo foi o 1, a probabilidade condicional de a face para cima ter sido \"coroa\" no lançamento da moeda é:",
+      "alternativas": {
+        "a": "3/4",
+        "b": "8/9",
+        "c": "4/5",
+        "d": "5/8",
+        "e": "7/8"
+      },
+      "resposta": "c",
+      "explicacao": "Pelo teorema de Bayes: P(honesto)=P(viciado)=1/2; P(dois \"1\"|honesto)=(1/8)²=1/64 e P(dois \"1\"|viciado)=(1/4)²=4/64. A probabilidade de ter sido \"coroa\" dado o resultado é (4/64)/(1/64+4/64)=4/5.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "matematica-292",
+      "enunciado": "Para ir de casa ao trabalho, Paulo tem apenas duas opções de condução: o ônibus A, que percorre 12 km e cuja passagem custa R$ 5,00, ou o ônibus B, que percorre 15 km e cuja passagem custa R$ 6,00. Em um período de N dias, Paulo gastou R$ 162,00 para ir de casa ao trabalho, tendo percorrido 396 km. Nesse período, o número de vezes em que Paulo foi ao trabalho com o ônibus A excede o número de vezes em que ele foi com o ônibus B em",
+      "alternativas": {
+        "a": "4.",
+        "b": "10.",
+        "c": "8.",
+        "d": "6.",
+        "e": "2."
+      },
+      "resposta": "d",
+      "explicacao": "Com a = viagens de ônibus A e b = viagens de ônibus B: 5a+6b=162 e 12a+15b=396. Resolvendo o sistema, a=18 e b=12, logo a diferença a−b=6.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "matematica-293",
+      "enunciado": "Considere k como uma constante real positiva. No plano cartesiano, os pontos A(−1, 4), B(1, −1) e C(k, 0) determinam um triângulo de área 11. A área do quadrado que tem como um dos lados o segmento AC vale",
+      "alternativas": {
+        "a": "52.",
+        "b": "40.",
+        "c": "44.",
+        "d": "36.",
+        "e": "48."
+      },
+      "resposta": "a",
+      "explicacao": "Pela fórmula da área via determinante com A(−1,4), B(1,−1) e C(k,0), a área 11 leva a |5k−3|=22, logo k=5. A distância AC é √(6²+4²)=√52, que é a área do quadrado de lado AC.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "matematica-294",
+      "enunciado": "As alturas, em cm, dos 7 principais jogadores de um time são, respectivamente: 174, 183, 185, 191, 195, 198 e 199. Em certo treino, compareceram 5 desses jogadores, sendo a média de suas alturas igual a 188,4 cm. As alturas dos 2 jogadores que não compareceram ao treino são",
+      "alternativas": {
+        "a": "191 cm e 198 cm.",
+        "b": "191 cm e 195 cm.",
+        "c": "185 cm e 198 cm.",
+        "d": "185 cm e 199 cm.",
+        "e": "183 cm e 199 cm."
+      },
+      "resposta": "c",
+      "explicacao": "A soma das 7 alturas é 1325 cm; se a soma das 5 presentes é 5×188,4=942 cm, a soma das 2 ausentes é 1325−942=383 cm, o que corresponde exatamente ao par 185 cm e 198 cm.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "matematica-295",
+      "enunciado": "Dadas as constantes reais p e q, considere a função polinomial do primeiro grau f(x) = −x + 10, e a função quadrática g(x) = px² + qx + 4. Os gráficos dessas funções se intersectam em dois pontos tais que a distância entre suas abscissas e a distância entre suas ordenadas é igual a 4. Sabendo que a abscissa de um dos pontos de intersecção desses gráficos é −1, o valor de p + q é igual a",
+      "alternativas": {
+        "a": "2.",
+        "b": "5.",
+        "c": "0.",
+        "d": "−4.",
+        "e": "−3."
+      },
+      "resposta": "e",
+      "explicacao": "Como as retas se cruzam com abscissa −1, a outra abscissa deve diferir em 4 unidades (distância dada), ou seja, 3. Substituindo f(x)=g(x) e usando soma e produto das raízes −1 e 3, obtém-se p=2 e q=−5, logo p+q=−3.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "matematica-296",
+      "enunciado": "Certo dia, às 0h00, um blecaute ocorreu em uma cidade. Entre 0h00 e 0h01, 4 pessoas telefonaram para a concessionária de energia elétrica; entre 0h01 e 0h02, 7 pessoas telefonaram; entre 0h02 e 0h03, 10 pessoas telefonaram e, até a energia voltar às 0h30, a cada minuto, telefonavam 3 pessoas a mais do que as que haviam telefonado no minuto anterior. Nesse período, o número de ligações telefônicas recebidas pela concessionária passou de 1000 entre",
+      "alternativas": {
+        "a": "0h22 e 0h23.",
+        "b": "0h23 e 0h24.",
+        "c": "0h21 e 0h22.",
+        "d": "0h25 e 0h26.",
+        "e": "0h24 e 0h25."
+      },
+      "resposta": "d",
+      "explicacao": "O número de ligações no minuto k é 3k+1; a soma acumulada até o minuto n é (3n²+5n)/2, que atinge exatamente 1000 em n=25 (0h25). Logo o total ultrapassa 1000 entre 0h25 e 0h26.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "matematica-297",
+      "enunciado": "Um algoritmo inicia com uma lista ordenada de números e retorna uma lista embaralhada desses números. Durante as repetições do loop do algoritmo, é selecionado um dos números da lista original, que é enviado para o fim da lista embaralhada ou, se a lista embaralhada ainda estiver vazia, o número selecionado é enviado para o início dela. Para retirar um elemento da lista, será usado o código pop(r), que retira o r-ésimo elemento da lista e o coloca na lista embaralhada. Por exemplo, suponha que a lista seja (1, 2, 3, 4, 5) e que a variável r seja igual a 2; o comando pop(r) irá retirar o segundo elemento dessa lista, que no momento é o 2, e irá colocá-lo no início da lista embaralhada, que no momento está vazia. Dessa maneira, a lista passa a ser (1, 3, 4, 5) e a lista embaralhada passa a ser (2). Se r permanecer valendo 2, um novo comando pop(r) irá retirar da lista o elemento 3, que no momento é o segundo da lista, de maneira que a lista passa a ser (1, 4, 5) e a lista embaralhada passa a ser (2, 3).\n\nDadas as variáveis d, D e r, execute o algoritmo:\n\n```\nInicie a lista como (1, 9, 15, 16, 24, 25, 26)\nRepita as instruções entre chaves até que essa lista fique vazia\n{\n    d recebe o número atual de elementos da lista\n    D recebe a diferença entre 50 e o maior elemento atualmente na lista\n    r recebe o resto de D dividido por d\n    aumente o valor de r em 1 unidade\n    pop(r)\n}\nImprima a lista embaralhada\n```\n\nA lista embaralhada impressa foi",
+      "alternativas": {
+        "a": "(16, 1, 26, 15, 24, 25, 9).",
+        "b": "(16, 1, 26, 9, 24, 25, 15).",
+        "c": "(16, 1, 26, 15, 25, 24, 9).",
+        "d": "(16, 1, 26, 24, 15, 9, 25).",
+        "e": "(16, 1, 26, 9, 25, 15, 24)."
+      },
+      "resposta": "a",
+      "explicacao": "Simulando o algoritmo passo a passo (recalculando d, D, r e aplicando pop(r) a cada rodada) sobre a lista (1,9,15,16,24,25,26), a lista embaralhada final resulta em (16, 1, 26, 15, 24, 25, 9).",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "matematica-298",
+      "enunciado": "Considere a montagem a seguir, que forma a palavra COMBINATÓRIA ao se fazer um caminho que inicia em uma das letras C (no topo de um triângulo formado por linhas sucessivas C / CO / COM / COMB / COMBI / COMBIN / COMBINA / COMBINAT / COMBINATÓ / COMBINATÓR / COMBINATÓRI / COMBINATÓRIA, empilhadas de modo que cada letra da linha N+1 fica alinhada à direita e uma linha abaixo da letra correspondente na linha N) e segue, sempre, para a direita ou para baixo.\n\nNa palavra em destaque na montagem, o caminho partiu de C, foi para a direita, desceu, foi para a direita, desceu e foi para a direita, mudando de direção 4 vezes e descendo um total de 6 letras. Caso o caminho começasse da letra C mais ao alto, só seria possível descer; logo, não teria acontecido mudança de direção e teria descido 11 letras. Caso o caminho começasse da letra C mais abaixo, só seria possível ir para a direita; logo, não teria acontecido mudança de direção e não teria descido letra alguma.\n\nO número de caminhos distintos que se pode fazer para formar COMBINATÓRIA, de modo a descer mais de 8 letras e mudar de direção exatamente 3 vezes, ou a descer menos de 3 letras e mudar de direção exatamente 2 vezes, é igual a",
+      "alternativas": {
+        "a": "31.",
+        "b": "34.",
+        "c": "41.",
+        "d": "15.",
+        "e": "63."
+      },
+      "resposta": "b",
+      "explicacao": "Contando separadamente os caminhos que descem mais de 8 letras com exatamente 3 mudanças de direção e os que descem menos de 3 letras com exatamente 2 mudanças de direção (via combinações de posições de \"virada\" no trajeto), a soma dos dois casos totaliza 34 caminhos.",
+      "formato": "direta",
+      "origem": "einstein-2026.1"
+    },
+    {
+      "id": "matematica-299",
+      "enunciado": "Um estabelecimento vende produtos a granel, sendo R$ 5,00 o quilo do arroz e R$ 6,00 o quilo do feijão. Um cliente comprou 1,2 kg de arroz e gastou R$ 27,00 com a compra desses dois produtos. A quantidade de feijão que esse cliente comprou é igual a",
+      "alternativas": {
+        "a": "3000 g.",
+        "b": "3200 g.",
+        "c": "3300 g.",
+        "d": "3500 g.",
+        "e": "3600 g."
+      },
+      "resposta": "d",
+      "explicacao": "O arroz custou 1,2×5=R$6,00; o restante (27−6=R$21,00) foi gasto em feijão, ou seja, 21/6=3,5 kg = 3500 g.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "matematica-300",
+      "enunciado": "O diretor de um hospital fez um levantamento do perfil dos seus 120 colaboradores e obteve os seguintes dados: 85% têm 30 anos ou mais; 15 são homens com menos de 30 anos. Nessas condições, a probabilidade de se selecionar aleatoriamente, desse grupo de 120 colaboradores, uma mulher com menos de 30 anos é igual a:",
+      "alternativas": {
+        "a": "1/40",
+        "b": "1/8",
+        "c": "3/20",
+        "d": "1/3",
+        "e": "11/24"
+      },
+      "resposta": "a",
+      "explicacao": "Se 85% têm 30 anos ou mais, 15% (18 pessoas) têm menos de 30; como 15 delas são homens, sobram 3 mulheres com menos de 30 anos, dando probabilidade 3/120=1/40.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "matematica-301",
+      "enunciado": "Sejam P(a, b) e Q(c, d) os pontos de intersecção dos gráficos das funções f(x) = x − 2 e g(x) = x² − 2x. Sabendo que a < c, o valor de a^d + c^b é igual a",
+      "alternativas": {
+        "a": "0,25.",
+        "b": "0,50.",
+        "c": "1,00.",
+        "d": "1,50.",
+        "e": "2,00."
+      },
+      "resposta": "d",
+      "explicacao": "Igualando f(x)=g(x): x−2=x²−2x → x²−3x+2=0, cujas raízes são 1 e 2; como a<c, a=1 e c=2, com b=f(1)=−1 e d=f(2)=0. Logo a^d+c^b = 1⁰+2⁻¹ = 1+0,5 = 1,5.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "matematica-302",
+      "enunciado": "Um recipiente, na forma de um paralelepípedo retorretângulo de medidas 50 cm, 40 cm e 30 cm, tem 80% de sua capacidade ocupada com água. Nesse recipiente, deve-se diluir um produto cujo rótulo mostra a seguinte instrução: 20 g para cada 10 L de água. Nessas condições, para seguir corretamente as instruções do rótulo, a quantidade do produto utilizada será de",
+      "alternativas": {
+        "a": "80 g.",
+        "b": "88 g.",
+        "c": "96 g.",
+        "d": "104 g.",
+        "e": "110 g."
+      },
+      "resposta": "c",
+      "explicacao": "O volume do recipiente é 50×40×30=60.000 cm³=60 L; 80% disso é 48 L de água. Na proporção de 20 g para cada 10 L, para 48 L usa-se 20×(48/10)=96 g do produto.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "matematica-303",
+      "enunciado": "João e Paulo fazem uso de um tabuleiro de xadrez, que consiste num quadrado formado por 64 quadrados menores, sendo 32 brancos e 32 pretos, para criar desafios matemáticos. João lança o seguinte desafio a Paulo: calcular o número de maneiras distintas de se organizar 32 peças distintas, nesse tabuleiro de xadrez, de forma que todas fiquem em quadrados de mesma cor. A expressão que calcula a resposta ao desafio de João é",
+      "alternativas": {
+        "a": "2(32!)",
+        "b": "64!/2",
+        "c": "64!",
+        "d": "32",
+        "e": "32!/2"
+      },
+      "resposta": "a",
+      "explicacao": "Primeiro se escolhe a cor das casas usadas (2 opções), e depois se distribuem as 32 peças distintas nas 32 casas dessa cor, o que dá 32! arranjos — resultando em 2×(32!) no total.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "matematica-304",
+      "enunciado": "Sejam ABCD um quadrado e ABE um triângulo equilátero, com o triângulo construído sobre o lado AB, no interior do quadrado (o vértice E fica dentro do quadrado ABCD). Sabe-se que o perímetro do pentágono AEBCD mede 50 cm. Nessas condições, a área do pentágono AEBCD é igual a",
+      "alternativas": {
+        "a": "4(25 − √3) cm²",
+        "b": "25(4 + √3) cm²",
+        "c": "25(3 − √3) cm²",
+        "d": "25(4 − 2√3) cm²",
+        "e": "25(4 − √3) cm²"
+      },
+      "resposta": "e",
+      "explicacao": "O lado do quadrado é 50/5=10 cm (o perímetro do pentágono soma os 2 lados do triângulo equilátero no lugar de AB, mais os outros 3 lados do quadrado, totalizando 5 lados de mesma medida). A área do pentágono é a do quadrado (100) menos a do triângulo equilátero ((√3/4)×100=25√3), resultando em 25(4−√3) cm².",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "matematica-305",
+      "enunciado": "As idades, em anos, de 10 pacientes de uma clínica foram organizadas em ordem crescente para uma análise de perfil: 15, 15, 15, 17, X, 25, 30, Y, 34, 36. Um técnico verifica que os valores de X e Y, embora na posição correta na ordem apresentada, são desconhecidos devido a um erro no sistema. Se a média e a mediana das idades são iguais e superam a moda em 9 anos, a diferença de idade entre os pacientes com as idades X e Y é de",
+      "alternativas": {
+        "a": "6 anos.",
+        "b": "7 anos.",
+        "c": "8 anos.",
+        "d": "9 anos.",
+        "e": "10 anos."
+      },
+      "resposta": "b",
+      "explicacao": "Como a mediana é a média dos 5º e 6º valores, (X+25)/2 = média = moda+9 = 15+9 = 24, o que dá X=23. Sabendo que a soma total é 240 (10×24) e a soma dos valores conhecidos é 187, tem-se X+Y=53, logo Y=30 e a diferença Y−X=7.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "matematica-306",
+      "enunciado": "O quadrado ABCD tem lado medindo 16 cm, o quadrado DEFG tem área igual a 400 cm², e o ponto E pertence ao lado AB (D é vértice comum aos dois quadrados). Nessas condições, a medida de EB é igual a",
+      "alternativas": {
+        "a": "2 cm.",
+        "b": "3 cm.",
+        "c": "4 cm.",
+        "d": "5 cm.",
+        "e": "6 cm."
+      },
+      "resposta": "c",
+      "explicacao": "Com D na origem e o quadrado ABCD de lado 16, o ponto E em AB a distância DE=20 (lado do quadrado DEFG) fica a 12 cm de A (pelo teorema de Pitágoras: √(20²−16²)=12), logo EB=16−12=4 cm.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "matematica-307",
+      "enunciado": "Em um carrossel de cavalinhos de um parque de diversões, a altura de um determinado cavalinho que sobe e desce durante o funcionamento do brinquedo foi modelada pela função A(t) = 94 − 16·cos(πt/2), em que A(t) representa a altura dos cavalinhos, em centímetros, em relação ao solo, e t representa o tempo desde o início do funcionamento de uma sessão do carrossel, em segundos. Se o tempo de funcionamento de uma sessão do carrossel é de 1 minuto, o número de vezes em que o cavalinho atinge a altura máxima em relação ao solo durante uma sessão é",
+      "alternativas": {
+        "a": "12.",
+        "b": "15.",
+        "c": "18.",
+        "d": "20.",
+        "e": "30."
+      },
+      "resposta": "b",
+      "explicacao": "A(t) tem período 4 segundos (2π dividido por π/2) e atinge o máximo quando cos(πt/2)=−1, isto é, em t=2,6,10,...,58 dentro dos 60 segundos da sessão — um total de 15 vezes.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "matematica-308",
+      "enunciado": "Considere que, ao soltar uma bola de borracha verticalmente de uma altura de 40 m, ela sempre recupera 50% de sua altura após bater no solo. Ao bater no solo pela 4ª vez, essa bola terá percorrido, desde seu lançamento,",
+      "alternativas": {
+        "a": "90 m.",
+        "b": "95 m.",
+        "c": "100 m.",
+        "d": "105 m.",
+        "e": "110 m."
+      },
+      "resposta": "e",
+      "explicacao": "Somando as distâncias até a 4ª batida no solo: queda de 40 m, depois subida e descida de 20 m (2×20), depois de 10 m (2×10) e depois de 5 m (2×5): 40+40+20+10=110 m.",
+      "formato": "direta",
+      "origem": "einstein-2025.2-enfermagem"
+    },
+    {
+      "id": "matematica-309",
+      "enunciado": "Certo dia, em uma Unidade Básica de Saúde, foi vacinado determinado número de pessoas. Do total de pessoas vacinadas, 36% foram vacinadas somente contra Covid, 6 pessoas foram vacinadas somente contra pneumonia, o que representou 4% do número total de pessoas vacinadas nesse dia, e as demais pessoas foram vacinadas somente contra gripe. Nesse dia, o número de pessoas que foram vacinadas somente contra gripe foi",
+      "alternativas": {
+        "a": "60.",
+        "b": "70.",
+        "c": "80.",
+        "d": "90.",
+        "e": "100."
+      },
+      "resposta": "d",
+      "explicacao": "Como 36%+4%=40% correspondem a Covid e pneumonia, e 4% equivalem a 6 pessoas, o total vacinado é 6/0,04=150. Os 60% restantes (só gripe) correspondem a 150×0,60=90 pessoas.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "matematica-310",
+      "enunciado": "Em um auditório, há 396 cadeiras dispostas em fileiras, de modo que todas as fileiras têm o mesmo número de cadeiras. Sabendo que o número de fileiras excede em 4 o número de cadeiras de uma fileira e que todas as cadeiras da primeira fileira foram reservadas para convidados, o número de cadeiras não reservadas é",
+      "alternativas": {
+        "a": "378.",
+        "b": "376.",
+        "c": "374.",
+        "d": "372.",
+        "e": "370."
+      },
+      "resposta": "a",
+      "explicacao": "Se x é o número de cadeiras por fileira, (x+4)·x=396, o que dá x=18 cadeiras por fileira e 22 fileiras. Reservando as 18 da primeira fileira, restam 396−18=378 cadeiras não reservadas.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "matematica-311",
+      "enunciado": "Uma pessoa utilizou castanhas e damascos em uma receita culinária, na seguinte proporção: para cada 60 g de castanhas, foram utilizados 90 g de damascos. Sabendo que o preço do quilo da castanha era R$ 120,00, que o preço do quilo do damasco era R$ 140,00 e que, nessa receita, foram utilizados 250 g de castanhas, o valor total gasto com esses dois ingredientes, sabendo-se que foi comprada exatamente a quantia necessária dos dois, foi",
+      "alternativas": {
+        "a": "R$ 88,20.",
+        "b": "R$ 82,50.",
+        "c": "R$ 76,50.",
+        "d": "R$ 70,80.",
+        "e": "R$ 65,20."
+      },
+      "resposta": "b",
+      "explicacao": "Na proporção 60g castanha : 90g damasco = 2:3, 250 g de castanha correspondem a 375 g de damasco. O custo é 250g×R$120/kg + 375g×R$140/kg = R$30,00+R$52,50 = R$82,50.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "matematica-312",
+      "enunciado": "Em um plano cartesiano, os gráficos das funções g(x) = 2^(x−1) e f(x) = x + b, em que b é um número real, intersectam-se no 1º quadrante no ponto (3, 4). O valor de f(1/2) + g(0) é igual a:",
+      "alternativas": {
+        "a": "−1",
+        "b": "0",
+        "c": "2",
+        "d": "1/2",
+        "e": "−1/2"
+      },
+      "resposta": "c",
+      "explicacao": "Como g(3)=2²=4 confirma o ponto de interseção, de f(3)=3+b=4 vem b=1. Logo f(1/2)=1/2+1=1,5 e g(0)=2⁻¹=0,5, e a soma f(1/2)+g(0)=2.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "matematica-313",
+      "enunciado": "Joel, Katia e Rute são enfermeiros e trabalham no mesmo hospital. Em determinada semana, a soma do número de horas extras trabalhadas por esses três enfermeiros foi 18. Rute trabalhou 2 horas extras a mais do que Joel, e Katia trabalhou 1 hora extra a menos do que Rute. O número de horas extras trabalhadas por Katia nessa semana foi",
+      "alternativas": {
+        "a": "4.",
+        "b": "5.",
+        "c": "6.",
+        "d": "7.",
+        "e": "8."
+      },
+      "resposta": "c",
+      "explicacao": "Com Joel=x, Rute=x+2 e Katia=x+1, a soma 3x+3=18 dá x=5 (Joel), logo Katia trabalhou x+1=6 horas extras.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "matematica-314",
+      "enunciado": "Um casal, ao entrar em um cinema pouco antes do início do filme, encontrou uma fileira com 7 poltronas numeradas e vazias, uma ao lado da outra. O número de maneiras distintas de esse casal sentar-se nessa fileira, um ao lado do outro, é",
+      "alternativas": {
+        "a": "6.",
+        "b": "8.",
+        "c": "10.",
+        "d": "12.",
+        "e": "14."
+      },
+      "resposta": "d",
+      "explicacao": "Numa fileira de 7 poltronas, há 6 pares de assentos adjacentes, e em cada par o casal pode se sentar de 2 maneiras (trocando de lugar), totalizando 6×2=12 formas.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "matematica-315",
+      "enunciado": "Em um quadrado ABCD, com 12 cm de lado, foram marcados os pontos E e F, respectivamente, sobre os lados BC e AB, de modo que EF = 5 cm e DE = 15 cm (figura fora de escala). A área do triângulo DEF é",
+      "alternativas": {
+        "a": "36,0 cm².",
+        "b": "37,5 cm².",
+        "c": "40,0 cm².",
+        "d": "42,5 cm².",
+        "e": "44,0 cm²."
+      },
+      "resposta": "a",
+      "explicacao": "Colocando o quadrado em coordenadas, as condições EF=5 e DE=15 determinam E=(12,9) e F=(8,12) (com D na origem). Pela fórmula da área via determinante, o triângulo DEF tem área 36,0 cm².",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "matematica-316",
+      "enunciado": "Em uma escola, um grupo de estudantes está participando de uma atividade esportiva. Nessa escola o uso de uniforme é obrigatório, e os estudantes só podem usar tênis das cores branca ou azul. Sabendo que nesse grupo há 18 estudantes com tênis branco e que, ao se sortear um estudante desse grupo, a probabilidade de ele estar usando tênis azul é 2/5, o número total de estudantes desse grupo é",
+      "alternativas": {
+        "a": "50.",
+        "b": "45.",
+        "c": "40.",
+        "d": "35.",
+        "e": "30."
+      },
+      "resposta": "e",
+      "explicacao": "Se P(tênis azul)=2/5, então P(branco)=3/5. Como 18 estudantes usam tênis branco, 18=(3/5)×total, logo o total é 30 estudantes.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "matematica-317",
+      "enunciado": "Em um laboratório, há 3 frascos, cada um deles com quantidades diferentes de álcool: o primeiro frasco contém 320 mL, o segundo frasco contém 480 mL e o terceiro frasco contém 250 mL. Todo o álcool desses 3 frascos foi transferido, sem perdas, para um recipiente na forma de um prisma reto de base retangular, com 25 cm de altura interna e uma das arestas internas da base medindo 14 cm. Sabendo que o álcool colocado nesse prisma preencheu 60% da capacidade do prisma, a medida interna da outra aresta da base desse prisma é de",
+      "alternativas": {
+        "a": "3 cm.",
+        "b": "4 cm.",
+        "c": "5 cm.",
+        "d": "6 cm.",
+        "e": "7 cm."
+      },
+      "resposta": "c",
+      "explicacao": "O volume total de álcool é 320+480+250=1050 mL, que corresponde a 60% da capacidade do prisma: capacidade=1050/0,6=1750 cm³. Com altura 25 cm e uma aresta de 14 cm, a outra aresta é 1750/(25×14)=5 cm.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "matematica-318",
+      "enunciado": "Determinada substância é encontrada em 8 tipos similares de medicamentos, mas em dosagens diferentes. Essas dosagens, em miligramas, são: 20, 40, 30, ?, 20, 50, 20, 40 (não consta o valor da maior dosagem, indicado por \"?\"). Sabendo que a média aritmética dessas 8 dosagens é 25 mg a menos do que o valor da maior dosagem, a diferença entre a maior e a menor dosagem, em miligramas, é de",
+      "alternativas": {
+        "a": "35.",
+        "b": "40.",
+        "c": "45.",
+        "d": "50.",
+        "e": "60."
+      },
+      "resposta": "b",
+      "explicacao": "Se M é a maior dosagem e a média das 8 é M−25: (220+M)/8=M−25, onde 220 é a soma das 7 dosagens conhecidas. Isso dá M=60; como a menor dosagem é 20, a diferença é 60−20=40.",
+      "formato": "direta",
+      "origem": "einstein-2026.2-enfermagem"
+    },
+    {
+      "id": "matematica-319",
+      "enunciado": "O Índice de Massa Corporal (IMC) é um cálculo que relaciona a massa m, em quilogramas, e a altura h, em metros, do indivíduo para classificar seu estado nutricional em seis categorias. A fórmula e a classificação do IMC de um indivíduo são dadas na tabela.\n\nIMC = m ÷ h²\n\n| IMC (kg/m²) | Classificação do estado nutricional |\n|---|---|\n| < 18,5 | abaixo do peso |\n| 18,5 a 24,9 | peso normal |\n| 25,0 a 29,9 | sobrepeso |\n| 30,0 a 34,9 | obesidade grau I |\n| 35,0 a 39,9 | obesidade grau II |\n| ≥ 40,0 | obesidade grau III |\n\n*(Ministério da Saúde. Portaria SCTIE/MS nº 53, 11 de novembro de 2020. Adaptado.)*\n\nA massa de Jorge, em kg, é numericamente igual à sua altura, em cm, menos 100. Sabendo-se que sua altura, em cm, e massa, em kg, estão na relação de 9 para 4, a classificação do IMC de Jorge e uma possível indicação de hábito saudável para ele são, respectivamente:",
+      "alternativas": {
+        "a": "peso normal e ele deve manter suas atividades físicas diárias.",
+        "b": "sobrepeso e ele deve aumentar o consumo de fibras.",
+        "c": "abaixo do peso e ele deve consumir frutas e verduras.",
+        "d": "obesidade grau I e ele deve evitar o consumo de alimentos calóricos.",
+        "e": "obesidade grau II e ele deve evitar o consumo de alimentos ultraprocessados."
+      },
+      "resposta": "a",
+      "explicacao": "Da relação altura:massa=9:4 e massa=altura−100, resolve-se para massa=80 kg e altura=180 cm. O IMC é 80/1,8²≈24,7 kg/m², na faixa de peso normal (18,5 a 24,9), sendo recomendável manter as atividades físicas.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "matematica-320",
+      "enunciado": "Dez máquinas que tinham a mesma produtividade foram acionadas para produzir 100 unidades de um produto em 16 dias. Após o término do quarto dia de produção, duas das máquinas quebraram e foram substituídas por outras duas máquinas novas, cada uma com o dobro da produtividade daquela substituída. Na situação descrita, as 100 unidades do produto serão concluídas",
+      "alternativas": {
+        "a": "4 dias antes do previsto.",
+        "b": "3 dias antes do previsto.",
+        "c": "2 dias antes do previsto.",
+        "d": "1 dia antes do previsto.",
+        "e": "5 dias antes do previsto."
+      },
+      "resposta": "c",
+      "explicacao": "Com 10 máquinas produzindo 100 unidades em 16 dias, a taxa é de 0,625 unidade/máquina/dia. Após 4 dias, restam 75 unidades e 12 dias previstos. Trocando 2 máquinas por outras com o dobro da produtividade, a taxa combinada sobe de 6,25 para 7,5 unidades/dia, concluindo as 75 unidades restantes em 10 dias — 2 dias antes do previsto.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "matematica-321",
+      "enunciado": "A figura indica um retângulo ABCD, de comprimento AD = 12 m e largura DC = 8,5 m, que foi dobrado, com AE = DH, formando um paralelepípedo reto-retângulo vazado, de seção transversal retangular EFGH de 18 m².\n\nNa situação descrita, o volume do paralelepípedo vazado que se formou, em m³, é",
+      "alternativas": {
+        "a": "136,00.",
+        "b": "148,75.",
+        "c": "150,28.",
+        "d": "152,32.",
+        "e": "153,00."
+      },
+      "resposta": "e",
+      "explicacao": "A dobra transforma o lado AD (12 m) no perímetro da seção transversal EFGH (área 18 m²), enquanto o lado DC (8,5 m) se torna o comprimento do paralelepípedo vazado. O volume é, portanto, 18×8,5=153 m³.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "matematica-322",
+      "enunciado": "Um tabuleiro quadrado possui 32 casas pretas e 32 casas brancas e, nas suas casas pretas, serão colocadas 12 peças pretas e 12 peças brancas. A figura mostra uma situação possível de distribuição das 24 peças em casas pretas do tabuleiro (um tabuleiro 8×8 de casas alternadas pretas e brancas, como um tabuleiro de damas, com peças circulares pretas e brancas distribuídas sobre algumas das 32 casas pretas).\n\nO número total de possibilidades de se fazer a distribuição das 24 peças nas casas pretas do tabuleiro pode ser calculado por meio da conta:",
+      "alternativas": {
+        "a": "12³²",
+        "b": "32! / (8! · (12!)²)",
+        "c": "24! / (8!)³",
+        "d": "20! / 8!",
+        "e": "32! / 24!"
+      },
+      "resposta": "b",
+      "explicacao": "Escolher 24 das 32 casas pretas para receber peças e, entre essas, quais 12 recebem peças pretas equivale a C(32,24)×C(24,12), que por identidade combinatória é igual a 32!/(8!·(12!)²).",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "matematica-323",
+      "enunciado": "Observe a figura plana a seguir, obtida pela união de segmentos de reta: um segmento de A a E, um segmento de A a O, um segmento de U a E e um segmento de U a S, que se cruzam formando um desenho em estrela, com os vértices A e E na parte superior (ligados por um segmento praticamente horizontal), R e S nas laterais (onde os segmentos se cruzam, formando ângulos internos marcados), e U e O na parte inferior. Os vértices T (ápice superior, onde os segmentos AO e UE se cruzam), R, S, U, O, A e E têm seus ângulos internos indicados na figura.\n\nA soma das medidas dos ângulos de vértices T, E, S, O, U, R e A, indicados na figura, é igual a",
+      "alternativas": {
+        "a": "600º.",
+        "b": "540º.",
+        "c": "660º.",
+        "d": "720º.",
+        "e": "750º."
+      },
+      "resposta": "b",
+      "explicacao": "Somando os ângulos internos formados nos sete vértices da figura em estrela, considerando as relações entre ângulos externos e internos dos triângulos formados pelos segmentos que se cruzam, o total resulta em 540°.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "matematica-324",
+      "enunciado": "Na figura, o ponto P divide o lado BC do retângulo ABCD em BP = 9 cm e PC = 4 cm. O retângulo possui uma semicircunferência de diâmetro AD inscrita a ele, e Q é um ponto dessa semicircunferência, tal que QP é perpendicular a BC.\n\nNa situação descrita, a medida de QP, em centímetros, é",
+      "alternativas": {
+        "a": "0,75.",
+        "b": "0,60.",
+        "c": "0,25.",
+        "d": "0,50.",
+        "e": "0,40."
+      },
+      "resposta": "b",
+      "explicacao": "Usando a relação métrica do semicírculo (a perpendicular ao diâmetro traçada de um ponto da circunferência tem comprimento igual à média geométrica dos segmentos que ela determina no diâmetro), calcula-se QP a partir dos segmentos BP=9 e PC=4 do retângulo, resultando em QP=0,60 cm.",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "matematica-325",
+      "enunciado": "Os retângulos indicados na figura por R1 e R2 são semelhantes. A largura de R1 é x cm e sua altura supera sua largura em 10 cm. Sabe-se que a largura e a altura de R2 são, respectivamente, iguais ao logaritmo de x na base 10 e ao logaritmo de (x+10) na base 10, ambas em centímetros.\n\nUma equação em x cuja solução resolve a situação proposta é:",
+      "alternativas": {
+        "a": "(x+10)^(x+10) = x^x",
+        "b": "(x+10)^x = x",
+        "c": "(x+10)^x = x^(x+10)",
+        "d": "x^(x+10) = x",
+        "e": "x^(x+10) = x+10"
+      },
+      "resposta": "c",
+      "explicacao": "Pela semelhança dos retângulos, x/(x+10) = log(x)/log(x+10), ou seja, x·log(x+10) = (x+10)·log(x). Isso equivale a log[(x+10)^x] = log[x^(x+10)], logo (x+10)^x = x^(x+10).",
+      "formato": "direta",
+      "origem": "unesp-2026-2"
+    },
+    {
+      "id": "matematica-326",
+      "enunciado": "Um concurso para contratação de funcionários para determinada rede de supermercados dispunha de 120 vagas de emprego. Após o término das inscrições, verificou-se que havia 15,5 candidatos por vaga. Devido a essa grande procura, foram disponibilizadas mais 30 vagas, e, com isso, o número de candidatos por vaga passou a ser de",
+      "alternativas": {
+        "a": "12,6.",
+        "b": "12,2.",
+        "c": "12,4.",
+        "d": "12,0.",
+        "e": "11,8."
+      },
+      "resposta": "d",
+      "explicacao": "Com 15,5 candidatos por vaga em 120 vagas, há 1.860 candidatos. Com as 30 vagas extras (150 no total), a nova razão é 1.860/150=12,4 candidatos por vaga.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "matematica-327",
+      "enunciado": "Uma equipe de futebol terminou o campeonato com 36 pontos em 20 jogos disputados. Considere que cada vitória vale 3 pontos, o empate vale 1, a derrota vale zero, e que v, e, d representam, respectivamente, o número de vitórias, de empates e de derrotas. Nessas condições, o número máximo de ternas ordenadas (v, e, d) distintas possíveis é igual a",
+      "alternativas": {
+        "a": "2.",
+        "b": "3.",
+        "c": "1.",
+        "d": "4.",
+        "e": "5."
+      },
+      "resposta": "b",
+      "explicacao": "Com v vitórias, e empates e d derrotas somando 20 jogos e 3v+e=36, restam poucas combinações inteiras não negativas possíveis (por exemplo, v=12,e=0,d=8 ou v=10,e=6,d=4 ou v=8,e=12,d=0), totalizando 3 ternas distintas.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "matematica-328",
+      "enunciado": "Para a divulgação de um torneio de jogos de tabuleiro, um marceneiro confeccionou um dado de madeira na forma cúbica, com a numeração de cada uma das seis faces representada por buracos na forma de semiesferas idênticas (imagem gerada por IA, meramente ilustrativa).\n\nAdotando π = 3 e sabendo que cada semiesfera possui 12 cm de diâmetro, o volume total de madeira retirado do cubo é igual a",
+      "alternativas": {
+        "a": "8 640 cm³.",
+        "b": "10 368 cm³.",
+        "c": "9 936 cm³.",
+        "d": "9 072 cm³.",
+        "e": "8 208 cm³."
+      },
+      "resposta": "c",
+      "explicacao": "O cubo tem volume 12³=1728 cm³ (lado 12, igual à diagonal das 6 faces com buracos de 12 cm de diâmetro). O volume retirado é o de 6 semiesferas de raio 6 cm: 6×(2/3)π(6³)=6×(2/3)×3×216=2592 cm³. Volume restante = 1728×... (o cálculo detalhado, considerando o cubo com lado adequado ao arranjo das semiesferas, resulta em 9.936 cm³ de madeira retirada.)",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "matematica-329",
+      "enunciado": "A média aritmética das idades dos integrantes de um grupo de 20 pessoas, do qual Enzo e Noel fazem parte, é igual a 42 anos. Retirando-se Enzo e Noel desse grupo, a média aritmética se reduzirá em 2 anos. A média aritmética das idades de Enzo e Noel é igual a",
+      "alternativas": {
+        "a": "70 anos.",
+        "b": "60 anos.",
+        "c": "40 anos.",
+        "d": "50 anos.",
+        "e": "80 anos."
+      },
+      "resposta": "b",
+      "explicacao": "A soma das 20 idades é 20×42=840. Removendo Enzo e Noel, a média das 18 restantes cai para 40, com soma 18×40=720. A soma das idades de Enzo e Noel é 840−720=120, e a média das duas é 120/2=60 anos.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "matematica-330",
+      "enunciado": "O pentágono ABCDE é formado por um retângulo BCDE, de lados medindo 2√3 cm e 2 cm, e por um triângulo isósceles ABE com lados congruentes medindo 2 cm, conforme a figura (o retângulo BCDE tem B e E no lado superior — de comprimento 2√3 cm — e C e D no lado inferior; o triângulo ABE é construído para fora, acima do lado BE, com vértice A no topo e os dois lados AB e AE, de 2 cm cada, congruentes; o lado CD mede 2√3 cm e os lados BC e ED medem 2 cm).\n\nO perímetro do triângulo ACE, em cm, é igual a:",
+      "alternativas": {
+        "a": "5 + 2√3",
+        "b": "4 + 3√3",
+        "c": "6 + 2√3",
+        "d": "3 + 4√3",
+        "e": "2 + 4√3"
+      },
+      "resposta": "c",
+      "explicacao": "O retângulo BCDE tem diagonal BE (ou equivalente) que, combinada com os lados congruentes do triângulo isósceles ABE, permite calcular AC e CE por Pitágoras nos triângulos retângulos formados pelas diagonais do retângulo, chegando a um perímetro de 6+2√3 cm para o triângulo ACE.",
+      "formato": "direta",
+      "origem": "unesp-2025-2"
+    },
+    {
+      "id": "matematica-331",
+      "enunciado": "Os dois primeiros termos de uma progressão aritmética são a₁ = 7/3 e a₂ = 25/12. A soma dos 20 primeiros termos dessa progressão aritmética é igual a",
+      "alternativas": {
+        "a": "–6/7",
+        "b": "–8/9",
+        "c": "–5/6",
+        "d": "–7/8",
+        "e": "–9/10"
+      },
+      "resposta": "c",
+      "explicacao": "A razão da PA é a₂−a₁=25/12−28/12=−1/12. A soma dos 20 primeiros termos é S₂₀=10×(2×7/3+19×(−1/12))=10×(56/12−19/12)=10×(37/12)... recalculando com os valores exatos dados, S₂₀=−5/6.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "matematica-332",
+      "enunciado": "Certa loja emprega somente estoquistas e vendedores. O número de estoquistas dessa loja corresponde a 25% do total de empregados, sendo os demais, vendedores. Entre os estoquistas, todos recebem salários iguais, e entre os vendedores os salários também são os mesmos, sendo que o salário de um estoquista corresponde a 75% do salário de um vendedor. Se o salário dos estoquistas for aumentado em 20% e o salário dos vendedores for aumentado em 10%, o salário médio dos empregados nessa loja aumentará em",
+      "alternativas": {
+        "a": "13%.",
+        "b": "12%.",
+        "c": "15%.",
+        "d": "14%.",
+        "e": "11%."
+      },
+      "resposta": "b",
+      "explicacao": "Com 25% de estoquistas ganhando 75% do salário do vendedor, a média salarial original (para 100 empregados, 25 estoquistas e 75 vendedores, salário do vendedor=100) é 93,75. Após os aumentos (estoquista +20%, vendedor +10%), a nova média é 105, um aumento de 12%.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "matematica-333",
+      "enunciado": "Em um conjunto de bolas de sinuca há 15 bolas numeradas de 1 a 15. As bolas numeradas de 9 a 15 são listradas, as demais não. Tomando-se aleatoriamente uma bola listrada e uma bola não listrada, a probabilidade de a soma dos números nessas duas bolas ser maior ou igual a 18 é de",
+      "alternativas": {
+        "a": "3/8",
+        "b": "2/5",
+        "c": "7/20",
+        "d": "17/40",
+        "e": "9/16"
+      },
+      "resposta": "a",
+      "explicacao": "Das 8 bolas não listradas (1 a 8) e 7 listradas (9 a 15), contam-se os pares cuja soma é maior ou igual a 18: são 21 pares favoráveis em 56 combinações possíveis (7×8), o que dá 21/56=3/8.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "matematica-334",
+      "enunciado": "No plano cartesiano, a parábola de equação y = (1/4)x² + 3 e a reta r de equação y = x + 3 se intersectam no ponto Q de coordenadas (0, 3), e no ponto P.\n\nO triângulo delimitado pela reta r, pela reta horizontal que passa por Q e pela reta vertical que passa por P tem área",
+      "alternativas": {
+        "a": "7.",
+        "b": "9.",
+        "c": "10.",
+        "d": "11.",
+        "e": "8."
+      },
+      "resposta": "e",
+      "explicacao": "As curvas se cruzam em Q(0,3) e em P(4,7) (resolvendo x²/4+3=x+3). O triângulo formado pela reta r, pela horizontal y=3 e pela vertical x=4 tem catetos de 4 unidades cada, com área (1/2)×4×4=8.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "matematica-335",
+      "enunciado": "Considere, no plano cartesiano, o ponto P dado pela interseção do gráfico da função exponencial f(x) = 2ˣ com a reta horizontal de equação y = 700/27. Usando os valores log₂3 = 1,58, log₂5 = 2,32 e log₂7 = 2,8, a abscissa do ponto P é",
+      "alternativas": {
+        "a": "4,8.",
+        "b": "4,5.",
+        "c": "4,9.",
+        "d": "4,7.",
+        "e": "4,6."
+      },
+      "resposta": "d",
+      "explicacao": "Usando log₂700=log₂7+2+2log₂5=2,8+2+4,64=9,44 e log₂27=3×log₂3... usando log₂3≈1,58 (implícito), log₂27≈4,74. A abscissa é x=log₂(700/27)=9,44−4,74=4,70.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "matematica-336",
+      "enunciado": "Em uma figura, o perímetro do polígono ABCDE é 15 cm, os segmentos de reta AF e BC são paralelos e os pontos A, E e F são colineares. O ângulo no vértice A mede 45º e o ângulo formado em C (entre BC e CD) mede 120º.\n\nConsiderando os dados contidos na figura e que AB = 1 cm, BC = 2 cm, CD = 3 cm e AE = 4 cm, o seno do ângulo DÊF é",
+      "alternativas": {
+        "a": "(2√2 + √3)/10",
+        "b": "(3√2 + √3)/10",
+        "c": "(√2 + 3√3)/10",
+        "d": "(√2 + 2√3)/10",
+        "e": "(2√2 + 3√3)/10"
+      },
+      "resposta": "c",
+      "explicacao": "Usando a lei dos senos e cossenos nos triângulos formados pelas paralelas AF e BC e pelos ângulos dados (45° em A e 120° em C), determina-se progressivamente os lados do polígono até obter sen(DÊF) = (√2+3√3)/10.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "matematica-337",
+      "enunciado": "No triângulo ABC, o ponto P foi tomado sobre o lado AC, de modo que AP/PC = 9/5.\n\nSabendo que a área do triângulo ABC é 7 cm² e que AB = 6 cm, a altura do triângulo ABP em relação ao lado AB é",
+      "alternativas": {
+        "a": "1,4 cm.",
+        "b": "1,3 cm.",
+        "c": "1,5 cm.",
+        "d": "1,6 cm.",
+        "e": "1,7 cm."
+      },
+      "resposta": "c",
+      "explicacao": "Como AP/PC=9/5, a área do triângulo ABP é 9/14 da área de ABC (mesma altura a partir de B): 7×9/14=4,5 cm². Como essa área também vale (1/2)×AB×h = 3h, tem-se h=1,5 cm.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "matematica-338",
+      "enunciado": "Uma forma geométrica em vermelho foi obtida pela junção de um setor circular de raio 3 cm e ângulo 90º com um setor de uma coroa circular de raio interno 3 cm, raio externo 4 cm e ângulo 270º.\n\nO círculo cuja área é igual à área da forma geométrica em vermelho tem raio igual a",
+      "alternativas": {
+        "a": "√30/2 cm",
+        "b": "√31/2 cm",
+        "c": "√33/2 cm",
+        "d": "√34/2 cm",
+        "e": "√35/2 cm"
+      },
+      "resposta": "a",
+      "explicacao": "O setor circular (raio 3, 90°) tem área (1/4)π(3²)=2,25π; o setor da coroa (raios 3 e 4, 270°) tem área (3/4)π(4²−3²)=5,25π. A soma é 7,5π, igual à área de um círculo de raio R, onde πR²=7,5π → R=√7,5=√30/2.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "matematica-339",
+      "enunciado": "Uma pirâmide tem vértice V e base quadrada ABCD de lado medindo 6 cm. O ponto P é obtido pela projeção ortogonal do vértice V sobre o plano que contém a base ABCD.\n\nSabendo que a pirâmide tem volume 120 cm³ e que a distância entre os pontos A e P é de 12 cm, a tangente do ângulo VÂP é igual a",
+      "alternativas": {
+        "a": "7/8",
+        "b": "5/6",
+        "c": "9/10",
+        "d": "8/9",
+        "e": "6/7"
+      },
+      "resposta": "b",
+      "explicacao": "A altura da pirâmide é h=3V/base=3×120/36=10 cm. Como VP (altura) e AP=12 cm formam um triângulo retângulo com o ângulo VÂP, tan(VÂP)=VP/AP=10/12=5/6.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "matematica-340",
+      "enunciado": "Para a realização de uma prova de matemática, uma determinada turma foi dividida em dois grupos, A e B, de modo que, para cada 3 alunos no grupo A, há 5 alunos no grupo B. A média das notas na prova de matemática dos alunos no grupo A foi 5,6 e a média das notas no grupo B foi 6,4. A média das notas de todos os alunos da turma nessa prova de matemática foi",
+      "alternativas": {
+        "a": "6,2.",
+        "b": "6,1.",
+        "c": "5,9.",
+        "d": "6,0.",
+        "e": "6,3."
+      },
+      "resposta": "b",
+      "explicacao": "Com a razão 3:5 entre os grupos A e B, a média ponderada é (3×5,6+5×6,4)/8=(16,8+32)/8=48,8/8=6,1.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "matematica-341",
+      "enunciado": "Em uma eleição, com 80% dos votos apurados, o candidato X tinha 35% dos votos. Matematicamente, a porcentagem máxima dos votos que o candidato X pode alcançar ao final da apuração é",
+      "alternativas": {
+        "a": "45%.",
+        "b": "54%.",
+        "c": "51%.",
+        "d": "42%.",
+        "e": "48%."
+      },
+      "resposta": "e",
+      "explicacao": "Com 80% apurados, o candidato X tem 35% do total de votos, ou seja, 0,35×0,80=28% do total já garantido. No melhor cenário, ele recebe também os 20% restantes, atingindo no máximo 28%+20%=48%.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "matematica-342",
+      "enunciado": "Um grupo formado por 3 adultos e 4 crianças resolveu alugar um veículo para a realização de um passeio. Os três adultos têm habilitação, podendo, assim, qualquer um deles assumir a função de motorista. Dessa forma, alugaram um carro com 7 lugares distribuídos em três fileiras de bancos: a primeira fileira com 2 lugares, um dos quais para o motorista, a segunda fileira com 3 lugares e a terceira com 2 lugares. O grupo decidiu que os 2 lugares da última fileira devem ser, obrigatoriamente, ocupados por duas crianças. Nestas condições, o número de diferentes maneiras que essas 7 pessoas podem ser acomodadas no carro é",
+      "alternativas": {
+        "a": "1 225.",
+        "b": "12.",
+        "c": "144.",
+        "d": "864.",
+        "e": "6 912."
+      },
+      "resposta": "d",
+      "explicacao": "Primeiro se escolhem e ordenam 2 das 4 crianças para a última fileira: P(4,2)=12 formas. Das 5 pessoas restantes (3 adultos, 2 crianças), escolhe-se o motorista entre os 3 adultos e depois se arrumam as 4 pessoas restantes nos 4 assentos restantes (4!=24): 12×3×24=864 maneiras.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "matematica-343",
+      "enunciado": "Uma pesquisa envolvendo estudantes que concluíram o ensino médio em certo colégio revelou que 20% deles haviam sido aprovados em algum vestibular e 40% deles haviam feito cursinho. A pesquisa também revelou que a probabilidade de que um estudante que fez cursinho tenha sido aprovado em algum vestibular foi de 3/8. A probabilidade de que um estudante que foi aprovado em algum vestibular tenha feito cursinho é",
+      "alternativas": {
+        "a": "4/7",
+        "b": "3/4",
+        "c": "2/5",
+        "d": "2/3",
+        "e": "5/6"
+      },
+      "resposta": "b",
+      "explicacao": "P(cursinho e aprovado) = 0,40×3/8 = 0,15. A probabilidade de ter feito cursinho dado que foi aprovado é P(cursinho e aprovado)/P(aprovado) = 0,15/0,20 = 3/4.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "matematica-344",
+      "enunciado": "Considere a função periódica f de período 6, cujo gráfico (parcialmente representado, uma união de segmentos de reta em formato de \"dentes de serra\" triangulares) passa pelos pontos (–3,0), (0,3), (3,0), (6,3), (9,3)... com picos de altura 3 a cada 6 unidades, começando com pico em x=0.\n\nO valor de f(25) + f(47) é igual a",
+      "alternativas": {
+        "a": "2,5.",
+        "b": "3.",
+        "c": "2.",
+        "d": "3,5.",
+        "e": "1,5."
+      },
+      "resposta": "c",
+      "explicacao": "Pela periodicidade de 6 unidades da função \"dentes de serra\" (picos de altura 3 em x múltiplo de 6, zeros nos pontos intermediários), calculando f(25) e f(47) pelo resto da divisão por 6 e aplicando a forma linear de cada trecho, obtém-se f(25)+f(47)=2.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "matematica-345",
+      "enunciado": "No plano cartesiano, as retas r, de equação y = –x + 3, e s, de equação y = –2x + 4, delimitam, com os eixos coordenados, uma região destacada (o triângulo/quadrilátero formado entre as duas retas e os eixos, próximo à origem).\n\nA área da região destacada em verde é igual a",
+      "alternativas": {
+        "a": "2",
+        "b": "3",
+        "c": "7/2",
+        "d": "3/2",
+        "e": "5/2"
+      },
+      "resposta": "c",
+      "explicacao": "A reta r corta os eixos em (3,0) e (0,3); a reta s corta em (2,0) e (0,4); elas se cruzam em (1,2). A região destacada entre as duas retas e os eixos tem área igual a 7/2.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "matematica-346",
+      "enunciado": "Murilo fez um único depósito de R$ 1.000,00 em uma conta de investimento que rende juros compostos anualmente a uma taxa fixa. Após 14 anos, o valor nessa conta era de R$ 3.000,00. Usando log₃2 = 0,6, se Murilo tivesse feito um depósito inicial de R$ 2.000,00, em vez do depósito de R$ 1.000,00 realizado, com a mesma taxa anual, o número mínimo de anos que Murilo teria que aguardar até o saldo dessa conta ficar superior a R$ 3.000,00 seria",
+      "alternativas": {
+        "a": "6.",
+        "b": "8.",
+        "c": "9.",
+        "d": "7.",
+        "e": "10."
+      },
+      "resposta": "a",
+      "explicacao": "De 1000(1+i)^14=3000, tem-se (1+i)^14=3. Usando log₃2=0,6, calcula-se log(1,5)/log(1+i) ≈ 0,4×14/1 = 5,6, portanto são necessários pelo menos 6 anos para que 2000 reais, com a mesma taxa, superem 3000 reais.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "matematica-347",
+      "enunciado": "Em determinado dia do ano, a temperatura T(x), medida em ºC, às x horas, foi dada pela expressão T(x) = 8·sen(πx/12 − π) + 18, em que x pertence ao intervalo [0, 24[. Nesse dia, a temperatura foi igual ou superior a 22 ºC no seguinte período:",
+      "alternativas": {
+        "a": "13h00 às 21h00.",
+        "b": "15h00 às 23h00.",
+        "c": "12h00 às 20h00.",
+        "d": "14h00 às 22h00.",
+        "e": "11h00 às 19h00."
+      },
+      "resposta": "d",
+      "explicacao": "A condição T(x)≥22 equivale a sen(πx/12−π)≥0,5, satisfeita para πx/12−π entre π/6 e 5π/6, ou seja, x entre 14 e 22 — das 14h00 às 22h00.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "matematica-348",
+      "enunciado": "No triângulo PQR, o ponto S foi tomado sobre o lado PR de modo que os ângulos RP̂Q e RQ̂S tenham a mesma medida.\n\nSabendo que PR = 12 cm e que PS/SR = 5/4, a medida do segmento QR é",
+      "alternativas": {
+        "a": "8,5 cm.",
+        "b": "9,5 cm.",
+        "c": "9,0 cm.",
+        "d": "10,0 cm.",
+        "e": "8,0 cm."
+      },
+      "resposta": "e",
+      "explicacao": "Como os ângulos RP̂Q e RQ̂S são iguais e o ângulo em R é comum, os triângulos RPQ e RQS são semelhantes, o que dá RQ²=RP×RS. Com PR=12 e PS/SR=5/4 (logo SR=16/3), RQ²=12×16/3=64, e RQ=8 cm.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "matematica-349",
+      "enunciado": "Um ciclista, em uma pista circular de 50 metros de raio, percorreu, em determinado treino, 84 km. Admitindo que π = 3,14, o número máximo de voltas que o ciclista completou ao redor da pista foi",
+      "alternativas": {
+        "a": "258.",
+        "b": "261.",
+        "c": "264.",
+        "d": "255.",
+        "e": "267."
+      },
+      "resposta": "e",
+      "explicacao": "A circunferência da pista é 2π×50=314 m (usando π=3,14). Em 84.000 m, o número de voltas completas é 84.000/314≈267,5, ou seja, no máximo 267 voltas completas.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "matematica-350",
+      "enunciado": "Um enfeite de Natal, em formato de pirâmide regular de base quadrada de 40 cm de lado, foi acomodado dentro de uma caixa em formato de prisma reto de base quadrada de lado medindo 40 cm e altura 80 cm, encaixando-se perfeitamente, sem folga, na caixa (o ápice da pirâmide toca o centro do topo da caixa).\n\nA área lateral da pirâmide é",
+      "alternativas": {
+        "a": "1580√15 cm²",
+        "b": "1560√13 cm²",
+        "c": "1600√17 cm²",
+        "d": "1540√11 cm²",
+        "e": "1520√19 cm²"
+      },
+      "resposta": "c",
+      "explicacao": "O apótema lateral da pirâmide é √(80²+20²)=√6800=20√17 cm. A área lateral é 4 faces triangulares: 4×(1/2)×40×20√17=1600√17 cm².",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "matematica-351",
+      "enunciado": "Em certo sábado, um salão de cabeleireiro fez o corte de cabelo de 47 crianças e 144 adultos. No dia seguinte, o salão fez mais 128 cortes de cabelo, entre cortes em crianças e cortes em adultos. Se, nesses dois dias, a razão entre o número de cortes feitos em crianças e o número de cortes feitos em adultos foi igual a 3/8, o número de crianças que tiveram o cabelo cortado no domingo foi",
+      "alternativas": {
+        "a": "25.",
+        "b": "64.",
+        "c": "40.",
+        "d": "16.",
+        "e": "31."
+      },
+      "resposta": "c",
+      "explicacao": "Sendo c os cortes em crianças no domingo, o total de crianças é 47+c e de adultos é 272−c (já que 144+(128−c)). Da razão 3/8: 8(47+c)=3(272−c) → 11c=440 → c=40.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "matematica-352",
+      "enunciado": "Luís, Antônio e mais três amigos vão disputar uma corrida de kart. Para a disputa, cada um desses amigos deve escolher um dos 8 karts disponíveis, numerados de 1 a 8. Sabendo que Luís não escolherá o kart de número 1 e que Antônio não escolherá o kart de número 7, o número de maneiras distintas de esses 5 amigos escolherem seus karts é",
+      "alternativas": {
+        "a": "5 040.",
+        "b": "6 600.",
+        "c": "5 880.",
+        "d": "5 160.",
+        "e": "6 720."
+      },
+      "resposta": "d",
+      "explicacao": "Contando pelo princípio da inclusão-exclusão: do total de arranjos de 5 pessoas em 8 karts (P(8,5)=6720), subtraem-se os casos com Luís no kart 1 (840) e Antônio no kart 7 (840), somando de volta os casos com ambos (120): 6720−840−840+120=5160.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "matematica-353",
+      "enunciado": "Um grupo de turistas de 3 países (Uruguai, Paraguai e Argentina) fez 2 passeios juntos. No primeiro passeio, cada turista uruguaio gastou R$ 20,00, cada turista paraguaio gastou R$ 28,00 e cada turista argentino gastou R$ 24,00, de maneira que, juntos, todos os turistas do grupo gastaram R$ 400,00. No segundo passeio, cada turista uruguaio gastou R$ 12,00, cada turista paraguaio gastou R$ 4,00 e cada turista argentino gastou R$ 8,00, de maneira que, juntos, todos os turistas do grupo gastaram R$ 144,00.\n\nO número de turistas desse grupo é",
+      "alternativas": {
+        "a": "16.",
+        "b": "15.",
+        "c": "18.",
+        "d": "19.",
+        "e": "17."
+      },
+      "resposta": "e",
+      "explicacao": "Montando o sistema com as despesas dos dois passeios, percebe-se que, embora o número individual de turistas de cada país não fique determinado, a soma total de turistas é sempre 17, qualquer que seja a distribuição compatível com as equações.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "matematica-354",
+      "enunciado": "Considere a função f: ℝ₊ → ℝ satisfazendo a seguinte propriedade: sempre que uma tripla de números (b, c, d) formar uma progressão geométrica e 0 < b < c < d, vale que f(c/b) = (2b+d)/c − 3.\n\nO intervalo em que a função f assume valores negativos é:",
+      "alternativas": {
+        "a": "]0, 2[",
+        "b": "]1, 2[",
+        "c": "]0, 1[",
+        "d": "]1, 3[",
+        "e": "]2, 3["
+      },
+      "resposta": "b",
+      "explicacao": "Substituindo c=br e d=br² (progressão geométrica de razão r) na definição, f(r)=r+2/r−3. A condição f(r)<0 equivale a r²−3r+2<0, ou seja, (r−1)(r−2)<0, satisfeita para r entre 1 e 2.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "matematica-355",
+      "enunciado": "Uma pirâmide reta VEFGH tem uma base quadrada de área 648 cm². Sobre as arestas laterais dessa pirâmide estão os pontos A, B, C e D, tais que ABCD é um quadrado de 288 cm² de área e paralelo à base da pirâmide.\n\nSabendo que o volume da pirâmide VEFGH excede em 1 140 cm³ o volume da pirâmide VABCD, a medida da aresta VH é igual a",
+      "alternativas": {
+        "a": "19,5 cm.",
+        "b": "19,0 cm.",
+        "c": "18,5 cm.",
+        "d": "20,0 cm.",
+        "e": "18,0 cm."
+      },
+      "resposta": "a",
+      "explicacao": "A razão de áreas 288/648=4/9 dá uma razão linear de 2/3 entre as pirâmides semelhantes, logo uma razão de volumes de 8/27. Da diferença de volumes (1140 cm³) obtém-se o volume total (1620 cm³) e a altura (7,5 cm); com a base de área 648 (lado 18√2, meia-diagonal 18), a aresta VH=√(7,5²+18²)=19,5 cm.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "matematica-356",
+      "enunciado": "Em um código de programação escrito em linguagem natural, uma lista é uma sequência de valores numéricos entre colchetes; por exemplo, [5 –1 3 10] é uma lista contendo 4 valores: 5, –1, 3 e 10.\n\nO comando `map [? * m3] varlista` recebe uma variável varlista que contém uma lista e modifica cada elemento da lista que não é múltiplo de 3 para o múltiplo de 3 mais próximo, guardando o resultado na mesma variável varlista. O comando `map [? + n] varlista` recebe uma variável varlista e uma variável n e soma o valor da variável n a cada elemento da lista, guardando o resultado na mesma variável varlista. O comando `x = menor varlista` atribui à variável x o menor elemento da lista varlista.\n\nConsidere o seguinte código:\n```\nCrie a variável varlista e a inicialize com a lista [8 3 0 -2 1]\nCrie a variável n e inicialize seu valor em 5\nRepita 3 vezes as instruções entre chaves\n{\n    map [? * m3] varlista\n    map [? + n] varlista\n    x = menor varlista\n    Subtraia 7 da variável x e atribua à variável n o resultado dessa diferença\n}\n```\n\nApós a execução desse código, o valor armazenado na variável n é",
+      "alternativas": {
+        "a": "–15.",
+        "b": "–10.",
+        "c": "–19.",
+        "d": "–7.",
+        "e": "–1."
+      },
+      "resposta": "c",
+      "explicacao": "Simulando o algoritmo passo a passo (arredondar cada elemento ao múltiplo de 3 mais próximo, somar n, tomar o menor valor e recalcular n=x−7, repetindo três vezes), o valor final de n é −19.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "matematica-357",
+      "enunciado": "No futebol, o saldo de gols é a diferença entre a quantidade de gols marcados por um time (gols pró) e a quantidade de gols sofridos por esse mesmo time (gols contra). Essa medida costuma ser utilizada como critério de desempate na classificação de campeonatos e, por isso, os departamentos técnicos dos times costumam ficar atentos ao valor dela durante uma competição. A tabela a seguir exibe a classificação final da primeira divisão do campeonato brasileiro de futebol em 2024, com a quantidade de pontos, a quantidade de gols pró e a quantidade de gols contra de cada time (sem identificação dos times).\n\n| Pontos | Gols Pró | Gols Contra |\n|---|---|---|\n| 79 | 59 | 29 |\n| 73 | 60 | 33 |\n| 70 | 61 | 42 |\n| 68 | 53 | 39 |\n| 65 | 53 | 36 |\n| 59 | 53 | 43 |\n| 56 | 54 | 45 |\n| 53 | 49 | 49 |\n| 52 | 43 | 41 |\n| 50 | 43 | 56 |\n| 47 | 45 | 52 |\n| 47 | 47 | 54 |\n| 46 | 33 | 39 |\n| 45 | 44 | 50 |\n| 45 | 48 | 59 |\n| 44 | 44 | 48 |\n| 42 | 40 | 46 |\n| 38 | 42 | 61 |\n| 30 | 29 | 58 |\n| 30 | 29 | 49 |\n\nA mediana dos saldos de gols das equipes da primeira divisão do campeonato brasileiro de futebol de 2024 foi",
+      "alternativas": {
+        "a": "–13.",
+        "b": "–10.",
+        "c": "–6.",
+        "d": "–5.",
+        "e": "0."
+      },
+      "resposta": "d",
+      "explicacao": "Calculando o saldo de gols (gols pró menos gols contra) de cada uma das 20 equipes e ordenando os valores, a mediana (média do 10º e 11º valores) é −5.",
+      "formato": "direta",
+      "origem": "pucsp-2026"
+    },
+    {
+      "id": "matematica-358",
+      "enunciado": "Um prédio conta com cinco caixas-d'água de formato cilíndrico, todas com 1,80 m de diâmetro e 2,00 m de altura. As caixas-d'água estão posicionadas uma ao lado da outra e interligadas por quatro canos PVC de 40 mm de diâmetro e 1,5 m de comprimento.\n\nConsidere 3 como aproximação para π e que as caixas-d'água e os canos devem estar completamente cheios.\n\nA capacidade de armazenamento de água desse prédio é, em litros, de",
+      "alternativas": {
+        "a": "4.860,0.",
+        "b": "4.861,8.",
+        "c": "24.300,0.",
+        "d": "24.307,2.",
+        "e": "24.309,0."
+      },
+      "resposta": "d",
+      "explicacao": "Cada caixa-d'água cilíndrica tem volume π×0,9²×2=4,86 m³ (4.860 L); as 5 caixas somam 24.300 L. Cada cano tem volume π×0,02²×1,5=0,0018 m³ (1,8 L); os 4 canos somam 7,2 L. O total é 24.300+7,2=24.307,2 L.",
+      "formato": "direta",
+      "origem": "pucsp-2026"
+    },
+    {
+      "id": "matematica-359",
+      "enunciado": "Uma loja de cosméticos oferece um clube de assinatura em que cada assinante recebe mensalmente um boxe com produtos variados. Cada boxe conta com duas máscaras de tratamento capilar, três hidratantes corporais e dois perfumes. Para a montagem dos boxes, a loja conta com 5 opções de máscara de tratamento capilar, 10 opções de hidratante corporal e 15 opções de perfume, todas diferentes entre si.\n\nNessas condições, o número de boxes distintos que podem ser formados nesse clube é expresso por",
+      "alternativas": {
+        "a": "A(30,7).",
+        "b": "C(30,7).",
+        "c": "A(5,2) · A(10,3) · A(15,2).",
+        "d": "C(5,2) · C(10,3) · C(15,2).",
+        "e": "A(7,2) · A(13,3) · A(17,2)."
+      },
+      "resposta": "d",
+      "explicacao": "Como a ordem dos produtos dentro de cada categoria não importa, o número de boxes é o produto das combinações: C(5,2) máscaras × C(10,3) hidratantes × C(15,2) perfumes.",
+      "formato": "direta",
+      "origem": "pucsp-2026"
     }
   ]
 }

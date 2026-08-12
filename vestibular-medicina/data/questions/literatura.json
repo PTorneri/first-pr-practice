@@ -2275,6 +2275,201 @@
       "resposta": "e",
       "explicacao": "Saber que um poema é simbolista vale pouco; perceber como a repetição sonora produz o efeito de vago vale muito, e serve para qualquer texto. Data e nome são apoio da leitura, não substituto dela.",
       "formato": "direta"
+    },
+    {
+      "id": "literatura-151",
+      "enunciado": "Carlos Drummond de Andrade foi o criador de uma obra lírica que, ao mesmo tempo, se aproxima e se afasta do Modernismo de 1922, propondo, a partir de traços desse movimento, uma poética original.\n\nCom base no exposto, em Alguma poesia (1930),",
+      "alternativas": {
+        "a": "os aspectos prosaicos da linguagem modernista ganham expressão lírica a partir de um sujeito poético que repropõe, em versos livres, a nostalgia romântica da infância idealizada.",
+        "b": "o sujeito poético incorpora, sob a perspectiva de uma lírica de raiz subjetiva, vários procedimentos estilísticos das vanguardas modernistas, em especial a escrita automática e o surrealismo.",
+        "c": "a tópica literária do desconcerto do mundo ganha uma reconfiguração moderna, a partir de um sujeito poético que, mais do que revelar um mundo às avessas, focaliza o seu desajuste frente à realidade.",
+        "d": "o nacionalismo literário, tão típico da revisão empreendida pela primeira geração modernista sobre a realidade brasileira, apresenta-se como eixo temático de cunho ufanista.",
+        "e": "a paisagem mineira, no espaço literário, é configurada pelo sujeito poético como ambiente bucólico e refúgio privilegiado para os seus desajustes frente ao \"vasto mundo\"."
+      },
+      "resposta": "c",
+      "explicacao": "Drummond retoma a antiga tópica do \"desconcerto do mundo\", mas a moderniza deslocando o foco: em vez de descrever um mundo às avessas, o poema passa a focalizar o desajuste íntimo do próprio sujeito poético (o \"eu\" gauche) diante da realidade, e não a incorporação de escrita automática, nostalgia romântica ou nacionalismo ufanista.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "literatura-152",
+      "enunciado": "Mais de uma vez, o brasileiro Machado de Assis e o português Eça de Queirós foram aproximados porque traçaram linhas de compreensão das suas respectivas sociedades, em um mesmo tempo historicamente situado. Os protagonistas Rubião, de Quincas Borba (1891), e Gonçalo, de A Ilustre Casa de Ramires (1900),",
+      "alternativas": {
+        "a": "representam, respectivamente, a ascensão política da burguesia brasileira durante a segunda metade do século XIX e a decadência da aristocracia portuguesa no mesmo período.",
+        "b": "têm suas aspirações de grandeza e reconhecimento social frustradas diretamente pelo envolvimento de ambos com as políticas partidárias nacionais, introduzindo reformas substanciais que alteram a situação periférica de cada país.",
+        "c": "buscam reconhecimento social, continuamente frustrados nesse propósito por se inserirem em meios sociais que privilegiam a grandeza moral e as virtudes humanas.",
+        "d": "comprometem-se com a superação dos atrasos civilizacionais de seus países. Apesar de terem destinos diferentes, confrontam-se com o descompromisso de suas respectivas sociedades quanto às transformações sociais e econômicas.",
+        "e": "são vítimas de suas ideias ambiciosas de modernização nacional, seja por Rubião promover ideias políticas \"modernas\", seja por Gonçalo insistir na restauração da grandeza de sua família. Ao final, atingem seus objetivos."
+      },
+      "resposta": "d",
+      "explicacao": "Rubião, enriquecido e depois enlouquecido, e Gonçalo, fidalgo decadente que busca restaurar a grandeza da família, representam à sua maneira a tentativa de superar os atrasos de suas sociedades — mas em ambos os romances essa tentativa esbarra no descompromisso e na inércia do meio social diante de transformações reais.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "literatura-153",
+      "enunciado": "A jornada das mulheres pela igualdade de direitos no Brasil, como em outras partes do mundo, sempre envolveu lutas sociais, políticas e jurídicas, com marcos importantes como a Lei Geral de 1827, que permitiu o acesso das mulheres à educação, e a Constituição de 1934, que garantiu o direito ao voto feminino. A partir da década de 1960, houve avanços significativos, como o Estatuto da Mulher Casada (1962), que eliminou a necessidade de receber autorização do marido para diversas atividades, e, na década de 1970, a Lei do Divórcio (1977) e o fortalecimento dos movimentos feministas. As obras Caminho de pedras, de Rachel de Queiroz, e As meninas, de Lygia Fagundes Telles, discutem questões relativas aos direitos das mulheres e sua relação com a política ao longo do século XX no Brasil.\n\nSobre esses romances, é correto afirmar:",
+      "alternativas": {
+        "a": "Em Caminho de pedras, Rachel de Queiroz relaciona a luta pelos direitos da mulher à legalização do divórcio no Brasil, enquanto As meninas constitui um libelo pela educação feminina no período final da Era Vargas.",
+        "b": "As personagens Angelita, de Caminho de pedras, e Ana Clara, de As meninas, impactam a vida dos protagonistas de seus romances e representam a transformação da condição social das mulheres ao romperem com a configuração familiar tradicional.",
+        "c": "Em Caminho de pedras e em As meninas, a política (militância de esquerda) e a religião (internato de freiras) são instituições que, em vez de contribuírem para a revisão de valores morais e para a emancipação feminina, aprofundam os mecanismos de controle social sobre as mulheres.",
+        "d": "Tanto Caminho de pedras quanto As meninas relacionam o exercício da política coletiva (militância de esquerda, luta contra a ditadura militar) à política exercida em nível da vida privada e do cotidiano, por meio da trajetória de personagens femininas que desafiam padrões sociais estabelecidos.",
+        "e": "Tanto Caminho de pedras quanto As meninas exercem uma crítica à chamada \"mulher burguesa\". O romance de Rachel de Queiroz narra os desdobramentos do desejo de ascensão social de Noemi, enquanto o de Lygia Fagundes Telles detalha o apego de Lorena à instituição do casamento."
+      },
+      "resposta": "d",
+      "explicacao": "Nos dois romances, a militância política coletiva (a luta de esquerda em Caminho de pedras e o contexto da ditadura em As meninas) se entrelaça com a esfera privada e cotidiana das personagens femininas, que desafiam padrões sociais estabelecidos tanto na vida pública quanto na íntima.",
+      "formato": "direta",
+      "origem": "fuvest-2026"
+    },
+    {
+      "id": "literatura-154",
+      "enunciado": "Leia o poema \"Vaidade\", da escritora portuguesa Florbela Espanca, publicado originalmente em 1919:\n\n*Sonho que sou a Poetisa eleita, / Aquela que diz tudo e tudo sabe, / Que tem a inspiração pura e perfeita, / Que reúne num verso a imensidade! // Sonho que um verso meu tem claridade / Para encher todo o mundo! E que deleita / Mesmo aqueles que morrem de saudade! / Mesmo os de alma profunda e insatisfeita! // Sonho que sou Alguém cá neste mundo... / Aquela de saber vasto e profundo / Aos pés de quem a terra anda curvada! // E quando mais no céu eu vou sonhando, / E quando mais no alto ando voando, / Acordo do meu sonho... E não sou nada!...*\n\nAs duas primeiras estrofes do poema caracterizam-se, sobretudo, pelo seu teor",
+      "alternativas": {
+        "a": "metalinguístico.",
+        "b": "moralista.",
+        "c": "engajado.",
+        "d": "irônico.",
+        "e": "nostálgico."
+      },
+      "resposta": "a",
+      "explicacao": "Nas duas primeiras estrofes, o eu lírico fala de si mesma como poetisa e comenta o próprio ato de fazer versos (\"Sonho que um verso meu tem claridade\"), configurando um discurso poético que reflete sobre a própria poesia — traço metalinguístico.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "literatura-155",
+      "enunciado": "Tendo em vista as escolhas formais mobilizadas pela escritora no poema \"Vaidade\", de Florbela Espanca (transcrito na questão anterior), como o emprego do gênero soneto e de versos decassílabos, o poema aproxima-se da estética",
+      "alternativas": {
+        "a": "modernista.",
+        "b": "realista.",
+        "c": "naturalista.",
+        "d": "parnasiana.",
+        "e": "romântica."
+      },
+      "resposta": "d",
+      "explicacao": "O uso do soneto e de versos decassílabos, com rigor formal e métrico, aproxima o poema da estética parnasiana, marcada pelo culto à forma fixa e ao virtuosismo na composição do verso.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "literatura-156",
+      "enunciado": "No poema \"Vaidade\", de Florbela Espanca (transcrito na questão 7), o núcleo do sujeito do verbo \"deleita\" (2ª estrofe) é",
+      "alternativas": {
+        "a": "\"inspiração\".",
+        "b": "\"Poetisa\".",
+        "c": "\"claridade\".",
+        "d": "\"mundo\".",
+        "e": "\"verso\"."
+      },
+      "resposta": "e",
+      "explicacao": "Na oração \"Sonho que um verso meu tem claridade / Para encher todo o mundo! E que deleita...\", o sujeito de \"deleita\" é o mesmo da oração anterior, \"um verso meu\", cujo núcleo é o substantivo \"verso\".",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "literatura-157",
+      "enunciado": "Leia o soneto \"XCIX\", do poeta Cláudio Manuel da Costa:\n\n*Parece, ou eu me engano, que esta fonte / De repente o licor deixou turvado; / O Céu, que estava limpo e azulado, / Se vai escurecendo no horizonte: // Porque não haja horror, que não aponte / O agouro funestíssimo, e pesado, / Até de susto já não pasta o gado, / Nem uma voz se escuta em todo o monte. // Um raio de improviso na celeste / Região rebentou: um branco lírio / Da cor das violetas se reveste; // Será delírio! não, não é delírio. / Que é isto, Pastor meu? que anúncio é este? / Morreu Nise (ai de mim!), tudo é martírio.*\n\nDepreende-se do soneto que a transfiguração da paisagem está relacionada a um evento",
+      "alternativas": {
+        "a": "enigmático.",
+        "b": "trágico.",
+        "c": "bucólico.",
+        "d": "banal.",
+        "e": "jocoso."
+      },
+      "resposta": "b",
+      "explicacao": "A escuridão repentina do céu e os maus agouros da natureza (o raio, o silêncio do gado) anunciam a morte de Nise, revelada no verso final (\"Morreu Nise\"), configurando um evento trágico, e não apenas um mistério ou uma cena bucólica.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "literatura-158",
+      "enunciado": "O soneto \"XCIX\", de Cláudio Manuel da Costa (transcrito na questão anterior), é habilmente construído a partir de uma desconstrução gradual e sistemática do seguinte tópico árcade:",
+      "alternativas": {
+        "a": "\"memento mori\" (\"lembra da morte\").",
+        "b": "\"carpe diem\" (\"aproveita o momento\").",
+        "c": "\"locus horrendus\" (\"lugar horrível\").",
+        "d": "\"locus amoenus\" (\"lugar aprazível\").",
+        "e": "\"fugere urbem\" (\"fugir da cidade\")."
+      },
+      "resposta": "d",
+      "explicacao": "O poema abre com um cenário idílico — fonte, céu limpo e azulado, gado pastando —, típico \"locus amoenus\" árcade, que é progressivamente desconstruído pelos maus agouros da natureza até culminar na notícia da morte de Nise, subvertendo o lugar aprazível em cenário funesto.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "literatura-159",
+      "enunciado": "No soneto \"XCIX\", de Cláudio Manuel da Costa, o eu lírico recorre às chamadas \"rimas ricas\" (ou seja, aquelas entre palavras de classes gramaticais diferentes) em",
+      "alternativas": {
+        "a": "\"pesado\"/\"gado\" (2ª estrofe) e \"celeste\"/\"reveste\" (3ª estrofe).",
+        "b": "\"fonte\"/\"horizonte\" (1ª estrofe) e \"aponte\"/\"monte\" (2ª estrofe).",
+        "c": "\"turvado\"/\"azulado\" (1ª estrofe) e \"delírio\"/\"martírio\" (4ª estrofe).",
+        "d": "\"fonte\"/\"horizonte\" (1ª estrofe) e \"pesado\"/\"gado\" (2ª estrofe).",
+        "e": "\"aponte\"/\"monte\" (2ª estrofe) e \"delírio\"/\"martírio\" (4ª estrofe)."
+      },
+      "resposta": "e",
+      "explicacao": "Rima rica ocorre entre palavras de classes gramaticais diferentes. O par \"aponte\" (verbo) / \"monte\" (substantivo), na segunda estrofe, exemplifica esse recurso, que se repete no par \"delírio\"/\"martírio\", da quarta estrofe, contrastando com as demais rimas do soneto, formadas majoritariamente por palavras de mesma classe, como os substantivos \"fonte\"/\"horizonte\" da primeira estrofe.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "literatura-160",
+      "enunciado": "Leia o capítulo intitulado \"A borboleta preta\" do romance *Memórias póstumas de Brás Cubas*, de Machado de Assis, em que o narrador Brás Cubas mata distraidamente uma borboleta que pousara em seu quarto e, na sequência, reflete sobre o episódio:\n\n*\"— Também por que diabo não era ela azul? disse comigo. E esta reflexão, — uma das mais profundas que se tem feito, desde a invenção das borboletas, — me consolou do malefício, e me reconciliou comigo mesmo.\"* (3º/4º parágrafos)\n\nTal reflexão aponta para",
+      "alternativas": {
+        "a": "a ingenuidade do narrador, na medida em que este acredita que possa se reconciliar com a vítima.",
+        "b": "o pessimismo do narrador, na medida em que este insiste em encarar negativamente um evento edificante.",
+        "c": "a arrogância do narrador, na medida em que este assume a responsabilidade pelo ato impensado.",
+        "d": "a humildade do narrador, na medida em que este busca encobrir a perversidade do mal praticado.",
+        "e": "a prepotência do narrador, na medida em que este busca responsabilizar a vítima pelo mal sofrido."
+      },
+      "resposta": "e",
+      "explicacao": "Ao matar a borboleta e, em seguida, \"culpá-la\" por não ser azul, Brás Cubas inverte com cinismo a responsabilidade do próprio ato para a vítima — gesto de prepotência típico do narrador defunto-autor machadiano, que se absolve às custas de quem sofreu o mal.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "literatura-161",
+      "enunciado": "Um traço estilístico marcante da prosa de Machado de Assis (no capítulo \"A borboleta preta\", transcrito na questão anterior) é a inclusão do leitor na própria tessitura do texto literário, a exemplo do que ocorre",
+      "alternativas": {
+        "a": "no 5º parágrafo, apenas.",
+        "b": "no 1º parágrafo, apenas.",
+        "c": "no 4º parágrafo, apenas.",
+        "d": "no 4º e no 5º parágrafos.",
+        "e": "no 1º e no 5º parágrafos."
+      },
+      "resposta": "a",
+      "explicacao": "No 5º parágrafo, o narrador interrompe o relato para dialogar diretamente com o leitor, envolvendo-o na reflexão sobre o episódio — recurso característico da metalinguagem machadiana, que constrói cumplicidade entre narrador e leitor ao longo da obra.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "literatura-162",
+      "enunciado": "Leia a fábula \"A rosa de seda\" do escritor português Fernando Pessoa:\n\n*Num fabulário ainda por encontrar será um dia lida esta fábula: A uma bordadora dum país longínquo foi encomendado pela sua rainha que bordasse, sobre seda ou cetim, entre folhas, uma rosa branca. A bordadora, como era muito jovem, foi procurar por toda a parte aquela rosa branca perfeitíssima, em cuja semelhança bordasse a sua. Mas sucedia que umas rosas eram menos belas do que lhe convinha, e que outras não eram brancas como deviam ser. Gastou dias sobre dias, chorosas horas, buscando a rosa que imitasse com seda, e, como nos países longínquos nunca deixa de haver pena de morte, ela sabia bem que, pelas leis dos contos como este, não podiam deixar de a matar se ela não bordasse a rosa branca. Por fim, não tendo melhor remédio, bordou de memória a rosa que lhe haviam exigido. Depois de a bordar foi compará-la com as rosas brancas que existem realmente nas roseiras. Sucedeu que todas as rosas se pareciam exatamente com a rosa que ela bordara, que cada uma delas era exatamente aquela. Ela levou o trabalho ao palácio e é de supor que casasse com o príncipe. No fabulário de onde vem, esta fábula não traz moralidade. Mesmo porque, na idade de ouro, as fábulas não tinham moralidade nenhuma.*\n\nA onisciência do narrador da fábula mostra-se prejudicada no seguinte trecho:",
+      "alternativas": {
+        "a": "\"Sucedeu que todas as rosas se pareciam exatamente com a rosa que ela bordara\" (3º parágrafo).",
+        "b": "\"Mesmo porque, na idade de ouro, as fábulas não tinham moralidade nenhuma\" (5º parágrafo).",
+        "c": "\"Mas sucedia que umas rosas eram menos belas do que lhe convinha\" (2º parágrafo).",
+        "d": "\"Depois de a bordar foi compará-la com as rosas brancas que existem realmente nas roseiras\" (3º parágrafo).",
+        "e": "\"Ela levou o trabalho ao palácio e é de supor que casasse com o príncipe\" (4º parágrafo)."
+      },
+      "resposta": "e",
+      "explicacao": "A expressão \"é de supor\" revela incerteza do narrador quanto ao desfecho da história, o que contradiz a onisciência plena: um narrador onisciente saberia com certeza o que aconteceu à personagem, e não precisaria especular sobre seu destino.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "literatura-163",
+      "enunciado": "Assume um caráter metalinguístico o seguinte trecho da fábula \"A rosa de seda\", de Fernando Pessoa (transcrita na questão 8):",
+      "alternativas": {
+        "a": "\"A bordadora, como era muito jovem, foi procurar por toda a parte aquela rosa branca perfeitíssima, em cuja semelhança bordasse a sua.\" (2º parágrafo)",
+        "b": "\"Depois de a bordar foi compará-la com as rosas brancas que existem realmente nas roseiras.\" (3º parágrafo)",
+        "c": "\"todas as rosas se pareciam exatamente com a rosa que ela bordara, que cada uma delas era exatamente aquela.\" (3º parágrafo)",
+        "d": "\"ela sabia bem que, pelas leis dos contos como este, não podiam deixar de a matar se ela não bordasse a rosa branca.\" (2º parágrafo)",
+        "e": "\"Mas sucedia que umas rosas eram menos belas do que lhe convinha, e que outras não eram brancas como deviam ser.\" (2º parágrafo)"
+      },
+      "resposta": "d",
+      "explicacao": "Ao mencionar \"as leis dos contos como este\", o narrador comenta as próprias convenções do gênero em que a fábula se insere, expondo dentro da narrativa as regras que a regem — procedimento típico da metalinguagem.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
     }
   ]
 }

@@ -3915,6 +3915,51 @@ window.QUESTION_BANKS = {
                                         "explicacao":  "O dilema de Triffin descreve a tensão estrutural enfrentada pelo país emissor da principal moeda de reserva internacional: para suprir o mundo com liquidez suficiente nessa moeda, tende a operar déficits externos persistentes, o que, ao longo do tempo, pode comprometer a confiança na estabilidade e no valor dessa moeda como reserva global.",
                                         "dificuldade":  "dificil",
                                         "formato":  "direta"
+                                    },
+                                    {
+                                        "id":  "atualidades-geopolitica-151",
+                                        "enunciado":  "O Brasil, como resultado da política externa pragmática que visava tornar o país um \"player\" internacional, reatou, em 1974, relações diplomáticas com a China, liderada por Mao Tsé-Tung.\n\nSobre os resultados dessa improvável aproximação, analise as afirmações a seguir.\n\nI. A redução das taxas de crescimento da economia chinesa deve se refletir nas exportações brasileiras, porque a China tornou-se, a partir de 2009, o principal destino das commodities brasileiras.\nII. O processo de desindustrialização e a falta de competitividade dos produtos industriais brasileiros são explicados pela concorrência das novas tecnologias industriais desenvolvidas na China.\nIII. As relações comerciais entre o Brasil e a China devem aumentar devido à nova rota da seda, iniciativa chinesa de se conectar com os países membros do BRICS, mediante investimentos em infraestrutura e energia.\n\nEstá correto o que se afirma em",
+                                        "alternativas":  {
+                                                             "a":  "I, apenas.",
+                                                             "b":  "II e III, apenas.",
+                                                             "c":  "I e III, apenas.",
+                                                             "d":  "I e II, apenas.",
+                                                             "e":  "I, II e III."
+                                                         },
+                                        "resposta":  "a",
+                                        "explicacao":  "Apenas a afirmativa I está correta: desde 2009 a China é o principal parceiro comercial do Brasil, e a desaceleração de seu crescimento realmente afeta as exportações brasileiras. As afirmativas II e III fazem generalizações não sustentadas — a desindustrialização brasileira tem causas mais amplas que a concorrência chinesa, e a Nova Rota da Seda não é uma iniciativa dirigida especificamente aos países do BRICS.",
+                                        "formato":  "direta",
+                                        "origem":  "fgv-unificado-2025.1"
+                                    },
+                                    {
+                                        "id":  "atualidades-geopolitica-152",
+                                        "enunciado":  "A China contemporânea, integrada aos mercados mundiais, iniciou seu processo de abertura somente no final da década de 1970, quando Deng Xiao-Ping, rompendo com a política econômica isolacionista de Mao Tsé-Tung, adotou as primeiras medidas que levaram à instalação de uma economia de mercado. O crescimento da economia chinesa a partir dessa decisão mudou o centro de gravidade da economia e, em consequência, da política mundial. Em 50 anos, a China passou da situação de país subdesenvolvido à condição de fábrica do mundo.\n\nSobre as mudanças ocorridas na China, assinale a afirmação correta.",
+                                        "alternativas":  {
+                                                             "a":  "A dispersão espacial dos investimentos integrava as regiões periféricas aos centros dinâmicos da economia.",
+                                                             "b":  "A balança comercial superavitária permitia a acumulação de reservas cambiais e o aumento dos investimentos.",
+                                                             "c":  "A passagem do coletivismo para a propriedade individual possibilitava o aumento das exportações do setor agrícola.",
+                                                             "d":  "A qualificação da mão de obra sustentava os preços competitivos dos setores industriais voltados para o mercado interno.",
+                                                             "e":  "A legislação fiscal do socialismo de mercado restringia a livre circulação dos investimentos de capital produtivo."
+                                                         },
+                                        "resposta":  "b",
+                                        "explicacao":  "A abertura econômica chinesa a partir de 1978 gerou décadas de superávits comerciais expressivos, que permitiram à China acumular grandes reservas cambiais e financiar novos investimentos produtivos, um dos pilares do seu crescimento acelerado.",
+                                        "formato":  "direta",
+                                        "origem":  "fgv-unificado-2025.1"
+                                    },
+                                    {
+                                        "id":  "atualidades-geopolitica-153",
+                                        "enunciado":  "Embora o dólar continue dominante, as disputas geopolíticas da atualidade reacenderam o debate sobre o fenômeno da desdolarização, processo pelo qual os países reduziriam sua dependência do dólar americano no comércio e nas finanças internacionais.\n\nA respeito das implicações da desdolarização para a economia americana e sua influência global, avalie as afirmativas a seguir.\n\nI. A substituição do dólar em transações comerciais internacionais tende a reduzir sua demanda global. Essa menor procura pode desvalorizar a moeda americana, encarecendo importações e pressionando a inflação nos Estados Unidos.\nII. Como o financiamento do déficit orçamentário dos EUA depende da compra de títulos do Tesouro por investidores estrangeiros, uma redução nas reservas em dólares pode elevar os custos de endividamento do governo.\nIII. A ampliação do uso de moedas alternativas — como o yuan, o euro ou divisas regionais — em acordos comerciais pode enfraquecer a posição dos EUA no comércio internacional, sobretudo em áreas de rivalidade geopolítica.\n\nEstá correto o que se afirma em",
+                                        "alternativas":  {
+                                                             "a":  "I, apenas.",
+                                                             "b":  "I e II, apenas.",
+                                                             "c":  "II e III, apenas.",
+                                                             "d":  "I e III, apenas.",
+                                                             "e":  "I, II e III."
+                                                         },
+                                        "resposta":  "e",
+                                        "explicacao":  "As três consequências descritas são coerentes com a lógica da desdolarização: menor demanda pelo dólar tende a desvalorizá-lo e pressionar a inflação americana (I), reduz a demanda por títulos do Tesouro dos EUA e eleva o custo da dívida pública (II), e o avanço de moedas alternativas em transações comerciais enfraquece a influência geopolítica americana (III).",
+                                        "formato":  "direta",
+                                        "origem":  "fgv-unificado-2026.1"
                                     }
                                 ],
     "atualidades-meioambiente":  [
@@ -5482,6 +5527,36 @@ window.QUESTION_BANKS = {
                                          "explicacao":  "Uma crítica recorrente a compromissos corporativos de net-zero é que, em vários casos, eles se apoiam fortemente em compensações futuras e em tecnologias de remoção de carbono ainda pouco maduras ou de escala limitada, em vez de priorizarem cortes efetivos e imediatos nas emissões diretas da própria operação, o que pode postergar a ação climática necessária no curto prazo.",
                                          "dificuldade":  "dificil",
                                          "formato":  "direta"
+                                     },
+                                     {
+                                         "id":  "atualidades-meioambiente-101",
+                                         "enunciado":  "De acordo com o Instituto Nacional de Pesquisa Espacial (Inpe), o desmatamento na Amazônia Legal cresce a um ritmo de mais de 20.000 km² por ano. Em 2015, o desmatamento atingiu uma área de 27.423 km², superado apenas pelo ocorrido em 1995 com uma devastação de 29.059 km². O território desmatado atingia, em 2015, uma área de, aproximadamente, 600.000 km².\nSobre as causas desse elevado desmatamento, assinale a afirmação incorreta.",
+                                         "alternativas":  {
+                                                              "a":  "A expansão da agricultura empresarial, no que se refere ao acesso à terra, permitiu a implantação de assentamentos rurais, o que acelerou o desmatamento.",
+                                                              "b":  "O crescimento da população, devido às políticas de migração adotadas, aumentou a pressão sobre a base de recursos naturais, com repercussões ambientais imediatas.",
+                                                              "c":  "A concessão de benefícios fiscais para a pecuária em grande escala, atividade altamente rentável do ponto de vista privado, acelerou o desmatamento na fronteira agrícola.",
+                                                              "d":  "As políticas de caráter desenvolvimentista, que visavam integrar a região mediante a construção de eixos rodoviários, contribuíram para aumentar o desmatamento.",
+                                                              "e":  "A expansão da agropecuária deu origem ao arco de desmatamento, região em que a fronteira agrícola avança em direção à floresta e onde estão os maiores índices de desmatamento."
+                                                          },
+                                         "resposta":  "a",
+                                         "explicacao":  "A agricultura empresarial tende a concentrar a posse da terra, e não a promover assentamentos rurais — associar acesso à terra via reforma agrária à expansão da agricultura empresarial não corresponde à dinâmica real da agropecuária de larga escala, tornando essa a afirmação incorreta. As demais descrevem corretamente fatores associados ao desmatamento amazônico, como pressão demográfica, benefícios fiscais à pecuária, eixos rodoviários e o arco do desmatamento.",
+                                         "formato":  "direta",
+                                         "origem":  "fgv-unificado-2025.1"
+                                     },
+                                     {
+                                         "id":  "atualidades-meioambiente-102",
+                                         "enunciado":  "O desenvolvimento sustentável, como uma das soluções para a crise ambiental vivida no mundo, propõe a adoção de meios mais eficazes para a preservação dos recursos naturais.\nAs opções a seguir apresentam valores e comportamentos capazes de mudar, para melhor, as expectativas do futuro, à exceção de uma. Assinale-a.",
+                                         "alternativas":  {
+                                                              "a":  "Deslocar a noção de felicidade da sociedade de \"consumir\" para \"usufruir\".",
+                                                              "b":  "Aumentar as pressões para a valorização e a melhoria dos transportes coletivos.",
+                                                              "c":  "Adotar políticas demográficas natalistas para \"frear\" a ação antrópica sobre a natureza.",
+                                                              "d":  "Estimular a adoção de fontes de energia que não emitam gases do efeito estufa.",
+                                                              "e":  "Diminuir a rotatividade imposta pela \"moda\", visando à durabilidade dos produtos."
+                                                          },
+                                         "resposta":  "c",
+                                         "explicacao":  "Políticas natalistas, que estimulam o crescimento populacional, vão na direção oposta à sustentabilidade ambiental, que depende de reduzir a pressão humana sobre os recursos naturais — por isso essa é a alternativa que não se encaixa entre os comportamentos capazes de melhorar as perspectivas ambientais, ao contrário das demais, como transporte coletivo, energias limpas e consumo consciente.",
+                                         "formato":  "direta",
+                                         "origem":  "fgv-unificado-2025.1"
                                      }
                                  ],
     "atualidades-politica":  [
@@ -13800,6 +13875,21 @@ window.QUESTION_BANKS = {
                                      "explicacao":  "Definir o ser humano como animal político significa, em Aristóteles, que a convivência na comunidade é constitutiva de sua natureza, e não um acessório dela — por isso curtir e compartilhar, isolado de envolvimento na vida comum, pode não realizar essa dimensão. A defesa do ativismo digital como forma legítima de participação para quem não pode se deslocar é a objeção mais justa e a que exige a distinção decisiva: ela responde a uma questão de acesso, e o argumento aristotélico é sobre o que a convivência efetiva realiza, não sobre quem consegue comparecer. Tratar a política como atividade de especialistas a ser acompanhada de longe contraria a natureza política atribuída a cada cidadão. Subordinar a vida política à vida contemplativa como simples meio desfaz o caráter constitutivo em jogo. E a exigência de competências digitais é barreira de acesso à ferramenta, não uma tese sobre a natureza humana.",
                                      "dificuldade":  "media",
                                      "formato":  "direta"
+                                 },
+                                 {
+                                     "id":  "filosofia-sociologia-101",
+                                     "enunciado":  "A modernidade separou a ordem \"natural\" da \"humana\" como se o homem não pertencesse ao natural, criando o pensamento utópico de que a natureza é um instrumento para suprir as necessidades humanas.\n\nA respeito da citação acima, analise as afirmações a seguir.\n\nI. Ao longo dos séculos XVIII e XIX, não havia dúvida de que os seres humanos, por meio do domínio da ciência e da técnica, poderiam controlar os fenômenos naturais.\nII. O desenvolvimento industrial mudou o modo de vida humano, que ganhou a perspectiva de uma vida voltada para a produção e o consumo de bens, sem preocupar-se com a finitude dos recursos naturais.\nIII. A crise ecológica, com seus efeitos nas mudanças climáticas e na sustentabilidade ambiental do planeta, é consequência do desenvolvimento tecnológico sobre o meio ambiente.\n\nEstá correto o que se afirma em",
+                                     "alternativas":  {
+                                                          "a":  "I e III, apenas.",
+                                                          "b":  "I, apenas.",
+                                                          "c":  "I e II, apenas.",
+                                                          "d":  "II e III, apenas.",
+                                                          "e":  "I, II e III."
+                                                      },
+                                     "resposta":  "e",
+                                     "explicacao":  "As três afirmativas descrevem etapas complementares de um mesmo processo histórico: a crença iluminista no controle humano sobre a natureza (I), a lógica de produção e consumo indiferente à finitude dos recursos que o desenvolvimento industrial consolidou (II), e a crise ecológica como consequência direta desse desenvolvimento tecnológico (III).",
+                                     "formato":  "direta",
+                                     "origem":  "fgv-unificado-2025.1"
                                  }
                              ],
     "geografia":  [
@@ -16437,6 +16527,81 @@ window.QUESTION_BANKS = {
                                            },
                           "resposta":  "d",
                           "explicacao":  "Planaltos ocupam a maior parte do território, e a contradição é só aparente: a rocha é pré-cambriana, mas a forma que se vê é obra da erosão, que trabalha a superfície sem parar e a refaz em escala de tempo muito menor. Em (b) e (c) estão as duas explicações alternativas, ambas falsas para o caso brasileiro — as rochas do embasamento são das mais antigas do planeta, e o país está no meio de uma placa, sem tectonismo intenso recente. Em (a) e (e), as planícies existem e são pequenas diante dos planaltos: a Amazônica, que parece imensa no mapa, é sobretudo planalto rebaixado."
+                      },
+                      {
+                          "id":  "geografia-168",
+                          "enunciado":  "A respeito da urbanização brasileira a partir dos anos 1980, assinale a afirmação correta.",
+                          "alternativas":  {
+                                               "a":  "O processo de metropolização foi acelerado devido às mudanças demográficas, principalmente, à diminuição da taxa de natalidade.",
+                                               "b":  "As cidades situadas nas regiões de recepção do fluxo migratório mais intenso, como foi o caso do Centro-Oeste, apresentaram crescimento superior ao das metrópoles.",
+                                               "c":  "As periferias das metrópoles cresceram mais do que os núcleos centrais, o que implicou o adensamento do espaço urbano e a melhoria dos indicadores sociais.",
+                                               "d":  "As cidades de porte médio cresceram com taxas menores do que as metrópoles, devido às deficiências do setor de serviços demandados pelas empresas.",
+                                               "e":  "As metrópoles nacionais, devido ao aumento das migrações internas, mantiveram taxas de crescimento demográfico maiores que a do país, mas o ritmo desse crescimento foi diminuindo."
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "A partir dos anos 1980, o processo de desmetropolização redirecionou fluxos migratórios para cidades médias e regiões de fronteira agrícola, como o Centro-Oeste, que passaram a crescer em ritmo superior ao das metrópoles tradicionais, cujo crescimento demográfico relativo perdia força.",
+                          "formato":  "direta",
+                          "origem":  "fgv-unificado-2025.1"
+                      },
+                      {
+                          "id":  "geografia-169",
+                          "enunciado":  "Sobre as mudanças pelas quais a cidade de São Paulo vem passando desde os anos 1980, analise as afirmativas a seguir.\n\nI. De metrópole industrial, que se expandiu integrando municípios contíguos, passou a conformar um território de limites imprecisos, parcialmente descontínuo, uma macrometrópole que se estende por cerca de 200 km a partir da capital.\nII. A nova configuração do espaço metropolitano foi formulada articulando dinâmicas globais e locais, em que a reestruturação da economia e as transformações da cidade intensificaram os fluxos de pessoas, mercadorias e informações.\nIII. Sua integração à circulação de mercadorias e às redes financeiras globais exigiu mudanças na infraestrutura urbana, capazes de integrar as áreas periféricas à área central e de agilizar a mobilidade urbana.\n\nEstá correto o que se afirma em",
+                          "alternativas":  {
+                                               "a":  "I, apenas.",
+                                               "b":  "I e II, apenas.",
+                                               "c":  "I e III, apenas.",
+                                               "d":  "II e III, apenas.",
+                                               "e":  "I, II e III."
+                                           },
+                          "resposta":  "b",
+                          "explicacao":  "A macrometrópole paulista de fato se expandiu de forma descontínua a partir da década de 1980 (afirmativa I), integrando dinâmicas globais e locais que intensificaram os fluxos (afirmativa II). A afirmativa III é a armadilha: as mudanças na infraestrutura urbana priorizaram sobretudo a mobilidade das áreas mais dinâmicas e conectadas às redes globais, sem de fato integrar plenamente as periferias à área central.",
+                          "formato":  "direta",
+                          "origem":  "fgv-unificado-2026.1"
+                      },
+                      {
+                          "id":  "geografia-170",
+                          "enunciado":  "Leia o trecho a seguir.\n\n*Uma agricultura sem agricultores*\n\nO objetivo do agricultor é o lucro – conseguir o menor preço de produção em relação ao preço de venda. Para atingi-lo, ele substituiu o fator trabalho por máquinas, o que possibilitou um controle mais preciso e eficiente dos custos de produção. O uso de máquinas permitiu a aplicação de insumos (como água, fertilizantes e defensivos) de forma localizada e eficiente, otimizando o uso da terra. Assim, o agricultor tendeu à especialização – grandes extensões cultivadas com um único produto. O uso de tecnologia levou a um aumento significativo da produtividade (relação produção/homem–dia) e da eficiência no campo.\n\nAssinale a alternativa que indica corretamente o sistema agrícola descrito.",
+                          "alternativas":  {
+                                               "a":  "A plantation de chá, na província de Assam, na Índia.",
+                                               "b":  "A rizicultura submersa, na planície do Hoang-ho, na China.",
+                                               "c":  "A agricultura empresarial, na região central dos Estados Unidos.",
+                                               "d":  "A agricultura de subsistência sobre cinzas, nas savanas africanas.",
+                                               "e":  "A média propriedade familiar, na região da Borgonha, na França."
+                                           },
+                          "resposta":  "c",
+                          "explicacao":  "O texto descreve um sistema baseado em mecanização intensiva, especialização em monocultura e ganhos de produtividade por trabalhador — características da agricultura empresarial praticada nas grandes planícies centrais dos Estados Unidos, distinta dos sistemas de plantation, rizicultura de subsistência ou pequena propriedade familiar citados nas demais alternativas.",
+                          "formato":  "direta",
+                          "origem":  "fgv-unificado-2026.1"
+                      },
+                      {
+                          "id":  "geografia-171",
+                          "enunciado":  "O processo de urbanização no Brasil é determinante na conformação da moderna sociedade brasileira, principalmente a partir da segunda metade do século XX.\n\nAs alternativas a seguir apresentam características desse processo, à exceção de uma. Assinale-a.",
+                          "alternativas":  {
+                                               "a":  "Os centros urbanos surgidos na \"fronteira\" atuam como base logística para as frentes de expansão da agropecuária e para os polos de mineração.",
+                                               "b":  "A velocidade do processo fez coincidir, no tempo, o êxodo rural, a concentração da população urbana nas grandes cidades e o processo de metropolização.",
+                                               "c":  "O urbano passou a ser o locus privilegiado das atividades econômicas mais relevantes e da grande maioria da população, assim como o difusor de novos padrões culturais.",
+                                               "d":  "O espraiamento urbano, que marca a \"cidade do automóvel\", favoreceu o acesso da população às áreas centrais, agilizando os fluxos e promovendo integração social.",
+                                               "e":  "O crescimento acelerado das periferias urbanas reflete a redistribuição das atividades econômicas no espaço metropolitano, mas, principalmente, a segregação espacial."
+                                           },
+                          "resposta":  "d",
+                          "explicacao":  "O espraiamento urbano associado à \"cidade do automóvel\" tende a dificultar, e não favorecer, o acesso da população de baixa renda às áreas centrais, pois amplia distâncias e aprofunda a segregação espacial — por isso essa é a alternativa incorreta, ao contrário das demais, que descrevem corretamente aspectos da urbanização brasileira recente.",
+                          "formato":  "direta",
+                          "origem":  "fgv-unificado-2026.1"
+                      },
+                      {
+                          "id":  "geografia-172",
+                          "enunciado":  "O agronegócio brasileiro é uma das mais importantes fontes geradoras de riquezas para o país, sendo responsável por cerca de 30% do Produto Interno Bruto (PIB), por 35% da mão de obra empregada e por 40% das exportações nacionais. Nesse contexto, destaca-se a cultura da soja, cuja produção consolidou-se na região Centro-Oeste, tendo apresentado, nos últimos anos, uma significativa expansão da área ocupada, com ganhos evidentes de rendimentos.\n\nSobre a infraestrutura de transporte para o escoamento da soja, analise as afirmativas a seguir.\n\nI. O uso do transporte rodoviário interfere na competitividade internacional da soja brasileira, porque esse modal é inadequado às características do produto e às distâncias percorridas.\nII. A intermodalidade seria mais adequada para o escoamento de commodities, devido à eficiência energética dos transportes hidroviários e ferroviários e à maior produtividade no deslocamento de cargas de maior densidade a maiores distâncias.\nIII. O escoamento da soja até os portos da Região Norte, como Itacoatiara no Amazonas, oferece vantagens competitivas, por diminuir o trajeto percorrido e estar mais próximo dos mercados consumidores externos.\n\nEstá correto o que se afirma em",
+                          "alternativas":  {
+                                               "a":  "I, apenas.",
+                                               "b":  "I e II, apenas.",
+                                               "c":  "I e III, apenas.",
+                                               "d":  "II e III, apenas.",
+                                               "e":  "I, II e III."
+                                           },
+                          "resposta":  "e",
+                          "explicacao":  "O transporte rodoviário é de fato pouco competitivo para longas distâncias (I), a intermodalidade com hidrovias e ferrovias é mais eficiente para commodities (II), e o escoamento pela Região Norte, como por Itacoatiara, reduz distâncias e aproxima a soja dos mercados consumidores externos (III) — as três afirmativas descrevem corretamente a logística do agronegócio brasileiro.",
+                          "formato":  "direta",
+                          "origem":  "fgv-unificado-2026.1"
                       }
                   ],
     "gramatica":  [
@@ -20436,6 +20601,66 @@ window.QUESTION_BANKS = {
                                 "resposta":  "c",
                                 "explicacao":  "Voto aberto e censo alfabético reduziam o eleitorado a uma fração pequena da população, e a política dos governadores é a engrenagem clássica do período. A terceira inverte as prescrições da época, que associavam a mulher honesta à esfera doméstica e exigiam acompanhamento na rua.",
                                 "formato":  "vf"
+                            },
+                            {
+                                "id":  "historia-brasil-106",
+                                "enunciado":  "Ao final do século XVI, o jesuíta Fernão Cardim definiu o engenho de açúcar como uma \"máquina e fábrica incrível\". Os engenhos:",
+                                "alternativas":  {
+                                                     "a":  "Possuíam uma estrutura produtiva diretamente associada ao trabalho escravo que incluía também serviços especializados de homens livres.",
+                                                     "b":  "Articulavam o mundo rural, do plantio de cana, e os espaços urbanos coloniais, destinados à produção de açúcar e sua comercialização.",
+                                                     "c":  "Caracterizavam-se por uma agroindústria sofisticada que dispensou a utilização da mão-de-obra indígena no plantio e nas moendas.",
+                                                     "d":  "Empregavam apenas a força motriz humana de escravizados para movimentar as prensas no processo de moagem da cana.",
+                                                     "e":  "Eram complexos sociais que se estabeleceram no interior do território da América Portuguesa e permitiram o avanço das fronteiras coloniais."
+                                                 },
+                                "resposta":  "a",
+                                "explicacao":  "Os engenhos coloniais dependiam do trabalho escravo na produção, mas também empregavam homens livres em funções especializadas, como mestres de açúcar e feitores. Isso descarta as demais alternativas, que descrevem uma dependência exclusiva de mão de obra escrava, dispensam a mão de obra indígena, ou situam os engenhos apenas no interior, quando na verdade se articulavam com os espaços urbanos costeiros de comercialização.",
+                                "formato":  "direta",
+                                "origem":  "fgv-unificado-2025.1"
+                            },
+                            {
+                                "id":  "historia-brasil-107",
+                                "enunciado":  "A primeira Constituição brasileira, de 1824, foi elaborada durante um processo turbulento de divergências políticas. A esse respeito, é correto afirmar:",
+                                "alternativas":  {
+                                                     "a":  "A Assembleia Constituinte foi instaurada em 1823 e só encerrou seus trabalhos com a aceitação da proposta de D. Pedro I em criar o Poder Moderador, que controlava os demais poderes.",
+                                                     "b":  "A adoção do Poder Moderador foi uma estratégia de apaziguamento das rivalidades entre as oligarquias de São Paulo e Minas Gerais, que disputavam a hegemonia política do Estado brasileiro.",
+                                                     "c":  "O estabelecimento do Poder Moderador baseava-se no pensamento ilustrado de Montesquieu, que previa um instrumento de harmonização política entre os poderes Judiciário, Legislativo e Executivo.",
+                                                     "d":  "O poder Moderador foi a maneira de estabelecer a hegemonia política das províncias do Nordeste diante do poderio econômico de São Paulo, Rio de Janeiro e Minas Gerais.",
+                                                     "e":  "O Poder Moderador era uma expressão da perspectiva absolutista do monarca D. Pedro I e de seus auxiliares mais diretos, como forma de controlar o poder das oligarquias regionais brasileiras."
+                                                 },
+                                "resposta":  "e",
+                                "explicacao":  "O Poder Moderador, previsto na Constituição de 1824, concentrava poderes excepcionais nas mãos do imperador — era uma adaptação da doutrina de Benjamin Constant que, na prática, funcionava como instrumento de controle monárquico centralizado, e não uma criação de Montesquieu nem uma resposta às disputas regionais entre oligarquias.",
+                                "formato":  "direta",
+                                "origem":  "fgv-unificado-2025.1"
+                            },
+                            {
+                                "id":  "historia-brasil-108",
+                                "enunciado":  "Entre 1974 e 1980, a oposição à Ditadura Militar no Brasil manifestou-se, apesar da manutenção de mecanismos repressivos e de censura no país. Sobre esse período, é correto afirmar:",
+                                "alternativas":  {
+                                                     "a":  "A fragorosa derrota eleitoral da oposição nas eleições parlamentares de 1974 demonstrou que a única possibilidade de enfrentamento ao regime seria a mobilização popular.",
+                                                     "b":  "A morte de Vladimir Herzog em 1975, nas dependências do DOI-CODI em São Paulo, provocou grandes manifestações populares em diversas capitais do país.",
+                                                     "c":  "A Lei Falcão (1976) e o Pacote de Abril (1977), medidas para dificultar o crescimento da oposição, estimularam o aparecimento de grupos guerrilheiros no Brasil.",
+                                                     "d":  "A campanha pela anistia aos presos políticos e as movimentações pela reorganização da UNE (União Nacional dos Estudantes) estimularam manifestações públicas contra o regime, entre 1977 e 1979.",
+                                                     "e":  "A cassação dos partidos de esquerda, como o PCB e o PCdoB, foram as principais motivações das greves dos metalúrgicos do ABC a partir de 1978."
+                                                 },
+                                "resposta":  "d",
+                                "explicacao":  "Entre 1977 e 1979, a campanha pela anistia aos presos políticos e a rearticulação do movimento estudantil, com a reorganização da UNE, foram formas de oposição pública ao regime militar que ganharam força nesse período de abertura lenta e gradual.",
+                                "formato":  "direta",
+                                "origem":  "fgv-unificado-2025.1"
+                            },
+                            {
+                                "id":  "historia-brasil-109",
+                                "enunciado":  "O Brasil apresentou um crescimento econômico acelerado durante o período de 1940 a 1980, sem modificar significativamente a forte desigualdade social, mas na segunda metade do século XX, seus indicadores de mortalidade infantil e de esperança de vida ao nascer evoluíram positivamente.\nAssinale a opção que indica, corretamente, um fator orientador dessa dinâmica.",
+                                "alternativas":  {
+                                                     "a":  "A obrigatoriedade dos serviços de vacinas e o acesso a antibióticos.",
+                                                     "b":  "A garantia da escolaridade básica e do acesso ao mercado de trabalho.",
+                                                     "c":  "O acesso à informação e ao conhecimento dos métodos anticonceptivos.",
+                                                     "d":  "A universalização do serviço de água potável e de esgotamento sanitário.",
+                                                     "e":  "O atendimento médico às adolescentes gestantes e aos casamentos precoces."
+                                                 },
+                                "resposta":  "c",
+                                "explicacao":  "A queda da mortalidade infantil e o aumento da esperança de vida na segunda metade do século XX estão associados também à difusão de informação sobre métodos anticonceptivos, que permitiu maior espaçamento entre gestações e melhor cuidado materno-infantil, complementando os avanços sanitários do período.",
+                                "formato":  "direta",
+                                "origem":  "fgv-unificado-2025.1"
                             }
                         ],
     "historia-geral":  [
@@ -22077,6 +22302,36 @@ window.QUESTION_BANKS = {
                                "resposta":  "c",
                                "explicacao":  "Ler as práticas indígenas pela grade cristã e destruir os suportes de memória descrevem a ocidentalização do imaginário. A terceira é a armadilha: houve de fato mestiçagem cultural, mas não em condições equivalentes — falar em simetria apaga a violência e a assimetria de poder que organizaram o processo.",
                                "formato":  "vf"
+                           },
+                           {
+                               "id":  "historia-geral-106",
+                               "enunciado":  "Em maio de 1948, foi proclamada a criação do Estado de Israel em um contexto histórico marcado pelo fim da Segunda Guerra Mundial e por conflitos na Palestina intensificados desde a década de 1930. Sobre esse contexto, é correto afirmar:",
+                               "alternativas":  {
+                                                    "a":  "A imigração judaica, desde o início do século XX, foi patrocinada por palestinos descontentes com a dominação franco-britânica que transformara a região em um Protetorado.",
+                                                    "b":  "O governo britânico, em 1939, tomou medidas para inibir a imigração e limitar a aquisição de terras por judeus na Palestina, o que estimulou grupos armados a promoverem ações terroristas.",
+                                                    "c":  "O contingente judaico ultrapassou a população árabe estabelecida na Palestina, com o crescente deslocamento de judeus de diversas partes do mundo para a região, ao final da década de 1930.",
+                                                    "d":  "A divisão da Palestina em dois Estados, aprovada pela ONU (Organização das Nações Unidas) em 1947, foi contestada por lideranças palestinas e pacificou os conflitos na região.",
+                                                    "e":  "Brigadas de voluntários compostas por judeus e palestinos lutaram juntas durante a Segunda Guerra Mundial do lado das forças militares Aliadas contra o Eixo."
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "O Livro Branco britânico de 1939 limitou a imigração judaica e a compra de terras na Palestina, medida que frustrou expectativas sionistas e fortaleceu grupos armados judaicos que passaram a agir contra o Mandato Britânico.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "historia-geral-107",
+                               "enunciado":  "A passagem do nomadismo para o sedentarismo, ocorrida na Pré-História, está associada",
+                               "alternativas":  {
+                                                    "a":  "ao desenvolvimento de redes comerciais que desestimularam a formação de centros urbanos permanentes.",
+                                                    "b":  "à centralização do poder político com a organização da posse coletiva de terras e formas estáveis de governo.",
+                                                    "c":  "à difusão de crenças religiosas monoteístas que reduziram deslocamentos constantes entre diferentes regiões.",
+                                                    "d":  "à adoção de práticas produtivas que garantiram oferta de produtos e produção regular de alimentos agrícolas.",
+                                                    "e":  "ao aperfeiçoamento das técnicas de navegação que permitiram fixar populações em áreas estratégicas."
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "A Revolução Neolítica, marcada pela adoção da agricultura e da domesticação de animais, garantiu oferta regular de alimentos e permitiu a fixação de grupos humanos em um mesmo território, dando origem ao sedentarismo.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.2"
                            }
                        ],
     "ingles":  [
@@ -31468,6 +31723,21 @@ window.QUESTION_BANKS = {
                            "resposta":  "a",
                            "explicacao":  "Nem espelho nem ilha: entre a obra e a época há a forma, e é ela que permite à obra fazer coisas diferentes ao mesmo tempo. Depender das declarações do autor seria trocar a análise da obra pela biografia dele.",
                            "formato":  "direta"
+                       },
+                       {
+                           "id":  "literatura-151",
+                           "enunciado":  "Em maio de 2024, um dos maiores nomes da literatura brasileira fez muito sucesso nas redes sociais. Tudo por causa de um desafio pessoal de uma norte-americana, que estabeleceu para si, como missão, ler um livro de um autor de cada país. Para o Brasil, ela escolheu um clássico absoluto, publicado, oficialmente, em 1881.\n\nAssinale a opção que o indica.",
+                           "alternativas":  {
+                                                "a":  "Grande Sertão: Veredas, de Guimarães Rosa",
+                                                "b":  "Encontro Marcado, de Fernando Sabino",
+                                                "c":  "Memórias Póstumas de Brás Cubas, de Machado de Assis",
+                                                "d":  "Os Sertões, de Euclides da Cunha",
+                                                "e":  "Vidas Secas, de Graciliano Ramos"
+                                            },
+                           "resposta":  "c",
+                           "explicacao":  "Memórias Póstumas de Brás Cubas, de Machado de Assis, foi publicado em 1881 e é o clássico brasileiro mais conhecido internacionalmente entre as opções, o que explica ter sido a escolha da leitora norte-americana. As demais obras são de datas bem posteriores: Os Sertões (1902), Vidas Secas (1938), Grande Sertão: Veredas e Encontro Marcado (ambas de 1956).",
+                           "formato":  "direta",
+                           "origem":  "fgv-unificado-2025.1"
                        }
                    ],
     "matematica-rlm":  [
@@ -35944,6 +36214,711 @@ window.QUESTION_BANKS = {
                                "resposta":  "c",
                                "explicacao":  "Crescimento exponencial de razão 2: N = N₀·2ᵗ = 230 × 2^5 = 7.360.",
                                "origem":  "banco-extra"
+                           },
+                           {
+                               "id":  "matematica-rlm-282",
+                               "enunciado":  "Para todo n ≥ 0 inteiro, defina Pₙ = 1/2ⁿ + 1/2ⁿ⁺¹ + 1/2ⁿ⁺² + .... A soma S é dada por S = P₀ + P₁ + P₂ + .... O valor de S é igual a",
+                               "alternativas":  {
+                                                    "a":  "7",
+                                                    "b":  "4",
+                                                    "c":  "5",
+                                                    "d":  "6",
+                                                    "e":  "8"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Cada Pₙ é a soma de uma PG infinita de razão 1/2 começando em 1/2ⁿ, logo Pₙ = 2/2ⁿ. A soma S é então outra série geométrica de razão 1/2 começando em 2, cujo valor é 2/(1−1/2) = 4.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-283",
+                               "enunciado":  "Em uma sequência de números inteiros positivos, cada termo a partir do terceiro é o produto dos dois termos anteriores.\nO quinto termo dessa sequência é 800.\nO terceiro termo é:",
+                               "alternativas":  {
+                                                    "a":  "12",
+                                                    "b":  "30",
+                                                    "c":  "20",
+                                                    "d":  "15",
+                                                    "e":  "24"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Chamando os dois primeiros termos de a e b, o terceiro termo é ab, o quarto é a·b², e o quinto é a²·b³, que também pode ser escrito como (ab)·b² = a₃·b². Testando valores inteiros que satisfaçam a₃·b²=800, a solução a=10, b=2 dá terceiro termo a₃=20, quarto termo 40 e quinto termo 800, confirmando a resposta.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-284",
+                               "enunciado":  "Na tabela 3x3 a seguir, A, B, C, D e X são números tais que os elementos de cada linha e de cada coluna formam progressões aritméticas:\n\n```\nA   12  16\n18  B   C\nD   X   32\n```\n\nO valor de X é:",
+                               "alternativas":  {
+                                                    "a":  "29",
+                                                    "b":  "30",
+                                                    "c":  "31",
+                                                    "d":  "32",
+                                                    "e":  "33"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Como a primeira linha é uma PA com termos 12 e 16 conhecidos (diferença 4), o primeiro elemento é 8. A terceira coluna (16, C, 32) sendo PA dá C=24. A segunda linha (18, B, 24) sendo PA dá B=21. Por fim, a segunda coluna (12, B, X) = (12, 21, X) sendo PA dá X=30.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-285",
+                               "enunciado":  "Zureta, o sapinho saltitante, está inicialmente no quadradinho central de um tabuleiro 3 x 3. A cada salto Zureta escolhe aleatoriamente um dos quadradinhos do tabuleiro adjacentes ao quadradinho em que ele está e salta para lá. Todos os saltos de Zureta são independentes e Zureta só faz saltos na horizontal ou na vertical, nunca na diagonal.\nQuando Zureta atinge um quadradinho de um dos 4 cantos do tabuleiro ele para e descansa.\nA partir da posição inicial, Zureta executa uma sequência de saltos.\nA probabilidade de que Zureta dê no máximo quatro saltos antes de descansar é:",
+                               "alternativas":  {
+                                                    "a":  "1/2",
+                                                    "b":  "2/3",
+                                                    "c":  "8/9",
+                                                    "d":  "5/9",
+                                                    "e":  "7/9"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Modelando os saltos como uma cadeia de Markov entre os três tipos de posição do tabuleiro (centro, borda e canto), calcula-se a probabilidade de Zureta alcançar um canto (posição absorvente) em até 4 saltos, somando as probabilidades dos caminhos de 2 e de 4 saltos que terminam em canto, o que resulta em 8/9.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-286",
+                               "enunciado":  "O conjunto A tem 3 elementos e o conjunto B tem 4 elementos. Considere o conjunto de todas as funções possíveis f: A→B. Se selecionarmos uma função ao acaso deste conjunto, qual é a probabilidade de que a função selecionada seja injetiva?",
+                               "alternativas":  {
+                                                    "a":  "1/3",
+                                                    "b":  "4/15",
+                                                    "c":  "3/7",
+                                                    "d":  "7/16",
+                                                    "e":  "3/8"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "O total de funções de A (3 elementos) em B (4 elementos) é 4³=64. As funções injetivas correspondem a arranjos de 4 elementos tomados 3 a 3: 4×3×2=24. A probabilidade é 24/64=3/8.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-287",
+                               "enunciado":  "Carla, Drica, Érica e Fernanda disputaram um torneio de tênis de mesa. Nas partidas de tênis de mesa não há empate. Cada uma delas jogou contra cada uma das outras exatamente duas vezes. As partidas ocorreram em rodadas, com duas partidas em cada rodada.\n\nA tabela a seguir mostra, parcialmente, as vitórias e derrotas de cada uma delas, onde \"1\" significa vitória e \"0\" significa derrota. Por exemplo, Carla ganhou as partidas da primeira, da segunda e da quinta rodadas e perdeu as outras 3.\n\n| Jogadora | Resultados |\n|---|---|\n| Carla | 110010 |\n| Drica | 100111 |\n| Érica | 001001 |\n| Fernanda | ****** |\n\nOs resultados de Fernanda foram:",
+                               "alternativas":  {
+                                                    "a":  "001101",
+                                                    "b":  "011100",
+                                                    "c":  "011011",
+                                                    "d":  "101011",
+                                                    "e":  "110010"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Como cada rodada tem duas partidas envolvendo as quatro jogadoras, exatamente duas vitórias (dois \"1\") devem aparecer em cada rodada entre elas. Completando essa soma para cada uma das seis rodadas a partir dos resultados de Carla, Drica e Érica, obtém-se a sequência de Fernanda: 011100.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-288",
+                               "enunciado":  "Dois times de basquete, A e B, vão disputar um \"playoff melhor de 3\", isto é, eles vão jogar no máximo três partidas e o primeiro que ganhar duas partidas ganha o playoff. No jogo de basquete, não há empate.\n\nA primeira partida será disputada na quadra do time A e as outras duas partidas serão disputadas na quadra do time B.\n\nQuando joga em casa, isto é, na sua quadra, a probabilidade de o time A vencer é 3/5. Quando joga na casa do adversário, a probabilidade de o time A vencer é 1/3. Os resultados das partidas são independentes.\n\nA probabilidade de o time A ganhar o playoff é:",
+                               "alternativas":  {
+                                                    "a":  "17/45",
+                                                    "b":  "16/45",
+                                                    "c":  "15/45",
+                                                    "d":  "14/45",
+                                                    "e":  "13/45"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "A ganha o playoff em três cenários: vencer os dois primeiros jogos (3/5×1/3=9/45); perder o primeiro e vencer os dois seguintes (2/5×1/3×1/3=2/45); ou vencer o primeiro, perder o segundo e vencer o terceiro (3/5×2/3×1/3=6/45). Somando: 9/45+2/45+6/45=17/45.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-289",
+                               "enunciado":  "Certo banco exige uma senha de quatro dígitos numéricos, de 0 a 9, no acesso de seu aplicativo. Os dígitos não podem ser repetidos e não podem formar uma sequência crescente. O número de senhas válidas é:",
+                               "alternativas":  {
+                                                    "a":  "4180",
+                                                    "b":  "4200",
+                                                    "c":  "4500",
+                                                    "d":  "4750",
+                                                    "e":  "4830"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "O total de senhas com dígitos distintos é um arranjo de 10 dígitos tomados 4 a 4: 10×9×8×7=5040. Dentre essas, há exatamente C(10,4)=210 que formam sequência estritamente crescente (uma para cada combinação de 4 dígitos). Excluindo essas, restam 5040−210=4830 senhas válidas.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-290",
+                               "enunciado":  "Em uma escola com 150 alunos, alguns se prepararam para as olimpíadas internas de Matemática, Física ou Astronomia. A pesquisa de envolvimento revelou os seguintes dados:\n\n- 35 alunos se preparam apenas para a olimpíada de Matemática;\n- 60 alunos se preparam para a olimpíada de Física;\n- 50 alunos se preparam para a olimpíada de Astronomia;\n- 25 alunos se preparam tanto para a olimpíada de Física como para a olimpíada de Astronomia;\n- Nenhum aluno se prepara para as três olimpíadas.\n\nUm aluno da escola será sorteado ao acaso para participar de um congresso científico. A probabilidade de que ele não se prepare para nenhuma das três olimpíadas é:",
+                               "alternativas":  {
+                                                    "a":  "12%",
+                                                    "b":  "14%",
+                                                    "c":  "15%",
+                                                    "d":  "20%",
+                                                    "e":  "25%"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Como ninguém se prepara para as três olimpíadas, o único cruzamento é entre Física e Astronomia (25 alunos). Logo, só Física = 60−25=35 e só Astronomia=50−25=25. Somando com os 35 só de Matemática e os 25 de ambas: 35+35+25+25=120 alunos preparados. Os 30 restantes (150−120) não se preparam para nenhuma, o que dá 30/150=20%.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-291",
+                               "enunciado":  "Considere as operações # e \u0026 definidas sobre o conjunto dos números inteiros, conforme abaixo:\n\n1. a # b = (a − b)²\n2. a \u0026 b = a² − b²\n\nO valor de (3 # (−2)) \u0026 (1 # 4) é:",
+                               "alternativas":  {
+                                                    "a":  "−8",
+                                                    "b":  "212",
+                                                    "c":  "16",
+                                                    "d":  "544",
+                                                    "e":  "0"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "3#(−2)=(3−(−2))²=5²=25 e 1#4=(1−4)²=(−3)²=9. Então 25\u00269=25²−9²=625−81=544.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-292",
+                               "enunciado":  "O peso de 1/3 de uma pizza grande mais o peso de 2 xícaras e meia de manteiga é o mesmo de 3/4 de uma pizza grande mais o de 1/3 de uma xícara de manteiga.\nSe o peso de uma pizza grande mais o de uma xícara de manteiga é 1240 gramas, então a diferença entre o peso de uma pizza grande e o de uma xícara de manteiga, em gramas, é:",
+                               "alternativas":  {
+                                                    "a":  "780",
+                                                    "b":  "920",
+                                                    "c":  "640",
+                                                    "d":  "840",
+                                                    "e":  "720"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Igualando os dois pesos descritos, obtém-se uma relação entre o peso da pizza (P) e da manteiga (B): B=(5/26)P. Substituindo em P+B=1240, chega-se a P=1040 g e B=200 g, cuja diferença é 840 g.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-293",
+                               "enunciado":  "Tarsila está preparando uma mistura de tintas para criar uma cor específica. As tintas disponíveis são as seguintes:\nTinta A: Contém 30% ciano, 70% magenta.\nTinta B: Contém 60% ciano, 40% magenta.\nMisturando essas tintas, Tarsila criou 21 mililitros de uma cor nova que contém 40% ciano, 60% magenta. A quantidade de Tinta A que ela utilizou para fazer a cor nova, em mililitros, é",
+                               "alternativas":  {
+                                                    "a":  "10",
+                                                    "b":  "12",
+                                                    "c":  "9",
+                                                    "d":  "16",
+                                                    "e":  "14"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Chamando de a a quantidade de Tinta A (e 21−a de Tinta B), a equação do teor de ciano é 0,3a+0,6(21−a)=0,4×21. Resolvendo, 0,3a+12,6−0,6a=8,4 → −0,3a=−4,2 → a=14 mililitros.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-294",
+                               "enunciado":  "Em uma longa fila de pessoas, Filomena é a 537ª pessoa da fila. Contando-se as pessoas do final para o início, Filomena é a 388ª.\n\nO número de pessoas nessa fila é:",
+                               "alternativas":  {
+                                                    "a":  "922",
+                                                    "b":  "923",
+                                                    "c":  "924",
+                                                    "d":  "925",
+                                                    "e":  "926"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Somando a posição a partir do início (537) com a posição a partir do fim (388) e subtraindo 1, pois Filomena é contada duas vezes, obtém-se o total de pessoas na fila: 537+388−1=924.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-295",
+                               "enunciado":  "Luana e Vitória são duas amigas muito generosas. Cada uma delas tem uma certa quantia em reais e Luana tem uma quantia maior do que a de Vitória.\n\nPor generosidade, Luana dá a Vitória um valor em reais de modo a dobrar a quantia que Vitória tinha. A reação de Vitória, também por generosidade, foi a de dar a Luana uma quantia de modo a dobrar aquela com que Luana tinha ficado.\n\nNo final, as duas terminaram com quantias iguais!\n\nA razão entre as quantias iniciais de Luana e de Vitória é:",
+                               "alternativas":  {
+                                                    "a":  "5/3",
+                                                    "b":  "5/2",
+                                                    "c":  "4/3",
+                                                    "d":  "4/2",
+                                                    "e":  "3/2"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Após Luana dobrar a quantia de Vitória, Luana fica com L−V e Vitória com 2V. Depois, Vitória dobra a quantia de Luana, dando (L−V) a mais e ficando com 3V−L. Igualando os valores finais, 2(L−V)=3V−L, obtém-se 3L=5V, ou seja, L/V=5/3.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-296",
+                               "enunciado":  "A intensidade sonora é medida em decibéis (dB). A fórmula para calcular o nível de intensidade sonora em decibéis (L) é dada por L = 10·log₁₀(I/I₀), onde I é a intensidade da fonte sonora em Watts por metro quadrado (W/m²) e I₀ é a intensidade de referência que corresponde ao limiar da audição humana.\n\nUm show de rock produz um som com nível de L_R = 120 dB perto das caixas de som. Um bate-papo em uma sala tem um nível sonoro de L_B = 60 dB.\n\nCom base na fórmula, a razão entre a intensidade sonora I_R do show de rock em W/m² e a intensidade sonora I_B, também em W/m², do bate-papo é:",
+                               "alternativas":  {
+                                                    "a":  "10²",
+                                                    "b":  "10³",
+                                                    "c":  "10⁴",
+                                                    "d":  "10⁵",
+                                                    "e":  "10⁶"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Subtraindo as duas equações, L_R−L_B=10·log(I_R/I_B), logo 60=10·log(I_R/I_B) → log(I_R/I_B)=6 → I_R/I_B=10⁶.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-297",
+                               "enunciado":  "O gerente de um supermercado observou que o preço por quilo de uma fruta sazonal segue ciclos anuais. Os dados mostram preço máximo de R$ 15,00 em janeiro e mínimo de R$ 5,00 em julho.\n\nO modelo P(t) = A·cos(2·π·t/12) + B, onde t é o mês (sendo t=0 para janeiro), foi ajustado para os dados. Com as constantes A e B do modelo ajustado, o preço do quilograma da fruta no mês de março é:",
+                               "alternativas":  {
+                                                    "a":  "12,5",
+                                                    "b":  "11,5",
+                                                    "c":  "10,5",
+                                                    "d":  "9,5",
+                                                    "e":  "8,5"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Com pico em janeiro (t=0) e mínimo em julho (t=6), resolve-se A+B=15 e −A+B=5, dando A=5 e B=10. Em março (t=2), P=5·cos(π/3)+10=5×0,5+10=12,5.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-298",
+                               "enunciado":  "Para distrair o seu filho pequeno no restaurante, Cláudia entregou uma quantidade de massinha de modelar e pediu para ele fazer uma chapa aproximadamente quadrada, com aproximadamente 5 milímetros de espessura. Seu filho conseguiu fazer e o quadrado resultante tinha 12 cm de lado. Cláudia então amassou o quadrado e pediu para ele fazer, com a mesma quantidade de massinha, um disco circular com a mesma espessura. Considerando a aproximação π≈3, qual deve ser o raio, em cm, do disco circular que o menino deve fazer?",
+                               "alternativas":  {
+                                                    "a":  "3√3",
+                                                    "b":  "2√6",
+                                                    "c":  "5√3",
+                                                    "d":  "4√3",
+                                                    "e":  "5√2"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "O volume da massinha se conserva: no formato quadrado, V=12×12×0,5=72 cm³. No disco, V=πr²×0,5; usando π≈3, 1,5r²=72 → r²=48 → r=√48=4√3 cm.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-299",
+                               "enunciado":  "Quatro quadrados de lados 3, 7, 11 e 13 estão arrumados de modo que seus vértices superiores esquerdos coincidem e seus lados esquerdos e superiores estão alinhados, conforme se vê na figura (os quatro quadrados são desenhados concêntricos pelo canto superior esquerdo, com faixas alternadas claras e escuras formando uma região sombreada em \"L\" entre os contornos dos quadrados sucessivos).\n\nA área da região sombreada é:",
+                               "alternativas":  {
+                                                    "a":  "66",
+                                                    "b":  "6",
+                                                    "c":  "48",
+                                                    "d":  "36",
+                                                    "e":  "88"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "A área sombreada corresponde às faixas alternadas entre os quadrados concêntricos: a faixa entre os lados 13 e 11 (169−121=48) somada à faixa entre os lados 7 e 3 (49−9=40), totalizando 48+40=88.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-300",
+                               "enunciado":  "A altura de um triângulo retângulo ABC, que é perpendicular à hipotenusa AB, divide a hipotenusa em dois segmentos, AM e MB, com comprimentos de 9 cm e 4 cm, respectivamente. O comprimento da altura MC, em centímetros, é",
+                               "alternativas":  {
+                                                    "a":  "6",
+                                                    "b":  "4√2",
+                                                    "c":  "2√3",
+                                                    "d":  "5",
+                                                    "e":  "√6"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Pela relação métrica dos triângulos retângulos, a altura relativa à hipotenusa é a média geométrica dos dois segmentos que ela determina: MC²=AM×MB=9×4=36, logo MC=6 cm.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-301",
+                               "enunciado":  "Uma escada deve ser construída em torno de um silo de armazenamento cilíndrico para permitir o acesso ao topo. O silo tem uma base circular com raio de 2 metros e altura de 26 metros. A curva que a escada descreve sobre a superfície lateral do cilindro tem uma inclinação constante de 45 graus em relação ao solo.\nDetermine o número de voltas completas que a escada dará ao redor do silo para ir do solo até o seu topo.",
+                               "alternativas":  {
+                                                    "a":  "2",
+                                                    "b":  "3",
+                                                    "c":  "1",
+                                                    "d":  "5",
+                                                    "e":  "4"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Como a inclinação da escada é de 45°, a distância horizontal percorrida (ao longo da circunferência da base) é igual à altura vencida: 26 m. Cada volta completa percorre uma distância horizontal igual à circunferência da base, 2π×2≈12,57 m. Dividindo 26 por esse valor, obtém-se aproximadamente 2 voltas completas.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-302",
+                               "enunciado":  "O ponto A(3, 0) sofre uma rotação em torno do ponto P(0, m), pertencente ao eixo-y, resultando no ponto A\u0027(3, 8).\nO valor de m é",
+                               "alternativas":  {
+                                                    "a":  "3",
+                                                    "b":  "6",
+                                                    "c":  "4",
+                                                    "d":  "5",
+                                                    "e":  "8"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Como a rotação preserva a distância ao centro P(0,m), tem-se |PA|=|PA\u0027|: 3²+m²=3²+(8−m)². Simplificando, m²=(8−m)², o que dá m=4.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-303",
+                               "enunciado":  "Ana (A) e Beatriz (B) estão em um grande campo gramado a uma distância de 36 metros uma da outra. Carlos (C) também está no mesmo campo, o mais afastado possível de Ana, de tal modo que o ângulo ACB seja 30º.\nA distância, em metros, de Carlos a Ana é:",
+                               "alternativas":  {
+                                                    "a":  "36",
+                                                    "b":  "72",
+                                                    "c":  "36√3",
+                                                    "d":  "72√3",
+                                                    "e":  "108"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Pela Lei dos Senos, o raio da circunferência que passa por A, B e C (mantendo o ângulo ACB=30° constante) é R=AB/(2·sen(ACB))=36/(2×0,5)=36. A maior distância possível de C a A nessa circunferência é o diâmetro, que ocorre quando o ângulo em B é reto; nesse caso, AC=2R=72 metros.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-304",
+                               "enunciado":  "Considere um triângulo ABC e seja M o ponto médio do lado BC. Sejam, ainda, N e P pontos sobre o lado AC tais que os comprimentos dos segmentos AN, NP e PC sejam iguais.\n\nA razão entre as áreas dos triângulos MNP e ABC é:",
+                               "alternativas":  {
+                                                    "a":  "1/12",
+                                                    "b":  "1/9",
+                                                    "c":  "1/8",
+                                                    "d":  "1/6",
+                                                    "e":  "1/4"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Colocando A e C sobre um eixo com AC dividido em três partes iguais por N e P, a base NP mede um terço de AC e a altura do triângulo MNP (a partir de M, ponto médio de BC) é metade da altura de ABC relativa a AC. A razão das áreas é, portanto, (1/3)×(1/2)=1/6.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-305",
+                               "enunciado":  "Dois copos, um cilíndrico e um cônico, ambos circulares e retos, têm o mesmo raio da base, R, e a mesma altura, H. Enche-se o copo cônico com água até 1/3 da altura. Com o copo cilíndrico inicialmente vazio, despeja-se toda a água do copo cônico para o cilíndrico.\n\nA altura da água no copo cilíndrico é:",
+                               "alternativas":  {
+                                                    "a":  "H/6",
+                                                    "b":  "H/9",
+                                                    "c":  "H/27",
+                                                    "d":  "H/81",
+                                                    "e":  "H/243"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Como o copo cônico é preenchido até 1/3 da altura a partir do vértice, o volume de água forma um cone semelhante com dimensões lineares 1/3 das do copo inteiro, logo seu volume é (1/3)³=1/27 do volume do cone cheio, ou seja, (1/27)×(1/3)πR²H. Despejando no cilindro (área da base πR²), a altura da água é H/81.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-306",
+                               "enunciado":  "Considere um poliedro convexo no qual, em cada vértice, incidem quatro arestas e todas as suas faces são ou triangulares ou quadradas. Sabendo que são duas faces quadradas, o número de faces triangulares é:",
+                               "alternativas":  {
+                                                    "a":  "6",
+                                                    "b":  "8",
+                                                    "c":  "10",
+                                                    "d":  "12",
+                                                    "e":  "14"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Com 4 arestas em cada vértice, V=E/2. Contando arestas por face, 2E=3T+4×2=3T+8, onde T é o número de faces triangulares. Pela fórmula de Euler, V−E+F=2, com F=T+2, obtém-se E=2T. Substituindo, 2(2T)=3T+8 → T=8.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-307",
+                               "enunciado":  "Uma fazenda utiliza tratores autônomos para arar seu terreno. Três tratores são capazes de arar uma área de 6 hectares em 2 horas. O fazendeiro precisa arar uma área total de 12 hectares em uma hora. Quantos tratores são necessários para completar a tarefa no prazo desejado?",
+                               "alternativas":  {
+                                                    "a":  "10",
+                                                    "b":  "12",
+                                                    "c":  "9",
+                                                    "d":  "15",
+                                                    "e":  "16"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "A taxa de trabalho de um trator é 6 hectares ÷ (3 tratores × 2 horas) = 1 hectare por hora. Para arar 12 hectares em 1 hora, são necessários 12 tratores.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-308",
+                               "enunciado":  "A World Wide Web (WWW) se tornou popular pela primeira vez na década de 1990. Naquela época as velocidades de download atingiam um máximo de cerca de 56 quilobits por segundo.\nO download de uma música de 7,7 megabytes, feito nessa velocidade máxima de 56 quilobits por segundo, levava um tempo aproximado de:\n\nDado: um megabyte equivale a 8000 quilobits.",
+                               "alternativas":  {
+                                                    "a":  "18min20s",
+                                                    "b":  "15min30s",
+                                                    "c":  "16min15s",
+                                                    "d":  "17min30s",
+                                                    "e":  "19min40s"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "O arquivo tem 7,7×8000=61.600 kilobits. Dividindo pela velocidade de 56 kbps, o tempo é 61.600/56=1.100 segundos, ou seja, 18 minutos e 20 segundos.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2025.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-309",
+                               "enunciado":  "Os números reais X, Y e Z têm média aritmética igual a 2. Além disso, os números X², Y² e Z² têm média aritmética igual a 6.\n\nA média aritmética dos números XY, XZ e YZ é:",
+                               "alternativas":  {
+                                                    "a":  "1",
+                                                    "b":  "2",
+                                                    "c":  "3",
+                                                    "d":  "4",
+                                                    "e":  "5"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "De X+Y+Z=6 (média 2) e X²+Y²+Z²=18 (média 6), usa-se (X+Y+Z)²=X²+Y²+Z²+2(XY+XZ+YZ): 36=18+2(XY+XZ+YZ), logo XY+XZ+YZ=9, e a média desses três produtos é 9/3=3.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-310",
+                               "enunciado":  "Há um mês, Igor investiu seu dinheiro em uma carteira de investimentos composta por 80% em um único ativo de alto risco e 20% em ativos conservadores.\n\nAgora, após um mês, os ativos conservadores mantiveram seus valores (sem ganhos nem perdas) e o ativo de alto risco perdeu 50% do seu valor.\n\nSem realizar novos aportes ou resgates nesse período, a fração da carteira de Igor que está alocada no ativo de alto risco é:",
+                               "alternativas":  {
+                                                    "a":  "1/2",
+                                                    "b":  "2/3",
+                                                    "c":  "3/5",
+                                                    "d":  "3/4",
+                                                    "e":  "1/3"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Considerando o total inicial como 1, o ativo de risco vale inicialmente 0,8 e cai para 0,4 após perder 50%; o conservador permanece em 0,2. O novo total é 0,6, e a fração no ativo de risco é 0,4/0,6=2/3.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-311",
+                               "enunciado":  "Clara é uma criadora de conteúdo e publicou seu novo vídeo em três plataformas diferentes. Para saber a avaliação geral de seu trabalho, ela coletou os seguintes dados:\n\n- na Plataforma A, ela recebeu 200 avaliações com uma média de 4,5 estrelas;\n- na Plataforma B, ela recebeu 300 avaliações com uma média de 4,0 estrelas;\n- na Plataforma C, ela recebeu 500 avaliações com uma média de 4,8 estrelas.\n\nConsiderando as três plataformas, o número médio de estrelas que o vídeo de Clara recebeu é:",
+                               "alternativas":  {
+                                                    "a":  "4,0",
+                                                    "b":  "4,2",
+                                                    "c":  "4,5",
+                                                    "d":  "4,6",
+                                                    "e":  "4,8"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "A média ponderada é (200×4,5+300×4,0+500×4,8)/(200+300+500)=(900+1200+2400)/1000=4500/1000=4,5.",
+                               "formato":  "direta",
+                               "origem":  "fgv-unificado-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-312",
+                               "enunciado":  "Todos os 350 funcionários de um centro de compras participaram de uma campanha de doação de sangue, que ocorreu durante 4 dias. No primeiro dia, todas as mulheres com mais de 40 anos doaram sangue, o que corresponde a 18% do total de funcionários. No segundo dia, todos os homens com mais de 40 anos doaram sangue, o que corresponde a 45% do total de homens. No terceiro dia, as 67 mulheres que ainda não haviam doado sangue fizeram a doação. Finalmente, no quarto dia, todos os homens que ainda não haviam doado sangue fizeram a doação. O número de funcionários homens com 40 anos ou menos nesse centro de compras é",
+                               "alternativas":  {
+                                                    "a":  "81",
+                                                    "b":  "90",
+                                                    "c":  "105",
+                                                    "d":  "121",
+                                                    "e":  "144"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "As mulheres com mais de 40 anos somam 18%×350=63. As 67 mulheres do terceiro dia são as com 40 anos ou menos, logo o total de mulheres é 63+67=130, e o de homens é 350−130=220. Os homens com mais de 40 anos são 45%×220=99, restando 220−99=121 homens com 40 anos ou menos.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-313",
+                               "enunciado":  "Uma empresa presta serviços de manutenção em elevadores e, a cada dia, escala uma equipe ou de 5 pessoas ou de 9 pessoas. Uma equipe de 5 pessoas faz, em um dia, a manutenção em 6 elevadores, e uma equipe de 9 pessoas faz, em um dia, a manutenção em 10 elevadores. Em 99 dias de prestação de serviços, a empresa realizou a manutenção em 862 elevadores.\n\nNesse período de 99 dias, o número de dias em que a empresa escalou uma equipe de 5 pessoas foi",
+                               "alternativas":  {
+                                                    "a":  "32",
+                                                    "b":  "35",
+                                                    "c":  "38",
+                                                    "d":  "41",
+                                                    "e":  "44"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Com x dias de equipe de 5 pessoas e y de equipe de 9, x+y=99 e 6x+10y=862. Substituindo x=99−y, obtém-se 594+4y=862 → y=67 e x=32.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-314",
+                               "enunciado":  "Em um ginásio, às 8h, havia 97 torcedores do time visitante e 30 torcedores do time da casa; durante o minuto seguinte, chegaram 5 torcedores do time visitante e 18 torcedores do time da casa, de maneira que, às 8h01, havia 102 torcedores do time visitante e 48 torcedores do time da casa. Desse momento em diante, a cada minuto, chegavam ao ginásio 5 torcedores do time visitante e 18 torcedores do time da casa.\n\nA razão entre o número de torcedores do time visitante e o número de torcedores do time da casa era igual a 2 às",
+                               "alternativas":  {
+                                                    "a":  "8h27",
+                                                    "b":  "8h31",
+                                                    "c":  "8h36",
+                                                    "d":  "8h40",
+                                                    "e":  "8h47"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "Escrevendo o número de torcedores como funções lineares do tempo — visitante(t)=97+5t e casa(t)=30+18t, em minutos após as 8h — e resolvendo a equação que iguala a razão entre essas duas quantidades a 2, encontra-se o instante correspondente às 8h31.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-315",
+                               "enunciado":  "Seja (a₁, a₂, a₃, ...aᵢ, ..., aₙ, ...) uma progressão geométrica (PG) infinita de razão q. Seja a₁ = 2 · 10⁻³ o primeiro termo de uma PG infinita em que q = 1,2. Seja aᵢ o menor termo dessa PG, tal que a soma finita dos i primeiros termos (Sᵢ = a₁ + a₂ + ... + aᵢ) é maior do que 5.\n\nNessas condições, aᵢ é tal que:",
+                               "alternativas":  {
+                                                    "a":  "0,545 \u003c aᵢ \u003c 0,545q",
+                                                    "b":  "0,665 \u003c aᵢ \u003c 0,665q",
+                                                    "c":  "0,835 \u003c aᵢ \u003c 0,835q",
+                                                    "d":  "1,025 \u003c aᵢ \u003c 1,025q",
+                                                    "e":  "1,255 \u003c aᵢ \u003c 1,255q"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "A soma dos i primeiros termos de uma PG é Sᵢ=a₁(qⁱ−1)/(q−1). Buscando o menor i tal que Sᵢ\u003e5, e usando aᵢ=a₁qⁱ⁻¹, chega-se ao intervalo 0,835\u003caᵢ\u003c0,835q, que contém o valor de aᵢ correspondente a esse i mínimo.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-316",
+                               "enunciado":  "Considere que a notação n‼ (duplo fatorial de n) representa o produto de todos os números positivos e de mesma paridade, menores ou igual a n. Por exemplo, 5‼ = 5 · 3 · 1 e 6‼ = 6 · 4 · 2.\n\nEm um jogo de tabuleiro, um jogador inicia com 16 peças. Cada peça tem uma função diferente no jogo, sendo que 8 peças são de ataque e 8 são de defesa. Essas peças devem ser posicionadas em 16 postos contidos em 8 regiões distintas do tabuleiro, cada região contendo um posto avançado e um posto recuado. Inicialmente, o jogador deve posicionar 1 peça de ataque em cada região, podendo ser no posto avançado ou no posto recuado, não necessariamente todas as peças de ataque no mesmo tipo de posto. Após colocar as peças de ataque, o jogador posiciona as peças de defesa nos postos restantes.\n\nO número de maneiras distintas de esse jogador fazer a distribuição inicial das suas 16 peças nas 8 regiões é",
+                               "alternativas":  {
+                                                    "a":  "8! · 16‼",
+                                                    "b":  "2 · 8! · 16‼",
+                                                    "c":  "4 · 8! · 16‼",
+                                                    "d":  "2 · 8‼ · 16!",
+                                                    "e":  "4 · 8‼ · 16!"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Cada uma das 8 regiões tem 2 postos, e o jogador escolhe em qual posto fica a peça de ataque: 2⁸ possibilidades. Em seguida, distribui as 8 peças de ataque distintas entre esses 8 postos escolhidos (8! maneiras) e as 8 peças de defesa distintas nos 8 postos restantes (mais 8! maneiras). Como 16‼=2⁸·8!, o total 2⁸·8!·8! pode ser reescrito como 8!·16‼.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-317",
+                               "enunciado":  "Considere a inequação x² + 3x – 10 \u003c 0. O intervalo correspondente à solução dessa inequação é:",
+                               "alternativas":  {
+                                                    "a":  "]–∞, –10[",
+                                                    "b":  "]–∞, 3[",
+                                                    "c":  "]–∞, 5[",
+                                                    "d":  "]–5, 2[",
+                                                    "e":  "]–3, 10["
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Fatorando, x²+3x−10=(x+5)(x−2). O produto é negativo quando x está entre as raízes −5 e 2, ou seja, no intervalo ]−5, 2[.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-318",
+                               "enunciado":  "Nos 7 primeiros dias de setembro, uma sorveteria vendeu, em média, 143 picolés por dia e, nos 16 últimos dias desse mês, a média aritmética do número de picolés vendidos por dia foi igual a 150. Nesse mês, do dia 8 até o dia 13, foram vendidos 177 picolés por dia.\n\nConsiderando os 30 dias do mês de setembro, a média dos números de picolés vendidos por dia foi igual a 155. Logo, o número de picolés vendidos no dia 14 de setembro foi",
+                               "alternativas":  {
+                                                    "a":  "145",
+                                                    "b":  "154",
+                                                    "c":  "165",
+                                                    "d":  "176",
+                                                    "e":  "187"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "O total do mês é 155×30=4650 picolés. Os primeiros 7 dias somam 143×7=1001, os dias 8 a 13 somam 177×6=1062, e os últimos 16 dias (15 a 30) somam 150×16=2400. O dia 14 corresponde ao total restante: 4650−(1001+1062+2400)=187.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-319",
+                               "enunciado":  "Em um programa escrito em linguagem natural, o operador \u0026= é usado para concatenar o valor de uma variável ao fim de outra. O comando `parte3 \u0026= palavra` concatena o valor armazenado na variável `palavra` ao fim do valor armazenado na variável `parte3`. Por exemplo, se `parte3 = \"PA–\"` e `palavra = \"TO\"`, após a execução de `parte3 \u0026= palavra` a variável `parte3` passará a conter `\"PA–TO\"`.\n\nO comando `letra = mid(palavra, pos)` atribui à variável `letra` o caractere que está na posição `pos` do valor armazenado em `palavra`. Por exemplo, se `palavra = \"PA–TO\"` e `pos = 4`, após a execução do comando `letra = mid(palavra, pos)` a variável `letra` passará a conter `\"T\"`, pois \"T\" é o caractere que está na posição 4 de \"PA–TO\". Observe, nesse exemplo, que \"PA–TO\" contém 5 caracteres. O comando `aux = mid(parte1, pos)` funciona de maneira idêntica, atribuindo à variável `aux` o caractere que está na posição `pos` do valor armazenado em `parte1`.\n\nAvalie o seguinte código escrito em linguagem natural.\n\n```\npalavra = \"TAPETE\"\nparte1 = \"–\"\nparte2 = \"–\"\n\nFaça a variável pos variar consecutivamente de 1 até 6 e, a cada mudança,\nexecute as instruções entre chaves\n\n{\n    letra = mid(palavra, pos)\n\n    Se letra for uma vogal, execute os 3 comandos entre colchetes\n    [\n        parte1 \u0026= letra\n        aux = mid(parte1, pos)\n        parte2 \u0026= aux\n    ]\n\n    Se letra for uma consoante, execute os 2 comandos entre parênteses\n    (\n        parte2 \u0026= letra\n        parte1 \u0026= letra\n    )\n}\n```\n\nApós a execução desse código, as variáveis `parte1` e `parte2` conterão, respectivamente,",
+                               "alternativas":  {
+                                                    "a":  "–AAEEEE e –PPTTTT",
+                                                    "b":  "–ATEPET e –TTTTPP",
+                                                    "c":  "–ETEPAT e –TAPETE",
+                                                    "d":  "–TAPETE e –TTPPTT",
+                                                    "e":  "–TTPEEA e –AEEPTT"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Simulando o código posição a posição para \u0027TAPETE\u0027: nas posições com vogal (A, E, E), a letra é acrescentada a parte1, e o caractere de parte1 na posição corrente é replicado em parte2; nas posições com consoante (T, P, T), a letra é acrescentada tanto a parte2 quanto a parte1. Seguindo essas regras chega-se a parte1=\u0027–TAPETE\u0027 e parte2=\u0027–TTPPTT\u0027.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.1"
+                           },
+                           {
+                               "id":  "matematica-rlm-320",
+                               "enunciado":  "Um concurso foi realizado, no campus de determinada universidade, com aplicações de provas nos períodos matutino e vespertino. No período matutino, todos os candidatos realizaram a prova, sendo que eles estavam distribuídos em 55 salas, cada sala com o mesmo número de candidatos. No período vespertino, a prova foi aplicada apenas para os 899 candidatos de determinadas carreiras, sendo que eles ficaram na mesma sala em que realizaram a prova no período matutino. Dessa maneira, 24 salas em que houve a realização de provas no período matutino ficaram vazias e, em cada uma das demais salas, havia 14 candidatos a menos em relação à quantidade de candidatos que realizaram a prova pela manhã.\n\nO número de candidatos que fizeram prova no período matutino foi",
+                               "alternativas":  {
+                                                    "a":  "2255",
+                                                    "b":  "2310",
+                                                    "c":  "2365",
+                                                    "d":  "2420",
+                                                    "e":  "2475"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "Sendo n o número de candidatos por sala pela manhã, à tarde restaram 55−24=31 salas ocupadas, cada uma com n−14 candidatos, totalizando 899: 31(n−14)=899 → n−14=29 → n=43. O total da manhã é 55×43=2365.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.2"
+                           },
+                           {
+                               "id":  "matematica-rlm-321",
+                               "enunciado":  "Um livro contém 1824 exercícios, divididos em exercícios de revisão e exercícios de aplicação. Se para cada 8 exercícios de aplicação existem 11 exercícios de revisão, a diferença entre os números de exercícios de revisão e de aplicação é igual a",
+                               "alternativas":  {
+                                                    "a":  "288",
+                                                    "b":  "306",
+                                                    "c":  "375",
+                                                    "d":  "450",
+                                                    "e":  "495"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "A proporção 8:11 divide os 1824 exercícios em 19 partes iguais de 1824/19=96 cada. Assim, há 8×96=768 de aplicação e 11×96=1056 de revisão, cuja diferença é 1056−768=288.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.2"
+                           },
+                           {
+                               "id":  "matematica-rlm-322",
+                               "enunciado":  "Os gêmeos Gustavo e Henrique ganharam uma caixa com 11 carrinhos, que estão numerados de 1 a 11. Eles decidiram dividir esses carrinhos entre eles e sua irmã mais nova, de modo que ela ficará com 3 carrinhos e cada um dos gêmeos com 4 carrinhos. Gustavo não quer pegar carrinhos com números pares e Henrique não quer pegar carrinhos com números ímpares.\n\nNessas condições, o número de maneiras de esses carrinhos serem distribuídos é igual a",
+                               "alternativas":  {
+                                                    "a":  "75",
+                                                    "b":  "120",
+                                                    "c":  "144",
+                                                    "d":  "240",
+                                                    "e":  "252"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Gustavo só pode ficar com números ímpares: escolher 4 dos 6 ímpares dá C(6,4)=15 possibilidades. Henrique só pode ficar com números pares: escolher 4 dos 5 pares dá C(5,4)=5 possibilidades. Os 3 carrinhos restantes (2 ímpares e 1 par) vão automaticamente para a irmã, então o total é 15×5=75.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.2"
+                           },
+                           {
+                               "id":  "matematica-rlm-323",
+                               "enunciado":  "Um condomínio é formado pelos prédios A, B e C, que, juntos, têm um total de 165 apartamentos. Um desses prédios tem o dobro de apartamentos de outro prédio. O número de apartamentos do prédio A excede em 19 a soma dos números de apartamentos dos prédios B e C.\n\nNessas condições, o número de apartamentos do prédio que tem menos apartamentos é igual a",
+                               "alternativas":  {
+                                                    "a":  "25",
+                                                    "b":  "27",
+                                                    "c":  "30",
+                                                    "d":  "33",
+                                                    "e":  "38"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "De A=B+C+19 e A+B+C=165, obtém-se A=92 e B+C=73. Como um dos prédios tem o dobro de apartamentos de outro, e apenas a divisão de 73 em partes na razão 2:1 dá números inteiros (46 e 27), o prédio com menos apartamentos tem 27.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.2"
+                           },
+                           {
+                               "id":  "matematica-rlm-324",
+                               "enunciado":  "Os cilindros retos A e B têm alturas respectivamente iguais a 5 cm e 6 cm. O raio do cilindro B excede o raio do cilindro A em 2 cm, sendo os raios desses cilindros menores do que 10 cm. O volume do cilindro B excede o volume do cilindro A em 136π cm³. O raio do cilindro A mede",
+                               "alternativas":  {
+                                                    "a":  "4 cm",
+                                                    "b":  "5 cm",
+                                                    "c":  "6 cm",
+                                                    "d":  "7 cm",
+                                                    "e":  "8 cm"
+                                                },
+                               "resposta":  "a",
+                               "explicacao":  "Com r_B=r_A+2, a diferença de volumes 6π(r_A+2)²−5πr_A²=136π leva à equação r_A²+24r_A−112=0, cuja raiz positiva é r_A=4 cm.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.2"
+                           },
+                           {
+                               "id":  "matematica-rlm-325",
+                               "enunciado":  "A média aritmética das notas de 150 alunos em uma prova foi igual a 8,8 e a maior nota nessa prova foi 9,9. Se nenhum aluno tirou menos do que 8, o número de alunos que tiraram a maior nota foi, no máximo, igual a",
+                               "alternativas":  {
+                                                    "a":  "54",
+                                                    "b":  "63",
+                                                    "c":  "66",
+                                                    "d":  "72",
+                                                    "e":  "75"
+                                                },
+                               "resposta":  "b",
+                               "explicacao":  "A soma total das notas é 150×8,8=1320. Para maximizar o número k de alunos com a nota máxima 9,9, os demais devem ter a menor nota possível (8): 9,9k+8(150−k)≤1320, o que dá k≤63,16, logo o máximo inteiro é 63.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.2"
+                           },
+                           {
+                               "id":  "matematica-rlm-326",
+                               "enunciado":  "No plano cartesiano, a função polinomial do primeiro grau f e a função quadrática g são tais que f(2) = g(0) = g(2) = 0. O gráfico da função f intersecta o eixo y no ponto A(0, 2) e o vértice da parábola que representa o gráfico de g tem ordenada 2.\n\nO valor de f(–9) + g(3) é igual a",
+                               "alternativas":  {
+                                                    "a":  "0",
+                                                    "b":  "3",
+                                                    "c":  "5",
+                                                    "d":  "6",
+                                                    "e":  "9"
+                                                },
+                               "resposta":  "c",
+                               "explicacao":  "De g(0)=g(2)=0, g(x)=a·x(x−2); como o vértice (x=1) tem ordenada 2, g(1)=−a=2 → a=−2, logo g(x)=−2x(x−2). De f(2)=0 e f(0)=2 (interseção com o eixo y), f(x)=−x+2. Então f(−9)+g(3)=(9+2)+(−2·3·1)=11−6=5.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.2"
+                           },
+                           {
+                               "id":  "matematica-rlm-327",
+                               "enunciado":  "No início de certo mês, em um restaurante, o número de pratos correspondia a 80% do número de copos. Ao longo desse mês, foram comprados 60 copos e 20 pratos, e houve o descarte de 45 copos e 8 pratos. No fim do mês, o número de copos excedia em 30 o número de pratos.\n\nNessas condições, o número de copos nesse restaurante no início do mês era igual a",
+                               "alternativas":  {
+                                                    "a":  "120",
+                                                    "b":  "125",
+                                                    "c":  "130",
+                                                    "d":  "135",
+                                                    "e":  "140"
+                                                },
+                               "resposta":  "d",
+                               "explicacao":  "Sendo C o número inicial de copos, os pratos iniciais são 0,8C. No fim do mês, copos=C+60−45=C+15 e pratos=0,8C+20−8=0,8C+12. Como copos excediam pratos em 30: (C+15)−(0,8C+12)=30 → 0,2C=27 → C=135.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.2"
+                           },
+                           {
+                               "id":  "matematica-rlm-328",
+                               "enunciado":  "Em 2025, do início do ano até o dia 31 de março, diariamente, as máquinas A e B produziram, respectivamente, 663 e 1500 peças de certo produto. Do dia 1º de abril em diante, a cada dia, a produção da máquina A aumentou em 29 unidades em relação ao dia anterior e, a cada dia, a produção da máquina B aumentou em 20 unidades em relação ao dia anterior.\n\nNessas condições, qual foi o primeiro dia de 2025 em que a produção diária da máquina A foi maior do que a produção diária da máquina B?",
+                               "alternativas":  {
+                                                    "a":  "25 de maio",
+                                                    "b":  "31 de maio",
+                                                    "c":  "12 de junho",
+                                                    "d":  "24 de junho",
+                                                    "e":  "3 de julho"
+                                                },
+                               "resposta":  "e",
+                               "explicacao":  "Contando os dias após 31 de março, a produção diária é A(n)=663+29n e B(n)=1500+20n. A condição A(n)\u003eB(n) dá 9n\u003e837 → n\u003e93, ou seja, o primeiro dia em que isso ocorre é n=94. Contando 30 dias de abril, 31 de maio e 30 de junho (91 dias), o 94º dia cai em 3 de julho.",
+                               "formato":  "direta",
+                               "origem":  "insper-2026.2"
                            }
                        ]
 };

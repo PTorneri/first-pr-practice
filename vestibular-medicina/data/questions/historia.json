@@ -2975,6 +2975,141 @@
       "explicacao": "Orçamento, hierarquia, treinamento e rotina não são características de desvio individual, e sim de política. É por isso que a tese dos excessos de agentes isolados não se sustenta diante da documentação: a estrutura era oficial, e a violência, funcional a ela.",
       "formato": "direta",
       "dificuldade": "media"
+    },
+    {
+      "id": "historia-196",
+      "enunciado": "As formas de colonização ibérica e inglesa na América foram, durante muito tempo, consideradas processos isolados, estruturados em dois modelos opostos: as colônias de exploração e as de povoamento, respectivamente. No entanto, elas constituíram um emaranhado de experiências compartilhadas pelos impérios atlânticos.\n\nOs aspectos comuns a essas formas de colonização foram a",
+      "alternativas": {
+        "a": "partida dos colonizadores da metrópole, da qual saíram por fatores religiosos, e a adoção do trabalho livre como base da produção.",
+        "b": "dominação e a exploração dos povos originários e o emprego sistemático do trabalho forçado dessas populações.",
+        "c": "introdução de colonos sem interesse na ocupação demográfica e o objetivo exclusivo da extração de riquezas minerais.",
+        "d": "produção local organizada em pequenas propriedades e a utilização primordial da força de trabalho familiar.",
+        "e": "falta de interesse metropolitano pela exploração comercial e a inexistência de benefícios financeiros para a metrópole."
+      },
+      "resposta": "b",
+      "explicacao": "Apesar de tradicionalmente opostos, os modelos de colonização de exploração (ibérica) e de povoamento (inglesa) compartilharam a dominação dos povos originários e o uso sistemático de trabalho forçado — primeiro indígena, depois africano —, o que desfaz a ideia de processos totalmente isolados.",
+      "formato": "direta",
+      "origem": "fuvest-2025"
+    },
+    {
+      "id": "historia-197",
+      "enunciado": "Analise a tabela que mostra a distribuição da população brasileira total por região, segundo grupos populacionais, em 1872.\n\n| Região | População total | População de escravizados | População de brasileiros livres | População de imigrantes estrangeiros |\n|---|---|---|---|---|\n| Extremo Norte | 691 887 | 103 376 | 576 851 | 11 660 |\n| Nordeste | 4 272 295 | 404 003 | 3 840 632 | 27 660 |\n| Oeste | 212 140 | 16 546 | 194 189 | 1 405 |\n| Sul | 721 337 | 93 335 | 573 809 | 54 193 |\n| Centro-Sul | 4 016 922 | 891 306 | 2 977 410 | 148 706 |\n\nOs dados da tabela evidenciam que, no Brasil de 1872,",
+      "alternativas": {
+        "a": "as regiões Nordeste e Centro-Sul reuniam populações maiores de escravizados e de imigrantes estrangeiros devido às exigências de mão de obra nas lavouras de cacau e de algodão.",
+        "b": "as regiões Extremo Norte e Nordeste reuniam as menores populações de escravizados devido à forte presença indígena.",
+        "c": "a população de imigrantes estrangeiros na região Sul era, aproximadamente, o dobro da população de imigrantes estrangeiros na região Centro-Sul, proporcionalmente às respectivas populações totais.",
+        "d": "a população de pessoas livres, em termos absolutos e proporcionais, era maior na região Extremo Norte do que na região Sul.",
+        "e": "as regiões Oeste e Sul reuniam as menores populações de escravizados e de imigrantes estrangeiros em função da exigência de mão de obra especializada na indústria local."
+      },
+      "resposta": "c",
+      "explicacao": "Calculando a proporção de imigrantes sobre a população total: no Sul é de cerca de 7,5% (54.193/721.337) e no Centro-Sul de cerca de 3,7% (148.706/4.016.922) — ou seja, proporcionalmente o Sul tinha quase o dobro da participação de imigrantes estrangeiros do Centro-Sul, confirmando a alternativa c.",
+      "formato": "direta",
+      "origem": "unesp-2026-1"
+    },
+    {
+      "id": "historia-198",
+      "enunciado": "Um \"Mapa do Céu\", desenhado no século XIII numa parede da Igreja de Saint-Sernin, na cidade de Toulouse (sul da França), representa o cosmos em círculos concêntricos, com o planeta Terra imóvel no centro do universo, cercado pelas esferas celestes.\n\nNesse mapa, o planeta Terra é representado imóvel no centro do universo, em consonância com os saberes de astronomia",
+      "alternativas": {
+        "a": "baseados na irregularidade dos movimentos da Terra e do Sol.",
+        "b": "inspirados na valorização da luz solar na arquitetura religiosa.",
+        "c": "sustentados pela concepção dos seres humanos como criaturas eleitas de Deus.",
+        "d": "comprovados empiricamente graças ao emprego dos telescópios.",
+        "e": "difundidos para consolidar a tese de que o Sol é o planeta mais importante do Universo."
+      },
+      "resposta": "c",
+      "explicacao": "O geocentrismo medieval refletia a cosmovisão teológica cristã, segundo a qual a Terra ocupava o centro do universo por ser habitada pelo ser humano, criatura central da criação divina — e não por comprovação empírica, já que o telescópio só surgiria no século XVII.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "historia-199",
+      "enunciado": "Trecho do \"Manifesto Republicano\", publicado pela primeira vez no jornal \"A República\" em 3 de dezembro de 1870: \"A centralização, tal qual existe, representa o despotismo, dá força ao poder pessoal, comprime a liberdade, subordina o direito de todos ao arbítrio de um só poder, mata o estímulo do progresso local, suga a riqueza peculiar das províncias, constituindo-as satélites obrigados do grande astro da corte.\"\n\nA metáfora astronômica empregada pelos republicanos",
+      "alternativas": {
+        "a": "enaltece o clima de paz política do Segundo Reinado.",
+        "b": "expõe a igualdade do republicanismo brasileiro com os regimes latino-americanos.",
+        "c": "exprime a defesa do Poder Moderador.",
+        "d": "mostra a oposição de setores das oligarquias provinciais ao poder central.",
+        "e": "denuncia a inconstitucionalidade dos poderes imperiais."
+      },
+      "resposta": "d",
+      "explicacao": "A imagem das províncias como \"satélites\" do \"astro da corte\" denuncia a centralização política e financeira no Rio de Janeiro em detrimento das províncias, expressando o descontentamento de setores das elites provinciais com a concentração de poder do Segundo Reinado — não uma defesa da monarquia ou do Poder Moderador.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "historia-200",
+      "enunciado": "A Constituição Federal de 1988, ao reconhecer aos povos indígenas o direito às terras que habitam, favoreceu processos de demarcação e delimitação de territórios. As terras indígenas são definidas na Constituição como \"as habitadas em caráter permanente; as utilizadas para suas atividades produtivas, as imprescindíveis à preservação dos recursos ambientais necessários a seu bem-estar; e as necessárias a sua reprodução física e cultural, segundo seus usos, costumes e tradições\".\n\nA propósito das terras indígenas, a Constituição de 1988",
+      "alternativas": {
+        "a": "determinou a integração dos indígenas à cultura dominante da sociedade brasileira.",
+        "b": "solucionou as questões históricas concernentes às reservas indígenas.",
+        "c": "instituiu um direito legítimo à posse coletiva de terras.",
+        "d": "conciliou os interesses dos proprietários rurais com as reivindicações indígenas.",
+        "e": "reafirmou a primazia do critério econômico para o acesso às propriedades rurais."
+      },
+      "resposta": "c",
+      "explicacao": "A Constituição de 1988 reconheceu como originário o direito dos indígenas às terras que tradicionalmente ocupam, garantindo-lhes a posse permanente e coletiva e o usufruto exclusivo das riquezas do solo — sem, contudo, resolver definitivamente os conflitos fundiários ou impor assimilação cultural.",
+      "formato": "direta",
+      "origem": "santacasa-2024"
+    },
+    {
+      "id": "historia-201",
+      "enunciado": "O processo de unificação e formação do Estado italiano ocorreu na segunda metade do século XIX, em um panorama europeu marcado pela",
+      "alternativas": {
+        "a": "eclosão de guerras generalizadas entre as nações capitalistas e pelo início da hegemonia britânica sobre a economia mundial.",
+        "b": "consolidação de governos populares nos Estados nacionais e pelo apoio da Igreja católica às unificações políticas na Europa oriental.",
+        "c": "associação dos movimentos socialistas com os ideais nacionalistas e pelo surgimento dos Estados socialistas na Europa ocidental.",
+        "d": "propagação da economia industrial no Ocidente europeu e pela ampliação dos conflitos entre as potências do continente.",
+        "e": "permanência da ordem política imposta pelo Congresso de Viena e pela repressão ao socialismo coordenada pela Santa Aliança."
+      },
+      "resposta": "d",
+      "explicacao": "As unificações italiana e alemã ocorreram num contexto de industrialização acelerada e de crescente rivalidade entre as potências europeias pela hegemonia econômica e territorial no continente, e não de guerras generalizadas contra o socialismo ou de hegemonia britânica isolada.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "historia-202",
+      "enunciado": "Uma charge de Ângelo Agostini, publicada na revista *Diabo Coxo* em 1865, mostra uma locomotiva a vapor (com um homem inglês na cabine) arrastando à força, por uma corda, um homem de chapéu (representando um tropeiro/comitiva de mulas), com a legenda: \"— Se o ingreis do diabo não me paga a mula prendo-lhe a comitiva.\"\n\nA charge caricatura o transporte ferroviário em fase de instalação na província de São Paulo, na segunda metade do século XIX, mostrando",
+      "alternativas": {
+        "a": "o impacto da modernização tecnológica nas atividades econômicas tradicionais de acumulação de capital.",
+        "b": "a transferência da tecnologia de fabricação de locomotivas a vapor do parque industrial britânico para a cidade de São Paulo.",
+        "c": "o efeito das novidades tecnológicas na transformação da mentalidade economicamente conservadora do empresariado paulista.",
+        "d": "a oposição de setores das classes dominantes brasileiras à exploração das riquezas da nação pelo imperialismo inglês.",
+        "e": "os ganhos monetários da oligarquia cafeeira com o advento de novos meios de transporte."
+      },
+      "resposta": "a",
+      "explicacao": "A charge contrapõe a locomotiva a vapor, símbolo da modernização tecnológica de capital britânico, ao tropeiro e sua comitiva de mulas, forma tradicional de transporte e acumulação de capital que via seu espaço econômico ser tomado pela ferrovia — evidenciando o impacto da nova tecnologia sobre atividades econômicas tradicionais.",
+      "formato": "direta",
+      "origem": "santacasa-2025"
+    },
+    {
+      "id": "historia-203",
+      "enunciado": "Analise os dados estatísticos sobre o comércio internacional e intercontinental de escravizados (fonte: banco de dados acadêmico slavevoyages.org), com números de pessoas traficadas por faixa de anos e destino (Europa, América do Norte Continental, Caribe, América Espanhola Continental, Brasil, África, Outros), do período 1501-1525 até 1851-1875. Nos dois primeiros séculos cobertos pela tabela (1501 a 1600), os números são dominados pelo Caribe e pela América Espanhola Continental, com valores muito baixos ainda para o Brasil e a América do Norte Continental.\n\nPara o período de 1501 a 1600, os dados registram",
+      "alternativas": {
+        "a": "a inexistência, em todo o período, de formas de trabalho compulsório escravista nas economias das nações do continente europeu.",
+        "b": "o predomínio da concentração da mão de obra traficada internacionalmente nas regiões do Caribe e da América Espanhola Continental.",
+        "c": "os números totais da população africana e indígena nas sociedades coloniais da América Luso-Espanhola.",
+        "d": "os índices das expectativas de vida da mão de obra africana nas atividades econômicas de mineração e agricultura.",
+        "e": "o aumento constante do número de trabalhadores e de escravizados explorados nas atividades econômicas do continente africano."
+      },
+      "resposta": "b",
+      "explicacao": "Como o próprio enunciado descreve, entre 1501 e 1600 o tráfico transatlântico de escravizados concentrava-se no Caribe e na América Espanhola Continental, com números ainda muito baixos para o Brasil e a América do Norte Continental, que só cresceriam significativamente nos séculos seguintes.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
+    },
+    {
+      "id": "historia-204",
+      "enunciado": "Comparando-se os números dos escravizados entrados na América do Norte Continental com os do Brasil, de 1751 a 1825 (segundo a mesma tabela da questão anterior, em que o Brasil recebe uma quantidade crescente e muito superior de africanos nesse período, enquanto a América do Norte Continental recebe uma quantidade menor, mas também crescente), constata-se que",
+      "alternativas": {
+        "a": "os números oscilam no Brasil e na América do Norte devido à expansão da economia do café no Brasil e à Guerra Civil nos Estados Unidos.",
+        "b": "o número de trabalhadores escravizados desacelera na América do Norte e no Brasil como consequência da reorientação do tráfico de africanos para as economias asiáticas.",
+        "c": "o número de entradas de mão de obra africana na América do Norte é superior ao do Brasil em decorrência do dinamismo da economia dos Estados Unidos.",
+        "d": "o número de africanos cresce na América do Norte e no Brasil em decorrência dos processos históricos de formação de Estados independentes nos dois países.",
+        "e": "os números crescem no Brasil e oscilam na América do Norte na conjuntura histórica da industrialização inglesa e da Independência dos Estados Unidos."
+      },
+      "resposta": "e",
+      "explicacao": "Entre 1751 e 1825, o volume de escravizados trazidos ao Brasil cresceu continuamente, impulsionado pela expansão da economia açucareira, mineira e cafeeira, enquanto na América do Norte o fluxo oscilou, refletindo fatores como o processo de Independência dos Estados Unidos (1776) e as mudanças na demanda por mão de obra ligadas à industrialização inglesa.",
+      "formato": "direta",
+      "origem": "santacasa-2026"
     }
   ]
 }

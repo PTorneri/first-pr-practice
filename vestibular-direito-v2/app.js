@@ -394,6 +394,32 @@
         cfg.resumo;
     }
 
+    // A lista de venda do onboarding (.pitch-list) era HTML fixo, escrito só
+    // para a trilha de Direito ("16 frentes", simulado de "~45 questões",
+    // caderno oficial da FGV/Insper) — errado para qualquer outra trilha. Os
+    // cinco itens que variam por curso vêm de cfg.onboardingUI; os quatro que
+    // não dependem de trilha (rotina diária, caderno de erros, teoria/cards/SOS,
+    // conta Google) ficam fixos aqui. obrasTeaser some se a trilha não tiver a
+    // aba Obras (caso de Economia).
+    const pitchList = document.querySelector("#view-onboarding .pitch-list");
+    const onbUI = cfg.onboardingUI;
+    if (pitchList && onbUI) {
+      const itens = [
+        "Todo dia: <strong>1 a 2 vídeo-aulas</strong> sugeridas + <strong>20 a 30 exercícios</strong> comentados",
+        onbUI.frentesResumo,
+        onbUI.dissertativas,
+        onbUI.redacaoTeaser,
+        onbUI.simuladoMisto,
+        "<strong>Caderno de Erros</strong>: toda questão que você errar reaparece numa aba própria pra você " +
+          "treinar de novo, até acertar",
+        "Teoria (gatilhos e pegadinhas) antes dos exercícios, <strong>flashcards</strong> com repetição " +
+          "espaçada, sessão <strong>SOS</strong> por tema e um <strong>score projetado</strong> pra prova",
+        onbUI.obrasTeaser,
+        "Progresso salvo na <strong>sua conta Google</strong> — disponível em qualquer aparelho",
+      ].filter(Boolean);
+      pitchList.innerHTML = itens.map((html) => "<li>" + html + "</li>").join("");
+    }
+
     // Abas que não existem nesta trilha somem — botão e painel. Em Medicina é o
     // caso de "Obras": obras obrigatórias são um instrumento da FGV.
     document.querySelectorAll(".tab-btn").forEach((btn) => {

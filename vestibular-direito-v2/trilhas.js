@@ -102,6 +102,30 @@
                             "Nenhuma é cobrada, mas continuam úteis como repertório para a redação e para as discursivas. " +
                             "Priorize a lista de cima.",
       },
+      // Rótulos da lista de venda do onboarding (view-onboarding, .pitch-list em
+      // index.html). Ficavam fixos em app.js/index.html, escritos para a FGV e
+      // o Insper — e a trilha de Medicina exibia "16 frentes", um simulado de
+      // "~45 questões" e a promessa de um caderno oficial de 60 em blocos de 15
+      // que ela não tem (SIMULADO_OFICIAL, em schedule.js, só cobre fgv/insper).
+      // Cada trilha escreve o que de fato oferece; nada aqui é reaproveitado
+      // por outra.
+      onboardingUI: {
+        frentesResumo: "16 frentes de estudo, cada uma revisada <strong>mais de uma vez</strong> ao longo dos 90 " +
+                       "dias — com mais frequência para as frentes que mais caem nas provas reais, segundo um " +
+                       "estudo de 6 anos de exames",
+        dissertativas: "Ao terminar os exercícios do dia, você escolhe se quer treinar <strong>questões " +
+                       "dissertativas</strong> (Humanas, Linguagens e Arte, no estilo da prova discursiva da FGV) " +
+                       "— meta de <strong>4x por semana</strong>, nos dias que você quiser",
+        redacaoTeaser: "Aba <strong>Redação</strong> à parte, com 60 propostas dissertativo-argumentativas de 20 " +
+                       "a 30 linhas e a grade de correção oficial da FGV e do Insper",
+        simuladoMisto: "Todo <strong>domingo</strong> vira um <strong>simulado misto</strong> de ~45 questões, " +
+                       "distribuídas entre as 16 frentes por prioridade — e a semana seguinte passa a focar mais " +
+                       "nos temas em que você mais errou. No mesmo card você pode trocar pelo <strong>caderno " +
+                       "oficial de 60 questões</strong> da FGV ou da Insper, em quatro blocos de 15 na ordem " +
+                       "exata da prova",
+        obrasTeaser: "Obras obrigatórias da FGV (Artes e Questões Contemporâneas) numa aba própria, com resumo e " +
+                     "análise pelos eixos da banca",
+      },
       plano: {
         totalDias: 90,
         frentesPorDia: 2,
@@ -172,6 +196,28 @@
                             "com Cézanne e obras de acervo do MASP, a Unesp parte de um ensaio sobre Courbet e de capa de álbum, e a " +
                             "Unicamp usa cinema brasileiro. Como repertório de redação e de leitura de imagem, servem. Priorize a " +
                             "lista de cima.",
+      },
+      // Ver o comentário sobre onboardingUI na trilha de Direito, acima: cada
+      // trilha escreve a própria lista de venda do onboarding. Duas diferenças
+      // importam aqui: a dissertativa não tem meta semanal de frequência (o
+      // banco ainda é semente inicial — 6 questões, ver
+      // vestibular-medicina/data/dissertativas.js), e não existe promessa de
+      // "caderno oficial" no simulado — o app só sabe montar os cadernos da
+      // FGV e do Insper (SIMULADO_OFICIAL em schedule.js), nenhum das sete
+      // bancas de Medicina.
+      onboardingUI: {
+        frentesResumo: "13 frentes de estudo, cada uma revisada <strong>mais de uma vez</strong> ao longo dos 90 " +
+                       "dias — com mais frequência para as frentes que mais caem nas provas reais, segundo um " +
+                       "estudo que leu 25 cadernos oficiais das sete bancas",
+        dissertativas: "Ao terminar os exercícios do dia, você pode treinar <strong>questões dissertativas</strong> " +
+                       "— corrigidas por checklist, no formato de subitens a) e b) com figura ou excerto de apoio, " +
+                       "comum às sete bancas desta trilha",
+        redacaoTeaser: "Aba <strong>Redação</strong> à parte, com 60 propostas dissertativo-argumentativas e a " +
+                       "grade de correção oficial das sete bancas desta trilha",
+        simuladoMisto: "Todo <strong>domingo</strong> vira um <strong>simulado misto</strong> de ~50 questões, " +
+                       "distribuídas entre as 13 frentes por prioridade — e a semana seguinte passa a focar mais " +
+                       "nos temas em que você mais errou",
+        obrasTeaser: "Obras obrigatórias da FUVEST e da Unicamp numa aba própria, com resumo e análise crítica",
       },
       plano: {
         totalDias: 90,
@@ -317,6 +363,28 @@
         hint: "Aqui a redação pesa mais do que em qualquer outra trilha: <strong>20% da nota final</strong> na FGV " +
               "EESP (o dobro do que vale em Direito) e <strong>25% da média final</strong> no Insper, com corte " +
               "eliminatório nas duas. Nenhuma das duas exige proposta de intervenção — isso é regra do ENEM.",
+      },
+      // Ver o comentário sobre onboardingUI na trilha de Direito, acima. Mesma
+      // banca (FGV e Insper), mas dois pontos não se herdam: a dissertativa
+      // aqui é só de Matemática, corrigida por faixa de 0 a 100% (não por
+      // checklist), e o simulado misto não oferece caderno oficial — os blocos
+      // de SIMULADO_OFICIAL (schedule.js) indexam frentes como "matematica-rlm"
+      // e "ciencias-natureza", que não existem no banco desta trilha (aqui
+      // Matemática é cinco frentes separadas), então o caderno sairia incompleto.
+      onboardingUI: {
+        frentesResumo: "20 frentes de estudo, cada uma revisada <strong>mais de uma vez</strong> ao longo dos 90 " +
+                       "dias — com mais frequência para as frentes que mais caem nas provas reais, segundo um " +
+                       "estudo de 6 anos de provas da FGV e do Insper",
+        dissertativas: "Ao terminar os exercícios do dia, você escolhe se quer treinar <strong>questões " +
+                       "dissertativas de Matemática</strong>, no estilo das discursivas da FGV EESP e do Insper " +
+                       "— corrigidas por faixa de 0 a 100%, não por certo ou errado",
+        redacaoTeaser: "Aba <strong>Redação</strong> à parte, com 80 propostas dissertativo-argumentativas de 20 " +
+                       "a 30 linhas e a grade de correção oficial da FGV e do Insper",
+        simuladoMisto: "Todo <strong>domingo</strong> vira um <strong>simulado misto</strong> de ~60 questões, " +
+                       "distribuídas entre as 20 frentes por prioridade — e a semana seguinte passa a focar mais " +
+                       "nos temas em que você mais errou",
+        // Sem obrasTeaser: esta trilha não tem aba de obras (ver o comentário
+        // acima de "abas", nesta mesma trilha).
       },
       plano: {
         totalDias: 90,

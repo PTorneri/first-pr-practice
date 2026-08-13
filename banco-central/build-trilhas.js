@@ -37,6 +37,7 @@ const crypto = require("crypto");
 const RAIZ = path.join(__dirname, "..");
 const QUESTOES = path.join(__dirname, "data", "questions");
 const SUBTEMAS_DIR = path.join(__dirname, "data", "subtemas");
+const FLASHCARDS_DIR = path.join(__dirname, "data", "flashcards");
 const MANIFESTO = path.join(__dirname, "data", "origem-dos-bundles.json");
 
 const { META } = require("./subtemas-meta.js");
@@ -126,14 +127,29 @@ function carregarBancoCentral() {
     Object.entries(JSON.parse(bruto).mapa || {}).forEach(([id, v]) => { classificacao[id] = v; });
   });
 
-  return { frentes, classificacao, origem };
+  // Flashcards, por SUBTEMA -- um arquivo por frente (mesma pasta que
+  // data/questions), cada um com `porSubtema[subtemaId]` = array de
+  // {id, frente, verso}. Autoral, escrito à mão, um fato por card -- ver
+  // banco-central/README.md. ~60 é o piso combinado; alguns subtemas ainda
+  // não têm deck (migração em andamento), e isso é avisado no fim do build,
+  // não travado: travar aqui quebraria o app inteiro até os 83 estarem prontos.
+  const flashcards = {};
+  if (fs.existsSync(FLASHCARDS_DIR)) {
+    fs.readdirSync(FLASHCARDS_DIR).filter((f) => f.endsWith(".json")).forEach((arq) => {
+      const bruto = fs.readFileSync(path.join(FLASHCARDS_DIR, arq), "utf8");
+      origem["flashcards/" + arq] = hash(bruto);
+      Object.entries(JSON.parse(bruto).porSubtema || {}).forEach(([id, cards]) => { flashcards[id] = cards; });
+    });
+  }
+
+  return { frentes, classificacao, flashcards, origem };
 }
 
 // ------------------------------------------------------------------ composição
 
 function comporTrilha(trilhaId, central) {
   const cfg = TRILHAS[trilhaId];
-  const { frentes, classificacao } = central;
+  const { frentes, classificacao, flashcards } = central;
   const problemas = [];
 
   const banks = {};        // por subtema
@@ -214,7 +230,17 @@ function comporTrilha(trilhaId, central) {
     });
   });
 
-  return { banks, banksFrente, textos, subtopics, problemas };
+  // Flashcards: não entra em `problemas` (não trava o build) de propósito --
+  // ver o comentário em carregarBancoCentral. `subtemasSemFlashcards` alimenta
+  // só o aviso no final de main().
+  const flashcardsPorSubtema = {};
+  const subtemasSemFlashcards = [];
+  subtopics.forEach((s) => {
+    if (flashcards[s.id] && flashcards[s.id].length) flashcardsPorSubtema[s.id] = flashcards[s.id];
+    else subtemasSemFlashcards.push(s.id);
+  });
+
+  return { banks, banksFrente, textos, subtopics, problemas, flashcardsPorSubtema, subtemasSemFlashcards };
 }
 
 // ------------------------------------------------------------------- verificação
@@ -348,7 +374,7 @@ function main() {
     process.exit(1);
   }
 
-  resultados.forEach(({ trilha, banks, banksFrente, textos, subtopics, pesos }) => {
+  resultados.forEach(({ trilha, banks, banksFrente, textos, subtopics, pesos, flashcardsPorSubtema }) => {
     const dir = TRILHAS[trilha].dataDir;
     fs.mkdirSync(dir, { recursive: true });
 
@@ -435,6 +461,19 @@ function main() {
       "// A fonte é banco-central/data/videos.json (mapa em banco-central/videos.js).\n\n" +
       "window.VIDEO_TOPICS = " + JSON.stringify(videos, null, 1) + ";\n", "utf8");
 
+    // Flashcards de repetição espaçada, por SUBTEMA -- um card é um fato
+    // atômico e não muda com o edital, então (diferente da teoria) não varia
+    // por trilha nem por banca: quem estuda Biologia em Medicina ou em
+    // Economia lê o mesmo card sobre citologia. A fonte é
+    // banco-central/data/flashcards/*.json, autoral, um arquivo por frente.
+    // Nem todo subtema tem deck ainda (migração em andamento por área,
+    // partindo de Matemática) -- os que faltam ficam ausentes daqui, e a aba
+    // Cards mostra menos assuntos até o deck existir. Ver aviso no console.
+    fs.writeFileSync(path.join(dir, "flashcards.js"),
+      cabecalho("Flashcards de repetição espaçada da trilha de " + TRILHAS[trilha].nome + ", por subtema.") +
+      "// A fonte é banco-central/data/flashcards/*.json (um arquivo por frente).\n\n" +
+      "window.FLASHCARDS = " + JSON.stringify(flashcardsPorSubtema, null, 1) + ";\n", "utf8");
+
     // A teoria continua por FRENTE e por TRILHA: ela fala da banca, e o texto de
     // Biologia em Medicina cita as discursivas da Santa Casa. Só as chaves
     // mudaram, para acompanhar a fusão das frentes.
@@ -467,16 +506,21 @@ function main() {
 
   console.log("Bundles por trilha");
   console.log("══════════════════");
-  resultados.forEach(({ trilha, banks, banksFrente, subtopics, textos }) => {
+  resultados.forEach(({ trilha, banks, banksFrente, subtopics, textos, flashcardsPorSubtema, subtemasSemFlashcards }) => {
     const total = Object.values(banksFrente).reduce((s, a) => s + a.length, 0);
+    const totalCards = Object.values(flashcardsPorSubtema).reduce((s, a) => s + a.length, 0);
     console.log("\n" + TRILHAS[trilha].nome + ": " + total + " questões, " +
       Object.keys(banksFrente).length + " frentes, " + subtopics.length + " subtemas, " +
-      Object.keys(textos).length + " textos");
+      Object.keys(textos).length + " textos, " + totalCards + " flashcards");
     const menores = Object.entries(banks).filter(([, q]) => q.length < 25)
       .sort((a, b) => a[1].length - b[1].length);
     if (menores.length) {
       console.log("  subtemas com menos de 25 questões: " +
         menores.map(([s, q]) => s + " (" + q.length + ")").join(", "));
+    }
+    if (subtemasSemFlashcards.length) {
+      console.log("  subtemas SEM flashcards (" + subtemasSemFlashcards.length + "/" + subtopics.length + "): " +
+        subtemasSemFlashcards.join(", "));
     }
   });
 }

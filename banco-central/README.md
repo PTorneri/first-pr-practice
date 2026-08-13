@@ -20,6 +20,7 @@ banco-central/data/questions/<frente>.json     as questões (fonte)
                                           priority-weights.js   ← pesos.js
                                           video-topics.js       ← data/videos.json
                                           theory.js             ← data/teoria.json
+                                          flashcards.js         ← data/flashcards/<frente>.json
 ```
 
 `videos.json` e `teoria.json` foram consolidados uma vez, na migração, a partir
@@ -27,6 +28,15 @@ dos arquivos que existiam em cada trilha (`node banco-central/videos.js
 --consolidar` e `node banco-central/teoria.js --consolidar`). Os mapas que
 guiaram a consolidação ficam em `videos.js` e `teoria.js`, e é neles que se mexe
 para acrescentar uma aula ou corrigir uma teoria.
+
+`data/flashcards/<frente>.json` não teve consolidação: é conteúdo novo,
+autoral, escrito subtema a subtema (~60+ cards cada). Diferente da teoria, um
+flashcard é um FATO que não muda com o edital, então não varia por trilha nem
+por banca — é por isso que mora aqui e não em `teoria.js`/`videos.js`, que são
+POR TRILHA. Migração em andamento: nem todo subtema tem deck ainda, e
+`build-trilhas.js` avisa no console quais faltam sem travar o build (rodar sem
+todos os 79 prontos é esperado por um tempo). Formato de cada arquivo:
+`{ frente, gerado, porSubtema: { "<subtema-id>": [{id, frente, verso}, ...] } }`.
 
 Os três arquivos gerados em cada trilha são **artefato, não fonte**. Corrigir
 uma questão é mexer em `banco-central/data/questions/` e rodar o build.

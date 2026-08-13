@@ -1,5 +1,5 @@
 // GERADO por banco-central/build-trilhas.js -- nao edite a mao.
-// Flashcards de repetição espaçada da trilha de Direito, por subtema.
+// Flashcards de repetição espaçada da trilha de Engenharia, por subtema.
 // A fonte e banco-central/data/questions/*.json (as questoes) e
 // banco-central/data/subtemas/*.json (o subtema de cada uma).
 //

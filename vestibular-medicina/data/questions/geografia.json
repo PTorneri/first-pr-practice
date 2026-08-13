@@ -3243,7 +3243,7 @@
         "e": "perda de competitividade das exportações nos países que tentam abandonar a moeda de referência atual antes de ajustar sua economia"
       },
       "resposta": "d",
-      "explicacao": "Des-dolarização é o termo usado para o movimento de reduzir a dependência do dólar em reservas e transações internacionais. O maior obstáculo é prático: nenhuma outra moeda hoje reúne liquidez, estabilidade e aceitação equivalentes, o que torna o processo lento mesmo entre países interessados em avançar nele. As demais opções combinam termos de outras áreas da economia (financeirização, protecionismo, estagflação, desindustrialização) que não descrevem esse movimento específico.",
+      "explicacao": "Des-dolarização é o termo usado para o movimento de reduzir a dependência do dólar em reservas e transações internacionais. O maior obstáculo é prático: nenhuma outra moeda hoje reúne liquidez, estabilidade e aceitação equivalentes, o que torna o processo lento mesmo entre países interessados em avançar nele. As demais opções combinam termos de outras áreas da economia (financeirização, protecionismo, estagflação, queda de competitividade) que não descrevem esse movimento específico.",
       "formato": "lacunas"
     },
     {
@@ -3278,7 +3278,7 @@
     },
     {
       "id": "geografia-217",
-      "texto_apoio": "O termo passou a ser usado para agrupar países da América Latina, África e Ásia que, apesar de diferenças profundas entre si, compartilham posição historicamente periférica na economia mundial, no chamado eixo centro-periferia.",
+      "texto_apoio": "O termo passou a ser usado para agrupar países da América Latina, África e Ásia que, apesar de diferenças profundas entre si, compartilham posição historicamente periférica na economia mundial, situação típica dos chamados países periféricos.",
       "enunciado": "Esse agrupamento é conhecido como:",
       "alternativas": {
         "a": "Comunidade dos Estados Independentes, organização formada a partir de repúblicas que integravam a antiga União Soviética",
@@ -3288,7 +3288,7 @@
         "e": "Zona do Euro, conjunto de países que adotam moeda única sob coordenação de um banco central comum sediado em Frankfurt"
       },
       "resposta": "d",
-      "explicacao": "Sul Global é o termo hoje mais usado para o agrupamento descrito: não indica posição estritamente geográfica, mas uma trajetória histórica comum de colonização e industrialização tardia diante dos países centrais. As demais opções nomeiam agrupamentos reais, mas diferentes: Zona do Euro (e) é sobre moeda comum europeia, Comunidade dos Estados Independentes (a) é pós-soviética, e as outras duas (b, c) são termos que não correspondem a organizações existentes com essa definição.",
+      "explicacao": "Sul Global é o termo hoje mais usado para o agrupamento descrito: não indica posição estritamente geográfica, mas uma trajetória histórica comum de colonização e modernização econômica tardia diante dos países centrais. As demais opções nomeiam agrupamentos reais, mas diferentes: Zona do Euro (e) é sobre moeda comum europeia, Comunidade dos Estados Independentes (a) é pós-soviética, e as outras duas (b, c) são termos que não correspondem a organizações existentes com essa definição.",
       "formato": "direta"
     },
     {

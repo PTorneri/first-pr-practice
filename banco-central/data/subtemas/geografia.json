@@ -12,8 +12,7 @@
   "med-geografia-76",
   "med-geografia-150",
   "med-geografia-165",
-  "med-geografia-202",
-  "med-geografia-213"
+  "med-geografia-202"
  ],
  "mapa": {
   "dir-geografia-01": {
@@ -2305,27 +2304,28 @@
    "margem": 5
   },
   "med-geografia-212": {
-   "subtema": "geografia-fisica-clima",
+   "subtema": "geografia-geopolitica",
    "frenteDestino": "geografia",
    "pontos": 5,
-   "margem": 0
+   "margem": 5
   },
   "med-geografia-213": {
-   "subtema": "geografia-populacao-urbana",
+   "subtema": "geografia-geopolitica",
    "frenteDestino": "geografia",
-   "padrao": true
+   "pontos": 9,
+   "margem": 9
   },
   "med-geografia-214": {
-   "subtema": "geografia-agraria-economica",
+   "subtema": "geografia-geopolitica",
    "frenteDestino": "geografia",
    "pontos": 5,
    "margem": 5
   },
   "med-geografia-215": {
-   "subtema": "geografia-fisica-clima",
+   "subtema": "geografia-geopolitica",
    "frenteDestino": "geografia",
-   "pontos": 5,
-   "margem": 0
+   "pontos": 9,
+   "margem": 4
   },
   "med-geografia-216": {
    "subtema": "geografia-geopolitica",
@@ -2334,22 +2334,22 @@
    "margem": 4
   },
   "med-geografia-217": {
-   "subtema": "geografia-agraria-economica",
+   "subtema": "geografia-geopolitica",
    "frenteDestino": "geografia",
-   "pontos": 5,
-   "margem": 5
+   "pontos": 4,
+   "margem": 4
   },
   "med-geografia-218": {
-   "subtema": "geografia-agraria-economica",
-   "frenteDestino": "geografia",
-   "pontos": 3,
-   "margem": 3
-  },
-  "med-geografia-219": {
-   "subtema": "geografia-fisica-clima",
+   "subtema": "geografia-geopolitica",
    "frenteDestino": "geografia",
    "pontos": 5,
-   "margem": 1
+   "margem": 2
+  },
+  "med-geografia-219": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 4,
+   "margem": 4
   }
  }
 }

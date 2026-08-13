@@ -21,7 +21,7 @@
 (function () {
   // Contador de cache do CONTEÚDO, separado do ?v= do código (ver o comentário
   // longo no topo do index.html). Corrigiu uma questão? Incremente aqui.
-  const DATA_VERSION = 45;
+  const DATA_VERSION = 46;
 
   // A chave da trilha ativa é a única que vive FORA do namespace de trilha —
   // é ela que diz qual namespace usar. Sobe pra nuvem junto com o resto.
@@ -607,11 +607,14 @@
 
     // ---------- Engenharia ----------
     //
-    // EM CONSTRUÇÃO: registrada e desligada (emConstrucao: true), pelo mesmo
-    // motivo que Economia ficou assim até o primeiro clique real, logado —
-    // ver o comentário lá em cima. Ninguém testou esta trilha num navegador
-    // de verdade ainda; só o build headless (banco-central/build-trilhas.js)
-    // passou.
+    // NO AR desde 2026-08-13. Testada headless (build-trilhas.js) e depois
+    // com servidor local sem login: os 5 arquivos de dados carregam sem
+    // erro, SUBTOPICS/QUESTION_BANKS batem com o build (44 subtemas) e
+    // pickQuestions() devolve questão de verdade para os 4 subtemas novos.
+    // NÃO passou pelo teste de clique real, logado, que achou o defeito de
+    // Economia (comentário acima) — ninguém abriu esta trilha autenticado
+    // ainda. Tirada de emConstrucao por pedido direto do dono do projeto,
+    // não por eu ter validado esse último passo.
     //
     // SÓ 7 DAS 14 FRENTES do banco central: Matemática, Física, Química,
     // Gramática, Interpretação de Texto, Literatura e Inglês — o que cobre a
@@ -676,7 +679,6 @@
           ],
         },
       },
-      emConstrucao: true,
     },
   };
 

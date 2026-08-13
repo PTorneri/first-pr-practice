@@ -2470,6 +2470,186 @@
       "explicacao": "Ao mencionar \"as leis dos contos como este\", o narrador comenta as próprias convenções do gênero em que a fábula se insere, expondo dentro da narrativa as regras que a regem — procedimento típico da metalinguagem.",
       "formato": "direta",
       "origem": "santacasa-2026"
+    },
+    {
+      "id": "literatura-301",
+      "texto_apoio": "\"Ela não sabia que a espreitava a pergunta essencial: 'existo?'.\" (trecho representativo do estilo de romances contemporâneos centrados numa personagem simples diante da própria existência.)",
+      "enunciado": "Esse tipo de narrativa, marcada pela introspecção de uma personagem comum diante de perguntas existenciais, é característica da obra de:",
+      "alternativas": {
+        "a": "um autor que privilegia o suspense policial com reviravoltas centradas na resolução de um crime específico",
+        "b": "um cronista que retrata com humor leve o cotidiano da classe média urbana em crônicas de jornal semanais",
+        "c": "uma escritora voltada principalmente à reconstituição histórica minuciosa de eventos políticos e batalhas do século 19 brasileiro",
+        "d": "uma autora que investiga o instante de epifania de personagens simples diante da própria condição, como em \"A Hora da Estrela\"",
+        "e": "uma poeta que constrói poemas visuais organizados espacialmente na página, sem qualquer narrativa em prosa"
+      },
+      "resposta": "d",
+      "explicacao": "A obra descrita evoca o estilo de Clarice Lispector, que investiga o instante de epifania e a interioridade de personagens simples diante da própria existência — Macabéa, em \"A Hora da Estrela\", é o exemplo mais citado. As demais alternativas descrevem outros perfis de escrita, sem relação com esse tipo de introspecção existencial.",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-302",
+      "texto_apoio": "\"Viver é muito perigoso...\" Um narrador sertanejo reconta, em linguagem inventiva e repleta de neologismos, sua trajetória entre o amor e a violência do sertão.",
+      "enunciado": "Esse romance, considerado um marco da prosa brasileira do século 20 pela reinvenção da linguagem, é:",
+      "alternativas": {
+        "a": "um ensaio sociológico sobre a formação econômica das regiões produtoras de café do país",
+        "b": "um romance urbano centrado na rotina de um funcionário público das grandes capitais do país",
+        "c": "uma coletânea de crônicas jornalísticas publicadas semanalmente ao longo de uma década",
+        "d": "uma peça teatral escrita para ser encenada apenas em espaços públicos abertos durante festivais de teatro de rua no interior",
+        "e": "\"Grande Sertão: Veredas\", narrado por Riobaldo, com a ambiguidade em torno da figura de Diadorim"
+      },
+      "resposta": "e",
+      "explicacao": "\"Grande Sertão: Veredas\" é narrado por Riobaldo, e reinventa a linguagem através de neologismos e uma sintaxe própria, com a ambiguidade de gênero em torno de Diadorim como um dos eixos centrais da trama. As demais alternativas descrevem gêneros textuais distintos, sem relação com o romance descrito.",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-303",
+      "texto_apoio": "Moradora de uma favela paulistana, uma catadora de papel registrou em cadernos o cotidiano de fome e humilhação vivido por sua família, texto publicado décadas antes de o termo \"literatura marginal\" se consolidar.",
+      "enunciado": "Essa autora e seu diário, hoje lidos como marco pioneiro da escrita de testemunho popular no Brasil, são, respectivamente:",
+      "alternativas": {
+        "a": "uma poeta acadêmica e um livro de sonetos publicado por uma editora universitária de grande prestígio",
+        "b": "Carolina Maria de Jesus e \"Quarto de Despejo\", diário que registra a fome e a humilhação vividas na favela",
+        "c": "uma jornalista estrangeira e uma reportagem publicada originalmente em revista de circulação internacional",
+        "d": "uma romancista de família tradicional e um romance histórico ambientado no período colonial brasileiro",
+        "e": "uma dramaturga contemporânea e uma peça de teatro encenada apenas uma vez em festival regional"
+      },
+      "resposta": "b",
+      "explicacao": "Carolina Maria de Jesus escreveu \"Quarto de Despejo\" a partir de cadernos onde registrava o cotidiano de fome na favela do Canindé, em São Paulo — hoje lido como marco pioneiro da escrita de testemunho popular, décadas antes da consolidação do termo \"literatura marginal\".",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-304",
+      "texto_apoio": "Uma autora contemporânea cunhou um termo próprio para descrever a escrita de mulheres negras que narram, a partir da própria experiência, vivências historicamente silenciadas pela literatura tradicional.",
+      "enunciado": "Esse termo, criado pela própria autora para nomear essa prática de escrita, é:",
+      "alternativas": {
+        "a": "autobiografia oficial, gênero reservado a figuras públicas de reconhecimento estabelecido pela crítica literária",
+        "b": "memorialismo clássico, tradição associada a relatos de viajantes europeus sobre o território brasileiro colonial",
+        "c": "escrevivência, termo de Conceição Evaristo para a escrita que nasce da experiência vivida por mulheres negras",
+        "d": "ficção científica, gênero centrado em especulações tecnológicas sobre sociedades e futuros hipotéticos",
+        "e": "romance de formação, gênero centrado no amadurecimento de um protagonista ao longo de vários anos"
+      },
+      "resposta": "c",
+      "explicacao": "Escrevivência é o termo cunhado por Conceição Evaristo para nomear uma escrita que nasce da vivência de mulheres negras, misturando experiência pessoal e coletiva à narrativa literária. As demais alternativas nomeiam outros gêneros ou tradições, sem relação com o conceito criado pela autora.",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-305",
+      "texto_apoio": "Um romance recente, ambientado numa fazenda de cacau na Bahia rural, narra a vida de duas irmãs cujos destinos se cruzam com práticas de resistência ligadas à religiosidade afro-brasileira.",
+      "enunciado": "Esse romance, vencedor de prêmios literários e traduzido para diversos idiomas nos últimos anos, é:",
+      "alternativas": {
+        "a": "uma novela epistolar composta inteiramente por cartas trocadas entre dois personagens ao longo de uma guerra que dura muitos anos inteiros",
+        "b": "um romance histórico centrado nas expedições portuguesas do século 16 pela costa nordestina do país",
+        "c": "uma coletânea de contos policiais ambientados no submundo urbano do Rio de Janeiro dos anos 1970",
+        "d": "\"Torto Arado\", de autoria contemporânea, que narra a vida de duas irmãs numa fazenda baiana marcada pela religiosidade de terreiro",
+        "e": "um livro de memórias de um político brasileiro sobre sua atuação parlamentar ao longo de décadas"
+      },
+      "resposta": "d",
+      "explicacao": "\"Torto Arado\", de Itamar Vieira Junior, narra a vida de duas irmãs numa fazenda de cacau na Bahia, entrelaçando trabalho rural, resistência e religiosidade de terreiro — um dos romances brasileiros contemporâneos mais premiados e traduzidos da última década.",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-306",
+      "texto_apoio": "A partir de saraus realizados em bairros afastados dos grandes centros urbanos, um conjunto de escritores passou a publicar textos voltados à experiência de viver na periferia das grandes cidades brasileiras.",
+      "enunciado": "Esse conjunto de produção literária, organizado a partir da vivência e do território de bairros periféricos, é conhecido como:",
+      "alternativas": {
+        "a": "literatura acadêmica, produção vinculada exclusivamente a programas de pós-graduação em letras",
+        "b": "literatura de cordel, tradição associada aos folhetos impressos e vendidos em feiras do interior nordestino",
+        "c": "literatura de viagem, gênero centrado em relatos minuciosos de expedições e deslocamentos por territórios então desconhecidos",
+        "d": "literatura infantojuvenil, produção voltada especificamente ao público em formação escolar básica",
+        "e": "literatura marginal ou periférica, produzida a partir da vivência e do território de bairros afastados do centro"
+      },
+      "resposta": "e",
+      "explicacao": "A literatura marginal ou periférica se organiza a partir de saraus e coletivos ligados ao território de bairros afastados dos grandes centros, com autores como Ferréz entre os nomes associados a esse movimento. As demais alternativas nomeiam tradições literárias distintas, sem relação com a produção descrita.",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-307",
+      "texto_apoio": "Um romancista amazonense constrói, em seus livros, tramas marcadas pela memória familiar, pelo retorno ao território de origem e por narradores que reconstroem o passado a partir de fragmentos incertos.",
+      "enunciado": "Esse autor, cuja obra tem forte presença da paisagem e da memória amazonenses, é:",
+      "alternativas": {
+        "a": "um cronista esportivo especializado na cobertura de competições internacionais de grande porte",
+        "b": "um poeta concretista associado à experimentação visual e à disposição espacial do texto na página",
+        "c": "um roteirista de televisão dedicado exclusivamente a adaptações de clássicos europeus do século 19",
+        "d": "Milton Hatoum, cujos romances entrelaçam memória familiar e o território amazonense de origem",
+        "e": "um ensaísta político voltado à análise das relações internacionais na bacia amazônica contemporânea"
+      },
+      "resposta": "d",
+      "explicacao": "Milton Hatoum constrói romances marcados pela memória familiar e pelo retorno ao território amazonense de origem, com narradores que reconstroem o passado a partir de lembranças fragmentadas e incertas — traço reconhecível em obras como \"Dois Irmãos\" e \"Relato de um Certo Oriente\".",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-308",
+      "texto_apoio": "Textos marcados por diálogos secos, violência urbana explícita e vozes que misturam gíria e frieza descritiva caracterizam a prosa de um autor associado à ficção policial brasileira contemporânea.",
+      "enunciado": "Esse autor, conhecido por retratar a violência urbana em prosa seca e direta, é:",
+      "alternativas": {
+        "a": "Rubem Fonseca, associado a contos e romances marcados pela violência urbana em prosa seca e direta",
+        "b": "um autor de literatura de viagem dedicado a relatos de expedições por regiões pouco exploradas do planeta",
+        "c": "um poeta simbolista dedicado à musicalidade da linguagem e à sugestão de estados de alma indefinidos",
+        "d": "um dramaturgo especializado em comédias de costumes ambientadas em salões da corte imperial",
+        "e": "um cronista rural voltado à descrição idealizada da vida no campo em fazendas do interior paulista"
+      },
+      "resposta": "a",
+      "explicacao": "Rubem Fonseca é reconhecido pela prosa seca, pelos diálogos cortantes e pela violência urbana explícita presente em contos e romances como \"Feliz Ano Novo\" e \"A Grande Arte\", traços centrais de sua ficção policial contemporânea.",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-309",
+      "texto_apoio": "Em certos romances recentes, o narrador compartilha nome, biografia e circunstâncias de vida com o próprio autor, embaralhando de propósito os limites entre relato pessoal e invenção ficcional.",
+      "enunciado": "Essa prática narrativa, recorrente na produção literária das últimas décadas, é conhecida como:",
+      "alternativas": {
+        "a": "epopeia, gênero narrativo extenso que celebra feitos grandiosos de heróis nacionais ou míticos",
+        "b": "hagiografia, relato biográfico voltado à narração idealizada da vida de uma figura religiosa",
+        "c": "fábula, narrativa breve protagonizada por animais que personificam traços humanos com fim moralizante",
+        "d": "crônica de costumes, texto breve publicado em jornal que comenta com leveza o cotidiano urbano",
+        "e": "autoficção, narrativa que embaralha de propósito os limites entre relato pessoal e invenção ficcional"
+      },
+      "resposta": "e",
+      "explicacao": "Autoficção é o termo para essa prática narrativa em que o autor compartilha nome, biografia e circunstâncias com o narrador, embaralhando de propósito relato pessoal e invenção — recurso recorrente na produção literária contemporânea, no Brasil e fora dele.",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-310",
+      "texto_apoio": "Certos romances contemporâneos abandonam a linearidade e o narrador único, alternando vozes, tempos e até formatos de texto — mensagens, listas, fragmentos de diário — dentro de uma mesma obra.",
+      "enunciado": "Esse traço, associado à fragmentação da narrativa na produção literária recente, é frequentemente lido como reflexo de:",
+      "alternativas": {
+        "a": "um retorno deliberado aos moldes narrativos clássicos, com estrutura fechada e progressão linear do início ao fim da trama",
+        "b": "uma tentativa de simplificar ao máximo a experiência de leitura para públicos iniciantes na literatura",
+        "c": "uma condição pós-moderna marcada pela pluralidade de vozes e pela desconfiança de narrativas totalizantes",
+        "d": "uma exigência editorial voltada exclusivamente a reduzir o número de páginas de romances muito longos",
+        "e": "uma imitação direta dos formatos utilizados em roteiros de cinema comercial de grande orçamento"
+      },
+      "resposta": "c",
+      "explicacao": "A fragmentação narrativa é frequentemente lida à luz da condição pós-moderna: desconfiança de narrativas totalizantes, valorização da pluralidade de vozes e do hibridismo entre formatos de texto dentro da mesma obra, em vez de um enredo linear conduzido por um único narrador central.",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-311",
+      "texto_apoio": "No fim dos anos 1960, um movimento cultural brasileiro combinou letras de canção com referências a formas poéticas experimentais, ao rock internacional e a elementos da cultura popular, misturando erudito e popular numa mesma obra.",
+      "enunciado": "Esse movimento, cujas letras de canção passaram a ser lidas e estudadas como texto literário, é:",
+      "alternativas": {
+        "a": "a bossa nova, movimento musical marcado por harmonias sofisticadas e por uma estética vocal de contenção e sutileza",
+        "b": "a tropicália, movimento que misturou letra de canção, referências a formas poéticas experimentais e cultura popular",
+        "c": "o modernismo de 1922, movimento centrado na Semana de Arte Moderna realizada em São Paulo",
+        "d": "o cinema novo, movimento cinematográfico voltado à estética da fome e à crítica social direta",
+        "e": "o simbolismo, movimento poético do fim do século 19 centrado na musicalidade e na sugestão"
+      },
+      "resposta": "b",
+      "explicacao": "A tropicália combinou letra de canção com referências a formas poéticas experimentais, ao rock internacional e à cultura popular brasileira, misturando erudito e popular numa síntese que passou a ser estudada como texto literário — daí a leitura de letras de canção nas provas de literatura contemporânea.",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-312",
+      "texto_apoio": "\"Explico: só a mim mesmo compete escrever assim...\" Uma narradora contemporânea, ao contar a história de uma personagem simples, também expõe as próprias dúvidas e hesitações sobre como narrar a história que está sendo contada.",
+      "enunciado": "Esse recurso, em que a narrativa comenta o próprio processo de sua construção, é conhecido como:",
+      "alternativas": {
+        "a": "onisciência seletiva, recurso pelo qual o narrador acessa livremente os pensamentos de apenas uma personagem",
+        "b": "discurso indireto livre, recurso pelo qual a fala de uma personagem se mistura à voz do narrador sem marcação",
+        "c": "metalinguagem, recurso pelo qual a narrativa reflete e comenta o próprio processo de sua construção",
+        "d": "prolepse, recurso pelo qual a narrativa antecipa um evento que só ocorrerá mais adiante na história",
+        "e": "elipse narrativa, recurso pelo qual um intervalo de tempo é omitido sem qualquer indicação explícita"
+      },
+      "resposta": "c",
+      "explicacao": "Metalinguagem, na literatura contemporânea, é o recurso pelo qual a narrativa comenta e reflete sobre o próprio processo de escrita — traço recorrente em obras que expõem as hesitações do narrador diante da história que está sendo contada, como ocorre de forma célebre em \"A Hora da Estrela\".",
+      "formato": "direta"
     }
   ]
 }

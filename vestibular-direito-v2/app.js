@@ -2100,7 +2100,13 @@
     });
 
     const areaList = wrap.querySelector("#flashcard-area-list");
-    window.SUBTOPICS.forEach((s) => {
+    // Frente sem card fica de fora. A migração dos flashcards para o banco
+    // central é por frente e ainda está em curso — em Engenharia, 36 das 44
+    // frentes não têm card nenhum. Listadas com "0 cards", elas viravam 36
+    // linhas mortas e clicáveis que abriam sessão vazia, e a tela passava a
+    // impressão de aba quebrada em vez de aba em construção.
+    const comCards = window.SUBTOPICS.filter((s) => pool.some((c) => c.subtopicId === s.id));
+    comCards.forEach((s) => {
       const cards = pool.filter((c) => c.subtopicId === s.id);
       const row = document.createElement("button");
       row.type = "button";

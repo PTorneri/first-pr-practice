@@ -631,7 +631,7 @@ h4 { font-size: 1.0625rem; }
 .page-header {
   background: var(--surface-page); border-bottom: 1px solid var(--border-subtle);
   display: flex; align-items: flex-end; justify-content: space-between; flex-wrap: wrap;
-  padding: var(--space-6) var(--space-7) var(--space-5); gap: var(--space-3) var(--space-6);
+  padding: var(--space-6) var(--gutter-lateral) var(--space-5); gap: var(--space-3) var(--space-6);
   position: sticky; top: 0; z-index: 10;
 }
 .page-header-left { display: flex; align-items: center; gap: var(--space-3); min-width: 0; }
@@ -660,7 +660,7 @@ h4 { font-size: 1.0625rem; }
   display: flex; align-items: center; justify-content: space-between;
   gap: var(--space-3); flex-wrap: wrap;
   background: var(--gradient-night); color: var(--text-on-inverse);
-  padding: var(--space-3) var(--space-7);
+  padding: var(--space-3) var(--gutter-lateral);
   font: var(--type-body-strong); font-size: var(--text-sm);
 }
 .faixa-acesso[hidden] { display: none !important; }
@@ -675,11 +675,23 @@ h4 { font-size: 1.0625rem; }
   display: inline-flex; align-items: center; padding: 7px 14px; font-size: 0.8125rem;
 }
 
-/* A régua de leitura do sistema: o conteúdo para de crescer em 1180px. Sem
-   isso, num monitor largo o enunciado de uma questão atravessava a tela
-   inteira e virava ilegível. O padding de baixo é maior que o de cima porque
-   a barra inferior do celular come o fim da página. */
-.content { padding: var(--space-6) var(--gutter-page) var(--space-9); max-width: var(--content-max); width: 100%; }
+/* A régua de leitura do sistema: o conteúdo para de crescer em 1180px, senão
+   num monitor largo o enunciado de uma questão atravessa a tela inteira e
+   fica ilegível.
+
+   O que faltava era CENTRALIZAR essa coluna. Com `max-width` e nada mais, ela
+   encostava à esquerda e num monitor de 1900px sobravam uns 460px de vazio só
+   do lado direito — parecia tela quebrada, não medida de leitura.
+
+   Centralizar só o .content não resolvia: o cabeçalho e a faixa de acesso são
+   IRMÃOS dele, atravessam a largura inteira (é o que dá a régua contínua sob o
+   título) e continuariam encostados à esquerda, desalinhados do conteúdo.
+
+   Daí a goteira compartilhada: os três leem a mesma variável, que vale o
+   respiro padrão em tela estreita e cresce até centralizar a coluna de 1180
+   em tela larga. Alinhados em qualquer largura, sem media query. */
+.page-main { --gutter-lateral: max(var(--gutter-page), calc((100% - var(--content-max)) / 2)); }
+.content { padding: var(--space-6) var(--gutter-lateral) var(--space-9); width: 100%; }
 .tab-panel { display: none; }
 /* Coluna com respiro fixo entre os blocos da tela. As margens verticais dos
    filhos diretos são zeradas para não somar com o gap. */

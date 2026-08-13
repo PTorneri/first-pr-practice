@@ -645,8 +645,18 @@
       marca: MARCA_HTML,
       bancas: ["ita"],
       dataDir: "../vestibular-engenharia/data/",
-      arquivos: ["subtopics", "theory", "priority-weights", "video-topics", "bundle"],
-      abas: ["hoje", "calendario", "simulados", "buscar", "erros", "progresso", "perfil", "mais"],
+      // Flashcards entram: o vestibular-engenharia/data/flashcards.js já existe
+      // e traz 579 cards, mas nem o arquivo era carregado nem a aba aparecia —
+      // conteúdo pronto e inalcançável. A cobertura é parcial (só as 8 frentes
+      // de Matemática, das 44 da trilha; Física, Química, Português e Inglês
+      // ainda não migraram para o banco central), e é por isso que a lista
+      // "Estudar por frente" passou a esconder frente sem card: 36 linhas
+      // dizendo "0 cards" ensinariam que a aba está quebrada.
+      arquivos: ["subtopics", "theory", "flashcards", "priority-weights", "video-topics", "bundle"],
+      // Redação e Obras seguem de fora, e isso NÃO é esquecimento: não existe
+      // redacoes.js nem obras.js para Engenharia. Aba sem dado por trás é pior
+      // que aba ausente — ela promete e devolve tela vazia.
+      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "erros", "progresso", "perfil", "mais"],
       plano: {
         totalDias: 90,
         subtemasPorDia: 3,

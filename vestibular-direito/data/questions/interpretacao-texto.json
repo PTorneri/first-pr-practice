@@ -3450,6 +3450,186 @@
                          "resposta":  "e",
                          "explicacao":  "A estratégia empregada é: comparação que desloca o critério de valor. As demais alternativas nomeiam recursos de construção que não aparecem neste trecho.",
                          "origem":  "banco-extra"
+                     },
+                     {
+                         "id":  "interpretacao-texto-211",
+                         "texto_apoio":  "A cidade decidiu proibir carros no centro histórico aos domingos. Isso reduziu a poluição sonora na região em quase 40%, segundo medições da prefeitura.",
+                         "enunciado":  "No trecho, o elemento coesivo \"isso\" retoma:",
+                         "alternativas":  {
+                                              "a":  "a decisão de proibir carros no centro histórico aos domingos",
+                                              "b":  "a redução da poluição sonora medida pela prefeitura na região",
+                                              "c":  "a prefeitura, mencionada apenas na segunda oração do trecho",
+                                              "d":  "os quase 40 por cento citados ao final da segunda oração",
+                                              "e":  "o centro histórico da cidade, mencionado na primeira oração"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "\"Isso\" é um pronome demonstrativo que retoma toda a proposição anterior — a proibição de carros aos domingos —, e não um único termo isolado. É essa proibição, e não a poluição ou a prefeitura, que causa a redução medida na segunda oração.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-212",
+                         "texto_apoio":  "O laboratório investiu pesado em equipamentos novos. Portanto, a expectativa da diretoria é de que a produção dobre até o fim do ano.",
+                         "enunciado":  "O conectivo \"portanto\", no trecho, estabelece entre as duas orações uma relação de:",
+                         "alternativas":  {
+                                              "a":  "oposição, indicando que a segunda oração contraria o que foi dito na primeira",
+                                              "b":  "conclusão, indicando que a segunda oração decorre logicamente da primeira",
+                                              "c":  "adição, indicando que a segunda oração apenas soma uma informação nova à primeira",
+                                              "d":  "comparação, indicando que as duas orações descrevem situações equivalentes entre si",
+                                              "e":  "finalidade, indicando que a primeira oração existe com o propósito descrito na segunda"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "\"Portanto\" é um conectivo conclusivo: introduz uma consequência lógica do que foi afirmado antes. O investimento em equipamentos é apresentado como a razão pela qual a diretoria espera o aumento de produção — uma relação de conclusão, não de oposição, adição ou comparação.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-213",
+                         "texto_apoio":  "Embora o novo medicamento tenha reduzido os sintomas na maioria dos pacientes testados, a equipe de pesquisa decidiu adiar o pedido de aprovação por mais seis meses.",
+                         "enunciado":  "O conectivo \"embora\", no trecho, estabelece entre as duas orações uma relação de:",
+                         "alternativas":  {
+                                              "a":  "condição, indicando que a segunda oração só se realiza caso a primeira oração se confirme antes",
+                                              "b":  "causa, indicando que a primeira oração é o motivo direto que explica o conteúdo da segunda oração",
+                                              "c":  "concessão, indicando que a segunda oração ocorre apesar do que se esperaria a partir da primeira",
+                                              "d":  "adição, indicando que a segunda oração apenas soma uma informação nova e independente à primeira",
+                                              "e":  "conclusão, indicando que a segunda oração é a consequência lógica esperada a partir da primeira"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "\"Embora\" introduz uma concessão: aponta um fato (a redução dos sintomas) que tornaria esperado um desfecho diferente do que de fato ocorre (o adiamento do pedido). É essa quebra de expectativa, e não uma causa direta ou uma condição, que o conectivo assinala.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-214",
+                         "texto_apoio":  "Nas últimas três décadas, o consumo de água em grandes centros urbanos brasileiros cresceu de forma constante, impulsionado pelo aumento populacional e pela expansão do saneamento básico. Diante desse cenário, cidades ao redor do mundo vêm adotando tecnologias de reúso e monitoramento em tempo real do consumo residencial. No Brasil, essas iniciativas ainda são pontuais, restritas a projetos-piloto em poucas capitais.",
+                         "enunciado":  "No texto, o parágrafo inicial tem a função de:",
+                         "alternativas":  {
+                                              "a":  "descrever detalhadamente uma tecnologia específica de monitoramento residencial de consumo de água",
+                                              "b":  "concluir a discussão iniciada em parágrafos anteriores sobre tecnologias de reúso de água tratada",
+                                              "c":  "contrapor diretamente o que será apresentado ao longo do restante inteiro do texto",
+                                              "d":  "apresentar o crescimento do consumo de água como pano de fundo para o problema discutido em seguida",
+                                              "e":  "anunciar a conclusão a que o texto chegará antes mesmo de apresentar dado ou contexto relevante algum"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O parágrafo inicial estabelece o contexto — o crescimento do consumo de água — sobre o qual o restante do texto se apoia para introduzir o tema das tecnologias de reúso e monitoramento, funcionando como pano de fundo, não como conclusão ou oposição ao que vem a seguir.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-215",
+                         "texto_apoio":  "O projeto de lei tramitou por quatro anos no Congresso, passando por dezenas de emendas e duas rejeições em comissões temáticas. Superadas essas etapas, o texto finalmente foi votado e aprovado em plenário, encerrando um dos processos legislativos mais longos da década.",
+                         "enunciado":  "No texto, o parágrafo final tem a função de:",
+                         "alternativas":  {
+                                              "a":  "abrir um novo tópico, totalmente independente do processo de tramitação relatado anteriormente",
+                                              "b":  "introduzir uma objeção contrária à aprovação do projeto de lei discutido ao longo do texto",
+                                              "c":  "apresentar dados estatísticos inéditos sobre a frequência de rejeições em comissões temáticas do Congresso",
+                                              "d":  "contradizer a informação apresentada anteriormente sobre o número de emendas ao projeto de lei",
+                                              "e":  "encerrar a narrativa da tramitação, marcando o desfecho de um processo cujas etapas foram descritas antes"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O parágrafo final fecha a narrativa iniciada antes: depois de descrever as etapas da tramitação, encerra o texto marcando o desfecho — a aprovação em plenário —, sem introduzir objeção nova, dado inédito ou tópico independente do que já vinha sendo tratado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-216",
+                         "texto_apoio":  "O texto começa descrevendo o cotidiano de uma pequena cooperativa de reciclagem numa periferia urbana. Em seguida, amplia o foco para mostrar como cooperativas semelhantes se espalharam pelo país. Por fim, discute os desafios legais que essas cooperativas enfrentam para formalizar sua atividade.",
+                         "enunciado":  "A progressão temática descrita, que parte de um caso específico para um panorama mais amplo e termina num problema estrutural, segue uma organização:",
+                         "alternativas":  {
+                                              "a":  "do particular para o geral, encerrando com uma reflexão sobre um obstáculo comum a esse panorama mais amplo",
+                                              "b":  "cronológica, organizada estritamente pela ordem temporal em que cada cooperativa foi fundada no país",
+                                              "c":  "comparativa, contrapondo ponto a ponto duas cooperativas específicas mencionadas no desenvolvimento inteiro do texto descrito",
+                                              "d":  "circular, retornando ao final exatamente ao ponto de partida descrito no início do texto apresentado",
+                                              "e":  "espacial, organizada apenas pela distância geográfica entre as cooperativas mencionadas ao longo do texto"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A progressão vai do caso específico (uma cooperativa) para o geral (o fenômeno espalhado pelo país) e termina num problema estrutural (os desafios legais) — organização do particular para o geral, e não cronológica, comparativa, circular ou puramente espacial.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-217",
+                         "texto_apoio":  "A prefeitura reduziu o intervalo entre os ônibus da linha expressa. Como resultado, o número de passageiros na linha cresceu 22% em apenas dois meses.",
+                         "enunciado":  "Entre as duas orações do trecho, a expressão \"como resultado\" estabelece uma relação de:",
+                         "alternativas":  {
+                                              "a":  "comparação, em que duas situações equivalentes são postas lado a lado sem qualquer relação de causa envolvida",
+                                              "b":  "causa e efeito, em que a redução do intervalo entre ônibus explica o crescimento do número de passageiros",
+                                              "c":  "oposição, em que a segunda oração contraria diretamente a expectativa criada pela primeira oração do trecho",
+                                              "d":  "condição, em que o crescimento do número de passageiros deveria necessariamente ocorrer antes da redução do intervalo",
+                                              "e":  "adição, em que a segunda oração apenas soma um dado novo e independente sem qualquer relação com a primeira"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "\"Como resultado\" marca explicitamente uma relação de causa e efeito: a redução do intervalo entre ônibus (causa) é apresentada como o que explica o crescimento do número de passageiros (efeito), não uma simples comparação, oposição, condição ou adição de dados.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-218",
+                         "texto_apoio":  "Na década de 1980, a empresa vendia exclusivamente para o mercado interno, com uma linha de produtos reduzida. Hoje, mais de 60% de sua receita vem de exportações, e o catálogo inclui centenas de itens diferentes.",
+                         "enunciado":  "Entre a situação da empresa na década de 1980 e a situação atual, descrita no texto, há uma relação de:",
+                         "alternativas":  {
+                                              "a":  "condição, em que a situação atual da empresa só se tornaria possível caso a situação de 1980 se repetisse novamente",
+                                              "b":  "causa e efeito, em que a situação da década de 1980 é apresentada como o motivo direto da situação atual da empresa",
+                                              "c":  "contraste, evidenciado pela oposição entre um mercado restrito no passado e um mercado ampliado no presente",
+                                              "d":  "semelhança, evidenciada pela permanência das mesmas características comerciais da empresa ao longo de todo o período",
+                                              "e":  "finalidade, em que a situação de 1980 existiria com o propósito específico de produzir a situação descrita no presente"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O texto contrapõe dois momentos opostos da empresa: mercado restrito e catálogo reduzido no passado versus mercado ampliado e catálogo extenso no presente — uma relação de contraste, marcada pela oposição entre as duas situações, não de causa, condição, semelhança ou finalidade.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-219",
+                         "texto_apoio":  "O rio A tem vazão média de 1.200 metros cúbicos por segundo e nasce numa região de chuvas abundantes o ano todo. O rio B, mais curto, tem vazão média de apenas 90 metros cúbicos por segundo e atravessa uma região de chuvas concentradas em poucos meses do ano.",
+                         "enunciado":  "A comparação entre os dois rios, estabelecida no texto, é construída principalmente com base:",
+                         "alternativas":  {
+                                              "a":  "no uso econômico predominante de cada rio pelas populações ribeirinhas que vivem próximas às suas margens",
+                                              "b":  "no comprimento total de cada rio e na quantidade de afluentes que cada um deles recebe ao longo do percurso",
+                                              "c":  "na profundidade média de cada rio e na velocidade da correnteza observada em pontos específicos do curso",
+                                              "d":  "na vazão média e no regime de chuvas da região por onde cada rio passa ao longo do seu curso",
+                                              "e":  "na temperatura média da água de cada rio ao longo das quatro estações do ano na região por onde passam"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O texto compara os dois rios por dois critérios explícitos: a vazão média (1.200 contra 90 metros cúbicos por segundo) e o regime de chuvas da região de cada um (abundante o ano todo contra concentrado em poucos meses) — não por comprimento, profundidade, uso econômico ou temperatura.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-220",
+                         "texto_apoio":  "Uma multa é uma sanção pecuniária aplicada como punição por uma infração já cometida. Um tributo, por sua vez, é uma cobrança compulsória vinculada a uma atividade estatal ou à simples manifestação de capacidade econômica do contribuinte, sem qualquer natureza punitiva.",
+                         "enunciado":  "O que distingue, segundo o texto, uma multa de um tributo é, principalmente, que a multa:",
+                         "alternativas":  {
+                                              "a":  "é recolhida em periodicidade fixa, enquanto o tributo é cobrado apenas uma única vez por fato gerador ocorrido",
+                                              "b":  "é sempre de valor mais alto do que o tributo cobrado numa mesma situação de infração cometida pelo contribuinte",
+                                              "c":  "é cobrada apenas de pessoas físicas, enquanto o tributo é cobrado exclusivamente de pessoas jurídicas no país",
+                                              "d":  "não pode ser contestada judicialmente, ao contrário do tributo, que admite recurso administrativo ou judicial",
+                                              "e":  "tem natureza punitiva, decorrente de uma infração, enquanto o tributo não tem qualquer caráter de punição"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O texto distingue os dois conceitos por sua natureza: a multa é punitiva, decorrente de uma infração cometida; o tributo não tem caráter de punição, estando ligado a uma atividade estatal ou à capacidade econômica do contribuinte. As demais alternativas atribuem ao texto distinções que ele não estabelece.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-221",
+                         "texto_apoio":  "A startup lançou um aplicativo de transporte compartilhado em três capitais. Essa iniciativa atraiu a atenção de investidores internacionais interessados no mercado de mobilidade urbana emergente.",
+                         "enunciado":  "No trecho, o elemento coesivo \"essa iniciativa\" retoma:",
+                         "alternativas":  {
+                                              "a":  "o lançamento do aplicativo de transporte compartilhado nas três capitais mencionadas",
+                                              "b":  "os investidores internacionais interessados no mercado de mobilidade urbana emergente",
+                                              "c":  "o mercado de mobilidade urbana emergente, mencionado apenas ao final do trecho",
+                                              "d":  "as três capitais onde o aplicativo de transporte compartilhado foi lançado pela startup",
+                                              "e":  "a atenção despertada entre investidores, mencionada na segunda oração do trecho"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "\"Essa iniciativa\" é um elemento coesivo que retoma toda a ação descrita na primeira oração — o lançamento do aplicativo nas três capitais —, e não os investidores, o mercado ou as próprias capitais isoladamente.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "interpretacao-texto-222",
+                         "texto_apoio":  "O texto se organiza em três blocos: primeiro, expõe o problema da evasão escolar no ensino médio; em seguida, apresenta dados comparativos entre diferentes regiões do país; por fim, descreve políticas públicas já testadas para reduzir esse problema.",
+                         "enunciado":  "A organização textual descrita no trecho segue a estrutura:",
+                         "alternativas":  {
+                                              "a":  "solução, problema e dados comparativos, numa progressão que antecipa a resposta antes mesmo de expor a questão",
+                                              "b":  "problema, dados comparativos e soluções já testadas, numa progressão que vai da exposição à resposta prática",
+                                              "c":  "dados comparativos, solução e problema, numa progressão que parte do resultado numérico para o questionamento",
+                                              "d":  "problema, solução e dados comparativos, numa progressão que trata os números como comentário final e não central",
+                                              "e":  "solução, dados comparativos e problema, numa progressão inversa à ordem lógica de uma exposição bem construída"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O texto segue exatamente a ordem descrita: primeiro expõe o problema, depois apresenta dados comparativos entre regiões e, por fim, descreve as soluções testadas — uma progressão da exposição do problema até a resposta prática, e não outra ordem entre esses três blocos.",
+                         "formato":  "direta"
                      }
                  ],
     "textos":  [

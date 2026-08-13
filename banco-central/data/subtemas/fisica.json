@@ -1,0 +1,2061 @@
+{
+ "gerado": "2026-08-12",
+ "frente": "fisica",
+ "total": 342,
+ "residuo": [
+  "med-fisica-92",
+  "med-fisica-136",
+  "med-fisica-168",
+  "med-fisica-192",
+  "med-fisica-259"
+ ],
+ "mapa": {
+  "med-fisica-01": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 10
+  },
+  "med-fisica-02": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 5
+  },
+  "med-fisica-03": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-04": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-fisica-05": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 17,
+   "margem": 17
+  },
+  "med-fisica-06": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-07": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-08": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-fisica-09": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-10": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-fisica-11": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-12": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-fisica-13": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-14": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-fisica-15": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-16": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-17": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-18": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-19": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 4
+  },
+  "med-fisica-20": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-21": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 11
+  },
+  "med-fisica-22": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 11
+  },
+  "med-fisica-23": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-fisica-24": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "med-fisica-25": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-fisica-26": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-27": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 1
+  },
+  "med-fisica-28": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 19,
+   "margem": 14
+  },
+  "med-fisica-29": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-fisica-30": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-31": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-32": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 12
+  },
+  "med-fisica-33": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-fisica-34": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-fisica-35": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "med-fisica-36": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-37": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-38": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-39": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-fisica-40": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-41": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-42": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-fisica-43": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-44": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-fisica-45": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-46": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-fisica-47": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-fisica-48": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "med-fisica-49": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-50": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-51": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 9
+  },
+  "med-fisica-52": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-fisica-53": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-fisica-54": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 7,
+   "margem": 2
+  },
+  "med-fisica-55": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-56": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-57": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-58": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-fisica-59": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-60": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-fisica-61": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-62": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-fisica-63": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-fisica-64": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-65": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-66": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-67": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 20
+  },
+  "med-fisica-68": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-69": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-70": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-fisica-71": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 2
+  },
+  "med-fisica-72": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 19,
+   "margem": 14
+  },
+  "med-fisica-73": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-74": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-75": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-76": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-77": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-78": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 7,
+   "margem": 2
+  },
+  "med-fisica-79": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-80": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-fisica-81": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-82": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 4,
+   "margem": 0
+  },
+  "med-fisica-83": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 19,
+   "margem": 19
+  },
+  "med-fisica-84": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-85": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-86": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 10
+  },
+  "med-fisica-87": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-88": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-fisica-89": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 18,
+   "margem": 15
+  },
+  "med-fisica-90": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-fisica-91": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 12
+  },
+  "med-fisica-92": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "padrao": true
+  },
+  "med-fisica-93": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-94": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-95": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-96": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-97": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-98": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-99": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-fisica-100": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-101": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 3
+  },
+  "med-fisica-102": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-fisica-103": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-104": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-105": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-106": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-107": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 5
+  },
+  "med-fisica-108": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-fisica-109": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-fisica-110": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-111": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-112": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-fisica-113": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-fisica-114": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-fisica-115": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-116": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-fisica-117": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-118": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 18,
+   "margem": 18
+  },
+  "med-fisica-119": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-fisica-120": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-121": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-fisica-122": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-fisica-123": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-fisica-124": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-fisica-125": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-126": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-fisica-127": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 1
+  },
+  "med-fisica-128": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-fisica-129": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-fisica-130": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-fisica-131": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-fisica-132": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-fisica-133": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-134": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-135": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-fisica-136": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "padrao": true
+  },
+  "med-fisica-137": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 18,
+   "margem": 13
+  },
+  "med-fisica-138": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 19,
+   "margem": 14
+  },
+  "med-fisica-139": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-fisica-140": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-141": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 7,
+   "margem": 2
+  },
+  "med-fisica-142": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-143": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-144": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-145": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-146": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-147": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-fisica-148": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-fisica-149": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 1
+  },
+  "med-fisica-150": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 17,
+   "margem": 12
+  },
+  "med-fisica-151": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-152": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-fisica-153": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-fisica-154": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-155": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-156": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-157": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-158": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 12
+  },
+  "med-fisica-159": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-160": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 22,
+   "margem": 17
+  },
+  "med-fisica-161": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-162": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-163": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-164": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-fisica-165": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-166": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-167": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-168": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "padrao": true
+  },
+  "med-fisica-169": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-170": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-fisica-171": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-172": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-173": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-174": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-175": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-176": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 3
+  },
+  "med-fisica-177": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 4
+  },
+  "med-fisica-178": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-179": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-180": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-181": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-fisica-182": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-183": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-fisica-184": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-185": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-186": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-187": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-fisica-188": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-189": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-190": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-fisica-191": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-192": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "padrao": true
+  },
+  "med-fisica-193": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-194": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 7,
+   "margem": 2
+  },
+  "med-fisica-195": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-fisica-196": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 16
+  },
+  "med-fisica-197": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-198": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-199": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-200": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-fisica-201": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-202": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-203": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-fisica-204": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-205": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 11
+  },
+  "med-fisica-206": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-fisica-207": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-208": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-fisica-209": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-fisica-210": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-211": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-212": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-213": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-fisica-214": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-215": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-fisica-216": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-217": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-fisica-218": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-fisica-219": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-220": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-221": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-222": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-223": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-224": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-225": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 11
+  },
+  "med-fisica-226": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 19,
+   "margem": 19
+  },
+  "med-fisica-227": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-fisica-228": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-229": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-230": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "med-fisica-231": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-232": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 4
+  },
+  "med-fisica-233": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-fisica-234": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "med-fisica-235": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-fisica-236": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-237": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-fisica-238": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 19,
+   "margem": 19
+  },
+  "med-fisica-239": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-240": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-241": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-fisica-242": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-243": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-fisica-244": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-fisica-245": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-246": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-247": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-248": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-fisica-249": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-250": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-fisica-251": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-252": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-253": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 15
+  },
+  "med-fisica-254": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-255": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-256": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 17,
+   "margem": 17
+  },
+  "med-fisica-257": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 7,
+   "margem": 7
+  },
+  "med-fisica-258": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 11
+  },
+  "med-fisica-259": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "padrao": true
+  },
+  "med-fisica-260": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-261": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-fisica-262": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-fisica-263": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-fisica-264": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-265": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-fisica-266": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 19,
+   "margem": 14
+  },
+  "med-fisica-267": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-268": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-269": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-270": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-271": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-272": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-273": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-274": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-275": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-fisica-276": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-277": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-278": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-fisica-279": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-fisica-280": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-281": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-282": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-283": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-fisica-284": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-285": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-fisica-286": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-287": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-fisica-288": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 18,
+   "margem": 18
+  },
+  "med-fisica-289": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-290": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-291": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-292": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-fisica-293": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-294": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-fisica-295": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-fisica-296": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-fisica-297": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-298": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-299": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-fisica-300": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-301": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-302": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-303": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-304": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-fisica-305": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-fisica-306": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-fisica-307": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-308": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-fisica-309": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-310": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-311": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-fisica-312": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-313": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-fisica-314": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-fisica-315": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-316": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-317": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-318": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-fisica-319": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-320": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-321": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-fisica-322": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 12
+  },
+  "med-fisica-323": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-324": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-325": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-326": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-fisica-327": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-328": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-fisica-329": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-330": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-331": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "med-fisica-332": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-333": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-fisica-334": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-335": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-336": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-337": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-338": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-339": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-fisica-340": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-341": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-fisica-342": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  }
+ }
+}

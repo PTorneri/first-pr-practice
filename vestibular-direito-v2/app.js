@@ -405,8 +405,9 @@
 
     const hint = document.getElementById("progresso-hint");
     if (hint) {
-      hint.textContent = "Acompanhe seu desempenho em cada uma das " +
-        (window.SUBTOPICS || []).length + " frentes cobradas pelas provas.";
+      const materias = new Set((window.SUBTOPICS || []).map((s) => s.frenteId)).size;
+      hint.textContent = "Acompanhe seu desempenho nos " + (window.SUBTOPICS || []).length +
+        " temas das " + materias + " matérias cobradas pelas provas.";
     }
 
     const links = document.getElementById("provas-oficiais-links");
@@ -1621,7 +1622,7 @@
     const bancasTexto = bancasNomes.length <= 1
       ? (bancasNomes[0] || "")
       : bancasNomes.slice(0, -1).join(", ") + " ou " + bancasNomes[bancasNomes.length - 1];
-    const totalFrentes = (window.SUBTOPICS || []).length;
+    const totalFrentes = new Set((window.SUBTOPICS || []).map((s) => s.frenteId)).size;
 
     const header = document.createElement("div");
     header.innerHTML = `
@@ -2932,9 +2933,16 @@
           vistos.add(chave);
           docs.push({
             trilha: trilhaId,
-            frente: s.id,
-            frenteNome: s.nome,
-            area: s.area,
+            // `frente` é a matéria-pai e `subtema` é a unidade de estudo. Os
+            // dois níveis são precisos aqui: as facetas e o dicionário de
+            // assuntos raciocinam por matéria (14 botões, não 79), enquanto a
+            // resposta é gravada na chave do subtema, que é a mesma que o
+            // estudo diário usa — sem isso a questão teria dois históricos.
+            frente: s.frenteId,
+            frenteNome: s.area,
+            subtema: s.id,
+            subtemaNome: s.nome,
+            area: s.areaGrande || s.area,
             q: q,
             // O mapa de textos compartilhados vem junto com o banco — ver
             // buscaTextoApoio para o porquê de não bastar o global.
@@ -2996,7 +3004,7 @@
   // Erros nem no progresso por frente da trilha que o aluno estuda. Sem isso,
   // uma questão de Biologia contaminaria as estatísticas de quem faz Direito.
   function buscaSubtopicId(doc) {
-    return doc.trilha === TRILHA ? doc.frente : "xt::" + doc.trilha + "::" + doc.frente;
+    return doc.trilha === TRILHA ? doc.subtema : "xt::" + doc.trilha + "::" + doc.subtema;
   }
 
   // Constrói o índice invertido. Roda uma vez por estado do banco: se a trilha
@@ -3180,7 +3188,12 @@
     const base = [];
     ids.forEach((id) => {
       const doc = buscaDocs[id];
-      if (escopo && !escopo.has(doc.frente)) return;
+      // O escopo do assunto casa por matéria OU por tema. Aceitar os dois
+      // níveis deixa o dicionário ser tão específico quanto o assunto merece:
+      // "função quadrática" pertence a matematica-algebra, não a Matemática
+      // inteira, e restringir ao tema certo tira do resultado as questões de
+      // geometria que só mencionam a palavra "função".
+      if (escopo && !escopo.has(doc.frente) && !escopo.has(doc.subtema)) return;
 
       if (buscaFiltroStatus) {
         const escolhida = answers[answerKey(buscaSubtopicId(doc), doc.q.id)];
@@ -4836,9 +4849,33 @@
     }).sort((a, b) => {
       if (a.virgem !== b.virgem) return a.virgem ? 1 : -1;
       return a.pct - b.pct;
+    }).map((item, indice) => Object.assign(item, { indice }));
+
+    // Agrupa por matéria. A lista já vem ordenada da mais fraca para a mais
+    // forte, e o agrupamento preserva isso duas vezes: a matéria aparece na
+    // posição do seu pior subtema, e dentro dela os subtemas seguem a mesma
+    // ordem. Uma lista plana de 79 linhas diria a mesma coisa e não seria lida.
+    const porFrente = new Map();
+    frentes.forEach((item) => {
+      const chave = item.s.frenteId;
+      if (!porFrente.has(chave)) porFrente.set(chave, { nome: item.s.area, itens: [] });
+      porFrente.get(chave).itens.push(item);
     });
 
-    frentes.forEach(({ s, st, pct, virgem }, indice) => {
+    porFrente.forEach((grupo) => {
+      const respondidas = grupo.itens.reduce((soma, i) => soma + i.st.answered, 0);
+      const certas = grupo.itens.reduce((soma, i) => soma + i.st.correct, 0);
+      const pctFrente = respondidas > 0 ? Math.round((certas / respondidas) * 100) : 0;
+
+      const cabecalho = document.createElement("div");
+      cabecalho.className = "progress-frente";
+      cabecalho.innerHTML = `
+        <span class="progress-frente-nome">${escapeHtml(grupo.nome)}</span>
+        <span class="progress-frente-stat">${respondidas > 0 ? certas + " de " + respondidas + " · " + pctFrente + "%" : "ainda sem respostas"} · ${grupo.itens.length} temas</span>
+      `;
+      list.appendChild(cabecalho);
+
+      grupo.itens.forEach(({ s, st, pct, virgem, indice }) => {
       const bankSize = (window.QUESTION_BANKS && window.QUESTION_BANKS[s.id] || []).length;
       const readiness = computeReadinessIndex(s.id);
       const readinessPct = Math.round(readiness.index * 100);
@@ -4865,6 +4902,7 @@
         renderProgress();
       });
       list.appendChild(row);
+      });
     });
   }
 

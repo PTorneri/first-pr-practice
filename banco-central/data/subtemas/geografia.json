@@ -1,0 +1,2283 @@
+{
+ "gerado": "2026-08-12",
+ "frente": "geografia",
+ "total": 379,
+ "residuo": [
+  "dir-geografia-28",
+  "dir-geografia-32",
+  "dir-geografia-127",
+  "dir-geografia-149",
+  "med-geografia-72",
+  "med-geografia-74",
+  "med-geografia-76",
+  "med-geografia-150",
+  "med-geografia-165",
+  "med-geografia-202"
+ ],
+ "mapa": {
+  "dir-geografia-01": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "dir-geografia-02": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-geografia-03": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-04": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-05": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-06": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-07": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-08": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-09": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-10": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-11": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 6
+  },
+  "dir-geografia-12": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "dir-geografia-13": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 8,
+   "margem": 4
+  },
+  "dir-geografia-14": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-geografia-15": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 1
+  },
+  "dir-geografia-16": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "dir-geografia-17": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-18": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-19": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-20": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-21": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-22": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-geografia-23": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-geografia-24": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-25": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-26": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 18,
+   "margem": 18
+  },
+  "dir-geografia-27": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-28": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "padrao": true
+  },
+  "dir-geografia-29": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-geografia-30": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-31": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-32": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "padrao": true
+  },
+  "dir-geografia-33": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-geografia-34": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-35": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-36": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-37": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-38": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-39": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-geografia-40": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 1
+  },
+  "dir-geografia-41": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-42": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-43": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-44": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-45": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-46": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-geografia-47": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-48": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-49": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 1
+  },
+  "dir-geografia-50": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-51": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-geografia-52": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-53": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 2
+  },
+  "dir-geografia-54": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-55": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-56": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-57": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-58": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-59": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-60": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-61": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-geografia-62": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-63": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-geografia-64": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-65": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-66": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-67": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-68": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-69": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "dir-geografia-70": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "dir-geografia-71": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-72": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-73": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-74": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 5
+  },
+  "dir-geografia-75": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "dir-geografia-76": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-77": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 8,
+   "margem": 4
+  },
+  "dir-geografia-78": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-79": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-geografia-80": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-geografia-81": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-geografia-82": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-geografia-83": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-84": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 23,
+   "margem": 18
+  },
+  "dir-geografia-85": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-geografia-86": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 18,
+   "margem": 18
+  },
+  "dir-geografia-87": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 18,
+   "margem": 13
+  },
+  "dir-geografia-88": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-geografia-89": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-90": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-91": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-geografia-92": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 3,
+   "margem": 3
+  },
+  "dir-geografia-93": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-94": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-geografia-95": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-geografia-96": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-97": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-98": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-99": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-100": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-101": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-geografia-102": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-103": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-geografia-104": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-105": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-geografia-106": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-107": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-108": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 18,
+   "margem": 18
+  },
+  "dir-geografia-109": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-110": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-geografia-111": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 5
+  },
+  "dir-geografia-112": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-113": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-geografia-114": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-115": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 18,
+   "margem": 13
+  },
+  "dir-geografia-116": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 13,
+   "margem": 13
+  },
+  "dir-geografia-117": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 1
+  },
+  "dir-geografia-118": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-119": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-120": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-geografia-121": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-122": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-123": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-124": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-125": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-geografia-126": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-127": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "padrao": true
+  },
+  "dir-geografia-128": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-129": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-130": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-131": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-geografia-132": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-geografia-133": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-134": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-135": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-136": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-137": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-138": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-139": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-140": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "dir-geografia-141": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-142": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-143": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-144": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-145": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-146": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 1
+  },
+  "dir-geografia-147": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-geografia-148": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-149": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "padrao": true
+  },
+  "dir-geografia-150": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-151": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-152": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-geografia-153": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-154": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-geografia-155": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-156": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-geografia-157": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-158": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 20,
+   "margem": 15
+  },
+  "dir-geografia-159": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-160": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-161": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-162": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 1
+  },
+  "dir-geografia-163": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-164": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-geografia-165": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 4
+  },
+  "dir-geografia-166": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-167": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-168": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-169": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-geografia-170": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-geografia-171": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "dir-geografia-172": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-geografia-01": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 19,
+   "margem": 14
+  },
+  "med-geografia-02": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-03": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-geografia-04": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-05": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-06": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-geografia-07": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-08": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-geografia-09": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-geografia-10": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-11": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 19,
+   "margem": 9
+  },
+  "med-geografia-12": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-geografia-13": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-14": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-geografia-15": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-geografia-16": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 19,
+   "margem": 14
+  },
+  "med-geografia-17": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-geografia-18": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-19": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-20": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 24,
+   "margem": 19
+  },
+  "med-geografia-21": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-geografia-22": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-geografia-23": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-geografia-24": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-25": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 20,
+   "margem": 20
+  },
+  "med-geografia-26": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-27": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-28": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-geografia-29": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-30": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-31": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-geografia-32": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-geografia-33": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-34": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-geografia-35": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 18,
+   "margem": 8
+  },
+  "med-geografia-36": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 19,
+   "margem": 9
+  },
+  "med-geografia-37": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-geografia-38": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-39": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-40": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-41": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-42": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 20,
+   "margem": 15
+  },
+  "med-geografia-43": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-44": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-45": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-geografia-46": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-geografia-47": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-48": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-49": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-50": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-geografia-51": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-52": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-geografia-53": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-54": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-55": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-56": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-57": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-geografia-58": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-59": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-60": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-61": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-geografia-62": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-geografia-63": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-64": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-geografia-65": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-geografia-66": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-67": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-68": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-69": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-70": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-geografia-71": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-geografia-72": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "padrao": true
+  },
+  "med-geografia-73": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-geografia-74": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "padrao": true
+  },
+  "med-geografia-75": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-76": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "padrao": true
+  },
+  "med-geografia-77": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-geografia-78": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-79": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-geografia-80": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-81": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-82": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-83": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-geografia-84": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-85": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-86": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 1
+  },
+  "med-geografia-87": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-88": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-89": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-geografia-90": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-91": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-geografia-92": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-geografia-93": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-geografia-94": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 6
+  },
+  "med-geografia-95": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-96": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-geografia-97": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-98": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-99": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 18,
+   "margem": 13
+  },
+  "med-geografia-100": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-geografia-101": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-102": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-103": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-geografia-104": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-geografia-105": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-106": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-107": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-108": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-109": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-110": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 19,
+   "margem": 14
+  },
+  "med-geografia-111": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-geografia-112": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-geografia-113": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-geografia-114": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-geografia-115": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 19,
+   "margem": 4
+  },
+  "med-geografia-116": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-117": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-geografia-118": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-119": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-120": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-geografia-121": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 4
+  },
+  "med-geografia-122": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-123": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-124": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-125": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-geografia-126": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-127": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-128": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-129": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-130": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-131": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-132": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-133": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-134": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-135": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-136": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-137": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-138": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-139": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-140": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-141": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-142": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-143": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 20,
+   "margem": 15
+  },
+  "med-geografia-144": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-145": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-146": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-147": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-148": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-149": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-150": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "padrao": true
+  },
+  "med-geografia-151": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-152": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-153": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-154": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-155": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-156": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-157": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-158": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-159": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-160": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-161": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-162": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-geografia-163": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 19,
+   "margem": 19
+  },
+  "med-geografia-164": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-geografia-165": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "padrao": true
+  },
+  "med-geografia-166": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-167": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-geografia-168": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-169": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-170": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-171": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-172": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-173": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-174": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-175": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-176": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-177": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-178": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-179": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-geografia-180": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-geografia-181": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-182": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-geografia-183": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-184": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-185": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 18,
+   "margem": 18
+  },
+  "med-geografia-186": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-187": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-geografia-188": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-geografia-189": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-190": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-geografia-191": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-geografia-192": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-193": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-geografia-194": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-geografia-195": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-196": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-197": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-198": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-199": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-200": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-201": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-202": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "padrao": true
+  },
+  "med-geografia-203": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-204": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-205": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-206": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-geografia-207": {
+   "subtema": "geografia-fisica-clima",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 9
+  }
+ }
+}

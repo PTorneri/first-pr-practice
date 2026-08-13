@@ -1,0 +1,1889 @@
+{
+ "gerado": "2026-08-12",
+ "frente": "literatura",
+ "total": 314,
+ "residuo": [
+  "dir-literatura-53",
+  "dir-literatura-55",
+  "dir-literatura-58",
+  "dir-literatura-78",
+  "dir-literatura-81",
+  "dir-literatura-86",
+  "dir-literatura-87",
+  "dir-literatura-88",
+  "dir-literatura-89",
+  "dir-literatura-90",
+  "dir-literatura-91",
+  "dir-literatura-127",
+  "dir-literatura-128",
+  "dir-literatura-130",
+  "dir-literatura-134",
+  "dir-literatura-137",
+  "dir-literatura-138",
+  "dir-literatura-139",
+  "dir-literatura-140",
+  "dir-literatura-143",
+  "dir-literatura-150",
+  "med-literatura-37",
+  "med-literatura-113",
+  "med-literatura-135",
+  "med-literatura-138",
+  "med-literatura-139"
+ ],
+ "mapa": {
+  "dir-literatura-01": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-02": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-03": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-04": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-05": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-06": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-07": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-08": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-09": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-10": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-11": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-12": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-13": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "cluster": true
+  },
+  "dir-literatura-14": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "cluster": true
+  },
+  "dir-literatura-15": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-16": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-17": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-18": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-19": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-20": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-21": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-22": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "cluster": true
+  },
+  "dir-literatura-23": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-literatura-24": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-literatura-25": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "cluster": true
+  },
+  "dir-literatura-26": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 14,
+   "margem": 4
+  },
+  "dir-literatura-27": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 14,
+   "margem": 4
+  },
+  "dir-literatura-28": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-29": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 1
+  },
+  "dir-literatura-30": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-literatura-31": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-32": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-33": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-literatura-34": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-35": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 1
+  },
+  "dir-literatura-36": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-literatura-37": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-literatura-38": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-literatura-39": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-literatura-40": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-41": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-42": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-43": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-44": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-literatura-45": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 14,
+   "margem": 4
+  },
+  "dir-literatura-46": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 14,
+   "margem": 6
+  },
+  "dir-literatura-47": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-literatura-48": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-literatura-49": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-literatura-50": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-51": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-52": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-53": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-54": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-55": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-56": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-57": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-58": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-59": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-60": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-61": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-62": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-63": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-literatura-64": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 0
+  },
+  "dir-literatura-65": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 0
+  },
+  "dir-literatura-66": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-67": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-literatura-68": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-69": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-70": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-71": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-literatura-72": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-73": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-literatura-74": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-literatura-75": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-76": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-literatura-77": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-78": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-79": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 5
+  },
+  "dir-literatura-80": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-literatura-81": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-82": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-83": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-84": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-85": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-86": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-87": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-88": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-89": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-90": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-91": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-92": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-93": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-94": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-95": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-96": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-literatura-97": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-literatura-98": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-99": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-literatura-100": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-101": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-102": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-103": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-104": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-105": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-106": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-107": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 25,
+   "margem": 16
+  },
+  "dir-literatura-108": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-109": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-110": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-111": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-112": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-113": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-114": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-115": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-116": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-117": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-literatura-118": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-literatura-119": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-120": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-121": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-122": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-123": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-124": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-literatura-125": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-126": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-127": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-128": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-129": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-130": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-131": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-literatura-132": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-literatura-133": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-literatura-134": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-135": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-literatura-136": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-literatura-137": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-138": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-139": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-140": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-141": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-142": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-literatura-143": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-144": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-145": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-literatura-146": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-147": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-literatura-148": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-149": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-150": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-151": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-01": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-literatura-02": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-03": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-literatura-04": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-literatura-05": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-06": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-07": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-08": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-literatura-09": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 5
+  },
+  "med-literatura-10": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-11": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-12": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-13": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-literatura-14": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-15": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-16": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-17": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-18": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 14,
+   "margem": 4
+  },
+  "med-literatura-19": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-20": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-21": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-22": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-23": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-24": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-25": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-26": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-literatura-27": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-literatura-28": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-29": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-literatura-30": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-literatura-31": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-literatura-32": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-33": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-34": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-35": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-36": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-literatura-37": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "med-literatura-38": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-39": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-40": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-41": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-42": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 25,
+   "margem": 15
+  },
+  "med-literatura-43": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-44": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-45": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-46": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 14,
+   "margem": 4
+  },
+  "med-literatura-47": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-literatura-48": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-49": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-literatura-50": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-51": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-52": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-literatura-53": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-54": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-55": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-56": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-57": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-literatura-58": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 20,
+   "margem": 15
+  },
+  "med-literatura-59": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-literatura-60": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-61": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-62": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-63": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-literatura-64": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-65": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-literatura-66": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-literatura-67": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-literatura-68": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-literatura-69": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-70": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-literatura-71": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-literatura-72": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-73": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-literatura-74": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-75": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-literatura-76": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-77": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-78": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-literatura-79": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-literatura-80": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-81": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-literatura-82": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-83": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-84": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-85": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-86": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-87": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-88": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-89": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-90": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-literatura-91": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-92": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-literatura-93": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-literatura-94": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-literatura-95": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-96": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-97": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-98": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-literatura-99": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-literatura-100": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-literatura-101": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-102": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-103": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-104": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-105": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-106": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-107": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-108": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-109": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-literatura-110": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-111": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-112": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-literatura-113": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "med-literatura-114": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-115": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-116": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-117": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-literatura-118": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-literatura-119": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-120": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-literatura-121": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-122": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-123": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-124": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-literatura-125": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-126": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-127": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-128": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-129": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-literatura-130": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-literatura-131": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-literatura-132": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-133": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-134": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-literatura-135": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "med-literatura-136": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-137": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-138": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "med-literatura-139": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "med-literatura-140": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-literatura-141": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-literatura-142": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-143": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-144": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-145": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-146": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-147": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-literatura-148": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-149": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-literatura-150": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-literatura-151": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-152": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-153": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-154": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-literatura-155": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-literatura-156": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-157": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-158": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-159": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-literatura-160": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-161": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-162": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-literatura-163": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 9
+  }
+ }
+}

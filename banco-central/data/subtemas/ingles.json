@@ -1,0 +1,2430 @@
+{
+ "gerado": "2026-08-12",
+ "frente": "ingles",
+ "total": 420,
+ "residuo": [
+  "med-ingles-44",
+  "med-ingles-46",
+  "med-ingles-47",
+  "med-ingles-49",
+  "med-ingles-50",
+  "med-ingles-51",
+  "med-ingles-52",
+  "med-ingles-56",
+  "med-ingles-57",
+  "med-ingles-58",
+  "med-ingles-61",
+  "med-ingles-63",
+  "med-ingles-64",
+  "med-ingles-65",
+  "med-ingles-71",
+  "med-ingles-72",
+  "med-ingles-74",
+  "med-ingles-81",
+  "med-ingles-82",
+  "med-ingles-83",
+  "med-ingles-84",
+  "med-ingles-85",
+  "med-ingles-86",
+  "med-ingles-88",
+  "med-ingles-89",
+  "med-ingles-90",
+  "med-ingles-91",
+  "med-ingles-93",
+  "med-ingles-94",
+  "med-ingles-96",
+  "med-ingles-97",
+  "med-ingles-98",
+  "med-ingles-99",
+  "med-ingles-102",
+  "med-ingles-103",
+  "med-ingles-104",
+  "med-ingles-108",
+  "med-ingles-111",
+  "med-ingles-113",
+  "med-ingles-114",
+  "med-ingles-115",
+  "med-ingles-116",
+  "med-ingles-117",
+  "med-ingles-118",
+  "med-ingles-119",
+  "med-ingles-120",
+  "med-ingles-122",
+  "med-ingles-123",
+  "med-ingles-125",
+  "med-ingles-126",
+  "med-ingles-127",
+  "med-ingles-131",
+  "med-ingles-132",
+  "med-ingles-133",
+  "med-ingles-135",
+  "med-ingles-136",
+  "med-ingles-137",
+  "med-ingles-138",
+  "med-ingles-139",
+  "med-ingles-140",
+  "med-ingles-141",
+  "med-ingles-142",
+  "med-ingles-143",
+  "med-ingles-145",
+  "med-ingles-146",
+  "med-ingles-148",
+  "med-ingles-154",
+  "med-ingles-155",
+  "med-ingles-166",
+  "med-ingles-173",
+  "med-ingles-174",
+  "med-ingles-175",
+  "med-ingles-178",
+  "med-ingles-179",
+  "med-ingles-180",
+  "med-ingles-181",
+  "med-ingles-182",
+  "med-ingles-184",
+  "med-ingles-186",
+  "med-ingles-188",
+  "med-ingles-190",
+  "med-ingles-191",
+  "med-ingles-192",
+  "med-ingles-193",
+  "med-ingles-194",
+  "med-ingles-195",
+  "med-ingles-196",
+  "med-ingles-197",
+  "med-ingles-198",
+  "med-ingles-203",
+  "med-ingles-204",
+  "med-ingles-205",
+  "med-ingles-206",
+  "med-ingles-207",
+  "med-ingles-209",
+  "med-ingles-210"
+ ],
+ "mapa": {
+  "dir-ingles-01": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-02": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-03": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-04": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-05": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-06": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-07": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 7,
+   "margem": 7
+  },
+  "dir-ingles-08": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-09": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-10": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 7,
+   "margem": 7
+  },
+  "dir-ingles-11": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-12": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-13": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-14": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-15": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-16": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-17": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-18": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-19": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 7,
+   "margem": 7
+  },
+  "dir-ingles-20": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-21": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-22": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-23": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-24": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-25": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 7,
+   "margem": 7
+  },
+  "dir-ingles-26": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-27": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-28": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-29": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-30": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-31": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-32": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-33": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-34": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-35": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-36": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-37": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-ingles-38": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-39": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-40": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-41": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-42": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-43": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-44": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 7,
+   "margem": 2
+  },
+  "dir-ingles-45": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-46": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-47": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-48": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-49": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-50": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 7,
+   "margem": 7
+  },
+  "dir-ingles-51": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-52": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 7,
+   "margem": 7
+  },
+  "dir-ingles-53": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-54": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-55": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-56": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-57": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-58": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-59": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-60": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-61": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-62": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-63": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 7,
+   "margem": 7
+  },
+  "dir-ingles-64": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-65": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-66": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-67": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-ingles-68": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-69": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-70": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-71": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-72": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-73": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-74": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-75": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-76": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-77": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-78": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-79": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-80": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-81": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-82": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-83": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-84": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-85": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-86": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-87": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-88": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-ingles-89": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-90": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-91": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-92": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-93": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-94": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-95": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-96": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-97": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-98": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-99": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-100": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-101": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-102": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-103": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-104": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-105": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-106": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-107": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-108": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-109": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 7,
+   "margem": 7
+  },
+  "dir-ingles-110": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-111": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-112": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-113": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-114": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-115": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-116": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-117": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-118": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-119": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-120": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-121": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-122": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-ingles-123": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-124": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-125": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-126": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-127": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-128": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-129": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-130": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-131": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 7,
+   "margem": 2
+  },
+  "dir-ingles-132": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-133": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-134": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-135": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-136": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-137": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 7,
+   "margem": 7
+  },
+  "dir-ingles-138": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-139": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-140": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-141": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-142": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-143": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-144": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-145": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-146": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-147": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-148": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-149": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-150": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-151": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-152": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-153": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-154": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-155": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-156": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-157": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-158": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-159": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-160": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-161": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-162": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-163": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-164": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-165": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-166": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-167": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-168": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-169": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-170": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-171": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-172": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-173": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-174": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-175": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-176": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-177": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-178": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-179": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-180": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-181": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-182": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-183": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-184": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-185": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-186": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-187": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-188": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-189": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-190": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-191": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-192": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-193": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-194": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-195": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-196": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-197": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-198": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-199": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-200": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-201": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-202": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-203": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-204": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-205": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-206": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-207": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ingles-208": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-209": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-210": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-01": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-02": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-03": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-04": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-05": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-06": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-07": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-08": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-ingles-09": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-10": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-11": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-12": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-13": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-14": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-ingles-15": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-16": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 3
+  },
+  "med-ingles-17": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-18": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 3
+  },
+  "med-ingles-19": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-20": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-21": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-ingles-22": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-ingles-23": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-24": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-ingles-25": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-ingles-26": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-27": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-28": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-29": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-30": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-31": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-ingles-32": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-33": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-ingles-34": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-35": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-36": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-37": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-ingles-38": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-39": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-40": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-41": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-42": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-ingles-43": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-44": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-45": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-46": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-47": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-48": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-49": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-50": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-51": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-52": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-53": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-54": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-ingles-55": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-ingles-56": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-57": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-58": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-59": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-60": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 8
+  },
+  "med-ingles-61": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-62": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-63": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-64": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-65": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-66": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 3
+  },
+  "med-ingles-67": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-68": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-69": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-70": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-71": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-72": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-73": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-74": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-75": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-76": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-77": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-78": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-79": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-80": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-81": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-82": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-83": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-84": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-85": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-86": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-87": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-88": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-89": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-90": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-91": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-92": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-93": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-94": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-95": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-96": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-97": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-98": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-99": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-100": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-101": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-102": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-103": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-104": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-105": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-ingles-106": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 3
+  },
+  "med-ingles-107": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-108": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-109": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "med-ingles-110": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-ingles-111": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-112": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-113": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-114": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-115": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-116": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-117": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-118": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-119": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-120": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-121": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-ingles-122": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-123": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-124": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 8
+  },
+  "med-ingles-125": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-126": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-127": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-128": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-129": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-ingles-130": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-131": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-132": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-133": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-134": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-135": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-136": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-137": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-138": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-139": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-140": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-141": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-142": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-143": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-144": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-145": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-146": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-147": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-ingles-148": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-149": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-ingles-150": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-151": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-152": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-153": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-ingles-154": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-155": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-156": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-157": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-158": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-ingles-159": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-160": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-161": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-ingles-162": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-163": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-ingles-164": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-ingles-165": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-ingles-166": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-167": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-168": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-169": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-170": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-171": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-ingles-172": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-173": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-174": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-175": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-176": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-ingles-177": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-178": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-179": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-180": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-181": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-182": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-183": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-184": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-185": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 2,
+   "margem": 2
+  },
+  "med-ingles-186": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-187": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 2,
+   "margem": 2
+  },
+  "med-ingles-188": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-189": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-ingles-190": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-191": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-192": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-193": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-194": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-195": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-196": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-197": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-198": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-199": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-200": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-201": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-202": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-203": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-204": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-205": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-206": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-207": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-208": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-209": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  },
+  "med-ingles-210": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "padrao": true
+  }
+ }
+}

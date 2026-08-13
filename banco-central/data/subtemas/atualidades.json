@@ -1,0 +1,3184 @@
+{
+ "gerado": "2026-08-12",
+ "frente": "atualidades",
+ "total": 605,
+ "residuo": [
+  "med-atualidades-10",
+  "med-atualidades-23",
+  "med-atualidades-55",
+  "med-atualidades-78",
+  "med-atualidades-85",
+  "med-atualidades-95",
+  "med-atualidades-118",
+  "med-atualidades-122",
+  "med-atualidades-123",
+  "med-atualidades-124",
+  "med-atualidades-125",
+  "med-atualidades-135",
+  "med-atualidades-137",
+  "med-atualidades-138",
+  "med-atualidades-144",
+  "med-atualidades-146",
+  "med-atualidades-147",
+  "med-atualidades-148"
+ ],
+ "mapa": {
+  "dir-atualidades-politica-01": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-02": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-03": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-04": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-05": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-06": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-07": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-08": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-09": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-10": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-11": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-12": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-13": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-14": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-15": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-16": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-17": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-18": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-19": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-20": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-21": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-22": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-23": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-24": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-25": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-26": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-27": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-28": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-29": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-30": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-31": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-32": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-33": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-34": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-35": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-36": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-37": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-38": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-39": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-40": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-41": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-42": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-43": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-44": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-45": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-46": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-47": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-48": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-49": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-50": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-51": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-52": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-53": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-54": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-55": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-56": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-57": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-58": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-59": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-60": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-61": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-62": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-63": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-64": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-65": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-66": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-67": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-68": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-69": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-70": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-71": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-72": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-73": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-74": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-75": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-76": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-77": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-78": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-79": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-80": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-81": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-82": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-83": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-84": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-85": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-86": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-87": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-88": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-89": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-90": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-91": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-92": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-93": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-94": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-95": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-96": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-97": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-98": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-99": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-politica-100": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-01": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-02": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-03": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-04": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-05": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-06": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-07": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-08": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-09": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-10": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-11": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-12": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-13": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-14": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-15": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-16": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-17": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-18": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-19": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-20": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-21": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-22": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-23": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-24": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-25": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-26": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-27": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-28": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-29": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-30": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-31": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-32": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-33": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-34": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-35": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-36": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-37": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-38": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-39": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-40": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-41": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-42": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-43": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-44": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-45": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-46": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-47": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-48": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-49": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-50": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-51": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-52": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-53": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-54": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-55": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-56": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-57": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-58": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-59": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-60": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-61": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-62": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-63": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-64": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-65": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-66": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-67": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-68": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-69": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-70": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-71": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-72": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-73": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-74": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-75": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-76": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-77": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-78": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-79": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-80": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-81": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-82": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-83": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-84": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-85": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-86": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-87": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-88": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-89": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-90": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-91": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-92": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-93": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-94": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-95": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-96": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-97": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-98": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-99": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-100": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-101": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-102": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-103": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-104": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-105": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-106": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-107": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-108": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-109": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-110": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-111": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-112": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-113": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-114": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-115": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-116": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-117": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-118": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-119": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-120": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-121": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-122": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-123": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-124": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-125": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-126": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-127": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-128": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-129": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-130": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-131": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-132": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-133": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-134": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-135": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-136": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-137": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-138": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-139": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-140": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-141": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-142": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-143": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-144": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-145": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-146": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-147": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-148": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-149": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-150": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-151": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-152": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-153": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-01": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-02": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-03": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-04": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-05": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-06": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-07": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-08": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-09": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-10": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-11": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-12": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-13": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-14": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-15": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-16": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-17": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-18": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-19": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-20": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-21": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-22": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-23": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-24": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-25": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-26": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-27": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-28": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-29": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-30": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-31": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-32": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-33": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-34": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-35": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-36": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-37": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-38": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-39": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-40": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-41": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-42": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-43": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-44": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-45": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-46": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-47": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-48": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-49": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-50": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-51": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-52": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-53": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-54": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-55": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-56": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-57": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-58": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-59": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-60": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-61": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-62": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-63": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-64": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-65": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-66": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-67": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-68": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-69": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-70": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-71": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-72": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-73": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-74": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-75": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-76": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-77": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-78": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-79": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-80": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-81": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-82": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-83": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-84": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-85": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-86": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-87": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-88": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-89": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-90": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-91": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-92": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-93": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-94": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-95": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-96": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-97": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-98": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-99": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-100": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-101": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-102": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-01": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-02": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-03": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-04": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-05": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-06": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-07": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-08": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-09": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-10": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-11": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-12": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-13": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-14": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-15": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-16": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-17": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-18": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-19": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-20": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-21": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-22": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-23": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-24": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-25": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-26": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-27": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-28": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-29": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-30": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-31": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-32": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-33": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-34": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-35": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-36": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-37": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-38": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-39": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-40": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-41": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-42": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-43": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-44": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-45": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-46": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-47": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-48": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-49": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-50": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-51": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-52": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-53": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-54": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-55": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-56": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-57": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-58": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-59": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-60": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-61": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-62": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-63": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-64": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-65": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-66": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-67": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-68": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-69": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-70": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-71": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-72": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-73": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-74": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-75": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-76": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-77": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-78": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-79": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-80": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-81": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-82": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-83": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-84": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-85": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-86": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-87": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-88": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-89": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-90": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-91": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-92": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-93": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-94": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-95": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-96": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-97": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-98": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-99": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-tecnologia-100": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "med-atualidades-01": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-02": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-atualidades-03": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-04": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-05": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-06": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-07": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-atualidades-08": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-09": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-atualidades-10": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-11": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-12": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-13": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-atualidades-14": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-atualidades-15": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-atualidades-16": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 5
+  },
+  "med-atualidades-17": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-18": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-19": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-20": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-21": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-atualidades-22": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-23": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-24": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-atualidades-25": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-atualidades-26": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-27": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-atualidades-28": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-29": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-30": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-31": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-atualidades-32": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-atualidades-33": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-34": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-35": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-36": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-atualidades-37": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-38": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-39": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-40": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-41": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 4
+  },
+  "med-atualidades-42": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-43": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-44": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-45": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-atualidades-46": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-atualidades-47": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-48": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-atualidades-49": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-50": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-51": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-52": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-53": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-54": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-55": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-56": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-atualidades-57": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-atualidades-58": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-59": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-60": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-61": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-atualidades-62": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-atualidades-63": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-64": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-65": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-66": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-67": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-68": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-69": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-70": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-atualidades-71": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-atualidades-72": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-73": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-atualidades-74": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-75": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-76": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-77": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-78": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-79": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-80": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-atualidades-81": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-atualidades-82": {
+   "subtema": "atualidades-politica-economia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-83": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-84": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 13,
+   "margem": 3
+  },
+  "med-atualidades-85": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-86": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-atualidades-87": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-88": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-89": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-atualidades-90": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-atualidades-91": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-92": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-93": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-94": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-95": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-96": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-atualidades-97": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-98": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-99": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-atualidades-100": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-atualidades-101": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-102": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-atualidades-103": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-104": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-105": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-atualidades-106": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-107": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-108": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-109": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-110": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-111": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-112": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-atualidades-113": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-114": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-115": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-116": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-117": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-atualidades-118": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-119": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-120": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-atualidades-121": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-atualidades-122": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-123": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-124": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-125": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-126": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-127": {
+   "subtema": "atualidades-tecnologia",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-128": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-129": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-atualidades-130": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-atualidades-131": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-atualidades-132": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-133": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-atualidades-134": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-atualidades-135": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-136": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-137": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-138": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-139": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-140": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-atualidades-141": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-142": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-143": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-144": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-145": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-atualidades-146": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-147": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-148": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "padrao": true
+  },
+  "med-atualidades-149": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-atualidades-150": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  }
+ }
+}

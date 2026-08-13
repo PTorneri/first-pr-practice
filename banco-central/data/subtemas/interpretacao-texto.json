@@ -1,0 +1,2070 @@
+{
+ "gerado": "2026-08-12",
+ "frente": "interpretacao-texto",
+ "total": 360,
+ "residuo": [
+  "dir-interpretacao-texto-10",
+  "dir-interpretacao-texto-37",
+  "dir-interpretacao-texto-62",
+  "dir-interpretacao-texto-72",
+  "dir-interpretacao-texto-84",
+  "dir-interpretacao-texto-89",
+  "dir-interpretacao-texto-97",
+  "dir-interpretacao-texto-104",
+  "dir-interpretacao-texto-105",
+  "dir-interpretacao-texto-110",
+  "dir-interpretacao-texto-117",
+  "dir-interpretacao-texto-122",
+  "dir-interpretacao-texto-123",
+  "dir-interpretacao-texto-124",
+  "dir-interpretacao-texto-125",
+  "dir-interpretacao-texto-129",
+  "dir-interpretacao-texto-130",
+  "dir-interpretacao-texto-132",
+  "dir-interpretacao-texto-135",
+  "dir-interpretacao-texto-137",
+  "dir-interpretacao-texto-144",
+  "dir-interpretacao-texto-146",
+  "dir-interpretacao-texto-150",
+  "med-interpretacao-texto-03",
+  "med-interpretacao-texto-34",
+  "med-interpretacao-texto-36",
+  "med-interpretacao-texto-37",
+  "med-interpretacao-texto-39",
+  "med-interpretacao-texto-72",
+  "med-interpretacao-texto-79",
+  "med-interpretacao-texto-80",
+  "med-interpretacao-texto-88",
+  "med-interpretacao-texto-93",
+  "med-interpretacao-texto-95",
+  "med-interpretacao-texto-98",
+  "med-interpretacao-texto-133",
+  "med-interpretacao-texto-135",
+  "med-interpretacao-texto-140",
+  "med-interpretacao-texto-149"
+ ],
+ "mapa": {
+  "dir-interpretacao-texto-01": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-interpretacao-texto-02": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 3
+  },
+  "dir-interpretacao-texto-03": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-interpretacao-texto-04": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-05": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-06": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-07": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-interpretacao-texto-08": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-09": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-10": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-11": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-interpretacao-texto-12": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-interpretacao-texto-13": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 3
+  },
+  "dir-interpretacao-texto-14": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-15": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 7,
+   "margem": 2
+  },
+  "dir-interpretacao-texto-16": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-interpretacao-texto-17": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-interpretacao-texto-18": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-19": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-interpretacao-texto-20": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-21": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-interpretacao-texto-22": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-23": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-24": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-25": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-26": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-27": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-28": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-29": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-30": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-31": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-interpretacao-texto-32": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-interpretacao-texto-33": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-34": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-35": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-interpretacao-texto-36": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 15,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-37": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-38": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-interpretacao-texto-39": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-40": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-interpretacao-texto-41": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-42": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 2,
+   "margem": 2
+  },
+  "dir-interpretacao-texto-43": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-44": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-45": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-46": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-47": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-48": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-49": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-50": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-51": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-52": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-53": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-54": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 8
+  },
+  "dir-interpretacao-texto-55": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-56": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-57": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 2
+  },
+  "dir-interpretacao-texto-58": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-59": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-interpretacao-texto-60": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-61": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-62": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-63": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-interpretacao-texto-64": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-interpretacao-texto-65": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-66": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-67": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-68": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-interpretacao-texto-69": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-70": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-71": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-72": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-73": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-interpretacao-texto-74": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-75": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-76": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 2,
+   "margem": 2
+  },
+  "dir-interpretacao-texto-77": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-interpretacao-texto-78": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-interpretacao-texto-79": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-80": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-81": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-82": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-83": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-84": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-85": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-86": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-87": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-interpretacao-texto-88": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-89": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-90": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-91": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-92": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-93": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-94": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-95": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-96": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-97": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-98": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-99": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-interpretacao-texto-100": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-interpretacao-texto-101": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-102": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-103": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-interpretacao-texto-104": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-105": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-106": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-107": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-interpretacao-texto-108": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-109": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-110": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-111": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 7,
+   "margem": 7
+  },
+  "dir-interpretacao-texto-112": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-113": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-114": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-115": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-116": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-interpretacao-texto-117": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-118": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-interpretacao-texto-119": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-120": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-121": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-122": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-123": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-124": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-125": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-126": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 3
+  },
+  "dir-interpretacao-texto-127": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-128": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-129": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-130": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-131": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-interpretacao-texto-132": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-133": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-interpretacao-texto-134": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-135": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-136": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-137": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-138": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-interpretacao-texto-139": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 2
+  },
+  "dir-interpretacao-texto-140": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-141": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-142": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-143": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-interpretacao-texto-144": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-145": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-146": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-147": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-148": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-149": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-150": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "dir-interpretacao-texto-151": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-152": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-153": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-154": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-155": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-156": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-157": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-158": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-159": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-160": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-161": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-162": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-163": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-164": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-165": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-166": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-167": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-168": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-169": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-170": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-171": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-172": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-173": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-174": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-175": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 3
+  },
+  "dir-interpretacao-texto-176": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-177": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-178": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-179": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-180": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-181": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-182": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-183": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-184": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-185": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-186": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-187": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-188": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-189": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-190": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-191": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-192": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-193": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-interpretacao-texto-194": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-195": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-196": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-197": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-198": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-199": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-200": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-201": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-202": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-203": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-204": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-205": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-206": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-207": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-208": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-209": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "dir-interpretacao-texto-210": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-01": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-02": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-interpretacao-texto-03": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-04": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-05": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-06": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-07": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-interpretacao-texto-08": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-09": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-10": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-interpretacao-texto-11": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-12": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-13": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-14": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-15": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-16": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-17": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-18": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-19": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-20": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-21": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-22": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-23": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-interpretacao-texto-24": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-25": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-26": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-27": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-28": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-29": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-interpretacao-texto-30": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-31": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-32": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-33": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-34": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-35": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-36": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-37": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-38": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-39": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-40": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-41": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-interpretacao-texto-42": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-interpretacao-texto-43": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-interpretacao-texto-44": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-45": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-interpretacao-texto-46": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-interpretacao-texto-47": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-48": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-49": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-50": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-interpretacao-texto-51": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-52": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-53": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-54": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-55": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-56": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-57": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-58": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-interpretacao-texto-59": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-60": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-61": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-62": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-63": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-64": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-65": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-66": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-67": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-68": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-69": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-70": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-71": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-72": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-73": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-74": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-75": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-76": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-77": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-78": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-79": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-80": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-81": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 2,
+   "margem": 2
+  },
+  "med-interpretacao-texto-82": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-83": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-84": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-85": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 2,
+   "margem": 2
+  },
+  "med-interpretacao-texto-86": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-87": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-88": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-89": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-90": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-91": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-92": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-93": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-94": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-95": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-96": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-97": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-98": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-99": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-100": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-101": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-102": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 2,
+   "margem": 2
+  },
+  "med-interpretacao-texto-103": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-104": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-105": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 2,
+   "margem": 2
+  },
+  "med-interpretacao-texto-106": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 7,
+   "margem": 2
+  },
+  "med-interpretacao-texto-107": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-108": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 2,
+   "margem": 2
+  },
+  "med-interpretacao-texto-109": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 2,
+   "margem": 2
+  },
+  "med-interpretacao-texto-110": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-111": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-112": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-113": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-114": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-115": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-116": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-117": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-118": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-119": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-120": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-121": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-interpretacao-texto-122": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-123": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-124": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-125": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-126": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-127": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-128": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "cluster": true
+  },
+  "med-interpretacao-texto-129": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-130": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-interpretacao-texto-131": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-132": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-133": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-134": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-interpretacao-texto-135": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-136": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-137": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-interpretacao-texto-138": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-139": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-140": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-141": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 2,
+   "margem": 2
+  },
+  "med-interpretacao-texto-142": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-interpretacao-texto-143": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-interpretacao-texto-144": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 3
+  },
+  "med-interpretacao-texto-145": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-interpretacao-texto-146": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-147": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-148": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-149": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "padrao": true
+  },
+  "med-interpretacao-texto-150": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  }
+ }
+}

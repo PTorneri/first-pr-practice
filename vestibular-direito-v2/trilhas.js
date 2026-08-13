@@ -21,7 +21,7 @@
 (function () {
   // Contador de cache do CONTEÚDO, separado do ?v= do código (ver o comentário
   // longo no topo do index.html). Corrigiu uma questão? Incremente aqui.
-  const DATA_VERSION = 40;
+  const DATA_VERSION = 41;
 
   // A chave da trilha ativa é a única que vive FORA do namespace de trilha —
   // é ela que diz qual namespace usar. Sobe pra nuvem junto com o resto.
@@ -102,11 +102,23 @@
                             "Nenhuma é cobrada, mas continuam úteis como repertório para a redação e para as discursivas. " +
                             "Priorize a lista de cima.",
       },
+      // A conta mudou quando a rotação passou de frente para subtema.
+      //
+      // São 77 dias normais nos 90 (os outros 13 são domingos de simulado). Com
+      // 2 slots por dia eram 154 visitas para 79 subtemas: 1,9 por subtema em
+      // três meses, perto de nunca rever. Com 3 slots são 231 visitas, 2,9 por
+      // subtema, e o espaçamento entre duas passadas pelo mesmo assunto cabe
+      // dentro do plano.
+      //
+      // A carga diária não subiu: 3 × 8-10 dá as mesmas 24-30 questões que
+      // 2 × 12-15 dava. O que mudou é que o dia cobre três assuntos em vez de
+      // duas matérias inteiras — e 8 a 10 questões é o tamanho de uma sessão
+      // sobre UM assunto, que era grande demais para uma matéria inteira.
       plano: {
         totalDias: 90,
-        frentesPorDia: 2,
-        exerciciosMin: 12,
-        exerciciosMax: 15,
+        subtemasPorDia: 3,
+        exerciciosMin: 8,
+        exerciciosMax: 10,
         simuladoQtd: 45,
         simuladoMinPorFrente: 1,
         seed: 20260101,
@@ -135,13 +147,18 @@
           nome: "FGV Direito SP",
           duracaoMin: 210,
           blocos: [
-            { nome: "Matemática", frentes: { "matematica-rlm": 15 } },
+            { nome: "Matemática", frentes: { "matematica": 15 } },
             // Na FGV 2026.1, 9 das 15 questões de Português saíram de dois
             // romances da lista. É a razão de literatura pesar mais que
             // gramática aqui.
             { nome: "Língua Portuguesa", frentes: { "literatura": 9, "interpretacao-texto": 3, "gramatica": 3 } },
             { nome: "Inglês", frentes: { "ingles": 15 } },
-            { nome: "Ciências Humanas", frentes: { "geografia": 5, "historia-brasil": 3, "historia-geral": 3, "atualidades-geopolitica": 2, "atualidades-meioambiente": 1, "artes-cultura": 1 } }
+            // Brasil e Geral eram duas frentes e viraram uma; as 6 questões
+            // continuam 6. Geopolítica e Meio Ambiente viraram subtemas, e o
+            // bloco continua pedindo cada um pelo nome — pickSimuladoOficial
+            // aceita id de frente ou de subtema justamente para o caderno não
+            // perder fidelidade quando o banco se reorganiza.
+            { nome: "Ciências Humanas", frentes: { "geografia": 5, "historia": 6, "atualidades-geopolitica": 2, "atualidades-meioambiente": 1, "artes-cultura": 1 } }
           ]
         },
         insper: {
@@ -149,13 +166,14 @@
           duracaoMin: 300,
           blocos: [
             { nome: "Linguagens e Códigos", frentes: { "literatura": 8, "interpretacao-texto": 4, "gramatica": 3 } },
-            { nome: "Matemática", frentes: { "matematica-rlm": 15 } },
-            { nome: "Ciências Humanas", frentes: { "geografia": 6, "historia-brasil": 3, "historia-geral": 2, "filosofia-sociologia": 4 } },
+            { nome: "Matemática", frentes: { "matematica": 15 } },
+            { nome: "Ciências Humanas", frentes: { "geografia": 6, "historia": 5, "filosofia-sociologia": 4 } },
             // 5 de Biologia, 5 de Química e 5 de Física, nessa ordem, nos dois
-            // cadernos de 2026. Não é aproximação, é gabarito de montagem --
-            // mas o banco tem uma frente única de Natureza, então o bloco sai
-            // inteiro dela.
-            { nome: "Ciências da Natureza", frentes: { "ciencias-natureza": 15 } }
+            // cadernos de 2026. Não é aproximação, é gabarito de montagem — e
+            // agora o caderno sai exato: até 2026-08 esta trilha tinha uma
+            // frente única de "noções gerais" de Natureza e o bloco inteiro
+            // saía dela. Com o banco central são as três frentes de verdade.
+            { nome: "Ciências da Natureza", frentes: { "biologia": 5, "quimica": 5, "fisica": 5 } }
           ]
         }
       },
@@ -221,11 +239,13 @@
                             "Unicamp usa cinema brasileiro. Como repertório de redação e de leitura de imagem, servem. Priorize a " +
                             "lista de cima.",
       },
+      // Ver a conta dos 3 slots no plano de Direito. Medicina tem 74 subtemas
+      // (não tem direitos-humanos), então são 3,1 visitas por subtema.
       plano: {
         totalDias: 90,
-        frentesPorDia: 2,
-        exerciciosMin: 12,
-        exerciciosMax: 15,
+        subtemasPorDia: 3,
+        exerciciosMin: 8,
+        exerciciosMax: 10,
         // 50 e não 45: o menor caderno objetivo entre as sete bancas é o do
         // Einstein e o da PUC-SP, com 50 questões.
         simuladoQtd: 50,
@@ -520,11 +540,20 @@
               "EESP (o dobro do que vale em Direito) e <strong>25% da média final</strong> no Insper, com corte " +
               "eliminatório nas duas. Nenhuma das duas exige proposta de intervenção — isso é regra do ENEM.",
       },
+      // Ver a conta dos 3 slots no plano de Direito; Economia tem os mesmos 79
+      // subtemas.
+      //
+      // Some daqui a divisão de Matemática em cinco frentes que esta trilha
+      // fazia à mão. Ela existia porque o alocador era proporcional POR FRENTE:
+      // com Matemática numa frente só, disputando com oito de Humanas, o
+      // simulado de 60 dava 5 questões a uma matéria que vale 40% da nota. Agora
+      // o alocador é por subtema, e os cinco assuntos de Matemática disputam
+      // como cinco em qualquer trilha — sem precisar fingir que são frentes.
       plano: {
         totalDias: 90,
-        frentesPorDia: 2,
-        exerciciosMin: 12,
-        exerciciosMax: 15,
+        subtemasPorDia: 3,
+        exerciciosMin: 8,
+        exerciciosMax: 10,
         // 60 e não 45: pela mesma régua das outras trilhas — o menor caderno
         // objetivo entre as bancas da trilha. Aqui é o do Insper, com 60. A 1ª
         // fase da FGV EESP tem 105 objetivas somando os dois dias (60 no dia 1

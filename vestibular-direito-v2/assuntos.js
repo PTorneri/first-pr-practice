@@ -234,71 +234,71 @@ window.ASSUNTOS = [
   // nunca aparece no enunciado. "Função quadrática" dava ZERO — o enunciado
   // diz parábola, vértice, delta.
   // ---------------------------------------------------------------------
-  { id: "funcao-quadratica", frentes: ["matematica-rlm", "matematica"], nome: "Função quadrática", area: "Matemática",
+  { id: "funcao-quadratica", frentes: ["matematica"], nome: "Função quadrática", area: "Matemática",
     termos: ["funcao quadratica", "funcao do segundo grau", "segundo grau", "parabola",
              "vertice", "bhaskara", "discriminante", "concavidade", "raizes da funcao"] },
 
-  { id: "funcao-afim", frentes: ["matematica-rlm", "matematica"], nome: "Função afim", area: "Matemática",
+  { id: "funcao-afim", frentes: ["matematica"], nome: "Função afim", area: "Matemática",
     termos: ["funcao afim", "funcao do primeiro grau", "primeiro grau", "coeficiente angular",
              "coeficiente linear", "reta", "taxa de variacao", "funcao linear"] },
 
-  { id: "funcao-exponencial-logaritmo", frentes: ["matematica-rlm", "matematica"], nome: "Exponencial e logaritmo", area: "Matemática",
+  { id: "funcao-exponencial-logaritmo", frentes: ["matematica"], nome: "Exponencial e logaritmo", area: "Matemática",
     termos: ["logaritmo", "exponencial", "funcao exponencial", "crescimento exponencial",
              "decaimento", "meia-vida", "base do logaritmo", "log"] },
 
-  { id: "progressoes", frentes: ["matematica-rlm", "matematica"], nome: "Progressões (PA e PG)", area: "Matemática",
+  { id: "progressoes", frentes: ["matematica"], nome: "Progressões (PA e PG)", area: "Matemática",
     termos: ["progressao aritmetica", "progressao geometrica", "razao da progressao",
              "termo geral", "soma dos termos", "sequencia numerica"] },
 
-  { id: "porcentagem-juros", frentes: ["matematica-rlm", "matematica"], nome: "Porcentagem e juros", area: "Matemática",
+  { id: "porcentagem-juros", frentes: ["matematica"], nome: "Porcentagem e juros", area: "Matemática",
     termos: ["porcentagem", "percentual", "juros", "juros simples", "juros compostos",
              "desconto", "acrescimo", "taxa de juros", "montante", "capital", "inflacao"] },
 
-  { id: "probabilidade", frentes: ["matematica-rlm", "matematica"], nome: "Probabilidade", area: "Matemática",
+  { id: "probabilidade", frentes: ["matematica"], nome: "Probabilidade", area: "Matemática",
     termos: ["probabilidade", "espaco amostral", "evento", "chance", "probabilidade condicional",
              "independentes", "mutuamente exclusivos"] },
 
-  { id: "analise-combinatoria", frentes: ["matematica-rlm", "matematica"], nome: "Análise combinatória", area: "Matemática",
+  { id: "analise-combinatoria", frentes: ["matematica"], nome: "Análise combinatória", area: "Matemática",
     termos: ["analise combinatoria", "combinacao", "arranjo", "permutacao", "fatorial",
              "principio multiplicativo", "quantas maneiras", "anagrama"] },
 
-  { id: "estatistica", frentes: ["matematica-rlm", "matematica"], nome: "Estatística", area: "Matemática",
+  { id: "estatistica", frentes: ["matematica"], nome: "Estatística", area: "Matemática",
     termos: ["media aritmetica", "mediana", "moda", "desvio padrao", "variancia",
              "media ponderada", "amostra", "frequencia relativa", "histograma", "quartil"] },
 
-  { id: "geometria-plana", frentes: ["matematica-rlm", "matematica"], nome: "Geometria plana", area: "Matemática",
+  { id: "geometria-plana", frentes: ["matematica"], nome: "Geometria plana", area: "Matemática",
     termos: ["geometria plana", "area do triangulo", "perimetro", "circunferencia",
              "poligono", "trapezio", "losango", "teorema de pitagoras", "semelhanca de triangulos",
              "apotema", "setor circular"] },
 
-  { id: "geometria-espacial", frentes: ["matematica-rlm", "matematica"], nome: "Geometria espacial", area: "Matemática",
+  { id: "geometria-espacial", frentes: ["matematica"], nome: "Geometria espacial", area: "Matemática",
     termos: ["geometria espacial", "volume", "prisma", "cilindro", "cone", "esfera",
              "piramide", "area total", "area lateral", "poliedro", "tronco"] },
 
-  { id: "trigonometria", frentes: ["matematica-rlm", "matematica"], nome: "Trigonometria", area: "Matemática",
+  { id: "trigonometria", frentes: ["matematica"], nome: "Trigonometria", area: "Matemática",
     termos: ["trigonometria", "seno", "cosseno", "tangente", "lei dos senos", "lei dos cossenos",
              "radiano", "circulo trigonometrico", "arco"] },
 
-  { id: "razao-proporcao", frentes: ["matematica-rlm", "matematica"], nome: "Razão, proporção e regra de três", area: "Matemática",
+  { id: "razao-proporcao", frentes: ["matematica"], nome: "Razão, proporção e regra de três", area: "Matemática",
     termos: ["razao", "proporcao", "regra de tres", "grandezas proporcionais",
              "diretamente proporcional", "inversamente proporcional", "escala"] },
 
-  { id: "sistemas-equacoes", frentes: ["matematica-rlm", "matematica"], nome: "Equações e sistemas", area: "Matemática",
+  { id: "sistemas-equacoes", frentes: ["matematica"], nome: "Equações e sistemas", area: "Matemática",
     termos: ["sistema de equacoes", "equacao", "incognita", "inequacao", "matriz",
              "determinante", "substituicao"] },
 
-  { id: "leitura-de-graficos", frentes: ["matematica-rlm", "matematica"], nome: "Leitura de gráficos e tabelas", area: "Matemática",
+  { id: "leitura-de-graficos", frentes: ["matematica"], nome: "Leitura de gráficos e tabelas", area: "Matemática",
     termos: ["grafico", "tabela", "eixo", "curva", "grafico de barras", "grafico de setores",
              "interpretacao grafica", "dispersao"] },
 
-  { id: "raciocinio-logico", frentes: ["matematica-rlm"], nome: "Raciocínio lógico", area: "Matemática",
+  { id: "raciocinio-logico", frentes: ["matematica"], nome: "Raciocínio lógico", area: "Matemática",
     termos: ["raciocinio logico", "proposicao", "negacao", "conectivo", "tabela verdade",
              "silogismo", "implicacao", "condicional", "quantificador", "argumento valido"] },
 
   // ---------------------------------------------------------------------
   // BIOLOGIA
   // ---------------------------------------------------------------------
-  { id: "citologia", frentes: ["biologia", "ciencias-natureza"], nome: "Citologia", area: "Ciências da Natureza",
+  { id: "citologia", frentes: ["biologia"], nome: "Citologia", area: "Ciências da Natureza",
     termos: ["celula", "membrana plasmatica", "citoplasma", "nucleo", "organela",
              "mitocondria", "ribossomo", "lisossomo", "complexo golgiense", "reticulo endoplasmatico",
              "osmose", "difusao", "transporte ativo", "cloroplasto"] },
@@ -307,27 +307,27 @@ window.ASSUNTOS = [
   // as bancas publicam separa justamente estes: leis de Mendel, heredograma e
   // genética molecular. Quem digita "heredograma" quer as questões de
   // genealogia, não as 33 de genética em geral.
-  { id: "leis-de-mendel", frentes: ["biologia", "ciencias-natureza"], nome: "Leis de Mendel", area: "Ciências da Natureza",
+  { id: "leis-de-mendel", frentes: ["biologia"], nome: "Leis de Mendel", area: "Ciências da Natureza",
     termos: ["mendel", "primeira lei", "segunda lei", "segregacao", "monohibridismo",
              "di-hibridismo", "proporcao fenotipica", "proporcao genotipica",
              "quadro de punnett", "retrocruzamento", "cruzamento-teste", "epistasia",
              "homozigoto", "heterozigoto"] },
 
-  { id: "heredograma", frentes: ["biologia", "ciencias-natureza"], nome: "Heredograma", area: "Ciências da Natureza",
+  { id: "heredograma", frentes: ["biologia"], nome: "Heredograma", area: "Ciências da Natureza",
     termos: ["heredograma", "genealogia", "arvore genealogica", "probando",
              "geracao i", "geracao ii", "afetado", "portador", "consanguineo"] },
 
-  { id: "genetica", frentes: ["biologia", "ciencias-natureza"], nome: "Genética: herança e alelos", area: "Ciências da Natureza",
+  { id: "genetica", frentes: ["biologia"], nome: "Genética: herança e alelos", area: "Ciências da Natureza",
     termos: ["genetica", "alelo", "genotipo", "fenotipo", "dominante", "recessivo",
              "codominancia", "dominancia incompleta", "alelos multiplos",
              "grupo sanguineo", "sistema abo", "fator rh", "daltonismo", "hemofilia",
              "ligada ao sexo", "linkage", "permutacao genica"] },
 
-  { id: "dna-sintese-proteica", frentes: ["biologia", "ciencias-natureza"], nome: "DNA e síntese proteica", area: "Ciências da Natureza",
+  { id: "dna-sintese-proteica", frentes: ["biologia"], nome: "DNA e síntese proteica", area: "Ciências da Natureza",
     termos: ["dna", "rna", "acido nucleico", "transcricao", "traducao", "codon",
              "replicacao", "gene", "cromossomo", "mutacao", "nucleotideo", "sintese proteica"] },
 
-  { id: "ecologia", frentes: ["biologia", "ciencias-natureza"], nome: "Ecologia", area: "Ciências da Natureza",
+  { id: "ecologia", frentes: ["biologia"], nome: "Ecologia", area: "Ciências da Natureza",
     termos: ["ecologia", "ecossistema", "cadeia alimentar", "teia alimentar", "nivel trofico",
              "produtor", "consumidor", "decompositor", "biomassa", "sucessao ecologica",
              "populacao", "comunidade", "bioma", "ciclo do carbono", "ciclo do nitrogenio",
@@ -348,7 +348,7 @@ window.ASSUNTOS = [
   // Gênero NÃO é resolvido pelo motor: buscaRadical corta -s/-es e nada mais,
   // então "respiratorio" e "respiratoria" são tokens diferentes e as duas
   // formas precisam estar listadas. Só o plural pode ser omitido.
-  { id: "sistema-digestorio", frentes: ["biologia", "ciencias-natureza"], nome: "Sistema digestório", area: "Ciências da Natureza",
+  { id: "sistema-digestorio", frentes: ["biologia"], nome: "Sistema digestório", area: "Ciências da Natureza",
     termos: ["fisiologia humana", "fisiologia", "sistema digestorio", "digestorio", "digestoria",
              "digestao", "aparelho digestivo", "digestivo", "digestiva", "tubo digestivo",
              "estomago", "gastrico", "gastrica", "suco gastrico", "acido cloridrico",
@@ -363,7 +363,7 @@ window.ASSUNTOS = [
              "absorcao intestinal", "microbiota", "microbiota intestinal", "saliva", "salivar",
              "esfincter", "quilomicron"] },
 
-  { id: "sistema-respiratorio", frentes: ["biologia", "ciencias-natureza"], nome: "Sistema respiratório", area: "Ciências da Natureza",
+  { id: "sistema-respiratorio", frentes: ["biologia"], nome: "Sistema respiratório", area: "Ciências da Natureza",
     termos: ["fisiologia humana", "fisiologia", "sistema respiratorio", "respiratorio", "respiratoria",
              "aparelho respiratorio", "via aerea", "pulmao", "pulmonar", "alveolo", "alveolar",
              "bronquio", "bronquiolo", "traqueia", "laringe", "faringe", "epiglote",
@@ -374,7 +374,7 @@ window.ASSUNTOS = [
              "pressao parcial", "saturacao de oxigenio", "quimiorreceptor",
              "asma", "enfisema", "pneumonia", "tabagismo", "hipoxia"] },
 
-  { id: "sistema-circulatorio", frentes: ["biologia", "ciencias-natureza"], nome: "Sistema circulatório", area: "Ciências da Natureza",
+  { id: "sistema-circulatorio", frentes: ["biologia"], nome: "Sistema circulatório", area: "Ciências da Natureza",
     termos: ["fisiologia humana", "fisiologia", "sistema circulatorio", "circulatorio", "circulatoria",
              "sistema cardiovascular", "cardiovascular", "coracao", "cardiaco", "cardiaca",
              "arteria", "arterial", "veia", "venoso", "venosa", "capilar", "vaso sanguineo",
@@ -386,7 +386,7 @@ window.ASSUNTOS = [
              "plasma sanguineo", "hemoglobina", "hematocrito", "coagulacao", "fibrina",
              "anemia", "linfa", "linfatico", "vaso linfatico", "batimento"] },
 
-  { id: "sistema-excretor", frentes: ["biologia", "ciencias-natureza"], nome: "Sistema excretor", area: "Ciências da Natureza",
+  { id: "sistema-excretor", frentes: ["biologia"], nome: "Sistema excretor", area: "Ciências da Natureza",
     termos: ["fisiologia humana", "fisiologia", "sistema excretor", "excretor", "excretora",
              "sistema urinario", "urinario", "urinaria", "excrecao", "rim", "renal",
              "nefron", "glomerulo", "glomerular", "capsula de bowman", "filtracao glomerular",
@@ -403,7 +403,7 @@ window.ASSUNTOS = [
              "renina", "dialise", "hemodialise", "calculo renal", "insuficiencia renal",
              "diurese", "diuretico", "homeostase"] },
 
-  { id: "sistema-nervoso", frentes: ["biologia", "ciencias-natureza"], nome: "Sistema nervoso", area: "Ciências da Natureza",
+  { id: "sistema-nervoso", frentes: ["biologia"], nome: "Sistema nervoso", area: "Ciências da Natureza",
     termos: ["fisiologia humana", "fisiologia", "sistema nervoso", "nervoso", "nervosa",
              "neuronio", "neuronal", "axonio", "dendrito", "corpo celular", "sinapse", "sinaptica",
              "fenda sinaptica", "neurotransmissor", "acetilcolina", "dopamina", "serotonina",
@@ -418,7 +418,7 @@ window.ASSUNTOS = [
              "simpatico", "parassimpatico", "receptor sensorial", "orgao dos sentidos",
              "retina", "coclea", "sinaptico", "psicoativo", "anestesico"] },
 
-  { id: "sistema-endocrino", frentes: ["biologia", "ciencias-natureza"], nome: "Sistema endócrino", area: "Ciências da Natureza",
+  { id: "sistema-endocrino", frentes: ["biologia"], nome: "Sistema endócrino", area: "Ciências da Natureza",
     termos: ["fisiologia humana", "fisiologia", "sistema endocrino", "endocrino", "endocrina",
              "hormonio", "hormonal", "glandula", "glandula endocrina", "hipofise", "hipofisario",
              "hipotalamo", "tireoide", "paratireoide", "adrenal", "suprarrenal", "pineal",
@@ -432,60 +432,60 @@ window.ASSUNTOS = [
              "hipertireoidismo", "hipotireoidismo", "bocio", "homeostase",
              "receptor hormonal", "orgao alvo", "celula alvo"] },
 
-  { id: "evolucao", frentes: ["biologia", "ciencias-natureza"], nome: "Evolução", area: "Ciências da Natureza",
+  { id: "evolucao", frentes: ["biologia"], nome: "Evolução", area: "Ciências da Natureza",
     termos: ["evolucao", "selecao natural", "darwin", "lamarck", "especiacao",
              "deriva genetica", "adaptacao", "ancestral comum", "fossil", "convergencia adaptativa"] },
 
-  { id: "fotossintese-respiracao", frentes: ["biologia", "ciencias-natureza"], nome: "Fotossíntese e respiração celular", area: "Ciências da Natureza",
+  { id: "fotossintese-respiracao", frentes: ["biologia"], nome: "Fotossíntese e respiração celular", area: "Ciências da Natureza",
     termos: ["fotossintese", "respiracao celular", "clorofila", "atp", "glicolise",
              "ciclo de krebs", "cadeia respiratoria", "fermentacao", "gas carbonico"] },
 
-  { id: "microbiologia-imunologia", frentes: ["biologia", "ciencias-natureza"], nome: "Microbiologia e imunologia", area: "Ciências da Natureza",
+  { id: "microbiologia-imunologia", frentes: ["biologia"], nome: "Microbiologia e imunologia", area: "Ciências da Natureza",
     termos: ["virus", "bacteria", "fungo", "protozoario", "vacina", "anticorpo", "antigeno",
              "imunidade", "antibiotico", "epidemia", "parasita", "verminose", "soro"] },
 
   // ---------------------------------------------------------------------
   // QUÍMICA
   // ---------------------------------------------------------------------
-  { id: "estequiometria", frentes: ["quimica", "ciencias-natureza"], nome: "Estequiometria", area: "Ciências da Natureza",
+  { id: "estequiometria", frentes: ["quimica"], nome: "Estequiometria", area: "Ciências da Natureza",
     termos: ["estequiometria", "mol", "massa molar", "reagente limitante", "balanceamento",
              "rendimento", "numero de avogadro", "proporcao estequiometrica"] },
 
-  { id: "tabela-periodica", frentes: ["quimica", "ciencias-natureza"], nome: "Tabela periódica", area: "Ciências da Natureza",
+  { id: "tabela-periodica", frentes: ["quimica"], nome: "Tabela periódica", area: "Ciências da Natureza",
     termos: ["tabela periodica", "periodicidade", "eletronegatividade", "raio atomico",
              "energia de ionizacao", "metal alcalino", "halogenio", "gas nobre",
              "familia", "periodo", "numero atomico"] },
 
-  { id: "ligacoes-quimicas", frentes: ["quimica", "ciencias-natureza"], nome: "Ligações químicas", area: "Ciências da Natureza",
+  { id: "ligacoes-quimicas", frentes: ["quimica"], nome: "Ligações químicas", area: "Ciências da Natureza",
     termos: ["ligacao ionica", "ligacao covalente", "ligacao metalica", "ligacao quimica",
              "polaridade", "geometria molecular", "ponte de hidrogenio", "forca intermolecular",
              "dipolo"] },
 
-  { id: "solucoes", frentes: ["quimica", "ciencias-natureza"], nome: "Soluções e concentração", area: "Ciências da Natureza",
+  { id: "solucoes", frentes: ["quimica"], nome: "Soluções e concentração", area: "Ciências da Natureza",
     termos: ["solucao", "concentracao", "molaridade", "soluto", "solvente", "diluicao",
              "solubilidade", "titulacao", "ppm"] },
 
-  { id: "acidos-bases-ph", frentes: ["quimica", "ciencias-natureza"], nome: "Ácidos, bases e pH", area: "Ciências da Natureza",
+  { id: "acidos-bases-ph", frentes: ["quimica"], nome: "Ácidos, bases e pH", area: "Ciências da Natureza",
     termos: ["acido", "base", "ph", "poh", "neutralizacao", "indicador", "tampao",
              "hidrolise", "sal", "arrhenius", "bronsted"] },
 
-  { id: "termoquimica", frentes: ["quimica", "ciencias-natureza"], nome: "Termoquímica", area: "Ciências da Natureza",
+  { id: "termoquimica", frentes: ["quimica"], nome: "Termoquímica", area: "Ciências da Natureza",
     termos: ["termoquimica", "entalpia", "exotermica", "endotermica", "calor de reacao",
              "lei de hess", "energia de ligacao", "combustao"] },
 
   // Cinética e equilíbrio eram um assunto só. Foram separados porque são dois
   // capítulos distintos no cronograma de qualquer aluno — e porque a busca
   // precisa responder a "equilíbrio químico" sem trazer catalisador junto.
-  { id: "equilibrio-quimico", frentes: ["quimica", "ciencias-natureza"], nome: "Equilíbrio químico", area: "Ciências da Natureza",
+  { id: "equilibrio-quimico", frentes: ["quimica"], nome: "Equilíbrio químico", area: "Ciências da Natureza",
     termos: ["equilibrio quimico", "le chatelier", "constante de equilibrio",
              "deslocamento do equilibrio", "kc", "kp", "grau de equilibrio",
              "equilibrio dinamico", "quociente de reacao"] },
 
-  { id: "cinetica-quimica", frentes: ["quimica", "ciencias-natureza"], nome: "Cinética química", area: "Ciências da Natureza",
+  { id: "cinetica-quimica", frentes: ["quimica"], nome: "Cinética química", area: "Ciências da Natureza",
     termos: ["cinetica", "velocidade da reacao", "catalisador", "energia de ativacao",
              "ordem de reacao", "complexo ativado", "colisao efetiva"] },
 
-  { id: "quimica-organica", frentes: ["quimica", "ciencias-natureza"], nome: "Química orgânica", area: "Ciências da Natureza",
+  { id: "quimica-organica", frentes: ["quimica"], nome: "Química orgânica", area: "Ciências da Natureza",
     termos: ["quimica organica", "hidrocarboneto", "alcano", "alceno", "alcool", "aldeido",
              "cetona", "acido carboxilico", "ester", "amina", "funcao organica", "isomeria",
              "cadeia carbonica", "polimero", "nomenclatura"] },
@@ -493,12 +493,12 @@ window.ASSUNTOS = [
   // Oxirredução saiu de dentro de Eletroquímica e virou assunto próprio: ela é
   // pré-requisito da pilha, mas também é cobrada sozinha (balancear por nox,
   // identificar agente oxidante) em questão que não fala de eletroquímica.
-  { id: "oxirreducao", frentes: ["quimica", "ciencias-natureza"], nome: "Oxirredução", area: "Ciências da Natureza",
+  { id: "oxirreducao", frentes: ["quimica"], nome: "Oxirredução", area: "Ciências da Natureza",
     termos: ["oxirreducao", "oxidacao", "reducao", "nox", "numero de oxidacao",
              "agente oxidante", "agente redutor", "balanceamento por oxirreducao",
              "semirreacao"] },
 
-  { id: "eletroquimica", frentes: ["quimica", "ciencias-natureza"], nome: "Eletroquímica", area: "Ciências da Natureza",
+  { id: "eletroquimica", frentes: ["quimica"], nome: "Eletroquímica", area: "Ciências da Natureza",
     termos: ["eletroquimica", "pilha", "eletrolise", "anodo", "catodo",
              "potencial padrao", "ddp", "corrosao", "galvanica", "faraday",
              "eletrodo", "ponte salina"] },
@@ -506,82 +506,82 @@ window.ASSUNTOS = [
   // ---------------------------------------------------------------------
   // FÍSICA
   // ---------------------------------------------------------------------
-  { id: "cinematica", frentes: ["fisica", "ciencias-natureza"], nome: "Cinemática", area: "Ciências da Natureza",
+  { id: "cinematica", frentes: ["fisica"], nome: "Cinemática", area: "Ciências da Natureza",
     termos: ["cinematica", "velocidade media", "aceleracao", "movimento uniforme",
              "movimento uniformemente variado", "lancamento", "queda livre", "deslocamento",
              "trajetoria", "grafico de velocidade"] },
 
-  { id: "leis-de-newton", frentes: ["fisica", "ciencias-natureza"], nome: "Leis de Newton e dinâmica", area: "Ciências da Natureza",
+  { id: "leis-de-newton", frentes: ["fisica"], nome: "Leis de Newton e dinâmica", area: "Ciências da Natureza",
     termos: ["leis de newton", "forca resultante", "inercia", "acao e reacao", "atrito",
              "normal", "tracao", "plano inclinado", "dinamica", "peso"] },
 
-  { id: "energia-trabalho", frentes: ["fisica", "ciencias-natureza"], nome: "Trabalho, energia e potência", area: "Ciências da Natureza",
+  { id: "energia-trabalho", frentes: ["fisica"], nome: "Trabalho, energia e potência", area: "Ciências da Natureza",
     termos: ["trabalho", "energia cinetica", "energia potencial", "conservacao de energia",
              "potencia", "rendimento", "energia mecanica", "joule"] },
 
-  { id: "eletricidade", frentes: ["fisica", "ciencias-natureza"], nome: "Eletricidade e circuitos", area: "Ciências da Natureza",
+  { id: "eletricidade", frentes: ["fisica"], nome: "Eletricidade e circuitos", area: "Ciências da Natureza",
     termos: ["corrente eletrica", "tensao", "resistencia", "lei de ohm", "circuito",
              "resistor", "potencia eletrica", "capacitor", "curto-circuito", "serie e paralelo",
              "campo eletrico", "carga eletrica"] },
 
-  { id: "termologia", frentes: ["fisica", "ciencias-natureza"], nome: "Termologia e termodinâmica", area: "Ciências da Natureza",
+  { id: "termologia", frentes: ["fisica"], nome: "Termologia e termodinâmica", area: "Ciências da Natureza",
     termos: ["termologia", "termodinamica", "calor especifico", "calor latente",
              "dilatacao", "mudanca de estado", "temperatura", "maquina termica",
              "gas ideal", "entropia", "conducao", "conveccao", "irradiacao"] },
 
-  { id: "ondas-som", frentes: ["fisica", "ciencias-natureza"], nome: "Ondas e som", area: "Ciências da Natureza",
+  { id: "ondas-som", frentes: ["fisica"], nome: "Ondas e som", area: "Ciências da Natureza",
     termos: ["onda", "frequencia", "comprimento de onda", "amplitude", "som",
              "efeito doppler", "ressonancia", "interferencia", "difracao", "periodo",
              "ondulatoria", "eco"] },
 
-  { id: "optica", frentes: ["fisica", "ciencias-natureza"], nome: "Óptica", area: "Ciências da Natureza",
+  { id: "optica", frentes: ["fisica"], nome: "Óptica", area: "Ciências da Natureza",
     termos: ["optica", "refracao", "reflexao", "lente", "espelho", "indice de refracao",
              "imagem virtual", "imagem real", "miopia", "hipermetropia", "prisma",
              "angulo de incidencia"] },
 
-  { id: "eletromagnetismo", frentes: ["fisica", "ciencias-natureza"], nome: "Eletromagnetismo", area: "Ciências da Natureza",
+  { id: "eletromagnetismo", frentes: ["fisica"], nome: "Eletromagnetismo", area: "Ciências da Natureza",
     termos: ["campo magnetico", "eletromagnetismo", "ima", "inducao", "faraday", "lenz",
              "forca magnetica", "transformador", "fluxo magnetico"] },
 
   // ---------------------------------------------------------------------
   // HISTÓRIA
   // ---------------------------------------------------------------------
-  { id: "brasil-colonia", frentes: ["historia-brasil", "historia"], nome: "Brasil Colônia", area: "Humanas",
+  { id: "brasil-colonia", frentes: ["historia"], nome: "Brasil Colônia", area: "Humanas",
     termos: ["brasil colonia", "colonial", "capitania hereditaria", "engenho", "escravidao",
              "bandeirante", "quilombo", "palmares", "pacto colonial", "mineracao",
              "inconfidencia", "jesuita"] },
 
-  { id: "brasil-imperio", frentes: ["historia-brasil", "historia"], nome: "Brasil Império", area: "Humanas",
+  { id: "brasil-imperio", frentes: ["historia"], nome: "Brasil Império", area: "Humanas",
     termos: ["independencia", "primeiro reinado", "segundo reinado", "regencia",
              "dom pedro", "lei aurea", "abolicao", "guerra do paraguai", "cafe",
              "constituicao de 1824", "proclamacao da republica"] },
 
-  { id: "republica-velha-vargas", frentes: ["historia-brasil", "historia"], nome: "República Velha e Era Vargas", area: "Humanas",
+  { id: "republica-velha-vargas", frentes: ["historia"], nome: "República Velha e Era Vargas", area: "Humanas",
     termos: ["republica velha", "coronelismo", "cafe com leite", "tenentismo",
              "revolucao de 1930", "getulio vargas", "estado novo", "clt", "populismo",
              "canudos", "contestado"] },
 
-  { id: "ditadura-redemocratizacao", frentes: ["historia-brasil", "historia"], nome: "Ditadura militar e redemocratização", area: "Humanas",
+  { id: "ditadura-redemocratizacao", frentes: ["historia"], nome: "Ditadura militar e redemocratização", area: "Humanas",
     termos: ["ditadura militar", "golpe de 1964", "ai-5", "milagre economico",
              "anistia", "diretas ja", "redemocratizacao", "constituicao de 1988",
              "abertura politica", "censura"] },
 
-  { id: "revolucoes-burguesas", frentes: ["historia-geral", "historia"], nome: "Revoluções burguesas e Iluminismo", area: "Humanas",
+  { id: "revolucoes-burguesas", frentes: ["historia"], nome: "Revoluções burguesas e Iluminismo", area: "Humanas",
     termos: ["revolucao francesa", "iluminismo", "revolucao industrial", "revolucao inglesa",
              "independencia dos estados unidos", "liberalismo", "burguesia", "antigo regime",
              "absolutismo", "declaracao dos direitos"] },
 
-  { id: "guerras-mundiais", frentes: ["historia-geral", "historia"], nome: "Guerras Mundiais", area: "Humanas",
+  { id: "guerras-mundiais", frentes: ["historia"], nome: "Guerras Mundiais", area: "Humanas",
     termos: ["primeira guerra", "segunda guerra", "nazismo", "fascismo", "holocausto",
              "hitler", "tratado de versalhes", "totalitarismo", "pearl harbor",
              "bomba atomica", "revolucao russa", "crise de 1929"] },
 
-  { id: "guerra-fria", frentes: ["historia-geral", "historia"], nome: "Guerra Fria e descolonização", area: "Humanas",
+  { id: "guerra-fria", frentes: ["historia"], nome: "Guerra Fria e descolonização", area: "Humanas",
     termos: ["guerra fria", "otan", "pacto de varsovia", "muro de berlim", "corrida armamentista",
              "descolonizacao", "socialismo", "capitalismo", "queda da uniao sovietica",
              "revolucao cubana", "apartheid"] },
 
-  { id: "idade-media-antiguidade", frentes: ["historia-geral", "historia"], nome: "Antiguidade e Idade Média", area: "Humanas",
+  { id: "idade-media-antiguidade", frentes: ["historia"], nome: "Antiguidade e Idade Média", area: "Humanas",
     termos: ["idade media", "feudalismo", "imperio romano", "grecia antiga", "cruzadas",
              "igreja medieval", "renascimento", "reforma protestante", "mercantilismo",
              "grandes navegacoes", "democracia ateniense"] },
@@ -604,7 +604,7 @@ window.ASSUNTOS = [
              "bioma", "cerrado", "caatinga", "amazonia", "mata atlantica", "pampa",
              "relevo", "bacia hidrografica", "solo"] },
 
-  { id: "globalizacao", frentes: ["geografia", "atualidades-geopolitica"], nome: "Globalização e blocos econômicos", area: "Humanas",
+  { id: "globalizacao", frentes: ["geografia", "atualidades"], nome: "Globalização e blocos econômicos", area: "Humanas",
     termos: ["globalizacao", "bloco economico", "mercosul", "uniao europeia", "brics",
              "omc", "fmi", "multinacional", "divisao internacional do trabalho",
              "cadeia produtiva global", "neoliberalismo"] },
@@ -614,7 +614,7 @@ window.ASSUNTOS = [
              "monocultura", "commodities", "fronteira agricola", "revolucao verde",
              "estrutura fundiaria", "latifundio"] },
 
-  { id: "energia-recursos", frentes: ["geografia", "atualidades-meioambiente"], nome: "Energia e recursos naturais", area: "Humanas",
+  { id: "energia-recursos", frentes: ["geografia", "atualidades"], nome: "Energia e recursos naturais", area: "Humanas",
     termos: ["matriz energetica", "energia renovavel", "hidreletrica", "petroleo",
              "pre-sal", "energia eolica", "energia solar", "biocombustivel",
              "transicao energetica", "mineracao"] },
@@ -658,22 +658,22 @@ window.ASSUNTOS = [
              "feminismo", "lgbt", "povos indigenas", "quilombola", "pessoa com deficiencia",
              "inclusao", "vulnerabilidade"] },
 
-  { id: "meio-ambiente-clima", frentes: ["atualidades-meioambiente", "atualidades", "geografia"], nome: "Mudanças climáticas", area: "Atualidades",
+  { id: "meio-ambiente-clima", frentes: ["atualidades", "geografia"], nome: "Mudanças climáticas", area: "Atualidades",
     termos: ["mudanca climatica", "aquecimento global", "efeito estufa", "acordo de paris",
              "cop", "desmatamento", "sustentabilidade", "carbono", "credito de carbono",
              "biodiversidade", "agenda 2030", "ods"] },
 
-  { id: "tecnologia-sociedade", frentes: ["atualidades-tecnologia", "atualidades"], nome: "Tecnologia e sociedade", area: "Atualidades",
+  { id: "tecnologia-sociedade", frentes: ["atualidades"], nome: "Tecnologia e sociedade", area: "Atualidades",
     termos: ["inteligencia artificial", "algoritmo", "rede social", "privacidade",
              "dados pessoais", "lgpd", "desinformacao", "fake news", "bolha informacional",
              "automacao", "big data", "plataforma digital"] },
 
-  { id: "geopolitica-conflitos", frentes: ["atualidades-geopolitica", "atualidades"], nome: "Conflitos e geopolítica", area: "Atualidades",
+  { id: "geopolitica-conflitos", frentes: ["atualidades"], nome: "Conflitos e geopolítica", area: "Atualidades",
     termos: ["geopolitica", "conflito", "guerra", "onu", "conselho de seguranca",
              "refugiado", "sancao", "oriente medio", "ucrania", "china", "multipolaridade",
              "soberania", "diplomacia"] },
 
-  { id: "politica-economia-brasil", frentes: ["atualidades-politica", "atualidades"], nome: "Política e economia do Brasil", area: "Atualidades",
+  { id: "politica-economia-brasil", frentes: ["atualidades"], nome: "Política e economia do Brasil", area: "Atualidades",
     termos: ["reforma tributaria", "politica fiscal", "inflacao", "taxa selic",
              "banco central", "pib", "desemprego", "congresso nacional", "stf",
              "sistema eleitoral", "federalismo", "orcamento"] },
@@ -809,21 +809,21 @@ window.ASSUNTOS = [
   // ---------------------------------------------------------------------
   // ATUALIDADES — POLÍTICA E ECONOMIA
   // ---------------------------------------------------------------------
-  { id: "administracao-publica", frentes: ["atualidades-politica", "direitos-humanos"], nome: "Administração pública e controle", area: "Atualidades",
+  { id: "administracao-publica", frentes: ["atualidades", "direitos-humanos"], nome: "Administração pública e controle", area: "Atualidades",
     termos: ["administracao publica", "servidor publico", "licitacao", "transparencia",
              "tribunal de contas", "controle externo", "improbidade", "concurso publico",
              "gasto publico", "recursos publicos", "prestacao de contas"] },
 
-  { id: "tres-poderes", frentes: ["atualidades-politica"], nome: "Três poderes e instituições", area: "Atualidades",
+  { id: "tres-poderes", frentes: ["atualidades"], nome: "Três poderes e instituições", area: "Atualidades",
     termos: ["poder judiciario", "poder legislativo", "poder executivo", "supremo tribunal",
              "congresso nacional", "senado", "camara dos deputados", "medida provisoria",
              "veto", "checks and balances", "freios e contrapesos"] },
 
-  { id: "federalismo", frentes: ["atualidades-politica", "geografia"], nome: "Federalismo e municípios", area: "Atualidades",
+  { id: "federalismo", frentes: ["atualidades", "geografia"], nome: "Federalismo e municípios", area: "Atualidades",
     termos: ["federalismo", "municipios", "estados e municipios", "uniao", "repasse",
              "pacto federativo", "autonomia municipal", "competencia concorrente"] },
 
-  { id: "politicas-sociais", frentes: ["atualidades-politica", "direitos-humanos", "filosofia-sociologia"], nome: "Políticas sociais e renda", area: "Atualidades",
+  { id: "politicas-sociais", frentes: ["atualidades", "direitos-humanos", "filosofia-sociologia"], nome: "Políticas sociais e renda", area: "Atualidades",
     termos: ["transferencia de renda", "bolsa familia", "programa social", "salario minimo",
              "seguridade social", "previdencia", "assistencia social", "renda basica",
              "distribuicao de renda", "pobreza"] },
@@ -831,43 +831,43 @@ window.ASSUNTOS = [
   // ---------------------------------------------------------------------
   // ATUALIDADES — TECNOLOGIA
   // ---------------------------------------------------------------------
-  { id: "plataformas-digitais", frentes: ["atualidades-tecnologia", "filosofia-sociologia"], nome: "Plataformas digitais e trabalho", area: "Atualidades",
+  { id: "plataformas-digitais", frentes: ["atualidades", "filosofia-sociologia"], nome: "Plataformas digitais e trabalho", area: "Atualidades",
     termos: ["plataforma digital", "aplicativo", "uberizacao", "trabalho por aplicativo",
              "entregador", "motorista de aplicativo", "economia de plataforma",
              "streaming", "assinatura", "marketplace"] },
 
-  { id: "regulacao-digital", frentes: ["atualidades-tecnologia"], nome: "Regulação e moderação de conteúdo", area: "Atualidades",
+  { id: "regulacao-digital", frentes: ["atualidades"], nome: "Regulação e moderação de conteúdo", area: "Atualidades",
     termos: ["moderacao de conteudo", "regulacao das plataformas", "marco civil",
              "remocao de conteudo", "liberdade de expressao online", "responsabilidade das plataformas",
              "monopolio", "concorrencia digital"] },
 
-  { id: "inclusao-digital", frentes: ["atualidades-tecnologia", "geografia"], nome: "Inclusão e exclusão digital", area: "Atualidades",
+  { id: "inclusao-digital", frentes: ["atualidades", "geografia"], nome: "Inclusão e exclusão digital", area: "Atualidades",
     termos: ["inclusao digital", "exclusao digital", "acesso a internet", "letramento digital",
              "conectividade", "banda larga", "apagao digital"] },
 
   // ---------------------------------------------------------------------
   // ATUALIDADES — GEOPOLÍTICA E MEIO AMBIENTE
   // ---------------------------------------------------------------------
-  { id: "comercio-internacional", frentes: ["atualidades-geopolitica", "geografia"], nome: "Comércio internacional", area: "Atualidades",
+  { id: "comercio-internacional", frentes: ["atualidades", "geografia"], nome: "Comércio internacional", area: "Atualidades",
     termos: ["comercio internacional", "acordo comercial", "tarifa", "exportacao",
              "importacao", "balanca comercial", "protecionismo", "cadeia global de valor",
              "cadeia produtiva", "guerra comercial", "sancao economica"] },
 
-  { id: "organismos-internacionais", frentes: ["atualidades-geopolitica"], nome: "Organismos internacionais", area: "Atualidades",
+  { id: "organismos-internacionais", frentes: ["atualidades"], nome: "Organismos internacionais", area: "Atualidades",
     termos: ["organizacao das nacoes unidas", "conselho de seguranca", "fundo monetario",
              "banco mundial", "organizacao mundial do comercio", "unesco",
              "tratado internacional", "diplomacia", "direito internacional"] },
 
-  { id: "migracoes-refugio", frentes: ["atualidades-geopolitica", "direitos-humanos", "geografia"], nome: "Migrações e refúgio", area: "Atualidades",
+  { id: "migracoes-refugio", frentes: ["atualidades", "direitos-humanos", "geografia"], nome: "Migrações e refúgio", area: "Atualidades",
     termos: ["refugiado", "migracao internacional", "imigrante", "asilo", "xenofobia",
              "fronteira", "deslocamento forcado", "apatrida"] },
 
-  { id: "residuos-poluicao", frentes: ["atualidades-meioambiente", "geografia"], nome: "Resíduos e poluição", area: "Atualidades",
+  { id: "residuos-poluicao", frentes: ["atualidades", "geografia"], nome: "Resíduos e poluição", area: "Atualidades",
     termos: ["residuo solido", "lixo", "reciclagem", "poluicao", "saneamento basico",
              "esgoto", "aterro sanitario", "economia circular", "plastico",
              "contaminacao", "qualidade do ar"] },
 
-  { id: "conservacao", frentes: ["atualidades-meioambiente", "geografia", "biologia"], nome: "Conservação e áreas protegidas", area: "Atualidades",
+  { id: "conservacao", frentes: ["atualidades", "geografia", "biologia"], nome: "Conservação e áreas protegidas", area: "Atualidades",
     termos: ["unidade de conservacao", "area protegida", "reserva", "parque nacional",
              "terra indigena", "extincao", "especie ameacada", "restauracao ecologica",
              "servico ecossistemico"] },
@@ -875,22 +875,22 @@ window.ASSUNTOS = [
   // ---------------------------------------------------------------------
   // HISTÓRIA — o que a primeira leva não cobria
   // ---------------------------------------------------------------------
-  { id: "imperialismo", frentes: ["historia-geral", "historia"], nome: "Imperialismo e partilha", area: "Humanas",
+  { id: "imperialismo", frentes: ["historia"], nome: "Imperialismo e partilha", area: "Humanas",
     termos: ["imperialismo", "neocolonialismo", "partilha da africa", "colonizacao da asia",
              "conferencia de berlim", "darwinismo social", "missao civilizadora",
              "resistencia colonial"] },
 
-  { id: "america-latina", frentes: ["historia-geral", "historia"], nome: "América Latina", area: "Humanas",
+  { id: "america-latina", frentes: ["historia"], nome: "América Latina", area: "Humanas",
     termos: ["america latina", "independencia da america", "caudilhismo",
              "ditadura militar no chile", "revolucao mexicana", "peronismo",
              "operacao condor", "bolivar", "populismo latino-americano"] },
 
-  { id: "mundo-contemporaneo", frentes: ["historia-geral", "historia", "atualidades-geopolitica"], nome: "Mundo pós-1991", area: "Humanas",
+  { id: "mundo-contemporaneo", frentes: ["historia", "atualidades"], nome: "Mundo pós-1991", area: "Humanas",
     termos: ["fim da guerra fria", "nova ordem mundial", "terrorismo", "onze de setembro",
              "primavera arabe", "uniao europeia", "globalizacao economica",
              "ascensao da china", "multipolar"] },
 
-  { id: "movimentos-sociais-sec-xx", frentes: ["historia-geral", "historia", "filosofia-sociologia"], nome: "Movimentos sociais do século XX", area: "Humanas",
+  { id: "movimentos-sociais-sec-xx", frentes: ["historia", "filosofia-sociologia"], nome: "Movimentos sociais do século XX", area: "Humanas",
     termos: ["direitos civis", "movimento negro", "sufragio feminino", "maio de 68",
              "sindicalismo", "greve", "contracultura", "movimento estudantil",
              "luta pela terra"] },
@@ -936,7 +936,7 @@ window.ASSUNTOS = [
              "totalitarismo", "banalidade do mal", "esfera publica", "habermas",
              "democracia deliberativa", "cidadania"] },
 
-  { id: "sociologia-do-trabalho", frentes: ["filosofia-sociologia", "atualidades-tecnologia"], nome: "Sociologia do trabalho", area: "Humanas",
+  { id: "sociologia-do-trabalho", frentes: ["filosofia-sociologia", "atualidades"], nome: "Sociologia do trabalho", area: "Humanas",
     termos: ["divisao do trabalho", "taylorismo", "fordismo", "toyotismo",
              "precarizacao", "terceirizacao", "desemprego estrutural",
              "reestruturacao produtiva", "mais-valia"] },
@@ -998,17 +998,17 @@ window.ASSUNTOS = [
   // ---------------------------------------------------------------------
   // MATEMÁTICA — os problemas que não nomeiam o conteúdo
   // ---------------------------------------------------------------------
-  { id: "aritmetica-problemas", frentes: ["matematica-rlm", "matematica"], nome: "Aritmética e problemas", area: "Matemática",
+  { id: "aritmetica-problemas", frentes: ["matematica"], nome: "Aritmética e problemas", area: "Matemática",
     termos: ["quantos", "quantas", "quanto custa", "valor total", "quantia",
              "sobra", "resto", "divisao", "multiplicacao", "soma", "subtracao",
              "unidades", "reais", "troco"] },
 
-  { id: "medidas-unidades", frentes: ["matematica-rlm", "matematica", "fisica"], nome: "Medidas e conversão de unidades", area: "Matemática",
+  { id: "medidas-unidades", frentes: ["matematica", "fisica"], nome: "Medidas e conversão de unidades", area: "Matemática",
     termos: ["conversao de unidade", "metro", "quilometro", "centimetro", "litro",
              "quilograma", "grama", "hora", "minuto", "velocidade media",
              "densidade", "vazao"] },
 
-  { id: "matematica-financeira", frentes: ["matematica-rlm", "matematica"], nome: "Matemática financeira aplicada", area: "Matemática",
+  { id: "matematica-financeira", frentes: ["matematica"], nome: "Matemática financeira aplicada", area: "Matemática",
     termos: ["parcela", "prestacao", "financiamento", "emprestimo", "mensal",
              "tarifa", "plano de assinatura", "custo fixo", "custo variavel",
              "lucro", "prejuizo", "margem"] },
@@ -1030,69 +1030,69 @@ window.ASSUNTOS = [
   // =====================================================================
 
   // ---------- Biologia ----------
-  { id: "botanica", frentes: ["biologia", "ciencias-natureza"], nome: "Botânica", area: "Ciências da Natureza",
+  { id: "botanica", frentes: ["biologia"], nome: "Botânica", area: "Ciências da Natureza",
     termos: ["botanica", "xilema", "floema", "estomato", "angiosperma", "gimnosperma",
              "briofita", "pteridofita", "polinizacao", "germinacao", "auxina",
              "fitormonio", "tropismo", "transpiracao vegetal", "seiva"] },
 
-  { id: "zoologia", frentes: ["biologia", "ciencias-natureza"], nome: "Zoologia", area: "Ciências da Natureza",
+  { id: "zoologia", frentes: ["biologia"], nome: "Zoologia", area: "Ciências da Natureza",
     termos: ["zoologia", "artropode", "molusco", "anelideo", "cordado", "vertebrado",
              "invertebrado", "anfibio", "reptil", "cnidario", "platelminto",
              "nematoda", "equinodermo", "metamorfose", "exoesqueleto"] },
 
-  { id: "biotecnologia", frentes: ["biologia", "ciencias-natureza"], nome: "Biotecnologia", area: "Ciências da Natureza",
+  { id: "biotecnologia", frentes: ["biologia"], nome: "Biotecnologia", area: "Ciências da Natureza",
     termos: ["biotecnologia", "transgenico", "dna recombinante", "clonagem", "crispr",
              "engenharia genetica", "organismo geneticamente modificado", "pcr",
              "plasmideo", "enzima de restricao", "terapia genica", "celula-tronco",
              "sequenciamento"] },
 
-  { id: "bioquimica", frentes: ["biologia", "ciencias-natureza", "quimica"], nome: "Bioquímica", area: "Ciências da Natureza",
+  { id: "bioquimica", frentes: ["biologia", "quimica"], nome: "Bioquímica", area: "Ciências da Natureza",
     termos: ["bioquimica", "proteina", "aminoacido", "enzima", "substrato",
              "desnaturacao", "sitio ativo", "lipidio", "carboidrato", "glicose",
              "peptidica", "metabolismo", "vitamina"] },
 
   // ---------- Química ----------
-  { id: "funcoes-inorganicas", frentes: ["quimica", "ciencias-natureza"], nome: "Funções inorgânicas", area: "Ciências da Natureza",
+  { id: "funcoes-inorganicas", frentes: ["quimica"], nome: "Funções inorgânicas", area: "Ciências da Natureza",
     termos: ["funcao inorganica", "oxido", "hidreto", "hidroxido", "nomenclatura inorganica",
              "sal inorganico", "anidrido", "peroxido", "acido oxigenado"] },
 
   // ---------- Física ----------
-  { id: "gravitacao", frentes: ["fisica", "ciencias-natureza"], nome: "Gravitação", area: "Ciências da Natureza",
+  { id: "gravitacao", frentes: ["fisica"], nome: "Gravitação", area: "Ciências da Natureza",
     termos: ["gravitacao", "lei da gravitacao", "kepler", "orbita", "satelite",
              "campo gravitacional", "velocidade orbital", "periodo orbital",
              "afelio", "perielio", "constante gravitacional"] },
 
-  { id: "hidrostatica", frentes: ["fisica", "ciencias-natureza"], nome: "Hidrostática", area: "Ciências da Natureza",
+  { id: "hidrostatica", frentes: ["fisica"], nome: "Hidrostática", area: "Ciências da Natureza",
     termos: ["hidrostatica", "empuxo", "arquimedes", "pressao hidrostatica",
              "principio de pascal", "vasos comunicantes", "prensa hidraulica",
              "flutuacao", "pressao atmosferica", "densidade do fluido"] },
 
-  { id: "gases", frentes: ["fisica", "ciencias-natureza", "quimica"], nome: "Estudo dos gases", area: "Ciências da Natureza",
+  { id: "gases", frentes: ["fisica", "quimica"], nome: "Estudo dos gases", area: "Ciências da Natureza",
     termos: ["gas ideal", "gas perfeito", "clapeyron", "isotermica", "isobarica",
              "isovolumetrica", "isocorica", "transformacao gasosa", "lei geral dos gases",
              "boyle", "charles", "teoria cinetica dos gases", "volume molar"] },
 
-  { id: "eletrostatica", frentes: ["fisica", "ciencias-natureza"], nome: "Eletrostática", area: "Ciências da Natureza",
+  { id: "eletrostatica", frentes: ["fisica"], nome: "Eletrostática", area: "Ciências da Natureza",
     termos: ["eletrostatica", "carga eletrica", "lei de coulomb", "campo eletrico",
              "potencial eletrico", "eletrizacao", "atrito", "inducao eletrostatica",
              "linhas de campo", "blindagem", "capacitor", "diferenca de potencial"] },
 
   // ---------- Matemática ----------
-  { id: "matrizes", frentes: ["matematica-rlm", "matematica"], nome: "Matrizes", area: "Matemática",
+  { id: "matrizes", frentes: ["matematica"], nome: "Matrizes", area: "Matemática",
     termos: ["matriz", "matriz identidade", "matriz transposta", "matriz inversa",
              "produto de matrizes", "ordem da matriz", "lei de formacao",
              "matriz quadrada", "matriz nula", "elemento aij"] },
 
-  { id: "determinantes", frentes: ["matematica-rlm", "matematica"], nome: "Determinantes", area: "Matemática",
+  { id: "determinantes", frentes: ["matematica"], nome: "Determinantes", area: "Matemática",
     termos: ["determinante", "regra de sarrus", "laplace", "cofator",
              "menor complementar", "propriedades do determinante", "matriz singular"] },
 
-  { id: "sistemas-lineares", frentes: ["matematica-rlm", "matematica"], nome: "Sistemas lineares", area: "Matemática",
+  { id: "sistemas-lineares", frentes: ["matematica"], nome: "Sistemas lineares", area: "Matemática",
     termos: ["sistema linear", "escalonamento", "sistema possivel", "sistema impossivel",
              "determinado", "indeterminado", "regra de cramer", "matriz dos coeficientes",
              "discussao do sistema"] },
 
-  { id: "geometria-analitica", frentes: ["matematica-rlm", "matematica"], nome: "Geometria analítica", area: "Matemática",
+  { id: "geometria-analitica", frentes: ["matematica"], nome: "Geometria analítica", area: "Matemática",
     termos: ["geometria analitica", "plano cartesiano", "distancia entre pontos",
              "ponto medio", "equacao da reta", "coeficiente angular", "retas paralelas",
              "retas perpendiculares", "equacao da circunferencia", "baricentro",

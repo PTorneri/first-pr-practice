@@ -29,7 +29,7 @@
 // — hoje só acontece nos testes.
 const PLANO_CFG = (function () {
   const padrao = {
-    totalDias: 90, frentesPorDia: 2, exerciciosMin: 12, exerciciosMax: 15,
+    totalDias: 90, subtemasPorDia: 3, exerciciosMin: 8, exerciciosMax: 10,
     simuladoQtd: 45, simuladoMinPorFrente: 1, seed: 20260101,
   };
   const cfg = window.VD_TRILHA && window.VD_TRILHA.config();
@@ -37,7 +37,7 @@ const PLANO_CFG = (function () {
 })();
 
 const TOTAL_DAYS = PLANO_CFG.totalDias;
-const TOPICS_PER_DAY = PLANO_CFG.frentesPorDia;
+const TOPICS_PER_DAY = PLANO_CFG.subtemasPorDia;
 const MIN_EXERCISES_PER_TOPIC = PLANO_CFG.exerciciosMin;
 const MAX_EXERCISES_PER_TOPIC = PLANO_CFG.exerciciosMax;
 const SIMULADO_TOTAL_QUESTIONS = PLANO_CFG.simuladoQtd;
@@ -265,29 +265,61 @@ function proportionalAllocate(ids, weights, total, rng, minPerItem) {
 }
 
 // Constrói a fila de temas de UM ciclo (bloco de dias entre dois simulados),
-// com exatamente totalSlots posições, distribuindo as vagas entre os temas
-// de forma proporcional aos pesos via proportionalAllocate (sem piso por
-// tema — como um ciclo normalmente tem só ~12-14 vagas para 15 temas, nem
-// toda frente precisa aparecer toda semana, isso já é intencional).
-function buildCycleQueue(subtopicIds, weights, totalSlots, seed) {
+// com exatamente totalSlots posições, distribuídas proporcionalmente aos pesos.
+// Não há piso por tema: um ciclo tem ~18 vagas para 74 subtemas, e nem todo
+// assunto precisa aparecer toda semana — isso é intencional.
+//
+// `obrigatorios` é a correção do efeito colateral disso. Com 15 frentes e 12
+// vagas, ficar de fora de um ciclo era normal e o tema voltava no seguinte. Com
+// 74 subtemas e 18 vagas, sortear cada ciclo de forma independente deixava um
+// subtema fora dos TREZE ciclos — foi o que aconteceu com geografia-geopolitica
+// no primeiro plano gerado depois da migração. Um assunto que o aluno nunca vê
+// em 90 dias é exatamente o que esta mudança existia para eliminar, então
+// buildSchedule rastreia quem ainda não apareceu e manda a lista para cá.
+function buildCycleQueue(subtopicIds, weights, totalSlots, seed, obrigatorios) {
   const rng = mulberry32(seed);
-  const counts = proportionalAllocate(subtopicIds, weights, totalSlots, rng, 0);
+  const reservados = (obrigatorios || []).slice(0, totalSlots);
+  const counts = proportionalAllocate(
+    subtopicIds, weights, totalSlots - reservados.length, rng, 0
+  );
 
-  const items = [];
+  const items = reservados.slice();
   subtopicIds.forEach((id, i) => {
     for (let n = 0; n < counts[i]; n++) items.push(id);
   });
 
   let queue = seededShuffle(items, rng);
-  // Reduz repetições do mesmo tema em posições adjacentes, quando possível.
-  for (let i = 1; i < queue.length; i++) {
-    if (queue[i] === queue[i - 1]) {
-      for (let j = i + 1; j < queue.length; j++) {
-        if (queue[j] !== queue[i - 1]) {
-          [queue[i], queue[j]] = [queue[j], queue[i]];
-          break;
+
+  // Dá variedade de MATÉRIA a cada dia, e a unidade certa aqui é o dia inteiro,
+  // não o par de vizinhos. A fila é fatiada em blocos de TOPICS_PER_DAY, então
+  // "Biologia, Física, Biologia" tem vizinhos sempre diferentes e mesmo assim é
+  // um dia com duas Biologias — que lê como um dia de Biologia com um apêndice.
+  // Antes de haver subtema o problema não existia: repetir a matéria no dia era
+  // repetir literalmente o mesmo id, que o teste de vizinhança já pegava.
+  const frentePorId = {};
+  (window.SUBTOPICS || []).forEach((s) => (frentePorId[s.id] = s.frenteId));
+  const materia = (id) => frentePorId[id] || id;
+
+  for (let inicio = 0; inicio < queue.length; inicio += TOPICS_PER_DAY) {
+    const fim = Math.min(inicio + TOPICS_PER_DAY, queue.length);
+    const noDia = new Set();
+    for (let i = inicio; i < fim; i++) {
+      if (!noDia.has(materia(queue[i]))) { noDia.add(materia(queue[i])); continue; }
+      // Repetiu a matéria: procura, nos dias seguintes, alguém de matéria
+      // ausente aqui que também não crie repetição no dia de origem.
+      for (let j = fim; j < queue.length; j++) {
+        if (noDia.has(materia(queue[j]))) continue;
+        const inicioJ = Math.floor(j / TOPICS_PER_DAY) * TOPICS_PER_DAY;
+        const fimJ = Math.min(inicioJ + TOPICS_PER_DAY, queue.length);
+        let cabe = true;
+        for (let k = inicioJ; k < fimJ; k++) {
+          if (k !== j && materia(queue[k]) === materia(queue[i])) { cabe = false; break; }
         }
+        if (!cabe) continue;
+        [queue[i], queue[j]] = [queue[j], queue[i]];
+        break;
       }
+      noDia.add(materia(queue[i]));
     }
   }
   return queue;
@@ -336,7 +368,17 @@ function buildSchedule(startISO, cycleWeightsOverride) {
     if (daysInCycle.length === 0) return;
     const weights = cycleWeightsOverride && cycleWeightsOverride[idx];
     const totalSlots = daysInCycle.length * TOPICS_PER_DAY;
-    const queue = buildCycleQueue(subtopicIds, weights, totalSlots, SCHEDULE_SEED + idx);
+
+    // Cobertura garantida: quem ainda não apareceu tem vaga reservada, dividido
+    // pelos ciclos que restam para não empilhar tudo no último. Os de peso maior
+    // entram primeiro, de modo que a reserva não inverta a prioridade da trilha.
+    const ciclosRestantes = cycles.length - idx;
+    const naoVistos = subtopicIds
+      .filter((id) => visitCounter[id] === 0)
+      .sort((a, b) => ((weights && weights[b]) || 1) - ((weights && weights[a]) || 1));
+    const obrigatorios = naoVistos.slice(0, Math.ceil(naoVistos.length / ciclosRestantes));
+
+    const queue = buildCycleQueue(subtopicIds, weights, totalSlots, SCHEDULE_SEED + idx, obrigatorios);
 
     daysInCycle.forEach((day, dayIdx) => {
       const slice = queue.slice(dayIdx * TOPICS_PER_DAY, (dayIdx + 1) * TOPICS_PER_DAY);
@@ -442,6 +484,27 @@ function pickMoreQuestions(subtopicId, visitIndex, day, alreadyShown, extraCount
   return shuffleGroups(chosen, rng, (q) => clusterKey(q));
 }
 
+// As frentes da trilha, na ordem em que aparecem em SUBTOPICS, deduplicadas.
+//
+// Desde a migração para subtemas, `window.SUBTOPICS` lista SUBTEMAS (cada um
+// com o seu `frenteId`), e a frente deixou de ter uma lista própria. Quem
+// precisa raciocinar por matéria inteira — os dois simulados e a tela de
+// progresso — deriva daqui.
+function frentesDaTrilha() {
+  const vistas = new Map();
+  (window.SUBTOPICS || []).forEach((s) => {
+    if (!vistas.has(s.frenteId)) {
+      vistas.set(s.frenteId, { id: s.frenteId, nome: s.area, area: s.areaGrande || s.area });
+    }
+  });
+  return [...vistas.values()];
+}
+
+function nomeDoSubtema(subtemaId) {
+  const s = (window.SUBTOPICS || []).find((x) => x.id === subtemaId);
+  return s ? s.nome : subtemaId;
+}
+
 // Monta as ~45 questões do simulado de domingo, distribuídas PROPORCIONALMENTE
 // a window.PRIORITY_WEIGHTS (frentes de prioridade máxima ganham mais
 // questões, ~4; de prioridade baixa ficam no mínimo garantido, 1), com
@@ -453,22 +516,37 @@ function pickMoreQuestions(subtopicId, visitIndex, day, alreadyShown, extraCount
 // composição do próprio simulado N dependeria de erros medidos por ele
 // mesmo, criando uma dependência circular.
 function pickSimuladoQuestions(simuladoVisitIndex) {
-  const subtopicIds = window.SUBTOPICS.map((s) => s.id);
+  // O simulado aloca por FRENTE, não por subtema, mesmo depois de o estudo
+  // diário ter passado a girar por subtema. Duas razões: um caderno real tem 15
+  // questões de Biologia, não 3 de genética mais 2 de citologia; e
+  // `simuladoMinPorFrente: 1` aplicado aos 79 subtemas pediria 79 questões num
+  // simulado de 45.
+  const frentes = frentesDaTrilha();
+  const frenteIds = frentes.map((f) => f.id);
   const rng = mulberry32(simuladoVisitIndex * 991 + 3);
+
+  // Usa o peso da FRENTE, que na tabela é uma entrada própria, independente do
+  // peso dos seus subtemas ("matematica" e "matematica-algebra" são duas
+  // chaves). Isso é de propósito: o peso do subtema ordena o que estudar no
+  // dia, o peso da frente diz que fatia do caderno aquela matéria ocupa — e as
+  // duas perguntas têm respostas diferentes numa prova concentrada, onde
+  // Matemática vale 40% da nota mas não deve tomar 40% dos dias de estudo.
   const counts = proportionalAllocate(
-    subtopicIds, window.PRIORITY_WEIGHTS, SIMULADO_TOTAL_QUESTIONS, rng, SIMULADO_MIN_PER_TOPIC
+    frenteIds, window.PRIORITY_WEIGHTS, SIMULADO_TOTAL_QUESTIONS, rng, SIMULADO_MIN_PER_TOPIC
   );
 
   const items = [];
-  window.SUBTOPICS.forEach((s, i) => {
-    const bank = (window.QUESTION_BANKS && window.QUESTION_BANKS[s.id]) || [];
+  frentes.forEach((f, i) => {
+    const bank = (window.QUESTION_BANKS_FRENTE && window.QUESTION_BANKS_FRENTE[f.id]) || [];
     if (bank.length === 0) return;
     const count = Math.min(counts[i], bank.length);
     const offset = snapOffsetToGroup(bank, simuladoVisitIndex * count, (q) => clusterKey(q));
     const circular = [];
     for (let j = 0; j < bank.length; j++) circular.push(bank[(offset + j) % bank.length]);
     takeWholeGroups(circular, 0, count, (q) => clusterKey(q)).forEach((q) => {
-      items.push({ question: q, subtopicId: s.id, subtopicNome: s.nome, area: s.area });
+      // `subtopicId` é o SUBTEMA da questão, nunca a frente: é a chave em que a
+      // resposta é gravada, e ela precisa ser a mesma do estudo diário.
+      items.push({ question: q, subtopicId: q.subtema, subtopicNome: nomeDoSubtema(q.subtema), area: f.nome });
     });
   });
   // No simulado a chave precisa do prefixo da frente: o array é multifrente e
@@ -503,9 +581,10 @@ const SIMULADO_OFICIAL = (function () {
 function pickSimuladoOficial(banca, visitIndex) {
   const modelo = SIMULADO_OFICIAL[banca];
   if (!modelo) return [];
-  const nomePorId = {};
-  const areaPorId = {};
-  (window.SUBTOPICS || []).forEach((s) => { nomePorId[s.id] = s.nome; areaPorId[s.id] = s.area; });
+  // `bloco.frentes` continua chaveado por FRENTE em trilhas.js — é a estrutura
+  // do caderno real da banca, e ela não conhece subtema.
+  const nomePorFrente = {};
+  frentesDaTrilha().forEach((f) => { nomePorFrente[f.id] = f.nome; });
 
   // Deslocamento fixo por banca: sem ele, duas bancas pedindo a mesma frente
   // (ex. "matematica" no Einstein e na Santa Casa) comeriam a mesma janela do
@@ -518,7 +597,12 @@ function pickSimuladoOficial(banca, visitIndex) {
   modelo.blocos.forEach((bloco, bIdx) => {
     const doBloco = [];
     Object.keys(bloco.frentes).forEach((id) => {
-      const bank = (window.QUESTION_BANKS && window.QUESTION_BANKS[id]) || [];
+      // Frente ou subtema: o caderno da FGV pede "2 de geopolítica e 1 de meio
+      // ambiente", que hoje são subtemas de Atualidades. Aceitar os dois níveis
+      // é o que permite o modelo continuar fiel ao caderno real quando o banco
+      // se reorganiza por baixo dele.
+      const bank = (window.QUESTION_BANKS_FRENTE && window.QUESTION_BANKS_FRENTE[id]) ||
+                   (window.QUESTION_BANKS && window.QUESTION_BANKS[id]) || [];
       if (bank.length === 0) return;
       const count = Math.min(bloco.frentes[id], bank.length);
       // Rotação própria por banca e por bloco: sem o deslocamento, o simulado
@@ -529,7 +613,8 @@ function pickSimuladoOficial(banca, visitIndex) {
       const circular = [];
       for (let j = 0; j < bank.length; j++) circular.push(bank[(offset + j) % bank.length]);
       takeExactly(circular, count, (q) => clusterKey(q)).forEach((q) => {
-        doBloco.push({ question: q, subtopicId: id, subtopicNome: nomePorId[id] || id, area: areaPorId[id] || "", bloco: bloco.nome, blocoIndex: bIdx });
+        doBloco.push({ question: q, subtopicId: q.subtema, subtopicNome: nomeDoSubtema(q.subtema),
+          area: nomePorFrente[id] || id, bloco: bloco.nome, blocoIndex: bIdx });
       });
     });
     const rng = mulberry32(visitIndex * 613 + bIdx * 29 + (bancaNudge % 101));

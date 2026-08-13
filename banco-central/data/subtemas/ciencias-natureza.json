@@ -1,0 +1,800 @@
+{
+ "gerado": "2026-08-12",
+ "frente": "ciencias-natureza",
+ "total": 132,
+ "residuo": [],
+ "mapa": {
+  "dir-ciencias-natureza-01": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-02": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 8,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-03": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 8,
+   "margem": 8
+  },
+  "dir-ciencias-natureza-04": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-05": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-06": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-07": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-08": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-09": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-ciencias-natureza-10": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-ciencias-natureza-11": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-12": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-13": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-14": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-15": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-16": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-17": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-18": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-ciencias-natureza-19": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-20": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-ciencias-natureza-21": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 13,
+   "margem": 9
+  },
+  "dir-ciencias-natureza-22": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-23": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-ciencias-natureza-24": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-25": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-26": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-27": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 19,
+   "margem": 19
+  },
+  "dir-ciencias-natureza-28": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-ciencias-natureza-29": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 17,
+   "margem": 7
+  },
+  "dir-ciencias-natureza-30": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 6
+  },
+  "dir-ciencias-natureza-31": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-ciencias-natureza-32": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 3
+  },
+  "dir-ciencias-natureza-33": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-34": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-35": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 4,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-36": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-37": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-38": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-39": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-ciencias-natureza-40": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-41": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 7
+  },
+  "dir-ciencias-natureza-42": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 7,
+   "margem": 3
+  },
+  "dir-ciencias-natureza-43": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 2
+  },
+  "dir-ciencias-natureza-44": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-45": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-46": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-ciencias-natureza-47": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 13,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-48": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-49": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-50": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-51": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-52": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-53": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-54": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-55": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-56": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-ciencias-natureza-57": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-58": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-59": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-60": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-61": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-62": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 12,
+   "margem": 7
+  },
+  "dir-ciencias-natureza-63": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 7,
+   "margem": 2
+  },
+  "dir-ciencias-natureza-64": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-ciencias-natureza-65": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-66": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-67": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-68": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-69": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-70": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 3
+  },
+  "dir-ciencias-natureza-71": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-72": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-73": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 16,
+   "margem": 7
+  },
+  "dir-ciencias-natureza-74": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 12,
+   "margem": 7
+  },
+  "dir-ciencias-natureza-75": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-76": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "dir-ciencias-natureza-77": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 23,
+   "margem": 19
+  },
+  "dir-ciencias-natureza-78": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-79": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-ciencias-natureza-80": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-81": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-ciencias-natureza-82": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-83": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 7,
+   "margem": 2
+  },
+  "dir-ciencias-natureza-84": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-85": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-86": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 7,
+   "margem": 2
+  },
+  "dir-ciencias-natureza-87": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-88": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-89": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-ciencias-natureza-90": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-91": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-92": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-93": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-94": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-95": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-96": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-97": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-98": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-99": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-100": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-101": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 13,
+   "margem": 13
+  },
+  "dir-ciencias-natureza-102": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-103": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-ciencias-natureza-104": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-ciencias-natureza-105": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-ciencias-natureza-106": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-107": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-ciencias-natureza-108": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-109": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-110": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-111": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 11,
+   "margem": 6
+  },
+  "dir-ciencias-natureza-112": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-113": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-114": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-ciencias-natureza-115": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "dir-ciencias-natureza-116": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 18,
+   "margem": 13
+  },
+  "dir-ciencias-natureza-117": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 16,
+   "margem": 11
+  },
+  "dir-ciencias-natureza-118": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-119": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 12,
+   "margem": 7
+  },
+  "dir-ciencias-natureza-120": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-ciencias-natureza-121": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 17,
+   "margem": 12
+  },
+  "dir-ciencias-natureza-122": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-123": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 13,
+   "margem": 3
+  },
+  "dir-ciencias-natureza-124": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-ciencias-natureza-125": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-ciencias-natureza-126": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-ciencias-natureza-127": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-ciencias-natureza-128": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-ciencias-natureza-129": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 17,
+   "margem": 10
+  },
+  "dir-ciencias-natureza-130": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-ciencias-natureza-131": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 7,
+   "margem": 2
+  },
+  "dir-ciencias-natureza-132": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 9
+  }
+ }
+}

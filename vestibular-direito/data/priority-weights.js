@@ -1,86 +1,230 @@
-// Pesos-base por frente, agora SEPARADOS POR BANCA.
+// GERADO por banco-central/build-trilhas.js -- nao edite a mao.
+// Pesos de prioridade da trilha de Direito.
+// A fonte e banco-central/data/questions/*.json (as questoes) e
+// banco-central/data/subtemas/*.json (o subtema de cada uma).
 //
-// Até 2026-07 havia um conjunto único de pesos, derivado de
-// estudo-provas-fgv-insper.pdf e confirmado por
-// estudo-formulacao-provas-objetivas-*.pdf. A separação veio da leitura direta
-// dos cadernos (estudo-anatomia-provas-fgv-insper-2025-2026.md) cruzada com o
-// Edital Unificado FGV 1º/2027, que tornaram insustentável um número só para
-// duas provas que medem coisas diferentes:
-//
-//   - Inglês são 15 questões objetivas na FGV e NÃO EXISTE na Insper.
-//   - Ciências da Natureza são 15 questões na Insper (Bio 5 + Quím 5 + Fís 5,
-//     exatos nos dois cadernos lidos) e não caem em nenhuma fase da FGV.
-//   - Matemática vale peso 1 no edital da FGV e é a única prova, junto com
-//     Artes, em que apenas nota ZERO elimina — nas outras seis, nota bruta
-//     abaixo de 3,0 elimina. Na Insper vale 20% da nota objetiva. Manter 3
-//     para as duas era o pior dos dois mundos.
-//   - Filosofia e Sociologia ocupam as quatro últimas questões do bloco de
-//     Humanas da Insper nos dois cadernos, e não caem isoladas na FGV.
-//   - Artes e Questões Contemporâneas é discursiva fixa todo ano na FGV e não
-//     tem equivalente na Insper.
-//
-// Escala: 3 = máxima, 2.5 = alta, 2 = média, 1.5 = estrutural assimétrica,
-// 0.5 = baixa, 0 = não cai naquela banca.
-//
-// Usados como peso inicial do agendamento (ciclo 0, antes de qualquer
-// simulado) e combinados multiplicativamente com o peso adaptativo por erro a
-// partir do 1º simulado (ver app.js, computeCycleWeightsFromSimulado).
-// Também distribuem proporcionalmente as questões do simulado de domingo.
+// Corrigiu uma questao? Corrija no banco central e rode o build de novo.
+// `--verificar` reprova quando o banco central mudou e este arquivo nao.
+// A fonte editorial destes números é banco-central/pesos.js.
+// Cada tabela traz FRENTE e SUBTEMA: o plano diário indexa por subtema,
+// os simulados por frente.
+
 window.PRIORITY_WEIGHTS_POR_BANCA = {
-  fgv: {
-    "interpretacao-texto": 3,
-    "gramatica": 3,
-    "literatura": 3,              // 9 das 15 objetivas de Português em 2026.1
-    "ingles": 3,                  // 15 questões, corte eliminatório em 3,0
-    "geografia": 3,
-    "atualidades-geopolitica": 3,
-    "artes-cultura": 2.5,         // discursiva fixa; virou teoria política aplicada a obras
-    "historia-brasil": 2,
-    "historia-geral": 2,
-    "atualidades-politica": 2,
-    "atualidades-meioambiente": 2,
-    "atualidades-tecnologia": 2,
-    "matematica-rlm": 1.5,        // peso 1 no edital e só zero elimina
-    "direitos-humanos": 1.5,
-    "filosofia-sociologia": 0.5,  // não cai isolada
-    "ciencias-natureza": 0        // não cai em nenhuma fase
-  },
-  insper: {
-    "interpretacao-texto": 3,
-    "gramatica": 3,
-    "literatura": 3,              // soneto, conto e escola pelo traço em todo caderno
-    "matematica-rlm": 3,          // 20% da nota objetiva
-    "geografia": 3,               // 6 das 15 de Humanas
-    "historia-brasil": 2.5,       // 5 das 15 de Humanas
-    "historia-geral": 2.5,
-    "filosofia-sociologia": 2.5,  // 4 das 15, sempre as últimas do bloco
-    "atualidades-geopolitica": 2,
-    "atualidades-politica": 2,
-    "atualidades-meioambiente": 2,
-    "atualidades-tecnologia": 2,
-    "ciencias-natureza": 1.5,     // 15 questões, 10% do peso objetivo
-    "direitos-humanos": 1.5,
-    "artes-cultura": 0.5,         // sem equivalente
-    "ingles": 0                   // não existe na prova
-  }
+ "fgv": {
+  "interpretacao-texto": 3,
+  "gramatica": 3,
+  "literatura": 3,
+  "ingles": 3,
+  "geografia": 3,
+  "atualidades": 3,
+  "artes-cultura": 2.5,
+  "historia": 2,
+  "matematica": 1.5,
+  "direitos-humanos": 1.5,
+  "filosofia-sociologia": 0.5,
+  "biologia": 0,
+  "quimica": 0,
+  "fisica": 0,
+  "interpretacao-argumentacao": 3,
+  "interpretacao-inferencia": 3,
+  "interpretacao-genero-discurso": 3,
+  "interpretacao-recursos-linguagem": 3,
+  "interpretacao-estrutura-coesao": 3,
+  "interpretacao-ideia-central": 3,
+  "gramatica-coesao-semantica": 3,
+  "gramatica-regencia-crase": 3,
+  "gramatica-concordancia": 3,
+  "gramatica-morfologia": 3,
+  "gramatica-pontuacao": 3,
+  "gramatica-sintaxe-periodo": 3,
+  "literatura-realismo-naturalismo": 3,
+  "literatura-colonial-romantismo": 3,
+  "literatura-modernismo": 3,
+  "literatura-teoria-analise": 3,
+  "literatura-contemporanea": 3,
+  "ingles-inference": 3,
+  "ingles-grammar-structure": 3,
+  "ingles-main-idea": 3,
+  "ingles-detail": 3,
+  "ingles-vocabulary": 3,
+  "matematica-geometria": 1.5,
+  "matematica-financeira": 1.5,
+  "matematica-algebra": 1.5,
+  "matematica-probabilidade": 1.5,
+  "matematica-sequencias": 1.5,
+  "historia-brasil-colonia-imperio": 2,
+  "historia-brasil-republica": 2,
+  "historia-geral-contemporanea": 2,
+  "historia-geral-moderna": 2,
+  "historia-geral-antiga-medieval": 2,
+  "geografia-populacao-urbana": 3,
+  "geografia-fisica-clima": 3,
+  "geografia-agraria-economica": 3,
+  "geografia-geopolitica": 3,
+  "geografia-ambiente-sustentabilidade": 3,
+  "geografia-cartografia": 3,
+  "filosofia-politica": 0.5,
+  "filosofia-etica-moral": 0.5,
+  "sociologia-trabalho-classes": 0.5,
+  "sociologia-cultura-identidade": 0.5,
+  "filosofia-conhecimento-logica": 0.5,
+  "sociologia-instituicoes-movimentos": 0.5,
+  "artes-classica-moderna": 2.5,
+  "artes-audiovisual-midia": 2.5,
+  "artes-patrimonio-cultura-popular": 2.5,
+  "artes-musica-cena": 2.5,
+  "artes-contemporanea": 2.5,
+  "dh-fundamentos": 1.5,
+  "dh-constitucional": 1.5,
+  "dh-igualdade-discriminacao": 1.5,
+  "dh-direitos-sociais": 1.5,
+  "dh-justica-seguranca": 1.5,
+  "atualidades-politica-economia": 2,
+  "atualidades-geopolitica": 3,
+  "atualidades-meioambiente": 2,
+  "atualidades-tecnologia": 2,
+  "atualidades-sociedade-educacao": 2,
+  "atualidades-saude": 1,
+  "biologia-citologia": 0,
+  "biologia-genetica": 0,
+  "biologia-diversidade": 0,
+  "biologia-fisiologia": 0,
+  "biologia-ecologia": 0,
+  "biologia-evolucao": 0,
+  "quimica-eletroquimica": 0,
+  "quimica-atomistica-ligacoes": 0,
+  "quimica-equilibrio-acido-base": 0,
+  "quimica-estequiometria": 0,
+  "quimica-organica": 0,
+  "quimica-solucoes": 0,
+  "quimica-termoquimica-cinetica": 0,
+  "fisica-termologia": 0,
+  "fisica-mecanica": 0,
+  "fisica-ondas-optica": 0,
+  "fisica-eletromagnetismo": 0,
+  "fisica-hidrostatica": 0,
+  "fisica-energia-trabalho": 0
+ },
+ "insper": {
+  "interpretacao-texto": 3,
+  "gramatica": 3,
+  "literatura": 3,
+  "matematica": 3,
+  "geografia": 3,
+  "historia": 2.5,
+  "filosofia-sociologia": 2.5,
+  "atualidades": 2,
+  "direitos-humanos": 1.5,
+  "artes-cultura": 0.5,
+  "ingles": 0,
+  "biologia": 1.5,
+  "quimica": 1.5,
+  "fisica": 1.5,
+  "interpretacao-argumentacao": 3,
+  "interpretacao-inferencia": 3,
+  "interpretacao-genero-discurso": 3,
+  "interpretacao-recursos-linguagem": 3,
+  "interpretacao-estrutura-coesao": 3,
+  "interpretacao-ideia-central": 3,
+  "gramatica-coesao-semantica": 3,
+  "gramatica-regencia-crase": 3,
+  "gramatica-concordancia": 3,
+  "gramatica-morfologia": 3,
+  "gramatica-pontuacao": 3,
+  "gramatica-sintaxe-periodo": 3,
+  "literatura-realismo-naturalismo": 3,
+  "literatura-colonial-romantismo": 3,
+  "literatura-modernismo": 3,
+  "literatura-teoria-analise": 3,
+  "literatura-contemporanea": 3,
+  "ingles-inference": 0,
+  "ingles-grammar-structure": 0,
+  "ingles-main-idea": 0,
+  "ingles-detail": 0,
+  "ingles-vocabulary": 0,
+  "matematica-geometria": 3,
+  "matematica-financeira": 3,
+  "matematica-algebra": 3,
+  "matematica-probabilidade": 3,
+  "matematica-sequencias": 3,
+  "historia-brasil-colonia-imperio": 2.5,
+  "historia-brasil-republica": 2.5,
+  "historia-geral-contemporanea": 2.5,
+  "historia-geral-moderna": 2.5,
+  "historia-geral-antiga-medieval": 2.5,
+  "geografia-populacao-urbana": 3,
+  "geografia-fisica-clima": 3,
+  "geografia-agraria-economica": 3,
+  "geografia-geopolitica": 3,
+  "geografia-ambiente-sustentabilidade": 3,
+  "geografia-cartografia": 3,
+  "filosofia-politica": 2.5,
+  "filosofia-etica-moral": 2.5,
+  "sociologia-trabalho-classes": 2.5,
+  "sociologia-cultura-identidade": 2.5,
+  "filosofia-conhecimento-logica": 2.5,
+  "sociologia-instituicoes-movimentos": 2.5,
+  "artes-classica-moderna": 0.5,
+  "artes-audiovisual-midia": 0.5,
+  "artes-patrimonio-cultura-popular": 0.5,
+  "artes-musica-cena": 0.5,
+  "artes-contemporanea": 0.5,
+  "dh-fundamentos": 1.5,
+  "dh-constitucional": 1.5,
+  "dh-igualdade-discriminacao": 1.5,
+  "dh-direitos-sociais": 1.5,
+  "dh-justica-seguranca": 1.5,
+  "atualidades-politica-economia": 2,
+  "atualidades-geopolitica": 2,
+  "atualidades-meioambiente": 2,
+  "atualidades-tecnologia": 2,
+  "atualidades-sociedade-educacao": 2,
+  "atualidades-saude": 1,
+  "biologia-citologia": 1.5,
+  "biologia-genetica": 1.5,
+  "biologia-diversidade": 1.5,
+  "biologia-fisiologia": 1.5,
+  "biologia-ecologia": 1.5,
+  "biologia-evolucao": 1.5,
+  "quimica-eletroquimica": 1.5,
+  "quimica-atomistica-ligacoes": 1.5,
+  "quimica-equilibrio-acido-base": 1.5,
+  "quimica-estequiometria": 1.5,
+  "quimica-organica": 1.5,
+  "quimica-solucoes": 1.5,
+  "quimica-termoquimica-cinetica": 1.5,
+  "fisica-termologia": 1.5,
+  "fisica-mecanica": 1.5,
+  "fisica-ondas-optica": 1.5,
+  "fisica-eletromagnetismo": 1.5,
+  "fisica-hidrostatica": 1.5,
+  "fisica-energia-trabalho": 1.5
+ }
 };
 
-// Banca-alvo: "fgv", "insper" ou "ambas".
-//
-// "ambas" toma o MAIOR peso entre as duas listas, e não a média, de propósito:
-// a média zeraria pela metade justamente as frentes assimétricas — Inglês e
-// Ciências da Natureza —, que são exatamente as que não se pode descobrir na
-// prova que ficaram de fora. Quem presta as duas estuda o máximo comum.
-window.BANCA_ALVO = window.BANCA_ALVO || "ambas";
+window.BANCA_ALVO = window.BANCA_ALVO || ["fgv","insper"];
 
 window.PRIORITY_WEIGHTS = (function () {
-  const porBanca = window.PRIORITY_WEIGHTS_POR_BANCA;
-  if (window.BANCA_ALVO === "fgv" || window.BANCA_ALVO === "insper") {
-    return porBanca[window.BANCA_ALVO];
-  }
-  const combinado = {};
-  Object.keys(porBanca.fgv).forEach(function (id) {
-    combinado[id] = Math.max(porBanca.fgv[id], porBanca.insper[id]);
+  var porBanca = window.PRIORITY_WEIGHTS_POR_BANCA;
+  var alvo = window.BANCA_ALVO;
+
+  // Uma banca só: usa a tabela dela, sem combinar.
+  if (typeof alvo === "string" && porBanca[alvo]) return porBanca[alvo];
+
+  var ids = Array.isArray(alvo)
+    ? alvo.filter(function (b) { return porBanca[b]; })
+    : Object.keys(porBanca);
+  var selecionadas = ids.length ? ids : Object.keys(porBanca);
+
+  // MAIOR peso entre as bancas alvo, nunca a média: a média zeraria pela
+  // metade justamente as frentes assimétricas, que são as que não se pode
+  // descobrir na prova que ficaram de fora.
+  var combinado = {};
+  var primeira = porBanca[selecionadas[0]];
+  Object.keys(primeira).forEach(function (id) {
+    combinado[id] = selecionadas.reduce(function (maior, banca) {
+      return Math.max(maior, porBanca[banca][id] || 0);
+    }, 0);
   });
   return combinado;
 })();

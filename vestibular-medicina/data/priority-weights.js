@@ -1,177 +1,662 @@
-// Pesos-base por frente, separados pelas SETE bancas de Medicina em São Paulo.
+// GERADO por banco-central/build-trilhas.js -- nao edite a mao.
+// Pesos de prioridade da trilha de Medicina.
+// A fonte e banco-central/data/questions/*.json (as questoes) e
+// banco-central/data/subtemas/*.json (o subtema de cada uma).
 //
-// Derivados de estudo-anatomia-provas-medicina-sp-2025-2026.md, que leu 25
-// cadernos oficiais e os cruzou com editais, resoluções e manuais do candidato.
-// Cada número tem uma justificativa no comentário ao lado — se um deles mudar,
-// o motivo tem que mudar junto.
-//
-// Escala idêntica à da trilha de Direito: 3 = máxima, 2.5 = alta, 2 = média,
-// 1.5 = estrutural assimétrica, 0.5 = baixa, 0 = não cai naquela banca.
-//
-// Os cinco fatos que mais deslocam peso, e que contrariam a intuição de quem
-// prepara medicina:
-//
-//   1. A 2ª fase da USP para Medicina é B-F-G-Q (Anexo III da Resolução CoG
-//      8832): Biologia, Física, GEOGRAFIA e Química, 3 questões de cada.
-//      Matemática NÃO cai. Geografia vale o mesmo que Biologia.
-//   2. A 2ª fase da Unicamp para Medicina não tem Física: são Humanas 2,
-//      Matemática 4, Biologia 7 e Química 5.
-//   3. Na Unesp, Biologia rende 2 ou 3 questões nas 36 discursivas, enquanto
-//      Filosofia sozinha rendeu 4 em 2026.1. Na 1ª fase, Matemática é 8 de 90.
-//   4. No Einstein, Matemática (10) empata com Português como maior bloco
-//      objetivo, e existe uma discursiva de Inglês.
-//   5. Na PUC-SP, a Redação vale 20% da nota final do Grupo 3 e Matemática
-//      vale 5%.
+// Corrigiu uma questao? Corrija no banco central e rode o build de novo.
+// `--verificar` reprova quando o banco central mudou e este arquivo nao.
+// A fonte editorial destes números é banco-central/pesos.js.
+// Cada tabela traz FRENTE e SUBTEMA: o plano diário indexa por subtema,
+// os simulados por frente.
+
 window.PRIORITY_WEIGHTS_POR_BANCA = {
-  fuvest: {
-    "biologia": 3,               // ~15 das 90 objetivas + 3 na 2ª fase
-    "quimica": 3,                // 3 na 2ª fase (B-F-G-Q)
-    "fisica": 3,                 // 3 na 2ª fase (B-F-G-Q)
-    "geografia": 3,              // 3 na 2ª fase — vale o mesmo que Biologia
-    "interpretacao-texto": 3,    // o dia 1 da 2ª fase é 1/3 da nota final
-    "literatura": 3,             // 10 discursivas sobre a lista obrigatória
-    "gramatica": 2.5,
-    "historia": 2,               // ~10 objetivas, fora da 2ª fase de Medicina
-    "artes-cultura": 2,                  // ~7 objetivas
-    "atualidades": 2,            // fontes de até 6 meses antes da prova
-    "filosofia-sociologia": 1.5,
-    "ingles": 1.5,               // ~4 objetivas, ausente na 2ª fase
-    "matematica": 1              // ~8 objetivas e NÃO cai na 2ª fase
-  },
-
-  unicamp: {
-    "biologia": 3,               // 7 das 18 da 2ª fase de Biológicas/Saúde
-    "quimica": 3,                // 5 das 18 da 2ª fase
-    "matematica": 3,             // 12 das 72 na 1ª fase + 4 na 2ª
-    "interpretacao-texto": 3,    // 12 das 72 + 6 discursivas no dia 1
-    "literatura": 3,
-    "gramatica": 2.5,
-    "atualidades": 2.5,          // janela de 17 dias entre fonte e prova
-    "geografia": 2,              // 7 das 72
-    "historia": 2,               // 7 das 72
-    "filosofia-sociologia": 2,   // 6 das 72
-    "ingles": 2,                 // interdisciplinar na 2ª fase, respondido em português
-    "artes-cultura": 1.5,
-    "fisica": 1.5                // 7 na 1ª fase e ZERO na 2ª fase de Medicina
-  },
-
-  unesp: {
-    "interpretacao-texto": 3,    // 20 das 30 de Linguagens + 8 discursivas
-    "literatura": 3,
-    "historia": 3,               // parte das 12 discursivas de Humanas
-    "geografia": 3,
-    "filosofia-sociologia": 3,   // 4 discursivas em 2026.1 — o dobro de Biologia
-    "gramatica": 2.5,
-    "ingles": 2.5,               // 10 na 1ª fase + 4 discursivas
-    "artes-cultura": 2,
-    "atualidades": 2,
-    "biologia": 2,               // 2 ou 3 das 36 discursivas
-    "quimica": 2,
-    "fisica": 2,
-    "matematica": 1.5            // 8 de 90 na 1ª fase, 3 de 36 na 2ª
-  },
-
-  unifesp: {
-    "interpretacao-texto": 3,    // a Prova I é Português, Inglês e Redação
-    "gramatica": 3,              // o recorte gramatical mais técnico do conjunto
-    "ingles": 3,                 // 10 das 25 objetivas
-    "biologia": 3,               // núcleo da Prova II discursiva
-    "quimica": 2.5,
-    "fisica": 2.5,
-    "literatura": 2,
-    "matematica": 2,             // entra pelo ENEM, não pela prova própria
-    "historia": 2,               // idem
-    "geografia": 2,              // idem
-    "atualidades": 1.5,
-    "filosofia-sociologia": 1.5,
-    "artes-cultura": 1
-  },
-
-  einstein: {
-    "matematica": 3,             // 10 objetivas + 1 discursiva
-    "interpretacao-texto": 3,    // 10 objetivas
-    "ingles": 3,                 // 5 objetivas + 1 DISCURSIVA
-    "biologia": 2.5,             // 5 objetivas + 1 discursiva
-    "quimica": 2.5,
-    "fisica": 2.5,
-    "gramatica": 2,
-    "historia": 2,               // 5 objetivas
-    "geografia": 2,              // 5 objetivas
-    "literatura": 2,
-    "atualidades": 2,
-    "filosofia-sociologia": 0.5, // não cai isolada
-    "artes-cultura": 0.5
-  },
-
-  santacasa: {
-    "biologia": 3,               // 10 objetivas + 8 discursivas + 1º desempate
-    "quimica": 2.5,              // 10 objetivas + 4 discursivas
-    "fisica": 2.5,               // 10 objetivas + 4 discursivas
-    "interpretacao-texto": 2.5,  // 10 objetivas + 4 discursivas
-    "literatura": 2.5,
-    "gramatica": 2,
-    "matematica": 2,             // 10 objetivas, sem discursiva
-    "ingles": 2,                 // 10 objetivas
-    "historia": 2,
-    "geografia": 2,
-    "atualidades": 1.5,
-    "filosofia-sociologia": 0.5, // não cai isolada
-    "artes-cultura": 0.5
-  },
-
-  pucsp: {
-    "interpretacao-texto": 3,    // Linguagens é peso 1 e 15 questões
-    "literatura": 3,
-    "gramatica": 2.5,
-    "ingles": 2.5,               // língua estrangeira entra em Linguagens
-    "biologia": 2.5,             // Natureza é peso 1 e 15 questões
-    "quimica": 2.5,
-    "fisica": 2.5,
-    "atualidades": 2,            // matriz ENEM, tema de atualidade na redação
-    "historia": 1.5,             // Humanas é peso 0,5
-    "geografia": 1.5,
-    "filosofia-sociologia": 1.5,
-    "artes-cultura": 1,
-    "matematica": 0.5            // 5 questões com peso 0,5 = 5% da nota final
-  }
+ "fuvest": {
+  "biologia": 3,
+  "quimica": 3,
+  "fisica": 3,
+  "geografia": 3,
+  "interpretacao-texto": 3,
+  "literatura": 3,
+  "gramatica": 2.5,
+  "historia": 2,
+  "artes-cultura": 2,
+  "atualidades": 2,
+  "filosofia-sociologia": 1.5,
+  "ingles": 1.5,
+  "matematica": 1,
+  "biologia-citologia": 3,
+  "biologia-genetica": 3,
+  "biologia-diversidade": 3,
+  "biologia-fisiologia": 3,
+  "biologia-ecologia": 3,
+  "biologia-evolucao": 3,
+  "quimica-eletroquimica": 3,
+  "quimica-atomistica-ligacoes": 3,
+  "quimica-equilibrio-acido-base": 3,
+  "quimica-estequiometria": 3,
+  "quimica-organica": 3,
+  "quimica-solucoes": 3,
+  "quimica-termoquimica-cinetica": 3,
+  "fisica-termologia": 3,
+  "fisica-mecanica": 3,
+  "fisica-ondas-optica": 3,
+  "fisica-eletromagnetismo": 3,
+  "fisica-hidrostatica": 3,
+  "fisica-energia-trabalho": 3,
+  "matematica-geometria": 1,
+  "matematica-financeira": 1,
+  "matematica-algebra": 1,
+  "matematica-probabilidade": 1,
+  "matematica-sequencias": 1,
+  "interpretacao-argumentacao": 3,
+  "interpretacao-inferencia": 3,
+  "interpretacao-genero-discurso": 3,
+  "interpretacao-recursos-linguagem": 3,
+  "interpretacao-estrutura-coesao": 3,
+  "interpretacao-ideia-central": 3,
+  "gramatica-coesao-semantica": 2.5,
+  "gramatica-regencia-crase": 2.5,
+  "gramatica-concordancia": 2.5,
+  "gramatica-morfologia": 2.5,
+  "gramatica-pontuacao": 2.5,
+  "gramatica-sintaxe-periodo": 2.5,
+  "literatura-realismo-naturalismo": 3,
+  "literatura-colonial-romantismo": 3,
+  "literatura-modernismo": 3,
+  "literatura-teoria-analise": 3,
+  "literatura-contemporanea": 3,
+  "ingles-inference": 1.5,
+  "ingles-grammar-structure": 1.5,
+  "ingles-main-idea": 1.5,
+  "ingles-detail": 1.5,
+  "ingles-vocabulary": 1.5,
+  "historia-brasil-colonia-imperio": 2,
+  "historia-brasil-republica": 2,
+  "historia-geral-contemporanea": 2,
+  "historia-geral-moderna": 2,
+  "historia-geral-antiga-medieval": 2,
+  "geografia-populacao-urbana": 3,
+  "geografia-fisica-clima": 3,
+  "geografia-agraria-economica": 3,
+  "geografia-geopolitica": 3,
+  "geografia-ambiente-sustentabilidade": 3,
+  "geografia-cartografia": 3,
+  "filosofia-politica": 1.5,
+  "filosofia-etica-moral": 1.5,
+  "sociologia-trabalho-classes": 1.5,
+  "sociologia-cultura-identidade": 1.5,
+  "filosofia-conhecimento-logica": 1.5,
+  "sociologia-instituicoes-movimentos": 1.5,
+  "artes-classica-moderna": 2,
+  "artes-audiovisual-midia": 2,
+  "artes-patrimonio-cultura-popular": 2,
+  "artes-musica-cena": 2,
+  "artes-contemporanea": 2,
+  "atualidades-politica-economia": 2,
+  "atualidades-geopolitica": 2,
+  "atualidades-meioambiente": 2,
+  "atualidades-tecnologia": 2,
+  "atualidades-sociedade-educacao": 2,
+  "atualidades-saude": 3
+ },
+ "unicamp": {
+  "biologia": 3,
+  "quimica": 3,
+  "matematica": 3,
+  "interpretacao-texto": 3,
+  "literatura": 3,
+  "gramatica": 2.5,
+  "atualidades": 2.5,
+  "geografia": 2,
+  "historia": 2,
+  "filosofia-sociologia": 2,
+  "ingles": 2,
+  "artes-cultura": 1.5,
+  "fisica": 1.5,
+  "biologia-citologia": 3,
+  "biologia-genetica": 3,
+  "biologia-diversidade": 3,
+  "biologia-fisiologia": 3,
+  "biologia-ecologia": 3,
+  "biologia-evolucao": 3,
+  "quimica-eletroquimica": 3,
+  "quimica-atomistica-ligacoes": 3,
+  "quimica-equilibrio-acido-base": 3,
+  "quimica-estequiometria": 3,
+  "quimica-organica": 3,
+  "quimica-solucoes": 3,
+  "quimica-termoquimica-cinetica": 3,
+  "fisica-termologia": 1.5,
+  "fisica-mecanica": 1.5,
+  "fisica-ondas-optica": 1.5,
+  "fisica-eletromagnetismo": 1.5,
+  "fisica-hidrostatica": 1.5,
+  "fisica-energia-trabalho": 1.5,
+  "matematica-geometria": 3,
+  "matematica-financeira": 3,
+  "matematica-algebra": 3,
+  "matematica-probabilidade": 3,
+  "matematica-sequencias": 3,
+  "interpretacao-argumentacao": 3,
+  "interpretacao-inferencia": 3,
+  "interpretacao-genero-discurso": 3,
+  "interpretacao-recursos-linguagem": 3,
+  "interpretacao-estrutura-coesao": 3,
+  "interpretacao-ideia-central": 3,
+  "gramatica-coesao-semantica": 2.5,
+  "gramatica-regencia-crase": 2.5,
+  "gramatica-concordancia": 2.5,
+  "gramatica-morfologia": 2.5,
+  "gramatica-pontuacao": 2.5,
+  "gramatica-sintaxe-periodo": 2.5,
+  "literatura-realismo-naturalismo": 3,
+  "literatura-colonial-romantismo": 3,
+  "literatura-modernismo": 3,
+  "literatura-teoria-analise": 3,
+  "literatura-contemporanea": 3,
+  "ingles-inference": 2,
+  "ingles-grammar-structure": 2,
+  "ingles-main-idea": 2,
+  "ingles-detail": 2,
+  "ingles-vocabulary": 2,
+  "historia-brasil-colonia-imperio": 2,
+  "historia-brasil-republica": 2,
+  "historia-geral-contemporanea": 2,
+  "historia-geral-moderna": 2,
+  "historia-geral-antiga-medieval": 2,
+  "geografia-populacao-urbana": 2,
+  "geografia-fisica-clima": 2,
+  "geografia-agraria-economica": 2,
+  "geografia-geopolitica": 2,
+  "geografia-ambiente-sustentabilidade": 2,
+  "geografia-cartografia": 2,
+  "filosofia-politica": 2,
+  "filosofia-etica-moral": 2,
+  "sociologia-trabalho-classes": 2,
+  "sociologia-cultura-identidade": 2,
+  "filosofia-conhecimento-logica": 2,
+  "sociologia-instituicoes-movimentos": 2,
+  "artes-classica-moderna": 1.5,
+  "artes-audiovisual-midia": 1.5,
+  "artes-patrimonio-cultura-popular": 1.5,
+  "artes-musica-cena": 1.5,
+  "artes-contemporanea": 1.5,
+  "atualidades-politica-economia": 2.5,
+  "atualidades-geopolitica": 2.5,
+  "atualidades-meioambiente": 2.5,
+  "atualidades-tecnologia": 2.5,
+  "atualidades-sociedade-educacao": 2.5,
+  "atualidades-saude": 3
+ },
+ "unesp": {
+  "interpretacao-texto": 3,
+  "literatura": 3,
+  "historia": 3,
+  "geografia": 3,
+  "filosofia-sociologia": 3,
+  "gramatica": 2.5,
+  "ingles": 2.5,
+  "artes-cultura": 2,
+  "atualidades": 2,
+  "biologia": 2,
+  "quimica": 2,
+  "fisica": 2,
+  "matematica": 1.5,
+  "biologia-citologia": 2,
+  "biologia-genetica": 2,
+  "biologia-diversidade": 2,
+  "biologia-fisiologia": 2,
+  "biologia-ecologia": 2,
+  "biologia-evolucao": 2,
+  "quimica-eletroquimica": 2,
+  "quimica-atomistica-ligacoes": 2,
+  "quimica-equilibrio-acido-base": 2,
+  "quimica-estequiometria": 2,
+  "quimica-organica": 2,
+  "quimica-solucoes": 2,
+  "quimica-termoquimica-cinetica": 2,
+  "fisica-termologia": 2,
+  "fisica-mecanica": 2,
+  "fisica-ondas-optica": 2,
+  "fisica-eletromagnetismo": 2,
+  "fisica-hidrostatica": 2,
+  "fisica-energia-trabalho": 2,
+  "matematica-geometria": 1.5,
+  "matematica-financeira": 1.5,
+  "matematica-algebra": 1.5,
+  "matematica-probabilidade": 1.5,
+  "matematica-sequencias": 1.5,
+  "interpretacao-argumentacao": 3,
+  "interpretacao-inferencia": 3,
+  "interpretacao-genero-discurso": 3,
+  "interpretacao-recursos-linguagem": 3,
+  "interpretacao-estrutura-coesao": 3,
+  "interpretacao-ideia-central": 3,
+  "gramatica-coesao-semantica": 2.5,
+  "gramatica-regencia-crase": 2.5,
+  "gramatica-concordancia": 2.5,
+  "gramatica-morfologia": 2.5,
+  "gramatica-pontuacao": 2.5,
+  "gramatica-sintaxe-periodo": 2.5,
+  "literatura-realismo-naturalismo": 3,
+  "literatura-colonial-romantismo": 3,
+  "literatura-modernismo": 3,
+  "literatura-teoria-analise": 3,
+  "literatura-contemporanea": 3,
+  "ingles-inference": 2.5,
+  "ingles-grammar-structure": 2.5,
+  "ingles-main-idea": 2.5,
+  "ingles-detail": 2.5,
+  "ingles-vocabulary": 2.5,
+  "historia-brasil-colonia-imperio": 3,
+  "historia-brasil-republica": 3,
+  "historia-geral-contemporanea": 3,
+  "historia-geral-moderna": 3,
+  "historia-geral-antiga-medieval": 3,
+  "geografia-populacao-urbana": 3,
+  "geografia-fisica-clima": 3,
+  "geografia-agraria-economica": 3,
+  "geografia-geopolitica": 3,
+  "geografia-ambiente-sustentabilidade": 3,
+  "geografia-cartografia": 3,
+  "filosofia-politica": 3,
+  "filosofia-etica-moral": 3,
+  "sociologia-trabalho-classes": 3,
+  "sociologia-cultura-identidade": 3,
+  "filosofia-conhecimento-logica": 3,
+  "sociologia-instituicoes-movimentos": 3,
+  "artes-classica-moderna": 2,
+  "artes-audiovisual-midia": 2,
+  "artes-patrimonio-cultura-popular": 2,
+  "artes-musica-cena": 2,
+  "artes-contemporanea": 2,
+  "atualidades-politica-economia": 2,
+  "atualidades-geopolitica": 2,
+  "atualidades-meioambiente": 2,
+  "atualidades-tecnologia": 2,
+  "atualidades-sociedade-educacao": 2,
+  "atualidades-saude": 3
+ },
+ "unifesp": {
+  "interpretacao-texto": 3,
+  "gramatica": 3,
+  "ingles": 3,
+  "biologia": 3,
+  "quimica": 2.5,
+  "fisica": 2.5,
+  "literatura": 2,
+  "matematica": 2,
+  "historia": 2,
+  "geografia": 2,
+  "atualidades": 1.5,
+  "filosofia-sociologia": 1.5,
+  "artes-cultura": 1,
+  "biologia-citologia": 3,
+  "biologia-genetica": 3,
+  "biologia-diversidade": 3,
+  "biologia-fisiologia": 3,
+  "biologia-ecologia": 3,
+  "biologia-evolucao": 3,
+  "quimica-eletroquimica": 2.5,
+  "quimica-atomistica-ligacoes": 2.5,
+  "quimica-equilibrio-acido-base": 2.5,
+  "quimica-estequiometria": 2.5,
+  "quimica-organica": 2.5,
+  "quimica-solucoes": 2.5,
+  "quimica-termoquimica-cinetica": 2.5,
+  "fisica-termologia": 2.5,
+  "fisica-mecanica": 2.5,
+  "fisica-ondas-optica": 2.5,
+  "fisica-eletromagnetismo": 2.5,
+  "fisica-hidrostatica": 2.5,
+  "fisica-energia-trabalho": 2.5,
+  "matematica-geometria": 2,
+  "matematica-financeira": 2,
+  "matematica-algebra": 2,
+  "matematica-probabilidade": 2,
+  "matematica-sequencias": 2,
+  "interpretacao-argumentacao": 3,
+  "interpretacao-inferencia": 3,
+  "interpretacao-genero-discurso": 3,
+  "interpretacao-recursos-linguagem": 3,
+  "interpretacao-estrutura-coesao": 3,
+  "interpretacao-ideia-central": 3,
+  "gramatica-coesao-semantica": 3,
+  "gramatica-regencia-crase": 3,
+  "gramatica-concordancia": 3,
+  "gramatica-morfologia": 3,
+  "gramatica-pontuacao": 3,
+  "gramatica-sintaxe-periodo": 3,
+  "literatura-realismo-naturalismo": 2,
+  "literatura-colonial-romantismo": 2,
+  "literatura-modernismo": 2,
+  "literatura-teoria-analise": 2,
+  "literatura-contemporanea": 2,
+  "ingles-inference": 3,
+  "ingles-grammar-structure": 3,
+  "ingles-main-idea": 3,
+  "ingles-detail": 3,
+  "ingles-vocabulary": 3,
+  "historia-brasil-colonia-imperio": 2,
+  "historia-brasil-republica": 2,
+  "historia-geral-contemporanea": 2,
+  "historia-geral-moderna": 2,
+  "historia-geral-antiga-medieval": 2,
+  "geografia-populacao-urbana": 2,
+  "geografia-fisica-clima": 2,
+  "geografia-agraria-economica": 2,
+  "geografia-geopolitica": 2,
+  "geografia-ambiente-sustentabilidade": 2,
+  "geografia-cartografia": 2,
+  "filosofia-politica": 1.5,
+  "filosofia-etica-moral": 1.5,
+  "sociologia-trabalho-classes": 1.5,
+  "sociologia-cultura-identidade": 1.5,
+  "filosofia-conhecimento-logica": 1.5,
+  "sociologia-instituicoes-movimentos": 1.5,
+  "artes-classica-moderna": 1,
+  "artes-audiovisual-midia": 1,
+  "artes-patrimonio-cultura-popular": 1,
+  "artes-musica-cena": 1,
+  "artes-contemporanea": 1,
+  "atualidades-politica-economia": 1.5,
+  "atualidades-geopolitica": 1.5,
+  "atualidades-meioambiente": 1.5,
+  "atualidades-tecnologia": 1.5,
+  "atualidades-sociedade-educacao": 1.5,
+  "atualidades-saude": 2.5
+ },
+ "einstein": {
+  "matematica": 3,
+  "interpretacao-texto": 3,
+  "ingles": 3,
+  "biologia": 2.5,
+  "quimica": 2.5,
+  "fisica": 2.5,
+  "gramatica": 2,
+  "historia": 2,
+  "geografia": 2,
+  "literatura": 2,
+  "atualidades": 2,
+  "filosofia-sociologia": 0.5,
+  "artes-cultura": 0.5,
+  "biologia-citologia": 2.5,
+  "biologia-genetica": 2.5,
+  "biologia-diversidade": 2.5,
+  "biologia-fisiologia": 2.5,
+  "biologia-ecologia": 2.5,
+  "biologia-evolucao": 2.5,
+  "quimica-eletroquimica": 2.5,
+  "quimica-atomistica-ligacoes": 2.5,
+  "quimica-equilibrio-acido-base": 2.5,
+  "quimica-estequiometria": 2.5,
+  "quimica-organica": 2.5,
+  "quimica-solucoes": 2.5,
+  "quimica-termoquimica-cinetica": 2.5,
+  "fisica-termologia": 2.5,
+  "fisica-mecanica": 2.5,
+  "fisica-ondas-optica": 2.5,
+  "fisica-eletromagnetismo": 2.5,
+  "fisica-hidrostatica": 2.5,
+  "fisica-energia-trabalho": 2.5,
+  "matematica-geometria": 3,
+  "matematica-financeira": 3,
+  "matematica-algebra": 3,
+  "matematica-probabilidade": 3,
+  "matematica-sequencias": 3,
+  "interpretacao-argumentacao": 3,
+  "interpretacao-inferencia": 3,
+  "interpretacao-genero-discurso": 3,
+  "interpretacao-recursos-linguagem": 3,
+  "interpretacao-estrutura-coesao": 3,
+  "interpretacao-ideia-central": 3,
+  "gramatica-coesao-semantica": 2,
+  "gramatica-regencia-crase": 2,
+  "gramatica-concordancia": 2,
+  "gramatica-morfologia": 2,
+  "gramatica-pontuacao": 2,
+  "gramatica-sintaxe-periodo": 2,
+  "literatura-realismo-naturalismo": 2,
+  "literatura-colonial-romantismo": 2,
+  "literatura-modernismo": 2,
+  "literatura-teoria-analise": 2,
+  "literatura-contemporanea": 2,
+  "ingles-inference": 3,
+  "ingles-grammar-structure": 3,
+  "ingles-main-idea": 3,
+  "ingles-detail": 3,
+  "ingles-vocabulary": 3,
+  "historia-brasil-colonia-imperio": 2,
+  "historia-brasil-republica": 2,
+  "historia-geral-contemporanea": 2,
+  "historia-geral-moderna": 2,
+  "historia-geral-antiga-medieval": 2,
+  "geografia-populacao-urbana": 2,
+  "geografia-fisica-clima": 2,
+  "geografia-agraria-economica": 2,
+  "geografia-geopolitica": 2,
+  "geografia-ambiente-sustentabilidade": 2,
+  "geografia-cartografia": 2,
+  "filosofia-politica": 0.5,
+  "filosofia-etica-moral": 0.5,
+  "sociologia-trabalho-classes": 0.5,
+  "sociologia-cultura-identidade": 0.5,
+  "filosofia-conhecimento-logica": 0.5,
+  "sociologia-instituicoes-movimentos": 0.5,
+  "artes-classica-moderna": 0.5,
+  "artes-audiovisual-midia": 0.5,
+  "artes-patrimonio-cultura-popular": 0.5,
+  "artes-musica-cena": 0.5,
+  "artes-contemporanea": 0.5,
+  "atualidades-politica-economia": 2,
+  "atualidades-geopolitica": 2,
+  "atualidades-meioambiente": 2,
+  "atualidades-tecnologia": 2,
+  "atualidades-sociedade-educacao": 2,
+  "atualidades-saude": 3
+ },
+ "santacasa": {
+  "biologia": 3,
+  "quimica": 2.5,
+  "fisica": 2.5,
+  "interpretacao-texto": 2.5,
+  "literatura": 2.5,
+  "gramatica": 2,
+  "matematica": 2,
+  "ingles": 2,
+  "historia": 2,
+  "geografia": 2,
+  "atualidades": 1.5,
+  "filosofia-sociologia": 0.5,
+  "artes-cultura": 0.5,
+  "biologia-citologia": 3,
+  "biologia-genetica": 3,
+  "biologia-diversidade": 3,
+  "biologia-fisiologia": 3,
+  "biologia-ecologia": 3,
+  "biologia-evolucao": 3,
+  "quimica-eletroquimica": 2.5,
+  "quimica-atomistica-ligacoes": 2.5,
+  "quimica-equilibrio-acido-base": 2.5,
+  "quimica-estequiometria": 2.5,
+  "quimica-organica": 2.5,
+  "quimica-solucoes": 2.5,
+  "quimica-termoquimica-cinetica": 2.5,
+  "fisica-termologia": 2.5,
+  "fisica-mecanica": 2.5,
+  "fisica-ondas-optica": 2.5,
+  "fisica-eletromagnetismo": 2.5,
+  "fisica-hidrostatica": 2.5,
+  "fisica-energia-trabalho": 2.5,
+  "matematica-geometria": 2,
+  "matematica-financeira": 2,
+  "matematica-algebra": 2,
+  "matematica-probabilidade": 2,
+  "matematica-sequencias": 2,
+  "interpretacao-argumentacao": 2.5,
+  "interpretacao-inferencia": 2.5,
+  "interpretacao-genero-discurso": 2.5,
+  "interpretacao-recursos-linguagem": 2.5,
+  "interpretacao-estrutura-coesao": 2.5,
+  "interpretacao-ideia-central": 2.5,
+  "gramatica-coesao-semantica": 2,
+  "gramatica-regencia-crase": 2,
+  "gramatica-concordancia": 2,
+  "gramatica-morfologia": 2,
+  "gramatica-pontuacao": 2,
+  "gramatica-sintaxe-periodo": 2,
+  "literatura-realismo-naturalismo": 2.5,
+  "literatura-colonial-romantismo": 2.5,
+  "literatura-modernismo": 2.5,
+  "literatura-teoria-analise": 2.5,
+  "literatura-contemporanea": 2.5,
+  "ingles-inference": 2,
+  "ingles-grammar-structure": 2,
+  "ingles-main-idea": 2,
+  "ingles-detail": 2,
+  "ingles-vocabulary": 2,
+  "historia-brasil-colonia-imperio": 2,
+  "historia-brasil-republica": 2,
+  "historia-geral-contemporanea": 2,
+  "historia-geral-moderna": 2,
+  "historia-geral-antiga-medieval": 2,
+  "geografia-populacao-urbana": 2,
+  "geografia-fisica-clima": 2,
+  "geografia-agraria-economica": 2,
+  "geografia-geopolitica": 2,
+  "geografia-ambiente-sustentabilidade": 2,
+  "geografia-cartografia": 2,
+  "filosofia-politica": 0.5,
+  "filosofia-etica-moral": 0.5,
+  "sociologia-trabalho-classes": 0.5,
+  "sociologia-cultura-identidade": 0.5,
+  "filosofia-conhecimento-logica": 0.5,
+  "sociologia-instituicoes-movimentos": 0.5,
+  "artes-classica-moderna": 0.5,
+  "artes-audiovisual-midia": 0.5,
+  "artes-patrimonio-cultura-popular": 0.5,
+  "artes-musica-cena": 0.5,
+  "artes-contemporanea": 0.5,
+  "atualidades-politica-economia": 1.5,
+  "atualidades-geopolitica": 1.5,
+  "atualidades-meioambiente": 1.5,
+  "atualidades-tecnologia": 1.5,
+  "atualidades-sociedade-educacao": 1.5,
+  "atualidades-saude": 2.5
+ },
+ "pucsp": {
+  "interpretacao-texto": 3,
+  "literatura": 3,
+  "gramatica": 2.5,
+  "ingles": 2.5,
+  "biologia": 2.5,
+  "quimica": 2.5,
+  "fisica": 2.5,
+  "atualidades": 2,
+  "historia": 1.5,
+  "geografia": 1.5,
+  "filosofia-sociologia": 1.5,
+  "artes-cultura": 1,
+  "matematica": 0.5,
+  "biologia-citologia": 2.5,
+  "biologia-genetica": 2.5,
+  "biologia-diversidade": 2.5,
+  "biologia-fisiologia": 2.5,
+  "biologia-ecologia": 2.5,
+  "biologia-evolucao": 2.5,
+  "quimica-eletroquimica": 2.5,
+  "quimica-atomistica-ligacoes": 2.5,
+  "quimica-equilibrio-acido-base": 2.5,
+  "quimica-estequiometria": 2.5,
+  "quimica-organica": 2.5,
+  "quimica-solucoes": 2.5,
+  "quimica-termoquimica-cinetica": 2.5,
+  "fisica-termologia": 2.5,
+  "fisica-mecanica": 2.5,
+  "fisica-ondas-optica": 2.5,
+  "fisica-eletromagnetismo": 2.5,
+  "fisica-hidrostatica": 2.5,
+  "fisica-energia-trabalho": 2.5,
+  "matematica-geometria": 0.5,
+  "matematica-financeira": 0.5,
+  "matematica-algebra": 0.5,
+  "matematica-probabilidade": 0.5,
+  "matematica-sequencias": 0.5,
+  "interpretacao-argumentacao": 3,
+  "interpretacao-inferencia": 3,
+  "interpretacao-genero-discurso": 3,
+  "interpretacao-recursos-linguagem": 3,
+  "interpretacao-estrutura-coesao": 3,
+  "interpretacao-ideia-central": 3,
+  "gramatica-coesao-semantica": 2.5,
+  "gramatica-regencia-crase": 2.5,
+  "gramatica-concordancia": 2.5,
+  "gramatica-morfologia": 2.5,
+  "gramatica-pontuacao": 2.5,
+  "gramatica-sintaxe-periodo": 2.5,
+  "literatura-realismo-naturalismo": 3,
+  "literatura-colonial-romantismo": 3,
+  "literatura-modernismo": 3,
+  "literatura-teoria-analise": 3,
+  "literatura-contemporanea": 3,
+  "ingles-inference": 2.5,
+  "ingles-grammar-structure": 2.5,
+  "ingles-main-idea": 2.5,
+  "ingles-detail": 2.5,
+  "ingles-vocabulary": 2.5,
+  "historia-brasil-colonia-imperio": 1.5,
+  "historia-brasil-republica": 1.5,
+  "historia-geral-contemporanea": 1.5,
+  "historia-geral-moderna": 1.5,
+  "historia-geral-antiga-medieval": 1.5,
+  "geografia-populacao-urbana": 1.5,
+  "geografia-fisica-clima": 1.5,
+  "geografia-agraria-economica": 1.5,
+  "geografia-geopolitica": 1.5,
+  "geografia-ambiente-sustentabilidade": 1.5,
+  "geografia-cartografia": 1.5,
+  "filosofia-politica": 1.5,
+  "filosofia-etica-moral": 1.5,
+  "sociologia-trabalho-classes": 1.5,
+  "sociologia-cultura-identidade": 1.5,
+  "filosofia-conhecimento-logica": 1.5,
+  "sociologia-instituicoes-movimentos": 1.5,
+  "artes-classica-moderna": 1,
+  "artes-audiovisual-midia": 1,
+  "artes-patrimonio-cultura-popular": 1,
+  "artes-musica-cena": 1,
+  "artes-contemporanea": 1,
+  "atualidades-politica-economia": 2,
+  "atualidades-geopolitica": 2,
+  "atualidades-meioambiente": 2,
+  "atualidades-tecnologia": 2,
+  "atualidades-sociedade-educacao": 2,
+  "atualidades-saude": 3
+ }
 };
 
-// Banca-alvo: um id acima, um ARRAY de ids, ou "todas".
-//
-// A regra de combinação é o MAIOR peso entre as bancas escolhidas, nunca a
-// média — e o motivo é o mesmo da trilha de Direito. Quem presta FUVEST e
-// Unicamp precisa de Física em 3 (a 2ª fase da FUVEST cobra) E de Matemática
-// em 3 (a 2ª fase da Unicamp cobra), embora cada banca despreze uma das duas.
-// A média entregaria 2.25 nas duas e o candidato chegaria mal preparado em
-// ambas, sem nunca descobrir por quê.
-//
-// MAS: com as SETE bancas selecionadas, o máximo satura. Onze das treze
-// frentes chegam a 3 e o plano de 90 dias fica praticamente uniforme — a
-// ponderação deixa de ponderar. Isso não é defeito da regra: é sinal de que
-// "todas" não é um alvo real. Ninguém presta as sete.
-//
-// Por isso o padrão são duas bancas, não sete. FUVEST e Unicamp são as de
-// maior demanda, são gratuitas e são as mais assimétricas entre si — cobrir as
-// duas já obriga o plano a manter as seis disciplinas de pé.
-window.BANCA_ALVO = window.BANCA_ALVO || ["fuvest", "unicamp"];
+window.BANCA_ALVO = window.BANCA_ALVO || ["fuvest","unicamp"];
 
 window.PRIORITY_WEIGHTS = (function () {
-  const porBanca = window.PRIORITY_WEIGHTS_POR_BANCA;
-  const alvo = window.BANCA_ALVO;
+  var porBanca = window.PRIORITY_WEIGHTS_POR_BANCA;
+  var alvo = window.BANCA_ALVO;
 
   // Uma banca só: usa a tabela dela, sem combinar.
   if (typeof alvo === "string" && porBanca[alvo]) return porBanca[alvo];
 
-  const ids = Array.isArray(alvo)
+  var ids = Array.isArray(alvo)
     ? alvo.filter(function (b) { return porBanca[b]; })
-    : Object.keys(porBanca); // "todas" ou valor irreconhecível
+    : Object.keys(porBanca);
+  var selecionadas = ids.length ? ids : Object.keys(porBanca);
 
-  const selecionadas = ids.length ? ids : Object.keys(porBanca);
-
-  const combinado = {};
-  Object.keys(porBanca.fuvest).forEach(function (frente) {
-    combinado[frente] = selecionadas.reduce(function (maior, banca) {
-      return Math.max(maior, porBanca[banca][frente] || 0);
+  // MAIOR peso entre as bancas alvo, nunca a média: a média zeraria pela
+  // metade justamente as frentes assimétricas, que são as que não se pode
+  // descobrir na prova que ficaram de fora.
+  var combinado = {};
+  var primeira = porBanca[selecionadas[0]];
+  Object.keys(primeira).forEach(function (id) {
+    combinado[id] = selecionadas.reduce(function (maior, banca) {
+      return Math.max(maior, porBanca[banca][id] || 0);
     }, 0);
   });
   return combinado;

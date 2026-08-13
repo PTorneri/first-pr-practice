@@ -1,0 +1,1809 @@
+{
+ "gerado": "2026-08-12",
+ "frente": "gramatica",
+ "total": 300,
+ "residuo": [
+  "dir-gramatica-01",
+  "med-gramatica-25",
+  "med-gramatica-106",
+  "med-gramatica-111",
+  "med-gramatica-142",
+  "med-gramatica-143",
+  "med-gramatica-146"
+ ],
+ "mapa": {
+  "dir-gramatica-01": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "padrao": true
+  },
+  "dir-gramatica-02": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 7
+  },
+  "dir-gramatica-03": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-04": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 6
+  },
+  "dir-gramatica-05": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-06": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-gramatica-07": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-08": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-09": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-gramatica-10": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 5
+  },
+  "dir-gramatica-11": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-12": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 6
+  },
+  "dir-gramatica-13": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 12,
+   "margem": 3
+  },
+  "dir-gramatica-14": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-15": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-gramatica-16": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 19,
+   "margem": 16
+  },
+  "dir-gramatica-17": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-gramatica-18": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 1
+  },
+  "dir-gramatica-19": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "dir-gramatica-20": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "dir-gramatica-21": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "dir-gramatica-22": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-gramatica-23": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "dir-gramatica-24": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-gramatica-25": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-gramatica-26": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-27": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-gramatica-28": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "dir-gramatica-29": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-30": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-gramatica-31": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-32": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-gramatica-33": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "dir-gramatica-34": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 6
+  },
+  "dir-gramatica-35": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-gramatica-36": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-gramatica-37": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "dir-gramatica-38": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-39": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-gramatica-40": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-gramatica-41": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-gramatica-42": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 4
+  },
+  "dir-gramatica-43": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-44": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "dir-gramatica-45": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-gramatica-46": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 6
+  },
+  "dir-gramatica-47": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-gramatica-48": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-49": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-gramatica-50": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-gramatica-51": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-gramatica-52": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 4
+  },
+  "dir-gramatica-53": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-gramatica-54": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "dir-gramatica-55": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 12,
+   "margem": 3
+  },
+  "dir-gramatica-56": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 6
+  },
+  "dir-gramatica-57": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-gramatica-58": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-59": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "dir-gramatica-60": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-61": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "dir-gramatica-62": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-gramatica-63": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-64": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 4
+  },
+  "dir-gramatica-65": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 6
+  },
+  "dir-gramatica-66": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-gramatica-67": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-gramatica-68": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-gramatica-69": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-gramatica-70": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-gramatica-71": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 10
+  },
+  "dir-gramatica-72": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 18,
+   "margem": 13
+  },
+  "dir-gramatica-73": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-74": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-gramatica-75": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 17,
+   "margem": 14
+  },
+  "dir-gramatica-76": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-gramatica-77": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 12,
+   "margem": 8
+  },
+  "dir-gramatica-78": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-79": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-gramatica-80": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 4
+  },
+  "dir-gramatica-81": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 6
+  },
+  "dir-gramatica-82": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-gramatica-83": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "dir-gramatica-84": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 18,
+   "margem": 13
+  },
+  "dir-gramatica-85": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 5
+  },
+  "dir-gramatica-86": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-gramatica-87": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 2
+  },
+  "dir-gramatica-88": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-89": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-90": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-gramatica-91": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 7
+  },
+  "dir-gramatica-92": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 6,
+   "margem": 1
+  },
+  "dir-gramatica-93": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-94": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "dir-gramatica-95": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-96": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-gramatica-97": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "dir-gramatica-98": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 16,
+   "margem": 13
+  },
+  "dir-gramatica-99": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-gramatica-100": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-gramatica-101": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "dir-gramatica-102": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-103": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 10
+  },
+  "dir-gramatica-104": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-105": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-106": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 18,
+   "margem": 13
+  },
+  "dir-gramatica-107": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-gramatica-108": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "dir-gramatica-109": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "dir-gramatica-110": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-111": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 12,
+   "margem": 4
+  },
+  "dir-gramatica-112": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 18,
+   "margem": 13
+  },
+  "dir-gramatica-113": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-gramatica-114": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 3
+  },
+  "dir-gramatica-115": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 6,
+   "margem": 1
+  },
+  "dir-gramatica-116": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 5
+  },
+  "dir-gramatica-117": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-118": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-gramatica-119": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-gramatica-120": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-gramatica-121": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 6
+  },
+  "dir-gramatica-122": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-gramatica-123": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "dir-gramatica-124": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-gramatica-125": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "dir-gramatica-126": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-127": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-128": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-129": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-130": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-gramatica-131": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "dir-gramatica-132": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "dir-gramatica-133": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 9
+  },
+  "dir-gramatica-134": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "dir-gramatica-135": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-gramatica-136": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 6
+  },
+  "dir-gramatica-137": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "dir-gramatica-138": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 4,
+   "margem": 0
+  },
+  "dir-gramatica-139": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "dir-gramatica-140": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 1
+  },
+  "dir-gramatica-141": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "dir-gramatica-142": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 7,
+   "margem": 2
+  },
+  "dir-gramatica-143": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 0
+  },
+  "dir-gramatica-144": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "dir-gramatica-145": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 12
+  },
+  "dir-gramatica-146": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 19,
+   "margem": 13
+  },
+  "dir-gramatica-147": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "dir-gramatica-148": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-gramatica-149": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 6
+  },
+  "dir-gramatica-150": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-gramatica-01": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 12
+  },
+  "med-gramatica-02": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 5
+  },
+  "med-gramatica-03": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-gramatica-04": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 4
+  },
+  "med-gramatica-05": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "med-gramatica-06": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 12,
+   "margem": 2
+  },
+  "med-gramatica-07": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 12,
+   "margem": 2
+  },
+  "med-gramatica-08": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 6
+  },
+  "med-gramatica-09": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 1
+  },
+  "med-gramatica-10": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-11": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-12": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 7,
+   "margem": 2
+  },
+  "med-gramatica-13": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 7,
+   "margem": 2
+  },
+  "med-gramatica-14": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 3
+  },
+  "med-gramatica-15": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 19,
+   "margem": 6
+  },
+  "med-gramatica-16": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 12,
+   "margem": 8
+  },
+  "med-gramatica-17": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-gramatica-18": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-gramatica-19": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-gramatica-20": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 4
+  },
+  "med-gramatica-21": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-gramatica-22": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 2
+  },
+  "med-gramatica-23": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-gramatica-24": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-25": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "padrao": true
+  },
+  "med-gramatica-26": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-gramatica-27": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-gramatica-28": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-gramatica-29": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-gramatica-30": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 4
+  },
+  "med-gramatica-31": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-32": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-33": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-gramatica-34": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-35": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-36": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-37": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 6,
+   "margem": 1
+  },
+  "med-gramatica-38": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-39": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-gramatica-40": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-41": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-gramatica-42": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-43": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-44": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 20,
+   "margem": 10
+  },
+  "med-gramatica-45": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-46": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-47": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-48": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-gramatica-49": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-gramatica-50": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-gramatica-51": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-52": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-53": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-gramatica-54": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-55": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-gramatica-56": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-57": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-58": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-59": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-gramatica-60": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-gramatica-61": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-gramatica-62": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-gramatica-63": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 7
+  },
+  "med-gramatica-64": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-65": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-66": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-67": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-68": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-69": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-70": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-71": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-72": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 12,
+   "margem": 9
+  },
+  "med-gramatica-73": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-74": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-75": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 3
+  },
+  "med-gramatica-76": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 3
+  },
+  "med-gramatica-77": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 1
+  },
+  "med-gramatica-78": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 13,
+   "margem": 3
+  },
+  "med-gramatica-79": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 4
+  },
+  "med-gramatica-80": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-81": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 3
+  },
+  "med-gramatica-82": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-83": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-84": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-85": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 11
+  },
+  "med-gramatica-86": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-87": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-gramatica-88": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-89": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-90": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-gramatica-91": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 4,
+   "margem": 0
+  },
+  "med-gramatica-92": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-93": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-94": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-95": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-gramatica-96": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 3
+  },
+  "med-gramatica-97": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-98": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-99": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-100": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-101": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-102": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-103": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-104": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-105": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-106": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "padrao": true
+  },
+  "med-gramatica-107": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-108": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-109": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-gramatica-110": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-111": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "padrao": true
+  },
+  "med-gramatica-112": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-113": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-114": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-gramatica-115": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-gramatica-116": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-gramatica-117": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 7,
+   "margem": 3
+  },
+  "med-gramatica-118": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 7,
+   "margem": 2
+  },
+  "med-gramatica-119": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 3
+  },
+  "med-gramatica-120": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 4
+  },
+  "med-gramatica-121": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-gramatica-122": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 4
+  },
+  "med-gramatica-123": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-124": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 7,
+   "margem": 2
+  },
+  "med-gramatica-125": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-126": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-gramatica-127": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-gramatica-128": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 3,
+   "margem": 0
+  },
+  "med-gramatica-129": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-gramatica-130": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-131": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 4
+  },
+  "med-gramatica-132": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-133": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-134": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-gramatica-135": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-gramatica-136": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-gramatica-137": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-138": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-gramatica-139": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-gramatica-140": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-141": {
+   "subtema": "gramatica-regencia-crase",
+   "frenteDestino": "gramatica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-gramatica-142": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "padrao": true
+  },
+  "med-gramatica-143": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "padrao": true
+  },
+  "med-gramatica-144": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-gramatica-145": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-146": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "padrao": true
+  },
+  "med-gramatica-147": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-gramatica-148": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-gramatica-149": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "med-gramatica-150": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 9
+  }
+ }
+}

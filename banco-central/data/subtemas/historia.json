@@ -1,0 +1,2529 @@
+{
+ "gerado": "2026-08-12",
+ "frente": "historia",
+ "total": 420,
+ "residuo": [
+  "dir-historia-brasil-68",
+  "dir-historia-brasil-95",
+  "dir-historia-brasil-109",
+  "dir-historia-geral-35",
+  "dir-historia-geral-54",
+  "dir-historia-geral-66",
+  "dir-historia-geral-71",
+  "dir-historia-geral-77",
+  "dir-historia-geral-81",
+  "dir-historia-geral-82",
+  "dir-historia-geral-84",
+  "dir-historia-geral-86",
+  "dir-historia-geral-87",
+  "dir-historia-geral-91",
+  "dir-historia-geral-92",
+  "dir-historia-geral-93",
+  "dir-historia-geral-96",
+  "dir-historia-geral-98",
+  "dir-historia-geral-105",
+  "dir-historia-geral-107",
+  "med-historia-02",
+  "med-historia-04",
+  "med-historia-15",
+  "med-historia-19",
+  "med-historia-21",
+  "med-historia-24",
+  "med-historia-26",
+  "med-historia-48",
+  "med-historia-60",
+  "med-historia-64",
+  "med-historia-65",
+  "med-historia-85",
+  "med-historia-88",
+  "med-historia-107",
+  "med-historia-108",
+  "med-historia-110",
+  "med-historia-112",
+  "med-historia-117",
+  "med-historia-119",
+  "med-historia-120",
+  "med-historia-121",
+  "med-historia-122",
+  "med-historia-123",
+  "med-historia-124",
+  "med-historia-126",
+  "med-historia-128",
+  "med-historia-130",
+  "med-historia-131",
+  "med-historia-133",
+  "med-historia-134",
+  "med-historia-135",
+  "med-historia-137",
+  "med-historia-141",
+  "med-historia-142",
+  "med-historia-143",
+  "med-historia-145",
+  "med-historia-147",
+  "med-historia-151",
+  "med-historia-153",
+  "med-historia-155",
+  "med-historia-156",
+  "med-historia-157",
+  "med-historia-174",
+  "med-historia-178",
+  "med-historia-180",
+  "med-historia-181",
+  "med-historia-189",
+  "med-historia-191",
+  "med-historia-194",
+  "med-historia-201"
+ ],
+ "mapa": {
+  "dir-historia-brasil-01": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-02": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-03": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-04": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-05": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-06": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-historia-brasil-07": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-historia-brasil-08": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-09": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 19,
+   "margem": 14
+  },
+  "dir-historia-brasil-10": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-historia-brasil-11": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 1
+  },
+  "dir-historia-brasil-12": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 1
+  },
+  "dir-historia-brasil-13": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-14": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-15": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-historia-brasil-16": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-17": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-18": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-19": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-historia-brasil-20": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-21": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-historia-brasil-22": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-historia-brasil-23": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 19,
+   "margem": 19
+  },
+  "dir-historia-brasil-24": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-25": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 19,
+   "margem": 19
+  },
+  "dir-historia-brasil-26": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-27": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-28": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-29": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-30": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-31": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-historia-brasil-32": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-33": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-34": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-historia-brasil-35": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-36": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-37": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-38": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-39": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-40": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-historia-brasil-41": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-42": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-43": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-44": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-45": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 19,
+   "margem": 19
+  },
+  "dir-historia-brasil-46": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-historia-brasil-47": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-historia-brasil-48": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-49": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-50": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-historia-brasil-51": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-52": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-53": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-historia-brasil-54": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-55": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-56": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-historia-brasil-57": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-historia-brasil-58": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-historia-brasil-59": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-historia-brasil-60": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-61": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-historia-brasil-62": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-historia-brasil-63": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-64": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-65": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-historia-brasil-66": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-67": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-historia-brasil-68": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-brasil-69": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 11
+  },
+  "dir-historia-brasil-70": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-71": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-72": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-73": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-historia-brasil-74": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-historia-brasil-75": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-76": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-historia-brasil-77": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-historia-brasil-78": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "dir-historia-brasil-79": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-historia-brasil-80": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-81": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-82": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-83": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-84": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-85": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-86": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-87": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-historia-brasil-88": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-historia-brasil-89": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-90": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-91": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-92": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-93": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-94": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-95": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-brasil-96": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-97": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-98": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-99": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-100": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-101": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-102": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-103": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-104": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-105": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-106": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-historia-brasil-107": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-brasil-108": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-brasil-109": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-01": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-02": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-03": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-historia-geral-04": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-historia-geral-05": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-06": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-07": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-08": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-09": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-10": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-11": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-12": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-13": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 0
+  },
+  "dir-historia-geral-14": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-15": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-16": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-17": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-18": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-19": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-20": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-historia-geral-21": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-22": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-23": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-24": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-25": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "dir-historia-geral-26": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-27": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-28": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-29": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-30": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-historia-geral-31": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-historia-geral-32": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-historia-geral-33": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-34": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-35": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-36": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-historia-geral-37": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-38": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-39": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-40": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-41": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-42": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-43": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-44": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 0
+  },
+  "dir-historia-geral-45": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-46": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-historia-geral-47": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-48": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-49": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-50": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-51": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-52": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-53": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-54": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-55": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-56": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-historia-geral-57": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-historia-geral-58": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-59": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-60": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-61": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-62": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-63": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-64": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-historia-geral-65": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-66": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-67": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-68": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-69": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-70": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-71": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-72": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-73": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-74": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-75": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-historia-geral-76": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-77": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-78": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-79": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-80": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-81": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-82": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-83": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-84": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-85": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-86": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-87": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-88": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-89": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-90": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-91": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-92": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-93": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-94": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-95": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-96": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-97": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-historia-geral-98": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-99": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-historia-geral-100": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-101": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-102": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-historia-geral-103": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-104": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-historia-geral-105": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "dir-historia-geral-106": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-historia-geral-107": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-01": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-historia-02": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-03": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-04": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-05": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-06": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-historia-07": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-08": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-historia-09": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-10": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-historia-11": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-12": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-13": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-14": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 5
+  },
+  "med-historia-15": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-16": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-historia-17": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-historia-18": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-19": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-20": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-historia-21": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-22": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-historia-23": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-24": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-25": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-26": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-27": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-28": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-historia-29": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-30": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-historia-31": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-32": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-historia-33": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-34": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-historia-35": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 19,
+   "margem": 14
+  },
+  "med-historia-36": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-37": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-historia-38": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-historia-39": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-historia-40": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-41": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-historia-42": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-historia-43": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-44": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 0
+  },
+  "med-historia-45": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-46": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-historia-47": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-48": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-49": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-50": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-51": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-historia-52": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 11
+  },
+  "med-historia-53": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-historia-54": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 20,
+   "margem": 20
+  },
+  "med-historia-55": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-historia-56": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-57": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-58": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-historia-59": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-historia-60": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-61": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-historia-62": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-historia-63": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-historia-64": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-65": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-66": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-67": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-68": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-historia-69": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-historia-70": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-historia-71": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 25,
+   "margem": 20
+  },
+  "med-historia-72": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-historia-73": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-74": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-75": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-historia-76": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-77": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-historia-78": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-79": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-80": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-81": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-82": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-83": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-84": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-85": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-86": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-historia-87": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-historia-88": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-89": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-historia-90": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-historia-91": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-historia-92": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-93": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-94": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-95": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-96": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-97": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-98": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-99": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-historia-100": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-101": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-102": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 24,
+   "margem": 19
+  },
+  "med-historia-103": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-historia-104": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-105": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-historia-106": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-107": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-108": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-109": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-110": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-111": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-112": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-113": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-historia-114": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-historia-115": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-116": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-historia-117": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-118": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-119": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-120": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-121": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-122": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-123": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-124": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-125": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-126": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-127": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-128": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-129": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-130": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-131": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-132": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-133": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-134": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-135": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-136": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-137": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-138": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-historia-139": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-140": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-141": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-142": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-143": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-144": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-145": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-146": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-historia-147": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-148": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-149": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-150": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-151": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-152": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-historia-153": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-154": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-historia-155": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-156": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-157": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-158": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-historia-159": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-historia-160": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-161": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-162": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-163": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-historia-164": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-165": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-historia-166": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-historia-167": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-historia-168": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-169": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-170": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-171": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-172": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-historia-173": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-historia-174": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-175": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-historia-176": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-historia-177": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-historia-178": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-179": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-180": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-181": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-182": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-183": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-historia-184": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-185": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-186": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-187": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-188": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-189": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-190": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-historia-191": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-192": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-historia-193": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-194": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-195": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-196": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-197": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-198": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-199": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-200": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-201": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "padrao": true
+  },
+  "med-historia-202": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-historia-203": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-204": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 9,
+   "margem": 4
+  }
+ }
+}

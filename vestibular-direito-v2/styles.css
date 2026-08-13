@@ -1655,6 +1655,13 @@ h4 { font-size: 1.0625rem; }
 .frentes-card-head { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
 .frentes-card-head h3 { margin: 0; font-size: 1.0625rem; }
 .progress-list { display: flex; flex-direction: column; gap: 18px; margin: 0; }
+/* Cabeçalho de matéria na tela de progresso: a lista passou de 14 frentes para
+   79 temas, e sem a separação por matéria ela vira uma parede de barras. */
+.progress-frente { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap;
+  gap: 8px; margin-top: 10px; padding-bottom: 6px; border-bottom: 1px solid var(--accent-soft); }
+.progress-frente:first-child { margin-top: 0; }
+.progress-frente-nome { font-weight: 700; font-size: 0.97rem; letter-spacing: -0.01em; }
+.progress-frente-stat { color: var(--ink-faint); font-size: 0.8rem; }
 .progress-row { background: none; border: none; border-radius: 0; padding: 0; display: flex; flex-direction: column; gap: 7px; }
 .progress-row-top { display: flex; justify-content: space-between; margin-bottom: 0; gap: 10px; font-size: 0.845rem; }
 .progress-row-top .name { font-weight: 600; }

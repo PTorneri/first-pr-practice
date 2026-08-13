@@ -1925,6 +1925,186 @@
                          "resposta":  "e",
                          "explicacao":  "Uma política pública habitacional é uma ação estatal organizada para garantir o acesso à moradia como direito social, como no exemplo descrito de construção subsidiada de moradias populares. As demais alternativas descrevem outros fenômenos e práticas reais do mercado imobiliário, mas sem essa finalidade de política pública voltada à garantia de um direito social.",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-125",
+                         "texto_apoio":  "Uma pessoa negra é reiteradamente preterida em processos seletivos de emprego, mesmo com qualificação equivalente à de outros candidatos, sem que exista uma única autoridade ou norma explícita determinando esse tratamento desigual.",
+                         "enunciado":  "Esse padrão de desvantagem, reproduzido por práticas e critérios aparentemente neutros nas instituições, sem depender da intenção declarada de um indivíduo específico, é chamado pela sociologia e pelo direito de:",
+                         "alternativas":  {
+                                              "a":  "racismo estrutural, padrão de desvantagem reproduzido por práticas institucionais, independentemente da intenção de um indivíduo",
+                                              "b":  "injúria racial, crime que consiste em ofender a honra de uma pessoa com o uso de elementos referentes à sua raça, cor ou etnia declarada",
+                                              "c":  "xenofobia, aversão ou hostilidade dirigida a pessoas estrangeiras ou percebidas como de origem nacional diferente",
+                                              "d":  "homofobia, aversão ou hostilidade dirigida a pessoas em razão de sua orientação sexual real ou percebida",
+                                              "e":  "intolerância religiosa, discriminação dirigida a uma pessoa em razão de sua crença ou prática religiosa específica"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Racismo estrutural descreve um padrão de desvantagem que se reproduz por meio de práticas e critérios institucionais aparentemente neutros, sem depender da intenção declarada de um agente individual — diferente da injúria racial (b), que é um ato individual e pontual. As demais alternativas nomeiam outras formas de discriminação reais, mas distintas do fenômeno descrito no texto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-126",
+                         "texto_apoio":  "A legislação brasileira distingue dois crimes relacionados à raça, ambos com impacto direto sobre a população negra do país: um deles atinge uma pessoa determinada e tem caráter mais pontual; o outro atinge uma coletividade e é tratado como imprescritível e inafiançável pela Constituição.",
+                         "enunciado":  "Esses dois crimes são conhecidos, respectivamente, como:",
+                         "alternativas":  {
+                                              "a":  "calúnia e difamação, distinguidos pela imputação de um fato criminoso específico ou apenas ofensivo à reputação pessoal de outra pessoa",
+                                              "b":  "injúria racial e racismo, distinguidos pelo alcance individual ou coletivo da ofensa e pelo tratamento penal atribuído a cada um",
+                                              "c":  "discriminação direta e discriminação indireta, distinguidas pela intenção declarada de quem pratica o ato discriminatório",
+                                              "d":  "preconceito e estigma, distinguidos pelo grau de exteriorização do julgamento negativo formado sobre outra pessoa",
+                                              "e":  "xenofobia e homofobia, distinguidas pelo grupo social específico contra o qual a hostilidade é dirigida diretamente"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A injúria racial atinge uma pessoa determinada, ofendendo sua honra com referência a raça ou cor; o racismo atinge uma coletividade e é tratado pela Constituição como crime imprescritível e inafiançável. As demais alternativas nomeiam outros pares de conceitos jurídicos e sociais reais, mas distintos dessa distinção específica entre os dois crimes.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-127",
+                         "texto_apoio":  "Uma universidade pública reserva parte de suas vagas para candidatos autodeclarados negros, pardos ou indígenas, além de candidatos oriundos de escola pública, como forma de compensar desvantagens históricas de acesso ao ensino superior.",
+                         "enunciado":  "Essa política de reserva de vagas é um exemplo do que se costuma chamar de:",
+                         "alternativas":  {
+                                              "a":  "livre concorrência, sistema em que os candidatos disputam as vagas disponíveis sob as mesmas regras, sem critério adicional específico",
+                                              "b":  "meritocracia plena, sistema em que o acesso a vagas depende do desempenho individual medido por avaliação padronizada única",
+                                              "c":  "ação afirmativa, política que reserva vagas ou benefícios a grupos historicamente desfavorecidos para compensar desvantagens acumuladas",
+                                              "d":  "isonomia formal, princípio segundo o qual a lei deve tratar as pessoas de maneira idêntica, sem levar em conta diferenças concretas entre elas",
+                                              "e":  "seleção por sorteio, sistema em que as vagas disponíveis são distribuídas aleatoriamente entre todos os candidatos inscritos"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Ação afirmativa é o termo para políticas que reservam vagas, cotas ou benefícios a grupos historicamente desfavorecidos, buscando compensar desvantagens acumuladas ao longo do tempo — a reserva de vagas por critério racial e de origem escolar descrita no texto é um exemplo típico. As demais alternativas descrevem outros sistemas de seleção reais, sem essa finalidade compensatória.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-128",
+                         "texto_apoio":  "Uma lei federal brasileira determinou que universidades públicas destinassem parte de suas vagas a estudantes de escola pública, com subcotas para autodeclarados negros, pardos e indígenas, proporcionais à composição da população de cada estado.",
+                         "enunciado":  "Essa lei, marco na política de acesso ao ensino superior público brasileiro, é conhecida como:",
+                         "alternativas":  {
+                                              "a":  "Estatuto da Criança e do Adolescente, conjunto de normas voltadas à proteção integral de crianças e adolescentes no país",
+                                              "b":  "Lei Maria da Penha, que cria mecanismos de proteção contra a violência doméstica e familiar dirigida à mulher",
+                                              "c":  "Estatuto da Igualdade Racial, conjunto de normas voltadas a garantir a igualdade de oportunidades e o combate à discriminação racial",
+                                              "d":  "Lei de Cotas, que reserva vagas em universidades públicas a estudantes de escola pública, com subcotas raciais",
+                                              "e":  "Lei de Diretrizes e Bases, norma que estabelece as diretrizes gerais da educação nacional em todos os seus níveis"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A Lei de Cotas (Lei 12.711/2012) determinou a reserva de vagas em universidades federais a estudantes de escola pública, com subcotas raciais proporcionais à composição populacional de cada estado, marco da política de ações afirmativas no ensino superior brasileiro. As demais alternativas nomeiam outras normas reais, mas com objeto distinto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-129",
+                         "texto_apoio":  "Duas pessoas em situações muito diferentes — uma com deficiência física, outra sem qualquer limitação — recebem exatamente o mesmo tipo de assento, sem qualquer adaptação, sob a justificativa de que a lei trata todos de forma idêntica.",
+                         "enunciado":  "Essa aplicação da lei, que ignora diferenças concretas de ponto de partida entre as pessoas, ilustra os limites do conceito de:",
+                         "alternativas":  {
+                                              "a":  "justiça distributiva, critério de distribuição de bens e oportunidades que leva em conta a contribuição de cada pessoa ao grupo",
+                                              "b":  "igualdade material, tratamento que reconhece diferenças concretas entre as pessoas e busca compensá-las de forma proporcional",
+                                              "c":  "isonomia substantiva, princípio que exige tratamento diferenciado exatamente na medida das diferenças concretas entre os indivíduos",
+                                              "d":  "equidade compensatória, distribuição de recursos e oportunidades proporcional à necessidade específica de cada pessoa envolvida",
+                                              "e":  "igualdade formal, tratamento idêntico perante a lei que não leva em conta diferenças concretas de ponto de partida entre as pessoas"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Igualdade formal é o tratamento idêntico perante a lei, sem considerar diferenças concretas de ponto de partida — o exemplo do assento único ilustra seu limite, já contornado pelo conceito de igualdade material (b), que busca compensar essas diferenças de forma proporcional. As demais alternativas nomeiam conceitos próximos, mas distintos do descrito no texto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-130",
+                         "texto_apoio":  "Uma lei federal brasileira criou mecanismos específicos de proteção para mulheres em situação de violência doméstica e familiar, incluindo medidas protetivas de urgência que podem afastar o agressor do lar antes mesmo da conclusão do processo judicial.",
+                         "enunciado":  "Essa lei, sancionada em 2006 e batizada em homenagem a uma sobrevivente de dupla tentativa de feminicídio, é conhecida como:",
+                         "alternativas":  {
+                                              "a":  "Lei Maria da Penha, que cria mecanismos de proteção e medidas protetivas de urgência contra a violência doméstica dirigida à mulher",
+                                              "b":  "Lei de Cotas, que reserva vagas em universidades públicas a estudantes de escola pública, com subcotas raciais proporcionais à população",
+                                              "c":  "Estatuto da Igualdade Racial, conjunto de normas voltadas a garantir a igualdade de oportunidades e o combate à discriminação racial",
+                                              "d":  "Estatuto do Idoso, conjunto de normas voltadas à proteção dos direitos das pessoas com 60 anos ou mais no país",
+                                              "e":  "Lei do Feminicídio, que qualifica o homicídio praticado contra a mulher por razões da condição de sexo feminino"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A Lei Maria da Penha, sancionada em 2006, criou mecanismos específicos de proteção contra a violência doméstica e familiar dirigida à mulher, incluindo medidas protetivas de urgência — batizada em homenagem a Maria da Penha Maia Fernandes, sobrevivente de dupla tentativa de feminicídio pelo próprio marido.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-131",
+                         "texto_apoio":  "Uma alteração na legislação penal brasileira passou a qualificar o homicídio praticado contra a mulher quando motivado pela sua condição de sexo feminino, aumentando a pena prevista em razão dessa motivação específica.",
+                         "enunciado":  "Essa qualificadora, incluída no Código Penal em 2015, é conhecida como:",
+                         "alternativas":  {
+                                              "a":  "infanticídio, tipo penal que trata da morte do próprio filho, praticada pela mãe sob a influência do estado puerperal",
+                                              "b":  "feminicídio, qualificadora que aumenta a pena do homicídio quando praticado contra a mulher por razões da condição de sexo feminino",
+                                              "c":  "latrocínio, tipo penal que trata da morte de uma pessoa como resultado de um roubo praticado pelo agente",
+                                              "d":  "genocídio, tipo penal que trata da destruição, total ou parcial, de um grupo nacional, étnico, racial ou religioso, determinado por lei",
+                                              "e":  "homicídio culposo, tipo penal que trata da morte causada por negligência, imprudência ou imperícia, sem intenção de matar"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Feminicídio é a qualificadora incluída no Código Penal em 2015 que aumenta a pena do homicídio quando praticado contra a mulher por razões da condição de sexo feminino, reconhecendo o caráter de gênero de boa parte da violência letal contra mulheres. As demais alternativas nomeiam outros tipos penais reais, distintos dessa qualificadora específica.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-132",
+                         "texto_apoio":  "Ao debater direitos de pessoas LGBT, é comum confundir dois conceitos distintos: um se refere a por quem a pessoa sente atração afetiva ou sexual; o outro se refere a como a pessoa se reconhece e se apresenta em termos de gênero, independentemente dessa atração.",
+                         "enunciado":  "Esses dois conceitos distintos são conhecidos, respectivamente, como:",
+                         "alternativas":  {
+                                              "a":  "expressão de gênero e orientação afetiva, distinguidas pela apresentação externa da pessoa e pela atração que ela sente por outras",
+                                              "b":  "sexo biológico e papel social, distinguidos pelas características físicas de nascimento e pelas expectativas atribuídas pela sociedade",
+                                              "c":  "orientação sexual e identidade de gênero, distinguidas pela atração afetivo-sexual e pelo autorreconhecimento de gênero da pessoa",
+                                              "d":  "cisgeneridade e transgeneridade, distinguidas pela coincidência ou não entre o gênero atribuído no nascimento e o gênero vivido",
+                                              "e":  "heteronormatividade e diversidade sexual, distinguidas pela conformidade ou não com o padrão social predominante de relação afetiva"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Orientação sexual diz respeito a por quem a pessoa sente atração afetivo-sexual; identidade de gênero diz respeito a como a pessoa se reconhece e se apresenta em termos de gênero, independentemente dessa atração — dois eixos distintos e não determinados um pelo outro. As demais alternativas nomeiam pares de conceitos reais e próximos, mas diferentes do par especificamente descrito no texto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-133",
+                         "texto_apoio":  "Um grupo étnico originário do território brasileiro reivindica, junto ao órgão federal competente, o reconhecimento formal de uma área de ocupação tradicional, processo que envolve estudos antropológicos e etapas administrativas específicas.",
+                         "enunciado":  "Esse processo de reconhecimento formal de terras tradicionalmente ocupadas por um grupo étnico originário é conhecido como:",
+                         "alternativas":  {
+                                              "a":  "tombamento patrimonial, ato administrativo que reconhece e protege um bem de valor histórico, artístico ou cultural",
+                                              "b":  "reforma agrária, política de redistribuição de terras improdutivas a famílias sem acesso à propriedade rural no território nacional",
+                                              "c":  "regularização fundiária urbana, processo de reconhecimento formal da posse de imóveis em áreas urbanas já ocupadas",
+                                              "d":  "demarcação de terras indígenas, processo formal de reconhecimento de áreas tradicionalmente ocupadas por povos indígenas",
+                                              "e":  "concessão de uso, autorização temporária concedida pelo poder público para uso de um bem público por particular"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Demarcação de terras indígenas é o processo formal, conduzido pela FUNAI, de reconhecimento de áreas tradicionalmente ocupadas por povos indígenas, envolvendo estudos antropológicos e etapas administrativas específicas até a homologação. As demais alternativas nomeiam outros processos reais de reconhecimento de terra ou de bens, distintos desse voltado especificamente a povos indígenas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-134",
+                         "texto_apoio":  "Comunidades descendentes de africanos escravizados que resistiram à escravidão, formando núcleos autônomos de vida e trabalho, hoje reivindicam o reconhecimento formal de suas terras tradicionalmente ocupadas junto a órgãos federais.",
+                         "enunciado":  "Essas comunidades, cujo território é reconhecido por um procedimento próprio distinto da demarcação indígena, são conhecidas como comunidades:",
+                         "alternativas":  {
+                                              "a":  "assentadas, famílias beneficiadas por programas de reforma agrária que recebem lotes de terra para produção familiar",
+                                              "b":  "ribeirinhas, comunidades tradicionais que vivem às margens de rios e dependem diretamente da pesca e do extrativismo praticado ao longo de gerações",
+                                              "c":  "caiçaras, comunidades tradicionais litorâneas que combinam pesca artesanal e agricultura de subsistência em áreas costeiras",
+                                              "d":  "extrativistas, comunidades tradicionais que vivem da coleta sustentável de recursos naturais dentro de reservas específicas",
+                                              "e":  "quilombolas, descendentes de africanos escravizados organizados em núcleos autônomos, com procedimento próprio de reconhecimento territorial"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Comunidades quilombolas descendem de africanos escravizados que resistiram à escravidão formando núcleos autônomos, e têm hoje procedimento próprio de reconhecimento territorial, distinto da demarcação indígena, conduzido pelo INCRA. As demais alternativas nomeiam outras comunidades tradicionais brasileiras reais, com origem histórica e procedimento de reconhecimento distintos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-135",
+                         "texto_apoio":  "Uma pessoa com mobilidade reduzida não consegue frequentar um determinado prédio público não por causa da sua condição física em si, mas porque o prédio não tem rampa de acesso nem elevador adaptado às suas necessidades.",
+                         "enunciado":  "A leitura que atribui essa limitação de acesso muito mais às barreiras do ambiente do que a uma característica intrínseca da pessoa está associada ao que se chama de:",
+                         "alternativas":  {
+                                              "a":  "modelo social da deficiência, leitura que atribui a limitação de acesso muito mais às barreiras do ambiente do que a uma característica da pessoa",
+                                              "b":  "modelo médico da deficiência, leitura que trata a deficiência como uma condição biológica individual a ser diagnosticada e tratada clinicamente pela medicina",
+                                              "c":  "modelo caritativo da deficiência, leitura que trata a pessoa com deficiência como objeto de assistência e compaixão de terceiros",
+                                              "d":  "modelo produtivista, leitura que avalia a pessoa com deficiência exclusivamente pela sua capacidade de gerar renda ao mercado",
+                                              "e":  "modelo eugênico, leitura histórica que buscava eliminar ou corrigir características consideradas indesejáveis numa população"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O modelo social da deficiência desloca o foco da condição individual para as barreiras impostas pelo ambiente — no exemplo, a ausência de rampa e elevador, não a mobilidade reduzida em si, é o que limita o acesso. O modelo médico (b), por contraste, trata a deficiência como problema individual a ser corrigido. As demais alternativas nomeiam outras leituras históricas reais, hoje amplamente criticadas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-136",
+                         "texto_apoio":  "Um grupo de trabalhadores estrangeiros, recém-chegados ao país em busca de melhores condições de vida, relata ter sido hostilizado repetidas vezes por vizinhos e colegas de trabalho apenas por sua origem nacional, sem qualquer relação com seu comportamento individual.",
+                         "enunciado":  "Essa forma de hostilidade dirigida a pessoas por sua origem nacional ou condição de estrangeiro é conhecida como:",
+                         "alternativas":  {
+                                              "a":  "racismo, sistema de opressão baseado na hierarquização de grupos humanos a partir de características fenotípicas atribuídas à raça",
+                                              "b":  "xenofobia, aversão ou hostilidade dirigida a pessoas estrangeiras ou percebidas como de origem nacional diferente",
+                                              "c":  "homofobia, aversão ou hostilidade dirigida a pessoas em razão de sua orientação sexual real ou percebida",
+                                              "d":  "intolerância religiosa, discriminação dirigida a uma pessoa em razão de sua crença ou prática religiosa específica",
+                                              "e":  "etarismo, discriminação dirigida a uma pessoa em razão da sua idade, seja ela jovem ou de idade avançada"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Xenofobia é a hostilidade dirigida a pessoas por sua origem nacional ou condição de estrangeiro, sem relação necessária com raça, orientação sexual, religião ou idade — critérios que definem, respectivamente, as demais formas de discriminação listadas nas outras alternativas.",
+                         "formato":  "direta"
                      }
                  ]
 }

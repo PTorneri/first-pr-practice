@@ -1773,11 +1773,11 @@
         "a": "a distribuição uniforme dos casos entre todos os grupos sociais, sem qualquer diferença de mortalidade entre as regiões de cada uma das cidades",
         "b": "a eficiência do sistema de saúde então existente, capaz de atender toda a demanda",
         "c": "a inexistência de circulação internacional de pessoas naquele momento histórico",
-        "d": "a ausência de qualquer conhecimento médico sobre doenças respiratórias, área que só seria desenvolvida a partir da segunda metade do século",
+        "d": "a ausência de qualquer tipo de tratamento contra doenças infecciosas em geral, já que a bacteriologia era ciência ainda inexistente naquele período",
         "e": "a fragilidade da estrutura sanitária e a desigualdade de acesso, com mais mortes nos bairros pobres"
       },
       "resposta": "e",
-      "explicacao": "Faltaram leitos, coveiros e médicos, e a mortalidade se concentrou nos bairros pobres. É um episódio pouco lembrado e que antecipa, em quase tudo, o que se observaria um século depois.",
+      "explicacao": "Faltaram leitos, coveiros e médicos, e a mortalidade se concentrou nos bairros pobres. É um episódio pouco lembrado e que antecipa, em quase tudo, o que se observaria um século depois. A alternativa (d) exagera a lacuna científica da época: a bacteriologia já existia havia décadas, com Pasteur e Koch identificando agentes de outras doenças infecciosas desde o século anterior — o que faltava especificamente era o conhecimento sobre vírus respiratórios, não sobre doença infecciosa em geral.",
       "formato": "direta"
     },
     {

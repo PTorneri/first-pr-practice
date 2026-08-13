@@ -551,14 +551,14 @@
       "texto_apoio": "O reinado de Luís XIV na França (1643-1715) é considerado o apogeu do absolutismo monárquico europeu, sintetizado na frase atribuída ao rei: 'o Estado sou eu'.",
       "enunciado": "O modelo de absolutismo praticado por Luís XIV baseava-se, sobretudo, em:",
       "alternativas": {
-        "a": "A eliminação completa da monarquia em favor de uma república centralizada, cenário só ocorrido séculos depois",
+        "a": "A manutenção de um conselho de grandes nobres com poder de veto sobre os editos reais, prática herdada de seus antecessores e preservada durante todo o seu reinado",
         "b": "A subordinação total do rei às decisões dos parlamentos regionais franceses, arranjo oposto ao praticado por Luís XIV",
         "c": "A divisão do poder entre o rei e um parlamento eleito com amplos poderes de veto, modelo estranho à França do período",
         "d": "A partilha do poder com os Estados Gerais, convocados regularmente para aprovar tributos e validar as decisões do monarca",
         "e": "A concentração do poder nas mãos do monarca, justificada pelo direito divino, e o enfraquecimento da nobreza"
       },
       "resposta": "e",
-      "explicacao": "O absolutismo de Luís XIV concentrava o poder político nas mãos do monarca, justificado pela teoria do direito divino, ao mesmo tempo em que enfraquecia a autonomia política da alta nobreza, atraída para a vida cortesã em Versalhes, distante de seus antigos poderes locais.",
+      "explicacao": "O absolutismo de Luís XIV concentrava o poder político nas mãos do monarca, justificado pela teoria do direito divino, ao mesmo tempo em que enfraquecia a autonomia política da alta nobreza, atraída para a vida cortesã em Versalhes, distante de seus antigos poderes locais. A alternativa (a) descreve o oposto do que Luís XIV fez: em vez de preservar o poder de veto da nobreza sobre seus editos, ele esvaziou justamente esse tipo de conselho, concentrando a decisão em si mesmo e em intendentes de sua escolha.",
       "dificuldade": "media",
       "formato": "direta"
     },

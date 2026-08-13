@@ -43748,12 +43748,12 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "o período reúne autores individuais, sem programa estético comum, cada um misturando de um jeito próprio o que herdou",
     "b": "os autores desse momento produziram simultaneamente em várias escolas por exigência dos editores, que buscavam atingir públicos distintos",
-    "c": "a crítica literária brasileira só se organizou décadas depois, o que impediu a classificação adequada das obras produzidas naquele momento",
+    "c": "os autores do período compartilhavam um mesmo programa estético, definido em correspondência trocada entre eles antes da publicação de suas obras",
     "d": "as escolas europeias chegavam ao país com atraso, sem que houvesse produção original",
     "e": "os autores do período recusavam deliberadamente qualquer filiação estética, posição que assumiram em manifesto conjunto publicado à época"
    },
    "resposta": "a",
-   "explicacao": "Chamar o período de escola é forçar a mão: é um intervalo, não um movimento. Cada autor mistura o que herdou de um jeito próprio, e a inclassificabilidade é a regra, não a exceção.",
+   "explicacao": "Chamar o período de escola é forçar a mão: é um intervalo, não um movimento. Cada autor mistura o que herdou de um jeito próprio, e a inclassificabilidade é a regra, não a exceção. A alternativa (c) contradiz diretamente essa premissa: não houve programa estético comum nem combinação prévia entre os autores — é justamente a ausência desse programa compartilhado que torna o período de difícil classificação.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -44852,10 +44852,10 @@ window.QUESTION_BANKS = {
     "b": "adota linguagem elevada e vocabulário erudito, em contraste com os demais romancistas do período",
     "c": "situa a ação em passado remoto e anterior à colonização, o que a aproxima dos romances indianistas",
     "d": "substitui o herói idealizado por uma figura que não vence por virtude nem por coragem, mas se safa pela esperteza",
-    "e": "concentra-se na análise psicológica das personagens, procedimento que só se tornaria corrente na literatura brasileira décadas mais tarde"
+    "e": "narra os acontecimentos em ordem estritamente cronológica, sem os desvios e digressões cômicas que caracterizam o restante da narrativa"
    },
    "resposta": "d",
-   "explicacao": "Leonardo não vence por virtude nem por coragem: escapa. A crítica costuma ler aí a primeira grande figura do malandro, e é ela que afasta o livro da idealização romântica corrente.",
+   "explicacao": "Leonardo não vence por virtude nem por coragem: escapa. A crítica costuma ler aí a primeira grande figura do malandro, e é ela que afasta o livro da idealização romântica corrente. A alternativa (e) descreve o oposto do que o romance faz: a narrativa é cheia de digressões, episódios soltos e comentários irônicos do narrador — é exatamente essa estrutura solta, e não uma cronologia rígida, um dos traços que mais o distanciam do romance romântico bem-comportado.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -45651,10 +45651,10 @@ window.QUESTION_BANKS = {
     "b": "o soneto em decassílabos e a descrição de objetos de arte, herdados do Parnasianismo",
     "c": "a narrativa em prosa organizada em capítulos curtos, forma que o autor teria adotado por influência da produção ficcional europeia do período",
     "d": "a métrica em redondilha maior e o vocabulário arcaico, escolhas destinadas a aproximar o livro da tradição popular do Nordeste brasileiro",
-    "e": "o abandono completo da pontuação e a disposição espacial das palavras, procedimentos que só apareceriam na produção brasileira décadas depois"
+    "e": "a supressão de qualquer referência à cidade de São Paulo, deslocando o foco da obra para paisagens rurais do interior paulista"
    },
    "resposta": "a",
-   "explicacao": "São Paulo aparece ali como matéria nova, e a forma acompanha: verso sem metro fixo, ritmo próximo da fala, imagens simultâneas. O prefácio existe para justificar a ruptura antes que o leitor a estranhe.",
+   "explicacao": "São Paulo aparece ali como matéria nova, e a forma acompanha: verso sem metro fixo, ritmo próximo da fala, imagens simultâneas. O prefácio existe para justificar a ruptura antes que o leitor a estranhe. A alternativa (e) descreve o oposto do livro: a cidade de São Paulo, com seu trânsito, seus prédios e sua velocidade, é justamente a matéria central da obra — não algo suprimido em favor do campo.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -55736,14 +55736,14 @@ window.QUESTION_BANKS = {
    "texto_apoio": "",
    "enunciado": "A criação das capitanias hereditárias, na década de 1530, foi uma estratégia da Coroa portuguesa para:",
    "alternativas": {
-    "a": "Centralizar toda a administração colonial nas mãos do rei, modelo que só se consolidaria com o Governo-Geral em 1549",
-    "b": "Estabelecer imediatamente a mineração como principal atividade econômica, décadas antes da descoberta do ouro em Minas Gerais",
+    "a": "Reforçar as expedições de guarda-costa que a própria Coroa já financiava contra incursões francesas, mantendo o custeio direto pelo Tesouro real",
+    "b": "Estabelecer de imediato a monocultura açucareira como atividade exclusiva em todas as capitanias, independentemente das condições de solo e clima de cada uma delas",
     "c": "Ocupar e defender o território sem grandes custos diretos para a metrópole, delegando essa tarefa a donatários",
     "d": "Centralizar a administração colonial sob um governador-geral, retirando dos donatários a autonomia sobre suas áreas",
     "e": "Impedir a entrada de colonos portugueses no território, medida contrária ao próprio objetivo de povoamento da Coroa"
    },
    "resposta": "c",
-   "explicacao": "Diante da ameaça de invasões estrangeiras e da falta de recursos para colonizar diretamente, Portugal dividiu o território em capitanias hereditárias, transferindo a donatários particulares o custo e a responsabilidade da colonização.",
+   "explicacao": "Diante da ameaça de invasões estrangeiras e da falta de recursos para colonizar diretamente, Portugal dividiu o território em capitanias hereditárias, transferindo a donatários particulares o custo e a responsabilidade da colonização. A alternativa (a) descreve um problema real — as incursões francesas no litoral —, mas erra o mecanismo: as capitanias existem justamente para tirar do Tesouro real o custo da defesa e do povoamento, e não para reforçar um financiamento que a Coroa já bancava. A alternativa (b) erra ao supor sucesso uniforme e imediato: das catorze capitanias, a maioria fracassou — por ataque indígena, abandono do donatário ou solo impróprio —, e apenas Pernambuco e São Vicente prosperaram com a cana-de-açúcar.",
    "formato": "direta",
    "origem": "direito",
    "frenteOrigem": "historia-brasil"
@@ -55772,14 +55772,14 @@ window.QUESTION_BANKS = {
    "texto_apoio": "A Inconfidência Mineira ocorreu em 1789, em Minas Gerais, região que enriquecera com a mineração de ouro no século anterior.",
    "enunciado": "Entre os fatores que contribuíram para essa conspiração, destaca-se:",
    "alternativas": {
-    "a": "A abolição imediata da escravidão pela Coroa portuguesa, medida que só ocorreria um século depois, em 1888",
+    "a": "A adesão do governador da capitania à conspiração, que teria fornecido armas do arsenal público aos inconfidentes momentos antes da delação",
     "b": "A circulação de ideias iluministas entre artesãos e soldados de baixa patente, que defendiam o fim da escravidão e a república",
-    "c": "A chegada da família real portuguesa ao Brasil, fato ocorrido quase duas décadas após a conspiração de 1789",
+    "c": "O apoio explícito da Coroa portuguesa à causa republicana dos inconfidentes, na expectativa de obter maior autonomia fiscal para a colônia frente a credores estrangeiros",
     "d": "A ameaça de cobrança da derrama, mecanismo de cobrança forçada de impostos atrasados sobre o ouro",
     "e": "A proclamação da independência dos Estados Unidos, sem qualquer influência iluminista"
    },
    "resposta": "d",
-   "explicacao": "O declínio da produção aurífera aumentou a pressão fiscal de Portugal sobre Minas Gerais, com a ameaça da derrama, o que, somado às ideias iluministas e ao exemplo da independência americana, motivou a conspiração de 1789.",
+   "explicacao": "O declínio da produção aurífera aumentou a pressão fiscal de Portugal sobre Minas Gerais, com a ameaça da derrama, o que, somado às ideias iluministas e ao exemplo da independência americana, motivou a conspiração de 1789. A alternativa (a) inventa um apoio institucional que não houve: o governador Visconde de Barbacena não aderiu à conspiração — ao contrário, foi a quem Joaquim Silvério dos Reis denunciou o movimento. A alternativa (c) é logicamente incoerente: a Coroa portuguesa era precisamente o alvo da conspiração, não sua patrocinadora — um governo não financia a própria derrubada em troca de autonomia fiscal.",
    "formato": "direta",
    "origem": "direito",
    "frenteOrigem": "historia-brasil"
@@ -55809,13 +55809,13 @@ window.QUESTION_BANKS = {
    "enunciado": "Historiadores costumam destacar que a independência do Brasil, em 1822, apresentou fortes elementos de continuidade em relação ao período colonial. Isso se evidencia principalmente por:",
    "alternativas": {
     "a": "A ruptura com a ordem escravista e a redistribuição das terras da antiga elite colonial entre os que apoiaram a emancipação",
-    "b": "A distribuição de terras para a população liberta, medida nunca implementada no processo de 1822",
-    "c": "O fim total das relações econômicas com Portugal, ruptura que só ocorreria décadas depois da independência",
-    "d": "A imediata implantação de uma república democrática, regime que só seria adotado em 1889",
+    "b": "A abolição imediata do tráfico atlântico de escravizados, medida tomada pelo próprio Dom Pedro logo após a proclamação",
+    "c": "A ruptura com o modelo de exportação de produtos primários, substituído por uma política de industrialização voltada ao mercado interno",
+    "d": "A adoção do sufrágio universal para a eleição da Assembleia Constituinte convocada logo após a independência",
     "e": "A manutenção da escravidão, da estrutura agrária concentrada e da monarquia sob o herdeiro da dinastia portuguesa"
    },
    "resposta": "e",
-   "explicacao": "Diferentemente de outros processos de independência na América, o Brasil manteve a monarquia, a escravidão e a estrutura social e econômica herdada da colônia, sendo a independência conduzida pelo próprio príncipe herdeiro, Dom Pedro.",
+   "explicacao": "Diferentemente de outros processos de independência na América, o Brasil manteve a monarquia, a escravidão e a estrutura social e econômica herdada da colônia, sendo a independência conduzida pelo próprio príncipe herdeiro, Dom Pedro. A alternativa (b) inverte o fato: o tráfico atlântico continuou de forma ilegal por quase três décadas depois da independência, só encerrado com a Lei Eusébio de Queirós em 1850. A alternativa (c) também inverte: a economia recém-independente seguiu dependente da exportação de produtos primários, sem qualquer política de industrialização voltada ao mercado interno nesse momento. A alternativa (d) erra o alcance do voto: a Constituinte de 1823 foi eleita por sufrágio censitário, restrito a homens livres com renda mínima — universal é o oposto do que ocorreu.",
    "formato": "direta",
    "origem": "direito",
    "frenteOrigem": "historia-brasil"
@@ -55863,13 +55863,13 @@ window.QUESTION_BANKS = {
    "enunciado": "O chamado ciclo do ouro, no século XVIII, teve como uma de suas principais consequências para a colônia:",
    "alternativas": {
     "a": "O deslocamento do eixo econômico e populacional para a região Centro-Sul, com intensa urbanização no interior de Minas Gerais",
-    "b": "O fim completo da utilização de mão de obra escrava na colônia, o que só ocorreria com a Lei Áurea de 1888, décadas mais tarde",
-    "c": "A transferência imediata da capital colonial para Vila Rica, mudança que só ocorreria, para o Rio de Janeiro, em 1763",
+    "b": "A substituição integral da mão de obra escrava pelo trabalho assalariado de imigrantes europeus na exploração das minas de ouro",
+    "c": "A elevação de Vila Rica à condição de capital do Vice-Reino do Brasil, com subordinação administrativa direta das demais capitanias a ela",
     "d": "A consolidação do Nordeste açucareiro como centro econômico da colônia, reforçada pelo capital vindo das minas",
     "e": "A manutenção do litoral nordestino como único centro econômico e demográfico do Brasil colonial, situação já superada com o próprio ciclo do ouro"
    },
    "resposta": "a",
-   "explicacao": "A mineração atraiu grande contingente populacional para Minas Gerais, deslocando o eixo econômico antes concentrado no Nordeste açucareiro e impulsionando a urbanização no interior, com o surgimento de vilas como Vila Rica, Mariana e São João del-Rei.",
+   "explicacao": "A mineração atraiu grande contingente populacional para Minas Gerais, deslocando o eixo econômico antes concentrado no Nordeste açucareiro e impulsionando a urbanização no interior, com o surgimento de vilas como Vila Rica, Mariana e São João del-Rei. A alternativa (b) inverte o regime de trabalho: a extração aurífera do século XVIII dependeu intensamente de mão de obra escravizada, e não de imigração assalariada europeia, modelo que só ganharia peso na cafeicultura paulista mais de um século depois. A alternativa (c) confunde capitania com colônia inteira: Vila Rica foi capital da capitania de Minas Gerais, mas a capital do Vice-Reino do Brasil permaneceu em Salvador e depois no Rio de Janeiro — nunca em Minas.",
    "formato": "direta",
    "origem": "direito",
    "frenteOrigem": "historia-brasil"
@@ -56306,14 +56306,14 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Em janeiro de 1822, pressionado pelas Cortes de Lisboa a retornar a Portugal, Dom Pedro declarou sua permanência no Brasil.",
    "enunciado": "Esse episódio, conhecido como Dia do Fico, é interpretado como:",
    "alternativas": {
-    "a": "A assinatura definitiva do tratado de reconhecimento da independência pelo governo português, que só ocorreria anos depois",
-    "b": "O momento em que o Brasil se tornou oficialmente uma república, regime que só seria instaurado décadas depois, em 1889",
+    "a": "Uma resposta imediata e favorável das Cortes de Lisboa ao pedido de maior autonomia legislativa apresentado pelos deputados brasileiros meses antes",
+    "b": "A convocação de eleições diretas para escolher entre a permanência da monarquia bragantina e a instauração imediata de uma república no Brasil",
     "c": "Uma manobra das Cortes portuguesas para manter o herdeiro no Brasil sob tutela militar direta de Lisboa",
     "d": "Um passo decisivo no processo que levaria à ruptura política com Portugal, meses antes da proclamação da independência",
-    "e": "A abdicação de Dom Pedro I ao trono do Brasil, evento que ocorreria apenas em 1831, quase uma década depois do Dia do Fico"
+    "e": "A coroação imediata de Dom Pedro como imperador do Brasil, cerimônia que teria ocorrido no mesmo dia da declaração de permanência"
    },
    "resposta": "d",
-   "explicacao": "Ao recusar a ordem das Cortes portuguesas para retornar a Portugal, Dom Pedro sinalizou sua disposição de romper com a subordinação política à metrópole, episódio que antecedeu em poucos meses a proclamação formal da independência, em setembro de 1822.",
+   "explicacao": "Ao recusar a ordem das Cortes portuguesas para retornar a Portugal, Dom Pedro sinalizou sua disposição de romper com a subordinação política à metrópole, episódio que antecedeu em poucos meses a proclamação formal da independência, em setembro de 1822. A alternativa (a) inverte o sentido do episódio: o Dia do Fico foi resposta a uma exigência hostil das Cortes — o retorno forçado do herdeiro e a recolonização administrativa —, não a uma concessão favorável delas. A alternativa (e) erra a sequência dos próprios acontecimentos de 1822: entre o Fico (janeiro) e a coroação (dezembro) está a Proclamação da Independência (7 de setembro) — a coroação não foi simultânea à permanência, veio meses depois dela. A alternativa (b) inventa uma consulta popular que não existiu: não houve eleição sobre a forma de governo em 1822 — a opção pela monarquia, com Dom Pedro como imperador, foi decidida sem plebiscito, e a república só seria instaurada em 1889, por golpe militar, não por voto.",
    "dificuldade": "media",
    "formato": "direta",
    "origem": "direito",
@@ -57690,13 +57690,13 @@ window.QUESTION_BANKS = {
    "enunciado": "A Revolução de 1930, que levou Getúlio Vargas ao poder e encerrou a República Velha, teve entre suas causas:",
    "alternativas": {
     "a": "A pressão de movimentos operários urbanos organizados, que impuseram a substituição do governo por via revolucionária",
-    "b": "A abolição da escravidão, cujos efeitos sobre a estrutura agrária teriam maturado ao longo de quatro décadas",
-    "c": "A vitória militar do Brasil na Primeira Guerra Mundial, que teria dado ao Exército peso decisivo na política",
-    "d": "A industrialização plena alcançada nas décadas anteriores, que teria tornado a elite cafeeira politicamente minoritária",
+    "b": "O assassinato de João Pessoa, companheiro de chapa de Vargas na Aliança Liberal, ocorrido em julho de 1930, que teria sido por si só suficiente para desencadear o movimento armado",
+    "c": "A manutenção bem-sucedida da política de valorização do café pelo governo federal ao longo da década de 1920, que teria assegurado preços altos ao produto até o início da década seguinte",
+    "d": "O fortalecimento da indústria têxtil paulista ao longo da década de 1920, que já teria tornado a elite cafeeira politicamente minoritária no estado de São Paulo",
     "e": "A crise de 1929 e seus efeitos sobre a economia cafeeira, somada à ruptura do acordo do café com leite"
    },
    "resposta": "e",
-   "explicacao": "A quebra de 1929 derrubou o preço do café e, no mesmo momento, Washington Luís rompeu o rodízio ao lançar o paulista Júlio Prestes — economia e política cederam juntas, e daí saiu a Aliança Liberal. Em (a) está o distrator mais atraente para quem associa revolução a movimento popular: houve participação de tenentes e de setores urbanos, mas quem conduziu foram oligarquias dissidentes. Em (d), a industrialização veio depois, com Vargas. Em (b) e (c), a abolição é de 1888 e a participação na guerra foi modesta.",
+   "explicacao": "A quebra de 1929 derrubou o preço do café e, no mesmo momento, Washington Luís rompeu o rodízio ao lançar o paulista Júlio Prestes — economia e política cederam juntas, e daí saiu a Aliança Liberal. Em (a) está o distrator mais atraente para quem associa revolução a movimento popular: houve participação de tenentes e de setores urbanos, mas quem conduziu foram oligarquias dissidentes. Em (b), o assassinato de João Pessoa é real e ocorreu no mesmo ano, mas foi o estopim armado do movimento, não a causa: a Aliança Liberal já articulava a ruptura desde a crise econômica e a sucessão de 1929, antes do crime. Em (c), a política de valorização do café (convênio de Taubaté) de fato sustentou preços por parte da década, mas foi justamente sua incapacidade de conter o colapso de 1929 — com a superprodução acumulada e o mercado internacional em queda — que expôs a fragilidade da economia cafeeira. Em (d), a indústria têxtil paulista cresceu nos anos 1920, mas não deslocou a elite cafeeira do poder político: é exatamente esse poder, intacto até 1930, que a ruptura do acordo do café com leite rompe.",
    "formato": "direta",
    "origem": "direito",
    "frenteOrigem": "historia-brasil"
@@ -57891,11 +57891,11 @@ window.QUESTION_BANKS = {
     "a": "A criação da Petrobras, em 1953, sob o lema 'o petróleo é nosso', estabelecendo o monopólio estatal sobre a exploração do petróleo",
     "b": "A criação da Companhia Siderúrgica Nacional, em Volta Redonda, símbolo maior da política nacionalista do período",
     "c": "O fim do Banco do Brasil e do Banco Nacional de Desenvolvimento Econômico, instituições mantidas e fortalecidas",
-    "d": "A privatização das principais estatais brasileiras, processo que só ganharia força décadas depois, já no contexto das reformas dos anos 1990",
+    "d": "A abertura do mercado de exploração petrolífera a empresas estrangeiras, medida que teria antecedido e viabilizado financeiramente a criação da própria Petrobras",
     "e": "A abertura irrestrita do mercado brasileiro a empresas estrangeiras de energia, política oposta ao monopólio criado"
    },
    "resposta": "a",
-   "explicacao": "A criação da Petrobras em 1953, resultado da campanha popular 'o petróleo é nosso', simbolizou o nacionalismo econômico do segundo governo Vargas, que buscava fortalecer o controle estatal sobre setores estratégicos da economia brasileira.",
+   "explicacao": "A criação da Petrobras em 1953, resultado da campanha popular \"o petróleo é nosso\", simbolizou o nacionalismo econômico do segundo governo Vargas, que buscava fortalecer o controle estatal sobre setores estratégicos da economia brasileira. A alternativa (d) inverte a relação causal: a campanha \"o petróleo é nosso\" nasceu justamente da resistência à entrada de capital estrangeiro no setor, e foi essa resistência, não uma abertura prévia ao capital estrangeiro, que abriu caminho para o monopólio estatal.",
    "formato": "direta",
    "origem": "direito",
    "frenteOrigem": "historia-brasil"
@@ -58206,13 +58206,13 @@ window.QUESTION_BANKS = {
    "enunciado": "A renúncia de Jânio Quadros, cujas motivações ainda são debatidas por historiadores, desencadeou uma grave crise política porque:",
    "alternativas": {
     "a": "O Brasil ficou sem qualquer sucessor previsto na Constituição então vigente, quando a linha sucessória do vice-presidente estava definida",
-    "b": "Resultou na imediata instauração de uma ditadura militar no país, ruptura que só ocorreria três anos depois, em 1964",
+    "b": "Foi seguida da imediata renúncia coletiva de todo o Alto Comando das Forças Armadas em protesto contra a posse do vice-presidente",
     "c": "O vice-presidente havia renunciado semanas antes, deixando a sucessão indefinida e abrindo espaço para intervenção militar",
     "d": "O vice-presidente, João Goulart, era mal visto por setores militares e conservadores, que tentaram impedir sua posse na Presidência",
     "e": "Provocou o fechamento definitivo do Congresso Nacional pelo próprio Jânio, medida que ele não chegou a tomar antes de renunciar"
    },
    "resposta": "d",
-   "explicacao": "A renúncia de Jânio Quadros abriu uma crise sucessória, pois o vice-presidente João Goulart, associado a posições nacionalistas e trabalhistas, era visto com desconfiança por setores militares e conservadores, que tentaram, sem sucesso, impedir sua posse na Presidência.",
+   "explicacao": "A renúncia de Jânio Quadros abriu uma crise sucessória, pois o vice-presidente João Goulart, associado a posições nacionalistas e trabalhistas, era visto com desconfiança por setores militares e conservadores, que tentaram, sem sucesso, impedir sua posse na Presidência. A alternativa (b) inventa um desfecho que não houve: não foi o Alto Comando que renunciou, foram os ministros militares que tentaram vetar a posse de Goulart, e o impasse se resolveu pela emenda parlamentarista, que reduziu os poderes do cargo sem impedir a posse.",
    "dificuldade": "media",
    "formato": "direta",
    "origem": "direito",
@@ -58377,13 +58377,13 @@ window.QUESTION_BANKS = {
    "enunciado": "Apesar da popularidade inicial, o Plano Cruzado:",
    "alternativas": {
     "a": "Fracassou no médio prazo, com o retorno da alta inflacionária, revelando a dificuldade de planos baseados em congelamentos sem ajuste fiscal estrutural",
-    "b": "Não gerou qualquer reação da população, sendo praticamente ignorado pela sociedade, quando teve enorme popularidade inicial em 1986",
-    "c": "Foi o primeiro plano de estabilização adotado no Brasil desde a Segunda Guerra Mundial, quando sucedeu outras tentativas heterodoxas anteriores",
-    "d": "Eliminou definitivamente a inflação da economia brasileira nas décadas seguintes, resultado que só o Plano Real alcançaria quase uma década depois",
+    "b": "Não gerou qualquer reação da população, sendo praticamente ignorado pela sociedade nos meses seguintes ao seu lançamento",
+    "c": "Foi o único plano de estabilização heterodoxo tentado no Brasil ao longo da década de 1980, sem qualquer programa semelhante antes ou depois dele",
+    "d": "Foi sucedido, ainda em 1986, por um segundo congelamento de preços que corrigiu as distorções do primeiro e consolidou a estabilidade da moeda",
     "e": "Consolidou a estabilidade de preços por mais de uma década, servindo de base para os planos econômicos seguintes"
    },
    "resposta": "a",
-   "explicacao": "Apesar do sucesso inicial e da grande popularidade, o Plano Cruzado fracassou no médio prazo diante do retorno da inflação, evidenciando que congelamentos de preços sem correção dos desequilíbrios fiscais estruturais não eram suficientes para estabilizar a economia de forma duradoura.",
+   "explicacao": "Apesar do sucesso inicial e da grande popularidade, o Plano Cruzado fracassou no médio prazo diante do retorno da inflação, evidenciando que congelamentos de preços sem correção dos desequilíbrios fiscais estruturais não eram suficientes para estabilizar a economia de forma duradoura. A alternativa (b) inverte o fato mais conhecido do plano: ele teve enorme adesão popular, com os \"fiscais do Sarney\" fiscalizando preços nas ruas — o oposto de indiferença. A alternativa (c) desconhece a sequência de planos heterodoxos da década: o Cruzado teve sucessores, como o Plano Bresser (1987) e o Plano Verão (1989), todos tentando conter a mesma inflação persistente. A alternativa (d) inventa um segundo congelamento bem-sucedido que não ocorreu: o pacote seguinte (Cruzado II, novembro de 1987) não impediu a aceleração da inflação nos anos seguintes.",
    "dificuldade": "dificil",
    "formato": "direta",
    "origem": "direito",
@@ -61275,11 +61275,11 @@ window.QUESTION_BANKS = {
     "a": "a distribuição uniforme dos casos entre todos os grupos sociais, sem qualquer diferença de mortalidade entre as regiões de cada uma das cidades",
     "b": "a eficiência do sistema de saúde então existente, capaz de atender toda a demanda",
     "c": "a inexistência de circulação internacional de pessoas naquele momento histórico",
-    "d": "a ausência de qualquer conhecimento médico sobre doenças respiratórias, área que só seria desenvolvida a partir da segunda metade do século",
+    "d": "a ausência de qualquer tipo de tratamento contra doenças infecciosas em geral, já que a bacteriologia era ciência ainda inexistente naquele período",
     "e": "a fragilidade da estrutura sanitária e a desigualdade de acesso, com mais mortes nos bairros pobres"
    },
    "resposta": "e",
-   "explicacao": "Faltaram leitos, coveiros e médicos, e a mortalidade se concentrou nos bairros pobres. É um episódio pouco lembrado e que antecipa, em quase tudo, o que se observaria um século depois.",
+   "explicacao": "Faltaram leitos, coveiros e médicos, e a mortalidade se concentrou nos bairros pobres. É um episódio pouco lembrado e que antecipa, em quase tudo, o que se observaria um século depois. A alternativa (d) exagera a lacuna científica da época: a bacteriologia já existia havia décadas, com Pasteur e Koch identificando agentes de outras doenças infecciosas desde o século anterior — o que faltava especificamente era o conhecimento sobre vírus respiratórios, não sobre doença infecciosa em geral.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -62180,14 +62180,14 @@ window.QUESTION_BANKS = {
    "texto_apoio": "O reinado de Luís XIV na França (1643-1715) é considerado o apogeu do absolutismo monárquico europeu, sintetizado na frase atribuída ao rei: 'o Estado sou eu'.",
    "enunciado": "O modelo de absolutismo praticado por Luís XIV baseava-se, sobretudo, em:",
    "alternativas": {
-    "a": "A eliminação completa da monarquia em favor de uma república centralizada, cenário só ocorrido séculos depois",
+    "a": "A manutenção de um conselho de grandes nobres com poder de veto sobre os editos reais, prática herdada de seus antecessores e preservada durante todo o seu reinado",
     "b": "A subordinação total do rei às decisões dos parlamentos regionais franceses, arranjo oposto ao praticado por Luís XIV",
     "c": "A divisão do poder entre o rei e um parlamento eleito com amplos poderes de veto, modelo estranho à França do período",
     "d": "A partilha do poder com os Estados Gerais, convocados regularmente para aprovar tributos e validar as decisões do monarca",
     "e": "A concentração do poder nas mãos do monarca, justificada pelo direito divino, e o enfraquecimento da nobreza"
    },
    "resposta": "e",
-   "explicacao": "O absolutismo de Luís XIV concentrava o poder político nas mãos do monarca, justificado pela teoria do direito divino, ao mesmo tempo em que enfraquecia a autonomia política da alta nobreza, atraída para a vida cortesã em Versalhes, distante de seus antigos poderes locais.",
+   "explicacao": "O absolutismo de Luís XIV concentrava o poder político nas mãos do monarca, justificado pela teoria do direito divino, ao mesmo tempo em que enfraquecia a autonomia política da alta nobreza, atraída para a vida cortesã em Versalhes, distante de seus antigos poderes locais. A alternativa (a) descreve o oposto do que Luís XIV fez: em vez de preservar o poder de veto da nobreza sobre seus editos, ele esvaziou justamente esse tipo de conselho, concentrando a decisão em si mesmo e em intendentes de sua escolha.",
    "dificuldade": "media",
    "formato": "direta",
    "origem": "direito",

@@ -5332,6 +5332,186 @@
       "explicacao": "Um paciente B− só pode receber sangue dos tipos compatíveis com seu sistema ABO e Rh: tipo O− (universal para o fator Rh negativo) e tipo B− — no banco descrito, isso corresponde aos 4 litros de O− mais os 2 litros de B−, totalizando 6 litros.",
       "formato": "direta",
       "origem": "insper-2026.2"
+    },
+    {
+      "id": "biologia-338",
+      "texto_apoio": "Numa população de mariposas de determinada espécie, indivíduos de coloração mais clara e mais escura convivem. Após a fuligem industrial escurecer os troncos das árvores da região, a proporção de mariposas escuras passou a crescer geração após geração.",
+      "enunciado": "Esse fenômeno é mais bem explicado pelo mecanismo evolutivo de:",
+      "alternativas": {
+        "a": "seleção natural, em que indivíduos mais bem adaptados ao ambiente deixam, em média, mais descendentes férteis",
+        "b": "uso e desuso, em que a mariposa escurece ao longo da própria vida por se camuflar repetidamente em troncos escuros",
+        "c": "deriva genética pura, em que a proporção de cores muda apenas por acaso, sem qualquer relação com a coloração do tronco",
+        "d": "endogamia, em que o cruzamento preferencial entre parentes próximos altera a proporção de cores da população ao longo do tempo",
+        "e": "poliploidia, em que a duplicação do conjunto cromossômico altera a coloração das asas em uma única geração"
+      },
+      "resposta": "a",
+      "explicacao": "O caso clássico da mariposa-da-bétula ilustra a seleção natural: mariposas escuras, mais camufladas em troncos escurecidos pela fuligem, escapam mais da predação e deixam mais descendentes, elevando sua proporção na população ao longo de gerações. Não há alteração do indivíduo ao longo da própria vida (b, ideia lamarckista superada) nem processo puramente aleatório (c), já que a mudança acompanha uma pressão ambiental específica.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-339",
+      "texto_apoio": "Duas explicações concorrentes tentaram justificar por que o pescoço das girafas atuais é longo: uma propunha que o esforço repetido de esticar o pescoço em cada geração seria transmitido aos descendentes; a outra propunha que indivíduos com pescoço um pouco mais longo, por acaso, tinham vantagem reprodutiva.",
+      "enunciado": "Essas duas explicações são conhecidas, respectivamente, como:",
+      "alternativas": {
+        "a": "especiação simpátrica e especiação alopátrica, distinguidas pela presença ou ausência de barreira geográfica relevante entre as populações",
+        "b": "abiogênese e biogênese, distinguidas pela origem espontânea versus a origem a partir de seres vivos preexistentes",
+        "c": "homologia e analogia, distinguidas pela origem embrionária comum versus a semelhança de função entre estruturas",
+        "d": "lamarckismo e darwinismo, distinguidos pela transmissão de características adquiridas versus a seleção de variações já existentes",
+        "e": "deriva genética e fluxo gênico, distinguidas pela variação ao acaso versus a troca de indivíduos entre populações"
+      },
+      "resposta": "d",
+      "explicacao": "A explicação do uso e desuso, com herança de características adquiridas ao longo da vida do indivíduo, é atribuída a Lamarck; a explicação pela seleção de variações já presentes na população, sem relação com o esforço individual, é o núcleo da teoria de Darwin. As demais alternativas nomeiam pares de conceitos evolutivos reais, mas distintos do par descrito no texto.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-340",
+      "texto_apoio": "A asa de um morcego e a asa de uma borboleta cumprem a mesma função — permitir o voo —, mas têm origem embrionária e estrutura interna completamente diferentes. Já a asa do morcego e o braço humano têm estrutura interna semelhante e mesma origem embrionária, apesar de funções distintas.",
+      "enunciado": "Esses dois tipos de relação entre estruturas de espécies diferentes são chamados, respectivamente, de:",
+      "alternativas": {
+        "a": "estruturas vestigiais e estruturas funcionais, distinguidas pela utilidade atual da estrutura para o organismo",
+        "b": "órgãos análogos e órgãos homólogos, distinguidos pela semelhança de função versus a origem embrionária comum",
+        "c": "convergência genética e divergência genética, distinguidas pela proximidade evolutiva entre as espécies comparadas",
+        "d": "adaptação primária e adaptação secundária, distinguidas pela ordem histórica em que a estrutura surgiu no grupo",
+        "e": "especiação simpátrica e especiação alopátrica, distinguidas pela distância geográfica entre as populações comparadas"
+      },
+      "resposta": "b",
+      "explicacao": "Órgãos análogos têm mesma função mas origens embrionárias distintas, resultado de evolução convergente sob pressões ambientais semelhantes — caso da asa do morcego e da borboleta. Órgãos homólogos compartilham origem embrionária, mesmo com funções diferentes — caso da asa do morcego e do braço humano, herdados de um ancestral comum.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-341",
+      "texto_apoio": "Camadas sucessivas de rocha sedimentar preservam restos de organismos de diferentes períodos, permitindo reconstruir, camada após camada, transformações graduais numa determinada linhagem ao longo de milhões de anos.",
+      "enunciado": "Esse tipo de evidência, usada para reconstruir a história evolutiva de uma linhagem ao longo do tempo geológico, é:",
+      "alternativas": {
+        "a": "a anatomia comparada, comparação da estrutura interna de órgãos entre espécies vivas atualmente existentes",
+        "b": "a homologia molecular, comparação de sequências de DNA entre espécies vivas atualmente para estimar parentesco genético",
+        "c": "a embriologia comparada, comparação entre estágios do desenvolvimento embrionário de diferentes espécies vivas",
+        "d": "a biogeografia, estudo da distribuição geográfica atual de espécies vivas e sua relação com barreiras físicas",
+        "e": "o registro fóssil, conjunto de restos preservados em camadas sucessivas de rocha sedimentar ao longo do tempo geológico"
+      },
+      "resposta": "e",
+      "explicacao": "O registro fóssil é a evidência formada por restos preservados em camadas sucessivas de rocha sedimentar, permitindo observar transformações graduais numa linhagem ao longo do tempo geológico. As demais alternativas descrevem outras linhas de evidência evolutiva reais, mas baseadas em espécies vivas atuais, não em camadas de rocha sedimentar.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-342",
+      "texto_apoio": "Uma pequena população de pássaros é levada por uma tempestade a uma ilha distante, isolada da população original. Por puro acaso, essa pequena amostra carrega uma proporção de características diferente da população de origem, e essa diferença se mantém nas gerações seguintes na ilha.",
+      "enunciado": "Esse mecanismo evolutivo, em que o acaso — e não a vantagem adaptativa — altera a composição genética de uma população pequena, é conhecido como:",
+      "alternativas": {
+        "a": "seleção natural, mecanismo pelo qual características vantajosas se tornam mais frequentes ao longo de gerações",
+        "b": "deriva genética, mecanismo pelo qual o acaso altera a composição genética de uma população, sobretudo se pequena",
+        "c": "fluxo gênico, mecanismo pelo qual indivíduos migram entre populações e trocam material genético entre elas",
+        "d": "resistência adquirida, mecanismo pelo qual populações expostas repetidamente a um agente seletivo tornam-se menos sensíveis a ele",
+        "e": "especiação simpátrica, mecanismo pelo qual uma nova espécie surge sem qualquer barreira geográfica entre as populações"
+      },
+      "resposta": "b",
+      "explicacao": "Deriva genética é o mecanismo pelo qual o acaso, e não a vantagem adaptativa, altera a composição genética de uma população — efeito mais pronunciado quanto menor a população, como no caso descrito, conhecido como efeito fundador. Seleção natural (a) depende de vantagem adaptativa; fluxo gênico (c) depende de migração contínua entre populações já estabelecidas.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-343",
+      "texto_apoio": "Uma cadeia de montanhas se ergue ao longo de milhões de anos, dividindo em duas uma população antes contínua de determinado roedor. Isoladas por barreira física, as duas populações acumulam diferenças genéticas até que, mesmo reunidas de novo, seus indivíduos não conseguem mais gerar descendentes férteis entre si.",
+      "enunciado": "Esse processo evolutivo, pelo qual uma barreira geográfica leva ao surgimento de duas espécies distintas a partir de uma população original, é conhecido como:",
+      "alternativas": {
+        "a": "especiação alopátrica, processo em que o isolamento geográfico leva ao surgimento de novas espécies a partir de populações antes contínuas",
+        "b": "deriva continental, processo geológico pelo qual as placas tectônicas se deslocam ao longo de milhões de anos",
+        "c": "especiação simpátrica, processo em que novas espécies surgem dentro da mesma área geográfica, sem barreira física relevante entre as populações envolvidas",
+        "d": "hibridização, processo em que duas espécies distintas geram filhotes viáveis ao cruzarem entre si repetidamente",
+        "e": "poliploidização, processo em que a duplicação do conjunto cromossômico gera uma nova espécie numa única geração"
+      },
+      "resposta": "a",
+      "explicacao": "Especiação alopátrica é o processo em que uma barreira geográfica separa populações antes contínuas, que acumulam diferenças até se tornarem incapazes de gerar descendentes férteis entre si — o isolamento reprodutivo que define a formação de uma nova espécie. Especiação simpátrica (c) ocorre sem essa barreira geográfica, mecanismo distinto do descrito no texto.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-344",
+      "texto_apoio": "Diante de um tratamento incompleto, algumas bactérias sobrevivem por já carregarem, ao acaso, características que as tornam menos sensíveis ao medicamento. Essas bactérias sobreviventes se multiplicam, e a proporção delas na população cresce a cada novo ciclo de tratamento malsucedido.",
+      "enunciado": "Esse fenômeno, hoje uma das principais preocupações da saúde pública mundial, é conhecido como:",
+      "alternativas": {
+        "a": "resistência bacteriana a antibióticos, exemplo de seleção natural em ação numa escala de tempo observável em poucos anos",
+        "b": "imunidade adquirida, processo pelo qual o sistema de defesa do próprio paciente reconhece e neutraliza o agente infeccioso",
+        "c": "mutação induzida, processo pelo qual o próprio medicamento provoca deliberadamente alterações genéticas nas bactérias tratadas",
+        "d": "simbiose bacteriana, relação de benefício mútuo entre a bactéria e o hospedeiro que dificulta a ação do medicamento",
+        "e": "adaptação fisiológica reversível, ajuste temporário da bactéria que desaparece assim que o tratamento é interrompido"
+      },
+      "resposta": "a",
+      "explicacao": "A resistência bacteriana a antibióticos é um exemplo de seleção natural observável em escala de poucos anos: bactérias que já carregavam, ao acaso, características de menor sensibilidade ao medicamento sobrevivem e se multiplicam, elevando sua proporção na população a cada ciclo de tratamento incompleto. Não é o medicamento que induz a variação (c); a variação já existia antes da exposição.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-345",
+      "texto_apoio": "Comparações entre sequências de DNA de diferentes espécies revelam graus variados de semelhança genética, usados para estimar o grau de parentesco evolutivo entre elas e reconstruir relações que a anatomia sozinha nem sempre deixa claras.",
+      "enunciado": "Quanto maior a semelhança genética entre duas espécies vivas, mais provável é que elas:",
+      "alternativas": {
+        "a": "apresentem números idênticos de cromossomos em suas células, independentemente do grau de parentesco",
+        "b": "vivam sob condições climáticas e geográficas muito semelhantes no presente, independentemente do grau de parentesco",
+        "c": "tenham surgido de forma completamente independente uma da outra, por acaso genético simultâneo",
+        "d": "compartilhem um ancestral comum mais recente na história evolutiva do grupo a que pertencem",
+        "e": "habitem regiões geograficamente próximas uma da outra no momento presente da observação"
+      },
+      "resposta": "d",
+      "explicacao": "Quanto mais recente o ancestral comum entre duas espécies, menos tempo houve para o acúmulo de diferenças genéticas por variação e seleção — daí a semelhança genética ser usada como estimativa do grau de parentesco evolutivo. As demais alternativas descrevem relações ecológicas, geográficas ou citológicas que não decorrem necessariamente do grau de parentesco evolutivo.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-346",
+      "texto_apoio": "Antes dos experimentos de Pasteur, discutiam-se hipóteses evolutivas concorrentes sobre se seres vivos simples poderiam surgir espontaneamente a partir de matéria bruta, sem a participação de outro ser vivo preexistente.",
+      "enunciado": "A hipótese segundo a qual seres vivos surgiriam espontaneamente a partir de matéria não viva é conhecida como:",
+      "alternativas": {
+        "a": "panspermia, hipótese segundo a qual a vida teria chegado à Terra a partir de material trazido de outros corpos celestes",
+        "b": "biogênese, princípio segundo o qual todo ser vivo se origina necessariamente de outro ser vivo preexistente",
+        "c": "abiogênese, hipótese segundo a qual seres vivos simples surgiriam espontaneamente a partir de matéria não viva",
+        "d": "simbiogênese, hipótese segundo a qual certas estruturas internas de organismos eucarióticos se originaram de bactérias incorporadas por fusão antiga",
+        "e": "criacionismo, doutrina segundo a qual a origem das espécies decorre de um ato de criação direto e não gradual"
+      },
+      "resposta": "c",
+      "explicacao": "Abiogênese, ou geração espontânea, é a hipótese de que seres vivos simples surgiriam diretamente a partir de matéria não viva — hipótese refutada pelos experimentos de Pasteur, que sustentaram a biogênese (b), princípio oposto. As demais alternativas nomeiam outras hipóteses ou doutrinas reais sobre a origem da vida ou das espécies, distintas da descrita no texto.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-347",
+      "texto_apoio": "Uma hipótese evolutiva alternativa sobre a origem da vida na Terra propõe que compostos orgânicos, ou mesmo formas de vida microscópicas, poderiam ter chegado ao planeta transportados por meteoritos ou cometas vindos do espaço.",
+      "enunciado": "Essa hipótese, que não explica a origem da vida em si mas apenas sua chegada à Terra, é conhecida como:",
+      "alternativas": {
+        "a": "deriva continental, hipótese segundo a qual os continentes atuais estiveram unidos num único bloco no passado geológico",
+        "b": "abiogênese, hipótese segundo a qual a vida teria surgido espontaneamente a partir de matéria não viva na própria Terra",
+        "c": "simbiogênese, hipótese segundo a qual certas estruturas internas de organismos eucarióticos se originaram de bactérias incorporadas por fusão antiga",
+        "d": "coacervação, hipótese segundo a qual agregados de moléculas orgânicas em solução deram origem às primeiras estruturas celulares",
+        "e": "panspermia, hipótese segundo a qual componentes ou formas de vida teriam chegado à Terra a partir do espaço"
+      },
+      "resposta": "e",
+      "explicacao": "Panspermia é a hipótese de que componentes orgânicos ou formas de vida microscópicas teriam chegado à Terra a partir do espaço, transportados por meteoritos ou cometas — ela desloca o problema da origem da vida para outro lugar do universo, sem resolvê-lo. As demais alternativas descrevem outras hipóteses reais sobre a origem da vida na própria Terra, distintas da descrita.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-348",
+      "texto_apoio": "Um diagrama em forma de árvore representa, a partir de um ponto comum na base, ramificações sucessivas que levam aos diferentes grupos de organismos hoje existentes, cada bifurcação indicando um ponto de separação entre linhagens.",
+      "enunciado": "Nesse tipo de diagrama, dois grupos que se separam num ponto de ramificação mais próximo do topo, em relação a um terceiro grupo mais distante, indicam que os dois primeiros:",
+      "alternativas": {
+        "a": "ocupam posição de maior superioridade evolutiva em relação ao terceiro grupo representado mais abaixo no diagrama",
+        "b": "vivem atualmente na mesma região geográfica, informação que o diagrama de ramificação também costuma representar",
+        "c": "têm o mesmo número de indivíduos na população atual, o que determinaria a proximidade das ramificações representadas",
+        "d": "surgiram exatamente na mesma época geológica, informação inferida diretamente da altura de cada ramificação no diagrama",
+        "e": "compartilham um ancestral comum mais recente entre si do que com o terceiro grupo mais distante no diagrama"
+      },
+      "resposta": "e",
+      "explicacao": "Num diagrama desse tipo, chamado cladograma, a posição da ramificação indica apenas o grau de parentesco evolutivo: grupos que se separam num ponto mais próximo do topo compartilham um ancestral comum mais recente entre si do que com um grupo cuja ramificação ocorre mais na base. O diagrama não indica localização geográfica, tamanho populacional, época exata ou qualquer hierarquia de superioridade entre os grupos.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-349",
+      "texto_apoio": "Indivíduos de uma espécie de roedor atravessam ocasionalmente um rio que separa duas populações vizinhas, cruzando com indivíduos da outra margem e introduzindo, a cada travessia, novas combinações genéticas na população receptora.",
+      "enunciado": "Esse mecanismo, pelo qual a migração de indivíduos entre populações introduz variação genética, é conhecido como:",
+      "alternativas": {
+        "a": "deriva genética, mecanismo pelo qual o acaso altera a composição genética de uma população isolada, sem relação com migração",
+        "b": "seleção natural, mecanismo pelo qual características vantajosas se tornam mais frequentes numa população ao longo de gerações",
+        "c": "fluxo gênico, mecanismo pelo qual a migração de indivíduos entre populações introduz variação genética entre elas",
+        "d": "especiação alopátrica, mecanismo pelo qual uma barreira geográfica intransponível leva ao surgimento de espécies distintas",
+        "e": "endogamia, mecanismo pelo qual o cruzamento preferencial entre parentes próximos reduz a variação genética de uma população"
+      },
+      "resposta": "c",
+      "explicacao": "Fluxo gênico é o mecanismo pelo qual a migração de indivíduos entre populações introduz variação genética — o oposto do isolamento reprodutivo que sustenta a especiação: quanto maior o fluxo gênico entre duas populações, menor a chance de elas se tornarem espécies distintas. Deriva genética (a) e seleção natural (b) são mecanismos evolutivos distintos, sem depender de migração entre populações.",
+      "formato": "direta"
     }
   ]
 }

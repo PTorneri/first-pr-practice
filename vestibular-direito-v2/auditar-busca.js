@@ -93,6 +93,12 @@ const BANCOS = {
   // de DUAS trilhas secundárias -- o que o conserto do outras[0] habilitou e
   // que não tinha como ser exercitado enquanto só existiam dois bancos.
   economia: "vestibular-economia/data/",
+  // Engenharia faltava aqui, e o auditor media um índice com três bancos
+  // enquanto o navegador montava um com quatro. Como o banco de Engenharia é um
+  // recorte do mesmo banco central, o alcance de cada assunto não muda -- mas
+  // um auditor que não conhece uma das trilhas publicadas é falso por sorte, e
+  // deixaria de acusar no dia em que Engenharia ganhar questão própria.
+  engenharia: "vestibular-engenharia/data/",
 };
 
 function carregarBanco(trilha) {

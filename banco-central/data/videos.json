@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-13",
- "subtemas": 79,
- "total": 180,
+ "subtemas": 83,
+ "total": 187,
  "porSubtema": {
   "interpretacao-ideia-central": [
    {
@@ -879,6 +879,42 @@
    {
     "tema": "Sistema penal e acesso à justiça",
     "busca": "aula sistema penal encarceramento direitos humanos vestibular"
+   }
+  ],
+  "matematica-complexos": [
+   {
+    "tema": "Números complexos: forma algébrica e trigonométrica",
+    "busca": "aula números complexos forma trigonométrica vestibular"
+   },
+   {
+    "tema": "De Moivre: potenciação e radiciação de complexos",
+    "busca": "aula De Moivre potenciação radiciação números complexos vestibular"
+   }
+  ],
+  "matematica-polinomios": [
+   {
+    "tema": "Relações de Girard e teorema do resto",
+    "busca": "aula relações de Girard teorema do resto polinômios vestibular"
+   }
+  ],
+  "matematica-logica-conjuntos": [
+   {
+    "tema": "Lógica proposicional: tabela-verdade e negações",
+    "busca": "aula lógica proposicional tabela-verdade vestibular"
+   },
+   {
+    "tema": "Conjuntos: união, interseção e diagramas",
+    "busca": "aula operações com conjuntos diagrama de Venn vestibular"
+   }
+  ],
+  "fisica-moderna": [
+   {
+    "tema": "Relatividade restrita: dilatação do tempo e contração do espaço",
+    "busca": "aula relatividade restrita dilatação do tempo vestibular"
+   },
+   {
+    "tema": "Efeito fotoelétrico e dualidade onda-partícula",
+    "busca": "aula efeito fotoelétrico dualidade onda-partícula vestibular"
    }
   ]
  }

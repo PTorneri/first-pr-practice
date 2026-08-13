@@ -3,7 +3,7 @@
   "textos": [],
   "questoes": [
     {
-      "id": "eng-fismoderna-01",
+      "id": "fismoderna-01",
       "enunciado": "Uma nave se move com velocidade v = 0,6c em relação à Terra. Um relógio a bordo da nave marca um intervalo de tempo de 10 s entre dois eventos que ocorrem no mesmo ponto da nave. O intervalo de tempo medido por um observador na Terra, para os mesmos dois eventos, é de:",
       "alternativas": {
         "a": "6 s",
@@ -17,7 +17,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-02",
+      "id": "fismoderna-02",
       "enunciado": "Um múon instável, em repouso, tem vida média de 6 μs (tempo próprio). Produzido na alta atmosfera com velocidade v = 0,8c em relação à Terra, sua vida média medida por um observador terrestre é de:",
       "alternativas": {
         "a": "3,6 μs",
@@ -31,7 +31,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-03",
+      "id": "fismoderna-03",
       "enunciado": "Para que o fator de Lorentz γ de uma partícula seja igual a 2, sua velocidade em relação ao referencial do laboratório deve ser aproximadamente:",
       "alternativas": {
         "a": "0,50c",
@@ -45,7 +45,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-04",
+      "id": "fismoderna-04",
       "enunciado": "Uma nave tem comprimento próprio (medido em repouso) de 100 m. Vista por um observador na Terra, em relação ao qual a nave se move com v = 0,6c, seu comprimento medido é de:",
       "alternativas": {
         "a": "125 m",
@@ -59,7 +59,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-05",
+      "id": "fismoderna-05",
       "enunciado": "Uma régua tem 15 m de comprimento próprio. Movendo-se com v = 0,8c em relação a um observador, o comprimento dessa régua medido por esse observador é de:",
       "alternativas": {
         "a": "25 m",
@@ -73,7 +73,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-06",
+      "id": "fismoderna-06",
       "enunciado": "Uma nave espacial em forma de disco, com diâmetro D no referencial em que está em repouso, se move com velocidade próxima de c numa direção paralela ao seu diâmetro, em relação a um observador na Terra. Sobre as dimensões da nave medidas por esse observador, é correto afirmar que:",
       "alternativas": {
         "a": "nenhuma dimensão se altera, só o tempo se dilata",
@@ -87,7 +87,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-07",
+      "id": "fismoderna-07",
       "enunciado": "Dois eventos ocorrem simultaneamente segundo um observador parado numa estação espacial, em pontos diferentes do espaço. Um segundo observador, a bordo de uma nave que passa pela estação com velocidade relativística, relativa à qual os dois eventos ocorrem em posições diferentes ao longo da direção do movimento, mede:",
       "alternativas": {
         "a": "apenas um dos dois eventos, pois o outro deixa de existir no referencial da nave",
@@ -101,7 +101,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-08",
+      "id": "fismoderna-08",
       "enunciado": "Considere c = 3,0×10⁸ m/s. A energia de repouso equivalente a uma massa de 1 grama (1,0×10⁻³ kg) é de aproximadamente:",
       "alternativas": {
         "a": "3,0×10⁸ J",
@@ -115,7 +115,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-09",
+      "id": "fismoderna-09",
       "enunciado": "Numa reação nuclear, o defeito de massa (massa \"perdida\", convertida em energia) é de 3,6×10⁻²⁸ kg. Considerando c = 3,0×10⁸ m/s, a energia liberada nessa reação é de aproximadamente:",
       "alternativas": {
         "a": "1,08×10⁻¹⁹ J",
@@ -129,7 +129,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-10",
+      "id": "fismoderna-10",
       "enunciado": "Uma partícula com energia de repouso E₀ se move com velocidade v = 0,6c em relação ao laboratório. A energia TOTAL dessa partícula, medida no laboratório, é dada por E = γE₀, em que γ é o fator de Lorentz. Para essa velocidade, a energia total vale, em relação à energia de repouso:",
       "alternativas": {
         "a": "0,8 E₀",
@@ -143,7 +143,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-11",
+      "id": "fismoderna-11",
       "enunciado": "A energia cinética relativística de uma partícula é dada por Ec = (γ−1)·m·c², em que γ é o fator de Lorentz. Para uma partícula com v = 0,6c, a energia cinética, em relação à sua energia de repouso mc², vale:",
       "alternativas": {
         "a": "1,25 mc²",
@@ -157,7 +157,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-12",
+      "id": "fismoderna-12",
       "enunciado": "Considere h = 6,63×10⁻³⁴ J·s. A energia de um fóton de luz visível com frequência f = 5,0×10¹⁴ Hz é de aproximadamente:",
       "alternativas": {
         "a": "1,33×10⁻⁴⁸ J",
@@ -171,7 +171,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-13",
+      "id": "fismoderna-13",
       "enunciado": "A função trabalho de uma placa metálica é φ = 3,5×10⁻¹⁹ J. Ao incidir sobre a placa luz de frequência f = 9,0×10¹⁴ Hz (com h = 6,63×10⁻³⁴ J·s), a energia cinética máxima dos elétrons ejetados por efeito fotoelétrico é de aproximadamente:",
       "alternativas": {
         "a": "9,47×10⁻¹⁹ J",
@@ -185,7 +185,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-14",
+      "id": "fismoderna-14",
       "enunciado": "A função trabalho de um metal é φ = 3,315×10⁻¹⁹ J. Considerando h = 6,63×10⁻³⁴ J·s, a frequência de corte (frequência mínima de luz capaz de arrancar elétrons desse metal por efeito fotoelétrico) é de aproximadamente:",
       "alternativas": {
         "a": "2,0×10¹³ Hz",
@@ -199,7 +199,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-15",
+      "id": "fismoderna-15",
       "enunciado": "Um feixe de luz monocromática, com frequência abaixo da frequência de corte de certo metal, incide sobre a superfície desse metal. Ao aumentar MUITO a intensidade desse mesmo feixe (mantendo a frequência fixa), o efeito observado é:",
       "alternativas": {
         "a": "elétrons passam a ser ejetados, pois a energia total entregue ao metal aumenta com a intensidade",
@@ -213,7 +213,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-16",
+      "id": "fismoderna-16",
       "enunciado": "Um elétron (massa m = 9,11×10⁻³¹ kg) se move com velocidade v = 2,0×10⁶ m/s. Considerando h = 6,63×10⁻³⁴ J·s, o comprimento de onda de De Broglie associado a esse elétron é de aproximadamente:",
       "alternativas": {
         "a": "1,8×10⁻²⁴ m",
@@ -227,7 +227,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-17",
+      "id": "fismoderna-17",
       "enunciado": "Um fóton tem energia E = 3,0×10⁻¹⁹ J. Considerando c = 3,0×10⁸ m/s, o momento linear desse fóton é de:",
       "alternativas": {
         "a": "9,0×10⁻¹¹ kg·m/s",
@@ -241,7 +241,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-18",
+      "id": "fismoderna-18",
       "enunciado": "A experiência da dupla fenda, quando realizada com elétrons emitidos um de cada vez (garantindo que não há interação entre elétrons diferentes), ainda assim produz, após a passagem de muitos elétrons, um padrão de interferência no anteparo. Esse resultado é interpretado como evidência de que:",
       "alternativas": {
         "a": "os elétrons colidem uns com os outros mesmo sendo emitidos em instantes diferentes",
@@ -255,7 +255,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-19",
+      "id": "fismoderna-19",
       "enunciado": "O efeito fotoelétrico (luz arrancando elétrons de um metal) é historicamente citado como evidência do comportamento:",
       "alternativas": {
         "a": "ondulatório da luz, pois só ondas transportam energia contínua",
@@ -269,7 +269,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-20",
+      "id": "fismoderna-20",
       "enunciado": "Uma bola de 0,10 kg se move a 20 m/s. Considerando h = 6,63×10⁻³⁴ J·s, o comprimento de onda de De Broglie associado a essa bola é de aproximadamente 3,3×10⁻³⁴ m — um valor absurdamente menor do que qualquer escala observável. Isso explica por que:",
       "alternativas": {
         "a": "objetos macroscópicos do dia a dia não exibem efeitos ondulatórios perceptíveis, embora a relação de De Broglie se aplique também a eles",
@@ -283,7 +283,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-21",
+      "id": "fismoderna-21",
       "enunciado": "Os dois postulados fundamentais da relatividade restrita, propostos por Einstein em 1905, são:",
       "alternativas": {
         "a": "as leis da física são as mesmas em todos os referenciais inerciais, e a velocidade da luz no vácuo é a mesma para todos os observadores inerciais, independentemente do movimento da fonte",
@@ -297,7 +297,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-22",
+      "id": "fismoderna-22",
       "enunciado": "Uma nave se move em relação à Terra com velocidade 0,9c. Um projétil é lançado da nave, na mesma direção do movimento, com velocidade 0,5c em relação à nave. Pela composição relativística de velocidades (diferente da simples soma newtoniana), a velocidade do projétil em relação à Terra é:",
       "alternativas": {
         "a": "exatamente 1,4c, pela soma direta das duas velocidades",
@@ -311,7 +311,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-23",
+      "id": "fismoderna-23",
       "enunciado": "Ao dobrar a intensidade de um feixe de luz monocromática (mantendo a mesma frequência, acima da frequência de corte) incidindo sobre uma placa metálica, o efeito sobre a energia cinética máxima dos elétrons ejetados e sobre o número de elétrons ejetados por segundo é, respectivamente:",
       "alternativas": {
         "a": "a energia cinética máxima não se altera; o número de elétrons ejetados por segundo dobra",
@@ -325,7 +325,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-24",
+      "id": "fismoderna-24",
       "enunciado": "Para velocidades muito menores que a velocidade da luz (v ≪ c), o fator de Lorentz γ se aproxima de:",
       "alternativas": {
         "a": "1, e os efeitos relativísticos (dilatação do tempo, contração do comprimento) se tornam desprezíveis",
@@ -339,7 +339,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-fismoderna-25",
+      "id": "fismoderna-25",
       "enunciado": "Em uma reação de fissão nuclear, a soma das massas dos produtos finais é menor que a soma das massas dos reagentes iniciais. De acordo com a equivalência massa-energia de Einstein, essa diferença de massa (defeito de massa):",
       "alternativas": {
         "a": "foi convertida em energia, liberada na forma de energia cinética dos produtos e radiação",

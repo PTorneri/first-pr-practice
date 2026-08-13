@@ -2630,6 +2630,134 @@ window.QUESTION_BANKS = {
    "explicacao": "Cada caixa-d'água cilíndrica tem volume π×0,9²×2=4,86 m³ (4.860 L); as 5 caixas somam 24.300 L. Cada cano tem volume π×0,02²×1,5=0,0018 m³ (1,8 L); os 4 canos somam 7,2 L. O total é 24.300+7,2=24.307,2 L.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-complexos-09",
+   "enunciado": "Sejam z₁ = 2(cos 60° + i sen 60°) e z₂ = 3(cos 30° + i sen 30°). O produto z₁ · z₂, na forma algébrica, é:",
+   "alternativas": {
+    "a": "6",
+    "b": "5(cos90° + i sen90°)",
+    "c": "−6",
+    "d": "6(cos 1800° + i sen 1800°)",
+    "e": "6i"
+   },
+   "resposta": "e",
+   "explicacao": "Na forma trigonométrica, multiplicam-se os módulos e somam-se os argumentos: módulo 2×3=6, argumento 60°+30°=90°. Então z₁z₂ = 6(cos90°+isen90°) = 6(0+i·1) = 6i. A alternativa (b) soma os módulos em vez de multiplicar (2+3=5), erro comum de aplicar a regra da adição de argumentos também aos módulos.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-complexos-10",
+   "enunciado": "Sejam z₁ = 12(cos200° + i sen200°) e z₂ = 4(cos50° + i sen50°). O quociente z₁/z₂ é:",
+   "alternativas": {
+    "a": "3(cos150° + i sen150°)",
+    "b": "8(cos150° + i sen150°)",
+    "c": "3(cos250° + i sen250°)",
+    "d": "48(cos150° + i sen150°)",
+    "e": "3(cos4° + i sen4°)"
+   },
+   "resposta": "a",
+   "explicacao": "Na divisão de complexos em forma trigonométrica, dividem-se os módulos e subtraem-se os argumentos: 12/4=3, 200°−50°=150°. A alternativa (c) soma os argumentos em vez de subtrair, e a (d) multiplica os módulos em vez de dividir.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-complexos-13",
+   "enunciado": "As raízes quadradas complexas de −4 são:",
+   "alternativas": {
+    "a": "±2",
+    "b": "±4i",
+    "c": "2 ± 2i",
+    "d": "±√2 i",
+    "e": "±2i"
+   },
+   "resposta": "e",
+   "explicacao": "Escrevendo −4 em forma trigonométrica: módulo 4, argumento 180°. As raízes têm módulo √4=2 e argumentos 180°/2=90° e (180°+360°)/2=270°, ou seja, 2(cos90°+isen90°)=2i e 2(cos270°+isen270°)=−2i: as raízes são ±2i. Conferindo: (2i)²=4i²=−4. A alternativa (a), ±2, seria a raiz quadrada real, que não existe para número negativo.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-complexos-17",
+   "enunciado": "As seis raízes complexas da equação z⁶ = 1 estão representadas no plano de Argand-Gauss sobre uma circunferência de raio 1. O ângulo central entre duas raízes consecutivas é:",
+   "alternativas": {
+    "a": "30°",
+    "b": "45°",
+    "c": "60°",
+    "d": "90°",
+    "e": "120°"
+   },
+   "resposta": "c",
+   "explicacao": "As n raízes n-ésimas de um número complexo se distribuem uniformemente sobre uma circunferência, separadas por 360°/n. Para n=6: 360°/6 = 60°. A alternativa (e), 120°, seria o espaçamento para n=3, não para n=6 — confundir o grau da equação com o número de raízes que efetivamente existem muda a resposta.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-complexos-18",
+   "enunciado": "O lugar geométrico dos pontos z do plano complexo que satisfazem |z − (2 + 3i)| = 5 é:",
+   "alternativas": {
+    "a": "uma reta",
+    "b": "uma circunferência de centro (2,3) e raio 5",
+    "c": "uma circunferência de centro (2,3) e raio 25",
+    "d": "uma elipse",
+    "e": "uma circunferência de centro (−2,−3) e raio 5"
+   },
+   "resposta": "b",
+   "explicacao": "|z − z₀| = r descreve o conjunto dos pontos cuja distância até z₀ é constante e igual a r: por definição, uma circunferência de centro z₀ e raio r. Aqui z₀ = 2+3i, representado pelo ponto (2,3), e r=5. A alternativa (c) confunde o raio com o quadrado do raio, erro que viria de elevar a equação ao quadrado sem necessidade.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-complexos-19",
+   "enunciado": "O lugar geométrico dos pontos z do plano complexo que satisfazem |z − 3| = |z + 3| é:",
+   "alternativas": {
+    "a": "a circunferência de raio 3 centrada na origem",
+    "b": "o eixo real",
+    "c": "o eixo imaginário",
+    "d": "a reta x = 3",
+    "e": "um único ponto, a origem"
+   },
+   "resposta": "c",
+   "explicacao": "|z − 3| = |z + 3| descreve os pontos equidistantes de 3 (o ponto (3,0)) e de −3 (o ponto (−3,0)) — pela definição de mediatriz, é a reta perpendicular ao segmento que liga esses dois pontos, passando pelo ponto médio (a origem). Como os dois pontos estão sobre o eixo real, a mediatriz é o eixo imaginário (x=0). A alternativa (b) troca os dois eixos.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-complexos-25",
+   "enunciado": "A região do plano complexo definida por |z| ≤ 3 é:",
+   "alternativas": {
+    "a": "o exterior de uma circunferência de raio 3",
+    "b": "o interior (incluindo a borda) de uma circunferência de raio 3 centrada na origem",
+    "c": "uma reta",
+    "d": "o interior de um quadrado de lado 3",
+    "e": "o interior (incluindo a borda) de uma circunferência de raio 9 centrada na origem"
+   },
+   "resposta": "b",
+   "explicacao": "|z| mede a distância do ponto z até a origem. |z| ≤ 3 reúne todos os pontos cuja distância à origem é no máximo 3: o disco fechado de raio 3 centrado na origem, incluindo a circunferência-borda. A alternativa (a) inverte a desigualdade, descrevendo |z| ≥ 3. A (e) confunde o raio com o quadrado do módulo.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-logica-18",
+   "enunciado": "Numa prova de múltipla escolha, a instrução diz: \"Marque a alternativa se ela contiver um erro de português ou um erro de cálculo.\" Um candidato marca uma alternativa que contém os dois tipos de erro ao mesmo tempo. De acordo com o conectivo lógico \"ou\" usado em matemática (disjunção inclusiva), essa alternativa:",
+   "alternativas": {
+    "a": "só deveria ser marcada se o erro de cálculo fosse corrigido primeiro",
+    "b": "deveria ser marcada apenas se o candidato tivesse certeza de qual erro ocorreu primeiro",
+    "c": "não deveria ser marcada, pois o \"ou\" da instrução exclui o caso de ambos os erros ocorrerem juntos",
+    "d": "deveria ser marcada, pois basta um dos dois erros estar presente, e não há exigência de que só um ocorra",
+    "e": "é um caso indeterminado, que a lógica matemática não consegue resolver"
+   },
+   "resposta": "d",
+   "explicacao": "A disjunção p ∨ q, na lógica matemática, é falsa apenas quando as duas proposições são falsas — inclui o caso em que ambas são verdadeiras. É diferente do \"ou exclusivo\" do português cotidiano (\"ou vai, ou fica\"), que exclui a ocorrência simultânea. A alternativa (c) aplica a leitura cotidiana, mais restritiva, ao símbolo lógico, que na convenção matemática padrão é sempre inclusivo salvo aviso contrário.",
+   "formato": "direta",
+   "origem": "engenharia"
   }
  ],
  "matematica-financeira": [
@@ -8953,6 +9081,118 @@ window.QUESTION_BANKS = {
    "explicacao": "Como a ordem dos produtos dentro de cada categoria não importa, o número de boxes é o produto das combinações: C(5,2) máscaras × C(10,3) hidratantes × C(15,2) perfumes.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-complexos-20",
+   "enunciado": "Se |z₁| = 5 e |z₂| = √2, o módulo do produto z₁ · z₂ é:",
+   "alternativas": {
+    "a": "5√2",
+    "b": "5 + √2",
+    "c": "10",
+    "d": "√7",
+    "e": "5/√2"
+   },
+   "resposta": "a",
+   "explicacao": "O módulo do produto de dois complexos é o produto dos módulos: |z₁·z₂| = |z₁|·|z₂| = 5·√2 = 5√2. A alternativa (b) soma os módulos em vez de multiplicar, um erro que funcionaria para argumento, não para módulo de produto.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-polinomios-03",
+   "enunciado": "Para que o polinômio p(x) = x³ + kx² − 4x + 8 seja divisível por (x − 2), o valor de k deve ser:",
+   "alternativas": {
+    "a": "0",
+    "b": "−2",
+    "c": "2",
+    "d": "−4",
+    "e": "4"
+   },
+   "resposta": "b",
+   "explicacao": "Divisível por (x−2) significa que 2 é raiz, ou seja, p(2) = 0. p(2) = 8 + 4k − 8 + 8 = 4k + 8. Igualando a zero: 4k + 8 = 0, k = −2. A alternativa (c), k=2, troca o sinal ao isolar k na equação 4k+8=0.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-polinomios-22",
+   "enunciado": "Se p(x) tem grau 3 e q(x) tem grau 4, o grau do polinômio produto p(x)·q(x) é:",
+   "alternativas": {
+    "a": "7",
+    "b": "12",
+    "c": "1",
+    "d": "4",
+    "e": "depende dos coeficientes"
+   },
+   "resposta": "a",
+   "explicacao": "O grau do produto de dois polinômios é a soma dos graus dos fatores (o termo de maior grau do produto vem do produto dos termos de maior grau de cada um, que não se cancela): 3 + 4 = 7. A alternativa (b), 12, multiplicaria os graus em vez de somar — confusão com a regra de potenciação (x³)⁴, que não se aplica aqui.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-logica-15",
+   "enunciado": "Considere as premissas: \"Todo número primo maior que 2 é ímpar\" e \"7 é um número primo maior que 2.\" A conclusão que se segue validamente dessas premissas é:",
+   "alternativas": {
+    "a": "7 é ímpar",
+    "b": "Todo número ímpar é primo",
+    "c": "7 não é par",
+    "d": "tanto (a) quanto (c), pois são equivalentes aqui",
+    "e": "nenhuma conclusão seria válida sem verificar diretamente se 7 é ímpar"
+   },
+   "resposta": "d",
+   "explicacao": "O silogismo é válido pela regra do modus ponens: se todo número da categoria P tem a propriedade Q, e 7 pertence a P, então 7 tem Q — logo, 7 é ímpar. Como \"ímpar\" e \"não par\" descrevem exatamente a mesma propriedade para números inteiros, (a) e (c) são a mesma conclusão em palavras diferentes. A alternativa (b) inverte a premissa universal, erro clássico de tratar \"todo P é Q\" como se fosse \"todo Q é P\".",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-logica-19",
+   "enunciado": "O conjunto A tem exatamente 64 subconjuntos. O número de elementos de A é:",
+   "alternativas": {
+    "a": "5",
+    "b": "6",
+    "c": "7",
+    "d": "8",
+    "e": "32"
+   },
+   "resposta": "b",
+   "explicacao": "O número de subconjuntos de um conjunto com n elementos é 2ⁿ. Como 2⁶ = 64, A tem 6 elementos. A alternativa (e), 32, confunde o número de subconjuntos com o próprio número de elementos, aplicando 2⁵=32 ao contrário. A (a), 5, viria de 2⁵=32 arredondado errado, ou de contar 64 = 2⁶ como se o expoente fosse direto o log errado.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-logica-23",
+   "enunciado": "Uma fábrica produz camisetas em 5 cores diferentes e 4 tamanhos diferentes. Representando cada camiseta como um par ordenado (cor, tamanho), o número de camisetas distintas que a fábrica pode produzir é:",
+   "alternativas": {
+    "a": "9",
+    "b": "20",
+    "c": "25",
+    "d": "16",
+    "e": "54"
+   },
+   "resposta": "b",
+   "explicacao": "Cada camiseta é um elemento do produto cartesiano Cores × Tamanhos, com |Cores| × |Tamanhos| = 5 × 4 = 20 pares possíveis. A alternativa (a), 9, soma em vez de multiplicar (5+4), erro comum de confundir \"escolher cor OU tamanho\" com \"escolher cor E tamanho\". A (c), 25, usa 5×5 em vez de 5×4, e a (d), 16, usa 4×4.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-logica-25",
+   "enunciado": "Em um universo U com 50 elementos, o conjunto A tem 28 elementos. O número de elementos do complementar de A em relação a U é:",
+   "alternativas": {
+    "a": "78",
+    "b": "28",
+    "c": "22",
+    "d": "50",
+    "e": "0"
+   },
+   "resposta": "c",
+   "explicacao": "O complementar de A em U reúne os elementos de U que não estão em A: 50 − 28 = 22. A alternativa (a), 78, soma em vez de subtrair (28+50), tratando A como se estivesse fora de U em vez de contido nele. A (b) repete o próprio |A|, como se complementar significasse \"o mesmo conjunto\".",
+   "formato": "direta",
+   "origem": "engenharia"
   }
  ],
  "matematica-probabilidade": [
@@ -9150,46 +9390,6 @@ window.QUESTION_BANKS = {
    "dificuldade": "dificil",
    "formato": "direta",
    "banca": "insper",
-   "origem": "direito",
-   "frenteOrigem": "matematica-rlm"
-  },
-  {
-   "subtema": "matematica-probabilidade",
-   "id": "dir-matematica-rlm-86",
-   "texto_apoio": "",
-   "enunciado": "Em uma pesquisa com 100 pessoas, 45 assistem ao noticiário A, 40 assistem ao noticiário B, e 15 assistem a ambos os noticiários. Quantas pessoas assistem a exatamente um dos dois noticiários (ou seja, apenas A, ou apenas B, mas não os dois)?",
-   "alternativas": {
-    "a": "45",
-    "b": "55",
-    "c": "70",
-    "d": "85",
-    "e": "40"
-   },
-   "resposta": "b",
-   "explicacao": "Quem assiste apenas a A: 45−15=30. Quem assiste apenas a B: 40−15=25. A soma de quem assiste a exatamente um dos dois noticiários é 30+25=55. Isso é diferente de |A∪B|=45+40−15=70, que inclui também quem assiste aos dois.",
-   "dificuldade": "dificil",
-   "formato": "direta",
-   "banca": "fgv",
-   "origem": "direito",
-   "frenteOrigem": "matematica-rlm"
-  },
-  {
-   "subtema": "matematica-probabilidade",
-   "id": "dir-matematica-rlm-96",
-   "texto_apoio": "",
-   "enunciado": "Uma pesquisa com 60 estudantes sobre livros lidos no semestre revelou: 30 leram o Livro A, 25 leram o Livro B, 10 leram tanto o Livro A quanto o Livro B, e nenhum estudante leu outro livro além desses dois (ou nenhum). Quantos estudantes, dentre os 60, não leram nenhum dos dois livros?",
-   "alternativas": {
-    "a": "25",
-    "b": "15",
-    "c": "5",
-    "d": "20",
-    "e": "10"
-   },
-   "resposta": "b",
-   "explicacao": "O número de estudantes que leram pelo menos um dos livros é |A∪B|=30+25−10=45. Logo, os que não leram nenhum dos dois livros são 60−45=15 estudantes.",
-   "dificuldade": "dificil",
-   "formato": "direta",
-   "banca": "fgv",
    "origem": "direito",
    "frenteOrigem": "matematica-rlm"
   },
@@ -11801,6 +12001,1012 @@ window.QUESTION_BANKS = {
    "explicacao": "Simulando o algoritmo passo a passo (arredondar cada elemento ao múltiplo de 3 mais próximo, somar n, tomar o menor valor e recalcular n=x−7, repetindo três vezes), o valor final de n é −19.",
    "formato": "direta",
    "origem": "medicina"
+  }
+ ],
+ "matematica-logica-conjuntos": [
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "dir-matematica-rlm-86",
+   "texto_apoio": "",
+   "enunciado": "Em uma pesquisa com 100 pessoas, 45 assistem ao noticiário A, 40 assistem ao noticiário B, e 15 assistem a ambos os noticiários. Quantas pessoas assistem a exatamente um dos dois noticiários (ou seja, apenas A, ou apenas B, mas não os dois)?",
+   "alternativas": {
+    "a": "45",
+    "b": "55",
+    "c": "70",
+    "d": "85",
+    "e": "40"
+   },
+   "resposta": "b",
+   "explicacao": "Quem assiste apenas a A: 45−15=30. Quem assiste apenas a B: 40−15=25. A soma de quem assiste a exatamente um dos dois noticiários é 30+25=55. Isso é diferente de |A∪B|=45+40−15=70, que inclui também quem assiste aos dois.",
+   "dificuldade": "dificil",
+   "formato": "direta",
+   "banca": "fgv",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "dir-matematica-rlm-96",
+   "texto_apoio": "",
+   "enunciado": "Uma pesquisa com 60 estudantes sobre livros lidos no semestre revelou: 30 leram o Livro A, 25 leram o Livro B, 10 leram tanto o Livro A quanto o Livro B, e nenhum estudante leu outro livro além desses dois (ou nenhum). Quantos estudantes, dentre os 60, não leram nenhum dos dois livros?",
+   "alternativas": {
+    "a": "25",
+    "b": "15",
+    "c": "5",
+    "d": "20",
+    "e": "10"
+   },
+   "resposta": "b",
+   "explicacao": "O número de estudantes que leram pelo menos um dos livros é |A∪B|=30+25−10=45. Logo, os que não leram nenhum dos dois livros são 60−45=15 estudantes.",
+   "dificuldade": "dificil",
+   "formato": "direta",
+   "banca": "fgv",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-polinomios-24",
+   "enunciado": "Um polinômio p(x) é tal que p(x) = 0 para todo valor real de x. Sobre o grau desse polinômio, é correto afirmar que:",
+   "alternativas": {
+    "a": "o polinômio nulo não tem grau definido, e não pode ser tratado como tendo grau 0",
+    "b": "seu grau é 0",
+    "c": "seu grau é 1",
+    "d": "seu grau é indefinidamente grande",
+    "e": "seu grau depende do número de termos escritos"
+   },
+   "resposta": "a",
+   "explicacao": "O polinômio identicamente nulo (todos os coeficientes iguais a zero) é o único caso em que o grau não é definido, por convenção — não existe termo de maior grau com coeficiente não nulo para caracterizar um grau. É diferente de um polinômio constante não nulo, como p(x)=5, que tem grau 0. A alternativa (b) confunde os dois casos.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-01",
+   "enunciado": "Numa turma de 40 alunos, 22 fazem cursinho de Matemática e 18 fazem cursinho de Física. Sabendo que 8 alunos fazem os dois cursinhos, o número de alunos que não fazem nenhum dos dois é:",
+   "alternativas": {
+    "a": "14",
+    "b": "24",
+    "c": "32",
+    "d": "0",
+    "e": "8"
+   },
+   "resposta": "e",
+   "explicacao": "|A∪B| = 22 + 18 − 8 = 32. Não fazem nenhum: 40 − 32 = 8. A alternativa (c) confunde \"não fazem nenhum\" com \"fazem pelo menos um\" (a própria união). A (b) conta só quem faz exatamente um dos dois (14 + 10). A (a) é só quem faz Matemática e não Física (22 − 8). A (d) vem de somar 22 + 18 = 40 sem subtrair a interseção, como se a turma toda estivesse coberta.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-02",
+   "enunciado": "Dos 90 alunos de um cursinho, 50 estudam Cálculo, 40 estudam Física e 35 estudam Química. Desses, 20 estudam Cálculo e Física, 15 estudam Física e Química, 18 estudam Cálculo e Química, e 8 estudam as três disciplinas. O número de alunos que não estudam nenhuma das três é:",
+   "alternativas": {
+    "a": "45",
+    "b": "26",
+    "c": "18",
+    "d": "10",
+    "e": "5"
+   },
+   "resposta": "d",
+   "explicacao": "|A∪B∪C| = 50+40+35 − 20−15−18 + 8 = 80. Não estudam nenhuma: 90 − 80 = 10. A alternativa (c) esquece de somar de volta os 8 que fazem as três disciplinas (fórmula parando em 125 − 53 = 72, e 90 − 72 = 18). A (b) subtrai a interseção tripla em vez de somá-la (125 − 53 − 8 = 64, e 90 − 64 = 26).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-03",
+   "enunciado": "Sejam A = {x ∈ ℕ : 1 ≤ x ≤ 20} e B o conjunto dos múltiplos de 3 pertencentes a A. O número de elementos do conjunto A − B (diferença entre A e B) é:",
+   "alternativas": {
+    "a": "6",
+    "b": "13",
+    "c": "14",
+    "d": "20",
+    "e": "7"
+   },
+   "resposta": "c",
+   "explicacao": "B = {3,6,9,12,15,18}, com 6 elementos. A − B remove de A os elementos de B: 20 − 6 = 14. A alternativa (a) é o número de elementos de B, não de A − B. A (d) ignora a subtração e devolve o próprio A. A (b) e a (e) vêm de contar errado os múltiplos de 3 até 20 (incluindo por engano um sétimo múltiplo, como se 21 pertencesse a A).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-04",
+   "enunciado": "Considere as proposições p: \"Marte tem duas luas\" (verdadeira) e q: \"Vênus é o planeta mais próximo do Sol\" (falsa). O valor lógico da proposição composta ~p ∨ (p → q) é:",
+   "alternativas": {
+    "a": "verdadeira, porque p → q é verdadeira sempre que p é verdadeira",
+    "b": "falsa, porque ~p é falsa e p → q também é falsa",
+    "c": "verdadeira, porque ~p ∨ (p → q) equivale à própria negação de p, que é falsa",
+    "d": "falsa, porque a disjunção de duas proposições falsas é falsa",
+    "e": "impossível determinar sem saber o valor lógico de ~q"
+   },
+   "resposta": "b",
+   "explicacao": "~p é falsa, pois p é verdadeira. p → q é falsa porque o antecedente é verdadeiro e o consequente é falso — o único caso em que o condicional falha. A disjunção de duas proposições falsas é falsa: ~p ∨ (p → q) é falsa. A alternativa (a) erra a regra do condicional: p verdadeiro não garante p → q verdadeiro, só quando q também é verdadeiro. A (d) chega à conclusão certa mas por justificativa incompleta, sem checar que a disjunção citada é mesmo essa.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-05",
+   "enunciado": "A negação lógica da proposição \"Se chove, então a rua fica molhada\" é:",
+   "alternativas": {
+    "a": "Não chove ou a rua não fica molhada",
+    "b": "A rua fica molhada se, e somente se, chove",
+    "c": "Se não chove, então a rua não fica molhada",
+    "d": "Se a rua fica molhada, então chove",
+    "e": "Chove e a rua não fica molhada"
+   },
+   "resposta": "e",
+   "explicacao": "A negação de p → q é p ∧ ~q, e não outro condicional: nega-se \"sempre que chove, molha\" exibindo um caso em que chove e não molha. A alternativa (c) é a inversa do condicional original, e (d) é a recíproca — nenhuma das duas é logicamente equivalente à negação. A (a) aplica De Morgan a uma disjunção que a proposição original nem tem.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-06",
+   "enunciado": "Das proposições compostas abaixo, é logicamente equivalente a p → q:",
+   "alternativas": {
+    "a": "~p ∨ q",
+    "b": "~p ∧ q",
+    "c": "p ∧ ~q",
+    "d": "~q → ~p",
+    "e": "tanto (a) quanto (d)"
+   },
+   "resposta": "e",
+   "explicacao": "p → q é falsa apenas quando p é verdadeira e q é falsa. Testando ~p ∨ q nesse caso: ~p é falsa e q é falsa, logo a disjunção é falsa — coincide em todos os casos com p → q. ~q → ~p é a contrapositiva de p → q, e a contrapositiva é sempre equivalente ao condicional original. As duas construções, portanto, são equivalentes. A alternativa (b), ~p ∧ q, é uma conjunção que não corresponde a nenhuma equivalência do condicional.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-07",
+   "enunciado": "Numa pesquisa com 200 pessoas sobre o consumo de dois serviços de streaming, A e B, verificou-se que o número de pessoas que assinam apenas A é o dobro do número de pessoas que assinam apenas B, 30 pessoas assinam ambos e 50 não assinam nenhum. O número de pessoas que assinam o serviço A (incluindo quem assina os dois) é:",
+   "alternativas": {
+    "a": "80",
+    "b": "90",
+    "c": "110",
+    "d": "120",
+    "e": "150"
+   },
+   "resposta": "c",
+   "explicacao": "Quem assina pelo menos um: 200 − 50 = 150. Sendo x quem assina só B e 2x quem assina só A: 2x + x + 30 = 150, logo x = 40. Assinam A no total: apenas A (2x = 80) mais quem assina os dois (30) = 110. A alternativa (a) é só \"apenas A\", esquecendo de somar quem assina os dois serviços. A (e) é o total de quem assina pelo menos um dos dois, não só A.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-08",
+   "enunciado": "Considere a proposição: \"Se um número é múltiplo de 6, então é múltiplo de 3.\" Assinale a alternativa que apresenta a contrapositiva dessa proposição.",
+   "alternativas": {
+    "a": "Se um número não é múltiplo de 6, então não é múltiplo de 3",
+    "b": "Um número é múltiplo de 6 se, e somente se, é múltiplo de 3",
+    "c": "Um número não é múltiplo de 6 ou não é múltiplo de 3",
+    "d": "Se um número é múltiplo de 3, então é múltiplo de 6",
+    "e": "Se um número não é múltiplo de 3, então não é múltiplo de 6"
+   },
+   "resposta": "e",
+   "explicacao": "A contrapositiva de p → q é ~q → ~p: nega-se e inverte-se a ordem das duas partes. Aqui, \"não é múltiplo de 3, então não é múltiplo de 6\". A alternativa (d) é a recíproca (q → p), verdadeira nesse caso específico mas logicamente distinta da original. A (a) é a inversa (~p → ~q), que troca a ordem errada — nega mas não inverte.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-09",
+   "enunciado": "Sejam A e B subconjuntos de um universo U. A expressão que é sempre igual a (A ∩ B)ᶜ (complementar da interseção) é:",
+   "alternativas": {
+    "a": "A ∩ Bᶜ",
+    "b": "Aᶜ ∩ B",
+    "c": "Aᶜ ∩ Bᶜ",
+    "d": "Aᶜ ∪ Bᶜ",
+    "e": "A ∪ B"
+   },
+   "resposta": "d",
+   "explicacao": "É a lei de De Morgan para conjuntos: o complementar da interseção é a união dos complementares. A alternativa (c), Aᶜ ∩ Bᶜ, é o complementar da UNIÃO, (A ∪ B)ᶜ — a outra metade da mesma lei, frequentemente trocada com esta.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-10",
+   "enunciado": "A negação da proposição \"Todo engenheiro que se forma no ITA encontra emprego em até seis meses\" é:",
+   "alternativas": {
+    "a": "Nenhum engenheiro que se forma no ITA encontra emprego em até seis meses",
+    "b": "Todo engenheiro que se forma no ITA não encontra emprego em até seis meses",
+    "c": "Existe um engenheiro que se forma no ITA e não encontra emprego em até seis meses",
+    "d": "Existe um engenheiro que não se forma no ITA e encontra emprego em até seis meses",
+    "e": "Todo engenheiro que não se forma no ITA não encontra emprego em até seis meses"
+   },
+   "resposta": "c",
+   "explicacao": "A negação de \"para todo x, P(x)\" é \"existe x tal que não P(x)\": basta um único contraexemplo para derrubar a afirmação universal. As alternativas (a) e (b) trocam a negação por outra afirmação universal (\"nenhum\", \"todo... não\"), erro comum que substitui \"existe um caso contrário\" por \"todos os casos são contrários\" — logicamente mais forte do que a simples negação exige.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-11",
+   "enunciado": "Se A tem 4 elementos e B tem 3 elementos, o número de subconjuntos do produto cartesiano A × B é:",
+   "alternativas": {
+    "a": "12",
+    "b": "2¹²",
+    "c": "4³",
+    "d": "2⁷",
+    "e": "3⁴"
+   },
+   "resposta": "b",
+   "explicacao": "A × B tem 4 × 3 = 12 pares ordenados. O número de subconjuntos de um conjunto com n elementos é 2ⁿ, logo o número de subconjuntos de A × B é 2¹². A alternativa (a) é só o número de elementos de A × B, não o número de subconjuntos dele. A (d), 2⁷, seria o número de subconjuntos de um conjunto com 7 elementos — nem A ∪ B (7 elementos, se disjuntos) nem A × B.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-12",
+   "enunciado": "Uma proposição composta é formada por 4 proposições simples distintas, p, q, r e s. O número de linhas da tabela-verdade dessa proposição composta é:",
+   "alternativas": {
+    "a": "8",
+    "b": "16",
+    "c": "24",
+    "d": "4",
+    "e": "32"
+   },
+   "resposta": "b",
+   "explicacao": "Cada proposição simples pode assumir 2 valores (V ou F), e a tabela precisa cobrir todas as combinações possíveis: 2⁴ = 16 linhas. A alternativa (a), 8 = 2³, seria o número de linhas para 3 proposições, não 4. A (c), 24, é 4! (permutações de 4 elementos), confusão comum entre contar combinações de valores lógicos e contar arranjos.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-13",
+   "enunciado": "Um número inteiro n satisfaz \"n é par se, e somente se, n² é par\". Sobre essa proposição bicondicional, é correto afirmar que ela é:",
+   "alternativas": {
+    "a": "verdadeira apenas para n positivo",
+    "b": "falsa, pois a implicação \"n² par implica n par\" não vale para todo n",
+    "c": "indeterminada, pois depende do valor de n",
+    "d": "falsa, pois existem números pares cujo quadrado é ímpar",
+    "e": "verdadeira, pois as duas implicações — \"n par implica n² par\" e \"n² par implica n par\" — são ambas verdadeiras"
+   },
+   "resposta": "e",
+   "explicacao": "p ↔ q é verdadeira quando as duas implicações valem: se n é par, n² é par (produto de par por par); e se n² é par, n é necessariamente par (se n fosse ímpar, n² seria ímpar). As duas implicações se sustentam para todo n inteiro, tornando a bicondicional verdadeira sempre, não só para n positivo, como sugere (a).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-14",
+   "enunciado": "Em uma pesquisa com 150 candidatos de um processo seletivo, 90 sabem Python, 70 sabem C++ e 40 sabem as duas linguagens. O número de candidatos que sabem apenas uma das duas linguagens é:",
+   "alternativas": {
+    "a": "80",
+    "b": "90",
+    "c": "120",
+    "d": "20",
+    "e": "160"
+   },
+   "resposta": "a",
+   "explicacao": "Apenas Python: 90 − 40 = 50. Apenas C++: 70 − 40 = 30. Apenas uma das duas: 50 + 30 = 80. A alternativa (c), 120, é |A ∪ B| = 90+70−40, que inclui também quem sabe as duas — o oposto de \"apenas uma\". A (b), 90, é só o total de quem sabe Python, sem descontar quem também sabe C++.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-16",
+   "enunciado": "Sejam A = {1, 2, 3} e B = {3, 4, 5}. O número de elementos do conjunto (A ∪ B) − (A ∩ B) é:",
+   "alternativas": {
+    "a": "6",
+    "b": "5",
+    "c": "4",
+    "d": "3",
+    "e": "1"
+   },
+   "resposta": "c",
+   "explicacao": "A ∪ B = {1,2,3,4,5}, com 5 elementos. A ∩ B = {3}, com 1 elemento. A diferença remove os elementos comuns da união: {1,2,4,5}, com 4 elementos — essa construção é chamada diferença simétrica. A alternativa (b), 5, é só |A ∪ B|, sem descontar o que se pede subtrair. A (e), 1, é o tamanho de A ∩ B, o termo que deveria ser removido, não o resultado.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-17",
+   "enunciado": "Para quaisquer conjuntos A, B e C, a expressão A ∩ (B ∪ C) é sempre igual a:",
+   "alternativas": {
+    "a": "(A ∩ B) ∪ (A ∩ C)",
+    "b": "(A ∪ B) ∩ (A ∪ C)",
+    "c": "(A ∩ B) ∩ (A ∩ C)",
+    "d": "(A ∪ B) ∪ (A ∪ C)",
+    "e": "A ∩ B ∩ C"
+   },
+   "resposta": "a",
+   "explicacao": "É a propriedade distributiva da interseção sobre a união, análoga a a·(b+c) = a·b + a·c na álgebra. A alternativa (b) é a distributiva da UNIÃO sobre a interseção, A ∪ (B ∩ C) — a lei irmã, fácil de trocar com esta. A (e) só valeria se B e C fossem exatamente iguais.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-20",
+   "enunciado": "A negação da proposição \"Existe um número real x tal que x² + 1 = 0\" é:",
+   "alternativas": {
+    "a": "Não existe nenhum número real x tal que x² + 1 = 0",
+    "b": "Existe um número real x tal que x² + 1 ≠ 0",
+    "c": "Para todo número real x, x² + 1 ≠ 0",
+    "d": "tanto (a) quanto (c), pois são equivalentes",
+    "e": "Para todo número real x, x² + 1 = 0"
+   },
+   "resposta": "d",
+   "explicacao": "A negação de \"existe x tal que P(x)\" é \"para todo x, não P(x)\": se nenhum caso particular satisfaz a condição, então nenhum satisfaz — as duas formas, \"não existe\" e \"para todo, não\", dizem exatamente a mesma coisa. A alternativa (b) comete o erro clássico de trocar apenas o \"existe...=\" por \"existe...≠\", mantendo o quantificador existencial, o que não é uma negação válida da proposição original.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-21",
+   "enunciado": "Sejam A o conjunto dos divisores positivos de 12 e B o conjunto dos divisores positivos de 18. O número de elementos da diferença simétrica A △ B (elementos que pertencem a exatamente um dos dois conjuntos) é:",
+   "alternativas": {
+    "a": "4",
+    "b": "6",
+    "c": "8",
+    "d": "10",
+    "e": "2"
+   },
+   "resposta": "a",
+   "explicacao": "Divisores de 12: {1,2,3,4,6,12}, 6 elementos. Divisores de 18: {1,2,3,6,9,18}, 6 elementos. Comuns: {1,2,3,6}, 4 elementos. A diferença simétrica tem |A|+|B|−2|A∩B| = 6+6−8 = 4: os elementos 4, 12, 9 e 18 pertencem a exatamente um dos dois. A alternativa (c), 8, seria |A∪B|−|A∩B|... na verdade |A∪B|=8, que é o total de elementos distintos contando UMA vez os comuns — diferente de contar só quem está em exatamente um dos dois.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-22",
+   "enunciado": "Numa pesquisa com 300 pessoas, 180 disseram gostar de rock, 150 disseram gostar de MPB e 45 disseram não gostar de nenhum dos dois gêneros. O número de pessoas que gostam dos dois gêneros ao mesmo tempo é:",
+   "alternativas": {
+    "a": "30",
+    "b": "45",
+    "c": "60",
+    "d": "75",
+    "e": "105"
+   },
+   "resposta": "d",
+   "explicacao": "Quem gosta de pelo menos um: 300 − 45 = 255. Pela fórmula da união, |A∩B| = |A|+|B|−|A∪B| = 180+150−255 = 75. A alternativa (a), 30, viria de um erro de sinal na fórmula (255−180−150=−75, e alguém \"corrige\" tirando o sinal e dividindo por algo). A (e), 105, seria 180−75 ou outra combinação sem sentido direto com a pergunta.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-24",
+   "enunciado": "Sejam as proposições p: \"8 é divisor de 24\" (verdadeira), q: \"8 é divisor de 36\" (falsa) e r: \"8 é primo\" (falsa). O valor lógico de (p ∧ ~q) ∨ r é:",
+   "alternativas": {
+    "a": "verdadeira, pois p é verdadeira e ~q também é verdadeira, o que já basta para a disjunção com r",
+    "b": "falsa, pois r é falsa e isso torna toda a disjunção falsa",
+    "c": "falsa, pois p ∧ ~q é falsa",
+    "d": "verdadeira apenas se r fosse também verdadeira",
+    "e": "indeterminada, pois depende de convenção sobre primalidade de 8"
+   },
+   "resposta": "a",
+   "explicacao": "~q é verdadeira, pois q é falsa. p ∧ ~q: verdadeira e verdadeira, logo verdadeira. Numa disjunção, basta um lado ser verdadeiro para o todo ser verdadeiro — não importa que r seja falsa. A alternativa (b) erra a regra da disjunção, tratando-a como se fosse uma conjunção, em que todos os termos precisariam ser verdadeiros.",
+   "formato": "direta",
+   "origem": "engenharia"
+  }
+ ],
+ "matematica-complexos": [
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-01",
+   "enunciado": "O valor de i²⁰²⁶, sendo i a unidade imaginária (i² = −1), é:",
+   "alternativas": {
+    "a": "i",
+    "b": "−i",
+    "c": "2026",
+    "d": "1",
+    "e": "−1"
+   },
+   "resposta": "e",
+   "explicacao": "As potências de i se repetem em ciclo de 4: i¹=i, i²=−1, i³=−i, i⁴=1. Para achar i²⁰²⁶, divide-se 2026 por 4: 2026 = 4×506 + 2, resto 2. Logo i²⁰²⁶ = i² = −1. A alternativa (d) usaria resto 0 (como se 2026 fosse múltiplo de 4), e a (a) usaria resto 1.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-02",
+   "enunciado": "Sejam z₁ = 3 − 2i e z₂ = −1 + 4i. O valor de z₁ · z₂ é:",
+   "alternativas": {
+    "a": "−3 − 8i",
+    "b": "2 + 2i",
+    "c": "−11 + 10i",
+    "d": "5 − 14i",
+    "e": "5 + 14i"
+   },
+   "resposta": "e",
+   "explicacao": "z₁·z₂ = (3)(−1) + (3)(4i) + (−2i)(−1) + (−2i)(4i) = −3 + 12i + 2i − 8i² = −3 + 14i + 8 = 5 + 14i (usando i² = −1). A alternativa (b), 2 + 2i, é na verdade z₁ + z₂, não o produto. A (a) esquece o termo −8i² = +8 e multiplica só os termos \"de fora\".",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-03",
+   "enunciado": "O resultado da divisão (5 + i) / (2 − 3i), na forma a + bi, é:",
+   "alternativas": {
+    "a": "(13 + 17i)/7",
+    "b": "(10 − 3i)/13",
+    "c": "(5 + i)/5",
+    "d": "(7 + 17i)/13",
+    "e": "(7 − 17i)/13"
+   },
+   "resposta": "d",
+   "explicacao": "Multiplica-se numerador e denominador pelo conjugado do denominador, 2+3i: (5+i)(2+3i) = 10+15i+2i+3i² = 10+17i−3 = 7+17i. O denominador vira (2−3i)(2+3i) = 4+9 = 13. Resultado: (7+17i)/13. A alternativa (b) multiplica errado, tratando a divisão como se fosse aplicada só às partes reais e imaginárias separadamente.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-04",
+   "enunciado": "O módulo do número complexo z = −5 + 12i é:",
+   "alternativas": {
+    "a": "7",
+    "b": "17",
+    "c": "13",
+    "d": "√119",
+    "e": "√7"
+   },
+   "resposta": "c",
+   "explicacao": "|z| = √((−5)² + 12²) = √(25 + 144) = √169 = 13. A alternativa (a), 7, seria |−5| + |... um erro de somar os módulos das partes em vez de somar os quadrados. A (b), 17, soma 5+12 diretamente, tratando o módulo como soma das partes.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-05",
+   "enunciado": "Se z = 4 − 3i, o produto z · z̄ (z pelo seu conjugado) é igual a:",
+   "alternativas": {
+    "a": "7",
+    "b": "25 − 24i",
+    "c": "−25",
+    "d": "7 − 24i",
+    "e": "25"
+   },
+   "resposta": "e",
+   "explicacao": "z · z̄ = (4−3i)(4+3i) = 16 − 9i² = 16 + 9 = 25 — sempre um número real, igual a |z|². A alternativa (b) trata o produto como uma multiplicação comum sem cancelar a parte imaginária, esquecendo que z e z̄ formam produto notável (a−b)(a+b).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-06",
+   "enunciado": "As raízes complexas da equação x² − 4x + 13 = 0 são:",
+   "alternativas": {
+    "a": "2 ± 6i",
+    "b": "−2 ± 3i",
+    "c": "2 ± 9i",
+    "d": "2 ± 3i",
+    "e": "4 ± 3i"
+   },
+   "resposta": "d",
+   "explicacao": "Δ = (−4)² − 4(1)(13) = 16 − 52 = −36. Como Δ < 0, as raízes são complexas: x = (4 ± √(−36))/2 = (4 ± 6i)/2 = 2 ± 3i. A alternativa (a) esquece de dividir a parte imaginária por 2, mantendo o 6i inteiro. A (e) esquece de dividir a parte real (4) por 2.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-07",
+   "enunciado": "O número complexo z = 1 + i, na forma trigonométrica, é escrito como z = √2·(cos θ + i·sen θ), em que θ é:",
+   "alternativas": {
+    "a": "30°",
+    "b": "45°",
+    "c": "60°",
+    "d": "90°",
+    "e": "135°"
+   },
+   "resposta": "b",
+   "explicacao": "|z| = √(1²+1²) = √2. O argumento θ satisfaz cos θ = 1/√2 e sen θ = 1/√2, o que ocorre em θ = 45°, no primeiro quadrante (parte real e imaginária positivas). A alternativa (e), 135°, seria o argumento de −1+i, que tem a mesma forma mas parte real negativa.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-08",
+   "enunciado": "O argumento do número complexo z = −√3 + i, no intervalo [0°, 360°), é:",
+   "alternativas": {
+    "a": "30°",
+    "b": "150°",
+    "c": "210°",
+    "d": "330°",
+    "e": "60°"
+   },
+   "resposta": "b",
+   "explicacao": "|z| = √(3+1) = 2. cos θ = −√3/2 e sen θ = 1/2: segundo quadrante (parte real negativa, imaginária positiva), θ = 150°. A alternativa (a), 30°, é o ângulo de referência sem levar em conta o quadrante — erro comum de esquecer que a parte real é negativa.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-11",
+   "enunciado": "Se z = 2(cos30° + i sen30°), o valor de z⁶, na forma algébrica, é:",
+   "alternativas": {
+    "a": "−12",
+    "b": "12i",
+    "c": "−64i",
+    "d": "−64",
+    "e": "64"
+   },
+   "resposta": "d",
+   "explicacao": "Pelo teorema de De Moivre, zⁿ = |z|ⁿ (cos(nθ) + i sen(nθ)). Aqui, |z|⁶ = 2⁶ = 64 e o argumento vira 6×30° = 180°. Então z⁶ = 64(cos180°+isen180°) = 64(−1+0i) = −64. A alternativa (a), −12, multiplica o módulo por n (2×6=12) em vez de elevar à sexta potência — erro clássico de confundir potenciação com multiplicação linear.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-12",
+   "enunciado": "O valor de (1 + i)⁸ é:",
+   "alternativas": {
+    "a": "16",
+    "b": "256",
+    "c": "16i",
+    "d": "−16",
+    "e": "8"
+   },
+   "resposta": "a",
+   "explicacao": "1+i tem módulo √2 e argumento 45°. Por De Moivre, (1+i)⁸ tem módulo (√2)⁸ = 2⁴ = 16 e argumento 8×45° = 360°, que equivale a 0°. Logo (1+i)⁸ = 16(cos0°+isen0°) = 16. A alternativa (b), 256, calcula (√2)⁸ errado, como se a base fosse 2 em vez de √2 (2⁸=256).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-14",
+   "enunciado": "A soma das três raízes cúbicas complexas da unidade (isto é, dos três números z tais que z³ = 1) é:",
+   "alternativas": {
+    "a": "0",
+    "b": "1",
+    "c": "3",
+    "d": "i",
+    "e": "−1"
+   },
+   "resposta": "a",
+   "explicacao": "As três raízes têm módulo 1 e argumentos 0°, 120° e 240°: são 1, (−1+i√3)/2 e (−1−i√3)/2. Somando as partes reais: 1 + (−1/2) + (−1/2) = 0. Somando as partes imaginárias: 0 + √3/2 − √3/2 = 0. A soma total é 0 — resultado geral de que a soma das n raízes n-ésimas de qualquer número (para n≥2) é sempre zero, consequência das relações de Girard aplicadas a xⁿ−1=0.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-15",
+   "enunciado": "O número de raízes complexas distintas da equação z⁵ = 32 é:",
+   "alternativas": {
+    "a": "1",
+    "b": "2",
+    "c": "5",
+    "d": "32",
+    "e": "infinitas"
+   },
+   "resposta": "c",
+   "explicacao": "Para todo número complexo não nulo w e todo n natural, a equação zⁿ = w tem exatamente n raízes complexas distintas, igualmente espaçadas por um ângulo de 360°/n no plano de Argand-Gauss. Aqui n=5, logo há exatamente 5 raízes. A alternativa (a) confunde com o caso das equações reais, em que às vezes existe só uma raiz real — mas no universo complexo, o total é sempre n.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-16",
+   "enunciado": "Todas as raízes complexas da equação z⁴ = −16 têm módulo igual a:",
+   "alternativas": {
+    "a": "2",
+    "b": "4",
+    "c": "16",
+    "d": "−2",
+    "e": "√2"
+   },
+   "resposta": "a",
+   "explicacao": "O módulo de −16 é 16. O módulo de cada raiz z é a raiz quarta real e positiva do módulo: ⁴√16 = 2. Todas as 4 raízes ficam sobre a circunferência de raio 2 no plano de Argand-Gauss, separadas por 90° entre si. A alternativa (b), 4, seria a raiz quadrada de 16, usando n=2 em vez de n=4.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-21",
+   "enunciado": "Se o argumento de z é 70°, o argumento de z̄ (conjugado de z), no intervalo [0°, 360°), é:",
+   "alternativas": {
+    "a": "70°",
+    "b": "−70°",
+    "c": "110°",
+    "d": "290°",
+    "e": "180°"
+   },
+   "resposta": "d",
+   "explicacao": "O conjugado de z reflete o ponto em relação ao eixo real, o que inverte o sinal do argumento: de 70° para −70°. Para expressar no intervalo [0°,360°), soma-se 360°: −70°+360°=290°. A alternativa (a) esquece que conjugar muda o argumento, mantendo o mesmo valor.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-22",
+   "enunciado": "O número complexo z = 4(cos120° + i sen120°), escrito na forma algébrica a + bi, é:",
+   "alternativas": {
+    "a": "−2√3 + 2i",
+    "b": "4 − 4i",
+    "c": "−2 − 2√3 i",
+    "d": "−2 + 2√3 i",
+    "e": "2 + 2√3 i"
+   },
+   "resposta": "d",
+   "explicacao": "cos120° = −1/2 e sen120° = √3/2. Logo z = 4·(−1/2) + 4·(√3/2)i = −2 + 2√3 i. A alternativa (e) erra o sinal da parte real, esquecendo que 120° está no segundo quadrante, onde o cosseno é negativo.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-23",
+   "enunciado": "O valor de 6/(3i), na forma a + bi, é:",
+   "alternativas": {
+    "a": "2i",
+    "b": "−2i",
+    "c": "2",
+    "d": "−2",
+    "e": "3i"
+   },
+   "resposta": "b",
+   "explicacao": "Multiplicando numerador e denominador por i: 6/(3i) = 6i/(3i²) = 6i/(−3) = −2i. A alternativa (a) erra o sinal, esquecendo que i² = −1 no denominador inverte o sinal do resultado final.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-complexos-24",
+   "enunciado": "Se z = 7 − 5i, o valor de z + z̄ é:",
+   "alternativas": {
+    "a": "0",
+    "b": "7",
+    "c": "14",
+    "d": "−10i",
+    "e": "14 − 10i"
+   },
+   "resposta": "c",
+   "explicacao": "z + z̄ = (7−5i) + (7+5i) = 14 + 0i = 14: a soma de um complexo com seu conjugado sempre cancela a parte imaginária e dobra a parte real, resultando em 2·Re(z). A alternativa (d), −10i, é o resultado de z − z̄, não de z + z̄ — os dois costumam ser trocados.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-polinomios-11",
+   "enunciado": "Pelo Teorema Fundamental da Álgebra, um polinômio de grau 7 com coeficientes complexos tem, contando as multiplicidades, exatamente:",
+   "alternativas": {
+    "a": "7 raízes reais",
+    "b": "entre 1 e 7 raízes, dependendo do polinômio",
+    "c": "14 raízes, reais e complexas somadas",
+    "d": "7 raízes complexas",
+    "e": "no máximo 7 raízes reais"
+   },
+   "resposta": "d",
+   "explicacao": "O Teorema Fundamental da Álgebra garante que todo polinômio de grau n, com coeficientes complexos, tem exatamente n raízes complexas, contadas com multiplicidade — as raízes reais são um caso particular das complexas (parte imaginária nula). A alternativa (e) restringe indevidamente à reta real, quando o teorema fala do conjunto dos complexos como um todo.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-polinomios-15",
+   "enunciado": "Um polinômio p(x) com coeficientes reais e grau 4 tem 2 + 3i como uma de suas raízes. Isso garante que também é raiz de p(x):",
+   "alternativas": {
+    "a": "−2 − 3i",
+    "b": "3 + 2i",
+    "c": "nenhum outro valor é garantido",
+    "d": "2 − 3i",
+    "e": "−2 + 3i"
+   },
+   "resposta": "d",
+   "explicacao": "Em polinômios de coeficientes reais, as raízes complexas sempre aparecem em pares conjugados: se a+bi é raiz, a−bi também é. Aqui, o conjugado de 2+3i é 2−3i. A alternativa (e), −2+3i, troca o sinal da parte errada (a real em vez da imaginária) — não é o conjugado, é outro número diferente sem garantia nenhuma de ser raiz.",
+   "formato": "direta",
+   "origem": "engenharia"
+  }
+ ],
+ "matematica-polinomios": [
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-01",
+   "enunciado": "O resto da divisão do polinômio p(x) = x³ − 3x² + 2x + 5 por (x − 2) é:",
+   "alternativas": {
+    "a": "9",
+    "b": "5",
+    "c": "1",
+    "d": "−5",
+    "e": "0"
+   },
+   "resposta": "b",
+   "explicacao": "Pelo teorema do resto (D'Alembert), o resto da divisão de p(x) por (x−a) é p(b). Aqui, p(2) = 2³ − 3·2² + 2·2 + 5 = 8 − 12 + 4 + 5 = 5. A alternativa (e), 0, valeria se 2 fosse raiz de p(x), o que não é o caso — calcular esse valor é justamente o que decide se (x−2) divide p(x) exatamente ou não.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-02",
+   "enunciado": "O resto da divisão de p(x) = 2x³ − 5x + 3 por (x + 1) é:",
+   "alternativas": {
+    "a": "4",
+    "b": "6",
+    "c": "0",
+    "d": "10",
+    "e": "−4"
+   },
+   "resposta": "b",
+   "explicacao": "A divisão por (x+1) equivale a (x−(−1)), então o resto é p(−1) = 2(−1)³ − 5(−1) + 3 = −2 + 5 + 3 = 6. A alternativa (e) troca o sinal ao substituir x por −1, um erro comum de avaliar p(1) em vez de p(−1), ou de errar o sinal do termo cúbico.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-04",
+   "enunciado": "Ao dividir um polinômio de grau 5 por um polinômio de grau 2, o grau do quociente obtido é:",
+   "alternativas": {
+    "a": "2",
+    "b": "3",
+    "c": "5",
+    "d": "7",
+    "e": "2,5"
+   },
+   "resposta": "b",
+   "explicacao": "No algoritmo da divisão de polinômios, o grau do quociente é a diferença entre o grau do dividendo e o grau do divisor: 5 − 2 = 3. A alternativa (d), 7, soma os graus em vez de subtrair — confusão com a regra do produto de polinômios, em que os graus se somam.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-05",
+   "enunciado": "As raízes da equação x² − 7x + 10 = 0 têm soma e produto, respectivamente, iguais a:",
+   "alternativas": {
+    "a": "10 e 7",
+    "b": "7 e 10",
+    "c": "−7 e 10",
+    "d": "7 e −10",
+    "e": "−7 e −10"
+   },
+   "resposta": "b",
+   "explicacao": "Para ax²+bx+c=0, a soma das raízes é −b/a e o produto é c/a. Aqui, soma = −(−7)/1 = 7 e produto = 10/1 = 10. A alternativa (c) erra o sinal da soma, esquecendo o sinal negativo já embutido na fórmula −b/a quando b já é negativo (dois negativos cancelam).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-06",
+   "enunciado": "Sabendo que 1, 2 e 3 são as três raízes do polinômio p(x) = x³ − 6x² + 11x − 6, a soma dos produtos das raízes tomadas duas a duas (1·2 + 1·3 + 2·3) deveria ser igual ao coeficiente de p(x) indicado pelas relações de Girard como:",
+   "alternativas": {
+    "a": "o coeficiente de x², com sinal trocado",
+    "b": "o coeficiente de x², com o mesmo sinal",
+    "c": "o coeficiente de x, com o mesmo sinal",
+    "d": "o coeficiente de x, com sinal trocado",
+    "e": "o termo independente, com o mesmo sinal"
+   },
+   "resposta": "c",
+   "explicacao": "Nas relações de Girard para ax³+bx²+cx+d=0, a soma dos produtos das raízes duas a duas é c/a — aqui, o próprio coeficiente de x (c=11), dividido por a=1, sem troca de sinal. Conferindo: 1·2+1·3+2·3 = 2+3+6 = 11, que bate com o coeficiente de x. A troca de sinal (−b/a) vale para a SOMA das raízes, não para a soma dos produtos dois a dois — é aí que mora a confusão mais comum.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-07",
+   "enunciado": "O produto das três raízes da equação 2x³ + 3x² − 11x − 6 = 0 é:",
+   "alternativas": {
+    "a": "−6",
+    "b": "11/2",
+    "c": "3",
+    "d": "−3",
+    "e": "6"
+   },
+   "resposta": "c",
+   "explicacao": "Para ax³+bx²+cx+d=0, o produto das raízes é −d/a. Aqui, −(−6)/2 = 6/2 = 3. A alternativa (e), 6, esquece de dividir por a=2, usando só −d. A (d) erra o sinal, esquecendo o sinal negativo da fórmula −d/a quando d já é negativo.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-08",
+   "enunciado": "O polinômio p(x) = x⁴ − 10x³ + 35x² − 50x + 24 tem raízes 1, 2, 3 e 4. A soma dessas quatro raízes é:",
+   "alternativas": {
+    "a": "35",
+    "b": "50",
+    "c": "10",
+    "d": "−10",
+    "e": "24"
+   },
+   "resposta": "c",
+   "explicacao": "Para x⁴+bx³+cx²+dx+e=0 (coeficiente líder 1), a soma das raízes é −b. Aqui b=−10, logo a soma é −(−10)=10. Conferindo diretamente: 1+2+3+4=10. A alternativa (e), 24, é o termo independente (produto das raízes com o sinal ajustado para grau par), não a soma.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-09",
+   "enunciado": "Sabendo que 1 é raiz do polinômio p(x) = x³ − 2x² − 5x + 6, as outras duas raízes são:",
+   "alternativas": {
+    "a": "−3 e −2",
+    "b": "6 e −1",
+    "c": "3 e −2",
+    "d": "−3 e 2",
+    "e": "3 e 2"
+   },
+   "resposta": "c",
+   "explicacao": "Dividindo p(x) por (x−1), obtém-se o quociente x²−x−6, cujas raízes vêm da soma −(−1)=1 e produto −6: são 3 e −2 (3+(−2)=1 e 3×(−2)=−6). Conferindo em p(x): p(3)=27−18−15+6=0 e p(−2)=−8−8+10+6=0. A alternativa (e), 3 e 2, erra o sinal de uma das raízes ao resolver o quociente do segundo grau.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-10",
+   "enunciado": "O polinômio p(x) = x⁴ − x³ − 7x² + x + 6 tem −1 como uma de suas raízes. Dividindo p(x) por (x + 1), o polinômio quociente obtido é:",
+   "alternativas": {
+    "a": "x³ − x² − 7x + 1",
+    "b": "x³ − 2x² − 5x − 6",
+    "c": "x³ − 2x² − 5x + 6",
+    "d": "x³ + 2x² − 5x + 6",
+    "e": "x³ − 2x² + 5x − 6"
+   },
+   "resposta": "c",
+   "explicacao": "Dividindo x⁴−x³−7x²+x+6 por (x+1) pelo dispositivo de Briot-Ruffini com raiz −1: os coeficientes 1,−1,−7,1,6 geram, passo a passo, 1, −1−1=−2, −7+2=−5, 1+5=6, e resto 6−6=0. O quociente é x³−2x²−5x+6. A alternativa (b) erra apenas o sinal do termo independente do quociente, um deslize comum na última operação do dispositivo.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-12",
+   "enunciado": "Um polinômio p(x) deixa resto 5 quando dividido por (x − 1) e resto 9 quando dividido por (x − 3). Sabendo que o resto da divisão de p(x) por (x − 1)(x − 3) é da forma ax + b, os valores de a e b são:",
+   "alternativas": {
+    "a": "a = 2 e b = 7",
+    "b": "a = 1 e b = 4",
+    "c": "a = 3 e b = 2",
+    "d": "a = 2 e b = 3",
+    "e": "a = 4 e b = 1"
+   },
+   "resposta": "d",
+   "explicacao": "Como p(1)=5 e p(3)=9, e o resto r(x)=ax+b satisfaz r(1)=p(1) e r(3)=p(3) (propriedade do resto por um divisor de grau 2): a+b=5 e 3a+b=9. Subtraindo a primeira da segunda: 2a=4, a=2; substituindo, b=3. Confirma-se: r(1)=2+3=5 ✓ e r(3)=6+3=9 ✓. A alternativa (b) troca os papéis de a e b.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-13",
+   "enunciado": "A raiz x = 2 do polinômio p(x) = x³ − 3x² + 4 tem multiplicidade 2 (isto é, (x−2)² divide p(x) exatamente). Isso significa que:",
+   "alternativas": {
+    "a": "x=2 não é, de fato, raiz de p(x)",
+    "b": "p(x) tem apenas uma raiz real no total",
+    "c": "a equação p(x)=0 não tem solução real",
+    "d": "o gráfico de p(x) tangencia o eixo x em x=2, sem cruzá-lo nesse ponto",
+    "e": "o gráfico de p(x) cruza o eixo x em x=2 com inclinação máxima"
+   },
+   "resposta": "d",
+   "explicacao": "Uma raiz de multiplicidade par (como 2) faz o gráfico do polinômio tocar o eixo x nesse ponto e \"voltar\", sem atravessá-lo — o gráfico tangencia o eixo. Já uma raiz de multiplicidade ímpar (1, 3, ...) faz o gráfico cruzar o eixo de fato. Aqui, a terceira raiz de p(x) é x=−1, de multiplicidade 1, onde o gráfico cruza normalmente.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-14",
+   "enunciado": "Um polinômio de grau 4 com coeficientes reais tem a raiz 3 com multiplicidade 3 e mais uma raiz real simples. O número total de raízes distintas desse polinômio é:",
+   "alternativas": {
+    "a": "3",
+    "b": "1",
+    "c": "7",
+    "d": "2",
+    "e": "4"
+   },
+   "resposta": "d",
+   "explicacao": "Contando multiplicidade, o total de raízes é 4 (compatível com o grau), mas raízes DISTINTAS são apenas duas: o valor 3 (contado três vezes) e o outro valor real simples. A alternativa (e), 4, confunde \"raízes contadas com multiplicidade\" com \"raízes distintas\" — a pergunta pede especificamente o segundo.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-16",
+   "enunciado": "O polinômio quadrático de coeficientes reais e coeficiente líder 1 que tem 2 + 3i e 2 − 3i como raízes é:",
+   "alternativas": {
+    "a": "x² + 4x + 13",
+    "b": "x² − 4x − 5",
+    "c": "x² − 4x + 5",
+    "d": "x² − 13x + 4",
+    "e": "x² − 4x + 13"
+   },
+   "resposta": "e",
+   "explicacao": "Soma das raízes: (2+3i)+(2−3i)=4. Produto: (2+3i)(2−3i)=2²−(3i)²=4−9i²=4+9=13. O polinômio é x² − (soma)x + (produto) = x² − 4x + 13. A alternativa (c), x²−4x+5, erra o produto ao calcular 2²+3² separadamente sem reconhecer o produto notável (a+bi)(a−bi)=a²+b².",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-17",
+   "enunciado": "Considere o polinômio p(x) = 2x³ − 3x² − 11x + 6, com coeficientes inteiros. Pelo teorema das raízes racionais, uma possível raiz racional p/q (fração irredutível) deve ter p como divisor de:",
+   "alternativas": {
+    "a": "2 (o coeficiente líder), e q como divisor de 6 (o termo independente)",
+    "b": "qualquer número inteiro, sem restrição",
+    "c": "3 (o coeficiente de x²)",
+    "d": "11 (o coeficiente de x)",
+    "e": "6 (o termo independente), e q como divisor de 2 (o coeficiente líder)"
+   },
+   "resposta": "e",
+   "explicacao": "O teorema das raízes racionais afirma que, se p/q (irredutível) é raiz de um polinômio de coeficientes inteiros, p divide o termo independente e q divide o coeficiente líder. Aqui, p divide 6 (podendo ser ±1,±2,±3,±6) e q divide 2 (podendo ser ±1,±2). A alternativa (a) troca os papéis: usa o coeficiente líder para restringir o numerador e o termo independente para o denominador, invertendo a regra.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-18",
+   "enunciado": "Entre os candidatos a raiz racional do polinômio p(x) = 2x³ − 3x² − 11x + 6 fornecidos pelo teorema das raízes racionais, a que de fato é raiz é:",
+   "alternativas": {
+    "a": "6",
+    "b": "1",
+    "c": "2",
+    "d": "−1",
+    "e": "3"
+   },
+   "resposta": "e",
+   "explicacao": "Testando os candidatos (divisores de 6 sobre divisores de 2): p(3) = 2(27) − 3(9) − 11(3) + 6 = 54 − 27 − 33 + 6 = 0. Logo 3 é raiz. Testando (c): p(2) = 16 − 12 − 22 + 6 = −12 ≠ 0 — 2 é candidato válido pela forma da fração mas não raiz de fato: o teorema restringe os candidatos, não garante que todos funcionem.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-19",
+   "enunciado": "O polinômio p(x) = x³ − 2 tem uma única raiz real, ∛2, que é um número irracional. Isso é compatível com o teorema das raízes racionais porque:",
+   "alternativas": {
+    "a": "o teorema garante que todo polinômio de coeficientes inteiros tem ao menos uma raiz racional",
+    "b": "o teorema não se aplica a polinômios de grau ímpar",
+    "c": "p(x) = x³ − 2 não tem coeficientes inteiros",
+    "d": "o teorema garante que ∛2 é, na verdade, racional",
+    "e": "o teorema só afirma quais números PODEM ser raízes racionais, sem garantir que o polinômio tenha alguma raiz racional"
+   },
+   "resposta": "e",
+   "explicacao": "O teorema das raízes racionais é uma condição NECESSÁRIA (restringe os candidatos), não uma condição de existência: ele lista quais frações p/q PODERIAM ser raízes, mas não garante que alguma delas de fato seja. Para p(x)=x³−2, os únicos candidatos racionais são ±1 e ±2 (divisores de 2 sobre divisores de 1), e nenhum deles satisfaz p(x)=0 — coerente com a raiz real ser irracional.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-20",
+   "enunciado": "Para o polinômio p(x) = 3x² − 5x − 2, com coeficientes inteiros, o número de candidatos a raiz racional positivos fornecidos pelo teorema das raízes racionais (frações p/q irredutíveis, com p divisor de 2 e q divisor de 3) é:",
+   "alternativas": {
+    "a": "2",
+    "b": "6",
+    "c": "8",
+    "d": "3",
+    "e": "4"
+   },
+   "resposta": "e",
+   "explicacao": "Divisores positivos de 2 (termo independente): 1, 2. Divisores positivos de 3 (coeficiente líder): 1, 3. As frações irredutíveis possíveis são 1/1, 2/1, 1/3, 2/3 — quatro candidatos distintos. A alternativa (b), 6, contaria o produto 2×3 sem descartar frações redundantes ou não irredutíveis que poderiam coincidir.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-21",
+   "enunciado": "Um polinômio do segundo grau ax² + bx + c, com a, b e c todos positivos, tem duas raízes reais. Sobre o sinal dessas raízes, é correto afirmar que:",
+   "alternativas": {
+    "a": "as duas raízes são negativas, pois a soma −b/a é negativa e o produto c/a é positivo",
+    "b": "as duas raízes são positivas",
+    "c": "uma raiz é positiva e a outra é negativa",
+    "d": "não é possível determinar o sinal das raízes só com essa informação",
+    "e": "as duas raízes são nulas"
+   },
+   "resposta": "a",
+   "explicacao": "Soma das raízes = −b/a: com a e b positivos, a soma é negativa. Produto das raízes = c/a: com a e c positivos, o produto é positivo. Duas raízes reais com produto positivo têm o mesmo sinal; como a soma delas é negativa, as duas são negativas. A alternativa (c) erraria supondo sinais opostos, o que só ocorreria se o produto c/a fosse negativo.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-23",
+   "enunciado": "Sendo r₁ e r₂ as raízes de x² − 5x + 6 = 0, o valor de 1/r₁ + 1/r₂ é:",
+   "alternativas": {
+    "a": "5/6",
+    "b": "6/5",
+    "c": "5",
+    "d": "1/6",
+    "e": "−5/6"
+   },
+   "resposta": "a",
+   "explicacao": "1/r₁ + 1/r₂ = (r₁+r₂)/(r₁·r₂). Pelas relações de Girard, soma = 5 e produto = 6. Logo 1/r₁+1/r₂ = 5/6. Conferindo com as raízes reais 2 e 3: 1/2+1/3 = 3/6+2/6 = 5/6 ✓. A alternativa (b), 6/5, inverte a fração ao trocar numerador e denominador — soma sobre produto vira produto sobre soma por engano.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-polinomios-25",
+   "enunciado": "Se x = a é raiz dupla de p(x), isto é, p(x) = (x−a)²·q(x) com q(a) ≠ 0, então necessariamente:",
+   "alternativas": {
+    "a": "p(a) = 0",
+    "b": "q(x) também tem a como raiz",
+    "c": "p(x) não pode ser fatorado nenhuma outra vez",
+    "d": "p(x) tem grau exatamente 2",
+    "e": "a é a única raiz real de p(x)"
+   },
+   "resposta": "a",
+   "explicacao": "Se p(x) = (x−a)²·q(x), substituindo x=a: p(a) = (a−a)²·q(a) = 0·q(a) = 0 — a é raiz, garantido diretamente pela fatoração. A alternativa (b) contraria a própria definição dada no enunciado, que já estabelece q(a)≠0: se q também tivesse a como raiz, a multiplicidade de a em p(x) seria maior que 2, não igual a 2.",
+   "formato": "direta",
+   "origem": "engenharia"
   }
  ],
  "interpretacao-argumentacao": [
@@ -86084,23 +87290,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-termologia",
-   "id": "med-fisica-111",
-   "texto_apoio": "Um forno de micro-ondas aquece alimentos emitindo radiação numa frequência que faz as moléculas de água girarem rapidamente. Recipientes de vidro e cerâmica secos não se aquecem de forma apreciável no processo.",
-   "enunciado": "O aquecimento seletivo observado ocorre porque a radiação do forno:",
-   "alternativas": {
-    "a": "aquece diretamente o ar no interior da cavidade, e o calor se transmite ao alimento por convecção a partir das camadas mais externas dele",
-    "b": "possui energia por fóton suficiente para romper as ligações químicas dos alimentos, o que libera calor durante a reorganização das moléculas",
-    "c": "é absorvida preferencialmente por moléculas polares, como a água presente no alimento",
-    "d": "é refletida pelas paredes metálicas e concentrada no centro do forno, região em que a temperatura se eleva independentemente do material presente",
-    "e": "ioniza os átomos do alimento e produz elétrons livres, cuja movimentação desordenada corresponde ao aumento de temperatura registrado"
-   },
-   "resposta": "c",
-   "explicacao": "A molécula de água é polar e tenta se alinhar ao campo elétrico oscilante da micro-onda; a agitação resultante é o próprio aquecimento. Vidro e cerâmica secos, sem moléculas polares móveis, quase não absorvem. A radiação é não ionizante, o que descarta (e).",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-termologia",
    "id": "med-fisica-117",
    "texto_apoio": "Um recipiente de vidro é preenchido completamente com um líquido e aquecido. Observa-se que parte do líquido transborda, embora o recipiente também tenha se dilatado.",
    "enunciado": "O volume de líquido que transborda corresponde à dilatação:",
@@ -87113,23 +88302,6 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A pressão atmosférica cai com a altitude, e a pressão interna do balão passa a superar a externa, empurrando o envelope para fora. O efeito da pressão supera largamente o da temperatura, que aliás diminui na troposfera e sozinha reduziria o volume.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-mecanica",
-   "id": "med-fisica-76",
-   "texto_apoio": "Segundo a teoria da relatividade restrita, o intervalo de tempo medido entre dois eventos depende do estado de movimento do observador. Relógios atômicos embarcados em satélites do sistema de posicionamento global precisam de correção diária.",
-   "enunciado": "A necessidade dessa correção mostra que efeitos relativísticos:",
-   "alternativas": {
-    "a": "resultam de imprecisões dos instrumentos de medida, que se acumulam ao longo do tempo e exigem recalibração periódica dos equipamentos",
-    "b": "só se manifestam em velocidades muito próximas à da luz, condição jamais atingida por qualquer objeto construído pela engenharia humana",
-    "c": "afetam exclusivamente partículas subatômicas em aceleradores, sem qualquer repercussão sobre instrumentos de escala macroscópica utilizados",
-    "d": "têm consequências práticas mensuráveis em tecnologias de uso cotidiano, já que sem a correção o erro de posicionamento cresceria a cada dia",
-    "e": "contradizem as leis da mecânica clássica em todas as escalas, o que torna inválido o uso das equações de Newton em qualquer aplicação prática"
-   },
-   "resposta": "d",
-   "explicacao": "Sem as correções relativísticas — tanto a da velocidade orbital quanto a do campo gravitacional mais fraco em altitude —, o erro de posicionamento acumularia vários quilômetros por dia. A alternativa (e) exagera: a mecânica newtoniana continua válida como aproximação em baixas velocidades.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -88659,6 +89831,70 @@ window.QUESTION_BANKS = {
    "explicacao": "A velocidade escalar média é v=d/t=13km/(26/60 h)=13×60/26=30 km/h.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "eng-fismoderna-01",
+   "enunciado": "Uma nave se move com velocidade v = 0,6c em relação à Terra. Um relógio a bordo da nave marca um intervalo de tempo de 10 s entre dois eventos que ocorrem no mesmo ponto da nave. O intervalo de tempo medido por um observador na Terra, para os mesmos dois eventos, é de:",
+   "alternativas": {
+    "a": "6 s",
+    "b": "8 s",
+    "c": "10 s",
+    "d": "12,5 s",
+    "e": "16,7 s"
+   },
+   "resposta": "d",
+   "explicacao": "O tempo próprio (Δt₀=10 s) é o medido no referencial em que os dois eventos ocorrem no mesmo lugar — o da nave. Para o observador na Terra, esse intervalo se dilata: Δt = γ·Δt₀, com γ = 1/√(1−0,6²) = 1/√0,64 = 1/0,8 = 1,25. Logo Δt = 1,25×10 = 12,5 s. A alternativa (a), 6 s, inverte a fórmula (multiplica por 1/γ em vez de γ), como se o tempo se contraísse em vez de dilatar.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "eng-fismoderna-02",
+   "enunciado": "Um múon instável, em repouso, tem vida média de 6 μs (tempo próprio). Produzido na alta atmosfera com velocidade v = 0,8c em relação à Terra, sua vida média medida por um observador terrestre é de:",
+   "alternativas": {
+    "a": "3,6 μs",
+    "b": "4,8 μs",
+    "c": "6 μs",
+    "d": "10 μs",
+    "e": "15 μs"
+   },
+   "resposta": "d",
+   "explicacao": "γ = 1/√(1−0,8²) = 1/√0,36 = 1/0,6 = 5/3. O tempo medido na Terra é dilatado: Δt = γ·Δt₀ = (5/3)×6 = 10 μs. É esse efeito — a vida média do múon \"esticada\" do ponto de vista terrestre — que explica por que múons produzidos a dezenas de km de altitude conseguem chegar à superfície antes de decair. A alternativa (b), 4,8 μs, usa 1/γ = 0,6 em vez de γ, contraindo o tempo em vez de dilatar.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "eng-fismoderna-05",
+   "enunciado": "Uma régua tem 15 m de comprimento próprio. Movendo-se com v = 0,8c em relação a um observador, o comprimento dessa régua medido por esse observador é de:",
+   "alternativas": {
+    "a": "25 m",
+    "b": "20 m",
+    "c": "15 m",
+    "d": "12 m",
+    "e": "9 m"
+   },
+   "resposta": "e",
+   "explicacao": "L = L₀·√(1−v²/c²). Com v=0,8c, √(1−0,64) = √0,36 = 0,6. Logo L = 15×0,6 = 9 m. A alternativa (c), 15 m, ignora completamente o efeito relativístico, como se a contração só se manifestasse acima de algum limiar de velocidade — na verdade ela ocorre em qualquer v>0, só é desprezível para v muito menor que c.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "eng-fismoderna-09",
+   "enunciado": "Numa reação nuclear, o defeito de massa (massa \"perdida\", convertida em energia) é de 3,6×10⁻²⁸ kg. Considerando c = 3,0×10⁸ m/s, a energia liberada nessa reação é de aproximadamente:",
+   "alternativas": {
+    "a": "1,08×10⁻¹⁹ J",
+    "b": "3,24×10⁻¹¹ J",
+    "c": "3,24×10⁻²⁰ J",
+    "d": "1,08×10⁻³⁵ J",
+    "e": "3,6×10⁻²⁸ J"
+   },
+   "resposta": "b",
+   "explicacao": "E = Δm·c² = 3,6×10⁻²⁸ × (3,0×10⁸)² = 3,6×10⁻²⁸ × 9,0×10¹⁶ = 3,24×10⁻¹¹ J. A alternativa (e) esquece completamente de multiplicar por c², repetindo o próprio Δm como se fosse a energia. A (a) multiplica por c em vez de c² (só uma potência, não duas).",
+   "formato": "direta",
+   "origem": "engenharia"
   }
  ],
  "fisica-ondas-optica": [
@@ -89258,23 +90494,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-ondas-optica",
-   "id": "med-fisica-79",
-   "texto_apoio": "Um átomo de hidrogênio absorve um fóton e seu elétron passa de um nível de energia mais baixo para um mais alto. Pouco depois, o elétron retorna ao nível original.",
-   "enunciado": "No retorno ao nível original, o átomo:",
-   "alternativas": {
-    "a": "libera a energia na forma de calor exclusivamente, sem qualquer emissão de radiação eletromagnética durante a transição entre os níveis",
-    "b": "emite um fóton de energia sempre maior que a do absorvido, em razão da energia adicional liberada durante o processo de reorganização eletrônica",
-    "c": "emite um fóton de energia igual à diferença entre os dois níveis",
-    "d": "perde definitivamente o elétron, que se desprende do átomo ao retornar e passa a circular livremente no meio material que o circunda",
-    "e": "emite radiação de espectro contínuo, cobrindo todas as frequências entre os limites correspondentes aos dois níveis energéticos envolvidos"
-   },
-   "resposta": "c",
-   "explicacao": "Os níveis são quantizados, e a transição libera exatamente a diferença de energia entre eles na forma de um fóton de frequência bem definida. É por isso que cada elemento tem um espectro de linhas característico, e não um espectro contínuo — o que descarta (e).",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
    "id": "med-fisica-80",
    "texto_apoio": "Um paciente é submetido a um exame de tomografia computadorizada, que usa raios X, e outro a uma ressonância magnética. A dose de radiação ionizante recebida difere muito entre os dois procedimentos.",
    "enunciado": "A radiação usada na tomografia é ______ e ______ ionizante; a usada na ressonância é ______ e ______ ionizante. As lacunas são preenchidas por:",
@@ -89683,22 +90902,6 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Multiplicar a frequência por 3 comprime o período da função cosseno por um fator 3 no eixo do tempo, o que corresponde a uma contração horizontal do gráfico.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "med-fisica-219",
-   "enunciado": "Em 1905, Albert Einstein propôs que a luz, um tipo de radiação eletromagnética, é composta por fótons, sendo que cada fóton tem energia proporcional à frequência da luz (f) e à constante de Planck (h). Nesses termos, E = hf, e a intensidade da luz é a medida da quantidade de fótons. Essa interpretação foi fundamental para o desenvolvimento da teoria quântica da luz e para explicar o efeito fotoelétrico. Esse efeito consiste em um fenômeno físico no qual elétrons são ejetados de um material, geralmente um metal, quando este é irradiado com luz cujos fótons têm energia maior que a energia de ligação do elétron ao material, também conhecida como função trabalho. Assim, quando o fóton incide sobre a superfície do material, a energia excedente transforma-se na energia cinética do elétron que escapa da superfície.\n\nEm qual das situações a seguir a energia cinética do elétron ejetado no efeito fotoelétrico aumenta?",
-   "alternativas": {
-    "a": "Aumentando a intensidade da luz incidente.",
-    "b": "Usando uma superfície maior.",
-    "c": "Aumentando a frequência da luz incidente.",
-    "d": "Usando um material com função trabalho maior.",
-    "e": "Diminuindo a energia do fóton incidente."
-   },
-   "resposta": "c",
-   "explicacao": "Pela equação do efeito fotoelétrico, a energia cinética do elétron ejetado é Ec=hf−função trabalho; aumentar a frequência f da luz incidente aumenta diretamente a energia do fóton (E=hf) e, portanto, a energia cinética do elétron ejetado.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -90151,38 +91354,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-ondas-optica",
-   "id": "med-fisica-334",
-   "enunciado": "Elétrons podem ser emitidos da superfície de um material quando nele incidir radiação eletromagnética de",
-   "alternativas": {
-    "a": "frequência suficientemente alta e o material for metálico",
-    "b": "frequência suficientemente alta e o material for dielétrico",
-    "c": "qualquer frequência, mas com intensidade suficientemente alta e o material for metálico",
-    "d": "qualquer frequência, mas com intensidade suficientemente alta e o material for dielétrico",
-    "e": "frequência da luz visível na região vermelho e qualquer intensidade se o material for de metálico"
-   },
-   "resposta": "a",
-   "explicacao": "O efeito fotoelétrico, explicado por Einstein, ocorre quando a frequência da radiação incidente é alta o suficiente para que cada fóton tenha energia superior à função trabalho do material (tipicamente metálico), independentemente da intensidade da luz.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
-   "id": "med-fisica-336",
-   "enunciado": "Um próton e um nêutron se ligam e formam um dêuteron. Nesse processo, ocorre\n\n(Considere: massa do próton = 938,2728 MeV/c²; massa do nêutron = 939,5654 MeV/c²; massa do dêuteron = 1875,6129 MeV/c²; c é a velocidade da luz.)",
-   "alternativas": {
-    "a": "emissão de um fóton de energia 2,2253 MeV",
-    "b": "absorção de um fóton de energia 2,2253 MeV",
-    "c": "emissão de um fóton de energia (2,2253 c²) MeV",
-    "d": "absorção de um fóton de energia (2,2253 c²) MeV",
-    "e": "não ocorre nem emissão nem absorção de energia"
-   },
-   "resposta": "a",
-   "explicacao": "A massa do dêuteron é menor que a soma das massas do próton e do nêutron separados (938,2728+939,5654−1875,6129=2,2253 MeV/c²); essa diferença de massa é convertida em energia liberada na forma de um fóton emitido durante a formação do núcleo (energia de ligação nuclear).",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-ondas-optica",
    "id": "med-fisica-337",
    "enunciado": "Um objeto iluminado por radiação solar é visto de cor verde.\n\nAo ser iluminado com luz monocromática vermelha, ele será visto com cor",
    "alternativas": {
@@ -90228,6 +91399,38 @@ window.QUESTION_BANKS = {
    "explicacao": "Como a velocidade da onda é maior na parte funda, o comprimento de onda também é maior lá (λ=v/f, com f constante): λ1<λ2. Pela refração, ao passar para um meio de maior velocidade, a onda se afasta da normal, aumentando o ângulo: θ1<θ2.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "eng-fismoderna-18",
+   "enunciado": "A experiência da dupla fenda, quando realizada com elétrons emitidos um de cada vez (garantindo que não há interação entre elétrons diferentes), ainda assim produz, após a passagem de muitos elétrons, um padrão de interferência no anteparo. Esse resultado é interpretado como evidência de que:",
+   "alternativas": {
+    "a": "os elétrons colidem uns com os outros mesmo sendo emitidos em instantes diferentes",
+    "b": "o aparato experimental está com defeito, pois elétrons são partículas clássicas",
+    "c": "apenas fótons apresentam dualidade onda-partícula, elétrons não",
+    "d": "o padrão de interferência desaparece quando os elétrons são emitidos um de cada vez",
+    "e": "cada elétron individual se comporta como uma onda que interfere consigo mesma ao atravessar as duas fendas"
+   },
+   "resposta": "e",
+   "explicacao": "Mesmo emitidos isoladamente, os elétrons produzem, coletivamente, o padrão de interferência característico de ondas — evidência direta de que cada elétron individual tem um comportamento ondulatório associado (consistente com λ=h/p de De Broglie), não apenas os fótons de luz. A alternativa (a) tenta uma explicação clássica (colisão entre partículas), que fica descartada justamente pelo cuidado experimental de emitir um elétron de cada vez.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "eng-fismoderna-23",
+   "enunciado": "Ao dobrar a intensidade de um feixe de luz monocromática (mantendo a mesma frequência, acima da frequência de corte) incidindo sobre uma placa metálica, o efeito sobre a energia cinética máxima dos elétrons ejetados e sobre o número de elétrons ejetados por segundo é, respectivamente:",
+   "alternativas": {
+    "a": "a energia cinética máxima não se altera; o número de elétrons ejetados por segundo dobra",
+    "b": "a energia cinética máxima dobra; o número de elétrons ejetados por segundo não se altera",
+    "c": "ambos dobram",
+    "d": "nenhum dos dois se altera",
+    "e": "a energia cinética máxima dobra; o número de elétrons também dobra"
+   },
+   "resposta": "a",
+   "explicacao": "A energia cinética máxima de cada elétron ejetado depende só da frequência da luz (Ec=hf−φ), não da intensidade: dobrar a intensidade significa dobrar o número de fótons por segundo, cada um com a mesma energia individual de antes. Mais fótons chegando por segundo ejetam mais elétrons por segundo (a corrente fotoelétrica dobra), mas a energia de cada elétron ejetado continua igual. A alternativa (b) inverte a relação correta: é a frequência, não a intensidade, que controla a energia cinética.",
+   "formato": "direta",
+   "origem": "engenharia"
   }
  ],
  "fisica-eletromagnetismo": [
@@ -90622,23 +91825,6 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Em série as tensões se somam: 4 x 1,5 = 6,0 V. Em paralelo a tensão permanece a de uma pilha, 1,5 V, mas a capacidade de fornecer corrente e a duração aumentam. É a razão de lanternas usarem pilhas em série e alguns bancos de bateria usarem paralelo.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-eletromagnetismo",
-   "id": "med-fisica-105",
-   "texto_apoio": "Um técnico compara duas radiografias feitas com a mesma máquina: uma com tempo de exposição de 0,10 s e outra com 0,20 s, mantendo os demais parâmetros idênticos.",
-   "enunciado": "Em relação à primeira, a segunda radiografia envolve:",
-   "alternativas": {
-    "a": "o quádruplo da dose, resultado que decorre da relação quadrática entre o tempo de exposição e a quantidade total de radiação absorvida",
-    "b": "a mesma dose de radiação, uma vez que a energia de cada fóton emitido pelo equipamento permanece inalterada em ambas as exposições realizadas",
-    "c": "metade da dose, porque o prolongamento do tempo permite que os fótons se distribuam por um intervalo maior e reduzam seu efeito acumulado",
-    "d": "o dobro da dose de radiação recebida pelo paciente, uma vez que o número de fótons que atingem o tecido cresce de forma linear com o tempo",
-    "e": "dose imprevisível, já que ela depende exclusivamente da espessura do tecido atravessado e não do intervalo em que o feixe permanece ligado"
-   },
-   "resposta": "d",
-   "explicacao": "A dose acumulada é proporcional ao número de fótons que atinge o tecido, e esse número cresce linearmente com o tempo de exposição. Dobrar o tempo dobra a dose. A energia por fóton depende da tensão do tubo, não do tempo — é isso que (b) confunde.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -91958,22 +93144,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-energia-trabalho",
-   "id": "med-fisica-211",
-   "enunciado": "O efeito Compton, descoberto na década de 1920, é hoje amplamente utilizado durante tratamentos radioterápicos. O efeito relaciona-se à mudança no comprimento de onda de fótons de raios X quando interagem com partículas como elétrons ou prótons, conforme ilustrado na figura a seguir.\n\nQuando um fóton com comprimento de onda λ incide sobre uma partícula, ele emerge dessa interação formando um ângulo θ com sua direção inicial de movimento, e seu novo comprimento de onda λ' é dado pela relação\n\nλ' = λ + αm(1 − cos θ),\n\nem que α é uma constante positiva e m é a massa da partícula. Com base nessas informações e em seus conhecimentos sobre a propagação das ondas eletromagnéticas, assinale a alternativa correta.",
-   "alternativas": {
-    "a": "A maior variação no comprimento de onda do fóton ocorre quando o ângulo θ é igual a 90°.",
-    "b": "Se o ângulo θ é igual a 30°, o fóton emergente tem frequência menor do que a frequência inicial.",
-    "c": "Quando θ = 0, a velocidade do fóton emergente é menor do que a do fóton incidente, devido à conservação da quantidade de movimento.",
-    "d": "Se o ângulo θ é igual a 60°, a variação no comprimento de onda do fóton é menor se a partícula for um elétron do que se a partícula for um próton.",
-    "e": "Um fóton que emergiu perpendicularmente à sua direção inicial não sofreu mudança em sua frequência."
-   },
-   "resposta": "b",
-   "explicacao": "Como λ'=λ+αm(1−cosθ), o comprimento de onda emergente é sempre maior ou igual ao incidente (λ'≥λ), logo a frequência do fóton emergente diminui para qualquer θ>0, inclusive para θ=30°.",
-   "formato": "direta",
-   "origem": "medicina"
-  },
-  {
-   "subtema": "fisica-energia-trabalho",
    "id": "med-fisica-227",
    "enunciado": "Outra bateria totalmente carregada armazena uma energia Eb = 15 Wh. Devemos elevar uma massa m = 45 kg até a altura y, em relação ao solo, para que a variação da energia potencial gravitacional Ep desse sistema mecânico seja igual à energia armazenada nessa bateria. A altura y deve ser\n\nDado: g = 10 m/s².",
    "alternativas": {
@@ -92085,6 +93255,124 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-335",
+   "enunciado": "Quatro moles de um gás cujo calor molar a volume constante é 12,5 J/(mol·K) sofreram uma transformação isocórica, isto é, mantendo volume constante, com consequente aumento de 16 °C em sua temperatura.\n\nNesse processo, a variação da energia interna desse gás foi",
+   "alternativas": {
+    "a": "400 J",
+    "b": "600 J",
+    "c": "800 J",
+    "d": "29 kJ",
+    "e": "58 kJ"
+   },
+   "resposta": "c",
+   "explicacao": "A variação de energia interna é ΔU=n×Cv×ΔT=4×12,5×16=800 J.",
+   "formato": "direta",
+   "origem": "medicina"
+  }
+ ],
+ "fisica-moderna": [
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-76",
+   "texto_apoio": "Segundo a teoria da relatividade restrita, o intervalo de tempo medido entre dois eventos depende do estado de movimento do observador. Relógios atômicos embarcados em satélites do sistema de posicionamento global precisam de correção diária.",
+   "enunciado": "A necessidade dessa correção mostra que efeitos relativísticos:",
+   "alternativas": {
+    "a": "resultam de imprecisões dos instrumentos de medida, que se acumulam ao longo do tempo e exigem recalibração periódica dos equipamentos",
+    "b": "só se manifestam em velocidades muito próximas à da luz, condição jamais atingida por qualquer objeto construído pela engenharia humana",
+    "c": "afetam exclusivamente partículas subatômicas em aceleradores, sem qualquer repercussão sobre instrumentos de escala macroscópica utilizados",
+    "d": "têm consequências práticas mensuráveis em tecnologias de uso cotidiano, já que sem a correção o erro de posicionamento cresceria a cada dia",
+    "e": "contradizem as leis da mecânica clássica em todas as escalas, o que torna inválido o uso das equações de Newton em qualquer aplicação prática"
+   },
+   "resposta": "d",
+   "explicacao": "Sem as correções relativísticas — tanto a da velocidade orbital quanto a do campo gravitacional mais fraco em altitude —, o erro de posicionamento acumularia vários quilômetros por dia. A alternativa (e) exagera: a mecânica newtoniana continua válida como aproximação em baixas velocidades.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-79",
+   "texto_apoio": "Um átomo de hidrogênio absorve um fóton e seu elétron passa de um nível de energia mais baixo para um mais alto. Pouco depois, o elétron retorna ao nível original.",
+   "enunciado": "No retorno ao nível original, o átomo:",
+   "alternativas": {
+    "a": "libera a energia na forma de calor exclusivamente, sem qualquer emissão de radiação eletromagnética durante a transição entre os níveis",
+    "b": "emite um fóton de energia sempre maior que a do absorvido, em razão da energia adicional liberada durante o processo de reorganização eletrônica",
+    "c": "emite um fóton de energia igual à diferença entre os dois níveis",
+    "d": "perde definitivamente o elétron, que se desprende do átomo ao retornar e passa a circular livremente no meio material que o circunda",
+    "e": "emite radiação de espectro contínuo, cobrindo todas as frequências entre os limites correspondentes aos dois níveis energéticos envolvidos"
+   },
+   "resposta": "c",
+   "explicacao": "Os níveis são quantizados, e a transição libera exatamente a diferença de energia entre eles na forma de um fóton de frequência bem definida. É por isso que cada elemento tem um espectro de linhas característico, e não um espectro contínuo — o que descarta (e).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-105",
+   "texto_apoio": "Um técnico compara duas radiografias feitas com a mesma máquina: uma com tempo de exposição de 0,10 s e outra com 0,20 s, mantendo os demais parâmetros idênticos.",
+   "enunciado": "Em relação à primeira, a segunda radiografia envolve:",
+   "alternativas": {
+    "a": "o quádruplo da dose, resultado que decorre da relação quadrática entre o tempo de exposição e a quantidade total de radiação absorvida",
+    "b": "a mesma dose de radiação, uma vez que a energia de cada fóton emitido pelo equipamento permanece inalterada em ambas as exposições realizadas",
+    "c": "metade da dose, porque o prolongamento do tempo permite que os fótons se distribuam por um intervalo maior e reduzam seu efeito acumulado",
+    "d": "o dobro da dose de radiação recebida pelo paciente, uma vez que o número de fótons que atingem o tecido cresce de forma linear com o tempo",
+    "e": "dose imprevisível, já que ela depende exclusivamente da espessura do tecido atravessado e não do intervalo em que o feixe permanece ligado"
+   },
+   "resposta": "d",
+   "explicacao": "A dose acumulada é proporcional ao número de fótons que atinge o tecido, e esse número cresce linearmente com o tempo de exposição. Dobrar o tempo dobra a dose. A energia por fóton depende da tensão do tubo, não do tempo — é isso que (b) confunde.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-111",
+   "texto_apoio": "Um forno de micro-ondas aquece alimentos emitindo radiação numa frequência que faz as moléculas de água girarem rapidamente. Recipientes de vidro e cerâmica secos não se aquecem de forma apreciável no processo.",
+   "enunciado": "O aquecimento seletivo observado ocorre porque a radiação do forno:",
+   "alternativas": {
+    "a": "aquece diretamente o ar no interior da cavidade, e o calor se transmite ao alimento por convecção a partir das camadas mais externas dele",
+    "b": "possui energia por fóton suficiente para romper as ligações químicas dos alimentos, o que libera calor durante a reorganização das moléculas",
+    "c": "é absorvida preferencialmente por moléculas polares, como a água presente no alimento",
+    "d": "é refletida pelas paredes metálicas e concentrada no centro do forno, região em que a temperatura se eleva independentemente do material presente",
+    "e": "ioniza os átomos do alimento e produz elétrons livres, cuja movimentação desordenada corresponde ao aumento de temperatura registrado"
+   },
+   "resposta": "c",
+   "explicacao": "A molécula de água é polar e tenta se alinhar ao campo elétrico oscilante da micro-onda; a agitação resultante é o próprio aquecimento. Vidro e cerâmica secos, sem moléculas polares móveis, quase não absorvem. A radiação é não ionizante, o que descarta (e).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-211",
+   "enunciado": "O efeito Compton, descoberto na década de 1920, é hoje amplamente utilizado durante tratamentos radioterápicos. O efeito relaciona-se à mudança no comprimento de onda de fótons de raios X quando interagem com partículas como elétrons ou prótons, conforme ilustrado na figura a seguir.\n\nQuando um fóton com comprimento de onda λ incide sobre uma partícula, ele emerge dessa interação formando um ângulo θ com sua direção inicial de movimento, e seu novo comprimento de onda λ' é dado pela relação\n\nλ' = λ + αm(1 − cos θ),\n\nem que α é uma constante positiva e m é a massa da partícula. Com base nessas informações e em seus conhecimentos sobre a propagação das ondas eletromagnéticas, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "A maior variação no comprimento de onda do fóton ocorre quando o ângulo θ é igual a 90°.",
+    "b": "Se o ângulo θ é igual a 30°, o fóton emergente tem frequência menor do que a frequência inicial.",
+    "c": "Quando θ = 0, a velocidade do fóton emergente é menor do que a do fóton incidente, devido à conservação da quantidade de movimento.",
+    "d": "Se o ângulo θ é igual a 60°, a variação no comprimento de onda do fóton é menor se a partícula for um elétron do que se a partícula for um próton.",
+    "e": "Um fóton que emergiu perpendicularmente à sua direção inicial não sofreu mudança em sua frequência."
+   },
+   "resposta": "b",
+   "explicacao": "Como λ'=λ+αm(1−cosθ), o comprimento de onda emergente é sempre maior ou igual ao incidente (λ'≥λ), logo a frequência do fóton emergente diminui para qualquer θ>0, inclusive para θ=30°.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-219",
+   "enunciado": "Em 1905, Albert Einstein propôs que a luz, um tipo de radiação eletromagnética, é composta por fótons, sendo que cada fóton tem energia proporcional à frequência da luz (f) e à constante de Planck (h). Nesses termos, E = hf, e a intensidade da luz é a medida da quantidade de fótons. Essa interpretação foi fundamental para o desenvolvimento da teoria quântica da luz e para explicar o efeito fotoelétrico. Esse efeito consiste em um fenômeno físico no qual elétrons são ejetados de um material, geralmente um metal, quando este é irradiado com luz cujos fótons têm energia maior que a energia de ligação do elétron ao material, também conhecida como função trabalho. Assim, quando o fóton incide sobre a superfície do material, a energia excedente transforma-se na energia cinética do elétron que escapa da superfície.\n\nEm qual das situações a seguir a energia cinética do elétron ejetado no efeito fotoelétrico aumenta?",
+   "alternativas": {
+    "a": "Aumentando a intensidade da luz incidente.",
+    "b": "Usando uma superfície maior.",
+    "c": "Aumentando a frequência da luz incidente.",
+    "d": "Usando um material com função trabalho maior.",
+    "e": "Diminuindo a energia do fóton incidente."
+   },
+   "resposta": "c",
+   "explicacao": "Pela equação do efeito fotoelétrico, a energia cinética do elétron ejetado é Ec=hf−função trabalho; aumentar a frequência f da luz incidente aumenta diretamente a energia do fóton (E=hf) e, portanto, a energia cinética do elétron ejetado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
    "id": "med-fisica-327",
    "enunciado": "Uma carga elétrica puntiforme q1, negativa, está fixa em uma certa posição. Uma segunda carga q2, também puntiforme e negativa, de massa m, é abandonada em repouso a uma distância d de q1. O sistema está em vácuo. A máxima velocidade que q2 atinge é dada por\n\n(K = 1/(4πε0), sendo ε0 a permissividade elétrica do vácuo. O sistema está em vácuo.)",
    "alternativas": {
@@ -92100,20 +93388,340 @@ window.QUESTION_BANKS = {
    "origem": "medicina"
   },
   {
-   "subtema": "fisica-energia-trabalho",
-   "id": "med-fisica-335",
-   "enunciado": "Quatro moles de um gás cujo calor molar a volume constante é 12,5 J/(mol·K) sofreram uma transformação isocórica, isto é, mantendo volume constante, com consequente aumento de 16 °C em sua temperatura.\n\nNesse processo, a variação da energia interna desse gás foi",
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-334",
+   "enunciado": "Elétrons podem ser emitidos da superfície de um material quando nele incidir radiação eletromagnética de",
    "alternativas": {
-    "a": "400 J",
-    "b": "600 J",
-    "c": "800 J",
-    "d": "29 kJ",
-    "e": "58 kJ"
+    "a": "frequência suficientemente alta e o material for metálico",
+    "b": "frequência suficientemente alta e o material for dielétrico",
+    "c": "qualquer frequência, mas com intensidade suficientemente alta e o material for metálico",
+    "d": "qualquer frequência, mas com intensidade suficientemente alta e o material for dielétrico",
+    "e": "frequência da luz visível na região vermelho e qualquer intensidade se o material for de metálico"
    },
-   "resposta": "c",
-   "explicacao": "A variação de energia interna é ΔU=n×Cv×ΔT=4×12,5×16=800 J.",
+   "resposta": "a",
+   "explicacao": "O efeito fotoelétrico, explicado por Einstein, ocorre quando a frequência da radiação incidente é alta o suficiente para que cada fóton tenha energia superior à função trabalho do material (tipicamente metálico), independentemente da intensidade da luz.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-336",
+   "enunciado": "Um próton e um nêutron se ligam e formam um dêuteron. Nesse processo, ocorre\n\n(Considere: massa do próton = 938,2728 MeV/c²; massa do nêutron = 939,5654 MeV/c²; massa do dêuteron = 1875,6129 MeV/c²; c é a velocidade da luz.)",
+   "alternativas": {
+    "a": "emissão de um fóton de energia 2,2253 MeV",
+    "b": "absorção de um fóton de energia 2,2253 MeV",
+    "c": "emissão de um fóton de energia (2,2253 c²) MeV",
+    "d": "absorção de um fóton de energia (2,2253 c²) MeV",
+    "e": "não ocorre nem emissão nem absorção de energia"
+   },
+   "resposta": "a",
+   "explicacao": "A massa do dêuteron é menor que a soma das massas do próton e do nêutron separados (938,2728+939,5654−1875,6129=2,2253 MeV/c²); essa diferença de massa é convertida em energia liberada na forma de um fóton emitido durante a formação do núcleo (energia de ligação nuclear).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-03",
+   "enunciado": "Para que o fator de Lorentz γ de uma partícula seja igual a 2, sua velocidade em relação ao referencial do laboratório deve ser aproximadamente:",
+   "alternativas": {
+    "a": "0,50c",
+    "b": "0,75c",
+    "c": "0,87c",
+    "d": "0,95c",
+    "e": "0,99c"
+   },
+   "resposta": "c",
+   "explicacao": "γ = 1/√(1−v²/c²) = 2 implica √(1−v²/c²) = 1/2, logo 1−v²/c² = 1/4, e v²/c² = 3/4. Assim, v/c = √3/2 ≈ 0,866, ou seja, aproximadamente 0,87c. A alternativa (a), 0,50c, é um valor \"redondo\" tentador, mas dá γ = 1/√0,75 ≈ 1,15, bem abaixo de 2.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-04",
+   "enunciado": "Uma nave tem comprimento próprio (medido em repouso) de 100 m. Vista por um observador na Terra, em relação ao qual a nave se move com v = 0,6c, seu comprimento medido é de:",
+   "alternativas": {
+    "a": "125 m",
+    "b": "100 m",
+    "c": "80 m",
+    "d": "60 m",
+    "e": "36 m"
+   },
+   "resposta": "c",
+   "explicacao": "O comprimento medido por um observador em relação a quem o objeto se move é contraído: L = L₀/γ = L₀·√(1−v²/c²). Com γ=1,25 (calculado para v=0,6c), L = 100/1,25 = 80 m. A alternativa (a), 125 m, inverte a fórmula, multiplicando por γ em vez de dividir — usaria a fórmula certa da dilatação do tempo aplicada, por engano, ao comprimento.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-06",
+   "enunciado": "Uma nave espacial em forma de disco, com diâmetro D no referencial em que está em repouso, se move com velocidade próxima de c numa direção paralela ao seu diâmetro, em relação a um observador na Terra. Sobre as dimensões da nave medidas por esse observador, é correto afirmar que:",
+   "alternativas": {
+    "a": "nenhuma dimensão se altera, só o tempo se dilata",
+    "b": "todas as dimensões se expandem, não se contraem",
+    "c": "o diâmetro na direção do movimento se contrai, mas a espessura do disco, perpendicular ao movimento, permanece a mesma",
+    "d": "tanto o diâmetro quanto a espessura se contraem igualmente",
+    "e": "apenas a espessura perpendicular ao movimento se contrai"
+   },
+   "resposta": "c",
+   "explicacao": "A contração de Lorentz ocorre apenas na direção do movimento relativo — dimensões perpendiculares à velocidade não são afetadas. Por isso uma esfera em altíssima velocidade pareceria achatada na direção do movimento, não uniformemente menor em todas as direções. A alternativa (d) generaliza a contração para todas as dimensões, erro comum de tratar o efeito como uma escala uniforme.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-07",
+   "enunciado": "Dois eventos ocorrem simultaneamente segundo um observador parado numa estação espacial, em pontos diferentes do espaço. Um segundo observador, a bordo de uma nave que passa pela estação com velocidade relativística, relativa à qual os dois eventos ocorrem em posições diferentes ao longo da direção do movimento, mede:",
+   "alternativas": {
+    "a": "apenas um dos dois eventos, pois o outro deixa de existir no referencial da nave",
+    "b": "os dois eventos invertidos no tempo, mas ainda simultâneos entre si",
+    "c": "os dois eventos simultâneos, desde que a velocidade da nave seja menor que 0,5c",
+    "d": "os dois eventos como simultâneos também, pois simultaneidade é absoluta",
+    "e": "os dois eventos como não simultâneos, pois simultaneidade depende do referencial"
+   },
+   "resposta": "e",
+   "explicacao": "Um dos postulados centrais da relatividade restrita é que a simultaneidade não é absoluta: dois eventos que ocorrem ao mesmo tempo em pontos diferentes, segundo um observador, em geral NÃO ocorrem ao mesmo tempo segundo outro observador em movimento relativo — a ordem temporal entre eventos separados no espaço pode até se inverter, desde que os eventos não possam se influenciar causalmente. A alternativa (d) contraria justamente esse postulado, tratando o tempo como absoluto (visão newtoniana clássica).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-08",
+   "enunciado": "Considere c = 3,0×10⁸ m/s. A energia de repouso equivalente a uma massa de 1 grama (1,0×10⁻³ kg) é de aproximadamente:",
+   "alternativas": {
+    "a": "3,0×10⁸ J",
+    "b": "9,0×10¹⁰ J",
+    "c": "9,0×10¹³ J",
+    "d": "3,0×10¹⁶ J",
+    "e": "9,0×10¹⁶ J"
+   },
+   "resposta": "c",
+   "explicacao": "E = mc² = 1,0×10⁻³ × (3,0×10⁸)² = 1,0×10⁻³ × 9,0×10¹⁶ = 9,0×10¹³ J. A alternativa (d), 3,0×10¹⁶ J, esquece de elevar c ao quadrado, multiplicando m só por c. A (e), 9,0×10¹⁶ J, esquece de multiplicar pela massa em quilogramas (usa m=1 em vez de m=10⁻³).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-10",
+   "enunciado": "Uma partícula com energia de repouso E₀ se move com velocidade v = 0,6c em relação ao laboratório. A energia TOTAL dessa partícula, medida no laboratório, é dada por E = γE₀, em que γ é o fator de Lorentz. Para essa velocidade, a energia total vale, em relação à energia de repouso:",
+   "alternativas": {
+    "a": "0,8 E₀",
+    "b": "1,0 E₀",
+    "c": "1,25 E₀",
+    "d": "1,6 E₀",
+    "e": "2,0 E₀"
+   },
+   "resposta": "c",
+   "explicacao": "γ = 1/√(1−0,6²) = 1/0,8 = 1,25. A energia total é E = γE₀ = 1,25E₀ — maior que a energia de repouso, porque inclui também a energia cinética da partícula em movimento. A alternativa (a), 0,8 E₀, usa 1/γ em vez de γ, como se o movimento reduzisse a energia total em vez de aumentá-la.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-11",
+   "enunciado": "A energia cinética relativística de uma partícula é dada por Ec = (γ−1)·m·c², em que γ é o fator de Lorentz. Para uma partícula com v = 0,6c, a energia cinética, em relação à sua energia de repouso mc², vale:",
+   "alternativas": {
+    "a": "1,25 mc²",
+    "b": "0,80 mc²",
+    "c": "0,36 mc²",
+    "d": "0,25 mc²",
+    "e": "0,60 mc²"
+   },
+   "resposta": "d",
+   "explicacao": "γ = 1,25 para v=0,6c. Ec = (γ−1)mc² = (1,25−1)mc² = 0,25mc². A alternativa (a), 1,25 mc², confunde energia cinética com energia TOTAL (γmc²), esquecendo de subtrair a parcela de energia de repouso que já existia antes do movimento.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-12",
+   "enunciado": "Considere h = 6,63×10⁻³⁴ J·s. A energia de um fóton de luz visível com frequência f = 5,0×10¹⁴ Hz é de aproximadamente:",
+   "alternativas": {
+    "a": "1,33×10⁻⁴⁸ J",
+    "b": "3,3×10⁻¹⁹ J",
+    "c": "6,63×10⁻³⁴ J",
+    "d": "3,0×10⁸ J",
+    "e": "1,33×10¹⁹ J"
+   },
+   "resposta": "b",
+   "explicacao": "E = h·f = 6,63×10⁻³⁴ × 5,0×10¹⁴ = 3,3×10⁻¹⁹ J. A alternativa (a) divide em vez de multiplicar h por f. A (c) repete o valor de h sem multiplicar pela frequência, como se a energia do fóton não dependesse da frequência da luz.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-13",
+   "enunciado": "A função trabalho de uma placa metálica é φ = 3,5×10⁻¹⁹ J. Ao incidir sobre a placa luz de frequência f = 9,0×10¹⁴ Hz (com h = 6,63×10⁻³⁴ J·s), a energia cinética máxima dos elétrons ejetados por efeito fotoelétrico é de aproximadamente:",
+   "alternativas": {
+    "a": "9,47×10⁻¹⁹ J",
+    "b": "3,5×10⁻¹⁹ J",
+    "c": "0 J, pois a luz visível não arranca elétrons",
+    "d": "2,5×10⁻¹⁹ J",
+    "e": "5,97×10⁻¹⁹ J"
+   },
+   "resposta": "d",
+   "explicacao": "A equação do efeito fotoelétrico é Ec(máx) = hf − φ. A energia do fóton incidente é hf = 6,63×10⁻³⁴ × 9,0×10¹⁴ ≈ 5,97×10⁻¹⁹ J. Subtraindo a função trabalho: 5,97×10⁻¹⁹ − 3,5×10⁻¹⁹ ≈ 2,5×10⁻¹⁹ J. A alternativa (a), 9,47×10⁻¹⁹ J, soma a função trabalho em vez de subtrair, como se ela contribuísse para a energia cinética em vez de ser o custo mínimo para arrancar o elétron.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-14",
+   "enunciado": "A função trabalho de um metal é φ = 3,315×10⁻¹⁹ J. Considerando h = 6,63×10⁻³⁴ J·s, a frequência de corte (frequência mínima de luz capaz de arrancar elétrons desse metal por efeito fotoelétrico) é de aproximadamente:",
+   "alternativas": {
+    "a": "2,0×10¹³ Hz",
+    "b": "5,0×10¹⁵ Hz",
+    "c": "1,0×10¹⁵ Hz",
+    "d": "5,0×10¹⁴ Hz",
+    "e": "2,2×10⁻¹³ Hz"
+   },
+   "resposta": "d",
+   "explicacao": "Na frequência de corte, a energia do fóton é exatamente igual à função trabalho, sem sobra de energia cinética: hf₀ = φ, logo f₀ = φ/h = 3,315×10⁻¹⁹ / 6,63×10⁻³⁴ ≈ 5,0×10¹⁴ Hz. A alternativa (e) inverte a divisão (h/φ em vez de φ/h), o que muda drasticamente a ordem de grandeza e ainda erra a unidade resultante.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-15",
+   "enunciado": "Um feixe de luz monocromática, com frequência abaixo da frequência de corte de certo metal, incide sobre a superfície desse metal. Ao aumentar MUITO a intensidade desse mesmo feixe (mantendo a frequência fixa), o efeito observado é:",
+   "alternativas": {
+    "a": "elétrons passam a ser ejetados, pois a energia total entregue ao metal aumenta com a intensidade",
+    "b": "a energia cinética dos elétrons ejetados aumenta proporcionalmente à intensidade",
+    "c": "o efeito fotoelétrico passa a ocorrer, mas com atraso temporal, esperando energia suficiente se acumular",
+    "d": "os elétrons são ejetados apenas na superfície aquecida termicamente pelo excesso de luz",
+    "e": "nenhum elétron é ejetado, mesmo com intensidade arbitrariamente alta, porque cada fóton individual continua sem energia suficiente"
+   },
+   "resposta": "e",
+   "explicacao": "O efeito fotoelétrico depende da energia de cada fóton individual (E=hf), não da energia total do feixe: se hf < φ, nenhum fóton isolado tem energia suficiente para arrancar um elétron, não importa quantos fótons incidam por segundo. Esse é o resultado que a física clássica (ondulatória) não conseguia explicar, e que motivou o modelo de Einstein. A alternativa (a) aplica a intuição ondulatória clássica, que previa (erradamente) que intensidade suficiente sempre arrancaria elétrons.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-16",
+   "enunciado": "Um elétron (massa m = 9,11×10⁻³¹ kg) se move com velocidade v = 2,0×10⁶ m/s. Considerando h = 6,63×10⁻³⁴ J·s, o comprimento de onda de De Broglie associado a esse elétron é de aproximadamente:",
+   "alternativas": {
+    "a": "1,8×10⁻²⁴ m",
+    "b": "1,2×10⁻³⁶ m",
+    "c": "5,5×10⁹ m",
+    "d": "3,6×10⁻²⁴ m",
+    "e": "3,6×10⁻¹⁰ m"
+   },
+   "resposta": "e",
+   "explicacao": "O comprimento de onda de De Broglie é λ = h/p = h/(mv) = 6,63×10⁻³⁴ / (9,11×10⁻³¹ × 2,0×10⁶) ≈ 3,6×10⁻¹⁰ m. A alternativa (a), 1,8×10⁻²⁴ m, esquece de dividir h pelo momento e faz outra operação incorreta, perdendo várias ordens de grandeza da resposta correta.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-17",
+   "enunciado": "Um fóton tem energia E = 3,0×10⁻¹⁹ J. Considerando c = 3,0×10⁸ m/s, o momento linear desse fóton é de:",
+   "alternativas": {
+    "a": "9,0×10⁻¹¹ kg·m/s",
+    "b": "1,0×10⁻²⁷ kg·m/s",
+    "c": "1,0×10⁻¹⁰ kg·m/s",
+    "d": "9,0×10²⁶ kg·m/s",
+    "e": "3,0×10⁻¹⁹ kg·m/s"
+   },
+   "resposta": "b",
+   "explicacao": "Para o fóton, p = E/c = 3,0×10⁻¹⁹ / 3,0×10⁸ = 1,0×10⁻²⁷ kg·m/s. A alternativa (a) multiplica E por c em vez de dividir, invertendo a relação. A (e) repete o valor de E sem alterar nada, como se energia e momento tivessem a mesma unidade.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-19",
+   "enunciado": "O efeito fotoelétrico (luz arrancando elétrons de um metal) é historicamente citado como evidência do comportamento:",
+   "alternativas": {
+    "a": "ondulatório da luz, pois só ondas transportam energia contínua",
+    "b": "corpuscular (de partícula) da luz, pois a energia é transferida em pacotes discretos (fótons), e não continuamente",
+    "c": "exclusivamente elétrico da luz, sem relação com sua natureza ondulatória ou corpuscular",
+    "d": "gravitacional da luz, revelado por Einstein na mesma década",
+    "e": "apenas do elétron, sem nenhuma implicação sobre a natureza da luz"
+   },
+   "resposta": "b",
+   "explicacao": "O efeito fotoelétrico só é explicado corretamente ao tratar a luz como um feixe de pacotes discretos de energia (fótons), cada um com energia hf: é a existência de uma frequência de corte abaixo da qual NENHUM elétron é ejetado, independentemente da intensidade, que a teoria ondulatória clássica não conseguia prever. Foi esse resultado que valeu a Einstein o Nobel de Física. A alternativa (a) inverte a lição histórica: é justamente o comportamento ondulatório clássico que falha em explicar o efeito.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-20",
+   "enunciado": "Uma bola de 0,10 kg se move a 20 m/s. Considerando h = 6,63×10⁻³⁴ J·s, o comprimento de onda de De Broglie associado a essa bola é de aproximadamente 3,3×10⁻³⁴ m — um valor absurdamente menor do que qualquer escala observável. Isso explica por que:",
+   "alternativas": {
+    "a": "objetos macroscópicos do dia a dia não exibem efeitos ondulatórios perceptíveis, embora a relação de De Broglie se aplique também a eles",
+    "b": "a fórmula de De Broglie só vale para partículas subatômicas, como elétrons e fótons",
+    "c": "bolas de futebol, na verdade, não têm massa suficiente para ter momento linear",
+    "d": "o comprimento de onda de De Broglie é sempre menor que o do elétron, qualquer que seja o objeto",
+    "e": "a constante de Planck só existe em escalas atômicas"
+   },
+   "resposta": "a",
+   "explicacao": "A relação λ=h/p é universal — vale para qualquer objeto com momento, macroscópico ou não —, mas como h é extremamente pequeno (6,63×10⁻³⁴ J·s), objetos com massa e velocidade do cotidiano têm comprimento de onda tão diminuto que nenhum efeito ondulatório (como difração ou interferência) é detectável na prática. A alternativa (b) erra ao restringir artificialmente o alcance da fórmula, quando na verdade o que muda é apenas a escala do resultado, não a validade da equação.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-21",
+   "enunciado": "Os dois postulados fundamentais da relatividade restrita, propostos por Einstein em 1905, são:",
+   "alternativas": {
+    "a": "as leis da física são as mesmas em todos os referenciais inerciais, e a velocidade da luz no vácuo é a mesma para todos os observadores inerciais, independentemente do movimento da fonte",
+    "b": "o espaço é absoluto e o tempo é relativo, dependendo apenas da velocidade do observador",
+    "c": "a velocidade da luz é infinita, e por isso os eventos simultâneos permanecem simultâneos em qualquer referencial",
+    "d": "a massa de um corpo aumenta indefinidamente até se tornar infinita em qualquer velocidade",
+    "e": "apenas observadores em repouso absoluto podem medir corretamente o tempo e o espaço"
+   },
+   "resposta": "a",
+   "explicacao": "Os dois postulados de Einstein são: (1) as leis da física têm a mesma forma em todos os referenciais inerciais (princípio da relatividade, já presente na mecânica newtoniana) e (2) a velocidade da luz no vácuo é a mesma, c, para todos os observadores inerciais, não importa a velocidade da fonte que a emite. É o segundo postulado, radicalmente contraintuitivo, que força o abandono do tempo e do espaço absolutos da física newtoniana. A alternativa (c) erra ao afirmar que a luz tem velocidade infinita — é justamente o oposto: ela é finita e constante.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-22",
+   "enunciado": "Uma nave se move em relação à Terra com velocidade 0,9c. Um projétil é lançado da nave, na mesma direção do movimento, com velocidade 0,5c em relação à nave. Pela composição relativística de velocidades (diferente da simples soma newtoniana), a velocidade do projétil em relação à Terra é:",
+   "alternativas": {
+    "a": "exatamente 1,4c, pela soma direta das duas velocidades",
+    "b": "menor que c, pois nenhuma composição de velocidades menores que c pode ultrapassar a velocidade da luz",
+    "c": "exatamente c, independentemente dos valores",
+    "d": "maior que c, mas menor que 1,4c",
+    "e": "impossível de calcular sem mais dados sobre a massa do projétil"
+   },
+   "resposta": "b",
+   "explicacao": "Na relatividade restrita, velocidades não se somam diretamente como na mecânica newtoniana — usa-se a fórmula de composição relativística, que sempre produz um resultado menor que c quando as duas velocidades compostas são menores que c. A soma newtoniana ingênua (0,9c+0,5c=1,4c) violaria o limite universal da velocidade da luz, algo que nenhum experimento jamais observou. A alternativa (a) é exatamente esse erro clássico, ignorando a correção relativística.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-24",
+   "enunciado": "Para velocidades muito menores que a velocidade da luz (v ≪ c), o fator de Lorentz γ se aproxima de:",
+   "alternativas": {
+    "a": "1, e os efeitos relativísticos (dilatação do tempo, contração do comprimento) se tornam desprezíveis",
+    "b": "0, e o tempo para completamente",
+    "c": "infinito, mesmo para velocidades baixas",
+    "d": "c/v, um valor que cresce indefinidamente",
+    "e": "exatamente v/c, coincidindo com a própria razão de velocidades"
+   },
+   "resposta": "a",
+   "explicacao": "Quando v ≪ c, a razão v²/c² é próxima de zero, e γ = 1/√(1−v²/c²) se aproxima de 1/√1 = 1. Com γ≈1, a dilatação do tempo (Δt=γΔt₀) e a contração do comprimento (L=L₀/γ) praticamente desaparecem, recuperando a física newtoniana clássica como caso-limite da relatividade para velocidades do cotidiano — carros, aviões, foguetes comuns. É por isso que os efeitos relativísticos não aparecem na vida diária, apesar de sempre existirem em algum grau.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fismoderna-25",
+   "enunciado": "Em uma reação de fissão nuclear, a soma das massas dos produtos finais é menor que a soma das massas dos reagentes iniciais. De acordo com a equivalência massa-energia de Einstein, essa diferença de massa (defeito de massa):",
+   "alternativas": {
+    "a": "foi convertida em energia, liberada na forma de energia cinética dos produtos e radiação",
+    "b": "representa um erro de medição, pois massa não pode ser criada nem destruída em nenhuma circunstância",
+    "c": "indica que a lei de conservação de energia foi violada na reação",
+    "d": "só ocorre em reações químicas, nunca em reações nucleares",
+    "e": "é sempre recuperada integralmente como massa em reações posteriores"
+   },
+   "resposta": "a",
+   "explicacao": "A equivalência E=mc² revela que massa e energia são duas manifestações de uma mesma grandeza conservada: massa \"desaparecida\" reaparece como energia liberada (cinética dos fragmentos, radiação), e a soma massa+energia (numa contabilidade unificada) se conserva. Não há violação da conservação de energia — é justamente a extensão da lei de conservação para incluir a massa como forma de energia que a relatividade introduz. A alternativa (b) aplica a visão pré-relativística, em que massa e energia eram conservadas separadamente.",
+   "formato": "direta",
+   "origem": "engenharia"
   }
  ]
 };
@@ -92124,7 +93732,10 @@ window.SUBTEMAS_POR_FRENTE = {
   "matematica-financeira",
   "matematica-algebra",
   "matematica-probabilidade",
-  "matematica-sequencias"
+  "matematica-sequencias",
+  "matematica-logica-conjuntos",
+  "matematica-complexos",
+  "matematica-polinomios"
  ],
  "interpretacao-texto": [
   "interpretacao-argumentacao",
@@ -92224,7 +93835,8 @@ window.SUBTEMAS_POR_FRENTE = {
   "fisica-ondas-optica",
   "fisica-eletromagnetismo",
   "fisica-hidrostatica",
-  "fisica-energia-trabalho"
+  "fisica-energia-trabalho",
+  "fisica-moderna"
  ]
 };
 

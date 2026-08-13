@@ -38,11 +38,12 @@ const RAIZ = path.join(__dirname, "..");
 const FONTES = {
   direito: path.join(RAIZ, "vestibular-direito", "data", "questions"),
   medicina: path.join(RAIZ, "vestibular-medicina", "data", "questions"),
+  engenharia: path.join(RAIZ, "vestibular-engenharia", "data", "questions"),
 };
 const SAIDA = path.join(__dirname, "data", "questions");
 const MANIFESTO = path.join(__dirname, "data", "origem-do-banco.json");
 
-const PREFIXO = { direito: "dir", medicina: "med" };
+const PREFIXO = { direito: "dir", medicina: "med", engenharia: "eng" };
 
 // ------------------------------------------------------------------- o mapeamento
 //
@@ -78,14 +79,14 @@ const MAPA = [
     de: [["direito", "ingles"], ["medicina", "ingles"]] },
 
   { id: "matematica", area: "Matemática", nome: "Matemática",
-    de: [["direito", "matematica-rlm"], ["medicina", "matematica"]] },
+    de: [["direito", "matematica-rlm"], ["medicina", "matematica"], ["engenharia", "matematica"]] },
 
   { id: "biologia", area: "Ciências da Natureza", nome: "Biologia",
     de: [["medicina", "biologia"]] },
   { id: "quimica", area: "Ciências da Natureza", nome: "Química",
     de: [["medicina", "quimica"]] },
   { id: "fisica", area: "Ciências da Natureza", nome: "Física",
-    de: [["medicina", "fisica"]] },
+    de: [["medicina", "fisica"], ["engenharia", "fisica"]] },
   { id: "ciencias-natureza", area: "Ciências da Natureza", nome: "Ciências da Natureza (noções gerais)",
     de: [["direito", "ciencias-natureza"]] },
 

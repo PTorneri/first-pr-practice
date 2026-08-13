@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-13",
  "frente": "matematica",
- "total": 676,
+ "total": 751,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -22,7 +22,9 @@
   "med-matematica-322",
   "med-matematica-327",
   "med-matematica-347",
-  "med-matematica-359"
+  "med-matematica-359",
+  "eng-logica-23",
+  "eng-logica-25"
  ],
  "mapa": {
   "dir-matematica-rlm-01": {
@@ -475,13 +477,13 @@
    "subtema": "matematica-geometria",
    "frenteDestino": "matematica",
    "pontos": 4,
-   "margem": 4
+   "margem": 0
   },
   "dir-matematica-rlm-86": {
-   "subtema": "matematica-probabilidade",
+   "subtema": "matematica-logica-conjuntos",
    "frenteDestino": "matematica",
-   "pontos": 3,
-   "margem": 3
+   "pontos": 5,
+   "margem": 2
   },
   "dir-matematica-rlm-87": {
    "subtema": "matematica-geometria",
@@ -538,10 +540,10 @@
    "margem": 4
   },
   "dir-matematica-rlm-96": {
-   "subtema": "matematica-probabilidade",
+   "subtema": "matematica-logica-conjuntos",
    "frenteDestino": "matematica",
-   "pontos": 3,
-   "margem": 3
+   "pontos": 5,
+   "margem": 2
   },
   "dir-matematica-rlm-97": {
    "subtema": "matematica-financeira",
@@ -1642,7 +1644,7 @@
    "subtema": "matematica-sequencias",
    "frenteDestino": "matematica",
    "pontos": 5,
-   "margem": 2
+   "margem": 1
   },
   "dir-matematica-rlm-283": {
    "subtema": "matematica-sequencias",
@@ -2904,7 +2906,7 @@
    "subtema": "matematica-algebra",
    "frenteDestino": "matematica",
    "pontos": 5,
-   "margem": 5
+   "margem": 4
   },
   "med-matematica-168": {
    "subtema": "matematica-algebra",
@@ -2940,7 +2942,7 @@
    "subtema": "matematica-algebra",
    "frenteDestino": "matematica",
    "pontos": 12,
-   "margem": 9
+   "margem": 8
   },
   "med-matematica-174": {
    "subtema": "matematica-algebra",
@@ -3027,7 +3029,7 @@
    "subtema": "matematica-algebra",
    "frenteDestino": "matematica",
    "pontos": 5,
-   "margem": 5
+   "margem": 0
   },
   "med-matematica-189": {
    "subtema": "matematica-algebra",
@@ -3278,7 +3280,7 @@
    "subtema": "matematica-geometria",
    "frenteDestino": "matematica",
    "pontos": 13,
-   "margem": 10
+   "margem": 9
   },
   "med-matematica-232": {
    "subtema": "matematica-sequencias",
@@ -3391,7 +3393,7 @@
    "subtema": "matematica-algebra",
    "frenteDestino": "matematica",
    "pontos": 11,
-   "margem": 8
+   "margem": 7
   },
   "med-matematica-251": {
    "subtema": "matematica-geometria",
@@ -3657,7 +3659,7 @@
    "subtema": "matematica-algebra",
    "frenteDestino": "matematica",
    "pontos": 7,
-   "margem": 4
+   "margem": 3
   },
   "med-matematica-296": {
    "subtema": "matematica-algebra",
@@ -3945,7 +3947,7 @@
    "subtema": "matematica-geometria",
    "frenteDestino": "matematica",
    "pontos": 5,
-   "margem": 3
+   "margem": 2
   },
   "med-matematica-345": {
    "subtema": "matematica-geometria",
@@ -4031,6 +4033,454 @@
    "margem": 5
   },
   "med-matematica-359": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "padrao": true
+  },
+  "eng-complexos-01": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "eng-complexos-02": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "eng-complexos-03": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "eng-complexos-04": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 10
+  },
+  "eng-complexos-05": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 12
+  },
+  "eng-complexos-06": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 3
+  },
+  "eng-complexos-07": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 17,
+   "margem": 12
+  },
+  "eng-complexos-08": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 17,
+   "margem": 14
+  },
+  "eng-complexos-09": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "eng-complexos-10": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "eng-complexos-11": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "eng-complexos-12": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "eng-complexos-13": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "eng-complexos-14": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 1
+  },
+  "eng-complexos-15": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "eng-complexos-16": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 3
+  },
+  "eng-complexos-17": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 0
+  },
+  "eng-complexos-18": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "eng-complexos-19": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "eng-complexos-20": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "eng-complexos-21": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "eng-complexos-22": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "eng-complexos-23": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "eng-complexos-24": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "eng-complexos-25": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "eng-polinomios-01": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "eng-polinomios-02": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "eng-polinomios-03": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "eng-polinomios-04": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "eng-polinomios-05": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "eng-polinomios-06": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 9
+  },
+  "eng-polinomios-07": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "eng-polinomios-08": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "eng-polinomios-09": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 3
+  },
+  "eng-polinomios-10": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "eng-polinomios-11": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 0
+  },
+  "eng-polinomios-12": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "eng-polinomios-13": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "eng-polinomios-14": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "eng-polinomios-15": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "eng-polinomios-16": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "eng-polinomios-17": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "eng-polinomios-18": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 3
+  },
+  "eng-polinomios-19": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 3
+  },
+  "eng-polinomios-20": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "eng-polinomios-21": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "eng-polinomios-22": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 0
+  },
+  "eng-polinomios-23": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "eng-polinomios-24": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "eng-polinomios-25": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 7
+  },
+  "eng-logica-01": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "eng-logica-02": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "eng-logica-03": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "eng-logica-04": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "eng-logica-05": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "eng-logica-06": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "eng-logica-07": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "eng-logica-08": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "eng-logica-09": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "eng-logica-10": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "eng-logica-11": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "eng-logica-12": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "eng-logica-13": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "eng-logica-14": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "eng-logica-15": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 0
+  },
+  "eng-logica-16": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "eng-logica-17": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "eng-logica-18": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "eng-logica-19": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "eng-logica-20": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "eng-logica-21": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "eng-logica-22": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "eng-logica-23": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "padrao": true
+  },
+  "eng-logica-24": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "eng-logica-25": {
    "subtema": "matematica-algebra",
    "frenteDestino": "matematica",
    "padrao": true

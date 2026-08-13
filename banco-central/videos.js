@@ -204,6 +204,21 @@ const TEMA_PARA_SUBTEMA = {
 // porque não existiam como unidade de estudo — nenhuma trilha tinha uma aula de
 // "hidrostática" quando Física era uma frente só.
 const NOVOS = {
+  "matematica-complexos": [
+    { tema: "Números complexos: forma algébrica e trigonométrica", busca: "aula números complexos forma trigonométrica vestibular" },
+    { tema: "De Moivre: potenciação e radiciação de complexos", busca: "aula De Moivre potenciação radiciação números complexos vestibular" },
+  ],
+  "matematica-polinomios": [
+    { tema: "Relações de Girard e teorema do resto", busca: "aula relações de Girard teorema do resto polinômios vestibular" },
+  ],
+  "matematica-logica-conjuntos": [
+    { tema: "Lógica proposicional: tabela-verdade e negações", busca: "aula lógica proposicional tabela-verdade vestibular" },
+    { tema: "Conjuntos: união, interseção e diagramas", busca: "aula operações com conjuntos diagrama de Venn vestibular" },
+  ],
+  "fisica-moderna": [
+    { tema: "Relatividade restrita: dilatação do tempo e contração do espaço", busca: "aula relatividade restrita dilatação do tempo vestibular" },
+    { tema: "Efeito fotoelétrico e dualidade onda-partícula", busca: "aula efeito fotoelétrico dualidade onda-partícula vestibular" },
+  ],
   "biologia-diversidade": [
     { tema: "Reinos e classificação dos seres vivos", busca: "aula reinos classificação dos seres vivos vestibular" },
   ],

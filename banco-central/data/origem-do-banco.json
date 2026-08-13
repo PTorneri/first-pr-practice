@@ -1,6 +1,6 @@
 {
   "migrado": "2026-08-13",
-  "totalQuestoes": 5232,
+  "totalQuestoes": 5332,
   "totalTextos": 142,
   "origem": {
     "direito/interpretacao-texto": "interpretacao-texto",
@@ -13,9 +13,11 @@
     "medicina/ingles": "ingles",
     "direito/matematica-rlm": "matematica",
     "medicina/matematica": "matematica",
+    "engenharia/matematica": "matematica",
     "medicina/biologia": "biologia",
     "medicina/quimica": "quimica",
     "medicina/fisica": "fisica",
+    "engenharia/fisica": "fisica",
     "direito/ciencias-natureza": "ciencias-natureza",
     "direito/historia-brasil": "historia",
     "direito/historia-geral": "historia",

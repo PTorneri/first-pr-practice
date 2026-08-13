@@ -52,6 +52,9 @@ window.PRIORITY_WEIGHTS_POR_BANCA = {
   "matematica-algebra": 1.5,
   "matematica-probabilidade": 1.5,
   "matematica-sequencias": 1.5,
+  "matematica-logica-conjuntos": 1.5,
+  "matematica-complexos": 1.5,
+  "matematica-polinomios": 1.5,
   "historia-brasil-colonia-imperio": 2,
   "historia-brasil-republica": 2,
   "historia-geral-contemporanea": 2,
@@ -103,7 +106,8 @@ window.PRIORITY_WEIGHTS_POR_BANCA = {
   "fisica-ondas-optica": 0,
   "fisica-eletromagnetismo": 0,
   "fisica-hidrostatica": 0,
-  "fisica-energia-trabalho": 0
+  "fisica-energia-trabalho": 0,
+  "fisica-moderna": 0
  },
  "insper": {
   "interpretacao-texto": 3,
@@ -147,6 +151,9 @@ window.PRIORITY_WEIGHTS_POR_BANCA = {
   "matematica-algebra": 3,
   "matematica-probabilidade": 3,
   "matematica-sequencias": 3,
+  "matematica-logica-conjuntos": 3,
+  "matematica-complexos": 3,
+  "matematica-polinomios": 3,
   "historia-brasil-colonia-imperio": 2.5,
   "historia-brasil-republica": 2.5,
   "historia-geral-contemporanea": 2.5,
@@ -198,7 +205,8 @@ window.PRIORITY_WEIGHTS_POR_BANCA = {
   "fisica-ondas-optica": 1.5,
   "fisica-eletromagnetismo": 1.5,
   "fisica-hidrostatica": 1.5,
-  "fisica-energia-trabalho": 1.5
+  "fisica-energia-trabalho": 1.5,
+  "fisica-moderna": 1.5
  }
 };
 

@@ -150,6 +150,32 @@ window.VIDEO_TOPICS = {
    "busca": "aula periodicidade e resto da divisão em sequências vestibular"
   }
  ],
+ "matematica-logica-conjuntos": [
+  {
+   "tema": "Lógica proposicional: tabela-verdade e negações",
+   "busca": "aula lógica proposicional tabela-verdade vestibular"
+  },
+  {
+   "tema": "Conjuntos: união, interseção e diagramas",
+   "busca": "aula operações com conjuntos diagrama de Venn vestibular"
+  }
+ ],
+ "matematica-complexos": [
+  {
+   "tema": "Números complexos: forma algébrica e trigonométrica",
+   "busca": "aula números complexos forma trigonométrica vestibular"
+  },
+  {
+   "tema": "De Moivre: potenciação e radiciação de complexos",
+   "busca": "aula De Moivre potenciação radiciação números complexos vestibular"
+  }
+ ],
+ "matematica-polinomios": [
+  {
+   "tema": "Relações de Girard e teorema do resto",
+   "busca": "aula relações de Girard teorema do resto polinômios vestibular"
+  }
+ ],
  "interpretacao-argumentacao": [
   {
    "tema": "Argumentação e tipos de argumento em textos",
@@ -884,6 +910,16 @@ window.VIDEO_TOPICS = {
   {
    "tema": "Energia, trabalho e quantidade de movimento",
    "busca": "aula energia trabalho quantidade de movimento vestibular"
+  }
+ ],
+ "fisica-moderna": [
+  {
+   "tema": "Relatividade restrita: dilatação do tempo e contração do espaço",
+   "busca": "aula relatividade restrita dilatação do tempo vestibular"
+  },
+  {
+   "tema": "Efeito fotoelétrico e dualidade onda-partícula",
+   "busca": "aula efeito fotoelétrico dualidade onda-partícula vestibular"
   }
  ]
 };

@@ -315,11 +315,13 @@ const SUBTEMAS = {
       [/vaz[ãa]o|escoamento|bernoulli|tubo de/i, 4],
     ] },
     { id: "fisica-moderna", nome: "Física Moderna e Relatividade", regras: [
-      [/relatividade (restrita|especial)|dilata[çc][ãa]o do tempo|contra[çc][ãa]o do comprimento|transforma[çc][õo]es? de lorentz/i, 5],
-      [/referenciais? inerci(al|ais)|simultaneidade de eventos|velocidade relativ[íi]stica/i, 4],
-      [/efeito fotoel[ée]trico|f[óo]ton\b|quantum de energia|dualidade onda-part[íi]cula/i, 5],
-      [/E\s*=\s*mc[²2]|energia de repouso|massa relativ[íi]stica/i, 5],
-      [/fator de lorentz|função trabalho do metal/i, 4],
+      [/relatividade (restrita|especial)|dilata[çc][ãa]o do tempo|contra[çc][ãa]o do comprimento|transforma[çc][õo]es? de lorentz/i, 12],
+      [/referenciais? inerci(al|ais)|simultaneidade de eventos|velocidade relativ[íi]stica|f[áa]tor de lorentz|\bγ\s*=/i, 10],
+      [/efeito fotoel[ée]trico|f[óo]ton\b|quantum de energia|dualidade onda-part[íi]cula|de broglie/i, 12],
+      [/E\s*=\s*mc[²2]|energia de repouso|massa relativ[íi]stica|energia cin[ée]tica relativ[íi]stica/i, 10],
+      [/fun[çc][ãa]o trabalho (do metal|de um metal)|el[ée]trons? ejetados|frequ[êe]ncia de corte|energia cin[ée]tica m[áa]xima/i, 8],
+      [/velocidade da luz|\bc\s*=\s*3[.,]0\s*×\s*10|pr[óo]ximas? de c\b|refer[êe]ncia (a|de) einstein/i, 5],
+      [/n[úu]cleo espacial|nave espacial|astronauta|m[úu]on/i, 3],
     ] },
   ],
 

@@ -80,6 +80,18 @@ const POR_BANCA = {
       "artes-cultura": 0.5, "ingles": 0,
     },
   },
+
+  // Peso vem direto do resumo oficial do ITA 2024: Física, Matemática, Química,
+  // Português e Inglês saem 12 de 60 cada, 20% exatos, sem matéria dominante.
+  // O português do ITA vem repartido em três frentes no banco central
+  // (gramática, interpretação, literatura); cada uma pesa menos que um quinto
+  // sozinha, por isso 2 em vez do 3 das frentes inteiras.
+  engenharia: {
+    ita: {
+      matematica: 3, fisica: 3, quimica: 3, ingles: 3,
+      gramatica: 2, "interpretacao-texto": 2, literatura: 2,
+    },
+  },
 };
 
 // Peso da FRENTE quando ele deve diferir do peso usado no estudo diário.
@@ -150,6 +162,7 @@ const BANCA_ALVO = {
   direito: ["fgv", "insper"],
   medicina: ["fuvest", "unicamp"],
   economia: ["fgv", "insper"],
+  engenharia: ["ita"],
 };
 
 module.exports = { POR_BANCA, PESO_DE_FRENTE, OVERRIDES, BANCA_ALVO };

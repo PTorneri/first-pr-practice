@@ -21,7 +21,7 @@
 (function () {
   // Contador de cache do CONTEÚDO, separado do ?v= do código (ver o comentário
   // longo no topo do index.html). Corrigiu uma questão? Incremente aqui.
-  const DATA_VERSION = 44;
+  const DATA_VERSION = 45;
 
   // A chave da trilha ativa é a única que vive FORA do namespace de trilha —
   // é ela que diz qual namespace usar. Sobe pra nuvem junto com o resto.
@@ -603,6 +603,80 @@
         { nome: "FGV", url: "https://vestibular.fgv.br/provas-gabaritos" },
         { nome: "Insper", url: "https://www.insper.edu.br/content/insper-portal/pt/cursos/vestibular/provas-e-gabaritos.html" },
       ],
+    },
+
+    // ---------- Engenharia ----------
+    //
+    // EM CONSTRUÇÃO: registrada e desligada (emConstrucao: true), pelo mesmo
+    // motivo que Economia ficou assim até o primeiro clique real, logado —
+    // ver o comentário lá em cima. Ninguém testou esta trilha num navegador
+    // de verdade ainda; só o build headless (banco-central/build-trilhas.js)
+    // passou.
+    //
+    // SÓ 7 DAS 14 FRENTES do banco central: Matemática, Física, Química,
+    // Gramática, Interpretação de Texto, Literatura e Inglês — o que cobre a
+    // prova do ITA inteira (Física, Matemática, Química, Português e Inglês
+    // valem 20% cada, sem matéria dominante). Humanas e Biologia ficaram de
+    // fora: aparecem no banco da Mauá, mas sem o detalhe por matéria que
+    // sustentaria teoria (gatilhos/pegadinhas) sem inventar — ver
+    // banco-central/teoria.js, NOVAS.engenharia.
+    //
+    // SEM obras/redação/flashcards: esta trilha não tem esse conteúdo
+    // escrito ainda, por isso essas abas nem entram em `abas` e os arquivos
+    // correspondentes nem em `arquivos` — abrir uma aba sem dado por trás
+    // seria pior que não ter a aba.
+    //
+    // SEM provasOficiais: eu não tinha uma URL verificada da página de
+    // provas e gabaritos do ITA para colocar aqui, e chutar link errado é
+    // pior que não ter o card. Fica para quem tiver a URL confirmada.
+    engenharia: {
+      id: "engenharia",
+      nome: "Engenharia",
+      prefixo: "eng_",
+      subtitulo: "ITA",
+      resumo: "Cinco provas de peso igual — Física, Matemática, Química, Português e Inglês " +
+              "somam 20% cada — e a única trilha do banco que cobra números complexos, " +
+              "polinômios e física moderna direto, no nível que o ITA pede todo ano.",
+      logoAlt: MARCA_TXT,
+      titulo: MARCA_HTML + " — Engenharia",
+      marca: MARCA_HTML,
+      bancas: ["ita"],
+      dataDir: "../vestibular-engenharia/data/",
+      arquivos: ["subtopics", "theory", "priority-weights", "video-topics", "bundle"],
+      abas: ["hoje", "calendario", "simulados", "buscar", "erros", "progresso", "perfil", "mais"],
+      plano: {
+        totalDias: 90,
+        subtemasPorDia: 3,
+        exerciciosMin: 8,
+        exerciciosMax: 10,
+        simuladoQtd: 45,
+        simuladoMinPorFrente: 1,
+        // Quarta semente distinta das outras três trilhas, mesmo motivo.
+        seed: 20260404,
+      },
+      // Só 3 dos 5 blocos do caderno real (Física, Matemática, Química —
+      // 12 questões cada no ITA 2024, extraídas em
+      // vestibular-engenharia/data/questoes-reais-ita-STAGING.md). Português
+      // e Inglês ficaram fora do "ensaio de prova" porque as 24 questões
+      // reais desses blocos foram TODAS excluídas do banco por direito
+      // autoral (baseadas em romance/peça e reportagem protegidos) — um
+      // simulado "fiel ao ITA" com questões genéricas no lugar delas seria
+      // menos honesto que um simulado menor mas real. duracaoMin é uma
+      // ESTIMATIVA proporcional (36 de 60 questões reais, sobre um total de
+      // prova de ~5h) — não é o tempo oficial dessas 36 isoladas, que a
+      // banca não publica.
+      simuladoOficial: {
+        ita: {
+          nome: "ITA",
+          duracaoMin: 180,
+          blocos: [
+            { nome: "Física", frentes: { "fisica": 12 } },
+            { nome: "Matemática", frentes: { "matematica": 12 } },
+            { nome: "Química", frentes: { "quimica": 12 } },
+          ],
+        },
+      },
+      emConstrucao: true,
     },
   };
 

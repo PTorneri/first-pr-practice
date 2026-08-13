@@ -80,6 +80,17 @@ const TRILHAS = {
       "historia", "geografia", "filosofia-sociologia", "direitos-humanos", "artes-cultura",
       "atualidades", "biologia", "quimica", "fisica"],
   },
+  // Só as 7 frentes com teoria REAL por trás (NOVAS.engenharia em teoria.js,
+  // com dado extraído de ITA 2024). Cobre a prova do ITA inteira (Matemática,
+  // Física, Química e Português/Inglês somam 100% do caderno). Humanas e
+  // Biologia aparecem no banco da Mauá mas sem o detalhe por matéria que
+  // sustentaria teoria sem inventar -- ficam de fora até esse dado existir.
+  engenharia: {
+    dataDir: path.join(RAIZ, "vestibular-engenharia", "data"),
+    nome: "Engenharia",
+    frentes: ["matematica", "fisica", "quimica", "gramatica", "interpretacao-texto",
+      "literatura", "ingles"],
+  },
 };
 
 // ------------------------------------------------------------------ utilidades

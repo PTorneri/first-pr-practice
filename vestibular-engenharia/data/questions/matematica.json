@@ -3,7 +3,7 @@
   "textos": [],
   "questoes": [
     {
-      "id": "eng-complexos-01",
+      "id": "complexos-01",
       "enunciado": "O valor de i²⁰²⁶, sendo i a unidade imaginária (i² = −1), é:",
       "alternativas": {
         "a": "i",
@@ -17,7 +17,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-02",
+      "id": "complexos-02",
       "enunciado": "Sejam z₁ = 3 − 2i e z₂ = −1 + 4i. O valor de z₁ · z₂ é:",
       "alternativas": {
         "a": "−3 − 8i",
@@ -31,7 +31,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-03",
+      "id": "complexos-03",
       "enunciado": "O resultado da divisão (5 + i) / (2 − 3i), na forma a + bi, é:",
       "alternativas": {
         "a": "(13 + 17i)/7",
@@ -45,7 +45,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-04",
+      "id": "complexos-04",
       "enunciado": "O módulo do número complexo z = −5 + 12i é:",
       "alternativas": {
         "a": "7",
@@ -59,7 +59,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-05",
+      "id": "complexos-05",
       "enunciado": "Se z = 4 − 3i, o produto z · z̄ (z pelo seu conjugado) é igual a:",
       "alternativas": {
         "a": "7",
@@ -73,7 +73,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-06",
+      "id": "complexos-06",
       "enunciado": "As raízes complexas da equação x² − 4x + 13 = 0 são:",
       "alternativas": {
         "a": "2 ± 6i",
@@ -87,7 +87,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-07",
+      "id": "complexos-07",
       "enunciado": "O número complexo z = 1 + i, na forma trigonométrica, é escrito como z = √2·(cos θ + i·sen θ), em que θ é:",
       "alternativas": {
         "a": "30°",
@@ -101,7 +101,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-08",
+      "id": "complexos-08",
       "enunciado": "O argumento do número complexo z = −√3 + i, no intervalo [0°, 360°), é:",
       "alternativas": {
         "a": "30°",
@@ -115,7 +115,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-09",
+      "id": "complexos-09",
       "enunciado": "Sejam z₁ = 2(cos 60° + i sen 60°) e z₂ = 3(cos 30° + i sen 30°). O produto z₁ · z₂, na forma algébrica, é:",
       "alternativas": {
         "a": "6",
@@ -129,7 +129,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-10",
+      "id": "complexos-10",
       "enunciado": "Sejam z₁ = 12(cos200° + i sen200°) e z₂ = 4(cos50° + i sen50°). O quociente z₁/z₂ é:",
       "alternativas": {
         "a": "3(cos150° + i sen150°)",
@@ -143,7 +143,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-11",
+      "id": "complexos-11",
       "enunciado": "Se z = 2(cos30° + i sen30°), o valor de z⁶, na forma algébrica, é:",
       "alternativas": {
         "a": "−12",
@@ -157,7 +157,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-12",
+      "id": "complexos-12",
       "enunciado": "O valor de (1 + i)⁸ é:",
       "alternativas": {
         "a": "16",
@@ -171,7 +171,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-13",
+      "id": "complexos-13",
       "enunciado": "As raízes quadradas complexas de −4 são:",
       "alternativas": {
         "a": "±2",
@@ -185,7 +185,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-14",
+      "id": "complexos-14",
       "enunciado": "A soma das três raízes cúbicas complexas da unidade (isto é, dos três números z tais que z³ = 1) é:",
       "alternativas": {
         "a": "0",
@@ -199,7 +199,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-15",
+      "id": "complexos-15",
       "enunciado": "O número de raízes complexas distintas da equação z⁵ = 32 é:",
       "alternativas": {
         "a": "1",
@@ -213,7 +213,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-16",
+      "id": "complexos-16",
       "enunciado": "Todas as raízes complexas da equação z⁴ = −16 têm módulo igual a:",
       "alternativas": {
         "a": "2",
@@ -227,7 +227,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-17",
+      "id": "complexos-17",
       "enunciado": "As seis raízes complexas da equação z⁶ = 1 estão representadas no plano de Argand-Gauss sobre uma circunferência de raio 1. O ângulo central entre duas raízes consecutivas é:",
       "alternativas": {
         "a": "30°",
@@ -241,7 +241,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-18",
+      "id": "complexos-18",
       "enunciado": "O lugar geométrico dos pontos z do plano complexo que satisfazem |z − (2 + 3i)| = 5 é:",
       "alternativas": {
         "a": "uma reta",
@@ -255,7 +255,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-19",
+      "id": "complexos-19",
       "enunciado": "O lugar geométrico dos pontos z do plano complexo que satisfazem |z − 3| = |z + 3| é:",
       "alternativas": {
         "a": "a circunferência de raio 3 centrada na origem",
@@ -269,7 +269,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-20",
+      "id": "complexos-20",
       "enunciado": "Se |z₁| = 5 e |z₂| = √2, o módulo do produto z₁ · z₂ é:",
       "alternativas": {
         "a": "5√2",
@@ -283,7 +283,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-21",
+      "id": "complexos-21",
       "enunciado": "Se o argumento de z é 70°, o argumento de z̄ (conjugado de z), no intervalo [0°, 360°), é:",
       "alternativas": {
         "a": "70°",
@@ -297,7 +297,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-22",
+      "id": "complexos-22",
       "enunciado": "O número complexo z = 4(cos120° + i sen120°), escrito na forma algébrica a + bi, é:",
       "alternativas": {
         "a": "−2√3 + 2i",
@@ -311,7 +311,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-23",
+      "id": "complexos-23",
       "enunciado": "O valor de 6/(3i), na forma a + bi, é:",
       "alternativas": {
         "a": "2i",
@@ -325,7 +325,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-24",
+      "id": "complexos-24",
       "enunciado": "Se z = 7 − 5i, o valor de z + z̄ é:",
       "alternativas": {
         "a": "0",
@@ -339,7 +339,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-complexos-25",
+      "id": "complexos-25",
       "enunciado": "A região do plano complexo definida por |z| ≤ 3 é:",
       "alternativas": {
         "a": "o exterior de uma circunferência de raio 3",
@@ -353,7 +353,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-01",
+      "id": "polinomios-01",
       "enunciado": "O resto da divisão do polinômio p(x) = x³ − 3x² + 2x + 5 por (x − 2) é:",
       "alternativas": {
         "a": "9",
@@ -367,7 +367,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-02",
+      "id": "polinomios-02",
       "enunciado": "O resto da divisão de p(x) = 2x³ − 5x + 3 por (x + 1) é:",
       "alternativas": {
         "a": "4",
@@ -381,7 +381,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-03",
+      "id": "polinomios-03",
       "enunciado": "Para que o polinômio p(x) = x³ + kx² − 4x + 8 seja divisível por (x − 2), o valor de k deve ser:",
       "alternativas": {
         "a": "0",
@@ -395,7 +395,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-04",
+      "id": "polinomios-04",
       "enunciado": "Ao dividir um polinômio de grau 5 por um polinômio de grau 2, o grau do quociente obtido é:",
       "alternativas": {
         "a": "2",
@@ -409,7 +409,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-05",
+      "id": "polinomios-05",
       "enunciado": "As raízes da equação x² − 7x + 10 = 0 têm soma e produto, respectivamente, iguais a:",
       "alternativas": {
         "a": "10 e 7",
@@ -423,7 +423,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-06",
+      "id": "polinomios-06",
       "enunciado": "Sabendo que 1, 2 e 3 são as três raízes do polinômio p(x) = x³ − 6x² + 11x − 6, a soma dos produtos das raízes tomadas duas a duas (1·2 + 1·3 + 2·3) deveria ser igual ao coeficiente de p(x) indicado pelas relações de Girard como:",
       "alternativas": {
         "a": "o coeficiente de x², com sinal trocado",
@@ -437,7 +437,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-07",
+      "id": "polinomios-07",
       "enunciado": "O produto das três raízes da equação 2x³ + 3x² − 11x − 6 = 0 é:",
       "alternativas": {
         "a": "−6",
@@ -451,7 +451,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-08",
+      "id": "polinomios-08",
       "enunciado": "O polinômio p(x) = x⁴ − 10x³ + 35x² − 50x + 24 tem raízes 1, 2, 3 e 4. A soma dessas quatro raízes é:",
       "alternativas": {
         "a": "35",
@@ -465,7 +465,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-09",
+      "id": "polinomios-09",
       "enunciado": "Sabendo que 1 é raiz do polinômio p(x) = x³ − 2x² − 5x + 6, as outras duas raízes são:",
       "alternativas": {
         "a": "−3 e −2",
@@ -479,7 +479,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-10",
+      "id": "polinomios-10",
       "enunciado": "O polinômio p(x) = x⁴ − x³ − 7x² + x + 6 tem −1 como uma de suas raízes. Dividindo p(x) por (x + 1), o polinômio quociente obtido é:",
       "alternativas": {
         "a": "x³ − x² − 7x + 1",
@@ -493,7 +493,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-11",
+      "id": "polinomios-11",
       "enunciado": "Pelo Teorema Fundamental da Álgebra, um polinômio de grau 7 com coeficientes complexos tem, contando as multiplicidades, exatamente:",
       "alternativas": {
         "a": "7 raízes reais",
@@ -507,7 +507,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-12",
+      "id": "polinomios-12",
       "enunciado": "Um polinômio p(x) deixa resto 5 quando dividido por (x − 1) e resto 9 quando dividido por (x − 3). Sabendo que o resto da divisão de p(x) por (x − 1)(x − 3) é da forma ax + b, os valores de a e b são:",
       "alternativas": {
         "a": "a = 2 e b = 7",
@@ -521,7 +521,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-13",
+      "id": "polinomios-13",
       "enunciado": "A raiz x = 2 do polinômio p(x) = x³ − 3x² + 4 tem multiplicidade 2 (isto é, (x−2)² divide p(x) exatamente). Isso significa que:",
       "alternativas": {
         "a": "x=2 não é, de fato, raiz de p(x)",
@@ -535,7 +535,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-14",
+      "id": "polinomios-14",
       "enunciado": "Um polinômio de grau 4 com coeficientes reais tem a raiz 3 com multiplicidade 3 e mais uma raiz real simples. O número total de raízes distintas desse polinômio é:",
       "alternativas": {
         "a": "3",
@@ -549,7 +549,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-15",
+      "id": "polinomios-15",
       "enunciado": "Um polinômio p(x) com coeficientes reais e grau 4 tem 2 + 3i como uma de suas raízes. Isso garante que também é raiz de p(x):",
       "alternativas": {
         "a": "−2 − 3i",
@@ -563,7 +563,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-16",
+      "id": "polinomios-16",
       "enunciado": "O polinômio quadrático de coeficientes reais e coeficiente líder 1 que tem 2 + 3i e 2 − 3i como raízes é:",
       "alternativas": {
         "a": "x² + 4x + 13",
@@ -577,7 +577,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-17",
+      "id": "polinomios-17",
       "enunciado": "Considere o polinômio p(x) = 2x³ − 3x² − 11x + 6, com coeficientes inteiros. Pelo teorema das raízes racionais, uma possível raiz racional p/q (fração irredutível) deve ter p como divisor de:",
       "alternativas": {
         "a": "2 (o coeficiente líder), e q como divisor de 6 (o termo independente)",
@@ -591,7 +591,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-18",
+      "id": "polinomios-18",
       "enunciado": "Entre os candidatos a raiz racional do polinômio p(x) = 2x³ − 3x² − 11x + 6 fornecidos pelo teorema das raízes racionais, a que de fato é raiz é:",
       "alternativas": {
         "a": "6",
@@ -605,7 +605,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-19",
+      "id": "polinomios-19",
       "enunciado": "O polinômio p(x) = x³ − 2 tem uma única raiz real, ∛2, que é um número irracional. Isso é compatível com o teorema das raízes racionais porque:",
       "alternativas": {
         "a": "o teorema garante que todo polinômio de coeficientes inteiros tem ao menos uma raiz racional",
@@ -619,7 +619,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-20",
+      "id": "polinomios-20",
       "enunciado": "Para o polinômio p(x) = 3x² − 5x − 2, com coeficientes inteiros, o número de candidatos a raiz racional positivos fornecidos pelo teorema das raízes racionais (frações p/q irredutíveis, com p divisor de 2 e q divisor de 3) é:",
       "alternativas": {
         "a": "2",
@@ -633,7 +633,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-21",
+      "id": "polinomios-21",
       "enunciado": "Um polinômio do segundo grau ax² + bx + c, com a, b e c todos positivos, tem duas raízes reais. Sobre o sinal dessas raízes, é correto afirmar que:",
       "alternativas": {
         "a": "as duas raízes são negativas, pois a soma −b/a é negativa e o produto c/a é positivo",
@@ -647,7 +647,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-22",
+      "id": "polinomios-22",
       "enunciado": "Se p(x) tem grau 3 e q(x) tem grau 4, o grau do polinômio produto p(x)·q(x) é:",
       "alternativas": {
         "a": "7",
@@ -661,7 +661,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-23",
+      "id": "polinomios-23",
       "enunciado": "Sendo r₁ e r₂ as raízes de x² − 5x + 6 = 0, o valor de 1/r₁ + 1/r₂ é:",
       "alternativas": {
         "a": "5/6",
@@ -675,7 +675,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-24",
+      "id": "polinomios-24",
       "enunciado": "Um polinômio p(x) é tal que p(x) = 0 para todo valor real de x. Sobre o grau desse polinômio, é correto afirmar que:",
       "alternativas": {
         "a": "o polinômio nulo não tem grau definido, e não pode ser tratado como tendo grau 0",
@@ -689,7 +689,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-polinomios-25",
+      "id": "polinomios-25",
       "enunciado": "Se x = a é raiz dupla de p(x), isto é, p(x) = (x−a)²·q(x) com q(a) ≠ 0, então necessariamente:",
       "alternativas": {
         "a": "p(a) = 0",
@@ -703,7 +703,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-01",
+      "id": "logica-01",
       "enunciado": "Numa turma de 40 alunos, 22 fazem cursinho de Matemática e 18 fazem cursinho de Física. Sabendo que 8 alunos fazem os dois cursinhos, o número de alunos que não fazem nenhum dos dois é:",
       "alternativas": {
         "a": "14",
@@ -717,7 +717,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-02",
+      "id": "logica-02",
       "enunciado": "Dos 90 alunos de um cursinho, 50 estudam Cálculo, 40 estudam Física e 35 estudam Química. Desses, 20 estudam Cálculo e Física, 15 estudam Física e Química, 18 estudam Cálculo e Química, e 8 estudam as três disciplinas. O número de alunos que não estudam nenhuma das três é:",
       "alternativas": {
         "a": "45",
@@ -731,7 +731,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-03",
+      "id": "logica-03",
       "enunciado": "Sejam A = {x ∈ ℕ : 1 ≤ x ≤ 20} e B o conjunto dos múltiplos de 3 pertencentes a A. O número de elementos do conjunto A − B (diferença entre A e B) é:",
       "alternativas": {
         "a": "6",
@@ -745,7 +745,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-04",
+      "id": "logica-04",
       "enunciado": "Considere as proposições p: \"Marte tem duas luas\" (verdadeira) e q: \"Vênus é o planeta mais próximo do Sol\" (falsa). O valor lógico da proposição composta ~p ∨ (p → q) é:",
       "alternativas": {
         "a": "verdadeira, porque p → q é verdadeira sempre que p é verdadeira",
@@ -759,7 +759,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-05",
+      "id": "logica-05",
       "enunciado": "A negação lógica da proposição \"Se chove, então a rua fica molhada\" é:",
       "alternativas": {
         "a": "Não chove ou a rua não fica molhada",
@@ -773,7 +773,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-06",
+      "id": "logica-06",
       "enunciado": "Das proposições compostas abaixo, é logicamente equivalente a p → q:",
       "alternativas": {
         "a": "~p ∨ q",
@@ -787,7 +787,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-07",
+      "id": "logica-07",
       "enunciado": "Numa pesquisa com 200 pessoas sobre o consumo de dois serviços de streaming, A e B, verificou-se que o número de pessoas que assinam apenas A é o dobro do número de pessoas que assinam apenas B, 30 pessoas assinam ambos e 50 não assinam nenhum. O número de pessoas que assinam o serviço A (incluindo quem assina os dois) é:",
       "alternativas": {
         "a": "80",
@@ -801,7 +801,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-08",
+      "id": "logica-08",
       "enunciado": "Considere a proposição: \"Se um número é múltiplo de 6, então é múltiplo de 3.\" Assinale a alternativa que apresenta a contrapositiva dessa proposição.",
       "alternativas": {
         "a": "Se um número não é múltiplo de 6, então não é múltiplo de 3",
@@ -815,7 +815,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-09",
+      "id": "logica-09",
       "enunciado": "Sejam A e B subconjuntos de um universo U. A expressão que é sempre igual a (A ∩ B)ᶜ (complementar da interseção) é:",
       "alternativas": {
         "a": "A ∩ Bᶜ",
@@ -829,7 +829,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-10",
+      "id": "logica-10",
       "enunciado": "A negação da proposição \"Todo engenheiro que se forma no ITA encontra emprego em até seis meses\" é:",
       "alternativas": {
         "a": "Nenhum engenheiro que se forma no ITA encontra emprego em até seis meses",
@@ -843,7 +843,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-11",
+      "id": "logica-11",
       "enunciado": "Se A tem 4 elementos e B tem 3 elementos, o número de subconjuntos do produto cartesiano A × B é:",
       "alternativas": {
         "a": "12",
@@ -857,7 +857,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-12",
+      "id": "logica-12",
       "enunciado": "Uma proposição composta é formada por 4 proposições simples distintas, p, q, r e s. O número de linhas da tabela-verdade dessa proposição composta é:",
       "alternativas": {
         "a": "8",
@@ -871,7 +871,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-13",
+      "id": "logica-13",
       "enunciado": "Um número inteiro n satisfaz \"n é par se, e somente se, n² é par\". Sobre essa proposição bicondicional, é correto afirmar que ela é:",
       "alternativas": {
         "a": "verdadeira apenas para n positivo",
@@ -885,7 +885,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-14",
+      "id": "logica-14",
       "enunciado": "Em uma pesquisa com 150 candidatos de um processo seletivo, 90 sabem Python, 70 sabem C++ e 40 sabem as duas linguagens. O número de candidatos que sabem apenas uma das duas linguagens é:",
       "alternativas": {
         "a": "80",
@@ -899,7 +899,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-15",
+      "id": "logica-15",
       "enunciado": "Considere as premissas: \"Todo número primo maior que 2 é ímpar\" e \"7 é um número primo maior que 2.\" A conclusão que se segue validamente dessas premissas é:",
       "alternativas": {
         "a": "7 é ímpar",
@@ -913,7 +913,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-16",
+      "id": "logica-16",
       "enunciado": "Sejam A = {1, 2, 3} e B = {3, 4, 5}. O número de elementos do conjunto (A ∪ B) − (A ∩ B) é:",
       "alternativas": {
         "a": "6",
@@ -927,7 +927,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-17",
+      "id": "logica-17",
       "enunciado": "Para quaisquer conjuntos A, B e C, a expressão A ∩ (B ∪ C) é sempre igual a:",
       "alternativas": {
         "a": "(A ∩ B) ∪ (A ∩ C)",
@@ -941,7 +941,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-18",
+      "id": "logica-18",
       "enunciado": "Numa prova de múltipla escolha, a instrução diz: \"Marque a alternativa se ela contiver um erro de português ou um erro de cálculo.\" Um candidato marca uma alternativa que contém os dois tipos de erro ao mesmo tempo. De acordo com o conectivo lógico \"ou\" usado em matemática (disjunção inclusiva), essa alternativa:",
       "alternativas": {
         "a": "só deveria ser marcada se o erro de cálculo fosse corrigido primeiro",
@@ -955,7 +955,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-19",
+      "id": "logica-19",
       "enunciado": "O conjunto A tem exatamente 64 subconjuntos. O número de elementos de A é:",
       "alternativas": {
         "a": "5",
@@ -969,7 +969,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-20",
+      "id": "logica-20",
       "enunciado": "A negação da proposição \"Existe um número real x tal que x² + 1 = 0\" é:",
       "alternativas": {
         "a": "Não existe nenhum número real x tal que x² + 1 = 0",
@@ -983,7 +983,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-21",
+      "id": "logica-21",
       "enunciado": "Sejam A o conjunto dos divisores positivos de 12 e B o conjunto dos divisores positivos de 18. O número de elementos da diferença simétrica A △ B (elementos que pertencem a exatamente um dos dois conjuntos) é:",
       "alternativas": {
         "a": "4",
@@ -997,7 +997,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-22",
+      "id": "logica-22",
       "enunciado": "Numa pesquisa com 300 pessoas, 180 disseram gostar de rock, 150 disseram gostar de MPB e 45 disseram não gostar de nenhum dos dois gêneros. O número de pessoas que gostam dos dois gêneros ao mesmo tempo é:",
       "alternativas": {
         "a": "30",
@@ -1011,7 +1011,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-23",
+      "id": "logica-23",
       "enunciado": "Uma fábrica produz camisetas em 5 cores diferentes e 4 tamanhos diferentes. Representando cada camiseta como um par ordenado (cor, tamanho), o número de camisetas distintas que a fábrica pode produzir é:",
       "alternativas": {
         "a": "9",
@@ -1025,7 +1025,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-24",
+      "id": "logica-24",
       "enunciado": "Sejam as proposições p: \"8 é divisor de 24\" (verdadeira), q: \"8 é divisor de 36\" (falsa) e r: \"8 é primo\" (falsa). O valor lógico de (p ∧ ~q) ∨ r é:",
       "alternativas": {
         "a": "verdadeira, pois p é verdadeira e ~q também é verdadeira, o que já basta para a disjunção com r",
@@ -1039,7 +1039,7 @@
       "formato": "direta"
     },
     {
-      "id": "eng-logica-25",
+      "id": "logica-25",
       "enunciado": "Em um universo U com 50 elementos, o conjunto A tem 28 elementos. O número de elementos do complementar de A em relação a U é:",
       "alternativas": {
         "a": "78",

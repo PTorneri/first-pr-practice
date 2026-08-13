@@ -3262,6 +3262,186 @@
       "resposta": "b",
       "explicacao": "O texto enuncia uma crença corrente (\"students are told\"), declara que ela é falsa e explica por que ela sobrevive: é estrutura de refutação, não de descrição. A alternativa (e) exagera a tese — o autor mostra que a memória sustenta o raciocínio clínico, o que está longe de proclamá-la método único de ensino.",
       "formato": "direta"
-    }
+    },
+      {
+        "id": "ingles-211",
+        "texto_apoio": "Considere os termos: \"parents\", \"library\", \"fabric\".",
+        "enunciado": "O termo \"parents\" significa ______, \"library\" significa ______ e \"fabric\" significa ______, respectivamente. As lacunas são preenchidas por:",
+        "alternativas": {
+          "a": "parentes – livraria – fábrica, sentidos que coincidem com os das palavras portuguesas de grafia semelhante",
+          "b": "pais – biblioteca – tecido, sentidos que não correspondem aos das palavras portuguesas parecidas na forma",
+          "c": "parentes – biblioteca – fábrica, combinação em que apenas o segundo termo é falso cognato verdadeiro",
+          "d": "pais – livraria – tecido, combinação em que o segundo termo mantém o sentido da palavra portuguesa parecida",
+          "e": "padrinhos – editora – matéria-prima, sentidos técnicos empregados apenas em contextos jurídicos específicos"
+        },
+        "resposta": "b",
+        "explicacao": "Os três são falsos cognatos clássicos: \"parents\" são os pais (não parentes em geral), \"library\" é biblioteca (não livraria, que em inglês é \"bookstore\") e \"fabric\" é tecido (não fábrica, que é \"factory\").",
+        "formato": "lacunas"
+      },
+      {
+        "id": "ingles-212",
+        "texto_apoio": "\"The committee reviewed the proposal, but ultimately it addressed none of the residents' concerns.\"",
+        "enunciado": "Nessa frase, o verbo \"addressed\" está mais próximo, em sentido, de:",
+        "alternativas": {
+          "a": "endereçou, no sentido de enviar correspondência formal a um destinatário específico",
+          "b": "elogiou, reconhecendo publicamente o valor das preocupações apresentadas pelos moradores",
+          "c": "tratou de, no sentido de lidar com um assunto ou responder a uma demanda",
+          "d": "ignorou por completo, agindo como se as preocupações dos moradores nunca tivessem sido apresentadas",
+          "e": "arquivou formalmente, encerrando o processo sem qualquer nova análise pelo comitê"
+        },
+        "resposta": "c",
+        "explicacao": "\"To address\" um problema ou uma preocupação significa lidar com ele, tratar dele — não tem relação com endereço postal. A frase diz que o comitê não tratou de nenhuma das preocupações, não que as ignorou de forma deliberada nem que as arquivou.",
+        "formato": "direta"
+      },
+      {
+        "id": "ingles-213",
+        "texto_apoio": "\"I assume the results will be ready by Friday, based on the schedule we discussed.\"",
+        "enunciado": "O verbo \"assume\", nesse contexto, significa:",
+        "alternativas": {
+          "a": "supor, admitir como provável sem ter certeza absoluta",
+          "b": "assumir um cargo, tomar posse de uma função dentro de uma equipe",
+          "c": "aceitar a responsabilidade por um erro cometido anteriormente por outra pessoa",
+          "d": "assinar formalmente um documento que confirma um compromisso já agendado",
+          "e": "adiar uma decisão até que novas informações estejam disponíveis"
+        },
+        "resposta": "a",
+        "explicacao": "\"Assume\" em inglês corresponde a supor, presumir — um falso cognato de \"assumir\" no sentido de tomar posse de um cargo, que é \"to take on\" ou \"to take office\". A frase fala de uma suposição baseada num cronograma, não de posse de função.",
+        "formato": "direta"
+      },
+      {
+        "id": "ingles-214",
+        "texto_apoio": "\"The two neighbors had a loud argument over the fence late last night.\"",
+        "enunciado": "Nesse contexto, a palavra \"argument\" está mais próxima de:",
+        "alternativas": {
+          "a": "um argumento lógico apresentado formalmente numa disputa jurídica entre as partes envolvidas",
+          "b": "uma discussão acalorada entre as duas pessoas, sem relação necessária com lógica formal",
+          "c": "um documento assinado pelos dois vizinhos após a resolução do conflito relatado",
+          "d": "uma conversa tranquila sobre um tema de interesse comum entre os dois vizinhos",
+          "e": "um discurso público proferido por um dos vizinhos perante a vizinhança reunida"
+        },
+        "resposta": "b",
+        "explicacao": "Em inglês do dia a dia, \"argument\" costuma significar discussão, briga verbal — não necessariamente um argumento lógico ou jurídico, sentido mais raro e mais formal. \"Loud argument over the fence\" descreve uma briga de vizinhos, não uma peça processual.",
+        "formato": "direta"
+      },
+      {
+        "id": "ingles-215",
+        "texto_apoio": "\"The teacher gave the class a quick heads-up before the surprise quiz began.\"",
+        "enunciado": "A expressão \"heads-up\", nesse contexto, equivale a:",
+        "alternativas": {
+          "a": "uma repreensão severa dirigida a toda a turma antes do início da avaliação",
+          "b": "uma pausa formal concedida antes do início de qualquer atividade avaliativa",
+          "c": "uma votação rápida realizada entre os alunos sobre o formato da prova",
+          "d": "um aviso ou alerta antecipado sobre algo que está prestes a acontecer",
+          "e": "uma explicação detalhada do conteúdo que cairia integralmente na avaliação"
+        },
+        "resposta": "d",
+        "explicacao": "\"Heads-up\" é expressão informal para aviso antecipado, alerta rápido sobre algo iminente — nesse caso, a professora avisou a turma pouco antes da prova surpresa, o que é levemente contraditório e faz parte do efeito de humor da frase.",
+        "formato": "direta"
+      },
+      {
+        "id": "ingles-216",
+        "texto_apoio": "\"After years abroad, she decided to resume her career in her home country.\"",
+        "enunciado": "Nessa frase, o verbo \"resume\" significa:",
+        "alternativas": {
+          "a": "resumir, condensar as principais informações da carreira em um documento breve",
+          "b": "recomendar formalmente outra pessoa para ocupar um cargo específico",
+          "c": "encerrar definitivamente uma atividade profissional exercida por muitos anos",
+          "d": "reavaliar criticamente as escolhas profissionais feitas durante o período no exterior",
+          "e": "retomar, voltar a exercer algo que havia sido interrompido por um período"
+        },
+        "resposta": "e",
+        "explicacao": "\"To resume\" significa retomar, recomeçar algo interrompido — falso cognato de \"resumir\" (que em inglês é \"to summarize\"). Como substantivo, \"resume\" também existe no inglês americano com o sentido de currículo, sentido distinto do verbo desta frase.",
+        "formato": "direta"
+      },
+      {
+        "id": "ingles-217",
+        "texto_apoio": "\"The results were surprising, and the researchers eventually published them in a major journal.\"",
+        "enunciado": "Nesse trecho, a palavra \"eventually\" é mais próxima, em sentido, de:",
+        "alternativas": {
+          "a": "eventualmente, no sentido de algo que ocorre apenas de vez em quando, sem regularidade",
+          "b": "atualmente, fazendo referência ao momento presente em que o texto foi escrito",
+          "c": "por fim, indicando o desfecho de um processo que levou algum tempo para se completar",
+          "d": "imediatamente, sem qualquer intervalo entre a obtenção dos resultados e a publicação",
+          "e": "possivelmente, indicando incerteza quanto à publicação dos resultados obtidos"
+        },
+        "resposta": "c",
+        "explicacao": "\"Eventually\" corresponde a \"por fim\", \"finalmente\" — o desfecho de um processo, não a algo ocasional. É outro falso cognato clássico: \"eventualmente\" em português é \"occasionally\" ou \"possibly\" em inglês.",
+        "formato": "direta"
+      },
+      {
+        "id": "ingles-218",
+        "texto_apoio": "\"Please notice that the last paragraph was revised after the meeting.\"",
+        "enunciado": "O verbo \"notice\", nessa frase, significa:",
+        "alternativas": {
+          "a": "divulgar amplamente uma informação por meio de veículos de comunicação",
+          "b": "registrar formalmente um fato em ata para consulta em reuniões futuras",
+          "c": "noticiar um fato relevante em um jornal ou telejornal de grande audiência nacional",
+          "d": "perceber, prestar atenção a algo, sentido próximo de \"observar\" ou \"notar\"",
+          "e": "anunciar publicamente uma decisão tomada previamente por um grupo"
+        },
+        "resposta": "d",
+        "explicacao": "\"Notice\", como verbo, significa perceber, notar — falso cognato de \"noticiar\", que em inglês corresponde a \"to report\" ou \"to announce\". A frase pede que o leitor perceba a revisão do parágrafo, não que a divulgue.",
+        "formato": "direta"
+      },
+      {
+        "id": "ingles-219",
+        "texto_apoio": "\"He seemed like a sensible person, always weighing the pros and cons before deciding.\"",
+        "enunciado": "Nesse contexto, \"sensible\" está mais próximo de:",
+        "alternativas": {
+          "a": "sensível, no sentido de alguém que se emociona com facilidade diante de situações difíceis",
+          "b": "indeciso, alguém que hesita continuamente sem nunca chegar a uma conclusão",
+          "c": "sensorial, relativo à percepção imediata dos sentidos diante de um estímulo externo",
+          "d": "suscetível, alguém facilmente influenciado pela opinião alheia em qualquer situação",
+          "e": "sensato, alguém que pondera com cuidado antes de tomar uma decisão importante"
+        },
+        "resposta": "e",
+        "explicacao": "\"Sensible\" significa sensato, ponderado — falso cognato de \"sensível\", que em inglês é \"sensitive\". A frase descreve alguém que pesa prós e contras, traço de ponderação, não de sensibilidade emocional.",
+        "formato": "direta"
+      },
+      {
+        "id": "ingles-220",
+        "texto_apoio": "\"The novel and the movie share the same title, but the plot differs in the final chapters.\"",
+        "enunciado": "Nessa frase, a palavra \"novel\" corresponde a:",
+        "alternativas": {
+          "a": "romance, obra de ficção em prosa, geralmente de maior extensão",
+          "b": "novela, no sentido de produção televisiva exibida em capítulos diários",
+          "c": "notícia, relato factual publicado originalmente em veículo de imprensa",
+          "d": "roteiro, texto técnico usado como base para a produção de um filme",
+          "e": "resenha, texto crítico que comenta uma obra literária publicada"
+        },
+        "resposta": "a",
+        "explicacao": "\"Novel\" em inglês é romance — obra de ficção em prosa —, falso cognato de \"novela\", que em português designa a produção televisiva em capítulos e que em inglês corresponde a \"soap opera\" ou \"TV series\".",
+        "formato": "direta"
+      },
+      {
+        "id": "ingles-221",
+        "texto_apoio": "\"The volunteers collected donations, sorted the items, and delivered them to three shelters, all in a single weekend.\"",
+        "enunciado": "O pronome \"them\", na frase, refere-se a:",
+        "alternativas": {
+          "a": "aos três abrigos mencionados no final da oração apresentada no enunciado",
+          "b": "aos voluntários que participaram da ação descrita ao longo do fim de semana",
+          "c": "aos itens que foram recolhidos e depois separados pelos voluntários",
+          "d": "às doações em dinheiro recebidas ao longo de todo o fim de semana",
+          "e": "a um grupo de pessoas beneficiadas que não chega a ser mencionado no trecho"
+        },
+        "resposta": "c",
+        "explicacao": "\"Them\" retoma o substantivo plural mais próximo com que concorda logicamente: \"the items\", que foram recolhidos, separados e então entregues. Os abrigos (b) recebem os itens, não são o antecedente do pronome; a concordância de número e o sentido da ação apontam para os itens.",
+        "formato": "direta"
+      },
+      {
+        "id": "ingles-222",
+        "texto_apoio": "Considere os termos: \"college\", \"actual\", \"lecture\".",
+        "enunciado": "O termo \"college\" significa ______, \"actual\" significa ______ e \"lecture\" significa ______, respectivamente. As lacunas são preenchidas por:",
+        "alternativas": {
+          "a": "colégio – atual – leitura, sentidos que coincidem com os das palavras portuguesas de grafia parecida",
+          "b": "colégio – real – repreensão, combinação empregada apenas em contextos escolares formais",
+          "c": "faculdade – atual – leitura, combinação em que apenas o primeiro termo é falso cognato verdadeiro",
+          "d": "faculdade – real – aula ou palestra, sentidos que não correspondem às palavras parecidas",
+          "e": "universidade pública – atualizado – resumo escrito, sentidos técnicos usados em documentos acadêmicos"
+        },
+        "resposta": "d",
+        "explicacao": "Os três enganam por semelhança: \"college\" costuma ser faculdade (não colégio, que é \"high school\"), \"actual\" significa real, verdadeiro (não atual, que é \"current\"), e \"lecture\" é aula expositiva ou palestra (não leitura, que é \"reading\").",
+        "formato": "lacunas"
+      }
   ]
 }

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-13",
  "frente": "fisica",
- "total": 342,
+ "total": 354,
  "residuo": [
   "med-fisica-92",
   "med-fisica-136",
@@ -2053,6 +2053,78 @@
   },
   "med-fisica-342": {
    "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-343": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-344": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-345": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-346": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-fisica-347": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-348": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-fisica-349": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-350": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-fisica-351": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-fisica-352": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-353": {
+   "subtema": "fisica-hidrostatica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-354": {
+   "subtema": "fisica-hidrostatica",
    "frenteDestino": "fisica",
    "pontos": 5,
    "margem": 5

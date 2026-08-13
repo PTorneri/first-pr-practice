@@ -7,7 +7,7 @@
     "questions/ciencias-natureza.json": "2e41f5f21a07",
     "questions/direitos-humanos.json": "48c175b17e3d",
     "questions/filosofia-sociologia.json": "afe1b6c50a37",
-    "questions/fisica.json": "a7fb94361cd4",
+    "questions/fisica.json": "bdd2fe062bd3",
     "questions/geografia.json": "b78e05d89cb9",
     "questions/gramatica.json": "7435235969c8",
     "questions/historia.json": "8b2ea8326dd1",
@@ -22,14 +22,14 @@
     "subtemas/ciencias-natureza.json": "7dcff8a90b91",
     "subtemas/direitos-humanos.json": "6bad7b7fdb6f",
     "subtemas/filosofia-sociologia.json": "e65d18fe8573",
-    "subtemas/fisica.json": "261207fbd612",
+    "subtemas/fisica.json": "06232763863c",
     "subtemas/geografia.json": "5465eef83706",
     "subtemas/gramatica.json": "66ab14b55984",
     "subtemas/historia.json": "7c04e2943af2",
     "subtemas/ingles.json": "a35f2106a9aa",
     "subtemas/interpretacao-texto.json": "0eccbf154d1f",
     "subtemas/literatura.json": "da554025a88b",
-    "subtemas/matematica.json": "f4bf6c1020d1",
+    "subtemas/matematica.json": "bf3ed8b79b54",
     "subtemas/quimica.json": "2b67cba1ca54"
   }
 }

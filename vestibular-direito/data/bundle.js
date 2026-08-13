@@ -91373,6 +91373,210 @@ window.QUESTION_BANKS = {
    "explicacao": "O volume do objeto é V=πr²h=3×(2)²×2=24 cm³ (usando π=3). A densidade do material é 270g/24cm³=11,25 g/cm³, valor mais próximo da densidade do chumbo (11,3 g/cm³).",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-343",
+   "texto_apoio": "Um mergulhador está a 15 m de profundidade em água doce (densidade 1.000 kg/m³, g = 10 m/s²). A pressão atmosférica na superfície local vale 1,0 × 10⁵ Pa.",
+   "enunciado": "A pressão total exercida sobre o mergulhador nessa profundidade é de:",
+   "alternativas": {
+    "a": "1,5 × 10⁵ Pa",
+    "b": "1,0 × 10⁵ Pa",
+    "c": "2,5 × 10⁵ Pa",
+    "d": "3,5 × 10⁵ Pa",
+    "e": "2,0 × 10⁵ Pa"
+   },
+   "resposta": "c",
+   "explicacao": "A pressão hidrostática total soma a pressão atmosférica à pressão da coluna de líquido: P = P0 + ρgh = 1,0×10⁵ + 1.000×10×15 = 1,0×10⁵ + 1,5×10⁵ = 2,5×10⁵ Pa. Ignorar a pressão atmosférica dá 1,5×10⁵ Pa; considerar só a atmosférica dá 1,0×10⁵ Pa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-344",
+   "texto_apoio": "Um bloco de volume 0,002 m³ está totalmente submerso em água (densidade 1.000 kg/m³, g = 10 m/s²).",
+   "enunciado": "O empuxo exercido pela água sobre o bloco vale:",
+   "alternativas": {
+    "a": "0,2 N",
+    "b": "2 N",
+    "c": "200 N",
+    "d": "20,0 N",
+    "e": "20 N"
+   },
+   "resposta": "e",
+   "explicacao": "Pelo princípio de Arquimedes, o empuxo é E = ρ_fluido × V × g = 1.000 × 0,002 × 10 = 20 N. Erros de uma ou duas casas na multiplicação levam às demais ordens de grandeza oferecidas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-345",
+   "texto_apoio": "Um objeto homogêneo de densidade 0,72 g/cm³ flutua em equilíbrio num líquido de densidade 0,90 g/cm³.",
+   "enunciado": "A fração do volume do objeto que permanece submersa é de:",
+   "alternativas": {
+    "a": "90%",
+    "b": "80%",
+    "c": "62%",
+    "d": "18%",
+    "e": "72%"
+   },
+   "resposta": "b",
+   "explicacao": "No equilíbrio de flutuação, o peso do objeto iguala o empuxo, o que dá fração submersa = densidade do objeto ÷ densidade do líquido = 0,72 ÷ 0,90 = 0,80, ou 80%. Subtrair as densidades em vez de dividi-las leva a 18%; tomar isoladamente a densidade do objeto ou a do líquido leva às demais opções.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-346",
+   "texto_apoio": "Uma prensa hidráulica tem êmbolos de área 15 cm² e 300 cm². Uma força de 60 N é aplicada sobre o êmbolo menor.",
+   "enunciado": "A força obtida no êmbolo maior é de:",
+   "alternativas": {
+    "a": "20 N",
+    "b": "900 N",
+    "c": "18.000 N",
+    "d": "1.200 N",
+    "e": "60 N"
+   },
+   "resposta": "d",
+   "explicacao": "Pelo princípio de Pascal, a pressão se transmite integralmente entre os êmbolos: F₂ = F₁ × (A₂ ÷ A₁) = 60 × (300 ÷ 15) = 60 × 20 = 1.200 N. Multiplicar a força pela área maior em vez de pela razão entre as áreas leva a 18.000 N.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-347",
+   "texto_apoio": "Um tubo em U contém mercúrio (densidade 13,6 g/cm³). Em um dos ramos despeja-se uma coluna de 68 cm de um óleo de densidade 0,80 g/cm³, que não se mistura com o mercúrio.",
+   "enunciado": "A diferença de altura entre os níveis de mercúrio nos dois ramos do tubo, no equilíbrio, é de:",
+   "alternativas": {
+    "a": "4 cm",
+    "b": "68 cm",
+    "c": "13,6 cm",
+    "d": "54,4 cm",
+    "e": "0,8 cm"
+   },
+   "resposta": "a",
+   "explicacao": "No nível de referência dentro do mercúrio, as pressões dos dois ramos se igualam: ρ_óleo × h_óleo = ρ_Hg × Δh. Assim, Δh = (0,80 × 68) ÷ 13,6 = 54,4 ÷ 13,6 = 4 cm. Esquecer de dividir pela densidade do mercúrio leva a 54,4 cm; repetir a altura da coluna de óleo leva a 68 cm.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-348",
+   "texto_apoio": "Um manômetro de tubo em U, aberto numa extremidade e contendo mercúrio (densidade 13,6 g/cm³, g = 10 m/s²), está ligado a um recipiente de gás. A coluna de mercúrio do ramo aberto fica 25 cm mais alta que a do ramo ligado ao gás. A pressão atmosférica local vale 1,0 × 10⁵ Pa.",
+   "enunciado": "A pressão do gás dentro do recipiente é de aproximadamente:",
+   "alternativas": {
+    "a": "6,6 × 10⁴ Pa",
+    "b": "3,4 × 10⁴ Pa",
+    "c": "1,34 × 10⁵ Pa",
+    "d": "1,0 × 10⁵ Pa",
+    "e": "1,68 × 10⁵ Pa"
+   },
+   "resposta": "c",
+   "explicacao": "A coluna mais alta no ramo aberto indica que o gás está a uma pressão maior que a atmosférica: P_gás = P0 + ρ_Hg × g × h = 1,0×10⁵ + 13.600×10×0,25 = 1,0×10⁵ + 3,4×10⁴ = 1,34×10⁵ Pa. Ignorar a coluna de mercúrio dá 1,0×10⁵ Pa; considerar só a coluna dá 3,4×10⁴ Pa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-349",
+   "texto_apoio": "Um bloco de metal pesa 50 N no ar. Totalmente submerso em água (densidade 1.000 kg/m³, g = 10 m/s²), seu peso aparente cai para 42 N.",
+   "enunciado": "O volume do bloco vale:",
+   "alternativas": {
+    "a": "8.000 cm³",
+    "b": "800 cm³",
+    "c": "500 cm³",
+    "d": "80 cm³",
+    "e": "8 cm³"
+   },
+   "resposta": "b",
+   "explicacao": "A perda aparente de peso é igual ao empuxo do fluido: E = 50 − 42 = 8 N. Como E = ρ_água × V × g, o volume vale V = 8 ÷ (1.000 × 10) = 0,0008 m³ = 800 cm³. Erros de uma casa decimal na conversão para cm³ levam às demais opções.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-350",
+   "texto_apoio": "Um submarino está submerso a 200 m de profundidade em água do mar (densidade 1.030 kg/m³, g = 10 m/s²). A pressão atmosférica na superfície vale 1,0 × 10⁵ Pa.",
+   "enunciado": "A pressão exercida pela água sobre o casco do submarino, a essa profundidade, é de aproximadamente:",
+   "alternativas": {
+    "a": "1,0 × 10⁵ Pa",
+    "b": "2,26 × 10⁶ Pa",
+    "c": "2,06 × 10⁵ Pa",
+    "d": "2,06 × 10⁶ Pa",
+    "e": "2,16 × 10⁶ Pa"
+   },
+   "resposta": "e",
+   "explicacao": "A pressão total soma a atmosférica à coluna de água do mar: P = P0 + ρgh = 1,0×10⁵ + 1.030×10×200 = 1,0×10⁵ + 2,06×10⁶ = 2,16×10⁶ Pa. Esquecer a parcela atmosférica leva a 2,06×10⁶ Pa; um erro de potência de dez na coluna leva a 2,06×10⁵ Pa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-351",
+   "texto_apoio": "Água escoa em regime permanente por um tubo cuja seção varia de 8 cm² para 2 cm². No trecho mais largo, o líquido se move a 3 metros por segundo.",
+   "enunciado": "No trecho mais estreito, a velocidade do líquido passa a ser de:",
+   "alternativas": {
+    "a": "6 metros por segundo",
+    "b": "24 metros por segundo",
+    "c": "3 metros por segundo",
+    "d": "12 metros por segundo",
+    "e": "0,75 metro por segundo"
+   },
+   "resposta": "d",
+   "explicacao": "Pela equação da continuidade, a vazão se conserva ao longo do tubo: A₁v₁ = A₂v₂. Logo v₂ = v₁ × (A₁ ÷ A₂) = 3 × (8 ÷ 2) = 12 metros por segundo. Inverter a razão entre as áreas leva a 0,75 metro por segundo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-352",
+   "texto_apoio": "Uma pedra de massa 300 g é mergulhada totalmente numa proveta com água, e o nível registrado sobe de 150 mL para 200 mL.",
+   "enunciado": "A densidade da pedra vale:",
+   "alternativas": {
+    "a": "6 g/cm³",
+    "b": "1,5 g/cm³",
+    "c": "0,6 g/cm³",
+    "d": "60 g/cm³",
+    "e": "2 g/cm³"
+   },
+   "resposta": "a",
+   "explicacao": "O volume deslocado pela pedra é a variação de nível na proveta: 200 − 150 = 50 mL = 50 cm³. A densidade vale massa ÷ volume = 300 ÷ 50 = 6 g/cm³. Usar o volume final da proveta em vez do volume deslocado leva a 1,5 g/cm³.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-353",
+   "texto_apoio": "Uma prensa hidráulica tem êmbolos circulares de diâmetros 4 cm e 20 cm. Uma força de 80 N é aplicada sobre o êmbolo menor.",
+   "enunciado": "A força que essa prensa é capaz de sustentar no êmbolo maior é de:",
+   "alternativas": {
+    "a": "25 N",
+    "b": "400 N",
+    "c": "2.000 N",
+    "d": "16.000 N",
+    "e": "80 N"
+   },
+   "resposta": "c",
+   "explicacao": "A razão entre as forças é igual à razão entre as áreas dos êmbolos, e a área é proporcional ao quadrado do diâmetro: (20 ÷ 4)² = 25. Logo F₂ = 80 × 25 = 2.000 N. Usar a razão linear dos diâmetros em vez da quadrática leva a 400 N.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-354",
+   "texto_apoio": "Uma placa de madeira homogênea, de densidade 0,50 g/cm³ e volume 4.000 cm³, flutua em água (densidade 1,0 g/cm³). Um bloco de 600 g é colocado sobre a placa, sem submergi-la totalmente.",
+   "enunciado": "Com o bloco sobre a placa, o novo volume submerso da placa passa a ser de:",
+   "alternativas": {
+    "a": "2.000 cm³",
+    "b": "600 cm³",
+    "c": "4.000 cm³",
+    "d": "3.200 cm³",
+    "e": "2.600 cm³"
+   },
+   "resposta": "e",
+   "explicacao": "O volume submerso é o necessário para que o empuxo sustente o peso total: massa da placa = 0,50 × 4.000 = 2.000 g; acrescida do bloco, a massa total é 2.600 g. Como a densidade da água é 1,0 g/cm³, o volume submerso vale 2.600 cm³ — abaixo do volume total da placa, então ela ainda não submerge por completo. Considerar só a massa da placa leva a 2.000 cm³; considerar a placa totalmente submersa leva a 4.000 cm³.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "fisica-energia-trabalho": [

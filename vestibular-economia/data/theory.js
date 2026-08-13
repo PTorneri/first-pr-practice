@@ -9,7 +9,7 @@
 
 window.THEORY = {
  "matematica": {
-  "resumo": "Álgebra, geometria, probabilidade, sequências e estatística — 40% da nota na FGV EESP e 25% do caderno do Insper. Nas duas provas o item difícil quase sempre é modelagem: traduzir o enunciado em função, taxa ou razão antes de calcular.",
+  "resumo": "Álgebra, geometria, probabilidade, sequências e estatística. É 40% da nota final nas DUAS escolas — e menos de 20% de acertos em qualquer objetiva elimina, então não existe compensar Matemática com outra prova. Nas duas o item difícil quase sempre é modelagem: traduzir o enunciado em função, taxa ou razão antes de calcular. A grade da FGV pune resposta sem conta: em 2026.1, resposta correta sem cálculo valeu 25%.",
   "gatilhos": [
    "\"Encontre o polinômio de grau 2 que coincide com f em três pontos\" → é interpolação; monte o sistema com os três valores e resolva — não tente adivinhar a forma da função original.",
    "Função definida como o MENOR (ou o maior) entre duas funções → desenhe as duas e marque onde se cruzam; a resposta é sempre por trechos, e o ponto de cruzamento é a fronteira.",

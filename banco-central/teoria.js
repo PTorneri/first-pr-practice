@@ -72,7 +72,7 @@ const RESUMO_DA_FUSAO = {
     "atualidades": "Política e economia do Brasil, geopolítica, meio ambiente e tecnologia. É a área que envelhece mais rápido do banco: a FGV fecha o caderno com fonte de um a três meses antes da prova, e o que se cobra é leitura recente, não memória.",
   },
   economia: {
-    "matematica": "Álgebra, geometria, probabilidade, sequências e estatística — 40% da nota na FGV EESP e 25% do caderno do Insper. Nas duas provas o item difícil quase sempre é modelagem: traduzir o enunciado em função, taxa ou razão antes de calcular.",
+    "matematica": "Álgebra, geometria, probabilidade, sequências e estatística. É 40% da nota final nas DUAS escolas — e menos de 20% de acertos em qualquer objetiva elimina, então não existe compensar Matemática com outra prova. Nas duas o item difícil quase sempre é modelagem: traduzir o enunciado em função, taxa ou razão antes de calcular. A grade da FGV pune resposta sem conta: em 2026.1, resposta correta sem cálculo valeu 25%.",
     "atualidades": "Conjuntura brasileira, geopolítica, clima e tecnologia, com peso maior no que toca a economia: indicador, inflação, juros e orçamento aparecem aqui e voltam na modelagem da discursiva de Matemática.",
   },
 };
@@ -83,16 +83,17 @@ const RESUMO_DA_FUSAO = {
 const NOVAS = {
   direito: {
     "literatura": {
-      resumo: "Romance do século XIX e Modernismo, quase sempre a partir das obras da lista da FGV. Na prova de 2026.1, nove das quinze objetivas de Português saíram de dois romances — ler a obra rende mais que decorar escola literária.",
+      resumo: "Nas duas bancas a literatura decide o bloco de Português, mas de formas opostas. Na FGV 2026.1, nove das quinze objetivas saíram de DOIS romances do século XIX (Memórias de um sargento de milícias, 6; O Cortiço, 3): ler mal um deles custa até 9 questões, o maior ponto único de falha da prova. No Insper não há lista — o item pede reconhecer a escola pelo TRAÇO, a partir de textos avulsos (um conto de Drummond, um poema de Bandeira, uma tirinha do Laerte).",
       gatilhos: [
-        "Trecho de romance no enunciado → identifique primeiro o NARRADOR (quem fala, e se é confiável); metade das alternativas erradas atribui ao autor o que é do narrador.",
-        "Pergunta sobre escola literária → procure o traço formal no próprio trecho (ironia e digressão em Machado, determinismo e zoomorfização em Aluísio), não a data de publicação.",
+        "Trecho de romance da lista no enunciado → identifique primeiro o NARRADOR (quem fala, e se é confiável); parte das alternativas erradas atribui ao autor o que é do narrador.",
+        "Pergunta sobre escola literária no Insper → procure o traço no próprio texto (o Realismo aparece por uma descrição de visão de mundo; a crítica de Bandeira ao Parnasianismo, pelos adjetivos do poema), nunca pela data de publicação.",
+        "Item de gramática dentro do bloco de Português → ele vem ancorado no trecho literário, nunca solto, e a FGV chega a fornecer a definição teórica antes de pedir a aplicação. Leia o trecho como texto antes de olhar a regra.",
         "Poema curto integral → conte a métrica e olhe a rima antes de interpretar; a questão de forma costuma ser mais rápida que a de sentido.",
       ],
       pegadinhas: [
+        "Estudar os romances da FGV só como enredo. Três questões de 2026.1 eram, na prática, de História e de crítica literária: o grupo social das personagens numa sociedade escravista, a leitura do meio como trânsito entre ordem e desordem (a tese de Antonio Candido), e determinismo geográfico.",
         "Confundir a opinião do personagem com a tese do autor — a banca testa leitura, não concordância.",
         "Assumir que 'linguagem simples' é sinal de Modernismo: o Realismo também a usa, e o que separa os dois é o projeto, não o vocabulário.",
-        "Datar a obra pela escola em vez de pelo traço: há Romantismo publicado depois do primeiro romance realista.",
       ],
       subtemas: [],
     },
@@ -119,8 +120,13 @@ const NOVAS = {
 //   node banco-central/teoria.js --consolidar
 //
 // Lê os `data/theory.js` das três trilhas, aplica o mapa e grava
-// `data/teoria.json`. Roda UMA vez, na migração: depois dela o theory.js de cada
-// trilha é artefato do build.
+// `data/teoria.json`. JÁ RODOU, e não roda de novo: os theory.js de origem foram
+// reescritos pelo build e as chaves antigas não existem mais. Fica aqui como
+// registro de como o conteúdo herdado foi obtido.
+//
+// PARA MEXER NA TEORIA hoje, edite `RESUMO_DA_FUSAO` ou `NOVAS` aqui e rode o
+// build: ele aplica os dois por cima do que veio de `teoria.json`. Editar o
+// JSON gerado é perder a correção no próximo build.
 
 const fs = require("fs");
 const path = require("path");

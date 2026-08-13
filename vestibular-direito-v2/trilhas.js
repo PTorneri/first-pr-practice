@@ -153,12 +153,31 @@
             // gramática aqui.
             { nome: "Língua Portuguesa", frentes: { "literatura": 9, "interpretacao-texto": 3, "gramatica": 3 } },
             { nome: "Inglês", frentes: { "ingles": 15 } },
-            // Brasil e Geral eram duas frentes e viraram uma; as 6 questões
-            // continuam 6. Geopolítica e Meio Ambiente viraram subtemas, e o
-            // bloco continua pedindo cada um pelo nome — pickSimuladoOficial
-            // aceita id de frente ou de subtema justamente para o caderno não
-            // perder fidelidade quando o banco se reorganiza.
-            { nome: "Ciências Humanas", frentes: { "geografia": 5, "historia": 6, "atualidades-geopolitica": 2, "atualidades-meioambiente": 1, "artes-cultura": 1 } }
+            // Composição questão a questão do caderno de 2026.1, do estudo de
+            // anatomia (seção 3.4): q46-47 desdolarização e China, q48 Maxwell
+            // Alexandre, q49 colonização da América, q50 e q52 Brasil colonial
+            // e imperial, q51 Revolução Francesa, q53 charge do Médici, q54
+            // Guerra Fria, q55 e q58 geografia urbana, q56 meio ambiente, q57 e
+            // q59 agrária e logística, q60 geomorfologia.
+            //
+            // Antes da migração isto era "historia: 6" e "geografia: 5", porque
+            // o banco não sabia dizer mais do que a matéria. Agora cada questão
+            // sai do assunto certo — é a fidelidade que o subtema comprou.
+            {
+              nome: "Ciências Humanas",
+              frentes: {
+                "atualidades-geopolitica": 2,
+                "artes-contemporanea": 1,
+                "historia-geral-moderna": 2,
+                "historia-geral-contemporanea": 1,
+                "historia-brasil-colonia-imperio": 2,
+                "historia-brasil-republica": 1,
+                "geografia-populacao-urbana": 2,
+                "geografia-agraria-economica": 2,
+                "geografia-fisica-clima": 1,
+                "atualidades-meioambiente": 1,
+              },
+            }
           ]
         },
         insper: {
@@ -169,11 +188,27 @@
             { nome: "Matemática", frentes: { "matematica": 15 } },
             { nome: "Ciências Humanas", frentes: { "geografia": 6, "historia": 5, "filosofia-sociologia": 4 } },
             // 5 de Biologia, 5 de Química e 5 de Física, nessa ordem, nos dois
-            // cadernos de 2026. Não é aproximação, é gabarito de montagem — e
-            // agora o caderno sai exato: até 2026-08 esta trilha tinha uma
-            // frente única de "noções gerais" de Natureza e o bloco inteiro
-            // saía dela. Com o banco central são as três frentes de verdade.
-            { nome: "Ciências da Natureza", frentes: { "biologia": 5, "quimica": 5, "fisica": 5 } }
+            // cadernos de 2026 — e o estudo de anatomia (seção 4.4) vai além da
+            // contagem: diz QUAIS assuntos, um item de cada, repetidos nos dois
+            // anos. Biologia cobre ecologia, genética, fisiologia, citologia e
+            // evolução; Química, separação de misturas, interações
+            // intermoleculares, equilíbrio/ácido-base, concentração e orgânica;
+            // Física, cinemática, óptica/energia, termologia, ondas e
+            // eletromagnetismo.
+            //
+            // Até 2026-08 o bloco inteiro saía de uma frente única de "noções
+            // gerais" de Natureza. Agora sai assunto por assunto.
+            {
+              nome: "Ciências da Natureza",
+              frentes: {
+                "biologia-ecologia": 1, "biologia-genetica": 1, "biologia-fisiologia": 1,
+                "biologia-citologia": 1, "biologia-evolucao": 1,
+                "quimica-solucoes": 2, "quimica-atomistica-ligacoes": 1,
+                "quimica-equilibrio-acido-base": 1, "quimica-organica": 1,
+                "fisica-mecanica": 1, "fisica-ondas-optica": 2,
+                "fisica-termologia": 1, "fisica-eletromagnetismo": 1,
+              },
+            }
           ]
         }
       },

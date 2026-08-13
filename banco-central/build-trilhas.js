@@ -44,6 +44,7 @@ const { SUBTEMAS } = require("./classificar-subtemas.js");
 const { POR_BANCA, PESO_DE_FRENTE, OVERRIDES, BANCA_ALVO } = require("./pesos.js");
 const VIDEOS = JSON.parse(fs.readFileSync(path.join(__dirname, "data", "videos.json"), "utf8")).porSubtema;
 const TEORIA = JSON.parse(fs.readFileSync(path.join(__dirname, "data", "teoria.json"), "utf8")).porTrilha;
+const { RESUMO_DA_FUSAO, NOVAS: NOVAS_TEORIA } = require("./teoria.js");
 
 // ------------------------------------------------------------------ as trilhas
 //
@@ -367,13 +368,40 @@ function main() {
       cabecalho("Banco objetivo da trilha de " + TRILHAS[trilha].nome + ".") +
       "window.QUESTION_BANKS = " + JSON.stringify(banks, null, 1) + ";\n\n" +
       "window.SUBTEMAS_POR_FRENTE = " + JSON.stringify(subtemasPorFrente, null, 1) + ";\n\n" +
+      // INTERCALA os subtemas, não concatena. Os simulados puxam uma janela
+      // CONTÍGUA deste array, e concatenar fazia o bloco de 15 questões de
+      // Matemática da FGV sair com 15 de geometria e o de Inglês com 15 de
+      // inferência — a janela caía inteira dentro do primeiro subtema. A prova
+      // real varia dentro do bloco, e antes da migração isso vinha de graça,
+      // porque o banco da frente estava na ordem em que foi escrito.
+      //
+      // A intercalação é por GRUPO, não por questão: questões que dividem um
+      // texto de apoio andam juntas, senão o cluster se parte aqui.
       "window.QUESTION_BANKS_FRENTE = (function () {\n" +
+      "  function emGrupos(qs) {\n" +
+      "    var grupos = [], atual = null, chave;\n" +
+      "    qs.forEach(function (q) {\n" +
+      "      var k = q.textoId || null;\n" +
+      "      if (atual && k !== null && k === chave) { atual.push(q); return; }\n" +
+      "      atual = [q]; chave = k; grupos.push(atual);\n" +
+      "    });\n" +
+      "    return grupos;\n" +
+      "  }\n" +
       "  var porFrente = {};\n" +
       "  Object.keys(window.SUBTEMAS_POR_FRENTE).forEach(function (frente) {\n" +
-      "    var todas = [];\n" +
-      "    window.SUBTEMAS_POR_FRENTE[frente].forEach(function (subtema) {\n" +
-      "      (window.QUESTION_BANKS[subtema] || []).forEach(function (q) { todas.push(q); });\n" +
+      "    var filas = window.SUBTEMAS_POR_FRENTE[frente].map(function (subtema) {\n" +
+      "      return emGrupos(window.QUESTION_BANKS[subtema] || []);\n" +
       "    });\n" +
+      "    var todas = [], i = 0, restam = true;\n" +
+      "    while (restam) {\n" +
+      "      restam = false;\n" +
+      "      for (var f = 0; f < filas.length; f++) {\n" +
+      "        if (i >= filas[f].length) continue;\n" +
+      "        restam = true;\n" +
+      "        filas[f][i].forEach(function (q) { todas.push(q); });\n" +
+      "      }\n" +
+      "      i++;\n" +
+      "    }\n" +
       "    porFrente[frente] = todas;\n" +
       "  });\n" +
       "  return porFrente;\n" +
@@ -399,9 +427,19 @@ function main() {
     // A teoria continua por FRENTE e por TRILHA: ela fala da banca, e o texto de
     // Biologia em Medicina cita as discursivas da Santa Casa. Só as chaves
     // mudaram, para acompanhar a fusão das frentes.
+    // `teoria.json` guarda o que foi HERDADO das trilhas na consolidação, que
+    // rodou uma vez e não roda de novo (os theory.js de origem já foram
+    // reescritos por este build). As edições posteriores vivem em teoria.js e
+    // são aplicadas por cima AQUI, a cada build — sem isso, corrigir uma teoria
+    // exigiria editar um arquivo gerado, que é onde a correção se perde.
     const teoria = {};
     Object.keys(banksFrente).forEach((f) => {
-      if (TEORIA[trilha] && TEORIA[trilha][f]) teoria[f] = TEORIA[trilha][f];
+      const herdada = TEORIA[trilha] && TEORIA[trilha][f];
+      const nova = (NOVAS_TEORIA[trilha] || {})[f];
+      if (nova) { teoria[f] = nova; return; }
+      if (!herdada) return;
+      const resumo = (RESUMO_DA_FUSAO[trilha] || {})[f];
+      teoria[f] = resumo ? Object.assign({}, herdada, { resumo: resumo }) : herdada;
     });
     fs.writeFileSync(path.join(dir, "theory.js"),
       cabecalho("Teoria da trilha de " + TRILHAS[trilha].nome + ", por frente.") +

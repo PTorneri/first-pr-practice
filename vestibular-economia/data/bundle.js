@@ -91633,12 +91633,30 @@ window.SUBTEMAS_POR_FRENTE = {
 };
 
 window.QUESTION_BANKS_FRENTE = (function () {
+  function emGrupos(qs) {
+    var grupos = [], atual = null, chave;
+    qs.forEach(function (q) {
+      var k = q.textoId || null;
+      if (atual && k !== null && k === chave) { atual.push(q); return; }
+      atual = [q]; chave = k; grupos.push(atual);
+    });
+    return grupos;
+  }
   var porFrente = {};
   Object.keys(window.SUBTEMAS_POR_FRENTE).forEach(function (frente) {
-    var todas = [];
-    window.SUBTEMAS_POR_FRENTE[frente].forEach(function (subtema) {
-      (window.QUESTION_BANKS[subtema] || []).forEach(function (q) { todas.push(q); });
+    var filas = window.SUBTEMAS_POR_FRENTE[frente].map(function (subtema) {
+      return emGrupos(window.QUESTION_BANKS[subtema] || []);
     });
+    var todas = [], i = 0, restam = true;
+    while (restam) {
+      restam = false;
+      for (var f = 0; f < filas.length; f++) {
+        if (i >= filas[f].length) continue;
+        restam = true;
+        filas[f][i].forEach(function (q) { todas.push(q); });
+      }
+      i++;
+    }
     porFrente[frente] = todas;
   });
   return porFrente;

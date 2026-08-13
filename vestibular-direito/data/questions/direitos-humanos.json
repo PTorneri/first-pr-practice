@@ -1745,6 +1745,186 @@
                          "resposta":  "d",
                          "explicacao":  "O Supremo Tribunal Federal é o guardião da Constituição, com a atribuição precípua de julgar, em última instância, as questões de interpretação constitucional — inclusive por meio do controle concentrado de constitucionalidade. Os demais órgãos listados exercem funções reais, mas distintas dessa atribuição específica.",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-113",
+                         "texto_apoio":  "Ao lado das liberdades individuais, a Constituição brasileira prevê um conjunto de prestações que o Estado deve garantir à população, como saúde, educação, moradia, previdência e assistência social.",
+                         "enunciado":  "Esse conjunto de prestações, que exige atuação positiva do Estado para se realizar, é conhecido como:",
+                         "alternativas":  {
+                                              "a":  "direitos de defesa clássicos, conquistados nas revoluções liberais dos séculos XVII e XVIII contra o poder do Estado",
+                                              "b":  "direitos sociais, que exigem prestações positivas do Estado em áreas como saúde, educação, moradia e previdência",
+                                              "c":  "garantias processuais, que asseguram o devido andamento de um processo judicial ou administrativo específico",
+                                              "d":  "direitos de defesa, que protegem o indivíduo contra a interferência arbitrária do Estado em sua esfera privada",
+                                              "e":  "prerrogativas de foro, que atribuem competência de julgamento especial a determinadas autoridades públicas"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Direitos sociais — saúde, educação, moradia, previdência, assistência social — exigem prestação positiva do Estado, diferente dos direitos de defesa clássicos (a), que só limitam a ação estatal sobre o indivíduo. As demais alternativas descrevem outras categorias jurídicas reais, sem relação com essa exigência de prestação positiva.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-114",
+                         "texto_apoio":  "Diante de uma ação judicial pedindo o fornecimento de um tratamento de saúde caro, o Estado alega não dispor de recursos suficientes para atender a todos os pedidos semelhantes, enquanto o autor da ação alega que sem o tratamento sua sobrevivência digna fica comprometida.",
+                         "enunciado":  "Esses dois argumentos, frequentes em disputas sobre efetivação de direitos sociais, representam, respectivamente, os conceitos de:",
+                         "alternativas":  {
+                                              "a":  "seguridade social e assistência social, distinguidos pela fonte de financiamento constitucional usada para custear cada benefício",
+                                              "b":  "renda básica e transferência de renda, distinguidos pela condicionalidade exigida para o recebimento do benefício",
+                                              "c":  "política pública e programa social, distinguidos pela permanência no tempo e pela abrangência territorial de cada iniciativa proposta",
+                                              "d":  "reserva do possível e mínimo existencial, distinguidos pelo limite orçamentário e pelo núcleo básico de direitos",
+                                              "e":  "trabalho digno e trabalho análogo à escravidão, distinguidos pelas condições concretas em que o trabalho é exercido"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Reserva do possível é o argumento de que o Estado só pode garantir direitos sociais dentro do limite dos recursos disponíveis; mínimo existencial é o núcleo básico de condições para uma vida digna, que a jurisprudência entende não poder ser sacrificado mesmo diante da escassez orçamentária alegada. É justamente a tensão entre esses dois conceitos que move disputas como a descrita no texto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-115",
+                         "texto_apoio":  "O sistema público de saúde brasileiro se organiza a partir de princípios como o acesso garantido a qualquer pessoa, sem exigência de contribuição prévia, e o atendimento que cobre desde a prevenção até procedimentos de alta complexidade.",
+                         "enunciado":  "Esses dois princípios do sistema público de saúde são conhecidos, respectivamente, como:",
+                         "alternativas":  {
+                                              "a":  "universalidade e integralidade, que garantem acesso a qualquer pessoa e cobertura do cuidado do simples ao complexo",
+                                              "b":  "regionalização e descentralização, que ajustam o atendimento à necessidade de cada região e distribuem a gestão entre entes federativos",
+                                              "c":  "gratuidade e obrigatoriedade, que dispensam qualquer cobrança e tornam o atendimento compulsório para toda a população",
+                                              "d":  "contributividade e seletividade, que condicionam o acesso ao pagamento prévio de contribuições específicas ao sistema",
+                                              "e":  "regionalização e hierarquização, que organizam o atendimento por níveis crescentes de complexidade territorial"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Universalidade garante acesso ao sistema público de saúde a qualquer pessoa, sem exigência de contribuição prévia; integralidade garante cobertura desde a prevenção até procedimentos de alta complexidade, sem fragmentar o cuidado. Os demais pares listados nomeiam outros princípios reais do sistema, mas distintos dos dois descritos no texto. Como política pública, o SUS estrutura o direito à saúde previsto na Constituição.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-116",
+                         "texto_apoio":  "Um programa federal de transferência de renda concede benefício mensal a famílias em situação de pobreza, condicionando o recebimento à frequência escolar das crianças e ao cumprimento do calendário de vacinação.",
+                         "enunciado":  "Esse tipo de programa, que combina transferência de renda com exigências em educação e saúde, é conhecido como:",
+                         "alternativas":  {
+                                              "a":  "renda básica universal, benefício concedido a toda a população, independentemente de renda ou de qualquer condicionalidade",
+                                              "b":  "seguro-desemprego, benefício temporário concedido a trabalhadores formais dispensados sem justa causa pelo empregador",
+                                              "c":  "programa de transferência de renda condicionada, que vincula o benefício ao cumprimento de exigências em educação e saúde",
+                                              "d":  "aposentadoria por idade, benefício previdenciário concedido a partir de determinada idade mínima e tempo de contribuição",
+                                              "e":  "auxílio-doença, benefício previdenciário concedido a trabalhador temporariamente incapaz de exercer sua atividade habitual"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Um programa de transferência de renda condicionada combina benefício financeiro com exigências em áreas como educação e saúde, buscando romper o ciclo de pobreza entre gerações. Renda básica universal (a) não impõe condicionalidade nem depende de renda; os demais benefícios listados são da esfera previdenciária, distintos desse tipo de programa social.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-117",
+                         "texto_apoio":  "Um trabalhador é encontrado numa propriedade rural em condições de jornada exaustiva, sem qualquer remuneração paga há meses, impedido de deixar o local por dívidas artificialmente criadas com o próprio empregador.",
+                         "enunciado":  "Essa situação, tipificada como crime pela legislação brasileira, configura:",
+                         "alternativas":  {
+                                              "a":  "trabalho informal, situação em que o trabalhador exerce atividade remunerada sem registro formal em carteira de trabalho",
+                                              "b":  "trabalho intermitente, modalidade de contratação em que o trabalhador presta serviço por períodos alternados e devidamente remunerados",
+                                              "c":  "trabalho análogo ao de escravo, caracterizado por jornada exaustiva, dívida artificial e restrição à liberdade do trabalhador",
+                                              "d":  "trabalho autônomo, modalidade em que o trabalhador presta serviço sem vínculo de subordinação a um empregador específico",
+                                              "e":  "trabalho temporário, modalidade de contratação por prazo determinado para atender a uma demanda extraordinária da empresa"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Trabalho análogo ao de escravo é tipificado pela legislação brasileira quando há jornada exaustiva, servidão por dívida artificialmente criada, ou qualquer forma de restrição à liberdade do trabalhador de deixar o local. As demais alternativas descrevem modalidades lícitas de trabalho, sem essa restrição de liberdade.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-118",
+                         "texto_apoio":  "A legislação brasileira proíbe o trabalho infantil como regra geral, impedindo que menores de 16 anos exerçam qualquer atividade remunerada, permitindo só, a partir dos 14 anos, uma modalidade de contrato voltada à formação técnico-profissional metódica.",
+                         "enunciado":  "Essa modalidade específica de contrato, permitida a partir dos 14 anos como exceção à proibição geral, é conhecida como contrato de:",
+                         "alternativas":  {
+                                              "a":  "experiência, modalidade de contrato por prazo determinado usada para avaliar a adaptação do trabalhador à função",
+                                              "b":  "trabalho temporário, modalidade de contratação por prazo determinado para atender a uma demanda extraordinária específica da empresa",
+                                              "c":  "estágio obrigatório, modalidade vinculada exclusivamente à conclusão de curso de ensino superior já em andamento",
+                                              "d":  "aprendizagem, modalidade de contrato voltada à formação técnico-profissional metódica de adolescentes a partir dos 14 anos",
+                                              "e":  "prestação de serviço autônomo, modalidade sem vínculo de subordinação entre o adolescente e a empresa contratante"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O contrato de aprendizagem é a exceção prevista em lei à proibição geral de trabalho a menores de 16 anos, permitido a partir dos 14 anos, voltado à formação técnico-profissional metódica compatível com o desenvolvimento do adolescente. As demais alternativas descrevem outras modalidades de contrato, sem essa idade mínima e essa finalidade formativa específicas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-119",
+                         "texto_apoio":  "Um conjunto de normas trabalhistas brasileiras regula, entre outros pontos, a jornada máxima de trabalho, o pagamento de horas extras, o período de férias remuneradas e o aviso prévio em caso de dispensa do trabalhador.",
+                         "enunciado":  "Esse conjunto de normas trabalhistas, consolidado num único diploma legal desde 1943, é conhecido pela sigla:",
+                         "alternativas":  {
+                                              "a":  "CLT, conjunto de normas trabalhistas que regula jornada, férias, aviso prévio e demais direitos do trabalhador brasileiro",
+                                              "b":  "CTPS, documento de registro profissional que comprova o vínculo formal entre trabalhador e empregador",
+                                              "c":  "FGTS, fundo de garantia formado por depósitos mensais do empregador em conta vinculada ao trabalhador contratado",
+                                              "d":  "INSS, instituto responsável pela concessão de benefícios previdenciários diversos aos trabalhadores contribuintes do sistema oficial",
+                                              "e":  "MTE, órgão do governo federal responsável pela fiscalização das relações de trabalho em todo o território nacional"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A CLT (Consolidação das Leis do Trabalho), de 1943, reúne num único diploma legal as principais normas trabalhistas brasileiras, incluindo jornada, férias e aviso prévio. As demais siglas nomeiam outros documentos, fundos e instituições reais da esfera trabalhista e previdenciária, mas distintos desse conjunto consolidado de normas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-120",
+                         "texto_apoio":  "Trabalhadores de uma categoria se organizam coletivamente para negociar, junto aos empregadores, melhores condições salariais e de trabalho, podendo recorrer à paralisação coletiva das atividades caso a negociação não avance.",
+                         "enunciado":  "Esse direito de organização coletiva dos trabalhadores, garantido pela Constituição, é conhecido como liberdade:",
+                         "alternativas":  {
+                                              "a":  "de expressão, que garante a qualquer pessoa manifestar livremente suas opiniões sobre qualquer assunto de interesse público",
+                                              "b":  "sindical, que garante aos trabalhadores o direito de se organizar coletivamente para negociar condições de trabalho",
+                                              "c":  "de reunião, que garante a qualquer grupo de pessoas se reunir pacificamente em local público ou privado",
+                                              "d":  "de associação, que garante a qualquer pessoa se associar livremente a entidades de qualquer natureza ou finalidade",
+                                              "e":  "de imprensa, que garante aos veículos de comunicação a publicação de informações sem censura prévia do Estado"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A liberdade sindical garante aos trabalhadores o direito de se organizar coletivamente em sindicatos para negociar condições de trabalho, incluindo o recurso à greve como instrumento de pressão. As demais alternativas nomeiam outras liberdades constitucionais reais, mas de alcance mais geral, sem essa finalidade específica de negociação trabalhista coletiva.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-121",
+                         "texto_apoio":  "Uma pesquisa nacional mede, por meio de perguntas sobre a rotina alimentar das famílias, desde situações de preocupação com a falta futura de comida até casos em que membros da família passam o dia inteiro sem comer por falta de recursos.",
+                         "enunciado":  "Essa escala de medição, que classifica os domicílios por grau de restrição alimentar, avalia o que é chamado de:",
+                         "alternativas":  {
+                                              "a":  "desigualdade de renda, medida pela diferença entre os rendimentos das famílias mais ricas e das famílias mais pobres do país",
+                                              "b":  "índice de desenvolvimento, medida que combina indicadores de renda, saúde e educação num único valor comparável",
+                                              "c":  "exclusão social, medida pela falta de acesso das famílias a serviços públicos básicos de educação e saúde",
+                                              "d":  "linha de pobreza, medida pelo valor monetário mínimo considerado necessário para a subsistência de uma família",
+                                              "e":  "insegurança alimentar, medida pelo grau de restrição no acesso regular e permanente a alimentos em quantidade suficiente"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Insegurança alimentar é medida pelo grau de restrição no acesso regular e permanente a alimentos em quantidade suficiente, variando de leve (preocupação com a falta futura) a grave (restrição efetiva de quantidade, com fome). As demais alternativas nomeiam outros indicadores sociais reais, mas distintos dessa medida específica sobre acesso a alimentos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-122",
+                         "texto_apoio":  "Um indicador estatístico varia entre 0 e 1: quanto mais próximo de 0, mais igualitária é a distribuição de renda entre a população; quanto mais próximo de 1, mais concentrada a renda está nas mãos de poucas pessoas.",
+                         "enunciado":  "Esse indicador, amplamente usado para medir a desigualdade de renda entre países ou regiões, é conhecido como:",
+                         "alternativas":  {
+                                              "a":  "taxa de juros, indicador que mede o custo do crédito e a remuneração de aplicações financeiras num período",
+                                              "b":  "produto interno bruto, indicador que mede o valor total de bens e serviços produzidos por um país num determinado período",
+                                              "c":  "taxa de câmbio, indicador que mede o valor de uma moeda nacional em relação a outras moedas estrangeiras",
+                                              "d":  "índice de Gini, indicador que varia entre 0 e 1 e mede o grau de concentração da renda entre a população",
+                                              "e":  "balança comercial, indicador que mede a diferença entre o valor exportado e o valor importado por um país"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O índice de Gini varia entre 0 (distribuição perfeitamente igualitária) e 1 (concentração máxima de renda), sendo o indicador mais usado para comparar a desigualdade de renda entre países ou regiões ao longo do tempo. As demais alternativas nomeiam outros indicadores econômicos reais, mas que não medem especificamente a desigualdade de renda.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-123",
+                         "texto_apoio":  "A Constituição brasileira reúne, sob um mesmo conjunto de ações, a saúde, a previdência e a assistência social, com a lógica de proteger a população contra riscos como doença, velhice e desemprego, ainda que por fontes de financiamento distintas.",
+                         "enunciado":  "Esse conjunto integrado de saúde, previdência e assistência social é conhecido como:",
+                         "alternativas":  {
+                                              "a":  "fundo de amparo ao trabalhador, fundo público que financia o pagamento do seguro-desemprego e de outros benefícios trabalhistas",
+                                              "b":  "seguro social, contrato individual firmado entre o trabalhador e uma seguradora privada para cobertura de riscos específicos",
+                                              "c":  "previdência complementar, modalidade facultativa de poupança para aposentadoria, gerida por entidades privadas específicas",
+                                              "d":  "sistema único de assistência, rede exclusivamente municipal responsável pela oferta de serviços socioassistenciais locais",
+                                              "e":  "seguridade social, conjunto integrado que reúne saúde, previdência e assistência social sob uma mesma lógica protetiva"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Seguridade social é o conjunto integrado de ações de saúde, previdência e assistência social previsto na Constituição, com a lógica de proteger a população contra riscos como doença, velhice e desemprego, ainda que cada área tenha fonte de financiamento e regras próprias. As demais alternativas nomeiam outros conceitos e instituições reais, mas distintos desse conjunto integrado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-124",
+                         "texto_apoio":  "Um projeto de habitação popular constrói moradias para famílias de baixa renda em terrenos cedidos pelo poder público municipal, com financiamento subsidiado e parcelas ajustadas à renda de cada família beneficiada.",
+                         "enunciado":  "Esse tipo de iniciativa, voltada a garantir o acesso à moradia como direito social, é um exemplo de:",
+                         "alternativas":  {
+                                              "a":  "especulação imobiliária, prática pela qual investidores retêm imóveis vazios à espera de valorização futura do terreno",
+                                              "b":  "arrendamento privado, contrato firmado exclusivamente entre proprietário e locatário sem qualquer intermediação pública",
+                                              "c":  "regularização fundiária espontânea, processo conduzido inteiramente pelos próprios moradores sem qualquer participação estatal",
+                                              "d":  "gentrificação urbana, processo de valorização de uma área que expulsa gradualmente os moradores de renda mais baixa",
+                                              "e":  "política pública habitacional, ação estatal voltada a garantir o acesso à moradia como direito social da população"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Uma política pública habitacional é uma ação estatal organizada para garantir o acesso à moradia como direito social, como no exemplo descrito de construção subsidiada de moradias populares. As demais alternativas descrevem outros fenômenos e práticas reais do mercado imobiliário, mas sem essa finalidade de política pública voltada à garantia de um direito social.",
+                         "formato":  "direta"
                      }
                  ]
 }

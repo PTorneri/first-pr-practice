@@ -5512,6 +5512,186 @@
       "resposta": "c",
       "explicacao": "Fluxo gênico é o mecanismo pelo qual a migração de indivíduos entre populações introduz variação genética — o oposto do isolamento reprodutivo que sustenta a especiação: quanto maior o fluxo gênico entre duas populações, menor a chance de elas se tornarem espécies distintas. Deriva genética (a) e seleção natural (b) são mecanismos evolutivos distintos, sem depender de migração entre populações.",
       "formato": "direta"
+    },
+    {
+      "id": "biologia-350",
+      "texto_apoio": "O sistema de classificação dos seres vivos mais usado no ensino médio organiza todos os organismos em cinco grandes grupos, definidos principalmente por organização interna e modo de obtenção de alimento.",
+      "enunciado": "Esses cinco grandes grupos de classificação são conhecidos como:",
+      "alternativas": {
+        "a": "domínios, categoria taxonômica mais ampla que reúne Bacteria, Archaea e Eukarya num total de apenas três grupos",
+        "b": "reinos, categoria que reúne Monera, Protista, Fungi, Plantae e Animalia, um total de cinco grandes grupos",
+        "c": "filos, categoria intermediária usada para agrupar organismos com plano corporal semelhante dentro de um mesmo reino",
+        "d": "famílias, categoria taxonômica que reúne gêneros com características morfológicas muito próximas entre si",
+        "e": "ordens, categoria taxonômica situada entre classe e família na hierarquia usada pela sistemática biológica"
+      },
+      "resposta": "b",
+      "explicacao": "O sistema dos cinco reinos — Monera, Protista, Fungi, Plantae e Animalia — organiza os seres vivos por tipo de organização interna e modo de obtenção de alimento. Domínio (a) é uma categoria ainda mais ampla, acima de reino; as demais alternativas nomeiam categorias taxonômicas reais, mas de nível mais restrito.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-351",
+      "texto_apoio": "Duas grandes linhagens de plantas produzem sementes como estrutura reprodutiva, mas diferem quanto a essas sementes estarem ou não envolvidas por um tecido que se desenvolve a partir do ovário fecundado.",
+      "enunciado": "Essas duas linhagens, distinguidas pela presença ou ausência de fruto envolvendo a semente, são conhecidas como:",
+      "alternativas": {
+        "a": "angiospermas e gimnospermas, distinguidas pela presença ou ausência de fruto envolvendo a semente produzida",
+        "b": "briófitas e pteridófitas, distinguidas pela presença ou ausência de vasos condutores de seiva no corpo da planta",
+        "c": "monocotiledôneas e dicotiledôneas, distinguidas pelo número de folhas presentes no embrião da semente",
+        "d": "talófitas e cormófitas, distinguidas pela presença ou ausência de raiz, caule e folha diferenciados no corpo da planta",
+        "e": "autótrofas e heterótrofas, distinguidas pela capacidade ou incapacidade de produzir o próprio alimento"
+      },
+      "resposta": "a",
+      "explicacao": "Angiospermas produzem sementes envolvidas por fruto, formado a partir do desenvolvimento do ovário após a fecundação; gimnospermas produzem sementes nuas, sem fruto, geralmente expostas em estruturas como pinhas. As demais alternativas descrevem outras distinções reais entre grupos vegetais, mas não a presença ou ausência de fruto.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-352",
+      "texto_apoio": "Um grupo de plantas terrestres, sem vasos condutores de seiva especializados, depende de uma lâmina de água externa para que o gameta masculino consiga nadar até o gameta feminino durante a reprodução, o que limita seu porte e o ambiente onde pode viver.",
+      "enunciado": "Esse grupo de plantas, geralmente pequeno e restrito a ambientes úmidos e sombreados, é conhecido como:",
+      "alternativas": {
+        "a": "gimnospermas, grupo de plantas que produz sementes nuas, sem fruto envolvendo-as, geralmente em estruturas como pinhas",
+        "b": "angiospermas, grupo de plantas que produz flor e fruto como estruturas associadas à reprodução sexuada",
+        "c": "briófitas, grupo de plantas sem vasos condutores especializados, dependente de água externa para a reprodução",
+        "d": "pteridófitas, grupo de plantas com vasos condutores de seiva já desenvolvidos, como as samambaias atuais",
+        "e": "algas verdes, grupo de organismos fotossintetizantes majoritariamente aquáticos, sem raiz, caule ou folha diferenciados"
+      },
+      "resposta": "c",
+      "explicacao": "As briófitas (como os musgos) não têm vasos condutores especializados e dependem de uma lâmina de água externa para que o gameta masculino, flagelado, nade até o gameta feminino — por isso seu porte é pequeno e sua ocorrência está restrita a ambientes úmidos. Pteridófitas (d) já têm vasos condutores desenvolvidos, embora também dependam de água para a reprodução.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-353",
+      "texto_apoio": "Um grupo de plantas terrestres foi o primeiro, na história evolutiva, a desenvolver tecidos condutores especializados para o transporte de água e de nutrientes ao longo do corpo, o que permitiu atingir porte maior do que o de seus ancestrais.",
+      "enunciado": "Esse grupo de plantas, ao qual pertencem as samambaias atuais, é conhecido como:",
+      "alternativas": {
+        "a": "briófitas, grupo de plantas sem tecidos condutores especializados, dependente de água externa para a reprodução sexuada",
+        "b": "pteridófitas, grupo de plantas com tecidos condutores especializados já desenvolvidos, ao qual pertencem as samambaias",
+        "c": "gimnospermas, grupo de plantas que produz sementes nuas, sem qualquer fruto envolvendo-as diretamente",
+        "d": "angiospermas, grupo de plantas que produz flor e fruto como estruturas associadas à reprodução sexuada",
+        "e": "algas pardas, grupo de organismos fotossintetizantes majoritariamente marinhos, sem raiz, caule ou folha diferenciados"
+      },
+      "resposta": "b",
+      "explicacao": "Pteridófitas foram o primeiro grupo de plantas a desenvolver xilema e floema, tecidos condutores que permitiram atingir porte maior — grupo ao qual pertencem samambaias e avencas atuais. Briófitas (a) ainda não têm esses tecidos condutores; gimnospermas e angiospermas (c, d) já produzem semente, estrutura ausente nas pteridófitas.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-354",
+      "texto_apoio": "Um grupo de animais invertebrados apresenta corpo segmentado, exoesqueleto rígido e patas articuladas — características que sustentam sua enorme diversidade de espécies, reunindo insetos, aracnídeos, crustáceos e miriápodes num mesmo grupo.",
+      "enunciado": "Esse grupo, considerado o mais numeroso em espécies entre todos os grupos de animais conhecidos, é conhecido como:",
+      "alternativas": {
+        "a": "moluscos, grupo de invertebrados de corpo mole, geralmente protegido por uma concha calcária externa",
+        "b": "anelídeos, grupo de invertebrados de corpo dividido em segmentos semelhantes entre si, sem exoesqueleto rígido",
+        "c": "equinodermos, grupo de invertebrados marinhos com simetria radial e sistema de canais preenchidos por água",
+        "d": "artrópodes, grupo de invertebrados com exoesqueleto rígido e patas articuladas, o mais numeroso em espécies",
+        "e": "cnidários, grupo de invertebrados de corpo em forma de saco, com tentáculos equipados de células urticantes"
+      },
+      "resposta": "d",
+      "explicacao": "Artrópodes reúnem insetos, aracnídeos, crustáceos e miriápodes, unidos por exoesqueleto rígido e patas articuladas — características associadas ao maior número de espécies descritas entre todos os grupos de animais. As demais alternativas descrevem outros grupos de invertebrados reais, com características corporais distintas.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-355",
+      "texto_apoio": "Um grupo de animais invertebrados apresenta corpo mole, não segmentado, muitas vezes protegido por uma concha calcária externa secretada por uma dobra de tecido característica desse grupo, reunindo caracóis, lulas, polvos e mariscos.",
+      "enunciado": "Esse grupo de invertebrados, ao qual pertencem caracóis, lulas, polvos e mariscos, é conhecido como:",
+      "alternativas": {
+        "a": "artrópodes, grupo de invertebrados com exoesqueleto rígido e patas articuladas, considerado o mais numeroso em espécies",
+        "b": "equinodermos, grupo de invertebrados marinhos com simetria radial e sistema de canais preenchidos por água",
+        "c": "anelídeos, grupo de invertebrados de corpo dividido em segmentos semelhantes entre si ao longo de todo o comprimento",
+        "d": "moluscos, grupo de invertebrados de corpo mole, muitas vezes protegido por uma concha calcária externa",
+        "e": "poríferos, grupo de invertebrados aquáticos simples, sem tecidos verdadeiros nem órgãos diferenciados no corpo"
+      },
+      "resposta": "d",
+      "explicacao": "Moluscos reúnem caracóis, lulas, polvos e mariscos, unidos pelo corpo mole e, em muitas espécies, por uma concha calcária secretada pelo manto. Cada grupo listado nas demais alternativas tem plano corporal e características próprias, distintas do grupo descrito.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-356",
+      "texto_apoio": "Um grupo de animais aquáticos apresenta corpo em forma de saco, simetria radial e tentáculos equipados com estruturas urticantes usadas tanto para captura de alimento quanto para defesa, reunindo águas-vivas, corais e anêmonas-do-mar.",
+      "enunciado": "Esse grupo de invertebrados, ao qual pertencem águas-vivas, corais e anêmonas, é conhecido como:",
+      "alternativas": {
+        "a": "poríferos, grupo de invertebrados aquáticos simples, sem tecidos verdadeiros nem órgãos diferenciados no corpo",
+        "b": "moluscos, grupo de invertebrados de corpo mole, muitas vezes protegido por uma concha calcária externa",
+        "c": "cnidários, grupo de invertebrados de corpo em forma de saco, com tentáculos equipados de estruturas urticantes",
+        "d": "equinodermos, grupo de invertebrados marinhos com simetria radial e sistema de canais preenchidos por água",
+        "e": "nematódeos, grupo de invertebrados de corpo cilíndrico e alongado, muitos deles parasitas de outros animais"
+      },
+      "resposta": "c",
+      "explicacao": "Cnidários reúnem águas-vivas, corais e anêmonas, unidos pela simetria radial e pelas estruturas urticantes usadas na captura de alimento e na defesa. Equinodermos (d) também têm simetria radial, mas se distinguem por um sistema interno de canais preenchidos por água, ausente nos cnidários.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-357",
+      "texto_apoio": "Um critério amplamente usado para separar dois grandes grupos do reino animal é a presença ou ausência de uma estrutura de sustentação interna, segmentada, que protege o principal cordão nervoso do corpo.",
+      "enunciado": "Esses dois grandes grupos, distinguidos pela presença ou ausência dessa estrutura, são conhecidos como:",
+      "alternativas": {
+        "a": "vertebrados e invertebrados, distinguidos pela presença ou ausência de coluna vertebral protegendo o cordão nervoso",
+        "b": "endotérmicos e ectotérmicos, distinguidos pela capacidade ou incapacidade de regular internamente a temperatura corporal",
+        "c": "ovíparos e vivíparos, distinguidos pelo local em que o desenvolvimento embrionário do animal ocorre principalmente",
+        "d": "terrestres e aquáticos, distinguidos pelo ambiente predominante em que cada animal vive ao longo da vida adulta",
+        "e": "autótrofos e heterótrofos, distinguidos pela capacidade ou incapacidade de produzir o próprio alimento diretamente"
+      },
+      "resposta": "a",
+      "explicacao": "Vertebrados possuem coluna vertebral, estrutura segmentada que protege a medula espinhal; invertebrados não têm essa estrutura, embora alguns tenham outras formas de sustentação corporal, como o exoesqueleto dos artrópodes. As demais alternativas descrevem outras distinções biológicas reais entre animais, mas não essa relacionada à coluna vertebral.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-358",
+      "texto_apoio": "Um grupo de vertebrados passa por uma fase inicial de vida majoritariamente aquática, respirando por guelras, e sofre uma metamorfose que leva ao desenvolvimento de pulmões e à possibilidade de vida em ambiente terrestre na fase adulta, embora a pele fina e permeável ainda exija proximidade de ambientes úmidos.",
+      "enunciado": "Esse grupo de vertebrados, que inclui sapos, rãs e salamandras, é conhecido como:",
+      "alternativas": {
+        "a": "répteis, grupo de vertebrados com pele coberta por escamas queratinizadas e ovo com casca resistente à perda de água",
+        "b": "aves, grupo de vertebrados endotérmicos com corpo coberto por penas e membros anteriores modificados em asas",
+        "c": "peixes, grupo de vertebrados aquáticos que respiram por guelras durante toda a vida, sem passar por metamorfose",
+        "d": "anfíbios, grupo de vertebrados com fase inicial aquática e metamorfose até a fase adulta com pele fina e permeável",
+        "e": "mamíferos, grupo de vertebrados endotérmicos com corpo coberto por pelos e glândulas que produzem leite"
+      },
+      "resposta": "d",
+      "explicacao": "Anfíbios — sapos, rãs e salamandras — têm fase inicial majoritariamente aquática, respiração por guelras que dá lugar a pulmões após a metamorfose, e pele fina e permeável que os mantém dependentes de ambientes úmidos mesmo na fase adulta terrestre. Os demais grupos de vertebrados listados têm características corporais e ciclos de vida distintos desse descrito.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-359",
+      "texto_apoio": "Um grupo de vertebrados apresenta pele seca, coberta por escamas queratinizadas que reduzem a perda de água, e um ovo com casca resistente que permite o desenvolvimento embrionário fora de ambientes aquáticos.",
+      "enunciado": "Esse grupo de vertebrados, ao qual pertencem cobras, lagartos e jacarés, é conhecido como:",
+      "alternativas": {
+        "a": "anfíbios, grupo de vertebrados com fase inicial majoritariamente aquática e pele fina e permeável na fase adulta",
+        "b": "peixes, grupo de vertebrados aquáticos que respiram por guelras ao longo da vida inteira, sem passar por fase terrestre no ciclo",
+        "c": "mamíferos, grupo de vertebrados endotérmicos com corpo coberto por pelos e glândulas que produzem leite",
+        "d": "aves, grupo de vertebrados endotérmicos com corpo coberto por penas e membros anteriores modificados em asas",
+        "e": "répteis, grupo de vertebrados com pele seca e escamosa e ovo de casca resistente, adaptado a ambientes terrestres secos"
+      },
+      "resposta": "e",
+      "explicacao": "Répteis — cobras, lagartos, jacarés — têm pele seca e escamosa, que reduz a perda de água, e um ovo com casca resistente que permite o desenvolvimento embrionário fora da água, adaptação central à vida em ambientes terrestres secos. Os demais grupos de vertebrados listados têm características corporais distintas dessa adaptação específica.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-360",
+      "texto_apoio": "Um grupo de seres vivos, incapaz de produzir o próprio alimento, obtém nutrientes por absorção direta do ambiente, decompondo matéria orgânica ao seu redor por meio de substâncias liberadas para o exterior do próprio corpo, e apresenta parede de quitina envolvendo suas estruturas.",
+      "enunciado": "Esse grupo de seres vivos, que inclui cogumelos, leveduras e bolores, é conhecido como:",
+      "alternativas": {
+        "a": "protistas, grupo diverso que reúne organismos eucarióticos simples, como algas simples e protozoários variados",
+        "b": "reino Monera, grupo que reúne organismos procariontes simples e sem núcleo organizado, como as bactérias conhecidas",
+        "c": "vírus, agentes biológicos que dependem obrigatoriamente de outro organismo hospedeiro para conseguir se replicar",
+        "d": "plantas, grupo de organismos autótrofos capazes de produzir o próprio alimento a partir da luz solar disponível no ambiente",
+        "e": "fungos, grupo com parede de quitina que se alimenta de matéria orgânica já em decomposição, absorvida pelo próprio corpo"
+      },
+      "resposta": "e",
+      "explicacao": "Fungos — cogumelos, leveduras, bolores — se alimentam de matéria orgânica em decomposição, absorvendo nutrientes já digeridos externamente, com parede de quitina envolvendo suas estruturas, distinta da composição da parede das plantas. Os demais grupos listados têm modo de obtenção de alimento e composição estrutural diferentes do descrito.",
+      "formato": "direta"
+    },
+    {
+      "id": "biologia-361",
+      "texto_apoio": "Todo ser vivo conhecido recebe um nome científico composto por duas palavras em latim: a primeira indica o grupo mais próximo de parentesco a que ele pertence, e a segunda distingue esse ser dos demais integrantes desse mesmo grupo.",
+      "enunciado": "Esse sistema de nomeação, criado por Lineu e usado até hoje na biologia, é conhecido como:",
+      "alternativas": {
+        "a": "classificação filogenética, sistema que organiza os seres vivos conforme o grau de parentesco evolutivo entre eles",
+        "b": "nomenclatura vernacular, sistema que usa o nome popular de cada ser vivo, variável conforme a região e o idioma",
+        "c": "taxonomia numérica, sistema que atribui um código numérico único a cada espécie descrita pela ciência",
+        "d": "classificação artificial, sistema que agrupa seres vivos apenas pela semelhança de aparência externa entre eles",
+        "e": "nomenclatura binomial, sistema que atribui a cada ser vivo um nome científico composto por gênero e espécie"
+      },
+      "resposta": "e",
+      "explicacao": "A nomenclatura binomial, criada por Lineu, atribui a cada ser vivo um nome científico de duas palavras em latim: a primeira indica o gênero, a segunda distingue a espécie dentro desse gênero — como em Homo sapiens. As demais alternativas descrevem outros sistemas ou conceitos reais da biologia, mas distintos dessa nomenclatura de duas palavras.",
+      "formato": "direta"
     }
   ]
 }

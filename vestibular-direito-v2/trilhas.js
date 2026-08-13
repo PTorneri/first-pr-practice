@@ -560,12 +560,36 @@
       arquivos: [
         "subtopics", "theory", "flashcards", "priority-weights",
         "video-topics", "bundle", "redacoes", "dissertativas-matematica",
+        // Emprestadas de Direito, e a lista é a mesma. Ver o rótulo em
+        // obrasUI: aqui elas NÃO são leitura obrigatória.
+        { nome: "obras", dir: "../vestibular-direito/data/" },
+        { nome: "obras-questoes", dir: "../vestibular-direito/data/" },
       ],
-      // Sem "obras": a prova de Artes e a lista de leitura obrigatória são
-      // exclusivas da FGV Direito SP. O edital unificado não traz lista para a
-      // EESP, e o conteúdo programático dela troca Artes por Ciências da
-      // Natureza. Aba de obras aqui seria uma aba mentindo.
-      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "erros", "progresso", "perfil", "mais"],
+      // A aba existe, mas com outro nome e outra promessa. A prova de Artes e a
+      // lista de leitura obrigatória são exclusivas da FGV Direito SP — o
+      // edital não traz lista para a EESP, e o conteúdo programático dela troca
+      // Artes por Ciências da Natureza (ver o estudo de anatomia da prova).
+      //
+      // Chamar isto de "obras obrigatórias" aqui seria mentira. Chamar de
+      // repertório não é: são as mesmas obras que alimentam argumento de
+      // redação e leitura crítica em qualquer prova, e a de Economia tem
+      // discursiva. O aluno decide quanto tempo dar; o que ele não pode é
+      // achar que a banca vai cobrar enredo.
+      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "redacao", "obras", "erros", "progresso", "perfil", "mais"],
+      rotulosAbas: { obras: "Repertório cultural" },
+      obrasUI: {
+        titulo: "Repertório cultural",
+        hint: "A FGV EESP não cobra lista de leitura: a prova de Artes e Questões Contemporâneas " +
+              "é exclusiva do Direito, e o conteúdo programático da Economia troca Artes por " +
+              "Ciências da Natureza. NADA aqui é obrigatório. É repertório — livro, filme, disco " +
+              "e obra visual que rendem argumento na discursiva e reconhecimento na interpretação " +
+              "de texto. Leia o que te interessar, na ordem que quiser.",
+        subtitulo: "obras de repertório · nenhuma cobrada pelo edital",
+        rodape: "nenhuma destas obras é cobrada pelo edital da EESP",
+        rotuloAnalise: "Leitura crítica",
+        complementaresTitulo: "Também no acervo",
+        complementaresHint: "Mesma condição das de cima: repertório, não exigência.",
+      },
       redacaoUI: {
         desc: "Texto <strong>dissertativo-argumentativo, em prosa</strong>. A proposta da <strong>FGV</strong> " +
               "é a mesma da trilha de Direito — mesmo caderno, mesmo dia —, com 20 a 30 linhas e título livre. " +
@@ -652,11 +676,31 @@
       // ainda não migraram para o banco central), e é por isso que a lista
       // "Estudar por frente" passou a esconder frente sem card: 36 linhas
       // dizendo "0 cards" ensinariam que a aba está quebrada.
-      arquivos: ["subtopics", "theory", "flashcards", "priority-weights", "video-topics", "bundle"],
-      // Redação e Obras seguem de fora, e isso NÃO é esquecimento: não existe
-      // redacoes.js nem obras.js para Engenharia. Aba sem dado por trás é pior
-      // que aba ausente — ela promete e devolve tela vazia.
-      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "erros", "progresso", "perfil", "mais"],
+      arquivos: [
+        "subtopics", "theory", "flashcards", "priority-weights", "video-topics", "bundle",
+        // Mesma coisa que em Economia: emprestadas, e como REPERTÓRIO.
+        { nome: "obras", dir: "../vestibular-direito/data/" },
+        { nome: "obras-questoes", dir: "../vestibular-direito/data/" },
+      ],
+      // Redação segue de fora, e isso NÃO é esquecimento: não existe
+      // redacoes.js para Engenharia, e aba sem dado promete e devolve tela
+      // vazia. Obras entra, mas como repertório — o ITA não publica lista de
+      // leitura fechada, e a trilha tem frente de literatura, que é história
+      // literária e interpretação, coisa diferente de "a banca cobra estas 46".
+      abas: ["hoje", "calendario", "simulados", "buscar", "cards", "obras", "erros", "progresso", "perfil", "mais"],
+      rotulosAbas: { obras: "Repertório cultural" },
+      obrasUI: {
+        titulo: "Repertório cultural",
+        hint: "O ITA não publica lista de leitura obrigatória. NADA aqui é cobrado pela banca. " +
+              "É repertório — a prova de Português tem literatura e interpretação, e conhecer " +
+              "estas obras ajuda a reconhecer referência, estilo e período. Leia o que te " +
+              "interessar, sem meta.",
+        subtitulo: "obras de repertório · nenhuma cobrada pelo edital",
+        rodape: "nenhuma destas obras é cobrada pelo edital do ITA",
+        rotuloAnalise: "Leitura crítica",
+        complementaresTitulo: "Também no acervo",
+        complementaresHint: "Mesma condição das de cima: repertório, não exigência.",
+      },
       plano: {
         totalDias: 90,
         subtemasPorDia: 3,
@@ -711,17 +755,26 @@
   function carregar(id, apenas) {
     if (!ehValida(id)) return Promise.reject(new Error("trilha desconhecida: " + id));
     const cfg = window.VD_TRILHAS[id];
+    // Um item de `arquivos` é o NOME do arquivo, e ele é buscado no dataDir da
+    // própria trilha. Mas pode ser também { nome, dir }, e aí a trilha toma o
+    // arquivo emprestado de outra pasta — é o que Economia e Engenharia fazem
+    // com obras.js: a lista de repertório é a mesma de Direito, e copiá-la
+    // seria 871 KB duplicados duas vezes, que sairiam de sincronia na primeira
+    // correção feita num dos lados.
+    const nomeDe = function (item) { return typeof item === "string" ? item : item.nome; };
     const lista = apenas
-      ? cfg.arquivos.filter(function (n) { return apenas.indexOf(n) !== -1; })
+      ? cfg.arquivos.filter(function (i) { return apenas.indexOf(nomeDe(i)) !== -1; })
       : cfg.arquivos;
 
     return new Promise(function (resolve, reject) {
       let restantes = lista.length;
       if (restantes === 0) return resolve(cfg);
 
-      lista.forEach(function (nome) {
+      lista.forEach(function (item) {
+        const nome = nomeDe(item);
+        const dir = (typeof item === "object" && item.dir) || cfg.dataDir;
         const el = document.createElement("script");
-        el.src = cfg.dataDir + nome + ".js?d=" + DATA_VERSION;
+        el.src = dir + nome + ".js?d=" + DATA_VERSION;
         el.async = false; // preserva a ordem declarada em `arquivos`
         el.onload = function () {
           restantes -= 1;

@@ -394,13 +394,28 @@
         cfg.resumo;
     }
 
-    // Abas que não existem nesta trilha somem — botão e painel. Em Medicina é o
-    // caso de "Obras": obras obrigatórias são um instrumento da FGV.
+    // Abas que não existem nesta trilha somem — botão e painel. Em Engenharia é
+    // o caso de "Redação": não há redacoes.js para o ITA.
+    //
+    // O RÓTULO também sai da trilha, quando ela pede. A mesma aba de obras é
+    // "Obras obrigatórias" em Direito e Medicina, onde a banca de fato cobra
+    // uma lista fechada, e "Repertório cultural" em Economia e Engenharia,
+    // onde não cobra. Mesmo painel, mesma lista, promessa diferente — e a
+    // promessa é o que o aluno lê antes de decidir quanto tempo gastar.
+    const rotulos = cfg.rotulosAbas || {};
     document.querySelectorAll(".tab-btn").forEach((btn) => {
       const usa = cfg.abas.indexOf(btn.dataset.tab) !== -1;
       btn.hidden = !usa;
       const painel = document.getElementById("tab-" + btn.dataset.tab);
       if (painel && !usa) painel.classList.remove("active");
+
+      const rotulo = rotulos[btn.dataset.tab];
+      if (rotulo) {
+        // Na lateral o texto vive no primeiro <span> (o segundo é o contador);
+        // na barra do celular, em .tabbar-label.
+        const alvo = btn.querySelector(".tabbar-label") || btn.querySelector("span");
+        if (alvo) alvo.textContent = rotulo;
+      }
     });
 
     const hint = document.getElementById("progresso-hint");
@@ -502,7 +517,10 @@
       };
     },
     redacao: () => ({ titulo: "Redação", subtitulo: subtituloRedacao() }),
-    obras: () => ({ titulo: "Obras obrigatórias", subtitulo: subtituloObras() }),
+    // O título do cabeçalho segue o mesmo rótulo da lateral: em Economia e
+    // Engenharia a aba se chama "Repertório cultural", e o cabeçalho não pode
+    // contradizer a barra a dois centímetros dele.
+    obras: () => ({ titulo: rotuloDaAba("obras", "Obras obrigatórias"), subtitulo: subtituloObras() }),
     erros: () => {
       const n = contarErrosPendentes();
       return {
@@ -549,8 +567,14 @@
     return n ? n + " propostas · grade oficial das bancas" : "Grade oficial das bancas";
   }
 
+  // "do edital" é uma AFIRMAÇÃO, e só vale onde a banca publica a lista. Em
+  // Economia e Engenharia a mesma lista é repertório, e o subtítulo não pode
+  // dizer o contrário do texto que aparece dois centímetros abaixo dele.
   function subtituloObras() {
+    const cfg = (window.VD_TRILHA && window.VD_TRILHA.config()) || TRILHA_CFG;
+    const ui = (cfg && cfg.obrasUI) || {};
     const n = (window.OBRAS || []).length;
+    if (ui.subtitulo) return n ? n + " " + ui.subtitulo : ui.subtitulo;
     return n ? n + " obras do edital" : "Lista do edital";
   }
 
@@ -683,6 +707,17 @@
   // Perfil, onde os controles de verdade vivem (trocar de trilha tem confirmação,
   // a data de início tem seletor). "Sair da conta" é a exceção: aciona o botão
   // que já existe lá, porque é ação de um toque e não tem o que ajustar.
+  // O nome de uma aba, quando a trilha quer chamá-la de outra coisa. Existe
+  // por causa das obras: a MESMA lista é "Obras obrigatórias" onde a banca
+  // cobra (Direito, Medicina) e "Repertório cultural" onde não cobra
+  // (Economia, Engenharia). Três lugares dizem esse nome — barra lateral,
+  // cabeçalho da página e a linha da tela "Mais" — e discordar entre eles é
+  // pior que não ter a aba.
+  function rotuloDaAba(tab, padrao) {
+    const cfg = (window.VD_TRILHA && window.VD_TRILHA.config()) || TRILHA_CFG;
+    return ((cfg && cfg.rotulosAbas) || {})[tab] || padrao;
+  }
+
   function renderMaisTab() {
     const container = document.getElementById("mais-content");
     if (!container) return;
@@ -721,7 +756,7 @@
     const estudo = [
       { tab: "buscar", rotulo: "Buscar", icone: "i-search" },
       { tab: "redacao", rotulo: "Redação", icone: "i-pen" },
-      { tab: "obras", rotulo: "Obras", icone: "i-books" },
+      { tab: "obras", rotulo: rotuloDaAba("obras", "Obras"), icone: "i-books" },
       { tab: "erros", rotulo: "Caderno de Erros", icone: "i-notebook", contagem: contarErrosPendentes },
       { tab: "progresso", rotulo: "Meu progresso", icone: "i-chart" },
     ].filter((item) => abasDaTrilha.indexOf(item.tab) !== -1);

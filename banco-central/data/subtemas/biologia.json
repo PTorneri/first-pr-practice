@@ -1,5 +1,5 @@
 {
- "gerado": "2026-08-12",
+ "gerado": "2026-08-13",
  "frente": "biologia",
  "total": 336,
  "residuo": [
@@ -894,8 +894,8 @@
   "med-biologia-148": {
    "subtema": "biologia-fisiologia",
    "frenteDestino": "biologia",
-   "pontos": 4,
-   "margem": 1
+   "pontos": 9,
+   "margem": 6
   },
   "med-biologia-149": {
    "subtema": "biologia-ecologia",
@@ -1421,8 +1421,8 @@
   "med-biologia-236": {
    "subtema": "biologia-ecologia",
    "frenteDestino": "biologia",
-   "pontos": 9,
-   "margem": 5
+   "pontos": 14,
+   "margem": 10
   },
   "med-biologia-237": {
    "subtema": "biologia-genetica",
@@ -1434,7 +1434,7 @@
    "subtema": "biologia-fisiologia",
    "frenteDestino": "biologia",
    "pontos": 14,
-   "margem": 10
+   "margem": 5
   },
   "med-biologia-239": {
    "subtema": "biologia-evolucao",

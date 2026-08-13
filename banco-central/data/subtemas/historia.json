@@ -1,5 +1,5 @@
 {
- "gerado": "2026-08-12",
+ "gerado": "2026-08-13",
  "frente": "historia",
  "total": 420,
  "residuo": [
@@ -96,8 +96,8 @@
   "dir-historia-brasil-04": {
    "subtema": "historia-brasil-colonia-imperio",
    "frenteDestino": "historia",
-   "pontos": 10,
-   "margem": 10
+   "pontos": 15,
+   "margem": 15
   },
   "dir-historia-brasil-05": {
    "subtema": "historia-brasil-colonia-imperio",
@@ -108,8 +108,8 @@
   "dir-historia-brasil-06": {
    "subtema": "historia-brasil-colonia-imperio",
    "frenteDestino": "historia",
-   "pontos": 15,
-   "margem": 10
+   "pontos": 20,
+   "margem": 20
   },
   "dir-historia-brasil-07": {
    "subtema": "historia-brasil-republica",
@@ -145,7 +145,7 @@
    "subtema": "historia-brasil-republica",
    "frenteDestino": "historia",
    "pontos": 10,
-   "margem": 1
+   "margem": 6
   },
   "dir-historia-brasil-13": {
    "subtema": "historia-brasil-republica",
@@ -186,8 +186,8 @@
   "dir-historia-brasil-19": {
    "subtema": "historia-brasil-colonia-imperio",
    "frenteDestino": "historia",
-   "pontos": 15,
-   "margem": 15
+   "pontos": 19,
+   "margem": 19
   },
   "dir-historia-brasil-20": {
    "subtema": "historia-brasil-colonia-imperio",
@@ -533,8 +533,8 @@
   "dir-historia-brasil-77": {
    "subtema": "historia-brasil-republica",
    "frenteDestino": "historia",
-   "pontos": 9,
-   "margem": 9
+   "pontos": 4,
+   "margem": 4
   },
   "dir-historia-brasil-78": {
    "subtema": "historia-brasil-republica",
@@ -587,8 +587,8 @@
   "dir-historia-brasil-86": {
    "subtema": "historia-brasil-republica",
    "frenteDestino": "historia",
-   "pontos": 10,
-   "margem": 10
+   "pontos": 5,
+   "margem": 5
   },
   "dir-historia-brasil-87": {
    "subtema": "historia-brasil-republica",

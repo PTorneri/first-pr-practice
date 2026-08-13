@@ -6180,6 +6180,199 @@
    "explicacao": "A boa conservação dos sambaquis se deve à ação da água da chuva, que dissolve e reprecipita o carbonato de cálcio das conchas, cimentando o monte e conferindo-lhe maior resistência à erosão ao longo do tempo.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-208",
+   "texto_apoio": "Em 2024, o grupo original de cinco países (Brasil, Rússia, Índia, China e África do Sul) passou a incluir novos membros, ampliando o chamado BRICS+.",
+   "enunciado": "Entre os objetivos declarados dessa ampliação, o mais associado ao discurso do bloco é:",
+   "alternativas": {
+    "a": "formar uma aliança político-militar permanente, com comando único integrado entre os países-membros, ideia presente desde a fundação do grupo original",
+    "b": "substituir de imediato o dólar como moeda de reserva em todas as transações comerciais realizadas entre os países-membros do bloco",
+    "c": "reduzir a dependência de instituições financeiras dominadas pelos países centrais, como o FMI e o Banco Mundial",
+    "d": "unificar de forma definitiva as políticas externas dos membros em torno de uma posição sobre os principais conflitos internacionais da atualidade",
+    "e": "igualar formalmente o peso de voto de cada membro do bloco nas instituições multilaterais já existentes, incluindo o Conselho de Segurança da ONU"
+   },
+   "resposta": "c",
+   "explicacao": "O discurso do BRICS+ gira em torno de reduzir a dependência das instituições de Bretton Woods, criadas sob liderança ocidental no pós-guerra, e construir alternativas como o Novo Banco de Desenvolvimento. A substituição do dólar (b) é meta de longuíssimo prazo, não iminente nem generalizada; os membros mantêm divergências de política externa entre si (d), como entre Índia e China; o bloco não é uma aliança político-militar (a); e a ampliação não altera a composição do Conselho de Segurança (e).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-209",
+   "texto_apoio": "O Mercosul prevê tarifa externa comum para o comércio com países de fora do bloco, mas cada país-membro negocia poucos acordos comerciais isoladamente.",
+   "enunciado": "Essa regra é um traço típico de uma ______, e a principal crítica que ela recebe é que ______. As lacunas são preenchidas por:",
+   "alternativas": {
+    "a": "zona de livre comércio – os produtos de fora do bloco pagam tarifas diferentes conforme o país de entrada, o que facilita o contrabando entre os membros",
+    "b": "área de livre comércio – ela elimina a tarifa entre os membros sem estabelecer regra comum alguma para o comércio com terceiros países",
+    "c": "confederação política – ela transfere a política externa dos países-membros para um órgão central com sede fixa e mandato permanente",
+    "d": "união monetária – ela obriga os países a adotarem, desde a assinatura do tratado, uma moeda comum ainda sem lastro consolidado",
+    "e": "união aduaneira – ela retira de cada país a liberdade de fechar sozinho acordos comerciais mais vantajosos com terceiros"
+   },
+   "resposta": "e",
+   "explicacao": "Tarifa externa comum é a marca da união aduaneira: dentro dela, o país perde autonomia para negociar sozinho acordos comerciais com terceiros — daí a crítica recorrente ao Mercosul de que ele atrasa acordos bilaterais que algum membro individualmente teria interesse em fechar. Zona/área de livre comércio (a, b) não têm tarifa externa comum; união monetária (d) trata de moeda, não de tarifa; confederação (c) descreve outra coisa, união política.",
+   "formato": "lacunas",
+   "banca": "fuvest",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-210",
+   "texto_apoio": "Um país pode influenciar outros pela força militar e econômica, mas também pela atração que sua cultura, seus valores e suas instituições exercem.",
+   "enunciado": "Essa segunda forma de influência, sem uso de coerção direta, é descrita pelo conceito de:",
+   "alternativas": {
+    "a": "unipolaridade, situação em que um único país concentra o conjunto das decisões relevantes do sistema internacional em determinado período",
+    "b": "poder brando, que atua pela atração e pela capacidade de moldar preferências alheias sem recorrer à força",
+    "c": "balança de poder, mecanismo pelo qual alianças militares se formam para conter uma potência regional em ascensão",
+    "d": "soberania territorial, o direito histórico de um Estado de exercer autoridade plena sobre o próprio território reconhecido",
+    "e": "poder duro, medido sobretudo pelo tamanho do orçamento militar e pela capacidade industrial de cada país"
+   },
+   "resposta": "b",
+   "explicacao": "Poder brando (soft power) é a capacidade de obter os resultados desejados pela atração — cultura, diplomacia, valores — em vez da coerção. Poder duro (e) é o oposto, apoiado em força militar e econômica; unipolaridade (a) e balança de poder (c) descrevem configurações do sistema internacional, não formas de exercer influência; soberania territorial (d) é outro conceito, sobre autoridade num território.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-211",
+   "texto_apoio": "Governos usam com frequência a restrição ao comércio, a bens financeiros ou a vistos como resposta a ações de outro país, sem recorrer ao confronto armado.",
+   "enunciado": "Sobre esse instrumento de política externa, é correto afirmar que:",
+   "alternativas": {
+    "a": "produz efeito imediato e semelhante em qualquer país-alvo, independentemente do grau de integração dele à economia mundial",
+    "b": "deixou de ser usado por grandes potências depois que os principais fóruns multilaterais de comércio se consolidaram, a partir dos anos 1990",
+    "c": "atinge apenas órgãos do setor público do país-alvo, sem qualquer repercussão sobre empresas privadas ou cidadãos comuns",
+    "d": "costuma atingir de forma desigual a população do país-alvo e as elites que a medida pretendia pressionar",
+    "e": "depende da aprovação prévia do Conselho de Segurança da ONU para que qualquer país possa aplicá-lo de forma legítima"
+   },
+   "resposta": "d",
+   "explicacao": "Sanções costumam recair primeiro sobre a população geral — acesso a remédios, insumos, alimentos — enquanto elites com patrimônio diversificado no exterior têm mais recursos para se proteger, crítica recorrente à eficácia do instrumento. O efeito não é semelhante entre países-alvo (a), varia conforme integração comercial e financeira de cada um; sanções continuam sendo usadas por grandes potências fora da ONU, unilateralmente ou em blocos como a União Europeia (b, e); e afetam também empresas privadas e cidadãos, não só órgãos públicos (c).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-212",
+   "texto_apoio": "Uma parcela significativa do petróleo e dos contêineres transportados por via marítima passa por um pequeno número de passagens estreitas entre continentes ou ilhas.",
+   "enunciado": "Esses pontos de passagem obrigatória do comércio marítimo são conhecidos, na geografia dos transportes, como:",
+   "alternativas": {
+    "a": "zonas econômicas exclusivas, faixa de até 200 milhas náuticas sobre a qual o país costeiro tem direito de exploração de recursos",
+    "b": "estrangulamentos (chokepoints), cuja interrupção eleva o custo do frete e pode afetar regiões distantes da própria passagem",
+    "c": "corredores ecológicos, faixas marinhas destinadas à preservação de rotas migratórias de espécies protegidas por acordos internacionais",
+    "d": "plataformas continentais, prolongamento submerso do continente até a profundidade onde o relevo do fundo oceânico muda de forma abrupta",
+    "e": "águas internacionais, porção do oceano sobre a qual nenhum país costuma exercer jurisdição plena ou reivindicação territorial formal"
+   },
+   "resposta": "b",
+   "explicacao": "Estreitos como Ormuz, Malaca e o Canal de Suez concentram parte desproporcional do fluxo marítimo mundial: fechá-los, ou apenas ameaçar fechá-los, já eleva o custo do frete e do seguro, mesmo para cargas que nunca passariam por ali diretamente. As demais alternativas descrevem outros conceitos de direito do mar e geografia dos transportes, sem relação direta com a ideia de ponto de estrangulamento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-213",
+   "texto_apoio": "Ataques a redes de energia, sistemas bancários e infraestrutura de comunicação por meios digitais têm se tornado parte de disputas entre Estados.",
+   "enunciado": "Um traço que torna esse tipo de conflito distinto de um confronto militar convencional é:",
+   "alternativas": {
+    "a": "a garantia de que só alvos estritamente militares sejam afetados, sem repercussão sobre a infraestrutura civil do país atacado",
+    "b": "a exigência de declaração formal de guerra antes que qualquer ataque digital seja considerado legítimo pelo direito internacional",
+    "c": "a dificuldade de atribuir com certeza a autoria de um ataque a um Estado específico, o que complica a resposta e a responsabilização",
+    "d": "a impossibilidade prática de um grupo criminoso ou outro ator não estatal participar desse tipo de disputa entre países",
+    "e": "a ausência quase total de qualquer custo econômico para o país atacado, já que os danos ficariam restritos ao ambiente digital"
+   },
+   "resposta": "c",
+   "explicacao": "A atribuição é o problema central da guerra cibernética: um ataque pode ser roteado por servidores de terceiros países, terceirizado a grupos não estatais ou simplesmente negado, o que dificulta uma resposta proporcional e a responsabilização diplomática. Não há exigência de declaração formal prévia (b); atores não estatais participam ativamente desse tipo de disputa (d); os danos digitais têm custo econômico real (e); e a infraestrutura civil é justamente um dos alvos mais visados, não algo poupado (a).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-214",
+   "texto_apoio": "Desde 1944, a maior parte do comércio e das reservas internacionais é referenciada numa mesma moeda; nos últimos anos, países como China e Rússia ampliaram acordos bilaterais que dispensam essa moeda em algumas transações.",
+   "enunciado": "Esse movimento é chamado de ______, e o principal obstáculo que ele enfrenta é ______. As lacunas são preenchidas por:",
+   "alternativas": {
+    "a": "financeirização – o excesso de regulação bancária vigente nos países que tentam adotar moedas alternativas de reserva",
+    "b": "protecionismo comercial – a resistência da Organização Mundial do Comércio à assinatura de qualquer acordo bilateral entre países",
+    "c": "estagflação – a alta simultânea de preços e desemprego observada nos países que tentam abandonar a moeda de referência atual",
+    "d": "des-dolarização – a ausência de um substituto com liquidez, estabilidade e aceitação global comparáveis às do dólar",
+    "e": "desindustrialização – a falta de reservas de ouro suficientes para lastrear qualquer moeda alternativa proposta até o momento"
+   },
+   "resposta": "d",
+   "explicacao": "Des-dolarização é o termo usado para o movimento de reduzir a dependência do dólar em reservas e transações internacionais. O maior obstáculo é prático: nenhuma outra moeda hoje reúne liquidez, estabilidade e aceitação equivalentes, o que torna o processo lento mesmo entre países interessados em avançar nele. As demais opções combinam termos de outras áreas da economia (financeirização, protecionismo, estagflação, desindustrialização) que não descrevem esse movimento específico.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-215",
+   "texto_apoio": "Diversos países reivindicam soberania sobre pequenas ilhas e recifes situados em mares ricos em rotas comerciais e reservas de petróleo e gás, sobrepondo as reivindicações territoriais entre si.",
+   "enunciado": "Disputas desse tipo tendem a se intensificar sobretudo porque:",
+   "alternativas": {
+    "a": "organismos internacionais têm poder de impor uma solução vinculante às partes, o que costuma encerrar rapidamente esse tipo de disputa",
+    "b": "reconhecer soberania sobre um território marítimo amplia a zona econômica exclusiva e o controle sobre os recursos ali presentes",
+    "c": "essas ilhas raramente têm valor econômico relevante, e a disputa costuma ser motivada sobretudo por prestígio simbólico entre governos",
+    "d": "o direito internacional do mar não prevê critério algum para definir a quem pertence uma ilha ou recife disputado entre dois países",
+    "e": "os países envolvidos em geral já concordam sobre a soberania das ilhas e discordam apenas sobre o uso das rotas comerciais próximas"
+   },
+   "resposta": "b",
+   "explicacao": "A soberania sobre uma ilha, mesmo pequena, estende a zona econômica exclusiva ao redor dela — e com ela o direito a recursos pesqueiros e a jazidas de petróleo e gás no fundo do mar, além do controle sobre rotas comerciais próximas. É esse ganho concreto que explica a intensidade das disputas. O direito do mar tem critérios, ainda que contestados na aplicação (d); a soberania das ilhas é justamente o ponto disputado, não algo consensual (e); as ilhas costumam ter valor econômico real (c); e organismos internacionais em geral não conseguem impor solução vinculante que as partes cumpram (a).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-216",
+   "texto_apoio": "Criada em 1949 como aliança militar defensiva entre países da Europa Ocidental e da América do Norte, a organização incorporou desde então diversos países do antigo bloco soviético.",
+   "enunciado": "Essa expansão é apontada, por diferentes analistas, como um dos fatores que:",
+   "alternativas": {
+    "a": "uniu formalmente a aliança e a União Europeia numa única estrutura de comando, com regras de adesão idênticas para as duas organizações",
+    "b": "reduziu de forma significativa o orçamento militar dos países-membros, que passaram a depender quase só da defesa coletiva do bloco",
+    "c": "transformou a aliança numa organização voltada sobretudo a acordos econômicos, com o componente militar em segundo plano",
+    "d": "elevou a tensão com a Rússia, que passou a ver a aproximação da aliança de suas fronteiras como ameaça à própria segurança",
+    "e": "encerrou as principais disputas territoriais no leste europeu, que praticamente desapareceram após o fim da União Soviética"
+   },
+   "resposta": "d",
+   "explicacao": "A leitura mais recorrente entre analistas de relações internacionais é que a expansão para o leste, incorporando países que faziam fronteira com a antiga União Soviética, foi um dos fatores citados por Moscou para justificar sua percepção de cerco estratégico. A aliança segue sendo primariamente militar (c); disputas territoriais no leste europeu continuaram a ocorrer (e); os países-membros mantêm orçamento militar próprio (b); e a aliança e a União Europeia são estruturas distintas, com processos de adesão diferentes (a).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-217",
+   "texto_apoio": "O termo passou a ser usado para agrupar países da América Latina, África e Ásia que, apesar de diferenças profundas entre si, compartilham posição historicamente periférica na economia mundial.",
+   "enunciado": "Esse agrupamento é conhecido como:",
+   "alternativas": {
+    "a": "Comunidade dos Estados Independentes, organização formada a partir de repúblicas que integravam a antiga União Soviética",
+    "b": "Triângulo do Atlântico Norte, agrupamento comercial voltado a países banhados pelas duas margens do oceano Atlântico",
+    "c": "Terceira Via, aliança militar formal reunindo os países que não integraram nenhum dos dois blocos durante a Guerra Fria",
+    "d": "Sul Global, expressão que reúne países heterogêneos por uma trajetória histórica comum de colonização e industrialização tardia",
+    "e": "Zona do Euro, conjunto de países que adotam moeda única sob coordenação de um banco central comum sediado em Frankfurt"
+   },
+   "resposta": "d",
+   "explicacao": "Sul Global é o termo hoje mais usado para o agrupamento descrito: não indica posição estritamente geográfica, mas uma trajetória histórica comum de colonização e industrialização tardia diante dos países centrais. As demais opções nomeiam agrupamentos reais, mas diferentes: Zona do Euro (e) é sobre moeda comum europeia, Comunidade dos Estados Independentes (a) é pós-soviética, e as outras duas (b, c) são termos que não correspondem a organizações existentes com essa definição.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-218",
+   "texto_apoio": "Quando um país-membro da Organização Mundial do Comércio considera que outro violou as regras acordadas, pode acionar um mecanismo de arbitragem para resolver a disputa sem recorrer a medidas unilaterais.",
+   "enunciado": "Esse mecanismo perdeu boa parte de sua efetividade nos últimos anos principalmente porque:",
+   "alternativas": {
+    "a": "a organização perdeu formalmente a autoridade para julgar disputas envolvendo tarifas, restando-lhe hoje apenas questões sanitárias",
+    "b": "os países-membros da organização decidiram, em conjunto e por consenso, extinguir de vez o mecanismo de arbitragem em vigor",
+    "c": "um dos membros passou a bloquear a indicação de novos árbitros para a instância de apelação, esvaziando-a na prática",
+    "d": "o comércio internacional entre os membros da organização deixou de gerar qualquer tipo de disputa relevante nos últimos anos",
+    "e": "os países passaram a resolver toda disputa comercial relevante por meio de tribunais nacionais de cada uma das partes envolvidas"
+   },
+   "resposta": "c",
+   "explicacao": "A paralisia veio do bloqueio, por um dos principais membros, à indicação de novos julgadores para o órgão de apelação — sem quórum mínimo, decisões desfavoráveis passaram a poder ser recorridas indefinidamente sem julgamento final, esvaziando o mecanismo na prática. Não houve decisão coletiva de extinguir o sistema (b); disputas comerciais continuaram a surgir normalmente (d); a competência sobre tarifas permanece formalmente no órgão (a); e os países não passaram a depender só de tribunais nacionais, ainda que alguns tenham criado arranjos alternativos (e).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-219",
+   "texto_apoio": "Um conjunto de países europeus eliminou o controle de passaportes nas fronteiras internas, permitindo a livre circulação de pessoas entre eles, ao mesmo tempo em que reforçou o controle nas fronteiras externas do bloco.",
+   "enunciado": "Esse arranjo tende a ser questionado com mais força justamente em períodos de:",
+   "alternativas": {
+    "a": "expansão do bloco para novos membros, movimento que historicamente não gerou debate relevante entre os países já integrantes",
+    "b": "crescimento do comércio interno ao bloco, cenário que costuma levar à suspensão total do acordo por decisão unânime dos membros",
+    "c": "estabilidade cambial entre as moedas dos países-membros, o que reduziria a necessidade de fiscalização nas fronteiras internas",
+    "d": "aumento expressivo de fluxos migratórios em direção ao bloco, período em que alguns países reintroduzem controles temporários",
+    "e": "queda generalizada do desemprego nos países-membros, momento em que a mão de obra estrangeira deixaria de ser necessária"
+   },
+   "resposta": "d",
+   "explicacao": "Em momentos de aumento expressivo dos fluxos migratórios — como durante a crise migratória europeia de 2015 —, o acordo de livre circulação interna foi posto à prova, com países reintroduzindo controles de fronteira temporários com base em cláusulas de exceção previstas no próprio tratado. O acordo nunca foi suspenso por decisão unânime (b); a expansão do bloco de fato gera debate entre os membros já integrantes (a); estabilidade cambial não é o fator que reduz fiscalização de fronteira, questão migratória e de segurança, não monetária (c); e queda de desemprego não é o gatilho histórico das tensões (e).",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ]
 }

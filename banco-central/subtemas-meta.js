@@ -32,6 +32,18 @@ const META = {
     descricao: "Média, mediana, dispersão, porcentagem, juros, razão e proporção. Razão é o termo mais frequente do banco inteiro de Matemática.",
     buscaVideo: ["aula porcentagem juros compostos vestibular", "média mediana desvio padrão vestibular"],
   },
+  "matematica-complexos": {
+    descricao: "Forma algébrica e trigonométrica, módulo, conjugado, potenciação e radiciação (De Moivre), lugar geométrico no plano de Argand-Gauss. Quase ausente do ENEM e das provas de Medicina/Direito, mas cobrado à parte em ITA e IME.",
+    buscaVideo: ["aula números complexos forma trigonométrica vestibular", "De Moivre potenciação radiciação vestibular"],
+  },
+  "matematica-polinomios": {
+    descricao: "Divisão, teorema do resto, relações de Girard entre coeficientes e raízes, multiplicidade e raízes racionais. O elo entre álgebra e números complexos que os vestibulares mais técnicos exploram.",
+    buscaVideo: ["aula relações de Girard polinômios vestibular", "teorema do resto raízes racionais vestibular"],
+  },
+  "matematica-logica-conjuntos": {
+    descricao: "Operações entre conjuntos, diagramas com inclusão-exclusão, proposições, tabela-verdade, negação de condicionais e quantificadores. Testa se o raciocínio é válido, não se a conta fecha.",
+    buscaVideo: ["aula lógica proposicional tabela-verdade vestibular", "operações com conjuntos diagrama de Venn vestibular"],
+  },
 
   // --------------------------------------------------------------- Biologia
   "biologia-genetica": {
@@ -113,6 +125,10 @@ const META = {
   "fisica-hidrostatica": {
     descricao: "Pressão, densidade, empuxo e fluidos em movimento. Banco pequeno, mas é assunto que a banca gosta de cruzar com fisiologia.",
     buscaVideo: ["aula hidrostática pressão empuxo vestibular", "princípio de Arquimedes Pascal vestibular"],
+  },
+  "fisica-moderna": {
+    descricao: "Relatividade restrita (dilatação do tempo, contração do comprimento, simultaneidade), efeito fotoelétrico e dualidade onda-partícula. Praticamente ausente das provas de Medicina e Direito, mas presente todo ano no ITA.",
+    buscaVideo: ["aula relatividade restrita dilatação do tempo vestibular", "efeito fotoelétrico dualidade onda-partícula vestibular"],
   },
 
   // --------------------------------------------------------------- História

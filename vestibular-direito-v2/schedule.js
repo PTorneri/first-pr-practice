@@ -265,27 +265,129 @@ function proportionalAllocate(ids, weights, total, rng, minPerItem) {
 }
 
 // Constrói a fila de temas de UM ciclo (bloco de dias entre dois simulados),
-// com exatamente totalSlots posições, distribuídas proporcionalmente aos pesos.
-// Não há piso por tema: um ciclo tem ~18 vagas para 74 subtemas, e nem todo
-// assunto precisa aparecer toda semana — isso é intencional.
+// com exatamente totalSlots posições.
 //
-// `obrigatorios` é a correção do efeito colateral disso. Com 15 frentes e 12
-// vagas, ficar de fora de um ciclo era normal e o tema voltava no seguinte. Com
-// 74 subtemas e 18 vagas, sortear cada ciclo de forma independente deixava um
-// subtema fora dos TREZE ciclos — foi o que aconteceu com geografia-geopolitica
-// no primeiro plano gerado depois da migração. Um assunto que o aluno nunca vê
-// em 90 dias é exatamente o que esta mudança existia para eliminar, então
-// buildSchedule rastreia quem ainda não apareceu e manda a lista para cá.
-function buildCycleQueue(subtopicIds, weights, totalSlots, seed, obrigatorios) {
+// A alocação é em DOIS NÍVEIS, e a razão é uma queixa concreta: no plano gerado
+// para a trilha de Direito, o primeiro subtema de História caía no dia 19 e o de
+// Biologia no dia 21, enquanto Interpretação de Texto já tinha aparecido onze
+// vezes. Somados os 90 dias a proporção estava certa (História 15 visitas,
+// Interpretação 20, que é o que os pesos mandam) — o defeito era TEMPORAL.
+//
+// A causa: sortear os 79 subtemas de forma independente a cada ciclo. Com ~18
+// vagas para 79 candidatos, quem decide é o maior resto, e uma matéria inteira
+// podia ficar de fora de três ciclos seguidos por azar — 18 dias sem ver
+// História. `obrigatorios` corrigia o caso extremo (subtema que nunca aparecia)
+// sem tocar no problema de fundo, porque distribuía os não-vistos sem olhar de
+// que matéria eram.
+//
+// Agora:
+//
+//   1. As vagas do ciclo vão para as MATÉRIAS, proporcionalmente à massa de cada
+//      uma (a soma dos pesos dos seus subtemas), com CRÉDITO ACUMULADO entre
+//      ciclos: a fração que não vira vaga inteira não se perde, fica guardada, e
+//      a matéria que ficou devendo tem prioridade no ciclo seguinte. É o que
+//      garante que nenhuma matéria suma por três semanas.
+//
+//   2. Dentro da matéria, a vaga vai para o subtema MENOS VISITADO até aqui.
+//      Isso substitui `obrigatorios`: um assunto que nunca apareceu é, por
+//      definição, o menos visitado da sua matéria, e entra na primeira vaga
+//      dela — sem precisar de uma reserva à parte.
+//
+// A massa de uma matéria é o PESO DELA na tabela da trilha, não a soma dos pesos
+// dos seus subtemas. A diferença decide o plano inteiro.
+//
+// Somar os subtemas achata justamente aquilo que o peso existe para dizer. Em
+// Economia, Matemática tem peso 10 — quatro vezes qualquer outra matéria, porque
+// vale 40% da nota nas duas escolas — mas seus 5 subtemas somam 15, o mesmo que
+// os 6 de Geografia e os 6 de Interpretação. Medido no plano, Matemática ficava
+// com 6,5% dos dias de estudo. Uma matéria passava a valer pelo número de
+// assuntos em que foi dividida, o que é uma decisão de catalogação, não de prova.
+//
+// O efeito adaptativo continua chegando: ele vem como peso por subtema, e é
+// aplicado como um FATOR sobre o peso da matéria — errar muita genética no
+// simulado ainda puxa Biologia para cima no ciclo seguinte, e ainda faz genética
+// ser o subtema escolhido dentro de Biologia.
+function buildCycleQueue(subtopicIds, weights, totalSlots, seed, estado) {
   const rng = mulberry32(seed);
-  const reservados = (obrigatorios || []).slice(0, totalSlots);
-  const counts = proportionalAllocate(
-    subtopicIds, weights, totalSlots - reservados.length, rng, 0
-  );
+  const base = window.PRIORITY_WEIGHTS || {};
+  // Cair para `base[id]`, e não para 1, quando não há override: até o primeiro
+  // simulado ser respondido `weights` é nulo, e um piso de 1 fazia o fator
+  // adaptativo virar 1/peso — invertendo a prioridade, porque matéria leve
+  // ganhava fator alto. Era o que empatava treze matérias em 6,1% dos dias.
+  const peso = (id) => Math.max(0.0001, (weights && weights[id]) || base[id] || 1);
 
-  const items = reservados.slice();
-  subtopicIds.forEach((id, i) => {
-    for (let n = 0; n < counts[i]; n++) items.push(id);
+  const frentePorSub = {};
+  (window.SUBTOPICS || []).forEach((s) => (frentePorSub[s.id] = s.frenteId || s.id));
+  const subsPorFrente = {};
+  subtopicIds.forEach((id) => {
+    const f = frentePorSub[id] || id;
+    (subsPorFrente[f] = subsPorFrente[f] || []).push(id);
+  });
+  const frentes = Object.keys(subsPorFrente);
+
+  // 1. Vagas por matéria, com o crédito que sobrou dos ciclos anteriores.
+  const credito = estado.creditoFrente;
+  const massa = {};
+  frentes.forEach((f) => {
+    const pesoDaMateria = Math.max(0.0001, base[f] || 1);
+    // Quanto o simulado mexeu nos subtemas desta matéria, em média. Sem
+    // simulado respondido, `weights` é o próprio PRIORITY_WEIGHTS e isso dá 1.
+    const subs = subsPorFrente[f];
+    const fator = subs.reduce((s, id) => {
+      return s + peso(id) / Math.max(0.0001, base[id] || 1);
+    }, 0) / subs.length;
+    massa[f] = pesoDaMateria * fator;
+    if (credito[f] === undefined) credito[f] = 0;
+  });
+  // Piso de cobertura: nenhuma matéria pode receber, ao longo do plano inteiro,
+  // menos vagas do que tem assuntos — senão sobra assunto que o aluno nunca vê.
+  // Artes em Economia é o caso limite: peso 0,5 lhe dá 1,4% dos dias, que em 231
+  // vagas são 3, e ela tem 5 subtemas. Dois ficavam de fora dos 90 dias.
+  //
+  // O piso sobe Artes para ~2,2% e é o único ponto em que a distribuição se
+  // afasta de propósito do peso da prova. Vale a troca: uma matéria 0,8 ponto
+  // percentual acima do alvo custa menos que um assunto nunca estudado.
+  let massaTotal = frentes.reduce((s, f) => s + massa[f], 0);
+  const slotsDoPlano = estado.totalSlotsPlano || 0;
+  if (slotsDoPlano > 0) {
+    frentes.forEach((f) => {
+      const minima = (subsPorFrente[f].length / slotsDoPlano) * massaTotal;
+      if (massa[f] < minima) massa[f] = minima;
+    });
+    massaTotal = frentes.reduce((s, f) => s + massa[f], 0);
+  }
+  frentes.forEach((f) => { credito[f] += (massa[f] / massaTotal) * totalSlots; });
+
+  const vagas = {};
+  frentes.forEach((f) => (vagas[f] = 0));
+  for (let s = 0; s < totalSlots; s++) {
+    let alvo = null;
+    let melhor = -Infinity;
+    frentes.forEach((f) => {
+      // O jitter só desempata; é pequeno demais para inverter créditos reais.
+      const v = credito[f] + rng() * 1e-6;
+      if (v > melhor) { melhor = v; alvo = f; }
+    });
+    vagas[alvo]++;
+    credito[alvo] -= 1;
+  }
+
+  // 2. Dentro da matéria, o subtema menos visitado leva a vaga.
+  const visitas = estado.visitCounter;
+  const usadoNoCiclo = {};
+  const items = [];
+  frentes.forEach((f) => {
+    for (let n = 0; n < vagas[f]; n++) {
+      const candidatos = subsPorFrente[f].slice().sort((a, b) => {
+        const va = (visitas[a] || 0) + (usadoNoCiclo[a] || 0);
+        const vb = (visitas[b] || 0) + (usadoNoCiclo[b] || 0);
+        if (va !== vb) return va - vb;
+        return peso(b) - peso(a); // empatados em visitas, o mais pesado primeiro
+      });
+      const escolhido = candidatos[0];
+      usadoNoCiclo[escolhido] = (usadoNoCiclo[escolhido] || 0) + 1;
+      items.push(escolhido);
+    }
   });
 
   let queue = seededShuffle(items, rng);
@@ -371,6 +473,12 @@ function buildSchedule(startISO, cycleWeightsOverride) {
   subtopicIds.forEach((id) => (visitCounter[id] = 0));
   const offsetCounter = {};
   subtopicIds.forEach((id) => (offsetCounter[id] = 0));
+  const estado = {
+    creditoFrente: {},
+    visitCounter: visitCounter,
+    // Todas as vagas do plano, para o piso de cobertura por matéria.
+    totalSlotsPlano: normalDays.length * TOPICS_PER_DAY,
+  };
 
   const plan = [];
   cycles.forEach((daysInCycle, idx) => {
@@ -378,16 +486,11 @@ function buildSchedule(startISO, cycleWeightsOverride) {
     const weights = cycleWeightsOverride && cycleWeightsOverride[idx];
     const totalSlots = daysInCycle.length * TOPICS_PER_DAY;
 
-    // Cobertura garantida: quem ainda não apareceu tem vaga reservada, dividido
-    // pelos ciclos que restam para não empilhar tudo no último. Os de peso maior
-    // entram primeiro, de modo que a reserva não inverta a prioridade da trilha.
-    const ciclosRestantes = cycles.length - idx;
-    const naoVistos = subtopicIds
-      .filter((id) => visitCounter[id] === 0)
-      .sort((a, b) => ((weights && weights[b]) || 1) - ((weights && weights[a]) || 1));
-    const obrigatorios = naoVistos.slice(0, Math.ceil(naoVistos.length / ciclosRestantes));
-
-    const queue = buildCycleQueue(subtopicIds, weights, totalSlots, SCHEDULE_SEED + idx, obrigatorios);
+    // `estado` atravessa os ciclos: o crédito guarda a fração de vaga que cada
+    // matéria não conseguiu usar, e o contador de visitas diz qual subtema de
+    // cada matéria está mais atrasado. Sem ele, cada ciclo sorteava do zero e
+    // uma matéria inteira podia sumir por três semanas.
+    const queue = buildCycleQueue(subtopicIds, weights, totalSlots, SCHEDULE_SEED + idx, estado);
 
     daysInCycle.forEach((day, dayIdx) => {
       const slice = queue.slice(dayIdx * TOPICS_PER_DAY, (dayIdx + 1) * TOPICS_PER_DAY);

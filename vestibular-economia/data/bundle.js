@@ -50491,6 +50491,193 @@ window.QUESTION_BANKS = {
    "explicacao": "A floresta tropical funciona como uma \"bomba de umidade\" que gera chuva por evapotranspiração; seu desmatamento reduz esse processo e, consequentemente, diminui a disponibilidade de água na região e em áreas distantes que dependem dos rios voadores.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-220",
+   "texto_apoio": "Em regiões de floresta tropical densa, parte significativa da chuva não vem de umidade trazida do oceano, mas da própria transpiração das árvores, num processo chamado de reciclagem de vapor.",
+   "enunciado": "A remoção em larga escala dessa cobertura tende a:",
+   "alternativas": {
+    "a": "reduzir o volume de chuvas na própria região e em áreas distantes que dependem desses fluxos de vapor",
+    "b": "aumentar as chuvas locais, já que a superfície exposta retém mais calor e intensifica a evaporação direta da água",
+    "c": "não alterar o regime de chuvas, porque a umidade que forma nuvens vem quase exclusivamente do oceano",
+    "d": "inverter por completo o regime de chuvas das regiões vizinhas, sem qualquer relação com a estação do ano",
+    "e": "concentrar as chuvas apenas sobre a própria área desmatada, sem qualquer efeito sobre regiões distantes"
+   },
+   "resposta": "a",
+   "explicacao": "Uma fração relevante da chuva em florestas tropicais densas vem da própria transpiração das árvores, que forma os chamados 'rios voadores'. Remover a cobertura reduz esse fluxo de vapor e afeta o regime de chuvas dentro e fora da área desmatada. A alternativa (c) erra ao ignorar a reciclagem interna de vapor, e (e) erra ao restringir o efeito só à área desmatada, quando o transporte de umidade alcança regiões distantes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-221",
+   "texto_apoio": "O Acordo de Paris, firmado em 2015, não fixa metas globais únicas de redução de emissões; em vez disso, cada país que assina o acordo apresenta suas próprias metas, revisadas periodicamente.",
+   "enunciado": "Essas metas nacionais apresentadas por cada país são conhecidas pela sigla:",
+   "alternativas": {
+    "a": "IPCC",
+    "b": "ODS",
+    "c": "COP",
+    "d": "NDC",
+    "e": "PIB"
+   },
+   "resposta": "d",
+   "explicacao": "NDC (Contribuição Nacionalmente Determinada, na sigla em inglês) é o nome dado às metas que cada país define e apresenta sob o Acordo de Paris. IPCC é o painel científico da ONU que reúne evidências sobre o clima global; ODS são os Objetivos de Desenvolvimento Sustentável, de outro acordo; COP é a conferência anual onde as metas são discutidas, não o nome delas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-222",
+   "texto_apoio": "No modelo econômico tradicional, um produto é fabricado, usado e descartado ao fim da vida útil. Um modelo alternativo busca manter materiais e componentes em uso pelo maior tempo possível.",
+   "enunciado": "Esse modelo alternativo, baseado em reaproveitamento, reparo e reciclagem contínua de materiais, é chamado de:",
+   "alternativas": {
+    "a": "economia informal",
+    "b": "economia de escala",
+    "c": "economia circular",
+    "d": "economia solidária",
+    "e": "economia verde"
+   },
+   "resposta": "c",
+   "explicacao": "Economia circular é o termo específico para o modelo que busca eliminar o descarte, mantendo materiais em ciclos de reuso e reciclagem em vez de seguir a lógica linear de extrair, produzir e descartar. Os demais termos descrevem outros conceitos: economia de escala é sobre custo de produção, economia solidária é sobre cooperativismo, e economia verde é um termo mais amplo que não define especificamente esse modelo de ciclo de materiais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-223",
+   "texto_apoio": "Em 2015, a ONU aprovou uma agenda com 17 objetivos e 169 metas voltados a erradicar a pobreza, proteger o planeta e garantir prosperidade até 2030.",
+   "enunciado": "Um traço que diferencia essa agenda de acordos ambientais anteriores é:",
+   "alternativas": {
+    "a": "tratar exclusivamente de questões ambientais, sem qualquer menção a temas sociais ou econômicos",
+    "b": "integrar metas ambientais, sociais e econômicas num único conjunto de objetivos interligados",
+    "c": "aplicar-se apenas aos países de renda baixa, dispensando qualquer compromisso dos países ricos",
+    "d": "substituir formalmente o Acordo de Paris, que teria perdido validade com a nova agenda",
+    "e": "limitar-se a recomendações de caráter voluntário, sem meta numérica alguma associada a cada objetivo"
+   },
+   "resposta": "b",
+   "explicacao": "Os Objetivos de Desenvolvimento Sustentável se distinguem por tratar pobreza, desigualdade, clima, áreas urbanas e biodiversidade como problemas interligados, com metas que se reforçam ou competem entre si. A agenda vale para todos os países, ricos e pobres (c), coexiste com o Acordo de Paris em vez de substituí-lo (d), e cada objetivo tem metas numéricas associadas (e).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-224",
+   "texto_apoio": "Diante do volume crescente de resíduos gerados nas áreas urbanas, especialistas em gestão ambiental e sustentabilidade costumam ordenar as estratégias de resposta numa hierarquia de prioridade.",
+   "enunciado": "Nessa hierarquia, a estratégia normalmente colocada acima da reciclagem é:",
+   "alternativas": {
+    "a": "a incineração com recuperação de energia, colocada no topo por transformar resíduo em eletricidade",
+    "b": "o aterro controlado, priorizado por isolar o resíduo do ambiente e da água subterrânea",
+    "c": "a redução na origem, isto é, gerar menos resíduo desde o início do processo produtivo",
+    "d": "o descarte a céu aberto em local afastado da área urbana, para reduzir o custo do transporte",
+    "e": "a exportação do resíduo para países que aceitem processá-lo por um custo menor"
+   },
+   "resposta": "c",
+   "explicacao": "A hierarquia mais aceita na gestão de resíduos coloca a redução na origem acima do reuso, e o reuso acima da reciclagem — evitar gerar o resíduo é sempre preferível a tratá-lo depois de gerado. Incineração e aterro (a, b) ficam abaixo da reciclagem nessa hierarquia, não acima; descarte a céu aberto e exportação de resíduo (d, e) não são estratégias recomendadas por nenhuma hierarquia de gestão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-225",
+   "texto_apoio": "O conjunto de serviços de abastecimento de água, coleta e tratamento de esgoto, drenagem urbana e manejo de resíduos sólidos define o que se entende por esse tipo de infraestrutura.",
+   "enunciado": "Esse conjunto de serviços é conhecido como:",
+   "alternativas": {
+    "a": "mobilidade urbana",
+    "b": "planejamento urbano",
+    "c": "infraestrutura verde",
+    "d": "saneamento básico",
+    "e": "zoneamento ambiental"
+   },
+   "resposta": "d",
+   "explicacao": "Saneamento básico é definido justamente pelos quatro componentes citados: água, esgoto, drenagem e resíduos sólidos. Mobilidade urbana trata de deslocamento de pessoas; planejamento e zoneamento tratam da ocupação e do uso do espaço; infraestrutura verde é um termo distinto, ligado a parques e áreas verdes urbanas. O déficit desses serviços costuma agravar episódios de crise hídrica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-226",
+   "texto_apoio": "Diversas regiões metropolitanas brasileiras já enfrentaram episódios de crise hídrica e racionamento de água em seus reservatórios, mesmo em áreas historicamente chuvosas.",
+   "enunciado": "Entre os fatores que costumam ser apontados para explicar esses episódios está:",
+   "alternativas": {
+    "a": "a impermeabilização extensa da superfície urbana, que reduz a infiltração e a recarga dos reservatórios subterrâneos",
+    "b": "o excesso de área vegetada nas bacias que abastecem as represas dessas regiões metropolitanas",
+    "c": "a redução constante do consumo per capita de água ao longo das últimas décadas, tendência observada na maior parte do país",
+    "d": "a ausência completa de qualquer estação seca ao longo do ano nas regiões afetadas pela crise",
+    "e": "o excesso de chuvas acumuladas nos anos anteriores ao início de cada episódio de racionamento"
+   },
+   "resposta": "a",
+   "explicacao": "A impermeabilização da superfície urbana — asfalto, concreto, edificações — reduz a infiltração da água da chuva e a recarga das reservas de água subterrânea e das represas que abastecem a área, um fator recorrente nas análises desses episódios. Área vegetada em excesso favorece a infiltração, não a prejudica (b); o consumo per capita não caiu de forma constante (c); e episódios de estiagem, não ausência total de seca ou excesso prévio de chuva, costumam anteceder essas crises (d, e).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-227",
+   "texto_apoio": "O Sistema Nacional de Unidades de Conservação divide as áreas protegidas em dois grandes grupos, que se diferenciam pelo grau de uso humano direto permitido dentro delas.",
+   "enunciado": "Esses dois grupos, que classificam cada unidade de conservação brasileira, são conhecidos como:",
+   "alternativas": {
+    "a": "áreas rurais e áreas urbanas, divididas conforme a densidade de ocupação humana no entorno",
+    "b": "reservas federais e reservas estaduais, divididas conforme o ente público responsável pela gestão",
+    "c": "unidades de proteção integral e unidades de uso sustentável, divididas pelo grau de uso permitido",
+    "d": "parques nacionais e parques estaduais, divididos exclusivamente pela esfera de governo criadora",
+    "e": "zonas de amortecimento e zonas núcleo, divididas pela distância até o centro da unidade"
+   },
+   "resposta": "c",
+   "explicacao": "A divisão central do Sistema Nacional de Unidades de Conservação é entre proteção integral, que restringe o uso direto dos recursos naturais, e uso sustentável, que permite exploração controlada por comunidades locais. As demais opções descrevem outras classificações reais (esfera de governo, localização), mas não a divisão pedida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-228",
+   "texto_apoio": "Antes de autorizar a instalação de um empreendimento com potencial de impacto significativo, o órgão ambiental competente costuma exigir, no processo de licenciamento ambiental, um estudo detalhado dos efeitos previstos sobre o meio físico, biótico e socioeconômico.",
+   "enunciado": "Esse instrumento de avaliação prévia é conhecido pela sigla:",
+   "alternativas": {
+    "a": "PIB",
+    "b": "IDH",
+    "c": "ODS",
+    "d": "NDC",
+    "e": "EIA"
+   },
+   "resposta": "e",
+   "explicacao": "EIA (Estudo de Impacto Ambiental), acompanhado do RIMA, seu documento complementar, é o instrumento técnico exigido no processo de licenciamento de empreendimentos com potencial impacto significativo. As demais siglas nomeiam indicadores e instrumentos de outras áreas: PIB e IDH são indicadores econômicos e sociais, ODS são metas da ONU, NDC são as metas de redução de emissões do Acordo de Paris.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-229",
+   "texto_apoio": "O Código Florestal brasileiro distingue duas categorias de proteção dentro de uma propriedade rural: uma abrange faixas junto a cursos d'água, encostas íngremes e topos de morro; a outra é um percentual mínimo da propriedade que deve permanecer com cobertura nativa.",
+   "enunciado": "Essas duas categorias são conhecidas, respectivamente, como:",
+   "alternativas": {
+    "a": "unidade de conservação e zona de amortecimento",
+    "b": "área de preservação permanente e reserva legal",
+    "c": "terra indígena e assentamento rural",
+    "d": "zona rural e zona de expansão urbana",
+    "e": "faixa de amortecimento e trilha ecológica"
+   },
+   "resposta": "b",
+   "explicacao": "Área de Preservação Permanente (APP) protege faixas específicas, como margens de rios e topos de morro, por sua fragilidade; Reserva Legal exige que um percentual da propriedade rural mantenha cobertura nativa, variável conforme a região do país. As demais opções nomeiam categorias reais de outras políticas, mas não essa distinção específica da legislação florestal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-230",
+   "texto_apoio": "Determinados gases presentes naturalmente na atmosfera retêm parte da radiação solar refletida pela superfície terrestre, mantendo o planeta numa faixa de temperatura compatível com a vida.",
+   "enunciado": "O aumento acelerado da concentração desses gases, de origem majoritariamente humana desde meados do século 18, quando a queima de combustíveis fósseis se intensificou, tem como principal consequência:",
+   "alternativas": {
+    "a": "a intensificação do efeito estufa natural, elevando a temperatura média do planeta acima do padrão histórico",
+    "b": "o enfraquecimento completo do efeito estufa, o que reduziria a temperatura média da superfície terrestre",
+    "c": "a formação do buraco na camada de ozônio, fenômeno causado por um grupo bastante distinto de substâncias químicas",
+    "d": "a estabilização definitiva do clima global, encerrando qualquer variação futura de temperatura no planeta",
+    "e": "a redução do nível médio dos oceanos, causada pelo resfriamento das águas em profundidade"
+   },
+   "resposta": "a",
+   "explicacao": "O efeito estufa é um fenômeno natural essencial à vida; o problema é sua intensificação pelo excesso de gases emitidos desde meados do século 18, o que eleva a temperatura média acima da faixa histórica. O buraco na camada de ozônio (c) tem causa distinta, ligada a outro grupo de substâncias; e o aumento do nível do mar, não sua redução, é a consequência associada ao aquecimento (e).",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "geografia-cartografia": [

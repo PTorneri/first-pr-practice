@@ -1737,14 +1737,14 @@
    "texto_apoio": "Uma pessoa de tipo sanguíneo O, Rh negativo, precisa receber transfusão de urgência. O banco de sangue dispõe de bolsas dos tipos A positivo, B negativo, AB positivo e O negativo.",
    "enunciado": "A única bolsa compatível e a razão da incompatibilidade das demais são:",
    "alternativas": {
-    "a": "AB positivo, porque esse tipo é considerado doador universal por não apresentar anticorpos anti-A nem anti-B circulando em seu plasma sanguíneo",
+    "a": "AB positivo, porque o receptor tipo O não possui antígenos A nem B em suas próprias hemácias, e a incompatibilidade dependeria apenas dos antígenos presentes no sangue de quem recebe a transfusão",
     "b": "A positivo, porque o receptor de tipo O não produz aglutininas capazes de reagir contra o aglutinogênio A presente nas hemácias doadas",
     "c": "B negativo, porque a ausência do fator Rh compensa a diferença de aglutinogênios entre o doador e o receptor da transfusão",
     "d": "qualquer uma das quatro, desde que a transfusão seja feita lentamente e sob observação clínica para detectar reações precoces",
     "e": "O negativo, porque o receptor tem anticorpos anti-A e anti-B e não possui anticorpos anti-Rh formados, mas pode desenvolvê-los"
    },
    "resposta": "e",
-   "explicacao": "O receptor de tipo O produz aglutininas anti-A e anti-B, o que exclui doadores A, B e AB. Sendo Rh negativo, ele também não pode receber hemácias Rh positivas, sob risco de sensibilização. Resta O negativo — o doador universal, e não AB, que é o receptor universal, como (a) inverte.",
+   "explicacao": "O receptor de tipo O produz aglutininas anti-A e anti-B, o que exclui doadores A, B e AB. Sendo Rh negativo, ele também não pode receber hemácias Rh positivas, sob risco de sensibilização. Resta O negativo — o doador universal. A alternativa (a) comete o erro inverso: atribui a incompatibilidade apenas aos antígenos das hemácias do receptor, esquecendo que quem ataca o sangue doado são as aglutininas do plasma do receptor — no tipo O, os anticorpos anti-A e anti-B, presentes mesmo sem antígenos correspondentes nas próprias hemácias.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -2536,11 +2536,11 @@
     "a": "repressor – o operador – controle negativo, induzido pelo substrato da via metabólica regulada",
     "b": "indutor – o promotor – controle positivo, reprimido pelo produto final da via",
     "c": "polimerase – o operador – controle negativo, reprimido pelo produto final",
-    "d": "repressor – o promotor – controle positivo, induzido pelo substrato da via metabólica regulada por aquele conjunto de genes",
+    "d": "repressor – o operador – controle negativo, reprimido pelo produto final da via metabólica regulada por aquele conjunto de genes",
     "e": "ativador – o terminador – controle negativo, induzido pela concentração de glicose disponível no meio de cultura da bactéria"
    },
    "resposta": "a",
-   "explicacao": "A proteína repressora liga-se ao operador e bloqueia o avanço da RNA polimerase. A lactose inativa o repressor e libera a transcrição: o controle é negativo, porque a regulação se dá por bloqueio, e é induzido, porque o substrato da via é quem desencadeia a expressão. Promotor é onde a polimerase se liga, e não o repressor.",
+   "explicacao": "A proteína repressora liga-se ao operador e bloqueia o avanço da RNA polimerase. A lactose inativa o repressor e libera a transcrição: o controle é negativo, porque a regulação se dá por bloqueio, e é induzido pelo substrato, porque é a chegada da lactose — o próprio substrato da via — que desencadeia a expressão. A alternativa (d) troca essa lógica pela de um operon reprimível como o do triptofano, em que é o acúmulo do produto final da via, e não a chegada do substrato, que desliga os genes; lac e trp têm o mesmo tipo de controle (negativo), mas por gatilhos opostos. Promotor é onde a polimerase se liga, e não o repressor.",
    "formato": "lacunas",
    "banca": "einstein",
    "origem": "medicina"
@@ -4041,12 +4041,12 @@
    "alternativas": {
     "a": "Predação — Formação das marés vermelhas e desoxigenação das águas oceânicas.",
     "b": "Mutualismo — Perda de habitat para diversas espécies marinhas, assim como diminuição de suas fontes de proteção e alimento.",
-    "c": "Colônia — Aumento de habitats e nichos ecológicos para espécies que passam a viver no local antes ocupado pelos corais.",
+    "c": "Colônia — Redução da diversidade genética das próprias colônias de coral, sem impacto relevante sobre as demais espécies do recife",
     "d": "Competição — Invasão biológica por espécies que ocupam o nicho deixado vago pelos corais.",
     "e": "Comensalismo — Enriquecimento das águas oceânicas por cálcio e nitrogênio, favorecendo o desenvolvimento de algas marinhas."
    },
    "resposta": "b",
-   "explicacao": "A relação é de mutualismo, já que ambos os organismos se beneficiam (as algas recebem proteção e nutrientes, e o coral recebe carboidratos). Com a morte das algas e dos corais, desaparece o abrigo e a fonte de alimento de diversas espécies marinhas que dependiam do recife.",
+   "explicacao": "A relação é de mutualismo, já que ambos os organismos se beneficiam (as algas recebem proteção e nutrientes, e o coral recebe carboidratos). Com a morte das algas e dos corais, desaparece o abrigo e a fonte de alimento de diversas espécies marinhas que dependiam do recife. A alternativa (c) também erra o termo da relação — corais formam colônias entre si, mas a relação com as algas é entre duas espécies distintas, o que já descarta \"colônia\" — e ainda desloca o impacto da morte do recife para dentro da própria população de corais, ignorando que é todo o ecossistema associado ao recife que perde abrigo e alimento.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -4069,14 +4069,14 @@
    "id": "med-biologia-238",
    "enunciado": "Dentre os animais invertebrados, alguns grupos apresentam o sistema circulatório fechado, enquanto outros apresentam o sistema circulatório aberto, o que leva a diferenças em processos fisiológicos.\n\nNos invertebrados, o sistema circulatório",
    "alternativas": {
-    "a": "fechado apresenta uma menor pressão do sangue/hemolinfa em relação ao sistema circulatório aberto.",
+    "a": "fechado é uma característica exclusiva dos vertebrados, o que explicaria sua maior eficiência no transporte de oxigênio em relação aos demais grupos de invertebrados",
     "b": "aberto apresenta o coração dividido em quatro cavidades: dois átrios e dois ventrículos.",
     "c": "fechado permite maior eficiência no transporte de oxigênio em relação ao sistema circulatório aberto.",
     "d": "aberto facilita a distribuição dos nutrientes aos tecidos em relação ao sistema circulatório fechado.",
     "e": "fechado mistura mais facilmente os gases respiratórios: oxigênio e dióxido de carbono."
    },
    "resposta": "c",
-   "explicacao": "No sistema circulatório fechado, o sangue permanece confinado a vasos, o que permite maior pressão e direcionamento do fluxo, tornando o transporte de oxigênio mais eficiente do que no sistema aberto, em que a hemolinfa banha diretamente os tecidos com menor controle de fluxo.",
+   "explicacao": "No sistema circulatório fechado, o sangue permanece confinado a vasos, o que permite maior pressão e direcionamento do fluxo, tornando o transporte de oxigênio mais eficiente do que no sistema aberto, em que a hemolinfa banha diretamente os tecidos com menor controle de fluxo. A alternativa (a) acerta a consequência mas erra a causa: sistema fechado não é exclusividade de vertebrados — anelídeos e cefalópodes, que são invertebrados, também o possuem. A eficiência vem da confinação do sangue a vasos, não do grupo taxonômico do animal.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -4163,10 +4163,10 @@
     "b": "a diminuição da concentração de solutos na célula estomática.",
     "c": "o aumento da umidade relativa do ar ao longo do dia.",
     "d": "a intensificação da concentração de água no solo em que a planta se encontra.",
-    "e": "o aumento do nível de turgescência (turgor) da célula estomática."
+    "e": "o fechamento do estômato causado pela perda de água das células-guarda por evaporação direta durante o período de maior insolação do dia"
    },
    "resposta": "b",
-   "explicacao": "A seta Z representa a transição do estômato aberto para o fechado, causada pela diminuição da concentração de solutos nas células-guarda: com menos solutos, a célula perde água por osmose, reduz sua turgescência e o estômato se fecha.",
+   "explicacao": "A seta Z representa a transição do estômato aberto para o fechado, causada pela diminuição da concentração de solutos nas células-guarda: com menos solutos, a célula perde água por osmose, reduz sua turgescência e o estômato se fecha. A alternativa (e) confunde esse mecanismo ativo com uma simples desidratação passiva por evaporação direta — o fechamento estomático é uma resposta regulada por transporte de íons e osmose, não uma consequência automática do calor do dia.",
    "formato": "direta",
    "origem": "medicina"
   },

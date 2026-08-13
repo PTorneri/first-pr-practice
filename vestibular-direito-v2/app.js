@@ -837,7 +837,7 @@
       tasks.push({ label: "Simulado misto", done: isDayExerciseComplete(day) });
     } else {
       const seenTheory = loadJSON(LS_THEORY_SEEN, {});
-      const theoryDone = content.lessons.every((l) => !window.THEORY || !window.THEORY[l.subtopicId] || seenTheory[l.subtopicId]);
+      const theoryDone = content.lessons.every((l) => !temTeoria(l.subtopicId) || seenTheory[theoryKey(l.subtopicId)]);
       tasks.push({ label: "Teoria (gatilhos, pegadinhas e exemplos)", done: theoryDone });
       tasks.push({ label: "Questões essenciais", done: isDayExerciseComplete(day) });
       const dstatus = getDissertStatus()[day];
@@ -1064,7 +1064,7 @@
       </div>
       <div class="foco-acoes">
         <button class="btn ${promovida ? "btn-ouro" : "btn-sobre-navy"}" data-foco-rolar>${escapeHtml(rotuloBotao)}</button>
-        ${window.THEORY && window.THEORY[lesson.subtopicId]
+        ${temTeoria(lesson.subtopicId)
           ? '<button class="btn btn-sobre-navy" data-foco-teoria>Ver teoria antes</button>' : ""}
       </div>
       ${aulaHtml}`;
@@ -1915,8 +1915,9 @@
       if (content) {
         content.hidden = false; // já abre expandido, é o ponto do SOS
         const seenState = loadJSON(LS_THEORY_SEEN, {});
-        if (!seenState[subtopicId]) {
-          seenState[subtopicId] = true;
+        const chaveTeoria = theoryKey(subtopicId);
+        if (!seenState[chaveTeoria]) {
+          seenState[chaveTeoria] = true;
           saveJSON(LS_THEORY_SEEN, seenState);
         }
       }
@@ -3685,20 +3686,46 @@
     `;
   }
 
+  // A teoria é da MATÉRIA, não do subtema, e por isso é resolvida pela
+  // frente-pai. O que window.THEORY guarda é como a banca cobra Biologia
+  // inteira — o resumo, os gatilhos de enunciado, as pegadinhas —, e isso não se
+  // fatia em genética e citologia. Só o exercício e a vídeo-aula ficaram por
+  // subtema.
+  //
+  // A chave também é a da matéria porque é ela que marca "já vi": indexada por
+  // subtema, o aluno reveria a mesma teoria como nova a cada assunto novo de
+  // Biologia, três vezes por matéria ao longo do plano.
+  function theoryKey(subtopicId) {
+    const s = (window.SUBTOPICS || []).find((x) => x.id === subtopicId);
+    return (s && s.frenteId) || subtopicId;
+  }
+
+  function temTeoria(subtopicId) {
+    return !!(window.THEORY && window.THEORY[theoryKey(subtopicId)]);
+  }
+
+  // O nome da matéria mora em `area` do subtema (ver build-trilhas.js): na tela
+  // o aluno lê "Biologia · Genética e Hereditariedade".
+  function nomeDaMateria(subtopicId) {
+    const s = (window.SUBTOPICS || []).find((x) => x.id === subtopicId);
+    return (s && s.area) || "";
+  }
+
   // Achado 1 (teoria por frente): bloco colapsável com resumo + gatilhos
   // (padrão do enunciado → método de resolução) + pegadinhas comuns,
   // vindos de window.THEORY (data/theory.js). Marcar como "visto" é
   // persistido por frente (não por dia), e conta pro checklist do dia.
   //
-  // Frentes com window.THEORY[id].subtemas (hoje: as 3 de Atualidades no
-  // piloto) ganham uma camada extra específica de subtema, espelhando o
-  // mesmo índice usado por pickLessonVideo — assim a teoria do dia sempre
-  // bate com o subtema do vídeo sugerido. Quando visitNumber não é passado
-  // (sessão SOS), mostra TODOS os subtemas, não só o do dia.
+  // Matérias com window.THEORY[id].subtemas ganham uma camada extra, girada
+  // pelo número da visita. O campo existe em todas as trilhas e está vazio em
+  // todas: era o embrião de uma teoria mais fina, que o subtema de verdade
+  // tornou desnecessária para o recorte e continua útil para o aprofundamento.
+  // Quando visitNumber não é passado (sessão SOS), mostra TODOS, não só o do dia.
   function renderTheoryBlockHtml(subtopicId, visitNumber) {
-    const theory = window.THEORY && window.THEORY[subtopicId];
+    const chave = theoryKey(subtopicId);
+    const theory = window.THEORY && window.THEORY[chave];
     if (!theory) return "";
-    const seen = loadJSON(LS_THEORY_SEEN, {})[subtopicId];
+    const seen = loadJSON(LS_THEORY_SEEN, {})[chave];
     const gatilhosHtml = theory.gatilhos.map((g) => `<li>${escapeHtml(g)}</li>`).join("");
     const pegadinhasHtml = theory.pegadinhas.map((p) => `<li>${escapeHtml(p)}</li>`).join("");
 
@@ -3712,7 +3739,7 @@
 
     return `
       <div class="theory-block">
-        <button type="button" class="theory-toggle btn-link">${seen ? "✓ " : ""}Teoria: gatilhos e pegadinhas deste tema</button>
+        <button type="button" class="theory-toggle btn-link">${seen ? "✓ " : ""}Teoria: gatilhos e pegadinhas de ${escapeHtml(nomeDaMateria(subtopicId))}</button>
         <div class="theory-content" hidden>
           <p class="theory-resumo">${escapeHtml(theory.resumo)}</p>
           <div class="theory-col">
@@ -3818,8 +3845,9 @@
         theoryContent.hidden = !theoryContent.hidden;
         if (!theoryContent.hidden) {
           const seenState = loadJSON(LS_THEORY_SEEN, {});
-          if (!seenState[lesson.subtopicId]) {
-            seenState[lesson.subtopicId] = true;
+          const chaveTeoria = theoryKey(lesson.subtopicId);
+          if (!seenState[chaveTeoria]) {
+            seenState[chaveTeoria] = true;
             saveJSON(LS_THEORY_SEEN, seenState);
             theoryToggle.textContent = "✓ " + theoryToggle.textContent.replace(/^✓ /, "");
             updateDayChecklist(day);

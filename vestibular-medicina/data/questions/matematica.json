@@ -788,13 +788,13 @@
       "enunciado": "A juros simples, o rendimento incide sempre sobre ______; a juros compostos, incide sobre ______; por isso, para prazos maiores que um período e à mesma taxa, o montante composto é ______. As lacunas são preenchidas por:",
       "alternativas": {
         "a": "o saldo devedor médio – o saldo devedor final – maior apenas no primeiro período, passando a ser menor a partir do segundo mês de aplicação do capital",
-        "b": "o montante do período anterior – o capital inicial – sempre menor, uma vez que a capitalização simples acumula os rendimentos de forma progressiva ao longo do prazo",
+        "b": "o capital inicial – o montante do período anterior – sempre menor no primeiro período de aplicação, quando os regimes simples e composto ainda coincidem exatamente",
         "c": "o capital inicial – o capital inicial corrigido pela inflação – igual, já que as duas modalidades produzem o mesmo resultado quando a taxa aplicada é constante",
         "d": "o capital inicial – o montante do período anterior – sempre maior",
         "e": "o montante final – o montante inicial – imprevisível, pois depende do número de períodos e da forma como a taxa é convertida entre as diferentes unidades de tempo"
       },
       "resposta": "d",
-      "explicacao": "No regime simples a base de cálculo é fixa; no composto ela cresce a cada período, porque os juros passam a render juros. No primeiro período os dois coincidem; a partir do segundo, o composto abre vantagem, e a diferença cresce com o prazo.",
+      "explicacao": "No regime simples a base de cálculo é fixa; no composto ela cresce a cada período, porque os juros passam a render juros. No primeiro período os dois regimes coincidem exatamente — e não é o composto que fica menor nesse ponto, como propõe a alternativa (b) —; a partir do segundo período o composto abre vantagem, e a diferença cresce com o prazo.",
       "formato": "lacunas",
       "banca": "santacasa"
     },

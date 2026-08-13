@@ -61,10 +61,10 @@
     "b": "no cátodo, por redução dos íons Al3+ a alumínio metálico, o que exige três elétrons por íon e explica o alto consumo de energia",
     "c": "no ânodo, por oxidação dos íons óxido que se transformam em gás oxigênio e liberam o metal na forma de um depósito sólido",
     "d": "em solução aquosa, o que dispensaria a fusão do minério e reduziria substancialmente o consumo energético de todo o processo industrial",
-    "e": "no cátodo, por oxidação dos íons alumínio, processo que exige a presença de um agente redutor adicionado à cuba eletrolítica"
+    "e": "no cátodo, por redução dos íons Al3+ a alumínio metálico, processo que exigiria apenas um elétron por íon, como ocorre com os metais alcalinos"
    },
    "resposta": "b",
-   "explicacao": "Cátodo é o eletrodo onde ocorre redução, e o alumínio se forma quando Al3+ recebe três elétrons. A eletrólise precisa ser ígnea porque, em meio aquoso, a água seria reduzida antes do alumínio, dada a diferença de potencial. A alternativa (e) contradiz a si mesma ao associar cátodo à oxidação.",
+   "explicacao": "Cátodo é o eletrodo onde ocorre redução, e o alumínio se forma quando Al3+ recebe três elétrons — um por cada carga positiva do íon, e não apenas um, como ocorreria com um metal alcalino (Na+, por exemplo). É esse número de elétrons por íon, somado à alta energia de rede do óxido, que explica o consumo elevado de energia do processo. A eletrólise precisa ser ígnea porque, em meio aquoso, a água seria reduzida antes do alumínio, dada a diferença de potencial.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -258,12 +258,12 @@
    "alternativas": {
     "a": "endotérmico, com variação de entalpia negativa, condição em que o sistema absorve energia do ambiente e a armazena nas ligações formadas",
     "b": "endotérmico, com variação de entalpia positiva, uma vez que a quebra das ligações do metano exige fornecimento contínuo de energia ao sistema",
-    "c": "exotérmico, com variação de entalpia positiva, já que a energia é liberada na forma de calor para o ambiente durante toda a combustão",
+    "c": "exotérmico, com variação de entalpia negativa, mas de apenas 445 kJ por mol de metano, já que a equação mostra a formação de duas moléculas de água, cuja energia liberada deve ser dividida entre elas",
     "d": "exotérmico, com variação de entalpia negativa, pois os produtos têm menor conteúdo energético que os reagentes e o excedente sai como calor",
     "e": "atérmico, sem variação líquida de entalpia, pois a energia gasta para romper ligações iguala exatamente a liberada na formação das novas"
    },
    "resposta": "d",
-   "explicacao": "Liberar calor caracteriza processo exotérmico, e por convenção a variação de entalpia é negativa: os produtos têm entalpia menor que os reagentes. As alternativas (c) e (a) combinam classificação e sinal de forma incoerente, que é exatamente o erro conceitual testado pela questão.",
+   "explicacao": "Liberar calor caracteriza processo exotérmico, e por convenção a variação de entalpia é negativa: os produtos têm entalpia menor que os reagentes, no valor de −890 kJ por mol de metano queimado — o texto já fornece essa quantidade por mol de CH4, e não há necessidade nem sentido de dividi-la entre as moléculas de água formadas, como propõe a alternativa (c); o coeficiente 2 diante da água indica quantas moléculas se formam, não uma fração da energia liberada.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -653,12 +653,12 @@
    "alternativas": {
     "a": "+6 e redução de três unidades",
     "b": "+7 e redução de quatro unidades, variação compatível com a quantidade de elétrons transferidos pelos íons ferro presentes no meio reacional",
-    "c": "+3 e oxidação de três unidades, mudança que caracteriza o dicromato como agente redutor da reação descrita no enunciado apresentado",
+    "c": "+6 e redução de duas unidades, calculada a partir da diferença de carga entre os dois átomos de cromo presentes no dicromato, e não por átomo isolado",
     "d": "+6 e oxidação de três unidades, o que explica a coloração alaranjada assumida pela solução ao final do processo de transferência eletrônica",
     "e": "+12 e redução de nove unidades, valor que corresponde à soma das cargas dos dois átomos de cromo presentes no íon dicromato original"
    },
    "resposta": "a",
-   "explicacao": "No dicromato, com carga total −2 e sete oxigênios em −2 cada, os dois cromos somam +12, logo cada um está em +6. No produto o cromo aparece em +3: variação de três unidades, e como o número diminui, trata-se de redução. Agente oxidante é justamente o que se reduz, o que torna (c) e (d) incoerentes.",
+   "explicacao": "No dicromato, com carga total −2 e sete oxigênios em −2 cada, os dois cromos somam +12, logo cada um está em +6. No produto o cromo aparece em +3: a variação é de três unidades por átomo de cromo — que é a grandeza pedida —, e não uma variação global do íon dividida por dois, como propõe a alternativa (c): cada átomo de cromo, individualmente, vai de +6 a +3. Como o número diminui, trata-se de redução, e é por isso que o dicromato funciona como agente oxidante.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -2699,14 +2699,14 @@
    "texto_apoio": "Para o equilíbrio A(g) + B(g) ⇌ 2 C(g), determinaram-se experimentalmente as constantes: a 300 K, Kc = 0,10; a 400 K, Kc = 0,80; a 500 K, Kc = 2,5.",
    "enunciado": "Os dados apresentados permitem concluir que a reação direta é:",
    "alternativas": {
-    "a": "exotérmica, pois o aumento da temperatura favorece a formação dos produtos em qualquer sistema em equilíbrio",
+    "a": "exotérmica, pois a constante de equilíbrio a 500 K é maior que a 300 K, e a constante de uma reação exotérmica tende a crescer conforme a temperatura sobe",
     "b": "endotérmica, porque o aumento da temperatura desloca o equilíbrio no sentido dos produtos e eleva o valor da constante",
     "c": "exotérmica, e a variação observada na constante decorre do aumento da velocidade das moléculas com a temperatura, não de deslocamento",
     "d": "endotérmica, mas o efeito só se manifesta acima de 400 K, temperatura a partir da qual a constante passa a superar a unidade",
     "e": "atérmica, uma vez que a constante de equilíbrio de uma reação é, por definição, independente da temperatura"
    },
    "resposta": "b",
-   "explicacao": "Elevar a temperatura equivale a fornecer calor ao sistema, que responde deslocando-se no sentido capaz de absorvê-lo, o endotérmico. Como o deslocamento observado é para os produtos, indicado pelo crescimento de Kc, a reação direta é a endotérmica. A alternativa (c) troca o efeito termodinâmico pelo cinético: temperatura maior faz o equilíbrio ser atingido antes, mas isso não mudaria o valor de Kc. A temperatura é a única variável que altera a constante.",
+   "explicacao": "Elevar a temperatura equivale a fornecer calor ao sistema, que responde deslocando-se no sentido capaz de absorvê-lo, o endotérmico. Como o deslocamento observado é para os produtos, indicado pelo crescimento de Kc, a reação direta é a endotérmica. A alternativa (a) usa os mesmos dados — Kc sobe de 0,10 para 2,5 — mas inverte a conclusão: constante que cresce com a temperatura é a assinatura de reação endotérmica, não exotérmica; numa reação exotérmica, elevar a temperatura desloca o equilíbrio no sentido dos reagentes e reduz o valor de Kc, o oposto do que os dados mostram aqui. A alternativa (c) troca o efeito termodinâmico pelo cinético: temperatura maior faz o equilíbrio ser atingido antes, mas isso não mudaria o valor de Kc. A temperatura é a única variável que altera a constante.",
    "formato": "direta",
    "dificuldade": "media",
    "origem": "medicina"
@@ -3719,14 +3719,14 @@
    "id": "med-quimica-228",
    "enunciado": "Em uma aula de química, foi realizado um experimento em três etapas: na etapa 1, mediu-se a temperatura da água empregada no experimento (20 ºC, em um béquer com 100 mL de água). Na etapa 2, adicionou-se à água, sob agitação (usando um agitador magnético), 0,1 mol de cloreto de cálcio anidro (CaCl₂), uma substância empregada em produtos de uso doméstico para evitar a formação de mofo e umidade em armários — a adição foi sinalizada com um pictograma de risco. Na etapa 3, foi anotada a temperatura máxima atingida ao final do processo de dissolução do cloreto de cálcio anidro na água (35 ºC).\n\nA dissolução do cloreto de cálcio anidro em água é um processo [lacuna 1] e a sua entalpia padrão de dissolução (ΔH⁰ dissolução) é [lacuna 2].\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
    "alternativas": {
-    "a": "exotérmico – maior do que zero.",
+    "a": "endotérmico – maior do que zero, pois a energia necessária para romper a rede cristalina do CaCl₂ anidro seria sempre superior à liberada na hidratação dos íons",
     "b": "endotérmico – menor do que zero.",
     "c": "exotérmico – menor do que zero.",
     "d": "endotérmico – maior do que zero.",
     "e": "endotérmico – igual a zero."
    },
    "resposta": "c",
-   "explicacao": "A temperatura da água subiu de 20 para 35 ºC durante a dissolução do CaCl₂, evidenciando liberação de calor pela solução — um processo exotérmico, com ΔH de dissolução negativo (menor que zero).",
+   "explicacao": "A temperatura da água subiu de 20 para 35 ºC durante a dissolução do CaCl₂, evidenciando liberação de calor pela solução — um processo exotérmico, com ΔH de dissolução negativo (menor que zero). A alternativa (a) parte de uma generalização real, mas nem sempre verdadeira — a de que romper a rede cristalina sempre consome mais energia do que a liberada na hidratação dos íons —, e ignora o próprio dado experimental do enunciado: se fosse esse o caso aqui, a temperatura da água teria caído, não subido.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -3796,12 +3796,12 @@
    "alternativas": {
     "a": "pH maior que 7, ácido e base.",
     "b": "pH maior que 7, ácido e sal.",
-    "c": "pH maior que 7, sal e base.",
+    "c": "pH menor que 7, base e sal",
     "d": "pH menor que 7, sal e ácido.",
     "e": "pH menor que 7, sal e base."
    },
    "resposta": "e",
-   "explicacao": "O suco gástrico, ácido, tem pH menor que 7; o NaHCO₃ é um sal (bicarbonato de sódio) e o Al(OH)₃ é uma base, ambos usados para neutralizar o excesso de acidez.",
+   "explicacao": "O suco gástrico, ácido, tem pH menor que 7; o NaHCO₃ é um sal (bicarbonato de sódio) e o Al(OH)₃ é uma base, ambos usados para neutralizar o excesso de acidez. A alternativa (c) acerta o pH ácido do suco gástrico, mas inverte a atribuição das funções: o NaHCO₃ é o sal, formado por um cátion metálico e o ânion bicarbonato, e o Al(OH)₃, com hidroxila ligada ao metal, é a base — trocar essa ordem é confundir qual dos dois antiácidos age por reação ácido-base direta (a base) e qual atua tamponando o pH (o sal).",
    "formato": "direta",
    "origem": "medicina"
   },

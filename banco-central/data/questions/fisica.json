@@ -233,14 +233,14 @@
    "texto_apoio": "Uma pessoa com dificuldade para enxergar objetos próximos recebe a prescrição de lentes convergentes. Outra, com dificuldade para enxergar objetos distantes, recebe lentes divergentes.",
    "enunciado": "As duas condições descritas são, respectivamente, ______ e ______, e a primeira decorre de a imagem se formar ______ da retina. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "miopia – hipermetropia – antes",
+    "a": "hipermetropia – miopia – antes",
     "b": "hipermetropia – miopia – depois",
     "c": "astigmatismo – presbiopia – sobre a superfície anterior",
     "d": "hipermetropia – astigmatismo – antes",
     "e": "presbiopia – miopia – exatamente no centro"
    },
    "resposta": "b",
-   "explicacao": "Dificuldade com objetos próximos e correção convergente caracterizam hipermetropia, em que o sistema óptico é pouco convergente e a imagem se formaria depois da retina. Dificuldade com objetos distantes e correção divergente caracterizam miopia, em que a imagem se forma antes da retina.",
+   "explicacao": "Dificuldade com objetos próximos e correção convergente caracterizam hipermetropia, em que o sistema óptico é pouco convergente e a imagem se formaria depois da retina. Dificuldade com objetos distantes e correção divergente caracterizam miopia, em que a imagem se forma antes da retina. A alternativa (a) acerta as duas condições mas erra a posição da imagem: é justamente por ser pouco convergente que a hipermetropia forma a imagem depois da retina, e não antes — essa é a lacuna que a alternativa inverte.",
    "formato": "lacunas",
    "banca": "santacasa",
    "origem": "medicina"
@@ -802,13 +802,13 @@
    "enunciado": "No equilíbrio, observa-se que a coluna de óleo:",
    "alternativas": {
     "a": "tem exatamente a mesma altura da coluna de água, condição imposta pelo princípio dos vasos comunicantes em qualquer situação de equilíbrio",
-    "b": "é mais baixa que a de água acima do nível de separação, uma vez que o líquido menos denso exerce maior pressão por unidade de altura",
+    "b": "tem a mesma altura da coluna de água acima do nível de separação, pois a diferença de densidade só afetaria o equilíbrio abaixo desse nível, onde os dois líquidos se tocam diretamente",
     "c": "é mais alta que a de água acima do nível de separação, porque tem densidade menor",
     "d": "se distribui igualmente entre os dois ramos do tubo, formando camadas de espessura idêntica sobre a superfície da água em cada lado",
     "e": "afunda até o fundo do tubo e desloca a água para cima nos dois ramos, elevando os níveis de forma simétrica em toda a montagem"
    },
    "resposta": "c",
-   "explicacao": "No nível da interface, as pressões dos dois lados se igualam. Como pressão é densidade vezes gravidade vezes altura, o líquido menos denso precisa de mais altura para produzir a mesma pressão. O princípio dos vasos comunicantes só iguala níveis quando o líquido é o mesmo nos dois ramos.",
+   "explicacao": "No nível da interface, as pressões dos dois lados se igualam. Como pressão é densidade vezes gravidade vezes altura, o líquido menos denso precisa de mais altura para produzir a mesma pressão. O princípio dos vasos comunicantes só iguala níveis quando o líquido é o mesmo nos dois ramos. A alternativa (b) reconhece que a densidade importa, mas erra o ponto em que ela atua: é justamente a coluna acima do nível de separação que precisa ser mais alta no líquido menos denso para equilibrar a pressão na interface, e não uma diferença que só \"conta\" abaixo desse nível.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -1659,14 +1659,14 @@
    "texto_apoio": "Um ciclo termodinâmico é representado num diagrama de pressão por volume como um retângulo percorrido no sentido horário. O gás realiza expansão isobárica, resfriamento isovolumétrico, compressão isobárica e aquecimento isovolumétrico.",
    "enunciado": "Nesse ciclo, o trabalho líquido realizado pelo gás corresponde:",
    "alternativas": {
-    "a": "à área interna do retângulo, mas com sinal negativo, o que caracteriza um ciclo de refrigeração em vez de uma máquina térmica convencional",
+    "a": "à metade da área interna do retângulo, pois apenas as duas etapas isobáricas contribuem para o trabalho, e as isovolumétricas, por não realizarem trabalho, reduziriam esse total pela metade",
     "b": "ao perímetro do retângulo traçado no diagrama, grandeza que reúne as contribuições de cada uma das quatro etapas do ciclo termodinâmico",
     "c": "a zero, uma vez que o gás retorna ao estado inicial ao final do ciclo e todas as suas variáveis de estado recuperam os valores originais",
     "d": "à área interna do retângulo, e é positivo por o ciclo ser percorrido no sentido horário",
     "e": "à diferença entre as duas pressões envolvidas, multiplicada pela temperatura média registrada ao longo de todo o ciclo termodinâmico descrito"
    },
    "resposta": "d",
-   "explicacao": "O trabalho de cada etapa é a área sob seu trecho, e no ciclo fechado o saldo é a área interna. Percorrido no sentido horário, a expansão ocorre em pressão maior que a compressão, e o trabalho líquido é positivo: o sistema opera como máquina térmica. A energia interna, essa sim, volta ao valor inicial.",
+   "explicacao": "O trabalho de cada etapa é a área sob seu trecho, e no ciclo fechado o saldo é a área interna. Percorrido no sentido horário, a expansão ocorre em pressão maior que a compressão, e o trabalho líquido é positivo: o sistema opera como máquina térmica. A energia interna, essa sim, volta ao valor inicial. A alternativa (a) acerta que as etapas isovolumétricas não contribuem com trabalho, mas erra ao supor que isso reduz a área total à metade: a área interna do retângulo já é o resultado líquido das duas etapas isobáricas, uma positiva e outra negativa, cuja diferença é exatamente essa área — não há divisão adicional a fazer.",
    "formato": "direta",
    "origem": "medicina"
   },

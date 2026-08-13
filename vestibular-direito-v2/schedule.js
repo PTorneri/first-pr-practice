@@ -300,22 +300,31 @@ function buildCycleQueue(subtopicIds, weights, totalSlots, seed, obrigatorios) {
   (window.SUBTOPICS || []).forEach((s) => (frentePorId[s.id] = s.frenteId));
   const materia = (id) => frentePorId[id] || id;
 
+  // Conta quantas vezes uma matéria aparece no dia em que a posição `pos` cai.
+  const noDiaDe = (pos, mat) => {
+    const ini = Math.floor(pos / TOPICS_PER_DAY) * TOPICS_PER_DAY;
+    const fim = Math.min(ini + TOPICS_PER_DAY, queue.length);
+    let n = 0;
+    for (let k = ini; k < fim; k++) if (materia(queue[k]) === mat) n++;
+    return n;
+  };
+
   for (let inicio = 0; inicio < queue.length; inicio += TOPICS_PER_DAY) {
     const fim = Math.min(inicio + TOPICS_PER_DAY, queue.length);
     const noDia = new Set();
     for (let i = inicio; i < fim; i++) {
-      if (!noDia.has(materia(queue[i]))) { noDia.add(materia(queue[i])); continue; }
-      // Repetiu a matéria: procura, nos dias seguintes, alguém de matéria
-      // ausente aqui que também não crie repetição no dia de origem.
+      const mat = materia(queue[i]);
+      if (!noDia.has(mat)) { noDia.add(mat); continue; }
+
+      // Repetiu a matéria no dia. Procura, nos dias seguintes, alguém de
+      // matéria ausente aqui — e o critério é REDUZIR a concentração, não
+      // zerá-la: quando a alocação dá 5 dos 9 slots de um ciclo a Interpretação,
+      // repetir é aritmeticamente inevitável, e exigir zero fazia a troca ser
+      // recusada sempre, deixando 3+2+0 onde cabia 2+2+1.
+      const meu = noDiaDe(i, mat);
       for (let j = fim; j < queue.length; j++) {
         if (noDia.has(materia(queue[j]))) continue;
-        const inicioJ = Math.floor(j / TOPICS_PER_DAY) * TOPICS_PER_DAY;
-        const fimJ = Math.min(inicioJ + TOPICS_PER_DAY, queue.length);
-        let cabe = true;
-        for (let k = inicioJ; k < fimJ; k++) {
-          if (k !== j && materia(queue[k]) === materia(queue[i])) { cabe = false; break; }
-        }
-        if (!cabe) continue;
+        if (noDiaDe(j, mat) + 1 >= meu) continue;
         [queue[i], queue[j]] = [queue[j], queue[i]];
         break;
       }

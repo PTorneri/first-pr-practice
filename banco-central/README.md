@@ -17,8 +17,16 @@ banco-central/data/questions/<frente>.json     as questões (fonte)
         └── build-trilhas.js         →  vestibular-<trilha>/data/
                                           bundle.js
                                           subtopics.js
-                                          priority-weights.js
+                                          priority-weights.js   ← pesos.js
+                                          video-topics.js       ← data/videos.json
+                                          theory.js             ← data/teoria.json
 ```
+
+`videos.json` e `teoria.json` foram consolidados uma vez, na migração, a partir
+dos arquivos que existiam em cada trilha (`node banco-central/videos.js
+--consolidar` e `node banco-central/teoria.js --consolidar`). Os mapas que
+guiaram a consolidação ficam em `videos.js` e `teoria.js`, e é neles que se mexe
+para acrescentar uma aula ou corrigir uma teoria.
 
 Os três arquivos gerados em cada trilha são **artefato, não fonte**. Corrigir
 uma questão é mexer em `banco-central/data/questions/` e rodar o build.
@@ -51,6 +59,17 @@ A distinção decide o produto: o plano de 90 dias sorteia por **subtema**, porq
 "Biologia apareceu no calendário" nunca garantiu que genética foi estudada. Os
 dois simulados alocam por **frente**, porque um caderno real tem 15 questões de
 Biologia, não 3 de genética mais 2 de citologia.
+
+O mesmo corte vale para o que acompanha o exercício:
+
+| | granularidade | por quê |
+|---|---|---|
+| questões | subtema | é o que o aluno pratica no dia |
+| vídeo-aula | subtema | "Genética mendeliana e heredogramas", não "Biologia" |
+| teoria | **frente**, e por trilha | fala da banca: a de Biologia em Medicina cita as discursivas da Santa Casa, a de Matemática em Direito diz que ela vale 10% da prova |
+
+Por isso as questões e as aulas são compartilhadas entre as trilhas e a teoria
+não é — fundir os textos de teoria apagaria justamente o que os torna úteis.
 
 Por isso o bundle publica os dois índices — `QUESTION_BANKS` por subtema e
 `QUESTION_BANKS_FRENTE` por frente. O segundo é montado em runtime, com

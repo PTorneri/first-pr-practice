@@ -1174,10 +1174,10 @@ window.QUESTION_BANKS = {
     "b": "a diminuição da concentração de solutos na célula estomática.",
     "c": "o aumento da umidade relativa do ar ao longo do dia.",
     "d": "a intensificação da concentração de água no solo em que a planta se encontra.",
-    "e": "o aumento do nível de turgescência (turgor) da célula estomática."
+    "e": "o fechamento do estômato causado pela perda de água das células-guarda por evaporação direta durante o período de maior insolação do dia"
    },
    "resposta": "b",
-   "explicacao": "A seta Z representa a transição do estômato aberto para o fechado, causada pela diminuição da concentração de solutos nas células-guarda: com menos solutos, a célula perde água por osmose, reduz sua turgescência e o estômato se fecha.",
+   "explicacao": "A seta Z representa a transição do estômato aberto para o fechado, causada pela diminuição da concentração de solutos nas células-guarda: com menos solutos, a célula perde água por osmose, reduz sua turgescência e o estômato se fecha. A alternativa (e) confunde esse mecanismo ativo com uma simples desidratação passiva por evaporação direta — o fechamento estomático é uma resposta regulada por transporte de íons e osmose, não uma consequência automática do calor do dia.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -4384,14 +4384,14 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Uma pessoa de tipo sanguíneo O, Rh negativo, precisa receber transfusão de urgência. O banco de sangue dispõe de bolsas dos tipos A positivo, B negativo, AB positivo e O negativo.",
    "enunciado": "A única bolsa compatível e a razão da incompatibilidade das demais são:",
    "alternativas": {
-    "a": "AB positivo, porque esse tipo é considerado doador universal por não apresentar anticorpos anti-A nem anti-B circulando em seu plasma sanguíneo",
+    "a": "AB positivo, porque o receptor tipo O não possui antígenos A nem B em suas próprias hemácias, e a incompatibilidade dependeria apenas dos antígenos presentes no sangue de quem recebe a transfusão",
     "b": "A positivo, porque o receptor de tipo O não produz aglutininas capazes de reagir contra o aglutinogênio A presente nas hemácias doadas",
     "c": "B negativo, porque a ausência do fator Rh compensa a diferença de aglutinogênios entre o doador e o receptor da transfusão",
     "d": "qualquer uma das quatro, desde que a transfusão seja feita lentamente e sob observação clínica para detectar reações precoces",
     "e": "O negativo, porque o receptor tem anticorpos anti-A e anti-B e não possui anticorpos anti-Rh formados, mas pode desenvolvê-los"
    },
    "resposta": "e",
-   "explicacao": "O receptor de tipo O produz aglutininas anti-A e anti-B, o que exclui doadores A, B e AB. Sendo Rh negativo, ele também não pode receber hemácias Rh positivas, sob risco de sensibilização. Resta O negativo — o doador universal, e não AB, que é o receptor universal, como (a) inverte.",
+   "explicacao": "O receptor de tipo O produz aglutininas anti-A e anti-B, o que exclui doadores A, B e AB. Sendo Rh negativo, ele também não pode receber hemácias Rh positivas, sob risco de sensibilização. Resta O negativo — o doador universal. A alternativa (a) comete o erro inverso: atribui a incompatibilidade apenas aos antígenos das hemácias do receptor, esquecendo que quem ataca o sangue doado são as aglutininas do plasma do receptor — no tipo O, os anticorpos anti-A e anti-B, presentes mesmo sem antígenos correspondentes nas próprias hemácias.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -4655,11 +4655,11 @@ window.QUESTION_BANKS = {
     "a": "repressor – o operador – controle negativo, induzido pelo substrato da via metabólica regulada",
     "b": "indutor – o promotor – controle positivo, reprimido pelo produto final da via",
     "c": "polimerase – o operador – controle negativo, reprimido pelo produto final",
-    "d": "repressor – o promotor – controle positivo, induzido pelo substrato da via metabólica regulada por aquele conjunto de genes",
+    "d": "repressor – o operador – controle negativo, reprimido pelo produto final da via metabólica regulada por aquele conjunto de genes",
     "e": "ativador – o terminador – controle negativo, induzido pela concentração de glicose disponível no meio de cultura da bactéria"
    },
    "resposta": "a",
-   "explicacao": "A proteína repressora liga-se ao operador e bloqueia o avanço da RNA polimerase. A lactose inativa o repressor e libera a transcrição: o controle é negativo, porque a regulação se dá por bloqueio, e é induzido, porque o substrato da via é quem desencadeia a expressão. Promotor é onde a polimerase se liga, e não o repressor.",
+   "explicacao": "A proteína repressora liga-se ao operador e bloqueia o avanço da RNA polimerase. A lactose inativa o repressor e libera a transcrição: o controle é negativo, porque a regulação se dá por bloqueio, e é induzido pelo substrato, porque é a chegada da lactose — o próprio substrato da via — que desencadeia a expressão. A alternativa (d) troca essa lógica pela de um operon reprimível como o do triptofano, em que é o acúmulo do produto final da via, e não a chegada do substrato, que desliga os genes; lac e trp têm o mesmo tipo de controle (negativo), mas por gatilhos opostos. Promotor é onde a polimerase se liga, e não o repressor.",
    "formato": "lacunas",
    "banca": "einstein",
    "origem": "medicina"
@@ -5151,14 +5151,14 @@ window.QUESTION_BANKS = {
    "id": "med-biologia-238",
    "enunciado": "Dentre os animais invertebrados, alguns grupos apresentam o sistema circulatório fechado, enquanto outros apresentam o sistema circulatório aberto, o que leva a diferenças em processos fisiológicos.\n\nNos invertebrados, o sistema circulatório",
    "alternativas": {
-    "a": "fechado apresenta uma menor pressão do sangue/hemolinfa em relação ao sistema circulatório aberto.",
+    "a": "fechado é uma característica exclusiva dos vertebrados, o que explicaria sua maior eficiência no transporte de oxigênio em relação aos demais grupos de invertebrados",
     "b": "aberto apresenta o coração dividido em quatro cavidades: dois átrios e dois ventrículos.",
     "c": "fechado permite maior eficiência no transporte de oxigênio em relação ao sistema circulatório aberto.",
     "d": "aberto facilita a distribuição dos nutrientes aos tecidos em relação ao sistema circulatório fechado.",
     "e": "fechado mistura mais facilmente os gases respiratórios: oxigênio e dióxido de carbono."
    },
    "resposta": "c",
-   "explicacao": "No sistema circulatório fechado, o sangue permanece confinado a vasos, o que permite maior pressão e direcionamento do fluxo, tornando o transporte de oxigênio mais eficiente do que no sistema aberto, em que a hemolinfa banha diretamente os tecidos com menor controle de fluxo.",
+   "explicacao": "No sistema circulatório fechado, o sangue permanece confinado a vasos, o que permite maior pressão e direcionamento do fluxo, tornando o transporte de oxigênio mais eficiente do que no sistema aberto, em que a hemolinfa banha diretamente os tecidos com menor controle de fluxo. A alternativa (a) acerta a consequência mas erra a causa: sistema fechado não é exclusividade de vertebrados — anelídeos e cefalópodes, que são invertebrados, também o possuem. A eficiência vem da confinação do sangue a vasos, não do grupo taxonômico do animal.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -6553,12 +6553,12 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "Predação — Formação das marés vermelhas e desoxigenação das águas oceânicas.",
     "b": "Mutualismo — Perda de habitat para diversas espécies marinhas, assim como diminuição de suas fontes de proteção e alimento.",
-    "c": "Colônia — Aumento de habitats e nichos ecológicos para espécies que passam a viver no local antes ocupado pelos corais.",
+    "c": "Colônia — Redução da diversidade genética das próprias colônias de coral, sem impacto relevante sobre as demais espécies do recife",
     "d": "Competição — Invasão biológica por espécies que ocupam o nicho deixado vago pelos corais.",
     "e": "Comensalismo — Enriquecimento das águas oceânicas por cálcio e nitrogênio, favorecendo o desenvolvimento de algas marinhas."
    },
    "resposta": "b",
-   "explicacao": "A relação é de mutualismo, já que ambos os organismos se beneficiam (as algas recebem proteção e nutrientes, e o coral recebe carboidratos). Com a morte das algas e dos corais, desaparece o abrigo e a fonte de alimento de diversas espécies marinhas que dependiam do recife.",
+   "explicacao": "A relação é de mutualismo, já que ambos os organismos se beneficiam (as algas recebem proteção e nutrientes, e o coral recebe carboidratos). Com a morte das algas e dos corais, desaparece o abrigo e a fonte de alimento de diversas espécies marinhas que dependiam do recife. A alternativa (c) também erra o termo da relação — corais formam colônias entre si, mas a relação com as algas é entre duas espécies distintas, o que já descarta \"colônia\" — e ainda desloca o impacto da morte do recife para dentro da própria população de corais, ignorando que é todo o ecossistema associado ao recife que perde abrigo e alimento.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -7274,10 +7274,10 @@ window.QUESTION_BANKS = {
     "b": "no cátodo, por redução dos íons Al3+ a alumínio metálico, o que exige três elétrons por íon e explica o alto consumo de energia",
     "c": "no ânodo, por oxidação dos íons óxido que se transformam em gás oxigênio e liberam o metal na forma de um depósito sólido",
     "d": "em solução aquosa, o que dispensaria a fusão do minério e reduziria substancialmente o consumo energético de todo o processo industrial",
-    "e": "no cátodo, por oxidação dos íons alumínio, processo que exige a presença de um agente redutor adicionado à cuba eletrolítica"
+    "e": "no cátodo, por redução dos íons Al3+ a alumínio metálico, processo que exigiria apenas um elétron por íon, como ocorre com os metais alcalinos"
    },
    "resposta": "b",
-   "explicacao": "Cátodo é o eletrodo onde ocorre redução, e o alumínio se forma quando Al3+ recebe três elétrons. A eletrólise precisa ser ígnea porque, em meio aquoso, a água seria reduzida antes do alumínio, dada a diferença de potencial. A alternativa (e) contradiz a si mesma ao associar cátodo à oxidação.",
+   "explicacao": "Cátodo é o eletrodo onde ocorre redução, e o alumínio se forma quando Al3+ recebe três elétrons — um por cada carga positiva do íon, e não apenas um, como ocorreria com um metal alcalino (Na+, por exemplo). É esse número de elétrons por íon, somado à alta energia de rede do óxido, que explica o consumo elevado de energia do processo. A eletrólise precisa ser ígnea porque, em meio aquoso, a água seria reduzida antes do alumínio, dada a diferença de potencial.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -8907,12 +8907,12 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "+6 e redução de três unidades",
     "b": "+7 e redução de quatro unidades, variação compatível com a quantidade de elétrons transferidos pelos íons ferro presentes no meio reacional",
-    "c": "+3 e oxidação de três unidades, mudança que caracteriza o dicromato como agente redutor da reação descrita no enunciado apresentado",
+    "c": "+6 e redução de duas unidades, calculada a partir da diferença de carga entre os dois átomos de cromo presentes no dicromato, e não por átomo isolado",
     "d": "+6 e oxidação de três unidades, o que explica a coloração alaranjada assumida pela solução ao final do processo de transferência eletrônica",
     "e": "+12 e redução de nove unidades, valor que corresponde à soma das cargas dos dois átomos de cromo presentes no íon dicromato original"
    },
    "resposta": "a",
-   "explicacao": "No dicromato, com carga total −2 e sete oxigênios em −2 cada, os dois cromos somam +12, logo cada um está em +6. No produto o cromo aparece em +3: variação de três unidades, e como o número diminui, trata-se de redução. Agente oxidante é justamente o que se reduz, o que torna (c) e (d) incoerentes.",
+   "explicacao": "No dicromato, com carga total −2 e sete oxigênios em −2 cada, os dois cromos somam +12, logo cada um está em +6. No produto o cromo aparece em +3: a variação é de três unidades por átomo de cromo — que é a grandeza pedida —, e não uma variação global do íon dividida por dois, como propõe a alternativa (c): cada átomo de cromo, individualmente, vai de +6 a +3. Como o número diminui, trata-se de redução, e é por isso que o dicromato funciona como agente oxidante.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -9350,12 +9350,12 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "pH maior que 7, ácido e base.",
     "b": "pH maior que 7, ácido e sal.",
-    "c": "pH maior que 7, sal e base.",
+    "c": "pH menor que 7, base e sal",
     "d": "pH menor que 7, sal e ácido.",
     "e": "pH menor que 7, sal e base."
    },
    "resposta": "e",
-   "explicacao": "O suco gástrico, ácido, tem pH menor que 7; o NaHCO₃ é um sal (bicarbonato de sódio) e o Al(OH)₃ é uma base, ambos usados para neutralizar o excesso de acidez.",
+   "explicacao": "O suco gástrico, ácido, tem pH menor que 7; o NaHCO₃ é um sal (bicarbonato de sódio) e o Al(OH)₃ é uma base, ambos usados para neutralizar o excesso de acidez. A alternativa (c) acerta o pH ácido do suco gástrico, mas inverte a atribuição das funções: o NaHCO₃ é o sal, formado por um cátion metálico e o ânion bicarbonato, e o Al(OH)₃, com hidroxila ligada ao metal, é a base — trocar essa ordem é confundir qual dos dois antiácidos age por reação ácido-base direta (a base) e qual atua tamponando o pH (o sal).",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -10245,14 +10245,14 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Para o equilíbrio A(g) + B(g) ⇌ 2 C(g), determinaram-se experimentalmente as constantes: a 300 K, Kc = 0,10; a 400 K, Kc = 0,80; a 500 K, Kc = 2,5.",
    "enunciado": "Os dados apresentados permitem concluir que a reação direta é:",
    "alternativas": {
-    "a": "exotérmica, pois o aumento da temperatura favorece a formação dos produtos em qualquer sistema em equilíbrio",
+    "a": "exotérmica, pois a constante de equilíbrio a 500 K é maior que a 300 K, e a constante de uma reação exotérmica tende a crescer conforme a temperatura sobe",
     "b": "endotérmica, porque o aumento da temperatura desloca o equilíbrio no sentido dos produtos e eleva o valor da constante",
     "c": "exotérmica, e a variação observada na constante decorre do aumento da velocidade das moléculas com a temperatura, não de deslocamento",
     "d": "endotérmica, mas o efeito só se manifesta acima de 400 K, temperatura a partir da qual a constante passa a superar a unidade",
     "e": "atérmica, uma vez que a constante de equilíbrio de uma reação é, por definição, independente da temperatura"
    },
    "resposta": "b",
-   "explicacao": "Elevar a temperatura equivale a fornecer calor ao sistema, que responde deslocando-se no sentido capaz de absorvê-lo, o endotérmico. Como o deslocamento observado é para os produtos, indicado pelo crescimento de Kc, a reação direta é a endotérmica. A alternativa (c) troca o efeito termodinâmico pelo cinético: temperatura maior faz o equilíbrio ser atingido antes, mas isso não mudaria o valor de Kc. A temperatura é a única variável que altera a constante.",
+   "explicacao": "Elevar a temperatura equivale a fornecer calor ao sistema, que responde deslocando-se no sentido capaz de absorvê-lo, o endotérmico. Como o deslocamento observado é para os produtos, indicado pelo crescimento de Kc, a reação direta é a endotérmica. A alternativa (a) usa os mesmos dados — Kc sobe de 0,10 para 2,5 — mas inverte a conclusão: constante que cresce com a temperatura é a assinatura de reação endotérmica, não exotérmica; numa reação exotérmica, elevar a temperatura desloca o equilíbrio no sentido dos reagentes e reduz o valor de Kc, o oposto do que os dados mostram aqui. A alternativa (c) troca o efeito termodinâmico pelo cinético: temperatura maior faz o equilíbrio ser atingido antes, mas isso não mudaria o valor de Kc. A temperatura é a única variável que altera a constante.",
    "formato": "direta",
    "dificuldade": "media",
    "origem": "medicina"
@@ -10533,14 +10533,14 @@ window.QUESTION_BANKS = {
    "id": "med-quimica-228",
    "enunciado": "Em uma aula de química, foi realizado um experimento em três etapas: na etapa 1, mediu-se a temperatura da água empregada no experimento (20 ºC, em um béquer com 100 mL de água). Na etapa 2, adicionou-se à água, sob agitação (usando um agitador magnético), 0,1 mol de cloreto de cálcio anidro (CaCl₂), uma substância empregada em produtos de uso doméstico para evitar a formação de mofo e umidade em armários — a adição foi sinalizada com um pictograma de risco. Na etapa 3, foi anotada a temperatura máxima atingida ao final do processo de dissolução do cloreto de cálcio anidro na água (35 ºC).\n\nA dissolução do cloreto de cálcio anidro em água é um processo [lacuna 1] e a sua entalpia padrão de dissolução (ΔH⁰ dissolução) é [lacuna 2].\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
    "alternativas": {
-    "a": "exotérmico – maior do que zero.",
+    "a": "endotérmico – maior do que zero, pois a energia necessária para romper a rede cristalina do CaCl₂ anidro seria sempre superior à liberada na hidratação dos íons",
     "b": "endotérmico – menor do que zero.",
     "c": "exotérmico – menor do que zero.",
     "d": "endotérmico – maior do que zero.",
     "e": "endotérmico – igual a zero."
    },
    "resposta": "c",
-   "explicacao": "A temperatura da água subiu de 20 para 35 ºC durante a dissolução do CaCl₂, evidenciando liberação de calor pela solução — um processo exotérmico, com ΔH de dissolução negativo (menor que zero).",
+   "explicacao": "A temperatura da água subiu de 20 para 35 ºC durante a dissolução do CaCl₂, evidenciando liberação de calor pela solução — um processo exotérmico, com ΔH de dissolução negativo (menor que zero). A alternativa (a) parte de uma generalização real, mas nem sempre verdadeira — a de que romper a rede cristalina sempre consome mais energia do que a liberada na hidratação dos íons —, e ignora o próprio dado experimental do enunciado: se fosse esse o caso aqui, a temperatura da água teria caído, não subido.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -12579,12 +12579,12 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "endotérmico, com variação de entalpia negativa, condição em que o sistema absorve energia do ambiente e a armazena nas ligações formadas",
     "b": "endotérmico, com variação de entalpia positiva, uma vez que a quebra das ligações do metano exige fornecimento contínuo de energia ao sistema",
-    "c": "exotérmico, com variação de entalpia positiva, já que a energia é liberada na forma de calor para o ambiente durante toda a combustão",
+    "c": "exotérmico, com variação de entalpia negativa, mas de apenas 445 kJ por mol de metano, já que a equação mostra a formação de duas moléculas de água, cuja energia liberada deve ser dividida entre elas",
     "d": "exotérmico, com variação de entalpia negativa, pois os produtos têm menor conteúdo energético que os reagentes e o excedente sai como calor",
     "e": "atérmico, sem variação líquida de entalpia, pois a energia gasta para romper ligações iguala exatamente a liberada na formação das novas"
    },
    "resposta": "d",
-   "explicacao": "Liberar calor caracteriza processo exotérmico, e por convenção a variação de entalpia é negativa: os produtos têm entalpia menor que os reagentes. As alternativas (c) e (a) combinam classificação e sinal de forma incoerente, que é exatamente o erro conceitual testado pela questão.",
+   "explicacao": "Liberar calor caracteriza processo exotérmico, e por convenção a variação de entalpia é negativa: os produtos têm entalpia menor que os reagentes, no valor de −890 kJ por mol de metano queimado — o texto já fornece essa quantidade por mol de CH4, e não há necessidade nem sentido de dividi-la entre as moléculas de água formadas, como propõe a alternativa (c); o coeficiente 2 diante da água indica quantas moléculas se formam, não uma fração da energia liberada.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -13390,14 +13390,14 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Um ciclo termodinâmico é representado num diagrama de pressão por volume como um retângulo percorrido no sentido horário. O gás realiza expansão isobárica, resfriamento isovolumétrico, compressão isobárica e aquecimento isovolumétrico.",
    "enunciado": "Nesse ciclo, o trabalho líquido realizado pelo gás corresponde:",
    "alternativas": {
-    "a": "à área interna do retângulo, mas com sinal negativo, o que caracteriza um ciclo de refrigeração em vez de uma máquina térmica convencional",
+    "a": "à metade da área interna do retângulo, pois apenas as duas etapas isobáricas contribuem para o trabalho, e as isovolumétricas, por não realizarem trabalho, reduziriam esse total pela metade",
     "b": "ao perímetro do retângulo traçado no diagrama, grandeza que reúne as contribuições de cada uma das quatro etapas do ciclo termodinâmico",
     "c": "a zero, uma vez que o gás retorna ao estado inicial ao final do ciclo e todas as suas variáveis de estado recuperam os valores originais",
     "d": "à área interna do retângulo, e é positivo por o ciclo ser percorrido no sentido horário",
     "e": "à diferença entre as duas pressões envolvidas, multiplicada pela temperatura média registrada ao longo de todo o ciclo termodinâmico descrito"
    },
    "resposta": "d",
-   "explicacao": "O trabalho de cada etapa é a área sob seu trecho, e no ciclo fechado o saldo é a área interna. Percorrido no sentido horário, a expansão ocorre em pressão maior que a compressão, e o trabalho líquido é positivo: o sistema opera como máquina térmica. A energia interna, essa sim, volta ao valor inicial.",
+   "explicacao": "O trabalho de cada etapa é a área sob seu trecho, e no ciclo fechado o saldo é a área interna. Percorrido no sentido horário, a expansão ocorre em pressão maior que a compressão, e o trabalho líquido é positivo: o sistema opera como máquina térmica. A energia interna, essa sim, volta ao valor inicial. A alternativa (a) acerta que as etapas isovolumétricas não contribuem com trabalho, mas erra ao supor que isso reduz a área total à metade: a área interna do retângulo já é o resultado líquido das duas etapas isobáricas, uma positiva e outra negativa, cuja diferença é exatamente essa área — não há divisão adicional a fazer.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -16267,14 +16267,14 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Uma pessoa com dificuldade para enxergar objetos próximos recebe a prescrição de lentes convergentes. Outra, com dificuldade para enxergar objetos distantes, recebe lentes divergentes.",
    "enunciado": "As duas condições descritas são, respectivamente, ______ e ______, e a primeira decorre de a imagem se formar ______ da retina. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "miopia – hipermetropia – antes",
+    "a": "hipermetropia – miopia – antes",
     "b": "hipermetropia – miopia – depois",
     "c": "astigmatismo – presbiopia – sobre a superfície anterior",
     "d": "hipermetropia – astigmatismo – antes",
     "e": "presbiopia – miopia – exatamente no centro"
    },
    "resposta": "b",
-   "explicacao": "Dificuldade com objetos próximos e correção convergente caracterizam hipermetropia, em que o sistema óptico é pouco convergente e a imagem se formaria depois da retina. Dificuldade com objetos distantes e correção divergente caracterizam miopia, em que a imagem se forma antes da retina.",
+   "explicacao": "Dificuldade com objetos próximos e correção convergente caracterizam hipermetropia, em que o sistema óptico é pouco convergente e a imagem se formaria depois da retina. Dificuldade com objetos distantes e correção divergente caracterizam miopia, em que a imagem se forma antes da retina. A alternativa (a) acerta as duas condições mas erra a posição da imagem: é justamente por ser pouco convergente que a hipermetropia forma a imagem depois da retina, e não antes — essa é a lacuna que a alternativa inverte.",
    "formato": "lacunas",
    "banca": "santacasa",
    "origem": "medicina"
@@ -18754,13 +18754,13 @@ window.QUESTION_BANKS = {
    "enunciado": "No equilíbrio, observa-se que a coluna de óleo:",
    "alternativas": {
     "a": "tem exatamente a mesma altura da coluna de água, condição imposta pelo princípio dos vasos comunicantes em qualquer situação de equilíbrio",
-    "b": "é mais baixa que a de água acima do nível de separação, uma vez que o líquido menos denso exerce maior pressão por unidade de altura",
+    "b": "tem a mesma altura da coluna de água acima do nível de separação, pois a diferença de densidade só afetaria o equilíbrio abaixo desse nível, onde os dois líquidos se tocam diretamente",
     "c": "é mais alta que a de água acima do nível de separação, porque tem densidade menor",
     "d": "se distribui igualmente entre os dois ramos do tubo, formando camadas de espessura idêntica sobre a superfície da água em cada lado",
     "e": "afunda até o fundo do tubo e desloca a água para cima nos dois ramos, elevando os níveis de forma simétrica em toda a montagem"
    },
    "resposta": "c",
-   "explicacao": "No nível da interface, as pressões dos dois lados se igualam. Como pressão é densidade vezes gravidade vezes altura, o líquido menos denso precisa de mais altura para produzir a mesma pressão. O princípio dos vasos comunicantes só iguala níveis quando o líquido é o mesmo nos dois ramos.",
+   "explicacao": "No nível da interface, as pressões dos dois lados se igualam. Como pressão é densidade vezes gravidade vezes altura, o líquido menos denso precisa de mais altura para produzir a mesma pressão. O princípio dos vasos comunicantes só iguala níveis quando o líquido é o mesmo nos dois ramos. A alternativa (b) reconhece que a densidade importa, mas erra o ponto em que ela atua: é justamente a coluna acima do nível de separação que precisa ser mais alta no líquido menos denso para equilibrar a pressão na interface, e não uma diferença que só \"conta\" abaixo desse nível.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -24256,13 +24256,13 @@ window.QUESTION_BANKS = {
    "enunciado": "A juros simples, o rendimento incide sempre sobre ______; a juros compostos, incide sobre ______; por isso, para prazos maiores que um período e à mesma taxa, o montante composto é ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "o saldo devedor médio – o saldo devedor final – maior apenas no primeiro período, passando a ser menor a partir do segundo mês de aplicação do capital",
-    "b": "o montante do período anterior – o capital inicial – sempre menor, uma vez que a capitalização simples acumula os rendimentos de forma progressiva ao longo do prazo",
+    "b": "o capital inicial – o montante do período anterior – sempre menor no primeiro período de aplicação, quando os regimes simples e composto ainda coincidem exatamente",
     "c": "o capital inicial – o capital inicial corrigido pela inflação – igual, já que as duas modalidades produzem o mesmo resultado quando a taxa aplicada é constante",
     "d": "o capital inicial – o montante do período anterior – sempre maior",
     "e": "o montante final – o montante inicial – imprevisível, pois depende do número de períodos e da forma como a taxa é convertida entre as diferentes unidades de tempo"
    },
    "resposta": "d",
-   "explicacao": "No regime simples a base de cálculo é fixa; no composto ela cresce a cada período, porque os juros passam a render juros. No primeiro período os dois coincidem; a partir do segundo, o composto abre vantagem, e a diferença cresce com o prazo.",
+   "explicacao": "No regime simples a base de cálculo é fixa; no composto ela cresce a cada período, porque os juros passam a render juros. No primeiro período os dois regimes coincidem exatamente — e não é o composto que fica menor nesse ponto, como propõe a alternativa (b) —; a partir do segundo período o composto abre vantagem, e a diferença cresce com o prazo.",
    "formato": "lacunas",
    "banca": "santacasa",
    "origem": "medicina"
@@ -68232,13 +68232,13 @@ window.QUESTION_BANKS = {
    "enunciado": "Quando o valor total das exportações de um país supera o valor total de suas importações em determinado período, diz-se que esse país apresentou, em sua balança comercial:",
    "alternativas": {
     "a": "Um superávit comercial",
-    "b": "Um déficit comercial, já que exportar representa uma saída de mercadorias do território nacional",
+    "b": "Um superávit primário, resultado que se refere estritamente às contas do governo, e não ao comércio exterior do país como um todo",
     "c": "Um saldo positivo em transações correntes, que inclui também serviços e rendas além do comércio de bens",
     "d": "Uma balança de pagamentos necessariamente equilibrada em todas as suas contas",
     "e": "Uma recessão econômica automática, independentemente de outros indicadores da economia"
    },
    "resposta": "a",
-   "explicacao": "O superávit comercial ocorre quando o valor das exportações supera o das importações; o Brasil, grande exportador de commodities, tem registrado superávits expressivos na maior parte dos últimos anos. Déficit é o oposto do superávit, superávit comercial não implica recessão automática, e a balança comercial é apenas uma das contas da balança de pagamentos, que pode não estar equilibrada em outros componentes.",
+   "explicacao": "O superávit comercial ocorre quando o valor das exportações supera o das importações; o Brasil, grande exportador de commodities, tem registrado superávits expressivos na maior parte dos últimos anos. A alternativa (b) troca esse conceito por outro que soa parecido mas descreve coisa diferente: superávit primário é um indicador das contas do governo — receitas menos despesas, exceto os juros da dívida —, não do comércio exterior; confundir os dois é comum, mas eles medem fenômenos distintos. Superávit comercial não implica recessão automática, e a balança comercial é apenas uma das contas da balança de pagamentos, que pode não estar equilibrada em outros componentes.",
    "dificuldade": "media",
    "formato": "direta",
    "origem": "direito"
@@ -80800,14 +80800,14 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Países que adotam o euro como moeda comum abrem mão da possibilidade de conduzir sua própria política monetária nacional, que passa a ser definida por um banco central comum.",
    "enunciado": "Uma consequência dessa perda de autonomia monetária para um país-membro da zona do euro em crise econômica assimétrica em relação aos demais é:",
    "alternativas": {
-    "a": "maior facilidade para desvalorizar sua moeda isoladamente e ganhar competitividade externa",
+    "a": "maior necessidade de recorrer a transferências fiscais automáticas do banco central comum para compensar o choque assimétrico",
     "b": "controle total sobre a taxa de juros doméstica, sem influência do banco central comum",
     "c": "menor flexibilidade para usar a política monetária como instrumento de ajuste diante de choques específicos",
     "d": "obrigação de manter superávit primário permanente, imposta como contrapartida à adesão à moeda comum",
     "e": "imunidade automática a crises fiscais, independentemente da situação orçamentária do país"
    },
    "resposta": "c",
-   "explicacao": "Ao integrar uma união monetária, um país perde a capacidade de definir sua própria taxa de juros ou desvalorizar sua moeda para responder a choques econômicos específicos, o que pode dificultar o ajuste em crises assimétricas dentro do bloco.",
+   "explicacao": "Ao integrar uma união monetária, um país perde a capacidade de definir sua própria taxa de juros ou desvalorizar sua moeda para responder a choques econômicos específicos, o que pode dificultar o ajuste em crises assimétricas dentro do bloco. A alternativa (a) aponta corretamente que falta um mecanismo automático de compensação, mas erra ao supor que ele existe na forma de transferências fiscais automáticas do banco central comum — a zona do euro é conhecida exatamente pela ausência desse tipo de mecanismo fiscal centralizado, apontada como uma das fragilidades estruturais do bloco.",
    "formato": "direta",
    "origem": "direito",
    "frenteOrigem": "atualidades-geopolitica"
@@ -84373,12 +84373,12 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "custo de transação, associado à negociação de contratos entre agentes econômicos",
     "b": "custo de oportunidade",
-    "c": "externalidade positiva",
+    "c": "falha de mercado, termo usado especificamente quando o custo recai sobre concorrentes diretos da empresa poluidora",
     "d": "externalidade negativa",
     "e": "economia de escala"
    },
    "resposta": "d",
-   "explicacao": "Uma externalidade negativa ocorre quando a atividade de um agente econômico impõe custos a terceiros que não participam da transação e não são compensados por eles, como no caso da poluição, que gera custos ambientais e sociais não refletidos no preço do produto.",
+   "explicacao": "Uma externalidade negativa ocorre quando a atividade de um agente econômico impõe custos a terceiros que não participam da transação e não são compensados por eles, como no caso da poluição, que gera custos ambientais e sociais não refletidos no preço do produto. A alternativa (c) usa um termo mais amplo — falha de mercado inclui externalidades, mas também informação assimétrica, bens públicos e poder de monopólio — e ainda restringe erradamente o prejuízo aos concorrentes diretos, quando na verdade atinge pescadores e moradores, que não competem no mesmo mercado da fábrica.",
    "formato": "direta",
    "origem": "direito",
    "frenteOrigem": "atualidades-meioambiente"

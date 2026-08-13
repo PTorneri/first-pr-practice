@@ -1321,13 +1321,13 @@
       "enunciado": "Quando o valor total das exportações de um país supera o valor total de suas importações em determinado período, diz-se que esse país apresentou, em sua balança comercial:",
       "alternativas": {
         "a": "Um superávit comercial",
-        "b": "Um déficit comercial, já que exportar representa uma saída de mercadorias do território nacional",
+        "b": "Um superávit primário, resultado que se refere estritamente às contas do governo, e não ao comércio exterior do país como um todo",
         "c": "Um saldo positivo em transações correntes, que inclui também serviços e rendas além do comércio de bens",
         "d": "Uma balança de pagamentos necessariamente equilibrada em todas as suas contas",
         "e": "Uma recessão econômica automática, independentemente de outros indicadores da economia"
       },
       "resposta": "a",
-      "explicacao": "O superávit comercial ocorre quando o valor das exportações supera o das importações; o Brasil, grande exportador de commodities, tem registrado superávits expressivos na maior parte dos últimos anos. Déficit é o oposto do superávit, superávit comercial não implica recessão automática, e a balança comercial é apenas uma das contas da balança de pagamentos, que pode não estar equilibrada em outros componentes.",
+      "explicacao": "O superávit comercial ocorre quando o valor das exportações supera o das importações; o Brasil, grande exportador de commodities, tem registrado superávits expressivos na maior parte dos últimos anos. A alternativa (b) troca esse conceito por outro que soa parecido mas descreve coisa diferente: superávit primário é um indicador das contas do governo — receitas menos despesas, exceto os juros da dívida —, não do comércio exterior; confundir os dois é comum, mas eles medem fenômenos distintos. Superávit comercial não implica recessão automática, e a balança comercial é apenas uma das contas da balança de pagamentos, que pode não estar equilibrada em outros componentes.",
       "dificuldade": "media",
       "formato": "direta"
     },

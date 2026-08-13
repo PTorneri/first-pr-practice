@@ -51,14 +51,14 @@
       "texto_apoio": "Países que adotam o euro como moeda comum abrem mão da possibilidade de conduzir sua própria política monetária nacional, que passa a ser definida por um banco central comum.",
       "enunciado": "Uma consequência dessa perda de autonomia monetária para um país-membro da zona do euro em crise econômica assimétrica em relação aos demais é:",
       "alternativas": {
-        "a": "maior facilidade para desvalorizar sua moeda isoladamente e ganhar competitividade externa",
+        "a": "maior necessidade de recorrer a transferências fiscais automáticas do banco central comum para compensar o choque assimétrico",
         "b": "controle total sobre a taxa de juros doméstica, sem influência do banco central comum",
         "c": "menor flexibilidade para usar a política monetária como instrumento de ajuste diante de choques específicos",
         "d": "obrigação de manter superávit primário permanente, imposta como contrapartida à adesão à moeda comum",
         "e": "imunidade automática a crises fiscais, independentemente da situação orçamentária do país"
       },
       "resposta": "c",
-      "explicacao": "Ao integrar uma união monetária, um país perde a capacidade de definir sua própria taxa de juros ou desvalorizar sua moeda para responder a choques econômicos específicos, o que pode dificultar o ajuste em crises assimétricas dentro do bloco.",
+      "explicacao": "Ao integrar uma união monetária, um país perde a capacidade de definir sua própria taxa de juros ou desvalorizar sua moeda para responder a choques econômicos específicos, o que pode dificultar o ajuste em crises assimétricas dentro do bloco. A alternativa (a) aponta corretamente que falta um mecanismo automático de compensação, mas erra ao supor que ele existe na forma de transferências fiscais automáticas do banco central comum — a zona do euro é conhecida exatamente pela ausência desse tipo de mecanismo fiscal centralizado, apontada como uma das fragilidades estruturais do bloco.",
       "formato": "direta"
     },
     {

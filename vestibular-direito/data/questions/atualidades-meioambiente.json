@@ -248,12 +248,12 @@
       "alternativas": {
         "a": "custo de transação, associado à negociação de contratos entre agentes econômicos",
         "b": "custo de oportunidade",
-        "c": "externalidade positiva",
+        "c": "falha de mercado, termo usado especificamente quando o custo recai sobre concorrentes diretos da empresa poluidora",
         "d": "externalidade negativa",
         "e": "economia de escala"
       },
       "resposta": "d",
-      "explicacao": "Uma externalidade negativa ocorre quando a atividade de um agente econômico impõe custos a terceiros que não participam da transação e não são compensados por eles, como no caso da poluição, que gera custos ambientais e sociais não refletidos no preço do produto.",
+      "explicacao": "Uma externalidade negativa ocorre quando a atividade de um agente econômico impõe custos a terceiros que não participam da transação e não são compensados por eles, como no caso da poluição, que gera custos ambientais e sociais não refletidos no preço do produto. A alternativa (c) usa um termo mais amplo — falha de mercado inclui externalidades, mas também informação assimétrica, bens públicos e poder de monopólio — e ainda restringe erradamente o prejuízo aos concorrentes diretos, quando na verdade atinge pescadores e moradores, que não competem no mesmo mercado da fábrica.",
       "formato": "direta"
     },
     {

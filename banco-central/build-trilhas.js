@@ -42,6 +42,8 @@ const MANIFESTO = path.join(__dirname, "data", "origem-dos-bundles.json");
 const { META } = require("./subtemas-meta.js");
 const { SUBTEMAS } = require("./classificar-subtemas.js");
 const { POR_BANCA, PESO_DE_FRENTE, OVERRIDES, BANCA_ALVO } = require("./pesos.js");
+const VIDEOS = JSON.parse(fs.readFileSync(path.join(__dirname, "data", "videos.json"), "utf8")).porSubtema;
+const TEORIA = JSON.parse(fs.readFileSync(path.join(__dirname, "data", "teoria.json"), "utf8")).porTrilha;
 
 // ------------------------------------------------------------------ as trilhas
 //
@@ -145,6 +147,9 @@ function comporTrilha(trilhaId, central) {
     });
 
     if (!daFrente.length) { problemas.push(trilhaId + "/" + frenteId + ": nenhuma questão"); return; }
+    if (!TEORIA[trilhaId] || !TEORIA[trilhaId][frenteId]) {
+      problemas.push(trilhaId + "/" + frenteId + ": sem teoria (ver banco-central/teoria.js)");
+    }
 
     banksFrente[frenteId] = [];
 
@@ -169,6 +174,9 @@ function comporTrilha(trilhaId, central) {
       banks[subtemaId] = porSubtema[subtemaId];
       const meta = META[subtemaId];
       if (!meta) { problemas.push("sem metadados de exibição: " + subtemaId); return; }
+      if (!VIDEOS[subtemaId] || !VIDEOS[subtemaId].length) {
+        problemas.push("sem vídeo-aula: " + subtemaId + " (ver banco-central/videos.js)");
+      }
       subtopics.push({
         id: subtemaId,
         frenteId: frenteId,
@@ -375,6 +383,30 @@ function main() {
     fs.writeFileSync(path.join(dir, "subtopics.js"),
       cabecalho("Subtemas da trilha de " + TRILHAS[trilha].nome + ".") +
       "window.SUBTOPICS = " + JSON.stringify(subtopics, null, 2) + ";\n", "utf8");
+
+    // As vídeo-aulas passam a ser indexadas por SUBTEMA. Antes eram por frente e
+    // `pickLessonVideo` girava entre os recortes conforme o número da visita,
+    // torcendo para o aluno cair no recorte do dia; agora o dia É um subtema e o
+    // vídeo é o daquele assunto. A rotação por visita continua existindo, mas
+    // agora escolhe entre aulas do MESMO assunto.
+    const videos = {};
+    subtopics.forEach((s) => { videos[s.id] = VIDEOS[s.id] || []; });
+    fs.writeFileSync(path.join(dir, "video-topics.js"),
+      cabecalho("Vídeo-aulas da trilha de " + TRILHAS[trilha].nome + ", por subtema.") +
+      "// A fonte é banco-central/data/videos.json (mapa em banco-central/videos.js).\n\n" +
+      "window.VIDEO_TOPICS = " + JSON.stringify(videos, null, 1) + ";\n", "utf8");
+
+    // A teoria continua por FRENTE e por TRILHA: ela fala da banca, e o texto de
+    // Biologia em Medicina cita as discursivas da Santa Casa. Só as chaves
+    // mudaram, para acompanhar a fusão das frentes.
+    const teoria = {};
+    Object.keys(banksFrente).forEach((f) => {
+      if (TEORIA[trilha] && TEORIA[trilha][f]) teoria[f] = TEORIA[trilha][f];
+    });
+    fs.writeFileSync(path.join(dir, "theory.js"),
+      cabecalho("Teoria da trilha de " + TRILHAS[trilha].nome + ", por frente.") +
+      "// A fonte é banco-central/data/teoria.json (mapa em banco-central/teoria.js).\n\n" +
+      "window.THEORY = " + JSON.stringify(teoria, null, 1) + ";\n", "utf8");
   });
 
   if (!alvo) {

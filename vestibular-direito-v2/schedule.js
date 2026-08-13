@@ -552,7 +552,20 @@ function pickSimuladoQuestions(simuladoVisitIndex) {
     const offset = snapOffsetToGroup(bank, simuladoVisitIndex * count, (q) => clusterKey(q));
     const circular = [];
     for (let j = 0; j < bank.length; j++) circular.push(bank[(offset + j) % bank.length]);
-    takeWholeGroups(circular, 0, count, (q) => clusterKey(q)).forEach((q) => {
+    // takeExactly, não takeWholeGroups: aqui a cota é um teto, não uma meta.
+    //
+    // Inglês é a única frente cujo banco é quase todo em cluster — todo texto
+    // sustenta de 2 a 4 questões, e não há questão solta para fechar a conta.
+    // Acumulando grupos INTEIROS até atingir a cota, ela pedia 4 e levava 6 ou
+    // 8: medido em 12 simulados, Inglês entregava 7,5 questões contra 4,3 de
+    // cota (1,74x), e sozinho respondia pelo simulado de 49 num alvo de 45.
+    // Todas as outras frentes ficavam entre 0,83x e 1,05x.
+    //
+    // Na lição do dia a política oposta continua certa, e é por isso que são
+    // duas funções: lá, entregar 4 questões de um texto de 6 faz o aluno ler o
+    // texto inteiro e responder dois terços dele. Aqui o caderno tem tamanho
+    // fixo, e é a fatia de cada matéria que precisa ser respeitada.
+    takeExactly(circular, count, (q) => clusterKey(q)).forEach((q) => {
       // `subtopicId` é o SUBTEMA da questão, nunca a frente: é a chave em que a
       // resposta é gravada, e ela precisa ser a mesma do estudo diário.
       items.push({ question: q, subtopicId: q.subtema, subtopicNome: nomeDoSubtema(q.subtema), area: f.nome });

@@ -2319,6 +2319,186 @@
       "explicacao": "Descrever antes de concluir, suportar mais de uma leitura possível, perceber que toda representação tem ponto de vista: são hábitos que a clínica exige. E o corpo, a dor e a morte são objeto da arte há milênios.",
       "formato": "direta",
       "banca": "einstein"
+    },
+    {
+      "id": "artes-251",
+      "texto_apoio": "O Instituto do Patrimônio Histórico e Artístico Nacional pode determinar que um bem, móvel ou imóvel, seja protegido por lei em razão de seu valor histórico, artístico ou cultural.",
+      "enunciado": "Esse ato administrativo de reconhecimento e proteção é chamado de:",
+      "alternativas": {
+        "a": "tombamento, que impõe restrições ao proprietário quanto a alterações, demolição ou descaracterização do bem",
+        "b": "confisco, que transfere ao Estado a posse imediata do bem protegido, independentemente da vontade do proprietário",
+        "c": "seleção de acervo, processo pelo qual um profissional especializado escolhe obras para compor uma mostra temporária",
+        "d": "restauração, intervenção técnica que devolve ao bem sua aparência original após um período de deterioração",
+        "e": "licenciamento, autorização prévia exigida para a realização de obras em qualquer imóvel do país"
+      },
+      "resposta": "a",
+      "explicacao": "Tombamento é o instrumento jurídico que reconhece o valor histórico, artístico ou cultural de um bem e impõe restrições ao seu uso e modificação, sem necessariamente retirar a propriedade de quem o detém. Confisco (b) transfere a posse; curadoria (c) e restauração (d) são outros processos técnicos; licenciamento (e) é instrumento distinto, de natureza urbanística ou ambiental.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-252",
+      "texto_apoio": "Certas manifestações culturais são reconhecidas internacionalmente não por um objeto físico, mas pelo saber, pela prática ou pela expressão transmitida entre gerações.",
+      "enunciado": "Esse tipo de reconhecimento, concedido pela UNESCO a manifestações como a capoeira e o samba de roda, é conhecido como:",
+      "alternativas": {
+        "a": "Patrimônio Mundial, categoria reservada exclusivamente a monumentos e sítios arqueológicos de valor excepcional",
+        "b": "Sítio Histórico Nacional, categoria de reconhecimento concedida exclusivamente por órgãos do governo brasileiro",
+        "c": "Reserva da Biosfera, categoria destinada à proteção de ecossistemas com grande diversidade biológica",
+        "d": "Patrimônio Cultural Imaterial, categoria voltada a saberes, práticas e expressões transmitidos entre gerações",
+        "e": "Obra-Prima do Patrimônio Oral, categoria extinta e substituída integralmente pela lista de sítios materiais reconhecidos"
+      },
+      "resposta": "d",
+      "explicacao": "O Patrimônio Cultural Imaterial da UNESCO reconhece práticas, saberes, expressões, rituais e eventos festivos que não se reduzem a um objeto ou construção, mas se transmitem entre gerações. A capoeira e o samba de roda foram reconhecidos nessa categoria, distinta da lista de bens materiais, como monumentos e sítios.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-253",
+      "texto_apoio": "Em feiras do Nordeste brasileiro, folhetos impressos em versos rimados narram histórias que vão do cotidiano ao fantástico, com capas frequentemente ilustradas por gravuras entalhadas em madeira.",
+      "enunciado": "Essa tradição narrativa popular, impressa e vendida em folhetos, é conhecida como:",
+      "alternativas": {
+        "a": "romanceiro medieval, tradição europeia trazida sem alterações pelos colonizadores portugueses",
+        "b": "repentismo, modalidade de improviso cantado realizada sem qualquer registro escrito posterior",
+        "c": "literatura de cordel, associada à técnica de xilogravura e à tradição de versos rimados do Nordeste",
+        "d": "literatura marginal urbana, movimento surgido nas periferias das grandes cidades brasileiras a partir dos anos 1990",
+        "e": "crônica popular, gênero jornalístico publicado regularmente em jornais de circulação regional"
+      },
+      "resposta": "c",
+      "explicacao": "A literatura de cordel é a tradição de folhetos em versos, impressos e ilustrados com xilogravura, típica do Nordeste, que combina oralidade e escrita popular. O nome vem do costume de pendurar os folhetos em cordões nas feiras. Repentismo (b) é a modalidade cantada e improvisada, prática distinta embora relacionada.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-254",
+      "texto_apoio": "Em junho, comunidades de diversas regiões do Brasil promovem festejos com fogueiras, quadrilhas, comidas à base de milho e homenagens a santos católicos, num calendário que mistura elementos de origem europeia e rural.",
+      "enunciado": "Esses festejos, parte relevante da cultura popular e da identidade cultural de diversas comunidades brasileiras, são conhecidos como:",
+      "alternativas": {
+        "a": "festas juninas, celebração que combina calendário católico e tradições rurais ligadas à colheita",
+        "b": "carnaval de rua, manifestação associada ao período que antecede a quaresma no calendário católico",
+        "c": "folia de reis, manifestação realizada exclusivamente entre o fim de dezembro e o início de janeiro",
+        "d": "congada, manifestação de origem africana centrada na coroação de reis e rainhas do Congo",
+        "e": "maracatu, manifestação associada ao cortejo de um rei e uma rainha acompanhados de percussão"
+      },
+      "resposta": "a",
+      "explicacao": "As festas juninas reúnem santos católicos (Santo Antônio, São João, São Pedro), fogueiras e fartura da colheita de milho, num calendário associado ao mês de junho. Carnaval (b) e folia de reis (c) ocupam outros períodos do calendário; congada (d) e maracatu (e) são manifestações distintas, de origem africana, com outra dinâmica ritual.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-255",
+      "texto_apoio": "Em cortejos que remontam ao período colonial, grupos organizados em torno da figura de reis e rainhas do Congo desfilam ao som de tambores, celebrando a memória de reinos africanos.",
+      "enunciado": "Essa manifestação de origem africana, com forte presença em Minas Gerais e no interior de São Paulo, é conhecida como:",
+      "alternativas": {
+        "a": "maracatu, cortejo pernambucano associado à realeza negra e à percussão nagô",
+        "b": "congada, manifestação que recria a coroação de reis e rainhas do Congo em cortejo festivo",
+        "c": "jongo, manifestação centrada na roda e no canto de origem bantu do Sudeste",
+        "d": "afoxé, cortejo associado às religiões de origem africana com forte presença na Bahia",
+        "e": "capoeira angola, modalidade de jogo e luta associada a um andamento mais lento de movimentação"
+      },
+      "resposta": "b",
+      "explicacao": "A congada recria, em cortejo, a coroação de reis e rainhas do Congo, celebrando a memória de reinos africanos anteriores à escravização — presença especialmente forte em Minas Gerais e no interior paulista. As demais alternativas nomeiam manifestações afro-brasileiras reais, mas com outra dinâmica e outra origem regional.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-256",
+      "texto_apoio": "Povos indígenas brasileiros produzem padrões visuais aplicados ao corpo, à cerâmica e aos objetos rituais, com formas geométricas que variam conforme a etnia e carregam significados específicos dentro de cada cultura.",
+      "enunciado": "Esses padrões visuais característicos das culturas indígenas são conhecidos como:",
+      "alternativas": {
+        "a": "arte rupestre, conjunto de representações gravadas ou pintadas em paredes de cavernas e abrigos rochosos",
+        "b": "azulejaria, técnica de revestimento decorativo com origem na cerâmica vidrada de tradição ibérica",
+        "c": "iconografia barroca, conjunto de representações religiosas típico da arte colonial luso-brasileira",
+        "d": "grafismo indígena, sistema de padrões geométricos que carrega significados específicos de cada etnia",
+        "e": "pixação, forma de escrita urbana associada a um estilo gráfico anguloso surgido nas periferias paulistanas"
+      },
+      "resposta": "d",
+      "explicacao": "Grafismo indígena é o termo para os sistemas de padrões geométricos aplicados ao corpo, à cerâmica e a objetos rituais, com significados próprios de cada etnia — não é ornamento aleatório, mas linguagem visual codificada. As demais alternativas nomeiam outras tradições visuais, sem relação direta com as culturas indígenas descritas.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-257",
+      "texto_apoio": "Trazida por povos africanos escravizados e transformada em solo brasileiro, uma prática corporal combina golpes, esquivas, berimbau e roda, ocupando ao mesmo tempo o lugar de jogo, luta e expressão cultural.",
+      "enunciado": "Reconhecida pela UNESCO como Patrimônio Cultural Imaterial da Humanidade, essa prática é:",
+      "alternativas": {
+        "a": "o maracatu, cortejo de percussão associado à realeza negra pernambucana",
+        "b": "a umbanda, religião de origem afro-brasileira formada no início do século 20",
+        "c": "o jongo, manifestação de roda de origem bantu praticada no Sudeste do país",
+        "d": "o frevo, manifestação acelerada associada ao carnaval de rua do Recife e de Olinda",
+        "e": "a capoeira, prática que combina jogo, luta e o som do berimbau em torno da roda"
+      },
+      "resposta": "e",
+      "explicacao": "A capoeira combina jogo, luta e o som do berimbau em torno da roda, e foi reconhecida pela UNESCO como Patrimônio Cultural Imaterial da Humanidade em 2014. As demais opções nomeiam manifestações afro-brasileiras reais, mas nenhuma reúne simultaneamente o caráter de jogo e de luta corporal descrito no texto.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-258",
+      "texto_apoio": "Formada no Brasil a partir da fusão de tradições de diferentes povos africanos, com incorporação de elementos indígenas e católicos ao longo do tempo, uma religião cultua entidades associadas a forças da natureza e a aspectos da vida humana.",
+      "enunciado": "Essa religião de origem africana, cujas entidades cultuadas são chamadas de orixás, é:",
+      "alternativas": {
+        "a": "o candomblé, religião que cultua orixás vinculados a forças da natureza e realiza seus rituais em terreiros",
+        "b": "a umbanda, religião surgida no início do século 20 que também incorpora espíritos de caboclos e pretos-velhos",
+        "c": "o catolicismo popular, vertente que incorpora santos a festividades de origem rural no interior do país",
+        "d": "o espiritismo kardecista, doutrina de origem francesa centrada na comunicação com espíritos desencarnados",
+        "e": "a religiosidade indígena, conjunto de crenças associadas a espíritos da floresta e a rituais xamânicos"
+      },
+      "resposta": "a",
+      "explicacao": "O candomblé é a religião de origem africana centrada no culto aos orixás, realizado em terreiros, com forte preservação de línguas e tradições de origem africana. A umbanda (b) também cultua entidades, mas incorpora, além dos orixás, espíritos de caboclos e pretos-velhos, numa síntese formada já em solo brasileiro. As demais alternativas descrevem tradições religiosas distintas.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-259",
+      "texto_apoio": "Em comunidades tradicionais, técnicas de produção de objetos utilitários e decorativos — cestaria, cerâmica, renda, entalhe em madeira — passam de uma geração a outra por observação direta e prática, sem manual escrito.",
+      "enunciado": "Esse tipo de conhecimento, transmitido oralmente e pela prática entre gerações dentro de uma comunidade, é chamado de:",
+      "alternativas": {
+        "a": "design industrial, disciplina voltada à produção em larga escala de objetos padronizados para o mercado",
+        "b": "manufatura seriada, processo de produção baseado na repetição padronizada de peças idênticas",
+        "c": "engenharia de produção, área responsável pelo planejamento de processos fabris em larga escala",
+        "d": "arte aplicada, categoria acadêmica que reúne disciplinas de design gráfico e visual contemporâneas",
+        "e": "artesanato tradicional, saber-fazer transmitido entre gerações dentro de uma comunidade"
+      },
+      "resposta": "e",
+      "explicacao": "O artesanato tradicional é justamente esse saber-fazer transmitido entre gerações por observação e prática, sem depender de registro escrito ou de padronização industrial. As demais alternativas descrevem processos ligados à produção em escala e ao design contemporâneo, com lógica de transmissão e finalidade distintas.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-260",
+      "texto_apoio": "Debate-se, com frequência, se o uso de elementos de uma cultura por pessoas fora dela — um adorno, um penteado, um padrão visual — configura valorização ou exploração indevida dessa cultura.",
+      "enunciado": "Um critério recorrente para distinguir apropriação cultural problemática de intercâmbio legítimo é:",
+      "alternativas": {
+        "a": "a nacionalidade de quem usa o elemento, sendo aceitável apenas quando a pessoa nasceu no mesmo país da cultura de origem",
+        "b": "a existência de assimetria de poder e de reconhecimento entre quem usa o elemento e a comunidade de origem",
+        "c": "o preço pago pelo objeto, sendo automaticamente legítimo o uso de qualquer elemento adquirido de forma comercial",
+        "d": "o tempo de existência da prática cultural, sendo aceitável apenas o uso de tradições surgidas há mais de um século",
+        "e": "a quantidade de pessoas que utilizam o mesmo elemento simultaneamente em determinado contexto"
+      },
+      "resposta": "b",
+      "explicacao": "O critério mais discutido em debates sobre apropriação cultural é a assimetria de poder: quando um grupo historicamente marginalizado tem sua cultura usada sem crédito, benefício ou reconhecimento por outro grupo em posição dominante, o uso tende a ser lido como apropriação, não como intercâmbio. Nacionalidade, preço e tempo de existência (a, b, d) não são os critérios centrais desse debate.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-261",
+      "texto_apoio": "Além de monumentos e documentos, o patrimônio cultural de um grupo inclui lembranças, narrativas orais e experiências compartilhadas, que se transformam à medida que são recontadas e transmitidas entre gerações.",
+      "enunciado": "Esse conjunto de lembranças compartilhadas por um grupo, que sustenta sua identidade ao longo do tempo, é chamado de:",
+      "alternativas": {
+        "a": "arquivo público, conjunto de documentos oficiais reunidos por um órgão estatal para fins administrativos",
+        "b": "acervo museológico, conjunto de peças reunidas e catalogadas por uma instituição especializada",
+        "c": "memória coletiva, conjunto de lembranças e narrativas compartilhadas que sustentam a identidade de um grupo",
+        "d": "biblioteca nacional, instituição responsável pela guarda de obras impressas de relevância histórica",
+        "e": "patrimônio genético, conjunto de características biológicas transmitidas entre gerações de uma população específica"
+      },
+      "resposta": "c",
+      "explicacao": "Memória coletiva é o termo para esse conjunto de lembranças e narrativas compartilhadas por um grupo, que se transforma a cada nova transmissão e sustenta um sentido de identidade e pertencimento ao longo do tempo. As demais opções nomeiam instituições ou conceitos distintos, ligados a registros formais, não a lembranças compartilhadas.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-262",
+      "texto_apoio": "Ao planejar a intervenção num imóvel tombado que perdeu parte de sua estrutura original, uma equipe técnica precisa decidir como tratar as partes ausentes sem comprometer a autenticidade do que restou.",
+      "enunciado": "Um princípio amplamente seguido nesse tipo de intervenção sobre bem tombado é:",
+      "alternativas": {
+        "a": "reconstruir livremente as partes ausentes conforme a preferência estética da equipe responsável pela obra",
+        "b": "substituir o conjunto do material original por réplicas modernas, garantindo resistência estrutural superior",
+        "c": "demolir o imóvel e erguer uma cópia idêntica em outro local mais acessível ao público visitante",
+        "d": "distinguir visualmente o que é original do que é intervenção nova, evitando falsificar a autenticidade histórica",
+        "e": "pintar o imóvel inteiro com uma única cor, uniformizando visualmente as partes antigas e as partes novas da fachada"
+      },
+      "resposta": "d",
+      "explicacao": "Um princípio central da restauração de bens tombados é permitir distinguir o que é original do que foi acrescentado na intervenção, para não fabricar uma falsa antiguidade nem apagar a história do próprio processo de restauro. As demais opções descrevem práticas que comprometem a autenticidade do bem, contrariando esse princípio.",
+      "formato": "direta"
     }
   ]
 }

@@ -1,0 +1,427 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+   SAGAX DESIGN SYSTEM — a base do redesenho
+
+   Este arquivo é a única fonte de verdade de cor, letra, espaço, raio, sombra
+   e movimento. O styles.css abaixo dele só consome estes tokens; se um valor
+   de cor aparecer cravado lá, é bug.
+
+   ─── De onde vieram os números ──────────────────────────────────────────────
+
+   O sistema veio do Claude Design, que amostrou a paleta das imagens da marca.
+   Duas correções foram feitas na importação, as duas medindo os pixels dos
+   PNGs em assets/ em vez de confiar na amostragem:
+
+   1. O OURO DO DESIGN VENCEU O DO CÓDIGO. O X do wordmark mede #F1B032–#F4B738.
+      O design chegou em #f0b430 (praticamente exato); o app usava #F4C142, que
+      é mais amarelo que o próprio logotipo. Quem estava errado era o código.
+
+   2. O NAVY DO CÓDIGO VENCEU O DO DESIGN. O design amostrou #061027 de uma
+      foto de WhatsApp do logotipo. A placa real do wordmark é #0A1F38 — o
+      mesmo valor que o app já usava. Adotar #061027 como chrome deixaria uma
+      emenda visível ao lado do PNG. O #04091b sobrou como ponta escura da
+      rampa: é o fundo do modo escuro, não o chrome.
+
+   ─── A regra que organiza a paleta ──────────────────────────────────────────
+
+   Continua valendo a regra que já funcionava antes do redesenho:
+
+       O NAVY É ESTRUTURA. O OURO É UMA AÇÃO POR TELA.
+
+   O navy preenche barra lateral, painel de foco e botão secundário. O ouro
+   fica reservado ao único lugar que a pessoa deve olhar primeiro em cada tela.
+   Verde e vermelho não decoram nada: só gabarito e zona de perigo.
+
+   ─── Modo escuro ────────────────────────────────────────────────────────────
+
+   Automático, por prefers-color-scheme, sem seletor — é o comportamento que os
+   alunos já têm. As cores de MARCA (ouro, azul) não mudam entre os temas; o
+   que muda é só o que era papel e vira navy.
+   ═════════════════════════════════════════════════════════════════════════ */
+
+/* ─── Fontes, servidas daqui mesmo ─────────────────────────────────────────
+   Self-host em vez do CDN do Google: são 84 KB no total e o aluno abre o app
+   no 4G. Só o subconjunto `latin` — ele cobre U+0000-00FF, que é todo o
+   acento do português (á ã ç é ê í ó ô õ ú). Manrope é fonte VARIÁVEL: um
+   arquivo só cobre de 400 a 800, por isso ela aparece uma vez com faixa de
+   peso em vez de uma vez por espessura. */
+@font-face {
+  font-family: "Poppins"; font-style: normal; font-weight: 500; font-display: swap;
+  src: url("assets/fonts/poppins-500.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Poppins"; font-style: normal; font-weight: 600; font-display: swap;
+  src: url("assets/fonts/poppins-600.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Poppins"; font-style: normal; font-weight: 700; font-display: swap;
+  src: url("assets/fonts/poppins-700.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Manrope"; font-style: normal; font-weight: 400 800; font-display: swap;
+  src: url("assets/fonts/manrope-var.woff2") format("woff2");
+}
+@font-face {
+  font-family: "IBM Plex Mono"; font-style: normal; font-weight: 400; font-display: swap;
+  src: url("assets/fonts/ibm-plex-mono-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: "IBM Plex Mono"; font-style: normal; font-weight: 600; font-display: swap;
+  src: url("assets/fonts/ibm-plex-mono-600.woff2") format("woff2");
+}
+
+:root {
+  /* ═══ PRIMITIVAS ═══════════════════════════════════════════════════════ */
+
+  /* Navy — ancorado em #0A1F38, que é a placa medida do wordmark. O 900 é mais
+     escuro que a placa de propósito: ele existe para ser FUNDO no modo escuro,
+     onde o 800 passa a ser superfície levantada. */
+  --navy-900: #050F1D;
+  --navy-800: #0A1F38;
+  --navy-700: #102C4C;
+  --navy-600: #17395F;
+  --navy-500: #204A78;
+  --navy-400: #2E5F93;
+
+  /* Ouro — o 400 é o X do logotipo, medido no pixel. O 700 não existe no
+     design original e foi acrescentado por contraste: o design usa o 600
+     (#c98a14) em rótulo de 11px sobre papel, o que dá 2,9:1 e reprova no AA.
+     O 700 dá 4,8:1 e mantém a família. */
+  --gold-700: #8F6410;
+  --gold-600: #C98A14;
+  --gold-500: #E9A825;
+  --gold-400: #F0B430;
+  --gold-300: #F5C869;
+  --gold-200: #FBE4AE;
+  --gold-100: #FDF3DE;
+
+  /* Azul-royal — a faixa vertical do símbolo. Medido: #2450A9. */
+  --blue-700: #123C8F;
+  --blue-600: #1A48A8;
+  --blue-500: #2050B0;
+  --blue-400: #3F6FD0;
+  --blue-200: #B9CBF0;
+  --blue-100: #E6EDFB;
+
+  /* Neutros */
+  --white: #FFFFFF;
+  --paper-50: #F7F8FC;
+  --paper-100: #EEF1F8;
+  --paper-200: #E0E5F0;
+  --paper-300: #C6CDDD;
+  --grey-500: #8B93A7;
+  --grey-600: #6B7488;
+  --grey-700: #4A5266;
+  --ink-900: #0F1626;
+
+  /* Semânticas — só gabarito e zona de perigo. Nunca decoração. */
+  --success-500: #14804A;
+  --success-text: #12704A;
+  --success-100: #E2F5EC;
+  --warning-500: #E08A12;
+  --warning-100: #FDF0DA;
+  --danger-500: #CF3A44;
+  --danger-100: #FBE6E7;
+  --info-500:   #2050B0;
+  --info-100:   #E6EDFB;
+
+  /* ═══ ALIASES ══════════════════════════════════════════════════════════ */
+
+  /* Superfícies */
+  --surface-page: var(--paper-50);
+  --surface-card: var(--white);
+  --surface-sunken: var(--paper-100);
+  --surface-inverse: var(--navy-800);
+  --surface-inverse-raised: var(--navy-700);
+  --surface-accent: var(--gold-100);
+  --surface-brand: var(--blue-500);
+
+  /* Texto */
+  --text-heading: var(--navy-800);
+  --text-body: var(--grey-700);
+  --text-muted: var(--grey-600);
+  --text-faint: var(--grey-500);
+  --text-on-inverse: var(--white);
+  --text-on-inverse-muted: #A9B6D4;
+  --text-accent: var(--gold-700);
+  --text-link: var(--blue-600);
+  --text-link-hover: var(--blue-700);
+
+  /* Linhas e interação */
+  --border-subtle: var(--paper-200);
+  --border-strong: var(--paper-300);
+  --border-inverse: rgba(255,255,255,.14);
+  --focus-ring: var(--gold-400);
+  --action-primary: var(--gold-400);
+  --action-primary-hover: var(--gold-500);
+  --action-primary-press: var(--gold-600);
+  --action-primary-text: var(--navy-800);
+  --action-secondary: var(--navy-800);
+  --action-secondary-hover: var(--navy-700);
+  --action-secondary-text: var(--white);
+
+  /* Gradientes da marca — os três do símbolo. São os ÚNICOS do sistema. */
+  --gradient-gold: linear-gradient(135deg, #F5C869 0%, #F0B430 45%, #C98A14 100%);
+  --gradient-blue: linear-gradient(160deg, #3F6FD0 0%, #2050B0 55%, #123C8F 100%);
+  --gradient-night: linear-gradient(160deg, #102C4C 0%, #0A1F38 100%);
+
+  /* ═══ TIPOGRAFIA ═══════════════════════════════════════════════════════ */
+  --font-display: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-sans: "Manrope", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+
+  --text-2xs: 11px; --text-xs: 12px; --text-sm: 13px; --text-base: 15px; --text-md: 17px;
+  --text-lg: 20px; --text-xl: 24px; --text-2xl: 30px; --text-3xl: 38px; --text-4xl: 48px; --text-5xl: 64px;
+
+  --weight-regular: 400; --weight-medium: 500; --weight-semibold: 600; --weight-bold: 700;
+
+  --leading-tight: 1.12; --leading-snug: 1.28; --leading-normal: 1.5; --leading-relaxed: 1.65;
+  --tracking-tight: -0.02em; --tracking-normal: 0; --tracking-wide: 0.04em; --tracking-caps: 0.16em;
+
+  --type-display:     var(--weight-semibold) var(--text-4xl)/var(--leading-tight) var(--font-display);
+  --type-h1:          var(--weight-semibold) var(--text-3xl)/var(--leading-tight) var(--font-display);
+  --type-h2:          var(--weight-semibold) var(--text-2xl)/var(--leading-snug) var(--font-display);
+  --type-h3:          var(--weight-semibold) var(--text-lg)/var(--leading-snug) var(--font-display);
+  --type-body:        var(--weight-regular) var(--text-base)/var(--leading-relaxed) var(--font-sans);
+  --type-body-strong: var(--weight-semibold) var(--text-base)/var(--leading-normal) var(--font-sans);
+  --type-small:       var(--weight-regular) var(--text-sm)/var(--leading-normal) var(--font-sans);
+  --type-label:       var(--weight-semibold) var(--text-xs)/1.2 var(--font-sans);
+  --type-eyebrow:     var(--weight-semibold) var(--text-2xs)/1.2 var(--font-sans);
+  --type-mono:        var(--weight-regular) var(--text-sm)/var(--leading-normal) var(--font-mono);
+
+  /* ═══ ESPAÇO ═══════════════════════════════════════════════════════════ */
+  --space-1: 4px;  --space-2: 8px;  --space-3: 12px; --space-4: 16px;
+  --space-5: 20px; --space-6: 24px; --space-7: 32px; --space-8: 40px;
+  --space-9: 48px; --space-10: 64px; --space-11: 80px; --space-12: 112px;
+
+  --gap-inline: var(--space-2);
+  --gap-stack: var(--space-4);
+  --pad-card: var(--space-6);
+  --pad-card-tight: var(--space-4);
+  --pad-section: var(--space-10);
+  --gutter-page: var(--space-7);
+  --rail-width: 236px;
+  --content-max: 1180px;
+
+  /* ═══ RAIO ═════════════════════════════════════════════════════════════
+     O par pílula + retângulo arredondado é a assinatura estrutural da marca:
+     TODO botão é pílula completa, todo cartão é retângulo de 16px. */
+  --radius-xs: 4px; --radius-sm: 8px; --radius-md: 12px;
+  --radius-lg: 16px; --radius-xl: 22px; --radius-2xl: 28px;
+  --radius-pill: 999px; --radius-circle: 50%;
+  --radius-card: var(--radius-lg);
+  --radius-panel: var(--radius-xl);
+  --radius-control: var(--radius-sm);
+  --radius-button: var(--radius-pill);
+
+  /* ═══ ELEVAÇÃO ═════════════════════════════════════════════════════════
+     Sombra tingida de navy, nunca preta, e nunca mais de um degrau de
+     separação por tela. O botão de ouro leva brilho de ouro, não sombra
+     neutra — é o que faz a única ação da tela parecer acesa. */
+  --shadow-none: none;
+  --shadow-xs: 0 1px 2px rgba(10,31,56,.06);
+  --shadow-sm: 0 2px 6px rgba(10,31,56,.06);
+  --shadow-md: 0 8px 20px rgba(10,31,56,.08);
+  --shadow-lg: 0 18px 40px rgba(10,31,56,.12);
+  --shadow-xl: 0 28px 64px rgba(10,31,56,.16);
+  --shadow-gold: 0 8px 20px rgba(240,180,48,.32);
+  --ring-focus: 0 0 0 3px rgba(240,180,48,.45);
+  --ring-error: 0 0 0 3px rgba(207,58,68,.28);
+
+  /* ═══ MOVIMENTO ════════════════════════════════════════════════════════
+     Curto e não decorativo. 140ms em controle, 220ms em superfície, 340ms em
+     barra de progresso. O overshoot só existe onde algo é conquistado. */
+  --duration-instant: 90ms;
+  --duration-fast: 140ms;
+  --duration-base: 220ms;
+  --duration-slow: 340ms;
+  --ease-standard: cubic-bezier(.2,.8,.2,1);
+  --ease-out: cubic-bezier(.16,1,.3,1);
+  --ease-in: cubic-bezier(.4,0,1,1);
+  --ease-emphasis: cubic-bezier(.34,1.28,.64,1);
+  --transition-control:
+    background-color var(--duration-fast) var(--ease-standard),
+    color var(--duration-fast) var(--ease-standard),
+    border-color var(--duration-fast) var(--ease-standard),
+    box-shadow var(--duration-fast) var(--ease-standard),
+    transform var(--duration-fast) var(--ease-standard);
+  --transition-surface:
+    transform var(--duration-base) var(--ease-out),
+    box-shadow var(--duration-base) var(--ease-out);
+
+  /* ═══ PONTE PARA O CSS ANTIGO ══════════════════════════════════════════
+     As ~2.000 linhas de styles.css escritas antes do redesenho seguem usando
+     os nomes antigos. Em vez de reescrever tudo de uma vez (e quebrar onze
+     abas num commit só), os nomes antigos passam a APONTAR para os tokens
+     novos. Efeito: toda tela ganha a paleta e a letra novas imediatamente, e
+     a reestruturação de layout acontece tela por tela, sem pressa.
+
+     Esta seção encolhe a cada tela migrada. Quando ela sumir, a migração
+     acabou. */
+  --header-bg: var(--navy-800);
+  --header-ink: var(--white);
+  --header-ink-soft: var(--text-on-inverse-muted);
+  --header-pill-bg: rgba(255,255,255,.10);
+  --header-border: var(--border-inverse);
+  --header-group: #5E7189;
+
+  --bg: var(--surface-page);
+  --surface: var(--surface-card);
+  --surface-hover: var(--surface-sunken);
+  --ink: var(--text-heading);
+  --ink-soft: var(--text-body);
+  --ink-faint: var(--text-muted);
+  --ink-fainter: var(--text-faint);
+  --border: var(--border-subtle);
+  --accent: var(--navy-800);
+  --accent-ink: var(--white);
+  --accent-soft: var(--paper-100);
+
+  --good: var(--success-text);
+  --good-soft: var(--success-100);
+  --good-border: #BFE3D0;
+  --bad: var(--danger-500);
+  --bad-soft: var(--danger-100);
+  --bad-border: #F0C7CA;
+  --warn: var(--gold-700);
+  --warn-soft: var(--gold-100);
+  --warn-border: var(--gold-200);
+  --warn-hover: #F9EBCB;
+  --alert: #A8552F;
+
+  --brand-gold: var(--gold-700);
+  --brand-gold-on-navy: var(--gold-400);
+
+  /* Categorias das obras obrigatórias. Ficam como estavam: não fazem parte do
+     design system e mexer nelas seria risco sem ganho. Estes são tons de
+     TINTA, e por isso invertem no escuro (ver o bloco lá embaixo). */
+  --cat-ensaio: #4338CA;      --cat-ensaio-soft: #E5E3FA;
+  --cat-literatura: #8B5E34;  --cat-literatura-soft: #F1E6D8;
+  --cat-artes: #B45309;       --cat-artes-soft: #FCE8D2;
+  --cat-cinema: #334155;      --cat-cinema-soft: #E4E7EC;
+  --cat-musica: #0E7490;      --cat-musica-soft: #DCF2F6;
+
+  /* O FUNDO da capa tipográfica é outra coisa, e precisa de token próprio.
+     A primeira versão reaproveitou os --cat-* acima e quebrou no escuro: lá
+     eles viram tons claros (porque são tinta sobre fundo escuro), então a capa
+     passou a ser cinza-claro com texto branco — 2,1:1, ilegível.
+
+     Estes não aparecem no bloco escuro de propósito. Capa de livro não muda de
+     cor com o tema do sistema operacional: o objeto é o mesmo nos dois modos, e
+     é isso que faz a pessoa reconhecer a obra na grade de noite e de dia. */
+  --capa-ensaio: #4338CA;
+  --capa-literatura: #8B5E34;
+  --capa-artes: #B45309;
+  --capa-cinema: #334155;
+  --capa-musica: #0E7490;
+
+  --radius: var(--radius-card);
+  --shadow: var(--shadow-sm);
+  --shadow-float: var(--shadow-xl);
+
+  --font-brand: var(--font-display);
+  --font-text: var(--font-sans);
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   MODO ESCURO
+
+   Só os aliases invertem. As primitivas de MARCA (ouro, azul) atravessam os
+   dois temas sem mudar — é o que mantém a identidade estável quando o aluno
+   troca de aparelho no meio do dia.
+
+   Uma exceção herdada do desenho antigo e mantida de propósito: no claro o
+   --accent é o navy, que no escuro É o fundo. Um preenchimento navy sobre
+   fundo navy seria invisível, então no escuro quem faz o trabalho estrutural
+   é o ouro — a única cor que sobrevive aos dois fundos.
+   ═════════════════════════════════════════════════════════════════════════ */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --surface-page: var(--navy-900);
+    --surface-card: var(--navy-800);
+    --surface-sunken: var(--navy-700);
+    --surface-inverse: var(--navy-700);
+    --surface-inverse-raised: var(--navy-600);
+    --surface-accent: rgba(240,180,48,.16);
+
+    --paper-50: var(--navy-900);
+    --paper-100: var(--navy-700);
+    --paper-200: rgba(255,255,255,.14);
+    --paper-300: rgba(255,255,255,.26);
+
+    --text-heading: var(--white);
+    --text-body: #CFD8EA;
+    --text-muted: #A9B6D4;
+    --text-faint: #8494B4;
+    --text-accent: var(--gold-300);
+    --text-link: #9DBAF5;
+    --text-link-hover: #C3D5FA;
+
+    --border-subtle: rgba(255,255,255,.12);
+    --border-strong: rgba(255,255,255,.24);
+
+    --gradient-night: linear-gradient(160deg, #17395F 0%, #0F2148 100%);
+
+    /* Sobre navy, o ouro claro é que tem contraste; o escuro some. */
+    --gold-600: var(--gold-300);
+    --gold-100: rgba(240,180,48,.16);
+    --gold-200: rgba(240,180,48,.34);
+    --blue-100: rgba(63,111,208,.22);
+    --blue-600: #9DBAF5;
+
+    --success-500: #7FE3B0;
+    --success-text: #7FE3B0;
+    --success-100: rgba(31,157,103,.20);
+    --danger-500: #EF6B73;
+    --danger-100: rgba(207,58,68,.22);
+    --warning-500: #F0B430;
+    --warning-100: rgba(224,138,18,.20);
+
+    --action-secondary: rgba(255,255,255,.14);
+    --action-secondary-hover: rgba(255,255,255,.22);
+    --action-secondary-text: var(--white);
+
+    --shadow-xs: 0 1px 2px rgba(0,0,0,.40);
+    --shadow-sm: 0 2px 6px rgba(0,0,0,.40);
+    --shadow-md: 0 8px 20px rgba(0,0,0,.45);
+    --shadow-lg: 0 18px 40px rgba(0,0,0,.50);
+    --shadow-xl: 0 28px 64px rgba(0,0,0,.55);
+
+    /* ─── Ponte, no escuro ─── */
+    --accent: var(--gold-400);
+    --accent-ink: var(--navy-800);
+    --accent-soft: rgba(240,180,48,.16);
+    --good-border: rgba(127,227,176,.32);
+    --bad-border: rgba(239,107,115,.34);
+    --warn: #E7D3A3;
+    --warn-hover: rgba(240,180,48,.26);
+    --alert: #E9A182;
+    --brand-gold: var(--gold-400);
+
+    --cat-ensaio: #A5A0F5;      --cat-ensaio-soft: rgba(165,160,245,.16);
+    --cat-literatura: #D8B48C;  --cat-literatura-soft: rgba(216,180,140,.16);
+    --cat-artes: #F2AE6C;       --cat-artes-soft: rgba(242,174,108,.16);
+    --cat-cinema: #A7B2C2;      --cat-cinema-soft: rgba(167,178,194,.16);
+    --cat-musica: #6BCBE0;      --cat-musica-soft: rgba(107,203,224,.16);
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   BASE
+   ═════════════════════════════════════════════════════════════════════════ */
+*, *::before, *::after { box-sizing: border-box; }
+
+::selection { background: var(--gold-200); color: var(--navy-800); }
+
+:focus-visible { outline: none; box-shadow: var(--ring-focus); }
+
+/* Quem pediu menos movimento no sistema recebe menos movimento. A recompensa
+   do app é tipográfica e cromática antes de ser animada, então desligar a
+   animação não tira função nenhuma. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

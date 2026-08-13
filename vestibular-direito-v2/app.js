@@ -1177,9 +1177,32 @@
   //
   // Quatro números que respondem "como estou indo" sem abrir a aba Progresso.
   // Todos saem do estado real do app: nenhum é estimativa de fora.
+  // ---------- O pulso do plano ----------
+  //
+  // Isto era uma fileira de QUATRO células iguais: "Fim do plano · 78 dias",
+  // "Acerto na semana · 74%", "Plano concluído · 9/90" e "Frente mais fraca".
+  // Duas objeções mataram esse desenho.
+  //
+  // A primeira é de conteúdo: "plano concluído 9/90" e "fim do plano 78 dias"
+  // são O MESMO FATO dito duas vezes — 9 feitos de 90 É 81 restantes. Não era
+  // hierarquia fraca, era redundância ocupando metade da faixa.
+  //
+  // A segunda é de forma: quatro caixas do mesmo tamanho dizem que as quatro
+  // coisas pesam igual, e não pesam. Uma é progresso, outra é desempenho e a
+  // terceira é uma AÇÃO — "sua frente mais fraca é X" só serve para alguma
+  // coisa se levar a algum lugar.
+  //
+  // Então viraram três objetos de formas diferentes, num cartão só:
+  //   1. a fita dos 90 dias, que absorve os dois números de progresso e ainda
+  //      mostra o formato do plano (onde caem os simulados, o que já passou);
+  //   2. o acerto da semana como o único número grande;
+  //   3. a frente mais fraca como LINHA CLICÁVEL que abre a sessão SOS dela.
+  //
+  // O nome da classe .metricas ficou: é por ela que atualizarMetricas() acha o
+  // bloco para trocar depois de cada resposta.
   function renderMetricas() {
     const wrap = document.createElement("div");
-    wrap.className = "grade-celulas metricas";
+    wrap.className = "metricas pulso";
 
     const hoje = currentDayFromStart();
     const faltam = Math.max(0, 90 - hoje);
@@ -1196,7 +1219,7 @@
       if (semanaAnterior.total > 0) {
         const delta = Math.round(semana.pct - semanaAnterior.pct);
         notaSemana = (delta >= 0 ? "+" : "") + delta + " pts vs. semana passada";
-        classeSemana = delta >= 0 ? "metrica-nota-boa" : "metrica-nota-alerta";
+        classeSemana = delta >= 0 ? "pulso-nota-boa" : "pulso-nota-alerta";
       } else {
         notaSemana = semana.total + " questões respondidas";
       }
@@ -1211,39 +1234,69 @@
 
     const fraca = frenteMaisFraca();
 
-    const celulas = [
-      {
-        label: "Fim do plano",
-        valor: faltam + (faltam === 1 ? " dia" : " dias"),
-        nota: "dia " + hoje + " de 90",
-        classe: "",
-      },
-      {
-        label: "Acerto na semana",
-        valor: semana.total > 0 ? Math.round(semana.pct) + "%" : "—",
-        nota: notaSemana,
-        classe: classeSemana,
-      },
-      {
-        label: "Plano concluído",
-        valor: diasFeitos + "/90",
-        nota: Math.round((diasFeitos / 90) * 100) + "% do caminho",
-        classe: "",
-      },
-      {
-        label: "Frente mais fraca",
-        valor: fraca ? Math.round(fraca.pct) + "%" : "—",
-        nota: fraca ? fraca.nome : "responda algumas questões primeiro",
-        classe: fraca ? "metrica-nota-alerta" : "",
-      },
-    ];
+    // A fita: um segmento por dia do plano. O estado de cada um sai das mesmas
+    // fontes que o Calendário usa, para os dois nunca discordarem.
+    const start = localStorage.getItem(LS_START) || todayISO();
+    const segmentos = [];
+    for (let d = 1; d <= 90; d++) {
+      const st = dayState[d];
+      const domingo = scheduleDateForDay(start, d).getDay() === 0;
+      let estado;
+      if (d === hoje) estado = "hoje";
+      else if (st && st.total > 0 && st.answered >= st.total) estado = "feito";
+      else if (st && st.answered > 0) estado = "parcial";
+      else if (domingo) estado = "simulado";
+      else estado = "aberto";
+      segmentos.push('<i class="fita-dia fita-' + estado + '"></i>');
+    }
 
-    wrap.innerHTML = celulas.map((c) => `
-      <div class="metrica">
-        <div class="metrica-label">${escapeHtml(c.label)}</div>
-        <div class="metrica-valor">${escapeHtml(c.valor)}</div>
-        <div class="metrica-nota ${c.classe}">${escapeHtml(c.nota)}</div>
-      </div>`).join("");
+    const pctPlano = Math.round((diasFeitos / 90) * 100);
+    const acerto = semana.total > 0 ? Math.round(semana.pct) + "%" : "—";
+
+    wrap.innerHTML = `
+      <div class="pulso-plano">
+        <div class="pulso-linha">
+          <span class="pulso-rotulo">Os 90 dias</span>
+          <span class="pulso-plano-num">
+            <strong>Dia ${hoje}</strong> de 90 · ${diasFeitos} concluído${diasFeitos === 1 ? "" : "s"}
+            · faltam ${faltam} dia${faltam === 1 ? "" : "s"}
+          </span>
+        </div>
+        <div class="fita-90" role="img"
+             aria-label="Dia ${hoje} de 90. ${diasFeitos} dias concluídos, ${pctPlano} por cento do plano.">
+          ${segmentos.join("")}
+        </div>
+      </div>
+
+      <div class="pulso-rodape">
+        <div class="pulso-acerto">
+          <span class="pulso-rotulo">Acerto na semana</span>
+          <span class="pulso-valor">${escapeHtml(acerto)}</span>
+          <span class="pulso-nota ${classeSemana}">${escapeHtml(notaSemana)}</span>
+        </div>
+        ${fraca
+          ? `<button type="button" class="pulso-fraca" data-sos="${escapeHtml(fraca.id)}">
+               <span class="pulso-rotulo">Onde você mais perde ponto</span>
+               <span class="pulso-fraca-nome">${escapeHtml(fraca.nome)}</span>
+               <span class="pulso-fraca-cta">${Math.round(fraca.pct)}% de acerto · abrir o SOS deste tema →</span>
+             </button>`
+          : `<div class="pulso-fraca pulso-fraca-vazia">
+               <span class="pulso-rotulo">Onde você mais perde ponto</span>
+               <span class="pulso-fraca-nome">Ainda não dá pra dizer</span>
+               <span class="pulso-fraca-cta">responda pelo menos 5 questões de uma frente</span>
+             </div>`}
+      </div>`;
+
+    // A frente mais fraca é a única parte do painel que É uma ação: leva para a
+    // sessão de resgate daquele tema, com a teoria aberta e os erros juntos.
+    const sos = wrap.querySelector("[data-sos]");
+    if (sos) {
+      sos.addEventListener("click", () => {
+        progressoSosId = sos.dataset.sos;
+        irParaAba("progresso");
+        renderProgress();
+      });
+    }
 
     return wrap;
   }
@@ -1281,7 +1334,10 @@
       const st = estado[s.id];
       if (!st || st.answered < 5) return; // amostra pequena demais pra acusar
       const pct = (st.correct / st.answered) * 100;
-      if (!pior || pct < pior.pct) pior = { nome: s.nome, pct };
+      // O `id` entrou junto com o painel de pulso da aba Hoje: lá a frente mais
+      // fraca deixou de ser um número e virou o atalho que abre o SOS dela, e
+      // para isso é preciso saber QUAL subtema é, não só o nome dele.
+      if (!pior || pct < pior.pct) pior = { id: s.id, nome: s.nome, pct };
     });
     return pior;
   }
@@ -2019,7 +2075,6 @@
 
     const wrap = document.createElement("div");
     wrap.innerHTML = `
-      <h2>Flashcards</h2>
       <p class="hint">Repetição espaçada: o que você erra volta antes; o que acerta vai espaçando.</p>
       <div class="card flashcard-summary-card">
         <h3>Revisão do dia</h3>
@@ -2162,6 +2217,39 @@
   // obras cobre autores majoritariamente ainda protegidos por direitos
   // autorais (vida do autor + 70 anos no Brasil), então reproduzir a arte
   // real de cada uma aqui não é viável.
+  // ---------- A capa tipográfica ----------
+  //
+  // Quarenta e duas das setenta e duas obras não têm imagem — cinema inteiro,
+  // e todas as protegidas que catálogo livre não hospeda. Elas não podem
+  // parecer buraco, e por isso a capa gerada precisa ser BOA, não um espaço
+  // reservado com ícone no meio.
+  //
+  // O caminho é tipográfico, e é o que o design system permite: fundo é cor
+  // chapada, nunca imagem, e o sistema não tem textura nem padrão. Então a
+  // capa é cor cheia da categoria e o título grande — a gramática de
+  // Fitzcarraldo e da Penguin, onde a capa é a palavra.
+  //
+  // A variação vem de duas coisas determinísticas, nunca de sorteio: o título
+  // decide o corpo da letra (título curto ganha 30px, longo cai a 17px, e o
+  // bloco nunca estoura a capa) e um hash do id decide onde o texto se apoia.
+  // Determinístico importa: a mesma obra tem que ter sempre a mesma capa, ou
+  // a pessoa deixa de reconhecê-la na grade.
+  function capaHash(s) {
+    let h = 0;
+    for (let i = 0; i < s.length; i++) h = (h * 31 + s.charCodeAt(i)) | 0;
+    return Math.abs(h);
+  }
+  function capaVariante(o) {
+    return ["capa-alta", "capa-baixa", "capa-centro"][capaHash(o.id) % 3];
+  }
+  function capaCorpo(titulo) {
+    const n = titulo.length;
+    if (n <= 14) return "capa-xg";
+    if (n <= 28) return "capa-g";
+    if (n <= 46) return "capa-m";
+    return "capa-p";
+  }
+
   const OBRA_CATEGORIA_META = {
     "Ensaio": {
       cls: "cat-ensaio",
@@ -2660,6 +2748,50 @@
       extras.forEach((o) => gridExtras.appendChild(renderObraCard(o, studied)));
       container.appendChild(gridExtras);
     }
+
+    renderCreditosObras(container);
+  }
+
+  // ---------- Créditos das imagens das obras ----------
+  //
+  // Parte das capas vem do Wikimedia Commons sob CC BY ou CC BY-SA, e as duas
+  // EXIGEM atribuição — não é cortesia, é condição da licença. Crédito repetido
+  // em 72 cartões viraria ruído, então vai um bloco só no fim da aba, que é
+  // como catálogo de museu e livro didático fazem.
+  //
+  // A procedência é lida do PROCEDENCIA.json que o baixar-capas.js escreve, e
+  // só quando a aba abre: são poucos KB, e quem nunca entra em Obras não paga
+  // por eles. Falhar em ler não pode derrubar a aba — sem o arquivo, o bloco
+  // simplesmente não aparece.
+  function renderCreditosObras(container) {
+    fetch("assets/obras/PROCEDENCIA.json")
+      .then((r) => (r.ok ? r.json() : null))
+      .then((manifesto) => {
+        const itens = manifesto && manifesto.itens ? Object.values(manifesto.itens) : [];
+        if (!itens.length) return;
+
+        const bloco = document.createElement("div");
+        bloco.className = "obras-creditos";
+        const linhas = itens
+          .slice()
+          .sort((a, b) => a.titulo.localeCompare(b.titulo, "pt-BR"))
+          .map((i) => {
+            const partes = [escapeHtml(i.titulo)];
+            if (i.autoria) partes.push("imagem de " + escapeHtml(i.autoria));
+            partes.push(escapeHtml(i.fonte));
+            if (i.licenca) partes.push(escapeHtml(i.licenca));
+            return "<li>" + partes.join(" · ") + "</li>";
+          })
+          .join("");
+        bloco.innerHTML = `
+          <div class="lesson-eyebrow">Créditos das imagens</div>
+          <p class="hint">As capas e reproduções vêm de catálogos públicos. Onde a licença
+          exige atribuição, ela está abaixo. As licenças do Commons se referem à
+          <strong>reprodução fotográfica</strong>, não à obra retratada.</p>
+          <ul class="obras-creditos-lista">${linhas}</ul>`;
+        container.appendChild(bloco);
+      })
+      .catch(() => { /* sem manifesto, sem bloco */ });
   }
 
   function renderObraCard(o, studied) {
@@ -2694,11 +2826,24 @@
       <div class="obra-questoes" hidden></div>`
       : "";
     const catMeta = OBRA_CATEGORIA_META[o.categoria] || { cls: "cat-default", icon: "" };
+    // A capa gerada continua sendo o piso: ela é desenhada SEMPRE, e a imagem
+    // real (quando existe em assets/obras/) entra por cima dela. Assim, obra
+    // sem arquivo baixado — as de cinema, e qualquer uma que a busca não tenha
+    // resolvido — não abre buraco na grade, e um arquivo corrompido ou removido
+    // degrada para o desenho em vez de para o ícone de imagem quebrada. O
+    // onerror some com o <img>, revelando o que está atrás.
+    //
+    // O caminho não leva a trilha: a imagem é indexada pelo id da OBRA, que é o
+    // mesmo em Direito e em Medicina (as duas listas são idênticas). Antes eram
+    // duas pastas, e a mesma obra chegou a ter capa diferente em cada trilha.
     const coverHtml = `
-      <div class="obra-cover ${catMeta.cls}">
-        <div class="obra-cover-icon">${catMeta.icon}</div>
-        <div class="obra-cover-title">${escapeHtml(o.titulo)}</div>
-        <div class="obra-cover-autor">${escapeHtml(o.autor)}</div>
+      <div class="obra-cover ${catMeta.cls} ${capaVariante(o)} ${capaCorpo(o.titulo)}">
+        <span class="obra-capa-cat">${escapeHtml(o.categoria)}</span>
+        <span class="obra-capa-titulo">${escapeHtml(o.titulo)}</span>
+        <span class="obra-capa-autor">${escapeHtml(o.autor)}</span>
+        <img class="obra-cover-img" alt="" loading="lazy" decoding="async"
+             src="assets/obras/${encodeURIComponent(o.id)}.jpg"
+             onerror="this.remove()">
       </div>
     `;
     card.innerHTML = `
@@ -2775,7 +2920,6 @@
 
     const header = document.createElement("div");
     header.innerHTML = `
-      <h2>Caderno de Erros</h2>
       <p class="hint">Toda questão que você já respondeu errado — em qualquer dia normal ou
       simulado — aparece aqui pra você treinar de novo. Responder certo não some a questão na
       hora: ela continua na tela com a explicação, e só deixa de aparecer da próxima vez que você
@@ -2904,23 +3048,34 @@
     const docs = [];
     // A MESMA questão não pode entrar duas vezes no índice.
     //
-    // O banco da trilha de Economia é COMPOSTO a partir dos de Direito e
-    // Medicina -- a objetiva do dia 1 da FGV EESP é o mesmo caderno da FGV
-    // Direito SP, então reescrevê-la seria reescrever pior o que já existe. A
-    // consequência é que 100% dos ids de Economia também existem em outro
-    // banco, e sem esta trava a busca devolveria a mesma questão duas vezes,
-    // com dois rótulos de trilha.
+    // Os quatro bancos SE SOBREPÕEM por construção. Todos são gerados do banco
+    // central (banco-central/build-trilhas.js), que tem 5.332 questões, e cada
+    // trilha leva o recorte que serve ao seu vestibular: Direito e Economia
+    // levam as 5.332, Medicina 5.232, Engenharia 2.894. Uma questão de
+    // interpretação de texto serve aos quatro cursos e está nos quatro
+    // arquivos -- é a mesma questão, não quatro. Sem esta trava a busca
+    // devolveria cada uma até quatro vezes, com quatro rótulos de trilha.
     //
-    // A chave é ORIGEM + id, e não o id sozinho: "interpretacao-texto-01"
-    // existe em Direito E em Medicina sendo duas questões DIFERENTES, e o mesmo
-    // vale para geografia-01, gramatica-01, ingles-01 e literatura-01. Deduplicar
-    // só por id apagaria 1.022 questões legítimas -- medido, não suposto.
+    // A chave é ORIGEM + id, e não o id sozinho: antes dos ids prefixados,
+    // "interpretacao-texto-01" existia em Direito E em Medicina sendo duas
+    // questões DIFERENTES, e o mesmo valia para geografia-01, gramatica-01,
+    // ingles-01 e literatura-01. Deduplicar só por id apagaria 1.022 questões
+    // legítimas -- medido, não suposto.
     //
-    // `origemTrilha` só existe nas questões compostas, e é ele que faz a cópia
-    // apontar para o banco de onde veio: a questão de Economia que veio de
-    // Direito colide com a de Direito, como deve, e não com a de Medicina que
-    // por acaso tem o mesmo id. Isso só funciona porque a composição preserva o
-    // id original em vez de prefixá-lo (ver o MAPA em build-bundle.js).
+    // `origem` é gravado em cada questão pelo banco central e diz para qual
+    // curso ela foi escrita. É ele que faz a cópia apontar para a questão
+    // original em vez de para o arquivo em que ela foi lida: a cópia que
+    // Economia carrega da questão de Direito colide com a de Direito, como
+    // deve, e não com a de Medicina que por acaso tenha o mesmo id.
+    //
+    // ATENÇÃO ao renomear este campo. Ele se chamava `origemTrilha` quando o
+    // bundle de Economia era composto por vestibular-economia/build-bundle.js;
+    // a migração para o banco central rebatizou-o de `origem` e esta chave
+    // continuou lendo o nome antigo. Como `q.origemTrilha` era undefined em
+    // 100% das questões, a chave caía sempre no `trilhaId` e nenhuma cópia era
+    // reconhecida: o índice inchou de 6.466 documentos para 19.924, cada
+    // resultado da busca aparecia repetido até três vezes e o auditor de piso
+    // media alcance triplicado.
     //
     // Quem absorve primeiro vence, e quem absorve primeiro é a trilha ativa --
     // a atribuição certa: a questão pertence ao curso de quem está buscando.
@@ -2929,7 +3084,7 @@
       (subtopics || []).forEach((s) => {
         const bank = (banks && banks[s.id]) || [];
         bank.forEach((q) => {
-          const chave = (q.origemTrilha || trilhaId) + "::" + q.id;
+          const chave = (q.origem || trilhaId) + "::" + q.id;
           if (vistos.has(chave)) return;
           vistos.add(chave);
           docs.push({
@@ -3268,7 +3423,6 @@
     }
     container.dataset.montado = "1";
     container.innerHTML = `
-      <h2>Buscar questões</h2>
       <p class="hint">Procure pelo assunto que você quer treinar agora — "crase", "função quadrática",
       "genética". A busca cobre as duas trilhas: as frentes de Linguagens, Matemática e Humanas se
       repetem entre Direito e Medicina, e uma questão de crase é a mesma questão de crase nos dois
@@ -3523,9 +3677,17 @@
       renderBuscaFiltros(null);
       // "nas duas trilhas" era um número escrito à mão. Agora sai da contagem
       // real: a trilha ativa mais as que entraram no índice.
+      //
+      // O banco complementar entra na conta porque entra na busca, mas é
+      // nomeado à parte -- somá-lo calado a "nas 4 trilhas" atribuiria às
+      // trilhas 1.134 questões que não são delas. Ele só é citado quando de
+      // fato chegou: a carga é assíncrona e pode falhar.
       const trilhasIndexadas = 1 + ((buscaSecundariaDados || []).length);
-      el.innerHTML = `<p class="hint">Comece digitando acima. São ${(buscaDocs || []).length}
-        questões indexadas${trilhasIndexadas > 1 ? ` nas ${trilhasIndexadas} trilhas` : ""}.</p>`;
+      const fontes = [trilhasIndexadas > 1 ? `nas ${trilhasIndexadas} trilhas` : "na sua trilha"];
+      if (buscaExtraDados) fontes.push("no banco complementar");
+      el.innerHTML = `<p class="hint">Comece digitando acima. São
+        ${(buscaDocs || []).length.toLocaleString("pt-BR")} questões indexadas
+        ${fontes.join(" e ")}.</p>`;
       return;
     }
 
@@ -4074,7 +4236,21 @@
     fb.hidden = false;
     const isCorrect = chosenLetter === q.resposta;
     fb.className = "q-feedback " + (isCorrect ? "correct" : "incorrect");
-    fb.textContent = (isCorrect ? "Certo! " : "Não foi dessa vez. ") + q.explicacao;
+
+    // O veredito virou um rótulo à parte, em vez de duas palavras coladas no
+    // começo da explicação. São duas leituras diferentes: "acertei?" se
+    // responde de relance, pela cor e pelo rótulo; "por quê?" é parágrafo, e
+    // parágrafo colorido de quatro linhas cansa. Montado por nós (e não por
+    // innerHTML) porque q.explicacao é conteúdo do banco e continua entrando
+    // como texto, nunca como marcação.
+    fb.textContent = "";
+    const rotulo = document.createElement("span");
+    rotulo.className = "q-feedback-rotulo";
+    rotulo.textContent = isCorrect ? "Certo" : "Não foi dessa vez";
+    const texto = document.createElement("p");
+    texto.className = "q-feedback-texto";
+    texto.textContent = q.explicacao;
+    fb.append(rotulo, texto);
   }
 
   // ---------- Reportar problema numa questão (v2) ----------
@@ -4923,7 +5099,7 @@
           <div class="bar-track readiness-track"><div class="bar-fill readiness-fill" style="width:${readinessPct}%"></div></div>
           <span class="readiness-pct">${readinessPct}%</span>
         </div>
-        <button type="button" class="btn-link sos-btn" style="margin-top:8px;">🆘 SOS deste tema</button>
+        <button type="button" class="btn-link sos-btn" style="margin-top:8px;">SOS deste tema</button>
       `;
       row.querySelector(".sos-btn").addEventListener("click", () => {
         progressoSosId = s.id;

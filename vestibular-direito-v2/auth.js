@@ -19,11 +19,11 @@
 //        URIs. Esse é sobre PARA ONDE o Google devolve, e é o authDomain de
 //        firebase-init.js. Sem ele, o Google recusa com redirect_uri_mismatch.
 
-import { auth } from "./firebase-init.js?v=43";
-import "./sync.js?v=43"; // define window.VD_SYNC
-import "./feedback.js?v=43"; // define window.VD_FEEDBACK
-import "./ia.js?v=43"; // define window.VD_IA (correção das dissertativas e redações)
-import "./assinatura.js?v=43"; // define window.VD_ASSINATURA (o portão)
+import { auth } from "./firebase-init.js?v=45";
+import "./sync.js?v=45"; // define window.VD_SYNC
+import "./feedback.js?v=45"; // define window.VD_FEEDBACK
+import "./ia.js?v=45"; // define window.VD_IA (correção das dissertativas e redações)
+import "./assinatura.js?v=45"; // define window.VD_ASSINATURA (o portão)
 import {
   GoogleAuthProvider,
   signInWithPopup,
@@ -230,10 +230,13 @@ async function abrirTrilha(trilha) {
   viewEscolhaTrilha.hidden = true;
   viewOnboarding.hidden = false;
 
-  // O pé da barra lateral diz "Marina Alves / Direito · FGV": o curso e a
-  // banca vêm da trilha aberta, não da conta.
+  // O pé da barra lateral diz "Marina Alves / Trilha Direito": o CURSO, não a
+  // banca. Antes mostrava cfg.subtitulo, que é a lista de bancas — e aí a
+  // trilha de Engenharia aparecia no app inteiro como "ITA", que é o nome do
+  // vestibular e não o do curso. A lista de bancas continua onde ela informa
+  // de fato: no cartão de escolha de trilha e no texto do onboarding.
   const cfg = window.VD_TRILHA.config();
-  if (userTrilha && cfg) userTrilha.textContent = cfg.subtitulo || cfg.nome || "";
+  if (userTrilha && cfg) userTrilha.textContent = cfg.nome ? "Trilha " + cfg.nome : "";
 
   window.VD_BOOT();
   mostrarFaixaDeAcesso();

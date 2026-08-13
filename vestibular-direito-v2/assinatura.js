@@ -59,7 +59,7 @@
 // diagnóstico rodado por você NÃO prova que o caminho do aluno funciona. Quem
 // cobre esse caso é o ramo de permission-denied em verificar(), mais abaixo.
 
-import { db } from "./firebase-init.js?v=43";
+import { db } from "./firebase-init.js?v=45";
 import { doc, getDoc } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-firestore.js";
 
 const PORTAO_ATIVO = true;

@@ -44,3 +44,7 @@ output/
 # versoes que foram para producao); a pasta instalada, nao -- o `firebase deploy`
 # reinstala a partir do lock.
 functions/node_modules/
+
+# Mockups da sessao de brainstorm visual (servidor local do superpowers).
+# Sao rascunho de desenho, nao entram no site publicado.
+.superpowers/

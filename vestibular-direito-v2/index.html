@@ -6,12 +6,18 @@
 <title>sagax — Plano de 90 dias (v2)</title>
 <link rel="icon" type="image/png" href="assets/favicon.png">
 <link rel="apple-touch-icon" href="assets/logo.png">
-<!-- Montserrat é a geométrica do logotipo (ver --font-brand em styles.css).
-     display=swap: o texto entra na hora com a pilha do sistema e troca quando a
-     fonte chega, em vez de deixar o título invisível esperando a rede. -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap">
+<!-- As fontes do redesenho são servidas DAQUI, não do Google (ver o @font-face
+     no topo de tokens.css). São 84 KB no total, contra dois domínios externos
+     no caminho crítico — o aluno abre o app no 4G, e o preconnect + a busca do
+     CSS remoto custavam mais que os arquivos.
+
+     Só estas duas são pré-carregadas: Manrope carrega TODO o texto corrido
+     (é variável, um arquivo cobre 400–800) e Poppins 600 carrega todo título.
+     As outras quatro entram pelo caminho normal, porque nenhuma delas aparece
+     na primeira dobra. O crossorigin não é opcional nem sendo mesma origem:
+     sem ele o navegador baixa o arquivo duas vezes. -->
+<link rel="preload" href="assets/fonts/manrope-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/poppins-600.woff2" as="font" type="font/woff2" crossorigin>
 <!-- O GitHub Pages serve os arquivos com Cache-Control: max-age=600, então quem
      já visitou continua vendo a versão antiga do CSS/JS por até 10 minutos após
      uma publicação. O ?v= abaixo muda a URL do arquivo e força o navegador a
@@ -39,12 +45,17 @@
      admin.html) — sem isso a correção leva até 10 minutos pra chegar em quem
      já visitou, e foi exatamente o que aconteceu na primeira publicação da
      reescrita das alternativas. -->
-<link rel="stylesheet" href="styles.css?v=43">
+<!-- tokens.css ANTES de styles.css, e a ordem não é estilística: styles.css só
+     consome variáveis, e uma variável precisa existir antes de ser lida. É
+     também onde vivem os @font-face — declarados aqui, o navegador começa a
+     baixar a letra enquanto ainda parseia o resto. -->
+<link rel="stylesheet" href="tokens.css?v=45">
+<link rel="stylesheet" href="styles.css?v=45">
 <!-- Estilo da dissertativa de exatas (resolução + resposta final + faixa),
      hoje só usada pela Matemática de Economia. Carregado aqui, e não por
      trilha, pela mesma razão de trilhas.js e assuntos.js: é código, não dado
      — inerte enquanto ninguém chama VD_EXATAS.render(). -->
-<link rel="stylesheet" href="../vestibular-economia/dissertativa-exatas.css?v=43">
+<link rel="stylesheet" href="../vestibular-economia/dissertativa-exatas.css?v=45">
 </head>
 <body>
 
@@ -125,8 +136,8 @@
     <div class="landing-navy">
       <nav class="landing-nav">
         <span class="landing-brand">
-          <img class="sidebar-symbol" src="assets/sagax-symbol.png" alt="">
-          <img class="sidebar-wordmark" src="assets/sagax-wordmark-only.png" alt="sagax">
+          <img class="sidebar-symbol" src="assets/sagax-symbol-cut.png" alt="">
+          <img class="sidebar-wordmark" src="assets/sagax-wordmark-cut.png" alt="sagax">
         </span>
         <div class="landing-nav-links">
           <a href="#como-funciona">Como funciona</a>
@@ -371,8 +382,8 @@
     <div class="login-split">
       <div class="login-pitch">
         <span class="login-pitch-brand">
-          <img class="sidebar-symbol" src="assets/sagax-symbol.png" alt="">
-          <img class="sidebar-wordmark" src="assets/sagax-wordmark-only.png" alt="sagax">
+          <img class="sidebar-symbol" src="assets/sagax-symbol-cut.png" alt="">
+          <img class="sidebar-wordmark" src="assets/sagax-wordmark-cut.png" alt="sagax">
         </span>
         <div class="login-pitch-corpo">
           <div class="login-pitch-frase">Seu progresso fica salvo na sua conta, não só neste navegador.</div>
@@ -519,8 +530,8 @@
 
     <aside class="sidebar">
       <div class="sidebar-brand">
-        <img class="sidebar-symbol" src="assets/sagax-symbol.png" alt="">
-        <img class="sidebar-wordmark" src="assets/sagax-wordmark-only.png" alt="sagax">
+        <img class="sidebar-symbol" src="assets/sagax-symbol-cut.png" alt="">
+        <img class="sidebar-wordmark" src="assets/sagax-wordmark-cut.png" alt="sagax">
       </div>
 
       <nav class="nav-groups">
@@ -565,6 +576,15 @@
         </div>
       </nav>
 
+      <!-- Assinatura da marca no pé do trilho. Fica DEPOIS da navegação e ANTES
+           do chip da conta, e é ela que carrega o margin-top:auto — ou seja, é
+           ela que empurra os dois para baixo. Sem isso, num plano com poucas
+           abas (Medicina esconde Obras) a barra ficava com um vão morto. -->
+      <div class="sidebar-marca">
+        <img class="sidebar-marca-simbolo" src="assets/sagax-symbol-cut.png" alt="">
+        <span class="sidebar-slogan">Estude. <span class="tagline-gold">Evolua.</span> Conquiste.</span>
+      </div>
+
       <div class="sidebar-user user-chip" id="user-chip" hidden>
         <img id="user-avatar" class="user-avatar" alt="" referrerpolicy="no-referrer" hidden>
         <span class="user-avatar-fallback" id="user-avatar-fallback"></span>
@@ -588,9 +608,17 @@
           <button type="button" id="btn-voltar-mobile" class="voltar-mobile" aria-label="Voltar para Mais" hidden>
             <svg class="ico" aria-hidden="true"><use href="#i-caret-left"></use></svg>
           </button>
-          <h2 class="page-title" id="page-title">Hoje</h2>
-          <span class="page-subtitle" id="page-subtitle"></span>
-          <span id="phase-label" class="phase-label"></span>
+          <!-- Título e meta empilhados, com o botão de voltar AO LADO do bloco
+               e não empurrando o título para baixo. O rótulo de fase fica na
+               linha do subtítulo porque ele qualifica o dia, não a aba. Os id
+               não mudaram: são o contrato com atualizarCabecalho() no app.js. -->
+          <div class="page-header-textos">
+            <h2 class="page-title" id="page-title">Hoje</h2>
+            <div class="page-header-meta">
+              <span class="page-subtitle" id="page-subtitle"></span>
+              <span id="phase-label" class="phase-label"></span>
+            </div>
+          </div>
         </div>
         <div class="page-header-right">
           <span id="streak-chip" class="streak-chip" hidden></span>
@@ -819,19 +847,19 @@
      escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
      Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
      dois apps. -->
-<script src="trilhas.js?v=43"></script>
-<script src="schedule.js?v=43"></script>
+<script src="trilhas.js?v=45"></script>
+<script src="schedule.js?v=45"></script>
 <!-- Dicionário de assuntos da busca. Vive aqui, e não em data/ de uma trilha,
      porque a taxonomia atravessa as duas: "crase" e "função quadrática" são o
      mesmo assunto em Direito e em Medicina. Pôr em data/ obrigaria a duplicar
      as listas de gramática, literatura, interpretação, inglês e matemática. -->
-<script src="assuntos.js?v=43"></script>
+<script src="assuntos.js?v=45"></script>
 <!-- window.VD_EXATAS — renderizador da dissertativa de exatas (ver o <link>
      do CSS acima). Precisa carregar ANTES de app.js: renderDissertQuestion
      chama VD_EXATAS.render() para toda questão com `faixas`, e um script
      criado depois na ordem de execução ainda não teria definido o global. -->
-<script src="../vestibular-economia/dissertativa-exatas.js?v=43"></script>
-<script src="app.js?v=43"></script>
-<script type="module" src="auth.js?v=43"></script>
+<script src="../vestibular-economia/dissertativa-exatas.js?v=45"></script>
+<script src="app.js?v=45"></script>
+<script type="module" src="auth.js?v=45"></script>
 </body>
 </html>

@@ -1,0 +1,322 @@
+{
+  "geradoEm": "2026-08-13T22:36:54.844Z",
+  "itens": {
+    "obra-ruptura-castells": {
+      "titulo": "Ruptura: a crise da democracia liberal",
+      "autor": "Manuel Castells",
+      "categoria": "Ensaio",
+      "url": "https://covers.openlibrary.org/b/id/12370164-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL21632120W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 56872
+    },
+    "obra-bras-cubas": {
+      "titulo": "Memórias Póstumas de Brás Cubas",
+      "autor": "Machado de Assis",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/123152-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL1003017W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 24979
+    },
+    "obra-hora-estrela": {
+      "titulo": "A Hora da Estrela",
+      "autor": "Clarice Lispector",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/650866-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL1002120W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 20360
+    },
+    "obra-torto-arado": {
+      "titulo": "Torto Arado",
+      "autor": "Itamar Vieira Junior",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/12369648-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL24141556W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 34661
+    },
+    "obra-vidas-secas": {
+      "titulo": "Vidas Secas",
+      "autor": "Graciliano Ramos",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/12369687-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL2900596W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 66417
+    },
+    "obra-bem-amado": {
+      "titulo": "O Bem-Amado",
+      "autor": "Dias Gomes",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/8758533-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL20094078W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 34156
+    },
+    "obra-as-meninas": {
+      "titulo": "As Meninas",
+      "autor": "Lygia Fagundes Telles",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/6506475-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL1010355W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 35374
+    },
+    "obra-barroco-tropical": {
+      "titulo": "Barroco Tropical",
+      "autor": "José Eduardo Agualusa",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/10562117-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL24158315W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 28582
+    },
+    "obra-arte-reza": {
+      "titulo": "Arte",
+      "autor": "Yasmina Reza",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/8227074-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL507625W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 42185
+    },
+    "obra-1984": {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/9267242-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL1168083W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 81846
+    },
+    "obra-olho-mais-azul": {
+      "titulo": "O Olho Mais Azul",
+      "autor": "Toni Morrison",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/15152696-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL50565W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 40678
+    },
+    "obra-rehab": {
+      "titulo": "Rehab",
+      "autor": "Amy Winehouse",
+      "categoria": "Música",
+      "url": "http://coverartarchive.org/release/263b570a-4379-4677-afa1-761885bec224/14386633681.jpg",
+      "fonte": "Cover Art Archive",
+      "ref": "https://musicbrainz.org/release/263b570a-4379-4677-afa1-761885bec224",
+      "licenca": "capa da gravadora, servida pelo Cover Art Archive",
+      "bytes": 32490
+    },
+    "obra-boy-in-the-bubble": {
+      "titulo": "The Boy in the Bubble",
+      "autor": "Paul Simon",
+      "categoria": "Música",
+      "url": "http://coverartarchive.org/release/b9e2ee56-cd31-49c4-84e8-552f13bbb3fc/2035091816.jpg",
+      "fonte": "Cover Art Archive",
+      "ref": "https://musicbrainz.org/release/b9e2ee56-cd31-49c4-84e8-552f13bbb3fc",
+      "licenca": "capa da gravadora, servida pelo Cover Art Archive",
+      "bytes": 40665
+    },
+    "obra-young-americans": {
+      "titulo": "Young Americans",
+      "autor": "David Bowie",
+      "categoria": "Música",
+      "url": "http://coverartarchive.org/release/fba008bb-1d47-4ec3-89b5-bd7538400008/10559672087.jpg",
+      "fonte": "Cover Art Archive",
+      "ref": "https://musicbrainz.org/release/fba008bb-1d47-4ec3-89b5-bd7538400008",
+      "licenca": "capa da gravadora, servida pelo Cover Art Archive",
+      "bytes": 121963
+    },
+    "obra-racismo-sexismo-desigualdade": {
+      "titulo": "Racismo, sexismo e desigualdade no Brasil",
+      "autor": "Sueli Carneiro",
+      "categoria": "Ensaio",
+      "url": "https://covers.openlibrary.org/b/id/13559852-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL22652177W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 27294
+    },
+    "obra-dom-casmurro": {
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/647501-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL1003040W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 37884
+    },
+    "obra-caminho-de-pedras": {
+      "titulo": "Caminho de Pedras",
+      "autor": "Rachel de Queiroz",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/10737008-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL24252834W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 41177
+    },
+    "obra-macbeth": {
+      "titulo": "Macbeth",
+      "autor": "William Shakespeare",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/872432-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL258902W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 18544
+    },
+    "obra-o-tempo-nao-para": {
+      "titulo": "O Tempo Não Para",
+      "autor": "Cazuza",
+      "categoria": "Música",
+      "url": "http://coverartarchive.org/release/00efad23-968c-4bee-a75f-a8902ea2d0b2/20710884454.jpg",
+      "fonte": "Cover Art Archive",
+      "ref": "https://musicbrainz.org/release/00efad23-968c-4bee-a75f-a8902ea2d0b2",
+      "licenca": "capa da gravadora, servida pelo Cover Art Archive",
+      "bytes": 4040
+    },
+    "obra-balada-de-amor-ao-vento": {
+      "titulo": "Balada de Amor ao Vento",
+      "autor": "Paulina Chiziane",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/7264027-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL12442081W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 18286
+    },
+    "obra-a-visao-das-plantas": {
+      "titulo": "A Visão das Plantas",
+      "autor": "Djaimilia Pereira de Almeida",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/12369603-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL26414883W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 36208
+    },
+    "obra-prosas-odes-minimas": {
+      "titulo": "Prosas Seguidas de Odes Mínimas",
+      "autor": "José Paulo Paes",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/13726905-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL1006913W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 56296
+    },
+    "obra-a-vida-nao-e-util": {
+      "titulo": "A Vida Não é Útil",
+      "autor": "Ailton Krenak",
+      "categoria": "Ensaio",
+      "url": "https://covers.openlibrary.org/b/id/10839723-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL24320908W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 31637
+    },
+    "obra-casa-velha": {
+      "titulo": "Casa Velha",
+      "autor": "Machado de Assis",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/123152-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL1003017W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 24979
+    },
+    "obra-no-seu-pescoco": {
+      "titulo": "No Seu Pescoço",
+      "autor": "Chimamanda Ngozi Adichie",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/11320253-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL5731541W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 37068
+    },
+    "obra-morangos-mofados": {
+      "titulo": "Morangos Mofados",
+      "autor": "Caio Fernando Abreu",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/12370442-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL26415683W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 27291
+    },
+    "obra-alice-pais-das-maravilhas": {
+      "titulo": "Alice no País das Maravilhas",
+      "autor": "Lewis Carroll",
+      "categoria": "Literatura",
+      "url": "https://covers.openlibrary.org/b/id/10527843-L.jpg",
+      "fonte": "Open Library",
+      "ref": "https://openlibrary.org/works/OL138052W",
+      "licenca": "capa da editora, servida pelo catálogo da Open Library",
+      "bytes": 48898
+    },
+    "obra-revolution": {
+      "titulo": "Revolution",
+      "autor": "The Beatles",
+      "categoria": "Música",
+      "url": "https://coverartarchive.org/release/b007d46e-f1b3-4215-a834-00ed6826e4f6/39150883750-500.jpg",
+      "fonte": "Cover Art Archive",
+      "ref": "https://musicbrainz.org/release/b007d46e-f1b3-4215-a834-00ed6826e4f6",
+      "licenca": "capa da gravadora, servida pelo Cover Art Archive",
+      "bytes": 64231
+    },
+    "obra-guernica": {
+      "titulo": "Guernica",
+      "autor": "Pablo Picasso",
+      "categoria": "Artes visuais",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mural%20del%20%22Guernica%22%20de%20Picasso.jpg?width=900",
+      "fonte": "Wikimedia Commons (via Wikidata Q175036)",
+      "ref": "https://www.wikidata.org/wiki/Q175036",
+      "licenca": "CC BY-SA 4.0",
+      "autoria": "Jules Verne Times Two",
+      "ressalva": "licença refere-se à reprodução fotográfica, não à obra retratada",
+      "bytes": 170602
+    },
+    "obra-dejeuner-sur-lherbe": {
+      "titulo": "Le Déjeuner sur l'herbe (O Almoço na Relva)",
+      "autor": "Édouard Manet",
+      "categoria": "Artes visuais",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Edouard%20Manet%20-%20Luncheon%20on%20the%20Grass%20-%20Google%20Art%20Project.jpg?width=900",
+      "fonte": "Wikimedia Commons (via Wikidata Q152509)",
+      "ref": "https://www.wikidata.org/wiki/Q152509",
+      "licenca": "Public domain",
+      "autoria": "Édouard Manet",
+      "ressalva": "licença refere-se à reprodução fotográfica, não à obra retratada",
+      "bytes": 185475
+    },
+    "obra-laranja-mecanica": {
+      "titulo": "Laranja Mecânica",
+      "autor": "Stanley Kubrick",
+      "categoria": "Cinema",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Clockwork%20Orange%20Trailer%20poster.png?width=900",
+      "fonte": "Wikimedia Commons (via Wikidata Q181086)",
+      "ref": "https://www.wikidata.org/wiki/Q181086",
+      "licenca": "Public domain",
+      "autoria": "Bill Gold, Stanley Kubrick.",
+      "ressalva": "licença refere-se à reprodução fotográfica, não à obra retratada",
+      "bytes": 574550
+    }
+  },
+  "nota": "As trilhas compartilham a mesma lista de 72 obras; a imagem e indexada pelo id da obra, nao pela trilha."
+}

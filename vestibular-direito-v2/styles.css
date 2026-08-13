@@ -1,196 +1,23 @@
 /* ═══════════════════════════════════════════════════════════════════════════
-   REDESENHO v2 — "Um sistema só, do site à sala de estudo"
+   COMPONENTES — o desenho de cada peça da tela.
 
-   A regra que organiza a paleta inteira, e que explica quase toda decisão
-   abaixo: o NAVY É ESTRUTURA, O OURO É UMA AÇÃO POR TELA. Antes o app tinha
-   um azul-royal de destaque (--accent: #1E40AF) disputando atenção com o ouro
-   da marca, e o resultado era que nada se destacava: barra de progresso, aba
-   ativa, selo de dificuldade e botão principal gritavam junto.
-
-   Agora o azul-marinho da marca faz o trabalho estrutural — é ele que preenche
-   barra, marca a aba ativa e assina o botão primário — e o ouro fica reservado
-   para o UM lugar que a pessoa deve olhar primeiro em cada tela (o "Comece por
-   aqui" de Hoje, o "Começar simulado", o dia de hoje no calendário).
-
-   Verde e vermelho não decoram nada: aparecem só em gabarito e em zona de
-   perigo. É por isso que --good e --bad seguem existindo mas não entram em
-   nenhum estado de navegação.
+   Cor, letra, espaço, raio, sombra e movimento NÃO moram aqui: moram em
+   tokens.css, que o index.html carrega antes deste arquivo. Se um valor de
+   cor aparecer cravado neste arquivo, é bug — use o token.
    ═════════════════════════════════════════════════════════════════════════ */
-:root {
-  /* Identidade sagax: a barra lateral fica sempre em azul-marinho — o mesmo
-     azul da placa do logo — independente do modo claro/escuro do resto. */
-  --header-bg: #0A1F38;
-  --header-ink: #ffffff;
-  --header-ink-soft: #A8B6C8;
-  --header-pill-bg: rgba(255,255,255,0.10);
-  --header-border: rgba(255,255,255,0.09);
-  /* Título de grupo da barra lateral (PLANO / ESTUDO / VOCÊ). Mais apagado que
-     --header-ink-soft de propósito: rótulo de seção não compete com item. */
-  --header-group: #5E7189;
-
-  --bg: #F4F6F9;
-  --surface: #ffffff;
-  /* O realce de "o cursor está aqui" / "acabei de tocar". Precisa ser TOKEN e não
-     valor cravado: o #F7F9FB estava escrito à mão em cinco regras de :hover
-     (alternativa de questão, botão secundário, btn-link, botão do Google, cartão
-     de trilha) e, no modo escuro, pintava um fundo quase branco sob texto branco
-     — 1,06:1, ilegível. No claro é um degrau abaixo do branco; no escuro, um
-     degrau acima do --surface, porque no escuro quem "levanta" clareia. */
-  --surface-hover: #F7F9FB;
-  --ink: #0A2540;
-  --ink-soft: #4A5A6E;
-  /* Duas réguas, não uma. --border é a linha entre coisas (1px, discreta) e
-     --border-strong é a borda de um controle que a pessoa pode clicar — botão
-     secundário, campo de busca. Com uma régua só, ou o campo somia ou as
-     divisórias de tabela ficavam pesadas demais. */
-  --border: #E3E7EE;
-  --border-strong: #C9CFDA;
-  --ink-faint: #7A8798;
-  --ink-fainter: #9AA6B6;
-  --accent: #0A2540;
-  --accent-ink: #ffffff;
-  --accent-soft: #EDEFF3;
-  --good: #0F766E;
-  --good-soft: #F0F8F6;
-  --good-border: #CFE7E0;
-  --bad: #B91C1C;
-  --bad-soft: #FCEBEB;
-  --bad-border: #E7C4C4;
-  /* O "warn" do redesenho é a família do ouro sobre branco: fundo creme, texto
-     ouro escuro. É o selo de "Revisão"/"Média" e o aviso da outra trilha. */
-  --warn: #7A5209;
-  --warn-soft: #FBF4E4;
-  --warn-border: #E0C88A;
-  /* Mesmo motivo do --surface-hover, na família do ouro: o :hover do
-     .btn-destaque era um #F6EBD2 cravado, e no escuro o --warn é creme claro —
-     creme sobre creme. Aqui o realce é o próprio --warn-soft um passo mais forte. */
-  --warn-hover: #F6EBD2;
-  /* Laranja-tijolo: usado só onde o redesenho o usa, na nota da frente mais
-     fraca e nos rótulos de problema do diagnóstico. Não é um estado de erro. */
-  --alert: #A8552F;
-
-  /* O ouro da marca — o X de sagax e a palavra dourada do slogan. Separado do
-     --warn de propósito: o warn também sinaliza atenção em selo e alerta, e
-     misturar as duas coisas faria a marca herdar mudança feita por outro motivo.
-     Um tom por família de fundo. O do logotipo (--brand-gold-on-navy) foi
-     desenhado pra azul-marinho: sobre branco dá 1,7:1 e o X some no meio da
-     palavra. O tom claro dá 5:1, que é o que o slogan precisa — ele é caixa
-     alta pequena, e aí não vale o limiar de texto grande. */
-  --brand-gold: #96660F;
-  --brand-gold-on-navy: #F4C142;
-
-  /* "Capas" ilustrativas das obras obrigatórias, por categoria — só cor e
-     ícone, nunca imagem de terceiros (ver comentário em app.js). */
-  --cat-ensaio: #4338CA;
-  --cat-ensaio-soft: #E5E3FA;
-  --cat-literatura: #8B5E34;
-  --cat-literatura-soft: #F1E6D8;
-  --cat-artes: #B45309;
-  --cat-artes-soft: #FCE8D2;
-  --cat-cinema: #334155;
-  --cat-cinema-soft: #E4E7EC;
-  --cat-musica: #0E7490;
-  --cat-musica-soft: #DCF2F6;
-
-  /* "Raio 8px (10px no cartão), régua 1px, sombra só no que flutua. Nada de
-     cartão gigante arredondado: a estrutura é a régua." — o cartão de 14px
-     com sombra permanente fazia tudo parecer flutuar, e quando tudo flutua
-     nada tem hierarquia. Agora o cartão é definido pela borda; a sombra
-     sobrou para o que de fato paira sobre a página (a gaveta do menu). */
-  --radius: 10px;
-  --radius-sm: 8px;
-  --shadow: none;
-  --shadow-float: 0 30px 70px rgba(10,31,56,0.28);
-}
-
-/* O redesenho especifica só a paleta clara. O modo escuro segue existindo —
-   quem revisa no celular à noite não deve perdê-lo — com os tons derivados da
-   paleta nova, não dos antigos.
-
-   A derivação tem uma regra e uma exceção. A regra: escurecer superfície e
-   clarear texto mantendo a família de cor. A exceção é o --accent: no claro
-   ele é o navy, que aqui É o fundo — um preenchimento navy sobre fundo navy
-   seria invisível. No escuro, então, quem faz o trabalho estrutural é o
-   próprio ouro da marca, que é a única cor da paleta que sobrevive aos dois
-   fundos. É a mesma lógica do claro ("uma cor carrega a estrutura"), com a
-   cor trocada porque o fundo trocou. */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #0A1F38;
-    --surface: #12293F;
-    /* Um degrau ACIMA do --surface, não abaixo: sobre fundo escuro o que levanta
-       é clarear. Dá 12,7:1 com o texto branco. */
-    --surface-hover: #1B3450;
-    --ink: #ffffff;
-    --ink-soft: #B9C6D6;
-    --ink-faint: #8FA0B5;
-    --ink-fainter: #7A8DA4;
-    --border: rgba(255,255,255,0.12);
-    --border-strong: rgba(255,255,255,0.24);
-    --accent: #F4C142;
-    --accent-ink: #0A1F38;
-    --accent-soft: rgba(244,193,66,0.16);
-    --good: #5EEAD4;
-    --good-soft: rgba(15,118,110,0.26);
-    --good-border: rgba(94,234,212,0.32);
-    --bad: #F87171;
-    --bad-soft: rgba(248,113,113,0.18);
-    --bad-border: rgba(248,113,113,0.34);
-    --warn: #E7D3A3;
-    --warn-soft: rgba(244,193,66,0.16);
-    --warn-border: rgba(244,193,66,0.34);
-    /* O mesmo ouro do --warn-soft, mais presente. Dá 5,6:1 com o --warn creme. */
-    --warn-hover: rgba(244,193,66,0.26);
-    --alert: #E9A182;
-
-    /* No cartão escuro cabe o ouro do logotipo, o mesmo da barra lateral. */
-    --brand-gold: #F4C142;
-
-    --cat-ensaio: #A5A0F5;
-    --cat-ensaio-soft: rgba(165,160,245,0.16);
-    --cat-literatura: #D8B48C;
-    --cat-literatura-soft: rgba(216,180,140,0.16);
-    --cat-artes: #F2AE6C;
-    --cat-artes-soft: rgba(242,174,108,0.16);
-    --cat-cinema: #A7B2C2;
-    --cat-cinema-soft: rgba(167,178,194,0.16);
-    --cat-musica: #6BCBE0;
-    --cat-musica-soft: rgba(107,203,224,0.16);
-
-    --shadow: none;
-    --shadow-float: 0 30px 70px rgba(0,0,0,0.55);
-  }
-}
-
-* { box-sizing: border-box; }
-
-/* Tipografia. Duas pilhas de propósito:
-   --font-brand é a geométrica do logotipo sagax. Vale no wordmark e nos títulos,
-   que é onde a letra é identidade. Ela vem da rede (Google Fonts) e o
-   display=swap garante que o texto apareça na hora, com a pilha do sistema,
-   se a fonte demorar ou não chegar — o v1 abre por file:// e às vezes offline.
-   --font-text é a pilha do sistema, que segue no texto corrido: o app tem
-   enunciado longo de questão e comentário de gabarito, e aí o que decide é
-   leitura, não personalidade. Pra levar a marca ao corpo também, é trocar
-   --font-text por --font-brand aqui embaixo. */
-:root {
-  --font-brand: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  --font-text: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  /* A monoespaçada não é decoração: ela marca o que é RÓTULO e não conteúdo.
-     "COMECE POR AQUI", "ANTES/AULA/PRÁTICA", os títulos de grupo da lateral —
-     tudo que nomeia uma região em vez de dizer algo. Como ela nunca aparece
-     em texto corrido, a pessoa aprende a distinguir os dois sem pensar. */
-  --font-mono: ui-monospace, Menlo, Consolas, "Liberation Mono", monospace;
-}
-
-/* Rótulo em monoespaçada — o eyebrow que nomeia uma região da tela. */
+/* Eyebrow — o rótulo de 11px que nomeia uma região da tela.
+   Saiu da monoespaçada e foi para a Manrope em caixa alta espaçada, que é o
+   que o design system define. A monoespaçada continua existindo, mas só onde
+   ela significa alguma coisa: número tabular e endereço. */
 .eyebrow {
-  font: 700 0.625rem/1 var(--font-mono);
-  letter-spacing: 0.1em; text-transform: uppercase;
-  color: var(--ink-faint);
+  font: var(--type-eyebrow);
+  letter-spacing: var(--tracking-caps); text-transform: uppercase;
+  color: var(--text-faint);
 }
-.eyebrow-ouro { color: var(--warn); }
-.eyebrow-sobre-navy { color: var(--brand-gold-on-navy); }
+/* Sobre papel o ouro precisa do tom escuro (--text-accent = gold-700, 4,8:1);
+   sobre navy, do tom da marca. É a mesma cor cumprindo contraste diferente. */
+.eyebrow-ouro { color: var(--text-accent); }
+.eyebrow-sobre-navy { color: var(--gold-400); }
 
 /* Número em Montserrat: métrica, contador, score. O corpo do app segue na
    pilha do sistema, mas número é identidade visual e ganha a geométrica. */
@@ -269,7 +96,7 @@ h4 { font-size: 1.0625rem; }
 }
 .landing-hero-copy { display: flex; flex-direction: column; gap: 22px; max-width: 520px; }
 .landing-eyebrow {
-  font: 600 0.6875rem/1 var(--font-mono); letter-spacing: 0.14em;
+  font: var(--type-eyebrow); letter-spacing: var(--tracking-caps);
   text-transform: uppercase; color: var(--brand-gold-on-navy);
 }
 .landing-hero h1 { font-size: 3.25rem; line-height: 1.05; color: #fff; letter-spacing: -0.025em; margin: 0; }
@@ -299,7 +126,7 @@ h4 { font-size: 1.0625rem; }
    mostra a tela real de Hoje: o dia, o bloco de "comece por aqui", as três
    métricas e a fita dos 90 dias. */
 .landing-mock {
-  background: var(--bg); border: 1px solid rgba(255,255,255,.14); border-radius: 12px;
+  background: var(--bg); border: 1px solid rgba(255,255,255,.14); border-radius: var(--radius-md);
   overflow: hidden; box-shadow: 0 30px 70px rgba(0,0,0,.45); color: var(--ink);
 }
 .landing-mock-chrome {
@@ -374,7 +201,7 @@ h4 { font-size: 1.0625rem; }
 .landing-dia-card-head h3 { font-size: 1.0625rem; margin: 0; }
 .landing-bloco { padding: 18px 26px; border-bottom: 1px solid var(--border); display: flex; gap: 16px; align-items: flex-start; }
 .landing-bloco-etapa {
-  font: 700 0.625rem/1.6 var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase;
+  font: var(--type-eyebrow); letter-spacing: var(--tracking-caps); text-transform: uppercase;
   color: var(--ink-faint); width: 62px; flex: none;
 }
 .landing-bloco-corpo { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
@@ -488,68 +315,108 @@ h4 { font-size: 1.0625rem; }
 .pitch-list { margin: 0 0 24px; padding-left: 20px; color: var(--ink-soft); }
 .pitch-list li { margin-bottom: 6px; }
 
+/* Cartão. Retângulo de 16px com traço de 1px e sombra tingida de navy — é a
+   forma que, junto da pílula do botão, assina o desenho da marca. A sombra é
+   um degrau só: nunca há dois níveis de elevação na mesma tela. */
 .card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow);
+  background: var(--surface-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-sm);
 }
 
-/* Buttons.
-   Retângulo de raio 8, não mais pílula de 999px: a pílula é uma forma que
-   chama atenção sozinha, e num app com botão em quase todo cartão isso somava
-   ruído. O retângulo deixa a distinção por COR fazer o trabalho — e a cor é
-   que diz o que é ação principal.
+/* ─── Botões ──────────────────────────────────────────────────────────────
+   TODO botão é pílula completa. O par pílula + retângulo arredondado é a
+   assinatura estrutural do sistema, e romper com ele num controle só faria
+   esse controle parecer de outro app.
 
-   Largura automática, e não os 100% de antes. Um botão que atravessa o cartão
-   inteiro anuncia "esta é a única coisa a fazer aqui", o que era mentira em
-   praticamente todo cartão do app. As telas de entrada, onde de fato só há uma
-   coisa a fazer, reativam o 100% mais abaixo. */
+   A mudança semântica que vale registrar: .btn-primary DEIXOU DE SER NAVY E
+   VIROU OURO. No sistema, "primary" é a única ação em destaque da tela, e a
+   cor disso é o ouro da marca — é assim que os CTAs da landing, do login e do
+   onboarding foram desenhados. O navy, que antes assinava o primário, passou
+   ao .btn-secondary, que é o que ele sempre foi de fato: a ação de apoio.
+
+   A regra "um ouro por tela" continua sendo responsabilidade de quem monta a
+   tela, não do CSS. Duas .btn-primary na mesma tela é erro de composição. */
 .btn {
-  font: inherit;
-  font-size: 0.875rem;
-  border-radius: var(--radius-sm);
-  padding: 10px 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  font: var(--type-body-strong);
+  letter-spacing: .01em;
+  border-radius: var(--radius-button);
+  padding: 12px 22px;
   border: 1px solid transparent;
   cursor: pointer;
-  font-weight: 600;
-  transition: background-color 0.15s ease, border-color 0.15s ease, opacity 0.15s ease;
+  white-space: nowrap;
+  transition: var(--transition-control);
 }
-.btn-primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
-.btn-primary:hover:not(:disabled) { background: #14395F; border-color: #14395F; }
-.btn-secondary { background: var(--surface); border-color: var(--border-strong); color: var(--ink); }
-.btn-secondary:hover:not(:disabled) { border-color: var(--accent); background: var(--surface-hover); }
-/* "Destaque": o botão cor de ouro sobre branco. É o terceiro nível, para a
-   ação que merece um olhar mas não é a principal da tela. */
-.btn-destaque { background: var(--warn-soft); color: var(--warn); border-color: var(--warn-border); }
-.btn-destaque:hover:not(:disabled) { background: var(--warn-hover); }
-/* O ouro cheio só existe sobre navy — sobre branco ele dá 1,7:1 e some. */
-.btn-ouro { background: var(--brand-gold-on-navy); color: #0A1F38; border-color: var(--brand-gold-on-navy); }
-.btn-ouro:hover:not(:disabled) { background: #FFD469; border-color: #FFD469; }
-.btn-sobre-navy {
-  background: transparent; color: #fff; border-color: rgba(255,255,255,.25);
+/* O controle inteiro afunda; nada recolore. */
+.btn:active:not(:disabled) { transform: translateY(1px) scale(.985); }
+.btn:disabled { opacity: .45; cursor: not-allowed; }
+
+.btn-primary {
+  background: var(--action-primary);
+  color: var(--action-primary-text);
+  border-color: var(--action-primary);
+  box-shadow: var(--shadow-gold);
 }
-.btn-sobre-navy:hover:not(:disabled) { border-color: #fff; background: rgba(255,255,255,.06); }
-.btn-ghost { background: transparent; border: none; color: var(--ink); font-weight: 600; padding: 8px 10px; }
-.btn-ghost:hover:not(:disabled) { color: var(--accent); }
-.btn-ghost:disabled { opacity: 0.35; cursor: default; }
-.btn-danger-outline { background: var(--surface); border: 1px solid var(--bad-border); color: var(--bad); }
-.btn-danger-outline:hover:not(:disabled) { background: var(--bad-soft); }
-/* Link de saída (provas oficiais, YouTube): tem peso de botão secundário
-   porque leva para fora do app, e sair merece um clique deliberado. */
+.btn-primary:hover:not(:disabled) {
+  background: var(--action-primary-hover);
+  border-color: var(--action-primary-hover);
+}
+/* .btn-ouro é o nome que o app.js já usa para a ação de destaque. Agora ele e
+   .btn-primary são a mesma coisa; o alias fica para não reescrever os
+   renderizadores todos de uma vez. */
+.btn-ouro { background: var(--action-primary); color: var(--action-primary-text); border-color: var(--action-primary); box-shadow: var(--shadow-gold); }
+.btn-ouro:hover:not(:disabled) { background: var(--action-primary-hover); border-color: var(--action-primary-hover); }
+
+.btn-secondary {
+  background: var(--surface-card);
+  color: var(--text-heading);
+  border-color: var(--border-strong);
+}
+.btn-secondary:hover:not(:disabled) { border-color: var(--navy-800); background: var(--surface-sunken); }
+
+/* Navy cheio: a ação de apoio com peso, quando a de ouro já está tomada. */
+.btn-navy { background: var(--action-secondary); color: var(--action-secondary-text); border-color: var(--action-secondary); box-shadow: var(--shadow-sm); }
+.btn-navy:hover:not(:disabled) { background: var(--action-secondary-hover); border-color: var(--action-secondary-hover); }
+
+/* Ouro apagado: merece um olhar, mas não é a ação da tela. */
+.btn-destaque { background: var(--surface-accent); color: var(--text-accent); border-color: var(--gold-200); }
+.btn-destaque:hover:not(:disabled) { background: var(--gold-200); }
+
+/* Sobre navy, o vidro fosco branco — é o "ghost" do sistema quando o fundo é
+   escuro. Preenchimento em vez de só contorno: contorno sobre navy some. */
+.btn-sobre-navy { background: rgba(255,255,255,.12); color: var(--white); border-color: transparent; }
+.btn-sobre-navy:hover:not(:disabled) { background: rgba(255,255,255,.20); }
+
+.btn-ghost { background: transparent; border-color: transparent; color: var(--text-heading); padding: 10px 16px; }
+.btn-ghost:hover:not(:disabled) { background: var(--surface-sunken); }
+.btn-ghost:disabled { opacity: .35; cursor: default; }
+
+.btn-danger-outline { background: var(--surface-card); border-color: var(--bad-border); color: var(--bad); }
+.btn-danger-outline:hover:not(:disabled) { background: var(--bad-soft); border-color: var(--danger-500); }
+
+/* Link de saída (provas oficiais, YouTube): peso de botão de contorno, porque
+   leva para fora do app e sair merece um clique deliberado. */
 .btn-link {
-  display: inline-block;
-  background: var(--surface);
-  color: var(--ink);
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  background: var(--surface-card);
+  color: var(--text-heading);
   border: 1px solid var(--border-strong);
-  border-radius: var(--radius-sm);
-  padding: 10px 16px;
+  border-radius: var(--radius-button);
+  padding: 10px 18px;
   text-decoration: none;
-  font-weight: 600;
-  font-size: 0.845rem;
+  font: var(--type-body-strong);
+  font-size: var(--text-sm);
   margin: 4px 8px 0 0;
+  transition: var(--transition-control);
 }
-.btn-link:hover { border-color: var(--accent); background: var(--surface-hover); }
+.btn-link:hover { border-color: var(--navy-800); background: var(--surface-sunken); text-decoration: none; }
 
 /* Telas de entrada: aqui o botão de largura cheia está certo — é a única
    ação da tela. */
@@ -599,72 +466,183 @@ h4 { font-size: 1.0625rem; }
    ═════════════════════════════════════════════════════════════════════════ */
 #view-main { display: flex; min-height: 100vh; background: var(--bg); }
 
-.sidebar {
-  width: 248px; flex: none; background: var(--header-bg);
-  display: flex; flex-direction: column; padding: 22px 16px; gap: 26px;
-  position: sticky; top: 0; height: 100vh; overflow-y: auto;
-}
-/* No claro, a lateral se separa do conteúdo pelo próprio contraste (navy
-   contra cinza-claro). No escuro o fundo da página TAMBÉM é navy, e as duas
-   regiões encostavam sem costura visível — daí a régua. */
-@media (prefers-color-scheme: dark) {
-  .sidebar { border-right: 1px solid var(--border); }
-}
-/* O logotipo é PNG com fundo próprio; o lighten deixa só a parte clara da
-   arte aparecer sobre o navy, sem halo de fundo em volta das letras. */
-.sidebar-brand { display: flex; align-items: center; gap: 10px; padding: 0 8px; }
-.sidebar-symbol { height: 26px; width: auto; object-fit: contain; display: block; mix-blend-mode: lighten; }
-.sidebar-wordmark { height: 18px; width: auto; object-fit: contain; display: block; mix-blend-mode: lighten; }
+/* A lateral é um trilho navy com o canto externo arredondado em 28px — não
+   uma coluna que encosta na borda da janela. É o maior gesto de forma do
+   sistema e o que faz o conteúdo parecer apoiado sobre ela. */
+/* A barra inteira NÃO rola — só a lista de abas rola, e só se precisar. Antes
+   era `overflow-y: auto` no .sidebar todo: num notebook de 768px de tela (uns
+   640px de viewport) as dez abas mais a marca não cabiam, e o que saía de
+   vista era justamente o pé — o chip da conta e o slogan. Rolar uma barra de
+   navegação para achar "Perfil e conta" é o tipo de coisa que ninguém faz:
+   a pessoa conclui que a aba não existe.
 
-.nav-groups { display: flex; flex-direction: column; gap: 22px; }
-.nav-group { display: flex; flex-direction: column; gap: 3px; }
+   Agora a coluna é uma grade de três faixas: marca (fixa), navegação (elástica
+   e a única com rolagem) e pé (fixo). Nada essencial sai da tela em nenhuma
+   altura. */
+.sidebar {
+  width: var(--rail-width); flex: none;
+  background: var(--gradient-night);
+  border-radius: 0 var(--radius-2xl) var(--radius-2xl) 0;
+  display: flex; flex-direction: column;
+  padding: var(--space-5) var(--space-4); gap: var(--space-5);
+  position: sticky; top: 0; height: 100vh; overflow: hidden;
+}
+
+/* Os PNGs recortados (…-cut) têm fundo transparente de verdade. Os antigos
+   traziam a placa navy embutida e dependiam de mix-blend-mode: lighten para
+   sumir contra a barra — truque que só funcionava porque a barra era daquele
+   navy exato, e que quebrava em qualquer outro fundo. Sem blend agora. */
+.sidebar-brand { display: flex; align-items: center; gap: 10px; padding: 0 var(--space-2); }
+.sidebar-symbol { height: 28px; width: auto; object-fit: contain; display: block; }
+.sidebar-wordmark { height: 17px; width: auto; object-fit: contain; display: block; }
+
+/* Assinatura da marca no pé do trilho: o símbolo e o slogan. É o único lugar
+   do app onde a marca aparece sem estar a serviço de navegação — e, por ser
+   ornamento, é a PRIMEIRA coisa a sair quando a tela é baixa (ver o bloco de
+   alturas no fim desta seção). Nenhuma função depende dela. */
+/* É ESTA faixa que absorve a sobra de altura, não a lista de abas. A lista
+   fica do tamanho que precisa; tudo que sobrar vira símbolo. Numa janela alta
+   ele chega perto de 150px, numa baixa encolhe até sumir — sem eu ter que
+   cravar um tamanho por faixa de tela e errar em todas as outras. */
+/* flex-shrink 1000 contra o 1 da lista de abas. Sem esse desequilíbrio as duas
+   faixas encolhem em proporção quando falta altura, e o resultado medido era
+   uma lista rolando e cortando "Perfil e conta" enquanto o símbolo seguia com
+   140px na tela — ornamento roubando espaço de navegação. Agora a marca cede
+   praticamente toda a diferença antes de a lista ceder um pixel. */
+.sidebar-marca {
+  flex: 1 1000 auto; min-height: 0;
+  padding-top: var(--space-4);
+  display: flex; flex-direction: column; align-items: center; justify-content: flex-end;
+  gap: var(--space-3);
+}
+/* max-height: 100% é o que faz o símbolo caber na faixa em vez de esticá-la, e
+   o object-fit guarda a proporção (o PNG é 255×326, mais alto que largo). O
+   max-width existe só para ele não encostar nas bordas do trilho numa tela
+   muito alta. */
+.sidebar-marca-simbolo {
+  flex: 0 1 auto; min-height: 0;
+  max-height: 100%; max-width: 148px;
+  width: auto; height: auto;
+  object-fit: contain;
+  display: block; opacity: .9;
+}
+.sidebar-slogan {
+  font: var(--type-eyebrow); letter-spacing: var(--tracking-wide); text-transform: uppercase;
+  color: var(--text-on-inverse-muted); text-align: center;
+}
+.sidebar-slogan .tagline-gold { color: var(--gold-400); }
+
+/* A faixa elástica: recebe a sobra de altura e é a única que rola. O
+   `min-height: 0` não é enfeite — sem ele um filho flex se recusa a encolher
+   abaixo do próprio conteúdo e o overflow simplesmente não acontece. */
+/* flex-grow ZERO de propósito: a lista fica exatamente do tamanho que precisa e
+   a sobra vai toda para a marca. Ela ainda pode ENCOLHER (flex-shrink 1) e
+   rolar, que é o comportamento de última instância em janela muito baixa —
+   quando a marca já saiu de cena pelas media queries de altura. */
+.nav-groups {
+  flex: 0 1 auto; min-height: 0; overflow-y: auto;
+  display: flex; flex-direction: column; gap: var(--space-4);
+  scrollbar-width: thin;
+}
+.nav-group { display: flex; flex-direction: column; gap: 2px; }
 .nav-group-title {
-  font: 700 9.5px/1 var(--font-mono); letter-spacing: 0.12em; text-transform: uppercase;
-  color: var(--header-group); padding: 0 8px 6px;
+  font: var(--type-eyebrow); letter-spacing: var(--tracking-caps); text-transform: uppercase;
+  color: var(--text-on-inverse-muted); opacity: .7; padding: 0 14px 4px;
 }
 /* Um grupo cujos itens sumiram todos (Obras não existe em Medicina) não pode
    deixar o título órfão pairando sobre nada. */
 .nav-group:not(:has(.tab-btn:not([hidden]))) { display: none; }
 
+/* Item ativo = pílula BRANCA com texto navy. É a inversão mais forte que o
+   trilho permite: nenhum estado de :hover chega perto, então nunca há dúvida
+   sobre onde você está. O ouro fica livre para a ação da tela. */
 .tab-btn {
-  display: flex; align-items: center; justify-content: space-between; gap: 8px;
-  border: none; background: transparent; text-align: left;
-  padding: 9px 10px; border-radius: 7px;
-  cursor: pointer; font: inherit; font-size: 0.875rem; font-weight: 500;
-  color: var(--header-ink-soft);
-  transition: background-color 0.12s ease, color 0.12s ease;
+  display: flex; align-items: center; justify-content: space-between; gap: var(--space-3);
+  border: none; background: transparent; text-align: left; width: 100%;
+  padding: 8px 14px; border-radius: var(--radius-pill);
+  cursor: pointer; font: var(--type-body-strong); font-size: var(--text-sm);
+  color: var(--text-on-inverse-muted);
+  transition: var(--transition-control);
 }
-.tab-btn:hover { background: rgba(255,255,255,.07); color: #fff; }
-.tab-btn.active { background: rgba(255,255,255,.10); color: #fff; }
+.tab-btn:hover { background: rgba(255,255,255,.09); color: var(--white); }
+.tab-btn.active { background: var(--white); color: var(--navy-800); }
 
 /* Contador ao lado do item: quantas tarefas faltam hoje, quantos cards
-   venceram, quantas questões esperam revisão. Só o item ativo usa ouro —
-   um destaque por tela. */
+   venceram, quantas questões esperam revisão. */
 .nav-badge {
-  font-size: 11px; font-weight: 700; border-radius: 5px; padding: 2px 6px;
-  background: rgba(255,255,255,.10); color: var(--header-ink-soft);
+  font: var(--type-eyebrow);
+  color: var(--text-on-inverse-muted);
 }
 .nav-badge:empty { display: none; }
-.tab-btn.active .nav-badge { background: var(--brand-gold-on-navy); color: #0A1F38; }
+.tab-btn.active .nav-badge { color: var(--gold-600); }
 
 .sidebar-user {
-  margin-top: auto; border-top: 1px solid var(--header-border);
-  padding: 14px 10px 0; display: flex; align-items: center; gap: 10px;
+  flex: none;
+  padding: 10px var(--space-3); display: flex; align-items: center; gap: 10px;
+  background: rgba(255,255,255,.08); border: 1px solid var(--border-inverse);
+  border-radius: var(--radius-md);
+}
+
+/* ─── Alturas ─────────────────────────────────────────────────────────────
+   As dez abas são inegociáveis; a marca é ornamento. Então a marca encolhe e
+   depois sai, nessa ordem, conforme a tela baixa — e a lista de abas só passa
+   a rolar quando nem assim couber, o que exige uma janela bem menor que um
+   notebook comum.
+
+   Os cortes são por ALTURA da janela, não por largura: quem abre o app numa
+   janela de meia tela num monitor grande tem o mesmo problema de quem usa um
+   notebook de 768px, e largura não distingue os dois casos. */
+/* Nenhum degrau precisa mais cravar o TAMANHO do símbolo: ele já se resolve
+   sozinho pela sobra de altura. O que os degraus decidem é quando a marca
+   deixa de valer a pena — abaixo de ~50px ela vira um borrão e ocupa espaço
+   que a lista de abas usa melhor. */
+@media (max-height: 900px) {
+  .sidebar-marca { padding-top: var(--space-2); gap: var(--space-2); }
+}
+@media (max-height: 720px) {
+  .sidebar-marca-simbolo { display: none; }
+}
+@media (max-height: 680px) {
+  .sidebar-marca { display: none; }
+  .sidebar { padding: var(--space-4) var(--space-4); gap: var(--space-4); }
+}
+/* Último degrau, medido: sem ele, a 600px de viewport a lista rolava 9px e
+   comia exatamente "Perfil e conta" — a última aba da última seção, que é
+   onde mora o botão de sair. Aqui a barra é só de mouse (o celular usa a
+   barra inferior), então 30px de altura por item continua sendo alvo de
+   sobra. Com isto, cabe tudo até 560px. */
+@media (max-height: 660px) {
+  .nav-groups { gap: 10px; }
+  .tab-btn { padding: 6px 14px; }
+  .nav-group-title { padding: 0 14px 2px; }
 }
 
 /* Cabeçalho branco de cada página: título, subtítulo e os dois indicadores
    que valem em qualquer aba (ofensiva e sincronização). */
 .page-main { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+/* O cabeçalho tem o fundo DA PÁGINA, não o branco do cartão. Antes ele era uma
+   faixa branca sobre o cinza, o que criava uma segunda barra concorrendo com a
+   lateral. Agora ele é a página começando — a régua de baixo basta para
+   separá-lo do conteúdo, e o título ganha os 30px que o design pede.
+
+   align-items: flex-end alinha os chips pela BASE do título, não pelo centro:
+   com um título de 30px e chips de 28px, centralizar deixava os chips
+   flutuando alto. */
 .page-header {
-  min-height: 64px; background: var(--surface); border-bottom: 1px solid var(--border);
-  display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;
-  padding: 12px 28px; gap: 12px 16px;
+  background: var(--surface-page); border-bottom: 1px solid var(--border-subtle);
+  display: flex; align-items: flex-end; justify-content: space-between; flex-wrap: wrap;
+  padding: var(--space-6) var(--space-7) var(--space-5); gap: var(--space-3) var(--space-6);
   position: sticky; top: 0; z-index: 10;
 }
-.page-header-left { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
-.page-title { margin: 0; font-family: var(--font-brand); font-weight: 600; font-size: 1.1875rem; }
-.page-subtitle { font-size: 0.8125rem; color: var(--ink-faint); }
-.page-header-right { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.page-header-left { display: flex; align-items: center; gap: var(--space-3); min-width: 0; }
+.page-header-textos { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
+.page-header-meta { display: flex; align-items: center; gap: var(--space-2); flex-wrap: wrap; }
+.page-title {
+  margin: 0; font: var(--type-h2); letter-spacing: var(--tracking-tight);
+  color: var(--text-heading);
+}
+.page-subtitle { font: var(--type-small); color: var(--text-muted); }
+.page-header-right { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; flex: none; }
 
 /* Faixa de acesso, entre o cabeçalho e o conteúdo: os dias que faltam de teste
  * ou o aviso de assinatura vencendo.
@@ -680,9 +658,10 @@ h4 { font-size: 1.0625rem; }
  * assinante, inclusive o que acabou de renovar e não tem nada a ler aqui. */
 .faixa-acesso {
   display: flex; align-items: center; justify-content: space-between;
-  gap: 12px; flex-wrap: wrap;
-  background: var(--header-bg); color: var(--header-ink);
-  padding: 10px 28px; font-size: 0.875rem; font-weight: 600;
+  gap: var(--space-3); flex-wrap: wrap;
+  background: var(--gradient-night); color: var(--text-on-inverse);
+  padding: var(--space-3) var(--space-7);
+  font: var(--type-body-strong); font-size: var(--text-sm);
 }
 .faixa-acesso[hidden] { display: none !important; }
 /* Um botão por plano (90 dias, mensal), lado a lado — .faixa-acesso já é
@@ -696,7 +675,11 @@ h4 { font-size: 1.0625rem; }
   display: inline-flex; align-items: center; padding: 7px 14px; font-size: 0.8125rem;
 }
 
-.content { padding: 28px; }
+/* A régua de leitura do sistema: o conteúdo para de crescer em 1180px. Sem
+   isso, num monitor largo o enunciado de uma questão atravessava a tela
+   inteira e virava ilegível. O padding de baixo é maior que o de cima porque
+   a barra inferior do celular come o fim da página. */
+.content { padding: var(--space-6) var(--gutter-page) var(--space-9); max-width: var(--content-max); width: 100%; }
 .tab-panel { display: none; }
 /* Coluna com respiro fixo entre os blocos da tela. As margens verticais dos
    filhos diretos são zeradas para não somar com o gap. */
@@ -737,22 +720,26 @@ h4 { font-size: 1.0625rem; }
 .hint { color: var(--ink-soft); font-size: 0.875rem; margin-top: 0; }
 
 /* Navegação de dia: vive no cabeçalho da página, ao lado dos indicadores. */
-.day-nav { display: flex; align-items: center; gap: 8px; }
-.day-nav .btn { font-size: 0.8125rem; padding: 7px 12px; }
+.day-nav { display: flex; align-items: center; gap: var(--space-2); }
+.day-nav .btn { font-size: var(--text-sm); padding: 8px 16px; }
 /* "Dia anterior/Próximo dia" só faz sentido na aba Hoje, e é por isso que o
    atualizarCabecalho() faz nav.hidden = tab !== "hoje". Sem esta regra o
    `display: flex` acima vencia o [hidden] e os dois botões apareciam no
    cabeçalho de Obras, de Redação, de todas — navegando um dia que a tela nem
    estava mostrando. */
 .day-nav[hidden] { display: none !important; }
+/* Fase do plano. Fica QUIETO — cinza, não ouro. O cabeçalho já tem um chip de
+   ouro (a ofensiva), e dois dourados na mesma linha desfazem a regra de uma
+   ação em destaque por tela. A fase informa; ela não pede nada. */
 .phase-label {
-  display: inline-block; background: var(--warn-soft); color: var(--warn);
-  border-radius: 5px; padding: 4px 8px; font-size: 0.656rem; font-weight: 700;
-  text-transform: uppercase; letter-spacing: 0.06em; vertical-align: middle;
+  display: inline-flex; align-items: center;
+  background: var(--surface-sunken); color: var(--text-muted);
+  border-radius: var(--radius-pill); padding: 3px 10px;
+  font: var(--type-eyebrow); letter-spacing: var(--tracking-wide); text-transform: uppercase;
 }
 .phase-label:empty { display: none; }
 .friday-note {
-  background: var(--accent-soft); color: var(--ink); border-radius: 10px; padding: 10px 14px;
+  background: var(--accent-soft); color: var(--ink); border-radius: var(--radius-md); padding: 10px 14px;
   font-size: 0.88rem; margin-bottom: 16px;
 }
 
@@ -760,17 +747,17 @@ h4 { font-size: 1.0625rem; }
    O padding vive nas duas metades (cabeçalho e corpo), e não no cartão, pra
    que a régua do cabeçalho atravesse a largura inteira. */
 .lesson-card {
-  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
-  padding: 0; margin-bottom: 18px; box-shadow: none; overflow: hidden;
+  background: var(--surface-card); border: 1px solid var(--border-subtle); border-radius: var(--radius-card);
+  padding: 0; margin-bottom: var(--space-4); box-shadow: var(--shadow-sm); overflow: hidden;
 }
 .lesson-card:last-child { margin-bottom: 0; }
 
 .questoes-head {
-  padding: 18px 24px; border-bottom: 1px solid var(--border);
+  padding: var(--space-5) var(--space-6); border-bottom: 1px solid var(--border-subtle);
   display: flex; align-items: center; justify-content: space-between; gap: 12px 20px; flex-wrap: wrap;
 }
 .questoes-head-titulo { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; min-width: 0; }
-.questoes-head-titulo h3 { margin: 0; font-size: 1.0625rem; }
+.questoes-head-titulo h3 { margin: 0; font: var(--type-h3); color: var(--text-heading); }
 /* A frente em letra pequena: o nome grande é do quadrado navy acima. Aqui ela
    serve a quem chega rolando de baixo e não tem o quadrado à vista. */
 .questoes-frente { font-size: 0.78rem; color: var(--ink-faint); }
@@ -781,23 +768,25 @@ h4 { font-size: 1.0625rem; }
    sem o padding aqui ele encostaria o conteúdo na borda. */
 .lesson-card:not(:has(.questoes-head)) { padding: 24px 26px; }
 .lesson-eyebrow {
-  font: 700 0.625rem/1 var(--font-mono); text-transform: uppercase; letter-spacing: 0.1em;
-  color: var(--ink-faint); font-weight: 700; margin-bottom: 8px;
+  font: var(--type-eyebrow); text-transform: uppercase; letter-spacing: var(--tracking-caps);
+  color: var(--text-faint); margin-bottom: var(--space-2);
 }
-.lesson-card h3 { margin: 0 0 6px; font-size: 1.0625rem; }
-.lesson-desc { color: var(--ink-soft); margin: 0 0 14px; font-size: 0.875rem; line-height: 1.6; }
+.lesson-card h3 { margin: 0 0 6px; font: var(--type-h3); color: var(--text-heading); }
+.lesson-desc { color: var(--text-body); margin: 0 0 var(--space-3); font: var(--type-small); line-height: var(--leading-relaxed); }
 .video-links { margin-bottom: 6px; }
+/* "2ª revisão", "12 pra revisar" — pílula de ouro apagado ao lado do título. */
 .visit-badge {
-  display: inline-block; background: var(--warn-soft); color: var(--warn);
-  border-radius: 5px; padding: 4px 8px; font-size: 0.656rem; font-weight: 700;
-  letter-spacing: 0.06em; text-transform: uppercase; margin-left: 8px; vertical-align: middle;
+  display: inline-flex; align-items: center;
+  background: var(--gold-100); color: var(--gold-600);
+  border-radius: var(--radius-pill); padding: 4px 11px;
+  font: var(--type-label); margin-left: var(--space-2); vertical-align: middle;
 }
 
 /* Achado 1: teoria por frente (gatilhos e pegadinhas) */
 .theory-block { margin-bottom: 14px; }
 .theory-toggle { padding: 0; font-size: 0.92rem; }
 .theory-content {
-  margin-top: 10px; background: var(--bg); border: 1px solid var(--border); border-radius: 10px;
+  margin-top: 10px; background: var(--bg); border: 1px solid var(--border); border-radius: var(--radius-md);
   padding: 14px 16px;
 }
 .theory-resumo { margin: 0 0 12px; color: var(--ink-soft); font-size: 0.92rem; }
@@ -814,7 +803,7 @@ h4 { font-size: 1.0625rem; }
 .theory-subtema { margin-top: 16px; padding-top: 14px; border-top: 1px dashed var(--border); }
 .theory-subtema-header { font-weight: 700; font-size: 0.88rem; color: var(--ink); margin-bottom: 8px; }
 .theory-exemplo {
-  margin-top: 12px; background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+  margin-top: 12px; background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius-sm);
   padding: 12px 14px;
 }
 .theory-exemplo-enunciado { font-weight: 600; margin: 0 0 8px; font-size: 0.9rem; }
@@ -822,7 +811,7 @@ h4 { font-size: 1.0625rem; }
 
 /* Vídeo-aula específica de cada frente */
 .weekly-video-item {
-  border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; background: var(--bg);
+  border: 1px solid var(--border); border-radius: var(--radius-md); padding: 12px 14px; background: var(--bg);
   margin-bottom: 14px;
 }
 .weekly-video-tema { font-weight: 600; margin: 2px 0 8px; }
@@ -837,9 +826,9 @@ h4 { font-size: 1.0625rem; }
 }
 .score-label { font-size: 0.78rem; color: var(--ink-faint); white-space: nowrap; }
 .question {
-  border-top: 1px solid var(--border); padding: 24px 0;
+  border-top: 1px solid var(--border-subtle); padding: var(--space-6) 0;
 }
-.question:first-child { border-top: none; }
+.question:first-child { border-top: none; padding-top: var(--space-2); }
 /* O texto de apoio vira citação com barra à esquerda em vez de caixa cinza:
    ele É a leitura da questão, não um aviso do sistema. */
 .q-support {
@@ -860,7 +849,7 @@ h4 { font-size: 1.0625rem; }
    número onde ele precisa estar: antes da resposta, não depois. */
 .dissert-quantidade {
   display: inline-block; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.04em;
-  font-weight: 700; color: var(--accent); background: var(--accent-soft); border-radius: 999px;
+  font-weight: 700; color: var(--accent); background: var(--accent-soft); border-radius: var(--radius-pill);
   padding: 2px 9px; margin-left: 6px; vertical-align: middle;
 }
 .dissert-item + .dissert-item { margin-top: 22px; padding-top: 18px; border-top: 1px dashed var(--border); }
@@ -874,53 +863,73 @@ h4 { font-size: 1.0625rem; }
   padding-left: 10px; border-left: 3px solid var(--border);
 }
 .q-tag {
-  display: inline-block; text-transform: uppercase; font-size: 0.656rem; letter-spacing: 0.06em;
-  font-weight: 700; color: var(--ink-soft); background: var(--accent-soft); border-radius: 5px;
-  padding: 4px 8px; margin-bottom: 8px;
+  display: inline-flex; align-items: center; text-transform: uppercase;
+  font: var(--type-eyebrow); letter-spacing: var(--tracking-caps);
+  color: var(--text-muted); background: var(--surface-sunken); border-radius: var(--radius-pill);
+  padding: 4px 11px; margin-bottom: var(--space-2);
 }
-.q-enunciado { font-weight: 600; font-size: 0.97rem; line-height: 1.5; margin-bottom: 12px; white-space: pre-wrap; }
+/* O enunciado se separa das alternativas por TAMANHO (17px contra 15px), não
+   por peso. Negrito em enunciado longo — e os da FGV passam de dez linhas —
+   cansa a leitura; a diferença de corpo faz o mesmo trabalho sem pesar. */
+.q-enunciado {
+  font: var(--weight-medium) var(--text-md)/1.55 var(--font-sans);
+  color: var(--text-heading);
+  margin-bottom: var(--space-4); white-space: pre-wrap;
+}
 .q-visual {
-  margin: 0 0 10px; padding: 12px 14px; background: var(--bg); border-radius: 10px;
+  margin: 0 0 10px; padding: 12px 14px; background: var(--bg); border-radius: var(--radius-md);
   border: 1px solid var(--border);
 }
-.q-visual img { display: block; max-width: 100%; height: auto; border-radius: 6px; margin-bottom: 8px; }
+.q-visual img { display: block; max-width: 100%; height: auto; border-radius: var(--radius-xs); margin-bottom: 8px; }
 .q-visual figcaption { font-size: 0.85rem; color: var(--ink-soft); line-height: 1.45; }
 /* Sem o arquivo de imagem, a descrição É a fonte — some o ar de legenda
    secundária e vira o próprio texto de apoio, pra questão seguir respondível. */
 .q-visual-sem-imagem figcaption { font-size: 0.92rem; color: var(--ink); }
 .q-visual-tipo {
   display: inline-block; text-transform: uppercase; font-size: 0.66rem; letter-spacing: 0.04em;
-  font-weight: 700; color: var(--accent); background: var(--accent-soft); border-radius: 999px;
+  font-weight: 700; color: var(--accent); background: var(--accent-soft); border-radius: var(--radius-pill);
   padding: 2px 8px; margin-right: 8px; vertical-align: middle;
 }
 .q-difficulty {
-  display: inline-block; font-size: 0.656rem; font-weight: 700; text-transform: uppercase;
-  letter-spacing: 0.06em; border-radius: 5px; padding: 3px 7px; vertical-align: middle;
-  margin-left: 4px;
+  display: inline-flex; align-items: center; font: var(--type-eyebrow);
+  text-transform: uppercase; letter-spacing: var(--tracking-wide);
+  border-radius: var(--radius-pill); padding: 3px 10px; vertical-align: middle;
+  margin-left: var(--space-2);
 }
-.q-difficulty-media { background: var(--warn-soft); color: var(--warn); }
+.q-difficulty-media { background: var(--gold-100); color: var(--gold-600); }
 .q-difficulty-dificil { background: var(--bad-soft); color: var(--bad); }
 .simulado-card { border-color: var(--warn-border); }
 /* As alternativas recuam sob o enunciado: o recuo é o que agrupa visualmente
    pergunta e respostas quando várias questões dividem a mesma tela. */
-.q-alts { display: flex; flex-direction: column; gap: 8px; padding-left: 32px; }
+/* Sem o recuo de 32px que existia antes. O que agrupa pergunta e respostas é o
+   cartão e a régua entre questões; o recuo só roubava largura de leitura, e no
+   celular ele custava caro num enunciado que já é apertado. */
+.q-alts { display: flex; flex-direction: column; gap: var(--space-2); }
 .q-alt {
-  display: flex; gap: 11px; align-items: flex-start; border: 1px solid var(--border-strong);
-  border-radius: var(--radius-sm); padding: 12px 14px; cursor: pointer; background: var(--surface);
-  font-size: 0.9rem; color: var(--ink);
+  display: flex; gap: var(--space-3); align-items: flex-start;
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-sm); padding: 14px 16px; cursor: pointer; background: var(--surface-card);
+  font: var(--type-body); color: var(--text-body);
+  transition: var(--transition-control);
 }
 /* Só a questão ainda aberta reage ao hover — depois de verificada, as bordas
    pertencem ao gabarito (.correct/.incorrect) e não devem piscar no mouse. */
-.question:not(.is-answered) .q-alt:hover { border-color: var(--accent); background: var(--surface-hover); }
-.q-alt input { margin-top: 3px; }
-.q-alt.correct { background: var(--good-soft); border-color: var(--good); }
-.q-alt.incorrect { background: var(--bad-soft); border-color: var(--bad); }
+.question:not(.is-answered) .q-alt:hover { border-color: var(--border-strong); background: var(--surface-sunken); }
+/* accent-color pinta o radio nativo com o navy da marca sem trocá-lo por uma
+   bolinha desenhada — mantém navegação por teclado e leitor de tela intactos,
+   que é o motivo de o controle nunca ter virado <button> aqui. */
+.q-alt input { margin-top: 3px; accent-color: var(--navy-800); flex: none; }
+.q-alt strong { color: var(--text-faint); font-weight: var(--weight-semibold); }
+.q-alt.correct { background: var(--good-soft); border-color: var(--success-500); color: var(--text-heading); }
+.q-alt.correct strong { color: var(--success-text); }
+.q-alt.incorrect { background: var(--bad-soft); border-color: var(--danger-500); }
+.q-alt.incorrect strong { color: var(--bad); }
 .question.is-answered .q-alt { cursor: default; }
 
 /* Confirmação em dois passos: marcar a alternativa não responde a questão —
    só o "Verificar resposta" grava e revela o gabarito. Um toque acidental
    (ou um esbarrão no celular) passa a ser reversível. */
-.q-confirm { display: flex; align-items: center; gap: 14px; margin-top: 14px; padding-left: 32px; flex-wrap: wrap; }
+.q-confirm { display: flex; align-items: center; gap: var(--space-3); margin-top: var(--space-4); flex-wrap: wrap; }
 /* O lockQuestion() faz confirmRow.hidden = true depois de verificar, mas o
    `display: flex` acima é declaração de autor e vence o [hidden] da folha do
    navegador — então a linha de confirmação continuava na tela DEPOIS de
@@ -928,28 +937,50 @@ h4 { font-size: 1.0625rem; }
    até verificar." que já não era verdade, logo abaixo do gabarito revelado.
    Mesma armadilha que .tab-btn[hidden] resolve mais abaixo. */
 .q-confirm[hidden] { display: none !important; }
+/* Navy cheio, não ouro. O ouro da tela já está no "Comece por aqui" lá em
+   cima, e há uma dessas por questão — dez botões de ouro numa tela desfariam
+   a regra inteira. */
 .q-verify {
-  background: var(--accent); color: var(--accent-ink); border-color: var(--accent);
-  padding: 11px 20px; font-size: 0.875rem;
+  background: var(--action-secondary); color: var(--action-secondary-text);
+  border-color: transparent; box-shadow: var(--shadow-sm);
+  padding: 11px 22px; font-size: var(--text-sm);
 }
+.q-verify:hover:not(:disabled) { background: var(--action-secondary-hover); }
 /* Desabilitado é um estado próprio, não o botão principal com opacidade: em
    cinza cheio ele deixa de parecer "quase clicável" e passa a dizer que falta
    escolher uma alternativa. */
 .q-verify:disabled {
-  opacity: 1; cursor: default;
-  background: var(--accent-soft); color: var(--ink-fainter); border-color: var(--border-strong);
+  opacity: 1; cursor: default; box-shadow: none;
+  background: var(--surface-sunken); color: var(--text-faint); border-color: transparent;
 }
-.q-verify-hint { font-size: 0.8125rem; color: var(--ink-faint); }
-/* O comentário do gabarito é citação, não caixa: a barra à esquerda na cor do
-   resultado diz se acertou sem pintar o parágrafo inteiro. */
+.q-verify-hint { font: var(--type-small); color: var(--text-faint); }
+
+/* O gabarito é uma caixa fechada, não mais uma citação com barra à esquerda:
+   ela precisa ler como um bloco separado do enunciado, e o rótulo "Correta" /
+   "Você errou" carrega a cor — o parágrafo fica em texto normal, porque
+   explicação de gabarito é para LER, e texto colorido em quatro linhas cansa. */
 .q-feedback {
-  margin: 10px 0 0 32px; padding: 12px 16px; border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
-  font-size: 0.845rem; line-height: 1.6;
+  margin: var(--space-3) 0 0; padding: var(--space-4);
+  border-radius: var(--radius-sm);
+  display: flex; gap: var(--space-4); align-items: baseline;
 }
-.q-feedback.correct { background: var(--good-soft); color: #155E56; border-left: 2px solid var(--good); }
-.q-feedback.incorrect { background: var(--bad-soft); color: var(--bad); border-left: 2px solid var(--bad); }
-@media (prefers-color-scheme: dark) {
-  .q-feedback.correct { color: var(--good); }
+.q-feedback[hidden] { display: none !important; }
+.q-feedback.correct { background: var(--good-soft); }
+.q-feedback.incorrect { background: var(--bad-soft); }
+.q-feedback-rotulo {
+  font: var(--type-label); text-transform: uppercase; letter-spacing: var(--tracking-wide);
+  flex: none; white-space: nowrap;
+}
+.q-feedback.correct .q-feedback-rotulo { color: var(--success-text); }
+.q-feedback.incorrect .q-feedback-rotulo { color: var(--bad); }
+.q-feedback-texto {
+  margin: 0; font: var(--type-small); line-height: var(--leading-relaxed);
+  color: var(--text-body); min-width: 0;
+}
+/* Num celular o rótulo e a explicação lado a lado deixam a explicação com uma
+   régua de leitura de quinze caracteres. Empilham. */
+@media (max-width: 620px) {
+  .q-feedback { flex-direction: column; gap: var(--space-2); }
 }
 
 /* Achado 8: transparência do motor adaptativo (lista de foco pós-simulado) */
@@ -992,21 +1023,69 @@ h4 { font-size: 1.0625rem; }
    vivem no bloco das telas internas, no fim do arquivo. */
 .flashcard-summary-card { padding: 20px 22px; }
 
-/* "Capa" ilustrativa original (ícone + tipografia) — ver nota em app.js
-   sobre por que não usamos imagens reais de capa/pintura/álbum aqui. */
-.obra-cover.cat-ensaio { background: var(--cat-ensaio-soft); color: var(--cat-ensaio); }
-.obra-cover.cat-literatura { background: var(--cat-literatura-soft); color: var(--cat-literatura); }
-.obra-cover.cat-artes { background: var(--cat-artes-soft); color: var(--cat-artes); }
-.obra-cover.cat-cinema { background: var(--cat-cinema-soft); color: var(--cat-cinema); }
-.obra-cover.cat-musica { background: var(--cat-musica-soft); color: var(--cat-musica); }
-.obra-cover-icon { width: 38px; height: 38px; opacity: 0.9; flex-shrink: 0; }
-.obra-cover-icon svg { width: 100%; height: 100%; }
-.obra-cover-title {
-  font-family: ui-serif, Georgia, "Iowan Old Style", "Palatino Linotype", serif;
-  font-weight: 600; font-size: 1.02rem; line-height: 1.28;
-  display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden;
+/* ── A capa tipográfica ───────────────────────────────────────────────────
+   Vale para as 42 obras sem imagem (ver a nota em app.js). Antes era um tom
+   pastel com um ícone de contorno no meio e o título pequeno embaixo — a
+   forma universal de "aqui deveria ter uma imagem". Agora é o contrário: a
+   COR CHEIA da categoria ocupa a capa e o TÍTULO é o objeto. Sem ícone, sem
+   ornamento, sem gradiente.
+
+   A cor de categoria virou fundo em vez de tinta, e o texto ficou branco.
+   Os cinco tons já eram saturados o bastante para carregar branco acima de
+   4,5:1 — foi por isso que deu para trocar o papel deles sem inventar
+   paleta nova. */
+.obra-cover.cat-ensaio { background: var(--capa-ensaio); }
+.obra-cover.cat-literatura { background: var(--capa-literatura); }
+.obra-cover.cat-artes { background: var(--capa-artes); }
+.obra-cover.cat-cinema { background: var(--capa-cinema); }
+.obra-cover.cat-musica { background: var(--capa-musica); }
+
+.obra-cover {
+  color: #fff;
+  align-items: stretch; text-align: left; gap: 0;
+  padding: var(--space-5);
 }
-.obra-cover-autor { font-size: 0.8rem; font-weight: 600; opacity: 0.85; }
+/* Onde o bloco de texto se apoia. Três variantes, escolhidas pelo hash do id:
+   numa grade de quatro colunas, capas todas com o título no mesmo lugar
+   viram régua e a grade fica monótona. */
+.obra-cover.capa-alta { justify-content: flex-start; }
+.obra-cover.capa-centro { justify-content: center; }
+.obra-cover.capa-baixa { justify-content: flex-end; }
+
+/* Opacidade 0.93, e o número é medido, não escolhido a olho: o rótulo tem
+   11px e o autor 12px, então os dois precisam de 4,5:1. Abaixo de 0.93 o
+   texto reprova sobre o marrom de Literatura, o laranja de Artes visuais e o
+   ciano de Música — os três fundos mais claros dos cinco. A régua fica em
+   0.28 porque linha não é texto e não tem limiar de contraste. */
+.obra-capa-cat {
+  font: var(--type-eyebrow); letter-spacing: var(--tracking-caps); text-transform: uppercase;
+  color: rgba(255,255,255,.93);
+  padding-bottom: var(--space-2); margin-bottom: var(--space-3);
+  border-bottom: 1px solid rgba(255,255,255,.28);
+}
+/* A capa-centro e a capa-baixa empurram a categoria para o topo, presa; só o
+   título e o autor se movem. Sem isso o rótulo flutuaria no meio da capa. */
+.obra-cover.capa-centro .obra-capa-cat,
+.obra-cover.capa-baixa .obra-capa-cat { position: absolute; top: var(--space-5); left: var(--space-5); right: var(--space-5); }
+
+.obra-capa-titulo {
+  font-family: var(--font-display); font-weight: var(--weight-semibold);
+  line-height: 1.12; letter-spacing: var(--tracking-tight);
+  overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical;
+}
+/* Corpo pelo tamanho do título, para o bloco nunca estourar a capa nem sobrar
+   pequeno numa capa vazia. O line-clamp acompanha: quanto maior a letra,
+   menos linhas cabem. */
+.obra-cover.capa-xg .obra-capa-titulo { font-size: 30px; -webkit-line-clamp: 3; }
+.obra-cover.capa-g  .obra-capa-titulo { font-size: 24px; -webkit-line-clamp: 4; }
+.obra-cover.capa-m  .obra-capa-titulo { font-size: 19px; -webkit-line-clamp: 5; }
+.obra-cover.capa-p  .obra-capa-titulo { font-size: 16px; -webkit-line-clamp: 6; }
+
+.obra-capa-autor {
+  margin-top: var(--space-3);
+  font: var(--type-small); font-size: var(--text-xs);
+  color: rgba(255,255,255,.93);
+}
 .obra-detail { margin: 10px 0; padding-top: 10px; border-top: 1px solid var(--border); font-size: 0.9rem; }
 .obra-pontos-chave { margin: 8px 0 0; padding-left: 20px; font-size: 0.9rem; color: var(--ink-soft); }
 .obra-pontos-chave li { margin-bottom: 4px; }
@@ -1019,7 +1098,7 @@ h4 { font-size: 1.0625rem; }
 /* Dissertativas */
 .dissert-card { border-color: var(--accent); }
 .dissert-counter {
-  background: var(--bg); border-radius: 10px; padding: 10px 14px; margin: 4px 0 14px;
+  background: var(--bg); border-radius: var(--radius-md); padding: 10px 14px; margin: 4px 0 14px;
   font-size: 0.9rem;
 }
 .dissert-actions { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 14px; }
@@ -1027,7 +1106,7 @@ h4 { font-size: 1.0625rem; }
 .area-filter-label { font-size: 0.78rem; color: var(--ink-faint); margin-right: 4px; }
 .area-pill {
   font: inherit; font-size: 0.8125rem; font-weight: 600; border: 1px solid var(--border-strong);
-  background: var(--surface); color: var(--ink-soft); border-radius: 99px; padding: 6px 14px;
+  background: var(--surface); color: var(--ink-soft); border-radius: var(--radius-pill); padding: 6px 14px;
   cursor: pointer;
 }
 .area-pill:hover { border-color: var(--accent); }
@@ -1035,13 +1114,14 @@ h4 { font-size: 1.0625rem; }
 .dissert-questions { display: flex; flex-direction: column; gap: 22px; }
 .dissert-question { border-top: 1px solid var(--border); padding-top: 16px; }
 .dissert-question:first-child { border-top: none; padding-top: 0; }
+/* Só o específico: fundo, traço, raio e foco vêm da regra comum dos campos. */
 .dissert-textarea {
-  width: 100%; font: inherit; border: 1px solid var(--border); border-radius: 10px;
-  padding: 12px; resize: vertical; background: var(--surface); color: var(--ink); margin-bottom: 8px;
+  width: 100%; padding: var(--space-3) var(--space-4); resize: vertical; margin-bottom: var(--space-2);
+  line-height: var(--leading-relaxed);
 }
 .dissert-toggle-gabarito { margin-bottom: 4px; }
 .dissert-gabarito-wrap {
-  background: var(--good-soft); border-radius: 10px; padding: 12px 14px; margin-top: 8px;
+  background: var(--good-soft); border-radius: var(--radius-md); padding: 12px 14px; margin-top: 8px;
   font-size: 0.92rem; color: var(--ink);
 }
 .dissert-gabarito-counter { font-weight: 700; color: var(--good); margin-bottom: 6px; }
@@ -1061,13 +1141,13 @@ h4 { font-size: 1.0625rem; }
 .ia-acoes { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin: 8px 0 4px; }
 .ia-cota { margin: 0; }
 .ia-erro-msg {
-  margin: 6px 0 0; padding: 8px 10px; border-radius: 8px; font-size: 0.9rem;
+  margin: 6px 0 0; padding: 8px 10px; border-radius: var(--radius-sm); font-size: 0.9rem;
   background: var(--bad-soft); border: 1px solid var(--bad-border); color: var(--bad);
 }
 
 .ia-resumo {
   background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--border-strong);
-  border-radius: 8px; padding: 10px 12px; margin: 8px 0 12px;
+  border-radius: var(--radius-sm); padding: 10px 12px; margin: 8px 0 12px;
 }
 .ia-resumo[data-faixa="competitiva"] { border-left-color: var(--good); }
 .ia-resumo[data-faixa="precisa_ajuste"] { border-left-color: var(--warn); }
@@ -1086,7 +1166,7 @@ h4 { font-size: 1.0625rem; }
 
 .dissert-gabarito li.com-ia { margin-bottom: 12px; }
 .ia-veredito {
-  margin: 6px 0 0 26px; padding: 8px 10px; border-radius: 8px;
+  margin: 6px 0 0 26px; padding: 8px 10px; border-radius: var(--radius-sm);
   background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--border-strong);
   font-size: 0.9rem;
 }
@@ -1095,7 +1175,7 @@ h4 { font-size: 1.0625rem; }
 .ia-veredito[data-veredito="nao_cumprido"] { border-left-color: var(--bad); }
 .ia-selo {
   display: inline-block; font-size: 0.76rem; font-weight: 700; text-transform: uppercase;
-  letter-spacing: 0.04em; padding: 2px 7px; border-radius: 999px; margin-right: 6px;
+  letter-spacing: 0.04em; padding: 2px 7px; border-radius: var(--radius-pill); margin-right: 6px;
 }
 .ia-veredito[data-veredito="cumprido"] .ia-selo {
   background: var(--good-soft); color: var(--good); border: 1px solid var(--good-border);
@@ -1139,7 +1219,7 @@ h4 { font-size: 1.0625rem; }
 .btn-google.is-loading .google-icon { visibility: hidden; }
 
 .login-error {
-  margin: 10px 0 0; padding: 10px 12px; border-radius: 10px;
+  margin: 10px 0 0; padding: 10px 12px; border-radius: var(--radius-md);
   background: var(--bad-soft); color: var(--bad); font-size: 0.92rem; text-align: left;
 }
 .login-note { margin: 14px 0 0; font-size: 0.85rem; color: var(--ink-soft); }
@@ -1164,32 +1244,41 @@ h4 { font-size: 1.0625rem; }
 }
 .user-trilha { font-size: 0.6875rem; color: #7A8DA4; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
-/* Os dois indicadores do cabeçalho branco. Ambos são contorno e não
-   preenchimento: informam sem pedir clique. */
+/* Os dois indicadores do cabeçalho. Pílulas de fundo tingido, sem contorno:
+   informam sem parecer clicáveis — um botão de contorno ali ao lado dos botões
+   de navegação de dia era exatamente a confusão que existia antes. */
 .sync-status {
-  font-size: 0.75rem; font-weight: 500; padding: 7px 11px; border-radius: 7px;
-  white-space: nowrap; border: 1px solid var(--border); color: var(--ink-faint); background: var(--surface);
+  display: inline-flex; align-items: center;
+  font: var(--type-label); padding: 6px 12px; border-radius: var(--radius-pill);
+  white-space: nowrap; color: var(--text-muted); background: var(--surface-sunken);
 }
-.sync-status[data-state="ok"] { color: var(--good); border-color: var(--good-border); background: var(--good-soft); }
-.sync-status[data-state="saving"] { color: var(--ink-faint); }
-.sync-status[data-state="error"] { color: var(--bad); border-color: var(--bad-border); background: var(--bad-soft); }
+/* Sem texto não há o que dizer, e uma pílula cinza vazia ao lado da ofensiva
+   parecia um chip quebrado. */
+.sync-status:empty { display: none; }
+.sync-status[data-state="ok"] { color: var(--success-text); background: var(--success-100); }
+.sync-status[data-state="saving"] { color: var(--text-muted); background: var(--surface-sunken); }
+.sync-status[data-state="error"] { color: var(--bad); background: var(--bad-soft); }
 
-/* Ofensiva (streak) — chip no cabeçalho da página */
+/* Ofensiva (streak). É o ÚNICO ouro do cabeçalho, e de propósito: numa tela de
+   estudo de 90 dias, a sequência é a conquista que merece a cor da marca. */
 .streak-chip {
   display: inline-flex; align-items: center; gap: 6px;
-  font-size: 0.8125rem; font-weight: 600; color: var(--ink);
-  border: 1px solid var(--border); border-radius: 7px; padding: 7px 11px;
+  font: var(--type-label); padding: 6px 12px; border-radius: var(--radius-pill);
+  color: var(--gold-600); background: var(--gold-100);
   cursor: default; user-select: none; white-space: nowrap;
 }
 .streak-flame { font-size: 0.875rem; line-height: 1; }
 
-/* Sem ofensiva ativa: chama menos atenção */
-.streak-chip[data-state="off"] { color: var(--ink-fainter); }
-.streak-chip[data-state="off"] .streak-flame { filter: grayscale(1); opacity: 0.6; }
+/* Sem ofensiva ativa: perde a cor da marca junto com a conquista. */
+.streak-chip[data-state="off"] { color: var(--text-faint); background: var(--surface-sunken); }
+.streak-chip[data-state="off"] .streak-flame { filter: grayscale(1); opacity: .6; }
 
-/* Ofensiva em risco: existe, mas ainda não estudou hoje. É o único dos três
-   estados que pede ação, então é o único que ganha o creme do ouro. */
-.streak-chip[data-state="risco"] { background: var(--warn-soft); border-color: var(--warn-border); color: var(--warn); }
+/* Em risco: a sequência existe, mas hoje ainda não foi estudado. É o único
+   estado que pede ação, então ganha o contorno que os outros não têm. */
+.streak-chip[data-state="risco"] {
+  color: var(--gold-600); background: var(--gold-100);
+  box-shadow: inset 0 0 0 1px var(--gold-200);
+}
 
 /* Reportar problema numa questão (v2) — discreto: estudar vem primeiro */
 .q-report { margin-top: 8px; }
@@ -1202,12 +1291,12 @@ h4 { font-size: 1.0625rem; }
 
 .q-report-form {
   margin-top: 8px; padding: 12px; border: 1px solid var(--border);
-  border-radius: 10px; background: var(--bg);
+  border-radius: var(--radius-md); background: var(--bg);
 }
 .q-report-label { display: block; font-size: 0.82rem; font-weight: 600; margin-bottom: 6px; }
 .q-report-tipo, .q-report-comentario {
   width: 100%; padding: 8px 10px; border: 1px solid var(--border);
-  border-radius: 8px; font: inherit; font-size: 0.88rem;
+  border-radius: var(--radius-sm); font: inherit; font-size: 0.88rem;
   background: var(--surface); color: var(--ink); margin-bottom: 8px;
 }
 .q-report-comentario { resize: vertical; }
@@ -1221,9 +1310,29 @@ h4 { font-size: 1.0625rem; }
 /* Corrigir a data de início do plano (v2) */
 .corrigir-inicio-card { padding: 20px; margin-bottom: 18px; }
 .corrigir-inicio-card h3 { margin: 0 0 6px; }
-.corrigir-inicio-input {
-  padding: 9px 12px; border: 1px solid var(--border); border-radius: 10px;
-  font: inherit; background: var(--surface); color: var(--ink);
+/* ---------- Controles de formulário ----------
+   O app tem três campos ao todo (data de início, texto da dissertativa, busca)
+   e cada um tinha o seu próprio desenho. Passam a ser um só: traço de controle
+   (--border-strong, não a régua fina que separa coisas), raio de controle e o
+   MESMO anel de foco dourado do resto do sistema. */
+.corrigir-inicio-input,
+.dissert-textarea,
+.busca-input {
+  font: var(--type-body);
+  color: var(--text-heading);
+  background: var(--surface-card);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-control);
+  transition: var(--transition-control);
+}
+.corrigir-inicio-input { padding: 10px 14px; }
+.corrigir-inicio-input:focus-visible,
+.dissert-textarea:focus-visible,
+.busca-input:focus-visible,
+.corrigir-inicio-input:focus,
+.dissert-textarea:focus,
+.busca-input:focus {
+  outline: none; border-color: var(--gold-400); box-shadow: var(--ring-focus);
 }
 
 /* ---------- Escolha de trilha (Direito / Medicina) ---------- */
@@ -1316,7 +1425,7 @@ h4 { font-size: 1.0625rem; }
 .grade-celulas > * { background: var(--surface); }
 
 /* Cartão com cabeçalho e linhas — tabela, lista de resultados, fila. */
-.card-lista { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; }
+.card-lista { background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow-sm); overflow: hidden; }
 .card-lista-head {
   padding: 18px 24px; border-bottom: 1px solid var(--border);
   display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap;
@@ -1326,14 +1435,14 @@ h4 { font-size: 1.0625rem; }
 .card-lista-linha:last-child { border-bottom: none; }
 
 /* Medidor fino: 3 de 12 respondidas, nota por critério, acerto por frente. */
-.medidor { height: 5px; border-radius: 99px; background: var(--accent-soft); overflow: hidden; }
-.medidor > i { display: block; height: 100%; border-radius: 99px; background: var(--accent); }
+.medidor { height: 5px; border-radius: var(--radius-pill); background: var(--accent-soft); overflow: hidden; }
+.medidor > i { display: block; height: 100%; border-radius: var(--radius-pill); background: var(--accent); }
 .medidor-grosso { height: 6px; }
 
 /* Selos de estado. Verde e vermelho só aparecem aqui e no gabarito. */
 .selo {
   display: inline-block; font-size: 0.656rem; font-weight: 700; letter-spacing: 0.06em;
-  text-transform: uppercase; border-radius: 5px; padding: 4px 8px; vertical-align: middle;
+  text-transform: uppercase; border-radius: var(--radius-xs); padding: 4px 8px; vertical-align: middle;
 }
 .selo-ok { color: var(--good); background: var(--good-soft); }
 .selo-revisao { color: var(--warn); background: var(--warn-soft); }
@@ -1411,12 +1520,12 @@ h4 { font-size: 1.0625rem; }
 .foco-aula-link:hover { border-color: #fff; background: rgba(255,255,255,.06); }
 .foco-play {
   display: inline-flex; align-items: center; justify-content: center;
-  width: 22px; height: 16px; border-radius: 4px;
+  width: 22px; height: 16px; border-radius: var(--radius-xs);
   background: var(--brand-gold-on-navy); color: #0A1F38; font-size: 8px; flex: none;
 }
 
 .tarefas-card {
-  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow-sm);
   padding: 20px 22px; display: flex; flex-direction: column; gap: 14px;
 }
 .tarefas-head { display: flex; align-items: baseline; justify-content: space-between; }
@@ -1432,16 +1541,105 @@ h4 { font-size: 1.0625rem; }
 .tarefas-lista li.task-done { color: var(--ink-soft); }
 .tarefas-lista li.task-done .tarefa-marca { border-color: var(--good); background: var(--good); }
 
-.metricas { grid-template-columns: repeat(4, 1fr); }
-.metrica { padding: 18px 20px; display: flex; flex-direction: column; gap: 5px; }
-.metrica-label {
-  font-size: 0.719rem; letter-spacing: 0.04em; text-transform: uppercase;
-  color: var(--ink-faint); font-weight: 700;
+/* ── O pulso do plano ──────────────────────────────────────────────────────
+   Substitui a fileira de quatro células iguais (ver o comentário longo em
+   renderMetricas, no app.js). Um cartão só, com três coisas de formas
+   diferentes: a fita larga em cima, e embaixo o número grande ao lado da
+   linha de ação. Formas diferentes é o que diz que os pesos são diferentes. */
+.pulso {
+  background: var(--surface-card); border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-card); box-shadow: var(--shadow-sm);
+  overflow: hidden;
 }
-.metrica-valor { font-family: var(--font-brand); font-size: 1.625rem; font-weight: 600; color: var(--ink); }
-.metrica-nota { font-size: 0.78rem; color: var(--ink-faint); }
-.metrica-nota-boa { color: var(--good); }
-.metrica-nota-alerta { color: var(--alert); }
+.pulso-rotulo {
+  font: var(--type-eyebrow); letter-spacing: var(--tracking-caps); text-transform: uppercase;
+  color: var(--text-faint);
+}
+
+.pulso-plano { padding: var(--space-5) var(--space-6) var(--space-4); }
+.pulso-linha {
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: var(--space-4); flex-wrap: wrap; margin-bottom: var(--space-3);
+}
+.pulso-plano-num { font: var(--type-small); color: var(--text-muted); }
+.pulso-plano-num strong { color: var(--text-heading); font-weight: var(--weight-semibold); }
+
+/* A fita: noventa segmentos numa linha. É o objeto mais gráfico do app e o
+   único lugar onde o plano inteiro cabe num olhar — dá pra ver onde caem os
+   simulados e quanto já passou sem ler número nenhum.
+
+   grid com 1fr por dia, e não flex: assim os segmentos dividem a largura em
+   partes exatamente iguais em qualquer tela, sem sobra no fim da linha. */
+.fita-90 {
+  display: grid; grid-template-columns: repeat(90, 1fr); gap: 2px;
+  height: 26px; align-items: stretch;
+}
+.fita-dia { border-radius: 2px; background: var(--paper-200); transition: background-color var(--duration-base) var(--ease-standard); }
+.fita-feito { background: var(--navy-800); }
+.fita-parcial { background: var(--gold-300); }
+.fita-simulado { background: var(--blue-200); }
+.fita-aberto { background: var(--paper-200); }
+/* O dia de hoje é o único segmento com anel: numa fita de noventa, cor
+   sozinha não basta para achar onde você está. */
+.fita-hoje {
+  background: var(--gold-400);
+  box-shadow: 0 0 0 2px var(--surface-card), 0 0 0 3.5px var(--gold-400);
+  position: relative; z-index: 1;
+}
+/* No escuro só os dois estados PINTADOS mudam. O fundo do segmento vazio já se
+   resolve sozinho, porque --paper-200 vira branco a 14% pelo token.
+
+   Não redefina .fita-dia aqui: ela está em todos os segmentos e, com a mesma
+   especificidade de .fita-feito, a ordem de escrita decide — foi exatamente
+   assim que o dia de hoje e os onze dias concluídos sumiram no escuro,
+   deixando só o anel dourado boiando sobre cinza. */
+@media (prefers-color-scheme: dark) {
+  .fita-feito { background: var(--blue-400); }
+  .fita-simulado { background: rgba(63,111,208,.42); }
+}
+
+.pulso-rodape {
+  display: grid; grid-template-columns: minmax(0, 200px) minmax(0, 1fr);
+  border-top: 1px solid var(--border-subtle);
+}
+.pulso-acerto {
+  display: flex; flex-direction: column; gap: 3px;
+  padding: var(--space-4) var(--space-6);
+  border-right: 1px solid var(--border-subtle);
+}
+.pulso-valor {
+  font-family: var(--font-display); font-weight: var(--weight-semibold);
+  font-size: var(--text-2xl); line-height: 1.1; color: var(--text-heading);
+  font-variant-numeric: tabular-nums;
+}
+.pulso-nota { font: var(--type-small); font-size: var(--text-xs); color: var(--text-faint); }
+.pulso-nota-boa { color: var(--success-text); }
+.pulso-nota-alerta { color: var(--alert); }
+
+/* A frente mais fraca é a única parte do painel que é AÇÃO — leva ao SOS do
+   tema. Por isso é <button> e tem estado de hover; as outras duas só informam. */
+.pulso-fraca {
+  display: flex; flex-direction: column; gap: 3px; align-items: flex-start; text-align: left;
+  padding: var(--space-4) var(--space-6);
+  background: transparent; border: none; width: 100%;
+  font-family: inherit; cursor: pointer;
+  transition: var(--transition-control);
+}
+.pulso-fraca:hover { background: var(--surface-sunken); }
+.pulso-fraca-nome { font: var(--type-body-strong); color: var(--text-heading); }
+.pulso-fraca-cta { font: var(--type-small); font-size: var(--text-xs); color: var(--text-accent); }
+.pulso-fraca-vazia { cursor: default; }
+.pulso-fraca-vazia:hover { background: transparent; }
+.pulso-fraca-vazia .pulso-fraca-nome { color: var(--text-muted); }
+.pulso-fraca-vazia .pulso-fraca-cta { color: var(--text-faint); }
+
+@media (max-width: 700px) {
+  .pulso-rodape { grid-template-columns: 1fr; }
+  .pulso-acerto { border-right: none; border-bottom: 1px solid var(--border-subtle); }
+  /* Noventa segmentos de 2px de gap não cabem em 360px: o gap vira 1px e a
+     fita afina, mas continua legível como forma. */
+  .fita-90 { gap: 1px; height: 20px; }
+}
 
 .friday-note {
   background: var(--warn-soft); color: var(--warn); border-left: 3px solid var(--warn-border);
@@ -1453,52 +1651,75 @@ h4 { font-size: 1.0625rem; }
 /* A grade virou treze linhas de sete dias porque a semana é a unidade real do
    plano: o domingo é sempre simulado, e numa grade de dez colunas o domingo
    caía numa coluna diferente a cada linha. */
+/* Os noventa dias são o objeto mais gráfico do app, e o desenho antigo os
+   tratava como uma tabela: contorno em toda célula, fundo cinza, número
+   apagado. Contorno em 90 quadrados é 90 linhas competindo com os dados.
+   Agora a cor É o estado, e não há contorno nenhum — a mesma gramática da
+   fita da aba Hoje, para as duas telas nunca contarem histórias diferentes. */
 .cal-card {
-  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
-  padding: 24px 26px; display: flex; flex-direction: column; gap: 18px;
+  background: var(--surface-card); border: 1px solid var(--border-subtle); border-radius: var(--radius-card);
+  box-shadow: var(--shadow-sm);
+  padding: var(--space-6); display: flex; flex-direction: column; gap: var(--space-5);
 }
-.cal-card-head { display: flex; align-items: baseline; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
-.cal-card-head h3 { margin: 0; font-size: 1.0625rem; }
-.calendar-grid { display: flex; flex-direction: column; gap: 6px; margin: 0; }
-.cal-semana { display: flex; align-items: center; gap: 14px; }
-.cal-semana-rotulo { font: 700 0.625rem/1 var(--font-mono); color: var(--ink-fainter); width: 56px; flex: none; }
-.cal-semana-dias { flex: 1; display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; }
+.cal-card-head { display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: var(--space-4); }
+.cal-card-head h3 { margin: 0; font: var(--type-h3); color: var(--text-heading); }
+.calendar-grid { display: flex; flex-direction: column; gap: var(--space-1); margin: 0; }
+.cal-semana { display: flex; align-items: center; gap: var(--space-3); }
+.cal-semana-rotulo {
+  font: var(--type-eyebrow); letter-spacing: var(--tracking-wide);
+  color: var(--text-faint); width: 48px; flex: none;
+}
+.cal-semana-dias { flex: 1; display: grid; grid-template-columns: repeat(7, 1fr); gap: var(--space-1); }
 .cal-day {
-  height: 38px; border-radius: 6px; border: 1px solid var(--border);
+  height: 34px; border-radius: var(--radius-xs); border: none;
   display: flex; align-items: center; justify-content: center;
-  font-size: 0.78rem; font-weight: 600; cursor: pointer;
-  background: var(--bg); color: var(--ink-fainter);
-  aspect-ratio: auto;
+  font: var(--type-label); font-variant-numeric: tabular-nums; cursor: pointer;
+  background: var(--surface-sunken); color: var(--text-faint);
+  transition: var(--transition-control);
 }
-.cal-day:hover { border-color: var(--accent); }
-.cal-day.status-pending { background: var(--bg); }
-.cal-day.status-partial { background: var(--warn-soft); color: var(--warn); border-color: var(--warn-border); }
-.cal-day.status-done { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
-/* Hoje é ouro e vence qualquer outro estado — é o único dia que a pessoa
-   precisa achar sem procurar. */
-.cal-day.is-today { background: var(--brand-gold-on-navy); color: #0A1F38; border-color: var(--brand-gold-on-navy); outline: none; }
-.cal-day--simulado { border-style: dashed; border-color: var(--brand-gold); }
-.cal-day.is-today.cal-day--simulado { border-style: solid; }
+.cal-day:hover { transform: translateY(-1px); box-shadow: var(--shadow-sm); }
+.cal-day.status-pending { background: var(--surface-sunken); }
+.cal-day.status-partial { background: var(--gold-300); color: var(--navy-800); }
+.cal-day.status-done { background: var(--navy-800); color: var(--white); }
+/* Domingo é simulado. Azul cheio quando já passou (o dia foi feito), azul
+   apagado quando ainda vem — assim a pessoa vê onde caem os simulados do
+   plano inteiro sem precisar da legenda. */
+.cal-day--simulado { background: var(--blue-100); color: var(--blue-600); }
+.cal-day--simulado.status-done { background: var(--blue-500); color: var(--white); }
+/* Hoje vence qualquer outro estado, e é o único com anel: numa grade de
+   noventa, cor sozinha não basta para achar onde você está. */
+.cal-day.is-today,
+.cal-day.is-today.cal-day--simulado {
+  background: var(--gold-400); color: var(--navy-800);
+  box-shadow: 0 0 0 3px var(--gold-200);
+  position: relative; z-index: 1;
+}
+@media (prefers-color-scheme: dark) {
+  .cal-day.status-done { background: var(--blue-400); }
+  .cal-day--simulado.status-done { background: var(--blue-500); }
+}
 
-.legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: 0.78rem; color: var(--ink-faint); }
+.legend { display: flex; gap: var(--space-4); flex-wrap: wrap; font: var(--type-label); color: var(--text-muted); }
 .legend-item { display: flex; align-items: center; gap: 6px; }
-.dot { width: 9px; height: 9px; border-radius: 2px; display: inline-block; }
-.dot-pending { background: #DCE2EB; }
-.dot-partial { background: var(--warn-border); }
-.dot-done { background: var(--accent); }
-.dot-today { background: var(--brand-gold-on-navy); }
-.dot-simulado { background: transparent; border: 1px dashed var(--brand-gold); }
+.dot { width: 10px; height: 10px; border-radius: var(--radius-circle); display: inline-block; }
+.dot-pending { background: var(--paper-200); }
+.dot-partial { background: var(--gold-300); }
+.dot-done { background: var(--navy-800); }
+.dot-today { background: var(--gold-400); box-shadow: 0 0 0 3px var(--gold-200); }
+.dot-simulado { background: var(--blue-500); }
+@media (prefers-color-scheme: dark) { .dot-done { background: var(--blue-400); } }
 
 .fases-card {
-  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
-  padding: 20px 22px; display: flex; flex-direction: column; gap: 14px;
+  background: var(--surface-card); border: 1px solid var(--border-subtle); border-radius: var(--radius-card);
+  box-shadow: var(--shadow-sm);
+  padding: var(--space-5); display: flex; flex-direction: column; gap: var(--space-3);
 }
-.fases-card-titulo { font-size: 0.8125rem; font-weight: 600; }
-.fase-row { display: flex; gap: 12px; align-items: flex-start; }
-.fase-barra { width: 3px; align-self: stretch; border-radius: 2px; background: #DCE2EB; flex: none; }
-.fase-row.fase-atual .fase-barra { background: var(--brand-gold-on-navy); }
-.fase-nome { font-size: 0.845rem; font-weight: 600; }
-.fase-intervalo { font-size: 0.78rem; color: var(--ink-faint); }
+.fases-card-titulo { font: var(--type-h3); color: var(--text-heading); }
+.fase-row { display: flex; gap: var(--space-3); align-items: flex-start; }
+.fase-barra { width: 3px; align-self: stretch; border-radius: var(--radius-pill); background: var(--paper-200); flex: none; }
+.fase-row.fase-atual .fase-barra { background: var(--gold-400); }
+.fase-nome { font: var(--type-body-strong); font-size: var(--text-sm); color: var(--text-heading); }
+.fase-intervalo { font: var(--type-small); font-size: var(--text-xs); color: var(--text-muted); }
 
 /* ── 05 · SIMULADOS ────────────────────────────────────────────────────── */
 .simulado-hero { flex-direction: row; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap; }
@@ -1507,7 +1728,7 @@ h4 { font-size: 1.0625rem; }
 .simulado-modos { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; }
 .simulado-modo-btn {
   border: 1px solid var(--border); background: var(--surface); color: var(--ink-soft);
-  border-radius: 7px; padding: 9px 16px; font-size: 0.845rem; font-weight: 600;
+  border-radius: var(--radius-sm); padding: 9px 16px; font-size: 0.845rem; font-weight: 600;
   cursor: pointer; font-family: inherit;
 }
 .simulado-modo-btn:hover { border-color: var(--accent); }
@@ -1516,7 +1737,7 @@ h4 { font-size: 1.0625rem; }
 .sim-table-head, .sim-table-row { display: grid; grid-template-columns: 60px 1fr 130px 120px 100px; gap: 16px; align-items: center; }
 .sim-table-head {
   padding: 14px 24px; border-bottom: 1px solid var(--border);
-  font: 700 0.625rem/1 var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-faint);
+  font: var(--type-eyebrow); letter-spacing: var(--tracking-caps); text-transform: uppercase; color: var(--ink-faint);
 }
 .sim-table-row { padding: 16px 24px; border-bottom: 1px solid var(--border); font-size: 0.875rem; }
 .sim-table-row:last-child { border-bottom: none; }
@@ -1525,7 +1746,35 @@ h4 { font-size: 1.0625rem; }
 .sim-data { color: var(--ink-faint); font-size: 0.8125rem; }
 .sim-acao { justify-self: end; font-size: 0.8125rem; font-weight: 600; text-decoration: none; color: var(--ink); border-bottom: 1px solid var(--border-strong); }
 .sim-acao:hover { border-color: var(--accent); }
-.simulado-list-row { display: contents; text-align: left; font: inherit; cursor: pointer; color: inherit; appearance: none; background: none; border: none; }
+/* Era `display: contents`, que dissolve o <button> e joga os filhos direto na
+   coluna do .progress-list — o resultado eram linhas soltas sobre o fundo da
+   página, sem cartão, sem divisória e sem área de clique visível, embora o
+   clique funcionasse. Agora cada simulado é uma linha de verdade, com estado
+   de hover, dentro de um cartão.
+
+   O seletor é duplo (.progress-row.simulado-list-row) porque as duas classes
+   vêm juntas no botão e .progress-row é declarada MAIS ABAIXO neste arquivo —
+   com um seletor de classe cada, a ordem de origem decidia e o padding e a
+   borda daqui eram apagados, deixando as linhas encavaladas. */
+.progress-row.simulado-list-row {
+  display: flex; flex-direction: column; gap: 3px; width: 100%;
+  text-align: left; font: inherit; cursor: pointer; color: inherit;
+  appearance: none; background: transparent; border: none;
+  padding: var(--space-4) var(--space-6);
+  border-bottom: 1px solid var(--border-subtle);
+  border-radius: 0;
+  transition: var(--transition-control);
+}
+.progress-row.simulado-list-row:hover { background: var(--surface-sunken); }
+.progress-row.simulado-list-row:last-child { border-bottom: none; }
+/* A lista que contém essas linhas vira o cartão. O :has() distingue-a da lista
+   de frentes de "Meu progresso", que usa as mesmas classes de linha mas é uma
+   coluna de barras, não uma lista clicável. */
+.progress-list:has(.simulado-list-row) {
+  gap: 0; background: var(--surface-card);
+  border: 1px solid var(--border-subtle); border-radius: var(--radius-card);
+  box-shadow: var(--shadow-sm); overflow: hidden;
+}
 .simulado-status { font-size: 0.875rem; font-weight: 600; }
 .simulado-status-pending { color: var(--ink-fainter); }
 .simulado-status-partial { color: var(--warn); }
@@ -1533,29 +1782,30 @@ h4 { font-size: 1.0625rem; }
 
 /* ── 06 · BUSCAR ───────────────────────────────────────────────────────── */
 .busca-card {
-  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow-sm);
   padding: 24px 26px; display: flex; flex-direction: column; gap: 16px;
 }
+/* Só o que é específico da busca. Fundo, traço, raio e o anel de foco vêm da
+   regra comum dos três campos, lá em cima — deixar uma segunda declaração de
+   :focus aqui embaixo faria ela vencer por ordem de origem e a busca teria um
+   anel azul enquanto os outros dois têm o dourado. */
 .busca-input {
   width: 100%; box-sizing: border-box; padding: 14px 16px; margin: 0;
-  font: inherit; font-size: 0.9375rem; color: var(--ink);
-  background: var(--surface); border: 1px solid var(--border-strong); border-radius: var(--radius-sm);
 }
-.busca-input::placeholder { color: var(--ink-fainter); }
-.busca-input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+.busca-input::placeholder { color: var(--text-faint); }
 .busca-sugestoes { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; margin: 0; }
 .busca-sugestoes-label { font-size: 0.78rem; color: var(--ink-faint); margin-right: 4px; }
 .busca-assunto-ativo {
   display: inline-flex; align-items: center; gap: 8px;
   padding: 6px 14px; font: inherit; font-size: .8125rem; font-weight: 600;
   color: var(--accent-ink); background: var(--accent);
-  border: 1px solid var(--accent); border-radius: 99px; cursor: pointer;
+  border: 1px solid var(--accent); border-radius: var(--radius-pill); cursor: pointer;
 }
 .busca-status { margin: 0; }
 .busca-status:empty { display: none; }
 .busca-resultado { padding: 20px 26px; border-bottom: 1px solid var(--border); display: flex; gap: 18px; align-items: flex-start; }
 .busca-resultado-frente {
-  font: 700 0.625rem/1.6 var(--font-mono); letter-spacing: 0.06em; text-transform: uppercase;
+  font: var(--type-eyebrow); letter-spacing: var(--tracking-caps); text-transform: uppercase;
   color: var(--ink-faint); width: 120px; flex: none;
 }
 .busca-resultado-corpo { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
@@ -1576,7 +1826,7 @@ h4 { font-size: 1.0625rem; }
 .flashcard-explicacao { color: var(--ink-soft); font-size: 0.9rem; text-align: center; line-height: 1.6; }
 .flashcard-acoes { display: flex; gap: 10px; flex-wrap: wrap; justify-content: center; }
 .fila-card {
-  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow-sm);
   padding: 20px 22px; display: flex; flex-direction: column; gap: 14px;
 }
 .fila-titulo { font-size: 0.8125rem; font-weight: 600; }
@@ -1592,7 +1842,7 @@ h4 { font-size: 1.0625rem; }
 .redacao-grade-wrap .dissert-gabarito label { display: flex; gap: 8px; align-items: flex-start; cursor: pointer; }
 /* A nota da banca ao lado do critério, com a barra logo abaixo. */
 .grade-card {
-  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow-sm);
   padding: 22px 24px; display: flex; flex-direction: column; gap: 16px;
 }
 .grade-titulo { font-size: 0.8125rem; font-weight: 600; }
@@ -1614,14 +1864,37 @@ h4 { font-size: 1.0625rem; }
   border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; padding: 0;
 }
 .obra-card.obra-studied { border-color: var(--good-border); }
+/* Só geometria aqui. Cor, alinhamento e tipografia da capa moram no bloco
+   "A capa tipográfica", lá em cima — antes havia DUAS regras .obra-cover no
+   arquivo, e esta, por vir depois, repunha `color: var(--ink-soft)` sobre o
+   branco definido lá: o título ficava azul-escuro sobre roxo e sumia. */
 .obra-cover {
-  aspect-ratio: 3 / 4; border-radius: 0; margin-bottom: 0; padding: 22px;
-  display: flex; flex-direction: column; align-items: center; justify-content: center;
-  text-align: center; gap: 10px; background: var(--bg); color: var(--ink-soft);
+  position: relative;
+  aspect-ratio: 3 / 4; border-radius: 0; margin-bottom: 0;
+  display: flex; flex-direction: column;
   border: none; overflow: hidden;
 }
+/* A imagem real cobre a capa gerada. `object-fit: cover` porque as fontes vêm
+   em proporções diferentes — capa de livro é 2:3, capa de disco é quadrada,
+   quadro é qualquer coisa — e a grade precisa de retângulos iguais. Cortar
+   pelo centro é o mal menor: deixar a proporção original faria as fileiras
+   desalinharem, e `contain` encheria a grade de tarjas.
+
+   Se o arquivo não existir, o onerror remove o <img> e o desenho de baixo
+   aparece — por isso não há estado de "carregando" aqui. */
+/* Fundo TRANSPARENTE, e não um cinza de espera. Com loading="lazy", a imagem
+   fora da dobra nem tenta carregar até você chegar perto — e um <img> vazio
+   com fundo próprio, esticado sobre a capa inteira, tapava o desenho com um
+   retângulo cinza que só sumia quando o onerror disparasse. Transparente, o
+   que se vê enquanto nada carregou é a capa tipográfica, que é exatamente o
+   que deve estar ali. */
+.obra-cover-img {
+  position: absolute; inset: 0;
+  width: 100%; height: 100%; object-fit: cover;
+  display: block; background: transparent;
+}
 .obra-corpo { padding: 14px 18px 16px; display: flex; flex-direction: column; gap: 8px; }
-.obra-eixo-label { font: 700 0.594rem/1 var(--font-mono); letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faint); }
+.obra-eixo-label { font: var(--type-eyebrow); letter-spacing: var(--tracking-caps); text-transform: uppercase; color: var(--ink-faint); }
 .obra-eixo { font-size: 0.8125rem; color: var(--ink-soft); line-height: 1.5; }
 .obra-status { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink-fainter); }
 .obra-status-estudada { color: var(--good); }
@@ -1637,7 +1910,7 @@ h4 { font-size: 1.0625rem; }
 .erros-contagem-n { font-family: var(--font-brand); font-size: 1.75rem; font-weight: 600; }
 .erros-contagem-label { font-size: 0.845rem; color: #A8B6C8; }
 .erros-grupo-head { padding: 18px 26px; border-bottom: 1px solid var(--border); display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
-.erros-grupo-area { font: 700 0.625rem/1 var(--font-mono); letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-faint); }
+.erros-grupo-area { font: var(--type-eyebrow); letter-spacing: var(--tracking-caps); text-transform: uppercase; color: var(--ink-faint); }
 .erros-grupo-nome { font-family: var(--font-brand); font-size: 1.0625rem; font-weight: 600; }
 .erros-q-n { font-family: var(--font-brand); font-size: 0.8125rem; font-weight: 600; color: var(--ink-faint); flex: none; }
 .erros-q-enunciado { font-size: 0.9rem; color: var(--ink); min-width: 0; line-height: 1.5; }
@@ -1662,12 +1935,16 @@ h4 { font-size: 1.0625rem; }
 .progress-frente:first-child { margin-top: 0; }
 .progress-frente-nome { font-weight: 700; font-size: 0.97rem; letter-spacing: -0.01em; }
 .progress-frente-stat { color: var(--ink-faint); font-size: 0.8rem; }
-.progress-row { background: none; border: none; border-radius: 0; padding: 0; display: flex; flex-direction: column; gap: 7px; }
-.progress-row-top { display: flex; justify-content: space-between; margin-bottom: 0; gap: 10px; font-size: 0.845rem; }
-.progress-row-top .name { font-weight: 600; }
-.progress-row-top .stat { color: var(--ink-faint); font-size: 0.845rem; }
-.bar-track { background: var(--accent-soft); border-radius: 99px; height: 6px; overflow: hidden; }
-.bar-fill { background: var(--accent); height: 100%; border-radius: 99px; }
+.progress-row { background: none; border: none; border-radius: 0; padding: 0; display: flex; flex-direction: column; align-items: stretch; gap: 7px; }
+.progress-row-top { display: flex; justify-content: space-between; margin-bottom: 0; gap: 10px; font: var(--type-small); }
+.progress-row-top .name { font-weight: var(--weight-semibold); color: var(--text-heading); }
+.progress-row-top .stat { color: var(--text-muted); font: var(--type-small); font-size: var(--text-xs); }
+/* O SOS é uma ação por LINHA, e há uma por tema — oitenta e três delas nesta
+   tela. Esticado na largura toda, cada uma anunciava "esta é a ação principal
+   da tela" oitenta e três vezes. Encolhe para o tamanho do próprio texto. */
+.sos-btn { align-self: flex-start; margin-top: var(--space-2) !important; padding: 7px 14px; font-size: var(--text-xs); }
+.bar-track { background: var(--accent-soft); border-radius: var(--radius-pill); height: 6px; overflow: hidden; }
+.bar-fill { background: var(--accent); height: 100%; border-radius: var(--radius-pill); }
 /* A frente fraca é ouro escuro, não vermelho: é onde estudar, não um erro. */
 .progress-row.is-fraca .bar-fill { background: var(--brand-gold); }
 .official-exams-card { padding: 24px 26px; }
@@ -1675,7 +1952,7 @@ h4 { font-size: 1.0625rem; }
 
 /* ── 12 · PERFIL E CONTA ───────────────────────────────────────────────── */
 .perfil-identidade {
-  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow-sm);
   padding: 24px 26px; display: flex; align-items: center; gap: 18px; flex-wrap: wrap;
 }
 .perfil-avatar { width: 56px; height: 56px; border-radius: 50%; background: #DCE2EB; flex: none; display: block; object-fit: cover; }
@@ -1701,11 +1978,11 @@ h4 { font-size: 1.0625rem; }
 .ajuste-valor { margin-left: auto; flex: none; display: flex; align-items: center; gap: 10px; }
 .ajuste-valor-texto {
   font-size: 0.845rem; font-weight: 600; color: var(--ink);
-  border: 1px solid var(--border-strong); border-radius: 7px; padding: 8px 14px;
+  border: 1px solid var(--border-strong); border-radius: var(--radius-sm); padding: 8px 14px;
 }
 .perfil-lateral { display: flex; flex-direction: column; gap: 16px; }
 .perfil-box {
-  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+  background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow-sm);
   padding: 22px 24px; display: flex; flex-direction: column; gap: 10px;
 }
 .perfil-box-titulo { font-size: 0.8125rem; font-weight: 600; }
@@ -1757,52 +2034,38 @@ h4 { font-size: 1.0625rem; }
   .sidebar { display: none; }
 
   .page-header {
-    min-height: 0; align-items: flex-start; gap: 8px 12px;
+    min-height: 0; align-items: center; gap: 8px 12px;
     padding: calc(8px + env(safe-area-inset-top)) 20px 14px;
   }
   /* 60% de base para o bloco do título: quando o selo de sincronização aparece
      ao lado da ofensiva, os dois indicadores passam a não caber na mesma linha e
      descem inteiros para a segunda — em vez de comprimirem o título até
      "Dia 12 de 90 · sexta, 20 de..." quebrar em duas linhas. */
-  .page-header-left { align-items: center; gap: 10px; flex: 1 1 60%; min-width: 0; }
-  /* Duas linhas, não três: título e selo de fase na primeira (do mesmo jeito que
-     no desktop), subtítulo inteiro na segunda. Com o selo embaixo, junto do
-     subtítulo, a soma dos dois passava dos 267px disponíveis e virava uma
-     terceira linha — 113px de cabeçalho, um sétimo da tela gasto em rótulo. */
-  .page-title { font-size: 1.5rem; line-height: 1.15; order: 1; }
-  .phase-label { order: 1; }
-  .page-subtitle { font-size: 0.78rem; width: 100%; order: 2; }
+  .page-header-left { align-items: center; gap: 12px; flex: 1 1 60%; min-width: 0; }
+  /* Nenhum `order` aqui, ao contrário da versão anterior desta regra. Título e
+     meta agora vivem dentro de .page-header-textos, e reordenar de fora passou
+     a inverter a coluna inteira — o rótulo de fase e a data apareciam ACIMA do
+     "Hoje". A ordem certa já é a ordem do documento. */
+  .page-header-textos { gap: 2px; }
+  .page-title { font-size: 1.5rem; line-height: 1.15; }
+  .page-subtitle { font-size: 0.78rem; }
+  .page-header-meta { gap: var(--space-2); }
   .page-header-right { align-items: center; gap: 8px; flex: 0 0 auto; }
 
-  /* A seta de voltar das telas empurradas. 44px de lado, contorno de controle
-     (--border-strong), à esquerda do título. */
+  /* A seta de voltar das telas empurradas, à esquerda do bloco de texto.
+     A grade de duas colunas que existia aqui foi embora junto com a marcação
+     plana: com título e subtítulo já empilhados dentro de .page-header-textos,
+     o botão é só mais um item da linha, e o cabeçalho fecha na altura dele
+     sem precisar de grid-template-areas. */
   .voltar-mobile {
     display: inline-flex; align-items: center; justify-content: center;
     width: 44px; height: 44px; flex: none; padding: 0; cursor: pointer;
-    background: var(--surface); color: var(--ink);
-    border: 1px solid var(--border-strong); border-radius: var(--radius-sm);
+    background: var(--surface-card); color: var(--text-heading);
+    border: 1px solid var(--border-strong); border-radius: var(--radius-pill);
   }
   /* Declaração de autor vence o [hidden] do navegador — mesma armadilha do
      .day-nav e do .tab-btn. */
   .voltar-mobile[hidden] { display: none; }
-
-  /* Com a seta na tela, o cabeçalho deixa de ser linha embrulhada e vira grade
-     de duas colunas: a seta ocupa as duas fileiras à esquerda, e título e
-     subtítulo empilham ao lado dela. Embrulhado, o subtítulo caía ABAIXO do
-     botão de 44px e o cabeçalho ia a 96px — a grade o traz para dentro da
-     altura da própria seta e fecha em 69px, que é o do desenho. */
-  .page-header-left:has(.voltar-mobile:not([hidden])) {
-    display: grid; grid-template-columns: 44px 1fr;
-    grid-template-areas: "voltar titulo" "voltar sub";
-    column-gap: 12px; row-gap: 0; align-items: center;
-  }
-  .page-header-left:has(.voltar-mobile:not([hidden])) .voltar-mobile { grid-area: voltar; }
-  .page-header-left:has(.voltar-mobile:not([hidden])) .page-title {
-    grid-area: titulo; align-self: end; font-size: 1.3125rem;
-  }
-  .page-header-left:has(.voltar-mobile:not([hidden])) .page-subtitle {
-    grid-area: sub; align-self: start; width: auto; font-size: 0.75rem;
-  }
 
   /* "Dia anterior / Próximo dia" saem do cabeçalho. Não é função perdida: o
      Calendário é a segunda aba da barra e abrir um dia é tocar no quadrado dele,
@@ -1836,24 +2099,26 @@ h4 { font-size: 1.0625rem; }
   .tabbar {
     display: grid; grid-template-columns: repeat(5, 1fr);
     position: fixed; left: 0; right: 0; bottom: 0; z-index: 30;
-    background: var(--surface); border-top: 1px solid var(--border);
-    padding: 9px 8px calc(9px + env(safe-area-inset-bottom));
+    background: var(--surface-card); border-top: 1px solid var(--border-subtle);
+    padding: 8px 6px calc(14px + env(safe-area-inset-bottom));
   }
   .is-empurrada .tabbar { display: none; }
   /* Os itens são os mesmos .tab-btn da lateral, e lá eles são linhas navy com
      texto à esquerda. Aqui viram coluna: ícone em cima, rótulo embaixo. */
   .tabbar .tab-btn {
     flex-direction: column; align-items: center; justify-content: flex-start; gap: 4px;
-    padding: 6px 0; min-height: 44px; border-radius: var(--radius-sm);
-    background: transparent; color: var(--ink-faint);
-    font-size: 0.656rem; font-weight: 500; line-height: 1.25; text-align: center;
+    padding: 8px 0; min-height: 44px; border-radius: var(--radius-sm);
+    background: transparent; color: var(--text-faint);
+    font: var(--type-eyebrow); line-height: 1.25; text-align: center;
   }
-  .tabbar .tab-btn .ico { width: 22px; height: 22px; }
-  .tabbar .tab-btn:hover { background: transparent; color: var(--ink-faint); }
-  /* Aba aberta: navy e semibold. Sem pílula de fundo — cinco pílulas em fila
-     numa barra de 402px viram uma faixa listrada. */
+  .tabbar .tab-btn .ico { width: 24px; height: 24px; }
+  .tabbar .tab-btn:hover { background: transparent; color: var(--text-faint); }
+  /* Aba aberta em OURO, como o desenho de celular pede. Sem pílula de fundo —
+     cinco pílulas em fila numa barra de 402px viram uma faixa listrada; aqui
+     a cor sozinha faz o trabalho, e é a mesma cor que marca a ação em destaque
+     no resto do app. */
   .tabbar .tab-btn.active,
-  .tabbar .tab-btn.active:hover { background: transparent; color: var(--ink); font-weight: 600; }
+  .tabbar .tab-btn.active:hover { background: transparent; color: var(--gold-600); }
   .tabbar-label { overflow: hidden; text-overflow: ellipsis; max-width: 100%; white-space: nowrap; }
 
   /* ── Tela "Mais" ─────────────────────────────────────────────────────── */
@@ -1861,7 +2126,7 @@ h4 { font-size: 1.0625rem; }
   .mais-identidade {
     display: flex; align-items: center; gap: 13px; width: 100%; text-align: left;
     padding: 14px; cursor: pointer; font: inherit; color: var(--ink);
-    background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius);
+    background: var(--surface); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow-sm);
   }
   .mais-avatar { width: 44px; height: 44px; border-radius: 50%; flex: none; display: block; object-fit: cover; }
   /* --accent-ink, e não #fff: no escuro o --accent vira o ouro da marca, e a
@@ -1878,7 +2143,7 @@ h4 { font-size: 1.0625rem; }
 
   .mais-grupo { display: flex; flex-direction: column; gap: 10px; }
   .mais-grupo-titulo {
-    font: 700 0.656rem/1 var(--font-mono); letter-spacing: 0.12em;
+    font: var(--type-eyebrow); letter-spacing: var(--tracking-caps);
     text-transform: uppercase; color: var(--ink-faint);
   }
   .mais-lista {
@@ -1899,7 +2164,7 @@ h4 { font-size: 1.0625rem; }
   .mais-row-ico { width: 19px; height: 19px; color: var(--brand-gold); }
   .mais-row-ico-neutro { color: var(--ink-soft); }
   .mais-row-selo {
-    font-size: 0.6875rem; font-weight: 700; border-radius: 5px; padding: 2px 7px;
+    font-size: 0.6875rem; font-weight: 700; border-radius: var(--radius-xs); padding: 2px 7px;
     color: var(--bad); background: var(--bad-soft);
   }
   .mais-row-valor { font-size: 0.8125rem; color: var(--ink-faint); }
@@ -2050,7 +2315,7 @@ h4 { font-size: 1.0625rem; }
      de ilustrá-lo de longe. */
   .landing-mock {
     margin: 36px 0 -58px; position: relative; z-index: 1;
-    border-color: var(--border); border-radius: 10px;
+    border-color: var(--border); border-radius: var(--radius-md);
     box-shadow: 0 12px 30px rgba(10,37,64,.10);
   }
   .landing-mock-chrome { padding: 10px 14px; }
@@ -2170,4 +2435,22 @@ h4 { font-size: 1.0625rem; }
   .doc-head { margin-bottom: 28px; }
   .doc h1 { font-size: 1.625rem; }
   .doc h2 { font-size: 1.1875rem; margin-top: 30px; }
+}
+
+/* Créditos das imagens das obras — bloco único no fim da aba. Discreto de
+   propósito: cumpre a atribuição que CC BY e CC BY-SA exigem sem disputar
+   atenção com o conteúdo de estudo, que é o motivo de a tela existir. */
+.obras-creditos {
+  margin-top: var(--space-8); padding-top: var(--space-5);
+  border-top: 1px solid var(--border-subtle);
+}
+.obras-creditos .hint { max-width: 70ch; margin-bottom: var(--space-3); }
+.obras-creditos-lista {
+  list-style: none; margin: 0; padding: 0;
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 4px var(--space-6);
+}
+.obras-creditos-lista li {
+  font: var(--type-small); font-size: var(--text-xs); color: var(--text-faint);
+  line-height: 1.5;
 }

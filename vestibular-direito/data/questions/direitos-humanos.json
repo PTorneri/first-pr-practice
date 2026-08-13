@@ -2105,6 +2105,186 @@
                          "resposta":  "b",
                          "explicacao":  "Xenofobia é a hostilidade dirigida a pessoas por sua origem nacional ou condição de estrangeiro, sem relação necessária com raça, orientação sexual, religião ou idade — critérios que definem, respectivamente, as demais formas de discriminação listadas nas outras alternativas.",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-137",
+                         "texto_apoio":  "Ao debater para que serve a privação de liberdade de uma pessoa condenada, juristas costumam apontar três funções distintas: punir o infrator pelo mal causado, desestimular novos crimes e preparar o condenado para retornar à convivência social sem reincidir.",
+                         "enunciado":  "Essas três funções atribuídas à pena são conhecidas, respectivamente, como:",
+                         "alternativas":  {
+                                              "a":  "retribuição, prevenção e ressocialização, correspondendo ao castigo pelo crime, ao desestímulo a novos delitos e à reintegração social do condenado",
+                                              "b":  "tipicidade, antijuridicidade e culpabilidade, correspondendo aos três elementos que compõem a definição técnica de um crime",
+                                              "c":  "dolo, culpa e preterdolo, correspondendo às diferentes formas de intenção do agente na prática de um crime específico",
+                                              "d":  "flagrante, indiciamento e denúncia, correspondendo às etapas sucessivas de uma investigação criminal conduzida pela polícia",
+                                              "e":  "prisão, liberdade condicional e livramento condicional, correspondendo aos diferentes regimes de cumprimento de uma mesma pena privativa de liberdade"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "As três funções clássicas atribuídas à pena são a retribuição (castigo proporcional ao crime), a prevenção (desestímulo a novos delitos, tanto do próprio condenado quanto de terceiros) e a ressocialização (preparação para o retorno à convivência social). As demais alternativas nomeiam outros conjuntos de conceitos jurídicos reais, mas distintos dessas três funções da pena.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-138",
+                         "texto_apoio":  "O Brasil mantém, há anos, um número de pessoas presas superior ao número de vagas disponíveis nas unidades prisionais do país, resultando em celas com ocupação muito acima da capacidade projetada e condições degradantes de higiene e convivência.",
+                         "enunciado":  "Essa situação, marcada pelo número de presos muito acima da capacidade das unidades, é conhecida como:",
+                         "alternativas":  {
+                                              "a":  "regime disciplinar diferenciado, regime de cumprimento de pena mais rigoroso aplicado a presos considerados de alta periculosidade",
+                                              "b":  "superlotação carcerária, situação em que o número de pessoas presas excede a capacidade projetada das unidades prisionais",
+                                              "c":  "progressão de regime, transferência de um preso de um regime mais rigoroso para um regime mais brando de cumprimento de pena",
+                                              "d":  "monitoramento eletrônico, alternativa à prisão que usa dispositivos para acompanhar a localização de uma pessoa condenada",
+                                              "e":  "prisão preventiva, modalidade de prisão decretada antes do julgamento definitivo de um processo criminal em curso"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Superlotação carcerária descreve a situação em que o número de pessoas presas excede significativamente a capacidade projetada das unidades prisionais, resultando em condições degradantes de higiene e convivência — um dos principais problemas estruturais do sistema prisional brasileiro. As demais alternativas nomeiam outros institutos reais do sistema penal, mas distintos dessa situação específica.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-139",
+                         "texto_apoio":  "Quando um menor de 18 anos comete um ato que, se praticado por um adulto, seria classificado como crime, a legislação brasileira usa uma terminologia própria e prevê medidas educativas específicas, em vez das penas aplicadas a adultos.",
+                         "enunciado":  "Esse ato, e a legislação que rege a resposta institucional a ele, são conhecidos, respectivamente, como:",
+                         "alternativas":  {
+                                              "a":  "crime doloso, conduta criminosa praticada com intenção direta de causar o resultado previsto no tipo penal correspondente",
+                                              "b":  "contravenção penal, infração de menor gravidade prevista em lei específica própria, aplicável a uma pessoa independentemente da idade que ela tenha",
+                                              "c":  "ato infracional, conduta análoga a um crime praticada por menor de 18 anos, regida por medidas educativas específicas previstas em lei própria",
+                                              "d":  "infração administrativa, violação de norma administrativa sujeita a sanção aplicada por órgão da própria administração pública",
+                                              "e":  "ilícito civil, conduta que gera dever de reparação de dano no âmbito do direito civil, sem qualquer natureza penal envolvida"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Ato infracional é o termo usado pelo Estatuto da Criança e do Adolescente para a conduta análoga a um crime praticada por menor de 18 anos, respondida por medidas socioeducativas específicas, não pelas penas do sistema criminal comum aplicado a adultos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-140",
+                         "texto_apoio":  "Em vez de concentrar o processo só na punição do infrator, um modelo alternativo de resolução de conflitos reúne infrator, vítima e comunidade num espaço de diálogo, buscando reparar o dano causado e restaurar as relações afetadas pelo ato.",
+                         "enunciado":  "Esse modelo alternativo de resolução de conflitos penais, centrado na reparação e no diálogo entre as partes, é conhecido como:",
+                         "alternativas":  {
+                                              "a":  "arbitragem privada, método de resolução de conflitos civis ou comerciais conduzido por um terceiro escolhido pelas partes envolvidas",
+                                              "b":  "justiça retributiva, modelo tradicional centrado na aplicação proporcional de uma sanção penal ao infrator pelo crime cometido",
+                                              "c":  "justiça de transição, conjunto de mecanismos voltados a lidar com violações de direitos cometidas durante um regime autoritário",
+                                              "d":  "justiça restaurativa, modelo que reúne infrator, vítima e comunidade num espaço de diálogo voltado à reparação do dano causado",
+                                              "e":  "conciliação extrajudicial, método de resolução de conflitos civis conduzido fora do processo judicial por um conciliador habilitado"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "Justiça restaurativa é o modelo que desloca o foco da punição para a reparação, reunindo infrator, vítima e comunidade num espaço de diálogo estruturado. Justiça retributiva (b) é o modelo tradicional centrado na sanção proporcional; as demais alternativas nomeiam outros mecanismos reais de resolução de conflitos, distintos desse modelo restaurativo específico.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-141",
+                         "texto_apoio":  "Levantamentos anuais registram, no Brasil, um número elevado de mortes decorrentes de intervenções policiais, concentradas sobretudo entre jovens negros de regiões periféricas das grandes cidades.",
+                         "enunciado":  "Esse indicador, que mede o número de mortes causadas por ações das forças de segurança, é conhecido como:",
+                         "alternativas":  {
+                                              "a":  "taxa de reincidência, indicador que mede a proporção de pessoas condenadas que voltam a cometer crimes após cumprir pena",
+                                              "b":  "índice de criminalidade, indicador que mede o número total de crimes registrados numa determinada região e período",
+                                              "c":  "taxa de encarceramento, indicador que mede a proporção de pessoas presas em relação à população total de uma região",
+                                              "d":  "índice de impunidade, indicador que mede a proporção de crimes registrados que não resultam em condenação judicial",
+                                              "e":  "letalidade policial, indicador que mede o número de mortes decorrentes de ações das forças de segurança pública"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "Letalidade policial é o indicador que mede o número de mortes decorrentes de ações das forças de segurança pública, tema central do debate sobre segurança pública e direitos humanos no Brasil, dado o padrão de concentração entre jovens negros de regiões periféricas. As demais alternativas nomeiam outros indicadores reais de segurança pública e justiça, distintos desse específico.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-142",
+                         "texto_apoio":  "Uma lei brasileira criminaliza a prática de constranger alguém, mediante violência ou grave ameaça, causando-lhe sofrimento físico ou mental, com o fim de obter informação, aplicar castigo pessoal ou em razão de discriminação racial ou religiosa.",
+                         "enunciado":  "Essa prática, tipificada como crime por lei específica de 1997 e proibida de forma absoluta por tratados internacionais, é conhecida como:",
+                         "alternativas":  {
+                                              "a":  "tortura, prática de constranger alguém, mediante violência ou grave ameaça, causando sofrimento físico ou mental para determinado fim",
+                                              "b":  "abuso de autoridade, prática de excesso cometido por agente público no exercício de sua função, sem finalidade legítima correspondente",
+                                              "c":  "violência institucional, prática de dano causado a alguém pela própria estrutura ou funcionamento de uma instituição pública",
+                                              "d":  "constrangimento ilegal, prática de forçar alguém a fazer ou deixar de fazer algo que a lei não obriga, sem violência física envolvida",
+                                              "e":  "sequestro qualificado, prática de privação da liberdade de alguém, mediante violência ou ameaça, por período superior a 24 horas"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Tortura é a prática tipificada pela Lei 9.455/1997, que constrange alguém, mediante violência ou grave ameaça, causando sofrimento físico ou mental para obter informação, aplicar castigo ou por discriminação — proibida de forma absoluta por tratados internacionais de direitos, sem exceção sequer em contextos de guerra, e integra o sistema penal brasileiro desde sua tipificação em 1997. As demais alternativas nomeiam outros crimes reais, distintos dessa prática específica.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-143",
+                         "texto_apoio":  "Uma lei brasileira de 2019 tipificou como crime condutas específicas de agentes públicos que, no exercício de suas funções, extrapolam os limites da atuação legítima ao decretar prisões desnecessárias, divulgar imagens de investigados antes do julgamento ou manter alguém preso além do prazo legal.",
+                         "enunciado":  "Essa lei, que busca coibir excessos cometidos por agentes públicos no exercício da função, é conhecida como Lei de:",
+                         "alternativas":  {
+                                              "a":  "Improbidade Administrativa, que trata de atos de agentes públicos que causam prejuízo ao erário público ou violam princípios da administração pública",
+                                              "b":  "Abuso de Autoridade, que tipifica excessos cometidos por agentes públicos no exercício da função, como prisões desnecessárias e vazamentos indevidos",
+                                              "c":  "Anistia, que perdoa determinados crimes cometidos num período específico, extinguindo a punibilidade dos responsáveis por esses atos",
+                                              "d":  "Execução Penal, que regula as regras de cumprimento das penas privativas de liberdade aplicadas por decisão judicial já transitada em julgado",
+                                              "e":  "Acesso à Informação, que regula o direito de qualquer pessoa de solicitar e obter informações produzidas ou custodiadas por órgãos públicos"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A Lei de Abuso de Autoridade (Lei 13.869/2019) tipifica excessos cometidos por agentes públicos no exercício da função, como prisões desnecessárias, vazamentos indevidos de informação e manutenção de alguém preso além do prazo legal. As demais alternativas nomeiam outras leis reais, com objeto distinto dessa lei específica sobre excessos de agentes públicos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-144",
+                         "texto_apoio":  "Uma pessoa de baixa renda, que sofreu uma violação de direitos por parte de um vizinho, desiste de buscar reparação porque não tem recursos para pagar um advogado, desconhece seus direitos e mora longe de qualquer fórum ou posto de atendimento jurídico gratuito.",
+                         "enunciado":  "Esse conjunto de barreiras enfrentadas por uma pessoa para buscar reparação judicial ilustra os limites do que se chama de:",
+                         "alternativas":  {
+                                              "a":  "duplo grau de jurisdição, garantia de que uma decisão judicial possa ser revista por uma instância superior mediante recurso",
+                                              "b":  "devido processo legal, garantia de que o processo judicial seja conduzido conforme as regras e princípios estabelecidos previamente em lei",
+                                              "c":  "acesso à justiça, capacidade efetiva de buscar reparação judicial, obstruída aqui por barreiras econômicas, informacionais e geográficas",
+                                              "d":  "coisa julgada, qualidade que uma decisão judicial adquire quando não cabe mais nenhum recurso contra ela dentro do processo",
+                                              "e":  "ampla defesa, garantia de que o acusado num processo possa se manifestar e produzir provas antes de uma decisão final"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "Acesso à justiça é a capacidade efetiva de uma pessoa buscar reparação judicial, obstruída no exemplo por barreiras econômicas (custo de advogado), informacionais (desconhecimento dos próprios direitos) e geográficas (distância de um fórum). As demais alternativas nomeiam outras garantias processuais reais, mas distintas desse conceito mais amplo de acesso efetivo à justiça, que a Defensoria Pública busca justamente viabilizar dentro do sistema de justiça brasileiro.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-145",
+                         "texto_apoio":  "Uma instituição pública, mantida com recursos do Estado, presta assistência jurídica gratuita a pessoas que não têm condições financeiras de pagar um advogado particular, atuando tanto em processos civis quanto criminais.",
+                         "enunciado":  "Essa instituição, com previsão constitucional específica e atuação em todo o território nacional, é conhecida como:",
+                         "alternativas":  {
+                                              "a":  "Advocacia-Geral da União, instituição responsável por representar judicialmente os interesses da União perante o Judiciário",
+                                              "b":  "Ministério Público, instituição responsável por fiscalizar o cumprimento da lei e promover a ação penal em nome da coletividade e da sociedade brasileira",
+                                              "c":  "Ordem dos Advogados, entidade de classe responsável por regular o exercício da advocacia e representar os interesses da categoria",
+                                              "d":  "Defensoria Pública, instituição que presta assistência jurídica gratuita a pessoas sem condições financeiras de pagar advogado particular",
+                                              "e":  "Tribunal de Contas, instituição responsável por fiscalizar a aplicação dos recursos públicos pelos órgãos da administração pública"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A Defensoria Pública é a instituição com previsão constitucional específica dedicada a prestar assistência jurídica gratuita a quem não tem condições de pagar advogado particular, atuando tanto em processos civis quanto criminais. As demais alternativas nomeiam outras instituições reais, com atribuições distintas dessa assistência jurídica gratuita.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-146",
+                         "texto_apoio":  "Numa audiência criminal, um representante do Estado atua de forma independente tanto da defesa quanto do juiz, com a função constitucional de fiscalizar o cumprimento da lei e promover a ação penal em nome da sociedade, ainda que isso signifique, em certos casos, pedir a absolvição do próprio acusado.",
+                         "enunciado":  "Essa instituição, com autonomia funcional garantida pela Constituição, é conhecida como:",
+                         "alternativas":  {
+                                              "a":  "Corregedoria Geral, órgão interno responsável por apurar e julgar faltas disciplinares cometidas por membros de uma instituição",
+                                              "b":  "Defensoria Pública, instituição responsável por prestar assistência jurídica gratuita a pessoas sem condições financeiras de pagar um advogado próprio",
+                                              "c":  "Polícia Judiciária, instituição responsável por conduzir a investigação criminal antes do início formal do processo judicial",
+                                              "d":  "Ordem dos Advogados, entidade de classe responsável por regular o exercício da advocacia e representar os interesses da categoria",
+                                              "e":  "Ministério Público, instituição com autonomia funcional responsável por fiscalizar o cumprimento da lei e promover a ação penal em nome da sociedade"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O Ministério Público tem autonomia funcional garantida pela Constituição e atua de forma independente tanto da defesa quanto do juiz, fiscalizando o cumprimento da lei e promovendo a ação penal em nome da sociedade — podendo, inclusive, pedir a absolvição do acusado quando entender que as provas não sustentam a condenação. As demais alternativas nomeiam outras instituições reais do sistema de justiça, com atribuições distintas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-147",
+                         "texto_apoio":  "Um jornal publica uma reportagem crítica a uma autoridade pública, sem que nenhum órgão do governo tenha exigido, previamente, aprovar ou vetar o conteúdo antes da publicação.",
+                         "enunciado":  "A ausência de qualquer exigência de aprovação prévia do governo antes da publicação de conteúdo jornalístico é garantida pela liberdade de:",
+                         "alternativas":  {
+                                              "a":  "imprensa, garantia constitucional de que o Estado não pode exigir aprovação prévia de conteúdo jornalístico antes de sua publicação",
+                                              "b":  "reunião, garantia constitucional de que pessoas possam se reunir pacificamente em locais públicos sem armas e sem autorização prévia",
+                                              "c":  "associação, garantia constitucional de que pessoas possam se associar livremente para fins lícitos, sem necessidade de autorização estatal",
+                                              "d":  "consciência, garantia constitucional de que ninguém pode ser obrigado a agir contra suas convicções filosóficas, religiosas ou morais",
+                                              "e":  "iniciativa privada, garantia constitucional de que qualquer pessoa possa exercer atividade econômica lícita sem autorização prévia do Estado"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A liberdade de imprensa garante que o Estado não pode exigir aprovação prévia de conteúdo jornalístico antes de sua publicação — a chamada vedação à censura prévia, um dos pilares da liberdade de expressão em regimes democráticos. As demais alternativas nomeiam outras liberdades constitucionais reais, mas de alcance diferente dessa proteção específica ao conteúdo jornalístico.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-148",
+                         "texto_apoio":  "Um grupo de pessoas se organiza para ocupar uma praça pública e expressar coletivamente sua insatisfação com uma decisão do governo, sem portar armas e sem que a manifestação frustre outra reunião já convocada para o mesmo local e horário.",
+                         "enunciado":  "Essa forma de expressão coletiva em local público, sem necessidade de autorização prévia do Estado, é protegida pela liberdade de:",
+                         "alternativas":  {
+                                              "a":  "imprensa, garantia constitucional de que o Estado não pode exigir aprovação prévia de conteúdo jornalístico antes de sua publicação",
+                                              "b":  "reunião, garantia constitucional de que pessoas possam se reunir pacificamente e sem armas em locais públicos, sem autorização prévia do Estado",
+                                              "c":  "associação, garantia constitucional de que pessoas possam se associar livremente para fins lícitos, sem necessidade de autorização estatal",
+                                              "d":  "iniciativa privada, garantia constitucional de que uma pessoa possa exercer atividade econômica lícita sem autorização prévia do próprio Estado brasileiro",
+                                              "e":  "locomoção, garantia constitucional de que uma pessoa possa entrar, permanecer e sair livremente do território nacional em tempos de paz duradoura"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A liberdade de reunião garante que pessoas possam se reunir pacificamente e sem armas em locais públicos, sem necessidade de autorização prévia do Estado, desde que a reunião não frustre outra já convocada anteriormente para o mesmo local e horário. As demais alternativas nomeiam outras liberdades constitucionais reais, de alcance distinto dessa proteção específica à manifestação coletiva em local público.",
+                         "formato":  "direta"
                      }
                  ]
 }

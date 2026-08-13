@@ -1565,6 +1565,186 @@
                                           },
                          "resposta":  "a",
                          "explicacao":  "Parte da doutrina passou a tratar o acesso à internet como direito social emergente, cuja ausência aprofunda desigualdades já existentes em educação, trabalho e acesso a serviços públicos. Descrevê-lo como privilégio comercial sob concessão é o distrator mais plausível, porque a prestação do serviço realmente se dá por concessão regulada — o que está em discussão é outra coisa: a natureza jurídica do acesso para o titular, não o regime de exploração. Chamá-lo de direito de terceira geração consolidado em tratado vinculante antecipa um reconhecimento que ainda não existe nesses termos. Tratá-lo como matéria estranha aos direitos humanos ignora o próprio debate. E supor acesso universalizado contraria os dados de exclusão digital."
+                     },
+                     {
+                         "id":  "direitos-humanos-101",
+                         "texto_apoio":  "Certos dispositivos da Constituição Federal de 1988 não podem ser abolidos nem mesmo por emenda constitucional aprovada com o quórum qualificado exigido pelo próprio texto.",
+                         "enunciado":  "Esses dispositivos protegidos contra abolição, mesmo por via de emenda, são conhecidos como:",
+                         "alternativas":  {
+                                              "a":  "Normas programáticas, que fixam metas ao poder público sem gerar direito subjetivo imediato ao cidadão",
+                                              "b":  "Cláusulas pétreas, núcleo protegido que nem mesmo o poder constituinte derivado pode suprimir",
+                                              "c":  "Normas de eficácia limitada, que dependem de lei posterior para produzir todos os seus efeitos",
+                                              "d":  "Princípios implícitos, reconhecidos pela doutrina mas sem previsão expressa no texto constitucional",
+                                              "e":  "Disposições transitórias, normas de vigência temporária destinadas a organizar a transição constitucional"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Cláusulas pétreas formam o núcleo da Constituição protegido até contra emenda constitucional — o poder constituinte derivado não pode aboli-las, ainda que aprove a proposta com o quórum qualificado do art. 60. As demais alternativas descrevem outras categorias de normas constitucionais, sem essa blindagem específica.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-102",
+                         "texto_apoio":  "Diante de uma lei que considera inconstitucional, um cidadão pode acionar o Judiciário de duas formas distintas: pedindo que o próprio juiz do seu caso deixe de aplicar a lei, ou levando a questão diretamente ao Supremo Tribunal Federal para que a lei seja retirada do ordenamento com efeito geral.",
+                         "enunciado":  "Essas duas vias de controle de constitucionalidade são conhecidas, respectivamente, como:",
+                         "alternativas":  {
+                                              "a":  "controle preventivo e controle repressivo, distinguidos pelo momento em que a lei é analisada pelo poder competente",
+                                              "b":  "recurso ordinário e recurso extraordinário, distinguidos pela instância em que a lei é questionada",
+                                              "c":  "controle político e controle jurisdicional, distinguidos pela natureza do órgão que realiza a análise da lei",
+                                              "d":  "controle difuso e controle concentrado, distinguidos pela amplitude do órgão competente e pelo efeito da decisão",
+                                              "e":  "ação popular e ação civil pública, distinguidas pela legitimidade para propor a demanda perante o Judiciário"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "No controle difuso, qualquer juiz pode deixar de aplicar a lei ao caso concreto, com efeito restrito às partes; no controle concentrado, exercido principalmente pelo Supremo Tribunal Federal em ação direta, a decisão retira a lei do ordenamento com efeito geral (erga omnes). As demais alternativas descrevem distinções processuais reais, mas diferentes da pergunta.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-103",
+                         "texto_apoio":  "Uma pessoa é presa sem que exista mandado judicial ou flagrante delito, e seu advogado busca uma medida judicial urgente para restabelecer sua liberdade de locomoção.",
+                         "enunciado":  "O remédio constitucional adequado para essa situação é:",
+                         "alternativas":  {
+                                              "a":  "o mandado de segurança, cabível sempre que um direito líquido e certo é violado por autoridade pública",
+                                              "b":  "a ação popular, cabível ao cidadão para anular ato lesivo ao patrimônio público, à moralidade administrativa ou ao meio ambiente",
+                                              "c":  "a ação civil pública, cabível para a tutela de interesses difusos e coletivos por legitimados específicos",
+                                              "d":  "o mandado de injunção, cabível quando a falta de norma regulamentadora inviabiliza o exercício de um direito",
+                                              "e":  "o habeas corpus, cabível quando alguém sofre ou está ameaçado de sofrer violência ou coação à liberdade de locomoção"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O habeas corpus protege especificamente a liberdade de locomoção contra prisão ou ameaça ilegal — é o remédio constitucional cabível quando alguém é preso sem mandado judicial ou flagrante. Os demais remédios listados protegem outros bens jurídicos: direito líquido e certo (mandado de segurança), interesses coletivos (ação civil pública), norma regulamentadora ausente (mandado de injunção) e patrimônio público (ação popular).",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-104",
+                         "texto_apoio":  "Um cidadão tem seu pedido de certidão negado por um órgão público sem justificativa legal, mesmo apresentando toda a documentação exigida em lei para o requerimento.",
+                         "enunciado":  "O remédio constitucional cabível para garantir esse direito líquido e certo diante do ato ilegal da autoridade pública é:",
+                         "alternativas":  {
+                                              "a":  "o habeas data, cabível especificamente para acesso ou retificação de informações constantes de banco de dados público",
+                                              "b":  "o habeas corpus, cabível quando há violação ou ameaça à liberdade de locomoção do próprio requerente",
+                                              "c":  "o mandado de segurança, cabível quando um direito líquido e certo é violado por ato de autoridade pública",
+                                              "d":  "a ação civil pública, cabível para a tutela de interesses difusos e coletivos por legitimados específicos",
+                                              "e":  "o mandado de injunção, cabível quando a ausência de norma regulamentadora impede o exercício de um direito"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O mandado de segurança protege direito líquido e certo, não amparado por habeas corpus ou habeas data, violado por ato de autoridade pública — situação que descreve exatamente a negativa injustificada de uma certidão a quem já cumpriu os requisitos legais. Os demais remédios protegem outros bens jurídicos específicos, não aplicáveis ao caso descrito.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-105",
+                         "texto_apoio":  "Antes de aplicar qualquer penalidade a um servidor público, a administração precisa garantir que ele seja informado das acusações, possa se manifestar e apresentar provas em sua defesa, e tenha uma decisão fundamentada ao final do processo.",
+                         "enunciado":  "Esse conjunto de garantias, aplicável tanto a processos judiciais quanto administrativos, decorre do princípio constitucional do:",
+                         "alternativas":  {
+                                              "a":  "livre convencimento motivado, que autoriza o julgador a decidir conforme sua análise pessoal das provas produzidas",
+                                              "b":  "devido processo legal, que assegura contraditório, ampla defesa e decisão fundamentada antes de qualquer sanção",
+                                              "c":  "duplo grau de jurisdição, que garante ao interessado o direito de recorrer da decisão a uma instância superior",
+                                              "d":  "princípio da legalidade estrita, que impede a administração de agir sem autorização legal expressa e específica",
+                                              "e":  "princípio da publicidade, que exige a divulgação ampla dos atos administrativos praticados pelo poder público"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O devido processo legal engloba o contraditório (direito de ser ouvido) e a ampla defesa (direito de se manifestar e produzir provas), aplicáveis tanto a processos judiciais quanto administrativos antes de qualquer sanção. Os demais princípios listados são reais, mas não correspondem ao conjunto de garantias descrito no texto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-106",
+                         "texto_apoio":  "A Constituição Federal distribui as funções estatais entre três estruturas distintas, cada uma com atribuições próprias, mas capazes de controlar e limitar as demais em determinadas situações.",
+                         "enunciado":  "Esse arranjo institucional, que evita a concentração do poder político num único centro de decisão, é conhecido como:",
+                         "alternativas":  {
+                                              "a":  "separação dos poderes com freios e contrapesos, arranjo que distribui e limita reciprocamente as funções estatais",
+                                              "b":  "federalismo cooperativo, arranjo que distribui competências entre União, Estados e Municípios de forma articulada",
+                                              "c":  "presidencialismo de coalizão, arranjo pelo qual o chefe do Executivo governa a partir de alianças partidárias",
+                                              "d":  "bicameralismo federativo, arranjo que divide o poder legislativo em duas casas com atribuições distintas",
+                                              "e":  "controle de constitucionalidade difuso, arranjo pelo qual qualquer juiz pode deixar de aplicar uma lei inconstitucional"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A separação dos poderes — Executivo, Legislativo e Judiciário — com mecanismos de controle recíproco (os chamados freios e contrapesos) é o arranjo que evita a concentração do poder político num único centro de decisão. As demais alternativas descrevem outros arranjos institucionais reais, mas distintos do descrito no texto.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-107",
+                         "texto_apoio":  "Um estado deseja legislar sobre um tema de trânsito local que não está listado entre os assuntos reservados privativamente à União pela Constituição Federal.",
+                         "enunciado":  "A possibilidade de o estado legislar sobre esse tema, respeitadas as normas gerais federais quando existirem, decorre da:",
+                         "alternativas":  {
+                                              "a":  "competência exclusiva da União, que impede qualquer outro ente federativo de legislar sobre matérias de trânsito",
+                                              "b":  "delegação legislativa direta do Congresso Nacional a cada estado, mediante decreto legislativo específico e temporário",
+                                              "c":  "competência privativa dos Municípios, atribuída constitucionalmente para assuntos de interesse estritamente local",
+                                              "d":  "competência legislativa concorrente entre União e Estados, prevista para determinadas matérias na Constituição Federal",
+                                              "e":  "ausência de competência de qualquer ente federativo, hipótese em que a matéria fica sujeita a regulamento federal único"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A competência legislativa concorrente, prevista na Constituição Federal, permite que Estados legislem sobre determinadas matérias observando as normas gerais federais quando existirem, e de forma plena na ausência delas. As demais alternativas descrevem outras modalidades de competência ou hipóteses que não correspondem à situação descrita.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-108",
+                         "texto_apoio":  "Um partido político com representação no Congresso Nacional pretende questionar, perante o Supremo Tribunal Federal, uma lei federal recém-aprovada que considera incompatível com a Constituição.",
+                         "enunciado":  "O instrumento processual adequado para esse questionamento direto, com efeito geral sobre toda a lei, é:",
+                         "alternativas":  {
+                                              "a":  "o recurso extraordinário, cabível apenas após esgotadas as instâncias ordinárias do processo judicial em curso",
+                                              "b":  "o habeas corpus coletivo, cabível quando há ameaça à liberdade de locomoção de um grupo determinado de pessoas",
+                                              "c":  "o mandado de segurança coletivo, cabível para a defesa de direito líquido e certo de associados de uma entidade",
+                                              "d":  "a reclamação constitucional, cabível para garantir o cumprimento de decisão já proferida pelo próprio tribunal",
+                                              "e":  "a Ação Direta de Inconstitucionalidade, proposta por legitimados específicos perante o Supremo Tribunal Federal"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A Ação Direta de Inconstitucionalidade (ADI) é o instrumento de controle concentrado pelo qual legitimados específicos — entre eles partidos políticos com representação no Congresso Nacional — questionam diretamente perante o Supremo Tribunal Federal a compatibilidade de uma lei com a Constituição, com efeito geral sobre a norma. Os demais instrumentos listados servem a outras finalidades processuais.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-109",
+                         "texto_apoio":  "Um dano ambiental afeta um número indeterminado de pessoas numa região, sem que nenhum indivíduo isolado tenha legitimidade processual suficiente para buscar, sozinho, a reparação de todo o prejuízo coletivo causado.",
+                         "enunciado":  "O instrumento processual criado para a tutela desse tipo de interesse difuso ou coletivo, por legitimados como o Ministério Público, é:",
+                         "alternativas":  {
+                                              "a":  "a ação civil pública, voltada à tutela de interesses difusos e coletivos por legitimados como o Ministério Público",
+                                              "b":  "o mandado de segurança individual, voltado à proteção de direito líquido e certo de uma única pessoa determinada",
+                                              "c":  "o habeas corpus, voltado exclusivamente à proteção da liberdade de locomoção de pessoas físicas identificadas",
+                                              "d":  "a reclamação constitucional, voltada a garantir o cumprimento de uma decisão específica já proferida anteriormente por tribunal superior",
+                                              "e":  "o mandado de injunção, voltado a suprir a ausência de norma regulamentadora que impede o exercício de um direito"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A ação civil pública é o instrumento processual voltado à tutela de interesses difusos e coletivos — como danos ambientais que afetam um número indeterminado de pessoas — por legitimados como o Ministério Público, associações e entes públicos. Os demais instrumentos listados protegem direitos individuais ou situações processuais distintas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-110",
+                         "texto_apoio":  "Antes de decidir sobre a expulsão de um aluno acusado de indisciplina grave, uma instituição de ensino pública precisa garantir que ele tenha ciência da acusação e oportunidade de se manifestar antes da decisão final do processo administrativo.",
+                         "enunciado":  "As duas garantias processuais exigidas nesse caso, aplicáveis a qualquer processo administrativo ou judicial, são:",
+                         "alternativas":  {
+                                              "a":  "contraditório e ampla defesa, exigidos para que o acusado seja ouvido e possa se manifestar antes da decisão",
+                                              "b":  "publicidade e motivação, exigidas para que qualquer decisão administrativa produza efeitos válidos e legítimos",
+                                              "c":  "eficiência e economicidade, exigidas para que o processo administrativo seja conduzido sem gastos desnecessários",
+                                              "d":  "impessoalidade e moralidade, exigidas para que a decisão não beneficie interesses pessoais de quem a proferiu",
+                                              "e":  "razoabilidade e proporcionalidade, exigidas para que a sanção aplicada seja compatível com a gravidade do ato"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O contraditório garante ao acusado ciência da acusação e o direito de se manifestar; a ampla defesa garante a possibilidade de produzir provas e argumentos antes da decisão final. As demais alternativas listam outros princípios constitucionais reais da administração pública, mas não correspondem exatamente às duas garantias exigidas no caso descrito.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-111",
+                         "texto_apoio":  "Um governante que assume o poder por meio de eleições regulares, mas depois passa a ignorar decisões judiciais e a governar por decretos que extrapolam os limites que a Constituição lhe atribui, rompe com um princípio estruturante da ordem constitucional.",
+                         "enunciado":  "Esse princípio, que subordina inclusive quem exerce o poder político às normas e aos limites fixados pela Constituição, é conhecido como:",
+                         "alternativas":  {
+                                              "a":  "soberania popular, princípio segundo o qual o poder político emana do povo, que o exerce por meio de representantes eleitos periodicamente",
+                                              "b":  "Estado Democrático de Direito, princípio que subordina o exercício do poder político aos limites fixados pela Constituição",
+                                              "c":  "pluralismo político, princípio que reconhece e protege a diversidade de partidos e correntes de pensamento no país",
+                                              "d":  "presidencialismo, sistema de governo em que o chefe do Executivo acumula as funções de chefe de Estado e de governo",
+                                              "e":  "federalismo, forma de organização territorial do poder que distribui competências entre diferentes entes políticos"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "Estado Democrático de Direito é o princípio segundo o qual todo o exercício do poder político, inclusive por quem foi eleito, permanece subordinado aos limites e procedimentos fixados pela Constituição — governar por decretos que extrapolam esses limites e ignorar decisões judiciais rompe justamente com esse princípio. As demais alternativas nomeiam outros princípios ou sistemas constitucionais reais, mas distintos do descrito.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-112",
+                         "texto_apoio":  "Entre suas diversas competências, um tribunal brasileiro tem a atribuição específica de julgar, em última instância, as questões que envolvem diretamente a interpretação da Constituição Federal.",
+                         "enunciado":  "Esse tribunal, conhecido como o guardião da Constituição, é:",
+                         "alternativas":  {
+                                              "a":  "o Superior Tribunal de Justiça, responsável por uniformizar a interpretação da legislação federal infraconstitucional",
+                                              "b":  "o Conselho Nacional de Justiça, responsável pelo controle administrativo e disciplinar do Poder Judiciário",
+                                              "c":  "o Tribunal de Contas da União, responsável por fiscalizar a aplicação dos recursos públicos federais",
+                                              "d":  "o Supremo Tribunal Federal, responsável por julgar, em última instância, as questões de interpretação constitucional",
+                                              "e":  "o Tribunal Superior Eleitoral, responsável por julgar questões relacionadas ao processo eleitoral do país"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O Supremo Tribunal Federal é o guardião da Constituição, com a atribuição precípua de julgar, em última instância, as questões de interpretação constitucional — inclusive por meio do controle concentrado de constitucionalidade. Os demais órgãos listados exercem funções reais, mas distintas dessa atribuição específica.",
+                         "formato":  "direta"
                      }
                  ]
 }

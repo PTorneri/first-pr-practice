@@ -106,6 +106,42 @@ const SUBTEMAS = {
       [/m[ée]dia\b/i, 2],
       [/pre[çc]o|custo|receita|sal[áa]rio|or[çc]amento/i, 2],
     ] },
+    { id: "matematica-complexos", nome: "Números Complexos", regras: [
+      [/n[uú]mero[s]? complexo|forma trigonom[ée]trica de um complexo|plano de argand|argand-gauss/i, 5],
+      [/\bi\s*=\s*√[-−]1|i[²2]\s*=\s*[-−]1|unidade imagin[áa]ria/i, 5],
+      [/de moivre|ra[íi]zes? n-[ée]sima[s]?|ra[íi]zes? complexas/i, 5],
+      [/conjugado (de|do)|m[óo]dulo (do|de um) (n[uú]mero )?complexo|\|z\|/i, 4],
+      [/parte real|parte imagin[áa]ria|z\s*=\s*a\s*\+\s*bi/i, 4],
+      [/argumento (do|de um) (n[uú]mero )?complexo|forma polar de/i, 4],
+      // notação z₁, z₂, "a+bi" apontando pra numero complexo mesmo sem citar a palavra
+      [/\bz[₀₁₂₃\d]*\s*=\s*[-−]?\d*\s*[+\-−]\s*\d*i\b/i, 4],
+      [/cos\s*\d+°.*i\s*sen|cos\s*θ\s*\+\s*i\s*sen/i, 4],
+      [/\bi\b.{0,15}(\+|\-|−).{0,15}\bi\b/, 1],
+    ] },
+    { id: "matematica-polinomios", nome: "Polinômios", regras: [
+      [/rela[çc][õo]es? de girard/i, 5],
+      [/teorema do resto|teorema fundamental da [áa]lgebra|d'alembert/i, 5],
+      [/multiplicidade da raiz|raiz (dupla|tripla|de multiplicidade)/i, 4],
+      [/polin[ôo]mio de grau|coeficientes do polin[ôo]mio|soma das ra[íi]zes|produto das ra[íi]zes/i, 4],
+      [/dividido por \(x\s*[-−]|divis[ãa]o de polin[ôo]mios|quociente (obtido|da divis[ãa]o)/i, 4],
+      [/\bp\(x\)\s*=/i, 3],
+      [/resto da divis[ãa]o|[ée] ra[íi]z d[eo] polin[ôo]mio|raiz racional/i, 3],
+      [/grau do polin[ôo]mio|grau do quociente|coeficiente l[íi]der/i, 3],
+    ] },
+    { id: "matematica-logica-conjuntos", nome: "Lógica e Conjuntos", regras: [
+      [/diagrama de venn|opera[çc][õo]es? (entre|com) conjuntos/i, 5],
+      [/uni[ãa]o (de|dos|entre) conjuntos|interse[çc][ãa]o (de|dos|entre) conjuntos|conjunto complementar|diferen[çc]a entre conjuntos|diferen[çc]a sim[ée]trica/i, 5],
+      [/tabela[- ]verdade|proposi[çc][ãa]o (l[óo]gica|composta|simples)|conectivo l[óo]gico|valor l[óo]gico/i, 5],
+      [/nega[çc][ãa]o (l[óo]gica |d[ao] )?(proposi[çc][ãa]o|condicional)|contrapositiva|bicondicional|rec[íi]proca/i, 4],
+      [/para todo\b|existe (pelo menos )?um\b|quantificador/i, 4],
+      [/se e somente se|condi[çc][ãa]o necess[áa]ria e suficiente/i, 3],
+      [/inclus[ãa]o e exclus[ãa]o|n[úu]mero de elementos d[ao] uni[ãa]o/i, 4],
+      // fraseado de problema de conjuntos sem usar a palavra "conjunto"
+      [/n[ãa]o (fazem|sabem|gostam|assinam|estudam) nenhum|apenas (um|uma) d[oa]s duas|ambos os (servi[çc]os|cursinhos|gêneros|g[ée]neros)/i, 4],
+      [/\bA\s*∪\s*B|\bA\s*∩\s*B|\bA\s*[-−]\s*B|\bA\s*△\s*B|Aᶜ|Bᶜ/, 5],
+      [/\bp\s*→\s*q|~p|¬p|proposi[çc][õo]es? p[,:]? q/i, 4],
+      [/silogismo|argumento v[áa]lido|premissa[s]?/i, 3],
+    ] },
   ],
 
   // ---------------------------------------------------------------- Biologia
@@ -277,6 +313,13 @@ const SUBTEMAS = {
       [/empuxo|arquimedes|flutua|afunda|densidade|massa espec[íi]fica/i, 5],
       [/fluido|l[íi]quido em (repouso|equil)|vasos comunicantes|prensa hidr[áa]ulica|manometro|manômetro/i, 5],
       [/vaz[ãa]o|escoamento|bernoulli|tubo de/i, 4],
+    ] },
+    { id: "fisica-moderna", nome: "Física Moderna e Relatividade", regras: [
+      [/relatividade (restrita|especial)|dilata[çc][ãa]o do tempo|contra[çc][ãa]o do comprimento|transforma[çc][õo]es? de lorentz/i, 5],
+      [/referenciais? inerci(al|ais)|simultaneidade de eventos|velocidade relativ[íi]stica/i, 4],
+      [/efeito fotoel[ée]trico|f[óo]ton\b|quantum de energia|dualidade onda-part[íi]cula/i, 5],
+      [/E\s*=\s*mc[²2]|energia de repouso|massa relativ[íi]stica/i, 5],
+      [/fator de lorentz|função trabalho do metal/i, 4],
     ] },
   ],
 

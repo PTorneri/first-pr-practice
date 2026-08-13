@@ -1,0 +1,356 @@
+{
+  "subtopic": "fisica",
+  "textos": [],
+  "questoes": [
+    {
+      "id": "eng-fismoderna-01",
+      "enunciado": "Uma nave se move com velocidade v = 0,6c em relação à Terra. Um relógio a bordo da nave marca um intervalo de tempo de 10 s entre dois eventos que ocorrem no mesmo ponto da nave. O intervalo de tempo medido por um observador na Terra, para os mesmos dois eventos, é de:",
+      "alternativas": {
+        "a": "6 s",
+        "b": "8 s",
+        "c": "10 s",
+        "d": "12,5 s",
+        "e": "16,7 s"
+      },
+      "resposta": "d",
+      "explicacao": "O tempo próprio (Δt₀=10 s) é o medido no referencial em que os dois eventos ocorrem no mesmo lugar — o da nave. Para o observador na Terra, esse intervalo se dilata: Δt = γ·Δt₀, com γ = 1/√(1−0,6²) = 1/√0,64 = 1/0,8 = 1,25. Logo Δt = 1,25×10 = 12,5 s. A alternativa (a), 6 s, inverte a fórmula (multiplica por 1/γ em vez de γ), como se o tempo se contraísse em vez de dilatar.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-02",
+      "enunciado": "Um múon instável, em repouso, tem vida média de 6 μs (tempo próprio). Produzido na alta atmosfera com velocidade v = 0,8c em relação à Terra, sua vida média medida por um observador terrestre é de:",
+      "alternativas": {
+        "a": "3,6 μs",
+        "b": "4,8 μs",
+        "c": "6 μs",
+        "d": "10 μs",
+        "e": "15 μs"
+      },
+      "resposta": "d",
+      "explicacao": "γ = 1/√(1−0,8²) = 1/√0,36 = 1/0,6 = 5/3. O tempo medido na Terra é dilatado: Δt = γ·Δt₀ = (5/3)×6 = 10 μs. É esse efeito — a vida média do múon \"esticada\" do ponto de vista terrestre — que explica por que múons produzidos a dezenas de km de altitude conseguem chegar à superfície antes de decair. A alternativa (b), 4,8 μs, usa 1/γ = 0,6 em vez de γ, contraindo o tempo em vez de dilatar.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-03",
+      "enunciado": "Para que o fator de Lorentz γ de uma partícula seja igual a 2, sua velocidade em relação ao referencial do laboratório deve ser aproximadamente:",
+      "alternativas": {
+        "a": "0,50c",
+        "b": "0,75c",
+        "c": "0,87c",
+        "d": "0,95c",
+        "e": "0,99c"
+      },
+      "resposta": "c",
+      "explicacao": "γ = 1/√(1−v²/c²) = 2 implica √(1−v²/c²) = 1/2, logo 1−v²/c² = 1/4, e v²/c² = 3/4. Assim, v/c = √3/2 ≈ 0,866, ou seja, aproximadamente 0,87c. A alternativa (a), 0,50c, é um valor \"redondo\" tentador, mas dá γ = 1/√0,75 ≈ 1,15, bem abaixo de 2.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-04",
+      "enunciado": "Uma nave tem comprimento próprio (medido em repouso) de 100 m. Vista por um observador na Terra, em relação ao qual a nave se move com v = 0,6c, seu comprimento medido é de:",
+      "alternativas": {
+        "a": "125 m",
+        "b": "100 m",
+        "c": "80 m",
+        "d": "60 m",
+        "e": "36 m"
+      },
+      "resposta": "c",
+      "explicacao": "O comprimento medido por um observador em relação a quem o objeto se move é contraído: L = L₀/γ = L₀·√(1−v²/c²). Com γ=1,25 (calculado para v=0,6c), L = 100/1,25 = 80 m. A alternativa (a), 125 m, inverte a fórmula, multiplicando por γ em vez de dividir — usaria a fórmula certa da dilatação do tempo aplicada, por engano, ao comprimento.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-05",
+      "enunciado": "Uma régua tem 15 m de comprimento próprio. Movendo-se com v = 0,8c em relação a um observador, o comprimento dessa régua medido por esse observador é de:",
+      "alternativas": {
+        "a": "25 m",
+        "b": "20 m",
+        "c": "15 m",
+        "d": "12 m",
+        "e": "9 m"
+      },
+      "resposta": "e",
+      "explicacao": "L = L₀·√(1−v²/c²). Com v=0,8c, √(1−0,64) = √0,36 = 0,6. Logo L = 15×0,6 = 9 m. A alternativa (c), 15 m, ignora completamente o efeito relativístico, como se a contração só se manifestasse acima de algum limiar de velocidade — na verdade ela ocorre em qualquer v>0, só é desprezível para v muito menor que c.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-06",
+      "enunciado": "Uma nave espacial em forma de disco, com diâmetro D no referencial em que está em repouso, se move com velocidade próxima de c numa direção paralela ao seu diâmetro, em relação a um observador na Terra. Sobre as dimensões da nave medidas por esse observador, é correto afirmar que:",
+      "alternativas": {
+        "a": "nenhuma dimensão se altera, só o tempo se dilata",
+        "b": "todas as dimensões se expandem, não se contraem",
+        "c": "o diâmetro na direção do movimento se contrai, mas a espessura do disco, perpendicular ao movimento, permanece a mesma",
+        "d": "tanto o diâmetro quanto a espessura se contraem igualmente",
+        "e": "apenas a espessura perpendicular ao movimento se contrai"
+      },
+      "resposta": "c",
+      "explicacao": "A contração de Lorentz ocorre apenas na direção do movimento relativo — dimensões perpendiculares à velocidade não são afetadas. Por isso uma esfera em altíssima velocidade pareceria achatada na direção do movimento, não uniformemente menor em todas as direções. A alternativa (d) generaliza a contração para todas as dimensões, erro comum de tratar o efeito como uma escala uniforme.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-07",
+      "enunciado": "Dois eventos ocorrem simultaneamente segundo um observador parado numa estação espacial, em pontos diferentes do espaço. Um segundo observador, a bordo de uma nave que passa pela estação com velocidade relativística, relativa à qual os dois eventos ocorrem em posições diferentes ao longo da direção do movimento, mede:",
+      "alternativas": {
+        "a": "apenas um dos dois eventos, pois o outro deixa de existir no referencial da nave",
+        "b": "os dois eventos invertidos no tempo, mas ainda simultâneos entre si",
+        "c": "os dois eventos simultâneos, desde que a velocidade da nave seja menor que 0,5c",
+        "d": "os dois eventos como simultâneos também, pois simultaneidade é absoluta",
+        "e": "os dois eventos como não simultâneos, pois simultaneidade depende do referencial"
+      },
+      "resposta": "e",
+      "explicacao": "Um dos postulados centrais da relatividade restrita é que a simultaneidade não é absoluta: dois eventos que ocorrem ao mesmo tempo em pontos diferentes, segundo um observador, em geral NÃO ocorrem ao mesmo tempo segundo outro observador em movimento relativo — a ordem temporal entre eventos separados no espaço pode até se inverter, desde que os eventos não possam se influenciar causalmente. A alternativa (d) contraria justamente esse postulado, tratando o tempo como absoluto (visão newtoniana clássica).",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-08",
+      "enunciado": "Considere c = 3,0×10⁸ m/s. A energia de repouso equivalente a uma massa de 1 grama (1,0×10⁻³ kg) é de aproximadamente:",
+      "alternativas": {
+        "a": "3,0×10⁸ J",
+        "b": "9,0×10¹⁰ J",
+        "c": "9,0×10¹³ J",
+        "d": "3,0×10¹⁶ J",
+        "e": "9,0×10¹⁶ J"
+      },
+      "resposta": "c",
+      "explicacao": "E = mc² = 1,0×10⁻³ × (3,0×10⁸)² = 1,0×10⁻³ × 9,0×10¹⁶ = 9,0×10¹³ J. A alternativa (d), 3,0×10¹⁶ J, esquece de elevar c ao quadrado, multiplicando m só por c. A (e), 9,0×10¹⁶ J, esquece de multiplicar pela massa em quilogramas (usa m=1 em vez de m=10⁻³).",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-09",
+      "enunciado": "Numa reação nuclear, o defeito de massa (massa \"perdida\", convertida em energia) é de 3,6×10⁻²⁸ kg. Considerando c = 3,0×10⁸ m/s, a energia liberada nessa reação é de aproximadamente:",
+      "alternativas": {
+        "a": "1,08×10⁻¹⁹ J",
+        "b": "3,24×10⁻¹¹ J",
+        "c": "3,24×10⁻²⁰ J",
+        "d": "1,08×10⁻³⁵ J",
+        "e": "3,6×10⁻²⁸ J"
+      },
+      "resposta": "b",
+      "explicacao": "E = Δm·c² = 3,6×10⁻²⁸ × (3,0×10⁸)² = 3,6×10⁻²⁸ × 9,0×10¹⁶ = 3,24×10⁻¹¹ J. A alternativa (e) esquece completamente de multiplicar por c², repetindo o próprio Δm como se fosse a energia. A (a) multiplica por c em vez de c² (só uma potência, não duas).",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-10",
+      "enunciado": "Uma partícula com energia de repouso E₀ se move com velocidade v = 0,6c em relação ao laboratório. A energia TOTAL dessa partícula, medida no laboratório, é dada por E = γE₀, em que γ é o fator de Lorentz. Para essa velocidade, a energia total vale, em relação à energia de repouso:",
+      "alternativas": {
+        "a": "0,8 E₀",
+        "b": "1,0 E₀",
+        "c": "1,25 E₀",
+        "d": "1,6 E₀",
+        "e": "2,0 E₀"
+      },
+      "resposta": "c",
+      "explicacao": "γ = 1/√(1−0,6²) = 1/0,8 = 1,25. A energia total é E = γE₀ = 1,25E₀ — maior que a energia de repouso, porque inclui também a energia cinética da partícula em movimento. A alternativa (a), 0,8 E₀, usa 1/γ em vez de γ, como se o movimento reduzisse a energia total em vez de aumentá-la.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-11",
+      "enunciado": "A energia cinética relativística de uma partícula é dada por Ec = (γ−1)·m·c², em que γ é o fator de Lorentz. Para uma partícula com v = 0,6c, a energia cinética, em relação à sua energia de repouso mc², vale:",
+      "alternativas": {
+        "a": "1,25 mc²",
+        "b": "0,80 mc²",
+        "c": "0,36 mc²",
+        "d": "0,25 mc²",
+        "e": "0,60 mc²"
+      },
+      "resposta": "d",
+      "explicacao": "γ = 1,25 para v=0,6c. Ec = (γ−1)mc² = (1,25−1)mc² = 0,25mc². A alternativa (a), 1,25 mc², confunde energia cinética com energia TOTAL (γmc²), esquecendo de subtrair a parcela de energia de repouso que já existia antes do movimento.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-12",
+      "enunciado": "Considere h = 6,63×10⁻³⁴ J·s. A energia de um fóton de luz visível com frequência f = 5,0×10¹⁴ Hz é de aproximadamente:",
+      "alternativas": {
+        "a": "1,33×10⁻⁴⁸ J",
+        "b": "3,3×10⁻¹⁹ J",
+        "c": "6,63×10⁻³⁴ J",
+        "d": "3,0×10⁸ J",
+        "e": "1,33×10¹⁹ J"
+      },
+      "resposta": "b",
+      "explicacao": "E = h·f = 6,63×10⁻³⁴ × 5,0×10¹⁴ = 3,3×10⁻¹⁹ J. A alternativa (a) divide em vez de multiplicar h por f. A (c) repete o valor de h sem multiplicar pela frequência, como se a energia do fóton não dependesse da frequência da luz.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-13",
+      "enunciado": "A função trabalho de uma placa metálica é φ = 3,5×10⁻¹⁹ J. Ao incidir sobre a placa luz de frequência f = 9,0×10¹⁴ Hz (com h = 6,63×10⁻³⁴ J·s), a energia cinética máxima dos elétrons ejetados por efeito fotoelétrico é de aproximadamente:",
+      "alternativas": {
+        "a": "9,47×10⁻¹⁹ J",
+        "b": "3,5×10⁻¹⁹ J",
+        "c": "0 J, pois a luz visível não arranca elétrons",
+        "d": "2,5×10⁻¹⁹ J",
+        "e": "5,97×10⁻¹⁹ J"
+      },
+      "resposta": "d",
+      "explicacao": "A equação do efeito fotoelétrico é Ec(máx) = hf − φ. A energia do fóton incidente é hf = 6,63×10⁻³⁴ × 9,0×10¹⁴ ≈ 5,97×10⁻¹⁹ J. Subtraindo a função trabalho: 5,97×10⁻¹⁹ − 3,5×10⁻¹⁹ ≈ 2,5×10⁻¹⁹ J. A alternativa (a), 9,47×10⁻¹⁹ J, soma a função trabalho em vez de subtrair, como se ela contribuísse para a energia cinética em vez de ser o custo mínimo para arrancar o elétron.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-14",
+      "enunciado": "A função trabalho de um metal é φ = 3,315×10⁻¹⁹ J. Considerando h = 6,63×10⁻³⁴ J·s, a frequência de corte (frequência mínima de luz capaz de arrancar elétrons desse metal por efeito fotoelétrico) é de aproximadamente:",
+      "alternativas": {
+        "a": "2,0×10¹³ Hz",
+        "b": "5,0×10¹⁵ Hz",
+        "c": "1,0×10¹⁵ Hz",
+        "d": "5,0×10¹⁴ Hz",
+        "e": "2,2×10⁻¹³ Hz"
+      },
+      "resposta": "d",
+      "explicacao": "Na frequência de corte, a energia do fóton é exatamente igual à função trabalho, sem sobra de energia cinética: hf₀ = φ, logo f₀ = φ/h = 3,315×10⁻¹⁹ / 6,63×10⁻³⁴ ≈ 5,0×10¹⁴ Hz. A alternativa (e) inverte a divisão (h/φ em vez de φ/h), o que muda drasticamente a ordem de grandeza e ainda erra a unidade resultante.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-15",
+      "enunciado": "Um feixe de luz monocromática, com frequência abaixo da frequência de corte de certo metal, incide sobre a superfície desse metal. Ao aumentar MUITO a intensidade desse mesmo feixe (mantendo a frequência fixa), o efeito observado é:",
+      "alternativas": {
+        "a": "elétrons passam a ser ejetados, pois a energia total entregue ao metal aumenta com a intensidade",
+        "b": "a energia cinética dos elétrons ejetados aumenta proporcionalmente à intensidade",
+        "c": "o efeito fotoelétrico passa a ocorrer, mas com atraso temporal, esperando energia suficiente se acumular",
+        "d": "os elétrons são ejetados apenas na superfície aquecida termicamente pelo excesso de luz",
+        "e": "nenhum elétron é ejetado, mesmo com intensidade arbitrariamente alta, porque cada fóton individual continua sem energia suficiente"
+      },
+      "resposta": "e",
+      "explicacao": "O efeito fotoelétrico depende da energia de cada fóton individual (E=hf), não da energia total do feixe: se hf < φ, nenhum fóton isolado tem energia suficiente para arrancar um elétron, não importa quantos fótons incidam por segundo. Esse é o resultado que a física clássica (ondulatória) não conseguia explicar, e que motivou o modelo de Einstein. A alternativa (a) aplica a intuição ondulatória clássica, que previa (erradamente) que intensidade suficiente sempre arrancaria elétrons.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-16",
+      "enunciado": "Um elétron (massa m = 9,11×10⁻³¹ kg) se move com velocidade v = 2,0×10⁶ m/s. Considerando h = 6,63×10⁻³⁴ J·s, o comprimento de onda de De Broglie associado a esse elétron é de aproximadamente:",
+      "alternativas": {
+        "a": "1,8×10⁻²⁴ m",
+        "b": "1,2×10⁻³⁶ m",
+        "c": "5,5×10⁹ m",
+        "d": "3,6×10⁻²⁴ m",
+        "e": "3,6×10⁻¹⁰ m"
+      },
+      "resposta": "e",
+      "explicacao": "O comprimento de onda de De Broglie é λ = h/p = h/(mv) = 6,63×10⁻³⁴ / (9,11×10⁻³¹ × 2,0×10⁶) ≈ 3,6×10⁻¹⁰ m. A alternativa (a), 1,8×10⁻²⁴ m, esquece de dividir h pelo momento e faz outra operação incorreta, perdendo várias ordens de grandeza da resposta correta.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-17",
+      "enunciado": "Um fóton tem energia E = 3,0×10⁻¹⁹ J. Considerando c = 3,0×10⁸ m/s, o momento linear desse fóton é de:",
+      "alternativas": {
+        "a": "9,0×10⁻¹¹ kg·m/s",
+        "b": "1,0×10⁻²⁷ kg·m/s",
+        "c": "1,0×10⁻¹⁰ kg·m/s",
+        "d": "9,0×10²⁶ kg·m/s",
+        "e": "3,0×10⁻¹⁹ kg·m/s"
+      },
+      "resposta": "b",
+      "explicacao": "Para o fóton, p = E/c = 3,0×10⁻¹⁹ / 3,0×10⁸ = 1,0×10⁻²⁷ kg·m/s. A alternativa (a) multiplica E por c em vez de dividir, invertendo a relação. A (e) repete o valor de E sem alterar nada, como se energia e momento tivessem a mesma unidade.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-18",
+      "enunciado": "A experiência da dupla fenda, quando realizada com elétrons emitidos um de cada vez (garantindo que não há interação entre elétrons diferentes), ainda assim produz, após a passagem de muitos elétrons, um padrão de interferência no anteparo. Esse resultado é interpretado como evidência de que:",
+      "alternativas": {
+        "a": "os elétrons colidem uns com os outros mesmo sendo emitidos em instantes diferentes",
+        "b": "o aparato experimental está com defeito, pois elétrons são partículas clássicas",
+        "c": "apenas fótons apresentam dualidade onda-partícula, elétrons não",
+        "d": "o padrão de interferência desaparece quando os elétrons são emitidos um de cada vez",
+        "e": "cada elétron individual se comporta como uma onda que interfere consigo mesma ao atravessar as duas fendas"
+      },
+      "resposta": "e",
+      "explicacao": "Mesmo emitidos isoladamente, os elétrons produzem, coletivamente, o padrão de interferência característico de ondas — evidência direta de que cada elétron individual tem um comportamento ondulatório associado (consistente com λ=h/p de De Broglie), não apenas os fótons de luz. A alternativa (a) tenta uma explicação clássica (colisão entre partículas), que fica descartada justamente pelo cuidado experimental de emitir um elétron de cada vez.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-19",
+      "enunciado": "O efeito fotoelétrico (luz arrancando elétrons de um metal) é historicamente citado como evidência do comportamento:",
+      "alternativas": {
+        "a": "ondulatório da luz, pois só ondas transportam energia contínua",
+        "b": "corpuscular (de partícula) da luz, pois a energia é transferida em pacotes discretos (fótons), e não continuamente",
+        "c": "exclusivamente elétrico da luz, sem relação com sua natureza ondulatória ou corpuscular",
+        "d": "gravitacional da luz, revelado por Einstein na mesma década",
+        "e": "apenas do elétron, sem nenhuma implicação sobre a natureza da luz"
+      },
+      "resposta": "b",
+      "explicacao": "O efeito fotoelétrico só é explicado corretamente ao tratar a luz como um feixe de pacotes discretos de energia (fótons), cada um com energia hf: é a existência de uma frequência de corte abaixo da qual NENHUM elétron é ejetado, independentemente da intensidade, que a teoria ondulatória clássica não conseguia prever. Foi esse resultado que valeu a Einstein o Nobel de Física. A alternativa (a) inverte a lição histórica: é justamente o comportamento ondulatório clássico que falha em explicar o efeito.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-20",
+      "enunciado": "Uma bola de 0,10 kg se move a 20 m/s. Considerando h = 6,63×10⁻³⁴ J·s, o comprimento de onda de De Broglie associado a essa bola é de aproximadamente 3,3×10⁻³⁴ m — um valor absurdamente menor do que qualquer escala observável. Isso explica por que:",
+      "alternativas": {
+        "a": "objetos macroscópicos do dia a dia não exibem efeitos ondulatórios perceptíveis, embora a relação de De Broglie se aplique também a eles",
+        "b": "a fórmula de De Broglie só vale para partículas subatômicas, como elétrons e fótons",
+        "c": "bolas de futebol, na verdade, não têm massa suficiente para ter momento linear",
+        "d": "o comprimento de onda de De Broglie é sempre menor que o do elétron, qualquer que seja o objeto",
+        "e": "a constante de Planck só existe em escalas atômicas"
+      },
+      "resposta": "a",
+      "explicacao": "A relação λ=h/p é universal — vale para qualquer objeto com momento, macroscópico ou não —, mas como h é extremamente pequeno (6,63×10⁻³⁴ J·s), objetos com massa e velocidade do cotidiano têm comprimento de onda tão diminuto que nenhum efeito ondulatório (como difração ou interferência) é detectável na prática. A alternativa (b) erra ao restringir artificialmente o alcance da fórmula, quando na verdade o que muda é apenas a escala do resultado, não a validade da equação.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-21",
+      "enunciado": "Os dois postulados fundamentais da relatividade restrita, propostos por Einstein em 1905, são:",
+      "alternativas": {
+        "a": "as leis da física são as mesmas em todos os referenciais inerciais, e a velocidade da luz no vácuo é a mesma para todos os observadores inerciais, independentemente do movimento da fonte",
+        "b": "o espaço é absoluto e o tempo é relativo, dependendo apenas da velocidade do observador",
+        "c": "a velocidade da luz é infinita, e por isso os eventos simultâneos permanecem simultâneos em qualquer referencial",
+        "d": "a massa de um corpo aumenta indefinidamente até se tornar infinita em qualquer velocidade",
+        "e": "apenas observadores em repouso absoluto podem medir corretamente o tempo e o espaço"
+      },
+      "resposta": "a",
+      "explicacao": "Os dois postulados de Einstein são: (1) as leis da física têm a mesma forma em todos os referenciais inerciais (princípio da relatividade, já presente na mecânica newtoniana) e (2) a velocidade da luz no vácuo é a mesma, c, para todos os observadores inerciais, não importa a velocidade da fonte que a emite. É o segundo postulado, radicalmente contraintuitivo, que força o abandono do tempo e do espaço absolutos da física newtoniana. A alternativa (c) erra ao afirmar que a luz tem velocidade infinita — é justamente o oposto: ela é finita e constante.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-22",
+      "enunciado": "Uma nave se move em relação à Terra com velocidade 0,9c. Um projétil é lançado da nave, na mesma direção do movimento, com velocidade 0,5c em relação à nave. Pela composição relativística de velocidades (diferente da simples soma newtoniana), a velocidade do projétil em relação à Terra é:",
+      "alternativas": {
+        "a": "exatamente 1,4c, pela soma direta das duas velocidades",
+        "b": "menor que c, pois nenhuma composição de velocidades menores que c pode ultrapassar a velocidade da luz",
+        "c": "exatamente c, independentemente dos valores",
+        "d": "maior que c, mas menor que 1,4c",
+        "e": "impossível de calcular sem mais dados sobre a massa do projétil"
+      },
+      "resposta": "b",
+      "explicacao": "Na relatividade restrita, velocidades não se somam diretamente como na mecânica newtoniana — usa-se a fórmula de composição relativística, que sempre produz um resultado menor que c quando as duas velocidades compostas são menores que c. A soma newtoniana ingênua (0,9c+0,5c=1,4c) violaria o limite universal da velocidade da luz, algo que nenhum experimento jamais observou. A alternativa (a) é exatamente esse erro clássico, ignorando a correção relativística.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-23",
+      "enunciado": "Ao dobrar a intensidade de um feixe de luz monocromática (mantendo a mesma frequência, acima da frequência de corte) incidindo sobre uma placa metálica, o efeito sobre a energia cinética máxima dos elétrons ejetados e sobre o número de elétrons ejetados por segundo é, respectivamente:",
+      "alternativas": {
+        "a": "a energia cinética máxima não se altera; o número de elétrons ejetados por segundo dobra",
+        "b": "a energia cinética máxima dobra; o número de elétrons ejetados por segundo não se altera",
+        "c": "ambos dobram",
+        "d": "nenhum dos dois se altera",
+        "e": "a energia cinética máxima dobra; o número de elétrons também dobra"
+      },
+      "resposta": "a",
+      "explicacao": "A energia cinética máxima de cada elétron ejetado depende só da frequência da luz (Ec=hf−φ), não da intensidade: dobrar a intensidade significa dobrar o número de fótons por segundo, cada um com a mesma energia individual de antes. Mais fótons chegando por segundo ejetam mais elétrons por segundo (a corrente fotoelétrica dobra), mas a energia de cada elétron ejetado continua igual. A alternativa (b) inverte a relação correta: é a frequência, não a intensidade, que controla a energia cinética.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-24",
+      "enunciado": "Para velocidades muito menores que a velocidade da luz (v ≪ c), o fator de Lorentz γ se aproxima de:",
+      "alternativas": {
+        "a": "1, e os efeitos relativísticos (dilatação do tempo, contração do comprimento) se tornam desprezíveis",
+        "b": "0, e o tempo para completamente",
+        "c": "infinito, mesmo para velocidades baixas",
+        "d": "c/v, um valor que cresce indefinidamente",
+        "e": "exatamente v/c, coincidindo com a própria razão de velocidades"
+      },
+      "resposta": "a",
+      "explicacao": "Quando v ≪ c, a razão v²/c² é próxima de zero, e γ = 1/√(1−v²/c²) se aproxima de 1/√1 = 1. Com γ≈1, a dilatação do tempo (Δt=γΔt₀) e a contração do comprimento (L=L₀/γ) praticamente desaparecem, recuperando a física newtoniana clássica como caso-limite da relatividade para velocidades do cotidiano — carros, aviões, foguetes comuns. É por isso que os efeitos relativísticos não aparecem na vida diária, apesar de sempre existirem em algum grau.",
+      "formato": "direta"
+    },
+    {
+      "id": "eng-fismoderna-25",
+      "enunciado": "Em uma reação de fissão nuclear, a soma das massas dos produtos finais é menor que a soma das massas dos reagentes iniciais. De acordo com a equivalência massa-energia de Einstein, essa diferença de massa (defeito de massa):",
+      "alternativas": {
+        "a": "foi convertida em energia, liberada na forma de energia cinética dos produtos e radiação",
+        "b": "representa um erro de medição, pois massa não pode ser criada nem destruída em nenhuma circunstância",
+        "c": "indica que a lei de conservação de energia foi violada na reação",
+        "d": "só ocorre em reações químicas, nunca em reações nucleares",
+        "e": "é sempre recuperada integralmente como massa em reações posteriores"
+      },
+      "resposta": "a",
+      "explicacao": "A equivalência E=mc² revela que massa e energia são duas manifestações de uma mesma grandeza conservada: massa \"desaparecida\" reaparece como energia liberada (cinética dos fragmentos, radiação), e a soma massa+energia (numa contabilidade unificada) se conserva. Não há violação da conservação de energia — é justamente a extensão da lei de conservação para incluir a massa como forma de energia que a relatividade introduz. A alternativa (b) aplica a visão pré-relativística, em que massa e energia eram conservadas separadamente.",
+      "formato": "direta"
+    }
+  ]
+}

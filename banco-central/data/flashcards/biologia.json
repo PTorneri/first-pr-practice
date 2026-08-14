@@ -1,0 +1,1028 @@
+{
+  "frente": "biologia",
+  "gerado": "2026-08-14",
+  "porSubtema": {
+    "biologia-genetica": [
+      {
+        "id": "flash-biologia-genetica-01",
+        "frente": "O que é um gene?",
+        "verso": "O trecho de DNA que carrega a informação para produzir uma proteína ou um RNA funcional."
+      },
+      {
+        "id": "flash-biologia-genetica-02",
+        "frente": "Qual é a diferença entre genótipo e fenótipo?",
+        "verso": "Genótipo é a constituição genética do indivíduo (os alelos que ele tem); fenótipo é a característica manifestada, resultado do genótipo com o ambiente."
+      },
+      {
+        "id": "flash-biologia-genetica-03",
+        "frente": "O que são alelos?",
+        "verso": "As versões alternativas de um mesmo gene, ocupando a mesma posição (locus) em cromossomos homólogos."
+      },
+      {
+        "id": "flash-biologia-genetica-04",
+        "frente": "O que significa um indivíduo ser homozigoto?",
+        "verso": "Ter dois alelos iguais para aquele gene (AA ou aa)."
+      },
+      {
+        "id": "flash-biologia-genetica-05",
+        "frente": "O que significa um indivíduo ser heterozigoto?",
+        "verso": "Ter dois alelos diferentes para aquele gene (Aa)."
+      },
+      {
+        "id": "flash-biologia-genetica-06",
+        "frente": "O que é um alelo dominante?",
+        "verso": "Aquele que se manifesta no fenótipo mesmo em dose única, mascarando o recessivo no heterozigoto."
+      },
+      {
+        "id": "flash-biologia-genetica-07",
+        "frente": "O que é um alelo recessivo?",
+        "verso": "Aquele que só se manifesta no fenótipo quando em dose dupla (homozigose)."
+      },
+      {
+        "id": "flash-biologia-genetica-08",
+        "frente": "O que diz a Primeira Lei de Mendel (Lei da Segregação)?",
+        "verso": "Cada característica é determinada por um par de alelos que se separam na formação dos gametas, indo um para cada gameta."
+      },
+      {
+        "id": "flash-biologia-genetica-09",
+        "frente": "Qual é a proporção fenotípica esperada no cruzamento Aa × Aa?",
+        "verso": "3 dominantes para 1 recessivo (3:1)."
+      },
+      {
+        "id": "flash-biologia-genetica-10",
+        "frente": "Qual é a proporção genotípica esperada no cruzamento Aa × Aa?",
+        "verso": "1 AA : 2 Aa : 1 aa."
+      },
+      {
+        "id": "flash-biologia-genetica-11",
+        "frente": "O que diz a Segunda Lei de Mendel (Segregação Independente)?",
+        "verso": "Dois ou mais pares de alelos se distribuem independentemente nos gametas, desde que estejam em cromossomos diferentes."
+      },
+      {
+        "id": "flash-biologia-genetica-12",
+        "frente": "Qual é a proporção fenotípica do cruzamento AaBb × AaBb (di-híbrido)?",
+        "verso": "9:3:3:1."
+      },
+      {
+        "id": "flash-biologia-genetica-13",
+        "frente": "O que é um cruzamento-teste (retrocruzamento)?",
+        "verso": "Cruzar o indivíduo de fenótipo dominante com um homozigoto recessivo, para descobrir se ele é AA ou Aa."
+      },
+      {
+        "id": "flash-biologia-genetica-14",
+        "frente": "O que é codominância?",
+        "verso": "Os dois alelos se manifestam plenamente e ao mesmo tempo no heterozigoto, como no grupo sanguíneo AB."
+      },
+      {
+        "id": "flash-biologia-genetica-15",
+        "frente": "O que é dominância incompleta?",
+        "verso": "O heterozigoto apresenta fenótipo intermediário entre os dois homozigotos, como a flor rosa de pais vermelho e branco."
+      },
+      {
+        "id": "flash-biologia-genetica-16",
+        "frente": "O que é um alelo letal?",
+        "verso": "Aquele que, em certa dose, causa a morte do indivíduo, alterando as proporções mendelianas esperadas (ex.: 2:1 em vez de 3:1)."
+      },
+      {
+        "id": "flash-biologia-genetica-17",
+        "frente": "Como funciona a herança dos grupos sanguíneos ABO?",
+        "verso": "Por alelos múltiplos: IA e IB são codominantes entre si e ambos dominantes sobre i."
+      },
+      {
+        "id": "flash-biologia-genetica-18",
+        "frente": "Que genótipos correspondem ao sangue tipo O?",
+        "verso": "Apenas ii — o tipo O é o duplo recessivo."
+      },
+      {
+        "id": "flash-biologia-genetica-19",
+        "frente": "O que determina o fator Rh?",
+        "verso": "Um gene com alelo dominante R (Rh+) e recessivo r (Rh−); o Rh negativo é homozigoto recessivo."
+      },
+      {
+        "id": "flash-biologia-genetica-20",
+        "frente": "O que é a eritroblastose fetal, e quando pode ocorrer?",
+        "verso": "Doença hemolítica do recém-nascido; ocorre quando mãe Rh− sensibilizada gera filho Rh+ e seus anticorpos atacam as hemácias fetais."
+      },
+      {
+        "id": "flash-biologia-genetica-21",
+        "frente": "O que é herança ligada ao sexo?",
+        "verso": "Aquela cujos genes estão no cromossomo X, fazendo homens e mulheres terem probabilidades diferentes de manifestar a característica."
+      },
+      {
+        "id": "flash-biologia-genetica-22",
+        "frente": "Por que o daltonismo e a hemofilia são mais frequentes em homens?",
+        "verso": "São recessivos ligados ao X, e o homem (XY) tem um só X — basta um alelo alterado para manifestar."
+      },
+      {
+        "id": "flash-biologia-genetica-23",
+        "frente": "O que é uma mulher portadora de um gene recessivo ligado ao X?",
+        "verso": "É heterozigota: não manifesta a característica, mas pode transmiti-la a metade dos filhos."
+      },
+      {
+        "id": "flash-biologia-genetica-24",
+        "frente": "O que é um heredograma?",
+        "verso": "O diagrama que representa as relações de parentesco de uma família e a ocorrência de uma característica ao longo das gerações."
+      },
+      {
+        "id": "flash-biologia-genetica-25",
+        "frente": "Num heredograma, como se reconhece que uma característica é recessiva?",
+        "verso": "Quando dois indivíduos que não a manifestam têm um filho afetado — os pais são heterozigotos."
+      },
+      {
+        "id": "flash-biologia-genetica-26",
+        "frente": "Quantos cromossomos tem uma célula somática humana?",
+        "verso": "46, ou seja, 23 pares (número diploide, 2n)."
+      },
+      {
+        "id": "flash-biologia-genetica-27",
+        "frente": "O que é um cariótipo?",
+        "verso": "O conjunto completo de cromossomos de um indivíduo, organizado por tamanho e forma, usado para detectar alterações numéricas e estruturais."
+      },
+      {
+        "id": "flash-biologia-genetica-28",
+        "frente": "O que causa a Síndrome de Down?",
+        "verso": "Uma trissomia do cromossomo 21 — três cópias em vez de duas, geralmente por não disjunção na meiose."
+      },
+      {
+        "id": "flash-biologia-genetica-29",
+        "frente": "O que é uma mutação?",
+        "verso": "Uma alteração na sequência do DNA; se ocorrer em célula germinativa, pode ser transmitida aos descendentes."
+      },
+      {
+        "id": "flash-biologia-genetica-30",
+        "frente": "O que é a anemia falciforme, geneticamente?",
+        "verso": "Doença autossômica recessiva causada por mutação de ponto no gene da hemoglobina, que deforma a hemácia em foice."
+      },
+      {
+        "id": "flash-biologia-genetica-31",
+        "frente": "O que é um organismo transgênico?",
+        "verso": "Aquele que recebeu, por engenharia genética, um gene proveniente de outra espécie."
+      },
+      {
+        "id": "flash-biologia-genetica-32",
+        "frente": "O que é o CRISPR?",
+        "verso": "Uma técnica de edição genética que corta o DNA em um ponto específico, permitindo remover, corrigir ou inserir sequências com alta precisão."
+      },
+      {
+        "id": "flash-biologia-genetica-33",
+        "frente": "Qual é a diferença entre clonagem reprodutiva e terapêutica?",
+        "verso": "A reprodutiva gera um indivíduo geneticamente idêntico; a terapêutica produz células ou tecidos para tratamento, sem gerar um novo organismo."
+      }
+    ],
+    "biologia-citologia": [
+      {
+        "id": "flash-biologia-citologia-01",
+        "frente": "Qual é a diferença central entre célula procarionte e eucarionte?",
+        "verso": "A eucarionte tem núcleo delimitado por membrana e organelas membranosas; a procarionte não tem nenhum dos dois."
+      },
+      {
+        "id": "flash-biologia-citologia-02",
+        "frente": "Quais organismos têm células procariontes?",
+        "verso": "Bactérias e arqueas."
+      },
+      {
+        "id": "flash-biologia-citologia-03",
+        "frente": "Qual é a composição básica da membrana plasmática?",
+        "verso": "Uma bicamada de fosfolipídios com proteínas imersas — o modelo do mosaico fluido."
+      },
+      {
+        "id": "flash-biologia-citologia-04",
+        "frente": "O que é a difusão simples?",
+        "verso": "O transporte passivo de substâncias a favor do gradiente de concentração, sem gasto de energia e sem proteína transportadora."
+      },
+      {
+        "id": "flash-biologia-citologia-05",
+        "frente": "O que é osmose?",
+        "verso": "A difusão da ÁGUA através de uma membrana semipermeável, do meio menos concentrado para o mais concentrado em soluto."
+      },
+      {
+        "id": "flash-biologia-citologia-06",
+        "frente": "O que acontece com uma célula animal colocada em meio hipotônico?",
+        "verso": "Ela ganha água por osmose, incha e pode romper (lise celular)."
+      },
+      {
+        "id": "flash-biologia-citologia-07",
+        "frente": "O que acontece com uma célula animal colocada em meio hipertônico?",
+        "verso": "Ela perde água por osmose e murcha (crenação)."
+      },
+      {
+        "id": "flash-biologia-citologia-08",
+        "frente": "O que é o transporte ativo?",
+        "verso": "O transporte de substâncias CONTRA o gradiente de concentração, com gasto de ATP."
+      },
+      {
+        "id": "flash-biologia-citologia-09",
+        "frente": "Como funciona a bomba de sódio e potássio?",
+        "verso": "Por transporte ativo, expulsa 3 Na+ da célula e traz 2 K+ para dentro, gastando ATP e mantendo o potencial de membrana."
+      },
+      {
+        "id": "flash-biologia-citologia-10",
+        "frente": "Qual é a função da mitocôndria?",
+        "verso": "Realizar a respiração celular, produzindo a maior parte do ATP da célula."
+      },
+      {
+        "id": "flash-biologia-citologia-11",
+        "frente": "Qual é a função do cloroplasto?",
+        "verso": "Realizar a fotossíntese, convertendo energia luminosa em energia química (glicose)."
+      },
+      {
+        "id": "flash-biologia-citologia-12",
+        "frente": "Qual é a função do ribossomo?",
+        "verso": "Realizar a síntese de proteínas, traduzindo a mensagem do RNA mensageiro."
+      },
+      {
+        "id": "flash-biologia-citologia-13",
+        "frente": "Qual é a função do retículo endoplasmático rugoso?",
+        "verso": "Sintetizar proteínas destinadas à exportação ou à membrana — é rugoso porque tem ribossomos aderidos."
+      },
+      {
+        "id": "flash-biologia-citologia-14",
+        "frente": "Qual é a função do retículo endoplasmático liso?",
+        "verso": "Sintetizar lipídios e esteroides e atuar na desintoxicação celular."
+      },
+      {
+        "id": "flash-biologia-citologia-15",
+        "frente": "Qual é a função do complexo de Golgi?",
+        "verso": "Modificar, empacotar e endereçar as proteínas vindas do retículo, formando vesículas de secreção e lisossomos."
+      },
+      {
+        "id": "flash-biologia-citologia-16",
+        "frente": "Qual é a função do lisossomo?",
+        "verso": "Fazer a digestão intracelular, com enzimas hidrolíticas que degradam partículas e organelas envelhecidas."
+      },
+      {
+        "id": "flash-biologia-citologia-17",
+        "frente": "O que é a autofagia?",
+        "verso": "A digestão, pelos lisossomos, de organelas da própria célula — renovação de componentes ou obtenção de energia em jejum."
+      },
+      {
+        "id": "flash-biologia-citologia-18",
+        "frente": "Que organelas têm DNA próprio, e o que isso sugere?",
+        "verso": "Mitocôndria e cloroplasto; sugere a origem por endossimbiose, a partir de procariontes ancestrais englobados."
+      },
+      {
+        "id": "flash-biologia-citologia-19",
+        "frente": "Quais são as fases do ciclo celular?",
+        "verso": "Interfase (G1, S e G2) seguida da divisão celular (mitose ou meiose)."
+      },
+      {
+        "id": "flash-biologia-citologia-20",
+        "frente": "O que ocorre na fase S da interfase?",
+        "verso": "A duplicação do DNA — cada cromossomo passa a ter duas cromátides-irmãs."
+      },
+      {
+        "id": "flash-biologia-citologia-21",
+        "frente": "Qual é o resultado da mitose?",
+        "verso": "Duas células-filhas geneticamente idênticas à célula-mãe, com o mesmo número de cromossomos (2n → 2n)."
+      },
+      {
+        "id": "flash-biologia-citologia-22",
+        "frente": "Qual é o resultado da meiose?",
+        "verso": "Quatro células-filhas com metade do número de cromossomos e geneticamente diferentes entre si (2n → n)."
+      },
+      {
+        "id": "flash-biologia-citologia-23",
+        "frente": "Qual é a função biológica da mitose?",
+        "verso": "Crescimento, regeneração de tecidos e reprodução assexuada."
+      },
+      {
+        "id": "flash-biologia-citologia-24",
+        "frente": "Qual é a função biológica da meiose?",
+        "verso": "Formar gametas (ou esporos), reduzindo o número de cromossomos e gerando variabilidade genética."
+      },
+      {
+        "id": "flash-biologia-citologia-25",
+        "frente": "O que é o crossing-over, e em que fase ocorre?",
+        "verso": "A troca de trechos entre cromossomos homólogos, na prófase I da meiose; é a principal fonte de variabilidade."
+      },
+      {
+        "id": "flash-biologia-citologia-26",
+        "frente": "Qual é a equação global da fotossíntese?",
+        "verso": "6 CO₂ + 6 H₂O + luz → C₆H₁₂O₆ + 6 O₂."
+      },
+      {
+        "id": "flash-biologia-citologia-27",
+        "frente": "De onde vem o oxigênio liberado na fotossíntese?",
+        "verso": "Da quebra da molécula de ÁGUA na fase fotoquímica (fotólise), não do gás carbônico."
+      },
+      {
+        "id": "flash-biologia-citologia-28",
+        "frente": "Qual é a equação global da respiração celular aeróbia?",
+        "verso": "C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O + energia (ATP)."
+      },
+      {
+        "id": "flash-biologia-citologia-29",
+        "frente": "Quais são as três etapas da respiração celular aeróbia?",
+        "verso": "Glicólise (no citoplasma), ciclo de Krebs e cadeia respiratória (na mitocôndria)."
+      },
+      {
+        "id": "flash-biologia-citologia-30",
+        "frente": "Qual é a diferença entre respiração aeróbia e fermentação, em rendimento?",
+        "verso": "A aeróbia rende cerca de 30-38 ATP por glicose; a fermentação, apenas 2."
+      },
+      {
+        "id": "flash-biologia-citologia-31",
+        "frente": "Quais são os produtos da fermentação lática?",
+        "verso": "Ácido lático e 2 ATP, sem liberação de gás carbônico."
+      },
+      {
+        "id": "flash-biologia-citologia-32",
+        "frente": "Quais são os produtos da fermentação alcoólica?",
+        "verso": "Etanol, gás carbônico e 2 ATP."
+      },
+      {
+        "id": "flash-biologia-citologia-33",
+        "frente": "O que é uma enzima, e como ela age?",
+        "verso": "Um catalisador biológico, geralmente proteico, que acelera reações diminuindo a energia de ativação, sem ser consumido."
+      },
+      {
+        "id": "flash-biologia-citologia-34",
+        "frente": "O que significa dizer que a enzima é específica ao substrato?",
+        "verso": "Cada enzima atua sobre um substrato ou tipo de reação determinado, pelo encaixe entre o sítio ativo e a molécula (chave-fechadura)."
+      },
+      {
+        "id": "flash-biologia-citologia-35",
+        "frente": "O que acontece com uma enzima em temperatura ou pH muito fora do ideal?",
+        "verso": "Ela desnatura — perde a forma tridimensional do sítio ativo e, com ela, a atividade catalítica."
+      }
+    ],
+    "biologia-fisiologia": [
+      {
+        "id": "flash-biologia-fisiologia-01",
+        "frente": "Qual é o trajeto do sangue na pequena circulação?",
+        "verso": "Coração (ventrículo direito) → pulmões → coração (átrio esquerdo); é onde o sangue é oxigenado."
+      },
+      {
+        "id": "flash-biologia-fisiologia-02",
+        "frente": "Qual é o trajeto do sangue na grande circulação?",
+        "verso": "Coração (ventrículo esquerdo) → corpo → coração (átrio direito); leva oxigênio aos tecidos."
+      },
+      {
+        "id": "flash-biologia-fisiologia-03",
+        "frente": "Qual é a diferença funcional entre artérias e veias?",
+        "verso": "Artérias levam sangue do coração para o corpo, sob pressão alta; veias trazem o sangue de volta, sob pressão baixa e com válvulas."
+      },
+      {
+        "id": "flash-biologia-fisiologia-04",
+        "frente": "Qual é a função das hemácias?",
+        "verso": "Transportar oxigênio, por meio da hemoglobina."
+      },
+      {
+        "id": "flash-biologia-fisiologia-05",
+        "frente": "Qual é a função dos leucócitos?",
+        "verso": "Fazer a defesa do organismo contra agentes infecciosos e células anormais."
+      },
+      {
+        "id": "flash-biologia-fisiologia-06",
+        "frente": "Qual é a função das plaquetas?",
+        "verso": "Participar da coagulação sanguínea, formando o tampão que estanca o sangramento."
+      },
+      {
+        "id": "flash-biologia-fisiologia-07",
+        "frente": "Onde ocorre a hematose, e o que é?",
+        "verso": "Nos alvéolos pulmonares; é a troca gasosa em que o sangue libera CO₂ e capta O₂."
+      },
+      {
+        "id": "flash-biologia-fisiologia-08",
+        "frente": "O que controla a frequência respiratória involuntária?",
+        "verso": "O bulbo, que responde principalmente ao aumento de CO₂ (e à queda de pH) no sangue, não à falta de O₂."
+      },
+      {
+        "id": "flash-biologia-fisiologia-09",
+        "frente": "Qual é a função do diafragma na respiração?",
+        "verso": "Ao contrair e abaixar, aumenta o volume da caixa torácica, reduzindo a pressão interna e puxando o ar (inspiração)."
+      },
+      {
+        "id": "flash-biologia-fisiologia-10",
+        "frente": "Onde começa a digestão química do amido?",
+        "verso": "Na boca, pela amilase salivar (ptialina)."
+      },
+      {
+        "id": "flash-biologia-fisiologia-11",
+        "frente": "Qual é a função do ácido clorídrico no estômago?",
+        "verso": "Manter o pH ácido que ativa a pepsina, desnatura proteínas e destrói microrganismos ingeridos."
+      },
+      {
+        "id": "flash-biologia-fisiologia-12",
+        "frente": "Em que órgão ocorre a maior parte da absorção de nutrientes?",
+        "verso": "No intestino delgado, cuja superfície é ampliada pelas vilosidades e microvilosidades."
+      },
+      {
+        "id": "flash-biologia-fisiologia-13",
+        "frente": "Qual é a função da bile, e onde ela é produzida?",
+        "verso": "Emulsificar as gorduras, facilitando a ação da lipase; é produzida no fígado e armazenada na vesícula biliar."
+      },
+      {
+        "id": "flash-biologia-fisiologia-14",
+        "frente": "Qual é a principal função do intestino grosso?",
+        "verso": "Absorver água e sais minerais e abrigar a microbiota que forma o bolo fecal."
+      },
+      {
+        "id": "flash-biologia-fisiologia-15",
+        "frente": "Qual é a unidade funcional do rim?",
+        "verso": "O néfron."
+      },
+      {
+        "id": "flash-biologia-fisiologia-16",
+        "frente": "Quais são as três etapas da formação da urina?",
+        "verso": "Filtração glomerular, reabsorção tubular e secreção tubular."
+      },
+      {
+        "id": "flash-biologia-fisiologia-17",
+        "frente": "O que faz o hormônio antidiurético (ADH)?",
+        "verso": "Aumenta a reabsorção de água nos túbulos renais, concentrando a urina — é liberado quando o corpo está desidratado."
+      },
+      {
+        "id": "flash-biologia-fisiologia-18",
+        "frente": "O que é homeostase?",
+        "verso": "A manutenção do equilíbrio interno do organismo (temperatura, pH, glicemia) apesar das variações do ambiente."
+      },
+      {
+        "id": "flash-biologia-fisiologia-19",
+        "frente": "Qual é a função da insulina?",
+        "verso": "Baixar a glicemia, promovendo a entrada de glicose nas células e seu armazenamento como glicogênio."
+      },
+      {
+        "id": "flash-biologia-fisiologia-20",
+        "frente": "Qual é a função do glucagon?",
+        "verso": "Elevar a glicemia, estimulando a quebra do glicogênio hepático em glicose."
+      },
+      {
+        "id": "flash-biologia-fisiologia-21",
+        "frente": "Qual é a diferença entre diabetes tipo 1 e tipo 2?",
+        "verso": "No tipo 1 o pâncreas não produz insulina (destruição autoimune); no tipo 2 há produção, mas as células ficam resistentes a ela."
+      },
+      {
+        "id": "flash-biologia-fisiologia-22",
+        "frente": "Que glândula produz os hormônios tireoidianos, e qual seu efeito?",
+        "verso": "A tireoide; T3 e T4 aceleram o metabolismo basal."
+      },
+      {
+        "id": "flash-biologia-fisiologia-23",
+        "frente": "Qual é o efeito da adrenalina no organismo?",
+        "verso": "Prepara para luta ou fuga: acelera o coração, dilata brônquios e pupilas e eleva a glicemia."
+      },
+      {
+        "id": "flash-biologia-fisiologia-24",
+        "frente": "O que é um neurônio, e quais suas partes?",
+        "verso": "A célula do sistema nervoso; tem dendritos (recebem o estímulo), corpo celular e axônio (conduz o impulso)."
+      },
+      {
+        "id": "flash-biologia-fisiologia-25",
+        "frente": "O que é uma sinapse?",
+        "verso": "A região de comunicação entre dois neurônios, em que a mensagem passa geralmente por neurotransmissores químicos."
+      },
+      {
+        "id": "flash-biologia-fisiologia-26",
+        "frente": "Qual é a função da bainha de mielina?",
+        "verso": "Isolar o axônio e acelerar a condução do impulso nervoso, que passa a saltar entre os nódulos de Ranvier."
+      },
+      {
+        "id": "flash-biologia-fisiologia-27",
+        "frente": "O que é um ato reflexo?",
+        "verso": "Uma resposta involuntária e rápida processada pela medula espinhal, sem depender do cérebro para acontecer."
+      },
+      {
+        "id": "flash-biologia-fisiologia-28",
+        "frente": "Qual é a diferença entre imunidade inata e adquirida?",
+        "verso": "A inata é inespecífica e já nasce pronta (pele, fagócitos, inflamação); a adquirida é específica e gera memória (linfócitos, anticorpos)."
+      },
+      {
+        "id": "flash-biologia-fisiologia-29",
+        "frente": "O que é um antígeno?",
+        "verso": "Qualquer molécula reconhecida como estranha pelo sistema imune, capaz de desencadear a produção de anticorpos."
+      },
+      {
+        "id": "flash-biologia-fisiologia-30",
+        "frente": "Como uma vacina protege o organismo?",
+        "verso": "Introduz o antígeno (atenuado, inativado ou fragmento) para que o corpo produza anticorpos e células de memória — é imunização ATIVA."
+      },
+      {
+        "id": "flash-biologia-fisiologia-31",
+        "frente": "Qual é a diferença entre vacina e soro?",
+        "verso": "A vacina traz o antígeno e gera imunidade ativa e duradoura; o soro traz anticorpos prontos e gera imunidade passiva e imediata, usada quando já há contaminação."
+      },
+      {
+        "id": "flash-biologia-fisiologia-32",
+        "frente": "Por que antibióticos não funcionam contra viroses?",
+        "verso": "Antibióticos atuam sobre estruturas e processos de bactérias (parede celular, ribossomo bacteriano), que os vírus não possuem."
+      },
+      {
+        "id": "flash-biologia-fisiologia-33",
+        "frente": "Onde ocorre normalmente a fecundação humana?",
+        "verso": "Na tuba uterina (trompa de Falópio)."
+      },
+      {
+        "id": "flash-biologia-fisiologia-34",
+        "frente": "Qual é a função da placenta?",
+        "verso": "Fazer as trocas de gases, nutrientes e resíduos entre mãe e feto, além de produzir hormônios que sustentam a gestação."
+      }
+    ],
+    "biologia-ecologia": [
+      {
+        "id": "flash-biologia-ecologia-01",
+        "frente": "Qual é a diferença entre habitat e nicho ecológico?",
+        "verso": "Habitat é o endereço da espécie (onde ela vive); nicho é a profissão dela (o que come, como se reproduz, seu papel no ecossistema)."
+      },
+      {
+        "id": "flash-biologia-ecologia-02",
+        "frente": "O que é uma população, em ecologia?",
+        "verso": "O conjunto de indivíduos da MESMA espécie vivendo numa mesma área ao mesmo tempo."
+      },
+      {
+        "id": "flash-biologia-ecologia-03",
+        "frente": "O que é uma comunidade biológica?",
+        "verso": "O conjunto de todas as populações de espécies diferentes que convivem numa mesma área."
+      },
+      {
+        "id": "flash-biologia-ecologia-04",
+        "frente": "O que é um ecossistema?",
+        "verso": "A comunidade biológica somada aos fatores abióticos (luz, água, solo, temperatura) e suas interações."
+      },
+      {
+        "id": "flash-biologia-ecologia-05",
+        "frente": "O que são os produtores numa cadeia alimentar?",
+        "verso": "Os organismos autotróficos, que produzem seu próprio alimento por fotossíntese ou quimiossíntese — ocupam o primeiro nível trófico."
+      },
+      {
+        "id": "flash-biologia-ecologia-06",
+        "frente": "Qual é o papel dos decompositores?",
+        "verso": "Degradar a matéria orgânica morta, devolvendo os nutrientes minerais ao ambiente e fechando os ciclos."
+      },
+      {
+        "id": "flash-biologia-ecologia-07",
+        "frente": "Qual é a diferença entre cadeia e teia alimentar?",
+        "verso": "A cadeia é uma sequência linear de quem come quem; a teia é o conjunto interligado de várias cadeias, mais próximo do que ocorre na natureza."
+      },
+      {
+        "id": "flash-biologia-ecologia-08",
+        "frente": "Por que a energia diminui a cada nível trófico?",
+        "verso": "Porque a maior parte é dissipada como calor e usada no metabolismo — só cerca de 10% passa ao nível seguinte."
+      },
+      {
+        "id": "flash-biologia-ecologia-09",
+        "frente": "Por que o fluxo de energia é unidirecional, mas o de matéria é cíclico?",
+        "verso": "A energia entra como luz, degrada-se em calor e sai do sistema; a matéria é reciclada indefinidamente pelos ciclos biogeoquímicos."
+      },
+      {
+        "id": "flash-biologia-ecologia-10",
+        "frente": "Por que uma pirâmide de energia nunca pode ser invertida?",
+        "verso": "Porque cada nível trófico obtém sua energia do anterior e sempre perde parte dela — o topo jamais acumula mais energia que a base."
+      },
+      {
+        "id": "flash-biologia-ecologia-11",
+        "frente": "O que é bioacumulação?",
+        "verso": "O acúmulo progressivo de uma substância não degradável (como mercúrio ou DDT) no organismo, mais rápido do que ele consegue eliminá-la."
+      },
+      {
+        "id": "flash-biologia-ecologia-12",
+        "frente": "O que é magnificação trófica?",
+        "verso": "O aumento da concentração de um poluente ao longo da cadeia alimentar — o predador de topo é o mais contaminado."
+      },
+      {
+        "id": "flash-biologia-ecologia-13",
+        "frente": "Quais são as etapas principais do ciclo da água?",
+        "verso": "Evaporação e transpiração, condensação, precipitação e infiltração/escoamento."
+      },
+      {
+        "id": "flash-biologia-ecologia-14",
+        "frente": "Como o carbono entra na parte biológica do seu ciclo?",
+        "verso": "Pela fotossíntese, que fixa o CO₂ atmosférico em matéria orgânica."
+      },
+      {
+        "id": "flash-biologia-ecologia-15",
+        "frente": "O que devolve carbono à atmosfera no ciclo do carbono?",
+        "verso": "Respiração, decomposição, queimadas e a queima de combustíveis fósseis."
+      },
+      {
+        "id": "flash-biologia-ecologia-16",
+        "frente": "Qual é o papel das bactérias no ciclo do nitrogênio?",
+        "verso": "Fixam o N₂ atmosférico, nitrificam a amônia em nitrato (forma absorvível) e desnitrificam o nitrato de volta a N₂."
+      },
+      {
+        "id": "flash-biologia-ecologia-17",
+        "frente": "O que é a relação de mutualismo?",
+        "verso": "Interação entre espécies diferentes em que ambas se beneficiam, como as micorrizas entre fungos e raízes."
+      },
+      {
+        "id": "flash-biologia-ecologia-18",
+        "frente": "O que é o comensalismo?",
+        "verso": "Interação em que uma espécie se beneficia e a outra não é prejudicada nem beneficiada."
+      },
+      {
+        "id": "flash-biologia-ecologia-19",
+        "frente": "O que caracteriza o parasitismo?",
+        "verso": "Uma espécie se beneficia às custas da outra, causando-lhe prejuízo, mas geralmente sem matá-la de imediato."
+      },
+      {
+        "id": "flash-biologia-ecologia-20",
+        "frente": "O que é competição interespecífica?",
+        "verso": "A disputa por um mesmo recurso limitado entre indivíduos de espécies diferentes."
+      },
+      {
+        "id": "flash-biologia-ecologia-21",
+        "frente": "O que caracteriza o bioma Cerrado?",
+        "verso": "Savana tropical com estação seca marcada, árvores de troncos retorcidos e casca grossa, solo ácido e rico em alumínio; adaptado ao fogo."
+      },
+      {
+        "id": "flash-biologia-ecologia-22",
+        "frente": "O que caracteriza a Caatinga?",
+        "verso": "Bioma exclusivamente brasileiro, semiárido, com plantas xerófitas (cactos, espinhos, caducifólias) adaptadas à longa estiagem."
+      },
+      {
+        "id": "flash-biologia-ecologia-23",
+        "frente": "Por que o solo da Floresta Amazônica é pobre, apesar da floresta ser exuberante?",
+        "verso": "Porque os nutrientes ficam na biomassa viva e são reciclados rapidamente pela decomposição na serapilheira, não estocados no solo."
+      },
+      {
+        "id": "flash-biologia-ecologia-24",
+        "frente": "Qual bioma brasileiro é o mais devastado proporcionalmente?",
+        "verso": "A Mata Atlântica, reduzida a uma pequena fração da cobertura original pela ocupação histórica do litoral."
+      },
+      {
+        "id": "flash-biologia-ecologia-25",
+        "frente": "O que é uma espécie invasora, e por que é um problema?",
+        "verso": "Uma espécie introduzida fora de sua área natural que se prolifera sem predadores locais, deslocando espécies nativas."
+      },
+      {
+        "id": "flash-biologia-ecologia-26",
+        "frente": "O que é a eutrofização?",
+        "verso": "O enriquecimento da água por nutrientes (esgoto, fertilizantes) que provoca proliferação de algas, queda do oxigênio dissolvido e morte de peixes."
+      },
+      {
+        "id": "flash-biologia-ecologia-27",
+        "frente": "O que é o efeito estufa, e por que ele não é em si um problema?",
+        "verso": "É a retenção de calor por gases atmosféricos; sem ele a Terra seria gélida — o problema é sua INTENSIFICAÇÃO pela emissão humana."
+      },
+      {
+        "id": "flash-biologia-ecologia-28",
+        "frente": "Quais são os principais gases do efeito estufa?",
+        "verso": "Gás carbônico (CO₂), metano (CH₄) e óxido nitroso (N₂O)."
+      },
+      {
+        "id": "flash-biologia-ecologia-29",
+        "frente": "O que causa a chuva ácida?",
+        "verso": "A emissão de óxidos de enxofre e de nitrogênio, que reagem com a água atmosférica formando ácidos sulfúrico e nítrico."
+      },
+      {
+        "id": "flash-biologia-ecologia-30",
+        "frente": "Qual é a diferença entre o buraco na camada de ozônio e o aquecimento global?",
+        "verso": "São problemas distintos: o buraco vem dos CFCs e aumenta a radiação UV; o aquecimento vem dos gases-estufa e retém calor."
+      },
+      {
+        "id": "flash-biologia-ecologia-31",
+        "frente": "O que é sucessão ecológica primária?",
+        "verso": "A colonização de um ambiente sem vida prévia nem solo formado (como rocha nua), iniciada por espécies pioneiras como líquens."
+      },
+      {
+        "id": "flash-biologia-ecologia-32",
+        "frente": "O que é a comunidade clímax?",
+        "verso": "O estágio final e estável da sucessão ecológica, com maior biodiversidade e biomassa e em equilíbrio com o ambiente."
+      },
+      {
+        "id": "flash-biologia-ecologia-33",
+        "frente": "O que é biodiversidade, e por que ela importa para a estabilidade?",
+        "verso": "A variedade de espécies, genes e ecossistemas; quanto maior, mais rotas alternativas nas teias alimentares e mais resiliente é o sistema."
+      }
+    ],
+    "biologia-evolucao": [
+      {
+        "id": "flash-biologia-evolucao-01",
+        "frente": "O que propunha Lamarck para explicar a evolução?",
+        "verso": "A lei do uso e desuso e a transmissão dos caracteres adquiridos — o que o organismo desenvolve em vida seria passado aos filhos."
+      },
+      {
+        "id": "flash-biologia-evolucao-02",
+        "frente": "Por que a hipótese de Lamarck foi descartada?",
+        "verso": "Porque alterações adquiridas no corpo (somáticas) não se transmitem aos descendentes: só mudanças nas células germinativas são herdadas."
+      },
+      {
+        "id": "flash-biologia-evolucao-03",
+        "frente": "O que propõe a seleção natural de Darwin?",
+        "verso": "Existindo variação e reprodução diferencial, os indivíduos mais adaptados ao ambiente deixam mais descendentes, e suas características se tornam frequentes."
+      },
+      {
+        "id": "flash-biologia-evolucao-04",
+        "frente": "O que Darwin não conseguia explicar, e que só a genética resolveu?",
+        "verso": "A ORIGEM e o mecanismo de transmissão da variação — Mendel e depois a genética molecular preencheram essa lacuna."
+      },
+      {
+        "id": "flash-biologia-evolucao-05",
+        "frente": "O que é a Teoria Sintética da Evolução (neodarwinismo)?",
+        "verso": "A união do darwinismo com a genética: mutação e recombinação geram variabilidade, e a seleção natural atua sobre ela."
+      },
+      {
+        "id": "flash-biologia-evolucao-06",
+        "frente": "A seleção natural cria adaptações sob demanda?",
+        "verso": "Não. A variação surge ao acaso, antes e independentemente da pressão seletiva; a seleção apenas filtra o que já existe."
+      },
+      {
+        "id": "flash-biologia-evolucao-07",
+        "frente": "O que é uma adaptação, em termos evolutivos?",
+        "verso": "Uma característica que aumenta a sobrevivência e o sucesso reprodutivo do organismo naquele ambiente."
+      },
+      {
+        "id": "flash-biologia-evolucao-08",
+        "frente": "O que é aptidão (fitness), em evolução?",
+        "verso": "A contribuição relativa de um indivíduo em descendentes férteis para a geração seguinte — não é força nem longevidade."
+      },
+      {
+        "id": "flash-biologia-evolucao-09",
+        "frente": "O que são órgãos homólogos?",
+        "verso": "Estruturas de mesma origem embrionária e mesmo plano estrutural, ainda que com funções diferentes — como o braço humano e a asa do morcego."
+      },
+      {
+        "id": "flash-biologia-evolucao-10",
+        "frente": "O que são órgãos análogos?",
+        "verso": "Estruturas de funções semelhantes mas origens embrionárias distintas, como a asa do inseto e a da ave."
+      },
+      {
+        "id": "flash-biologia-evolucao-11",
+        "frente": "Que tipo de evolução as estruturas homólogas evidenciam?",
+        "verso": "Divergente: um ancestral comum cujos descendentes se adaptaram a ambientes diferentes (irradiação adaptativa)."
+      },
+      {
+        "id": "flash-biologia-evolucao-12",
+        "frente": "Que tipo de evolução as estruturas análogas evidenciam?",
+        "verso": "Convergente: espécies sem parentesco próximo desenvolvem soluções parecidas por viverem sob pressões semelhantes."
+      },
+      {
+        "id": "flash-biologia-evolucao-13",
+        "frente": "O que são órgãos vestigiais, e o que eles indicam?",
+        "verso": "Estruturas atrofiadas e sem função aparente, como o cóccix; indicam ancestrais em que a estrutura era funcional."
+      },
+      {
+        "id": "flash-biologia-evolucao-14",
+        "frente": "Como os fósseis contribuem como evidência da evolução?",
+        "verso": "Documentam formas extintas e transições entre grupos, permitindo ordenar no tempo o surgimento das características."
+      },
+      {
+        "id": "flash-biologia-evolucao-15",
+        "frente": "O que é um fóssil de transição?",
+        "verso": "Um fóssil que combina características de dois grupos, como o Archaeopteryx, com traços de réptil e de ave."
+      },
+      {
+        "id": "flash-biologia-evolucao-16",
+        "frente": "Que evidência molecular sustenta a ancestralidade comum de todos os seres vivos?",
+        "verso": "A universalidade do código genético e do DNA/RNA como material hereditário em todos os organismos conhecidos."
+      },
+      {
+        "id": "flash-biologia-evolucao-17",
+        "frente": "Como a comparação de sequências de DNA estima o parentesco entre espécies?",
+        "verso": "Quanto mais semelhantes as sequências, mais recente o ancestral comum — as diferenças acumulam-se com o tempo."
+      },
+      {
+        "id": "flash-biologia-evolucao-18",
+        "frente": "O que é uma árvore filogenética?",
+        "verso": "Um diagrama que representa as relações de parentesco evolutivo entre grupos, com os nós indicando ancestrais comuns."
+      },
+      {
+        "id": "flash-biologia-evolucao-19",
+        "frente": "O que é especiação?",
+        "verso": "O processo de formação de novas espécies a partir de populações que deixam de trocar genes entre si."
+      },
+      {
+        "id": "flash-biologia-evolucao-20",
+        "frente": "O que caracteriza a especiação alopátrica?",
+        "verso": "Uma barreira geográfica separa populações, que acumulam diferenças até o isolamento reprodutivo se tornar definitivo."
+      },
+      {
+        "id": "flash-biologia-evolucao-21",
+        "frente": "O que é isolamento reprodutivo?",
+        "verso": "O conjunto de mecanismos que impede o cruzamento fértil entre populações — é o critério que define espécies distintas."
+      },
+      {
+        "id": "flash-biologia-evolucao-22",
+        "frente": "O que é deriva genética?",
+        "verso": "A variação aleatória das frequências dos alelos entre gerações, com efeito muito mais forte em populações pequenas."
+      },
+      {
+        "id": "flash-biologia-evolucao-23",
+        "frente": "O que é o efeito fundador?",
+        "verso": "A perda de diversidade genética quando poucos indivíduos colonizam um novo local, levando apenas parte dos alelos da população original."
+      },
+      {
+        "id": "flash-biologia-evolucao-24",
+        "frente": "O que é o efeito gargalo (bottleneck)?",
+        "verso": "A redução drástica de uma população por catástrofe, que deixa a diversidade genética restrita ao pequeno grupo sobrevivente."
+      },
+      {
+        "id": "flash-biologia-evolucao-25",
+        "frente": "O que é fluxo gênico?",
+        "verso": "A troca de alelos entre populações pela migração de indivíduos, que tende a torná-las geneticamente mais parecidas."
+      },
+      {
+        "id": "flash-biologia-evolucao-26",
+        "frente": "Como a resistência bacteriana a antibióticos ilustra a seleção natural?",
+        "verso": "Mutantes resistentes já existiam na população; o antibiótico elimina os sensíveis e a linhagem resistente se multiplica."
+      },
+      {
+        "id": "flash-biologia-evolucao-27",
+        "frente": "Por que abandonar o antibiótico antes do fim do tratamento favorece a resistência?",
+        "verso": "Sobrevivem as bactérias menos sensíveis, que se multiplicam e repovoam o organismo com uma população mais resistente."
+      },
+      {
+        "id": "flash-biologia-evolucao-28",
+        "frente": "O que é o experimento de Redi, e o que ele contestou?",
+        "verso": "Frascos com carne, tampados ou não, mostraram que larvas só surgiam onde moscas podiam pôr ovos — contestou a abiogênese em animais visíveis."
+      },
+      {
+        "id": "flash-biologia-evolucao-29",
+        "frente": "O que Pasteur demonstrou com os frascos de pescoço de cisne?",
+        "verso": "Que microrganismos vêm do ar, não da matéria: o caldo fervido permanecia estéril enquanto o pescoço retinha as partículas — derrubou de vez a abiogênese."
+      },
+      {
+        "id": "flash-biologia-evolucao-30",
+        "frente": "O que é a hipótese heterotrófica sobre a origem da vida?",
+        "verso": "Os primeiros seres teriam sido heterótrofos, alimentando-se da matéria orgânica acumulada no ambiente primitivo."
+      },
+      {
+        "id": "flash-biologia-evolucao-31",
+        "frente": "O que o experimento de Miller-Urey demonstrou?",
+        "verso": "Que moléculas orgânicas, como aminoácidos, podem se formar espontaneamente a partir de gases inorgânicos sob descargas elétricas."
+      },
+      {
+        "id": "flash-biologia-evolucao-32",
+        "frente": "O que são coacervados, na hipótese de Oparin e Haldane?",
+        "verso": "Aglomerados de moléculas orgânicas envoltos por água, considerados um passo intermediário rumo às primeiras células."
+      },
+      {
+        "id": "flash-biologia-evolucao-33",
+        "frente": "O que propõe a hipótese da panspermia?",
+        "verso": "Que a vida (ou seus precursores químicos) teria chegado à Terra vinda do espaço, em meteoritos ou cometas."
+      },
+      {
+        "id": "flash-biologia-evolucao-34",
+        "frente": "Qual foi o efeito da fotossíntese na atmosfera primitiva?",
+        "verso": "Acumulou oxigênio livre, permitindo a respiração aeróbia e formando a camada de ozônio que viabilizou a vida fora da água."
+      }
+    ],
+    "biologia-diversidade": [
+      {
+        "id": "flash-biologia-diversidade-01",
+        "frente": "Quais são os cinco reinos da classificação clássica?",
+        "verso": "Monera, Protista, Fungi, Plantae e Animalia."
+      },
+      {
+        "id": "flash-biologia-diversidade-02",
+        "frente": "Como se escreve corretamente o nome científico de uma espécie?",
+        "verso": "Pela nomenclatura binomial: gênero com inicial maiúscula e epíteto específico em minúscula, ambos em itálico — Homo sapiens."
+      },
+      {
+        "id": "flash-biologia-diversidade-03",
+        "frente": "Qual é a sequência das principais categorias taxonômicas, do maior ao menor?",
+        "verso": "Reino, filo, classe, ordem, família, gênero e espécie."
+      },
+      {
+        "id": "flash-biologia-diversidade-04",
+        "frente": "O que caracteriza o reino Monera?",
+        "verso": "Reúne organismos procariontes e unicelulares — as bactérias (e, na classificação clássica, as cianobactérias)."
+      },
+      {
+        "id": "flash-biologia-diversidade-05",
+        "frente": "O que caracteriza o reino Protista?",
+        "verso": "Eucariontes em geral unicelulares, como protozoários e algumas algas; é um grupo heterogêneo, mantido por convenção."
+      },
+      {
+        "id": "flash-biologia-diversidade-06",
+        "frente": "Qual é a diferença nutricional entre fungos e plantas?",
+        "verso": "Fungos são heterotróficos por absorção, digerindo o alimento fora do corpo; plantas são autotróficas por fotossíntese."
+      },
+      {
+        "id": "flash-biologia-diversidade-07",
+        "frente": "De que é feita a parede celular dos fungos?",
+        "verso": "De quitina — a mesma substância do exoesqueleto dos artrópodes, não de celulose como nas plantas."
+      },
+      {
+        "id": "flash-biologia-diversidade-08",
+        "frente": "O que é um líquen?",
+        "verso": "A associação mutualística entre um fungo e uma alga (ou cianobactéria); é pioneira na sucessão ecológica e bioindicadora de poluição."
+      },
+      {
+        "id": "flash-biologia-diversidade-09",
+        "frente": "Por que vírus não são incluídos em nenhum dos cinco reinos?",
+        "verso": "Por serem acelulares e parasitas intracelulares obrigatórios, sem metabolismo próprio fora da célula hospedeira."
+      },
+      {
+        "id": "flash-biologia-diversidade-10",
+        "frente": "Quais são os quatro grandes grupos de plantas?",
+        "verso": "Briófitas, pteridófitas, gimnospermas e angiospermas."
+      },
+      {
+        "id": "flash-biologia-diversidade-11",
+        "frente": "O que caracteriza as briófitas?",
+        "verso": "Plantas avasculares, de pequeno porte e dependentes de água para a reprodução — os musgos."
+      },
+      {
+        "id": "flash-biologia-diversidade-12",
+        "frente": "Qual foi a novidade evolutiva das pteridófitas?",
+        "verso": "Os vasos condutores (xilema e floema), que permitiram maior porte; ainda dependem de água para a fecundação — as samambaias."
+      },
+      {
+        "id": "flash-biologia-diversidade-13",
+        "frente": "Qual foi a novidade evolutiva das gimnospermas?",
+        "verso": "A semente e o grão de pólen, que libertaram a reprodução da água; têm sementes nuas, sem fruto — os pinheiros."
+      },
+      {
+        "id": "flash-biologia-diversidade-14",
+        "frente": "Qual foi a novidade evolutiva das angiospermas?",
+        "verso": "A flor e o fruto, que atraem polinizadores e dispersam sementes — é o grupo vegetal mais diverso e bem-sucedido."
+      },
+      {
+        "id": "flash-biologia-diversidade-15",
+        "frente": "Qual é a função do xilema?",
+        "verso": "Conduzir água e sais minerais da raiz às folhas (seiva bruta)."
+      },
+      {
+        "id": "flash-biologia-diversidade-16",
+        "frente": "Qual é a função do floema?",
+        "verso": "Distribuir a seiva elaborada (açúcares da fotossíntese) das folhas para o resto da planta."
+      },
+      {
+        "id": "flash-biologia-diversidade-17",
+        "frente": "O que é a transpiração foliar, e qual seu papel na condução da seiva?",
+        "verso": "A perda de água pelos estômatos; ela cria a tensão que puxa a coluna de água pelo xilema, da raiz até as folhas."
+      },
+      {
+        "id": "flash-biologia-diversidade-18",
+        "frente": "Qual é a função dos estômatos?",
+        "verso": "Controlar as trocas gasosas e a transpiração, abrindo e fechando conforme a disponibilidade de água e a luz."
+      },
+      {
+        "id": "flash-biologia-diversidade-19",
+        "frente": "Que grupo animal é o mais numeroso em espécies?",
+        "verso": "Os artrópodes, sobretudo os insetos."
+      },
+      {
+        "id": "flash-biologia-diversidade-20",
+        "frente": "O que caracteriza os artrópodes?",
+        "verso": "Exoesqueleto de quitina, corpo segmentado e apêndices articulados; crescem por mudas (ecdise)."
+      },
+      {
+        "id": "flash-biologia-diversidade-21",
+        "frente": "Como se distinguem insetos, aracnídeos e crustáceos pelo número de patas?",
+        "verso": "Insetos têm 3 pares, aracnídeos 4 pares e crustáceos 5 ou mais pares."
+      },
+      {
+        "id": "flash-biologia-diversidade-22",
+        "frente": "O que caracteriza os moluscos?",
+        "verso": "Corpo mole, não segmentado, geralmente com concha calcária, manto e pé muscular — caramujos, polvos e ostras."
+      },
+      {
+        "id": "flash-biologia-diversidade-23",
+        "frente": "O que caracteriza os anelídeos?",
+        "verso": "Corpo segmentado em anéis, com celoma verdadeiro — minhocas e sanguessugas."
+      },
+      {
+        "id": "flash-biologia-diversidade-24",
+        "frente": "Qual é a característica exclusiva dos cnidários?",
+        "verso": "Os cnidócitos, células urticantes usadas na defesa e na captura de presas — águas-vivas e corais."
+      },
+      {
+        "id": "flash-biologia-diversidade-25",
+        "frente": "O que caracteriza os poríferos?",
+        "verso": "Animais sésseis e filtradores, com corpo cheio de poros e sem tecidos verdadeiros — as esponjas."
+      },
+      {
+        "id": "flash-biologia-diversidade-26",
+        "frente": "O que caracteriza os equinodermos?",
+        "verso": "Simetria radial no adulto, endoesqueleto calcário e sistema ambulacrário — estrelas-do-mar e ouriços."
+      },
+      {
+        "id": "flash-biologia-diversidade-27",
+        "frente": "Quais são os cinco grupos de vertebrados?",
+        "verso": "Peixes, anfíbios, répteis, aves e mamíferos."
+      },
+      {
+        "id": "flash-biologia-diversidade-28",
+        "frente": "Por que os anfíbios dependem de ambiente úmido?",
+        "verso": "Porque respiram também pela pele (respiração cutânea), que precisa ficar úmida, e sua reprodução ocorre na água."
+      },
+      {
+        "id": "flash-biologia-diversidade-29",
+        "frente": "Qual novidade evolutiva libertou os répteis da água para reprodução?",
+        "verso": "O ovo com casca e âmnio, que protege o embrião da dessecação, somado à fecundação interna e à pele impermeável."
+      },
+      {
+        "id": "flash-biologia-diversidade-30",
+        "frente": "Que características definem as aves?",
+        "verso": "Penas, bico córneo sem dentes, ossos pneumáticos, sacos aéreos e endotermia."
+      },
+      {
+        "id": "flash-biologia-diversidade-31",
+        "frente": "Que características definem os mamíferos?",
+        "verso": "Glândulas mamárias, pelos, diafragma, endotermia e, em quase todos, desenvolvimento intrauterino."
+      },
+      {
+        "id": "flash-biologia-diversidade-32",
+        "frente": "Qual é a diferença entre animais endotérmicos e ectotérmicos?",
+        "verso": "Endotérmicos produzem e regulam o próprio calor corporal (aves e mamíferos); ectotérmicos dependem do ambiente para regular a temperatura."
+      },
+      {
+        "id": "flash-biologia-diversidade-33",
+        "frente": "O que é uma espécie, pelo conceito biológico?",
+        "verso": "Um grupo de populações naturais capazes de cruzar entre si e gerar descendentes férteis."
+      }
+    ]
+  }
+}

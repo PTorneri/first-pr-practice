@@ -130,9 +130,10 @@ function carregarBancoCentral() {
   // Flashcards, por SUBTEMA -- um arquivo por frente (mesma pasta que
   // data/questions), cada um com `porSubtema[subtemaId]` = array de
   // {id, frente, verso}. Autoral, escrito à mão, um fato por card -- ver
-  // banco-central/README.md. ~60 é o piso combinado; alguns subtemas ainda
-  // não têm deck (migração em andamento), e isso é avisado no fim do build,
-  // não travado: travar aqui quebraria o app inteiro até os 83 estarem prontos.
+  // banco-central/README.md. 30 é o piso por subtema, cobrado em
+  // compor-flashcards.js; alguns subtemas ainda não têm deck (migração em
+  // andamento), e isso é avisado no fim do build, não travado: travar aqui
+  // quebraria o app inteiro até os 83 estarem prontos.
   const flashcards = {};
   if (fs.existsSync(FLASHCARDS_DIR)) {
     fs.readdirSync(FLASHCARDS_DIR).filter((f) => f.endsWith(".json")).forEach((arq) => {

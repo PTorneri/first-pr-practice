@@ -55,7 +55,7 @@ import {
   GoogleAIBackend,
   Schema,
 } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-ai.js";
-import { app, appCheckPronto } from "./firebase-init.js?v=48";
+import { app, appCheckPronto } from "./firebase-init.js?v=49";
 
 // Com o projeto no Blaze, a escolha do modelo deixou de ser limitada pelo
 // "roda sem faturamento" e passou a ser sobre preço por token: este custa

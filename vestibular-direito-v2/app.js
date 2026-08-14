@@ -4227,7 +4227,7 @@
       saveJSON(LS_ANSWERS, current);
       touchTopicLastAnswered(subtopicId);
       registerStudyToday();
-      applyFeedback(wrap, q, letter);
+      applyFeedback(wrap, q, letter, true);
       if (!alreadyAnsweredGlobally) {
         bumpTopicState(subtopicId, letter === q.resposta);
       } else {
@@ -4266,12 +4266,19 @@
     return wrap;
   }
 
-  function applyFeedback(wrap, q, chosenLetter) {
+  // recemRespondida separa "você acabou de acertar" de "esta questão já estava
+  // respondida quando a tela abriu". Só o primeiro caso ganha o anel de luz
+  // (.q-anel): sem essa distinção, abrir um dia com 12 questões já feitas
+  // acendia 12 anéis girando ao mesmo tempo, e a comemoração de acerto virava
+  // ruído de fundo em cima do texto que a pessoa está tentando ler.
+  function applyFeedback(wrap, q, chosenLetter, recemRespondida) {
     wrap.querySelectorAll(".q-alt").forEach((label) => {
-      label.classList.remove("correct", "incorrect");
+      label.classList.remove("correct", "incorrect", "q-anel");
       const letter = label.dataset.letter;
-      if (letter === q.resposta) label.classList.add("correct");
-      else if (letter === chosenLetter) label.classList.add("incorrect");
+      if (letter === q.resposta) {
+        label.classList.add("correct");
+        if (recemRespondida) label.classList.add("q-anel");
+      } else if (letter === chosenLetter) label.classList.add("incorrect");
     });
     const fb = wrap.querySelector(".q-feedback");
     fb.hidden = false;

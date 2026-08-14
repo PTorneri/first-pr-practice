@@ -56296,6 +56296,726 @@ window.QUESTION_BANKS = {
    "explicacao": "Em momentos de aumento expressivo dos fluxos migratórios — como durante a crise migratória europeia de 2015 —, o acordo de livre circulação interna foi posto à prova, com países reintroduzindo controles de fronteira temporários com base em cláusulas de exceção previstas no mesmo tratado. O acordo nunca foi suspenso por decisão unânime (b); a expansão do bloco de fato gera debate entre os membros já integrantes (a); estabilidade cambial não é o fator que reduz fiscalização de fronteira, questão migratória e de segurança, não monetária (c); e queda de desemprego não é o gatilho histórico das tensões (e).",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-413",
+   "enunciado": "Entre 1947 e 1991, a ordem mundial costuma ser descrita como bipolar. Essa caracterização se apoia no fato de que, naquele período,",
+   "alternativas": {
+    "a": "duas superpotências concentravam a capacidade de projetar influência militar e política sobre os demais Estados",
+    "b": "a hegemonia militar e política cabia a um único Estado, arranjo que os estudos de geopolítica designam como ordem unipolar madura",
+    "c": "um bloco econômico regional já havia substituído os Estados como principal centro de decisão internacional",
+    "d": "a soberania dos Estados havia sido transferida para organismos internacionais de crédito e supervisão",
+    "e": "os países emergentes da Ásia lideravam a produção das normas do comércio internacional"
+   },
+   "resposta": "a",
+   "explicacao": "A ordem mundial bipolar organizava-se em torno de duas superpotências rivais, cada uma exercendo hegemonia sobre uma área de influência. A leitura unipolar só faz sentido para o período posterior a 1991, e a soberania estatal permaneceu como unidade central da geopolítica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-414",
+   "enunciado": "Ao descrever a ordem mundial contemporânea como multipolar, analistas de geopolítica pretendem indicar que",
+   "alternativas": {
+    "a": "o poder de decisão internacional passou a ser exercido por um governo mundial sediado na sede da ONU, em substituição aos Estados",
+    "b": "vários centros de poder disputam influência, sem que um deles consiga impor sozinho as regras do jogo",
+    "c": "a hegemonia de uma única potência mundial se consolidou de forma duradoura após 1991",
+    "d": "os países periféricos deixaram de participar dos fluxos de capital internacionais",
+    "e": "as fronteiras políticas foram dissolvidas pela integração dos mercados"
+   },
+   "resposta": "b",
+   "explicacao": "Multipolaridade descreve a coexistência de diversos centros de poder com capacidade de veto mútuo. Não implica governo mundial, nem o fim das fronteiras ou da soberania estatal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-415",
+   "enunciado": "A hegemonia exercida pelos Estados Unidos ao longo do século XX apoiou-se em diferentes dimensões de poder. Entre elas, a chamada dimensão cultural corresponde",
+   "alternativas": {
+    "a": "ao controle direto de territórios contestados por meio de administração colonial formal",
+    "b": "à imposição de barreiras tarifárias acordadas no âmbito da OMC contra o resto do mundo",
+    "c": "à difusão de padrões de consumo, entretenimento e modos de vida que ampliam a adesão ao modelo do país",
+    "d": "à concessão de assentos permanentes no Conselho de Segurança a Estados aliados, mecanismo que a ordem mundial do pós-guerra teria consagrado como regra",
+    "e": "à criação de um bloco econômico de livre circulação de pessoas na América do Norte"
+   },
+   "resposta": "c",
+   "explicacao": "A dimensão cultural da hegemonia estadunidense opera pela difusão de padrões de consumo e de referências simbólicas, o chamado poder brando, e complementa as dimensões militar e financeira dessa potência mundial.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-416",
+   "enunciado": "A ascensão da China à condição de potência mundial no século XXI se apoiou, sobretudo,",
+   "alternativas": {
+    "a": "na conquista militar de territórios contestados na Europa Central, o que lhe teria assegurado o domínio sobre as rotas terrestres e sobre os portos estratégicos do continente",
+    "b": "no abandono do planejamento estatal e na adoção plena das recomendações do FMI",
+    "c": "na renúncia à soberania sobre suas zonas costeiras em favor de empresas transnacionais",
+    "d": "na combinação de forte direção estatal, abertura seletiva ao capital externo e inserção acelerada na divisão internacional do trabalho",
+    "e": "na criação de um bloco econômico único com a Índia e o Japão"
+   },
+   "resposta": "d",
+   "explicacao": "O projeto chinês combinou direção estatal, atração seletiva de capital estrangeiro e inserção agressiva na divisão internacional do trabalho, deslocando o país da periferia para o núcleo da economia mundial.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-417",
+   "enunciado": "O agrupamento conhecido como BRICS reúne economias de peso variado que compartilham um objetivo político. Esse objetivo pode ser resumido como",
+   "alternativas": {
+    "a": "a criação de uma moeda comum de curso obrigatório entre os membros, projeto que os documentos fundadores teriam colocado como primeira etapa da integração",
+    "b": "a formação de uma aliança militar defensiva contra a OTAN",
+    "c": "a adoção de tarifa externa comum e livre circulação de trabalhadores entre os membros",
+    "d": "a supressão das fronteiras internas entre os países signatários",
+    "e": "a ampliação do peso de economias emergentes na governança da ordem mundial e nos organismos multilaterais"
+   },
+   "resposta": "e",
+   "explicacao": "O BRICS nasceu como coordenação política de economias emergentes que buscam maior peso na ordem mundial e nas instituições multilaterais, e não como bloco econômico com tarifa comum nem como aliança militar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-418",
+   "enunciado": "O Conselho de Segurança da ONU é frequentemente criticado por refletir uma correlação de forças já superada. A principal razão apontada por essa crítica é que",
+   "alternativas": {
+    "a": "os cinco assentos permanentes com poder de veto correspondem aos vencedores de 1945, e não à distribuição atual de poder",
+    "b": "o órgão só delibera com a aprovação prévia do FMI, o que retira dele a autonomia sobre os temas de conflito armado submetidos à sua apreciação",
+    "c": "suas decisões dependem de referendo popular em cada Estado-membro",
+    "d": "nenhuma potência regional participa das reuniões do órgão",
+    "e": "o órgão foi transferido para a sede da OMC em Genebra"
+   },
+   "resposta": "a",
+   "explicacao": "A crítica recorrente ao Conselho de Segurança recai sobre os assentos permanentes com poder de veto, congelados na geopolítica de 1945, que não acompanham a ascensão de potências emergentes na ordem mundial.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-419",
+   "enunciado": "As condicionalidades associadas aos empréstimos do FMI a países endividados, sobretudo nos anos 1980 e 1990, costumavam exigir",
+   "alternativas": {
+    "a": "a saída imediata do país do bloco econômico regional de que participasse",
+    "b": "ajuste fiscal, abertura comercial e redução da participação do Estado na economia, sob supervisão do organismo",
+    "c": "a transferência da soberania monetária para o Conselho de Segurança da ONU",
+    "d": "a revisão das fronteiras internacionais reconhecidas pelo país devedor, medida que a geopolítica do período teria tornado condição usual de crédito",
+    "e": "a suspensão da participação do país na OMC até a quitação integral da dívida"
+   },
+   "resposta": "b",
+   "explicacao": "O receituário do FMI, associado ao chamado Consenso de Washington, exigia ajuste fiscal, abertura comercial e menor presença do Estado, condicionando o crédito a países periféricos a essas reformas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-420",
+   "enunciado": "A criação da OMC, em 1995, representou uma mudança em relação ao acordo que a antecedeu porque a nova entidade",
+   "alternativas": {
+    "a": "passou a fixar diretamente os preços internacionais dos produtos primários negociados entre países centrais e periféricos",
+    "b": "assumiu a função de emprestar reservas a países em crise de balanço de pagamentos",
+    "c": "ganhou um sistema permanente de solução de controvérsias, com decisões vinculantes entre os membros",
+    "d": "substituiu a ONU na mediação de conflitos territoriais entre Estados vizinhos",
+    "e": "instituiu tarifa externa comum obrigatória aos signatários, arranjo típico de bloco econômico de estágio avançado"
+   },
+   "resposta": "c",
+   "explicacao": "A OMC herdou as rodadas de negociação do acordo anterior e acrescentou um órgão permanente de solução de controvérsias com decisões vinculantes, peça central da governança comercial da ordem mundial contemporânea.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-421",
+   "enunciado": "O Mercosul, criado em 1991, atingiu formalmente o estágio de união aduaneira. Isso significa que os países-membros",
+   "alternativas": {
+    "a": "adotaram moeda única e um banco central comum, como fez a União Europeia em etapa posterior de sua integração",
+    "b": "aboliram os controles de fronteira e passaram a permitir livre circulação de trabalhadores sem restrição",
+    "c": "transferiram a soberania sobre política externa a um parlamento supranacional",
+    "d": "eliminaram tarifas entre si e adotaram uma tarifa externa comum diante de terceiros",
+    "e": "passaram a integrar automaticamente o BRICS e o Conselho de Segurança da ONU"
+   },
+   "resposta": "d",
+   "explicacao": "A união aduaneira combina zona de livre comércio interna com tarifa externa comum. O Mercosul chegou a esse estágio de forma imperfeita, com listas de exceção, e não avançou para moeda única nem para instituições supranacionais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-422",
+   "enunciado": "A União Europeia é, entre os arranjos regionais existentes, o que mais avançou na integração. Um traço que a distingue de um bloco econômico apenas comercial é",
+   "alternativas": {
+    "a": "a manutenção de tarifas elevadas entre os países-membros como forma de proteção mútua",
+    "b": "a exigência de que os membros se retirem da OMC ao aderir ao acordo, condição que a geopolítica europeia teria fixado desde a origem",
+    "c": "a proibição de que os membros assinem acordos bilaterais com países emergentes",
+    "d": "a subordinação direta de suas decisões ao Conselho de Segurança da ONU",
+    "e": "a existência de instituições supranacionais e de moeda comum adotada por parte dos membros"
+   },
+   "resposta": "e",
+   "explicacao": "A União Europeia dispõe de instituições supranacionais e de moeda comum entre parte dos membros, o que a coloca em estágio de integração superior ao de um bloco econômico voltado apenas ao comércio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-423",
+   "enunciado": "A saída do Reino Unido da União Europeia, concluída em 2020, foi defendida por seus apoiadores com o argumento de que",
+   "alternativas": {
+    "a": "a recuperação da soberania sobre normas e sobre o controle das fronteiras compensaria os custos comerciais da separação",
+    "b": "o país passaria a integrar automaticamente o BRICS e o USMCA, ampliando seu peso na governança da ordem mundial e nos foros multilaterais de comércio",
+    "c": "a permanência no bloco econômico impedia o país de manter forças armadas próprias",
+    "d": "a adesão à OMC seria incompatível com a participação em um mercado comum regional",
+    "e": "o país precisava transferir sua política monetária ao FMI para conter a inflação"
+   },
+   "resposta": "a",
+   "explicacao": "O argumento central dos defensores da saída foi a recuperação da soberania normativa e do controle das fronteiras, ainda que ao custo de barreiras comerciais com o principal parceiro do país.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-424",
+   "enunciado": "O USMCA, que substituiu o NAFTA em 2020, mantém a característica básica de seu antecessor ao",
+   "alternativas": {
+    "a": "instituir moeda comum entre os três signatários, com banco central sediado em território estadunidense",
+    "b": "liberalizar o comércio de bens entre os três países sem estabelecer livre circulação de trabalhadores",
+    "c": "criar um parlamento regional com poder de revisar as leis nacionais dos membros",
+    "d": "abolir os postos de fronteira entre os países-membros e suprimir os controles alfandegários internos, como ocorre em parte da União Europeia",
+    "e": "condicionar as decisões comerciais dos membros à aprovação prévia da OMC"
+   },
+   "resposta": "b",
+   "explicacao": "Tanto o NAFTA quanto o USMCA são acordos de livre comércio de bens que preservam o controle das fronteiras e não estabelecem livre circulação de trabalhadores nem instituições supranacionais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-425",
+   "enunciado": "Os estágios de integração regional costumam ser ordenados em uma escala. A diferença entre uma zona de livre comércio e uma união aduaneira está em que apenas a segunda",
+   "alternativas": {
+    "a": "elimina as tarifas incidentes sobre o comércio entre os países-membros",
+    "b": "exige que os membros pertençam ao mesmo continente e compartilhem fronteira terrestre",
+    "c": "adota uma tarifa externa comum diante dos países que estão fora do bloco econômico",
+    "d": "obriga os membros a coordenar suas posições no Conselho de Segurança da ONU e no FMI, como parte de uma política externa unificada",
+    "e": "prevê livre circulação de trabalhadores e de capitais entre os signatários"
+   },
+   "resposta": "c",
+   "explicacao": "A zona de livre comércio elimina tarifas internas; a união aduaneira acrescenta a tarifa externa comum. A livre circulação de fatores caracteriza o mercado comum, estágio seguinte da integração.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-426",
+   "enunciado": "Uma característica da globalização financeira contemporânea é a velocidade com que os fluxos de capital se deslocam entre praças financeiras. Uma consequência dessa mobilidade é que",
+   "alternativas": {
+    "a": "as taxas de câmbio deixaram de variar, pois os capitais se distribuem de modo homogêneo",
+    "b": "os Estados perderam formalmente a soberania sobre a emissão de sua moeda em favor do FMI",
+    "c": "o comércio de bens substituiu integralmente as operações financeiras internacionais",
+    "d": "crises originadas em um mercado se transmitem rapidamente a economias distantes, ampliando a vulnerabilidade de países periféricos",
+    "e": "a ordem mundial passou a ser regulada por um único banco central supranacional, arranjo que a geopolítica das finanças teria consolidado depois de 2008"
+   },
+   "resposta": "d",
+   "explicacao": "A mobilidade dos fluxos de capital encurta o tempo de contágio entre mercados e expõe economias periféricas a reversões súbitas de investimento, um dos traços definidores da globalização financeira.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-427",
+   "enunciado": "Ao distribuir suas etapas produtivas por vários países, uma empresa transnacional busca principalmente",
+   "alternativas": {
+    "a": "cumprir exigência formal da OMC de repartir a produção entre pelo menos três continentes distintos",
+    "b": "transferir sua sede jurídica para um território contestado, de modo a escapar da soberania estatal sobre os contratos que venha a celebrar",
+    "c": "equilibrar o número de empregos gerados entre países centrais e periféricos",
+    "d": "obter assento nos organismos multilaterais que regulam a ordem mundial",
+    "e": "reduzir custos aproveitando as vantagens específicas de cada território dentro da divisão internacional do trabalho"
+   },
+   "resposta": "e",
+   "explicacao": "A fragmentação produtiva das empresas transnacionais busca combinar as vantagens de cada território, aprofundando a divisão internacional do trabalho e as cadeias globais de valor.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-428",
+   "enunciado": "A divisão internacional do trabalho estabelecida no século XIX reservava aos países periféricos um papel específico. Esse papel consistia em",
+   "alternativas": {
+    "a": "fornecer matérias-primas e gêneros alimentícios aos países centrais, deles adquirindo bens manufaturados",
+    "b": "concentrar a pesquisa científica e o desenvolvimento tecnológico do período",
+    "c": "coordenar os fluxos de capital entre as praças financeiras europeias e norte-americanas",
+    "d": "definir as regras do comércio internacional em organismos multilaterais criados no fim daquele século, conforme a ordem mundial da época teria delegado às economias periféricas",
+    "e": "exercer hegemonia militar sobre as rotas marítimas do Atlântico"
+   },
+   "resposta": "a",
+   "explicacao": "A divisão internacional do trabalho clássica reservava aos territórios periféricos o fornecimento de matérias-primas e alimentos, cabendo aos países centrais a produção manufatureira e a hegemonia sobre as regras do intercâmbio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-429",
+   "enunciado": "A chamada nova divisão internacional do trabalho, consolidada a partir dos anos 1970, distingue-se da anterior porque",
+   "alternativas": {
+    "a": "eliminou a diferença de renda entre países centrais e periféricos ao redistribuir uniformemente as etapas produtivas pelo planeta",
+    "b": "transferiu etapas manufatureiras a territórios periféricos, enquanto os centros retiveram concepção, tecnologia e finanças",
+    "c": "restringiu os fluxos de capital ao interior de cada bloco econômico regional",
+    "d": "devolveu aos Estados periféricos o controle sobre as decisões de investimento das empresas transnacionais",
+    "e": "suprimiu o papel dos organismos multilaterais na regulação do comércio"
+   },
+   "resposta": "b",
+   "explicacao": "Na nova divisão internacional do trabalho, a produção fabril se desloca para territórios de menor custo, ao passo que os países centrais concentram concepção, tecnologia, marcas e finanças, o que mantém a assimetria entre centro e periferia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-430",
+   "enunciado": "Os chamados paraísos fiscais cumprem uma função específica no funcionamento da globalização financeira. Essa função é",
+   "alternativas": {
+    "a": "financiar diretamente as operações de paz autorizadas pelo Conselho de Segurança da ONU",
+    "b": "servir de sede obrigatória às empresas transnacionais registradas em países centrais, exigência que a ordem mundial das finanças teria consagrado após a década de 1980",
+    "c": "abrigar juridicamente fluxos de capital que buscam sigilo e tributação reduzida, subtraindo receita dos Estados de origem",
+    "d": "arbitrar disputas comerciais entre os membros da OMC",
+    "e": "emitir a moeda de reserva utilizada nas transações entre países emergentes"
+   },
+   "resposta": "c",
+   "explicacao": "Territórios de baixa tributação e forte sigilo funcionam como pontos de passagem dos fluxos de capital internacionais, erodindo a base tributária dos Estados de origem e evidenciando os limites da soberania fiscal na globalização.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-431",
+   "enunciado": "A disputa comercial e tecnológica entre Estados Unidos e China, intensificada a partir de 2018, é interpretada pela geopolítica como",
+   "alternativas": {
+    "a": "um conflito armado localizado, restrito às fronteiras marítimas do Pacífico ocidental",
+    "b": "um desacordo pontual sobre a sede administrativa da OMC",
+    "c": "uma negociação para a adesão conjunta dos dois países ao bloco econômico do Mercosul",
+    "d": "uma disputa pela liderança tecnológica e pela definição das regras da ordem mundial em formação",
+    "e": "uma tentativa de ambos os Estados de transferir sua soberania monetária ao FMI, projeto que a governança financeira multilateral teria patrocinado no período"
+   },
+   "resposta": "d",
+   "explicacao": "Mais do que uma questão tarifária, o atrito entre as duas maiores economias envolve semicondutores, redes de comunicação e padrões técnicos, ou seja, a disputa por quem define as regras da ordem mundial em formação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-432",
+   "enunciado": "As chamadas terras raras tornaram-se peça central da geopolítica dos recursos porque",
+   "alternativas": {
+    "a": "são o único insumo aceito pela OMC como lastro das transações entre países centrais",
+    "b": "estão distribuídas de modo homogêneo pelo planeta, o que reduz a importância estratégica de seu controle",
+    "c": "sua exploração foi proibida pelo Conselho de Segurança da ONU em razão de conflitos armados recorrentes nas áreas de ocorrência do minério",
+    "d": "sua posse assegura assento permanente nos organismos multilaterais",
+    "e": "sua extração e seu processamento estão concentrados em poucos territórios, o que dá poder de barganha a quem os detém"
+   },
+   "resposta": "e",
+   "explicacao": "A concentração da extração e, sobretudo, do refino desses elementos em poucos territórios converte o acesso a eles em instrumento de pressão, exemplo clássico da geopolítica dos recursos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-433",
+   "enunciado": "Analistas afirmam que a água doce se tornou objeto da geopolítica dos recursos. O argumento que sustenta essa afirmação é que",
+   "alternativas": {
+    "a": "reservas compartilhadas por vários Estados exigem acordos de uso, e sua escassez pode alimentar conflito territorial entre vizinhos",
+    "b": "a distribuição do recurso passou a ser decidida pela OMC desde a criação do organismo",
+    "c": "o recurso deixou de ser utilizado na agricultura em países centrais, o que transferiu a disputa às economias periféricas",
+    "d": "a soberania sobre reservas subterrâneas foi transferida a empresas transnacionais por decisão do FMI, o que teria retirado dos Estados a competência sobre o tema",
+    "e": "os países emergentes concordaram em suprimir suas fronteiras nas áreas de recarga"
+   },
+   "resposta": "a",
+   "explicacao": "Reservas hídricas compartilhadas por mais de um Estado exigem tratados de uso e monitoramento; onde eles falham, a disputa pelo recurso se converte em tensão diplomática e, em casos extremos, em conflito territorial.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-434",
+   "enunciado": "O interesse crescente de várias potências pelo Ártico decorre principalmente do fato de que",
+   "alternativas": {
+    "a": "a região passou a sediar a maior parte dos organismos multilaterais da ordem mundial",
+    "b": "o recuo do gelo marinho abre rotas de navegação e amplia o acesso a recursos, acirrando disputas de soberania",
+    "c": "o Conselho de Segurança da ONU declarou a área território nacional comum de seus membros permanentes",
+    "d": "a região foi incorporada ao bloco econômico da União Europeia em 2015",
+    "e": "os países periféricos obtiveram ali o direito de instalar bases militares, prerrogativa que a geopolítica polar do século XXI teria consolidado por tratado"
+   },
+   "resposta": "b",
+   "explicacao": "O recuo do gelo marinho torna viáveis rotas de navegação mais curtas e amplia o acesso a recursos do subsolo marinho, o que reacende reivindicações de soberania de Estados com litoral na região.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-435",
+   "enunciado": "A disputa entre Israel e Palestina é classificada como conflito territorial porque seu núcleo está",
+   "alternativas": {
+    "a": "na divergência sobre a tarifa externa comum de um bloco econômico regional",
+    "b": "na disputa pelo assento rotativo dos dois Estados no Conselho de Segurança da ONU",
+    "c": "na definição de fronteiras e no controle efetivo de áreas reivindicadas pelos dois lados como território nacional",
+    "d": "no desacordo quanto à adesão de ambos ao BRICS e às regras do organismo, tema que a diplomacia regional teria colocado no centro das negociações recentes",
+    "e": "na competição por hegemonia tecnológica no mercado de semicondutores"
+   },
+   "resposta": "c",
+   "explicacao": "O conflito se organiza em torno de fronteiras, do controle de áreas ocupadas e do reconhecimento de território nacional pelos dois lados, o que o caracteriza como disputa territorial e não meramente econômica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-436",
+   "enunciado": "A guerra entre Rússia e Ucrânia, iniciada em sua fase aberta em 2022, é frequentemente lida como sintoma de uma disputa mais ampla. Essa disputa envolve",
+   "alternativas": {
+    "a": "a definição da tarifa externa comum entre os Estados do leste europeu",
+    "b": "a escolha da sede permanente do FMI e da OMC no continente europeu",
+    "c": "a candidatura conjunta dos dois Estados ao BRICS, processo que a diplomacia dos emergentes teria colocado como prioridade da década",
+    "d": "os limites da expansão da OTAN e a área de influência russa em suas fronteiras ocidentais",
+    "e": "a partilha de reservas de terras raras no interior da União Europeia"
+   },
+   "resposta": "d",
+   "explicacao": "O conflito armado se insere na disputa sobre o alcance da OTAN e sobre a área de influência russa junto às suas fronteiras, questão clássica de geopolítica de segurança.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-437",
+   "enunciado": "As tensões no Mar do Sul da China envolvem reivindicações sobrepostas de vários Estados costeiros. O objeto central dessas reivindicações é",
+   "alternativas": {
+    "a": "a definição da sede regional dos organismos multilaterais da ordem mundial",
+    "b": "a criação de um bloco econômico asiático com moeda comum entre os litorais envolvidos",
+    "c": "a escolha do idioma oficial das negociações comerciais conduzidas entre os países emergentes da região no âmbito da OMC",
+    "d": "a divisão das cotas de importação estabelecidas pela OMC para produtos pesqueiros",
+    "e": "o controle de ilhas e das águas adjacentes, que definem soberania sobre recursos marinhos e rotas de navegação"
+   },
+   "resposta": "e",
+   "explicacao": "Controlar formações insulares implica projetar áreas marítimas sob soberania estatal, com direitos sobre recursos e sobre rotas de navegação, o que explica a persistência do conflito territorial na região.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-438",
+   "enunciado": "A Caxemira é apontada como uma das áreas mais sensíveis do sistema internacional porque nela",
+   "alternativas": {
+    "a": "dois Estados com armas nucleares disputam o traçado da fronteira de um território contestado",
+    "b": "a União Europeia mantém sua principal base logística fora do continente europeu",
+    "c": "está sediado o tribunal de solução de controvérsias da OMC para a Ásia meridional",
+    "d": "se concentra a maior parte das reservas de terras raras utilizadas pelas empresas transnacionais do setor eletrônico, o que atrai investimento externo em larga escala",
+    "e": "foi instalada a sede administrativa do BRICS após a ampliação do agrupamento"
+   },
+   "resposta": "a",
+   "explicacao": "A disputa pelo traçado da fronteira nessa área envolve dois Estados dotados de armamento nuclear, o que confere ao conflito territorial uma dimensão de risco sistêmico na geopolítica asiática.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-439",
+   "enunciado": "A situação do povo curdo é citada como exemplo de descompasso entre nação e Estado porque esse grupo",
+   "alternativas": {
+    "a": "renunciou formalmente à sua identidade cultural ao aderir a um bloco econômico regional",
+    "b": "ocupa área repartida entre as fronteiras de vários Estados, sem dispor de território nacional reconhecido",
+    "c": "obteve assento permanente no Conselho de Segurança da ONU na reforma do organismo",
+    "d": "exerce hegemonia econômica sobre os países emergentes do Oriente Médio, condição que a geopolítica regional teria consolidado ao longo do último século",
+    "e": "administra em conjunto com o FMI as reservas de recursos minerais da região"
+   },
+   "resposta": "b",
+   "explicacao": "Os curdos formam uma nação sem Estado próprio: sua área de ocupação foi repartida entre fronteiras traçadas por terceiros, e a ausência de território nacional reconhecido alimenta conflito armado recorrente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-440",
+   "enunciado": "A OTAN, criada em 1949, distingue-se dos arranjos de integração comercial porque seu núcleo é",
+   "alternativas": {
+    "a": "a fixação de tarifas comuns sobre produtos importados de países periféricos",
+    "b": "a coordenação das políticas monetárias dos membros junto ao FMI e aos bancos centrais nacionais, conforme o tratado fundador teria estabelecido como prioridade",
+    "c": "um compromisso de defesa mútua, pelo qual o ataque a um membro é tratado como ataque ao conjunto dos signatários",
+    "d": "a criação de um mercado comum de trabalhadores entre as duas margens do Atlântico",
+    "e": "a arbitragem de disputas comerciais submetidas à OMC pelos Estados europeus"
+   },
+   "resposta": "c",
+   "explicacao": "A OTAN é uma aliança militar fundada na cláusula de defesa mútua, e não um bloco econômico; sua expansão para o leste europeu é elemento central da geopolítica do continente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-441",
+   "enunciado": "Na geografia política, distingue-se limite de fronteira. Essa distinção pode ser assim resumida:",
+   "alternativas": {
+    "a": "o limite é a área de contato e troca entre sociedades vizinhas, ao passo que a fronteira é a linha jurídica que separa Estados",
+    "b": "ambos designam a mesma realidade, variando apenas conforme o idioma do tratado que os estabelece",
+    "c": "o limite só existe entre países centrais, e a fronteira, entre países periféricos",
+    "d": "o limite é a linha jurídica que separa territórios, enquanto a fronteira é a faixa de contato e interação entre as sociedades vizinhas",
+    "e": "o limite é definido pela ONU e a fronteira, pelo bloco econômico ao qual o Estado pertence, segundo o critério adotado nos tratados de integração regional"
+   },
+   "resposta": "d",
+   "explicacao": "O limite é a linha abstrata e jurídica que delimita o território nacional; a fronteira é a faixa vivida de contato, onde ocorrem trocas e tensões entre as sociedades vizinhas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-442",
+   "enunciado": "A chamada Amazônia Azul designa a zona econômica exclusiva brasileira no Atlântico. Sua relevância para a geopolítica nacional está em que essa área",
+   "alternativas": {
+    "a": "é administrada em conjunto pelos membros do bloco econômico do Mercosul",
+    "b": "constitui território nacional pleno, com fronteira terrestre reconhecida por tratado com Estados vizinhos",
+    "c": "foi transferida à ONU como patrimônio comum da humanidade após a Convenção do Mar",
+    "d": "está isenta das regras de comércio acordadas na OMC por decisão dos países emergentes signatários da convenção sobre o direito do mar",
+    "e": "confere ao país direitos de exploração dos recursos do mar e do subsolo marinho, o que exige capacidade de vigilância e defesa"
+   },
+   "resposta": "e",
+   "explicacao": "A zona econômica exclusiva não é território nacional pleno, mas assegura direitos exclusivos de exploração dos recursos marinhos e do subsolo, o que torna sua vigilância um tema de soberania.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-443",
+   "enunciado": "A regionalização do mundo em Norte e Sul, difundida a partir dos anos 1980, apoia-se em um critério específico. Esse critério é",
+   "alternativas": {
+    "a": "o nível de desenvolvimento socioeconômico, e não a posição exata dos Estados em relação à linha do equador",
+    "b": "a filiação dos Estados a um bloco econômico regional reconhecido pela OMC",
+    "c": "a latitude geográfica das capitais nacionais, medida a partir do meridiano de Greenwich",
+    "d": "a participação dos Estados em conflito armado nos cinquenta anos anteriores à publicação do relatório que consagrou a divisão",
+    "e": "o tamanho absoluto do território nacional de cada Estado"
+   },
+   "resposta": "a",
+   "explicacao": "A divisão Norte-Sul é socioeconômica, não estritamente cartográfica: agrupa países desenvolvidos e países subdesenvolvidos, razão pela qual Austrália e Nova Zelândia integram o Norte.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-444",
+   "enunciado": "A leitura centro-periferia, formulada por autores latino-americanos, sustenta que a assimetria entre os dois polos se reproduz porque",
+   "alternativas": {
+    "a": "os países periféricos recusaram participar do comércio internacional durante o século XX",
+    "b": "a deterioração dos termos de troca desfavorece quem exporta produtos primários e adquire bens de maior conteúdo tecnológico",
+    "c": "os países centrais dispõem de território nacional mais extenso e de fronteiras mais defensáveis, vantagem que a geopolítica clássica teria apontado como origem da assimetria",
+    "d": "a ONU estabeleceu cotas de crescimento diferenciadas para cada grupo de Estados",
+    "e": "os fluxos de capital deixaram de circular entre as duas áreas após a criação do FMI"
+   },
+   "resposta": "b",
+   "explicacao": "A tese da deterioração dos termos de troca sustenta que os preços dos produtos primários crescem menos que os dos bens industriais, reproduzindo a assimetria entre centro e periferia na divisão internacional do trabalho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-445",
+   "enunciado": "A expressão países emergentes designa um conjunto de economias que, na ordem mundial atual,",
+   "alternativas": {
+    "a": "já alcançaram os indicadores sociais dos países centrais e deixaram a condição periférica",
+    "b": "abandonaram a produção manufatureira para se especializar em serviços financeiros",
+    "c": "cresceram e ganharam peso no comércio e nos fluxos de capital, mantendo, porém, indicadores sociais distantes dos países desenvolvidos",
+    "d": "renunciaram à participação nos organismos multilaterais para preservar a soberania nacional, estratégia que a geopolítica do agrupamento teria adotado desde a origem",
+    "e": "formam um bloco econômico com tarifa externa comum e moeda única"
+   },
+   "resposta": "c",
+   "explicacao": "Os emergentes combinam peso crescente nos fluxos econômicos globais com indicadores sociais ainda distantes dos países desenvolvidos, situação intermediária que a categoria procura nomear.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-446",
+   "enunciado": "A geografia contemporânea evita tratar o subdesenvolvimento como simples atraso a ser superado. A razão dessa recusa é que o subdesenvolvimento",
+   "alternativas": {
+    "a": "decorre da ausência de fronteiras claramente demarcadas entre os Estados envolvidos",
+    "b": "é consequência direta da recusa desses Estados em aderir à OMC e ao FMI",
+    "c": "corresponde a uma fase que os países desenvolvidos também atravessaram, em ritmo apenas mais acelerado, segundo a interpretação hoje predominante nos estudos de geopolítica",
+    "d": "resulta da posição ocupada por certos territórios na divisão internacional do trabalho, e não de uma etapa anterior percorrida pelos países centrais",
+    "e": "se explica pelo tamanho reduzido do território nacional das economias periféricas"
+   },
+   "resposta": "d",
+   "explicacao": "A crítica à leitura etapista sustenta que o subdesenvolvimento é produto histórico da inserção subordinada na divisão internacional do trabalho, e não um estágio prévio ao desenvolvimento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-447",
+   "enunciado": "A Conferência de Berlim, realizada entre 1884 e 1885, é considerada um marco da geopolítica moderna porque nela",
+   "alternativas": {
+    "a": "foi criado o primeiro bloco econômico continental com tarifa externa comum",
+    "b": "os países periféricos obtiveram assento nos organismos multilaterais de crédito",
+    "c": "foi assinado o tratado que originou o Conselho de Segurança da ONU",
+    "d": "os Estados africanos definiram suas próprias fronteiras em negociação direta com as potências coloniais, arranjo que a diplomacia do período teria consagrado como modelo",
+    "e": "as potências europeias estabeleceram as regras de partilha do continente africano entre si"
+   },
+   "resposta": "e",
+   "explicacao": "Na Conferência de Berlim, potências europeias fixaram as regras da partilha da África sem participação africana, definindo fronteiras que ainda hoje alimentam conflito territorial no continente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-448",
+   "enunciado": "Muitos conflitos armados observados na África contemporânea são associados ao traçado herdado do período colonial. Essa associação se explica porque as fronteiras",
+   "alternativas": {
+    "a": "foram desenhadas por critérios de conveniência das potências europeias, reunindo ou separando povos sem considerar sua organização anterior",
+    "b": "acompanharam com precisão os limites das sociedades africanas existentes antes da ocupação europeia",
+    "c": "foram redefinidas pela ONU depois da independência de cada Estado, o que corrigiu as distorções da partilha",
+    "d": "resultam de plebiscitos realizados em cada território nacional no momento da descolonização, procedimento que a geopolítica do período teria adotado de modo geral no continente",
+    "e": "coincidem com os limites dos blocos econômicos regionais criados no continente"
+   },
+   "resposta": "a",
+   "explicacao": "As fronteiras africanas foram traçadas segundo a conveniência das potências europeias, dividindo povos e reunindo grupos rivais dentro do mesmo território nacional, o que ajuda a explicar a recorrência de conflito armado após as independências.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-449",
+   "enunciado": "O Plano Marshall, lançado em 1947, cumpriu na geopolítica do pós-guerra a função de",
+   "alternativas": {
+    "a": "criar um bloco econômico com tarifa externa comum entre Estados Unidos e União Soviética",
+    "b": "financiar a reconstrução europeia e, com isso, consolidar a área de influência estadunidense diante da União Soviética",
+    "c": "transferir a soberania monetária dos Estados europeus para o FMI, medida que a ordem mundial do período teria imposto como condição da ajuda",
+    "d": "estabelecer o sistema de solução de controvérsias que viria a ser incorporado pela OMC",
+    "e": "financiar a industrialização dos países periféricos da América Latina e da Ásia"
+   },
+   "resposta": "b",
+   "explicacao": "Ao financiar a reconstrução do continente, o Plano Marshall recuperou mercados para a economia estadunidense e amarrou a Europa ocidental à área de influência dessa potência mundial, no quadro da ordem mundial bipolar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-450",
+   "enunciado": "A queda do Muro de Berlim, em 1989, e a dissolução da União Soviética, em 1991, produziram na ordem mundial o efeito de",
+   "alternativas": {
+    "a": "criar um bloco econômico único abrangendo o conjunto do continente europeu",
+    "b": "transferir a hegemonia militar do sistema internacional para os países emergentes da Ásia",
+    "c": "encerrar a bipolaridade e abrir um período de predomínio estadunidense frequentemente chamado de unipolar",
+    "d": "eliminar as fronteiras entre os Estados que compunham a área de influência soviética, providência que os tratados de dissolução teriam previsto de forma expressa",
+    "e": "submeter as decisões do Conselho de Segurança da ONU à aprovação da OMC"
+   },
+   "resposta": "c",
+   "explicacao": "O fim da bipolaridade abriu o chamado momento unipolar, de predomínio estadunidense, que analistas consideram encerrado com a ascensão de novos polos e a formação de uma ordem mundial multipolar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-451",
+   "enunciado": "A afirmação de que os Estados Unidos exerceram, ao longo do século XX, hegemonia sobre a América Latina apoia-se em evidências como",
+   "alternativas": {
+    "a": "a transferência formal do território nacional dos Estados latino-americanos à administração estadunidense",
+    "b": "a exigência de que os Estados da região se retirassem da ONU e do FMI",
+    "c": "a criação de um bloco econômico único com moeda comum abrangendo o conjunto do continente americano, projeto que a diplomacia regional teria concluído ainda no século passado",
+    "d": "intervenções militares, apoio a governos alinhados e forte influência sobre as decisões econômicas dos países da região",
+    "e": "a proibição de que países da região mantivessem relações com a União Europeia"
+   },
+   "resposta": "d",
+   "explicacao": "A hegemonia regional se manifestou em intervenções militares, apoio a governos alinhados e influência sobre a agenda econômica, sem que houvesse anexação de território nacional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-452",
+   "enunciado": "O poder de veto atribuído aos cinco membros permanentes do Conselho de Segurança da ONU tem como efeito prático",
+   "alternativas": {
+    "a": "acelerar a admissão de novos membros permanentes entre os países emergentes",
+    "b": "transferir à OMC a competência para autorizar operações de paz",
+    "c": "obrigar os cinco Estados a financiar integralmente as missões aprovadas pelo organismo",
+    "d": "assegurar que cada bloco econômico regional tenha um representante permanente no órgão, arranjo que a reforma da ordem mundial do pós-guerra teria estabelecido",
+    "e": "impedir deliberações contrárias aos interesses dessas potências, ainda que a maioria dos membros as apoie"
+   },
+   "resposta": "e",
+   "explicacao": "O veto permite que qualquer dos cinco permanentes bloqueie uma resolução mesmo contra a maioria, o que paralisa o órgão justamente nos casos de conflito armado que envolvem essas potências ou seus aliados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-453",
+   "enunciado": "Quando um país recorre ao sistema de solução de controvérsias da OMC contra outro membro, o resultado esperado de uma decisão favorável é",
+   "alternativas": {
+    "a": "a autorização para aplicar medidas de retaliação comercial caso o país condenado não corrija a prática questionada",
+    "b": "a expulsão automática do país condenado do bloco econômico regional a que pertença",
+    "c": "a intervenção do Conselho de Segurança da ONU para assegurar o cumprimento da decisão sobre o território nacional envolvido",
+    "d": "a concessão de um empréstimo compensatório do FMI ao país prejudicado",
+    "e": "a revisão das fronteiras comerciais reconhecidas entre os dois Estados"
+   },
+   "resposta": "a",
+   "explicacao": "O sistema não aplica sanções financeiras diretas: autoriza o país prejudicado a retaliar comercialmente se o condenado mantiver a medida, mecanismo que depende do peso econômico de quem retalia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-454",
+   "enunciado": "As propostas de regionalização do espaço mundial variam conforme o critério adotado. Uma regionalização fundada em critérios culturais tende a",
+   "alternativas": {
+    "a": "reproduzir exatamente o mapa dos blocos econômicos regionais reconhecidos pela OMC",
+    "b": "agrupar territórios por língua, religião e tradições, produzindo recortes que atravessam as fronteiras entre Estados",
+    "c": "classificar os Estados apenas pela renda por habitante, como fazem os organismos multilaterais de crédito",
+    "d": "separar países desenvolvidos de países subdesenvolvidos segundo indicadores econômicos comparáveis, procedimento que a divisão Norte-Sul consagrou",
+    "e": "coincidir com a lista de membros permanentes do Conselho de Segurança da ONU"
+   },
+   "resposta": "b",
+   "explicacao": "Critérios culturais produzem recortes que não respeitam as fronteiras estatais, ao passo que a divisão Norte-Sul e a classificação por renda partem de indicadores socioeconômicos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-455",
+   "enunciado": "Após 2001, o combate ao terrorismo internacional passou a ocupar lugar central na agenda de segurança. Uma consequência desse deslocamento para a geopolítica foi",
+   "alternativas": {
+    "a": "a extinção da OTAN e a transferência de suas atribuições ao FMI",
+    "b": "o fim das disputas por hegemonia entre as grandes potências do sistema internacional",
+    "c": "a justificação de intervenções militares em outros Estados sob o argumento de ameaça difusa, sem fronteira definida",
+    "d": "a criação de um bloco econômico voltado à cooperação policial entre os países emergentes, iniciativa que a ordem mundial do início do século teria consolidado por tratado",
+    "e": "a suspensão do poder de veto no Conselho de Segurança da ONU"
+   },
+   "resposta": "c",
+   "explicacao": "Ao tratar a ameaça como difusa e sem fronteira definida, a agenda antiterror ampliou as justificativas para intervenção militar em território nacional alheio, tensionando o princípio da soberania.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-456",
+   "enunciado": "Afirma-se com frequência que a globalização enfraqueceu o Estado-nação. Uma avaliação mais cuidadosa dessa tese mostra que",
+   "alternativas": {
+    "a": "a soberania estatal foi formalmente transferida às empresas transnacionais por decisão dos organismos multilaterais",
+    "b": "o Estado deixou de exercer controle sobre suas fronteiras e sobre a circulação de pessoas em seu território nacional",
+    "c": "a ordem mundial passou a ser administrada por um governo global eleito pelos habitantes dos países-membros da ONU, arranjo consolidado nas últimas décadas",
+    "d": "o Estado perdeu autonomia sobre alguns fluxos, sobretudo financeiros, mas segue decisivo na regulação, na defesa e na atração de investimentos",
+    "e": "os países centrais perderam mais autonomia econômica do que os países periféricos"
+   },
+   "resposta": "d",
+   "explicacao": "A globalização redistribui, mais do que elimina, o poder estatal: os Estados perdem margem sobre fluxos de capital, mas permanecem centrais na regulação, na defesa do território nacional e na disputa por investimentos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "med-geografia-457",
+   "enunciado": "A criação do G20 como foro de coordenação econômica, ampliado depois da crise de 2008, é interpretada como sinal de que",
+   "alternativas": {
+    "a": "os países periféricos abandonaram a participação nos organismos multilaterais de crédito",
+    "b": "a OMC absorveu as funções antes exercidas pelo FMI na supervisão macroeconômica",
+    "c": "o Conselho de Segurança da ONU passou a deliberar sobre política monetária internacional, competência que a governança da ordem mundial teria transferido ao órgão",
+    "d": "as fronteiras entre os Estados-membros deixaram de ter efeito sobre a circulação de capitais",
+    "e": "a governança da ordem mundial precisou incorporar economias emergentes, sem contudo alterar a estrutura formal das instituições criadas em 1944 e 1945"
+   },
+   "resposta": "e",
+   "explicacao": "A ampliação do G20 reconheceu o peso das economias emergentes na coordenação da ordem mundial, mas não alterou a estrutura de voto do FMI nem a composição do Conselho de Segurança, o que mantém a assimetria entre centro e periferia na governança global.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "geografia-ambiente-sustentabilidade": [
@@ -56692,6 +57412,694 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O efeito estufa é um fenômeno natural essencial à vida; o problema é sua intensificação pelo excesso de gases emitidos desde meados do século 18, o que eleva a temperatura média acima da faixa histórica. O buraco na camada de ozônio (c) tem causa distinta, ligada a outro grupo de substâncias; e o aumento do nível do mar, não sua redução, é a consequência associada ao aquecimento (e).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-458",
+   "enunciado": "O desmatamento na Amazônia brasileira tem sido associado, em primeiro lugar, à conversão da área de floresta em pastagem. Essa conversão se explica principalmente porque",
+   "alternativas": {
+    "a": "a derrubada seguida da ocupação com gado é a forma mais barata de ocupar e valorizar grandes extensões de terra na região",
+    "b": "a legislação brasileira determina que áreas de floresta sejam convertidas em pastagem antes dos demais usos do território, conforme a política fundiária do período teria estabelecido",
+    "c": "a extração de madeira sem manejo restaura a cobertura vegetal original em poucos anos",
+    "d": "a pecuária extensiva reduz a emissão de carbono em relação à floresta em pé",
+    "e": "o gado impede a degradação ambiental do terreno ao compactar as camadas superficiais"
+   },
+   "resposta": "a",
+   "explicacao": "A pastagem é a forma mais barata de ocupar grandes extensões e de sinalizar posse, o que faz do desmatamento a porta de entrada da grilagem. A floresta derrubada deixa de estocar carbono e passa a emiti-lo, agravando a degradação ambiental da região.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-459",
+   "enunciado": "A expressão arco do desmatamento designa uma faixa que se estende do leste do Pará ao noroeste de Rondônia. O que caracteriza essa faixa é",
+   "alternativas": {
+    "a": "a total ausência de unidade de conservação e de área protegida em sua extensão, o que a diferencia do restante do território amazônico segundo o zoneamento vigente",
+    "b": "a concentração da supressão de cobertura vegetal na borda da floresta, onde avança a ocupação vinda do centro-sul do país",
+    "c": "a ocorrência exclusiva de queimada natural, sem participação humana no processo",
+    "d": "a recuperação espontânea da floresta observada nas últimas três décadas",
+    "e": "a proibição legal das atividades econômicas na área delimitada"
+   },
+   "resposta": "b",
+   "explicacao": "O arco do desmatamento marca a borda de avanço da ocupação sobre a floresta. A criação de unidade de conservação e de terra indígena nessa faixa funciona como barreira física ao avanço da supressão de cobertura vegetal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-460",
+   "enunciado": "As queimadas de grande extensão registradas no Pantanal em anos recentes agravaram-se por uma combinação de fatores. Entre eles, destaca-se",
+   "alternativas": {
+    "a": "a decisão de manter a área alagada durante o período de estiagem, o que teria elevado a carga de material combustível acumulado no terreno",
+    "b": "a substituição do fogo de manejo por técnicas mecanizadas de limpeza do terreno",
+    "c": "a estiagem prolongada somada ao uso do fogo para limpeza de terreno, em área de vegetação altamente inflamável no período seco",
+    "d": "a redução da poluição atmosférica na região, que teria elevado a umidade relativa do ar",
+    "e": "a ampliação da área protegida na planície, que impediu o acesso das equipes de combate"
+   },
+   "resposta": "c",
+   "explicacao": "A estiagem prolongada seca a vegetação e o uso do fogo para limpeza de terreno perde controle, produzindo queimada de grande extensão, forte poluição atmosférica regional e degradação ambiental de longa duração.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-461",
+   "enunciado": "A desertificação que atinge áreas do Nordeste brasileiro difere de um deserto natural porque",
+   "alternativas": {
+    "a": "ocorre apenas em áreas litorâneas de alta pluviosidade",
+    "b": "é um processo reversível em poucos meses sem intervenção humana",
+    "c": "decorre da ampliação da área protegida e da criação de unidade de conservação na região, medida que a política ambiental do período teria adotado em larga escala",
+    "d": "resulta da degradação ambiental provocada pelo uso intensivo do terreno em região de baixa disponibilidade de água, e não de condições naturais preexistentes",
+    "e": "atinge somente territórios situados acima de mil metros de altitude"
+   },
+   "resposta": "d",
+   "explicacao": "A desertificação é degradação ambiental induzida: o uso intensivo do terreno em área sujeita a crise hídrica recorrente esgota a fertilidade e reduz a cobertura vegetal, criando condições semelhantes às de um deserto onde antes não havia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-462",
+   "enunciado": "O assoreamento de reservatórios e de cursos d'água costuma ser apontado como consequência direta",
+   "alternativas": {
+    "a": "do tratamento de esgoto realizado a montante do ponto de captação",
+    "b": "da ampliação da reciclagem de resíduo sólido nas áreas urbanas próximas",
+    "c": "da criação de unidade de conservação de proteção integral no entorno do corpo hídrico, providência que a legislação ambiental teria tornado obrigatória nessas áreas",
+    "d": "da redução da poluição por efluentes lançados na água",
+    "e": "da remoção da cobertura vegetal das margens, que expõe o terreno ao carreamento de sedimentos pelas chuvas"
+   },
+   "resposta": "e",
+   "explicacao": "Sem a cobertura vegetal das margens, a chuva carreia sedimentos para o leito e o assoreamento reduz a capacidade do reservatório, agravando a crise hídrica e somando-se à poluição por efluentes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-463",
+   "enunciado": "O efeito estufa é um fenômeno natural indispensável à vida no planeta. A preocupação ambiental contemporânea refere-se, mais precisamente,",
+   "alternativas": {
+    "a": "à intensificação do fenômeno pelo acúmulo de gases de origem humana, sobretudo dióxido de carbono e metano",
+    "b": "à existência do próprio fenômeno, que deveria ser eliminado por meio de acordos internacionais de redução de emissões",
+    "c": "à redução do fenômeno provocada pela poluição por material particulado nas áreas urbanas",
+    "d": "à substituição do fenômeno pela circulação oceânica, processo que a pesquisa sobre aquecimento global teria identificado como determinante nas últimas décadas",
+    "e": "à ausência de relação entre o fenômeno e a queima de combustíveis fósseis"
+   },
+   "resposta": "a",
+   "explicacao": "O efeito estufa natural mantém a temperatura média habitável. O problema é sua intensificação pelo acúmulo de carbono e de outros gases liberados pela queima de combustíveis fósseis e pelo desmatamento, motor do aquecimento global.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-464",
+   "enunciado": "Entre as consequências projetadas do aquecimento global para as áreas costeiras, a mais frequentemente citada é",
+   "alternativas": {
+    "a": "o resfriamento acelerado das águas superficiais dos oceanos tropicais",
+    "b": "a elevação do nível médio do mar, resultante da expansão térmica da água e do degelo continental",
+    "c": "a redução da poluição marinha em razão da maior dispersão dos poluentes lançados no litoral",
+    "d": "a expansão das áreas emersas em razão do recuo da linha de costa, processo que os estudos sobre mudanças climáticas teriam associado ao aumento das temperaturas médias globais",
+    "e": "o aumento da estabilidade das chuvas em escala planetária"
+   },
+   "resposta": "b",
+   "explicacao": "A expansão térmica da água somada ao degelo continental eleva o nível do mar e amplia a vulnerabilidade das áreas costeiras, uma das consequências mais bem documentadas do aquecimento global e das mudanças climáticas em curso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-465",
+   "enunciado": "O Acordo de Paris, firmado em 2015, inovou em relação aos compromissos sobre o clima firmados antes dele porque",
+   "alternativas": {
+    "a": "impôs metas idênticas de redução de emissões a cada um dos países signatários, sem distinção de responsabilidade histórica",
+    "b": "transferiu a fiscalização das emissões a um organismo com poder de aplicar sanções comerciais aos descumpridores",
+    "c": "adotou metas definidas voluntariamente por cada país, revisadas periodicamente e associadas ao limite de aquecimento de 1,5 grau Celsius",
+    "d": "proibiu a compra e a venda de créditos de carbono entre os signatários, o que teria extinguido o mercado criado pelo acordo anterior sobre o tema",
+    "e": "concentrou os compromissos apenas nos países de industrialização recente"
+   },
+   "resposta": "c",
+   "explicacao": "O Acordo de Paris substituiu metas impostas por contribuições definidas por cada país e revisadas em ciclos, ancorando-as no limite de 1,5 grau. A meta depende de forte transição energética e da redução das emissões de carbono.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-466",
+   "enunciado": "A realização da COP30 em Belém, em 2025, foi defendida pelo governo brasileiro com o argumento de que",
+   "alternativas": {
+    "a": "a cidade-sede de uma conferência do clima assume a obrigação de zerar suas emissões antes do evento, conforme as regras do processo negociador determinariam",
+    "b": "a escolha da sede define automaticamente as metas de redução de emissões dos demais países participantes",
+    "c": "a realização do encontro substituiria os compromissos assumidos no Acordo de Paris",
+    "d": "sediar a conferência na Amazônia daria visibilidade ao combate ao desmatamento e ao papel das florestas tropicais na agenda climática",
+    "e": "a conferência transferiria para o país a gestão do mercado internacional de carbono"
+   },
+   "resposta": "d",
+   "explicacao": "Sediar a COP30 na Amazônia foi apresentado como forma de destacar o combate ao desmatamento e o papel das florestas tropicais como estoque de carbono na negociação climática internacional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-467",
+   "enunciado": "Nos chamados mercados de carbono, um crédito corresponde, em termos gerais,",
+   "alternativas": {
+    "a": "a uma autorização para ampliar o desmatamento em área equivalente à preservada em outro território",
+    "b": "a um valor fixo estabelecido anualmente pelas Nações Unidas para cada país signatário do Acordo de Paris, conforme o regulamento do mecanismo determinaria",
+    "c": "a um imposto cobrado sobre o consumo de bens duráveis nas economias desenvolvidas",
+    "d": "a um título de propriedade sobre área protegida em território estrangeiro",
+    "e": "a uma tonelada de dióxido de carbono cuja emissão foi evitada ou removida da atmosfera, negociável entre agentes"
+   },
+   "resposta": "e",
+   "explicacao": "O crédito representa uma tonelada de carbono evitada ou removida, e projetos de contenção do desmatamento estão entre os que os geram. A crítica recorrente é a dificuldade de comprovar que a emissão evitada de fato ocorreria.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-468",
+   "enunciado": "Quando um país anuncia a meta de atingir a neutralidade de carbono até determinado ano, ele se compromete a",
+   "alternativas": {
+    "a": "reduzir suas emissões e compensar o remanescente por remoções, de modo que o saldo líquido se aproxime de zero",
+    "b": "encerrar de imediato as atividades que produzam emissões em seu território, conforme o compromisso assumido perante o Acordo de Paris exigiria dos signatários",
+    "c": "transferir suas emissões para outro país mediante acordo bilateral de compensação",
+    "d": "manter as emissões no patamar atual, sem exigência de redução ao longo do período",
+    "e": "eliminar a poluição atmosférica local antes de tratar das emissões de efeito estufa"
+   },
+   "resposta": "a",
+   "explicacao": "Neutralidade de carbono é saldo líquido próximo de zero: exige forte redução das emissões, apoiada em transição energética, e compensação do remanescente por remoções, como o reflorestamento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-469",
+   "enunciado": "O conceito de pegada de carbono é utilizado para",
+   "alternativas": {
+    "a": "medir a área de terreno necessária para abrigar o resíduo sólido gerado por uma população ao longo de um ano de consumo corrente",
+    "b": "estimar a quantidade de gases de efeito estufa associada a um produto, a uma atividade ou a um indivíduo",
+    "c": "calcular o volume de água consumido na etapa de reciclagem de embalagens metálicas",
+    "d": "classificar os países segundo a extensão de sua área protegida",
+    "e": "determinar o preço internacional dos créditos negociados nos mercados regulados"
+   },
+   "resposta": "b",
+   "explicacao": "A pegada de carbono estima as emissões de gases de efeito estufa atribuíveis a um produto, atividade ou pessoa, e orienta decisões de reciclagem, de reaproveitamento e de mudança nos padrões de consumo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-470",
+   "enunciado": "A relação entre mudanças climáticas e eventos extremos costuma ser formulada com cautela pelos pesquisadores. A formulação mais adequada é a de que o aquecimento",
+   "alternativas": {
+    "a": "é a causa única e direta de cada tempestade ou onda de calor registrada nas diversas partes do planeta",
+    "b": "não guarda relação estatística com a ocorrência de eventos extremos observados nas últimas décadas",
+    "c": "eleva a probabilidade e a intensidade de eventos extremos, ainda que ligar um episódio isolado ao fenômeno exija estudo específico",
+    "d": "reduz a frequência dos eventos extremos ao homogeneizar as condições atmosféricas do planeta, conforme parte do debate sobre sustentabilidade teria sustentado",
+    "e": "afeta apenas as áreas situadas em latitudes elevadas"
+   },
+   "resposta": "c",
+   "explicacao": "O aquecimento global desloca a distribuição de probabilidade dos eventos extremos, tornando-os mais frequentes e intensos; atribuir um episódio isolado às mudanças climáticas exige estudo específico, o que não enfraquece a tendência geral.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-471",
+   "enunciado": "Os ODS, aprovados pelas Nações Unidas em 2015, distinguem-se dos compromissos que os antecederam porque",
+   "alternativas": {
+    "a": "concentram-se apenas na redução da pobreza extrema nas economias de renda baixa",
+    "b": "substituem as legislações ambientais nacionais dos países signatários por norma internacional de aplicação direta, conforme o documento aprovado estabeleceria",
+    "c": "tratam apenas do acesso a saneamento e ao tratamento de água",
+    "d": "valem para o conjunto dos países, incluindo os desenvolvidos, e articulam metas ambientais, sociais e econômicas",
+    "e": "possuem caráter vinculante, com sanções previstas para o país que descumprir as metas"
+   },
+   "resposta": "d",
+   "explicacao": "Os ODS da Agenda 2030 valem para o conjunto dos países e articulam dimensões ambiental, social e econômica, do saneamento à ação climática, sob a chave da sustentabilidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-472",
+   "enunciado": "A definição clássica de desenvolvimento sustentável, consagrada em relatório das Nações Unidas de 1987, afirma que ele é aquele que",
+   "alternativas": {
+    "a": "interrompe o crescimento econômico para conter a degradação ambiental provocada pela produção",
+    "b": "transfere aos países de renda baixa a responsabilidade pela conservação dos recursos naturais do planeta, conforme a repartição de encargos negociada à época previa",
+    "c": "condiciona o uso de recursos naturais à aprovação prévia de organismos internacionais de crédito",
+    "d": "limita a proteção ambiental às áreas já degradadas por atividade produtiva",
+    "e": "atende às necessidades do presente sem comprometer a capacidade de as gerações futuras atenderem às suas"
+   },
+   "resposta": "e",
+   "explicacao": "A formulação do relatório de 1987 define desenvolvimento sustentável pela solidariedade entre gerações. A sustentabilidade, nessa leitura, não exige interromper o crescimento, mas alterar seu conteúdo para reduzir a degradação ambiental.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-473",
+   "enunciado": "A economia circular propõe uma alternativa ao modelo linear de produção e consumo. Sua ideia central é",
+   "alternativas": {
+    "a": "manter materiais e produtos em uso pelo maior tempo possível, por meio de reparo, reaproveitamento e reciclagem",
+    "b": "acelerar a substituição dos bens duráveis para estimular a atividade econômica e o emprego nas cadeias produtivas envolvidas",
+    "c": "concentrar o descarte do resíduo sólido em um número menor de pontos de recebimento",
+    "d": "transferir o descarte para territórios de menor densidade de ocupação, prática que a discussão sobre sustentabilidade teria consolidado como padrão",
+    "e": "tratar o descarte como etapa final inevitável das cadeias produtivas"
+   },
+   "resposta": "a",
+   "explicacao": "A economia circular contrapõe-se ao ciclo extrair, produzir e descartar: busca manter materiais em uso por reparo, reaproveitamento e reciclagem, reduzindo a geração de resíduo sólido e a pressão sobre os recursos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-474",
+   "enunciado": "A expressão transição energética designa, no debate ambiental contemporâneo,",
+   "alternativas": {
+    "a": "a transferência da geração para territórios de menor densidade de ocupação humana",
+    "b": "a substituição gradual de fontes intensivas em carbono por fontes de baixa emissão na base do sistema produtivo",
+    "c": "a elevação do preço da eletricidade como instrumento único de contenção do consumo domiciliar",
+    "d": "a suspensão do fornecimento em horários de pico, medida que os compromissos do Acordo de Paris teriam imposto aos países signatários",
+    "e": "a substituição das metas de redução de emissões por compensações financeiras entre países"
+   },
+   "resposta": "b",
+   "explicacao": "A transição energética é a troca gradual de fontes intensivas em carbono por alternativas de baixa emissão. Seu ritmo é o principal fator na trajetória de cumprimento das metas do Acordo de Paris.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-475",
+   "enunciado": "A Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento, realizada no Brasil em 1992, ficou marcada por",
+   "alternativas": {
+    "a": "criar um tribunal internacional com poder de julgar crimes contra a natureza cometidos por empresas privadas, conforme os documentos assinados na ocasião previam",
+    "b": "estabelecer metas obrigatórias de redução de emissões com prazos definidos para cada signatário",
+    "c": "consagrar a noção de desenvolvimento sustentável e aprovar convenções sobre clima e diversidade biológica",
+    "d": "proibir o comércio internacional de produtos oriundos de área submetida a desmatamento",
+    "e": "transferir a gestão das florestas tropicais a um organismo multilateral"
+   },
+   "resposta": "c",
+   "explicacao": "A conferência de 1992 consagrou o desenvolvimento sustentável como referência e abriu para assinatura as convenções sobre clima e sobre diversidade biológica. As metas obrigatórias de redução só viriam no protocolo firmado cinco anos depois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-476",
+   "enunciado": "O Protocolo de Kyoto, adotado em 1997, foi criticado por um desequilíbrio em sua concepção. Esse desequilíbrio consistia em",
+   "alternativas": {
+    "a": "excluir o dióxido de carbono da lista de gases controlados pelo instrumento",
+    "b": "condicionar a vigência do texto à aprovação das legislações ambientais nacionais dos signatários, exigência que o processo de ratificação teria tornado inviável",
+    "c": "proibir a criação de mecanismos de compensação entre países",
+    "d": "impor metas obrigatórias apenas aos países desenvolvidos, deixando sem compromisso quantificado economias que se tornariam grandes emissoras",
+    "e": "tratar a sustentabilidade apenas em sua dimensão social, sem referência ao clima"
+   },
+   "resposta": "d",
+   "explicacao": "O protocolo aplicou o princípio das responsabilidades comuns mas diferenciadas de forma rígida, impondo metas de redução de carbono apenas aos países desenvolvidos, o que o tornou insuficiente diante do crescimento das emissões das economias emergentes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-477",
+   "enunciado": "O material particulado fino, um dos principais indicadores de poluição atmosférica, preocupa autoridades sanitárias porque",
+   "alternativas": {
+    "a": "reage com o dióxido de carbono e neutraliza o efeito estufa nas camadas baixas da atmosfera",
+    "b": "provoca a elevação imediata da temperatura média do planeta em escala mensurável, conforme os estudos sobre aquecimento global teriam demonstrado",
+    "c": "impede a formação de nuvens sobre as áreas urbanas de maior adensamento",
+    "d": "é retido integralmente pelos sistemas de tratamento de água das áreas urbanas",
+    "e": "penetra profundamente nas vias respiratórias e se associa a doenças cardiovasculares e pulmonares"
+   },
+   "resposta": "e",
+   "explicacao": "As partículas finas atravessam as barreiras das vias aéreas e alcançam os alvéolos, o que associa a poluição atmosférica a doenças respiratórias e cardiovasculares e faz dela um problema de saúde pública, além de ambiental.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-478",
+   "enunciado": "A inversão térmica agrava episódios de poluição atmosférica em áreas urbanas porque",
+   "alternativas": {
+    "a": "uma camada de ar mais quente se sobrepõe ao ar frio junto ao chão e impede a dispersão vertical dos poluentes",
+    "b": "aumenta a velocidade dos ventos junto à superfície e concentra os poluentes em faixas estreitas do território",
+    "c": "eleva a temperatura da superfície a ponto de decompor o monóxido de carbono presente na atmosfera local",
+    "d": "provoca chuvas intensas que arrastam o material particulado para os sistemas de tratamento de água da região, segundo o mecanismo descrito pela literatura sobre o fenômeno",
+    "e": "reduz a emissão de poluentes ao interromper a circulação de veículos"
+   },
+   "resposta": "a",
+   "explicacao": "Na inversão térmica, uma camada de ar mais quente se sobrepõe ao ar frio junto à superfície e funciona como tampa, impedindo a dispersão vertical do monóxido de carbono e do material particulado e agravando a poluição.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-479",
+   "enunciado": "A chuva ácida, forma de poluição observada sobretudo em áreas de forte concentração fabril, origina-se",
+   "alternativas": {
+    "a": "da elevação da concentração de oxigênio nas camadas baixas da atmosfera",
+    "b": "da reação de óxidos de enxofre e de nitrogênio com a umidade atmosférica, formando ácidos que precipitam com a chuva",
+    "c": "do descarte inadequado de resíduo sólido em terrenos alagáveis",
+    "d": "do excesso de vapor d'água liberado pelos sistemas de tratamento de esgoto, processo que a literatura sobre degradação ambiental teria identificado como origem do fenômeno",
+    "e": "da redução da camada de ozônio nas latitudes médias"
+   },
+   "resposta": "b",
+   "explicacao": "Óxidos de enxofre e de nitrogênio liberados pela queima de combustíveis fósseis reagem com a umidade e precipitam como ácidos, provocando degradação ambiental de construções, do terreno e das águas superficiais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-480",
+   "enunciado": "O Protocolo de Montreal, de 1987, é frequentemente citado como o acordo ambiental multilateral mais bem-sucedido. Essa avaliação se apoia no fato de que ele",
+   "alternativas": {
+    "a": "eliminou a poluição atmosférica das áreas urbanas dos países signatários em menos de uma década de vigência",
+    "b": "estabeleceu metas de redução das emissões de carbono que foram integralmente cumpridas pelos signatários, conforme os balanços do acordo indicariam",
+    "c": "promoveu a eliminação progressiva das substâncias que degradavam a camada de ozônio, com adesão praticamente universal e recuperação já mensurável",
+    "d": "criou o primeiro mercado internacional de créditos negociáveis entre empresas",
+    "e": "transferiu a fiscalização ambiental dos Estados para organizações não governamentais"
+   },
+   "resposta": "c",
+   "explicacao": "O acordo eliminou de forma progressiva os gases que destruíam a camada de ozônio, contou com adesão quase universal e já apresenta recuperação mensurável, exemplo citado nos debates sobre sustentabilidade e cooperação ambiental.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-481",
+   "enunciado": "A Política Nacional de Resíduos Sólidos, de 2010, estabeleceu uma ordem de prioridade no manejo do resíduo sólido. Essa ordem começa por",
+   "alternativas": {
+    "a": "dispor o rejeito em aterro, seguido do incentivo à geração de novos materiais recicláveis nas cadeias produtivas envolvidas",
+    "b": "incinerar o material coletado antes de tentar o reaproveitamento",
+    "c": "exportar o lixo urbano para países que disponham de capacidade instalada de tratamento, conforme a hierarquia definida pela norma determinaria",
+    "d": "não gerar, seguida de reduzir, reutilizar, reciclar, tratar e, por último, dispor adequadamente o rejeito",
+    "e": "encaminhar o material coletado diretamente à reciclagem, sem etapa anterior de redução"
+   },
+   "resposta": "d",
+   "explicacao": "A hierarquia da política privilegia a não geração e a redução antes da reciclagem, aproximando-se da lógica da economia circular; o aterro recebe apenas o rejeito, o que sobra depois de esgotadas as etapas anteriores.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-482",
+   "enunciado": "A logística reversa, prevista na legislação brasileira de resíduos, consiste em",
+   "alternativas": {
+    "a": "transferir ao poder público municipal a responsabilidade integral pela coleta do lixo de origem privada",
+    "b": "obrigar o consumidor a armazenar o resíduo sólido em sua própria residência até o fim da vida útil do produto adquirido",
+    "c": "converter o material coletado em energia térmica antes da etapa de reciclagem, procedimento que a lógica da economia circular teria estabelecido como preferencial",
+    "d": "proibir a comercialização de embalagens que não sejam recicláveis",
+    "e": "responsabilizar fabricantes e comerciantes pelo retorno de determinados produtos e embalagens após o consumo, para destinação adequada"
+   },
+   "resposta": "e",
+   "explicacao": "A logística reversa distribui a responsabilidade pelo ciclo de vida do produto: fabricantes e comerciantes devem estruturar o retorno de pilhas, pneus, eletrônicos e embalagens, princípio alinhado à economia circular.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-483",
+   "enunciado": "A diferença entre um aterro sanitário e um lixão a céu aberto está em que apenas o primeiro",
+   "alternativas": {
+    "a": "dispõe de impermeabilização do terreno, drenagem de chorume e captação de gases, sob licenciamento ambiental",
+    "b": "recebe material proveniente da coleta seletiva realizada nas áreas urbanas do município",
+    "c": "está situado fora do perímetro urbano do município que o utiliza",
+    "d": "recebe o lixo domiciliar sem forma alguma de tratamento prévio, condição que a norma ambiental brasileira teria fixado para esse tipo de instalação",
+    "e": "é operado por empresa privada mediante contrato de concessão"
+   },
+   "resposta": "a",
+   "explicacao": "O aterro sanitário é obra de engenharia licenciada: impermeabiliza o terreno, drena o chorume e capta gases, evitando a poluição do lençol subterrâneo que caracteriza o lixão e o mantém como passivo ambiental.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-484",
+   "enunciado": "A reciclagem de alumínio no Brasil apresenta índices elevados na comparação internacional. A explicação mais aceita para esse desempenho é",
+   "alternativas": {
+    "a": "a existência de norma que proíbe o descarte de embalagens metálicas junto ao lixo comum no conjunto do território nacional",
+    "b": "o alto valor do material recolhido, que sustenta uma cadeia de catadores e intermediários movida por incentivo econômico direto",
+    "c": "o baixo custo de produção do metal primário, que torna o material reaproveitado mais caro que o novo",
+    "d": "a ausência de demanda interna pelo metal, o que direciona o material recolhido ao mercado externo segundo a lógica descrita pela economia circular",
+    "e": "a obrigatoriedade de que a coleta seletiva atenda a área urbana de cada município"
+   },
+   "resposta": "b",
+   "explicacao": "O elevado valor da sucata de alumínio sustenta economicamente a cadeia de catadores e intermediários, o que explica o índice de reciclagem alto mesmo onde a coleta seletiva formal do resíduo sólido é limitada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-485",
+   "enunciado": "O déficit de saneamento no Brasil é apontado como um dos principais problemas ambientais e sanitários do país porque",
+   "alternativas": {
+    "a": "a coleta de esgoto foi universalizada, restando apenas ampliar a capacidade instalada de reciclagem de resíduo sólido",
+    "b": "o consumo de água por habitante no país é o maior registrado entre as economias emergentes",
+    "c": "o esgoto não coletado e não tratado chega aos corpos hídricos e às áreas de ocupação precária, elevando a incidência de doenças de veiculação hídrica",
+    "d": "a legislação brasileira proíbe a participação privada na prestação do serviço, restrição que os ODS relativos ao tema teriam apontado como principal entrave",
+    "e": "a poluição atmosférica das áreas urbanas decorre diretamente da ausência de rede coletora"
+   },
+   "resposta": "c",
+   "explicacao": "Sem coleta e tratamento, o esgoto atinge cursos d'água e áreas de ocupação precária, elevando doenças de veiculação hídrica. O saneamento é objeto de meta específica entre os ODS justamente por unir dimensão ambiental e sanitária.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-486",
+   "enunciado": "O tratamento de esgoto em nível secundário distingue-se do primário porque acrescenta",
+   "alternativas": {
+    "a": "a retirada mecânica de sólidos grosseiros por meio de grades e caixas de areia",
+    "b": "a desinfecção final destinada a eliminar organismos patogênicos remanescentes",
+    "c": "a remoção de nutrientes como nitrogênio e fósforo, etapa que a norma sobre degradação ambiental de corpos hídricos classificaria como secundária",
+    "d": "a remoção biológica da matéria orgânica dissolvida, feita por microrganismos em reatores ou lagoas",
+    "e": "o descarte do lodo gerado em aterro devidamente licenciado"
+   },
+   "resposta": "d",
+   "explicacao": "O nível primário retira sólidos por processos físicos; o secundário acrescenta a degradação biológica da matéria orgânica dissolvida. Sem essa etapa, o efluente lançado consome o oxigênio da água e agrava a degradação ambiental do corpo receptor.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-487",
+   "enunciado": "A crise hídrica que atingiu o Sudeste brasileiro em 2014 e 2015 foi explicada por uma combinação de fatores. Entre os fatores estruturais, destaca-se",
+   "alternativas": {
+    "a": "a redução do consumo por habitante verificada na década anterior ao episódio",
+    "b": "a substituição integral da captação superficial por poços profundos na região metropolitana afetada",
+    "c": "o excesso de área protegida no entorno dos mananciais, o que teria impedido a ampliação da capacidade de armazenamento conforme o planejamento do setor previa",
+    "d": "a interrupção do tratamento de água nas estações responsáveis pelo abastecimento",
+    "e": "a ampliação das perdas na distribuição somada à ocupação irregular das áreas de recarga e à baixa capacidade de reservação"
+   },
+   "resposta": "e",
+   "explicacao": "A estiagem foi o gatilho, mas a crise hídrica se explica por perdas elevadas na distribuição, ocupação irregular das áreas de recarga e reservação insuficiente, problemas agravados pelo desmatamento das nascentes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-488",
+   "enunciado": "O Sistema Nacional de Unidades de Conservação, instituído em 2000, organiza a área protegida brasileira em dois grupos. Essa divisão separa",
+   "alternativas": {
+    "a": "unidade de conservação de proteção integral, de uso indireto dos recursos, e unidade de uso sustentável, que admite exploração controlada",
+    "b": "áreas federais e áreas estaduais, conforme o ente que as institui e as administra",
+    "c": "áreas situadas em domínio de floresta tropical e áreas situadas em domínio de formação aberta, segundo o parâmetro adotado pela norma que instituiu o sistema",
+    "d": "áreas públicas e áreas privadas, sem distinção quanto ao uso permitido em cada uma",
+    "e": "áreas destinadas à pesquisa científica e áreas destinadas à visitação turística"
+   },
+   "resposta": "a",
+   "explicacao": "O sistema divide a área protegida em proteção integral, de uso indireto, e uso sustentável, que admite exploração controlada. A distinção é jurídica e responde à agenda de sustentabilidade, não ao ente responsável pela unidade de conservação nem ao combate isolado ao desmatamento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-489",
+   "enunciado": "Uma Reserva Extrativista é classificada como unidade de conservação de uso sustentável porque",
+   "alternativas": {
+    "a": "proíbe a presença humana em seu interior e admite apenas pesquisa autorizada, conforme a norma sobre área protegida definiria para essa categoria",
+    "b": "permite a exploração dos recursos por populações tradicionais, associando conservação e reprodução de seus modos de vida",
+    "c": "autoriza a supressão da cobertura vegetal mediante compensação financeira ao poder público",
+    "d": "destina-se apenas à visitação turística controlada por concessionárias privadas",
+    "e": "converte a área em propriedade privada de seus moradores após período determinado"
+   },
+   "resposta": "b",
+   "explicacao": "A Reserva Extrativista concilia conservação e uso: reconhece o direito de populações tradicionais explorarem recursos de forma controlada, arranjo que a discussão sobre sustentabilidade aponta como forma eficaz de conter o desmatamento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-490",
+   "enunciado": "O estudo de impacto ambiental exigido no licenciamento ambiental de grandes obras tem por finalidade principal",
+   "alternativas": {
+    "a": "assegurar a aprovação do empreendimento mediante compensação financeira ao poder público licenciador",
+    "b": "substituir o debate público sobre a obra por parecer técnico de caráter reservado, conforme o rito administrativo previsto para o procedimento determinaria",
+    "c": "identificar previamente os efeitos da obra e apresentar alternativas e medidas de mitigação, subsidiando a decisão do órgão ambiental",
+    "d": "calcular o custo total do empreendimento para efeito de tributação municipal",
+    "e": "definir o traçado da obra segundo o critério de menor custo de execução"
+   },
+   "resposta": "c",
+   "explicacao": "O estudo antecipa os efeitos da obra, propõe alternativas e medidas de mitigação e alimenta a decisão do órgão ambiental. Seu relatório é público justamente para permitir o controle social sobre a degradação ambiental prevista.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-491",
+   "enunciado": "A Reserva Legal, prevista no Código Florestal brasileiro, corresponde",
+   "alternativas": {
+    "a": "à faixa de mata obrigatória ao longo dos corpos hídricos e no topo de morros, definida em metros conforme a largura do curso d'água",
+    "b": "à área de domínio público destinada à criação de unidade de conservação de proteção integral",
+    "c": "ao total de terras indígenas demarcadas em cada unidade da federação, conforme o instrumento legal que trata do tema estabeleceria",
+    "d": "ao percentual da propriedade rural que deve manter cobertura vegetal, variando conforme a região do país",
+    "e": "à parcela da propriedade rural liberada para supressão total da cobertura vegetal"
+   },
+   "resposta": "d",
+   "explicacao": "A Reserva Legal é o percentual da propriedade que deve manter cobertura vegetal, com 80 por cento na Amazônia e percentuais menores nas demais regiões. A faixa às margens dos corpos hídricos é a área protegida chamada de preservação permanente, instrumento distinto do mesmo Código Florestal, criado para conter o desmatamento dentro da propriedade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-492",
+   "enunciado": "As áreas de preservação permanente às margens dos corpos hídricos cumprem funções ambientais específicas. Entre elas está",
+   "alternativas": {
+    "a": "a ampliação da vazão do curso d'água por efeito direto da sombra projetada sobre o leito",
+    "b": "a substituição do licenciamento ambiental exigido para obras situadas na várzea, conforme a legislação sobre área protegida determinaria",
+    "c": "a produção de madeira destinada ao abastecimento das áreas urbanas próximas",
+    "d": "a elevação da temperatura média da água, favorecendo a piscicultura local",
+    "e": "a contenção do carreamento de sedimentos, reduzindo o assoreamento e protegendo a qualidade da água"
+   },
+   "resposta": "e",
+   "explicacao": "A faixa de vegetação marginal retém sedimentos, contém o assoreamento e filtra o escoamento superficial, protegendo a qualidade da água. É uma área protegida por função ambiental, e não por sua titularidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-493",
+   "enunciado": "A poluição por plástico nos oceanos tornou-se objeto de acordos internacionais porque",
+   "alternativas": {
+    "a": "o material persiste por décadas, é transportado por correntes entre territórios e afeta a fauna marinha em escala planetária",
+    "b": "o material se decompõe em poucos meses, o que torna urgente o monitoramento antes que os vestígios desapareçam",
+    "c": "a maior parte do material presente no mar tem origem em plataformas de perfuração instaladas em águas profundas, segundo os levantamentos sobre sustentabilidade marinha",
+    "d": "o material flutuante eleva a temperatura superficial da água ao absorver radiação",
+    "e": "a reciclagem desse material foi proibida pela maioria dos países costeiros"
+   },
+   "resposta": "a",
+   "explicacao": "O plástico persiste por décadas e é redistribuído pelas correntes, de modo que a poluição gerada em um território atinge outro. Isso desloca o problema para a esfera internacional e reforça a agenda de reciclagem e de economia circular.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-494",
+   "enunciado": "Os microplásticos são definidos como",
+   "alternativas": {
+    "a": "resíduos plásticos submetidos a tratamento térmico antes do descarte final em aterro licenciado",
+    "b": "fragmentos menores que cinco milímetros, originados da fragmentação de peças maiores ou já fabricados nesse tamanho",
+    "c": "embalagens de uso único fabricadas com material de origem vegetal e degradação acelerada",
+    "d": "partículas resultantes da reciclagem mecânica de embalagens, geradas apenas nas usinas de triagem de resíduo sólido segundo a definição corrente",
+    "e": "compostos químicos liberados pela decomposição completa do material em ambiente marinho"
+   },
+   "resposta": "b",
+   "explicacao": "Microplásticos são fragmentos abaixo de cinco milímetros, resultantes da quebra de peças maiores ou fabricados nessa dimensão. Sua difusão pela cadeia alimentar é hoje um dos temas centrais da agenda de poluição e de sustentabilidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-495",
+   "enunciado": "Os rompimentos de estruturas de contenção de rejeitos ocorridos em Minas Gerais em 2015 e 2019 expuseram uma fragilidade específica do controle ambiental brasileiro. Essa fragilidade é",
+   "alternativas": {
+    "a": "a inexistência de norma que trate da destinação de rejeitos no país, lacuna que o licenciamento ambiental do setor teria deixado sem solução até aquele momento",
+    "b": "a proibição legal de armazenar rejeitos em estruturas de contenção no território nacional",
+    "c": "a fragilidade da fiscalização e a dependência de laudos contratados pelo próprio empreendedor no licenciamento ambiental",
+    "d": "a ausência de população residente a jusante das estruturas em operação no país",
+    "e": "a inexistência de órgão ambiental estadual em Minas Gerais à época dos episódios"
+   },
+   "resposta": "c",
+   "explicacao": "Os dois episódios evidenciaram a dependência de laudos contratados pelo próprio empreendedor e a fragilidade da fiscalização no licenciamento ambiental, o que permitiu que estruturas de risco seguissem operando até produzirem poluição e degradação ambiental de larga escala.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-496",
+   "enunciado": "O conceito de justiça ambiental parte da constatação de que",
+   "alternativas": {
+    "a": "os danos ambientais atingem de modo uniforme o conjunto da sociedade, sem distinção entre grupos ou territórios",
+    "b": "a proteção ambiental deve ser tratada separadamente das questões de renda e de acesso a serviços públicos, por se referir a uma esfera técnica distinta da esfera social",
+    "c": "a responsabilidade pela sustentabilidade cabe principalmente ao consumidor individual, conforme a formulação corrente do conceito indicaria",
+    "d": "os efeitos da poluição e da degradação ambiental recaem de forma desproporcional sobre grupos de menor renda e sobre territórios já vulnerabilizados",
+    "e": "a reparação dos danos deve ser dispensada quando o empreendimento gerar postos de trabalho locais"
+   },
+   "resposta": "d",
+   "explicacao": "A justiça ambiental observa que a poluição e a degradação ambiental se distribuem de forma desigual: aterros, instalações poluentes e áreas de risco concentram-se onde vive a população de menor renda, o que liga a agenda ambiental à agenda de direitos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-497",
+   "enunciado": "Os mecanismos de pagamento por serviços ambientais funcionam com base no princípio de que",
+   "alternativas": {
+    "a": "o poder público deve adquirir a propriedade das áreas protegidas existentes em mãos privadas no território nacional",
+    "b": "o proprietário que promove desmatamento tem direito a indenização pela perda de produtividade do terreno",
+    "c": "a conservação é obrigação a ser cumprida sem contrapartida, cabendo ao Estado apenas fiscalizá-la, conforme a norma sobre unidade de conservação estabeleceria",
+    "d": "os recursos arrecadados devem financiar apenas a criação de novas áreas urbanas de baixa densidade",
+    "e": "quem conserva a cobertura vegetal e os recursos de sua propriedade presta um serviço à coletividade e pode ser remunerado por isso"
+   },
+   "resposta": "e",
+   "explicacao": "O mecanismo reconhece valor econômico à conservação: quem mantém a cobertura vegetal, protege nascentes ou evita o desmatamento gera benefícios difusos e passa a ser remunerado, o que altera o cálculo econômico do proprietário.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-498",
+   "enunciado": "O lixo eletrônico apresenta um desafio particular de gestão porque",
+   "alternativas": {
+    "a": "reúne metais de alto valor e substâncias perigosas no mesmo equipamento, o que exige desmontagem especializada",
+    "b": "seu volume total supera o do resíduo sólido domiciliar na maioria dos municípios brasileiros",
+    "c": "sua composição impede completamente o reaproveitamento dos materiais que o integram",
+    "d": "a legislação brasileira o classifica como rejeito, vedando a reciclagem de seus componentes segundo a hierarquia de manejo adotada no país",
+    "e": "não pode ser transportado entre unidades da federação"
+   },
+   "resposta": "a",
+   "explicacao": "O equipamento descartado combina metais valiosos com substâncias perigosas, o que torna a desmontagem especializada indispensável. Por isso ele é alvo prioritário da logística reversa e da economia circular, e não da coleta convencional de lixo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-499",
+   "enunciado": "O objetivo dos ODS voltado a padrões responsáveis de produção e consumo parte do diagnóstico de que",
+   "alternativas": {
+    "a": "o consumo em escala global se manteve estável nas últimas décadas, restando apenas melhorar a destinação do resíduo sólido gerado",
+    "b": "o padrão de produção e descarte vigente pressiona os recursos além da capacidade de reposição, exigindo mudanças na cadeia inteira",
+    "c": "a redução do consumo nas economias de renda baixa é a via principal para atingir a sustentabilidade planetária",
+    "d": "a responsabilidade pela mudança cabe apenas aos governos nacionais, sem envolvimento de empresas ou consumidores, conforme a formulação do objetivo estabeleceria",
+    "e": "o desperdício de alimentos deixou de ser relevante diante do avanço das técnicas de conservação"
+   },
+   "resposta": "b",
+   "explicacao": "O objetivo parte da constatação de que o padrão de produção e descarte pressiona os recursos além da capacidade de reposição. A resposta proposta abrange a cadeia inteira, do desenho do produto à destinação do resíduo sólido, na chave da sustentabilidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "id": "med-geografia-500",
+   "enunciado": "Embora receba menos atenção pública que a Amazônia, a supressão de cobertura vegetal no Cerrado preocupa pesquisadores porque essa formação",
+   "alternativas": {
+    "a": "não dispõe de área protegida alguma em seu território, o que a diferencia das demais formações brasileiras segundo o zoneamento vigente",
+    "b": "apresenta recuperação espontânea rápida após a supressão da vegetação nativa",
+    "c": "abriga as cabeceiras de importantes bacias do continente, de modo que sua perda repercute na disponibilidade de água em outras regiões",
+    "d": "concentra a maior parte da população brasileira em seu território",
+    "e": "está integralmente situada em terras de domínio público federal"
+   },
+   "resposta": "c",
+   "explicacao": "As raízes profundas dessa formação alimentam as cabeceiras de várias bacias do continente, e o desmatamento acelerado ali reduz a recarga e agrava a crise hídrica em regiões distantes, além de liberar o carbono estocado sob a superfície.",
    "formato": "direta",
    "origem": "medicina"
   }

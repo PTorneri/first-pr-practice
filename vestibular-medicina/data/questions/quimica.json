@@ -4937,6 +4937,321 @@
       "resposta": "e",
       "explicacao": "Na ligação metálica os elétrons de valência ficam deslocalizados por todo o retículo de cátions. Essa nuvem móvel explica a condução elétrica e permite que as camadas de cátions deslizem sob impacto sem que o material se rompa.",
       "formato": "direta"
+    },
+    {
+      "id": "quimica-323",
+      "texto_apoio": "Considere o equilíbrio químico N₂(g) + 3 H₂(g) ⇌ 2 NH₃(g), realizado em recipiente fechado a temperatura constante.",
+      "enunciado": "Ao se reduzir o volume do recipiente, o equilíbrio se desloca no sentido:",
+      "alternativas": {
+        "a": "da formação de amônia, que corresponde ao lado com menor número de partículas gasosas",
+        "b": "dos reagentes, porque o aumento de pressão favorece as substâncias de partida do processo industrial",
+        "c": "nenhum, já que a variação de volume não afeta sistemas em equilíbrio químico",
+        "d": "da formação de amônia, porque a reação passa a liberar mais calor ao ambiente",
+        "e": "dos reagentes, uma vez que o gás hidrogênio ocupa maior volume que os demais"
+      },
+      "resposta": "a",
+      "explicacao": "Reduzir o volume aumenta a pressão, e o princípio de Le Chatelier prevê deslocamento para o lado de menor número de partículas gasosas: são quatro volumes à esquerda e dois à direita, então o equilíbrio caminha para a amônia. É por isso que a síntese industrial opera sob pressão elevada.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-324",
+      "texto_apoio": "A reação 2 SO₂(g) + O₂(g) ⇌ 2 SO₃(g) é exotérmica, liberando calor no sentido da formação do produto.",
+      "enunciado": "Um aumento de temperatura nesse sistema em equilíbrio provoca:",
+      "alternativas": {
+        "a": "aumento da quantidade de SO₃, pois toda elevação de temperatura acelera a formação de produtos",
+        "b": "aumento da quantidade de SO₃, já que o calor fornecido é incorporado à substância formada",
+        "c": "deslocamento no sentido dos reagentes, porque o sistema absorve o calor adicionado",
+        "d": "nenhuma alteração, uma vez que a temperatura não interfere na posição do equilíbrio",
+        "e": "interrupção da reação direta, que passa a ocorrer apenas no sentido inverso do processo"
+      },
+      "resposta": "c",
+      "explicacao": "Numa reação exotérmica, o calor pode ser tratado como produto. Adicionar calor é adicionar produto, e o sistema responde consumindo-o: o equilíbrio se desloca para os reagentes e o valor de Kc diminui. Temperatura é a única variável que altera a constante de equilíbrio. O SO₃ formado, aliás, reage com a água das nuvens e origina ácido sulfúrico.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-325",
+      "texto_apoio": "No equilíbrio químico H₂(g) + I₂(g) ⇌ 2 HI(g), um estudante injeta uma quantidade adicional de gás hidrogênio no recipiente fechado, mantendo a temperatura constante.",
+      "enunciado": "Após a injeção, observa-se que:",
+      "alternativas": {
+        "a": "o valor da constante de equilíbrio aumenta, pois há mais reagente disponível no sistema",
+        "b": "a reação cessa até que o excesso de hidrogênio seja removido do recipiente fechado",
+        "c": "o equilíbrio se desloca no sentido dos reagentes, para consumir o gás introduzido",
+        "d": "as concentrações de todas as substâncias permanecem exatamente como estavam antes",
+        "e": "o equilíbrio se desloca no sentido do HI, e a constante de equilíbrio não se altera"
+      },
+      "resposta": "e",
+      "explicacao": "Adicionar reagente desloca o equilíbrio no sentido dos produtos, consumindo parte do que foi introduzido. As concentrações mudam, mas a razão entre elas volta ao mesmo valor: só a temperatura altera Kc.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-326",
+      "texto_apoio": "Para o equilíbrio químico aA + bB ⇌ cC + dD, define-se uma constante que relaciona as concentrações das espécies presentes quando o sistema deixa de apresentar variação.",
+      "enunciado": "A expressão correta da constante de equilíbrio Kc é:",
+      "alternativas": {
+        "a": "Kc = ([A]ᵃ · [B]ᵇ) / ([C]ᶜ · [D]ᵈ), com os reagentes no numerador da razão",
+        "b": "Kc = ([C]ᶜ · [D]ᵈ) / ([A]ᵃ · [B]ᵇ), com os expoentes iguais aos coeficientes",
+        "c": "Kc = ([C] + [D]) / ([A] + [B]), somando as concentrações de cada lado da equação",
+        "d": "Kc = [C] · [D] · [A] · [B], multiplicando todas as concentrações do sistema em equilíbrio",
+        "e": "Kc = ([C]ᶜ − [D]ᵈ) / ([A]ᵃ − [B]ᵇ), subtraindo as parcelas correspondentes a cada espécie"
+      },
+      "resposta": "b",
+      "explicacao": "A constante de equilíbrio é a razão entre o produto das concentrações dos produtos e o das concentrações dos reagentes, cada uma elevada ao respectivo coeficiente da equação ajustada. Sólidos e líquidos puros não entram na expressão, porque sua concentração é constante.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-327",
+      "texto_apoio": "Duas reações distintas atingem o equilíbrio químico na mesma temperatura: a primeira apresenta Kc igual a 1 × 10⁶ e a segunda, Kc igual a 1 × 10⁻⁴.",
+      "enunciado": "A comparação entre os dois valores permite concluir que:",
+      "alternativas": {
+        "a": "a primeira reação é mais rápida que a segunda, pois sua constante é maior",
+        "b": "a segunda reação atinge o equilíbrio em menos tempo que a primeira reação",
+        "c": "as duas reações apresentam a mesma proporção entre produtos e reagentes no final",
+        "d": "na primeira predominam os produtos, e na segunda predominam os reagentes",
+        "e": "a primeira reação libera calor, enquanto a segunda absorve calor do ambiente"
+      },
+      "resposta": "d",
+      "explicacao": "Kc alto significa numerador grande: no equilíbrio há muito mais produto que reagente. Kc pequeno indica o contrário. A constante informa a extensão da reação, e não sua velocidade — esta é assunto de cinética, e as duas coisas são independentes.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-328",
+      "texto_apoio": "Um catalisador é adicionado a um sistema que já se encontra em equilíbrio químico, sem que a temperatura ou o volume sejam alterados.",
+      "enunciado": "O efeito dessa adição sobre o sistema é:",
+      "alternativas": {
+        "a": "nenhum sobre a posição do equilíbrio, pois as duas reações opostas são aceleradas igualmente",
+        "b": "o deslocamento no sentido dos produtos, que passam a se formar com maior facilidade",
+        "c": "o deslocamento no sentido dos reagentes, favorecidos pela diminuição da energia de ativação",
+        "d": "o aumento do valor da constante de equilíbrio, que passa a refletir a nova velocidade",
+        "e": "a interrupção do equilíbrio, que só se restabeleceria após a retirada do catalisador do meio reacional"
+      },
+      "resposta": "a",
+      "explicacao": "O catalisador abaixa a energia de ativação dos dois sentidos na mesma medida. O equilíbrio é alcançado mais depressa e no mesmo ponto: as concentrações finais e o valor de Kc permanecem inalterados. Num equilíbrio ácido-base, por exemplo, o catalisador não altera o pH do meio.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-329",
+      "texto_apoio": "A escala de pH é logarítmica: cada unidade corresponde a uma variação de dez vezes na concentração de íons H⁺.",
+      "enunciado": "Comparando-se um suco de pH igual a 3 com um café de pH igual a 5, conclui-se que o suco é:",
+      "alternativas": {
+        "a": "duas vezes mais ácido, diferença que corresponde às duas unidades da escala",
+        "b": "vinte vezes mais ácido, resultado do produto entre as duas unidades da escala e o fator dez",
+        "c": "cem vezes mais ácido, pois duas unidades correspondem a um fator de dez ao quadrado",
+        "d": "menos ácido que o café, já que o valor numérico menor indica menor acidez do meio",
+        "e": "igualmente ácido, uma vez que ambos se situam abaixo do valor neutro da escala"
+      },
+      "resposta": "c",
+      "explicacao": "pH 3 corresponde a [H⁺] = 10⁻³ e pH 5, a 10⁻⁵. A razão entre elas é 10², ou seja, cem vezes. O caráter logarítmico da escala é justamente o que faz diferenças pequenas no número significarem diferenças grandes na acidez.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-330",
+      "texto_apoio": "Prepara-se uma amostra de ácido clorídrico com concentração igual a 0,01 mol/L, a 25 °C. Trata-se de um ácido forte, praticamente todo ionizado em água.",
+      "enunciado": "O pH dessa amostra e o caráter do meio ácido são, respectivamente:",
+      "alternativas": {
+        "a": "1 e ácido, valor obtido diretamente do algarismo da concentração informada",
+        "b": "2 e ácido, pois a ionização total leva [H⁺] ao mesmo valor da concentração inicial",
+        "c": "7 e neutro, já que a água dilui completamente o ácido adicionado ao sistema",
+        "d": "12 e básico, resultado da subtração da concentração informada ao valor máximo previsto na escala",
+        "e": "0,01 e ácido, uma vez que o pH corresponde ao próprio valor da concentração"
+      },
+      "resposta": "b",
+      "explicacao": "Sendo ácido forte, a ionização é praticamente completa: [H⁺] = 0,01 = 10⁻² mol/L, e pH = −log(10⁻²) = 2. O erro frequente é confundir o expoente com o coeficiente da concentração.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-331",
+      "texto_apoio": "Duas soluções aquosas de mesma concentração são comparadas: uma de ácido clorídrico e outra de ácido acético. A primeira conduz corrente elétrica com intensidade bem maior que a segunda.",
+      "enunciado": "A diferença observada na condutividade se explica porque o ácido acético apresenta:",
+      "alternativas": {
+        "a": "maior massa molar, o que reduz a mobilidade das partículas presentes no meio aquoso",
+        "b": "caráter básico, que impede a liberação de íons hidrogênio na solução preparada",
+        "c": "ligações iônicas, ao contrário do ácido clorídrico, que é um composto molecular",
+        "d": "temperatura de ebulição mais alta, propriedade que limita a condução de corrente",
+        "e": "menor grau de ionização, liberando menos íons por ser um ácido fraco"
+      },
+      "resposta": "e",
+      "explicacao": "A condutividade depende da quantidade de íons livres. O ácido clorídrico é forte e ioniza-se quase por inteiro; o acético é fraco e estabelece equilíbrio em que a maior parte permanece na forma molecular. Mesma concentração, portanto, não significa mesma quantidade de íons.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-332",
+      "texto_apoio": "Na reação HCl + H₂O → H₃O⁺ + Cl⁻, o HCl sofre ionização em água, e a teoria de Brønsted-Lowry define ácido como espécie que doa próton e base como espécie que o recebe.",
+      "enunciado": "Nessa reação, o par conjugado formado pela água é:",
+      "alternativas": {
+        "a": "H₂O e Cl⁻, espécies que permanecem em solução após a transferência ocorrida",
+        "b": "HCl e Cl⁻, em que o ácido de partida origina sua própria base conjugada",
+        "c": "H₃O⁺ e Cl⁻, produtos resultantes da reação entre as duas espécies iniciais",
+        "d": "H₂O e H₃O⁺, em que a água atua como base e origina seu ácido conjugado",
+        "e": "HCl e H₃O⁺, ambos capazes de doar próton em meio aquoso diluído"
+      },
+      "resposta": "d",
+      "explicacao": "A água recebe o próton, portanto atua como base de Brønsted, e o que ela origina — o íon hidrônio — é seu ácido conjugado. O outro par é HCl e Cl⁻. Pares conjugados diferem sempre por um único próton.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-333",
+      "texto_apoio": "Segundo Arrhenius, ácido é toda substância que em água libera como único cátion o íon H⁺, e base é toda substância que em água libera como único ânion o íon OH⁻.",
+      "enunciado": "Entre as substâncias a seguir, é classificada como uma base de Arrhenius:",
+      "alternativas": {
+        "a": "o hidróxido de sódio, NaOH, que em água libera Na⁺ e OH⁻",
+        "b": "o cloreto de sódio, NaCl, que em água libera Na⁺ e Cl⁻",
+        "c": "o ácido sulfúrico, H₂SO₄, que em água libera H⁺ e sulfato",
+        "d": "o metano, CH₄, composto que não se dissocia ao ser colocado em água",
+        "e": "o dióxido de carbono, CO₂, gás que reage com a água sem liberar íons hidroxila"
+      },
+      "resposta": "a",
+      "explicacao": "A definição de Arrhenius exige liberação de hidroxila em meio aquoso, e o NaOH atende a isso. O NaCl é um sal, o H₂SO₄ é ácido, e o CO₂ produz ácido carbônico em água — atua, portanto, como óxido de caráter ácido.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-334",
+      "texto_apoio": "Um estudante mistura volumes iguais de ácido clorídrico e hidróxido de sódio, ambos de mesma concentração, e mede o pH ao final do processo.",
+      "enunciado": "O produto principal e o pH esperado ao término dessa neutralização são:",
+      "alternativas": {
+        "a": "cloreto de sódio e pH próximo de 2, já que o ácido empregado é forte",
+        "b": "hidróxido de cloro e pH próximo de 12, em razão do excesso de hidroxila",
+        "c": "cloreto de sódio e água, com pH próximo de 7, pois o sal formado não sofre hidrólise",
+        "d": "gás cloro e pH próximo de 4, resultado da decomposição do ácido no meio aquoso",
+        "e": "ácido hipocloroso e pH próximo de 5, formado pela combinação direta entre as duas espécies presentes"
+      },
+      "resposta": "c",
+      "explicacao": "Ácido forte com base forte, em quantidades equivalentes, produz sal e água. O NaCl vem de ácido forte e base forte e não sofre hidrólise, de modo que o meio permanece neutro, com pH próximo de 7 a 25 °C.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-335",
+      "texto_apoio": "Em uma titulação, adiciona-se hidróxido de sódio de concentração conhecida a um volume de ácido de concentração desconhecida, na presença de fenolftaleína.",
+      "enunciado": "O ponto de viragem indicado pelo aparecimento da coloração rósea corresponde:",
+      "alternativas": {
+        "a": "ao início da reação, quando as primeiras gotas de titulante entram no frasco",
+        "b": "ao momento em que o ácido foi consumido, permitindo calcular sua concentração",
+        "c": "ao instante em que o indicador se decompõe pela ação da temperatura do meio",
+        "d": "ao ponto em que a reação se interrompe por esgotamento do titulante empregado",
+        "e": "à saturação da solução, a partir da qual o sal formado começa a se depositar"
+      },
+      "resposta": "b",
+      "explicacao": "A fenolftaleína é incolor em meio ácido e rósea em meio básico. A cor aparece quando o ácido acaba de ser neutralizado e a primeira fração de base fica livre. Conhecendo volume e concentração do titulante, calcula-se a concentração da amostra.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-336",
+      "texto_apoio": "Dissolvem-se em água, separadamente, cloreto de sódio (NaCl) e acetato de sódio (CH₃COONa). O pH das duas soluções é medido a 25 °C.",
+      "enunciado": "Os valores de pH obtidos são, respectivamente:",
+      "alternativas": {
+        "a": "ácido e neutro, já que o cloreto proveniente do ácido clorídrico acidifica o meio",
+        "b": "básico e ácido, porque o sódio presente nos dois sais tem caráter alcalino marcante",
+        "c": "ácido e ácido, uma vez que todo sal dissolvido em água libera íons hidrogênio",
+        "d": "neutro e neutro, pois sais são compostos que não interferem no pH da solução",
+        "e": "neutro e básico, pois o íon acetato sofre hidrólise e libera hidroxila no meio"
+      },
+      "resposta": "e",
+      "explicacao": "O NaCl vem de ácido forte e base forte: nenhum íon reage com a água e o meio fica neutro. Já o acetato é base conjugada de um ácido fraco, retira próton da água e libera hidroxila, o que torna o meio básico. Essa é a hidrólise salina.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-337",
+      "texto_apoio": "O sangue humano mantém o pH entre 7,35 e 7,45 graças ao par H₂CO₃ / HCO₃⁻, que absorve tanto ácidos quanto bases produzidos pelo metabolismo.",
+      "enunciado": "Um sistema com esse comportamento é chamado de solução tampão porque:",
+      "alternativas": {
+        "a": "impede por completo a entrada de qualquer ácido na corrente sanguínea humana",
+        "b": "eleva progressivamente o pH conforme novos ácidos são produzidos pelo organismo",
+        "c": "converte o meio em neutro, com pH exatamente igual a 7 em qualquer circunstância",
+        "d": "resiste a variações de pH pela presença de um ácido fraco e sua base conjugada",
+        "e": "elimina os íons hidrogênio do meio por meio de reação irreversível e completa"
+      },
+      "resposta": "d",
+      "explicacao": "O tampão combina um ácido fraco com sua base conjugada. Chegando ácido, a base conjugada o neutraliza; chegando base, o ácido fraco reage com ela. O pH varia pouco até que a capacidade do tampão se esgote — e no sangue essa margem é estreita.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-338",
+      "texto_apoio": "A 25 °C, o produto iônico da água vale Kw = [H⁺] · [OH⁻] = 1 × 10⁻¹⁴.",
+      "enunciado": "Numa solução aquosa em que o pOH é igual a 9, o pH e o caráter do meio são:",
+      "alternativas": {
+        "a": "5 e ácido, resultado da diferença entre 14 e o valor de pOH informado",
+        "b": "9 e básico, pois pH e pOH assumem sempre o mesmo valor numérico",
+        "c": "23 e básico, obtido pela soma entre o pOH informado e o valor de referência",
+        "d": "14 e neutro, uma vez que a soma corresponde ao produto iônico da água",
+        "e": "1 e ácido, resultado da divisão do valor de referência pelo pOH informado"
+      },
+      "resposta": "a",
+      "explicacao": "De Kw decorre pH + pOH = 14 a 25 °C. Com pOH = 9, o pH é 5, abaixo de 7: meio ácido. Vale lembrar que a neutralidade só corresponde a pH 7 nessa temperatura — em outras, o valor de Kw muda.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-339",
+      "texto_apoio": "A queima de combustíveis com enxofre lança SO₂ na atmosfera. O gás é oxidado a SO₃, que reage com a água das nuvens formando H₂SO₄ e reduzindo o pH da chuva.",
+      "enunciado": "Sobre a chuva ácida descrita nesse trecho, é correto afirmar que:",
+      "alternativas": {
+        "a": "ocorre apenas em regiões desérticas, onde a umidade do ar permanece muito baixa",
+        "b": "resulta da presença de bases fortes presentes nas gotas de água das nuvens",
+        "c": "corrói monumentos de mármore, pois o carbonato reage com o ácido formado",
+        "d": "eleva o pH dos lagos atingidos, tornando o meio favorável à vida aquática",
+        "e": "é neutralizada pelo gás carbônico atmosférico antes de alcançar a superfície"
+      },
+      "resposta": "c",
+      "explicacao": "O mármore é carbonato de cálcio, e carbonato reage com ácido liberando gás carbônico e corroendo a pedra. O meio ácido ataca a superfície exposta. Por isso estátuas e fachadas históricas perdem detalhes em cidades industriais. Nos lagos, a chuva ácida baixa o pH e compromete a vida aquática.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-340",
+      "texto_apoio": "Antiácidos estomacais contêm hidróxido de magnésio ou bicarbonato de sódio, indicados para o alívio da azia provocada pelo excesso de ácido clorídrico no estômago.",
+      "enunciado": "O princípio químico que fundamenta o uso desses medicamentos é:",
+      "alternativas": {
+        "a": "a diluição, que reduz a acidez pelo simples acréscimo de água ao conteúdo estomacal",
+        "b": "a neutralização, reação entre o ácido do estômago e a base contida no medicamento",
+        "c": "a decomposição do ácido clorídrico, convertido em substância de caráter neutro",
+        "d": "a precipitação do ácido, que se deposita no fundo do estômago sem reagir",
+        "e": "a evaporação do ácido, favorecida pela temperatura interna do corpo humano"
+      },
+      "resposta": "b",
+      "explicacao": "O componente do antiácido tem caráter básico e reage com o meio ácido do estômago produzindo sal e água, o que eleva o pH e alivia o desconforto. O bicarbonato libera gás carbônico na reação — daí o arroto que costuma acompanhar seu uso.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-341",
+      "texto_apoio": "O carbonato de cálcio é pouco solúvel em água e apresenta produto de solubilidade Kps = [Ca²⁺] · [CO₃²⁻] em equilíbrio com o sólido depositado no fundo do recipiente.",
+      "enunciado": "Se a um sistema desses for adicionado cloreto de cálcio solúvel, observa-se que:",
+      "alternativas": {
+        "a": "o valor do Kps aumenta, acompanhando a maior quantidade de cálcio disponível",
+        "b": "todo o sólido depositado desaparece do fundo, pela ação do cloreto introduzido no meio",
+        "c": "nada se altera, pois o Kps depende apenas da massa de sólido presente no fundo",
+        "d": "o carbonato passa a se dispersar com mais facilidade no meio aquoso",
+        "e": "precipita mais carbonato de cálcio, por efeito do íon comum sobre o equilíbrio"
+      },
+      "resposta": "e",
+      "explicacao": "Acrescentar Ca²⁺ eleva o produto das concentrações acima do Kps, e o equilíbrio iônico se restabelece precipitando o excesso. É o efeito do íon comum: a solubilidade do sal diminui na presença de um íon que ele já possui. O Kps, porém, só muda com a temperatura.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-342",
+      "texto_apoio": "Um indicador ácido-base é uma substância que apresenta cores distintas conforme o pH do meio em que se encontra. O azul de bromotimol é amarelo abaixo de pH 6,0 e azul acima de pH 7,6.",
+      "enunciado": "Ao se borbulhar gás carbônico em uma amostra de água contendo azul de bromotimol de coloração azul, espera-se que:",
+      "alternativas": {
+        "a": "a cor permaneça azul, pois o gás carbônico não interfere no pH da água",
+        "b": "a amostra fique incolor, já que o gás decompõe a molécula do indicador",
+        "c": "a cor se intensifique, indicando aumento do caráter básico da amostra",
+        "d": "a cor mude para amarelo, pois o CO₂ forma ácido carbônico e baixa o pH",
+        "e": "a amostra se torne vermelha, cor característica do meio fortemente básico"
+      },
+      "resposta": "d",
+      "explicacao": "O gás carbônico reage com a água formando ácido carbônico, que abaixa o pH da amostra. Cruzando a faixa de viragem, o azul de bromotimol passa de azul a amarelo. O experimento é o mesmo que explica a acidificação dos oceanos.",
+      "formato": "direta"
+    },
+    {
+      "id": "quimica-343",
+      "texto_apoio": "O grau de ionização (α) de um ácido é a razão entre a quantidade ionizada e a quantidade inicialmente dissolvida. Para um mesmo ácido fraco, esse valor cresce à medida que a solução é diluída.",
+      "enunciado": "Esse comportamento, conhecido como lei da diluição de Ostwald, ocorre porque:",
+      "alternativas": {
+        "a": "a diluição aumenta a constante de ionização Ka do ácido considerado",
+        "b": "a água adicionada reage com o ácido, convertendo-o em uma base conjugada",
+        "c": "a diluição afasta os íons e desloca o equilíbrio no sentido da ionização",
+        "d": "a quantidade total de ácido dissolvido cresce à medida que se adiciona água",
+        "e": "o ácido fraco passa a se comportar como ácido forte em soluções concentradas"
+      },
+      "resposta": "c",
+      "explicacao": "Diluir reduz as concentrações de todas as espécies, mas afeta mais o encontro entre os íons que refariam a molécula. O equilíbrio químico se desloca no sentido da ionização e α cresce, embora Ka permaneça o mesmo, já que depende apenas da temperatura.",
+      "formato": "direta"
     }
   ]
 }

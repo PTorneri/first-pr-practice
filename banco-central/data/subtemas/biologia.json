@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-14",
  "frente": "biologia",
- "total": 360,
+ "total": 383,
  "residuo": [
   "med-biologia-09",
   "med-biologia-39",
@@ -2163,6 +2163,144 @@
    "frenteDestino": "biologia",
    "pontos": 10,
    "margem": 6
+  },
+  "med-biologia-362": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-biologia-363": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-biologia-364": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-biologia-365": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-biologia-366": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-biologia-367": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-biologia-368": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-biologia-369": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-biologia-370": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-biologia-371": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-biologia-372": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-biologia-373": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 13,
+   "margem": 9
+  },
+  "med-biologia-374": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-biologia-375": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-biologia-376": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-biologia-377": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-biologia-378": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-biologia-379": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-biologia-380": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 6
+  },
+  "med-biologia-381": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-biologia-382": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-biologia-383": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-biologia-384": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
   }
  }
 }

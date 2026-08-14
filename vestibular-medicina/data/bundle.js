@@ -6814,6 +6814,397 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-ecologia",
+   "id": "med-biologia-362",
+   "texto_apoio": "Em um ecossistema costeiro, o fitoplâncton é consumido por pequenos crustáceos, que servem de alimento a sardinhas, das quais se alimentam atuns.",
+   "enunciado": "Nessa cadeia alimentar, as sardinhas ocupam a posição de:",
+   "alternativas": {
+    "a": "produtores, por converterem energia luminosa em matéria orgânica disponível",
+    "b": "consumidores secundários, situados no terceiro nível trófico dessa sequência",
+    "c": "decompositores, responsáveis pela devolução dos nutrientes ao meio ambiente",
+    "d": "consumidores de primeira ordem, alimentando-se diretamente dos produtores",
+    "e": "consumidores terciários, ocupando o nível mais alto da sequência apresentada"
+   },
+   "resposta": "b",
+   "explicacao": "O fitoplâncton é produtor e ocupa o primeiro nível trófico; os crustáceos, consumidores de primeira ordem, o segundo; as sardinhas, consumidores secundários, o terceiro; e os atuns, o quarto. A contagem começa sempre pelo produtor, por onde entra o fluxo de energia do ecossistema.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-363",
+   "texto_apoio": "Ao longo de uma cadeia alimentar, apenas cerca de dez por cento da energia contida em um nível trófico é incorporada ao nível seguinte.",
+   "enunciado": "A consequência ecológica direta dessa baixa eficiência de transferência é:",
+   "alternativas": {
+    "a": "o aumento do número de indivíduos a cada nível trófico percorrido na cadeia",
+    "b": "a igualdade de biomassa entre todos os níveis do ecossistema considerado",
+    "c": "a possibilidade de cadeias alimentares com dezenas de níveis tróficos sucessivos",
+    "d": "a limitação do número de níveis tróficos, em geral de quatro ou cinco na natureza",
+    "e": "o acúmulo progressivo de energia nos níveis superiores da pirâmide ecológica do ecossistema"
+   },
+   "resposta": "d",
+   "explicacao": "A maior parte da energia é dissipada como calor na respiração de cada nível. Depois de quatro ou cinco transferências resta pouco para sustentar uma população viável, e é essa perda que impõe o limite — não a falta de espécies disponíveis.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-364",
+   "texto_apoio": "Em uma teia alimentar de campo aberto, a onça é o único predador de capivaras e catetos. Após a caça intensiva, a população de onças desaparece da área.",
+   "enunciado": "O efeito imediato esperado sobre esse ecossistema é:",
+   "alternativas": {
+    "a": "o crescimento das populações de herbívoros, seguido de pressão sobre a vegetação",
+    "b": "a redução do número de herbívoros, que dependiam da onça para se alimentar",
+    "c": "a estabilidade completa da teia alimentar, que não depende do topo da cadeia",
+    "d": "o desaparecimento imediato de todas as espécies vegetais presentes na área",
+    "e": "a transformação dos herbívoros remanescentes em predadores de outras espécies presentes na área"
+   },
+   "resposta": "a",
+   "explicacao": "O predador de topo controla a densidade dos herbívoros. Removido esse controle, as populações crescem e a herbivoria aumenta, o que pode empobrecer a vegetação e alterar toda a teia alimentar — um efeito que se propaga de cima para baixo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-365",
+   "texto_apoio": "Todo ecossistema depende de organismos que produzem matéria orgânica, de organismos que a consomem e de organismos que devolvem os nutrientes ao meio.",
+   "enunciado": "A função dos decompositores nesse conjunto consiste em:",
+   "alternativas": {
+    "a": "produzir matéria orgânica a partir da energia solar captada pela vegetação",
+    "b": "transferir energia diretamente dos produtores aos consumidores terciários",
+    "c": "converter matéria orgânica morta em nutrientes minerais reaproveitáveis",
+    "d": "impedir a entrada de energia luminosa no ecossistema durante a noite",
+    "e": "consumir exclusivamente organismos vivos do primeiro nível trófico da cadeia"
+   },
+   "resposta": "c",
+   "explicacao": "Os decompositores quebram restos e excretas, devolvendo ao solo e à água os elementos que as plantas voltarão a absorver. Sem eles a matéria ficaria imobilizada nos cadáveres e os ciclos de nutrientes se interromperiam.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-366",
+   "texto_apoio": "O ciclo do carbono envolve trocas entre a atmosfera, os seres vivos, os oceanos e os depósitos do subsolo, mantidas em relativo equilíbrio ao longo de milhares de anos.",
+   "enunciado": "A ação humana que mais intensamente alterou esse ciclo nos últimos dois séculos foi:",
+   "alternativas": {
+    "a": "o cultivo de leguminosas, que retira carbono do solo em grande quantidade",
+    "b": "a criação de reservas naturais, que reduz a circulação de carbono entre os meios",
+    "c": "a irrigação agrícola, responsável pela maior parte das emissões registradas nas últimas décadas",
+    "d": "a pesca industrial, que remove o carbono estocado nos organismos marinhos",
+    "e": "a queima de combustíveis fósseis, que devolve à atmosfera carbono retido no subsolo"
+   },
+   "resposta": "e",
+   "explicacao": "O carvão e o petróleo guardaram carbono fora de circulação por milhões de anos. Queimá-los em poucas décadas devolve esse estoque à atmosfera em ritmo que os oceanos e a vegetação não conseguem absorver, o que desequilibra o ciclo do carbono.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-367",
+   "texto_apoio": "Embora o nitrogênio represente cerca de 78% da atmosfera, a maioria dos seres vivos não consegue utilizá-lo na forma de gás N₂.",
+   "enunciado": "A etapa do ciclo do nitrogênio que torna esse elemento disponível aos vegetais é a:",
+   "alternativas": {
+    "a": "evaporação, que transportaria o nitrogênio dissolvido na água até a parte aérea das plantas",
+    "b": "fixação, realizada por organismos que convertem o N₂ em compostos assimiláveis",
+    "c": "combustão, processo em que o nitrogênio do ar seria convertido em açúcar",
+    "d": "desnitrificação, que devolve nitrogênio à atmosfera na forma de gás livre",
+    "e": "sedimentação, pela qual o nitrogênio se depositaria no fundo dos corpos de água da região"
+   },
+   "resposta": "b",
+   "explicacao": "A fixação é feita sobretudo por microrganismos do solo e por aqueles que vivem nos nódulos das raízes de leguminosas. É por isso que o plantio de feijão ou soja em rotação enriquece o solo — a desnitrificação faz o caminho inverso, devolvendo N₂ ao ar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-368",
+   "texto_apoio": "O bioma ocupa a porção central do Brasil, apresenta duas estações bem marcadas, vegetação de árvores tortuosas e casca grossa, e sistema radicular profundo que alcança o lençol freático.",
+   "enunciado": "As características descritas identificam o:",
+   "alternativas": {
+    "a": "Pantanal, planície alagável marcada pelo pulso anual de inundação",
+    "b": "Pampa, formação de campos com predomínio de gramíneas no extremo sul",
+    "c": "Manguezal, ambiente de transição entre o continente e o oceano no litoral",
+    "d": "Cerrado, savana brasileira adaptada ao fogo e a solos ácidos e pobres",
+    "e": "Mata de Araucária, floresta de coníferas dos planaltos da região Sul"
+   },
+   "resposta": "d",
+   "explicacao": "Casca grossa e raiz profunda são adaptações do Cerrado ao fogo periódico e à seca prolongada. O bioma é considerado a savana de maior biodiversidade do planeta e funciona como caixa-d'água, alimentando bacias hidrográficas importantes do país.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-369",
+   "texto_apoio": "Em um bioma do interior nordestino, a vegetação perde as folhas na estação seca, muitas plantas armazenam água no caule e vários vegetais apresentam espinhos no lugar das folhas.",
+   "enunciado": "As adaptações descritas são típicas da:",
+   "alternativas": {
+    "a": "Caatinga, único bioma exclusivamente brasileiro, adaptado às condições do semiárido",
+    "b": "Floresta Amazônica, marcada por elevada umidade ao longo do ano inteiro",
+    "c": "Mata Atlântica, floresta úmida que acompanha boa parte do litoral do país",
+    "d": "Tundra, formação de baixas temperaturas com solo congelado em profundidade",
+    "e": "Taiga, floresta de coníferas típica das altas latitudes do hemisfério norte do planeta"
+   },
+   "resposta": "a",
+   "explicacao": "Perder folhas reduz a transpiração, o caule suculento estoca água e o espinho protege esse estoque dos herbívoros: são respostas à irregularidade das chuvas no semiárido. A Caatinga não ocorre em nenhum outro país, e seu ecossistema depende dessa irregularidade das chuvas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-370",
+   "texto_apoio": "Dados de satélite mostram que a conversão de trechos de floresta em pastagem reduz a evapotranspiração regional e, com ela, o volume de umidade transportado para outras regiões do continente.",
+   "enunciado": "O fenômeno descrito relaciona o desmatamento da Amazônia à:",
+   "alternativas": {
+    "a": "elevação do nível dos oceanos, provocada pelo derretimento das calotas polares",
+    "b": "formação de ilhas de calor restritas ao interior das grandes áreas urbanas",
+    "c": "redução das chuvas em regiões distantes, abastecidas pelos rios voadores",
+    "d": "diminuição da salinidade dos oceanos próximos à foz dos grandes rios",
+    "e": "expansão da cobertura vegetal nas áreas vizinhas às regiões desmatadas"
+   },
+   "resposta": "c",
+   "explicacao": "A floresta bombeia água do solo para a atmosfera, e essas massas úmidas — os rios voadores — alimentam a chuva do Centro-Sul do continente. Substituir árvores por pasto reduz esse bombeamento, e o efeito aparece longe do local desmatado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-371",
+   "texto_apoio": "A Mata Atlântica está hoje reduzida a cerca de doze por cento de sua área original, distribuída sobretudo em manchas pequenas e separadas por áreas urbanas e agrícolas.",
+   "enunciado": "O principal risco ecológico associado a essa fragmentação do habitat é:",
+   "alternativas": {
+    "a": "o aumento da diversidade genética das populações restritas a cada um dos fragmentos remanescentes",
+    "b": "a elevação do número de espécies exclusivas registradas em cada mancha isolada",
+    "c": "a expansão natural dos fragmentos até a recomposição da cobertura original",
+    "d": "a redução da temperatura média no interior de cada um dos trechos preservados",
+    "e": "o isolamento das populações, com perda de variabilidade e risco de extinção local"
+   },
+   "resposta": "e",
+   "explicacao": "Fragmentos pequenos sustentam populações pequenas, que perdem variabilidade genética e ficam vulneráveis a doenças e a eventos extremos. Sem corredores que liguem as manchas, não há troca de indivíduos, e extinções locais se acumulam.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-372",
+   "texto_apoio": "Uma área de floresta é destruída por um deslizamento que expõe a rocha nua. Décadas depois, liquens e musgos deram lugar a arbustos, e estes a árvores de pequeno porte.",
+   "enunciado": "O processo descrito nesse trecho é denominado:",
+   "alternativas": {
+    "a": "sucessão secundária, que ocorre onde o solo original permanece preservado",
+    "b": "sucessão primária, iniciada em ambiente sem solo formado previamente",
+    "c": "eutrofização, decorrente do excesso de nutrientes disponíveis no ambiente",
+    "d": "bioacumulação, com aumento da concentração de substâncias ao longo da cadeia",
+    "e": "especiação, com surgimento de novas espécies a partir do isolamento geográfico"
+   },
+   "resposta": "b",
+   "explicacao": "Rocha nua indica sucessão primária: não há solo, e os liquens são as espécies pioneiras que iniciam sua formação. Quando o solo permanece — como após uma queimada ou o abandono de uma lavoura — a sucessão é secundária e bem mais rápida, até a formação de um novo ecossistema florestal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-373",
+   "texto_apoio": "Duas espécies de aves ocupam a mesma área de floresta. Uma delas se alimenta de sementes duras no chão; a outra captura insetos na copa das árvores.",
+   "enunciado": "A situação descrita ilustra a diferença entre:",
+   "alternativas": {
+    "a": "população e comunidade, referentes a conjuntos de tamanhos distintos",
+    "b": "produtor e consumidor, definidos pela posição em relação à matéria orgânica",
+    "c": "espécie nativa e espécie invasora, distinguidas por sua origem geográfica em relação ao local",
+    "d": "habitat, que é o lugar em que a espécie vive, e nicho ecológico, o modo como vive",
+    "e": "cadeia e teia alimentar, conforme o número de sequências consideradas"
+   },
+   "resposta": "d",
+   "explicacao": "As duas aves compartilham o habitat — a mesma floresta — e ocupam nichos ecológicos diferentes: alimento, estrato e horário de atividade não coincidem. É essa separação que permite a convivência sem competição direta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-374",
+   "texto_apoio": "Em um experimento clássico, duas espécies de protozoários cultivadas separadamente prosperam. Cultivadas juntas, no mesmo recipiente e com o mesmo alimento, uma delas desaparece.",
+   "enunciado": "O resultado do experimento é explicado pela:",
+   "alternativas": {
+    "a": "competição interespecífica, em que a espécie menos eficiente é excluída do meio",
+    "b": "relação de mutualismo, em que ambas as espécies obtêm benefício da convivência",
+    "c": "predação direta de uma espécie sobre a outra dentro do recipiente utilizado",
+    "d": "decomposição acelerada dos nutrientes disponíveis no meio de cultura empregado",
+    "e": "seleção artificial exercida pelo pesquisador sobre as duas populações cultivadas"
+   },
+   "resposta": "a",
+   "explicacao": "Duas espécies com o mesmo nicho ecológico não coexistem indefinidamente: a mais eficiente no uso do recurso elimina a outra. É o princípio da exclusão competitiva — na natureza, o resultado costuma ser a separação dos nichos em vez do desaparecimento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-375",
+   "texto_apoio": "Os liquens resultam da associação entre um fungo e uma alga: o fungo fornece estrutura, umidade e proteção, e a alga fornece a matéria orgânica que produz a partir da luz.",
+   "enunciado": "A relação ecológica descrita é classificada como:",
+   "alternativas": {
+    "a": "parasitismo, em que o fungo obtém benefício às custas do organismo associado",
+    "b": "predatismo, com captura e consumo de uma espécie por outra na associação",
+    "c": "mutualismo, forma de simbiose em que ambas as espécies são beneficiadas",
+    "d": "competição intraespecífica, disputa entre indivíduos da mesma espécie",
+    "e": "comensalismo, em que apenas uma espécie ganha e a outra nada perde ou ganha"
+   },
+   "resposta": "c",
+   "explicacao": "Fungo e alga dependem um do outro e ambos ganham: é mutualismo, e como a associação é obrigatória e permanente, também se fala em simbiose. A mesma lógica vale para as micorrizas e para as bactérias fixadoras nas raízes das leguminosas, presentes em muitos ecossistemas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-376",
+   "texto_apoio": "A rêmora fixa-se ao corpo do tubarão por meio de uma ventosa dorsal e aproveita os restos de alimento que o predador deixa escapar, sem prejudicá-lo nem beneficiá-lo.",
+   "enunciado": "Essa relação ecológica é um exemplo de:",
+   "alternativas": {
+    "a": "parasitismo, pois a rêmora retira nutrientes diretamente do corpo do tubarão",
+    "b": "mutualismo, uma vez que ambas as espécies obtêm vantagem da associação",
+    "c": "competição, já que as duas espécies disputam a mesma fonte de alimento",
+    "d": "predatismo, com a rêmora atuando como predadora de organismos menores",
+    "e": "comensalismo, em que uma espécie se beneficia sem causar dano à outra"
+   },
+   "resposta": "e",
+   "explicacao": "No comensalismo o saldo é positivo para um e neutro para o outro. A rêmora ganha transporte e alimento; o tubarão segue indiferente. No parasitismo haveria prejuízo, e no mutualismo, benefício para os dois lados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-377",
+   "texto_apoio": "Registros de longo prazo mostram que as populações de lince e de lebre em uma região do norte do Canadá oscilam em ciclos, com os picos de lince ocorrendo pouco depois dos picos de lebre.",
+   "enunciado": "O padrão descrito é característico da relação de:",
+   "alternativas": {
+    "a": "comensalismo, em que apenas uma das espécies obtém vantagem da convivência",
+    "b": "predatismo, em que a densidade do predador acompanha a da presa com atraso",
+    "c": "mutualismo, com benefício simultâneo para as duas populações registradas",
+    "d": "parasitismo, com o predador vivendo às custas da presa sem provocar sua morte",
+    "e": "competição interespecífica pelo mesmo recurso alimentar disponível na região"
+   },
+   "resposta": "b",
+   "explicacao": "Muita lebre alimenta muito lince; muito lince derruba a população de lebre; sem presa, o lince declina e a lebre se recupera. A defasagem entre os picos é a assinatura da predação, e o par lince-lebre é o exemplo clássico desse controle recíproco.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-378",
+   "texto_apoio": "O caramujo-africano foi trazido ao Brasil para criação comercial, escapou dos criadouros e hoje ocorre em quase todos os estados, sem predadores naturais que limitem sua expansão.",
+   "enunciado": "O caso descrito ilustra o problema ecológico causado por uma espécie:",
+   "alternativas": {
+    "a": "endêmica, restrita a uma única região geográfica em todo o planeta",
+    "b": "ameaçada de extinção, cuja população decresce de forma acelerada",
+    "c": "pioneira, primeira a colonizar ambientes recém-formados e sem solo",
+    "d": "invasora, que se estabelece fora de sua área original e desloca as nativas",
+    "e": "indicadora, cuja presença ou ausência revela a qualidade ambiental do local analisado"
+   },
+   "resposta": "d",
+   "explicacao": "Fora de sua área original, a espécie chega sem os predadores e parasitas que a controlavam, e sua população cresce sem freio. O resultado é competição com espécies nativas, perda de biodiversidade e, no caso do caramujo, transmissão de parasitas ao ser humano.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-379",
+   "texto_apoio": "Análises em uma baía contaminada por mercúrio encontraram 0,001 ppm do metal na água, 0,05 ppm no plâncton, 2 ppm nos peixes pequenos e 15 ppm nos peixes predadores de maior porte.",
+   "enunciado": "O padrão observado nessas medições recebe o nome de:",
+   "alternativas": {
+    "a": "magnificação trófica, com aumento da concentração ao longo da cadeia alimentar",
+    "b": "eutrofização, decorrente do excesso de nutrientes lançados no corpo de água",
+    "c": "sucessão ecológica, com substituição gradual das espécies presentes na baía",
+    "d": "diluição progressiva, com redução da concentração a cada nível trófico percorrido",
+    "e": "fixação biológica, com incorporação do metal às estruturas rígidas dos organismos"
+   },
+   "resposta": "a",
+   "explicacao": "Metais pesados não são excretados nem degradados: acumulam-se no organismo e passam inteiros ao predador, que come muitas presas ao longo da vida. Por isso a concentração multiplica-se a cada nível — e o topo da cadeia, inclusive o ser humano, recebe a maior dose.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-380",
+   "texto_apoio": "Após anos recebendo esgoto doméstico e fertilizantes carregados pela chuva, um lago apresenta intensa proliferação de algas na superfície, água turva e mortandade de peixes no fundo.",
+   "enunciado": "A sequência de eventos descrita caracteriza a:",
+   "alternativas": {
+    "a": "bioacumulação, com concentração de substâncias tóxicas nos tecidos dos peixes",
+    "b": "chuva ácida, provocada pela reação entre gases poluentes e a água das nuvens",
+    "c": "eutrofização, em que o excesso de nutrientes leva à queda do oxigênio dissolvido",
+    "d": "salinização, decorrente do acúmulo de sais minerais na superfície do corpo de água",
+    "e": "desertificação, processo de perda de fertilidade e cobertura vegetal do solo"
+   },
+   "resposta": "c",
+   "explicacao": "Nitrogênio e fósforo em excesso disparam a proliferação de algas, que bloqueia a luz e morre em massa. A decomposição dessa biomassa consome o oxigênio dissolvido, e os peixes morrem por asfixia, o que desorganiza o ecossistema do lago. O nutriente que sustenta a vida, em excesso, a elimina.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-381",
+   "texto_apoio": "Parte da radiação solar que aquece a superfície terrestre é reemitida como radiação infravermelha. Gases como CO₂, metano e vapor de água absorvem essa radiação e a devolvem à superfície.",
+   "enunciado": "Sobre o efeito estufa e o aquecimento global, é correto afirmar que:",
+   "alternativas": {
+    "a": "o efeito estufa é um fenômeno artificial, surgido apenas após a industrialização",
+    "b": "a eliminação completa dos gases estufa tornaria o planeta mais habitável",
+    "c": "o buraco na camada de ozônio seria a causa direta do aumento da temperatura média do planeta",
+    "d": "o aumento da temperatura decorre da maior proximidade entre a Terra e o Sol",
+    "e": "o efeito é natural e necessário, mas sua intensificação eleva a temperatura média"
+   },
+   "resposta": "e",
+   "explicacao": "Sem efeito estufa a temperatura média do planeta ficaria dezenas de graus abaixo de zero. O problema é a intensificação causada pelo acréscimo de gases de origem humana. A destruição da camada de ozônio é outro fenômeno, com causas e consequências distintas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-382",
+   "texto_apoio": "Um levantamento em área rural encontrou embalagens de agrotóxico descartadas a céu aberto, próximas a uma nascente utilizada para consumo humano.",
+   "enunciado": "O principal risco ambiental associado a esse descarte inadequado é:",
+   "alternativas": {
+    "a": "a redução da temperatura média do solo no entorno da área analisada",
+    "b": "a contaminação do solo e da água subterrânea pelos resíduos remanescentes",
+    "c": "o aumento da fertilidade natural da área em razão dos compostos presentes",
+    "d": "a aceleração do processo de decomposição da matéria orgânica do local",
+    "e": "a formação de uma camada protetora sobre a superfície da nascente atingida"
+   },
+   "resposta": "b",
+   "explicacao": "A chuva lixivia o resíduo remanescente, que percola o solo e alcança o lençol freático, de onde a nascente se abastece. Trata-se de poluição difusa, e por isso a legislação exige tríplice lavagem e devolução das embalagens — uma vez no aquífero, a contaminação é de remoção lenta e cara.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-383",
+   "texto_apoio": "Em um lixão a céu aberto, a decomposição do material orgânico produz um líquido escuro de elevada carga poluidora, que escorre pelo terreno e atinge cursos de água próximos.",
+   "enunciado": "O líquido descrito e a alternativa tecnicamente adequada de destinação são, respectivamente:",
+   "alternativas": {
+    "a": "chorume e a queima a céu aberto do material orgânico acumulado no terreno do depósito",
+    "b": "esgoto sanitário e o lançamento direto no curso de água mais próximo",
+    "c": "efluente industrial e o armazenamento indefinido em tanques abertos",
+    "d": "chorume e o aterro sanitário, com impermeabilização do solo e drenagem",
+    "e": "água pluvial e a infiltração natural no solo do entorno do depósito"
+   },
+   "resposta": "d",
+   "explicacao": "O chorume tem carga orgânica muito superior à do esgoto doméstico. O aterro sanitário difere do lixão justamente por impermeabilizar a base, drenar e tratar esse líquido e captar o biogás. A Política Nacional de Resíduos Sólidos determinou o fim dos lixões.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-384",
+   "texto_apoio": "Aparelhos eletrônicos descartados contêm chumbo, cádmio e mercúrio, além de metais de valor econômico como ouro e cobre, presentes em quantidade pequena por unidade.",
+   "enunciado": "Sobre o descarte de lixo eletrônico, é correto afirmar que:",
+   "alternativas": {
+    "a": "a logística reversa permite recuperar materiais e evitar a contaminação ambiental",
+    "b": "esses resíduos podem ser destinados junto ao lixo comum, por serem de pequeno volume",
+    "c": "a incineração a céu aberto é a destinação recomendada para esse tipo de material",
+    "d": "os metais presentes se degradam naturalmente no solo em poucos meses de exposição",
+    "e": "a presença de metais valiosos torna o descarte irrelevante do ponto de vista ambiental"
+   },
+   "resposta": "a",
+   "explicacao": "Logística reversa é a devolução do produto ao fabricante ao fim da vida útil, prevista na Política Nacional de Resíduos Sólidos. Ela recupera o que tem valor e retira de circulação metais pesados, que não se degradam e bioacumulam nos organismos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
    "id": "dir-ciencias-natureza-11",
    "texto_apoio": "A separação de resíduos sólidos urbanos em recicláveis e não recicláveis é uma prática incentivada por políticas públicas de gestão ambiental.",
    "enunciado": "Do ponto de vista químico, uma das razões pelas quais plásticos comuns, como o PET, demoram muito tempo para se decompor no ambiente é",
@@ -9988,6 +10379,363 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Pelo princípio de Le Chatelier, aumentar a concentração de CO2 desloca o equilíbrio para a direita, aumentando a formação de H2CO3 e, consequentemente, de H⁺ e HCO3⁻ — elevando a concentração de íons H⁺ e, portanto, a acidez do meio (diminuindo o pH).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-323",
+   "texto_apoio": "Considere o equilíbrio químico N₂(g) + 3 H₂(g) ⇌ 2 NH₃(g), realizado em recipiente fechado a temperatura constante.",
+   "enunciado": "Ao se reduzir o volume do recipiente, o equilíbrio se desloca no sentido:",
+   "alternativas": {
+    "a": "da formação de amônia, que corresponde ao lado com menor número de partículas gasosas",
+    "b": "dos reagentes, porque o aumento de pressão favorece as substâncias de partida do processo industrial",
+    "c": "nenhum, já que a variação de volume não afeta sistemas em equilíbrio químico",
+    "d": "da formação de amônia, porque a reação passa a liberar mais calor ao ambiente",
+    "e": "dos reagentes, uma vez que o gás hidrogênio ocupa maior volume que os demais"
+   },
+   "resposta": "a",
+   "explicacao": "Reduzir o volume aumenta a pressão, e o princípio de Le Chatelier prevê deslocamento para o lado de menor número de partículas gasosas: são quatro volumes à esquerda e dois à direita, então o equilíbrio caminha para a amônia. É por isso que a síntese industrial opera sob pressão elevada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-324",
+   "texto_apoio": "A reação 2 SO₂(g) + O₂(g) ⇌ 2 SO₃(g) é exotérmica, liberando calor no sentido da formação do produto.",
+   "enunciado": "Um aumento de temperatura nesse sistema em equilíbrio provoca:",
+   "alternativas": {
+    "a": "aumento da quantidade de SO₃, pois toda elevação de temperatura acelera a formação de produtos",
+    "b": "aumento da quantidade de SO₃, já que o calor fornecido é incorporado à substância formada",
+    "c": "deslocamento no sentido dos reagentes, porque o sistema absorve o calor adicionado",
+    "d": "nenhuma alteração, uma vez que a temperatura não interfere na posição do equilíbrio",
+    "e": "interrupção da reação direta, que passa a ocorrer apenas no sentido inverso do processo"
+   },
+   "resposta": "c",
+   "explicacao": "Numa reação exotérmica, o calor pode ser tratado como produto. Adicionar calor é adicionar produto, e o sistema responde consumindo-o: o equilíbrio se desloca para os reagentes e o valor de Kc diminui. Temperatura é a única variável que altera a constante de equilíbrio. O SO₃ formado, aliás, reage com a água das nuvens e origina ácido sulfúrico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-325",
+   "texto_apoio": "No equilíbrio químico H₂(g) + I₂(g) ⇌ 2 HI(g), um estudante injeta uma quantidade adicional de gás hidrogênio no recipiente fechado, mantendo a temperatura constante.",
+   "enunciado": "Após a injeção, observa-se que:",
+   "alternativas": {
+    "a": "o valor da constante de equilíbrio aumenta, pois há mais reagente disponível no sistema",
+    "b": "a reação cessa até que o excesso de hidrogênio seja removido do recipiente fechado",
+    "c": "o equilíbrio se desloca no sentido dos reagentes, para consumir o gás introduzido",
+    "d": "as concentrações de todas as substâncias permanecem exatamente como estavam antes",
+    "e": "o equilíbrio se desloca no sentido do HI, e a constante de equilíbrio não se altera"
+   },
+   "resposta": "e",
+   "explicacao": "Adicionar reagente desloca o equilíbrio no sentido dos produtos, consumindo parte do que foi introduzido. As concentrações mudam, mas a razão entre elas volta ao mesmo valor: só a temperatura altera Kc.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-326",
+   "texto_apoio": "Para o equilíbrio químico aA + bB ⇌ cC + dD, define-se uma constante que relaciona as concentrações das espécies presentes quando o sistema deixa de apresentar variação.",
+   "enunciado": "A expressão correta da constante de equilíbrio Kc é:",
+   "alternativas": {
+    "a": "Kc = ([A]ᵃ · [B]ᵇ) / ([C]ᶜ · [D]ᵈ), com os reagentes no numerador da razão",
+    "b": "Kc = ([C]ᶜ · [D]ᵈ) / ([A]ᵃ · [B]ᵇ), com os expoentes iguais aos coeficientes",
+    "c": "Kc = ([C] + [D]) / ([A] + [B]), somando as concentrações de cada lado da equação",
+    "d": "Kc = [C] · [D] · [A] · [B], multiplicando todas as concentrações do sistema em equilíbrio",
+    "e": "Kc = ([C]ᶜ − [D]ᵈ) / ([A]ᵃ − [B]ᵇ), subtraindo as parcelas correspondentes a cada espécie"
+   },
+   "resposta": "b",
+   "explicacao": "A constante de equilíbrio é a razão entre o produto das concentrações dos produtos e o das concentrações dos reagentes, cada uma elevada ao respectivo coeficiente da equação ajustada. Sólidos e líquidos puros não entram na expressão, porque sua concentração é constante.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-327",
+   "texto_apoio": "Duas reações distintas atingem o equilíbrio químico na mesma temperatura: a primeira apresenta Kc igual a 1 × 10⁶ e a segunda, Kc igual a 1 × 10⁻⁴.",
+   "enunciado": "A comparação entre os dois valores permite concluir que:",
+   "alternativas": {
+    "a": "a primeira reação é mais rápida que a segunda, pois sua constante é maior",
+    "b": "a segunda reação atinge o equilíbrio em menos tempo que a primeira reação",
+    "c": "as duas reações apresentam a mesma proporção entre produtos e reagentes no final",
+    "d": "na primeira predominam os produtos, e na segunda predominam os reagentes",
+    "e": "a primeira reação libera calor, enquanto a segunda absorve calor do ambiente"
+   },
+   "resposta": "d",
+   "explicacao": "Kc alto significa numerador grande: no equilíbrio há muito mais produto que reagente. Kc pequeno indica o contrário. A constante informa a extensão da reação, e não sua velocidade — esta é assunto de cinética, e as duas coisas são independentes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-328",
+   "texto_apoio": "Um catalisador é adicionado a um sistema que já se encontra em equilíbrio químico, sem que a temperatura ou o volume sejam alterados.",
+   "enunciado": "O efeito dessa adição sobre o sistema é:",
+   "alternativas": {
+    "a": "nenhum sobre a posição do equilíbrio, pois as duas reações opostas são aceleradas igualmente",
+    "b": "o deslocamento no sentido dos produtos, que passam a se formar com maior facilidade",
+    "c": "o deslocamento no sentido dos reagentes, favorecidos pela diminuição da energia de ativação",
+    "d": "o aumento do valor da constante de equilíbrio, que passa a refletir a nova velocidade",
+    "e": "a interrupção do equilíbrio, que só se restabeleceria após a retirada do catalisador do meio reacional"
+   },
+   "resposta": "a",
+   "explicacao": "O catalisador abaixa a energia de ativação dos dois sentidos na mesma medida. O equilíbrio é alcançado mais depressa e no mesmo ponto: as concentrações finais e o valor de Kc permanecem inalterados. Num equilíbrio ácido-base, por exemplo, o catalisador não altera o pH do meio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-329",
+   "texto_apoio": "A escala de pH é logarítmica: cada unidade corresponde a uma variação de dez vezes na concentração de íons H⁺.",
+   "enunciado": "Comparando-se um suco de pH igual a 3 com um café de pH igual a 5, conclui-se que o suco é:",
+   "alternativas": {
+    "a": "duas vezes mais ácido, diferença que corresponde às duas unidades da escala",
+    "b": "vinte vezes mais ácido, resultado do produto entre as duas unidades da escala e o fator dez",
+    "c": "cem vezes mais ácido, pois duas unidades correspondem a um fator de dez ao quadrado",
+    "d": "menos ácido que o café, já que o valor numérico menor indica menor acidez do meio",
+    "e": "igualmente ácido, uma vez que ambos se situam abaixo do valor neutro da escala"
+   },
+   "resposta": "c",
+   "explicacao": "pH 3 corresponde a [H⁺] = 10⁻³ e pH 5, a 10⁻⁵. A razão entre elas é 10², ou seja, cem vezes. O caráter logarítmico da escala é justamente o que faz diferenças pequenas no número significarem diferenças grandes na acidez.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-330",
+   "texto_apoio": "Prepara-se uma amostra de ácido clorídrico com concentração igual a 0,01 mol/L, a 25 °C. Trata-se de um ácido forte, praticamente todo ionizado em água.",
+   "enunciado": "O pH dessa amostra e o caráter do meio ácido são, respectivamente:",
+   "alternativas": {
+    "a": "1 e ácido, valor obtido diretamente do algarismo da concentração informada",
+    "b": "2 e ácido, pois a ionização total leva [H⁺] ao mesmo valor da concentração inicial",
+    "c": "7 e neutro, já que a água dilui completamente o ácido adicionado ao sistema",
+    "d": "12 e básico, resultado da subtração da concentração informada ao valor máximo previsto na escala",
+    "e": "0,01 e ácido, uma vez que o pH corresponde ao próprio valor da concentração"
+   },
+   "resposta": "b",
+   "explicacao": "Sendo ácido forte, a ionização é praticamente completa: [H⁺] = 0,01 = 10⁻² mol/L, e pH = −log(10⁻²) = 2. O erro frequente é confundir o expoente com o coeficiente da concentração.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-331",
+   "texto_apoio": "Duas soluções aquosas de mesma concentração são comparadas: uma de ácido clorídrico e outra de ácido acético. A primeira conduz corrente elétrica com intensidade bem maior que a segunda.",
+   "enunciado": "A diferença observada na condutividade se explica porque o ácido acético apresenta:",
+   "alternativas": {
+    "a": "maior massa molar, o que reduz a mobilidade das partículas presentes no meio aquoso",
+    "b": "caráter básico, que impede a liberação de íons hidrogênio na solução preparada",
+    "c": "ligações iônicas, ao contrário do ácido clorídrico, que é um composto molecular",
+    "d": "temperatura de ebulição mais alta, propriedade que limita a condução de corrente",
+    "e": "menor grau de ionização, liberando menos íons por ser um ácido fraco"
+   },
+   "resposta": "e",
+   "explicacao": "A condutividade depende da quantidade de íons livres. O ácido clorídrico é forte e ioniza-se quase por inteiro; o acético é fraco e estabelece equilíbrio em que a maior parte permanece na forma molecular. Mesma concentração, portanto, não significa mesma quantidade de íons.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-332",
+   "texto_apoio": "Na reação HCl + H₂O → H₃O⁺ + Cl⁻, o HCl sofre ionização em água, e a teoria de Brønsted-Lowry define ácido como espécie que doa próton e base como espécie que o recebe.",
+   "enunciado": "Nessa reação, o par conjugado formado pela água é:",
+   "alternativas": {
+    "a": "H₂O e Cl⁻, espécies que permanecem em solução após a transferência ocorrida",
+    "b": "HCl e Cl⁻, em que o ácido de partida origina sua própria base conjugada",
+    "c": "H₃O⁺ e Cl⁻, produtos resultantes da reação entre as duas espécies iniciais",
+    "d": "H₂O e H₃O⁺, em que a água atua como base e origina seu ácido conjugado",
+    "e": "HCl e H₃O⁺, ambos capazes de doar próton em meio aquoso diluído"
+   },
+   "resposta": "d",
+   "explicacao": "A água recebe o próton, portanto atua como base de Brønsted, e o que ela origina — o íon hidrônio — é seu ácido conjugado. O outro par é HCl e Cl⁻. Pares conjugados diferem sempre por um único próton.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-333",
+   "texto_apoio": "Segundo Arrhenius, ácido é toda substância que em água libera como único cátion o íon H⁺, e base é toda substância que em água libera como único ânion o íon OH⁻.",
+   "enunciado": "Entre as substâncias a seguir, é classificada como uma base de Arrhenius:",
+   "alternativas": {
+    "a": "o hidróxido de sódio, NaOH, que em água libera Na⁺ e OH⁻",
+    "b": "o cloreto de sódio, NaCl, que em água libera Na⁺ e Cl⁻",
+    "c": "o ácido sulfúrico, H₂SO₄, que em água libera H⁺ e sulfato",
+    "d": "o metano, CH₄, composto que não se dissocia ao ser colocado em água",
+    "e": "o dióxido de carbono, CO₂, gás que reage com a água sem liberar íons hidroxila"
+   },
+   "resposta": "a",
+   "explicacao": "A definição de Arrhenius exige liberação de hidroxila em meio aquoso, e o NaOH atende a isso. O NaCl é um sal, o H₂SO₄ é ácido, e o CO₂ produz ácido carbônico em água — atua, portanto, como óxido de caráter ácido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-334",
+   "texto_apoio": "Um estudante mistura volumes iguais de ácido clorídrico e hidróxido de sódio, ambos de mesma concentração, e mede o pH ao final do processo.",
+   "enunciado": "O produto principal e o pH esperado ao término dessa neutralização são:",
+   "alternativas": {
+    "a": "cloreto de sódio e pH próximo de 2, já que o ácido empregado é forte",
+    "b": "hidróxido de cloro e pH próximo de 12, em razão do excesso de hidroxila",
+    "c": "cloreto de sódio e água, com pH próximo de 7, pois o sal formado não sofre hidrólise",
+    "d": "gás cloro e pH próximo de 4, resultado da decomposição do ácido no meio aquoso",
+    "e": "ácido hipocloroso e pH próximo de 5, formado pela combinação direta entre as duas espécies presentes"
+   },
+   "resposta": "c",
+   "explicacao": "Ácido forte com base forte, em quantidades equivalentes, produz sal e água. O NaCl vem de ácido forte e base forte e não sofre hidrólise, de modo que o meio permanece neutro, com pH próximo de 7 a 25 °C.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-335",
+   "texto_apoio": "Em uma titulação, adiciona-se hidróxido de sódio de concentração conhecida a um volume de ácido de concentração desconhecida, na presença de fenolftaleína.",
+   "enunciado": "O ponto de viragem indicado pelo aparecimento da coloração rósea corresponde:",
+   "alternativas": {
+    "a": "ao início da reação, quando as primeiras gotas de titulante entram no frasco",
+    "b": "ao momento em que o ácido foi consumido, permitindo calcular sua concentração",
+    "c": "ao instante em que o indicador se decompõe pela ação da temperatura do meio",
+    "d": "ao ponto em que a reação se interrompe por esgotamento do titulante empregado",
+    "e": "à saturação da solução, a partir da qual o sal formado começa a se depositar"
+   },
+   "resposta": "b",
+   "explicacao": "A fenolftaleína é incolor em meio ácido e rósea em meio básico. A cor aparece quando o ácido acaba de ser neutralizado e a primeira fração de base fica livre. Conhecendo volume e concentração do titulante, calcula-se a concentração da amostra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-336",
+   "texto_apoio": "Dissolvem-se em água, separadamente, cloreto de sódio (NaCl) e acetato de sódio (CH₃COONa). O pH das duas soluções é medido a 25 °C.",
+   "enunciado": "Os valores de pH obtidos são, respectivamente:",
+   "alternativas": {
+    "a": "ácido e neutro, já que o cloreto proveniente do ácido clorídrico acidifica o meio",
+    "b": "básico e ácido, porque o sódio presente nos dois sais tem caráter alcalino marcante",
+    "c": "ácido e ácido, uma vez que todo sal dissolvido em água libera íons hidrogênio",
+    "d": "neutro e neutro, pois sais são compostos que não interferem no pH da solução",
+    "e": "neutro e básico, pois o íon acetato sofre hidrólise e libera hidroxila no meio"
+   },
+   "resposta": "e",
+   "explicacao": "O NaCl vem de ácido forte e base forte: nenhum íon reage com a água e o meio fica neutro. Já o acetato é base conjugada de um ácido fraco, retira próton da água e libera hidroxila, o que torna o meio básico. Essa é a hidrólise salina.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-337",
+   "texto_apoio": "O sangue humano mantém o pH entre 7,35 e 7,45 graças ao par H₂CO₃ / HCO₃⁻, que absorve tanto ácidos quanto bases produzidos pelo metabolismo.",
+   "enunciado": "Um sistema com esse comportamento é chamado de solução tampão porque:",
+   "alternativas": {
+    "a": "impede por completo a entrada de qualquer ácido na corrente sanguínea humana",
+    "b": "eleva progressivamente o pH conforme novos ácidos são produzidos pelo organismo",
+    "c": "converte o meio em neutro, com pH exatamente igual a 7 em qualquer circunstância",
+    "d": "resiste a variações de pH pela presença de um ácido fraco e sua base conjugada",
+    "e": "elimina os íons hidrogênio do meio por meio de reação irreversível e completa"
+   },
+   "resposta": "d",
+   "explicacao": "O tampão combina um ácido fraco com sua base conjugada. Chegando ácido, a base conjugada o neutraliza; chegando base, o ácido fraco reage com ela. O pH varia pouco até que a capacidade do tampão se esgote — e no sangue essa margem é estreita.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-338",
+   "texto_apoio": "A 25 °C, o produto iônico da água vale Kw = [H⁺] · [OH⁻] = 1 × 10⁻¹⁴.",
+   "enunciado": "Numa solução aquosa em que o pOH é igual a 9, o pH e o caráter do meio são:",
+   "alternativas": {
+    "a": "5 e ácido, resultado da diferença entre 14 e o valor de pOH informado",
+    "b": "9 e básico, pois pH e pOH assumem sempre o mesmo valor numérico",
+    "c": "23 e básico, obtido pela soma entre o pOH informado e o valor de referência",
+    "d": "14 e neutro, uma vez que a soma corresponde ao produto iônico da água",
+    "e": "1 e ácido, resultado da divisão do valor de referência pelo pOH informado"
+   },
+   "resposta": "a",
+   "explicacao": "De Kw decorre pH + pOH = 14 a 25 °C. Com pOH = 9, o pH é 5, abaixo de 7: meio ácido. Vale lembrar que a neutralidade só corresponde a pH 7 nessa temperatura — em outras, o valor de Kw muda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-339",
+   "texto_apoio": "A queima de combustíveis com enxofre lança SO₂ na atmosfera. O gás é oxidado a SO₃, que reage com a água das nuvens formando H₂SO₄ e reduzindo o pH da chuva.",
+   "enunciado": "Sobre a chuva ácida descrita nesse trecho, é correto afirmar que:",
+   "alternativas": {
+    "a": "ocorre apenas em regiões desérticas, onde a umidade do ar permanece muito baixa",
+    "b": "resulta da presença de bases fortes presentes nas gotas de água das nuvens",
+    "c": "corrói monumentos de mármore, pois o carbonato reage com o ácido formado",
+    "d": "eleva o pH dos lagos atingidos, tornando o meio favorável à vida aquática",
+    "e": "é neutralizada pelo gás carbônico atmosférico antes de alcançar a superfície"
+   },
+   "resposta": "c",
+   "explicacao": "O mármore é carbonato de cálcio, e carbonato reage com ácido liberando gás carbônico e corroendo a pedra. O meio ácido ataca a superfície exposta. Por isso estátuas e fachadas históricas perdem detalhes em cidades industriais. Nos lagos, a chuva ácida baixa o pH e compromete a vida aquática.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-340",
+   "texto_apoio": "Antiácidos estomacais contêm hidróxido de magnésio ou bicarbonato de sódio, indicados para o alívio da azia provocada pelo excesso de ácido clorídrico no estômago.",
+   "enunciado": "O princípio químico que fundamenta o uso desses medicamentos é:",
+   "alternativas": {
+    "a": "a diluição, que reduz a acidez pelo simples acréscimo de água ao conteúdo estomacal",
+    "b": "a neutralização, reação entre o ácido do estômago e a base contida no medicamento",
+    "c": "a decomposição do ácido clorídrico, convertido em substância de caráter neutro",
+    "d": "a precipitação do ácido, que se deposita no fundo do estômago sem reagir",
+    "e": "a evaporação do ácido, favorecida pela temperatura interna do corpo humano"
+   },
+   "resposta": "b",
+   "explicacao": "O componente do antiácido tem caráter básico e reage com o meio ácido do estômago produzindo sal e água, o que eleva o pH e alivia o desconforto. O bicarbonato libera gás carbônico na reação — daí o arroto que costuma acompanhar seu uso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-341",
+   "texto_apoio": "O carbonato de cálcio é pouco solúvel em água e apresenta produto de solubilidade Kps = [Ca²⁺] · [CO₃²⁻] em equilíbrio com o sólido depositado no fundo do recipiente.",
+   "enunciado": "Se a um sistema desses for adicionado cloreto de cálcio solúvel, observa-se que:",
+   "alternativas": {
+    "a": "o valor do Kps aumenta, acompanhando a maior quantidade de cálcio disponível",
+    "b": "todo o sólido depositado desaparece do fundo, pela ação do cloreto introduzido no meio",
+    "c": "nada se altera, pois o Kps depende apenas da massa de sólido presente no fundo",
+    "d": "o carbonato passa a se dispersar com mais facilidade no meio aquoso",
+    "e": "precipita mais carbonato de cálcio, por efeito do íon comum sobre o equilíbrio"
+   },
+   "resposta": "e",
+   "explicacao": "Acrescentar Ca²⁺ eleva o produto das concentrações acima do Kps, e o equilíbrio iônico se restabelece precipitando o excesso. É o efeito do íon comum: a solubilidade do sal diminui na presença de um íon que ele já possui. O Kps, porém, só muda com a temperatura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-342",
+   "texto_apoio": "Um indicador ácido-base é uma substância que apresenta cores distintas conforme o pH do meio em que se encontra. O azul de bromotimol é amarelo abaixo de pH 6,0 e azul acima de pH 7,6.",
+   "enunciado": "Ao se borbulhar gás carbônico em uma amostra de água contendo azul de bromotimol de coloração azul, espera-se que:",
+   "alternativas": {
+    "a": "a cor permaneça azul, pois o gás carbônico não interfere no pH da água",
+    "b": "a amostra fique incolor, já que o gás decompõe a molécula do indicador",
+    "c": "a cor se intensifique, indicando aumento do caráter básico da amostra",
+    "d": "a cor mude para amarelo, pois o CO₂ forma ácido carbônico e baixa o pH",
+    "e": "a amostra se torne vermelha, cor característica do meio fortemente básico"
+   },
+   "resposta": "d",
+   "explicacao": "O gás carbônico reage com a água formando ácido carbônico, que abaixa o pH da amostra. Cruzando a faixa de viragem, o azul de bromotimol passa de azul a amarelo. O experimento é o mesmo que explica a acidificação dos oceanos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-343",
+   "texto_apoio": "O grau de ionização (α) de um ácido é a razão entre a quantidade ionizada e a quantidade inicialmente dissolvida. Para um mesmo ácido fraco, esse valor cresce à medida que a solução é diluída.",
+   "enunciado": "Esse comportamento, conhecido como lei da diluição de Ostwald, ocorre porque:",
+   "alternativas": {
+    "a": "a diluição aumenta a constante de ionização Ka do ácido considerado",
+    "b": "a água adicionada reage com o ácido, convertendo-o em uma base conjugada",
+    "c": "a diluição afasta os íons e desloca o equilíbrio no sentido da ionização",
+    "d": "a quantidade total de ácido dissolvido cresce à medida que se adiciona água",
+    "e": "o ácido fraco passa a se comportar como ácido forte em soluções concentradas"
+   },
+   "resposta": "c",
+   "explicacao": "Diluir reduz as concentrações de todas as espécies, mas afeta mais o encontro entre os íons que refariam a molécula. O equilíbrio químico se desloca no sentido da ionização e α cresce, embora Ka permaneça o mesmo, já que depende apenas da temperatura.",
    "formato": "direta",
    "origem": "medicina"
   }

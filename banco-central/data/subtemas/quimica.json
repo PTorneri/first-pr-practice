@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-14",
  "frente": "quimica",
- "total": 322,
+ "total": 343,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -1935,6 +1935,132 @@
    "frenteDestino": "quimica",
    "pontos": 15,
    "margem": 10
+  },
+  "med-quimica-323": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-quimica-324": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-325": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-quimica-326": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-quimica-327": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-quimica-328": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-329": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-quimica-330": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-quimica-331": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-332": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-333": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-quimica-334": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-quimica-335": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-quimica-336": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-quimica-337": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-quimica-338": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-quimica-339": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-quimica-340": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-quimica-341": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-quimica-342": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-quimica-343": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 6
   }
  }
 }

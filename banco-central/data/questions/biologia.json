@@ -5931,6 +5931,374 @@
    "explicacao": "A nomenclatura binomial, criada por Lineu, atribui a cada ser vivo um nome científico de duas palavras em latim: a primeira indica o gênero, a segunda distingue a espécie dentro desse gênero — como em Homo sapiens. As demais alternativas descrevem outros sistemas ou conceitos reais da biologia, mas distintos dessa nomenclatura de duas palavras.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-362",
+   "texto_apoio": "Em um ecossistema costeiro, o fitoplâncton é consumido por pequenos crustáceos, que servem de alimento a sardinhas, das quais se alimentam atuns.",
+   "enunciado": "Nessa cadeia alimentar, as sardinhas ocupam a posição de:",
+   "alternativas": {
+    "a": "produtores, por converterem energia luminosa em matéria orgânica disponível",
+    "b": "consumidores secundários, situados no terceiro nível trófico dessa sequência",
+    "c": "decompositores, responsáveis pela devolução dos nutrientes ao meio ambiente",
+    "d": "consumidores de primeira ordem, alimentando-se diretamente dos produtores",
+    "e": "consumidores terciários, ocupando o nível mais alto da sequência apresentada"
+   },
+   "resposta": "b",
+   "explicacao": "O fitoplâncton é produtor e ocupa o primeiro nível trófico; os crustáceos, consumidores de primeira ordem, o segundo; as sardinhas, consumidores secundários, o terceiro; e os atuns, o quarto. A contagem começa sempre pelo produtor, por onde entra o fluxo de energia do ecossistema.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-363",
+   "texto_apoio": "Ao longo de uma cadeia alimentar, apenas cerca de dez por cento da energia contida em um nível trófico é incorporada ao nível seguinte.",
+   "enunciado": "A consequência ecológica direta dessa baixa eficiência de transferência é:",
+   "alternativas": {
+    "a": "o aumento do número de indivíduos a cada nível trófico percorrido na cadeia",
+    "b": "a igualdade de biomassa entre todos os níveis do ecossistema considerado",
+    "c": "a possibilidade de cadeias alimentares com dezenas de níveis tróficos sucessivos",
+    "d": "a limitação do número de níveis tróficos, em geral de quatro ou cinco na natureza",
+    "e": "o acúmulo progressivo de energia nos níveis superiores da pirâmide ecológica do ecossistema"
+   },
+   "resposta": "d",
+   "explicacao": "A maior parte da energia é dissipada como calor na respiração de cada nível. Depois de quatro ou cinco transferências resta pouco para sustentar uma população viável, e é essa perda que impõe o limite — não a falta de espécies disponíveis.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-364",
+   "texto_apoio": "Em uma teia alimentar de campo aberto, a onça é o único predador de capivaras e catetos. Após a caça intensiva, a população de onças desaparece da área.",
+   "enunciado": "O efeito imediato esperado sobre esse ecossistema é:",
+   "alternativas": {
+    "a": "o crescimento das populações de herbívoros, seguido de pressão sobre a vegetação",
+    "b": "a redução do número de herbívoros, que dependiam da onça para se alimentar",
+    "c": "a estabilidade completa da teia alimentar, que não depende do topo da cadeia",
+    "d": "o desaparecimento imediato de todas as espécies vegetais presentes na área",
+    "e": "a transformação dos herbívoros remanescentes em predadores de outras espécies presentes na área"
+   },
+   "resposta": "a",
+   "explicacao": "O predador de topo controla a densidade dos herbívoros. Removido esse controle, as populações crescem e a herbivoria aumenta, o que pode empobrecer a vegetação e alterar toda a teia alimentar — um efeito que se propaga de cima para baixo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-365",
+   "texto_apoio": "Todo ecossistema depende de organismos que produzem matéria orgânica, de organismos que a consomem e de organismos que devolvem os nutrientes ao meio.",
+   "enunciado": "A função dos decompositores nesse conjunto consiste em:",
+   "alternativas": {
+    "a": "produzir matéria orgânica a partir da energia solar captada pela vegetação",
+    "b": "transferir energia diretamente dos produtores aos consumidores terciários",
+    "c": "converter matéria orgânica morta em nutrientes minerais reaproveitáveis",
+    "d": "impedir a entrada de energia luminosa no ecossistema durante a noite",
+    "e": "consumir exclusivamente organismos vivos do primeiro nível trófico da cadeia"
+   },
+   "resposta": "c",
+   "explicacao": "Os decompositores quebram restos e excretas, devolvendo ao solo e à água os elementos que as plantas voltarão a absorver. Sem eles a matéria ficaria imobilizada nos cadáveres e os ciclos de nutrientes se interromperiam.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-366",
+   "texto_apoio": "O ciclo do carbono envolve trocas entre a atmosfera, os seres vivos, os oceanos e os depósitos do subsolo, mantidas em relativo equilíbrio ao longo de milhares de anos.",
+   "enunciado": "A ação humana que mais intensamente alterou esse ciclo nos últimos dois séculos foi:",
+   "alternativas": {
+    "a": "o cultivo de leguminosas, que retira carbono do solo em grande quantidade",
+    "b": "a criação de reservas naturais, que reduz a circulação de carbono entre os meios",
+    "c": "a irrigação agrícola, responsável pela maior parte das emissões registradas nas últimas décadas",
+    "d": "a pesca industrial, que remove o carbono estocado nos organismos marinhos",
+    "e": "a queima de combustíveis fósseis, que devolve à atmosfera carbono retido no subsolo"
+   },
+   "resposta": "e",
+   "explicacao": "O carvão e o petróleo guardaram carbono fora de circulação por milhões de anos. Queimá-los em poucas décadas devolve esse estoque à atmosfera em ritmo que os oceanos e a vegetação não conseguem absorver, o que desequilibra o ciclo do carbono.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-367",
+   "texto_apoio": "Embora o nitrogênio represente cerca de 78% da atmosfera, a maioria dos seres vivos não consegue utilizá-lo na forma de gás N₂.",
+   "enunciado": "A etapa do ciclo do nitrogênio que torna esse elemento disponível aos vegetais é a:",
+   "alternativas": {
+    "a": "evaporação, que transportaria o nitrogênio dissolvido na água até a parte aérea das plantas",
+    "b": "fixação, realizada por organismos que convertem o N₂ em compostos assimiláveis",
+    "c": "combustão, processo em que o nitrogênio do ar seria convertido em açúcar",
+    "d": "desnitrificação, que devolve nitrogênio à atmosfera na forma de gás livre",
+    "e": "sedimentação, pela qual o nitrogênio se depositaria no fundo dos corpos de água da região"
+   },
+   "resposta": "b",
+   "explicacao": "A fixação é feita sobretudo por microrganismos do solo e por aqueles que vivem nos nódulos das raízes de leguminosas. É por isso que o plantio de feijão ou soja em rotação enriquece o solo — a desnitrificação faz o caminho inverso, devolvendo N₂ ao ar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-368",
+   "texto_apoio": "O bioma ocupa a porção central do Brasil, apresenta duas estações bem marcadas, vegetação de árvores tortuosas e casca grossa, e sistema radicular profundo que alcança o lençol freático.",
+   "enunciado": "As características descritas identificam o:",
+   "alternativas": {
+    "a": "Pantanal, planície alagável marcada pelo pulso anual de inundação",
+    "b": "Pampa, formação de campos com predomínio de gramíneas no extremo sul",
+    "c": "Manguezal, ambiente de transição entre o continente e o oceano no litoral",
+    "d": "Cerrado, savana brasileira adaptada ao fogo e a solos ácidos e pobres",
+    "e": "Mata de Araucária, floresta de coníferas dos planaltos da região Sul"
+   },
+   "resposta": "d",
+   "explicacao": "Casca grossa e raiz profunda são adaptações do Cerrado ao fogo periódico e à seca prolongada. O bioma é considerado a savana de maior biodiversidade do planeta e funciona como caixa-d'água, alimentando bacias hidrográficas importantes do país.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-369",
+   "texto_apoio": "Em um bioma do interior nordestino, a vegetação perde as folhas na estação seca, muitas plantas armazenam água no caule e vários vegetais apresentam espinhos no lugar das folhas.",
+   "enunciado": "As adaptações descritas são típicas da:",
+   "alternativas": {
+    "a": "Caatinga, único bioma exclusivamente brasileiro, adaptado às condições do semiárido",
+    "b": "Floresta Amazônica, marcada por elevada umidade ao longo do ano inteiro",
+    "c": "Mata Atlântica, floresta úmida que acompanha boa parte do litoral do país",
+    "d": "Tundra, formação de baixas temperaturas com solo congelado em profundidade",
+    "e": "Taiga, floresta de coníferas típica das altas latitudes do hemisfério norte do planeta"
+   },
+   "resposta": "a",
+   "explicacao": "Perder folhas reduz a transpiração, o caule suculento estoca água e o espinho protege esse estoque dos herbívoros: são respostas à irregularidade das chuvas no semiárido. A Caatinga não ocorre em nenhum outro país, e seu ecossistema depende dessa irregularidade das chuvas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-370",
+   "texto_apoio": "Dados de satélite mostram que a conversão de trechos de floresta em pastagem reduz a evapotranspiração regional e, com ela, o volume de umidade transportado para outras regiões do continente.",
+   "enunciado": "O fenômeno descrito relaciona o desmatamento da Amazônia à:",
+   "alternativas": {
+    "a": "elevação do nível dos oceanos, provocada pelo derretimento das calotas polares",
+    "b": "formação de ilhas de calor restritas ao interior das grandes áreas urbanas",
+    "c": "redução das chuvas em regiões distantes, abastecidas pelos rios voadores",
+    "d": "diminuição da salinidade dos oceanos próximos à foz dos grandes rios",
+    "e": "expansão da cobertura vegetal nas áreas vizinhas às regiões desmatadas"
+   },
+   "resposta": "c",
+   "explicacao": "A floresta bombeia água do solo para a atmosfera, e essas massas úmidas — os rios voadores — alimentam a chuva do Centro-Sul do continente. Substituir árvores por pasto reduz esse bombeamento, e o efeito aparece longe do local desmatado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-371",
+   "texto_apoio": "A Mata Atlântica está hoje reduzida a cerca de doze por cento de sua área original, distribuída sobretudo em manchas pequenas e separadas por áreas urbanas e agrícolas.",
+   "enunciado": "O principal risco ecológico associado a essa fragmentação do habitat é:",
+   "alternativas": {
+    "a": "o aumento da diversidade genética das populações restritas a cada um dos fragmentos remanescentes",
+    "b": "a elevação do número de espécies exclusivas registradas em cada mancha isolada",
+    "c": "a expansão natural dos fragmentos até a recomposição da cobertura original",
+    "d": "a redução da temperatura média no interior de cada um dos trechos preservados",
+    "e": "o isolamento das populações, com perda de variabilidade e risco de extinção local"
+   },
+   "resposta": "e",
+   "explicacao": "Fragmentos pequenos sustentam populações pequenas, que perdem variabilidade genética e ficam vulneráveis a doenças e a eventos extremos. Sem corredores que liguem as manchas, não há troca de indivíduos, e extinções locais se acumulam.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-372",
+   "texto_apoio": "Uma área de floresta é destruída por um deslizamento que expõe a rocha nua. Décadas depois, liquens e musgos deram lugar a arbustos, e estes a árvores de pequeno porte.",
+   "enunciado": "O processo descrito nesse trecho é denominado:",
+   "alternativas": {
+    "a": "sucessão secundária, que ocorre onde o solo original permanece preservado",
+    "b": "sucessão primária, iniciada em ambiente sem solo formado previamente",
+    "c": "eutrofização, decorrente do excesso de nutrientes disponíveis no ambiente",
+    "d": "bioacumulação, com aumento da concentração de substâncias ao longo da cadeia",
+    "e": "especiação, com surgimento de novas espécies a partir do isolamento geográfico"
+   },
+   "resposta": "b",
+   "explicacao": "Rocha nua indica sucessão primária: não há solo, e os liquens são as espécies pioneiras que iniciam sua formação. Quando o solo permanece — como após uma queimada ou o abandono de uma lavoura — a sucessão é secundária e bem mais rápida, até a formação de um novo ecossistema florestal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-373",
+   "texto_apoio": "Duas espécies de aves ocupam a mesma área de floresta. Uma delas se alimenta de sementes duras no chão; a outra captura insetos na copa das árvores.",
+   "enunciado": "A situação descrita ilustra a diferença entre:",
+   "alternativas": {
+    "a": "população e comunidade, referentes a conjuntos de tamanhos distintos",
+    "b": "produtor e consumidor, definidos pela posição em relação à matéria orgânica",
+    "c": "espécie nativa e espécie invasora, distinguidas por sua origem geográfica em relação ao local",
+    "d": "habitat, que é o lugar em que a espécie vive, e nicho ecológico, o modo como vive",
+    "e": "cadeia e teia alimentar, conforme o número de sequências consideradas"
+   },
+   "resposta": "d",
+   "explicacao": "As duas aves compartilham o habitat — a mesma floresta — e ocupam nichos ecológicos diferentes: alimento, estrato e horário de atividade não coincidem. É essa separação que permite a convivência sem competição direta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-374",
+   "texto_apoio": "Em um experimento clássico, duas espécies de protozoários cultivadas separadamente prosperam. Cultivadas juntas, no mesmo recipiente e com o mesmo alimento, uma delas desaparece.",
+   "enunciado": "O resultado do experimento é explicado pela:",
+   "alternativas": {
+    "a": "competição interespecífica, em que a espécie menos eficiente é excluída do meio",
+    "b": "relação de mutualismo, em que ambas as espécies obtêm benefício da convivência",
+    "c": "predação direta de uma espécie sobre a outra dentro do recipiente utilizado",
+    "d": "decomposição acelerada dos nutrientes disponíveis no meio de cultura empregado",
+    "e": "seleção artificial exercida pelo pesquisador sobre as duas populações cultivadas"
+   },
+   "resposta": "a",
+   "explicacao": "Duas espécies com o mesmo nicho ecológico não coexistem indefinidamente: a mais eficiente no uso do recurso elimina a outra. É o princípio da exclusão competitiva — na natureza, o resultado costuma ser a separação dos nichos em vez do desaparecimento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-375",
+   "texto_apoio": "Os liquens resultam da associação entre um fungo e uma alga: o fungo fornece estrutura, umidade e proteção, e a alga fornece a matéria orgânica que produz a partir da luz.",
+   "enunciado": "A relação ecológica descrita é classificada como:",
+   "alternativas": {
+    "a": "parasitismo, em que o fungo obtém benefício às custas do organismo associado",
+    "b": "predatismo, com captura e consumo de uma espécie por outra na associação",
+    "c": "mutualismo, forma de simbiose em que ambas as espécies são beneficiadas",
+    "d": "competição intraespecífica, disputa entre indivíduos da mesma espécie",
+    "e": "comensalismo, em que apenas uma espécie ganha e a outra nada perde ou ganha"
+   },
+   "resposta": "c",
+   "explicacao": "Fungo e alga dependem um do outro e ambos ganham: é mutualismo, e como a associação é obrigatória e permanente, também se fala em simbiose. A mesma lógica vale para as micorrizas e para as bactérias fixadoras nas raízes das leguminosas, presentes em muitos ecossistemas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-376",
+   "texto_apoio": "A rêmora fixa-se ao corpo do tubarão por meio de uma ventosa dorsal e aproveita os restos de alimento que o predador deixa escapar, sem prejudicá-lo nem beneficiá-lo.",
+   "enunciado": "Essa relação ecológica é um exemplo de:",
+   "alternativas": {
+    "a": "parasitismo, pois a rêmora retira nutrientes diretamente do corpo do tubarão",
+    "b": "mutualismo, uma vez que ambas as espécies obtêm vantagem da associação",
+    "c": "competição, já que as duas espécies disputam a mesma fonte de alimento",
+    "d": "predatismo, com a rêmora atuando como predadora de organismos menores",
+    "e": "comensalismo, em que uma espécie se beneficia sem causar dano à outra"
+   },
+   "resposta": "e",
+   "explicacao": "No comensalismo o saldo é positivo para um e neutro para o outro. A rêmora ganha transporte e alimento; o tubarão segue indiferente. No parasitismo haveria prejuízo, e no mutualismo, benefício para os dois lados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-377",
+   "texto_apoio": "Registros de longo prazo mostram que as populações de lince e de lebre em uma região do norte do Canadá oscilam em ciclos, com os picos de lince ocorrendo pouco depois dos picos de lebre.",
+   "enunciado": "O padrão descrito é característico da relação de:",
+   "alternativas": {
+    "a": "comensalismo, em que apenas uma das espécies obtém vantagem da convivência",
+    "b": "predatismo, em que a densidade do predador acompanha a da presa com atraso",
+    "c": "mutualismo, com benefício simultâneo para as duas populações registradas",
+    "d": "parasitismo, com o predador vivendo às custas da presa sem provocar sua morte",
+    "e": "competição interespecífica pelo mesmo recurso alimentar disponível na região"
+   },
+   "resposta": "b",
+   "explicacao": "Muita lebre alimenta muito lince; muito lince derruba a população de lebre; sem presa, o lince declina e a lebre se recupera. A defasagem entre os picos é a assinatura da predação, e o par lince-lebre é o exemplo clássico desse controle recíproco.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-378",
+   "texto_apoio": "O caramujo-africano foi trazido ao Brasil para criação comercial, escapou dos criadouros e hoje ocorre em quase todos os estados, sem predadores naturais que limitem sua expansão.",
+   "enunciado": "O caso descrito ilustra o problema ecológico causado por uma espécie:",
+   "alternativas": {
+    "a": "endêmica, restrita a uma única região geográfica em todo o planeta",
+    "b": "ameaçada de extinção, cuja população decresce de forma acelerada",
+    "c": "pioneira, primeira a colonizar ambientes recém-formados e sem solo",
+    "d": "invasora, que se estabelece fora de sua área original e desloca as nativas",
+    "e": "indicadora, cuja presença ou ausência revela a qualidade ambiental do local analisado"
+   },
+   "resposta": "d",
+   "explicacao": "Fora de sua área original, a espécie chega sem os predadores e parasitas que a controlavam, e sua população cresce sem freio. O resultado é competição com espécies nativas, perda de biodiversidade e, no caso do caramujo, transmissão de parasitas ao ser humano.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-379",
+   "texto_apoio": "Análises em uma baía contaminada por mercúrio encontraram 0,001 ppm do metal na água, 0,05 ppm no plâncton, 2 ppm nos peixes pequenos e 15 ppm nos peixes predadores de maior porte.",
+   "enunciado": "O padrão observado nessas medições recebe o nome de:",
+   "alternativas": {
+    "a": "magnificação trófica, com aumento da concentração ao longo da cadeia alimentar",
+    "b": "eutrofização, decorrente do excesso de nutrientes lançados no corpo de água",
+    "c": "sucessão ecológica, com substituição gradual das espécies presentes na baía",
+    "d": "diluição progressiva, com redução da concentração a cada nível trófico percorrido",
+    "e": "fixação biológica, com incorporação do metal às estruturas rígidas dos organismos"
+   },
+   "resposta": "a",
+   "explicacao": "Metais pesados não são excretados nem degradados: acumulam-se no organismo e passam inteiros ao predador, que come muitas presas ao longo da vida. Por isso a concentração multiplica-se a cada nível — e o topo da cadeia, inclusive o ser humano, recebe a maior dose.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-380",
+   "texto_apoio": "Após anos recebendo esgoto doméstico e fertilizantes carregados pela chuva, um lago apresenta intensa proliferação de algas na superfície, água turva e mortandade de peixes no fundo.",
+   "enunciado": "A sequência de eventos descrita caracteriza a:",
+   "alternativas": {
+    "a": "bioacumulação, com concentração de substâncias tóxicas nos tecidos dos peixes",
+    "b": "chuva ácida, provocada pela reação entre gases poluentes e a água das nuvens",
+    "c": "eutrofização, em que o excesso de nutrientes leva à queda do oxigênio dissolvido",
+    "d": "salinização, decorrente do acúmulo de sais minerais na superfície do corpo de água",
+    "e": "desertificação, processo de perda de fertilidade e cobertura vegetal do solo"
+   },
+   "resposta": "c",
+   "explicacao": "Nitrogênio e fósforo em excesso disparam a proliferação de algas, que bloqueia a luz e morre em massa. A decomposição dessa biomassa consome o oxigênio dissolvido, e os peixes morrem por asfixia, o que desorganiza o ecossistema do lago. O nutriente que sustenta a vida, em excesso, a elimina.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-381",
+   "texto_apoio": "Parte da radiação solar que aquece a superfície terrestre é reemitida como radiação infravermelha. Gases como CO₂, metano e vapor de água absorvem essa radiação e a devolvem à superfície.",
+   "enunciado": "Sobre o efeito estufa e o aquecimento global, é correto afirmar que:",
+   "alternativas": {
+    "a": "o efeito estufa é um fenômeno artificial, surgido apenas após a industrialização",
+    "b": "a eliminação completa dos gases estufa tornaria o planeta mais habitável",
+    "c": "o buraco na camada de ozônio seria a causa direta do aumento da temperatura média do planeta",
+    "d": "o aumento da temperatura decorre da maior proximidade entre a Terra e o Sol",
+    "e": "o efeito é natural e necessário, mas sua intensificação eleva a temperatura média"
+   },
+   "resposta": "e",
+   "explicacao": "Sem efeito estufa a temperatura média do planeta ficaria dezenas de graus abaixo de zero. O problema é a intensificação causada pelo acréscimo de gases de origem humana. A destruição da camada de ozônio é outro fenômeno, com causas e consequências distintas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-382",
+   "texto_apoio": "Um levantamento em área rural encontrou embalagens de agrotóxico descartadas a céu aberto, próximas a uma nascente utilizada para consumo humano.",
+   "enunciado": "O principal risco ambiental associado a esse descarte inadequado é:",
+   "alternativas": {
+    "a": "a redução da temperatura média do solo no entorno da área analisada",
+    "b": "a contaminação do solo e da água subterrânea pelos resíduos remanescentes",
+    "c": "o aumento da fertilidade natural da área em razão dos compostos presentes",
+    "d": "a aceleração do processo de decomposição da matéria orgânica do local",
+    "e": "a formação de uma camada protetora sobre a superfície da nascente atingida"
+   },
+   "resposta": "b",
+   "explicacao": "A chuva lixivia o resíduo remanescente, que percola o solo e alcança o lençol freático, de onde a nascente se abastece. Trata-se de poluição difusa, e por isso a legislação exige tríplice lavagem e devolução das embalagens — uma vez no aquífero, a contaminação é de remoção lenta e cara.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-383",
+   "texto_apoio": "Em um lixão a céu aberto, a decomposição do material orgânico produz um líquido escuro de elevada carga poluidora, que escorre pelo terreno e atinge cursos de água próximos.",
+   "enunciado": "O líquido descrito e a alternativa tecnicamente adequada de destinação são, respectivamente:",
+   "alternativas": {
+    "a": "chorume e a queima a céu aberto do material orgânico acumulado no terreno do depósito",
+    "b": "esgoto sanitário e o lançamento direto no curso de água mais próximo",
+    "c": "efluente industrial e o armazenamento indefinido em tanques abertos",
+    "d": "chorume e o aterro sanitário, com impermeabilização do solo e drenagem",
+    "e": "água pluvial e a infiltração natural no solo do entorno do depósito"
+   },
+   "resposta": "d",
+   "explicacao": "O chorume tem carga orgânica muito superior à do esgoto doméstico. O aterro sanitário difere do lixão justamente por impermeabilizar a base, drenar e tratar esse líquido e captar o biogás. A Política Nacional de Resíduos Sólidos determinou o fim dos lixões.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-384",
+   "texto_apoio": "Aparelhos eletrônicos descartados contêm chumbo, cádmio e mercúrio, além de metais de valor econômico como ouro e cobre, presentes em quantidade pequena por unidade.",
+   "enunciado": "Sobre o descarte de lixo eletrônico, é correto afirmar que:",
+   "alternativas": {
+    "a": "a logística reversa permite recuperar materiais e evitar a contaminação ambiental",
+    "b": "esses resíduos podem ser destinados junto ao lixo comum, por serem de pequeno volume",
+    "c": "a incineração a céu aberto é a destinação recomendada para esse tipo de material",
+    "d": "os metais presentes se degradam naturalmente no solo em poucos meses de exposição",
+    "e": "a presença de metais valiosos torna o descarte irrelevante do ponto de vista ambiental"
+   },
+   "resposta": "a",
+   "explicacao": "Logística reversa é a devolução do produto ao fabricante ao fim da vida útil, prevista na Política Nacional de Resíduos Sólidos. Ela recupera o que tem valor e retira de circulação metais pesados, que não se degradam e bioacumulam nos organismos.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "textos": [

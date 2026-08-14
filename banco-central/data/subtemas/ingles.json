@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-14",
  "frente": "ingles",
- "total": 432,
+ "total": 442,
  "residuo": [
   "med-ingles-44",
   "med-ingles-46",
@@ -2497,6 +2497,66 @@
    "frenteDestino": "ingles",
    "pontos": 9,
    "margem": 9
+  },
+  "med-ingles-223": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-224": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-225": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-226": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-227": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-228": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-229": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-ingles-230": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-231": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-232": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
   }
  }
 }

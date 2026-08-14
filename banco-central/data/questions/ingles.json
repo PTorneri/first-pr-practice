@@ -7394,6 +7394,166 @@
    "explicacao": "Os três enganam por semelhança: \"college\" costuma ser faculdade (não colégio, que é \"high school\"), \"actual\" significa real, verdadeiro (não atual, que é \"current\"), e \"lecture\" é aula expositiva ou palestra (não leitura, que é \"reading\").",
    "formato": "lacunas",
    "origem": "medicina"
+  },
+  {
+   "id": "med-ingles-223",
+   "texto_apoio": "The hospital ______ its emergency protocol three times since the pandemic began, and the staff say the latest version is finally workable.",
+   "enunciado": "O adjunto \"since the pandemic began\" condiciona o tempo verbal da lacuna, que deve ser preenchida por:",
+   "alternativas": {
+    "a": "revised, no simple past, usado para fatos concluídos em momento definido do passado",
+    "b": "was revising, no past continuous, que descreve ação em curso em determinado momento passado",
+    "c": "has revised, no present perfect, exigido pelo período aberto que \"since\" inaugura",
+    "d": "will revise, no simple future, que projeta a ação para depois do momento da fala",
+    "e": "had revised, no past perfect, que situa a ação antes de outro fato passado do relato"
+   },
+   "resposta": "c",
+   "explicacao": "\"Since\" abre um período que começa no passado e chega ao presente, e é esse recorte que o present perfect marca. O simple past pediria um marcador fechado, como \"in 2020\"; o past perfect precisaria de um segundo fato passado que a frase não apresenta.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-ingles-224",
+   "texto_apoio": "Direct speech: The researcher said, \"We are still collecting data on the second group.\"",
+   "enunciado": "Na conversão para reported speech, mantido o verbo introdutório no passado, a forma correta é:",
+   "alternativas": {
+    "a": "The researcher said that they were still collecting data on the second group.",
+    "b": "The researcher said that they are still collecting data on the second group.",
+    "c": "The researcher said that they have still collected data on the second group.",
+    "d": "The researcher said that we were still collecting data on the second group.",
+    "e": "The researcher said that they had still been collecting data on the second group."
+   },
+   "resposta": "a",
+   "explicacao": "Com o verbo introdutório no passado, o present continuous recua para o past continuous, e o pronome de primeira pessoa passa à terceira. A alternativa (d) faz o recuo do tempo verbal e esquece o pronome — erro mais frequente que o do tempo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-ingles-225",
+   "texto_apoio": "A note in a clinical handbook: \"Patients ______ take this medication on an empty stomach; the manufacturer lists nausea as a frequent effect.\"",
+   "enunciado": "O verbo modal que completa a lacuna com sentido de recomendação, e não de proibição, é:",
+   "alternativas": {
+    "a": "must not, que converteria a orientação em proibição formal do fabricante",
+    "b": "cannot, que negaria a possibilidade de realizar a ação descrita na frase",
+    "c": "need not, que indicaria ausência de obrigação quanto à conduta descrita no texto",
+    "d": "should not, que expressa conselho contrário à prática mencionada no texto",
+    "e": "will not, que projetaria a recusa do paciente para um momento futuro"
+   },
+   "resposta": "d",
+   "explicacao": "\"Should not\" registra recomendação: o fabricante desaconselha, não impede. \"Must not\" e \"cannot\" transformariam a orientação em proibição, e \"need not\" diria o oposto — que tomar em jejum é indiferente.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-ingles-226",
+   "texto_apoio": "Active voice: \"The committee will announce the results of the trial next Monday.\"",
+   "enunciado": "A frase acima, reescrita na voz passiva sem alteração do tempo verbal, corresponde a:",
+   "alternativas": {
+    "a": "The results of the trial are announced by the committee next Monday.",
+    "b": "The results of the trial will be announced by the committee next Monday.",
+    "c": "The results of the trial have been announced by the committee next Monday.",
+    "d": "The results of the trial were announced by the committee next Monday.",
+    "e": "The committee will be announced the results of the trial next Monday."
+   },
+   "resposta": "b",
+   "explicacao": "O objeto passa a sujeito e o auxiliar \"be\" assume o mesmo tempo do original — futuro com \"will\" —, seguido do particípio. A alternativa (e) está bem formada e diz outra coisa: nela é o comitê que seria anunciado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-ingles-227",
+   "texto_apoio": "\"If the new ward had opened in March, we ______ the worst weeks of the winter,\" the head nurse said, looking at the crowded corridor.",
+   "enunciado": "A condição em past perfect fixa a terceira condicional, e a oração principal deve ser completada por:",
+   "alternativas": {
+    "a": "avoid, no presente simples",
+    "b": "avoided, no past simple",
+    "c": "will avoid, no simple future, que deslocaria o efeito para depois do momento da fala",
+    "d": "would avoid, com \"would\" mais infinitivo",
+    "e": "would have avoided, com \"would have\" mais particípio"
+   },
+   "resposta": "e",
+   "explicacao": "Na terceira condicional, a hipótese sobre um passado que não se realizou pede \"would have\" mais particípio no resultado. \"Would avoid\" pertence à segunda condicional e projetaria o efeito para o presente, leitura que o corredor lotado do fecho desmente.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-ingles-228",
+   "texto_apoio": "Telemedicine reduced the number of missed appointments in rural districts. ______, it also widened the gap between patients who own a smartphone and those who do not.",
+   "enunciado": "O conectivo que preenche a lacuna e estabelece uma relação de contraste entre os dois períodos é:",
+   "alternativas": {
+    "a": "However, que introduz a ressalva ao resultado positivo apresentado antes",
+    "b": "Therefore, que apresentaria o segundo período como consequência do primeiro",
+    "c": "Moreover, que somaria ao primeiro período um argumento de mesmo sinal",
+    "d": "Because of that, que atribuiria ao primeiro período a causa do que vem depois",
+    "e": "For instance, que anunciaria um exemplo particular do que foi afirmado antes"
+   },
+   "resposta": "a",
+   "explicacao": "O segundo período não decorre do primeiro nem o reforça: opõe um efeito indesejado ao ganho já registrado. \"However\" marca essa oposição; \"therefore\" e \"because of that\" inverteriam a relação em causa e consequência.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-ingles-229",
+   "texto_apoio": "Compare: (1) \"The nurses who work night shifts receive an extra allowance.\" (2) \"The nurses, who work night shifts, receive an extra allowance.\"",
+   "enunciado": "A diferença de sentido entre as duas frases, marcada pela pontuação da relative clause, é que:",
+   "alternativas": {
+    "a": "em (1) a informação sobre os turnos vale para o conjunto dos profissionais citados",
+    "b": "em (2) somente parte dos profissionais citados recebe o adicional mencionado",
+    "c": "em (1) só parte dos profissionais recebe o adicional; em (2), o grupo inteiro",
+    "d": "as duas frases dizem o mesmo, e as vírgulas apenas facilitam a leitura em voz alta",
+    "e": "em (2) a oração relativa restringe o grupo e em (1) apenas acrescenta um dado"
+   },
+   "resposta": "c",
+   "explicacao": "Sem vírgulas, a relative clause é restritiva e recorta um subconjunto: recebe quem trabalha à noite. Entre vírgulas, ela é explicativa e vale para o grupo já identificado, que passa a receber o adicional por inteiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-ingles-230",
+   "texto_apoio": "\"We had to call off the vaccination campaign in two districts after the refrigeration units failed,\" the coordinator explained.",
+   "enunciado": "Sobre o phrasal verb \"call off\" empregado no texto, é correto afirmar que:",
+   "alternativas": {
+    "a": "não admite objeto e por isso permanece sem complemento na construção apresentada",
+    "b": "é inseparável, e o objeto ocupa obrigatoriamente a posição posterior à partícula",
+    "c": "corresponde a \"call for\", com o qual alterna livremente na norma escrita da língua",
+    "d": "é separável, e admite tanto \"call off the campaign\" quanto \"call the campaign off\"",
+    "e": "funciona como verbo modal e por isso dispensa o auxiliar nas formas interrogativas"
+   },
+   "resposta": "d",
+   "explicacao": "\"Call off\" é o verbo usado para cancelar um evento já marcado, e é separável: o objeto pode ficar depois da partícula ou entre o verbo e ela. Com pronome, porém, a separação passa a ser obrigatória — \"call it off\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-ingles-231",
+   "texto_apoio": "The report ends with a single sentence: \"No hospital in the region has a paediatric intensive care bed.\"",
+   "enunciado": "Os dois-pontos empregados nesse período têm a função de:",
+   "alternativas": {
+    "a": "opor ao que foi dito antes uma informação de sentido contrário",
+    "b": "anunciar o enunciado que fecha o relatório, apresentado logo em seguida",
+    "c": "separar itens de uma enumeração distribuída ao longo do mesmo período",
+    "d": "assinalar a supressão de um trecho considerado dispensável pelo autor",
+    "e": "indicar a interrupção da fala e a passagem para outro assunto do relatório"
+   },
+   "resposta": "b",
+   "explicacao": "Os dois-pontos anunciam o que vem depois — aqui, a frase que encerra o relatório. Não estabelecem oposição, que ficaria a cargo de um conectivo, nem marcam supressão, papel das reticências ou dos colchetes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-ingles-232",
+   "texto_apoio": "For decades, the standard advice was to keep newborns in a warm room and away from visitors. Then a series of studies in the 1990s showed that skin-to-skin contact in the first hour improved both feeding and temperature control. Today most maternity wards encourage the practice, though staffing shortages still keep it from becoming routine in smaller units.",
+   "enunciado": "O texto se organiza, na ordem, do seguinte modo:",
+   "alternativas": {
+    "a": "definição de um conceito, exemplo prático e crítica final ao modelo adotado",
+    "b": "denúncia de um problema, apresentação de dados e proposta de solução imediata",
+    "c": "pergunta inicial, levantamento de hipóteses e escolha da mais provável entre elas",
+    "d": "narrativa de um caso individual, generalização e retorno ao caso apresentado",
+    "e": "prática antiga, evidência que a alterou e situação atual com uma ressalva"
+   },
+   "resposta": "e",
+   "explicacao": "O parágrafo vai do \"for decades\" ao \"today\", e o \"though\" do fecho introduz a ressalva sobre as unidades menores. Não há pergunta inicial nem proposta de solução: o texto descreve uma mudança e o limite dela.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "textos": [

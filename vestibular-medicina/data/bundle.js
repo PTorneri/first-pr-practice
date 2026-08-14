@@ -55068,6 +55068,176 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "dificuldade": "dificil",
    "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-223",
+   "texto_apoio": "The hospital ______ its emergency protocol three times since the pandemic began, and the staff say the latest version is finally workable.",
+   "enunciado": "O adjunto \"since the pandemic began\" condiciona o tempo verbal da lacuna, que deve ser preenchida por:",
+   "alternativas": {
+    "a": "revised, no simple past, usado para fatos concluídos em momento definido do passado",
+    "b": "was revising, no past continuous, que descreve ação em curso em determinado momento passado",
+    "c": "has revised, no present perfect, exigido pelo período aberto que \"since\" inaugura",
+    "d": "will revise, no simple future, que projeta a ação para depois do momento da fala",
+    "e": "had revised, no past perfect, que situa a ação antes de outro fato passado do relato"
+   },
+   "resposta": "c",
+   "explicacao": "\"Since\" abre um período que começa no passado e chega ao presente, e é esse recorte que o present perfect marca. O simple past pediria um marcador fechado, como \"in 2020\"; o past perfect precisaria de um segundo fato passado que a frase não apresenta.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-224",
+   "texto_apoio": "Direct speech: The researcher said, \"We are still collecting data on the second group.\"",
+   "enunciado": "Na conversão para reported speech, mantido o verbo introdutório no passado, a forma correta é:",
+   "alternativas": {
+    "a": "The researcher said that they were still collecting data on the second group.",
+    "b": "The researcher said that they are still collecting data on the second group.",
+    "c": "The researcher said that they have still collected data on the second group.",
+    "d": "The researcher said that we were still collecting data on the second group.",
+    "e": "The researcher said that they had still been collecting data on the second group."
+   },
+   "resposta": "a",
+   "explicacao": "Com o verbo introdutório no passado, o present continuous recua para o past continuous, e o pronome de primeira pessoa passa à terceira. A alternativa (d) faz o recuo do tempo verbal e esquece o pronome — erro mais frequente que o do tempo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-225",
+   "texto_apoio": "A note in a clinical handbook: \"Patients ______ take this medication on an empty stomach; the manufacturer lists nausea as a frequent effect.\"",
+   "enunciado": "O verbo modal que completa a lacuna com sentido de recomendação, e não de proibição, é:",
+   "alternativas": {
+    "a": "must not, que converteria a orientação em proibição formal do fabricante",
+    "b": "cannot, que negaria a possibilidade de realizar a ação descrita na frase",
+    "c": "need not, que indicaria ausência de obrigação quanto à conduta descrita no texto",
+    "d": "should not, que expressa conselho contrário à prática mencionada no texto",
+    "e": "will not, que projetaria a recusa do paciente para um momento futuro"
+   },
+   "resposta": "d",
+   "explicacao": "\"Should not\" registra recomendação: o fabricante desaconselha, não impede. \"Must not\" e \"cannot\" transformariam a orientação em proibição, e \"need not\" diria o oposto — que tomar em jejum é indiferente.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-226",
+   "texto_apoio": "Active voice: \"The committee will announce the results of the trial next Monday.\"",
+   "enunciado": "A frase acima, reescrita na voz passiva sem alteração do tempo verbal, corresponde a:",
+   "alternativas": {
+    "a": "The results of the trial are announced by the committee next Monday.",
+    "b": "The results of the trial will be announced by the committee next Monday.",
+    "c": "The results of the trial have been announced by the committee next Monday.",
+    "d": "The results of the trial were announced by the committee next Monday.",
+    "e": "The committee will be announced the results of the trial next Monday."
+   },
+   "resposta": "b",
+   "explicacao": "O objeto passa a sujeito e o auxiliar \"be\" assume o mesmo tempo do original — futuro com \"will\" —, seguido do particípio. A alternativa (e) está bem formada e diz outra coisa: nela é o comitê que seria anunciado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-227",
+   "texto_apoio": "\"If the new ward had opened in March, we ______ the worst weeks of the winter,\" the head nurse said, looking at the crowded corridor.",
+   "enunciado": "A condição em past perfect fixa a terceira condicional, e a oração principal deve ser completada por:",
+   "alternativas": {
+    "a": "avoid, no presente simples",
+    "b": "avoided, no past simple",
+    "c": "will avoid, no simple future, que deslocaria o efeito para depois do momento da fala",
+    "d": "would avoid, com \"would\" mais infinitivo",
+    "e": "would have avoided, com \"would have\" mais particípio"
+   },
+   "resposta": "e",
+   "explicacao": "Na terceira condicional, a hipótese sobre um passado que não se realizou pede \"would have\" mais particípio no resultado. \"Would avoid\" pertence à segunda condicional e projetaria o efeito para o presente, leitura que o corredor lotado do fecho desmente.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-228",
+   "texto_apoio": "Telemedicine reduced the number of missed appointments in rural districts. ______, it also widened the gap between patients who own a smartphone and those who do not.",
+   "enunciado": "O conectivo que preenche a lacuna e estabelece uma relação de contraste entre os dois períodos é:",
+   "alternativas": {
+    "a": "However, que introduz a ressalva ao resultado positivo apresentado antes",
+    "b": "Therefore, que apresentaria o segundo período como consequência do primeiro",
+    "c": "Moreover, que somaria ao primeiro período um argumento de mesmo sinal",
+    "d": "Because of that, que atribuiria ao primeiro período a causa do que vem depois",
+    "e": "For instance, que anunciaria um exemplo particular do que foi afirmado antes"
+   },
+   "resposta": "a",
+   "explicacao": "O segundo período não decorre do primeiro nem o reforça: opõe um efeito indesejado ao ganho já registrado. \"However\" marca essa oposição; \"therefore\" e \"because of that\" inverteriam a relação em causa e consequência.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-229",
+   "texto_apoio": "Compare: (1) \"The nurses who work night shifts receive an extra allowance.\" (2) \"The nurses, who work night shifts, receive an extra allowance.\"",
+   "enunciado": "A diferença de sentido entre as duas frases, marcada pela pontuação da relative clause, é que:",
+   "alternativas": {
+    "a": "em (1) a informação sobre os turnos vale para o conjunto dos profissionais citados",
+    "b": "em (2) somente parte dos profissionais citados recebe o adicional mencionado",
+    "c": "em (1) só parte dos profissionais recebe o adicional; em (2), o grupo inteiro",
+    "d": "as duas frases dizem o mesmo, e as vírgulas apenas facilitam a leitura em voz alta",
+    "e": "em (2) a oração relativa restringe o grupo e em (1) apenas acrescenta um dado"
+   },
+   "resposta": "c",
+   "explicacao": "Sem vírgulas, a relative clause é restritiva e recorta um subconjunto: recebe quem trabalha à noite. Entre vírgulas, ela é explicativa e vale para o grupo já identificado, que passa a receber o adicional por inteiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-230",
+   "texto_apoio": "\"We had to call off the vaccination campaign in two districts after the refrigeration units failed,\" the coordinator explained.",
+   "enunciado": "Sobre o phrasal verb \"call off\" empregado no texto, é correto afirmar que:",
+   "alternativas": {
+    "a": "não admite objeto e por isso permanece sem complemento na construção apresentada",
+    "b": "é inseparável, e o objeto ocupa obrigatoriamente a posição posterior à partícula",
+    "c": "corresponde a \"call for\", com o qual alterna livremente na norma escrita da língua",
+    "d": "é separável, e admite tanto \"call off the campaign\" quanto \"call the campaign off\"",
+    "e": "funciona como verbo modal e por isso dispensa o auxiliar nas formas interrogativas"
+   },
+   "resposta": "d",
+   "explicacao": "\"Call off\" é o verbo usado para cancelar um evento já marcado, e é separável: o objeto pode ficar depois da partícula ou entre o verbo e ela. Com pronome, porém, a separação passa a ser obrigatória — \"call it off\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-231",
+   "texto_apoio": "The report ends with a single sentence: \"No hospital in the region has a paediatric intensive care bed.\"",
+   "enunciado": "Os dois-pontos empregados nesse período têm a função de:",
+   "alternativas": {
+    "a": "opor ao que foi dito antes uma informação de sentido contrário",
+    "b": "anunciar o enunciado que fecha o relatório, apresentado logo em seguida",
+    "c": "separar itens de uma enumeração distribuída ao longo do mesmo período",
+    "d": "assinalar a supressão de um trecho considerado dispensável pelo autor",
+    "e": "indicar a interrupção da fala e a passagem para outro assunto do relatório"
+   },
+   "resposta": "b",
+   "explicacao": "Os dois-pontos anunciam o que vem depois — aqui, a frase que encerra o relatório. Não estabelecem oposição, que ficaria a cargo de um conectivo, nem marcam supressão, papel das reticências ou dos colchetes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-232",
+   "texto_apoio": "For decades, the standard advice was to keep newborns in a warm room and away from visitors. Then a series of studies in the 1990s showed that skin-to-skin contact in the first hour improved both feeding and temperature control. Today most maternity wards encourage the practice, though staffing shortages still keep it from becoming routine in smaller units.",
+   "enunciado": "O texto se organiza, na ordem, do seguinte modo:",
+   "alternativas": {
+    "a": "definição de um conceito, exemplo prático e crítica final ao modelo adotado",
+    "b": "denúncia de um problema, apresentação de dados e proposta de solução imediata",
+    "c": "pergunta inicial, levantamento de hipóteses e escolha da mais provável entre elas",
+    "d": "narrativa de um caso individual, generalização e retorno ao caso apresentado",
+    "e": "prática antiga, evidência que a alterou e situação atual com uma ressalva"
+   },
+   "resposta": "e",
+   "explicacao": "O parágrafo vai do \"for decades\" ao \"today\", e o \"though\" do fecho introduz a ressalva sobre as unidades menores. Não há pergunta inicial nem proposta de solução: o texto descreve uma mudança e o limite dela.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "ingles-main-idea": [
@@ -76710,6 +76880,210 @@ window.QUESTION_BANKS = {
    "explicacao": "Nenhuma diretriz clínica diz o que fazer quando a família pede sigilo, quando o recurso é escasso ou quando a crença do paciente contraria a prescrição. São decisões de valor — e decidi-las sem instrumento é decidir por intuição.",
    "formato": "direta",
    "banca": "einstein",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-213",
+   "texto_apoio": "Um viajante europeu do século XIX descreve em seu diário um ritual funerário indígena como \"bárbaro e sem sentido\", comparando-o a cada passo aos costumes praticados em seu próprio país.",
+   "enunciado": "A postura registrada nesse diário é descrita pela sociologia como:",
+   "alternativas": {
+    "a": "relativismo cultural, que compreende cada prática a partir do sistema de significados em que ela se insere",
+    "b": "etnocentrismo, que toma a própria cultura como medida para julgar as demais",
+    "c": "aculturação, processo de incorporação de traços culturais decorrente do contato entre grupos distintos",
+    "d": "assimilação, absorção de um grupo minoritário pelos padrões culturais do grupo majoritário local",
+    "e": "hibridismo cultural, combinação de referências de origens diversas na formação de práticas novas"
+   },
+   "resposta": "b",
+   "explicacao": "Etnocentrismo é julgar o outro pela régua da própria cultura. A antropologia opõe a ele o relativismo cultural, que não obriga a aprovar a prática: obriga a descrevê-la dentro do sistema de sentidos do grupo antes de julgá-la.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-214",
+   "texto_apoio": "Duas crianças chegam à mesma escola. Uma cresceu entre livros, museus e conversas sobre o que se lê; a outra, não. A escola avalia as duas pelo mesmo critério e trata o resultado como diferença de talento.",
+   "enunciado": "O conceito de Pierre Bourdieu que explica esse desfecho é:",
+   "alternativas": {
+    "a": "aculturação, incorporação de traços culturais decorrente do contato prolongado entre dois grupos",
+    "b": "indústria cultural, produção em série de bens simbólicos padronizados para consumo do maior número",
+    "c": "etnocentrismo, avaliação das práticas de outros grupos a partir dos parâmetros da cultura de quem as julga",
+    "d": "relativismo cultural, compreensão de cada prática dentro do sistema de significados do grupo",
+    "e": "capital cultural, conjunto de referências transmitidas pela família e convertidas em vantagem escolar"
+   },
+   "resposta": "e",
+   "explicacao": "Bourdieu mostra que a escola cobra um repertório que ela mesma não ensina — ele vem de casa. Quem já o traz é lido como talentoso; quem não traz, como pouco esforçado. Critério único aplicado a pontos de partida distintos converte herança familiar em mérito aparente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-215",
+   "texto_apoio": "Um serviço de streaming oferece a cada usuário uma lista \"feita para você\". As listas de milhões de assinantes são montadas a partir do mesmo catálogo e das mesmas regras de recomendação.",
+   "enunciado": "Essa combinação entre oferta padronizada e aparência de escolha pessoal é lida pela teoria crítica como:",
+   "alternativas": {
+    "a": "prova de que a diversidade cultural aumentou com a ampliação do acesso aos catálogos digitais",
+    "b": "pseudoindividualização, em que a padronização do produto se apresenta ao público como escolha própria",
+    "c": "efeito da cultura popular, produzida de forma espontânea pelos grupos que dela participam",
+    "d": "resultado da mediação escolar, que forma o gosto do público antes de qualquer contato com o mercado",
+    "e": "manifestação do relativismo cultural aplicado à circulação de bens simbólicos entre públicos distintos"
+   },
+   "resposta": "b",
+   "explicacao": "Adorno e Horkheimer chamam de pseudoindividualização o traço da indústria cultural que veste o produto padronizado com marcas de personalização. O algoritmo de recomendação atualiza o mecanismo: a variação é real na superfície e mínima no catálogo que a sustenta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-216",
+   "texto_apoio": "Um sociólogo descreve um mundo em que vínculos afetivos, contratos e projetos de vida se desfazem antes de se consolidar, e em que a identidade social passa a ser refeita várias vezes ao longo da vida.",
+   "enunciado": "A metáfora usada por Zygmunt Bauman para nomear esse estado de coisas é a da:",
+   "alternativas": {
+    "a": "aldeia global, ideia de encurtamento das distâncias pela difusão dos meios de comunicação",
+    "b": "sociedade do espetáculo, em que a imagem substitui a experiência direta das relações vividas",
+    "c": "modernidade líquida, em que laços e instituições perdem a forma estável que antes assumiam",
+    "d": "cultura de massa, produção de bens simbólicos dirigida a um público amplo e indiferenciado",
+    "e": "consciência coletiva, conjunto de crenças e sentimentos comuns aos membros de uma sociedade"
+   },
+   "resposta": "c",
+   "explicacao": "Bauman opõe a liquidez à solidez das instituições modernas: o que era feito para durar passa a ser feito para ser substituído. A identidade social acompanha o movimento e deixa de ser herança recebida para virar tarefa permanente de cada um.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-217",
+   "texto_apoio": "Uma pesquisa acompanhou por seis meses o que dois grupos de usuários viam em suas redes sociais. Cada grupo recebeu quase só conteúdos alinhados às posições que já defendia, e ambos terminaram o período mais convictos do que começaram.",
+   "enunciado": "O fenômeno descrito nessa pesquisa é conhecido como:",
+   "alternativas": {
+    "a": "etnocentrismo, julgamento das práticas alheias pelos parâmetros da cultura de origem",
+    "b": "indústria cultural, produção padronizada de bens simbólicos voltada ao consumo do maior número",
+    "c": "relativismo cultural, compreensão de cada prática dentro do sistema de sentidos do grupo",
+    "d": "câmara de eco, em que a repetição de conteúdos convergentes reforça as posições já sustentadas",
+    "e": "esfera pública, espaço de debate entre cidadãos sobre assuntos de interesse comum"
+   },
+   "resposta": "d",
+   "explicacao": "A câmara de eco não nasce só da escolha do usuário: o algoritmo entrega mais do que já rendeu engajamento, e o contraditório some do campo de visão. O efeito é o endurecimento das posições, não a revisão delas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-218",
+   "texto_apoio": "Durante uma campanha de vacinação, mensagens falsas sobre efeitos do imunizante circularam em aplicativos de conversa e em redes sociais, e alcançaram mais pessoas que os comunicados oficiais.",
+   "enunciado": "Do ponto de vista sociológico, a circulação mais ampla das mensagens falsas se explica principalmente porque elas:",
+   "alternativas": {
+    "a": "eram tecnicamente mais precisas que os comunicados oficiais divulgados no mesmo período",
+    "b": "traziam linguagem técnica detalhada, que lhes dava autoridade diante dos leitores comuns",
+    "c": "foram produzidas por instituições de pesquisa reconhecidas pelo público que as recebeu",
+    "d": "circulavam em plataformas de acesso restrito, o que aumentava a atenção que o público dedicava a elas",
+    "e": "chegavam por contatos de confiança e em linguagem de conversa, o que facilitava o repasse"
+   },
+   "resposta": "e",
+   "explicacao": "A desinformação se apoia menos no conteúdo que no vínculo: chega pelo parente ou pelo colega, em registro de conversa, e o repasse funciona como gesto de cuidado. A mídia oficial fala de longe e em linguagem formal, e perde para a mensagem que já vem com quem confia nela. Reconstruir a confiança nas fontes é tarefa cultural e de longo prazo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-219",
+   "texto_apoio": "Um estudo observou salas de educação infantil e registrou que meninos eram estimulados a brincadeiras de movimento e disputa, enquanto meninas recebiam com mais frequência brinquedos ligados ao cuidado e à organização da casa.",
+   "enunciado": "Para a sociologia, o processo descrito nesse estudo corresponde à:",
+   "alternativas": {
+    "a": "herança biológica, que fixaria desde o nascimento as preferências observadas em cada grupo",
+    "b": "aculturação, incorporação de traços culturais decorrente do contato entre grupos distintos",
+    "c": "etnocentrismo, julgamento das práticas de outros povos pela régua da cultura de origem",
+    "d": "socialização de gênero, aprendizado dos papéis atribuídos a meninos e meninas pela cultura",
+    "e": "relativismo cultural, compreensão de cada costume dentro do sistema de sentidos do grupo"
+   },
+   "resposta": "d",
+   "explicacao": "A escola não transmite apenas conteúdo: ela ensina, por gestos cotidianos, o que se espera de cada um. É socialização — e o que parece inclinação natural chega antes como expectativa cultural repetida todos os dias.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-220",
+   "texto_apoio": "Um levantamento mostrou que candidatos com nomes associados à população negra recebiam menos chamadas para entrevista, mesmo quando os currículos enviados eram idênticos aos dos demais.",
+   "enunciado": "O conceito que descreve esse padrão, independentemente da intenção de cada avaliador, é o de:",
+   "alternativas": {
+    "a": "preconceito individual, atitude isolada de quem seleciona os candidatos em cada processo",
+    "b": "meritocracia, princípio de distribuição de posições segundo o desempenho de cada pessoa",
+    "c": "racismo estrutural, funcionamento social que reproduz a desvantagem sem depender de intenção",
+    "d": "relativismo cultural, compreensão das práticas de um grupo a partir dos sentidos que ele atribui",
+    "e": "aculturação, incorporação de traços de um grupo por outro em situação de contato prolongado"
+   },
+   "resposta": "c",
+   "explicacao": "Racismo estrutural nomeia o que se reproduz nos procedimentos, nos critérios e nas redes de indicação — e por isso sobrevive à boa intenção de quem decide. Reduzir o caso a preconceito individual explica um episódio e deixa intacto o padrão que os dados mostram.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-221",
+   "texto_apoio": "A Constituição de 1988 reconheceu aos povos indígenas o direito de manter suas línguas, suas crenças e suas formas próprias de organização, rompendo com a orientação anterior, que previa a integração progressiva desses povos à sociedade nacional.",
+   "enunciado": "A mudança de orientação expressa nesse reconhecimento consiste em:",
+   "alternativas": {
+    "a": "substituir a assimilação pela garantia da diferença, tratada como direito e não como etapa a superar",
+    "b": "transferir aos próprios povos a tarefa de se integrarem aos padrões culturais majoritários do restante do país",
+    "c": "condicionar o reconhecimento de cada grupo à adoção da língua e das crenças da maioria nacional",
+    "d": "converter as práticas indígenas em manifestações folclóricas destinadas à visitação de turistas",
+    "e": "estabelecer que a diversidade cultural seja preservada apenas nas áreas de fronteira do território"
+   },
+   "resposta": "a",
+   "explicacao": "A política de integração tratava a cultura indígena como estágio transitório rumo à sociedade nacional. O texto de 1988 inverte a premissa: a diversidade cultural passa a ser direito permanente, e cabe ao Estado protegê-la, não abreviá-la.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-222",
+   "texto_apoio": "Em uma festa de rua de uma capital brasileira, blocos tocam ritmos locais em arranjos que incorporam elementos do pop internacional, e parte do público veste fantasias inspiradas em séries de televisão.",
+   "enunciado": "Essa combinação de referências é descrita pelos estudos de cultura como:",
+   "alternativas": {
+    "a": "perda irreversível da identidade cultural do grupo diante da circulação internacional de bens simbólicos",
+    "b": "etnocentrismo, já que o público avalia as manifestações locais pelos parâmetros de outra sociedade",
+    "c": "hibridismo cultural, mistura de referências de origens distintas na produção de formas novas",
+    "d": "indústria cultural em estado puro, com padronização de todos os elementos que compõem a festa",
+    "e": "relativismo cultural, entendimento de cada prática a partir do sistema de sentidos do próprio grupo"
+   },
+   "resposta": "c",
+   "explicacao": "Hibridismo não é substituição: os ritmos locais não desaparecem, eles absorvem e são absorvidos. Tratar o encontro como perda supõe uma cultura originalmente pura, que a pesquisa raramente encontra em algum lugar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-223",
+   "texto_apoio": "Um adolescente refaz várias vezes a mesma foto antes de publicá-la nas redes sociais e acompanha, nas horas seguintes, o número de reações que ela recebe.",
+   "enunciado": "A sociologia contemporânea lê esse comportamento como expressão da:",
+   "alternativas": {
+    "a": "aculturação, incorporação de traços de outra cultura em situação de contato continuado",
+    "b": "cultura popular, produzida de forma espontânea pelos grupos que dela participam diretamente",
+    "c": "etnocentrismo, aplicação dos valores do próprio grupo ao julgamento das práticas dos demais",
+    "d": "relativismo cultural, compreensão de cada prática dentro do sistema de sentidos que a sustenta",
+    "e": "construção da identidade como performance de si, submetida à avaliação contínua do público"
+   },
+   "resposta": "e",
+   "explicacao": "A identidade social deixa de ser dada e passa a ser exibida: a vitrine digital transforma a autoapresentação em tarefa permanente, e o retorno do público em medida de valor. O custo aparece quando a métrica substitui o vínculo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-224",
+   "texto_apoio": "Uma marca lança uma edição limitada de um tênis a preço muito superior ao de modelos tecnicamente equivalentes. Os compradores relatam que o valor está em ter o modelo que poucos têm.",
+   "enunciado": "Esse tipo de consumo é analisado pela sociologia como:",
+   "alternativas": {
+    "a": "consumo de status, em que o bem vale pela distinção social que confere a quem o exibe",
+    "b": "manifestação do relativismo cultural aplicado às preferências individuais de cada comprador",
+    "c": "resultado da falta de informação técnica sobre os modelos disponíveis no mercado consumidor",
+    "d": "escolha estritamente racional, orientada pela relação entre preço pago e desempenho do produto",
+    "e": "efeito da socialização primária, que fixaria na infância as preferências de consumo do adulto"
+   },
+   "resposta": "a",
+   "explicacao": "O bem opera como sinal: o que se compra é a diferença em relação a quem não pode comprá-lo. Bourdieu mostra que o gosto legítimo funciona assim em muitos campos — parece escolha pessoal e organiza, na prática, fronteiras culturais entre grupos.",
+   "formato": "direta",
    "origem": "medicina"
   }
  ],

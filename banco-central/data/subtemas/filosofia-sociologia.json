@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-14",
  "frente": "filosofia-sociologia",
- "total": 265,
+ "total": 277,
  "residuo": [
   "dir-filosofia-sociologia-81",
   "dir-filosofia-sociologia-97",
@@ -1594,6 +1594,78 @@
    "frenteDestino": "filosofia-sociologia",
    "pontos": 10,
    "margem": 5
+  },
+  "med-filosofia-sociologia-213": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-214": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-215": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-216": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 25,
+   "margem": 25
+  },
+  "med-filosofia-sociologia-217": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-218": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-219": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-220": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-221": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-222": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-223": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 20,
+   "margem": 15
+  },
+  "med-filosofia-sociologia-224": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
   }
  }
 }

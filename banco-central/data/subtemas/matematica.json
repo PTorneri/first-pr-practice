@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-14",
  "frente": "matematica",
- "total": 774,
+ "total": 868,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -4174,6 +4174,570 @@
    "frenteDestino": "matematica",
    "pontos": 5,
    "margem": 5
+  },
+  "med-matematica-383": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "med-matematica-384": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "med-matematica-385": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "med-matematica-386": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "med-matematica-387": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "med-matematica-388": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "med-matematica-389": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "med-matematica-390": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "med-matematica-391": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 10
+  },
+  "med-matematica-392": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 10
+  },
+  "med-matematica-393": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 10
+  },
+  "med-matematica-394": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 10
+  },
+  "med-matematica-395": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-matematica-396": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-matematica-397": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-matematica-398": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-matematica-399": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-matematica-400": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-matematica-401": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-matematica-402": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-matematica-403": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 17,
+   "margem": 17
+  },
+  "med-matematica-404": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 12
+  },
+  "med-matematica-405": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-matematica-406": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-matematica-407": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-matematica-408": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-matematica-409": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-matematica-410": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 5
+  },
+  "med-matematica-411": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 3
+  },
+  "med-matematica-412": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 17,
+   "margem": 9
+  },
+  "med-matematica-413": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 17,
+   "margem": 9
+  },
+  "med-matematica-414": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 5
+  },
+  "med-matematica-415": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 5
+  },
+  "med-matematica-416": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 17,
+   "margem": 14
+  },
+  "med-matematica-417": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-matematica-418": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-matematica-419": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-matematica-420": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-matematica-421": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-matematica-422": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-matematica-423": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 4
+  },
+  "med-matematica-424": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 4
+  },
+  "med-matematica-425": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 3
+  },
+  "med-matematica-426": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 3
+  },
+  "med-matematica-427": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 3
+  },
+  "med-matematica-428": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 3
+  },
+  "med-matematica-429": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 3
+  },
+  "med-matematica-430": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 3
+  },
+  "med-matematica-431": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "med-matematica-432": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "med-matematica-433": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "med-matematica-434": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "med-matematica-435": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "med-matematica-436": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "med-matematica-437": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "med-matematica-438": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "med-matematica-439": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "med-matematica-440": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "med-matematica-441": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-matematica-442": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-matematica-443": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-matematica-444": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-matematica-445": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-matematica-446": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "med-matematica-447": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "med-matematica-448": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "med-matematica-449": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-matematica-450": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-matematica-451": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-matematica-452": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-matematica-453": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 9
+  },
+  "med-matematica-454": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 9
+  },
+  "med-matematica-455": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 9
+  },
+  "med-matematica-456": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-matematica-457": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-matematica-458": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "med-matematica-459": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "med-matematica-460": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "med-matematica-461": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-matematica-462": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-matematica-463": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-matematica-464": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-matematica-465": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-matematica-466": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-matematica-467": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 3
+  },
+  "med-matematica-468": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 3
+  },
+  "med-matematica-469": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 3
+  },
+  "med-matematica-470": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-matematica-471": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-matematica-472": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-matematica-473": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-matematica-474": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 15,
+   "margem": 12
+  },
+  "med-matematica-475": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 15,
+   "margem": 12
+  },
+  "med-matematica-476": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 15,
+   "margem": 12
   },
   "eng-complexos-01": {
    "subtema": "matematica-complexos",

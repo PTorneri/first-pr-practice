@@ -34576,6 +34576,774 @@ window.QUESTION_BANKS = {
  "matematica-complexos": [
   {
    "subtema": "matematica-complexos",
+   "id": "med-matematica-383",
+   "enunciado": "O valor de i¹⁰¹, sendo i a unidade imaginária (i² = −1), é:",
+   "alternativas": {
+    "a": "i",
+    "b": "1",
+    "c": "−1",
+    "d": "−i",
+    "e": "101"
+   },
+   "resposta": "a",
+   "explicacao": "As potências de i se repetem em ciclo de 4: i¹ = i, i² = −1, i³ = −i, i⁴ = 1. Dividindo 101 por 4, o resto é 1, logo i¹⁰¹ = i¹ = i. A alternativa \"101\" é o erro de tomar o próprio expoente como se fosse o resultado da potência, sem reduzir pelo ciclo de 4.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-384",
+   "enunciado": "O valor de i⁵⁸, sendo i a unidade imaginária (i² = −1), é:",
+   "alternativas": {
+    "a": "1",
+    "b": "−1",
+    "c": "i",
+    "d": "−i",
+    "e": "58"
+   },
+   "resposta": "b",
+   "explicacao": "As potências de i se repetem em ciclo de 4: i¹ = i, i² = −1, i³ = −i, i⁴ = 1. Dividindo 58 por 4, o resto é 2, logo i⁵⁸ = i² = −1. A alternativa \"58\" é o erro de tomar o próprio expoente como se fosse o resultado da potência, sem reduzir pelo ciclo de 4.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-385",
+   "enunciado": "O valor de i⁴⁷, sendo i a unidade imaginária (i² = −1), é:",
+   "alternativas": {
+    "a": "1",
+    "b": "i",
+    "c": "−i",
+    "d": "−1",
+    "e": "47"
+   },
+   "resposta": "c",
+   "explicacao": "As potências de i se repetem em ciclo de 4: i¹ = i, i² = −1, i³ = −i, i⁴ = 1. Dividindo 47 por 4, o resto é 3, logo i⁴⁷ = i³ = −i. A alternativa \"47\" é o erro de tomar o próprio expoente como se fosse o resultado da potência, sem reduzir pelo ciclo de 4.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-386",
+   "enunciado": "O valor de i¹²⁴, sendo i a unidade imaginária (i² = −1), é:",
+   "alternativas": {
+    "a": "i",
+    "b": "−1",
+    "c": "−i",
+    "d": "1",
+    "e": "124"
+   },
+   "resposta": "d",
+   "explicacao": "As potências de i se repetem em ciclo de 4: i¹ = i, i² = −1, i³ = −i, i⁴ = 1. Dividindo 124 por 4, o resto é 0, logo i¹²⁴ = i⁴ = 1. A alternativa \"124\" é o erro de tomar o próprio expoente como se fosse o resultado da potência, sem reduzir pelo ciclo de 4.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-387",
+   "enunciado": "O valor de i⁸⁹, sendo i a unidade imaginária (i² = −1), é:",
+   "alternativas": {
+    "a": "1",
+    "b": "−1",
+    "c": "−i",
+    "d": "89",
+    "e": "i"
+   },
+   "resposta": "e",
+   "explicacao": "As potências de i se repetem em ciclo de 4: i¹ = i, i² = −1, i³ = −i, i⁴ = 1. Dividindo 89 por 4, o resto é 1, logo i⁸⁹ = i¹ = i. A alternativa \"89\" é o erro de tomar o próprio expoente como se fosse o resultado da potência, sem reduzir pelo ciclo de 4.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-388",
+   "enunciado": "O valor de i¹⁵⁰, sendo i a unidade imaginária (i² = −1), é:",
+   "alternativas": {
+    "a": "−1",
+    "b": "1",
+    "c": "i",
+    "d": "−i",
+    "e": "150"
+   },
+   "resposta": "a",
+   "explicacao": "As potências de i se repetem em ciclo de 4: i¹ = i, i² = −1, i³ = −i, i⁴ = 1. Dividindo 150 por 4, o resto é 2, logo i¹⁵⁰ = i² = −1. A alternativa \"150\" é o erro de tomar o próprio expoente como se fosse o resultado da potência, sem reduzir pelo ciclo de 4.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-389",
+   "enunciado": "O valor de i²¹³, sendo i a unidade imaginária (i² = −1), é:",
+   "alternativas": {
+    "a": "1",
+    "b": "i",
+    "c": "−1",
+    "d": "−i",
+    "e": "213"
+   },
+   "resposta": "b",
+   "explicacao": "As potências de i se repetem em ciclo de 4: i¹ = i, i² = −1, i³ = −i, i⁴ = 1. Dividindo 213 por 4, o resto é 1, logo i²¹³ = i¹ = i. A alternativa \"213\" é o erro de tomar o próprio expoente como se fosse o resultado da potência, sem reduzir pelo ciclo de 4.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-390",
+   "enunciado": "O valor de i³⁴², sendo i a unidade imaginária (i² = −1), é:",
+   "alternativas": {
+    "a": "1",
+    "b": "i",
+    "c": "−1",
+    "d": "−i",
+    "e": "342"
+   },
+   "resposta": "c",
+   "explicacao": "As potências de i se repetem em ciclo de 4: i¹ = i, i² = −1, i³ = −i, i⁴ = 1. Dividindo 342 por 4, o resto é 2, logo i³⁴² = i² = −1. A alternativa \"342\" é o erro de tomar o próprio expoente como se fosse o resultado da potência, sem reduzir pelo ciclo de 4.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-391",
+   "enunciado": "O módulo do número complexo z = 5 + 12i é:",
+   "alternativas": {
+    "a": "17",
+    "b": "60",
+    "c": "15",
+    "d": "13",
+    "e": "9"
+   },
+   "resposta": "d",
+   "explicacao": "|z| = √(a² + b²) = √(5² + 12²) = √(25 + 144) = √169 = 13. A alternativa \"17\" comete o erro clássico de somar diretamente as partes real e imaginária em vez de somar seus quadrados antes de extrair a raiz.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-392",
+   "enunciado": "O módulo do número complexo z = 8 + 15i é:",
+   "alternativas": {
+    "a": "23",
+    "b": "120",
+    "c": "19",
+    "d": "13",
+    "e": "17"
+   },
+   "resposta": "e",
+   "explicacao": "|z| = √(a² + b²) = √(8² + 15²) = √(64 + 225) = √289 = 17. A alternativa \"23\" comete o erro clássico de somar diretamente as partes real e imaginária em vez de somar seus quadrados antes de extrair a raiz.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-393",
+   "enunciado": "O módulo do número complexo z = 9 + 12i é:",
+   "alternativas": {
+    "a": "15",
+    "b": "21",
+    "c": "108",
+    "d": "17",
+    "e": "11"
+   },
+   "resposta": "a",
+   "explicacao": "|z| = √(a² + b²) = √(9² + 12²) = √(81 + 144) = √225 = 15. A alternativa \"21\" comete o erro clássico de somar diretamente as partes real e imaginária em vez de somar seus quadrados antes de extrair a raiz.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-394",
+   "enunciado": "O módulo do número complexo z = 7 + 24i é:",
+   "alternativas": {
+    "a": "31",
+    "b": "25",
+    "c": "168",
+    "d": "27",
+    "e": "21"
+   },
+   "resposta": "b",
+   "explicacao": "|z| = √(a² + b²) = √(7² + 24²) = √(49 + 576) = √625 = 25. A alternativa \"31\" comete o erro clássico de somar diretamente as partes real e imaginária em vez de somar seus quadrados antes de extrair a raiz.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-395",
+   "enunciado": "O produto (2 + 3i)·(1 − 2i) é igual a:",
+   "alternativas": {
+    "a": "−4 − i",
+    "b": "8 + i",
+    "c": "8 − i",
+    "d": "10 − i",
+    "e": "8 + 3i"
+   },
+   "resposta": "c",
+   "explicacao": "Distribuindo (a+bi)(c+di) = ac + adi + bci + bdi², e usando i² = −1: (2 + 3i)(1 − 2i) tem parte real ac − bd = 2·1 − (3·-2) = 8, e parte imaginária ad + bc = 2·-2 + 3·1 = -1. Logo o produto vale 8 − i. A alternativa \"−4 − i\" comete o erro de somar bd à parte real em vez de subtraí-lo, esquecendo que i² vale −1.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-396",
+   "enunciado": "O produto (4 − i)·(2 + 3i) é igual a:",
+   "alternativas": {
+    "a": "5 + 10i",
+    "b": "11 − 10i",
+    "c": "13 + 10i",
+    "d": "11 + 10i",
+    "e": "11 + 14i"
+   },
+   "resposta": "d",
+   "explicacao": "Distribuindo (a+bi)(c+di) = ac + adi + bci + bdi², e usando i² = −1: (4 − i)(2 + 3i) tem parte real ac − bd = 4·2 − (-1·3) = 11, e parte imaginária ad + bc = 4·3 + -1·2 = 10. Logo o produto vale 11 + 10i. A alternativa \"5 + 10i\" comete o erro de somar bd à parte real em vez de subtraí-lo, esquecendo que i² vale −1.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-397",
+   "enunciado": "O produto (−2 + i)·(3 + 4i) é igual a:",
+   "alternativas": {
+    "a": "−2 − 5i",
+    "b": "−10 + 5i",
+    "c": "−8 − 5i",
+    "d": "−10 − i",
+    "e": "−10 − 5i"
+   },
+   "resposta": "e",
+   "explicacao": "Distribuindo (a+bi)(c+di) = ac + adi + bci + bdi², e usando i² = −1: (−2 + i)(3 + 4i) tem parte real ac − bd = -2·3 − (1·4) = -10, e parte imaginária ad + bc = -2·4 + 1·3 = -5. Logo o produto vale −10 − 5i. A alternativa \"−2 − 5i\" comete o erro de somar bd à parte real em vez de subtraí-lo, esquecendo que i² vale −1.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-398",
+   "enunciado": "O produto (5 + 2i)·(1 + 3i) é igual a:",
+   "alternativas": {
+    "a": "−1 + 17i",
+    "b": "11 + 17i",
+    "c": "−1 − 17i",
+    "d": "1 + 17i",
+    "e": "−1 + 21i"
+   },
+   "resposta": "a",
+   "explicacao": "Distribuindo (a+bi)(c+di) = ac + adi + bci + bdi², e usando i² = −1: (5 + 2i)(1 + 3i) tem parte real ac − bd = 5·1 − (2·3) = -1, e parte imaginária ad + bc = 5·3 + 2·1 = 17. Logo o produto vale −1 + 17i. A alternativa \"11 + 17i\" comete o erro de somar bd à parte real em vez de subtraí-lo, esquecendo que i² vale −1.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-399",
+   "enunciado": "O quociente (4 + 2i) ÷ (1 + i) é igual a:",
+   "alternativas": {
+    "a": "3 + i",
+    "b": "3 − i",
+    "c": "2 + i",
+    "d": "5 − i",
+    "e": "4 − 2i"
+   },
+   "resposta": "b",
+   "explicacao": "Multiplica-se numerador e denominador pelo conjugado do denominador, 1 − i: (4 + 2i)(1 − i) = 4 − 4i + 2i − 2i² = 4 − 2i + 2 = 6 − 2i; dividindo por |1+i|² = 1² + 1² = 2, obtém-se 3 − i. A alternativa \"3 + i\" troca o sinal da parte imaginária, engano de quem usa o conjugado do numerador em vez do denominador.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-400",
+   "enunciado": "O quociente (1 + 8i) ÷ (2 + i) é igual a:",
+   "alternativas": {
+    "a": "2 − 3i",
+    "b": "1 + 4i",
+    "c": "2 + 3i",
+    "d": "3 + 3i",
+    "e": "2 + i"
+   },
+   "resposta": "c",
+   "explicacao": "Multiplicando por 2 − i (conjugado do denominador): (1+8i)(2−i) = 2 − i + 16i − 8i² = 2 + 15i + 8 = 10 + 15i; dividindo por |2+i|² = 4+1 = 5, obtém-se 2 + 3i. A alternativa \"2 − 3i\" troca o sinal da parte imaginária, engano de quem conjuga o numerador em vez do denominador.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-401",
+   "enunciado": "O quociente (13 + 13i) ÷ (3 + 2i) é igual a:",
+   "alternativas": {
+    "a": "5 − i",
+    "b": "6 + i",
+    "c": "4 + 3i",
+    "d": "5 + i",
+    "e": "13 + 6i"
+   },
+   "resposta": "d",
+   "explicacao": "Multiplicando por 3 − 2i: (13+13i)(3−2i) = 39 − 26i + 39i − 26i² = 39 + 13i + 26 = 65 + 13i; dividindo por |3+2i|² = 9+4 = 13, obtém-se 5 + i. A alternativa \"5 − i\" inverte o sinal da parte imaginária, esquecendo que −26i² vira +26, e não −26.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-402",
+   "enunciado": "O quociente (8 + i) ÷ (3 + 2i) é igual a:",
+   "alternativas": {
+    "a": "2 + i",
+    "b": "3 − i",
+    "c": "2 − 3i",
+    "d": "8 − i",
+    "e": "2 − i"
+   },
+   "resposta": "e",
+   "explicacao": "Multiplicando por 3 − 2i: (8+i)(3−2i) = 24 − 16i + 3i − 2i² = 24 − 13i + 2 = 26 − 13i; dividindo por |3+2i|² = 13, obtém-se 2 − i. A alternativa \"2 + i\" comete o erro de trocar o sinal da parte imaginária ao esquecer que −2i² contribui positivamente para a parte real.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-403",
+   "enunciado": "O conjugado do número complexo z = 5 − 3i é:",
+   "alternativas": {
+    "a": "5 + 3i",
+    "b": "−5 + 3i",
+    "c": "−5 − 3i",
+    "d": "5 − 3i",
+    "e": "3 − 5i"
+   },
+   "resposta": "a",
+   "explicacao": "O conjugado de z = a + bi é z̄ = a − bi: mantém-se a parte real e inverte-se o sinal da parte imaginária. Para z = 5 − 3i, o conjugado é 5 + 3i. A alternativa \"−5 − 3i\" inverte o sinal da parte real em vez da imaginária, confundindo conjugado com o oposto (−z).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-404",
+   "enunciado": "Para z = 4 + 3i, o produto z · z̄ (z pelo seu conjugado) é igual a:",
+   "alternativas": {
+    "a": "7",
+    "b": "25",
+    "c": "24i",
+    "d": "24",
+    "e": "1"
+   },
+   "resposta": "b",
+   "explicacao": "z · z̄ = (a+bi)(a−bi) = a² + b² = |z|², sempre um número real. Para z = 4+3i: 4² + 3² = 16 + 9 = 25. A alternativa \"24i\" é o erro de tratar o produto como um produto qualquer de complexos, mantendo uma parte imaginária que na verdade se cancela nesse caso particular.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-405",
+   "enunciado": "Para z = 7 − 2i, o valor de z + z̄ (z somado ao seu conjugado) é:",
+   "alternativas": {
+    "a": "−4i",
+    "b": "9",
+    "c": "14",
+    "d": "5",
+    "e": "14i"
+   },
+   "resposta": "c",
+   "explicacao": "Se z = a+bi, então z̄ = a−bi, e z + z̄ = 2a, sempre real (o dobro da parte real). Para z = 7−2i, a soma vale 2·7 = 14. A alternativa \"−4i\" seria a diferença z − z̄ = 2bi, e não a soma z + z̄.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-406",
+   "enunciado": "Se (x + 2) + (y − 3)i = 5 + 4i, sendo x e y números reais, então x + y é igual a:",
+   "alternativas": {
+    "a": "7",
+    "b": "3",
+    "c": "13",
+    "d": "10",
+    "e": "4"
+   },
+   "resposta": "d",
+   "explicacao": "Dois números complexos são iguais quando suas partes reais e imaginárias coincidem separadamente: x + 2 = 5 → x = 3, e y − 3 = 4 → y = 7. Logo x + y = 3 + 7 = 10. A alternativa \"7\" toma apenas o valor de y, esquecendo de somar x.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-407",
+   "enunciado": "Sendo x e y reais tais que (2x − 1) + (3y + 2)i = 7 − 4i, o produto x · y é:",
+   "alternativas": {
+    "a": "8",
+    "b": "−2",
+    "c": "2",
+    "d": "−12",
+    "e": "−8"
+   },
+   "resposta": "e",
+   "explicacao": "Igualando parte real e parte imaginária: 2x − 1 = 7 → x = 4; e 3y + 2 = −4 → 3y = −6 → y = −2. Logo x·y = 4·(−2) = −8. A alternativa \"8\" erra apenas o sinal, esquecendo que y é negativo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-408",
+   "enunciado": "Se o número complexo (x + yi) somado a (3 − 2i) resulta em 8 + 5i, com x e y reais, então x − y vale:",
+   "alternativas": {
+    "a": "−2",
+    "b": "2",
+    "c": "12",
+    "d": "−12",
+    "e": "0"
+   },
+   "resposta": "a",
+   "explicacao": "Somando as partes: (x+3) + (y−2)i = 8 + 5i, logo x + 3 = 8 → x = 5, e y − 2 = 5 → y = 7. Então x − y = 5 − 7 = −2. A alternativa \"2\" inverte a subtração, calculando y − x em vez de x − y.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-409",
+   "enunciado": "No plano de Argand-Gauss, o ponto que representa o número complexo z = −3 + 2i está localizado no:",
+   "alternativas": {
+    "a": "primeiro quadrante",
+    "b": "segundo quadrante",
+    "c": "terceiro quadrante",
+    "d": "quarto quadrante",
+    "e": "eixo imaginário"
+   },
+   "resposta": "b",
+   "explicacao": "No plano de Argand-Gauss, o eixo horizontal representa a parte real e o vertical, a parte imaginária. Para z = −3 + 2i, a parte real é negativa e a imaginária é positiva, o que localiza o ponto no segundo quadrante. A alternativa \"terceiro quadrante\" exigiria ambas as partes negativas, o que não é o caso aqui.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-410",
+   "enunciado": "No plano de Argand-Gauss, a distância entre os pontos que representam os números complexos z₁ = 1 + 2i e z₂ = 4 + 6i é:",
+   "alternativas": {
+    "a": "7",
+    "b": "3",
+    "c": "5",
+    "d": "√7",
+    "e": "25"
+   },
+   "resposta": "c",
+   "explicacao": "A distância entre dois números complexos, no plano de Argand-Gauss, é o módulo de um número complexo obtido pela diferença entre eles: |z₂ − z₁| = |(4−1) + (6−2)i| = |3 + 4i| = √(3²+4²) = √25 = 5. A alternativa \"7\" soma as diferenças 3 e 4 diretamente em vez de aplicar o teorema de Pitágoras ao módulo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-411",
+   "enunciado": "No plano de Argand-Gauss, o conjunto dos números complexos z tais que |z − (2 + i)| = 3 representa:",
+   "alternativas": {
+    "a": "uma reta que passa por (2, 1)",
+    "b": "uma circunferência de centro (2, 1) e raio 9",
+    "c": "uma circunferência de centro (−2, −1) e raio 3",
+    "d": "uma circunferência de centro (2, 1) e raio 3",
+    "e": "uma parábola com vértice em (2, 1)"
+   },
+   "resposta": "d",
+   "explicacao": "O módulo de um número complexo z − z₀ mede, no plano de Argand-Gauss, a distância de z até o ponto fixo z₀; manter essa distância constante e igual a r descreve uma circunferência de centro z₀ e raio r. Aqui z₀ = 2 + i corresponde ao centro (2, 1) e o raio é 3. A alternativa com raio 9 confunde o raio com o quadrado da distância.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-412",
+   "enunciado": "O número complexo z = 1 + i, na forma trigonométrica z = √2·(cos θ + i·sen θ), tem argumento θ igual a:",
+   "alternativas": {
+    "a": "135°",
+    "b": "315°",
+    "c": "30°",
+    "d": "225°",
+    "e": "45°"
+   },
+   "resposta": "e",
+   "explicacao": "O argumento de um número complexo é o ângulo que o representa no plano de Argand-Gauss forma com o eixo real positivo. |z| = √(a²+b²) = √2. O argumento θ satisfaz cos θ = a/√2 e sen θ = b/√2, o que localiza θ = 45° de acordo com o quadrante determinado pelos sinais de a e b. Trocar o sinal de uma das partes leva a um dos ângulos suplementares ou replementares listados nas demais alternativas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-413",
+   "enunciado": "O número complexo z = −1 + i, na forma trigonométrica z = √2·(cos θ + i·sen θ), tem argumento θ igual a:",
+   "alternativas": {
+    "a": "135°",
+    "b": "45°",
+    "c": "225°",
+    "d": "315°",
+    "e": "60°"
+   },
+   "resposta": "a",
+   "explicacao": "O argumento de um número complexo é o ângulo que o representa no plano de Argand-Gauss forma com o eixo real positivo. |z| = √(a²+b²) = √2. O argumento θ satisfaz cos θ = a/√2 e sen θ = b/√2, o que localiza θ = 135° de acordo com o quadrante determinado pelos sinais de a e b. Trocar o sinal de uma das partes leva a um dos ângulos suplementares ou replementares listados nas demais alternativas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-414",
+   "enunciado": "O número complexo z = √3 + i, na forma trigonométrica z = 2·(cos θ + i·sen θ), tem argumento θ igual a:",
+   "alternativas": {
+    "a": "60°",
+    "b": "30°",
+    "c": "150°",
+    "d": "330°",
+    "e": "45°"
+   },
+   "resposta": "b",
+   "explicacao": "O argumento de um número complexo é o ângulo que o representa no plano de Argand-Gauss forma com o eixo real positivo. |z| = √(a²+b²) = 2. O argumento θ satisfaz cos θ = a/2 e sen θ = b/2, o que localiza θ = 30° de acordo com o quadrante determinado pelos sinais de a e b. Trocar o sinal de uma das partes leva a um dos ângulos suplementares ou replementares listados nas demais alternativas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-415",
+   "enunciado": "O número complexo z = −√3 − i, na forma trigonométrica z = 2·(cos θ + i·sen θ), tem argumento θ igual a:",
+   "alternativas": {
+    "a": "150°",
+    "b": "30°",
+    "c": "210°",
+    "d": "330°",
+    "e": "300°"
+   },
+   "resposta": "c",
+   "explicacao": "O argumento de um número complexo é o ângulo que o representa no plano de Argand-Gauss forma com o eixo real positivo. |z| = √(a²+b²) = 2. O argumento θ satisfaz cos θ = a/2 e sen θ = b/2, o que localiza θ = 210° de acordo com o quadrante determinado pelos sinais de a e b. Trocar o sinal de uma das partes leva a um dos ângulos suplementares ou replementares listados nas demais alternativas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-416",
+   "enunciado": "O argumento do número complexo z = 1.7320508075688772 − i (com √3 na parte real), no intervalo [0°, 360°), é:",
+   "alternativas": {
+    "a": "30°",
+    "b": "150°",
+    "c": "210°",
+    "d": "330°",
+    "e": "300°"
+   },
+   "resposta": "d",
+   "explicacao": "|z| = √(3+1) = 2. cos θ = √3/2 e sen θ = −1/2: quarto quadrante (parte real positiva, imaginária negativa), θ = 330°. A alternativa \"30°\" é o ângulo de referência sem considerar que a parte imaginária é negativa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-417",
+   "enunciado": "O argumento do número complexo z = 2i é:",
+   "alternativas": {
+    "a": "0°",
+    "b": "180°",
+    "c": "45°",
+    "d": "270°",
+    "e": "90°"
+   },
+   "resposta": "e",
+   "explicacao": "z = 2i = 0 + 2i está sobre o eixo imaginário positivo, o que corresponde a θ = 90° (cos 90° = 0, sen 90° = 1). A alternativa \"270°\" seria o argumento de um imaginário puro negativo, como z = −2i.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-418",
+   "enunciado": "O argumento do número complexo z = −3 é:",
+   "alternativas": {
+    "a": "180°",
+    "b": "0°",
+    "c": "90°",
+    "d": "270°",
+    "e": "45°"
+   },
+   "resposta": "a",
+   "explicacao": "z = −3 + 0i está sobre o eixo real negativo, o que corresponde a θ = 180° (cos 180° = −1, sen 180° = 0). A alternativa \"0°\" seria o argumento do real positivo 3, sinal oposto ao de z.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-419",
+   "enunciado": "Pelo teorema de De Moivre, ao elevar o número complexo z = 2·(cos 30° + i·sen 30°) à potência 3, o módulo e o argumento do resultado são, respectivamente:",
+   "alternativas": {
+    "a": "6 e 90°",
+    "b": "8 e 90°",
+    "c": "8 e 30°",
+    "d": "5 e 180°",
+    "e": "8 e 270°"
+   },
+   "resposta": "b",
+   "explicacao": "Pelo teorema de De Moivre, zⁿ = rⁿ·(cos(nθ) + i·sen(nθ)): o módulo é elevado à potência n, e o argumento é multiplicado por n. Aqui, módulo 2³ = 8, e argumento 30°×3 = 90°, reduzido a 90° dentro de uma volta completa. Multiplicar o módulo por n em vez de elevá-lo à potência n, como faz a primeira alternativa, é o deslize mais comum.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-420",
+   "enunciado": "Pelo teorema de De Moivre, ao elevar o número complexo z = √2·(cos 45° + i·sen 45°) à potência 4, o módulo e o argumento do resultado são, respectivamente:",
+   "alternativas": {
+    "a": "2 e 180°",
+    "b": "4 e 45°",
+    "c": "4 e 180°",
+    "d": "8 e 90°",
+    "e": "4 e 0°"
+   },
+   "resposta": "c",
+   "explicacao": "Pelo teorema de De Moivre, zⁿ = rⁿ·(cos(nθ) + i·sen(nθ)): o módulo é elevado à potência n, e o argumento é multiplicado por n. Aqui, módulo √2⁴ = 4, e argumento 45°×4 = 180°, reduzido a 180° dentro de uma volta completa. Multiplicar o módulo por n em vez de elevá-lo à potência n, como faz a primeira alternativa, é o deslize mais comum.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-421",
+   "enunciado": "Pelo teorema de De Moivre, ao elevar o número complexo z = 1·(cos 60° + i·sen 60°) à potência 6, o módulo e o argumento do resultado são, respectivamente:",
+   "alternativas": {
+    "a": "6 e 360°",
+    "b": "1 e 60°",
+    "c": "1 e 180°",
+    "d": "1 e 0°",
+    "e": "6 e 0°"
+   },
+   "resposta": "d",
+   "explicacao": "Pelo teorema de De Moivre, zⁿ = rⁿ·(cos(nθ) + i·sen(nθ)): o módulo é elevado à potência n, e o argumento é multiplicado por n. Aqui, módulo 1⁶ = 1, e argumento 60°×6 = 360°, reduzido a 0° dentro de uma volta completa. Multiplicar o módulo por n em vez de elevá-lo à potência n, como faz a primeira alternativa, é o deslize mais comum.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-422",
+   "enunciado": "Pelo teorema de De Moivre, ao elevar o número complexo z = 2·(cos 90° + i·sen 90°) à potência 3, o módulo e o argumento do resultado são, respectivamente:",
+   "alternativas": {
+    "a": "6 e 270°",
+    "b": "8 e 90°",
+    "c": "8 e 180°",
+    "d": "9 e 270°",
+    "e": "8 e 270°"
+   },
+   "resposta": "e",
+   "explicacao": "Pelo teorema de De Moivre, zⁿ = rⁿ·(cos(nθ) + i·sen(nθ)): o módulo é elevado à potência n, e o argumento é multiplicado por n. Aqui, módulo 2³ = 8, e argumento 90°×3 = 270°, reduzido a 270° dentro de uma volta completa. Multiplicar o módulo por n em vez de elevá-lo à potência n, como faz a primeira alternativa, é o deslize mais comum.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-423",
+   "enunciado": "As raízes complexas da equação x² + 16 = 0 são:",
+   "alternativas": {
+    "a": "± 4i",
+    "b": "± 4",
+    "c": "± 16i",
+    "d": "± 8i",
+    "e": "± 2i"
+   },
+   "resposta": "a",
+   "explicacao": "x² = −16 → x = ±√(−16) = ±√16 · √(−1) = ±4i, usando i² = −1. A alternativa \"± 4\" ignora a unidade imaginária e trata o radicando como se fosse positivo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-424",
+   "enunciado": "As raízes complexas da equação x² + 9 = 0 são:",
+   "alternativas": {
+    "a": "± 3",
+    "b": "± 3i",
+    "c": "± 9i",
+    "d": "± 6i",
+    "e": "0 e 3i"
+   },
+   "resposta": "b",
+   "explicacao": "x² = −9 → x = ±√9 · √(−1) = ±3i, usando a unidade imaginária i, para a qual i² = −1. A alternativa \"± 9i\" esquece de extrair a raiz quadrada de 9 antes de multiplicar por i, mantendo o valor original de 9 em vez de 3.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-425",
+   "enunciado": "As raízes complexas da equação x² −2x + 5 = 0 são:",
+   "alternativas": {
+    "a": "2 ± 2i",
+    "b": "1 ± 4i",
+    "c": "1 ± 2i",
+    "d": "−1 ± 2i",
+    "e": "1 ± 1i"
+   },
+   "resposta": "c",
+   "explicacao": "Δ = b² − 4ac = (−2)² − 4·1·5 = 4 − 20 = −16. Como Δ < 0, as raízes são complexas: x = (2 ± √16·i)/2 = (2 ± 4i)/2 = 1 ± 2i. A alternativa \"1 ± 4i\" esquece de dividir a parte imaginária por 2, mantendo √|Δ| inteiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-426",
+   "enunciado": "As raízes complexas da equação x² −4x + 8 = 0 são:",
+   "alternativas": {
+    "a": "4 ± 2i",
+    "b": "2 ± 4i",
+    "c": "−2 ± 2i",
+    "d": "2 ± 2i",
+    "e": "2 ± 1i"
+   },
+   "resposta": "d",
+   "explicacao": "Δ = b² − 4ac = (−4)² − 4·1·8 = 16 − 32 = −16. Como Δ < 0, as raízes são complexas: x = (4 ± √16·i)/2 = (4 ± 4i)/2 = 2 ± 2i. A alternativa \"2 ± 4i\" esquece de dividir a parte imaginária por 2, mantendo √|Δ| inteiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-427",
+   "enunciado": "As raízes complexas da equação x² + 2x + 10 = 0 são:",
+   "alternativas": {
+    "a": "−2 ± 3i",
+    "b": "−1 ± 6i",
+    "c": "1 ± 3i",
+    "d": "−1 ± 2i",
+    "e": "−1 ± 3i"
+   },
+   "resposta": "e",
+   "explicacao": "Δ = b² − 4ac = (2)² − 4·1·10 = 4 − 40 = −36. Como Δ < 0, as raízes são complexas: x = (−2 ± √36·i)/2 = (−2 ± 6i)/2 = −1 ± 3i. A alternativa \"−1 ± 6i\" esquece de dividir a parte imaginária por 2, mantendo √|Δ| inteiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-428",
+   "enunciado": "As raízes complexas da equação x² −8x + 25 = 0 são:",
+   "alternativas": {
+    "a": "4 ± 3i",
+    "b": "8 ± 3i",
+    "c": "4 ± 6i",
+    "d": "−4 ± 3i",
+    "e": "4 ± 2i"
+   },
+   "resposta": "a",
+   "explicacao": "Δ = b² − 4ac = (−8)² − 4·1·25 = 64 − 100 = −36. Como Δ < 0, as raízes são complexas: x = (8 ± √36·i)/2 = (8 ± 6i)/2 = 4 ± 3i. A alternativa \"4 ± 6i\" esquece de dividir a parte imaginária por 2, mantendo √|Δ| inteiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-429",
+   "enunciado": "As raízes complexas da equação x² −6x + 13 = 0 são:",
+   "alternativas": {
+    "a": "6 ± 2i",
+    "b": "3 ± 2i",
+    "c": "3 ± 4i",
+    "d": "−3 ± 2i",
+    "e": "3 ± 1i"
+   },
+   "resposta": "b",
+   "explicacao": "Δ = b² − 4ac = (−6)² − 4·1·13 = 36 − 52 = −16. Como Δ < 0, as raízes são complexas: x = (6 ± √16·i)/2 = (6 ± 4i)/2 = 3 ± 2i. A alternativa \"3 ± 4i\" esquece de dividir a parte imaginária por 2, mantendo √|Δ| inteiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "med-matematica-430",
+   "enunciado": "As raízes complexas da equação x² −10x + 34 = 0 são:",
+   "alternativas": {
+    "a": "10 ± 3i",
+    "b": "5 ± 6i",
+    "c": "5 ± 3i",
+    "d": "−5 ± 3i",
+    "e": "5 ± 2i"
+   },
+   "resposta": "c",
+   "explicacao": "Δ = b² − 4ac = (−10)² − 4·1·34 = 100 − 136 = −36. Como Δ < 0, as raízes são complexas: x = (10 ± √36·i)/2 = (10 ± 6i)/2 = 5 ± 3i. A alternativa \"5 ± 6i\" esquece de dividir a parte imaginária por 2, mantendo √|Δ| inteiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-complexos",
    "id": "eng-complexos-01",
    "enunciado": "O valor de i²⁰²⁶, sendo i a unidade imaginária (i² = −1), é:",
    "alternativas": {
@@ -34880,6 +35648,742 @@ window.QUESTION_BANKS = {
   }
  ],
  "matematica-polinomios": [
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-431",
+   "enunciado": "Dado o polinômio de grau 3, P(x) = 2x³ + x² − 5x + 3, o valor de P(2) é:",
+   "alternativas": {
+    "a": "13",
+    "b": "17",
+    "c": "−13",
+    "d": "10",
+    "e": "20"
+   },
+   "resposta": "a",
+   "explicacao": "Basta substituir x por 2 em P(x) = 2x³ + x² − 5x + 3: P(2) = (2)·2³ + (1)·2² + (−5)·2¹ + (3)·2⁰ = 13. A alternativa \"−13\" é o erro de trocar o sinal do resultado final, comum quando se erra o sinal de alguma potência ímpar de 2.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-432",
+   "enunciado": "Dado o polinômio de grau 4, P(x) = x⁴ − 2x³ + x − 5, o valor de P(1) é:",
+   "alternativas": {
+    "a": "−1",
+    "b": "−5",
+    "c": "5",
+    "d": "−8",
+    "e": "2"
+   },
+   "resposta": "b",
+   "explicacao": "Basta substituir x por 1 em P(x) = x⁴ − 2x³ + x − 5: P(1) = (1)·1⁴ + (−2)·1³ + (0)·1² + (1)·1¹ + (−5)·1⁰ = −5. A alternativa \"5\" é o erro de trocar o sinal do resultado final, comum quando se erra o sinal de alguma potência ímpar de 1.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-433",
+   "enunciado": "Dado o polinômio de grau 4, P(x) = x⁴ − 2x³ + x − 5, o valor de P(2) é:",
+   "alternativas": {
+    "a": "1",
+    "b": "3",
+    "c": "−3",
+    "d": "−6",
+    "e": "4"
+   },
+   "resposta": "c",
+   "explicacao": "Basta substituir x por 2 em P(x) = x⁴ − 2x³ + x − 5: P(2) = (1)·2⁴ + (−2)·2³ + (0)·2² + (1)·2¹ + (−5)·2⁰ = −3. A alternativa \"3\" é o erro de trocar o sinal do resultado final, comum quando se erra o sinal de alguma potência ímpar de 2.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-434",
+   "enunciado": "Dado o polinômio de grau 3, P(x) = x³ − 3x² + 2x − 1, o valor de P(3) é:",
+   "alternativas": {
+    "a": "9",
+    "b": "−5",
+    "c": "2",
+    "d": "5",
+    "e": "12"
+   },
+   "resposta": "d",
+   "explicacao": "Basta substituir x por 3 em P(x) = x³ − 3x² + 2x − 1: P(3) = (1)·3³ + (−3)·3² + (2)·3¹ + (−1)·3⁰ = 5. A alternativa \"−5\" é o erro de trocar o sinal do resultado final, comum quando se erra o sinal de alguma potência ímpar de 3.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-435",
+   "enunciado": "Dado o polinômio de grau 3, P(x) = x³ − 3x² + 2x − 1, o valor de P(−1) é:",
+   "alternativas": {
+    "a": "−3",
+    "b": "7",
+    "c": "−10",
+    "d": "0",
+    "e": "−7"
+   },
+   "resposta": "e",
+   "explicacao": "Basta substituir x por -1 em P(x) = x³ − 3x² + 2x − 1: P(−1) = (1)·−1³ + (−3)·−1² + (2)·−1¹ + (−1)·−1⁰ = −7. A alternativa \"7\" é o erro de trocar o sinal do resultado final, comum quando se erra o sinal de alguma potência ímpar de −1.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-436",
+   "enunciado": "Pelo teorema do resto, o resto da divisão do polinômio P(x) = x³ + 2x² − x + 7 por (x − 1) é:",
+   "alternativas": {
+    "a": "9",
+    "b": "−9",
+    "c": "15",
+    "d": "0",
+    "e": "4"
+   },
+   "resposta": "a",
+   "explicacao": "O teorema do resto (D'Alembert) diz que o resto da divisão de P(x) por (x − a) é P(a). Aqui a = 1, então o resto é P(1) = 9. A alternativa \"0\" só valeria se 1 fosse raiz de P(x), o que não é o caso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-437",
+   "enunciado": "Pelo teorema do resto, o resto da divisão do polinômio P(x) = 2x³ − x² + 3x − 1 por (x + 1) é:",
+   "alternativas": {
+    "a": "7",
+    "b": "−7",
+    "c": "−1",
+    "d": "0",
+    "e": "−12"
+   },
+   "resposta": "b",
+   "explicacao": "O teorema do resto (D'Alembert) diz que o resto da divisão de P(x) por (x − a) é P(a). Aqui a = −1, então o resto é P(−1) = −7. A alternativa \"0\" só valeria se −1 fosse raiz de P(x), o que não é o caso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-438",
+   "enunciado": "Pelo teorema do resto, o resto da divisão do polinômio P(x) = x⁴ − 3x² + 2 por (x − 2) é:",
+   "alternativas": {
+    "a": "−6",
+    "b": "12",
+    "c": "6",
+    "d": "0",
+    "e": "1"
+   },
+   "resposta": "c",
+   "explicacao": "O teorema do resto (D'Alembert) diz que o resto da divisão de P(x) por (x − a) é P(a). Aqui a = 2, então o resto é P(2) = 6. A alternativa \"0\" só valeria se 2 fosse raiz de P(x), o que não é o caso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-439",
+   "enunciado": "Pelo teorema do resto, o resto da divisão do polinômio P(x) = 3x³ − 2x² − 8x + 5 por (x + 2) é:",
+   "alternativas": {
+    "a": "11",
+    "b": "−5",
+    "c": "0",
+    "d": "−11",
+    "e": "−16"
+   },
+   "resposta": "d",
+   "explicacao": "O teorema do resto (D'Alembert) diz que o resto da divisão de P(x) por (x − a) é P(a). Aqui a = −2, então o resto é P(−2) = −11. A alternativa \"0\" só valeria se −2 fosse raiz de P(x), o que não é o caso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-440",
+   "enunciado": "Pelo teorema do resto, o resto da divisão do polinômio P(x) = x³ + 4x² − 5x − 2 por (x + 3) é:",
+   "alternativas": {
+    "a": "−22",
+    "b": "28",
+    "c": "0",
+    "d": "17",
+    "e": "22"
+   },
+   "resposta": "e",
+   "explicacao": "O teorema do resto (D'Alembert) diz que o resto da divisão de P(x) por (x − a) é P(a). Aqui a = −3, então o resto é P(−3) = 22. A alternativa \"0\" só valeria se −3 fosse raiz de P(x), o que não é o caso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-441",
+   "enunciado": "Para que o polinômio P(x) = x³ + kx² − 5x + 6 seja divisível por (x − 1), sem deixar resto, o valor de k deve ser:",
+   "alternativas": {
+    "a": "−2",
+    "b": "2",
+    "c": "1",
+    "d": "−7",
+    "e": "0"
+   },
+   "resposta": "a",
+   "explicacao": "Um polinômio é divisível por (x − a) quando a é raiz, ou seja, P(a) = 0 (teorema do resto). Substituindo x = 1 em P(x) = x³ + kx² − 5x + 6 e igualando a zero, isola-se k = −2. A alternativa \"2\" erra apenas o sinal ao isolar k na equação obtida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-442",
+   "enunciado": "Para que o polinômio P(x) = x³ − 3x² + kx − 4 seja divisível por (x − 2), sem deixar resto, o valor de k deve ser:",
+   "alternativas": {
+    "a": "−4",
+    "b": "4",
+    "c": "7",
+    "d": "−1",
+    "e": "0"
+   },
+   "resposta": "b",
+   "explicacao": "Um polinômio é divisível por (x − a) quando a é raiz, ou seja, P(a) = 0 (teorema do resto). Substituindo x = 2 em P(x) = x³ − 3x² + kx − 4 e igualando a zero, isola-se k = 4. A alternativa \"−4\" erra apenas o sinal ao isolar k na equação obtida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-443",
+   "enunciado": "Para que o polinômio P(x) = x³ − 5x² + kx − 6 seja divisível por (x − 3), sem deixar resto, o valor de k deve ser:",
+   "alternativas": {
+    "a": "−8",
+    "b": "11",
+    "c": "8",
+    "d": "3",
+    "e": "0"
+   },
+   "resposta": "c",
+   "explicacao": "Um polinômio é divisível por (x − a) quando a é raiz, ou seja, P(a) = 0 (teorema do resto). Substituindo x = 3 em P(x) = x³ − 5x² + kx − 6 e igualando a zero, isola-se k = 8. A alternativa \"−8\" erra apenas o sinal ao isolar k na equação obtida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-444",
+   "enunciado": "Para que o polinômio P(x) = 2x³ + kx² − 7x + 6 seja divisível por (x − 1), sem deixar resto, o valor de k deve ser:",
+   "alternativas": {
+    "a": "1",
+    "b": "2",
+    "c": "−6",
+    "d": "−1",
+    "e": "0"
+   },
+   "resposta": "d",
+   "explicacao": "Um polinômio é divisível por (x − a) quando a é raiz, ou seja, P(a) = 0 (teorema do resto). Substituindo x = 1 em P(x) = 2x³ + kx² − 7x + 6 e igualando a zero, isola-se k = −1. A alternativa \"1\" erra apenas o sinal ao isolar k na equação obtida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-445",
+   "enunciado": "Para que o polinômio P(x) = x³ + 2x² − kx + 8 seja divisível por (x + 2), sem deixar resto, o valor de k deve ser:",
+   "alternativas": {
+    "a": "4",
+    "b": "−1",
+    "c": "−9",
+    "d": "0",
+    "e": "−4"
+   },
+   "resposta": "e",
+   "explicacao": "Um polinômio é divisível por (x − a) quando a é raiz, ou seja, P(a) = 0 (teorema do resto). Substituindo x = −2 em P(x) = x³ + 2x² − kx + 8 e igualando a zero, isola-se k = −4. A alternativa \"4\" erra apenas o sinal ao isolar k na equação obtida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-446",
+   "enunciado": "Na divisão de polinômios em que um polinômio de grau 7 é dividido por um polinômio de grau 3, o grau do quociente obtido é:",
+   "alternativas": {
+    "a": "4",
+    "b": "10",
+    "c": "7",
+    "d": "3",
+    "e": "6"
+   },
+   "resposta": "a",
+   "explicacao": "No algoritmo da divisão de polinômios, o grau do quociente é a diferença entre os graus do dividendo e do divisor: 7 − 3 = 4. A alternativa \"10\" soma os graus em vez de subtrair — confusão com a regra do produto de polinômios, em que os graus se somam.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-447",
+   "enunciado": "Na divisão de polinômios em que um polinômio de grau 9 é dividido por um polinômio de grau 4, o grau do quociente obtido é:",
+   "alternativas": {
+    "a": "13",
+    "b": "5",
+    "c": "9",
+    "d": "4",
+    "e": "7"
+   },
+   "resposta": "b",
+   "explicacao": "No algoritmo da divisão de polinômios, o grau do quociente é a diferença entre os graus do dividendo e do divisor: 9 − 4 = 5. A alternativa \"13\" soma os graus em vez de subtrair — confusão com a regra do produto de polinômios, em que os graus se somam.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-448",
+   "enunciado": "Na divisão de polinômios em que um polinômio de grau 8 é dividido por um polinômio de grau 5, o grau do quociente obtido é:",
+   "alternativas": {
+    "a": "13",
+    "b": "8",
+    "c": "3",
+    "d": "5",
+    "e": "2"
+   },
+   "resposta": "c",
+   "explicacao": "No algoritmo da divisão de polinômios, o grau do quociente é a diferença entre os graus do dividendo e do divisor: 8 − 5 = 3. A alternativa \"13\" soma os graus em vez de subtrair — confusão com a regra do produto de polinômios, em que os graus se somam.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-449",
+   "enunciado": "Pelas relações de Girard, para a equação 2x²  − 7x + 3 = 0, a soma das raízes e o produto das raízes são, respectivamente:",
+   "alternativas": {
+    "a": "−7/2 e 3/2",
+    "b": "−7 e 3",
+    "c": "7/2 e −3/2",
+    "d": "7/2 e 3/2",
+    "e": "3/2 e 7/2"
+   },
+   "resposta": "d",
+   "explicacao": "Nas relações de Girard para ax² + bx + c = 0: a soma das raízes vale −b/a = −(−7)/2 = 7/2, e o produto das raízes vale c/a = 3/2 = 3/2. A alternativa \"−7 e 3\" usa os coeficientes diretamente, sem dividir por a nem trocar o sinal de b.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-450",
+   "enunciado": "Pelas relações de Girard, para a equação 3x²  + 5x − 2 = 0, a soma das raízes e o produto das raízes são, respectivamente:",
+   "alternativas": {
+    "a": "5/3 e −2/3",
+    "b": "5 e −2",
+    "c": "−5/3 e 2/3",
+    "d": "−2/3 e −5/3",
+    "e": "−5/3 e −2/3"
+   },
+   "resposta": "e",
+   "explicacao": "Nas relações de Girard para ax² + bx + c = 0: a soma das raízes vale −b/a = −(5)/3 = −5/3, e o produto das raízes vale c/a = −2/3 = −2/3. A alternativa \"5 e −2\" usa os coeficientes diretamente, sem dividir por a nem trocar o sinal de b.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-451",
+   "enunciado": "Pelas relações de Girard, para a equação x²  − 5x + 6 = 0, a soma das raízes e o produto das raízes são, respectivamente:",
+   "alternativas": {
+    "a": "5 e 6",
+    "b": "6 e 5",
+    "c": "−5 e 6",
+    "d": "5 e −6",
+    "e": "−5 e −6"
+   },
+   "resposta": "a",
+   "explicacao": "Nas relações de Girard para ax² + bx + c = 0: a soma das raízes vale −b/a = −(−5)/1 = 5, e o produto das raízes vale c/a = 6/1 = 6. A alternativa \"−5 e 6\" usa os coeficientes diretamente, sem dividir por a nem trocar o sinal de b.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-452",
+   "enunciado": "Pelas relações de Girard, para a equação 4x²  − 4x − 3 = 0, a soma das raízes e o produto das raízes são, respectivamente:",
+   "alternativas": {
+    "a": "−3/4 e 1",
+    "b": "1 e −3/4",
+    "c": "−4 e −3",
+    "d": "1 e 3/4",
+    "e": "−1 e −3/4"
+   },
+   "resposta": "b",
+   "explicacao": "Nas relações de Girard para ax² + bx + c = 0: a soma das raízes vale −b/a = −(−4)/4 = 1, e o produto das raízes vale c/a = −3/4 = −3/4. A alternativa \"−4 e −3\" usa os coeficientes diretamente, sem dividir por a nem trocar o sinal de b.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-453",
+   "enunciado": "Pelas relações de Girard, para a equação polinomial x³ − 6x² + 11x − 6 = 0, a soma das raízes e o produto das raízes são, respectivamente:",
+   "alternativas": {
+    "a": "11 e 6",
+    "b": "−6 e −6",
+    "c": "6 e 6",
+    "d": "6 e 11",
+    "e": "11 e -6"
+   },
+   "resposta": "c",
+   "explicacao": "Nas relações de Girard para x³ + bx² + cx + d = 0 (coeficiente líder 1): a soma das raízes é −b, o produto das três raízes é −d. Aqui b = −6 e d = −6, logo a soma vale 6 e o produto vale 6. Usar b e d diretamente, sem trocar o sinal, é o erro mais comum nessa conta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-454",
+   "enunciado": "Pelas relações de Girard, para a equação polinomial x³ − 2x² − 5x + 6 = 0, a soma das raízes e o produto das raízes são, respectivamente:",
+   "alternativas": {
+    "a": "−6 e 2",
+    "b": "2 e -5",
+    "c": "-2 e -6",
+    "d": "2 e −6",
+    "e": "−5 e 2"
+   },
+   "resposta": "d",
+   "explicacao": "Nas relações de Girard para x³ + bx² + cx + d = 0 (coeficiente líder 1): a soma das raízes é −b, o produto das três raízes é −d. Aqui b = −2 e d = 6, logo a soma vale 2 e o produto vale −6. Usar b e d diretamente, sem trocar o sinal, é o erro mais comum nessa conta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-455",
+   "enunciado": "Pelas relações de Girard, para a equação polinomial x³ + 3x² − 4x − 12 = 0, a soma das raízes e o produto das raízes são, respectivamente:",
+   "alternativas": {
+    "a": "12 e -3",
+    "b": "3 e -12",
+    "c": "-3 e -12",
+    "d": "-4 e 12",
+    "e": "−3 e 12"
+   },
+   "resposta": "e",
+   "explicacao": "Nas relações de Girard para x³ + bx² + cx + d = 0 (coeficiente líder 1): a soma das raízes é −b, o produto das três raízes é −d. Aqui b = 3 e d = −12, logo a soma vale −3 e o produto vale 12. Usar b e d diretamente, sem trocar o sinal, é o erro mais comum nessa conta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-456",
+   "enunciado": "Pelas relações de Girard, na equação polinomial x³ − x² − 4x + 4 = 0, a soma dos produtos das raízes tomadas duas a duas é:",
+   "alternativas": {
+    "a": "−4",
+    "b": "4",
+    "c": "-1",
+    "d": "1",
+    "e": "-8"
+   },
+   "resposta": "a",
+   "explicacao": "Nas relações de Girard, para um polinômio de grau 3 escrito como x³ + bx² + cx + d, a soma dos produtos das raízes tomadas duas a duas é igual a c, o coeficiente do termo de grau 1. Aqui c = −4, logo a resposta é −4. A alternativa que usa b em vez de c confunde essa relação com a soma simples das raízes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-457",
+   "enunciado": "Pelas relações de Girard, na equação polinomial x³ − x² − 10x − 8 = 0, a soma dos produtos das raízes tomadas duas a duas é:",
+   "alternativas": {
+    "a": "10",
+    "b": "−10",
+    "c": "-1",
+    "d": "8",
+    "e": "-14"
+   },
+   "resposta": "b",
+   "explicacao": "Nas relações de Girard, para um polinômio de grau 3 escrito como x³ + bx² + cx + d, a soma dos produtos das raízes tomadas duas a duas é igual a c, o coeficiente do termo de grau 1. Aqui c = −10, logo a resposta é −10. A alternativa que usa b em vez de c confunde essa relação com a soma simples das raízes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-458",
+   "enunciado": "O polinômio P(x) = x³ − 3x² + 4 tem uma raiz de multiplicidade 2 (raiz dupla) igual a:",
+   "alternativas": {
+    "a": "−1",
+    "b": "−2",
+    "c": "2",
+    "d": "4",
+    "e": "3"
+   },
+   "resposta": "c",
+   "explicacao": "Uma raiz dupla de P(x) satisfaz P(a) = 0 e também anula a derivada de P em a — equivalentemente, (x − a)² divide P(x) exatamente. Verificando x = 2: P(2) = 0, e o fator (x − 2) aparece duas vezes na fatoração de P(x). A alternativa \"−1\" é raiz de P(x), mas com multiplicidade 1, não 2.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-459",
+   "enunciado": "O polinômio P(x) = x³ + x² − 5x + 3 tem uma raiz de multiplicidade 2 (raiz dupla) igual a:",
+   "alternativas": {
+    "a": "−3",
+    "b": "−1",
+    "c": "5",
+    "d": "1",
+    "e": "2"
+   },
+   "resposta": "d",
+   "explicacao": "Uma raiz dupla de P(x) satisfaz P(a) = 0 e também anula a derivada de P em a — equivalentemente, (x − a)² divide P(x) exatamente. Verificando x = 1: P(1) = 0, e o fator (x − 1) aparece duas vezes na fatoração de P(x). A alternativa \"−3\" é raiz de P(x), mas com multiplicidade 1, não 2.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-460",
+   "enunciado": "O polinômio P(x) = x³ + 3x² − 4 tem uma raiz de multiplicidade 2 (raiz dupla) igual a:",
+   "alternativas": {
+    "a": "1",
+    "b": "2",
+    "c": "4",
+    "d": "−4",
+    "e": "−2"
+   },
+   "resposta": "e",
+   "explicacao": "Uma raiz dupla de P(x) satisfaz P(a) = 0 e também anula a derivada de P em a — equivalentemente, (x − a)² divide P(x) exatamente. Verificando x = −2: P(−2) = 0, e o fator (x − −2) aparece duas vezes na fatoração de P(x). A alternativa \"1\" é raiz de P(x), mas com multiplicidade 1, não 2.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-461",
+   "enunciado": "Pelo teorema das raízes racionais, dentre os candidatos a raiz racional do polinômio P(x) = x³ − 2x² − 5x + 6, o que de fato é raiz do polinômio é:",
+   "alternativas": {
+    "a": "1",
+    "b": "4",
+    "c": "5",
+    "d": "-6",
+    "e": "1/2"
+   },
+   "resposta": "a",
+   "explicacao": "O teorema das raízes racionais lista como candidatos os quocientes entre divisores do termo independente e divisores do coeficiente líder. Testando os candidatos em P(x) por substituição direta, apenas x = 1 anula o polinômio: P(1) = 0. Os demais candidatos são divisores válidos do termo independente, mas não zeram P(x) quando substituídos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-462",
+   "enunciado": "Pelo teorema das raízes racionais, dentre os candidatos a raiz racional do polinômio P(x) = x³ − 6x² + 11x − 6, o que de fato é raiz do polinômio é:",
+   "alternativas": {
+    "a": "4",
+    "b": "3",
+    "c": "-1",
+    "d": "5",
+    "e": "3/2"
+   },
+   "resposta": "b",
+   "explicacao": "O teorema das raízes racionais lista como candidatos os quocientes entre divisores do termo independente e divisores do coeficiente líder. Testando os candidatos em P(x) por substituição direta, apenas x = 3 anula o polinômio: P(3) = 0. Os demais candidatos são divisores válidos do termo independente, mas não zeram P(x) quando substituídos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-463",
+   "enunciado": "Pelo teorema das raízes racionais, dentre os candidatos a raiz racional do polinômio P(x) = x³ − x² − 4x + 4, o que de fato é raiz do polinômio é:",
+   "alternativas": {
+    "a": "3",
+    "b": "-4",
+    "c": "-2",
+    "d": "1/2",
+    "e": "5"
+   },
+   "resposta": "c",
+   "explicacao": "O teorema das raízes racionais lista como candidatos os quocientes entre divisores do termo independente e divisores do coeficiente líder. Testando os candidatos em P(x) por substituição direta, apenas x = -2 anula o polinômio: P(-2) = 0. Os demais candidatos são divisores válidos do termo independente, mas não zeram P(x) quando substituídos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-464",
+   "enunciado": "Pelo teorema fundamental da álgebra, um polinômio de grau 5 tem, contando as multiplicidades, exatamente quantas raízes?",
+   "alternativas": {
+    "a": "4",
+    "b": "6",
+    "c": "10",
+    "d": "5",
+    "e": "1"
+   },
+   "resposta": "d",
+   "explicacao": "O teorema fundamental da álgebra garante que todo polinômio de grau n (n ≥ 1) tem exatamente n raízes, contando cada uma com sua multiplicidade. Para um polinômio de grau 5, são 5 raízes. A alternativa \"4\" esquece de contar uma das raízes, erro comum quando alguma delas tem multiplicidade maior que 1 e é contada só uma vez.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-465",
+   "enunciado": "Pelo teorema fundamental da álgebra, um polinômio de grau 6 tem, contando as multiplicidades, exatamente quantas raízes?",
+   "alternativas": {
+    "a": "5",
+    "b": "7",
+    "c": "12",
+    "d": "1",
+    "e": "6"
+   },
+   "resposta": "e",
+   "explicacao": "O teorema fundamental da álgebra garante que todo polinômio de grau n (n ≥ 1) tem exatamente n raízes, contando cada uma com sua multiplicidade. Para um polinômio de grau 6, são 6 raízes. A alternativa \"5\" esquece de contar uma das raízes, erro comum quando alguma delas tem multiplicidade maior que 1 e é contada só uma vez.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-466",
+   "enunciado": "Pelo teorema fundamental da álgebra, um polinômio de grau 4 tem, contando as multiplicidades, exatamente quantas raízes?",
+   "alternativas": {
+    "a": "4",
+    "b": "3",
+    "c": "5",
+    "d": "8",
+    "e": "1"
+   },
+   "resposta": "a",
+   "explicacao": "O teorema fundamental da álgebra garante que todo polinômio de grau n (n ≥ 1) tem exatamente n raízes, contando cada uma com sua multiplicidade. Para um polinômio de grau 4, são 4 raízes. A alternativa \"3\" esquece de contar uma das raízes, erro comum quando alguma delas tem multiplicidade maior que 1 e é contada só uma vez.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-467",
+   "enunciado": "No polinômio P(x) = 3x⁴ − 2x³ + x − 5, o grau do polinômio e o coeficiente líder são, respectivamente:",
+   "alternativas": {
+    "a": "3 e 4",
+    "b": "4 e 3",
+    "c": "3 e 3",
+    "d": "4 e −5",
+    "e": "5 e 3"
+   },
+   "resposta": "b",
+   "explicacao": "O grau do polinômio é o maior expoente de x com coeficiente não nulo, aqui 4; o coeficiente líder é o coeficiente desse termo de maior grau, aqui 3. A alternativa \"4 e −5\" confunde o coeficiente líder com o termo independente (o coeficiente do termo de grau 0).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-468",
+   "enunciado": "No polinômio P(x) = −2x³ + 5x² − x + 7, o grau do polinômio e o coeficiente líder são, respectivamente:",
+   "alternativas": {
+    "a": "−2 e 3",
+    "b": "2 e −2",
+    "c": "3 e −2",
+    "d": "3 e 7",
+    "e": "4 e −2"
+   },
+   "resposta": "c",
+   "explicacao": "O grau do polinômio é o maior expoente de x com coeficiente não nulo, aqui 3; o coeficiente líder é o coeficiente desse termo de maior grau, aqui −2. A alternativa \"3 e 7\" confunde o coeficiente líder com o termo independente (o coeficiente do termo de grau 0).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-469",
+   "enunciado": "No polinômio P(x) = x⁵ − 4x² + 2, o grau do polinômio e o coeficiente líder são, respectivamente:",
+   "alternativas": {
+    "a": "1 e 5",
+    "b": "4 e 1",
+    "c": "5 e 2",
+    "d": "5 e 1",
+    "e": "6 e 1"
+   },
+   "resposta": "d",
+   "explicacao": "O grau do polinômio é o maior expoente de x com coeficiente não nulo, aqui 5; o coeficiente líder é o coeficiente desse termo de maior grau, aqui 1. A alternativa \"5 e 2\" confunde o coeficiente líder com o termo independente (o coeficiente do termo de grau 0).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-470",
+   "enunciado": "Sabendo que x = 1 é raiz do polinômio P(x) = x³ − 2x² − 5x + 6, o quociente da divisão de P(x) por (x − 1) é:",
+   "alternativas": {
+    "a": "2x² − 5",
+    "b": "x² − 3x − 6",
+    "c": "x² − 2x − 5",
+    "d": "−x² + x + 6",
+    "e": "x² − x − 6"
+   },
+   "resposta": "e",
+   "explicacao": "Dividindo P(x) por (x − 1) — por Briot-Ruffini, com raiz 1 e coeficientes 1, −2, −5, 6 — obtém-se quociente x² − x − 6, de grau um a menos que P(x). Fatorando ainda o quociente, P(x) = (x − 1)·(x − 3)(x + 2). A alternativa que só copia os três primeiros coeficientes de P(x) ignora o processo da divisão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-471",
+   "enunciado": "Sabendo que x = 2 é raiz do polinômio P(x) = x³ − 6x² + 11x − 6, o quociente da divisão de P(x) por (x − 2) é:",
+   "alternativas": {
+    "a": "x² − 4x + 3",
+    "b": "2x² − 3x + 4",
+    "c": "x² − 6x + 3",
+    "d": "x² − 6x + 11",
+    "e": "−x² + 4x − 3"
+   },
+   "resposta": "a",
+   "explicacao": "Dividindo P(x) por (x − 2) — por Briot-Ruffini, com raiz 2 e coeficientes 1, −6, 11, −6 — obtém-se quociente x² − 4x + 3, de grau um a menos que P(x). Fatorando ainda o quociente, P(x) = (x − 2)·(x − 1)(x − 3). A alternativa que só copia os três primeiros coeficientes de P(x) ignora o processo da divisão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-472",
+   "enunciado": "Sabendo que x = 2 é raiz do polinômio P(x) = x³ + 3x² − 4x − 12, o quociente da divisão de P(x) por (x − 2) é:",
+   "alternativas": {
+    "a": "2x² + 6x + 7",
+    "b": "x² + 5x + 6",
+    "c": "x² + 3x + 6",
+    "d": "x² + 3x − 4",
+    "e": "−x² − 5x − 6"
+   },
+   "resposta": "b",
+   "explicacao": "Dividindo P(x) por (x − 2) — por Briot-Ruffini, com raiz 2 e coeficientes 1, 3, −4, −12 — obtém-se quociente x² + 5x + 6, de grau um a menos que P(x). Fatorando ainda o quociente, P(x) = (x − 2)·(x + 2)(x + 3). A alternativa que só copia os três primeiros coeficientes de P(x) ignora o processo da divisão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-473",
+   "enunciado": "Sabendo que x = 1 é raiz do polinômio P(x) = x³ − x² − 4x + 4, o quociente da divisão de P(x) por (x − 1) é:",
+   "alternativas": {
+    "a": "2x² + x − 3",
+    "b": "x² − 2x − 4",
+    "c": "x² − 4",
+    "d": "x² − x − 4",
+    "e": "−x² + 4"
+   },
+   "resposta": "c",
+   "explicacao": "Dividindo P(x) por (x − 1) — por Briot-Ruffini, com raiz 1 e coeficientes 1, −1, −4, 4 — obtém-se quociente x² − 4, de grau um a menos que P(x). Fatorando ainda o quociente, P(x) = (x − 1)·(x − 2)(x + 2). A alternativa que só copia os três primeiros coeficientes de P(x) ignora o processo da divisão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-474",
+   "enunciado": "Um polinômio de grau 3, com coeficiente líder igual a 1, tem raízes −1, −2, 4. Esse polinômio, na forma P(x) = x³ + bx² + cx + d, é:",
+   "alternativas": {
+    "a": "x³ + x² + 10x + 8",
+    "b": "x³ + x² − 10x − 8",
+    "c": "x³ − x² − 13x − 8",
+    "d": "x³ − x² − 10x − 8",
+    "e": "x³ − x² − 10x − 4"
+   },
+   "resposta": "d",
+   "explicacao": "Se as raízes são -1, -2, 4, o polinômio é P(x) = (x + 1)(x + 2)(x − 4). Expandindo esse produto, chega-se a P(x) = x³ − x² − 10x − 8. Pelas relações de Girard, o coeficiente b é o oposto da soma das raízes e d é o oposto do produto das raízes — inverter esses sinais é o erro da alternativa \"x³ + x² + 10x + 8\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-475",
+   "enunciado": "Um polinômio de grau 3, com coeficiente líder igual a 1, tem raízes 1, −1, 5. Esse polinômio, na forma P(x) = x³ + bx² + cx + d, é:",
+   "alternativas": {
+    "a": "x³ + 5x² + x − 5",
+    "b": "x³ − 3x² − x + 5",
+    "c": "x³ − 5x² − 4x + 5",
+    "d": "x³ − 5x² − x + 9",
+    "e": "x³ − 5x² − x + 5"
+   },
+   "resposta": "e",
+   "explicacao": "Se as raízes são 1, -1, 5, o polinômio é P(x) = (x − 1)(x + 1)(x − 5). Expandindo esse produto, chega-se a P(x) = x³ − 5x² − x + 5. Pelas relações de Girard, o coeficiente b é o oposto da soma das raízes e d é o oposto do produto das raízes — inverter esses sinais é o erro da alternativa \"x³ + 5x² + x − 5\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "med-matematica-476",
+   "enunciado": "Um polinômio de grau 3, com coeficiente líder igual a 1, tem raízes −3, 1, 2. Esse polinômio, na forma P(x) = x³ + bx² + cx + d, é:",
+   "alternativas": {
+    "a": "x³ − 7x + 6",
+    "b": "x³ + 7x − 6",
+    "c": "x³ + 2x² − 7x + 6",
+    "d": "x³ − 10x + 6",
+    "e": "x³ − 7x + 10"
+   },
+   "resposta": "a",
+   "explicacao": "Se as raízes são -3, 1, 2, o polinômio é P(x) = (x + 3)(x − 1)(x − 2). Expandindo esse produto, chega-se a P(x) = x³ − 7x + 6. Pelas relações de Girard, o coeficiente b é o oposto da soma das raízes e d é o oposto do produto das raízes — inverter esses sinais é o erro da alternativa \"x³ + 7x − 6\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
   {
    "subtema": "matematica-polinomios",
    "id": "eng-polinomios-01",

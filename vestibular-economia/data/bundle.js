@@ -22575,6 +22575,495 @@ window.QUESTION_BANKS = {
    "explicacao": "Não há erro de gramática: as frases estão bem formadas. O que falha é a escolha do registro — \"galera\" e \"se liguem\" pertencem à conversa informal e destoam de um comunicado institucional.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-198",
+   "texto_apoio": "\"O plantão foi tranquilo até as três da manhã. Depois disso, tudo mudou.\"",
+   "enunciado": "A expressão \"depois disso\" estabelece coesão com o restante do texto por meio de um mecanismo de:",
+   "alternativas": {
+    "a": "retomada anafórica, já que \"isso\" recupera toda a ideia expressa na frase anterior, garantindo a progressão do texto",
+    "b": "referência catafórica, pois \"isso\" antecipa uma ideia que só será apresentada em frases posteriores do texto, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "c": "elipse, uma vez que um termo essencial foi totalmente omitido entre as duas frases apresentadas",
+    "d": "paralelismo sintático, já que reproduz exatamente a mesma estrutura gramatical da frase anterior",
+    "e": "ambiguidade proposital, pois o pronome \"isso\" pode se referir a qualquer trecho anterior do texto"
+   },
+   "resposta": "a",
+   "explicacao": "O pronome \"isso\" retoma, de forma anafórica, toda a ideia expressa na frase anterior — a calma do plantão até as três da manhã —, garantindo a coesão entre os dois períodos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-199",
+   "texto_apoio": "\"Eis o que direi à equipe: cada profissional deve registrar o horário exato de cada procedimento.\"",
+   "enunciado": "A expressão \"eis o que direi\" antecipa uma informação que só se completa na frase seguinte. Esse recurso coesivo denomina-se:",
+   "alternativas": {
+    "a": "retomada anafórica, já que recupera uma ideia apresentada anteriormente em algum trecho do texto",
+    "b": "referência catafórica, pois o elemento \"o que\" aponta para uma ideia que ainda será desenvolvida no texto",
+    "c": "elipse, uma vez que omite um termo que poderia ser facilmente recuperado pelo contexto da frase",
+    "d": "paráfrase, pois reformula, com outras palavras, uma ideia que já havia sido dita antes no texto",
+    "e": "gradação, já que organiza as informações do texto em ordem crescente de importância e intensidade, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento"
+   },
+   "resposta": "b",
+   "explicacao": "O elemento \"o que\" aponta para frente, para uma informação que ainda será apresentada — a instrução sobre o registro dos horários —, caracterizando uma referência catafórica, sem deixar ambiguidade sobre o que está por vir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-200",
+   "enunciado": "\"A residente revisou três prontuários e devolveu-os organizados à secretaria.\" O pronome \"os\", em \"devolveu-os\", promove a coesão do texto ao:",
+   "alternativas": {
+    "a": "antecipar uma informação que somente seria esclarecida em uma frase posterior, ainda não mencionada no texto, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do trecho",
+    "b": "introduzir um novo elemento no texto, sem qualquer relação de sentido com o restante do período apresentado",
+    "c": "retomar o termo \"três prontuários\", evitando a repetição desnecessária dessa expressão na segunda parte da frase",
+    "d": "marcar uma oposição entre a ação de conferir e a ação de devolver, contrastando os dois momentos do texto",
+    "e": "indicar uma condição sem a qual a devolução dos prontuários à secretaria não poderia ocorrer"
+   },
+   "resposta": "c",
+   "explicacao": "O pronome \"os\" retoma \"três prontuários\", evitando a repetição do termo, assegurando a coesão referencial anafórica entre as duas partes da frase e afastando qualquer ambiguidade sobre o que foi devolvido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-201",
+   "texto_apoio": "\"A superlotação dos prontos-socorros é um problema antigo. Ela decorre, em parte, da falta de leitos de retaguarda.\"",
+   "enunciado": "O elemento \"ela\", no segundo período, cumpre a função coesiva de:",
+   "alternativas": {
+    "a": "introduzir um assunto totalmente novo, desconectado do que havia sido apresentado no período anterior, suposição que a ordem das palavras no trecho poderia, à primeira vista, sustentar",
+    "b": "antecipar uma informação que só seria revelada adiante, em um trecho posterior do texto completo",
+    "c": "estabelecer uma comparação entre dois problemas distintos mencionados ao longo de todo o texto",
+    "d": "retomar \"a superlotação dos prontos-socorros\", mantendo o texto coeso sem repetir a expressão por inteiro",
+    "e": "indicar uma condição hipotética sobre a origem da superlotação nos prontos-socorros mencionados"
+   },
+   "resposta": "d",
+   "explicacao": "\"Ela\" retoma o elemento coesivo já apresentado — \"a superlotação dos prontos-socorros\" —, evitando a repetição, mantendo a continuidade referencial do texto e afastando qualquer ambiguidade quanto ao referente do pronome.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-202",
+   "enunciado": "Sobre os mecanismos de retomada de termos ao longo de um texto, é correto afirmar que:",
+   "alternativas": {
+    "a": "toda retomada de termo depende obrigatoriamente da repetição literal e integral da mesma expressão ao longo de todo o texto",
+    "b": "a coesão de um texto se resume exclusivamente ao uso de conectivos, sem qualquer participação de elementos que retomam termos, conforme a estrutura superficial do trecho poderia, num primeiro momento, sugerir ao leitor menos atento",
+    "c": "um elemento coesivo nunca pode aparecer antes do termo a que se refere, apenas depois dele, em qualquer situação",
+    "d": "textos bem construídos evitam por completo qualquer tipo de retomada, preferindo sempre introduzir termos inéditos",
+    "e": "um elemento coesivo pode substituir uma expressão já mencionada, reduzindo repetições e garantindo a progressão do sentido entre as partes"
+   },
+   "resposta": "e",
+   "explicacao": "A retomada por meio de elementos coesivos — pronomes, sinônimos, expressões resumitivas — é um dos principais mecanismos que garantem a coesão referencial de um texto, evitando repetições desnecessárias.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-203",
+   "texto_apoio": "\"Muitos residentes relatam exaustão após plantões seguidos. Esse quadro tem se tornado cada vez mais frequente nos hospitais universitários.\"",
+   "enunciado": "A expressão \"esse quadro\", no segundo período, resume e retoma:",
+   "alternativas": {
+    "a": "toda a ideia de exaustão relatada pelos residentes após plantões seguidos, apresentada no período anterior",
+    "b": "apenas o termo \"hospitais universitários\", mencionado exclusivamente no segundo período do texto",
+    "c": "uma informação nova, que ainda seria apresentada em detalhes nos períodos seguintes do texto",
+    "d": "uma condição hipotética para que a exaustão dos residentes viesse a se tornar mais frequente",
+    "e": "uma comparação entre dois grupos distintos de profissionais mencionados ao longo do texto completo, conforme a proximidade entre os termos no texto poderia equivocadamente sugerir ao leitor menos atento"
+   },
+   "resposta": "a",
+   "explicacao": "\"Esse quadro\" é uma expressão resumitiva que retoma toda a ideia anterior — a exaustão relatada pelos residentes —, funcionando como elemento coesivo de síntese, sem qualquer ambiguidade sobre o que está sendo descrito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-204",
+   "enunciado": "Sobre o papel dos conectivos na construção do sentido de um texto, é correto afirmar que:",
+   "alternativas": {
+    "a": "os conectivos servem apenas para tornar o texto mais longo, sem qualquer influência sobre o sentido das partes que ligam, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "b": "cada conectivo carrega um valor lógico-semântico próprio, capaz de estabelecer relações como oposição, conclusão ou explicação entre as partes do texto",
+    "c": "um mesmo conectivo produz sempre o mesmo efeito de sentido, independentemente do contexto em que for empregado",
+    "d": "textos bem escritos dispensam totalmente o uso de conectivos, substituindo-os sempre por marcas gráficas no papel",
+    "e": "os conectivos só podem aparecer entre frases distintas, nunca dentro de uma mesma frase ou período"
+   },
+   "resposta": "b",
+   "explicacao": "Os conectivos são elementos coesivos que orientam a interpretação do texto, sinalizando relações lógico-semânticas específicas entre as ideias — o valor de cada um depende também do contexto em que aparece.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-205",
+   "texto_apoio": "\"O quadro parecia estável. No entanto, o monitor indicava uma queda progressiva da saturação.\"",
+   "enunciado": "O elemento coesivo \"no entanto\" estabelece, entre as duas frases, uma relação de sentido de:",
+   "alternativas": {
+    "a": "adição, somando duas informações complementares sobre o mesmo estado clínico apresentado",
+    "b": "explicação, esclarecendo o motivo pelo qual o quadro do paciente parecia estável naquele momento",
+    "c": "contraste, opondo a aparência de estabilidade do quadro ao dado objetivo indicado pelo monitor",
+    "d": "conclusão, apresentando a queda da saturação como resultado lógico da estabilidade do quadro",
+    "e": "finalidade, indicando o propósito com que o monitor foi instalado para acompanhar o paciente"
+   },
+   "resposta": "c",
+   "explicacao": "\"No entanto\" é um conectivo de valor semântico contrastivo, que opõe a impressão inicial de estabilidade ao dado real fornecido pelo monitor.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-206",
+   "texto_apoio": "\"Não houve tempo para exames complementares; sendo assim, a conduta seguiu apenas o exame clínico.\"",
+   "enunciado": "A expressão \"sendo assim\" funciona, nesse trecho, como elemento coesivo que estabelece relação de sentido:",
+   "alternativas": {
+    "a": "contrastiva, opondo a falta de tempo à possibilidade de realização de exames complementares",
+    "b": "aditiva, somando duas informações independentes sobre a rotina do atendimento realizado",
+    "c": "explicativa, justificando o motivo pelo qual não houve tempo para os exames complementares",
+    "d": "conclusiva, apresentando a conduta baseada no exame clínico como decorrência lógica da falta de tempo",
+    "e": "comparativa, comparando o exame clínico realizado com os exames complementares não realizados, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento"
+   },
+   "resposta": "d",
+   "explicacao": "\"Sendo assim\" retoma a informação anterior e introduz uma conclusão a partir dela — a conduta seguida decorre logicamente da falta de tempo relatada, sem deixar ambiguidade quanto ao motivo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-207",
+   "texto_apoio": "\"O paciente recusou a internação; portanto, a equipe registrou a alta a pedido no prontuário.\"",
+   "enunciado": "O elemento coesivo \"portanto\" estabelece, nesse trecho, uma relação de:",
+   "alternativas": {
+    "a": "condição, estabelecendo uma exigência sem a qual o registro no prontuário não poderia ter sido feito, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do trecho",
+    "b": "contraste, opondo a recusa do paciente ao procedimento adotado em seguida pela equipe responsável",
+    "c": "explicação, esclarecendo o motivo mais profundo pelo qual o paciente recusou a internação sugerida",
+    "d": "adição, somando duas informações independentes sobre a rotina de registro da equipe médica",
+    "e": "conclusão, indicando que o registro da alta a pedido decorre logicamente da recusa manifestada pelo paciente"
+   },
+   "resposta": "e",
+   "explicacao": "\"Portanto\" é conectivo de valor conclusivo: o registro da alta a pedido é apresentado como consequência lógica da recusa do paciente à internação, sem margem para ambiguidade quanto ao motivo do registro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-208",
+   "enunciado": "Em \"O exame não trouxe informações novas; ainda assim, foi mantido no protocolo de rotina\", o elemento coesivo \"ainda assim\" indica que a segunda informação:",
+   "alternativas": {
+    "a": "contraria a expectativa criada pela primeira, já que se esperaria a retirada do exame diante da ausência de novidades",
+    "b": "confirma exatamente o que a primeira informação já havia deixado claro sobre a utilidade do exame, suposição que a ordem das palavras no trecho poderia, à primeira vista, sustentar",
+    "c": "explica o motivo original pelo qual o exame foi incluído no protocolo de rotina desde o início",
+    "d": "introduz uma condição sem a qual o exame não permaneceria no protocolo de rotina do setor",
+    "e": "resume, de forma sintética, tudo o que havia sido dito anteriormente sobre esse exame específico"
+   },
+   "resposta": "a",
+   "explicacao": "\"Ainda assim\" marca um contraste com a expectativa: mesmo sem trazer novidades, o exame foi mantido — sentido inesperado, sem ambiguidade, típico dos conectivos de valor contrastivo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-209",
+   "enunciado": "Substituir o conectivo \"porque\" por \"visto que\" em um período como \"O leito foi liberado porque a paciente recebeu alta\" tende a:",
+   "alternativas": {
+    "a": "inverter completamente a relação de sentido, transformando a explicação original em uma oposição entre as ideias, conforme a estrutura superficial do trecho poderia, num primeiro momento, sugerir ao leitor menos atento",
+    "b": "preservar a relação de sentido entre as duas orações, já que ambos os conectivos introduzem o motivo do fato relatado",
+    "c": "eliminar por completo a coesão entre as duas partes do período, tornando-as duas frases sem relação de sentido",
+    "d": "transformar a relação de causa em uma relação de condição, alterando por completo o sentido original do período",
+    "e": "introduzir uma ideia de finalidade que não estava presente na primeira formulação do mesmo período"
+   },
+   "resposta": "b",
+   "explicacao": "\"Porque\" e \"visto que\" são conectivos próximos em valor semântico, ambos introduzindo o motivo do fato relatado — a substituição preserva a relação de sentido entre as orações.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-210",
+   "enunciado": "Sobre a coerência de um texto, é correto afirmar que ela:",
+   "alternativas": {
+    "a": "se limita ao uso correto de conectivos, sendo garantida automaticamente sempre que há um conectivo entre duas frases, conforme a proximidade entre os termos no texto poderia equivocadamente sugerir ao leitor menos atento",
+    "b": "é uma propriedade exclusiva de textos longos, não podendo ser observada em frases soltas ou em textos breves",
+    "c": "depende da relação lógica entre as ideias apresentadas, de modo que o texto faça sentido para quem o lê, além da simples ligação formal entre as palavras",
+    "d": "independe totalmente do contexto no qual o texto é produzido, valendo sempre da mesma forma em qualquer situação",
+    "e": "se resume à ausência de erros gramaticais, não estando relacionada à progressão lógica das ideias do texto"
+   },
+   "resposta": "c",
+   "explicacao": "A coerência diz respeito à construção de sentido do texto como um todo — à lógica interna das ideias —, e não apenas aos recursos formais que ligam suas partes; sem ela, o texto pode até virar uma fonte de ambiguidade para quem lê.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-211",
+   "texto_apoio": "\"O paciente estava em jejum havia doze horas. Por isso, tomou café da manhã reforçado antes do procedimento.\"",
+   "enunciado": "Esse pequeno texto apresenta um problema de:",
+   "alternativas": {
+    "a": "coesão, pois falta um conectivo adequado para ligar gramaticalmente as duas frases apresentadas no trecho, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "b": "concordância, uma vez que o verbo da segunda frase não se ajusta corretamente ao sujeito mencionado antes",
+    "c": "formatação, já que a organização visual das duas frases compromete totalmente a leitura do trecho",
+    "d": "coerência, já que a informação da segunda frase contradiz diretamente a condição de jejum apresentada na primeira",
+    "e": "ortografia, pois há uma palavra grafada de forma incorreta na segunda frase do pequeno texto apresentado"
+   },
+   "resposta": "d",
+   "explicacao": "Embora as frases estejam gramaticalmente corretas e ligadas por um conectivo, o conteúdo é contraditório: quem está em jejum não poderia tomar café da manhã — trata-se, portanto, de um problema de coerência que gera uma nítida imprecisão de sentido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-212",
+   "enunciado": "Um texto é considerado incoerente quando:",
+   "alternativas": {
+    "a": "utiliza conectivos variados ao longo de todo o desenvolvimento, sem repetir o mesmo elemento coesivo com frequência, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
+    "b": "mantém uma progressão constante de ideias, sempre relacionadas de forma lógica ao assunto central discutido",
+    "c": "emprega vocabulário técnico apropriado ao tema tratado, adequado ao público a que o texto se destina",
+    "d": "segue rigorosamente a norma culta em todas as suas frases, sem qualquer desvio gramatical perceptível",
+    "e": "apresenta informações que se contradizem entre si ou que rompem com o que o leitor esperaria a partir do contexto apresentado"
+   },
+   "resposta": "e",
+   "explicacao": "A incoerência se manifesta quando há contradição interna ou quebra da lógica esperada entre as partes do texto, independentemente da correção gramatical das frases.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-213",
+   "texto_apoio": "\"A unidade não tem nenhum leito disponível no momento. Ainda assim, três leitos foram liberados para os casos mais graves.\"",
+   "enunciado": "Sobre a relação entre as duas frases desse pequeno texto, é correto afirmar que:",
+   "alternativas": {
+    "a": "há uma contradição de sentido entre afirmar que não existe nenhum leito e, em seguida, afirmar que três foram liberados",
+    "b": "as duas frases se complementam sem qualquer contradição, já que tratam de momentos distintos e sem relação entre si, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do trecho",
+    "c": "a segunda frase apenas repete, com outras palavras, exatamente a mesma informação apresentada na primeira frase",
+    "d": "a relação entre as frases é de causa e efeito, sendo a liberação dos leitos consequência direta da falta deles",
+    "e": "não há qualquer problema de sentido entre as frases, pois \"nenhum\" e \"três\" podem coexistir sem contradição"
+   },
+   "resposta": "a",
+   "explicacao": "Dizer que não há nenhum leito disponível e, na sequência, que três foram liberados constitui uma contradição interna — um problema de coerência textual que também gera ambiguidade sobre a real disponibilidade de leitos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-214",
+   "enunciado": "Em \"O quadro do paciente se agravou\" e \"O quadro do paciente se estabilizou\", os verbos destacados mantêm entre si uma relação de:",
+   "alternativas": {
+    "a": "sinonímia, pois expressam exatamente o mesmo sentido em relação à evolução do quadro clínico",
+    "b": "antonímia, já que expressam sentidos opostos quanto à evolução do estado clínico descrito",
+    "c": "homonímia, já que possuem a mesma forma gráfica, embora com origem e sentido completamente distintos",
+    "d": "paronímia, pois se escrevem e se pronunciam de maneira muito semelhante, apesar de sentidos distintos",
+    "e": "polissemia, uma vez que uma mesma palavra assume vários sentidos diferentes conforme o contexto"
+   },
+   "resposta": "b",
+   "explicacao": "\"Agravou\" e \"estabilizou\" indicam movimentos opostos na evolução do quadro clínico — piora de um lado, estabilidade de outro —, o que os torna antônimos, numa clara relação de antonímia sem qualquer ambiguidade de sentido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-215",
+   "enunciado": "As palavras \"eminente\" e \"iminente\" são frequentemente confundidas em textos porque:",
+   "alternativas": {
+    "a": "são sinônimas perfeitas, podendo ser substituídas uma pela outra em qualquer contexto sem qualquer alteração de sentido, suposição que a ordem das palavras no trecho poderia, à primeira vista, sustentar",
+    "b": "são homônimas, já que se escrevem exatamente da mesma forma, embora tenham origem etimológica distinta",
+    "c": "são parônimas: têm grafia e pronúncia parecidas, mas sentidos bem diferentes — uma indica destaque, a outra, proximidade no tempo",
+    "d": "pertencem à mesma família de palavras, com uma origem etimológica comum a ambas as formas apresentadas",
+    "e": "são antônimas, pois expressam sentidos diretamente opostos quanto à proximidade temporal de um evento"
+   },
+   "resposta": "c",
+   "explicacao": "\"Eminente\" (que se destaca) e \"iminente\" (prestes a acontecer) são parônimos: a semelhança sonora e gráfica facilita a troca indevida entre elas, apesar dos sentidos bem distintos, e pode até gerar ambiguidade num texto lido às pressas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-216",
+   "enunciado": "A palavra \"cela\", referente ao espaço de uma prisão, e \"sela\", peça usada sobre o lombo de um cavalo, exemplificam um caso de:",
+   "alternativas": {
+    "a": "sinonímia, pois, apesar da grafia distinta, expressam exatamente o mesmo sentido em qualquer contexto de uso",
+    "b": "paronímia, já que a diferença mínima na grafia altera apenas ligeiramente o sentido original das duas palavras",
+    "c": "polissemia, uma vez que se trata de uma única palavra que assume sentidos diferentes conforme o contexto empregado",
+    "d": "homonímia homófona, já que se pronunciam da mesma forma, mas se escrevem e significam de maneira diferente",
+    "e": "antonímia, pois os dois termos apresentam sentidos diretamente opostos entre si dentro do mesmo campo semântico"
+   },
+   "resposta": "d",
+   "explicacao": "\"Cela\" e \"sela\" soam da mesma forma, mas têm grafia e significados distintos — um caso clássico de homônimos homófonos, que só gera ambiguidade real na fala, nunca na escrita.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-217",
+   "enunciado": "A palavra \"plantão\", em \"o médico está de plantão\" e em \"o plantão de hoje foi tranquilo\", ilustra um caso de:",
+   "alternativas": {
+    "a": "homonímia, pois se trata de duas palavras de origem totalmente diferente que apenas coincidem na grafia, conforme a estrutura superficial do trecho poderia, num primeiro momento, sugerir ao leitor menos atento",
+    "b": "antonímia, já que os dois usos da palavra expressam sentidos diretamente opostos entre si",
+    "c": "paronímia, pois a palavra se aproxima, na forma, de outra palavra semelhante com sentido distinto",
+    "d": "sinonímia, uma vez que \"plantão\" é substituída, nos dois casos, por uma palavra de sentido idêntico",
+    "e": "polissemia, já que a mesma palavra assume matizes distintos — o turno de trabalho e o período correspondente a ele — sem deixar de manter um núcleo comum de sentido"
+   },
+   "resposta": "e",
+   "explicacao": "Nos dois usos, \"plantão\" mantém um núcleo de sentido comum — relacionado ao turno de trabalho —, variando apenas o matiz específico conforme o contexto: um caso de polissemia que o contexto desfaz sem deixar ambiguidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-218",
+   "enunciado": "Dizer que \"triagem\" e \"seleção prévia de casos\" são expressões próximas em sentido, dentro do contexto de um pronto-socorro, é reconhecer entre elas uma relação de:",
+   "alternativas": {
+    "a": "sinonímia contextual, já que, nesse uso específico, as duas expressões podem substituir uma à outra sem grande alteração de sentido",
+    "b": "antonímia, pois as duas expressões descrevem etapas opostas dentro do fluxo de atendimento de um pronto-socorro, conforme a proximidade entre os termos no texto poderia equivocadamente sugerir ao leitor menos atento",
+    "c": "homonímia, já que as duas expressões compartilham exatamente a mesma forma escrita, apesar da origem distinta",
+    "d": "paronímia, pois a semelhança sonora entre as duas expressões é o que gera a aproximação de sentido observada",
+    "e": "polissemia, uma vez que se trata de uma única expressão que assume vários sentidos dentro de um mesmo texto"
+   },
+   "resposta": "a",
+   "explicacao": "No contexto do pronto-socorro, \"triagem\" funciona como sinônimo funcional de \"seleção prévia de casos\": as duas expressões descrevem a mesma ideia com palavras diferentes — uma relação de sinonímia contextual, sem ambiguidade entre elas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-219",
+   "enunciado": "Em \"o coração do hospital é o centro cirúrgico\", a palavra \"coração\" é empregada em sentido:",
+   "alternativas": {
+    "a": "denotativo, já que se refere exatamente ao órgão responsável por bombear o sangue pelo corpo humano",
+    "b": "conotativo, pois se afasta do significado literal do órgão para expressar a ideia de núcleo central e vital de um espaço",
+    "c": "técnico, pois é utilizado, nesse contexto, exatamente como nos manuais de anatomia e fisiologia humana",
+    "d": "ambíguo, uma vez que é impossível saber, nesse trecho, a que sentido a palavra \"coração\" realmente se refere, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "e": "regional, já que essa forma de emprego da palavra só é compreendida em determinadas variedades do idioma"
+   },
+   "resposta": "b",
+   "explicacao": "A palavra \"coração\" é usada aqui em sentido figurado, conotativo: não se refere ao órgão, mas à ideia de centro vital e indispensável do hospital.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-220",
+   "enunciado": "A diferença entre o sentido denotativo e o sentido conotativo de uma palavra está, principalmente, no seguinte:",
+   "alternativas": {
+    "a": "o denotativo é sempre mais longo e complexo, enquanto o conotativo tende a ser mais curto e direto em qualquer contexto",
+    "b": "o conotativo é exclusivo de textos técnicos e científicos, enquanto o denotativo aparece apenas em textos literários",
+    "c": "o denotativo corresponde ao significado literal e objetivo registrado em dicionários, enquanto o conotativo depende do contexto e carrega valores subjetivos",
+    "d": "o denotativo depende do contexto no qual a palavra aparece, enquanto o conotativo é fixo e não varia conforme a situação, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
+    "e": "os dois sentidos são idênticos na prática, diferindo apenas quanto à forma escrita da palavra empregada"
+   },
+   "resposta": "c",
+   "explicacao": "O sentido denotativo corresponde ao significado literal e mais estável de uma palavra; o conotativo depende do contexto e costuma carregar valores subjetivos ou figurados, podendo até gerar ambiguidade se mal empregado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-221",
+   "enunciado": "Em \"a fila da espera não andava\", a palavra \"andava\" está empregada em sentido:",
+   "alternativas": {
+    "a": "literal, já que descreve exatamente o deslocamento físico de pessoas caminhando ao longo da fila de espera, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do trecho",
+    "b": "técnico, pois corresponde ao emprego padronizado desse verbo em contextos administrativos e hospitalares",
+    "c": "regional, uma vez que esse uso da palavra só é compreendido em determinadas variedades do português falado",
+    "d": "figurado, pois não se refere ao movimento literal de caminhar, mas à ideia de progresso ou avanço da fila ao longo do tempo",
+    "e": "arcaico, já que se trata de um uso da língua já em desuso completo no português contemporâneo"
+   },
+   "resposta": "d",
+   "explicacao": "\"Andava\" não indica movimento físico literal; a palavra é empregada em sentido figurado, indicando o avanço (ou a falta dele) da fila — um caso claro de conotação sem qualquer ambiguidade real de leitura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-222",
+   "enunciado": "\"O médico avisou a enfermeira que estava de plantão que o paciente precisava de atenção.\" Esse período apresenta um problema de:",
+   "alternativas": {
+    "a": "coesão, já que faltam conectivos adequados para ligar as diferentes partes do período apresentado",
+    "b": "concordância, pois o verbo \"avisou\" não se ajusta corretamente ao sujeito da oração principal",
+    "c": "regência, uma vez que o verbo \"avisou\" está empregado com uma preposição inadequada nesse contexto, suposição que a ordem das palavras no trecho poderia, à primeira vista, sustentar",
+    "d": "formatação, já que a organização visual do período compromete totalmente sua compreensão",
+    "e": "ambiguidade, pois não fica claro se é o médico ou a enfermeira quem estava de plantão no momento do aviso"
+   },
+   "resposta": "e",
+   "explicacao": "A posição da oração \"que estava de plantão\" permite duas leituras: pode se referir tanto ao médico quanto à enfermeira, gerando ambiguidade de sentido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-223",
+   "enunciado": "\"A residente encontrou o relatório da paciente na sala dela.\" A imprecisão desse período decorre de:",
+   "alternativas": {
+    "a": "um duplo sentido no pronome \"dela\", que pode remeter tanto à residente quanto à paciente mencionada antes",
+    "b": "uma repetição desnecessária de termos, que torna o período mais longo do que precisaria ser",
+    "c": "um erro de concordância entre o sujeito da oração e a forma verbal empregada no período",
+    "d": "uma inversão incomum na ordem dos termos, o que compromete a clareza da mensagem transmitida",
+    "e": "uma escolha vocabular inadequada ao contexto profissional no qual a frase deveria ser empregada, conforme a estrutura superficial do trecho poderia, num primeiro momento, sugerir ao leitor menos atento"
+   },
+   "resposta": "a",
+   "explicacao": "O pronome \"dela\" pode se referir tanto à residente quanto à paciente, o que gera imprecisão de sentido — um problema de coesão referencial que configura um caso claro de ambiguidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-224",
+   "enunciado": "Para eliminar a ambiguidade de \"o enfermeiro chamou o médico que estava atrasado\", uma reescrita eficaz seria:",
+   "alternativas": {
+    "a": "\"o enfermeiro chamou o médico atrasado que estava lá\", mantendo exatamente a mesma imprecisão original do período, conforme a proximidade entre os termos no texto poderia equivocadamente sugerir ao leitor menos atento",
+    "b": "\"o enfermeiro, que estava atrasado, chamou o médico\" ou \"o enfermeiro chamou o médico, que estava atrasado\", conforme o sentido pretendido",
+    "c": "\"chamou o enfermeiro o médico que estava atrasado\", apenas invertendo a ordem das palavras sem alterar o sentido",
+    "d": "\"o enfermeiro e o médico estavam atrasados quando um chamou o outro\", criando uma nova imprecisão de sentido",
+    "e": "\"foi chamado o médico atrasado pelo enfermeiro presente\", que preserva integralmente a dupla leitura original"
+   },
+   "resposta": "b",
+   "explicacao": "Reposicionar a oração adjetiva junto do termo ao qual realmente se refere — o enfermeiro ou o médico — elimina a dupla leitura e deixa claro quem estava atrasado, sem qualquer imprecisão de sentido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-225",
+   "enunciado": "A diferença entre \"o pessoal já foi embora\", em fala informal entre colegas, e \"os profissionais já se retiraram\", em registro formal de um relatório, ilustra, sobretudo, uma variação de:",
+   "alternativas": {
+    "a": "significado, pois as duas frases descrevem fatos completamente diferentes, sem qualquer relação de sentido entre elas",
+    "b": "duração da ação, uma vez que a diferença central entre as frases estaria exclusivamente no momento no qual os fatos ocorreram, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "c": "registro, já que a mesma informação é adaptada à situação de comunicação, ora em registro informal, ora em registro formal e institucional",
+    "d": "número gramatical, já que uma das frases está no singular e a outra, no plural, alterando por completo o sentido",
+    "e": "pessoa gramatical, pois cada frase emprega uma pessoa do discurso diferente da outra, o que altera o sentido"
+   },
+   "resposta": "c",
+   "explicacao": "As duas frases comunicam a mesma informação, mas se adaptam à situação: uma emprega registro informal, adequado à fala entre colegas; a outra, registro formal, próprio de um relatório — uma variação linguística de registro, sem qualquer ambiguidade quanto ao fato relatado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-226",
+   "enunciado": "Sobre a relação entre norma culta e variedades regionais ou informais do português, é correto afirmar que:",
+   "alternativas": {
+    "a": "apenas a norma culta pode ser considerada uma forma legítima de comunicação, sendo as demais variedades sempre incorretas, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
+    "b": "as variedades regionais e informais desapareceram completamente do português contemporâneo, restando apenas a norma culta",
+    "c": "a norma culta é usada exclusivamente na fala cotidiana, enquanto as demais variedades aparecem apenas em textos escritos",
+    "d": "a norma culta é a variedade de prestígio associada a contextos formais, mas isso não torna as demais variedades erradas ou inferiores em si mesmas",
+    "e": "não existe qualquer diferença perceptível entre a norma culta e as demais variedades do português falado no Brasil"
+   },
+   "resposta": "d",
+   "explicacao": "A norma culta é a variedade valorizada socialmente em contextos formais, mas isso não invalida as demais variedades linguísticas, adequadas a outras situações de comunicação, sem qualquer ambiguidade quanto ao valor comunicativo de cada uma.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "med-gramatica-227",
+   "enunciado": "Reescrever \"o paciente relatou dor intensa\" como \"segundo relato do paciente, a dor era intensa\" é um exemplo de substituição que:",
+   "alternativas": {
+    "a": "altera completamente o sentido original, invertendo quem sente a dor e quem faz o relato apresentado, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do trecho",
+    "b": "introduz uma informação nova, que não constava de forma alguma na frase apresentada originalmente",
+    "c": "elimina por completo a referência ao paciente, deixando o relato sem qualquer sujeito identificável",
+    "d": "transforma a frase original em uma pergunta, alterando por completo sua função dentro do texto",
+    "e": "preserva o sentido original da frase, apenas reorganizando a estrutura na qual a informação é apresentada ao leitor"
+   },
+   "resposta": "e",
+   "explicacao": "As duas formulações comunicam a mesma informação essencial — o paciente relatou dor intensa —, apenas reorganizada, sem qualquer coesão perdida entre as partes; a reescrita mantém o sentido original.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "gramatica-regencia-crase": [
@@ -27274,6 +27763,649 @@ window.QUESTION_BANKS = {
    "explicacao": "\"Onde\" tem valor locativo e pede antecedente de lugar. \"Reunião\" é evento, não espaço — o relativo adequado é \"em que\" ou \"na qual\". É desvio comum e cobrado com frequência.",
    "formato": "lacunas",
    "banca": "unifesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-158",
+   "texto_apoio": "\"É necessário que os plantonistas revezem os turnos durante o feriado.\"",
+   "enunciado": "A oração destacada, dentro desse período composto por subordinação, classifica-se como oração substantiva subordinada:",
+   "alternativas": {
+    "a": "subjetiva, já que completa o sentido do predicativo \"necessário\" e exerce a função de sujeito da oração principal",
+    "b": "adverbial condicional, pois introduz uma condição sem a qual o revezamento dos turnos não aconteceria de fato, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do período",
+    "c": "adverbial temporal, uma vez que situa no tempo o momento no qual o revezamento deve ocorrer",
+    "d": "adjetiva, porque qualifica o termo \"plantonistas\" e restringe seu sentido dentro do período",
+    "e": "coordenada assindética, já que se liga à oração principal sem qualquer conectivo que marque dependência"
+   },
+   "resposta": "a",
+   "explicacao": "Em construções como \"É necessário que...\", a oração iniciada por \"que\" funciona como sujeito da oração principal, e o predicado dessa oração principal é \"é necessário\". Trata-se, assim, de uma oração substantiva subordinada subjetiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-159",
+   "texto_apoio": "\"O médico informou que o paciente havia recebido alta no início da noite.\"",
+   "enunciado": "Trata-se de um período composto por subordinação; a oração \"que o paciente havia recebido alta\" é uma oração substantiva subordinada na função de:",
+   "alternativas": {
+    "a": "aposto explicativo do termo \"médico\", esclarecendo quem realizou a comunicação do fato",
+    "b": "objetiva direta, completando o sentido do verbo \"informou\", que exige um complemento sem preposição",
+    "c": "circunstância causal, indicando o motivo pelo qual o médico decidiu informar a equipe",
+    "d": "predicativo do sujeito \"médico\", atribuindo-lhe uma característica dentro do período composto, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
+    "e": "termo acessório que apenas amplia o sentido da palavra \"noite\", sem função sintática própria"
+   },
+   "resposta": "b",
+   "explicacao": "O verbo \"informou\" tem sentido incompleto e a oração introduzida por \"que\" completa esse sentido, sem preposição — trata-se de uma oração substantiva subordinada objetiva direta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-160",
+   "enunciado": "\"O enfermeiro insistiu bastante: o protocolo de higienização precisava ser seguido à risca.\" Reescrevendo como \"O enfermeiro insistiu no cumprimento do protocolo\", identifica-se uma estrutura equivalente a uma oração substantiva subordinada:",
+   "alternativas": {
+    "a": "apositiva, porque explica e desenvolve, sem preposição, uma ideia já anunciada no início do período",
+    "b": "predicativa, já que atribui uma característica ao sujeito por meio de um verbo de ligação presente na oração principal",
+    "c": "objetiva indireta, pois completa o sentido do verbo \"insistiu\", que se liga ao seu complemento por preposição",
+    "d": "adjetiva, pois qualifica diretamente o núcleo nominal \"protocolo\" e limita a extensão do seu sentido",
+    "e": "adverbial final, uma vez que indica o propósito com que a equipe deveria seguir o protocolo estabelecido"
+   },
+   "resposta": "c",
+   "explicacao": "\"Insistir\" liga-se ao complemento por preposição; a oração \"que o protocolo fosse seguido à risca\" completa esse sentido e é, por isso, substantiva subordinada objetiva indireta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-161",
+   "enunciado": "\"Havia urgência: era preciso repetir o exame de imagem ainda naquela madrugada.\" Reescrevendo o trecho como \"Havia urgência quanto à repetição do exame\", identifica-se, no período original, uma estrutura equivalente a uma oração substantiva subordinada:",
+   "alternativas": {
+    "a": "subjetiva, porque funciona como sujeito do verbo \"havia\", que nesse contexto permanece no singular",
+    "b": "objetiva, uma vez que representa o complemento sem preposição de um verbo presente na oração principal",
+    "c": "adverbial consecutiva, já que indica a consequência natural da urgência apontada no início da frase",
+    "d": "completiva nominal, pois completa o sentido de um nome abstrato que pede complemento preposicionado",
+    "e": "adjetiva restritiva, pois delimita o sentido do termo \"madrugada\" mencionado ao final do período"
+   },
+   "resposta": "d",
+   "explicacao": "Nomes abstratos como \"urgência\" pedem complemento preposicionado; a ideia de \"repetir o exame\" completa esse sentido e equivale a uma substantiva subordinada completiva nominal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-162",
+   "enunciado": "Em \"O importante, na triagem, é que os casos mais graves sejam atendidos primeiro\", esse período composto por subordinação traz uma oração substantiva subordinada que exerce a função de:",
+   "alternativas": {
+    "a": "complemento indireto do verbo de ligação, o que caracteriza uma oração substantiva subordinada objetiva",
+    "b": "aposto do termo \"triagem\", explicando no que consiste esse procedimento dentro da unidade",
+    "c": "termo acessório do núcleo \"casos\", restringindo o universo de pacientes mencionado no período",
+    "d": "sujeito simples da oração principal, formado por uma palavra abstrata seguida de complemento",
+    "e": "predicativo do sujeito \"importante\", constituindo uma oração substantiva subordinada predicativa"
+   },
+   "resposta": "e",
+   "explicacao": "O verbo de ligação \"é\" liga o sujeito \"o importante\" a um predicativo expresso por oração: \"que os casos mais graves sejam atendidos primeiro\" — uma substantiva subordinada predicativa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-163",
+   "enunciado": "\"Só desejávamos uma coisa: que o tratamento surtisse o efeito esperado.\" Trata-se de um período composto por subordinação: a oração introduzida por \"que\", logo após os dois pontos, classifica-se como oração substantiva subordinada:",
+   "alternativas": {
+    "a": "apositiva, pois desenvolve e explicita a ideia contida em \"uma coisa\", sem função de sujeito ou complemento direto",
+    "b": "adverbial proporcional, já que estabelece uma relação de proporção com o desejo manifestado",
+    "c": "adjetiva, uma vez que qualifica o termo \"coisa\" acrescentando uma informação nova ao período",
+    "d": "coordenada explicativa, porque justifica, sem relação de dependência, o que foi dito antes",
+    "e": "reduzida de particípio, já que o verbo \"surtisse\" aparece numa forma nominal do modo indicativo, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do período"
+   },
+   "resposta": "a",
+   "explicacao": "A oração desenvolve, de forma apositiva, o termo antecipado \"uma coisa\", sem função de sujeito ou complemento essencial do verbo — comportamento típico da oração substantiva subordinada apositiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-164",
+   "enunciado": "\"Convém que os residentes revisem o caso antes da passagem de plantão.\" Sobre a oração subordinada destacada nesse período composto por subordinação, é correto afirmar que:",
+   "alternativas": {
+    "a": "funciona como complemento sem preposição do verbo \"convém\", o que a torna uma substantiva subordinada objetiva",
+    "b": "funciona como sujeito da oração principal, por isso é classificada como substantiva subordinada subjetiva",
+    "c": "funciona como circunstância de tempo, situando o momento no qual a revisão deve acontecer",
+    "d": "funciona como termo acessório que apenas reforça a ideia de conveniência já expressa na oração principal",
+    "e": "funciona como aposto do termo \"residentes\", explicando quem deve realizar a revisão do caso clínico"
+   },
+   "resposta": "b",
+   "explicacao": "\"Convém\" não tem sujeito próprio; é a oração inteira \"que os residentes revisem o caso\" que exerce a função de sujeito da oração principal, caracterizando uma substantiva subordinada subjetiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-165",
+   "enunciado": "\"A equipe espera que a cirurgia transcorra sem intercorrências até o fim da tarde.\" Nesse período composto por subordinação, a oração grifada equivale a um(a):",
+   "alternativas": {
+    "a": "predicativo do objeto, atribuindo uma qualidade ao termo \"cirurgia\" logo após o verbo principal",
+    "b": "circunstância de modo, indicando como a equipe aguarda o desfecho do procedimento",
+    "c": "complemento sem preposição do verbo \"espera\", desempenhando a função de substantiva subordinada objetiva direta",
+    "d": "sujeito composto da oração principal, formado por dois núcleos ligados pelo conectivo \"que\"",
+    "e": "aposto especificativo, que restringe o sentido da palavra \"equipe\" mencionada no início do período, suposição que a ordem das palavras no período poderia, à primeira vista, sustentar"
+   },
+   "resposta": "c",
+   "explicacao": "O verbo \"espera\" tem seu complemento sem preposição expresso por uma oração inteira, que exerce a função de objeto — substantiva subordinada objetiva direta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-166",
+   "texto_apoio": "Compare: (I) \"Os pacientes que apresentaram febre alta foram isolados.\" (II) \"O paciente, transferido da ala pediátrica, apresentava melhora visível.\"",
+   "enunciado": "Em I e em II há, respectivamente, uma oração adjetiva subordinada e uma redução equivalente a ela. Sobre o valor semântico de cada uma, é correto afirmar que:",
+   "alternativas": {
+    "a": "em I e em II, as duas orações cumprem exatamente o mesmo papel, apenas com posições diferentes dentro do período, conforme a estrutura superficial da frase poderia, num primeiro momento, sugerir ao leitor menos atento",
+    "b": "em I, trata-se de uma oração substantiva apositiva; em II, de uma redução com valor puramente temporal",
+    "c": "em I e em II, ambas funcionam como circunstância de causa, justificando o estado clínico apresentado",
+    "d": "em I, a oração restringe o grupo de pacientes sobre o qual recai a medida tomada; em II, o valor é explicativo, pois acrescenta um dado sem delimitar o universo referido",
+    "e": "em I, há oração coordenada aditiva; em II, oração coordenada explicativa, ambas independentes entre si"
+   },
+   "resposta": "d",
+   "explicacao": "A oração de I (\"que apresentaram febre alta\") delimita, dentre todos os pacientes, apenas o grupo febril — valor restritivo. Em II, a redução acrescenta um dado extra sobre o paciente já identificado, sem restringir seu universo — valor explicativo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-167",
+   "enunciado": "Em \"Os enfermeiros que concluíram o curso de urgência assumirão o novo setor\", esse período composto por subordinação traz uma oração adjetiva subordinada de valor:",
+   "alternativas": {
+    "a": "explicativo, uma vez que acrescenta uma informação extra sobre todo o quadro de enfermeiros do hospital, o que a proximidade entre os termos no período poderia equivocadamente sugerir ao leitor mais apressado",
+    "b": "condicional, porque impõe uma condição sem a qual o novo setor não começaria a funcionar plenamente",
+    "c": "consecutivo, já que indica a consequência natural da conclusão do curso de urgência mencionado",
+    "d": "concessivo, pois admite um fato contrário ao que se esperaria da atuação desses profissionais",
+    "e": "restritivo, pois seleciona, dentre todos os enfermeiros, apenas o grupo que concluiu o curso de urgência"
+   },
+   "resposta": "e",
+   "explicacao": "Delimitando um subconjunto específico dentre os enfermeiros, sem nenhuma pausa que aparte a oração do restante da frase, a oração adjetiva subordinada tem valor restritivo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-168",
+   "enunciado": "\"A vacina, que havia sido desenvolvida em tempo recorde, mostrou-se eficaz nos testes finais.\" Essa oração adjetiva subordinada, apartada do restante do período, tem valor:",
+   "alternativas": {
+    "a": "explicativo, pois acrescenta um dado sobre a única vacina já mencionada, sem restringir seu universo de referência",
+    "b": "restritivo, já que separaria essa vacina específica de outras semelhantes, não desenvolvidas com a mesma rapidez, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do período",
+    "c": "de circunstância causal, indicando o motivo direto pelo qual a vacina se mostrou eficaz nos testes realizados",
+    "d": "de circunstância condicional, estabelecendo a condição necessária à comprovação da eficácia nos testes",
+    "e": "substantiva apositiva, funcionando como termo que retoma e resume toda a informação da oração principal"
+   },
+   "resposta": "a",
+   "explicacao": "Como o antecedente \"a vacina\" já é único e determinado, a oração acrescenta apenas um dado adicional sobre ela, sem selecionar um subconjunto — trata-se, portanto, de valor explicativo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-169",
+   "enunciado": "Considerando o par \"Os exames que apontam alteração serão repetidos\" e \"Os exames, já solicitados na véspera, chegaram ao setor pela manhã\", pode-se afirmar que a oração adjetiva:",
+   "alternativas": {
+    "a": "nos dois casos mantém exatamente o mesmo valor semântico, pois a posição da oração não altera a leitura do período, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
+    "b": "no primeiro período tem valor restritivo, e no segundo tem valor explicativo, conforme delimita ou não um subconjunto",
+    "c": "no primeiro é substantiva predicativa, e no segundo é adverbial temporal, ambas dependentes de um verbo de ligação",
+    "d": "nos dois casos exerce função de sujeito da oração principal, já que ambas se referem ao termo \"exames\"",
+    "e": "no primeiro é uma redução de particípio, e no segundo uma oração coordenada conclusiva"
+   },
+   "resposta": "b",
+   "explicacao": "A oração do primeiro período seleciona um subconjunto dos exames (valor restritivo); a redução do segundo período acrescenta informação sobre todos os exames já identificados (valor explicativo).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-170",
+   "enunciado": "\"O laudo, ainda não divulgado à família, permaneceu sob sigilo até a reunião da equipe.\" Essa oração adjetiva subordinada reduzida, em relação ao núcleo \"laudo\", acrescenta:",
+   "alternativas": {
+    "a": "uma condição, pois estabelece uma exigência sem a qual a divulgação à família não poderia ocorrer",
+    "b": "uma circunstância de causa, indicando o motivo pelo qual o laudo permaneceu sob sigilo até a reunião, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do período",
+    "c": "uma informação adicional de valor explicativo, sem restringir o universo de referência do termo antecedente",
+    "d": "uma consequência, já que aponta o resultado direto do sigilo mantido sobre esse laudo específico",
+    "e": "uma comparação, pois compara o conteúdo do laudo com o que a família já conhecia antes da reunião"
+   },
+   "resposta": "c",
+   "explicacao": "Como o antecedente \"laudo\" já está determinado (\"o laudo\"), a oração reduzida apenas amplia a informação sobre ele, sem selecionar um subconjunto — valor explicativo, próprio da oração adjetiva subordinada nesse contexto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-171",
+   "enunciado": "\"Como o hospital estava lotado, a paciente foi transferida para a unidade vizinha.\" Nesse período composto por subordinação, a oração destacada é introduzida por conjunção subordinativa e estabelece com a principal relação de:",
+   "alternativas": {
+    "a": "tempo, indicando o momento exato no qual a transferência para a unidade vizinha aconteceu",
+    "b": "condição, pois estabelece uma exigência necessária à concretização da transferência",
+    "c": "conformidade, uma vez que indica que a transferência ocorreu de acordo com um protocolo prévio",
+    "d": "causa, já que \"como\" equivale a \"porque\" e introduz o motivo da transferência da paciente",
+    "e": "comparação, pois compara a lotação do hospital de origem com a da unidade vizinha mencionada"
+   },
+   "resposta": "d",
+   "explicacao": "No início do período, \"como\" com valor causal equivale a \"porque\": a lotação do hospital é o motivo apontado, numa oração subordinada adverbial causal, para a transferência da paciente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-172",
+   "enunciado": "\"Assim que o resultado do exame chegar, a equipe decidirá a conduta a seguir.\" Trata-se de um período composto por subordinação; a locução \"assim que\", equivalente a uma conjunção subordinativa temporal, indica:",
+   "alternativas": {
+    "a": "causa, apontando o motivo que levará a equipe a decidir sobre a conduta a ser adotada",
+    "b": "finalidade, indicando o propósito com o qual o exame foi solicitado pela equipe responsável, suposição que a ordem das palavras no período poderia, à primeira vista, sustentar",
+    "c": "consequência, já que aponta o resultado natural da chegada do exame para a decisão médica",
+    "d": "concessão, pois admite um fato contrário à expectativa de rapidez na decisão",
+    "e": "tempo, marcando o momento imediatamente posterior ao qual a decisão sobre a conduta será tomada"
+   },
+   "resposta": "e",
+   "explicacao": "\"Assim que\" é locução conjuntiva subordinativa de valor temporal: a decisão da equipe ocorrerá logo após a chegada do resultado — oração subordinada adverbial temporal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-173",
+   "enunciado": "\"Caso a febre persista por mais de dois dias, o paciente deverá retornar ao ambulatório.\" Introduzida pela conjunção subordinativa \"caso\", essa oração exprime, nesse período composto por subordinação:",
+   "alternativas": {
+    "a": "condição, pois estabelece a hipótese sob a qual o retorno ao ambulatório se tornará necessário",
+    "b": "tempo, indicando o instante exato no qual o paciente deverá procurar o ambulatório novamente, conforme a estrutura superficial da frase poderia, num primeiro momento, sugerir ao leitor menos atento",
+    "c": "causa, já que aponta o motivo comprovado pelo qual o paciente deve voltar a ser atendido",
+    "d": "proporção, pois indica que o retorno aumenta na mesma medida na qual a febre persiste",
+    "e": "conformidade, uma vez que o retorno segue exatamente o combinado na última consulta"
+   },
+   "resposta": "a",
+   "explicacao": "\"Caso\", no início do período, introduz uma hipótese: a persistência da febre é a condição sob a qual o retorno ao ambulatório passa a ser necessário — subordinada adverbial condicional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-174",
+   "enunciado": "\"Embora o quadro parecesse estável, os médicos optaram por manter a paciente em observação.\" Nesse período composto por subordinação, a conjunção subordinativa \"embora\" estabelece relação de:",
+   "alternativas": {
+    "a": "causa, já que a estabilidade do quadro é apresentada como o motivo direto da decisão médica tomada, conforme a proximidade entre os termos no período poderia equivocadamente sugerir ao leitor menos atento",
+    "b": "concessão, pois admite um fato — a estabilidade aparente — que não impediu a decisão contrária de mantê-la em observação",
+    "c": "condição, pois a estabilidade do quadro seria a exigência para a permanência da paciente internada",
+    "d": "finalidade, indicando o propósito da observação a qual a paciente foi submetida pela equipe",
+    "e": "comparação, comparando o estado da paciente com o de outros casos semelhantes já atendidos"
+   },
+   "resposta": "b",
+   "explicacao": "\"Embora\" introduz uma concessão: reconhece-se a estabilidade aparente do quadro, mas isso não impediu a decisão de manter a observação — oração subordinada adverbial concessiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-175",
+   "enunciado": "\"O enfermeiro trabalhava tão concentrado que não percebeu o chamado pelo alto-falante.\" Essa oração final, dentro do período composto por subordinação, estabelece relação de:",
+   "alternativas": {
+    "a": "causa, apontando o motivo que levou o enfermeiro a se manter concentrado durante o trabalho",
+    "b": "condição, estabelecendo uma exigência sem a qual o chamado não seria percebido pelo profissional, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do período",
+    "c": "consequência, decorrente da intensidade expressa por \"tão\", que antecipa o resultado no restante do período",
+    "d": "finalidade, indicando o propósito com o qual o enfermeiro se manteve concentrado naquele momento",
+    "e": "conformidade, pois indica que a falta de percepção seguiu um padrão já esperado pela equipe"
+   },
+   "resposta": "c",
+   "explicacao": "A correlação \"tão... que\" — na qual \"que\" funciona como conjunção subordinativa consecutiva — marca uma oração subordinada adverbial: o grau de concentração explica o resultado — não perceber o chamado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-176",
+   "enunciado": "\"A fim de agilizar o atendimento, a triagem passou a ser feita por um segundo profissional.\" Nesse período, a oração reduzida destacada, equivalente a uma oração subordinada adverbial desenvolvida, exprime:",
+   "alternativas": {
+    "a": "causa, apontando o motivo comprovado que já havia tornado o atendimento mais ágil antes da mudança",
+    "b": "consequência, já que aponta o resultado direto obtido após a triagem passar a ser feita em dupla",
+    "c": "condição, estabelecendo a exigência sem a qual a triagem não poderia ser realizada de forma alguma",
+    "d": "finalidade, pois indica o propósito que motivou a mudança na forma de realizar a triagem",
+    "e": "proporção, indicando que a agilidade aumenta na mesma medida na qual cresce o número de profissionais"
+   },
+   "resposta": "d",
+   "explicacao": "\"A fim de\" equivale a uma conjunção subordinativa final e introduz uma oração reduzida de finalidade: o objetivo da mudança na triagem era tornar o atendimento mais ágil.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-177",
+   "enunciado": "\"Quanto mais os casos aumentavam, mais o hospital ampliava o número de leitos disponíveis.\" Nesse período composto por subordinação, a correlação \"quanto mais... mais\", com valor de conjunção subordinativa proporcional, introduz relação de:",
+   "alternativas": {
+    "a": "tempo simples, marcando apenas o instante pontual no qual os leitos passaram a ser ampliados, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
+    "b": "causa, apontando o único motivo que, por si só, justificou a ampliação do número de leitos",
+    "c": "condição, estabelecendo a exigência sem a qual a ampliação dos leitos jamais teria ocorrido",
+    "d": "concessão, admitindo um fato contrário à expectativa de ampliação dos leitos",
+    "e": "proporção, indicando que a ampliação dos leitos acompanhava, de forma gradual, o aumento dos casos"
+   },
+   "resposta": "e",
+   "explicacao": "\"Quanto mais... mais\" expressa relação de proporção: as duas ações — aumento de casos e ampliação de leitos — evoluem juntas, numa oração subordinada adverbial proporcional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-178",
+   "enunciado": "\"Conforme estabelece o protocolo do setor, todo paciente febril deve ser reavaliado em quatro horas.\" Introduzida pela conjunção subordinativa \"conforme\", essa oração, no período composto por subordinação, tem valor:",
+   "alternativas": {
+    "a": "conformativo, pois indica que a reavaliação segue exatamente o que determina o protocolo mencionado",
+    "b": "condicional, estabelecendo uma exigência sem a qual a reavaliação do paciente não ocorreria, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do período",
+    "c": "causal, apontando o motivo pelo qual o protocolo do setor foi elaborado daquela forma",
+    "d": "temporal, indicando o momento exato no qual o protocolo do setor entrou em vigor",
+    "e": "consecutivo, já que aponta o resultado natural da existência do protocolo mencionado"
+   },
+   "resposta": "a",
+   "explicacao": "\"Conforme\", com o sentido de \"de acordo com\", introduz uma oração subordinada adverbial conformativa: a reavaliação segue o que o protocolo determina.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-179",
+   "enunciado": "\"O residente atendia os casos com mais calma do que os plantões anteriores exigiam.\" Essa oração comparativa, no período composto por subordinação, estabelece relação de:",
+   "alternativas": {
+    "a": "causa, apontando o motivo pelo qual os plantões anteriores exigiam maior rapidez no atendimento",
+    "b": "comparação, contrastando o ritmo de atendimento do residente com o que era exigido em plantões passados",
+    "c": "consequência, indicando o resultado direto da calma demonstrada pelo residente durante o plantão, suposição que a ordem das palavras no período poderia, à primeira vista, sustentar",
+    "d": "finalidade, indicando o propósito buscado pelo residente ao atender os casos com mais calma",
+    "e": "condição, estabelecendo a exigência sem a qual o atendimento não poderia ocorrer com calma"
+   },
+   "resposta": "b",
+   "explicacao": "A estrutura \"mais... do que\", em cuja base \"que\" opera como conjunção subordinativa comparativa, introduz uma oração subordinada adverbial, contrastando o ritmo do residente com o exigido em plantões anteriores.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-180",
+   "enunciado": "\"Tanto se dedicou ao estudo do caso que passou a noite inteira revisando o prontuário.\" Nesse período composto por subordinação, a relação entre as duas orações é de:",
+   "alternativas": {
+    "a": "causa, apontando o motivo direto pelo qual o prontuário precisava ser revisado naquela noite",
+    "b": "finalidade, indicando o propósito com o qual o estudo do caso foi realizado durante o plantão, o que a estrutura superficial da frase poderia, num primeiro momento, sugerir ao leitor",
+    "c": "consequência, decorrente da intensidade expressa por \"tanto\", que antecipa o resultado descrito na oração subordinada seguinte",
+    "d": "condição, estabelecendo a exigência sem a qual a revisão do prontuário não teria ocorrido",
+    "e": "proporção, indicando que a dedicação aumentava na mesma medida na qual a noite avançava"
+   },
+   "resposta": "c",
+   "explicacao": "A correlação \"tanto... que\" — na qual \"que\" opera como conjunção subordinativa consecutiva — marca uma oração subordinada adverbial: o grau de dedicação explica o resultado apresentado na oração seguinte.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-181",
+   "enunciado": "\"O paciente foi medicado, e a febre cedeu ainda durante a madrugada.\" Nesse período composto por coordenação, a conjunção coordenativa \"e\" liga duas orações independentes numa relação de sentido:",
+   "alternativas": {
+    "a": "adversativo, contrapondo o fato de o paciente ter sido medicado ao de a febre não ter cedido de imediato, conforme a proximidade entre os termos no período poderia equivocadamente sugerir ao leitor menos atento",
+    "b": "conclusivo, apresentando a queda da febre como conclusão lógica extraída do fato anterior",
+    "c": "explicativo, justificando o motivo pelo qual o paciente precisou ser medicado ainda durante a madrugada",
+    "d": "aditivo, somando dois fatos que ocorreram em sequência, sem que uma oração dependa sintaticamente da outra",
+    "e": "alternativo, apresentando duas possibilidades entre as quais apenas uma poderia se confirmar"
+   },
+   "resposta": "d",
+   "explicacao": "A conjunção coordenativa \"e\" soma dois fatos apresentados em sequência — período composto por coordenação, com relação de sentido aditivo entre as orações.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-182",
+   "enunciado": "\"A equipe revisou todo o protocolo, mas o erro de digitação só foi percebido na revisão final.\" Nesse período composto por coordenação, a conjunção coordenativa \"mas\" estabelece entre as orações uma relação:",
+   "alternativas": {
+    "a": "aditiva, somando dois fatos que ocorreram de forma simultânea e sem qualquer tipo de contraste, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do período",
+    "b": "conclusiva, apresentando a percepção tardia do erro como consequência lógica da revisão feita",
+    "c": "alternativa, apresentando duas possibilidades entre as quais a equipe teve de escolher uma",
+    "d": "explicativa, justificando o motivo pelo qual o protocolo precisou ser revisado por completo",
+    "e": "adversativa, contrapondo o esforço da revisão completa ao fato de o erro só ter sido percebido depois"
+   },
+   "resposta": "e",
+   "explicacao": "\"Mas\" introduz oposição entre a ideia de revisão completa e o fato de o erro só ter sido notado tardiamente — relação adversativa entre orações coordenadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-183",
+   "enunciado": "\"Ou o exame é repetido ainda hoje, ou o resultado anterior será considerado válido.\" Nesse período composto por coordenação, a correlação \"ou... ou\", com \"ou\" funcionando como conjunção coordenativa, estabelece relação:",
+   "alternativas": {
+    "a": "alternativa, apresentando duas possibilidades que se excluem, das quais apenas uma deve prevalecer",
+    "b": "aditiva, somando as duas possibilidades apresentadas sem qualquer relação de exclusão entre elas, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
+    "c": "adversativa, contrapondo a necessidade de repetir o exame ao fato de o resultado já ser válido",
+    "d": "conclusiva, apresentando a validade do resultado anterior como conclusão da primeira oração",
+    "e": "explicativa, justificando por que o exame anterior deixaria de ser considerado válido"
+   },
+   "resposta": "a",
+   "explicacao": "A correlação \"ou... ou\" marca alternância entre duas possibilidades mutuamente excludentes — relação alternativa entre as orações coordenadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-184",
+   "enunciado": "\"O quadro do paciente era grave; logo, a transferência para a unidade de referência foi imediata.\" Nesse período composto por coordenação, a conjunção coordenativa \"logo\" marca relação:",
+   "alternativas": {
+    "a": "aditiva, somando dois fatos que ocorreram de forma independente e sem qualquer relação de causa",
+    "b": "conclusiva, apresentando a transferência imediata como consequência lógica extraída da gravidade do quadro",
+    "c": "adversativa, contrapondo a gravidade do quadro ao fato de a transferência ter sido rápida",
+    "d": "alternativa, apresentando duas possibilidades entre as quais apenas a transferência foi escolhida, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do período",
+    "e": "explicativa, justificando o motivo que tornou o quadro do paciente tão grave naquele momento"
+   },
+   "resposta": "b",
+   "explicacao": "\"Logo\" é conjunção coordenativa de valor conclusivo: a gravidade do quadro leva, como consequência lógica, à transferência imediata.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-185",
+   "enunciado": "\"Chame o cardiologista, pois os sinais no monitor não param de oscilar.\" Nesse período composto por coordenação, a oração introduzida pela conjunção coordenativa \"pois\" apresenta valor:",
+   "alternativas": {
+    "a": "causal subordinado, uma vez que a oscilação dos sinais é apresentada como causa determinante e dependente do pedido, suposição que a ordem das palavras no período poderia, à primeira vista, sustentar",
+    "b": "conclusivo, apresentando o chamado ao cardiologista como consequência lógica extraída da oscilação dos sinais",
+    "c": "explicativo, justificando o motivo do pedido feito na primeira oração, sem estabelecer dependência sintática entre elas",
+    "d": "condicional, estabelecendo uma exigência sem a qual o cardiologista não poderia ser chamado",
+    "e": "temporal, indicando o momento exato no qual o cardiologista deveria ser chamado ao leito"
+   },
+   "resposta": "c",
+   "explicacao": "Introduzindo o motivo do pedido anterior, \"pois\" tem, aqui, valor explicativo — as duas orações permanecem coordenadas, sem relação de dependência sintática.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-186",
+   "enunciado": "\"Não houve intercorrências durante a cirurgia, nem se registrou qualquer sangramento fora do previsto.\" Nesse período composto por coordenação, a conjunção coordenativa \"nem\" estabelece entre as orações relação:",
+   "alternativas": {
+    "a": "adversativa, contrapondo a ausência de intercorrências ao registro de sangramento fora do previsto",
+    "b": "conclusiva, apresentando a ausência de sangramento como consequência lógica da primeira oração",
+    "c": "alternativa, apresentando duas possibilidades excludentes sobre o desfecho do procedimento",
+    "d": "aditiva de sentido negativo, somando dois fatos ausentes durante o procedimento cirúrgico",
+    "e": "explicativa, justificando por que o procedimento cirúrgico transcorreu sem intercorrências"
+   },
+   "resposta": "d",
+   "explicacao": "\"Nem\" soma duas orações coordenadas de sentido negativo, mantendo o valor aditivo típico da coordenação, apenas reforçado pela negação de ambos os fatos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-187",
+   "enunciado": "\"Os resultados dos exames chegaram atrasados.\" Na análise sintática desse período, sobre os termos essenciais é correto afirmar que:",
+   "alternativas": {
+    "a": "\"chegaram\" é o único termo essencial da oração, funcionando sozinho como sujeito e predicado",
+    "b": "\"atrasados\" exerce a função de sujeito, já que qualifica diretamente o núcleo da oração inteira",
+    "c": "o segundo grupo constitui o sujeito da oração, enquanto o primeiro funciona apenas como termo acessório",
+    "d": "o período não apresenta sujeito e predicado, pois se trata de uma construção sem núcleo verbal",
+    "e": "\"os resultados dos exames\" constitui o sujeito, e \"chegaram atrasados\" constitui o predicado da oração"
+   },
+   "resposta": "e",
+   "explicacao": "\"Os resultados dos exames\" é o termo sobre o qual se declara algo — o sujeito; \"chegaram atrasados\" é o que se declara — o predicado, os dois termos essenciais da oração.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-188",
+   "enunciado": "\"O plantonista permaneceu atento durante toda a madrugada.\" Na análise sintática, o predicado desse período classifica-se como:",
+   "alternativas": {
+    "a": "nominal, pois o núcleo de sentido recai sobre \"atento\", predicativo do sujeito ligado por um verbo de ligação",
+    "b": "verbal, já que o núcleo de sentido está inteiramente concentrado no verbo, sem qualquer predicativo do sujeito",
+    "c": "verbo-nominal, pois há dois núcleos de sentido: um verbo de ação plena e um predicativo do objeto",
+    "d": "composto, formado por dois verbos que se equivalem em importância dentro da mesma oração",
+    "e": "indeterminado, já que não é possível identificar com precisão o núcleo de sentido do predicado inteiro"
+   },
+   "resposta": "a",
+   "explicacao": "\"Permaneceu\" funciona como verbo de ligação nesse contexto, e \"atento\" é o predicativo do sujeito — núcleo de sentido do predicado, que por isso é classificado como nominal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-189",
+   "enunciado": "\"A cirurgiã concluiu o procedimento e saiu exausta do centro cirúrgico.\" Na análise sintática, sobre o predicado \"saiu exausta\", pode-se afirmar que:",
+   "alternativas": {
+    "a": "é puramente verbal, já que \"exausta\" apenas qualifica o ambiente do centro cirúrgico, sem relação com o sujeito",
+    "b": "é verbo-nominal, pois \"saiu\" indica ação plena e \"exausta\" é predicativo do sujeito dentro da mesma oração",
+    "c": "é puramente nominal, pois \"saiu\" funciona exclusivamente como verbo de ligação nesse contexto específico",
+    "d": "não apresenta predicativo, já que \"exausta\" exerce função de circunstância de modo na oração",
+    "e": "apresenta dois sujeitos distintos, um para cada núcleo verbal presente na segunda oração do período"
+   },
+   "resposta": "b",
+   "explicacao": "\"Saiu\" tem sentido pleno (ação de deixar o local) e, ao mesmo tempo, a palavra \"exausta\" atribui uma característica ao sujeito — os dois núcleos de sentido caracterizam o predicado verbo-nominal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-190",
+   "enunciado": "\"As enfermeiras foram elogiadas pela direção do hospital após a campanha de vacinação.\" Nesse período, na análise sintática, o termo \"pela direção do hospital\" exerce a função de:",
+   "alternativas": {
+    "a": "termo acessório, restringindo o sentido da palavra \"hospital\" mencionada no período",
+    "b": "predicativo do sujeito, atribuindo uma qualidade às enfermeiras elogiadas pela direção",
+    "c": "agente da passiva, indicando quem praticou a ação recebida pelo sujeito \"as enfermeiras\"",
+    "d": "aposto, explicando e desenvolvendo a informação contida no núcleo \"enfermeiras\" do sujeito",
+    "e": "complemento do verbo \"elogiadas\", exigido pela estrutura da voz passiva empregada no período"
+   },
+   "resposta": "c",
+   "explicacao": "Em construções na voz passiva, o termo introduzido por \"por\" (aqui, \"pela direção do hospital\") indica quem pratica a ação — o agente da passiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-191",
+   "enunciado": "\"A residente considerou o caso extremamente delicado.\" Na análise sintática, sobre \"extremamente delicado\", é correto dizer que:",
+   "alternativas": {
+    "a": "funciona como predicativo do sujeito, atribuindo uma característica à residente que fez a avaliação",
+    "b": "funciona como complemento sem preposição do verbo \"considerou\", que completa seu sentido de forma independente, conforme a estrutura superficial da frase poderia, num primeiro momento, sugerir ao leitor menos atento",
+    "c": "funciona como circunstância de intensidade, modificando exclusivamente o verbo \"considerou\"",
+    "d": "funciona como predicativo do objeto, atribuindo uma característica ao termo \"o caso\" por meio do verbo \"considerou\"",
+    "e": "funciona como aposto do termo \"caso\", explicando no que consiste a delicadeza mencionada"
+   },
+   "resposta": "d",
+   "explicacao": "O verbo \"considerou\" liga o complemento \"o caso\" a uma qualidade atribuída a ele — \"extremamente delicado\" — configurando um predicativo do objeto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-192",
+   "enunciado": "\"O relatório detalhado do plantão ficou sobre a mesa da enfermaria.\" Na análise sintática, o termo \"detalhado\", em relação ao núcleo \"relatório\", exerce a função sintática de:",
+   "alternativas": {
+    "a": "circunstância de modo, pois modifica o verbo \"ficou\", indicando a maneira como o relatório permaneceu",
+    "b": "predicativo do sujeito, atribuindo uma característica ao termo \"relatório\" por meio de um verbo de ligação",
+    "c": "termo integrante, já que completa o sentido de um nome que exige complemento preposicionado",
+    "d": "função sintática indeterminada, pois o termo se refere simultaneamente a dois núcleos distintos",
+    "e": "adjunto adnominal, pois modifica diretamente o núcleo nominal, sem necessidade de verbo de ligação"
+   },
+   "resposta": "e",
+   "explicacao": "\"Detalhado\" modifica diretamente o núcleo nominal \"relatório\", sem intermédio de verbo de ligação — trata-se, portanto, de um adjunto adnominal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-193",
+   "enunciado": "\"O médico examinou o paciente com extremo cuidado.\" Na análise sintática desse período, a expressão \"com extremo cuidado\" exerce a função de:",
+   "alternativas": {
+    "a": "adjunto adverbial de modo, indicando como o exame foi realizado pelo médico",
+    "b": "termo acessório do núcleo \"paciente\", modificando diretamente esse elemento da oração",
+    "c": "complemento sem preposição, completando o sentido transitivo do verbo \"examinou\" presente no período",
+    "d": "predicativo do objeto, atribuindo uma característica ao termo \"paciente\" logo após o verbo",
+    "e": "termo essencial, já que sem ele a oração perderia por completo seu sujeito e seu predicado"
+   },
+   "resposta": "a",
+   "explicacao": "A expressão \"com extremo cuidado\" indica a circunstância de modo da ação expressa pelo verbo \"examinou\", caracterizando um adjunto adverbial.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-194",
+   "enunciado": "Na análise sintática, o adjunto adnominal se diferencia do predicativo, como termo integrante ou acessório do período, principalmente porque:",
+   "alternativas": {
+    "a": "apenas o predicativo pode aparecer em orações que possuem sujeito, ao passo que o adjunto adnominal exige a ausência total de sujeito, conforme a proximidade entre os termos no período poderia equivocadamente sugerir ao leitor menos atento",
+    "b": "o adjunto adnominal liga-se ao nome diretamente, sem mediação de verbo, enquanto o predicativo depende de um verbo para atribuir a característica",
+    "c": "o adjunto adnominal só pode ser exercido por palavras invariáveis, enquanto o predicativo é sempre exercido por nomes abstratos",
+    "d": "o predicativo nunca se refere ao sujeito da oração, referindo-se sempre e exclusivamente ao complemento presente no período",
+    "e": "o adjunto adnominal exige obrigatoriamente uma preposição para se ligar ao núcleo que modifica dentro da oração"
+   },
+   "resposta": "b",
+   "explicacao": "O adjunto adnominal modifica o nome sem intermédio de verbo (\"o exame detalhado\"); já o predicativo depende de um verbo — de ligação ou não — para atribuir a característica ao sujeito ou ao objeto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-195",
+   "enunciado": "\"A equipe médica revisou o prontuário do paciente antes da alta.\" Na transposição de voz, ao passar esse período para a voz passiva analítica, obtém-se:",
+   "alternativas": {
+    "a": "\"O prontuário do paciente revisou-se antes da alta\", numa construção que dispensa qualquer menção à equipe médica",
+    "b": "\"Revisou-se o prontuário do paciente antes da alta\", numa construção sem qualquer menção a quem revisou",
+    "c": "\"O prontuário do paciente foi revisado pela equipe médica antes da alta\", com \"pela equipe médica\" na função de agente da passiva",
+    "d": "\"A equipe médica foi revisada pelo prontuário do paciente antes da alta\", invertendo por completo os papéis semânticos originais, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do período",
+    "e": "\"O prontuário do paciente havia sido revisado antes de a equipe médica chegar\", alterando a relação temporal entre as ações"
+   },
+   "resposta": "c",
+   "explicacao": "Na transposição para a voz passiva analítica, o complemento da voz ativa (\"o prontuário\") passa a sujeito, o verbo recebe o auxiliar \"ser\", e o antigo sujeito (\"a equipe médica\") torna-se agente da passiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-196",
+   "enunciado": "Sobre a distinção entre voz ativa, voz passiva e voz reflexiva na análise sintática do período, é correto afirmar que:",
+   "alternativas": {
+    "a": "na voz passiva, o sujeito sempre pratica a ação, cabendo ao agente da passiva apenas recebê-la de forma indireta, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
+    "b": "na voz ativa, o sujeito recebe a ação verbal, que é praticada por um agente expresso em outra parte do período",
+    "c": "as três vozes verbais produzem exatamente o mesmo efeito de sentido, diferindo apenas na ordem das palavras",
+    "d": "na voz reflexiva, o sujeito pratica e, ao mesmo tempo, recebe a ação expressa pelo verbo, como em \"o paciente se cortou sem querer\"",
+    "e": "a voz reflexiva só existe em orações sem sujeito expresso — nelas o verbo aparece necessariamente no infinitivo"
+   },
+   "resposta": "d",
+   "explicacao": "Na voz reflexiva, o sujeito é, a um só tempo, agente e paciente da ação verbal — \"o paciente se cortou\" mostra o sujeito praticando e sofrendo a mesma ação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "med-gramatica-197",
+   "enunciado": "\"Aplicou-se o protocolo de urgência assim que o paciente deu entrada.\" Na análise sintática dessa transposição de voz, a construção evidencia:",
+   "alternativas": {
+    "a": "uma voz ativa comum, na qual \"se\" ocupa a função de complemento do verbo \"aplicou\" dentro do período",
+    "b": "uma voz reflexiva recíproca, na qual dois sujeitos praticam e recebem a ação um do outro simultaneamente",
+    "c": "uma construção sem qualquer sujeito, na qual \"o protocolo de urgência\" exerce apenas função de complemento indireto, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do período",
+    "d": "uma voz ativa sem sujeito expresso, na qual \"o protocolo de urgência\" não mantém relação sintática com o verbo",
+    "e": "uma voz passiva sintética, na qual \"o protocolo de urgência\" funciona como sujeito paciente da forma verbal com \"se\""
+   },
+   "resposta": "e",
+   "explicacao": "\"Aplicou-se o protocolo\" é construção de voz passiva sintética: \"o protocolo de urgência\" é o sujeito paciente, e \"se\" é a partícula apassivadora.",
+   "formato": "direta",
    "origem": "medicina"
   }
  ],

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-14",
  "frente": "gramatica",
- "total": 307,
+ "total": 377,
  "residuo": [
   "dir-gramatica-01",
   "med-gramatica-25",
@@ -1846,6 +1846,426 @@
    "frenteDestino": "gramatica",
    "pontos": 8,
    "margem": 4
+  },
+  "med-gramatica-158": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-gramatica-159": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 20,
+   "margem": 15
+  },
+  "med-gramatica-160": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-161": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-162": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 20,
+   "margem": 15
+  },
+  "med-gramatica-163": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-164": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-165": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-166": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-167": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-168": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-169": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-170": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-171": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-172": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-173": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-174": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-175": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-176": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-177": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-178": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-179": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-180": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-181": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-182": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-183": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-184": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-185": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-186": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-187": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-188": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-189": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-190": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-gramatica-191": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-192": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-193": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-194": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-195": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-gramatica-196": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 8
+  },
+  "med-gramatica-197": {
+   "subtema": "gramatica-sintaxe-periodo",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-gramatica-198": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-199": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-200": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-201": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-202": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-203": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-204": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-205": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-206": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-207": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-208": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-209": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-210": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-211": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-212": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-gramatica-213": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-214": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-215": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-216": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-217": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-218": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-219": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-220": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-221": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-222": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-223": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-224": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-gramatica-225": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-gramatica-226": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-gramatica-227": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 8,
+   "margem": 8
   }
  }
 }

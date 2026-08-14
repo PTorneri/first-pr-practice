@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-14",
  "frente": "filosofia-sociologia",
- "total": 314,
+ "total": 397,
  "residuo": [
   "dir-filosofia-sociologia-81",
   "dir-filosofia-sociologia-97",
@@ -1888,6 +1888,504 @@
    "frenteDestino": "filosofia-sociologia",
    "pontos": 10,
    "margem": 10
+  },
+  "med-filosofia-sociologia-262": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-filosofia-sociologia-263": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-filosofia-sociologia-264": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-265": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 19,
+   "margem": 19
+  },
+  "med-filosofia-sociologia-266": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-filosofia-sociologia-267": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-268": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-269": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-270": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-271": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-272": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-273": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-274": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-275": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-276": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-277": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-278": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-279": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-280": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-281": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-282": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-283": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-284": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-285": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-286": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-287": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-288": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-289": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-290": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-291": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-292": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-293": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-294": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-295": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-296": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-filosofia-sociologia-297": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-298": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-299": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-filosofia-sociologia-300": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-301": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-302": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-303": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-304": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-filosofia-sociologia-305": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-306": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-307": {
+   "subtema": "filosofia-politica",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-308": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-309": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-310": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 19,
+   "margem": 19
+  },
+  "med-filosofia-sociologia-311": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 19,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-312": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-313": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 19,
+   "margem": 19
+  },
+  "med-filosofia-sociologia-314": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-filosofia-sociologia-315": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-316": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-317": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-318": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 19,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-319": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-filosofia-sociologia-320": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-filosofia-sociologia-321": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 23,
+   "margem": 23
+  },
+  "med-filosofia-sociologia-322": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-323": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 11
+  },
+  "med-filosofia-sociologia-324": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-325": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-326": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-327": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-328": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 19,
+   "margem": 19
+  },
+  "med-filosofia-sociologia-329": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-330": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-331": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-332": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-333": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-334": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-filosofia-sociologia-335": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 19,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-336": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-337": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-338": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-339": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-340": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-341": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-342": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-343": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-344": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
   }
  }
 }

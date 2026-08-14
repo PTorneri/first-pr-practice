@@ -5143,6 +5143,1254 @@
    "explicacao": "Abolir sem reparar deixou os libertos sem terra, sem escola e sem crédito, ao mesmo tempo em que o imigrante subsidiado ocupava as vagas do café e barateava a força de trabalho disponível. A desigualdade social que se lê hoje nos dados de renda e ocupação tem aí uma de suas origens documentadas.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-262",
+   "enunciado": "Para Thomas Hobbes, a saída do estado de natureza por meio do contrato social se justifica porque:",
+   "alternativas": {
+    "a": "sem um poder comum capaz de impor temor, os pactos firmados entre os indivíduos permanecem inseguros e a paz não se sustenta",
+    "b": "os indivíduos já convivem sob normas partilhadas antes do pacto, de modo que o Leviatã apenas registra por escrito um acordo que a natureza havia estabelecido entre eles desde o início",
+    "c": "o soberano recebe o poder político diretamente de fonte divina e dispensa qualquer consentimento dos governados",
+    "d": "a propriedade privada antecede o pacto, e o Estado é criado para redistribuí-la entre os que nada possuem",
+    "e": "a soberania nasce dividida entre poderes distintos, e o pacto apenas descreve essa divisão de origem"
+   },
+   "resposta": "a",
+   "explicacao": "No estado de natureza hobbesiano a igualdade de forças produz insegurança permanente: pactos sem espada não passam de palavras. Por isso o contrato social transfere a um soberano o poder político suficiente para tornar os acordos exigíveis, e é essa função, e não uma origem divina, que legitima o Leviatã.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-263",
+   "enunciado": "A defesa hobbesiana de que a soberania é indivisível se apoia no seguinte raciocínio:",
+   "alternativas": {
+    "a": "um poder repartido cresce mais rápido do que um poder único, o que o torna preferível para grandes territórios",
+    "b": "a divisão do poder político foi proibida pelos costumes ingleses do século XVII e por isso não podia ser proposta",
+    "c": "poderes que se limitam mutuamente reabrem o conflito que o pacto pretendia encerrar, devolvendo os súditos à insegurança do estado de natureza",
+    "d": "a soberania dividida impede a arrecadação de impostos, e sem impostos nenhum Estado se mantém em pé por muito tempo",
+    "e": "cada poder separado precisaria de um contrato social próprio, algo que a doutrina do Leviatã descreve como a forma mais estável de governo já concebida pelos autores modernos"
+   },
+   "resposta": "c",
+   "explicacao": "Hobbes lê a divisão de poderes como divisão da soberania, isto é, como reintrodução do conflito dentro do próprio Estado. Se dois poderes podem se anular, o julgamento final volta a ficar em aberto, e o estado de natureza reaparece sob forma de guerra civil.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-264",
+   "texto_apoio": "Durante o tempo em que os homens vivem sem um poder comum capaz de mantê-los a todos em respeito, eles se encontram naquela condição a que se chama guerra; e uma guerra que é de todos contra todos.",
+   "enunciado": "O trecho fundamenta, na obra de Hobbes, a tese de que:",
+   "alternativas": {
+    "a": "os homens são naturalmente pacíficos e apenas a propriedade privada os corrompeu ao longo do tempo",
+    "b": "a ausência de um árbitro comum, e não a maldade dos indivíduos, é o que torna a convivência insegura",
+    "c": "a guerra descrita é um episódio histórico datado, ocorrido antes da fundação das primeiras cidades da Antiguidade, cuja memória o autor pretende recuperar para justificar as monarquias europeias de seu tempo",
+    "d": "todo poder político deve ser exercido por uma assembleia eleita para evitar o retorno da guerra",
+    "e": "o estado de natureza descrito só se aplica a povos sem escrita, jamais às sociedades europeias"
+   },
+   "resposta": "b",
+   "explicacao": "O estado de natureza hobbesiano é um recurso de argumento, não uma crônica: ele isola o que acontece quando falta um juiz comum. O problema não está no caráter dos indivíduos, e sim na ausência de um poder político capaz de tornar previsível a conduta alheia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-265",
+   "enunciado": "A diferença central entre o contrato social de John Locke e o de Hobbes está em que Locke sustenta que:",
+   "alternativas": {
+    "a": "o estado de natureza é uma guerra permanente que somente um poder absoluto consegue encerrar",
+    "b": "o pacto extingue por completo os direitos anteriores dos indivíduos em favor do soberano",
+    "c": "a soberania pertence ao monarca por herança e não depende de consentimento algum dos governados",
+    "d": "os indivíduos conservam, mesmo depois do pacto, direitos à vida, à liberdade individual e à propriedade, que limitam o governo",
+    "e": "o estado de natureza é uma condição de abundância na qual a instituição de um governo seria inteiramente desnecessária, razão pela qual o autor descarta a própria noção de contrato social como ficção inútil"
+   },
+   "resposta": "d",
+   "explicacao": "Em Locke o pacto cria um governo fiduciário, encarregado de proteger direitos que já existiam antes dele. Como esses direitos não são transferidos, o poder político nasce limitado, e essa limitação é o núcleo do liberalismo clássico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-266",
+   "enunciado": "O direito de resistência, tal como Locke o formula, decorre de qual entendimento sobre o poder político?",
+   "alternativas": {
+    "a": "de que o soberano representa a comunidade e por isso jamais pode ser contestado por ela",
+    "b": "de que a obediência é devida somente enquanto o governante distribuir benefícios materiais",
+    "c": "de que qualquer descontentamento popular autoriza imediatamente a derrubada do governo estabelecido",
+    "d": "de que a resistência é um privilégio reservado à nobreza proprietária de terras, único grupo com meios de sustentar um levante contra o monarca sem colocar em risco a estabilidade do reino",
+    "e": "de que o poder é confiado ao governo em depósito, de modo que romper essa confiança devolve à comunidade a autoridade que havia delegado"
+   },
+   "resposta": "e",
+   "explicacao": "Locke descreve o governo como depositário de um poder que continua pertencendo à comunidade. Quando o governante age contra os fins do pacto, a delegação se desfaz e o direito de resistência se abre, sem que isso equivalha a autorizar revolta por simples insatisfação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-267",
+   "enunciado": "No argumento de Locke, a propriedade é apresentada como um direito natural porque:",
+   "alternativas": {
+    "a": "o indivíduo incorpora seu trabalho àquilo que retira do mundo comum, tornando-o seu antes de qualquer lei positiva",
+    "b": "o soberano concede títulos de posse como recompensa pela obediência prestada ao Estado durante a vigência do pacto, e essa concessão é o único fundamento possível para o domínio sobre bens materiais",
+    "c": "a propriedade só existe onde há registro público, o que a torna criação exclusiva do Estado",
+    "d": "a terra pertence integralmente ao monarca, que a arrenda aos súditos em troca de tributos",
+    "e": "a distribuição de bens é decidida pela vontade geral reunida em assembleia"
+   },
+   "resposta": "a",
+   "explicacao": "Locke funda a propriedade no trabalho: ao misturar seu esforço com o bem comum originário, o indivíduo o torna próprio. Como esse direito antecede o pacto, o poder político encontra nele um limite, e não uma criação sua.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-268",
+   "enunciado": "A defesa lockeana da tolerância diante das diferentes confissões religiosas se apoia na ideia de que:",
+   "alternativas": {
+    "a": "as crenças privadas são irrelevantes e por isso não merecem proteção especial do Estado",
+    "b": "o poder político é competente para cuidar de bens civis, não para dirigir a consciência, que não se altera por coação externa",
+    "c": "o magistrado deve escolher uma confissão oficial e sustentá-la com recursos públicos para preservar a unidade do reino, uma vez que a convivência entre credos distintos foi historicamente incapaz de produzir paz duradoura",
+    "d": "toda forma de culto deve ser suprimida em nome da neutralidade absoluta do Estado",
+    "e": "a tolerância vale apenas entre proprietários de terras, e nunca fora desse grupo"
+   },
+   "resposta": "b",
+   "explicacao": "Na Carta acerca da Tolerância, Locke separa as finalidades do governo das finalidades da salvação. Como a fé não se produz por força, a coação estatal em matéria de consciência é inútil, e o poder político extravasa sua competência ao tentá-la.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-269",
+   "enunciado": "A noção de vontade geral, em Rousseau, distingue-se da simples soma das vontades particulares porque:",
+   "alternativas": {
+    "a": "resulta sempre da opinião do grupo mais numeroso reunido em praça pública",
+    "b": "coincide com a decisão que o governante toma depois de ouvir seus conselheiros mais experientes",
+    "c": "visa ao interesse comum dos associados, e não à média dos interesses privados que cada um defende",
+    "d": "é medida por votação secreta, procedimento que o autor considerava indispensável e que descreve minuciosamente nos capítulos finais do Contrato Social ao tratar da eleição dos magistrados",
+    "e": "só pode ser conhecida por especialistas em direito público"
+   },
+   "resposta": "c",
+   "explicacao": "Rousseau opõe vontade geral e vontade de todos: a segunda é a soma dos interesses privados, a primeira é o que os associados querem na condição de membros do corpo político. Essa diferença é o que permite falar em soberania popular sem reduzi-la a aritmética de preferências.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-270",
+   "enunciado": "Ao afirmar que a soberania é inalienável, Rousseau quer dizer que:",
+   "alternativas": {
+    "a": "o povo pode transferir definitivamente seu poder a um monarca esclarecido desde que o faça por escrito",
+    "b": "a soberania se transmite por herança dentro de uma mesma família governante",
+    "c": "os cargos de governo devem ser vitalícios para preservar a continuidade das decisões",
+    "d": "o povo não pode abrir mão de sua condição de soberano, ainda que delegue a execução das leis a um governo",
+    "e": "a soberania pertence à assembleia dos magistrados, que a exerce em nome do povo sem precisar consultá-lo, arranjo que o autor apresenta como o mais adequado às repúblicas de grande extensão territorial"
+   },
+   "resposta": "d",
+   "explicacao": "Para Rousseau, o governo é apenas comissário do soberano: executa, não substitui. A soberania popular pode delegar funções, jamais a si mesma, porque um povo que se aliena deixa de existir como corpo político.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-271",
+   "enunciado": "No Contrato Social, a passagem da liberdade natural à liberdade civil é descrita como:",
+   "alternativas": {
+    "a": "uma perda pura, compensada apenas pela segurança material que o Estado oferece",
+    "b": "uma troca sem consequências práticas, já que as duas formas de liberdade coincidem",
+    "c": "a substituição do apetite pelo direito, de modo que obedecer à lei que o próprio corpo político se deu é uma forma de liberdade individual, e não seu contrário, ainda que o autor reconheça o custo dessa transformação",
+    "d": "um retrocesso que o autor lamenta e propõe desfazer pelo retorno à vida silvestre",
+    "e": "a conversão do impulso em direito: quem obedece à lei que ajudou a estabelecer permanece livre"
+   },
+   "resposta": "e",
+   "explicacao": "Rousseau reformula a liberdade como autolegislação do corpo político: a lei deixa de ser imposição externa quando emana da vontade geral de que o indivíduo participa. O ganho não é apenas segurança, é uma forma nova de liberdade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-272",
+   "enunciado": "A crítica de Rousseau à representação política sustenta que:",
+   "alternativas": {
+    "a": "a vontade geral não se representa, porque delegar a decisão sobre as leis equivale a abrir mão da própria soberania",
+    "b": "os representantes eleitos são incapazes de compreender assuntos técnicos e por isso decidem mal em matéria de finanças públicas, o que compromete a estabilidade de um governo constituído",
+    "c": "a representação é aceitável desde que os eleitos pertençam à mesma condição social dos eleitores",
+    "d": "o voto deve ser censitário para evitar que a maioria decida contra os proprietários",
+    "e": "a democracia representativa é a forma mais perfeita de governo já inventada"
+   },
+   "resposta": "a",
+   "explicacao": "Rousseau admite representação na execução, não na legislação. Como a soberania consiste em querer o interesse comum, transferi-la a procuradores a extingue, e é nesse ponto que ele se afasta da tradição parlamentar inglesa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-273",
+   "enunciado": "No Discurso sobre a origem da desigualdade entre os homens, Rousseau atribui o surgimento da dependência entre os indivíduos:",
+   "alternativas": {
+    "a": "à natureza humana, corrompida desde a origem por um impulso de dominação sobre os semelhantes",
+    "b": "à instituição da propriedade e às comparações que ela introduz, e não a uma inclinação natural para dominar",
+    "c": "à ausência de leis escritas nas primeiras comunidades, lacuna que o autor considera a causa primeira dos conflitos e que apenas a codificação romana teria conseguido corrigir de modo duradouro",
+    "d": "ao clima e ao relevo dos territórios ocupados pelos primeiros grupos humanos",
+    "e": "à criação da moeda, que o autor identifica como a única fonte possível de dominação"
+   },
+   "resposta": "b",
+   "explicacao": "Rousseau desloca a dependência da natureza para a história: o homem do estado de natureza é solitário e autossuficiente. É o cercamento da terra e o olhar comparativo que instituem a dominação, o que abre caminho para o contrato social como reconstrução do vínculo político.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-274",
+   "enunciado": "A separação dos poderes proposta por Montesquieu tem como finalidade principal:",
+   "alternativas": {
+    "a": "acelerar a produção de leis pela especialização de cada órgão do Estado em uma matéria distinta",
+    "b": "reduzir o custo da administração pública ao repartir despesas entre três casas independentes",
+    "c": "impedir a concentração do poder político, uma vez que só o poder detém o poder e a liberdade individual se perde onde um mesmo corpo legisla e julga",
+    "d": "assegurar que o monarca continue como árbitro final das controvérsias, arranjo que o autor considerava indispensável à estabilidade das monarquias europeias de seu tempo e que descreve com detalhe",
+    "e": "transferir ao judiciário a competência de elaborar as leis do reino"
+   },
+   "resposta": "c",
+   "explicacao": "Em O espírito das leis a separação dos poderes não é técnica administrativa, é dispositivo de contenção: cada poder limita o outro. Montesquieu associa diretamente a liberdade individual à ausência de concentração, e não à bondade dos governantes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-275",
+   "enunciado": "O mecanismo de freios e contrapesos, derivado da leitura de Montesquieu, funciona porque:",
+   "alternativas": {
+    "a": "cada poder recebe competências para interferir de modo limitado nos demais, o que torna custosa a tentativa de qualquer um deles avançar sobre os outros",
+    "b": "os três poderes atuam em compartimentos estanques, sem nenhum ponto de contato entre eles",
+    "c": "o poder mais antigo prevalece sobre os demais em caso de conflito de competências",
+    "d": "as decisões passam a exigir unanimidade, o que reduz o número de leis aprovadas ao longo de uma legislatura e devolve ao povo a tarefa de decidir diretamente sobre cada matéria em disputa",
+    "e": "o judiciário deixa de responder por seus atos perante os demais poderes"
+   },
+   "resposta": "a",
+   "explicacao": "A separação dos poderes não é isolamento: o veto, a aprovação de nomeações e o controle de constitucionalidade são interferências desenhadas para conter. O poder político só freia poder político quando cada ramo tem instrumentos sobre os demais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-276",
+   "enunciado": "Ao relacionar as formas de governo a princípios que as sustentam, Montesquieu associa a república:",
+   "alternativas": {
+    "a": "ao temor, sentimento que mantém os súditos obedientes diante de um poder político sem limites definidos",
+    "b": "à honra, que move as ordens intermediárias a defender suas prerrogativas diante do trono",
+    "c": "ao acaso, já que o autor considerava impossível identificar qualquer princípio estável por trás das instituições políticas de um povo, tema a que dedica os primeiros livros de sua obra",
+    "d": "ao cálculo de interesse comercial de cada indivíduo tomado isoladamente",
+    "e": "ao amor à coisa pública, sem o qual as leis republicanas perdem sustentação entre os governados"
+   },
+   "resposta": "e",
+   "explicacao": "Montesquieu emparelha cada forma de governo a uma paixão que a anima: temor no despotismo, honra na monarquia, amor à coisa pública na república. O republicanismo depende, portanto, de uma disposição dos governados, e não apenas do desenho das leis.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-277",
+   "enunciado": "Em democracias contemporâneas, o controle de constitucionalidade exercido por tribunais costuma ser justificado como:",
+   "alternativas": {
+    "a": "aplicação da separação dos poderes, na medida em que submete decisões da maioria parlamentar aos limites que a própria comunidade política fixou na constituição",
+    "b": "suspensão temporária da soberania popular em favor de um governo de especialistas nomeados sem mandato",
+    "c": "recurso excepcional, admitido apenas em períodos de guerra externa declarada",
+    "d": "instrumento de coordenação entre os poderes que substitui a necessidade de eleições periódicas e transfere ao tribunal a tarefa de definir o programa de governo para o período seguinte",
+    "e": "delegação do poder político ao chefe do executivo, que passa a decidir sobre a validade das leis"
+   },
+   "resposta": "a",
+   "explicacao": "O argumento clássico entende o tribunal como guardião das regras que a própria democracia se deu, e não como poder superior a ela. É a leitura de Montesquieu levada adiante: limites recíprocos preservam a liberdade individual contra maiorias circunstanciais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-278",
+   "enunciado": "A originalidade de Maquiavel em O Príncipe costuma ser situada no fato de que ele:",
+   "alternativas": {
+    "a": "propõe substituir o principado pela democracia ateniense em todos os territórios italianos de seu tempo",
+    "b": "analisa o poder político por seus efeitos e condições de manutenção, e não pelo modelo de governante que se deveria idealmente ser",
+    "c": "sustenta que a fortuna determina integralmente o destino dos governantes, de modo que nenhuma decisão tomada por um príncipe interfere no resultado final de suas empresas militares ou diplomáticas",
+    "d": "recusa a experiência histórica como fonte de aprendizado sobre o governo",
+    "e": "defende que o príncipe deve seguir sempre os conselhos de seus ministros"
+   },
+   "resposta": "b",
+   "explicacao": "Maquiavel desloca a pergunta do dever-ser para a realidade efetiva das coisas: interessa como os principados se conservam, não como seriam se os homens fossem outros. É esse corte que funda a autonomia do poder político como objeto de estudo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-279",
+   "enunciado": "O par virtù e fortuna, em Maquiavel, descreve:",
+   "alternativas": {
+    "a": "a oposição entre a bondade pessoal do governante e a maldade de seus adversários na corte",
+    "b": "duas escolas de pensamento rivais sobre o poder político no Renascimento italiano",
+    "c": "a capacidade do governante de agir com oportunidade diante de circunstâncias que ele não controla, mas cujas margens pode antecipar e ocupar",
+    "d": "um cálculo aritmético que permite prever o tempo de duração de um principado com base no número de tropas disponíveis e na extensão das terras que ele controla naquele momento",
+    "e": "a alternância entre monarquia e república prevista pelos autores da Antiguidade"
+   },
+   "resposta": "c",
+   "explicacao": "Fortuna é o campo do que escapa ao controle; virtù é a energia de agir no momento certo dentro desse campo. Maquiavel não promete domínio total sobre os acontecimentos, e sim aumento das chances de quem se prepara antes que a ocasião apareça.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-280",
+   "enunciado": "A expressão razão de Estado, associada à tradição inaugurada por Maquiavel, designa:",
+   "alternativas": {
+    "a": "a exigência de que toda decisão de governo seja submetida previamente a consulta popular",
+    "b": "o conjunto de tratados internacionais que vinculam os governantes uns aos outros",
+    "c": "a regra segundo a qual o governante deve seguir os costumes herdados sem alterá-los",
+    "d": "o critério pelo qual medidas de governo são avaliadas pela sua contribuição à conservação do poder político e da ordem, ainda que contrariem expectativas correntes",
+    "e": "um princípio administrativo que determina a redução progressiva dos gastos militares em tempos de paz, com transferência dos recursos poupados para obras públicas nas províncias mais distantes"
+   },
+   "resposta": "d",
+   "explicacao": "A razão de Estado avalia a ação de governo por sua eficácia em conservar o Estado, deslocando o critério de julgamento para fora das expectativas ordinárias sobre a conduta privada. É a formulação que tornou Maquiavel objeto de tanta polêmica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-281",
+   "enunciado": "Nos Discursos sobre a primeira década de Tito Lívio, Maquiavel avalia os conflitos internos de Roma como:",
+   "alternativas": {
+    "a": "sinal de decadência que precipitou o fim precoce das instituições republicanas romanas",
+    "b": "acidentes sem efeito sobre a duração do regime, dado que o autor atribui a longevidade de Roma apenas à extensão de seu território e à qualidade de suas legiões em campanha",
+    "c": "prova de que a república seria inferior ao principado como forma de governo",
+    "d": "resultado exclusivo da interferência de potências estrangeiras nas disputas da cidade",
+    "e": "fonte das leis que asseguraram a liberdade romana, já que a tensão entre plebe e senado produziu instituições de contenção do poder político"
+   },
+   "resposta": "e",
+   "explicacao": "Contra a tradição que via na discórdia um mal, Maquiavel enxerga nos tumultos romanos o motor das boas leis. O republicanismo que ele descreve não supõe harmonia, e sim conflito canalizado por instituições.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-282",
+   "enunciado": "Ao discutir se convém ao príncipe ser mais temido do que amado, Maquiavel conclui que:",
+   "alternativas": {
+    "a": "é preferível ser temido, porque o amor depende da disposição dos governados e o temor depende de quem governa, embora o príncipe deva evitar tornar-se odiado",
+    "b": "é preferível ser amado, já que o temor produz revoltas imediatas em principados recém-conquistados, motivo pelo qual o autor recomenda a distribuição generosa de terras entre os súditos logo após a vitória militar",
+    "c": "a escolha é indiferente, pois nenhum dos dois sentimentos afeta a conservação do poder político",
+    "d": "o príncipe deve buscar ser odiado, para que ninguém se aproxime dele com falsas promessas",
+    "e": "a questão só se coloca em repúblicas, jamais em principados hereditários"
+   },
+   "resposta": "a",
+   "explicacao": "O raciocínio é de dependência: o vínculo de amor está nas mãos de quem obedece e se rompe com facilidade; o temor está nas mãos de quem manda. A ressalva contra o ódio mostra que não se trata de crueldade sem cálculo, e sim de economia do poder político.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-283",
+   "enunciado": "A democracia ateniense do século V a.C. distingue-se dos regimes representativos modernos sobretudo porque:",
+   "alternativas": {
+    "a": "reservava as decisões a um conselho de magistrados escolhidos por critério de riqueza",
+    "b": "reunia os cidadãos em assembleia para decidir diretamente, recorrendo ao sorteio para preencher grande parte dos cargos públicos",
+    "c": "estendia a participação aos habitantes da cidade, incluindo estrangeiros e pessoas escravizadas, o que a tornava mais ampla do que os regimes posteriores conhecidos na história do Ocidente",
+    "d": "adotava o voto secreto e a eleição periódica como únicos procedimentos legítimos",
+    "e": "delegava a soberania a representantes com mandato de quatro anos"
+   },
+   "resposta": "b",
+   "explicacao": "A democracia direta ateniense operava por assembleia e sorteio, o que reduzia a distância entre governantes e governados. Sua base era estreita, porém: mulheres, estrangeiros e escravizados ficavam de fora, e é esse contraste que a distingue do desenho representativo moderno.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-284",
+   "enunciado": "A eleição de representantes, no desenho da democracia moderna, cumpre a função de:",
+   "alternativas": {
+    "a": "eliminar o conflito entre projetos rivais ao concentrar a decisão em um único corpo permanente",
+    "b": "substituir a soberania popular pela autoridade técnica de administradores concursados",
+    "c": "tornar possível o governo de coletividades numerosas e criar um momento periódico em que os governados podem retirar o poder de quem o exerce",
+    "d": "assegurar que as decisões de governo sejam tomadas por unanimidade, uma vez que o desenho representativo foi concebido para reduzir divergências entre as diferentes correntes presentes no parlamento",
+    "e": "impedir a alternância no comando do executivo por períodos longos"
+   },
+   "resposta": "c",
+   "explicacao": "A representação resolve um problema de escala e outro de controle: permite decidir sem reunir milhões e institui a sanção do voto. A democracia moderna não elimina o conflito, ela o organiza em disputa regulada pelo poder político.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-285",
+   "enunciado": "A chamada tirania da maioria, discutida por autores liberais do século XIX, corresponde ao risco de que:",
+   "alternativas": {
+    "a": "a minoria organizada capture o governo e imponha suas preferências ao conjunto dos eleitores",
+    "b": "as eleições sejam adiadas indefinidamente por decisão do chefe do executivo",
+    "c": "o parlamento aprove leis com quórum inferior ao previsto na constituição vigente",
+    "d": "decisões majoritárias suprimam a liberdade individual de grupos minoritários, o que leva a democracia a incorporar limites ao alcance do que a maioria pode decidir",
+    "e": "o eleitorado deixe de comparecer às urnas em número suficiente para validar o resultado, situação que os autores do período descreviam como o principal obstáculo à consolidação dos regimes representativos europeus"
+   },
+   "resposta": "d",
+   "explicacao": "O argumento não é contra a regra da maioria, e sim contra sua ilimitação. Daí a combinação, típica da democracia liberal, entre decisão majoritária e cláusulas que retiram certos direitos do alcance do voto ordinário.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-286",
+   "enunciado": "Propostas de democracia deliberativa acrescentam ao desenho representativo a exigência de que:",
+   "alternativas": {
+    "a": "as decisões sejam tomadas exclusivamente por referendo popular convocado a cada semestre",
+    "b": "os cargos públicos voltem a ser preenchidos por sorteio, como na Antiguidade",
+    "c": "o número de eleitores seja reduzido por critérios de escolaridade formal, medida que os defensores dessa corrente apresentam como condição para elevar a qualidade média das decisões coletivas em assuntos complexos",
+    "d": "as leis sejam redigidas por comissões técnicas sem interferência de representantes eleitos",
+    "e": "as decisões sejam precedidas de troca pública de razões, de modo que a legitimidade do poder dependa também do processo argumentativo que antecede o voto"
+   },
+   "resposta": "e",
+   "explicacao": "A deliberação acrescenta uma exigência qualitativa ao procedimento: não basta contar votos, é preciso que as razões sejam expostas e possam ser contestadas. A legitimidade do poder passa a depender do processo, e não só do resultado numérico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-287",
+   "enunciado": "A tensão entre a tradição liberal e a tradição democrática, no pensamento político moderno, pode ser resumida assim:",
+   "alternativas": {
+    "a": "a primeira insiste em limitar o poder político para preservar a liberdade individual; a segunda insiste em fundá-lo na soberania popular, e nem sempre os dois requisitos apontam na mesma direção",
+    "b": "a primeira defende o sufrágio universal imediato e a segunda o rejeita por completo em nome da estabilidade das instituições representativas que haviam sido conquistadas ao longo do século anterior",
+    "c": "ambas recusam a existência de constituição escrita como limite ao legislador",
+    "d": "a primeira é hostil à propriedade privada e a segunda a defende sem reservas",
+    "e": "as duas tradições surgiram no mesmo momento e nunca divergiram em questão alguma"
+   },
+   "resposta": "a",
+   "explicacao": "Liberalismo político e democracia respondem a perguntas diferentes: quanto pode o poder e de quem ele emana. A democracia liberal é o arranjo histórico que tentou combinar as duas respostas, o que explica seus atritos recorrentes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-288",
+   "enunciado": "A distinção entre poder de fato e legitimidade do poder é relevante para a análise política porque:",
+   "alternativas": {
+    "a": "um governante pode dispor de meios de coerção suficientes e ainda assim não obter reconhecimento dos governados quanto ao seu direito de mandar",
+    "b": "um governo que se mantém por longo tempo é, por definição, reconhecido como legítimo por quem lhe obedece diariamente sem oferecer resistência aberta às suas determinações",
+    "c": "a legitimidade se mede pelo tamanho do território controlado pelo governo",
+    "d": "o poder de fato desaparece assim que uma constituição escrita entra em vigor",
+    "e": "a obediência dos governados independe das razões que eles atribuem ao comando recebido"
+   },
+   "resposta": "a",
+   "explicacao": "Poder e legitimidade do poder não coincidem: o primeiro descreve capacidade de impor, o segundo descreve o reconhecimento que torna a obediência algo diferente de submissão. Regimes podem durar sem legitimidade, mas o custo de sustentá-los é outro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-289",
+   "enunciado": "Um regime em que a obediência se funda em regras impessoais previamente estabelecidas, e não na pessoa do governante, é descrito como assentado em legitimidade:",
+   "alternativas": {
+    "a": "carismática, porque depende das qualidades extraordinárias atribuídas a um líder pelos seus seguidores",
+    "b": "tradicional, porque se apoia na santidade dos costumes herdados e na posição que eles reservam a determinadas famílias",
+    "c": "legal, porque a autoridade decorre do cargo e do procedimento, e quem manda também está submetido às normas que aplica",
+    "d": "revolucionária, porque nasce da ruptura com a ordem anterior e se sustenta enquanto durar o entusiasmo produzido pela mudança recente entre os que dela participaram diretamente",
+    "e": "militar, porque a hierarquia das forças armadas fornece o modelo de toda obediência"
+   },
+   "resposta": "c",
+   "explicacao": "A legitimidade do poder de tipo legal funda-se na norma, não na pessoa: o governante manda porque ocupa o cargo e enquanto respeitar o procedimento. É esse traço que sustenta a separação dos poderes e o Estado constitucional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-290",
+   "enunciado": "Segundo a análise de Hannah Arendt, o totalitarismo distingue-se das tiranias anteriores porque:",
+   "alternativas": {
+    "a": "limita-se a suprimir a oposição organizada, deixando intacta a vida privada dos governados",
+    "b": "combina terror permanente e uma explicação total do mundo, dissolvendo os espaços em que os indivíduos poderiam agir em conjunto",
+    "c": "conserva o pluralismo partidário e apenas restringe a liberdade de imprensa durante períodos de guerra externa declarada, o que a autora considera insuficiente para caracterizar uma ruptura com as formas anteriores de dominação",
+    "d": "depende de um monarca hereditário para se manter no comando do Estado",
+    "e": "renuncia ao uso da propaganda em favor da persuasão racional dos governados"
+   },
+   "resposta": "b",
+   "explicacao": "Arendt não descreve o totalitarismo como tirania intensificada, e sim como forma nova: o terror deixa de ser meio para se tornar essência do regime, e a ideologia fornece uma chave que explica tudo. O alvo é a pluralidade que torna possível a ação política.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-291",
+   "texto_apoio": "O problema com Eichmann era exatamente que muitos eram como ele, e que muitos não eram nem perversos nem sádicos, mas eram, e ainda são, terrivelmente e assustadoramente normais.",
+   "enunciado": "A expressão banalidade do mal, cunhada a partir dessa observação, indica que:",
+   "alternativas": {
+    "a": "os crimes do regime nazista foram cometidos por um número reduzido de indivíduos com transtornos psiquiátricos identificáveis",
+    "b": "a gravidade dos atos praticados deve ser atenuada em razão da normalidade aparente de seus executores",
+    "c": "o extermínio resultou de ordem espontânea, sem cadeia administrativa que o organizasse ao longo dos anos em que foi conduzido pelo aparato de Estado então existente",
+    "d": "atrocidades de larga escala podem ser executadas por funcionários comuns que deixam de examinar o sentido das ordens que cumprem",
+    "e": "a responsabilidade recai integralmente sobre a cúpula do regime, e jamais sobre quem operou suas engrenagens"
+   },
+   "resposta": "d",
+   "explicacao": "Arendt desloca a explicação do monstro para o burocrata que não pensa: o totalitarismo funciona porque converte crime em rotina administrativa. A tese não atenua a culpa, ela amplia o alcance de quem responde por ela, e reaparece sempre que se discute a responsabilidade de funcionários em regimes que suprimiram a liberdade individual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-292",
+   "enunciado": "A diferença analítica entre autoritarismo e totalitarismo costuma ser estabelecida pelo fato de que o primeiro:",
+   "alternativas": {
+    "a": "restringe a competição pelo poder político e a oposição organizada, mas tolera esferas da vida social que não pretende reorganizar por inteiro",
+    "b": "exige mobilização permanente da população em torno de uma doutrina que explica o curso da história e prescreve o lugar de cada indivíduo dentro dela, sem admitir zonas de indiferença",
+    "c": "surge apenas em países sem tradição parlamentar anterior ao século XX",
+    "d": "depende de um partido único que absorve integralmente o aparelho de Estado",
+    "e": "recusa o uso da censura e da polícia política como instrumentos de governo"
+   },
+   "resposta": "a",
+   "explicacao": "O regime autoritário fecha a disputa pelo poder político mas convive com pluralidade limitada; o totalitário pretende reconstruir a sociedade inteira segundo uma doutrina. A distinção é de ambição, não apenas de intensidade repressiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-293",
+   "enunciado": "Ao distinguir trabalho, obra e ação, Arendt reserva à última a característica de:",
+   "alternativas": {
+    "a": "produzir objetos duráveis que compõem o mundo artificial habitado pelos homens",
+    "b": "ocorrer entre indivíduos plurais no espaço público, iniciando algo cujo desfecho nenhum agente controla sozinho",
+    "c": "atender às necessidades do corpo em um ciclo que se repete e não deixa vestígio permanente atrás de si, motivo pelo qual a autora a considera a atividade menos visível das três que examina",
+    "d": "ser exercida em solidão, longe do olhar dos demais",
+    "e": "depender de instrumentos técnicos cada vez mais sofisticados"
+   },
+   "resposta": "b",
+   "explicacao": "A ação, para Arendt, é a atividade especificamente política: acontece entre pessoas distintas, expõe quem age e desencadeia consequências imprevisíveis. Sua condição é a pluralidade, exatamente o que o totalitarismo procura destruir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-294",
+   "enunciado": "A propaganda nos regimes totalitários, segundo a análise clássica, opera menos pela persuasão e mais por:",
+   "alternativas": {
+    "a": "argumentação pública sujeita a contestação por adversários organizados em partidos rivais",
+    "b": "instrução técnica dos governados em assuntos de administração do Estado",
+    "c": "consulta periódica à população sobre as prioridades do orçamento anual do governo, prática que os regimes desse tipo mantiveram como forma de aferir a aceitação de suas medidas mais controversas",
+    "d": "construção de um mundo fictício coerente, no qual a repetição substitui a verificação e desfaz a distinção entre fato e opinião",
+    "e": "publicação de estatísticas independentes sobre os resultados das políticas adotadas"
+   },
+   "resposta": "d",
+   "explicacao": "O totalitarismo não disputa argumentos, ele fabrica um ambiente em que a contestação perde apoio empírico. Ao dissolver a diferença entre fato e ficção, retira do governado o terreno comum sem o qual a resistência ao poder político se torna inviável.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-295",
+   "enunciado": "O liberalismo clássico atribui ao Estado a tarefa de:",
+   "alternativas": {
+    "a": "planejar centralmente a produção e distribuir os bens conforme necessidades apuradas por órgãos administrativos",
+    "b": "definir a doutrina que os governados devem professar em assuntos de consciência",
+    "c": "suprimir a propriedade privada como condição para a igualdade política entre os indivíduos",
+    "d": "assegurar segurança, cumprimento de contratos e proteção de direitos, mantendo-se afastado de esferas em que a liberdade individual deve prevalecer",
+    "e": "conduzir diretamente a atividade econômica por meio de empresas estatais nos setores considerados relevantes para o desenvolvimento nacional de longo prazo"
+   },
+   "resposta": "d",
+   "explicacao": "O liberalismo clássico define o Estado por funções mínimas e por limites explícitos ao poder político. A discussão contemporânea sobre o alcance dessas funções não altera o ponto de partida: o governo existe para proteger direitos, não para prescrever fins.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-296",
+   "enunciado": "A noção de liberdade negativa, na formulação consagrada por Isaiah Berlin, refere-se:",
+   "alternativas": {
+    "a": "à capacidade de participar das decisões coletivas por meio do voto e do debate público",
+    "b": "à disponibilidade de recursos materiais que permitem a alguém realizar seus planos de vida",
+    "c": "à ausência de interferência de outros na área em que o indivíduo pode agir sem ser impedido",
+    "d": "ao autodomínio alcançado por quem submete seus impulsos a um projeto racional de vida, tema que atravessa a tradição do idealismo alemão e que o autor examina como fonte de confusões conceituais recorrentes",
+    "e": "à igualdade política entre os membros de uma mesma comunidade"
+   },
+   "resposta": "c",
+   "explicacao": "Liberdade negativa é liberdade de: mede-se pelo tamanho da área em que ninguém interfere. Berlin a distingue da liberdade positiva justamente para mostrar que ampliar uma nem sempre amplia a outra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-297",
+   "enunciado": "A liberdade positiva, na mesma distinção, é associada ao risco de que:",
+   "alternativas": {
+    "a": "alguém defina em nome do indivíduo qual seria seu eu autêntico e justifique coação como forma de realizá-lo",
+    "b": "o Estado deixe de fornecer serviços básicos e assim reduza o alcance efetivo das escolhas de cada um",
+    "c": "as fronteiras da área não interferida se tornem tão amplas que nenhuma lei consiga ser aplicada",
+    "d": "os indivíduos percam interesse pela disputa eleitoral e deixem de comparecer às urnas nos pleitos seguintes, fenômeno que o autor examina em detalhe ao tratar das democracias europeias do pós-guerra",
+    "e": "os tribunais assumam a tarefa de legislar sobre matérias reservadas ao parlamento"
+   },
+   "resposta": "a",
+   "explicacao": "Berlin alerta que a liberdade positiva, entendida como autodomínio, pode ser sequestrada: se alguém sabe melhor do que você o que você realmente quer, a coação passa a ser apresentada como libertação. O risco não invalida o conceito, mas explica a desconfiança liberal diante dele.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-298",
+   "enunciado": "A ideia de neutralidade do Estado, no liberalismo político contemporâneo, significa que o poder político deve:",
+   "alternativas": {
+    "a": "abster-se de arbitrar conflitos entre particulares, deixando-os à negociação direta entre as partes envolvidas",
+    "b": "abster-se de impor uma concepção substantiva de vida boa, garantindo termos de convivência que pessoas com projetos distintos possam aceitar",
+    "c": "adotar a doutrina majoritária como referência oficial e financiar sua difusão entre os governados por meio das escolas mantidas com recursos públicos, de modo a assegurar coesão à comunidade política",
+    "d": "permanecer indiferente diante de violações de direitos praticadas por particulares",
+    "e": "renunciar a arrecadar tributos de qualquer natureza"
+   },
+   "resposta": "b",
+   "explicacao": "Neutralidade aqui não é indiferença, é recusa de eleger um ideal de vida como oficial. O Estado arbitra e protege direitos, mas o faz com regras que indivíduos com convicções divergentes possam reconhecer como justas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-299",
+   "enunciado": "A ampliação do sufrágio ao longo dos séculos XIX e XX é lida como avanço da igualdade política porque:",
+   "alternativas": {
+    "a": "reduziu o número de cargos eletivos e concentrou a decisão em assembleias menores e mais ágeis",
+    "b": "transferiu ao poder judiciário a competência de escolher os ocupantes do executivo",
+    "c": "retirou o peso do patrimônio, do sexo e da instrução formal como critérios para decidir quem participa da escolha dos governantes",
+    "d": "estabeleceu que o voto de cada eleitor teria peso proporcional aos tributos pagos por ele ao longo do exercício anterior, critério que muitos parlamentos europeus discutiram durante o período em causa",
+    "e": "eliminou a disputa entre projetos rivais nas eleições nacionais"
+   },
+   "resposta": "c",
+   "explicacao": "O sufrágio censitário condicionava a participação à propriedade e à instrução; sua queda universaliza a titularidade do voto. A igualdade política se afirma quando a condição de eleitor deixa de depender de atributos externos ao próprio vínculo com a comunidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-300",
+   "enunciado": "O poder disciplinar, tal como Michel Foucault o descreve, caracteriza-se por:",
+   "alternativas": {
+    "a": "operar por espetáculo público de punição, dirigido ao corpo do condenado diante da população reunida",
+    "b": "depender de decreto do soberano para cada ato de correção aplicado dentro das instituições",
+    "c": "concentrar-se no aparelho central do Estado e nas leis por ele promulgadas ao longo do tempo",
+    "d": "distribuir os indivíduos no espaço, controlar seus horários e submetê-los a exame contínuo, produzindo condutas previsíveis em escolas, quartéis, fábricas e hospitais",
+    "e": "manifestar-se somente em regimes de exceção, desaparecendo assim que as garantias constitucionais são restabelecidas pelas autoridades competentes ao fim de um processo de transição institucional"
+   },
+   "resposta": "d",
+   "explicacao": "Foucault desloca a análise do poder político do soberano para os dispositivos que moldam corpos e rotinas. A disciplina não proíbe apenas, ela fabrica: ordena o espaço, o tempo e o olhar até que a conduta desejada se torne automática.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-301",
+   "texto_apoio": "O efeito principal do Panóptico é induzir no detento um estado consciente e permanente de visibilidade que assegura o funcionamento automático do poder.",
+   "enunciado": "O panóptico interessa a Foucault porque:",
+   "alternativas": {
+    "a": "descreve um projeto arquitetônico que jamais chegou a influenciar instituições reais",
+    "b": "demonstra que a vigilância só funciona com um número elevado de guardas em serviço permanente, condição que os administradores penitenciários do século XIX tentaram sem sucesso implementar em suas unidades",
+    "c": "mostra um dispositivo em que a incerteza sobre estar sendo observado leva o próprio vigiado a controlar sua conduta",
+    "d": "prova que a punição corporal é mais eficaz do que o encarceramento prolongado",
+    "e": "sustenta que o poder político se exerce apenas por meio de leis escritas"
+   },
+   "resposta": "c",
+   "explicacao": "No panóptico o poder se torna econômico: basta que a observação seja possível para que o efeito se produza. Foucault o toma como diagrama de uma sociedade em que o controle é interiorizado, e não imposto de fora a cada gesto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-302",
+   "enunciado": "A noção de biopolítica, em Foucault, designa a forma de poder que:",
+   "alternativas": {
+    "a": "toma a população como objeto de governo e administra natalidade, saúde, longevidade e circulação por meio de saberes e estatísticas",
+    "b": "se resume ao direito do soberano de decidir sobre a morte de seus súditos em situações de guerra declarada",
+    "c": "opera apenas pela repressão policial de manifestações consideradas ilegais pelas autoridades constituídas em cada período histórico examinado pelo autor em seus cursos",
+    "d": "concentra-se na definição das fronteiras territoriais entre Estados vizinhos",
+    "e": "recusa qualquer intervenção do Estado sobre os processos vitais dos governados"
+   },
+   "resposta": "a",
+   "explicacao": "A biopolítica marca a passagem do fazer morrer ao fazer viver: o poder político deixa de se definir pelo gume da espada e passa a gerir processos vitais em escala coletiva. Saúde pública, censo e seguros são instrumentos típicos desse deslocamento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-303",
+   "enunciado": "Ao propor uma analítica do poder que não parte do Estado, Foucault sustenta que:",
+   "alternativas": {
+    "a": "o poder é propriedade de uma classe dirigente que o detém e o transmite a seus herdeiros diretos",
+    "b": "o poder circula em relações capilares e produtivas, atravessando práticas e saberes antes de se cristalizar em instituições centrais",
+    "c": "o poder existe apenas onde há sanção penal expressamente prevista em lei aprovada pelo parlamento e submetida ao controle dos tribunais superiores de cada país",
+    "d": "o poder é sempre negativo e se exerce unicamente pela proibição de condutas",
+    "e": "o poder desaparece nas sociedades que adotam constituições escritas"
+   },
+   "resposta": "b",
+   "explicacao": "Foucault recusa a imagem do poder como coisa que se possui e desce do alto. Ele o descreve como relação que percorre a vida cotidiana e produz sujeitos, o que amplia a análise do poder político para além do aparelho de Estado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-304",
+   "enunciado": "Comparando Hobbes, Locke e Rousseau, é correto afirmar que os três:",
+   "alternativas": {
+    "a": "descrevem o estado de natureza de modo idêntico e divergem apenas quanto ao nome dado ao soberano",
+    "b": "defendem a monarquia absoluta como forma necessária de governo depois de firmado o pacto",
+    "c": "partem de um estado de natureza hipotético e de um pacto fundador, mas chegam a conclusões distintas sobre o alcance do poder político resultante",
+    "d": "recusam a noção de consentimento e fundam a autoridade na conquista militar, argumento que atravessa a literatura política europeia desde os tratados renascentistas sobre a arte de governar principados recém-adquiridos",
+    "e": "atribuem a soberania a uma assembleia hereditária de proprietários"
+   },
+   "resposta": "c",
+   "explicacao": "O contratualismo é um método compartilhado, não uma doutrina única: os três usam o estado de natureza como experimento para justificar a obediência. As diferenças aparecem no resultado, do soberano indivisível de Hobbes à soberania popular de Rousseau.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-305",
+   "enunciado": "Dizer que o estado de natureza é um recurso argumentativo, e não uma descrição histórica, significa reconhecer que ele:",
+   "alternativas": {
+    "a": "foi documentado por viajantes europeus que registraram povos vivendo sem governo em outros continentes",
+    "b": "corresponde a um período datado da pré-história humana, reconstituído a partir de vestígios materiais encontrados em sítios arqueológicos estudados durante o século XIX por pesquisadores europeus",
+    "c": "descreve com precisão as sociedades sem escrita observadas na Antiguidade clássica",
+    "d": "serve para isolar o que a convivência perde quando falta autoridade comum, tornando visível o que o contrato social pretende resolver",
+    "e": "deve ser abandonado por autores contemporâneos por carecer de comprovação documental"
+   },
+   "resposta": "d",
+   "explicacao": "O estado de natureza funciona como experimento mental: retira-se o governo e observa-se o que acontece com a convivência. Sua força não depende de ter existido, e sim de tornar explícito o problema que o poder político é chamado a resolver.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-306",
+   "enunciado": "A convocação de uma assembleia constituinte costuma ser justificada pelo princípio da soberania popular porque:",
+   "alternativas": {
+    "a": "transfere ao poder judiciário a tarefa de redigir a nova ordem jurídica do país",
+    "b": "permite que o governo em exercício prorrogue seu mandato até a promulgação do novo texto, expediente adotado com frequência nas transições políticas ocorridas na América Latina ao longo do século XX",
+    "c": "dispensa a consulta ao eleitorado, uma vez que o texto anterior já contemplava as regras aplicáveis",
+    "d": "reduz o alcance da separação dos poderes durante o período de elaboração das novas normas",
+    "e": "atribui à comunidade política, e não aos poderes constituídos, a competência de estabelecer as regras fundamentais a que esses poderes ficarão submetidos"
+   },
+   "resposta": "e",
+   "explicacao": "O poder constituinte é apresentado como expressão direta da soberania popular: quem cria as regras não pode ser aquele que elas limitam. Daí a exigência de mandato específico, distinto das competências ordinárias do poder político já instituído.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-307",
+   "enunciado": "A tradição do republicanismo, ao insistir na noção de coisa pública, sustenta que:",
+   "alternativas": {
+    "a": "a liberdade depende de não estar submetido à vontade arbitrária de outro, o que exige instituições capazes de conter o poder político e governados dispostos a defendê-las",
+    "b": "o interesse do governante se confunde com o interesse do Estado, de modo que fortalecer um significa necessariamente fortalecer o outro nas circunstâncias que se examinem, seja em república ou em principado",
+    "c": "a res publica pertence a quem exerce cargo eletivo durante o período de seu mandato",
+    "d": "a participação dos governados nos assuntos comuns deve ser desestimulada em favor da eficiência administrativa",
+    "e": "a monarquia hereditária é a forma de governo mais compatível com a liberdade individual"
+   },
+   "resposta": "a",
+   "explicacao": "O republicanismo define liberdade como ausência de dominação, e não apenas de interferência pontual. Por isso combina desenho institucional, com separação dos poderes e leis gerais, e disposição dos governados para vigiar quem exerce o poder político.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-308",
+   "enunciado": "Na sociologia contemporânea, um movimento social se distingue de uma aglomeração reunida por acaso porque:",
+   "alternativas": {
+    "a": "supõe ação coletiva sustentada no tempo, com pauta reconhecível e alguma forma de organização entre os participantes",
+    "b": "reúne número maior de pessoas em um mesmo lugar durante um intervalo mais longo, o que por si só transforma o ajuntamento em ator capaz de negociar com as autoridades constituídas",
+    "c": "depende de autorização prévia do poder público para que o protesto seja considerado legítimo",
+    "d": "só existe onde há registro formal como associação civil junto aos órgãos competentes",
+    "e": "dispensa qualquer forma de coordenação entre os que dele participam"
+   },
+   "resposta": "a",
+   "explicacao": "O que caracteriza um movimento social é a continuidade da mobilização social em torno de uma reivindicação, apoiada em estruturas que sobrevivem a cada protesto isolado. Sem essa organização mínima, e sem inserção na sociedade civil, o ajuntamento se dispersa sem deixar efeito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-309",
+   "enunciado": "A expressão novos movimentos sociais, difundida a partir dos anos 1970, designa formas de mobilização social que:",
+   "alternativas": {
+    "a": "abandonaram o protesto de rua em favor da negociação restrita a gabinetes ministeriais",
+    "b": "deslocam o eixo da reivindicação para pautas como meio ambiente, paz e reconhecimento de grupos específicos, sem se organizar prioritariamente em torno do movimento sindical",
+    "c": "substituíram o partido político pelo sindicato como principal canal de representação dos trabalhadores urbanos, arranjo que essa literatura descreve como característico dos países industrializados do período em causa",
+    "d": "se restringem ao movimento estudantil das universidades públicas",
+    "e": "recusam interlocução com o Estado e com toda entidade da sociedade civil já constituída"
+   },
+   "resposta": "b",
+   "explicacao": "O movimento sindical organizava a mobilização social em torno da posição ocupada na produção; os novos movimentos deslocam o eixo para questões de reconhecimento e de modo de vida. Isso não elimina o sindicato nem o partido político, mas acrescenta canais que não passam por eles.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-310",
+   "enunciado": "O movimento estudantil brasileiro, ao longo do século XX, é exemplo de ação coletiva que:",
+   "alternativas": {
+    "a": "permaneceu restrito às reivindicações internas de cada escola e universidade",
+    "b": "dependeu de financiamento do terceiro setor para vir a existir",
+    "c": "articulou pautas próprias da vida acadêmica a demandas mais amplas sobre direitos civis, o que lhe deu presença nos momentos de disputa nacional",
+    "d": "manteve-se afastado das manifestações públicas durante o período republicano brasileiro, restringindo sua atuação a documentos e petições encaminhados às autoridades competentes de cada época",
+    "e": "só se organizou depois da criação dos partidos de massa no país"
+   },
+   "resposta": "c",
+   "explicacao": "O movimento estudantil combinou pauta corporativa e pauta nacional, e é essa articulação que explica seu peso em 1968 e nas Diretas. A ação coletiva estudantil funcionou como porta de entrada de jovens na disputa por direitos civis e políticos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-311",
+   "enunciado": "A atuação de ONGs ambientalistas ao lado do movimento ambientalista organizado costuma ser descrita como:",
+   "alternativas": {
+    "a": "substituição da militância por serviços prestados mediante contrato com empresas privadas",
+    "b": "prova de que a ação coletiva só funciona quando remunerada",
+    "c": "forma de esvaziar a sociedade civil ao transferir suas pautas para o Estado, processo que essa literatura identifica como a causa principal do recuo dos protestos ambientais nas últimas três décadas",
+    "d": "complementaridade entre protesto e atuação técnica, em que a mobilização social pressiona e o terceiro setor produz informação e acompanha a política pública",
+    "e": "recusa deliberada de toda interlocução com órgãos de governo"
+   },
+   "resposta": "d",
+   "explicacao": "A divisão de tarefas é o traço mais notado: a rua sustenta a visibilidade, e a ONG acumula conhecimento técnico capaz de disputar o desenho da política pública. Militância e terceiro setor operam como faces de uma mesma pressão sobre o Estado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-312",
+   "enunciado": "A noção de repertório de confronto, proposta por Charles Tilly, indica que:",
+   "alternativas": {
+    "a": "cada protesto inventa formas inteiramente novas de expressão, sem relação com experiências anteriores",
+    "b": "a escolha entre passeata, greve e ocupação é definida por sorteio entre os organizadores",
+    "c": "a repressão estatal determina sozinha o formato que a manifestação assumirá",
+    "d": "o repertório de um movimento social é fixado por lei e não pode ser alterado pelos participantes sem autorização judicial prévia das autoridades responsáveis pela ordem pública em cada localidade",
+    "e": "os grupos em mobilização social recorrem a um conjunto historicamente aprendido de formas de protesto, que se transforma lentamente"
+   },
+   "resposta": "e",
+   "explicacao": "Tilly mostra que as formas de protesto são herdadas e reaprendidas: a passeata, a greve e o abaixo-assinado circulam como repertório disponível. Sua transformação é lenta e depende também do controle social exercido pelas autoridades sobre cada formato.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-313",
+   "enunciado": "A greve, como instrumento do movimento sindical, é analisada pela sociologia como:",
+   "alternativas": {
+    "a": "forma de ação coletiva que converte a interrupção da atividade produtiva em recurso de barganha diante do empregador e do poder público",
+    "b": "manifestação espontânea que dispensa organização prévia e coordenação entre os grevistas",
+    "c": "prática que perdeu função no momento em que o sindicato passou a ser reconhecido em lei, uma vez que esse reconhecimento formal teria transferido a negociação para instâncias administrativas de conciliação",
+    "d": "recurso disponível apenas a servidores do setor público",
+    "e": "protesto sem efeito conhecido sobre a política pública"
+   },
+   "resposta": "a",
+   "explicacao": "A greve funciona porque torna visível a dependência recíproca entre quem contrata e quem executa, e porque exige organização capaz de sustentar a paralisação. É ação coletiva no sentido estrito: o resultado é coletivo, o custo é individual, e o sindicato existe para administrar essa diferença.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-314",
+   "enunciado": "O argumento de Mancur Olson sobre a ação coletiva sustenta que:",
+   "alternativas": {
+    "a": "grupos grandes se organizam com mais facilidade do que grupos pequenos, porque somam mais recursos",
+    "b": "indivíduos que calculam custos e benefícios tendem a não contribuir para um bem público de que se beneficiarão mesmo sem contribuir, o que produz o problema do carona",
+    "c": "a mobilização social depende apenas do grau de insatisfação sentido por seus participantes",
+    "d": "o free-rider é um participante que contribui acima do necessário para compensar a ausência dos demais membros do grupo em que a mobilização coletiva se organiza, de modo a garantir o resultado esperado",
+    "e": "um interesse comum partilhado assegura por si só a formação do grupo correspondente"
+   },
+   "resposta": "b",
+   "explicacao": "Olson inverte a intuição corrente: interesse comum não produz organização automática, porque cada um prefere colher o resultado sem pagar por ele. É por isso que sindicatos e associações precisam oferecer vantagens restritas a quem se filia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-315",
+   "enunciado": "Um bem público, na definição usada pela sociologia da ação coletiva, caracteriza-se por:",
+   "alternativas": {
+    "a": "ser produzido apenas por órgãos estatais, e jamais por associações privadas",
+    "b": "ter preço fixado por decisão administrativa em função da renda de cada usuário",
+    "c": "não ser possível excluir de seu uso quem deixou de contribuir para produzi-lo, o que cria incentivo ao problema do carona",
+    "d": "beneficiar somente os membros formalmente filiados à associação que o produziu, condição que a literatura sobre mobilização coletiva considera necessária para que o grupo se mantenha organizado ao longo do tempo",
+    "e": "depender de contrato assinado por cada beneficiário antes de sua produção"
+   },
+   "resposta": "c",
+   "explicacao": "A não exclusão é o que torna o bem público difícil de financiar por contribuição voluntária. É a razão pela qual sindicatos e ONGs combinam a defesa do bem comum com vantagens restritas aos associados, e o mesmo dilema aparece no financiamento da política pública.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-316",
+   "enunciado": "Para contornar o dilema da ação coletiva, Olson propõe os incentivos seletivos, isto é:",
+   "alternativas": {
+    "a": "campanhas de convencimento dirigidas ao conjunto da população",
+    "b": "aumento do tamanho do grupo até que a contribuição individual se torne irrelevante",
+    "c": "distribuição igual do bem comum entre participantes e não participantes, arranjo que segundo essa corrente eliminaria por completo a vantagem de permanecer fora da mobilização coletiva",
+    "d": "vantagens reservadas a quem contribui, capazes de tornar a participação individualmente compensadora",
+    "e": "delegação da mobilização social a um partido político já constituído"
+   },
+   "resposta": "d",
+   "explicacao": "Se o bem coletivo chega a todos de todo modo, o que resta é acoplar a ele um benefício privado: convênio, seguro, assessoria jurídica. A participação social passa a compensar individualmente, e o problema do carona perde força.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-317",
+   "enunciado": "A pesquisa de Elinor Ostrom sobre recursos de uso comum mostrou que:",
+   "alternativas": {
+    "a": "somente a privatização integral evita a exaustão desses recursos",
+    "b": "somente a estatização integral evita a exaustão desses recursos",
+    "c": "o problema do carona desaparece assim que o número de usuários ultrapassa determinado limite estabelecido pelos órgãos de fiscalização responsáveis pela área em disputa",
+    "d": "as regras de uso precisam ser idênticas em todas as comunidades para funcionar",
+    "e": "comunidades de usuários conseguem criar regras próprias de uso e de sanção, sustentadas por confiança interpessoal e reciprocidade"
+   },
+   "resposta": "e",
+   "explicacao": "Ostrom documentou arranjos duradouros de gestão do bem comum sem privatização nem estatização, apoiados em monitoramento mútuo e sanções graduadas. O controle social exercido pelos próprios usuários se mostrou mais eficaz do que a fiscalização distante.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-318",
+   "enunciado": "A teoria da mobilização de recursos explica o surgimento de um movimento social pela:",
+   "alternativas": {
+    "a": "disponibilidade de organização, dinheiro, lideranças e oportunidade política, e não apenas pelo grau de descontentamento acumulado",
+    "b": "intensidade do sofrimento vivido pelos participantes, tomada isoladamente",
+    "c": "presença de um líder carismático capaz de conduzir sozinho a mobilização social até que ela alcance as autoridades responsáveis pela política pública em disputa naquele momento",
+    "d": "quantidade de manifestações realizadas no ano imediatamente anterior",
+    "e": "filiação obrigatória de seus membros a um sindicato reconhecido em lei"
+   },
+   "resposta": "a",
+   "explicacao": "Descontentamento existe em quase toda parte, e movimentos não. A teoria desloca a explicação para os recursos disponíveis e para a abertura do sistema político, o que ajuda a entender por que a mobilização social aparece em alguns momentos e não em outros.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-319",
+   "enunciado": "A noção de capital social, na formulação de Robert Putnam, refere-se a:",
+   "alternativas": {
+    "a": "patrimônio financeiro reunido por associações civis ao longo de sua história",
+    "b": "redes de engajamento, normas de reciprocidade e confiança interpessoal que facilitam a cooperação entre os membros de uma comunidade",
+    "c": "grau de escolaridade formal alcançado pelos moradores de determinada região, medido pelos censos periódicos que os institutos de estatística realizam a cada década nas diferentes unidades da federação",
+    "d": "número de partidos registrados na justiça eleitoral de um país",
+    "e": "conjunto de bens deixados em herança por famílias tradicionais"
+   },
+   "resposta": "b",
+   "explicacao": "Capital social não é dinheiro nem diploma: é o estoque de vínculos que reduz o custo de agir junto. Ele costuma ser medido por indicadores de participação social, como filiação a associações e comparecimento a reuniões de bairro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-320",
+   "enunciado": "Sociedades com níveis altos de confiança interpessoal tendem a apresentar:",
+   "alternativas": {
+    "a": "menor participação social e maior dependência de mecanismos formais de fiscalização",
+    "b": "custos mais elevados para firmar contratos, já que a desconfiança seria substituída por exigências documentais adicionais em cada transação realizada entre particulares",
+    "c": "maior facilidade de cooperação em ações que exigem contribuição de muitos, com custo menor de monitoramento",
+    "d": "recusa sistemática às formas de controle social exercidas pelas instituições",
+    "e": "concentração das decisões coletivas no aparelho de Estado"
+   },
+   "resposta": "c",
+   "explicacao": "Onde há confiança interpessoal, acordos se firmam com menos garantias formais e a cooperação sai mais barata. É esse mecanismo que liga capital social a maior participação social e a uma sociedade civil mais densa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-321",
+   "enunciado": "O associativismo de bairro, estudado como fonte de capital social, produz efeitos porque:",
+   "alternativas": {
+    "a": "substitui a política pública por iniciativas privadas de amparo aos moradores",
+    "b": "elimina a necessidade de partido político e de sindicato na representação de interesses",
+    "c": "transforma a vizinhança em unidade administrativa reconhecida pelo Estado, com competências próprias definidas em lei e orçamento repassado diretamente pelo governo municipal",
+    "d": "cria laços de reciprocidade que facilitam a ação coletiva em torno de demandas comuns do lugar onde as pessoas vivem",
+    "e": "impede que surjam conflitos entre os moradores da mesma rua"
+   },
+   "resposta": "d",
+   "explicacao": "A associação de bairro treina a ação coletiva em escala pequena: reuniões, rateios e cobranças criam expectativas de reciprocidade. Esse capital social é depois reaproveitado em demandas maiores, inclusive na cobrança de política pública ao município.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-322",
+   "enunciado": "Ao comparar regiões italianas, Putnam associou o desempenho de cada instituição política:",
+   "alternativas": {
+    "a": "ao volume de recursos federais transferidos anualmente para cada região",
+    "b": "ao tamanho da população residente em cada província administrativa",
+    "c": "à quantidade de servidores concursados em atividade nos órgãos regionais, indicador que segundo essa pesquisa explicaria as diferenças observadas entre o norte e o sul do país",
+    "d": "à antiguidade das leis que criaram cada governo regional",
+    "e": "à densidade das redes associativas locais, isto é, ao capital social reunido historicamente naquele território"
+   },
+   "resposta": "e",
+   "explicacao": "A comparação mostrou que regiões com tradição associativa antiga faziam funcionar melhor a mesma instituição política recém-criada. O capital social apareceu como variável que antecede o desenho legal e sustenta a participação social que o alimenta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-323",
+   "enunciado": "Na formulação de T. H. Marshall, a cidadania moderna se constituiu pela incorporação sucessiva de:",
+   "alternativas": {
+    "a": "direitos civis, depois direitos políticos e por fim direitos sociais, cada conjunto ligado a uma instituição social distinta",
+    "b": "direitos sociais, depois direitos civis e por fim direitos políticos, sequência que o autor identificou ao examinar o caso inglês entre os séculos XVIII e XX e estendeu aos demais países europeus",
+    "c": "direitos econômicos concedidos por decreto real em um único momento histórico",
+    "d": "deveres tributários progressivamente ampliados pelo Estado",
+    "e": "prerrogativas restritas aos proprietários de terra"
+   },
+   "resposta": "a",
+   "explicacao": "Marshall associa cada geração de direitos a uma instituição: os tribunais para os direitos civis, o parlamento para os políticos, a escola e a seguridade para os sociais. A ordem observada na Inglaterra não se repetiu em toda parte, e é justamente essa comparação que torna o esquema útil.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-324",
+   "enunciado": "A trajetória da cidadania no Brasil costuma ser descrita como invertida em relação ao esquema de Marshall porque:",
+   "alternativas": {
+    "a": "os direitos civis foram plenamente assegurados antes de todos os demais conjuntos de garantias",
+    "b": "direitos sociais ligados ao trabalho foram estendidos antes que os direitos políticos e civis estivessem consolidados para a maioria da população",
+    "c": "a seguridade foi a última conquista, obtida somente depois da universalização do voto e da liberdade de associação em todo o território nacional",
+    "d": "não houve política pública de assistência social em nenhum momento do período republicano",
+    "e": "a sequência coincide exatamente com a descrita para o caso inglês, sem diferenças dignas de nota entre os dois processos históricos examinados por essa literatura"
+   },
+   "resposta": "b",
+   "explicacao": "A legislação trabalhista dos anos 1930 antecipou direitos sociais em um período de restrição da disputa eleitoral, invertendo a ordem observada por Marshall. É por isso que o sindicato reconhecido pelo Estado ocupa lugar central nessa história.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-325",
+   "enunciado": "A seguridade social, tal como desenhada na Constituição de 1988, articula:",
+   "alternativas": {
+    "a": "apenas o regime de aposentadorias dos servidores públicos federais",
+    "b": "somente a rede privada de planos de saúde contratados por empregadores",
+    "c": "saúde, previdência e assistência social como um conjunto integrado de direitos sociais",
+    "d": "os benefícios pagos mediante contribuição prévia do beneficiário, critério que segundo esse desenho constitucional se aplicaria de maneira idêntica às três áreas que compõem o sistema",
+    "e": "a transferência da política pública de saúde à responsabilidade dos municípios, sem participação das demais esferas de governo"
+   },
+   "resposta": "c",
+   "explicacao": "O tripé da seguridade reúne áreas com lógicas de acesso diferentes: saúde universal, previdência contributiva e assistência social por necessidade. A sociedade civil participa do acompanhamento por meio de conselhos previstos no próprio texto constitucional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-326",
+   "enunciado": "A noção de cidadania regulada, formulada por Wanderley Guilherme dos Santos, descreve o arranjo em que:",
+   "alternativas": {
+    "a": "os habitantes acessam os mesmos direitos sociais independentemente da ocupação exercida",
+    "b": "a política pública de assistência social precede o reconhecimento legal das profissões",
+    "c": "o sindicato substitui integralmente o Estado na prestação de serviços de saúde e educação em determinadas regiões do país, arranjo que teria vigorado desde a década de 1930",
+    "d": "o acesso a direitos sociais depende do reconhecimento estatal da profissão exercida, o que deixa de fora quem trabalha sem registro",
+    "e": "os direitos políticos antecedem toda forma de proteção ligada ao trabalho"
+   },
+   "resposta": "d",
+   "explicacao": "A carteira assinada funcionou como documento de cidadania: quem tinha profissão reconhecida acessava direitos sociais, quem estava fora do enquadramento ficava sem eles. O sindicato reconhecido pelo Estado operava como guardião dessa fronteira.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-327",
+   "enunciado": "Os conselhos gestores de política pública criados no Brasil após 1988 têm como característica:",
+   "alternativas": {
+    "a": "a composição restrita a servidores de carreira do órgão responsável",
+    "b": "o caráter apenas consultivo em todas as áreas em que foram instituídos",
+    "c": "a substituição do voto popular pela escolha direta dos conselheiros pelo chefe do executivo municipal, procedimento adotado de maneira uniforme nas diferentes esferas de governo desde sua criação",
+    "d": "a proibição de que entidades da sociedade civil integrem suas reuniões",
+    "e": "a participação social de representantes do governo e de entidades civis na formulação e no acompanhamento das decisões"
+   },
+   "resposta": "e",
+   "explicacao": "Os conselhos são espaços de composição mista, em que a sociedade civil senta à mesa com o governo. Sua função é dar forma institucional ao controle social sobre a política pública, e não substituir a decisão dos órgãos executivos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-328",
+   "enunciado": "A análise de política pública costuma decompor o processo em etapas para:",
+   "alternativas": {
+    "a": "identificar em que ponto a decisão se forma, é implementada e avaliada, o que permite localizar onde a demanda de um movimento social encontra ou perde espaço",
+    "b": "demonstrar que a implementação corresponde fielmente ao texto aprovado",
+    "c": "reduzir o número de atores envolvidos na formulação",
+    "d": "estabelecer que a agenda governamental se define apenas dentro do parlamento, sem interferência de entidades da sociedade civil ou de outros atores externos ao processo legislativo",
+    "e": "comprovar que a avaliação de resultados dispensa indicadores"
+   },
+   "resposta": "a",
+   "explicacao": "Separar formação da agenda, formulação, implementação e avaliação permite ver que a disputa não termina na lei aprovada. É na implementação que muita demanda de movimento social se perde, e é ali que o controle social exercido pela sociedade civil faz diferença.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-329",
+   "enunciado": "A tipologia clássica dos regimes de estado de bem-estar distingue modelos:",
+   "alternativas": {
+    "a": "pela quantidade de servidores públicos empregados em cada país",
+    "b": "liberal, conservador e social-democrata, conforme o peso relativo do mercado, da família e do Estado na provisão de proteção",
+    "c": "monárquico e republicano, conforme a forma de governo adotada, critério que essa literatura consideraria decisivo para explicar as diferenças de gasto social observadas entre os países europeus",
+    "d": "apenas pelo percentual do orçamento destinado à seguridade",
+    "e": "pela extensão do território nacional coberto pela assistência social"
+   },
+   "resposta": "b",
+   "explicacao": "A tipologia pergunta quem responde pelo risco: o mercado, a família ou o Estado. Onde o sindicato foi forte, os direitos sociais tenderam a se universalizar; onde prevaleceu o mercado, a proteção ficou residual e seletiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-330",
+   "enunciado": "Programas de transferência de renda condicionada, como componente da assistência social brasileira, são analisados como:",
+   "alternativas": {
+    "a": "substitutos integrais da política pública de educação e de saúde",
+    "b": "medidas emergenciais incompatíveis com o desenho da seguridade",
+    "c": "instrumento que combina alívio imediato de privação material com exigências de frequência escolar e acompanhamento de saúde",
+    "d": "transferências pagas indistintamente a famílias de renda alta e baixa, desenho que segundo essa literatura teria sido adotado no Brasil desde o início da década de 1990 sem alterações posteriores",
+    "e": "benefícios restritos a quem tem registro formal e contribuição prévia"
+   },
+   "resposta": "c",
+   "explicacao": "A condicionalidade liga o repasse monetário ao acesso a serviços, o que aproxima a assistência social dos direitos sociais já previstos em lei. Os conselhos e o controle social acompanham a execução, e é por eles que a sociedade civil chega ao desenho do programa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-331",
+   "enunciado": "A previdência contributiva difere da assistência social porque:",
+   "alternativas": {
+    "a": "é financiada apenas por impostos gerais, sem contribuição dos segurados",
+    "b": "atende somente a servidores públicos de carreira",
+    "c": "não integra a seguridade prevista na Constituição, ao contrário do que ocorre com as demais políticas de proteção reunidas naquele capítulo do texto constitucional de 1988",
+    "d": "vincula o benefício a contribuições feitas ao longo da vida laboral, ao passo que a segunda independe de contribuição prévia",
+    "e": "é operada integralmente por entidades do terceiro setor"
+   },
+   "resposta": "d",
+   "explicacao": "A diferença está na porta de entrada: a previdência exige histórico de contribuição, a assistência social responde à necessidade verificada. Ambas integram a seguridade e ambas se apresentam como direitos sociais exigíveis, não como favor do governo de plantão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-332",
+   "enunciado": "A expressão controle social, no vocabulário das políticas públicas brasileiras, designa:",
+   "alternativas": {
+    "a": "a vigilância exercida pelo Estado sobre o comportamento dos beneficiários",
+    "b": "a censura prévia a informações produzidas por órgãos de governo",
+    "c": "a fiscalização exercida por empresas contratadas para auditar contas municipais, encargo que a legislação vigente reservaria com exclusividade a esse tipo de prestador de serviço",
+    "d": "o monitoramento das comunicações privadas por órgãos de segurança",
+    "e": "o acompanhamento da política pública por entidades da sociedade civil, exercido sobretudo por meio de conselhos e conferências"
+   },
+   "resposta": "e",
+   "explicacao": "No debate brasileiro a expressão inverteu o sentido que tinha na sociologia clássica: aqui é a sociedade que controla o Estado, e não o contrário. Esse controle social é uma das formas de participação social previstas desde 1988.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-333",
+   "enunciado": "Tratar a família como instituição social significa considerá-la:",
+   "alternativas": {
+    "a": "um arranjo regulado por normas e expectativas que variam historicamente, e não um dado natural imutável",
+    "b": "uma unidade cuja forma nuclear seria a única reconhecível em qualquer sociedade já descrita",
+    "c": "um grupo cujas regras internas são definidas exclusivamente pelo Estado",
+    "d": "uma associação voluntária equivalente a um partido político",
+    "e": "um conjunto de laços de parentesco cuja organização independeria das leis, dos costumes e das decisões de política pública adotadas em cada período histórico"
+   },
+   "resposta": "a",
+   "explicacao": "A família como instituição social é objeto de regras jurídicas, expectativas de conduta e política pública, e por isso muda de forma ao longo do tempo. O parentesco fornece a matéria; as normas em vigor decidem o que conta como família em cada época.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-334",
+   "enunciado": "Ao analisar a escola como instituição, a sociologia observa que ela:",
+   "alternativas": {
+    "a": "transmite apenas conteúdos técnicos, sem efeito sobre a conduta dos estudantes",
+    "b": "organiza tempos, hierarquias e formas de avaliação que ensinam regras de convívio junto com o conteúdo previsto no currículo",
+    "c": "reproduz integralmente a vontade das famílias, sem margem própria de decisão sobre o que ensina e sobre como distribui os alunos entre as turmas de cada série",
+    "d": "funciona de modo idêntico em todos os países, independentemente da política pública adotada",
+    "e": "perdeu relevância como instituição social a partir da difusão do ensino a distância"
+   },
+   "resposta": "b",
+   "explicacao": "A escola como instituição social distribui saberes e também disposições: pontualidade, hierarquia e critérios de mérito são aprendidos na rotina, não na aula. Por isso o direito à educação figura entre os direitos sociais e depende de política pública contínua.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-335",
+   "enunciado": "A abordagem sociológica da religião como instituição social se ocupa de:",
+   "alternativas": {
+    "a": "julgar a validade das crenças professadas por cada grupo",
+    "b": "demonstrar que a religião desapareceu das sociedades industriais",
+    "c": "examinar como comunidades de fé organizam normas, hierarquias e vínculos que se prolongam para além do espaço do culto",
+    "d": "estabelecer qual doutrina deve orientar a política pública em matéria de família e de educação, tarefa que essa área da pesquisa reivindicaria para si desde suas primeiras formulações",
+    "e": "registrar apenas o número de templos abertos em cada município"
+   },
+   "resposta": "c",
+   "explicacao": "A sociologia não arbitra disputas de fé: descreve a religião como instituição social que produz pertencimento, autoridade e ação organizada. Entidades religiosas são também parte da sociedade civil, e sua participação social aparece em creches, hospitais e campanhas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-336",
+   "enunciado": "A laicidade do Estado, como princípio institucional, implica que:",
+   "alternativas": {
+    "a": "a religião deve ser removida do espaço público por decisão administrativa",
+    "b": "o Estado adota a confissão majoritária e financia suas atividades",
+    "c": "as entidades religiosas ficam impedidas de manifestar posição sobre política pública, restrição que segundo essa leitura decorreria diretamente do texto constitucional brasileiro em vigor",
+    "d": "o poder estatal não professa credo algum e trata as diferentes confissões com igualdade, sem impedir sua presença na sociedade civil",
+    "e": "cada município escolhe a religião oficial de seu território"
+   },
+   "resposta": "d",
+   "explicacao": "Laicidade não é hostilidade à fé, e sim neutralidade do Estado entre credos. Entidades religiosas seguem atuando na sociedade civil e podem disputar a política pública como qualquer outro ator, desde que não se confundam com o aparelho estatal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-337",
+   "enunciado": "Dizer que instituições mudam lentamente significa reconhecer que:",
+   "alternativas": {
+    "a": "alteração alguma ocorre sem revolução armada",
+    "b": "as regras formais se alteram no mesmo ritmo das práticas cotidianas que elas pretendem regular",
+    "c": "a mudança depende exclusivamente da troca dos ocupantes dos cargos",
+    "d": "uma instituição social só se transforma quando um movimento social conquista maioria parlamentar, condição que a pesquisa sobre o tema apresentaria como necessária e suficiente para as alterações relevantes",
+    "e": "normas incorporadas em rotinas e expectativas resistem à mudança, de modo que reformas legais convivem por muito tempo com práticas antigas"
+   },
+   "resposta": "e",
+   "explicacao": "Mudar o texto da lei é rápido; mudar o que as pessoas esperam umas das outras não é. Por isso a participação social insiste em acompanhar a implementação: sem ela, a instituição social absorve a reforma e continua funcionando como antes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-338",
+   "enunciado": "A negociação coletiva conduzida por um sindicato é analisada pela sociologia como:",
+   "alternativas": {
+    "a": "mecanismo que converte demandas dispersas em pauta única, ampliando o poder de barganha de quem negocia individualmente pouco",
+    "b": "prática restrita ao setor público brasileiro",
+    "c": "processo que dispensa toda forma de mobilização coletiva prévia",
+    "d": "arranjo em que o Estado decide sozinho o conteúdo do acordo, cabendo às partes apenas registrar a decisão tomada em instância administrativa superior, sem possibilidade de recurso",
+    "e": "instrumento incompatível com a atuação de partido político e de entidades da sociedade civil"
+   },
+   "resposta": "a",
+   "explicacao": "A negociação coletiva funciona porque agrega: o que cada um pediria sozinho vira pauta comum sustentada pela ameaça crível de paralisação. É a face institucional do movimento sindical, e depende de mobilização coletiva para ter peso na mesa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-339",
+   "enunciado": "Na análise sociológica, o partido político cumpre a função de:",
+   "alternativas": {
+    "a": "substituir a atuação do movimento social em todas as esferas de disputa",
+    "b": "agregar interesses dispersos em programas e disputar cargos, servindo de canal permanente entre governados e Estado",
+    "c": "administrar diretamente os serviços públicos contratados pelo município, encargo que a legislação brasileira reservaria a essas agremiações desde a redemocratização do país",
+    "d": "representar somente os filiados que pagam contribuição mensal",
+    "e": "fiscalizar as contas do executivo em substituição aos tribunais competentes"
+   },
+   "resposta": "b",
+   "explicacao": "O partido político é o canal que traduz demandas difusas em programa e disputa institucional, algo que o movimento social não faz por conta própria. É por meio dele que a participação política se torna contínua, e não apenas episódica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-340",
+   "enunciado": "A expressão terceiro setor designa organizações que:",
+   "alternativas": {
+    "a": "integram a administração direta do Estado com orçamento próprio",
+    "b": "operam com fins de lucro em mercados regulados",
+    "c": "atuam sem fins lucrativos fora do aparelho estatal, prestando serviços e defendendo pautas de interesse coletivo",
+    "d": "substituem o partido político na disputa por cargos eletivos, função que a legislação sobre entidades sem fins lucrativos lhes teria atribuído de maneira expressa a partir dos anos 1990",
+    "e": "existem apenas onde não há política pública instituída"
+   },
+   "resposta": "c",
+   "explicacao": "O terceiro setor ocupa a faixa entre Estado e mercado: associações, fundações e ONGs que prestam serviço e disputam agenda. Muitas nasceram do próprio movimento social, o que aproxima a ONG da militância que a originou.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-341",
+   "enunciado": "A noção de sociedade civil, no debate contemporâneo, refere-se ao:",
+   "alternativas": {
+    "a": "conjunto dos órgãos que compõem a administração pública federal",
+    "b": "grupo de empresas com atuação em mercados internacionais",
+    "c": "corpo de servidores concursados encarregado de executar a política pública aprovada pelo parlamento, definição que essa literatura teria consagrado ao tratar das relações entre o Estado e as associações voluntárias",
+    "d": "espaço de associações voluntárias, sindicatos e entidades que se organizam fora do Estado e do mercado para influir nas decisões públicas",
+    "e": "conjunto dos eleitores inscritos no cadastro nacional"
+   },
+   "resposta": "d",
+   "explicacao": "A sociedade civil é o terreno em que a organização voluntária acontece sem se confundir com o governo nem com a empresa. É dela que saem o movimento social, o sindicato e a entidade de bairro que disputam a agenda pública.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-342",
+   "enunciado": "Instrumentos como portais de transparência e audiências públicas ampliam:",
+   "alternativas": {
+    "a": "a autonomia do gestor para decidir sem prestar contas",
+    "b": "a distância entre o cidadão e o órgão responsável pela execução",
+    "c": "o número de etapas necessárias para aprovar a lei orçamentária no parlamento, efeito que segundo essa avaliação encareceria o funcionamento das instituições sem produzir ganho de qualidade",
+    "d": "a concentração das decisões no gabinete do chefe do executivo",
+    "e": "o controle social sobre a política pública, ao tornar acessível a informação de que a participação social depende"
+   },
+   "resposta": "e",
+   "explicacao": "Não há controle social sem informação disponível: transparência é condição de exercício, não enfeite. Ao publicar contratos e execução orçamentária, o Estado permite que a sociedade civil acompanhe a política pública em tempo útil.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-343",
+   "enunciado": "O orçamento participativo, experimentado em cidades brasileiras a partir dos anos 1990, consiste em:",
+   "alternativas": {
+    "a": "abrir à participação social a definição de parte das obras e serviços a executar, mediante assembleias e delegados escolhidos pelos moradores",
+    "b": "transferir ao executivo municipal a decisão sobre a totalidade das despesas",
+    "c": "condicionar a execução do orçamento à aprovação prévia de entidades do terceiro setor contratadas para essa finalidade, arranjo que a literatura sobre o tema descreveria como o formato mais difundido no país",
+    "d": "substituir a câmara de vereadores por um conselho técnico permanente",
+    "e": "restringir a discussão orçamentária aos servidores da área de planejamento"
+   },
+   "resposta": "a",
+   "explicacao": "O orçamento participativo cria um circuito em que moradores hierarquizam demandas e acompanham a execução, aproximando a cidadania da decisão sobre recursos. É uma das experiências brasileiras mais estudadas de participação social em política pública.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-344",
+   "enunciado": "A sociologia do engajamento militante procura explicar:",
+   "alternativas": {
+    "a": "por que toda pessoa insatisfeita se torna automaticamente ativista",
+    "b": "como trajetórias pessoais, laços de amizade e organizações concretas convertem descontentamento em militância duradoura",
+    "c": "por que a mobilização social dependeria apenas do noticiário produzido pelos grandes veículos de comunicação, explicação que essa área da pesquisa considera suficiente para dar conta do fenômeno",
+    "d": "de que modo o Estado escolhe os dirigentes das entidades da sociedade civil",
+    "e": "quais agremiações obtiveram mais votos em cada eleição municipal"
+   },
+   "resposta": "b",
+   "explicacao": "Entrar e permanecer em um movimento social não decorre apenas da causa defendida: pesa a rede de relações que sustenta o compromisso e o custo de abandoná-la. É assim que a militância se converte em carreira e a mobilização social ganha continuidade.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ]
 }

@@ -157,24 +157,42 @@ UI deixa isso explícito.
 
 ## Aba "Cards" (flashcards com repetição espaçada)
 
-Os flashcards são um banco **dedicado e original** (`data/flashcards/*.json`, compilados em
-`data/flashcards.js`, 1.209 cards no total, pelo menos 75 por frente) — não são derivados do
-banco de questões de múltipla escolha (essa era uma versão anterior, mas virava só repetição da
-questão). O formato segue os princípios de repetição espaçada de Piotr Woźniak/SuperMemo e do
-Anki: **princípio da informação mínima** (cada card testa um único fato/conceito, nunca uma
-pergunta composta), **sem listas/enumerações como resposta** (quebradas em cards individuais),
-**recall ativo** (frente é sempre uma pergunta/pista que exige lembrar, verso é uma resposta
-direta de 1-2 frases) e **cards formulados para combater interferência** entre conceitos
-parecidos (ex.: Kant x Arendt, juros simples x compostos, totalitarismo x banalidade do mal).
-Cada obra obrigatória (ver abaixo) também vira um card (frente = título/autor, verso = resumo +
-análise pelos eixos). Algoritmo de repetição espaçada simplificado (`vd_flashcardState`):
+Os flashcards são um banco **dedicado e original** — não são derivados do banco de questões de
+múltipla escolha (essa era uma versão anterior, mas virava só repetição da questão). A fonte é
+`banco-central/data/flashcards/<frente>.json` e o `data/flashcards.js` desta pasta é **gerado**
+pelo `build-trilhas.js`, como o resto dos dados.
+
+O baralho é indexado **por subtema**, não por frente: são os 83 subtemas do banco central, com
+piso de 30 cards cada — 3.136 no total (2.971 em Medicina, que não leva Direitos Humanos, e
+1.830 em Engenharia, que leva 44 dos 83). Antes da migração os decks eram por frente, grossos, e
+o `buildFlashcardPool` já procurava por subtema: só 3 dos 83 assuntos exibiam cards, sem que nada
+acusasse a falha.
+
+Um flashcard é um **fato**, e fato não muda com o edital — por isso ele não varia por trilha nem
+por banca, ao contrário da teoria, que fala do formato de uma prova específica.
+
+O formato segue os princípios de repetição espaçada de Piotr Woźniak/SuperMemo e do Anki:
+**princípio da informação mínima** (cada card testa um único fato/conceito, nunca uma pergunta
+composta), **sem listas/enumerações como resposta** (quebradas em cards individuais), **recall
+ativo** (frente é sempre uma pergunta/pista que exige lembrar, verso é uma resposta direta de 1-2
+frases) e **cards formulados para combater interferência** entre conceitos parecidos (ex.: Kant x
+Arendt, juros simples x compostos, totalitarismo x banalidade do mal). Cada obra obrigatória (ver
+abaixo) também vira um card (frente = título/autor, verso = resumo + análise pelos eixos).
+
+Algoritmo de repetição espaçada simplificado (`vd_flashcardState`):
 - **Não sei**: o card reaparece ainda nesta sessão (reinserido um pouco à frente na fila) e de
   novo amanhã.
 - **Sei**: o intervalo até reaparecer cresce numa progressão fixa (1 → 3 → 7 → 15 → 30 dias).
 
 A "Revisão do dia" junta os cards vencidos com até 20 cards novos (embaralhados, pra não deixar
-os cards de obras "presos" no fim da fila); também dá pra estudar o baralho de uma frente
-específica direto na aba.
+os cards de obras "presos" no fim da fila); também dá pra estudar o baralho de um assunto
+específico direto na aba.
+
+Para acrescentar ou corrigir cards, use `node banco-central/compor-flashcards.js <frente>
+<rascunho.js>` — o JSON **nunca** se escreve à mão. O estado da repetição espaçada é indexado por
+`id` num espaço global, então um id repetido fundiria dois cards no histórico de quem estuda, e
+nada acusaria o erro. O script gera os ids e reprova subtema faltando, pergunta repetida e deck
+abaixo do piso.
 
 ## Aba "Obras" (obras obrigatórias, só FGV)
 

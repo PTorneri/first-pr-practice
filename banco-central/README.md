@@ -33,10 +33,19 @@ para acrescentar uma aula ou corrigir uma teoria.
 autoral, escrito subtema a subtema (piso de 30 cards cada). Diferente da
 teoria, um flashcard é um FATO que não muda com o edital, então não varia por
 trilha nem por banca — é por isso que mora aqui e não em `teoria.js`/`videos.js`,
-que são POR TRILHA. Migração em andamento: nem todo subtema tem deck ainda, e
-`build-trilhas.js` avisa no console quais faltam sem travar o build (rodar sem
-todos os 83 prontos é esperado por um tempo). Formato de cada arquivo:
+que são POR TRILHA. Formato de cada arquivo:
 `{ frente, gerado, porSubtema: { "<subtema-id>": [{id, frente, verso}, ...] } }`.
+
+Os **83 subtemas estão cobertos** (3.136 cards). `build-trilhas.js` não trava
+quando falta deck — só avisa no console quais subtemas ficaram de fora, o que
+era o normal enquanto a migração corria. Se essa linha voltar a aparecer, um
+subtema novo entrou em `classificar-subtemas.js` sem cards.
+
+Só `atualidades` envelhece. Ela foi escrita em torno de MECANISMOS estáveis (o
+que é a Selic e como ela freia a inflação, como se compõe o Conselho de
+Segurança, o que uma COP negocia) em vez de manchetes, justamente para não
+vencer em meses; onde um fato recente era indispensável, ele traz o ano
+explícito — procure por anos no JSON para achar o que reconferir.
 
 O JSON é a fonte, mas não se escreve à mão: `compor-flashcards.js` recebe um
 rascunho só com os pares `[pergunta, resposta]` por subtema, gera os `id`, e

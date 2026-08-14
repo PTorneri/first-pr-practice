@@ -1,0 +1,851 @@
+{
+  "frente": "artes",
+  "gerado": "2026-08-14",
+  "porSubtema": {
+    "artes-classica-moderna": [
+      {
+        "id": "flash-artes-classica-moderna-01",
+        "frente": "O que caracteriza a arte do Renascimento?",
+        "verso": "O antropocentrismo, o realismo anatômico, a perspectiva linear e a retomada dos ideais greco-romanos de harmonia e proporção."
+      },
+      {
+        "id": "flash-artes-classica-moderna-02",
+        "frente": "O que é a perspectiva linear renascentista?",
+        "verso": "A técnica que cria ilusão de profundidade fazendo as linhas convergirem para um ponto de fuga."
+      },
+      {
+        "id": "flash-artes-classica-moderna-03",
+        "frente": "O que é o mecenato, e qual foi seu papel no Renascimento?",
+        "verso": "O patrocínio de artistas por nobres, banqueiros e pela Igreja, que financiou a produção artística em troca de prestígio."
+      },
+      {
+        "id": "flash-artes-classica-moderna-04",
+        "frente": "Que obras marcam a produção de Leonardo da Vinci?",
+        "verso": "'Mona Lisa' e 'A Última Ceia', em que emprega o sfumato e a composição rigorosamente equilibrada."
+      },
+      {
+        "id": "flash-artes-classica-moderna-05",
+        "frente": "O que é o sfumato?",
+        "verso": "A técnica de contornos esfumaçados, sem linhas nítidas, que produz transições suaves entre luz e sombra."
+      },
+      {
+        "id": "flash-artes-classica-moderna-06",
+        "frente": "O que caracteriza a obra de Michelangelo?",
+        "verso": "O vigor escultórico e anatômico, visível no 'Davi' e no teto da Capela Sistina."
+      },
+      {
+        "id": "flash-artes-classica-moderna-07",
+        "frente": "O que caracteriza a arte barroca?",
+        "verso": "O dramatismo, o contraste intenso de luz e sombra, o movimento e a intenção de emocionar o fiel."
+      },
+      {
+        "id": "flash-artes-classica-moderna-08",
+        "frente": "O que é o claro-escuro (chiaroscuro) barroco?",
+        "verso": "O contraste acentuado entre áreas iluminadas e sombreadas, que cria dramaticidade e direciona o olhar."
+      },
+      {
+        "id": "flash-artes-classica-moderna-09",
+        "frente": "Qual é a relação entre o Barroco e a Contrarreforma?",
+        "verso": "A Igreja Católica usou a arte emotiva e grandiosa como instrumento de reafirmação da fé diante do protestantismo."
+      },
+      {
+        "id": "flash-artes-classica-moderna-10",
+        "frente": "Quem foi Aleijadinho, e qual sua importância?",
+        "verso": "Antônio Francisco Lisboa, principal nome do Barroco brasileiro, autor dos Profetas de Congonhas e de igrejas mineiras."
+      },
+      {
+        "id": "flash-artes-classica-moderna-11",
+        "frente": "O que caracteriza o Rococó?",
+        "verso": "A leveza, os tons pastel, a ornamentação delicada e os temas galantes da aristocracia — sucede o Barroco."
+      },
+      {
+        "id": "flash-artes-classica-moderna-12",
+        "frente": "O que caracteriza o Neoclassicismo?",
+        "verso": "O retorno ao equilíbrio, à ordem e aos temas da Antiguidade clássica, associado ao Iluminismo e à Revolução Francesa."
+      },
+      {
+        "id": "flash-artes-classica-moderna-13",
+        "frente": "O que caracteriza o Romantismo na pintura?",
+        "verso": "A valorização da emoção, do sublime, da natureza indomada e dos temas históricos e nacionais."
+      },
+      {
+        "id": "flash-artes-classica-moderna-14",
+        "frente": "O que caracteriza o Realismo na pintura?",
+        "verso": "A representação do cotidiano e do trabalhador sem idealização, com crítica social — Courbet e Millet são referências."
+      },
+      {
+        "id": "flash-artes-classica-moderna-15",
+        "frente": "O que caracteriza o Impressionismo?",
+        "verso": "A captação da luz e do instante, com pinceladas soltas, cores puras e pintura ao ar livre."
+      },
+      {
+        "id": "flash-artes-classica-moderna-16",
+        "frente": "Por que o Impressionismo é considerado ruptura com a pintura acadêmica?",
+        "verso": "Porque abandona o acabamento, o tema histórico e o ateliê, valorizando a percepção momentânea sobre a representação fiel."
+      },
+      {
+        "id": "flash-artes-classica-moderna-17",
+        "frente": "Qual é a importância de Monet para o Impressionismo?",
+        "verso": "Deu nome ao movimento com 'Impressão, Nascer do Sol' e investigou a variação da luz em séries sobre o mesmo motivo."
+      },
+      {
+        "id": "flash-artes-classica-moderna-18",
+        "frente": "O que caracteriza a obra de Van Gogh?",
+        "verso": "A pincelada vigorosa e expressiva, a cor intensa e a carga emocional — antecipa o Expressionismo."
+      },
+      {
+        "id": "flash-artes-classica-moderna-19",
+        "frente": "Qual é a contribuição de Cézanne à arte moderna?",
+        "verso": "Reduziu as formas naturais a volumes geométricos, abrindo caminho para o Cubismo."
+      },
+      {
+        "id": "flash-artes-classica-moderna-20",
+        "frente": "O que caracteriza o Cubismo?",
+        "verso": "A decomposição do objeto em planos geométricos e sua representação simultânea de múltiplos pontos de vista."
+      },
+      {
+        "id": "flash-artes-classica-moderna-21",
+        "frente": "Qual é a importância de 'Guernica', de Picasso?",
+        "verso": "Denuncia o bombardeio da cidade basca na Guerra Civil Espanhola, tornando-se ícone universal contra a violência da guerra."
+      },
+      {
+        "id": "flash-artes-classica-moderna-22",
+        "frente": "O que caracteriza o Expressionismo?",
+        "verso": "A deformação da forma e o uso de cores intensas para expressar angústia e subjetividade — 'O Grito', de Munch, é seu emblema."
+      },
+      {
+        "id": "flash-artes-classica-moderna-23",
+        "frente": "O que caracteriza o Futurismo?",
+        "verso": "A exaltação da máquina, da velocidade e da vida moderna, com ruptura radical em relação ao passado."
+      },
+      {
+        "id": "flash-artes-classica-moderna-24",
+        "frente": "O que caracteriza o Dadaísmo?",
+        "verso": "O nonsense, a provocação e a negação da arte tradicional, como reação ao horror da Primeira Guerra."
+      },
+      {
+        "id": "flash-artes-classica-moderna-25",
+        "frente": "O que é um ready-made, e quem o criou?",
+        "verso": "O objeto industrial comum apresentado como obra de arte; foi criado por Marcel Duchamp, cujo 'Fonte' é o exemplo célebre."
+      },
+      {
+        "id": "flash-artes-classica-moderna-26",
+        "frente": "Por que o ready-made é um marco na história da arte?",
+        "verso": "Porque desloca o valor da obra da habilidade manual para a escolha e o contexto — o gesto do artista passa a ser conceitual."
+      },
+      {
+        "id": "flash-artes-classica-moderna-27",
+        "frente": "O que caracteriza o Surrealismo?",
+        "verso": "A exploração do inconsciente, do sonho e do automatismo, sob influência da psicanálise — Dalí e Magritte são referências."
+      },
+      {
+        "id": "flash-artes-classica-moderna-28",
+        "frente": "O que caracteriza o Abstracionismo?",
+        "verso": "O abandono da representação figurativa em favor de formas, cores e linhas autônomas."
+      },
+      {
+        "id": "flash-artes-classica-moderna-29",
+        "frente": "Qual é a diferença entre abstracionismo informal e geométrico?",
+        "verso": "O informal é gestual e expressivo, como em Kandinsky; o geométrico é racional e ordenado, como em Mondrian."
+      },
+      {
+        "id": "flash-artes-classica-moderna-30",
+        "frente": "Qual é a importância de Anita Malfatti para o modernismo brasileiro?",
+        "verso": "Sua exposição de 1917, atacada por Monteiro Lobato, tornou-se o estopim da mobilização que levou à Semana de 22."
+      },
+      {
+        "id": "flash-artes-classica-moderna-31",
+        "frente": "Qual é a importância de Tarsila do Amaral?",
+        "verso": "Deu forma visual ao movimento antropofágico com 'Abaporu' e 'Antropofagia', unindo vanguarda europeia e temática brasileira."
+      },
+      {
+        "id": "flash-artes-classica-moderna-32",
+        "frente": "O que caracteriza a obra de Candido Portinari?",
+        "verso": "A temática social e o retrato do trabalhador e do migrante brasileiro, como em 'Os Retirantes'."
+      },
+      {
+        "id": "flash-artes-classica-moderna-33",
+        "frente": "Qual é a contribuição de Oscar Niemeyer à arquitetura?",
+        "verso": "A exploração da curva no concreto armado, com Brasília como maior realização de sua linguagem moderna."
+      },
+      {
+        "id": "flash-artes-classica-moderna-34",
+        "frente": "O que caracteriza a arquitetura modernista?",
+        "verso": "A funcionalidade, as linhas retas, os pilotis, o teto-jardim e a recusa ao ornamento — princípios sistematizados por Le Corbusier."
+      }
+    ],
+    "artes-contemporanea": [
+      {
+        "id": "flash-artes-contemporanea-01",
+        "frente": "O que marca a passagem da arte moderna para a contemporânea?",
+        "verso": "O deslocamento do foco do objeto acabado para o conceito, o processo e a experiência do espectador."
+      },
+      {
+        "id": "flash-artes-contemporanea-02",
+        "frente": "O que caracteriza a arte contemporânea?",
+        "verso": "A pluralidade de linguagens e suportes, a ênfase conceitual, a participação do público e o apagamento das fronteiras entre gêneros."
+      },
+      {
+        "id": "flash-artes-contemporanea-03",
+        "frente": "O que é arte conceitual?",
+        "verso": "Aquela em que a ideia é mais importante que a realização material — o objeto pode até ser dispensável."
+      },
+      {
+        "id": "flash-artes-contemporanea-04",
+        "frente": "O que é uma instalação artística?",
+        "verso": "A obra concebida para ocupar e transformar um espaço, envolvendo o espectador em seu ambiente."
+      },
+      {
+        "id": "flash-artes-contemporanea-05",
+        "frente": "O que é performance, como linguagem artística?",
+        "verso": "A obra realizada com o corpo do artista em ação, diante do público, em que o acontecimento é a própria obra."
+      },
+      {
+        "id": "flash-artes-contemporanea-06",
+        "frente": "O que é happening?",
+        "verso": "O evento artístico que envolve a participação imprevisível do público, sem roteiro fixo nem resultado determinado."
+      },
+      {
+        "id": "flash-artes-contemporanea-07",
+        "frente": "O que é land art?",
+        "verso": "A intervenção artística na paisagem natural, usando a própria terra como matéria e suporte."
+      },
+      {
+        "id": "flash-artes-contemporanea-08",
+        "frente": "O que é body art?",
+        "verso": "A prática em que o corpo do artista é simultaneamente suporte, material e tema da obra."
+      },
+      {
+        "id": "flash-artes-contemporanea-09",
+        "frente": "O que é uma obra site-specific?",
+        "verso": "Aquela concebida para um lugar determinado, cujo sentido depende do espaço em que se encontra."
+      },
+      {
+        "id": "flash-artes-contemporanea-10",
+        "frente": "O que é videoarte?",
+        "verso": "A produção artística que utiliza o vídeo como meio expressivo, e não como registro documental."
+      },
+      {
+        "id": "flash-artes-contemporanea-11",
+        "frente": "O que foi o Concretismo nas artes visuais brasileiras?",
+        "verso": "O movimento dos anos 1950 que defendia a arte geométrica, racional e objetiva, sem expressão subjetiva."
+      },
+      {
+        "id": "flash-artes-contemporanea-12",
+        "frente": "O que foi o Neoconcretismo?",
+        "verso": "A dissidência carioca do Concretismo, que reintroduziu subjetividade, sensorialidade e participação do espectador."
+      },
+      {
+        "id": "flash-artes-contemporanea-13",
+        "frente": "Qual é a importância de Lygia Clark?",
+        "verso": "Suas obras exigem manipulação pelo público, como os 'Bichos', dissolvendo a fronteira entre obra e espectador."
+      },
+      {
+        "id": "flash-artes-contemporanea-14",
+        "frente": "O que são os Parangolés, de Hélio Oiticica?",
+        "verso": "Capas para vestir e dançar, que só se completam com o corpo em movimento do participante."
+      },
+      {
+        "id": "flash-artes-contemporanea-15",
+        "frente": "Qual é o conceito central da obra de Hélio Oiticica?",
+        "verso": "A superação do quadro em direção à experiência ambiental e participativa, com o espectador tornado 'participador'."
+      },
+      {
+        "id": "flash-artes-contemporanea-16",
+        "frente": "O que caracteriza a obra de Cildo Meireles?",
+        "verso": "A crítica política e a reflexão sobre circulação e valor, como em 'Inserções em Circuitos Ideológicos'."
+      },
+      {
+        "id": "flash-artes-contemporanea-17",
+        "frente": "O que caracteriza a obra de Adriana Varejão?",
+        "verso": "A investigação da história colonial brasileira por meio de azulejaria, carne exposta e cicatrizes da pintura."
+      },
+      {
+        "id": "flash-artes-contemporanea-18",
+        "frente": "O que caracteriza a obra de Ernesto Neto?",
+        "verso": "As instalações sensoriais e envolventes, com tecidos, especiarias e formas orgânicas que convidam ao toque."
+      },
+      {
+        "id": "flash-artes-contemporanea-19",
+        "frente": "O que é a Tropicália, no campo das artes visuais?",
+        "verso": "A instalação de Hélio Oiticica de 1967 que deu nome ao movimento, articulando ambiente, cultura popular e crítica ao Brasil-imagem."
+      },
+      {
+        "id": "flash-artes-contemporanea-20",
+        "frente": "Qual é a função de um curador numa exposição?",
+        "verso": "Selecionar as obras, articular um conceito e definir o percurso e a montagem que produzem sentido no conjunto."
+      },
+      {
+        "id": "flash-artes-contemporanea-21",
+        "frente": "O que é uma bienal de arte?",
+        "verso": "A grande mostra periódica que reúne produção internacional e consagra tendências; a de São Paulo é a segunda mais antiga do mundo."
+      },
+      {
+        "id": "flash-artes-contemporanea-22",
+        "frente": "Qual é a importância do MASP na arte brasileira?",
+        "verso": "Reúne o mais relevante acervo de arte europeia da América Latina e inovou na expografia com os cavaletes de vidro de Lina Bo Bardi."
+      },
+      {
+        "id": "flash-artes-contemporanea-23",
+        "frente": "O que é Inhotim?",
+        "verso": "O museu a céu aberto em Minas Gerais que integra arte contemporânea e jardim botânico, com pavilhões site-specific."
+      },
+      {
+        "id": "flash-artes-contemporanea-24",
+        "frente": "Qual é o papel do circuito de arte (museus, galerias, críticos) na definição do que é arte?",
+        "verso": "É ele que legitima e valida a obra — na arte contemporânea, o contexto institucional integra a própria definição de arte."
+      },
+      {
+        "id": "flash-artes-contemporanea-25",
+        "frente": "O que é a arte de rua (street art)?",
+        "verso": "A produção realizada no espaço urbano, fora das instituições, com forte apelo público e frequente teor crítico."
+      },
+      {
+        "id": "flash-artes-contemporanea-26",
+        "frente": "Qual é a diferença entre grafite e pichação?",
+        "verso": "O grafite é reconhecido como expressão artística e pode ser autorizado; a pichação é caracterizada como intervenção não autorizada."
+      },
+      {
+        "id": "flash-artes-contemporanea-27",
+        "frente": "Quem são Os Gêmeos?",
+        "verso": "A dupla de artistas paulistanos reconhecida internacionalmente por murais que unem grafite e imaginário brasileiro."
+      },
+      {
+        "id": "flash-artes-contemporanea-28",
+        "frente": "O que é arte digital?",
+        "verso": "A produção que utiliza meios computacionais como suporte e linguagem, incluindo obras interativas e generativas."
+      },
+      {
+        "id": "flash-artes-contemporanea-29",
+        "frente": "O que é a NFT no contexto da arte?",
+        "verso": "O registro digital de autenticidade e propriedade de uma obra, que criou um mercado próprio e um intenso debate sobre valor."
+      },
+      {
+        "id": "flash-artes-contemporanea-30",
+        "frente": "O que caracteriza a arte relacional?",
+        "verso": "Aquela cuja matéria é a relação humana e o encontro social produzido pela obra, e não o objeto."
+      },
+      {
+        "id": "flash-artes-contemporanea-31",
+        "frente": "Como a arte contemporânea aborda questões identitárias?",
+        "verso": "Dando voz a artistas antes marginalizados, que tematizam raça, gênero, sexualidade e território a partir da própria experiência."
+      },
+      {
+        "id": "flash-artes-contemporanea-32",
+        "frente": "O que é a decolonialidade nas artes?",
+        "verso": "A perspectiva crítica que questiona o cânone eurocêntrico e valoriza saberes e estéticas de povos colonizados."
+      },
+      {
+        "id": "flash-artes-contemporanea-33",
+        "frente": "Por que a arte contemporânea é frequentemente acusada de hermetismo?",
+        "verso": "Porque exige repertório conceitual e contexto para ser lida — sem eles, a obra pode parecer arbitrária ao público."
+      }
+    ],
+    "artes-musica-cena": [
+      {
+        "id": "flash-artes-musica-cena-01",
+        "frente": "Quais são os três elementos fundamentais da música?",
+        "verso": "Melodia, harmonia e ritmo."
+      },
+      {
+        "id": "flash-artes-musica-cena-02",
+        "frente": "O que é melodia?",
+        "verso": "A sucessão de sons de alturas diferentes organizada no tempo, formando uma linha musical reconhecível."
+      },
+      {
+        "id": "flash-artes-musica-cena-03",
+        "frente": "O que é harmonia?",
+        "verso": "A combinação simultânea de sons, formando acordes que sustentam a melodia."
+      },
+      {
+        "id": "flash-artes-musica-cena-04",
+        "frente": "O que é ritmo, em música?",
+        "verso": "A organização dos sons e silêncios no tempo, definindo a pulsação e o andamento."
+      },
+      {
+        "id": "flash-artes-musica-cena-05",
+        "frente": "O que é timbre?",
+        "verso": "A qualidade que permite distinguir a mesma nota tocada por instrumentos ou vozes diferentes."
+      },
+      {
+        "id": "flash-artes-musica-cena-06",
+        "frente": "Como se classificam os instrumentos musicais?",
+        "verso": "Em cordas, sopros (madeiras e metais), percussão e teclas, além dos eletrônicos."
+      },
+      {
+        "id": "flash-artes-musica-cena-07",
+        "frente": "O que caracteriza a música erudita?",
+        "verso": "A tradição escrita, a complexidade formal e a execução por orquestras e conjuntos de câmara."
+      },
+      {
+        "id": "flash-artes-musica-cena-08",
+        "frente": "Qual é a importância de Heitor Villa-Lobos?",
+        "verso": "Uniu a tradição erudita europeia a elementos folclóricos brasileiros, como nas 'Bachianas Brasileiras'."
+      },
+      {
+        "id": "flash-artes-musica-cena-09",
+        "frente": "O que caracteriza o samba?",
+        "verso": "O ritmo sincopado de matriz africana, nascido nas comunidades negras do Rio, que se tornou símbolo da identidade nacional."
+      },
+      {
+        "id": "flash-artes-musica-cena-10",
+        "frente": "O que caracteriza o choro?",
+        "verso": "O gênero instrumental brasileiro do fim do século XIX, virtuosístico e improvisatório, com flauta, cavaquinho e violão."
+      },
+      {
+        "id": "flash-artes-musica-cena-11",
+        "frente": "O que caracteriza a Bossa Nova?",
+        "verso": "A batida sincopada do violão, o canto contido e a harmonia sofisticada — 'Chega de Saudade' marca seu início."
+      },
+      {
+        "id": "flash-artes-musica-cena-12",
+        "frente": "Qual foi o contexto da Bossa Nova?",
+        "verso": "O Brasil desenvolvimentista do fim dos anos 1950, com clima de otimismo e modernização urbana."
+      },
+      {
+        "id": "flash-artes-musica-cena-13",
+        "frente": "O que foi o movimento tropicalista na música?",
+        "verso": "A fusão de música brasileira com rock e vanguarda, com Caetano Veloso e Gilberto Gil, num gesto antropofágico e contestador."
+      },
+      {
+        "id": "flash-artes-musica-cena-14",
+        "frente": "Qual foi a relação da Tropicália com a ditadura militar?",
+        "verso": "Foi perseguida por sua contestação estética e comportamental; Caetano e Gil foram presos e exilados em 1969."
+      },
+      {
+        "id": "flash-artes-musica-cena-15",
+        "frente": "O que caracteriza a MPB?",
+        "verso": "O rótulo que reúne, a partir dos anos 1960, a canção brasileira de elaboração poética e diálogo com diversos gêneros."
+      },
+      {
+        "id": "flash-artes-musica-cena-16",
+        "frente": "O que caracteriza o frevo?",
+        "verso": "O ritmo acelerado do carnaval pernambucano, dançado com sombrinha, reconhecido como patrimônio imaterial pela UNESCO."
+      },
+      {
+        "id": "flash-artes-musica-cena-17",
+        "frente": "O que caracteriza o maracatu?",
+        "verso": "O cortejo pernambucano de matriz afro-brasileira, com percussão intensa e forte ligação com religiosidade e realeza negra."
+      },
+      {
+        "id": "flash-artes-musica-cena-18",
+        "frente": "O que caracteriza o forró?",
+        "verso": "O gênero nordestino de tríade sanfona, zabumba e triângulo, consolidado nacionalmente por Luiz Gonzaga."
+      },
+      {
+        "id": "flash-artes-musica-cena-19",
+        "frente": "O que caracteriza o rap e o hip-hop?",
+        "verso": "O rap é o canto falado sobre base rítmica; o hip-hop é a cultura que o abriga, com DJ, break e grafite, nascida nas periferias."
+      },
+      {
+        "id": "flash-artes-musica-cena-20",
+        "frente": "Qual é a função social do rap brasileiro?",
+        "verso": "Dar voz à periferia e denunciar racismo, violência policial e desigualdade, com os Racionais MC's como marco."
+      },
+      {
+        "id": "flash-artes-musica-cena-21",
+        "frente": "O que caracteriza o funk carioca?",
+        "verso": "O gênero de batida eletrônica nascido nos bailes das favelas cariocas, com forte disputa social sobre sua legitimidade cultural."
+      },
+      {
+        "id": "flash-artes-musica-cena-22",
+        "frente": "O que caracteriza o teatro como gênero?",
+        "verso": "O texto escrito para encenação, construído por diálogos e rubricas, realizado ao vivo diante do público."
+      },
+      {
+        "id": "flash-artes-musica-cena-23",
+        "frente": "Quais são os elementos essenciais do espetáculo teatral?",
+        "verso": "Texto, ator, espaço cênico e público — sem público, não há acontecimento teatral."
+      },
+      {
+        "id": "flash-artes-musica-cena-24",
+        "frente": "O que é a rubrica num texto dramático?",
+        "verso": "A indicação cênica do autor sobre cenário, gestos, entonação e movimentação."
+      },
+      {
+        "id": "flash-artes-musica-cena-25",
+        "frente": "Quais são as origens do teatro ocidental?",
+        "verso": "As festas gregas em honra a Dionísio, das quais derivam a tragédia e a comédia."
+      },
+      {
+        "id": "flash-artes-musica-cena-26",
+        "frente": "O que é a catarse, na tragédia grega?",
+        "verso": "A purificação das emoções do espectador pela vivência da piedade e do terror diante do destino do herói."
+      },
+      {
+        "id": "flash-artes-musica-cena-27",
+        "frente": "O que propõe o teatro épico de Brecht?",
+        "verso": "Romper a ilusão cênica e provocar o distanciamento crítico, para que o público reflita em vez de se identificar."
+      },
+      {
+        "id": "flash-artes-musica-cena-28",
+        "frente": "O que é o efeito de distanciamento brechtiano?",
+        "verso": "O conjunto de recursos que lembram ao espectador que ele assiste a uma representação, impedindo a imersão emocional."
+      },
+      {
+        "id": "flash-artes-musica-cena-29",
+        "frente": "Qual é a importância de Nelson Rodrigues no teatro brasileiro?",
+        "verso": "Modernizou a dramaturgia nacional com 'Vestido de Noiva' e expôs a hipocrisia moral da família brasileira."
+      },
+      {
+        "id": "flash-artes-musica-cena-30",
+        "frente": "Qual foi a importância do Teatro de Arena e do Teatro Oficina?",
+        "verso": "Renovaram a cena brasileira nos anos 1950-60 com teatro político, engajado e formalmente experimental."
+      },
+      {
+        "id": "flash-artes-musica-cena-31",
+        "frente": "O que é o Teatro do Oprimido, de Augusto Boal?",
+        "verso": "O método que transforma o espectador em 'espect-ator', fazendo-o intervir na cena para ensaiar transformações da realidade."
+      },
+      {
+        "id": "flash-artes-musica-cena-32",
+        "frente": "O que caracteriza o balé clássico?",
+        "verso": "A técnica codificada, o rigor das posições, a leveza aparente e o repertório narrativo do século XIX."
+      },
+      {
+        "id": "flash-artes-musica-cena-33",
+        "frente": "O que caracteriza a dança contemporânea?",
+        "verso": "A liberdade de movimento, a recusa da técnica única, a mistura de linguagens e a exploração expressiva do corpo."
+      },
+      {
+        "id": "flash-artes-musica-cena-34",
+        "frente": "Qual é a relação entre dança e cultura popular brasileira?",
+        "verso": "Manifestações como frevo, maracatu, congada e capoeira integram dança, música e ritual numa mesma prática coletiva."
+      }
+    ],
+    "artes-audiovisual-midia": [
+      {
+        "id": "flash-artes-audiovisual-midia-01",
+        "frente": "O que é o plano, em linguagem cinematográfica?",
+        "verso": "A unidade de filmagem contínua, sem corte, entre o início e o fim da gravação."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-02",
+        "frente": "O que é o enquadramento?",
+        "verso": "A delimitação do que aparece no quadro, determinando o que o espectador vê e o que fica de fora."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-03",
+        "frente": "O que caracteriza o plano geral?",
+        "verso": "Mostra o ambiente amplo, situando a personagem no espaço e frequentemente diminuindo-a diante dele."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-04",
+        "frente": "O que caracteriza o close-up (primeiro plano)?",
+        "verso": "Enquadra o rosto ou detalhe, criando intimidade e destacando a emoção da personagem."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-05",
+        "frente": "O que é o plano-sequência?",
+        "verso": "A cena filmada em um único plano contínuo, sem cortes, criando sensação de tempo real."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-06",
+        "frente": "O que é o plongée e o contra-plongée?",
+        "verso": "Plongée filma de cima para baixo, diminuindo a personagem; contra-plongée filma de baixo para cima, engrandecendo-a."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-07",
+        "frente": "O que é montagem no cinema?",
+        "verso": "A organização e a articulação dos planos, que constrói o sentido, o ritmo e a narrativa do filme."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-08",
+        "frente": "O que demonstrou o efeito Kuleshov?",
+        "verso": "Que o sentido de um plano depende do plano vizinho — a montagem cria significado que não está em nenhum dos dois isoladamente."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-09",
+        "frente": "O que é a montagem paralela?",
+        "verso": "A alternância entre ações simultâneas em lugares distintos, criando tensão e relação entre elas."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-10",
+        "frente": "Qual é a função da trilha sonora num filme?",
+        "verso": "Criar atmosfera, orientar a emoção do espectador e sinalizar o gênero e o ritmo da cena."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-11",
+        "frente": "Qual é a diferença entre som diegético e extradiegético?",
+        "verso": "O diegético existe no mundo da história e as personagens o ouvem; o extradiegético só o espectador ouve, como a trilha."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-12",
+        "frente": "O que é a fotografia de um filme?",
+        "verso": "O tratamento de luz, cor e composição, responsável pela atmosfera visual e por parte do sentido da obra."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-13",
+        "frente": "O que foi o Cinema Novo?",
+        "verso": "O movimento brasileiro dos anos 1960 que buscava um cinema crítico e nacional, com o lema 'uma câmera na mão e uma ideia na cabeça'."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-14",
+        "frente": "Quais eram os temas centrais do Cinema Novo?",
+        "verso": "A seca, o sertão, a fome, a favela e a desigualdade — o Brasil real que o cinema industrial ignorava."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-15",
+        "frente": "Qual é a importância de Glauber Rocha?",
+        "verso": "Principal cineasta e teórico do Cinema Novo, autor de 'Deus e o Diabo na Terra do Sol' e do manifesto 'Estética da Fome'."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-16",
+        "frente": "O que propõe a 'Estética da Fome', de Glauber Rocha?",
+        "verso": "Que a precariedade dos meios seja transformada em força expressiva, recusando o padrão técnico do cinema colonizador."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-17",
+        "frente": "O que caracteriza o documentário como gênero?",
+        "verso": "A intenção de representar o mundo real, o que não elimina o recorte, o ponto de vista e a construção do realizador."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-18",
+        "frente": "Um documentário é neutro?",
+        "verso": "Não — seleção, montagem, enquadramento e narração constroem uma interpretação da realidade, não seu reflexo direto."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-19",
+        "frente": "O que é a fotografia como linguagem artística?",
+        "verso": "A produção de imagens por captação de luz, cuja expressividade depende de enquadramento, luz, momento e ponto de vista."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-20",
+        "frente": "O que é o 'instante decisivo', de Cartier-Bresson?",
+        "verso": "O momento exato em que forma e conteúdo se organizam de modo significativo diante da câmera."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-21",
+        "frente": "Qual é a importância de Sebastião Salgado?",
+        "verso": "Fotógrafo brasileiro reconhecido por ensaios sobre trabalho, migração e natureza, com estética marcante em preto e branco."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-22",
+        "frente": "Qual é o debate ético em torno da fotografia de sofrimento humano?",
+        "verso": "Se ela denuncia e mobiliza, ou se estetiza a dor alheia e a transforma em consumo visual."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-23",
+        "frente": "O que Walter Benjamin discute em 'A Obra de Arte na Era de sua Reprodutibilidade Técnica'?",
+        "verso": "Como a reprodução em massa destrói a aura da obra única e transforma a relação do público com a arte."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-24",
+        "frente": "O que é a 'aura' de uma obra, segundo Benjamin?",
+        "verso": "O caráter único, ritual e irrepetível ligado ao aqui e agora do original, perdido com a reprodução técnica."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-25",
+        "frente": "Que possibilidade política Benjamin vê na reprodutibilidade técnica?",
+        "verso": "A democratização do acesso à arte e o potencial emancipador do cinema, ao lado do risco de estetização da política."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-26",
+        "frente": "O que é videoarte, e como difere do cinema?",
+        "verso": "É a arte que usa o vídeo como meio expressivo, sem compromisso com narrativa, duração convencional ou exibição em sala."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-27",
+        "frente": "Qual é a importância da televisão na formação cultural brasileira?",
+        "verso": "Foi o principal meio de integração nacional e formação de repertório comum a partir dos anos 1960, com a telenovela como gênero central."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-28",
+        "frente": "O que caracteriza a telenovela como gênero audiovisual?",
+        "verso": "A narrativa seriada de longa duração, com múltiplas tramas e forte interação com a audiência e a agenda social."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-29",
+        "frente": "Como o streaming alterou o consumo audiovisual?",
+        "verso": "Substituiu a grade fixa pela escolha sob demanda, fragmentou a audiência e alterou os formatos de produção."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-30",
+        "frente": "Qual é o efeito do algoritmo de recomendação sobre o consumo cultural?",
+        "verso": "Personaliza a oferta e amplia o consumo, mas tende a estreitar a exposição à diversidade cultural."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-31",
+        "frente": "O que é convergência das mídias?",
+        "verso": "A integração de suportes e linguagens antes separados num mesmo ambiente digital, com o público também produzindo conteúdo."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-32",
+        "frente": "O que é a cultura da participação nas mídias digitais?",
+        "verso": "O regime em que o público deixa de ser apenas receptor e passa a criar, remixar e distribuir conteúdo."
+      },
+      {
+        "id": "flash-artes-audiovisual-midia-33",
+        "frente": "O que é um deepfake, e qual seu impacto?",
+        "verso": "O vídeo manipulado por inteligência artificial que simula falas e imagens reais, ameaçando a confiança na evidência audiovisual."
+      }
+    ],
+    "artes-patrimonio-cultura-popular": [
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-01",
+        "frente": "O que é patrimônio cultural?",
+        "verso": "O conjunto de bens materiais e imateriais portadores de referência à identidade e à memória de um grupo social."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-02",
+        "frente": "Qual é a diferença entre patrimônio material e imaterial?",
+        "verso": "O material são bens físicos, como edifícios e obras; o imaterial são práticas, saberes, festas e formas de expressão."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-03",
+        "frente": "O que é tombamento?",
+        "verso": "O ato administrativo que reconhece o valor cultural de um bem material e o protege legalmente contra destruição e descaracterização."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-04",
+        "frente": "O que é o registro, em contraste com o tombamento?",
+        "verso": "O instrumento de proteção do patrimônio IMATERIAL, que documenta a prática e apoia sua continuidade, sem congelá-la."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-05",
+        "frente": "Qual é a função do IPHAN?",
+        "verso": "É o órgão federal responsável por identificar, proteger e promover o patrimônio cultural brasileiro."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-06",
+        "frente": "O que é o patrimônio mundial da UNESCO?",
+        "verso": "A lista de bens de valor universal excepcional, cuja preservação é considerada interesse de toda a humanidade."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-07",
+        "frente": "Cite exemplos de patrimônio mundial no Brasil.",
+        "verso": "Ouro Preto, o centro histórico de Salvador, Brasília, o Santuário de Congonhas e as ruínas de São Miguel das Missões."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-08",
+        "frente": "Que bens imateriais brasileiros são reconhecidos pela UNESCO?",
+        "verso": "A capoeira, o frevo, o samba de roda do Recôncavo e o Círio de Nazaré, entre outros."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-09",
+        "frente": "Por que o patrimônio imaterial exige política de preservação diferente do material?",
+        "verso": "Porque depende de pessoas que continuem praticando o saber — preservá-lo é sustentar a transmissão viva, não conservar um objeto."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-10",
+        "frente": "O que é cultura popular?",
+        "verso": "O conjunto de manifestações produzidas pelas camadas populares, transmitidas por tradição oral e prática coletiva."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-11",
+        "frente": "Qual é a diferença entre cultura popular e cultura de massa?",
+        "verso": "A popular é produzida pelo próprio povo em seus contextos; a de massa é produzida industrialmente para consumo amplo."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-12",
+        "frente": "O que caracteriza o folclore?",
+        "verso": "O conjunto de tradições, lendas, festas e saberes transmitidos oralmente e reelaborados a cada geração."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-13",
+        "frente": "O que caracteriza a literatura de cordel?",
+        "verso": "Os folhetos populares nordestinos em versos rimados, tradicionalmente vendidos em feiras e ilustrados por xilogravura."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-14",
+        "frente": "O que é a xilogravura?",
+        "verso": "A técnica de gravura em madeira, tradicionalmente usada nas capas do cordel nordestino."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-15",
+        "frente": "O que é o bumba meu boi?",
+        "verso": "O auto popular que encena a morte e a ressurreição do boi, com forte presença no Maranhão e reconhecido como patrimônio."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-16",
+        "frente": "O que é a congada?",
+        "verso": "A manifestação afro-brasileira que encena a coroação de reis do Congo, unindo dança, música e religiosidade."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-17",
+        "frente": "O que é a capoeira?",
+        "verso": "A prática afro-brasileira que une luta, dança, música e jogo, criada por africanos escravizados e hoje patrimônio imaterial."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-18",
+        "frente": "Por que a capoeira foi criminalizada no Brasil?",
+        "verso": "Foi tipificada como crime no Código Penal de 1890, em política de repressão às práticas culturais negras após a abolição."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-19",
+        "frente": "O que caracteriza as festas juninas?",
+        "verso": "A celebração de origem ibérica associada aos santos de junho, reelaborada com quadrilha, comidas de milho e fogueira."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-20",
+        "frente": "O que é o Círio de Nazaré?",
+        "verso": "A grande procissão religiosa de Belém do Pará, uma das maiores manifestações católicas do mundo, reconhecida pela UNESCO."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-21",
+        "frente": "O que caracteriza o artesanato como expressão cultural?",
+        "verso": "A produção manual que transmite saberes tradicionais e expressa a identidade e os materiais de um território."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-22",
+        "frente": "O que é um 'mestre' na cultura popular?",
+        "verso": "O detentor e transmissor de um saber tradicional, cuja autoridade vem do reconhecimento da comunidade."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-23",
+        "frente": "Que política reconhece os mestres da cultura popular no Brasil?",
+        "verso": "O registro de 'Mestres dos Saberes' e leis de patrimônio vivo, que buscam apoiar quem sustenta a transmissão desses saberes."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-24",
+        "frente": "O que caracteriza a arte indígena brasileira?",
+        "verso": "A integração entre função, ritual e estética, com grafismos, cerâmica, plumária e cestaria carregados de significado cosmológico."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-25",
+        "frente": "Por que o grafismo indígena não é mero ornamento?",
+        "verso": "Porque codifica identidade, pertencimento a clãs, mitologia e status — é linguagem, não decoração."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-26",
+        "frente": "O que caracteriza a arte afro-brasileira?",
+        "verso": "A herança das culturas africanas reelaborada no Brasil, presente na religiosidade, na música, na dança e nas artes visuais."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-27",
+        "frente": "Qual é a importância do candomblé e da umbanda para o patrimônio cultural?",
+        "verso": "São religiões de matriz africana que preservam línguas, músicas, saberes e práticas rituais fundamentais à cultura brasileira."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-28",
+        "frente": "O que foi a Lei 10.639/2003?",
+        "verso": "A lei que tornou obrigatório o ensino de história e cultura afro-brasileira e africana na educação básica."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-29",
+        "frente": "O que é apropriação cultural, no debate sobre cultura popular?",
+        "verso": "O uso de elementos de culturas subalternizadas por grupos dominantes, sem crédito nem contexto, frequentemente com fim comercial."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-30",
+        "frente": "O que é a memória social, e qual sua relação com o patrimônio?",
+        "verso": "É a construção coletiva do passado; o patrimônio é o suporte material e simbólico que a sustenta e a disputa."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-31",
+        "frente": "Por que a definição do que é patrimônio é uma disputa política?",
+        "verso": "Porque escolher o que preservar define quais memórias e identidades são reconhecidas e quais são apagadas."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-32",
+        "frente": "Que crítica se faz ao patrimônio brasileiro tombado até meados do século XX?",
+        "verso": "Privilegiou o legado da elite branca e católica, deixando de fora referências indígenas, negras e populares."
+      },
+      {
+        "id": "flash-artes-patrimonio-cultura-popular-33",
+        "frente": "O que o incêndio do Museu Nacional em 2018 revelou?",
+        "verso": "A fragilidade do investimento público na preservação da memória e a perda irreversível de acervos científicos e culturais."
+      }
+    ]
+  }
+}

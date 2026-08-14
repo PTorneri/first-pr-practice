@@ -1,0 +1,1008 @@
+{
+  "frente": "atualidades",
+  "gerado": "2026-08-14",
+  "porSubtema": {
+    "atualidades-politica-economia": [
+      {
+        "id": "flash-atualidades-politica-economia-01",
+        "frente": "Como se organiza o Poder Legislativo federal brasileiro?",
+        "verso": "Em duas casas: a Câmara dos Deputados, com representação proporcional à população, e o Senado, com três senadores por estado."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-02",
+        "frente": "Qual é a função do Supremo Tribunal Federal?",
+        "verso": "Guardar a Constituição, julgando a constitucionalidade de leis e atos e processando autoridades com foro privilegiado."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-03",
+        "frente": "O que é o controle de constitucionalidade?",
+        "verso": "O exame da compatibilidade de uma lei com a Constituição, que pode ser feito de forma difusa ou concentrada no STF."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-04",
+        "frente": "Como são escolhidos os ministros do STF?",
+        "verso": "Indicados pelo presidente da República e aprovados por maioria absoluta do Senado, com mandato até a aposentadoria compulsória."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-05",
+        "frente": "O que é o presidencialismo de coalizão?",
+        "verso": "O arranjo em que o presidente, sem maioria própria, governa formando coalizões amplas no Congresso mediante distribuição de cargos e emendas."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-06",
+        "frente": "O que são emendas parlamentares ao orçamento?",
+        "verso": "Alterações feitas por deputados e senadores que direcionam recursos federais, ampliando o poder do Congresso sobre o gasto público."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-07",
+        "frente": "O que é a Selic?",
+        "verso": "A taxa básica de juros da economia brasileira, definida pelo Copom para orientar o custo do crédito e controlar a inflação."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-08",
+        "frente": "Como o aumento da Selic combate a inflação?",
+        "verso": "Encarece o crédito e estimula a poupança, o que reduz o consumo e a demanda agregada, freando a alta de preços."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-09",
+        "frente": "Qual é o custo do aumento da Selic?",
+        "verso": "Desaquece a atividade econômica, pode elevar o desemprego e encarece a dívida pública."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-10",
+        "frente": "O que é o regime de metas de inflação?",
+        "verso": "O sistema em que o Banco Central persegue uma meta anual definida pelo CMN, usando os juros como instrumento principal."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-11",
+        "frente": "O que significa a autonomia do Banco Central?",
+        "verso": "A diretoria tem mandatos fixos que não coincidem com o do presidente, para reduzir a influência política sobre a política monetária."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-12",
+        "frente": "Qual é a diferença entre inflação e deflação?",
+        "verso": "Inflação é a alta generalizada e contínua dos preços; deflação é a queda generalizada, que pode indicar retração econômica."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-13",
+        "frente": "Que índice mede a inflação oficial no Brasil?",
+        "verso": "O IPCA, calculado pelo IBGE, que baliza a meta de inflação."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-14",
+        "frente": "O que é o PIB?",
+        "verso": "A soma de todos os bens e serviços finais produzidos num país em determinado período."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-15",
+        "frente": "Por que o PIB não mede bem-estar?",
+        "verso": "Porque não considera distribuição de renda, desigualdade, trabalho não remunerado nem custos ambientais da produção."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-16",
+        "frente": "O que é política fiscal, e como difere da monetária?",
+        "verso": "A fiscal atua por gastos e tributos, sob responsabilidade do governo; a monetária atua por juros e crédito, sob responsabilidade do Banco Central."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-17",
+        "frente": "O que é o arcabouço fiscal?",
+        "verso": "A regra que limita o crescimento das despesas públicas em função da receita, substituindo o teto de gastos anterior."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-18",
+        "frente": "O que é déficit primário?",
+        "verso": "O resultado negativo das contas do governo antes do pagamento dos juros da dívida pública."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-19",
+        "frente": "O que é dívida pública bruta, e por que ela importa?",
+        "verso": "O total devido pelo setor público; sua trajetória influencia a confiança dos investidores e o custo de novos financiamentos."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-20",
+        "frente": "Quais são os objetivos centrais de uma reforma tributária?",
+        "verso": "Simplificar a cobrança, reduzir a cumulatividade e tornar o sistema menos regressivo."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-21",
+        "frente": "O que significa dizer que o sistema tributário brasileiro é regressivo?",
+        "verso": "Que ele pesa proporcionalmente mais sobre os mais pobres, por se concentrar em tributos sobre consumo em vez de renda e patrimônio."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-22",
+        "frente": "O que é o IVA, adotado pela reforma tributária brasileira?",
+        "verso": "O Imposto sobre Valor Agregado, que incide apenas sobre o valor acrescentado em cada etapa, evitando a cobrança em cascata."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-23",
+        "frente": "O que é a informalidade no mercado de trabalho?",
+        "verso": "A ocupação sem registro formal nem proteção previdenciária e trabalhista, que atinge cerca de 40% dos ocupados no Brasil."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-24",
+        "frente": "O que mede a taxa de desemprego, e o que ela deixa de fora?",
+        "verso": "Mede quem procura trabalho e não encontra; não capta os desalentados, que desistiram de procurar, nem os subocupados."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-25",
+        "frente": "O que é o Bolsa Família?",
+        "verso": "O programa de transferência de renda condicionada a frequência escolar e acompanhamento de saúde, voltado a famílias em pobreza."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-26",
+        "frente": "Qual é o argumento econômico a favor dos programas de transferência de renda?",
+        "verso": "Além de reduzir a pobreza, injetam renda em famílias com alta propensão ao consumo, dinamizando a economia local."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-27",
+        "frente": "O que é a política de valorização do salário mínimo?",
+        "verso": "A regra que reajusta o mínimo pela inflação mais o crescimento do PIB, ampliando o poder de compra da base da pirâmide."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-28",
+        "frente": "Qual é o principal desafio da Previdência brasileira?",
+        "verso": "O envelhecimento populacional, que reduz a proporção de contribuintes ativos por beneficiário."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-29",
+        "frente": "O que é o sistema de repartição da Previdência?",
+        "verso": "Aquele em que os trabalhadores ativos financiam os benefícios dos aposentados atuais, em vez de acumular poupança individual."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-30",
+        "frente": "O que é o teto de gastos, e por que foi substituído?",
+        "verso": "A regra que congelava as despesas em termos reais; foi substituída por travar investimentos e políticas sociais independentemente da arrecadação."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-31",
+        "frente": "O que é a Lei de Responsabilidade Fiscal?",
+        "verso": "A lei de 2000 que impõe limites de gasto com pessoal e endividamento a União, estados e municípios."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-32",
+        "frente": "O que é o pacto federativo?",
+        "verso": "A divisão de competências e receitas entre União, estados e municípios, tema recorrente de disputa por concentrar arrecadação na União."
+      },
+      {
+        "id": "flash-atualidades-politica-economia-33",
+        "frente": "O que é uma CPI?",
+        "verso": "A Comissão Parlamentar de Inquérito, com poderes de investigação próprios de autoridade judicial, criada para apurar fato determinado."
+      }
+    ],
+    "atualidades-geopolitica": [
+      {
+        "id": "flash-atualidades-geopolitica-01",
+        "frente": "O que caracteriza a atual ordem mundial multipolar?",
+        "verso": "A existência de vários centros de poder — EUA, China, União Europeia, Rússia e potências emergentes — sem hegemonia única incontestada."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-02",
+        "frente": "Qual é a função da ONU?",
+        "verso": "Manter a paz e a segurança internacionais, promover a cooperação entre Estados e o respeito aos direitos humanos."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-03",
+        "frente": "Como é composto o Conselho de Segurança da ONU?",
+        "verso": "Por 15 membros: 5 permanentes com poder de veto e 10 rotativos eleitos para mandatos de dois anos."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-04",
+        "frente": "Quais são os cinco membros permanentes do Conselho de Segurança?",
+        "verso": "Estados Unidos, Rússia, China, Reino Unido e França."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-05",
+        "frente": "Por que o poder de veto é alvo de críticas?",
+        "verso": "Porque permite que um único país bloqueie qualquer resolução, refletindo a correlação de forças de 1945 e paralisando o Conselho em conflitos atuais."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-06",
+        "frente": "Qual é a reivindicação brasileira quanto ao Conselho de Segurança?",
+        "verso": "Uma reforma que amplie os assentos permanentes, incluindo países do Sul Global e potências regionais como o Brasil."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-07",
+        "frente": "O que é o BRICS?",
+        "verso": "O agrupamento de economias emergentes que busca maior peso na governança global e alternativas às instituições financeiras ocidentais."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-08",
+        "frente": "Que instituição financeira o BRICS criou?",
+        "verso": "O Novo Banco de Desenvolvimento, sediado em Xangai, como alternativa ao Banco Mundial e ao FMI."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-09",
+        "frente": "Qual é a diferença entre G7 e G20?",
+        "verso": "O G7 reúne as principais economias desenvolvidas; o G20 inclui também emergentes, entre eles o Brasil, e representa a maior parte do PIB mundial."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-10",
+        "frente": "Quais são as raízes do conflito entre Rússia e Ucrânia?",
+        "verso": "A disputa por áreas de influência após o fim da URSS, a aproximação ucraniana da OTAN e da UE, e a anexação da Crimeia em 2014."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-11",
+        "frente": "Quais foram os efeitos globais da guerra na Ucrânia?",
+        "verso": "Alta nos preços de energia e alimentos, crise de refugiados, rearmamento europeu e reorganização das rotas de comércio."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-12",
+        "frente": "Quais são as raízes do conflito israelo-palestino?",
+        "verso": "A disputa territorial iniciada com a partilha da Palestina em 1947 e a criação de Israel, agravada pela ocupação de territórios desde 1967."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-13",
+        "frente": "O que é a solução de dois Estados?",
+        "verso": "A proposta de coexistência entre Israel e um Estado palestino soberano, base histórica das negociações de paz."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-14",
+        "frente": "O que é a OTAN?",
+        "verso": "A aliança militar ocidental de defesa coletiva, em que o ataque a um membro é considerado ataque a todos."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-15",
+        "frente": "O que motivou a expansão da OTAN após 1991?",
+        "verso": "A adesão de antigos países do bloco soviético em busca de garantia de segurança — movimento que a Rússia considera ameaça estratégica."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-16",
+        "frente": "O que caracteriza a guerra comercial entre Estados Unidos e China?",
+        "verso": "A imposição recíproca de tarifas e restrições tecnológicas, refletindo a disputa por hegemonia econômica e liderança em inovação."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-17",
+        "frente": "O que é a Nova Rota da Seda?",
+        "verso": "A iniciativa chinesa de financiar infraestrutura e conectividade em dezenas de países, ampliando sua influência econômica e política."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-18",
+        "frente": "Por que os semicondutores se tornaram questão geopolítica?",
+        "verso": "Porque são essenciais a toda a economia digital e militar, e sua produção é altamente concentrada, sobretudo em Taiwan."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-19",
+        "frente": "Por que Taiwan é um ponto de tensão internacional?",
+        "verso": "Porque a China a considera parte de seu território, enquanto a ilha mantém governo próprio e apoio ocidental — e concentra a produção mundial de chips avançados."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-20",
+        "frente": "O que são sanções econômicas?",
+        "verso": "Restrições comerciais e financeiras impostas a um país para pressioná-lo politicamente, sem uso direto de força militar."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-21",
+        "frente": "Qual é a principal crítica às sanções econômicas?",
+        "verso": "Costumam atingir mais a população civil que os governantes visados, com eficácia política frequentemente limitada."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-22",
+        "frente": "O que é o Sul Global?",
+        "verso": "O conjunto de países em desenvolvimento que reivindica maior participação nas decisões globais, em contraste com o Norte desenvolvido."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-23",
+        "frente": "Qual é a posição diplomática tradicional do Brasil?",
+        "verso": "O multilateralismo, a não intervenção, a solução pacífica de controvérsias e a busca de autonomia sem alinhamento automático."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-24",
+        "frente": "Por que o Ártico ganhou relevância geopolítica?",
+        "verso": "Porque o degelo abre rotas de navegação e viabiliza a exploração de recursos antes inacessíveis, acirrando disputas territoriais."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-25",
+        "frente": "O que é a crise migratória internacional?",
+        "verso": "O deslocamento massivo de pessoas por guerras, perseguição, colapso econômico e desastres climáticos, pressionando os países de destino."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-26",
+        "frente": "Qual é a diferença entre refugiado e migrante econômico?",
+        "verso": "O refugiado foge de perseguição ou conflito e tem proteção jurídica internacional; o migrante econômico busca melhores condições de vida."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-27",
+        "frente": "O que é um refugiado climático?",
+        "verso": "Quem se desloca por desastres e mudanças ambientais — categoria ainda sem pleno reconhecimento no direito internacional."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-28",
+        "frente": "Qual é a função da OMC?",
+        "verso": "Regular o comércio internacional, negociar a redução de barreiras e arbitrar disputas comerciais entre países."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-29",
+        "frente": "Qual é a função do FMI?",
+        "verso": "Conceder empréstimos a países em crise de balanço de pagamentos, geralmente condicionados a ajustes fiscais."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-30",
+        "frente": "O que é a Organização Mundial da Saúde (OMS)?",
+        "verso": "A agência da ONU responsável por coordenar a resposta internacional em saúde e declarar emergências sanitárias globais."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-31",
+        "frente": "Por que o lítio e as terras raras são estratégicos?",
+        "verso": "Porque são insumos essenciais de baterias e eletrônicos, concentrando disputas em torno das reservas e do processamento."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-32",
+        "frente": "O que é o Mercosul, e qual sua situação atual?",
+        "verso": "A união aduaneira sul-americana; enfrenta dificuldades de integração plena e discute maior flexibilidade para acordos externos."
+      },
+      {
+        "id": "flash-atualidades-geopolitica-33",
+        "frente": "O que está em jogo no acordo Mercosul-União Europeia?",
+        "verso": "A abertura recíproca de mercados, com resistências europeias ligadas a padrões ambientais e à concorrência agrícola."
+      }
+    ],
+    "atualidades-meioambiente": [
+      {
+        "id": "flash-atualidades-meioambiente-01",
+        "frente": "O que causa a intensificação do efeito estufa?",
+        "verso": "A emissão de gases como CO₂, metano e óxido nitroso pela queima de combustíveis fósseis, pelo desmatamento e pela agropecuária."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-02",
+        "frente": "Qual é a meta central do Acordo de Paris?",
+        "verso": "Limitar o aquecimento global a bem abaixo de 2 °C em relação aos níveis pré-industriais, buscando 1,5 °C."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-03",
+        "frente": "O que são as COPs do clima?",
+        "verso": "As Conferências das Partes, encontros anuais dos países signatários da Convenção do Clima para negociar metas e financiamento."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-04",
+        "frente": "O que são as NDCs?",
+        "verso": "As metas de redução de emissões que cada país define e apresenta voluntariamente no âmbito do Acordo de Paris."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-05",
+        "frente": "Qual é a crítica recorrente ao modelo de metas do Acordo de Paris?",
+        "verso": "As metas são voluntárias e sem sanção, e a soma dos compromissos ainda não é suficiente para conter o aquecimento no limite acordado."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-06",
+        "frente": "O que é o princípio das responsabilidades comuns porém diferenciadas?",
+        "verso": "Todos devem agir contra a mudança climática, mas os países desenvolvidos têm responsabilidade maior por seu passivo histórico de emissões."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-07",
+        "frente": "O que é o financiamento climático?",
+        "verso": "Os recursos que países desenvolvidos se comprometem a transferir aos em desenvolvimento para mitigação e adaptação."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-08",
+        "frente": "Qual é a diferença entre mitigação e adaptação climática?",
+        "verso": "Mitigação reduz emissões para conter o aquecimento; adaptação prepara sociedades e territórios para os impactos já inevitáveis."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-09",
+        "frente": "O que significa neutralidade de carbono (net zero)?",
+        "verso": "Equilibrar as emissões residuais com remoções equivalentes, de modo que o saldo líquido seja zero."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-10",
+        "frente": "O que é o mercado de carbono?",
+        "verso": "O sistema em que se negociam créditos correspondentes a emissões evitadas ou removidas, criando preço para o carbono."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-11",
+        "frente": "Por que o Brasil tem posição singular na agenda climática?",
+        "verso": "Porque sua matriz elétrica é majoritariamente renovável, mas suas emissões vêm sobretudo do desmatamento e da agropecuária."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-12",
+        "frente": "Quais são as principais causas do desmatamento na Amazônia?",
+        "verso": "A expansão da pecuária e da soja, a grilagem de terras, o garimpo ilegal e a abertura de estradas."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-13",
+        "frente": "O que é o ponto de não retorno da Amazônia?",
+        "verso": "O limiar de desmatamento a partir do qual a floresta perderia a capacidade de gerar sua própria chuva, degradando-se para vegetação de savana."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-14",
+        "frente": "Por que o Cerrado é chamado de berço das águas?",
+        "verso": "Porque nele nascem rios de oito das doze grandes bacias hidrográficas brasileiras."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-15",
+        "frente": "Qual bioma brasileiro tem sofrido a maior pressão recente de conversão agrícola?",
+        "verso": "O Cerrado, sobretudo na região do MATOPIBA, fronteira de expansão do agronegócio."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-16",
+        "frente": "O que é a transição energética?",
+        "verso": "A substituição gradual dos combustíveis fósseis por fontes renováveis na matriz energética mundial."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-17",
+        "frente": "Que fontes renováveis mais crescem no Brasil?",
+        "verso": "A eólica, concentrada no Nordeste, e a solar fotovoltaica, impulsionada pela queda no custo dos painéis."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-18",
+        "frente": "O que é o hidrogênio verde?",
+        "verso": "O hidrogênio produzido por eletrólise da água com energia renovável, apontado como vetor para descarbonizar indústria e transporte pesado."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-19",
+        "frente": "Qual é a contradição da política energética brasileira?",
+        "verso": "Lidera em renováveis na geração elétrica enquanto amplia a exploração de petróleo, inclusive em novas fronteiras como a Margem Equatorial."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-20",
+        "frente": "O que é a crise hídrica, e quais suas causas?",
+        "verso": "A escassez de água disponível, causada por estiagens, desmatamento, desperdício, poluição e crescimento do consumo."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-21",
+        "frente": "Qual setor mais consome água no Brasil?",
+        "verso": "A agricultura irrigada, responsável pela maior parte da retirada de água doce."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-22",
+        "frente": "Qual é a situação do saneamento básico no Brasil?",
+        "verso": "Milhões de pessoas ainda não têm coleta e tratamento de esgoto, o que compromete a saúde pública e a qualidade dos corpos d'água."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-23",
+        "frente": "O que estabeleceu o Marco Legal do Saneamento de 2020?",
+        "verso": "Abriu o setor à iniciativa privada por licitação e fixou metas de universalização do acesso à água e ao esgoto."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-24",
+        "frente": "Por que eventos climáticos extremos se tornaram mais frequentes?",
+        "verso": "Porque o aquecimento adiciona energia ao sistema climático, intensificando secas, chuvas concentradas e ondas de calor."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-25",
+        "frente": "O que revelaram as enchentes no Rio Grande do Sul em 2024?",
+        "verso": "A vulnerabilidade das cidades brasileiras a eventos extremos e a insuficiência dos sistemas de prevenção e adaptação."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-26",
+        "frente": "O que é justiça climática?",
+        "verso": "O princípio de que os efeitos da crise climática recaem desigualmente, atingindo mais quem menos contribuiu para causá-la."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-27",
+        "frente": "O que é racismo ambiental?",
+        "verso": "A concentração de riscos e passivos ambientais em territórios habitados por populações racialmente marginalizadas."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-28",
+        "frente": "O que é a economia circular?",
+        "verso": "O modelo que substitui o ciclo 'extrair-produzir-descartar' pelo reaproveitamento contínuo de materiais."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-29",
+        "frente": "O que é a logística reversa?",
+        "verso": "A obrigação de fabricantes e comerciantes recolherem e destinarem corretamente produtos após o consumo, como pilhas, pneus e eletrônicos."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-30",
+        "frente": "O que é greenwashing?",
+        "verso": "A prática de empresas que se apresentam como ambientalmente responsáveis sem mudanças reais em suas operações."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-31",
+        "frente": "Qual é o papel dos povos indígenas na conservação ambiental?",
+        "verso": "As terras indígenas apresentam as menores taxas de desmatamento, funcionando como barreiras efetivas à degradação."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-32",
+        "frente": "O que são os créditos de carbono da REDD+?",
+        "verso": "Créditos gerados por evitar desmatamento e degradação florestal, cuja integridade depende de comprovar adicionalidade real."
+      },
+      {
+        "id": "flash-atualidades-meioambiente-33",
+        "frente": "Qual é a relevância de o Brasil sediar a COP30 em Belém?",
+        "verso": "Coloca a Amazônia no centro da negociação climática e testa a coerência entre o discurso externo e a política ambiental interna."
+      }
+    ],
+    "atualidades-tecnologia": [
+      {
+        "id": "flash-atualidades-tecnologia-01",
+        "frente": "O que é inteligência artificial generativa?",
+        "verso": "A tecnologia capaz de produzir textos, imagens, áudio e código a partir de padrões aprendidos em grandes volumes de dados."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-02",
+        "frente": "Como funciona, em linhas gerais, um modelo de linguagem?",
+        "verso": "Aprende relações estatísticas entre palavras num enorme corpus e gera texto prevendo a continuação mais provável."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-03",
+        "frente": "O que é o viés algorítmico?",
+        "verso": "A reprodução e a amplificação, pelo sistema, de desigualdades presentes nos dados com que foi treinado."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-04",
+        "frente": "Por que o reconhecimento facial é objeto de controvérsia?",
+        "verso": "Por apresentar taxas de erro maiores para pessoas negras e mulheres, e por ampliar a vigilância sobre populações já vulneráveis."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-05",
+        "frente": "Qual é o impacto da automação sobre o mercado de trabalho?",
+        "verso": "Elimina tarefas repetitivas e cria funções novas, mas exige requalificação e tende a ampliar desigualdades no curto prazo."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-06",
+        "frente": "O que é a uberização do trabalho?",
+        "verso": "A intermediação por plataformas digitais que transfere riscos e custos ao trabalhador, sem vínculo formal de emprego."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-07",
+        "frente": "Qual é o principal debate jurídico sobre os trabalhadores de aplicativo?",
+        "verso": "Se há relação de emprego, dada a subordinação algorítmica, ou se são autônomos, como sustentam as plataformas."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-08",
+        "frente": "O que é a economia de plataforma?",
+        "verso": "O modelo em que empresas digitais intermedeiam a relação entre usuários e prestadores, capturando valor sem deter os ativos."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-09",
+        "frente": "O que caracteriza as big techs?",
+        "verso": "A concentração de mercado, o controle de infraestrutura digital e o poder de definir regras de circulação da informação."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-10",
+        "frente": "O que é a LGPD?",
+        "verso": "A Lei Geral de Proteção de Dados, que regula a coleta e o tratamento de dados pessoais no Brasil e assegura direitos ao titular."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-11",
+        "frente": "Que direitos a LGPD assegura ao titular dos dados?",
+        "verso": "Acesso, correção, portabilidade, revogação do consentimento e eliminação dos dados tratados."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-12",
+        "frente": "O que é o capitalismo de vigilância?",
+        "verso": "O modelo de negócio que extrai dados comportamentais dos usuários para prever e influenciar comportamento, monetizando a atenção."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-13",
+        "frente": "O que é desinformação, e como difere de informação incorreta?",
+        "verso": "A desinformação é falsidade difundida INTENCIONALMENTE; informação incorreta pode ser erro não deliberado."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-14",
+        "frente": "O que é um deepfake?",
+        "verso": "Vídeo ou áudio manipulado por inteligência artificial que simula com realismo falas e imagens de pessoas reais."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-15",
+        "frente": "Por que os deepfakes ameaçam o debate público?",
+        "verso": "Porque tornam plausível a falsificação de provas e permitem descartar registros verdadeiros como possíveis falsificações."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-16",
+        "frente": "O que é uma bolha informacional?",
+        "verso": "O ambiente em que o usuário só encontra conteúdos alinhados às próprias visões, por efeito da filtragem algorítmica."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-17",
+        "frente": "O que é câmara de eco (echo chamber)?",
+        "verso": "O espaço em que opiniões semelhantes se reforçam mutuamente, radicalizando posições e reduzindo o contraditório."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-18",
+        "frente": "Por que os algoritmos tendem a favorecer conteúdo polarizado?",
+        "verso": "Porque otimizam engajamento, e conteúdos que provocam emoções fortes geram mais interação."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-19",
+        "frente": "O que é o Marco Civil da Internet?",
+        "verso": "A lei de 2014 que estabelece princípios de uso da internet no Brasil, incluindo neutralidade de rede e privacidade."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-20",
+        "frente": "O que estabelece o artigo 19 do Marco Civil?",
+        "verso": "Que a plataforma só responde por conteúdo de terceiro se descumprir ordem judicial de remoção — regra em disputa no debate sobre regulação."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-21",
+        "frente": "O que é neutralidade de rede?",
+        "verso": "O princípio de que provedores devem tratar todo o tráfego igualmente, sem privilegiar serviços ou cobrar por prioridade."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-22",
+        "frente": "Qual é o debate central sobre regulação das plataformas?",
+        "verso": "Como coibir desinformação e discurso de ódio sem produzir censura nem concentrar poder de decisão sobre a expressão."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-23",
+        "frente": "O que é moderação de conteúdo?",
+        "verso": "A aplicação de regras próprias das plataformas para remover ou reduzir alcance de publicações, feita por sistemas automatizados e revisores humanos."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-24",
+        "frente": "O que é cibersegurança?",
+        "verso": "O conjunto de práticas para proteger sistemas e dados contra acesso indevido, ataques e vazamentos."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-25",
+        "frente": "O que é um ataque de ransomware?",
+        "verso": "A invasão que criptografa dados da vítima e exige pagamento de resgate para liberá-los."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-26",
+        "frente": "O que é engenharia social, em segurança digital?",
+        "verso": "A manipulação psicológica que induz a pessoa a revelar dados ou executar ações que comprometem sua própria segurança."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-27",
+        "frente": "O que é a exclusão digital?",
+        "verso": "A desigualdade de acesso a conectividade, dispositivos e competências digitais, que aprofunda desigualdades preexistentes."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-28",
+        "frente": "Por que a conectividade se tornou questão de cidadania?",
+        "verso": "Porque serviços públicos, educação, trabalho e benefícios sociais migraram para o ambiente digital, tornando o acesso condição de participação."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-29",
+        "frente": "O que é o Pix, e qual seu impacto?",
+        "verso": "O sistema brasileiro de pagamentos instantâneos criado pelo Banco Central, que ampliou a inclusão financeira e reduziu custos de transação."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-30",
+        "frente": "O que são as criptomoedas?",
+        "verso": "Ativos digitais descentralizados baseados em blockchain, sem emissor central e com alta volatilidade."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-31",
+        "frente": "O que é blockchain?",
+        "verso": "O registro distribuído e encadeado de transações, validado coletivamente, que dificulta a alteração retroativa dos dados."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-32",
+        "frente": "Que desafios éticos a inteligência artificial coloca?",
+        "verso": "Responsabilidade por decisões automatizadas, transparência dos critérios, viés, uso de obras protegidas em treinamento e impacto no emprego."
+      },
+      {
+        "id": "flash-atualidades-tecnologia-33",
+        "frente": "Por que a regulação da IA é considerada urgente?",
+        "verso": "Porque a tecnologia avança mais rápido que o direito, e decisões automatizadas já afetam crédito, contratação, segurança e acesso a serviços."
+      }
+    ],
+    "atualidades-saude": [
+      {
+        "id": "flash-atualidades-saude-01",
+        "frente": "Quais são os princípios do SUS?",
+        "verso": "Universalidade, integralidade e equidade, com diretrizes de descentralização, regionalização e participação social."
+      },
+      {
+        "id": "flash-atualidades-saude-02",
+        "frente": "O que significa a universalidade do SUS?",
+        "verso": "Toda pessoa em território brasileiro tem direito ao atendimento, independentemente de contribuição, renda ou nacionalidade."
+      },
+      {
+        "id": "flash-atualidades-saude-03",
+        "frente": "O que significa a integralidade no SUS?",
+        "verso": "O atendimento deve abranger prevenção, tratamento e reabilitação, considerando a pessoa como um todo."
+      },
+      {
+        "id": "flash-atualidades-saude-04",
+        "frente": "O que é a atenção primária à saúde?",
+        "verso": "O primeiro nível de cuidado, porta de entrada do sistema, que resolve a maior parte das demandas e coordena o cuidado."
+      },
+      {
+        "id": "flash-atualidades-saude-05",
+        "frente": "Qual é a importância da Estratégia Saúde da Família?",
+        "verso": "Organiza a atenção primária por equipes territorializadas, aproximando o cuidado da comunidade e priorizando prevenção."
+      },
+      {
+        "id": "flash-atualidades-saude-06",
+        "frente": "O que é a judicialização da saúde?",
+        "verso": "A busca de tratamentos e medicamentos por via judicial, que garante acesso individual mas desorganiza o planejamento orçamentário coletivo."
+      },
+      {
+        "id": "flash-atualidades-saude-07",
+        "frente": "Qual é a importância do Programa Nacional de Imunizações?",
+        "verso": "É um dos maiores programas públicos de vacinação do mundo, responsável pela erradicação e pelo controle de diversas doenças no Brasil."
+      },
+      {
+        "id": "flash-atualidades-saude-08",
+        "frente": "O que é cobertura vacinal, e por que ela importa?",
+        "verso": "É a proporção do público-alvo vacinado; abaixo de certo patamar, perde-se a imunidade coletiva e doenças controladas retornam."
+      },
+      {
+        "id": "flash-atualidades-saude-09",
+        "frente": "O que é imunidade de rebanho (coletiva)?",
+        "verso": "A proteção indireta que surge quando parcela suficiente da população está imunizada, dificultando a circulação do agente."
+      },
+      {
+        "id": "flash-atualidades-saude-10",
+        "frente": "Quais são as causas da queda da cobertura vacinal no Brasil?",
+        "verso": "Desinformação, hesitação vacinal, dificuldades de acesso e a falsa percepção de que doenças controladas deixaram de ser risco."
+      },
+      {
+        "id": "flash-atualidades-saude-11",
+        "frente": "Qual é a diferença entre epidemia, pandemia e endemia?",
+        "verso": "Epidemia é surto acima do esperado numa região; pandemia se espalha por vários continentes; endemia é a presença constante numa área."
+      },
+      {
+        "id": "flash-atualidades-saude-12",
+        "frente": "Por que a dengue voltou a ser um problema grave no Brasil?",
+        "verso": "Pela circulação simultânea de sorotipos, pela urbanização com saneamento precário e por condições climáticas favoráveis ao vetor."
+      },
+      {
+        "id": "flash-atualidades-saude-13",
+        "frente": "O que são arboviroses?",
+        "verso": "Doenças transmitidas por artrópodes, como dengue, zika, chikungunya e febre amarela."
+      },
+      {
+        "id": "flash-atualidades-saude-14",
+        "frente": "Que lições a pandemia de covid-19 deixou para a saúde pública?",
+        "verso": "A importância de sistemas universais, de vigilância epidemiológica, de produção nacional de insumos e do enfrentamento à desinformação."
+      },
+      {
+        "id": "flash-atualidades-saude-15",
+        "frente": "O que é a vigilância epidemiológica?",
+        "verso": "O monitoramento contínuo de doenças e agravos para detectar surtos precocemente e orientar as respostas."
+      },
+      {
+        "id": "flash-atualidades-saude-16",
+        "frente": "O que é a saúde mental como questão de saúde pública?",
+        "verso": "O reconhecimento de que transtornos como depressão e ansiedade têm determinantes sociais e exigem política pública, não apenas cuidado individual."
+      },
+      {
+        "id": "flash-atualidades-saude-17",
+        "frente": "O que é a Reforma Psiquiátrica brasileira?",
+        "verso": "O processo que substituiu o modelo manicomial pela atenção em liberdade, com os CAPS como serviço central."
+      },
+      {
+        "id": "flash-atualidades-saude-18",
+        "frente": "O que são os CAPS?",
+        "verso": "Centros de Atenção Psicossocial, serviços territoriais de cuidado em saúde mental que evitam a internação como primeira resposta."
+      },
+      {
+        "id": "flash-atualidades-saude-19",
+        "frente": "O que é burnout, e qual seu reconhecimento oficial?",
+        "verso": "A síndrome de esgotamento profissional, reconhecida pela OMS como fenômeno ocupacional relacionado ao trabalho."
+      },
+      {
+        "id": "flash-atualidades-saude-20",
+        "frente": "Por que o suicídio é tratado como questão de saúde pública?",
+        "verso": "Porque tem determinantes sociais identificáveis e é prevenível por políticas de acolhimento, acesso a cuidado e cobertura midiática responsável."
+      },
+      {
+        "id": "flash-atualidades-saude-21",
+        "frente": "O que é a transição nutricional brasileira?",
+        "verso": "A mudança do padrão de desnutrição para o de excesso de peso e obesidade, com persistência de deficiências de micronutrientes."
+      },
+      {
+        "id": "flash-atualidades-saude-22",
+        "frente": "O que são alimentos ultraprocessados?",
+        "verso": "Formulações industriais com aditivos e ingredientes de uso não culinário, associadas a obesidade e doenças crônicas."
+      },
+      {
+        "id": "flash-atualidades-saude-23",
+        "frente": "O que propõe o Guia Alimentar para a População Brasileira?",
+        "verso": "Priorizar alimentos in natura e minimamente processados e evitar ultraprocessados, adotando a classificação NOVA."
+      },
+      {
+        "id": "flash-atualidades-saude-24",
+        "frente": "O que é insegurança alimentar?",
+        "verso": "A situação em que o acesso regular a alimentos em quantidade e qualidade adequadas não está assegurado."
+      },
+      {
+        "id": "flash-atualidades-saude-25",
+        "frente": "Qual é a diferença entre fome e insegurança alimentar?",
+        "verso": "A fome é a forma grave da insegurança alimentar; esta abrange também a incerteza sobre o acesso futuro e a piora da qualidade da dieta."
+      },
+      {
+        "id": "flash-atualidades-saude-26",
+        "frente": "O que é a rotulagem nutricional frontal?",
+        "verso": "O sistema de aviso na frente da embalagem sobre excesso de açúcar, gordura saturada e sódio, adotado no Brasil em 2022."
+      },
+      {
+        "id": "flash-atualidades-saude-27",
+        "frente": "O que são doenças crônicas não transmissíveis?",
+        "verso": "Diabetes, hipertensão, câncer e doenças respiratórias crônicas — principais causas de morte no Brasil e no mundo."
+      },
+      {
+        "id": "flash-atualidades-saude-28",
+        "frente": "O que é a transição epidemiológica?",
+        "verso": "A mudança do predomínio de doenças infecciosas para o de doenças crônicas, acompanhando o envelhecimento populacional."
+      },
+      {
+        "id": "flash-atualidades-saude-29",
+        "frente": "Quais são os desafios do envelhecimento populacional para a saúde?",
+        "verso": "O aumento das doenças crônicas e da demanda por cuidado continuado, exigindo reorganização do sistema e política de cuidados."
+      },
+      {
+        "id": "flash-atualidades-saude-30",
+        "frente": "O que são determinantes sociais da saúde?",
+        "verso": "As condições de vida — renda, moradia, saneamento, educação, trabalho — que influenciam diretamente o estado de saúde."
+      },
+      {
+        "id": "flash-atualidades-saude-31",
+        "frente": "Por que saneamento básico é política de saúde?",
+        "verso": "Porque a ausência de água tratada e esgoto responde por parte expressiva das internações por doenças evitáveis."
+      },
+      {
+        "id": "flash-atualidades-saude-32",
+        "frente": "O que é o Mais Médicos?",
+        "verso": "O programa que leva profissionais a regiões com escassez de médicos, sobretudo periferias, interior e áreas indígenas."
+      },
+      {
+        "id": "flash-atualidades-saude-33",
+        "frente": "O que é a resistência antimicrobiana, e por que preocupa?",
+        "verso": "A perda de eficácia dos antibióticos pelo uso excessivo e inadequado, apontada pela OMS como uma das maiores ameaças à saúde global."
+      }
+    ],
+    "atualidades-sociedade-educacao": [
+      {
+        "id": "flash-atualidades-sociedade-educacao-01",
+        "frente": "O que é o Novo Ensino Médio, e qual a controvérsia sobre ele?",
+        "verso": "A reforma que reduziu a carga comum e criou itinerários formativos; foi criticada por reduzir conteúdos e aprofundar desigualdades entre escolas."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-02",
+        "frente": "O que é a BNCC?",
+        "verso": "A Base Nacional Comum Curricular, que define as aprendizagens essenciais para toda a educação básica no país."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-03",
+        "frente": "O que revelam os resultados brasileiros no PISA?",
+        "verso": "Desempenho abaixo da média dos países avaliados em leitura, matemática e ciências, com forte correlação entre nota e nível socioeconômico."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-04",
+        "frente": "O que é o analfabetismo funcional?",
+        "verso": "A condição de quem decodifica letras mas não compreende nem usa textos em situações práticas do cotidiano."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-05",
+        "frente": "Quais foram os efeitos da pandemia sobre a educação básica?",
+        "verso": "Perdas de aprendizagem, aumento da evasão e ampliação das desigualdades entre alunos com e sem acesso a conectividade."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-06",
+        "frente": "O que é evasão escolar, e quais suas principais causas?",
+        "verso": "O abandono da escola antes da conclusão; decorre de necessidade de trabalho, gravidez na adolescência, distorção idade-série e desinteresse."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-07",
+        "frente": "O que é a distorção idade-série?",
+        "verso": "A defasagem entre a idade do aluno e a série que cursa, geralmente causada por reprovações e abandono, e forte preditora de evasão."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-08",
+        "frente": "O que é o FUNDEB?",
+        "verso": "O fundo que redistribui recursos para a educação básica entre estados e municípios, com complementação da União segundo critérios de equidade."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-09",
+        "frente": "O que são as cotas nas universidades públicas?",
+        "verso": "A reserva de vagas para estudantes de escola pública, de baixa renda, pretos, pardos, indígenas e pessoas com deficiência."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-10",
+        "frente": "Qual é o principal argumento a favor das cotas raciais?",
+        "verso": "Corrigir desigualdade histórica de acesso produzida pela escravidão e pelo racismo estrutural, promovendo igualdade material."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-11",
+        "frente": "Que resultados a política de cotas apresentou?",
+        "verso": "Ampliou significativamente a diversidade nas universidades públicas, com desempenho acadêmico dos cotistas equivalente ao dos demais."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-12",
+        "frente": "O que é o ProUni?",
+        "verso": "O programa que concede bolsas em instituições privadas a estudantes de baixa renda, em troca de isenção fiscal às instituições."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-13",
+        "frente": "O que caracteriza a desigualdade de renda no Brasil?",
+        "verso": "É uma das mais altas do mundo, com forte concentração no topo e sistema tributário regressivo que a reforça."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-14",
+        "frente": "O que mede o Índice de Gini?",
+        "verso": "A desigualdade na distribuição de renda: zero indica igualdade perfeita e 1 indica desigualdade máxima."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-15",
+        "frente": "O que é racismo estrutural?",
+        "verso": "O racismo que opera nas instituições e nas práticas cotidianas, produzindo desigualdade mesmo sem intenção individual explícita."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-16",
+        "frente": "O que revelam os indicadores raciais brasileiros?",
+        "verso": "Pessoas negras têm menor renda e escolaridade, maior taxa de desemprego e são maioria entre vítimas de homicídio e da população carcerária."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-17",
+        "frente": "O que estabelece a Lei Maria da Penha?",
+        "verso": "Cria mecanismos de proteção contra a violência doméstica e familiar contra a mulher, com medidas protetivas de urgência."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-18",
+        "frente": "O que é feminicídio?",
+        "verso": "O homicídio de mulher por razões da condição de sexo feminino, tipificado como crime hediondo no Brasil."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-19",
+        "frente": "O que é a desigualdade de gênero no mercado de trabalho?",
+        "verso": "Mulheres recebem menos que homens em funções equivalentes, ocupam menos cargos de liderança e arcam com a maior parte do trabalho doméstico não remunerado."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-20",
+        "frente": "O que é a dupla jornada feminina?",
+        "verso": "A soma do trabalho remunerado com o trabalho doméstico e de cuidado não remunerado, que recai desproporcionalmente sobre as mulheres."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-21",
+        "frente": "O que é a economia do cuidado?",
+        "verso": "O conjunto de atividades de cuidado com crianças, idosos e pessoas com deficiência, majoritariamente feminino e invisibilizado nas estatísticas."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-22",
+        "frente": "Qual é a situação dos direitos LGBTQIA+ no Brasil?",
+        "verso": "Conquistas como o casamento civil e a criminalização da homofobia por decisão do STF convivem com altos índices de violência."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-23",
+        "frente": "O que é a informalidade no mercado de trabalho brasileiro?",
+        "verso": "A ocupação sem registro nem proteção previdenciária e trabalhista, que atinge cerca de 40% dos ocupados."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-24",
+        "frente": "O que foi a Reforma Trabalhista de 2017?",
+        "verso": "A alteração da CLT que flexibilizou contratos e jornadas e permitiu a prevalência do negociado sobre o legislado."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-25",
+        "frente": "O que é renda básica, e qual o debate em torno dela?",
+        "verso": "A transferência regular de renda à população; discute-se se deve ser universal ou focalizada, e como financiá-la."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-26",
+        "frente": "O que é o déficit habitacional?",
+        "verso": "A diferença entre a necessidade e a oferta de moradias adequadas, incluindo domicílios precários e ônus excessivo com aluguel."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-27",
+        "frente": "O que é o direito à cidade?",
+        "verso": "O princípio de que todos devem ter acesso à infraestrutura, aos serviços e às oportunidades urbanas, e não apenas a moradia."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-28",
+        "frente": "Quais são os principais problemas da mobilidade urbana brasileira?",
+        "verso": "A priorização histórica do automóvel individual, o transporte público insuficiente e caro, e os longos deslocamentos das periferias."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-29",
+        "frente": "O que caracteriza a violência urbana no Brasil?",
+        "verso": "Altas taxas de homicídio concentradas em jovens negros e periferias, associadas a mercados ilegais e à letalidade policial."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-30",
+        "frente": "O que é a letalidade policial, e por que é debatida?",
+        "verso": "O número de mortes decorrentes de intervenção policial; o Brasil apresenta índices muito superiores aos de outros países, com forte seletividade racial."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-31",
+        "frente": "O que é o encarceramento em massa?",
+        "verso": "O crescimento acelerado da população prisional, que no Brasil é a terceira maior do mundo e majoritariamente negra e jovem."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-32",
+        "frente": "Qual é o perfil da população carcerária brasileira?",
+        "verso": "Majoritariamente jovem, negra, de baixa escolaridade, com alta proporção de presos provisórios e por crimes patrimoniais e de drogas."
+      },
+      {
+        "id": "flash-atualidades-sociedade-educacao-33",
+        "frente": "Por que a Lei de Drogas de 2006 é objeto de crítica?",
+        "verso": "Por não estabelecer critério objetivo entre usuário e traficante, o que abre espaço para aplicação seletiva e racialmente enviesada."
+      }
+    ]
+  }
+}

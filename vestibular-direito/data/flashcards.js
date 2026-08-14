@@ -8620,6 +8620,3690 @@ window.FLASHCARDS = {
    "verso": "A chave que explica o significado de cores e símbolos; sem ela a representação não pode ser interpretada corretamente."
   }
  ],
+ "filosofia-politica": [
+  {
+   "id": "flash-filosofia-politica-01",
+   "frente": "O que é o contratualismo?",
+   "verso": "A teoria segundo a qual o Estado nasce de um acordo entre indivíduos que saem do estado de natureza."
+  },
+  {
+   "id": "flash-filosofia-politica-02",
+   "frente": "Como Hobbes descreve o estado de natureza?",
+   "verso": "Como guerra de todos contra todos, em que a vida é 'solitária, pobre, sórdida, embrutecida e curta'."
+  },
+  {
+   "id": "flash-filosofia-politica-03",
+   "frente": "Que solução Hobbes propõe no Leviatã?",
+   "verso": "A cessão de todos os direitos a um soberano absoluto, cuja força garante a paz e a segurança."
+  },
+  {
+   "id": "flash-filosofia-politica-04",
+   "frente": "Como Locke descreve o estado de natureza?",
+   "verso": "Como estado de relativa liberdade e igualdade regido pela lei natural, mas sem juiz imparcial para resolver conflitos."
+  },
+  {
+   "id": "flash-filosofia-politica-05",
+   "frente": "Que direitos naturais Locke considera anteriores ao Estado?",
+   "verso": "Vida, liberdade e propriedade."
+  },
+  {
+   "id": "flash-filosofia-politica-06",
+   "frente": "Qual é a principal diferença política entre Hobbes e Locke?",
+   "verso": "Hobbes justifica o poder absoluto; Locke defende o poder limitado e o direito de resistência ao governo que viola direitos."
+  },
+  {
+   "id": "flash-filosofia-politica-07",
+   "frente": "Como Rousseau descreve o homem no estado de natureza?",
+   "verso": "Como bom e livre, sendo a sociedade e a propriedade privada as responsáveis pela corrupção e pela desigualdade."
+  },
+  {
+   "id": "flash-filosofia-politica-08",
+   "frente": "O que é a vontade geral, em Rousseau?",
+   "verso": "A vontade do corpo político voltada ao bem comum, distinta da soma dos interesses particulares."
+  },
+  {
+   "id": "flash-filosofia-politica-09",
+   "frente": "Qual é a concepção de soberania de Rousseau?",
+   "verso": "A soberania pertence ao povo, é inalienável e indivisível — não pode ser transferida a representantes."
+  },
+  {
+   "id": "flash-filosofia-politica-10",
+   "frente": "Qual é a contribuição central de Maquiavel à filosofia política?",
+   "verso": "A separação entre política e moral, analisando o poder como ele é e não como deveria ser."
+  },
+  {
+   "id": "flash-filosofia-politica-11",
+   "frente": "O que significa 'os fins justificam os meios' em Maquiavel?",
+   "verso": "É simplificação de sua tese: o governante deve fazer o necessário para manter o Estado, mesmo contrariando a moral corrente."
+  },
+  {
+   "id": "flash-filosofia-politica-12",
+   "frente": "O que é a virtù e a fortuna em Maquiavel?",
+   "verso": "Virtù é a capacidade de ação e decisão do governante; fortuna é o acaso, que ele deve aprender a dominar."
+  },
+  {
+   "id": "flash-filosofia-politica-13",
+   "frente": "O que propõe Montesquieu com a separação dos poderes?",
+   "verso": "Dividir o poder em Executivo, Legislativo e Judiciário, de modo que cada um limite os demais."
+  },
+  {
+   "id": "flash-filosofia-politica-14",
+   "frente": "Por que a separação dos poderes protege a liberdade?",
+   "verso": "Porque impede a concentração de poder num único órgão, criando freios e contrapesos contra o arbítrio."
+  },
+  {
+   "id": "flash-filosofia-politica-15",
+   "frente": "Qual é a diferença entre liberdade negativa e positiva?",
+   "verso": "A negativa é a ausência de interferência externa; a positiva é a capacidade efetiva de autodeterminação."
+  },
+  {
+   "id": "flash-filosofia-politica-16",
+   "frente": "O que caracteriza o liberalismo político clássico?",
+   "verso": "A defesa dos direitos individuais, do Estado limitado, da propriedade privada e do governo por consentimento."
+  },
+  {
+   "id": "flash-filosofia-politica-17",
+   "frente": "O que é democracia direta, e onde ela surgiu?",
+   "verso": "Aquela em que os cidadãos deliberam pessoalmente; surgiu em Atenas, embora restrita a homens livres nascidos na cidade."
+  },
+  {
+   "id": "flash-filosofia-politica-18",
+   "frente": "O que é democracia representativa?",
+   "verso": "Aquela em que o povo exerce a soberania por meio de representantes eleitos periodicamente."
+  },
+  {
+   "id": "flash-filosofia-politica-19",
+   "frente": "O que é legitimidade do poder, segundo Weber?",
+   "verso": "A crença dos governados na validade do comando; ele distingue a dominação tradicional, a carismática e a racional-legal."
+  },
+  {
+   "id": "flash-filosofia-politica-20",
+   "frente": "O que caracteriza a dominação racional-legal?",
+   "verso": "A obediência a normas impessoais e a cargos, não a pessoas — é a base do Estado burocrático moderno."
+  },
+  {
+   "id": "flash-filosofia-politica-21",
+   "frente": "O que caracteriza um regime totalitário, segundo Hannah Arendt?",
+   "verso": "A ideologia total, o terror permanente, o partido único e a destruição da esfera pública e da individualidade."
+  },
+  {
+   "id": "flash-filosofia-politica-22",
+   "frente": "O que Arendt entende por 'banalidade do mal'?",
+   "verso": "A constatação de que atrocidades podem ser cometidas por pessoas comuns que apenas cumprem ordens sem refletir."
+  },
+  {
+   "id": "flash-filosofia-politica-23",
+   "frente": "O que Arendt entende por espaço público?",
+   "verso": "O âmbito de aparecimento e ação entre iguais, em que a política se realiza pelo discurso e pela pluralidade."
+  },
+  {
+   "id": "flash-filosofia-politica-24",
+   "frente": "Qual é a concepção de poder em Foucault?",
+   "verso": "O poder não é apenas repressivo nem se concentra no Estado: circula em rede, é produtivo e opera sobre os corpos."
+  },
+  {
+   "id": "flash-filosofia-politica-25",
+   "frente": "O que é biopoder, em Foucault?",
+   "verso": "O poder que administra a vida das populações — natalidade, saúde, sexualidade — em vez de apenas ameaçar com a morte."
+  },
+  {
+   "id": "flash-filosofia-politica-26",
+   "frente": "O que é a sociedade disciplinar, em Foucault?",
+   "verso": "Aquela que produz corpos dóceis por vigilância, normalização e controle do tempo em escolas, fábricas, prisões e hospitais."
+  },
+  {
+   "id": "flash-filosofia-politica-27",
+   "frente": "O que é o panóptico, e o que ele simboliza?",
+   "verso": "A prisão circular projetada por Bentham; simboliza a vigilância que se torna eficaz porque o vigiado a interioriza."
+  },
+  {
+   "id": "flash-filosofia-politica-28",
+   "frente": "O que é hegemonia, em Gramsci?",
+   "verso": "A dominação que se exerce pelo consenso e pela direção cultural, e não apenas pela coerção."
+  },
+  {
+   "id": "flash-filosofia-politica-29",
+   "frente": "O que Gramsci entende por intelectual orgânico?",
+   "verso": "Aquele que articula e expressa a visão de mundo de sua classe, contribuindo para sua hegemonia."
+  },
+  {
+   "id": "flash-filosofia-politica-30",
+   "frente": "O que é razão de Estado?",
+   "verso": "O princípio segundo o qual a preservação do Estado justifica medidas que a moral comum condenaria."
+  },
+  {
+   "id": "flash-filosofia-politica-31",
+   "frente": "O que é cidadania, do ponto de vista político?",
+   "verso": "A condição de membro pleno da comunidade política, com direitos e deveres reconhecidos."
+  },
+  {
+   "id": "flash-filosofia-politica-32",
+   "frente": "O que distingue o Estado de Direito do Estado Democrático de Direito?",
+   "verso": "O Estado de Direito submete o poder à lei; o Democrático acrescenta a exigência de soberania popular e direitos fundamentais."
+  },
+  {
+   "id": "flash-filosofia-politica-33",
+   "frente": "O que é o republicanismo, como tradição política?",
+   "verso": "A corrente que valoriza o bem comum, a virtude cívica e a participação ativa contra a dominação arbitrária."
+  }
+ ],
+ "filosofia-etica-moral": [
+  {
+   "id": "flash-filosofia-etica-moral-01",
+   "frente": "Qual é a diferença entre ética e moral?",
+   "verso": "A moral é o conjunto de normas vigentes num grupo; a ética é a reflexão filosófica sobre os fundamentos dessas normas."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-02",
+   "frente": "O que é uma virtude, para Aristóteles?",
+   "verso": "Uma disposição de caráter adquirida pelo hábito, que se situa no meio-termo entre dois vícios opostos."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-03",
+   "frente": "O que é a doutrina do meio-termo aristotélica?",
+   "verso": "A virtude está entre o excesso e a falta: a coragem fica entre a temeridade e a covardia."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-04",
+   "frente": "O que é eudaimonia?",
+   "verso": "A felicidade como florescimento humano — o fim último da vida, alcançado pelo exercício das virtudes e da razão."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-05",
+   "frente": "Por que a ética aristotélica é chamada de ética das virtudes?",
+   "verso": "Porque se pergunta que tipo de pessoa devemos ser, e não apenas que regras devemos seguir."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-06",
+   "frente": "O que é o imperativo categórico de Kant?",
+   "verso": "O princípio moral incondicional: age apenas segundo a máxima que possas querer que se torne lei universal."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-07",
+   "frente": "Qual é a segunda formulação do imperativo categórico?",
+   "verso": "Trate a humanidade, em ti e nos outros, sempre como fim, e nunca apenas como meio."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-08",
+   "frente": "Qual é a diferença entre imperativo categórico e hipotético?",
+   "verso": "O hipotético vale sob condição ('se queres X, faz Y'); o categórico obriga incondicionalmente."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-09",
+   "frente": "O que é autonomia da vontade, para Kant?",
+   "verso": "A capacidade de a razão dar a si mesma a lei moral, sem depender de autoridade externa nem de inclinações."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-10",
+   "frente": "Por que a ética kantiana é chamada deontológica?",
+   "verso": "Porque o valor moral está no DEVER e na intenção de cumpri-lo, não nas consequências da ação."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-11",
+   "frente": "Para Kant, uma ação boa por interesse tem valor moral?",
+   "verso": "Não — só tem valor moral a ação praticada POR dever, e não apenas em conformidade com ele."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-12",
+   "frente": "O que é o utilitarismo?",
+   "verso": "A doutrina segundo a qual a ação correta é a que produz a maior felicidade para o maior número de pessoas."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-13",
+   "frente": "Qual é o princípio da utilidade de Bentham?",
+   "verso": "Maximizar o prazer e minimizar o sofrimento agregados, tratando cada pessoa como uma unidade equivalente."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-14",
+   "frente": "Qual foi a crítica de Stuart Mill ao utilitarismo de Bentham?",
+   "verso": "Que os prazeres diferem em QUALIDADE, não apenas em quantidade — prazeres intelectuais valem mais que os sensoriais."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-15",
+   "frente": "Por que o utilitarismo é chamado consequencialista?",
+   "verso": "Porque julga a ação exclusivamente por seus resultados, e não pela intenção ou pela regra seguida."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-16",
+   "frente": "Qual é a principal objeção ao utilitarismo?",
+   "verso": "Pode justificar o sacrifício de uma minoria em nome do bem-estar da maioria, violando direitos individuais."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-17",
+   "frente": "Como o utilitarismo e o kantismo divergem diante de uma mentira que salva vidas?",
+   "verso": "O utilitarismo a aprova pelo saldo de bem-estar; Kant a condena, pois a máxima não pode ser universalizada."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-18",
+   "frente": "O que é a teoria da justiça de John Rawls?",
+   "verso": "A justiça como equidade, cujos princípios seriam escolhidos por pessoas racionais em posição de igualdade."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-19",
+   "frente": "O que é o véu da ignorância, em Rawls?",
+   "verso": "O experimento mental em que se escolhem os princípios de justiça sem saber que posição se ocupará na sociedade."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-20",
+   "frente": "O que é o princípio da diferença, em Rawls?",
+   "verso": "Desigualdades só se justificam se beneficiarem os membros menos favorecidos da sociedade."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-21",
+   "frente": "Qual é a diferença entre justiça distributiva e retributiva?",
+   "verso": "A distributiva trata da repartição de bens e ônus; a retributiva, da punição proporcional às faltas cometidas."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-22",
+   "frente": "O que é relativismo moral?",
+   "verso": "A posição de que não há critérios morais universais, sendo os valores válidos apenas dentro de cada cultura."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-23",
+   "frente": "Qual é a principal dificuldade do relativismo moral?",
+   "verso": "Torna impossível criticar práticas de outra cultura, mesmo quando envolvem sofrimento grave."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-24",
+   "frente": "O que é o dilema do bonde (trolley problem)?",
+   "verso": "O experimento que opõe a intuição consequencialista (salvar cinco) à deontológica (não usar alguém como meio)."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-25",
+   "frente": "O que é a bioética?",
+   "verso": "A ética aplicada às questões da vida e da saúde: eutanásia, aborto, pesquisa com embriões, genética e alocação de recursos."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-26",
+   "frente": "Quais são os quatro princípios clássicos da bioética?",
+   "verso": "Autonomia, beneficência, não maleficência e justiça."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-27",
+   "frente": "O que é o princípio da autonomia na bioética?",
+   "verso": "O respeito à decisão informada do paciente sobre o próprio corpo e tratamento."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-28",
+   "frente": "O que discute a ética animal?",
+   "verso": "Se e em que medida animais têm interesses moralmente relevantes que geram deveres para os humanos."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-29",
+   "frente": "O que é especismo, segundo Peter Singer?",
+   "verso": "A discriminação baseada na pertença a uma espécie, análoga ao racismo e ao sexismo."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-30",
+   "frente": "O que é a responsabilidade moral, e o que ela pressupõe?",
+   "verso": "A imputação de uma ação a um agente; pressupõe liberdade de escolha e consciência das consequências."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-31",
+   "frente": "Como o determinismo desafia a responsabilidade moral?",
+   "verso": "Se toda ação é causada por fatores anteriores, torna-se problemático responsabilizar alguém por escolhas que não poderia evitar."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-32",
+   "frente": "O que é ética profissional?",
+   "verso": "O conjunto de princípios que regulam o exercício de uma atividade, conciliando interesse técnico e responsabilidade social."
+  },
+  {
+   "id": "flash-filosofia-etica-moral-33",
+   "frente": "Qual é a diferença entre legalidade e legitimidade moral?",
+   "verso": "Uma norma pode ser legal e ainda assim injusta; a legitimidade moral não se reduz à validade jurídica."
+  }
+ ],
+ "sociologia-trabalho-classes": [
+  {
+   "id": "flash-sociologia-trabalho-classes-01",
+   "frente": "O que é um fato social, segundo Durkheim?",
+   "verso": "Toda maneira de agir, pensar e sentir exterior ao indivíduo e dotada de poder de coerção sobre ele."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-02",
+   "frente": "Quais são as três características do fato social?",
+   "verso": "Exterioridade, coercitividade e generalidade."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-03",
+   "frente": "Por que Durkheim afirma que os fatos sociais devem ser tratados como coisas?",
+   "verso": "Para garantir objetividade científica, estudando-os por observação empírica e não por pré-noções."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-04",
+   "frente": "O que é solidariedade mecânica, para Durkheim?",
+   "verso": "A coesão de sociedades simples, baseada na semelhança entre indivíduos e em consciência coletiva forte."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-05",
+   "frente": "O que é solidariedade orgânica?",
+   "verso": "A coesão de sociedades complexas, baseada na interdependência gerada pela divisão social do trabalho."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-06",
+   "frente": "O que é anomia, para Durkheim?",
+   "verso": "O estado de enfraquecimento ou ausência de normas reguladoras, que produz desorientação e sofrimento social."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-07",
+   "frente": "Como Durkheim explica o suicídio sociologicamente?",
+   "verso": "Como fato social: suas taxas variam conforme o grau de integração e de regulação da sociedade, não apenas por motivos individuais."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-08",
+   "frente": "O que é a divisão social do trabalho, para Durkheim?",
+   "verso": "A especialização das funções que, ao aumentar a interdependência, torna-se a principal fonte de coesão nas sociedades modernas."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-09",
+   "frente": "O que é a mais-valia, para Marx?",
+   "verso": "A diferença entre o valor produzido pelo trabalhador e o salário que recebe — é a fonte do lucro capitalista."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-10",
+   "frente": "Qual é a diferença entre mais-valia absoluta e relativa?",
+   "verso": "A absoluta vem do prolongamento da jornada; a relativa, do aumento da produtividade pela tecnologia."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-11",
+   "frente": "O que é alienação, para Marx?",
+   "verso": "A separação do trabalhador em relação ao produto, ao processo, a si mesmo e aos outros — o trabalho deixa de o realizar."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-12",
+   "frente": "Quais são as classes fundamentais do capitalismo, para Marx?",
+   "verso": "A burguesia, proprietária dos meios de produção, e o proletariado, que vende sua força de trabalho."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-13",
+   "frente": "O que Marx entende por luta de classes?",
+   "verso": "O conflito estrutural entre classes com interesses opostos, que ele considera o motor da história."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-14",
+   "frente": "O que é o materialismo histórico?",
+   "verso": "O método que explica a história a partir das condições materiais de produção e das relações sociais que delas decorrem."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-15",
+   "frente": "O que são infraestrutura e superestrutura, em Marx?",
+   "verso": "A infraestrutura é a base econômica; a superestrutura são as instituições jurídicas, políticas e ideológicas que dela emergem."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-16",
+   "frente": "O que é o fetichismo da mercadoria?",
+   "verso": "A aparência de que o valor é propriedade natural do objeto, ocultando o trabalho humano que o produziu."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-17",
+   "frente": "O que Weber entende por ação social?",
+   "verso": "A conduta dotada de sentido pelo agente e orientada pela ação de outros."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-18",
+   "frente": "Quais são os quatro tipos de ação social em Weber?",
+   "verso": "Racional com relação a fins, racional com relação a valores, afetiva e tradicional."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-19",
+   "frente": "O que é um tipo ideal, em Weber?",
+   "verso": "Um modelo conceitual construído pelo pesquisador para comparar e interpretar a realidade, sem pretensão de descrevê-la exatamente."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-20",
+   "frente": "O que é o processo de racionalização, para Weber?",
+   "verso": "A crescente organização da vida social por cálculo, previsibilidade e regras impessoais."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-21",
+   "frente": "O que Weber chama de 'desencantamento do mundo'?",
+   "verso": "A perda de explicações mágicas e religiosas diante do avanço da ciência e da racionalidade instrumental."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-22",
+   "frente": "Qual é a tese central de 'A Ética Protestante e o Espírito do Capitalismo'?",
+   "verso": "A ética ascética protestante, ao valorizar trabalho e poupança, favoreceu a mentalidade que impulsionou o capitalismo."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-23",
+   "frente": "O que é a burocracia, para Weber?",
+   "verso": "A forma de organização baseada em hierarquia, regras impessoais e competência técnica — eficiente, mas produtora da 'jaula de ferro'."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-24",
+   "frente": "Como Weber estratifica a sociedade, em contraste com Marx?",
+   "verso": "Por três dimensões — classe (econômica), status (prestígio) e partido (poder) — e não apenas pela posição na produção."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-25",
+   "frente": "O que caracteriza o taylorismo?",
+   "verso": "A administração científica que cronometra tarefas e separa quem planeja de quem executa."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-26",
+   "frente": "O que caracteriza o fordismo?",
+   "verso": "A produção em massa na linha de montagem, com trabalho fragmentado, produtos padronizados e grandes estoques."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-27",
+   "frente": "O que caracteriza o toyotismo?",
+   "verso": "A produção flexível sob demanda, com estoque mínimo (just in time), trabalhador multifuncional e controle de qualidade no processo."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-28",
+   "frente": "O que é acumulação flexível?",
+   "verso": "O regime pós-fordista de produção adaptável e terceirizada, associado à precarização e à fragmentação do trabalho."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-29",
+   "frente": "O que é precarização do trabalho?",
+   "verso": "A perda de estabilidade, proteção social e previsibilidade de renda nas relações de trabalho."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-30",
+   "frente": "O que é uberização do trabalho?",
+   "verso": "A intermediação por plataformas digitais que transfere riscos e custos ao trabalhador, sem vínculo formal de emprego."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-31",
+   "frente": "O que é trabalho informal?",
+   "verso": "A ocupação sem registro nem proteção previdenciária e trabalhista."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-32",
+   "frente": "O que é mobilidade social, e o que é uma sociedade de castas?",
+   "verso": "Mobilidade é a possibilidade de mudar de posição social; numa sociedade de castas, a posição é fixada pelo nascimento."
+  },
+  {
+   "id": "flash-sociologia-trabalho-classes-33",
+   "frente": "O que é meritocracia, e qual é a crítica sociológica a ela?",
+   "verso": "A ideia de que a posição social reflete esforço e talento; a crítica aponta que ela ignora as condições desiguais de partida."
+  }
+ ],
+ "sociologia-cultura-identidade": [
+  {
+   "id": "flash-sociologia-cultura-identidade-01",
+   "frente": "O que é cultura, no sentido antropológico?",
+   "verso": "O conjunto de saberes, crenças, valores, hábitos e técnicas partilhados e transmitidos socialmente."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-02",
+   "frente": "O que é etnocentrismo?",
+   "verso": "Julgar outras culturas a partir dos valores da própria, tomando-a como padrão universal."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-03",
+   "frente": "O que é relativismo cultural?",
+   "verso": "A postura de compreender cada cultura por seus próprios termos, sem hierarquizá-la em relação às demais."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-04",
+   "frente": "Qual é o limite frequentemente apontado ao relativismo cultural?",
+   "verso": "Levado ao extremo, impede criticar práticas que violam direitos humanos dentro de qualquer cultura."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-05",
+   "frente": "O que é socialização?",
+   "verso": "O processo pelo qual o indivíduo internaliza normas, valores e papéis do grupo em que vive."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-06",
+   "frente": "Qual é a diferença entre socialização primária e secundária?",
+   "verso": "A primária ocorre na infância, sobretudo na família; a secundária, ao longo da vida, na escola, no trabalho e em outros grupos."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-07",
+   "frente": "O que é aculturação?",
+   "verso": "O processo de mudança cultural resultante do contato contínuo entre culturas distintas."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-08",
+   "frente": "O que é hibridismo cultural?",
+   "verso": "A mistura de elementos de culturas diferentes que gera formas novas, sem pertencer inteiramente a nenhuma delas."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-09",
+   "frente": "O que é identidade cultural?",
+   "verso": "O sentimento de pertencimento a um grupo, construído socialmente e sempre em processo, não fixo por natureza."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-10",
+   "frente": "O que é multiculturalismo?",
+   "verso": "O reconhecimento e a convivência de múltiplas culturas numa mesma sociedade, com valorização da diferença."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-11",
+   "frente": "O que é habitus, para Bourdieu?",
+   "verso": "O sistema de disposições incorporadas, adquiridas pela socialização, que orienta percepções, gostos e práticas."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-12",
+   "frente": "O que é capital cultural, para Bourdieu?",
+   "verso": "O conjunto de saberes, credenciais e disposições culturais que conferem vantagem social, transmitidos sobretudo pela família."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-13",
+   "frente": "Quais são os estados do capital cultural em Bourdieu?",
+   "verso": "Incorporado (disposições), objetivado (bens culturais) e institucionalizado (diplomas e títulos)."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-14",
+   "frente": "O que é capital simbólico?",
+   "verso": "O prestígio e o reconhecimento que legitimam a posição de um agente no espaço social."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-15",
+   "frente": "Como Bourdieu explica a reprodução das desigualdades pela escola?",
+   "verso": "A escola trata como mérito individual o capital cultural herdado, legitimando desigualdades de origem familiar."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-16",
+   "frente": "O que é violência simbólica, em Bourdieu?",
+   "verso": "A imposição de significados como legítimos, aceita inclusive pelos dominados, que a percebem como natural."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-17",
+   "frente": "O que é indústria cultural, para Adorno e Horkheimer?",
+   "verso": "A produção de bens culturais em escala industrial, padronizada e voltada ao lucro, que transforma cultura em mercadoria."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-18",
+   "frente": "Qual é a crítica da Escola de Frankfurt à indústria cultural?",
+   "verso": "Ela padroniza o gosto, promove a passividade e enfraquece a capacidade crítica, funcionando como instrumento de conformismo."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-19",
+   "frente": "O que é cultura de massa?",
+   "verso": "A cultura produzida para consumo amplo e homogêneo, difundida pelos meios de comunicação."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-20",
+   "frente": "Qual é a diferença entre cultura popular e cultura de massa?",
+   "verso": "A popular é produzida pelo próprio povo em seus contextos; a de massa é produzida industrialmente para ele."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-21",
+   "frente": "O que é a mercantilização da cultura?",
+   "verso": "A conversão de manifestações culturais em produtos, subordinando seu sentido ao valor de troca."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-22",
+   "frente": "O que é a indústria do entretenimento como formadora de opinião?",
+   "verso": "O papel dos meios em definir a agenda pública e os quadros de interpretação da realidade."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-23",
+   "frente": "O que é a teoria do agendamento (agenda-setting)?",
+   "verso": "A tese de que a mídia não determina o que pensar, mas sobre o que pensar, ao selecionar o que ganha destaque."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-24",
+   "frente": "O que é uma bolha informacional?",
+   "verso": "O ambiente em que o usuário só encontra conteúdos alinhados às próprias visões, por filtragem algorítmica."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-25",
+   "frente": "O que é câmara de eco (echo chamber)?",
+   "verso": "O espaço em que opiniões semelhantes se reforçam mutuamente, radicalizando posições e reduzindo o contraditório."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-26",
+   "frente": "Como os algoritmos das redes influenciam a formação de opinião?",
+   "verso": "Priorizam engajamento, o que favorece conteúdos emocionais e polarizados em detrimento dos informativos."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-27",
+   "frente": "O que é desinformação, e como difere de informação incorreta?",
+   "verso": "A desinformação é falsidade difundida INTENCIONALMENTE; informação incorreta pode ser erro não deliberado."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-28",
+   "frente": "O que é a cultura do cancelamento, do ponto de vista sociológico?",
+   "verso": "Uma forma contemporânea de sanção social coletiva mediada por redes, com debate aberto sobre seus limites e efeitos."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-29",
+   "frente": "O que é apropriação cultural?",
+   "verso": "O uso de elementos de uma cultura minoritária por um grupo dominante, sem reconhecimento nem contexto, frequentemente com fins comerciais."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-30",
+   "frente": "O que é identidade de gênero, e como difere de sexo biológico?",
+   "verso": "A identidade de gênero é a percepção de si como homem, mulher ou outra categoria; o sexo biológico refere-se a características corporais."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-31",
+   "frente": "O que significa dizer que gênero é uma construção social?",
+   "verso": "Que os papéis e expectativas associados a homens e mulheres variam histórica e culturalmente, não decorrendo da biologia."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-32",
+   "frente": "O que é interseccionalidade?",
+   "verso": "A análise que considera a sobreposição de marcadores — raça, classe, gênero, sexualidade — na produção das desigualdades."
+  },
+  {
+   "id": "flash-sociologia-cultura-identidade-33",
+   "frente": "O que é a globalização cultural?",
+   "verso": "A intensificação da circulação mundial de bens simbólicos, que gera homogeneização e, ao mesmo tempo, reafirmação de identidades locais."
+  }
+ ],
+ "filosofia-conhecimento-logica": [
+  {
+   "id": "flash-filosofia-conhecimento-logica-01",
+   "frente": "O que estuda a epistemologia?",
+   "verso": "A natureza, a origem, os limites e a validade do conhecimento."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-02",
+   "frente": "O que é o mito da caverna, de Platão?",
+   "verso": "A alegoria em que prisioneiros tomam sombras por realidade; representa a passagem da opinião ao conhecimento verdadeiro."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-03",
+   "frente": "O que é o mundo das ideias, para Platão?",
+   "verso": "O plano das formas perfeitas e imutáveis, das quais o mundo sensível é apenas cópia imperfeita."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-04",
+   "frente": "Qual é a diferença entre doxa e episteme em Platão?",
+   "verso": "Doxa é a opinião, mutável e baseada nos sentidos; episteme é o conhecimento verdadeiro, alcançado pela razão."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-05",
+   "frente": "O que é a maiêutica socrática?",
+   "verso": "O método de fazer perguntas que levam o interlocutor a 'dar à luz' o conhecimento que já trazia em si."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-06",
+   "frente": "O que significa 'só sei que nada sei'?",
+   "verso": "O reconhecimento da própria ignorância como ponto de partida indispensável para a busca do saber."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-07",
+   "frente": "Quem eram os sofistas, e o que defendiam?",
+   "verso": "Mestres de retórica que ensinavam a arte de convencer; sustentavam o relativismo, resumido em 'o homem é a medida de todas as coisas'."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-08",
+   "frente": "O que é a dúvida metódica de Descartes?",
+   "verso": "O procedimento de duvidar de tudo o que possa ser posto em dúvida, até encontrar uma verdade indubitável."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-09",
+   "frente": "O que é o cogito cartesiano?",
+   "verso": "'Penso, logo existo' — a primeira certeza indubitável, pois mesmo ao duvidar já se está pensando."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-10",
+   "frente": "O que caracteriza o racionalismo?",
+   "verso": "A tese de que a razão é a fonte principal do conhecimento verdadeiro, com ideias inatas independentes da experiência."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-11",
+   "frente": "O que caracteriza o empirismo?",
+   "verso": "A tese de que todo conhecimento provém da experiência sensível — a mente nasce como 'tábula rasa'."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-12",
+   "frente": "Qual é a crítica de Hume à causalidade?",
+   "verso": "Não percebemos a conexão necessária entre causa e efeito, apenas a sucessão constante — a causalidade é hábito, não certeza."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-13",
+   "frente": "O que é o problema da indução, levantado por Hume?",
+   "verso": "Nenhuma quantidade de observações particulares garante logicamente a validade de uma lei geral."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-14",
+   "frente": "Como Kant sintetiza racionalismo e empirismo?",
+   "verso": "O conhecimento começa com a experiência, mas é organizado por formas a priori da sensibilidade e do entendimento."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-15",
+   "frente": "Qual é a diferença entre a priori e a posteriori?",
+   "verso": "A priori é independente da experiência; a posteriori depende dela."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-16",
+   "frente": "O que Kant chama de 'revolução copernicana' na filosofia?",
+   "verso": "A inversão segundo a qual não é o conhecimento que se ajusta ao objeto, mas o objeto que se conforma às estruturas do sujeito."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-17",
+   "frente": "Qual é a distinção kantiana entre fenômeno e númeno?",
+   "verso": "O fenômeno é a coisa como nos aparece; o númeno é a coisa em si, inacessível ao conhecimento humano."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-18",
+   "frente": "O que é o ceticismo filosófico?",
+   "verso": "A posição que suspende o juízo sobre a possibilidade de alcançar conhecimento certo."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-19",
+   "frente": "O que é a lógica, como disciplina?",
+   "verso": "O estudo das formas válidas de raciocínio, independentemente do conteúdo das proposições."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-20",
+   "frente": "O que é um silogismo?",
+   "verso": "O raciocínio dedutivo com duas premissas e uma conclusão que delas decorre necessariamente."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-21",
+   "frente": "Qual é a diferença entre validade e verdade num argumento?",
+   "verso": "A validade diz respeito à FORMA (a conclusão decorre das premissas); a verdade diz respeito ao CONTEÚDO das proposições."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-22",
+   "frente": "Um argumento válido pode ter conclusão falsa?",
+   "verso": "Sim, se alguma premissa for falsa — a validade garante apenas que, sendo as premissas verdadeiras, a conclusão também será."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-23",
+   "frente": "Qual é a diferença entre dedução e indução?",
+   "verso": "A dedução vai do geral ao particular com conclusão necessária; a indução vai do particular ao geral com conclusão apenas provável."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-24",
+   "frente": "O que é uma falácia?",
+   "verso": "Um raciocínio que aparenta validade mas não sustenta a conclusão, por erro lógico ou por manipulação."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-25",
+   "frente": "O que é a falácia ad hominem?",
+   "verso": "Atacar quem sustenta o argumento em vez do argumento em si."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-26",
+   "frente": "O que é a falácia do apelo à autoridade?",
+   "verso": "Sustentar uma tese apenas invocando quem a defende, sem apresentar as razões que a fundamentam."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-27",
+   "frente": "O que é o princípio da não contradição?",
+   "verso": "Uma proposição e sua negação não podem ser ambas verdadeiras no mesmo sentido e ao mesmo tempo."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-28",
+   "frente": "O que caracteriza o método científico moderno?",
+   "verso": "A formulação de hipóteses testáveis, a experimentação controlada e a revisão pública dos resultados."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-29",
+   "frente": "O que é o falseacionismo de Karl Popper?",
+   "verso": "O critério segundo o qual uma teoria é científica se puder ser refutada por experimento — não se busca confirmar, mas falsear."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-30",
+   "frente": "Por que, para Popper, a confirmação não basta para validar uma teoria?",
+   "verso": "Porque muitas observações favoráveis não provam a lei, mas um único contraexemplo a refuta."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-31",
+   "frente": "O que é um paradigma científico, segundo Thomas Kuhn?",
+   "verso": "O conjunto de pressupostos e práticas partilhados por uma comunidade científica num dado período."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-32",
+   "frente": "O que é uma revolução científica, para Kuhn?",
+   "verso": "A substituição de um paradigma por outro incompatível, quando as anomalias acumuladas tornam o antigo insustentável."
+  },
+  {
+   "id": "flash-filosofia-conhecimento-logica-33",
+   "frente": "Qual é a diferença entre ciência normal e ciência revolucionária em Kuhn?",
+   "verso": "A normal resolve problemas dentro do paradigma vigente; a revolucionária substitui o próprio paradigma."
+  }
+ ],
+ "sociologia-instituicoes-movimentos": [
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-01",
+   "frente": "O que é uma instituição social?",
+   "verso": "O conjunto estável de normas, papéis e práticas que organiza uma área da vida social, como família, escola, religião e Estado."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-02",
+   "frente": "Qual é a função da família como instituição social?",
+   "verso": "A socialização primária, a transmissão de valores e a reprodução social e cultural."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-03",
+   "frente": "Como a estrutura familiar mudou nas últimas décadas?",
+   "verso": "Diversificou-se: além da nuclear, tornaram-se comuns famílias monoparentais, recompostas, homoafetivas e unipessoais."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-04",
+   "frente": "Qual é a função social da escola?",
+   "verso": "Transmitir conhecimento, socializar e, segundo a crítica sociológica, também reproduzir desigualdades de origem."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-05",
+   "frente": "O que é currículo oculto?",
+   "verso": "O conjunto de valores e comportamentos transmitidos pela escola de forma implícita, fora do currículo formal."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-06",
+   "frente": "O que é laicidade do Estado?",
+   "verso": "A separação entre Estado e religião, com neutralidade estatal e garantia de liberdade de crença a todos."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-07",
+   "frente": "Qual é a diferença entre Estado laico e Estado ateu?",
+   "verso": "O laico é neutro e garante todas as crenças; o ateu nega ou combate a religião."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-08",
+   "frente": "O que é secularização?",
+   "verso": "O processo de perda de influência da religião sobre as demais esferas da vida social."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-09",
+   "frente": "O que é um movimento social?",
+   "verso": "A ação coletiva organizada e duradoura que busca transformar ou preservar aspectos da ordem social."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-10",
+   "frente": "O que distingue um movimento social de um protesto isolado?",
+   "verso": "A continuidade, a organização, a identidade coletiva e a existência de um projeto de mudança."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-11",
+   "frente": "Quais são os chamados novos movimentos sociais?",
+   "verso": "Os que emergem desde os anos 1960 em torno de identidade e direitos — feminista, negro, LGBTQIA+, ambientalista — e não apenas de classe."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-12",
+   "frente": "O que caracteriza o movimento feminista?",
+   "verso": "A luta por igualdade de direitos e pelo fim da opressão de gênero, organizada em ondas com pautas sucessivas."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-13",
+   "frente": "Que pautas marcaram a primeira e a segunda onda feminista?",
+   "verso": "A primeira lutou por direitos civis e sufrágio; a segunda, por direitos reprodutivos, trabalho e crítica ao patriarcado."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-14",
+   "frente": "O que caracteriza o movimento negro no Brasil?",
+   "verso": "A luta contra o racismo estrutural, pela memória da resistência negra e por políticas de reparação, como as cotas."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-15",
+   "frente": "O que foi o mito da democracia racial, e por que é criticado?",
+   "verso": "A ideia de convivência harmoniosa entre raças no Brasil; é criticada por ocultar o racismo estrutural e desmobilizar o enfrentamento."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-16",
+   "frente": "O que é racismo estrutural?",
+   "verso": "O racismo que opera nas instituições e nas práticas cotidianas, produzindo desigualdade mesmo sem intenção individual explícita."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-17",
+   "frente": "O que caracteriza o MST?",
+   "verso": "O movimento pela reforma agrária que ocupa terras improdutivas para pressionar pela função social da propriedade."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-18",
+   "frente": "O que caracteriza o movimento ambientalista?",
+   "verso": "A defesa da preservação e da justiça ambiental, articulando pauta ecológica e crítica ao modelo de desenvolvimento."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-19",
+   "frente": "Qual é o papel do movimento sindical?",
+   "verso": "Representar os trabalhadores na negociação coletiva e na defesa de direitos trabalhistas."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-20",
+   "frente": "O que é ciberativismo?",
+   "verso": "A mobilização política organizada por meios digitais, capaz de rápida difusão mas frequentemente de menor continuidade organizativa."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-21",
+   "frente": "Quais são os três tipos de direitos, segundo T. H. Marshall?",
+   "verso": "Civis, políticos e sociais, conquistados historicamente nessa sequência."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-22",
+   "frente": "O que são direitos civis, na classificação de Marshall?",
+   "verso": "Os direitos individuais de liberdade — ir e vir, expressão, propriedade e igualdade perante a lei."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-23",
+   "frente": "O que são direitos políticos?",
+   "verso": "Os que garantem participação no poder: votar, ser votado e organizar-se politicamente."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-24",
+   "frente": "O que são direitos sociais?",
+   "verso": "Os que asseguram bem-estar mínimo: saúde, educação, moradia, trabalho e previdência."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-25",
+   "frente": "Por que a sequência de Marshall não se aplica exatamente ao Brasil?",
+   "verso": "Porque aqui os direitos sociais foram concedidos antes da plena consolidação dos direitos civis e políticos — a chamada cidadania regulada."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-26",
+   "frente": "O que é cidadania regulada, conceito de Wanderley Guilherme dos Santos?",
+   "verso": "A cidadania vinculada à profissão reconhecida pelo Estado, e não a um direito universal do cidadão."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-27",
+   "frente": "O que é o Estado de bem-estar social?",
+   "verso": "O modelo em que o Estado garante direitos sociais universais por meio de políticas públicas e tributação redistributiva."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-28",
+   "frente": "O que é uma política pública?",
+   "verso": "A ação planejada do Estado para enfrentar um problema coletivo, com objetivos, recursos e avaliação definidos."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-29",
+   "frente": "Qual é a diferença entre política universal e política focalizada?",
+   "verso": "A universal atende a todos os cidadãos, como o SUS; a focalizada atende a um público específico, como o Bolsa Família."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-30",
+   "frente": "O que é controle social sobre as políticas públicas?",
+   "verso": "A participação organizada da sociedade na formulação e fiscalização das políticas, por conselhos e conferências."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-31",
+   "frente": "O que são os conselhos de políticas públicas?",
+   "verso": "Órgãos paritários entre Estado e sociedade civil que deliberam e fiscalizam políticas em áreas como saúde e assistência social."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-32",
+   "frente": "O que é sociedade civil organizada?",
+   "verso": "O conjunto de associações, sindicatos, ONGs e movimentos que atuam politicamente fora do aparelho estatal."
+  },
+  {
+   "id": "flash-sociologia-instituicoes-movimentos-33",
+   "frente": "O que é participação social, e por que ela é considerada essencial à democracia?",
+   "verso": "É o envolvimento dos cidadãos nas decisões públicas; amplia a legitimidade e reduz a distância entre governantes e governados."
+  }
+ ],
+ "artes-classica-moderna": [
+  {
+   "id": "flash-artes-classica-moderna-01",
+   "frente": "O que caracteriza a arte do Renascimento?",
+   "verso": "O antropocentrismo, o realismo anatômico, a perspectiva linear e a retomada dos ideais greco-romanos de harmonia e proporção."
+  },
+  {
+   "id": "flash-artes-classica-moderna-02",
+   "frente": "O que é a perspectiva linear renascentista?",
+   "verso": "A técnica que cria ilusão de profundidade fazendo as linhas convergirem para um ponto de fuga."
+  },
+  {
+   "id": "flash-artes-classica-moderna-03",
+   "frente": "O que é o mecenato, e qual foi seu papel no Renascimento?",
+   "verso": "O patrocínio de artistas por nobres, banqueiros e pela Igreja, que financiou a produção artística em troca de prestígio."
+  },
+  {
+   "id": "flash-artes-classica-moderna-04",
+   "frente": "Que obras marcam a produção de Leonardo da Vinci?",
+   "verso": "'Mona Lisa' e 'A Última Ceia', em que emprega o sfumato e a composição rigorosamente equilibrada."
+  },
+  {
+   "id": "flash-artes-classica-moderna-05",
+   "frente": "O que é o sfumato?",
+   "verso": "A técnica de contornos esfumaçados, sem linhas nítidas, que produz transições suaves entre luz e sombra."
+  },
+  {
+   "id": "flash-artes-classica-moderna-06",
+   "frente": "O que caracteriza a obra de Michelangelo?",
+   "verso": "O vigor escultórico e anatômico, visível no 'Davi' e no teto da Capela Sistina."
+  },
+  {
+   "id": "flash-artes-classica-moderna-07",
+   "frente": "O que caracteriza a arte barroca?",
+   "verso": "O dramatismo, o contraste intenso de luz e sombra, o movimento e a intenção de emocionar o fiel."
+  },
+  {
+   "id": "flash-artes-classica-moderna-08",
+   "frente": "O que é o claro-escuro (chiaroscuro) barroco?",
+   "verso": "O contraste acentuado entre áreas iluminadas e sombreadas, que cria dramaticidade e direciona o olhar."
+  },
+  {
+   "id": "flash-artes-classica-moderna-09",
+   "frente": "Qual é a relação entre o Barroco e a Contrarreforma?",
+   "verso": "A Igreja Católica usou a arte emotiva e grandiosa como instrumento de reafirmação da fé diante do protestantismo."
+  },
+  {
+   "id": "flash-artes-classica-moderna-10",
+   "frente": "Quem foi Aleijadinho, e qual sua importância?",
+   "verso": "Antônio Francisco Lisboa, principal nome do Barroco brasileiro, autor dos Profetas de Congonhas e de igrejas mineiras."
+  },
+  {
+   "id": "flash-artes-classica-moderna-11",
+   "frente": "O que caracteriza o Rococó?",
+   "verso": "A leveza, os tons pastel, a ornamentação delicada e os temas galantes da aristocracia — sucede o Barroco."
+  },
+  {
+   "id": "flash-artes-classica-moderna-12",
+   "frente": "O que caracteriza o Neoclassicismo?",
+   "verso": "O retorno ao equilíbrio, à ordem e aos temas da Antiguidade clássica, associado ao Iluminismo e à Revolução Francesa."
+  },
+  {
+   "id": "flash-artes-classica-moderna-13",
+   "frente": "O que caracteriza o Romantismo na pintura?",
+   "verso": "A valorização da emoção, do sublime, da natureza indomada e dos temas históricos e nacionais."
+  },
+  {
+   "id": "flash-artes-classica-moderna-14",
+   "frente": "O que caracteriza o Realismo na pintura?",
+   "verso": "A representação do cotidiano e do trabalhador sem idealização, com crítica social — Courbet e Millet são referências."
+  },
+  {
+   "id": "flash-artes-classica-moderna-15",
+   "frente": "O que caracteriza o Impressionismo?",
+   "verso": "A captação da luz e do instante, com pinceladas soltas, cores puras e pintura ao ar livre."
+  },
+  {
+   "id": "flash-artes-classica-moderna-16",
+   "frente": "Por que o Impressionismo é considerado ruptura com a pintura acadêmica?",
+   "verso": "Porque abandona o acabamento, o tema histórico e o ateliê, valorizando a percepção momentânea sobre a representação fiel."
+  },
+  {
+   "id": "flash-artes-classica-moderna-17",
+   "frente": "Qual é a importância de Monet para o Impressionismo?",
+   "verso": "Deu nome ao movimento com 'Impressão, Nascer do Sol' e investigou a variação da luz em séries sobre o mesmo motivo."
+  },
+  {
+   "id": "flash-artes-classica-moderna-18",
+   "frente": "O que caracteriza a obra de Van Gogh?",
+   "verso": "A pincelada vigorosa e expressiva, a cor intensa e a carga emocional — antecipa o Expressionismo."
+  },
+  {
+   "id": "flash-artes-classica-moderna-19",
+   "frente": "Qual é a contribuição de Cézanne à arte moderna?",
+   "verso": "Reduziu as formas naturais a volumes geométricos, abrindo caminho para o Cubismo."
+  },
+  {
+   "id": "flash-artes-classica-moderna-20",
+   "frente": "O que caracteriza o Cubismo?",
+   "verso": "A decomposição do objeto em planos geométricos e sua representação simultânea de múltiplos pontos de vista."
+  },
+  {
+   "id": "flash-artes-classica-moderna-21",
+   "frente": "Qual é a importância de 'Guernica', de Picasso?",
+   "verso": "Denuncia o bombardeio da cidade basca na Guerra Civil Espanhola, tornando-se ícone universal contra a violência da guerra."
+  },
+  {
+   "id": "flash-artes-classica-moderna-22",
+   "frente": "O que caracteriza o Expressionismo?",
+   "verso": "A deformação da forma e o uso de cores intensas para expressar angústia e subjetividade — 'O Grito', de Munch, é seu emblema."
+  },
+  {
+   "id": "flash-artes-classica-moderna-23",
+   "frente": "O que caracteriza o Futurismo?",
+   "verso": "A exaltação da máquina, da velocidade e da vida moderna, com ruptura radical em relação ao passado."
+  },
+  {
+   "id": "flash-artes-classica-moderna-24",
+   "frente": "O que caracteriza o Dadaísmo?",
+   "verso": "O nonsense, a provocação e a negação da arte tradicional, como reação ao horror da Primeira Guerra."
+  },
+  {
+   "id": "flash-artes-classica-moderna-25",
+   "frente": "O que é um ready-made, e quem o criou?",
+   "verso": "O objeto industrial comum apresentado como obra de arte; foi criado por Marcel Duchamp, cujo 'Fonte' é o exemplo célebre."
+  },
+  {
+   "id": "flash-artes-classica-moderna-26",
+   "frente": "Por que o ready-made é um marco na história da arte?",
+   "verso": "Porque desloca o valor da obra da habilidade manual para a escolha e o contexto — o gesto do artista passa a ser conceitual."
+  },
+  {
+   "id": "flash-artes-classica-moderna-27",
+   "frente": "O que caracteriza o Surrealismo?",
+   "verso": "A exploração do inconsciente, do sonho e do automatismo, sob influência da psicanálise — Dalí e Magritte são referências."
+  },
+  {
+   "id": "flash-artes-classica-moderna-28",
+   "frente": "O que caracteriza o Abstracionismo?",
+   "verso": "O abandono da representação figurativa em favor de formas, cores e linhas autônomas."
+  },
+  {
+   "id": "flash-artes-classica-moderna-29",
+   "frente": "Qual é a diferença entre abstracionismo informal e geométrico?",
+   "verso": "O informal é gestual e expressivo, como em Kandinsky; o geométrico é racional e ordenado, como em Mondrian."
+  },
+  {
+   "id": "flash-artes-classica-moderna-30",
+   "frente": "Qual é a importância de Anita Malfatti para o modernismo brasileiro?",
+   "verso": "Sua exposição de 1917, atacada por Monteiro Lobato, tornou-se o estopim da mobilização que levou à Semana de 22."
+  },
+  {
+   "id": "flash-artes-classica-moderna-31",
+   "frente": "Qual é a importância de Tarsila do Amaral?",
+   "verso": "Deu forma visual ao movimento antropofágico com 'Abaporu' e 'Antropofagia', unindo vanguarda europeia e temática brasileira."
+  },
+  {
+   "id": "flash-artes-classica-moderna-32",
+   "frente": "O que caracteriza a obra de Candido Portinari?",
+   "verso": "A temática social e o retrato do trabalhador e do migrante brasileiro, como em 'Os Retirantes'."
+  },
+  {
+   "id": "flash-artes-classica-moderna-33",
+   "frente": "Qual é a contribuição de Oscar Niemeyer à arquitetura?",
+   "verso": "A exploração da curva no concreto armado, com Brasília como maior realização de sua linguagem moderna."
+  },
+  {
+   "id": "flash-artes-classica-moderna-34",
+   "frente": "O que caracteriza a arquitetura modernista?",
+   "verso": "A funcionalidade, as linhas retas, os pilotis, o teto-jardim e a recusa ao ornamento — princípios sistematizados por Le Corbusier."
+  }
+ ],
+ "artes-audiovisual-midia": [
+  {
+   "id": "flash-artes-audiovisual-midia-01",
+   "frente": "O que é o plano, em linguagem cinematográfica?",
+   "verso": "A unidade de filmagem contínua, sem corte, entre o início e o fim da gravação."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-02",
+   "frente": "O que é o enquadramento?",
+   "verso": "A delimitação do que aparece no quadro, determinando o que o espectador vê e o que fica de fora."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-03",
+   "frente": "O que caracteriza o plano geral?",
+   "verso": "Mostra o ambiente amplo, situando a personagem no espaço e frequentemente diminuindo-a diante dele."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-04",
+   "frente": "O que caracteriza o close-up (primeiro plano)?",
+   "verso": "Enquadra o rosto ou detalhe, criando intimidade e destacando a emoção da personagem."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-05",
+   "frente": "O que é o plano-sequência?",
+   "verso": "A cena filmada em um único plano contínuo, sem cortes, criando sensação de tempo real."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-06",
+   "frente": "O que é o plongée e o contra-plongée?",
+   "verso": "Plongée filma de cima para baixo, diminuindo a personagem; contra-plongée filma de baixo para cima, engrandecendo-a."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-07",
+   "frente": "O que é montagem no cinema?",
+   "verso": "A organização e a articulação dos planos, que constrói o sentido, o ritmo e a narrativa do filme."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-08",
+   "frente": "O que demonstrou o efeito Kuleshov?",
+   "verso": "Que o sentido de um plano depende do plano vizinho — a montagem cria significado que não está em nenhum dos dois isoladamente."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-09",
+   "frente": "O que é a montagem paralela?",
+   "verso": "A alternância entre ações simultâneas em lugares distintos, criando tensão e relação entre elas."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-10",
+   "frente": "Qual é a função da trilha sonora num filme?",
+   "verso": "Criar atmosfera, orientar a emoção do espectador e sinalizar o gênero e o ritmo da cena."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-11",
+   "frente": "Qual é a diferença entre som diegético e extradiegético?",
+   "verso": "O diegético existe no mundo da história e as personagens o ouvem; o extradiegético só o espectador ouve, como a trilha."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-12",
+   "frente": "O que é a fotografia de um filme?",
+   "verso": "O tratamento de luz, cor e composição, responsável pela atmosfera visual e por parte do sentido da obra."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-13",
+   "frente": "O que foi o Cinema Novo?",
+   "verso": "O movimento brasileiro dos anos 1960 que buscava um cinema crítico e nacional, com o lema 'uma câmera na mão e uma ideia na cabeça'."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-14",
+   "frente": "Quais eram os temas centrais do Cinema Novo?",
+   "verso": "A seca, o sertão, a fome, a favela e a desigualdade — o Brasil real que o cinema industrial ignorava."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-15",
+   "frente": "Qual é a importância de Glauber Rocha?",
+   "verso": "Principal cineasta e teórico do Cinema Novo, autor de 'Deus e o Diabo na Terra do Sol' e do manifesto 'Estética da Fome'."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-16",
+   "frente": "O que propõe a 'Estética da Fome', de Glauber Rocha?",
+   "verso": "Que a precariedade dos meios seja transformada em força expressiva, recusando o padrão técnico do cinema colonizador."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-17",
+   "frente": "O que caracteriza o documentário como gênero?",
+   "verso": "A intenção de representar o mundo real, o que não elimina o recorte, o ponto de vista e a construção do realizador."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-18",
+   "frente": "Um documentário é neutro?",
+   "verso": "Não — seleção, montagem, enquadramento e narração constroem uma interpretação da realidade, não seu reflexo direto."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-19",
+   "frente": "O que é a fotografia como linguagem artística?",
+   "verso": "A produção de imagens por captação de luz, cuja expressividade depende de enquadramento, luz, momento e ponto de vista."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-20",
+   "frente": "O que é o 'instante decisivo', de Cartier-Bresson?",
+   "verso": "O momento exato em que forma e conteúdo se organizam de modo significativo diante da câmera."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-21",
+   "frente": "Qual é a importância de Sebastião Salgado?",
+   "verso": "Fotógrafo brasileiro reconhecido por ensaios sobre trabalho, migração e natureza, com estética marcante em preto e branco."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-22",
+   "frente": "Qual é o debate ético em torno da fotografia de sofrimento humano?",
+   "verso": "Se ela denuncia e mobiliza, ou se estetiza a dor alheia e a transforma em consumo visual."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-23",
+   "frente": "O que Walter Benjamin discute em 'A Obra de Arte na Era de sua Reprodutibilidade Técnica'?",
+   "verso": "Como a reprodução em massa destrói a aura da obra única e transforma a relação do público com a arte."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-24",
+   "frente": "O que é a 'aura' de uma obra, segundo Benjamin?",
+   "verso": "O caráter único, ritual e irrepetível ligado ao aqui e agora do original, perdido com a reprodução técnica."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-25",
+   "frente": "Que possibilidade política Benjamin vê na reprodutibilidade técnica?",
+   "verso": "A democratização do acesso à arte e o potencial emancipador do cinema, ao lado do risco de estetização da política."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-26",
+   "frente": "O que é videoarte, e como difere do cinema?",
+   "verso": "É a arte que usa o vídeo como meio expressivo, sem compromisso com narrativa, duração convencional ou exibição em sala."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-27",
+   "frente": "Qual é a importância da televisão na formação cultural brasileira?",
+   "verso": "Foi o principal meio de integração nacional e formação de repertório comum a partir dos anos 1960, com a telenovela como gênero central."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-28",
+   "frente": "O que caracteriza a telenovela como gênero audiovisual?",
+   "verso": "A narrativa seriada de longa duração, com múltiplas tramas e forte interação com a audiência e a agenda social."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-29",
+   "frente": "Como o streaming alterou o consumo audiovisual?",
+   "verso": "Substituiu a grade fixa pela escolha sob demanda, fragmentou a audiência e alterou os formatos de produção."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-30",
+   "frente": "Qual é o efeito do algoritmo de recomendação sobre o consumo cultural?",
+   "verso": "Personaliza a oferta e amplia o consumo, mas tende a estreitar a exposição à diversidade cultural."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-31",
+   "frente": "O que é convergência das mídias?",
+   "verso": "A integração de suportes e linguagens antes separados num mesmo ambiente digital, com o público também produzindo conteúdo."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-32",
+   "frente": "O que é a cultura da participação nas mídias digitais?",
+   "verso": "O regime em que o público deixa de ser apenas receptor e passa a criar, remixar e distribuir conteúdo."
+  },
+  {
+   "id": "flash-artes-audiovisual-midia-33",
+   "frente": "O que é um deepfake, e qual seu impacto?",
+   "verso": "O vídeo manipulado por inteligência artificial que simula falas e imagens reais, ameaçando a confiança na evidência audiovisual."
+  }
+ ],
+ "artes-patrimonio-cultura-popular": [
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-01",
+   "frente": "O que é patrimônio cultural?",
+   "verso": "O conjunto de bens materiais e imateriais portadores de referência à identidade e à memória de um grupo social."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-02",
+   "frente": "Qual é a diferença entre patrimônio material e imaterial?",
+   "verso": "O material são bens físicos, como edifícios e obras; o imaterial são práticas, saberes, festas e formas de expressão."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-03",
+   "frente": "O que é tombamento?",
+   "verso": "O ato administrativo que reconhece o valor cultural de um bem material e o protege legalmente contra destruição e descaracterização."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-04",
+   "frente": "O que é o registro, em contraste com o tombamento?",
+   "verso": "O instrumento de proteção do patrimônio IMATERIAL, que documenta a prática e apoia sua continuidade, sem congelá-la."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-05",
+   "frente": "Qual é a função do IPHAN?",
+   "verso": "É o órgão federal responsável por identificar, proteger e promover o patrimônio cultural brasileiro."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-06",
+   "frente": "O que é o patrimônio mundial da UNESCO?",
+   "verso": "A lista de bens de valor universal excepcional, cuja preservação é considerada interesse de toda a humanidade."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-07",
+   "frente": "Cite exemplos de patrimônio mundial no Brasil.",
+   "verso": "Ouro Preto, o centro histórico de Salvador, Brasília, o Santuário de Congonhas e as ruínas de São Miguel das Missões."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-08",
+   "frente": "Que bens imateriais brasileiros são reconhecidos pela UNESCO?",
+   "verso": "A capoeira, o frevo, o samba de roda do Recôncavo e o Círio de Nazaré, entre outros."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-09",
+   "frente": "Por que o patrimônio imaterial exige política de preservação diferente do material?",
+   "verso": "Porque depende de pessoas que continuem praticando o saber — preservá-lo é sustentar a transmissão viva, não conservar um objeto."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-10",
+   "frente": "O que é cultura popular?",
+   "verso": "O conjunto de manifestações produzidas pelas camadas populares, transmitidas por tradição oral e prática coletiva."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-11",
+   "frente": "Qual é a diferença entre cultura popular e cultura de massa?",
+   "verso": "A popular é produzida pelo próprio povo em seus contextos; a de massa é produzida industrialmente para consumo amplo."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-12",
+   "frente": "O que caracteriza o folclore?",
+   "verso": "O conjunto de tradições, lendas, festas e saberes transmitidos oralmente e reelaborados a cada geração."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-13",
+   "frente": "O que caracteriza a literatura de cordel?",
+   "verso": "Os folhetos populares nordestinos em versos rimados, tradicionalmente vendidos em feiras e ilustrados por xilogravura."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-14",
+   "frente": "O que é a xilogravura?",
+   "verso": "A técnica de gravura em madeira, tradicionalmente usada nas capas do cordel nordestino."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-15",
+   "frente": "O que é o bumba meu boi?",
+   "verso": "O auto popular que encena a morte e a ressurreição do boi, com forte presença no Maranhão e reconhecido como patrimônio."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-16",
+   "frente": "O que é a congada?",
+   "verso": "A manifestação afro-brasileira que encena a coroação de reis do Congo, unindo dança, música e religiosidade."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-17",
+   "frente": "O que é a capoeira?",
+   "verso": "A prática afro-brasileira que une luta, dança, música e jogo, criada por africanos escravizados e hoje patrimônio imaterial."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-18",
+   "frente": "Por que a capoeira foi criminalizada no Brasil?",
+   "verso": "Foi tipificada como crime no Código Penal de 1890, em política de repressão às práticas culturais negras após a abolição."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-19",
+   "frente": "O que caracteriza as festas juninas?",
+   "verso": "A celebração de origem ibérica associada aos santos de junho, reelaborada com quadrilha, comidas de milho e fogueira."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-20",
+   "frente": "O que é o Círio de Nazaré?",
+   "verso": "A grande procissão religiosa de Belém do Pará, uma das maiores manifestações católicas do mundo, reconhecida pela UNESCO."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-21",
+   "frente": "O que caracteriza o artesanato como expressão cultural?",
+   "verso": "A produção manual que transmite saberes tradicionais e expressa a identidade e os materiais de um território."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-22",
+   "frente": "O que é um 'mestre' na cultura popular?",
+   "verso": "O detentor e transmissor de um saber tradicional, cuja autoridade vem do reconhecimento da comunidade."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-23",
+   "frente": "Que política reconhece os mestres da cultura popular no Brasil?",
+   "verso": "O registro de 'Mestres dos Saberes' e leis de patrimônio vivo, que buscam apoiar quem sustenta a transmissão desses saberes."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-24",
+   "frente": "O que caracteriza a arte indígena brasileira?",
+   "verso": "A integração entre função, ritual e estética, com grafismos, cerâmica, plumária e cestaria carregados de significado cosmológico."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-25",
+   "frente": "Por que o grafismo indígena não é mero ornamento?",
+   "verso": "Porque codifica identidade, pertencimento a clãs, mitologia e status — é linguagem, não decoração."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-26",
+   "frente": "O que caracteriza a arte afro-brasileira?",
+   "verso": "A herança das culturas africanas reelaborada no Brasil, presente na religiosidade, na música, na dança e nas artes visuais."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-27",
+   "frente": "Qual é a importância do candomblé e da umbanda para o patrimônio cultural?",
+   "verso": "São religiões de matriz africana que preservam línguas, músicas, saberes e práticas rituais fundamentais à cultura brasileira."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-28",
+   "frente": "O que foi a Lei 10.639/2003?",
+   "verso": "A lei que tornou obrigatório o ensino de história e cultura afro-brasileira e africana na educação básica."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-29",
+   "frente": "O que é apropriação cultural, no debate sobre cultura popular?",
+   "verso": "O uso de elementos de culturas subalternizadas por grupos dominantes, sem crédito nem contexto, frequentemente com fim comercial."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-30",
+   "frente": "O que é a memória social, e qual sua relação com o patrimônio?",
+   "verso": "É a construção coletiva do passado; o patrimônio é o suporte material e simbólico que a sustenta e a disputa."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-31",
+   "frente": "Por que a definição do que é patrimônio é uma disputa política?",
+   "verso": "Porque escolher o que preservar define quais memórias e identidades são reconhecidas e quais são apagadas."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-32",
+   "frente": "Que crítica se faz ao patrimônio brasileiro tombado até meados do século XX?",
+   "verso": "Privilegiou o legado da elite branca e católica, deixando de fora referências indígenas, negras e populares."
+  },
+  {
+   "id": "flash-artes-patrimonio-cultura-popular-33",
+   "frente": "O que o incêndio do Museu Nacional em 2018 revelou?",
+   "verso": "A fragilidade do investimento público na preservação da memória e a perda irreversível de acervos científicos e culturais."
+  }
+ ],
+ "artes-musica-cena": [
+  {
+   "id": "flash-artes-musica-cena-01",
+   "frente": "Quais são os três elementos fundamentais da música?",
+   "verso": "Melodia, harmonia e ritmo."
+  },
+  {
+   "id": "flash-artes-musica-cena-02",
+   "frente": "O que é melodia?",
+   "verso": "A sucessão de sons de alturas diferentes organizada no tempo, formando uma linha musical reconhecível."
+  },
+  {
+   "id": "flash-artes-musica-cena-03",
+   "frente": "O que é harmonia?",
+   "verso": "A combinação simultânea de sons, formando acordes que sustentam a melodia."
+  },
+  {
+   "id": "flash-artes-musica-cena-04",
+   "frente": "O que é ritmo, em música?",
+   "verso": "A organização dos sons e silêncios no tempo, definindo a pulsação e o andamento."
+  },
+  {
+   "id": "flash-artes-musica-cena-05",
+   "frente": "O que é timbre?",
+   "verso": "A qualidade que permite distinguir a mesma nota tocada por instrumentos ou vozes diferentes."
+  },
+  {
+   "id": "flash-artes-musica-cena-06",
+   "frente": "Como se classificam os instrumentos musicais?",
+   "verso": "Em cordas, sopros (madeiras e metais), percussão e teclas, além dos eletrônicos."
+  },
+  {
+   "id": "flash-artes-musica-cena-07",
+   "frente": "O que caracteriza a música erudita?",
+   "verso": "A tradição escrita, a complexidade formal e a execução por orquestras e conjuntos de câmara."
+  },
+  {
+   "id": "flash-artes-musica-cena-08",
+   "frente": "Qual é a importância de Heitor Villa-Lobos?",
+   "verso": "Uniu a tradição erudita europeia a elementos folclóricos brasileiros, como nas 'Bachianas Brasileiras'."
+  },
+  {
+   "id": "flash-artes-musica-cena-09",
+   "frente": "O que caracteriza o samba?",
+   "verso": "O ritmo sincopado de matriz africana, nascido nas comunidades negras do Rio, que se tornou símbolo da identidade nacional."
+  },
+  {
+   "id": "flash-artes-musica-cena-10",
+   "frente": "O que caracteriza o choro?",
+   "verso": "O gênero instrumental brasileiro do fim do século XIX, virtuosístico e improvisatório, com flauta, cavaquinho e violão."
+  },
+  {
+   "id": "flash-artes-musica-cena-11",
+   "frente": "O que caracteriza a Bossa Nova?",
+   "verso": "A batida sincopada do violão, o canto contido e a harmonia sofisticada — 'Chega de Saudade' marca seu início."
+  },
+  {
+   "id": "flash-artes-musica-cena-12",
+   "frente": "Qual foi o contexto da Bossa Nova?",
+   "verso": "O Brasil desenvolvimentista do fim dos anos 1950, com clima de otimismo e modernização urbana."
+  },
+  {
+   "id": "flash-artes-musica-cena-13",
+   "frente": "O que foi o movimento tropicalista na música?",
+   "verso": "A fusão de música brasileira com rock e vanguarda, com Caetano Veloso e Gilberto Gil, num gesto antropofágico e contestador."
+  },
+  {
+   "id": "flash-artes-musica-cena-14",
+   "frente": "Qual foi a relação da Tropicália com a ditadura militar?",
+   "verso": "Foi perseguida por sua contestação estética e comportamental; Caetano e Gil foram presos e exilados em 1969."
+  },
+  {
+   "id": "flash-artes-musica-cena-15",
+   "frente": "O que caracteriza a MPB?",
+   "verso": "O rótulo que reúne, a partir dos anos 1960, a canção brasileira de elaboração poética e diálogo com diversos gêneros."
+  },
+  {
+   "id": "flash-artes-musica-cena-16",
+   "frente": "O que caracteriza o frevo?",
+   "verso": "O ritmo acelerado do carnaval pernambucano, dançado com sombrinha, reconhecido como patrimônio imaterial pela UNESCO."
+  },
+  {
+   "id": "flash-artes-musica-cena-17",
+   "frente": "O que caracteriza o maracatu?",
+   "verso": "O cortejo pernambucano de matriz afro-brasileira, com percussão intensa e forte ligação com religiosidade e realeza negra."
+  },
+  {
+   "id": "flash-artes-musica-cena-18",
+   "frente": "O que caracteriza o forró?",
+   "verso": "O gênero nordestino de tríade sanfona, zabumba e triângulo, consolidado nacionalmente por Luiz Gonzaga."
+  },
+  {
+   "id": "flash-artes-musica-cena-19",
+   "frente": "O que caracteriza o rap e o hip-hop?",
+   "verso": "O rap é o canto falado sobre base rítmica; o hip-hop é a cultura que o abriga, com DJ, break e grafite, nascida nas periferias."
+  },
+  {
+   "id": "flash-artes-musica-cena-20",
+   "frente": "Qual é a função social do rap brasileiro?",
+   "verso": "Dar voz à periferia e denunciar racismo, violência policial e desigualdade, com os Racionais MC's como marco."
+  },
+  {
+   "id": "flash-artes-musica-cena-21",
+   "frente": "O que caracteriza o funk carioca?",
+   "verso": "O gênero de batida eletrônica nascido nos bailes das favelas cariocas, com forte disputa social sobre sua legitimidade cultural."
+  },
+  {
+   "id": "flash-artes-musica-cena-22",
+   "frente": "O que caracteriza o teatro como gênero?",
+   "verso": "O texto escrito para encenação, construído por diálogos e rubricas, realizado ao vivo diante do público."
+  },
+  {
+   "id": "flash-artes-musica-cena-23",
+   "frente": "Quais são os elementos essenciais do espetáculo teatral?",
+   "verso": "Texto, ator, espaço cênico e público — sem público, não há acontecimento teatral."
+  },
+  {
+   "id": "flash-artes-musica-cena-24",
+   "frente": "O que é a rubrica num texto dramático?",
+   "verso": "A indicação cênica do autor sobre cenário, gestos, entonação e movimentação."
+  },
+  {
+   "id": "flash-artes-musica-cena-25",
+   "frente": "Quais são as origens do teatro ocidental?",
+   "verso": "As festas gregas em honra a Dionísio, das quais derivam a tragédia e a comédia."
+  },
+  {
+   "id": "flash-artes-musica-cena-26",
+   "frente": "O que é a catarse, na tragédia grega?",
+   "verso": "A purificação das emoções do espectador pela vivência da piedade e do terror diante do destino do herói."
+  },
+  {
+   "id": "flash-artes-musica-cena-27",
+   "frente": "O que propõe o teatro épico de Brecht?",
+   "verso": "Romper a ilusão cênica e provocar o distanciamento crítico, para que o público reflita em vez de se identificar."
+  },
+  {
+   "id": "flash-artes-musica-cena-28",
+   "frente": "O que é o efeito de distanciamento brechtiano?",
+   "verso": "O conjunto de recursos que lembram ao espectador que ele assiste a uma representação, impedindo a imersão emocional."
+  },
+  {
+   "id": "flash-artes-musica-cena-29",
+   "frente": "Qual é a importância de Nelson Rodrigues no teatro brasileiro?",
+   "verso": "Modernizou a dramaturgia nacional com 'Vestido de Noiva' e expôs a hipocrisia moral da família brasileira."
+  },
+  {
+   "id": "flash-artes-musica-cena-30",
+   "frente": "Qual foi a importância do Teatro de Arena e do Teatro Oficina?",
+   "verso": "Renovaram a cena brasileira nos anos 1950-60 com teatro político, engajado e formalmente experimental."
+  },
+  {
+   "id": "flash-artes-musica-cena-31",
+   "frente": "O que é o Teatro do Oprimido, de Augusto Boal?",
+   "verso": "O método que transforma o espectador em 'espect-ator', fazendo-o intervir na cena para ensaiar transformações da realidade."
+  },
+  {
+   "id": "flash-artes-musica-cena-32",
+   "frente": "O que caracteriza o balé clássico?",
+   "verso": "A técnica codificada, o rigor das posições, a leveza aparente e o repertório narrativo do século XIX."
+  },
+  {
+   "id": "flash-artes-musica-cena-33",
+   "frente": "O que caracteriza a dança contemporânea?",
+   "verso": "A liberdade de movimento, a recusa da técnica única, a mistura de linguagens e a exploração expressiva do corpo."
+  },
+  {
+   "id": "flash-artes-musica-cena-34",
+   "frente": "Qual é a relação entre dança e cultura popular brasileira?",
+   "verso": "Manifestações como frevo, maracatu, congada e capoeira integram dança, música e ritual numa mesma prática coletiva."
+  }
+ ],
+ "artes-contemporanea": [
+  {
+   "id": "flash-artes-contemporanea-01",
+   "frente": "O que marca a passagem da arte moderna para a contemporânea?",
+   "verso": "O deslocamento do foco do objeto acabado para o conceito, o processo e a experiência do espectador."
+  },
+  {
+   "id": "flash-artes-contemporanea-02",
+   "frente": "O que caracteriza a arte contemporânea?",
+   "verso": "A pluralidade de linguagens e suportes, a ênfase conceitual, a participação do público e o apagamento das fronteiras entre gêneros."
+  },
+  {
+   "id": "flash-artes-contemporanea-03",
+   "frente": "O que é arte conceitual?",
+   "verso": "Aquela em que a ideia é mais importante que a realização material — o objeto pode até ser dispensável."
+  },
+  {
+   "id": "flash-artes-contemporanea-04",
+   "frente": "O que é uma instalação artística?",
+   "verso": "A obra concebida para ocupar e transformar um espaço, envolvendo o espectador em seu ambiente."
+  },
+  {
+   "id": "flash-artes-contemporanea-05",
+   "frente": "O que é performance, como linguagem artística?",
+   "verso": "A obra realizada com o corpo do artista em ação, diante do público, em que o acontecimento é a própria obra."
+  },
+  {
+   "id": "flash-artes-contemporanea-06",
+   "frente": "O que é happening?",
+   "verso": "O evento artístico que envolve a participação imprevisível do público, sem roteiro fixo nem resultado determinado."
+  },
+  {
+   "id": "flash-artes-contemporanea-07",
+   "frente": "O que é land art?",
+   "verso": "A intervenção artística na paisagem natural, usando a própria terra como matéria e suporte."
+  },
+  {
+   "id": "flash-artes-contemporanea-08",
+   "frente": "O que é body art?",
+   "verso": "A prática em que o corpo do artista é simultaneamente suporte, material e tema da obra."
+  },
+  {
+   "id": "flash-artes-contemporanea-09",
+   "frente": "O que é uma obra site-specific?",
+   "verso": "Aquela concebida para um lugar determinado, cujo sentido depende do espaço em que se encontra."
+  },
+  {
+   "id": "flash-artes-contemporanea-10",
+   "frente": "O que é videoarte?",
+   "verso": "A produção artística que utiliza o vídeo como meio expressivo, e não como registro documental."
+  },
+  {
+   "id": "flash-artes-contemporanea-11",
+   "frente": "O que foi o Concretismo nas artes visuais brasileiras?",
+   "verso": "O movimento dos anos 1950 que defendia a arte geométrica, racional e objetiva, sem expressão subjetiva."
+  },
+  {
+   "id": "flash-artes-contemporanea-12",
+   "frente": "O que foi o Neoconcretismo?",
+   "verso": "A dissidência carioca do Concretismo, que reintroduziu subjetividade, sensorialidade e participação do espectador."
+  },
+  {
+   "id": "flash-artes-contemporanea-13",
+   "frente": "Qual é a importância de Lygia Clark?",
+   "verso": "Suas obras exigem manipulação pelo público, como os 'Bichos', dissolvendo a fronteira entre obra e espectador."
+  },
+  {
+   "id": "flash-artes-contemporanea-14",
+   "frente": "O que são os Parangolés, de Hélio Oiticica?",
+   "verso": "Capas para vestir e dançar, que só se completam com o corpo em movimento do participante."
+  },
+  {
+   "id": "flash-artes-contemporanea-15",
+   "frente": "Qual é o conceito central da obra de Hélio Oiticica?",
+   "verso": "A superação do quadro em direção à experiência ambiental e participativa, com o espectador tornado 'participador'."
+  },
+  {
+   "id": "flash-artes-contemporanea-16",
+   "frente": "O que caracteriza a obra de Cildo Meireles?",
+   "verso": "A crítica política e a reflexão sobre circulação e valor, como em 'Inserções em Circuitos Ideológicos'."
+  },
+  {
+   "id": "flash-artes-contemporanea-17",
+   "frente": "O que caracteriza a obra de Adriana Varejão?",
+   "verso": "A investigação da história colonial brasileira por meio de azulejaria, carne exposta e cicatrizes da pintura."
+  },
+  {
+   "id": "flash-artes-contemporanea-18",
+   "frente": "O que caracteriza a obra de Ernesto Neto?",
+   "verso": "As instalações sensoriais e envolventes, com tecidos, especiarias e formas orgânicas que convidam ao toque."
+  },
+  {
+   "id": "flash-artes-contemporanea-19",
+   "frente": "O que é a Tropicália, no campo das artes visuais?",
+   "verso": "A instalação de Hélio Oiticica de 1967 que deu nome ao movimento, articulando ambiente, cultura popular e crítica ao Brasil-imagem."
+  },
+  {
+   "id": "flash-artes-contemporanea-20",
+   "frente": "Qual é a função de um curador numa exposição?",
+   "verso": "Selecionar as obras, articular um conceito e definir o percurso e a montagem que produzem sentido no conjunto."
+  },
+  {
+   "id": "flash-artes-contemporanea-21",
+   "frente": "O que é uma bienal de arte?",
+   "verso": "A grande mostra periódica que reúne produção internacional e consagra tendências; a de São Paulo é a segunda mais antiga do mundo."
+  },
+  {
+   "id": "flash-artes-contemporanea-22",
+   "frente": "Qual é a importância do MASP na arte brasileira?",
+   "verso": "Reúne o mais relevante acervo de arte europeia da América Latina e inovou na expografia com os cavaletes de vidro de Lina Bo Bardi."
+  },
+  {
+   "id": "flash-artes-contemporanea-23",
+   "frente": "O que é Inhotim?",
+   "verso": "O museu a céu aberto em Minas Gerais que integra arte contemporânea e jardim botânico, com pavilhões site-specific."
+  },
+  {
+   "id": "flash-artes-contemporanea-24",
+   "frente": "Qual é o papel do circuito de arte (museus, galerias, críticos) na definição do que é arte?",
+   "verso": "É ele que legitima e valida a obra — na arte contemporânea, o contexto institucional integra a própria definição de arte."
+  },
+  {
+   "id": "flash-artes-contemporanea-25",
+   "frente": "O que é a arte de rua (street art)?",
+   "verso": "A produção realizada no espaço urbano, fora das instituições, com forte apelo público e frequente teor crítico."
+  },
+  {
+   "id": "flash-artes-contemporanea-26",
+   "frente": "Qual é a diferença entre grafite e pichação?",
+   "verso": "O grafite é reconhecido como expressão artística e pode ser autorizado; a pichação é caracterizada como intervenção não autorizada."
+  },
+  {
+   "id": "flash-artes-contemporanea-27",
+   "frente": "Quem são Os Gêmeos?",
+   "verso": "A dupla de artistas paulistanos reconhecida internacionalmente por murais que unem grafite e imaginário brasileiro."
+  },
+  {
+   "id": "flash-artes-contemporanea-28",
+   "frente": "O que é arte digital?",
+   "verso": "A produção que utiliza meios computacionais como suporte e linguagem, incluindo obras interativas e generativas."
+  },
+  {
+   "id": "flash-artes-contemporanea-29",
+   "frente": "O que é a NFT no contexto da arte?",
+   "verso": "O registro digital de autenticidade e propriedade de uma obra, que criou um mercado próprio e um intenso debate sobre valor."
+  },
+  {
+   "id": "flash-artes-contemporanea-30",
+   "frente": "O que caracteriza a arte relacional?",
+   "verso": "Aquela cuja matéria é a relação humana e o encontro social produzido pela obra, e não o objeto."
+  },
+  {
+   "id": "flash-artes-contemporanea-31",
+   "frente": "Como a arte contemporânea aborda questões identitárias?",
+   "verso": "Dando voz a artistas antes marginalizados, que tematizam raça, gênero, sexualidade e território a partir da própria experiência."
+  },
+  {
+   "id": "flash-artes-contemporanea-32",
+   "frente": "O que é a decolonialidade nas artes?",
+   "verso": "A perspectiva crítica que questiona o cânone eurocêntrico e valoriza saberes e estéticas de povos colonizados."
+  },
+  {
+   "id": "flash-artes-contemporanea-33",
+   "frente": "Por que a arte contemporânea é frequentemente acusada de hermetismo?",
+   "verso": "Porque exige repertório conceitual e contexto para ser lida — sem eles, a obra pode parecer arbitrária ao público."
+  }
+ ],
+ "dh-fundamentos": [
+  {
+   "id": "flash-dh-fundamentos-01",
+   "frente": "O que são direitos humanos?",
+   "verso": "Os direitos inerentes a toda pessoa pela simples condição humana, independentemente de nacionalidade, raça, gênero, religião ou qualquer outra condição."
+  },
+  {
+   "id": "flash-dh-fundamentos-02",
+   "frente": "O que é a dignidade da pessoa humana?",
+   "verso": "O princípio segundo o qual toda pessoa tem valor em si mesma e não pode ser tratada como meio para fins alheios."
+  },
+  {
+   "id": "flash-dh-fundamentos-03",
+   "frente": "Qual é o status da dignidade da pessoa humana na Constituição de 1988?",
+   "verso": "É fundamento da República, previsto no artigo 1º, e serve de base interpretativa a todo o ordenamento jurídico."
+  },
+  {
+   "id": "flash-dh-fundamentos-04",
+   "frente": "Quais são as características centrais dos direitos humanos?",
+   "verso": "Universalidade, indivisibilidade, interdependência, inalienabilidade, imprescritibilidade e irrenunciabilidade."
+  },
+  {
+   "id": "flash-dh-fundamentos-05",
+   "frente": "O que significa a universalidade dos direitos humanos?",
+   "verso": "Valem para todas as pessoas, em qualquer lugar, sem necessidade de mérito ou contrapartida."
+  },
+  {
+   "id": "flash-dh-fundamentos-06",
+   "frente": "O que significa a indivisibilidade dos direitos humanos?",
+   "verso": "Formam um conjunto integrado: não se pode garantir direitos civis negando os sociais, nem o inverso."
+  },
+  {
+   "id": "flash-dh-fundamentos-07",
+   "frente": "O que significa a inalienabilidade dos direitos humanos?",
+   "verso": "Não podem ser vendidos, transferidos nem renunciados, mesmo por vontade do próprio titular."
+  },
+  {
+   "id": "flash-dh-fundamentos-08",
+   "frente": "O que significa a imprescritibilidade dos direitos humanos?",
+   "verso": "Não se perdem pela passagem do tempo nem pelo não exercício."
+  },
+  {
+   "id": "flash-dh-fundamentos-09",
+   "frente": "O que é a Declaração Universal dos Direitos Humanos?",
+   "verso": "O documento aprovado pela ONU em 1948 que estabeleceu, pela primeira vez, um rol universal de direitos a serem protegidos globalmente."
+  },
+  {
+   "id": "flash-dh-fundamentos-10",
+   "frente": "Qual foi o contexto histórico da DUDH de 1948?",
+   "verso": "O pós-Segunda Guerra e a revelação do Holocausto, que demonstraram a insuficiência do direito nacional para proteger a pessoa humana."
+  },
+  {
+   "id": "flash-dh-fundamentos-11",
+   "frente": "A Declaração Universal é juridicamente vinculante?",
+   "verso": "Não em si mesma, mas seus princípios foram incorporados a tratados obrigatórios e ao costume internacional."
+  },
+  {
+   "id": "flash-dh-fundamentos-12",
+   "frente": "O que são os direitos de primeira geração?",
+   "verso": "Os direitos civis e políticos — liberdade, propriedade, voto — que exigem abstenção do Estado; ligam-se ao ideal de LIBERDADE."
+  },
+  {
+   "id": "flash-dh-fundamentos-13",
+   "frente": "O que são os direitos de segunda geração?",
+   "verso": "Os direitos sociais, econômicos e culturais — saúde, educação, trabalho — que exigem prestação positiva do Estado; ligam-se à IGUALDADE."
+  },
+  {
+   "id": "flash-dh-fundamentos-14",
+   "frente": "O que são os direitos de terceira geração?",
+   "verso": "Os direitos difusos e coletivos — meio ambiente, paz, desenvolvimento, patrimônio comum; ligam-se à FRATERNIDADE."
+  },
+  {
+   "id": "flash-dh-fundamentos-15",
+   "frente": "Por que se prefere falar em 'dimensões' e não em 'gerações' de direitos?",
+   "verso": "Porque 'geração' sugere substituição de uma etapa por outra, quando na verdade os direitos se acumulam e se complementam."
+  },
+  {
+   "id": "flash-dh-fundamentos-16",
+   "frente": "O que é o jusnaturalismo?",
+   "verso": "A concepção de que existem direitos naturais anteriores e superiores ao Estado, que apenas os reconhece."
+  },
+  {
+   "id": "flash-dh-fundamentos-17",
+   "frente": "O que é o positivismo jurídico, em contraste com o jusnaturalismo?",
+   "verso": "A concepção de que só há direito quando posto pelo Estado — o direito válido é o efetivamente promulgado."
+  },
+  {
+   "id": "flash-dh-fundamentos-18",
+   "frente": "Qual é a relação entre a Revolução Francesa e os direitos humanos?",
+   "verso": "A Declaração dos Direitos do Homem e do Cidadão de 1789 consagrou liberdade, igualdade e propriedade como direitos naturais e imprescritíveis."
+  },
+  {
+   "id": "flash-dh-fundamentos-19",
+   "frente": "Qual foi a limitação histórica da Declaração de 1789?",
+   "verso": "Excluía mulheres, escravizados e não proprietários — a universalidade proclamada não correspondia à extensão real dos direitos."
+  },
+  {
+   "id": "flash-dh-fundamentos-20",
+   "frente": "Quem foi Olympe de Gouges?",
+   "verso": "Autora da 'Declaração dos Direitos da Mulher e da Cidadã' de 1791, que denunciou a exclusão feminina da Revolução Francesa; foi guilhotinada."
+  },
+  {
+   "id": "flash-dh-fundamentos-21",
+   "frente": "Quais são os dois principais pactos internacionais de 1966?",
+   "verso": "O Pacto Internacional dos Direitos Civis e Políticos e o dos Direitos Econômicos, Sociais e Culturais."
+  },
+  {
+   "id": "flash-dh-fundamentos-22",
+   "frente": "Por que os direitos foram divididos em dois pactos distintos em 1966?",
+   "verso": "Pela disputa da Guerra Fria: o bloco ocidental priorizava direitos civis e políticos, e o soviético, os sociais e econômicos."
+  },
+  {
+   "id": "flash-dh-fundamentos-23",
+   "frente": "O que é o sistema interamericano de direitos humanos?",
+   "verso": "O conjunto de órgãos da OEA que protege direitos no continente, formado pela Comissão e pela Corte Interamericana."
+  },
+  {
+   "id": "flash-dh-fundamentos-24",
+   "frente": "O que é o Pacto de San José da Costa Rica?",
+   "verso": "A Convenção Americana sobre Direitos Humanos, de 1969, principal tratado do sistema interamericano, ratificado pelo Brasil em 1992."
+  },
+  {
+   "id": "flash-dh-fundamentos-25",
+   "frente": "Qual é a diferença entre a Comissão e a Corte Interamericana?",
+   "verso": "A Comissão recebe petições e faz recomendações; a Corte julga casos e profere sentenças vinculantes aos Estados que aceitaram sua jurisdição."
+  },
+  {
+   "id": "flash-dh-fundamentos-26",
+   "frente": "Que efeito o Pacto de San José produziu no direito brasileiro?",
+   "verso": "Levou o STF a considerar ilícita a prisão civil do depositário infiel, prevalecendo o tratado sobre a legislação ordinária."
+  },
+  {
+   "id": "flash-dh-fundamentos-27",
+   "frente": "Qual é o status dos tratados de direitos humanos no ordenamento brasileiro?",
+   "verso": "Se aprovados pelo rito qualificado do artigo 5º, §3º, equivalem a emenda constitucional; os demais têm status supralegal."
+  },
+  {
+   "id": "flash-dh-fundamentos-28",
+   "frente": "O que é o Tribunal Penal Internacional?",
+   "verso": "A corte permanente criada pelo Estatuto de Roma para julgar genocídio, crimes contra a humanidade, crimes de guerra e agressão."
+  },
+  {
+   "id": "flash-dh-fundamentos-29",
+   "frente": "O que caracteriza um crime contra a humanidade?",
+   "verso": "O ataque generalizado ou sistemático contra população civil, como extermínio, tortura, escravidão e perseguição."
+  },
+  {
+   "id": "flash-dh-fundamentos-30",
+   "frente": "O que é genocídio?",
+   "verso": "O ato praticado com intenção de destruir, no todo ou em parte, grupo nacional, étnico, racial ou religioso."
+  },
+  {
+   "id": "flash-dh-fundamentos-31",
+   "frente": "Qual é a principal crítica ao relativismo cultural em direitos humanos?",
+   "verso": "Levado ao extremo, permite justificar práticas violadoras invocando tradição, esvaziando qualquer proteção universal."
+  },
+  {
+   "id": "flash-dh-fundamentos-32",
+   "frente": "O que é a justiça de transição?",
+   "verso": "O conjunto de medidas adotadas após regimes autoritários: verdade, memória, reparação, responsabilização e reformas institucionais."
+  },
+  {
+   "id": "flash-dh-fundamentos-33",
+   "frente": "O que foi a Comissão Nacional da Verdade no Brasil?",
+   "verso": "O órgão criado em 2011 para investigar as violações de direitos humanos entre 1946 e 1988, sobretudo na ditadura militar."
+  }
+ ],
+ "dh-constitucional": [
+  {
+   "id": "flash-dh-constitucional-01",
+   "frente": "Por que a Constituição de 1988 é chamada Constituição Cidadã?",
+   "verso": "Por consagrar amplo rol de direitos individuais, sociais e políticos e restabelecer as liberdades democráticas após a ditadura."
+  },
+  {
+   "id": "flash-dh-constitucional-02",
+   "frente": "Quais são os fundamentos da República na Constituição de 1988?",
+   "verso": "Soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, e pluralismo político."
+  },
+  {
+   "id": "flash-dh-constitucional-03",
+   "frente": "Quais são os objetivos fundamentais da República?",
+   "verso": "Construir uma sociedade livre, justa e solidária; garantir o desenvolvimento; erradicar a pobreza; e promover o bem de todos sem discriminação."
+  },
+  {
+   "id": "flash-dh-constitucional-04",
+   "frente": "O que é o Estado Democrático de Direito?",
+   "verso": "O regime que submete o poder à lei e à Constituição e o legitima pela soberania popular, com garantia de direitos fundamentais."
+  },
+  {
+   "id": "flash-dh-constitucional-05",
+   "frente": "O que são cláusulas pétreas?",
+   "verso": "Os núcleos da Constituição que não podem ser abolidos por emenda: forma federativa, voto direto e secreto, separação dos poderes e direitos e garantias individuais."
+  },
+  {
+   "id": "flash-dh-constitucional-06",
+   "frente": "Uma emenda constitucional pode reduzir direitos fundamentais?",
+   "verso": "Não pode aboli-los nem esvaziá-los, pois integram cláusula pétrea; alterações que tendam a suprimi-los são inconstitucionais."
+  },
+  {
+   "id": "flash-dh-constitucional-07",
+   "frente": "O que é o princípio da legalidade?",
+   "verso": "Ninguém é obrigado a fazer ou deixar de fazer algo senão em virtude de lei."
+  },
+  {
+   "id": "flash-dh-constitucional-08",
+   "frente": "Qual é a diferença entre legalidade para o cidadão e para a Administração Pública?",
+   "verso": "O cidadão pode fazer tudo o que a lei não proíbe; a Administração só pode fazer o que a lei autoriza."
+  },
+  {
+   "id": "flash-dh-constitucional-09",
+   "frente": "O que é o devido processo legal?",
+   "verso": "A garantia de que ninguém será privado da liberdade ou de seus bens sem processo conduzido conforme as regras estabelecidas."
+  },
+  {
+   "id": "flash-dh-constitucional-10",
+   "frente": "O que são o contraditório e a ampla defesa?",
+   "verso": "O direito de ser informado dos atos do processo, de se manifestar sobre eles e de usar todos os meios legítimos de defesa."
+  },
+  {
+   "id": "flash-dh-constitucional-11",
+   "frente": "O que é o princípio da presunção de inocência?",
+   "verso": "Ninguém será considerado culpado antes do trânsito em julgado de sentença penal condenatória."
+  },
+  {
+   "id": "flash-dh-constitucional-12",
+   "frente": "O que é o princípio da isonomia?",
+   "verso": "Todos são iguais perante a lei, sem distinção de qualquer natureza — o que inclui tratar desigualmente os desiguais na medida de sua desigualdade."
+  },
+  {
+   "id": "flash-dh-constitucional-13",
+   "frente": "O que é o habeas corpus?",
+   "verso": "O remédio constitucional que protege a liberdade de locomoção contra ilegalidade ou abuso de poder."
+  },
+  {
+   "id": "flash-dh-constitucional-14",
+   "frente": "O que é o mandado de segurança?",
+   "verso": "O remédio que protege direito líquido e certo não amparado por habeas corpus ou habeas data, contra ato ilegal de autoridade."
+  },
+  {
+   "id": "flash-dh-constitucional-15",
+   "frente": "O que é o habeas data?",
+   "verso": "O remédio que assegura o conhecimento e a retificação de informações sobre a pessoa constantes de bancos de dados públicos."
+  },
+  {
+   "id": "flash-dh-constitucional-16",
+   "frente": "O que é o mandado de injunção?",
+   "verso": "O remédio cabível quando a falta de norma regulamentadora inviabiliza o exercício de direito constitucional."
+  },
+  {
+   "id": "flash-dh-constitucional-17",
+   "frente": "O que é a ação popular?",
+   "verso": "A ação que permite a qualquer cidadão anular ato lesivo ao patrimônio público, à moralidade administrativa ou ao meio ambiente."
+  },
+  {
+   "id": "flash-dh-constitucional-18",
+   "frente": "O que é a ação civil pública?",
+   "verso": "A ação para proteger interesses difusos e coletivos, proposta pelo Ministério Público, pela Defensoria e por outros legitimados."
+  },
+  {
+   "id": "flash-dh-constitucional-19",
+   "frente": "Quais são os poderes da República e como se relacionam?",
+   "verso": "Executivo, Legislativo e Judiciário, independentes e harmônicos, com sistema de freios e contrapesos entre eles."
+  },
+  {
+   "id": "flash-dh-constitucional-20",
+   "frente": "O que é o sistema de freios e contrapesos?",
+   "verso": "O arranjo em que cada poder limita e fiscaliza os demais, impedindo a concentração de poder."
+  },
+  {
+   "id": "flash-dh-constitucional-21",
+   "frente": "Dê exemplos de freios e contrapesos na Constituição brasileira.",
+   "verso": "O veto presidencial a leis, a derrubada do veto pelo Congresso, o controle de constitucionalidade pelo STF e a aprovação de indicações pelo Senado."
+  },
+  {
+   "id": "flash-dh-constitucional-22",
+   "frente": "O que é o controle de constitucionalidade difuso?",
+   "verso": "Aquele exercido por qualquer juiz num caso concreto, com efeitos entre as partes."
+  },
+  {
+   "id": "flash-dh-constitucional-23",
+   "frente": "O que é o controle concentrado de constitucionalidade?",
+   "verso": "Aquele exercido pelo STF em ações próprias, como a ADI, com efeitos gerais e vinculantes."
+  },
+  {
+   "id": "flash-dh-constitucional-24",
+   "frente": "O que é uma ADI?",
+   "verso": "A Ação Direta de Inconstitucionalidade, que questiona lei ou ato normativo em tese perante o STF."
+  },
+  {
+   "id": "flash-dh-constitucional-25",
+   "frente": "O que é uma súmula vinculante?",
+   "verso": "O enunciado do STF de observância obrigatória para os demais órgãos do Judiciário e para a Administração Pública."
+  },
+  {
+   "id": "flash-dh-constitucional-26",
+   "frente": "O que caracteriza o federalismo brasileiro?",
+   "verso": "A união indissolúvel de estados, municípios e Distrito Federal, cada ente com autonomia política, administrativa e financeira."
+  },
+  {
+   "id": "flash-dh-constitucional-27",
+   "frente": "O que é o estado de defesa e o estado de sítio?",
+   "verso": "Medidas excepcionais que restringem temporariamente direitos para preservar a ordem, sujeitas a controle do Congresso e a limites constitucionais."
+  },
+  {
+   "id": "flash-dh-constitucional-28",
+   "frente": "A liberdade de expressão é absoluta na Constituição brasileira?",
+   "verso": "Não — convive com outros direitos, como honra, imagem e igualdade, e não protege discurso de ódio nem incitação à violência."
+  },
+  {
+   "id": "flash-dh-constitucional-29",
+   "frente": "O que a Constituição diz sobre a liberdade religiosa?",
+   "verso": "Assegura a liberdade de crença e o livre exercício dos cultos, mantendo o Estado laico, sem religião oficial."
+  },
+  {
+   "id": "flash-dh-constitucional-30",
+   "frente": "O que é a função social da propriedade?",
+   "verso": "O condicionamento do direito de propriedade ao atendimento de finalidades sociais, ambientais e trabalhistas."
+  },
+  {
+   "id": "flash-dh-constitucional-31",
+   "frente": "O que é o direito à privacidade na Constituição?",
+   "verso": "A inviolabilidade da intimidade, da vida privada, da honra e da imagem, com direito a indenização por violação."
+  },
+  {
+   "id": "flash-dh-constitucional-32",
+   "frente": "O que estabelece o artigo 5º da Constituição?",
+   "verso": "O rol de direitos e garantias fundamentais individuais e coletivos, com mais de setenta incisos."
+  },
+  {
+   "id": "flash-dh-constitucional-33",
+   "frente": "O que significa dizer que os direitos fundamentais têm aplicação imediata?",
+   "verso": "Que as normas que os definem produzem efeitos desde logo, independentemente de regulamentação posterior."
+  }
+ ],
+ "dh-igualdade-discriminacao": [
+  {
+   "id": "flash-dh-igualdade-discriminacao-01",
+   "frente": "Qual é a diferença entre igualdade formal e material?",
+   "verso": "A formal é a igualdade perante a lei; a material exige tratamento diferenciado para corrigir desigualdades concretas."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-02",
+   "frente": "O que são ações afirmativas?",
+   "verso": "Políticas temporárias de tratamento preferencial a grupos historicamente discriminados, para acelerar a igualdade material."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-03",
+   "frente": "Qual é o principal argumento jurídico a favor das cotas raciais?",
+   "verso": "Concretizam a igualdade material prevista na Constituição, corrigindo desigualdade produzida pela escravidão e pelo racismo estrutural."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-04",
+   "frente": "Qual foi a decisão do STF sobre a constitucionalidade das cotas raciais?",
+   "verso": "Em 2012, o STF as declarou constitucionais por unanimidade, reconhecendo-as como instrumento legítimo de igualdade material."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-05",
+   "frente": "O que é a Lei de Cotas nas universidades federais?",
+   "verso": "A lei de 2012 que reserva vagas para egressos de escola pública, com subcotas por renda e por pertencimento racial e indígena."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-06",
+   "frente": "O que é racismo estrutural?",
+   "verso": "O racismo que opera nas instituições e nas práticas cotidianas, produzindo desigualdade mesmo sem intenção individual explícita."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-07",
+   "frente": "Qual é a diferença entre racismo e injúria racial no direito brasileiro?",
+   "verso": "O racismo atinge coletividade e é imprescritível e inafiançável; a injúria racial ofende pessoa determinada e foi equiparada ao racismo em 2023."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-08",
+   "frente": "O que foi o mito da democracia racial, e por que é criticado?",
+   "verso": "A ideia de convivência harmoniosa entre raças no Brasil; é criticada por ocultar o racismo estrutural e desmobilizar seu enfrentamento."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-09",
+   "frente": "O que a Lei 10.639/2003 estabeleceu?",
+   "verso": "Tornou obrigatório o ensino de história e cultura afro-brasileira e africana na educação básica."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-10",
+   "frente": "O que é o Estatuto da Igualdade Racial?",
+   "verso": "A lei de 2010 que institui políticas de promoção da igualdade racial em saúde, educação, trabalho, cultura e acesso à terra."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-11",
+   "frente": "O que estabelece a Lei Maria da Penha?",
+   "verso": "Cria mecanismos de proteção contra violência doméstica e familiar contra a mulher, com medidas protetivas de urgência."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-12",
+   "frente": "Quais formas de violência a Lei Maria da Penha reconhece?",
+   "verso": "Física, psicológica, sexual, patrimonial e moral."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-13",
+   "frente": "O que é feminicídio?",
+   "verso": "O homicídio de mulher por razões da condição de sexo feminino, tipificado como crime hediondo no Brasil."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-14",
+   "frente": "O que é a desigualdade salarial de gênero?",
+   "verso": "A diferença de remuneração entre homens e mulheres em funções equivalentes, objeto da Lei de Igualdade Salarial de 2023."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-15",
+   "frente": "O que é assédio sexual, do ponto de vista legal?",
+   "verso": "O constrangimento com intuito de obter vantagem sexual, prevalecendo-se o agente de sua condição hierárquica ou de ascendência."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-16",
+   "frente": "Qual é a diferença entre orientação sexual e identidade de gênero?",
+   "verso": "Orientação sexual refere-se à atração afetiva e sexual; identidade de gênero, à percepção de si como homem, mulher ou outra categoria."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-17",
+   "frente": "Como o STF tratou a homofobia e a transfobia?",
+   "verso": "Em 2019, determinou que fossem enquadradas na Lei de Racismo até que o Congresso legislasse sobre o tema."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-18",
+   "frente": "Qual foi a decisão do STF sobre a união homoafetiva?",
+   "verso": "Em 2011, reconheceu-a como entidade familiar, o que abriu caminho para o casamento civil entre pessoas do mesmo sexo."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-19",
+   "frente": "O que garante o direito ao nome social?",
+   "verso": "O direito de pessoas trans e travestis serem tratadas pelo nome com que se identificam, inclusive em documentos e serviços públicos."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-20",
+   "frente": "Que direitos a Constituição assegura aos povos indígenas?",
+   "verso": "O reconhecimento de sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que ocupam."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-21",
+   "frente": "O que significa dizer que os direitos indígenas sobre a terra são originários?",
+   "verso": "Que são anteriores à criação do Estado brasileiro, o qual apenas os reconhece e demarca, sem constituí-los."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-22",
+   "frente": "O que é a tese do marco temporal, e qual seu desfecho no STF?",
+   "verso": "A tese exigia ocupação da terra em 5 de outubro de 1988 para a demarcação; o STF a rejeitou em 2023, mas o tema seguiu em disputa legislativa."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-23",
+   "frente": "Que direitos os quilombolas possuem?",
+   "verso": "O direito à titulação definitiva das terras que ocupam, assegurado pelo artigo 68 do ADCT da Constituição de 1988."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-24",
+   "frente": "O que é a Convenção 169 da OIT?",
+   "verso": "O tratado que assegura a povos indígenas e tribais o direito à consulta prévia, livre e informada sobre medidas que os afetem."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-25",
+   "frente": "O que é o Estatuto da Pessoa com Deficiência?",
+   "verso": "A lei de 2015 que assegura inclusão, acessibilidade e igualdade de oportunidades, adotando o modelo social de deficiência."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-26",
+   "frente": "O que é o modelo social de deficiência?",
+   "verso": "A concepção de que a deficiência resulta da interação entre a condição da pessoa e as barreiras sociais, e não apenas de um atributo individual."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-27",
+   "frente": "O que é acessibilidade, em sentido amplo?",
+   "verso": "A eliminação de barreiras físicas, comunicacionais, atitudinais e digitais que impedem a participação plena."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-28",
+   "frente": "O que é o desenho universal?",
+   "verso": "A concepção de produtos e ambientes utilizáveis por todas as pessoas, sem necessidade de adaptação posterior."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-29",
+   "frente": "O que é interseccionalidade?",
+   "verso": "A análise que considera a sobreposição de marcadores — raça, classe, gênero, deficiência — na produção das desigualdades."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-30",
+   "frente": "O que é o Estatuto do Idoso?",
+   "verso": "A lei que assegura prioridade de atendimento, gratuidade no transporte e proteção contra violência e abandono à pessoa idosa."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-31",
+   "frente": "O que é xenofobia?",
+   "verso": "A aversão ou hostilidade a estrangeiros, que pode configurar crime quando envolve discriminação ou incitação ao ódio."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-32",
+   "frente": "O que estabelece a Lei de Migração de 2017?",
+   "verso": "Substituiu o Estatuto do Estrangeiro, tratando a migração sob a ótica dos direitos humanos e não da segurança nacional."
+  },
+  {
+   "id": "flash-dh-igualdade-discriminacao-33",
+   "frente": "O que é discurso de ódio?",
+   "verso": "A manifestação que incita discriminação, hostilidade ou violência contra grupo determinado — não é protegida pela liberdade de expressão."
+  }
+ ],
+ "dh-direitos-sociais": [
+  {
+   "id": "flash-dh-direitos-sociais-01",
+   "frente": "Quais são os direitos sociais previstos no artigo 6º da Constituição?",
+   "verso": "Educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência, proteção à maternidade e à infância e assistência aos desamparados."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-02",
+   "frente": "Por que os direitos sociais exigem prestação positiva do Estado?",
+   "verso": "Porque não se realizam pela abstenção estatal: dependem de políticas públicas, serviços e orçamento."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-03",
+   "frente": "O que é o mínimo existencial?",
+   "verso": "O núcleo de condições materiais indispensáveis a uma vida digna, exigível do Estado independentemente de disponibilidade orçamentária."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-04",
+   "frente": "O que é a reserva do possível?",
+   "verso": "O argumento de que a efetivação de direitos sociais depende dos recursos disponíveis — não pode, porém, esvaziar o mínimo existencial."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-05",
+   "frente": "Como se relacionam mínimo existencial e reserva do possível?",
+   "verso": "A reserva do possível pode limitar a expansão de políticas, mas não serve de justificativa para negar o mínimo existencial."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-06",
+   "frente": "O que é o princípio da vedação do retrocesso social?",
+   "verso": "A proibição de suprimir ou reduzir significativamente direitos sociais já conquistados e implementados."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-07",
+   "frente": "O que é a seguridade social na Constituição de 1988?",
+   "verso": "O conjunto integrado de saúde, previdência e assistência social, financiado por toda a sociedade."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-08",
+   "frente": "Qual é a diferença entre previdência e assistência social?",
+   "verso": "A previdência exige contribuição prévia; a assistência é prestada a quem dela necessitar, independentemente de contribuição."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-09",
+   "frente": "O que é o BPC?",
+   "verso": "O Benefício de Prestação Continuada, que garante um salário mínimo mensal a idosos e pessoas com deficiência em situação de baixa renda."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-10",
+   "frente": "O que é a judicialização da saúde?",
+   "verso": "A busca de tratamentos e medicamentos por via judicial, que garante acesso individual mas tensiona o planejamento coletivo do orçamento."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-11",
+   "frente": "Quais são os princípios do SUS?",
+   "verso": "Universalidade, integralidade e equidade, com descentralização e participação social."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-12",
+   "frente": "O que garante o direito à educação na Constituição?",
+   "verso": "Educação básica obrigatória e gratuita dos 4 aos 17 anos, com acesso ao ensino obrigatório como direito público subjetivo."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-13",
+   "frente": "O que significa a educação ser direito público subjetivo?",
+   "verso": "Que sua não oferta pode ser exigida judicialmente, responsabilizando a autoridade competente."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-14",
+   "frente": "O que é o direito à moradia adequada?",
+   "verso": "Vai além do teto: inclui segurança da posse, infraestrutura, habitabilidade, acessibilidade e localização com acesso a serviços."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-15",
+   "frente": "O que é o Estatuto da Cidade?",
+   "verso": "A lei de 2001 que regulamenta a política urbana, com instrumentos como o plano diretor e o IPTU progressivo contra a especulação."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-16",
+   "frente": "O que é a função social da propriedade urbana?",
+   "verso": "O condicionamento da propriedade ao atendimento das exigências do plano diretor, sob pena de sanções ao imóvel ocioso."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-17",
+   "frente": "O que caracteriza o trabalho análogo à escravidão no Brasil?",
+   "verso": "Trabalho forçado, jornada exaustiva, condições degradantes ou servidão por dívida — basta uma dessas situações."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-18",
+   "frente": "O que é a chamada lista suja do trabalho escravo?",
+   "verso": "O cadastro público de empregadores autuados por submeter trabalhadores a condições análogas à escravidão."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-19",
+   "frente": "O que a legislação brasileira estabelece sobre trabalho infantil?",
+   "verso": "É proibido o trabalho abaixo dos 16 anos, salvo como aprendiz a partir dos 14, e o trabalho noturno, perigoso ou insalubre abaixo dos 18."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-20",
+   "frente": "Quais são os principais direitos trabalhistas assegurados pela Constituição?",
+   "verso": "Salário mínimo, jornada de 44 horas, FGTS, férias com adicional, 13º salário, licença-maternidade e aviso prévio."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-21",
+   "frente": "O que é a liberdade sindical?",
+   "verso": "O direito de fundar e filiar-se a sindicatos, sem interferência do Estado, e de participar de negociação coletiva e greve."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-22",
+   "frente": "O direito de greve é absoluto no Brasil?",
+   "verso": "Não — é assegurado, mas sujeito a regulamentação, com exigência de manutenção de serviços essenciais."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-23",
+   "frente": "O que é uma política pública?",
+   "verso": "A ação planejada do Estado para enfrentar um problema coletivo, com objetivos, recursos e avaliação definidos."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-24",
+   "frente": "Qual é a diferença entre política universal e focalizada?",
+   "verso": "A universal atende a todos os cidadãos, como o SUS; a focalizada atende a um público específico, como o Bolsa Família."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-25",
+   "frente": "O que é um programa de transferência de renda condicionada?",
+   "verso": "Aquele que transfere recursos mediante contrapartidas, como frequência escolar e acompanhamento de saúde."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-26",
+   "frente": "Qual é o argumento em defesa das condicionalidades do Bolsa Família?",
+   "verso": "Articulam alívio imediato da pobreza com investimento em capital humano, rompendo o ciclo intergeracional."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-27",
+   "frente": "O que é o direito humano à alimentação adequada?",
+   "verso": "O direito ao acesso regular a alimentos em quantidade e qualidade suficientes, sem comprometer outras necessidades essenciais."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-28",
+   "frente": "O que é insegurança alimentar?",
+   "verso": "A situação em que o acesso regular a alimentos adequados não está assegurado, tendo a fome como sua forma mais grave."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-29",
+   "frente": "O que é o SUAS?",
+   "verso": "O Sistema Único de Assistência Social, que organiza os serviços socioassistenciais de forma descentralizada, tendo o CRAS como porta de entrada."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-30",
+   "frente": "O que é o controle social sobre as políticas públicas?",
+   "verso": "A participação organizada da sociedade na formulação e fiscalização das políticas, por conselhos e conferências."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-31",
+   "frente": "O que são os conselhos de políticas públicas?",
+   "verso": "Órgãos paritários entre Estado e sociedade civil que deliberam e fiscalizam políticas em áreas como saúde, educação e assistência."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-32",
+   "frente": "O que é o direito ao saneamento básico, como direito social?",
+   "verso": "O acesso a água tratada, esgoto, drenagem e resíduos sólidos, condição para os direitos à saúde e à moradia adequada."
+  },
+  {
+   "id": "flash-dh-direitos-sociais-33",
+   "frente": "Por que a desigualdade de renda é tratada como questão de direitos humanos?",
+   "verso": "Porque a concentração extrema compromete o acesso efetivo a direitos sociais básicos e a própria igualdade de oportunidades."
+  }
+ ],
+ "dh-justica-seguranca": [
+  {
+   "id": "flash-dh-justica-seguranca-01",
+   "frente": "O que é o acesso à justiça?",
+   "verso": "O direito de levar uma pretensão ao Judiciário e obter resposta efetiva, o que inclui assistência jurídica gratuita a quem não pode pagar."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-02",
+   "frente": "Qual é a função da Defensoria Pública?",
+   "verso": "Prestar assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos, em todos os graus."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-03",
+   "frente": "Qual é a função do Ministério Público?",
+   "verso": "Defender a ordem jurídica, o regime democrático e os interesses sociais e individuais indisponíveis, com autonomia funcional."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-04",
+   "frente": "O que é a morosidade judicial, e qual garantia a enfrenta?",
+   "verso": "A demora excessiva na tramitação; a Constituição assegura a razoável duração do processo e os meios que garantam a celeridade."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-05",
+   "frente": "O que caracteriza o sistema prisional brasileiro?",
+   "verso": "A superlotação, as condições degradantes e a alta proporção de presos provisórios — o STF o declarou 'estado de coisas inconstitucional'."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-06",
+   "frente": "Qual é o perfil da população carcerária brasileira?",
+   "verso": "Majoritariamente jovem, negra e de baixa escolaridade, com predominância de crimes patrimoniais e relacionados a drogas."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-07",
+   "frente": "O que é o encarceramento em massa?",
+   "verso": "O crescimento acelerado da população prisional; o Brasil tem hoje a terceira maior população carcerária do mundo."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-08",
+   "frente": "Quais são as finalidades da pena, segundo a doutrina?",
+   "verso": "Retribuição pelo mal causado, prevenção de novos crimes e ressocialização do condenado."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-09",
+   "frente": "Por que se questiona a eficácia ressocializadora da prisão no Brasil?",
+   "verso": "Porque as condições degradantes e as altas taxas de reincidência indicam que a prisão frequentemente agrava a trajetória criminal."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-10",
+   "frente": "O que é a justiça restaurativa?",
+   "verso": "O modelo que busca reparar o dano e restaurar relações por meio do diálogo entre vítima, ofensor e comunidade, em vez de apenas punir."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-11",
+   "frente": "O que é uma pena alternativa?",
+   "verso": "A sanção não privativa de liberdade, como prestação de serviços à comunidade, aplicável a crimes de menor potencial ofensivo."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-12",
+   "frente": "O que é a audiência de custódia?",
+   "verso": "A apresentação do preso a um juiz em até 24 horas, para verificar a legalidade da prisão e eventuais maus-tratos."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-13",
+   "frente": "O que é prisão preventiva, e quando cabe?",
+   "verso": "A prisão antes da condenação definitiva, admitida apenas para garantir a ordem pública, a instrução criminal ou a aplicação da lei penal."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-14",
+   "frente": "Por que a alta proporção de presos provisórios é problemática?",
+   "verso": "Porque priva de liberdade pessoas ainda não condenadas, em tensão com a presunção de inocência."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-15",
+   "frente": "O que estabelece o ECA sobre adolescentes em conflito com a lei?",
+   "verso": "Aplica medidas socioeducativas, não penas, com a internação como último recurso e por prazo máximo de três anos."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-16",
+   "frente": "Qual é a diferença entre ato infracional e crime?",
+   "verso": "O ato infracional é a conduta descrita como crime praticada por menor de 18 anos, sujeita a medidas socioeducativas."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-17",
+   "frente": "Qual é o principal argumento contra a redução da maioridade penal?",
+   "verso": "Adolescentes respondem por parcela pequena dos crimes graves, e o encarceramento precoce tende a agravar a trajetória criminal em vez de reduzi-la."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-18",
+   "frente": "O que é a doutrina da proteção integral do ECA?",
+   "verso": "A concepção de crianças e adolescentes como sujeitos de direitos em condição peculiar de desenvolvimento, com prioridade absoluta."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-19",
+   "frente": "O que é violência institucional?",
+   "verso": "A violência praticada por agentes do Estado ou por instituições contra as pessoas que deveriam proteger."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-20",
+   "frente": "O que é a letalidade policial, e por que é debatida?",
+   "verso": "O número de mortes por intervenção policial; o Brasil apresenta índices muito superiores aos de outros países, com forte seletividade racial."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-21",
+   "frente": "O que é a proibição da tortura no direito brasileiro?",
+   "verso": "É crime inafiançável e insuscetível de graça ou anistia, sendo vedada em qualquer circunstância, inclusive em emergências."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-22",
+   "frente": "O que é o mecanismo nacional de prevenção e combate à tortura?",
+   "verso": "O órgão autorizado a visitar locais de privação de liberdade sem aviso prévio, para prevenir maus-tratos."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-23",
+   "frente": "O que é a seletividade penal?",
+   "verso": "A tendência do sistema de justiça a punir mais intensamente determinados grupos sociais e determinados tipos de crime."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-24",
+   "frente": "Por que a Lei de Drogas de 2006 é objeto de crítica?",
+   "verso": "Por não fixar critério objetivo entre usuário e traficante, o que abre espaço para aplicação seletiva e racialmente enviesada."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-25",
+   "frente": "Qual foi a decisão do STF sobre o porte de maconha para consumo pessoal?",
+   "verso": "Em 2024, descriminalizou o porte para uso próprio e fixou parâmetro de quantidade para distinguir usuário de traficante."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-26",
+   "frente": "O que é o devido processo legal no âmbito penal?",
+   "verso": "A garantia de que a punição só ocorra após processo regular, com juiz imparcial, contraditório e ampla defesa."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-27",
+   "frente": "O que é o princípio do juiz natural?",
+   "verso": "A garantia de ser julgado por juízo previamente competente, vedados tribunais de exceção criados após o fato."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-28",
+   "frente": "O que é a segurança pública como direito e dever?",
+   "verso": "A Constituição a define como dever do Estado e responsabilidade de todos, exercida para preservação da ordem e da incolumidade das pessoas."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-29",
+   "frente": "O que é a segurança pública cidadã?",
+   "verso": "O enfoque que combina prevenção, política social e polícia orientada a direitos, em vez de apoiar-se apenas na repressão."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-30",
+   "frente": "O que é a desmilitarização da polícia, e qual o debate?",
+   "verso": "A proposta de alterar a estrutura militar das polícias estaduais; defende-se maior aproximação comunitária, e questiona-se o impacto na disciplina."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-31",
+   "frente": "O que é cidadania, no sentido pleno?",
+   "verso": "A condição de membro da comunidade política com direitos civis, políticos e sociais efetivamente exercidos, e não apenas formalmente declarados."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-32",
+   "frente": "O que é participação popular na gestão pública?",
+   "verso": "O envolvimento da sociedade em decisões públicas por meio de conselhos, conferências, audiências públicas e orçamento participativo."
+  },
+  {
+   "id": "flash-dh-justica-seguranca-33",
+   "frente": "Por que se diz que direitos humanos protegem 'bandidos'?",
+   "verso": "É uma objeção comum baseada em equívoco: os direitos protegem toda pessoa contra o arbítrio do Estado, e sua seletividade os transformaria em privilégio."
+  }
+ ],
+ "atualidades-politica-economia": [
+  {
+   "id": "flash-atualidades-politica-economia-01",
+   "frente": "Como se organiza o Poder Legislativo federal brasileiro?",
+   "verso": "Em duas casas: a Câmara dos Deputados, com representação proporcional à população, e o Senado, com três senadores por estado."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-02",
+   "frente": "Qual é a função do Supremo Tribunal Federal?",
+   "verso": "Guardar a Constituição, julgando a constitucionalidade de leis e atos e processando autoridades com foro privilegiado."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-03",
+   "frente": "O que é o controle de constitucionalidade?",
+   "verso": "O exame da compatibilidade de uma lei com a Constituição, que pode ser feito de forma difusa ou concentrada no STF."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-04",
+   "frente": "Como são escolhidos os ministros do STF?",
+   "verso": "Indicados pelo presidente da República e aprovados por maioria absoluta do Senado, com mandato até a aposentadoria compulsória."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-05",
+   "frente": "O que é o presidencialismo de coalizão?",
+   "verso": "O arranjo em que o presidente, sem maioria própria, governa formando coalizões amplas no Congresso mediante distribuição de cargos e emendas."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-06",
+   "frente": "O que são emendas parlamentares ao orçamento?",
+   "verso": "Alterações feitas por deputados e senadores que direcionam recursos federais, ampliando o poder do Congresso sobre o gasto público."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-07",
+   "frente": "O que é a Selic?",
+   "verso": "A taxa básica de juros da economia brasileira, definida pelo Copom para orientar o custo do crédito e controlar a inflação."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-08",
+   "frente": "Como o aumento da Selic combate a inflação?",
+   "verso": "Encarece o crédito e estimula a poupança, o que reduz o consumo e a demanda agregada, freando a alta de preços."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-09",
+   "frente": "Qual é o custo do aumento da Selic?",
+   "verso": "Desaquece a atividade econômica, pode elevar o desemprego e encarece a dívida pública."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-10",
+   "frente": "O que é o regime de metas de inflação?",
+   "verso": "O sistema em que o Banco Central persegue uma meta anual definida pelo CMN, usando os juros como instrumento principal."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-11",
+   "frente": "O que significa a autonomia do Banco Central?",
+   "verso": "A diretoria tem mandatos fixos que não coincidem com o do presidente, para reduzir a influência política sobre a política monetária."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-12",
+   "frente": "Qual é a diferença entre inflação e deflação?",
+   "verso": "Inflação é a alta generalizada e contínua dos preços; deflação é a queda generalizada, que pode indicar retração econômica."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-13",
+   "frente": "Que índice mede a inflação oficial no Brasil?",
+   "verso": "O IPCA, calculado pelo IBGE, que baliza a meta de inflação."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-14",
+   "frente": "O que é o PIB?",
+   "verso": "A soma de todos os bens e serviços finais produzidos num país em determinado período."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-15",
+   "frente": "Por que o PIB não mede bem-estar?",
+   "verso": "Porque não considera distribuição de renda, desigualdade, trabalho não remunerado nem custos ambientais da produção."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-16",
+   "frente": "O que é política fiscal, e como difere da monetária?",
+   "verso": "A fiscal atua por gastos e tributos, sob responsabilidade do governo; a monetária atua por juros e crédito, sob responsabilidade do Banco Central."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-17",
+   "frente": "O que é o arcabouço fiscal?",
+   "verso": "A regra que limita o crescimento das despesas públicas em função da receita, substituindo o teto de gastos anterior."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-18",
+   "frente": "O que é déficit primário?",
+   "verso": "O resultado negativo das contas do governo antes do pagamento dos juros da dívida pública."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-19",
+   "frente": "O que é dívida pública bruta, e por que ela importa?",
+   "verso": "O total devido pelo setor público; sua trajetória influencia a confiança dos investidores e o custo de novos financiamentos."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-20",
+   "frente": "Quais são os objetivos centrais de uma reforma tributária?",
+   "verso": "Simplificar a cobrança, reduzir a cumulatividade e tornar o sistema menos regressivo."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-21",
+   "frente": "O que significa dizer que o sistema tributário brasileiro é regressivo?",
+   "verso": "Que ele pesa proporcionalmente mais sobre os mais pobres, por se concentrar em tributos sobre consumo em vez de renda e patrimônio."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-22",
+   "frente": "O que é o IVA, adotado pela reforma tributária brasileira?",
+   "verso": "O Imposto sobre Valor Agregado, que incide apenas sobre o valor acrescentado em cada etapa, evitando a cobrança em cascata."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-23",
+   "frente": "O que é a informalidade no mercado de trabalho?",
+   "verso": "A ocupação sem registro formal nem proteção previdenciária e trabalhista, que atinge cerca de 40% dos ocupados no Brasil."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-24",
+   "frente": "O que mede a taxa de desemprego, e o que ela deixa de fora?",
+   "verso": "Mede quem procura trabalho e não encontra; não capta os desalentados, que desistiram de procurar, nem os subocupados."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-25",
+   "frente": "O que é o Bolsa Família?",
+   "verso": "O programa de transferência de renda condicionada a frequência escolar e acompanhamento de saúde, voltado a famílias em pobreza."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-26",
+   "frente": "Qual é o argumento econômico a favor dos programas de transferência de renda?",
+   "verso": "Além de reduzir a pobreza, injetam renda em famílias com alta propensão ao consumo, dinamizando a economia local."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-27",
+   "frente": "O que é a política de valorização do salário mínimo?",
+   "verso": "A regra que reajusta o mínimo pela inflação mais o crescimento do PIB, ampliando o poder de compra da base da pirâmide."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-28",
+   "frente": "Qual é o principal desafio da Previdência brasileira?",
+   "verso": "O envelhecimento populacional, que reduz a proporção de contribuintes ativos por beneficiário."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-29",
+   "frente": "O que é o sistema de repartição da Previdência?",
+   "verso": "Aquele em que os trabalhadores ativos financiam os benefícios dos aposentados atuais, em vez de acumular poupança individual."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-30",
+   "frente": "O que é o teto de gastos, e por que foi substituído?",
+   "verso": "A regra que congelava as despesas em termos reais; foi substituída por travar investimentos e políticas sociais independentemente da arrecadação."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-31",
+   "frente": "O que é a Lei de Responsabilidade Fiscal?",
+   "verso": "A lei de 2000 que impõe limites de gasto com pessoal e endividamento a União, estados e municípios."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-32",
+   "frente": "O que é o pacto federativo?",
+   "verso": "A divisão de competências e receitas entre União, estados e municípios, tema recorrente de disputa por concentrar arrecadação na União."
+  },
+  {
+   "id": "flash-atualidades-politica-economia-33",
+   "frente": "O que é uma CPI?",
+   "verso": "A Comissão Parlamentar de Inquérito, com poderes de investigação próprios de autoridade judicial, criada para apurar fato determinado."
+  }
+ ],
+ "atualidades-geopolitica": [
+  {
+   "id": "flash-atualidades-geopolitica-01",
+   "frente": "O que caracteriza a atual ordem mundial multipolar?",
+   "verso": "A existência de vários centros de poder — EUA, China, União Europeia, Rússia e potências emergentes — sem hegemonia única incontestada."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-02",
+   "frente": "Qual é a função da ONU?",
+   "verso": "Manter a paz e a segurança internacionais, promover a cooperação entre Estados e o respeito aos direitos humanos."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-03",
+   "frente": "Como é composto o Conselho de Segurança da ONU?",
+   "verso": "Por 15 membros: 5 permanentes com poder de veto e 10 rotativos eleitos para mandatos de dois anos."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-04",
+   "frente": "Quais são os cinco membros permanentes do Conselho de Segurança?",
+   "verso": "Estados Unidos, Rússia, China, Reino Unido e França."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-05",
+   "frente": "Por que o poder de veto é alvo de críticas?",
+   "verso": "Porque permite que um único país bloqueie qualquer resolução, refletindo a correlação de forças de 1945 e paralisando o Conselho em conflitos atuais."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-06",
+   "frente": "Qual é a reivindicação brasileira quanto ao Conselho de Segurança?",
+   "verso": "Uma reforma que amplie os assentos permanentes, incluindo países do Sul Global e potências regionais como o Brasil."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-07",
+   "frente": "O que é o BRICS?",
+   "verso": "O agrupamento de economias emergentes que busca maior peso na governança global e alternativas às instituições financeiras ocidentais."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-08",
+   "frente": "Que instituição financeira o BRICS criou?",
+   "verso": "O Novo Banco de Desenvolvimento, sediado em Xangai, como alternativa ao Banco Mundial e ao FMI."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-09",
+   "frente": "Qual é a diferença entre G7 e G20?",
+   "verso": "O G7 reúne as principais economias desenvolvidas; o G20 inclui também emergentes, entre eles o Brasil, e representa a maior parte do PIB mundial."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-10",
+   "frente": "Quais são as raízes do conflito entre Rússia e Ucrânia?",
+   "verso": "A disputa por áreas de influência após o fim da URSS, a aproximação ucraniana da OTAN e da UE, e a anexação da Crimeia em 2014."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-11",
+   "frente": "Quais foram os efeitos globais da guerra na Ucrânia?",
+   "verso": "Alta nos preços de energia e alimentos, crise de refugiados, rearmamento europeu e reorganização das rotas de comércio."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-12",
+   "frente": "Quais são as raízes do conflito israelo-palestino?",
+   "verso": "A disputa territorial iniciada com a partilha da Palestina em 1947 e a criação de Israel, agravada pela ocupação de territórios desde 1967."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-13",
+   "frente": "O que é a solução de dois Estados?",
+   "verso": "A proposta de coexistência entre Israel e um Estado palestino soberano, base histórica das negociações de paz."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-14",
+   "frente": "O que é a OTAN?",
+   "verso": "A aliança militar ocidental de defesa coletiva, em que o ataque a um membro é considerado ataque a todos."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-15",
+   "frente": "O que motivou a expansão da OTAN após 1991?",
+   "verso": "A adesão de antigos países do bloco soviético em busca de garantia de segurança — movimento que a Rússia considera ameaça estratégica."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-16",
+   "frente": "O que caracteriza a guerra comercial entre Estados Unidos e China?",
+   "verso": "A imposição recíproca de tarifas e restrições tecnológicas, refletindo a disputa por hegemonia econômica e liderança em inovação."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-17",
+   "frente": "O que é a Nova Rota da Seda?",
+   "verso": "A iniciativa chinesa de financiar infraestrutura e conectividade em dezenas de países, ampliando sua influência econômica e política."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-18",
+   "frente": "Por que os semicondutores se tornaram questão geopolítica?",
+   "verso": "Porque são essenciais a toda a economia digital e militar, e sua produção é altamente concentrada, sobretudo em Taiwan."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-19",
+   "frente": "Por que Taiwan é um ponto de tensão internacional?",
+   "verso": "Porque a China a considera parte de seu território, enquanto a ilha mantém governo próprio e apoio ocidental — e concentra a produção mundial de chips avançados."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-20",
+   "frente": "O que são sanções econômicas?",
+   "verso": "Restrições comerciais e financeiras impostas a um país para pressioná-lo politicamente, sem uso direto de força militar."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-21",
+   "frente": "Qual é a principal crítica às sanções econômicas?",
+   "verso": "Costumam atingir mais a população civil que os governantes visados, com eficácia política frequentemente limitada."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-22",
+   "frente": "O que é o Sul Global?",
+   "verso": "O conjunto de países em desenvolvimento que reivindica maior participação nas decisões globais, em contraste com o Norte desenvolvido."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-23",
+   "frente": "Qual é a posição diplomática tradicional do Brasil?",
+   "verso": "O multilateralismo, a não intervenção, a solução pacífica de controvérsias e a busca de autonomia sem alinhamento automático."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-24",
+   "frente": "Por que o Ártico ganhou relevância geopolítica?",
+   "verso": "Porque o degelo abre rotas de navegação e viabiliza a exploração de recursos antes inacessíveis, acirrando disputas territoriais."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-25",
+   "frente": "O que é a crise migratória internacional?",
+   "verso": "O deslocamento massivo de pessoas por guerras, perseguição, colapso econômico e desastres climáticos, pressionando os países de destino."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-26",
+   "frente": "Qual é a diferença entre refugiado e migrante econômico?",
+   "verso": "O refugiado foge de perseguição ou conflito e tem proteção jurídica internacional; o migrante econômico busca melhores condições de vida."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-27",
+   "frente": "O que é um refugiado climático?",
+   "verso": "Quem se desloca por desastres e mudanças ambientais — categoria ainda sem pleno reconhecimento no direito internacional."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-28",
+   "frente": "Qual é a função da OMC?",
+   "verso": "Regular o comércio internacional, negociar a redução de barreiras e arbitrar disputas comerciais entre países."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-29",
+   "frente": "Qual é a função do FMI?",
+   "verso": "Conceder empréstimos a países em crise de balanço de pagamentos, geralmente condicionados a ajustes fiscais."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-30",
+   "frente": "O que é a Organização Mundial da Saúde (OMS)?",
+   "verso": "A agência da ONU responsável por coordenar a resposta internacional em saúde e declarar emergências sanitárias globais."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-31",
+   "frente": "Por que o lítio e as terras raras são estratégicos?",
+   "verso": "Porque são insumos essenciais de baterias e eletrônicos, concentrando disputas em torno das reservas e do processamento."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-32",
+   "frente": "O que é o Mercosul, e qual sua situação atual?",
+   "verso": "A união aduaneira sul-americana; enfrenta dificuldades de integração plena e discute maior flexibilidade para acordos externos."
+  },
+  {
+   "id": "flash-atualidades-geopolitica-33",
+   "frente": "O que está em jogo no acordo Mercosul-União Europeia?",
+   "verso": "A abertura recíproca de mercados, com resistências europeias ligadas a padrões ambientais e à concorrência agrícola."
+  }
+ ],
+ "atualidades-meioambiente": [
+  {
+   "id": "flash-atualidades-meioambiente-01",
+   "frente": "O que causa a intensificação do efeito estufa?",
+   "verso": "A emissão de gases como CO₂, metano e óxido nitroso pela queima de combustíveis fósseis, pelo desmatamento e pela agropecuária."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-02",
+   "frente": "Qual é a meta central do Acordo de Paris?",
+   "verso": "Limitar o aquecimento global a bem abaixo de 2 °C em relação aos níveis pré-industriais, buscando 1,5 °C."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-03",
+   "frente": "O que são as COPs do clima?",
+   "verso": "As Conferências das Partes, encontros anuais dos países signatários da Convenção do Clima para negociar metas e financiamento."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-04",
+   "frente": "O que são as NDCs?",
+   "verso": "As metas de redução de emissões que cada país define e apresenta voluntariamente no âmbito do Acordo de Paris."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-05",
+   "frente": "Qual é a crítica recorrente ao modelo de metas do Acordo de Paris?",
+   "verso": "As metas são voluntárias e sem sanção, e a soma dos compromissos ainda não é suficiente para conter o aquecimento no limite acordado."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-06",
+   "frente": "O que é o princípio das responsabilidades comuns porém diferenciadas?",
+   "verso": "Todos devem agir contra a mudança climática, mas os países desenvolvidos têm responsabilidade maior por seu passivo histórico de emissões."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-07",
+   "frente": "O que é o financiamento climático?",
+   "verso": "Os recursos que países desenvolvidos se comprometem a transferir aos em desenvolvimento para mitigação e adaptação."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-08",
+   "frente": "Qual é a diferença entre mitigação e adaptação climática?",
+   "verso": "Mitigação reduz emissões para conter o aquecimento; adaptação prepara sociedades e territórios para os impactos já inevitáveis."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-09",
+   "frente": "O que significa neutralidade de carbono (net zero)?",
+   "verso": "Equilibrar as emissões residuais com remoções equivalentes, de modo que o saldo líquido seja zero."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-10",
+   "frente": "O que é o mercado de carbono?",
+   "verso": "O sistema em que se negociam créditos correspondentes a emissões evitadas ou removidas, criando preço para o carbono."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-11",
+   "frente": "Por que o Brasil tem posição singular na agenda climática?",
+   "verso": "Porque sua matriz elétrica é majoritariamente renovável, mas suas emissões vêm sobretudo do desmatamento e da agropecuária."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-12",
+   "frente": "Quais são as principais causas do desmatamento na Amazônia?",
+   "verso": "A expansão da pecuária e da soja, a grilagem de terras, o garimpo ilegal e a abertura de estradas."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-13",
+   "frente": "O que é o ponto de não retorno da Amazônia?",
+   "verso": "O limiar de desmatamento a partir do qual a floresta perderia a capacidade de gerar sua própria chuva, degradando-se para vegetação de savana."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-14",
+   "frente": "Por que o Cerrado é chamado de berço das águas?",
+   "verso": "Porque nele nascem rios de oito das doze grandes bacias hidrográficas brasileiras."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-15",
+   "frente": "Qual bioma brasileiro tem sofrido a maior pressão recente de conversão agrícola?",
+   "verso": "O Cerrado, sobretudo na região do MATOPIBA, fronteira de expansão do agronegócio."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-16",
+   "frente": "O que é a transição energética?",
+   "verso": "A substituição gradual dos combustíveis fósseis por fontes renováveis na matriz energética mundial."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-17",
+   "frente": "Que fontes renováveis mais crescem no Brasil?",
+   "verso": "A eólica, concentrada no Nordeste, e a solar fotovoltaica, impulsionada pela queda no custo dos painéis."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-18",
+   "frente": "O que é o hidrogênio verde?",
+   "verso": "O hidrogênio produzido por eletrólise da água com energia renovável, apontado como vetor para descarbonizar indústria e transporte pesado."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-19",
+   "frente": "Qual é a contradição da política energética brasileira?",
+   "verso": "Lidera em renováveis na geração elétrica enquanto amplia a exploração de petróleo, inclusive em novas fronteiras como a Margem Equatorial."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-20",
+   "frente": "O que é a crise hídrica, e quais suas causas?",
+   "verso": "A escassez de água disponível, causada por estiagens, desmatamento, desperdício, poluição e crescimento do consumo."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-21",
+   "frente": "Qual setor mais consome água no Brasil?",
+   "verso": "A agricultura irrigada, responsável pela maior parte da retirada de água doce."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-22",
+   "frente": "Qual é a situação do saneamento básico no Brasil?",
+   "verso": "Milhões de pessoas ainda não têm coleta e tratamento de esgoto, o que compromete a saúde pública e a qualidade dos corpos d'água."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-23",
+   "frente": "O que estabeleceu o Marco Legal do Saneamento de 2020?",
+   "verso": "Abriu o setor à iniciativa privada por licitação e fixou metas de universalização do acesso à água e ao esgoto."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-24",
+   "frente": "Por que eventos climáticos extremos se tornaram mais frequentes?",
+   "verso": "Porque o aquecimento adiciona energia ao sistema climático, intensificando secas, chuvas concentradas e ondas de calor."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-25",
+   "frente": "O que revelaram as enchentes no Rio Grande do Sul em 2024?",
+   "verso": "A vulnerabilidade das cidades brasileiras a eventos extremos e a insuficiência dos sistemas de prevenção e adaptação."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-26",
+   "frente": "O que é justiça climática?",
+   "verso": "O princípio de que os efeitos da crise climática recaem desigualmente, atingindo mais quem menos contribuiu para causá-la."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-27",
+   "frente": "O que é racismo ambiental?",
+   "verso": "A concentração de riscos e passivos ambientais em territórios habitados por populações racialmente marginalizadas."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-28",
+   "frente": "O que é a economia circular?",
+   "verso": "O modelo que substitui o ciclo 'extrair-produzir-descartar' pelo reaproveitamento contínuo de materiais."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-29",
+   "frente": "O que é a logística reversa?",
+   "verso": "A obrigação de fabricantes e comerciantes recolherem e destinarem corretamente produtos após o consumo, como pilhas, pneus e eletrônicos."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-30",
+   "frente": "O que é greenwashing?",
+   "verso": "A prática de empresas que se apresentam como ambientalmente responsáveis sem mudanças reais em suas operações."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-31",
+   "frente": "Qual é o papel dos povos indígenas na conservação ambiental?",
+   "verso": "As terras indígenas apresentam as menores taxas de desmatamento, funcionando como barreiras efetivas à degradação."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-32",
+   "frente": "O que são os créditos de carbono da REDD+?",
+   "verso": "Créditos gerados por evitar desmatamento e degradação florestal, cuja integridade depende de comprovar adicionalidade real."
+  },
+  {
+   "id": "flash-atualidades-meioambiente-33",
+   "frente": "Qual é a relevância de o Brasil sediar a COP30 em Belém?",
+   "verso": "Coloca a Amazônia no centro da negociação climática e testa a coerência entre o discurso externo e a política ambiental interna."
+  }
+ ],
+ "atualidades-tecnologia": [
+  {
+   "id": "flash-atualidades-tecnologia-01",
+   "frente": "O que é inteligência artificial generativa?",
+   "verso": "A tecnologia capaz de produzir textos, imagens, áudio e código a partir de padrões aprendidos em grandes volumes de dados."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-02",
+   "frente": "Como funciona, em linhas gerais, um modelo de linguagem?",
+   "verso": "Aprende relações estatísticas entre palavras num enorme corpus e gera texto prevendo a continuação mais provável."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-03",
+   "frente": "O que é o viés algorítmico?",
+   "verso": "A reprodução e a amplificação, pelo sistema, de desigualdades presentes nos dados com que foi treinado."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-04",
+   "frente": "Por que o reconhecimento facial é objeto de controvérsia?",
+   "verso": "Por apresentar taxas de erro maiores para pessoas negras e mulheres, e por ampliar a vigilância sobre populações já vulneráveis."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-05",
+   "frente": "Qual é o impacto da automação sobre o mercado de trabalho?",
+   "verso": "Elimina tarefas repetitivas e cria funções novas, mas exige requalificação e tende a ampliar desigualdades no curto prazo."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-06",
+   "frente": "O que é a uberização do trabalho?",
+   "verso": "A intermediação por plataformas digitais que transfere riscos e custos ao trabalhador, sem vínculo formal de emprego."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-07",
+   "frente": "Qual é o principal debate jurídico sobre os trabalhadores de aplicativo?",
+   "verso": "Se há relação de emprego, dada a subordinação algorítmica, ou se são autônomos, como sustentam as plataformas."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-08",
+   "frente": "O que é a economia de plataforma?",
+   "verso": "O modelo em que empresas digitais intermedeiam a relação entre usuários e prestadores, capturando valor sem deter os ativos."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-09",
+   "frente": "O que caracteriza as big techs?",
+   "verso": "A concentração de mercado, o controle de infraestrutura digital e o poder de definir regras de circulação da informação."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-10",
+   "frente": "O que é a LGPD?",
+   "verso": "A Lei Geral de Proteção de Dados, que regula a coleta e o tratamento de dados pessoais no Brasil e assegura direitos ao titular."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-11",
+   "frente": "Que direitos a LGPD assegura ao titular dos dados?",
+   "verso": "Acesso, correção, portabilidade, revogação do consentimento e eliminação dos dados tratados."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-12",
+   "frente": "O que é o capitalismo de vigilância?",
+   "verso": "O modelo de negócio que extrai dados comportamentais dos usuários para prever e influenciar comportamento, monetizando a atenção."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-13",
+   "frente": "O que é desinformação, e como difere de informação incorreta?",
+   "verso": "A desinformação é falsidade difundida INTENCIONALMENTE; informação incorreta pode ser erro não deliberado."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-14",
+   "frente": "O que é um deepfake?",
+   "verso": "Vídeo ou áudio manipulado por inteligência artificial que simula com realismo falas e imagens de pessoas reais."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-15",
+   "frente": "Por que os deepfakes ameaçam o debate público?",
+   "verso": "Porque tornam plausível a falsificação de provas e permitem descartar registros verdadeiros como possíveis falsificações."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-16",
+   "frente": "O que é uma bolha informacional?",
+   "verso": "O ambiente em que o usuário só encontra conteúdos alinhados às próprias visões, por efeito da filtragem algorítmica."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-17",
+   "frente": "O que é câmara de eco (echo chamber)?",
+   "verso": "O espaço em que opiniões semelhantes se reforçam mutuamente, radicalizando posições e reduzindo o contraditório."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-18",
+   "frente": "Por que os algoritmos tendem a favorecer conteúdo polarizado?",
+   "verso": "Porque otimizam engajamento, e conteúdos que provocam emoções fortes geram mais interação."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-19",
+   "frente": "O que é o Marco Civil da Internet?",
+   "verso": "A lei de 2014 que estabelece princípios de uso da internet no Brasil, incluindo neutralidade de rede e privacidade."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-20",
+   "frente": "O que estabelece o artigo 19 do Marco Civil?",
+   "verso": "Que a plataforma só responde por conteúdo de terceiro se descumprir ordem judicial de remoção — regra em disputa no debate sobre regulação."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-21",
+   "frente": "O que é neutralidade de rede?",
+   "verso": "O princípio de que provedores devem tratar todo o tráfego igualmente, sem privilegiar serviços ou cobrar por prioridade."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-22",
+   "frente": "Qual é o debate central sobre regulação das plataformas?",
+   "verso": "Como coibir desinformação e discurso de ódio sem produzir censura nem concentrar poder de decisão sobre a expressão."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-23",
+   "frente": "O que é moderação de conteúdo?",
+   "verso": "A aplicação de regras próprias das plataformas para remover ou reduzir alcance de publicações, feita por sistemas automatizados e revisores humanos."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-24",
+   "frente": "O que é cibersegurança?",
+   "verso": "O conjunto de práticas para proteger sistemas e dados contra acesso indevido, ataques e vazamentos."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-25",
+   "frente": "O que é um ataque de ransomware?",
+   "verso": "A invasão que criptografa dados da vítima e exige pagamento de resgate para liberá-los."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-26",
+   "frente": "O que é engenharia social, em segurança digital?",
+   "verso": "A manipulação psicológica que induz a pessoa a revelar dados ou executar ações que comprometem sua própria segurança."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-27",
+   "frente": "O que é a exclusão digital?",
+   "verso": "A desigualdade de acesso a conectividade, dispositivos e competências digitais, que aprofunda desigualdades preexistentes."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-28",
+   "frente": "Por que a conectividade se tornou questão de cidadania?",
+   "verso": "Porque serviços públicos, educação, trabalho e benefícios sociais migraram para o ambiente digital, tornando o acesso condição de participação."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-29",
+   "frente": "O que é o Pix, e qual seu impacto?",
+   "verso": "O sistema brasileiro de pagamentos instantâneos criado pelo Banco Central, que ampliou a inclusão financeira e reduziu custos de transação."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-30",
+   "frente": "O que são as criptomoedas?",
+   "verso": "Ativos digitais descentralizados baseados em blockchain, sem emissor central e com alta volatilidade."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-31",
+   "frente": "O que é blockchain?",
+   "verso": "O registro distribuído e encadeado de transações, validado coletivamente, que dificulta a alteração retroativa dos dados."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-32",
+   "frente": "Que desafios éticos a inteligência artificial coloca?",
+   "verso": "Responsabilidade por decisões automatizadas, transparência dos critérios, viés, uso de obras protegidas em treinamento e impacto no emprego."
+  },
+  {
+   "id": "flash-atualidades-tecnologia-33",
+   "frente": "Por que a regulação da IA é considerada urgente?",
+   "verso": "Porque a tecnologia avança mais rápido que o direito, e decisões automatizadas já afetam crédito, contratação, segurança e acesso a serviços."
+  }
+ ],
+ "atualidades-sociedade-educacao": [
+  {
+   "id": "flash-atualidades-sociedade-educacao-01",
+   "frente": "O que é o Novo Ensino Médio, e qual a controvérsia sobre ele?",
+   "verso": "A reforma que reduziu a carga comum e criou itinerários formativos; foi criticada por reduzir conteúdos e aprofundar desigualdades entre escolas."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-02",
+   "frente": "O que é a BNCC?",
+   "verso": "A Base Nacional Comum Curricular, que define as aprendizagens essenciais para toda a educação básica no país."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-03",
+   "frente": "O que revelam os resultados brasileiros no PISA?",
+   "verso": "Desempenho abaixo da média dos países avaliados em leitura, matemática e ciências, com forte correlação entre nota e nível socioeconômico."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-04",
+   "frente": "O que é o analfabetismo funcional?",
+   "verso": "A condição de quem decodifica letras mas não compreende nem usa textos em situações práticas do cotidiano."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-05",
+   "frente": "Quais foram os efeitos da pandemia sobre a educação básica?",
+   "verso": "Perdas de aprendizagem, aumento da evasão e ampliação das desigualdades entre alunos com e sem acesso a conectividade."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-06",
+   "frente": "O que é evasão escolar, e quais suas principais causas?",
+   "verso": "O abandono da escola antes da conclusão; decorre de necessidade de trabalho, gravidez na adolescência, distorção idade-série e desinteresse."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-07",
+   "frente": "O que é a distorção idade-série?",
+   "verso": "A defasagem entre a idade do aluno e a série que cursa, geralmente causada por reprovações e abandono, e forte preditora de evasão."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-08",
+   "frente": "O que é o FUNDEB?",
+   "verso": "O fundo que redistribui recursos para a educação básica entre estados e municípios, com complementação da União segundo critérios de equidade."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-09",
+   "frente": "O que são as cotas nas universidades públicas?",
+   "verso": "A reserva de vagas para estudantes de escola pública, de baixa renda, pretos, pardos, indígenas e pessoas com deficiência."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-10",
+   "frente": "Qual é o principal argumento a favor das cotas raciais?",
+   "verso": "Corrigir desigualdade histórica de acesso produzida pela escravidão e pelo racismo estrutural, promovendo igualdade material."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-11",
+   "frente": "Que resultados a política de cotas apresentou?",
+   "verso": "Ampliou significativamente a diversidade nas universidades públicas, com desempenho acadêmico dos cotistas equivalente ao dos demais."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-12",
+   "frente": "O que é o ProUni?",
+   "verso": "O programa que concede bolsas em instituições privadas a estudantes de baixa renda, em troca de isenção fiscal às instituições."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-13",
+   "frente": "O que caracteriza a desigualdade de renda no Brasil?",
+   "verso": "É uma das mais altas do mundo, com forte concentração no topo e sistema tributário regressivo que a reforça."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-14",
+   "frente": "O que mede o Índice de Gini?",
+   "verso": "A desigualdade na distribuição de renda: zero indica igualdade perfeita e 1 indica desigualdade máxima."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-15",
+   "frente": "O que é racismo estrutural?",
+   "verso": "O racismo que opera nas instituições e nas práticas cotidianas, produzindo desigualdade mesmo sem intenção individual explícita."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-16",
+   "frente": "O que revelam os indicadores raciais brasileiros?",
+   "verso": "Pessoas negras têm menor renda e escolaridade, maior taxa de desemprego e são maioria entre vítimas de homicídio e da população carcerária."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-17",
+   "frente": "O que estabelece a Lei Maria da Penha?",
+   "verso": "Cria mecanismos de proteção contra a violência doméstica e familiar contra a mulher, com medidas protetivas de urgência."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-18",
+   "frente": "O que é feminicídio?",
+   "verso": "O homicídio de mulher por razões da condição de sexo feminino, tipificado como crime hediondo no Brasil."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-19",
+   "frente": "O que é a desigualdade de gênero no mercado de trabalho?",
+   "verso": "Mulheres recebem menos que homens em funções equivalentes, ocupam menos cargos de liderança e arcam com a maior parte do trabalho doméstico não remunerado."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-20",
+   "frente": "O que é a dupla jornada feminina?",
+   "verso": "A soma do trabalho remunerado com o trabalho doméstico e de cuidado não remunerado, que recai desproporcionalmente sobre as mulheres."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-21",
+   "frente": "O que é a economia do cuidado?",
+   "verso": "O conjunto de atividades de cuidado com crianças, idosos e pessoas com deficiência, majoritariamente feminino e invisibilizado nas estatísticas."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-22",
+   "frente": "Qual é a situação dos direitos LGBTQIA+ no Brasil?",
+   "verso": "Conquistas como o casamento civil e a criminalização da homofobia por decisão do STF convivem com altos índices de violência."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-23",
+   "frente": "O que é a informalidade no mercado de trabalho brasileiro?",
+   "verso": "A ocupação sem registro nem proteção previdenciária e trabalhista, que atinge cerca de 40% dos ocupados."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-24",
+   "frente": "O que foi a Reforma Trabalhista de 2017?",
+   "verso": "A alteração da CLT que flexibilizou contratos e jornadas e permitiu a prevalência do negociado sobre o legislado."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-25",
+   "frente": "O que é renda básica, e qual o debate em torno dela?",
+   "verso": "A transferência regular de renda à população; discute-se se deve ser universal ou focalizada, e como financiá-la."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-26",
+   "frente": "O que é o déficit habitacional?",
+   "verso": "A diferença entre a necessidade e a oferta de moradias adequadas, incluindo domicílios precários e ônus excessivo com aluguel."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-27",
+   "frente": "O que é o direito à cidade?",
+   "verso": "O princípio de que todos devem ter acesso à infraestrutura, aos serviços e às oportunidades urbanas, e não apenas a moradia."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-28",
+   "frente": "Quais são os principais problemas da mobilidade urbana brasileira?",
+   "verso": "A priorização histórica do automóvel individual, o transporte público insuficiente e caro, e os longos deslocamentos das periferias."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-29",
+   "frente": "O que caracteriza a violência urbana no Brasil?",
+   "verso": "Altas taxas de homicídio concentradas em jovens negros e periferias, associadas a mercados ilegais e à letalidade policial."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-30",
+   "frente": "O que é a letalidade policial, e por que é debatida?",
+   "verso": "O número de mortes decorrentes de intervenção policial; o Brasil apresenta índices muito superiores aos de outros países, com forte seletividade racial."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-31",
+   "frente": "O que é o encarceramento em massa?",
+   "verso": "O crescimento acelerado da população prisional, que no Brasil é a terceira maior do mundo e majoritariamente negra e jovem."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-32",
+   "frente": "Qual é o perfil da população carcerária brasileira?",
+   "verso": "Majoritariamente jovem, negra, de baixa escolaridade, com alta proporção de presos provisórios e por crimes patrimoniais e de drogas."
+  },
+  {
+   "id": "flash-atualidades-sociedade-educacao-33",
+   "frente": "Por que a Lei de Drogas de 2006 é objeto de crítica?",
+   "verso": "Por não estabelecer critério objetivo entre usuário e traficante, o que abre espaço para aplicação seletiva e racialmente enviesada."
+  }
+ ],
+ "atualidades-saude": [
+  {
+   "id": "flash-atualidades-saude-01",
+   "frente": "Quais são os princípios do SUS?",
+   "verso": "Universalidade, integralidade e equidade, com diretrizes de descentralização, regionalização e participação social."
+  },
+  {
+   "id": "flash-atualidades-saude-02",
+   "frente": "O que significa a universalidade do SUS?",
+   "verso": "Toda pessoa em território brasileiro tem direito ao atendimento, independentemente de contribuição, renda ou nacionalidade."
+  },
+  {
+   "id": "flash-atualidades-saude-03",
+   "frente": "O que significa a integralidade no SUS?",
+   "verso": "O atendimento deve abranger prevenção, tratamento e reabilitação, considerando a pessoa como um todo."
+  },
+  {
+   "id": "flash-atualidades-saude-04",
+   "frente": "O que é a atenção primária à saúde?",
+   "verso": "O primeiro nível de cuidado, porta de entrada do sistema, que resolve a maior parte das demandas e coordena o cuidado."
+  },
+  {
+   "id": "flash-atualidades-saude-05",
+   "frente": "Qual é a importância da Estratégia Saúde da Família?",
+   "verso": "Organiza a atenção primária por equipes territorializadas, aproximando o cuidado da comunidade e priorizando prevenção."
+  },
+  {
+   "id": "flash-atualidades-saude-06",
+   "frente": "O que é a judicialização da saúde?",
+   "verso": "A busca de tratamentos e medicamentos por via judicial, que garante acesso individual mas desorganiza o planejamento orçamentário coletivo."
+  },
+  {
+   "id": "flash-atualidades-saude-07",
+   "frente": "Qual é a importância do Programa Nacional de Imunizações?",
+   "verso": "É um dos maiores programas públicos de vacinação do mundo, responsável pela erradicação e pelo controle de diversas doenças no Brasil."
+  },
+  {
+   "id": "flash-atualidades-saude-08",
+   "frente": "O que é cobertura vacinal, e por que ela importa?",
+   "verso": "É a proporção do público-alvo vacinado; abaixo de certo patamar, perde-se a imunidade coletiva e doenças controladas retornam."
+  },
+  {
+   "id": "flash-atualidades-saude-09",
+   "frente": "O que é imunidade de rebanho (coletiva)?",
+   "verso": "A proteção indireta que surge quando parcela suficiente da população está imunizada, dificultando a circulação do agente."
+  },
+  {
+   "id": "flash-atualidades-saude-10",
+   "frente": "Quais são as causas da queda da cobertura vacinal no Brasil?",
+   "verso": "Desinformação, hesitação vacinal, dificuldades de acesso e a falsa percepção de que doenças controladas deixaram de ser risco."
+  },
+  {
+   "id": "flash-atualidades-saude-11",
+   "frente": "Qual é a diferença entre epidemia, pandemia e endemia?",
+   "verso": "Epidemia é surto acima do esperado numa região; pandemia se espalha por vários continentes; endemia é a presença constante numa área."
+  },
+  {
+   "id": "flash-atualidades-saude-12",
+   "frente": "Por que a dengue voltou a ser um problema grave no Brasil?",
+   "verso": "Pela circulação simultânea de sorotipos, pela urbanização com saneamento precário e por condições climáticas favoráveis ao vetor."
+  },
+  {
+   "id": "flash-atualidades-saude-13",
+   "frente": "O que são arboviroses?",
+   "verso": "Doenças transmitidas por artrópodes, como dengue, zika, chikungunya e febre amarela."
+  },
+  {
+   "id": "flash-atualidades-saude-14",
+   "frente": "Que lições a pandemia de covid-19 deixou para a saúde pública?",
+   "verso": "A importância de sistemas universais, de vigilância epidemiológica, de produção nacional de insumos e do enfrentamento à desinformação."
+  },
+  {
+   "id": "flash-atualidades-saude-15",
+   "frente": "O que é a vigilância epidemiológica?",
+   "verso": "O monitoramento contínuo de doenças e agravos para detectar surtos precocemente e orientar as respostas."
+  },
+  {
+   "id": "flash-atualidades-saude-16",
+   "frente": "O que é a saúde mental como questão de saúde pública?",
+   "verso": "O reconhecimento de que transtornos como depressão e ansiedade têm determinantes sociais e exigem política pública, não apenas cuidado individual."
+  },
+  {
+   "id": "flash-atualidades-saude-17",
+   "frente": "O que é a Reforma Psiquiátrica brasileira?",
+   "verso": "O processo que substituiu o modelo manicomial pela atenção em liberdade, com os CAPS como serviço central."
+  },
+  {
+   "id": "flash-atualidades-saude-18",
+   "frente": "O que são os CAPS?",
+   "verso": "Centros de Atenção Psicossocial, serviços territoriais de cuidado em saúde mental que evitam a internação como primeira resposta."
+  },
+  {
+   "id": "flash-atualidades-saude-19",
+   "frente": "O que é burnout, e qual seu reconhecimento oficial?",
+   "verso": "A síndrome de esgotamento profissional, reconhecida pela OMS como fenômeno ocupacional relacionado ao trabalho."
+  },
+  {
+   "id": "flash-atualidades-saude-20",
+   "frente": "Por que o suicídio é tratado como questão de saúde pública?",
+   "verso": "Porque tem determinantes sociais identificáveis e é prevenível por políticas de acolhimento, acesso a cuidado e cobertura midiática responsável."
+  },
+  {
+   "id": "flash-atualidades-saude-21",
+   "frente": "O que é a transição nutricional brasileira?",
+   "verso": "A mudança do padrão de desnutrição para o de excesso de peso e obesidade, com persistência de deficiências de micronutrientes."
+  },
+  {
+   "id": "flash-atualidades-saude-22",
+   "frente": "O que são alimentos ultraprocessados?",
+   "verso": "Formulações industriais com aditivos e ingredientes de uso não culinário, associadas a obesidade e doenças crônicas."
+  },
+  {
+   "id": "flash-atualidades-saude-23",
+   "frente": "O que propõe o Guia Alimentar para a População Brasileira?",
+   "verso": "Priorizar alimentos in natura e minimamente processados e evitar ultraprocessados, adotando a classificação NOVA."
+  },
+  {
+   "id": "flash-atualidades-saude-24",
+   "frente": "O que é insegurança alimentar?",
+   "verso": "A situação em que o acesso regular a alimentos em quantidade e qualidade adequadas não está assegurado."
+  },
+  {
+   "id": "flash-atualidades-saude-25",
+   "frente": "Qual é a diferença entre fome e insegurança alimentar?",
+   "verso": "A fome é a forma grave da insegurança alimentar; esta abrange também a incerteza sobre o acesso futuro e a piora da qualidade da dieta."
+  },
+  {
+   "id": "flash-atualidades-saude-26",
+   "frente": "O que é a rotulagem nutricional frontal?",
+   "verso": "O sistema de aviso na frente da embalagem sobre excesso de açúcar, gordura saturada e sódio, adotado no Brasil em 2022."
+  },
+  {
+   "id": "flash-atualidades-saude-27",
+   "frente": "O que são doenças crônicas não transmissíveis?",
+   "verso": "Diabetes, hipertensão, câncer e doenças respiratórias crônicas — principais causas de morte no Brasil e no mundo."
+  },
+  {
+   "id": "flash-atualidades-saude-28",
+   "frente": "O que é a transição epidemiológica?",
+   "verso": "A mudança do predomínio de doenças infecciosas para o de doenças crônicas, acompanhando o envelhecimento populacional."
+  },
+  {
+   "id": "flash-atualidades-saude-29",
+   "frente": "Quais são os desafios do envelhecimento populacional para a saúde?",
+   "verso": "O aumento das doenças crônicas e da demanda por cuidado continuado, exigindo reorganização do sistema e política de cuidados."
+  },
+  {
+   "id": "flash-atualidades-saude-30",
+   "frente": "O que são determinantes sociais da saúde?",
+   "verso": "As condições de vida — renda, moradia, saneamento, educação, trabalho — que influenciam diretamente o estado de saúde."
+  },
+  {
+   "id": "flash-atualidades-saude-31",
+   "frente": "Por que saneamento básico é política de saúde?",
+   "verso": "Porque a ausência de água tratada e esgoto responde por parte expressiva das internações por doenças evitáveis."
+  },
+  {
+   "id": "flash-atualidades-saude-32",
+   "frente": "O que é o Mais Médicos?",
+   "verso": "O programa que leva profissionais a regiões com escassez de médicos, sobretudo periferias, interior e áreas indígenas."
+  },
+  {
+   "id": "flash-atualidades-saude-33",
+   "frente": "O que é a resistência antimicrobiana, e por que preocupa?",
+   "verso": "A perda de eficácia dos antibióticos pelo uso excessivo e inadequado, apontada pela OMS como uma das maiores ameaças à saúde global."
+  }
+ ],
  "biologia-citologia": [
   {
    "id": "flash-biologia-citologia-01",

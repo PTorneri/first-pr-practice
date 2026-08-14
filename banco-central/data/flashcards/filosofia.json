@@ -1,0 +1,1008 @@
+{
+  "frente": "filosofia",
+  "gerado": "2026-08-14",
+  "porSubtema": {
+    "filosofia-etica-moral": [
+      {
+        "id": "flash-filosofia-etica-moral-01",
+        "frente": "Qual é a diferença entre ética e moral?",
+        "verso": "A moral é o conjunto de normas vigentes num grupo; a ética é a reflexão filosófica sobre os fundamentos dessas normas."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-02",
+        "frente": "O que é uma virtude, para Aristóteles?",
+        "verso": "Uma disposição de caráter adquirida pelo hábito, que se situa no meio-termo entre dois vícios opostos."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-03",
+        "frente": "O que é a doutrina do meio-termo aristotélica?",
+        "verso": "A virtude está entre o excesso e a falta: a coragem fica entre a temeridade e a covardia."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-04",
+        "frente": "O que é eudaimonia?",
+        "verso": "A felicidade como florescimento humano — o fim último da vida, alcançado pelo exercício das virtudes e da razão."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-05",
+        "frente": "Por que a ética aristotélica é chamada de ética das virtudes?",
+        "verso": "Porque se pergunta que tipo de pessoa devemos ser, e não apenas que regras devemos seguir."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-06",
+        "frente": "O que é o imperativo categórico de Kant?",
+        "verso": "O princípio moral incondicional: age apenas segundo a máxima que possas querer que se torne lei universal."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-07",
+        "frente": "Qual é a segunda formulação do imperativo categórico?",
+        "verso": "Trate a humanidade, em ti e nos outros, sempre como fim, e nunca apenas como meio."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-08",
+        "frente": "Qual é a diferença entre imperativo categórico e hipotético?",
+        "verso": "O hipotético vale sob condição ('se queres X, faz Y'); o categórico obriga incondicionalmente."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-09",
+        "frente": "O que é autonomia da vontade, para Kant?",
+        "verso": "A capacidade de a razão dar a si mesma a lei moral, sem depender de autoridade externa nem de inclinações."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-10",
+        "frente": "Por que a ética kantiana é chamada deontológica?",
+        "verso": "Porque o valor moral está no DEVER e na intenção de cumpri-lo, não nas consequências da ação."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-11",
+        "frente": "Para Kant, uma ação boa por interesse tem valor moral?",
+        "verso": "Não — só tem valor moral a ação praticada POR dever, e não apenas em conformidade com ele."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-12",
+        "frente": "O que é o utilitarismo?",
+        "verso": "A doutrina segundo a qual a ação correta é a que produz a maior felicidade para o maior número de pessoas."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-13",
+        "frente": "Qual é o princípio da utilidade de Bentham?",
+        "verso": "Maximizar o prazer e minimizar o sofrimento agregados, tratando cada pessoa como uma unidade equivalente."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-14",
+        "frente": "Qual foi a crítica de Stuart Mill ao utilitarismo de Bentham?",
+        "verso": "Que os prazeres diferem em QUALIDADE, não apenas em quantidade — prazeres intelectuais valem mais que os sensoriais."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-15",
+        "frente": "Por que o utilitarismo é chamado consequencialista?",
+        "verso": "Porque julga a ação exclusivamente por seus resultados, e não pela intenção ou pela regra seguida."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-16",
+        "frente": "Qual é a principal objeção ao utilitarismo?",
+        "verso": "Pode justificar o sacrifício de uma minoria em nome do bem-estar da maioria, violando direitos individuais."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-17",
+        "frente": "Como o utilitarismo e o kantismo divergem diante de uma mentira que salva vidas?",
+        "verso": "O utilitarismo a aprova pelo saldo de bem-estar; Kant a condena, pois a máxima não pode ser universalizada."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-18",
+        "frente": "O que é a teoria da justiça de John Rawls?",
+        "verso": "A justiça como equidade, cujos princípios seriam escolhidos por pessoas racionais em posição de igualdade."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-19",
+        "frente": "O que é o véu da ignorância, em Rawls?",
+        "verso": "O experimento mental em que se escolhem os princípios de justiça sem saber que posição se ocupará na sociedade."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-20",
+        "frente": "O que é o princípio da diferença, em Rawls?",
+        "verso": "Desigualdades só se justificam se beneficiarem os membros menos favorecidos da sociedade."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-21",
+        "frente": "Qual é a diferença entre justiça distributiva e retributiva?",
+        "verso": "A distributiva trata da repartição de bens e ônus; a retributiva, da punição proporcional às faltas cometidas."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-22",
+        "frente": "O que é relativismo moral?",
+        "verso": "A posição de que não há critérios morais universais, sendo os valores válidos apenas dentro de cada cultura."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-23",
+        "frente": "Qual é a principal dificuldade do relativismo moral?",
+        "verso": "Torna impossível criticar práticas de outra cultura, mesmo quando envolvem sofrimento grave."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-24",
+        "frente": "O que é o dilema do bonde (trolley problem)?",
+        "verso": "O experimento que opõe a intuição consequencialista (salvar cinco) à deontológica (não usar alguém como meio)."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-25",
+        "frente": "O que é a bioética?",
+        "verso": "A ética aplicada às questões da vida e da saúde: eutanásia, aborto, pesquisa com embriões, genética e alocação de recursos."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-26",
+        "frente": "Quais são os quatro princípios clássicos da bioética?",
+        "verso": "Autonomia, beneficência, não maleficência e justiça."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-27",
+        "frente": "O que é o princípio da autonomia na bioética?",
+        "verso": "O respeito à decisão informada do paciente sobre o próprio corpo e tratamento."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-28",
+        "frente": "O que discute a ética animal?",
+        "verso": "Se e em que medida animais têm interesses moralmente relevantes que geram deveres para os humanos."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-29",
+        "frente": "O que é especismo, segundo Peter Singer?",
+        "verso": "A discriminação baseada na pertença a uma espécie, análoga ao racismo e ao sexismo."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-30",
+        "frente": "O que é a responsabilidade moral, e o que ela pressupõe?",
+        "verso": "A imputação de uma ação a um agente; pressupõe liberdade de escolha e consciência das consequências."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-31",
+        "frente": "Como o determinismo desafia a responsabilidade moral?",
+        "verso": "Se toda ação é causada por fatores anteriores, torna-se problemático responsabilizar alguém por escolhas que não poderia evitar."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-32",
+        "frente": "O que é ética profissional?",
+        "verso": "O conjunto de princípios que regulam o exercício de uma atividade, conciliando interesse técnico e responsabilidade social."
+      },
+      {
+        "id": "flash-filosofia-etica-moral-33",
+        "frente": "Qual é a diferença entre legalidade e legitimidade moral?",
+        "verso": "Uma norma pode ser legal e ainda assim injusta; a legitimidade moral não se reduz à validade jurídica."
+      }
+    ],
+    "filosofia-politica": [
+      {
+        "id": "flash-filosofia-politica-01",
+        "frente": "O que é o contratualismo?",
+        "verso": "A teoria segundo a qual o Estado nasce de um acordo entre indivíduos que saem do estado de natureza."
+      },
+      {
+        "id": "flash-filosofia-politica-02",
+        "frente": "Como Hobbes descreve o estado de natureza?",
+        "verso": "Como guerra de todos contra todos, em que a vida é 'solitária, pobre, sórdida, embrutecida e curta'."
+      },
+      {
+        "id": "flash-filosofia-politica-03",
+        "frente": "Que solução Hobbes propõe no Leviatã?",
+        "verso": "A cessão de todos os direitos a um soberano absoluto, cuja força garante a paz e a segurança."
+      },
+      {
+        "id": "flash-filosofia-politica-04",
+        "frente": "Como Locke descreve o estado de natureza?",
+        "verso": "Como estado de relativa liberdade e igualdade regido pela lei natural, mas sem juiz imparcial para resolver conflitos."
+      },
+      {
+        "id": "flash-filosofia-politica-05",
+        "frente": "Que direitos naturais Locke considera anteriores ao Estado?",
+        "verso": "Vida, liberdade e propriedade."
+      },
+      {
+        "id": "flash-filosofia-politica-06",
+        "frente": "Qual é a principal diferença política entre Hobbes e Locke?",
+        "verso": "Hobbes justifica o poder absoluto; Locke defende o poder limitado e o direito de resistência ao governo que viola direitos."
+      },
+      {
+        "id": "flash-filosofia-politica-07",
+        "frente": "Como Rousseau descreve o homem no estado de natureza?",
+        "verso": "Como bom e livre, sendo a sociedade e a propriedade privada as responsáveis pela corrupção e pela desigualdade."
+      },
+      {
+        "id": "flash-filosofia-politica-08",
+        "frente": "O que é a vontade geral, em Rousseau?",
+        "verso": "A vontade do corpo político voltada ao bem comum, distinta da soma dos interesses particulares."
+      },
+      {
+        "id": "flash-filosofia-politica-09",
+        "frente": "Qual é a concepção de soberania de Rousseau?",
+        "verso": "A soberania pertence ao povo, é inalienável e indivisível — não pode ser transferida a representantes."
+      },
+      {
+        "id": "flash-filosofia-politica-10",
+        "frente": "Qual é a contribuição central de Maquiavel à filosofia política?",
+        "verso": "A separação entre política e moral, analisando o poder como ele é e não como deveria ser."
+      },
+      {
+        "id": "flash-filosofia-politica-11",
+        "frente": "O que significa 'os fins justificam os meios' em Maquiavel?",
+        "verso": "É simplificação de sua tese: o governante deve fazer o necessário para manter o Estado, mesmo contrariando a moral corrente."
+      },
+      {
+        "id": "flash-filosofia-politica-12",
+        "frente": "O que é a virtù e a fortuna em Maquiavel?",
+        "verso": "Virtù é a capacidade de ação e decisão do governante; fortuna é o acaso, que ele deve aprender a dominar."
+      },
+      {
+        "id": "flash-filosofia-politica-13",
+        "frente": "O que propõe Montesquieu com a separação dos poderes?",
+        "verso": "Dividir o poder em Executivo, Legislativo e Judiciário, de modo que cada um limite os demais."
+      },
+      {
+        "id": "flash-filosofia-politica-14",
+        "frente": "Por que a separação dos poderes protege a liberdade?",
+        "verso": "Porque impede a concentração de poder num único órgão, criando freios e contrapesos contra o arbítrio."
+      },
+      {
+        "id": "flash-filosofia-politica-15",
+        "frente": "Qual é a diferença entre liberdade negativa e positiva?",
+        "verso": "A negativa é a ausência de interferência externa; a positiva é a capacidade efetiva de autodeterminação."
+      },
+      {
+        "id": "flash-filosofia-politica-16",
+        "frente": "O que caracteriza o liberalismo político clássico?",
+        "verso": "A defesa dos direitos individuais, do Estado limitado, da propriedade privada e do governo por consentimento."
+      },
+      {
+        "id": "flash-filosofia-politica-17",
+        "frente": "O que é democracia direta, e onde ela surgiu?",
+        "verso": "Aquela em que os cidadãos deliberam pessoalmente; surgiu em Atenas, embora restrita a homens livres nascidos na cidade."
+      },
+      {
+        "id": "flash-filosofia-politica-18",
+        "frente": "O que é democracia representativa?",
+        "verso": "Aquela em que o povo exerce a soberania por meio de representantes eleitos periodicamente."
+      },
+      {
+        "id": "flash-filosofia-politica-19",
+        "frente": "O que é legitimidade do poder, segundo Weber?",
+        "verso": "A crença dos governados na validade do comando; ele distingue a dominação tradicional, a carismática e a racional-legal."
+      },
+      {
+        "id": "flash-filosofia-politica-20",
+        "frente": "O que caracteriza a dominação racional-legal?",
+        "verso": "A obediência a normas impessoais e a cargos, não a pessoas — é a base do Estado burocrático moderno."
+      },
+      {
+        "id": "flash-filosofia-politica-21",
+        "frente": "O que caracteriza um regime totalitário, segundo Hannah Arendt?",
+        "verso": "A ideologia total, o terror permanente, o partido único e a destruição da esfera pública e da individualidade."
+      },
+      {
+        "id": "flash-filosofia-politica-22",
+        "frente": "O que Arendt entende por 'banalidade do mal'?",
+        "verso": "A constatação de que atrocidades podem ser cometidas por pessoas comuns que apenas cumprem ordens sem refletir."
+      },
+      {
+        "id": "flash-filosofia-politica-23",
+        "frente": "O que Arendt entende por espaço público?",
+        "verso": "O âmbito de aparecimento e ação entre iguais, em que a política se realiza pelo discurso e pela pluralidade."
+      },
+      {
+        "id": "flash-filosofia-politica-24",
+        "frente": "Qual é a concepção de poder em Foucault?",
+        "verso": "O poder não é apenas repressivo nem se concentra no Estado: circula em rede, é produtivo e opera sobre os corpos."
+      },
+      {
+        "id": "flash-filosofia-politica-25",
+        "frente": "O que é biopoder, em Foucault?",
+        "verso": "O poder que administra a vida das populações — natalidade, saúde, sexualidade — em vez de apenas ameaçar com a morte."
+      },
+      {
+        "id": "flash-filosofia-politica-26",
+        "frente": "O que é a sociedade disciplinar, em Foucault?",
+        "verso": "Aquela que produz corpos dóceis por vigilância, normalização e controle do tempo em escolas, fábricas, prisões e hospitais."
+      },
+      {
+        "id": "flash-filosofia-politica-27",
+        "frente": "O que é o panóptico, e o que ele simboliza?",
+        "verso": "A prisão circular projetada por Bentham; simboliza a vigilância que se torna eficaz porque o vigiado a interioriza."
+      },
+      {
+        "id": "flash-filosofia-politica-28",
+        "frente": "O que é hegemonia, em Gramsci?",
+        "verso": "A dominação que se exerce pelo consenso e pela direção cultural, e não apenas pela coerção."
+      },
+      {
+        "id": "flash-filosofia-politica-29",
+        "frente": "O que Gramsci entende por intelectual orgânico?",
+        "verso": "Aquele que articula e expressa a visão de mundo de sua classe, contribuindo para sua hegemonia."
+      },
+      {
+        "id": "flash-filosofia-politica-30",
+        "frente": "O que é razão de Estado?",
+        "verso": "O princípio segundo o qual a preservação do Estado justifica medidas que a moral comum condenaria."
+      },
+      {
+        "id": "flash-filosofia-politica-31",
+        "frente": "O que é cidadania, do ponto de vista político?",
+        "verso": "A condição de membro pleno da comunidade política, com direitos e deveres reconhecidos."
+      },
+      {
+        "id": "flash-filosofia-politica-32",
+        "frente": "O que distingue o Estado de Direito do Estado Democrático de Direito?",
+        "verso": "O Estado de Direito submete o poder à lei; o Democrático acrescenta a exigência de soberania popular e direitos fundamentais."
+      },
+      {
+        "id": "flash-filosofia-politica-33",
+        "frente": "O que é o republicanismo, como tradição política?",
+        "verso": "A corrente que valoriza o bem comum, a virtude cívica e a participação ativa contra a dominação arbitrária."
+      }
+    ],
+    "filosofia-conhecimento-logica": [
+      {
+        "id": "flash-filosofia-conhecimento-logica-01",
+        "frente": "O que estuda a epistemologia?",
+        "verso": "A natureza, a origem, os limites e a validade do conhecimento."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-02",
+        "frente": "O que é o mito da caverna, de Platão?",
+        "verso": "A alegoria em que prisioneiros tomam sombras por realidade; representa a passagem da opinião ao conhecimento verdadeiro."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-03",
+        "frente": "O que é o mundo das ideias, para Platão?",
+        "verso": "O plano das formas perfeitas e imutáveis, das quais o mundo sensível é apenas cópia imperfeita."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-04",
+        "frente": "Qual é a diferença entre doxa e episteme em Platão?",
+        "verso": "Doxa é a opinião, mutável e baseada nos sentidos; episteme é o conhecimento verdadeiro, alcançado pela razão."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-05",
+        "frente": "O que é a maiêutica socrática?",
+        "verso": "O método de fazer perguntas que levam o interlocutor a 'dar à luz' o conhecimento que já trazia em si."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-06",
+        "frente": "O que significa 'só sei que nada sei'?",
+        "verso": "O reconhecimento da própria ignorância como ponto de partida indispensável para a busca do saber."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-07",
+        "frente": "Quem eram os sofistas, e o que defendiam?",
+        "verso": "Mestres de retórica que ensinavam a arte de convencer; sustentavam o relativismo, resumido em 'o homem é a medida de todas as coisas'."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-08",
+        "frente": "O que é a dúvida metódica de Descartes?",
+        "verso": "O procedimento de duvidar de tudo o que possa ser posto em dúvida, até encontrar uma verdade indubitável."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-09",
+        "frente": "O que é o cogito cartesiano?",
+        "verso": "'Penso, logo existo' — a primeira certeza indubitável, pois mesmo ao duvidar já se está pensando."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-10",
+        "frente": "O que caracteriza o racionalismo?",
+        "verso": "A tese de que a razão é a fonte principal do conhecimento verdadeiro, com ideias inatas independentes da experiência."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-11",
+        "frente": "O que caracteriza o empirismo?",
+        "verso": "A tese de que todo conhecimento provém da experiência sensível — a mente nasce como 'tábula rasa'."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-12",
+        "frente": "Qual é a crítica de Hume à causalidade?",
+        "verso": "Não percebemos a conexão necessária entre causa e efeito, apenas a sucessão constante — a causalidade é hábito, não certeza."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-13",
+        "frente": "O que é o problema da indução, levantado por Hume?",
+        "verso": "Nenhuma quantidade de observações particulares garante logicamente a validade de uma lei geral."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-14",
+        "frente": "Como Kant sintetiza racionalismo e empirismo?",
+        "verso": "O conhecimento começa com a experiência, mas é organizado por formas a priori da sensibilidade e do entendimento."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-15",
+        "frente": "Qual é a diferença entre a priori e a posteriori?",
+        "verso": "A priori é independente da experiência; a posteriori depende dela."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-16",
+        "frente": "O que Kant chama de 'revolução copernicana' na filosofia?",
+        "verso": "A inversão segundo a qual não é o conhecimento que se ajusta ao objeto, mas o objeto que se conforma às estruturas do sujeito."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-17",
+        "frente": "Qual é a distinção kantiana entre fenômeno e númeno?",
+        "verso": "O fenômeno é a coisa como nos aparece; o númeno é a coisa em si, inacessível ao conhecimento humano."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-18",
+        "frente": "O que é o ceticismo filosófico?",
+        "verso": "A posição que suspende o juízo sobre a possibilidade de alcançar conhecimento certo."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-19",
+        "frente": "O que é a lógica, como disciplina?",
+        "verso": "O estudo das formas válidas de raciocínio, independentemente do conteúdo das proposições."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-20",
+        "frente": "O que é um silogismo?",
+        "verso": "O raciocínio dedutivo com duas premissas e uma conclusão que delas decorre necessariamente."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-21",
+        "frente": "Qual é a diferença entre validade e verdade num argumento?",
+        "verso": "A validade diz respeito à FORMA (a conclusão decorre das premissas); a verdade diz respeito ao CONTEÚDO das proposições."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-22",
+        "frente": "Um argumento válido pode ter conclusão falsa?",
+        "verso": "Sim, se alguma premissa for falsa — a validade garante apenas que, sendo as premissas verdadeiras, a conclusão também será."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-23",
+        "frente": "Qual é a diferença entre dedução e indução?",
+        "verso": "A dedução vai do geral ao particular com conclusão necessária; a indução vai do particular ao geral com conclusão apenas provável."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-24",
+        "frente": "O que é uma falácia?",
+        "verso": "Um raciocínio que aparenta validade mas não sustenta a conclusão, por erro lógico ou por manipulação."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-25",
+        "frente": "O que é a falácia ad hominem?",
+        "verso": "Atacar quem sustenta o argumento em vez do argumento em si."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-26",
+        "frente": "O que é a falácia do apelo à autoridade?",
+        "verso": "Sustentar uma tese apenas invocando quem a defende, sem apresentar as razões que a fundamentam."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-27",
+        "frente": "O que é o princípio da não contradição?",
+        "verso": "Uma proposição e sua negação não podem ser ambas verdadeiras no mesmo sentido e ao mesmo tempo."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-28",
+        "frente": "O que caracteriza o método científico moderno?",
+        "verso": "A formulação de hipóteses testáveis, a experimentação controlada e a revisão pública dos resultados."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-29",
+        "frente": "O que é o falseacionismo de Karl Popper?",
+        "verso": "O critério segundo o qual uma teoria é científica se puder ser refutada por experimento — não se busca confirmar, mas falsear."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-30",
+        "frente": "Por que, para Popper, a confirmação não basta para validar uma teoria?",
+        "verso": "Porque muitas observações favoráveis não provam a lei, mas um único contraexemplo a refuta."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-31",
+        "frente": "O que é um paradigma científico, segundo Thomas Kuhn?",
+        "verso": "O conjunto de pressupostos e práticas partilhados por uma comunidade científica num dado período."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-32",
+        "frente": "O que é uma revolução científica, para Kuhn?",
+        "verso": "A substituição de um paradigma por outro incompatível, quando as anomalias acumuladas tornam o antigo insustentável."
+      },
+      {
+        "id": "flash-filosofia-conhecimento-logica-33",
+        "frente": "Qual é a diferença entre ciência normal e ciência revolucionária em Kuhn?",
+        "verso": "A normal resolve problemas dentro do paradigma vigente; a revolucionária substitui o próprio paradigma."
+      }
+    ],
+    "sociologia-trabalho-classes": [
+      {
+        "id": "flash-sociologia-trabalho-classes-01",
+        "frente": "O que é um fato social, segundo Durkheim?",
+        "verso": "Toda maneira de agir, pensar e sentir exterior ao indivíduo e dotada de poder de coerção sobre ele."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-02",
+        "frente": "Quais são as três características do fato social?",
+        "verso": "Exterioridade, coercitividade e generalidade."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-03",
+        "frente": "Por que Durkheim afirma que os fatos sociais devem ser tratados como coisas?",
+        "verso": "Para garantir objetividade científica, estudando-os por observação empírica e não por pré-noções."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-04",
+        "frente": "O que é solidariedade mecânica, para Durkheim?",
+        "verso": "A coesão de sociedades simples, baseada na semelhança entre indivíduos e em consciência coletiva forte."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-05",
+        "frente": "O que é solidariedade orgânica?",
+        "verso": "A coesão de sociedades complexas, baseada na interdependência gerada pela divisão social do trabalho."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-06",
+        "frente": "O que é anomia, para Durkheim?",
+        "verso": "O estado de enfraquecimento ou ausência de normas reguladoras, que produz desorientação e sofrimento social."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-07",
+        "frente": "Como Durkheim explica o suicídio sociologicamente?",
+        "verso": "Como fato social: suas taxas variam conforme o grau de integração e de regulação da sociedade, não apenas por motivos individuais."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-08",
+        "frente": "O que é a divisão social do trabalho, para Durkheim?",
+        "verso": "A especialização das funções que, ao aumentar a interdependência, torna-se a principal fonte de coesão nas sociedades modernas."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-09",
+        "frente": "O que é a mais-valia, para Marx?",
+        "verso": "A diferença entre o valor produzido pelo trabalhador e o salário que recebe — é a fonte do lucro capitalista."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-10",
+        "frente": "Qual é a diferença entre mais-valia absoluta e relativa?",
+        "verso": "A absoluta vem do prolongamento da jornada; a relativa, do aumento da produtividade pela tecnologia."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-11",
+        "frente": "O que é alienação, para Marx?",
+        "verso": "A separação do trabalhador em relação ao produto, ao processo, a si mesmo e aos outros — o trabalho deixa de o realizar."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-12",
+        "frente": "Quais são as classes fundamentais do capitalismo, para Marx?",
+        "verso": "A burguesia, proprietária dos meios de produção, e o proletariado, que vende sua força de trabalho."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-13",
+        "frente": "O que Marx entende por luta de classes?",
+        "verso": "O conflito estrutural entre classes com interesses opostos, que ele considera o motor da história."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-14",
+        "frente": "O que é o materialismo histórico?",
+        "verso": "O método que explica a história a partir das condições materiais de produção e das relações sociais que delas decorrem."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-15",
+        "frente": "O que são infraestrutura e superestrutura, em Marx?",
+        "verso": "A infraestrutura é a base econômica; a superestrutura são as instituições jurídicas, políticas e ideológicas que dela emergem."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-16",
+        "frente": "O que é o fetichismo da mercadoria?",
+        "verso": "A aparência de que o valor é propriedade natural do objeto, ocultando o trabalho humano que o produziu."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-17",
+        "frente": "O que Weber entende por ação social?",
+        "verso": "A conduta dotada de sentido pelo agente e orientada pela ação de outros."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-18",
+        "frente": "Quais são os quatro tipos de ação social em Weber?",
+        "verso": "Racional com relação a fins, racional com relação a valores, afetiva e tradicional."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-19",
+        "frente": "O que é um tipo ideal, em Weber?",
+        "verso": "Um modelo conceitual construído pelo pesquisador para comparar e interpretar a realidade, sem pretensão de descrevê-la exatamente."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-20",
+        "frente": "O que é o processo de racionalização, para Weber?",
+        "verso": "A crescente organização da vida social por cálculo, previsibilidade e regras impessoais."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-21",
+        "frente": "O que Weber chama de 'desencantamento do mundo'?",
+        "verso": "A perda de explicações mágicas e religiosas diante do avanço da ciência e da racionalidade instrumental."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-22",
+        "frente": "Qual é a tese central de 'A Ética Protestante e o Espírito do Capitalismo'?",
+        "verso": "A ética ascética protestante, ao valorizar trabalho e poupança, favoreceu a mentalidade que impulsionou o capitalismo."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-23",
+        "frente": "O que é a burocracia, para Weber?",
+        "verso": "A forma de organização baseada em hierarquia, regras impessoais e competência técnica — eficiente, mas produtora da 'jaula de ferro'."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-24",
+        "frente": "Como Weber estratifica a sociedade, em contraste com Marx?",
+        "verso": "Por três dimensões — classe (econômica), status (prestígio) e partido (poder) — e não apenas pela posição na produção."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-25",
+        "frente": "O que caracteriza o taylorismo?",
+        "verso": "A administração científica que cronometra tarefas e separa quem planeja de quem executa."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-26",
+        "frente": "O que caracteriza o fordismo?",
+        "verso": "A produção em massa na linha de montagem, com trabalho fragmentado, produtos padronizados e grandes estoques."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-27",
+        "frente": "O que caracteriza o toyotismo?",
+        "verso": "A produção flexível sob demanda, com estoque mínimo (just in time), trabalhador multifuncional e controle de qualidade no processo."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-28",
+        "frente": "O que é acumulação flexível?",
+        "verso": "O regime pós-fordista de produção adaptável e terceirizada, associado à precarização e à fragmentação do trabalho."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-29",
+        "frente": "O que é precarização do trabalho?",
+        "verso": "A perda de estabilidade, proteção social e previsibilidade de renda nas relações de trabalho."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-30",
+        "frente": "O que é uberização do trabalho?",
+        "verso": "A intermediação por plataformas digitais que transfere riscos e custos ao trabalhador, sem vínculo formal de emprego."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-31",
+        "frente": "O que é trabalho informal?",
+        "verso": "A ocupação sem registro nem proteção previdenciária e trabalhista."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-32",
+        "frente": "O que é mobilidade social, e o que é uma sociedade de castas?",
+        "verso": "Mobilidade é a possibilidade de mudar de posição social; numa sociedade de castas, a posição é fixada pelo nascimento."
+      },
+      {
+        "id": "flash-sociologia-trabalho-classes-33",
+        "frente": "O que é meritocracia, e qual é a crítica sociológica a ela?",
+        "verso": "A ideia de que a posição social reflete esforço e talento; a crítica aponta que ela ignora as condições desiguais de partida."
+      }
+    ],
+    "sociologia-cultura-identidade": [
+      {
+        "id": "flash-sociologia-cultura-identidade-01",
+        "frente": "O que é cultura, no sentido antropológico?",
+        "verso": "O conjunto de saberes, crenças, valores, hábitos e técnicas partilhados e transmitidos socialmente."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-02",
+        "frente": "O que é etnocentrismo?",
+        "verso": "Julgar outras culturas a partir dos valores da própria, tomando-a como padrão universal."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-03",
+        "frente": "O que é relativismo cultural?",
+        "verso": "A postura de compreender cada cultura por seus próprios termos, sem hierarquizá-la em relação às demais."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-04",
+        "frente": "Qual é o limite frequentemente apontado ao relativismo cultural?",
+        "verso": "Levado ao extremo, impede criticar práticas que violam direitos humanos dentro de qualquer cultura."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-05",
+        "frente": "O que é socialização?",
+        "verso": "O processo pelo qual o indivíduo internaliza normas, valores e papéis do grupo em que vive."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-06",
+        "frente": "Qual é a diferença entre socialização primária e secundária?",
+        "verso": "A primária ocorre na infância, sobretudo na família; a secundária, ao longo da vida, na escola, no trabalho e em outros grupos."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-07",
+        "frente": "O que é aculturação?",
+        "verso": "O processo de mudança cultural resultante do contato contínuo entre culturas distintas."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-08",
+        "frente": "O que é hibridismo cultural?",
+        "verso": "A mistura de elementos de culturas diferentes que gera formas novas, sem pertencer inteiramente a nenhuma delas."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-09",
+        "frente": "O que é identidade cultural?",
+        "verso": "O sentimento de pertencimento a um grupo, construído socialmente e sempre em processo, não fixo por natureza."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-10",
+        "frente": "O que é multiculturalismo?",
+        "verso": "O reconhecimento e a convivência de múltiplas culturas numa mesma sociedade, com valorização da diferença."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-11",
+        "frente": "O que é habitus, para Bourdieu?",
+        "verso": "O sistema de disposições incorporadas, adquiridas pela socialização, que orienta percepções, gostos e práticas."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-12",
+        "frente": "O que é capital cultural, para Bourdieu?",
+        "verso": "O conjunto de saberes, credenciais e disposições culturais que conferem vantagem social, transmitidos sobretudo pela família."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-13",
+        "frente": "Quais são os estados do capital cultural em Bourdieu?",
+        "verso": "Incorporado (disposições), objetivado (bens culturais) e institucionalizado (diplomas e títulos)."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-14",
+        "frente": "O que é capital simbólico?",
+        "verso": "O prestígio e o reconhecimento que legitimam a posição de um agente no espaço social."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-15",
+        "frente": "Como Bourdieu explica a reprodução das desigualdades pela escola?",
+        "verso": "A escola trata como mérito individual o capital cultural herdado, legitimando desigualdades de origem familiar."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-16",
+        "frente": "O que é violência simbólica, em Bourdieu?",
+        "verso": "A imposição de significados como legítimos, aceita inclusive pelos dominados, que a percebem como natural."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-17",
+        "frente": "O que é indústria cultural, para Adorno e Horkheimer?",
+        "verso": "A produção de bens culturais em escala industrial, padronizada e voltada ao lucro, que transforma cultura em mercadoria."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-18",
+        "frente": "Qual é a crítica da Escola de Frankfurt à indústria cultural?",
+        "verso": "Ela padroniza o gosto, promove a passividade e enfraquece a capacidade crítica, funcionando como instrumento de conformismo."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-19",
+        "frente": "O que é cultura de massa?",
+        "verso": "A cultura produzida para consumo amplo e homogêneo, difundida pelos meios de comunicação."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-20",
+        "frente": "Qual é a diferença entre cultura popular e cultura de massa?",
+        "verso": "A popular é produzida pelo próprio povo em seus contextos; a de massa é produzida industrialmente para ele."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-21",
+        "frente": "O que é a mercantilização da cultura?",
+        "verso": "A conversão de manifestações culturais em produtos, subordinando seu sentido ao valor de troca."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-22",
+        "frente": "O que é a indústria do entretenimento como formadora de opinião?",
+        "verso": "O papel dos meios em definir a agenda pública e os quadros de interpretação da realidade."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-23",
+        "frente": "O que é a teoria do agendamento (agenda-setting)?",
+        "verso": "A tese de que a mídia não determina o que pensar, mas sobre o que pensar, ao selecionar o que ganha destaque."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-24",
+        "frente": "O que é uma bolha informacional?",
+        "verso": "O ambiente em que o usuário só encontra conteúdos alinhados às próprias visões, por filtragem algorítmica."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-25",
+        "frente": "O que é câmara de eco (echo chamber)?",
+        "verso": "O espaço em que opiniões semelhantes se reforçam mutuamente, radicalizando posições e reduzindo o contraditório."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-26",
+        "frente": "Como os algoritmos das redes influenciam a formação de opinião?",
+        "verso": "Priorizam engajamento, o que favorece conteúdos emocionais e polarizados em detrimento dos informativos."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-27",
+        "frente": "O que é desinformação, e como difere de informação incorreta?",
+        "verso": "A desinformação é falsidade difundida INTENCIONALMENTE; informação incorreta pode ser erro não deliberado."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-28",
+        "frente": "O que é a cultura do cancelamento, do ponto de vista sociológico?",
+        "verso": "Uma forma contemporânea de sanção social coletiva mediada por redes, com debate aberto sobre seus limites e efeitos."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-29",
+        "frente": "O que é apropriação cultural?",
+        "verso": "O uso de elementos de uma cultura minoritária por um grupo dominante, sem reconhecimento nem contexto, frequentemente com fins comerciais."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-30",
+        "frente": "O que é identidade de gênero, e como difere de sexo biológico?",
+        "verso": "A identidade de gênero é a percepção de si como homem, mulher ou outra categoria; o sexo biológico refere-se a características corporais."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-31",
+        "frente": "O que significa dizer que gênero é uma construção social?",
+        "verso": "Que os papéis e expectativas associados a homens e mulheres variam histórica e culturalmente, não decorrendo da biologia."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-32",
+        "frente": "O que é interseccionalidade?",
+        "verso": "A análise que considera a sobreposição de marcadores — raça, classe, gênero, sexualidade — na produção das desigualdades."
+      },
+      {
+        "id": "flash-sociologia-cultura-identidade-33",
+        "frente": "O que é a globalização cultural?",
+        "verso": "A intensificação da circulação mundial de bens simbólicos, que gera homogeneização e, ao mesmo tempo, reafirmação de identidades locais."
+      }
+    ],
+    "sociologia-instituicoes-movimentos": [
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-01",
+        "frente": "O que é uma instituição social?",
+        "verso": "O conjunto estável de normas, papéis e práticas que organiza uma área da vida social, como família, escola, religião e Estado."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-02",
+        "frente": "Qual é a função da família como instituição social?",
+        "verso": "A socialização primária, a transmissão de valores e a reprodução social e cultural."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-03",
+        "frente": "Como a estrutura familiar mudou nas últimas décadas?",
+        "verso": "Diversificou-se: além da nuclear, tornaram-se comuns famílias monoparentais, recompostas, homoafetivas e unipessoais."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-04",
+        "frente": "Qual é a função social da escola?",
+        "verso": "Transmitir conhecimento, socializar e, segundo a crítica sociológica, também reproduzir desigualdades de origem."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-05",
+        "frente": "O que é currículo oculto?",
+        "verso": "O conjunto de valores e comportamentos transmitidos pela escola de forma implícita, fora do currículo formal."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-06",
+        "frente": "O que é laicidade do Estado?",
+        "verso": "A separação entre Estado e religião, com neutralidade estatal e garantia de liberdade de crença a todos."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-07",
+        "frente": "Qual é a diferença entre Estado laico e Estado ateu?",
+        "verso": "O laico é neutro e garante todas as crenças; o ateu nega ou combate a religião."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-08",
+        "frente": "O que é secularização?",
+        "verso": "O processo de perda de influência da religião sobre as demais esferas da vida social."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-09",
+        "frente": "O que é um movimento social?",
+        "verso": "A ação coletiva organizada e duradoura que busca transformar ou preservar aspectos da ordem social."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-10",
+        "frente": "O que distingue um movimento social de um protesto isolado?",
+        "verso": "A continuidade, a organização, a identidade coletiva e a existência de um projeto de mudança."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-11",
+        "frente": "Quais são os chamados novos movimentos sociais?",
+        "verso": "Os que emergem desde os anos 1960 em torno de identidade e direitos — feminista, negro, LGBTQIA+, ambientalista — e não apenas de classe."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-12",
+        "frente": "O que caracteriza o movimento feminista?",
+        "verso": "A luta por igualdade de direitos e pelo fim da opressão de gênero, organizada em ondas com pautas sucessivas."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-13",
+        "frente": "Que pautas marcaram a primeira e a segunda onda feminista?",
+        "verso": "A primeira lutou por direitos civis e sufrágio; a segunda, por direitos reprodutivos, trabalho e crítica ao patriarcado."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-14",
+        "frente": "O que caracteriza o movimento negro no Brasil?",
+        "verso": "A luta contra o racismo estrutural, pela memória da resistência negra e por políticas de reparação, como as cotas."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-15",
+        "frente": "O que foi o mito da democracia racial, e por que é criticado?",
+        "verso": "A ideia de convivência harmoniosa entre raças no Brasil; é criticada por ocultar o racismo estrutural e desmobilizar o enfrentamento."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-16",
+        "frente": "O que é racismo estrutural?",
+        "verso": "O racismo que opera nas instituições e nas práticas cotidianas, produzindo desigualdade mesmo sem intenção individual explícita."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-17",
+        "frente": "O que caracteriza o MST?",
+        "verso": "O movimento pela reforma agrária que ocupa terras improdutivas para pressionar pela função social da propriedade."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-18",
+        "frente": "O que caracteriza o movimento ambientalista?",
+        "verso": "A defesa da preservação e da justiça ambiental, articulando pauta ecológica e crítica ao modelo de desenvolvimento."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-19",
+        "frente": "Qual é o papel do movimento sindical?",
+        "verso": "Representar os trabalhadores na negociação coletiva e na defesa de direitos trabalhistas."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-20",
+        "frente": "O que é ciberativismo?",
+        "verso": "A mobilização política organizada por meios digitais, capaz de rápida difusão mas frequentemente de menor continuidade organizativa."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-21",
+        "frente": "Quais são os três tipos de direitos, segundo T. H. Marshall?",
+        "verso": "Civis, políticos e sociais, conquistados historicamente nessa sequência."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-22",
+        "frente": "O que são direitos civis, na classificação de Marshall?",
+        "verso": "Os direitos individuais de liberdade — ir e vir, expressão, propriedade e igualdade perante a lei."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-23",
+        "frente": "O que são direitos políticos?",
+        "verso": "Os que garantem participação no poder: votar, ser votado e organizar-se politicamente."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-24",
+        "frente": "O que são direitos sociais?",
+        "verso": "Os que asseguram bem-estar mínimo: saúde, educação, moradia, trabalho e previdência."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-25",
+        "frente": "Por que a sequência de Marshall não se aplica exatamente ao Brasil?",
+        "verso": "Porque aqui os direitos sociais foram concedidos antes da plena consolidação dos direitos civis e políticos — a chamada cidadania regulada."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-26",
+        "frente": "O que é cidadania regulada, conceito de Wanderley Guilherme dos Santos?",
+        "verso": "A cidadania vinculada à profissão reconhecida pelo Estado, e não a um direito universal do cidadão."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-27",
+        "frente": "O que é o Estado de bem-estar social?",
+        "verso": "O modelo em que o Estado garante direitos sociais universais por meio de políticas públicas e tributação redistributiva."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-28",
+        "frente": "O que é uma política pública?",
+        "verso": "A ação planejada do Estado para enfrentar um problema coletivo, com objetivos, recursos e avaliação definidos."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-29",
+        "frente": "Qual é a diferença entre política universal e política focalizada?",
+        "verso": "A universal atende a todos os cidadãos, como o SUS; a focalizada atende a um público específico, como o Bolsa Família."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-30",
+        "frente": "O que é controle social sobre as políticas públicas?",
+        "verso": "A participação organizada da sociedade na formulação e fiscalização das políticas, por conselhos e conferências."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-31",
+        "frente": "O que são os conselhos de políticas públicas?",
+        "verso": "Órgãos paritários entre Estado e sociedade civil que deliberam e fiscalizam políticas em áreas como saúde e assistência social."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-32",
+        "frente": "O que é sociedade civil organizada?",
+        "verso": "O conjunto de associações, sindicatos, ONGs e movimentos que atuam politicamente fora do aparelho estatal."
+      },
+      {
+        "id": "flash-sociologia-instituicoes-movimentos-33",
+        "frente": "O que é participação social, e por que ela é considerada essencial à democracia?",
+        "verso": "É o envolvimento dos cidadãos nas decisões públicas; amplia a legitimidade e reduz a distância entre governantes e governados."
+      }
+    ]
+  }
+}

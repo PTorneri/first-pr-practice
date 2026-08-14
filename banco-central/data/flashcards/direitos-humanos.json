@@ -1,0 +1,841 @@
+{
+  "frente": "direitos-humanos",
+  "gerado": "2026-08-14",
+  "porSubtema": {
+    "dh-fundamentos": [
+      {
+        "id": "flash-dh-fundamentos-01",
+        "frente": "O que são direitos humanos?",
+        "verso": "Os direitos inerentes a toda pessoa pela simples condição humana, independentemente de nacionalidade, raça, gênero, religião ou qualquer outra condição."
+      },
+      {
+        "id": "flash-dh-fundamentos-02",
+        "frente": "O que é a dignidade da pessoa humana?",
+        "verso": "O princípio segundo o qual toda pessoa tem valor em si mesma e não pode ser tratada como meio para fins alheios."
+      },
+      {
+        "id": "flash-dh-fundamentos-03",
+        "frente": "Qual é o status da dignidade da pessoa humana na Constituição de 1988?",
+        "verso": "É fundamento da República, previsto no artigo 1º, e serve de base interpretativa a todo o ordenamento jurídico."
+      },
+      {
+        "id": "flash-dh-fundamentos-04",
+        "frente": "Quais são as características centrais dos direitos humanos?",
+        "verso": "Universalidade, indivisibilidade, interdependência, inalienabilidade, imprescritibilidade e irrenunciabilidade."
+      },
+      {
+        "id": "flash-dh-fundamentos-05",
+        "frente": "O que significa a universalidade dos direitos humanos?",
+        "verso": "Valem para todas as pessoas, em qualquer lugar, sem necessidade de mérito ou contrapartida."
+      },
+      {
+        "id": "flash-dh-fundamentos-06",
+        "frente": "O que significa a indivisibilidade dos direitos humanos?",
+        "verso": "Formam um conjunto integrado: não se pode garantir direitos civis negando os sociais, nem o inverso."
+      },
+      {
+        "id": "flash-dh-fundamentos-07",
+        "frente": "O que significa a inalienabilidade dos direitos humanos?",
+        "verso": "Não podem ser vendidos, transferidos nem renunciados, mesmo por vontade do próprio titular."
+      },
+      {
+        "id": "flash-dh-fundamentos-08",
+        "frente": "O que significa a imprescritibilidade dos direitos humanos?",
+        "verso": "Não se perdem pela passagem do tempo nem pelo não exercício."
+      },
+      {
+        "id": "flash-dh-fundamentos-09",
+        "frente": "O que é a Declaração Universal dos Direitos Humanos?",
+        "verso": "O documento aprovado pela ONU em 1948 que estabeleceu, pela primeira vez, um rol universal de direitos a serem protegidos globalmente."
+      },
+      {
+        "id": "flash-dh-fundamentos-10",
+        "frente": "Qual foi o contexto histórico da DUDH de 1948?",
+        "verso": "O pós-Segunda Guerra e a revelação do Holocausto, que demonstraram a insuficiência do direito nacional para proteger a pessoa humana."
+      },
+      {
+        "id": "flash-dh-fundamentos-11",
+        "frente": "A Declaração Universal é juridicamente vinculante?",
+        "verso": "Não em si mesma, mas seus princípios foram incorporados a tratados obrigatórios e ao costume internacional."
+      },
+      {
+        "id": "flash-dh-fundamentos-12",
+        "frente": "O que são os direitos de primeira geração?",
+        "verso": "Os direitos civis e políticos — liberdade, propriedade, voto — que exigem abstenção do Estado; ligam-se ao ideal de LIBERDADE."
+      },
+      {
+        "id": "flash-dh-fundamentos-13",
+        "frente": "O que são os direitos de segunda geração?",
+        "verso": "Os direitos sociais, econômicos e culturais — saúde, educação, trabalho — que exigem prestação positiva do Estado; ligam-se à IGUALDADE."
+      },
+      {
+        "id": "flash-dh-fundamentos-14",
+        "frente": "O que são os direitos de terceira geração?",
+        "verso": "Os direitos difusos e coletivos — meio ambiente, paz, desenvolvimento, patrimônio comum; ligam-se à FRATERNIDADE."
+      },
+      {
+        "id": "flash-dh-fundamentos-15",
+        "frente": "Por que se prefere falar em 'dimensões' e não em 'gerações' de direitos?",
+        "verso": "Porque 'geração' sugere substituição de uma etapa por outra, quando na verdade os direitos se acumulam e se complementam."
+      },
+      {
+        "id": "flash-dh-fundamentos-16",
+        "frente": "O que é o jusnaturalismo?",
+        "verso": "A concepção de que existem direitos naturais anteriores e superiores ao Estado, que apenas os reconhece."
+      },
+      {
+        "id": "flash-dh-fundamentos-17",
+        "frente": "O que é o positivismo jurídico, em contraste com o jusnaturalismo?",
+        "verso": "A concepção de que só há direito quando posto pelo Estado — o direito válido é o efetivamente promulgado."
+      },
+      {
+        "id": "flash-dh-fundamentos-18",
+        "frente": "Qual é a relação entre a Revolução Francesa e os direitos humanos?",
+        "verso": "A Declaração dos Direitos do Homem e do Cidadão de 1789 consagrou liberdade, igualdade e propriedade como direitos naturais e imprescritíveis."
+      },
+      {
+        "id": "flash-dh-fundamentos-19",
+        "frente": "Qual foi a limitação histórica da Declaração de 1789?",
+        "verso": "Excluía mulheres, escravizados e não proprietários — a universalidade proclamada não correspondia à extensão real dos direitos."
+      },
+      {
+        "id": "flash-dh-fundamentos-20",
+        "frente": "Quem foi Olympe de Gouges?",
+        "verso": "Autora da 'Declaração dos Direitos da Mulher e da Cidadã' de 1791, que denunciou a exclusão feminina da Revolução Francesa; foi guilhotinada."
+      },
+      {
+        "id": "flash-dh-fundamentos-21",
+        "frente": "Quais são os dois principais pactos internacionais de 1966?",
+        "verso": "O Pacto Internacional dos Direitos Civis e Políticos e o dos Direitos Econômicos, Sociais e Culturais."
+      },
+      {
+        "id": "flash-dh-fundamentos-22",
+        "frente": "Por que os direitos foram divididos em dois pactos distintos em 1966?",
+        "verso": "Pela disputa da Guerra Fria: o bloco ocidental priorizava direitos civis e políticos, e o soviético, os sociais e econômicos."
+      },
+      {
+        "id": "flash-dh-fundamentos-23",
+        "frente": "O que é o sistema interamericano de direitos humanos?",
+        "verso": "O conjunto de órgãos da OEA que protege direitos no continente, formado pela Comissão e pela Corte Interamericana."
+      },
+      {
+        "id": "flash-dh-fundamentos-24",
+        "frente": "O que é o Pacto de San José da Costa Rica?",
+        "verso": "A Convenção Americana sobre Direitos Humanos, de 1969, principal tratado do sistema interamericano, ratificado pelo Brasil em 1992."
+      },
+      {
+        "id": "flash-dh-fundamentos-25",
+        "frente": "Qual é a diferença entre a Comissão e a Corte Interamericana?",
+        "verso": "A Comissão recebe petições e faz recomendações; a Corte julga casos e profere sentenças vinculantes aos Estados que aceitaram sua jurisdição."
+      },
+      {
+        "id": "flash-dh-fundamentos-26",
+        "frente": "Que efeito o Pacto de San José produziu no direito brasileiro?",
+        "verso": "Levou o STF a considerar ilícita a prisão civil do depositário infiel, prevalecendo o tratado sobre a legislação ordinária."
+      },
+      {
+        "id": "flash-dh-fundamentos-27",
+        "frente": "Qual é o status dos tratados de direitos humanos no ordenamento brasileiro?",
+        "verso": "Se aprovados pelo rito qualificado do artigo 5º, §3º, equivalem a emenda constitucional; os demais têm status supralegal."
+      },
+      {
+        "id": "flash-dh-fundamentos-28",
+        "frente": "O que é o Tribunal Penal Internacional?",
+        "verso": "A corte permanente criada pelo Estatuto de Roma para julgar genocídio, crimes contra a humanidade, crimes de guerra e agressão."
+      },
+      {
+        "id": "flash-dh-fundamentos-29",
+        "frente": "O que caracteriza um crime contra a humanidade?",
+        "verso": "O ataque generalizado ou sistemático contra população civil, como extermínio, tortura, escravidão e perseguição."
+      },
+      {
+        "id": "flash-dh-fundamentos-30",
+        "frente": "O que é genocídio?",
+        "verso": "O ato praticado com intenção de destruir, no todo ou em parte, grupo nacional, étnico, racial ou religioso."
+      },
+      {
+        "id": "flash-dh-fundamentos-31",
+        "frente": "Qual é a principal crítica ao relativismo cultural em direitos humanos?",
+        "verso": "Levado ao extremo, permite justificar práticas violadoras invocando tradição, esvaziando qualquer proteção universal."
+      },
+      {
+        "id": "flash-dh-fundamentos-32",
+        "frente": "O que é a justiça de transição?",
+        "verso": "O conjunto de medidas adotadas após regimes autoritários: verdade, memória, reparação, responsabilização e reformas institucionais."
+      },
+      {
+        "id": "flash-dh-fundamentos-33",
+        "frente": "O que foi a Comissão Nacional da Verdade no Brasil?",
+        "verso": "O órgão criado em 2011 para investigar as violações de direitos humanos entre 1946 e 1988, sobretudo na ditadura militar."
+      }
+    ],
+    "dh-constitucional": [
+      {
+        "id": "flash-dh-constitucional-01",
+        "frente": "Por que a Constituição de 1988 é chamada Constituição Cidadã?",
+        "verso": "Por consagrar amplo rol de direitos individuais, sociais e políticos e restabelecer as liberdades democráticas após a ditadura."
+      },
+      {
+        "id": "flash-dh-constitucional-02",
+        "frente": "Quais são os fundamentos da República na Constituição de 1988?",
+        "verso": "Soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, e pluralismo político."
+      },
+      {
+        "id": "flash-dh-constitucional-03",
+        "frente": "Quais são os objetivos fundamentais da República?",
+        "verso": "Construir uma sociedade livre, justa e solidária; garantir o desenvolvimento; erradicar a pobreza; e promover o bem de todos sem discriminação."
+      },
+      {
+        "id": "flash-dh-constitucional-04",
+        "frente": "O que é o Estado Democrático de Direito?",
+        "verso": "O regime que submete o poder à lei e à Constituição e o legitima pela soberania popular, com garantia de direitos fundamentais."
+      },
+      {
+        "id": "flash-dh-constitucional-05",
+        "frente": "O que são cláusulas pétreas?",
+        "verso": "Os núcleos da Constituição que não podem ser abolidos por emenda: forma federativa, voto direto e secreto, separação dos poderes e direitos e garantias individuais."
+      },
+      {
+        "id": "flash-dh-constitucional-06",
+        "frente": "Uma emenda constitucional pode reduzir direitos fundamentais?",
+        "verso": "Não pode aboli-los nem esvaziá-los, pois integram cláusula pétrea; alterações que tendam a suprimi-los são inconstitucionais."
+      },
+      {
+        "id": "flash-dh-constitucional-07",
+        "frente": "O que é o princípio da legalidade?",
+        "verso": "Ninguém é obrigado a fazer ou deixar de fazer algo senão em virtude de lei."
+      },
+      {
+        "id": "flash-dh-constitucional-08",
+        "frente": "Qual é a diferença entre legalidade para o cidadão e para a Administração Pública?",
+        "verso": "O cidadão pode fazer tudo o que a lei não proíbe; a Administração só pode fazer o que a lei autoriza."
+      },
+      {
+        "id": "flash-dh-constitucional-09",
+        "frente": "O que é o devido processo legal?",
+        "verso": "A garantia de que ninguém será privado da liberdade ou de seus bens sem processo conduzido conforme as regras estabelecidas."
+      },
+      {
+        "id": "flash-dh-constitucional-10",
+        "frente": "O que são o contraditório e a ampla defesa?",
+        "verso": "O direito de ser informado dos atos do processo, de se manifestar sobre eles e de usar todos os meios legítimos de defesa."
+      },
+      {
+        "id": "flash-dh-constitucional-11",
+        "frente": "O que é o princípio da presunção de inocência?",
+        "verso": "Ninguém será considerado culpado antes do trânsito em julgado de sentença penal condenatória."
+      },
+      {
+        "id": "flash-dh-constitucional-12",
+        "frente": "O que é o princípio da isonomia?",
+        "verso": "Todos são iguais perante a lei, sem distinção de qualquer natureza — o que inclui tratar desigualmente os desiguais na medida de sua desigualdade."
+      },
+      {
+        "id": "flash-dh-constitucional-13",
+        "frente": "O que é o habeas corpus?",
+        "verso": "O remédio constitucional que protege a liberdade de locomoção contra ilegalidade ou abuso de poder."
+      },
+      {
+        "id": "flash-dh-constitucional-14",
+        "frente": "O que é o mandado de segurança?",
+        "verso": "O remédio que protege direito líquido e certo não amparado por habeas corpus ou habeas data, contra ato ilegal de autoridade."
+      },
+      {
+        "id": "flash-dh-constitucional-15",
+        "frente": "O que é o habeas data?",
+        "verso": "O remédio que assegura o conhecimento e a retificação de informações sobre a pessoa constantes de bancos de dados públicos."
+      },
+      {
+        "id": "flash-dh-constitucional-16",
+        "frente": "O que é o mandado de injunção?",
+        "verso": "O remédio cabível quando a falta de norma regulamentadora inviabiliza o exercício de direito constitucional."
+      },
+      {
+        "id": "flash-dh-constitucional-17",
+        "frente": "O que é a ação popular?",
+        "verso": "A ação que permite a qualquer cidadão anular ato lesivo ao patrimônio público, à moralidade administrativa ou ao meio ambiente."
+      },
+      {
+        "id": "flash-dh-constitucional-18",
+        "frente": "O que é a ação civil pública?",
+        "verso": "A ação para proteger interesses difusos e coletivos, proposta pelo Ministério Público, pela Defensoria e por outros legitimados."
+      },
+      {
+        "id": "flash-dh-constitucional-19",
+        "frente": "Quais são os poderes da República e como se relacionam?",
+        "verso": "Executivo, Legislativo e Judiciário, independentes e harmônicos, com sistema de freios e contrapesos entre eles."
+      },
+      {
+        "id": "flash-dh-constitucional-20",
+        "frente": "O que é o sistema de freios e contrapesos?",
+        "verso": "O arranjo em que cada poder limita e fiscaliza os demais, impedindo a concentração de poder."
+      },
+      {
+        "id": "flash-dh-constitucional-21",
+        "frente": "Dê exemplos de freios e contrapesos na Constituição brasileira.",
+        "verso": "O veto presidencial a leis, a derrubada do veto pelo Congresso, o controle de constitucionalidade pelo STF e a aprovação de indicações pelo Senado."
+      },
+      {
+        "id": "flash-dh-constitucional-22",
+        "frente": "O que é o controle de constitucionalidade difuso?",
+        "verso": "Aquele exercido por qualquer juiz num caso concreto, com efeitos entre as partes."
+      },
+      {
+        "id": "flash-dh-constitucional-23",
+        "frente": "O que é o controle concentrado de constitucionalidade?",
+        "verso": "Aquele exercido pelo STF em ações próprias, como a ADI, com efeitos gerais e vinculantes."
+      },
+      {
+        "id": "flash-dh-constitucional-24",
+        "frente": "O que é uma ADI?",
+        "verso": "A Ação Direta de Inconstitucionalidade, que questiona lei ou ato normativo em tese perante o STF."
+      },
+      {
+        "id": "flash-dh-constitucional-25",
+        "frente": "O que é uma súmula vinculante?",
+        "verso": "O enunciado do STF de observância obrigatória para os demais órgãos do Judiciário e para a Administração Pública."
+      },
+      {
+        "id": "flash-dh-constitucional-26",
+        "frente": "O que caracteriza o federalismo brasileiro?",
+        "verso": "A união indissolúvel de estados, municípios e Distrito Federal, cada ente com autonomia política, administrativa e financeira."
+      },
+      {
+        "id": "flash-dh-constitucional-27",
+        "frente": "O que é o estado de defesa e o estado de sítio?",
+        "verso": "Medidas excepcionais que restringem temporariamente direitos para preservar a ordem, sujeitas a controle do Congresso e a limites constitucionais."
+      },
+      {
+        "id": "flash-dh-constitucional-28",
+        "frente": "A liberdade de expressão é absoluta na Constituição brasileira?",
+        "verso": "Não — convive com outros direitos, como honra, imagem e igualdade, e não protege discurso de ódio nem incitação à violência."
+      },
+      {
+        "id": "flash-dh-constitucional-29",
+        "frente": "O que a Constituição diz sobre a liberdade religiosa?",
+        "verso": "Assegura a liberdade de crença e o livre exercício dos cultos, mantendo o Estado laico, sem religião oficial."
+      },
+      {
+        "id": "flash-dh-constitucional-30",
+        "frente": "O que é a função social da propriedade?",
+        "verso": "O condicionamento do direito de propriedade ao atendimento de finalidades sociais, ambientais e trabalhistas."
+      },
+      {
+        "id": "flash-dh-constitucional-31",
+        "frente": "O que é o direito à privacidade na Constituição?",
+        "verso": "A inviolabilidade da intimidade, da vida privada, da honra e da imagem, com direito a indenização por violação."
+      },
+      {
+        "id": "flash-dh-constitucional-32",
+        "frente": "O que estabelece o artigo 5º da Constituição?",
+        "verso": "O rol de direitos e garantias fundamentais individuais e coletivos, com mais de setenta incisos."
+      },
+      {
+        "id": "flash-dh-constitucional-33",
+        "frente": "O que significa dizer que os direitos fundamentais têm aplicação imediata?",
+        "verso": "Que as normas que os definem produzem efeitos desde logo, independentemente de regulamentação posterior."
+      }
+    ],
+    "dh-igualdade-discriminacao": [
+      {
+        "id": "flash-dh-igualdade-discriminacao-01",
+        "frente": "Qual é a diferença entre igualdade formal e material?",
+        "verso": "A formal é a igualdade perante a lei; a material exige tratamento diferenciado para corrigir desigualdades concretas."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-02",
+        "frente": "O que são ações afirmativas?",
+        "verso": "Políticas temporárias de tratamento preferencial a grupos historicamente discriminados, para acelerar a igualdade material."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-03",
+        "frente": "Qual é o principal argumento jurídico a favor das cotas raciais?",
+        "verso": "Concretizam a igualdade material prevista na Constituição, corrigindo desigualdade produzida pela escravidão e pelo racismo estrutural."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-04",
+        "frente": "Qual foi a decisão do STF sobre a constitucionalidade das cotas raciais?",
+        "verso": "Em 2012, o STF as declarou constitucionais por unanimidade, reconhecendo-as como instrumento legítimo de igualdade material."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-05",
+        "frente": "O que é a Lei de Cotas nas universidades federais?",
+        "verso": "A lei de 2012 que reserva vagas para egressos de escola pública, com subcotas por renda e por pertencimento racial e indígena."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-06",
+        "frente": "O que é racismo estrutural?",
+        "verso": "O racismo que opera nas instituições e nas práticas cotidianas, produzindo desigualdade mesmo sem intenção individual explícita."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-07",
+        "frente": "Qual é a diferença entre racismo e injúria racial no direito brasileiro?",
+        "verso": "O racismo atinge coletividade e é imprescritível e inafiançável; a injúria racial ofende pessoa determinada e foi equiparada ao racismo em 2023."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-08",
+        "frente": "O que foi o mito da democracia racial, e por que é criticado?",
+        "verso": "A ideia de convivência harmoniosa entre raças no Brasil; é criticada por ocultar o racismo estrutural e desmobilizar seu enfrentamento."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-09",
+        "frente": "O que a Lei 10.639/2003 estabeleceu?",
+        "verso": "Tornou obrigatório o ensino de história e cultura afro-brasileira e africana na educação básica."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-10",
+        "frente": "O que é o Estatuto da Igualdade Racial?",
+        "verso": "A lei de 2010 que institui políticas de promoção da igualdade racial em saúde, educação, trabalho, cultura e acesso à terra."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-11",
+        "frente": "O que estabelece a Lei Maria da Penha?",
+        "verso": "Cria mecanismos de proteção contra violência doméstica e familiar contra a mulher, com medidas protetivas de urgência."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-12",
+        "frente": "Quais formas de violência a Lei Maria da Penha reconhece?",
+        "verso": "Física, psicológica, sexual, patrimonial e moral."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-13",
+        "frente": "O que é feminicídio?",
+        "verso": "O homicídio de mulher por razões da condição de sexo feminino, tipificado como crime hediondo no Brasil."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-14",
+        "frente": "O que é a desigualdade salarial de gênero?",
+        "verso": "A diferença de remuneração entre homens e mulheres em funções equivalentes, objeto da Lei de Igualdade Salarial de 2023."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-15",
+        "frente": "O que é assédio sexual, do ponto de vista legal?",
+        "verso": "O constrangimento com intuito de obter vantagem sexual, prevalecendo-se o agente de sua condição hierárquica ou de ascendência."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-16",
+        "frente": "Qual é a diferença entre orientação sexual e identidade de gênero?",
+        "verso": "Orientação sexual refere-se à atração afetiva e sexual; identidade de gênero, à percepção de si como homem, mulher ou outra categoria."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-17",
+        "frente": "Como o STF tratou a homofobia e a transfobia?",
+        "verso": "Em 2019, determinou que fossem enquadradas na Lei de Racismo até que o Congresso legislasse sobre o tema."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-18",
+        "frente": "Qual foi a decisão do STF sobre a união homoafetiva?",
+        "verso": "Em 2011, reconheceu-a como entidade familiar, o que abriu caminho para o casamento civil entre pessoas do mesmo sexo."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-19",
+        "frente": "O que garante o direito ao nome social?",
+        "verso": "O direito de pessoas trans e travestis serem tratadas pelo nome com que se identificam, inclusive em documentos e serviços públicos."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-20",
+        "frente": "Que direitos a Constituição assegura aos povos indígenas?",
+        "verso": "O reconhecimento de sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que ocupam."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-21",
+        "frente": "O que significa dizer que os direitos indígenas sobre a terra são originários?",
+        "verso": "Que são anteriores à criação do Estado brasileiro, o qual apenas os reconhece e demarca, sem constituí-los."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-22",
+        "frente": "O que é a tese do marco temporal, e qual seu desfecho no STF?",
+        "verso": "A tese exigia ocupação da terra em 5 de outubro de 1988 para a demarcação; o STF a rejeitou em 2023, mas o tema seguiu em disputa legislativa."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-23",
+        "frente": "Que direitos os quilombolas possuem?",
+        "verso": "O direito à titulação definitiva das terras que ocupam, assegurado pelo artigo 68 do ADCT da Constituição de 1988."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-24",
+        "frente": "O que é a Convenção 169 da OIT?",
+        "verso": "O tratado que assegura a povos indígenas e tribais o direito à consulta prévia, livre e informada sobre medidas que os afetem."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-25",
+        "frente": "O que é o Estatuto da Pessoa com Deficiência?",
+        "verso": "A lei de 2015 que assegura inclusão, acessibilidade e igualdade de oportunidades, adotando o modelo social de deficiência."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-26",
+        "frente": "O que é o modelo social de deficiência?",
+        "verso": "A concepção de que a deficiência resulta da interação entre a condição da pessoa e as barreiras sociais, e não apenas de um atributo individual."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-27",
+        "frente": "O que é acessibilidade, em sentido amplo?",
+        "verso": "A eliminação de barreiras físicas, comunicacionais, atitudinais e digitais que impedem a participação plena."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-28",
+        "frente": "O que é o desenho universal?",
+        "verso": "A concepção de produtos e ambientes utilizáveis por todas as pessoas, sem necessidade de adaptação posterior."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-29",
+        "frente": "O que é interseccionalidade?",
+        "verso": "A análise que considera a sobreposição de marcadores — raça, classe, gênero, deficiência — na produção das desigualdades."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-30",
+        "frente": "O que é o Estatuto do Idoso?",
+        "verso": "A lei que assegura prioridade de atendimento, gratuidade no transporte e proteção contra violência e abandono à pessoa idosa."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-31",
+        "frente": "O que é xenofobia?",
+        "verso": "A aversão ou hostilidade a estrangeiros, que pode configurar crime quando envolve discriminação ou incitação ao ódio."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-32",
+        "frente": "O que estabelece a Lei de Migração de 2017?",
+        "verso": "Substituiu o Estatuto do Estrangeiro, tratando a migração sob a ótica dos direitos humanos e não da segurança nacional."
+      },
+      {
+        "id": "flash-dh-igualdade-discriminacao-33",
+        "frente": "O que é discurso de ódio?",
+        "verso": "A manifestação que incita discriminação, hostilidade ou violência contra grupo determinado — não é protegida pela liberdade de expressão."
+      }
+    ],
+    "dh-direitos-sociais": [
+      {
+        "id": "flash-dh-direitos-sociais-01",
+        "frente": "Quais são os direitos sociais previstos no artigo 6º da Constituição?",
+        "verso": "Educação, saúde, alimentação, trabalho, moradia, transporte, lazer, segurança, previdência, proteção à maternidade e à infância e assistência aos desamparados."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-02",
+        "frente": "Por que os direitos sociais exigem prestação positiva do Estado?",
+        "verso": "Porque não se realizam pela abstenção estatal: dependem de políticas públicas, serviços e orçamento."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-03",
+        "frente": "O que é o mínimo existencial?",
+        "verso": "O núcleo de condições materiais indispensáveis a uma vida digna, exigível do Estado independentemente de disponibilidade orçamentária."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-04",
+        "frente": "O que é a reserva do possível?",
+        "verso": "O argumento de que a efetivação de direitos sociais depende dos recursos disponíveis — não pode, porém, esvaziar o mínimo existencial."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-05",
+        "frente": "Como se relacionam mínimo existencial e reserva do possível?",
+        "verso": "A reserva do possível pode limitar a expansão de políticas, mas não serve de justificativa para negar o mínimo existencial."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-06",
+        "frente": "O que é o princípio da vedação do retrocesso social?",
+        "verso": "A proibição de suprimir ou reduzir significativamente direitos sociais já conquistados e implementados."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-07",
+        "frente": "O que é a seguridade social na Constituição de 1988?",
+        "verso": "O conjunto integrado de saúde, previdência e assistência social, financiado por toda a sociedade."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-08",
+        "frente": "Qual é a diferença entre previdência e assistência social?",
+        "verso": "A previdência exige contribuição prévia; a assistência é prestada a quem dela necessitar, independentemente de contribuição."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-09",
+        "frente": "O que é o BPC?",
+        "verso": "O Benefício de Prestação Continuada, que garante um salário mínimo mensal a idosos e pessoas com deficiência em situação de baixa renda."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-10",
+        "frente": "O que é a judicialização da saúde?",
+        "verso": "A busca de tratamentos e medicamentos por via judicial, que garante acesso individual mas tensiona o planejamento coletivo do orçamento."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-11",
+        "frente": "Quais são os princípios do SUS?",
+        "verso": "Universalidade, integralidade e equidade, com descentralização e participação social."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-12",
+        "frente": "O que garante o direito à educação na Constituição?",
+        "verso": "Educação básica obrigatória e gratuita dos 4 aos 17 anos, com acesso ao ensino obrigatório como direito público subjetivo."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-13",
+        "frente": "O que significa a educação ser direito público subjetivo?",
+        "verso": "Que sua não oferta pode ser exigida judicialmente, responsabilizando a autoridade competente."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-14",
+        "frente": "O que é o direito à moradia adequada?",
+        "verso": "Vai além do teto: inclui segurança da posse, infraestrutura, habitabilidade, acessibilidade e localização com acesso a serviços."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-15",
+        "frente": "O que é o Estatuto da Cidade?",
+        "verso": "A lei de 2001 que regulamenta a política urbana, com instrumentos como o plano diretor e o IPTU progressivo contra a especulação."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-16",
+        "frente": "O que é a função social da propriedade urbana?",
+        "verso": "O condicionamento da propriedade ao atendimento das exigências do plano diretor, sob pena de sanções ao imóvel ocioso."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-17",
+        "frente": "O que caracteriza o trabalho análogo à escravidão no Brasil?",
+        "verso": "Trabalho forçado, jornada exaustiva, condições degradantes ou servidão por dívida — basta uma dessas situações."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-18",
+        "frente": "O que é a chamada lista suja do trabalho escravo?",
+        "verso": "O cadastro público de empregadores autuados por submeter trabalhadores a condições análogas à escravidão."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-19",
+        "frente": "O que a legislação brasileira estabelece sobre trabalho infantil?",
+        "verso": "É proibido o trabalho abaixo dos 16 anos, salvo como aprendiz a partir dos 14, e o trabalho noturno, perigoso ou insalubre abaixo dos 18."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-20",
+        "frente": "Quais são os principais direitos trabalhistas assegurados pela Constituição?",
+        "verso": "Salário mínimo, jornada de 44 horas, FGTS, férias com adicional, 13º salário, licença-maternidade e aviso prévio."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-21",
+        "frente": "O que é a liberdade sindical?",
+        "verso": "O direito de fundar e filiar-se a sindicatos, sem interferência do Estado, e de participar de negociação coletiva e greve."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-22",
+        "frente": "O direito de greve é absoluto no Brasil?",
+        "verso": "Não — é assegurado, mas sujeito a regulamentação, com exigência de manutenção de serviços essenciais."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-23",
+        "frente": "O que é uma política pública?",
+        "verso": "A ação planejada do Estado para enfrentar um problema coletivo, com objetivos, recursos e avaliação definidos."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-24",
+        "frente": "Qual é a diferença entre política universal e focalizada?",
+        "verso": "A universal atende a todos os cidadãos, como o SUS; a focalizada atende a um público específico, como o Bolsa Família."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-25",
+        "frente": "O que é um programa de transferência de renda condicionada?",
+        "verso": "Aquele que transfere recursos mediante contrapartidas, como frequência escolar e acompanhamento de saúde."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-26",
+        "frente": "Qual é o argumento em defesa das condicionalidades do Bolsa Família?",
+        "verso": "Articulam alívio imediato da pobreza com investimento em capital humano, rompendo o ciclo intergeracional."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-27",
+        "frente": "O que é o direito humano à alimentação adequada?",
+        "verso": "O direito ao acesso regular a alimentos em quantidade e qualidade suficientes, sem comprometer outras necessidades essenciais."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-28",
+        "frente": "O que é insegurança alimentar?",
+        "verso": "A situação em que o acesso regular a alimentos adequados não está assegurado, tendo a fome como sua forma mais grave."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-29",
+        "frente": "O que é o SUAS?",
+        "verso": "O Sistema Único de Assistência Social, que organiza os serviços socioassistenciais de forma descentralizada, tendo o CRAS como porta de entrada."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-30",
+        "frente": "O que é o controle social sobre as políticas públicas?",
+        "verso": "A participação organizada da sociedade na formulação e fiscalização das políticas, por conselhos e conferências."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-31",
+        "frente": "O que são os conselhos de políticas públicas?",
+        "verso": "Órgãos paritários entre Estado e sociedade civil que deliberam e fiscalizam políticas em áreas como saúde, educação e assistência."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-32",
+        "frente": "O que é o direito ao saneamento básico, como direito social?",
+        "verso": "O acesso a água tratada, esgoto, drenagem e resíduos sólidos, condição para os direitos à saúde e à moradia adequada."
+      },
+      {
+        "id": "flash-dh-direitos-sociais-33",
+        "frente": "Por que a desigualdade de renda é tratada como questão de direitos humanos?",
+        "verso": "Porque a concentração extrema compromete o acesso efetivo a direitos sociais básicos e a própria igualdade de oportunidades."
+      }
+    ],
+    "dh-justica-seguranca": [
+      {
+        "id": "flash-dh-justica-seguranca-01",
+        "frente": "O que é o acesso à justiça?",
+        "verso": "O direito de levar uma pretensão ao Judiciário e obter resposta efetiva, o que inclui assistência jurídica gratuita a quem não pode pagar."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-02",
+        "frente": "Qual é a função da Defensoria Pública?",
+        "verso": "Prestar assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos, em todos os graus."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-03",
+        "frente": "Qual é a função do Ministério Público?",
+        "verso": "Defender a ordem jurídica, o regime democrático e os interesses sociais e individuais indisponíveis, com autonomia funcional."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-04",
+        "frente": "O que é a morosidade judicial, e qual garantia a enfrenta?",
+        "verso": "A demora excessiva na tramitação; a Constituição assegura a razoável duração do processo e os meios que garantam a celeridade."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-05",
+        "frente": "O que caracteriza o sistema prisional brasileiro?",
+        "verso": "A superlotação, as condições degradantes e a alta proporção de presos provisórios — o STF o declarou 'estado de coisas inconstitucional'."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-06",
+        "frente": "Qual é o perfil da população carcerária brasileira?",
+        "verso": "Majoritariamente jovem, negra e de baixa escolaridade, com predominância de crimes patrimoniais e relacionados a drogas."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-07",
+        "frente": "O que é o encarceramento em massa?",
+        "verso": "O crescimento acelerado da população prisional; o Brasil tem hoje a terceira maior população carcerária do mundo."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-08",
+        "frente": "Quais são as finalidades da pena, segundo a doutrina?",
+        "verso": "Retribuição pelo mal causado, prevenção de novos crimes e ressocialização do condenado."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-09",
+        "frente": "Por que se questiona a eficácia ressocializadora da prisão no Brasil?",
+        "verso": "Porque as condições degradantes e as altas taxas de reincidência indicam que a prisão frequentemente agrava a trajetória criminal."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-10",
+        "frente": "O que é a justiça restaurativa?",
+        "verso": "O modelo que busca reparar o dano e restaurar relações por meio do diálogo entre vítima, ofensor e comunidade, em vez de apenas punir."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-11",
+        "frente": "O que é uma pena alternativa?",
+        "verso": "A sanção não privativa de liberdade, como prestação de serviços à comunidade, aplicável a crimes de menor potencial ofensivo."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-12",
+        "frente": "O que é a audiência de custódia?",
+        "verso": "A apresentação do preso a um juiz em até 24 horas, para verificar a legalidade da prisão e eventuais maus-tratos."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-13",
+        "frente": "O que é prisão preventiva, e quando cabe?",
+        "verso": "A prisão antes da condenação definitiva, admitida apenas para garantir a ordem pública, a instrução criminal ou a aplicação da lei penal."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-14",
+        "frente": "Por que a alta proporção de presos provisórios é problemática?",
+        "verso": "Porque priva de liberdade pessoas ainda não condenadas, em tensão com a presunção de inocência."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-15",
+        "frente": "O que estabelece o ECA sobre adolescentes em conflito com a lei?",
+        "verso": "Aplica medidas socioeducativas, não penas, com a internação como último recurso e por prazo máximo de três anos."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-16",
+        "frente": "Qual é a diferença entre ato infracional e crime?",
+        "verso": "O ato infracional é a conduta descrita como crime praticada por menor de 18 anos, sujeita a medidas socioeducativas."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-17",
+        "frente": "Qual é o principal argumento contra a redução da maioridade penal?",
+        "verso": "Adolescentes respondem por parcela pequena dos crimes graves, e o encarceramento precoce tende a agravar a trajetória criminal em vez de reduzi-la."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-18",
+        "frente": "O que é a doutrina da proteção integral do ECA?",
+        "verso": "A concepção de crianças e adolescentes como sujeitos de direitos em condição peculiar de desenvolvimento, com prioridade absoluta."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-19",
+        "frente": "O que é violência institucional?",
+        "verso": "A violência praticada por agentes do Estado ou por instituições contra as pessoas que deveriam proteger."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-20",
+        "frente": "O que é a letalidade policial, e por que é debatida?",
+        "verso": "O número de mortes por intervenção policial; o Brasil apresenta índices muito superiores aos de outros países, com forte seletividade racial."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-21",
+        "frente": "O que é a proibição da tortura no direito brasileiro?",
+        "verso": "É crime inafiançável e insuscetível de graça ou anistia, sendo vedada em qualquer circunstância, inclusive em emergências."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-22",
+        "frente": "O que é o mecanismo nacional de prevenção e combate à tortura?",
+        "verso": "O órgão autorizado a visitar locais de privação de liberdade sem aviso prévio, para prevenir maus-tratos."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-23",
+        "frente": "O que é a seletividade penal?",
+        "verso": "A tendência do sistema de justiça a punir mais intensamente determinados grupos sociais e determinados tipos de crime."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-24",
+        "frente": "Por que a Lei de Drogas de 2006 é objeto de crítica?",
+        "verso": "Por não fixar critério objetivo entre usuário e traficante, o que abre espaço para aplicação seletiva e racialmente enviesada."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-25",
+        "frente": "Qual foi a decisão do STF sobre o porte de maconha para consumo pessoal?",
+        "verso": "Em 2024, descriminalizou o porte para uso próprio e fixou parâmetro de quantidade para distinguir usuário de traficante."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-26",
+        "frente": "O que é o devido processo legal no âmbito penal?",
+        "verso": "A garantia de que a punição só ocorra após processo regular, com juiz imparcial, contraditório e ampla defesa."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-27",
+        "frente": "O que é o princípio do juiz natural?",
+        "verso": "A garantia de ser julgado por juízo previamente competente, vedados tribunais de exceção criados após o fato."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-28",
+        "frente": "O que é a segurança pública como direito e dever?",
+        "verso": "A Constituição a define como dever do Estado e responsabilidade de todos, exercida para preservação da ordem e da incolumidade das pessoas."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-29",
+        "frente": "O que é a segurança pública cidadã?",
+        "verso": "O enfoque que combina prevenção, política social e polícia orientada a direitos, em vez de apoiar-se apenas na repressão."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-30",
+        "frente": "O que é a desmilitarização da polícia, e qual o debate?",
+        "verso": "A proposta de alterar a estrutura militar das polícias estaduais; defende-se maior aproximação comunitária, e questiona-se o impacto na disciplina."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-31",
+        "frente": "O que é cidadania, no sentido pleno?",
+        "verso": "A condição de membro da comunidade política com direitos civis, políticos e sociais efetivamente exercidos, e não apenas formalmente declarados."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-32",
+        "frente": "O que é participação popular na gestão pública?",
+        "verso": "O envolvimento da sociedade em decisões públicas por meio de conselhos, conferências, audiências públicas e orçamento participativo."
+      },
+      {
+        "id": "flash-dh-justica-seguranca-33",
+        "frente": "Por que se diz que direitos humanos protegem 'bandidos'?",
+        "verso": "É uma objeção comum baseada em equívoco: os direitos protegem toda pessoa contra o arbítrio do Estado, e sua seletividade os transformaria em privilégio."
+      }
+    ]
+  }
+}

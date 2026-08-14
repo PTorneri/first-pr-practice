@@ -3940,5 +3940,2533 @@ window.FLASHCARDS = {
    "frente": "Qual foi o efeito da fotossíntese na atmosfera primitiva?",
    "verso": "Acumulou oxigênio livre, permitindo a respiração aeróbia e formando a camada de ozônio que viabilizou a vida fora da água."
   }
+ ],
+ "quimica-eletroquimica": [
+  {
+   "id": "flash-quimica-eletroquimica-01",
+   "frente": "O que é oxidação?",
+   "verso": "A perda de elétrons por uma espécie química, com aumento do seu número de oxidação."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-02",
+   "frente": "O que é redução?",
+   "verso": "O ganho de elétrons por uma espécie química, com diminuição do seu número de oxidação."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-03",
+   "frente": "O que é o agente oxidante?",
+   "verso": "A espécie que provoca a oxidação de outra, sofrendo ela própria redução (ganha elétrons)."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-04",
+   "frente": "O que é o agente redutor?",
+   "verso": "A espécie que provoca a redução de outra, sofrendo ela própria oxidação (perde elétrons)."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-05",
+   "frente": "Qual é o nox de um elemento em sua forma simples, como O₂ ou Fe?",
+   "verso": "Zero."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-06",
+   "frente": "Qual é o nox usual do oxigênio nos compostos?",
+   "verso": "−2, exceto em peróxidos (−1), superóxidos e nos fluoretos de oxigênio."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-07",
+   "frente": "Qual é o nox usual do hidrogênio nos compostos?",
+   "verso": "+1, exceto nos hidretos metálicos, em que é −1."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-08",
+   "frente": "Qual é a soma dos nox numa molécula neutra?",
+   "verso": "Zero."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-09",
+   "frente": "Qual é a soma dos nox num íon composto?",
+   "verso": "A própria carga do íon."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-10",
+   "frente": "Como calcular o nox do enxofre em H₂SO₄?",
+   "verso": "2(+1) + x + 4(−2) = 0, portanto x = +6."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-11",
+   "frente": "O que é uma pilha (célula galvânica)?",
+   "verso": "Um dispositivo que converte energia química em elétrica a partir de uma reação de oxirredução espontânea."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-12",
+   "frente": "Em qual eletrodo ocorre a oxidação?",
+   "verso": "No ânodo — mnemônico: ânodo/oxidação, ambos com vogal inicial."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-13",
+   "frente": "Em qual eletrodo ocorre a redução?",
+   "verso": "No cátodo — mnemônico: cátodo/redução, ambos com consoante inicial."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-14",
+   "frente": "Qual é o sinal do ânodo numa pilha?",
+   "verso": "Negativo — é de onde os elétrons partem para o circuito externo."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-15",
+   "frente": "Em que sentido fluem os elétrons no circuito externo de uma pilha?",
+   "verso": "Do ânodo para o cátodo, sempre."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-16",
+   "frente": "Para que serve a ponte salina numa pilha?",
+   "verso": "Para manter a neutralidade elétrica das soluções, permitindo a migração de íons entre as semicelas e fechando o circuito."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-17",
+   "frente": "Como se calcula a ddp padrão de uma pilha?",
+   "verso": "ΔE° = E°(cátodo) − E°(ânodo), usando os potenciais de redução."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-18",
+   "frente": "O que indica um ΔE° positivo?",
+   "verso": "Que a reação é espontânea — a pilha funciona no sentido escrito."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-19",
+   "frente": "Qual espécie funciona como cátodo, entre duas de potenciais conhecidos?",
+   "verso": "A de MAIOR potencial de redução — ela é a que efetivamente se reduz."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-20",
+   "frente": "Como se lê a notação Zn | Zn²⁺ || Cu²⁺ | Cu?",
+   "verso": "O ânodo fica à esquerda e o cátodo à direita; a barra dupla representa a ponte salina."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-21",
+   "frente": "O que acontece com a massa do eletrodo do ânodo ao longo do funcionamento?",
+   "verso": "Diminui, pois o metal se oxida e passa à solução como íon."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-22",
+   "frente": "O que é eletrólise?",
+   "verso": "Um processo NÃO espontâneo em que a corrente elétrica força uma reação de oxirredução."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-23",
+   "frente": "Qual é a diferença essencial entre pilha e eletrólise?",
+   "verso": "A pilha gera corrente a partir de reação espontânea; a eletrólise consome corrente para forçar reação não espontânea."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-24",
+   "frente": "Qual é o sinal do ânodo na eletrólise?",
+   "verso": "Positivo — o inverso da pilha, porque agora é a fonte externa que impõe a polaridade."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-25",
+   "frente": "O que é eletrólise ígnea?",
+   "verso": "A realizada com a substância pura fundida, sem água — é como se obtém alumínio e sódio metálicos."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-26",
+   "frente": "Na eletrólise aquosa, o que compete com os íons do soluto?",
+   "verso": "A própria água, que pode se oxidar ou reduzir preferencialmente conforme os potenciais envolvidos."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-27",
+   "frente": "O que é a galvanoplastia?",
+   "verso": "O recobrimento eletrolítico de uma peça com uma camada fina de metal, como na cromação e na niquelação."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-28",
+   "frente": "O que é a corrosão do ferro, quimicamente?",
+   "verso": "A oxidação espontânea do ferro na presença de oxigênio e água, formando óxido de ferro hidratado — a ferrugem."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-29",
+   "frente": "O que é um metal de sacrifício?",
+   "verso": "Um metal mais facilmente oxidável (como o zinco) ligado à peça a proteger, oxidando-se no lugar dela."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-30",
+   "frente": "Por que o zinco protege o ferro na galvanização?",
+   "verso": "Porque tem menor potencial de redução: oxida-se preferencialmente, funcionando como ânodo de sacrifício."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-31",
+   "frente": "Por que a corrosão é mais rápida em ambiente marinho?",
+   "verso": "Porque os sais dissolvidos aumentam a condutividade do meio, acelerando a transferência de elétrons."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-32",
+   "frente": "O que diferencia uma pilha comum de uma bateria recarregável?",
+   "verso": "A recarregável tem reação de oxirredução reversível, podendo ser revertida pela aplicação de corrente externa."
+  },
+  {
+   "id": "flash-quimica-eletroquimica-33",
+   "frente": "Por que pilhas e baterias não devem ir ao lixo comum?",
+   "verso": "Contêm metais pesados (mercúrio, cádmio, chumbo) que contaminam solo e água e bioacumulam na cadeia alimentar."
+  }
+ ],
+ "quimica-atomistica-ligacoes": [
+  {
+   "id": "flash-quimica-atomistica-ligacoes-01",
+   "frente": "Qual foi a contribuição do modelo atômico de Rutherford?",
+   "verso": "Mostrou que o átomo é praticamente vazio, com um núcleo pequeno, denso e positivo, e elétrons ao redor."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-02",
+   "frente": "Qual foi a novidade do modelo de Bohr?",
+   "verso": "Os elétrons ocupam órbitas de energia definida (níveis), emitindo ou absorvendo energia apenas ao saltar entre elas."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-03",
+   "frente": "O que define o número atômico (Z) de um elemento?",
+   "verso": "O número de prótons no núcleo — é ele que identifica o elemento."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-04",
+   "frente": "O que é o número de massa (A)?",
+   "verso": "A soma de prótons e nêutrons do núcleo."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-05",
+   "frente": "O que são isótopos?",
+   "verso": "Átomos do mesmo elemento (mesmo Z) com números de nêutrons diferentes, logo massas diferentes."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-06",
+   "frente": "O que são isóbaros?",
+   "verso": "Átomos de elementos diferentes (Z diferente) com o mesmo número de massa."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-07",
+   "frente": "O que são isótonos?",
+   "verso": "Átomos de elementos diferentes com o mesmo número de nêutrons."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-08",
+   "frente": "Quantos elétrons um átomo neutro possui?",
+   "verso": "O mesmo número de prótons, ou seja, igual ao número atômico."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-09",
+   "frente": "O que é um cátion e como ele se forma?",
+   "verso": "Um íon positivo, formado quando o átomo PERDE elétrons."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-10",
+   "frente": "O que é um ânion e como ele se forma?",
+   "verso": "Um íon negativo, formado quando o átomo GANHA elétrons."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-11",
+   "frente": "Como os elementos estão organizados na tabela periódica?",
+   "verso": "Em ordem crescente de número atômico, com períodos (linhas) e famílias/grupos (colunas)."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-12",
+   "frente": "O que os elementos de uma mesma família têm em comum?",
+   "verso": "O mesmo número de elétrons na camada de valência, o que lhes dá propriedades químicas semelhantes."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-13",
+   "frente": "O que o número do período indica?",
+   "verso": "A quantidade de camadas eletrônicas ocupadas pelos átomos daquele elemento."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-14",
+   "frente": "Que características têm os metais alcalinos (família 1A)?",
+   "verso": "Um elétron de valência, altíssima reatividade e forte tendência a formar cátions +1."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-15",
+   "frente": "Que características têm os halogênios (família 7A)?",
+   "verso": "Sete elétrons de valência e forte tendência a ganhar um elétron, formando ânions −1."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-16",
+   "frente": "Por que os gases nobres são pouco reativos?",
+   "verso": "Porque já têm a camada de valência completa (oito elétrons, ou dois no hélio), sem tendência a ganhar ou perder elétrons."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-17",
+   "frente": "Como o raio atômico varia num período?",
+   "verso": "Diminui da esquerda para a direita, pois a carga nuclear cresce e atrai mais fortemente a mesma camada."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-18",
+   "frente": "Como o raio atômico varia numa família?",
+   "verso": "Aumenta de cima para baixo, pois novas camadas eletrônicas são acrescentadas."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-19",
+   "frente": "O que é eletronegatividade?",
+   "verso": "A tendência de um átomo em atrair para si o par de elétrons de uma ligação química."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-20",
+   "frente": "Qual é o elemento mais eletronegativo da tabela?",
+   "verso": "O flúor."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-21",
+   "frente": "O que é energia de ionização?",
+   "verso": "A energia necessária para retirar um elétron de um átomo no estado gasoso."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-22",
+   "frente": "O que diz a regra do octeto?",
+   "verso": "Os átomos tendem a adquirir oito elétrons na camada de valência, atingindo a configuração estável de gás nobre."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-23",
+   "frente": "O que caracteriza a ligação iônica?",
+   "verso": "A TRANSFERÊNCIA de elétrons entre um metal e um ametal, gerando íons que se atraem eletrostaticamente."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-24",
+   "frente": "O que caracteriza a ligação covalente?",
+   "verso": "O COMPARTILHAMENTO de pares de elétrons entre átomos, tipicamente entre ametais."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-25",
+   "frente": "O que caracteriza a ligação metálica?",
+   "verso": "Cátions metálicos imersos num 'mar' de elétrons livres, o que explica a condutividade e a maleabilidade dos metais."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-26",
+   "frente": "Por que compostos iônicos conduzem corrente quando fundidos ou dissolvidos, mas não sólidos?",
+   "verso": "Porque só nessas condições os íons ficam livres para se movimentar e transportar carga."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-27",
+   "frente": "Que propriedades típicas têm os compostos iônicos?",
+   "verso": "Sólidos à temperatura ambiente, altos pontos de fusão e ebulição, duros e quebradiços."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-28",
+   "frente": "O que determina a geometria de uma molécula, pela teoria VSEPR?",
+   "verso": "A repulsão entre os pares de elétrons ao redor do átomo central, incluindo os pares não ligantes."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-29",
+   "frente": "Qual é a geometria da molécula de água, e por quê?",
+   "verso": "Angular — o oxigênio tem dois pares não ligantes que repelem os hidrogênios, fechando o ângulo."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-30",
+   "frente": "Qual é a geometria do CO₂?",
+   "verso": "Linear, pois o carbono central não tem pares de elétrons não ligantes."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-31",
+   "frente": "Quando uma molécula é polar?",
+   "verso": "Quando há diferença de eletronegatividade entre os átomos E a geometria não cancela os vetores de polaridade."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-32",
+   "frente": "Por que o CO₂ é apolar mesmo tendo ligações polares?",
+   "verso": "Porque sua geometria linear e simétrica faz os dois vetores de polaridade se cancelarem."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-33",
+   "frente": "O que é a ligação de hidrogênio?",
+   "verso": "A força intermolecular mais intensa, entre hidrogênio ligado a F, O ou N e um par de elétrons de outra molécula."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-34",
+   "frente": "Por que a água tem ponto de ebulição tão alto para sua massa molar?",
+   "verso": "Por causa das ligações de hidrogênio entre suas moléculas, que exigem muita energia para serem rompidas."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-35",
+   "frente": "O que são forças de dipolo induzido (van der Waals/London)?",
+   "verso": "As forças intermoleculares mais fracas, presentes em todas as moléculas, únicas nas apolares."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-36",
+   "frente": "Como as forças intermoleculares afetam o ponto de ebulição?",
+   "verso": "Quanto mais intensas, maior o ponto de ebulição, pois é preciso mais energia para separar as moléculas."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-37",
+   "frente": "Por que 'semelhante dissolve semelhante'?",
+   "verso": "Porque solvente e soluto de mesma polaridade estabelecem entre si interações comparáveis às que já mantinham."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-38",
+   "frente": "O que é radioatividade?",
+   "verso": "A emissão espontânea de partículas ou radiação por núcleos instáveis, que se transformam em outros núcleos."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-39",
+   "frente": "O que é uma partícula alfa, e o que ela faz com o núcleo?",
+   "verso": "Um núcleo de hélio (2 prótons e 2 nêutrons); sua emissão reduz Z em 2 e A em 4."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-40",
+   "frente": "O que é uma partícula beta, e qual seu efeito no núcleo?",
+   "verso": "Um elétron emitido pela conversão de um nêutron em próton; aumenta Z em 1 e mantém A."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-41",
+   "frente": "O que é meia-vida de um isótopo radioativo?",
+   "verso": "O tempo necessário para que metade dos núcleos de uma amostra se desintegre."
+  },
+  {
+   "id": "flash-quimica-atomistica-ligacoes-42",
+   "frente": "Qual é a diferença entre fissão e fusão nuclear?",
+   "verso": "A fissão quebra um núcleo pesado em núcleos menores; a fusão une núcleos leves em um mais pesado, como ocorre no Sol."
+  }
+ ],
+ "quimica-equilibrio-acido-base": [
+  {
+   "id": "flash-quimica-equilibrio-acido-base-01",
+   "frente": "O que caracteriza um equilíbrio químico?",
+   "verso": "As velocidades das reações direta e inversa se igualam, e as concentrações de reagentes e produtos ficam constantes — é dinâmico, não estático."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-02",
+   "frente": "Como se escreve a constante de equilíbrio Kc?",
+   "verso": "Produto das concentrações dos produtos sobre o das concentrações dos reagentes, cada uma elevada ao seu coeficiente estequiométrico."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-03",
+   "frente": "O que um valor de Kc muito maior que 1 indica?",
+   "verso": "O equilíbrio está deslocado para a direita — predominam os produtos."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-04",
+   "frente": "O que um valor de Kc muito menor que 1 indica?",
+   "verso": "O equilíbrio está deslocado para a esquerda — predominam os reagentes."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-05",
+   "frente": "Sólidos e líquidos puros entram na expressão de Kc?",
+   "verso": "Não — suas concentrações são constantes e já estão embutidas no valor da constante."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-06",
+   "frente": "O que é Kp?",
+   "verso": "A constante de equilíbrio expressa em pressões parciais dos gases participantes, em vez de concentrações."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-07",
+   "frente": "O que diz o Princípio de Le Chatelier?",
+   "verso": "Perturbado um equilíbrio, o sistema se desloca no sentido que minimiza a perturbação."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-08",
+   "frente": "O que acontece ao aumentar a concentração de um reagente?",
+   "verso": "O equilíbrio se desloca para a direita, consumindo o excesso e formando mais produto."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-09",
+   "frente": "O que acontece ao remover um produto do sistema em equilíbrio?",
+   "verso": "O equilíbrio se desloca para a direita, repondo o produto retirado."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-10",
+   "frente": "Como o aumento da pressão desloca um equilíbrio gasoso?",
+   "verso": "Para o lado com MENOR número de mols de gás, reduzindo o volume ocupado."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-11",
+   "frente": "Como o aumento da temperatura desloca um equilíbrio?",
+   "verso": "No sentido ENDOTÉRMICO, que absorve o calor adicionado."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-12",
+   "frente": "Qual é o único fator que altera o VALOR da constante de equilíbrio?",
+   "verso": "A temperatura. Concentração e pressão deslocam o equilíbrio, mas não mudam Kc."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-13",
+   "frente": "Um catalisador desloca o equilíbrio?",
+   "verso": "Não. Ele acelera igualmente as reações direta e inversa, apenas fazendo o equilíbrio ser atingido mais rápido."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-14",
+   "frente": "O que é um ácido, segundo Arrhenius?",
+   "verso": "Toda substância que, em água, libera H⁺ como único cátion."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-15",
+   "frente": "O que é uma base, segundo Arrhenius?",
+   "verso": "Toda substância que, em água, libera OH⁻ como único ânion."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-16",
+   "frente": "O que é um ácido, segundo Brønsted-Lowry?",
+   "verso": "Uma espécie doadora de próton (H⁺); a base é a receptora."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-17",
+   "frente": "O que é um par ácido-base conjugado?",
+   "verso": "Duas espécies que diferem por um único H⁺, como HCl e Cl⁻, ou NH₃ e NH₄⁺."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-18",
+   "frente": "O que caracteriza um ácido forte?",
+   "verso": "Ioniza-se praticamente por completo em água, com alto grau de ionização — como HCl, HBr, HI, H₂SO₄ e HNO₃."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-19",
+   "frente": "O que caracteriza um ácido fraco?",
+   "verso": "Ioniza-se apenas parcialmente, estabelecendo um equilíbrio entre a forma molecular e os íons — como o ácido acético."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-20",
+   "frente": "O que é o grau de ionização (α)?",
+   "verso": "A fração das moléculas dissolvidas que efetivamente se ionizam, geralmente expressa em porcentagem."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-21",
+   "frente": "O que representa Ka?",
+   "verso": "A constante de ionização de um ácido; quanto maior o Ka, mais forte o ácido."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-22",
+   "frente": "Quanto vale Kw a 25 °C, e o que ele representa?",
+   "verso": "1,0 × 10⁻¹⁴ — o produto iônico da água, [H⁺] × [OH⁻]."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-23",
+   "frente": "Como se calcula o pH?",
+   "verso": "pH = −log[H⁺]."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-24",
+   "frente": "Qual é a relação entre pH e pOH a 25 °C?",
+   "verso": "pH + pOH = 14."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-25",
+   "frente": "Qual é o pH de uma solução neutra a 25 °C?",
+   "verso": "7, com [H⁺] = [OH⁻] = 10⁻⁷ mol/L."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-26",
+   "frente": "Uma solução com pH 3 é quantas vezes mais ácida que uma com pH 5?",
+   "verso": "100 vezes — a escala é logarítmica, e cada unidade equivale a um fator de 10."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-27",
+   "frente": "O que é uma reação de neutralização?",
+   "verso": "A reação entre um ácido e uma base, formando sal e água."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-28",
+   "frente": "Por que a solução de um sal como NaCl tem pH neutro?",
+   "verso": "Porque vem de ácido forte e base forte: nenhum dos íons sofre hidrólise significativa."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-29",
+   "frente": "Que pH tem a solução de um sal de ácido fraco com base forte, como o acetato de sódio?",
+   "verso": "Básico — o ânion do ácido fraco hidrolisa a água, liberando OH⁻."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-30",
+   "frente": "O que é uma solução-tampão?",
+   "verso": "Uma mistura de ácido fraco com seu sal (ou base fraca com seu sal) que resiste a variações de pH ao receber ácido ou base."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-31",
+   "frente": "Como o tampão mantém o pH quase constante?",
+   "verso": "Suas espécies conjugadas consomem tanto o H⁺ quanto o OH⁻ adicionados, convertendo-os na forma conjugada correspondente."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-32",
+   "frente": "Qual é o principal tampão do sangue humano?",
+   "verso": "O sistema bicarbonato/ácido carbônico (HCO₃⁻/H₂CO₃), que mantém o pH sanguíneo em torno de 7,4."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-33",
+   "frente": "Para que serve a fenolftaleína como indicador?",
+   "verso": "Fica incolor em meio ácido e rosa em meio básico, marcando a viragem em torno de pH 8-10."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-34",
+   "frente": "O que é Kps (produto de solubilidade)?",
+   "verso": "A constante de equilíbrio da dissolução de um sal pouco solúvel, igual ao produto das concentrações dos íons elevadas aos coeficientes."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-35",
+   "frente": "Quando ocorre precipitação, em termos de Kps?",
+   "verso": "Quando o produto das concentrações iônicas ultrapassa o valor de Kps, o excesso precipita."
+  },
+  {
+   "id": "flash-quimica-equilibrio-acido-base-36",
+   "frente": "O que é o efeito do íon comum?",
+   "verso": "A diminuição da ionização (ou da solubilidade) causada pela adição de um íon já presente no equilíbrio, deslocando-o no sentido inverso."
+  }
+ ],
+ "quimica-estequiometria": [
+  {
+   "id": "flash-quimica-estequiometria-01",
+   "frente": "O que é 1 mol de uma substância?",
+   "verso": "A quantidade que contém 6,02 × 10²³ entidades (átomos, moléculas, íons) — o número de Avogadro."
+  },
+  {
+   "id": "flash-quimica-estequiometria-02",
+   "frente": "O que é a massa molar de uma substância?",
+   "verso": "A massa de 1 mol dela, em g/mol; numericamente igual à massa molecular em unidades de massa atômica."
+  },
+  {
+   "id": "flash-quimica-estequiometria-03",
+   "frente": "Como se calcula o número de mols a partir da massa?",
+   "verso": "n = massa (g) ÷ massa molar (g/mol)."
+  },
+  {
+   "id": "flash-quimica-estequiometria-04",
+   "frente": "Qual é o volume molar de um gás nas CNTP?",
+   "verso": "22,4 L/mol, a 0 °C e 1 atm."
+  },
+  {
+   "id": "flash-quimica-estequiometria-05",
+   "frente": "Como calcular a massa molar da água (H₂O)?",
+   "verso": "2 × 1 + 16 = 18 g/mol."
+  },
+  {
+   "id": "flash-quimica-estequiometria-06",
+   "frente": "O que significa balancear uma equação química?",
+   "verso": "Igualar o número de átomos de cada elemento nos dois lados, respeitando a Lei da Conservação das Massas."
+  },
+  {
+   "id": "flash-quimica-estequiometria-07",
+   "frente": "O que diz a Lei de Lavoisier?",
+   "verso": "Numa reação química, a massa total dos reagentes é igual à massa total dos produtos — nada se perde, nada se cria."
+  },
+  {
+   "id": "flash-quimica-estequiometria-08",
+   "frente": "O que diz a Lei de Proust (proporções definidas)?",
+   "verso": "Uma substância pura sempre apresenta a mesma proporção em massa entre seus elementos, qualquer que seja sua origem."
+  },
+  {
+   "id": "flash-quimica-estequiometria-09",
+   "frente": "O que os coeficientes de uma equação balanceada representam?",
+   "verso": "A proporção em MOLS (e, para gases nas mesmas condições, em volume) entre reagentes e produtos — não em massa."
+  },
+  {
+   "id": "flash-quimica-estequiometria-10",
+   "frente": "Como montar uma regra de três estequiométrica?",
+   "verso": "Escreva a proporção em mols da equação balanceada, converta para a grandeza pedida (massa, volume, moléculas) e monte a proporção."
+  },
+  {
+   "id": "flash-quimica-estequiometria-11",
+   "frente": "O que é o reagente limitante?",
+   "verso": "Aquele que se esgota primeiro e, por isso, determina a quantidade máxima de produto formada."
+  },
+  {
+   "id": "flash-quimica-estequiometria-12",
+   "frente": "Como identificar o reagente limitante num problema?",
+   "verso": "Calcule quantos mols de produto cada reagente geraria sozinho; o que gerar MENOS produto é o limitante."
+  },
+  {
+   "id": "flash-quimica-estequiometria-13",
+   "frente": "O que é o reagente em excesso?",
+   "verso": "Aquele que sobra depois que o limitante se esgota; a quantidade que sobra pode ser calculada por diferença."
+  },
+  {
+   "id": "flash-quimica-estequiometria-14",
+   "frente": "O que é rendimento de uma reação?",
+   "verso": "A razão entre a massa realmente obtida e a massa teoricamente prevista, em porcentagem."
+  },
+  {
+   "id": "flash-quimica-estequiometria-15",
+   "frente": "Como calcular a massa real obtida a partir do rendimento?",
+   "verso": "Massa real = massa teórica × (rendimento ÷ 100)."
+  },
+  {
+   "id": "flash-quimica-estequiometria-16",
+   "frente": "O que significa dizer que uma amostra tem 80% de pureza?",
+   "verso": "Só 80% da massa da amostra é a substância que reage; os 20% restantes são inertes e devem ser descontados antes do cálculo."
+  },
+  {
+   "id": "flash-quimica-estequiometria-17",
+   "frente": "Em que ordem se aplicam pureza e rendimento num cálculo estequiométrico?",
+   "verso": "Primeiro desconte a pureza (entra menos reagente), faça a estequiometria, e só então aplique o rendimento ao produto."
+  },
+  {
+   "id": "flash-quimica-estequiometria-18",
+   "frente": "Quantas moléculas há em 1 mol de qualquer substância molecular?",
+   "verso": "6,02 × 10²³ moléculas."
+  },
+  {
+   "id": "flash-quimica-estequiometria-19",
+   "frente": "Como converter mols em número de partículas?",
+   "verso": "Multiplique o número de mols pelo número de Avogadro (6,02 × 10²³)."
+  },
+  {
+   "id": "flash-quimica-estequiometria-20",
+   "frente": "Como converter volume de gás nas CNTP em mols?",
+   "verso": "Divida o volume em litros por 22,4 L/mol."
+  },
+  {
+   "id": "flash-quimica-estequiometria-21",
+   "frente": "Como se calcula a massa molecular do CO₂?",
+   "verso": "12 + 2 × 16 = 44 u, portanto massa molar de 44 g/mol."
+  },
+  {
+   "id": "flash-quimica-estequiometria-22",
+   "frente": "O que diz a Lei de Gay-Lussac para volumes gasosos?",
+   "verso": "Nas mesmas condições de pressão e temperatura, os volumes dos gases participantes guardam entre si uma proporção de números inteiros e pequenos."
+  },
+  {
+   "id": "flash-quimica-estequiometria-23",
+   "frente": "Numa reação, se dobro a massa do reagente limitante, o que acontece com o produto?",
+   "verso": "A massa de produto também dobra — a relação estequiométrica é proporcional."
+  },
+  {
+   "id": "flash-quimica-estequiometria-24",
+   "frente": "O que é uma fórmula mínima (empírica)?",
+   "verso": "A que exprime a MENOR proporção de números inteiros entre os átomos dos elementos de um composto."
+  },
+  {
+   "id": "flash-quimica-estequiometria-25",
+   "frente": "Qual é a diferença entre fórmula mínima e molecular?",
+   "verso": "A molecular indica o número real de átomos por molécula; a mínima, apenas a proporção. A molecular é sempre um múltiplo inteiro da mínima."
+  },
+  {
+   "id": "flash-quimica-estequiometria-26",
+   "frente": "Como se determina a fórmula mínima a partir das porcentagens em massa?",
+   "verso": "Divida cada porcentagem pela massa atômica do elemento e, em seguida, todos os resultados pelo menor deles."
+  },
+  {
+   "id": "flash-quimica-estequiometria-27",
+   "frente": "Por que não se pode somar massas diretamente na proporção de uma equação?",
+   "verso": "Porque os coeficientes valem para mols, e mols diferentes têm massas diferentes — é preciso converter antes."
+  },
+  {
+   "id": "flash-quimica-estequiometria-28",
+   "frente": "Como calcular a massa de produto a partir de um volume de solução com concentração conhecida?",
+   "verso": "Multiplique volume por concentração para obter mols, aplique a proporção estequiométrica e converta o resultado em massa."
+  },
+  {
+   "id": "flash-quimica-estequiometria-29",
+   "frente": "O que é a equação geral dos gases ideais?",
+   "verso": "PV = nRT, com n em mols e R a constante universal dos gases."
+  },
+  {
+   "id": "flash-quimica-estequiometria-30",
+   "frente": "Como usar PV = nRT num cálculo estequiométrico fora das CNTP?",
+   "verso": "Isole n = PV/RT para achar os mols do gás e siga com a proporção da equação balanceada."
+  },
+  {
+   "id": "flash-quimica-estequiometria-31",
+   "frente": "Numa combustão completa de hidrocarboneto, quais são os produtos?",
+   "verso": "Gás carbônico (CO₂) e água (H₂O)."
+  },
+  {
+   "id": "flash-quimica-estequiometria-32",
+   "frente": "Por que o balanceamento de uma combustão costuma começar por carbono e hidrogênio?",
+   "verso": "Porque eles aparecem em um único produto cada; o oxigênio, presente em ambos, é balanceado por último."
+  },
+  {
+   "id": "flash-quimica-estequiometria-33",
+   "frente": "O que é o excesso de reagente em termos práticos de laboratório?",
+   "verso": "Usar mais de um reagente (geralmente o mais barato) para garantir o consumo total do outro, mais caro ou limitante."
+  }
+ ],
+ "quimica-organica": [
+  {
+   "id": "flash-quimica-organica-01",
+   "frente": "O que caracteriza um composto orgânico?",
+   "verso": "Ter o carbono como elemento central, formando cadeias, geralmente ligado a hidrogênio, oxigênio, nitrogênio ou halogênios."
+  },
+  {
+   "id": "flash-quimica-organica-02",
+   "frente": "Quantas ligações o carbono faz, e por quê?",
+   "verso": "Quatro, por ter quatro elétrons na camada de valência — é tetravalente."
+  },
+  {
+   "id": "flash-quimica-organica-03",
+   "frente": "O que é um carbono primário?",
+   "verso": "Aquele ligado a apenas um outro átomo de carbono."
+  },
+  {
+   "id": "flash-quimica-organica-04",
+   "frente": "O que é um carbono quaternário?",
+   "verso": "Aquele ligado a quatro outros átomos de carbono."
+  },
+  {
+   "id": "flash-quimica-organica-05",
+   "frente": "O que é um carbono quiral (assimétrico)?",
+   "verso": "Aquele ligado a quatro grupos diferentes entre si — é o que gera isomeria óptica."
+  },
+  {
+   "id": "flash-quimica-organica-06",
+   "frente": "Qual é a diferença entre cadeia aberta e fechada?",
+   "verso": "A aberta (acíclica) tem extremidades livres; a fechada (cíclica) forma um anel."
+  },
+  {
+   "id": "flash-quimica-organica-07",
+   "frente": "O que é uma cadeia homogênea?",
+   "verso": "Aquela que só tem carbonos na cadeia principal, sem heteroátomo entre eles."
+  },
+  {
+   "id": "flash-quimica-organica-08",
+   "frente": "O que é um heteroátomo?",
+   "verso": "Um átomo diferente de carbono situado ENTRE carbonos na cadeia, como o oxigênio de um éter."
+  },
+  {
+   "id": "flash-quimica-organica-09",
+   "frente": "O que caracteriza um alcano?",
+   "verso": "Hidrocarboneto de cadeia aberta com apenas ligações simples; sufixo -ano."
+  },
+  {
+   "id": "flash-quimica-organica-10",
+   "frente": "O que caracteriza um alceno?",
+   "verso": "Hidrocarboneto de cadeia aberta com uma dupla ligação entre carbonos; sufixo -eno."
+  },
+  {
+   "id": "flash-quimica-organica-11",
+   "frente": "O que caracteriza um alcino?",
+   "verso": "Hidrocarboneto de cadeia aberta com uma tripla ligação entre carbonos; sufixo -ino."
+  },
+  {
+   "id": "flash-quimica-organica-12",
+   "frente": "O que caracteriza um composto aromático?",
+   "verso": "Ter anel benzênico, com elétrons deslocalizados que lhe dão estabilidade especial."
+  },
+  {
+   "id": "flash-quimica-organica-13",
+   "frente": "Qual é o grupo funcional do álcool?",
+   "verso": "A hidroxila (−OH) ligada a carbono saturado; sufixo -ol."
+  },
+  {
+   "id": "flash-quimica-organica-14",
+   "frente": "Qual é o grupo funcional do ácido carboxílico?",
+   "verso": "A carboxila (−COOH); sufixo -oico."
+  },
+  {
+   "id": "flash-quimica-organica-15",
+   "frente": "Qual é o grupo funcional do aldeído?",
+   "verso": "A carbonila na EXTREMIDADE da cadeia (−CHO); sufixo -al."
+  },
+  {
+   "id": "flash-quimica-organica-16",
+   "frente": "Qual é o grupo funcional da cetona?",
+   "verso": "A carbonila entre dois carbonos, no MEIO da cadeia; sufixo -ona."
+  },
+  {
+   "id": "flash-quimica-organica-17",
+   "frente": "Qual é a diferença estrutural entre aldeído e cetona?",
+   "verso": "A posição da carbonila: na ponta da cadeia é aldeído, no meio é cetona."
+  },
+  {
+   "id": "flash-quimica-organica-18",
+   "frente": "O que caracteriza um éster?",
+   "verso": "O grupo −COO− entre cadeias carbônicas; responde pelos aromas de frutas e forma os óleos e gorduras."
+  },
+  {
+   "id": "flash-quimica-organica-19",
+   "frente": "O que caracteriza um éter?",
+   "verso": "Um oxigênio ligado entre dois carbonos (R−O−R)."
+  },
+  {
+   "id": "flash-quimica-organica-20",
+   "frente": "O que caracteriza uma amina?",
+   "verso": "Deriva da amônia pela substituição de um ou mais hidrogênios por radicais orgânicos; tem caráter básico."
+  },
+  {
+   "id": "flash-quimica-organica-21",
+   "frente": "O que caracteriza uma amida?",
+   "verso": "Tem o grupo −CONH₂, resultante da união de carboxila com nitrogênio; a ligação peptídica das proteínas é uma amida."
+  },
+  {
+   "id": "flash-quimica-organica-22",
+   "frente": "Como se monta o nome de um composto orgânico?",
+   "verso": "Prefixo (número de carbonos) + infixo (tipo de ligação) + sufixo (função), com ramificações numeradas."
+  },
+  {
+   "id": "flash-quimica-organica-23",
+   "frente": "Que prefixos correspondem a 1, 2, 3 e 4 carbonos?",
+   "verso": "met-, et-, prop- e but-."
+  },
+  {
+   "id": "flash-quimica-organica-24",
+   "frente": "Como se numera a cadeia principal na nomenclatura IUPAC?",
+   "verso": "Pela extremidade que atribui os MENORES números ao grupo funcional, às insaturações e às ramificações."
+  },
+  {
+   "id": "flash-quimica-organica-25",
+   "frente": "O que é isomeria?",
+   "verso": "O fenômeno em que compostos diferentes compartilham a mesma fórmula molecular, diferindo na estrutura ou no arranjo espacial."
+  },
+  {
+   "id": "flash-quimica-organica-26",
+   "frente": "O que é isomeria de cadeia?",
+   "verso": "Isômeros com a mesma função, diferindo no tipo de cadeia — por exemplo, normal contra ramificada."
+  },
+  {
+   "id": "flash-quimica-organica-27",
+   "frente": "O que é isomeria de função?",
+   "verso": "Isômeros de mesma fórmula molecular pertencentes a funções orgânicas diferentes, como um álcool e um éter."
+  },
+  {
+   "id": "flash-quimica-organica-28",
+   "frente": "O que é isomeria geométrica (cis-trans)?",
+   "verso": "Ocorre em duplas ligações ou ciclos: cis tem os grupos iguais do mesmo lado, trans em lados opostos."
+  },
+  {
+   "id": "flash-quimica-organica-29",
+   "frente": "Que condição é necessária para haver isomeria geométrica numa dupla ligação?",
+   "verso": "Cada carbono da dupla precisa ter dois ligantes DIFERENTES entre si."
+  },
+  {
+   "id": "flash-quimica-organica-30",
+   "frente": "O que é isomeria óptica?",
+   "verso": "A que ocorre em moléculas com carbono quiral, gerando isômeros que são imagens especulares não sobreponíveis (enantiômeros)."
+  },
+  {
+   "id": "flash-quimica-organica-31",
+   "frente": "O que é uma reação de adição, típica de alcenos?",
+   "verso": "A quebra da ligação dupla, com entrada de dois novos grupos nos carbonos que a formavam."
+  },
+  {
+   "id": "flash-quimica-organica-32",
+   "frente": "O que é uma reação de substituição, típica de alcanos e aromáticos?",
+   "verso": "A troca de um hidrogênio por outro átomo ou grupo, mantendo a estrutura da cadeia."
+  },
+  {
+   "id": "flash-quimica-organica-33",
+   "frente": "O que é uma reação de esterificação?",
+   "verso": "A reação entre ácido carboxílico e álcool, produzindo éster e água."
+  },
+  {
+   "id": "flash-quimica-organica-34",
+   "frente": "O que é saponificação?",
+   "verso": "A hidrólise básica de um éster de ácido graxo (gordura), produzindo sabão e glicerol."
+  },
+  {
+   "id": "flash-quimica-organica-35",
+   "frente": "O que é um polímero?",
+   "verso": "Uma macromolécula formada pela repetição de unidades menores, os monômeros."
+  },
+  {
+   "id": "flash-quimica-organica-36",
+   "frente": "Qual é a diferença entre polimerização por adição e por condensação?",
+   "verso": "Na adição, os monômeros insaturados se unem sem perda de átomos; na condensação, cada ligação libera uma molécula pequena, como água."
+  },
+  {
+   "id": "flash-quimica-organica-37",
+   "frente": "De que monômero deriva o PET, e onde ele é usado?",
+   "verso": "De ácido tereftálico com etilenoglicol, por condensação; é usado em garrafas e fibras têxteis, e é amplamente reciclável."
+  },
+  {
+   "id": "flash-quimica-organica-38",
+   "frente": "O que é um polímero biodegradável?",
+   "verso": "Aquele que pode ser decomposto por microrganismos em prazo curto, ao contrário dos plásticos convencionais, que persistem por séculos."
+  }
+ ],
+ "quimica-solucoes": [
+  {
+   "id": "flash-quimica-solucoes-01",
+   "frente": "O que é um soluto e o que é um solvente?",
+   "verso": "Soluto é a substância dissolvida (em menor quantidade); solvente é o meio que dissolve (em maior quantidade)."
+  },
+  {
+   "id": "flash-quimica-solucoes-02",
+   "frente": "O que é uma solução?",
+   "verso": "Uma mistura HOMOGÊNEA de duas ou mais substâncias, com partículas dispersas em nível molecular ou iônico."
+  },
+  {
+   "id": "flash-quimica-solucoes-03",
+   "frente": "O que é concentração comum (C), e qual sua unidade?",
+   "verso": "A massa de soluto por volume de solução: C = m/V, em g/L."
+  },
+  {
+   "id": "flash-quimica-solucoes-04",
+   "frente": "O que é concentração em quantidade de matéria (molaridade)?",
+   "verso": "O número de mols de soluto por litro de solução: M = n/V, em mol/L."
+  },
+  {
+   "id": "flash-quimica-solucoes-05",
+   "frente": "Como converter concentração comum em molaridade?",
+   "verso": "M = C ÷ massa molar do soluto."
+  },
+  {
+   "id": "flash-quimica-solucoes-06",
+   "frente": "O que é título em massa, e como se relaciona com a porcentagem?",
+   "verso": "É a razão entre a massa do soluto e a massa da solução; multiplicado por 100, dá a porcentagem em massa."
+  },
+  {
+   "id": "flash-quimica-solucoes-07",
+   "frente": "O que significa uma solução de 5 ppm?",
+   "verso": "5 partes de soluto por milhão de partes de solução — equivale a 5 mg de soluto por litro em soluções aquosas diluídas."
+  },
+  {
+   "id": "flash-quimica-solucoes-08",
+   "frente": "O que acontece com a quantidade de soluto numa diluição?",
+   "verso": "Ela NÃO muda — só o volume de solvente aumenta, por isso a concentração cai."
+  },
+  {
+   "id": "flash-quimica-solucoes-09",
+   "frente": "Qual é a fórmula da diluição?",
+   "verso": "C₁V₁ = C₂V₂ (ou M₁V₁ = M₂V₂), porque a quantidade de soluto se conserva."
+  },
+  {
+   "id": "flash-quimica-solucoes-10",
+   "frente": "Como calcular a concentração ao misturar duas soluções do MESMO soluto?",
+   "verso": "Some as quantidades de soluto (C₁V₁ + C₂V₂) e divida pela soma dos volumes."
+  },
+  {
+   "id": "flash-quimica-solucoes-11",
+   "frente": "O que é uma solução saturada?",
+   "verso": "Aquela que contém a quantidade máxima de soluto dissolvida naquela temperatura — está no limite do coeficiente de solubilidade."
+  },
+  {
+   "id": "flash-quimica-solucoes-12",
+   "frente": "O que é o coeficiente de solubilidade?",
+   "verso": "A quantidade máxima de soluto que se dissolve numa quantidade padrão de solvente, a uma dada temperatura."
+  },
+  {
+   "id": "flash-quimica-solucoes-13",
+   "frente": "O que é uma solução supersaturada?",
+   "verso": "Aquela que contém MAIS soluto dissolvido do que o coeficiente de solubilidade permite; é instável e precipita ao menor distúrbio."
+  },
+  {
+   "id": "flash-quimica-solucoes-14",
+   "frente": "O que é o corpo de fundo de uma solução?",
+   "verso": "O soluto não dissolvido que se deposita quando se ultrapassa o limite de saturação."
+  },
+  {
+   "id": "flash-quimica-solucoes-15",
+   "frente": "Como a temperatura afeta a solubilidade da maioria dos sais sólidos?",
+   "verso": "Aumenta — a dissolução da maioria dos sólidos é endotérmica, e o aquecimento favorece o processo."
+  },
+  {
+   "id": "flash-quimica-solucoes-16",
+   "frente": "Como a temperatura afeta a solubilidade dos gases em água?",
+   "verso": "Diminui — por isso a água quente perde gás dissolvido, e a poluição térmica reduz o oxigênio disponível aos peixes."
+  },
+  {
+   "id": "flash-quimica-solucoes-17",
+   "frente": "Como a pressão afeta a solubilidade de um gás?",
+   "verso": "É diretamente proporcional (Lei de Henry) — por isso um refrigerante libera gás quando a garrafa é aberta e a pressão cai."
+  },
+  {
+   "id": "flash-quimica-solucoes-18",
+   "frente": "O que é uma titulação?",
+   "verso": "Uma técnica para determinar a concentração desconhecida de uma solução, reagindo-a com outra de concentração conhecida até o ponto de equivalência."
+  },
+  {
+   "id": "flash-quimica-solucoes-19",
+   "frente": "O que é o ponto de viragem numa titulação?",
+   "verso": "O momento em que o indicador muda de cor, sinalizando visualmente que o ponto de equivalência foi atingido."
+  },
+  {
+   "id": "flash-quimica-solucoes-20",
+   "frente": "Qual é a relação usada no cálculo de uma titulação ácido-base simples?",
+   "verso": "No ponto de equivalência, os mols de H⁺ igualam os de OH⁻: M₁V₁ × (nº de H) = M₂V₂ × (nº de OH)."
+  },
+  {
+   "id": "flash-quimica-solucoes-21",
+   "frente": "O que são propriedades coligativas?",
+   "verso": "As que dependem apenas do NÚMERO de partículas dissolvidas, e não da natureza química do soluto."
+  },
+  {
+   "id": "flash-quimica-solucoes-22",
+   "frente": "O que é tonoscopia?",
+   "verso": "A diminuição da pressão máxima de vapor do solvente causada pela adição de um soluto não volátil."
+  },
+  {
+   "id": "flash-quimica-solucoes-23",
+   "frente": "O que é ebulioscopia?",
+   "verso": "O aumento da temperatura de ebulição do solvente provocado pela adição de um soluto não volátil."
+  },
+  {
+   "id": "flash-quimica-solucoes-24",
+   "frente": "O que é crioscopia?",
+   "verso": "A diminuição da temperatura de congelamento do solvente provocada pela adição de um soluto."
+  },
+  {
+   "id": "flash-quimica-solucoes-25",
+   "frente": "Por que se joga sal na neve das estradas em países frios?",
+   "verso": "Por crioscopia: o sal abaixa o ponto de congelamento da água, derretendo o gelo a temperaturas abaixo de 0 °C."
+  },
+  {
+   "id": "flash-quimica-solucoes-26",
+   "frente": "Por que a água com sal demora mais para ferver?",
+   "verso": "Por ebulioscopia: o soluto eleva a temperatura de ebulição, exigindo mais calor para o líquido ferver."
+  },
+  {
+   "id": "flash-quimica-solucoes-27",
+   "frente": "O que é osmose, em termos de solução?",
+   "verso": "A passagem do solvente através de uma membrana semipermeável, do meio menos concentrado para o mais concentrado."
+  },
+  {
+   "id": "flash-quimica-solucoes-28",
+   "frente": "O que é pressão osmótica?",
+   "verso": "A pressão que precisa ser aplicada à solução mais concentrada para impedir a entrada de solvente por osmose."
+  },
+  {
+   "id": "flash-quimica-solucoes-29",
+   "frente": "O que é a osmose reversa, e para que serve?",
+   "verso": "Aplicar pressão maior que a osmótica para forçar o solvente no sentido inverso; é usada na dessalinização da água do mar."
+  },
+  {
+   "id": "flash-quimica-solucoes-30",
+   "frente": "Por que soluções iônicas afetam mais as propriedades coligativas que as moleculares de mesma concentração?",
+   "verso": "Porque se dissociam em vários íons, produzindo mais partículas dissolvidas — é o efeito do fator de van't Hoff."
+  },
+  {
+   "id": "flash-quimica-solucoes-31",
+   "frente": "Por que o soro fisiológico precisa ser isotônico em relação ao sangue?",
+   "verso": "Para não causar entrada ou saída de água das hemácias por osmose, o que as romperia ou as murcharia."
+  },
+  {
+   "id": "flash-quimica-solucoes-32",
+   "frente": "Como se prepara uma solução a partir de um soluto sólido, em laboratório?",
+   "verso": "Pesa-se a massa calculada, dissolve-se em pouco solvente e completa-se o volume no balão volumétrico até o menisco."
+  },
+  {
+   "id": "flash-quimica-solucoes-33",
+   "frente": "Por que a concentração se refere ao volume da SOLUÇÃO e não do solvente?",
+   "verso": "Porque o soluto ocupa volume ao se dissolver — o volume final da solução não é a soma dos volumes iniciais."
+  }
+ ],
+ "quimica-termoquimica-cinetica": [
+  {
+   "id": "flash-quimica-termoquimica-cinetica-01",
+   "frente": "O que é entalpia (H)?",
+   "verso": "O conteúdo de energia térmica de um sistema à pressão constante; só se mede sua variação, ΔH."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-02",
+   "frente": "Como se calcula a variação de entalpia de uma reação?",
+   "verso": "ΔH = H(produtos) − H(reagentes)."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-03",
+   "frente": "O que caracteriza uma reação exotérmica?",
+   "verso": "Libera calor para o ambiente, e o ΔH é NEGATIVO — os produtos têm menos energia que os reagentes."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-04",
+   "frente": "O que caracteriza uma reação endotérmica?",
+   "verso": "Absorve calor do ambiente, e o ΔH é POSITIVO — os produtos têm mais energia que os reagentes."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-05",
+   "frente": "Como identificar num gráfico de energia se a reação é exotérmica?",
+   "verso": "A linha dos produtos aparece ABAIXO da linha dos reagentes."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-06",
+   "frente": "A combustão é exotérmica ou endotérmica?",
+   "verso": "Sempre exotérmica — libera calor, com ΔH negativo."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-07",
+   "frente": "A fotossíntese é exotérmica ou endotérmica?",
+   "verso": "Endotérmica: absorve energia luminosa para converter reagentes de baixa energia em glicose."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-08",
+   "frente": "O que é entalpia padrão de formação?",
+   "verso": "A variação de entalpia na formação de 1 mol de uma substância a partir de seus elementos em estado padrão."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-09",
+   "frente": "Qual é a entalpia de formação de uma substância simples no estado padrão?",
+   "verso": "Zero, por convenção — como O₂ gasoso ou grafite."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-10",
+   "frente": "O que diz a Lei de Hess?",
+   "verso": "A variação de entalpia de uma reação depende apenas dos estados inicial e final, não do caminho percorrido."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-11",
+   "frente": "Como se aplica a Lei de Hess na prática?",
+   "verso": "Somando equações intermediárias (invertendo ou multiplicando quando preciso) até obter a reação desejada, e somando os ΔH correspondentes."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-12",
+   "frente": "O que acontece com o ΔH ao inverter uma equação química?",
+   "verso": "Ele troca de sinal."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-13",
+   "frente": "O que acontece com o ΔH ao multiplicar uma equação por um fator?",
+   "verso": "Ele é multiplicado pelo mesmo fator."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-14",
+   "frente": "O que é entalpia de ligação?",
+   "verso": "A energia necessária para romper 1 mol de determinada ligação no estado gasoso; romper ligação sempre absorve energia."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-15",
+   "frente": "Como calcular o ΔH usando energias de ligação?",
+   "verso": "ΔH = energia gasta para romper as ligações dos reagentes − energia liberada na formação das ligações dos produtos."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-16",
+   "frente": "O que é entropia (S)?",
+   "verso": "A medida do grau de desordem ou de dispersão de energia de um sistema."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-17",
+   "frente": "Como a entropia varia na passagem de sólido para gás?",
+   "verso": "Aumenta — o gás é o estado mais desordenado."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-18",
+   "frente": "O que é a energia livre de Gibbs?",
+   "verso": "ΔG = ΔH − TΔS; é o critério que determina se um processo é espontâneo."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-19",
+   "frente": "Que valor de ΔG indica um processo espontâneo?",
+   "verso": "ΔG negativo."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-20",
+   "frente": "Quando uma reação endotérmica pode ser espontânea?",
+   "verso": "Quando o aumento de entropia é grande e a temperatura é alta o bastante para que TΔS supere ΔH."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-21",
+   "frente": "O que é o poder calorífico de um combustível?",
+   "verso": "A quantidade de calor liberada na combustão completa de uma unidade de massa ou volume dele."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-22",
+   "frente": "O que estuda a cinética química?",
+   "verso": "A VELOCIDADE das reações e os fatores que a alteram."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-23",
+   "frente": "Como se define a velocidade de uma reação?",
+   "verso": "Pela variação da quantidade de reagente consumido ou de produto formado por unidade de tempo."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-24",
+   "frente": "O que é energia de ativação?",
+   "verso": "A energia mínima que os reagentes precisam ter para que a colisão seja efetiva e a reação ocorra."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-25",
+   "frente": "O que é o complexo ativado?",
+   "verso": "O estado intermediário e instável no topo da barreira energética, entre reagentes e produtos."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-26",
+   "frente": "O que diz a teoria das colisões?",
+   "verso": "Para reagir, as partículas precisam colidir com energia suficiente E com orientação adequada."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-27",
+   "frente": "Como o aumento da temperatura afeta a velocidade da reação?",
+   "verso": "Aumenta — mais partículas atingem a energia de ativação e as colisões ficam mais frequentes e energéticas."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-28",
+   "frente": "Como a concentração dos reagentes afeta a velocidade?",
+   "verso": "Quanto maior a concentração, maior a frequência de colisões e, portanto, maior a velocidade."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-29",
+   "frente": "Como a superfície de contato afeta a velocidade de uma reação?",
+   "verso": "Quanto mais fragmentado o sólido, maior a área exposta e mais rápida a reação — pó reage mais rápido que bloco."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-30",
+   "frente": "O que é um catalisador?",
+   "verso": "Uma substância que acelera a reação criando um caminho de MENOR energia de ativação, sem ser consumida."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-31",
+   "frente": "O catalisador altera o ΔH da reação?",
+   "verso": "Não. Ele só reduz a energia de ativação; a diferença de energia entre reagentes e produtos permanece a mesma."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-32",
+   "frente": "O que é uma enzima, do ponto de vista da cinética?",
+   "verso": "Um catalisador biológico, altamente específico e sensível a temperatura e pH."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-33",
+   "frente": "O que é um inibidor (catalisador negativo)?",
+   "verso": "Uma substância que diminui a velocidade da reação, como os conservantes que retardam a deterioração de alimentos."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-34",
+   "frente": "Numa reação em várias etapas, o que determina a velocidade global?",
+   "verso": "A etapa mais LENTA, chamada etapa determinante."
+  },
+  {
+   "id": "flash-quimica-termoquimica-cinetica-35",
+   "frente": "Como o gráfico de energia mostra o efeito de um catalisador?",
+   "verso": "A curva catalisada tem um pico mais baixo, mas parte e chega aos mesmos níveis de reagentes e produtos."
+  }
+ ],
+ "fisica-termologia": [
+  {
+   "id": "flash-fisica-termologia-01",
+   "frente": "Qual é a diferença entre calor e temperatura?",
+   "verso": "Temperatura mede o grau de agitação das partículas; calor é a energia térmica em TRÂNSITO entre corpos de temperaturas diferentes."
+  },
+  {
+   "id": "flash-fisica-termologia-02",
+   "frente": "Um corpo pode 'ter' calor?",
+   "verso": "Não. Calor só existe em trânsito; o corpo tem energia interna, e o calor é a transferência dessa energia."
+  },
+  {
+   "id": "flash-fisica-termologia-03",
+   "frente": "Como converter Celsius em Kelvin?",
+   "verso": "K = °C + 273."
+  },
+  {
+   "id": "flash-fisica-termologia-04",
+   "frente": "Qual é a relação entre as escalas Celsius e Fahrenheit?",
+   "verso": "°C/5 = (°F − 32)/9."
+  },
+  {
+   "id": "flash-fisica-termologia-05",
+   "frente": "O que é o zero absoluto?",
+   "verso": "0 K (−273 °C), a menor temperatura teoricamente possível, com agitação mínima das partículas."
+  },
+  {
+   "id": "flash-fisica-termologia-06",
+   "frente": "O que é equilíbrio térmico?",
+   "verso": "A situação em que dois corpos em contato atingem a mesma temperatura e cessa a troca líquida de calor."
+  },
+  {
+   "id": "flash-fisica-termologia-07",
+   "frente": "O que é calor sensível?",
+   "verso": "O calor que provoca variação de TEMPERATURA, sem mudança de estado físico."
+  },
+  {
+   "id": "flash-fisica-termologia-08",
+   "frente": "Qual é a fórmula do calor sensível?",
+   "verso": "Q = m · c · ΔT."
+  },
+  {
+   "id": "flash-fisica-termologia-09",
+   "frente": "O que é calor específico?",
+   "verso": "A quantidade de calor necessária para elevar em 1 °C a temperatura de 1 g (ou 1 kg) de uma substância."
+  },
+  {
+   "id": "flash-fisica-termologia-10",
+   "frente": "Por que a água demora a esquentar e a esfriar?",
+   "verso": "Porque tem calor específico alto (1 cal/g·°C), exigindo muita energia para variar sua temperatura."
+  },
+  {
+   "id": "flash-fisica-termologia-11",
+   "frente": "O que é calor latente?",
+   "verso": "O calor que provoca MUDANÇA DE ESTADO, sem variação de temperatura."
+  },
+  {
+   "id": "flash-fisica-termologia-12",
+   "frente": "Qual é a fórmula do calor latente?",
+   "verso": "Q = m · L."
+  },
+  {
+   "id": "flash-fisica-termologia-13",
+   "frente": "Por que a temperatura não sobe enquanto o gelo derrete?",
+   "verso": "Porque toda a energia recebida é usada para romper as ligações entre as moléculas, não para aumentar a agitação térmica."
+  },
+  {
+   "id": "flash-fisica-termologia-14",
+   "frente": "Quais são as mudanças de estado que ABSORVEM calor?",
+   "verso": "Fusão, vaporização e sublimação."
+  },
+  {
+   "id": "flash-fisica-termologia-15",
+   "frente": "Quais são as mudanças de estado que LIBERAM calor?",
+   "verso": "Solidificação, condensação e ressublimação."
+  },
+  {
+   "id": "flash-fisica-termologia-16",
+   "frente": "Por que o suor refresca o corpo?",
+   "verso": "Porque sua evaporação absorve calor latente da pele, retirando energia do corpo."
+  },
+  {
+   "id": "flash-fisica-termologia-17",
+   "frente": "O que é dilatação térmica?",
+   "verso": "O aumento das dimensões de um corpo pelo aumento da temperatura, causado pela maior agitação e afastamento das partículas."
+  },
+  {
+   "id": "flash-fisica-termologia-18",
+   "frente": "Qual é a fórmula da dilatação linear?",
+   "verso": "ΔL = L₀ · α · ΔT."
+  },
+  {
+   "id": "flash-fisica-termologia-19",
+   "frente": "Como se relacionam os coeficientes de dilatação linear, superficial e volumétrica?",
+   "verso": "β = 2α e γ = 3α."
+  },
+  {
+   "id": "flash-fisica-termologia-20",
+   "frente": "Por que se deixam juntas de dilatação entre trilhos e lajes?",
+   "verso": "Para acomodar a expansão do material com o aumento da temperatura sem gerar tensões que o deformem ou rompam."
+  },
+  {
+   "id": "flash-fisica-termologia-21",
+   "frente": "O que é a dilatação anômala da água?",
+   "verso": "Entre 0 °C e 4 °C a água CONTRAI ao ser aquecida; por isso o gelo flutua e os lagos congelam de cima para baixo."
+  },
+  {
+   "id": "flash-fisica-termologia-22",
+   "frente": "Como o calor se propaga por condução?",
+   "verso": "De partícula a partícula, sem transporte de matéria; é o mecanismo típico dos sólidos, sobretudo dos metais."
+  },
+  {
+   "id": "flash-fisica-termologia-23",
+   "frente": "Como o calor se propaga por convecção?",
+   "verso": "Pelo deslocamento de massas do próprio fluido, com o material quente subindo e o frio descendo; só ocorre em fluidos."
+  },
+  {
+   "id": "flash-fisica-termologia-24",
+   "frente": "Como o calor se propaga por irradiação?",
+   "verso": "Por ondas eletromagnéticas, sem necessidade de meio material — é assim que o calor do Sol chega à Terra."
+  },
+  {
+   "id": "flash-fisica-termologia-25",
+   "frente": "Por que garrafas térmicas têm parede dupla espelhada e vácuo entre elas?",
+   "verso": "O vácuo bloqueia condução e convecção, e o espelhamento reflete a irradiação."
+  },
+  {
+   "id": "flash-fisica-termologia-26",
+   "frente": "O que estabelece a Lei Geral dos Gases?",
+   "verso": "P·V/T é constante para uma dada massa de gás ideal, permitindo relacionar dois estados: P₁V₁/T₁ = P₂V₂/T₂."
+  },
+  {
+   "id": "flash-fisica-termologia-27",
+   "frente": "O que é uma transformação isotérmica?",
+   "verso": "Aquela em que a temperatura permanece constante, com pressão e volume inversamente proporcionais (Lei de Boyle)."
+  },
+  {
+   "id": "flash-fisica-termologia-28",
+   "frente": "O que é uma transformação isobárica?",
+   "verso": "Aquela em que a pressão permanece constante, com volume diretamente proporcional à temperatura absoluta."
+  },
+  {
+   "id": "flash-fisica-termologia-29",
+   "frente": "O que é uma transformação isovolumétrica (isocórica)?",
+   "verso": "Aquela em que o volume permanece constante, com pressão diretamente proporcional à temperatura absoluta."
+  },
+  {
+   "id": "flash-fisica-termologia-30",
+   "frente": "O que é uma transformação adiabática?",
+   "verso": "Aquela em que não há troca de calor com o meio (Q = 0); toda variação de energia interna vem do trabalho."
+  },
+  {
+   "id": "flash-fisica-termologia-31",
+   "frente": "O que diz a Primeira Lei da Termodinâmica?",
+   "verso": "ΔU = Q − τ: a variação da energia interna é o calor recebido menos o trabalho realizado pelo gás."
+  },
+  {
+   "id": "flash-fisica-termologia-32",
+   "frente": "Numa transformação isotérmica, quanto vale a variação da energia interna?",
+   "verso": "Zero — a energia interna de um gás ideal depende só da temperatura, que não muda."
+  },
+  {
+   "id": "flash-fisica-termologia-33",
+   "frente": "O que diz a Segunda Lei da Termodinâmica?",
+   "verso": "O calor flui espontaneamente do corpo mais quente para o mais frio, e nenhuma máquina térmica converte integralmente calor em trabalho."
+  },
+  {
+   "id": "flash-fisica-termologia-34",
+   "frente": "O que é uma máquina térmica?",
+   "verso": "Um dispositivo que retira calor de uma fonte quente, converte parte em trabalho e rejeita o restante numa fonte fria."
+  },
+  {
+   "id": "flash-fisica-termologia-35",
+   "frente": "Como se calcula o rendimento máximo de uma máquina de Carnot?",
+   "verso": "η = 1 − (T_fria / T_quente), com as temperaturas em Kelvin."
+  },
+  {
+   "id": "flash-fisica-termologia-36",
+   "frente": "Por que uma geladeira não esfria a cozinha se ficar aberta?",
+   "verso": "Porque ela transfere calor de dentro para fora e ainda dissipa o calor do trabalho do motor — o saldo líquido AQUECE o ambiente."
+  }
+ ],
+ "fisica-mecanica": [
+  {
+   "id": "flash-fisica-mecanica-01",
+   "frente": "O que é um referencial, e por que ele importa?",
+   "verso": "O corpo em relação ao qual se descreve o movimento; repouso e movimento são conceitos relativos ao referencial adotado."
+  },
+  {
+   "id": "flash-fisica-mecanica-02",
+   "frente": "Qual é a diferença entre distância percorrida e deslocamento?",
+   "verso": "A distância é o comprimento total do caminho; o deslocamento é o vetor entre posição inicial e final, e pode ser zero num percurso fechado."
+  },
+  {
+   "id": "flash-fisica-mecanica-03",
+   "frente": "Como se calcula a velocidade escalar média?",
+   "verso": "v = variação de espaço ÷ variação de tempo (Δs/Δt)."
+  },
+  {
+   "id": "flash-fisica-mecanica-04",
+   "frente": "Quanto vale 36 km/h em m/s?",
+   "verso": "10 m/s — para converter de km/h para m/s, divide-se por 3,6."
+  },
+  {
+   "id": "flash-fisica-mecanica-05",
+   "frente": "O que caracteriza o Movimento Retilíneo Uniforme (MRU)?",
+   "verso": "Velocidade constante e aceleração nula; a função horária é s = s₀ + v·t."
+  },
+  {
+   "id": "flash-fisica-mecanica-06",
+   "frente": "O que caracteriza o Movimento Retilíneo Uniformemente Variado (MRUV)?",
+   "verso": "Aceleração constante e não nula; a velocidade varia linearmente com o tempo."
+  },
+  {
+   "id": "flash-fisica-mecanica-07",
+   "frente": "Qual é a função horária da velocidade no MRUV?",
+   "verso": "v = v₀ + a·t."
+  },
+  {
+   "id": "flash-fisica-mecanica-08",
+   "frente": "Qual é a função horária da posição no MRUV?",
+   "verso": "s = s₀ + v₀·t + (a·t²)/2."
+  },
+  {
+   "id": "flash-fisica-mecanica-09",
+   "frente": "O que diz a Equação de Torricelli, e quando ela é útil?",
+   "verso": "v² = v₀² + 2·a·Δs; é útil quando o tempo não é dado nem pedido."
+  },
+  {
+   "id": "flash-fisica-mecanica-10",
+   "frente": "O que representa a área sob o gráfico velocidade × tempo?",
+   "verso": "O deslocamento do móvel no intervalo considerado."
+  },
+  {
+   "id": "flash-fisica-mecanica-11",
+   "frente": "O que representa a inclinação do gráfico velocidade × tempo?",
+   "verso": "A aceleração."
+  },
+  {
+   "id": "flash-fisica-mecanica-12",
+   "frente": "O que representa a inclinação do gráfico posição × tempo?",
+   "verso": "A velocidade instantânea naquele ponto."
+  },
+  {
+   "id": "flash-fisica-mecanica-13",
+   "frente": "Quando um movimento é acelerado e quando é retardado?",
+   "verso": "Acelerado quando velocidade e aceleração têm o MESMO sinal; retardado quando têm sinais opostos."
+  },
+  {
+   "id": "flash-fisica-mecanica-14",
+   "frente": "O que caracteriza a queda livre?",
+   "verso": "Movimento sob ação exclusiva da gravidade, com aceleração g constante e independente da massa do corpo."
+  },
+  {
+   "id": "flash-fisica-mecanica-15",
+   "frente": "Por que, no vácuo, uma pena e um martelo caem juntos?",
+   "verso": "Porque a aceleração da gravidade não depende da massa, e sem ar não há resistência para diferenciá-los."
+  },
+  {
+   "id": "flash-fisica-mecanica-16",
+   "frente": "No lançamento vertical para cima, quanto vale a velocidade no ponto mais alto?",
+   "verso": "Zero — mas a aceleração continua sendo g, apontando para baixo."
+  },
+  {
+   "id": "flash-fisica-mecanica-17",
+   "frente": "O que caracteriza o lançamento horizontal?",
+   "verso": "A composição de um MRU na horizontal com uma queda livre na vertical, independentes entre si."
+  },
+  {
+   "id": "flash-fisica-mecanica-18",
+   "frente": "Por que o tempo de queda no lançamento horizontal não depende da velocidade inicial?",
+   "verso": "Porque o movimento vertical é independente do horizontal e depende apenas da altura e de g."
+  },
+  {
+   "id": "flash-fisica-mecanica-19",
+   "frente": "Qual é o ângulo de alcance máximo num lançamento oblíquo, desprezando o ar?",
+   "verso": "45°."
+  },
+  {
+   "id": "flash-fisica-mecanica-20",
+   "frente": "O que diz a Primeira Lei de Newton (Inércia)?",
+   "verso": "Um corpo mantém seu estado de repouso ou de movimento retilíneo uniforme, a menos que uma força resultante atue sobre ele."
+  },
+  {
+   "id": "flash-fisica-mecanica-21",
+   "frente": "O que diz a Segunda Lei de Newton?",
+   "verso": "A força resultante é igual ao produto da massa pela aceleração: F = m·a."
+  },
+  {
+   "id": "flash-fisica-mecanica-22",
+   "frente": "O que diz a Terceira Lei de Newton (Ação e Reação)?",
+   "verso": "A toda ação corresponde uma reação de mesma intensidade, mesma direção e sentido oposto, aplicadas em CORPOS DIFERENTES."
+  },
+  {
+   "id": "flash-fisica-mecanica-23",
+   "frente": "Por que forças de ação e reação nunca se anulam?",
+   "verso": "Porque atuam em corpos diferentes; só se anulam forças aplicadas ao mesmo corpo."
+  },
+  {
+   "id": "flash-fisica-mecanica-24",
+   "frente": "Qual é a diferença entre massa e peso?",
+   "verso": "Massa é a quantidade de matéria, escalar e invariável; peso é a força gravitacional sobre o corpo, vetorial e dependente de g."
+  },
+  {
+   "id": "flash-fisica-mecanica-25",
+   "frente": "O que é a força normal?",
+   "verso": "A força de contato perpendicular à superfície de apoio; nem sempre é igual ao peso, como num plano inclinado ou num elevador acelerado."
+  },
+  {
+   "id": "flash-fisica-mecanica-26",
+   "frente": "Qual é a diferença entre atrito estático e cinético?",
+   "verso": "O estático age enquanto o corpo não se move e é variável até um máximo; o cinético age durante o deslizamento e é aproximadamente constante."
+  },
+  {
+   "id": "flash-fisica-mecanica-27",
+   "frente": "Como se calcula a força de atrito?",
+   "verso": "Fat = µ · N, o produto do coeficiente de atrito pela força normal."
+  },
+  {
+   "id": "flash-fisica-mecanica-28",
+   "frente": "A força de atrito depende da área de contato?",
+   "verso": "No modelo do ensino médio, não — depende apenas do coeficiente de atrito e da força normal."
+  },
+  {
+   "id": "flash-fisica-mecanica-29",
+   "frente": "Num plano inclinado sem atrito, quais são as componentes do peso?",
+   "verso": "P·sen θ na direção do movimento (que acelera o corpo) e P·cos θ perpendicular ao plano (equilibrada pela normal)."
+  },
+  {
+   "id": "flash-fisica-mecanica-30",
+   "frente": "Por que a aceleração num plano inclinado sem atrito não depende da massa?",
+   "verso": "Porque a = g·sen θ — a massa se cancela entre a força resultante e a inércia."
+  },
+  {
+   "id": "flash-fisica-mecanica-31",
+   "frente": "O que caracteriza o Movimento Circular Uniforme?",
+   "verso": "Módulo da velocidade constante, mas direção variando, o que exige aceleração centrípeta permanente."
+  },
+  {
+   "id": "flash-fisica-mecanica-32",
+   "frente": "Para onde aponta a aceleração centrípeta?",
+   "verso": "Sempre para o centro da trajetória circular."
+  },
+  {
+   "id": "flash-fisica-mecanica-33",
+   "frente": "Existe força centrífuga, do ponto de vista de um referencial inercial?",
+   "verso": "Não — é uma força fictícia, sensação decorrente da inércia num referencial girante."
+  },
+  {
+   "id": "flash-fisica-mecanica-34",
+   "frente": "Qual é a relação entre período e frequência?",
+   "verso": "São inversos: T = 1/f."
+  },
+  {
+   "id": "flash-fisica-mecanica-35",
+   "frente": "O que diz a Lei da Gravitação Universal?",
+   "verso": "Dois corpos se atraem com força proporcional ao produto de suas massas e inversamente proporcional ao quadrado da distância entre eles."
+  },
+  {
+   "id": "flash-fisica-mecanica-36",
+   "frente": "Por que um astronauta flutua na Estação Espacial, se a gravidade lá ainda é forte?",
+   "verso": "Porque está em queda livre permanente junto com a estação — é ausência de peso aparente, não ausência de gravidade."
+  },
+  {
+   "id": "flash-fisica-mecanica-37",
+   "frente": "O que diz a Terceira Lei de Kepler?",
+   "verso": "O quadrado do período orbital é proporcional ao cubo do raio médio da órbita."
+  },
+  {
+   "id": "flash-fisica-mecanica-38",
+   "frente": "O que diz a Segunda Lei de Kepler (Lei das Áreas)?",
+   "verso": "O raio que liga o planeta ao Sol varre áreas iguais em tempos iguais, o que faz o planeta acelerar no periélio."
+  }
+ ],
+ "fisica-ondas-optica": [
+  {
+   "id": "flash-fisica-ondas-optica-01",
+   "frente": "O que é uma onda?",
+   "verso": "Uma perturbação que se propaga transportando ENERGIA, sem transporte de matéria."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-02",
+   "frente": "Qual é a diferença entre onda mecânica e eletromagnética?",
+   "verso": "A mecânica precisa de meio material para se propagar (som); a eletromagnética se propaga também no vácuo (luz)."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-03",
+   "frente": "Qual é a diferença entre onda transversal e longitudinal?",
+   "verso": "Na transversal a vibração é perpendicular à propagação; na longitudinal é paralela, como no som."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-04",
+   "frente": "O que é comprimento de onda?",
+   "verso": "A distância entre dois pontos consecutivos em mesma fase, como de crista a crista."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-05",
+   "frente": "O que é frequência de uma onda, e qual sua unidade?",
+   "verso": "O número de oscilações por segundo, medida em hertz (Hz)."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-06",
+   "frente": "Qual é a equação fundamental da ondulatória?",
+   "verso": "v = λ · f — velocidade igual a comprimento de onda vezes frequência."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-07",
+   "frente": "O que acontece com a frequência de uma onda ao mudar de meio?",
+   "verso": "Ela NÃO muda; alteram-se a velocidade e o comprimento de onda."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-08",
+   "frente": "O que é amplitude de uma onda, e a que ela se relaciona?",
+   "verso": "A altura máxima da oscilação; relaciona-se à energia transportada — no som, à intensidade (volume)."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-09",
+   "frente": "O que é refração de uma onda?",
+   "verso": "A mudança de velocidade e de direção ao passar de um meio para outro."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-10",
+   "frente": "O que é difração?",
+   "verso": "A capacidade da onda de contornar obstáculos e se espalhar ao passar por aberturas de dimensão comparável ao seu comprimento de onda."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-11",
+   "frente": "Por que se ouve um som atrás de um muro sem ver a fonte?",
+   "verso": "Porque o comprimento de onda do som é grande o bastante para contorná-lo por difração, o que a luz não consegue."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-12",
+   "frente": "O que é interferência de ondas?",
+   "verso": "A superposição de duas ondas, que se somam (construtiva) ou se cancelam parcialmente (destrutiva)."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-13",
+   "frente": "O que é ressonância?",
+   "verso": "A transferência máxima de energia que ocorre quando a frequência da excitação coincide com a frequência natural do sistema."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-14",
+   "frente": "O que determina a altura de um som (grave ou agudo)?",
+   "verso": "A frequência: sons graves têm baixa frequência, agudos têm alta frequência."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-15",
+   "frente": "O que determina a intensidade (volume) de um som?",
+   "verso": "A amplitude da onda sonora."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-16",
+   "frente": "O que é o timbre de um som?",
+   "verso": "A qualidade que permite distinguir a mesma nota tocada por instrumentos diferentes; decorre dos harmônicos que acompanham a frequência fundamental."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-17",
+   "frente": "Qual é a faixa audível pelo ouvido humano?",
+   "verso": "Aproximadamente de 20 Hz a 20.000 Hz."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-18",
+   "frente": "Por que o som não se propaga no vácuo?",
+   "verso": "Porque é uma onda mecânica e depende de um meio material para transmitir a perturbação."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-19",
+   "frente": "Em que meio o som se propaga mais rápido: sólido, líquido ou gás?",
+   "verso": "No sólido, onde as partículas estão mais próximas e transmitem a perturbação mais rapidamente."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-20",
+   "frente": "O que é o efeito Doppler?",
+   "verso": "A alteração da frequência percebida quando há movimento relativo entre fonte e observador — a sirene fica mais aguda ao se aproximar."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-21",
+   "frente": "O que diz a Lei da Reflexão?",
+   "verso": "O ângulo de incidência é igual ao ângulo de reflexão, medidos em relação à normal."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-22",
+   "frente": "Que características tem a imagem formada por um espelho plano?",
+   "verso": "Virtual, direita, do mesmo tamanho do objeto e simétrica em relação ao espelho."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-23",
+   "frente": "Que tipo de imagem um espelho côncavo forma com o objeto além do centro de curvatura?",
+   "verso": "Real, invertida e menor que o objeto."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-24",
+   "frente": "Que tipo de imagem um espelho convexo sempre forma?",
+   "verso": "Virtual, direita e menor — por isso é usado em retrovisores e em corredores, por ampliar o campo visual."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-25",
+   "frente": "O que é o índice de refração de um meio?",
+   "verso": "A razão entre a velocidade da luz no vácuo e nesse meio: n = c/v; é sempre maior ou igual a 1."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-26",
+   "frente": "O que diz a Lei de Snell-Descartes?",
+   "verso": "n₁ · sen θ₁ = n₂ · sen θ₂, relacionando os ângulos e os índices de refração dos dois meios."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-27",
+   "frente": "Para onde a luz se desvia ao passar de um meio menos refringente para um mais refringente?",
+   "verso": "Aproxima-se da normal, e sua velocidade diminui."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-28",
+   "frente": "O que é reflexão total, e quando ocorre?",
+   "verso": "A luz é inteiramente refletida ao tentar passar de um meio mais refringente para um menos refringente acima do ângulo limite."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-29",
+   "frente": "Qual tecnologia se baseia na reflexão total?",
+   "verso": "A fibra óptica, em que a luz percorre longas distâncias confinada no núcleo por sucessivas reflexões totais."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-30",
+   "frente": "Que tipo de lente é convergente, e o que ela faz com os raios paralelos?",
+   "verso": "A de bordas finas; concentra os raios paralelos num foco real."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-31",
+   "frente": "Que tipo de lente é divergente, e que imagem ela forma?",
+   "verso": "A de bordas grossas; espalha os raios e forma sempre imagem virtual, direita e menor."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-32",
+   "frente": "O que é dioptria (o 'grau' de um óculos)?",
+   "verso": "O inverso da distância focal em metros: D = 1/f."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-33",
+   "frente": "O que é miopia, e que lente a corrige?",
+   "verso": "A imagem se forma antes da retina, dificultando a visão de longe; corrige-se com lente divergente (grau negativo)."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-34",
+   "frente": "O que é hipermetropia, e que lente a corrige?",
+   "verso": "A imagem se formaria depois da retina, dificultando a visão de perto; corrige-se com lente convergente (grau positivo)."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-35",
+   "frente": "Por que o céu é azul?",
+   "verso": "Porque a atmosfera espalha mais intensamente as menores comprimentos de onda da luz visível, na faixa do azul."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-36",
+   "frente": "O que é dispersão da luz, e onde ela aparece na natureza?",
+   "verso": "A separação da luz branca em suas cores por índices de refração diferentes para cada comprimento de onda; produz o arco-íris."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-37",
+   "frente": "Como se ordena o espectro eletromagnético em frequência crescente?",
+   "verso": "Ondas de rádio, micro-ondas, infravermelho, luz visível, ultravioleta, raios X e raios gama."
+  },
+  {
+   "id": "flash-fisica-ondas-optica-38",
+   "frente": "Por que raios X e gama são ionizantes e as ondas de rádio não?",
+   "verso": "Porque sua altíssima frequência lhes dá energia suficiente para arrancar elétrons dos átomos."
+  }
+ ],
+ "fisica-eletromagnetismo": [
+  {
+   "id": "flash-fisica-eletromagnetismo-01",
+   "frente": "O que diz o princípio da atração e repulsão entre cargas?",
+   "verso": "Cargas de sinais opostos se atraem e cargas de mesmo sinal se repelem."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-02",
+   "frente": "O que diz a Lei de Coulomb?",
+   "verso": "A força entre duas cargas é proporcional ao produto delas e inversamente proporcional ao quadrado da distância."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-03",
+   "frente": "O que acontece com a força elétrica se a distância entre as cargas dobra?",
+   "verso": "Cai para um quarto, pois depende do inverso do quadrado da distância."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-04",
+   "frente": "O que é eletrização por atrito?",
+   "verso": "A transferência de elétrons entre dois corpos atritados, que ficam com cargas de sinais opostos e mesmo módulo."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-05",
+   "frente": "O que é eletrização por indução?",
+   "verso": "A separação de cargas num condutor causada pela aproximação de um corpo carregado, sem contato direto."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-06",
+   "frente": "O que é uma gaiola de Faraday?",
+   "verso": "Um condutor que blinda seu interior de campos elétricos externos, pois as cargas se redistribuem na superfície — é por isso que o carro protege em tempestades."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-07",
+   "frente": "O que é campo elétrico?",
+   "verso": "A região do espaço em que uma carga elétrica sofre a ação de força elétrica: E = F/q."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-08",
+   "frente": "Como se orientam as linhas de campo elétrico?",
+   "verso": "Saem das cargas positivas e chegam às negativas; nunca se cruzam."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-09",
+   "frente": "O que é corrente elétrica?",
+   "verso": "O movimento ordenado de portadores de carga, medido pela carga que atravessa uma secção por unidade de tempo: i = Q/Δt."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-10",
+   "frente": "Qual é a unidade de corrente elétrica no SI?",
+   "verso": "O ampère (A), equivalente a 1 coulomb por segundo."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-11",
+   "frente": "O que é diferença de potencial (ddp ou tensão)?",
+   "verso": "O trabalho por unidade de carga para deslocar cargas entre dois pontos; é medida em volts."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-12",
+   "frente": "O que diz a Primeira Lei de Ohm?",
+   "verso": "U = R · i — a tensão é igual ao produto da resistência pela corrente, em condutores ôhmicos."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-13",
+   "frente": "O que caracteriza um condutor ôhmico?",
+   "verso": "Sua resistência é constante, e o gráfico U × i é uma reta que passa pela origem."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-14",
+   "frente": "O que diz a Segunda Lei de Ohm?",
+   "verso": "R = ρ·L/A — a resistência cresce com o comprimento do fio e diminui com a área da secção transversal."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-15",
+   "frente": "O que acontece com a corrente num circuito em série?",
+   "verso": "É a MESMA em todos os componentes; o que se divide é a tensão."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-16",
+   "frente": "Como se calcula a resistência equivalente em série?",
+   "verso": "Somando as resistências: Req = R₁ + R₂ + ..."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-17",
+   "frente": "O que acontece com a tensão num circuito em paralelo?",
+   "verso": "É a MESMA em todos os ramos; o que se divide é a corrente."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-18",
+   "frente": "Como se calcula a resistência equivalente em paralelo?",
+   "verso": "Pelo inverso da soma dos inversos: 1/Req = 1/R₁ + 1/R₂ + ..."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-19",
+   "frente": "Por que as tomadas de uma casa são ligadas em paralelo?",
+   "verso": "Para que todas recebam a mesma tensão e o desligamento de um aparelho não interrompa os demais."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-20",
+   "frente": "O que é o efeito Joule?",
+   "verso": "A dissipação de energia elétrica como calor na passagem da corrente por um resistor."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-21",
+   "frente": "Quais são as fórmulas da potência elétrica dissipada?",
+   "verso": "P = U·i = R·i² = U²/R."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-22",
+   "frente": "Como se calcula o consumo de energia elétrica em kWh?",
+   "verso": "Multiplicando a potência em kW pelo tempo de uso em horas."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-23",
+   "frente": "Por que o chuveiro é o maior vilão da conta de luz?",
+   "verso": "Porque tem potência muito alta (milhares de watts), e o consumo é o produto da potência pelo tempo de uso."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-24",
+   "frente": "Por que a posição 'inverno' do chuveiro aquece mais?",
+   "verso": "Porque reduz a resistência do circuito, o que aumenta a corrente e, com ela, a potência dissipada."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-25",
+   "frente": "Como se liga um amperímetro num circuito?",
+   "verso": "Em SÉRIE com o componente cuja corrente se quer medir; idealmente tem resistência nula."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-26",
+   "frente": "Como se liga um voltímetro num circuito?",
+   "verso": "Em PARALELO com o componente cuja tensão se quer medir; idealmente tem resistência infinita."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-27",
+   "frente": "O que é a força eletromotriz de um gerador?",
+   "verso": "A tensão que ele forneceria sem perdas internas; a tensão útil é a fem menos a queda na resistência interna."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-28",
+   "frente": "O que é um capacitor?",
+   "verso": "Um dispositivo que armazena carga e energia num campo elétrico entre duas placas condutoras separadas por um isolante."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-29",
+   "frente": "Como se orientam as linhas de campo magnético de um ímã?",
+   "verso": "Saem do polo norte e entram no polo sul, formando linhas fechadas que continuam dentro do ímã."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-30",
+   "frente": "É possível isolar um polo magnético?",
+   "verso": "Não. Ao partir um ímã, cada pedaço volta a ter os dois polos — não existem monopolos magnéticos."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-31",
+   "frente": "O que a experiência de Oersted demonstrou?",
+   "verso": "Que uma corrente elétrica gera campo magnético ao seu redor, unificando eletricidade e magnetismo."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-32",
+   "frente": "O que é um eletroímã?",
+   "verso": "Um solenoide que gera campo magnético apenas quando percorrido por corrente, com intensidade controlável."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-33",
+   "frente": "O que diz a Lei de Faraday da indução?",
+   "verso": "A variação do fluxo magnético através de uma espira induz nela uma força eletromotriz."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-34",
+   "frente": "O que diz a Lei de Lenz?",
+   "verso": "A corrente induzida tem sentido tal que se opõe à variação de fluxo que a gerou — é uma consequência da conservação da energia."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-35",
+   "frente": "Como funciona um gerador de energia elétrica?",
+   "verso": "Convertendo energia mecânica em elétrica: uma bobina gira num campo magnético, e a variação de fluxo induz corrente."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-36",
+   "frente": "Como funciona um transformador, e por que só serve para corrente alternada?",
+   "verso": "Duas bobinas acopladas alteram a tensão pela razão entre suas espiras; exige fluxo VARIÁVEL, o que a corrente contínua não fornece."
+  },
+  {
+   "id": "flash-fisica-eletromagnetismo-37",
+   "frente": "Por que a energia é transmitida em alta tensão nas linhas de transmissão?",
+   "verso": "Porque, para a mesma potência, alta tensão significa baixa corrente, e as perdas por efeito Joule dependem do quadrado da corrente."
+  }
+ ],
+ "fisica-hidrostatica": [
+  {
+   "id": "flash-fisica-hidrostatica-01",
+   "frente": "Como se define pressão?",
+   "verso": "A razão entre a força perpendicular aplicada e a área sobre a qual ela se distribui: p = F/A."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-02",
+   "frente": "Qual é a unidade de pressão no SI?",
+   "verso": "O pascal (Pa), equivalente a 1 newton por metro quadrado."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-03",
+   "frente": "Por que uma faca amolada corta melhor que uma cega?",
+   "verso": "Porque a área de contato é menor, o que aumenta a pressão exercida pela mesma força."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-04",
+   "frente": "Por que esquis impedem que a pessoa afunde na neve?",
+   "verso": "Porque distribuem o peso por uma área grande, reduzindo a pressão sobre a neve."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-05",
+   "frente": "O que é densidade (massa específica)?",
+   "verso": "A razão entre massa e volume: d = m/V."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-06",
+   "frente": "Qual é a densidade da água, em unidades usuais?",
+   "verso": "1 g/cm³, equivalente a 1000 kg/m³."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-07",
+   "frente": "Qual é a fórmula da pressão hidrostática?",
+   "verso": "p = d · g · h, sendo h a profundidade abaixo da superfície livre."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-08",
+   "frente": "A pressão hidrostática depende do formato ou do volume do recipiente?",
+   "verso": "Não — depende apenas da densidade do líquido, da gravidade e da PROFUNDIDADE."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-09",
+   "frente": "Por que a barragem de uma represa é mais larga na base?",
+   "verso": "Porque a pressão hidrostática aumenta com a profundidade, exigindo mais resistência embaixo."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-10",
+   "frente": "O que é pressão absoluta no fundo de um recipiente aberto?",
+   "verso": "A soma da pressão atmosférica com a pressão hidrostática da coluna de líquido: p = p_atm + d·g·h."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-11",
+   "frente": "Quanto vale aproximadamente a pressão atmosférica ao nível do mar?",
+   "verso": "1 atm, cerca de 10⁵ Pa ou 760 mmHg."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-12",
+   "frente": "Como a pressão atmosférica varia com a altitude?",
+   "verso": "Diminui com a altitude, pois há menos ar acima do ponto considerado."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-13",
+   "frente": "Por que a água ferve a temperatura menor em grandes altitudes?",
+   "verso": "Porque a pressão atmosférica é menor, e o líquido ferve quando sua pressão de vapor iguala a pressão externa."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-14",
+   "frente": "O que foi a experiência de Torricelli?",
+   "verso": "A medida da pressão atmosférica por uma coluna de mercúrio de 76 cm num tubo invertido — origem da unidade mmHg."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-15",
+   "frente": "O que diz o Princípio de Stevin?",
+   "verso": "A diferença de pressão entre dois pontos de um líquido em equilíbrio depende apenas do desnível entre eles: Δp = d·g·Δh."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-16",
+   "frente": "O que é o princípio dos vasos comunicantes?",
+   "verso": "Um líquido homogêneo em recipientes interligados atinge o mesmo nível em todos eles, independentemente da forma."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-17",
+   "frente": "Em vasos comunicantes com dois líquidos imiscíveis, o que se iguala?",
+   "verso": "As pressões no nível da interface — as alturas ficam inversamente proporcionais às densidades."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-18",
+   "frente": "O que diz o Princípio de Pascal?",
+   "verso": "Um acréscimo de pressão num ponto de um líquido em equilíbrio transmite-se integralmente a todos os pontos dele."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-19",
+   "frente": "Como funciona uma prensa hidráulica?",
+   "verso": "Pelo Princípio de Pascal: a mesma pressão atua nos dois êmbolos, então F₁/A₁ = F₂/A₂, e a área maior multiplica a força."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-20",
+   "frente": "Numa prensa hidráulica, o que se ganha em força se perde em quê?",
+   "verso": "Em deslocamento — o êmbolo maior se move menos, conservando o trabalho realizado."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-21",
+   "frente": "O que diz o Princípio de Arquimedes?",
+   "verso": "Todo corpo imerso recebe um empuxo vertical para cima igual ao PESO do fluido deslocado."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-22",
+   "frente": "Qual é a fórmula do empuxo?",
+   "verso": "E = d_fluido · g · V_deslocado."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-23",
+   "frente": "De que o empuxo depende, e de que NÃO depende?",
+   "verso": "Depende da densidade do fluido e do volume submerso; NÃO depende da densidade nem do peso do corpo."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-24",
+   "frente": "Quando um corpo flutua em equilíbrio?",
+   "verso": "Quando o empuxo iguala o peso, o que acontece se a densidade média do corpo for menor que a do fluido."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-25",
+   "frente": "Por que um navio de aço flutua?",
+   "verso": "Porque seu casco oco faz a densidade MÉDIA do conjunto ser menor que a da água, deslocando volume suficiente para o empuxo igualar o peso."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-26",
+   "frente": "Por que se boia melhor em água salgada?",
+   "verso": "Porque a maior densidade da água salgada gera mais empuxo para o mesmo volume submerso."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-27",
+   "frente": "O que é o peso aparente de um corpo submerso?",
+   "verso": "O peso real menos o empuxo — é por isso que objetos parecem mais leves dentro d'água."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-28",
+   "frente": "Que fração de um iceberg fica submersa, e por quê?",
+   "verso": "Cerca de 90%, pois a razão entre a densidade do gelo e a da água do mar determina o volume submerso necessário."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-29",
+   "frente": "O que é vazão, e como se calcula?",
+   "verso": "O volume de fluido que atravessa uma secção por unidade de tempo: Z = V/Δt = A·v."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-30",
+   "frente": "O que diz a equação da continuidade?",
+   "verso": "Para fluido incompressível, A₁·v₁ = A₂·v₂ — a vazão se conserva ao longo do escoamento."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-31",
+   "frente": "Por que a água sai mais rápido ao se apertar a ponta da mangueira?",
+   "verso": "Pela equação da continuidade: reduzir a área de saída aumenta proporcionalmente a velocidade."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-32",
+   "frente": "O que diz o Princípio de Bernoulli?",
+   "verso": "Num fluido em escoamento, onde a velocidade é maior, a pressão é menor."
+  },
+  {
+   "id": "flash-fisica-hidrostatica-33",
+   "frente": "Como o Princípio de Bernoulli explica a sustentação da asa de um avião?",
+   "verso": "O ar passa mais rápido sobre a face superior, gerando pressão menor ali e uma força resultante para cima."
+  }
+ ],
+ "fisica-energia-trabalho": [
+  {
+   "id": "flash-fisica-energia-trabalho-01",
+   "frente": "Como se calcula o trabalho de uma força constante?",
+   "verso": "τ = F · d · cos θ, sendo θ o ângulo entre a força e o deslocamento."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-02",
+   "frente": "Quando o trabalho de uma força é nulo?",
+   "verso": "Quando não há deslocamento, ou quando a força é perpendicular ao deslocamento (cos 90° = 0)."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-03",
+   "frente": "Qual é a unidade de trabalho e de energia no SI?",
+   "verso": "O joule (J)."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-04",
+   "frente": "O trabalho da força peso depende da trajetória?",
+   "verso": "Não — depende apenas do desnível vertical; o peso é uma força conservativa."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-05",
+   "frente": "O trabalho da força de atrito depende da trajetória?",
+   "verso": "Sim — quanto maior o caminho percorrido, maior a energia dissipada; o atrito é uma força dissipativa."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-06",
+   "frente": "Qual é a fórmula da energia cinética?",
+   "verso": "Ec = m·v²/2."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-07",
+   "frente": "Se a velocidade de um corpo dobra, o que acontece com sua energia cinética?",
+   "verso": "Quadruplica, pois depende do quadrado da velocidade."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-08",
+   "frente": "Qual é a fórmula da energia potencial gravitacional?",
+   "verso": "Ep = m·g·h, com h medido a partir de um nível de referência escolhido."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-09",
+   "frente": "Qual é a fórmula da energia potencial elástica?",
+   "verso": "Epe = k·x²/2, com k a constante elástica e x a deformação."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-10",
+   "frente": "O que é energia mecânica?",
+   "verso": "A soma da energia cinética com as energias potenciais do sistema."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-11",
+   "frente": "Quando a energia mecânica se conserva?",
+   "verso": "Quando atuam apenas forças conservativas, ou seja, na ausência de atrito e resistência do ar."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-12",
+   "frente": "O que diz o Teorema da Energia Cinética?",
+   "verso": "O trabalho da força resultante é igual à variação da energia cinética do corpo."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-13",
+   "frente": "Num pêndulo ideal, onde a energia cinética é máxima?",
+   "verso": "No ponto mais baixo da trajetória, onde a energia potencial é mínima."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-14",
+   "frente": "Num pêndulo ideal, onde a energia potencial é máxima?",
+   "verso": "Nos pontos extremos, onde a velocidade — e portanto a energia cinética — é zero."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-15",
+   "frente": "Como se calcula a velocidade de um corpo que cai de uma altura h, sem atrito?",
+   "verso": "Igualando m·g·h a m·v²/2, chega-se a v = √(2gh) — independente da massa."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-16",
+   "frente": "O que acontece com a energia mecânica quando há atrito?",
+   "verso": "Ela diminui: parte é dissipada como calor, mas a energia TOTAL continua conservada."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-17",
+   "frente": "Qual é a fórmula da potência média?",
+   "verso": "P = trabalho ÷ tempo (τ/Δt)."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-18",
+   "frente": "Qual é a relação entre potência, força e velocidade?",
+   "verso": "P = F · v, para força na direção do movimento."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-19",
+   "frente": "Qual é a unidade de potência no SI?",
+   "verso": "O watt (W), equivalente a 1 joule por segundo."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-20",
+   "frente": "O que significa dizer que uma máquina tem rendimento de 60%?",
+   "verso": "Que 60% da energia fornecida é convertida em trabalho útil, e 40% se perde, geralmente como calor."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-21",
+   "frente": "Como se calcula o rendimento de uma máquina?",
+   "verso": "Rendimento = potência útil ÷ potência total, geralmente em porcentagem."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-22",
+   "frente": "Por que nenhuma máquina térmica real atinge 100% de rendimento?",
+   "verso": "Porque parte da energia é necessariamente dissipada como calor, por imposição da Segunda Lei da Termodinâmica."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-23",
+   "frente": "O que é quantidade de movimento (momento linear)?",
+   "verso": "O produto da massa pela velocidade: Q = m·v; é uma grandeza vetorial."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-24",
+   "frente": "O que é impulso de uma força?",
+   "verso": "I = F · Δt; é o que produz a variação da quantidade de movimento."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-25",
+   "frente": "O que diz o Teorema do Impulso?",
+   "verso": "O impulso da força resultante é igual à variação da quantidade de movimento do corpo."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-26",
+   "frente": "Quando a quantidade de movimento de um sistema se conserva?",
+   "verso": "Quando não há forças externas resultantes — vale em qualquer colisão ou explosão, mesmo com atrito interno."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-27",
+   "frente": "O que caracteriza uma colisão perfeitamente elástica?",
+   "verso": "Conservam-se tanto a quantidade de movimento quanto a energia cinética."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-28",
+   "frente": "O que caracteriza uma colisão perfeitamente inelástica?",
+   "verso": "Os corpos seguem juntos após o choque; conserva-se a quantidade de movimento, mas parte da energia cinética se perde."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-29",
+   "frente": "Numa colisão, o que sempre se conserva, elástica ou não?",
+   "verso": "A quantidade de movimento total do sistema."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-30",
+   "frente": "Por que um airbag reduz os danos numa colisão?",
+   "verso": "Aumenta o tempo de contato, o que reduz a força necessária para produzir a mesma variação de quantidade de movimento."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-31",
+   "frente": "O que diz a Lei de Hooke?",
+   "verso": "A força elástica é proporcional à deformação: F = k · x, dentro do regime elástico do material."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-32",
+   "frente": "O que a constante elástica k representa?",
+   "verso": "A rigidez da mola: quanto maior o k, mais força é preciso para produzir a mesma deformação."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-33",
+   "frente": "O que representa a área sob o gráfico força × deformação de uma mola?",
+   "verso": "O trabalho realizado sobre a mola, ou seja, a energia potencial elástica armazenada."
+  },
+  {
+   "id": "flash-fisica-energia-trabalho-34",
+   "frente": "De onde vem a energia num sistema massa-mola oscilante, sem atrito?",
+   "verso": "Alterna-se entre energia potencial elástica (na deformação máxima) e cinética (na posição de equilíbrio), com soma constante."
+  }
+ ],
+ "fisica-moderna": [
+  {
+   "id": "flash-fisica-moderna-01",
+   "frente": "O que é um referencial inercial?",
+   "verso": "Aquele em que vale a Lei da Inércia — está em repouso ou em movimento retilíneo uniforme, sem aceleração."
+  },
+  {
+   "id": "flash-fisica-moderna-02",
+   "frente": "Quais são os dois postulados da Relatividade Restrita?",
+   "verso": "As leis da física são as mesmas em todos os referenciais inerciais, e a velocidade da luz no vácuo é a mesma para todos os observadores."
+  },
+  {
+   "id": "flash-fisica-moderna-03",
+   "frente": "Por que o segundo postulado de Einstein é contraintuitivo?",
+   "verso": "Porque a velocidade da luz não se soma à do observador — medir c dá o mesmo valor esteja ele parado ou correndo em direção à fonte."
+  },
+  {
+   "id": "flash-fisica-moderna-04",
+   "frente": "Quanto vale a velocidade da luz no vácuo?",
+   "verso": "Aproximadamente 3,0 × 10⁸ m/s."
+  },
+  {
+   "id": "flash-fisica-moderna-05",
+   "frente": "O que é dilatação do tempo?",
+   "verso": "O intervalo de tempo medido por um observador em movimento relativo é MAIOR que o medido no referencial próprio do evento."
+  },
+  {
+   "id": "flash-fisica-moderna-06",
+   "frente": "O que é o tempo próprio?",
+   "verso": "O intervalo medido no referencial em que os dois eventos ocorrem no mesmo lugar; é sempre o menor intervalo possível."
+  },
+  {
+   "id": "flash-fisica-moderna-07",
+   "frente": "O que é o fator de Lorentz?",
+   "verso": "γ = 1/√(1 − v²/c²); mede o quanto os efeitos relativísticos se afastam da física clássica."
+  },
+  {
+   "id": "flash-fisica-moderna-08",
+   "frente": "Quanto vale γ para velocidades pequenas comparadas a c?",
+   "verso": "Praticamente 1 — é por isso que os efeitos relativísticos não aparecem no cotidiano."
+  },
+  {
+   "id": "flash-fisica-moderna-09",
+   "frente": "O que é contração do comprimento?",
+   "verso": "Um objeto em movimento tem comprimento MENOR na direção do deslocamento, medido pelo observador em repouso."
+  },
+  {
+   "id": "flash-fisica-moderna-10",
+   "frente": "Em que direção ocorre a contração do comprimento?",
+   "verso": "Apenas na direção do movimento; as dimensões perpendiculares não se alteram."
+  },
+  {
+   "id": "flash-fisica-moderna-11",
+   "frente": "O que a relatividade diz sobre a simultaneidade?",
+   "verso": "Ela é relativa: dois eventos simultâneos num referencial podem não ser simultâneos em outro em movimento."
+  },
+  {
+   "id": "flash-fisica-moderna-12",
+   "frente": "Como o paradoxo dos gêmeos é resolvido?",
+   "verso": "O gêmeo que viaja não permanece num referencial inercial — ele acelera para retornar, e por isso envelhece menos."
+  },
+  {
+   "id": "flash-fisica-moderna-13",
+   "frente": "Por que múons criados na alta atmosfera chegam ao solo?",
+   "verso": "Pela dilatação do tempo (no nosso referencial) ou pela contração do comprimento (no deles) — sem relatividade, decairiam antes."
+  },
+  {
+   "id": "flash-fisica-moderna-14",
+   "frente": "O que expressa a equação E = mc²?",
+   "verso": "A equivalência entre massa e energia: massa é uma forma concentrada de energia."
+  },
+  {
+   "id": "flash-fisica-moderna-15",
+   "frente": "O que é energia de repouso?",
+   "verso": "A energia E₀ = m₀c² que um corpo possui apenas por ter massa, mesmo parado."
+  },
+  {
+   "id": "flash-fisica-moderna-16",
+   "frente": "Por que nenhum corpo com massa atinge a velocidade da luz?",
+   "verso": "Porque sua energia (e inércia) tenderia ao infinito ao se aproximar de c, exigindo energia infinita."
+  },
+  {
+   "id": "flash-fisica-moderna-17",
+   "frente": "Onde a conversão de massa em energia aparece na prática?",
+   "verso": "Na fissão e na fusão nuclear: a diferença de massa entre reagentes e produtos é liberada como energia."
+  },
+  {
+   "id": "flash-fisica-moderna-18",
+   "frente": "O que é a catástrofe do ultravioleta?",
+   "verso": "A previsão clássica, contradita pelos dados, de que um corpo negro emitiria energia infinita em altas frequências."
+  },
+  {
+   "id": "flash-fisica-moderna-19",
+   "frente": "Qual foi a hipótese de Planck que iniciou a física quântica?",
+   "verso": "A energia é trocada em pacotes discretos (quanta), não continuamente: E = h·f."
+  },
+  {
+   "id": "flash-fisica-moderna-20",
+   "frente": "O que é a constante de Planck?",
+   "verso": "A constante h ≈ 6,63 × 10⁻³⁴ J·s, que relaciona a energia de um quantum à sua frequência."
+  },
+  {
+   "id": "flash-fisica-moderna-21",
+   "frente": "O que é um fóton?",
+   "verso": "O quantum de luz — um pacote de energia eletromagnética, sem massa de repouso, com E = h·f."
+  },
+  {
+   "id": "flash-fisica-moderna-22",
+   "frente": "O que é o efeito fotoelétrico?",
+   "verso": "A emissão de elétrons por um metal ao ser iluminado por radiação de frequência suficientemente alta."
+  },
+  {
+   "id": "flash-fisica-moderna-23",
+   "frente": "Por que o efeito fotoelétrico não pode ser explicado pelo modelo ondulatório da luz?",
+   "verso": "Porque depende da FREQUÊNCIA, não da intensidade: luz vermelha intensa não arranca elétrons que luz violeta fraca arranca."
+  },
+  {
+   "id": "flash-fisica-moderna-24",
+   "frente": "O que é a frequência de corte no efeito fotoelétrico?",
+   "verso": "A frequência mínima abaixo da qual nenhum elétron é ejetado, por menor que seja a intensidade da luz."
+  },
+  {
+   "id": "flash-fisica-moderna-25",
+   "frente": "O que é a função trabalho de um metal?",
+   "verso": "A energia mínima necessária para arrancar um elétron de sua superfície."
+  },
+  {
+   "id": "flash-fisica-moderna-26",
+   "frente": "Qual é a equação do efeito fotoelétrico?",
+   "verso": "Ec(máxima) = h·f − função trabalho."
+  },
+  {
+   "id": "flash-fisica-moderna-27",
+   "frente": "O que acontece com a energia cinética dos elétrons ao se aumentar a INTENSIDADE da luz?",
+   "verso": "Nada — aumenta apenas a QUANTIDADE de elétrons ejetados, não a energia de cada um."
+  },
+  {
+   "id": "flash-fisica-moderna-28",
+   "frente": "Quem explicou o efeito fotoelétrico, e com que ideia?",
+   "verso": "Einstein, em 1905, propondo que a luz é composta de fótons de energia h·f; foi por isso que recebeu o Nobel."
+  },
+  {
+   "id": "flash-fisica-moderna-29",
+   "frente": "O que é a dualidade onda-partícula?",
+   "verso": "A luz e a matéria comportam-se ora como onda, ora como partícula, conforme o experimento realizado."
+  },
+  {
+   "id": "flash-fisica-moderna-30",
+   "frente": "O que propõe a hipótese de De Broglie?",
+   "verso": "Toda partícula tem um comprimento de onda associado: λ = h/(m·v)."
+  },
+  {
+   "id": "flash-fisica-moderna-31",
+   "frente": "Por que não observamos o comportamento ondulatório de uma bola de futebol?",
+   "verso": "Porque sua massa é enorme comparada a h, tornando o comprimento de onda de De Broglie desprezível."
+  },
+  {
+   "id": "flash-fisica-moderna-32",
+   "frente": "Que experimento evidencia o caráter ondulatório dos elétrons?",
+   "verso": "A difração de elétrons por cristais, que produz padrões de interferência típicos de ondas."
+  },
+  {
+   "id": "flash-fisica-moderna-33",
+   "frente": "O que diz o Princípio da Incerteza de Heisenberg?",
+   "verso": "Não é possível determinar simultaneamente, com precisão arbitrária, a posição e a quantidade de movimento de uma partícula."
+  },
+  {
+   "id": "flash-fisica-moderna-34",
+   "frente": "Como o modelo de Bohr usa a quantização para explicar os espectros?",
+   "verso": "Os elétrons só ocupam órbitas de energia definida, e cada salto emite ou absorve um fóton de energia exatamente igual à diferença entre os níveis."
+  }
  ]
 };

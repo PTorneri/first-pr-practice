@@ -20843,6 +20843,754 @@ window.QUESTION_BANKS = {
    "explicacao": "O volume submerso é o necessário para que o empuxo sustente o peso total: massa da placa = 0,50 × 4.000 = 2.000 g; acrescida do bloco, a massa total é 2.600 g. Como a densidade da água é 1,0 g/cm³, o volume submerso vale 2.600 cm³ — abaixo do volume total da placa, então ela ainda não submerge por completo. Considerar só a massa da placa leva a 2.000 cm³; considerar a placa totalmente submersa leva a 4.000 cm³.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-367",
+   "texto_apoio": "Um mergulhador trabalha a 3,0 m abaixo da superfície de um lago de água doce, cuja densidade vale 1.000 kg/m³. Adote g = 10 N/kg.",
+   "enunciado": "A pressão hidrostática exercida pela coluna de líquido sobre o mergulhador é de:",
+   "alternativas": {
+    "a": "30.000 Pa",
+    "b": "3.000 Pa",
+    "c": "300.000 Pa",
+    "d": "103.000 Pa",
+    "e": "13.000 Pa"
+   },
+   "resposta": "a",
+   "explicacao": "A pressão hidrostática é o produto entre densidade, gravidade e profundidade: 1.000 × 10 × 3,0 = 30.000 Pa. Em um fluido em equilíbrio, a pressão hidrostática cresce com a profundidade e depende da densidade do líquido, não do formato do recipiente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-368",
+   "texto_apoio": "Uma caixa aberta contém água (densidade 1.000 kg/m³) até a altura de 5,0 m. A pressão atmosférica local vale 100.000 Pa e g = 10 N/kg.",
+   "enunciado": "A pressão absoluta em um ponto do fundo da caixa é de:",
+   "alternativas": {
+    "a": "50.000 Pa",
+    "b": "150.000 Pa",
+    "c": "100.000 Pa",
+    "d": "250.000 Pa",
+    "e": "105.000 Pa"
+   },
+   "resposta": "b",
+   "explicacao": "A pressão absoluta soma a atmosférica à pressão hidrostática da coluna: 100.000 + 1.000 × 10 × 5,0 = 150.000 Pa. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-369",
+   "texto_apoio": "Um corpo de volume 200 cm³ é mantido inteiramente submerso em água, de densidade 1.000 kg/m³. Adote g = 10 N/kg.",
+   "enunciado": "A intensidade do empuxo que o líquido exerce sobre esse corpo é de:",
+   "alternativas": {
+    "a": "20 N",
+    "b": "0,2 N",
+    "c": "2,0 N",
+    "d": "200 N",
+    "e": "2.000 N"
+   },
+   "resposta": "c",
+   "explicacao": "O empuxo vale densidade do líquido × volume submerso × gravidade: 1.000 × 200 × 10⁻⁶ × 10 = 2,0 N. O empuxo nasce da diferença de pressão hidrostática entre a face de baixo e a de cima do corpo, e é o fluido quem a produz, na medida de sua densidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-370",
+   "texto_apoio": "Uma peça metálica pesa 30 N fora do líquido. Mergulhada por inteiro em água, ela recebe um empuxo de 12 N. Adote g = 10 N/kg.",
+   "enunciado": "A leitura do dinamômetro que sustenta a peça submersa passa a ser de:",
+   "alternativas": {
+    "a": "42 N",
+    "b": "30 N",
+    "c": "12 N",
+    "d": "18 N",
+    "e": "2,5 N"
+   },
+   "resposta": "d",
+   "explicacao": "O fio sustenta a diferença entre o peso e o empuxo: 30 − 12 = 18 N. O empuxo nasce da diferença de pressão hidrostática entre a face de baixo e a de cima do corpo, e é o fluido quem a produz, na medida de sua densidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-371",
+   "texto_apoio": "Uma peça de madeira de densidade 600 kg/m³ é solta na superfície de um tanque com água de densidade 1.000 kg/m³ e passa a flutuar em equilíbrio.",
+   "enunciado": "A porcentagem do volume da peça que fica abaixo da superfície do líquido é de:",
+   "alternativas": {
+    "a": "40%",
+    "b": "6%",
+    "c": "0,6%",
+    "d": "166%",
+    "e": "60%"
+   },
+   "resposta": "e",
+   "explicacao": "Na flutuação, o empuxo iguala o peso, e a fração submersa é a razão entre as densidades: 600 ÷ 1.000 = 0,60, ou 60%. A massa específica do fluido é o que converte altura de coluna em pressão hidrostática, e é também o que decide se um corpo flutua ou afunda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-372",
+   "texto_apoio": "Um objeto flutua em água (densidade 1.000 kg/m³) com 75% de seu volume abaixo da superfície do líquido.",
+   "enunciado": "A densidade desse objeto é de:",
+   "alternativas": {
+    "a": "750 kg/m³",
+    "b": "1.333 kg/m³",
+    "c": "250 kg/m³",
+    "d": "1.000 kg/m³",
+    "e": "7.500 kg/m³"
+   },
+   "resposta": "a",
+   "explicacao": "A fração submersa é a razão entre as densidades, logo a densidade do objeto vale 0,75 × 1.000 = 750 kg/m³. O empuxo nasce da diferença de pressão hidrostática entre a face de baixo e a de cima do corpo, e é o fluido quem a produz, na medida de sua densidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-373",
+   "texto_apoio": "Uma prensa hidráulica tem êmbolos de áreas 10 cm² e 250 cm², ligados por um fluido em equilíbrio. Sobre o êmbolo pequeno é aplicada uma força de 20 N.",
+   "enunciado": "A força transmitida ao êmbolo de maior área é de:",
+   "alternativas": {
+    "a": "0,8 N",
+    "b": "500 N",
+    "c": "25 N",
+    "d": "5.000 N",
+    "e": "270 N"
+   },
+   "resposta": "b",
+   "explicacao": "Pelo princípio de Pascal, a pressão exercida se transmite integralmente: F₂ = 20 × (250 ÷ 10) = 500 N. Um fluido em equilíbrio transmite integralmente a pressão exercida sobre ele, e a densidade do líquido define a escala da pressão hidrostática de cada coluna.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-374",
+   "texto_apoio": "Um tubo em U aberto nos dois ramos contém água (densidade 1.000 kg/m³). Em um dos ramos despeja-se óleo de densidade 800 kg/m³, que não se mistura com a água e forma uma coluna de 25 cm acima da superfície de separação.",
+   "enunciado": "Medida a partir da superfície de separação, a altura da coluna de água no outro ramo é de:",
+   "alternativas": {
+    "a": "25 cm",
+    "b": "31 cm",
+    "c": "20 cm",
+    "d": "12,5 cm",
+    "e": "5,0 cm"
+   },
+   "resposta": "c",
+   "explicacao": "Na superfície de separação as pressões se igualam: 800 × 25 = 1.000 × h, logo h = 20 cm. Vasos comunicantes só igualam níveis com o mesmo líquido nos dois ramos. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-375",
+   "texto_apoio": "Um manômetro de tubo em U com mercúrio (densidade 13.600 kg/m³) acusa desnível de 0,20 m entre os dois ramos. Adote g = 10 N/kg.",
+   "enunciado": "A diferença de pressão medida por esse instrumento é de:",
+   "alternativas": {
+    "a": "2.720 Pa",
+    "b": "272.000 Pa",
+    "c": "13.600 Pa",
+    "d": "27.200 Pa",
+    "e": "1.360 Pa"
+   },
+   "resposta": "d",
+   "explicacao": "A diferença corresponde à pressão hidrostática do desnível: 13.600 × 10 × 0,20 = 27.200 Pa. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-376",
+   "texto_apoio": "Ao nível do mar, uma coluna de mercúrio (densidade 13.600 kg/m³) de 0,76 m equilibra a pressão atmosférica em um barômetro. Adote g = 10 N/kg.",
+   "enunciado": "O valor da pressão atmosférica medido nessas condições é de:",
+   "alternativas": {
+    "a": "10.336 Pa",
+    "b": "1.033.600 Pa",
+    "c": "13.600 Pa",
+    "d": "760 Pa",
+    "e": "103.360 Pa"
+   },
+   "resposta": "e",
+   "explicacao": "A pressão hidrostática da coluna equilibra a atmosférica: 13.600 × 10 × 0,76 = 103.360 Pa. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-377",
+   "texto_apoio": "Uma amostra sólida homogênea tem massa de 540 g e ocupa 200 cm³.",
+   "enunciado": "A densidade dessa amostra é de:",
+   "alternativas": {
+    "a": "2,7 g/cm³",
+    "b": "0,37 g/cm³",
+    "c": "27 g/cm³",
+    "d": "5,4 g/cm³",
+    "e": "108 g/cm³"
+   },
+   "resposta": "a",
+   "explicacao": "Densidade é massa dividida por volume: 540 ÷ 200 = 2,7 g/cm³. A massa específica do fluido é o que converte altura de coluna em pressão hidrostática, e é também o que decide se um corpo flutua ou afunda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-378",
+   "texto_apoio": "Uma tabela informa a massa específica do alumínio como 2,7 g/cm³.",
+   "enunciado": "Escrito nas unidades do Sistema Internacional, esse valor corresponde a:",
+   "alternativas": {
+    "a": "27 kg/m³",
+    "b": "2.700 kg/m³",
+    "c": "270 kg/m³",
+    "d": "27.000 kg/m³",
+    "e": "0,0027 kg/m³"
+   },
+   "resposta": "b",
+   "explicacao": "Um grama por centímetro cúbico equivale a 1.000 kg/m³, logo 2,7 g/cm³ = 2.700 kg/m³. A massa específica do fluido é o que converte altura de coluna em pressão hidrostática, e é também o que decide se um corpo flutua ou afunda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-379",
+   "texto_apoio": "Uma boia de massa 4,0 kg flutua em equilíbrio na superfície de um lago de água doce, de densidade 1.000 kg/m³.",
+   "enunciado": "O volume de líquido deslocado pela parte submersa da boia é de:",
+   "alternativas": {
+    "a": "0,4 L",
+    "b": "40 L",
+    "c": "4,0 L",
+    "d": "4,0 m³",
+    "e": "0,25 L"
+   },
+   "resposta": "c",
+   "explicacao": "Na flutuação o empuxo iguala o peso, então a massa de líquido deslocado é igual à massa da boia: 4,0 kg de água ocupam 4,0 L. O empuxo nasce da diferença de pressão hidrostática entre a face de baixo e a de cima do corpo, e é o fluido quem a produz, na medida de sua densidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-380",
+   "texto_apoio": "Um corpo de volume 500 cm³ é mantido inteiramente submerso em um líquido de densidade 800 kg/m³. Adote g = 10 N/kg.",
+   "enunciado": "A intensidade do empuxo sobre esse corpo é de:",
+   "alternativas": {
+    "a": "5,0 N",
+    "b": "0,4 N",
+    "c": "40 N",
+    "d": "4,0 N",
+    "e": "400 N"
+   },
+   "resposta": "d",
+   "explicacao": "O empuxo vale 800 × 500 × 10⁻⁶ × 10 = 4,0 N. Trocar o líquido muda o empuxo porque muda a densidade do fluido deslocado. O empuxo nasce da diferença de pressão hidrostática entre a face de baixo e a de cima do corpo, e é o fluido quem a produz, na medida de sua densidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-381",
+   "texto_apoio": "Um bloco de gelo de densidade 920 kg/m³ flutua em água do mar, de densidade 1.030 kg/m³.",
+   "enunciado": "A fração aproximada do volume do gelo que permanece acima da superfície do líquido é de:",
+   "alternativas": {
+    "a": "89%",
+    "b": "9,2%",
+    "c": "1,03%",
+    "d": "20%",
+    "e": "11%"
+   },
+   "resposta": "e",
+   "explicacao": "A fração submersa vale 920 ÷ 1.030 ≈ 0,893, restando cerca de 11% acima da superfície. A massa específica do fluido é o que converte altura de coluna em pressão hidrostática, e é também o que decide se um corpo flutua ou afunda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-382",
+   "texto_apoio": "Água escoa por um cano de secção 0,020 m² com velocidade de 3,0 metros por segundo.",
+   "enunciado": "A vazão do escoamento nesse cano é de:",
+   "alternativas": {
+    "a": "0,060 m³/s",
+    "b": "0,0067 m³/s",
+    "c": "6,0 m³/s",
+    "d": "0,60 m³/s",
+    "e": "0,023 m³/s"
+   },
+   "resposta": "a",
+   "explicacao": "A vazão é o produto entre a área da secção e a velocidade do escoamento: 0,020 × 3,0 = 0,060 m³/s. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-383",
+   "texto_apoio": "Uma caixa de 2,4 m³ é preenchida com água por uma tubulação de vazão constante igual a 0,004 m³/s.",
+   "enunciado": "O tempo necessário para completar o preenchimento é de:",
+   "alternativas": {
+    "a": "9,6 s",
+    "b": "600 s",
+    "c": "60 s",
+    "d": "0,0017 s",
+    "e": "6.000 s"
+   },
+   "resposta": "b",
+   "explicacao": "O tempo é o volume dividido pela vazão do escoamento: 2,4 ÷ 0,004 = 600 s. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-384",
+   "texto_apoio": "Um cano horizontal conduz água em regime estacionário. Onde a secção mede 12 cm², a velocidade do escoamento é de 2,0 metros por segundo; adiante, a secção se estreita para 3,0 cm².",
+   "enunciado": "No trecho estreito, a velocidade da água passa a ser de:",
+   "alternativas": {
+    "a": "0,50 metros por segundo",
+    "b": "4,0 metros por segundo",
+    "c": "8,0 metros por segundo",
+    "d": "24 metros por segundo",
+    "e": "6,0 metros por segundo"
+   },
+   "resposta": "c",
+   "explicacao": "A vazão se conserva, logo área × velocidade é constante: 12 × 2,0 = 3,0 × v, e v = 8,0 metros por segundo. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-385",
+   "texto_apoio": "Um cano horizontal de secção variável conduz água em regime estacionário, sem perdas por viscosidade.",
+   "enunciado": "Comparado ao trecho largo, o trecho estreito apresenta:",
+   "alternativas": {
+    "a": "velocidade maior e pressão maior, porque o estreitamento comprime o fluido contra as paredes e eleva as duas grandezas ao mesmo tempo",
+    "b": "velocidade menor e pressão maior, uma vez que a redução da área ofereceria resistência ao escoamento e frearia o líquido naquele trecho",
+    "c": "velocidade igual e pressão menor, já que a vazão constante manteria inalterada a rapidez do líquido ao longo do cano inteiro",
+    "d": "velocidade maior e pressão menor",
+    "e": "velocidade menor e pressão menor, resultado de o estreitamento retirar do líquido parte do impulso recebido na entrada do cano"
+   },
+   "resposta": "d",
+   "explicacao": "A equação de Bernoulli associa velocidade maior a pressão menor no escoamento horizontal, e a equação da continuidade obriga o líquido a acelerar no estreitamento. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-386",
+   "texto_apoio": "Três recipientes abertos de formatos bem diferentes — um cilíndrico, um cônico e um em forma de funil invertido — são preenchidos com água até a mesma altura.",
+   "enunciado": "Comparadas entre si, as pressões hidrostáticas no fundo dos três recipientes são:",
+   "alternativas": {
+    "a": "maiores no recipiente que armazena a maior quantidade de líquido, porque a pressão no fundo acompanha o peso do conteúdo apoiado sobre ele",
+    "b": "menores no recipiente cônico, já que suas paredes inclinadas sustentam parte da coluna e aliviam a carga que chega ao fundo do reservatório",
+    "c": "diferentes entre si na proporção das áreas dos fundos, uma vez que a pressão exercida pelo fluido se distribui pela superfície disponível",
+    "d": "maiores no funil invertido, porque a redução da abertura superior concentraria a densidade do líquido nas camadas mais baixas",
+    "e": "iguais, pois dependem da altura da coluna"
+   },
+   "resposta": "e",
+   "explicacao": "A pressão hidrostática depende apenas da densidade do fluido, da gravidade e da profundidade — não da forma do recipiente nem do volume armazenado. Em um fluido em equilíbrio, a pressão hidrostática cresce com a profundidade e depende da densidade do líquido, não do formato do recipiente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-387",
+   "texto_apoio": "Um líquido incompressível preenche um sistema fechado de êmbolos e é submetido a um acréscimo de pressão em um dos pontos.",
+   "enunciado": "De acordo com o princípio de Pascal, esse acréscimo:",
+   "alternativas": {
+    "a": "chega com o mesmo valor a cada ponto do líquido",
+    "b": "diminui à medida que se afasta do ponto de aplicação, de modo semelhante ao que ocorre com a intensidade sonora emitida por uma fonte",
+    "c": "aparece apenas no êmbolo de maior área, onde a força resultante do sistema hidráulico se concentra por causa da diferença de superfície",
+    "d": "se reparte entre os pontos do líquido na razão inversa de suas profundidades, o que reduz seu efeito nas camadas mais próximas do fundo",
+    "e": "só é transmitido se o fluido estiver em escoamento, condição sem a qual o acréscimo de pressão exercida se perde nas paredes do sistema"
+   },
+   "resposta": "a",
+   "explicacao": "O princípio de Pascal afirma que um acréscimo de pressão exercida sobre um fluido em equilíbrio se transmite integralmente a cada ponto do líquido e às paredes do recipiente. É esse princípio que a densidade do óleo hidráulico não altera. Em um fluido em equilíbrio, a pressão hidrostática cresce com a profundidade e depende da densidade do líquido, não do formato do recipiente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-388",
+   "texto_apoio": "Em uma piscina de água doce (densidade 1.000 kg/m³), procura-se a profundidade em que a pressão hidrostática da coluna iguala a pressão atmosférica local, de 100.000 Pa. Adote g = 10 N/kg.",
+   "enunciado": "Essa profundidade é de:",
+   "alternativas": {
+    "a": "1,0 m",
+    "b": "10 m",
+    "c": "100 m",
+    "d": "0,1 m",
+    "e": "20 m"
+   },
+   "resposta": "b",
+   "explicacao": "Basta igualar 1.000 × 10 × h a 100.000, o que dá h = 10 m. A cada dez metros de água a pressão absoluta cresce em uma atmosfera. Em um fluido em equilíbrio, a pressão hidrostática cresce com a profundidade e depende da densidade do líquido, não do formato do recipiente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-389",
+   "texto_apoio": "Uma peça pesa 50 N suspensa no ar e apresenta leitura de 30 N quando fica inteiramente submersa em água, de densidade 1.000 kg/m³. Adote g = 10 N/kg.",
+   "enunciado": "O volume dessa peça é de:",
+   "alternativas": {
+    "a": "5,0 L",
+    "b": "3,0 L",
+    "c": "2,0 L",
+    "d": "0,2 L",
+    "e": "20 L"
+   },
+   "resposta": "c",
+   "explicacao": "O empuxo é a diferença das leituras, 50 − 30 = 20 N. Como empuxo = 1.000 × V × 10, sai V = 2,0 × 10⁻³ m³ = 2,0 L. O empuxo nasce da diferença de pressão hidrostática entre a face de baixo e a de cima do corpo, e é o fluido quem a produz, na medida de sua densidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-390",
+   "texto_apoio": "A mesma peça pesa 50 N fora do líquido e acusa 30 N quando submersa em água de densidade 1.000 kg/m³.",
+   "enunciado": "A densidade do material dessa peça é de:",
+   "alternativas": {
+    "a": "1.667 kg/m³",
+    "b": "600 kg/m³",
+    "c": "5.000 kg/m³",
+    "d": "2.500 kg/m³",
+    "e": "1.000 kg/m³"
+   },
+   "resposta": "d",
+   "explicacao": "A densidade do sólido é a densidade do fluido multiplicada pela razão entre o peso e o empuxo: 1.000 × (50 ÷ 20) = 2.500 kg/m³. O empuxo nasce da diferença de pressão hidrostática entre a face de baixo e a de cima do corpo, e é o fluido quem a produz, na medida de sua densidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-391",
+   "texto_apoio": "Os êmbolos circulares de uma prensa hidráulica têm diâmetros de 4,0 cm e 20 cm. Sobre o menor aplica-se uma força de 60 N.",
+   "enunciado": "A força obtida no êmbolo de maior diâmetro é de:",
+   "alternativas": {
+    "a": "300 N",
+    "b": "12 N",
+    "c": "7.500 N",
+    "d": "2,4 N",
+    "e": "1.500 N"
+   },
+   "resposta": "e",
+   "explicacao": "As áreas variam com o quadrado do diâmetro, e a razão vale (20 ÷ 4,0)² = 25. Logo F₂ = 60 × 25 = 1.500 N. Um fluido em equilíbrio transmite integralmente a pressão exercida sobre ele, e a densidade do líquido define a escala da pressão hidrostática de cada coluna.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-392",
+   "texto_apoio": "Uma coluna de água de 1,36 m de altura (densidade 1.000 kg/m³) é comparada a uma coluna de mercúrio (densidade 13.600 kg/m³). Adote g = 10 N/kg.",
+   "enunciado": "A pressão exercida pela coluna de água equivale, em milímetros de mercúrio, a:",
+   "alternativas": {
+    "a": "100 mmHg",
+    "b": "1.360 mmHg",
+    "c": "10 mmHg",
+    "d": "760 mmHg",
+    "e": "13,6 mmHg"
+   },
+   "resposta": "a",
+   "explicacao": "A coluna de água produz 1.000 × 10 × 1,36 = 13.600 Pa. Uma coluna de mercúrio de mesma pressão mede 13.600 ÷ (13.600 × 10) = 0,100 m, ou seja, 100,00 mmHg. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-393",
+   "texto_apoio": "Um densímetro é um tubo lacrado e lastreado que flutua na vertical e cuja escala é lida na altura da superfície do líquido.",
+   "enunciado": "Quanto maior for a densidade do líquido testado, o densímetro tende a:",
+   "alternativas": {
+    "a": "afundar mais, porque o líquido de maior densidade oferece menor empuxo por unidade de volume submerso do instrumento",
+    "b": "afundar menos, ficando mais alto",
+    "c": "manter a mesma parte submersa, uma vez que o empuxo já equilibra o peso do instrumento antes de o líquido ser trocado",
+    "d": "girar até a posição horizontal, pois o lastro deixa de manter o equilíbrio assim que a densidade do líquido é alterada",
+    "e": "afundar por completo até o fundo do recipiente, situação em que o empuxo recebido do fluido deixa de compensar o peso do tubo"
+   },
+   "resposta": "b",
+   "explicacao": "Como o peso do instrumento não muda, o empuxo de equilíbrio é o mesmo: em um líquido de densidade maior, basta um volume submerso menor para produzi-lo, e o tubo sobe. É a pressão hidrostática maior daquele fluido que faz o serviço. A massa específica do fluido é o que converte altura de coluna em pressão hidrostática, e é também o que decide se um corpo flutua ou afunda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-394",
+   "texto_apoio": "Dois líquidos que não se misturam repousam em um tubo em U aberto. Considera-se um ponto na superfície de separação, no ramo esquerdo, e outro no mesmo nível, no ramo direito.",
+   "enunciado": "No equilíbrio, as pressões nesses dois pontos são:",
+   "alternativas": {
+    "a": "maiores no ramo em que repousa o líquido de maior densidade, porque a pressão exercida acompanha a massa específica de cada ramo",
+    "b": "maiores no ramo de coluna mais alta, uma vez que o comprimento da coluna decide o valor da pressão hidrostática independentemente do líquido",
+    "c": "iguais, por estarem no mesmo nível e ligados pelo líquido de baixo",
+    "d": "diferentes na razão entre as densidades, resultado de o fluido de baixo transmitir apenas parte do acréscimo recebido de cada lado",
+    "e": "iguais apenas se as colunas dos dois ramos tiverem a mesma altura medida a partir da superfície de separação dos dois líquidos"
+   },
+   "resposta": "c",
+   "explicacao": "Pontos no mesmo nível e ligados por um mesmo fluido em equilíbrio suportam a mesma pressão hidrostática. É essa igualdade que impõe colunas de alturas inversamente proporcionais às densidades. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-395",
+   "texto_apoio": "O peso específico de um líquido é o produto entre sua densidade e a gravidade local. Para a água, a densidade vale 1.000 kg/m³ e g = 10 N/kg.",
+   "enunciado": "O peso específico da água nessas condições é de:",
+   "alternativas": {
+    "a": "1.000 N/m³",
+    "b": "100 N/m³",
+    "c": "100.000 N/m³",
+    "d": "10.000 N/m³",
+    "e": "10 N/m³"
+   },
+   "resposta": "d",
+   "explicacao": "Basta multiplicar: 1.000 × 10 = 10.000 N/m³. O peso específico é a forma prática de escrever a pressão hidrostática como produto entre ele e a profundidade. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-396",
+   "texto_apoio": "Um submarino controla sua profundidade preenchendo ou esvaziando tanques internos com água do mar.",
+   "enunciado": "Ao preencher os tanques mantendo o volume externo do casco, o submarino:",
+   "alternativas": {
+    "a": "aumenta o empuxo recebido do fluido, porque a água admitida nos tanques passa a integrar o volume deslocado pelo casco da embarcação",
+    "b": "reduz a pressão hidrostática sobre o casco, o que permite a descida sem que a densidade do conjunto precise ser alterada",
+    "c": "mantém a densidade e desce apenas por causa do aumento da pressão exercida pela coluna de água sobre a parte superior do casco",
+    "d": "reduz sua massa específica, ficando mais leve que o líquido e descendo por causa da diferença entre as duas densidades envolvidas",
+    "e": "aumenta sua densidade e afunda"
+   },
+   "resposta": "e",
+   "explicacao": "O volume externo não muda, então o empuxo não muda; a massa cresce e com ela a densidade média do submarino, que passa a superar a do fluido e afunda. A massa específica do fluido é o que converte altura de coluna em pressão hidrostática, e é também o que decide se um corpo flutua ou afunda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-397",
+   "texto_apoio": "O medidor de um pneu indica a chamada pressão manométrica, e não a pressão absoluta.",
+   "enunciado": "A pressão manométrica corresponde:",
+   "alternativas": {
+    "a": "à pressão absoluta menos a atmosférica",
+    "b": "à soma da pressão absoluta com a pressão atmosférica local, valor que cresce com a altitude em que a medição é realizada",
+    "c": "à pressão hidrostática do fluido interno, grandeza que depende da densidade do ar contido e da altura do medidor acima do solo",
+    "d": "ao produto entre a pressão absoluta e a razão das densidades do fluido interno e do fluido externo ao recipiente medido",
+    "e": "à pressão exercida pelo fluido sobre a face externa do recipiente, descontada a parcela devida ao peso das paredes do pneu"
+   },
+   "resposta": "a",
+   "explicacao": "O instrumento compara o interior com o ambiente: ele lê o excesso sobre a pressão atmosférica. Somando a atmosférica à leitura obtém-se a absoluta, do mesmo modo como se soma a pressão hidrostática da coluna à atmosférica no fundo de um tanque com fluido em equilíbrio. Nada disso depende da densidade das paredes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-398",
+   "texto_apoio": "Uma bomba entrega água a uma taxa constante de 1.200 litros por minuto.",
+   "enunciado": "Escrita nas unidades do Sistema Internacional, a vazão dessa bomba é de:",
+   "alternativas": {
+    "a": "20 m³/s",
+    "b": "0,020 m³/s",
+    "c": "1,2 m³/s",
+    "d": "0,0002 m³/s",
+    "e": "72 m³/s"
+   },
+   "resposta": "b",
+   "explicacao": "Mil e duzentos litros equivalem a 1,2 m³, e um minuto tem 60 s: 1,2 ÷ 60 = 0,020 m³/s. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-399",
+   "texto_apoio": "Um corpo de massa 300 g é mergulhado por completo em água (densidade 1.000 kg/m³) e desloca 100 cm³ de líquido. Adote g = 10 N/kg.",
+   "enunciado": "A força que o fio precisa exercer para sustentar o corpo submerso é de:",
+   "alternativas": {
+    "a": "3,0 N",
+    "b": "1,0 N",
+    "c": "2,0 N",
+    "d": "4,0 N",
+    "e": "0,2 N"
+   },
+   "resposta": "c",
+   "explicacao": "O peso vale 3,0 N e o empuxo vale 1.000 × 100 × 10⁻⁶ × 10 = 1,0 N, restando 2,0 N para o fio. O empuxo nasce da diferença de pressão hidrostática entre a face de baixo e a de cima do corpo, e é o fluido quem a produz, na medida de sua densidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-400",
+   "texto_apoio": "Uma coluna de água de 20 cm (densidade 1.000 kg/m³) é comparada a uma coluna de mercúrio (densidade 13.600 kg/m³) capaz de produzir a mesma pressão.",
+   "enunciado": "A altura aproximada dessa coluna de mercúrio é de:",
+   "alternativas": {
+    "a": "2,7 cm",
+    "b": "20 cm",
+    "c": "272 cm",
+    "d": "1,5 cm",
+    "e": "13,6 cm"
+   },
+   "resposta": "d",
+   "explicacao": "Igualando as pressões, 1.000 × 20 = 13.600 × h, o que dá h ≈ 1,5 cm. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-401",
+   "texto_apoio": "Um tanque de fundo horizontal, com área de 0,50 m², contém água (densidade 1.000 kg/m³) até 2,0 m de profundidade. Desconsidere a atmosfera. Adote g = 10 N/kg.",
+   "enunciado": "A força que o líquido exerce sobre o fundo do tanque é de:",
+   "alternativas": {
+    "a": "40.000 N",
+    "b": "1.000 N",
+    "c": "20.000 N",
+    "d": "100.000 N",
+    "e": "10.000 N"
+   },
+   "resposta": "e",
+   "explicacao": "A pressão hidrostática no fundo vale 1.000 × 10 × 2,0 = 20.000 Pa, e a força é pressão × área: 20.000 × 0,50 = 10.000 N. Em um fluido em equilíbrio, a pressão hidrostática cresce com a profundidade e depende da densidade do líquido, não do formato do recipiente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-402",
+   "texto_apoio": "Uma peça de madeira de densidade 600 kg/m³ e volume 1.000 cm³ flutua em equilíbrio na superfície de um tanque com água. Adote g = 10 N/kg.",
+   "enunciado": "A intensidade do empuxo que sustenta essa peça é de:",
+   "alternativas": {
+    "a": "6,0 N",
+    "b": "10 N",
+    "c": "4,0 N",
+    "d": "0,6 N",
+    "e": "60 N"
+   },
+   "resposta": "a",
+   "explicacao": "Na flutuação o empuxo iguala o peso da peça: 600 × 1.000 × 10⁻⁶ × 10 = 6,0 N. O empuxo nasce da diferença de pressão hidrostática entre a face de baixo e a de cima do corpo, e é o fluido quem a produz, na medida de sua densidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-403",
+   "texto_apoio": "Um tubo de Venturi é um estreitamento colocado em uma tubulação horizontal, com dois medidores de pressão instalados antes e dentro do estreitamento.",
+   "enunciado": "A finalidade dessa montagem é:",
+   "alternativas": {
+    "a": "elevar a pressão do escoamento antes da entrada da bomba, aproveitando a redução de área para comprimir o líquido contra as paredes do cano",
+    "b": "medir a vazão pela queda de pressão",
+    "c": "reduzir a velocidade do líquido, de modo a diminuir o desgaste das paredes da tubulação nos trechos de maior comprimento",
+    "d": "separar por densidade os líquidos que não se misturam, já que o estreitamento empurra o mais denso para a parte inferior do tubo",
+    "e": "manter constante a pressão hidrostática ao longo do cano, corrigindo as variações provocadas pelo desnível entre os dois medidores"
+   },
+   "resposta": "b",
+   "explicacao": "No estreitamento a velocidade cresce e a pressão cai, e a queda medida permite calcular a vazão do escoamento pela combinação de Bernoulli com a equação da continuidade. A densidade do fluido entra na conta como constante. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-404",
+   "texto_apoio": "Um cano conduz água em regime estacionário a 6,0 metros por segundo. Adiante, a área da secção passa a ser o dobro da inicial.",
+   "enunciado": "No trecho de área dobrada, a velocidade do escoamento passa a ser de:",
+   "alternativas": {
+    "a": "12 metros por segundo",
+    "b": "6,0 metros por segundo",
+    "c": "3,0 metros por segundo",
+    "d": "1,5 metros por segundo",
+    "e": "0,50 metros por segundo"
+   },
+   "resposta": "c",
+   "explicacao": "A vazão se conserva, logo dobrar a área reduz a velocidade à metade: 3,0 metros por segundo. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-405",
+   "texto_apoio": "Um tanque contém óleo de densidade 800 kg/m³ até 2,5 m de profundidade. Adote g = 10 N/kg.",
+   "enunciado": "A pressão hidrostática no fundo desse tanque é de:",
+   "alternativas": {
+    "a": "2.000 Pa",
+    "b": "25.000 Pa",
+    "c": "200.000 Pa",
+    "d": "20.000 Pa",
+    "e": "32.000 Pa"
+   },
+   "resposta": "d",
+   "explicacao": "A pressão hidrostática vale 800 × 10 × 2,5 = 20.000 Pa, menor que a de uma coluna de água de mesma altura porque a densidade do óleo é menor. Em um fluido em equilíbrio, a pressão hidrostática cresce com a profundidade e depende da densidade do líquido, não do formato do recipiente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-406",
+   "texto_apoio": "Um reservatório em forma de U comunica dois ramos de larguras muito diferentes, preenchidos com o mesmo líquido em equilíbrio.",
+   "enunciado": "Dois pontos situados à mesma profundidade, um em cada ramo, apresentam:",
+   "alternativas": {
+    "a": "pressão maior no ramo mais largo, onde a quantidade de líquido apoiada acima do ponto considerado é visivelmente maior",
+    "b": "pressão maior no ramo estreito, porque a mesma coluna se apoia sobre uma área menor e concentra a força transmitida ao fundo",
+    "c": "pressões cuja razão acompanha a razão entre as áreas das secções dos dois ramos do reservatório utilizado no experimento",
+    "d": "pressões diferentes até que o líquido pare de circular entre os ramos, momento em que a densidade se uniformiza nas duas colunas",
+    "e": "a mesma pressão hidrostática"
+   },
+   "resposta": "e",
+   "explicacao": "Em um fluido em equilíbrio, a pressão hidrostática depende apenas da profundidade e da densidade do líquido; a largura do ramo e o volume armazenado não entram na conta. Em um fluido em equilíbrio, a pressão hidrostática cresce com a profundidade e depende da densidade do líquido, não do formato do recipiente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-407",
+   "texto_apoio": "Uma esfera de densidade 500 kg/m³ é levada até o fundo de um tanque com água (densidade 1.000 kg/m³) e solta.",
+   "enunciado": "Ao ser liberada, a esfera:",
+   "alternativas": {
+    "a": "sobe, pois o empuxo supera o peso",
+    "b": "permanece no fundo, porque a pressão hidrostática elevada daquela profundidade a mantém encostada na superfície inferior do tanque",
+    "c": "sobe até a metade da altura do líquido, ponto em que o empuxo recebido do fluido se iguala ao peso da esfera e o movimento cessa",
+    "d": "desce ainda mais, uma vez que a densidade da água cresce com a profundidade e reduz progressivamente o empuxo disponível",
+    "e": "fica parada onde foi solta, pois um corpo submerso por inteiro recebe empuxo igual ao próprio peso em posição de equilíbrio"
+   },
+   "resposta": "a",
+   "explicacao": "Submersa por inteiro, a esfera desloca um volume de água cuja massa é o dobro da sua, então o empuxo vale o dobro do peso e ela sobe até flutuar com metade do volume submerso. O empuxo nasce da diferença de pressão hidrostática entre a face de baixo e a de cima do corpo, e é o fluido quem a produz, na medida de sua densidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-408",
+   "texto_apoio": "Dois canos conduzem água à mesma velocidade de escoamento, mas o raio do segundo é o dobro do raio do primeiro.",
+   "enunciado": "A vazão do segundo cano, comparada à do primeiro, é:",
+   "alternativas": {
+    "a": "2 vezes maior",
+    "b": "4 vezes maior",
+    "c": "8 vezes maior",
+    "d": "igual",
+    "e": "16 vezes maior"
+   },
+   "resposta": "b",
+   "explicacao": "A área da secção varia com o quadrado do raio, e a vazão é área × velocidade, logo dobrar o raio multiplica a vazão do escoamento por 4. A pressão exercida por um fluido em equilíbrio é fixada pela densidade do líquido e pela altura da coluna acima do ponto considerado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-409",
+   "texto_apoio": "Um copo é preenchido com água até a borda, tampado com uma folha rígida e virado de cabeça para baixo. A folha permanece no lugar e o líquido não escapa.",
+   "enunciado": "O fenômeno se explica porque:",
+   "alternativas": {
+    "a": "a folha adere ao vidro por causa da densidade elevada do líquido em contato com as duas superfícies do sistema montado",
+    "b": "a pressão hidrostática do líquido empurra a folha para dentro do copo com intensidade maior que a do próprio peso da coluna",
+    "c": "a pressão atmosférica sustenta a coluna por baixo",
+    "d": "o empuxo recebido pela folha do fluido interno compensa exatamente o peso do líquido acumulado acima dela no recipiente",
+    "e": "o ar contido no copo se comprime até uma densidade capaz de segurar a folha pela face interna do recipiente invertido"
+   },
+   "resposta": "c",
+   "explicacao": "A pressão atmosférica atuando na face externa da folha supera a pressão hidrostática da coluna somada à do ar aprisionado, e o conjunto se mantém. A densidade da água apenas dita quanto vale a coluna que pode ser sustentada. Em um fluido em equilíbrio, a pressão hidrostática cresce com a profundidade e depende da densidade do líquido, não do formato do recipiente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "med-fisica-410",
+   "texto_apoio": "Em uma prensa hidráulica com fluido incompressível, o êmbolo de 5,0 cm² desce 20 cm. O outro êmbolo tem área de 100 cm².",
+   "enunciado": "A subida do êmbolo de maior área é de:",
+   "alternativas": {
+    "a": "20 cm",
+    "b": "4,0 cm",
+    "c": "400 cm",
+    "d": "1,0 cm",
+    "e": "0,05 cm"
+   },
+   "resposta": "d",
+   "explicacao": "O volume de líquido empurrado é o mesmo dos dois lados: 5,0 × 20 = 100 × h, e h = 1,0 cm. A prensa multiplica a força na mesma proporção em que reduz o percurso. Um fluido em equilíbrio transmite integralmente a pressão exercida sobre ele, e a densidade do líquido define a escala da pressão hidrostática de cada coluna.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "fisica-energia-trabalho": [
@@ -21363,6 +22111,618 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A energia potencial elástica é dada por Eel = (k × x²) ÷ 2 = (400 × 0,1²) ÷ 2 = (400 × 0,01) ÷ 2 = 4 ÷ 2 = 2 J. Esquecer de elevar a deformação ao quadrado leva a 20 J; esquecer de dividir por dois leva a 4 J.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-411",
+   "texto_apoio": "Um carrinho de massa 4,0 kg percorre um trilho horizontal com velocidade de 6,0 metros por segundo.",
+   "enunciado": "A energia cinética desse carrinho é de:",
+   "alternativas": {
+    "a": "72 J",
+    "b": "12 J",
+    "c": "144 J",
+    "d": "24 J",
+    "e": "1,2 J"
+   },
+   "resposta": "a",
+   "explicacao": "A energia cinética vale metade do produto da massa pelo quadrado da velocidade: (4,0 × 36) ÷ 2 = 72 joules. O trabalho realizado pela força mede a energia transferida ao corpo, contada em joule, e iguala a variação da energia cinética.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-412",
+   "texto_apoio": "Um corpo de massa 2,0 kg é levado até uma prateleira situada 8,0 m acima do piso. Adote g = 10 N/kg.",
+   "enunciado": "Tomando o piso como referência, a energia potencial gravitacional armazenada é de:",
+   "alternativas": {
+    "a": "16 J",
+    "b": "160 J",
+    "c": "1.600 J",
+    "d": "80 J",
+    "e": "20 J"
+   },
+   "resposta": "b",
+   "explicacao": "A energia potencial gravitacional vale massa × gravidade × altura: 2,0 × 10 × 8,0 = 160 joules. O balanço é o da conservação da energia mecânica: a energia potencial se converte em energia cinética, e o resultado se expressa em joule.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-413",
+   "texto_apoio": "Um corpo é abandonado de uma altura de 5,0 m acima do solo, sem resistência do ar. Adote g = 10 N/kg.",
+   "enunciado": "A velocidade com que ele chega ao solo é de:",
+   "alternativas": {
+    "a": "5,0 metros por segundo",
+    "b": "50 metros por segundo",
+    "c": "10 metros por segundo",
+    "d": "7,1 metros por segundo",
+    "e": "100 metros por segundo"
+   },
+   "resposta": "c",
+   "explicacao": "A energia potencial vira energia cinética: m × 10 × 5,0 = m × v² ÷ 2, logo v = 10 metros por segundo. O balanço é o da conservação da energia mecânica: a energia potencial se converte em energia cinética, e o resultado se expressa em joule.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-414",
+   "texto_apoio": "Um carrinho parte do alto de uma rampa lisa, 1,8 m acima da base, e desce sem perdas. Adote g = 10 N/kg.",
+   "enunciado": "Ao chegar à base da rampa, o carrinho terá velocidade de:",
+   "alternativas": {
+    "a": "3,6 metros por segundo",
+    "b": "18 metros por segundo",
+    "c": "36 metros por segundo",
+    "d": "6,0 metros por segundo",
+    "e": "1,8 metros por segundo"
+   },
+   "resposta": "d",
+   "explicacao": "Pela conservação da energia mecânica, v² = 2 × 10 × 1,8 = 36, e v = 6,0 metros por segundo. A massa não aparece no resultado, e a energia cinética obtida vale, em joule, o mesmo que a energia potencial de partida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-415",
+   "texto_apoio": "Uma força constante de 50 N empurra uma caixa por 4,0 m sobre um piso horizontal, na mesma direção e no mesmo sentido do movimento.",
+   "enunciado": "O trabalho realizado por essa força é de:",
+   "alternativas": {
+    "a": "12,5 J",
+    "b": "54 J",
+    "c": "2.000 J",
+    "d": "20 J",
+    "e": "200 J"
+   },
+   "resposta": "e",
+   "explicacao": "O trabalho realizado é o produto da força pela distância percorrida na mesma direção: 50 × 4,0 = 200 joules, que é a energia cinética entregue à caixa quando não há perdas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-416",
+   "texto_apoio": "Uma força de 100 N puxa um carrinho por 5,0 m formando 60° com a horizontal, direção em que o carrinho se move. Adote cos 60° = 0,50.",
+   "enunciado": "O trabalho realizado por essa força é de:",
+   "alternativas": {
+    "a": "250 J",
+    "b": "500 J",
+    "c": "433 J",
+    "d": "50 J",
+    "e": "0 J"
+   },
+   "resposta": "a",
+   "explicacao": "Só a componente paralela ao movimento trabalha: 100 × 5,0 × 0,50 = 250 joules. O trabalho realizado pela força mede a energia transferida ao corpo, contada em joule, e iguala a variação da energia cinética.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-417",
+   "texto_apoio": "Um corpo de massa 3,0 kg desce 4,0 m na vertical. Adote g = 10 N/kg.",
+   "enunciado": "O trabalho realizado pelo peso durante essa descida é de:",
+   "alternativas": {
+    "a": "12 J",
+    "b": "120 J",
+    "c": "1.200 J",
+    "d": "30 J",
+    "e": "40 J"
+   },
+   "resposta": "b",
+   "explicacao": "O trabalho realizado pelo peso vale massa × gravidade × altura: 3,0 × 10 × 4,0 = 120 joules, quantia que reaparece como energia cinética se não houver perdas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-418",
+   "texto_apoio": "Um corpo de massa 2,0 kg passa a se mover de 2,0 para 6,0 metros por segundo sob a ação de uma força.",
+   "enunciado": "O trabalho realizado sobre esse corpo nesse intervalo é de:",
+   "alternativas": {
+    "a": "16 J",
+    "b": "40 J",
+    "c": "32 J",
+    "d": "8,0 J",
+    "e": "64 J"
+   },
+   "resposta": "c",
+   "explicacao": "O trabalho realizado iguala a variação da energia cinética: (2,0 × 36) ÷ 2 − (2,0 × 4,0) ÷ 2 = 36 − 4 = 32 joules.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-419",
+   "texto_apoio": "Uma máquina transfere 600 J de energia a uma carga em 4,0 s.",
+   "enunciado": "A potência média desenvolvida por essa máquina é de:",
+   "alternativas": {
+    "a": "2.400 watts",
+    "b": "0,0067 watts",
+    "c": "60 watts",
+    "d": "150 watts",
+    "e": "15 watts"
+   },
+   "resposta": "d",
+   "explicacao": "A potência média é o trabalho realizado dividido pelo tempo: 600 ÷ 4,0 = 150 watts, ou seja, 150 joules por segundo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-420",
+   "texto_apoio": "Um guindaste eleva uma carga de 200 kg até 5,0 m de altura em 10 s, com velocidade constante. Adote g = 10 N/kg.",
+   "enunciado": "A potência média desenvolvida pelo guindaste é de:",
+   "alternativas": {
+    "a": "100 watts",
+    "b": "10.000 watts",
+    "c": "200 watts",
+    "d": "500 watts",
+    "e": "1.000 watts"
+   },
+   "resposta": "e",
+   "explicacao": "O trabalho realizado contra o peso vale 200 × 10 × 5,0 = 10.000 joules, e a potência média é 10.000 ÷ 10 = 1.000 watts.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-421",
+   "texto_apoio": "Um motor recebe 400 J de energia e entrega 240 J de trabalho útil.",
+   "enunciado": "O rendimento desse motor é de:",
+   "alternativas": {
+    "a": "60%",
+    "b": "40%",
+    "c": "166%",
+    "d": "24%",
+    "e": "1,67%"
+   },
+   "resposta": "a",
+   "explicacao": "O rendimento é a razão entre o trabalho realizado de forma útil e a energia fornecida: 240 ÷ 400 = 0,60, ou 60%. Os 160 joules restantes correspondem à energia dissipada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-422",
+   "texto_apoio": "Um corpo escorrega por uma rampa com aspereza. No alto ele tinha 400 J de energia potencial gravitacional e chega à base com 250 J de energia cinética.",
+   "enunciado": "A energia dissipada no percurso é de:",
+   "alternativas": {
+    "a": "650 J",
+    "b": "150 J",
+    "c": "250 J",
+    "d": "400 J",
+    "e": "62,5 J"
+   },
+   "resposta": "b",
+   "explicacao": "A energia dissipada é a diferença entre a energia potencial inicial e a energia cinética final: 400 − 250 = 150 joules. Parte da energia mecânica vira energia dissipada, e o rendimento compara a energia útil com a fornecida, ambas medidas em joule.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-423",
+   "texto_apoio": "Uma mola ideal de constante elástica 200 N/m é esticada em 0,20 m a partir da posição de equilíbrio.",
+   "enunciado": "A energia potencial elástica armazenada nessa mola é de:",
+   "alternativas": {
+    "a": "40 J",
+    "b": "20 J",
+    "c": "4,0 J",
+    "d": "0,4 J",
+    "e": "8,0 J"
+   },
+   "resposta": "c",
+   "explicacao": "A energia potencial elástica vale (200 × 0,20²) ÷ 2 = 4,0 joules. Esquecer o quadrado da deformação elástica leva a 20 J.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-424",
+   "texto_apoio": "Uma mola de constante elástica 500 N/m sofre deformação elástica de 6,0 cm.",
+   "enunciado": "A intensidade da força que a mola exerce nessa condição é de:",
+   "alternativas": {
+    "a": "3,0 N",
+    "b": "300 N",
+    "c": "0,90 N",
+    "d": "30 N",
+    "e": "8,3 N"
+   },
+   "resposta": "d",
+   "explicacao": "Pela lei de Hooke, a força vale constante elástica × deformação: 500 × 0,060 = 30 N. A energia potencial elástica correspondente seria (500 × 0,060²) ÷ 2 = 0,90 joules.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-425",
+   "texto_apoio": "Uma mola comprimida guarda 8,0 J de energia potencial elástica e é liberada, empurrando um corpo de massa 1,0 kg sobre um trilho liso.",
+   "enunciado": "O corpo é lançado com velocidade de:",
+   "alternativas": {
+    "a": "8,0 metros por segundo",
+    "b": "16 metros por segundo",
+    "c": "2,0 metros por segundo",
+    "d": "5,7 metros por segundo",
+    "e": "4,0 metros por segundo"
+   },
+   "resposta": "e",
+   "explicacao": "Pela conservação da energia, 8,0 = (1,0 × v²) ÷ 2, logo v = 4,0 metros por segundo. A energia potencial elástica armazenada na mola vale metade do produto da constante elástica pelo quadrado da deformação, em joule, e a conservação da energia a devolve como energia cinética.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-426",
+   "texto_apoio": "Um corpo de massa 3,0 kg se move em linha reta a 4,0 metros por segundo.",
+   "enunciado": "A quantidade de movimento desse corpo tem intensidade de:",
+   "alternativas": {
+    "a": "12 kg·m/s",
+    "b": "24 kg·m/s",
+    "c": "0,75 kg·m/s",
+    "d": "7,0 kg·m/s",
+    "e": "1,2 kg·m/s"
+   },
+   "resposta": "a",
+   "explicacao": "A quantidade de movimento é o produto da massa pela velocidade: 3,0 × 4,0 = 12 kg·m/s. A energia cinética correspondente vale 24 joules.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-427",
+   "texto_apoio": "Uma força constante de 20 N age sobre um corpo durante 0,50 s.",
+   "enunciado": "O impulso comunicado por essa força é de:",
+   "alternativas": {
+    "a": "40 N·s",
+    "b": "10 N·s",
+    "c": "0,025 N·s",
+    "d": "20 N·s",
+    "e": "10,5 N·s"
+   },
+   "resposta": "b",
+   "explicacao": "O impulso é o produto da força pelo tempo de atuação: 20 × 0,50 = 10 N·s, valor igual à variação da quantidade de movimento. A energia cinética ganha depende ainda da massa, e se conta em joule.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-428",
+   "texto_apoio": "Um carrinho de 2,0 kg viaja a 6,0 metros por segundo e se choca com outro, de 4,0 kg, parado no mesmo trilho. Após o choque, os dois seguem unidos.",
+   "enunciado": "A velocidade do conjunto logo após o choque é de:",
+   "alternativas": {
+    "a": "6,0 metros por segundo",
+    "b": "3,0 metros por segundo",
+    "c": "2,0 metros por segundo",
+    "d": "12 metros por segundo",
+    "e": "4,0 metros por segundo"
+   },
+   "resposta": "c",
+   "explicacao": "A quantidade de movimento se conserva: 2,0 × 6,0 = 6,0 × v, logo v = 2,0 metros por segundo. A colisão inelástica não conserva a energia cinética, medida em joule.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-429",
+   "texto_apoio": "No choque anterior, um carrinho de 2,0 kg a 6,0 metros por segundo se junta a outro de 4,0 kg em repouso, e o conjunto segue a 2,0 metros por segundo.",
+   "enunciado": "A parcela de energia cinética que deixa de existir como tal nesse choque é de:",
+   "alternativas": {
+    "a": "12 J",
+    "b": "36 J",
+    "c": "48 J",
+    "d": "24 J",
+    "e": "0 J"
+   },
+   "resposta": "d",
+   "explicacao": "Antes havia (2,0 × 36) ÷ 2 = 36 joules; depois, (6,0 × 4,0) ÷ 2 = 12 joules. A diferença de 24 joules é a energia dissipada típica de uma colisão inelástica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-430",
+   "texto_apoio": "Um pêndulo é solto de um ponto 0,80 m acima da posição mais baixa de sua oscilação, sem perdas. Adote g = 10 N/kg.",
+   "enunciado": "Ao passar pelo ponto mais baixo, a esfera do pêndulo tem velocidade de:",
+   "alternativas": {
+    "a": "8,0 metros por segundo",
+    "b": "1,6 metros por segundo",
+    "c": "16 metros por segundo",
+    "d": "3,2 metros por segundo",
+    "e": "4 metros por segundo"
+   },
+   "resposta": "e",
+   "explicacao": "A energia potencial vira energia cinética: v² = 2 × 10 × 0,80 = 16, e v = 4 metros por segundo. O balanço é o da conservação da energia mecânica: a energia potencial se converte em energia cinética, e o resultado se expressa em joule.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-431",
+   "texto_apoio": "Um mesmo corpo passa a se mover com velocidade duas vezes maior que a anterior.",
+   "enunciado": "Comparada à inicial, sua energia cinética passa a ser:",
+   "alternativas": {
+    "a": "quatro vezes maior",
+    "b": "duas vezes maior, na mesma proporção direta em que a velocidade do corpo foi aumentada durante o processo descrito",
+    "c": "a metade da inicial, porque o aumento da rapidez reduz o tempo de percurso e com ele a energia transferida ao corpo",
+    "d": "a mesma de antes, uma vez que a massa do corpo permaneceu inalterada durante o aumento de velocidade observado",
+    "e": "oito vezes maior, resultado de a energia cinética acompanhar o cubo da velocidade adquirida pelo corpo em movimento"
+   },
+   "resposta": "a",
+   "explicacao": "A energia cinética depende do quadrado da velocidade, então dobrá-la multiplica por quatro a energia, medida em joule. É por isso que o trabalho realizado para frear um veículo cresce tão depressa. O trabalho realizado pela força mede a energia transferida ao corpo, contada em joule, e iguala a variação da energia cinética.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-432",
+   "texto_apoio": "Um atleta de 60 kg sobe 3,0 m de escada em 5,0 s, mantendo velocidade constante. Adote g = 10 N/kg.",
+   "enunciado": "A potência média desenvolvida por ele nessa subida é de:",
+   "alternativas": {
+    "a": "36 watts",
+    "b": "360 watts",
+    "c": "1.800 watts",
+    "d": "180 watts",
+    "e": "3.600 watts"
+   },
+   "resposta": "b",
+   "explicacao": "O trabalho realizado contra o peso vale 60 × 10 × 3,0 = 1.800 joules, e a potência média é 1.800 ÷ 5,0 = 360 watts.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-433",
+   "texto_apoio": "Um motor consome 1.500 watts e entrega 1.200 watts de potência útil.",
+   "enunciado": "O rendimento desse motor é de:",
+   "alternativas": {
+    "a": "125%",
+    "b": "20%",
+    "c": "80%",
+    "d": "12%",
+    "e": "1,25%"
+   },
+   "resposta": "c",
+   "explicacao": "O rendimento é a razão entre a potência útil e a total: 1.200 ÷ 1.500 = 0,80, ou 80%. Os 300 watts restantes viram energia dissipada, contada em joule a cada segundo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-434",
+   "texto_apoio": "Uma caixa de 2,0 kg desliza a 5,0 metros por segundo sobre um piso horizontal com aspereza e para depois de certo percurso.",
+   "enunciado": "A energia dissipada até a parada é de:",
+   "alternativas": {
+    "a": "10 J",
+    "b": "50 J",
+    "c": "5,0 J",
+    "d": "25 J",
+    "e": "12,5 J"
+   },
+   "resposta": "d",
+   "explicacao": "Toda a energia cinética inicial, (2,0 × 25) ÷ 2 = 25 joules, converte-se em energia dissipada, pois o atrito dissipa o que a caixa trazia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-435",
+   "texto_apoio": "Uma esfera presa a um fio gira em um plano horizontal com rapidez constante, e o fio permanece sempre perpendicular ao percurso da esfera.",
+   "enunciado": "O trabalho realizado pela força do fio ao longo de uma volta é:",
+   "alternativas": {
+    "a": "igual ao produto da força pelo comprimento do percurso, uma vez que a força do fio atua durante a volta inteira da esfera",
+    "b": "positivo na primeira metade da volta e negativo na segunda, de modo que a energia cinética da esfera oscila entre dois valores",
+    "c": "igual à energia potencial gravitacional da esfera, grandeza que se converte em energia cinética a cada volta completada",
+    "d": "proporcional ao tempo de uma volta, do mesmo modo como a potência média de um motor cresce com a duração de seu funcionamento",
+    "e": "nulo"
+   },
+   "resposta": "e",
+   "explicacao": "Uma força perpendicular ao percurso não transfere energia: o trabalho realizado por ela é zero joule, e a energia cinética da esfera permanece constante. O trabalho realizado pela força mede a energia transferida ao corpo, contada em joule, e iguala a variação da energia cinética.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-436",
+   "texto_apoio": "Dois estudantes calculam a energia potencial gravitacional de um mesmo objeto apoiado sobre uma mesa: um adota o tampo como referência, o outro adota o piso.",
+   "enunciado": "Sobre os dois resultados, é correto afirmar que:",
+   "alternativas": {
+    "a": "diferem, e ambos são aceitáveis",
+    "b": "apenas o resultado obtido a partir do piso tem sentido físico, porque a energia potencial precisa ser contada desde o ponto mais baixo do ambiente",
+    "c": "coincidem, pois a energia potencial gravitacional de um corpo depende só de sua massa e do valor local da gravidade adotado",
+    "d": "diferem, e o erro está no estudante que escolheu o tampo, escolha que produz um valor de energia menor que o verdadeiro",
+    "e": "coincidem depois de somada a energia cinética do objeto, parcela que compensa a diferença entre as duas referências adotadas"
+   },
+   "resposta": "a",
+   "explicacao": "A energia potencial gravitacional depende da referência escolhida; o que tem sentido físico é a variação dela, e é essa variação, em joule, que aparece na conservação da energia mecânica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-437",
+   "texto_apoio": "Um corpo com 18 J de energia cinética atinge uma mola de constante elástica 900 N/m sobre um trilho liso e para ao comprimi-la ao máximo.",
+   "enunciado": "A deformação elástica máxima da mola é de:",
+   "alternativas": {
+    "a": "0,040 m",
+    "b": "0,20 m",
+    "c": "0,020 m",
+    "d": "2,0 m",
+    "e": "0,45 m"
+   },
+   "resposta": "b",
+   "explicacao": "Pela conservação da energia, 18 = (900 × x²) ÷ 2, logo x² = 0,040 e x = 0,20 m. A energia potencial elástica armazenada na mola vale metade do produto da constante elástica pelo quadrado da deformação, em joule, e a conservação da energia a devolve como energia cinética.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-438",
+   "texto_apoio": "Uma força cresce de 0 a 30 N durante 4,0 s, de modo uniforme, agindo sobre um corpo em linha reta.",
+   "enunciado": "O impulso comunicado nesse intervalo é de:",
+   "alternativas": {
+    "a": "120 N·s",
+    "b": "7,5 N·s",
+    "c": "60 N·s",
+    "d": "30 N·s",
+    "e": "15 N·s"
+   },
+   "resposta": "c",
+   "explicacao": "Com força crescendo de modo uniforme, o impulso é a área do triângulo: (30 × 4,0) ÷ 2 = 60 N·s, valor igual à variação da quantidade de movimento. A energia cinética ganha se mede em joule.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-439",
+   "texto_apoio": "Um corpo é atirado verticalmente para cima com 20 metros por segundo, sem resistência do ar. Adote g = 10 N/kg.",
+   "enunciado": "A altura máxima alcançada por esse corpo é de:",
+   "alternativas": {
+    "a": "40 m",
+    "b": "2,0 m",
+    "c": "10 m",
+    "d": "20 m",
+    "e": "200 m"
+   },
+   "resposta": "d",
+   "explicacao": "No ponto mais alto a energia cinética inicial virou energia potencial: v² ÷ (2 × 10) = 400 ÷ 20 = 20 m. O balanço é o da conservação da energia mecânica: a energia potencial se converte em energia cinética, e o resultado se expressa em joule.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-440",
+   "texto_apoio": "Um corpo de 5,0 kg escorrega de uma rampa áspera partindo de 2,0 m de altura e chega à base com 4,0 metros por segundo. Adote g = 10 N/kg.",
+   "enunciado": "A energia dissipada durante a descida é de:",
+   "alternativas": {
+    "a": "40 J",
+    "b": "100 J",
+    "c": "140 J",
+    "d": "10 J",
+    "e": "60 J"
+   },
+   "resposta": "e",
+   "explicacao": "A energia potencial inicial vale 5,0 × 10 × 2,0 = 100 joules e a energia cinética final vale (5,0 × 16) ÷ 2 = 40 joules; a diferença de 60 joules foi dissipada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-441",
+   "texto_apoio": "Um veículo avança em linha reta a 3,0 metros por segundo enquanto o motor aplica uma força de tração útil de 200 N. Considere a rapidez constante.",
+   "enunciado": "A potência mecânica desenvolvida pelo motor é de:",
+   "alternativas": {
+    "a": "600 watts",
+    "b": "66,7 watts",
+    "c": "60 watts",
+    "d": "6.000 watts",
+    "e": "203 watts"
+   },
+   "resposta": "a",
+   "explicacao": "Com força e movimento na mesma direção, a potência mecânica é o produto da força pela velocidade: 200 × 3,0 = 600 watts, ou 600 joules por segundo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-442",
+   "texto_apoio": "Um caixote de 25 kg é erguido lentamente até 1,6 m de altura. Adote g = 10 N/kg.",
+   "enunciado": "O trabalho realizado contra o peso nessa operação é de:",
+   "alternativas": {
+    "a": "40 J",
+    "b": "400 J",
+    "c": "4.000 J",
+    "d": "250 J",
+    "e": "16 J"
+   },
+   "resposta": "b",
+   "explicacao": "O trabalho realizado vale 25 × 10 × 1,6 = 400 joules, quantia que fica guardada como energia potencial gravitacional do caixote.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-443",
+   "texto_apoio": "Duas esferas de massas iguais se chocam de frente sobre um trilho liso. Uma delas estava parada, e o choque é do tipo elástico.",
+   "enunciado": "Logo após o choque, observa-se que:",
+   "alternativas": {
+    "a": "as duas esferas seguem unidas com metade da velocidade original, resultado que decorre da conservação da quantidade de movimento no par",
+    "b": "as duas esferas param, pois a quantidade de movimento de uma anula a da outra no instante do contato entre as superfícies",
+    "c": "as esferas trocam de velocidade",
+    "d": "a esfera que estava parada permanece assim, e a outra retorna com a mesma energia cinética que trazia antes do contato",
+    "e": "as duas se afastam com velocidades iguais e opostas, o que preserva a energia cinética do par e também sua quantidade de movimento"
+   },
+   "resposta": "c",
+   "explicacao": "Na colisão elástica entre massas iguais, a conservação simultânea da quantidade de movimento e da energia cinética, contada em joule, só admite a troca de velocidades. O impulso da força iguala a variação da quantidade de movimento, e a energia cinética do conjunto se conta em joule.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-444",
+   "texto_apoio": "Um corpo oscila preso a uma mola ideal sobre um trilho liso, sem perdas.",
+   "enunciado": "Ao longo da oscilação, a soma da energia cinética com a energia potencial elástica:",
+   "alternativas": {
+    "a": "cresce a cada oscilação, porque a mola devolve ao corpo mais do que recebeu dele durante a fase de compressão",
+    "b": "diminui de modo gradual, já que parte da energia se converte em deformação elástica permanente do material da mola",
+    "c": "vale zero nos pontos de inversão, onde o corpo para e a energia cinética se anula junto com a energia armazenada",
+    "d": "permanece constante",
+    "e": "acompanha o quadrado do tempo de oscilação, do mesmo modo como a potência média de um motor acompanha seu período de operação"
+   },
+   "resposta": "d",
+   "explicacao": "Sem perdas, vale a conservação da energia mecânica: a soma das duas parcelas, medida em joule, não muda, e a energia potencial elástica só troca de lugar com a energia cinética. A energia potencial elástica armazenada na mola vale metade do produto da constante elástica pelo quadrado da deformação, em joule, e a conservação da energia a devolve como energia cinética.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-445",
+   "texto_apoio": "Uma máquina recebe 5.000 J e transforma 2.000 J em energia dissipada.",
+   "enunciado": "O rendimento dessa máquina é de:",
+   "alternativas": {
+    "a": "40%",
+    "b": "250%",
+    "c": "2,5%",
+    "d": "30%",
+    "e": "60%"
+   },
+   "resposta": "e",
+   "explicacao": "O trabalho realizado de forma útil vale 5.000 − 2.000 = 3.000 joules, e o rendimento é 3.000 ÷ 5.000 = 0,60, ou 60%. Parte da energia mecânica vira energia dissipada, e o rendimento compara a energia útil com a fornecida, ambas medidas em joule.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-446",
+   "texto_apoio": "Sobre um trilho liso, um corpo de 5,0 kg segue para a direita a 2,0 metros por segundo e outro, de 3,0 kg, segue para a esquerda a 4,0 metros por segundo.",
+   "enunciado": "A intensidade da quantidade de movimento do sistema formado pelos dois corpos é de:",
+   "alternativas": {
+    "a": "2 kg·m/s",
+    "b": "22 kg·m/s",
+    "c": "10 kg·m/s",
+    "d": "12 kg·m/s",
+    "e": "8,0 kg·m/s"
+   },
+   "resposta": "a",
+   "explicacao": "A quantidade de movimento é uma grandeza com sentido: 12 para a esquerda contra 10 para a direita resulta em 2 kg·m/s para a esquerda. A energia cinética do sistema, ao contrário, soma sempre e vale 34 joules.",
    "formato": "direta",
    "origem": "medicina"
   }

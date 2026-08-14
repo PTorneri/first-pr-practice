@@ -2107,6 +2107,1706 @@ window.FLASHCARDS = {
    "verso": "O objeto direto vira sujeito, o verbo passa a 'ser' + particípio e o sujeito antigo vira agente da passiva."
   }
  ],
+ "literatura-realismo-naturalismo": [
+  {
+   "id": "flash-literatura-realismo-naturalismo-01",
+   "frente": "Qual é o marco inicial do Realismo no Brasil?",
+   "verso": "A publicação de 'Memórias Póstumas de Brás Cubas', de Machado de Assis, em 1881."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-02",
+   "frente": "O que o Realismo opõe ao Romantismo?",
+   "verso": "A objetividade à idealização, a análise psicológica ao sentimentalismo, e a crítica social à evasão."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-03",
+   "frente": "Qual é o contexto científico e filosófico do Realismo?",
+   "verso": "O positivismo, o evolucionismo e o determinismo, que propõem explicar o comportamento humano por leis observáveis."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-04",
+   "frente": "Qual é a singularidade do narrador de 'Memórias Póstumas de Brás Cubas'?",
+   "verso": "É um 'defunto autor' que narra da morte, o que lhe dá liberdade absoluta para a ironia e para desmascarar a si mesmo e à sociedade."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-05",
+   "frente": "O que significa a dedicatória 'Ao verme que primeiro roeu as frias carnes do meu cadáver'?",
+   "verso": "Anuncia o tom irônico e desencantado da obra e a inversão de todas as convenções do romance romântico."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-06",
+   "frente": "O que é a 'teoria do Humanitismo' em Quincas Borba?",
+   "verso": "A filosofia delirante que justifica a vitória do mais forte com 'ao vencedor, as batatas' — sátira ao darwinismo social."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-07",
+   "frente": "Por que 'Dom Casmurro' é considerado um romance de narrador não confiável?",
+   "verso": "Porque Bento Santiago narra e julga o próprio caso, e o texto nunca oferece prova externa da traição de Capitu."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-08",
+   "frente": "Qual é a grande ambiguidade de 'Dom Casmurro'?",
+   "verso": "Não se pode decidir se Capitu traiu; a obra transforma o leitor em juiz e expõe o ciúme como construtor da verdade."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-09",
+   "frente": "Como Machado de Assis usa a ironia?",
+   "verso": "Como instrumento de crítica social, revelando a distância entre a aparência respeitável e o interesse mesquinho das personagens."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-10",
+   "frente": "O que caracteriza a análise psicológica machadiana?",
+   "verso": "O foco nos motivos ocultos, na vaidade e no autoengano das personagens, mais que na ação externa."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-11",
+   "frente": "Como Machado retrata a elite do Segundo Reinado?",
+   "verso": "Como uma classe que cultiva verniz europeu enquanto sustenta o favor, a dependência e a escravidão."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-12",
+   "frente": "Qual é a diferença central entre Realismo e Naturalismo?",
+   "verso": "O Realismo analisa o indivíduo psicológica e socialmente; o Naturalismo o reduz a produto do meio, da raça e do momento."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-13",
+   "frente": "O que é o determinismo naturalista?",
+   "verso": "A concepção de que meio, herança biológica e momento histórico determinam o comportamento, anulando o livre-arbítrio."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-14",
+   "frente": "O que é a zoomorfização no Naturalismo?",
+   "verso": "A aproximação da personagem ao animal, para evidenciar o instinto sobrepondo-se à razão."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-15",
+   "frente": "Qual é o papel do cortiço no romance de Aluísio Azevedo?",
+   "verso": "É a verdadeira personagem principal: o coletivo que cresce, respira e determina o destino de seus habitantes."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-16",
+   "frente": "Que temas o Naturalismo aborda que o Realismo evita?",
+   "verso": "Sexualidade, patologia, alcoolismo, miséria material e degradação física, tratados com detalhamento quase clínico."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-17",
+   "frente": "Quem foi Raul Pompeia, e qual sua obra principal?",
+   "verso": "Autor de 'O Ateneu', romance de memórias que critica o internato como microcosmo da sociedade, com estilo impressionista."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-18",
+   "frente": "O que caracteriza o Parnasianismo?",
+   "verso": "O culto à forma perfeita, a impassibilidade, a objetividade descritiva e o lema 'a arte pela arte'."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-19",
+   "frente": "Qual é a forma preferida dos parnasianos?",
+   "verso": "O soneto, com métrica rigorosa e rimas ricas."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-20",
+   "frente": "Quem foi Olavo Bilac, e como é conhecido?",
+   "verso": "O 'príncipe dos poetas brasileiros', maior nome do Parnasianismo, autor de 'Profissão de Fé' e 'Via Láctea'."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-21",
+   "frente": "O que o poema 'Profissão de Fé' expressa?",
+   "verso": "O ideal parnasiano de burilar o verso como o ourives trabalha o metal — a forma como valor supremo."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-22",
+   "frente": "O que caracteriza o Simbolismo?",
+   "verso": "A musicalidade, a sinestesia, o misticismo, a sugestão em lugar da descrição e o interesse pelo subconsciente."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-23",
+   "frente": "Quem foi Cruz e Sousa?",
+   "verso": "O maior poeta simbolista brasileiro, cuja obra articula angústia existencial, misticismo e a experiência da discriminação racial."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-24",
+   "frente": "Qual é a diferença entre Parnasianismo e Simbolismo?",
+   "verso": "O Parnasianismo busca clareza, objetividade e forma perfeita; o Simbolismo busca sugestão, musicalidade e mistério."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-25",
+   "frente": "O que caracteriza o Pré-Modernismo?",
+   "verso": "Não é escola, mas um período de transição (1902-1922) marcado pela denúncia da realidade brasileira e pela ruptura com o academicismo."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-26",
+   "frente": "Qual é a importância de 'Os Sertões', de Euclides da Cunha?",
+   "verso": "Une ciência e literatura para relatar a Guerra de Canudos e revelar o Brasil profundo ignorado pelo litoral."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-27",
+   "frente": "Como se divide 'Os Sertões'?",
+   "verso": "Em três partes: 'A Terra', 'O Homem' e 'A Luta' — do meio físico ao tipo humano e daí ao conflito."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-28",
+   "frente": "Que frase de Euclides da Cunha sintetiza sua visão do sertanejo?",
+   "verso": "'O sertanejo é, antes de tudo, um forte' — reconhecendo resistência onde a teoria racial da época previa degeneração."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-29",
+   "frente": "Quem foi Lima Barreto, e o que caracteriza sua obra?",
+   "verso": "Autor de 'Triste Fim de Policarpo Quaresma', que critica o nacionalismo ingênuo, o subúrbio carioca e o preconceito racial, em linguagem simples e direta."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-30",
+   "frente": "Quem criou o personagem Jeca Tatu, e qual era sua função crítica?",
+   "verso": "Monteiro Lobato; o caipira apático denunciava o abandono do homem rural, sendo depois reinterpretado como vítima da doença e da falta de política pública."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-31",
+   "frente": "Qual é a importância de Augusto dos Anjos?",
+   "verso": "Poeta de transição cuja obra une vocabulário científico e temática da morte e da decomposição, sem se enquadrar em escola alguma."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-32",
+   "frente": "Como Machado de Assis trata o tema da escravidão em sua obra?",
+   "verso": "De modo indireto e irônico, revelando a naturalização da violência pela elite e a lógica do favor que organizava a sociedade."
+  },
+  {
+   "id": "flash-literatura-realismo-naturalismo-33",
+   "frente": "O que é o 'realismo do favor' apontado pela crítica na obra machadiana?",
+   "verso": "A dependência pessoal que estruturava as relações no Brasil escravista, em que o liberalismo importado convivia com o clientelismo."
+  }
+ ],
+ "literatura-colonial-romantismo": [
+  {
+   "id": "flash-literatura-colonial-romantismo-01",
+   "frente": "O que foi o Quinhentismo?",
+   "verso": "A produção literária do século XVI no Brasil, de caráter informativo e catequético, escrita por europeus sobre a terra recém-encontrada."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-02",
+   "frente": "Qual é a importância da Carta de Pero Vaz de Caminha?",
+   "verso": "É o documento inaugural da literatura de informação sobre o Brasil, com descrição idealizada da terra e dos indígenas."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-03",
+   "frente": "Quem foi o principal autor da literatura jesuítica?",
+   "verso": "Padre José de Anchieta, que escreveu poemas e autos com finalidade catequética."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-04",
+   "frente": "Qual é o contexto histórico do Barroco?",
+   "verso": "A crise religiosa entre Reforma e Contrarreforma, que produz o homem dividido entre o pecado e a fé, entre o corpo e o espírito."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-05",
+   "frente": "O que é o dualismo barroco?",
+   "verso": "A tensão entre opostos — céu e terra, carne e espírito, efêmero e eterno — que estrutura a visão de mundo do período."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-06",
+   "frente": "Quais são as duas vertentes do Barroco?",
+   "verso": "O cultismo (jogo de palavras, imagens sensoriais, rebuscamento) e o conceptismo (jogo de ideias, raciocínio lógico e argumentação)."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-07",
+   "frente": "Quem foi Gregório de Matos, e por que é chamado 'Boca do Inferno'?",
+   "verso": "O principal poeta barroco brasileiro; o apelido vem de sua poesia satírica, que atacava a sociedade baiana da época."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-08",
+   "frente": "Quais são as vertentes da poesia de Gregório de Matos?",
+   "verso": "Lírica amorosa, religiosa e satírica — a mesma pena que se arrepende também ridiculariza a Bahia colonial."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-09",
+   "frente": "Quem foi Padre Antônio Vieira?",
+   "verso": "O maior representante do conceptismo em língua portuguesa, autor de sermões que defendem os indígenas e criticam a colonização."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-10",
+   "frente": "Qual é o contexto do Arcadismo?",
+   "verso": "O Iluminismo do século XVIII, com valorização da razão, da simplicidade e da natureza contra o rebuscamento barroco."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-11",
+   "frente": "O que significam os lemas 'fugere urbem' e 'carpe diem'?",
+   "verso": "'Fugir da cidade' em busca da vida simples no campo, e 'aproveitar o dia' diante da brevidade da vida."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-12",
+   "frente": "O que é o 'inutilia truncat' árcade?",
+   "verso": "'Cortar o inútil' — o princípio de simplicidade formal que rejeita o excesso barroco."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-13",
+   "frente": "O que é o bucolismo e o pastoralismo árcade?",
+   "verso": "A idealização da vida campestre, com o poeta assumindo a persona de um pastor sob pseudônimo."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-14",
+   "frente": "Quem foi Tomás Antônio Gonzaga, e qual sua obra principal?",
+   "verso": "Poeta árcade, autor de 'Marília de Dirceu', em que o eu lírico Dirceu canta o amor pela pastora Marília."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-15",
+   "frente": "Qual é a relação entre o Arcadismo mineiro e a Inconfidência?",
+   "verso": "Vários poetas árcades, como Gonzaga e Cláudio Manuel da Costa, participaram da conspiração e foram punidos por ela."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-16",
+   "frente": "Que gênero Basílio da Gama e Santa Rita Durão cultivaram?",
+   "verso": "A poesia épica de temática indianista, em 'O Uraguai' e 'Caramuru'."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-17",
+   "frente": "Qual é o marco inicial do Romantismo no Brasil?",
+   "verso": "A publicação de 'Suspiros Poéticos e Saudades', de Gonçalves de Magalhães, em 1836."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-18",
+   "frente": "Que relação há entre Romantismo e independência política?",
+   "verso": "O movimento serviu ao projeto de construção de uma identidade nacional após 1822, buscando um passado e um herói brasileiros."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-19",
+   "frente": "Quais são as três gerações da poesia romântica brasileira?",
+   "verso": "A indianista/nacionalista, a ultrarromântica (mal do século) e a condoreira (social)."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-20",
+   "frente": "O que caracteriza a primeira geração romântica?",
+   "verso": "O indianismo e o nacionalismo ufanista, com o indígena idealizado como herói nacional — Gonçalves Dias é seu maior nome."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-21",
+   "frente": "Por que 'Canção do Exílio' é o poema-síntese do nacionalismo romântico?",
+   "verso": "Porque constrói a pátria pela saudade e pela comparação idealizada entre o Brasil e o estrangeiro."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-22",
+   "frente": "O que caracteriza a segunda geração romântica (ultrarromantismo)?",
+   "verso": "O pessimismo, a morbidez, o egocentrismo, a fuga da realidade e a idealização inatingível da mulher — o 'mal do século' byroniano."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-23",
+   "frente": "Quem foi Álvares de Azevedo, e qual sua obra principal?",
+   "verso": "O maior nome do ultrarromantismo, autor de 'Lira dos Vinte Anos', marcada pela dualidade entre o amor idealizado e o desejo."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-24",
+   "frente": "O que caracteriza a terceira geração romântica (condoreirismo)?",
+   "verso": "O engajamento social, sobretudo abolicionista e liberal, com estilo grandiloquente e imagens de amplitude — o condor como símbolo."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-25",
+   "frente": "Quem foi Castro Alves, e por que é chamado 'poeta dos escravos'?",
+   "verso": "O maior poeta condoreiro, autor de 'O Navio Negreiro', que denuncia a violência do tráfico transatlântico."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-26",
+   "frente": "Quais são as vertentes do romance romântico brasileiro?",
+   "verso": "Indianista, regionalista, urbano e histórico."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-27",
+   "frente": "Que projeto José de Alencar realizou com sua obra romanesca?",
+   "verso": "Retratar o Brasil em todas as suas faces — indígena, rural, urbana e histórica — construindo uma literatura nacional."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-28",
+   "frente": "O que caracteriza 'Iracema', de Alencar?",
+   "verso": "A alegoria da fundação do Brasil pela união entre a indígena Iracema e o colonizador Martim, com prosa poética e linguagem metafórica."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-29",
+   "frente": "Como Alencar retrata a mulher em 'Senhora'?",
+   "verso": "Aurélia inverte a lógica do casamento por interesse ao 'comprar' o marido, expondo criticamente a mercantilização das relações."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-30",
+   "frente": "O que caracteriza o romance urbano romântico?",
+   "verso": "Retrata a sociedade da Corte, com enredos amorosos, casamento por interesse e crítica de costumes."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-31",
+   "frente": "Quem foi Manuel Antônio de Almeida, e qual é a singularidade de sua obra?",
+   "verso": "Autor de 'Memórias de um Sargento de Milícias', romance sem herói idealizado, com humor e retrato de costumes populares — antecipa o Realismo."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-32",
+   "frente": "O que é o indianismo, e qual sua principal limitação?",
+   "verso": "A idealização do indígena como herói nacional; sua limitação é moldá-lo por valores cavalheirescos europeus, apagando a cultura real."
+  },
+  {
+   "id": "flash-literatura-colonial-romantismo-33",
+   "frente": "Como o Romantismo idealiza a figura feminina?",
+   "verso": "Como ser angelical, puro e inatingível, frequentemente associado à morte e à impossibilidade da realização amorosa."
+  }
+ ],
+ "literatura-modernismo": [
+  {
+   "id": "flash-literatura-modernismo-01",
+   "frente": "Qual foi o marco inicial do Modernismo brasileiro?",
+   "verso": "A Semana de Arte Moderna, realizada no Teatro Municipal de São Paulo em fevereiro de 1922."
+  },
+  {
+   "id": "flash-literatura-modernismo-02",
+   "frente": "Que contexto histórico cerca a Semana de 22?",
+   "verso": "O centenário da Independência, a industrialização paulista, a imigração e a chegada das vanguardas europeias ao Brasil."
+  },
+  {
+   "id": "flash-literatura-modernismo-03",
+   "frente": "Quais vanguardas europeias influenciaram o Modernismo brasileiro?",
+   "verso": "Futurismo, Cubismo, Expressionismo, Dadaísmo e Surrealismo."
+  },
+  {
+   "id": "flash-literatura-modernismo-04",
+   "frente": "Quais foram os objetivos centrais da Semana de 22?",
+   "verso": "Romper com o academicismo, atualizar a arte brasileira e buscar uma expressão nacional autêntica."
+  },
+  {
+   "id": "flash-literatura-modernismo-05",
+   "frente": "Que artistas se destacaram na Semana de 22?",
+   "verso": "Mário de Andrade, Oswald de Andrade, Anita Malfatti, Villa-Lobos, Di Cavalcanti e Menotti del Picchia."
+  },
+  {
+   "id": "flash-literatura-modernismo-06",
+   "frente": "Como se dividem as fases do Modernismo brasileiro?",
+   "verso": "Primeira (1922-1930), heroica e destruidora; segunda (1930-1945), de consolidação e romance social; terceira (a partir de 1945), de rigor formal."
+  },
+  {
+   "id": "flash-literatura-modernismo-07",
+   "frente": "O que caracteriza a primeira fase modernista?",
+   "verso": "O experimentalismo radical, o humor, o verso livre, a linguagem coloquial e a ruptura iconoclasta com o passado."
+  },
+  {
+   "id": "flash-literatura-modernismo-08",
+   "frente": "O que propunha o Manifesto Pau-Brasil?",
+   "verso": "Uma poesia de exportação, que valorizasse o que é brasileiro com olhar novo, sintética e livre do rebuscamento importado."
+  },
+  {
+   "id": "flash-literatura-modernismo-09",
+   "frente": "O que propõe o Manifesto Antropofágico?",
+   "verso": "Devorar criticamente a cultura estrangeira e transformá-la em algo próprio — 'Tupi or not tupi, that is the question'."
+  },
+  {
+   "id": "flash-literatura-modernismo-10",
+   "frente": "Qual é a importância de 'Macunaíma', de Mário de Andrade?",
+   "verso": "É a rapsódia que reúne lendas, falares e culturas de todo o país para compor o 'herói sem nenhum caráter' como síntese do brasileiro."
+  },
+  {
+   "id": "flash-literatura-modernismo-11",
+   "frente": "O que significa Macunaíma ser 'um herói sem nenhum caráter'?",
+   "verso": "Não tem caráter no sentido moral nem de identidade fixa — é a alegoria de um povo em formação, feito de contradições."
+  },
+  {
+   "id": "flash-literatura-modernismo-12",
+   "frente": "O que foi o projeto de pesquisa da língua brasileira de Mário de Andrade?",
+   "verso": "Registrar e incorporar à literatura a fala real do brasileiro, rompendo com a norma lusitana das gramáticas."
+  },
+  {
+   "id": "flash-literatura-modernismo-13",
+   "frente": "O que caracteriza a poesia de Oswald de Andrade?",
+   "verso": "O poema-piada, a concisão radical, a montagem cinematográfica e a apropriação irônica de documentos históricos."
+  },
+  {
+   "id": "flash-literatura-modernismo-14",
+   "frente": "Quem foi Manuel Bandeira, e o que caracteriza sua poesia?",
+   "verso": "Poeta que uniu lirismo e coloquialidade, com temas do cotidiano, da infância e da morte — 'Vou-me embora pra Pasárgada'."
+  },
+  {
+   "id": "flash-literatura-modernismo-15",
+   "frente": "O que caracteriza a segunda fase modernista na prosa?",
+   "verso": "O romance social e regionalista, que denuncia a seca, o latifúndio, a miséria e as tensões sociais do Nordeste."
+  },
+  {
+   "id": "flash-literatura-modernismo-16",
+   "frente": "Qual é a importância de 'Vidas Secas', de Graciliano Ramos?",
+   "verso": "Retrata a família de retirantes com linguagem seca e concisa, dando dimensão humana à experiência da miséria e da incomunicabilidade."
+  },
+  {
+   "id": "flash-literatura-modernismo-17",
+   "frente": "Por que a cachorra Baleia tem capítulo próprio em 'Vidas Secas'?",
+   "verso": "Porque o romance aproxima homem e animal na mesma condição de despojamento — Baleia por vezes parece mais humana que os donos."
+  },
+  {
+   "id": "flash-literatura-modernismo-18",
+   "frente": "O que caracteriza o estilo de Graciliano Ramos?",
+   "verso": "A economia extrema, a precisão vocabular e a recusa do ornamento, em coerência com a matéria que trata."
+  },
+  {
+   "id": "flash-literatura-modernismo-19",
+   "frente": "Quem foi José Lins do Rego, e qual seu ciclo temático?",
+   "verso": "Autor do 'ciclo da cana-de-açúcar', que retrata a decadência dos engenhos nordestinos e da sociedade patriarcal."
+  },
+  {
+   "id": "flash-literatura-modernismo-20",
+   "frente": "O que caracteriza a obra de Jorge Amado?",
+   "verso": "O retrato da Bahia, a valorização da cultura afro-brasileira, a sensualidade e a denúncia social, com forte apelo popular."
+  },
+  {
+   "id": "flash-literatura-modernismo-21",
+   "frente": "Qual é a importância de Rachel de Queiroz?",
+   "verso": "Autora de 'O Quinze', que inaugura o romance de 30 com o relato da seca de 1915 sob perspectiva feminina."
+  },
+  {
+   "id": "flash-literatura-modernismo-22",
+   "frente": "O que caracteriza a poesia de Carlos Drummond de Andrade?",
+   "verso": "A ironia, o sentimento do mundo, a reflexão sobre o eu e a coletividade, e a consciência do fazer poético."
+  },
+  {
+   "id": "flash-literatura-modernismo-23",
+   "frente": "O que expressa o verso 'No meio do caminho tinha uma pedra'?",
+   "verso": "O obstáculo inescapável e a repetição obsessiva como forma; o poema causou escândalo por sua aparente banalidade."
+  },
+  {
+   "id": "flash-literatura-modernismo-24",
+   "frente": "O que é o 'gauche' na poesia de Drummond?",
+   "verso": "A figura do desajustado, do que anda torto no mundo — presente já em 'Poema de Sete Faces'."
+  },
+  {
+   "id": "flash-literatura-modernismo-25",
+   "frente": "Quem foi Cecília Meireles, e o que caracteriza sua obra?",
+   "verso": "Poeta de lirismo introspectivo e musical, com temas de transitoriedade e efemeridade; autora de 'Romanceiro da Inconfidência'."
+  },
+  {
+   "id": "flash-literatura-modernismo-26",
+   "frente": "O que caracteriza a terceira fase modernista (Geração de 45)?",
+   "verso": "A reação ao experimentalismo dos anos 20, com retorno ao rigor formal e à disciplina construtiva."
+  },
+  {
+   "id": "flash-literatura-modernismo-27",
+   "frente": "O que caracteriza a poesia de João Cabral de Melo Neto?",
+   "verso": "A objetividade, o rigor construtivo, a recusa do sentimentalismo e a metalinguagem — é 'o poeta engenheiro'."
+  },
+  {
+   "id": "flash-literatura-modernismo-28",
+   "frente": "O que é 'Morte e Vida Severina'?",
+   "verso": "O auto de Natal pernambucano de João Cabral que acompanha a migração de Severino do sertão ao litoral, denunciando a morte severina."
+  },
+  {
+   "id": "flash-literatura-modernismo-29",
+   "frente": "O que foi o Concretismo?",
+   "verso": "O movimento de vanguarda dos anos 1950 que explorou a dimensão visual e espacial do poema, rompendo com o verso tradicional."
+  },
+  {
+   "id": "flash-literatura-modernismo-30",
+   "frente": "Qual é a importância de Vinicius de Moraes?",
+   "verso": "Transitou do soneto tradicional à poesia social e à canção popular, sendo figura-chave na fundação da Bossa Nova."
+  },
+  {
+   "id": "flash-literatura-modernismo-31",
+   "frente": "Como o Modernismo tratou a questão da identidade nacional?",
+   "verso": "Substituiu a idealização romântica pela investigação crítica: o Brasil deixa de ser exaltado e passa a ser examinado em suas contradições."
+  },
+  {
+   "id": "flash-literatura-modernismo-32",
+   "frente": "Qual foi a contribuição de Anita Malfatti ao Modernismo?",
+   "verso": "Sua exposição de 1917, atacada por Monteiro Lobato, tornou-se o estopim da mobilização que levaria à Semana de 22."
+  },
+  {
+   "id": "flash-literatura-modernismo-33",
+   "frente": "Qual é a importância de Tarsila do Amaral para o Modernismo?",
+   "verso": "Suas telas 'Abaporu' e 'Antropofagia' deram forma visual ao movimento antropofágico."
+  }
+ ],
+ "literatura-teoria-analise": [
+  {
+   "id": "flash-literatura-teoria-analise-01",
+   "frente": "Quais são os três gêneros literários clássicos?",
+   "verso": "Épico (ou narrativo), lírico e dramático."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-02",
+   "frente": "O que caracteriza o gênero lírico?",
+   "verso": "A expressão subjetiva de sentimentos e percepções por um eu lírico, geralmente em verso."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-03",
+   "frente": "O que caracteriza o gênero épico ou narrativo?",
+   "verso": "O relato de acontecimentos por um narrador, com personagens em ação num tempo e espaço."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-04",
+   "frente": "O que caracteriza o gênero dramático?",
+   "verso": "O texto escrito para encenação, construído por diálogos e rubricas, sem mediação de narrador."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-05",
+   "frente": "O que é o eu lírico?",
+   "verso": "A voz que se expressa no poema, construção do texto que não se confunde com o autor real."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-06",
+   "frente": "O que é um verso?",
+   "verso": "Cada linha de um poema."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-07",
+   "frente": "O que é uma estrofe?",
+   "verso": "O conjunto de versos separado dos demais por espaçamento."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-08",
+   "frente": "O que é métrica, e o que é escansão?",
+   "verso": "Métrica é a medida dos versos em sílabas poéticas; escansão é a operação de contá-las."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-09",
+   "frente": "Como se contam as sílabas poéticas?",
+   "verso": "Contam-se apenas até a última sílaba tônica do verso, unindo vogais vizinhas em sinalefa."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-10",
+   "frente": "O que é um verso decassílabo?",
+   "verso": "O que tem dez sílabas poéticas — metro clássico do soneto camoniano e da épica."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-11",
+   "frente": "O que é uma redondilha maior e uma menor?",
+   "verso": "A maior tem sete sílabas poéticas; a menor, cinco — metros ligados à tradição popular e à trova."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-12",
+   "frente": "O que é verso livre?",
+   "verso": "O que não obedece a metro fixo, característico da poesia moderna."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-13",
+   "frente": "O que é verso branco?",
+   "verso": "O que tem metro regular mas não apresenta rima."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-14",
+   "frente": "O que é rima, e como se classifica quanto à posição?",
+   "verso": "A coincidência sonora no fim dos versos; pode ser emparelhada (AABB), alternada (ABAB) ou interpolada (ABBA)."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-15",
+   "frente": "Qual é a diferença entre rima rica e rima pobre?",
+   "verso": "A rica une palavras de classes gramaticais diferentes; a pobre, de mesma classe."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-16",
+   "frente": "O que é um soneto?",
+   "verso": "O poema de forma fixa com catorze versos, distribuídos em dois quartetos e dois tercetos."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-17",
+   "frente": "O que é enjambement (cavalgamento)?",
+   "verso": "A continuação do sentido de um verso no seguinte, sem pausa ao fim do primeiro."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-18",
+   "frente": "O que é aliteração, e que efeito produz?",
+   "verso": "A repetição de sons consonantais próximos, que cria efeito rítmico ou imitativo."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-19",
+   "frente": "O que é o ritmo num poema?",
+   "verso": "A alternância de sílabas fortes e fracas que organiza a musicalidade do verso."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-20",
+   "frente": "Quais são os elementos da narrativa?",
+   "verso": "Enredo, personagens, narrador, tempo, espaço e ambiente."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-21",
+   "frente": "Quais são as partes do enredo tradicional?",
+   "verso": "Apresentação, complicação, clímax e desfecho."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-22",
+   "frente": "O que é o conflito numa narrativa?",
+   "verso": "A tensão que move o enredo, opondo a personagem a outra, ao meio ou a si mesma."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-23",
+   "frente": "Qual é a diferença entre personagem plana e redonda?",
+   "verso": "A plana é definida por poucos traços fixos; a redonda é complexa, contraditória e capaz de mudar ao longo da narrativa."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-24",
+   "frente": "O que é o protagonista e o antagonista?",
+   "verso": "O protagonista é o centro da ação; o antagonista é a força que a ele se opõe."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-25",
+   "frente": "Qual é a diferença entre tempo cronológico e psicológico?",
+   "verso": "O cronológico segue a sucessão objetiva dos fatos; o psicológico segue a percepção subjetiva da personagem, com saltos e dilatações."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-26",
+   "frente": "O que é o flashback (analepse)?",
+   "verso": "O recuo narrativo a um acontecimento anterior ao ponto em que a história se encontra."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-27",
+   "frente": "Qual é a diferença entre espaço e ambiente?",
+   "verso": "O espaço é o lugar físico; o ambiente é a atmosfera psicológica e social que o envolve."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-28",
+   "frente": "Qual é a diferença entre conto, novela e romance?",
+   "verso": "O conto tem ação única e concentrada; a novela é intermediária, com ações encadeadas; o romance é extenso, com várias tramas e personagens."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-29",
+   "frente": "O que é o clímax de uma narrativa?",
+   "verso": "O ponto de máxima tensão, em que o conflito atinge seu auge antes do desfecho."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-30",
+   "frente": "O que é intertextualidade?",
+   "verso": "O diálogo entre textos, por citação, alusão, paródia, paráfrase ou epígrafe."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-31",
+   "frente": "O que é metalinguagem na literatura?",
+   "verso": "O texto que reflete sobre a própria linguagem ou sobre o ato de escrever."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-32",
+   "frente": "O que é estilo de época, e o que é estilo individual?",
+   "verso": "O estilo de época reúne traços comuns a uma geração; o individual é o modo próprio de cada autor dentro dela."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-33",
+   "frente": "Por que a divisão em escolas literárias deve ser usada com cautela?",
+   "verso": "Porque é uma construção didática posterior: autores extrapolam os rótulos e obras de transição não se encaixam em nenhum deles."
+  },
+  {
+   "id": "flash-literatura-teoria-analise-34",
+   "frente": "O que é a função poética da linguagem?",
+   "verso": "Aquela centrada na própria mensagem, em que a forma como se diz é parte essencial do que se diz."
+  }
+ ],
+ "literatura-contemporanea": [
+  {
+   "id": "flash-literatura-contemporanea-01",
+   "frente": "O que caracteriza a literatura brasileira contemporânea?",
+   "verso": "A pluralidade de vozes e formas, a fragmentação narrativa, a metalinguagem e a entrada de sujeitos antes excluídos do cânone."
+  },
+  {
+   "id": "flash-literatura-contemporanea-02",
+   "frente": "O que caracteriza a prosa de Clarice Lispector?",
+   "verso": "A introspecção, o fluxo de consciência, a epifania e a busca pelo sentido da existência em situações banais."
+  },
+  {
+   "id": "flash-literatura-contemporanea-03",
+   "frente": "O que é a epifania na obra de Clarice Lispector?",
+   "verso": "O instante de revelação súbita em que a personagem percebe algo essencial sobre si ou sobre o mundo, a partir de um evento comum."
+  },
+  {
+   "id": "flash-literatura-contemporanea-04",
+   "frente": "Qual é a singularidade de 'A Hora da Estrela'?",
+   "verso": "Um narrador masculino, Rodrigo S.M., conta a história de Macabéa e reflete sobre a própria impossibilidade de narrá-la."
+  },
+  {
+   "id": "flash-literatura-contemporanea-05",
+   "frente": "Quem é Macabéa, e o que ela representa?",
+   "verso": "A nordestina migrante, pobre e invisível no Rio de Janeiro; representa os que existem sem lugar no discurso e na sociedade."
+  },
+  {
+   "id": "flash-literatura-contemporanea-06",
+   "frente": "O que caracteriza a linguagem de Guimarães Rosa?",
+   "verso": "A invenção vocabular, os neologismos, o aproveitamento da fala sertaneja e a sintaxe reinventada."
+  },
+  {
+   "id": "flash-literatura-contemporanea-07",
+   "frente": "Qual é a estrutura narrativa de 'Grande Sertão: Veredas'?",
+   "verso": "Um monólogo de Riobaldo dirigido a um interlocutor silencioso, sem divisão em capítulos, misturando memória e reflexão."
+  },
+  {
+   "id": "flash-literatura-contemporanea-08",
+   "frente": "Quais são os dois grandes enigmas de 'Grande Sertão: Veredas'?",
+   "verso": "Se o pacto com o diabo realmente aconteceu, e a natureza do amor de Riobaldo por Diadorim."
+  },
+  {
+   "id": "flash-literatura-contemporanea-09",
+   "frente": "O que a frase 'o sertão é do tamanho do mundo' expressa?",
+   "verso": "A dimensão universal e metafísica do sertão em Guimarães Rosa: ele é espaço geográfico e condição existencial."
+  },
+  {
+   "id": "flash-literatura-contemporanea-10",
+   "frente": "O que caracteriza a obra de Carolina Maria de Jesus?",
+   "verso": "O relato em primeira pessoa da favela por quem a vive; 'Quarto de Despejo' é diário de uma catadora, sem mediação de intelectual externo."
+  },
+  {
+   "id": "flash-literatura-contemporanea-11",
+   "frente": "Por que 'Quarto de Despejo' é um marco?",
+   "verso": "Porque inverte o lugar de fala: a favela deixa de ser objeto de estudo e passa a ser narrada por quem a habita."
+  },
+  {
+   "id": "flash-literatura-contemporanea-12",
+   "frente": "O que é 'escrevivência', conceito de Conceição Evaristo?",
+   "verso": "A escrita que parte da experiência vivida do sujeito negro, sobretudo da mulher negra, recusando a neutralidade do olhar externo."
+  },
+  {
+   "id": "flash-literatura-contemporanea-13",
+   "frente": "O que caracteriza a literatura marginal ou periférica?",
+   "verso": "É produzida por autores das periferias urbanas, que narram a própria realidade, frequentemente fora dos circuitos editoriais tradicionais."
+  },
+  {
+   "id": "flash-literatura-contemporanea-14",
+   "frente": "Quem escreveu 'Cidade de Deus', e o que a obra retrata?",
+   "verso": "Paulo Lins; retrata a formação e a violência de uma favela carioca ao longo de três décadas, com linguagem próxima da oralidade local."
+  },
+  {
+   "id": "flash-literatura-contemporanea-15",
+   "frente": "O que caracteriza a obra de Ferréz?",
+   "verso": "A literatura marginal paulistana, com 'Capão Pecado', que narra o cotidiano da periferia sem romantização nem exotismo."
+  },
+  {
+   "id": "flash-literatura-contemporanea-16",
+   "frente": "O que caracteriza a obra de Rubem Fonseca?",
+   "verso": "A violência urbana, a linguagem seca e direta, o conto brutalista e o retrato cruel das relações na cidade grande."
+  },
+  {
+   "id": "flash-literatura-contemporanea-17",
+   "frente": "O que caracteriza a obra de Caio Fernando Abreu?",
+   "verso": "A solidão urbana, a afetividade fragmentada, a experiência da geração dos anos 1970-80 e a temática da AIDS."
+  },
+  {
+   "id": "flash-literatura-contemporanea-18",
+   "frente": "Quem é Milton Hatoum, e o que caracteriza sua obra?",
+   "verso": "Autor de 'Dois Irmãos' e 'Relato de um Certo Oriente'; narra a Amazônia urbana e a experiência da imigração libanesa em Manaus."
+  },
+  {
+   "id": "flash-literatura-contemporanea-19",
+   "frente": "O que caracteriza 'Torto Arado', de Itamar Vieira Junior?",
+   "verso": "Narra a vida de trabalhadores em condição análoga à escravidão no oeste baiano, articulando questão agrária, ancestralidade e religiosidade."
+  },
+  {
+   "id": "flash-literatura-contemporanea-20",
+   "frente": "Qual é a estrutura narrativa de 'Torto Arado'?",
+   "verso": "Três partes com narradoras distintas — Bibiana, Belonísia e a entidade Santa Rita Pescadeira — que recontam a mesma história por perspectivas diferentes."
+  },
+  {
+   "id": "flash-literatura-contemporanea-21",
+   "frente": "O que caracteriza a obra de Hilda Hilst?",
+   "verso": "A radicalidade formal, a fusão entre o erótico e o metafísico e a recusa às convenções de gênero literário."
+  },
+  {
+   "id": "flash-literatura-contemporanea-22",
+   "frente": "O que caracteriza a literatura indígena contemporânea?",
+   "verso": "A autoria indígena assumindo a própria narrativa, com Daniel Munduruku e Ailton Krenak articulando cosmologia, oralidade e crítica ambiental."
+  },
+  {
+   "id": "flash-literatura-contemporanea-23",
+   "frente": "Qual é a proposta de Ailton Krenak em 'Ideias para Adiar o Fim do Mundo'?",
+   "verso": "Criticar a ideia de humanidade separada da natureza e propor outras formas de habitar o planeta, a partir do pensamento indígena."
+  },
+  {
+   "id": "flash-literatura-contemporanea-24",
+   "frente": "O que caracteriza a produção de Chico Buarque como romancista?",
+   "verso": "A memória, a identidade instável e a metalinguagem, em obras como 'Budapeste' e 'Leite Derramado'."
+  },
+  {
+   "id": "flash-literatura-contemporanea-25",
+   "frente": "O que é a autoficção?",
+   "verso": "O gênero que borra a fronteira entre autobiografia e ficção, em que o autor se apresenta como personagem sem compromisso com a verdade factual."
+  },
+  {
+   "id": "flash-literatura-contemporanea-26",
+   "frente": "O que caracteriza a poesia marginal dos anos 1970?",
+   "verso": "A produção mimeografada e distribuída à margem do mercado, com linguagem coloquial e humor — Ana Cristina Cesar e Paulo Leminski são referências."
+  },
+  {
+   "id": "flash-literatura-contemporanea-27",
+   "frente": "O que caracteriza a obra de Paulo Leminski?",
+   "verso": "A síntese, a influência do haicai, o jogo de palavras e a fusão entre alta cultura e cultura popular."
+  },
+  {
+   "id": "flash-literatura-contemporanea-28",
+   "frente": "Qual é o traço comum das novas vozes na literatura brasileira do século XXI?",
+   "verso": "A ampliação do cânone por autores negros, indígenas, periféricos e LGBTQIA+, que trazem experiências antes ausentes."
+  },
+  {
+   "id": "flash-literatura-contemporanea-29",
+   "frente": "O que caracteriza a narrativa fragmentada contemporânea?",
+   "verso": "A recusa da linearidade, o uso de múltiplas perspectivas e a incorporação de outros suportes e linguagens ao texto."
+  },
+  {
+   "id": "flash-literatura-contemporanea-30",
+   "frente": "Como a literatura contemporânea trata a cidade?",
+   "verso": "Como espaço de violência, solidão e desigualdade, muito distante da idealização urbana das gerações anteriores."
+  },
+  {
+   "id": "flash-literatura-contemporanea-31",
+   "frente": "O que caracteriza a obra de Lygia Fagundes Telles?",
+   "verso": "A investigação psicológica feminina, o clima de mistério e a atmosfera de decadência; 'As Meninas' retrata jovens sob a ditadura militar."
+  },
+  {
+   "id": "flash-literatura-contemporanea-32",
+   "frente": "Qual é a importância de Manuel Bandeira e Drummond para a literatura contemporânea?",
+   "verso": "Consolidaram a liberdade formal e a linguagem coloquial que os autores contemporâneos herdam como ponto de partida."
+  },
+  {
+   "id": "flash-literatura-contemporanea-33",
+   "frente": "O que distingue a literatura contemporânea do Modernismo quanto ao projeto?",
+   "verso": "O Modernismo tinha projeto coletivo de identidade nacional; a contemporânea é plural e desconfia de qualquer síntese única do Brasil."
+  }
+ ],
+ "ingles-inference": [
+  {
+   "id": "flash-ingles-inference-01",
+   "frente": "O que uma questão de 'inference' pede?",
+   "verso": "Uma conclusão que o texto SUSTENTA mas não afirma literalmente."
+  },
+  {
+   "id": "flash-ingles-inference-02",
+   "frente": "Como reconhecer uma questão de inferência pelo enunciado?",
+   "verso": "Por expressões como 'can be inferred', 'implies', 'suggests', 'most likely' e 'the author would probably agree'."
+  },
+  {
+   "id": "flash-ingles-inference-03",
+   "frente": "Qual é o principal erro numa questão de inferência?",
+   "verso": "Extrapolar — concluir mais do que o texto autoriza, apoiando-se em conhecimento externo."
+  },
+  {
+   "id": "flash-ingles-inference-04",
+   "frente": "Como testar se uma inferência é válida?",
+   "verso": "Perguntar qual trecho específico do texto a sustenta; sem âncora textual, é extrapolação."
+  },
+  {
+   "id": "flash-ingles-inference-05",
+   "frente": "Por que a alternativa que repete literalmente o texto erra numa questão de inferência?",
+   "verso": "Porque a questão pede o que se deduz, não o que está escrito — paráfrase literal não é inferência."
+  },
+  {
+   "id": "flash-ingles-inference-06",
+   "frente": "Por que alternativas com 'always', 'never' e 'all' costumam estar erradas?",
+   "verso": "Porque textos raramente autorizam generalizações absolutas; basta uma ressalva no texto para invalidá-las."
+  },
+  {
+   "id": "flash-ingles-inference-07",
+   "frente": "O que significa 'it can be inferred from the passage that'?",
+   "verso": "'Pode-se inferir do texto que' — pede a conclusão implícita autorizada pelo texto."
+  },
+  {
+   "id": "flash-ingles-inference-08",
+   "frente": "O que significa 'most likely' numa alternativa?",
+   "verso": "'Muito provavelmente' — sinaliza que a resposta é a mais plausível à luz do texto, não uma certeza absoluta."
+  },
+  {
+   "id": "flash-ingles-inference-09",
+   "frente": "Como se infere a atitude do autor em relação ao assunto?",
+   "verso": "Pelos adjetivos avaliativos, pelos verbos de relato e pelo que ele escolhe destacar ou omitir."
+  },
+  {
+   "id": "flash-ingles-inference-10",
+   "frente": "Que diferença de atitude há entre 'the study claims' e 'the study shows'?",
+   "verso": "'Claims' sinaliza reserva do autor quanto à validade; 'shows' sinaliza adesão ao resultado."
+  },
+  {
+   "id": "flash-ingles-inference-11",
+   "frente": "Que atitude o verbo 'to admit' sinaliza numa citação?",
+   "verso": "Que o falante reconhece algo desfavorável a si — sugere concessão sob pressão."
+  },
+  {
+   "id": "flash-ingles-inference-12",
+   "frente": "O que revelam os modais 'may', 'might' e 'could' num texto acadêmico?",
+   "verso": "Cautela do autor: indicam possibilidade, não certeza, e sinalizam que a conclusão é provisória."
+  },
+  {
+   "id": "flash-ingles-inference-13",
+   "frente": "O que o modal 'must' indica ao expressar dedução?",
+   "verso": "Alta certeza baseada em evidência: 'He must be tired' significa 'ele deve estar cansado' por dedução, não por obrigação."
+  },
+  {
+   "id": "flash-ingles-inference-14",
+   "frente": "O que as aspas em torno de um termo podem sinalizar?",
+   "verso": "Distanciamento crítico do autor, que não assume aquela designação como sua."
+  },
+  {
+   "id": "flash-ingles-inference-15",
+   "frente": "Como se reconhece ironia num texto em inglês?",
+   "verso": "Pelo descompasso entre o enunciado e a situação descrita, além de exagero e contraste deliberado."
+  },
+  {
+   "id": "flash-ingles-inference-16",
+   "frente": "O que a expressão 'so-called' sinaliza?",
+   "verso": "'Assim chamado' — indica que o autor questiona a adequação do termo empregado."
+  },
+  {
+   "id": "flash-ingles-inference-17",
+   "frente": "O que significa 'reading between the lines'?",
+   "verso": "'Ler nas entrelinhas' — captar o sentido implícito, não declarado explicitamente."
+  },
+  {
+   "id": "flash-ingles-inference-18",
+   "frente": "Como se infere a relação entre duas ideias sem conectivo explícito?",
+   "verso": "Pelo conteúdo: verifica-se se a segunda acrescenta, contrapõe, exemplifica ou explica a primeira."
+  },
+  {
+   "id": "flash-ingles-inference-19",
+   "frente": "O que significa 'the author implies that'?",
+   "verso": "'O autor dá a entender que' — pede o sentido sugerido, não o afirmado."
+  },
+  {
+   "id": "flash-ingles-inference-20",
+   "frente": "Que cuidado se deve ter com a palavra 'however' ao inferir?",
+   "verso": "Ela anuncia contraste: o que vem depois costuma ser a posição do autor, e o que vem antes, a visão que ele relativiza."
+  },
+  {
+   "id": "flash-ingles-inference-21",
+   "frente": "Como se infere o significado de uma atitude descrita por linguagem corporal num texto narrativo?",
+   "verso": "Pelo contexto emocional da cena: gestos e expressões funcionam como pistas do estado da personagem."
+  },
+  {
+   "id": "flash-ingles-inference-22",
+   "frente": "O que se pode inferir quando o autor dedica mais espaço a um dos lados de um debate?",
+   "verso": "Que provavelmente é o lado com o qual ele tem maior afinidade, ainda que não o declare."
+  },
+  {
+   "id": "flash-ingles-inference-23",
+   "frente": "O que se infere de uma estatística apresentada sem base de comparação?",
+   "verso": "Que ela pode estar sendo usada retoricamente; o leitor deve desconfiar da conclusão que ela sustenta."
+  },
+  {
+   "id": "flash-ingles-inference-24",
+   "frente": "Como se infere o propósito de uma citação num texto?",
+   "verso": "Verificando se ela é apresentada para sustentar a tese do autor ou para ser refutada em seguida."
+  },
+  {
+   "id": "flash-ingles-inference-25",
+   "frente": "O que significa 'the passage provides support for which of the following'?",
+   "verso": "Pergunta qual afirmação encontra respaldo no texto — é questão de inferência sustentada."
+  },
+  {
+   "id": "flash-ingles-inference-26",
+   "frente": "Qual é a diferença entre inferir e opinar numa prova?",
+   "verso": "Inferir é reconstruir o que o texto autoriza; opinar é acrescentar posição própria, o que a questão não pede."
+  },
+  {
+   "id": "flash-ingles-inference-27",
+   "frente": "Por que a resposta correta de inferência costuma ser a mais 'modesta'?",
+   "verso": "Porque a inferência válida dá apenas um passo além do texto — alternativas ousadas costumam extrapolar."
+  },
+  {
+   "id": "flash-ingles-inference-28",
+   "frente": "O que se pode inferir de um texto que apresenta um problema sem propor solução?",
+   "verso": "Que o propósito é conscientizar ou denunciar, não instruir sobre como agir."
+  },
+  {
+   "id": "flash-ingles-inference-29",
+   "frente": "Como se infere a época ou o contexto de um texto sem data explícita?",
+   "verso": "Por referências tecnológicas, eventos citados, vocabulário e convenções sociais mencionadas."
+  },
+  {
+   "id": "flash-ingles-inference-30",
+   "frente": "Que pista o uso de 'used to' oferece sobre o presente?",
+   "verso": "Indica hábito que já NÃO ocorre mais — permite inferir uma mudança entre passado e presente."
+  },
+  {
+   "id": "flash-ingles-inference-31",
+   "frente": "O que se infere quando o autor usa perguntas retóricas?",
+   "verso": "Que ele conduz o leitor a uma conclusão sem afirmá-la, criando adesão por cumplicidade."
+  },
+  {
+   "id": "flash-ingles-inference-32",
+   "frente": "Como um título irônico afeta a inferência sobre o texto?",
+   "verso": "Pode antecipar posição oposta à literal, exigindo que o leitor releia o título após terminar o texto."
+  },
+  {
+   "id": "flash-ingles-inference-33",
+   "frente": "O que fazer quando duas alternativas de inferência parecem plausíveis?",
+   "verso": "Escolher a que tem âncora textual mais direta; a outra provavelmente depende de premissa externa."
+  }
+ ],
+ "ingles-grammar-structure": [
+  {
+   "id": "flash-ingles-grammar-structure-01",
+   "frente": "Quando se usa o simple present?",
+   "verso": "Para fatos permanentes, verdades gerais e hábitos: 'Water boils at 100 °C.'"
+  },
+  {
+   "id": "flash-ingles-grammar-structure-02",
+   "frente": "Quando se usa o present continuous?",
+   "verso": "Para ações em curso no momento da fala ou situações temporárias: 'She is studying now.'"
+  },
+  {
+   "id": "flash-ingles-grammar-structure-03",
+   "frente": "Quando se usa o simple past?",
+   "verso": "Para ações concluídas em momento definido do passado: 'He arrived yesterday.'"
+  },
+  {
+   "id": "flash-ingles-grammar-structure-04",
+   "frente": "Quando se usa o present perfect?",
+   "verso": "Para ações passadas com relevância no presente, ou que continuam até agora: 'I have lived here for ten years.'"
+  },
+  {
+   "id": "flash-ingles-grammar-structure-05",
+   "frente": "Qual é a diferença entre simple past e present perfect?",
+   "verso": "O simple past exige tempo definido e encerrado; o present perfect liga o passado ao presente e não admite tempo específico."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-06",
+   "frente": "Qual é a diferença entre 'for' e 'since' no present perfect?",
+   "verso": "'For' indica duração ('for five years'); 'since' indica ponto de início ('since 2010')."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-07",
+   "frente": "Quando se usa o past perfect?",
+   "verso": "Para a ação anterior a outra já passada: 'When I arrived, he had already left.'"
+  },
+  {
+   "id": "flash-ingles-grammar-structure-08",
+   "frente": "Como se forma a voz passiva em inglês?",
+   "verso": "Com o verbo 'to be' no tempo desejado mais o particípio passado: 'The book was written by him.'"
+  },
+  {
+   "id": "flash-ingles-grammar-structure-09",
+   "frente": "Por que a voz passiva é frequente em textos científicos?",
+   "verso": "Porque desloca o foco do agente para o processo ou resultado, dando impessoalidade ao relato."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-10",
+   "frente": "Como se identifica a voz passiva num texto?",
+   "verso": "Pela presença de 'be' + particípio, frequentemente seguido de 'by' indicando o agente."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-11",
+   "frente": "O que expressa o first conditional?",
+   "verso": "Condição real e provável no futuro: 'If it rains, we will stay home.'"
+  },
+  {
+   "id": "flash-ingles-grammar-structure-12",
+   "frente": "O que expressa o second conditional?",
+   "verso": "Situação hipotética e improvável no presente: 'If I had money, I would travel.'"
+  },
+  {
+   "id": "flash-ingles-grammar-structure-13",
+   "frente": "O que expressa o third conditional?",
+   "verso": "Situação hipotética no passado, já impossível de mudar: 'If I had studied, I would have passed.'"
+  },
+  {
+   "id": "flash-ingles-grammar-structure-14",
+   "frente": "O que expressa o zero conditional?",
+   "verso": "Verdade geral ou relação de causa constante: 'If you heat ice, it melts.'"
+  },
+  {
+   "id": "flash-ingles-grammar-structure-15",
+   "frente": "O que os modais 'can', 'could' e 'be able to' expressam?",
+   "verso": "Habilidade ou possibilidade, com 'could' também servindo para pedidos formais e passado de habilidade."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-16",
+   "frente": "Qual é a diferença entre 'must' e 'have to'?",
+   "verso": "'Must' expressa obrigação vinda do próprio falante; 'have to', obrigação externa imposta pelas circunstâncias."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-17",
+   "frente": "O que 'should' expressa?",
+   "verso": "Conselho ou recomendação: 'You should see a doctor.'"
+  },
+  {
+   "id": "flash-ingles-grammar-structure-18",
+   "frente": "O que significa 'mustn't' em contraste com 'don't have to'?",
+   "verso": "'Mustn't' é proibição; 'don't have to' é ausência de obrigação — sentidos opostos."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-19",
+   "frente": "O que é reported speech?",
+   "verso": "O discurso indireto: a fala relatada sofre recuo de tempo verbal e ajuste de pronomes e advérbios."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-20",
+   "frente": "Que mudança de tempo verbal ocorre no reported speech?",
+   "verso": "O verbo recua um tempo: present vira past, past vira past perfect, 'will' vira 'would'."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-21",
+   "frente": "Que relação o conectivo 'however' estabelece?",
+   "verso": "Contraste ou oposição, equivalendo a 'no entanto'."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-22",
+   "frente": "Que relação o conectivo 'therefore' estabelece?",
+   "verso": "Conclusão ou consequência, equivalendo a 'portanto'."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-23",
+   "frente": "Que relação o conectivo 'nevertheless' estabelece?",
+   "verso": "Concessão com contraste forte, equivalendo a 'não obstante', 'ainda assim'."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-24",
+   "frente": "Que relação o conectivo 'moreover' estabelece?",
+   "verso": "Adição, equivalendo a 'além disso'."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-25",
+   "frente": "Que relação 'although' e 'despite' estabelecem, e como diferem na estrutura?",
+   "verso": "Ambos indicam concessão; 'although' introduz oração com sujeito e verbo, 'despite' introduz substantivo ou gerúndio."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-26",
+   "frente": "Que relação o conectivo 'whereas' estabelece?",
+   "verso": "Contraste entre duas situações paralelas, equivalendo a 'enquanto que'."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-27",
+   "frente": "Que relação 'in order to' estabelece?",
+   "verso": "Finalidade, equivalendo a 'a fim de'."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-28",
+   "frente": "O que 'in fact' e 'indeed' sinalizam?",
+   "verso": "Reforço ou confirmação enfática do que foi dito antes."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-29",
+   "frente": "Quando se usa 'which' e quando se usa 'who' como pronome relativo?",
+   "verso": "'Who' para pessoas; 'which' para coisas e animais; 'that' serve para ambos em orações restritivas."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-30",
+   "frente": "Qual é a diferença entre defining e non-defining relative clause?",
+   "verso": "A defining delimita o antecedente e não leva vírgula; a non-defining acrescenta informação acessória e vem entre vírgulas."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-31",
+   "frente": "Por que 'that' não pode ser usado em non-defining relative clauses?",
+   "verso": "Porque essa estrutura exige 'which' ou 'who'; 'that' só aparece em orações restritivas."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-32",
+   "frente": "Quando se usa o artigo 'the'?",
+   "verso": "Diante de substantivo determinado, já conhecido ou único no contexto."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-33",
+   "frente": "Quando NÃO se usa artigo em inglês?",
+   "verso": "Diante de substantivos incontáveis ou plurais em sentido genérico: 'Water is essential', 'Dogs are loyal'."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-34",
+   "frente": "Qual é a diferença entre 'a' e 'an'?",
+   "verso": "'An' precede som de vogal ('an hour'), 'a' precede som de consoante ('a university') — o critério é o SOM, não a letra."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-35",
+   "frente": "Qual é a diferença entre 'few' e 'a few'?",
+   "verso": "'Few' tem sentido negativo (poucos, quase nenhum); 'a few' tem sentido positivo (alguns, o suficiente)."
+  },
+  {
+   "id": "flash-ingles-grammar-structure-36",
+   "frente": "Qual é a diferença entre 'much', 'many' e 'a lot of'?",
+   "verso": "'Much' para incontáveis, 'many' para contáveis, 'a lot of' para ambos em contextos informais."
+  }
+ ],
+ "ingles-main-idea": [
+  {
+   "id": "flash-ingles-main-idea-01",
+   "frente": "O que uma questão de 'main idea' pede?",
+   "verso": "A ideia que percorre o texto INTEIRO, não o detalhe mais chamativo nem o assunto de um único parágrafo."
+  },
+  {
+   "id": "flash-ingles-main-idea-02",
+   "frente": "Como reconhecer uma questão de main idea pelo enunciado?",
+   "verso": "Por expressões como 'main idea', 'mainly about', 'best title', 'primary purpose' e 'overall message'."
+  },
+  {
+   "id": "flash-ingles-main-idea-03",
+   "frente": "Qual é a estratégia mais eficiente para achar a ideia central sem traduzir tudo?",
+   "verso": "Ler o título, a primeira e a última frase de cada parágrafo — a tese costuma estar nesse esqueleto."
+  },
+  {
+   "id": "flash-ingles-main-idea-04",
+   "frente": "Onde a tese costuma aparecer num texto jornalístico em inglês?",
+   "verso": "No fim do primeiro parágrafo ou no início do segundo, após o gancho de abertura."
+  },
+  {
+   "id": "flash-ingles-main-idea-05",
+   "frente": "Por que a alternativa 'too narrow' está errada numa questão de main idea?",
+   "verso": "Porque cobre só uma parte do texto — é verdadeira, mas insuficiente como ideia central."
+  },
+  {
+   "id": "flash-ingles-main-idea-06",
+   "frente": "Por que a alternativa 'too broad' está errada numa questão de main idea?",
+   "verso": "Porque extrapola o recorte do texto, abrangendo mais do que ele efetivamente discute."
+  },
+  {
+   "id": "flash-ingles-main-idea-07",
+   "frente": "O que significa 'the passage is mainly concerned with'?",
+   "verso": "'O texto trata principalmente de' — é uma formulação de questão de ideia central."
+  },
+  {
+   "id": "flash-ingles-main-idea-08",
+   "frente": "O que a expressão 'the author's primary purpose' pergunta?",
+   "verso": "Qual é a intenção principal do autor: informar, persuadir, criticar, comparar ou entreter."
+  },
+  {
+   "id": "flash-ingles-main-idea-09",
+   "frente": "Que verbos costumam descrever o propósito do autor nas alternativas?",
+   "verso": "To inform, to persuade, to criticize, to describe, to compare, to warn, to entertain."
+  },
+  {
+   "id": "flash-ingles-main-idea-10",
+   "frente": "Como distinguir 'to inform' de 'to persuade' num texto?",
+   "verso": "Se predominam dados e relato neutro, é informar; se há adjetivos avaliativos e defesa de posição, é persuadir."
+  },
+  {
+   "id": "flash-ingles-main-idea-11",
+   "frente": "O que é o topic sentence de um parágrafo em inglês?",
+   "verso": "A frase que enuncia a ideia central daquele parágrafo, geralmente a primeira."
+  },
+  {
+   "id": "flash-ingles-main-idea-12",
+   "frente": "Como o título ajuda a antecipar a ideia central?",
+   "verso": "Costuma condensar o tema e, muitas vezes, já sinalizar o posicionamento do autor."
+  },
+  {
+   "id": "flash-ingles-main-idea-13",
+   "frente": "Que erro se comete ao escolher o 'best title' numa prova?",
+   "verso": "Escolher o título que reproduz uma frase de efeito do texto em vez do que abrange o conjunto."
+  },
+  {
+   "id": "flash-ingles-main-idea-14",
+   "frente": "O que significa 'which of the following best summarizes the text'?",
+   "verso": "'Qual das seguintes melhor resume o texto' — pede a síntese que preserve a hierarquia das ideias."
+  },
+  {
+   "id": "flash-ingles-main-idea-15",
+   "frente": "Como se identifica o tom geral (overall tone) de um texto?",
+   "verso": "Pelos adjetivos, advérbios e verbos de avaliação escolhidos pelo autor ao longo do texto."
+  },
+  {
+   "id": "flash-ingles-main-idea-16",
+   "frente": "O que significa um tom 'critical'?",
+   "verso": "Crítico: o autor aponta falhas ou problemas naquilo que descreve."
+  },
+  {
+   "id": "flash-ingles-main-idea-17",
+   "frente": "O que significa um tom 'skeptical'?",
+   "verso": "Cético: o autor manifesta dúvida quanto às afirmações ou promessas relatadas."
+  },
+  {
+   "id": "flash-ingles-main-idea-18",
+   "frente": "O que significa um tom 'objective' ou 'neutral'?",
+   "verso": "O autor relata sem tomar partido, predominando dados e descrição factual."
+  },
+  {
+   "id": "flash-ingles-main-idea-19",
+   "frente": "O que significa um tom 'optimistic' e 'pessimistic'?",
+   "verso": "Otimista prevê desfecho favorável; pessimista antecipa dificuldades ou fracasso."
+  },
+  {
+   "id": "flash-ingles-main-idea-20",
+   "frente": "Por que ler a pergunta ANTES do texto ajuda em provas de inglês?",
+   "verso": "Porque orienta a leitura para o que se procura, evitando tradução integral desnecessária."
+  },
+  {
+   "id": "flash-ingles-main-idea-21",
+   "frente": "O que é skimming?",
+   "verso": "A leitura rápida para captar a ideia geral, sem se deter em cada palavra."
+  },
+  {
+   "id": "flash-ingles-main-idea-22",
+   "frente": "O que é scanning?",
+   "verso": "A varredura em busca de uma informação específica — número, nome, data — sem ler o texto inteiro."
+  },
+  {
+   "id": "flash-ingles-main-idea-23",
+   "frente": "Quando usar skimming e quando usar scanning?",
+   "verso": "Skimming para questões de ideia central e propósito; scanning para questões de detalhe específico."
+  },
+  {
+   "id": "flash-ingles-main-idea-24",
+   "frente": "Por que não é necessário conhecer todas as palavras para acertar main idea?",
+   "verso": "Porque a ideia central se sustenta na estrutura e na repetição temática, recuperáveis mesmo com lacunas de vocabulário."
+  },
+  {
+   "id": "flash-ingles-main-idea-25",
+   "frente": "O que indica a repetição de um mesmo campo semântico ao longo do texto?",
+   "verso": "Que aquele é o tema central — a recorrência é o indício mais confiável da ideia principal."
+  },
+  {
+   "id": "flash-ingles-main-idea-26",
+   "frente": "Que função tem o último parágrafo num texto argumentativo em inglês?",
+   "verso": "Retomar a tese, apresentar a conclusão ou apontar implicações futuras."
+  },
+  {
+   "id": "flash-ingles-main-idea-27",
+   "frente": "O que significa 'the text suggests that the author would agree with'?",
+   "verso": "Pergunta com qual afirmação o autor concordaria, exigindo a compreensão de sua posição geral."
+  },
+  {
+   "id": "flash-ingles-main-idea-28",
+   "frente": "Como um subtítulo (subheading) ajuda na leitura?",
+   "verso": "Antecipa o conteúdo de cada seção, permitindo localizar rapidamente onde está cada informação."
+  },
+  {
+   "id": "flash-ingles-main-idea-29",
+   "frente": "O que é o lead de uma notícia em inglês?",
+   "verso": "O primeiro parágrafo, que responde who, what, when, where, why e how."
+  },
+  {
+   "id": "flash-ingles-main-idea-30",
+   "frente": "Por que a estrutura da pirâmide invertida ajuda na leitura de notícias?",
+   "verso": "Porque concentra o essencial no início — ler o lead já entrega a ideia central."
+  },
+  {
+   "id": "flash-ingles-main-idea-31",
+   "frente": "Como identificar o público-alvo (target audience) de um texto em inglês?",
+   "verso": "Pelo vocabulário técnico ou acessível, pelos exemplos escolhidos e pelo veículo em que circula."
+  },
+  {
+   "id": "flash-ingles-main-idea-32",
+   "frente": "Que pista o gênero textual dá sobre o propósito?",
+   "verso": "Um editorial persuade, uma notícia informa, um anúncio vende, um manual instrui — o gênero antecipa a intenção."
+  },
+  {
+   "id": "flash-ingles-main-idea-33",
+   "frente": "Qual é o risco de responder main idea pelo conhecimento prévio do assunto?",
+   "verso": "Escolher o que é verdadeiro no mundo em vez do que aquele texto específico defende."
+  }
+ ],
+ "ingles-detail": [
+  {
+   "id": "flash-ingles-detail-01",
+   "frente": "O que uma questão de 'specific detail' pede?",
+   "verso": "Uma informação explicitamente presente no texto, localizável por leitura atenta."
+  },
+  {
+   "id": "flash-ingles-detail-02",
+   "frente": "Como reconhecer uma questão de detalhe pelo enunciado?",
+   "verso": "Por expressões como 'according to the text', 'the passage states', 'which of the following is mentioned'."
+  },
+  {
+   "id": "flash-ingles-detail-03",
+   "frente": "Qual é a estratégia correta para questões de detalhe?",
+   "verso": "Usar scanning: localizar no texto o trecho referente e comparar palavra a palavra com as alternativas."
+  },
+  {
+   "id": "flash-ingles-detail-04",
+   "frente": "Por que não se deve responder questão de detalhe de memória?",
+   "verso": "Porque a alternativa errada costuma alterar um único elemento — número, sujeito ou negação — imperceptível sem a conferência."
+  },
+  {
+   "id": "flash-ingles-detail-05",
+   "frente": "O que significa 'according to the author'?",
+   "verso": "'De acordo com o autor' — pede o que ele efetivamente afirmou, não o que seria razoável pensar."
+  },
+  {
+   "id": "flash-ingles-detail-06",
+   "frente": "Que cuidado exige uma questão com 'EXCEPT'?",
+   "verso": "Ela pede a alternativa FALSA ou não mencionada — três alternativas estarão corretas, e a resposta é a que destoa."
+  },
+  {
+   "id": "flash-ingles-detail-07",
+   "frente": "Como abordar uma questão com 'EXCEPT' de forma segura?",
+   "verso": "Marcar no texto cada alternativa confirmada; a que sobrar sem confirmação é a resposta."
+  },
+  {
+   "id": "flash-ingles-detail-08",
+   "frente": "Que outras formulações funcionam como 'EXCEPT'?",
+   "verso": "'Which of the following is NOT mentioned', 'All of the following are true EXCEPT', 'is LEAST likely'."
+  },
+  {
+   "id": "flash-ingles-detail-09",
+   "frente": "O que significa 'which of the following is true according to the passage'?",
+   "verso": "Pede a única alternativa que o texto confirma — as demais contradizem ou não constam."
+  },
+  {
+   "id": "flash-ingles-detail-10",
+   "frente": "Como se identifica uma alternativa que 'contradicts the text'?",
+   "verso": "Ela inverte alguma informação: troca aumento por queda, causa por consequência, ou nega o que foi afirmado."
+  },
+  {
+   "id": "flash-ingles-detail-11",
+   "frente": "Qual é a armadilha da alternativa 'not mentioned'?",
+   "verso": "Pode ser verdadeira no mundo real e ainda assim errada, por não constar do texto."
+  },
+  {
+   "id": "flash-ingles-detail-12",
+   "frente": "O que fazer quando a alternativa parafraseia o texto com outras palavras?",
+   "verso": "Verificar se o SENTIDO se mantém; paráfrase correta é comum na resposta certa, justamente para evitar cópia literal."
+  },
+  {
+   "id": "flash-ingles-detail-13",
+   "frente": "Por que a resposta certa raramente repete as mesmas palavras do texto?",
+   "verso": "Porque as bancas parafraseiam para testar compreensão, e não reconhecimento visual de palavras."
+  },
+  {
+   "id": "flash-ingles-detail-14",
+   "frente": "O que significa 'in paragraph 3, the author states that'?",
+   "verso": "Delimita a busca a um parágrafo específico — a resposta está ali, não no texto todo."
+  },
+  {
+   "id": "flash-ingles-detail-15",
+   "frente": "Como localizar rapidamente um dado numérico num texto em inglês?",
+   "verso": "Por scanning visual de algarismos, símbolos de porcentagem e nomes próprios, que saltam na página."
+  },
+  {
+   "id": "flash-ingles-detail-16",
+   "frente": "O que significa 'the study found that'?",
+   "verso": "'O estudo constatou que' — introduz o resultado de uma pesquisa citada no texto."
+  },
+  {
+   "id": "flash-ingles-detail-17",
+   "frente": "Como distinguir a opinião do autor da de uma fonte citada?",
+   "verso": "Verificando quem é o sujeito do verbo dicendi: 'the researcher argues' atribui à fonte, não ao autor."
+  },
+  {
+   "id": "flash-ingles-detail-18",
+   "frente": "Qual é o cuidado ao responder sobre uma pessoa entrevistada no texto?",
+   "verso": "Atribuir a ela apenas o que está entre aspas ou introduzido por verbo de citação, sem misturar com a voz do autor."
+  },
+  {
+   "id": "flash-ingles-detail-19",
+   "frente": "O que significa 'the article suggests that the main cause was'?",
+   "verso": "Pede a causa apontada pelo próprio texto, não a causa mais provável segundo o conhecimento do leitor."
+  },
+  {
+   "id": "flash-ingles-detail-20",
+   "frente": "Como lidar com uma questão sobre sequência de eventos?",
+   "verso": "Localizar os marcadores temporais — first, then, later, finally, after, before — e ordenar por eles."
+  },
+  {
+   "id": "flash-ingles-detail-21",
+   "frente": "O que indicam os marcadores 'first', 'then', 'finally'?",
+   "verso": "A sequência ordenada de etapas ou eventos no texto."
+  },
+  {
+   "id": "flash-ingles-detail-22",
+   "frente": "Como identificar relação de causa numa questão de detalhe?",
+   "verso": "Por conectivos como 'because', 'due to', 'as a result of', 'owing to' e 'thanks to'."
+  },
+  {
+   "id": "flash-ingles-detail-23",
+   "frente": "O que significa 'as a result' num texto?",
+   "verso": "'Como resultado' — introduz a consequência do que foi dito antes."
+  },
+  {
+   "id": "flash-ingles-detail-24",
+   "frente": "Qual é a diferença entre 'because' e 'because of'?",
+   "verso": "'Because' introduz oração com sujeito e verbo; 'because of' introduz substantivo ou sintagma nominal."
+  },
+  {
+   "id": "flash-ingles-detail-25",
+   "frente": "O que significa 'according to the graph'?",
+   "verso": "Pede leitura direta do gráfico — eixos, unidades e período devem ser conferidos antes de responder."
+  },
+  {
+   "id": "flash-ingles-detail-26",
+   "frente": "Que cuidado exige a leitura de um gráfico em prova de inglês?",
+   "verso": "Conferir as unidades e o período do eixo: alternativas erradas costumam trocar milhões por bilhões ou inverter o intervalo."
+  },
+  {
+   "id": "flash-ingles-detail-27",
+   "frente": "O que significa 'the text mentions all of the following as benefits EXCEPT'?",
+   "verso": "Três alternativas são benefícios citados; a resposta é a que não aparece ou não é benefício segundo o texto."
+  },
+  {
+   "id": "flash-ingles-detail-28",
+   "frente": "Como confirmar um detalhe quando duas alternativas parecem corretas?",
+   "verso": "Voltar ao trecho exato e comparar termo a termo — uma delas terá um elemento alterado."
+  },
+  {
+   "id": "flash-ingles-detail-29",
+   "frente": "O que significa 'the passage indicates that'?",
+   "verso": "'O texto indica que' — pede informação presente no texto, ainda que reformulada."
+  },
+  {
+   "id": "flash-ingles-detail-30",
+   "frente": "Qual é o risco de traduzir todo o texto numa questão de detalhe?",
+   "verso": "Consumir tempo desnecessário: basta localizar o trecho pertinente e lê-lo com atenção."
+  },
+  {
+   "id": "flash-ingles-detail-31",
+   "frente": "Como usar palavras-chave da pergunta para localizar a resposta?",
+   "verso": "Procurando no texto o nome próprio, o número ou o termo técnico que aparece no enunciado."
+  },
+  {
+   "id": "flash-ingles-detail-32",
+   "frente": "O que fazer quando a palavra-chave do enunciado não aparece no texto?",
+   "verso": "Procurar sinônimos ou paráfrases — a banca costuma reformular justamente para exigir compreensão."
+  },
+  {
+   "id": "flash-ingles-detail-33",
+   "frente": "Por que questões de detalhe são as que mais custam ponto por pressa?",
+   "verso": "Porque a alternativa errada é quase idêntica à certa, e a leitura apressada não capta a diferença."
+  }
+ ],
+ "ingles-vocabulary": [
+  {
+   "id": "flash-ingles-vocabulary-01",
+   "frente": "O que uma questão de 'vocabulary in context' pede?",
+   "verso": "O sentido que a palavra assume NAQUELE contexto, que pode não ser sua acepção mais comum."
+  },
+  {
+   "id": "flash-ingles-vocabulary-02",
+   "frente": "Como se descobre o sentido de uma palavra desconhecida sem dicionário?",
+   "verso": "Pelo contexto: pela função sintática, pelos conectivos ao redor e pela relação com o restante da frase."
+  },
+  {
+   "id": "flash-ingles-vocabulary-03",
+   "frente": "Como um conectivo de oposição ajuda a inferir vocabulário?",
+   "verso": "Se há 'but' ou 'however', a palavra desconhecida provavelmente contrasta com a ideia anterior."
+  },
+  {
+   "id": "flash-ingles-vocabulary-04",
+   "frente": "Como um conectivo de adição ajuda a inferir vocabulário?",
+   "verso": "Se há 'and' ou 'moreover', a palavra desconhecida está na mesma direção da ideia anterior."
+  },
+  {
+   "id": "flash-ingles-vocabulary-05",
+   "frente": "O que é um cognato?",
+   "verso": "Palavra semelhante em inglês e português com o mesmo significado, como 'important' e 'importante'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-06",
+   "frente": "O que é um falso cognato?",
+   "verso": "Palavra parecida com uma do português mas de sentido diferente — a principal armadilha da prova."
+  },
+  {
+   "id": "flash-ingles-vocabulary-07",
+   "frente": "O que significa 'actually'?",
+   "verso": "'Na verdade', 'de fato' — NÃO significa 'atualmente', que se diz 'currently' ou 'nowadays'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-08",
+   "frente": "O que significa 'eventually'?",
+   "verso": "'Por fim', 'finalmente' — NÃO significa 'eventualmente', que se diz 'occasionally'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-09",
+   "frente": "O que significa 'pretend'?",
+   "verso": "'Fingir' — NÃO significa 'pretender', que se diz 'to intend'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-10",
+   "frente": "O que significa 'realize'?",
+   "verso": "'Perceber', 'dar-se conta' — NÃO significa 'realizar' no sentido de executar, que é 'to carry out'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-11",
+   "frente": "O que significa 'support'?",
+   "verso": "'Apoiar', 'sustentar' — NÃO significa 'suportar' no sentido de tolerar, que é 'to bear' ou 'to stand'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-12",
+   "frente": "O que significa 'parents'?",
+   "verso": "'Pais' (pai e mãe) — NÃO significa 'parentes', que se diz 'relatives'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-13",
+   "frente": "O que significa 'library'?",
+   "verso": "'Biblioteca' — NÃO significa 'livraria', que se diz 'bookstore'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-14",
+   "frente": "O que significa 'push'?",
+   "verso": "'Empurrar' — NÃO significa 'puxar', que se diz 'pull'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-15",
+   "frente": "O que significa 'costume'?",
+   "verso": "'Fantasia', 'traje' — NÃO significa 'costume', que se diz 'habit' ou 'custom'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-16",
+   "frente": "O que significa 'college'?",
+   "verso": "'Faculdade', 'universidade' — NÃO significa 'colégio', que se diz 'high school'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-17",
+   "frente": "O que significa 'exit'?",
+   "verso": "'Saída' — NÃO significa 'êxito', que se diz 'success'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-18",
+   "frente": "O que significa 'comprehensive'?",
+   "verso": "'Abrangente', 'completo' — NÃO significa 'compreensivo' no sentido de tolerante, que é 'understanding'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-19",
+   "frente": "O que significa 'sensible' e como difere de 'sensitive'?",
+   "verso": "'Sensible' é sensato, ajuizado; 'sensitive' é sensível, suscetível."
+  },
+  {
+   "id": "flash-ingles-vocabulary-20",
+   "frente": "O que significa 'to attend'?",
+   "verso": "'Comparecer a', 'frequentar' — NÃO significa 'atender', que se diz 'to answer' ou 'to serve'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-21",
+   "frente": "O que significa 'lecture'?",
+   "verso": "'Palestra', 'aula expositiva' — NÃO significa 'leitura', que se diz 'reading'."
+  },
+  {
+   "id": "flash-ingles-vocabulary-22",
+   "frente": "O que significa 'to require'?",
+   "verso": "'Exigir', 'necessitar' — NÃO significa 'requerer' no sentido burocrático de solicitar."
+  },
+  {
+   "id": "flash-ingles-vocabulary-23",
+   "frente": "O que se pede quando a questão traz 'closest in meaning to'?",
+   "verso": "O sinônimo mais próximo naquele contexto, entre as alternativas oferecidas."
+  },
+  {
+   "id": "flash-ingles-vocabulary-24",
+   "frente": "O que se pede quando a questão traz 'could be replaced by'?",
+   "verso": "A expressão que substituiria a original sem alterar o sentido da frase."
+  },
+  {
+   "id": "flash-ingles-vocabulary-25",
+   "frente": "Como se responde a uma questão de referência pronominal?",
+   "verso": "Localizando o substantivo anterior com que o pronome concorda em número e que faz sentido na substituição."
+  },
+  {
+   "id": "flash-ingles-vocabulary-26",
+   "frente": "O que fazer para confirmar o referente de um pronome em inglês?",
+   "verso": "Substituir o pronome pelo candidato na frase e verificar se o sentido e a concordância se mantêm."
+  },
+  {
+   "id": "flash-ingles-vocabulary-27",
+   "frente": "A que 'it' costuma se referir num texto?",
+   "verso": "A um substantivo singular não humano ou a uma ideia inteira mencionada antes."
+  },
+  {
+   "id": "flash-ingles-vocabulary-28",
+   "frente": "A que 'they' pode se referir além de pessoas?",
+   "verso": "A qualquer substantivo plural, inclusive coisas e conceitos, e a um sujeito de gênero não especificado."
+  },
+  {
+   "id": "flash-ingles-vocabulary-29",
+   "frente": "O que significa o prefixo 'un-' numa palavra em inglês?",
+   "verso": "Negação ou reversão: 'unhappy' (infeliz), 'unlock' (destrancar)."
+  },
+  {
+   "id": "flash-ingles-vocabulary-30",
+   "frente": "O que significam os prefixos 'mis-' e 'over-'?",
+   "verso": "'Mis-' indica erro ('misunderstand'); 'over-' indica excesso ('overestimate')."
+  },
+  {
+   "id": "flash-ingles-vocabulary-31",
+   "frente": "O que o sufixo '-less' indica?",
+   "verso": "Ausência: 'homeless' (sem-teto), 'useless' (inútil)."
+  },
+  {
+   "id": "flash-ingles-vocabulary-32",
+   "frente": "O que o sufixo '-ful' indica?",
+   "verso": "Abundância ou posse da qualidade: 'useful' (útil), 'powerful' (poderoso)."
+  },
+  {
+   "id": "flash-ingles-vocabulary-33",
+   "frente": "Como o sufixo ajuda a identificar a classe gramatical de uma palavra?",
+   "verso": "'-tion' e '-ment' indicam substantivo; '-ous' e '-ful', adjetivo; '-ly', advérbio; '-ize', verbo."
+  },
+  {
+   "id": "flash-ingles-vocabulary-34",
+   "frente": "O que é um phrasal verb?",
+   "verso": "Um verbo combinado com preposição ou advérbio cujo sentido não decorre da soma das partes, como 'give up' (desistir)."
+  },
+  {
+   "id": "flash-ingles-vocabulary-35",
+   "frente": "Por que phrasal verbs são difíceis de deduzir pelo contexto?",
+   "verso": "Porque o sentido é idiomático: 'look after' (cuidar) não decorre de 'look' nem de 'after'."
+  }
+ ],
  "matematica-geometria": [
   {
    "id": "flash-matematica-geometria-01",

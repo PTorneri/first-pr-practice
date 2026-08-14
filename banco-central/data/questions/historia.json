@@ -7098,6 +7098,374 @@
    "explicacao": "Entre 1751 e 1825, o volume de escravizados trazidos ao Brasil cresceu continuamente, impulsionado pela expansão da economia açucareira, mineira e cafeeira, enquanto na América do Norte o fluxo oscilou, refletindo fatores como o processo de Independência dos Estados Unidos (1776) e as mudanças na demanda por mão de obra ligadas à industrialização inglesa.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-historia-205",
+   "texto_apoio": "Atribui-se a Luís XIV a frase \"O Estado sou eu\". Em Versalhes, o rei concentrou a nobreza em torno de si, controlou a etiqueta da corte e reduziu a autonomia dos grandes senhores.",
+   "enunciado": "A prática política descrita corresponde ao absolutismo monárquico, cuja característica central era:",
+   "alternativas": {
+    "a": "a divisão do poder entre o rei e assembleias eleitas pelos súditos de cada província do reino",
+    "b": "a concentração dos poderes na figura do rei, sem instância capaz de limitá-lo",
+    "c": "a submissão do monarca às decisões tomadas pelos conselhos das cidades livres",
+    "d": "a eleição do soberano por um colégio formado pelos representantes da nobreza",
+    "e": "a alternância periódica no comando do reino entre as principais famílias nobres"
+   },
+   "resposta": "b",
+   "explicacao": "No absolutismo o rei acumula as funções de legislar, julgar e administrar, e não responde a nenhuma instância superior. Versalhes materializa isso: transformar a nobreza em cortesã dependente de favores retirou dela a base regional de poder que ameaçava a Coroa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-206",
+   "texto_apoio": "Bossuet sustentou que o poder do rei provinha diretamente de Deus, enquanto Hobbes argumentou que os súditos transferiam sua liberdade ao soberano para escapar da guerra de todos contra todos.",
+   "enunciado": "A comparação entre os dois autores mostra que ambos justificavam o absolutismo, mas:",
+   "alternativas": {
+    "a": "os dois partiam da mesma origem divina, divergindo apenas quanto ao nome do soberano",
+    "b": "Hobbes defendia a limitação do poder real por um parlamento eleito periodicamente",
+    "c": "Bossuet recusava a monarquia e defendia o governo direto exercido pela nobreza",
+    "d": "Bossuet recorria à vontade divina e Hobbes, a um acordo racional entre os homens",
+    "e": "nenhum dos dois admitia a existência de um poder soberano acima dos indivíduos"
+   },
+   "resposta": "d",
+   "explicacao": "Bossuet é teocrático: o rei governa porque Deus assim quis, e resistir é pecado. Hobbes é laico e contratualista: o poder absoluto se justifica pelo cálculo de quem prefere a segurança ao caos. A mesma conclusão política chega por dois caminhos incompatíveis.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-207",
+   "texto_apoio": "Os Estados europeus da Idade Moderna buscavam acumular metais preciosos, manter a balança comercial favorável e proteger a produção interna por meio de tarifas sobre produtos estrangeiros.",
+   "enunciado": "O conjunto de práticas descrito recebe o nome de:",
+   "alternativas": {
+    "a": "mercantilismo, política econômica dos Estados absolutistas modernos",
+    "b": "liberalismo econômico, baseado na livre concorrência entre os produtores",
+    "c": "autarquia, regime de autossuficiência econômica sem trocas com o exterior",
+    "d": "socialismo de Estado, com a produção planejada por órgãos governamentais",
+    "e": "fisiocracia, doutrina que apontava a terra como única fonte de riqueza real"
+   },
+   "resposta": "a",
+   "explicacao": "O mercantilismo parte da ideia de que a riqueza do mundo é fixa: o que um país ganha, outro perde. Daí o metalismo, o protecionismo e o monopólio comercial. O metalismo é sua face mais visível, e a doutrina financiou as grandes navegações. Ela só será desmontada no século XVIII, pela fisiocracia e depois por Adam Smith.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-208",
+   "texto_apoio": "Portugal foi o primeiro Estado europeu a lançar-se às grandes navegações, contando com centralização política precoce, posição atlântica privilegiada, experiência acumulada em pesca e apoio financeiro da burguesia mercantil de Lisboa.",
+   "enunciado": "O conjunto de fatores citado explica o chamado pioneirismo português, que se apoiava também em:",
+   "alternativas": {
+    "a": "sua condição de maior potência militar terrestre da Europa naquele período",
+    "b": "sua neutralidade nas disputas religiosas que dividiram o continente europeu",
+    "c": "inovações técnicas como a caravela, o astrolábio e a bússola aperfeiçoada",
+    "d": "sua vasta população, muito superior à dos demais reinos europeus da época",
+    "e": "seu domínio sobre as rotas terrestres que ligavam a Europa ao Extremo Oriente"
+   },
+   "resposta": "c",
+   "explicacao": "A caravela unia velocidade e capacidade de navegar contra o vento; astrolábio e bússola permitiam sair da navegação costeira. A vantagem portuguesa foi a combinação entre técnica, dinheiro mercantil e um Estado centralizado desde 1385, capaz de bancar a expansão marítima.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-209",
+   "texto_apoio": "Os pensadores do Renascimento cultural voltaram-se ao estudo dos autores da Antiguidade greco-romana e colocaram o ser humano no centro de suas investigações sobre o mundo.",
+   "enunciado": "Essa mudança de perspectiva em relação à mentalidade anterior é sintetizada pela noção de:",
+   "alternativas": {
+    "a": "teocentrismo, que subordina toda explicação do mundo à vontade divina revelada",
+    "b": "empirismo, método que fundamenta todo conhecimento na experiência sensível",
+    "c": "misticismo, atitude de busca da união direta entre o fiel e a divindade que ele venera",
+    "d": "obscurantismo, recusa deliberada de qualquer investigação de caráter racional",
+    "e": "antropocentrismo, que toma o ser humano como referência da investigação"
+   },
+   "resposta": "e",
+   "explicacao": "O antropocentrismo não elimina a religião: desloca o foco. O humanismo renascentista mantém a fé e passa a valorizar a razão, a experiência e a capacidade humana de criar. A anatomia, a perspectiva na pintura e o retrato individual são efeitos diretos dessa mudança.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-210",
+   "texto_apoio": "Ricos comerciantes e banqueiros italianos, como os Médici de Florença, financiaram artistas e sábios, encomendando obras e sustentando oficinas durante o Renascimento cultural.",
+   "enunciado": "Essa prática de patrocínio recebeu o nome de mecenato e tinha como função:",
+   "alternativas": {
+    "a": "distribuir a renda das oficinas entre todos os artesãos das cidades italianas",
+    "b": "conferir prestígio ao financiador e legitimar sua posição na sociedade urbana",
+    "c": "substituir a Igreja como única encomendante de obras religiosas na Europa",
+    "d": "impedir que a arte se afastasse dos temas prescritos pela tradição anterior",
+    "e": "financiar exclusivamente as expedições marítimas organizadas pelos reinos ibéricos"
+   },
+   "resposta": "b",
+   "explicacao": "O mecenato é investimento simbólico: encomendar uma capela ou um palácio traduz dinheiro em reputação e poder político. Isso explica por que o Renascimento floresce primeiro nas cidades italianas, onde a riqueza mercantil precisava de legitimidade social.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-211",
+   "texto_apoio": "Em 1517, Martinho Lutero divulgou 95 teses contra a venda de indulgências e defendeu que a salvação depende apenas da fé, sendo a Bíblia a única autoridade em matéria religiosa.",
+   "enunciado": "O movimento iniciado por esse gesto, a Reforma protestante, teve entre suas consequências:",
+   "alternativas": {
+    "a": "a unificação religiosa da Europa sob a autoridade única do papado romano",
+    "b": "o fim imediato de qualquer forma de conflito religioso no continente europeu",
+    "c": "a restauração do poder temporal da Igreja sobre os príncipes germânicos",
+    "d": "a fragmentação religiosa da Europa e o fortalecimento dos príncipes locais",
+    "e": "a proibição da tradução da Bíblia para as línguas faladas em cada região"
+   },
+   "resposta": "d",
+   "explicacao": "Ao romper o monopólio religioso de Roma, a Reforma permitiu que príncipes alemães confiscassem bens da Igreja e afirmassem sua autonomia. A tradução da Bíblia para o alemão, aliada à imprensa, difundiu as ideias em ritmo que a Igreja não conseguiu conter.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-212",
+   "texto_apoio": "João Calvino sustentava que Deus já havia determinado quem seria salvo, e que o êxito obtido no trabalho poderia ser interpretado como sinal dessa escolha divina.",
+   "enunciado": "A doutrina descrita é a da predestinação, e sua difusão é frequentemente associada:",
+   "alternativas": {
+    "a": "à aceitação do lucro e da poupança pelos grupos mercantis europeus",
+    "b": "ao abandono das atividades comerciais pelos fiéis das cidades reformadas",
+    "c": "à recusa do trabalho manual, considerado indigno pelos seguidores da doutrina",
+    "d": "à defesa da pobreza voluntária como único caminho legítimo para a salvação",
+    "e": "à submissão dos comerciantes às regras econômicas fixadas pelo papado romano"
+   },
+   "resposta": "a",
+   "explicacao": "Max Weber explorou essa relação: a doutrina não prega a busca do lucro, mas ao tratar o êxito profissional como sinal de graça e condenar o gasto ostensivo, favorece a reaplicação dos ganhos. A associação é de afinidade, e não de causa direta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-213",
+   "texto_apoio": "Reunido entre 1545 e 1563, o Concílio de Trento reafirmou os dogmas católicos, criou seminários para formar o clero, publicou o Índice de livros proibidos e reorganizou o tribunal do Santo Ofício.",
+   "enunciado": "O conjunto dessas medidas integra a Contrarreforma, cujo objetivo era:",
+   "alternativas": {
+    "a": "aproximar a doutrina católica das teses defendidas pelos reformadores protestantes",
+    "b": "transferir aos príncipes europeus a autoridade sobre as questões de fé",
+    "c": "conter o avanço protestante e reorganizar a Igreja Católica por dentro",
+    "d": "abolir a hierarquia eclesiástica e instituir o livre exame das Escrituras",
+    "e": "encerrar a atuação missionária da Igreja fora do território europeu"
+   },
+   "resposta": "c",
+   "explicacao": "Trento não negocia com a Reforma: reafirma os pontos negados pela Reforma e ao mesmo tempo corrige abusos que a alimentavam. A Companhia de Jesus completa a estratégia pela educação e pelas missões, levando o catolicismo à Ásia e à América.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-214",
+   "texto_apoio": "Os pensadores do século XVIII defendiam o uso da razão como instrumento de crítica às instituições, a liberdade individual, a tolerância religiosa e a igualdade perante a lei.",
+   "enunciado": "O movimento intelectual descrito é o Iluminismo, que se opunha frontalmente:",
+   "alternativas": {
+    "a": "ao humanismo renascentista e ao interesse pelos autores da Antiguidade greco-romana",
+    "b": "ao avanço das ciências experimentais desenvolvidas no século anterior",
+    "c": "à difusão da imprensa e à circulação de livros entre o público leitor",
+    "d": "à ampliação do comércio entre os países europeus e suas possessões",
+    "e": "ao absolutismo, aos privilégios de nascimento e à intolerância religiosa"
+   },
+   "resposta": "e",
+   "explicacao": "O Iluminismo ataca a estrutura do Antigo Regime: poder sem limite, sociedade de privilégios hereditários e verdade imposta pela autoridade religiosa. É por isso que suas ideias alimentam tanto a independência americana quanto a Revolução Francesa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-215",
+   "texto_apoio": "Em O Espírito das Leis, Montesquieu afirma que só o poder detém o poder, e propõe que as funções de legislar, executar e julgar sejam exercidas por órgãos distintos.",
+   "enunciado": "A proposta descrita ficou conhecida como:",
+   "alternativas": {
+    "a": "vontade geral, princípio segundo o qual a soberania pertence ao conjunto do povo",
+    "b": "separação dos poderes, com controle recíproco entre as três funções do Estado",
+    "c": "despotismo esclarecido, forma de governo que concilia poder absoluto e reformas",
+    "d": "direito divino dos reis, doutrina que fundamenta o poder na vontade de Deus",
+    "e": "sufrágio universal, extensão do direito de voto a todos os cidadãos adultos"
+   },
+   "resposta": "b",
+   "explicacao": "Montesquieu não busca eficiência, e sim freio: poderes separados se vigiam. O modelo é adotado pela Constituição norte-americana de 1787 e se torna referência das constituições liberais, inclusive das brasileiras.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-216",
+   "texto_apoio": "Rousseau sustenta que os homens, ao se associarem, submetem-se a uma vontade geral que não se confunde com a soma dos interesses particulares, e que a soberania pertence ao conjunto dos cidadãos.",
+   "enunciado": "Em relação ao pensamento de Hobbes, a formulação de Rousseau se distingue por:",
+   "alternativas": {
+    "a": "manter o poder soberano nas mãos de um monarca hereditário e irresponsável",
+    "b": "recusar a existência de qualquer forma de contrato entre os membros da sociedade civil",
+    "c": "atribuir a origem do poder político diretamente à vontade divina revelada",
+    "d": "manter a soberania com o povo, que não a transfere de modo definitivo ao governante",
+    "e": "defender que o estado de natureza seria uma guerra permanente entre os indivíduos"
+   },
+   "resposta": "d",
+   "explicacao": "Em Hobbes o pacto é de submissão: os súditos abrem mão da liberdade e não a retomam. Em Rousseau o povo permanece soberano, e o governo é apenas seu mandatário, destituível. Essa diferença é a raiz da ideia moderna de soberania popular.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-217",
+   "texto_apoio": "Em 1688, o Parlamento inglês depôs Jaime II e ofereceu a coroa a Guilherme de Orange, que aceitou a Declaração de Direitos limitando as prerrogativas reais.",
+   "enunciado": "O episódio, conhecido como Revolução Gloriosa, teve como resultado principal:",
+   "alternativas": {
+    "a": "a consolidação da monarquia parlamentar, com o rei submetido às leis do Parlamento",
+    "b": "a instauração de uma república permanente sob o comando do exército inglês",
+    "c": "o restabelecimento do poder absoluto do monarca sobre as instituições do reino",
+    "d": "a separação da Inglaterra em reinos independentes governados por assembleias locais",
+    "e": "a supressão do Parlamento e a concentração das funções legislativas na Coroa"
+   },
+   "resposta": "a",
+   "explicacao": "A Declaração de Direitos condiciona impostos e exército ao consentimento parlamentar. A Inglaterra sai do século XVII com o poder real limitado por lei, cerca de um século antes de a França fazer o mesmo por meio de uma revolução muito mais violenta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-218",
+   "texto_apoio": "Em 1789, diante da crise financeira, Luís XVI convocou os Estados Gerais. O Terceiro Estado, que reunia a maior parte da população, exigiu voto por cabeça em lugar do voto por ordem e proclamou-se Assembleia Nacional.",
+   "enunciado": "A exigência do Terceiro Estado se explica porque o voto por ordem:",
+   "alternativas": {
+    "a": "impedia a participação do clero e da nobreza nas decisões da assembleia convocada",
+    "b": "conferia ao rei o direito de decidir sozinho todas as matérias apresentadas",
+    "c": "garantia derrota permanente ao Terceiro Estado, vencido sempre por dois votos a um",
+    "d": "atribuía peso maior aos representantes das províncias mais distantes da capital do reino",
+    "e": "exigia unanimidade entre as três ordens para a aprovação de qualquer medida"
+   },
+   "resposta": "c",
+   "explicacao": "Cada ordem tinha um voto, então clero e nobreza sempre venciam por 2 a 1, mesmo representando pequena parcela da população. O voto por cabeça inverteria a lógica — e é por isso que a disputa aparentemente procedimental abriu a Revolução Francesa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-219",
+   "texto_apoio": "A Declaração dos Direitos do Homem e do Cidadão, de 1789, afirma que os homens nascem livres e iguais em direitos e que a soberania reside essencialmente na nação.",
+   "enunciado": "Uma limitação importante desse documento, no contexto da Revolução Francesa, foi:",
+   "alternativas": {
+    "a": "a recusa em reconhecer a propriedade privada como direito dos cidadãos franceses",
+    "b": "a manutenção dos privilégios de nascimento da nobreza, expressamente confirmados",
+    "c": "a submissão dos direitos declarados à autoridade religiosa da Igreja Católica",
+    "d": "a exclusão dos proprietários de terras do conjunto dos cidadãos reconhecidos",
+    "e": "a exclusão das mulheres e da população cativa da igualdade que ele proclamava"
+   },
+   "resposta": "e",
+   "explicacao": "A universalidade do texto não se traduziu em prática: mulheres ficaram sem direitos políticos, e o regime de cativeiro seguiu nas possessões francesas do Caribe. Olympe de Gouges respondeu com a Declaração dos Direitos da Mulher e da Cidadã, e foi guilhotinada em 1793.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-220",
+   "texto_apoio": "Napoleão Bonaparte promulgou um código que consolidou a igualdade jurídica e a propriedade privada, e decretou o fechamento dos portos europeus aos produtos britânicos.",
+   "enunciado": "As duas medidas citadas são, respectivamente:",
+   "alternativas": {
+    "a": "a Declaração de Direitos e o monopólio comercial imposto às possessões americanas do reino",
+    "b": "o Código Civil e o Bloqueio Continental, este voltado a enfraquecer a Inglaterra",
+    "c": "as Leis de Trento e a paz assinada com as potências do continente europeu",
+    "d": "o Ato de Navegação e a abertura dos portos ao comércio de todas as nações",
+    "e": "a Constituição do Ano I e a criação de um mercado comum entre os países aliados"
+   },
+   "resposta": "b",
+   "explicacao": "O Código Civil consolidou conquistas burguesas da Revolução e foi exportado pela Europa afora. O Bloqueio Continental buscava sufocar economicamente a Inglaterra, e sua exigência de adesão levou à invasão de Portugal — o que empurrou a corte portuguesa para o Brasil em 1808.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-221",
+   "texto_apoio": "As treze colônias inglesas da América do Norte declararam independência em 1776, invocando o direito dos governados de alterar ou abolir governos que se tornassem destrutivos de seus fins.",
+   "enunciado": "A justificativa apresentada no documento revela a influência direta:",
+   "alternativas": {
+    "a": "da doutrina do direito divino dos reis, formulada por Bossuet no século anterior",
+    "b": "do mercantilismo, que defendia o monopólio comercial entre metrópole e possessões",
+    "c": "da escolástica medieval, que subordinava a política à autoridade da tradição",
+    "d": "do Iluminismo, especialmente do direito de resistência formulado por Locke",
+    "e": "do absolutismo francês, tomado como modelo de organização do novo Estado"
+   },
+   "resposta": "d",
+   "explicacao": "Locke sustenta que o poder é confiado sob condição: violados os direitos naturais, a resistência é legítima. Jefferson praticamente parafraseia essa tese na Declaração de 1776, que se torna a primeira aplicação política concreta do Iluminismo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-222",
+   "texto_apoio": "A Revolução Industrial teve início na Inglaterra na segunda metade do século XVIII, onde se combinavam acúmulo de capitais do comércio, disponibilidade de carvão e ferro, e grande contingente de trabalhadores expulsos do campo pelos cercamentos.",
+   "enunciado": "O papel dos cercamentos nesse processo consistiu em:",
+   "alternativas": {
+    "a": "liberar mão de obra para as fábricas ao privatizar terras antes de uso comum",
+    "b": "fixar os camponeses no campo, ampliando a produção de alimentos das aldeias",
+    "c": "impedir a concentração de terras nas mãos da aristocracia rural inglesa",
+    "d": "distribuir propriedades entre os trabalhadores agrícolas das regiões produtoras",
+    "e": "reduzir a produtividade agrícola e limitar o crescimento das cidades industriais"
+   },
+   "resposta": "a",
+   "explicacao": "Cercar as terras comunais tirou do camponês o acesso ao pasto e à lenha, e sem isso ele não se sustentava no campo. O êxodo resultante forneceu à indústria trabalhadores sem alternativa — mão de obra abundante e, por isso mesmo, barata.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-223",
+   "texto_apoio": "Entre 1811 e 1817, grupos de trabalhadores ingleses invadiram fábricas e destruíram máquinas têxteis, em ações que o Parlamento passou a punir com pena de morte.",
+   "enunciado": "O movimento descrito, conhecido como ludismo, expressava:",
+   "alternativas": {
+    "a": "a defesa da ampliação do uso de máquinas para reduzir a jornada de trabalho",
+    "b": "a exigência de participação dos operários nos lucros obtidos pelas fábricas",
+    "c": "a reação de artesãos e operários à substituição do trabalho humano pela máquina",
+    "d": "o apoio dos trabalhadores às reformas propostas pelos donos das manufaturas",
+    "e": "a organização de partidos operários voltados à disputa de cadeiras no Parlamento"
+   },
+   "resposta": "c",
+   "explicacao": "Sem sindicatos nem leis trabalhistas, a máquina aparecia como a causa imediata do desemprego e da queda dos salários. O ludismo é a primeira forma de resistência operária organizada; dele em diante o movimento se desloca da máquina para o patrão, com o cartismo e os sindicatos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-224",
+   "texto_apoio": "Na sociedade do Antigo Regime, o clero e a nobreza gozavam de isenções fiscais e de tribunais próprios, enquanto o restante da população sustentava os impostos que financiavam o Estado.",
+   "enunciado": "A estrutura social descrita é chamada de sociedade estamental porque:",
+   "alternativas": {
+    "a": "permitia livre circulação entre os grupos conforme o mérito individual de cada um",
+    "b": "dividia a população segundo a renda anual declarada por cada família ao Estado",
+    "c": "organizava os habitantes de acordo com a região do reino em que residiam",
+    "d": "reunia todos os súditos sob um mesmo conjunto de direitos e obrigações legais",
+    "e": "definia a posição pelo nascimento, com direitos desiguais fixados em lei"
+   },
+   "resposta": "e",
+   "explicacao": "Estamento não é classe: a posição vem do nascimento e a desigualdade está inscrita na própria lei, não apenas nos fatos. Era exatamente esse arranjo que a Revolução Francesa desmontaria ao proclamar a igualdade jurídica de todos os cidadãos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-225",
+   "texto_apoio": "Ao longo da Idade Moderna, os reis europeus organizaram exércitos permanentes, criaram burocracias remuneradas, unificaram sistemas de pesos e medidas e passaram a cobrar impostos em todo o território.",
+   "enunciado": "O processo descrito corresponde:",
+   "alternativas": {
+    "a": "à retomada da fragmentação política característica dos séculos anteriores na Europa",
+    "b": "à formação dos Estados nacionais modernos, com poder centralizado no rei",
+    "c": "à transferência do poder político para as assembleias das cidades autônomas",
+    "d": "à submissão dos reinos europeus à autoridade temporal do papado romano",
+    "e": "à divisão dos territórios entre senhores locais com jurisdição própria e exército particular"
+   },
+   "resposta": "b",
+   "explicacao": "Exército, burocracia e imposto em todo o território são os instrumentos que retiram poder dos senhores locais e o concentram na Coroa. A burguesia apoia o processo porque moeda única, medidas padronizadas e estradas seguras baratearam seu comércio. É a base material do absolutismo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-226",
+   "texto_apoio": "Por volta de 1450, Johannes Gutenberg desenvolveu na Europa a impressão por tipos móveis, o que permitiu produzir livros em série a custo muito inferior ao da cópia manuscrita.",
+   "enunciado": "O impacto dessa técnica sobre o humanismo e a Reforma consistiu em:",
+   "alternativas": {
+    "a": "restringir a leitura às universidades, únicos locais então autorizados a guardar livros",
+    "b": "encarecer a produção de textos e limitar sua circulação aos círculos da corte",
+    "c": "eliminar a necessidade de tradução das obras para as línguas faladas na Europa",
+    "d": "acelerar a difusão de ideias, tornando textos acessíveis fora do controle da Igreja",
+    "e": "reduzir o interesse pelos autores da Antiguidade greco-romana entre os estudiosos do período"
+   },
+   "resposta": "d",
+   "explicacao": "As 95 teses circularam pela Alemanha em semanas, algo impensável com cópia manual. A imprensa não criou a Reforma nem o humanismo, mas deu a ambos uma velocidade de difusão que a autoridade eclesiástica não tinha meios de acompanhar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-227",
+   "texto_apoio": "Durante a Idade Moderna, as metrópoles europeias reservaram para si o direito exclusivo de comerciar com suas possessões americanas, que só podiam vender e comprar produtos por intermédio da metrópole.",
+   "enunciado": "Esse arranjo, chamado de pacto colonial, tinha como finalidade principal:",
+   "alternativas": {
+    "a": "assegurar à metrópole o lucro do comércio, dentro da lógica mercantilista",
+    "b": "promover a industrialização das possessões americanas no menor prazo possível",
+    "c": "garantir a livre concorrência entre os comerciantes de todas as nações europeias",
+    "d": "transferir às possessões a decisão sobre preços e destino de sua produção",
+    "e": "reduzir a arrecadação das metrópoles em favor das administrações locais"
+   },
+   "resposta": "a",
+   "explicacao": "O monopólio permitia comprar barato na possessão e revender caro na Europa, e o lucro da intermediação ficava na metrópole. É a aplicação direta do mercantilismo que sustentou as grandes navegações, e sua contestação está entre as causas dos movimentos de independência a partir do fim do século XVIII.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ]
 }

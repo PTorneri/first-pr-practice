@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-14",
  "frente": "matematica",
- "total": 751,
+ "total": 774,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -4036,6 +4036,144 @@
    "subtema": "matematica-algebra",
    "frenteDestino": "matematica",
    "padrao": true
+  },
+  "med-matematica-360": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 10
+  },
+  "med-matematica-361": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 3
+  },
+  "med-matematica-362": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 9
+  },
+  "med-matematica-363": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-matematica-364": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 5
+  },
+  "med-matematica-365": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-matematica-366": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-matematica-367": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-matematica-368": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-matematica-369": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 3
+  },
+  "med-matematica-370": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-matematica-371": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 5
+  },
+  "med-matematica-372": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-matematica-373": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 3
+  },
+  "med-matematica-374": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 9
+  },
+  "med-matematica-375": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "med-matematica-376": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 5
+  },
+  "med-matematica-377": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-matematica-378": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 5
+  },
+  "med-matematica-379": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 8
+  },
+  "med-matematica-380": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 3
+  },
+  "med-matematica-381": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-matematica-382": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 5
   },
   "eng-complexos-01": {
    "subtema": "matematica-complexos",

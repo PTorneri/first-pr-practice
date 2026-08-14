@@ -12001,6 +12001,383 @@ window.QUESTION_BANKS = {
    "explicacao": "Simulando o algoritmo passo a passo (arredondar cada elemento ao múltiplo de 3 mais próximo, somar n, tomar o menor valor e recalcular n=x−7, repetindo três vezes), o valor final de n é −19.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-360",
+   "enunciado": "Em uma progressão aritmética, o primeiro termo é 5 e a razão é 3. O vigésimo termo dessa sequência vale:",
+   "alternativas": {
+    "a": "56, valor obtido ao se multiplicar a razão pelo número da posição pedida",
+    "b": "60, resultado da soma entre o primeiro termo e o produto da razão por vinte",
+    "c": "62, obtido por a₂₀ = 5 + 19 · 3",
+    "d": "65, resultado da soma entre o primeiro termo e vinte vezes o valor da razão",
+    "e": "68, valor encontrado ao se acrescentar mais uma razão ao termo de ordem vinte"
+   },
+   "resposta": "c",
+   "explicacao": "O termo geral da progressão aritmética é aₙ = a₁ + (n − 1)·r. Com a₁ = 5, r = 3 e n = 20, tem-se 5 + 19·3 = 5 + 57 = 62. O erro mais comum é usar 20 no lugar de 19: são dezenove saltos até o vigésimo termo, e não vinte.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-361",
+   "enunciado": "Numa progressão aritmética, o quinto termo vale 17 e o décimo segundo vale 45. A razão dessa progressão é:",
+   "alternativas": {
+    "a": "4, pois a diferença de 28 entre os dois termos se distribui por sete saltos",
+    "b": "5, obtido pela divisão do maior termo pelo número da posição correspondente",
+    "c": "7, resultado da diferença entre as posições dos dois termos informados",
+    "d": "9, valor encontrado ao se dividir a diferença entre os termos por três",
+    "e": "28, diferença direta entre os dois termos apresentados no enunciado"
+   },
+   "resposta": "a",
+   "explicacao": "Entre a₅ e a₁₂ há 12 − 5 = 7 saltos de razão. Como a diferença é 45 − 17 = 28, cada salto vale 28 ÷ 7 = 4. Vale a fórmula geral aₚ = aₖ + (p − k)·r, que dispensa calcular o primeiro termo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-362",
+   "enunciado": "Considere a progressão aritmética de primeiro termo 4 e razão 6. A soma dos 30 primeiros termos dessa progressão vale:",
+   "alternativas": {
+    "a": "178, valor que corresponde ao trigésimo termo da progressão considerada",
+    "b": "540, resultado do produto entre a razão informada e o número de termos somados",
+    "c": "1 800, obtido multiplicando-se o primeiro termo pelo total de termos da soma",
+    "d": "2 610, resultado da soma entre o primeiro e o último termo, multiplicada por quinze",
+    "e": "2 730, obtido por S₃₀ = (4 + 178) · 30 / 2"
+   },
+   "resposta": "e",
+   "explicacao": "Primeiro o último termo: a₃₀ = 4 + 29·6 = 178. Depois a soma: Sₙ = (a₁ + aₙ)·n/2 = (4 + 178)·30/2 = 182·15 = 2 730. A fórmula vem de somar a sequência com ela mesma na ordem inversa, o que dá n pares de mesma soma.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-363",
+   "texto_apoio": "Um teatro tem 12 fileiras. A primeira fileira possui 18 poltronas e cada fileira seguinte tem 3 poltronas a mais que a anterior.",
+   "enunciado": "O número total de poltronas desse teatro é:",
+   "alternativas": {
+    "a": "216, resultado do produto entre o número de fileiras e as poltronas da primeira",
+    "b": "414, soma dos termos da progressão formada pelas fileiras",
+    "c": "51, número de poltronas que corresponde apenas à última fileira do teatro",
+    "d": "612, valor obtido multiplicando-se a última fileira pelo total de fileiras existentes",
+    "e": "828, resultado do dobro da soma de todas as fileiras consideradas no problema"
+   },
+   "resposta": "b",
+   "explicacao": "As fileiras formam uma progressão aritmética com a₁ = 18 e r = 3. A última é a₁₂ = 18 + 11·3 = 51, e a soma vale (18 + 51)·12/2 = 69·6 = 414. Contar fileira por fileira leva ao mesmo resultado, mas a fórmula evita doze parcelas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-364",
+   "enunciado": "Ao se inserirem quatro meios aritméticos entre os números 3 e 23, obtém-se uma progressão aritmética cuja razão é:",
+   "alternativas": {
+    "a": "3, valor que corresponde ao primeiro dos termos apresentados no enunciado",
+    "b": "5, resultado da divisão da diferença entre os extremos por quatro",
+    "c": "6, obtido pela divisão do maior dos dois extremos por um dos meios inseridos",
+    "d": "4, pois a sequência passa a ter seis termos e cinco intervalos entre eles",
+    "e": "20, diferença entre os dois números extremos indicados no enunciado"
+   },
+   "resposta": "d",
+   "explicacao": "Inserir quatro meios entre 3 e 23 produz uma progressão de seis termos, portanto cinco intervalos. A razão é (23 − 3)/5 = 4, e a sequência fica 3, 7, 11, 15, 19, 23. O erro típico é dividir por quatro, que é o número de meios, e não o de intervalos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-365",
+   "enunciado": "A progressão aritmética 7, 11, 15, …, 111 possui um número de termos igual a:",
+   "alternativas": {
+    "a": "25, valor obtido pela divisão do último termo pela razão da progressão",
+    "b": "26, resultado da diferença entre os extremos dividida pelo valor da razão",
+    "c": "27, obtido por n = (111 − 7)/4 + 1",
+    "d": "28, valor encontrado ao se acrescentar mais um termo ao resultado anterior",
+    "e": "104, diferença entre o último e o primeiro termo da progressão apresentada"
+   },
+   "resposta": "c",
+   "explicacao": "Da fórmula aₙ = a₁ + (n − 1)·r vem 111 = 7 + (n − 1)·4, logo (n − 1) = 26 e n = 27. O ajuste de mais um é necessário porque contamos termos, e não intervalos — a diferença entre as duas contagens é sempre uma unidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-366",
+   "enunciado": "Em uma progressão geométrica de primeiro termo 2 e razão 3, o sexto termo vale:",
+   "alternativas": {
+    "a": "486, obtido por a₆ = 2 · 3⁵",
+    "b": "36, resultado do produto entre o primeiro termo e o número da posição pedida",
+    "c": "729, valor que corresponde apenas à potência da razão elevada à sexta ordem",
+    "d": "1 458, resultado da multiplicação do primeiro termo pela razão elevada a seis",
+    "e": "162, valor correspondente ao termo imediatamente anterior ao que foi pedido"
+   },
+   "resposta": "a",
+   "explicacao": "O termo geral da progressão geométrica é aₙ = a₁·qⁿ⁻¹. Com a₁ = 2, q = 3 e n = 6, tem-se 2·3⁵ = 2·243 = 486. Como na progressão aritmética, o expoente é n − 1: são cinco multiplicações até o sexto termo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-367",
+   "enunciado": "Numa progressão geométrica de termos positivos, o segundo termo vale 6 e o quinto vale 48. A razão dessa progressão é:",
+   "alternativas": {
+    "a": "3, resultado da divisão do quinto termo pelo produto dos demais termos citados",
+    "b": "4, valor obtido pela divisão da diferença entre os termos por dois",
+    "c": "6, valor que corresponde ao segundo termo informado no enunciado da questão",
+    "d": "8, resultado direto da divisão do quinto termo pelo segundo termo informado",
+    "e": "2, pois a razão entre os termos vale 8 e corresponde ao cubo da razão"
+   },
+   "resposta": "e",
+   "explicacao": "Entre a₂ e a₅ há três multiplicações pela razão, então a₅ = a₂·q³. De 48 = 6·q³ vem q³ = 8 e q = 2. A sequência é 3, 6, 12, 24, 48. Dividir 48 por 6 e parar aí dá o cubo da razão, não a razão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-368",
+   "enunciado": "A soma dos dez primeiros termos da progressão geométrica de primeiro termo 1 e razão 2 vale:",
+   "alternativas": {
+    "a": "512, valor que corresponde apenas ao décimo termo dessa progressão geométrica",
+    "b": "1 023, obtido por S₁₀ = (2¹⁰ − 1)/(2 − 1)",
+    "c": "1 024, resultado da potência de dois elevada ao número de termos considerados",
+    "d": "2 046, valor correspondente ao dobro da soma dos termos dessa progressão",
+    "e": "20, resultado do produto entre o número de termos e a razão da progressão"
+   },
+   "resposta": "b",
+   "explicacao": "A soma dos n primeiros termos de uma progressão geométrica é Sₙ = a₁·(qⁿ − 1)/(q − 1). Aqui, 1·(2¹⁰ − 1)/1 = 1 024 − 1 = 1 023. É a soma 1 + 2 + 4 + … + 512, sempre uma unidade abaixo da próxima potência de dois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-369",
+   "enunciado": "A dízima periódica 0,4444… pode ser escrita como a soma dos infinitos termos de uma progressão geométrica de primeiro termo 0,4 e razão 0,1. Essa soma vale:",
+   "alternativas": {
+    "a": "0,4, valor que corresponde apenas ao primeiro termo da progressão indicada",
+    "b": "1/2, resultado aproximado obtido ao se arredondar a dízima apresentada",
+    "c": "4/10, fração que representa somente a primeira casa decimal da dízima",
+    "d": "4/9, obtido por S = 0,4/(1 − 0,1)",
+    "e": "44/100, fração correspondente às duas primeiras casas decimais da dízima"
+   },
+   "resposta": "d",
+   "explicacao": "Quando o módulo da razão é menor que 1, a soma infinita converge para S = a₁/(1 − q). Aqui, 0,4/0,9 = 4/9. É o mesmo resultado do método tradicional de conversão de dízima em fração, e mostra por que toda dízima periódica é um número racional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-370",
+   "texto_apoio": "Uma cultura de bactérias dobra de tamanho a cada 20 minutos. No instante inicial havia 1 000 indivíduos.",
+   "enunciado": "Após 2 horas, o número de indivíduos dessa cultura será de:",
+   "alternativas": {
+    "a": "6 000, resultado do produto entre a quantidade inicial e o número de períodos",
+    "b": "12 000, valor obtido ao se dobrar o resultado do cálculo anterior indicado",
+    "c": "64 000, obtido por 1 000 · 2⁶",
+    "d": "2 000, quantidade correspondente ao primeiro período de vinte minutos apenas",
+    "e": "128 000, valor que corresponderia a sete períodos sucessivos de duplicação"
+   },
+   "resposta": "c",
+   "explicacao": "Duas horas comportam 120/20 = 6 períodos de duplicação, e a população forma uma progressão geométrica de razão 2, cujo termo geral é a₁·qⁿ⁻¹. Logo, 1 000·2⁶ = 1 000·64 = 64 000. O crescimento é exponencial: multiplicar o tempo por dois eleva a população ao quadrado, não ao dobro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-371",
+   "texto_apoio": "Uma máquina comprada por R$ 80 000,00 perde 20% de seu valor a cada ano de uso.",
+   "enunciado": "Ao fim de três anos, o valor dessa máquina será de:",
+   "alternativas": {
+    "a": "R$ 40 960,00, obtido por 80 000 · (0,8)³",
+    "b": "R$ 32 000,00, resultado da subtração de 60% do valor original da máquina",
+    "c": "R$ 48 000,00, valor que corresponde à perda de apenas um ano de uso",
+    "d": "R$ 16 000,00, resultado da divisão do valor inicial pelo número cinco",
+    "e": "R$ 51 200,00, valor correspondente a apenas dois anos de depreciação sucessiva"
+   },
+   "resposta": "a",
+   "explicacao": "Perder 20% equivale a conservar 80%, então os valores anuais formam uma progressão geométrica de razão 0,8. O que se pede é um termo, e não a soma dos primeiros termos: pelo termo geral, 80 000·0,8³ = 80 000·0,512 = 40 960. Somar três quedas de 20% do valor original daria 32 000 e ignoraria que a base diminui a cada ano.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-372",
+   "texto_apoio": "Uma sequência é definida por recorrência: o primeiro termo vale 1 e cada termo seguinte é obtido dobrando-se o anterior e somando-se uma unidade.",
+   "enunciado": "O quinto termo dessa sequência vale:",
+   "alternativas": {
+    "a": "11, valor obtido somando-se uma unidade a cada um dos termos anteriores",
+    "b": "16, resultado da potência de dois elevada ao número da posição pedida",
+    "c": "21, valor encontrado ao se dobrar o terceiro termo e somar sete unidades",
+    "d": "9, resultado correspondente ao termo de quarta ordem dessa mesma sequência",
+    "e": "31, obtido pela sequência 1, 3, 7, 15, 31"
+   },
+   "resposta": "e",
+   "explicacao": "A recorrência aₙ₊₁ = 2aₙ + 1 produz 1, 3, 7, 15, 31. Não é progressão aritmética nem geométrica, mas cada termo é uma unidade menor que a potência de dois correspondente — 2ⁿ − 1 dá o termo de ordem n.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-373",
+   "texto_apoio": "Na sequência de Fibonacci, cada termo a partir do terceiro é a soma dos dois anteriores: 1, 1, 2, 3, 5, 8, 13, 21, 34, …",
+   "enunciado": "O termo que vem imediatamente depois de 34 nessa sequência é:",
+   "alternativas": {
+    "a": "42, resultado do produto entre o termo anterior e o número dois",
+    "b": "55, soma dos dois termos que o antecedem na sequência",
+    "c": "68, valor correspondente ao dobro do último termo apresentado",
+    "d": "47, resultado da soma entre o último termo e o número treze",
+    "e": "89, valor que corresponde ao segundo termo depois de 34"
+   },
+   "resposta": "b",
+   "explicacao": "A regra de recorrência é aₙ = aₙ₋₁ + aₙ₋₂, então o termo seguinte é 21 + 34 = 55. Depois dele viria 34 + 55 = 89. À medida que a sequência avança, a razão entre termos consecutivos se aproxima do número de ouro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-374",
+   "texto_apoio": "Com palitos de fósforo monta-se uma fila de quadrados que compartilham lados. A primeira figura usa 4 palitos, e cada figura seguinte acrescenta 3 palitos à anterior.",
+   "enunciado": "A vigésima figura dessa sequência será formada por:",
+   "alternativas": {
+    "a": "60 palitos, resultado do produto entre a posição pedida e o acréscimo por etapa",
+    "b": "80 palitos, valor obtido multiplicando-se a primeira figura pelo número de etapas",
+    "c": "64 palitos, resultado da soma entre o produto anterior e o número quatro",
+    "d": "61 palitos, obtido por 4 + 19 · 3",
+    "e": "23 palitos, resultado da soma entre o total de etapas e o acréscimo indicado"
+   },
+   "resposta": "d",
+   "explicacao": "As quantidades formam uma progressão aritmética com a₁ = 4 e r = 3, cujo termo geral é aₙ = 3n + 1. Para n = 20, tem-se 4 + 19·3 = 61. Reconhecer o padrão como progressão evita desenhar as vinte figuras.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-375",
+   "enunciado": "Considere as sequências I (3, 6, 12, 24, …) e II (3, 6, 9, 12, …). Sobre elas, é correto afirmar que:",
+   "alternativas": {
+    "a": "ambas são progressões aritméticas, com razões diferentes entre si",
+    "b": "ambas são progressões geométricas, sendo a segunda de razão menor",
+    "c": "I é progressão geométrica de razão 2, e II é progressão aritmética de razão 3",
+    "d": "I é progressão aritmética de razão 3, e II é progressão geométrica de razão 2",
+    "e": "nenhuma das duas se enquadra nos padrões de progressão estudados usualmente"
+   },
+   "resposta": "c",
+   "explicacao": "Em I cada termo é o dobro do anterior: a razão é multiplicativa e vale 2, o que caracteriza progressão geométrica. Em II cada termo supera o anterior em 3 unidades: a razão é aditiva e a progressão é aritmética. O teste é sempre este — subtrair ou dividir termos consecutivos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-376",
+   "enunciado": "A soma de todos os múltiplos de 5 compreendidos entre 1 e 100, inclusive, vale:",
+   "alternativas": {
+    "a": "1 050, obtido por S = (5 + 100) · 20 / 2",
+    "b": "500, resultado do produto entre o número de múltiplos e o valor cinco",
+    "c": "525, valor correspondente à metade da soma calculada corretamente",
+    "d": "2 100, resultado do dobro da soma dos múltiplos considerados no intervalo",
+    "e": "105, soma entre o primeiro e o último múltiplo do intervalo indicado"
+   },
+   "resposta": "a",
+   "explicacao": "Os múltiplos formam a progressão aritmética 5, 10, …, 100, com razão 5. O número de termos é (100 − 5)/5 + 1 = 20, e a soma dos 20 primeiros termos vale (5 + 100)·20/2 = 105·10 = 1 050.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-377",
+   "enunciado": "Em uma progressão aritmética de nove termos, sabe-se que a soma do primeiro com o nono termo vale 40. O quinto termo dessa progressão vale:",
+   "alternativas": {
+    "a": "40, valor que corresponde à soma informada no enunciado da questão",
+    "b": "8, resultado da divisão da soma informada pelo número total de termos da progressão",
+    "c": "9, valor correspondente ao número de termos da progressão apresentada",
+    "d": "80, resultado do dobro da soma entre os dois termos extremos citados",
+    "e": "20, pois o quinto termo fica a igual distância do primeiro e do nono"
+   },
+   "resposta": "e",
+   "explicacao": "Numa progressão aritmética, termos equidistantes dos extremos têm soma constante, e o termo central vale metade dessa soma. Com a₁ + a₉ = 40, o termo do meio vale 20 — e não é preciso conhecer o primeiro termo nem a razão da progressão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-378",
+   "texto_apoio": "A população de uma cidade cresce 10% ao ano. Em 2020 ela era de 200 000 habitantes, e os totais anuais formam uma progressão geométrica de razão 1,1.",
+   "enunciado": "A população estimada dessa cidade ao fim de três anos será de:",
+   "alternativas": {
+    "a": "260 000 habitantes, resultado do acréscimo de 20 000 pessoas em cada um dos três anos",
+    "b": "266 200 habitantes, obtido pelo termo geral 200 000 · (1,1)³",
+    "c": "220 000 habitantes, total que corresponde apenas ao primeiro ano de crescimento",
+    "d": "242 000 habitantes, valor correspondente ao segundo ano da mesma sequência",
+    "e": "600 000 habitantes, resultado do produto entre a população inicial e o total de anos"
+   },
+   "resposta": "b",
+   "explicacao": "Crescer 10% equivale a multiplicar por 1,1, então os totais formam uma progressão geométrica. Pelo termo geral, 200 000·1,1³ = 200 000·1,331 = 266 200. Somar 20 000 por ano daria 260 000 e trataria o crescimento como progressão aritmética, ignorando que a base aumenta a cada período.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-379",
+   "texto_apoio": "Os números triangulares formam a sequência 1, 3, 6, 10, 15, …, em que cada termo é obtido somando-se ao anterior uma unidade a mais do que se somou na etapa precedente.",
+   "enunciado": "O sétimo número triangular dessa sequência é:",
+   "alternativas": {
+    "a": "21, valor que corresponde ao sexto termo dessa mesma sequência numérica",
+    "b": "35, resultado da soma entre o sexto termo e o número catorze",
+    "c": "22, resultado da soma entre o último termo apresentado e o número sete",
+    "d": "28, pois ao sexto termo, que é 21, soma-se 7",
+    "e": "49, valor correspondente ao quadrado do número da posição pedida"
+   },
+   "resposta": "d",
+   "explicacao": "Os acréscimos formam a progressão aritmética 2, 3, 4, 5, …, então a sequência continua 15 + 6 = 21 e 21 + 7 = 28. O termo de ordem n vale n(n + 1)/2, e para n = 7 isso dá 7·8/2 = 28.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-380",
+   "enunciado": "Na progressão aritmética de primeiro termo 100 e razão −7, a posição do primeiro termo negativo é:",
+   "alternativas": {
+    "a": "14, posição do último termo ainda positivo dessa progressão aritmética",
+    "b": "15, valor obtido pela divisão do primeiro termo pelo módulo da razão",
+    "c": "16, pois a₁₆ = 100 − 15 · 7 = −5",
+    "d": "17, posição do segundo termo negativo da progressão apresentada no enunciado",
+    "e": "100, valor que corresponde ao primeiro termo informado pelo enunciado"
+   },
+   "resposta": "c",
+   "explicacao": "Impondo aₙ < 0 em 100 − 7(n − 1) < 0 vem n − 1 > 100/7 ≈ 14,3, logo n − 1 = 15 e n = 16. Conferindo: a₁₅ = 100 − 98 = 2, ainda positivo, e a₁₆ = 100 − 105 = −5, o primeiro negativo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-381",
+   "enunciado": "Numa progressão geométrica de primeiro termo 3 e razão −2, o quinto termo vale:",
+   "alternativas": {
+    "a": "48, obtido por 3 · (−2)⁴",
+    "b": "−48, valor que teria sinal negativo caso o expoente fosse ímpar",
+    "c": "−24, termo que ocupa a quarta posição nessa mesma progressão geométrica",
+    "d": "30, resultado do produto entre o primeiro termo e o módulo da razão elevado",
+    "e": "−96, valor correspondente ao sexto termo da progressão apresentada acima"
+   },
+   "resposta": "a",
+   "explicacao": "Com razão negativa, os sinais alternam: 3, −6, 12, −24, 48. Pelo termo geral, a₅ = 3·(−2)⁴ = 3·16 = 48. O expoente 4 é par, então o resultado é positivo — os termos de ordem ímpar mantêm o sinal do primeiro termo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-382",
+   "texto_apoio": "Latas são empilhadas em camadas: a camada da base tem 20 latas e cada camada acima tem uma lata a menos, até a camada do topo, com uma única lata.",
+   "enunciado": "O número total de latas dessa pilha é:",
+   "alternativas": {
+    "a": "400, resultado do quadrado do número de latas da camada da base",
+    "b": "190, soma que corresponderia a uma pilha de dezenove camadas apenas",
+    "c": "220, valor obtido ao se acrescentar mais uma camada completa ao total correto",
+    "d": "40, resultado do dobro do número de latas presentes na camada da base",
+    "e": "210, obtido por S = (1 + 20) · 20 / 2"
+   },
+   "resposta": "e",
+   "explicacao": "As camadas formam a progressão aritmética 1, 2, …, 20, e a soma dos vinte primeiros termos vale (1 + 20)·20/2 = 21·10 = 210. É a soma dos n primeiros números naturais, n(n + 1)/2 — a mesma conta dos números triangulares.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "matematica-logica-conjuntos": [

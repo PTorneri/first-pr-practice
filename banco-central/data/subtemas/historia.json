@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-14",
  "frente": "historia",
- "total": 420,
+ "total": 443,
  "residuo": [
   "dir-historia-brasil-68",
   "dir-historia-brasil-95",
@@ -2524,6 +2524,144 @@
    "frenteDestino": "historia",
    "pontos": 9,
    "margem": 4
+  },
+  "med-historia-205": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-206": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-207": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-208": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-209": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-210": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-211": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-212": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-213": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-214": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 20,
+   "margem": 20
+  },
+  "med-historia-215": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-216": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-217": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-218": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-219": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-220": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-221": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 5
+  },
+  "med-historia-222": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-historia-223": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-historia-224": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-225": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-226": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-historia-227": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
   }
  }
 }

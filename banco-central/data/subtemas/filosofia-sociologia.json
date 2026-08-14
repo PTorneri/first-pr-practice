@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-14",
  "frente": "filosofia-sociologia",
- "total": 277,
+ "total": 314,
  "residuo": [
   "dir-filosofia-sociologia-81",
   "dir-filosofia-sociologia-97",
@@ -1666,6 +1666,228 @@
    "frenteDestino": "filosofia-sociologia",
    "pontos": 14,
    "margem": 9
+  },
+  "med-filosofia-sociologia-225": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-226": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-227": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-228": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-229": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-230": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-filosofia-sociologia-231": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-232": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-233": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-234": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-235": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-236": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-237": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-filosofia-sociologia-238": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-239": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-240": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-241": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-242": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-243": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 20,
+   "margem": 20
+  },
+  "med-filosofia-sociologia-244": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-245": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-filosofia-sociologia-246": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-247": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-248": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 20,
+   "margem": 15
+  },
+  "med-filosofia-sociologia-249": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-filosofia-sociologia-250": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-filosofia-sociologia-251": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 20,
+   "margem": 20
+  },
+  "med-filosofia-sociologia-252": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 11
+  },
+  "med-filosofia-sociologia-253": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-254": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-255": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-256": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-257": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-258": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-259": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-260": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-filosofia-sociologia-261": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
   }
  }
 }

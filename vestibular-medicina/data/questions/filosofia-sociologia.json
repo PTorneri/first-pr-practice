@@ -2696,6 +2696,561 @@
       "resposta": "a",
       "explicacao": "O bem opera como sinal: o que se compra é a diferença em relação a quem não pode comprá-lo. Bourdieu mostra que o gosto legítimo funciona assim em muitos campos — parece escolha pessoal e organiza, na prática, fronteiras culturais entre grupos.",
       "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-225",
+      "texto_apoio": "Kant propõe que se examine a máxima de cada ação perguntando se ela poderia valer como lei para todos os seres racionais sem se destruir no processo.",
+      "enunciado": "Esse procedimento corresponde à formulação do imperativo categórico segundo a qual se deve:",
+      "alternativas": {
+        "a": "escolher a conduta que produza a maior soma de bem-estar entre os envolvidos na situação",
+        "b": "seguir o costume estabelecido na comunidade em que a ação será praticada pelo agente",
+        "c": "agir apenas segundo a máxima que se possa querer que se torne lei universal",
+        "d": "avaliar cada caso isoladamente, sem recorrer a qualquer regra formulada de antemão",
+        "e": "obedecer às normas de conduta fixadas pela autoridade competente em cada situação"
+      },
+      "resposta": "c",
+      "explicacao": "O imperativo categórico não olha para o resultado da ação, e sim para a forma da regra que a orienta. O teste é de coerência: uma máxima que se contradiz ao ser universalizada — como a da promessa falsa, que só funciona enquanto a maioria cumpre a palavra — está reprovada de saída. É a autonomia da vontade que dá a si mesma essa lei.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-226",
+      "texto_apoio": "Um comerciante nunca engana seus clientes porque sabe que a fama de honesto lhe traz mais lucro no longo prazo.",
+      "enunciado": "Para Kant, a conduta desse comerciante é:",
+      "alternativas": {
+        "a": "moralmente exemplar, pois o resultado alcançado é bom para todas as partes envolvidas na relação",
+        "b": "conforme o dever, mas não por dever, e por isso sem valor moral propriamente dito",
+        "c": "contrária ao dever, já que a honestidade praticada por interesse configura engano deliberado",
+        "d": "indiferente do ponto de vista moral, uma vez que o comércio se rege por regras próprias",
+        "e": "moralmente superior à do comerciante que age por dever, porque produz efeito prático maior"
+      },
+      "resposta": "b",
+      "explicacao": "Kant separa a ação que coincide com o dever da ação motivada pelo dever. A do comerciante é correta no conteúdo e interessada no motivo: se a honestidade deixasse de render, o motivo desapareceria com ela. O valor moral, para Kant, está na intenção, não no efeito.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-227",
+      "texto_apoio": "Uma prefeitura precisa decidir entre construir um hospital em um bairro populoso e uma unidade menor em cada um de três distritos afastados, e adota como critério o total de pessoas beneficiadas.",
+      "enunciado": "O critério adotado pela prefeitura corresponde à ética:",
+      "alternativas": {
+        "a": "deontológica, que julga a ação pela conformidade a um dever formulado antes de qualquer cálculo",
+        "b": "das virtudes, que avalia o caráter do agente antes de examinar o efeito produzido pela decisão",
+        "c": "do discurso, que faz depender a validade da norma do consenso obtido entre os afetados por ela",
+        "d": "utilitarista, que mede a correção do ato pela quantidade de bem-estar que ele produz",
+        "e": "do cuidado, que parte do vínculo concreto entre as pessoas envolvidas em cada situação particular"
+      },
+      "resposta": "d",
+      "explicacao": "O utilitarismo de Bentham e Stuart Mill julga a ação pelas consequências, buscando a maior felicidade para o maior número. A objeção clássica é esta: o cálculo pode sacrificar uma minoria — aqui, os distritos afastados — sem que a conta apareça como injusta.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-228",
+      "texto_apoio": "Stuart Mill afirma que é melhor ser um ser humano insatisfeito do que um porco satisfeito, e Sócrates insatisfeito do que um tolo satisfeito.",
+      "enunciado": "Com essa afirmação, Mill introduz no utilitarismo a tese de que:",
+      "alternativas": {
+        "a": "os prazeres diferem em qualidade, e não apenas na intensidade e na duração que apresentam",
+        "b": "o prazer deve ser descartado como critério, cedendo lugar ao cumprimento do dever formal",
+        "c": "apenas os prazeres do corpo podem ser medidos de modo confiável pelo cálculo utilitarista",
+        "d": "a felicidade individual não interessa ao cálculo, que considera somente o total agregado",
+        "e": "o sofrimento e a satisfação têm o mesmo peso na avaliação de qualquer conduta humana"
+      },
+      "resposta": "a",
+      "explicacao": "Bentham media prazer por intensidade, duração e extensão. Mill acrescenta a qualidade e resolve a acusação de que o utilitarismo seria uma doutrina de porcos — mas paga um preço: quem decide qual prazer é superior já não decide pelo cálculo, e sim por um juízo moral anterior a ele.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-229",
+      "texto_apoio": "Aristóteles descreve a coragem como disposição situada entre a covardia e a temeridade, e a generosidade como disposição situada entre a avareza e o desperdício.",
+      "enunciado": "Essa maneira de definir cada virtude expressa a doutrina aristotélica do:",
+      "alternativas": {
+        "a": "imperativo categórico, que formula o dever sem referência às circunstâncias do caso concreto",
+        "b": "cálculo dos prazeres, que estabelece a conduta correta pela soma dos efeitos que ela produz",
+        "c": "livre-arbítrio absoluto, que dispensaria qualquer critério prévio na escolha entre os dois extremos apontados",
+        "d": "consenso da comunidade, que fixa os limites de cada conduta segundo o costume estabelecido",
+        "e": "meio-termo, sempre relativo ao agente e à situação, e não ponto médio calculado entre dois valores"
+      },
+      "resposta": "e",
+      "explicacao": "A virtude aristotélica é a justa medida entre a falta e o excesso — mas a medida varia com a pessoa e a circunstância, e não resulta de uma média aritmética. Encontrá-la exige prudência, e a prudência se adquire com o exercício repetido, não com a leitura de uma regra.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-230",
+      "texto_apoio": "Ao perguntar qual é o fim último da ação humana, Aristóteles responde que se buscam a riqueza, a honra e o prazer sempre em vista de outra coisa, e que apenas um bem é buscado por si mesmo.",
+      "enunciado": "O bem descrito por Aristóteles como fim último e a noção que o nomeia são:",
+      "alternativas": {
+        "a": "o prazer imediato, chamado hedoné, alcançado pela satisfação sucessiva dos desejos do corpo",
+        "b": "a felicidade, chamada eudaimonia, entendida como vida realizada no exercício da virtude",
+        "c": "a riqueza acumulada, entendida como condição material que assegura as demais realizações",
+        "d": "a honra recebida da comunidade, tomada como reconhecimento público do mérito individual",
+        "e": "a ausência de perturbação, chamada ataraxia, obtida pela suspensão de todos os juízos possíveis"
+      },
+      "resposta": "b",
+      "explicacao": "Eudaimonia não é sensação de contentamento: é a vida que realiza bem a atividade própria do ser humano, o que para Aristóteles envolve razão e virtude ao longo de uma existência inteira. Por isso ele diz que uma andorinha só não faz primavera.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-231",
+      "texto_apoio": "John Rawls propõe que os princípios de justiça sejam escolhidos por pessoas que ainda ignoram a posição que ocuparão na sociedade: não sabem sua renda, seu talento nem sua origem familiar.",
+      "enunciado": "Esse recurso metodológico, conhecido como véu de ignorância, tem a função de:",
+      "alternativas": {
+        "a": "eliminar o desacordo entre os participantes, que passam a ter as mesmas preferências pessoais",
+        "b": "demonstrar que a justiça distributiva é impossível em sociedades marcadas por diferenças",
+        "c": "assegurar que a decisão seja tomada pela maioria numérica dos participantes reunidos",
+        "d": "impedir que cada um escolha princípios talhados para a posição que de fato ocupa",
+        "e": "reduzir a justiça a um problema técnico, resolvido pelo cálculo do total de bens disponíveis"
+      },
+      "resposta": "d",
+      "explicacao": "Rawls quer imparcialidade sem apelar à boa vontade de ninguém. Sem saber onde vai parar, o participante tende a proteger o pior lugar possível — e é daí que sai o princípio de que as desigualdades só se justificam quando beneficiam os que estão em pior situação.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-232",
+      "texto_apoio": "Diante de uma mesma decisão difícil, três avaliadores perguntam coisas diferentes: o primeiro, se a regra vale para todos; o segundo, quanto sofrimento a decisão evita; o terceiro, que tipo de pessoa se torna quem decide assim.",
+      "enunciado": "As perguntas dos três avaliadores correspondem, na ordem, às éticas:",
+      "alternativas": {
+        "a": "das virtudes, deontológica e consequencialista",
+        "b": "consequencialista, das virtudes e deontológica",
+        "c": "deontológica, consequencialista e das virtudes",
+        "d": "deontológica, das virtudes e consequencialista",
+        "e": "consequencialista, deontológica e das virtudes"
+      },
+      "resposta": "c",
+      "explicacao": "A pergunta pela regra universalizável é deontológica e remete a Kant; a pergunta pelo sofrimento evitado é consequencialista e remete ao utilitarismo; a pergunta pelo caráter formado é a da ética das virtudes, de raiz aristotélica. As três podem convergir num caso e divergir no seguinte.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-233",
+      "texto_apoio": "Um bonde desgovernado atingirá cinco pessoas. Um observador pode acionar uma alavanca que o desvia para outro trilho, onde há uma pessoa. Em outra versão do problema, o único modo de deter o bonde é empurrar um homem robusto da passarela.",
+      "enunciado": "A maior parte das pessoas aceita acionar a alavanca e recusa empurrar o homem. Essa diferença de julgamento é usada para mostrar que:",
+      "alternativas": {
+        "a": "o juízo moral comum não é puramente utilitarista, pois considera o modo como o dano é causado",
+        "b": "as duas versões do dilema são idênticas, e a diferença de resposta decorre apenas de desatenção",
+        "c": "o cálculo de consequências é sempre recusado quando envolve a vida de pessoas concretas",
+        "d": "a deontologia autoriza o sacrifício de um indivíduo quando o número de salvos é maior",
+        "e": "o número de vidas em jogo é irrelevante para o juízo moral formulado diante do caso"
+      },
+      "resposta": "a",
+      "explicacao": "A conta é a mesma nas duas versões: uma vida por cinco. O que muda é usar alguém como meio — empurrar o homem faz dele o instrumento do salvamento. A intuição que resiste a isso é deontológica, e o dilema moral serve justamente para expô-la.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-234",
+      "texto_apoio": "Um paciente relata ao médico que voltou a dirigir ônibus escolar apesar de crises convulsivas não controladas, e pede que a informação não saia do consultório.",
+      "enunciado": "Do ponto de vista da ética profissional, o sigilo nesse caso:",
+      "alternativas": {
+        "a": "é absoluto e impede qualquer comunicação, mesmo diante de risco a terceiros identificáveis",
+        "b": "admite ruptura, porque o risco a terceiros identificáveis constitui uma das exceções previstas",
+        "c": "deixa de existir assim que o paciente informa fato relacionado à sua atividade profissional",
+        "d": "depende exclusivamente da avaliação que o próprio paciente faz do risco que oferece às demais pessoas",
+        "e": "pode ser rompido a qualquer momento, já que serve apenas à conveniência do atendimento"
+      },
+      "resposta": "b",
+      "explicacao": "O sigilo é regra e não dogma: cede diante de justa causa, e o risco concreto a terceiros identificáveis é o exemplo clássico. A ruptura deve ser mínima — comunicar o necessário a quem pode agir —, e o caminho preferencial é convencer o paciente a fazê-lo primeiro.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-235",
+      "texto_apoio": "Um hospital dispõe de menos leitos de terapia intensiva do que pacientes que deles necessitam, e precisa definir um critério público de alocação.",
+      "enunciado": "Do ponto de vista da bioética, o critério mais defensável entre os apresentados é:",
+      "alternativas": {
+        "a": "a ordem de chegada, que dispensa julgamento clínico e trata todos do mesmo modo",
+        "b": "a capacidade de pagamento, que remunera o serviço e financia a ampliação da estrutura",
+        "c": "a idade isolada, que garante prioridade automática ao paciente mais jovem da fila",
+        "d": "a decisão da equipe caso a caso, sem critério declarado, para preservar a liberdade clínica",
+        "e": "a probabilidade de benefício clínico, aplicada por protocolo público e igual para todos"
+      },
+      "resposta": "e",
+      "explicacao": "Em escassez, a justiça distributiva pede critério explícito, sustentado em evidência e aplicado sem exceção pessoal. Ordem de chegada premia quem mora perto; capacidade de pagamento converte necessidade em mercado; decisão sem critério declarado impede qualquer controle.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-236",
+      "texto_apoio": "Peter Singer sustenta que a capacidade de sofrer, e não a inteligência ou a linguagem, é o que faz um ser merecer consideração, e chama de especismo a recusa em estender esse princípio para além da espécie humana.",
+      "enunciado": "O argumento central da ética animal formulada por Singer é o de que:",
+      "alternativas": {
+        "a": "os animais possuem os mesmos direitos que os seres humanos em todas as situações possíveis",
+        "b": "a superioridade racional humana justifica o uso dos demais animais em qualquer finalidade",
+        "c": "a proteção dos animais interessa apenas na medida em que preserva recursos para as pessoas",
+        "d": "interesses semelhantes merecem consideração semelhante, independentemente da espécie",
+        "e": "somente animais domésticos entram no cálculo, por manterem vínculo afetivo com pessoas"
+      },
+      "resposta": "d",
+      "explicacao": "Singer parte do utilitarismo: se o que conta é o sofrimento, excluir um ser por pertencer a outra espécie é arbitrário, do mesmo modo que excluir por raça ou sexo. Igual consideração não significa tratamento idêntico — significa que o interesse comparável não pode ser descartado de saída.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-237",
+      "texto_apoio": "Diante da constatação de que sociedades distintas adotam regras de conduta muito diferentes, um estudante conclui que nenhum juízo moral pode ser criticado de fora do grupo que o formula.",
+      "enunciado": "A principal objeção filosófica a essa conclusão é a de que:",
+      "alternativas": {
+        "a": "a variedade das regras observadas é aparente, pois todos os povos adotam as mesmas normas",
+        "b": "o relativismo moral só se aplica a sociedades antigas, e não às contemporâneas estudadas",
+        "c": "da diversidade de fato das regras não se deduz que todas sejam igualmente defensáveis",
+        "d": "os juízos morais não podem ser objeto de discussão racional em nenhuma circunstância",
+        "e": "cabe a cada indivíduo, e não ao grupo, estabelecer sozinho o que é certo e errado"
+      },
+      "resposta": "c",
+      "explicacao": "A crítica é o salto do descritivo ao normativo: constatar que os povos divergem é antropologia; concluir que por isso nenhuma prática pode ser criticada é outra coisa, e não se segue da primeira. Do contrário, nenhuma reforma moral interna a um grupo faria sentido — e elas ocorrem.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-238",
+      "texto_apoio": "Um tribunal reconhece que o autor de um dano agiu sob coação irresistível e, por isso, não lhe atribui culpa, embora reconheça que o dano ocorreu.",
+      "enunciado": "A decisão se apoia na tese de que a responsabilidade moral pressupõe:",
+      "alternativas": {
+        "a": "a produção de um dano efetivo, único elemento necessário para que haja imputação ao agente",
+        "b": "a possibilidade real de agir de outro modo, ausente quando a coação suprime a alternativa",
+        "c": "a intenção declarada pelo agente antes do ato, verificável apenas por sua própria confissão",
+        "d": "o conhecimento técnico da norma violada, exigido de qualquer pessoa em qualquer situação",
+        "e": "o arrependimento manifestado depois do fato, condição para que a conduta seja avaliada"
+      },
+      "resposta": "b",
+      "explicacao": "Não se responsabiliza quem não podia escolher: a liberdade de agir de outro modo é condição do juízo moral. É por isso que o debate sobre determinismo interessa tanto à ética — se nunca houvesse alternativa real, a atribuição de culpa perderia o fundamento.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-239",
+      "texto_apoio": "Um pesquisador avalia, para uma revista científica, o artigo de um grupo com o qual disputa o mesmo financiamento, e não informa essa circunstância aos editores.",
+      "enunciado": "A falta cometida pelo pesquisador consiste em:",
+      "alternativas": {
+        "a": "aceitar avaliar um artigo fora de sua área de formação e competência técnica reconhecida",
+        "b": "emitir parecer sobre trabalho ainda não publicado, prática vedada em qualquer circunstância",
+        "c": "avaliar trabalho de grupo concorrente, o que é vedado mesmo com a devida comunicação prévia",
+        "d": "omitir conflito de interesses que compromete a imparcialidade esperada de quem avalia",
+        "e": "divergir publicamente do resultado apresentado por outro grupo de pesquisa da mesma área"
+      },
+      "resposta": "d",
+      "explicacao": "A ética profissional não exige que o avaliador seja neutro por natureza: exige que declare o que pode inclinar seu juízo, para que outro decida se ele deve seguir. Avaliar concorrente não é falta em si; esconder a concorrência é.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-240",
+      "texto_apoio": "Hans Jonas propõe reformular o dever de modo que a ação presente seja compatível com a permanência de uma vida humana autêntica na Terra, incluindo entre os afetados quem ainda não nasceu.",
+      "enunciado": "A novidade introduzida por essa formulação em relação à tradição anterior está em:",
+      "alternativas": {
+        "a": "estender a responsabilidade moral no tempo, alcançando gerações que ainda não existem",
+        "b": "reduzir o dever ao interesse imediato dos contemporâneos que participam da decisão tomada",
+        "c": "substituir o juízo moral pelo cálculo técnico realizado por especialistas em cada área",
+        "d": "dispensar qualquer avaliação das consequências, que passam a ser tratadas como imprevisíveis",
+        "e": "afirmar que somente o passado pode ser objeto de responsabilidade por parte do agente"
+      },
+      "resposta": "a",
+      "explicacao": "A ética tradicional supunha efeitos próximos no espaço e no tempo. A escala técnica mudou isso: decisões de hoje alteram o mundo de quem virá, e Jonas propõe um princípio de precaução que dá peso maior à hipótese ruim justamente porque o dano pode ser irreversível.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-241",
+      "texto_apoio": "Nietzsche investiga a origem histórica dos valores e distingue uma avaliação que nasce da afirmação de si, que chama de nobre, de outra que nasce do ressentimento contra o forte e inverte os sinais dessa primeira tábua.",
+      "enunciado": "O objetivo dessa investigação sobre a origem histórica da moral é:",
+      "alternativas": {
+        "a": "demonstrar que os valores vigentes foram deduzidos de princípios racionais universais",
+        "b": "estabelecer uma nova lista de deveres destinada a substituir integralmente a anterior",
+        "c": "provar que a distinção entre certo e errado é a mesma em todas as épocas históricas",
+        "d": "confirmar a origem divina dos valores morais transmitidos pela tradição ocidental",
+        "e": "mostrar que os valores têm história e interesses na origem, e não fundamento eterno"
+      },
+      "resposta": "e",
+      "explicacao": "A genealogia não pergunta o que é o bem, e sim quem chamou o quê de bem, e por quê. Ao exibir a origem histórica da avaliação, Nietzsche retira dela a aparência de dado natural — e o alvo não é a conduta decente, é a pretensão de que a distinção entre certo e errado valha para sempre.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-242",
+      "texto_apoio": "Uma operária produz em quatro horas o valor equivalente ao seu salário diário, mas cumpre jornada de oito horas. O valor gerado nas horas restantes é apropriado pelo dono da fábrica.",
+      "enunciado": "Na análise de Karl Marx, o valor produzido nessas horas excedentes recebe o nome de:",
+      "alternativas": {
+        "a": "salário indireto, parcela da remuneração paga em benefícios e não em dinheiro corrente",
+        "b": "mais-valia, fonte do lucro apropriada por quem detém os meios de produção",
+        "c": "renda diferencial, ganho decorrente da melhor qualidade do equipamento utilizado",
+        "d": "juro do capital, remuneração devida a quem adiantou os recursos para a produção",
+        "e": "prejuízo contábil, diferença registrada entre o custo previsto e o custo efetivo do produto"
+      },
+      "resposta": "b",
+      "explicacao": "Marx distingue o valor da força de trabalho — o que custa manter a trabalhadora viva e disposta — do valor que ela produz. A diferença entre os dois é a mais-valia, e nela está a origem do lucro. O contrato pode ser cumprido à risca e a apropriação continua acontecendo.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-243",
+      "texto_apoio": "Em uma linha de montagem, cada pessoa executa uma única operação por turno, desconhece o destino final da peça e não decide o ritmo nem o método do próprio serviço.",
+      "enunciado": "Esse conjunto de características descreve o conceito marxiano de:",
+      "alternativas": {
+        "a": "solidariedade mecânica, coesão fundada na semelhança entre os membros de um mesmo grupo",
+        "b": "burocracia, forma de administração assentada em regras escritas e hierarquia de cargos",
+        "c": "mobilidade descendente, perda de posição ocupada anteriormente na hierarquia produtiva",
+        "d": "alienação, separação entre quem executa e o produto, o processo e a própria atividade",
+        "e": "acumulação primitiva, processo histórico de concentração inicial dos meios de produção"
+      },
+      "resposta": "d",
+      "explicacao": "A alienação em Marx tem várias faces: o produto se torna alheio, o processo é decidido por outro, o trabalho deixa de realizar quem o faz e as pessoas se estranham entre si. O que deveria ser a atividade mais humana passa a ser suportada como meio de sobrevivência.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-244",
+      "texto_apoio": "No Manifesto de 1848, Marx e Engels afirmam que a história de todas as sociedades até então existentes é a história das lutas de classes, travadas entre opressores e oprimidos em cada época.",
+      "enunciado": "Aplicada à sociedade industrial do século XIX, essa tese identifica como classes fundamentais:",
+      "alternativas": {
+        "a": "a burguesia, proprietária dos meios de produção, e o proletariado, que vende sua força de trabalho",
+        "b": "a nobreza fundiária e o clero, que disputavam entre si o controle das terras cultivadas naquele período",
+        "c": "os produtores rurais e os comerciantes urbanos, divididos pelo local em que residiam",
+        "d": "os cidadãos com instrução formal e os analfabetos, separados pelo acesso à escola pública",
+        "e": "as gerações mais velhas e as mais novas, em conflito quanto aos costumes de cada período"
+      },
+      "resposta": "a",
+      "explicacao": "O critério de classe em Marx é a posição na produção, não a renda nem o prestígio. De um lado quem é dono dos meios de produção; de outro quem só dispõe da própria força de trabalho e precisa vendê-la para viver. O antagonismo é estrutural, e não depende da disposição pessoal de ninguém.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-245",
+      "texto_apoio": "Um consumidor compara dois aparelhos pela marca e pelo preço, sem que nada no produto revele quem o montou, em que condições e por qual remuneração.",
+      "enunciado": "Marx chama de fetichismo da mercadoria o fenômeno em que:",
+      "alternativas": {
+        "a": "o consumidor atribui ao objeto poderes mágicos, no sentido literal empregado pelas religiões",
+        "b": "o preço de um bem é fixado pelo Estado, e não pelo encontro entre oferta e procura",
+        "c": "a relação entre pessoas aparece como relação entre coisas, e o trabalho some do produto",
+        "d": "a produção passa a ser organizada por cooperativas em que todos decidem coletivamente",
+        "e": "o valor de um bem depende apenas da utilidade que cada comprador individual lhe atribui"
+      },
+      "resposta": "c",
+      "explicacao": "A mercadoria chega pronta e muda: apresenta-se como coisa entre coisas, com preço e marca, e apaga o trabalho humano que a produziu. O que é relação social entre produtores aparece como propriedade do objeto — e é essa inversão que Marx chama de fetichismo.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-246",
+      "texto_apoio": "Émile Durkheim compara sociedades em que as pessoas exercem atividades semelhantes e compartilham as mesmas crenças com sociedades em que as funções se especializam e cada um depende do serviço alheio.",
+      "enunciado": "As formas de coesão predominantes em cada um desses tipos são, respectivamente:",
+      "alternativas": {
+        "a": "solidariedade orgânica e solidariedade mecânica",
+        "b": "coerção externa e consenso espontâneo",
+        "c": "anomia e consciência coletiva plenamente formada",
+        "d": "dominação tradicional e dominação carismática",
+        "e": "solidariedade mecânica e solidariedade orgânica"
+      },
+      "resposta": "e",
+      "explicacao": "Na solidariedade mecânica, o que une é a semelhança e a consciência coletiva forte. Na orgânica, o que une é a diferença: a divisão social do trabalho torna cada um dependente dos demais, como órgãos de um corpo. A passagem entre as duas é o tema central da tese de Durkheim.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-247",
+      "texto_apoio": "Durkheim observa que, em períodos de transformação econômica acelerada, tanto na crise quanto na prosperidade súbita, as regras que orientavam a conduta deixam de fornecer referência aos indivíduos.",
+      "enunciado": "O estado social descrito nessa passagem é o de:",
+      "alternativas": {
+        "a": "consciência coletiva reforçada, com adesão intensa dos indivíduos às regras vigentes",
+        "b": "anomia, situação de enfraquecimento das normas capazes de orientar a conduta",
+        "c": "dominação racional-legal, exercida por meio de estatutos escritos e cargos definidos",
+        "d": "acumulação flexível, forma de organizar a produção conforme a demanda de cada momento",
+        "e": "mobilidade estrutural, deslocamento de posições provocado pela mudança da economia"
+      },
+      "resposta": "b",
+      "explicacao": "Anomia não é ausência de leis escritas: é a perda de eficácia das regras que davam medida ao desejo e ao esforço. Por isso Durkheim a associa também aos períodos de enriquecimento rápido — quando o horizonte se abre sem limite, a insatisfação cresce em vez de diminuir.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-248",
+      "texto_apoio": "Durkheim define certos modos de agir e de pensar como exteriores ao indivíduo e dotados de poder de constrangimento sobre ele, e recomenda que sejam tratados como coisas pelo pesquisador.",
+      "enunciado": "O objeto assim definido por Durkheim é:",
+      "alternativas": {
+        "a": "o fato social, exterior ao indivíduo, geral em sua sociedade e dotado de coerção social",
+        "b": "a ação social, conduta orientada pelo sentido que o agente atribui ao comportamento alheio",
+        "c": "a mais-valia, diferença entre o valor produzido e o valor pago pela força de trabalho",
+        "d": "o tipo ideal, construção acentuada de traços usada como instrumento de comparação",
+        "e": "o habitus, conjunto de disposições incorporadas ao longo da trajetória de cada pessoa"
+      },
+      "resposta": "a",
+      "explicacao": "A definição tem três marcas: exterioridade, generalidade e coerção. A língua que se aprende, o horário do expediente e o modo de vestir em um velório não foram inventados por quem os segue, e a pressão aparece justamente quando alguém tenta descumpri-los.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-249",
+      "texto_apoio": "Max Weber propõe estudar a conduta humana a partir do sentido que o agente lhe atribui e da orientação dessa conduta pelo comportamento de outras pessoas.",
+      "enunciado": "Essa proposta define o conceito weberiano de:",
+      "alternativas": {
+        "a": "fato social, exterior ao indivíduo e dotado de poder de constrangimento sobre a conduta",
+        "b": "consciência coletiva, conjunto de crenças comuns à média dos membros de uma sociedade",
+        "c": "modo de produção, articulação entre forças produtivas e relações estabelecidas na produção",
+        "d": "ação social, conduta dotada de sentido subjetivo e orientada pela conduta de outros",
+        "e": "coerção social, pressão exercida pelo grupo sobre quem se afasta da regra estabelecida"
+      },
+      "resposta": "d",
+      "explicacao": "Weber inverte o ponto de partida de Durkheim: em vez de tratar o social como coisa exterior, parte do sentido que move o agente. Andar de bicicleta sozinho não é ação social; desviar para não atropelar alguém, sim — a conduta alheia entra no cálculo de quem age.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-250",
+      "texto_apoio": "Um órgão público organiza suas atividades por competências fixadas em regulamento, exige seleção por concurso, mantém registro escrito de cada decisão e separa o patrimônio do cargo do patrimônio de quem o ocupa.",
+      "enunciado": "As características descritas correspondem, na tipologia de Weber, à:",
+      "alternativas": {
+        "a": "dominação tradicional, fundada no costume herdado e na fidelidade pessoal ao senhor",
+        "b": "dominação carismática, apoiada em qualidades extraordinárias atribuídas a um líder",
+        "c": "burocracia, forma administrativa típica da dominação racional-legal moderna",
+        "d": "solidariedade mecânica, coesão baseada na semelhança de funções entre os membros",
+        "e": "acumulação primitiva, concentração inicial dos meios necessários à produção industrial"
+      },
+      "resposta": "c",
+      "explicacao": "A burocracia weberiana é um tipo ideal: obediência à norma impessoal, e não à pessoa. Weber a considera tecnicamente superior às formas anteriores e, ao mesmo tempo, teme seu avanço — a mesma máquina que garante previsibilidade pode aprisionar quem vive dentro dela.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-251",
+      "texto_apoio": "Weber descreve um processo histórico em que a explicação mágica e religiosa do mundo cede lugar ao cálculo, à previsão técnica e à submissão de esferas cada vez mais amplas da vida a critérios de eficiência.",
+      "enunciado": "Esse processo é designado por Weber como:",
+      "alternativas": {
+        "a": "alienação do trabalho, separação entre quem produz e aquilo que resulta de sua atividade",
+        "b": "divisão social do trabalho, especialização crescente das funções exercidas na sociedade",
+        "c": "anomia, enfraquecimento das normas que davam medida à conduta dos indivíduos",
+        "d": "acumulação flexível, reorganização da produção conforme a variação da procura",
+        "e": "racionalização, acompanhada do desencantamento do mundo que ela produz"
+      },
+      "resposta": "e",
+      "explicacao": "Desencantamento não significa que as pessoas deixaram de crer: significa que, em princípio, tudo pode ser dominado pelo cálculo, e o mistério deixa de ser explicação aceitável. Weber vê aí ganho de eficiência e perda de sentido, e não trata a troca como progresso simples.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-252",
+      "texto_apoio": "Weber observa que um professor universitário de renda modesta pode gozar de prestígio elevado, enquanto um comerciante próspero pode ser mal recebido nos círculos que valoriza, e que nenhum dos dois necessariamente controla decisões políticas.",
+      "enunciado": "A estratificação social, nessa análise, é entendida como resultado de:",
+      "alternativas": {
+        "a": "um único critério, a posição ocupada pelo indivíduo no processo produtivo de sua sociedade",
+        "b": "três ordens distintas e não coincidentes: a econômica, a do prestígio e a do poder",
+        "c": "dois grupos apenas, definidos pela propriedade ou não propriedade dos meios de produção",
+        "d": "uma escala contínua de renda, em que cada indivíduo ocupa a posição correspondente ao ganho",
+        "e": "critérios hereditários fixos, que impedem qualquer deslocamento entre as posições existentes"
+      },
+      "resposta": "b",
+      "explicacao": "Weber concorda com Marx que a economia pesa, mas recusa reduzir tudo a ela. Classe é situação de mercado; estamento é honra e estilo de vida reconhecidos; partido é organização voltada ao poder. As três ordens se cruzam, e quase nunca coincidem por inteiro.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-253",
+      "texto_apoio": "Um engenheiro cronometra cada movimento executado na oficina, elimina os gestos que considera inúteis, fixa o método a ser seguido e separa quem planeja de quem executa.",
+      "enunciado": "O modelo de organização da produção descrito nesse trecho é o:",
+      "alternativas": {
+        "a": "taylorismo, ou administração científica, baseado no estudo de tempos e movimentos",
+        "b": "toyotismo, apoiado na produção puxada pela procura e no estoque reduzido ao mínimo",
+        "c": "artesanato urbano, em que o mesmo trabalhador domina todas as etapas da confecção",
+        "d": "cooperativismo, em que as decisões sobre o processo são tomadas pelo conjunto dos sócios",
+        "e": "trabalho por plataforma, coordenado por aplicativo que distribui as tarefas aos cadastrados"
+      },
+      "resposta": "a",
+      "explicacao": "Taylor promete eficiência retirando do trabalhador o saber sobre o próprio ofício e transferindo-o à gerência. O ganho de produtividade é real e o custo também: o operário perde o controle do método e passa a executar o que outro pensou.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-254",
+      "texto_apoio": "Henry Ford introduziu a esteira rolante, padronizou o produto, reduziu o preço unitário pela escala e pagou salários acima da média para que seus próprios operários pudessem comprar o automóvel que montavam.",
+      "enunciado": "O conjunto dessas medidas caracteriza o fordismo, cujo princípio consiste em:",
+      "alternativas": {
+        "a": "produzir sob encomenda, ajustando cada unidade às exigências do comprador que a solicitou",
+        "b": "reduzir a escala de produção para elevar a margem de lucro obtida em cada unidade vendida",
+        "c": "eliminar a linha de montagem em favor de equipes que dominam o processo do início ao fim",
+        "d": "articular produção em massa e consumo em massa, sustentados por salário e preço padronizados",
+        "e": "transferir a montagem dos veículos a prestadores autônomos remunerados por unidade efetivamente entregue"
+      },
+      "resposta": "d",
+      "explicacao": "O fordismo não é só a esteira: é o acordo entre produzir muito e vender muito. Salário maior transforma o operário em consumidor, e a escala derruba o preço. O modelo depende de procura estável — e é justamente ela que falta a partir dos anos 1970.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-255",
+      "texto_apoio": "Uma montadora mantém estoque mínimo, recebe peças no momento exato em que serão usadas, opera com equipes que executam várias funções e amplia ou reduz a produção conforme os pedidos recebidos.",
+      "enunciado": "O modelo produtivo descrito nesse trecho é o:",
+      "alternativas": {
+        "a": "taylorismo, apoiado na cronometragem dos movimentos e na separação entre planejar e executar",
+        "b": "fordismo clássico, com produto padronizado e grandes estoques mantidos entre as etapas",
+        "c": "toyotismo, com produção puxada pela procura e trabalhador polivalente na linha",
+        "d": "manufatura artesanal, em que cada peça é produzida sob medida por um único profissional",
+        "e": "economia de subsistência, voltada ao consumo direto de quem participa da produção"
+      },
+      "resposta": "c",
+      "explicacao": "O toyotismo responde à instabilidade da procura: produz o que já foi vendido, mantém estoque próximo de zero e exige que a mesma pessoa opere várias máquinas. Ganha flexibilidade e transfere ao trabalhador a pressão por resultado, além de encurtar o vínculo de emprego.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-256",
+      "texto_apoio": "Um setor industrial dobra sua produção em dez anos e, no mesmo período, reduz em um terço o número de empregados, em razão da automação de etapas antes executadas manualmente.",
+      "enunciado": "O fenômeno descrito nesse trecho é conhecido como:",
+      "alternativas": {
+        "a": "desemprego friccional, intervalo entre a saída de um posto e a entrada em outro semelhante",
+        "b": "desemprego sazonal, variação prevista conforme o período do ano em cada atividade",
+        "c": "pleno emprego, situação em que a procura por vagas é atendida pela oferta existente",
+        "d": "mobilidade ascendente, deslocamento dos trabalhadores para posições de maior remuneração",
+        "e": "desemprego estrutural, resultante da reestruturação produtiva e da automação de etapas"
+      },
+      "resposta": "e",
+      "explicacao": "O desemprego estrutural não se resolve com retomada do crescimento: os postos não voltam porque a etapa que os justificava deixou de existir. A saída passa por qualificação e por criação de ocupações em outros setores, o que leva tempo e não alcança todo mundo.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-257",
+      "texto_apoio": "Um entregador cadastrado em um aplicativo escolhe quando trabalhar, mas não define o valor da corrida, é avaliado por nota atribuída pelos clientes, arca com o custo da moto e pode ser descadastrado sem aviso prévio.",
+      "enunciado": "Essa forma de organização do trabalho, chamada de uberização, caracteriza-se por:",
+      "alternativas": {
+        "a": "manter a subordinação e o controle sobre o serviço, sem os direitos do vínculo formal de emprego",
+        "b": "assegurar autonomia plena ao prestador, que fixa o preço e as condições de cada serviço prestado",
+        "c": "reproduzir o vínculo assalariado tradicional, apenas com uso de tecnologia na comunicação",
+        "d": "eliminar a figura do intermediário, colocando prestador e cliente em contato direto e sem taxas",
+        "e": "transferir à empresa contratante os custos dos equipamentos utilizados na prestação do serviço"
+      },
+      "resposta": "a",
+      "explicacao": "A promessa é de autonomia; o que se observa é controle por outros meios — algoritmo que distribui, nota que pune, preço definido de cima. O prestador assume os custos e os riscos e não recebe as garantias do emprego: é uma forma de exploração do trabalho que dispensa o vínculo formal, e a literatura a descreve como precarização com aparência de liberdade.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-258",
+      "texto_apoio": "Dados do IBGE mostram que cerca de quatro em cada dez ocupados no Brasil trabalham sem carteira assinada, sem contribuição previdenciária ou por conta própria sem registro.",
+      "enunciado": "Do ponto de vista sociológico, a persistência de índices elevados de trabalho informal no país indica que:",
+      "alternativas": {
+        "a": "a informalidade é fenômeno recente, surgido com a difusão dos aplicativos de intermediação",
+        "b": "a informalidade é traço estrutural do mercado de trabalho brasileiro, e não desvio passageiro",
+        "c": "os trabalhadores informais recebem, em média, remuneração superior à dos formalizados",
+        "d": "a informalidade se concentra justamente nas regiões de maior renda e maior escolaridade da população",
+        "e": "o registro em carteira deixou de produzir efeitos práticos sobre a proteção de quem trabalha"
+      },
+      "resposta": "b",
+      "explicacao": "A informalidade barateia a força de trabalho e acompanha o mercado brasileiro desde sua formação, crescendo nas crises sem desaparecer nas retomadas. Ela significa renda instável, ausência de proteção previdenciária e dificuldade de organização coletiva — e atinge de modo desigual mulheres negras e jovens periféricos.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-259",
+      "texto_apoio": "Um relatório informa que o décimo mais rico de determinado país concentra parcela da renda nacional maior que a metade mais pobre somada, e que essa proporção pouco se alterou em vinte anos.",
+      "enunciado": "A leitura desse dado pela sociologia é a de que:",
+      "alternativas": {
+        "a": "a desigualdade de renda é consequência direta e exclusiva do esforço individual de cada pessoa",
+        "b": "a concentração descrita tende a desaparecer com o simples crescimento do produto nacional",
+        "c": "os indicadores de renda são incapazes de descrever qualquer aspecto da estrutura social",
+        "d": "a desigualdade tem caráter estrutural, reproduzida por mecanismos que atravessam gerações",
+        "e": "a estabilidade do índice ao longo do tempo demonstra que a distribuição alcançou equilíbrio justo"
+      },
+      "resposta": "d",
+      "explicacao": "Concentração que resiste a duas décadas não se explica por trajetórias individuais. Herança, acesso desigual à escola, redes de contato e tributação regressiva reproduzem a distância entre os extremos — e crescimento sem redistribuição costuma manter a proporção intacta.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-260",
+      "texto_apoio": "Em uma sociedade, filhos de famílias do estrato mais baixo raramente alcançam os estratos superiores, enquanto filhos das famílias do topo quase sempre permanecem nele.",
+      "enunciado": "A situação descrita indica baixa:",
+      "alternativas": {
+        "a": "coerção social, medida pela pressão que o grupo exerce sobre a conduta dos indivíduos",
+        "b": "densidade demográfica, medida pela distribuição da população no território ocupado",
+        "c": "mobilidade social, medida pelo deslocamento entre posições ao longo das gerações",
+        "d": "divisão do trabalho, medida pelo grau de especialização das funções exercidas",
+        "e": "racionalização administrativa, medida pela extensão das regras escritas em vigor"
+      },
+      "resposta": "c",
+      "explicacao": "Mobilidade intergeracional compara a posição dos filhos com a dos pais. Quando ela é baixa, a origem familiar prevê o destino melhor que qualquer outro fator, e o discurso do mérito perde base: o ponto de partida, e não o esforço, explica a maior parte do resultado.",
+      "formato": "direta"
+    },
+    {
+      "id": "filosofia-sociologia-261",
+      "texto_apoio": "A abolição de 1888 não foi acompanhada de distribuição de terras, de política de acesso à escola ou de qualquer forma de indenização aos libertos, enquanto o Estado subsidiava a vinda de trabalhadores europeus para as lavouras do Sudeste.",
+      "enunciado": "Para a sociologia do trabalho no Brasil, esse conjunto de decisões ajuda a explicar:",
+      "alternativas": {
+        "a": "a ausência de desigualdade social entre brancos e negros no mercado de trabalho posterior a 1888",
+        "b": "a rápida incorporação dos libertos aos postos mais qualificados da indústria que então nascia",
+        "c": "o desaparecimento das diferenças de renda entre as regiões do país ao longo do século seguinte",
+        "d": "a ausência de qualquer relação entre a escravidão e a estrutura ocupacional posterior a ela",
+        "e": "a posição desvantajosa da população negra no mercado de trabalho formado após a abolição"
+      },
+      "resposta": "e",
+      "explicacao": "Abolir sem reparar deixou os libertos sem terra, sem escola e sem crédito, ao mesmo tempo em que o imigrante subsidiado ocupava as vagas do café e barateava a força de trabalho disponível. A desigualdade social que se lê hoje nos dados de renda e ocupação tem aí uma de suas origens documentadas.",
+      "formato": "direta"
     }
   ]
 }

@@ -25315,6 +25315,438 @@ window.QUESTION_BANKS = {
    "explicacao": "As múltiplas hidroxilas (-OH) ligadas a carbonos saturados (sp³) do esqueleto da azadiractina caracterizam a função álcool — diferente dos grupos éster (carbonilas já contabilizadas) e sem a presença de aldeído, cetona livre, fenol ou ácido carboxílico livre, conforme descrito no enunciado.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-344",
+   "texto_apoio": "O butano (C4H10) e o metilpropano (também C4H10) são compostos orgânicos de mesma fórmula molecular, mas com cadeias carbônicas de estrutura diferente: uma normal e outra ramificada.",
+   "enunciado": "A relação entre o butano e o metilpropano caracteriza um caso de:",
+   "alternativas": {
+    "a": "isomeria de cadeia, já que a fórmula molecular orgânica se mantém e apenas o arranjo da cadeia carbônica muda",
+    "b": "isomeria de função, porque os dois compostos pertencem a funções orgânicas diferentes apesar da fórmula igual",
+    "c": "isomeria geométrica, decorrente da restrição de rotação em torno de uma dupla ligação entre carbonos",
+    "d": "isomeria óptica, associada à existência de um carbono assimétrico ligado a quatro grupos distintos",
+    "e": "tautomeria, em que os dois compostos coexistem em equilíbrio dinâmico dentro da mesma amostra"
+   },
+   "resposta": "a",
+   "explicacao": "Mesma fórmula molecular (C4H10), mesma função (hidrocarboneto), mas cadeia normal em um caso e ramificada no outro: é isomeria de cadeia, sem envolver dupla ligação, carbono assimétrico ou equilíbrio dinâmico.",
+   "formato": "direta",
+   "banca": "unicamp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-345",
+   "texto_apoio": "O acetileno (etino), usado em maçaricos de solda, é o hidrocarboneto mais simples que apresenta uma tripla ligação entre dois átomos de carbono.",
+   "enunciado": "O acetileno pertence à função dos:",
+   "alternativas": {
+    "a": "alcanos, cuja cadeia carbônica é formada exclusivamente por ligações simples entre os átomos de carbono",
+    "b": "alcinos, identificados pela presença de uma tripla ligação entre dois átomos de carbono da cadeia",
+    "c": "alcenos, caracterizados pela presença de uma dupla ligação entre dois átomos de carbono da cadeia",
+    "d": "aromáticos, definidos pela presença de ao menos um anel benzênico na estrutura da substância",
+    "e": "cicloalcanos, cuja cadeia carbônica se fecha formando um anel sem ligações múltiplas entre carbonos"
+   },
+   "resposta": "b",
+   "explicacao": "A tripla ligação entre carbonos é a marca que define os alcinos; alcanos têm só ligações simples, alcenos têm dupla, aromáticos têm anel benzênico e cicloalcanos são cadeias fechadas sem ligação múltipla.",
+   "formato": "direta",
+   "banca": "santacasa",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-346",
+   "texto_apoio": "O propano-1-ol e o propano-2-ol são dois álcoois de mesma fórmula molecular C3H8O, diferindo apenas na posição da hidroxila ao longo da cadeia carbônica.",
+   "enunciado": "A diferença entre esses dois compostos é classificada como isomeria de:",
+   "alternativas": {
+    "a": "função, pois um dos compostos deixa de pertencer à função álcool ao mudar a posição da hidroxila",
+    "b": "cadeia, pois a estrutura da cadeia carbônica se altera de normal para ramificada entre os dois compostos comparados",
+    "c": "posição, pois a cadeia carbônica e a função permanecem as mesmas, mudando apenas o local do grupo funcional",
+    "d": "compensação, pois um átomo de oxigênio troca de lugar com um átomo de carbono na estrutura molecular",
+    "e": "óptica, pois cada um dos dois compostos apresenta um centro de assimetria na sua estrutura molecular"
+   },
+   "resposta": "c",
+   "explicacao": "Cadeia e função (álcool) são as mesmas nos dois compostos; só a posição da hidroxila no carbono muda — isomeria de posição, distinta de isomeria de cadeia, função ou óptica.",
+   "formato": "direta",
+   "banca": "unesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-347",
+   "texto_apoio": "O ácido lático, presente no músculo durante exercício intenso, apresenta um carbono ligado a quatro grupos diferentes: hidrogênio, hidroxila, metila e carboxila.",
+   "enunciado": "Esse carbono é chamado de assimétrico, e sua presença está associada à existência de:",
+   "alternativas": {
+    "a": "isomeria de cadeia, decorrente da ramificação da cadeia carbônica ao redor do carbono assimétrico",
+    "b": "isomeria geométrica, decorrente do impedimento de rotação em torno de uma ligação dupla presente",
+    "c": "isomeria de posição, decorrente da diferença de local do grupo funcional na cadeia carbônica",
+    "d": "isomeria óptica, decorrente da possibilidade de duas formas espaciais que são imagens especulares",
+    "e": "isomeria de função, decorrente da coexistência de duas funções orgânicas distintas na mesma substância"
+   },
+   "resposta": "d",
+   "explicacao": "Um carbono ligado a quatro grupos diferentes é assimétrico e gera duas formas espaciais que são imagens especulares não sobreponíveis — isomeria óptica, e não isomeria plana de cadeia, posição ou função.",
+   "formato": "direta",
+   "banca": "einstein",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-348",
+   "texto_apoio": "A reação entre etileno e água, na presença de catalisador ácido, produz etanol como único produto.",
+   "enunciado": "Essa transformação, em que uma substância é incorporada à dupla ligação de um alceno, é chamada de reação de:",
+   "alternativas": {
+    "a": "substituição, em que um átomo ou grupo da cadeia carbônica é trocado por outro átomo ou grupo",
+    "b": "eliminação, em que átomos são retirados de uma substância para formar uma ligação dupla ou tripla",
+    "c": "esterificação, em que um ácido carboxílico reage com um álcool para formar éster e água",
+    "d": "combustão, em que um composto orgânico reage com oxigênio liberando calor e produtos oxidados ao ambiente",
+    "e": "adição, em que a dupla ligação se rompe parcialmente para incorporar novos átomos à cadeia carbônica"
+   },
+   "resposta": "e",
+   "explicacao": "A água se soma à dupla ligação do etileno, que se torna simples ao incorporar os novos átomos — é reação de adição, típica de alcenos e alcinos, não substituição, eliminação, esterificação ou combustão.",
+   "formato": "direta",
+   "banca": "famema",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-349",
+   "texto_apoio": "O ácido acético reage com o etanol, na presença de catalisador, formando acetato de etila e água como subproduto.",
+   "enunciado": "Essa reação entre um ácido carboxílico e um álcool, que produz um composto de odor característico, é chamada de:",
+   "alternativas": {
+    "a": "esterificação, reação entre ácido carboxílico e álcool que produz éster e água como subprodutos",
+    "b": "saponificação, reação entre um éster e uma base forte que produz sabão e glicerina como produtos",
+    "c": "hidrólise, reação entre um éster e água que regenera o ácido carboxílico e o álcool originais",
+    "d": "neutralização, reação entre um ácido e uma base que produz sal e água como produtos finais",
+    "e": "polimerização, reação de repetição de uma unidade monomérica formando uma cadeia longa"
+   },
+   "resposta": "a",
+   "explicacao": "Ácido carboxílico mais álcool, com liberação de água e formação de um composto de cheiro característico, define a esterificação — diferente de saponificação, hidrólise, neutralização ou polimerização.",
+   "formato": "direta",
+   "banca": "unifesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-350",
+   "texto_apoio": "O etanol (CH3CH2OH) tem a hidroxila ligada a um carbono saturado da cadeia; o fenol (C6H5OH) tem a hidroxila ligada diretamente a um carbono de anel aromático.",
+   "enunciado": "A diferença entre essas duas funções orgânicas está em que:",
+   "alternativas": {
+    "a": "o etanol é sempre gasoso à temperatura ambiente, enquanto o fenol é sempre sólido nas mesmas condições",
+    "b": "a posição da hidroxila define a função: em carbono saturado é álcool, em anel aromático é fenol",
+    "c": "apenas o fenol contém oxigênio na composição, ausente na substância descrita como etanol",
+    "d": "o etanol não possui carbono na composição, ao contrário do fenol, formado por um anel de carbonos",
+    "e": "apenas o etanol reage com metais alcalinos, sendo o fenol totalmente inerte a esse tipo de reação"
+   },
+   "resposta": "b",
+   "explicacao": "O critério que separa álcool de fenol é a posição da hidroxila: ligada a carbono saturado, é álcool; ligada diretamente ao anel aromático, é fenol — as demais alternativas atribuem propriedades que não distinguem as duas funções.",
+   "formato": "direta",
+   "banca": "unesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-351",
+   "texto_apoio": "A tabela mostra a temperatura de ebulição de quatro compostos com número semelhante de carbonos: um alcano, um álcool, um ácido carboxílico e um éter, todos com massas molares próximas.",
+   "enunciado": "A ordem esperada de temperatura de ebulição, da mais baixa para a mais alta, é:",
+   "alternativas": {
+    "a": "ácido carboxílico, álcool, éter, alcano — do maior número de ligações de hidrogênio para o menor",
+    "b": "éter, alcano, ácido carboxílico, álcool — sem relação direta com o tipo de interação intermolecular presente",
+    "c": "alcano, éter, álcool, ácido carboxílico — conforme aumenta a intensidade das interações intermoleculares",
+    "d": "álcool, ácido carboxílico, éter, alcano — do maior para o menor número de oxigênios na composição",
+    "e": "alcano, ácido carboxílico, éter, álcool — em ordem alfabética das funções orgânicas envolvidas na comparação"
+   },
+   "resposta": "c",
+   "explicacao": "O alcano, hidrocarboneto sem grupo funcional, só tem interações fracas de dispersão; o éter tem interação polar moderada; o álcool forma uma ligação de hidrogênio por unidade; o ácido carboxílico forma duas, unidas em pares — a ebulição cresce nessa mesma ordem.",
+   "formato": "direta",
+   "banca": "santacasa",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-352",
+   "texto_apoio": "O ácido acetilsalicílico (aspirina) apresenta, na mesma substância, um grupo éster e um grupo ácido carboxílico ligados a um anel aromático.",
+   "enunciado": "A presença de mais de uma função orgânica oxigenada na mesma substância, como ocorre na aspirina, caracteriza um composto:",
+   "alternativas": {
+    "a": "isômero, porque a coexistência de duas funções distintas define automaticamente uma relação de isomeria",
+    "b": "polimérico, porque a repetição de unidades estruturais forma uma cadeia molecular de alta massa",
+    "c": "racêmico, porque a substância contém proporções iguais de dois enantiômeros em uma mesma amostra",
+    "d": "polifuncional, porque duas ou mais funções orgânicas diferentes estão presentes na mesma estrutura",
+    "e": "saturado, porque todas as ligações entre carbonos da substância são exclusivamente ligações simples"
+   },
+   "resposta": "d",
+   "explicacao": "Ter éster e ácido carboxílico na mesma substância é ter duas funções orgânicas diferentes coexistindo — isso é polifuncionalidade, e não isomeria, polimerização, mistura racêmica ou saturação da cadeia.",
+   "formato": "direta",
+   "banca": "famerp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-353",
+   "texto_apoio": "O politereftalato de etileno (PET), usado em garrafas plásticas, é obtido pela repetição de uma unidade estrutural derivada de um ácido e um álcool.",
+   "enunciado": "Esse tipo de material, formado pela repetição de unidades menores ligadas em cadeia longa, é chamado de:",
+   "alternativas": {
+    "a": "monômero, unidade estrutural simples que ainda não reagiu para formar uma cadeia maior",
+    "b": "isômero, composto de mesma fórmula molecular e estrutura diferente de outro composto",
+    "c": "hidrocarboneto, composto formado exclusivamente por átomos de carbono e hidrogênio ao longo de toda a cadeia",
+    "d": "eletrólito, substância capaz de conduzir corrente elétrica quando dissolvida ou fundida",
+    "e": "polímero, macromolécula formada pela repetição de unidades estruturais menores ligadas entre si"
+   },
+   "resposta": "e",
+   "explicacao": "A repetição de uma unidade estrutural formando uma cadeia longa é a definição de polímero; o monômero é a unidade isolada antes da reação, e as demais alternativas descrevem categorias diferentes de composto.",
+   "formato": "direta",
+   "banca": "unicamp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-354",
+   "texto_apoio": "A fermentação de açúcares por leveduras produz etanol e gás carbônico; o etanol obtido é usado tanto como combustível quanto como insumo industrial.",
+   "enunciado": "O grupo funcional que caracteriza o etanol, presente em sua estrutura, é:",
+   "alternativas": {
+    "a": "a hidroxila, grupo formado por um átomo de oxigênio ligado a um átomo de hidrogênio e a um carbono saturado",
+    "b": "a carbonila, grupo formado por um átomo de carbono ligado por dupla ligação a um átomo de oxigênio",
+    "c": "a carboxila, grupo formado pela combinação de uma carbonila e uma hidroxila no mesmo carbono",
+    "d": "o grupo amino, formado por um átomo de nitrogênio ligado a átomos de hidrogênio e a um carbono",
+    "e": "o grupo éster, formado pela ligação entre um carbono carbonílico e um átomo de oxigênio de outra cadeia carbônica"
+   },
+   "resposta": "a",
+   "explicacao": "O etanol é definido pela hidroxila ligada a carbono saturado; carbonila define aldeídos/cetonas, carboxila define ácidos carboxílicos, amino define aminas e éster tem estrutura própria diferente da do etanol.",
+   "formato": "direta",
+   "banca": "unesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-355",
+   "texto_apoio": "A vanilina, responsável pelo aroma característico da baunilha, apresenta em sua estrutura um grupo carbonila ligado a um átomo de hidrogênio e a um anel aromático.",
+   "enunciado": "Esse arranjo estrutural, carbonila ligada a hidrogênio e a um grupo carbônico, define a função:",
+   "alternativas": {
+    "a": "cetona, em que a carbonila está ligada a dois grupos carbônicos distintos, sem hidrogênio ligado diretamente a ela",
+    "b": "aldeído, em que a carbonila está ligada a um átomo de hidrogênio e a um grupo carbônico ou a outro hidrogênio",
+    "c": "álcool, em que um átomo de oxigênio se liga a um átomo de hidrogênio e a um carbono saturado da cadeia",
+    "d": "ácido carboxílico, em que a carbonila se combina com uma hidroxila no mesmo átomo de carbono",
+    "e": "éter, em que um átomo de oxigênio liga dois grupos carbônicos sem hidrogênio ligado a esse oxigênio"
+   },
+   "resposta": "b",
+   "explicacao": "Carbonila ligada a um hidrogênio e a um grupo carbônico define o aldeído; na cetona a carbonila liga dois grupos carbônicos, sem hidrogênio — a diferença de grupo funcional entre as duas funções orgânicas está exatamente nesse detalhe.",
+   "formato": "direta",
+   "banca": "santacasa",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-356",
+   "texto_apoio": "Um estudante analisa quatro substâncias e precisa identificar qual delas NÃO pertence à função amina.",
+   "enunciado": "Das estruturas apresentadas, aponte a que corresponde a uma exceção — ou seja, a única que NÃO é uma amina:",
+   "alternativas": {
+    "a": "CH3-NH2, em que um átomo de nitrogênio está ligado a um grupo metila e a dois átomos de hidrogênio",
+    "b": "CH3-NH-CH3, em que um átomo de nitrogênio está ligado a dois grupos metila e a um átomo de hidrogênio",
+    "c": "CH3-CO-NH2, em que um grupo carbonila e um grupo amino estão ligados ao mesmo átomo de carbono",
+    "d": "(CH3)3N, em que um átomo de nitrogênio está ligado a três grupos metila, sem hidrogênio ligado a ele",
+    "e": "CH3-CH2-NH2, em que um átomo de nitrogênio está ligado a um grupo etila e a dois átomos de hidrogênio"
+   },
+   "resposta": "c",
+   "explicacao": "CH3-CO-NH2 tem carbonila ligada a nitrogênio no mesmo carbono: é amida, função definida por grupo funcional distinto da amina. As demais estruturas têm nitrogênio ligado apenas a carbonos e hidrogênios, sem carbonila adjacente — são aminas primária, secundária e terciária.",
+   "formato": "excecao",
+   "banca": "unifesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-357",
+   "texto_apoio": "A glicose é um carboidrato de fórmula C6H12O6, presente no sangue e utilizado como principal fonte de energia pelas células do corpo humano.",
+   "enunciado": "Em sua estrutura, a glicose apresenta múltiplos grupos ______ e um grupo ______, o que a classifica quimicamente como um ______. As lacunas são preenchidas, respectivamente, por:",
+   "alternativas": {
+    "a": "amino – carboxila – aminoácido, classe de compostos que forma as proteínas presentes no organismo",
+    "b": "carboxila – hidroxila – ácido graxo, componente estrutural característico dos lipídios de reserva energética",
+    "c": "éster – éter – polímero natural, macromolécula formada pela repetição de unidades de glicose ligadas",
+    "d": "hidroxila – carbonila – poliálcool aldeídico, estrutura típica dos açúcares redutores como a glicose",
+    "e": "amida – amino – peptídeo, estrutura formada pela ligação entre dois ou mais aminoácidos distintos"
+   },
+   "resposta": "d",
+   "explicacao": "A glicose tem várias hidroxilas ao longo da cadeia e um grupo carbonila (aldeído) em uma extremidade — um poliálcool aldeídico, estrutura típica dos monossacarídeos redutores, e não um aminoácido, ácido graxo, polímero ou peptídeo.",
+   "formato": "lacunas",
+   "banca": "famema",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-358",
+   "texto_apoio": "Os triglicerídeos, principal forma de reserva energética do tecido adiposo, resultam da união de uma substância de glicerol com três ácidos graxos.",
+   "enunciado": "A ligação química formada entre o glicerol e cada ácido graxo, com liberação de água, é do tipo:",
+   "alternativas": {
+    "a": "ligação peptídica, característica da união entre aminoácidos na formação de cadeias proteicas",
+    "b": "ligação glicosídica, característica da união entre monossacarídeos na formação de polissacarídeos",
+    "c": "ligação de hidrogênio, interação intermolecular fraca que não envolve compartilhamento de elétrons",
+    "d": "ligação iônica, formada pela atração eletrostática entre íons de carga oposta na substância",
+    "e": "ligação éster, formada entre a hidroxila do glicerol e a carboxila de cada ácido graxo envolvido"
+   },
+   "resposta": "e",
+   "explicacao": "Glicerol (um álcool) reagindo com ácido graxo (um ácido carboxílico), com saída de água, forma ligação éster — mecanismo de esterificação repetido três vezes, diferente das ligações peptídica, glicosídica, de hidrogênio ou iônica.",
+   "formato": "direta",
+   "banca": "unesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-359",
+   "texto_apoio": "Um estudante compara o metano (CH4), o eteno (C2H4) e o benzeno (C6H6) quanto à saturação da cadeia carbônica.",
+   "enunciado": "Sobre a saturação das três substâncias, é correto afirmar que:",
+   "alternativas": {
+    "a": "o metano é saturado, o eteno é insaturado por apresentar dupla ligação, e o benzeno é aromático",
+    "b": "o metano é insaturado, o eteno é saturado e o benzeno é aromático, sem relação de saturação entre eles",
+    "c": "as três substâncias são saturadas, já que nenhuma delas apresenta ligação tripla entre carbonos",
+    "d": "as três substâncias são insaturadas, por conterem mais de um átomo de carbono em sua estrutura",
+    "e": "o metano e o eteno são aromáticos, enquanto o benzeno é o único hidrocarboneto saturado do grupo"
+   },
+   "resposta": "a",
+   "explicacao": "O metano só tem ligações simples (saturado); o eteno tem uma dupla ligação (insaturado); o benzeno tem o anel aromático com ligações deslocalizadas, categoria própria — nenhuma das outras combinações descreve corretamente os três compostos.",
+   "formato": "direta",
+   "banca": "einstein",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-360",
+   "texto_apoio": "O biodiesel é produzido pela reação entre óleos vegetais (triglicerídeos) e um álcool de cadeia curta, geralmente metanol ou etanol, na presença de um catalisador básico.",
+   "enunciado": "Essa reação, que rompe a ligação éster do triglicerídeo e libera glicerina como subproduto, é chamada de:",
+   "alternativas": {
+    "a": "hidrogenação, adição de hidrogênio às duplas ligações presentes na cadeia dos ácidos graxos originais",
+    "b": "transesterificação, troca do grupo álcool ligado ao éster original por outro grupo álcool de cadeia curta",
+    "c": "halogenação, substituição de hidrogênios da cadeia carbônica por elementos da família dos halogênios",
+    "d": "nitração, introdução de um grupo nitro na estrutura da cadeia carbônica dos ácidos graxos envolvidos",
+    "e": "sulfonação, introdução de um grupo sulfônico na estrutura da cadeia carbônica dos ácidos graxos envolvidos"
+   },
+   "resposta": "b",
+   "explicacao": "O triglicerídeo (éster) troca seu grupo glicerol por metanol ou etanol, liberando glicerina: é transesterificação, o processo real de fabricação do biodiesel, distinto de hidrogenação, halogenação, nitração ou sulfonação.",
+   "formato": "direta",
+   "banca": "santacasa",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-361",
+   "texto_apoio": "Um frasco de laboratório traz o rótulo: composto orgânico, ponto de ebulição 118 °C, solúvel em água, reage com carbonato de sódio liberando gás carbônico.",
+   "enunciado": "A liberação de gás carbônico ao reagir com carbonato de sódio é evidência de que o composto do rótulo pertence à função:",
+   "alternativas": {
+    "a": "álcool, já que álcoois reagem tipicamente com carbonatos liberando gás carbônico como produto característico",
+    "b": "aldeído, cuja carbonila reage com carbonatos formando dióxido de carbono como produto secundário",
+    "c": "ácido carboxílico, cuja acidez é suficiente para deslocar o gás carbônico de um carbonato em solução",
+    "d": "amina, cuja basicidade reage com carbonatos de sódio produzindo gás carbônico como subproduto característico",
+    "e": "éter, cuja estrutura é suficientemente reativa para deslocar o gás carbônico de soluções de carbonato"
+   },
+   "resposta": "c",
+   "explicacao": "Reagir com carbonato liberando CO2 é teste clássico de acidez orgânica: só o ácido carboxílico, mais ácido que álcool, aldeído, amina (básica) ou éter, é capaz de deslocar o ácido carbônico do carbonato.",
+   "formato": "direta",
+   "banca": "unicamp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-362",
+   "texto_apoio": "Um professor apresenta quatro pares de estruturas e pede que os alunos identifiquem qual par NÃO representa um caso de isomeria.",
+   "enunciado": "Assinale o par que constitui uma exceção — ou seja, o único que NÃO é um par de isômeros:",
+   "alternativas": {
+    "a": "etanol e dimetil-éter, ambos com fórmula molecular C2H6O, mas pertencentes a funções orgânicas diferentes",
+    "b": "butano e metilpropano, ambos com fórmula molecular C4H10, diferindo apenas na ramificação da cadeia",
+    "c": "propan-1-ol e propan-2-ol, ambos com fórmula molecular C3H8O, diferindo na posição da hidroxila",
+    "d": "metano e etano, com fórmulas moleculares CH4 e C2H6, diferindo no número de átomos de carbono da cadeia",
+    "e": "ácido acético e formiato de metila, ambos com fórmula molecular C2H4O2, mas pertencentes a funções diferentes"
+   },
+   "resposta": "d",
+   "explicacao": "Metano e etano têm fórmulas moleculares diferentes (CH4 e C2H6): não são isômeros, apenas hidrocarbonetos da mesma série com números distintos de carbono. Os demais pares compartilham a mesma fórmula molecular com estruturas diferentes — isomeria de função, cadeia e posição, respectivamente.",
+   "formato": "excecao",
+   "banca": "unesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-363",
+   "texto_apoio": "O naftaleno, usado antigamente em repelentes de traça, é formado por dois anéis benzênicos fundidos, cada um mantendo o padrão de ligações deslocalizadas do benzeno.",
+   "enunciado": "A presença de anéis com esse padrão de ligação classifica o naftaleno como um hidrocarboneto:",
+   "alternativas": {
+    "a": "alifático saturado, formado exclusivamente por ligações simples entre os átomos de carbono da cadeia",
+    "b": "alicíclico, formado por um anel fechado sem as ligações deslocalizadas típicas do benzeno",
+    "c": "alifático insaturado, formado por uma cadeia aberta com duplas ligações isoladas entre carbonos",
+    "d": "heterocíclico, por apresentar em seu anel um átomo diferente de carbono na composição da cadeia",
+    "e": "aromático, por apresentar anéis com o padrão de ligações deslocalizadas característico do benzeno"
+   },
+   "resposta": "e",
+   "explicacao": "Anéis com o padrão de ligações deslocalizadas do benzeno definem compostos aromáticos; o naftaleno é dois desses anéis fundidos, o que o distingue de cadeias alifáticas, alicíclicas ou heterocíclicas.",
+   "formato": "direta",
+   "banca": "famerp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-364",
+   "texto_apoio": "A gasolina é uma mistura de hidrocarbonetos derivados do petróleo, obtidos por processos de refino como a destilação fracionada e o craqueamento.",
+   "enunciado": "O craqueamento, processo empregado na indústria do petróleo, consiste em:",
+   "alternativas": {
+    "a": "quebrar substâncias de cadeia longa em substâncias menores, aumentando a proporção de frações leves",
+    "b": "separar os hidrocarbonetos do petróleo bruto de acordo com suas diferentes temperaturas de ebulição",
+    "c": "unir substâncias pequenas em cadeias maiores, por meio de reações sucessivas de polimerização",
+    "d": "remover átomos de enxofre presentes nos hidrocarbonetos, reduzindo a poluição gerada na combustão",
+    "e": "adicionar hidrogênio a hidrocarbonetos insaturados, transformando-os em compostos saturados"
+   },
+   "resposta": "a",
+   "explicacao": "Craqueamento quebra cadeias longas em cadeias menores, mais valorizadas comercialmente — diferente da destilação fracionada (que apenas separa por temperatura de ebulição), da polimerização, da dessulfurização ou da hidrogenação.",
+   "formato": "direta",
+   "banca": "santacasa",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-365",
+   "texto_apoio": "Um bioquímico observa que duas amostras de um mesmo aminoácido desviam a luz polarizada em sentidos opostos, embora tenham propriedades físicas quase idênticas em outros aspectos.",
+   "enunciado": "Esse comportamento em relação à luz polarizada é típico de pares de compostos chamados:",
+   "alternativas": {
+    "a": "isômeros de cadeia, cuja diferença estrutural está no arranjo da cadeia carbônica principal do composto",
+    "b": "enantiômeros, imagens especulares uma da outra, associadas a um centro de assimetria na substância",
+    "c": "isômeros de posição, cuja diferença estrutural está na localização do grupo funcional na cadeia carbônica",
+    "d": "isômeros de função, pertencentes a funções orgânicas diferentes apesar da mesma fórmula molecular",
+    "e": "tautômeros, formas que se interconvertem espontaneamente por deslocamento de um átomo de hidrogênio"
+   },
+   "resposta": "b",
+   "explicacao": "Desviar a luz polarizada em sentidos opostos, com demais propriedades físicas praticamente idênticas, é a assinatura dos enantiômeros — pares de imagens especulares ligados a um carbono assimétrico, e não isomeria plana ou tautomeria.",
+   "formato": "direta",
+   "banca": "unifesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-366",
+   "texto_apoio": "O ácido cítrico, presente no limão, apresenta três grupos carboxila distintos ligados a uma mesma cadeia carbônica central.",
+   "enunciado": "A quantidade de hidrogênios ionizáveis fornecidos pelo ácido cítrico, em uma reação de neutralização completa, corresponde ao número de:",
+   "alternativas": {
+    "a": "grupos hidroxila presentes na substância, já que são eles os responsáveis pela liberação de prótons",
+    "b": "átomos de carbono da cadeia principal, um para cada carbono presente na estrutura molecular",
+    "c": "grupos carboxila presentes na substância, um hidrogênio ionizável para cada carboxila existente",
+    "d": "grupos carbonila presentes na substância, contando tanto os de aldeído quanto os de cetona",
+    "e": "átomos de oxigênio totais da substância, somando os presentes em todos os grupos funcionais"
+   },
+   "resposta": "c",
+   "explicacao": "Cada grupo carboxila (–COOH) libera um hidrogênio ionizável; com três carboxilas, o ácido cítrico é triprótico — a contagem correta acompanha o número de carboxilas, não de hidroxilas, carbonos, carbonilas ou átomos de oxigênio.",
+   "formato": "direta",
+   "banca": "einstein",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-367",
+   "texto_apoio": "O polietileno, plástico mais usado no mundo em embalagens, é obtido pela repetição de milhares de unidades de eteno (CH2=CH2) ligadas entre si por ligações simples.",
+   "enunciado": "Nessa reação de formação do polietileno, cada dupla ligação do eteno se rompe para permitir a ligação com a unidade seguinte; esse mecanismo é chamado de:",
+   "alternativas": {
+    "a": "polimerização por condensação, em que cada nova ligação libera uma pequena substância, geralmente água",
+    "b": "hidrólise, em que a água rompe as ligações entre os monômeros para formar o polímero final",
+    "c": "esterificação, em que um ácido carboxílico reage com um álcool para formar as ligações do polímero",
+    "d": "polimerização por adição, em que os monômeros se ligam entre si sem liberar nenhum subproduto",
+    "e": "saponificação, em que uma base forte rompe as ligações éster presentes entre os monômeros"
+   },
+   "resposta": "d",
+   "explicacao": "O eteno se adiciona a si mesmo, rompendo a dupla ligação sem liberar subproduto: é polimerização por adição — diferente da condensação (que libera água ou outra substância pequena), da hidrólise, da esterificação ou da saponificação.",
+   "formato": "direta",
+   "banca": "unesp",
+   "origem": "medicina"
   }
  ],
  "quimica-solucoes": [
@@ -35978,6 +36410,438 @@ window.QUESTION_BANKS = {
    "resposta": "e",
    "explicacao": "Risco fecha o primeiro período e abre o segundo; ordem fecha o segundo e abre o terceiro. O que era informação nova vira ponto de partida do período seguinte, encadeando o parágrafo sem repetir conteúdo.",
    "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-151",
+   "texto_apoio": "\"O hospital não dorme: seus corredores respiram, suas luzes piscam como pálpebras cansadas, e o elevador geme a cada subida, como se carregasse nas costas o peso de todos os plantões da noite.\"",
+   "enunciado": "O efeito de sentido predominante no trecho decorre de:",
+   "alternativas": {
+    "a": "uma personificação, que atribui ao hospital e às suas partes ações e sensações próprias de seres vivos",
+    "b": "uma hipérbole, que exagera a duração dos plantões noturnos para chamar a atenção do leitor",
+    "c": "uma ironia, que sugere o oposto do que as frases afirmam sobre o funcionamento real do hospital descrito",
+    "d": "um eufemismo, que suaviza a descrição do cansaço da equipe médica durante a madrugada",
+    "e": "uma comparação objetiva entre o hospital e um corpo humano, sem intenção expressiva"
+   },
+   "resposta": "a",
+   "explicacao": "Corredores que \"respiram\", luzes que \"piscam como pálpebras\" e um elevador que \"geme\" atribuem a objetos e espaços ações típicas de seres vivos — é personificação, não exagero quantitativo nem inversão irônica de sentido.",
+   "formato": "direta",
+   "banca": "unicamp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-152",
+   "texto_apoio": "\"Ele passou a vida inteira sentado atrás daquela mesa, movendo apenas os olhos, e ainda assim se orgulhava de ter 'trabalhado duro'.\"",
+   "enunciado": "A expressão \"trabalhado duro\", isolada por aspas no trecho, cumpre a função de:",
+   "alternativas": {
+    "a": "marcar a citação literal de uma fala do próprio personagem, sem qualquer intenção crítica do narrador",
+    "b": "sinalizar ironia: o narrador usa as palavras do personagem para sugerir o contrário do que elas dizem",
+    "c": "indicar um termo técnico da área profissional em que o personagem atuava durante toda a sua longa carreira",
+    "d": "introduzir um estrangeirismo que precisa ser destacado visualmente do restante do período apresentado",
+    "e": "reproduzir uma gíria de uso corrente entre os colegas de trabalho do personagem descrito no trecho"
+   },
+   "resposta": "b",
+   "explicacao": "As aspas, somadas ao contraste com \"movendo apenas os olhos\", indicam que o narrador reproduz a expressão do personagem para questioná-la: quem mal se mexe da cadeira não trabalhou duro no sentido usual da expressão.",
+   "formato": "direta",
+   "banca": "unesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-153",
+   "texto_apoio": "\"Chorei rios inteiros quando soube que o resultado do exame havia atrasado mais uma semana.\"",
+   "enunciado": "A expressão \"chorei rios inteiros\" é um exemplo de:",
+   "alternativas": {
+    "a": "metonímia, pois substitui a causa do choro pelo efeito por ela produzido no rosto da pessoa",
+    "b": "antítese, pois opõe duas ideias contrárias presentes na mesma oração do período",
+    "c": "hipérbole, pois exagera a quantidade de lágrimas para intensificar a reação emocional",
+    "d": "eufemismo, pois suaviza a menção direta a um sentimento considerado desagradável",
+    "e": "paradoxo, pois reúne na mesma frase duas afirmações que se contradizem entre si"
+   },
+   "resposta": "c",
+   "explicacao": "Ninguém chora \"rios inteiros\" literalmente: a expressão amplia a quantidade de lágrimas muito além do real para intensificar a reação — é hipérbole, e não substituição, suavização ou contradição.",
+   "formato": "direta",
+   "banca": "famema",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-154",
+   "texto_apoio": "\"É preciso ensinar as crianças a X para que elas cresçam livres de Y.\" Um cartaz de campanha completa as lacunas com: \"desconfiar de estranhos\" e \"medo\".",
+   "enunciado": "O paradoxo do slogan está em pedir que se ensine algo capaz de produzir justamente o que se promete evitar; o recurso empregado nomeia-se:",
+   "alternativas": {
+    "a": "metáfora, porque um conceito abstrato é substituído por uma imagem concreta e visual do medo",
+    "b": "metonímia, porque a parte do problema é usada no lugar do problema considerado todo",
+    "c": "personificação, porque o medo recebe características e ações típicas de um ser vivo",
+    "d": "paradoxo, porque a frase reúne duas ideias que, postas lado a lado, parecem se anular",
+    "e": "gradação, porque as ideias do cartaz avançam em intensidade crescente até o final"
+   },
+   "resposta": "d",
+   "explicacao": "Ensinar desconfiança para evitar medo é uma contradição aparente: o meio proposto tende a produzir o próprio efeito que se quer afastar. Reunir, na mesma frase, ideias que parecem se anular é a definição dessa figura de linguagem.",
+   "formato": "direta",
+   "banca": "uerj",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-155",
+   "texto_apoio": "\"A empresa comunicou que 'realinhará seu quadro de colaboradores' já no próximo trimestre.\"",
+   "enunciado": "A expressão \"realinhará seu quadro de colaboradores\" é empregada no trecho como:",
+   "alternativas": {
+    "a": "uma metáfora espacial, que compara a empresa a uma figura geométrica sujeita a ajustes de forma",
+    "b": "uma ironia, que sugere que a empresa não pretende, de fato, alterar seu quadro de funcionários",
+    "c": "uma hipérbole, que exagera o alcance da reestruturação anunciada pela direção da empresa",
+    "d": "um jargão técnico da área de recursos humanos sem qualquer efeito de sentido adicional",
+    "e": "um eufemismo, que substitui a menção direta a demissões por uma formulação mais branda"
+   },
+   "resposta": "e",
+   "explicacao": "\"Realinhar o quadro\" é forma corrente de anunciar demissões sem nomeá-las: a expressão suaviza um conteúdo desagradável, o que caracteriza eufemismo, não comparação geométrica nem inversão irônica.",
+   "formato": "direta",
+   "banca": "einstein",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-156",
+   "texto_apoio": "\"O rio corre, mas nunca chega; a fila anda, mas nunca termina.\"",
+   "enunciado": "Além da comparação implícita entre o rio e a fila, o trecho constrói seu efeito por meio de:",
+   "alternativas": {
+    "a": "paralelismo sintático, pela repetição da mesma estrutura \"sujeito + verbo, mas nunca + verbo\"",
+    "b": "gradação, com o crescimento progressivo da intensidade das duas imagens apresentadas",
+    "c": "metonímia, pela substituição do todo pela parte em cada uma das duas orações do período apresentado",
+    "d": "eufemismo, pela suavização de uma crítica direta ao funcionamento do serviço público",
+    "e": "prosopopeia, pela atribuição de fala humana tanto ao rio quanto à fila mencionada"
+   },
+   "resposta": "a",
+   "explicacao": "As duas orações repetem a mesma estrutura sintática — sujeito, verbo, \"mas nunca\", verbo — o que é paralelismo. Não há atribuição de fala nem crescimento de intensidade entre as duas imagens.",
+   "formato": "direta",
+   "banca": "unifesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-157",
+   "texto_apoio": "\"Convidamos o senhor a normalizar sua situação financeira o quanto antes\", dizia a mensagem do banco a um devedor de oito meses de atraso.",
+   "enunciado": "O tom do trecho, apesar do vocabulário cortês, pode ser descrito como:",
+   "alternativas": {
+    "a": "afetuoso, já que o banco demonstra preocupação genuína com o bem-estar de quem recebeu a mensagem",
+    "b": "de cobrança disfarçada, em que a polidez do vocabulário mascara uma exigência de pagamento imediato",
+    "c": "indiferente, pois a mensagem não menciona nenhuma consequência para quem não regularizar a dívida",
+    "d": "ameno e informativo, sem qualquer intenção de pressionar quem a recebeu a tomar alguma providência imediata",
+    "e": "de elogio indireto a quem deve, reconhecendo o esforço já feito para quitar o débito acumulado"
+   },
+   "resposta": "b",
+   "explicacao": "\"Convidamos\" e \"normalizar sua situação\" funcionam como eufemismo para dizer \"pague o que deve\": o vocabulário ameno não elimina a pressão de fundo, é justamente ela que a polidez disfarça.",
+   "formato": "direta",
+   "banca": "santacasa",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-158",
+   "texto_apoio": "\"Compre já, últimas peças, promoção imperdível, corra antes que acabe!\"",
+   "enunciado": "O registro empregado no anúncio caracteriza-se por:",
+   "alternativas": {
+    "a": "linguagem formal, adequada a um público que exige precisão técnica nas informações do produto",
+    "b": "linguagem regional, restrita a uma comunidade específica de falantes de determinada área geográfica do país",
+    "c": "linguagem coloquial e apelativa, marcada por imperativos e expressões de urgência voltadas ao consumo",
+    "d": "jargão técnico do comércio, compreensível apenas para profissionais especializados em vendas",
+    "e": "linguagem literária, elaborada com recursos próprios de textos poéticos e narrativos"
+   },
+   "resposta": "c",
+   "explicacao": "Os verbos no imperativo (\"compre\", \"corra\") e as expressões de urgência (\"últimas peças\", \"antes que acabe\") são marcas de linguagem coloquial, num tom quase humorístico de vendedor, voltada a convencer o consumidor a comprar depressa — não registro formal, regional ou técnico.",
+   "formato": "direta",
+   "banca": "fuvest",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-159",
+   "texto_apoio": "\"Que beleza de trânsito: uma hora parado para andar duzentos metros.\"",
+   "enunciado": "A palavra \"beleza\", no contexto em que aparece, tem sentido de:",
+   "alternativas": {
+    "a": "denotação pura, pois descreve literalmente uma qualidade estética do trânsito observado pelo falante",
+    "b": "linguagem técnica, empregada por especialistas em mobilidade urbana para classificar o fluxo de veículos",
+    "c": "ambiguidade, porque admite duas leituras igualmente prováveis sem que o contexto favoreça nenhuma delas",
+    "d": "conotação e ironia, já que a ironia inverte o valor positivo da palavra, o que o resto da frase confirma",
+    "e": "variação regional, restrita a uma comunidade de falantes de determinada área específica do país"
+   },
+   "resposta": "d",
+   "explicacao": "Chamar de \"beleza\" uma hora parado para andar duzentos metros é usar a palavra em sentido de conotação: a ironia inverte o valor positivo dela, leitura que o contraste com o resto da frase confirma — e não sentido denotativo, técnico, ambíguo ou regional.",
+   "formato": "direta",
+   "banca": "unesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-160",
+   "texto_apoio": "Charge: um político em um palanque promete \"cortar gastos\", enquanto ao fundo um caminhão de mudança carrega móveis novos para seu gabinete.",
+   "enunciado": "O efeito de humor crítico da charge se constrói principalmente pela:",
+   "alternativas": {
+    "a": "descrição neutra de dois fatos que não guardam relação alguma entre si na cena representada",
+    "b": "exageração das proporções do caminhão em relação ao tamanho do palanque na charge",
+    "c": "ausência de qualquer elemento visual que sugira crítica ao comportamento do político retratado",
+    "d": "repetição do mesmo gesto do político em diferentes momentos ao longo da cena representada",
+    "e": "oposição entre o discurso de austeridade do político e a cena de gasto que ocorre ao fundo"
+   },
+   "resposta": "e",
+   "explicacao": "O humor crítico nasce do contraste entre a fala (\"cortar gastos\") e a imagem (móveis novos sendo carregados): é a oposição entre discurso e cena, recurso retórico central da charge, que produz a sátira — não a proporção dos elementos ou sua repetição.",
+   "formato": "direta",
+   "banca": "unicamp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-161",
+   "texto_apoio": "\"A empresa X, líder do mercado, foi condenada por fraude fiscal.\" Título de reportagem de jornal econômico, sem qualquer figura de linguagem no restante do texto.",
+   "enunciado": "A palavra \"líder\", nesse contexto, funciona como:",
+   "alternativas": {
+    "a": "informação denotativa e neutra sobre a posição de mercado da empresa, sem carga avaliativa",
+    "b": "recurso irônico, já que a condenação por fraude contradiria a posição de liderança atribuída à empresa",
+    "c": "eufemismo, que suaviza a gravidade da fraude fiscal mencionada na segunda parte da manchete",
+    "d": "metáfora bélica, que compara o mercado a um território disputado militarmente entre empresas",
+    "e": "hipérbole, que exagera a posição de destaque da empresa citada na manchete do jornal"
+   },
+   "resposta": "a",
+   "explicacao": "Em manchete econômica, \"líder do mercado\" é dado objetivo de participação de mercado, sem intenção irônica ou avaliativa — o contraste com a fraude é do leitor, não da palavra em si.",
+   "formato": "direta",
+   "banca": "einstein",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-162",
+   "texto_apoio": "\"Primeiro estranhei, depois desconfiei, por fim me convenci de que aquele barulho não vinha do motor.\"",
+   "enunciado": "A sequência \"estranhei, desconfiei, convenci\" no trecho constitui um exemplo de:",
+   "alternativas": {
+    "a": "personificação, pois o motor passa a ser tratado como um agente capaz de gerar dúvida no falante",
+    "b": "gradação, pois os três verbos avançam em intensidade crescente até a certeza final do falante",
+    "c": "antítese, pois os três verbos empregados se opõem diretamente uns aos outros ao longo do período",
+    "d": "hipérbole, pois os três verbos exageram a reação do falante diante de um barulho comum do motor",
+    "e": "metáfora, pois os três verbos substituem, por uma imagem, o processo de identificação do barulho"
+   },
+   "resposta": "b",
+   "explicacao": "Estranhar, desconfiar e convencer-se formam uma gradação: cada verbo intensifica o grau de certeza do falante até o final da série, sem opor ideias, exagerar a reação ou substituir o processo racional por uma imagem.",
+   "formato": "direta",
+   "banca": "famerp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-163",
+   "texto_apoio": "\"Mil vezes já te disse para arrumar o quarto\", reclamou a mãe, pela segunda vez naquela manhã.",
+   "enunciado": "A expressão \"mil vezes\" e o dado \"pela segunda vez naquela manhã\" produzem, juntos, um efeito de:",
+   "alternativas": {
+    "a": "confirmação: o exagero da fala da mãe corresponde exatamente ao número real de repetições do pedido feito naquele dia",
+    "b": "ambiguidade: não é possível saber se a mãe já havia pedido isso antes daquela manhã específica",
+    "c": "contraste: a hipérbole da fala da mãe é desmentida pelo dado factual fornecido pelo narrador logo em seguida",
+    "d": "eufemismo: a mãe suaviza, com a expressão \"mil vezes\", a irritação real que sente com o filho",
+    "e": "personificação: o quarto passa a ser tratado, na fala da mãe, como se tivesse vontade própria"
+   },
+   "resposta": "c",
+   "explicacao": "\"Mil vezes\" é hipérbole típica da fala cotidiana; o narrador, ao informar que era \"a segunda vez naquela manhã\", contrasta o exagero com o dado real — o humor nasce desse contraste, não de confirmação ou eufemismo.",
+   "formato": "direta",
+   "banca": "famerp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-164",
+   "texto_apoio": "\"O plantonista, de tão exausto, já não sabia se estava no corredor do hospital ou dentro de um sonho ruim que insistia em continuar.\"",
+   "enunciado": "A aproximação entre o corredor do hospital e um \"sonho ruim\" tem como efeito principal:",
+   "alternativas": {
+    "a": "descrever com precisão técnica o ambiente físico em que o plantonista se encontrava naquele momento",
+    "b": "indicar que o plantonista efetivamente adormeceu durante o turno e passou a sonhar com o hospital",
+    "c": "criticar de forma direta e literal as condições de trabalho da equipe médica no plantão noturno",
+    "d": "sugerir, por meio de uma imagem, o estado de exaustão e confusão mental vivido pelo personagem",
+    "e": "apontar uma diferença marcante entre dois ambientes fisicamente distintos descritos ao longo do texto"
+   },
+   "resposta": "d",
+   "explicacao": "A comparação com o sonho ruim não descreve o espaço fisicamente nem afirma que ele dormiu de fato: é linguagem figurada que traduz o embotamento da exaustão, não relato literal.",
+   "formato": "direta",
+   "banca": "santacasa",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-165",
+   "texto_apoio": "\"Aquele departamento é uma máquina bem lubrificada: cada engrenagem sabe exatamente a hora de girar.\"",
+   "enunciado": "A metáfora da \"máquina bem lubrificada\", aplicada ao departamento, sugere principalmente:",
+   "alternativas": {
+    "a": "que o departamento utiliza, de fato, equipamentos mecânicos modernos em seus processos internos",
+    "b": "que os funcionários do departamento são tratados como objetos sem qualquer valor individual",
+    "c": "lentidão no ritmo de trabalho, à espera de manutenção periódica dos processos internos",
+    "d": "dependência excessiva de tecnologia em detrimento do contato humano dentro do setor",
+    "e": "funcionamento organizado e sincronizado entre as partes que compõem o departamento descrito"
+   },
+   "resposta": "e",
+   "explicacao": "\"Engrenagem\" e \"lubrificada\" traduzem, por metáfora, a ideia de partes que funcionam em sincronia — não descrevem maquinário real nem sugerem lentidão ou desumanização, sentidos que a imagem não sustenta.",
+   "formato": "direta",
+   "banca": "unesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-166",
+   "texto_apoio": "\"Não é que o projeto tenha fracassado; ele apenas ainda não encontrou o sucesso que procurava.\"",
+   "enunciado": "A reformulação proposta na segunda oração, em relação à ideia de fracasso, constitui:",
+   "alternativas": {
+    "a": "um eufemismo, por substituir a constatação direta do fracasso por uma formulação mais branda",
+    "b": "uma antítese, por opor diretamente as palavras \"fracasso\" e \"sucesso\" dentro do mesmo período",
+    "c": "uma hipérbole, por exagerar a gravidade do insucesso do projeto mencionado no trecho",
+    "d": "uma ironia, por sugerir o oposto do que a segunda oração afirma sobre o projeto",
+    "e": "uma metonímia, por nomear o projeto por meio de uma de suas partes constituintes"
+   },
+   "resposta": "a",
+   "explicacao": "Dizer que o projeto \"ainda não encontrou o sucesso\" em vez de \"fracassou\" é suavizar uma constatação desagradável — a antítese aparece nas palavras, mas o recurso central da reformulação é o eufemismo.",
+   "formato": "direta",
+   "banca": "uerj",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-167",
+   "texto_apoio": "\"Não vim aqui para falar de política\", disse o orador, antes de dedicar toda a fala seguinte a criticar o governo.",
+   "enunciado": "Há, entre a frase inicial do orador e o restante do discurso descrito, uma relação de:",
+   "alternativas": {
+    "a": "complementação, já que a segunda parte apenas detalha o conteúdo anunciado na primeira frase",
+    "b": "ironia situacional, pois a ação do orador contradiz o que ele próprio afirma na frase de abertura",
+    "c": "causa e consequência, em que a crítica ao governo decorre diretamente da frase inicial do orador",
+    "d": "comparação, em que duas situações distintas são postas lado a lado sem relação de contradição",
+    "e": "condição, em que a crítica ao governo só ocorre se determinada circunstância for satisfeita antes"
+   },
+   "resposta": "b",
+   "explicacao": "Dizer que não vai falar de política e em seguida criticar o governo é contradizer a própria fala pela ação: esse desencontro entre o dito e o feito, recurso retórico da ironia situacional, não é complementação nem causalidade.",
+   "formato": "direta",
+   "banca": "fuvest",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-168",
+   "texto_apoio": "\"Depois da reunião, ninguém decidiu nada — decidiram apenas marcar outra reunião para decidir.\"",
+   "enunciado": "A repetição do verbo \"decidir\" ao longo do período tem como principal efeito:",
+   "alternativas": {
+    "a": "introduzir uma informação nova a cada repetição, ampliando progressivamente o sentido do texto",
+    "b": "eliminar qualquer ambiguidade sobre o que foi de fato decidido ao final da reunião descrita",
+    "c": "reforçar, pelo próprio ritmo da frase, a ideia de indecisão e adiamento sugerida pelo conteúdo",
+    "d": "indicar que várias decisões diferentes foram tomadas ao longo de uma única reunião relatada",
+    "e": "suavizar, por meio da repetição, uma crítica direta à condução do processo de decisão"
+   },
+   "resposta": "c",
+   "explicacao": "A repetição de \"decidir\" sem que nada se decida imita, no ritmo da frase, o próprio adiamento que ela descreve — recurso expressivo de ênfase, e não introdução de informação nova nem suavização de crítica.",
+   "formato": "direta",
+   "banca": "unicamp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-169",
+   "texto_apoio": "\"Não é sequer da conta de vossa senhoria\", escreveu o cliente ao gerente, num tom que misturava formalidade excessiva e evidente irritação.",
+   "enunciado": "O efeito produzido pelo uso de \"vossa senhoria\" ao lado da expressão informal \"não é da conta\" decorre de:",
+   "alternativas": {
+    "a": "coerência de registro, já que ambas as expressões pertencem à mesma variedade formal da língua",
+    "b": "erro de norma culta, sem qualquer intenção expressiva por parte de quem escreveu a mensagem",
+    "c": "uso exclusivamente técnico, próprio da correspondência comercial entre clientes e gerentes de banco na cidade",
+    "d": "contraste de registro, que reforça, pelo choque entre polidez e informalidade, o tom irônico da fala",
+    "e": "neutralidade estilística, pois as duas expressões produzem o mesmo efeito sobre o leitor do texto"
+   },
+   "resposta": "d",
+   "explicacao": "Misturar o tratamento cerimonioso \"vossa senhoria\" com a informalidade de \"não é da conta\" cria um choque de registros que sinaliza irritação disfarçada de polidez — efeito irônico, não incoerência gramatical.",
+   "formato": "direta",
+   "banca": "einstein",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-170",
+   "texto_apoio": "\"Escutar, escutar, escutar: antes de qualquer diagnóstico, era isso que o velho médico ensinava aos residentes.\"",
+   "enunciado": "A tríplice repetição do verbo \"escutar\" no início do período tem a função de:",
+   "alternativas": {
+    "a": "indicar que o médico pedia aos residentes que ouvissem exatamente três pacientes antes de diagnosticar",
+    "b": "introduzir uma enumeração de três etapas distintas do processo diagnóstico ensinado pelo médico",
+    "c": "criar ambiguidade quanto ao sujeito responsável pela ação de escutar mencionada no período",
+    "d": "substituir, por eufemismo, uma crítica direta à pressa dos residentes ao atender os pacientes",
+    "e": "enfatizar, pela insistência sonora da repetição, a importância central atribuída ao ato de escutar"
+   },
+   "resposta": "e",
+   "explicacao": "A repetição do mesmo verbo três vezes seguidas não enumera etapas nem fixa uma quantidade literal: é recurso de ênfase, que sonoramente reforça o peso dado ao ato de escutar antes do diagnóstico.",
+   "formato": "direta",
+   "banca": "santacasa",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-171",
+   "texto_apoio": "Compare: (I) \"O laudo apontou uma opacidade em campo pulmonar direito.\" (II) \"Meu peito pesa desde que recebi aquele diagnóstico.\"",
+   "enunciado": "A palavra \"pesa\", em II, distingue-se da linguagem de I por empregar:",
+   "alternativas": {
+    "a": "linguagem de conotação, atribuindo ao peito um peso emocional que não corresponde ao sentido físico literal",
+    "b": "um termo técnico equivalente ao usado no laudo, apenas com vocabulário menos especializado",
+    "c": "linguagem denotativa, tal como ocorre com \"opacidade\" no primeiro enunciado apresentado",
+    "d": "um dado estatístico sobre a evolução do quadro clínico da pessoa que relata a sensação descrita ao longo do trecho",
+    "e": "uma citação indireta do que teria sido dito pelo médico responsável pelo laudo mencionado em I"
+   },
+   "resposta": "a",
+   "explicacao": "Em I, \"opacidade\" é termo técnico e denotativo; em II, \"pesa\" desloca-se para o sentido figurado, de peso emocional — não descreve massa física, o que caracteriza linguagem de conotação.",
+   "formato": "direta",
+   "banca": "unesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-172",
+   "texto_apoio": "\"Diz que está tudo bem\", contou a enfermeira, \"mas os olhos dele diziam outra coisa.\"",
+   "enunciado": "O contraste entre a fala do paciente e o que \"os olhos dele diziam\" configura, no relato da enfermeira, um recurso de:",
+   "alternativas": {
+    "a": "eufemismo, empregado pela enfermeira para suavizar a gravidade real do estado do paciente ao relatar o caso à família",
+    "b": "ironia, construída pela oposição entre o discurso verbal do paciente e a leitura não verbal feita por quem o observa",
+    "c": "hipérbole, pelo exagero da expressão \"os olhos dele diziam outra coisa\" usada no relato da enfermeira",
+    "d": "metonímia, pela substituição do paciente inteiro pela parte do corpo mencionada no relato da enfermeira",
+    "e": "personificação, já que os olhos passam a ser tratados como um ser capaz de agir por conta própria"
+   },
+   "resposta": "b",
+   "explicacao": "A fala do paciente (\"está tudo bem\") é contrariada pelo que a enfermeira lê em seus olhos: o desencontro entre o dito e o percebido produz uma ironia, figura de linguagem central do relato, e não uma substituição, exagero ou suavização.",
+   "formato": "direta",
+   "banca": "famema",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-173",
+   "texto_apoio": "\"Chegar 'só um pouquinho' atrasado, para ele, significava sempre entre quarenta minutos e uma hora.\"",
+   "enunciado": "As aspas em \"só um pouquinho\", seguidas da precisão numérica que vem depois, produzem um efeito de:",
+   "alternativas": {
+    "a": "ambiguidade: não fica claro se o atraso do personagem era realmente pequeno ou consideravelmente grande naquele dia",
+    "b": "eufemismo: o narrador suaviza, com a expressão entre aspas, a real gravidade do atraso do personagem",
+    "c": "ironia: a expressão do personagem é desmentida pelo dado concreto fornecido logo em seguida pelo narrador",
+    "d": "personificação: o tempo passa a ser tratado como um agente capaz de agir contra a vontade do personagem",
+    "e": "gradação: a informação avança em intensidade crescente ao longo de todo o período apresentado"
+   },
+   "resposta": "c",
+   "explicacao": "\"Só um pouquinho\" entre aspas sinaliza que o narrador cita a fala do personagem com distanciamento; o contraste com \"entre quarenta minutos e uma hora\" desmente a expressão — ironia pelo contraste com o dado factual.",
+   "formato": "direta",
+   "banca": "unifesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-174",
+   "texto_apoio": "\"Foi um dia daqueles: o carro não pegou, o guarda-chuva virou ao contrário e, para completar, a reunião foi cancelada em cima da hora.\"",
+   "enunciado": "A enumeração dos três contratempos, encerrada por \"para completar\", tem como efeito:",
+   "alternativas": {
+    "a": "descrever, sem intenção expressiva, três fatos isolados e sem relação de sentido entre si",
+    "b": "sugerir que os três eventos relatados ocorreram simultaneamente, no mesmo instante do dia",
+    "c": "atenuar, por meio da enumeração, a gravidade real de cada um dos contratempos mencionados",
+    "d": "construir, por acúmulo, a sensação de um dia marcado por sucessivos pequenos infortúnios",
+    "e": "indicar que apenas o último dos três eventos citados foi, de fato, relevante para o narrador"
+   },
+   "resposta": "d",
+   "explicacao": "A enumeração encadeada, fechada por \"para completar\", acumula os contratempos para produzir a sensação de um dia ruim — efeito de acréscimo expressivo, não simultaneidade, atenuação ou irrelevância dos itens.",
+   "formato": "direta",
+   "banca": "santacasa",
    "origem": "medicina"
   }
  ],

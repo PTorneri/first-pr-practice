@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-14",
  "frente": "interpretacao-texto",
- "total": 372,
+ "total": 396,
  "residuo": [
   "dir-interpretacao-texto-10",
   "dir-interpretacao-texto-37",
@@ -2133,6 +2133,150 @@
    "padrao": true
   },
   "med-interpretacao-texto-150": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-interpretacao-texto-151": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-152": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-interpretacao-texto-153": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-154": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-interpretacao-texto-155": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-interpretacao-texto-156": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-interpretacao-texto-157": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-158": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-interpretacao-texto-159": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 19,
+   "margem": 19
+  },
+  "med-interpretacao-texto-160": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-interpretacao-texto-161": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-interpretacao-texto-162": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-163": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-164": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-165": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-166": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-167": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-interpretacao-texto-168": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-interpretacao-texto-169": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-170": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-interpretacao-texto-171": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-172": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-interpretacao-texto-173": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-interpretacao-texto-174": {
    "subtema": "interpretacao-recursos-linguagem",
    "frenteDestino": "interpretacao-texto",
    "pontos": 4,

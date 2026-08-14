@@ -5252,6 +5252,390 @@
       "resposta": "c",
       "explicacao": "Diluir reduz as concentrações de todas as espécies, mas afeta mais o encontro entre os íons que refariam a molécula. O equilíbrio químico se desloca no sentido da ionização e α cresce, embora Ka permaneça o mesmo, já que depende apenas da temperatura.",
       "formato": "direta"
+    },
+    {
+      "id": "quimica-344",
+      "texto_apoio": "O butano (C4H10) e o metilpropano (também C4H10) são compostos orgânicos de mesma fórmula molecular, mas com cadeias carbônicas de estrutura diferente: uma normal e outra ramificada.",
+      "enunciado": "A relação entre o butano e o metilpropano caracteriza um caso de:",
+      "alternativas": {
+        "a": "isomeria de cadeia, já que a fórmula molecular orgânica se mantém e apenas o arranjo da cadeia carbônica muda",
+        "b": "isomeria de função, porque os dois compostos pertencem a funções orgânicas diferentes apesar da fórmula igual",
+        "c": "isomeria geométrica, decorrente da restrição de rotação em torno de uma dupla ligação entre carbonos",
+        "d": "isomeria óptica, associada à existência de um carbono assimétrico ligado a quatro grupos distintos",
+        "e": "tautomeria, em que os dois compostos coexistem em equilíbrio dinâmico dentro da mesma amostra"
+      },
+      "resposta": "a",
+      "explicacao": "Mesma fórmula molecular (C4H10), mesma função (hidrocarboneto), mas cadeia normal em um caso e ramificada no outro: é isomeria de cadeia, sem envolver dupla ligação, carbono assimétrico ou equilíbrio dinâmico.",
+      "formato": "direta",
+      "banca": "unicamp"
+    },
+    {
+      "id": "quimica-345",
+      "texto_apoio": "O acetileno (etino), usado em maçaricos de solda, é o hidrocarboneto mais simples que apresenta uma tripla ligação entre dois átomos de carbono.",
+      "enunciado": "O acetileno pertence à função dos:",
+      "alternativas": {
+        "a": "alcanos, cuja cadeia carbônica é formada exclusivamente por ligações simples entre os átomos de carbono",
+        "b": "alcinos, identificados pela presença de uma tripla ligação entre dois átomos de carbono da cadeia",
+        "c": "alcenos, caracterizados pela presença de uma dupla ligação entre dois átomos de carbono da cadeia",
+        "d": "aromáticos, definidos pela presença de ao menos um anel benzênico na estrutura da substância",
+        "e": "cicloalcanos, cuja cadeia carbônica se fecha formando um anel sem ligações múltiplas entre carbonos"
+      },
+      "resposta": "b",
+      "explicacao": "A tripla ligação entre carbonos é a marca que define os alcinos; alcanos têm só ligações simples, alcenos têm dupla, aromáticos têm anel benzênico e cicloalcanos são cadeias fechadas sem ligação múltipla.",
+      "formato": "direta",
+      "banca": "santacasa"
+    },
+    {
+      "id": "quimica-346",
+      "texto_apoio": "O propano-1-ol e o propano-2-ol são dois álcoois de mesma fórmula molecular C3H8O, diferindo apenas na posição da hidroxila ao longo da cadeia carbônica.",
+      "enunciado": "A diferença entre esses dois compostos é classificada como isomeria de:",
+      "alternativas": {
+        "a": "função, pois um dos compostos deixa de pertencer à função álcool ao mudar a posição da hidroxila",
+        "b": "cadeia, pois a estrutura da cadeia carbônica se altera de normal para ramificada entre os dois compostos comparados",
+        "c": "posição, pois a cadeia carbônica e a função permanecem as mesmas, mudando apenas o local do grupo funcional",
+        "d": "compensação, pois um átomo de oxigênio troca de lugar com um átomo de carbono na estrutura molecular",
+        "e": "óptica, pois cada um dos dois compostos apresenta um centro de assimetria na sua estrutura molecular"
+      },
+      "resposta": "c",
+      "explicacao": "Cadeia e função (álcool) são as mesmas nos dois compostos; só a posição da hidroxila no carbono muda — isomeria de posição, distinta de isomeria de cadeia, função ou óptica.",
+      "formato": "direta",
+      "banca": "unesp"
+    },
+    {
+      "id": "quimica-347",
+      "texto_apoio": "O ácido lático, presente no músculo durante exercício intenso, apresenta um carbono ligado a quatro grupos diferentes: hidrogênio, hidroxila, metila e carboxila.",
+      "enunciado": "Esse carbono é chamado de assimétrico, e sua presença está associada à existência de:",
+      "alternativas": {
+        "a": "isomeria de cadeia, decorrente da ramificação da cadeia carbônica ao redor do carbono assimétrico",
+        "b": "isomeria geométrica, decorrente do impedimento de rotação em torno de uma ligação dupla presente",
+        "c": "isomeria de posição, decorrente da diferença de local do grupo funcional na cadeia carbônica",
+        "d": "isomeria óptica, decorrente da possibilidade de duas formas espaciais que são imagens especulares",
+        "e": "isomeria de função, decorrente da coexistência de duas funções orgânicas distintas na mesma substância"
+      },
+      "resposta": "d",
+      "explicacao": "Um carbono ligado a quatro grupos diferentes é assimétrico e gera duas formas espaciais que são imagens especulares não sobreponíveis — isomeria óptica, e não isomeria plana de cadeia, posição ou função.",
+      "formato": "direta",
+      "banca": "einstein"
+    },
+    {
+      "id": "quimica-348",
+      "texto_apoio": "A reação entre etileno e água, na presença de catalisador ácido, produz etanol como único produto.",
+      "enunciado": "Essa transformação, em que uma substância é incorporada à dupla ligação de um alceno, é chamada de reação de:",
+      "alternativas": {
+        "a": "substituição, em que um átomo ou grupo da cadeia carbônica é trocado por outro átomo ou grupo",
+        "b": "eliminação, em que átomos são retirados de uma substância para formar uma ligação dupla ou tripla",
+        "c": "esterificação, em que um ácido carboxílico reage com um álcool para formar éster e água",
+        "d": "combustão, em que um composto orgânico reage com oxigênio liberando calor e produtos oxidados ao ambiente",
+        "e": "adição, em que a dupla ligação se rompe parcialmente para incorporar novos átomos à cadeia carbônica"
+      },
+      "resposta": "e",
+      "explicacao": "A água se soma à dupla ligação do etileno, que se torna simples ao incorporar os novos átomos — é reação de adição, típica de alcenos e alcinos, não substituição, eliminação, esterificação ou combustão.",
+      "formato": "direta",
+      "banca": "famema"
+    },
+    {
+      "id": "quimica-349",
+      "texto_apoio": "O ácido acético reage com o etanol, na presença de catalisador, formando acetato de etila e água como subproduto.",
+      "enunciado": "Essa reação entre um ácido carboxílico e um álcool, que produz um composto de odor característico, é chamada de:",
+      "alternativas": {
+        "a": "esterificação, reação entre ácido carboxílico e álcool que produz éster e água como subprodutos",
+        "b": "saponificação, reação entre um éster e uma base forte que produz sabão e glicerina como produtos",
+        "c": "hidrólise, reação entre um éster e água que regenera o ácido carboxílico e o álcool originais",
+        "d": "neutralização, reação entre um ácido e uma base que produz sal e água como produtos finais",
+        "e": "polimerização, reação de repetição de uma unidade monomérica formando uma cadeia longa"
+      },
+      "resposta": "a",
+      "explicacao": "Ácido carboxílico mais álcool, com liberação de água e formação de um composto de cheiro característico, define a esterificação — diferente de saponificação, hidrólise, neutralização ou polimerização.",
+      "formato": "direta",
+      "banca": "unifesp"
+    },
+    {
+      "id": "quimica-350",
+      "texto_apoio": "O etanol (CH3CH2OH) tem a hidroxila ligada a um carbono saturado da cadeia; o fenol (C6H5OH) tem a hidroxila ligada diretamente a um carbono de anel aromático.",
+      "enunciado": "A diferença entre essas duas funções orgânicas está em que:",
+      "alternativas": {
+        "a": "o etanol é sempre gasoso à temperatura ambiente, enquanto o fenol é sempre sólido nas mesmas condições",
+        "b": "a posição da hidroxila define a função: em carbono saturado é álcool, em anel aromático é fenol",
+        "c": "apenas o fenol contém oxigênio na composição, ausente na substância descrita como etanol",
+        "d": "o etanol não possui carbono na composição, ao contrário do fenol, formado por um anel de carbonos",
+        "e": "apenas o etanol reage com metais alcalinos, sendo o fenol totalmente inerte a esse tipo de reação"
+      },
+      "resposta": "b",
+      "explicacao": "O critério que separa álcool de fenol é a posição da hidroxila: ligada a carbono saturado, é álcool; ligada diretamente ao anel aromático, é fenol — as demais alternativas atribuem propriedades que não distinguem as duas funções.",
+      "formato": "direta",
+      "banca": "unesp"
+    },
+    {
+      "id": "quimica-351",
+      "texto_apoio": "A tabela mostra a temperatura de ebulição de quatro compostos com número semelhante de carbonos: um alcano, um álcool, um ácido carboxílico e um éter, todos com massas molares próximas.",
+      "enunciado": "A ordem esperada de temperatura de ebulição, da mais baixa para a mais alta, é:",
+      "alternativas": {
+        "a": "ácido carboxílico, álcool, éter, alcano — do maior número de ligações de hidrogênio para o menor",
+        "b": "éter, alcano, ácido carboxílico, álcool — sem relação direta com o tipo de interação intermolecular presente",
+        "c": "alcano, éter, álcool, ácido carboxílico — conforme aumenta a intensidade das interações intermoleculares",
+        "d": "álcool, ácido carboxílico, éter, alcano — do maior para o menor número de oxigênios na composição",
+        "e": "alcano, ácido carboxílico, éter, álcool — em ordem alfabética das funções orgânicas envolvidas na comparação"
+      },
+      "resposta": "c",
+      "explicacao": "O alcano, hidrocarboneto sem grupo funcional, só tem interações fracas de dispersão; o éter tem interação polar moderada; o álcool forma uma ligação de hidrogênio por unidade; o ácido carboxílico forma duas, unidas em pares — a ebulição cresce nessa mesma ordem.",
+      "formato": "direta",
+      "banca": "santacasa"
+    },
+    {
+      "id": "quimica-352",
+      "texto_apoio": "O ácido acetilsalicílico (aspirina) apresenta, na mesma substância, um grupo éster e um grupo ácido carboxílico ligados a um anel aromático.",
+      "enunciado": "A presença de mais de uma função orgânica oxigenada na mesma substância, como ocorre na aspirina, caracteriza um composto:",
+      "alternativas": {
+        "a": "isômero, porque a coexistência de duas funções distintas define automaticamente uma relação de isomeria",
+        "b": "polimérico, porque a repetição de unidades estruturais forma uma cadeia molecular de alta massa",
+        "c": "racêmico, porque a substância contém proporções iguais de dois enantiômeros em uma mesma amostra",
+        "d": "polifuncional, porque duas ou mais funções orgânicas diferentes estão presentes na mesma estrutura",
+        "e": "saturado, porque todas as ligações entre carbonos da substância são exclusivamente ligações simples"
+      },
+      "resposta": "d",
+      "explicacao": "Ter éster e ácido carboxílico na mesma substância é ter duas funções orgânicas diferentes coexistindo — isso é polifuncionalidade, e não isomeria, polimerização, mistura racêmica ou saturação da cadeia.",
+      "formato": "direta",
+      "banca": "famerp"
+    },
+    {
+      "id": "quimica-353",
+      "texto_apoio": "O politereftalato de etileno (PET), usado em garrafas plásticas, é obtido pela repetição de uma unidade estrutural derivada de um ácido e um álcool.",
+      "enunciado": "Esse tipo de material, formado pela repetição de unidades menores ligadas em cadeia longa, é chamado de:",
+      "alternativas": {
+        "a": "monômero, unidade estrutural simples que ainda não reagiu para formar uma cadeia maior",
+        "b": "isômero, composto de mesma fórmula molecular e estrutura diferente de outro composto",
+        "c": "hidrocarboneto, composto formado exclusivamente por átomos de carbono e hidrogênio ao longo de toda a cadeia",
+        "d": "eletrólito, substância capaz de conduzir corrente elétrica quando dissolvida ou fundida",
+        "e": "polímero, macromolécula formada pela repetição de unidades estruturais menores ligadas entre si"
+      },
+      "resposta": "e",
+      "explicacao": "A repetição de uma unidade estrutural formando uma cadeia longa é a definição de polímero; o monômero é a unidade isolada antes da reação, e as demais alternativas descrevem categorias diferentes de composto.",
+      "formato": "direta",
+      "banca": "unicamp"
+    },
+    {
+      "id": "quimica-354",
+      "texto_apoio": "A fermentação de açúcares por leveduras produz etanol e gás carbônico; o etanol obtido é usado tanto como combustível quanto como insumo industrial.",
+      "enunciado": "O grupo funcional que caracteriza o etanol, presente em sua estrutura, é:",
+      "alternativas": {
+        "a": "a hidroxila, grupo formado por um átomo de oxigênio ligado a um átomo de hidrogênio e a um carbono saturado",
+        "b": "a carbonila, grupo formado por um átomo de carbono ligado por dupla ligação a um átomo de oxigênio",
+        "c": "a carboxila, grupo formado pela combinação de uma carbonila e uma hidroxila no mesmo carbono",
+        "d": "o grupo amino, formado por um átomo de nitrogênio ligado a átomos de hidrogênio e a um carbono",
+        "e": "o grupo éster, formado pela ligação entre um carbono carbonílico e um átomo de oxigênio de outra cadeia carbônica"
+      },
+      "resposta": "a",
+      "explicacao": "O etanol é definido pela hidroxila ligada a carbono saturado; carbonila define aldeídos/cetonas, carboxila define ácidos carboxílicos, amino define aminas e éster tem estrutura própria diferente da do etanol.",
+      "formato": "direta",
+      "banca": "unesp"
+    },
+    {
+      "id": "quimica-355",
+      "texto_apoio": "A vanilina, responsável pelo aroma característico da baunilha, apresenta em sua estrutura um grupo carbonila ligado a um átomo de hidrogênio e a um anel aromático.",
+      "enunciado": "Esse arranjo estrutural, carbonila ligada a hidrogênio e a um grupo carbônico, define a função:",
+      "alternativas": {
+        "a": "cetona, em que a carbonila está ligada a dois grupos carbônicos distintos, sem hidrogênio ligado diretamente a ela",
+        "b": "aldeído, em que a carbonila está ligada a um átomo de hidrogênio e a um grupo carbônico ou a outro hidrogênio",
+        "c": "álcool, em que um átomo de oxigênio se liga a um átomo de hidrogênio e a um carbono saturado da cadeia",
+        "d": "ácido carboxílico, em que a carbonila se combina com uma hidroxila no mesmo átomo de carbono",
+        "e": "éter, em que um átomo de oxigênio liga dois grupos carbônicos sem hidrogênio ligado a esse oxigênio"
+      },
+      "resposta": "b",
+      "explicacao": "Carbonila ligada a um hidrogênio e a um grupo carbônico define o aldeído; na cetona a carbonila liga dois grupos carbônicos, sem hidrogênio — a diferença de grupo funcional entre as duas funções orgânicas está exatamente nesse detalhe.",
+      "formato": "direta",
+      "banca": "santacasa"
+    },
+    {
+      "id": "quimica-356",
+      "texto_apoio": "Um estudante analisa quatro substâncias e precisa identificar qual delas NÃO pertence à função amina.",
+      "enunciado": "Das estruturas apresentadas, aponte a que corresponde a uma exceção — ou seja, a única que NÃO é uma amina:",
+      "alternativas": {
+        "a": "CH3-NH2, em que um átomo de nitrogênio está ligado a um grupo metila e a dois átomos de hidrogênio",
+        "b": "CH3-NH-CH3, em que um átomo de nitrogênio está ligado a dois grupos metila e a um átomo de hidrogênio",
+        "c": "CH3-CO-NH2, em que um grupo carbonila e um grupo amino estão ligados ao mesmo átomo de carbono",
+        "d": "(CH3)3N, em que um átomo de nitrogênio está ligado a três grupos metila, sem hidrogênio ligado a ele",
+        "e": "CH3-CH2-NH2, em que um átomo de nitrogênio está ligado a um grupo etila e a dois átomos de hidrogênio"
+      },
+      "resposta": "c",
+      "explicacao": "CH3-CO-NH2 tem carbonila ligada a nitrogênio no mesmo carbono: é amida, função definida por grupo funcional distinto da amina. As demais estruturas têm nitrogênio ligado apenas a carbonos e hidrogênios, sem carbonila adjacente — são aminas primária, secundária e terciária.",
+      "formato": "excecao",
+      "banca": "unifesp"
+    },
+    {
+      "id": "quimica-357",
+      "texto_apoio": "A glicose é um carboidrato de fórmula C6H12O6, presente no sangue e utilizado como principal fonte de energia pelas células do corpo humano.",
+      "enunciado": "Em sua estrutura, a glicose apresenta múltiplos grupos ______ e um grupo ______, o que a classifica quimicamente como um ______. As lacunas são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "a": "amino – carboxila – aminoácido, classe de compostos que forma as proteínas presentes no organismo",
+        "b": "carboxila – hidroxila – ácido graxo, componente estrutural característico dos lipídios de reserva energética",
+        "c": "éster – éter – polímero natural, macromolécula formada pela repetição de unidades de glicose ligadas",
+        "d": "hidroxila – carbonila – poliálcool aldeídico, estrutura típica dos açúcares redutores como a glicose",
+        "e": "amida – amino – peptídeo, estrutura formada pela ligação entre dois ou mais aminoácidos distintos"
+      },
+      "resposta": "d",
+      "explicacao": "A glicose tem várias hidroxilas ao longo da cadeia e um grupo carbonila (aldeído) em uma extremidade — um poliálcool aldeídico, estrutura típica dos monossacarídeos redutores, e não um aminoácido, ácido graxo, polímero ou peptídeo.",
+      "formato": "lacunas",
+      "banca": "famema"
+    },
+    {
+      "id": "quimica-358",
+      "texto_apoio": "Os triglicerídeos, principal forma de reserva energética do tecido adiposo, resultam da união de uma substância de glicerol com três ácidos graxos.",
+      "enunciado": "A ligação química formada entre o glicerol e cada ácido graxo, com liberação de água, é do tipo:",
+      "alternativas": {
+        "a": "ligação peptídica, característica da união entre aminoácidos na formação de cadeias proteicas",
+        "b": "ligação glicosídica, característica da união entre monossacarídeos na formação de polissacarídeos",
+        "c": "ligação de hidrogênio, interação intermolecular fraca que não envolve compartilhamento de elétrons",
+        "d": "ligação iônica, formada pela atração eletrostática entre íons de carga oposta na substância",
+        "e": "ligação éster, formada entre a hidroxila do glicerol e a carboxila de cada ácido graxo envolvido"
+      },
+      "resposta": "e",
+      "explicacao": "Glicerol (um álcool) reagindo com ácido graxo (um ácido carboxílico), com saída de água, forma ligação éster — mecanismo de esterificação repetido três vezes, diferente das ligações peptídica, glicosídica, de hidrogênio ou iônica.",
+      "formato": "direta",
+      "banca": "unesp"
+    },
+    {
+      "id": "quimica-359",
+      "texto_apoio": "Um estudante compara o metano (CH4), o eteno (C2H4) e o benzeno (C6H6) quanto à saturação da cadeia carbônica.",
+      "enunciado": "Sobre a saturação das três substâncias, é correto afirmar que:",
+      "alternativas": {
+        "a": "o metano é saturado, o eteno é insaturado por apresentar dupla ligação, e o benzeno é aromático",
+        "b": "o metano é insaturado, o eteno é saturado e o benzeno é aromático, sem relação de saturação entre eles",
+        "c": "as três substâncias são saturadas, já que nenhuma delas apresenta ligação tripla entre carbonos",
+        "d": "as três substâncias são insaturadas, por conterem mais de um átomo de carbono em sua estrutura",
+        "e": "o metano e o eteno são aromáticos, enquanto o benzeno é o único hidrocarboneto saturado do grupo"
+      },
+      "resposta": "a",
+      "explicacao": "O metano só tem ligações simples (saturado); o eteno tem uma dupla ligação (insaturado); o benzeno tem o anel aromático com ligações deslocalizadas, categoria própria — nenhuma das outras combinações descreve corretamente os três compostos.",
+      "formato": "direta",
+      "banca": "einstein"
+    },
+    {
+      "id": "quimica-360",
+      "texto_apoio": "O biodiesel é produzido pela reação entre óleos vegetais (triglicerídeos) e um álcool de cadeia curta, geralmente metanol ou etanol, na presença de um catalisador básico.",
+      "enunciado": "Essa reação, que rompe a ligação éster do triglicerídeo e libera glicerina como subproduto, é chamada de:",
+      "alternativas": {
+        "a": "hidrogenação, adição de hidrogênio às duplas ligações presentes na cadeia dos ácidos graxos originais",
+        "b": "transesterificação, troca do grupo álcool ligado ao éster original por outro grupo álcool de cadeia curta",
+        "c": "halogenação, substituição de hidrogênios da cadeia carbônica por elementos da família dos halogênios",
+        "d": "nitração, introdução de um grupo nitro na estrutura da cadeia carbônica dos ácidos graxos envolvidos",
+        "e": "sulfonação, introdução de um grupo sulfônico na estrutura da cadeia carbônica dos ácidos graxos envolvidos"
+      },
+      "resposta": "b",
+      "explicacao": "O triglicerídeo (éster) troca seu grupo glicerol por metanol ou etanol, liberando glicerina: é transesterificação, o processo real de fabricação do biodiesel, distinto de hidrogenação, halogenação, nitração ou sulfonação.",
+      "formato": "direta",
+      "banca": "santacasa"
+    },
+    {
+      "id": "quimica-361",
+      "texto_apoio": "Um frasco de laboratório traz o rótulo: composto orgânico, ponto de ebulição 118 °C, solúvel em água, reage com carbonato de sódio liberando gás carbônico.",
+      "enunciado": "A liberação de gás carbônico ao reagir com carbonato de sódio é evidência de que o composto do rótulo pertence à função:",
+      "alternativas": {
+        "a": "álcool, já que álcoois reagem tipicamente com carbonatos liberando gás carbônico como produto característico",
+        "b": "aldeído, cuja carbonila reage com carbonatos formando dióxido de carbono como produto secundário",
+        "c": "ácido carboxílico, cuja acidez é suficiente para deslocar o gás carbônico de um carbonato em solução",
+        "d": "amina, cuja basicidade reage com carbonatos de sódio produzindo gás carbônico como subproduto característico",
+        "e": "éter, cuja estrutura é suficientemente reativa para deslocar o gás carbônico de soluções de carbonato"
+      },
+      "resposta": "c",
+      "explicacao": "Reagir com carbonato liberando CO2 é teste clássico de acidez orgânica: só o ácido carboxílico, mais ácido que álcool, aldeído, amina (básica) ou éter, é capaz de deslocar o ácido carbônico do carbonato.",
+      "formato": "direta",
+      "banca": "unicamp"
+    },
+    {
+      "id": "quimica-362",
+      "texto_apoio": "Um professor apresenta quatro pares de estruturas e pede que os alunos identifiquem qual par NÃO representa um caso de isomeria.",
+      "enunciado": "Assinale o par que constitui uma exceção — ou seja, o único que NÃO é um par de isômeros:",
+      "alternativas": {
+        "a": "etanol e dimetil-éter, ambos com fórmula molecular C2H6O, mas pertencentes a funções orgânicas diferentes",
+        "b": "butano e metilpropano, ambos com fórmula molecular C4H10, diferindo apenas na ramificação da cadeia",
+        "c": "propan-1-ol e propan-2-ol, ambos com fórmula molecular C3H8O, diferindo na posição da hidroxila",
+        "d": "metano e etano, com fórmulas moleculares CH4 e C2H6, diferindo no número de átomos de carbono da cadeia",
+        "e": "ácido acético e formiato de metila, ambos com fórmula molecular C2H4O2, mas pertencentes a funções diferentes"
+      },
+      "resposta": "d",
+      "explicacao": "Metano e etano têm fórmulas moleculares diferentes (CH4 e C2H6): não são isômeros, apenas hidrocarbonetos da mesma série com números distintos de carbono. Os demais pares compartilham a mesma fórmula molecular com estruturas diferentes — isomeria de função, cadeia e posição, respectivamente.",
+      "formato": "excecao",
+      "banca": "unesp"
+    },
+    {
+      "id": "quimica-363",
+      "texto_apoio": "O naftaleno, usado antigamente em repelentes de traça, é formado por dois anéis benzênicos fundidos, cada um mantendo o padrão de ligações deslocalizadas do benzeno.",
+      "enunciado": "A presença de anéis com esse padrão de ligação classifica o naftaleno como um hidrocarboneto:",
+      "alternativas": {
+        "a": "alifático saturado, formado exclusivamente por ligações simples entre os átomos de carbono da cadeia",
+        "b": "alicíclico, formado por um anel fechado sem as ligações deslocalizadas típicas do benzeno",
+        "c": "alifático insaturado, formado por uma cadeia aberta com duplas ligações isoladas entre carbonos",
+        "d": "heterocíclico, por apresentar em seu anel um átomo diferente de carbono na composição da cadeia",
+        "e": "aromático, por apresentar anéis com o padrão de ligações deslocalizadas característico do benzeno"
+      },
+      "resposta": "e",
+      "explicacao": "Anéis com o padrão de ligações deslocalizadas do benzeno definem compostos aromáticos; o naftaleno é dois desses anéis fundidos, o que o distingue de cadeias alifáticas, alicíclicas ou heterocíclicas.",
+      "formato": "direta",
+      "banca": "famerp"
+    },
+    {
+      "id": "quimica-364",
+      "texto_apoio": "A gasolina é uma mistura de hidrocarbonetos derivados do petróleo, obtidos por processos de refino como a destilação fracionada e o craqueamento.",
+      "enunciado": "O craqueamento, processo empregado na indústria do petróleo, consiste em:",
+      "alternativas": {
+        "a": "quebrar substâncias de cadeia longa em substâncias menores, aumentando a proporção de frações leves",
+        "b": "separar os hidrocarbonetos do petróleo bruto de acordo com suas diferentes temperaturas de ebulição",
+        "c": "unir substâncias pequenas em cadeias maiores, por meio de reações sucessivas de polimerização",
+        "d": "remover átomos de enxofre presentes nos hidrocarbonetos, reduzindo a poluição gerada na combustão",
+        "e": "adicionar hidrogênio a hidrocarbonetos insaturados, transformando-os em compostos saturados"
+      },
+      "resposta": "a",
+      "explicacao": "Craqueamento quebra cadeias longas em cadeias menores, mais valorizadas comercialmente — diferente da destilação fracionada (que apenas separa por temperatura de ebulição), da polimerização, da dessulfurização ou da hidrogenação.",
+      "formato": "direta",
+      "banca": "santacasa"
+    },
+    {
+      "id": "quimica-365",
+      "texto_apoio": "Um bioquímico observa que duas amostras de um mesmo aminoácido desviam a luz polarizada em sentidos opostos, embora tenham propriedades físicas quase idênticas em outros aspectos.",
+      "enunciado": "Esse comportamento em relação à luz polarizada é típico de pares de compostos chamados:",
+      "alternativas": {
+        "a": "isômeros de cadeia, cuja diferença estrutural está no arranjo da cadeia carbônica principal do composto",
+        "b": "enantiômeros, imagens especulares uma da outra, associadas a um centro de assimetria na substância",
+        "c": "isômeros de posição, cuja diferença estrutural está na localização do grupo funcional na cadeia carbônica",
+        "d": "isômeros de função, pertencentes a funções orgânicas diferentes apesar da mesma fórmula molecular",
+        "e": "tautômeros, formas que se interconvertem espontaneamente por deslocamento de um átomo de hidrogênio"
+      },
+      "resposta": "b",
+      "explicacao": "Desviar a luz polarizada em sentidos opostos, com demais propriedades físicas praticamente idênticas, é a assinatura dos enantiômeros — pares de imagens especulares ligados a um carbono assimétrico, e não isomeria plana ou tautomeria.",
+      "formato": "direta",
+      "banca": "unifesp"
+    },
+    {
+      "id": "quimica-366",
+      "texto_apoio": "O ácido cítrico, presente no limão, apresenta três grupos carboxila distintos ligados a uma mesma cadeia carbônica central.",
+      "enunciado": "A quantidade de hidrogênios ionizáveis fornecidos pelo ácido cítrico, em uma reação de neutralização completa, corresponde ao número de:",
+      "alternativas": {
+        "a": "grupos hidroxila presentes na substância, já que são eles os responsáveis pela liberação de prótons",
+        "b": "átomos de carbono da cadeia principal, um para cada carbono presente na estrutura molecular",
+        "c": "grupos carboxila presentes na substância, um hidrogênio ionizável para cada carboxila existente",
+        "d": "grupos carbonila presentes na substância, contando tanto os de aldeído quanto os de cetona",
+        "e": "átomos de oxigênio totais da substância, somando os presentes em todos os grupos funcionais"
+      },
+      "resposta": "c",
+      "explicacao": "Cada grupo carboxila (–COOH) libera um hidrogênio ionizável; com três carboxilas, o ácido cítrico é triprótico — a contagem correta acompanha o número de carboxilas, não de hidroxilas, carbonos, carbonilas ou átomos de oxigênio.",
+      "formato": "direta",
+      "banca": "einstein"
+    },
+    {
+      "id": "quimica-367",
+      "texto_apoio": "O polietileno, plástico mais usado no mundo em embalagens, é obtido pela repetição de milhares de unidades de eteno (CH2=CH2) ligadas entre si por ligações simples.",
+      "enunciado": "Nessa reação de formação do polietileno, cada dupla ligação do eteno se rompe para permitir a ligação com a unidade seguinte; esse mecanismo é chamado de:",
+      "alternativas": {
+        "a": "polimerização por condensação, em que cada nova ligação libera uma pequena substância, geralmente água",
+        "b": "hidrólise, em que a água rompe as ligações entre os monômeros para formar o polímero final",
+        "c": "esterificação, em que um ácido carboxílico reage com um álcool para formar as ligações do polímero",
+        "d": "polimerização por adição, em que os monômeros se ligam entre si sem liberar nenhum subproduto",
+        "e": "saponificação, em que uma base forte rompe as ligações éster presentes entre os monômeros"
+      },
+      "resposta": "d",
+      "explicacao": "O eteno se adiciona a si mesmo, rompendo a dupla ligação sem liberar subproduto: é polimerização por adição — diferente da condensação (que libera água ou outra substância pequena), da hidrólise, da esterificação ou da saponificação.",
+      "formato": "direta",
+      "banca": "unesp"
     }
   ]
 }

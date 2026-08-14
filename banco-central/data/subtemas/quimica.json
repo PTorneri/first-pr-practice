@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-14",
  "frente": "quimica",
- "total": 343,
+ "total": 367,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -2061,6 +2061,150 @@
    "frenteDestino": "quimica",
    "pontos": 15,
    "margem": 6
+  },
+  "med-quimica-344": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-quimica-345": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-346": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-347": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-348": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 22,
+   "margem": 14
+  },
+  "med-quimica-349": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-quimica-350": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "med-quimica-351": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-quimica-352": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 20,
+   "margem": 15
+  },
+  "med-quimica-353": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-quimica-354": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 18,
+   "margem": 13
+  },
+  "med-quimica-355": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-356": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-357": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-quimica-358": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-quimica-359": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-360": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-quimica-361": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-362": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-quimica-363": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-364": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-quimica-365": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-quimica-366": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-367": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
   }
  }
 }

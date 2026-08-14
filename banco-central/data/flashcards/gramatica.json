@@ -1,0 +1,1068 @@
+{
+  "frente": "gramatica",
+  "gerado": "2026-08-14",
+  "porSubtema": {
+    "gramatica-concordancia": [
+      {
+        "id": "flash-gramatica-concordancia-01",
+        "frente": "O que é concordância verbal?",
+        "verso": "A adaptação do verbo em número e pessoa ao seu sujeito."
+      },
+      {
+        "id": "flash-gramatica-concordancia-02",
+        "frente": "O que é concordância nominal?",
+        "verso": "A adaptação de artigos, adjetivos, pronomes e numerais em gênero e número ao substantivo a que se referem."
+      },
+      {
+        "id": "flash-gramatica-concordancia-03",
+        "frente": "Como fica o verbo com sujeito composto ANTES dele?",
+        "verso": "Obrigatoriamente no plural: 'O professor e o aluno chegaram cedo.'"
+      },
+      {
+        "id": "flash-gramatica-concordancia-04",
+        "frente": "Como fica o verbo com sujeito composto DEPOIS dele (posposto)?",
+        "verso": "Pode ir ao plural ou concordar com o núcleo mais próximo: 'Chegaram o professor e o aluno' ou 'Chegou o professor e o aluno'."
+      },
+      {
+        "id": "flash-gramatica-concordancia-05",
+        "frente": "Como fica o verbo com sujeito composto de pessoas gramaticais diferentes?",
+        "verso": "Vai ao plural na pessoa que tiver precedência: 1ª sobre 2ª e 3ª. 'Eu e ele saímos.'"
+      },
+      {
+        "id": "flash-gramatica-concordancia-06",
+        "frente": "Como concorda o verbo com sujeito ligado por 'ou'?",
+        "verso": "Se o 'ou' indicar exclusão, o verbo fica no singular; se indicar adição, vai ao plural."
+      },
+      {
+        "id": "flash-gramatica-concordancia-07",
+        "frente": "Como concorda o verbo com 'um dos que'?",
+        "verso": "Preferencialmente no plural: 'Ele é um dos que mais estudam.'"
+      },
+      {
+        "id": "flash-gramatica-concordancia-08",
+        "frente": "Como fica o verbo quando o sujeito é uma expressão partitiva como 'a maioria dos alunos'?",
+        "verso": "Pode concordar com o núcleo ('a maioria chegou') ou com o especificador ('a maioria dos alunos chegaram') — ambas são aceitas."
+      },
+      {
+        "id": "flash-gramatica-concordancia-09",
+        "frente": "Como fica o verbo com sujeito 'mais de um'?",
+        "verso": "No singular: 'Mais de um candidato faltou.'"
+      },
+      {
+        "id": "flash-gramatica-concordancia-10",
+        "frente": "Por que o verbo 'haver' no sentido de existir é impessoal?",
+        "verso": "Porque não tem sujeito; fica sempre na 3ª pessoa do singular: 'Havia muitos alunos na sala.'"
+      },
+      {
+        "id": "flash-gramatica-concordancia-11",
+        "frente": "Qual é o erro em 'Haviam muitas pessoas na festa'?",
+        "verso": "'Haver' com sentido de existir é impessoal — o correto é 'Havia muitas pessoas'."
+      },
+      {
+        "id": "flash-gramatica-concordancia-12",
+        "frente": "O que acontece quando 'haver' impessoal vem com verbo auxiliar?",
+        "verso": "O auxiliar também fica no singular: 'Deve haver muitos problemas' (nunca 'devem haver')."
+      },
+      {
+        "id": "flash-gramatica-concordancia-13",
+        "frente": "Como se comporta o verbo 'existir' em relação a 'haver'?",
+        "verso": "'Existir' TEM sujeito e concorda normalmente: 'Existiam muitos alunos' — diferente de 'Havia muitos alunos'."
+      },
+      {
+        "id": "flash-gramatica-concordancia-14",
+        "frente": "Quando o verbo 'fazer' é impessoal?",
+        "verso": "Ao indicar tempo decorrido ou fenômeno da natureza: 'Faz cinco anos que não o vejo' (nunca 'Fazem cinco anos')."
+      },
+      {
+        "id": "flash-gramatica-concordancia-15",
+        "frente": "Como concorda o verbo com a partícula apassivadora 'se'?",
+        "verso": "Concorda com o sujeito paciente: 'Vendem-se casas' (plural), 'Vende-se uma casa' (singular)."
+      },
+      {
+        "id": "flash-gramatica-concordancia-16",
+        "frente": "Como fica o verbo com o índice de indeterminação do sujeito 'se'?",
+        "verso": "Sempre na 3ª pessoa do singular: 'Precisa-se de funcionários' — o verbo é transitivo indireto."
+      },
+      {
+        "id": "flash-gramatica-concordancia-17",
+        "frente": "Como distinguir 'Vendem-se casas' de 'Precisa-se de funcionários'?",
+        "verso": "Se o verbo é transitivo direto, o 'se' é apassivador e há concordância; se é transitivo indireto, o 'se' indetermina o sujeito e o verbo fica no singular."
+      },
+      {
+        "id": "flash-gramatica-concordancia-18",
+        "frente": "Como concorda o verbo 'ser' quando indica tempo, data ou distância?",
+        "verso": "Com o predicativo: 'São três horas', 'Hoje são 15 de maio', 'Daqui até lá são dez quilômetros'."
+      },
+      {
+        "id": "flash-gramatica-concordancia-19",
+        "frente": "Como concorda o adjetivo que vem ANTES de dois ou mais substantivos?",
+        "verso": "Geralmente com o mais próximo: 'Comprei velhos livros e revistas.'"
+      },
+      {
+        "id": "flash-gramatica-concordancia-20",
+        "frente": "Como concorda o adjetivo que vem DEPOIS de dois ou mais substantivos?",
+        "verso": "Vai ao plural, ou concorda com o mais próximo: 'livro e revista antigos' ou 'livro e revista antiga'."
+      },
+      {
+        "id": "flash-gramatica-concordancia-21",
+        "frente": "Como se comporta a palavra 'anexo' na concordância?",
+        "verso": "É adjetivo e concorda com o substantivo: 'Seguem anexas as fotos', 'Segue anexo o documento'."
+      },
+      {
+        "id": "flash-gramatica-concordancia-22",
+        "frente": "Qual é a forma correta: 'em anexo' ou 'anexo'?",
+        "verso": "'Anexo' varia como adjetivo; 'em anexo' é locução invariável, aceita na linguagem corrente mas evitada na norma culta rigorosa."
+      },
+      {
+        "id": "flash-gramatica-concordancia-23",
+        "frente": "Como se comporta 'obrigado' na concordância?",
+        "verso": "Concorda com quem fala: um homem diz 'obrigado', uma mulher diz 'obrigada'."
+      },
+      {
+        "id": "flash-gramatica-concordancia-24",
+        "frente": "Quando 'bastante' varia e quando não varia?",
+        "verso": "Varia como adjetivo, equivalendo a 'muitos' ('bastantes livros'); não varia como advérbio, equivalendo a 'muito' ('estudou bastante')."
+      },
+      {
+        "id": "flash-gramatica-concordancia-25",
+        "frente": "Quando 'meio' varia e quando não varia?",
+        "verso": "Varia como numeral ('meia dúzia'); não varia como advérbio, equivalendo a 'um pouco' ('ela está meio cansada')."
+      },
+      {
+        "id": "flash-gramatica-concordancia-26",
+        "frente": "Como se comporta 'menos' na concordância?",
+        "verso": "É SEMPRE invariável: 'menos pessoas', 'menos oportunidades' — 'menas' não existe."
+      },
+      {
+        "id": "flash-gramatica-concordancia-27",
+        "frente": "Como se comporta a palavra 'mesmo' na concordância?",
+        "verso": "Varia quando reforça o substantivo ('elas mesmas resolveram'); é invariável quando equivale a 'realmente' ('mesmo assim, foi')."
+      },
+      {
+        "id": "flash-gramatica-concordancia-28",
+        "frente": "Como concorda 'é proibido' / 'é necessário' com o sujeito?",
+        "verso": "Fica invariável se o sujeito não tem determinante ('É proibido entrada'); concorda se tem ('É proibida a entrada')."
+      },
+      {
+        "id": "flash-gramatica-concordancia-29",
+        "frente": "Como concordam os numerais em expressões como 'as duas primeiras páginas'?",
+        "verso": "Numeral e adjetivo concordam com o substantivo em gênero e número."
+      },
+      {
+        "id": "flash-gramatica-concordancia-30",
+        "frente": "Como concorda o pronome de tratamento com o verbo e com os adjetivos?",
+        "verso": "O verbo vai à 3ª pessoa ('Vossa Excelência deve'), mas o adjetivo concorda com o sexo da pessoa ('Vossa Excelência está preocupado')."
+      },
+      {
+        "id": "flash-gramatica-concordancia-31",
+        "frente": "Como concorda o verbo quando o sujeito é 'quem'?",
+        "verso": "Preferencialmente na 3ª pessoa do singular: 'Fui eu quem fez o trabalho' — embora a concordância com o antecedente também seja aceita."
+      },
+      {
+        "id": "flash-gramatica-concordancia-32",
+        "frente": "Como concorda o verbo quando o sujeito é o pronome relativo 'que'?",
+        "verso": "Com o antecedente do 'que': 'Fui eu que fiz o trabalho.'"
+      },
+      {
+        "id": "flash-gramatica-concordancia-33",
+        "frente": "Como fica a concordância em 'um e outro'?",
+        "verso": "O substantivo fica no singular e o adjetivo no plural: 'um e outro caso interessantes'."
+      },
+      {
+        "id": "flash-gramatica-concordancia-34",
+        "frente": "Por que a voz passiva analítica exige atenção à concordância?",
+        "verso": "Porque o particípio concorda com o sujeito paciente: 'A casa foi vendida', 'As casas foram vendidas'."
+      }
+    ],
+    "gramatica-regencia-crase": [
+      {
+        "id": "flash-gramatica-regencia-crase-01",
+        "frente": "O que é regência verbal?",
+        "verso": "A relação entre o verbo e seus complementos, incluindo a preposição que ele exige."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-02",
+        "frente": "O que é regência nominal?",
+        "verso": "A relação entre um nome (substantivo, adjetivo ou advérbio) e o complemento que ele exige, com a preposição adequada."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-03",
+        "frente": "O que é um verbo transitivo direto?",
+        "verso": "Aquele cujo complemento vem SEM preposição — é o objeto direto: 'Comprei o livro.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-04",
+        "frente": "O que é um verbo transitivo indireto?",
+        "verso": "Aquele cujo complemento vem COM preposição obrigatória — é o objeto indireto: 'Gosto de música.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-05",
+        "frente": "O que é um verbo intransitivo?",
+        "verso": "Aquele que não exige complemento, tendo sentido completo em si: 'Ele chegou.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-06",
+        "frente": "Qual é a regência de 'assistir' no sentido de ver?",
+        "verso": "Transitivo indireto, com a preposição 'a': 'Assisti ao filme.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-07",
+        "frente": "Qual é a regência de 'assistir' no sentido de prestar socorro?",
+        "verso": "Transitivo direto: 'O médico assistiu o paciente.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-08",
+        "frente": "Qual é a regência de 'visar' no sentido de ter como objetivo?",
+        "verso": "Transitivo indireto, com 'a': 'A medida visa a reduzir a desigualdade.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-09",
+        "frente": "Qual é a regência de 'visar' no sentido de mirar ou dar visto?",
+        "verso": "Transitivo direto: 'O atirador visou o alvo', 'O gerente visou o cheque.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-10",
+        "frente": "Qual é a regência de 'aspirar' no sentido de almejar?",
+        "verso": "Transitivo indireto, com 'a': 'Aspiro ao cargo.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-11",
+        "frente": "Qual é a regência de 'aspirar' no sentido de sorver?",
+        "verso": "Transitivo direto: 'Aspirou o perfume das flores.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-12",
+        "frente": "Qual é a regência de 'obedecer' e 'desobedecer'?",
+        "verso": "Ambos são transitivos indiretos, com 'a': 'Obedeça às regras.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-13",
+        "frente": "Qual é a regência de 'preferir'?",
+        "verso": "Transitivo direto e indireto, com 'a': 'Prefiro cinema a teatro' — sem 'do que' nem 'mais'."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-14",
+        "frente": "Qual é o erro em 'Prefiro mais estudar do que trabalhar'?",
+        "verso": "'Preferir' já contém a ideia de preferência: o correto é 'Prefiro estudar a trabalhar.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-15",
+        "frente": "Qual é a regência de 'implicar' no sentido de acarretar?",
+        "verso": "Transitivo direto, SEM preposição: 'O atraso implicou prejuízos.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-16",
+        "frente": "Qual é a regência de 'namorar'?",
+        "verso": "Transitivo direto, sem preposição: 'Ele namora Maria' — não 'namora com Maria'."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-17",
+        "frente": "Qual é a regência de 'chegar' e 'ir' quanto a lugar?",
+        "verso": "Exigem a preposição 'a', não 'em': 'Cheguei a São Paulo', 'Fui ao cinema.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-18",
+        "frente": "Qual é a diferença entre 'lembrar algo' e 'lembrar-se de algo'?",
+        "verso": "Sem pronome, é transitivo direto ('Lembrei o compromisso'); com pronome, exige 'de' ('Lembrei-me do compromisso')."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-19",
+        "frente": "Qual é a regência de 'informar'?",
+        "verso": "Admite as duas ordens: 'Informei o fato ao diretor' ou 'Informei o diretor do fato.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-20",
+        "frente": "Qual é a regência de 'simpatizar'?",
+        "verso": "Transitivo indireto, com 'com', e sem pronome: 'Simpatizo com ele' — nunca 'simpatizo-me'."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-21",
+        "frente": "O que é a crase?",
+        "verso": "A fusão da preposição 'a' com o artigo definido feminino 'a(s)', ou com o 'a' de pronomes demonstrativos, marcada pelo acento grave."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-22",
+        "frente": "Quais são as duas condições para haver crase?",
+        "verso": "Um termo que EXIJA a preposição 'a' e um termo feminino que ACEITE o artigo 'a'."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-23",
+        "frente": "Qual é o teste prático mais usado para identificar a crase?",
+        "verso": "Trocar a palavra feminina por uma masculina: se aparecer 'ao', há crase."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-24",
+        "frente": "Por que não há crase antes de palavra masculina?",
+        "verso": "Porque não existe o artigo feminino 'a' para fundir-se à preposição — a exceção é a expressão 'à moda de' subentendida."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-25",
+        "frente": "Por que não há crase antes de verbo?",
+        "verso": "Porque verbo não admite artigo: 'Começou a chover.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-26",
+        "frente": "Há crase antes de pronomes pessoais?",
+        "verso": "Não, pois não admitem artigo: 'Entreguei a ela o documento.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-27",
+        "frente": "Há crase na expressão 'a partir de'?",
+        "verso": "Não — é uma locução fixa que nunca recebe acento grave."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-28",
+        "frente": "Há crase antes de palavras repetidas, como 'cara a cara'?",
+        "verso": "Não: em expressões do tipo 'dia a dia', 'frente a frente', 'gota a gota', não há crase."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-29",
+        "frente": "Quando ocorre crase antes de nomes próprios femininos de pessoa?",
+        "verso": "Quando o nome admite artigo: 'Referi-me à Maria' se dizemos 'a Maria'; sem artigo, não há crase."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-30",
+        "frente": "Quando há crase antes de nomes de lugar?",
+        "verso": "Quando o lugar admite artigo. Teste: se dizemos 'Venho DA', há crase ('Vou à Bahia'); se dizemos 'Venho DE', não há ('Vou a Brasília')."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-31",
+        "frente": "Há crase em 'à distância'?",
+        "verso": "Só quando a distância é determinada ('a 100 metros de distância' não tem crase; 'reconheceu-o à distância' tem, no uso consagrado)."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-32",
+        "frente": "Quando ocorre crase antes de 'aquele', 'aquela' e 'aquilo'?",
+        "verso": "Quando o termo anterior exige a preposição 'a': 'Refiro-me àquele caso.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-33",
+        "frente": "Quando se usa 'à qual' e 'às quais'?",
+        "verso": "Quando o verbo ou nome exige a preposição 'a' e o antecedente é feminino: 'A obra à qual me refiro.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-34",
+        "frente": "Quando se usa 'a que', 'de que', 'em que'?",
+        "verso": "A preposição é definida pela regência do verbo da oração adjetiva: 'O filme A QUE assisti' (assistir exige 'a')."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-35",
+        "frente": "Como se usa o pronome relativo 'cujo'?",
+        "verso": "Indica posse, concorda com o termo POSTERIOR e nunca vem seguido de artigo: 'O autor cuja obra li.'"
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-36",
+        "frente": "Há crase antes das horas?",
+        "verso": "Sim, quando determinadas: 'Chegou às 14h' — teste com 'ao meio-dia'."
+      },
+      {
+        "id": "flash-gramatica-regencia-crase-37",
+        "frente": "Há crase em 'à vista', 'às pressas', 'à noite'?",
+        "verso": "Sim: locuções adverbiais femininas recebem acento grave por clareza, mesmo quando o 'a' pareceria só preposição."
+      }
+    ],
+    "gramatica-pontuacao": [
+      {
+        "id": "flash-gramatica-pontuacao-01",
+        "frente": "Qual é a regra fundamental que a vírgula NÃO pode violar?",
+        "verso": "Não se separa o sujeito do predicado, nem o verbo de seus complementos, por uma única vírgula."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-02",
+        "frente": "Por que 'Os alunos da escola, receberam o prêmio' está errado?",
+        "verso": "Porque a vírgula separa indevidamente o sujeito do predicado."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-03",
+        "frente": "Quando a vírgula é usada em enumerações?",
+        "verso": "Para separar elementos de mesma função sintática: 'Comprei pão, leite, ovos e café.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-04",
+        "frente": "Como se pontua um aposto explicativo?",
+        "verso": "Entre vírgulas: 'Machado de Assis, autor de Dom Casmurro, morreu em 1908.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-05",
+        "frente": "Como se pontua o vocativo?",
+        "verso": "Isolado por vírgula: 'Maria, venha aqui.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-06",
+        "frente": "Qual é a diferença sintática entre aposto e vocativo?",
+        "verso": "O aposto explica ou especifica um termo anterior; o vocativo chama ou interpela o interlocutor, sem função sintática na oração."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-07",
+        "frente": "Como se pontua um adjunto adverbial deslocado para o início da frase?",
+        "verso": "Com vírgula, sobretudo se for longo: 'Naquela manhã de inverno, saímos cedo.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-08",
+        "frente": "Usa-se vírgula antes de adjunto adverbial curto no início?",
+        "verso": "É facultativa: 'Ontem viajei' ou 'Ontem, viajei' — ambas corretas."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-09",
+        "frente": "Como se pontua uma oração intercalada?",
+        "verso": "Entre vírgulas: 'O resultado, segundo os pesquisadores, foi surpreendente.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-10",
+        "frente": "Qual é a diferença entre oração adjetiva explicativa e restritiva?",
+        "verso": "A explicativa acrescenta informação acessória e vem entre vírgulas; a restritiva delimita o antecedente e NÃO leva vírgula."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-11",
+        "frente": "O que muda de sentido entre 'Os alunos, que estudaram, passaram' e 'Os alunos que estudaram passaram'?",
+        "verso": "Na primeira, TODOS estudaram e passaram; na segunda, apenas o subgrupo que estudou passou."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-12",
+        "frente": "Por que a vírgula na oração adjetiva é considerada 'a vírgula que muda o sentido'?",
+        "verso": "Porque ela é o único sinal que distingue explicativa de restritiva, alterando quem exatamente o enunciado abrange."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-13",
+        "frente": "Usa-se vírgula antes de 'e'?",
+        "verso": "Em regra não, mas sim quando os sujeitos são diferentes, quando há enumeração de orações ou quando 'e' tem valor adversativo."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-14",
+        "frente": "Quando se usa vírgula antes de conjunções adversativas como 'mas' e 'porém'?",
+        "verso": "Sempre: 'Estudou muito, mas não passou.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-15",
+        "frente": "Como se pontua a conjunção 'porém' quando deslocada para o meio da oração?",
+        "verso": "Entre vírgulas: 'Estudou muito; não passou, porém, no exame.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-16",
+        "frente": "Como se pontua uma oração subordinada adverbial que vem ANTES da principal?",
+        "verso": "Com vírgula: 'Quando chegou, todos aplaudiram.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-17",
+        "frente": "A vírgula é obrigatória quando a oração adverbial vem DEPOIS da principal?",
+        "verso": "Não — em geral é dispensável: 'Todos aplaudiram quando ele chegou.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-18",
+        "frente": "Para que serve o ponto e vírgula?",
+        "verso": "Para separar orações longas já pontuadas por vírgulas e para itens de enumeração em textos legais e listas."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-19",
+        "frente": "Quais são os usos principais dos dois-pontos?",
+        "verso": "Introduzir citação, enumeração, explicação ou esclarecimento do que foi anunciado."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-20",
+        "frente": "Quais são os usos do travessão?",
+        "verso": "Marcar a fala em diálogos e isolar termos ou comentários, funcionando como alternativa enfática à vírgula ou aos parênteses."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-21",
+        "frente": "Qual é a diferença de efeito entre parênteses, travessão e vírgula ao isolar um comentário?",
+        "verso": "A vírgula integra mais ao período, o travessão dá destaque e os parênteses reduzem a informação a um aparte discreto."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-22",
+        "frente": "O que as reticências indicam?",
+        "verso": "Interrupção, suspensão do pensamento, hesitação ou a sugestão de que algo ficou implícito."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-23",
+        "frente": "Como se pontua o discurso direto?",
+        "verso": "Com dois-pontos e travessão, ou com aspas: 'Ele disse: — Vou embora.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-24",
+        "frente": "Como se pontuam as orações coordenadas assindéticas?",
+        "verso": "Separadas por vírgula, já que não há conjunção: 'Cheguei, vi, venci.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-25",
+        "frente": "Como se pontua a elipse do verbo?",
+        "verso": "Com vírgula no lugar do verbo omitido: 'Alguns preferem o mar; outros, a montanha.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-26",
+        "frente": "Como se pontuam as expressões explicativas como 'isto é', 'ou seja', 'por exemplo'?",
+        "verso": "Entre vírgulas: 'Ele é poliglota, ou seja, fala vários idiomas.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-27",
+        "frente": "Como se pontuam os conectivos conclusivos 'portanto', 'logo', 'assim'?",
+        "verso": "Entre vírgulas quando intercalados: 'O prazo acabou; devemos, portanto, entregar hoje.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-28",
+        "frente": "Qual é o efeito de deslocar o predicativo para o início da frase?",
+        "verso": "Ele passa a ser isolado por vírgula e ganha ênfase: 'Cansados, os atletas deixaram o campo.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-29",
+        "frente": "Como se pontua a data no cabeçalho de um documento?",
+        "verso": "Vírgula entre o local e a data: 'São Paulo, 14 de agosto de 2026.'"
+      },
+      {
+        "id": "flash-gramatica-pontuacao-30",
+        "frente": "Usa-se vírgula antes de oração subordinada substantiva?",
+        "verso": "Não — ela funciona como termo essencial ou integrante da oração principal e não deve ser separada dela."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-31",
+        "frente": "Por que 'Não, espere' e 'Não espere' têm sentidos opostos?",
+        "verso": "Porque a vírgula transforma 'não' em resposta isolada; sem ela, 'não' nega o verbo."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-32",
+        "frente": "Como a pontuação pode desfazer uma ambiguidade?",
+        "verso": "Isolando o termo que se quer vincular a um antecedente específico, deixando explícito o escopo de cada informação."
+      },
+      {
+        "id": "flash-gramatica-pontuacao-33",
+        "frente": "Como se pontua uma citação longa introduzida por verbo dicendi?",
+        "verso": "Com dois-pontos após o verbo e aspas envolvendo a fala transcrita."
+      }
+    ],
+    "gramatica-morfologia": [
+      {
+        "id": "flash-gramatica-morfologia-01",
+        "frente": "Quais são as dez classes de palavras do português?",
+        "verso": "Substantivo, artigo, adjetivo, numeral, pronome, verbo, advérbio, preposição, conjunção e interjeição."
+      },
+      {
+        "id": "flash-gramatica-morfologia-02",
+        "frente": "O que caracteriza o substantivo?",
+        "verso": "Nomeia seres, objetos, lugares, sentimentos e ideias; é a classe que os determinantes acompanham."
+      },
+      {
+        "id": "flash-gramatica-morfologia-03",
+        "frente": "O que caracteriza o adjetivo?",
+        "verso": "Atribui qualidade, estado ou característica ao substantivo, com ele concordando em gênero e número."
+      },
+      {
+        "id": "flash-gramatica-morfologia-04",
+        "frente": "Como distinguir advérbio de adjetivo numa frase?",
+        "verso": "O adjetivo modifica substantivo e varia; o advérbio modifica verbo, adjetivo ou outro advérbio e é invariável."
+      },
+      {
+        "id": "flash-gramatica-morfologia-05",
+        "frente": "Qual é a diferença entre artigo definido e indefinido?",
+        "verso": "O definido ('o', 'a') indica ser já conhecido ou determinado; o indefinido ('um', 'uma') apresenta ser não especificado."
+      },
+      {
+        "id": "flash-gramatica-morfologia-06",
+        "frente": "Que efeito de sentido a troca de artigo definido por indefinido produz?",
+        "verso": "Muda o grau de determinação: 'o problema' pressupõe conhecimento partilhado; 'um problema' introduz informação nova."
+      },
+      {
+        "id": "flash-gramatica-morfologia-07",
+        "frente": "Quais são os pronomes pessoais do caso reto e do caso oblíquo?",
+        "verso": "Retos exercem função de sujeito (eu, tu, ele...); oblíquos, de complemento (me, te, o, lhe, nos...)."
+      },
+      {
+        "id": "flash-gramatica-morfologia-08",
+        "frente": "Quando se usa 'o/a' e quando se usa 'lhe' como pronome oblíquo?",
+        "verso": "'O/a' substitui objeto direto ('Eu o vi'); 'lhe' substitui objeto indireto ('Eu lhe disse')."
+      },
+      {
+        "id": "flash-gramatica-morfologia-09",
+        "frente": "Como se usam os pronomes demonstrativos 'este', 'esse' e 'aquele' no espaço?",
+        "verso": "'Este' é próximo de quem fala, 'esse' de quem ouve e 'aquele' está distante de ambos."
+      },
+      {
+        "id": "flash-gramatica-morfologia-10",
+        "frente": "Como se usam 'este' e 'esse' na referência textual?",
+        "verso": "'Este' anuncia o que ainda será dito (catáfora); 'esse' retoma o que já foi dito (anáfora)."
+      },
+      {
+        "id": "flash-gramatica-morfologia-11",
+        "frente": "O que é próclise, e quando ocorre?",
+        "verso": "O pronome antes do verbo; é exigido por palavras atrativas como negações, advérbios, pronomes relativos e conjunções subordinativas."
+      },
+      {
+        "id": "flash-gramatica-morfologia-12",
+        "frente": "Quais palavras atraem o pronome para antes do verbo?",
+        "verso": "Negações ('não me diga'), advérbios ('aqui se trabalha'), pronomes relativos e indefinidos, e conjunções subordinativas."
+      },
+      {
+        "id": "flash-gramatica-morfologia-13",
+        "frente": "O que é ênclise, e quando é obrigatória?",
+        "verso": "O pronome depois do verbo; é obrigatória no início de período e com o verbo no imperativo afirmativo."
+      },
+      {
+        "id": "flash-gramatica-morfologia-14",
+        "frente": "O que é mesóclise, e quando ocorre?",
+        "verso": "O pronome no meio do verbo; ocorre com futuro do presente e futuro do pretérito sem palavra atrativa: 'Far-lhe-ei justiça.'"
+      },
+      {
+        "id": "flash-gramatica-morfologia-15",
+        "frente": "Pode-se iniciar uma frase com pronome oblíquo átono na norma culta?",
+        "verso": "Não — exige-se ênclise: 'Diga-me' e não 'Me diga', embora a próclise inicial seja comum na fala."
+      },
+      {
+        "id": "flash-gramatica-morfologia-16",
+        "frente": "Que valor tem o presente do indicativo além do momento atual?",
+        "verso": "Pode indicar fato habitual, verdade permanente e, no presente histórico, ação passada narrada com vivacidade."
+      },
+      {
+        "id": "flash-gramatica-morfologia-17",
+        "frente": "Qual é a diferença entre pretérito perfeito e imperfeito?",
+        "verso": "O perfeito indica ação concluída; o imperfeito, ação habitual ou em curso no passado."
+      },
+      {
+        "id": "flash-gramatica-morfologia-18",
+        "frente": "Que valor tem o pretérito mais-que-perfeito?",
+        "verso": "Indica ação anterior a outra já passada: 'Quando cheguei, ele já saíra.'"
+      },
+      {
+        "id": "flash-gramatica-morfologia-19",
+        "frente": "Qual é a diferença de sentido entre futuro do presente e futuro do pretérito?",
+        "verso": "O do presente indica fato posterior tido como certo; o do pretérito, hipótese, condição ou polidez."
+      },
+      {
+        "id": "flash-gramatica-morfologia-20",
+        "frente": "Que sentido o modo subjuntivo expressa?",
+        "verso": "Hipótese, dúvida, desejo ou possibilidade, em oposição à certeza do indicativo."
+      },
+      {
+        "id": "flash-gramatica-morfologia-21",
+        "frente": "Como se forma o imperativo negativo?",
+        "verso": "A partir do presente do subjuntivo: 'não fales', 'não faça'."
+      },
+      {
+        "id": "flash-gramatica-morfologia-22",
+        "frente": "Quais são as formas nominais do verbo?",
+        "verso": "Infinitivo, gerúndio e particípio."
+      },
+      {
+        "id": "flash-gramatica-morfologia-23",
+        "frente": "O que é voz passiva sintética?",
+        "verso": "A formada com o verbo na 3ª pessoa mais a partícula 'se': 'Alugam-se casas.'"
+      },
+      {
+        "id": "flash-gramatica-morfologia-24",
+        "frente": "O que é um verbo defectivo?",
+        "verso": "Aquele que não se conjuga em todas as pessoas ou tempos, como 'falir' e 'reaver'."
+      },
+      {
+        "id": "flash-gramatica-morfologia-25",
+        "frente": "Qual é a diferença entre derivação e composição?",
+        "verso": "A derivação forma palavras a partir de um radical com afixos; a composição une dois ou mais radicais."
+      },
+      {
+        "id": "flash-gramatica-morfologia-26",
+        "frente": "O que é derivação prefixal e sufixal?",
+        "verso": "Prefixal acrescenta afixo antes do radical ('infeliz'); sufixal, depois ('felizmente')."
+      },
+      {
+        "id": "flash-gramatica-morfologia-27",
+        "frente": "O que é derivação parassintética?",
+        "verso": "O acréscimo simultâneo de prefixo e sufixo, sem os quais a palavra não existe: 'entardecer', 'esclarecer'."
+      },
+      {
+        "id": "flash-gramatica-morfologia-28",
+        "frente": "O que é derivação regressiva?",
+        "verso": "A formação por redução da palavra primitiva, geralmente criando substantivos a partir de verbos: 'combater' → 'combate'."
+      },
+      {
+        "id": "flash-gramatica-morfologia-29",
+        "frente": "O que é derivação imprópria?",
+        "verso": "A mudança de classe gramatical sem alteração de forma: 'o jantar', 'o porquê'."
+      },
+      {
+        "id": "flash-gramatica-morfologia-30",
+        "frente": "O que é um neologismo?",
+        "verso": "Uma palavra ou acepção nova criada na língua, por derivação, composição ou empréstimo."
+      },
+      {
+        "id": "flash-gramatica-morfologia-31",
+        "frente": "Como se acentuam as palavras oxítonas?",
+        "verso": "Quando terminadas em a(s), e(s), o(s), em, ens: 'sofá', 'café', 'também'."
+      },
+      {
+        "id": "flash-gramatica-morfologia-32",
+        "frente": "Como se acentuam as paroxítonas?",
+        "verso": "Quando NÃO terminadas em a(s), e(s), o(s), em, ens — ou seja, as terminações menos comuns: 'táxi', 'fácil', 'órgão'."
+      },
+      {
+        "id": "flash-gramatica-morfologia-33",
+        "frente": "Como se acentuam as proparoxítonas?",
+        "verso": "TODAS são acentuadas, sem exceção: 'médico', 'lâmpada', 'ônibus'."
+      },
+      {
+        "id": "flash-gramatica-morfologia-34",
+        "frente": "O que mudou no acento dos ditongos abertos com o Acordo Ortográfico?",
+        "verso": "'Éi' e 'ói' perderam o acento nas paroxítonas ('ideia', 'heroico'), mas o mantêm nas oxítonas ('herói', 'papéis')."
+      },
+      {
+        "id": "flash-gramatica-morfologia-35",
+        "frente": "Quando se usa o hífen com prefixos, após o Acordo Ortográfico?",
+        "verso": "Quando o prefixo termina com a mesma letra que inicia a palavra seguinte ('micro-ondas') ou antes de 'h' ('super-homem')."
+      }
+    ],
+    "gramatica-sintaxe-periodo": [
+      {
+        "id": "flash-gramatica-sintaxe-periodo-01",
+        "frente": "Quais são os termos essenciais da oração?",
+        "verso": "Sujeito e predicado."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-02",
+        "frente": "O que é sujeito simples e sujeito composto?",
+        "verso": "O simples tem um só núcleo; o composto tem dois ou mais núcleos."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-03",
+        "frente": "O que é sujeito oculto (elíptico)?",
+        "verso": "Aquele não expresso, identificável pela desinência verbal: 'Chegamos cedo' (nós)."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-04",
+        "frente": "O que é sujeito indeterminado?",
+        "verso": "Aquele que não se pode ou não se quer identificar; marca-se pela 3ª pessoa do plural sem referente ou pelo 'se' com verbo transitivo indireto."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-05",
+        "frente": "O que é oração sem sujeito?",
+        "verso": "Aquela cujo verbo é impessoal, como 'haver' no sentido de existir e verbos que indicam fenômeno natural."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-06",
+        "frente": "O que é predicado verbal?",
+        "verso": "Aquele cujo núcleo é um verbo significativo, que indica ação: 'O aluno estudou.'"
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-07",
+        "frente": "O que é predicado nominal?",
+        "verso": "Aquele cujo núcleo é um predicativo do sujeito, ligado por verbo de ligação: 'O aluno está cansado.'"
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-08",
+        "frente": "O que é predicado verbo-nominal?",
+        "verso": "Aquele com dois núcleos, um verbo significativo e um predicativo: 'Os alunos chegaram cansados.'"
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-09",
+        "frente": "O que é um verbo de ligação?",
+        "verso": "Aquele que não indica ação, apenas liga o sujeito ao predicativo: ser, estar, parecer, permanecer, continuar, ficar, tornar-se."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-10",
+        "frente": "Qual é a diferença entre predicativo do sujeito e predicativo do objeto?",
+        "verso": "O do sujeito atribui característica ao sujeito; o do objeto, ao objeto: 'Considero o filme excelente.'"
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-11",
+        "frente": "Quais são os termos integrantes da oração?",
+        "verso": "Objeto direto, objeto indireto, complemento nominal e agente da passiva."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-12",
+        "frente": "Qual é a diferença entre complemento nominal e adjunto adnominal?",
+        "verso": "O complemento nominal completa o sentido de um nome e tem valor passivo; o adjunto adnominal restringe o substantivo e tem valor ativo ou de posse."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-13",
+        "frente": "Como distinguir complemento nominal de adjunto adnominal em 'o amor de mãe'?",
+        "verso": "É adjunto adnominal, pois a mãe é quem ama (valor ativo); em 'o amor à pátria', é complemento nominal, pois a pátria é amada."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-14",
+        "frente": "O que é o agente da passiva?",
+        "verso": "O termo que pratica a ação numa oração passiva, geralmente introduzido por 'por' ou 'de': 'O livro foi lido pelo aluno.'"
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-15",
+        "frente": "Quais são os termos acessórios da oração?",
+        "verso": "Adjunto adnominal, adjunto adverbial e aposto."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-16",
+        "frente": "O que é adjunto adverbial?",
+        "verso": "O termo que indica circunstância — tempo, lugar, modo, causa, intensidade — modificando o verbo, o adjetivo ou o advérbio."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-17",
+        "frente": "Quais são os tipos de aposto?",
+        "verso": "Explicativo, enumerativo, especificativo, resumidor e distributivo."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-18",
+        "frente": "Qual é a diferença entre período simples e composto?",
+        "verso": "O simples tem uma só oração; o composto tem duas ou mais."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-19",
+        "frente": "Qual é a diferença entre coordenação e subordinação?",
+        "verso": "Na coordenação, as orações são sintaticamente independentes; na subordinação, uma exerce função sintática dentro da outra."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-20",
+        "frente": "Quais são os tipos de orações coordenadas sindéticas?",
+        "verso": "Aditiva, adversativa, alternativa, conclusiva e explicativa."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-21",
+        "frente": "Que conjunções introduzem orações coordenadas adversativas?",
+        "verso": "Mas, porém, contudo, todavia, entretanto, no entanto."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-22",
+        "frente": "Que conjunções introduzem orações coordenadas conclusivas?",
+        "verso": "Logo, portanto, pois (posposto ao verbo), por isso, assim."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-23",
+        "frente": "Quais são os três tipos de orações subordinadas?",
+        "verso": "Substantivas, adjetivas e adverbiais."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-24",
+        "frente": "Que função exercem as orações subordinadas substantivas?",
+        "verso": "As de substantivo: sujeito, objeto direto, objeto indireto, complemento nominal, predicativo e aposto."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-25",
+        "frente": "Como se identifica uma oração subordinada substantiva?",
+        "verso": "Pode ser substituída por 'isso': 'Espero QUE VOCÊ VENHA' → 'Espero isso.'"
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-26",
+        "frente": "Que conjunção introduz as orações subordinadas substantivas?",
+        "verso": "A conjunção integrante 'que' ou 'se'."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-27",
+        "frente": "Como se identifica uma oração subordinada adjetiva?",
+        "verso": "Vem introduzida por pronome relativo e equivale a um adjetivo, referindo-se a um antecedente."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-28",
+        "frente": "Quais são os pronomes relativos mais comuns?",
+        "verso": "Que, quem, onde, cujo, o qual e suas flexões, quanto."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-29",
+        "frente": "Que circunstâncias as orações subordinadas adverbiais podem exprimir?",
+        "verso": "Causa, consequência, condição, concessão, comparação, conformidade, finalidade, proporção e tempo."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-30",
+        "frente": "Que conjunções introduzem orações adverbiais concessivas?",
+        "verso": "Embora, ainda que, mesmo que, conquanto, apesar de que."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-31",
+        "frente": "Qual é a diferença entre oração adverbial causal e consecutiva?",
+        "verso": "A causal exprime o motivo ('Não saiu porque chovia'); a consecutiva, o resultado ('Chovia tanto que não saiu')."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-32",
+        "frente": "O que é uma oração reduzida?",
+        "verso": "Aquela cujo verbo está numa forma nominal — infinitivo, gerúndio ou particípio — e que dispensa conjunção."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-33",
+        "frente": "Como se transforma uma oração desenvolvida em reduzida?",
+        "verso": "Substituindo o verbo conjugado por forma nominal e eliminando a conjunção: 'Quando cheguei' → 'Ao chegar'."
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-34",
+        "frente": "O que é a voz reflexiva?",
+        "verso": "Aquela em que o sujeito pratica e recebe a ação: 'Ela se feriu.'"
+      },
+      {
+        "id": "flash-gramatica-sintaxe-periodo-35",
+        "frente": "Como se converte a voz ativa em passiva analítica?",
+        "verso": "O objeto direto vira sujeito, o verbo passa a 'ser' + particípio e o sujeito antigo vira agente da passiva."
+      }
+    ],
+    "gramatica-coesao-semantica": [
+      {
+        "id": "flash-gramatica-coesao-semantica-01",
+        "frente": "O que é coesão textual?",
+        "verso": "A articulação entre as partes do texto por meio de elementos linguísticos que criam ligação entre frases e parágrafos."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-02",
+        "frente": "O que é coerência textual?",
+        "verso": "A relação lógica de sentido que torna o texto compreensível como um todo, sem contradições nem rupturas de raciocínio."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-03",
+        "frente": "Um texto pode ser coeso e incoerente?",
+        "verso": "Sim — pode ter conectivos bem empregados e ainda assim apresentar ideias contraditórias ou sem lógica."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-04",
+        "frente": "O que é coesão referencial?",
+        "verso": "A retomada de um termo já mencionado por pronomes, advérbios ou sinônimos, evitando repetições."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-05",
+        "frente": "O que é anáfora, em coesão?",
+        "verso": "A retomada de um termo já citado: 'Comprei um livro. ELE é ótimo.'"
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-06",
+        "frente": "O que é catáfora?",
+        "verso": "A antecipação de um termo que ainda será dito: 'Direi apenas ISTO: não concordo.'"
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-07",
+        "frente": "O que é elipse como recurso de coesão?",
+        "verso": "A omissão de um termo recuperável pelo contexto, evitando repetição: 'João estuda; Maria, também.'"
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-08",
+        "frente": "O que é substituição lexical?",
+        "verso": "A retomada de um termo por sinônimo ou expressão equivalente: 'Machado de Assis... O AUTOR CARIOCA...'"
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-09",
+        "frente": "O que é coesão sequencial?",
+        "verso": "A articulação entre as partes do texto por conectivos que marcam a progressão das ideias."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-10",
+        "frente": "Que conectivos expressam relação de oposição?",
+        "verso": "Mas, porém, contudo, todavia, entretanto, no entanto, embora, apesar de."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-11",
+        "frente": "Que conectivos expressam relação de causa?",
+        "verso": "Porque, pois, já que, uma vez que, visto que, como (no início da frase)."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-12",
+        "frente": "Que conectivos expressam relação de conclusão?",
+        "verso": "Portanto, logo, assim, por isso, dessa forma, consequentemente."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-13",
+        "frente": "Que conectivos expressam relação de finalidade?",
+        "verso": "Para que, a fim de que, com o objetivo de, com o intuito de."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-14",
+        "frente": "Que conectivos expressam relação de condição?",
+        "verso": "Se, caso, desde que, contanto que, salvo se."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-15",
+        "frente": "Qual é a diferença de sentido entre 'porque' e 'portanto' numa frase?",
+        "verso": "'Porque' introduz a causa; 'portanto' introduz a consequência — trocá-los inverte a relação lógica."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-16",
+        "frente": "Qual é a diferença entre 'mas' e 'e' na articulação de ideias?",
+        "verso": "'E' soma ideias na mesma direção; 'mas' introduz quebra de expectativa ou contraste."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-17",
+        "frente": "O que é progressão temática?",
+        "verso": "O avanço da informação ao longo do texto, em que cada parte acrescenta algo novo sem perder o fio do tema."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-18",
+        "frente": "O que são sinônimos, e existe sinonímia perfeita?",
+        "verso": "Palavras de sentido próximo; a sinonímia perfeita é rara, pois quase sempre há diferença de registro, intensidade ou contexto."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-19",
+        "frente": "O que são antônimos?",
+        "verso": "Palavras de sentidos opostos, como 'claro' e 'escuro'."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-20",
+        "frente": "O que são homônimos?",
+        "verso": "Palavras de mesma grafia ou pronúncia e sentidos diferentes, como 'manga' (fruta) e 'manga' (da camisa)."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-21",
+        "frente": "O que são parônimos?",
+        "verso": "Palavras parecidas na grafia e na pronúncia, mas de sentidos distintos, como 'eminente' e 'iminente'."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-22",
+        "frente": "Qual é a diferença entre 'ratificar' e 'retificar'?",
+        "verso": "'Ratificar' é confirmar; 'retificar' é corrigir."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-23",
+        "frente": "Qual é a diferença entre 'tráfego' e 'tráfico'?",
+        "verso": "'Tráfego' é o movimento de veículos; 'tráfico' é o comércio ilícito."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-24",
+        "frente": "O que é polissemia?",
+        "verso": "A propriedade de uma mesma palavra ter vários sentidos relacionados, definidos pelo contexto."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-25",
+        "frente": "Qual é a diferença entre polissemia e homonímia?",
+        "verso": "Na polissemia, os sentidos derivam de uma origem comum; na homonímia, são palavras distintas que coincidem na forma."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-26",
+        "frente": "Qual é a diferença entre denotação e conotação?",
+        "verso": "A denotação é o sentido literal e objetivo; a conotação é o sentido figurado, afetivo ou simbólico."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-27",
+        "frente": "O que é ambiguidade, e por que costuma ser um defeito?",
+        "verso": "A possibilidade de mais de uma leitura; é defeito quando não é intencional, pois compromete a clareza."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-28",
+        "frente": "Quais são as causas mais comuns de ambiguidade?",
+        "verso": "Uso impreciso de pronomes possessivos e relativos, ordem inadequada dos termos e pontuação insuficiente."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-29",
+        "frente": "Como se corrige a ambiguidade de 'João disse a Pedro que seu carro havia sido roubado'?",
+        "verso": "Explicitando o possuidor: 'João disse a Pedro que o carro dele, João, havia sido roubado.'"
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-30",
+        "frente": "O que é redundância (pleonasmo vicioso)?",
+        "verso": "A repetição desnecessária de uma ideia já contida no termo, como 'subir para cima' ou 'elo de ligação'."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-31",
+        "frente": "O que é variação linguística?",
+        "verso": "As diferenças naturais no uso da língua conforme região, grupo social, situação e época."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-32",
+        "frente": "Quais são os principais tipos de variação linguística?",
+        "verso": "Diatópica (regional), diastrática (social), diafásica (situacional) e diacrônica (histórica)."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-33",
+        "frente": "O que é preconceito linguístico?",
+        "verso": "A desvalorização de variedades da língua distintas da norma de prestígio, tratando diferença como erro."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-34",
+        "frente": "Existe variedade linguística errada, do ponto de vista científico?",
+        "verso": "Não — toda variedade tem regras próprias e é adequada ao seu contexto; o que existe é adequação ou inadequação à situação."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-35",
+        "frente": "O que é norma-padrão, e como difere da norma culta?",
+        "verso": "A norma-padrão é o modelo idealizado das gramáticas normativas; a norma culta é o uso real dos falantes escolarizados."
+      },
+      {
+        "id": "flash-gramatica-coesao-semantica-36",
+        "frente": "O que se deve preservar ao reescrever uma frase numa questão de vestibular?",
+        "verso": "O sentido original e a correção gramatical — a reescrita não pode alterar o conteúdo nem criar ambiguidade."
+      }
+    ]
+  }
+}

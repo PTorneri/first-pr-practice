@@ -49,13 +49,13 @@
      consome variáveis, e uma variável precisa existir antes de ser lida. É
      também onde vivem os @font-face — declarados aqui, o navegador começa a
      baixar a letra enquanto ainda parseia o resto. -->
-<link rel="stylesheet" href="tokens.css?v=47">
-<link rel="stylesheet" href="styles.css?v=47">
+<link rel="stylesheet" href="tokens.css?v=48">
+<link rel="stylesheet" href="styles.css?v=48">
 <!-- Estilo da dissertativa de exatas (resolução + resposta final + faixa),
      hoje só usada pela Matemática de Economia. Carregado aqui, e não por
      trilha, pela mesma razão de trilhas.js e assuntos.js: é código, não dado
      — inerte enquanto ninguém chama VD_EXATAS.render(). -->
-<link rel="stylesheet" href="../vestibular-economia/dissertativa-exatas.css?v=47">
+<link rel="stylesheet" href="../vestibular-economia/dissertativa-exatas.css?v=48">
 </head>
 <body>
 
@@ -125,249 +125,437 @@
 
        Primeira tela de quem chega sem conta. Existe porque o app pedia a conta
        Google antes de dizer o que faz: a pessoa via um cartão de login e nada
-       mais. Aqui ela lê o que recebe todo dia, em que ordem e para quais
-       bancas — e só então encontra o botão de entrar.
+       mais. Aqui ela lê o que recebe todo dia, em que ordem e por quanto —
+       e só então encontra o botão de entrar.
 
        Fica ANTES do #view-login e não na raiz do domínio porque a raiz
        redireciona para cá (ver ../index.html): o app é o dono do endereço.
+
+       AS AFIRMAÇÕES DESTA PÁGINA SÃO CONFERIDAS CONTRA O BANCO. O desenho
+       importado do Claude Design prometia "questões reais de ENEM e dos
+       principais vestibulares" em cinco lugares. O banco central tem ZERO
+       questões de ENEM, e das 5.873 apenas 865 carregam marca de banca real
+       (fgv 332, einstein 148, unesp 108, insper 81, unicamp 52, unifesp 52,
+       fuvest 42, santacasa 40, famema 4) — as outras 5.008 são originais,
+       escritas no estilo das provas. Preço e promessa anunciados obrigam, então
+       o layout do desenho ficou inteiro e só o texto mudou. Ao reescrever
+       qualquer número daqui, reconfira com:
+
+         node -e "const fs=require('fs'),p='banco-central/data/questions';let t=0;for(const f of fs.readdirSync(p))t+=JSON.parse(fs.readFileSync(p+'/'+f,'utf8')).length;console.log(t)"
+
+       As três listas que envelheciam sozinhas — trilhas, preços e a frase do
+       teste — NÃO estão escritas aqui: são montadas por auth.js a partir de
+       window.VD_TRILHAS e de VD_ASSINATURA.planos. Ver montarTrilhasLanding()
+       e montarPlanosLanding().
        ═══════════════════════════════════════════════════════════════════ -->
   <section id="view-landing" class="view" hidden>
 
-    <div class="landing-navy">
-      <nav class="landing-nav">
-        <span class="landing-brand">
-          <img class="sidebar-symbol" src="assets/sagax-symbol-cut.png" alt="">
-          <img class="sidebar-wordmark" src="assets/sagax-wordmark-cut.png" alt="sagax">
-        </span>
-        <div class="landing-nav-links">
-          <a href="#como-funciona">Como funciona</a>
-          <a href="#trilhas">Trilhas</a>
-          <a href="#bancas">Vestibulares</a>
-          <button type="button" class="btn-entrar" data-ir-para-login>Entrar</button>
-        </div>
-      </nav>
+    <!-- ── Herói ────────────────────────────────────────────────────────── -->
+    <div class="lp-hero">
+      <!-- Os dois halos e a marca d'água são decoração pura: aria-hidden e
+           pointer-events:none no CSS, para não interceptarem clique nem
+           aparecerem para quem usa leitor de tela. -->
+      <span class="lp-halo lp-halo-azul" aria-hidden="true"></span>
+      <span class="lp-halo lp-halo-ouro" aria-hidden="true"></span>
+      <img class="lp-marca-dagua" src="assets/sagax-symbol-cut.png" alt="" aria-hidden="true">
 
-      <div class="landing-hero">
-        <div class="landing-hero-copy">
-          <div class="landing-eyebrow">90 dias · Direito e Medicina · 9 bancas</div>
-          <h1>Todo dia o app diz exatamente o que você estuda hoje.</h1>
-          <p>Plano de estudos de 90 dias baseado no formato real das provas: Português, Inglês,
-          Matemática/Raciocínio Lógico e Ciências Humanas. Teoria antes, questões comentadas depois,
-          e um simulado por domingo que reprograma a semana seguinte a partir dos seus erros.</p>
-          <div class="landing-cta-row">
-            <button type="button" class="btn btn-ouro" data-ir-para-login>Começar meu plano hoje</button>
-            <a href="#como-funciona" class="btn btn-sobre-navy" style="text-decoration:none">Ver como funciona</a>
+      <div class="lp-hero-dentro">
+        <nav class="lp-nav">
+          <span class="lp-marca">
+            <img class="sidebar-symbol" src="assets/sagax-symbol-cut.png" alt="">
+            <img class="sidebar-wordmark" src="assets/sagax-wordmark-cut.png" alt="sagax">
+          </span>
+          <div class="lp-nav-links">
+            <a href="#como-funciona">Como funciona</a>
+            <a href="#trilhas">Trilhas</a>
+            <a href="#planos">Planos</a>
+            <button type="button" class="lp-btn-entrar" data-ir-para-login>Entrar</button>
           </div>
-          <!-- O preço, colado no botão: é aqui que a decisão acontece. Antes a
-               página inteira vendia o app e só falava em dinheiro depois do
-               login — a pessoa entregava a conta Google para então descobrir
-               que era pago, o que parece isca mesmo quando não é.
+        </nav>
 
-               O texto abaixo é escrito de novo pelo auth.js a partir das
-               constantes de assinatura.js (ver PRECO). O que está aqui é só
-               para o número não piscar vazio enquanto o módulo carrega; a
-               verdade é a constante. -->
-          <p data-preco>7 dias grátis. Depois, 90 dias por R$ 49,99 à vista — ou R$ 19,99/mês.</p>
-          <div class="landing-stats">
-            <!-- 5.755 = 2.249 (vestibular-direito/data/bundle.js) + 2.372
-                 (vestibular-medicina/data/bundle.js) + 1.134 (banco-extra.js,
-                 o complementar da aba Buscar). É o que a pessoa alcança pela
-                 busca, que já cruza as duas trilhas.
+        <div class="lp-hero-grade">
+          <div class="lp-hero-copy">
+            <span class="lp-pilula">
+              <span class="lp-ponto" aria-hidden="true"></span>
+              Estude. Evolua. Conquiste.
+            </span>
 
-                 O número está escrito à mão de propósito: contar de verdade
-                 exigiria baixar os ~13 MB dos três arquivos de dados numa
-                 página que ainda nem sabe se a pessoa vai entrar. Por isso ele
-                 fica velho em silêncio — ficou parado em 1.800 enquanto o banco
-                 triplicou. AO RODAR build-bundle.ps1 / build-bundle.js,
-                 reconfira aqui com:
+            <h1>O seu dia de estudo<br>já chega <span class="lp-ouro">pronto</span>.</h1>
 
-                   node -e "global.window={};eval(require('fs').readFileSync('vestibular-direito/data/bundle.js','utf8'));console.log(Object.values(window.QUESTION_BANKS).reduce((s,a)=>s+a.length,0))"
+            <p class="lp-lide">Mais de 5.800 questões comentadas, escritas no estilo real das
+            bancas de São Paulo, na ordem certa e na medida do seu tempo. Você abre o sagax e
+            só precisa começar.</p>
 
-                 (o mesmo para medicina/data/bundle.js e para
-                 QUESTION_BANKS_EXTRA em banco-extra.js). -->
-            <div class="landing-stat">
-              <span class="landing-stat-n">5.755</span>
-              <span class="landing-stat-label">questões comentadas</span>
+            <div class="lp-cta-linha">
+              <button type="button" class="btn btn-primary" data-ir-para-login>Começar meu plano</button>
+              <a href="#como-funciona" class="lp-btn-fantasma">Ver como funciona</a>
             </div>
-            <div class="landing-stat">
-              <span class="landing-stat-n">16</span>
-              <span class="landing-stat-label">frentes de estudo</span>
-            </div>
-            <div class="landing-stat">
-              <span class="landing-stat-n">90</span>
-              <span class="landing-stat-label">dias de plano</span>
+
+            <!-- O preço, colado no botão: é aqui que a decisão acontece. Antes a
+                 página inteira vendia o app e só falava em dinheiro depois do
+                 login — a pessoa entregava a conta Google para então descobrir
+                 que era pago, o que parece isca mesmo quando não é.
+
+                 O texto abaixo é reescrito por auth.js a partir das constantes
+                 de assinatura.js. O que está aqui é só para o número não piscar
+                 vazio enquanto o módulo carrega; a verdade é a constante. -->
+            <p class="lp-preco" data-preco>7 dias grátis. Depois, 90 dias por R$ 49,99 à vista — ou R$ 19,99/mês.</p>
+
+            <div class="lp-provas">
+              <span>5.873 questões comentadas</span>
+              <span class="lp-sep" aria-hidden="true"></span>
+              <span>15 frentes de estudo</span>
+              <span class="lp-sep" aria-hidden="true"></span>
+              <span>4 trilhas</span>
             </div>
           </div>
-        </div>
 
-        <!-- A "janela" com a tela de Hoje dentro. É a única promessa visual da
-             página: mostra o bloco de foco, as três métricas e a fita dos 90
-             dias exatamente como aparecem depois do login. -->
-        <div class="landing-mock">
-          <div class="landing-mock-chrome">
-            <span class="landing-mock-dot"></span><span class="landing-mock-dot"></span><span class="landing-mock-dot"></span>
-            <span class="landing-mock-url">sagaxedu.com.br/hoje</span>
-          </div>
-          <div class="landing-mock-body">
-            <div class="landing-mock-head">
-              <span class="landing-mock-dia">Dia 12 de 90</span>
-              <span class="landing-mock-data">sexta, 20 de março</span>
-            </div>
-            <div class="landing-mock-foco">
-              <div class="eyebrow eyebrow-ouro">Comece por aqui</div>
-              <div class="landing-mock-foco-titulo">Interpretação de texto · 12 questões</div>
-              <div class="landing-mock-foco-meta">~24 min no ritmo da prova · 2ª revisão deste tema</div>
-            </div>
-            <div class="landing-mock-stats">
-              <div class="landing-mock-stat">
-                <div class="landing-mock-stat-label">Ofensiva</div>
-                <div class="landing-mock-stat-v">7 dias</div>
+          <!-- A maquete é a única promessa visual da página: mostra a aba Hoje
+               como ela é depois do login. Ela ANIMA em ciclo de 10 s — o foco
+               passa de um cartão para o outro e o contador sobe — e é a única
+               coisa animada do produto inteiro. O app não anima: uma tela de
+               estudo com coisas se mexendo atrapalha quem está lendo uma
+               questão. Aqui o movimento tem função, que é mostrar o app
+               funcionando para quem ainda não entrou.
+
+               Todas as classes de animação saem sozinhas em
+               prefers-reduced-motion (ver o fim do bloco no styles.css), e o
+               contador é parado por auth.js quando a landing sai da tela. -->
+          <!-- aria-hidden porque a maquete é a FOTOGRAFIA de uma tela, não uma
+               tela. Quem usa leitor de tela não ganha nada ouvindo enunciados
+               falsos de questões inventadas para a ilustração, e tudo o que ela
+               promete já está dito em texto de verdade logo ao lado. É também o
+               que autoriza o "48%" a ficar no ouro do desenho: gold-400 sobre
+               branco mede 1,86:1 e nenhum ouro legível a 3:1 continua sendo
+               ouro — a regra de contraste vale para texto que informa, e aqui a
+               informação está no herói, não no desenho da tela. -->
+          <div class="lp-maquete" aria-hidden="true">
+            <div class="lp-maquete-moldura">
+              <div class="lp-maquete-tela">
+
+                <div class="lp-maquete-topo">
+                  <div class="lp-maquete-abas">
+                    <span class="lp-aba lp-aba-ativa">Hoje</span>
+                    <span class="lp-aba">Simulados</span>
+                    <span class="lp-aba">Cards</span>
+                  </div>
+                  <div class="lp-maquete-conta">
+                    <span class="lp-maquete-data">Dia 12 de 90</span>
+                    <span class="lp-maquete-avatar" aria-hidden="true">M</span>
+                  </div>
+                </div>
+
+                <div class="lp-maquete-corpo">
+
+                  <div class="lp-cartao-maquete lp-foco-a">
+                    <div class="lp-atenua-b">
+                      <div class="lp-maquete-cab">
+                        <span class="lp-maquete-titulo">Questões do dia</span>
+                        <span class="lp-maquete-meta">12 questões · ~24 min</span>
+                      </div>
+                      <div class="lp-questoes">
+                        <div class="lp-questao lp-questao-feita">
+                          <span class="lp-marcador lp-marcador-feito" aria-hidden="true">✓</span>
+                          <span class="lp-questao-corpo">
+                            <span class="lp-questao-rotulo">Interpretação de texto · concluída</span>
+                            <span class="lp-questao-texto">“O autor recorre à ironia no segundo parágrafo para sustentar que…”</span>
+                          </span>
+                        </div>
+                        <div class="lp-questao lp-questao-agora">
+                          <span class="lp-marcador lp-marcador-agora" aria-hidden="true">▸</span>
+                          <span class="lp-questao-corpo">
+                            <span class="lp-questao-rotulo">Gramática · agora</span>
+                            <span class="lp-questao-texto">“Assinale a alternativa em que a concordância verbal segue a norma-padrão…”</span>
+                          </span>
+                        </div>
+                        <div class="lp-questao lp-questao-depois">
+                          <span class="lp-marcador lp-marcador-vazio" aria-hidden="true"></span>
+                          <span class="lp-questao-corpo">
+                            <span class="lp-questao-rotulo">Gramática</span>
+                            <span class="lp-questao-texto">“A regência do verbo assistir muda de sentido conforme a preposição…”</span>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="lp-cartao-maquete lp-foco-b">
+                    <div class="lp-atenua-a">
+                      <div class="lp-maquete-cab lp-maquete-cab-progresso">
+                        <span class="lp-progresso-textos">
+                          <span class="lp-maquete-titulo">Progresso diário</span>
+                          <span class="lp-maquete-meta"><b data-maquete="feitas">4</b> / 12 questões</span>
+                        </span>
+                        <span class="lp-progresso-pct">
+                          <span data-maquete="pct">33</span><span class="lp-progresso-pct-sinal">%</span>
+                        </span>
+                      </div>
+                      <div class="lp-barra"><span data-maquete="barra" style="width:33%"></span></div>
+                      <div class="lp-maquete-rodape">
+                        <span data-maquete="restante">8 questões para bater a meta do dia</span>
+                        <span class="lp-selo-sequencia">Ofensiva de 6 dias</span>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
               </div>
-              <div class="landing-mock-stat">
-                <div class="landing-mock-stat-label">Acerto</div>
-                <div class="landing-mock-stat-v">72%</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Como funciona ────────────────────────────────────────────────── -->
+    <div class="lp-secao lp-secao-clara" id="como-funciona">
+      <div class="lp-secao-dentro">
+        <div class="lp-secao-cab">
+          <span class="eyebrow">Como funciona</span>
+          <h2>Três passos até o seu primeiro dia de estudo</h2>
+          <p>Você escolhe a trilha, o sagax monta o plano de 90 dias e passa a ajustar a rota
+          conforme o seu desempenho.</p>
+        </div>
+        <div class="lp-passos">
+
+          <div class="lp-passo">
+            <span class="lp-passo-topo">
+              <span class="lp-passo-icone">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4.5"/><circle cx="12" cy="12" r="1"/></svg>
+              </span>
+              <span class="lp-passo-n">01</span>
+            </span>
+            <h3>Escolha a trilha</h3>
+            <p>Direito, Medicina, Economia ou Engenharia. O plano nasce com o peso real de cada
+            frente no edital do seu curso.</p>
+          </div>
+
+          <div class="lp-passo">
+            <span class="lp-passo-topo">
+              <span class="lp-passo-icone">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4.5" width="18" height="16" rx="2.5"/><path d="M3 9.5h18M8 3v3M16 3v3"/><path d="m8.8 14.6 2.1 2.1 4.3-4.3"/></svg>
+              </span>
+              <span class="lp-passo-n">02</span>
+            </span>
+            <h3>Estude o dia de hoje</h3>
+            <p>Teoria com gatilhos e pegadinhas, uma vídeo-aula sugerida e as questões comentadas,
+            nessa ordem. Nada além disso na tela.</p>
+          </div>
+
+          <div class="lp-passo">
+            <span class="lp-passo-topo">
+              <span class="lp-passo-icone">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 12a8.5 8.5 0 1 1-2.6-6.1"/><path d="M20.5 4.5V10h-5.4"/><path d="M12 8v4.3l2.8 1.7"/></svg>
+              </span>
+              <span class="lp-passo-n">03</span>
+            </span>
+            <h3>O plano se ajusta a você</h3>
+            <p>O simulado de domingo reprograma a semana a partir dos seus erros, e toda questão
+            errada volta no Caderno de Erros até você acertar.</p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <!-- ── Trilhas ──────────────────────────────────────────────────────── -->
+    <div class="lp-secao lp-secao-branca" id="trilhas">
+      <div class="lp-secao-dentro">
+        <div class="lp-secao-cab lp-secao-cab-larga">
+          <div>
+            <span class="eyebrow">Trilhas</span>
+            <h2>Uma trilha para cada prova</h2>
+            <p>As frentes, o peso de cada matéria e o estilo da banca mudam conforme a trilha
+            escolhida. Cada uma guarda o próprio progresso, então trocar não perde nada.</p>
+          </div>
+          <a href="#planos" class="lp-link-forte">Ver os planos</a>
+        </div>
+        <!-- Montada por auth.js a partir de window.VD_TRILHAS: nome, bancas e o
+             resumo de cada trilha vivem no registro, e escrevê-los de novo aqui
+             seria uma segunda verdade para divergir da primeira. -->
+        <div class="lp-trilhas" id="lp-trilhas"></div>
+      </div>
+    </div>
+
+    <!-- ── Faixa de confiança ───────────────────────────────────────────── -->
+    <div class="lp-faixa">
+      <div class="lp-faixa-dentro">
+        <span>Resolução comentada em todas</span>
+        <span class="lp-faixa-ponto" aria-hidden="true"></span>
+        <span>Simulado todo domingo</span>
+        <span class="lp-faixa-ponto" aria-hidden="true"></span>
+        <span>Revisão espaçada e caderno de erros</span>
+      </div>
+    </div>
+
+    <!-- ── Planos ───────────────────────────────────────────────────────── -->
+    <div class="lp-planos" id="planos">
+      <span class="lp-halo lp-halo-azul lp-halo-planos" aria-hidden="true"></span>
+      <div class="lp-secao-dentro">
+        <div class="lp-secao-cab">
+          <span class="eyebrow eyebrow-sobre-navy">Planos</span>
+          <h2>7 dias grátis, e depois você escolhe como pagar</h2>
+          <p>Você testa o sagax inteiro por 7 dias sem cadastrar cartão — inclusive a correção por
+          IA. Depois, um pagamento único de 90 dias ou a mensalidade.</p>
+        </div>
+
+        <div class="lp-planos-grade">
+
+          <div class="lp-planos-cartao">
+            <!-- Os dois cartões de preço são montados por auth.js a partir de
+                 VD_ASSINATURA.planos — os mesmos valores que rotulam o botão do
+                 portão e da faixa de teste. Escritos aqui, sairiam errados na
+                 primeira vez que o checkout mudasse. -->
+            <div class="lp-precos" id="lp-precos"></div>
+
+            <div class="lp-planos-regua"></div>
+
+            <div class="lp-planos-lista">
+              <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m4.5 12.5 4.6 4.6L19.5 6.7"/></svg>5.873 questões comentadas, uma a uma</span>
+              <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m4.5 12.5 4.6 4.6L19.5 6.7"/></svg>Plano diário de 90 dias com revisão espaçada</span>
+              <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m4.5 12.5 4.6 4.6L19.5 6.7"/></svg>Simulado semanal, flashcards e caderno de erros</span>
+              <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m4.5 12.5 4.6 4.6L19.5 6.7"/></svg>Correção de dissertativa e redação por IA</span>
+            </div>
+
+            <div class="lp-planos-acao">
+              <button type="button" class="btn btn-primary" data-ir-para-login>Começar 7 dias grátis</button>
+              <span class="lp-planos-nota">Sem cartão para testar</span>
+            </div>
+          </div>
+
+          <div class="lp-beneficios-col">
+            <div class="lp-beneficios-cab">
+              <h3>Um plano. Sua preparação inteira.</h3>
+              <p>Questões, trilhas, revisões e redação em um só lugar.</p>
+            </div>
+
+            <div class="lp-beneficios">
+              <div class="lp-beneficio lp-beneficio-1">
+                <span class="lp-beneficio-icone">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5.5A2 2 0 0 1 6 3.5h13v17H6a2 2 0 0 0-2 2z"/><path d="M8.5 8.5h6M8.5 12h4"/></svg>
+                </span>
+                <span class="lp-beneficio-titulo">+5.800 questões comentadas</span>
+                <span class="lp-beneficio-texto">Escritas no estilo real das bancas, com resolução passo a passo.</span>
               </div>
-              <div class="landing-mock-stat">
-                <div class="landing-mock-stat-label">Prova em</div>
-                <div class="landing-mock-stat-v">63 d</div>
+
+              <div class="lp-beneficio lp-beneficio-2">
+                <span class="lp-beneficio-icone">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 19c3.5 0 3.5-6 7-6s3.5-6 7-6"/><circle cx="5" cy="19" r="1.8"/><circle cx="19" cy="7" r="1.8"/></svg>
+                </span>
+                <span class="lp-beneficio-titulo">Trilha adaptada à sua prova</span>
+                <span class="lp-beneficio-texto">O peso de cada frente sai do edital do curso que você escolheu.</span>
+              </div>
+
+              <div class="lp-beneficio lp-beneficio-3">
+                <span class="lp-beneficio-icone">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.5 12a8.5 8.5 0 1 1-2.6-6.1"/><path d="M20.5 4.5V10h-5.4"/><path d="M12 8v4.3l2.8 1.7"/></svg>
+                </span>
+                <span class="lp-beneficio-titulo">Revisão no momento certo</span>
+                <span class="lp-beneficio-texto">O que você erra volta mais vezes; o que domina sai do caminho.</span>
+              </div>
+
+              <div class="lp-beneficio lp-beneficio-4">
+                <span class="lp-beneficio-icone">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m16.5 3.5 4 4L9 19H5v-4z"/><path d="m13.8 6.2 4 4"/></svg>
+                </span>
+                <span class="lp-beneficio-titulo">Correção por IA</span>
+                <span class="lp-beneficio-texto">Dissertativas e redações comentadas critério por critério.</span>
               </div>
             </div>
-            <!-- Trinta dias: onze feitos, o de hoje em ouro, o resto por vir. -->
-            <div class="landing-mock-fita" id="landing-fita" aria-hidden="true"></div>
+
+            <!-- Escrito por auth.js junto com os cartões de preço: é o valor do
+                 plano dividido pelo prazo, e não um número à parte para
+                 envelhecer sozinho. -->
+            <span class="lp-pilula lp-pilula-dia" id="lp-por-dia" hidden></span>
           </div>
+
         </div>
       </div>
     </div>
 
-    <div class="landing-secao" id="como-funciona">
-      <div class="landing-secao-head">
-        <div class="eyebrow">Como funciona</div>
-        <h2>Três decisões que você não precisa mais tomar sozinho</h2>
-      </div>
-      <div class="landing-passos">
-        <div class="landing-passo">
-          <div class="landing-passo-n">01</div>
-          <h3>Escolha a trilha</h3>
-          <p>Direito ou Medicina. O plano de 90 dias é montado com o peso real de cada frente na
-          banca do seu curso.</p>
-        </div>
-        <div class="landing-passo">
-          <div class="landing-passo-n">02</div>
-          <h3>Estude o dia de hoje</h3>
-          <p>Teoria com gatilhos e pegadinhas, uma aula sugerida e de 20 a 30 questões comentadas.
-          Nada além disso na tela.</p>
-        </div>
-        <div class="landing-passo">
-          <div class="landing-passo-n">03</div>
-          <h3>Domingo é simulado</h3>
-          <p>45 questões distribuídas entre as 16 frentes. Os erros reprogramam a semana seguinte,
-          sem sumir com os outros temas.</p>
+    <!-- ── Perguntas frequentes ─────────────────────────────────────────── -->
+    <div class="lp-secao lp-secao-clara" id="faq">
+      <div class="lp-secao-dentro">
+        <h2 class="lp-faq-titulo">Perguntas frequentes</h2>
+        <div class="lp-faq">
+
+          <details>
+            <summary>Preciso cadastrar cartão para testar?</summary>
+            <p>Não. Os 7 dias começam quando você cria a conta com o Google, e nenhum dado de
+            pagamento é pedido nesse período. O teste conta a partir do nascimento da conta, então
+            limpar o navegador não o reinicia.</p>
+          </details>
+
+          <details>
+            <summary>De onde vêm as questões?</summary>
+            <p>A maior parte é escrita no estilo das provas, a partir do estudo dos cadernos reais
+            de cada banca — enunciado, distratores e nível de dificuldade seguem o padrão que
+            aquela prova cobra. Uma parte vem de provas oficiais e traz a banca identificada na
+            própria questão. Todas têm resolução comentada.</p>
+          </details>
+
+          <details>
+            <summary>Como faço para cancelar?</summary>
+            <p>A mensalidade é cobrada pela Cakto, e o cancelamento é feito no painel dela — o app
+            leva você até lá pelo seu perfil. O plano de 90 dias é pagamento único: não há
+            assinatura recorrente para cancelar.</p>
+          </details>
+
+          <details>
+            <summary>Posso trocar de trilha depois?</summary>
+            <p>Pode, a qualquer momento, pelo seu perfil. Cada trilha guarda o próprio progresso,
+            então voltar para a anterior encontra tudo como você deixou.</p>
+          </details>
+
         </div>
       </div>
     </div>
 
-    <div class="landing-bancas" id="bancas">
-      <div class="landing-bancas-copy">
-        <h2>Bancas que o plano cobre</h2>
-        <p>Cada trilha é montada a partir do formato real das provas daquele curso — número de
-        questões, peso das frentes e a prova discursiva de cada banca.</p>
-      </div>
-      <div class="landing-bancas-lista">
-        <span class="landing-banca">FGV Direito SP</span>
-        <span class="landing-banca">Insper</span>
-        <span class="landing-banca">FUVEST</span>
-        <span class="landing-banca">Unicamp</span>
-        <span class="landing-banca">Unesp</span>
-        <span class="landing-banca">Unifesp</span>
-        <span class="landing-banca">Einstein</span>
-        <span class="landing-banca">Santa Casa</span>
-        <span class="landing-banca">PUC-SP</span>
-      </div>
-    </div>
+    <!-- ── Rodapé ───────────────────────────────────────────────────────── -->
+    <footer class="lp-rodape">
+      <div class="lp-secao-dentro">
+        <div class="lp-rodape-topo">
+          <div class="lp-rodape-marca">
+            <img class="sidebar-wordmark" src="assets/sagax-wordmark-cut.png" alt="sagax">
+            <span>Plano de estudo diário para os vestibulares de São Paulo, com questões
+            comentadas e revisão no dia certo.</span>
+            <!-- A ressalva de autoria fecha a página, e agora aparece nas duas
+                 larguras. Antes ela só existia no celular por decisão de
+                 desenho; a partir do momento em que o herói diz "no estilo real
+                 das bancas", ela deixa de ser letra miúda e passa a ser a
+                 explicação daquela frase. -->
+            <span class="lp-rodape-nota">A maior parte dos exercícios é original, criada no estilo
+            das provas. As questões vindas de provas oficiais trazem a banca identificada.</span>
+          </div>
 
-    <div class="landing-dia" id="trilhas">
-      <div class="landing-dia-copy">
-        <div class="eyebrow">Um dia de estudo</div>
-        <h2>Teoria, vídeo-aula e questões — nessa ordem, sem você montar nada</h2>
-        <p>Cada dia abre com os gatilhos e as pegadinhas da frente, indica a vídeo-aula daquele tema
-        e só então entrega as questões comentadas. O simulado de domingo reorganiza a semana
-        seguinte a partir do que você errou.</p>
-        <ul>
-          <li><strong>Caderno de Erros</strong>: toda questão errada volta até você acertar</li>
-          <li><strong>Flashcards</strong> com repetição espaçada, no dia certo</li>
-          <li><strong>Correção por IA</strong> das dissertativas, critério por critério</li>
-        </ul>
-      </div>
-      <div class="landing-dia-card">
-        <div class="landing-dia-card-head">
-          <h3>O seu dia 12, por dentro</h3>
-          <span class="landing-mock-data">~1h20 no total</span>
-        </div>
-        <div class="landing-bloco">
-          <span class="landing-bloco-etapa">Antes</span>
-          <div class="landing-bloco-corpo">
-            <span class="landing-bloco-titulo">Teoria da frente</span>
-            <span class="landing-bloco-texto">Gatilhos, pegadinhas e um exemplo resolvido — o
-            suficiente para reconhecer o padrão da banca.</span>
+          <div class="lp-rodape-colunas">
+            <div class="lp-rodape-coluna">
+              <span class="eyebrow">Produto</span>
+              <a href="#como-funciona">Como funciona</a>
+              <a href="#trilhas">Trilhas</a>
+              <a href="#planos">Planos</a>
+            </div>
+            <div class="lp-rodape-coluna">
+              <span class="eyebrow">Suporte</span>
+              <a href="#faq">Perguntas frequentes</a>
+              <a href="termos.html">Termos de Uso</a>
+              <a href="privacidade.html">Política de Privacidade</a>
+            </div>
+            <div class="lp-rodape-coluna">
+              <span class="eyebrow">Conta</span>
+              <a href="#entrar" data-ir-para-login>Entrar</a>
+              <a href="#entrar" data-ir-para-login>Começar 7 dias grátis</a>
+            </div>
           </div>
         </div>
-        <div class="landing-bloco">
-          <span class="landing-bloco-etapa">Aula</span>
-          <div class="landing-bloco-corpo">
-            <span class="landing-bloco-titulo">Uma vídeo-aula sugerida</span>
-            <span class="landing-bloco-texto">O tema do dia com a busca já montada, direto no
-            YouTube.</span>
-          </div>
-        </div>
-        <div class="landing-bloco">
-          <span class="landing-bloco-etapa">Prática</span>
-          <div class="landing-bloco-corpo">
-            <span class="landing-bloco-titulo">12 questões essenciais</span>
-            <span class="landing-bloco-texto">Comentadas uma a uma. Extras ficam guardados para
-            quem quiser ir além.</span>
-          </div>
-        </div>
-        <div class="landing-bloco">
-          <span class="landing-bloco-etapa">Depois</span>
-          <div class="landing-bloco-corpo">
-            <span class="landing-bloco-titulo">Flashcards e dissertativa</span>
-            <span class="landing-bloco-texto">Repetição espaçada no dia certo e a discursiva
-            opcional, com meta de 4x por semana.</span>
-          </div>
-        </div>
-        <div class="landing-aula">
-          <div class="eyebrow eyebrow-ouro">Aula de hoje</div>
-          <div class="landing-aula-tema">Inferência e pressuposto</div>
+
+        <div class="lp-rodape-fim">
+          <span>© 2026 sagax</span>
+          <span class="lp-rodape-legais">
+            <a href="privacidade.html">Privacidade</a>
+            <a href="termos.html">Termos</a>
+          </span>
         </div>
       </div>
-    </div>
-
-    <div class="landing-fim">
-      <h2>Comece o dia 1 agora. O plano se ajusta ao resto.</h2>
-      <p>Entre com sua conta Google — o progresso fica salvo na conta e acompanha você no
-      computador, no celular e no tablet.</p>
-      <button type="button" class="btn btn-primary" data-ir-para-login>Começar meu plano hoje</button>
-      <!-- Repetido no fim de propósito: quem rolou a página inteira não tem que
-           subir de volta para lembrar quanto custa. -->
-      <p data-preco>7 dias grátis. Depois, 90 dias por R$ 49,99 à vista.</p>
-    </div>
-
-    <!-- A ressalva de autoria fecha a página. Ela já é dita na aba Meu
-         progresso, mas quem chega deslogado nunca vê aquela tela — e é
-         justamente antes de criar a conta que a promessa tem que estar
-         completa: o que este app entrega são exercícios originais no estilo
-         das provas, não as provas. -->
-    <p class="landing-nota">Os exercícios são originais, criados no estilo das provas.</p>
-
-    <!-- Rodapé com os documentos. A landing não tinha rodapé no desktop por
-         decisão de desenho (ver .landing-nota em styles.css), e essa decisão
-         muda aqui por um motivo que não é estético: a partir do momento em que
-         o app cobra, os Termos e a Política precisam estar alcançáveis ANTES do
-         cadastro e em qualquer tela — é onde a lei os quer, e é para onde o
-         checkout vai apontar. -->
-    <footer class="landing-rodape">
-      <a href="termos.html">Termos de Uso</a>
-      <a href="privacidade.html">Política de Privacidade</a>
     </footer>
   </section>
 
@@ -847,19 +1035,19 @@
      escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
      Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
      dois apps. -->
-<script src="trilhas.js?v=47"></script>
-<script src="schedule.js?v=47"></script>
+<script src="trilhas.js?v=48"></script>
+<script src="schedule.js?v=48"></script>
 <!-- Dicionário de assuntos da busca. Vive aqui, e não em data/ de uma trilha,
      porque a taxonomia atravessa as duas: "crase" e "função quadrática" são o
      mesmo assunto em Direito e em Medicina. Pôr em data/ obrigaria a duplicar
      as listas de gramática, literatura, interpretação, inglês e matemática. -->
-<script src="assuntos.js?v=47"></script>
+<script src="assuntos.js?v=48"></script>
 <!-- window.VD_EXATAS — renderizador da dissertativa de exatas (ver o <link>
      do CSS acima). Precisa carregar ANTES de app.js: renderDissertQuestion
      chama VD_EXATAS.render() para toda questão com `faixas`, e um script
      criado depois na ordem de execução ainda não teria definido o global. -->
-<script src="../vestibular-economia/dissertativa-exatas.js?v=47"></script>
-<script src="app.js?v=47"></script>
-<script type="module" src="auth.js?v=47"></script>
+<script src="../vestibular-economia/dissertativa-exatas.js?v=48"></script>
+<script src="app.js?v=48"></script>
+<script type="module" src="auth.js?v=48"></script>
 </body>
 </html>

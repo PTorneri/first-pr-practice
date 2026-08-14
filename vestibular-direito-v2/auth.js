@@ -19,11 +19,11 @@
 //        URIs. Esse é sobre PARA ONDE o Google devolve, e é o authDomain de
 //        firebase-init.js. Sem ele, o Google recusa com redirect_uri_mismatch.
 
-import { auth } from "./firebase-init.js?v=47";
-import "./sync.js?v=47"; // define window.VD_SYNC
-import "./feedback.js?v=47"; // define window.VD_FEEDBACK
-import "./ia.js?v=47"; // define window.VD_IA (correção das dissertativas e redações)
-import "./assinatura.js?v=47"; // define window.VD_ASSINATURA (o portão)
+import { auth } from "./firebase-init.js?v=48";
+import "./sync.js?v=48"; // define window.VD_SYNC
+import "./feedback.js?v=48"; // define window.VD_FEEDBACK
+import "./ia.js?v=48"; // define window.VD_IA (correção das dissertativas e redações)
+import "./assinatura.js?v=48"; // define window.VD_ASSINATURA (o portão)
 import {
   GoogleAuthProvider,
   signInWithPopup,
@@ -535,6 +535,7 @@ function showLoggedOut() {
   viewEscolhaTrilha.hidden = true;
   userChip.hidden = true;
   setLoading(false);
+  animarMaquete();
 }
 
 // Landing → login. O "voltar" só existe neste caminho: quem já estava no login
@@ -562,18 +563,207 @@ if (window.VD_ASSINATURA && window.VD_ASSINATURA.chamada) {
   });
 }
 
-// A fita de 30 dias da janela ilustrativa da landing: onze dias feitos, o de
-// hoje em ouro, o resto por vir. É decoração — por isso é aria-hidden no HTML
-// e é montada aqui, e não escrita à mão como trinta elementos.
-const fita = document.getElementById("landing-fita");
-if (fita) {
-  for (let i = 0; i < 30; i++) {
-    const barra = document.createElement("i");
-    if (i < 11) barra.className = "feito";
-    else if (i === 11) barra.className = "hoje";
-    fita.appendChild(barra);
+// ───────────────────────────────────────────────────────────────────────────
+// A LANDING MONTADA A PARTIR DO QUE O APP JÁ SABE
+//
+// Três listas da landing envelheciam sozinhas quando ficavam escritas no HTML:
+// as trilhas, os preços e o valor por dia. A landing antiga dizia "Direito e
+// Medicina" muito depois de existirem quatro trilhas, e "5.755 questões" muito
+// depois do banco passar de 5.800 — o texto não erra sozinho, ele só não é
+// avisado. As três agora saem do registro de trilhas e das constantes de
+// assinatura, que são as mesmas fontes que o app inteiro consulta.
+// ───────────────────────────────────────────────────────────────────────────
+
+// A estrela do selo "A primeira trilha". Desenhada aqui porque só a landing usa
+// — o sprite do <head> serve a barra inferior e a tela "Mais".
+const ESTRELA =
+  '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" ' +
+  'stroke-linecap="round" stroke-linejoin="round">' +
+  '<path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.1 1.1 5.9L12 16.9 6.7 19.7l1.1-5.9L3.5 9.7l5.9-.8z"/></svg>';
+
+function montarTrilhasLanding() {
+  const alvo = document.getElementById("lp-trilhas");
+  if (!alvo || !window.VD_TRILHAS) return;
+
+  // A mesma regra de VD_TRILHA.outras(): trilha em construção não se anuncia.
+  const ids = Object.keys(window.VD_TRILHAS).filter(function (k) {
+    return !window.VD_TRILHAS[k].emConstrucao;
+  });
+
+  ids.forEach(function (id, i) {
+    const t = window.VD_TRILHAS[id];
+    const cartao = document.createElement("div");
+    // Direito em destaque por ser a primeira trilha do app — fato verificável.
+    // O desenho importado marcava "Mais escolhida", e não existe medição de
+    // escolha em lugar nenhum para sustentar essa frase.
+    cartao.className = "lp-trilha" + (id === "direito" ? " lp-trilha-destaque" : "");
+
+    const selo = document.createElement("span");
+    selo.className = "lp-trilha-selo";
+    if (id === "direito") {
+      selo.innerHTML = ESTRELA;
+      selo.appendChild(document.createTextNode("A primeira trilha"));
+    } else {
+      // As bancas da trilha, que é o que separa uma da outra na hora de
+      // escolher. textContent e não innerHTML: subtitulo vem do registro, mas
+      // o hábito de não injetar HTML de dado é o que mantém isso seguro quando
+      // o registro mudar de dono.
+      selo.textContent = t.subtitulo || "Trilha";
+    }
+    cartao.appendChild(selo);
+
+    const nome = document.createElement("span");
+    nome.className = "lp-trilha-nome";
+    nome.textContent = t.nome;
+    cartao.appendChild(nome);
+
+    const resumo = document.createElement("span");
+    resumo.className = "lp-trilha-resumo";
+    // No cartão de destaque o subtítulo não coube no selo, então entra aqui,
+    // colado no resumo — a informação não pode sumir por causa do enfeite.
+    resumo.textContent = (id === "direito" && t.subtitulo ? t.subtitulo + " · " : "") + (t.resumo || "");
+    cartao.appendChild(resumo);
+
+    alvo.appendChild(cartao);
+  });
+}
+
+function montarPlanosLanding() {
+  const alvo = document.getElementById("lp-precos");
+  if (!alvo || !window.VD_ASSINATURA || !window.VD_ASSINATURA.planos) return;
+  const planos = window.VD_ASSINATURA.planos;
+
+  planos.forEach(function (p) {
+    const cartao = document.createElement("div");
+    // O de 90 dias em ouro: é pagamento único e sai mais barato por dia, e é
+    // o que o portão de assinatura também oferece primeiro.
+    cartao.className = "lp-preco-cartao" + (p.id === "noventa" ? " lp-preco-cartao-destaque" : "");
+
+    const rotulo = document.createElement("span");
+    rotulo.className = "lp-preco-rotulo";
+    rotulo.textContent = p.id === "noventa" ? "Plano de 90 dias" : "Mensal";
+    cartao.appendChild(rotulo);
+
+    const valor = document.createElement("span");
+    valor.className = "lp-preco-valor";
+    valor.textContent = p.valor;
+    cartao.appendChild(valor);
+
+    const nota = document.createElement("span");
+    nota.className = "lp-preco-nota";
+    // "à vista" só no de 90 dias, e por um motivo que não é estilo: naquele
+    // plano o cartão em 12x custa mais caro que o Pix, e é essa palavra que
+    // avisa. No mensal os dois meios cobram igual (ver PLANO_MENSAL).
+    nota.textContent = p.id === "noventa" ? "pagamento único, à vista" : "por mês, cancele quando quiser";
+    cartao.appendChild(nota);
+
+    alvo.appendChild(cartao);
+  });
+
+  // O "por dia" é conta, não texto: o menor valor diário entre os planos
+  // oferecidos. Escrito à mão, seria o primeiro número a mentir quando um
+  // preço mudasse — o desenho importado trazia "R$ 0,67 por dia" fixo.
+  const pilula = document.getElementById("lp-por-dia");
+  if (pilula) {
+    const dias = { noventa: 90, mensal: 30 };
+    let melhor = null;
+    planos.forEach(function (p) {
+      const n = parseFloat(String(p.valor).replace(/[^\d,]/g, "").replace(",", "."));
+      const d = dias[p.id];
+      if (!isFinite(n) || !d) return;
+      const porDia = n / d;
+      if (melhor === null || porDia < melhor) melhor = porDia;
+    });
+    if (melhor !== null) {
+      pilula.hidden = false;
+      const ponto = document.createElement("span");
+      ponto.className = "lp-ponto";
+      ponto.setAttribute("aria-hidden", "true");
+      pilula.appendChild(ponto);
+      pilula.appendChild(document.createTextNode(
+        "Sai por R$ " + melhor.toFixed(2).replace(".", ",") + " por dia"
+      ));
+    }
   }
 }
+
+// A maquete da aba Hoje que anima no herói. O revezamento dos dois cartões é
+// CSS (ver @keyframes lp-foco-a/-b em styles.css); o que precisa de JavaScript
+// é só o número subindo, porque conteúdo de texto não se anima em CSS.
+//
+// O ciclo é o mesmo de 10 s do CSS, contado do mesmo relógio: se os dois
+// divergirem, o número sobe fora do momento em que o cartão de progresso está
+// em destaque, e a maquete passa a parecer quebrada em vez de viva.
+//
+// A trava existe porque quem chama isto é showLoggedOut() e o botão de voltar
+// do login — os dois caminhos que mostram a landing. Sem ela, ir ao login e
+// voltar três vezes deixaria três laços rodando sobre os mesmos elementos.
+let maqueteLigada = false;
+function animarMaquete() {
+  if (maqueteLigada) return;
+  const feitasEl = document.querySelector('[data-maquete="feitas"]');
+  const pctEl = document.querySelector('[data-maquete="pct"]');
+  const barraEl = document.querySelector('[data-maquete="barra"]');
+  const restanteEl = document.querySelector('[data-maquete="restante"]');
+  if (!feitasEl || !pctEl || !barraEl || !restanteEl) return;
+
+  const META = 12;
+  const pintar = function (p) {
+    const feitas = Math.round(p * META);
+    feitasEl.textContent = feitas;
+    pctEl.textContent = Math.round(p * 100);
+    barraEl.style.width = (p * 100).toFixed(1) + "%";
+    restanteEl.textContent = feitas >= META
+      ? "Meta do dia batida"
+      : (META - feitas) + (META - feitas === 1 ? " questão para bater a meta do dia" : " questões para bater a meta do dia");
+  };
+
+  // Quem pediu menos movimento ao sistema recebe a maquete parada no estado
+  // FINAL, não no inicial: parada em 33% ela contaria do produto uma história
+  // pior que a verdade. É a mesma escolha do bloco prefers-reduced-motion no
+  // styles.css, que congela os cartões em vez de escondê-los.
+  const parado = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if (parado) { maqueteLigada = true; pintar(0.8); return; }
+
+  maqueteLigada = true;
+  const t0 = performance.now();
+  const CICLO = 10000;
+  const entre = function (a, b, t) { return a + (b - a) * Math.min(1, Math.max(0, t)); };
+  const suave = function (t) { return 1 - Math.pow(1 - Math.min(1, Math.max(0, t)), 3); };
+  let ultimo = -1;
+
+  const passo = function (agora) {
+    // O laço morre junto com a landing. Sem esta linha ele continuaria rodando
+    // atrás do app inteiro depois do login, repintando três elementos escondidos
+    // sessenta vezes por segundo pelo resto da sessão.
+    if (!viewLanding || viewLanding.hidden) { maqueteLigada = false; return; }
+    requestAnimationFrame(passo);
+
+    const t = ((agora - t0) % CICLO) / 1000;
+    let p;
+    if (t < 4.0) p = 0.3;                                   // o cartão de cima está em foco
+    else if (t < 5.7) p = entre(0.3, 0.8, suave((t - 4.0) / 1.7));  // o número sobe
+    else if (t < 8.8) p = 0.8;                              // e fica legível por 3 s
+    else if (t < 9.7) p = entre(0.8, 0.3, suave((t - 8.8) / 0.9));  // volta para recomeçar
+    else p = 0.3;
+
+    // Repinta só quando o valor mudou de verdade: sem isto são três escritas no
+    // DOM por quadro, e nenhuma delas muda um pixel na maior parte do ciclo.
+    const arredondado = Math.round(p * 1000);
+    if (arredondado === ultimo) return;
+    ultimo = arredondado;
+    pintar(p);
+  };
+  requestAnimationFrame(passo);
+}
+
+// As duas listas são montadas uma vez, agora: são conteúdo estático da página,
+// e esperar a landing aparecer só adiantaria o momento em que ela pisca vazia.
+// A maquete é o contrário — ela é ligada por quem MOSTRA a landing
+// (showLoggedOut e o botão de voltar do login), porque um requestAnimationFrame
+// disparado enquanto a seção está hidden morre no primeiro quadro.
+montarTrilhasLanding();
+montarPlanosLanding();
 
 if (btnVoltarLanding) {
   btnVoltarLanding.addEventListener("click", () => {
@@ -581,6 +771,7 @@ if (btnVoltarLanding) {
     if (viewLanding) viewLanding.hidden = false;
     btnVoltarLanding.hidden = true;
     window.scrollTo(0, 0);
+    animarMaquete();
   });
 }
 

@@ -66,173 +66,510 @@ h4 { font-size: 1.0625rem; }
 
    Antes, quem chegava em sagaxedu.com.br caía direto num cartão de login que
    pedia a conta Google sem nunca ter dito o que o app faz. A landing existe
-   para responder três coisas antes do pedido: o que você recebe todo dia, em
-   que ordem, e para quais bancas. Só depois disso aparece o botão de entrar.
+   para responder três coisas antes do pedido: o que você recebe todo dia, por
+   quanto, e para quais provas. Só depois disso aparece o botão de entrar.
+
+   Esta é a última tela do app a ser redesenhada — o resto migrou para os tokens
+   nas fases 1 e 2, e a landing continuava com #0A1F38 escrito na mão e a família
+   antiga. Nada aqui usa cor literal exceto onde está comentado que é de
+   propósito.
+
+   O prefixo é `lp-` (landing page) e não `landing-`: as duas gerações não
+   convivem, e trocar o prefixo garante que nenhuma regra órfã da antiga volte a
+   pegar por acidente numa classe de mesmo nome.
    ═════════════════════════════════════════════════════════════════════════ */
-#view-landing { background: var(--surface); }
-.landing-navy { background: #0A1F38; color: #fff; padding: 0 64px; }
-.landing-nav {
+#view-landing {
+  background: var(--bg);
+  /* A landing é a única "view" que rola: as outras são cartões centrados numa
+     tela cheia. Sem isto ela herda o display:flex + align-items:center de
+     .view e o conteúdo fica espremido verticalmente. */
+  display: block; padding: 0; min-height: 0;
+}
+#view-landing h1, #view-landing h2, #view-landing h3 { margin: 0; }
+#view-landing p { margin: 0; }
+
+/* ── Herói ──────────────────────────────────────────────────────────────── */
+/* O navy do herói é literal e NÃO é token de tema: esta faixa é escura nos dois
+   temas, como a barra lateral do app. Um gradiente de três paradas em vez de
+   uma cor chapada — a diferença aparece justamente na altura de tela cheia,
+   onde uma cor só fica plana. */
+.lp-hero {
+  position: relative; overflow: hidden;
+  padding: clamp(20px, 4vw, 40px) clamp(20px, 5vw, 56px) clamp(56px, 7vw, 88px);
+  background: linear-gradient(180deg, #0A1732 0%, #061027 62%, #040B1D 100%);
+}
+/* Os dois halos dão profundidade sem imagem: um azul frio no alto à direita,
+   um ouro morno embaixo à esquerda. Ambos terminam em alfa 0 da MESMA cor do
+   fundo, senão a borda do gradiente aparece como um anel. */
+.lp-halo { position: absolute; border-radius: 50%; pointer-events: none; max-width: 120vw; }
+.lp-halo-azul {
+  top: -220px; right: 6%; width: 720px; height: 720px;
+  background: radial-gradient(circle, rgba(32,80,176,.38) 0%, rgba(6,16,39,0) 66%);
+}
+.lp-halo-ouro {
+  bottom: -320px; left: -160px; width: 640px; height: 640px;
+  background: radial-gradient(circle, rgba(240,180,48,.16) 0%, rgba(6,16,39,0) 68%);
+}
+.lp-marca-dagua {
+  position: absolute; bottom: -30px; right: clamp(-40px, -2vw, 0px);
+  width: clamp(110px, 14vw, 190px); height: auto; opacity: .14;
+  filter: drop-shadow(0 14px 30px rgba(240,180,48,.28));
+  pointer-events: none; z-index: 0;
+  animation: lp-respira 6s ease-in-out infinite;
+}
+.lp-hero-dentro {
+  position: relative; max-width: 1280px; margin: 0 auto;
+  display: flex; flex-direction: column; gap: clamp(36px, 5vw, 56px);
+}
+
+.lp-nav {
   display: flex; align-items: center; justify-content: space-between;
-  height: 76px; border-bottom: 1px solid rgba(255,255,255,.09);
+  gap: var(--space-4); flex-wrap: wrap;
 }
-.landing-nav-links { display: flex; align-items: center; gap: 30px; font-size: 0.875rem; color: #A8B6C8; }
-.landing-nav-links a { color: #A8B6C8; text-decoration: none; }
-.landing-nav-links a:hover { color: #fff; }
-.landing-brand { display: flex; align-items: center; gap: 10px; }
-.landing-brand .sidebar-symbol { height: 34px; }
-.landing-brand .sidebar-wordmark { height: 24px; }
-/* "Entrar" na barra: contorno de ouro, não ouro cheio. O ouro cheio pertence
-   ao "Começar meu plano hoje" logo abaixo — uma ação por tela. */
-.btn-entrar {
-  background: transparent; color: var(--brand-gold-on-navy);
-  border: 1px solid rgba(244,193,66,.45); border-radius: var(--radius-sm);
-  padding: 9px 18px; font: inherit; font-size: 0.875rem; font-weight: 600; cursor: pointer;
+.lp-marca { display: flex; align-items: center; gap: 10px; }
+.lp-marca .sidebar-symbol { height: 38px; }
+.lp-marca .sidebar-wordmark { height: 26px; }
+.lp-nav-links { display: flex; align-items: center; gap: clamp(14px, 2.4vw, 28px); flex-wrap: wrap; }
+.lp-nav-links a {
+  font: var(--type-body); color: rgba(255,255,255,.72); text-decoration: none;
+  transition: color var(--duration-fast) var(--ease-standard);
 }
-.btn-entrar:hover { background: rgba(244,193,66,.10); }
+.lp-nav-links a:hover { color: var(--white); }
+/* "Entrar" na barra é contorno, não preenchimento: o ouro cheio pertence ao
+   "Começar meu plano" logo abaixo — uma ação primária por tela. */
+.lp-btn-entrar {
+  font: var(--type-body-strong); color: var(--white); cursor: pointer;
+  padding: 9px 20px; border-radius: var(--radius-pill);
+  border: 1px solid rgba(255,255,255,.22); background: transparent;
+  transition: background var(--duration-fast) var(--ease-standard);
+}
+.lp-btn-entrar:hover { background: rgba(255,255,255,.10); }
 
-.landing-hero {
-  display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: center;
-  padding: 76px 0 84px;
+/* auto-fit com minmax(min(100%,430px)) em vez de duas colunas fixas: a coluna
+   quebra sozinha quando não couber, sem media query e sem largura mágica. */
+.lp-hero-grade {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 430px), 1fr));
+  gap: clamp(36px, 5vw, 56px); align-items: center;
 }
-.landing-hero-copy { display: flex; flex-direction: column; gap: 22px; max-width: 520px; }
-.landing-eyebrow {
+.lp-hero-copy {
+  display: flex; flex-direction: column; gap: clamp(18px, 2.5vw, 26px);
+  max-width: 600px; min-width: 0;
+}
+.lp-pilula {
+  display: inline-flex; align-items: center; gap: 10px; align-self: flex-start;
+  padding: 7px 16px; border-radius: var(--radius-pill);
+  background: rgba(240,180,48,.12); border: 1px solid rgba(240,180,48,.32);
   font: var(--type-eyebrow); letter-spacing: var(--tracking-caps);
-  text-transform: uppercase; color: var(--brand-gold-on-navy);
+  text-transform: uppercase; color: var(--gold-400);
 }
-.landing-hero h1 { font-size: 3.25rem; line-height: 1.05; color: #fff; letter-spacing: -0.025em; margin: 0; }
-.landing-hero p { margin: 0; font-size: 1.0625rem; line-height: 1.6; color: #B9C6D6; }
-/* O preço vive embaixo dos botões de começar, e NÃO tem regra própria de
-   propósito. Ele é um <p> dentro do herói e dentro do fecho, e os dois já
-   dizem como seus parágrafos se parecem — inclusive a cor certa para o fundo
-   de cada um, que são opostos (navy em cima, cinza claro embaixo). O respiro
-   vem do gap dos contêineres, que são flex.
+.lp-ponto { width: 7px; height: 7px; border-radius: 50%; background: var(--gold-400); flex: none; }
+.lp-hero h1 {
+  font: var(--weight-semibold) clamp(34px, 7vw, 60px)/1.06 var(--font-display);
+  letter-spacing: -0.03em; color: var(--white); text-wrap: pretty;
+}
+.lp-ouro { color: var(--gold-400); }
+.lp-lide {
+  max-width: 52ch; text-wrap: pretty;
+  font: var(--weight-regular) clamp(15px, 1.6vw, var(--text-md))/1.62 var(--font-sans);
+  color: rgba(255,255,255,.76);
+}
+.lp-cta-linha { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+.lp-cta-linha .btn { min-height: 48px; }
+.lp-btn-fantasma {
+  font: var(--type-body-strong); color: var(--white); text-decoration: none;
+  padding: 13px 24px; border-radius: var(--radius-pill);
+  border: 1px solid rgba(255,255,255,.22);
+  transition: background var(--duration-fast) var(--ease-standard);
+}
+.lp-btn-fantasma:hover { background: rgba(255,255,255,.10); color: var(--white); }
+/* O preço é claro, não apagado: é o número que decide a compra. Na landing
+   antiga ele acabava mais fraco que o texto ao lado, por herdar a cor de um
+   seletor mais específico. */
+.lp-preco { font: var(--type-small); color: rgba(255,255,255,.82); }
+.lp-provas { display: flex; align-items: center; gap: clamp(10px, 2vw, 20px); flex-wrap: wrap; }
+.lp-provas span { font: var(--type-small); color: rgba(255,255,255,.55); }
+.lp-sep { width: 4px; height: 4px; border-radius: 50%; background: rgba(255,255,255,.28); flex: none; }
 
-   Tentar reger isso numa classe .landing-preco não funciona e já não
-   funcionou: `.landing-hero p` e `.landing-fim p` têm um elemento a mais na
-   especificidade e vencem uma classe sozinha. O que passava era só a cor, num
-   seletor mais específico — e ela deixava o preço mais APAGADO que o texto ao
-   lado, que é o avesso do que se quer no número que decide a compra. */
-.landing-cta-row { display: flex; gap: 12px; flex-wrap: wrap; padding-top: 4px; }
-.landing-cta-row .btn { font-size: 0.9375rem; padding: 14px 26px; }
-.landing-stats {
-  display: flex; gap: 28px; padding-top: 14px;
-  border-top: 1px solid rgba(255,255,255,.09); margin-top: 8px;
+/* ── A maquete da aba Hoje ──────────────────────────────────────────────── */
+/* A maquete é CLARA nos dois temas, e isso é deliberado: ela é a fotografia de
+   um produto, não uma superfície do app. Uma captura de tela não muda de cor
+   com a preferência do sistema operacional — é o mesmo raciocínio das capas de
+   obra (ver --capa-* em tokens.css). Por isso as cores abaixo são literais e
+   não aparecem no bloco escuro. */
+.lp-maquete {
+  position: relative; justify-self: stretch; width: 100%;
+  max-width: 620px; min-width: 0; margin-inline: auto;
 }
-.landing-stat { display: flex; flex-direction: column; gap: 2px; padding-top: 16px; }
-.landing-stat-n { font-family: var(--font-brand); font-size: 1.5rem; font-weight: 600; color: #fff; }
-.landing-stat-label { font-size: 0.78rem; color: #8FA0B5; }
+.lp-maquete-moldura {
+  position: relative; border-radius: var(--radius-2xl);
+  padding: clamp(12px, 2vw, 20px);
+  background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.12);
+  box-shadow: 0 40px 90px rgba(2,6,18,.55);
+}
+.lp-maquete-tela {
+  border-radius: var(--radius-lg); overflow: hidden;
+  background: #F7F8FC; border: 1px solid rgba(255,255,255,.6);
+  display: flex; flex-direction: column;
+}
+.lp-maquete-topo {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: var(--space-4); flex-wrap: wrap;
+  padding: var(--space-4) clamp(14px, 2vw, 20px);
+  background: #FFFFFF; border-bottom: 1px solid #E0E5F0;
+}
+.lp-maquete-abas { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.lp-aba { font: var(--type-label); padding: 7px 15px; border-radius: var(--radius-pill); color: #66708A; }
+.lp-aba-ativa { background: #061027; color: #FFFFFF; }
+.lp-maquete-conta { display: flex; align-items: center; gap: 10px; }
+.lp-maquete-data { font: var(--type-small); color: #66708A; }
+.lp-maquete-avatar {
+  width: 30px; height: 30px; border-radius: 50%; flex: none;
+  background: linear-gradient(140deg, #2050B0, #0A1732); color: #FFFFFF;
+  font: var(--type-label); display: flex; align-items: center; justify-content: center;
+}
+.lp-maquete-corpo { display: flex; flex-direction: column; gap: var(--space-4); padding: clamp(14px, 2vw, 20px); }
+.lp-cartao-maquete {
+  border-radius: var(--radius-lg); background: #FFFFFF; border: 1px solid #E0E5F0;
+  padding: clamp(16px, 2vw, 20px); display: flex; flex-direction: column; gap: 14px;
+  will-change: transform;
+}
+.lp-maquete-cab { display: flex; align-items: baseline; justify-content: space-between; gap: var(--space-3); }
+.lp-maquete-titulo { font: var(--type-h3); color: #061027; }
+.lp-maquete-meta { font: var(--type-label); color: #66708A; }
+.lp-questoes { display: flex; flex-direction: column; gap: 10px; }
+.lp-questao {
+  display: flex; gap: var(--space-3); align-items: flex-start;
+  padding: 12px 14px; border-radius: var(--radius-md);
+  background: #F7F8FC; border: 1px solid #E8ECF5;
+}
+.lp-questao-agora { background: rgba(240,180,48,.10); border-color: rgba(240,180,48,.42); }
+.lp-questao-depois { opacity: .72; }
+.lp-marcador {
+  flex: none; width: 20px; height: 20px; border-radius: 50%;
+  font: var(--weight-bold) 11px/20px var(--font-sans); text-align: center;
+}
+.lp-marcador-feito { background: #1F9D63; color: #FFFFFF; }
+.lp-marcador-agora { background: #F0B430; color: #061027; }
+.lp-marcador-vazio { border: 2px solid #C8D0E2; }
+.lp-questao-corpo { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.lp-questao-rotulo { font: var(--type-label); letter-spacing: .02em; color: #66708A; }
+.lp-questao-agora .lp-questao-rotulo { color: #8A6A12; }
+.lp-questao-texto { font: var(--type-small); color: #1A2540; }
+.lp-maquete-cab-progresso { align-items: flex-end; flex-wrap: wrap; gap: var(--space-4); }
+.lp-progresso-textos { display: flex; flex-direction: column; gap: 4px; }
+.lp-progresso-textos .lp-maquete-meta { font: var(--type-small); color: #66708A; }
+/* O número que sobe vem em monoespaçada: em fonte proporcional a linha inteira
+   dança de largura a cada troca de dígito. */
+.lp-progresso-textos b { font: var(--weight-semibold) var(--text-sm)/1.5 var(--font-mono); color: #1A2540; }
+.lp-progresso-pct {
+  display: flex; align-items: baseline; gap: 6px;
+  font: var(--weight-semibold) 40px/1 var(--font-display);
+  letter-spacing: -0.03em; color: #F0B430;
+  font-variant-numeric: tabular-nums;
+}
+.lp-progresso-pct-sinal { font-size: 18px; }
+.lp-barra { height: 12px; border-radius: var(--radius-pill); background: #ECEFF7; overflow: hidden; }
+.lp-barra span {
+  display: block; height: 100%; border-radius: var(--radius-pill);
+  background: linear-gradient(90deg, #F0B430, #F5CF6A);
+  box-shadow: 0 0 18px rgba(240,180,48,.5);
+}
+.lp-maquete-rodape {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: var(--space-3); flex-wrap: wrap; font: var(--type-small); color: #66708A;
+}
+.lp-selo-sequencia {
+  font: var(--type-label); padding: 5px 12px; border-radius: var(--radius-pill);
+  background: #EEF2FB; color: #2050B0;
+}
 
-/* A "janela" com o app dentro. É a única promessa visual da página, então
-   mostra a tela real de Hoje: o dia, o bloco de "comece por aqui", as três
-   métricas e a fita dos 90 dias. */
-.landing-mock {
-  background: var(--bg); border: 1px solid rgba(255,255,255,.14); border-radius: var(--radius-md);
-  overflow: hidden; box-shadow: 0 30px 70px rgba(0,0,0,.45); color: var(--ink);
+/* ── Seções claras ──────────────────────────────────────────────────────── */
+.lp-secao { padding: clamp(56px, 8vw, 96px) clamp(20px, 5vw, 56px); }
+.lp-secao-clara { background: var(--surface-page); }
+.lp-secao-branca { background: var(--surface-card); }
+.lp-secao-dentro {
+  max-width: var(--content-max); margin: 0 auto;
+  display: flex; flex-direction: column; gap: clamp(32px, 4vw, 48px);
 }
-.landing-mock-chrome {
-  display: flex; align-items: center; gap: 8px; padding: 12px 16px;
-  background: #0A2540; border-bottom: 1px solid rgba(255,255,255,.08);
+.lp-secao-cab { display: flex; flex-direction: column; gap: var(--space-3); max-width: 60ch; }
+.lp-secao-cab h2 {
+  font: var(--weight-semibold) clamp(26px, 4vw, 36px)/1.18 var(--font-display);
+  letter-spacing: var(--tracking-tight); color: var(--text-heading); text-wrap: pretty;
 }
-.landing-mock-dot { width: 9px; height: 9px; border-radius: 50%; background: #33455C; }
-.landing-mock-url { font-size: 0.72rem; color: #8FA0B5; margin-left: 8px; font-family: var(--font-mono); }
-.landing-mock-body { padding: 22px; display: flex; flex-direction: column; gap: 14px; background: var(--bg); }
-.landing-mock-head { display: flex; justify-content: space-between; align-items: baseline; }
-.landing-mock-dia { font-family: var(--font-brand); font-size: 1.0625rem; font-weight: 600; color: var(--ink); }
-.landing-mock-data { font-size: 0.75rem; color: var(--ink-faint); }
-/* A barra de ouro à esquerda é a mesma marca do "Comece por aqui" dentro do
-   app — quem entra reconhece o bloco que já viu aqui. */
-.landing-mock-foco {
-  border: 1px solid var(--border); border-left: 3px solid var(--brand-gold-on-navy);
-  border-radius: var(--radius-sm); padding: 16px 18px; background: var(--surface);
-  display: flex; flex-direction: column; gap: 8px;
+/* --text-body e não --text-muted: o mesmo cinza que passa folgado dentro dos
+   cartões brancos mede 4,42:1 aqui, porque o fundo da seção é o paper-50 e não
+   o branco. Oito centésimos abaixo do piso é reprovado igual. */
+.lp-secao-cab p { font: var(--type-body); color: var(--text-body); text-wrap: pretty; }
+.lp-secao-cab-larga {
+  max-width: none; flex-direction: row; align-items: flex-end;
+  justify-content: space-between; gap: var(--space-7); flex-wrap: wrap;
 }
-.landing-mock-foco-titulo { font-family: var(--font-brand); font-size: 1.1875rem; font-weight: 600; color: var(--ink); }
-.landing-mock-foco-meta { font-size: 0.8125rem; color: var(--ink-soft); }
-.landing-mock-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
-.landing-mock-stat {
-  border: 1px solid var(--border); border-radius: var(--radius-sm);
-  padding: 12px 14px; background: var(--surface);
+.lp-secao-cab-larga > div {
+  display: flex; flex-direction: column; gap: var(--space-3); max-width: 60ch; min-width: 0;
 }
-.landing-mock-stat-label { font-size: 0.6875rem; color: var(--ink-faint); margin-bottom: 4px; }
-.landing-mock-stat-v { font-family: var(--font-brand); font-size: 1.25rem; font-weight: 600; color: var(--ink); }
-.landing-mock-fita { display: flex; gap: 4px; }
-.landing-mock-fita i { flex: 1; height: 26px; border-radius: 3px; background: var(--border); }
-.landing-mock-fita i.feito { background: var(--ink); }
-.landing-mock-fita i.hoje { background: var(--brand-gold-on-navy); }
+.lp-link-forte { font: var(--type-body-strong); color: var(--text-link); text-decoration: none; }
+.lp-link-forte:hover { color: var(--text-link-hover); }
 
-.landing-secao { padding: 76px 64px; display: flex; flex-direction: column; gap: 44px; }
-.landing-secao-head { max-width: 640px; display: flex; flex-direction: column; gap: 12px; }
-.landing-secao-head h2 { font-size: 2rem; letter-spacing: -0.02em; margin: 0; }
-/* Grade de 1px: as divisórias são o próprio fundo aparecendo entre as células.
-   É a "régua como estrutura" — sem cartão, sem sombra, sem raio. */
-.landing-passos {
-  display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px;
-  background: var(--border); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border);
+.lp-passos {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
+  gap: var(--space-5);
 }
-.landing-passo { background: var(--surface); padding: 32px 30px 34px; display: flex; flex-direction: column; gap: 12px; }
-.landing-passo-n { font-family: var(--font-brand); font-size: 0.8125rem; font-weight: 600; color: var(--brand-gold); }
-.landing-passo h3 { font-size: 1.25rem; margin: 0; }
-.landing-passo p { margin: 0; font-size: 0.9rem; line-height: 1.6; color: var(--ink-soft); }
+.lp-passo {
+  display: flex; flex-direction: column; gap: var(--space-3);
+  padding: clamp(22px, 3vw, 28px); border-radius: var(--radius-card);
+  background: var(--surface-card); border: 1px solid var(--border-subtle);
+  box-shadow: var(--shadow-sm); min-width: 0;
+}
+.lp-passo-topo { display: flex; align-items: center; gap: var(--space-3); }
+.lp-passo-icone {
+  flex: none; width: 38px; height: 38px; border-radius: 50%;
+  background: var(--navy-800); color: var(--gold-400);
+  display: flex; align-items: center; justify-content: center;
+}
+.lp-passo-icone svg { width: 19px; height: 19px; }
+/* O desenho pedia o cinza de BORDA para o "01" — 1,59:1 no claro, 2,17:1 no
+   escuro. Um número de ordem não é enfeite: é por ele que se lê a sequência,
+   e ele fica. Muda a cor. */
+.lp-passo-n { font: var(--weight-semibold) 14px/1 var(--font-mono); color: var(--text-muted); }
+.lp-passo h3 { font: var(--type-h3); color: var(--text-heading); }
+.lp-passo p { font: var(--type-small); color: var(--text-muted); text-wrap: pretty; }
 
-.landing-bancas {
-  background: #0A2540; color: #fff; padding: 56px 64px;
-  display: flex; align-items: center; justify-content: space-between; gap: 40px; flex-wrap: wrap;
+.lp-trilhas {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
+  gap: var(--space-5);
 }
-.landing-bancas-copy { display: flex; flex-direction: column; gap: 10px; max-width: 560px; }
-.landing-bancas-copy h2 { font-size: 1.75rem; color: #fff; margin: 0; }
-.landing-bancas-copy p { margin: 0; font-size: 0.9rem; color: #A8B6C8; }
-.landing-bancas-lista { display: flex; gap: 10px; flex-wrap: wrap; }
-.landing-banca {
-  font-family: var(--font-brand); font-size: 0.9375rem; font-weight: 600; color: #fff;
-  border: 1px solid rgba(255,255,255,.20); border-radius: var(--radius-sm); padding: 12px 20px;
+.lp-trilha {
+  position: relative; display: flex; flex-direction: column; gap: 14px;
+  padding: clamp(22px, 3vw, 26px); border-radius: var(--radius-card);
+  background: var(--surface-page); border: 1px solid var(--border-subtle); min-width: 0;
+  transition: border-color var(--duration-fast) var(--ease-standard),
+              box-shadow var(--duration-fast) var(--ease-standard);
 }
+.lp-trilha:hover { border-color: var(--border-strong); box-shadow: var(--shadow-md); }
+/* Uma trilha em destaque dá âncora visual à fileira. A escolhida é a de
+   Direito e o selo diz "A primeira trilha", que é fato verificável — o desenho
+   trazia "Mais escolhida", e não existe medição de escolha para sustentar
+   isso. */
+.lp-trilha-destaque {
+  background: var(--surface-card); border-color: rgba(240,180,48,.55);
+  box-shadow: var(--shadow-lg); overflow: hidden;
+}
+.lp-trilha-destaque::before {
+  content: ""; position: absolute; inset: 0 auto 0 0; width: 3px;
+  background: linear-gradient(180deg, var(--gold-400), rgba(240,180,48,0));
+}
+.lp-trilha-selo {
+  display: inline-flex; align-items: center; gap: 7px; align-self: flex-start;
+  font: var(--type-label); padding: 5px 12px; border-radius: var(--radius-pill);
+  background: var(--surface-sunken); color: var(--text-muted);
+}
+.lp-trilha-destaque .lp-trilha-selo { background: rgba(240,180,48,.16); color: var(--text-accent); }
+.lp-trilha-selo svg { width: 13px; height: 13px; flex: none; }
+.lp-trilha-nome { font: var(--type-h3); color: var(--text-heading); }
+.lp-trilha-resumo { font: var(--type-small); color: var(--text-muted); text-wrap: pretty; }
 
-.landing-dia { padding: 76px 64px; display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: start; }
-.landing-dia-copy { display: flex; flex-direction: column; gap: 14px; max-width: 520px; }
-.landing-dia-copy h2 { font-size: 2rem; letter-spacing: -0.02em; margin: 0; }
-.landing-dia-copy p { margin: 0; font-size: 0.9375rem; line-height: 1.65; color: var(--ink-soft); }
-.landing-dia-copy ul { margin: 8px 0 0; padding-left: 18px; color: var(--ink-soft); font-size: 0.9rem; line-height: 1.7; }
-.landing-dia-copy strong { color: var(--ink); }
-.landing-dia-card { border: 1px solid var(--border); border-radius: var(--radius); background: var(--surface); overflow: hidden; }
-.landing-dia-card-head {
-  padding: 22px 26px; border-bottom: 1px solid var(--border);
-  display: flex; align-items: baseline; justify-content: space-between;
+/* ── Faixa de confiança ─────────────────────────────────────────────────── */
+.lp-faixa {
+  background: var(--navy-700); padding: 18px clamp(20px, 5vw, 56px);
+  border-top: 1px solid rgba(255,255,255,.08); border-bottom: 1px solid rgba(255,255,255,.08);
 }
-.landing-dia-card-head h3 { font-size: 1.0625rem; margin: 0; }
-.landing-bloco { padding: 18px 26px; border-bottom: 1px solid var(--border); display: flex; gap: 16px; align-items: flex-start; }
-.landing-bloco-etapa {
-  font: var(--type-eyebrow); letter-spacing: var(--tracking-caps); text-transform: uppercase;
-  color: var(--ink-faint); width: 62px; flex: none;
+.lp-faixa-dentro {
+  max-width: var(--content-max); margin: 0 auto;
+  display: flex; align-items: center; justify-content: center;
+  gap: clamp(10px, 2vw, 18px); flex-wrap: wrap;
 }
-.landing-bloco-corpo { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
-.landing-bloco-titulo { font-size: 0.9rem; font-weight: 600; color: var(--ink); }
-.landing-bloco-texto { font-size: 0.8125rem; color: var(--ink-soft); line-height: 1.55; }
-.landing-aula { padding: 20px 26px; background: var(--bg); display: flex; flex-direction: column; gap: 3px; }
-.landing-aula-tema { font-size: 0.9rem; font-weight: 600; color: var(--ink); }
+.lp-faixa-dentro span {
+  font: var(--type-label); letter-spacing: .06em; text-transform: uppercase;
+  color: rgba(255,255,255,.66);
+}
+.lp-faixa-ponto { width: 4px; height: 4px; border-radius: 50%; background: rgba(240,180,48,.7); flex: none; }
 
-.landing-fim {
-  padding: 72px 64px 84px; background: var(--bg); border-top: 1px solid var(--border);
-  display: flex; flex-direction: column; align-items: flex-start; gap: 20px;
+/* ── Planos ─────────────────────────────────────────────────────────────── */
+.lp-planos {
+  position: relative; overflow: hidden; background: #061027;
+  padding: clamp(56px, 8vw, 96px) clamp(20px, 5vw, 56px) clamp(72px, 9vw, 104px);
 }
-.landing-fim h2 { font-size: 2.125rem; letter-spacing: -0.02em; max-width: 620px; margin: 0; }
-.landing-fim p { margin: 0; font-size: 0.9375rem; color: var(--ink-soft); max-width: 560px; }
-.landing-fim .btn { font-size: 0.9375rem; padding: 14px 28px; }
-
-/* A ressalva de autoria no pé da landing. É um pedido do desenho de CELULAR, e é
-   só lá que ela aparece: o desktop desta página não tinha rodapé e não é para
-   ganhar um agora. A regra que a mostra vive no bloco do celular. */
-.landing-nota { display: none; }
-
-/* Rodapé da landing: Termos e Política. Diferente da .landing-nota acima, ele
-   aparece nas duas larguras — os documentos têm que estar alcançáveis antes do
-   cadastro em qualquer tela, e isso não é preferência de desenho. */
-.landing-rodape {
-  display: flex; gap: 24px; flex-wrap: wrap; justify-content: center;
-  padding: 28px 24px 36px; background: var(--bg);
-  border-top: 1px solid var(--border); font-size: 0.85rem;
+.lp-halo-planos { top: 22%; right: -6%; width: 760px; height: 760px; max-width: 130vw; }
+.lp-planos .lp-secao-dentro { position: relative; gap: clamp(36px, 4.5vw, 52px); }
+.lp-planos .lp-secao-cab h2 { color: var(--white); }
+.lp-planos .lp-secao-cab p { color: rgba(255,255,255,.72); }
+.lp-planos-grade { display: flex; flex-wrap: wrap; align-items: center; gap: clamp(32px, 5vw, 68px); }
+.lp-planos-cartao {
+  flex: 1 1 400px; min-width: 0; max-width: 480px; width: 100%;
+  display: flex; flex-direction: column; gap: var(--space-5);
+  padding: clamp(24px, 3.4vw, 34px); border-radius: var(--radius-xl);
+  /* Branco literal, como a maquete: o cartão de preço é a superfície que tem
+     de saltar do navy nos dois temas. */
+  background: #FFFFFF; border: 1px solid rgba(240,180,48,.5);
+  box-shadow: 0 24px 60px rgba(2,6,18,.5);
 }
-.landing-rodape a { color: var(--ink-soft); text-decoration: none; font-weight: 600; }
-.landing-rodape a:hover { color: var(--accent); }
+/* Os dois planos lado a lado. O desenho trazia um cartão só (o mensal); o app
+   vende dois, e esconder o de 90 dias na landing recriaria exatamente o
+   problema que ela foi feita para resolver — descobrir o preço só depois de
+   entregar a conta Google. */
+.lp-precos { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 150px), 1fr)); gap: var(--space-3); }
+.lp-preco-cartao {
+  display: flex; flex-direction: column; gap: 6px;
+  padding: var(--space-4); border-radius: var(--radius-md);
+  background: #F7F8FC; border: 1px solid #E8ECF5;
+}
+.lp-preco-cartao-destaque { background: rgba(240,180,48,.10); border-color: rgba(240,180,48,.42); }
+.lp-preco-rotulo { font: var(--type-label); letter-spacing: .02em; color: #66708A; }
+.lp-preco-cartao-destaque .lp-preco-rotulo { color: #8A6A12; }
+.lp-preco-valor {
+  font: var(--weight-semibold) clamp(26px, 3.4vw, 32px)/1 var(--font-display);
+  letter-spacing: -0.03em; color: #061027;
+}
+.lp-preco-nota { font: var(--type-small); color: #66708A; }
+.lp-planos-regua { height: 1px; background: #ECEFF7; }
+.lp-planos-lista { display: flex; flex-direction: column; gap: var(--space-3); }
+.lp-planos-lista span {
+  display: flex; gap: 10px; align-items: flex-start;
+  font: var(--type-small); color: #1A2540;
+}
+.lp-planos-lista svg { flex: none; width: 16px; height: 16px; margin-top: 2px; stroke: #F0B430; }
+.lp-planos-acao { display: flex; flex-direction: column; gap: 10px; align-items: flex-start; }
+.lp-planos-acao .btn { min-height: 48px; }
+.lp-planos-nota { font: var(--type-small); color: #66708A; }
+
+.lp-beneficios-col { flex: 1 1 420px; min-width: 0; display: flex; flex-direction: column; gap: clamp(22px, 3vw, 30px); }
+.lp-beneficios-cab { display: flex; flex-direction: column; gap: 10px; }
+.lp-beneficios-cab h3 {
+  font: var(--weight-semibold) clamp(22px, 2.8vw, 28px)/1.2 var(--font-display);
+  letter-spacing: -0.02em; color: var(--white); text-wrap: pretty;
+}
+.lp-beneficios-cab p { font: var(--type-small); color: rgba(255,255,255,.66); text-wrap: pretty; }
+.lp-beneficios {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 210px), 1fr));
+  gap: clamp(14px, 1.6vw, 18px); align-items: start;
+}
+.lp-beneficio {
+  display: flex; flex-direction: column; gap: 10px; padding: var(--space-5);
+  border-radius: var(--radius-card); background: #FFFFFF; border: 1px solid #E2E7F2;
+  box-shadow: 0 2px 6px rgba(6,16,39,.14); min-width: 0; will-change: transform;
+}
+/* O segundo e o quarto descem um degrau: sem isso são quatro caixas iguais numa
+   grade regular, e a coluna inteira lê como tabela. */
+.lp-beneficio-2, .lp-beneficio-4 { margin-top: clamp(0px, 2vw, 26px); }
+.lp-beneficio-icone {
+  width: 34px; height: 34px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  background: #EEF2FB; color: #2050B0;
+}
+.lp-beneficio-icone svg { width: 17px; height: 17px; }
+.lp-beneficio-titulo { font: var(--weight-semibold) 17px/1.3 var(--font-display); color: #061027; }
+.lp-beneficio-texto { font: var(--type-small); color: #66708A; text-wrap: pretty; }
+.lp-pilula-dia { text-transform: none; letter-spacing: 0; font: var(--type-label); color: var(--gold-400); }
+
+/* ── Perguntas frequentes ───────────────────────────────────────────────── */
+.lp-faq-titulo {
+  font: var(--weight-semibold) clamp(22px, 3vw, 28px)/1.2 var(--font-display);
+  letter-spacing: var(--tracking-tight); color: var(--text-heading);
+}
+/* 420px e não 320: as quatro perguntas são curtas, e a 320 elas viram três
+   colunas com uma sozinha na segunda linha. A 420 fecham 2 × 2 na largura
+   máxima da página e caem para uma coluna no celular, sem media query. */
+.lp-faq { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr)); gap: var(--space-3); }
+.lp-faq details {
+  padding: 18px 20px; border-radius: var(--radius-md);
+  background: var(--surface-card); border: 1px solid var(--border-subtle); min-width: 0;
+}
+.lp-faq summary {
+  list-style: none; cursor: pointer;
+  font: var(--type-body-strong); color: var(--text-heading);
+}
+.lp-faq summary::-webkit-details-marker { display: none; }
+.lp-faq p { margin-top: 10px; font: var(--type-small); color: var(--text-muted); text-wrap: pretty; }
+
+/* ── Rodapé ─────────────────────────────────────────────────────────────── */
+.lp-rodape {
+  background: #061027; border-top: 1px solid rgba(255,255,255,.10);
+  padding: clamp(40px, 5vw, 56px) clamp(20px, 5vw, 56px) clamp(28px, 3vw, 36px);
+}
+.lp-rodape .lp-secao-dentro { gap: var(--space-7); }
+.lp-rodape-topo { display: flex; flex-wrap: wrap; gap: clamp(28px, 5vw, 64px); justify-content: space-between; }
+.lp-rodape-marca { display: flex; flex-direction: column; gap: var(--space-3); max-width: 38ch; min-width: 0; }
+.lp-rodape-marca .sidebar-wordmark { height: 24px; align-self: flex-start; }
+/* As opacidades do rodapé foram MEDIDAS, não copiadas. O desenho trazia .5,
+   .42 e .38 sobre #061027, e as três últimas reprovam AA em texto pequeno:
+   3,53:1, 4,06:1 e 3,53:1 contra o piso de 4,5. Sobre este fundo o branco só
+   cruza 4,5:1 a partir de alfa 0,455 — daí os valores abaixo, todos com
+   margem. A hierarquia não se perdeu: ela agora está no TAMANHO da letra,
+   que é onde ela sobrevive à medição. */
+.lp-rodape-marca span { font: var(--type-small); color: rgba(255,255,255,.62); text-wrap: pretty; }
+.lp-rodape-nota { font-size: var(--text-xs) !important; color: rgba(255,255,255,.50) !important; }
+.lp-rodape-colunas { display: flex; flex-wrap: wrap; gap: clamp(28px, 5vw, 56px); }
+.lp-rodape-coluna { display: flex; flex-direction: column; gap: 10px; }
+.lp-rodape-coluna .eyebrow { color: rgba(255,255,255,.56); }
+.lp-rodape-coluna a {
+  font: var(--type-small); color: rgba(255,255,255,.72); text-decoration: none;
+  transition: color var(--duration-fast) var(--ease-standard);
+}
+.lp-rodape-coluna a:hover { color: var(--white); }
+.lp-rodape-fim {
+  display: flex; flex-wrap: wrap; gap: var(--space-4); justify-content: space-between;
+  align-items: center; padding-top: var(--space-5); border-top: 1px solid rgba(255,255,255,.08);
+}
+.lp-rodape-fim > span:first-child { font: var(--type-small); color: rgba(255,255,255,.52); }
+.lp-rodape-legais { display: flex; gap: var(--space-5); flex-wrap: wrap; }
+.lp-rodape-legais a { font: var(--type-small); color: rgba(255,255,255,.5); text-decoration: none; }
+.lp-rodape-legais a:hover { color: var(--white); }
+
+/* ── As animações da maquete ────────────────────────────────────────────── */
+/* Um ciclo de 10 s, e a única coisa animada do produto inteiro. O app não
+   anima: numa tela de estudo, algo se mexendo no canto rouba a leitura de quem
+   está no meio de uma questão. Aqui o movimento tem função — mostrar o app
+   funcionando para quem ainda não entrou.
+
+   Os dois cartões se revezam: enquanto um sobe e ganha o anel de ouro, o outro
+   cai para 55% de opacidade. Os tempos de A e B são complementares de
+   propósito (A destaca de 10% a 32%, B de 40% a 76%), e mexer num sem mexer no
+   outro produz o instante em que os dois estão em destaque. */
+@keyframes lp-foco-a {
+  0%, 4%   { transform: translateY(0) scale(1);          box-shadow: 0 2px 6px rgba(6,16,39,.06); border-color: #E0E5F0 }
+  10%, 32% { transform: translateY(-6px) scale(1.015);   box-shadow: 0 18px 38px rgba(6,16,39,.16), 0 0 0 1px rgba(240,180,48,.55); border-color: rgba(240,180,48,.55) }
+  40%,100% { transform: translateY(0) scale(1);          box-shadow: 0 2px 6px rgba(6,16,39,.06); border-color: #E0E5F0 }
+}
+@keyframes lp-foco-b {
+  0%, 34%  { transform: translateY(0) scale(1);          box-shadow: 0 2px 6px rgba(6,16,39,.06); border-color: #E0E5F0 }
+  40%, 76% { transform: translateY(-6px) scale(1.015);   box-shadow: 0 18px 38px rgba(6,16,39,.16), 0 0 0 1px rgba(240,180,48,.55); border-color: rgba(240,180,48,.55) }
+  84%,100% { transform: translateY(0) scale(1);          box-shadow: 0 2px 6px rgba(6,16,39,.06); border-color: #E0E5F0 }
+}
+@keyframes lp-atenua-a { 0%, 4% { opacity: 1 } 12%, 30% { opacity: .55 } 40%,100% { opacity: 1 } }
+@keyframes lp-atenua-b { 0%, 34% { opacity: 1 } 44%, 74% { opacity: .55 } 84%,100% { opacity: 1 } }
+@keyframes lp-respira { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-5px) } }
+@keyframes lp-beneficio {
+  0%, 1%   { transform: translateY(0) scale(1);        border-color: #E2E7F2; box-shadow: 0 2px 6px rgba(6,16,39,.14) }
+  6%, 19%  { transform: translateY(-5px) scale(1.02);  border-color: rgba(240,180,48,.62); box-shadow: 0 20px 42px rgba(2,6,18,.42) }
+  25%,100% { transform: translateY(0) scale(1);        border-color: #E2E7F2; box-shadow: 0 2px 6px rgba(6,16,39,.14) }
+}
+@keyframes lp-beneficio-icone {
+  0%, 1%   { background: #EEF2FB; color: #2050B0 }
+  6%, 19%  { background: #F0B430; color: #061027 }
+  25%,100% { background: #EEF2FB; color: #2050B0 }
+}
+.lp-foco-a  { animation: lp-foco-a 10s var(--ease-standard) infinite; }
+.lp-foco-b  { animation: lp-foco-b 10s var(--ease-standard) infinite; }
+.lp-atenua-a, .lp-atenua-b { display: flex; flex-direction: column; gap: 14px; }
+.lp-atenua-a { animation: lp-atenua-a 10s var(--ease-standard) infinite; }
+.lp-atenua-b { animation: lp-atenua-b 10s var(--ease-standard) infinite; }
+.lp-beneficio-1 { animation: lp-beneficio 10s var(--ease-standard) 0s   infinite; }
+.lp-beneficio-2 { animation: lp-beneficio 10s var(--ease-standard) 2.5s infinite; }
+.lp-beneficio-3 { animation: lp-beneficio 10s var(--ease-standard) 5s   infinite; }
+.lp-beneficio-4 { animation: lp-beneficio 10s var(--ease-standard) 7.5s infinite; }
+.lp-beneficio-1 .lp-beneficio-icone { animation: lp-beneficio-icone 10s var(--ease-standard) 0s   infinite; }
+.lp-beneficio-2 .lp-beneficio-icone { animation: lp-beneficio-icone 10s var(--ease-standard) 2.5s infinite; }
+.lp-beneficio-3 .lp-beneficio-icone { animation: lp-beneficio-icone 10s var(--ease-standard) 5s   infinite; }
+.lp-beneficio-4 .lp-beneficio-icone { animation: lp-beneficio-icone 10s var(--ease-standard) 7.5s infinite; }
+
+/* Quem pediu menos movimento ao sistema recebe a maquete parada no estado
+   final — 80% do dia feito, não 33%: parada no início ela contaria uma
+   história pior que a verdade. Quem faz o número parar aqui é o auth.js, que
+   lê a mesma preferência antes de ligar o contador. */
+@media (prefers-reduced-motion: reduce) {
+  .lp-foco-a, .lp-foco-b, .lp-atenua-a, .lp-atenua-b,
+  .lp-marca-dagua, .lp-beneficio, .lp-beneficio-icone { animation: none !important; }
+}
 
 /* ═══════════════════════════════════════════════════════════════════════════
    02 · LOGIN — painel dividido
@@ -2303,65 +2640,43 @@ h4 { font-size: 1.0625rem; }
   .perfil-box .btn { align-self: stretch; width: 100%; min-height: 46px; }
 
   /* ── Landing ─────────────────────────────────────────────────────────── */
-  .landing-navy { padding: 0 24px 0; }
-  .landing-nav { height: 56px; border-bottom: none; }
-  /* Os três links de âncora saem da barra: sobra a marca e o "Entrar", que é o
-     que a barra precisa oferecer. As seções continuam no fim da rolagem. */
-  .landing-nav-links a { display: none; }
-  .landing-brand .sidebar-symbol { height: 28px; }
-  .landing-brand .sidebar-wordmark { height: 19px; }
-  .btn-entrar { min-height: 44px; padding: 0 16px; }
-  .landing-hero { grid-template-columns: 1fr; gap: 26px; padding: 28px 0 0; align-items: stretch; }
-  .landing-hero-copy { max-width: none; gap: 18px; }
-  .landing-hero h1 { font-size: 2rem; line-height: 1.1; }
-  .landing-hero p { font-size: 0.906rem; }
-  .landing-cta-row { flex-direction: column; gap: 10px; }
-  .landing-cta-row .btn { width: 100%; min-height: 52px; padding: 0 20px; display: flex; align-items: center; justify-content: center; }
-  .landing-stats { gap: 22px; padding-top: 16px; }
-  .landing-stat { padding-top: 0; }
-  .landing-stat-n { font-size: 1.3125rem; }
-  .landing-stat-label { font-size: 0.719rem; }
-  /* A janela do app atravessa a fronteira navy/branco: a margem negativa tira
-     58px da altura do bloco navy e deixa o cartão pousado meio dentro, meio
-     fora. É o que faz a promessa visual parecer estar SAINDO do produto em vez
-     de ilustrá-lo de longe. */
-  .landing-mock {
-    margin: 36px 0 -58px; position: relative; z-index: 1;
-    border-color: var(--border); border-radius: var(--radius-md);
-    box-shadow: 0 12px 30px rgba(10,37,64,.10);
+  /* Quase nada precisa mudar aqui, e isso é resultado e não sorte: o desenho
+     novo é todo clamp() e auto-fit, então a página se reorganiza sozinha entre
+     360 e 1920. O que sobra são as decisões que uma media query resolve melhor
+     que uma fórmula. */
+
+  /* Os três links de âncora saem da barra: sobram a marca e o "Entrar", que é o
+     que a barra precisa oferecer. As seções continuam na rolagem. */
+  .lp-nav-links a { display: none; }
+  .lp-btn-entrar { min-height: 44px; padding: 0 16px; }
+  .lp-marca .sidebar-symbol { height: 30px; }
+  .lp-marca .sidebar-wordmark { height: 21px; }
+
+  /* Botão de largura cheia é a convenção do celular, e os dois CTAs do herói
+     ficam um sobre o outro em vez de dividirem a linha. */
+  .lp-cta-linha { flex-direction: column; align-items: stretch; }
+  .lp-cta-linha .btn, .lp-btn-fantasma {
+    width: 100%; min-height: 52px; padding: 0 20px;
+    display: flex; align-items: center; justify-content: center;
   }
-  .landing-mock-chrome { padding: 10px 14px; }
-  .landing-mock-body { padding: 16px; gap: 12px; }
-  .landing-mock-stats { gap: 8px; }
-  .landing-mock-stat { padding: 10px; }
-  .landing-mock-fita i { height: 20px; }
-  .landing-secao { padding: 92px 24px 32px; gap: 18px; }
-  .landing-secao-head { gap: 10px; }
-  .landing-secao-head h2 { font-size: 1.5rem; }
-  /* Os três passos deixam de ser cartões e viram lista com régua: empilhados,
-     três caixas brancas sobre cinza-claro só somam bordas. */
-  .landing-passos { grid-template-columns: 1fr; gap: 0; border-top: 1px solid var(--border); }
-  .landing-passo { background: none; padding: 20px 0; border-bottom: 1px solid var(--border); gap: 6px; }
-  .landing-passo h3 { font-size: 1.0625rem; }
-  .landing-passo p { font-size: 0.875rem; }
-  .landing-bancas { padding: 30px 24px; gap: 16px; flex-direction: column; align-items: flex-start; }
-  .landing-bancas-copy { max-width: none; }
-  .landing-bancas-copy h2 { font-size: 1.25rem; }
-  .landing-banca { font-size: 0.875rem; padding: 10px 16px; }
-  .landing-dia { padding: 32px 24px; grid-template-columns: 1fr; gap: 22px; }
-  .landing-dia-copy { max-width: none; }
-  .landing-dia-copy h2 { font-size: 1.5rem; }
-  .landing-fim { padding: 34px 24px 40px; gap: 12px; }
-  .landing-fim h2 { font-size: 1.5rem; }
-  .landing-fim .btn { width: 100%; min-height: 52px; padding: 0 20px; display: flex; align-items: center; justify-content: center; }
-  /* Letra pequena de propósito — é informação de rodapé —, mas sobre branco e não
-     sobre o cinza da seção acima, pra ficar claro que ela fala pela página
-     inteira e não pelo último bloco. */
-  .landing-nota {
-    display: block; margin: 0;
-    padding: 18px 24px 40px; background: var(--surface); border-top: 1px solid var(--border);
-    font-size: 0.719rem; color: var(--ink-faint); line-height: 1.5;
-  }
+  .lp-planos-acao { align-self: stretch; }
+  .lp-planos-acao .btn { width: 100%; min-height: 52px; }
+
+  /* A maquete some no celular. Não é economia de bytes: reduzida à largura de
+     um telefone ela vira um retângulo de texto ilegível de 9px, e o que ela
+     tem a dizer — "o app decide o seu dia" — já está dito em letras grandes
+     logo acima. O que a tela pequena precisa é chegar ao preço rolando menos. */
+  .lp-maquete { display: none; }
+
+  /* Uma coluna, e o degrau dos cartões pares sai junto: em pilha ele viraria um
+     buraco no meio da lista. */
+  .lp-beneficios { grid-template-columns: 1fr; }
+  .lp-beneficio-2, .lp-beneficio-4 { margin-top: 0; }
+  .lp-planos-grade { gap: var(--space-7); }
+  .lp-secao-cab-larga { flex-direction: column; align-items: flex-start; gap: var(--space-4); }
+
+  .lp-rodape-colunas { gap: var(--space-7) var(--space-9); }
+  .lp-rodape-fim { flex-direction: column; align-items: flex-start; gap: var(--space-3); }
 
   /* ── Entrar ──────────────────────────────────────────────────────────── */
   /* O painel dividido empilha, e o navy encolhe para caber o pedido acima da

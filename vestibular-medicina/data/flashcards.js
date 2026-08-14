@@ -6469,6 +6469,881 @@ window.FLASHCARDS = {
    "verso": "O último número gerado no dispositivo, ao dividir por (x−a), é exatamente P(a)."
   }
  ],
+ "historia-brasil-colonia-imperio": [
+  {
+   "id": "flash-historia-brasil-colonia-imperio-01",
+   "frente": "O que foi o escambo no início da colonização?",
+   "verso": "A troca de produtos, sobretudo pau-brasil, entre portugueses e indígenas, com pagamento em bugigangas e ferramentas."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-02",
+   "frente": "Por que Portugal demorou a colonizar efetivamente o Brasil?",
+   "verso": "Porque o comércio com as Índias era mais lucrativo; a ocupação só se intensificou pela ameaça de invasões estrangeiras."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-03",
+   "frente": "O que foram as capitanias hereditárias?",
+   "verso": "A divisão do território em faixas doadas a donatários, que assumiam os custos da colonização em troca de amplos poderes locais."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-04",
+   "frente": "Por que o sistema de capitanias hereditárias fracassou na maior parte?",
+   "verso": "Pela falta de recursos dos donatários, pela extensão do território, pela resistência indígena e pela distância da metrópole."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-05",
+   "frente": "O que foi o Governo-Geral, criado em 1549?",
+   "verso": "A centralização administrativa da colônia sob um governador, com Tomé de Sousa como primeiro ocupante e Salvador como sede."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-06",
+   "frente": "O que foi o pacto colonial (exclusivo metropolitano)?",
+   "verso": "A regra que obrigava a colônia a comerciar apenas com a metrópole, comprando caro e vendendo barato."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-07",
+   "frente": "Como funcionava a economia açucareira colonial?",
+   "verso": "Baseada na plantation: latifúndio, monocultura de exportação e trabalho escravizado, com o engenho como unidade produtiva."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-08",
+   "frente": "Que papel os jesuítas tiveram na colonização?",
+   "verso": "Catequizaram indígenas e fundaram aldeamentos e colégios; entraram em conflito com colonos que os queriam escravizar."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-09",
+   "frente": "Por que os jesuítas foram expulsos em 1759?",
+   "verso": "Por decisão do Marquês de Pombal, que via seu poder econômico e sua autonomia como obstáculos ao fortalecimento do Estado português."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-10",
+   "frente": "Por que a escravidão indígena foi gradualmente substituída pela africana?",
+   "verso": "Pela resistência e fuga dos indígenas, pela mortalidade por doenças, pela oposição jesuítica e pela lucratividade do tráfico negreiro."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-11",
+   "frente": "O que foram os quilombos?",
+   "verso": "Comunidades formadas por africanos e afrodescendentes fugidos da escravidão, organizadas de forma autônoma."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-12",
+   "frente": "Qual foi a importância de Palmares?",
+   "verso": "Foi o maior e mais duradouro quilombo, resistindo por quase um século no atual Alagoas até ser destruído em 1695."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-13",
+   "frente": "O que foram as entradas e bandeiras?",
+   "verso": "Expedições ao interior em busca de indígenas para escravizar e de metais preciosos; ampliaram o território além de Tordesilhas."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-14",
+   "frente": "Como a mineração transformou a colônia no século XVIII?",
+   "verso": "Deslocou o eixo econômico para Minas Gerais, urbanizou o interior, aumentou o controle fiscal e transferiu a capital para o Rio de Janeiro."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-15",
+   "frente": "O que era o quinto, e o que foi a derrama?",
+   "verso": "O quinto era o imposto de 20% sobre o ouro; a derrama era a cobrança forçada do que faltava para atingir a cota anual estipulada."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-16",
+   "frente": "O que foi a Inconfidência Mineira?",
+   "verso": "A conspiração de 1789 contra o domínio português em Minas Gerais, motivada pela alta carga tributária e inspirada no Iluminismo; foi delatada antes de eclodir."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-17",
+   "frente": "Por que a Corte portuguesa se transferiu para o Brasil em 1808?",
+   "verso": "Para escapar da invasão napoleônica, sob escolta britânica, mantendo a monarquia fora do alcance de Napoleão."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-18",
+   "frente": "Que consequências teve a abertura dos portos às nações amigas?",
+   "verso": "Rompeu o pacto colonial, beneficiou sobretudo a Inglaterra e acelerou o processo de emancipação política."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-19",
+   "frente": "O que motivou a Revolução Pernambucana de 1817?",
+   "verso": "O descontentamento com os impostos elevados para sustentar a Corte no Rio, somado a ideais republicanos e separatistas."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-20",
+   "frente": "O que foi o Dia do Fico?",
+   "verso": "Em janeiro de 1822, a recusa de D. Pedro em retornar a Portugal, marcando a ruptura com as Cortes de Lisboa."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-21",
+   "frente": "Como se caracterizou a independência do Brasil?",
+   "verso": "Como um processo conduzido pela elite agrária e pelo próprio herdeiro do trono, mantendo a monarquia, a escravidão e a estrutura fundiária."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-22",
+   "frente": "O que estabeleceu a Constituição de 1824?",
+   "verso": "A monarquia constitucional com voto censitário e o Poder Moderador, exclusivo do imperador, acima dos outros três poderes."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-23",
+   "frente": "O que foi a Confederação do Equador?",
+   "verso": "A revolta republicana e separatista de 1824 em Pernambuco, reagindo ao autoritarismo da Constituição outorgada; foi duramente reprimida."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-24",
+   "frente": "Por que D. Pedro I abdicou em 1831?",
+   "verso": "Pelo desgaste com a Guerra da Cisplatina, o autoritarismo, a crise econômica e o conflito com os brasileiros natos."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-25",
+   "frente": "O que caracterizou o Período Regencial (1831-1840)?",
+   "verso": "A instabilidade política e as revoltas provinciais, num momento em que o herdeiro ainda era menor de idade."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-26",
+   "frente": "Quais foram as principais revoltas regenciais?",
+   "verso": "Cabanagem no Pará, Sabinada na Bahia, Balaiada no Maranhão, Farroupilha no Rio Grande do Sul e Revolta dos Malês."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-27",
+   "frente": "O que foi a Revolta dos Malês?",
+   "verso": "A insurreição de africanos muçulmanos escravizados em Salvador, em 1835, planejada com uso da escrita árabe."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-28",
+   "frente": "O que foi o Golpe da Maioridade?",
+   "verso": "A antecipação da posse de D. Pedro II aos 14 anos, em 1840, para conter a instabilidade do período regencial."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-29",
+   "frente": "O que determinou a Lei de Terras de 1850?",
+   "verso": "Que a terra só poderia ser adquirida por compra, dificultando o acesso de ex-escravizados e imigrantes pobres à propriedade."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-30",
+   "frente": "Qual foi a importância da Lei Eusébio de Queirós?",
+   "verso": "Proibiu o tráfico negreiro em 1850, sob pressão inglesa, liberando capitais que foram redirecionados ao café e à infraestrutura."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-31",
+   "frente": "O que foi a Lei do Ventre Livre?",
+   "verso": "A lei de 1871 que declarava livres os filhos de escravizadas nascidos a partir dela, embora sob tutela do senhor até a maioridade."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-32",
+   "frente": "O que foi a Lei dos Sexagenários?",
+   "verso": "A lei de 1885 que libertava escravizados com mais de 60 anos, de efeito limitado dada a baixa expectativa de vida no cativeiro."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-33",
+   "frente": "Por que a abolição em 1888 não resolveu a questão social?",
+   "verso": "Porque a Lei Áurea libertou sem indenização, terra, educação ou trabalho, deixando os libertos à margem da sociedade."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-34",
+   "frente": "Por que a imigração europeia foi incentivada a partir de meados do século XIX?",
+   "verso": "Para substituir a mão de obra escravizada nas lavouras de café e, por motivação racista, promover o embranquecimento da população."
+  },
+  {
+   "id": "flash-historia-brasil-colonia-imperio-35",
+   "frente": "O que levou à queda da monarquia em 1889?",
+   "verso": "O desgaste com o Exército, a insatisfação da elite cafeeira paulista, o conflito com a Igreja e a perda de apoio dos proprietários após a abolição."
+  }
+ ],
+ "historia-brasil-republica": [
+  {
+   "id": "flash-historia-brasil-republica-01",
+   "frente": "O que caracterizou a República da Espada (1889-1894)?",
+   "verso": "Os governos dos marechais Deodoro da Fonseca e Floriano Peixoto, marcados por autoritarismo e instabilidade."
+  },
+  {
+   "id": "flash-historia-brasil-republica-02",
+   "frente": "O que foi a política dos governadores?",
+   "verso": "O acordo de Campos Sales pelo qual o governo federal apoiava as oligarquias estaduais em troca de apoio no Congresso."
+  },
+  {
+   "id": "flash-historia-brasil-republica-03",
+   "frente": "O que foi a política do café com leite?",
+   "verso": "O revezamento na presidência entre as oligarquias de São Paulo (café) e Minas Gerais (leite) durante a República Velha."
+  },
+  {
+   "id": "flash-historia-brasil-republica-04",
+   "frente": "O que era o coronelismo?",
+   "verso": "O poder local dos grandes proprietários, que controlavam o voto de seus dependentes em troca de favores e proteção."
+  },
+  {
+   "id": "flash-historia-brasil-republica-05",
+   "frente": "O que era o voto de cabresto?",
+   "verso": "O voto controlado pelo coronel, viabilizado pela ausência de sigilo e pela dependência econômica do eleitor."
+  },
+  {
+   "id": "flash-historia-brasil-republica-06",
+   "frente": "O que foi a Guerra de Canudos?",
+   "verso": "A destruição, entre 1896 e 1897, da comunidade sertaneja liderada por Antônio Conselheiro na Bahia, tratada como ameaça monarquista."
+  },
+  {
+   "id": "flash-historia-brasil-republica-07",
+   "frente": "O que foi a Revolta da Vacina?",
+   "verso": "A rebelião popular no Rio em 1904 contra a vacinação obrigatória imposta sem esclarecimento, em meio às reformas urbanas de Pereira Passos."
+  },
+  {
+   "id": "flash-historia-brasil-republica-08",
+   "frente": "O que foi a Revolta da Chibata?",
+   "verso": "O motim de marinheiros em 1910, liderado por João Cândido, contra os castigos físicos aplicados na Marinha."
+  },
+  {
+   "id": "flash-historia-brasil-republica-09",
+   "frente": "O que foi o tenentismo?",
+   "verso": "O movimento de jovens oficiais nos anos 1920 contra as oligarquias e a fraude eleitoral, defendendo voto secreto e reformas."
+  },
+  {
+   "id": "flash-historia-brasil-republica-10",
+   "frente": "O que foi a Coluna Prestes?",
+   "verso": "A marcha de militares tenentistas que percorreu o interior do país entre 1925 e 1927 pregando reformas e denunciando as oligarquias."
+  },
+  {
+   "id": "flash-historia-brasil-republica-11",
+   "frente": "Qual foi a importância da Semana de Arte Moderna de 1922?",
+   "verso": "Rompeu com o academicismo e propôs uma arte brasileira moderna, valorizando a linguagem coloquial e temas nacionais."
+  },
+  {
+   "id": "flash-historia-brasil-republica-12",
+   "frente": "O que causou a Revolução de 1930?",
+   "verso": "A crise do café agravada pela quebra de 1929, a ruptura do acordo café com leite e a insatisfação de setores urbanos e militares."
+  },
+  {
+   "id": "flash-historia-brasil-republica-13",
+   "frente": "O que caracterizou o primeiro governo Vargas até 1937?",
+   "verso": "A centralização política, a legislação trabalhista, o incentivo à indústria e o enfrentamento de oposições à direita e à esquerda."
+  },
+  {
+   "id": "flash-historia-brasil-republica-14",
+   "frente": "O que foi a Revolução Constitucionalista de 1932?",
+   "verso": "O levante de São Paulo exigindo nova Constituição e o fim do governo provisório; foi derrotado militarmente, mas antecipou a Constituição de 1934."
+  },
+  {
+   "id": "flash-historia-brasil-republica-15",
+   "frente": "O que foi o Estado Novo?",
+   "verso": "A ditadura implantada por Vargas em 1937, com Congresso fechado, censura, propaganda oficial e Constituição autoritária."
+  },
+  {
+   "id": "flash-historia-brasil-republica-16",
+   "frente": "Qual foi o pretexto para a implantação do Estado Novo?",
+   "verso": "O Plano Cohen, documento forjado que simulava uma insurreição comunista iminente."
+  },
+  {
+   "id": "flash-historia-brasil-republica-17",
+   "frente": "Que legado trabalhista o governo Vargas deixou?",
+   "verso": "A CLT, o salário mínimo, a jornada de oito horas, as férias remuneradas e a carteira de trabalho."
+  },
+  {
+   "id": "flash-historia-brasil-republica-18",
+   "frente": "Por que o Brasil entrou na Segunda Guerra ao lado dos Aliados?",
+   "verso": "Pelos afundamentos de navios brasileiros por submarinos alemães e pela negociação com os EUA, que financiaram a Companhia Siderúrgica Nacional."
+  },
+  {
+   "id": "flash-historia-brasil-republica-19",
+   "frente": "Qual foi a contradição do Brasil na Segunda Guerra?",
+   "verso": "Combateu o nazifascismo no exterior enquanto vivia sob uma ditadura interna — contradição que precipitou a queda de Vargas em 1945."
+  },
+  {
+   "id": "flash-historia-brasil-republica-20",
+   "frente": "O que caracterizou o governo JK (1956-1961)?",
+   "verso": "O Plano de Metas sob o lema 'cinquenta anos em cinco', a construção de Brasília e a entrada da indústria automobilística."
+  },
+  {
+   "id": "flash-historia-brasil-republica-21",
+   "frente": "O que foram as reformas de base de João Goulart?",
+   "verso": "Propostas de reformas agrária, urbana, bancária e educacional, vistas como ameaça pelos setores conservadores."
+  },
+  {
+   "id": "flash-historia-brasil-republica-22",
+   "frente": "O que motivou o golpe de 1964?",
+   "verso": "A polarização da Guerra Fria, o temor das reformas de base, a articulação de militares, empresários e da classe média, e o apoio dos EUA."
+  },
+  {
+   "id": "flash-historia-brasil-republica-23",
+   "frente": "O que foram os Atos Institucionais?",
+   "verso": "Decretos do regime militar com força superior à Constituição, usados para cassar mandatos, suspender direitos e ampliar o poder do Executivo."
+  },
+  {
+   "id": "flash-historia-brasil-republica-24",
+   "frente": "O que estabeleceu o AI-5, em 1968?",
+   "verso": "Fechou o Congresso, suspendeu o habeas corpus para crimes políticos, instituiu censura prévia e autorizou cassações — foi o auge do arbítrio."
+  },
+  {
+   "id": "flash-historia-brasil-republica-25",
+   "frente": "O que foi o milagre econômico brasileiro?",
+   "verso": "O período de crescimento acelerado entre 1969 e 1973, sustentado por endividamento externo e acompanhado de forte concentração de renda."
+  },
+  {
+   "id": "flash-historia-brasil-republica-26",
+   "frente": "O que foi a Lei da Anistia de 1979?",
+   "verso": "A lei que permitiu o retorno dos exilados, mas cuja reciprocidade também livrou de punição os agentes da repressão."
+  },
+  {
+   "id": "flash-historia-brasil-republica-27",
+   "frente": "O que foi a campanha Diretas Já?",
+   "verso": "A mobilização popular de 1983-1984 pelo restabelecimento das eleições diretas para presidente; a emenda foi rejeitada no Congresso."
+  },
+  {
+   "id": "flash-historia-brasil-republica-28",
+   "frente": "Como se deu a transição para a Nova República?",
+   "verso": "Por eleição indireta em 1985, com Tancredo Neves eleito pelo Colégio Eleitoral; com sua morte, assumiu José Sarney."
+  },
+  {
+   "id": "flash-historia-brasil-republica-29",
+   "frente": "Por que a Constituição de 1988 é chamada Constituição Cidadã?",
+   "verso": "Por consagrar amplos direitos individuais, sociais e políticos e restabelecer as liberdades democráticas após a ditadura."
+  },
+  {
+   "id": "flash-historia-brasil-republica-30",
+   "frente": "O que foi o impeachment de Collor, em 1992?",
+   "verso": "A destituição do presidente por corrupção, após denúncias e mobilização popular dos caras-pintadas."
+  },
+  {
+   "id": "flash-historia-brasil-republica-31",
+   "frente": "O que foi o Plano Real?",
+   "verso": "O programa de estabilização de 1994 que criou uma nova moeda e controlou a hiperinflação por meio da URV e da âncora cambial."
+  },
+  {
+   "id": "flash-historia-brasil-republica-32",
+   "frente": "Que políticas sociais marcaram os governos dos anos 2000?",
+   "verso": "Bolsa Família, valorização do salário mínimo, expansão do ensino superior com ProUni e cotas, e crescimento do crédito popular."
+  },
+  {
+   "id": "flash-historia-brasil-republica-33",
+   "frente": "O que caracterizou as Jornadas de Junho de 2013?",
+   "verso": "Protestos iniciados contra o aumento das tarifas de transporte que se ampliaram em pauta difusa sobre serviços públicos e representação política."
+  },
+  {
+   "id": "flash-historia-brasil-republica-34",
+   "frente": "O que foi a Comissão Nacional da Verdade?",
+   "verso": "O órgão criado em 2011 para investigar as violações de direitos humanos cometidas entre 1946 e 1988, sobretudo durante a ditadura militar."
+  }
+ ],
+ "historia-geral-contemporanea": [
+  {
+   "id": "flash-historia-geral-contemporanea-01",
+   "frente": "O que foi a Segunda Revolução Industrial?",
+   "verso": "A fase iniciada no fim do século XIX marcada pelo aço, pela eletricidade, pelo petróleo e pela produção em série."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-02",
+   "frente": "O que caracteriza o taylorismo?",
+   "verso": "A administração científica do trabalho, com cronometragem das tarefas e separação entre quem planeja e quem executa."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-03",
+   "frente": "O que caracteriza o fordismo?",
+   "verso": "A produção em massa na linha de montagem, com trabalho fragmentado, estoques altos e produtos padronizados."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-04",
+   "frente": "O que foi o imperialismo do século XIX?",
+   "verso": "A ocupação e a exploração da África e da Ásia pelas potências industriais em busca de matérias-primas, mercados e áreas de investimento."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-05",
+   "frente": "Como o imperialismo foi ideologicamente justificado?",
+   "verso": "Pelo darwinismo social e pela ideia do 'fardo do homem branco', que apresentavam a dominação como missão civilizatória."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-06",
+   "frente": "O que foi a Conferência de Berlim?",
+   "verso": "A reunião de 1884-1885 em que as potências europeias repartiram a África entre si, ignorando fronteiras étnicas e culturais."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-07",
+   "frente": "Que consequências duradouras a partilha da África produziu?",
+   "verso": "Fronteiras artificiais que reuniram povos rivais e separaram grupos afins, alimentando conflitos étnicos até hoje."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-08",
+   "frente": "Quais foram as causas da Primeira Guerra Mundial?",
+   "verso": "As disputas imperialistas, a corrida armamentista, o sistema de alianças, os nacionalismos e as rivalidades territoriais europeias."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-09",
+   "frente": "O que estabeleceu o Tratado de Versalhes?",
+   "verso": "Responsabilizou a Alemanha pela guerra, impôs-lhe pesadas reparações, perdas territoriais e limitação militar."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-10",
+   "frente": "Por que o Tratado de Versalhes é associado à ascensão do nazismo?",
+   "verso": "Porque a humilhação nacional e a crise econômica decorrentes das imposições alimentaram o revanchismo explorado por Hitler."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-11",
+   "frente": "O que foi a Revolução Russa de 1917?",
+   "verso": "O processo que derrubou o czarismo e levou os bolcheviques ao poder, criando o primeiro Estado socialista do mundo."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-12",
+   "frente": "Qual era o lema bolchevique em 1917?",
+   "verso": "'Paz, terra e pão' — que respondia diretamente à guerra, à questão agrária e à fome."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-13",
+   "frente": "Como se caracterizou o stalinismo?",
+   "verso": "Pela industrialização acelerada com planos quinquenais, coletivização forçada do campo, culto à personalidade e repressão em massa."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-14",
+   "frente": "O que causou a Crise de 1929?",
+   "verso": "A superprodução industrial e agrícola combinada à especulação financeira desenfreada, que culminou na quebra da Bolsa de Nova York."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-15",
+   "frente": "O que foi o New Deal?",
+   "verso": "O conjunto de medidas de Roosevelt que ampliou a intervenção estatal com obras públicas, crédito e políticas sociais para superar a Depressão."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-16",
+   "frente": "Qual é a ideia central da teoria keynesiana?",
+   "verso": "Que o Estado deve intervir na economia estimulando a demanda em momentos de crise, mesmo com déficit público."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-17",
+   "frente": "Quais são as características gerais dos regimes totalitários?",
+   "verso": "Partido único, culto ao líder, censura, propaganda estatal, repressão política e supressão das liberdades individuais."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-18",
+   "frente": "O que diferenciava o nazismo do fascismo italiano?",
+   "verso": "O nazismo acrescentava o racismo biológico e o antissemitismo como eixos centrais do projeto de poder."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-19",
+   "frente": "O que foi o Holocausto?",
+   "verso": "O extermínio sistemático de cerca de seis milhões de judeus pelo regime nazista, além de ciganos, eslavos, homossexuais e deficientes."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-20",
+   "frente": "O que foi a política de apaziguamento?",
+   "verso": "A tolerância de França e Reino Unido às primeiras anexações de Hitler, na expectativa frustrada de evitar uma nova guerra."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-21",
+   "frente": "Que fatos marcaram o fim da Segunda Guerra Mundial?",
+   "verso": "A rendição alemã em maio de 1945 e a japonesa em setembro, após as bombas atômicas em Hiroshima e Nagasaki."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-22",
+   "frente": "Que nova ordem mundial emergiu de 1945?",
+   "verso": "A bipolaridade entre Estados Unidos e União Soviética, com a criação da ONU e a reorganização econômica de Bretton Woods."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-23",
+   "frente": "O que foi a Guerra Fria?",
+   "verso": "A disputa global entre EUA e URSS, de 1947 a 1991, travada nos planos ideológico, econômico, tecnológico e militar sem confronto direto entre eles."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-24",
+   "frente": "O que foi o Plano Marshall?",
+   "verso": "O programa norte-americano de ajuda financeira à reconstrução da Europa Ocidental, também voltado a conter a influência soviética."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-25",
+   "frente": "Que alianças militares opuseram os dois blocos?",
+   "verso": "A OTAN, liderada pelos EUA, e o Pacto de Varsóvia, liderado pela URSS."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-26",
+   "frente": "O que simbolizou o Muro de Berlim?",
+   "verso": "A divisão da Alemanha e da Europa entre os dois blocos; sua queda em 1989 anunciou o fim da Guerra Fria."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-27",
+   "frente": "O que foi a corrida espacial?",
+   "verso": "A disputa tecnológica entre EUA e URSS pela supremacia no espaço, do Sputnik à chegada à Lua em 1969."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-28",
+   "frente": "O que foi a Crise dos Mísseis de Cuba?",
+   "verso": "O episódio de 1962 em que a instalação de mísseis soviéticos em Cuba levou o mundo à beira de uma guerra nuclear."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-29",
+   "frente": "O que foi a descolonização afro-asiática?",
+   "verso": "O processo de independência das colônias após 1945, impulsionado pelo enfraquecimento europeu e pelos movimentos nacionalistas."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-30",
+   "frente": "O que foi a Conferência de Bandung?",
+   "verso": "O encontro de 1955 de países africanos e asiáticos que originou o Movimento dos Não Alinhados, recusando alinhamento automático aos dois blocos."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-31",
+   "frente": "Qual foi a importância da Revolução Cubana?",
+   "verso": "Instalou em 1959 um regime socialista a poucos quilômetros dos EUA, tornando-se referência para movimentos revolucionários latino-americanos."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-32",
+   "frente": "Por que os EUA foram derrotados na Guerra do Vietnã?",
+   "verso": "Pela guerrilha em terreno desfavorável, pelo apoio popular ao Vietcong e pela crescente oposição interna à guerra nos próprios EUA."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-33",
+   "frente": "O que foram a perestroika e a glasnost?",
+   "verso": "As reformas de Gorbachev na URSS: reestruturação econômica e abertura política, que aceleraram o colapso do regime soviético."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-34",
+   "frente": "O que caracterizou o mundo pós-1991?",
+   "verso": "A dissolução da URSS, a hegemonia norte-americana, a expansão da globalização neoliberal e o surgimento de novos conflitos étnicos e religiosos."
+  },
+  {
+   "id": "flash-historia-geral-contemporanea-35",
+   "frente": "O que foi o apartheid?",
+   "verso": "O regime de segregação racial institucionalizada na África do Sul, extinto no início dos anos 1990 com a eleição de Nelson Mandela."
+  }
+ ],
+ "historia-geral-moderna": [
+  {
+   "id": "flash-historia-geral-moderna-01",
+   "frente": "O que foi o Renascimento Cultural?",
+   "verso": "O movimento dos séculos XIV a XVI que retomou os valores greco-romanos, com foco no humanismo, no racionalismo e no antropocentrismo."
+  },
+  {
+   "id": "flash-historia-geral-moderna-02",
+   "frente": "O que é antropocentrismo, em oposição ao teocentrismo medieval?",
+   "verso": "A visão que coloca o ser humano e sua razão no centro das preocupações, em vez de Deus."
+  },
+  {
+   "id": "flash-historia-geral-moderna-03",
+   "frente": "Por que o Renascimento começou nas cidades italianas?",
+   "verso": "Pela prosperidade comercial, pelo mecenato de famílias como os Médici e pela proximidade com o legado greco-romano e bizantino."
+  },
+  {
+   "id": "flash-historia-geral-moderna-04",
+   "frente": "O que foi o mecenato?",
+   "verso": "O patrocínio de artistas e intelectuais por nobres, banqueiros e pela Igreja, que financiavam obras em troca de prestígio."
+  },
+  {
+   "id": "flash-historia-geral-moderna-05",
+   "frente": "Qual foi o impacto da imprensa de Gutenberg?",
+   "verso": "Barateou e multiplicou os livros, acelerando a circulação de ideias — foi decisiva para a difusão da Reforma."
+  },
+  {
+   "id": "flash-historia-geral-moderna-06",
+   "frente": "O que motivou a Reforma Protestante?",
+   "verso": "As críticas à venda de indulgências e à corrupção do clero, somadas ao interesse de príncipes em confiscar bens da Igreja e à ética burguesa."
+  },
+  {
+   "id": "flash-historia-geral-moderna-07",
+   "frente": "O que Lutero defendia?",
+   "verso": "A salvação pela fé, a autoridade exclusiva das Escrituras e o livre exame da Bíblia por cada fiel, sem intermediação obrigatória do clero."
+  },
+  {
+   "id": "flash-historia-geral-moderna-08",
+   "frente": "O que Calvino acrescentou à Reforma?",
+   "verso": "A doutrina da predestinação e a valorização do trabalho e do sucesso material como possíveis sinais de graça divina."
+  },
+  {
+   "id": "flash-historia-geral-moderna-09",
+   "frente": "Por que a Igreja Anglicana foi criada?",
+   "verso": "Pela ruptura de Henrique VIII com Roma, motivada pela recusa papal em anular seu casamento, com o rei tornando-se chefe da Igreja na Inglaterra."
+  },
+  {
+   "id": "flash-historia-geral-moderna-10",
+   "frente": "O que foi a Contrarreforma?",
+   "verso": "A reação católica à Reforma: Concílio de Trento, criação da Companhia de Jesus, Índice de Livros Proibidos e reforço da Inquisição."
+  },
+  {
+   "id": "flash-historia-geral-moderna-11",
+   "frente": "O que foi o absolutismo monárquico?",
+   "verso": "O regime em que o rei concentrava poderes ilimitados, legitimado pela teoria do direito divino."
+  },
+  {
+   "id": "flash-historia-geral-moderna-12",
+   "frente": "Que frase sintetiza o absolutismo de Luís XIV?",
+   "verso": "'O Estado sou eu' — a identificação plena entre a pessoa do rei e o Estado."
+  },
+  {
+   "id": "flash-historia-geral-moderna-13",
+   "frente": "Qual foi o papel de Versalhes no absolutismo francês?",
+   "verso": "Concentrar a nobreza sob vigilância da corte, esvaziando seu poder regional e mantendo-a dependente do rei."
+  },
+  {
+   "id": "flash-historia-geral-moderna-14",
+   "frente": "O que foi o mercantilismo?",
+   "verso": "A política econômica do Estado absolutista, baseada em metalismo, balança comercial favorável, protecionismo e exclusivo colonial."
+  },
+  {
+   "id": "flash-historia-geral-moderna-15",
+   "frente": "O que era o metalismo?",
+   "verso": "A concepção mercantilista de que a riqueza de um país se mede pelo estoque acumulado de metais preciosos."
+  },
+  {
+   "id": "flash-historia-geral-moderna-16",
+   "frente": "Que fatores impulsionaram as Grandes Navegações?",
+   "verso": "A busca de novas rotas para as especiarias após o bloqueio otomano, o avanço técnico (caravela, bússola, astrolábio) e o apoio do Estado."
+  },
+  {
+   "id": "flash-historia-geral-moderna-17",
+   "frente": "Por que Portugal foi pioneiro na expansão marítima?",
+   "verso": "Pela centralização política precoce, pela posição atlântica, pela experiência náutica e pelo interesse da burguesia comercial."
+  },
+  {
+   "id": "flash-historia-geral-moderna-18",
+   "frente": "O que estabeleceu o Tratado de Tordesilhas?",
+   "verso": "A divisão das terras a serem descobertas entre Portugal e Espanha por um meridiano a 370 léguas de Cabo Verde."
+  },
+  {
+   "id": "flash-historia-geral-moderna-19",
+   "frente": "O que foi a acumulação primitiva de capital?",
+   "verso": "O acúmulo de riquezas por meio do comércio colonial, do tráfico de escravizados e da exploração das colônias, que financiou a industrialização."
+  },
+  {
+   "id": "flash-historia-geral-moderna-20",
+   "frente": "O que foi o Iluminismo?",
+   "verso": "O movimento intelectual do século XVIII que defendeu a razão, a liberdade individual, a tolerância e a crítica ao absolutismo e aos privilégios."
+  },
+  {
+   "id": "flash-historia-geral-moderna-21",
+   "frente": "Qual foi a principal contribuição de Montesquieu?",
+   "verso": "A teoria da separação dos poderes em Executivo, Legislativo e Judiciário, com freios e contrapesos entre eles."
+  },
+  {
+   "id": "flash-historia-geral-moderna-22",
+   "frente": "O que Rousseau defendia?",
+   "verso": "A soberania popular e o contrato social, sustentando que o poder legítimo emana da vontade geral do povo."
+  },
+  {
+   "id": "flash-historia-geral-moderna-23",
+   "frente": "Por que Voltaire é lembrado?",
+   "verso": "Pela defesa intransigente da liberdade de expressão e da tolerância religiosa e pela crítica ácida ao clero e ao absolutismo."
+  },
+  {
+   "id": "flash-historia-geral-moderna-24",
+   "frente": "O que foi o despotismo esclarecido?",
+   "verso": "A adoção de reformas iluministas por monarcas absolutistas, sem abrir mão do poder concentrado."
+  },
+  {
+   "id": "flash-historia-geral-moderna-25",
+   "frente": "O que foi a Revolução Gloriosa?",
+   "verso": "O processo de 1688-1689 que consolidou a monarquia parlamentar inglesa, com a Declaração de Direitos limitando o poder do rei."
+  },
+  {
+   "id": "flash-historia-geral-moderna-26",
+   "frente": "Que fatores levaram à Independência dos Estados Unidos?",
+   "verso": "O aumento da tributação sobre as Treze Colônias sem representação no Parlamento, somado à influência iluminista."
+  },
+  {
+   "id": "flash-historia-geral-moderna-27",
+   "frente": "O que significa 'no taxation without representation'?",
+   "verso": "A recusa das colônias americanas em pagar impostos decididos por um Parlamento em que não tinham assento."
+  },
+  {
+   "id": "flash-historia-geral-moderna-28",
+   "frente": "Quais foram as causas da Revolução Francesa?",
+   "verso": "A crise financeira do Estado, os privilégios do clero e da nobreza, a pressão fiscal sobre o Terceiro Estado e a difusão das ideias iluministas."
+  },
+  {
+   "id": "flash-historia-geral-moderna-29",
+   "frente": "Como se dividia a sociedade francesa do Antigo Regime?",
+   "verso": "Em três estados: clero, nobreza (ambos privilegiados) e Terceiro Estado, que reunia a burguesia, os trabalhadores urbanos e os camponeses."
+  },
+  {
+   "id": "flash-historia-geral-moderna-30",
+   "frente": "O que simbolizou a Queda da Bastilha?",
+   "verso": "O início da fase popular da Revolução Francesa, em 14 de julho de 1789, e a derrubada do símbolo do arbítrio real."
+  },
+  {
+   "id": "flash-historia-geral-moderna-31",
+   "frente": "O que proclamou a Declaração dos Direitos do Homem e do Cidadão?",
+   "verso": "A liberdade, a igualdade perante a lei, a propriedade e a soberania nacional como direitos naturais e imprescritíveis."
+  },
+  {
+   "id": "flash-historia-geral-moderna-32",
+   "frente": "O que foi o período do Terror?",
+   "verso": "A fase jacobina liderada por Robespierre, marcada por execuções em massa de opositores em nome da defesa da Revolução."
+  },
+  {
+   "id": "flash-historia-geral-moderna-33",
+   "frente": "O que foi o Código Napoleônico?",
+   "verso": "A codificação civil que consolidou conquistas burguesas da Revolução — igualdade jurídica, propriedade privada e Estado laico — e influenciou o direito ocidental."
+  },
+  {
+   "id": "flash-historia-geral-moderna-34",
+   "frente": "O que foi o Congresso de Viena?",
+   "verso": "A reunião das potências europeias em 1815 que buscou restaurar as monarquias absolutistas e redesenhar o mapa da Europa após Napoleão."
+  },
+  {
+   "id": "flash-historia-geral-moderna-35",
+   "frente": "Que fatores explicam o pioneirismo inglês na Revolução Industrial?",
+   "verso": "O acúmulo de capital colonial, os cercamentos que liberaram mão de obra, a abundância de carvão e ferro, a estabilidade política e o mercado consumidor."
+  }
+ ],
+ "historia-geral-antiga-medieval": [
+  {
+   "id": "flash-historia-geral-antiga-medieval-01",
+   "frente": "O que foi a Revolução Neolítica?",
+   "verso": "A passagem do nomadismo à agricultura e ao pastoreio, que permitiu o sedentarismo, o excedente e as primeiras cidades."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-02",
+   "frente": "O que caracterizava as civilizações hidráulicas do Egito e da Mesopotâmia?",
+   "verso": "Dependiam da cheia dos rios e de obras coletivas de irrigação, o que exigia um Estado centralizado e uma burocracia."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-03",
+   "frente": "O que foi o Código de Hamurabi?",
+   "verso": "O conjunto de leis babilônico baseado na lei de talião, um dos primeiros registros escritos de legislação."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-04",
+   "frente": "Qual foi a contribuição dos fenícios?",
+   "verso": "O alfabeto fonético e uma vasta rede de comércio marítimo e colônias pelo Mediterrâneo."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-05",
+   "frente": "Qual foi a contribuição dos hebreus?",
+   "verso": "O monoteísmo, base religiosa e cultural do judaísmo, do cristianismo e do islamismo."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-06",
+   "frente": "O que era a pólis grega?",
+   "verso": "A cidade-Estado autônoma, com governo, leis, exército e divindades próprios."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-07",
+   "frente": "Como se organizava Esparta?",
+   "verso": "Como uma sociedade militarizada e oligárquica, voltada à formação de guerreiros e ao controle dos hilotas."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-08",
+   "frente": "Como se organizava Atenas?",
+   "verso": "Em torno do comércio e da vida política, tendo desenvolvido a democracia direta e forte produção filosófica e artística."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-09",
+   "frente": "O que caracterizava a democracia ateniense?",
+   "verso": "Era direta e participativa, mas restrita aos cidadãos homens, livres e nascidos em Atenas — mulheres, escravizados e estrangeiros ficavam de fora."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-10",
+   "frente": "Qual é a diferença entre a democracia ateniense e a moderna?",
+   "verso": "A ateniense era direta e excludente; a moderna é representativa e baseada no sufrágio universal."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-11",
+   "frente": "O que foi o Período Helenístico?",
+   "verso": "A fusão da cultura grega com as orientais após as conquistas de Alexandre, com Alexandria como grande centro intelectual."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-12",
+   "frente": "Como se organizava a sociedade romana na República?",
+   "verso": "Entre patrícios (aristocracia proprietária) e plebeus (camada popular), com conflitos que ampliaram gradualmente os direitos plebeus."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-13",
+   "frente": "O que foi a Lei das Doze Tábuas?",
+   "verso": "A primeira codificação escrita do direito romano, conquista dos plebeus contra a interpretação arbitrária das leis pelos patrícios."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-14",
+   "frente": "Que legados Roma deixou ao Ocidente?",
+   "verso": "O direito romano, o latim e as línguas dele derivadas, a engenharia urbana e a difusão do cristianismo."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-15",
+   "frente": "O que foi a política do 'pão e circo'?",
+   "verso": "A distribuição de alimentos e a promoção de espetáculos para conter a insatisfação da plebe urbana romana."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-16",
+   "frente": "Quais foram as causas da crise do Império Romano do Ocidente?",
+   "verso": "O fim da expansão e do fluxo de escravizados, a crise fiscal, a ruralização, as pressões dos povos germânicos e a divisão administrativa."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-17",
+   "frente": "O que foi o Império Bizantino?",
+   "verso": "A continuidade do Império Romano do Oriente, com capital em Constantinopla, que perdurou até 1453."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-18",
+   "frente": "O que foi o Cisma do Oriente?",
+   "verso": "A separação, em 1054, entre a Igreja Católica Romana e a Igreja Ortodoxa Grega."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-19",
+   "frente": "Como se estruturava o feudalismo?",
+   "verso": "Em relações de suserania e vassalagem entre nobres e de servidão entre senhor e camponês, com o feudo como unidade econômica autossuficiente."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-20",
+   "frente": "Qual é a diferença entre servo e escravizado?",
+   "verso": "O servo estava preso à terra e devia obrigações ao senhor, mas não era propriedade dele nem podia ser vendido isoladamente."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-21",
+   "frente": "Quais eram as obrigações servis no feudalismo?",
+   "verso": "Corveia (trabalho gratuito nas terras do senhor), talha (parte da produção) e banalidades (uso pago de moinho, forno e ponte)."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-22",
+   "frente": "Como se dividia a sociedade feudal segundo a concepção medieval?",
+   "verso": "Entre os que oram (clero), os que guerreiam (nobreza) e os que trabalham (servos) — uma ordem tida como divinamente estabelecida."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-23",
+   "frente": "Qual era o papel da Igreja na Idade Média?",
+   "verso": "Deteve poder espiritual, econômico e político: legitimava a ordem social, era grande proprietária de terras e monopolizava o saber letrado."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-24",
+   "frente": "O que foram as Cruzadas?",
+   "verso": "As expedições militares cristãs entre os séculos XI e XIII para retomar a Terra Santa, com motivações também econômicas e territoriais."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-25",
+   "frente": "Que consequências as Cruzadas tiveram para a Europa?",
+   "verso": "Reabriram o Mediterrâneo ao comércio, enfraqueceram a nobreza feudal e favoreceram o renascimento comercial e urbano."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-26",
+   "frente": "O que foi a Escolástica?",
+   "verso": "A corrente filosófica medieval que buscava conciliar fé e razão, tendo em Tomás de Aquino seu maior expoente."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-27",
+   "frente": "Qual foi a importância dos mosteiros na Idade Média?",
+   "verso": "Preservaram e copiaram obras da Antiguidade, mantendo viva a cultura escrita num período de baixa alfabetização."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-28",
+   "frente": "Qual foi a contribuição do mundo islâmico medieval?",
+   "verso": "Avanços em matemática, medicina, astronomia e filosofia, além da preservação e transmissão de obras gregas ao Ocidente."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-29",
+   "frente": "O que foi o califado?",
+   "verso": "A forma de governo islâmica que reunia autoridade política e religiosa sob o califa, sucessor de Maomé."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-30",
+   "frente": "O que foi a Peste Negra?",
+   "verso": "A epidemia de peste bubônica que, a partir de 1347, matou cerca de um terço da população europeia."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-31",
+   "frente": "Que efeitos sociais a Peste Negra produziu?",
+   "verso": "A escassez de mão de obra elevou o valor do trabalho servil, enfraquecendo os laços de servidão e alimentando revoltas camponesas."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-32",
+   "frente": "O que foi o renascimento comercial e urbano?",
+   "verso": "A retomada do comércio a partir do século XI, com o surgimento dos burgos, das feiras e de uma nova camada social, a burguesia."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-33",
+   "frente": "O que eram as corporações de ofício?",
+   "verso": "Associações de artesãos de um mesmo ramo que regulavam produção, preços, qualidade e aprendizagem nas cidades medievais."
+  },
+  {
+   "id": "flash-historia-geral-antiga-medieval-34",
+   "frente": "O que foi a Guerra dos Cem Anos?",
+   "verso": "O conflito entre França e Inglaterra (1337-1453) que contribuiu para a formação da consciência nacional e para o fortalecimento das monarquias."
+  }
+ ],
  "geografia-populacao-urbana": [
   {
    "id": "flash-geografia-populacao-urbana-01",

@@ -4167,6 +4167,198 @@
    "explicacao": "A reincidência prisional revela que o egresso não encontra condições reais de reinserção social após cumprir pena; sob a ótica da cidadania e dos direitos humanos, isso aponta para a ausência de políticas públicas de inclusão e igualdade social, e não para mais repressão, vigilância ou isolamento.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-201",
+   "texto_apoio": "Um conjunto de pessoas se organiza de forma relativamente duradoura, com objetivos e reivindicações comuns, para pressionar por mudanças sociais ou políticas, fora dos canais institucionais tradicionais de representação.",
+   "enunciado": "Esse tipo de organização coletiva, estudado pela sociologia como categoria própria, é conhecido como:",
+   "alternativas": {
+    "a": "movimento social, forma de organização coletiva relativamente duradoura voltada a pressionar por mudanças sociais ou políticas",
+    "b": "grupo de pressão econômico, associação voltada exclusivamente à defesa de interesses comerciais de um setor específico",
+    "c": "partido político, organização voltada à disputa formal de cargos eletivos dentro das regras do sistema representativo",
+    "d": "burocracia estatal, estrutura organizada em torno de regras formais e hierarquia de cargos dentro do aparato do Estado",
+    "e": "corporação profissional, associação que regula o exercício de determinada profissão e representa formalmente seus membros perante o Estado"
+   },
+   "resposta": "a",
+   "explicacao": "Movimento social é a categoria sociológica para formas de organização coletiva relativamente duradouras, voltadas a pressionar por mudanças sociais ou políticas fora dos canais formais de representação — diferente de partidos (c) e corporações profissionais (e), que atuam dentro de estruturas institucionais já estabelecidas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-202",
+   "texto_apoio": "Ao longo do século 20, sucessivas organizações reuniram pessoas negras no Brasil para denunciar o racismo e reivindicar políticas de reparação e de igualdade racial, num processo de mobilização que se intensificou a partir dos anos 1970 e 1980.",
+   "enunciado": "Esse processo de mobilização, na categoria sociológica que descreve organizações coletivas voltadas a uma pauta específica de mudança social, é um exemplo de:",
+   "alternativas": {
+    "a": "instituição religiosa, organização voltada à prática e à transmissão de crenças e rituais entre seus membros e fiéis",
+    "b": "movimento negro, mobilização coletiva voltada à denúncia do racismo e à reivindicação de políticas de igualdade racial",
+    "c": "sindicato patronal, entidade que representa os interesses de empregadores de determinado setor econômico do país",
+    "d": "corporação profissional, associação que regula o exercício de determinada profissão e representa seus membros formalmente",
+    "e": "burocracia estatal, estrutura organizada em torno de regras formais e hierarquia de cargos dentro do aparato do Estado"
+   },
+   "resposta": "b",
+   "explicacao": "O movimento negro é um exemplo clássico de movimento social: mobilização coletiva relativamente duradoura, voltada a uma pauta específica — no caso, a denúncia do racismo e a reivindicação de políticas de igualdade racial. As demais alternativas descrevem outros tipos de organização social real, sem essa característica de mobilização por mudança.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-203",
+   "texto_apoio": "Ao longo de mais de um século, sucessivas mobilizações reuniram mulheres em torno de pautas que foram desde o direito ao voto até a igualdade salarial e o combate à violência doméstica, cada fase marcada por reivindicações próprias do seu contexto histórico.",
+   "enunciado": "Essa sucessão histórica de mobilizações, com pautas específicas para cada fase, é um exemplo do que a sociologia chama de:",
+   "alternativas": {
+    "a": "capital social, conjunto de redes de confiança e cooperação que facilitam a ação coletiva dentro de uma comunidade",
+    "b": "instituição familiar, organização social voltada à socialização primária e ao cuidado dos membros de um mesmo núcleo",
+    "c": "movimento feminista, mobilização histórica organizada em fases sucessivas, cada uma com pautas próprias do seu contexto",
+    "d": "controle social, conjunto de mecanismos que regulam o comportamento dos indivíduos dentro de uma sociedade organizada e estável",
+    "e": "burocracia estatal, estrutura organizada em torno de regras formais e hierarquia de cargos dentro do aparato do Estado"
+   },
+   "resposta": "c",
+   "explicacao": "O movimento feminista é organizado historicamente em fases sucessivas — as chamadas ondas —, cada uma concentrada em pautas específicas do seu momento histórico, do voto à violência doméstica. As demais alternativas nomeiam outros conceitos sociológicos reais, sem essa organização histórica em fases de mobilização.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-204",
+   "texto_apoio": "Um conjunto relativamente estável de normas, papéis e expectativas organiza a criação dos filhos, a transmissão de valores e o cuidado material dos seus membros, reproduzindo-se ao longo de gerações apesar de mudanças na sua composição.",
+   "enunciado": "Esse conjunto estável de normas e papéis, estudado pela sociologia como uma das principais estruturas de socialização, é conhecido como:",
+   "alternativas": {
+    "a": "ação coletiva, esforço conjunto de vários indivíduos voltado à obtenção de um benefício compartilhado entre todos",
+    "b": "movimento social, forma de organização coletiva relativamente duradoura voltada a pressionar por mudanças sociais ou políticas específicas",
+    "c": "capital social, conjunto de redes de confiança e cooperação que facilitam a ação coletiva dentro de uma comunidade",
+    "d": "instituição familiar, estrutura relativamente estável de normas e papéis voltada à socialização e ao cuidado de seus membros",
+    "e": "sociedade civil, conjunto de organizações e associações que atuam fora do aparato do Estado e do mercado"
+   },
+   "resposta": "d",
+   "explicacao": "A instituição familiar é uma das principais estruturas de socialização estudadas pela sociologia: um conjunto relativamente estável de normas e papéis que se reproduz ao longo de gerações, mesmo diante de mudanças na composição concreta de cada família. As demais alternativas nomeiam outros conceitos sociológicos reais, sem essa função específica de socialização primária.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-205",
+   "texto_apoio": "Além de ensinar conteúdos formais, um ambiente organizado transmite regras de convivência, disciplina de horários e valores compartilhados, preparando indivíduos para papéis sociais que vão além do que está escrito em qualquer currículo oficial.",
+   "enunciado": "Esse ambiente, analisado pela sociologia como instituição social responsável por parte da socialização dos indivíduos, é:",
+   "alternativas": {
+    "a": "os veículos de comunicação, conjunto de organizações voltadas à difusão de informação para um público amplo",
+    "b": "a família, instituição responsável pela socialização primária e pelo cuidado material dos seus membros desde o próprio nascimento",
+    "c": "o mercado de trabalho, conjunto de relações voltadas à troca de trabalho remunerado dentro de uma economia organizada",
+    "d": "o sistema penal, conjunto de instituições voltadas à aplicação de sanções a quem viola normas legais estabelecidas",
+    "e": "a escola, instituição que transmite, além de conteúdos formais, regras de convivência e valores compartilhados socialmente"
+   },
+   "resposta": "e",
+   "explicacao": "A escola como instituição ocupa lugar central na socialização secundária: além dos conteúdos formais do currículo, transmite regras de convivência, disciplina e valores compartilhados, complementando a socialização primária iniciada na família (b) e preparando o indivíduo para a participação social mais ampla. As demais alternativas descrevem outras instituições ou sistemas sociais reais, distintos dessa função escolar específica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-206",
+   "texto_apoio": "Um sociólogo britânico do século 20 propôs que a cidadania plena se desenvolve historicamente em três dimensões sucessivas: uma ligada às liberdades individuais perante a lei, outra ligada ao direito de participar das decisões políticas do país, e uma terceira ligada ao acesso a um mínimo de bem-estar econômico e social.",
+   "enunciado": "Essas três dimensões da cidadania, propostas por esse sociólogo, são conhecidas como direitos:",
+   "alternativas": {
+    "a": "civis, políticos e sociais, correspondendo respectivamente às liberdades individuais, à participação política e ao bem-estar econômico",
+    "b": "naturais, positivos e adquiridos, correspondendo à origem histórica de cada categoria de direito reconhecida pelo Estado",
+    "c": "individuais, coletivos e difusos, correspondendo ao número de titulares que cada categoria de direito pode ter simultaneamente reconhecido",
+    "d": "formais, materiais e processuais, correspondendo ao grau de efetividade prática de cada categoria de direito no cotidiano",
+    "e": "internos, externos e transnacionais, correspondendo ao âmbito territorial de aplicação de cada categoria de direito"
+   },
+   "resposta": "a",
+   "explicacao": "T. H. Marshall propôs que a cidadania plena se desenvolve historicamente em três dimensões: direitos civis (liberdades individuais perante a lei), direitos políticos (participação nas decisões do país) e direitos sociais (acesso a um mínimo de bem-estar econômico e social) — sequência associada ao desenvolvimento da cidadania moderna nas sociedades ocidentais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-207",
+   "texto_apoio": "Após a Segunda Guerra Mundial, diversos países europeus ampliaram a atuação do Estado na oferta de serviços de saúde, educação e seguridade, buscando garantir um patamar mínimo de bem-estar à população, independentemente da capacidade de pagamento de cada indivíduo.",
+   "enunciado": "Esse modelo de atuação estatal ampliada na garantia de bem-estar social é conhecido como:",
+   "alternativas": {
+    "a": "Estado mínimo, modelo de atuação estatal restrita à segurança pública e à garantia dos contratos entre particulares",
+    "b": "Estado de bem-estar social, modelo de atuação estatal ampliada voltado a garantir um patamar mínimo de bem-estar à população",
+    "c": "Estado patrimonialista, modelo em que a distinção entre bens públicos e bens privados do próprio governante é pouco definida na prática",
+    "d": "Estado confederado, modelo de organização territorial em que unidades politicamente autônomas se associam livremente",
+    "e": "Estado teocrático, modelo em que a autoridade política deriva diretamente de uma autoridade religiosa reconhecida"
+   },
+   "resposta": "b",
+   "explicacao": "O Estado de bem-estar social (welfare state) é o modelo de atuação estatal ampliada na oferta de saúde, educação e seguridade, consolidado em diversos países europeus após a Segunda Guerra Mundial, buscando garantir um patamar mínimo de bem-estar independentemente da renda individual. As demais alternativas nomeiam outros modelos reais de organização estatal, distintos desse.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-208",
+   "texto_apoio": "Uma organização sem fins lucrativos, formada por cidadãos comuns e independente tanto do governo quanto de empresas privadas, atua na defesa do meio ambiente, financiada por doações e voluntariado.",
+   "enunciado": "Esse tipo de organização, situada fora do Estado e do mercado, integra o que a sociologia chama de:",
+   "alternativas": {
+    "a": "setor privado, conjunto de empresas voltadas à produção de bens e serviços com finalidade de obtenção de lucro",
+    "b": "setor público, conjunto de órgãos e entidades vinculados diretamente à administração direta ou indireta do Estado",
+    "c": "terceiro setor, conjunto de organizações sem fins lucrativos que atuam fora tanto do Estado quanto do mercado",
+    "d": "órgão público, entidade vinculada diretamente à administração do governo, sem autonomia financeira própria",
+    "e": "corporação profissional, associação que regula o exercício de determinada profissão e representa seus membros formalmente"
+   },
+   "resposta": "c",
+   "explicacao": "O terceiro setor reúne organizações sem fins lucrativos, como ONGs, situadas fora tanto do Estado (primeiro setor) quanto do mercado (segundo setor), financiadas por doações, voluntariado ou parcerias — parte do que a sociologia também chama de sociedade civil organizada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-209",
+   "texto_apoio": "Numa disputa sindical, todos os trabalhadores de uma categoria se beneficiariam de um reajuste salarial conquistado por meio de greve, mas cada trabalhador individualmente tem incentivo para não participar da paralisação, evitando o risco pessoal e ainda assim usufruindo do benefício conquistado pelos demais.",
+   "enunciado": "Esse dilema, em que cada indivíduo tem incentivo para não contribuir enquanto se beneficia do esforço coletivo dos outros, é conhecido na sociologia e na ciência política como:",
+   "alternativas": {
+    "a": "reprodução social, processo pelo qual desigualdades de uma geração se transmitem à geração seguinte dentro de uma sociedade",
+    "b": "efeito manada, fenômeno em que indivíduos imitam o comportamento coletivo sem avaliar criticamente cada decisão",
+    "c": "captura regulatória, fenômeno em que um órgão regulador passa a atender aos interesses do setor que deveria fiscalizar",
+    "d": "problema do carona (free-rider), dilema em que o indivíduo se beneficia de um bem coletivo sem contribuir para produzi-lo",
+    "e": "dominação burocrática, forma de exercício do poder baseada em regras impessoais e numa hierarquia formal de cargos"
+   },
+   "resposta": "d",
+   "explicacao": "O problema do carona (free-rider) descreve justamente essa situação: cada indivíduo tem incentivo racional para não contribuir com um esforço coletivo, já que se beneficiará do resultado mesmo sem participar — um dos principais obstáculos teóricos à ação coletiva bem-sucedida. As demais alternativas nomeiam outros conceitos sociológicos reais, sem esse mecanismo específico de incentivo individual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-210",
+   "texto_apoio": "Um pesquisador constatou que comunidades com maior densidade de redes de confiança interpessoal, associações voluntárias e hábitos de cooperação entre vizinhos tendiam a ter instituições públicas mais eficazes e maior participação cívica.",
+   "enunciado": "Esse conjunto de redes de confiança e cooperação, associado a melhores resultados institucionais e cívicos, é conhecido como:",
+   "alternativas": {
+    "a": "aversão ao risco, tendência individual de evitar decisões que envolvam incerteza ou possível prejuízo pessoal",
+    "b": "prestígio pessoal, reconhecimento e admiração conferidos a um indivíduo por seus pares dentro de um grupo específico",
+    "c": "capital econômico, conjunto de recursos financeiros e materiais que um indivíduo ou uma família possui reunidos num dado momento",
+    "d": "renda per capita, valor médio de renda disponível por habitante de uma determinada região num certo período",
+    "e": "capital social, conjunto de redes de confiança e cooperação entre indivíduos que facilita a ação coletiva numa comunidade"
+   },
+   "resposta": "e",
+   "explicacao": "Capital social é o conceito que descreve redes de confiança interpessoal, associações voluntárias e hábitos de cooperação que facilitam a ação coletiva numa comunidade, associado por pesquisas empíricas a instituições públicas mais eficazes e maior participação cívica. As demais alternativas nomeiam outros conceitos sociológicos reais, distintos desse tipo específico de capital.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-211",
+   "texto_apoio": "A partir dos anos 1960 e 1970, organizações em diversos países passaram a se mobilizar em torno da denúncia da poluição industrial, do desmatamento e das mudanças climáticas, pressionando governos e empresas por políticas de proteção da natureza.",
+   "enunciado": "Essa mobilização coletiva voltada à proteção da natureza é um exemplo do que a sociologia classifica como:",
+   "alternativas": {
+    "a": "movimento ambientalista, mobilização coletiva voltada à denúncia de danos ambientais e à pressão por políticas de proteção da natureza",
+    "b": "instituição religiosa, organização voltada à prática e à transmissão de crenças e rituais entre seus membros e fiéis",
+    "c": "burocracia estatal, estrutura organizada em torno de regras formais e hierarquia de cargos dentro do aparato do Estado",
+    "d": "corporação profissional, associação que regula o exercício de determinada profissão e representa formalmente seus membros perante o Estado",
+    "e": "sindicato patronal, entidade que representa os interesses de empregadores de determinado setor econômico do país"
+   },
+   "resposta": "a",
+   "explicacao": "O movimento ambientalista, consolidado a partir das décadas de 1960 e 1970, é a categoria sociológica para essa mobilização coletiva voltada à denúncia de danos ambientais e à pressão por políticas de proteção da natureza junto a governos e empresas. As demais alternativas descrevem outros tipos de organização social real, sem essa pauta ambiental específica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-212",
+   "texto_apoio": "Em diferentes momentos históricos, estudantes secundaristas e universitários organizaram ocupações de escolas e universidades, greves e passeatas para reivindicar desde melhorias na educação pública até mudanças políticas mais amplas na sociedade.",
+   "enunciado": "Essa forma de mobilização coletiva, protagonizada por estudantes em torno de pautas educacionais e políticas, é conhecida como movimento:",
+   "alternativas": {
+    "a": "sindical, mobilização coletiva protagonizada por trabalhadores organizados em torno de pautas trabalhistas e salariais",
+    "b": "estudantil, mobilização coletiva protagonizada por estudantes em torno de pautas educacionais e políticas mais amplas",
+    "c": "ambientalista, mobilização coletiva voltada à denúncia de danos ambientais e à pressão por políticas de proteção da natureza",
+    "d": "negro, mobilização coletiva voltada à denúncia do racismo e à reivindicação de políticas de igualdade racial",
+    "e": "feminista, mobilização histórica organizada em fases sucessivas, cada uma com pautas próprias do seu contexto histórico"
+   },
+   "resposta": "b",
+   "explicacao": "O movimento estudantil é a categoria sociológica para a mobilização coletiva protagonizada por estudantes secundaristas e universitários, com pautas que vão de melhorias educacionais a mudanças políticas mais amplas, expressas por ocupações, greves e passeatas. As demais alternativas nomeiam outros movimentos sociais reais, com protagonistas e pautas distintas.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ]
 }

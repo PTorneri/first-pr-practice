@@ -4937,6 +4937,111 @@
    "explicacao": "Não há erro de gramática: as frases estão bem formadas. O que falha é a escolha do registro — \"galera\" e \"se liguem\" pertencem à conversa informal e destoam de um comunicado institucional.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-151",
+   "enunciado": "Considere o período: \"Chegaram atrasados o coordenador e sua equipe.\" A forma verbal empregada obedece à regra de concordância verbal segundo a qual:",
+   "alternativas": {
+    "a": "o verbo permanece no singular quando o sujeito composto vem posposto, acompanhando o núcleo mais próximo",
+    "b": "o verbo vai ao plural por causa do sujeito composto, ainda que ele apareça depois da forma verbal",
+    "c": "o verbo concorda com a expressão que encabeça o período, o que determina a flexão de número adotada",
+    "d": "a concordância se faz com o termo que caracteriza o sujeito e comanda a flexão empregada na frase",
+    "e": "trata-se de sujeito indeterminado, situação em que o verbo assume a terceira pessoa do plural na escrita"
+   },
+   "resposta": "b",
+   "explicacao": "Com sujeito composto posposto ao verbo, a norma admite o plural, que é a forma preferida, ou a concordância com o núcleo mais próximo. Em \"Chegaram atrasados o coordenador e sua equipe\", o plural retoma os dois núcleos do sujeito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-152",
+   "enunciado": "Na frase \"Havia muitos candidatos na sala\", o verbo permanece no singular. Se \"haver\" fosse substituído por \"existir\", a forma adequada seria \"Existiam muitos candidatos na sala\". A diferença de concordância se explica porque:",
+   "alternativas": {
+    "a": "\"existir\" é verbo impessoal e por isso não admite flexão de número em construções desse tipo",
+    "b": "\"haver\" exige complemento no singular, o que impede a flexão da forma verbal em contextos semelhantes",
+    "c": "os dois verbos são impessoais, e a diferença de flexão decorre de preferência ligada ao registro formal",
+    "d": "\"haver\" no sentido de existir é impessoal e não tem sujeito, enquanto \"existir\" concorda com seu sujeito",
+    "e": "\"existir\" apresenta sujeito indeterminado, situação em que a flexão de plural se torna a escolha adequada"
+   },
+   "resposta": "d",
+   "explicacao": "\"Haver\" no sentido de existir é impessoal: não tem sujeito, e \"muitos candidatos\" é objeto direto, então o verbo fica na terceira pessoa do singular. \"Existir\" tem sujeito, e com ele concorda em número.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-153",
+   "enunciado": "Em placas comerciais é comum ler \"Vende-se casas\". Pela norma-padrão, a forma adequada é \"Vendem-se casas\", porque nessa construção:",
+   "alternativas": {
+    "a": "o \"se\" funciona como índice de indeterminação do sujeito, o que exige o verbo na terceira pessoa do singular",
+    "b": "o \"se\" indica reciprocidade entre os elementos citados, o que dispensa a flexão de número no verbo",
+    "c": "o \"se\" é pronome reflexivo e \"casas\" recebe a ação praticada, sem interferir na flexão do verbo",
+    "d": "o \"se\" integra a forma verbal e o conjunto permanece invariável, à maneira das construções cristalizadas",
+    "e": "o \"se\" é partícula apassivadora e \"casas\" é o sujeito, com o qual o verbo concorda em número"
+   },
+   "resposta": "e",
+   "explicacao": "\"Vendem-se casas\" equivale a \"Casas são vendidas\": o \"se\" é partícula apassivadora e \"casas\" é o sujeito paciente. Como o sujeito está no plural, o verbo concorda com ele e vai ao plural.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-154",
+   "enunciado": "Uma servidora anexou duas planilhas a um e-mail e encerrou a mensagem com uma fórmula de agradecimento. De acordo com a concordância nominal, a redação adequada é:",
+   "alternativas": {
+    "a": "\"Seguem anexo as duas planilhas\" e \"Muito obrigado\", formas que permanecem invariáveis nesse contexto",
+    "b": "\"Seguem anexo as duas planilhas\" e \"Muito obrigada\", ajustando ao gênero apenas a palavra final da mensagem",
+    "c": "\"Seguem anexas as duas planilhas\" e \"Muito obrigado\", já que a segunda expressão permanece na forma masculina nas situações de cortesia formal",
+    "d": "\"Seguem anexas as duas planilhas\" e \"Muito obrigada\", pois as duas palavras concordam com os termos a que se ligam",
+    "e": "\"Seguem em anexo as duas planilhas\" e \"Muito obrigado\", construções fixas da correspondência oficial escrita"
+   },
+   "resposta": "d",
+   "explicacao": "\"Anexo\" é adjetivo e concorda com \"planilhas\": anexas. \"Obrigado\" também concorda com quem agradece; dita por uma mulher, a forma é \"obrigada\". As duas palavras variam em gênero e número.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-155",
+   "enunciado": "Na frase \"A maioria dos manifestantes permaneceu na praça até o fim da tarde\", a forma verbal está no singular. Sobre essa construção, a norma admite que:",
+   "alternativas": {
+    "a": "apenas o singular seja empregado, pois o núcleo do sujeito é \"maioria\", com o qual o verbo concorda",
+    "b": "somente o plural seja aceito, uma vez que a noção de pluralidade do conjunto se sobrepõe à forma do núcleo do sujeito",
+    "c": "tanto o singular quanto o plural sejam empregados, já que o verbo pode concordar com o núcleo ou com o especificador",
+    "d": "a flexão dependa da posição do sujeito na frase, sendo o plural reservado às construções em que ele vem antes",
+    "e": "a concordância se faça com o adjunto que encerra o período, elemento que fixa o número da forma verbal"
+   },
+   "resposta": "c",
+   "explicacao": "Com expressões partitivas como \"a maioria de\", \"grande parte de\" e \"metade de\" seguidas de termo no plural, a norma aceita as duas concordâncias: com o núcleo singular (\"permaneceu\") ou com o especificador plural (\"permaneceram\").",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-156",
+   "enunciado": "Considere: \"Ela estava meio cansada\" e \"Havia bastantes motivos para a demora\". Nas duas frases a concordância nominal foi respeitada porque:",
+   "alternativas": {
+    "a": "\"meio\" permanece invariável no sentido de \"um pouco\", e \"bastantes\" concorda em número com o termo a que se liga",
+    "b": "\"meio\" concorda em gênero com o termo seguinte, e \"bastantes\" permanece invariável nessa construção da norma escrita",
+    "c": "as duas palavras permanecem invariáveis, sem flexão de número, em construções desse tipo",
+    "d": "as duas palavras concordam com o termo que acompanham, recebendo a flexão de plural correspondente",
+    "e": "\"meio\" concorda com o sujeito simples da oração, e \"bastantes\" acompanha a flexão do verbo anterior"
+   },
+   "resposta": "a",
+   "explicacao": "\"Meio\" com sentido de \"um pouco\" não varia: \"meio cansada\". Já \"bastantes\" acompanha um nome e por isso concorda em número com ele: \"bastantes motivos\". A concordância nominal separa os dois casos pela função que cada palavra exerce.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-157",
+   "enunciado": "Na frase \"Foram entregues aos moradores as chaves dos novos apartamentos\", a concordância do particípio se faz com:",
+   "alternativas": {
+    "a": "o termo \"aos moradores\", que recebe a ação expressa pela locução verbal empregada no período",
+    "b": "\"as chaves\", sujeito da oração na voz passiva, com o qual o particípio concorda em gênero e número",
+    "c": "o agente da ação, elemento que permanece subentendido no período e comanda a flexão do particípio",
+    "d": "o verbo auxiliar, que fixa a forma do particípio de modo independente dos demais termos da oração",
+    "e": "nenhum termo específico, já que o particípio em locuções verbais permanece invariável na norma escrita"
+   },
+   "resposta": "b",
+   "explicacao": "Na voz passiva analítica, o particípio concorda com o sujeito paciente. O sujeito é \"as chaves\", feminino plural, e por isso a forma é \"entregues\", assim como o auxiliar vai ao plural: \"foram\".",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ]
 }

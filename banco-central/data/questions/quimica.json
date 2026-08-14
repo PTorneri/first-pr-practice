@@ -4959,6 +4959,186 @@
    "explicacao": "O metal usado como proteção catódica (metal de sacrifício) deve ser mais reativo (mais eletropositivo) do que o ferro para se oxidar preferencialmente em seu lugar; entre os citados, o magnésio (mais reativo, usado em pontos estratégicos como ânodo de sacrifício) e o zinco (usado revestindo toda a peça, galvanização) atendem a essa condição, diferente do estanho, menos reativo que o ferro.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-quimica-311",
+   "enunciado": "O soro fisiológico usado em hospitais é uma solução aquosa em que o soluto é o cloreto de sódio, na concentração comum de 9 g/L. Um frasco de uso hospitalar contém 500 mL dessa solução. A massa de soluto dissolvida nesse frasco é de:",
+   "alternativas": {
+    "a": "0,45 g, valor obtido quando se considera que o volume do frasco corresponde a um décimo do volume de referência indicado",
+    "b": "1,8 g, resultado da divisão da concentração comum pelo volume do frasco hospitalar expresso em mililitros",
+    "c": "4,5 g, metade da massa que estaria dissolvida em um litro dessa mesma solução aquosa",
+    "d": "9,0 g, a mesma massa presente em um litro, já que a redução do volume não altera a quantidade de soluto",
+    "e": "18 g, o dobro da massa correspondente a um litro da solução, em razão da redução do volume do frasco"
+   },
+   "resposta": "c",
+   "explicacao": "Na concentração comum, C = m/V. Com C = 9 g/L e V = 0,5 L, tem-se m = 9 × 0,5 = 4,5 g. Metade do volume de referência carrega metade da massa de soluto dissolvida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-quimica-312",
+   "enunciado": "Em um laboratório, 50 mL de uma solução aquosa de sulfato de cobre a 40 g/L foram transferidos para um balão volumétrico, e o volume foi completado com água destilada até 200 mL. Após essa diluição, a concentração da solução obtida é de:",
+   "alternativas": {
+    "a": "10 g/L, pois a massa de soluto permanece a mesma enquanto o volume final se torna quatro vezes maior",
+    "b": "20 g/L, valor correspondente à metade da concentração inicial, proporção equivalente à do volume acrescentado ao balão",
+    "c": "40 g/L, já que o acréscimo de solvente não interfere na relação entre a massa dissolvida e o volume ocupado",
+    "d": "80 g/L, resultado do produto entre a concentração inicial e a razão entre os volumes medidos no procedimento",
+    "e": "160 g/L, valor que corresponde à concentração inicial multiplicada pelo fator de variação do volume final"
+   },
+   "resposta": "a",
+   "explicacao": "Na diluição, a massa de soluto não muda: C₁V₁ = C₂V₂. Assim, 40 × 50 = C₂ × 200, e C₂ = 10 g/L. Acrescentar solvente aumenta o volume e reduz a concentração na mesma proporção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-quimica-313",
+   "enunciado": "A solubilidade do nitrato de potássio em água é de 32 g por 100 g de água a 20 °C. Um estudante adicionou 50 g desse sal a 100 g de água nessa temperatura e agitou o sistema até que não houvesse mais dissolução. Ao final do procedimento, ele obteve:",
+   "alternativas": {
+    "a": "uma solução insaturada contendo os 50 g adicionados, já que a água ainda apresentava capacidade de receber mais material",
+    "b": "uma solução saturada com os 50 g dissolvidos, pois a agitação prolongada eleva a capacidade de dissolução do solvente",
+    "c": "duas fases líquidas distintas, cada uma com concentração diferente do material adicionado ao sistema pelo estudante",
+    "d": "uma solução supersaturada estável, formada pela adição de massa superior ao limite indicado para essa temperatura",
+    "e": "uma solução saturada com 32 g dissolvidos e 18 g de corpo de fundo depositados no recipiente"
+   },
+   "resposta": "e",
+   "explicacao": "A 20 °C, 100 g de água dissolvem no máximo 32 g do sal. Dos 50 g adicionados, 32 g formam a solução saturada e os 18 g restantes permanecem como corpo de fundo, sem se dissolver.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-quimica-314",
+   "enunciado": "Em regiões de inverno rigoroso, adiciona-se etilenoglicol à água do radiador dos veículos. O efeito buscado é o abaixamento da temperatura de congelamento do líquido, uma propriedade coligativa que também se manifesta na redução da pressão de vapor. Esse abaixamento ocorre porque a presença do soluto não volátil:",
+   "alternativas": {
+    "a": "eleva a agitação das partículas do solvente, o que desloca a temperatura em que as fases líquida e sólida do sistema passam a coexistir no radiador",
+    "b": "dificulta a organização das moléculas do solvente na estrutura cristalina do sólido, exigindo temperatura mais baixa",
+    "c": "aumenta a quantidade de calor liberada durante a mudança de estado do material presente no radiador",
+    "d": "reduz a massa de solvente disponível, alterando a proporção entre as substâncias que compõem a mistura",
+    "e": "modifica a natureza química do solvente e o transforma em substância de comportamento distinto do original"
+   },
+   "resposta": "b",
+   "explicacao": "As propriedades coligativas dependem da quantidade de partículas de soluto dispersas, não de sua natureza. O soluto não volátil interfere na organização do solvente na rede cristalina, e o congelamento passa a exigir temperatura menor.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-quimica-315",
+   "enunciado": "A dessalinização da água do mar por osmose reversa emprega uma membrana semipermeável e pressão aplicada sobre a água salgada. O processo permite obter água com baixo teor de soluto porque a membrana:",
+   "alternativas": {
+    "a": "retém as moléculas de água e deixa passar o material dissolvido, que é recolhido do outro lado do sistema",
+    "b": "promove a evaporação seletiva do solvente, que é depois condensado em compartimento separado do equipamento",
+    "c": "reage com o material dissolvido e o converte em substâncias insolúveis, que ficam depositadas na superfície",
+    "d": "deixa passar o solvente e retém o material dissolvido, quando a pressão aplicada supera a pressão osmótica",
+    "e": "separa a mistura pela diferença de densidade entre as porções mais concentradas e as mais diluídas do líquido"
+   },
+   "resposta": "d",
+   "explicacao": "Na osmose espontânea, o solvente migra da região menos concentrada para a mais concentrada. Aplicando pressão maior que a osmótica, o sentido se inverte: o solvente atravessa a membrana e o soluto fica retido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-quimica-316",
+   "enunciado": "A datação por carbono-14 baseia-se no fato de que esse isótopo apresenta meia-vida de aproximadamente 5.730 anos. O carbono-14 e o carbono-12 têm o mesmo número atômico, mas números de massa diferentes. Essa diferença decorre de os dois:",
+   "alternativas": {
+    "a": "ocuparem posições distintas na tabela periódica, o que altera o comportamento de cada um deles nas combinações",
+    "b": "possuírem quantidades diferentes de nêutrons no núcleo, mantendo igual o número de prótons",
+    "c": "apresentarem número diferente de elétrons na camada de valência, o que modifica a massa total registrada",
+    "d": "terem se formado em processos distintos, o que resulta em variação da massa de cada partícula nuclear",
+    "e": "diferirem quanto à carga nuclear, propriedade que define a identidade química de cada elemento observado"
+   },
+   "resposta": "b",
+   "explicacao": "Isótopos de um mesmo elemento têm igual número atômico (prótons) e diferentes números de massa, porque variam na quantidade de nêutrons. O carbono-14 tem 6 prótons e 8 nêutrons; o carbono-12, 6 prótons e 6 nêutrons.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-quimica-317",
+   "enunciado": "O cloreto de sódio conduz corrente elétrica quando fundido, enquanto a sacarose, mesmo fundida, não conduz. A explicação está no tipo de ligação presente em cada substância, associada à diferença de eletronegatividade entre os elementos que as formam. Assim:",
+   "alternativas": {
+    "a": "ambas apresentam ligação covalente, e a diferença observada decorre do tamanho das partículas envolvidas",
+    "b": "o cloreto de sódio apresenta ligação metálica, com elétrons livres percorrendo a estrutura do material fundido",
+    "c": "a sacarose apresenta ligação iônica fraca, insuficiente para permitir a movimentação de carga no estado líquido",
+    "d": "o cloreto de sódio apresenta ligação iônica, e no estado fundido seus íons adquirem mobilidade e conduzem",
+    "e": "as duas substâncias apresentam ligação de hidrogênio, que responde pela condução em apenas um dos casos"
+   },
+   "resposta": "d",
+   "explicacao": "A grande diferença de eletronegatividade entre sódio e cloro produz ligação iônica. No estado sólido os íons ocupam posições fixas no retículo; fundidos, ganham mobilidade e conduzem corrente. A sacarose é molecular e não gera íons livres.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-quimica-318",
+   "enunciado": "As moléculas de dióxido de carbono e de água apresentam geometria molecular diferente: a primeira é linear e a segunda, angular. Embora as duas tenham ligações do tipo covalente entre átomos de eletronegatividade distinta, apenas a água é uma molécula polar. Isso ocorre porque:",
+   "alternativas": {
+    "a": "no dióxido de carbono os vetores de dipolo se anulam pela simetria da geometria linear",
+    "b": "as ligações presentes no dióxido de carbono apresentam caráter iônico, e não covalente, ao contrário do previsto",
+    "c": "a água possui maior número de átomos, o que eleva de forma direta a intensidade do momento de dipolo obtido",
+    "d": "o oxigênio e o carbono apresentam eletronegatividade idêntica, o que elimina a separação de carga na ligação",
+    "e": "a geometria angular reduz a distância entre os núcleos e por isso diminui a polaridade final da estrutura"
+   },
+   "resposta": "a",
+   "explicacao": "No CO₂ os dois dipolos das ligações têm mesma intensidade e sentidos opostos, e a simetria linear os anula: a molécula é apolar. Na água, a geometria angular impede o cancelamento, e o momento de dipolo resultante é diferente de zero.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-quimica-319",
+   "enunciado": "A água apresenta temperatura de ebulição bem mais alta que a do gás sulfídrico, embora os dois compostos tenham fórmulas semelhantes e o segundo possua maior massa. A explicação está nas forças intermoleculares presentes na água, que incluem:",
+   "alternativas": {
+    "a": "interações do tipo dipolo induzido, mais intensas por causa do maior volume ocupado pelas moléculas do composto",
+    "b": "forças de van der Waals de intensidade elevada, decorrentes da diferença de massa entre os dois compostos citados",
+    "c": "ligação de hidrogênio entre moléculas vizinhas, interação mais intensa que as presentes no gás sulfídrico",
+    "d": "ligação metálica entre os átomos de oxigênio, responsável pela coesão observada no estado líquido do material",
+    "e": "atração entre íons de cargas opostas, formados pela separação espontânea das moléculas no estado líquido"
+   },
+   "resposta": "c",
+   "explicacao": "A alta eletronegatividade do oxigênio e seu par de elétrons não ligantes permitem ligações de hidrogênio entre moléculas de água, bem mais intensas que as forças que atuam no H₂S. Romper essa rede exige mais energia, e a ebulição ocorre a temperatura maior.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-quimica-320",
+   "enunciado": "Ao percorrer um período da tabela periódica da esquerda para a direita, observa-se tendência de redução do raio atômico dos elementos, ainda que o número de elétrons aumente. Essa tendência se explica porque, ao longo do período:",
+   "alternativas": {
+    "a": "os elétrons acrescentados ocupam camadas cada vez mais internas, aproximando-se do núcleo de cada átomo",
+    "b": "a massa dos átomos aumenta e comprime a eletrosfera por efeito do acréscimo de partículas no núcleo",
+    "c": "a repulsão entre os elétrons da camada mais externa diminui de forma acentuada, o que reduz o volume ocupado pela eletrosfera",
+    "d": "o número de camadas permanece o mesmo enquanto a carga nuclear cresce, atraindo mais fortemente a eletrosfera",
+    "e": "os elementos passam a apresentar caráter metálico crescente, propriedade associada a átomos de menor volume"
+   },
+   "resposta": "d",
+   "explicacao": "Dentro de um período, os elétrons entram na mesma camada de valência enquanto o número de prótons aumenta. A carga nuclear maior atrai a eletrosfera com mais intensidade, e o raio atômico diminui.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-quimica-321",
+   "enunciado": "Um átomo neutro possui 17 prótons. Ao se combinar, ele tende a receber um elétron e atingir configuração eletrônica semelhante à de um gás nobre. Sobre esse elemento, é correto afirmar que ele pertence:",
+   "alternativas": {
+    "a": "à família dos metais alcalinos, com forte tendência a ceder elétrons em suas combinações químicas usuais",
+    "b": "à família dos halogênios, no terceiro período, e apresenta sete elétrons na camada de valência",
+    "c": "à família dos gases nobres, já que atinge estabilidade sem participar de combinações com outros elementos",
+    "d": "ao grupo dos metais de transição, com camada de valência incompleta e vários estados de combinação possíveis",
+    "e": "à família dos calcogênios, no segundo período, com seis elétrons disponíveis para as ligações que estabelece"
+   },
+   "resposta": "b",
+   "explicacao": "Com 17 prótons, a distribuição eletrônica termina em 3s² 3p⁵: sete elétrons na camada de valência e três camadas ocupadas. É o cloro, halogênio do terceiro período, que completa o octeto recebendo um elétron.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-quimica-322",
+   "enunciado": "Os metais conduzem bem a eletricidade e podem ser transformados em fios e lâminas sem se romper. Esse conjunto de propriedades é atribuído à ligação metálica, cuja característica, associada à baixa eletronegatividade desses elementos, é a presença de:",
+   "alternativas": {
+    "a": "pares de elétrons compartilhados de modo localizado entre dois átomos vizinhos da estrutura cristalina",
+    "b": "íons de cargas opostas dispostos em posições fixas de um retículo rígido e bem definido, sem mobilidade entre eles",
+    "c": "interações fracas entre moléculas neutras, que se deslocam com facilidade umas em relação às outras",
+    "d": "elétrons compartilhados entre átomos de eletronegatividade muito diferente, o que gera polos bem definidos",
+    "e": "cátions imersos em elétrons deslocalizados, que percorrem o retículo e permitem o deslizamento das camadas"
+   },
+   "resposta": "e",
+   "explicacao": "Na ligação metálica os elétrons de valência ficam deslocalizados por todo o retículo de cátions. Essa nuvem móvel explica a condução elétrica e permite que as camadas de cátions deslizem sob impacto sem que o material se rompa.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "textos": [

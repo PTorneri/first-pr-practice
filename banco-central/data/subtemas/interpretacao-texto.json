@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-13",
+ "gerado": "2026-08-14",
  "frente": "interpretacao-texto",
- "total": 360,
+ "total": 372,
  "residuo": [
   "dir-interpretacao-texto-10",
   "dir-interpretacao-texto-37",
@@ -1240,6 +1240,78 @@
    "subtema": "interpretacao-ideia-central",
    "frenteDestino": "interpretacao-texto",
    "cluster": true
+  },
+  "dir-interpretacao-texto-211": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-212": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-213": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-214": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-215": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 1
+  },
+  "dir-interpretacao-texto-216": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 8,
+   "margem": 8
+  },
+  "dir-interpretacao-texto-217": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-218": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 3
+  },
+  "dir-interpretacao-texto-219": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-220": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-interpretacao-texto-221": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-222": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
   },
   "med-interpretacao-texto-01": {
    "subtema": "interpretacao-genero-discurso",

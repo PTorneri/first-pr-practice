@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-13",
+ "gerado": "2026-08-14",
  "frente": "artes-cultura",
- "total": 250,
+ "total": 262,
  "residuo": [
   "dir-artes-cultura-46",
   "dir-artes-cultura-52",
@@ -1504,6 +1504,78 @@
    "subtema": "artes-classica-moderna",
    "frenteDestino": "artes-cultura",
    "padrao": true
+  },
+  "med-artes-251": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-artes-252": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-artes-253": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-artes-254": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-artes-255": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-artes-256": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-257": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-artes-258": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-259": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-260": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-artes-261": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 12,
+   "margem": 12
+  },
+  "med-artes-262": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
   }
  }
 }

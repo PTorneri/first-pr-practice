@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-13",
+ "gerado": "2026-08-14",
  "frente": "direitos-humanos",
- "total": 100,
+ "total": 148,
  "residuo": [
   "dir-direitos-humanos-09",
   "dir-direitos-humanos-27",
@@ -604,6 +604,294 @@
    "frenteDestino": "direitos-humanos",
    "pontos": 5,
    "margem": 0
+  },
+  "dir-direitos-humanos-101": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-102": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-103": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-104": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-105": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-direitos-humanos-106": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 19,
+   "margem": 19
+  },
+  "dir-direitos-humanos-107": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-108": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-direitos-humanos-109": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-direitos-humanos-110": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-111": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-112": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-direitos-humanos-113": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-direitos-humanos-114": {
+   "subtema": "dh-direitos-sociais",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-direitos-humanos-115": {
+   "subtema": "dh-direitos-sociais",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-direitos-humanos-116": {
+   "subtema": "dh-direitos-sociais",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-117": {
+   "subtema": "dh-direitos-sociais",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-118": {
+   "subtema": "dh-direitos-sociais",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-119": {
+   "subtema": "dh-direitos-sociais",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-120": {
+   "subtema": "dh-direitos-sociais",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-direitos-humanos-121": {
+   "subtema": "dh-direitos-sociais",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-direitos-humanos-122": {
+   "subtema": "dh-direitos-sociais",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-direitos-humanos-123": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-direitos-humanos-124": {
+   "subtema": "dh-direitos-sociais",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-125": {
+   "subtema": "dh-igualdade-discriminacao",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-126": {
+   "subtema": "dh-igualdade-discriminacao",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-direitos-humanos-127": {
+   "subtema": "dh-igualdade-discriminacao",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-128": {
+   "subtema": "dh-igualdade-discriminacao",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 15,
+   "margem": 10
+  },
+  "dir-direitos-humanos-129": {
+   "subtema": "dh-igualdade-discriminacao",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-130": {
+   "subtema": "dh-igualdade-discriminacao",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-131": {
+   "subtema": "dh-igualdade-discriminacao",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-direitos-humanos-132": {
+   "subtema": "dh-igualdade-discriminacao",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-133": {
+   "subtema": "dh-igualdade-discriminacao",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-134": {
+   "subtema": "dh-igualdade-discriminacao",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-135": {
+   "subtema": "dh-igualdade-discriminacao",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-136": {
+   "subtema": "dh-igualdade-discriminacao",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-direitos-humanos-137": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-138": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-139": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-140": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-141": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-direitos-humanos-142": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-direitos-humanos-143": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-144": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-direitos-humanos-145": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-146": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-direitos-humanos-147": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-148": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
   }
  }
 }

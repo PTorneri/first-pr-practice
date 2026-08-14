@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-13",
+ "gerado": "2026-08-14",
  "frente": "biologia",
- "total": 336,
+ "total": 360,
  "residuo": [
   "med-biologia-09",
   "med-biologia-39",
@@ -2019,6 +2019,150 @@
    "frenteDestino": "biologia",
    "pontos": 5,
    "margem": 1
+  },
+  "med-biologia-338": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-biologia-339": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-biologia-340": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-biologia-341": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-biologia-342": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-biologia-343": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-biologia-344": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-biologia-345": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 2
+  },
+  "med-biologia-346": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-biologia-347": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-biologia-348": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-biologia-349": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-biologia-350": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-biologia-351": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-biologia-352": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-biologia-353": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 8,
+   "margem": 3
+  },
+  "med-biologia-354": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-biologia-355": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-biologia-356": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-biologia-357": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-biologia-358": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-biologia-359": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 4,
+   "margem": 0
+  },
+  "med-biologia-360": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 5
+  },
+  "med-biologia-361": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 6
   }
  }
 }

@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-13",
+ "gerado": "2026-08-14",
  "frente": "ingles",
- "total": 420,
+ "total": 432,
  "residuo": [
   "med-ingles-44",
   "med-ingles-46",
@@ -2425,6 +2425,78 @@
    "subtema": "ingles-detail",
    "frenteDestino": "ingles",
    "padrao": true
+  },
+  "med-ingles-211": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-ingles-212": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-ingles-213": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-ingles-214": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-ingles-215": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-ingles-216": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-ingles-217": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-218": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-ingles-219": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-ingles-220": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-ingles-221": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-ingles-222": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 9,
+   "margem": 9
   }
  }
 }

@@ -6549,6 +6549,198 @@
    "explicacao": "O efeito estufa é um fenômeno natural essencial à vida; o problema é sua intensificação pelo excesso de gases emitidos desde meados do século 18, o que eleva a temperatura média acima da faixa histórica. O buraco na camada de ozônio (c) tem causa distinta, ligada a outro grupo de substâncias; e o aumento do nível do mar, não sua redução, é a consequência associada ao aquecimento (e).",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-401",
+   "texto_apoio": "Um mapa está desenhado na escala 1:50.000. Sobre esse mapa, a distância medida entre dois pontos com uma régua é de 4 cm.",
+   "enunciado": "A distância real entre esses dois pontos, no terreno, é de:",
+   "alternativas": {
+    "a": "200 m",
+    "b": "0,2 km",
+    "c": "20 km",
+    "d": "2 km",
+    "e": "20.000 km"
+   },
+   "resposta": "d",
+   "explicacao": "Na escala 1:50.000, cada centímetro do mapa corresponde a 50.000 cm no terreno. Multiplicando: 4 × 50.000 = 200.000 cm, que convertidos dão 2.000 m, ou 2 km. Erros de conversão de unidade (cm para km) levam às demais ordens de grandeza oferecidas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-402",
+   "texto_apoio": "Um mapa impresso traz duas informações sobre sua escala: uma fração numérica, como 1:100.000, e um segmento de reta dividido em partes, cada uma representando uma distância real no terreno.",
+   "enunciado": "Ao ampliar ou reduzir a cópia desse mapa num equipamento de fotocópia, a informação de escala que permanece confiável para medir distâncias é:",
+   "alternativas": {
+    "a": "a escala numérica, porque a fração 1:100.000 se ajusta automaticamente à nova proporção da cópia impressa",
+    "b": "apenas a legenda de símbolos, que substitui a necessidade de qualquer cálculo de escala após a ampliação do mapa",
+    "c": "nenhuma das duas, porque qualquer alteração no tamanho do mapa impresso invalida totalmente a leitura de distâncias",
+    "d": "as duas igualmente, porque tanto a fração numérica quanto o segmento de reta acompanham a nova proporção da cópia",
+    "e": "a escala gráfica, porque o segmento de reta é reduzido ou ampliado na mesma proporção que o restante do mapa"
+   },
+   "resposta": "e",
+   "explicacao": "A escala gráfica é um segmento desenhado sobre o mesmo mapa, por isso é ampliada ou reduzida na mesma proporção que todo o desenho ao fotocopiar. Já a escala numérica é apenas um texto fixo (1:100.000): se o mapa for ampliado ou reduzido, essa fração deixa de corresponder à nova proporção real do desenho, tornando a leitura de distâncias incorreta no mapa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-403",
+   "texto_apoio": "Um sistema de representação do globo terrestre num plano preserva os ângulos e é historicamente associado à navegação marítima, mas aumenta progressivamente as áreas à medida que se aproxima dos polos.",
+   "enunciado": "Esse sistema de representação cartográfica é conhecido como projeção:",
+   "alternativas": {
+    "a": "cônica, que projeta a superfície terrestre sobre um cone tangente ou secante ao longo de um paralelo específico",
+    "b": "azimutal, que projeta a superfície terrestre sobre um plano tangente a um único ponto de contato específico",
+    "c": "de Mercator, que preserva os ângulos e aumenta progressivamente as áreas representadas próximo aos polos",
+    "d": "de Peters, que preserva as áreas relativas dos continentes às custas de distorcer sua forma original",
+    "e": "de Robinson, que busca um compromisso visual entre distorção de área e de forma sem preservar nenhuma delas com exatidão"
+   },
+   "resposta": "c",
+   "explicacao": "A projeção de Mercator preserva ângulos (é conforme), o que a tornou útil para o traçado de rotas de navegação em linha reta, mas distorce progressivamente as áreas conforme se afasta do equador, fazendo a Groenlândia parecer do tamanho da África no mapa, quando é muito menor na realidade. As demais alternativas descrevem outras projeções cartográficas reais, com propriedades distintas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-404",
+   "texto_apoio": "Em resposta às distorções de área da projeção mais usada nos mapas-múndi tradicionais, uma projeção alternativa foi proposta com o objetivo de representar países pobres e países ricos com o tamanho proporcionalmente correto entre si.",
+   "enunciado": "Essa projeção alternativa, que preserva as áreas relativas dos continentes à custa de distorcer sua forma, é conhecida como projeção de:",
+   "alternativas": {
+    "a": "Mercator, projeção que preserva os ângulos e distorce progressivamente as áreas próximo aos polos do planeta",
+    "b": "Peters, projeção que preserva as áreas relativas dos continentes à custa de distorcer a forma original deles",
+    "c": "Gall-Peters equidistante, projeção que preserva simultaneamente ângulos, áreas e formas em qualquer ponto do mapa",
+    "d": "Goode, projeção interrompida usada exclusivamente para representar correntes marítimas e ventos globais",
+    "e": "Van der Grinten, projeção circular que preserva a forma dos continentes sem qualquer distorção de área associada"
+   },
+   "resposta": "b",
+   "explicacao": "A projeção de Peters foi proposta como alternativa política e pedagógica à Mercator: preserva as áreas relativas dos continentes — o que evita, por exemplo, que a África pareça menor do que realmente é —, mas distorce bastante a forma dos territórios representados. Nenhuma projeção plana preserva simultaneamente ângulo, área e forma sem distorção alguma (c).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-405",
+   "texto_apoio": "Observando um mapa com os fusos horários do planeta, um viajante identifica duas localidades. A primeira está a 45° de longitude oeste, no fuso de referência GMT-3; a segunda está a 120° de longitude leste.",
+   "enunciado": "Quando são 10h da manhã na primeira localidade, o horário correspondente na segunda localidade é de aproximadamente:",
+   "alternativas": {
+    "a": "23h do mesmo dia",
+    "b": "13h do mesmo dia",
+    "c": "7h do mesmo dia",
+    "d": "3h do dia seguinte",
+    "e": "21h do mesmo dia"
+   },
+   "resposta": "e",
+   "explicacao": "A diferença de longitude entre as duas localidades é de 45° + 120° = 165°. Como cada 15° de longitude correspondem a 1 hora, a diferença de fuso horário é de 165 ÷ 15 = 11 horas. Como a segunda localidade está a leste da primeira, seu horário está adiantado: 10h + 11h = 21h do mesmo dia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-406",
+   "texto_apoio": "Ao lado de um mapa temático, um quadro traz pequenos ícones, cores e padrões, cada um associado a um significado específico, para que o leitor consiga interpretar os elementos representados sem confundi-los entre si.",
+   "enunciado": "Esse quadro explicativo, elemento essencial de qualquer mapa temático bem construído, é chamado de:",
+   "alternativas": {
+    "a": "escala gráfica, elemento que indica a relação entre distância representada no mapa e distância real no terreno",
+    "b": "fonte cartográfica, indicação da instituição e do ano de produção dos dados usados na confecção do mapa",
+    "c": "rosa dos ventos, elemento que indica a orientação das direções cardeais e colaterais sobre o mapa",
+    "d": "título do mapa, elemento textual que indica o tema geral representado, sem detalhar os símbolos específicos usados",
+    "e": "legenda, quadro que associa cada símbolo, cor ou padrão usado no mapa ao seu significado correspondente"
+   },
+   "resposta": "e",
+   "explicacao": "A legenda é o elemento que associa cada símbolo, cor ou padrão visual do mapa a seu significado, permitindo a leitura correta das informações temáticas representadas. Os demais elementos listados são reais e também compõem um mapa completo, mas cumprem outra função.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-407",
+   "texto_apoio": "Um mapa topográfico representa a altitude de uma região por meio de linhas fechadas que conectam pontos de mesmo valor. Quanto mais próximas essas linhas estão umas das outras, maior a inclinação do terreno naquele trecho.",
+   "enunciado": "Essas linhas, usadas para representar a altitude do terreno em duas dimensões sem recorrer a uma imagem tridimensional, são chamadas de:",
+   "alternativas": {
+    "a": "curvas de nível, linhas que conectam pontos de mesma altitude e cuja proximidade indica maior declividade do terreno",
+    "b": "paralelos, linhas imaginárias usadas para localizar pontos na superfície terrestre a partir da distância ao equador",
+    "c": "isotermas, linhas que conectam pontos de mesma temperatura média num mapa temático de determinada região",
+    "d": "meridianos, linhas imaginárias que conectam os polos terrestres e servem de referência para o cálculo dos fusos horários mundiais",
+    "e": "isoietas, linhas que conectam pontos de mesmo volume de precipitação acumulada num mapa pluviométrico"
+   },
+   "resposta": "a",
+   "explicacao": "Curvas de nível conectam pontos de mesma altitude num mapa topográfico; quanto mais próximas entre si, mais íngreme é o relevo representado naquele trecho. As demais alternativas nomeiam outras linhas cartográficas reais, mas associadas a outras variáveis, não à altitude do terreno.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-408",
+   "texto_apoio": "Sensores instalados a bordo de satélites captam a radiação refletida ou emitida pela superfície terrestre, sem contato físico direto com o objeto observado, gerando imagens usadas para monitorar desde plantações até queimadas.",
+   "enunciado": "Essa técnica de obtenção de informações sobre a superfície terrestre a partir de sensores instalados a distância é conhecida como:",
+   "alternativas": {
+    "a": "geoprocessamento, conjunto de técnicas que trata e cruza informações espaciais já coletadas por diferentes fontes",
+    "b": "geodésia, ciência dedicada à medição precisa da forma e das dimensões do planeta como um todo",
+    "c": "cartografia digital, conjunto de técnicas de produção de mapas por meio de programas de computador especializados",
+    "d": "sensoriamento remoto, técnica de obtenção de imagens da superfície terrestre por sensores instalados a distância, sem contato direto",
+    "e": "topografia, técnica de medição de distâncias, ângulos e altitudes realizada diretamente em campo, com instrumentos de precisão apropriados"
+   },
+   "resposta": "d",
+   "explicacao": "Sensoriamento remoto é a técnica de obter informações sobre a superfície terrestre a partir de sensores instalados a distância, como em satélites, sem contato físico direto com o alvo observado. As demais alternativas nomeiam técnicas e ciências cartográficas reais, mas distintas dessa captação a distância.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-409",
+   "texto_apoio": "Um receptor portátil calcula sua própria posição na superfície terrestre a partir do tempo que o sinal de rádio leva para chegar a ele, vindo de pelo menos quatro satélites diferentes em órbita ao redor do planeta.",
+   "enunciado": "Esse sistema de localização baseado em sinais de satélite é conhecido pela sigla:",
+   "alternativas": {
+    "a": "GPS, sistema que calcula a posição de um receptor a partir do tempo de chegada do sinal de múltiplos satélites",
+    "b": "SIG, conjunto de programas usados para armazenar, cruzar e analisar informações espaciais em camadas sobrepostas",
+    "c": "GMT, referência de tempo usada como base para o cálculo dos fusos horários em todo o planeta",
+    "d": "IBGE, instituição responsável pela produção de estatísticas e mapas oficiais do território brasileiro",
+    "e": "INPE, instituição responsável pelo monitoramento de queimadas e desmatamento a partir de imagens de satélite"
+   },
+   "resposta": "a",
+   "explicacao": "GPS (Global Positioning System) é o sistema que calcula a posição de um receptor a partir do tempo que o sinal de rádio leva para chegar a ele, vindo de múltiplos satélites em órbita. As demais siglas nomeiam outras ferramentas, referências ou instituições reais, sem relação direta com o cálculo de posição descrito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-410",
+   "texto_apoio": "Um analista sobrepõe, num mesmo mapa digital, camadas separadas de informação — uma com o traçado das rodovias, outra com os limites municipais, outra com dados de renda por bairro — para cruzar essas informações e identificar padrões espaciais.",
+   "enunciado": "Esse conjunto de técnicas e programas voltados a armazenar, cruzar e analisar informações espaciais organizadas em camadas é conhecido como:",
+   "alternativas": {
+    "a": "sensoriamento remoto, técnica de captação de imagens da superfície terrestre por sensores instalados a distância",
+    "b": "geodésia, ciência dedicada à medição precisa da forma, das dimensões e do campo gravitacional do planeta",
+    "c": "geoprocessamento, conjunto de técnicas e programas usados para armazenar, cruzar e analisar dados espaciais em camadas",
+    "d": "cartometria, conjunto de técnicas de medição de distâncias, áreas e ângulos diretamente sobre um mapa já pronto e impresso",
+    "e": "toponímia, disciplina dedicada ao estudo da origem e do significado dos nomes de lugares representados num mapa"
+   },
+   "resposta": "c",
+   "explicacao": "Geoprocessamento é o conjunto de técnicas e programas — muitas vezes reunidos num Sistema de Informação Geográfica — usados para armazenar, cruzar e analisar dados espaciais organizados em camadas sobrepostas, como no exemplo de rodovias, limites municipais e renda por bairro. As demais alternativas nomeiam outras disciplinas e técnicas cartográficas reais, mas distintas dessa análise por camadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-411",
+   "texto_apoio": "Num mapa, o tamanho de cada país não representa sua área territorial real, mas sim o valor de uma variável escolhida — como número de habitantes, consumo de energia ou volume de exportações — de modo que países com valores altos aparecem visualmente maiores do que são.",
+   "enunciado": "Esse tipo de representação cartográfica, que distorce deliberadamente o tamanho dos territórios para representar uma variável escolhida, é conhecida como:",
+   "alternativas": {
+    "a": "mapa coroplético, que usa variações de cor ou padrão de preenchimento sobre a área real de cada território administrativo representado",
+    "b": "anamorfose cartográfica, mapa que distorce deliberadamente o tamanho dos territórios para representar uma variável escolhida",
+    "c": "mapa de fluxos, que usa linhas de espessura variável para representar o volume de deslocamento entre dois pontos",
+    "d": "mapa de isolinhas, que usa linhas contínuas para conectar pontos de mesmo valor de uma variável contínua no espaço",
+    "e": "cartograma reticulado, representação que divide o território em uma malha regular de células de tamanho fixo idêntico"
+   },
+   "resposta": "b",
+   "explicacao": "A anamorfose cartográfica (ou cartograma) distorce deliberadamente o tamanho de cada território conforme o valor de uma variável escolhida, e não conforme sua área real — um país pequeno, mas populoso, por exemplo, pode aparecer maior do que um país territorialmente extenso, mas pouco povoado. As demais alternativas descrevem outras técnicas de representação cartográfica temática, sem essa distorção proporcional de tamanho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-geografia-412",
+   "texto_apoio": "Ao reduzir a escala de um mapa — passando, por exemplo, de 1:25.000 para 1:1.000.000 —, o cartógrafo precisa eliminar ou simplificar diversos elementos que não caberiam de forma legível no espaço disponível do novo mapa.",
+   "enunciado": "Esse processo de seleção e simplificação de elementos ao reduzir a escala de um mapa é conhecido como:",
+   "alternativas": {
+    "a": "escala gráfica, elemento visual que indica a relação de proporção entre a distância no mapa e a distância real",
+    "b": "georreferenciamento, processo de associar um objeto ou uma imagem a coordenadas geográficas precisas e reais",
+    "c": "datum geodésico, sistema de referência usado para definir coordenadas num determinado sistema de projeção cartográfica",
+    "d": "generalização cartográfica, processo de seleção e simplificação de elementos ao reduzir a escala de um mapa",
+    "e": "ortorretificação, processo técnico de correção de distorções geométricas presentes numa imagem aérea ou de satélite"
+   },
+   "resposta": "d",
+   "explicacao": "Generalização cartográfica é o processo pelo qual o cartógrafo seleciona, simplifica ou até remove elementos ao reduzir a escala de um mapa, mantendo apenas o que ainda é legível e relevante no novo nível de detalhe. As demais alternativas nomeiam outros processos e conceitos cartográficos reais, mas distintos dessa simplificação por redução de escala.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ]
 }

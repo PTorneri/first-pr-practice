@@ -2650,6 +2650,76 @@
       "resposta": "c",
       "explicacao": "Metalinguagem, na literatura contemporânea, é o recurso pelo qual a narrativa comenta e reflete sobre o próprio processo de escrita — traço recorrente em obras que expõem as hesitações do narrador diante da história que está sendo contada, como ocorre de forma célebre em \"A Hora da Estrela\".",
       "formato": "direta"
+    },
+    {
+      "id": "literatura-313",
+      "enunciado": "Em 1928, Oswald de Andrade publicou um manifesto cuja proposta central era deglutir criticamente a cultura estrangeira para produzir algo novo e brasileiro, em vez de copiá-la ou recusá-la em bloco. Esse manifesto é:",
+      "alternativas": {
+        "a": "o Manifesto Regionalista, que defendia o retorno às formas literárias praticadas antes da Semana de Arte Moderna",
+        "b": "o Manifesto Futurista, de origem italiana, adotado sem alterações pelos escritores brasileiros do mesmo período",
+        "c": "o Manifesto Antropófago, que propõe devorar a influência externa e transformá-la em produto próprio",
+        "d": "o Manifesto Verde-Amarelo, que recusava contribuições externas em nome de uma tradição estritamente nacional",
+        "e": "o Manifesto Concretista, que reorganizou a produção poética brasileira a partir da experimentação com o espaço"
+      },
+      "resposta": "c",
+      "explicacao": "O Manifesto Antropófago, de Oswald de Andrade, retoma a antropofagia indígena como metáfora: a cultura estrangeira não é rejeitada nem imitada, mas devorada e reelaborada em produto brasileiro. É um dos textos centrais da primeira fase do modernismo.",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-314",
+      "enunciado": "Publicado em 1928, o livro de Mário de Andrade apresenta um protagonista descrito como herói sem caráter definido, que percorre o país reunindo lendas, falares regionais e episódios de origens diversas. Essa obra é:",
+      "alternativas": {
+        "a": "Vidas Secas, romance que acompanha o deslocamento de uma família pelo sertão em busca de melhores condições",
+        "b": "Macunaíma, rapsódia que reúne mitos e falares de várias regiões num protagonista contraditório",
+        "c": "Iracema, narrativa que constrói a origem do povo brasileiro a partir do encontro entre indígenas e portugueses",
+        "d": "Os Sertões, relato que combina observação científica e reconstituição do conflito ocorrido no interior baiano",
+        "e": "Grande Sertão: Veredas, obra que reelabora a fala do interior mineiro na travessia narrada por um ex-jagunço"
+      },
+      "resposta": "b",
+      "explicacao": "Macunaíma, de Mário de Andrade, é chamada pelo autor de rapsódia por costurar lendas e falares de regiões diferentes numa mesma narrativa. O protagonista sem caráter fixo encarna o projeto modernista de compor uma identidade nacional feita de contradições.",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-315",
+      "enunciado": "O romance de 1938 de Graciliano Ramos acompanha uma família de retirantes e a cachorra Baleia em deslocamento pelo sertão nordestino. A obra integra a chamada geração de 30, cuja produção se caracteriza:",
+      "alternativas": {
+        "a": "pela retomada dos modelos clássicos de composição, com atenção rigorosa à forma herdada da tradição europeia",
+        "b": "pelo tratamento idealizado da paisagem nacional, tomada como cenário de aventuras protagonizadas por heróis",
+        "c": "pela investigação de temas urbanos e cosmopolitas, com foco na experiência individual de personagens isolados",
+        "d": "pela abordagem crítica de problemas sociais e regionais brasileiros, em linguagem seca e sem ornamentos",
+        "e": "pela experimentação radical com a materialidade gráfica do texto e o abandono da estrutura convencional"
+      },
+      "resposta": "d",
+      "explicacao": "Vidas Secas pertence à segunda fase do modernismo, o romance de 30, marcado pela denúncia social e pelo regionalismo crítico. Graciliano Ramos leva ao extremo a economia de linguagem, e a obra chega a dar acesso à consciência da cachorra Baleia.",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-316",
+      "enunciado": "A segunda fase do modernismo brasileiro, iniciada nos anos 1930, consolidou uma poesia que incorporou a linguagem coloquial e temas do cotidiano sem abrir mão do rigor de composição. Dois nomes centrais dessa produção são:",
+      "alternativas": {
+        "a": "Carlos Drummond de Andrade e Manuel Bandeira, que exploraram o cotidiano e a fala corrente na poesia",
+        "b": "Gregório de Matos e Bento Teixeira, responsáveis pela produção poética dos primeiros séculos da colônia",
+        "c": "Olavo Bilac e Raimundo Correia, ligados ao culto da forma fixa e à impessoalidade no tratamento dos temas",
+        "d": "Casimiro de Abreu e Fagundes Varela, marcados pelo subjetivismo e pela recorrência de temas melancólicos",
+        "e": "Cruz e Sousa e Alphonsus de Guimaraens, associados à musicalidade e ao uso de imagens de caráter sugestivo"
+      },
+      "resposta": "a",
+      "explicacao": "A geração de 30 tem em Carlos Drummond de Andrade e Manuel Bandeira dois de seus maiores poetas. Ambos incorporam a fala corrente e o assunto cotidiano à poesia, mas sem a informalidade programática da primeira fase modernista.",
+      "formato": "direta"
+    },
+    {
+      "id": "literatura-317",
+      "enunciado": "Publicado em 1955, o poema dramático de João Cabral de Melo Neto acompanha a viagem de um retirante que desce o rio Capibaribe rumo ao litoral, encontrando a morte em várias formas até presenciar um nascimento. Trata-se de:",
+      "alternativas": {
+        "a": "Cobra Norato, poema que reelabora lendas amazônicas na composição de uma viagem de caráter fantástico",
+        "b": "Vidas Secas, narrativa em prosa sobre a travessia de uma família de trabalhadores pelo interior nordestino",
+        "c": "Canaã, romance que trata da chegada de imigrantes europeus a uma região de colonização no Espírito Santo",
+        "d": "O Quinze, romance que retrata os efeitos de uma seca severa sobre a população do interior cearense",
+        "e": "Morte e Vida Severina, auto de natal pernambucano que acompanha a descida do retirante rumo ao Recife"
+      },
+      "resposta": "e",
+      "explicacao": "Morte e Vida Severina, de João Cabral de Melo Neto, é um auto de natal pernambucano. O retirante Severino desce o Capibaribe fugindo da seca e encontra sucessivas mortes até o nascimento final, que devolve algum sentido à travessia.",
+      "formato": "direta"
     }
   ]
 }

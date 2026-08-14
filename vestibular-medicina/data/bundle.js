@@ -3961,6 +3961,176 @@ window.QUESTION_BANKS = {
    "explicacao": "A malária é causada por um protozoário do gênero Plasmodium, transmitido pela picada do mosquito Anopheles, que é considerado o hospedeiro definitivo, pois nele ocorre a reprodução sexuada do parasita.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-350",
+   "texto_apoio": "O sistema de classificação dos seres vivos mais usado no ensino médio organiza todos os organismos em cinco grandes grupos, definidos principalmente por organização interna e modo de obtenção de alimento.",
+   "enunciado": "Esses cinco grandes grupos de classificação são conhecidos como:",
+   "alternativas": {
+    "a": "domínios, categoria taxonômica mais ampla que reúne Bacteria, Archaea e Eukarya num total de apenas três grupos",
+    "b": "reinos, categoria que reúne Monera, Protista, Fungi, Plantae e Animalia, um total de cinco grandes grupos",
+    "c": "filos, categoria intermediária usada para agrupar organismos com plano corporal semelhante dentro de um mesmo reino",
+    "d": "famílias, categoria taxonômica que reúne gêneros com características morfológicas muito próximas entre si",
+    "e": "ordens, categoria taxonômica situada entre classe e família na hierarquia usada pela sistemática biológica"
+   },
+   "resposta": "b",
+   "explicacao": "O sistema dos cinco reinos — Monera, Protista, Fungi, Plantae e Animalia — organiza os seres vivos por tipo de organização interna e modo de obtenção de alimento. Domínio (a) é uma categoria ainda mais ampla, acima de reino; as demais alternativas nomeiam categorias taxonômicas reais, mas de nível mais restrito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-351",
+   "texto_apoio": "Duas grandes linhagens de plantas produzem sementes como estrutura reprodutiva, mas diferem quanto a essas sementes estarem ou não envolvidas por um tecido que se desenvolve a partir do ovário fecundado.",
+   "enunciado": "Essas duas linhagens, distinguidas pela presença ou ausência de fruto envolvendo a semente, são conhecidas como:",
+   "alternativas": {
+    "a": "angiospermas e gimnospermas, distinguidas pela presença ou ausência de fruto envolvendo a semente produzida",
+    "b": "briófitas e pteridófitas, distinguidas pela presença ou ausência de vasos condutores de seiva no corpo da planta",
+    "c": "monocotiledôneas e dicotiledôneas, distinguidas pelo número de folhas presentes no embrião da semente",
+    "d": "talófitas e cormófitas, distinguidas pela presença ou ausência de raiz, caule e folha diferenciados no corpo da planta",
+    "e": "autótrofas e heterótrofas, distinguidas pela capacidade ou incapacidade de produzir o próprio alimento"
+   },
+   "resposta": "a",
+   "explicacao": "Angiospermas produzem sementes envolvidas por fruto, formado a partir do desenvolvimento do ovário após a fecundação; gimnospermas produzem sementes nuas, sem fruto, geralmente expostas em estruturas como pinhas. As demais alternativas descrevem outras distinções reais entre grupos vegetais, mas não a presença ou ausência de fruto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-352",
+   "texto_apoio": "Um grupo de plantas terrestres, sem vasos condutores de seiva especializados, depende de uma lâmina de água externa para que o gameta masculino consiga nadar até o gameta feminino durante a reprodução, o que limita seu porte e o ambiente onde pode viver.",
+   "enunciado": "Esse grupo de plantas, geralmente pequeno e restrito a ambientes úmidos e sombreados, é conhecido como:",
+   "alternativas": {
+    "a": "gimnospermas, grupo de plantas que produz sementes nuas, sem fruto envolvendo-as, geralmente em estruturas como pinhas",
+    "b": "angiospermas, grupo de plantas que produz flor e fruto como estruturas associadas à reprodução sexuada",
+    "c": "briófitas, grupo de plantas sem vasos condutores especializados, dependente de água externa para a reprodução",
+    "d": "pteridófitas, grupo de plantas com vasos condutores de seiva já desenvolvidos, como as samambaias atuais",
+    "e": "algas verdes, grupo de organismos fotossintetizantes majoritariamente aquáticos, sem raiz, caule ou folha diferenciados"
+   },
+   "resposta": "c",
+   "explicacao": "As briófitas (como os musgos) não têm vasos condutores especializados e dependem de uma lâmina de água externa para que o gameta masculino, flagelado, nade até o gameta feminino — por isso seu porte é pequeno e sua ocorrência está restrita a ambientes úmidos. Pteridófitas (d) já têm vasos condutores desenvolvidos, embora também dependam de água para a reprodução.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-353",
+   "texto_apoio": "Um grupo de plantas terrestres foi o primeiro, na história evolutiva, a desenvolver tecidos condutores especializados para o transporte de água e de nutrientes ao longo do corpo, o que permitiu atingir porte maior do que o de seus ancestrais.",
+   "enunciado": "Esse grupo de plantas, ao qual pertencem as samambaias atuais, é conhecido como:",
+   "alternativas": {
+    "a": "briófitas, grupo de plantas sem tecidos condutores especializados, dependente de água externa para a reprodução sexuada",
+    "b": "pteridófitas, grupo de plantas com tecidos condutores especializados já desenvolvidos, ao qual pertencem as samambaias",
+    "c": "gimnospermas, grupo de plantas que produz sementes nuas, sem qualquer fruto envolvendo-as diretamente",
+    "d": "angiospermas, grupo de plantas que produz flor e fruto como estruturas associadas à reprodução sexuada",
+    "e": "algas pardas, grupo de organismos fotossintetizantes majoritariamente marinhos, sem raiz, caule ou folha diferenciados"
+   },
+   "resposta": "b",
+   "explicacao": "Pteridófitas foram o primeiro grupo de plantas a desenvolver xilema e floema, tecidos condutores que permitiram atingir porte maior — grupo ao qual pertencem samambaias e avencas atuais. Briófitas (a) ainda não têm esses tecidos condutores; gimnospermas e angiospermas (c, d) já produzem semente, estrutura ausente nas pteridófitas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-354",
+   "texto_apoio": "Um grupo de animais invertebrados apresenta corpo segmentado, exoesqueleto rígido e patas articuladas — características que sustentam sua enorme diversidade de espécies, reunindo insetos, aracnídeos, crustáceos e miriápodes num mesmo grupo.",
+   "enunciado": "Esse grupo, considerado o mais numeroso em espécies entre todos os grupos de animais conhecidos, é conhecido como:",
+   "alternativas": {
+    "a": "moluscos, grupo de invertebrados de corpo mole, geralmente protegido por uma concha calcária externa",
+    "b": "anelídeos, grupo de invertebrados de corpo dividido em segmentos semelhantes entre si, sem exoesqueleto rígido",
+    "c": "equinodermos, grupo de invertebrados marinhos com simetria radial e sistema de canais preenchidos por água",
+    "d": "artrópodes, grupo de invertebrados com exoesqueleto rígido e patas articuladas, o mais numeroso em espécies",
+    "e": "cnidários, grupo de invertebrados de corpo em forma de saco, com tentáculos equipados de células urticantes"
+   },
+   "resposta": "d",
+   "explicacao": "Artrópodes reúnem insetos, aracnídeos, crustáceos e miriápodes, unidos por exoesqueleto rígido e patas articuladas — características associadas ao maior número de espécies descritas entre todos os grupos de animais. As demais alternativas descrevem outros grupos de invertebrados reais, com características corporais distintas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-355",
+   "texto_apoio": "Um grupo de animais invertebrados apresenta corpo mole, não segmentado, muitas vezes protegido por uma concha calcária externa secretada por uma dobra de tecido característica desse grupo, reunindo caracóis, lulas, polvos e mariscos.",
+   "enunciado": "Esse grupo de invertebrados, ao qual pertencem caracóis, lulas, polvos e mariscos, é conhecido como:",
+   "alternativas": {
+    "a": "artrópodes, grupo de invertebrados com exoesqueleto rígido e patas articuladas, considerado o mais numeroso em espécies",
+    "b": "equinodermos, grupo de invertebrados marinhos com simetria radial e sistema de canais preenchidos por água",
+    "c": "anelídeos, grupo de invertebrados de corpo dividido em segmentos semelhantes entre si ao longo de todo o comprimento",
+    "d": "moluscos, grupo de invertebrados de corpo mole, muitas vezes protegido por uma concha calcária externa",
+    "e": "poríferos, grupo de invertebrados aquáticos simples, sem tecidos verdadeiros nem órgãos diferenciados no corpo"
+   },
+   "resposta": "d",
+   "explicacao": "Moluscos reúnem caracóis, lulas, polvos e mariscos, unidos pelo corpo mole e, em muitas espécies, por uma concha calcária secretada pelo manto. Cada grupo listado nas demais alternativas tem plano corporal e características próprias, distintas do grupo descrito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-356",
+   "texto_apoio": "Um grupo de animais aquáticos apresenta corpo em forma de saco, simetria radial e tentáculos equipados com estruturas urticantes usadas tanto para captura de alimento quanto para defesa, reunindo águas-vivas, corais e anêmonas-do-mar.",
+   "enunciado": "Esse grupo de invertebrados, ao qual pertencem águas-vivas, corais e anêmonas, é conhecido como:",
+   "alternativas": {
+    "a": "poríferos, grupo de invertebrados aquáticos simples, sem tecidos verdadeiros nem órgãos diferenciados no corpo",
+    "b": "moluscos, grupo de invertebrados de corpo mole, muitas vezes protegido por uma concha calcária externa",
+    "c": "cnidários, grupo de invertebrados de corpo em forma de saco, com tentáculos equipados de estruturas urticantes",
+    "d": "equinodermos, grupo de invertebrados marinhos com simetria radial e sistema de canais preenchidos por água",
+    "e": "nematódeos, grupo de invertebrados de corpo cilíndrico e alongado, muitos deles parasitas de outros animais"
+   },
+   "resposta": "c",
+   "explicacao": "Cnidários reúnem águas-vivas, corais e anêmonas, unidos pela simetria radial e pelas estruturas urticantes usadas na captura de alimento e na defesa. Equinodermos (d) também têm simetria radial, mas se distinguem por um sistema interno de canais preenchidos por água, ausente nos cnidários.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-357",
+   "texto_apoio": "Um critério amplamente usado para separar dois grandes grupos do reino animal é a presença ou ausência de uma estrutura de sustentação interna, segmentada, que protege o principal cordão nervoso do corpo.",
+   "enunciado": "Esses dois grandes grupos, distinguidos pela presença ou ausência dessa estrutura, são conhecidos como:",
+   "alternativas": {
+    "a": "vertebrados e invertebrados, distinguidos pela presença ou ausência de coluna vertebral protegendo o cordão nervoso",
+    "b": "endotérmicos e ectotérmicos, distinguidos pela capacidade ou incapacidade de regular internamente a temperatura corporal",
+    "c": "ovíparos e vivíparos, distinguidos pelo local em que o desenvolvimento embrionário do animal ocorre principalmente",
+    "d": "terrestres e aquáticos, distinguidos pelo ambiente predominante em que cada animal vive ao longo da vida adulta",
+    "e": "autótrofos e heterótrofos, distinguidos pela capacidade ou incapacidade de produzir o próprio alimento diretamente"
+   },
+   "resposta": "a",
+   "explicacao": "Vertebrados possuem coluna vertebral, estrutura segmentada que protege a medula espinhal; invertebrados não têm essa estrutura, embora alguns tenham outras formas de sustentação corporal, como o exoesqueleto dos artrópodes. As demais alternativas descrevem outras distinções biológicas reais entre animais, mas não essa relacionada à coluna vertebral.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-358",
+   "texto_apoio": "Um grupo de vertebrados passa por uma fase inicial de vida majoritariamente aquática, respirando por guelras, e sofre uma metamorfose que leva ao desenvolvimento de pulmões e à possibilidade de vida em ambiente terrestre na fase adulta, embora a pele fina e permeável ainda exija proximidade de ambientes úmidos.",
+   "enunciado": "Esse grupo de vertebrados, que inclui sapos, rãs e salamandras, é conhecido como:",
+   "alternativas": {
+    "a": "répteis, grupo de vertebrados com pele coberta por escamas queratinizadas e ovo com casca resistente à perda de água",
+    "b": "aves, grupo de vertebrados endotérmicos com corpo coberto por penas e membros anteriores modificados em asas",
+    "c": "peixes, grupo de vertebrados aquáticos que respiram por guelras durante toda a vida, sem passar por metamorfose",
+    "d": "anfíbios, grupo de vertebrados com fase inicial aquática e metamorfose até a fase adulta com pele fina e permeável",
+    "e": "mamíferos, grupo de vertebrados endotérmicos com corpo coberto por pelos e glândulas que produzem leite"
+   },
+   "resposta": "d",
+   "explicacao": "Anfíbios — sapos, rãs e salamandras — têm fase inicial majoritariamente aquática, respiração por guelras que dá lugar a pulmões após a metamorfose, e pele fina e permeável que os mantém dependentes de ambientes úmidos mesmo na fase adulta terrestre. Os demais grupos de vertebrados listados têm características corporais e ciclos de vida distintos desse descrito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-360",
+   "texto_apoio": "Um grupo de seres vivos, incapaz de produzir o próprio alimento, obtém nutrientes por absorção direta do ambiente, decompondo matéria orgânica ao seu redor por meio de substâncias liberadas para o exterior do próprio corpo, e apresenta parede de quitina envolvendo suas estruturas.",
+   "enunciado": "Esse grupo de seres vivos, que inclui cogumelos, leveduras e bolores, é conhecido como:",
+   "alternativas": {
+    "a": "protistas, grupo diverso que reúne organismos eucarióticos simples, como algas simples e protozoários variados",
+    "b": "reino Monera, grupo que reúne organismos procariontes simples e sem núcleo organizado, como as bactérias conhecidas",
+    "c": "vírus, agentes biológicos que dependem obrigatoriamente de outro organismo hospedeiro para conseguir se replicar",
+    "d": "plantas, grupo de organismos autótrofos capazes de produzir o próprio alimento a partir da luz solar disponível no ambiente",
+    "e": "fungos, grupo com parede de quitina que se alimenta de matéria orgânica já em decomposição, absorvida pelo próprio corpo"
+   },
+   "resposta": "e",
+   "explicacao": "Fungos — cogumelos, leveduras, bolores — se alimentam de matéria orgânica em decomposição, absorvendo nutrientes já digeridos externamente, com parede de quitina envolvendo suas estruturas, distinta da composição da parede das plantas. Os demais grupos listados têm modo de obtenção de alimento e composição estrutural diferentes do descrito.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "biologia-fisiologia": [
@@ -7108,6 +7278,244 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-evolucao",
+   "id": "med-biologia-338",
+   "texto_apoio": "Numa população de mariposas de determinada espécie, indivíduos de coloração mais clara e mais escura convivem. Após a fuligem industrial escurecer os troncos das árvores da região, a proporção de mariposas escuras passou a crescer geração após geração.",
+   "enunciado": "Esse fenômeno é mais bem explicado pelo mecanismo evolutivo de:",
+   "alternativas": {
+    "a": "seleção natural, em que indivíduos mais bem adaptados ao ambiente deixam, em média, mais descendentes férteis",
+    "b": "uso e desuso, em que a mariposa escurece ao longo da própria vida por se camuflar repetidamente em troncos escuros",
+    "c": "deriva genética pura, em que a proporção de cores muda apenas por acaso, sem qualquer relação com a coloração do tronco",
+    "d": "endogamia, em que o cruzamento preferencial entre parentes próximos altera a proporção de cores da população ao longo do tempo",
+    "e": "poliploidia, em que a duplicação do conjunto cromossômico altera a coloração das asas em uma única geração"
+   },
+   "resposta": "a",
+   "explicacao": "O caso clássico da mariposa-da-bétula ilustra a seleção natural: mariposas escuras, mais camufladas em troncos escurecidos pela fuligem, escapam mais da predação e deixam mais descendentes, elevando sua proporção na população ao longo de gerações. Não há alteração do indivíduo ao longo da própria vida (b, ideia lamarckista superada) nem processo puramente aleatório (c), já que a mudança acompanha uma pressão ambiental específica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-339",
+   "texto_apoio": "Duas explicações concorrentes tentaram justificar por que o pescoço das girafas atuais é longo: uma propunha que o esforço repetido de esticar o pescoço em cada geração seria transmitido aos descendentes; a outra propunha que indivíduos com pescoço um pouco mais longo, por acaso, tinham vantagem reprodutiva.",
+   "enunciado": "Essas duas explicações são conhecidas, respectivamente, como:",
+   "alternativas": {
+    "a": "especiação simpátrica e especiação alopátrica, distinguidas pela presença ou ausência de barreira geográfica relevante entre as populações",
+    "b": "abiogênese e biogênese, distinguidas pela origem espontânea versus a origem a partir de seres vivos preexistentes",
+    "c": "homologia e analogia, distinguidas pela origem embrionária comum versus a semelhança de função entre estruturas",
+    "d": "lamarckismo e darwinismo, distinguidos pela transmissão de características adquiridas versus a seleção de variações já existentes",
+    "e": "deriva genética e fluxo gênico, distinguidas pela variação ao acaso versus a troca de indivíduos entre populações"
+   },
+   "resposta": "d",
+   "explicacao": "A explicação do uso e desuso, com herança de características adquiridas ao longo da vida do indivíduo, é atribuída a Lamarck; a explicação pela seleção de variações já presentes na população, sem relação com o esforço individual, é o núcleo da teoria de Darwin. As demais alternativas nomeiam pares de conceitos evolutivos reais, mas distintos do par descrito no texto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-340",
+   "texto_apoio": "A asa de um morcego e a asa de uma borboleta cumprem a mesma função — permitir o voo —, mas têm origem embrionária e estrutura interna completamente diferentes. Já a asa do morcego e o braço humano têm estrutura interna semelhante e mesma origem embrionária, apesar de funções distintas.",
+   "enunciado": "Esses dois tipos de relação entre estruturas de espécies diferentes são chamados, respectivamente, de:",
+   "alternativas": {
+    "a": "estruturas vestigiais e estruturas funcionais, distinguidas pela utilidade atual da estrutura para o organismo",
+    "b": "órgãos análogos e órgãos homólogos, distinguidos pela semelhança de função versus a origem embrionária comum",
+    "c": "convergência genética e divergência genética, distinguidas pela proximidade evolutiva entre as espécies comparadas",
+    "d": "adaptação primária e adaptação secundária, distinguidas pela ordem histórica em que a estrutura surgiu no grupo",
+    "e": "especiação simpátrica e especiação alopátrica, distinguidas pela distância geográfica entre as populações comparadas"
+   },
+   "resposta": "b",
+   "explicacao": "Órgãos análogos têm mesma função mas origens embrionárias distintas, resultado de evolução convergente sob pressões ambientais semelhantes — caso da asa do morcego e da borboleta. Órgãos homólogos compartilham origem embrionária, mesmo com funções diferentes — caso da asa do morcego e do braço humano, herdados de um ancestral comum.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-341",
+   "texto_apoio": "Camadas sucessivas de rocha sedimentar preservam restos de organismos de diferentes períodos, permitindo reconstruir, camada após camada, transformações graduais numa determinada linhagem ao longo de milhões de anos.",
+   "enunciado": "Esse tipo de evidência, usada para reconstruir a história evolutiva de uma linhagem ao longo do tempo geológico, é:",
+   "alternativas": {
+    "a": "a anatomia comparada, comparação da estrutura interna de órgãos entre espécies vivas atualmente existentes",
+    "b": "a homologia molecular, comparação de sequências de DNA entre espécies vivas atualmente para estimar parentesco genético",
+    "c": "a embriologia comparada, comparação entre estágios do desenvolvimento embrionário de diferentes espécies vivas",
+    "d": "a biogeografia, estudo da distribuição geográfica atual de espécies vivas e sua relação com barreiras físicas",
+    "e": "o registro fóssil, conjunto de restos preservados em camadas sucessivas de rocha sedimentar ao longo do tempo geológico"
+   },
+   "resposta": "e",
+   "explicacao": "O registro fóssil é a evidência formada por restos preservados em camadas sucessivas de rocha sedimentar, permitindo observar transformações graduais numa linhagem ao longo do tempo geológico. As demais alternativas descrevem outras linhas de evidência evolutiva reais, mas baseadas em espécies vivas atuais, não em camadas de rocha sedimentar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-342",
+   "texto_apoio": "Uma pequena população de pássaros é levada por uma tempestade a uma ilha distante, isolada da população original. Por puro acaso, essa pequena amostra carrega uma proporção de características diferente da população de origem, e essa diferença se mantém nas gerações seguintes na ilha.",
+   "enunciado": "Esse mecanismo evolutivo, em que o acaso — e não a vantagem adaptativa — altera a composição genética de uma população pequena, é conhecido como:",
+   "alternativas": {
+    "a": "seleção natural, mecanismo pelo qual características vantajosas se tornam mais frequentes ao longo de gerações",
+    "b": "deriva genética, mecanismo pelo qual o acaso altera a composição genética de uma população, sobretudo se pequena",
+    "c": "fluxo gênico, mecanismo pelo qual indivíduos migram entre populações e trocam material genético entre elas",
+    "d": "resistência adquirida, mecanismo pelo qual populações expostas repetidamente a um agente seletivo tornam-se menos sensíveis a ele",
+    "e": "especiação simpátrica, mecanismo pelo qual uma nova espécie surge sem qualquer barreira geográfica entre as populações"
+   },
+   "resposta": "b",
+   "explicacao": "Deriva genética é o mecanismo pelo qual o acaso, e não a vantagem adaptativa, altera a composição genética de uma população — efeito mais pronunciado quanto menor a população, como no caso descrito, conhecido como efeito fundador. Seleção natural (a) depende de vantagem adaptativa; fluxo gênico (c) depende de migração contínua entre populações já estabelecidas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-343",
+   "texto_apoio": "Uma cadeia de montanhas se ergue ao longo de milhões de anos, dividindo em duas uma população antes contínua de determinado roedor. Isoladas por barreira física, as duas populações acumulam diferenças genéticas até que, mesmo reunidas de novo, seus indivíduos não conseguem mais gerar descendentes férteis entre si.",
+   "enunciado": "Esse processo evolutivo, pelo qual uma barreira geográfica leva ao surgimento de duas espécies distintas a partir de uma população original, é conhecido como:",
+   "alternativas": {
+    "a": "especiação alopátrica, processo em que o isolamento geográfico leva ao surgimento de novas espécies a partir de populações antes contínuas",
+    "b": "deriva continental, processo geológico pelo qual as placas tectônicas se deslocam ao longo de milhões de anos",
+    "c": "especiação simpátrica, processo em que novas espécies surgem dentro da mesma área geográfica, sem barreira física relevante entre as populações envolvidas",
+    "d": "hibridização, processo em que duas espécies distintas geram filhotes viáveis ao cruzarem entre si repetidamente",
+    "e": "poliploidização, processo em que a duplicação do conjunto cromossômico gera uma nova espécie numa única geração"
+   },
+   "resposta": "a",
+   "explicacao": "Especiação alopátrica é o processo em que uma barreira geográfica separa populações antes contínuas, que acumulam diferenças até se tornarem incapazes de gerar descendentes férteis entre si — o isolamento reprodutivo que define a formação de uma nova espécie. Especiação simpátrica (c) ocorre sem essa barreira geográfica, mecanismo distinto do descrito no texto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-344",
+   "texto_apoio": "Diante de um tratamento incompleto, algumas bactérias sobrevivem por já carregarem, ao acaso, características que as tornam menos sensíveis ao medicamento. Essas bactérias sobreviventes se multiplicam, e a proporção delas na população cresce a cada novo ciclo de tratamento malsucedido.",
+   "enunciado": "Esse fenômeno, hoje uma das principais preocupações da saúde pública mundial, é conhecido como:",
+   "alternativas": {
+    "a": "resistência bacteriana a antibióticos, exemplo de seleção natural em ação numa escala de tempo observável em poucos anos",
+    "b": "imunidade adquirida, processo pelo qual o sistema de defesa do próprio paciente reconhece e neutraliza o agente infeccioso",
+    "c": "mutação induzida, processo pelo qual o próprio medicamento provoca deliberadamente alterações genéticas nas bactérias tratadas",
+    "d": "simbiose bacteriana, relação de benefício mútuo entre a bactéria e o hospedeiro que dificulta a ação do medicamento",
+    "e": "adaptação fisiológica reversível, ajuste temporário da bactéria que desaparece assim que o tratamento é interrompido"
+   },
+   "resposta": "a",
+   "explicacao": "A resistência bacteriana a antibióticos é um exemplo de seleção natural observável em escala de poucos anos: bactérias que já carregavam, ao acaso, características de menor sensibilidade ao medicamento sobrevivem e se multiplicam, elevando sua proporção na população a cada ciclo de tratamento incompleto. Não é o medicamento que induz a variação (c); a variação já existia antes da exposição.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-345",
+   "texto_apoio": "Comparações entre sequências de DNA de diferentes espécies revelam graus variados de semelhança genética, usados para estimar o grau de parentesco evolutivo entre elas e reconstruir relações que a anatomia sozinha nem sempre deixa claras.",
+   "enunciado": "Quanto maior a semelhança genética entre duas espécies vivas, mais provável é que elas:",
+   "alternativas": {
+    "a": "apresentem números idênticos de cromossomos em suas células, independentemente do grau de parentesco",
+    "b": "vivam sob condições climáticas e geográficas muito semelhantes no presente, independentemente do grau de parentesco",
+    "c": "tenham surgido de forma completamente independente uma da outra, por acaso genético simultâneo",
+    "d": "compartilhem um ancestral comum mais recente na história evolutiva do grupo a que pertencem",
+    "e": "habitem regiões geograficamente próximas uma da outra no momento presente da observação"
+   },
+   "resposta": "d",
+   "explicacao": "Quanto mais recente o ancestral comum entre duas espécies, menos tempo houve para o acúmulo de diferenças genéticas por variação e seleção — daí a semelhança genética ser usada como estimativa do grau de parentesco evolutivo. As demais alternativas descrevem relações ecológicas, geográficas ou citológicas que não decorrem necessariamente do grau de parentesco evolutivo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-346",
+   "texto_apoio": "Antes dos experimentos de Pasteur, discutiam-se hipóteses evolutivas concorrentes sobre se seres vivos simples poderiam surgir espontaneamente a partir de matéria bruta, sem a participação de outro ser vivo preexistente.",
+   "enunciado": "A hipótese segundo a qual seres vivos surgiriam espontaneamente a partir de matéria não viva é conhecida como:",
+   "alternativas": {
+    "a": "panspermia, hipótese segundo a qual a vida teria chegado à Terra a partir de material trazido de outros corpos celestes",
+    "b": "biogênese, princípio segundo o qual todo ser vivo se origina necessariamente de outro ser vivo preexistente",
+    "c": "abiogênese, hipótese segundo a qual seres vivos simples surgiriam espontaneamente a partir de matéria não viva",
+    "d": "simbiogênese, hipótese segundo a qual certas estruturas internas de organismos eucarióticos se originaram de bactérias incorporadas por fusão antiga",
+    "e": "criacionismo, doutrina segundo a qual a origem das espécies decorre de um ato de criação direto e não gradual"
+   },
+   "resposta": "c",
+   "explicacao": "Abiogênese, ou geração espontânea, é a hipótese de que seres vivos simples surgiriam diretamente a partir de matéria não viva — hipótese refutada pelos experimentos de Pasteur, que sustentaram a biogênese (b), princípio oposto. As demais alternativas nomeiam outras hipóteses ou doutrinas reais sobre a origem da vida ou das espécies, distintas da descrita no texto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-347",
+   "texto_apoio": "Uma hipótese evolutiva alternativa sobre a origem da vida na Terra propõe que compostos orgânicos, ou mesmo formas de vida microscópicas, poderiam ter chegado ao planeta transportados por meteoritos ou cometas vindos do espaço.",
+   "enunciado": "Essa hipótese, que não explica a origem da vida em si mas apenas sua chegada à Terra, é conhecida como:",
+   "alternativas": {
+    "a": "deriva continental, hipótese segundo a qual os continentes atuais estiveram unidos num único bloco no passado geológico",
+    "b": "abiogênese, hipótese segundo a qual a vida teria surgido espontaneamente a partir de matéria não viva na própria Terra",
+    "c": "simbiogênese, hipótese segundo a qual certas estruturas internas de organismos eucarióticos se originaram de bactérias incorporadas por fusão antiga",
+    "d": "coacervação, hipótese segundo a qual agregados de moléculas orgânicas em solução deram origem às primeiras estruturas celulares",
+    "e": "panspermia, hipótese segundo a qual componentes ou formas de vida teriam chegado à Terra a partir do espaço"
+   },
+   "resposta": "e",
+   "explicacao": "Panspermia é a hipótese de que componentes orgânicos ou formas de vida microscópicas teriam chegado à Terra a partir do espaço, transportados por meteoritos ou cometas — ela desloca o problema da origem da vida para outro lugar do universo, sem resolvê-lo. As demais alternativas descrevem outras hipóteses reais sobre a origem da vida na própria Terra, distintas da descrita.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-348",
+   "texto_apoio": "Um diagrama em forma de árvore representa, a partir de um ponto comum na base, ramificações sucessivas que levam aos diferentes grupos de organismos hoje existentes, cada bifurcação indicando um ponto de separação entre linhagens.",
+   "enunciado": "Nesse tipo de diagrama, dois grupos que se separam num ponto de ramificação mais próximo do topo, em relação a um terceiro grupo mais distante, indicam que os dois primeiros:",
+   "alternativas": {
+    "a": "ocupam posição de maior superioridade evolutiva em relação ao terceiro grupo representado mais abaixo no diagrama",
+    "b": "vivem atualmente na mesma região geográfica, informação que o diagrama de ramificação também costuma representar",
+    "c": "têm o mesmo número de indivíduos na população atual, o que determinaria a proximidade das ramificações representadas",
+    "d": "surgiram exatamente na mesma época geológica, informação inferida diretamente da altura de cada ramificação no diagrama",
+    "e": "compartilham um ancestral comum mais recente entre si do que com o terceiro grupo mais distante no diagrama"
+   },
+   "resposta": "e",
+   "explicacao": "Num diagrama desse tipo, chamado cladograma, a posição da ramificação indica apenas o grau de parentesco evolutivo: grupos que se separam num ponto mais próximo do topo compartilham um ancestral comum mais recente entre si do que com um grupo cuja ramificação ocorre mais na base. O diagrama não indica localização geográfica, tamanho populacional, época exata ou qualquer hierarquia de superioridade entre os grupos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-349",
+   "texto_apoio": "Indivíduos de uma espécie de roedor atravessam ocasionalmente um rio que separa duas populações vizinhas, cruzando com indivíduos da outra margem e introduzindo, a cada travessia, novas combinações genéticas na população receptora.",
+   "enunciado": "Esse mecanismo, pelo qual a migração de indivíduos entre populações introduz variação genética, é conhecido como:",
+   "alternativas": {
+    "a": "deriva genética, mecanismo pelo qual o acaso altera a composição genética de uma população isolada, sem relação com migração",
+    "b": "seleção natural, mecanismo pelo qual características vantajosas se tornam mais frequentes numa população ao longo de gerações",
+    "c": "fluxo gênico, mecanismo pelo qual a migração de indivíduos entre populações introduz variação genética entre elas",
+    "d": "especiação alopátrica, mecanismo pelo qual uma barreira geográfica intransponível leva ao surgimento de espécies distintas",
+    "e": "endogamia, mecanismo pelo qual o cruzamento preferencial entre parentes próximos reduz a variação genética de uma população"
+   },
+   "resposta": "c",
+   "explicacao": "Fluxo gênico é o mecanismo pelo qual a migração de indivíduos entre populações introduz variação genética — o oposto do isolamento reprodutivo que sustenta a especiação: quanto maior o fluxo gênico entre duas populações, menor a chance de elas se tornarem espécies distintas. Deriva genética (a) e seleção natural (b) são mecanismos evolutivos distintos, sem depender de migração entre populações.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-359",
+   "texto_apoio": "Um grupo de vertebrados apresenta pele seca, coberta por escamas queratinizadas que reduzem a perda de água, e um ovo com casca resistente que permite o desenvolvimento embrionário fora de ambientes aquáticos.",
+   "enunciado": "Esse grupo de vertebrados, ao qual pertencem cobras, lagartos e jacarés, é conhecido como:",
+   "alternativas": {
+    "a": "anfíbios, grupo de vertebrados com fase inicial majoritariamente aquática e pele fina e permeável na fase adulta",
+    "b": "peixes, grupo de vertebrados aquáticos que respiram por guelras ao longo da vida inteira, sem passar por fase terrestre no ciclo",
+    "c": "mamíferos, grupo de vertebrados endotérmicos com corpo coberto por pelos e glândulas que produzem leite",
+    "d": "aves, grupo de vertebrados endotérmicos com corpo coberto por penas e membros anteriores modificados em asas",
+    "e": "répteis, grupo de vertebrados com pele seca e escamosa e ovo de casca resistente, adaptado a ambientes terrestres secos"
+   },
+   "resposta": "e",
+   "explicacao": "Répteis — cobras, lagartos, jacarés — têm pele seca e escamosa, que reduz a perda de água, e um ovo com casca resistente que permite o desenvolvimento embrionário fora da água, adaptação central à vida em ambientes terrestres secos. Os demais grupos de vertebrados listados têm características corporais distintas dessa adaptação específica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-361",
+   "texto_apoio": "Todo ser vivo conhecido recebe um nome científico composto por duas palavras em latim: a primeira indica o grupo mais próximo de parentesco a que ele pertence, e a segunda distingue esse ser dos demais integrantes desse mesmo grupo.",
+   "enunciado": "Esse sistema de nomeação, criado por Lineu e usado até hoje na biologia, é conhecido como:",
+   "alternativas": {
+    "a": "classificação filogenética, sistema que organiza os seres vivos conforme o grau de parentesco evolutivo entre eles",
+    "b": "nomenclatura vernacular, sistema que usa o nome popular de cada ser vivo, variável conforme a região e o idioma",
+    "c": "taxonomia numérica, sistema que atribui um código numérico único a cada espécie descrita pela ciência",
+    "d": "classificação artificial, sistema que agrupa seres vivos apenas pela semelhança de aparência externa entre eles",
+    "e": "nomenclatura binomial, sistema que atribui a cada ser vivo um nome científico composto por gênero e espécie"
+   },
+   "resposta": "e",
+   "explicacao": "A nomenclatura binomial, criada por Lineu, atribui a cada ser vivo um nome científico de duas palavras em latim: a primeira indica o gênero, a segunda distingue a espécie dentro desse gênero — como em Homo sapiens. As demais alternativas descrevem outros sistemas ou conceitos reais da biologia, mas distintos dessa nomenclatura de duas palavras.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
    "id": "dir-ciencias-natureza-06",
    "texto_apoio": "A resistência bacteriana a antibióticos é apontada pela Organização Mundial da Saúde como uma das principais ameaças à saúde pública global.",
    "enunciado": "O uso inadequado e excessivo de antibióticos, tanto em humanos quanto na produção animal, contribui para a resistência bacteriana porque",
@@ -8740,6 +9148,118 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Um cátion e um ânion são isoeletrônicos quando têm o mesmo número de elétrons; Na⁺ (10 elétrons) e F⁻ (10 elétrons) formam o par isoeletrônico NaF, já que ambos derivam de átomos vizinhos ao neônio na tabela periódica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-316",
+   "enunciado": "A datação por carbono-14 baseia-se no fato de que esse isótopo apresenta meia-vida de aproximadamente 5.730 anos. O carbono-14 e o carbono-12 têm o mesmo número atômico, mas números de massa diferentes. Essa diferença decorre de os dois:",
+   "alternativas": {
+    "a": "ocuparem posições distintas na tabela periódica, o que altera o comportamento de cada um deles nas combinações",
+    "b": "possuírem quantidades diferentes de nêutrons no núcleo, mantendo igual o número de prótons",
+    "c": "apresentarem número diferente de elétrons na camada de valência, o que modifica a massa total registrada",
+    "d": "terem se formado em processos distintos, o que resulta em variação da massa de cada partícula nuclear",
+    "e": "diferirem quanto à carga nuclear, propriedade que define a identidade química de cada elemento observado"
+   },
+   "resposta": "b",
+   "explicacao": "Isótopos de um mesmo elemento têm igual número atômico (prótons) e diferentes números de massa, porque variam na quantidade de nêutrons. O carbono-14 tem 6 prótons e 8 nêutrons; o carbono-12, 6 prótons e 6 nêutrons.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-317",
+   "enunciado": "O cloreto de sódio conduz corrente elétrica quando fundido, enquanto a sacarose, mesmo fundida, não conduz. A explicação está no tipo de ligação presente em cada substância, associada à diferença de eletronegatividade entre os elementos que as formam. Assim:",
+   "alternativas": {
+    "a": "ambas apresentam ligação covalente, e a diferença observada decorre do tamanho das partículas envolvidas",
+    "b": "o cloreto de sódio apresenta ligação metálica, com elétrons livres percorrendo a estrutura do material fundido",
+    "c": "a sacarose apresenta ligação iônica fraca, insuficiente para permitir a movimentação de carga no estado líquido",
+    "d": "o cloreto de sódio apresenta ligação iônica, e no estado fundido seus íons adquirem mobilidade e conduzem",
+    "e": "as duas substâncias apresentam ligação de hidrogênio, que responde pela condução em apenas um dos casos"
+   },
+   "resposta": "d",
+   "explicacao": "A grande diferença de eletronegatividade entre sódio e cloro produz ligação iônica. No estado sólido os íons ocupam posições fixas no retículo; fundidos, ganham mobilidade e conduzem corrente. A sacarose é molecular e não gera íons livres.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-318",
+   "enunciado": "As moléculas de dióxido de carbono e de água apresentam geometria molecular diferente: a primeira é linear e a segunda, angular. Embora as duas tenham ligações do tipo covalente entre átomos de eletronegatividade distinta, apenas a água é uma molécula polar. Isso ocorre porque:",
+   "alternativas": {
+    "a": "no dióxido de carbono os vetores de dipolo se anulam pela simetria da geometria linear",
+    "b": "as ligações presentes no dióxido de carbono apresentam caráter iônico, e não covalente, ao contrário do previsto",
+    "c": "a água possui maior número de átomos, o que eleva de forma direta a intensidade do momento de dipolo obtido",
+    "d": "o oxigênio e o carbono apresentam eletronegatividade idêntica, o que elimina a separação de carga na ligação",
+    "e": "a geometria angular reduz a distância entre os núcleos e por isso diminui a polaridade final da estrutura"
+   },
+   "resposta": "a",
+   "explicacao": "No CO₂ os dois dipolos das ligações têm mesma intensidade e sentidos opostos, e a simetria linear os anula: a molécula é apolar. Na água, a geometria angular impede o cancelamento, e o momento de dipolo resultante é diferente de zero.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-319",
+   "enunciado": "A água apresenta temperatura de ebulição bem mais alta que a do gás sulfídrico, embora os dois compostos tenham fórmulas semelhantes e o segundo possua maior massa. A explicação está nas forças intermoleculares presentes na água, que incluem:",
+   "alternativas": {
+    "a": "interações do tipo dipolo induzido, mais intensas por causa do maior volume ocupado pelas moléculas do composto",
+    "b": "forças de van der Waals de intensidade elevada, decorrentes da diferença de massa entre os dois compostos citados",
+    "c": "ligação de hidrogênio entre moléculas vizinhas, interação mais intensa que as presentes no gás sulfídrico",
+    "d": "ligação metálica entre os átomos de oxigênio, responsável pela coesão observada no estado líquido do material",
+    "e": "atração entre íons de cargas opostas, formados pela separação espontânea das moléculas no estado líquido"
+   },
+   "resposta": "c",
+   "explicacao": "A alta eletronegatividade do oxigênio e seu par de elétrons não ligantes permitem ligações de hidrogênio entre moléculas de água, bem mais intensas que as forças que atuam no H₂S. Romper essa rede exige mais energia, e a ebulição ocorre a temperatura maior.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-320",
+   "enunciado": "Ao percorrer um período da tabela periódica da esquerda para a direita, observa-se tendência de redução do raio atômico dos elementos, ainda que o número de elétrons aumente. Essa tendência se explica porque, ao longo do período:",
+   "alternativas": {
+    "a": "os elétrons acrescentados ocupam camadas cada vez mais internas, aproximando-se do núcleo de cada átomo",
+    "b": "a massa dos átomos aumenta e comprime a eletrosfera por efeito do acréscimo de partículas no núcleo",
+    "c": "a repulsão entre os elétrons da camada mais externa diminui de forma acentuada, o que reduz o volume ocupado pela eletrosfera",
+    "d": "o número de camadas permanece o mesmo enquanto a carga nuclear cresce, atraindo mais fortemente a eletrosfera",
+    "e": "os elementos passam a apresentar caráter metálico crescente, propriedade associada a átomos de menor volume"
+   },
+   "resposta": "d",
+   "explicacao": "Dentro de um período, os elétrons entram na mesma camada de valência enquanto o número de prótons aumenta. A carga nuclear maior atrai a eletrosfera com mais intensidade, e o raio atômico diminui.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-321",
+   "enunciado": "Um átomo neutro possui 17 prótons. Ao se combinar, ele tende a receber um elétron e atingir configuração eletrônica semelhante à de um gás nobre. Sobre esse elemento, é correto afirmar que ele pertence:",
+   "alternativas": {
+    "a": "à família dos metais alcalinos, com forte tendência a ceder elétrons em suas combinações químicas usuais",
+    "b": "à família dos halogênios, no terceiro período, e apresenta sete elétrons na camada de valência",
+    "c": "à família dos gases nobres, já que atinge estabilidade sem participar de combinações com outros elementos",
+    "d": "ao grupo dos metais de transição, com camada de valência incompleta e vários estados de combinação possíveis",
+    "e": "à família dos calcogênios, no segundo período, com seis elétrons disponíveis para as ligações que estabelece"
+   },
+   "resposta": "b",
+   "explicacao": "Com 17 prótons, a distribuição eletrônica termina em 3s² 3p⁵: sete elétrons na camada de valência e três camadas ocupadas. É o cloro, halogênio do terceiro período, que completa o octeto recebendo um elétron.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-322",
+   "enunciado": "Os metais conduzem bem a eletricidade e podem ser transformados em fios e lâminas sem se romper. Esse conjunto de propriedades é atribuído à ligação metálica, cuja característica, associada à baixa eletronegatividade desses elementos, é a presença de:",
+   "alternativas": {
+    "a": "pares de elétrons compartilhados de modo localizado entre dois átomos vizinhos da estrutura cristalina",
+    "b": "íons de cargas opostas dispostos em posições fixas de um retículo rígido e bem definido, sem mobilidade entre eles",
+    "c": "interações fracas entre moléculas neutras, que se deslocam com facilidade umas em relação às outras",
+    "d": "elétrons compartilhados entre átomos de eletronegatividade muito diferente, o que gera polos bem definidos",
+    "e": "cátions imersos em elétrons deslocalizados, que percorrem o retículo e permitem o deslizamento das camadas"
+   },
+   "resposta": "e",
+   "explicacao": "Na ligação metálica os elétrons de valência ficam deslocalizados por todo o retículo de cátions. Essa nuvem móvel explica a condução elétrica e permite que as camadas de cátions deslizem sob impacto sem que o material se rompa.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -12549,6 +13069,86 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "PET e PA têm densidades diferentes; ao mergulhar os fragmentos triturados em um líquido de densidade intermediária, o material menos denso flutua e o mais denso afunda — um processo de separação por densidade, do tipo flotação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-311",
+   "enunciado": "O soro fisiológico usado em hospitais é uma solução aquosa em que o soluto é o cloreto de sódio, na concentração comum de 9 g/L. Um frasco de uso hospitalar contém 500 mL dessa solução. A massa de soluto dissolvida nesse frasco é de:",
+   "alternativas": {
+    "a": "0,45 g, valor obtido quando se considera que o volume do frasco corresponde a um décimo do volume de referência indicado",
+    "b": "1,8 g, resultado da divisão da concentração comum pelo volume do frasco hospitalar expresso em mililitros",
+    "c": "4,5 g, metade da massa que estaria dissolvida em um litro dessa mesma solução aquosa",
+    "d": "9,0 g, a mesma massa presente em um litro, já que a redução do volume não altera a quantidade de soluto",
+    "e": "18 g, o dobro da massa correspondente a um litro da solução, em razão da redução do volume do frasco"
+   },
+   "resposta": "c",
+   "explicacao": "Na concentração comum, C = m/V. Com C = 9 g/L e V = 0,5 L, tem-se m = 9 × 0,5 = 4,5 g. Metade do volume de referência carrega metade da massa de soluto dissolvida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-312",
+   "enunciado": "Em um laboratório, 50 mL de uma solução aquosa de sulfato de cobre a 40 g/L foram transferidos para um balão volumétrico, e o volume foi completado com água destilada até 200 mL. Após essa diluição, a concentração da solução obtida é de:",
+   "alternativas": {
+    "a": "10 g/L, pois a massa de soluto permanece a mesma enquanto o volume final se torna quatro vezes maior",
+    "b": "20 g/L, valor correspondente à metade da concentração inicial, proporção equivalente à do volume acrescentado ao balão",
+    "c": "40 g/L, já que o acréscimo de solvente não interfere na relação entre a massa dissolvida e o volume ocupado",
+    "d": "80 g/L, resultado do produto entre a concentração inicial e a razão entre os volumes medidos no procedimento",
+    "e": "160 g/L, valor que corresponde à concentração inicial multiplicada pelo fator de variação do volume final"
+   },
+   "resposta": "a",
+   "explicacao": "Na diluição, a massa de soluto não muda: C₁V₁ = C₂V₂. Assim, 40 × 50 = C₂ × 200, e C₂ = 10 g/L. Acrescentar solvente aumenta o volume e reduz a concentração na mesma proporção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-313",
+   "enunciado": "A solubilidade do nitrato de potássio em água é de 32 g por 100 g de água a 20 °C. Um estudante adicionou 50 g desse sal a 100 g de água nessa temperatura e agitou o sistema até que não houvesse mais dissolução. Ao final do procedimento, ele obteve:",
+   "alternativas": {
+    "a": "uma solução insaturada contendo os 50 g adicionados, já que a água ainda apresentava capacidade de receber mais material",
+    "b": "uma solução saturada com os 50 g dissolvidos, pois a agitação prolongada eleva a capacidade de dissolução do solvente",
+    "c": "duas fases líquidas distintas, cada uma com concentração diferente do material adicionado ao sistema pelo estudante",
+    "d": "uma solução supersaturada estável, formada pela adição de massa superior ao limite indicado para essa temperatura",
+    "e": "uma solução saturada com 32 g dissolvidos e 18 g de corpo de fundo depositados no recipiente"
+   },
+   "resposta": "e",
+   "explicacao": "A 20 °C, 100 g de água dissolvem no máximo 32 g do sal. Dos 50 g adicionados, 32 g formam a solução saturada e os 18 g restantes permanecem como corpo de fundo, sem se dissolver.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-314",
+   "enunciado": "Em regiões de inverno rigoroso, adiciona-se etilenoglicol à água do radiador dos veículos. O efeito buscado é o abaixamento da temperatura de congelamento do líquido, uma propriedade coligativa que também se manifesta na redução da pressão de vapor. Esse abaixamento ocorre porque a presença do soluto não volátil:",
+   "alternativas": {
+    "a": "eleva a agitação das partículas do solvente, o que desloca a temperatura em que as fases líquida e sólida do sistema passam a coexistir no radiador",
+    "b": "dificulta a organização das moléculas do solvente na estrutura cristalina do sólido, exigindo temperatura mais baixa",
+    "c": "aumenta a quantidade de calor liberada durante a mudança de estado do material presente no radiador",
+    "d": "reduz a massa de solvente disponível, alterando a proporção entre as substâncias que compõem a mistura",
+    "e": "modifica a natureza química do solvente e o transforma em substância de comportamento distinto do original"
+   },
+   "resposta": "b",
+   "explicacao": "As propriedades coligativas dependem da quantidade de partículas de soluto dispersas, não de sua natureza. O soluto não volátil interfere na organização do solvente na rede cristalina, e o congelamento passa a exigir temperatura menor.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-315",
+   "enunciado": "A dessalinização da água do mar por osmose reversa emprega uma membrana semipermeável e pressão aplicada sobre a água salgada. O processo permite obter água com baixo teor de soluto porque a membrana:",
+   "alternativas": {
+    "a": "retém as moléculas de água e deixa passar o material dissolvido, que é recolhido do outro lado do sistema",
+    "b": "promove a evaporação seletiva do solvente, que é depois condensado em compartimento separado do equipamento",
+    "c": "reage com o material dissolvido e o converte em substâncias insolúveis, que ficam depositadas na superfície",
+    "d": "deixa passar o solvente e retém o material dissolvido, quando a pressão aplicada supera a pressão osmótica",
+    "e": "separa a mistura pela diferença de densidade entre as porções mais concentradas e as mais diluídas do líquido"
+   },
+   "resposta": "d",
+   "explicacao": "Na osmose espontânea, o solvente migra da região menos concentrada para a mais concentrada. Aplicando pressão maior que a osmótica, o sentido se inverte: o solvente atravessa a membrana e o soluto fica retido.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -19379,6 +19979,210 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A variação de energia interna é ΔU=n×Cv×ΔT=4×12,5×16=800 J.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-355",
+   "texto_apoio": "Um carrinho de 4 kg se desloca a 5 metros por segundo em uma pista horizontal.",
+   "enunciado": "A energia cinética desse carrinho vale:",
+   "alternativas": {
+    "a": "10 J",
+    "b": "20 J",
+    "c": "50 J",
+    "d": "100 J",
+    "e": "200 J"
+   },
+   "resposta": "c",
+   "explicacao": "A energia cinética é dada por Ec = (m × v²) ÷ 2 = (4 × 5²) ÷ 2 = (4 × 25) ÷ 2 = 50 J. Esquecer de elevar a rapidez ao quadrado leva a 10 J; esquecer de dividir por dois leva a 100 J.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-356",
+   "texto_apoio": "Um objeto de 2 kg está a 10 m de altura em relação ao solo, numa gravidade de intensidade 10 N/kg.",
+   "enunciado": "A energia potencial gravitacional desse objeto, em relação ao solo, vale:",
+   "alternativas": {
+    "a": "200 J",
+    "b": "100 J",
+    "c": "2.000 J",
+    "d": "20 J",
+    "e": "10 J"
+   },
+   "resposta": "a",
+   "explicacao": "A energia potencial gravitacional é dada por Ep = m × g × h = 2 × 10 × 10 = 200 J. Multiplicar apenas dois dos três valores, ou trocar a ordem de grandeza, leva às demais opções oferecidas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-357",
+   "texto_apoio": "Uma bola de 0,5 kg é solta do repouso de uma altura de 8 m acima do solo, numa gravidade de intensidade 10 N/kg. A resistência do ar é desprezível ao longo de toda a queda.",
+   "enunciado": "No instante em que a bola atinge o solo, sua energia cinética vale:",
+   "alternativas": {
+    "a": "4 J",
+    "b": "8 J",
+    "c": "40 J",
+    "d": "80 J",
+    "e": "400 J"
+   },
+   "resposta": "c",
+   "explicacao": "Pela conservação da energia mecânica, toda a energia potencial inicial se converte em energia cinética ao atingir o solo: Ec = Ep = m × g × h = 0,5 × 10 × 8 = 40 J. Erros de uma casa decimal na multiplicação levam às demais opções.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-358",
+   "texto_apoio": "Uma pessoa empurra uma caixa por 6 m em linha reta, aplicando sobre ela uma força constante de 20 N na mesma direção do deslocamento.",
+   "enunciado": "O trabalho realizado por essa força sobre a caixa vale:",
+   "alternativas": {
+    "a": "3,3 J",
+    "b": "26 J",
+    "c": "14 J",
+    "d": "1.200 J",
+    "e": "120 J"
+   },
+   "resposta": "e",
+   "explicacao": "Quando a força tem a mesma direção do deslocamento, o trabalho é dado por W = F × d = 20 × 6 = 120 J. Adicionar em vez de multiplicar os valores leva a 26 J; um erro de posição decimal leva a 1.200 J.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-359",
+   "texto_apoio": "Um motor realiza um trabalho de 3.000 J sobre uma carga em um intervalo de 15 segundos.",
+   "enunciado": "A potência mecânica desenvolvida por esse motor, nesse intervalo, vale:",
+   "alternativas": {
+    "a": "45.000 W",
+    "b": "200 W",
+    "c": "20 W",
+    "d": "2.985 W",
+    "e": "3.015 W"
+   },
+   "resposta": "b",
+   "explicacao": "A potência mecânica é a razão entre o trabalho realizado e o intervalo de tempo: P = W ÷ t = 3.000 ÷ 15 = 200 W. Multiplicar em vez de dividir leva a 45.000 W; um erro de posição decimal leva a 20 W.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-360",
+   "texto_apoio": "Uma máquina recebe uma potência total de 500 W, mas apenas 350 W são efetivamente convertidos em trabalho útil; o restante se dissipa em forma de calor.",
+   "enunciado": "O rendimento dessa máquina vale:",
+   "alternativas": {
+    "a": "30%",
+    "b": "35%",
+    "c": "50%",
+    "d": "150%",
+    "e": "70%"
+   },
+   "resposta": "e",
+   "explicacao": "O rendimento é a razão entre a potência útil e a potência total recebida: η = (350 ÷ 500) × 100 = 70%. Inverter a razão entre potência dissipada e potência total leva a 30%.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-361",
+   "texto_apoio": "Um patinador de 60 kg se desloca a 4 metros por segundo sobre uma pista de gelo horizontal.",
+   "enunciado": "A quantidade de movimento desse patinador, nesse instante, vale:",
+   "alternativas": {
+    "a": "15 quilograma-metro por segundo",
+    "b": "64 quilograma-metro por segundo",
+    "c": "120 quilograma-metro por segundo",
+    "d": "240 quilograma-metro por segundo",
+    "e": "480 quilograma-metro por segundo"
+   },
+   "resposta": "d",
+   "explicacao": "A quantidade de movimento é dada por p = m × v = 60 × 4 = 240 quilograma-metro por segundo. Adicionar em vez de multiplicar os valores leva a 64 quilograma-metro por segundo; um erro no fator de multiplicação leva às demais opções.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-362",
+   "texto_apoio": "Uma bola de 0,2 kg se move a 6 metros por segundo em direção a uma parede. Após colidir com a parede, ela retorna com rapidez de 4 metros por segundo, no sentido oposto.",
+   "enunciado": "O módulo do impulso exercido pela parede sobre a bola durante a colisão vale:",
+   "alternativas": {
+    "a": "0,4 quilograma-metro por segundo",
+    "b": "0,8 quilograma-metro por segundo",
+    "c": "1,2 quilograma-metro por segundo",
+    "d": "2,0 quilograma-metro por segundo",
+    "e": "10 quilograma-metro por segundo"
+   },
+   "resposta": "d",
+   "explicacao": "O impulso equivale à variação da quantidade de movimento. Tomando o sentido inicial como positivo: I = m × (v_final − v_inicial) = 0,2 × (−4 − 6) = 0,2 × (−10) = −2,0 quilograma-metro por segundo, cujo módulo é 2,0 quilograma-metro por segundo — a inversão de sentido faz as rapidezes se adicionarem, não se subtraírem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-363",
+   "texto_apoio": "Duas esferas idênticas de 1 kg cada se movem uma em direção à outra sobre uma superfície sem atrito: a primeira a 5 metros por segundo, a segunda a 3 metros por segundo em sentido oposto. Após a colisão, que é perfeitamente elástica, cada esfera inverte o sentido do movimento.",
+   "enunciado": "Sobre as rapidezes das esferas logo após essa colisão perfeitamente elástica entre corpos de massas iguais, é correto afirmar que elas:",
+   "alternativas": {
+    "a": "trocam de valor entre si, cada esfera passando a se mover com a rapidez que a outra tinha antes da colisão",
+    "b": "se igualam, ambas passando a se mover com a média aritmética das duas rapidezes que tinham antes da colisão descrita",
+    "c": "se anulam, ambas esferas permanecendo em repouso completo logo após o instante da colisão descrita",
+    "d": "dobram de valor, cada esfera passando a se mover com o dobro da rapidez que tinha antes da colisão",
+    "e": "permanecem inalteradas, cada esfera mantendo exatamente a mesma rapidez que tinha antes da colisão"
+   },
+   "resposta": "a",
+   "explicacao": "Numa colisão perfeitamente elástica entre corpos de massas iguais, as rapidezes se trocam entre os dois corpos: a esfera que se movia a 5 metros por segundo passa a se mover a 3 metros por segundo, e vice-versa, conservando ao mesmo tempo a quantidade de movimento total e a energia cinética total do sistema.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-364",
+   "texto_apoio": "Um vagão de 8 kg se move a 3 metros por segundo e colide com outro vagão de 4 kg, inicialmente em repouso. Após a colisão, os dois vagões permanecem grudados, movendo-se juntos com a mesma rapidez.",
+   "enunciado": "A rapidez conjunta dos dois vagões logo após essa colisão perfeitamente inelástica vale:",
+   "alternativas": {
+    "a": "1 metro por segundo",
+    "b": "2 metros por segundo",
+    "c": "3 metros por segundo",
+    "d": "4 metros por segundo",
+    "e": "6 metros por segundo"
+   },
+   "resposta": "b",
+   "explicacao": "Numa colisão perfeitamente inelástica, a quantidade de movimento total se conserva: m₁v₁ = (m₁ + m₂) × v_final. Logo, 8 × 3 = (8 + 4) × v_final, o que dá v_final = 24 ÷ 12 = 2 metros por segundo. Usar apenas a massa do vagão que colide, sem adicionar as duas massas, leva a 6 metros por segundo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-365",
+   "texto_apoio": "Uma mola ideal tem constante elástica de 200 N/m. Ao ser comprimida, ela exerce sobre um bloco uma força de 50 N.",
+   "enunciado": "A deformação sofrida pela mola nessa situação vale:",
+   "alternativas": {
+    "a": "0,25 cm",
+    "b": "2,5 cm",
+    "c": "4 cm",
+    "d": "25 cm",
+    "e": "40 cm"
+   },
+   "resposta": "d",
+   "explicacao": "Pela lei de Hooke, F = k × x, logo x = F ÷ k = 50 ÷ 200 = 0,25 m, que convertidos dão 25 cm. Um erro de posição decimal na conversão de metros para centímetros leva às demais opções.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-366",
+   "texto_apoio": "Uma mola ideal de constante elástica 400 N/m é comprimida em 0,1 m a partir de sua posição de equilíbrio.",
+   "enunciado": "A energia potencial elástica armazenada nessa mola comprimida vale:",
+   "alternativas": {
+    "a": "0,2 J",
+    "b": "40 J",
+    "c": "4 J",
+    "d": "20 J",
+    "e": "2 J"
+   },
+   "resposta": "e",
+   "explicacao": "A energia potencial elástica é dada por Eel = (k × x²) ÷ 2 = (400 × 0,1²) ÷ 2 = (400 × 0,01) ÷ 2 = 4 ÷ 2 = 2 J. Esquecer de elevar a deformação ao quadrado leva a 20 J; esquecer de dividir por dois leva a 4 J.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -36950,6 +37754,210 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-211",
+   "texto_apoio": "A cidade decidiu proibir carros no centro histórico aos domingos. Isso reduziu a poluição sonora na região em quase 40%, segundo medições da prefeitura.",
+   "enunciado": "No trecho, o elemento coesivo \"isso\" retoma:",
+   "alternativas": {
+    "a": "a decisão de proibir carros no centro histórico aos domingos",
+    "b": "a redução da poluição sonora medida pela prefeitura na região",
+    "c": "a prefeitura, mencionada apenas na segunda oração do trecho",
+    "d": "os quase 40 por cento citados ao final da segunda oração",
+    "e": "o centro histórico da cidade, mencionado na primeira oração"
+   },
+   "resposta": "a",
+   "explicacao": "\"Isso\" é um pronome demonstrativo que retoma toda a proposição anterior — a proibição de carros aos domingos —, e não um único termo isolado. É essa proibição, e não a poluição ou a prefeitura, que causa a redução medida na segunda oração.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-212",
+   "texto_apoio": "O laboratório investiu pesado em equipamentos novos. Portanto, a expectativa da diretoria é de que a produção dobre até o fim do ano.",
+   "enunciado": "O conectivo \"portanto\", no trecho, estabelece entre as duas orações uma relação de:",
+   "alternativas": {
+    "a": "oposição, indicando que a segunda oração contraria o que foi dito na primeira",
+    "b": "conclusão, indicando que a segunda oração decorre logicamente da primeira",
+    "c": "adição, indicando que a segunda oração apenas soma uma informação nova à primeira",
+    "d": "comparação, indicando que as duas orações descrevem situações equivalentes entre si",
+    "e": "finalidade, indicando que a primeira oração existe com o propósito descrito na segunda"
+   },
+   "resposta": "b",
+   "explicacao": "\"Portanto\" é um conectivo conclusivo: introduz uma consequência lógica do que foi afirmado antes. O investimento em equipamentos é apresentado como a razão pela qual a diretoria espera o aumento de produção — uma relação de conclusão, não de oposição, adição ou comparação.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-213",
+   "texto_apoio": "Embora o novo medicamento tenha reduzido os sintomas na maioria dos pacientes testados, a equipe de pesquisa decidiu adiar o pedido de aprovação por mais seis meses.",
+   "enunciado": "O conectivo \"embora\", no trecho, estabelece entre as duas orações uma relação de:",
+   "alternativas": {
+    "a": "condição, indicando que a segunda oração só se realiza caso a primeira oração se confirme antes",
+    "b": "causa, indicando que a primeira oração é o motivo direto que explica o conteúdo da segunda oração",
+    "c": "concessão, indicando que a segunda oração ocorre apesar do que se esperaria a partir da primeira",
+    "d": "adição, indicando que a segunda oração apenas soma uma informação nova e independente à primeira",
+    "e": "conclusão, indicando que a segunda oração é a consequência lógica esperada a partir da primeira"
+   },
+   "resposta": "c",
+   "explicacao": "\"Embora\" introduz uma concessão: aponta um fato (a redução dos sintomas) que tornaria esperado um desfecho diferente do que de fato ocorre (o adiamento do pedido). É essa quebra de expectativa, e não uma causa direta ou uma condição, que o conectivo assinala.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-214",
+   "texto_apoio": "Nas últimas três décadas, o consumo de água em grandes centros urbanos brasileiros cresceu de forma constante, impulsionado pelo aumento populacional e pela expansão do saneamento básico. Diante desse cenário, cidades ao redor do mundo vêm adotando tecnologias de reúso e monitoramento em tempo real do consumo residencial. No Brasil, essas iniciativas ainda são pontuais, restritas a projetos-piloto em poucas capitais.",
+   "enunciado": "No texto, o parágrafo inicial tem a função de:",
+   "alternativas": {
+    "a": "descrever detalhadamente uma tecnologia específica de monitoramento residencial de consumo de água",
+    "b": "concluir a discussão iniciada em parágrafos anteriores sobre tecnologias de reúso de água tratada",
+    "c": "contrapor diretamente o que será apresentado ao longo do restante inteiro do texto",
+    "d": "apresentar o crescimento do consumo de água como pano de fundo para o problema discutido em seguida",
+    "e": "anunciar a conclusão a que o texto chegará antes mesmo de apresentar dado ou contexto relevante algum"
+   },
+   "resposta": "d",
+   "explicacao": "O parágrafo inicial estabelece o contexto — o crescimento do consumo de água — sobre o qual o restante do texto se apoia para introduzir o tema das tecnologias de reúso e monitoramento, funcionando como pano de fundo, não como conclusão ou oposição ao que vem a seguir.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-215",
+   "texto_apoio": "O projeto de lei tramitou por quatro anos no Congresso, passando por dezenas de emendas e duas rejeições em comissões temáticas. Superadas essas etapas, o texto finalmente foi votado e aprovado em plenário, encerrando um dos processos legislativos mais longos da década.",
+   "enunciado": "No texto, o parágrafo final tem a função de:",
+   "alternativas": {
+    "a": "abrir um novo tópico, totalmente independente do processo de tramitação relatado anteriormente",
+    "b": "introduzir uma objeção contrária à aprovação do projeto de lei discutido ao longo do texto",
+    "c": "apresentar dados estatísticos inéditos sobre a frequência de rejeições em comissões temáticas do Congresso",
+    "d": "contradizer a informação apresentada anteriormente sobre o número de emendas ao projeto de lei",
+    "e": "encerrar a narrativa da tramitação, marcando o desfecho de um processo cujas etapas foram descritas antes"
+   },
+   "resposta": "e",
+   "explicacao": "O parágrafo final fecha a narrativa iniciada antes: depois de descrever as etapas da tramitação, encerra o texto marcando o desfecho — a aprovação em plenário —, sem introduzir objeção nova, dado inédito ou tópico independente do que já vinha sendo tratado.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-216",
+   "texto_apoio": "O texto começa descrevendo o cotidiano de uma pequena cooperativa de reciclagem numa periferia urbana. Em seguida, amplia o foco para mostrar como cooperativas semelhantes se espalharam pelo país. Por fim, discute os desafios legais que essas cooperativas enfrentam para formalizar sua atividade.",
+   "enunciado": "A progressão temática descrita, que parte de um caso específico para um panorama mais amplo e termina num problema estrutural, segue uma organização:",
+   "alternativas": {
+    "a": "do particular para o geral, encerrando com uma reflexão sobre um obstáculo comum a esse panorama mais amplo",
+    "b": "cronológica, organizada estritamente pela ordem temporal em que cada cooperativa foi fundada no país",
+    "c": "comparativa, contrapondo ponto a ponto duas cooperativas específicas mencionadas no desenvolvimento inteiro do texto descrito",
+    "d": "circular, retornando ao final exatamente ao ponto de partida descrito no início do texto apresentado",
+    "e": "espacial, organizada apenas pela distância geográfica entre as cooperativas mencionadas ao longo do texto"
+   },
+   "resposta": "a",
+   "explicacao": "A progressão vai do caso específico (uma cooperativa) para o geral (o fenômeno espalhado pelo país) e termina num problema estrutural (os desafios legais) — organização do particular para o geral, e não cronológica, comparativa, circular ou puramente espacial.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-217",
+   "texto_apoio": "A prefeitura reduziu o intervalo entre os ônibus da linha expressa. Como resultado, o número de passageiros na linha cresceu 22% em apenas dois meses.",
+   "enunciado": "Entre as duas orações do trecho, a expressão \"como resultado\" estabelece uma relação de:",
+   "alternativas": {
+    "a": "comparação, em que duas situações equivalentes são postas lado a lado sem qualquer relação de causa envolvida",
+    "b": "causa e efeito, em que a redução do intervalo entre ônibus explica o crescimento do número de passageiros",
+    "c": "oposição, em que a segunda oração contraria diretamente a expectativa criada pela primeira oração do trecho",
+    "d": "condição, em que o crescimento do número de passageiros deveria necessariamente ocorrer antes da redução do intervalo",
+    "e": "adição, em que a segunda oração apenas soma um dado novo e independente sem qualquer relação com a primeira"
+   },
+   "resposta": "b",
+   "explicacao": "\"Como resultado\" marca explicitamente uma relação de causa e efeito: a redução do intervalo entre ônibus (causa) é apresentada como o que explica o crescimento do número de passageiros (efeito), não uma simples comparação, oposição, condição ou adição de dados.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-218",
+   "texto_apoio": "Na década de 1980, a empresa vendia exclusivamente para o mercado interno, com uma linha de produtos reduzida. Hoje, mais de 60% de sua receita vem de exportações, e o catálogo inclui centenas de itens diferentes.",
+   "enunciado": "Entre a situação da empresa na década de 1980 e a situação atual, descrita no texto, há uma relação de:",
+   "alternativas": {
+    "a": "condição, em que a situação atual da empresa só se tornaria possível caso a situação de 1980 se repetisse novamente",
+    "b": "causa e efeito, em que a situação da década de 1980 é apresentada como o motivo direto da situação atual da empresa",
+    "c": "contraste, evidenciado pela oposição entre um mercado restrito no passado e um mercado ampliado no presente",
+    "d": "semelhança, evidenciada pela permanência das mesmas características comerciais da empresa ao longo de todo o período",
+    "e": "finalidade, em que a situação de 1980 existiria com o propósito específico de produzir a situação descrita no presente"
+   },
+   "resposta": "c",
+   "explicacao": "O texto contrapõe dois momentos opostos da empresa: mercado restrito e catálogo reduzido no passado versus mercado ampliado e catálogo extenso no presente — uma relação de contraste, marcada pela oposição entre as duas situações, não de causa, condição, semelhança ou finalidade.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-219",
+   "texto_apoio": "O rio A tem vazão média de 1.200 metros cúbicos por segundo e nasce numa região de chuvas abundantes o ano todo. O rio B, mais curto, tem vazão média de apenas 90 metros cúbicos por segundo e atravessa uma região de chuvas concentradas em poucos meses do ano.",
+   "enunciado": "A comparação entre os dois rios, estabelecida no texto, é construída principalmente com base:",
+   "alternativas": {
+    "a": "no uso econômico predominante de cada rio pelas populações ribeirinhas que vivem próximas às suas margens",
+    "b": "no comprimento total de cada rio e na quantidade de afluentes que cada um deles recebe ao longo do percurso",
+    "c": "na profundidade média de cada rio e na velocidade da correnteza observada em pontos específicos do curso",
+    "d": "na vazão média e no regime de chuvas da região por onde cada rio passa ao longo do seu curso",
+    "e": "na temperatura média da água de cada rio ao longo das quatro estações do ano na região por onde passam"
+   },
+   "resposta": "d",
+   "explicacao": "O texto compara os dois rios por dois critérios explícitos: a vazão média (1.200 contra 90 metros cúbicos por segundo) e o regime de chuvas da região de cada um (abundante o ano todo contra concentrado em poucos meses) — não por comprimento, profundidade, uso econômico ou temperatura.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-220",
+   "texto_apoio": "Uma multa é uma sanção pecuniária aplicada como punição por uma infração já cometida. Um tributo, por sua vez, é uma cobrança compulsória vinculada a uma atividade estatal ou à simples manifestação de capacidade econômica do contribuinte, sem qualquer natureza punitiva.",
+   "enunciado": "O que distingue, segundo o texto, uma multa de um tributo é, principalmente, que a multa:",
+   "alternativas": {
+    "a": "é recolhida em periodicidade fixa, enquanto o tributo é cobrado apenas uma única vez por fato gerador ocorrido",
+    "b": "é sempre de valor mais alto do que o tributo cobrado numa mesma situação de infração cometida pelo contribuinte",
+    "c": "é cobrada apenas de pessoas físicas, enquanto o tributo é cobrado exclusivamente de pessoas jurídicas no país",
+    "d": "não pode ser contestada judicialmente, ao contrário do tributo, que admite recurso administrativo ou judicial",
+    "e": "tem natureza punitiva, decorrente de uma infração, enquanto o tributo não tem qualquer caráter de punição"
+   },
+   "resposta": "e",
+   "explicacao": "O texto distingue os dois conceitos por sua natureza: a multa é punitiva, decorrente de uma infração cometida; o tributo não tem caráter de punição, estando ligado a uma atividade estatal ou à capacidade econômica do contribuinte. As demais alternativas atribuem ao texto distinções que ele não estabelece.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-221",
+   "texto_apoio": "A startup lançou um aplicativo de transporte compartilhado em três capitais. Essa iniciativa atraiu a atenção de investidores internacionais interessados no mercado de mobilidade urbana emergente.",
+   "enunciado": "No trecho, o elemento coesivo \"essa iniciativa\" retoma:",
+   "alternativas": {
+    "a": "o lançamento do aplicativo de transporte compartilhado nas três capitais mencionadas",
+    "b": "os investidores internacionais interessados no mercado de mobilidade urbana emergente",
+    "c": "o mercado de mobilidade urbana emergente, mencionado apenas ao final do trecho",
+    "d": "as três capitais onde o aplicativo de transporte compartilhado foi lançado pela startup",
+    "e": "a atenção despertada entre investidores, mencionada na segunda oração do trecho"
+   },
+   "resposta": "a",
+   "explicacao": "\"Essa iniciativa\" é um elemento coesivo que retoma toda a ação descrita na primeira oração — o lançamento do aplicativo nas três capitais —, e não os investidores, o mercado ou as próprias capitais isoladamente.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-222",
+   "texto_apoio": "O texto se organiza em três blocos: primeiro, expõe o problema da evasão escolar no ensino médio; em seguida, apresenta dados comparativos entre diferentes regiões do país; por fim, descreve políticas públicas já testadas para reduzir esse problema.",
+   "enunciado": "A organização textual descrita no trecho segue a estrutura:",
+   "alternativas": {
+    "a": "solução, problema e dados comparativos, numa progressão que antecipa a resposta antes mesmo de expor a questão",
+    "b": "problema, dados comparativos e soluções já testadas, numa progressão que vai da exposição à resposta prática",
+    "c": "dados comparativos, solução e problema, numa progressão que parte do resultado numérico para o questionamento",
+    "d": "problema, solução e dados comparativos, numa progressão que trata os números como comentário final e não central",
+    "e": "solução, dados comparativos e problema, numa progressão inversa à ordem lógica de uma exposição bem construída"
+   },
+   "resposta": "b",
+   "explicacao": "O texto segue exatamente a ordem descrita: primeiro expõe o problema, depois apresenta dados comparativos entre regiões e, por fim, descreve as soluções testadas — uma progressão da exposição do problema até a resposta prática, e não outra ordem entre esses três blocos.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
    "id": "med-interpretacao-texto-134",
    "texto_apoio": "\"O enfermeiro entregou o prontuário ao residente. Ele havia anotado a intercorrência da madrugada.\"",
    "enunciado": "O problema de coesão presente no segundo período consiste em:",
@@ -42224,6 +43232,118 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Com \"nem um nem outro\", a norma prefere o singular, porque a negação isola os elementos em vez de somá-los. É o comportamento inverso ao de \"um e outro\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-151",
+   "enunciado": "Considere o período: \"Chegaram atrasados o coordenador e sua equipe.\" A forma verbal empregada obedece à regra de concordância verbal segundo a qual:",
+   "alternativas": {
+    "a": "o verbo permanece no singular quando o sujeito composto vem posposto, acompanhando o núcleo mais próximo",
+    "b": "o verbo vai ao plural por causa do sujeito composto, ainda que ele apareça depois da forma verbal",
+    "c": "o verbo concorda com a expressão que encabeça o período, o que determina a flexão de número adotada",
+    "d": "a concordância se faz com o termo que caracteriza o sujeito e comanda a flexão empregada na frase",
+    "e": "trata-se de sujeito indeterminado, situação em que o verbo assume a terceira pessoa do plural na escrita"
+   },
+   "resposta": "b",
+   "explicacao": "Com sujeito composto posposto ao verbo, a norma admite o plural, que é a forma preferida, ou a concordância com o núcleo mais próximo. Em \"Chegaram atrasados o coordenador e sua equipe\", o plural retoma os dois núcleos do sujeito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-152",
+   "enunciado": "Na frase \"Havia muitos candidatos na sala\", o verbo permanece no singular. Se \"haver\" fosse substituído por \"existir\", a forma adequada seria \"Existiam muitos candidatos na sala\". A diferença de concordância se explica porque:",
+   "alternativas": {
+    "a": "\"existir\" é verbo impessoal e por isso não admite flexão de número em construções desse tipo",
+    "b": "\"haver\" exige complemento no singular, o que impede a flexão da forma verbal em contextos semelhantes",
+    "c": "os dois verbos são impessoais, e a diferença de flexão decorre de preferência ligada ao registro formal",
+    "d": "\"haver\" no sentido de existir é impessoal e não tem sujeito, enquanto \"existir\" concorda com seu sujeito",
+    "e": "\"existir\" apresenta sujeito indeterminado, situação em que a flexão de plural se torna a escolha adequada"
+   },
+   "resposta": "d",
+   "explicacao": "\"Haver\" no sentido de existir é impessoal: não tem sujeito, e \"muitos candidatos\" é objeto direto, então o verbo fica na terceira pessoa do singular. \"Existir\" tem sujeito, e com ele concorda em número.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-153",
+   "enunciado": "Em placas comerciais é comum ler \"Vende-se casas\". Pela norma-padrão, a forma adequada é \"Vendem-se casas\", porque nessa construção:",
+   "alternativas": {
+    "a": "o \"se\" funciona como índice de indeterminação do sujeito, o que exige o verbo na terceira pessoa do singular",
+    "b": "o \"se\" indica reciprocidade entre os elementos citados, o que dispensa a flexão de número no verbo",
+    "c": "o \"se\" é pronome reflexivo e \"casas\" recebe a ação praticada, sem interferir na flexão do verbo",
+    "d": "o \"se\" integra a forma verbal e o conjunto permanece invariável, à maneira das construções cristalizadas",
+    "e": "o \"se\" é partícula apassivadora e \"casas\" é o sujeito, com o qual o verbo concorda em número"
+   },
+   "resposta": "e",
+   "explicacao": "\"Vendem-se casas\" equivale a \"Casas são vendidas\": o \"se\" é partícula apassivadora e \"casas\" é o sujeito paciente. Como o sujeito está no plural, o verbo concorda com ele e vai ao plural.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-154",
+   "enunciado": "Uma servidora anexou duas planilhas a um e-mail e encerrou a mensagem com uma fórmula de agradecimento. De acordo com a concordância nominal, a redação adequada é:",
+   "alternativas": {
+    "a": "\"Seguem anexo as duas planilhas\" e \"Muito obrigado\", formas que permanecem invariáveis nesse contexto",
+    "b": "\"Seguem anexo as duas planilhas\" e \"Muito obrigada\", ajustando ao gênero apenas a palavra final da mensagem",
+    "c": "\"Seguem anexas as duas planilhas\" e \"Muito obrigado\", já que a segunda expressão permanece na forma masculina nas situações de cortesia formal",
+    "d": "\"Seguem anexas as duas planilhas\" e \"Muito obrigada\", pois as duas palavras concordam com os termos a que se ligam",
+    "e": "\"Seguem em anexo as duas planilhas\" e \"Muito obrigado\", construções fixas da correspondência oficial escrita"
+   },
+   "resposta": "d",
+   "explicacao": "\"Anexo\" é adjetivo e concorda com \"planilhas\": anexas. \"Obrigado\" também concorda com quem agradece; dita por uma mulher, a forma é \"obrigada\". As duas palavras variam em gênero e número.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-155",
+   "enunciado": "Na frase \"A maioria dos manifestantes permaneceu na praça até o fim da tarde\", a forma verbal está no singular. Sobre essa construção, a norma admite que:",
+   "alternativas": {
+    "a": "apenas o singular seja empregado, pois o núcleo do sujeito é \"maioria\", com o qual o verbo concorda",
+    "b": "somente o plural seja aceito, uma vez que a noção de pluralidade do conjunto se sobrepõe à forma do núcleo do sujeito",
+    "c": "tanto o singular quanto o plural sejam empregados, já que o verbo pode concordar com o núcleo ou com o especificador",
+    "d": "a flexão dependa da posição do sujeito na frase, sendo o plural reservado às construções em que ele vem antes",
+    "e": "a concordância se faça com o adjunto que encerra o período, elemento que fixa o número da forma verbal"
+   },
+   "resposta": "c",
+   "explicacao": "Com expressões partitivas como \"a maioria de\", \"grande parte de\" e \"metade de\" seguidas de termo no plural, a norma aceita as duas concordâncias: com o núcleo singular (\"permaneceu\") ou com o especificador plural (\"permaneceram\").",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-156",
+   "enunciado": "Considere: \"Ela estava meio cansada\" e \"Havia bastantes motivos para a demora\". Nas duas frases a concordância nominal foi respeitada porque:",
+   "alternativas": {
+    "a": "\"meio\" permanece invariável no sentido de \"um pouco\", e \"bastantes\" concorda em número com o termo a que se liga",
+    "b": "\"meio\" concorda em gênero com o termo seguinte, e \"bastantes\" permanece invariável nessa construção da norma escrita",
+    "c": "as duas palavras permanecem invariáveis, sem flexão de número, em construções desse tipo",
+    "d": "as duas palavras concordam com o termo que acompanham, recebendo a flexão de plural correspondente",
+    "e": "\"meio\" concorda com o sujeito simples da oração, e \"bastantes\" acompanha a flexão do verbo anterior"
+   },
+   "resposta": "a",
+   "explicacao": "\"Meio\" com sentido de \"um pouco\" não varia: \"meio cansada\". Já \"bastantes\" acompanha um nome e por isso concorda em número com ele: \"bastantes motivos\". A concordância nominal separa os dois casos pela função que cada palavra exerce.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-157",
+   "enunciado": "Na frase \"Foram entregues aos moradores as chaves dos novos apartamentos\", a concordância do particípio se faz com:",
+   "alternativas": {
+    "a": "o termo \"aos moradores\", que recebe a ação expressa pela locução verbal empregada no período",
+    "b": "\"as chaves\", sujeito da oração na voz passiva, com o qual o particípio concorda em gênero e número",
+    "c": "o agente da ação, elemento que permanece subentendido no período e comanda a flexão do particípio",
+    "d": "o verbo auxiliar, que fixa a forma do particípio de modo independente dos demais termos da oração",
+    "e": "nenhum termo específico, já que o particípio em locuções verbais permanece invariável na norma escrita"
+   },
+   "resposta": "b",
+   "explicacao": "Na voz passiva analítica, o particípio concorda com o sujeito paciente. O sujeito é \"as chaves\", feminino plural, e por isso a forma é \"entregues\", assim como o auxiliar vai ao plural: \"foram\".",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -47967,6 +49087,86 @@ window.QUESTION_BANKS = {
    "explicacao": "Nos dois romances, a militância política coletiva (a luta de esquerda em Caminho de pedras e o contexto da ditadura em As meninas) se entrelaça com a esfera privada e cotidiana das personagens femininas, que desafiam padrões sociais estabelecidos tanto na vida pública quanto na íntima.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-313",
+   "enunciado": "Em 1928, Oswald de Andrade publicou um manifesto cuja proposta central era deglutir criticamente a cultura estrangeira para produzir algo novo e brasileiro, em vez de copiá-la ou recusá-la em bloco. Esse manifesto é:",
+   "alternativas": {
+    "a": "o Manifesto Regionalista, que defendia o retorno às formas literárias praticadas antes da Semana de Arte Moderna",
+    "b": "o Manifesto Futurista, de origem italiana, adotado sem alterações pelos escritores brasileiros do mesmo período",
+    "c": "o Manifesto Antropófago, que propõe devorar a influência externa e transformá-la em produto próprio",
+    "d": "o Manifesto Verde-Amarelo, que recusava contribuições externas em nome de uma tradição estritamente nacional",
+    "e": "o Manifesto Concretista, que reorganizou a produção poética brasileira a partir da experimentação com o espaço"
+   },
+   "resposta": "c",
+   "explicacao": "O Manifesto Antropófago, de Oswald de Andrade, retoma a antropofagia indígena como metáfora: a cultura estrangeira não é rejeitada nem imitada, mas devorada e reelaborada em produto brasileiro. É um dos textos centrais da primeira fase do modernismo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-314",
+   "enunciado": "Publicado em 1928, o livro de Mário de Andrade apresenta um protagonista descrito como herói sem caráter definido, que percorre o país reunindo lendas, falares regionais e episódios de origens diversas. Essa obra é:",
+   "alternativas": {
+    "a": "Vidas Secas, romance que acompanha o deslocamento de uma família pelo sertão em busca de melhores condições",
+    "b": "Macunaíma, rapsódia que reúne mitos e falares de várias regiões num protagonista contraditório",
+    "c": "Iracema, narrativa que constrói a origem do povo brasileiro a partir do encontro entre indígenas e portugueses",
+    "d": "Os Sertões, relato que combina observação científica e reconstituição do conflito ocorrido no interior baiano",
+    "e": "Grande Sertão: Veredas, obra que reelabora a fala do interior mineiro na travessia narrada por um ex-jagunço"
+   },
+   "resposta": "b",
+   "explicacao": "Macunaíma, de Mário de Andrade, é chamada pelo autor de rapsódia por costurar lendas e falares de regiões diferentes numa mesma narrativa. O protagonista sem caráter fixo encarna o projeto modernista de compor uma identidade nacional feita de contradições.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-315",
+   "enunciado": "O romance de 1938 de Graciliano Ramos acompanha uma família de retirantes e a cachorra Baleia em deslocamento pelo sertão nordestino. A obra integra a chamada geração de 30, cuja produção se caracteriza:",
+   "alternativas": {
+    "a": "pela retomada dos modelos clássicos de composição, com atenção rigorosa à forma herdada da tradição europeia",
+    "b": "pelo tratamento idealizado da paisagem nacional, tomada como cenário de aventuras protagonizadas por heróis",
+    "c": "pela investigação de temas urbanos e cosmopolitas, com foco na experiência individual de personagens isolados",
+    "d": "pela abordagem crítica de problemas sociais e regionais brasileiros, em linguagem seca e sem ornamentos",
+    "e": "pela experimentação radical com a materialidade gráfica do texto e o abandono da estrutura convencional"
+   },
+   "resposta": "d",
+   "explicacao": "Vidas Secas pertence à segunda fase do modernismo, o romance de 30, marcado pela denúncia social e pelo regionalismo crítico. Graciliano Ramos leva ao extremo a economia de linguagem, e a obra chega a dar acesso à consciência da cachorra Baleia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-316",
+   "enunciado": "A segunda fase do modernismo brasileiro, iniciada nos anos 1930, consolidou uma poesia que incorporou a linguagem coloquial e temas do cotidiano sem abrir mão do rigor de composição. Dois nomes centrais dessa produção são:",
+   "alternativas": {
+    "a": "Carlos Drummond de Andrade e Manuel Bandeira, que exploraram o cotidiano e a fala corrente na poesia",
+    "b": "Gregório de Matos e Bento Teixeira, responsáveis pela produção poética dos primeiros séculos da colônia",
+    "c": "Olavo Bilac e Raimundo Correia, ligados ao culto da forma fixa e à impessoalidade no tratamento dos temas",
+    "d": "Casimiro de Abreu e Fagundes Varela, marcados pelo subjetivismo e pela recorrência de temas melancólicos",
+    "e": "Cruz e Sousa e Alphonsus de Guimaraens, associados à musicalidade e ao uso de imagens de caráter sugestivo"
+   },
+   "resposta": "a",
+   "explicacao": "A geração de 30 tem em Carlos Drummond de Andrade e Manuel Bandeira dois de seus maiores poetas. Ambos incorporam a fala corrente e o assunto cotidiano à poesia, mas sem a informalidade programática da primeira fase modernista.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-317",
+   "enunciado": "Publicado em 1955, o poema dramático de João Cabral de Melo Neto acompanha a viagem de um retirante que desce o rio Capibaribe rumo ao litoral, encontrando a morte em várias formas até presenciar um nascimento. Trata-se de:",
+   "alternativas": {
+    "a": "Cobra Norato, poema que reelabora lendas amazônicas na composição de uma viagem de caráter fantástico",
+    "b": "Vidas Secas, narrativa em prosa sobre a travessia de uma família de trabalhadores pelo interior nordestino",
+    "c": "Canaã, romance que trata da chegada de imigrantes europeus a uma região de colonização no Espírito Santo",
+    "d": "O Quinze, romance que retrata os efeitos de uma seca severa sobre a população do interior cearense",
+    "e": "Morte e Vida Severina, auto de natal pernambucano que acompanha a descida do retirante rumo ao Recife"
+   },
+   "resposta": "e",
+   "explicacao": "Morte e Vida Severina, de João Cabral de Melo Neto, é um auto de natal pernambucano. O retirante Severino desce o Capibaribe fugindo da seca e encontra sucessivas mortes até o nascimento final, que devolve algum sentido à travessia.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "literatura-teoria-analise": [
@@ -49889,6 +51089,210 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Editoras independentes, coletivos, saraus e circulação digital baixaram a barreira de entrada. Sem um centro que defina o que vale, a pluralidade deixa de ser exceção e passa a ser a forma do período.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-301",
+   "texto_apoio": "\"Ela não sabia que a espreitava a pergunta essencial: 'existo?'.\" (trecho representativo do estilo de romances contemporâneos centrados numa personagem simples diante da própria existência.)",
+   "enunciado": "Esse tipo de narrativa, marcada pela introspecção de uma personagem comum diante de perguntas existenciais, é característica da obra de:",
+   "alternativas": {
+    "a": "um autor que privilegia o suspense policial com reviravoltas centradas na resolução de um crime específico",
+    "b": "um cronista que retrata com humor leve o cotidiano da classe média urbana em crônicas de jornal semanais",
+    "c": "uma escritora voltada principalmente à reconstituição histórica minuciosa de eventos políticos e batalhas do século 19 brasileiro",
+    "d": "uma autora que investiga o instante de epifania de personagens simples diante da própria condição, como em \"A Hora da Estrela\"",
+    "e": "uma poeta que constrói poemas visuais organizados espacialmente na página, sem qualquer narrativa em prosa"
+   },
+   "resposta": "d",
+   "explicacao": "A obra descrita evoca o estilo de Clarice Lispector, que investiga o instante de epifania e a interioridade de personagens simples diante da própria existência — Macabéa, em \"A Hora da Estrela\", é o exemplo mais citado. As demais alternativas descrevem outros perfis de escrita, sem relação com esse tipo de introspecção existencial.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-302",
+   "texto_apoio": "\"Viver é muito perigoso...\" Um narrador sertanejo reconta, em linguagem inventiva e repleta de neologismos, sua trajetória entre o amor e a violência do sertão.",
+   "enunciado": "Esse romance, considerado um marco da prosa brasileira do século 20 pela reinvenção da linguagem, é:",
+   "alternativas": {
+    "a": "um ensaio sociológico sobre a formação econômica das regiões produtoras de café do país",
+    "b": "um romance urbano centrado na rotina de um funcionário público das grandes capitais do país",
+    "c": "uma coletânea de crônicas jornalísticas publicadas semanalmente ao longo de uma década",
+    "d": "uma peça teatral escrita para ser encenada apenas em espaços públicos abertos durante festivais de teatro de rua no interior",
+    "e": "\"Grande Sertão: Veredas\", narrado por Riobaldo, com a ambiguidade em torno da figura de Diadorim"
+   },
+   "resposta": "e",
+   "explicacao": "\"Grande Sertão: Veredas\" é narrado por Riobaldo, e reinventa a linguagem através de neologismos e uma sintaxe própria, com a ambiguidade de gênero em torno de Diadorim como um dos eixos centrais da trama. As demais alternativas descrevem gêneros textuais distintos, sem relação com o romance descrito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-303",
+   "texto_apoio": "Moradora de uma favela paulistana, uma catadora de papel registrou em cadernos o cotidiano de fome e humilhação vivido por sua família, texto publicado décadas antes de o termo \"literatura marginal\" se consolidar.",
+   "enunciado": "Essa autora e seu diário, hoje lidos como marco pioneiro da escrita de testemunho popular no Brasil, são, respectivamente:",
+   "alternativas": {
+    "a": "uma poeta acadêmica e um livro de sonetos publicado por uma editora universitária de grande prestígio",
+    "b": "Carolina Maria de Jesus e \"Quarto de Despejo\", diário que registra a fome e a humilhação vividas na favela",
+    "c": "uma jornalista estrangeira e uma reportagem publicada originalmente em revista de circulação internacional",
+    "d": "uma romancista de família tradicional e um romance histórico ambientado no período colonial brasileiro",
+    "e": "uma dramaturga contemporânea e uma peça de teatro encenada apenas uma vez em festival regional"
+   },
+   "resposta": "b",
+   "explicacao": "Carolina Maria de Jesus escreveu \"Quarto de Despejo\" a partir de cadernos onde registrava o cotidiano de fome na favela do Canindé, em São Paulo — hoje lido como marco pioneiro da escrita de testemunho popular, décadas antes da consolidação do termo \"literatura marginal\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-304",
+   "texto_apoio": "Uma autora contemporânea cunhou um termo próprio para descrever a escrita de mulheres negras que narram, a partir da própria experiência, vivências historicamente silenciadas pela literatura tradicional.",
+   "enunciado": "Esse termo, criado pela própria autora para nomear essa prática de escrita, é:",
+   "alternativas": {
+    "a": "autobiografia oficial, gênero reservado a figuras públicas de reconhecimento estabelecido pela crítica literária",
+    "b": "memorialismo clássico, tradição associada a relatos de viajantes europeus sobre o território brasileiro colonial",
+    "c": "escrevivência, termo de Conceição Evaristo para a escrita que nasce da experiência vivida por mulheres negras",
+    "d": "ficção científica, gênero centrado em especulações tecnológicas sobre sociedades e futuros hipotéticos",
+    "e": "romance de formação, gênero centrado no amadurecimento de um protagonista ao longo de vários anos"
+   },
+   "resposta": "c",
+   "explicacao": "Escrevivência é o termo cunhado por Conceição Evaristo para nomear uma escrita que nasce da vivência de mulheres negras, misturando experiência pessoal e coletiva à narrativa literária. As demais alternativas nomeiam outros gêneros ou tradições, sem relação com o conceito criado pela autora.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-305",
+   "texto_apoio": "Um romance recente, ambientado numa fazenda de cacau na Bahia rural, narra a vida de duas irmãs cujos destinos se cruzam com práticas de resistência ligadas à religiosidade afro-brasileira.",
+   "enunciado": "Esse romance, vencedor de prêmios literários e traduzido para diversos idiomas nos últimos anos, é:",
+   "alternativas": {
+    "a": "uma novela epistolar composta inteiramente por cartas trocadas entre dois personagens ao longo de uma guerra que dura muitos anos inteiros",
+    "b": "um romance histórico centrado nas expedições portuguesas do século 16 pela costa nordestina do país",
+    "c": "uma coletânea de contos policiais ambientados no submundo urbano do Rio de Janeiro dos anos 1970",
+    "d": "\"Torto Arado\", de autoria contemporânea, que narra a vida de duas irmãs numa fazenda baiana marcada pela religiosidade de terreiro",
+    "e": "um livro de memórias de um político brasileiro sobre sua atuação parlamentar ao longo de décadas"
+   },
+   "resposta": "d",
+   "explicacao": "\"Torto Arado\", de Itamar Vieira Junior, narra a vida de duas irmãs numa fazenda de cacau na Bahia, entrelaçando trabalho rural, resistência e religiosidade de terreiro — um dos romances brasileiros contemporâneos mais premiados e traduzidos da última década.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-306",
+   "texto_apoio": "A partir de saraus realizados em bairros afastados dos grandes centros urbanos, um conjunto de escritores passou a publicar textos voltados à experiência de viver na periferia das grandes cidades brasileiras.",
+   "enunciado": "Esse conjunto de produção literária, organizado a partir da vivência e do território de bairros periféricos, é conhecido como:",
+   "alternativas": {
+    "a": "literatura acadêmica, produção vinculada exclusivamente a programas de pós-graduação em letras",
+    "b": "literatura de cordel, tradição associada aos folhetos impressos e vendidos em feiras do interior nordestino",
+    "c": "literatura de viagem, gênero centrado em relatos minuciosos de expedições e deslocamentos por territórios então desconhecidos",
+    "d": "literatura infantojuvenil, produção voltada especificamente ao público em formação escolar básica",
+    "e": "literatura marginal ou periférica, produzida a partir da vivência e do território de bairros afastados do centro"
+   },
+   "resposta": "e",
+   "explicacao": "A literatura marginal ou periférica se organiza a partir de saraus e coletivos ligados ao território de bairros afastados dos grandes centros, com autores como Ferréz entre os nomes associados a esse movimento. As demais alternativas nomeiam tradições literárias distintas, sem relação com a produção descrita.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-307",
+   "texto_apoio": "Um romancista amazonense constrói, em seus livros, tramas marcadas pela memória familiar, pelo retorno ao território de origem e por narradores que reconstroem o passado a partir de fragmentos incertos.",
+   "enunciado": "Esse autor, cuja obra tem forte presença da paisagem e da memória amazonenses, é:",
+   "alternativas": {
+    "a": "um cronista esportivo especializado na cobertura de competições internacionais de grande porte",
+    "b": "um poeta concretista associado à experimentação visual e à disposição espacial do texto na página",
+    "c": "um roteirista de televisão dedicado exclusivamente a adaptações de clássicos europeus do século 19",
+    "d": "Milton Hatoum, cujos romances entrelaçam memória familiar e o território amazonense de origem",
+    "e": "um ensaísta político voltado à análise das relações internacionais na bacia amazônica contemporânea"
+   },
+   "resposta": "d",
+   "explicacao": "Milton Hatoum constrói romances marcados pela memória familiar e pelo retorno ao território amazonense de origem, com narradores que reconstroem o passado a partir de lembranças fragmentadas e incertas — traço reconhecível em obras como \"Dois Irmãos\" e \"Relato de um Certo Oriente\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-308",
+   "texto_apoio": "Textos marcados por diálogos secos, violência urbana explícita e vozes que misturam gíria e frieza descritiva caracterizam a prosa de um autor associado à ficção policial brasileira contemporânea.",
+   "enunciado": "Esse autor, conhecido por retratar a violência urbana em prosa seca e direta, é:",
+   "alternativas": {
+    "a": "Rubem Fonseca, associado a contos e romances marcados pela violência urbana em prosa seca e direta",
+    "b": "um autor de literatura de viagem dedicado a relatos de expedições por regiões pouco exploradas do planeta",
+    "c": "um poeta simbolista dedicado à musicalidade da linguagem e à sugestão de estados de alma indefinidos",
+    "d": "um dramaturgo especializado em comédias de costumes ambientadas em salões da corte imperial",
+    "e": "um cronista rural voltado à descrição idealizada da vida no campo em fazendas do interior paulista"
+   },
+   "resposta": "a",
+   "explicacao": "Rubem Fonseca é reconhecido pela prosa seca, pelos diálogos cortantes e pela violência urbana explícita presente em contos e romances como \"Feliz Ano Novo\" e \"A Grande Arte\", traços centrais de sua ficção policial contemporânea.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-309",
+   "texto_apoio": "Em certos romances recentes, o narrador compartilha nome, biografia e circunstâncias de vida com o próprio autor, embaralhando de propósito os limites entre relato pessoal e invenção ficcional.",
+   "enunciado": "Essa prática narrativa, recorrente na produção literária das últimas décadas, é conhecida como:",
+   "alternativas": {
+    "a": "epopeia, gênero narrativo extenso que celebra feitos grandiosos de heróis nacionais ou míticos",
+    "b": "hagiografia, relato biográfico voltado à narração idealizada da vida de uma figura religiosa",
+    "c": "fábula, narrativa breve protagonizada por animais que personificam traços humanos com fim moralizante",
+    "d": "crônica de costumes, texto breve publicado em jornal que comenta com leveza o cotidiano urbano",
+    "e": "autoficção, narrativa que embaralha de propósito os limites entre relato pessoal e invenção ficcional"
+   },
+   "resposta": "e",
+   "explicacao": "Autoficção é o termo para essa prática narrativa em que o autor compartilha nome, biografia e circunstâncias com o narrador, embaralhando de propósito relato pessoal e invenção — recurso recorrente na produção literária contemporânea, no Brasil e fora dele.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-310",
+   "texto_apoio": "Certos romances contemporâneos abandonam a linearidade e o narrador único, alternando vozes, tempos e até formatos de texto — mensagens, listas, fragmentos de diário — dentro de uma mesma obra.",
+   "enunciado": "Esse traço, associado à fragmentação da narrativa na produção literária recente, é frequentemente lido como reflexo de:",
+   "alternativas": {
+    "a": "um retorno deliberado aos moldes narrativos clássicos, com estrutura fechada e progressão linear do início ao fim da trama",
+    "b": "uma tentativa de simplificar ao máximo a experiência de leitura para públicos iniciantes na literatura",
+    "c": "uma condição pós-moderna marcada pela pluralidade de vozes e pela desconfiança de narrativas totalizantes",
+    "d": "uma exigência editorial voltada exclusivamente a reduzir o número de páginas de romances muito longos",
+    "e": "uma imitação direta dos formatos utilizados em roteiros de cinema comercial de grande orçamento"
+   },
+   "resposta": "c",
+   "explicacao": "A fragmentação narrativa é frequentemente lida à luz da condição pós-moderna: desconfiança de narrativas totalizantes, valorização da pluralidade de vozes e do hibridismo entre formatos de texto dentro da mesma obra, em vez de um enredo linear conduzido por um único narrador central.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-311",
+   "texto_apoio": "No fim dos anos 1960, um movimento cultural brasileiro combinou letras de canção com referências a formas poéticas experimentais, ao rock internacional e a elementos da cultura popular, misturando erudito e popular numa mesma obra.",
+   "enunciado": "Esse movimento, cujas letras de canção passaram a ser lidas e estudadas como texto literário, é:",
+   "alternativas": {
+    "a": "a bossa nova, movimento musical marcado por harmonias sofisticadas e por uma estética vocal de contenção e sutileza",
+    "b": "a tropicália, movimento que misturou letra de canção, referências a formas poéticas experimentais e cultura popular",
+    "c": "o modernismo de 1922, movimento centrado na Semana de Arte Moderna realizada em São Paulo",
+    "d": "o cinema novo, movimento cinematográfico voltado à estética da fome e à crítica social direta",
+    "e": "o simbolismo, movimento poético do fim do século 19 centrado na musicalidade e na sugestão"
+   },
+   "resposta": "b",
+   "explicacao": "A tropicália combinou letra de canção com referências a formas poéticas experimentais, ao rock internacional e à cultura popular brasileira, misturando erudito e popular numa síntese que passou a ser estudada como texto literário — daí a leitura de letras de canção nas provas de literatura contemporânea.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-312",
+   "texto_apoio": "\"Explico: só a mim mesmo compete escrever assim...\" Uma narradora contemporânea, ao contar a história de uma personagem simples, também expõe as próprias dúvidas e hesitações sobre como narrar a história que está sendo contada.",
+   "enunciado": "Esse recurso, em que a narrativa comenta o próprio processo de sua construção, é conhecido como:",
+   "alternativas": {
+    "a": "onisciência seletiva, recurso pelo qual o narrador acessa livremente os pensamentos de apenas uma personagem",
+    "b": "discurso indireto livre, recurso pelo qual a fala de uma personagem se mistura à voz do narrador sem marcação",
+    "c": "metalinguagem, recurso pelo qual a narrativa reflete e comenta o próprio processo de sua construção",
+    "d": "prolepse, recurso pelo qual a narrativa antecipa um evento que só ocorrerá mais adiante na história",
+    "e": "elipse narrativa, recurso pelo qual um intervalo de tempo é omitido sem qualquer indicação explícita"
+   },
+   "resposta": "c",
+   "explicacao": "Metalinguagem, na literatura contemporânea, é o recurso pelo qual a narrativa comenta e reflete sobre o próprio processo de escrita — traço recorrente em obras que expõem as hesitações do narrador diante da história que está sendo contada, como ocorre de forma célebre em \"A Hora da Estrela\".",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -57520,6 +58924,210 @@ window.QUESTION_BANKS = {
    "resposta": "c",
    "explicacao": "\"By + data futura\" aponta para uma ação já concluída quando aquele marco chegar, e essa é a função do future perfect. \"Will deliver\" apenas situa a entrega em algum ponto do futuro, sem a ideia de acumulado até 2030 que o \"by\" exige — a diferença desaparece para quem lê \"by 2030\" como se fosse \"in 2030\", que é o deslize que a questão cobra.",
    "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-211",
+   "texto_apoio": "Considere os termos: \"parents\", \"library\", \"fabric\".",
+   "enunciado": "O termo \"parents\" significa ______, \"library\" significa ______ e \"fabric\" significa ______, respectivamente. As lacunas são preenchidas por:",
+   "alternativas": {
+    "a": "parentes – livraria – fábrica, sentidos que coincidem com os das palavras portuguesas de grafia semelhante",
+    "b": "pais – biblioteca – tecido, sentidos que não correspondem aos das palavras portuguesas parecidas na forma",
+    "c": "parentes – biblioteca – fábrica, combinação em que apenas o segundo termo é falso cognato verdadeiro",
+    "d": "pais – livraria – tecido, combinação em que o segundo termo mantém o sentido da palavra portuguesa parecida",
+    "e": "padrinhos – editora – matéria-prima, sentidos técnicos empregados apenas em contextos jurídicos específicos"
+   },
+   "resposta": "b",
+   "explicacao": "Os três são falsos cognatos clássicos: \"parents\" são os pais (não parentes em geral), \"library\" é biblioteca (não livraria, que em inglês é \"bookstore\") e \"fabric\" é tecido (não fábrica, que é \"factory\").",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-212",
+   "texto_apoio": "\"The committee reviewed the proposal, but ultimately it addressed none of the residents' concerns.\"",
+   "enunciado": "Nessa frase, o verbo \"addressed\" está mais próximo, em sentido, de:",
+   "alternativas": {
+    "a": "endereçou, no sentido de enviar correspondência formal a um destinatário específico",
+    "b": "elogiou, reconhecendo publicamente o valor das preocupações apresentadas pelos moradores",
+    "c": "tratou de, no sentido de lidar com um assunto ou responder a uma demanda",
+    "d": "ignorou por completo, agindo como se as preocupações dos moradores nunca tivessem sido apresentadas",
+    "e": "arquivou formalmente, encerrando o processo sem qualquer nova análise pelo comitê"
+   },
+   "resposta": "c",
+   "explicacao": "\"To address\" um problema ou uma preocupação significa lidar com ele, tratar dele — não tem relação com endereço postal. A frase diz que o comitê não tratou de nenhuma das preocupações, não que as ignorou de forma deliberada nem que as arquivou.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-213",
+   "texto_apoio": "\"I assume the results will be ready by Friday, based on the schedule we discussed.\"",
+   "enunciado": "O verbo \"assume\", nesse contexto, significa:",
+   "alternativas": {
+    "a": "supor, admitir como provável sem ter certeza absoluta",
+    "b": "assumir um cargo, tomar posse de uma função dentro de uma equipe",
+    "c": "aceitar a responsabilidade por um erro cometido anteriormente por outra pessoa",
+    "d": "assinar formalmente um documento que confirma um compromisso já agendado",
+    "e": "adiar uma decisão até que novas informações estejam disponíveis"
+   },
+   "resposta": "a",
+   "explicacao": "\"Assume\" em inglês corresponde a supor, presumir — um falso cognato de \"assumir\" no sentido de tomar posse de um cargo, que é \"to take on\" ou \"to take office\". A frase fala de uma suposição baseada num cronograma, não de posse de função.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-214",
+   "texto_apoio": "\"The two neighbors had a loud argument over the fence late last night.\"",
+   "enunciado": "Nesse contexto, a palavra \"argument\" está mais próxima de:",
+   "alternativas": {
+    "a": "um argumento lógico apresentado formalmente numa disputa jurídica entre as partes envolvidas",
+    "b": "uma discussão acalorada entre as duas pessoas, sem relação necessária com lógica formal",
+    "c": "um documento assinado pelos dois vizinhos após a resolução do conflito relatado",
+    "d": "uma conversa tranquila sobre um tema de interesse comum entre os dois vizinhos",
+    "e": "um discurso público proferido por um dos vizinhos perante a vizinhança reunida"
+   },
+   "resposta": "b",
+   "explicacao": "Em inglês do dia a dia, \"argument\" costuma significar discussão, briga verbal — não necessariamente um argumento lógico ou jurídico, sentido mais raro e mais formal. \"Loud argument over the fence\" descreve uma briga de vizinhos, não uma peça processual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-215",
+   "texto_apoio": "\"The teacher gave the class a quick heads-up before the surprise quiz began.\"",
+   "enunciado": "A expressão \"heads-up\", nesse contexto, equivale a:",
+   "alternativas": {
+    "a": "uma repreensão severa dirigida a toda a turma antes do início da avaliação",
+    "b": "uma pausa formal concedida antes do início de qualquer atividade avaliativa",
+    "c": "uma votação rápida realizada entre os alunos sobre o formato da prova",
+    "d": "um aviso ou alerta antecipado sobre algo que está prestes a acontecer",
+    "e": "uma explicação detalhada do conteúdo que cairia integralmente na avaliação"
+   },
+   "resposta": "d",
+   "explicacao": "\"Heads-up\" é expressão informal para aviso antecipado, alerta rápido sobre algo iminente — nesse caso, a professora avisou a turma pouco antes da prova surpresa, o que é levemente contraditório e faz parte do efeito de humor da frase.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-216",
+   "texto_apoio": "\"After years abroad, she decided to resume her career in her home country.\"",
+   "enunciado": "Nessa frase, o verbo \"resume\" significa:",
+   "alternativas": {
+    "a": "resumir, condensar as principais informações da carreira em um documento breve",
+    "b": "recomendar formalmente outra pessoa para ocupar um cargo específico",
+    "c": "encerrar definitivamente uma atividade profissional exercida por muitos anos",
+    "d": "reavaliar criticamente as escolhas profissionais feitas durante o período no exterior",
+    "e": "retomar, voltar a exercer algo que havia sido interrompido por um período"
+   },
+   "resposta": "e",
+   "explicacao": "\"To resume\" significa retomar, recomeçar algo interrompido — falso cognato de \"resumir\" (que em inglês é \"to summarize\"). Como substantivo, \"resume\" também existe no inglês americano com o sentido de currículo, sentido distinto do verbo desta frase.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-217",
+   "texto_apoio": "\"The results were surprising, and the researchers eventually published them in a major journal.\"",
+   "enunciado": "Nesse trecho, a palavra \"eventually\" é mais próxima, em sentido, de:",
+   "alternativas": {
+    "a": "eventualmente, no sentido de algo que ocorre apenas de vez em quando, sem regularidade",
+    "b": "atualmente, fazendo referência ao momento presente em que o texto foi escrito",
+    "c": "por fim, indicando o desfecho de um processo que levou algum tempo para se completar",
+    "d": "imediatamente, sem qualquer intervalo entre a obtenção dos resultados e a publicação",
+    "e": "possivelmente, indicando incerteza quanto à publicação dos resultados obtidos"
+   },
+   "resposta": "c",
+   "explicacao": "\"Eventually\" corresponde a \"por fim\", \"finalmente\" — o desfecho de um processo, não a algo ocasional. É outro falso cognato clássico: \"eventualmente\" em português é \"occasionally\" ou \"possibly\" em inglês.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-218",
+   "texto_apoio": "\"Please notice that the last paragraph was revised after the meeting.\"",
+   "enunciado": "O verbo \"notice\", nessa frase, significa:",
+   "alternativas": {
+    "a": "divulgar amplamente uma informação por meio de veículos de comunicação",
+    "b": "registrar formalmente um fato em ata para consulta em reuniões futuras",
+    "c": "noticiar um fato relevante em um jornal ou telejornal de grande audiência nacional",
+    "d": "perceber, prestar atenção a algo, sentido próximo de \"observar\" ou \"notar\"",
+    "e": "anunciar publicamente uma decisão tomada previamente por um grupo"
+   },
+   "resposta": "d",
+   "explicacao": "\"Notice\", como verbo, significa perceber, notar — falso cognato de \"noticiar\", que em inglês corresponde a \"to report\" ou \"to announce\". A frase pede que o leitor perceba a revisão do parágrafo, não que a divulgue.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-219",
+   "texto_apoio": "\"He seemed like a sensible person, always weighing the pros and cons before deciding.\"",
+   "enunciado": "Nesse contexto, \"sensible\" está mais próximo de:",
+   "alternativas": {
+    "a": "sensível, no sentido de alguém que se emociona com facilidade diante de situações difíceis",
+    "b": "indeciso, alguém que hesita continuamente sem nunca chegar a uma conclusão",
+    "c": "sensorial, relativo à percepção imediata dos sentidos diante de um estímulo externo",
+    "d": "suscetível, alguém facilmente influenciado pela opinião alheia em qualquer situação",
+    "e": "sensato, alguém que pondera com cuidado antes de tomar uma decisão importante"
+   },
+   "resposta": "e",
+   "explicacao": "\"Sensible\" significa sensato, ponderado — falso cognato de \"sensível\", que em inglês é \"sensitive\". A frase descreve alguém que pesa prós e contras, traço de ponderação, não de sensibilidade emocional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-220",
+   "texto_apoio": "\"The novel and the movie share the same title, but the plot differs in the final chapters.\"",
+   "enunciado": "Nessa frase, a palavra \"novel\" corresponde a:",
+   "alternativas": {
+    "a": "romance, obra de ficção em prosa, geralmente de maior extensão",
+    "b": "novela, no sentido de produção televisiva exibida em capítulos diários",
+    "c": "notícia, relato factual publicado originalmente em veículo de imprensa",
+    "d": "roteiro, texto técnico usado como base para a produção de um filme",
+    "e": "resenha, texto crítico que comenta uma obra literária publicada"
+   },
+   "resposta": "a",
+   "explicacao": "\"Novel\" em inglês é romance — obra de ficção em prosa —, falso cognato de \"novela\", que em português designa a produção televisiva em capítulos e que em inglês corresponde a \"soap opera\" ou \"TV series\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-221",
+   "texto_apoio": "\"The volunteers collected donations, sorted the items, and delivered them to three shelters, all in a single weekend.\"",
+   "enunciado": "O pronome \"them\", na frase, refere-se a:",
+   "alternativas": {
+    "a": "aos três abrigos mencionados no final da oração apresentada no enunciado",
+    "b": "aos voluntários que participaram da ação descrita ao longo do fim de semana",
+    "c": "aos itens que foram recolhidos e depois separados pelos voluntários",
+    "d": "às doações em dinheiro recebidas ao longo de todo o fim de semana",
+    "e": "a um grupo de pessoas beneficiadas que não chega a ser mencionado no trecho"
+   },
+   "resposta": "c",
+   "explicacao": "\"Them\" retoma o substantivo plural mais próximo com que concorda logicamente: \"the items\", que foram recolhidos, separados e então entregues. Os abrigos (b) recebem os itens, não são o antecedente do pronome; a concordância de número e o sentido da ação apontam para os itens.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-222",
+   "texto_apoio": "Considere os termos: \"college\", \"actual\", \"lecture\".",
+   "enunciado": "O termo \"college\" significa ______, \"actual\" significa ______ e \"lecture\" significa ______, respectivamente. As lacunas são preenchidas por:",
+   "alternativas": {
+    "a": "colégio – atual – leitura, sentidos que coincidem com os das palavras portuguesas de grafia parecida",
+    "b": "colégio – real – repreensão, combinação empregada apenas em contextos escolares formais",
+    "c": "faculdade – atual – leitura, combinação em que apenas o primeiro termo é falso cognato verdadeiro",
+    "d": "faculdade – real – aula ou palestra, sentidos que não correspondem às palavras parecidas",
+    "e": "universidade pública – atualizado – resumo escrito, sentidos técnicos usados em documentos acadêmicos"
+   },
+   "resposta": "d",
+   "explicacao": "Os três enganam por semelhança: \"college\" costuma ser faculdade (não colégio, que é \"high school\"), \"actual\" significa real, verdadeiro (não atual, que é \"current\"), e \"lecture\" é aula expositiva ou palestra (não leitura, que é \"reading\").",
+   "formato": "lacunas",
    "origem": "medicina"
   }
  ],
@@ -72008,6 +73616,210 @@ window.QUESTION_BANKS = {
    "explicacao": "Ao adotar uma projeção que preserva melhor as proporções reais de área, o novo mapa-múndi do IBGE contesta a distorção da projeção de Mercator, que amplia visualmente países de latitudes altas em detrimento dos países equatoriais — uma crítica à tradicional visão eurocêntrica da cartografia.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-401",
+   "texto_apoio": "Um mapa está desenhado na escala 1:50.000. Sobre esse mapa, a distância medida entre dois pontos com uma régua é de 4 cm.",
+   "enunciado": "A distância real entre esses dois pontos, no terreno, é de:",
+   "alternativas": {
+    "a": "200 m",
+    "b": "0,2 km",
+    "c": "20 km",
+    "d": "2 km",
+    "e": "20.000 km"
+   },
+   "resposta": "d",
+   "explicacao": "Na escala 1:50.000, cada centímetro do mapa corresponde a 50.000 cm no terreno. Multiplicando: 4 × 50.000 = 200.000 cm, que convertidos dão 2.000 m, ou 2 km. Erros de conversão de unidade (cm para km) levam às demais ordens de grandeza oferecidas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-402",
+   "texto_apoio": "Um mapa impresso traz duas informações sobre sua escala: uma fração numérica, como 1:100.000, e um segmento de reta dividido em partes, cada uma representando uma distância real no terreno.",
+   "enunciado": "Ao ampliar ou reduzir a cópia desse mapa num equipamento de fotocópia, a informação de escala que permanece confiável para medir distâncias é:",
+   "alternativas": {
+    "a": "a escala numérica, porque a fração 1:100.000 se ajusta automaticamente à nova proporção da cópia impressa",
+    "b": "apenas a legenda de símbolos, que substitui a necessidade de qualquer cálculo de escala após a ampliação do mapa",
+    "c": "nenhuma das duas, porque qualquer alteração no tamanho do mapa impresso invalida totalmente a leitura de distâncias",
+    "d": "as duas igualmente, porque tanto a fração numérica quanto o segmento de reta acompanham a nova proporção da cópia",
+    "e": "a escala gráfica, porque o segmento de reta é reduzido ou ampliado na mesma proporção que o restante do mapa"
+   },
+   "resposta": "e",
+   "explicacao": "A escala gráfica é um segmento desenhado sobre o mesmo mapa, por isso é ampliada ou reduzida na mesma proporção que todo o desenho ao fotocopiar. Já a escala numérica é apenas um texto fixo (1:100.000): se o mapa for ampliado ou reduzido, essa fração deixa de corresponder à nova proporção real do desenho, tornando a leitura de distâncias incorreta no mapa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-403",
+   "texto_apoio": "Um sistema de representação do globo terrestre num plano preserva os ângulos e é historicamente associado à navegação marítima, mas aumenta progressivamente as áreas à medida que se aproxima dos polos.",
+   "enunciado": "Esse sistema de representação cartográfica é conhecido como projeção:",
+   "alternativas": {
+    "a": "cônica, que projeta a superfície terrestre sobre um cone tangente ou secante ao longo de um paralelo específico",
+    "b": "azimutal, que projeta a superfície terrestre sobre um plano tangente a um único ponto de contato específico",
+    "c": "de Mercator, que preserva os ângulos e aumenta progressivamente as áreas representadas próximo aos polos",
+    "d": "de Peters, que preserva as áreas relativas dos continentes às custas de distorcer sua forma original",
+    "e": "de Robinson, que busca um compromisso visual entre distorção de área e de forma sem preservar nenhuma delas com exatidão"
+   },
+   "resposta": "c",
+   "explicacao": "A projeção de Mercator preserva ângulos (é conforme), o que a tornou útil para o traçado de rotas de navegação em linha reta, mas distorce progressivamente as áreas conforme se afasta do equador, fazendo a Groenlândia parecer do tamanho da África no mapa, quando é muito menor na realidade. As demais alternativas descrevem outras projeções cartográficas reais, com propriedades distintas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-404",
+   "texto_apoio": "Em resposta às distorções de área da projeção mais usada nos mapas-múndi tradicionais, uma projeção alternativa foi proposta com o objetivo de representar países pobres e países ricos com o tamanho proporcionalmente correto entre si.",
+   "enunciado": "Essa projeção alternativa, que preserva as áreas relativas dos continentes à custa de distorcer sua forma, é conhecida como projeção de:",
+   "alternativas": {
+    "a": "Mercator, projeção que preserva os ângulos e distorce progressivamente as áreas próximo aos polos do planeta",
+    "b": "Peters, projeção que preserva as áreas relativas dos continentes à custa de distorcer a forma original deles",
+    "c": "Gall-Peters equidistante, projeção que preserva simultaneamente ângulos, áreas e formas em qualquer ponto do mapa",
+    "d": "Goode, projeção interrompida usada exclusivamente para representar correntes marítimas e ventos globais",
+    "e": "Van der Grinten, projeção circular que preserva a forma dos continentes sem qualquer distorção de área associada"
+   },
+   "resposta": "b",
+   "explicacao": "A projeção de Peters foi proposta como alternativa política e pedagógica à Mercator: preserva as áreas relativas dos continentes — o que evita, por exemplo, que a África pareça menor do que realmente é —, mas distorce bastante a forma dos territórios representados. Nenhuma projeção plana preserva simultaneamente ângulo, área e forma sem distorção alguma (c).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-405",
+   "texto_apoio": "Observando um mapa com os fusos horários do planeta, um viajante identifica duas localidades. A primeira está a 45° de longitude oeste, no fuso de referência GMT-3; a segunda está a 120° de longitude leste.",
+   "enunciado": "Quando são 10h da manhã na primeira localidade, o horário correspondente na segunda localidade é de aproximadamente:",
+   "alternativas": {
+    "a": "23h do mesmo dia",
+    "b": "13h do mesmo dia",
+    "c": "7h do mesmo dia",
+    "d": "3h do dia seguinte",
+    "e": "21h do mesmo dia"
+   },
+   "resposta": "e",
+   "explicacao": "A diferença de longitude entre as duas localidades é de 45° + 120° = 165°. Como cada 15° de longitude correspondem a 1 hora, a diferença de fuso horário é de 165 ÷ 15 = 11 horas. Como a segunda localidade está a leste da primeira, seu horário está adiantado: 10h + 11h = 21h do mesmo dia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-406",
+   "texto_apoio": "Ao lado de um mapa temático, um quadro traz pequenos ícones, cores e padrões, cada um associado a um significado específico, para que o leitor consiga interpretar os elementos representados sem confundi-los entre si.",
+   "enunciado": "Esse quadro explicativo, elemento essencial de qualquer mapa temático bem construído, é chamado de:",
+   "alternativas": {
+    "a": "escala gráfica, elemento que indica a relação entre distância representada no mapa e distância real no terreno",
+    "b": "fonte cartográfica, indicação da instituição e do ano de produção dos dados usados na confecção do mapa",
+    "c": "rosa dos ventos, elemento que indica a orientação das direções cardeais e colaterais sobre o mapa",
+    "d": "título do mapa, elemento textual que indica o tema geral representado, sem detalhar os símbolos específicos usados",
+    "e": "legenda, quadro que associa cada símbolo, cor ou padrão usado no mapa ao seu significado correspondente"
+   },
+   "resposta": "e",
+   "explicacao": "A legenda é o elemento que associa cada símbolo, cor ou padrão visual do mapa a seu significado, permitindo a leitura correta das informações temáticas representadas. Os demais elementos listados são reais e também compõem um mapa completo, mas cumprem outra função.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-407",
+   "texto_apoio": "Um mapa topográfico representa a altitude de uma região por meio de linhas fechadas que conectam pontos de mesmo valor. Quanto mais próximas essas linhas estão umas das outras, maior a inclinação do terreno naquele trecho.",
+   "enunciado": "Essas linhas, usadas para representar a altitude do terreno em duas dimensões sem recorrer a uma imagem tridimensional, são chamadas de:",
+   "alternativas": {
+    "a": "curvas de nível, linhas que conectam pontos de mesma altitude e cuja proximidade indica maior declividade do terreno",
+    "b": "paralelos, linhas imaginárias usadas para localizar pontos na superfície terrestre a partir da distância ao equador",
+    "c": "isotermas, linhas que conectam pontos de mesma temperatura média num mapa temático de determinada região",
+    "d": "meridianos, linhas imaginárias que conectam os polos terrestres e servem de referência para o cálculo dos fusos horários mundiais",
+    "e": "isoietas, linhas que conectam pontos de mesmo volume de precipitação acumulada num mapa pluviométrico"
+   },
+   "resposta": "a",
+   "explicacao": "Curvas de nível conectam pontos de mesma altitude num mapa topográfico; quanto mais próximas entre si, mais íngreme é o relevo representado naquele trecho. As demais alternativas nomeiam outras linhas cartográficas reais, mas associadas a outras variáveis, não à altitude do terreno.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-408",
+   "texto_apoio": "Sensores instalados a bordo de satélites captam a radiação refletida ou emitida pela superfície terrestre, sem contato físico direto com o objeto observado, gerando imagens usadas para monitorar desde plantações até queimadas.",
+   "enunciado": "Essa técnica de obtenção de informações sobre a superfície terrestre a partir de sensores instalados a distância é conhecida como:",
+   "alternativas": {
+    "a": "geoprocessamento, conjunto de técnicas que trata e cruza informações espaciais já coletadas por diferentes fontes",
+    "b": "geodésia, ciência dedicada à medição precisa da forma e das dimensões do planeta como um todo",
+    "c": "cartografia digital, conjunto de técnicas de produção de mapas por meio de programas de computador especializados",
+    "d": "sensoriamento remoto, técnica de obtenção de imagens da superfície terrestre por sensores instalados a distância, sem contato direto",
+    "e": "topografia, técnica de medição de distâncias, ângulos e altitudes realizada diretamente em campo, com instrumentos de precisão apropriados"
+   },
+   "resposta": "d",
+   "explicacao": "Sensoriamento remoto é a técnica de obter informações sobre a superfície terrestre a partir de sensores instalados a distância, como em satélites, sem contato físico direto com o alvo observado. As demais alternativas nomeiam técnicas e ciências cartográficas reais, mas distintas dessa captação a distância.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-409",
+   "texto_apoio": "Um receptor portátil calcula sua própria posição na superfície terrestre a partir do tempo que o sinal de rádio leva para chegar a ele, vindo de pelo menos quatro satélites diferentes em órbita ao redor do planeta.",
+   "enunciado": "Esse sistema de localização baseado em sinais de satélite é conhecido pela sigla:",
+   "alternativas": {
+    "a": "GPS, sistema que calcula a posição de um receptor a partir do tempo de chegada do sinal de múltiplos satélites",
+    "b": "SIG, conjunto de programas usados para armazenar, cruzar e analisar informações espaciais em camadas sobrepostas",
+    "c": "GMT, referência de tempo usada como base para o cálculo dos fusos horários em todo o planeta",
+    "d": "IBGE, instituição responsável pela produção de estatísticas e mapas oficiais do território brasileiro",
+    "e": "INPE, instituição responsável pelo monitoramento de queimadas e desmatamento a partir de imagens de satélite"
+   },
+   "resposta": "a",
+   "explicacao": "GPS (Global Positioning System) é o sistema que calcula a posição de um receptor a partir do tempo que o sinal de rádio leva para chegar a ele, vindo de múltiplos satélites em órbita. As demais siglas nomeiam outras ferramentas, referências ou instituições reais, sem relação direta com o cálculo de posição descrito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-410",
+   "texto_apoio": "Um analista sobrepõe, num mesmo mapa digital, camadas separadas de informação — uma com o traçado das rodovias, outra com os limites municipais, outra com dados de renda por bairro — para cruzar essas informações e identificar padrões espaciais.",
+   "enunciado": "Esse conjunto de técnicas e programas voltados a armazenar, cruzar e analisar informações espaciais organizadas em camadas é conhecido como:",
+   "alternativas": {
+    "a": "sensoriamento remoto, técnica de captação de imagens da superfície terrestre por sensores instalados a distância",
+    "b": "geodésia, ciência dedicada à medição precisa da forma, das dimensões e do campo gravitacional do planeta",
+    "c": "geoprocessamento, conjunto de técnicas e programas usados para armazenar, cruzar e analisar dados espaciais em camadas",
+    "d": "cartometria, conjunto de técnicas de medição de distâncias, áreas e ângulos diretamente sobre um mapa já pronto e impresso",
+    "e": "toponímia, disciplina dedicada ao estudo da origem e do significado dos nomes de lugares representados num mapa"
+   },
+   "resposta": "c",
+   "explicacao": "Geoprocessamento é o conjunto de técnicas e programas — muitas vezes reunidos num Sistema de Informação Geográfica — usados para armazenar, cruzar e analisar dados espaciais organizados em camadas sobrepostas, como no exemplo de rodovias, limites municipais e renda por bairro. As demais alternativas nomeiam outras disciplinas e técnicas cartográficas reais, mas distintas dessa análise por camadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-411",
+   "texto_apoio": "Num mapa, o tamanho de cada país não representa sua área territorial real, mas sim o valor de uma variável escolhida — como número de habitantes, consumo de energia ou volume de exportações — de modo que países com valores altos aparecem visualmente maiores do que são.",
+   "enunciado": "Esse tipo de representação cartográfica, que distorce deliberadamente o tamanho dos territórios para representar uma variável escolhida, é conhecida como:",
+   "alternativas": {
+    "a": "mapa coroplético, que usa variações de cor ou padrão de preenchimento sobre a área real de cada território administrativo representado",
+    "b": "anamorfose cartográfica, mapa que distorce deliberadamente o tamanho dos territórios para representar uma variável escolhida",
+    "c": "mapa de fluxos, que usa linhas de espessura variável para representar o volume de deslocamento entre dois pontos",
+    "d": "mapa de isolinhas, que usa linhas contínuas para conectar pontos de mesmo valor de uma variável contínua no espaço",
+    "e": "cartograma reticulado, representação que divide o território em uma malha regular de células de tamanho fixo idêntico"
+   },
+   "resposta": "b",
+   "explicacao": "A anamorfose cartográfica (ou cartograma) distorce deliberadamente o tamanho de cada território conforme o valor de uma variável escolhida, e não conforme sua área real — um país pequeno, mas populoso, por exemplo, pode aparecer maior do que um país territorialmente extenso, mas pouco povoado. As demais alternativas descrevem outras técnicas de representação cartográfica temática, sem essa distorção proporcional de tamanho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-412",
+   "texto_apoio": "Ao reduzir a escala de um mapa — passando, por exemplo, de 1:25.000 para 1:1.000.000 —, o cartógrafo precisa eliminar ou simplificar diversos elementos que não caberiam de forma legível no espaço disponível do novo mapa.",
+   "enunciado": "Esse processo de seleção e simplificação de elementos ao reduzir a escala de um mapa é conhecido como:",
+   "alternativas": {
+    "a": "escala gráfica, elemento visual que indica a relação de proporção entre a distância no mapa e a distância real",
+    "b": "georreferenciamento, processo de associar um objeto ou uma imagem a coordenadas geográficas precisas e reais",
+    "c": "datum geodésico, sistema de referência usado para definir coordenadas num determinado sistema de projeção cartográfica",
+    "d": "generalização cartográfica, processo de seleção e simplificação de elementos ao reduzir a escala de um mapa",
+    "e": "ortorretificação, processo técnico de correção de distorções geométricas presentes numa imagem aérea ou de satélite"
+   },
+   "resposta": "d",
+   "explicacao": "Generalização cartográfica é o processo pelo qual o cartógrafo seleciona, simplifica ou até remove elementos ao reduzir a escala de um mapa, mantendo apenas o que ainda é legível e relevante no novo nível de detalhe. As demais alternativas nomeiam outros processos e conceitos cartográficos reais, mas distintos dessa simplificação por redução de escala.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "filosofia-politica": [
@@ -76438,6 +78250,210 @@ window.QUESTION_BANKS = {
    "explicacao": "A reincidência prisional revela que o egresso não encontra condições reais de reinserção social após cumprir pena; sob a ótica da cidadania e dos direitos humanos, isso aponta para a ausência de políticas públicas de inclusão e igualdade social, e não para mais repressão, vigilância ou isolamento.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "med-filosofia-sociologia-201",
+   "texto_apoio": "Um conjunto de pessoas se organiza de forma relativamente duradoura, com objetivos e reivindicações comuns, para pressionar por mudanças sociais ou políticas, fora dos canais institucionais tradicionais de representação.",
+   "enunciado": "Esse tipo de organização coletiva, estudado pela sociologia como categoria própria, é conhecido como:",
+   "alternativas": {
+    "a": "movimento social, forma de organização coletiva relativamente duradoura voltada a pressionar por mudanças sociais ou políticas",
+    "b": "grupo de pressão econômico, associação voltada exclusivamente à defesa de interesses comerciais de um setor específico",
+    "c": "partido político, organização voltada à disputa formal de cargos eletivos dentro das regras do sistema representativo",
+    "d": "burocracia estatal, estrutura organizada em torno de regras formais e hierarquia de cargos dentro do aparato do Estado",
+    "e": "corporação profissional, associação que regula o exercício de determinada profissão e representa formalmente seus membros perante o Estado"
+   },
+   "resposta": "a",
+   "explicacao": "Movimento social é a categoria sociológica para formas de organização coletiva relativamente duradouras, voltadas a pressionar por mudanças sociais ou políticas fora dos canais formais de representação — diferente de partidos (c) e corporações profissionais (e), que atuam dentro de estruturas institucionais já estabelecidas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "med-filosofia-sociologia-202",
+   "texto_apoio": "Ao longo do século 20, sucessivas organizações reuniram pessoas negras no Brasil para denunciar o racismo e reivindicar políticas de reparação e de igualdade racial, num processo de mobilização que se intensificou a partir dos anos 1970 e 1980.",
+   "enunciado": "Esse processo de mobilização, na categoria sociológica que descreve organizações coletivas voltadas a uma pauta específica de mudança social, é um exemplo de:",
+   "alternativas": {
+    "a": "instituição religiosa, organização voltada à prática e à transmissão de crenças e rituais entre seus membros e fiéis",
+    "b": "movimento negro, mobilização coletiva voltada à denúncia do racismo e à reivindicação de políticas de igualdade racial",
+    "c": "sindicato patronal, entidade que representa os interesses de empregadores de determinado setor econômico do país",
+    "d": "corporação profissional, associação que regula o exercício de determinada profissão e representa seus membros formalmente",
+    "e": "burocracia estatal, estrutura organizada em torno de regras formais e hierarquia de cargos dentro do aparato do Estado"
+   },
+   "resposta": "b",
+   "explicacao": "O movimento negro é um exemplo clássico de movimento social: mobilização coletiva relativamente duradoura, voltada a uma pauta específica — no caso, a denúncia do racismo e a reivindicação de políticas de igualdade racial. As demais alternativas descrevem outros tipos de organização social real, sem essa característica de mobilização por mudança.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "med-filosofia-sociologia-203",
+   "texto_apoio": "Ao longo de mais de um século, sucessivas mobilizações reuniram mulheres em torno de pautas que foram desde o direito ao voto até a igualdade salarial e o combate à violência doméstica, cada fase marcada por reivindicações próprias do seu contexto histórico.",
+   "enunciado": "Essa sucessão histórica de mobilizações, com pautas específicas para cada fase, é um exemplo do que a sociologia chama de:",
+   "alternativas": {
+    "a": "capital social, conjunto de redes de confiança e cooperação que facilitam a ação coletiva dentro de uma comunidade",
+    "b": "instituição familiar, organização social voltada à socialização primária e ao cuidado dos membros de um mesmo núcleo",
+    "c": "movimento feminista, mobilização histórica organizada em fases sucessivas, cada uma com pautas próprias do seu contexto",
+    "d": "controle social, conjunto de mecanismos que regulam o comportamento dos indivíduos dentro de uma sociedade organizada e estável",
+    "e": "burocracia estatal, estrutura organizada em torno de regras formais e hierarquia de cargos dentro do aparato do Estado"
+   },
+   "resposta": "c",
+   "explicacao": "O movimento feminista é organizado historicamente em fases sucessivas — as chamadas ondas —, cada uma concentrada em pautas específicas do seu momento histórico, do voto à violência doméstica. As demais alternativas nomeiam outros conceitos sociológicos reais, sem essa organização histórica em fases de mobilização.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "med-filosofia-sociologia-204",
+   "texto_apoio": "Um conjunto relativamente estável de normas, papéis e expectativas organiza a criação dos filhos, a transmissão de valores e o cuidado material dos seus membros, reproduzindo-se ao longo de gerações apesar de mudanças na sua composição.",
+   "enunciado": "Esse conjunto estável de normas e papéis, estudado pela sociologia como uma das principais estruturas de socialização, é conhecido como:",
+   "alternativas": {
+    "a": "ação coletiva, esforço conjunto de vários indivíduos voltado à obtenção de um benefício compartilhado entre todos",
+    "b": "movimento social, forma de organização coletiva relativamente duradoura voltada a pressionar por mudanças sociais ou políticas específicas",
+    "c": "capital social, conjunto de redes de confiança e cooperação que facilitam a ação coletiva dentro de uma comunidade",
+    "d": "instituição familiar, estrutura relativamente estável de normas e papéis voltada à socialização e ao cuidado de seus membros",
+    "e": "sociedade civil, conjunto de organizações e associações que atuam fora do aparato do Estado e do mercado"
+   },
+   "resposta": "d",
+   "explicacao": "A instituição familiar é uma das principais estruturas de socialização estudadas pela sociologia: um conjunto relativamente estável de normas e papéis que se reproduz ao longo de gerações, mesmo diante de mudanças na composição concreta de cada família. As demais alternativas nomeiam outros conceitos sociológicos reais, sem essa função específica de socialização primária.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "med-filosofia-sociologia-205",
+   "texto_apoio": "Além de ensinar conteúdos formais, um ambiente organizado transmite regras de convivência, disciplina de horários e valores compartilhados, preparando indivíduos para papéis sociais que vão além do que está escrito em qualquer currículo oficial.",
+   "enunciado": "Esse ambiente, analisado pela sociologia como instituição social responsável por parte da socialização dos indivíduos, é:",
+   "alternativas": {
+    "a": "os veículos de comunicação, conjunto de organizações voltadas à difusão de informação para um público amplo",
+    "b": "a família, instituição responsável pela socialização primária e pelo cuidado material dos seus membros desde o próprio nascimento",
+    "c": "o mercado de trabalho, conjunto de relações voltadas à troca de trabalho remunerado dentro de uma economia organizada",
+    "d": "o sistema penal, conjunto de instituições voltadas à aplicação de sanções a quem viola normas legais estabelecidas",
+    "e": "a escola, instituição que transmite, além de conteúdos formais, regras de convivência e valores compartilhados socialmente"
+   },
+   "resposta": "e",
+   "explicacao": "A escola como instituição ocupa lugar central na socialização secundária: além dos conteúdos formais do currículo, transmite regras de convivência, disciplina e valores compartilhados, complementando a socialização primária iniciada na família (b) e preparando o indivíduo para a participação social mais ampla. As demais alternativas descrevem outras instituições ou sistemas sociais reais, distintos dessa função escolar específica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "med-filosofia-sociologia-206",
+   "texto_apoio": "Um sociólogo britânico do século 20 propôs que a cidadania plena se desenvolve historicamente em três dimensões sucessivas: uma ligada às liberdades individuais perante a lei, outra ligada ao direito de participar das decisões políticas do país, e uma terceira ligada ao acesso a um mínimo de bem-estar econômico e social.",
+   "enunciado": "Essas três dimensões da cidadania, propostas por esse sociólogo, são conhecidas como direitos:",
+   "alternativas": {
+    "a": "civis, políticos e sociais, correspondendo respectivamente às liberdades individuais, à participação política e ao bem-estar econômico",
+    "b": "naturais, positivos e adquiridos, correspondendo à origem histórica de cada categoria de direito reconhecida pelo Estado",
+    "c": "individuais, coletivos e difusos, correspondendo ao número de titulares que cada categoria de direito pode ter simultaneamente reconhecido",
+    "d": "formais, materiais e processuais, correspondendo ao grau de efetividade prática de cada categoria de direito no cotidiano",
+    "e": "internos, externos e transnacionais, correspondendo ao âmbito territorial de aplicação de cada categoria de direito"
+   },
+   "resposta": "a",
+   "explicacao": "T. H. Marshall propôs que a cidadania plena se desenvolve historicamente em três dimensões: direitos civis (liberdades individuais perante a lei), direitos políticos (participação nas decisões do país) e direitos sociais (acesso a um mínimo de bem-estar econômico e social) — sequência associada ao desenvolvimento da cidadania moderna nas sociedades ocidentais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "med-filosofia-sociologia-207",
+   "texto_apoio": "Após a Segunda Guerra Mundial, diversos países europeus ampliaram a atuação do Estado na oferta de serviços de saúde, educação e seguridade, buscando garantir um patamar mínimo de bem-estar à população, independentemente da capacidade de pagamento de cada indivíduo.",
+   "enunciado": "Esse modelo de atuação estatal ampliada na garantia de bem-estar social é conhecido como:",
+   "alternativas": {
+    "a": "Estado mínimo, modelo de atuação estatal restrita à segurança pública e à garantia dos contratos entre particulares",
+    "b": "Estado de bem-estar social, modelo de atuação estatal ampliada voltado a garantir um patamar mínimo de bem-estar à população",
+    "c": "Estado patrimonialista, modelo em que a distinção entre bens públicos e bens privados do próprio governante é pouco definida na prática",
+    "d": "Estado confederado, modelo de organização territorial em que unidades politicamente autônomas se associam livremente",
+    "e": "Estado teocrático, modelo em que a autoridade política deriva diretamente de uma autoridade religiosa reconhecida"
+   },
+   "resposta": "b",
+   "explicacao": "O Estado de bem-estar social (welfare state) é o modelo de atuação estatal ampliada na oferta de saúde, educação e seguridade, consolidado em diversos países europeus após a Segunda Guerra Mundial, buscando garantir um patamar mínimo de bem-estar independentemente da renda individual. As demais alternativas nomeiam outros modelos reais de organização estatal, distintos desse.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "med-filosofia-sociologia-208",
+   "texto_apoio": "Uma organização sem fins lucrativos, formada por cidadãos comuns e independente tanto do governo quanto de empresas privadas, atua na defesa do meio ambiente, financiada por doações e voluntariado.",
+   "enunciado": "Esse tipo de organização, situada fora do Estado e do mercado, integra o que a sociologia chama de:",
+   "alternativas": {
+    "a": "setor privado, conjunto de empresas voltadas à produção de bens e serviços com finalidade de obtenção de lucro",
+    "b": "setor público, conjunto de órgãos e entidades vinculados diretamente à administração direta ou indireta do Estado",
+    "c": "terceiro setor, conjunto de organizações sem fins lucrativos que atuam fora tanto do Estado quanto do mercado",
+    "d": "órgão público, entidade vinculada diretamente à administração do governo, sem autonomia financeira própria",
+    "e": "corporação profissional, associação que regula o exercício de determinada profissão e representa seus membros formalmente"
+   },
+   "resposta": "c",
+   "explicacao": "O terceiro setor reúne organizações sem fins lucrativos, como ONGs, situadas fora tanto do Estado (primeiro setor) quanto do mercado (segundo setor), financiadas por doações, voluntariado ou parcerias — parte do que a sociologia também chama de sociedade civil organizada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "med-filosofia-sociologia-209",
+   "texto_apoio": "Numa disputa sindical, todos os trabalhadores de uma categoria se beneficiariam de um reajuste salarial conquistado por meio de greve, mas cada trabalhador individualmente tem incentivo para não participar da paralisação, evitando o risco pessoal e ainda assim usufruindo do benefício conquistado pelos demais.",
+   "enunciado": "Esse dilema, em que cada indivíduo tem incentivo para não contribuir enquanto se beneficia do esforço coletivo dos outros, é conhecido na sociologia e na ciência política como:",
+   "alternativas": {
+    "a": "reprodução social, processo pelo qual desigualdades de uma geração se transmitem à geração seguinte dentro de uma sociedade",
+    "b": "efeito manada, fenômeno em que indivíduos imitam o comportamento coletivo sem avaliar criticamente cada decisão",
+    "c": "captura regulatória, fenômeno em que um órgão regulador passa a atender aos interesses do setor que deveria fiscalizar",
+    "d": "problema do carona (free-rider), dilema em que o indivíduo se beneficia de um bem coletivo sem contribuir para produzi-lo",
+    "e": "dominação burocrática, forma de exercício do poder baseada em regras impessoais e numa hierarquia formal de cargos"
+   },
+   "resposta": "d",
+   "explicacao": "O problema do carona (free-rider) descreve justamente essa situação: cada indivíduo tem incentivo racional para não contribuir com um esforço coletivo, já que se beneficiará do resultado mesmo sem participar — um dos principais obstáculos teóricos à ação coletiva bem-sucedida. As demais alternativas nomeiam outros conceitos sociológicos reais, sem esse mecanismo específico de incentivo individual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "med-filosofia-sociologia-210",
+   "texto_apoio": "Um pesquisador constatou que comunidades com maior densidade de redes de confiança interpessoal, associações voluntárias e hábitos de cooperação entre vizinhos tendiam a ter instituições públicas mais eficazes e maior participação cívica.",
+   "enunciado": "Esse conjunto de redes de confiança e cooperação, associado a melhores resultados institucionais e cívicos, é conhecido como:",
+   "alternativas": {
+    "a": "aversão ao risco, tendência individual de evitar decisões que envolvam incerteza ou possível prejuízo pessoal",
+    "b": "prestígio pessoal, reconhecimento e admiração conferidos a um indivíduo por seus pares dentro de um grupo específico",
+    "c": "capital econômico, conjunto de recursos financeiros e materiais que um indivíduo ou uma família possui reunidos num dado momento",
+    "d": "renda per capita, valor médio de renda disponível por habitante de uma determinada região num certo período",
+    "e": "capital social, conjunto de redes de confiança e cooperação entre indivíduos que facilita a ação coletiva numa comunidade"
+   },
+   "resposta": "e",
+   "explicacao": "Capital social é o conceito que descreve redes de confiança interpessoal, associações voluntárias e hábitos de cooperação que facilitam a ação coletiva numa comunidade, associado por pesquisas empíricas a instituições públicas mais eficazes e maior participação cívica. As demais alternativas nomeiam outros conceitos sociológicos reais, distintos desse tipo específico de capital.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "med-filosofia-sociologia-211",
+   "texto_apoio": "A partir dos anos 1960 e 1970, organizações em diversos países passaram a se mobilizar em torno da denúncia da poluição industrial, do desmatamento e das mudanças climáticas, pressionando governos e empresas por políticas de proteção da natureza.",
+   "enunciado": "Essa mobilização coletiva voltada à proteção da natureza é um exemplo do que a sociologia classifica como:",
+   "alternativas": {
+    "a": "movimento ambientalista, mobilização coletiva voltada à denúncia de danos ambientais e à pressão por políticas de proteção da natureza",
+    "b": "instituição religiosa, organização voltada à prática e à transmissão de crenças e rituais entre seus membros e fiéis",
+    "c": "burocracia estatal, estrutura organizada em torno de regras formais e hierarquia de cargos dentro do aparato do Estado",
+    "d": "corporação profissional, associação que regula o exercício de determinada profissão e representa formalmente seus membros perante o Estado",
+    "e": "sindicato patronal, entidade que representa os interesses de empregadores de determinado setor econômico do país"
+   },
+   "resposta": "a",
+   "explicacao": "O movimento ambientalista, consolidado a partir das décadas de 1960 e 1970, é a categoria sociológica para essa mobilização coletiva voltada à denúncia de danos ambientais e à pressão por políticas de proteção da natureza junto a governos e empresas. As demais alternativas descrevem outros tipos de organização social real, sem essa pauta ambiental específica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "id": "med-filosofia-sociologia-212",
+   "texto_apoio": "Em diferentes momentos históricos, estudantes secundaristas e universitários organizaram ocupações de escolas e universidades, greves e passeatas para reivindicar desde melhorias na educação pública até mudanças políticas mais amplas na sociedade.",
+   "enunciado": "Essa forma de mobilização coletiva, protagonizada por estudantes em torno de pautas educacionais e políticas, é conhecida como movimento:",
+   "alternativas": {
+    "a": "sindical, mobilização coletiva protagonizada por trabalhadores organizados em torno de pautas trabalhistas e salariais",
+    "b": "estudantil, mobilização coletiva protagonizada por estudantes em torno de pautas educacionais e políticas mais amplas",
+    "c": "ambientalista, mobilização coletiva voltada à denúncia de danos ambientais e à pressão por políticas de proteção da natureza",
+    "d": "negro, mobilização coletiva voltada à denúncia do racismo e à reivindicação de políticas de igualdade racial",
+    "e": "feminista, mobilização histórica organizada em fases sucessivas, cada uma com pautas próprias do seu contexto histórico"
+   },
+   "resposta": "b",
+   "explicacao": "O movimento estudantil é a categoria sociológica para a mobilização coletiva protagonizada por estudantes secundaristas e universitários, com pautas que vão de melhorias educacionais a mudanças políticas mais amplas, expressas por ocupações, greves e passeatas. As demais alternativas nomeiam outros movimentos sociais reais, com protagonistas e pautas distintas.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "artes-classica-moderna": [
@@ -78871,6 +80887,210 @@ window.QUESTION_BANKS = {
    "explicacao": "Estudos em Yale e Harvard mediram ganho na acurácia descritiva de achados clínicos depois desses cursos. Separar \"vejo uma mancha assimétrica\" de \"isto é um melanoma\" é a mesma disciplina nos dois contextos.",
    "formato": "direta",
    "banca": "einstein",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-251",
+   "texto_apoio": "O Instituto do Patrimônio Histórico e Artístico Nacional pode determinar que um bem, móvel ou imóvel, seja protegido por lei em razão de seu valor histórico, artístico ou cultural.",
+   "enunciado": "Esse ato administrativo de reconhecimento e proteção é chamado de:",
+   "alternativas": {
+    "a": "tombamento, que impõe restrições ao proprietário quanto a alterações, demolição ou descaracterização do bem",
+    "b": "confisco, que transfere ao Estado a posse imediata do bem protegido, independentemente da vontade do proprietário",
+    "c": "seleção de acervo, processo pelo qual um profissional especializado escolhe obras para compor uma mostra temporária",
+    "d": "restauração, intervenção técnica que devolve ao bem sua aparência original após um período de deterioração",
+    "e": "licenciamento, autorização prévia exigida para a realização de obras em qualquer imóvel do país"
+   },
+   "resposta": "a",
+   "explicacao": "Tombamento é o instrumento jurídico que reconhece o valor histórico, artístico ou cultural de um bem e impõe restrições ao seu uso e modificação, sem necessariamente retirar a propriedade de quem o detém. Confisco (b) transfere a posse; curadoria (c) e restauração (d) são outros processos técnicos; licenciamento (e) é instrumento distinto, de natureza urbanística ou ambiental.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-252",
+   "texto_apoio": "Certas manifestações culturais são reconhecidas internacionalmente não por um objeto físico, mas pelo saber, pela prática ou pela expressão transmitida entre gerações.",
+   "enunciado": "Esse tipo de reconhecimento, concedido pela UNESCO a manifestações como a capoeira e o samba de roda, é conhecido como:",
+   "alternativas": {
+    "a": "Patrimônio Mundial, categoria reservada exclusivamente a monumentos e sítios arqueológicos de valor excepcional",
+    "b": "Sítio Histórico Nacional, categoria de reconhecimento concedida exclusivamente por órgãos do governo brasileiro",
+    "c": "Reserva da Biosfera, categoria destinada à proteção de ecossistemas com grande diversidade biológica",
+    "d": "Patrimônio Cultural Imaterial, categoria voltada a saberes, práticas e expressões transmitidos entre gerações",
+    "e": "Obra-Prima do Patrimônio Oral, categoria extinta e substituída integralmente pela lista de sítios materiais reconhecidos"
+   },
+   "resposta": "d",
+   "explicacao": "O Patrimônio Cultural Imaterial da UNESCO reconhece práticas, saberes, expressões, rituais e eventos festivos que não se reduzem a um objeto ou construção, mas se transmitem entre gerações. A capoeira e o samba de roda foram reconhecidos nessa categoria, distinta da lista de bens materiais, como monumentos e sítios.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-253",
+   "texto_apoio": "Em feiras do Nordeste brasileiro, folhetos impressos em versos rimados narram histórias que vão do cotidiano ao fantástico, com capas frequentemente ilustradas por gravuras entalhadas em madeira.",
+   "enunciado": "Essa tradição narrativa popular, impressa e vendida em folhetos, é conhecida como:",
+   "alternativas": {
+    "a": "romanceiro medieval, tradição europeia trazida sem alterações pelos colonizadores portugueses",
+    "b": "repentismo, modalidade de improviso cantado realizada sem qualquer registro escrito posterior",
+    "c": "literatura de cordel, associada à técnica de xilogravura e à tradição de versos rimados do Nordeste",
+    "d": "literatura marginal urbana, movimento surgido nas periferias das grandes cidades brasileiras a partir dos anos 1990",
+    "e": "crônica popular, gênero jornalístico publicado regularmente em jornais de circulação regional"
+   },
+   "resposta": "c",
+   "explicacao": "A literatura de cordel é a tradição de folhetos em versos, impressos e ilustrados com xilogravura, típica do Nordeste, que combina oralidade e escrita popular. O nome vem do costume de pendurar os folhetos em cordões nas feiras. Repentismo (b) é a modalidade cantada e improvisada, prática distinta embora relacionada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-254",
+   "texto_apoio": "Em junho, comunidades de diversas regiões do Brasil promovem festejos com fogueiras, quadrilhas, comidas à base de milho e homenagens a santos católicos, num calendário que mistura elementos de origem europeia e rural.",
+   "enunciado": "Esses festejos, parte relevante da cultura popular e da identidade cultural de diversas comunidades brasileiras, são conhecidos como:",
+   "alternativas": {
+    "a": "festas juninas, celebração que combina calendário católico e tradições rurais ligadas à colheita",
+    "b": "carnaval de rua, manifestação associada ao período que antecede a quaresma no calendário católico",
+    "c": "folia de reis, manifestação realizada exclusivamente entre o fim de dezembro e o início de janeiro",
+    "d": "congada, manifestação de origem africana centrada na coroação de reis e rainhas do Congo",
+    "e": "maracatu, manifestação associada ao cortejo de um rei e uma rainha acompanhados de percussão"
+   },
+   "resposta": "a",
+   "explicacao": "As festas juninas reúnem santos católicos (Santo Antônio, São João, São Pedro), fogueiras e fartura da colheita de milho, num calendário associado ao mês de junho. Carnaval (b) e folia de reis (c) ocupam outros períodos do calendário; congada (d) e maracatu (e) são manifestações distintas, de origem africana, com outra dinâmica ritual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-255",
+   "texto_apoio": "Em cortejos que remontam ao período colonial, grupos organizados em torno da figura de reis e rainhas do Congo desfilam ao som de tambores, celebrando a memória de reinos africanos.",
+   "enunciado": "Essa manifestação de origem africana, com forte presença em Minas Gerais e no interior de São Paulo, é conhecida como:",
+   "alternativas": {
+    "a": "maracatu, cortejo pernambucano associado à realeza negra e à percussão nagô",
+    "b": "congada, manifestação que recria a coroação de reis e rainhas do Congo em cortejo festivo",
+    "c": "jongo, manifestação centrada na roda e no canto de origem bantu do Sudeste",
+    "d": "afoxé, cortejo associado às religiões de origem africana com forte presença na Bahia",
+    "e": "capoeira angola, modalidade de jogo e luta associada a um andamento mais lento de movimentação"
+   },
+   "resposta": "b",
+   "explicacao": "A congada recria, em cortejo, a coroação de reis e rainhas do Congo, celebrando a memória de reinos africanos anteriores à escravização — presença especialmente forte em Minas Gerais e no interior paulista. As demais alternativas nomeiam manifestações afro-brasileiras reais, mas com outra dinâmica e outra origem regional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-256",
+   "texto_apoio": "Povos indígenas brasileiros produzem padrões visuais aplicados ao corpo, à cerâmica e aos objetos rituais, com formas geométricas que variam conforme a etnia e carregam significados específicos dentro de cada cultura.",
+   "enunciado": "Esses padrões visuais característicos das culturas indígenas são conhecidos como:",
+   "alternativas": {
+    "a": "arte rupestre, conjunto de representações gravadas ou pintadas em paredes de cavernas e abrigos rochosos",
+    "b": "azulejaria, técnica de revestimento decorativo com origem na cerâmica vidrada de tradição ibérica",
+    "c": "iconografia barroca, conjunto de representações religiosas típico da arte colonial luso-brasileira",
+    "d": "grafismo indígena, sistema de padrões geométricos que carrega significados específicos de cada etnia",
+    "e": "pixação, forma de escrita urbana associada a um estilo gráfico anguloso surgido nas periferias paulistanas"
+   },
+   "resposta": "d",
+   "explicacao": "Grafismo indígena é o termo para os sistemas de padrões geométricos aplicados ao corpo, à cerâmica e a objetos rituais, com significados próprios de cada etnia — não é ornamento aleatório, mas linguagem visual codificada. As demais alternativas nomeiam outras tradições visuais, sem relação direta com as culturas indígenas descritas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-257",
+   "texto_apoio": "Trazida por povos africanos escravizados e transformada em solo brasileiro, uma prática corporal combina golpes, esquivas, berimbau e roda, ocupando ao mesmo tempo o lugar de jogo, luta e expressão cultural.",
+   "enunciado": "Reconhecida pela UNESCO como Patrimônio Cultural Imaterial da Humanidade, essa prática é:",
+   "alternativas": {
+    "a": "o maracatu, cortejo de percussão associado à realeza negra pernambucana",
+    "b": "a umbanda, religião de origem afro-brasileira formada no início do século 20",
+    "c": "o jongo, manifestação de roda de origem bantu praticada no Sudeste do país",
+    "d": "o frevo, manifestação acelerada associada ao carnaval de rua do Recife e de Olinda",
+    "e": "a capoeira, prática que combina jogo, luta e o som do berimbau em torno da roda"
+   },
+   "resposta": "e",
+   "explicacao": "A capoeira combina jogo, luta e o som do berimbau em torno da roda, e foi reconhecida pela UNESCO como Patrimônio Cultural Imaterial da Humanidade em 2014. As demais opções nomeiam manifestações afro-brasileiras reais, mas nenhuma reúne simultaneamente o caráter de jogo e de luta corporal descrito no texto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-258",
+   "texto_apoio": "Formada no Brasil a partir da fusão de tradições de diferentes povos africanos, com incorporação de elementos indígenas e católicos ao longo do tempo, uma religião cultua entidades associadas a forças da natureza e a aspectos da vida humana.",
+   "enunciado": "Essa religião de origem africana, cujas entidades cultuadas são chamadas de orixás, é:",
+   "alternativas": {
+    "a": "o candomblé, religião que cultua orixás vinculados a forças da natureza e realiza seus rituais em terreiros",
+    "b": "a umbanda, religião surgida no início do século 20 que também incorpora espíritos de caboclos e pretos-velhos",
+    "c": "o catolicismo popular, vertente que incorpora santos a festividades de origem rural no interior do país",
+    "d": "o espiritismo kardecista, doutrina de origem francesa centrada na comunicação com espíritos desencarnados",
+    "e": "a religiosidade indígena, conjunto de crenças associadas a espíritos da floresta e a rituais xamânicos"
+   },
+   "resposta": "a",
+   "explicacao": "O candomblé é a religião de origem africana centrada no culto aos orixás, realizado em terreiros, com forte preservação de línguas e tradições de origem africana. A umbanda (b) também cultua entidades, mas incorpora, além dos orixás, espíritos de caboclos e pretos-velhos, numa síntese formada já em solo brasileiro. As demais alternativas descrevem tradições religiosas distintas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-259",
+   "texto_apoio": "Em comunidades tradicionais, técnicas de produção de objetos utilitários e decorativos — cestaria, cerâmica, renda, entalhe em madeira — passam de uma geração a outra por observação direta e prática, sem manual escrito.",
+   "enunciado": "Esse tipo de conhecimento, transmitido oralmente e pela prática entre gerações dentro de uma comunidade, é chamado de:",
+   "alternativas": {
+    "a": "design industrial, disciplina voltada à produção em larga escala de objetos padronizados para o mercado",
+    "b": "manufatura seriada, processo de produção baseado na repetição padronizada de peças idênticas",
+    "c": "engenharia de produção, área responsável pelo planejamento de processos fabris em larga escala",
+    "d": "arte aplicada, categoria acadêmica que reúne disciplinas de design gráfico e visual contemporâneas",
+    "e": "artesanato tradicional, saber-fazer transmitido entre gerações dentro de uma comunidade"
+   },
+   "resposta": "e",
+   "explicacao": "O artesanato tradicional é justamente esse saber-fazer transmitido entre gerações por observação e prática, sem depender de registro escrito ou de padronização industrial. As demais alternativas descrevem processos ligados à produção em escala e ao design contemporâneo, com lógica de transmissão e finalidade distintas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-260",
+   "texto_apoio": "Debate-se, com frequência, se o uso de elementos de uma cultura por pessoas fora dela — um adorno, um penteado, um padrão visual — configura valorização ou exploração indevida dessa cultura.",
+   "enunciado": "Um critério recorrente para distinguir apropriação cultural problemática de intercâmbio legítimo é:",
+   "alternativas": {
+    "a": "a nacionalidade de quem usa o elemento, sendo aceitável apenas quando a pessoa nasceu no mesmo país da cultura de origem",
+    "b": "a existência de assimetria de poder e de reconhecimento entre quem usa o elemento e a comunidade de origem",
+    "c": "o preço pago pelo objeto, sendo automaticamente legítimo o uso de qualquer elemento adquirido de forma comercial",
+    "d": "o tempo de existência da prática cultural, sendo aceitável apenas o uso de tradições surgidas há mais de um século",
+    "e": "a quantidade de pessoas que utilizam o mesmo elemento simultaneamente em determinado contexto"
+   },
+   "resposta": "b",
+   "explicacao": "O critério mais discutido em debates sobre apropriação cultural é a assimetria de poder: quando um grupo historicamente marginalizado tem sua cultura usada sem crédito, benefício ou reconhecimento por outro grupo em posição dominante, o uso tende a ser lido como apropriação, não como intercâmbio. Nacionalidade, preço e tempo de existência (a, b, d) não são os critérios centrais desse debate.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-261",
+   "texto_apoio": "Além de monumentos e documentos, o patrimônio cultural de um grupo inclui lembranças, narrativas orais e experiências compartilhadas, que se transformam à medida que são recontadas e transmitidas entre gerações.",
+   "enunciado": "Esse conjunto de lembranças compartilhadas por um grupo, que sustenta sua identidade ao longo do tempo, é chamado de:",
+   "alternativas": {
+    "a": "arquivo público, conjunto de documentos oficiais reunidos por um órgão estatal para fins administrativos",
+    "b": "acervo museológico, conjunto de peças reunidas e catalogadas por uma instituição especializada",
+    "c": "memória coletiva, conjunto de lembranças e narrativas compartilhadas que sustentam a identidade de um grupo",
+    "d": "biblioteca nacional, instituição responsável pela guarda de obras impressas de relevância histórica",
+    "e": "patrimônio genético, conjunto de características biológicas transmitidas entre gerações de uma população específica"
+   },
+   "resposta": "c",
+   "explicacao": "Memória coletiva é o termo para esse conjunto de lembranças e narrativas compartilhadas por um grupo, que se transforma a cada nova transmissão e sustenta um sentido de identidade e pertencimento ao longo do tempo. As demais opções nomeiam instituições ou conceitos distintos, ligados a registros formais, não a lembranças compartilhadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-262",
+   "texto_apoio": "Ao planejar a intervenção num imóvel tombado que perdeu parte de sua estrutura original, uma equipe técnica precisa decidir como tratar as partes ausentes sem comprometer a autenticidade do que restou.",
+   "enunciado": "Um princípio amplamente seguido nesse tipo de intervenção sobre bem tombado é:",
+   "alternativas": {
+    "a": "reconstruir livremente as partes ausentes conforme a preferência estética da equipe responsável pela obra",
+    "b": "substituir o conjunto do material original por réplicas modernas, garantindo resistência estrutural superior",
+    "c": "demolir o imóvel e erguer uma cópia idêntica em outro local mais acessível ao público visitante",
+    "d": "distinguir visualmente o que é original do que é intervenção nova, evitando falsificar a autenticidade histórica",
+    "e": "pintar o imóvel inteiro com uma única cor, uniformizando visualmente as partes antigas e as partes novas da fachada"
+   },
+   "resposta": "d",
+   "explicacao": "Um princípio central da restauração de bens tombados é permitir distinguir o que é original do que foi acrescentado na intervenção, para não fabricar uma falsa antiguidade nem apagar a história do próprio processo de restauro. As demais opções descrevem práticas que comprometem a autenticidade do bem, contrariando esse princípio.",
+   "formato": "direta",
    "origem": "medicina"
   }
  ],

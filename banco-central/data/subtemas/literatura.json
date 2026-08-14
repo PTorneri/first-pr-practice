@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-13",
+ "gerado": "2026-08-14",
  "frente": "literatura",
- "total": 314,
+ "total": 331,
  "residuo": [
   "dir-literatura-53",
   "dir-literatura-55",
@@ -1884,6 +1884,108 @@
    "frenteDestino": "literatura",
    "pontos": 9,
    "margem": 9
+  },
+  "med-literatura-301": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-302": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-303": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-304": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-literatura-305": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 1
+  },
+  "med-literatura-306": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-literatura-307": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-308": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-literatura-309": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-literatura-310": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-literatura-311": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-literatura-312": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "med-literatura-313": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-literatura-314": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-literatura-315": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-literatura-316": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 5
+  },
+  "med-literatura-317": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 6
   }
  }
 }

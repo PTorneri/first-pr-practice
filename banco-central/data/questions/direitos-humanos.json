@@ -1667,6 +1667,774 @@
    "resposta": "a",
    "explicacao": "Parte da doutrina passou a tratar o acesso à internet como direito social emergente, cuja ausência aprofunda desigualdades já existentes em educação, trabalho e acesso a serviços públicos. Descrevê-lo como privilégio comercial sob concessão é o distrator mais plausível, porque a prestação do serviço realmente se dá por concessão regulada — o que está em discussão é outra coisa: a natureza jurídica do acesso para o titular, não o regime de exploração. Chamá-lo de direito de terceira geração consolidado em tratado vinculante antecipa um reconhecimento que ainda não existe nesses termos. Tratá-lo como matéria estranha aos direitos humanos ignora o próprio debate. E supor acesso universalizado contraria os dados de exclusão digital.",
    "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-101",
+   "texto_apoio": "Certos dispositivos da Constituição Federal de 1988 não podem ser abolidos nem mesmo por emenda constitucional aprovada com o quórum qualificado exigido pelo próprio texto.",
+   "enunciado": "Esses dispositivos protegidos contra abolição, mesmo por via de emenda, são conhecidos como:",
+   "alternativas": {
+    "a": "Normas programáticas, que fixam metas ao poder público sem gerar direito subjetivo imediato ao cidadão",
+    "b": "Cláusulas pétreas, núcleo protegido que nem mesmo o poder constituinte derivado pode suprimir",
+    "c": "Normas de eficácia limitada, que dependem de lei posterior para produzir todos os seus efeitos",
+    "d": "Princípios implícitos, reconhecidos pela doutrina mas sem previsão expressa no texto constitucional",
+    "e": "Disposições transitórias, normas de vigência temporária destinadas a organizar a transição constitucional"
+   },
+   "resposta": "b",
+   "explicacao": "Cláusulas pétreas formam o núcleo da Constituição protegido até contra emenda constitucional — o poder constituinte derivado não pode aboli-las, ainda que aprove a proposta com o quórum qualificado do art. 60. As demais alternativas descrevem outras categorias de normas constitucionais, sem essa blindagem específica.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-102",
+   "texto_apoio": "Diante de uma lei que considera inconstitucional, um cidadão pode acionar o Judiciário de duas formas distintas: pedindo que o próprio juiz do seu caso deixe de aplicar a lei, ou levando a questão diretamente ao Supremo Tribunal Federal para que a lei seja retirada do ordenamento com efeito geral.",
+   "enunciado": "Essas duas vias de controle de constitucionalidade são conhecidas, respectivamente, como:",
+   "alternativas": {
+    "a": "controle preventivo e controle repressivo, distinguidos pelo momento em que a lei é analisada pelo poder competente",
+    "b": "recurso ordinário e recurso extraordinário, distinguidos pela instância em que a lei é questionada",
+    "c": "controle político e controle jurisdicional, distinguidos pela natureza do órgão que realiza a análise da lei",
+    "d": "controle difuso e controle concentrado, distinguidos pela amplitude do órgão competente e pelo efeito da decisão",
+    "e": "ação popular e ação civil pública, distinguidas pela legitimidade para propor a demanda perante o Judiciário"
+   },
+   "resposta": "d",
+   "explicacao": "No controle difuso, qualquer juiz pode deixar de aplicar a lei ao caso concreto, com efeito restrito às partes; no controle concentrado, exercido principalmente pelo Supremo Tribunal Federal em ação direta, a decisão retira a lei do ordenamento com efeito geral (erga omnes). As demais alternativas descrevem distinções processuais reais, mas diferentes da pergunta.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-103",
+   "texto_apoio": "Uma pessoa é presa sem que exista mandado judicial ou flagrante delito, e seu advogado busca uma medida judicial urgente para restabelecer sua liberdade de locomoção.",
+   "enunciado": "O remédio constitucional adequado para essa situação é:",
+   "alternativas": {
+    "a": "o mandado de segurança, cabível sempre que um direito líquido e certo é violado por autoridade pública",
+    "b": "a ação popular, cabível ao cidadão para anular ato lesivo ao patrimônio público, à moralidade administrativa ou ao meio ambiente",
+    "c": "a ação civil pública, cabível para a tutela de interesses difusos e coletivos por legitimados específicos",
+    "d": "o mandado de injunção, cabível quando a falta de norma regulamentadora inviabiliza o exercício de um direito",
+    "e": "o habeas corpus, cabível quando alguém sofre ou está ameaçado de sofrer violência ou coação à liberdade de locomoção"
+   },
+   "resposta": "e",
+   "explicacao": "O habeas corpus protege especificamente a liberdade de locomoção contra prisão ou ameaça ilegal — é o remédio constitucional cabível quando alguém é preso sem mandado judicial ou flagrante. Os demais remédios listados protegem outros bens jurídicos: direito líquido e certo (mandado de segurança), interesses coletivos (ação civil pública), norma regulamentadora ausente (mandado de injunção) e patrimônio público (ação popular).",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-104",
+   "texto_apoio": "Um cidadão tem seu pedido de certidão negado por um órgão público sem justificativa legal, mesmo apresentando toda a documentação exigida em lei para o requerimento.",
+   "enunciado": "O remédio constitucional cabível para garantir esse direito líquido e certo diante do ato ilegal da autoridade pública é:",
+   "alternativas": {
+    "a": "o habeas data, cabível especificamente para acesso ou retificação de informações constantes de banco de dados público",
+    "b": "o habeas corpus, cabível quando há violação ou ameaça à liberdade de locomoção do próprio requerente",
+    "c": "o mandado de segurança, cabível quando um direito líquido e certo é violado por ato de autoridade pública",
+    "d": "a ação civil pública, cabível para a tutela de interesses difusos e coletivos por legitimados específicos",
+    "e": "o mandado de injunção, cabível quando a ausência de norma regulamentadora impede o exercício de um direito"
+   },
+   "resposta": "c",
+   "explicacao": "O mandado de segurança protege direito líquido e certo, não amparado por habeas corpus ou habeas data, violado por ato de autoridade pública — situação que descreve exatamente a negativa injustificada de uma certidão a quem já cumpriu os requisitos legais. Os demais remédios protegem outros bens jurídicos específicos, não aplicáveis ao caso descrito.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-105",
+   "texto_apoio": "Antes de aplicar qualquer penalidade a um servidor público, a administração precisa garantir que ele seja informado das acusações, possa se manifestar e apresentar provas em sua defesa, e tenha uma decisão fundamentada ao final do processo.",
+   "enunciado": "Esse conjunto de garantias, aplicável tanto a processos judiciais quanto administrativos, decorre do princípio constitucional do:",
+   "alternativas": {
+    "a": "livre convencimento motivado, que autoriza o julgador a decidir conforme sua análise pessoal das provas produzidas",
+    "b": "devido processo legal, que assegura contraditório, ampla defesa e decisão fundamentada antes de qualquer sanção",
+    "c": "duplo grau de jurisdição, que garante ao interessado o direito de recorrer da decisão a uma instância superior",
+    "d": "princípio da legalidade estrita, que impede a administração de agir sem autorização legal expressa e específica",
+    "e": "princípio da publicidade, que exige a divulgação ampla dos atos administrativos praticados pelo poder público"
+   },
+   "resposta": "b",
+   "explicacao": "O devido processo legal engloba o contraditório (direito de ser ouvido) e a ampla defesa (direito de se manifestar e produzir provas), aplicáveis tanto a processos judiciais quanto administrativos antes de qualquer sanção. Os demais princípios listados são reais, mas não correspondem ao conjunto de garantias descrito no texto.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-106",
+   "texto_apoio": "A Constituição Federal distribui as funções estatais entre três estruturas distintas, cada uma com atribuições próprias, mas capazes de controlar e limitar as demais em determinadas situações.",
+   "enunciado": "Esse arranjo institucional, que evita a concentração do poder político num único centro de decisão, é conhecido como:",
+   "alternativas": {
+    "a": "separação dos poderes com freios e contrapesos, arranjo que distribui e limita reciprocamente as funções estatais",
+    "b": "federalismo cooperativo, arranjo que distribui competências entre União, Estados e Municípios de forma articulada",
+    "c": "presidencialismo de coalizão, arranjo pelo qual o chefe do Executivo governa a partir de alianças partidárias",
+    "d": "bicameralismo federativo, arranjo que divide o poder legislativo em duas casas com atribuições distintas",
+    "e": "controle de constitucionalidade difuso, arranjo pelo qual qualquer juiz pode deixar de aplicar uma lei inconstitucional"
+   },
+   "resposta": "a",
+   "explicacao": "A separação dos poderes — Executivo, Legislativo e Judiciário — com mecanismos de controle recíproco (os chamados freios e contrapesos) é o arranjo que evita a concentração do poder político num único centro de decisão. As demais alternativas descrevem outros arranjos institucionais reais, mas distintos do descrito no texto.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-107",
+   "texto_apoio": "Um estado deseja legislar sobre um tema de trânsito local que não está listado entre os assuntos reservados privativamente à União pela Constituição Federal.",
+   "enunciado": "A possibilidade de o estado legislar sobre esse tema, respeitadas as normas gerais federais quando existirem, decorre da:",
+   "alternativas": {
+    "a": "competência exclusiva da União, que impede qualquer outro ente federativo de legislar sobre matérias de trânsito",
+    "b": "delegação legislativa direta do Congresso Nacional a cada estado, mediante decreto legislativo específico e temporário",
+    "c": "competência privativa dos Municípios, atribuída constitucionalmente para assuntos de interesse estritamente local",
+    "d": "competência legislativa concorrente entre União e Estados, prevista para determinadas matérias na Constituição Federal",
+    "e": "ausência de competência de qualquer ente federativo, hipótese em que a matéria fica sujeita a regulamento federal único"
+   },
+   "resposta": "d",
+   "explicacao": "A competência legislativa concorrente, prevista na Constituição Federal, permite que Estados legislem sobre determinadas matérias observando as normas gerais federais quando existirem, e de forma plena na ausência delas. As demais alternativas descrevem outras modalidades de competência ou hipóteses que não correspondem à situação descrita.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-108",
+   "texto_apoio": "Um partido político com representação no Congresso Nacional pretende questionar, perante o Supremo Tribunal Federal, uma lei federal recém-aprovada que considera incompatível com a Constituição.",
+   "enunciado": "O instrumento processual adequado para esse questionamento direto, com efeito geral sobre toda a lei, é:",
+   "alternativas": {
+    "a": "o recurso extraordinário, cabível apenas após esgotadas as instâncias ordinárias do processo judicial em curso",
+    "b": "o habeas corpus coletivo, cabível quando há ameaça à liberdade de locomoção de um grupo determinado de pessoas",
+    "c": "o mandado de segurança coletivo, cabível para a defesa de direito líquido e certo de associados de uma entidade",
+    "d": "a reclamação constitucional, cabível para garantir o cumprimento de decisão já proferida pelo próprio tribunal",
+    "e": "a Ação Direta de Inconstitucionalidade, proposta por legitimados específicos perante o Supremo Tribunal Federal"
+   },
+   "resposta": "e",
+   "explicacao": "A Ação Direta de Inconstitucionalidade (ADI) é o instrumento de controle concentrado pelo qual legitimados específicos — entre eles partidos políticos com representação no Congresso Nacional — questionam diretamente perante o Supremo Tribunal Federal a compatibilidade de uma lei com a Constituição, com efeito geral sobre a norma. Os demais instrumentos listados servem a outras finalidades processuais.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-109",
+   "texto_apoio": "Um dano ambiental afeta um número indeterminado de pessoas numa região, sem que nenhum indivíduo isolado tenha legitimidade processual suficiente para buscar, sozinho, a reparação de todo o prejuízo coletivo causado.",
+   "enunciado": "O instrumento processual criado para a tutela desse tipo de interesse difuso ou coletivo, por legitimados como o Ministério Público, é:",
+   "alternativas": {
+    "a": "a ação civil pública, voltada à tutela de interesses difusos e coletivos por legitimados como o Ministério Público",
+    "b": "o mandado de segurança individual, voltado à proteção de direito líquido e certo de uma única pessoa determinada",
+    "c": "o habeas corpus, voltado exclusivamente à proteção da liberdade de locomoção de pessoas físicas identificadas",
+    "d": "a reclamação constitucional, voltada a garantir o cumprimento de uma decisão específica já proferida anteriormente por tribunal superior",
+    "e": "o mandado de injunção, voltado a suprir a ausência de norma regulamentadora que impede o exercício de um direito"
+   },
+   "resposta": "a",
+   "explicacao": "A ação civil pública é o instrumento processual voltado à tutela de interesses difusos e coletivos — como danos ambientais que afetam um número indeterminado de pessoas — por legitimados como o Ministério Público, associações e entes públicos. Os demais instrumentos listados protegem direitos individuais ou situações processuais distintas.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-110",
+   "texto_apoio": "Antes de decidir sobre a expulsão de um aluno acusado de indisciplina grave, uma instituição de ensino pública precisa garantir que ele tenha ciência da acusação e oportunidade de se manifestar antes da decisão final do processo administrativo.",
+   "enunciado": "As duas garantias processuais exigidas nesse caso, aplicáveis a qualquer processo administrativo ou judicial, são:",
+   "alternativas": {
+    "a": "contraditório e ampla defesa, exigidos para que o acusado seja ouvido e possa se manifestar antes da decisão",
+    "b": "publicidade e motivação, exigidas para que qualquer decisão administrativa produza efeitos válidos e legítimos",
+    "c": "eficiência e economicidade, exigidas para que o processo administrativo seja conduzido sem gastos desnecessários",
+    "d": "impessoalidade e moralidade, exigidas para que a decisão não beneficie interesses pessoais de quem a proferiu",
+    "e": "razoabilidade e proporcionalidade, exigidas para que a sanção aplicada seja compatível com a gravidade do ato"
+   },
+   "resposta": "a",
+   "explicacao": "O contraditório garante ao acusado ciência da acusação e o direito de se manifestar; a ampla defesa garante a possibilidade de produzir provas e argumentos antes da decisão final. As demais alternativas listam outros princípios constitucionais reais da administração pública, mas não correspondem exatamente às duas garantias exigidas no caso descrito.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-111",
+   "texto_apoio": "Um governante que assume o poder por meio de eleições regulares, mas depois passa a ignorar decisões judiciais e a governar por decretos que extrapolam os limites que a Constituição lhe atribui, rompe com um princípio estruturante da ordem constitucional.",
+   "enunciado": "Esse princípio, que subordina inclusive quem exerce o poder político às normas e aos limites fixados pela Constituição, é conhecido como:",
+   "alternativas": {
+    "a": "soberania popular, princípio segundo o qual o poder político emana do povo, que o exerce por meio de representantes eleitos periodicamente",
+    "b": "Estado Democrático de Direito, princípio que subordina o exercício do poder político aos limites fixados pela Constituição",
+    "c": "pluralismo político, princípio que reconhece e protege a diversidade de partidos e correntes de pensamento no país",
+    "d": "presidencialismo, sistema de governo em que o chefe do Executivo acumula as funções de chefe de Estado e de governo",
+    "e": "federalismo, forma de organização territorial do poder que distribui competências entre diferentes entes políticos"
+   },
+   "resposta": "b",
+   "explicacao": "Estado Democrático de Direito é o princípio segundo o qual todo o exercício do poder político, inclusive por quem foi eleito, permanece subordinado aos limites e procedimentos fixados pela Constituição — governar por decretos que extrapolam esses limites e ignorar decisões judiciais rompe justamente com esse princípio. As demais alternativas nomeiam outros princípios ou sistemas constitucionais reais, mas distintos do descrito.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-112",
+   "texto_apoio": "Entre suas diversas competências, um tribunal brasileiro tem a atribuição específica de julgar, em última instância, as questões que envolvem diretamente a interpretação da Constituição Federal.",
+   "enunciado": "Esse tribunal, conhecido como o guardião da Constituição, é:",
+   "alternativas": {
+    "a": "o Superior Tribunal de Justiça, responsável por uniformizar a interpretação da legislação federal infraconstitucional",
+    "b": "o Conselho Nacional de Justiça, responsável pelo controle administrativo e disciplinar do Poder Judiciário",
+    "c": "o Tribunal de Contas da União, responsável por fiscalizar a aplicação dos recursos públicos federais",
+    "d": "o Supremo Tribunal Federal, responsável por julgar, em última instância, as questões de interpretação constitucional",
+    "e": "o Tribunal Superior Eleitoral, responsável por julgar questões relacionadas ao processo eleitoral do país"
+   },
+   "resposta": "d",
+   "explicacao": "O Supremo Tribunal Federal é o guardião da Constituição, com a atribuição precípua de julgar, em última instância, as questões de interpretação constitucional — inclusive por meio do controle concentrado de constitucionalidade. Os demais órgãos listados exercem funções reais, mas distintas dessa atribuição específica.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-113",
+   "texto_apoio": "Ao lado das liberdades individuais, a Constituição brasileira prevê um conjunto de prestações que o Estado deve garantir à população, como saúde, educação, moradia, previdência e assistência social.",
+   "enunciado": "Esse conjunto de prestações, que exige atuação positiva do Estado para se realizar, é conhecido como:",
+   "alternativas": {
+    "a": "direitos de defesa clássicos, conquistados nas revoluções liberais dos séculos XVII e XVIII contra o poder do Estado",
+    "b": "direitos sociais, que exigem prestações positivas do Estado em áreas como saúde, educação, moradia e previdência",
+    "c": "garantias processuais, que asseguram o devido andamento de um processo judicial ou administrativo específico",
+    "d": "direitos de defesa, que protegem o indivíduo contra a interferência arbitrária do Estado em sua esfera privada",
+    "e": "prerrogativas de foro, que atribuem competência de julgamento especial a determinadas autoridades públicas"
+   },
+   "resposta": "b",
+   "explicacao": "Direitos sociais — saúde, educação, moradia, previdência, assistência social — exigem prestação positiva do Estado, diferente dos direitos de defesa clássicos (a), que só limitam a ação estatal sobre o indivíduo. As demais alternativas descrevem outras categorias jurídicas reais, sem relação com essa exigência de prestação positiva.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-114",
+   "texto_apoio": "Diante de uma ação judicial pedindo o fornecimento de um tratamento de saúde caro, o Estado alega não dispor de recursos suficientes para atender a todos os pedidos semelhantes, enquanto o autor da ação alega que sem o tratamento sua sobrevivência digna fica comprometida.",
+   "enunciado": "Esses dois argumentos, frequentes em disputas sobre efetivação de direitos sociais, representam, respectivamente, os conceitos de:",
+   "alternativas": {
+    "a": "seguridade social e assistência social, distinguidos pela fonte de financiamento constitucional usada para custear cada benefício",
+    "b": "renda básica e transferência de renda, distinguidos pela condicionalidade exigida para o recebimento do benefício",
+    "c": "política pública e programa social, distinguidos pela permanência no tempo e pela abrangência territorial de cada iniciativa proposta",
+    "d": "reserva do possível e mínimo existencial, distinguidos pelo limite orçamentário e pelo núcleo básico de direitos",
+    "e": "trabalho digno e trabalho análogo à escravidão, distinguidos pelas condições concretas em que o trabalho é exercido"
+   },
+   "resposta": "d",
+   "explicacao": "Reserva do possível é o argumento de que o Estado só pode garantir direitos sociais dentro do limite dos recursos disponíveis; mínimo existencial é o núcleo básico de condições para uma vida digna, que a jurisprudência entende não poder ser sacrificado mesmo diante da escassez orçamentária alegada. É justamente a tensão entre esses dois conceitos que move disputas como a descrita no texto.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-115",
+   "texto_apoio": "O sistema público de saúde brasileiro se organiza a partir de princípios como o acesso garantido a qualquer pessoa, sem exigência de contribuição prévia, e o atendimento que cobre desde a prevenção até procedimentos de alta complexidade.",
+   "enunciado": "Esses dois princípios do sistema público de saúde são conhecidos, respectivamente, como:",
+   "alternativas": {
+    "a": "universalidade e integralidade, que garantem acesso a qualquer pessoa e cobertura do cuidado do simples ao complexo",
+    "b": "regionalização e descentralização, que ajustam o atendimento à necessidade de cada região e distribuem a gestão entre entes federativos",
+    "c": "gratuidade e obrigatoriedade, que dispensam qualquer cobrança e tornam o atendimento compulsório para toda a população",
+    "d": "contributividade e seletividade, que condicionam o acesso ao pagamento prévio de contribuições específicas ao sistema",
+    "e": "regionalização e hierarquização, que organizam o atendimento por níveis crescentes de complexidade territorial"
+   },
+   "resposta": "a",
+   "explicacao": "Universalidade garante acesso ao sistema público de saúde a qualquer pessoa, sem exigência de contribuição prévia; integralidade garante cobertura desde a prevenção até procedimentos de alta complexidade, sem fragmentar o cuidado. Os demais pares listados nomeiam outros princípios reais do sistema, mas distintos dos dois descritos no texto. Como política pública, o SUS estrutura o direito à saúde previsto na Constituição.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-116",
+   "texto_apoio": "Um programa federal de transferência de renda concede benefício mensal a famílias em situação de pobreza, condicionando o recebimento à frequência escolar das crianças e ao cumprimento do calendário de vacinação.",
+   "enunciado": "Esse tipo de programa, que combina transferência de renda com exigências em educação e saúde, é conhecido como:",
+   "alternativas": {
+    "a": "renda básica universal, benefício concedido a toda a população, independentemente de renda ou de qualquer condicionalidade",
+    "b": "seguro-desemprego, benefício temporário concedido a trabalhadores formais dispensados sem justa causa pelo empregador",
+    "c": "programa de transferência de renda condicionada, que vincula o benefício ao cumprimento de exigências em educação e saúde",
+    "d": "aposentadoria por idade, benefício previdenciário concedido a partir de determinada idade mínima e tempo de contribuição",
+    "e": "auxílio-doença, benefício previdenciário concedido a trabalhador temporariamente incapaz de exercer sua atividade habitual"
+   },
+   "resposta": "c",
+   "explicacao": "Um programa de transferência de renda condicionada combina benefício financeiro com exigências em áreas como educação e saúde, buscando romper o ciclo de pobreza entre gerações. Renda básica universal (a) não impõe condicionalidade nem depende de renda; os demais benefícios listados são da esfera previdenciária, distintos desse tipo de programa social.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-117",
+   "texto_apoio": "Um trabalhador é encontrado numa propriedade rural em condições de jornada exaustiva, sem qualquer remuneração paga há meses, impedido de deixar o local por dívidas artificialmente criadas com o próprio empregador.",
+   "enunciado": "Essa situação, tipificada como crime pela legislação brasileira, configura:",
+   "alternativas": {
+    "a": "trabalho informal, situação em que o trabalhador exerce atividade remunerada sem registro formal em carteira de trabalho",
+    "b": "trabalho intermitente, modalidade de contratação em que o trabalhador presta serviço por períodos alternados e devidamente remunerados",
+    "c": "trabalho análogo ao de escravo, caracterizado por jornada exaustiva, dívida artificial e restrição à liberdade do trabalhador",
+    "d": "trabalho autônomo, modalidade em que o trabalhador presta serviço sem vínculo de subordinação a um empregador específico",
+    "e": "trabalho temporário, modalidade de contratação por prazo determinado para atender a uma demanda extraordinária da empresa"
+   },
+   "resposta": "c",
+   "explicacao": "Trabalho análogo ao de escravo é tipificado pela legislação brasileira quando há jornada exaustiva, servidão por dívida artificialmente criada, ou qualquer forma de restrição à liberdade do trabalhador de deixar o local. As demais alternativas descrevem modalidades lícitas de trabalho, sem essa restrição de liberdade.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-118",
+   "texto_apoio": "A legislação brasileira proíbe o trabalho infantil como regra geral, impedindo que menores de 16 anos exerçam qualquer atividade remunerada, permitindo só, a partir dos 14 anos, uma modalidade de contrato voltada à formação técnico-profissional metódica.",
+   "enunciado": "Essa modalidade específica de contrato, permitida a partir dos 14 anos como exceção à proibição geral, é conhecida como contrato de:",
+   "alternativas": {
+    "a": "experiência, modalidade de contrato por prazo determinado usada para avaliar a adaptação do trabalhador à função",
+    "b": "trabalho temporário, modalidade de contratação por prazo determinado para atender a uma demanda extraordinária específica da empresa",
+    "c": "estágio obrigatório, modalidade vinculada exclusivamente à conclusão de curso de ensino superior já em andamento",
+    "d": "aprendizagem, modalidade de contrato voltada à formação técnico-profissional metódica de adolescentes a partir dos 14 anos",
+    "e": "prestação de serviço autônomo, modalidade sem vínculo de subordinação entre o adolescente e a empresa contratante"
+   },
+   "resposta": "d",
+   "explicacao": "O contrato de aprendizagem é a exceção prevista em lei à proibição geral de trabalho a menores de 16 anos, permitido a partir dos 14 anos, voltado à formação técnico-profissional metódica compatível com o desenvolvimento do adolescente. As demais alternativas descrevem outras modalidades de contrato, sem essa idade mínima e essa finalidade formativa específicas.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-119",
+   "texto_apoio": "Um conjunto de normas trabalhistas brasileiras regula, entre outros pontos, a jornada máxima de trabalho, o pagamento de horas extras, o período de férias remuneradas e o aviso prévio em caso de dispensa do trabalhador.",
+   "enunciado": "Esse conjunto de normas trabalhistas, consolidado num único diploma legal desde 1943, é conhecido pela sigla:",
+   "alternativas": {
+    "a": "CLT, conjunto de normas trabalhistas que regula jornada, férias, aviso prévio e demais direitos do trabalhador brasileiro",
+    "b": "CTPS, documento de registro profissional que comprova o vínculo formal entre trabalhador e empregador",
+    "c": "FGTS, fundo de garantia formado por depósitos mensais do empregador em conta vinculada ao trabalhador contratado",
+    "d": "INSS, instituto responsável pela concessão de benefícios previdenciários diversos aos trabalhadores contribuintes do sistema oficial",
+    "e": "MTE, órgão do governo federal responsável pela fiscalização das relações de trabalho em todo o território nacional"
+   },
+   "resposta": "a",
+   "explicacao": "A CLT (Consolidação das Leis do Trabalho), de 1943, reúne num único diploma legal as principais normas trabalhistas brasileiras, incluindo jornada, férias e aviso prévio. As demais siglas nomeiam outros documentos, fundos e instituições reais da esfera trabalhista e previdenciária, mas distintos desse conjunto consolidado de normas.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-120",
+   "texto_apoio": "Trabalhadores de uma categoria se organizam coletivamente para negociar, junto aos empregadores, melhores condições salariais e de trabalho, podendo recorrer à paralisação coletiva das atividades caso a negociação não avance.",
+   "enunciado": "Esse direito de organização coletiva dos trabalhadores, garantido pela Constituição, é conhecido como liberdade:",
+   "alternativas": {
+    "a": "de expressão, que garante a qualquer pessoa manifestar livremente suas opiniões sobre qualquer assunto de interesse público",
+    "b": "sindical, que garante aos trabalhadores o direito de se organizar coletivamente para negociar condições de trabalho",
+    "c": "de reunião, que garante a qualquer grupo de pessoas se reunir pacificamente em local público ou privado",
+    "d": "de associação, que garante a qualquer pessoa se associar livremente a entidades de qualquer natureza ou finalidade",
+    "e": "de imprensa, que garante aos veículos de comunicação a publicação de informações sem censura prévia do Estado"
+   },
+   "resposta": "b",
+   "explicacao": "A liberdade sindical garante aos trabalhadores o direito de se organizar coletivamente em sindicatos para negociar condições de trabalho, incluindo o recurso à greve como instrumento de pressão. As demais alternativas nomeiam outras liberdades constitucionais reais, mas de alcance mais geral, sem essa finalidade específica de negociação trabalhista coletiva.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-121",
+   "texto_apoio": "Uma pesquisa nacional mede, por meio de perguntas sobre a rotina alimentar das famílias, desde situações de preocupação com a falta futura de comida até casos em que membros da família passam o dia inteiro sem comer por falta de recursos.",
+   "enunciado": "Essa escala de medição, que classifica os domicílios por grau de restrição alimentar, avalia o que é chamado de:",
+   "alternativas": {
+    "a": "desigualdade de renda, medida pela diferença entre os rendimentos das famílias mais ricas e das famílias mais pobres do país",
+    "b": "índice de desenvolvimento, medida que combina indicadores de renda, saúde e educação num único valor comparável",
+    "c": "exclusão social, medida pela falta de acesso das famílias a serviços públicos básicos de educação e saúde",
+    "d": "linha de pobreza, medida pelo valor monetário mínimo considerado necessário para a subsistência de uma família",
+    "e": "insegurança alimentar, medida pelo grau de restrição no acesso regular e permanente a alimentos em quantidade suficiente"
+   },
+   "resposta": "e",
+   "explicacao": "Insegurança alimentar é medida pelo grau de restrição no acesso regular e permanente a alimentos em quantidade suficiente, variando de leve (preocupação com a falta futura) a grave (restrição efetiva de quantidade, com fome). As demais alternativas nomeiam outros indicadores sociais reais, mas distintos dessa medida específica sobre acesso a alimentos.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-122",
+   "texto_apoio": "Um indicador estatístico varia entre 0 e 1: quanto mais próximo de 0, mais igualitária é a distribuição de renda entre a população; quanto mais próximo de 1, mais concentrada a renda está nas mãos de poucas pessoas.",
+   "enunciado": "Esse indicador, amplamente usado para medir a desigualdade de renda entre países ou regiões, é conhecido como:",
+   "alternativas": {
+    "a": "taxa de juros, indicador que mede o custo do crédito e a remuneração de aplicações financeiras num período",
+    "b": "produto interno bruto, indicador que mede o valor total de bens e serviços produzidos por um país num determinado período",
+    "c": "taxa de câmbio, indicador que mede o valor de uma moeda nacional em relação a outras moedas estrangeiras",
+    "d": "índice de Gini, indicador que varia entre 0 e 1 e mede o grau de concentração da renda entre a população",
+    "e": "balança comercial, indicador que mede a diferença entre o valor exportado e o valor importado por um país"
+   },
+   "resposta": "d",
+   "explicacao": "O índice de Gini varia entre 0 (distribuição perfeitamente igualitária) e 1 (concentração máxima de renda), sendo o indicador mais usado para comparar a desigualdade de renda entre países ou regiões ao longo do tempo. As demais alternativas nomeiam outros indicadores econômicos reais, mas que não medem especificamente a desigualdade de renda.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-123",
+   "texto_apoio": "A Constituição brasileira reúne, sob um mesmo conjunto de ações, a saúde, a previdência e a assistência social, com a lógica de proteger a população contra riscos como doença, velhice e desemprego, ainda que por fontes de financiamento distintas.",
+   "enunciado": "Esse conjunto integrado de saúde, previdência e assistência social é conhecido como:",
+   "alternativas": {
+    "a": "fundo de amparo ao trabalhador, fundo público que financia o pagamento do seguro-desemprego e de outros benefícios trabalhistas",
+    "b": "seguro social, contrato individual firmado entre o trabalhador e uma seguradora privada para cobertura de riscos específicos",
+    "c": "previdência complementar, modalidade facultativa de poupança para aposentadoria, gerida por entidades privadas específicas",
+    "d": "sistema único de assistência, rede exclusivamente municipal responsável pela oferta de serviços socioassistenciais locais",
+    "e": "seguridade social, conjunto integrado que reúne saúde, previdência e assistência social sob uma mesma lógica protetiva"
+   },
+   "resposta": "e",
+   "explicacao": "Seguridade social é o conjunto integrado de ações de saúde, previdência e assistência social previsto na Constituição, com a lógica de proteger a população contra riscos como doença, velhice e desemprego, ainda que cada área tenha fonte de financiamento e regras próprias. As demais alternativas nomeiam outros conceitos e instituições reais, mas distintos desse conjunto integrado.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-124",
+   "texto_apoio": "Um projeto de habitação popular constrói moradias para famílias de baixa renda em terrenos cedidos pelo poder público municipal, com financiamento subsidiado e parcelas ajustadas à renda de cada família beneficiada.",
+   "enunciado": "Esse tipo de iniciativa, voltada a garantir o acesso à moradia como direito social, é um exemplo de:",
+   "alternativas": {
+    "a": "especulação imobiliária, prática pela qual investidores retêm imóveis vazios à espera de valorização futura do terreno",
+    "b": "arrendamento privado, contrato firmado exclusivamente entre proprietário e locatário sem qualquer intermediação pública",
+    "c": "regularização fundiária espontânea, processo conduzido inteiramente pelos próprios moradores sem qualquer participação estatal",
+    "d": "gentrificação urbana, processo de valorização de uma área que expulsa gradualmente os moradores de renda mais baixa",
+    "e": "política pública habitacional, ação estatal voltada a garantir o acesso à moradia como direito social da população"
+   },
+   "resposta": "e",
+   "explicacao": "Uma política pública habitacional é uma ação estatal organizada para garantir o acesso à moradia como direito social, como no exemplo descrito de construção subsidiada de moradias populares. As demais alternativas descrevem outros fenômenos e práticas reais do mercado imobiliário, mas sem essa finalidade de política pública voltada à garantia de um direito social.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-125",
+   "texto_apoio": "Uma pessoa negra é reiteradamente preterida em processos seletivos de emprego, mesmo com qualificação equivalente à de outros candidatos, sem que exista uma única autoridade ou norma explícita determinando esse tratamento desigual.",
+   "enunciado": "Esse padrão de desvantagem, reproduzido por práticas e critérios aparentemente neutros nas instituições, sem depender da intenção declarada de um indivíduo específico, é chamado pela sociologia e pelo direito de:",
+   "alternativas": {
+    "a": "racismo estrutural, padrão de desvantagem reproduzido por práticas institucionais, independentemente da intenção de um indivíduo",
+    "b": "injúria racial, crime que consiste em ofender a honra de uma pessoa com o uso de elementos referentes à sua raça, cor ou etnia declarada",
+    "c": "xenofobia, aversão ou hostilidade dirigida a pessoas estrangeiras ou percebidas como de origem nacional diferente",
+    "d": "homofobia, aversão ou hostilidade dirigida a pessoas em razão de sua orientação sexual real ou percebida",
+    "e": "intolerância religiosa, discriminação dirigida a uma pessoa em razão de sua crença ou prática religiosa específica"
+   },
+   "resposta": "a",
+   "explicacao": "Racismo estrutural descreve um padrão de desvantagem que se reproduz por meio de práticas e critérios institucionais aparentemente neutros, sem depender da intenção declarada de um agente individual — diferente da injúria racial (b), que é um ato individual e pontual. As demais alternativas nomeiam outras formas de discriminação reais, mas distintas do fenômeno descrito no texto.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-126",
+   "texto_apoio": "A legislação brasileira distingue dois crimes relacionados à raça, ambos com impacto direto sobre a população negra do país: um deles atinge uma pessoa determinada e tem caráter mais pontual; o outro atinge uma coletividade e é tratado como imprescritível e inafiançável pela Constituição.",
+   "enunciado": "Esses dois crimes são conhecidos, respectivamente, como:",
+   "alternativas": {
+    "a": "calúnia e difamação, distinguidos pela imputação de um fato criminoso específico ou apenas ofensivo à reputação pessoal de outra pessoa",
+    "b": "injúria racial e racismo, distinguidos pelo alcance individual ou coletivo da ofensa e pelo tratamento penal atribuído a cada um",
+    "c": "discriminação direta e discriminação indireta, distinguidas pela intenção declarada de quem pratica o ato discriminatório",
+    "d": "preconceito e estigma, distinguidos pelo grau de exteriorização do julgamento negativo formado sobre outra pessoa",
+    "e": "xenofobia e homofobia, distinguidas pelo grupo social específico contra o qual a hostilidade é dirigida diretamente"
+   },
+   "resposta": "b",
+   "explicacao": "A injúria racial atinge uma pessoa determinada, ofendendo sua honra com referência a raça ou cor; o racismo atinge uma coletividade e é tratado pela Constituição como crime imprescritível e inafiançável. As demais alternativas nomeiam outros pares de conceitos jurídicos e sociais reais, mas distintos dessa distinção específica entre os dois crimes.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-127",
+   "texto_apoio": "Uma universidade pública reserva parte de suas vagas para candidatos autodeclarados negros, pardos ou indígenas, além de candidatos oriundos de escola pública, como forma de compensar desvantagens históricas de acesso ao ensino superior.",
+   "enunciado": "Essa política de reserva de vagas é um exemplo do que se costuma chamar de:",
+   "alternativas": {
+    "a": "livre concorrência, sistema em que os candidatos disputam as vagas disponíveis sob as mesmas regras, sem critério adicional específico",
+    "b": "meritocracia plena, sistema em que o acesso a vagas depende do desempenho individual medido por avaliação padronizada única",
+    "c": "ação afirmativa, política que reserva vagas ou benefícios a grupos historicamente desfavorecidos para compensar desvantagens acumuladas",
+    "d": "isonomia formal, princípio segundo o qual a lei deve tratar as pessoas de maneira idêntica, sem levar em conta diferenças concretas entre elas",
+    "e": "seleção por sorteio, sistema em que as vagas disponíveis são distribuídas aleatoriamente entre todos os candidatos inscritos"
+   },
+   "resposta": "c",
+   "explicacao": "Ação afirmativa é o termo para políticas que reservam vagas, cotas ou benefícios a grupos historicamente desfavorecidos, buscando compensar desvantagens acumuladas ao longo do tempo — a reserva de vagas por critério racial e de origem escolar descrita no texto é um exemplo típico. As demais alternativas descrevem outros sistemas de seleção reais, sem essa finalidade compensatória.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-128",
+   "texto_apoio": "Uma lei federal brasileira determinou que universidades públicas destinassem parte de suas vagas a estudantes de escola pública, com subcotas para autodeclarados negros, pardos e indígenas, proporcionais à composição da população de cada estado.",
+   "enunciado": "Essa lei, marco na política de acesso ao ensino superior público brasileiro, é conhecida como:",
+   "alternativas": {
+    "a": "Estatuto da Criança e do Adolescente, conjunto de normas voltadas à proteção integral de crianças e adolescentes no país",
+    "b": "Lei Maria da Penha, que cria mecanismos de proteção contra a violência doméstica e familiar dirigida à mulher",
+    "c": "Estatuto da Igualdade Racial, conjunto de normas voltadas a garantir a igualdade de oportunidades e o combate à discriminação racial",
+    "d": "Lei de Cotas, que reserva vagas em universidades públicas a estudantes de escola pública, com subcotas raciais",
+    "e": "Lei de Diretrizes e Bases, norma que estabelece as diretrizes gerais da educação nacional em todos os seus níveis"
+   },
+   "resposta": "d",
+   "explicacao": "A Lei de Cotas (Lei 12.711/2012) determinou a reserva de vagas em universidades federais a estudantes de escola pública, com subcotas raciais proporcionais à composição populacional de cada estado, marco da política de ações afirmativas no ensino superior brasileiro. As demais alternativas nomeiam outras normas reais, mas com objeto distinto.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-129",
+   "texto_apoio": "Duas pessoas em situações muito diferentes — uma com deficiência física, outra sem qualquer limitação — recebem exatamente o mesmo tipo de assento, sem qualquer adaptação, sob a justificativa de que a lei trata todos de forma idêntica.",
+   "enunciado": "Essa aplicação da lei, que ignora diferenças concretas de ponto de partida entre as pessoas, ilustra os limites do conceito de:",
+   "alternativas": {
+    "a": "justiça distributiva, critério de distribuição de bens e oportunidades que leva em conta a contribuição de cada pessoa ao grupo",
+    "b": "igualdade material, tratamento que reconhece diferenças concretas entre as pessoas e busca compensá-las de forma proporcional",
+    "c": "isonomia substantiva, princípio que exige tratamento diferenciado exatamente na medida das diferenças concretas entre os indivíduos",
+    "d": "equidade compensatória, distribuição de recursos e oportunidades proporcional à necessidade específica de cada pessoa envolvida",
+    "e": "igualdade formal, tratamento idêntico perante a lei que não leva em conta diferenças concretas de ponto de partida entre as pessoas"
+   },
+   "resposta": "e",
+   "explicacao": "Igualdade formal é o tratamento idêntico perante a lei, sem considerar diferenças concretas de ponto de partida — o exemplo do assento único ilustra seu limite, já contornado pelo conceito de igualdade material (b), que busca compensar essas diferenças de forma proporcional. As demais alternativas nomeiam conceitos próximos, mas distintos do descrito no texto.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-130",
+   "texto_apoio": "Uma lei federal brasileira criou mecanismos específicos de proteção para mulheres em situação de violência doméstica e familiar, incluindo medidas protetivas de urgência que podem afastar o agressor do lar antes mesmo da conclusão do processo judicial.",
+   "enunciado": "Essa lei, sancionada em 2006 e batizada em homenagem a uma sobrevivente de dupla tentativa de feminicídio, é conhecida como:",
+   "alternativas": {
+    "a": "Lei Maria da Penha, que cria mecanismos de proteção e medidas protetivas de urgência contra a violência doméstica dirigida à mulher",
+    "b": "Lei de Cotas, que reserva vagas em universidades públicas a estudantes de escola pública, com subcotas raciais proporcionais à população",
+    "c": "Estatuto da Igualdade Racial, conjunto de normas voltadas a garantir a igualdade de oportunidades e o combate à discriminação racial",
+    "d": "Estatuto do Idoso, conjunto de normas voltadas à proteção dos direitos das pessoas com 60 anos ou mais no país",
+    "e": "Lei do Feminicídio, que qualifica o homicídio praticado contra a mulher por razões da condição de sexo feminino"
+   },
+   "resposta": "a",
+   "explicacao": "A Lei Maria da Penha, sancionada em 2006, criou mecanismos específicos de proteção contra a violência doméstica e familiar dirigida à mulher, incluindo medidas protetivas de urgência — batizada em homenagem a Maria da Penha Maia Fernandes, sobrevivente de dupla tentativa de feminicídio pelo próprio marido.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-131",
+   "texto_apoio": "Uma alteração na legislação penal brasileira passou a qualificar o homicídio praticado contra a mulher quando motivado pela sua condição de sexo feminino, aumentando a pena prevista em razão dessa motivação específica.",
+   "enunciado": "Essa qualificadora, incluída no Código Penal em 2015, é conhecida como:",
+   "alternativas": {
+    "a": "infanticídio, tipo penal que trata da morte do próprio filho, praticada pela mãe sob a influência do estado puerperal",
+    "b": "feminicídio, qualificadora que aumenta a pena do homicídio quando praticado contra a mulher por razões da condição de sexo feminino",
+    "c": "latrocínio, tipo penal que trata da morte de uma pessoa como resultado de um roubo praticado pelo agente",
+    "d": "genocídio, tipo penal que trata da destruição, total ou parcial, de um grupo nacional, étnico, racial ou religioso, determinado por lei",
+    "e": "homicídio culposo, tipo penal que trata da morte causada por negligência, imprudência ou imperícia, sem intenção de matar"
+   },
+   "resposta": "b",
+   "explicacao": "Feminicídio é a qualificadora incluída no Código Penal em 2015 que aumenta a pena do homicídio quando praticado contra a mulher por razões da condição de sexo feminino, reconhecendo o caráter de gênero de boa parte da violência letal contra mulheres. As demais alternativas nomeiam outros tipos penais reais, distintos dessa qualificadora específica.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-132",
+   "texto_apoio": "Ao debater direitos de pessoas LGBT, é comum confundir dois conceitos distintos: um se refere a por quem a pessoa sente atração afetiva ou sexual; o outro se refere a como a pessoa se reconhece e se apresenta em termos de gênero, independentemente dessa atração.",
+   "enunciado": "Esses dois conceitos distintos são conhecidos, respectivamente, como:",
+   "alternativas": {
+    "a": "expressão de gênero e orientação afetiva, distinguidas pela apresentação externa da pessoa e pela atração que ela sente por outras",
+    "b": "sexo biológico e papel social, distinguidos pelas características físicas de nascimento e pelas expectativas atribuídas pela sociedade",
+    "c": "orientação sexual e identidade de gênero, distinguidas pela atração afetivo-sexual e pelo autorreconhecimento de gênero da pessoa",
+    "d": "cisgeneridade e transgeneridade, distinguidas pela coincidência ou não entre o gênero atribuído no nascimento e o gênero vivido",
+    "e": "heteronormatividade e diversidade sexual, distinguidas pela conformidade ou não com o padrão social predominante de relação afetiva"
+   },
+   "resposta": "c",
+   "explicacao": "Orientação sexual diz respeito a por quem a pessoa sente atração afetivo-sexual; identidade de gênero diz respeito a como a pessoa se reconhece e se apresenta em termos de gênero, independentemente dessa atração — dois eixos distintos e não determinados um pelo outro. As demais alternativas nomeiam pares de conceitos reais e próximos, mas diferentes do par especificamente descrito no texto.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-133",
+   "texto_apoio": "Um grupo étnico originário do território brasileiro reivindica, junto ao órgão federal competente, o reconhecimento formal de uma área de ocupação tradicional, processo que envolve estudos antropológicos e etapas administrativas específicas.",
+   "enunciado": "Esse processo de reconhecimento formal de terras tradicionalmente ocupadas por um grupo étnico originário é conhecido como:",
+   "alternativas": {
+    "a": "tombamento patrimonial, ato administrativo que reconhece e protege um bem de valor histórico, artístico ou cultural",
+    "b": "reforma agrária, política de redistribuição de terras improdutivas a famílias sem acesso à propriedade rural no território nacional",
+    "c": "regularização fundiária urbana, processo de reconhecimento formal da posse de imóveis em áreas urbanas já ocupadas",
+    "d": "demarcação de terras indígenas, processo formal de reconhecimento de áreas tradicionalmente ocupadas por povos indígenas",
+    "e": "concessão de uso, autorização temporária concedida pelo poder público para uso de um bem público por particular"
+   },
+   "resposta": "d",
+   "explicacao": "Demarcação de terras indígenas é o processo formal, conduzido pela FUNAI, de reconhecimento de áreas tradicionalmente ocupadas por povos indígenas, envolvendo estudos antropológicos e etapas administrativas específicas até a homologação. As demais alternativas nomeiam outros processos reais de reconhecimento de terra ou de bens, distintos desse voltado especificamente a povos indígenas.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-134",
+   "texto_apoio": "Comunidades descendentes de africanos escravizados que resistiram à escravidão, formando núcleos autônomos de vida e trabalho, hoje reivindicam o reconhecimento formal de suas terras tradicionalmente ocupadas junto a órgãos federais.",
+   "enunciado": "Essas comunidades, cujo território é reconhecido por um procedimento próprio distinto da demarcação indígena, são conhecidas como comunidades:",
+   "alternativas": {
+    "a": "assentadas, famílias beneficiadas por programas de reforma agrária que recebem lotes de terra para produção familiar",
+    "b": "ribeirinhas, comunidades tradicionais que vivem às margens de rios e dependem diretamente da pesca e do extrativismo praticado ao longo de gerações",
+    "c": "caiçaras, comunidades tradicionais litorâneas que combinam pesca artesanal e agricultura de subsistência em áreas costeiras",
+    "d": "extrativistas, comunidades tradicionais que vivem da coleta sustentável de recursos naturais dentro de reservas específicas",
+    "e": "quilombolas, descendentes de africanos escravizados organizados em núcleos autônomos, com procedimento próprio de reconhecimento territorial"
+   },
+   "resposta": "e",
+   "explicacao": "Comunidades quilombolas descendem de africanos escravizados que resistiram à escravidão formando núcleos autônomos, e têm hoje procedimento próprio de reconhecimento territorial, distinto da demarcação indígena, conduzido pelo INCRA. As demais alternativas nomeiam outras comunidades tradicionais brasileiras reais, com origem histórica e procedimento de reconhecimento distintos.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-135",
+   "texto_apoio": "Uma pessoa com mobilidade reduzida não consegue frequentar um determinado prédio público não por causa da sua condição física em si, mas porque o prédio não tem rampa de acesso nem elevador adaptado às suas necessidades.",
+   "enunciado": "A leitura que atribui essa limitação de acesso muito mais às barreiras do ambiente do que a uma característica intrínseca da pessoa está associada ao que se chama de:",
+   "alternativas": {
+    "a": "modelo social da deficiência, leitura que atribui a limitação de acesso muito mais às barreiras do ambiente do que a uma característica da pessoa",
+    "b": "modelo médico da deficiência, leitura que trata a deficiência como uma condição biológica individual a ser diagnosticada e tratada clinicamente pela medicina",
+    "c": "modelo caritativo da deficiência, leitura que trata a pessoa com deficiência como objeto de assistência e compaixão de terceiros",
+    "d": "modelo produtivista, leitura que avalia a pessoa com deficiência exclusivamente pela sua capacidade de gerar renda ao mercado",
+    "e": "modelo eugênico, leitura histórica que buscava eliminar ou corrigir características consideradas indesejáveis numa população"
+   },
+   "resposta": "a",
+   "explicacao": "O modelo social da deficiência desloca o foco da condição individual para as barreiras impostas pelo ambiente — no exemplo, a ausência de rampa e elevador, não a mobilidade reduzida em si, é o que limita o acesso. O modelo médico (b), por contraste, trata a deficiência como problema individual a ser corrigido. As demais alternativas nomeiam outras leituras históricas reais, hoje amplamente criticadas.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-136",
+   "texto_apoio": "Um grupo de trabalhadores estrangeiros, recém-chegados ao país em busca de melhores condições de vida, relata ter sido hostilizado repetidas vezes por vizinhos e colegas de trabalho apenas por sua origem nacional, sem qualquer relação com seu comportamento individual.",
+   "enunciado": "Essa forma de hostilidade dirigida a pessoas por sua origem nacional ou condição de estrangeiro é conhecida como:",
+   "alternativas": {
+    "a": "racismo, sistema de opressão baseado na hierarquização de grupos humanos a partir de características fenotípicas atribuídas à raça",
+    "b": "xenofobia, aversão ou hostilidade dirigida a pessoas estrangeiras ou percebidas como de origem nacional diferente",
+    "c": "homofobia, aversão ou hostilidade dirigida a pessoas em razão de sua orientação sexual real ou percebida",
+    "d": "intolerância religiosa, discriminação dirigida a uma pessoa em razão de sua crença ou prática religiosa específica",
+    "e": "etarismo, discriminação dirigida a uma pessoa em razão da sua idade, seja ela jovem ou de idade avançada"
+   },
+   "resposta": "b",
+   "explicacao": "Xenofobia é a hostilidade dirigida a pessoas por sua origem nacional ou condição de estrangeiro, sem relação necessária com raça, orientação sexual, religião ou idade — critérios que definem, respectivamente, as demais formas de discriminação listadas nas outras alternativas.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-137",
+   "texto_apoio": "Ao debater para que serve a privação de liberdade de uma pessoa condenada, juristas costumam apontar três funções distintas: punir o infrator pelo mal causado, desestimular novos crimes e preparar o condenado para retornar à convivência social sem reincidir.",
+   "enunciado": "Essas três funções atribuídas à pena são conhecidas, respectivamente, como:",
+   "alternativas": {
+    "a": "retribuição, prevenção e ressocialização, correspondendo ao castigo pelo crime, ao desestímulo a novos delitos e à reintegração social do condenado",
+    "b": "tipicidade, antijuridicidade e culpabilidade, correspondendo aos três elementos que compõem a definição técnica de um crime",
+    "c": "dolo, culpa e preterdolo, correspondendo às diferentes formas de intenção do agente na prática de um crime específico",
+    "d": "flagrante, indiciamento e denúncia, correspondendo às etapas sucessivas de uma investigação criminal conduzida pela polícia",
+    "e": "prisão, liberdade condicional e livramento condicional, correspondendo aos diferentes regimes de cumprimento de uma mesma pena privativa de liberdade"
+   },
+   "resposta": "a",
+   "explicacao": "As três funções clássicas atribuídas à pena são a retribuição (castigo proporcional ao crime), a prevenção (desestímulo a novos delitos, tanto do próprio condenado quanto de terceiros) e a ressocialização (preparação para o retorno à convivência social). As demais alternativas nomeiam outros conjuntos de conceitos jurídicos reais, mas distintos dessas três funções da pena.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-138",
+   "texto_apoio": "O Brasil mantém, há anos, um número de pessoas presas superior ao número de vagas disponíveis nas unidades prisionais do país, resultando em celas com ocupação muito acima da capacidade projetada e condições degradantes de higiene e convivência.",
+   "enunciado": "Essa situação, marcada pelo número de presos muito acima da capacidade das unidades, é conhecida como:",
+   "alternativas": {
+    "a": "regime disciplinar diferenciado, regime de cumprimento de pena mais rigoroso aplicado a presos considerados de alta periculosidade",
+    "b": "superlotação carcerária, situação em que o número de pessoas presas excede a capacidade projetada das unidades prisionais",
+    "c": "progressão de regime, transferência de um preso de um regime mais rigoroso para um regime mais brando de cumprimento de pena",
+    "d": "monitoramento eletrônico, alternativa à prisão que usa dispositivos para acompanhar a localização de uma pessoa condenada",
+    "e": "prisão preventiva, modalidade de prisão decretada antes do julgamento definitivo de um processo criminal em curso"
+   },
+   "resposta": "b",
+   "explicacao": "Superlotação carcerária descreve a situação em que o número de pessoas presas excede significativamente a capacidade projetada das unidades prisionais, resultando em condições degradantes de higiene e convivência — um dos principais problemas estruturais do sistema prisional brasileiro. As demais alternativas nomeiam outros institutos reais do sistema penal, mas distintos dessa situação específica.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-139",
+   "texto_apoio": "Quando um menor de 18 anos comete um ato que, se praticado por um adulto, seria classificado como crime, a legislação brasileira usa uma terminologia própria e prevê medidas educativas específicas, em vez das penas aplicadas a adultos.",
+   "enunciado": "Esse ato, e a legislação que rege a resposta institucional a ele, são conhecidos, respectivamente, como:",
+   "alternativas": {
+    "a": "crime doloso, conduta criminosa praticada com intenção direta de causar o resultado previsto no tipo penal correspondente",
+    "b": "contravenção penal, infração de menor gravidade prevista em lei específica própria, aplicável a uma pessoa independentemente da idade que ela tenha",
+    "c": "ato infracional, conduta análoga a um crime praticada por menor de 18 anos, regida por medidas educativas específicas previstas em lei própria",
+    "d": "infração administrativa, violação de norma administrativa sujeita a sanção aplicada por órgão da própria administração pública",
+    "e": "ilícito civil, conduta que gera dever de reparação de dano no âmbito do direito civil, sem qualquer natureza penal envolvida"
+   },
+   "resposta": "c",
+   "explicacao": "Ato infracional é o termo usado pelo Estatuto da Criança e do Adolescente para a conduta análoga a um crime praticada por menor de 18 anos, respondida por medidas socioeducativas específicas, não pelas penas do sistema criminal comum aplicado a adultos.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-140",
+   "texto_apoio": "Em vez de concentrar o processo só na punição do infrator, um modelo alternativo de resolução de conflitos reúne infrator, vítima e comunidade num espaço de diálogo, buscando reparar o dano causado e restaurar as relações afetadas pelo ato.",
+   "enunciado": "Esse modelo alternativo de resolução de conflitos penais, centrado na reparação e no diálogo entre as partes, é conhecido como:",
+   "alternativas": {
+    "a": "arbitragem privada, método de resolução de conflitos civis ou comerciais conduzido por um terceiro escolhido pelas partes envolvidas",
+    "b": "justiça retributiva, modelo tradicional centrado na aplicação proporcional de uma sanção penal ao infrator pelo crime cometido",
+    "c": "justiça de transição, conjunto de mecanismos voltados a lidar com violações de direitos cometidas durante um regime autoritário",
+    "d": "justiça restaurativa, modelo que reúne infrator, vítima e comunidade num espaço de diálogo voltado à reparação do dano causado",
+    "e": "conciliação extrajudicial, método de resolução de conflitos civis conduzido fora do processo judicial por um conciliador habilitado"
+   },
+   "resposta": "d",
+   "explicacao": "Justiça restaurativa é o modelo que desloca o foco da punição para a reparação, reunindo infrator, vítima e comunidade num espaço de diálogo estruturado. Justiça retributiva (b) é o modelo tradicional centrado na sanção proporcional; as demais alternativas nomeiam outros mecanismos reais de resolução de conflitos, distintos desse modelo restaurativo específico.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-141",
+   "texto_apoio": "Levantamentos anuais registram, no Brasil, um número elevado de mortes decorrentes de intervenções policiais, concentradas sobretudo entre jovens negros de regiões periféricas das grandes cidades.",
+   "enunciado": "Esse indicador, que mede o número de mortes causadas por ações das forças de segurança, é conhecido como:",
+   "alternativas": {
+    "a": "taxa de reincidência, indicador que mede a proporção de pessoas condenadas que voltam a cometer crimes após cumprir pena",
+    "b": "índice de criminalidade, indicador que mede o número total de crimes registrados numa determinada região e período",
+    "c": "taxa de encarceramento, indicador que mede a proporção de pessoas presas em relação à população total de uma região",
+    "d": "índice de impunidade, indicador que mede a proporção de crimes registrados que não resultam em condenação judicial",
+    "e": "letalidade policial, indicador que mede o número de mortes decorrentes de ações das forças de segurança pública"
+   },
+   "resposta": "e",
+   "explicacao": "Letalidade policial é o indicador que mede o número de mortes decorrentes de ações das forças de segurança pública, tema central do debate sobre segurança pública e direitos humanos no Brasil, dado o padrão de concentração entre jovens negros de regiões periféricas. As demais alternativas nomeiam outros indicadores reais de segurança pública e justiça, distintos desse específico.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-142",
+   "texto_apoio": "Uma lei brasileira criminaliza a prática de constranger alguém, mediante violência ou grave ameaça, causando-lhe sofrimento físico ou mental, com o fim de obter informação, aplicar castigo pessoal ou em razão de discriminação racial ou religiosa.",
+   "enunciado": "Essa prática, tipificada como crime por lei específica de 1997 e proibida de forma absoluta por tratados internacionais, é conhecida como:",
+   "alternativas": {
+    "a": "tortura, prática de constranger alguém, mediante violência ou grave ameaça, causando sofrimento físico ou mental para determinado fim",
+    "b": "abuso de autoridade, prática de excesso cometido por agente público no exercício de sua função, sem finalidade legítima correspondente",
+    "c": "violência institucional, prática de dano causado a alguém pela própria estrutura ou funcionamento de uma instituição pública",
+    "d": "constrangimento ilegal, prática de forçar alguém a fazer ou deixar de fazer algo que a lei não obriga, sem violência física envolvida",
+    "e": "sequestro qualificado, prática de privação da liberdade de alguém, mediante violência ou ameaça, por período superior a 24 horas"
+   },
+   "resposta": "a",
+   "explicacao": "Tortura é a prática tipificada pela Lei 9.455/1997, que constrange alguém, mediante violência ou grave ameaça, causando sofrimento físico ou mental para obter informação, aplicar castigo ou por discriminação — proibida de forma absoluta por tratados internacionais de direitos, sem exceção sequer em contextos de guerra, e integra o sistema penal brasileiro desde sua tipificação em 1997. As demais alternativas nomeiam outros crimes reais, distintos dessa prática específica.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-143",
+   "texto_apoio": "Uma lei brasileira de 2019 tipificou como crime condutas específicas de agentes públicos que, no exercício de suas funções, extrapolam os limites da atuação legítima ao decretar prisões desnecessárias, divulgar imagens de investigados antes do julgamento ou manter alguém preso além do prazo legal.",
+   "enunciado": "Essa lei, que busca coibir excessos cometidos por agentes públicos no exercício da função, é conhecida como Lei de:",
+   "alternativas": {
+    "a": "Improbidade Administrativa, que trata de atos de agentes públicos que causam prejuízo ao erário público ou violam princípios da administração pública",
+    "b": "Abuso de Autoridade, que tipifica excessos cometidos por agentes públicos no exercício da função, como prisões desnecessárias e vazamentos indevidos",
+    "c": "Anistia, que perdoa determinados crimes cometidos num período específico, extinguindo a punibilidade dos responsáveis por esses atos",
+    "d": "Execução Penal, que regula as regras de cumprimento das penas privativas de liberdade aplicadas por decisão judicial já transitada em julgado",
+    "e": "Acesso à Informação, que regula o direito de qualquer pessoa de solicitar e obter informações produzidas ou custodiadas por órgãos públicos"
+   },
+   "resposta": "b",
+   "explicacao": "A Lei de Abuso de Autoridade (Lei 13.869/2019) tipifica excessos cometidos por agentes públicos no exercício da função, como prisões desnecessárias, vazamentos indevidos de informação e manutenção de alguém preso além do prazo legal. As demais alternativas nomeiam outras leis reais, com objeto distinto dessa lei específica sobre excessos de agentes públicos.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-144",
+   "texto_apoio": "Uma pessoa de baixa renda, que sofreu uma violação de direitos por parte de um vizinho, desiste de buscar reparação porque não tem recursos para pagar um advogado, desconhece seus direitos e mora longe de qualquer fórum ou posto de atendimento jurídico gratuito.",
+   "enunciado": "Esse conjunto de barreiras enfrentadas por uma pessoa para buscar reparação judicial ilustra os limites do que se chama de:",
+   "alternativas": {
+    "a": "duplo grau de jurisdição, garantia de que uma decisão judicial possa ser revista por uma instância superior mediante recurso",
+    "b": "devido processo legal, garantia de que o processo judicial seja conduzido conforme as regras e princípios estabelecidos previamente em lei",
+    "c": "acesso à justiça, capacidade efetiva de buscar reparação judicial, obstruída aqui por barreiras econômicas, informacionais e geográficas",
+    "d": "coisa julgada, qualidade que uma decisão judicial adquire quando não cabe mais nenhum recurso contra ela dentro do processo",
+    "e": "ampla defesa, garantia de que o acusado num processo possa se manifestar e produzir provas antes de uma decisão final"
+   },
+   "resposta": "c",
+   "explicacao": "Acesso à justiça é a capacidade efetiva de uma pessoa buscar reparação judicial, obstruída no exemplo por barreiras econômicas (custo de advogado), informacionais (desconhecimento dos próprios direitos) e geográficas (distância de um fórum). As demais alternativas nomeiam outras garantias processuais reais, mas distintas desse conceito mais amplo de acesso efetivo à justiça, que a Defensoria Pública busca justamente viabilizar dentro do sistema de justiça brasileiro.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-145",
+   "texto_apoio": "Uma instituição pública, mantida com recursos do Estado, presta assistência jurídica gratuita a pessoas que não têm condições financeiras de pagar um advogado particular, atuando tanto em processos civis quanto criminais.",
+   "enunciado": "Essa instituição, com previsão constitucional específica e atuação em todo o território nacional, é conhecida como:",
+   "alternativas": {
+    "a": "Advocacia-Geral da União, instituição responsável por representar judicialmente os interesses da União perante o Judiciário",
+    "b": "Ministério Público, instituição responsável por fiscalizar o cumprimento da lei e promover a ação penal em nome da coletividade e da sociedade brasileira",
+    "c": "Ordem dos Advogados, entidade de classe responsável por regular o exercício da advocacia e representar os interesses da categoria",
+    "d": "Defensoria Pública, instituição que presta assistência jurídica gratuita a pessoas sem condições financeiras de pagar advogado particular",
+    "e": "Tribunal de Contas, instituição responsável por fiscalizar a aplicação dos recursos públicos pelos órgãos da administração pública"
+   },
+   "resposta": "d",
+   "explicacao": "A Defensoria Pública é a instituição com previsão constitucional específica dedicada a prestar assistência jurídica gratuita a quem não tem condições de pagar advogado particular, atuando tanto em processos civis quanto criminais. As demais alternativas nomeiam outras instituições reais, com atribuições distintas dessa assistência jurídica gratuita.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-146",
+   "texto_apoio": "Numa audiência criminal, um representante do Estado atua de forma independente tanto da defesa quanto do juiz, com a função constitucional de fiscalizar o cumprimento da lei e promover a ação penal em nome da sociedade, ainda que isso signifique, em certos casos, pedir a absolvição do próprio acusado.",
+   "enunciado": "Essa instituição, com autonomia funcional garantida pela Constituição, é conhecida como:",
+   "alternativas": {
+    "a": "Corregedoria Geral, órgão interno responsável por apurar e julgar faltas disciplinares cometidas por membros de uma instituição",
+    "b": "Defensoria Pública, instituição responsável por prestar assistência jurídica gratuita a pessoas sem condições financeiras de pagar um advogado próprio",
+    "c": "Polícia Judiciária, instituição responsável por conduzir a investigação criminal antes do início formal do processo judicial",
+    "d": "Ordem dos Advogados, entidade de classe responsável por regular o exercício da advocacia e representar os interesses da categoria",
+    "e": "Ministério Público, instituição com autonomia funcional responsável por fiscalizar o cumprimento da lei e promover a ação penal em nome da sociedade"
+   },
+   "resposta": "e",
+   "explicacao": "O Ministério Público tem autonomia funcional garantida pela Constituição e atua de forma independente tanto da defesa quanto do juiz, fiscalizando o cumprimento da lei e promovendo a ação penal em nome da sociedade — podendo, inclusive, pedir a absolvição do acusado quando entender que as provas não sustentam a condenação. As demais alternativas nomeiam outras instituições reais do sistema de justiça, com atribuições distintas.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-147",
+   "texto_apoio": "Um jornal publica uma reportagem crítica a uma autoridade pública, sem que nenhum órgão do governo tenha exigido, previamente, aprovar ou vetar o conteúdo antes da publicação.",
+   "enunciado": "A ausência de qualquer exigência de aprovação prévia do governo antes da publicação de conteúdo jornalístico é garantida pela liberdade de:",
+   "alternativas": {
+    "a": "imprensa, garantia constitucional de que o Estado não pode exigir aprovação prévia de conteúdo jornalístico antes de sua publicação",
+    "b": "reunião, garantia constitucional de que pessoas possam se reunir pacificamente em locais públicos sem armas e sem autorização prévia",
+    "c": "associação, garantia constitucional de que pessoas possam se associar livremente para fins lícitos, sem necessidade de autorização estatal",
+    "d": "consciência, garantia constitucional de que ninguém pode ser obrigado a agir contra suas convicções filosóficas, religiosas ou morais",
+    "e": "iniciativa privada, garantia constitucional de que qualquer pessoa possa exercer atividade econômica lícita sem autorização prévia do Estado"
+   },
+   "resposta": "a",
+   "explicacao": "A liberdade de imprensa garante que o Estado não pode exigir aprovação prévia de conteúdo jornalístico antes de sua publicação — a chamada vedação à censura prévia, um dos pilares da liberdade de expressão em regimes democráticos. As demais alternativas nomeiam outras liberdades constitucionais reais, mas de alcance diferente dessa proteção específica ao conteúdo jornalístico.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-148",
+   "texto_apoio": "Um grupo de pessoas se organiza para ocupar uma praça pública e expressar coletivamente sua insatisfação com uma decisão do governo, sem portar armas e sem que a manifestação frustre outra reunião já convocada para o mesmo local e horário.",
+   "enunciado": "Essa forma de expressão coletiva em local público, sem necessidade de autorização prévia do Estado, é protegida pela liberdade de:",
+   "alternativas": {
+    "a": "imprensa, garantia constitucional de que o Estado não pode exigir aprovação prévia de conteúdo jornalístico antes de sua publicação",
+    "b": "reunião, garantia constitucional de que pessoas possam se reunir pacificamente e sem armas em locais públicos, sem autorização prévia do Estado",
+    "c": "associação, garantia constitucional de que pessoas possam se associar livremente para fins lícitos, sem necessidade de autorização estatal",
+    "d": "iniciativa privada, garantia constitucional de que uma pessoa possa exercer atividade econômica lícita sem autorização prévia do próprio Estado brasileiro",
+    "e": "locomoção, garantia constitucional de que uma pessoa possa entrar, permanecer e sair livremente do território nacional em tempos de paz duradoura"
+   },
+   "resposta": "b",
+   "explicacao": "A liberdade de reunião garante que pessoas possam se reunir pacificamente e sem armas em locais públicos, sem necessidade de autorização prévia do Estado, desde que a reunião não frustre outra já convocada anteriormente para o mesmo local e horário. As demais alternativas nomeiam outras liberdades constitucionais reais, de alcance distinto dessa proteção específica à manifestação coletiva em local público.",
+   "formato": "direta",
+   "origem": "direito"
   }
  ]
 }

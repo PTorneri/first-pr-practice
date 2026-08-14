@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-13",
+ "gerado": "2026-08-14",
  "frente": "fisica",
- "total": 379,
+ "total": 391,
  "residuo": [
   "med-fisica-92",
   "med-fisica-136",
@@ -2129,6 +2129,78 @@
    "frenteDestino": "fisica",
    "pontos": 5,
    "margem": 5
+  },
+  "med-fisica-355": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-356": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-357": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 7,
+   "margem": 4
+  },
+  "med-fisica-358": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "med-fisica-359": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "med-fisica-360": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-fisica-361": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-362": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-363": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 3
+  },
+  "med-fisica-364": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "med-fisica-365": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-fisica-366": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
   },
   "eng-fismoderna-01": {
    "subtema": "fisica-mecanica",

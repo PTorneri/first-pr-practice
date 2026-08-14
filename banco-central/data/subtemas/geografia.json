@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-13",
+ "gerado": "2026-08-14",
  "frente": "geografia",
- "total": 402,
+ "total": 414,
  "residuo": [
   "dir-geografia-28",
   "dir-geografia-32",
@@ -2416,6 +2416,78 @@
    "frenteDestino": "geografia",
    "pontos": 5,
    "margem": 5
+  },
+  "med-geografia-401": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-402": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-403": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-geografia-404": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-405": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-406": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-geografia-407": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-408": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-409": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-410": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-geografia-411": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-geografia-412": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 10
   }
  }
 }

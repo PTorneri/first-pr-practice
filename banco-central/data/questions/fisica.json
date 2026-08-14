@@ -5579,6 +5579,198 @@
    "origem": "medicina"
   },
   {
+   "id": "med-fisica-355",
+   "texto_apoio": "Um carrinho de 4 kg se desloca a 5 metros por segundo em uma pista horizontal.",
+   "enunciado": "A energia cinética desse carrinho vale:",
+   "alternativas": {
+    "a": "10 J",
+    "b": "20 J",
+    "c": "50 J",
+    "d": "100 J",
+    "e": "200 J"
+   },
+   "resposta": "c",
+   "explicacao": "A energia cinética é dada por Ec = (m × v²) ÷ 2 = (4 × 5²) ÷ 2 = (4 × 25) ÷ 2 = 50 J. Esquecer de elevar a rapidez ao quadrado leva a 10 J; esquecer de dividir por dois leva a 100 J.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-fisica-356",
+   "texto_apoio": "Um objeto de 2 kg está a 10 m de altura em relação ao solo, numa gravidade de intensidade 10 N/kg.",
+   "enunciado": "A energia potencial gravitacional desse objeto, em relação ao solo, vale:",
+   "alternativas": {
+    "a": "200 J",
+    "b": "100 J",
+    "c": "2.000 J",
+    "d": "20 J",
+    "e": "10 J"
+   },
+   "resposta": "a",
+   "explicacao": "A energia potencial gravitacional é dada por Ep = m × g × h = 2 × 10 × 10 = 200 J. Multiplicar apenas dois dos três valores, ou trocar a ordem de grandeza, leva às demais opções oferecidas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-fisica-357",
+   "texto_apoio": "Uma bola de 0,5 kg é solta do repouso de uma altura de 8 m acima do solo, numa gravidade de intensidade 10 N/kg. A resistência do ar é desprezível ao longo de toda a queda.",
+   "enunciado": "No instante em que a bola atinge o solo, sua energia cinética vale:",
+   "alternativas": {
+    "a": "4 J",
+    "b": "8 J",
+    "c": "40 J",
+    "d": "80 J",
+    "e": "400 J"
+   },
+   "resposta": "c",
+   "explicacao": "Pela conservação da energia mecânica, toda a energia potencial inicial se converte em energia cinética ao atingir o solo: Ec = Ep = m × g × h = 0,5 × 10 × 8 = 40 J. Erros de uma casa decimal na multiplicação levam às demais opções.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-fisica-358",
+   "texto_apoio": "Uma pessoa empurra uma caixa por 6 m em linha reta, aplicando sobre ela uma força constante de 20 N na mesma direção do deslocamento.",
+   "enunciado": "O trabalho realizado por essa força sobre a caixa vale:",
+   "alternativas": {
+    "a": "3,3 J",
+    "b": "26 J",
+    "c": "14 J",
+    "d": "1.200 J",
+    "e": "120 J"
+   },
+   "resposta": "e",
+   "explicacao": "Quando a força tem a mesma direção do deslocamento, o trabalho é dado por W = F × d = 20 × 6 = 120 J. Adicionar em vez de multiplicar os valores leva a 26 J; um erro de posição decimal leva a 1.200 J.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-fisica-359",
+   "texto_apoio": "Um motor realiza um trabalho de 3.000 J sobre uma carga em um intervalo de 15 segundos.",
+   "enunciado": "A potência mecânica desenvolvida por esse motor, nesse intervalo, vale:",
+   "alternativas": {
+    "a": "45.000 W",
+    "b": "200 W",
+    "c": "20 W",
+    "d": "2.985 W",
+    "e": "3.015 W"
+   },
+   "resposta": "b",
+   "explicacao": "A potência mecânica é a razão entre o trabalho realizado e o intervalo de tempo: P = W ÷ t = 3.000 ÷ 15 = 200 W. Multiplicar em vez de dividir leva a 45.000 W; um erro de posição decimal leva a 20 W.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-fisica-360",
+   "texto_apoio": "Uma máquina recebe uma potência total de 500 W, mas apenas 350 W são efetivamente convertidos em trabalho útil; o restante se dissipa em forma de calor.",
+   "enunciado": "O rendimento dessa máquina vale:",
+   "alternativas": {
+    "a": "30%",
+    "b": "35%",
+    "c": "50%",
+    "d": "150%",
+    "e": "70%"
+   },
+   "resposta": "e",
+   "explicacao": "O rendimento é a razão entre a potência útil e a potência total recebida: η = (350 ÷ 500) × 100 = 70%. Inverter a razão entre potência dissipada e potência total leva a 30%.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-fisica-361",
+   "texto_apoio": "Um patinador de 60 kg se desloca a 4 metros por segundo sobre uma pista de gelo horizontal.",
+   "enunciado": "A quantidade de movimento desse patinador, nesse instante, vale:",
+   "alternativas": {
+    "a": "15 quilograma-metro por segundo",
+    "b": "64 quilograma-metro por segundo",
+    "c": "120 quilograma-metro por segundo",
+    "d": "240 quilograma-metro por segundo",
+    "e": "480 quilograma-metro por segundo"
+   },
+   "resposta": "d",
+   "explicacao": "A quantidade de movimento é dada por p = m × v = 60 × 4 = 240 quilograma-metro por segundo. Adicionar em vez de multiplicar os valores leva a 64 quilograma-metro por segundo; um erro no fator de multiplicação leva às demais opções.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-fisica-362",
+   "texto_apoio": "Uma bola de 0,2 kg se move a 6 metros por segundo em direção a uma parede. Após colidir com a parede, ela retorna com rapidez de 4 metros por segundo, no sentido oposto.",
+   "enunciado": "O módulo do impulso exercido pela parede sobre a bola durante a colisão vale:",
+   "alternativas": {
+    "a": "0,4 quilograma-metro por segundo",
+    "b": "0,8 quilograma-metro por segundo",
+    "c": "1,2 quilograma-metro por segundo",
+    "d": "2,0 quilograma-metro por segundo",
+    "e": "10 quilograma-metro por segundo"
+   },
+   "resposta": "d",
+   "explicacao": "O impulso equivale à variação da quantidade de movimento. Tomando o sentido inicial como positivo: I = m × (v_final − v_inicial) = 0,2 × (−4 − 6) = 0,2 × (−10) = −2,0 quilograma-metro por segundo, cujo módulo é 2,0 quilograma-metro por segundo — a inversão de sentido faz as rapidezes se adicionarem, não se subtraírem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-fisica-363",
+   "texto_apoio": "Duas esferas idênticas de 1 kg cada se movem uma em direção à outra sobre uma superfície sem atrito: a primeira a 5 metros por segundo, a segunda a 3 metros por segundo em sentido oposto. Após a colisão, que é perfeitamente elástica, cada esfera inverte o sentido do movimento.",
+   "enunciado": "Sobre as rapidezes das esferas logo após essa colisão perfeitamente elástica entre corpos de massas iguais, é correto afirmar que elas:",
+   "alternativas": {
+    "a": "trocam de valor entre si, cada esfera passando a se mover com a rapidez que a outra tinha antes da colisão",
+    "b": "se igualam, ambas passando a se mover com a média aritmética das duas rapidezes que tinham antes da colisão descrita",
+    "c": "se anulam, ambas esferas permanecendo em repouso completo logo após o instante da colisão descrita",
+    "d": "dobram de valor, cada esfera passando a se mover com o dobro da rapidez que tinha antes da colisão",
+    "e": "permanecem inalteradas, cada esfera mantendo exatamente a mesma rapidez que tinha antes da colisão"
+   },
+   "resposta": "a",
+   "explicacao": "Numa colisão perfeitamente elástica entre corpos de massas iguais, as rapidezes se trocam entre os dois corpos: a esfera que se movia a 5 metros por segundo passa a se mover a 3 metros por segundo, e vice-versa, conservando ao mesmo tempo a quantidade de movimento total e a energia cinética total do sistema.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-fisica-364",
+   "texto_apoio": "Um vagão de 8 kg se move a 3 metros por segundo e colide com outro vagão de 4 kg, inicialmente em repouso. Após a colisão, os dois vagões permanecem grudados, movendo-se juntos com a mesma rapidez.",
+   "enunciado": "A rapidez conjunta dos dois vagões logo após essa colisão perfeitamente inelástica vale:",
+   "alternativas": {
+    "a": "1 metro por segundo",
+    "b": "2 metros por segundo",
+    "c": "3 metros por segundo",
+    "d": "4 metros por segundo",
+    "e": "6 metros por segundo"
+   },
+   "resposta": "b",
+   "explicacao": "Numa colisão perfeitamente inelástica, a quantidade de movimento total se conserva: m₁v₁ = (m₁ + m₂) × v_final. Logo, 8 × 3 = (8 + 4) × v_final, o que dá v_final = 24 ÷ 12 = 2 metros por segundo. Usar apenas a massa do vagão que colide, sem adicionar as duas massas, leva a 6 metros por segundo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-fisica-365",
+   "texto_apoio": "Uma mola ideal tem constante elástica de 200 N/m. Ao ser comprimida, ela exerce sobre um bloco uma força de 50 N.",
+   "enunciado": "A deformação sofrida pela mola nessa situação vale:",
+   "alternativas": {
+    "a": "0,25 cm",
+    "b": "2,5 cm",
+    "c": "4 cm",
+    "d": "25 cm",
+    "e": "40 cm"
+   },
+   "resposta": "d",
+   "explicacao": "Pela lei de Hooke, F = k × x, logo x = F ÷ k = 50 ÷ 200 = 0,25 m, que convertidos dão 25 cm. Um erro de posição decimal na conversão de metros para centímetros leva às demais opções.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-fisica-366",
+   "texto_apoio": "Uma mola ideal de constante elástica 400 N/m é comprimida em 0,1 m a partir de sua posição de equilíbrio.",
+   "enunciado": "A energia potencial elástica armazenada nessa mola comprimida vale:",
+   "alternativas": {
+    "a": "0,2 J",
+    "b": "40 J",
+    "c": "4 J",
+    "d": "20 J",
+    "e": "2 J"
+   },
+   "resposta": "e",
+   "explicacao": "A energia potencial elástica é dada por Eel = (k × x²) ÷ 2 = (400 × 0,1²) ÷ 2 = (400 × 0,01) ÷ 2 = 4 ÷ 2 = 2 J. Esquecer de elevar a deformação ao quadrado leva a 20 J; esquecer de dividir por dois leva a 4 J.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
    "id": "eng-fismoderna-01",
    "enunciado": "Uma nave se move com velocidade v = 0,6c em relação à Terra. Um relógio a bordo da nave marca um intervalo de tempo de 10 s entre dois eventos que ocorrem no mesmo ponto da nave. O intervalo de tempo medido por um observador na Terra, para os mesmos dois eventos, é de:",
    "alternativas": {

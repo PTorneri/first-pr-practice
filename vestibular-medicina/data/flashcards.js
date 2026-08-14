@@ -6468,5 +6468,1032 @@ window.FLASHCARDS = {
    "frente": "Como calcular o valor de P(x) num ponto usando os coeficientes de Briot-Ruffini?",
    "verso": "O último número gerado no dispositivo, ao dividir por (x−a), é exatamente P(a)."
   }
+ ],
+ "geografia-populacao-urbana": [
+  {
+   "id": "flash-geografia-populacao-urbana-01",
+   "frente": "O que é a transição demográfica?",
+   "verso": "A passagem de altas taxas de natalidade e mortalidade para taxas baixas de ambas, com forte crescimento populacional na fase intermediária."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-02",
+   "frente": "Em que fase da transição demográfica o Brasil se encontra?",
+   "verso": "Numa fase avançada: natalidade e mortalidade já baixas, com crescimento populacional desacelerando e população envelhecendo."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-03",
+   "frente": "O que é taxa de fecundidade?",
+   "verso": "O número médio de filhos por mulher em idade fértil."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-04",
+   "frente": "O que é a taxa de reposição populacional?",
+   "verso": "Cerca de 2,1 filhos por mulher — abaixo disso, a população tende a diminuir a longo prazo."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-05",
+   "frente": "O que é crescimento vegetativo (natural)?",
+   "verso": "A diferença entre a taxa de natalidade e a de mortalidade, sem considerar as migrações."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-06",
+   "frente": "Como se lê uma pirâmide etária de base larga e topo estreito?",
+   "verso": "População jovem, com alta natalidade e baixa expectativa de vida — típica de países subdesenvolvidos."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-07",
+   "frente": "O que indica uma pirâmide etária de base estreita e topo largo?",
+   "verso": "População envelhecida, com baixa natalidade e alta expectativa de vida — típica de países desenvolvidos."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-08",
+   "frente": "O que é o bônus demográfico?",
+   "verso": "O período em que a população em idade ativa supera a de dependentes, criando uma janela favorável ao crescimento econômico."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-09",
+   "frente": "Por que o envelhecimento populacional pressiona a Previdência?",
+   "verso": "Porque cresce o número de aposentados enquanto diminui proporcionalmente o de contribuintes ativos."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-10",
+   "frente": "O que é expectativa de vida ao nascer?",
+   "verso": "O número médio de anos que se espera que um recém-nascido viva, mantidas as condições atuais de mortalidade."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-11",
+   "frente": "O que é densidade demográfica?",
+   "verso": "A razão entre o número de habitantes e a área ocupada, em habitantes por quilômetro quadrado."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-12",
+   "frente": "Por que densidade demográfica não é o mesmo que população absoluta?",
+   "verso": "Um país pode ter população enorme e densidade baixa se o território for muito extenso, como ocorre no Brasil."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-13",
+   "frente": "O que foi o êxodo rural brasileiro?",
+   "verso": "A migração maciça do campo para as cidades a partir de meados do século XX, impulsionada pela mecanização agrícola e pela industrialização."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-14",
+   "frente": "O que é migração pendular?",
+   "verso": "O deslocamento diário entre o município de moradia e o de trabalho ou estudo, típico das regiões metropolitanas."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-15",
+   "frente": "O que caracteriza a migração de retorno no Brasil?",
+   "verso": "O regresso de nordestinos que haviam migrado para o Sudeste, favorecido pela dinamização econômica de suas regiões de origem."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-16",
+   "frente": "O que é um refugiado, segundo o direito internacional?",
+   "verso": "Quem deixa seu país por fundado temor de perseguição ou por violência generalizada, e não por motivação econômica."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-17",
+   "frente": "Qual é a diferença entre refugiado e migrante econômico?",
+   "verso": "O refugiado foge de perseguição ou conflito e tem proteção jurídica internacional; o migrante econômico busca melhores condições de vida."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-18",
+   "frente": "O que é xenofobia?",
+   "verso": "A aversão ou hostilidade a estrangeiros, frequentemente associada à disputa por empregos e a discursos nacionalistas."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-19",
+   "frente": "O que é taxa de urbanização?",
+   "verso": "O percentual da população total que vive em áreas urbanas."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-20",
+   "frente": "Por que a urbanização brasileira é considerada tardia e acelerada?",
+   "verso": "Concentrou-se na segunda metade do século XX e ocorreu em poucas décadas, sem infraestrutura e emprego suficientes para absorver os migrantes."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-21",
+   "frente": "O que é conurbação?",
+   "verso": "A fusão física entre cidades vizinhas que crescem até formar uma mancha urbana contínua."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-22",
+   "frente": "O que é uma região metropolitana?",
+   "verso": "Um conjunto de municípios conurbados e integrados funcionalmente em torno de uma cidade-polo, com gestão compartilhada de serviços."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-23",
+   "frente": "O que é macrocefalia urbana?",
+   "verso": "A concentração excessiva de população e serviços numa única cidade, desequilibrando a rede urbana do país."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-24",
+   "frente": "O que é uma megacidade?",
+   "verso": "Aglomeração urbana com mais de 10 milhões de habitantes, como São Paulo e Rio de Janeiro."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-25",
+   "frente": "O que é uma cidade global?",
+   "verso": "Aquela que concentra comando financeiro e serviços especializados de alcance mundial, como Nova York, Londres e Tóquio."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-26",
+   "frente": "O que é a hierarquia urbana?",
+   "verso": "A organização das cidades por grau de influência: da metrópole nacional aos centros regionais e locais."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-27",
+   "frente": "O que é segregação socioespacial?",
+   "verso": "A separação dos grupos sociais no espaço urbano, com acesso desigual a infraestrutura, serviços e mobilidade."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-28",
+   "frente": "O que é especulação imobiliária?",
+   "verso": "A retenção de terrenos vazios à espera da valorização, que encarece a moradia e empurra a população pobre para as periferias."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-29",
+   "frente": "O que são vazios urbanos, e por que são um problema?",
+   "verso": "Terrenos ociosos em áreas já dotadas de infraestrutura; forçam a expansão da cidade para longe, encarecendo os serviços públicos."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-30",
+   "frente": "O que é gentrificação?",
+   "verso": "A valorização de uma área central revitalizada que expulsa indiretamente os moradores de menor renda, incapazes de arcar com o novo custo de vida."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-31",
+   "frente": "O que é o déficit habitacional?",
+   "verso": "A diferença entre a necessidade e a oferta de moradias adequadas, incluindo domicílios precários e famílias com aluguel excessivo."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-32",
+   "frente": "O que são ilhas de calor urbanas?",
+   "verso": "Áreas centrais mais quentes que o entorno, por causa do asfalto, do concreto, da falta de vegetação e da concentração de atividades."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-33",
+   "frente": "Por que as enchentes urbanas se agravaram nas grandes cidades?",
+   "verso": "Pela impermeabilização do solo, canalização de córregos e ocupação de várzeas, que impedem a infiltração e aceleram o escoamento."
+  },
+  {
+   "id": "flash-geografia-populacao-urbana-34",
+   "frente": "O que é o Estatuto da Cidade?",
+   "verso": "A lei de 2001 que regulamenta a política urbana, com instrumentos como o plano diretor e o IPTU progressivo contra a especulação."
+  }
+ ],
+ "geografia-fisica-clima": [
+  {
+   "id": "flash-geografia-fisica-clima-01",
+   "frente": "Qual é a diferença entre tempo e clima?",
+   "verso": "Tempo é o estado da atmosfera num momento e lugar; clima é o padrão médio ao longo de décadas."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-02",
+   "frente": "Quais são os principais fatores que controlam o clima de um lugar?",
+   "verso": "Latitude, altitude, continentalidade/maritimidade, correntes marítimas, relevo e massas de ar."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-03",
+   "frente": "Por que a latitude é o principal fator climático?",
+   "verso": "Porque define o ângulo de incidência dos raios solares: quanto mais perto do Equador, mais concentrada a energia recebida."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-04",
+   "frente": "Como a altitude afeta a temperatura?",
+   "verso": "Quanto maior a altitude, menor a temperatura — o ar rarefeito retém menos calor."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-05",
+   "frente": "O que é continentalidade e maritimidade?",
+   "verso": "A influência da distância do mar: áreas litorâneas têm amplitude térmica menor, pois a água aquece e resfria lentamente."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-06",
+   "frente": "O que caracteriza o clima equatorial?",
+   "verso": "Temperaturas altas o ano todo, baixa amplitude térmica e chuvas abundantes e bem distribuídas."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-07",
+   "frente": "O que caracteriza o clima tropical típico do Brasil Central?",
+   "verso": "Duas estações bem marcadas: verão quente e chuvoso, inverno ameno e seco."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-08",
+   "frente": "O que caracteriza o clima semiárido do Nordeste?",
+   "verso": "Chuvas escassas e irregulares, altas temperaturas e elevada evaporação, com longos períodos de estiagem."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-09",
+   "frente": "O que caracteriza o clima subtropical do Sul do Brasil?",
+   "verso": "Chuvas bem distribuídas o ano todo e a maior amplitude térmica do país, com invernos frios."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-10",
+   "frente": "O que é uma massa de ar?",
+   "verso": "Uma grande porção da atmosfera com temperatura e umidade relativamente homogêneas, que carrega essas características ao se deslocar."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-11",
+   "frente": "O que é uma frente fria?",
+   "verso": "O encontro em que uma massa de ar frio avança sobre uma massa quente, forçando-a a subir e provocando chuvas e queda de temperatura."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-12",
+   "frente": "O que é a Zona de Convergência Intertropical?",
+   "verso": "A faixa próxima ao Equador onde convergem os ventos alísios, gerando forte nebulosidade e chuvas."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-13",
+   "frente": "Que fenômeno é o El Niño, e como afeta o Brasil?",
+   "verso": "O aquecimento anômalo do Pacífico equatorial; traz seca ao Norte e Nordeste e chuvas excessivas ao Sul."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-14",
+   "frente": "O que é a La Niña, e qual seu efeito no Brasil?",
+   "verso": "O resfriamento anômalo do Pacífico equatorial; tende a produzir efeitos opostos aos do El Niño."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-15",
+   "frente": "O que são os 'rios voadores' da Amazônia?",
+   "verso": "Massas de vapor d'água transportadas pela floresta em direção ao Centro-Sul, responsáveis por parte das chuvas dessas regiões."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-16",
+   "frente": "Quais são as três grandes unidades do relevo brasileiro?",
+   "verso": "Planaltos, planícies e depressões — na classificação de Jurandyr Ross."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-17",
+   "frente": "Qual é a diferença entre planalto e planície?",
+   "verso": "No planalto predomina o desgaste (erosão); na planície predomina a deposição (sedimentação)."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-18",
+   "frente": "Por que o Brasil não tem vulcões nem terremotos significativos?",
+   "verso": "Porque está no interior da Placa Sul-Americana, longe das bordas onde ocorre o encontro entre placas."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-19",
+   "frente": "O que são agentes internos (endógenos) do relevo?",
+   "verso": "Tectonismo, vulcanismo e abalos sísmicos — forças que vêm do interior da Terra e constroem o relevo."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-20",
+   "frente": "O que são agentes externos (exógenos) do relevo?",
+   "verso": "Intemperismo, erosão e sedimentação, causados por água, vento, temperatura e seres vivos — desgastam e remodelam o relevo."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-21",
+   "frente": "Qual é a diferença entre intemperismo e erosão?",
+   "verso": "Intemperismo é a decomposição da rocha no próprio lugar; erosão é o transporte do material já desagregado."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-22",
+   "frente": "O que é uma voçoroca?",
+   "verso": "O estágio avançado da erosão do solo por água, formando grandes ravinas que podem atingir o lençol freático."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-23",
+   "frente": "O que é laterização do solo?",
+   "verso": "A lixiviação intensa em climas quentes e úmidos, que remove nutrientes e concentra óxidos de ferro e alumínio, empobrecendo o solo."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-24",
+   "frente": "Por que o solo de terra roxa é tão fértil?",
+   "verso": "Por resultar da decomposição de rochas basálticas vulcânicas, ricas em minerais; sustentou a cafeicultura paulista."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-25",
+   "frente": "O que é salinização do solo, e onde ocorre?",
+   "verso": "O acúmulo de sais pela evaporação da água de irrigação em regiões áridas e semiáridas, que inviabiliza o cultivo."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-26",
+   "frente": "O que é uma bacia hidrográfica?",
+   "verso": "A área drenada por um rio principal e seus afluentes, delimitada pelos divisores de água."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-27",
+   "frente": "Qual é a maior bacia hidrográfica do Brasil e do mundo?",
+   "verso": "A Bacia Amazônica."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-28",
+   "frente": "Qual bacia hidrográfica brasileira tem maior aproveitamento hidrelétrico?",
+   "verso": "A do Paraná, onde se localiza Itaipu, pelo relevo em planalto com desníveis e pela proximidade dos centros consumidores."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-29",
+   "frente": "Qual é a importância do rio São Francisco?",
+   "verso": "É o principal rio perene do semiárido, chamado 'rio da integração nacional' por atravessar regiões e permitir irrigação e navegação."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-30",
+   "frente": "O que é o Aquífero Guarani?",
+   "verso": "Uma das maiores reservas subterrâneas de água doce do mundo, compartilhada por Brasil, Argentina, Paraguai e Uruguai."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-31",
+   "frente": "O que é o lençol freático?",
+   "verso": "A camada de água subterrânea mais próxima da superfície, que abastece poços e nascentes."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-32",
+   "frente": "Qual bioma brasileiro é considerado o berço das águas?",
+   "verso": "O Cerrado, onde nascem rios de oito das doze grandes bacias hidrográficas brasileiras."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-33",
+   "frente": "O que caracteriza a vegetação de manguezal?",
+   "verso": "Ecossistema de transição entre mar e terra, com solo lodoso e salobro e plantas de raízes aéreas; é berçário de espécies marinhas."
+  },
+  {
+   "id": "flash-geografia-fisica-clima-34",
+   "frente": "O que é o Pampa (Campos Sulinos)?",
+   "verso": "Bioma de vegetação rasteira e herbácea no extremo sul, associado ao clima subtropical e à pecuária extensiva."
+  }
+ ],
+ "geografia-agraria-economica": [
+  {
+   "id": "flash-geografia-agraria-economica-01",
+   "frente": "O que é estrutura fundiária?",
+   "verso": "A forma como as terras de um país estão distribuídas quanto ao tamanho das propriedades e à sua posse."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-02",
+   "frente": "Como se caracteriza a estrutura fundiária brasileira?",
+   "verso": "Altamente concentrada: poucos latifúndios ocupam grande parte da área agrícola, enquanto muitos minifúndios ocupam pouca terra."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-03",
+   "frente": "Qual é a origem histórica da concentração fundiária no Brasil?",
+   "verso": "As capitanias hereditárias e as sesmarias no período colonial, reforçadas pela Lei de Terras de 1850, que tornou a terra acessível apenas por compra."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-04",
+   "frente": "O que é reforma agrária?",
+   "verso": "A redistribuição da propriedade da terra para reduzir a concentração fundiária e ampliar o acesso de trabalhadores rurais."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-05",
+   "frente": "O que estabelece a função social da propriedade rural?",
+   "verso": "A Constituição de 1988 condiciona a propriedade ao uso produtivo, ao respeito ambiental e às relações de trabalho adequadas."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-06",
+   "frente": "Qual é a diferença entre agricultura familiar e agronegócio?",
+   "verso": "A familiar usa mão de obra da própria família em pequenas áreas e abastece o mercado interno; o agronegócio é empresarial, mecanizado e voltado à exportação."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-07",
+   "frente": "Qual é a importância da agricultura familiar no Brasil?",
+   "verso": "Responde pela maior parte dos alimentos consumidos internamente e concentra grande parte da ocupação no campo."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-08",
+   "frente": "O que é uma commodity agrícola?",
+   "verso": "Um produto primário padronizado, negociado em bolsas internacionais e com preço definido no mercado mundial, como soja e minério."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-09",
+   "frente": "Por que a dependência de commodities torna a economia vulnerável?",
+   "verso": "Porque os preços são definidos externamente e oscilam muito, e produtos primários agregam pouco valor."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-10",
+   "frente": "O que foi a Revolução Verde?",
+   "verso": "O pacote tecnológico do século XX (sementes selecionadas, fertilizantes, agrotóxicos, mecanização) que elevou a produtividade agrícola."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-11",
+   "frente": "Quais foram as críticas à Revolução Verde?",
+   "verso": "Aumentou a dependência de insumos caros, concentrou a terra e a renda, e trouxe custos ambientais e de saúde pelos agrotóxicos."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-12",
+   "frente": "O que é a fronteira agrícola do MATOPIBA?",
+   "verso": "A área de expansão do agronegócio no Cerrado, entre Maranhão, Tocantins, Piauí e Bahia, com forte pressão sobre o bioma."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-13",
+   "frente": "O que é monocultura, e qual seu principal risco?",
+   "verso": "O cultivo de uma única espécie em grande área; empobrece o solo e torna a lavoura vulnerável a pragas e à oscilação de um só preço."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-14",
+   "frente": "Por que a industrialização brasileira é considerada tardia?",
+   "verso": "Só se consolidou a partir de 1930, muito depois da europeia, e dependeu fortemente do Estado e de capital estrangeiro."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-15",
+   "frente": "O que foi o Plano de Metas de Juscelino Kubitschek?",
+   "verso": "O programa dos anos 1950 que atraiu multinacionais e implantou a indústria automobilística, sob o lema 'cinquenta anos em cinco'."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-16",
+   "frente": "O que é desconcentração industrial?",
+   "verso": "O deslocamento de indústrias da região metropolitana de São Paulo para o interior e outros estados, em busca de menores custos e incentivos fiscais."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-17",
+   "frente": "O que é guerra fiscal entre estados?",
+   "verso": "A disputa por investimentos por meio de renúncia de impostos, que atrai indústrias mas reduz a arrecadação pública."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-18",
+   "frente": "O que é a Zona Franca de Manaus?",
+   "verso": "Área de livre comércio com incentivos fiscais criada para ocupar e desenvolver a Amazônia Ocidental, concentrada em eletroeletrônicos."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-19",
+   "frente": "O que é matriz energética?",
+   "verso": "O conjunto das fontes de energia utilizadas por um país e a participação de cada uma no total."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-20",
+   "frente": "Por que a matriz elétrica brasileira é considerada limpa?",
+   "verso": "Porque é majoritariamente hidrelétrica, complementada por eólica, solar e biomassa, com participação menor de fontes fósseis."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-21",
+   "frente": "Qual é a principal vulnerabilidade da dependência hidrelétrica?",
+   "verso": "A dependência do regime de chuvas: em períodos de seca, é preciso acionar termelétricas, mais caras e poluentes."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-22",
+   "frente": "Qual é a diferença entre matriz energética e matriz elétrica?",
+   "verso": "A energética inclui todo o consumo de energia, com forte peso do petróleo nos transportes; a elétrica considera apenas a geração de eletricidade."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-23",
+   "frente": "O que é o pré-sal?",
+   "verso": "As reservas de petróleo em águas ultraprofundas sob uma camada de sal, que tornaram o Brasil um grande produtor mundial."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-24",
+   "frente": "Que vantagem ambiental tem o etanol de cana brasileiro?",
+   "verso": "A cana absorve carbono no crescimento, o que reduz o saldo líquido de emissões em relação aos combustíveis fósseis."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-25",
+   "frente": "Quais são as vantagens e limitações da energia eólica?",
+   "verso": "É renovável e limpa, mas depende da constância dos ventos e exige grandes áreas — no Brasil concentra-se no Nordeste."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-26",
+   "frente": "Por que a energia solar cresce rapidamente no Brasil?",
+   "verso": "Pela alta incidência de radiação em quase todo o território e pela queda acentuada no custo dos painéis fotovoltaicos."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-27",
+   "frente": "Qual é a importância da região de Carajás?",
+   "verso": "Abriga uma das maiores minas de ferro do mundo, no Pará, com produção majoritariamente exportada."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-28",
+   "frente": "O que revelaram os desastres de Mariana e Brumadinho?",
+   "verso": "A fragilidade da fiscalização de barragens de rejeitos e o alto custo socioambiental da mineração."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-29",
+   "frente": "O que é balança comercial?",
+   "verso": "A diferença entre o valor das exportações e o das importações de um país em determinado período."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-30",
+   "frente": "O que significa dizer que a pauta exportadora brasileira é primarizada?",
+   "verso": "Que predominam produtos básicos (soja, minério, petróleo, carne), de baixo valor agregado, em vez de manufaturados."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-31",
+   "frente": "O que é desindustrialização?",
+   "verso": "A perda de participação da indústria no PIB e no emprego, com deslocamento da economia para serviços e produtos primários."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-32",
+   "frente": "O que é o setor terciário, e qual seu peso na economia brasileira?",
+   "verso": "O de comércio e serviços; é o que mais emprega e mais contribui para o PIB do país."
+  },
+  {
+   "id": "flash-geografia-agraria-economica-33",
+   "frente": "O que é a informalidade no mercado de trabalho?",
+   "verso": "A ocupação sem registro nem proteção social, que atinge parcela expressiva dos trabalhadores brasileiros."
+  }
+ ],
+ "geografia-geopolitica": [
+  {
+   "id": "flash-geografia-geopolitica-01",
+   "frente": "O que é geopolítica?",
+   "verso": "O estudo das relações entre poder político e espaço geográfico, incluindo territórios, fronteiras e recursos estratégicos."
+  },
+  {
+   "id": "flash-geografia-geopolitica-02",
+   "frente": "O que caracterizou a ordem mundial bipolar?",
+   "verso": "A divisão do mundo entre os blocos liderados por Estados Unidos e União Soviética durante a Guerra Fria."
+  },
+  {
+   "id": "flash-geografia-geopolitica-03",
+   "frente": "O que caracteriza a ordem mundial multipolar?",
+   "verso": "A existência de vários centros de poder — Estados Unidos, China, União Europeia, Rússia e potências emergentes — sem hegemonia única."
+  },
+  {
+   "id": "flash-geografia-geopolitica-04",
+   "frente": "O que é uma potência hegemônica?",
+   "verso": "O Estado capaz de impor sua influência econômica, militar e cultural sobre o sistema internacional."
+  },
+  {
+   "id": "flash-geografia-geopolitica-05",
+   "frente": "O que é soft power?",
+   "verso": "A capacidade de influenciar outros países pela atração cultural, ideológica e diplomática, em vez da coerção militar ou econômica."
+  },
+  {
+   "id": "flash-geografia-geopolitica-06",
+   "frente": "O que é globalização?",
+   "verso": "A intensificação da integração mundial de fluxos de capitais, mercadorias, informações e pessoas, acelerada pelas tecnologias de comunicação e transporte."
+  },
+  {
+   "id": "flash-geografia-geopolitica-07",
+   "frente": "Por que a globalização é considerada seletiva ou excludente?",
+   "verso": "Porque integra intensamente alguns territórios e grupos e mantém outros à margem, aprofundando desigualdades."
+  },
+  {
+   "id": "flash-geografia-geopolitica-08",
+   "frente": "O que é a Divisão Internacional do Trabalho?",
+   "verso": "A especialização produtiva entre países: historicamente, os centrais fornecem manufaturas e tecnologia, e os periféricos, matérias-primas."
+  },
+  {
+   "id": "flash-geografia-geopolitica-09",
+   "frente": "O que é a Nova Divisão Internacional do Trabalho?",
+   "verso": "O arranjo em que países periféricos passam a industrializar-se com etapas de baixo valor agregado, enquanto os centrais retêm pesquisa e marcas."
+  },
+  {
+   "id": "flash-geografia-geopolitica-10",
+   "frente": "O que são empresas transnacionais?",
+   "verso": "Corporações com produção e atuação em vários países, que distribuem suas etapas produtivas conforme custos e vantagens locais."
+  },
+  {
+   "id": "flash-geografia-geopolitica-11",
+   "frente": "O que são cadeias globais de valor?",
+   "verso": "A fragmentação da produção de um bem em várias etapas realizadas em países diferentes, cada um responsável por uma parte."
+  },
+  {
+   "id": "flash-geografia-geopolitica-12",
+   "frente": "Que critérios distinguem países desenvolvidos de subdesenvolvidos?",
+   "verso": "Renda per capita, IDH, estrutura produtiva, desigualdade e capacidade tecnológica — não apenas o tamanho do PIB."
+  },
+  {
+   "id": "flash-geografia-geopolitica-13",
+   "frente": "O que mede o IDH?",
+   "verso": "Renda, expectativa de vida e educação, combinados num índice de 0 a 1 que avalia desenvolvimento humano além do econômico."
+  },
+  {
+   "id": "flash-geografia-geopolitica-14",
+   "frente": "Por que um país pode ter PIB alto e IDH mediano?",
+   "verso": "Porque o PIB mede o tamanho da economia, mas não como a riqueza se distribui nem como se converte em bem-estar."
+  },
+  {
+   "id": "flash-geografia-geopolitica-15",
+   "frente": "O que é um bloco econômico?",
+   "verso": "Uma associação de países que reduz barreiras comerciais entre si para ampliar o intercâmbio e o poder de negociação."
+  },
+  {
+   "id": "flash-geografia-geopolitica-16",
+   "frente": "Quais são os estágios de integração de um bloco econômico?",
+   "verso": "Zona de livre comércio, união aduaneira, mercado comum e união econômica e monetária."
+  },
+  {
+   "id": "flash-geografia-geopolitica-17",
+   "frente": "O que é o Mercosul, e em que estágio de integração está?",
+   "verso": "Bloco sul-americano formado por Brasil, Argentina, Uruguai e Paraguai; é uma união aduaneira incompleta."
+  },
+  {
+   "id": "flash-geografia-geopolitica-18",
+   "frente": "O que caracteriza a União Europeia?",
+   "verso": "O bloco de integração mais profunda: mercado comum, livre circulação de pessoas e moeda única em parte dos membros."
+  },
+  {
+   "id": "flash-geografia-geopolitica-19",
+   "frente": "O que é o BRICS?",
+   "verso": "Agrupamento de economias emergentes — originalmente Brasil, Rússia, Índia, China e África do Sul — que busca maior peso na governança global."
+  },
+  {
+   "id": "flash-geografia-geopolitica-20",
+   "frente": "Qual é a função da ONU?",
+   "verso": "Manter a paz e a segurança internacionais, promover a cooperação entre Estados e o respeito aos direitos humanos."
+  },
+  {
+   "id": "flash-geografia-geopolitica-21",
+   "frente": "Como é composto o Conselho de Segurança da ONU?",
+   "verso": "Por 15 membros: 5 permanentes com poder de veto e 10 rotativos eleitos para mandatos de dois anos."
+  },
+  {
+   "id": "flash-geografia-geopolitica-22",
+   "frente": "Quais são os cinco membros permanentes do Conselho de Segurança?",
+   "verso": "Estados Unidos, Rússia, China, Reino Unido e França."
+  },
+  {
+   "id": "flash-geografia-geopolitica-23",
+   "frente": "Por que o poder de veto é alvo de críticas?",
+   "verso": "Porque permite que um único país bloqueie qualquer resolução, refletindo a correlação de forças de 1945 e paralisando o Conselho em conflitos atuais."
+  },
+  {
+   "id": "flash-geografia-geopolitica-24",
+   "frente": "Qual é o papel do FMI?",
+   "verso": "Conceder empréstimos a países em crise de balanço de pagamentos, geralmente com contrapartidas de ajuste fiscal."
+  },
+  {
+   "id": "flash-geografia-geopolitica-25",
+   "frente": "Qual é o papel da OMC?",
+   "verso": "Regular o comércio internacional, negociar a redução de barreiras e arbitrar disputas comerciais entre países."
+  },
+  {
+   "id": "flash-geografia-geopolitica-26",
+   "frente": "O que é protecionismo comercial?",
+   "verso": "A adoção de tarifas, cotas e subsídios para proteger a produção nacional da concorrência estrangeira."
+  },
+  {
+   "id": "flash-geografia-geopolitica-27",
+   "frente": "O que é uma guerra comercial?",
+   "verso": "O conflito em que países impõem tarifas e restrições recíprocas, como ocorreu entre Estados Unidos e China."
+  },
+  {
+   "id": "flash-geografia-geopolitica-28",
+   "frente": "Por que o Ártico ganhou importância geopolítica?",
+   "verso": "Porque o degelo abre novas rotas de navegação e viabiliza a exploração de petróleo, gás e minerais antes inacessíveis."
+  },
+  {
+   "id": "flash-geografia-geopolitica-29",
+   "frente": "O que são recursos estratégicos, em geopolítica?",
+   "verso": "Aqueles cujo controle confere poder internacional, como petróleo, gás, terras raras, água doce e lítio."
+  },
+  {
+   "id": "flash-geografia-geopolitica-30",
+   "frente": "Por que o lítio se tornou um recurso geopolítico central?",
+   "verso": "Por ser essencial às baterias de veículos elétricos, concentrando disputas em torno das reservas sul-americanas e australianas."
+  },
+  {
+   "id": "flash-geografia-geopolitica-31",
+   "frente": "O que é o Triângulo do Lítio?",
+   "verso": "A região entre Argentina, Bolívia e Chile que concentra grande parte das reservas mundiais do minério."
+  },
+  {
+   "id": "flash-geografia-geopolitica-32",
+   "frente": "Por que o Oriente Médio é uma região de conflitos recorrentes?",
+   "verso": "Pela combinação de grandes reservas de petróleo, fronteiras traçadas artificialmente por potências coloniais e disputas étnico-religiosas e territoriais."
+  },
+  {
+   "id": "flash-geografia-geopolitica-33",
+   "frente": "O que caracteriza a atuação internacional da China nas últimas décadas?",
+   "verso": "Expansão comercial e de investimentos em infraestrutura, sobretudo pela Nova Rota da Seda, com forte presença na África e na América Latina."
+  },
+  {
+   "id": "flash-geografia-geopolitica-34",
+   "frente": "Qual é a posição do Brasil na geopolítica mundial?",
+   "verso": "Potência regional e grande exportador de commodities, com atuação diplomática multilateral, mas peso limitado nas decisões globais."
+  }
+ ],
+ "geografia-ambiente-sustentabilidade": [
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-01",
+   "frente": "O que é desenvolvimento sustentável?",
+   "verso": "Aquele que atende às necessidades do presente sem comprometer a capacidade das gerações futuras de atender às suas."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-02",
+   "frente": "Quais são as três dimensões da sustentabilidade?",
+   "verso": "Ambiental, econômica e social — as três precisam ser consideradas em conjunto."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-03",
+   "frente": "O que são os Objetivos de Desenvolvimento Sustentável (ODS)?",
+   "verso": "As 17 metas da Agenda 2030 da ONU para erradicar a pobreza, proteger o planeta e garantir prosperidade a todos."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-04",
+   "frente": "O que foi a Rio-92?",
+   "verso": "A Conferência da ONU no Rio de Janeiro que consolidou o conceito de desenvolvimento sustentável e gerou a Agenda 21 e a Convenção do Clima."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-05",
+   "frente": "O que são as COPs do clima?",
+   "verso": "As Conferências das Partes, encontros anuais dos países signatários da Convenção do Clima para negociar metas de redução de emissões."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-06",
+   "frente": "O que estabeleceu o Acordo de Paris?",
+   "verso": "Limitar o aquecimento global a bem abaixo de 2 °C, buscando 1,5 °C, com metas voluntárias definidas por cada país."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-07",
+   "frente": "O que são as NDCs?",
+   "verso": "As metas de redução de emissões que cada país define e apresenta voluntariamente no âmbito do Acordo de Paris."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-08",
+   "frente": "O que é o Protocolo de Kyoto, e como difere do Acordo de Paris?",
+   "verso": "Estabeleceu metas obrigatórias apenas para países desenvolvidos; o de Paris envolve todos os países, mas com metas voluntárias."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-09",
+   "frente": "O que é o princípio das responsabilidades comuns porém diferenciadas?",
+   "verso": "Todos os países devem agir contra a mudança climática, mas os desenvolvidos têm responsabilidade maior por seu passivo histórico de emissões."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-10",
+   "frente": "O que é a pegada ecológica?",
+   "verso": "A medida da área produtiva necessária para sustentar o consumo de uma população e absorver seus resíduos."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-11",
+   "frente": "O que é crédito de carbono?",
+   "verso": "Um título que representa uma tonelada de CO₂ não emitida ou removida, negociável entre países ou empresas para cumprir metas."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-12",
+   "frente": "O que é greenwashing?",
+   "verso": "A prática de empresas que se apresentam como ambientalmente responsáveis sem mudanças reais em suas operações."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-13",
+   "frente": "Quais são as principais causas do desmatamento na Amazônia?",
+   "verso": "Expansão da pecuária e da soja, grilagem de terras, garimpo ilegal e abertura de estradas."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-14",
+   "frente": "O que é o ponto de não retorno da Amazônia?",
+   "verso": "O limiar de desmatamento a partir do qual a floresta perderia a capacidade de gerar sua própria chuva, degradando-se para vegetação de savana."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-15",
+   "frente": "O que é desertificação, e onde ocorre no Brasil?",
+   "verso": "A degradação do solo em áreas secas até a perda da capacidade produtiva; afeta áreas do semiárido nordestino."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-16",
+   "frente": "O que é assoreamento de um rio?",
+   "verso": "O acúmulo de sedimentos no leito, que reduz a profundidade e aumenta o risco de enchentes; resulta da erosão de margens desmatadas."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-17",
+   "frente": "O que é uma mata ciliar, e qual sua função?",
+   "verso": "A vegetação às margens dos rios; protege contra erosão, filtra poluentes e mantém a qualidade e o volume da água."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-18",
+   "frente": "O que estabelece o Código Florestal sobre Reserva Legal?",
+   "verso": "Que parte de cada propriedade rural deve manter vegetação nativa, em percentual que varia por bioma — 80% na Amazônia."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-19",
+   "frente": "O que são Áreas de Preservação Permanente (APPs)?",
+   "verso": "Áreas protegidas por sua função ambiental, como margens de rios, topos de morro e encostas íngremes, onde a vegetação não pode ser suprimida."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-20",
+   "frente": "O que são unidades de conservação de proteção integral?",
+   "verso": "Aquelas que admitem apenas uso indireto dos recursos, como parques nacionais e reservas biológicas."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-21",
+   "frente": "O que são unidades de conservação de uso sustentável?",
+   "verso": "Aquelas que conciliam conservação e uso dos recursos por populações locais, como as reservas extrativistas."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-22",
+   "frente": "O que é licenciamento ambiental?",
+   "verso": "O procedimento pelo qual o poder público autoriza empreendimentos potencialmente poluidores, mediante estudos de impacto e condicionantes."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-23",
+   "frente": "O que é um EIA/RIMA?",
+   "verso": "O Estudo e o Relatório de Impacto Ambiental, exigidos para obras de grande porte, com o RIMA em linguagem acessível ao público."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-24",
+   "frente": "O que é a crise hídrica, e quais suas causas?",
+   "verso": "A escassez de água disponível, causada por estiagens, desmatamento, desperdício, poluição e crescimento do consumo urbano e agrícola."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-25",
+   "frente": "Qual setor mais consome água no Brasil?",
+   "verso": "A agricultura irrigada, responsável pela maior parte da retirada de água doce."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-26",
+   "frente": "Qual é a situação do saneamento básico no Brasil?",
+   "verso": "Milhões de pessoas ainda não têm coleta e tratamento de esgoto, o que compromete a saúde pública e a qualidade dos corpos d'água."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-27",
+   "frente": "Qual é a diferença entre lixão e aterro sanitário?",
+   "verso": "O lixão é despejo a céu aberto sem controle; o aterro sanitário tem impermeabilização, drenagem de chorume e captação de gases."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-28",
+   "frente": "O que é chorume?",
+   "verso": "O líquido escuro e tóxico gerado pela decomposição do lixo orgânico, que contamina solo e lençol freático se não for contido e tratado."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-29",
+   "frente": "O que é a logística reversa?",
+   "verso": "A obrigação de fabricantes e comerciantes de recolher e destinar corretamente produtos após o consumo, como pilhas, pneus e eletrônicos."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-30",
+   "frente": "O que é economia circular?",
+   "verso": "O modelo que substitui o ciclo 'extrair-produzir-descartar' pelo reaproveitamento contínuo de materiais, reduzindo resíduos e extração."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-31",
+   "frente": "O que é a transição energética?",
+   "verso": "A substituição gradual de combustíveis fósseis por fontes renováveis na matriz energética mundial."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-32",
+   "frente": "O que é justiça ambiental?",
+   "verso": "O princípio de que os custos da degradação não devem recair desproporcionalmente sobre populações pobres, negras e indígenas."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-33",
+   "frente": "O que é racismo ambiental?",
+   "verso": "A concentração de riscos e passivos ambientais em territórios habitados por populações racialmente marginalizadas."
+  },
+  {
+   "id": "flash-geografia-ambiente-sustentabilidade-34",
+   "frente": "Por que se diz que a mudança climática agrava desigualdades?",
+   "verso": "Porque os mais pobres vivem em áreas de maior risco, têm menos recursos para se adaptar e dependem mais de atividades sensíveis ao clima."
+  }
+ ],
+ "geografia-cartografia": [
+  {
+   "id": "flash-geografia-cartografia-01",
+   "frente": "O que é cartografia?",
+   "verso": "A ciência e a técnica de representar graficamente a superfície terrestre por meio de mapas e outros produtos."
+  },
+  {
+   "id": "flash-geografia-cartografia-02",
+   "frente": "O que é a escala de um mapa?",
+   "verso": "A relação matemática entre a distância no mapa e a distância real correspondente no terreno."
+  },
+  {
+   "id": "flash-geografia-cartografia-03",
+   "frente": "O que significa a escala 1:100.000?",
+   "verso": "Que 1 unidade no mapa corresponde a 100.000 unidades na realidade — 1 cm no papel equivale a 1 km."
+  },
+  {
+   "id": "flash-geografia-cartografia-04",
+   "frente": "Qual é a diferença entre escala grande e escala pequena?",
+   "verso": "Escala grande (1:1.000) mostra área pequena com muito detalhe; escala pequena (1:10.000.000) mostra área grande com pouco detalhe."
+  },
+  {
+   "id": "flash-geografia-cartografia-05",
+   "frente": "Como comparar duas escalas numéricas?",
+   "verso": "Quanto MAIOR o denominador, MENOR a escala e menor o detalhamento."
+  },
+  {
+   "id": "flash-geografia-cartografia-06",
+   "frente": "O que é escala gráfica?",
+   "verso": "A representação da escala por uma barra segmentada, que continua válida mesmo se o mapa for ampliado ou reduzido."
+  },
+  {
+   "id": "flash-geografia-cartografia-07",
+   "frente": "Como calcular a distância real a partir do mapa?",
+   "verso": "Multiplique a distância medida no mapa pelo denominador da escala."
+  },
+  {
+   "id": "flash-geografia-cartografia-08",
+   "frente": "Por que toda projeção cartográfica gera distorções?",
+   "verso": "Porque representa uma superfície esférica num plano, o que sempre deforma áreas, formas, distâncias ou ângulos."
+  },
+  {
+   "id": "flash-geografia-cartografia-09",
+   "frente": "O que caracteriza a projeção de Mercator?",
+   "verso": "É conforme: preserva os ângulos e as formas, mas exagera enormemente as áreas em altas latitudes."
+  },
+  {
+   "id": "flash-geografia-cartografia-10",
+   "frente": "Que crítica se faz à projeção de Mercator?",
+   "verso": "Ao inflar as áreas próximas aos polos, engrandece a Europa e a América do Norte e reduz visualmente a África e a América do Sul."
+  },
+  {
+   "id": "flash-geografia-cartografia-11",
+   "frente": "O que caracteriza a projeção de Peters?",
+   "verso": "É equivalente: preserva as proporções de área, ainda que deforme as formas — foi adotada como alternativa mais justa aos países tropicais."
+  },
+  {
+   "id": "flash-geografia-cartografia-12",
+   "frente": "O que é uma projeção cilíndrica?",
+   "verso": "Aquela obtida projetando a esfera sobre um cilindro; representa bem as regiões equatoriais e distorce as polares."
+  },
+  {
+   "id": "flash-geografia-cartografia-13",
+   "frente": "O que é uma projeção azimutal (polar)?",
+   "verso": "Aquela projetada sobre um plano tangente, geralmente num dos polos; é usada em mapas de rotas aéreas e representações polares."
+  },
+  {
+   "id": "flash-geografia-cartografia-14",
+   "frente": "O que é latitude?",
+   "verso": "A distância angular de um ponto em relação à Linha do Equador, medida de 0° a 90° para Norte ou Sul."
+  },
+  {
+   "id": "flash-geografia-cartografia-15",
+   "frente": "O que é longitude?",
+   "verso": "A distância angular de um ponto em relação ao Meridiano de Greenwich, medida de 0° a 180° para Leste ou Oeste."
+  },
+  {
+   "id": "flash-geografia-cartografia-16",
+   "frente": "Qual é o paralelo de referência (0°) e qual é o meridiano de referência?",
+   "verso": "O Equador é o paralelo 0°; Greenwich é o meridiano 0°."
+  },
+  {
+   "id": "flash-geografia-cartografia-17",
+   "frente": "Qual é a diferença entre paralelos e meridianos?",
+   "verso": "Paralelos são círculos horizontais de tamanhos diferentes; meridianos são semicírculos verticais, todos de mesmo comprimento."
+  },
+  {
+   "id": "flash-geografia-cartografia-18",
+   "frente": "Como se determinam as coordenadas geográficas de um ponto?",
+   "verso": "Pelo cruzamento da latitude com a longitude, indicando sempre os hemisférios (N/S e L/O)."
+  },
+  {
+   "id": "flash-geografia-cartografia-19",
+   "frente": "Quantos fusos horários existem, e por quê?",
+   "verso": "24 fusos de 15° cada, porque a Terra gira 360° em 24 horas."
+  },
+  {
+   "id": "flash-geografia-cartografia-20",
+   "frente": "Quantos fusos horários o Brasil possui?",
+   "verso": "Quatro, dos quais três incidem sobre o território continental."
+  },
+  {
+   "id": "flash-geografia-cartografia-21",
+   "frente": "Como varia a hora ao se deslocar para leste?",
+   "verso": "A hora AUMENTA, pois o Sol nasce primeiro a leste."
+  },
+  {
+   "id": "flash-geografia-cartografia-22",
+   "frente": "O que é a Linha Internacional de Data?",
+   "verso": "A linha próxima ao meridiano 180° onde se muda o dia do calendário ao ser cruzada."
+  },
+  {
+   "id": "flash-geografia-cartografia-23",
+   "frente": "O que é horário de verão, e qual sua finalidade?",
+   "verso": "O adiantamento do relógio para aproveitar a luz natural no fim da tarde, reduzindo o pico de consumo de energia."
+  },
+  {
+   "id": "flash-geografia-cartografia-24",
+   "frente": "O que são curvas de nível?",
+   "verso": "Linhas que unem pontos de mesma altitude, representando o relevo num mapa bidimensional."
+  },
+  {
+   "id": "flash-geografia-cartografia-25",
+   "frente": "Como se lê a declividade a partir das curvas de nível?",
+   "verso": "Curvas próximas indicam terreno íngreme; curvas afastadas indicam terreno suave."
+  },
+  {
+   "id": "flash-geografia-cartografia-26",
+   "frente": "O que é equidistância entre curvas de nível?",
+   "verso": "A diferença fixa de altitude entre duas curvas consecutivas do mapa."
+  },
+  {
+   "id": "flash-geografia-cartografia-27",
+   "frente": "O que é um mapa temático?",
+   "verso": "Aquele que representa a distribuição espacial de um fenômeno específico, como população, clima ou produção agrícola."
+  },
+  {
+   "id": "flash-geografia-cartografia-28",
+   "frente": "O que é uma anamorfose geográfica (cartograma)?",
+   "verso": "Um mapa em que o tamanho dos territórios é distorcido proporcionalmente a uma variável, e não à área real."
+  },
+  {
+   "id": "flash-geografia-cartografia-29",
+   "frente": "O que é sensoriamento remoto?",
+   "verso": "A obtenção de informações sobre a superfície terrestre à distância, por satélites ou aeronaves, sem contato direto."
+  },
+  {
+   "id": "flash-geografia-cartografia-30",
+   "frente": "Para que serve o monitoramento por satélite na Amazônia?",
+   "verso": "Para detectar desmatamento e queimadas quase em tempo real, subsidiando a fiscalização ambiental."
+  },
+  {
+   "id": "flash-geografia-cartografia-31",
+   "frente": "Como funciona o GPS?",
+   "verso": "Um receptor calcula sua posição pela triangulação dos sinais de tempo emitidos por múltiplos satélites."
+  },
+  {
+   "id": "flash-geografia-cartografia-32",
+   "frente": "O que é um SIG (Sistema de Informações Geográficas)?",
+   "verso": "Um sistema que integra, analisa e sobrepõe dados espaciais em camadas, permitindo cruzar informações do território."
+  },
+  {
+   "id": "flash-geografia-cartografia-33",
+   "frente": "O que é a rosa dos ventos?",
+   "verso": "A representação das direções cardeais, colaterais e subcolaterais, usada para orientação no mapa."
+  },
+  {
+   "id": "flash-geografia-cartografia-34",
+   "frente": "O que é a legenda de um mapa, e por que é indispensável?",
+   "verso": "A chave que explica o significado de cores e símbolos; sem ela a representação não pode ser interpretada corretamente."
+  }
  ]
 };

@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-13",
+ "gerado": "2026-08-14",
  "frente": "filosofia-sociologia",
- "total": 253,
+ "total": 265,
  "residuo": [
   "dir-filosofia-sociologia-81",
   "dir-filosofia-sociologia-97",
@@ -1522,6 +1522,78 @@
    "frenteDestino": "filosofia-sociologia",
    "pontos": 5,
    "margem": 1
+  },
+  "med-filosofia-sociologia-201": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-202": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-203": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 19,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-204": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 18,
+   "margem": 13
+  },
+  "med-filosofia-sociologia-205": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-206": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "med-filosofia-sociologia-207": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-208": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "med-filosofia-sociologia-209": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-210": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-211": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-filosofia-sociologia-212": {
+   "subtema": "sociologia-instituicoes-movimentos",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
   }
  }
 }

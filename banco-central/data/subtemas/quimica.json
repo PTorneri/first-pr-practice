@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-13",
+ "gerado": "2026-08-14",
  "frente": "quimica",
- "total": 310,
+ "total": 322,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -1863,6 +1863,78 @@
    "frenteDestino": "quimica",
    "pontos": 14,
    "margem": 14
+  },
+  "med-quimica-311": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-312": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-quimica-313": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-quimica-314": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-315": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-quimica-316": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-quimica-317": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-quimica-318": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 20,
+   "margem": 15
+  },
+  "med-quimica-319": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-quimica-320": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-quimica-321": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-quimica-322": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 10
   }
  }
 }

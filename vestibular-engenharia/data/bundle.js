@@ -19424,6 +19424,210 @@ window.QUESTION_BANKS = {
    "explicacao": "A variação de energia interna é ΔU=n×Cv×ΔT=4×12,5×16=800 J.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-355",
+   "texto_apoio": "Um carrinho de 4 kg se desloca a 5 metros por segundo em uma pista horizontal.",
+   "enunciado": "A energia cinética desse carrinho vale:",
+   "alternativas": {
+    "a": "10 J",
+    "b": "20 J",
+    "c": "50 J",
+    "d": "100 J",
+    "e": "200 J"
+   },
+   "resposta": "c",
+   "explicacao": "A energia cinética é dada por Ec = (m × v²) ÷ 2 = (4 × 5²) ÷ 2 = (4 × 25) ÷ 2 = 50 J. Esquecer de elevar a rapidez ao quadrado leva a 10 J; esquecer de dividir por dois leva a 100 J.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-356",
+   "texto_apoio": "Um objeto de 2 kg está a 10 m de altura em relação ao solo, numa gravidade de intensidade 10 N/kg.",
+   "enunciado": "A energia potencial gravitacional desse objeto, em relação ao solo, vale:",
+   "alternativas": {
+    "a": "200 J",
+    "b": "100 J",
+    "c": "2.000 J",
+    "d": "20 J",
+    "e": "10 J"
+   },
+   "resposta": "a",
+   "explicacao": "A energia potencial gravitacional é dada por Ep = m × g × h = 2 × 10 × 10 = 200 J. Multiplicar apenas dois dos três valores, ou trocar a ordem de grandeza, leva às demais opções oferecidas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-357",
+   "texto_apoio": "Uma bola de 0,5 kg é solta do repouso de uma altura de 8 m acima do solo, numa gravidade de intensidade 10 N/kg. A resistência do ar é desprezível ao longo de toda a queda.",
+   "enunciado": "No instante em que a bola atinge o solo, sua energia cinética vale:",
+   "alternativas": {
+    "a": "4 J",
+    "b": "8 J",
+    "c": "40 J",
+    "d": "80 J",
+    "e": "400 J"
+   },
+   "resposta": "c",
+   "explicacao": "Pela conservação da energia mecânica, toda a energia potencial inicial se converte em energia cinética ao atingir o solo: Ec = Ep = m × g × h = 0,5 × 10 × 8 = 40 J. Erros de uma casa decimal na multiplicação levam às demais opções.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-358",
+   "texto_apoio": "Uma pessoa empurra uma caixa por 6 m em linha reta, aplicando sobre ela uma força constante de 20 N na mesma direção do deslocamento.",
+   "enunciado": "O trabalho realizado por essa força sobre a caixa vale:",
+   "alternativas": {
+    "a": "3,3 J",
+    "b": "26 J",
+    "c": "14 J",
+    "d": "1.200 J",
+    "e": "120 J"
+   },
+   "resposta": "e",
+   "explicacao": "Quando a força tem a mesma direção do deslocamento, o trabalho é dado por W = F × d = 20 × 6 = 120 J. Adicionar em vez de multiplicar os valores leva a 26 J; um erro de posição decimal leva a 1.200 J.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-359",
+   "texto_apoio": "Um motor realiza um trabalho de 3.000 J sobre uma carga em um intervalo de 15 segundos.",
+   "enunciado": "A potência mecânica desenvolvida por esse motor, nesse intervalo, vale:",
+   "alternativas": {
+    "a": "45.000 W",
+    "b": "200 W",
+    "c": "20 W",
+    "d": "2.985 W",
+    "e": "3.015 W"
+   },
+   "resposta": "b",
+   "explicacao": "A potência mecânica é a razão entre o trabalho realizado e o intervalo de tempo: P = W ÷ t = 3.000 ÷ 15 = 200 W. Multiplicar em vez de dividir leva a 45.000 W; um erro de posição decimal leva a 20 W.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-360",
+   "texto_apoio": "Uma máquina recebe uma potência total de 500 W, mas apenas 350 W são efetivamente convertidos em trabalho útil; o restante se dissipa em forma de calor.",
+   "enunciado": "O rendimento dessa máquina vale:",
+   "alternativas": {
+    "a": "30%",
+    "b": "35%",
+    "c": "50%",
+    "d": "150%",
+    "e": "70%"
+   },
+   "resposta": "e",
+   "explicacao": "O rendimento é a razão entre a potência útil e a potência total recebida: η = (350 ÷ 500) × 100 = 70%. Inverter a razão entre potência dissipada e potência total leva a 30%.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-361",
+   "texto_apoio": "Um patinador de 60 kg se desloca a 4 metros por segundo sobre uma pista de gelo horizontal.",
+   "enunciado": "A quantidade de movimento desse patinador, nesse instante, vale:",
+   "alternativas": {
+    "a": "15 quilograma-metro por segundo",
+    "b": "64 quilograma-metro por segundo",
+    "c": "120 quilograma-metro por segundo",
+    "d": "240 quilograma-metro por segundo",
+    "e": "480 quilograma-metro por segundo"
+   },
+   "resposta": "d",
+   "explicacao": "A quantidade de movimento é dada por p = m × v = 60 × 4 = 240 quilograma-metro por segundo. Adicionar em vez de multiplicar os valores leva a 64 quilograma-metro por segundo; um erro no fator de multiplicação leva às demais opções.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-362",
+   "texto_apoio": "Uma bola de 0,2 kg se move a 6 metros por segundo em direção a uma parede. Após colidir com a parede, ela retorna com rapidez de 4 metros por segundo, no sentido oposto.",
+   "enunciado": "O módulo do impulso exercido pela parede sobre a bola durante a colisão vale:",
+   "alternativas": {
+    "a": "0,4 quilograma-metro por segundo",
+    "b": "0,8 quilograma-metro por segundo",
+    "c": "1,2 quilograma-metro por segundo",
+    "d": "2,0 quilograma-metro por segundo",
+    "e": "10 quilograma-metro por segundo"
+   },
+   "resposta": "d",
+   "explicacao": "O impulso equivale à variação da quantidade de movimento. Tomando o sentido inicial como positivo: I = m × (v_final − v_inicial) = 0,2 × (−4 − 6) = 0,2 × (−10) = −2,0 quilograma-metro por segundo, cujo módulo é 2,0 quilograma-metro por segundo — a inversão de sentido faz as rapidezes se adicionarem, não se subtraírem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-363",
+   "texto_apoio": "Duas esferas idênticas de 1 kg cada se movem uma em direção à outra sobre uma superfície sem atrito: a primeira a 5 metros por segundo, a segunda a 3 metros por segundo em sentido oposto. Após a colisão, que é perfeitamente elástica, cada esfera inverte o sentido do movimento.",
+   "enunciado": "Sobre as rapidezes das esferas logo após essa colisão perfeitamente elástica entre corpos de massas iguais, é correto afirmar que elas:",
+   "alternativas": {
+    "a": "trocam de valor entre si, cada esfera passando a se mover com a rapidez que a outra tinha antes da colisão",
+    "b": "se igualam, ambas passando a se mover com a média aritmética das duas rapidezes que tinham antes da colisão descrita",
+    "c": "se anulam, ambas esferas permanecendo em repouso completo logo após o instante da colisão descrita",
+    "d": "dobram de valor, cada esfera passando a se mover com o dobro da rapidez que tinha antes da colisão",
+    "e": "permanecem inalteradas, cada esfera mantendo exatamente a mesma rapidez que tinha antes da colisão"
+   },
+   "resposta": "a",
+   "explicacao": "Numa colisão perfeitamente elástica entre corpos de massas iguais, as rapidezes se trocam entre os dois corpos: a esfera que se movia a 5 metros por segundo passa a se mover a 3 metros por segundo, e vice-versa, conservando ao mesmo tempo a quantidade de movimento total e a energia cinética total do sistema.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-364",
+   "texto_apoio": "Um vagão de 8 kg se move a 3 metros por segundo e colide com outro vagão de 4 kg, inicialmente em repouso. Após a colisão, os dois vagões permanecem grudados, movendo-se juntos com a mesma rapidez.",
+   "enunciado": "A rapidez conjunta dos dois vagões logo após essa colisão perfeitamente inelástica vale:",
+   "alternativas": {
+    "a": "1 metro por segundo",
+    "b": "2 metros por segundo",
+    "c": "3 metros por segundo",
+    "d": "4 metros por segundo",
+    "e": "6 metros por segundo"
+   },
+   "resposta": "b",
+   "explicacao": "Numa colisão perfeitamente inelástica, a quantidade de movimento total se conserva: m₁v₁ = (m₁ + m₂) × v_final. Logo, 8 × 3 = (8 + 4) × v_final, o que dá v_final = 24 ÷ 12 = 2 metros por segundo. Usar apenas a massa do vagão que colide, sem adicionar as duas massas, leva a 6 metros por segundo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-365",
+   "texto_apoio": "Uma mola ideal tem constante elástica de 200 N/m. Ao ser comprimida, ela exerce sobre um bloco uma força de 50 N.",
+   "enunciado": "A deformação sofrida pela mola nessa situação vale:",
+   "alternativas": {
+    "a": "0,25 cm",
+    "b": "2,5 cm",
+    "c": "4 cm",
+    "d": "25 cm",
+    "e": "40 cm"
+   },
+   "resposta": "d",
+   "explicacao": "Pela lei de Hooke, F = k × x, logo x = F ÷ k = 50 ÷ 200 = 0,25 m, que convertidos dão 25 cm. Um erro de posição decimal na conversão de metros para centímetros leva às demais opções.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "med-fisica-366",
+   "texto_apoio": "Uma mola ideal de constante elástica 400 N/m é comprimida em 0,1 m a partir de sua posição de equilíbrio.",
+   "enunciado": "A energia potencial elástica armazenada nessa mola comprimida vale:",
+   "alternativas": {
+    "a": "0,2 J",
+    "b": "40 J",
+    "c": "4 J",
+    "d": "20 J",
+    "e": "2 J"
+   },
+   "resposta": "e",
+   "explicacao": "A energia potencial elástica é dada por Eel = (k × x²) ÷ 2 = (400 × 0,1²) ÷ 2 = (400 × 0,01) ÷ 2 = 4 ÷ 2 = 2 J. Esquecer de elevar a deformação ao quadrado leva a 20 J; esquecer de dividir por dois leva a 4 J.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "fisica-moderna": [
@@ -21461,6 +21665,118 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Um cátion e um ânion são isoeletrônicos quando têm o mesmo número de elétrons; Na⁺ (10 elétrons) e F⁻ (10 elétrons) formam o par isoeletrônico NaF, já que ambos derivam de átomos vizinhos ao neônio na tabela periódica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-316",
+   "enunciado": "A datação por carbono-14 baseia-se no fato de que esse isótopo apresenta meia-vida de aproximadamente 5.730 anos. O carbono-14 e o carbono-12 têm o mesmo número atômico, mas números de massa diferentes. Essa diferença decorre de os dois:",
+   "alternativas": {
+    "a": "ocuparem posições distintas na tabela periódica, o que altera o comportamento de cada um deles nas combinações",
+    "b": "possuírem quantidades diferentes de nêutrons no núcleo, mantendo igual o número de prótons",
+    "c": "apresentarem número diferente de elétrons na camada de valência, o que modifica a massa total registrada",
+    "d": "terem se formado em processos distintos, o que resulta em variação da massa de cada partícula nuclear",
+    "e": "diferirem quanto à carga nuclear, propriedade que define a identidade química de cada elemento observado"
+   },
+   "resposta": "b",
+   "explicacao": "Isótopos de um mesmo elemento têm igual número atômico (prótons) e diferentes números de massa, porque variam na quantidade de nêutrons. O carbono-14 tem 6 prótons e 8 nêutrons; o carbono-12, 6 prótons e 6 nêutrons.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-317",
+   "enunciado": "O cloreto de sódio conduz corrente elétrica quando fundido, enquanto a sacarose, mesmo fundida, não conduz. A explicação está no tipo de ligação presente em cada substância, associada à diferença de eletronegatividade entre os elementos que as formam. Assim:",
+   "alternativas": {
+    "a": "ambas apresentam ligação covalente, e a diferença observada decorre do tamanho das partículas envolvidas",
+    "b": "o cloreto de sódio apresenta ligação metálica, com elétrons livres percorrendo a estrutura do material fundido",
+    "c": "a sacarose apresenta ligação iônica fraca, insuficiente para permitir a movimentação de carga no estado líquido",
+    "d": "o cloreto de sódio apresenta ligação iônica, e no estado fundido seus íons adquirem mobilidade e conduzem",
+    "e": "as duas substâncias apresentam ligação de hidrogênio, que responde pela condução em apenas um dos casos"
+   },
+   "resposta": "d",
+   "explicacao": "A grande diferença de eletronegatividade entre sódio e cloro produz ligação iônica. No estado sólido os íons ocupam posições fixas no retículo; fundidos, ganham mobilidade e conduzem corrente. A sacarose é molecular e não gera íons livres.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-318",
+   "enunciado": "As moléculas de dióxido de carbono e de água apresentam geometria molecular diferente: a primeira é linear e a segunda, angular. Embora as duas tenham ligações do tipo covalente entre átomos de eletronegatividade distinta, apenas a água é uma molécula polar. Isso ocorre porque:",
+   "alternativas": {
+    "a": "no dióxido de carbono os vetores de dipolo se anulam pela simetria da geometria linear",
+    "b": "as ligações presentes no dióxido de carbono apresentam caráter iônico, e não covalente, ao contrário do previsto",
+    "c": "a água possui maior número de átomos, o que eleva de forma direta a intensidade do momento de dipolo obtido",
+    "d": "o oxigênio e o carbono apresentam eletronegatividade idêntica, o que elimina a separação de carga na ligação",
+    "e": "a geometria angular reduz a distância entre os núcleos e por isso diminui a polaridade final da estrutura"
+   },
+   "resposta": "a",
+   "explicacao": "No CO₂ os dois dipolos das ligações têm mesma intensidade e sentidos opostos, e a simetria linear os anula: a molécula é apolar. Na água, a geometria angular impede o cancelamento, e o momento de dipolo resultante é diferente de zero.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-319",
+   "enunciado": "A água apresenta temperatura de ebulição bem mais alta que a do gás sulfídrico, embora os dois compostos tenham fórmulas semelhantes e o segundo possua maior massa. A explicação está nas forças intermoleculares presentes na água, que incluem:",
+   "alternativas": {
+    "a": "interações do tipo dipolo induzido, mais intensas por causa do maior volume ocupado pelas moléculas do composto",
+    "b": "forças de van der Waals de intensidade elevada, decorrentes da diferença de massa entre os dois compostos citados",
+    "c": "ligação de hidrogênio entre moléculas vizinhas, interação mais intensa que as presentes no gás sulfídrico",
+    "d": "ligação metálica entre os átomos de oxigênio, responsável pela coesão observada no estado líquido do material",
+    "e": "atração entre íons de cargas opostas, formados pela separação espontânea das moléculas no estado líquido"
+   },
+   "resposta": "c",
+   "explicacao": "A alta eletronegatividade do oxigênio e seu par de elétrons não ligantes permitem ligações de hidrogênio entre moléculas de água, bem mais intensas que as forças que atuam no H₂S. Romper essa rede exige mais energia, e a ebulição ocorre a temperatura maior.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-320",
+   "enunciado": "Ao percorrer um período da tabela periódica da esquerda para a direita, observa-se tendência de redução do raio atômico dos elementos, ainda que o número de elétrons aumente. Essa tendência se explica porque, ao longo do período:",
+   "alternativas": {
+    "a": "os elétrons acrescentados ocupam camadas cada vez mais internas, aproximando-se do núcleo de cada átomo",
+    "b": "a massa dos átomos aumenta e comprime a eletrosfera por efeito do acréscimo de partículas no núcleo",
+    "c": "a repulsão entre os elétrons da camada mais externa diminui de forma acentuada, o que reduz o volume ocupado pela eletrosfera",
+    "d": "o número de camadas permanece o mesmo enquanto a carga nuclear cresce, atraindo mais fortemente a eletrosfera",
+    "e": "os elementos passam a apresentar caráter metálico crescente, propriedade associada a átomos de menor volume"
+   },
+   "resposta": "d",
+   "explicacao": "Dentro de um período, os elétrons entram na mesma camada de valência enquanto o número de prótons aumenta. A carga nuclear maior atrai a eletrosfera com mais intensidade, e o raio atômico diminui.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-321",
+   "enunciado": "Um átomo neutro possui 17 prótons. Ao se combinar, ele tende a receber um elétron e atingir configuração eletrônica semelhante à de um gás nobre. Sobre esse elemento, é correto afirmar que ele pertence:",
+   "alternativas": {
+    "a": "à família dos metais alcalinos, com forte tendência a ceder elétrons em suas combinações químicas usuais",
+    "b": "à família dos halogênios, no terceiro período, e apresenta sete elétrons na camada de valência",
+    "c": "à família dos gases nobres, já que atinge estabilidade sem participar de combinações com outros elementos",
+    "d": "ao grupo dos metais de transição, com camada de valência incompleta e vários estados de combinação possíveis",
+    "e": "à família dos calcogênios, no segundo período, com seis elétrons disponíveis para as ligações que estabelece"
+   },
+   "resposta": "b",
+   "explicacao": "Com 17 prótons, a distribuição eletrônica termina em 3s² 3p⁵: sete elétrons na camada de valência e três camadas ocupadas. É o cloro, halogênio do terceiro período, que completa o octeto recebendo um elétron.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-322",
+   "enunciado": "Os metais conduzem bem a eletricidade e podem ser transformados em fios e lâminas sem se romper. Esse conjunto de propriedades é atribuído à ligação metálica, cuja característica, associada à baixa eletronegatividade desses elementos, é a presença de:",
+   "alternativas": {
+    "a": "pares de elétrons compartilhados de modo localizado entre dois átomos vizinhos da estrutura cristalina",
+    "b": "íons de cargas opostas dispostos em posições fixas de um retículo rígido e bem definido, sem mobilidade entre eles",
+    "c": "interações fracas entre moléculas neutras, que se deslocam com facilidade umas em relação às outras",
+    "d": "elétrons compartilhados entre átomos de eletronegatividade muito diferente, o que gera polos bem definidos",
+    "e": "cátions imersos em elétrons deslocalizados, que percorrem o retículo e permitem o deslizamento das camadas"
+   },
+   "resposta": "e",
+   "explicacao": "Na ligação metálica os elétrons de valência ficam deslocalizados por todo o retículo de cátions. Essa nuvem móvel explica a condução elétrica e permite que as camadas de cátions deslizem sob impacto sem que o material se rompa.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -25272,6 +25588,86 @@ window.QUESTION_BANKS = {
    "explicacao": "PET e PA têm densidades diferentes; ao mergulhar os fragmentos triturados em um líquido de densidade intermediária, o material menos denso flutua e o mais denso afunda — um processo de separação por densidade, do tipo flotação.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-311",
+   "enunciado": "O soro fisiológico usado em hospitais é uma solução aquosa em que o soluto é o cloreto de sódio, na concentração comum de 9 g/L. Um frasco de uso hospitalar contém 500 mL dessa solução. A massa de soluto dissolvida nesse frasco é de:",
+   "alternativas": {
+    "a": "0,45 g, valor obtido quando se considera que o volume do frasco corresponde a um décimo do volume de referência indicado",
+    "b": "1,8 g, resultado da divisão da concentração comum pelo volume do frasco hospitalar expresso em mililitros",
+    "c": "4,5 g, metade da massa que estaria dissolvida em um litro dessa mesma solução aquosa",
+    "d": "9,0 g, a mesma massa presente em um litro, já que a redução do volume não altera a quantidade de soluto",
+    "e": "18 g, o dobro da massa correspondente a um litro da solução, em razão da redução do volume do frasco"
+   },
+   "resposta": "c",
+   "explicacao": "Na concentração comum, C = m/V. Com C = 9 g/L e V = 0,5 L, tem-se m = 9 × 0,5 = 4,5 g. Metade do volume de referência carrega metade da massa de soluto dissolvida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-312",
+   "enunciado": "Em um laboratório, 50 mL de uma solução aquosa de sulfato de cobre a 40 g/L foram transferidos para um balão volumétrico, e o volume foi completado com água destilada até 200 mL. Após essa diluição, a concentração da solução obtida é de:",
+   "alternativas": {
+    "a": "10 g/L, pois a massa de soluto permanece a mesma enquanto o volume final se torna quatro vezes maior",
+    "b": "20 g/L, valor correspondente à metade da concentração inicial, proporção equivalente à do volume acrescentado ao balão",
+    "c": "40 g/L, já que o acréscimo de solvente não interfere na relação entre a massa dissolvida e o volume ocupado",
+    "d": "80 g/L, resultado do produto entre a concentração inicial e a razão entre os volumes medidos no procedimento",
+    "e": "160 g/L, valor que corresponde à concentração inicial multiplicada pelo fator de variação do volume final"
+   },
+   "resposta": "a",
+   "explicacao": "Na diluição, a massa de soluto não muda: C₁V₁ = C₂V₂. Assim, 40 × 50 = C₂ × 200, e C₂ = 10 g/L. Acrescentar solvente aumenta o volume e reduz a concentração na mesma proporção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-313",
+   "enunciado": "A solubilidade do nitrato de potássio em água é de 32 g por 100 g de água a 20 °C. Um estudante adicionou 50 g desse sal a 100 g de água nessa temperatura e agitou o sistema até que não houvesse mais dissolução. Ao final do procedimento, ele obteve:",
+   "alternativas": {
+    "a": "uma solução insaturada contendo os 50 g adicionados, já que a água ainda apresentava capacidade de receber mais material",
+    "b": "uma solução saturada com os 50 g dissolvidos, pois a agitação prolongada eleva a capacidade de dissolução do solvente",
+    "c": "duas fases líquidas distintas, cada uma com concentração diferente do material adicionado ao sistema pelo estudante",
+    "d": "uma solução supersaturada estável, formada pela adição de massa superior ao limite indicado para essa temperatura",
+    "e": "uma solução saturada com 32 g dissolvidos e 18 g de corpo de fundo depositados no recipiente"
+   },
+   "resposta": "e",
+   "explicacao": "A 20 °C, 100 g de água dissolvem no máximo 32 g do sal. Dos 50 g adicionados, 32 g formam a solução saturada e os 18 g restantes permanecem como corpo de fundo, sem se dissolver.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-314",
+   "enunciado": "Em regiões de inverno rigoroso, adiciona-se etilenoglicol à água do radiador dos veículos. O efeito buscado é o abaixamento da temperatura de congelamento do líquido, uma propriedade coligativa que também se manifesta na redução da pressão de vapor. Esse abaixamento ocorre porque a presença do soluto não volátil:",
+   "alternativas": {
+    "a": "eleva a agitação das partículas do solvente, o que desloca a temperatura em que as fases líquida e sólida do sistema passam a coexistir no radiador",
+    "b": "dificulta a organização das moléculas do solvente na estrutura cristalina do sólido, exigindo temperatura mais baixa",
+    "c": "aumenta a quantidade de calor liberada durante a mudança de estado do material presente no radiador",
+    "d": "reduz a massa de solvente disponível, alterando a proporção entre as substâncias que compõem a mistura",
+    "e": "modifica a natureza química do solvente e o transforma em substância de comportamento distinto do original"
+   },
+   "resposta": "b",
+   "explicacao": "As propriedades coligativas dependem da quantidade de partículas de soluto dispersas, não de sua natureza. O soluto não volátil interfere na organização do solvente na rede cristalina, e o congelamento passa a exigir temperatura menor.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-315",
+   "enunciado": "A dessalinização da água do mar por osmose reversa emprega uma membrana semipermeável e pressão aplicada sobre a água salgada. O processo permite obter água com baixo teor de soluto porque a membrana:",
+   "alternativas": {
+    "a": "retém as moléculas de água e deixa passar o material dissolvido, que é recolhido do outro lado do sistema",
+    "b": "promove a evaporação seletiva do solvente, que é depois condensado em compartimento separado do equipamento",
+    "c": "reage com o material dissolvido e o converte em substâncias insolúveis, que ficam depositadas na superfície",
+    "d": "deixa passar o solvente e retém o material dissolvido, quando a pressão aplicada supera a pressão osmótica",
+    "e": "separa a mistura pela diferença de densidade entre as porções mais concentradas e as mais diluídas do líquido"
+   },
+   "resposta": "d",
+   "explicacao": "Na osmose espontânea, o solvente migra da região menos concentrada para a mais concentrada. Aplicando pressão maior que a osmótica, o sentido se inverte: o solvente atravessa a membrana e o soluto fica retido.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "quimica-termoquimica-cinetica": [
@@ -28679,6 +29075,118 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Com \"nem um nem outro\", a norma prefere o singular, porque a negação isola os elementos em vez de somá-los. É o comportamento inverso ao de \"um e outro\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-151",
+   "enunciado": "Considere o período: \"Chegaram atrasados o coordenador e sua equipe.\" A forma verbal empregada obedece à regra de concordância verbal segundo a qual:",
+   "alternativas": {
+    "a": "o verbo permanece no singular quando o sujeito composto vem posposto, acompanhando o núcleo mais próximo",
+    "b": "o verbo vai ao plural por causa do sujeito composto, ainda que ele apareça depois da forma verbal",
+    "c": "o verbo concorda com a expressão que encabeça o período, o que determina a flexão de número adotada",
+    "d": "a concordância se faz com o termo que caracteriza o sujeito e comanda a flexão empregada na frase",
+    "e": "trata-se de sujeito indeterminado, situação em que o verbo assume a terceira pessoa do plural na escrita"
+   },
+   "resposta": "b",
+   "explicacao": "Com sujeito composto posposto ao verbo, a norma admite o plural, que é a forma preferida, ou a concordância com o núcleo mais próximo. Em \"Chegaram atrasados o coordenador e sua equipe\", o plural retoma os dois núcleos do sujeito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-152",
+   "enunciado": "Na frase \"Havia muitos candidatos na sala\", o verbo permanece no singular. Se \"haver\" fosse substituído por \"existir\", a forma adequada seria \"Existiam muitos candidatos na sala\". A diferença de concordância se explica porque:",
+   "alternativas": {
+    "a": "\"existir\" é verbo impessoal e por isso não admite flexão de número em construções desse tipo",
+    "b": "\"haver\" exige complemento no singular, o que impede a flexão da forma verbal em contextos semelhantes",
+    "c": "os dois verbos são impessoais, e a diferença de flexão decorre de preferência ligada ao registro formal",
+    "d": "\"haver\" no sentido de existir é impessoal e não tem sujeito, enquanto \"existir\" concorda com seu sujeito",
+    "e": "\"existir\" apresenta sujeito indeterminado, situação em que a flexão de plural se torna a escolha adequada"
+   },
+   "resposta": "d",
+   "explicacao": "\"Haver\" no sentido de existir é impessoal: não tem sujeito, e \"muitos candidatos\" é objeto direto, então o verbo fica na terceira pessoa do singular. \"Existir\" tem sujeito, e com ele concorda em número.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-153",
+   "enunciado": "Em placas comerciais é comum ler \"Vende-se casas\". Pela norma-padrão, a forma adequada é \"Vendem-se casas\", porque nessa construção:",
+   "alternativas": {
+    "a": "o \"se\" funciona como índice de indeterminação do sujeito, o que exige o verbo na terceira pessoa do singular",
+    "b": "o \"se\" indica reciprocidade entre os elementos citados, o que dispensa a flexão de número no verbo",
+    "c": "o \"se\" é pronome reflexivo e \"casas\" recebe a ação praticada, sem interferir na flexão do verbo",
+    "d": "o \"se\" integra a forma verbal e o conjunto permanece invariável, à maneira das construções cristalizadas",
+    "e": "o \"se\" é partícula apassivadora e \"casas\" é o sujeito, com o qual o verbo concorda em número"
+   },
+   "resposta": "e",
+   "explicacao": "\"Vendem-se casas\" equivale a \"Casas são vendidas\": o \"se\" é partícula apassivadora e \"casas\" é o sujeito paciente. Como o sujeito está no plural, o verbo concorda com ele e vai ao plural.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-154",
+   "enunciado": "Uma servidora anexou duas planilhas a um e-mail e encerrou a mensagem com uma fórmula de agradecimento. De acordo com a concordância nominal, a redação adequada é:",
+   "alternativas": {
+    "a": "\"Seguem anexo as duas planilhas\" e \"Muito obrigado\", formas que permanecem invariáveis nesse contexto",
+    "b": "\"Seguem anexo as duas planilhas\" e \"Muito obrigada\", ajustando ao gênero apenas a palavra final da mensagem",
+    "c": "\"Seguem anexas as duas planilhas\" e \"Muito obrigado\", já que a segunda expressão permanece na forma masculina nas situações de cortesia formal",
+    "d": "\"Seguem anexas as duas planilhas\" e \"Muito obrigada\", pois as duas palavras concordam com os termos a que se ligam",
+    "e": "\"Seguem em anexo as duas planilhas\" e \"Muito obrigado\", construções fixas da correspondência oficial escrita"
+   },
+   "resposta": "d",
+   "explicacao": "\"Anexo\" é adjetivo e concorda com \"planilhas\": anexas. \"Obrigado\" também concorda com quem agradece; dita por uma mulher, a forma é \"obrigada\". As duas palavras variam em gênero e número.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-155",
+   "enunciado": "Na frase \"A maioria dos manifestantes permaneceu na praça até o fim da tarde\", a forma verbal está no singular. Sobre essa construção, a norma admite que:",
+   "alternativas": {
+    "a": "apenas o singular seja empregado, pois o núcleo do sujeito é \"maioria\", com o qual o verbo concorda",
+    "b": "somente o plural seja aceito, uma vez que a noção de pluralidade do conjunto se sobrepõe à forma do núcleo do sujeito",
+    "c": "tanto o singular quanto o plural sejam empregados, já que o verbo pode concordar com o núcleo ou com o especificador",
+    "d": "a flexão dependa da posição do sujeito na frase, sendo o plural reservado às construções em que ele vem antes",
+    "e": "a concordância se faça com o adjunto que encerra o período, elemento que fixa o número da forma verbal"
+   },
+   "resposta": "c",
+   "explicacao": "Com expressões partitivas como \"a maioria de\", \"grande parte de\" e \"metade de\" seguidas de termo no plural, a norma aceita as duas concordâncias: com o núcleo singular (\"permaneceu\") ou com o especificador plural (\"permaneceram\").",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-156",
+   "enunciado": "Considere: \"Ela estava meio cansada\" e \"Havia bastantes motivos para a demora\". Nas duas frases a concordância nominal foi respeitada porque:",
+   "alternativas": {
+    "a": "\"meio\" permanece invariável no sentido de \"um pouco\", e \"bastantes\" concorda em número com o termo a que se liga",
+    "b": "\"meio\" concorda em gênero com o termo seguinte, e \"bastantes\" permanece invariável nessa construção da norma escrita",
+    "c": "as duas palavras permanecem invariáveis, sem flexão de número, em construções desse tipo",
+    "d": "as duas palavras concordam com o termo que acompanham, recebendo a flexão de plural correspondente",
+    "e": "\"meio\" concorda com o sujeito simples da oração, e \"bastantes\" acompanha a flexão do verbo anterior"
+   },
+   "resposta": "a",
+   "explicacao": "\"Meio\" com sentido de \"um pouco\" não varia: \"meio cansada\". Já \"bastantes\" acompanha um nome e por isso concorda em número com ele: \"bastantes motivos\". A concordância nominal separa os dois casos pela função que cada palavra exerce.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-157",
+   "enunciado": "Na frase \"Foram entregues aos moradores as chaves dos novos apartamentos\", a concordância do particípio se faz com:",
+   "alternativas": {
+    "a": "o termo \"aos moradores\", que recebe a ação expressa pela locução verbal empregada no período",
+    "b": "\"as chaves\", sujeito da oração na voz passiva, com o qual o particípio concorda em gênero e número",
+    "c": "o agente da ação, elemento que permanece subentendido no período e comanda a flexão do particípio",
+    "d": "o verbo auxiliar, que fixa a forma do particípio de modo independente dos demais termos da oração",
+    "e": "nenhum termo específico, já que o particípio em locuções verbais permanece invariável na norma escrita"
+   },
+   "resposta": "b",
+   "explicacao": "Na voz passiva analítica, o particípio concorda com o sujeito paciente. O sujeito é \"as chaves\", feminino plural, e por isso a forma é \"entregues\", assim como o auxiliar vai ao plural: \"foram\".",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -35044,6 +35552,210 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-211",
+   "texto_apoio": "A cidade decidiu proibir carros no centro histórico aos domingos. Isso reduziu a poluição sonora na região em quase 40%, segundo medições da prefeitura.",
+   "enunciado": "No trecho, o elemento coesivo \"isso\" retoma:",
+   "alternativas": {
+    "a": "a decisão de proibir carros no centro histórico aos domingos",
+    "b": "a redução da poluição sonora medida pela prefeitura na região",
+    "c": "a prefeitura, mencionada apenas na segunda oração do trecho",
+    "d": "os quase 40 por cento citados ao final da segunda oração",
+    "e": "o centro histórico da cidade, mencionado na primeira oração"
+   },
+   "resposta": "a",
+   "explicacao": "\"Isso\" é um pronome demonstrativo que retoma toda a proposição anterior — a proibição de carros aos domingos —, e não um único termo isolado. É essa proibição, e não a poluição ou a prefeitura, que causa a redução medida na segunda oração.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-212",
+   "texto_apoio": "O laboratório investiu pesado em equipamentos novos. Portanto, a expectativa da diretoria é de que a produção dobre até o fim do ano.",
+   "enunciado": "O conectivo \"portanto\", no trecho, estabelece entre as duas orações uma relação de:",
+   "alternativas": {
+    "a": "oposição, indicando que a segunda oração contraria o que foi dito na primeira",
+    "b": "conclusão, indicando que a segunda oração decorre logicamente da primeira",
+    "c": "adição, indicando que a segunda oração apenas soma uma informação nova à primeira",
+    "d": "comparação, indicando que as duas orações descrevem situações equivalentes entre si",
+    "e": "finalidade, indicando que a primeira oração existe com o propósito descrito na segunda"
+   },
+   "resposta": "b",
+   "explicacao": "\"Portanto\" é um conectivo conclusivo: introduz uma consequência lógica do que foi afirmado antes. O investimento em equipamentos é apresentado como a razão pela qual a diretoria espera o aumento de produção — uma relação de conclusão, não de oposição, adição ou comparação.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-213",
+   "texto_apoio": "Embora o novo medicamento tenha reduzido os sintomas na maioria dos pacientes testados, a equipe de pesquisa decidiu adiar o pedido de aprovação por mais seis meses.",
+   "enunciado": "O conectivo \"embora\", no trecho, estabelece entre as duas orações uma relação de:",
+   "alternativas": {
+    "a": "condição, indicando que a segunda oração só se realiza caso a primeira oração se confirme antes",
+    "b": "causa, indicando que a primeira oração é o motivo direto que explica o conteúdo da segunda oração",
+    "c": "concessão, indicando que a segunda oração ocorre apesar do que se esperaria a partir da primeira",
+    "d": "adição, indicando que a segunda oração apenas soma uma informação nova e independente à primeira",
+    "e": "conclusão, indicando que a segunda oração é a consequência lógica esperada a partir da primeira"
+   },
+   "resposta": "c",
+   "explicacao": "\"Embora\" introduz uma concessão: aponta um fato (a redução dos sintomas) que tornaria esperado um desfecho diferente do que de fato ocorre (o adiamento do pedido). É essa quebra de expectativa, e não uma causa direta ou uma condição, que o conectivo assinala.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-214",
+   "texto_apoio": "Nas últimas três décadas, o consumo de água em grandes centros urbanos brasileiros cresceu de forma constante, impulsionado pelo aumento populacional e pela expansão do saneamento básico. Diante desse cenário, cidades ao redor do mundo vêm adotando tecnologias de reúso e monitoramento em tempo real do consumo residencial. No Brasil, essas iniciativas ainda são pontuais, restritas a projetos-piloto em poucas capitais.",
+   "enunciado": "No texto, o parágrafo inicial tem a função de:",
+   "alternativas": {
+    "a": "descrever detalhadamente uma tecnologia específica de monitoramento residencial de consumo de água",
+    "b": "concluir a discussão iniciada em parágrafos anteriores sobre tecnologias de reúso de água tratada",
+    "c": "contrapor diretamente o que será apresentado ao longo do restante inteiro do texto",
+    "d": "apresentar o crescimento do consumo de água como pano de fundo para o problema discutido em seguida",
+    "e": "anunciar a conclusão a que o texto chegará antes mesmo de apresentar dado ou contexto relevante algum"
+   },
+   "resposta": "d",
+   "explicacao": "O parágrafo inicial estabelece o contexto — o crescimento do consumo de água — sobre o qual o restante do texto se apoia para introduzir o tema das tecnologias de reúso e monitoramento, funcionando como pano de fundo, não como conclusão ou oposição ao que vem a seguir.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-215",
+   "texto_apoio": "O projeto de lei tramitou por quatro anos no Congresso, passando por dezenas de emendas e duas rejeições em comissões temáticas. Superadas essas etapas, o texto finalmente foi votado e aprovado em plenário, encerrando um dos processos legislativos mais longos da década.",
+   "enunciado": "No texto, o parágrafo final tem a função de:",
+   "alternativas": {
+    "a": "abrir um novo tópico, totalmente independente do processo de tramitação relatado anteriormente",
+    "b": "introduzir uma objeção contrária à aprovação do projeto de lei discutido ao longo do texto",
+    "c": "apresentar dados estatísticos inéditos sobre a frequência de rejeições em comissões temáticas do Congresso",
+    "d": "contradizer a informação apresentada anteriormente sobre o número de emendas ao projeto de lei",
+    "e": "encerrar a narrativa da tramitação, marcando o desfecho de um processo cujas etapas foram descritas antes"
+   },
+   "resposta": "e",
+   "explicacao": "O parágrafo final fecha a narrativa iniciada antes: depois de descrever as etapas da tramitação, encerra o texto marcando o desfecho — a aprovação em plenário —, sem introduzir objeção nova, dado inédito ou tópico independente do que já vinha sendo tratado.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-216",
+   "texto_apoio": "O texto começa descrevendo o cotidiano de uma pequena cooperativa de reciclagem numa periferia urbana. Em seguida, amplia o foco para mostrar como cooperativas semelhantes se espalharam pelo país. Por fim, discute os desafios legais que essas cooperativas enfrentam para formalizar sua atividade.",
+   "enunciado": "A progressão temática descrita, que parte de um caso específico para um panorama mais amplo e termina num problema estrutural, segue uma organização:",
+   "alternativas": {
+    "a": "do particular para o geral, encerrando com uma reflexão sobre um obstáculo comum a esse panorama mais amplo",
+    "b": "cronológica, organizada estritamente pela ordem temporal em que cada cooperativa foi fundada no país",
+    "c": "comparativa, contrapondo ponto a ponto duas cooperativas específicas mencionadas no desenvolvimento inteiro do texto descrito",
+    "d": "circular, retornando ao final exatamente ao ponto de partida descrito no início do texto apresentado",
+    "e": "espacial, organizada apenas pela distância geográfica entre as cooperativas mencionadas ao longo do texto"
+   },
+   "resposta": "a",
+   "explicacao": "A progressão vai do caso específico (uma cooperativa) para o geral (o fenômeno espalhado pelo país) e termina num problema estrutural (os desafios legais) — organização do particular para o geral, e não cronológica, comparativa, circular ou puramente espacial.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-217",
+   "texto_apoio": "A prefeitura reduziu o intervalo entre os ônibus da linha expressa. Como resultado, o número de passageiros na linha cresceu 22% em apenas dois meses.",
+   "enunciado": "Entre as duas orações do trecho, a expressão \"como resultado\" estabelece uma relação de:",
+   "alternativas": {
+    "a": "comparação, em que duas situações equivalentes são postas lado a lado sem qualquer relação de causa envolvida",
+    "b": "causa e efeito, em que a redução do intervalo entre ônibus explica o crescimento do número de passageiros",
+    "c": "oposição, em que a segunda oração contraria diretamente a expectativa criada pela primeira oração do trecho",
+    "d": "condição, em que o crescimento do número de passageiros deveria necessariamente ocorrer antes da redução do intervalo",
+    "e": "adição, em que a segunda oração apenas soma um dado novo e independente sem qualquer relação com a primeira"
+   },
+   "resposta": "b",
+   "explicacao": "\"Como resultado\" marca explicitamente uma relação de causa e efeito: a redução do intervalo entre ônibus (causa) é apresentada como o que explica o crescimento do número de passageiros (efeito), não uma simples comparação, oposição, condição ou adição de dados.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-218",
+   "texto_apoio": "Na década de 1980, a empresa vendia exclusivamente para o mercado interno, com uma linha de produtos reduzida. Hoje, mais de 60% de sua receita vem de exportações, e o catálogo inclui centenas de itens diferentes.",
+   "enunciado": "Entre a situação da empresa na década de 1980 e a situação atual, descrita no texto, há uma relação de:",
+   "alternativas": {
+    "a": "condição, em que a situação atual da empresa só se tornaria possível caso a situação de 1980 se repetisse novamente",
+    "b": "causa e efeito, em que a situação da década de 1980 é apresentada como o motivo direto da situação atual da empresa",
+    "c": "contraste, evidenciado pela oposição entre um mercado restrito no passado e um mercado ampliado no presente",
+    "d": "semelhança, evidenciada pela permanência das mesmas características comerciais da empresa ao longo de todo o período",
+    "e": "finalidade, em que a situação de 1980 existiria com o propósito específico de produzir a situação descrita no presente"
+   },
+   "resposta": "c",
+   "explicacao": "O texto contrapõe dois momentos opostos da empresa: mercado restrito e catálogo reduzido no passado versus mercado ampliado e catálogo extenso no presente — uma relação de contraste, marcada pela oposição entre as duas situações, não de causa, condição, semelhança ou finalidade.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-219",
+   "texto_apoio": "O rio A tem vazão média de 1.200 metros cúbicos por segundo e nasce numa região de chuvas abundantes o ano todo. O rio B, mais curto, tem vazão média de apenas 90 metros cúbicos por segundo e atravessa uma região de chuvas concentradas em poucos meses do ano.",
+   "enunciado": "A comparação entre os dois rios, estabelecida no texto, é construída principalmente com base:",
+   "alternativas": {
+    "a": "no uso econômico predominante de cada rio pelas populações ribeirinhas que vivem próximas às suas margens",
+    "b": "no comprimento total de cada rio e na quantidade de afluentes que cada um deles recebe ao longo do percurso",
+    "c": "na profundidade média de cada rio e na velocidade da correnteza observada em pontos específicos do curso",
+    "d": "na vazão média e no regime de chuvas da região por onde cada rio passa ao longo do seu curso",
+    "e": "na temperatura média da água de cada rio ao longo das quatro estações do ano na região por onde passam"
+   },
+   "resposta": "d",
+   "explicacao": "O texto compara os dois rios por dois critérios explícitos: a vazão média (1.200 contra 90 metros cúbicos por segundo) e o regime de chuvas da região de cada um (abundante o ano todo contra concentrado em poucos meses) — não por comprimento, profundidade, uso econômico ou temperatura.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-220",
+   "texto_apoio": "Uma multa é uma sanção pecuniária aplicada como punição por uma infração já cometida. Um tributo, por sua vez, é uma cobrança compulsória vinculada a uma atividade estatal ou à simples manifestação de capacidade econômica do contribuinte, sem qualquer natureza punitiva.",
+   "enunciado": "O que distingue, segundo o texto, uma multa de um tributo é, principalmente, que a multa:",
+   "alternativas": {
+    "a": "é recolhida em periodicidade fixa, enquanto o tributo é cobrado apenas uma única vez por fato gerador ocorrido",
+    "b": "é sempre de valor mais alto do que o tributo cobrado numa mesma situação de infração cometida pelo contribuinte",
+    "c": "é cobrada apenas de pessoas físicas, enquanto o tributo é cobrado exclusivamente de pessoas jurídicas no país",
+    "d": "não pode ser contestada judicialmente, ao contrário do tributo, que admite recurso administrativo ou judicial",
+    "e": "tem natureza punitiva, decorrente de uma infração, enquanto o tributo não tem qualquer caráter de punição"
+   },
+   "resposta": "e",
+   "explicacao": "O texto distingue os dois conceitos por sua natureza: a multa é punitiva, decorrente de uma infração cometida; o tributo não tem caráter de punição, estando ligado a uma atividade estatal ou à capacidade econômica do contribuinte. As demais alternativas atribuem ao texto distinções que ele não estabelece.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-221",
+   "texto_apoio": "A startup lançou um aplicativo de transporte compartilhado em três capitais. Essa iniciativa atraiu a atenção de investidores internacionais interessados no mercado de mobilidade urbana emergente.",
+   "enunciado": "No trecho, o elemento coesivo \"essa iniciativa\" retoma:",
+   "alternativas": {
+    "a": "o lançamento do aplicativo de transporte compartilhado nas três capitais mencionadas",
+    "b": "os investidores internacionais interessados no mercado de mobilidade urbana emergente",
+    "c": "o mercado de mobilidade urbana emergente, mencionado apenas ao final do trecho",
+    "d": "as três capitais onde o aplicativo de transporte compartilhado foi lançado pela startup",
+    "e": "a atenção despertada entre investidores, mencionada na segunda oração do trecho"
+   },
+   "resposta": "a",
+   "explicacao": "\"Essa iniciativa\" é um elemento coesivo que retoma toda a ação descrita na primeira oração — o lançamento do aplicativo nas três capitais —, e não os investidores, o mercado ou as próprias capitais isoladamente.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
+   "id": "dir-interpretacao-texto-222",
+   "texto_apoio": "O texto se organiza em três blocos: primeiro, expõe o problema da evasão escolar no ensino médio; em seguida, apresenta dados comparativos entre diferentes regiões do país; por fim, descreve políticas públicas já testadas para reduzir esse problema.",
+   "enunciado": "A organização textual descrita no trecho segue a estrutura:",
+   "alternativas": {
+    "a": "solução, problema e dados comparativos, numa progressão que antecipa a resposta antes mesmo de expor a questão",
+    "b": "problema, dados comparativos e soluções já testadas, numa progressão que vai da exposição à resposta prática",
+    "c": "dados comparativos, solução e problema, numa progressão que parte do resultado numérico para o questionamento",
+    "d": "problema, solução e dados comparativos, numa progressão que trata os números como comentário final e não central",
+    "e": "solução, dados comparativos e problema, numa progressão inversa à ordem lógica de uma exposição bem construída"
+   },
+   "resposta": "b",
+   "explicacao": "O texto segue exatamente a ordem descrita: primeiro expõe o problema, depois apresenta dados comparativos entre regiões e, por fim, descreve as soluções testadas — uma progressão da exposição do problema até a resposta prática, e não outra ordem entre esses três blocos.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-estrutura-coesao",
    "id": "med-interpretacao-texto-134",
    "texto_apoio": "\"O enfermeiro entregou o prontuário ao residente. Ele havia anotado a intercorrência da madrugada.\"",
    "enunciado": "O problema de coesão presente no segundo período consiste em:",
@@ -40814,6 +41526,86 @@ window.QUESTION_BANKS = {
    "explicacao": "Nos dois romances, a militância política coletiva (a luta de esquerda em Caminho de pedras e o contexto da ditadura em As meninas) se entrelaça com a esfera privada e cotidiana das personagens femininas, que desafiam padrões sociais estabelecidos tanto na vida pública quanto na íntima.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-313",
+   "enunciado": "Em 1928, Oswald de Andrade publicou um manifesto cuja proposta central era deglutir criticamente a cultura estrangeira para produzir algo novo e brasileiro, em vez de copiá-la ou recusá-la em bloco. Esse manifesto é:",
+   "alternativas": {
+    "a": "o Manifesto Regionalista, que defendia o retorno às formas literárias praticadas antes da Semana de Arte Moderna",
+    "b": "o Manifesto Futurista, de origem italiana, adotado sem alterações pelos escritores brasileiros do mesmo período",
+    "c": "o Manifesto Antropófago, que propõe devorar a influência externa e transformá-la em produto próprio",
+    "d": "o Manifesto Verde-Amarelo, que recusava contribuições externas em nome de uma tradição estritamente nacional",
+    "e": "o Manifesto Concretista, que reorganizou a produção poética brasileira a partir da experimentação com o espaço"
+   },
+   "resposta": "c",
+   "explicacao": "O Manifesto Antropófago, de Oswald de Andrade, retoma a antropofagia indígena como metáfora: a cultura estrangeira não é rejeitada nem imitada, mas devorada e reelaborada em produto brasileiro. É um dos textos centrais da primeira fase do modernismo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-314",
+   "enunciado": "Publicado em 1928, o livro de Mário de Andrade apresenta um protagonista descrito como herói sem caráter definido, que percorre o país reunindo lendas, falares regionais e episódios de origens diversas. Essa obra é:",
+   "alternativas": {
+    "a": "Vidas Secas, romance que acompanha o deslocamento de uma família pelo sertão em busca de melhores condições",
+    "b": "Macunaíma, rapsódia que reúne mitos e falares de várias regiões num protagonista contraditório",
+    "c": "Iracema, narrativa que constrói a origem do povo brasileiro a partir do encontro entre indígenas e portugueses",
+    "d": "Os Sertões, relato que combina observação científica e reconstituição do conflito ocorrido no interior baiano",
+    "e": "Grande Sertão: Veredas, obra que reelabora a fala do interior mineiro na travessia narrada por um ex-jagunço"
+   },
+   "resposta": "b",
+   "explicacao": "Macunaíma, de Mário de Andrade, é chamada pelo autor de rapsódia por costurar lendas e falares de regiões diferentes numa mesma narrativa. O protagonista sem caráter fixo encarna o projeto modernista de compor uma identidade nacional feita de contradições.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-315",
+   "enunciado": "O romance de 1938 de Graciliano Ramos acompanha uma família de retirantes e a cachorra Baleia em deslocamento pelo sertão nordestino. A obra integra a chamada geração de 30, cuja produção se caracteriza:",
+   "alternativas": {
+    "a": "pela retomada dos modelos clássicos de composição, com atenção rigorosa à forma herdada da tradição europeia",
+    "b": "pelo tratamento idealizado da paisagem nacional, tomada como cenário de aventuras protagonizadas por heróis",
+    "c": "pela investigação de temas urbanos e cosmopolitas, com foco na experiência individual de personagens isolados",
+    "d": "pela abordagem crítica de problemas sociais e regionais brasileiros, em linguagem seca e sem ornamentos",
+    "e": "pela experimentação radical com a materialidade gráfica do texto e o abandono da estrutura convencional"
+   },
+   "resposta": "d",
+   "explicacao": "Vidas Secas pertence à segunda fase do modernismo, o romance de 30, marcado pela denúncia social e pelo regionalismo crítico. Graciliano Ramos leva ao extremo a economia de linguagem, e a obra chega a dar acesso à consciência da cachorra Baleia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-316",
+   "enunciado": "A segunda fase do modernismo brasileiro, iniciada nos anos 1930, consolidou uma poesia que incorporou a linguagem coloquial e temas do cotidiano sem abrir mão do rigor de composição. Dois nomes centrais dessa produção são:",
+   "alternativas": {
+    "a": "Carlos Drummond de Andrade e Manuel Bandeira, que exploraram o cotidiano e a fala corrente na poesia",
+    "b": "Gregório de Matos e Bento Teixeira, responsáveis pela produção poética dos primeiros séculos da colônia",
+    "c": "Olavo Bilac e Raimundo Correia, ligados ao culto da forma fixa e à impessoalidade no tratamento dos temas",
+    "d": "Casimiro de Abreu e Fagundes Varela, marcados pelo subjetivismo e pela recorrência de temas melancólicos",
+    "e": "Cruz e Sousa e Alphonsus de Guimaraens, associados à musicalidade e ao uso de imagens de caráter sugestivo"
+   },
+   "resposta": "a",
+   "explicacao": "A geração de 30 tem em Carlos Drummond de Andrade e Manuel Bandeira dois de seus maiores poetas. Ambos incorporam a fala corrente e o assunto cotidiano à poesia, mas sem a informalidade programática da primeira fase modernista.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-317",
+   "enunciado": "Publicado em 1955, o poema dramático de João Cabral de Melo Neto acompanha a viagem de um retirante que desce o rio Capibaribe rumo ao litoral, encontrando a morte em várias formas até presenciar um nascimento. Trata-se de:",
+   "alternativas": {
+    "a": "Cobra Norato, poema que reelabora lendas amazônicas na composição de uma viagem de caráter fantástico",
+    "b": "Vidas Secas, narrativa em prosa sobre a travessia de uma família de trabalhadores pelo interior nordestino",
+    "c": "Canaã, romance que trata da chegada de imigrantes europeus a uma região de colonização no Espírito Santo",
+    "d": "O Quinze, romance que retrata os efeitos de uma seca severa sobre a população do interior cearense",
+    "e": "Morte e Vida Severina, auto de natal pernambucano que acompanha a descida do retirante rumo ao Recife"
+   },
+   "resposta": "e",
+   "explicacao": "Morte e Vida Severina, de João Cabral de Melo Neto, é um auto de natal pernambucano. O retirante Severino desce o Capibaribe fugindo da seca e encontra sucessivas mortes até o nascimento final, que devolve algum sentido à travessia.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "literatura-teoria-analise": [
@@ -42736,6 +43528,210 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Editoras independentes, coletivos, saraus e circulação digital baixaram a barreira de entrada. Sem um centro que defina o que vale, a pluralidade deixa de ser exceção e passa a ser a forma do período.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-301",
+   "texto_apoio": "\"Ela não sabia que a espreitava a pergunta essencial: 'existo?'.\" (trecho representativo do estilo de romances contemporâneos centrados numa personagem simples diante da própria existência.)",
+   "enunciado": "Esse tipo de narrativa, marcada pela introspecção de uma personagem comum diante de perguntas existenciais, é característica da obra de:",
+   "alternativas": {
+    "a": "um autor que privilegia o suspense policial com reviravoltas centradas na resolução de um crime específico",
+    "b": "um cronista que retrata com humor leve o cotidiano da classe média urbana em crônicas de jornal semanais",
+    "c": "uma escritora voltada principalmente à reconstituição histórica minuciosa de eventos políticos e batalhas do século 19 brasileiro",
+    "d": "uma autora que investiga o instante de epifania de personagens simples diante da própria condição, como em \"A Hora da Estrela\"",
+    "e": "uma poeta que constrói poemas visuais organizados espacialmente na página, sem qualquer narrativa em prosa"
+   },
+   "resposta": "d",
+   "explicacao": "A obra descrita evoca o estilo de Clarice Lispector, que investiga o instante de epifania e a interioridade de personagens simples diante da própria existência — Macabéa, em \"A Hora da Estrela\", é o exemplo mais citado. As demais alternativas descrevem outros perfis de escrita, sem relação com esse tipo de introspecção existencial.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-302",
+   "texto_apoio": "\"Viver é muito perigoso...\" Um narrador sertanejo reconta, em linguagem inventiva e repleta de neologismos, sua trajetória entre o amor e a violência do sertão.",
+   "enunciado": "Esse romance, considerado um marco da prosa brasileira do século 20 pela reinvenção da linguagem, é:",
+   "alternativas": {
+    "a": "um ensaio sociológico sobre a formação econômica das regiões produtoras de café do país",
+    "b": "um romance urbano centrado na rotina de um funcionário público das grandes capitais do país",
+    "c": "uma coletânea de crônicas jornalísticas publicadas semanalmente ao longo de uma década",
+    "d": "uma peça teatral escrita para ser encenada apenas em espaços públicos abertos durante festivais de teatro de rua no interior",
+    "e": "\"Grande Sertão: Veredas\", narrado por Riobaldo, com a ambiguidade em torno da figura de Diadorim"
+   },
+   "resposta": "e",
+   "explicacao": "\"Grande Sertão: Veredas\" é narrado por Riobaldo, e reinventa a linguagem através de neologismos e uma sintaxe própria, com a ambiguidade de gênero em torno de Diadorim como um dos eixos centrais da trama. As demais alternativas descrevem gêneros textuais distintos, sem relação com o romance descrito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-303",
+   "texto_apoio": "Moradora de uma favela paulistana, uma catadora de papel registrou em cadernos o cotidiano de fome e humilhação vivido por sua família, texto publicado décadas antes de o termo \"literatura marginal\" se consolidar.",
+   "enunciado": "Essa autora e seu diário, hoje lidos como marco pioneiro da escrita de testemunho popular no Brasil, são, respectivamente:",
+   "alternativas": {
+    "a": "uma poeta acadêmica e um livro de sonetos publicado por uma editora universitária de grande prestígio",
+    "b": "Carolina Maria de Jesus e \"Quarto de Despejo\", diário que registra a fome e a humilhação vividas na favela",
+    "c": "uma jornalista estrangeira e uma reportagem publicada originalmente em revista de circulação internacional",
+    "d": "uma romancista de família tradicional e um romance histórico ambientado no período colonial brasileiro",
+    "e": "uma dramaturga contemporânea e uma peça de teatro encenada apenas uma vez em festival regional"
+   },
+   "resposta": "b",
+   "explicacao": "Carolina Maria de Jesus escreveu \"Quarto de Despejo\" a partir de cadernos onde registrava o cotidiano de fome na favela do Canindé, em São Paulo — hoje lido como marco pioneiro da escrita de testemunho popular, décadas antes da consolidação do termo \"literatura marginal\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-304",
+   "texto_apoio": "Uma autora contemporânea cunhou um termo próprio para descrever a escrita de mulheres negras que narram, a partir da própria experiência, vivências historicamente silenciadas pela literatura tradicional.",
+   "enunciado": "Esse termo, criado pela própria autora para nomear essa prática de escrita, é:",
+   "alternativas": {
+    "a": "autobiografia oficial, gênero reservado a figuras públicas de reconhecimento estabelecido pela crítica literária",
+    "b": "memorialismo clássico, tradição associada a relatos de viajantes europeus sobre o território brasileiro colonial",
+    "c": "escrevivência, termo de Conceição Evaristo para a escrita que nasce da experiência vivida por mulheres negras",
+    "d": "ficção científica, gênero centrado em especulações tecnológicas sobre sociedades e futuros hipotéticos",
+    "e": "romance de formação, gênero centrado no amadurecimento de um protagonista ao longo de vários anos"
+   },
+   "resposta": "c",
+   "explicacao": "Escrevivência é o termo cunhado por Conceição Evaristo para nomear uma escrita que nasce da vivência de mulheres negras, misturando experiência pessoal e coletiva à narrativa literária. As demais alternativas nomeiam outros gêneros ou tradições, sem relação com o conceito criado pela autora.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-305",
+   "texto_apoio": "Um romance recente, ambientado numa fazenda de cacau na Bahia rural, narra a vida de duas irmãs cujos destinos se cruzam com práticas de resistência ligadas à religiosidade afro-brasileira.",
+   "enunciado": "Esse romance, vencedor de prêmios literários e traduzido para diversos idiomas nos últimos anos, é:",
+   "alternativas": {
+    "a": "uma novela epistolar composta inteiramente por cartas trocadas entre dois personagens ao longo de uma guerra que dura muitos anos inteiros",
+    "b": "um romance histórico centrado nas expedições portuguesas do século 16 pela costa nordestina do país",
+    "c": "uma coletânea de contos policiais ambientados no submundo urbano do Rio de Janeiro dos anos 1970",
+    "d": "\"Torto Arado\", de autoria contemporânea, que narra a vida de duas irmãs numa fazenda baiana marcada pela religiosidade de terreiro",
+    "e": "um livro de memórias de um político brasileiro sobre sua atuação parlamentar ao longo de décadas"
+   },
+   "resposta": "d",
+   "explicacao": "\"Torto Arado\", de Itamar Vieira Junior, narra a vida de duas irmãs numa fazenda de cacau na Bahia, entrelaçando trabalho rural, resistência e religiosidade de terreiro — um dos romances brasileiros contemporâneos mais premiados e traduzidos da última década.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-306",
+   "texto_apoio": "A partir de saraus realizados em bairros afastados dos grandes centros urbanos, um conjunto de escritores passou a publicar textos voltados à experiência de viver na periferia das grandes cidades brasileiras.",
+   "enunciado": "Esse conjunto de produção literária, organizado a partir da vivência e do território de bairros periféricos, é conhecido como:",
+   "alternativas": {
+    "a": "literatura acadêmica, produção vinculada exclusivamente a programas de pós-graduação em letras",
+    "b": "literatura de cordel, tradição associada aos folhetos impressos e vendidos em feiras do interior nordestino",
+    "c": "literatura de viagem, gênero centrado em relatos minuciosos de expedições e deslocamentos por territórios então desconhecidos",
+    "d": "literatura infantojuvenil, produção voltada especificamente ao público em formação escolar básica",
+    "e": "literatura marginal ou periférica, produzida a partir da vivência e do território de bairros afastados do centro"
+   },
+   "resposta": "e",
+   "explicacao": "A literatura marginal ou periférica se organiza a partir de saraus e coletivos ligados ao território de bairros afastados dos grandes centros, com autores como Ferréz entre os nomes associados a esse movimento. As demais alternativas nomeiam tradições literárias distintas, sem relação com a produção descrita.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-307",
+   "texto_apoio": "Um romancista amazonense constrói, em seus livros, tramas marcadas pela memória familiar, pelo retorno ao território de origem e por narradores que reconstroem o passado a partir de fragmentos incertos.",
+   "enunciado": "Esse autor, cuja obra tem forte presença da paisagem e da memória amazonenses, é:",
+   "alternativas": {
+    "a": "um cronista esportivo especializado na cobertura de competições internacionais de grande porte",
+    "b": "um poeta concretista associado à experimentação visual e à disposição espacial do texto na página",
+    "c": "um roteirista de televisão dedicado exclusivamente a adaptações de clássicos europeus do século 19",
+    "d": "Milton Hatoum, cujos romances entrelaçam memória familiar e o território amazonense de origem",
+    "e": "um ensaísta político voltado à análise das relações internacionais na bacia amazônica contemporânea"
+   },
+   "resposta": "d",
+   "explicacao": "Milton Hatoum constrói romances marcados pela memória familiar e pelo retorno ao território amazonense de origem, com narradores que reconstroem o passado a partir de lembranças fragmentadas e incertas — traço reconhecível em obras como \"Dois Irmãos\" e \"Relato de um Certo Oriente\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-308",
+   "texto_apoio": "Textos marcados por diálogos secos, violência urbana explícita e vozes que misturam gíria e frieza descritiva caracterizam a prosa de um autor associado à ficção policial brasileira contemporânea.",
+   "enunciado": "Esse autor, conhecido por retratar a violência urbana em prosa seca e direta, é:",
+   "alternativas": {
+    "a": "Rubem Fonseca, associado a contos e romances marcados pela violência urbana em prosa seca e direta",
+    "b": "um autor de literatura de viagem dedicado a relatos de expedições por regiões pouco exploradas do planeta",
+    "c": "um poeta simbolista dedicado à musicalidade da linguagem e à sugestão de estados de alma indefinidos",
+    "d": "um dramaturgo especializado em comédias de costumes ambientadas em salões da corte imperial",
+    "e": "um cronista rural voltado à descrição idealizada da vida no campo em fazendas do interior paulista"
+   },
+   "resposta": "a",
+   "explicacao": "Rubem Fonseca é reconhecido pela prosa seca, pelos diálogos cortantes e pela violência urbana explícita presente em contos e romances como \"Feliz Ano Novo\" e \"A Grande Arte\", traços centrais de sua ficção policial contemporânea.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-309",
+   "texto_apoio": "Em certos romances recentes, o narrador compartilha nome, biografia e circunstâncias de vida com o próprio autor, embaralhando de propósito os limites entre relato pessoal e invenção ficcional.",
+   "enunciado": "Essa prática narrativa, recorrente na produção literária das últimas décadas, é conhecida como:",
+   "alternativas": {
+    "a": "epopeia, gênero narrativo extenso que celebra feitos grandiosos de heróis nacionais ou míticos",
+    "b": "hagiografia, relato biográfico voltado à narração idealizada da vida de uma figura religiosa",
+    "c": "fábula, narrativa breve protagonizada por animais que personificam traços humanos com fim moralizante",
+    "d": "crônica de costumes, texto breve publicado em jornal que comenta com leveza o cotidiano urbano",
+    "e": "autoficção, narrativa que embaralha de propósito os limites entre relato pessoal e invenção ficcional"
+   },
+   "resposta": "e",
+   "explicacao": "Autoficção é o termo para essa prática narrativa em que o autor compartilha nome, biografia e circunstâncias com o narrador, embaralhando de propósito relato pessoal e invenção — recurso recorrente na produção literária contemporânea, no Brasil e fora dele.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-310",
+   "texto_apoio": "Certos romances contemporâneos abandonam a linearidade e o narrador único, alternando vozes, tempos e até formatos de texto — mensagens, listas, fragmentos de diário — dentro de uma mesma obra.",
+   "enunciado": "Esse traço, associado à fragmentação da narrativa na produção literária recente, é frequentemente lido como reflexo de:",
+   "alternativas": {
+    "a": "um retorno deliberado aos moldes narrativos clássicos, com estrutura fechada e progressão linear do início ao fim da trama",
+    "b": "uma tentativa de simplificar ao máximo a experiência de leitura para públicos iniciantes na literatura",
+    "c": "uma condição pós-moderna marcada pela pluralidade de vozes e pela desconfiança de narrativas totalizantes",
+    "d": "uma exigência editorial voltada exclusivamente a reduzir o número de páginas de romances muito longos",
+    "e": "uma imitação direta dos formatos utilizados em roteiros de cinema comercial de grande orçamento"
+   },
+   "resposta": "c",
+   "explicacao": "A fragmentação narrativa é frequentemente lida à luz da condição pós-moderna: desconfiança de narrativas totalizantes, valorização da pluralidade de vozes e do hibridismo entre formatos de texto dentro da mesma obra, em vez de um enredo linear conduzido por um único narrador central.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-311",
+   "texto_apoio": "No fim dos anos 1960, um movimento cultural brasileiro combinou letras de canção com referências a formas poéticas experimentais, ao rock internacional e a elementos da cultura popular, misturando erudito e popular numa mesma obra.",
+   "enunciado": "Esse movimento, cujas letras de canção passaram a ser lidas e estudadas como texto literário, é:",
+   "alternativas": {
+    "a": "a bossa nova, movimento musical marcado por harmonias sofisticadas e por uma estética vocal de contenção e sutileza",
+    "b": "a tropicália, movimento que misturou letra de canção, referências a formas poéticas experimentais e cultura popular",
+    "c": "o modernismo de 1922, movimento centrado na Semana de Arte Moderna realizada em São Paulo",
+    "d": "o cinema novo, movimento cinematográfico voltado à estética da fome e à crítica social direta",
+    "e": "o simbolismo, movimento poético do fim do século 19 centrado na musicalidade e na sugestão"
+   },
+   "resposta": "b",
+   "explicacao": "A tropicália combinou letra de canção com referências a formas poéticas experimentais, ao rock internacional e à cultura popular brasileira, misturando erudito e popular numa síntese que passou a ser estudada como texto literário — daí a leitura de letras de canção nas provas de literatura contemporânea.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "med-literatura-312",
+   "texto_apoio": "\"Explico: só a mim mesmo compete escrever assim...\" Uma narradora contemporânea, ao contar a história de uma personagem simples, também expõe as próprias dúvidas e hesitações sobre como narrar a história que está sendo contada.",
+   "enunciado": "Esse recurso, em que a narrativa comenta o próprio processo de sua construção, é conhecido como:",
+   "alternativas": {
+    "a": "onisciência seletiva, recurso pelo qual o narrador acessa livremente os pensamentos de apenas uma personagem",
+    "b": "discurso indireto livre, recurso pelo qual a fala de uma personagem se mistura à voz do narrador sem marcação",
+    "c": "metalinguagem, recurso pelo qual a narrativa reflete e comenta o próprio processo de sua construção",
+    "d": "prolepse, recurso pelo qual a narrativa antecipa um evento que só ocorrerá mais adiante na história",
+    "e": "elipse narrativa, recurso pelo qual um intervalo de tempo é omitido sem qualquer indicação explícita"
+   },
+   "resposta": "c",
+   "explicacao": "Metalinguagem, na literatura contemporânea, é o recurso pelo qual a narrativa comenta e reflete sobre o próprio processo de escrita — traço recorrente em obras que expõem as hesitações do narrador diante da história que está sendo contada, como ocorre de forma célebre em \"A Hora da Estrela\".",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -50367,6 +51363,210 @@ window.QUESTION_BANKS = {
    "resposta": "c",
    "explicacao": "\"By + data futura\" aponta para uma ação já concluída quando aquele marco chegar, e essa é a função do future perfect. \"Will deliver\" apenas situa a entrega em algum ponto do futuro, sem a ideia de acumulado até 2030 que o \"by\" exige — a diferença desaparece para quem lê \"by 2030\" como se fosse \"in 2030\", que é o deslize que a questão cobra.",
    "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-211",
+   "texto_apoio": "Considere os termos: \"parents\", \"library\", \"fabric\".",
+   "enunciado": "O termo \"parents\" significa ______, \"library\" significa ______ e \"fabric\" significa ______, respectivamente. As lacunas são preenchidas por:",
+   "alternativas": {
+    "a": "parentes – livraria – fábrica, sentidos que coincidem com os das palavras portuguesas de grafia semelhante",
+    "b": "pais – biblioteca – tecido, sentidos que não correspondem aos das palavras portuguesas parecidas na forma",
+    "c": "parentes – biblioteca – fábrica, combinação em que apenas o segundo termo é falso cognato verdadeiro",
+    "d": "pais – livraria – tecido, combinação em que o segundo termo mantém o sentido da palavra portuguesa parecida",
+    "e": "padrinhos – editora – matéria-prima, sentidos técnicos empregados apenas em contextos jurídicos específicos"
+   },
+   "resposta": "b",
+   "explicacao": "Os três são falsos cognatos clássicos: \"parents\" são os pais (não parentes em geral), \"library\" é biblioteca (não livraria, que em inglês é \"bookstore\") e \"fabric\" é tecido (não fábrica, que é \"factory\").",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-212",
+   "texto_apoio": "\"The committee reviewed the proposal, but ultimately it addressed none of the residents' concerns.\"",
+   "enunciado": "Nessa frase, o verbo \"addressed\" está mais próximo, em sentido, de:",
+   "alternativas": {
+    "a": "endereçou, no sentido de enviar correspondência formal a um destinatário específico",
+    "b": "elogiou, reconhecendo publicamente o valor das preocupações apresentadas pelos moradores",
+    "c": "tratou de, no sentido de lidar com um assunto ou responder a uma demanda",
+    "d": "ignorou por completo, agindo como se as preocupações dos moradores nunca tivessem sido apresentadas",
+    "e": "arquivou formalmente, encerrando o processo sem qualquer nova análise pelo comitê"
+   },
+   "resposta": "c",
+   "explicacao": "\"To address\" um problema ou uma preocupação significa lidar com ele, tratar dele — não tem relação com endereço postal. A frase diz que o comitê não tratou de nenhuma das preocupações, não que as ignorou de forma deliberada nem que as arquivou.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-213",
+   "texto_apoio": "\"I assume the results will be ready by Friday, based on the schedule we discussed.\"",
+   "enunciado": "O verbo \"assume\", nesse contexto, significa:",
+   "alternativas": {
+    "a": "supor, admitir como provável sem ter certeza absoluta",
+    "b": "assumir um cargo, tomar posse de uma função dentro de uma equipe",
+    "c": "aceitar a responsabilidade por um erro cometido anteriormente por outra pessoa",
+    "d": "assinar formalmente um documento que confirma um compromisso já agendado",
+    "e": "adiar uma decisão até que novas informações estejam disponíveis"
+   },
+   "resposta": "a",
+   "explicacao": "\"Assume\" em inglês corresponde a supor, presumir — um falso cognato de \"assumir\" no sentido de tomar posse de um cargo, que é \"to take on\" ou \"to take office\". A frase fala de uma suposição baseada num cronograma, não de posse de função.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-214",
+   "texto_apoio": "\"The two neighbors had a loud argument over the fence late last night.\"",
+   "enunciado": "Nesse contexto, a palavra \"argument\" está mais próxima de:",
+   "alternativas": {
+    "a": "um argumento lógico apresentado formalmente numa disputa jurídica entre as partes envolvidas",
+    "b": "uma discussão acalorada entre as duas pessoas, sem relação necessária com lógica formal",
+    "c": "um documento assinado pelos dois vizinhos após a resolução do conflito relatado",
+    "d": "uma conversa tranquila sobre um tema de interesse comum entre os dois vizinhos",
+    "e": "um discurso público proferido por um dos vizinhos perante a vizinhança reunida"
+   },
+   "resposta": "b",
+   "explicacao": "Em inglês do dia a dia, \"argument\" costuma significar discussão, briga verbal — não necessariamente um argumento lógico ou jurídico, sentido mais raro e mais formal. \"Loud argument over the fence\" descreve uma briga de vizinhos, não uma peça processual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-215",
+   "texto_apoio": "\"The teacher gave the class a quick heads-up before the surprise quiz began.\"",
+   "enunciado": "A expressão \"heads-up\", nesse contexto, equivale a:",
+   "alternativas": {
+    "a": "uma repreensão severa dirigida a toda a turma antes do início da avaliação",
+    "b": "uma pausa formal concedida antes do início de qualquer atividade avaliativa",
+    "c": "uma votação rápida realizada entre os alunos sobre o formato da prova",
+    "d": "um aviso ou alerta antecipado sobre algo que está prestes a acontecer",
+    "e": "uma explicação detalhada do conteúdo que cairia integralmente na avaliação"
+   },
+   "resposta": "d",
+   "explicacao": "\"Heads-up\" é expressão informal para aviso antecipado, alerta rápido sobre algo iminente — nesse caso, a professora avisou a turma pouco antes da prova surpresa, o que é levemente contraditório e faz parte do efeito de humor da frase.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-216",
+   "texto_apoio": "\"After years abroad, she decided to resume her career in her home country.\"",
+   "enunciado": "Nessa frase, o verbo \"resume\" significa:",
+   "alternativas": {
+    "a": "resumir, condensar as principais informações da carreira em um documento breve",
+    "b": "recomendar formalmente outra pessoa para ocupar um cargo específico",
+    "c": "encerrar definitivamente uma atividade profissional exercida por muitos anos",
+    "d": "reavaliar criticamente as escolhas profissionais feitas durante o período no exterior",
+    "e": "retomar, voltar a exercer algo que havia sido interrompido por um período"
+   },
+   "resposta": "e",
+   "explicacao": "\"To resume\" significa retomar, recomeçar algo interrompido — falso cognato de \"resumir\" (que em inglês é \"to summarize\"). Como substantivo, \"resume\" também existe no inglês americano com o sentido de currículo, sentido distinto do verbo desta frase.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-217",
+   "texto_apoio": "\"The results were surprising, and the researchers eventually published them in a major journal.\"",
+   "enunciado": "Nesse trecho, a palavra \"eventually\" é mais próxima, em sentido, de:",
+   "alternativas": {
+    "a": "eventualmente, no sentido de algo que ocorre apenas de vez em quando, sem regularidade",
+    "b": "atualmente, fazendo referência ao momento presente em que o texto foi escrito",
+    "c": "por fim, indicando o desfecho de um processo que levou algum tempo para se completar",
+    "d": "imediatamente, sem qualquer intervalo entre a obtenção dos resultados e a publicação",
+    "e": "possivelmente, indicando incerteza quanto à publicação dos resultados obtidos"
+   },
+   "resposta": "c",
+   "explicacao": "\"Eventually\" corresponde a \"por fim\", \"finalmente\" — o desfecho de um processo, não a algo ocasional. É outro falso cognato clássico: \"eventualmente\" em português é \"occasionally\" ou \"possibly\" em inglês.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-218",
+   "texto_apoio": "\"Please notice that the last paragraph was revised after the meeting.\"",
+   "enunciado": "O verbo \"notice\", nessa frase, significa:",
+   "alternativas": {
+    "a": "divulgar amplamente uma informação por meio de veículos de comunicação",
+    "b": "registrar formalmente um fato em ata para consulta em reuniões futuras",
+    "c": "noticiar um fato relevante em um jornal ou telejornal de grande audiência nacional",
+    "d": "perceber, prestar atenção a algo, sentido próximo de \"observar\" ou \"notar\"",
+    "e": "anunciar publicamente uma decisão tomada previamente por um grupo"
+   },
+   "resposta": "d",
+   "explicacao": "\"Notice\", como verbo, significa perceber, notar — falso cognato de \"noticiar\", que em inglês corresponde a \"to report\" ou \"to announce\". A frase pede que o leitor perceba a revisão do parágrafo, não que a divulgue.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-219",
+   "texto_apoio": "\"He seemed like a sensible person, always weighing the pros and cons before deciding.\"",
+   "enunciado": "Nesse contexto, \"sensible\" está mais próximo de:",
+   "alternativas": {
+    "a": "sensível, no sentido de alguém que se emociona com facilidade diante de situações difíceis",
+    "b": "indeciso, alguém que hesita continuamente sem nunca chegar a uma conclusão",
+    "c": "sensorial, relativo à percepção imediata dos sentidos diante de um estímulo externo",
+    "d": "suscetível, alguém facilmente influenciado pela opinião alheia em qualquer situação",
+    "e": "sensato, alguém que pondera com cuidado antes de tomar uma decisão importante"
+   },
+   "resposta": "e",
+   "explicacao": "\"Sensible\" significa sensato, ponderado — falso cognato de \"sensível\", que em inglês é \"sensitive\". A frase descreve alguém que pesa prós e contras, traço de ponderação, não de sensibilidade emocional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-220",
+   "texto_apoio": "\"The novel and the movie share the same title, but the plot differs in the final chapters.\"",
+   "enunciado": "Nessa frase, a palavra \"novel\" corresponde a:",
+   "alternativas": {
+    "a": "romance, obra de ficção em prosa, geralmente de maior extensão",
+    "b": "novela, no sentido de produção televisiva exibida em capítulos diários",
+    "c": "notícia, relato factual publicado originalmente em veículo de imprensa",
+    "d": "roteiro, texto técnico usado como base para a produção de um filme",
+    "e": "resenha, texto crítico que comenta uma obra literária publicada"
+   },
+   "resposta": "a",
+   "explicacao": "\"Novel\" em inglês é romance — obra de ficção em prosa —, falso cognato de \"novela\", que em português designa a produção televisiva em capítulos e que em inglês corresponde a \"soap opera\" ou \"TV series\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-221",
+   "texto_apoio": "\"The volunteers collected donations, sorted the items, and delivered them to three shelters, all in a single weekend.\"",
+   "enunciado": "O pronome \"them\", na frase, refere-se a:",
+   "alternativas": {
+    "a": "aos três abrigos mencionados no final da oração apresentada no enunciado",
+    "b": "aos voluntários que participaram da ação descrita ao longo do fim de semana",
+    "c": "aos itens que foram recolhidos e depois separados pelos voluntários",
+    "d": "às doações em dinheiro recebidas ao longo de todo o fim de semana",
+    "e": "a um grupo de pessoas beneficiadas que não chega a ser mencionado no trecho"
+   },
+   "resposta": "c",
+   "explicacao": "\"Them\" retoma o substantivo plural mais próximo com que concorda logicamente: \"the items\", que foram recolhidos, separados e então entregues. Os abrigos (b) recebem os itens, não são o antecedente do pronome; a concordância de número e o sentido da ação apontam para os itens.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-222",
+   "texto_apoio": "Considere os termos: \"college\", \"actual\", \"lecture\".",
+   "enunciado": "O termo \"college\" significa ______, \"actual\" significa ______ e \"lecture\" significa ______, respectivamente. As lacunas são preenchidas por:",
+   "alternativas": {
+    "a": "colégio – atual – leitura, sentidos que coincidem com os das palavras portuguesas de grafia parecida",
+    "b": "colégio – real – repreensão, combinação empregada apenas em contextos escolares formais",
+    "c": "faculdade – atual – leitura, combinação em que apenas o primeiro termo é falso cognato verdadeiro",
+    "d": "faculdade – real – aula ou palestra, sentidos que não correspondem às palavras parecidas",
+    "e": "universidade pública – atualizado – resumo escrito, sentidos técnicos usados em documentos acadêmicos"
+   },
+   "resposta": "d",
+   "explicacao": "Os três enganam por semelhança: \"college\" costuma ser faculdade (não colégio, que é \"high school\"), \"actual\" significa real, verdadeiro (não atual, que é \"current\"), e \"lecture\" é aula expositiva ou palestra (não leitura, que é \"reading\").",
+   "formato": "lacunas",
    "origem": "medicina"
   }
  ]

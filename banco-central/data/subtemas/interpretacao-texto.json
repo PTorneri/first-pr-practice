@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-14",
  "frente": "interpretacao-texto",
- "total": 396,
+ "total": 475,
  "residuo": [
   "dir-interpretacao-texto-10",
   "dir-interpretacao-texto-37",
@@ -2281,6 +2281,480 @@
    "frenteDestino": "interpretacao-texto",
    "pontos": 4,
    "margem": 4
+  },
+  "med-interpretacao-texto-175": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-176": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-177": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-interpretacao-texto-178": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-179": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-interpretacao-texto-180": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-181": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-182": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-interpretacao-texto-183": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-184": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-185": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-186": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-187": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-interpretacao-texto-188": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-189": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-190": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-191": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-interpretacao-texto-192": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-193": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-194": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-195": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-196": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-197": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-interpretacao-texto-198": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-199": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-200": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-201": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-202": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-203": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-204": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-205": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-206": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 4
+  },
+  "med-interpretacao-texto-207": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-208": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-209": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-210": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-211": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-212": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-213": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-214": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-215": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-216": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-217": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-interpretacao-texto-218": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-219": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-interpretacao-texto-220": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-221": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-222": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-223": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-interpretacao-texto-224": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-225": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-226": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-227": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-interpretacao-texto-228": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-229": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-230": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-231": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-232": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-233": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-interpretacao-texto-234": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-235": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-interpretacao-texto-236": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-237": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-interpretacao-texto-238": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-239": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-240": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-241": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-242": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-243": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-interpretacao-texto-244": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-245": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-interpretacao-texto-246": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-247": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-248": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-249": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-250": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-251": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-interpretacao-texto-252": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-interpretacao-texto-253": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 10
   }
  }
 }

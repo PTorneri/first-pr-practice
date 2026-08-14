@@ -2721,6 +2721,1191 @@
       "explicacao": "A enumeração encadeada, fechada por \"para completar\", acumula os contratempos para produzir a sensação de um dia ruim — efeito de acréscimo expressivo, não simultaneidade, atenuação ou irrelevância dos itens.",
       "formato": "direta",
       "banca": "santacasa"
+    },
+    {
+      "id": "interpretacao-texto-175",
+      "texto_apoio": "Em 2019 a prefeitura instalou dez bebedouros públicos no parque municipal. Cinco anos depois, sete deles estavam desligados por falta de reparo. No mesmo intervalo, a verba anual destinada à conservação do parque caiu pela metade.",
+      "enunciado": "Isso não está dito explicitamente, mas depreende-se do trecho que:",
+      "alternativas": {
+        "a": "os bebedouros foram desligados por recomendação sanitária de uma equipe técnica que avaliou a água servida aos frequentadores do parque",
+        "b": "a instalação dos bebedouros em 2019 foi uma medida improvisada, feita sem estudo prévio sobre a demanda real dos visitantes",
+        "c": "o desligamento dos bebedouros tem ligação com a redução dos recursos aplicados na conservação do parque",
+        "d": "os frequentadores do parque deixaram de usar os bebedouros, o que levou a prefeitura a desligá-los por baixa procura",
+        "e": "a prefeitura substituiu os bebedouros por outro serviço de abastecimento de água mais barato e de operação mais simples"
+      },
+      "resposta": "c",
+      "explicacao": "O trecho aproxima dois dados no mesmo intervalo — equipamentos parados por falta de reparo e verba de conservação reduzida à metade. A ligação entre eles fica implícita, e é ela que se deduz. As demais alternativas acrescentam causas que o trecho não fornece.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-176",
+      "texto_apoio": "Amostras de gelo retiradas a 800 metros de profundidade guardam bolhas de ar da atmosfera de 40 mil anos atrás. Ao abri-las em laboratório, os pesquisadores mediram a composição desse ar. Nenhum instrumento existia naquela época para registrar tais valores.",
+      "enunciado": "Nas entrelinhas do trecho, infere-se que a análise das bolhas de gelo:",
+      "alternativas": {
+        "a": "fornece medidas de um passado remoto sem depender de registros feitos por instrumentos da época",
+        "b": "só produz resultados confiáveis se houver documentos escritos que confirmem os valores obtidos em laboratório",
+        "c": "substitui a observação atmosférica atual, tornando dispensáveis as estações de medição instaladas em superfície",
+        "d": "foi criada para datar as camadas de gelo, e a composição do ar aprisionado nelas é um resultado secundário do processo de perfuração",
+        "e": "depende de amostras retiradas a mais de 800 metros, abaixo do que a leitura perde precisão"
+      },
+      "resposta": "a",
+      "explicacao": "O trecho informa que o ar antigo ficou preservado e que não havia instrumentos naquele tempo. Deduz-se daí que o gelo funciona como registro indireto, dispensando medições contemporâneas ao período estudado.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-177",
+      "texto_apoio": "\"Cheguei ao ponto às sete e quinze. O senhor de chapéu já estava lá, como na véspera e na antevéspera. Consultou o relógio, olhou a esquina vazia e não disse nada. Às sete e quarenta, guardou o jornal dobrado sob o braço.\"",
+      "enunciado": "O comportamento do senhor de chapéu permite concluir, pelo que fica subentendido, que:",
+      "alternativas": {
+        "a": "ele desconhecia o horário de passagem do ônibus e por isso chegava ao ponto muito antes do necessário",
+        "b": "ele aguardava outra pessoa no ponto, e o ônibus era apenas o pretexto para permanecer ali durante a manhã",
+        "c": "ele preferia ler o jornal em pé no ponto de ônibus a lê-lo em casa antes de sair para o trabalho",
+        "d": "ele havia se enganado de ponto, situação que o levava a repetir a espera inútil em manhãs seguidas",
+        "e": "o atraso do transporte se repetia, e ele já contava com isso ao organizar a espera"
+      },
+      "resposta": "e",
+      "explicacao": "A repetição da cena em dias seguidos, o relógio consultado e o jornal guardado depois de vinte e cinco minutos indicam uma espera já prevista pelo personagem. O texto não afirma isso, mas o comportamento o deixa implícito.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-178",
+      "texto_apoio": "O aplicativo passou a exibir o tempo estimado de espera antes de o cliente confirmar o pedido. Nos três meses seguintes, o número de cancelamentos caiu 22%, enquanto o total de pedidos permaneceu estável.",
+      "enunciado": "Isso não é dito explicitamente, mas deduz-se que a mudança na tela do aplicativo:",
+      "alternativas": {
+        "a": "elevou o volume de pedidos processados pela plataforma, ainda que tenha mantido inalterada a taxa de desistência dos clientes",
+        "b": "atuou sobre a expectativa do cliente, e não sobre a velocidade real da entrega",
+        "c": "reduziu o tempo médio de preparo nas cozinhas parceiras cadastradas na plataforma de entregas",
+        "d": "tornou o serviço mais caro para o cliente final, que passou a pagar pela informação adicional exibida na tela",
+        "e": "foi adotada por exigência de órgãos de defesa do consumidor interessados em maior transparência contratual"
+      },
+      "resposta": "b",
+      "explicacao": "Os pedidos ficaram estáveis e os cancelamentos caíram: o que mudou foi a informação prévia, não a operação. Infere-se que a medida agiu sobre o que o cliente esperava do serviço.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-179",
+      "texto_apoio": "Nos diários de bordo do século XVI, os pilotos anotavam a profundidade sondada, a cor da água e o tipo de fundo. Raramente escreviam sobre a paisagem da costa. Os relatos de terra firme, quando existem, vêm de religiosos embarcados.",
+      "enunciado": "Isso não está dito explicitamente, mas o trecho autoriza a conclusão de que os diários de bordo:",
+      "alternativas": {
+        "a": "eram redigidos por religiosos, que os assinavam em nome dos pilotos responsáveis pela viagem",
+        "b": "descreviam a paisagem costeira com mais riqueza de detalhes do que os relatos escritos em terra firme",
+        "c": "foram escritos depois do retorno das embarcações, com base na memória dos tripulantes sobreviventes",
+        "d": "atendiam a uma finalidade de navegação, e não ao registro do que se via em terra",
+        "e": "circulavam entre leitores letrados da corte, o que explicaria a atenção dada aos elementos submersos e ao relevo do fundo do mar"
+      },
+      "resposta": "d",
+      "explicacao": "O que os pilotos anotavam — sonda, cor da água, fundo — serve a quem navega. A ausência de descrição da costa e a origem religiosa dos relatos de terra permitem deduzir a finalidade prática do documento.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-180",
+      "texto_apoio": "A campanha de imunização contra a gripe estendeu o horário dos postos até as 22 horas em quatro bairros de periferia. Nesses bairros, a cobertura entre adultos de 20 a 59 anos subiu de 31% para 58%. Nos demais bairros, o horário e a cobertura ficaram como estavam.",
+      "enunciado": "Nas entrelinhas do trecho, infere-se que, antes da mudança, parte da população adulta:",
+      "alternativas": {
+        "a": "encontrava no horário de funcionamento dos postos um obstáculo à vacinação",
+        "b": "desconhecia a existência da campanha de imunização e a descobriu com a ampliação do atendimento noturno",
+        "c": "recusava a vacina por desconfiança quanto à sua eficácia contra as variantes do vírus em circulação naquele ano",
+        "d": "procurava a rede privada para se vacinar, arcando com o custo integral da dose aplicada fora do sistema público de saúde",
+        "e": "já estava imunizada por campanhas anteriores e não precisava comparecer aos postos naquele período"
+      },
+      "resposta": "a",
+      "explicacao": "A cobertura quase dobrou onde o único fator alterado foi o horário. Deduz-se que o horário anterior impedia parte dos adultos de comparecer, embora o trecho não diga isso de modo direto.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-181",
+      "texto_apoio": "A represa foi construída para abastecer a cidade em 1978, prevendo uma população de 400 mil habitantes. Hoje a cidade tem 1,2 milhão. O sistema opera com dois rodízios semanais desde 2021.",
+      "enunciado": "Está implícito no trecho, e nas entrelinhas se lê, que:",
+      "alternativas": {
+        "a": "a represa perdeu volume útil por assoreamento, e o rodízio serve para compensar a perda de capacidade do reservatório",
+        "b": "o consumo médio por habitante triplicou desde 1978, o que explica sozinho a adoção dos rodízios semanais",
+        "c": "a capacidade projetada do sistema ficou aquém do crescimento da cidade",
+        "d": "a cidade recebeu uma segunda represa nos anos 2000, ainda insuficiente para atender a demanda registrada",
+        "e": "os rodízios foram adotados por decisão judicial após denúncia de desperdício na rede de distribuição"
+      },
+      "resposta": "c",
+      "explicacao": "Projeto para 400 mil, população de 1,2 milhão e rodízio em curso: a defasagem entre o dimensionamento e o tamanho atual da cidade é o que se depreende. As outras causas não têm apoio no trecho.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-182",
+      "texto_apoio": "\"O professor devolveu as provas em ordem crescente de nota. Quando chegou à minha, olhou-me por um instante, disse apenas 'converse comigo no intervalo' e seguiu adiante sem comentar o resultado diante da turma.\"",
+      "enunciado": "A atitude do professor dá a entender, nas entrelinhas, que:",
+      "alternativas": {
+        "a": "a nota do aluno foi a mais alta da turma e o professor pretendia convidá-lo para uma atividade de monitoria",
+        "b": "o professor havia extraviado a prova do aluno e precisava explicar em particular a ausência do resultado",
+        "c": "o professor pretendia questionar o aluno sobre a autoria das respostas apresentadas na avaliação escrita",
+        "d": "a turma inteira teve desempenho ruim e o professor escolheu um aluno para transmitir o recado aos demais colegas",
+        "e": "o resultado do aluno merecia uma conversa reservada, poupada da audiência da sala"
+      },
+      "resposta": "e",
+      "explicacao": "O convite feito em voz baixa e a ausência de comentário diante dos colegas indicam cuidado com a exposição do aluno. Infere-se o teor delicado do resultado, ainda que ele não seja informado.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-183",
+      "texto_apoio": "Entre 2015 e 2024, o número de livrarias de rua na capital caiu de 112 para 47. No mesmo intervalo, a venda de livros no estado cresceu 9%. Três grandes plataformas passaram a responder por dois terços do total vendido.",
+      "enunciado": "Isso não está dito explicitamente; depreende-se, porém, do trecho que:",
+      "alternativas": {
+        "a": "o hábito de leitura recuou na capital, e o fechamento das livrarias de rua é o efeito visível dessa retração cultural",
+        "b": "o consumo de livros migrou de canal, e não desapareceu",
+        "c": "as livrarias de rua fecharam por causa do aumento do preço médio do livro vendido no estado nesse período",
+        "d": "as três plataformas citadas compraram as livrarias de rua que encerraram atividades na capital ao longo da década",
+        "e": "a alta de 9% nas vendas se concentrou em cidades do interior, sem reflexo no mercado da capital"
+      },
+      "resposta": "b",
+      "explicacao": "Vendas em alta e lojas físicas em queda apontam para deslocamento do canal de compra, com concentração em plataformas. É o que se deduz do conjunto dos três dados.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-184",
+      "texto_apoio": "O museu passou a abrir gratuitamente às quartas-feiras. O público desse dia quadruplicou. A bilheteria dos outros dias caiu 4%, e a receita da cafeteria e da loja subiu 31% na média semanal.",
+      "enunciado": "Isso não está dito explicitamente, mas conclui-se que a gratuidade das quartas-feiras:",
+      "alternativas": {
+        "a": "afastou o público pagante dos demais dias, provocando perda expressiva na arrecadação semanal do museu",
+        "b": "foi financiada por uma lei de incentivo que cobriu integralmente a receita de bilheteria não arrecadada às quartas",
+        "c": "atraiu um público que já frequentava o museu nos outros dias e apenas mudou de dia por causa do preço da entrada",
+        "d": "trouxe ao museu visitantes que também consomem nos serviços internos",
+        "e": "elevou o custo de operação do museu acima do que o aumento de público foi capaz de compensar"
+      },
+      "resposta": "d",
+      "explicacao": "A queda na bilheteria foi pequena e a receita de cafeteria e loja subiu bem acima dela. Deduz-se que o novo público consome dentro do museu, compensando a entrada gratuita.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-185",
+      "texto_apoio": "As formigas cortadeiras carregam folhas para dentro do ninho, mas não se alimentam delas. No interior das câmaras subterrâneas, cultivam um fungo sobre o material vegetal triturado. Colônias privadas do fungo morrem em poucas semanas.",
+      "enunciado": "Nas entrelinhas do trecho, infere-se que o corte de folhas pelas formigas:",
+      "alternativas": {
+        "a": "tem a função de reduzir a cobertura vegetal ao redor do ninho, protegendo as câmaras contra o excesso de umidade do solo",
+        "b": "ocorre só em colônias jovens, que ainda não dispõem de reservas acumuladas nas câmaras subterrâneas",
+        "c": "serve à alimentação direta das operárias, que trituram a folha antes de ingeri-la para facilitar a digestão",
+        "d": "ocorre apenas em períodos de escassez, nos quais o alimento habitual da colônia se torna raro por perto",
+        "e": "atende ao cultivo do fungo, do qual a colônia depende para sobreviver"
+      },
+      "resposta": "e",
+      "explicacao": "As folhas não são comida, servem de substrato ao fungo, e sem o fungo a colônia morre. Deduz-se que o corte é etapa de um cultivo, não de uma alimentação direta.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-186",
+      "texto_apoio": "A escola trocou o sinal sonoro por uma música de dois minutos ao fim de cada aula. Os professores relataram que a saída das salas passou a ocorrer de forma mais lenta. O tempo perdido entre aulas caiu de nove para cinco minutos.",
+      "enunciado": "O ponto não está dito explicitamente; deduz-se, ainda assim, do trecho que:",
+      "alternativas": {
+        "a": "o sinal sonoro antigo era ignorado pelos alunos, que só passaram a respeitar o fim da aula depois da mudança para a música",
+        "b": "a saída mais lenta das salas foi compensada por ganho na etapa seguinte do trânsito entre aulas",
+        "c": "os professores passaram a encerrar as aulas antes do horário previsto para acompanhar o novo aviso musical",
+        "d": "a música escolhida agradava aos alunos, e por isso eles permaneciam mais tempo dentro das salas de aula",
+        "e": "a redução do intervalo entre aulas resultou de mudança na grade horária, e não do novo aviso adotado pela escola"
+      },
+      "resposta": "b",
+      "explicacao": "Sair mais devagar e ainda assim perder menos tempo no total só se explica se o ganho estiver no percurso seguinte. O trecho não afirma isso: é o que se depreende dos dois dados juntos.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-187",
+      "texto_apoio": "Os primeiros mapas do metrô de Londres reproduziam as distâncias reais entre estações. Em 1933, um desenhista propôs traçados retos, ângulos fixos e espaçamento uniforme. O uso do sistema por passageiros de primeira viagem cresceu de imediato.",
+      "enunciado": "O trecho permite concluir, pelo que fica subentendido nas entrelinhas, que:",
+      "alternativas": {
+        "a": "a fidelidade geográfica atrapalhava a leitura do mapa por quem precisava apenas se orientar entre estações",
+        "b": "o desenhista de 1933 dispunha de dados topográficos mais precisos do que os autores dos mapas anteriores",
+        "c": "os mapas anteriores a 1933 continham erros de posicionamento das estações que confundiam os passageiros habituais da rede",
+        "d": "o crescimento do uso decorreu da abertura de novas linhas, e o desenho do mapa teve papel secundário nesse aumento",
+        "e": "passageiros experientes deixaram de consultar o mapa depois da mudança, por já conhecerem os trajetos de cor"
+      },
+      "resposta": "a",
+      "explicacao": "O mapa deixou de ser fiel às distâncias e ficou mais usado justamente por quem não conhecia a rede. Infere-se que a precisão geográfica era um obstáculo, não uma vantagem, para essa finalidade.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-188",
+      "texto_apoio": "O prontuário eletrônico registrou que o paciente compareceu a onze consultas em oito meses, em cinco especialidades diferentes, sem que nenhuma delas tivesse acesso ao registro das demais. Foram solicitados quatro exames de sangue idênticos no período.",
+      "enunciado": "Isso não está dito explicitamente, mas depreende-se do trecho que:",
+      "alternativas": {
+        "a": "o paciente omitiu dos médicos que já havia realizado exames de sangue recentes em outras especialidades do mesmo serviço",
+        "b": "as onze consultas foram marcadas por engano, e o serviço de agendamento duplicou pedidos que deveriam ser únicos",
+        "c": "os quatro exames tiveram resultados divergentes entre si, o que justificou a repetição solicitada por cada especialista",
+        "d": "a falta de comunicação entre os registros gerou exames repetidos e gasto evitável",
+        "e": "cinco especialidades são um número excessivo para um único paciente e indicam erro no encaminhamento inicial feito pela unidade"
+      },
+      "resposta": "d",
+      "explicacao": "Registros isolados e quatro pedidos iguais de exame no mesmo período apontam para desperdício causado pela falta de integração. É a dedução que o conjunto dos dados sustenta.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-189",
+      "texto_apoio": "Na cidade litorânea, o preço do aluguel sobe 60% em dezembro e volta ao patamar anterior em março. As escolas municipais registram, no primeiro bimestre, um número de transferências de saída três vezes maior que a média do restante do ano.",
+      "enunciado": "Nas entrelinhas do trecho, infere-se que, na cidade descrita:",
+      "alternativas": {
+        "a": "as escolas municipais oferecem vagas insuficientes no início do ano, o que empurra parte das famílias para a rede privada da região",
+        "b": "a sazonalidade do aluguel afeta a permanência de moradores de baixa renda",
+        "c": "as famílias transferem os filhos de escola em busca de instituições mais próximas das praias frequentadas no verão",
+        "d": "o calendário escolar do município começa em dezembro, o que explica a alta de transferências registrada nos meses seguintes",
+        "e": "a alta do aluguel em dezembro decorre do aumento do número de matrículas nas escolas municipais da cidade"
+      },
+      "resposta": "b",
+      "explicacao": "A alta do aluguel na temporada e o pico de saídas escolares no mesmo período sugerem deslocamento forçado de moradores. O trecho não faz a ligação: ela é deduzida.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-190",
+      "texto_apoio": "Um estudo acompanhou 3 mil trabalhadores que passaram a cumprir jornada híbrida. O tempo médio de sono subiu 34 minutos nas noites que antecediam dias de trabalho em casa. Nas noites anteriores aos dias presenciais, o tempo de sono permaneceu igual ao do período anterior ao estudo.",
+      "enunciado": "Isso não é dito explicitamente, mas deduz-se que o ganho de sono observado:",
+      "alternativas": {
+        "a": "decorre da redução da carga de trabalho semanal concedida aos participantes ao longo do estudo inteiro",
+        "b": "resultou de orientação médica recebida pelos trabalhadores no início do acompanhamento realizado pelos pesquisadores",
+        "c": "está ligado à supressão do deslocamento até o local de trabalho",
+        "d": "aparece de forma uniforme ao longo da semana, sem relação com o dia de trabalho que se seguirá à noite dormida",
+        "e": "compensa integralmente o débito de sono acumulado pelos trabalhadores nos anos anteriores à adoção do regime híbrido de trabalho"
+      },
+      "resposta": "c",
+      "explicacao": "O ganho aparece só nas vésperas dos dias em casa. Infere-se que o fator é o trajeto suprimido, e não uma mudança geral de rotina ou de carga.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-191",
+      "texto_apoio": "\"Guardei por trinta anos a chave de uma casa que já não existe. O terreno virou estacionamento em 1998. A chave continua no fundo da gaveta, e continua sendo a chave daquela porta.\"",
+      "enunciado": "O trecho dá a entender, nas entrelinhas, que o objeto guardado:",
+      "alternativas": {
+        "a": "manteve seu valor de uso, já que o autor pretende reconstruir a casa demolida no mesmo terreno em algum momento",
+        "b": "foi conservado por engano, esquecido na gaveta entre pertences que o autor não chegou a examinar",
+        "c": "serve de prova documental para uma disputa sobre a propriedade do terreno onde a casa se erguia até 1998",
+        "d": "perdeu a função de abrir portas e passou a valer pelo vínculo afetivo que preserva",
+        "e": "será descartado assim que o autor conseguir se desfazer da lembrança associada ao endereço em que morou por três décadas"
+      },
+      "resposta": "d",
+      "explicacao": "A casa foi demolida, mas a chave permanece guardada e ainda é chamada de chave daquela porta. Depreende-se que o valor do objeto deixou de ser prático e passou a ser afetivo.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-192",
+      "texto_apoio": "O algoritmo de tradução foi treinado com atas parlamentares de 22 países. Ao traduzir textos de manuais de cozinha, produziu construções corretas mas de gravidade cerimoniosa. Os avaliadores classificaram o resultado como fiel e, ao mesmo tempo, inadequado.",
+      "enunciado": "O dado não está dito explicitamente, mas infere-se do trecho que:",
+      "alternativas": {
+        "a": "o material usado no treinamento deixou marcas no resultado, mesmo em textos de outra natureza",
+        "b": "o algoritmo cometeu erros de vocabulário culinário por desconhecer os termos técnicos empregados nas receitas traduzidas",
+        "c": "as atas parlamentares dos 22 países foram traduzidas com qualidade inferior à obtida nos manuais de cozinha avaliados",
+        "d": "os avaliadores divergiram entre si, e a classificação final reuniu pareceres incompatíveis sobre o mesmo resultado",
+        "e": "a tradução automática de receitas exige um volume de dados maior do que o utilizado no treinamento desse sistema"
+      },
+      "resposta": "a",
+      "explicacao": "Fiel e inadequado ao mesmo tempo: o problema não é o sentido, é o tom, herdado das atas do treinamento. É o que se deduz da combinação entre a origem dos dados e o veredito dos avaliadores.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-193",
+      "texto_apoio": "A feira livre do bairro funciona das 6h às 13h. A partir das 12h30, os preços do pescado caem à metade. Os fiscais registram que o volume de resíduo orgânico recolhido ao fim do dia diminuiu 40% desde que a prática se tornou comum.",
+      "enunciado": "Conclui-se do trecho, nas entrelinhas, que a queda de preço ao fim da feira:",
+      "alternativas": {
+        "a": "foi imposta por regulamento municipal que limita o preço do pescado nas últimas horas de funcionamento da feira",
+        "b": "reduz a margem dos feirantes a ponto de tornar o último horário economicamente desinteressante para quem vende",
+        "c": "atrai à feira um público novo, que antes não comprava pescado e passou a fazê-lo em maior quantidade",
+        "d": "converte em venda parte do que seria jogado fora",
+        "e": "elevou o desperdício nos horários iniciais, já que o consumidor prefere esperar o desconto do fim da manhã"
+      },
+      "resposta": "d",
+      "explicacao": "Menos resíduo recolhido desde que o desconto se tornou comum indica que a mercadoria passou a ser vendida em vez de jogada fora. A ligação entre o preço e o resíduo é deduzida, não afirmada.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-194",
+      "texto_apoio": "Durante a escavação, foram encontrados fragmentos de cerâmica decorada em camadas de dois períodos distintos, separadas por uma faixa de sedimento estéril de meio metro. Os padrões decorativos das duas camadas são idênticos.",
+      "enunciado": "Do achado infere-se, nas entrelinhas, que:",
+      "alternativas": {
+        "a": "a faixa estéril foi depositada por uma enchente, episódio que teria interrompido de forma abrupta a ocupação do sítio",
+        "b": "houve retorno ao local por um grupo que preservava a mesma tradição de decoração",
+        "c": "as duas camadas foram formadas ao mesmo tempo, e a faixa de sedimento entre elas é resultado de erro de escavação",
+        "d": "a cerâmica da camada superior foi trazida de outro sítio arqueológico por comerciantes que percorriam a região",
+        "e": "os padrões decorativos foram copiados por um grupo que desconhecia o significado atribuído a eles pelos primeiros ocupantes"
+      },
+      "resposta": "b",
+      "explicacao": "Camadas separadas por sedimento estéril indicam interrupção da ocupação; padrões idênticos indicam continuidade cultural. Deduz-se o retorno de um grupo com a mesma tradição.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-195",
+      "texto_apoio": "A empresa passou a divulgar internamente a faixa salarial de cada cargo. No trimestre seguinte, os pedidos de reajuste individual caíram 70% e as solicitações de mudança de cargo triplicaram.",
+      "enunciado": "Isso não está dito explicitamente, mas do trecho deduz-se que a divulgação das faixas:",
+      "alternativas": {
+        "a": "reorientou a expectativa dos funcionários da remuneração para a posição ocupada",
+        "b": "provocou insatisfação generalizada entre os funcionários, que passaram a considerar injusta a política de cargos da empresa",
+        "c": "reduziu a folha de pagamento da empresa ao desestimular a concessão de aumentos fora da tabela publicada",
+        "d": "foi determinada por acordo coletivo firmado com o sindicato da categoria no trimestre anterior à publicação dos dados",
+        "e": "revelou que os salários pagos estavam abaixo da média praticada pelas empresas concorrentes do mesmo setor"
+      },
+      "resposta": "a",
+      "explicacao": "Com a faixa conhecida, pedir aumento dentro do cargo perde sentido e mudar de cargo passa a ser o caminho. Infere-se o deslocamento da expectativa, que o trecho não enuncia.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-196",
+      "texto_apoio": "O canto de uma espécie de ave urbana foi gravado em 1965 e em 2023 na mesma praça. A frequência média subiu 400 hertz. No período, o tráfego de veículos no entorno multiplicou-se por seis.",
+      "enunciado": "Do trecho infere-se, nas entrelinhas, que a mudança no canto:",
+      "alternativas": {
+        "a": "resulta de alteração genética ocorrida na população de aves da praça ao longo das últimas seis décadas",
+        "b": "acompanha o envelhecimento dos indivíduos gravados, cujo aparelho vocal se modifica com o passar dos anos",
+        "c": "foi provocada pela chegada de outra espécie de ave à praça, com a qual a primeira passou a competir por espaço",
+        "d": "está associada ao aumento do ruído do tráfego no entorno da praça",
+        "e": "decorre de erro nos equipamentos de gravação usados em 1965, menos precisos que os disponíveis hoje"
+      },
+      "resposta": "d",
+      "explicacao": "As duas séries de dados se referem ao mesmo local e ao mesmo intervalo: canto mais agudo e tráfego seis vezes maior. A relação entre eles é deduzida pelo leitor.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-197",
+      "texto_apoio": "\"Meu avô media o tempo pela distância. Dizia que a padaria ficava a dois cigarros, e o cemitério, a um bonde e meio. Nunca usou relógio de pulso, e chegava na hora.\"",
+      "enunciado": "O que se lê nas entrelinhas permite concluir que o avô:",
+      "alternativas": {
+        "a": "desconhecia o funcionamento dos relógios mecânicos e por isso recorria a referências improvisadas para se localizar na cidade",
+        "b": "chegava atrasado aos compromissos e disfarçava o hábito com explicações pitorescas sobre a maneira de medir as distâncias",
+        "c": "dispunha de um sistema próprio de medida, ajustado à sua experiência cotidiana",
+        "d": "vivia num tempo em que os relógios eram artigos de luxo, acessíveis apenas às famílias mais abastadas da cidade",
+        "e": "media o tempo em cigarros porque fumava sem parar, e o consumo lhe servia de contagem involuntária das horas"
+      },
+      "resposta": "c",
+      "explicacao": "Unidades tiradas do próprio cotidiano e pontualidade preservada indicam um sistema de medida funcional. O texto não o descreve como tal: isso se depreende do resultado obtido pelo personagem.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-198",
+      "texto_apoio": "O edital previa que 20% das vagas seriam preenchidas por moradores do município. Das 340 contratações efetivadas, 68 recaíram sobre moradores locais. A empresa divulgou que superou a meta de contratação regional.",
+      "enunciado": "Isso não está dito explicitamente, mas do trecho depreende-se que a divulgação da empresa:",
+      "alternativas": {
+        "a": "reproduz um erro de cálculo cometido pela comissão que fiscalizou a execução das contratações previstas no edital municipal",
+        "b": "descreve como superação o que foi apenas o cumprimento do piso previsto",
+        "c": "omite o número total de contratações realizadas, dado sem o qual o percentual divulgado não pode ser verificado por terceiros",
+        "d": "se refere a outro edital, cujas exigências de contratação local eram inferiores às estabelecidas no processo aqui descrito",
+        "e": "considerou moradores de municípios vizinhos no cálculo do percentual apresentado à opinião pública após o encerramento do processo"
+      },
+      "resposta": "b",
+      "explicacao": "68 em 340 é exatamente 20%, o piso do edital. Deduz-se que a empresa chamou de superação o cumprimento estrito da regra, o que o trecho não afirma.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-199",
+      "texto_apoio": "Nos primeiros seis meses de operação da ciclovia, foram registradas 14 quedas de ciclistas no trecho de piso liso. Depois da troca do revestimento, o número caiu para duas. O volume de ciclistas dobrou no mesmo período.",
+      "enunciado": "Nas entrelinhas do trecho, infere-se que a troca do revestimento:",
+      "alternativas": {
+        "a": "reduziu a velocidade média dos ciclistas no trecho, o que explicaria sozinho a queda observada no número de acidentes",
+        "b": "foi motivada por reclamações formais registradas pelos ciclistas junto ao órgão de trânsito responsável pela via",
+        "c": "aumentou o custo de manutenção da ciclovia acima do previsto no contrato firmado com a empresa responsável pela obra",
+        "d": "não produziu efeito mensurável, já que o crescimento do número de ciclistas compensou a redução dos registros de queda",
+        "e": "melhorou a segurança de forma ainda mais expressiva do que os números brutos indicam"
+      },
+      "resposta": "e",
+      "explicacao": "As quedas caíram de 14 para 2 enquanto o número de ciclistas dobrou: por usuário, a redução é maior que a aparente. Deduz-se um ganho superior ao que o número absoluto mostra.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-200",
+      "texto_apoio": "A geleira recuou 1,8 quilômetro entre 1980 e 2020. Sob o gelo derretido, apareceram troncos de árvores datados de 4 mil anos atrás, ainda enraizados no solo original.",
+      "enunciado": "Do achado deduz-se, nas entrelinhas, que:",
+      "alternativas": {
+        "a": "os troncos foram transportados até ali pelo próprio movimento da geleira, que os arrastou desde florestas situadas em altitudes menores",
+        "b": "a datação dos troncos está incorreta, pois nenhuma árvore poderia crescer numa região hoje coberta por gelo permanente",
+        "c": "o recuo da geleira nas últimas quatro décadas é o maior já registrado desde o surgimento das primeiras florestas na região",
+        "d": "há 4 mil anos aquele terreno esteve livre de gelo e sustentou vegetação",
+        "e": "as árvores morreram por causa do avanço do gelo, processo que teria levado poucos meses até o congelamento completo do solo"
+      },
+      "resposta": "d",
+      "explicacao": "Troncos enraizados no solo original só existem onde houve floresta viva. Infere-se que o local já esteve descoberto e arborizado, e que o gelo veio depois.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-201",
+      "texto_apoio": "Na biblioteca comunitária, os livros ficam em prateleiras abertas e não há registro de empréstimo. Ao fim de cada ano, o acervo tem mais volumes do que no início. Boa parte dos títulos novos não consta de nenhuma lista de compra.",
+      "enunciado": "O ponto não está dito explicitamente; infere-se, ainda assim, do trecho que:",
+      "alternativas": {
+        "a": "os frequentadores devolvem os livros e ainda deixam exemplares próprios no acervo",
+        "b": "a biblioteca recebe verba pública destinada à aquisição de títulos que não passam pelo processo formal de compra",
+        "c": "os livros ausentes das listas de compra foram catalogados de forma equivocada pela equipe responsável pelo acervo",
+        "d": "a ausência de registro de empréstimo impede que a biblioteca saiba quantos volumes efetivamente possui em suas prateleiras",
+        "e": "o acervo cresce porque poucos frequentadores levam livros para casa, temendo a responsabilidade pela devolução no prazo"
+      },
+      "resposta": "a",
+      "explicacao": "Sem controle e sem compra, o crescimento do acervo só se explica por doação espontânea de quem frequenta. É a dedução que o conjunto autoriza.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-202",
+      "texto_apoio": "A norma exige que o rótulo informe a quantidade de sódio por porção. As porções declaradas variam entre fabricantes: uma marca adota 30 gramas e a concorrente, 15 gramas, para o mesmo produto.",
+      "enunciado": "Conclui-se do trecho, nas entrelinhas, que:",
+      "alternativas": {
+        "a": "a norma foi descumprida pela marca que adotou a porção de 15 gramas, valor inferior ao mínimo estabelecido pela regulamentação vigente",
+        "b": "os dois produtos têm composições diferentes, e a divergência de porções decorre dessa diferença de formulação entre eles",
+        "c": "a informação de sódio por porção é dispensável, já que o consumidor consulta o valor total impresso na embalagem do produto",
+        "d": "a fiscalização de rótulos deixou de ser realizada nos últimos anos, o que permitiu a adoção de porções escolhidas livremente",
+        "e": "a exigência da norma, do modo como está redigida, dificulta cotejar uma marca com outra"
+      },
+      "resposta": "e",
+      "explicacao": "A norma manda informar por porção, mas não fixa a porção. Deduz-se que valores calculados sobre bases distintas não podem ser postos lado a lado pelo consumidor.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-203",
+      "texto_apoio": "Em 2010 a orquestra passou a fazer audições atrás de um biombo, com os candidatos descalços para que o som dos passos não os identificasse. A proporção de mulheres aprovadas subiu de 12% para 41% em dez anos.",
+      "enunciado": "Isso não está dito explicitamente, mas do trecho depreende-se que:",
+      "alternativas": {
+        "a": "o número de mulheres candidatas às vagas da orquestra cresceu de forma acentuada ao longo da década analisada",
+        "b": "o repertório exigido nas audições foi alterado em 2010 e passou a favorecer instrumentistas com formação recente",
+        "c": "o julgamento anterior era influenciado por informações alheias ao desempenho musical",
+        "d": "os avaliadores da orquestra foram substituídos no mesmo ano em que o biombo passou a ser adotado nas audições",
+        "e": "o biombo prejudicou a avaliação técnica, tornando o resultado das audições menos confiável do que era antes de 2010"
+      },
+      "resposta": "c",
+      "explicacao": "Se esconder a identidade muda o resultado, é porque a identidade pesava antes. O trecho descreve o procedimento e o efeito; a causa fica implícita.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-204",
+      "texto_apoio": "O programa de merenda passou a comprar 30% dos alimentos de agricultores do próprio município. O gasto por refeição subiu 8%. A quantidade de alimento devolvida nos pratos caiu 26%.",
+      "enunciado": "Do trecho infere-se, nas entrelinhas, que a mudança na compra:",
+      "alternativas": {
+        "a": "encareceu a refeição sem produzir efeito perceptível sobre a aceitação do cardápio entre os estudantes atendidos pelo programa de merenda",
+        "b": "elevou o custo unitário, mas reduziu a perda de alimento servido",
+        "c": "obrigou o município a diminuir o número de refeições servidas diariamente para acomodar o novo custo dentro do orçamento",
+        "d": "resultou de imposição legal que fixa em 30% o percentual mínimo de compra junto a produtores locais no país inteiro",
+        "e": "reduziu a variedade do cardápio oferecido, já que os agricultores locais fornecem um conjunto restrito de produtos ao programa"
+      },
+      "resposta": "b",
+      "explicacao": "Dois efeitos aparecem juntos: preço maior por refeição e menos comida jogada fora. Deduz-se o par ganho e custo, sem que o trecho o formule.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-205",
+      "texto_apoio": "O sistema de irrigação por gotejamento foi instalado em metade da propriedade. Na área com gotejamento, a colheita foi 12% maior e o consumo de água, 45% menor. O produtor manteve o método antigo na outra metade por mais duas safras.",
+      "enunciado": "Isso não está dito explicitamente, mas do trecho deduz-se que a decisão de manter o sistema antigo:",
+      "alternativas": {
+        "a": "atendeu a exigência do órgão ambiental, que condicionou a licença de irrigação à preservação parcial do sistema anterior de captação",
+        "b": "não decorreu do desempenho medido na área irrigada por gotejamento",
+        "c": "confirmou a superioridade do sistema antigo em condições de solo distintas das encontradas na primeira metade da propriedade",
+        "d": "resultou do cotejo das duas metades, feito ao fim das duas safras adicionais de acompanhamento técnico",
+        "e": "levou o produtor a desinstalar o sistema de gotejamento assim que a segunda safra foi encerrada na área de teste"
+      },
+      "resposta": "b",
+      "explicacao": "O gotejamento produziu mais gastando menos água. Manter o sistema antigo, diante disso, tem outra razão — financeira, contratual ou de hábito —, e é essa ausência de justificativa técnica que se depreende.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-206",
+      "texto_apoio": "\"Recebemos o diagnóstico numa terça-feira. Minha mãe pediu para ler sozinha o papel, dobrou-o em quatro e o guardou na bolsa. No jantar, serviu duas vezes a sobremesa que eu preferia e falou do jardim a noite inteira.\"",
+      "enunciado": "O comportamento da mãe dá a entender, nas entrelinhas, que ela:",
+      "alternativas": {
+        "a": "não compreendeu o conteúdo do documento entregue pelo serviço médico e adiou a leitura para outro momento mais oportuno",
+        "b": "considerou o resultado favorável e comemorou a notícia com a família por meio de uma refeição fora da rotina habitual",
+        "c": "pretendia dividir o resultado com os demais parentes antes de comunicá-lo ao filho que narra a cena da terça-feira",
+        "d": "esqueceu o papel dentro da bolsa e passou a noite ocupada com assuntos domésticos sem relação com o exame realizado",
+        "e": "recebeu uma notícia difícil e escolheu protegê-la do restante da família naquela noite"
+      },
+      "resposta": "e",
+      "explicacao": "Ler sozinha, guardar o papel, agradar o filho e conversar sobre assunto neutro compõem um gesto de proteção. O resultado não é informado: ele se deduz da cena.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-207",
+      "texto_apoio": "A tarifa de ônibus foi zerada aos domingos. A demanda subiu 240% nesse dia. Nos demais dias, os embarques cresceram 3%. O comércio do centro registrou alta de 18% no faturamento dominical.",
+      "enunciado": "Do trecho infere-se, nas entrelinhas, que a gratuidade dominical:",
+      "alternativas": {
+        "a": "transferiu para o domingo viagens que antes eram feitas nos demais dias da semana pelos mesmos passageiros",
+        "b": "beneficiou principalmente quem já utilizava o transporte público aos domingos e passou a economizar com a passagem",
+        "c": "encareceu a tarifa dos outros dias da semana, o que explicaria o crescimento modesto de 3% registrado nos embarques",
+        "d": "gerou efeito que ultrapassa o transporte e alcança a atividade econômica do centro",
+        "e": "reduziu a arrecadação do sistema a ponto de comprometer a manutenção da frota utilizada nos dias úteis pela empresa operadora"
+      },
+      "resposta": "d",
+      "explicacao": "Demanda dominical multiplicada, dias úteis quase estáveis e comércio em alta no domingo: deduz-se um efeito que extrapola o sistema de transporte.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-208",
+      "texto_apoio": "As atas da assembleia de 1889 registram a presença de 47 delegados. As assinaturas ao pé do documento somam 31. As 16 restantes aparecem como rubrica de próprio punho de um mesmo secretário.",
+      "enunciado": "Do documento infere-se, nas entrelinhas, que:",
+      "alternativas": {
+        "a": "parte dos presentes não assinou pessoalmente o registro da assembleia",
+        "b": "dezesseis delegados abandonaram a assembleia antes do encerramento dos trabalhos daquele dia e por isso deixaram de assinar a ata",
+        "c": "o secretário falsificou as assinaturas para inflar o número de participantes declarado no documento oficial de 1889",
+        "d": "a assembleia reuniu 31 delegados, e o número de 47 registrado na abertura da ata resulta de erro material de contagem",
+        "e": "as rubricas do secretário correspondem a delegados que se opuseram ao teor das deliberações aprovadas naquela sessão"
+      },
+      "resposta": "a",
+      "explicacao": "47 presentes, 31 assinaturas e 16 rubricas de terceiro: o que o documento permite deduzir é a assinatura por procuração ou substituição, sem qualquer juízo sobre fraude ou abandono.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-209",
+      "texto_apoio": "O laboratório testou o mesmo medicamento em duas apresentações: comprimido e solução oral. A absorção foi idêntica. O abandono do tratamento entre crianças caiu de 34% para 9% com a solução oral.",
+      "enunciado": "O dado não está dito explicitamente; depreende-se, ainda assim, do trecho que:",
+      "alternativas": {
+        "a": "a solução oral tem eficácia farmacológica superior à do comprimido quando administrada à população pediátrica atendida no estudo",
+        "b": "o comprimido apresenta efeitos adversos mais intensos, o que teria levado ao abandono precoce do tratamento pelas crianças",
+        "c": "o sucesso do tratamento depende também da forma de administração, e não apenas do princípio ativo",
+        "d": "as crianças tratadas com solução oral receberam doses menores, o que reduziu o desconforto associado ao uso continuado",
+        "e": "a taxa de abandono independe da apresentação escolhida, já que a absorção medida foi a mesma nos dois grupos avaliados"
+      },
+      "resposta": "c",
+      "explicacao": "Absorção igual e adesão muito diferente separam o efeito químico do efeito prático. Infere-se que a apresentação pesa no resultado clínico, o que o trecho não afirma.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-210",
+      "texto_apoio": "Na estação de trem restaurada, os bancos de madeira foram substituídos por assentos individuais separados por apoios de braço fixos. A prefeitura informou que a mudança visava ao conforto dos passageiros. O número de pessoas em situação de rua registrado no local caiu a zero.",
+      "enunciado": "Do trecho infere-se, nas entrelinhas, que a substituição dos bancos:",
+      "alternativas": {
+        "a": "atendeu a pedido dos passageiros, que reclamavam do desconforto dos bancos corridos de madeira instalados na estação antiga",
+        "b": "teve efeito que ultrapassa o conforto anunciado",
+        "c": "reduziu a capacidade de assentos da estação, o que explicaria a diminuição do número de pessoas registradas no local",
+        "d": "foi acompanhada de um programa municipal de acolhimento que realocou as pessoas em situação de rua para abrigos próximos",
+        "e": "elevou o custo da reforma da estação acima do previsto no projeto aprovado pelo órgão de patrimônio histórico da cidade"
+      },
+      "resposta": "b",
+      "explicacao": "O apoio de braço fixo impede deitar. A justificativa oficial fala em conforto, mas o dado seguinte revela outro resultado — e é ele que se depreende.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-211",
+      "texto_apoio": "O rio urbano foi canalizado nos anos 1970 e coberto por uma avenida. Desde então, três bairros a jusante registram alagamentos em chuvas acima de 40 milímetros por hora. Antes da obra, o limite era de 90 milímetros.",
+      "enunciado": "Conclui-se do trecho, nas entrelinhas, que a canalização:",
+      "alternativas": {
+        "a": "resolveu o problema de enchentes nos bairros situados a montante, transferindo o volume de água para a foz do curso canalizado",
+        "b": "foi executada com dimensionamento correto, e os alagamentos atuais decorrem apenas do aumento do volume de chuvas na região",
+        "c": "reduziu a capacidade do sistema de absorver chuvas intensas",
+        "d": "acompanhou o crescimento populacional dos três bairros, cuja ocupação se intensificou justamente ao longo da década de 1970",
+        "e": "é uma obra reversível, e a retirada da avenida restauraria em poucos meses o limite de 90 milímetros registrado antes de 1970"
+      },
+      "resposta": "c",
+      "explicacao": "O limite de chuva suportada caiu de 90 para 40 milímetros por hora depois da obra. A perda de capacidade é a dedução direta, embora o trecho apenas justaponha os dois números.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-212",
+      "texto_apoio": "A plataforma de vídeo reduziu de 15 para 5 segundos o tempo de anúncio obrigatório. O tempo médio de permanência dos usuários subiu 11 minutos por sessão. A receita de publicidade cresceu 6%.",
+      "enunciado": "Isso não está dito explicitamente, mas do trecho infere-se que:",
+      "alternativas": {
+        "a": "a perda por anúncio foi compensada pelo aumento do tempo de uso",
+        "b": "os anunciantes passaram a pagar mais caro por segundo veiculado, o que sustentou o crescimento de 6% na receita registrada",
+        "c": "a redução do anúncio desagradou aos anunciantes, que migraram para plataformas concorrentes com regras de veiculação publicitária mais amplas",
+        "d": "o aumento de 11 minutos por sessão decorre da entrada de novos usuários na plataforma, e não da mudança no formato dos anúncios",
+        "e": "a plataforma deixou de exibir anúncios a parte dos usuários, prática que teria elevado a permanência média medida em cada sessão"
+      },
+      "resposta": "a",
+      "explicacao": "Anúncio três vezes menor e receita ainda assim maior só fecham se o volume de exibições cresceu com a permanência. É o que se deduz da combinação dos três dados.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-213",
+      "texto_apoio": "Na oficina de restauro, a tela do século XVIII revelou, sob a camada de verniz escurecido, um segundo cão pintado ao lado do primeiro. A análise por raios X mostrou que a figura foi coberta ainda no ateliê original, com a mesma tinta usada no fundo.",
+      "enunciado": "Do trecho deduz-se, nas entrelinhas, que:",
+      "alternativas": {
+        "a": "a tela foi adulterada por um restaurador posterior, interessado em simplificar a composição para facilitar a venda da obra",
+        "b": "o verniz escurecido foi aplicado com a intenção deliberada de esconder a figura suprimida durante a execução do quadro",
+        "c": "o segundo cão pertence a outra tela, sobreposta à primeira por reaproveitamento do suporte de madeira original do século XVIII",
+        "d": "a análise por raios X é incapaz de datar camadas de tinta, o que torna inconclusiva a hipótese formulada sobre o momento do encobrimento",
+        "e": "o próprio autor mudou de ideia durante a execução da obra"
+      },
+      "resposta": "e",
+      "explicacao": "Mesma tinta e mesmo ateliê situam o encobrimento no processo original de pintura. Infere-se uma alteração feita pelo próprio autor, não uma intervenção posterior.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-214",
+      "texto_apoio": "O município criou uma linha de crédito para pequenos negócios, com juro subsidiado e limite de 20 mil reais. Foram protocolados 1.400 pedidos e aprovados 190. Entre os motivos de recusa, 71% mencionam ausência de comprovação de renda formal.",
+      "enunciado": "Isso não é dito explicitamente, mas do trecho depreende-se que:",
+      "alternativas": {
+        "a": "a linha de crédito foi mal divulgada, o que explica o número elevado de pedidos protocolados de forma incompleta pelos interessados",
+        "b": "o limite de 20 mil reais era baixo demais para os negócios do município e desestimulou a maior parte dos candidatos aprovados",
+        "c": "a exigência de comprovação formal deixa de fora justamente o público que a linha pretendia alcançar",
+        "d": "os 190 pedidos aprovados correspondem a negócios de médio porte, únicos capazes de apresentar a documentação exigida no edital",
+        "e": "o juro subsidiado tornou o crédito atraente para empresas que já dispunham de acesso a financiamento bancário convencional"
+      },
+      "resposta": "c",
+      "explicacao": "Pequeno negócio costuma operar na informalidade; a recusa por falta de renda formal atinge 71% dos casos. Deduz-se o descompasso entre o público visado e a exigência documental.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-215",
+      "texto_apoio": "As sementes de certa árvore só germinam depois de passar pelo trato digestivo de aves de grande porte. Essas aves desapareceram da mata há cerca de sessenta anos. Os indivíduos jovens da espécie vegetal encontrados hoje são todos plantados por equipes de manejo.",
+      "enunciado": "O ponto não está dito explicitamente; infere-se, ainda assim, que a espécie vegetal:",
+      "alternativas": {
+        "a": "deixou de produzir sementes viáveis depois do desaparecimento das aves que a dispersavam nas décadas anteriores ao manejo",
+        "b": "foi introduzida na mata pelas equipes de manejo, e sua presença anterior na região decorre de registro documental equivocado",
+        "c": "encontrou outro dispersor entre os animais de menor porte que ocuparam o espaço deixado pelas aves desaparecidas na região",
+        "d": "perdeu a capacidade de se reproduzir sem intervenção humana naquele ambiente",
+        "e": "sobrevive apenas em áreas de manejo, e os exemplares adultos remanescentes na mata nativa já foram integralmente suprimidos"
+      },
+      "resposta": "d",
+      "explicacao": "Sem o dispersor, a germinação natural cessa; os jovens existentes vêm todos de plantio. Deduz-se a dependência da intervenção humana para a reprodução, que o trecho não enuncia.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-216",
+      "texto_apoio": "O contrato de locação previa reajuste anual pelo índice de inflação. Em cinco anos, o aluguel subiu 62%. A renda média do bairro, no mesmo intervalo, subiu 19%. A taxa de vacância dos imóveis passou de 4% para 17%.",
+      "enunciado": "Conclui-se do trecho, nas entrelinhas, que:",
+      "alternativas": {
+        "a": "os proprietários reduziram os valores pedidos a partir do terceiro ano do contrato, buscando reter os inquilinos já instalados nos imóveis",
+        "b": "o índice de reajuste descolou o aluguel da capacidade de pagamento local",
+        "c": "a alta da vacância decorre da entrada de novos imóveis no mercado do bairro ao longo do período considerado no contrato",
+        "d": "a renda média do bairro caiu em termos reais porque os moradores passaram a comprometer parte maior do orçamento com moradia",
+        "e": "o contrato de locação foi descumprido pelos proprietários, que aplicaram reajustes superiores ao índice de inflação previsto em cláusula"
+      },
+      "resposta": "b",
+      "explicacao": "Aluguel muito acima da renda e vacância multiplicada por quatro apontam para inquilinos que deixaram de pagar o valor pedido. A ligação entre os três dados é deduzida.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-217",
+      "texto_apoio": "\"Na casa de meu tio havia um relógio de parede que atrasava dois minutos por dia. Ele o acertava toda manhã, ao acordar, e dizia que era assim que sabia que o dia havia começado. Quando o tio morreu, o relógio parou de ser acertado e ninguém teve coragem de mexer nele.\"",
+      "enunciado": "O trecho permite concluir, nas entrelinhas, que o relógio:",
+      "alternativas": {
+        "a": "deixou de marcar as horas para marcar a ausência do tio",
+        "b": "apresentava defeito mecânico grave, e o atraso diário de dois minutos indicava que a peça se aproximava do fim de sua vida útil",
+        "c": "foi retirado da parede pelos familiares logo após a morte do tio, para evitar a lembrança dolorosa associada ao objeto",
+        "d": "servia de instrumento de medida confiável para a família inteira, que organizava a rotina doméstica a partir de seus ponteiros",
+        "e": "voltou a funcionar corretamente depois que ninguém mais o ajustou, uma vez que o atraso diário se compensava ao longo das semanas"
+      },
+      "resposta": "a",
+      "explicacao": "O gesto diário do tio dava sentido ao aparelho; sem ele, o relógio permanece intocado. Depreende-se que o objeto passou a valer como lembrança, não como medida do tempo.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-218",
+      "texto_apoio": "O painel solar instalado na escola cobre 80% do consumo em dias claros. A conta de energia caiu 46% no primeiro ano. A escola funciona também no período noturno, quando o painel não gera eletricidade.",
+      "enunciado": "Isso não está dito explicitamente, mas do trecho depreende-se que:",
+      "alternativas": {
+        "a": "o painel foi subdimensionado em relação ao consumo diurno da escola, e por isso a economia ficou abaixo do percentual de cobertura",
+        "b": "a escola passou a transferir atividades do período noturno para o diurno a fim de aproveitar melhor a geração do painel instalado",
+        "c": "a energia gerada durante o dia é armazenada em baterias e utilizada nas atividades realizadas no período da noite pela escola",
+        "d": "a tarifa noturna cobrada da escola é mais cara que a diurna, o que reduziu o ganho obtido com a instalação do sistema solar",
+        "e": "parte relevante do consumo da escola ocorre fora do horário de geração"
+      },
+      "resposta": "e",
+      "explicacao": "Cobertura de 80% no dia e economia de 46% no ano só se conciliam se boa parte do gasto acontecer à noite. Infere-se o peso do período noturno na conta.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-219",
+      "texto_apoio": "As árvores de rua reduzem em até 4 graus a temperatura das calçadas em dias quentes. Copas largas interceptam a radiação antes que ela alcance o asfalto.\n\nContudo, raízes mal acomodadas erguem o piso e criam degraus onde deveria haver superfície contínua.",
+      "enunciado": "O conectivo que abre o parágrafo final estabelece, com o parágrafo anterior, uma relação de:",
+      "alternativas": {
+        "a": "adição, somando um segundo benefício da arborização de calçadas ao benefício térmico já descrito antes",
+        "b": "ressalva, apresentando um inconveniente do que fora elogiado",
+        "c": "finalidade, indicando o objetivo perseguido pelo plantio de árvores nas ruas de grandes cidades brasileiras",
+        "d": "explicação, esclarecendo por que as copas largas interceptam a radiação solar antes de ela atingir o asfalto",
+        "e": "comparação, medindo o desempenho térmico de dois tipos distintos de revestimento aplicado sobre as calçadas"
+      },
+      "resposta": "b",
+      "explicacao": "\"Contudo\" introduz um dado que restringe o elogio feito antes: as mesmas árvores que refrescam a calçada podem danificá-la. A articulação entre os parágrafos é de ressalva.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-220",
+      "texto_apoio": "O bairro recebeu iluminação pública nova em 2021. Os registros de furto caíram 18% no ano seguinte.\n\nEsse número, porém, precisa ser lido com cautela: no mesmo período, duas ruas foram fechadas para obras e o fluxo de pedestres diminuiu.",
+      "enunciado": "A organização do texto se apoia em uma relação de causa e efeito que o parágrafo final:",
+      "alternativas": {
+        "a": "confirma, ao acrescentar dados de fluxo de pedestres que reforçam a ligação entre iluminação nova e queda dos furtos",
+        "b": "suprime, uma vez que retira do texto a informação sobre a instalação da iluminação pública ocorrida em 2021",
+        "c": "amplia para outros bairros da cidade, generalizando o efeito da iluminação sobre os índices locais de criminalidade",
+        "d": "relativiza, ao apontar um segundo fator capaz de explicar a queda",
+        "e": "inverte, atribuindo à queda dos furtos a decisão administrativa de instalar iluminação pública naquele bairro"
+      },
+      "resposta": "d",
+      "explicacao": "O parágrafo final não nega o dado, mas introduz uma variável concorrente — a queda do fluxo de pedestres — que enfraquece o vínculo causal montado no parágrafo anterior.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-221",
+      "texto_apoio": "A vacina contra a febre amarela é produzida em ovos embrionados desde os anos 1930. O processo exige oito meses e uma cadeia de frio ininterrupta.\n\nNovas plataformas de cultivo celular reduzem esse prazo a seis semanas e dispensam parte da refrigeração.",
+      "enunciado": "A progressão textual se organiza a partir do contraste entre:",
+      "alternativas": {
+        "a": "um processo antigo e demorado e uma alternativa técnica mais rápida",
+        "b": "a eficácia da vacina obtida em ovos embrionados e a eficácia menor da produzida em cultivo celular moderno",
+        "c": "o custo da cadeia de frio no Brasil e o custo do mesmo procedimento em países de clima temperado do hemisfério norte",
+        "d": "a febre amarela urbana, transmitida em cidades, e a febre amarela silvestre, restrita a áreas de mata preservada",
+        "e": "os laboratórios públicos de imunobiológicos e os laboratórios privados que disputam o mercado de vacinas no país"
+      },
+      "resposta": "a",
+      "explicacao": "O primeiro parágrafo descreve o método antigo com seus prazos; o segundo apresenta a plataforma que os encurta. É essa oposição entre os dois processos que faz o texto avançar.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-222",
+      "texto_apoio": "Os primeiros relógios mecânicos europeus não tinham ponteiro de minutos. Marcavam apenas as horas canônicas, e assim bastava.\n\nFoi a expansão do comércio marítimo que tornou o minuto uma unidade útil. Sem ele, o cálculo da longitude a bordo permanecia inviável.",
+      "enunciado": "No parágrafo final, o pronome \"ele\" retoma o:",
+      "alternativas": {
+        "a": "comércio marítimo cuja expansão europeia motivou a alteração introduzida nos primeiros mecanismos de contagem do tempo",
+        "b": "relógio mecânico europeu descrito no parágrafo anterior como aparelho desprovido de indicação de unidades menores",
+        "c": "cálculo da longitude, procedimento que os navegantes realizavam a bordo com auxílio de tabelas astronômicas impressas",
+        "d": "conjunto das horas canônicas que organizavam a rotina religiosa e balizavam a marcação do tempo naquele período",
+        "e": "minuto, apresentado na oração anterior como unidade tornada útil"
+      },
+      "resposta": "e",
+      "explicacao": "O termo mais próximo e semanticamente compatível é \"minuto\", sujeito da oração imediatamente anterior. O elemento coesivo garante a continuidade entre as duas orações do parágrafo.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-223",
+      "texto_apoio": "O algoritmo de recomendação aprende com o histórico de cada usuário. Quanto mais alguém assiste a um assunto, mais ele recebe daquele assunto.\n\nO efeito acumulado estreita o repertório oferecido. O que começa como acerto termina como cerco.",
+      "enunciado": "A frase que fecha o texto se articula com o parágrafo inicial porque:",
+      "alternativas": {
+        "a": "descreve o funcionamento interno do sistema de recomendação em termos técnicos ausentes das linhas iniciais do texto",
+        "b": "apresenta um exemplo concreto de usuário afetado pelo estreitamento do repertório oferecido pela plataforma de vídeo",
+        "c": "converte em fórmula breve o processo descrito antes",
+        "d": "corrige uma informação equivocada sobre o aprendizado do algoritmo veiculada logo na abertura da exposição",
+        "e": "introduz um novo assunto, deslocando a atenção do leitor do algoritmo para o comportamento social dos usuários da rede"
+      },
+      "resposta": "c",
+      "explicacao": "\"O que começa como acerto termina como cerco\" condensa em uma frase o mecanismo exposto nos períodos anteriores. O fecho retoma o percurso e o resume.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-224",
+      "texto_apoio": "Entre 1890 e 1920, a cidade dobrou de tamanho. Chegavam trens de três direções, e cada estação puxava um novo loteamento.\n\nA rede de esgoto, entretanto, seguiu servindo apenas o quadrilátero central. As epidemias se concentraram exatamente nas bordas.",
+      "enunciado": "O conectivo \"entretanto\", no parágrafo final, estabelece com o parágrafo anterior uma relação de:",
+      "alternativas": {
+        "a": "consequência, indicando que a chegada dos trens produziu diretamente a limitação observada na rede de esgoto do centro",
+        "b": "ilustração, apresentando o quadrilátero central como caso particular do crescimento urbano descrito nas linhas iniciais",
+        "c": "condição, submetendo o crescimento da cidade à existência prévia de uma rede de saneamento suficiente para atendê-la",
+        "d": "contraposição, opondo à expansão da malha urbana a estagnação do saneamento",
+        "e": "temporalidade, situando a construção da rede de esgoto em momento anterior à abertura dos loteamentos das bordas"
+      },
+      "resposta": "d",
+      "explicacao": "O texto cresce por oposição: a cidade se espalha, a infraestrutura não acompanha. \"Entretanto\" marca essa quebra e prepara o dado sobre as epidemias.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-225",
+      "texto_apoio": "Peixes de recife reconhecem indivíduos de outras espécies e voltam a procurá-los. Certos bodiões limpam parasitas de clientes que os visitam com regularidade.\n\nQuando há platéia, o bodião trapaceia menos. A observação altera a conduta.",
+      "enunciado": "A articulação entre as ideias dos dois parágrafos se dá por meio de uma relação de:",
+      "alternativas": {
+        "a": "reformulação, já que o parágrafo final repete com outras palavras o mesmo conteúdo apresentado nas linhas de abertura",
+        "b": "especificação, pois o parágrafo final detalha uma condição que altera o comportamento descrito antes",
+        "c": "concessão, uma vez que o segundo trecho admite a existência de peixes incapazes de reconhecer clientes já atendidos",
+        "d": "alternância, apresentando duas explicações incompatíveis para a limpeza de parasitas realizada pelos bodiões nos recifes",
+        "e": "anterioridade, situando o comportamento de trapaça em fase evolutiva anterior à do reconhecimento entre indivíduos"
+      },
+      "resposta": "b",
+      "explicacao": "O primeiro parágrafo estabelece a relação entre limpador e cliente; o segundo acrescenta uma variável — a presença de observadores — que a modifica. O encadeamento vai do geral ao específico.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-226",
+      "texto_apoio": "A ponte foi entregue em março, com 40 dias de antecedência. O trecho de acesso, contratado à parte, ficou pronto dezoito meses depois.\n\nDurante esse intervalo, a obra concluída permaneceu fechada ao trânsito.",
+      "enunciado": "A organização do texto expõe um nexo causal em que:",
+      "alternativas": {
+        "a": "o atraso do acesso anulou o ganho obtido com a entrega antecipada",
+        "b": "a antecipação da entrega da ponte encareceu o contrato do trecho de acesso firmado separadamente pelo poder público",
+        "c": "o fechamento da ponte ao trânsito motivou a contratação separada do trecho de acesso executado dezoito meses mais tarde",
+        "d": "a duração de dezoito meses do segundo contrato decorreu da pressa imposta ao cronograma da primeira etapa da obra",
+        "e": "a entrega antecipada da ponte permitiu que o trecho de acesso fosse iniciado antes do prazo previsto no cronograma"
+      },
+      "resposta": "a",
+      "explicacao": "O texto encadeia três informações — entrega antecipada, acesso atrasado, ponte fechada — de modo que a última anula o efeito prático da primeira. É essa relação de causa e efeito que o arranjo constrói.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-227",
+      "texto_apoio": "Existe um mapa da fome que não coincide com o mapa da produção agrícola. Os estados que mais colhem grãos não são os que melhor alimentam a própria população.\n\nO que separa uma coisa da outra é a renda, e não a lavoura.",
+      "enunciado": "O que distingue o parágrafo inicial do parágrafo final, na organização do texto, é que o primeiro:",
+      "alternativas": {
+        "a": "apresenta dados numéricos de produção agrícola e o segundo os substitui por estimativas de consumo domiciliar por região",
+        "b": "descreve a situação de um único estado brasileiro e o segundo amplia a descrição para o conjunto das unidades da federação",
+        "c": "trata da fome no meio urbano e o segundo desloca a exposição para as condições de vida das populações rurais do país",
+        "d": "defende o aumento da produção de grãos e o segundo recomenda a redução das áreas plantadas nas regiões mais produtivas",
+        "e": "constata um descompasso e o segundo indica o fator que o produz"
+      },
+      "resposta": "e",
+      "explicacao": "O primeiro parágrafo registra a falta de coincidência entre os dois mapas; o segundo nomeia a variável responsável. A progressão vai do fato observado à sua explicação.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-228",
+      "texto_apoio": "Nas cidades litorâneas, a maré alta encontra hoje um obstáculo que não existia há um século: o muro de contenção.\n\nA água sobe, bate no concreto e volta com mais força. O que a areia absorvia, o muro devolve.",
+      "enunciado": "No parágrafo final, o elemento coesivo \"o que a areia absorvia\" retoma o trecho anterior porque:",
+      "alternativas": {
+        "a": "antecipa uma informação que o parágrafo inicial ainda não havia apresentado sobre as marés das cidades litorâneas",
+        "b": "substitui o muro de contenção por outro elemento construído, alterando o objeto tratado nas linhas iniciais do texto",
+        "c": "recupera a energia da maré descrita antes, que a faixa de areia dissipava",
+        "d": "reproduz literalmente uma passagem já enunciada, sem acrescentar informação nova ao percurso construído até ali",
+        "e": "encerra o assunto do parágrafo inicial e abre um segundo assunto, ligado ao processo de erosão das encostas costeiras"
+      },
+      "resposta": "c",
+      "explicacao": "O elemento coesivo recupera a energia da água mencionada antes e a opõe ao comportamento do concreto. Sem essa retomada, o fecho perderia o referente.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-229",
+      "texto_apoio": "Todo censo custa caro e demora. Ainda assim, países que abandonaram a contagem domiciliar por registros administrativos passaram a perder de vista justamente quem não tem registro.\n\nA população invisível cresce quando o instrumento encolhe.",
+      "enunciado": "A relação lógica entre o parágrafo inicial e o parágrafo final é de:",
+      "alternativas": {
+        "a": "concessão seguida de contraposição, pois o custo do censo é admitido e depois superado por uma razão de outra ordem",
+        "b": "sucessão temporal, dado que os dois trechos descrevem etapas consecutivas do processo de coleta domiciliar de dados",
+        "c": "equivalência, uma vez que os dois parágrafos afirmam, com palavras distintas, exatamente o mesmo conteúdo informativo",
+        "d": "finalidade, já que o parágrafo final indica o objetivo perseguido pelos países que mantiveram a contagem domiciliar completa",
+        "e": "condição, porque o parágrafo inicial estabelece o requisito sem o qual a contagem administrativa não poderia ser adotada"
+      },
+      "resposta": "a",
+      "explicacao": "\"Ainda assim\" admite o custo apontado na abertura e o desqualifica como razão suficiente. O texto avança admitindo para em seguida opor.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-230",
+      "texto_apoio": "A biblioteca do mosteiro copiava manuscritos por encomenda. Cada cópia levava meses e custava o equivalente a uma pequena propriedade rural.\n\nCom a prensa de tipos móveis, o mesmo volume passou a sair em dias. O preço caiu a um vigésimo.",
+      "enunciado": "A progressão temática do texto se apoia na comparação entre:",
+      "alternativas": {
+        "a": "o conteúdo dos manuscritos copiados no mosteiro e o conteúdo dos primeiros volumes impressos com tipos móveis na Europa",
+        "b": "o trabalho dos copistas do mosteiro e o trabalho dos comerciantes que distribuíam os volumes já prontos pelas cidades",
+        "c": "a qualidade material do pergaminho utilizado nas cópias manuais e a qualidade do papel adotado nas oficinas de impressão",
+        "d": "as encomendas feitas por autoridades religiosas e as encomendas feitas por famílias abastadas das cidades comerciais",
+        "e": "dois processos de produção do livro, medidos por tempo e por preço"
+      },
+      "resposta": "e",
+      "explicacao": "Os dois parágrafos apresentam as mesmas duas medidas — duração e custo — aplicadas a processos distintos. O paralelo entre eles organiza o avanço do texto.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-231",
+      "texto_apoio": "O consumo de água na indústria de tecidos caiu 30% em dez anos. As empresas atribuem o resultado a sistemas de reúso instalados nas unidades fabris.\n\nO consumo de energia, porém, subiu 12% no mesmo período. Reusar água exige bombear e tratar.",
+      "enunciado": "A relação de causa entre os dados apresentados nos dois parágrafos indica que:",
+      "alternativas": {
+        "a": "a queda no consumo de água provocou o fechamento de unidades fabris, o que explicaria a alta registrada na conta de energia",
+        "b": "o ganho ambiental num recurso foi obtido às custas de gasto maior em outro",
+        "c": "os sistemas de reúso instalados pelas empresas do setor têxtil funcionaram abaixo do desempenho previsto em projeto",
+        "d": "o aumento de 12% no consumo de energia decorre da expansão da produção de tecidos verificada ao longo da década analisada",
+        "e": "a indústria de tecidos passou a comprar energia de fornecedores mais caros durante o período de instalação dos sistemas"
+      },
+      "resposta": "b",
+      "explicacao": "O parágrafo final explicita o mecanismo — bombear e tratar consomem eletricidade — que liga a economia de água ao gasto adicional de energia. O texto encadeia ganho e custo.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-232",
+      "texto_apoio": "Chamamos de deserto alimentar a área urbana sem comércio de alimentos frescos num raio de caminhada. Chamamos de pântano alimentar a área saturada de ultraprocessados.\n\nUm bairro pode ser as duas coisas ao mesmo tempo.",
+      "enunciado": "A estrutura do texto se organiza pela oposição entre dois conceitos, e o parágrafo final:",
+      "alternativas": {
+        "a": "afasta um dos dois conceitos apresentados, por considerá-lo inadequado à descrição das áreas urbanas brasileiras atuais",
+        "b": "mostra que os dois se acumulam num mesmo lugar",
+        "c": "propõe um terceiro conceito, mais abrangente, capaz de substituir os dois termos definidos no parágrafo de abertura do texto",
+        "d": "estabelece qual dos dois fenômenos atinge parcela maior da população urbana brasileira segundo levantamentos recentes",
+        "e": "atribui a existência dos dois fenômenos a decisões tomadas por administrações municipais ao longo das últimas décadas"
+      },
+      "resposta": "b",
+      "explicacao": "Os dois conceitos são definidos por oposição no parágrafo inicial; o fecho retira a exclusão entre eles ao afirmar que coexistem. A progressão vai da distinção à sobreposição.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-233",
+      "texto_apoio": "O ruído de fundo de uma sala de aula vazia gira em torno de 35 decibéis. Com trinta crianças, chega a 65.\n\nA voz do professor precisa superar esse valor. Por isso, ao fim do dia, a rouquidão é ocupacional, não casual.",
+      "enunciado": "O conectivo \"por isso\", no parágrafo final, estabelece uma relação de:",
+      "alternativas": {
+        "a": "oposição, contrapondo a rouquidão registrada ao fim do dia aos valores de ruído medidos na sala de aula ainda vazia",
+        "b": "adição, acrescentando a rouquidão à lista de incômodos enfrentados pelos professores em salas com trinta crianças",
+        "c": "consequência, ligando o esforço vocal do professor ao sintoma do fim do dia",
+        "d": "hipótese, apresentando a rouquidão como possibilidade ainda não confirmada pelas medições de ruído descritas antes",
+        "e": "comparação, medindo a intensidade da voz do professor contra a intensidade do ruído produzido pelos alunos em sala"
+      },
+      "resposta": "c",
+      "explicacao": "O nexo causal é explícito: o ruído obriga o professor a forçar a voz, e o resultado aparece ao fim do dia. \"Por isso\" marca a passagem da causa ao efeito.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-234",
+      "texto_apoio": "Nos primeiros mapas do sertão, o cartógrafo desenhava o que os informantes contavam. Rios apareciam mais retos, e as serras, mais altas.\n\nO erro não era descuido. Era o registro fiel de uma paisagem contada, e não vista.",
+      "enunciado": "No parágrafo final, o pronome \"o\" em \"Era o registro fiel\" retoma o termo:",
+      "alternativas": {
+        "a": "cartógrafo, responsável por desenhar os primeiros mapas do sertão a partir das informações recebidas de terceiros",
+        "b": "sertão, região representada nos mapas antigos com rios mais retilíneos e serras de altitude ampliada pela descrição",
+        "c": "descuido, mencionado no período anterior como explicação insuficiente para as distorções presentes nos mapas antigos",
+        "d": "informantes, cujos relatos orais serviram de base para o traçado dos cursos de água registrados naqueles documentos",
+        "e": "erro, mencionado na oração imediatamente anterior"
+      },
+      "resposta": "e",
+      "explicacao": "O pronome retoma o sujeito da oração anterior, \"o erro\", e o requalifica. Sem essa retomada, o predicativo do último período ficaria sem referente.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-235",
+      "texto_apoio": "Metade dos medicamentos prescritos no país não é tomada conforme a orientação médica. Parte disso é esquecimento, parte é custo, parte é efeito adverso.\n\nO remédio que fica na cartela não trata ninguém.",
+      "enunciado": "Na progressão textual do trecho, a frase que fecha o texto se liga ao parágrafo anterior porque:",
+      "alternativas": {
+        "a": "reduz a uma imagem única o problema desdobrado antes em três causas",
+        "b": "acrescenta uma quarta causa de abandono do tratamento, ausente da relação de motivos apresentada no parágrafo de abertura",
+        "c": "retifica o percentual informado no parágrafo inicial, corrigindo para menos a proporção de prescrições não cumpridas no país",
+        "d": "transfere ao paciente a responsabilidade integral pelo descumprimento das orientações recebidas durante a consulta médica",
+        "e": "apresenta uma solução prática para o problema descrito, indicando o procedimento capaz de elevar a adesão ao tratamento"
+      },
+      "resposta": "a",
+      "explicacao": "O fecho não acrescenta causa nem solução: condensa em poucas palavras o desperdício que os três motivos geram. A progressão do texto vai do detalhamento à síntese.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-236",
+      "texto_apoio": "A poupança doméstica cresce quando a renda sobe, mas cresce mais devagar do que a renda. Foi o que mostraram as séries do pós-guerra.\n\nEssa desaceleração, contudo, some quando se acompanha a mesma família por trinta anos.",
+      "enunciado": "O conectivo \"contudo\", no parágrafo final, estabelece com o parágrafo anterior uma relação de:",
+      "alternativas": {
+        "a": "causa, indicando o motivo pelo qual a poupança doméstica cresce mais devagar do que a renda das famílias observadas",
+        "b": "finalidade, apontando o objetivo que levou os pesquisadores a acompanhar as mesmas famílias por três décadas seguidas",
+        "c": "restrição, delimitando a validade do resultado a certo tipo de observação",
+        "d": "adição, somando às séries do pós-guerra um segundo conjunto de dados que confirma integralmente o resultado anterior",
+        "e": "ilustração, apresentando com o caso de uma família o comportamento médio já descrito para o conjunto da população"
+      },
+      "resposta": "c",
+      "explicacao": "O parágrafo final não nega o resultado: informa que ele depende do recorte de observação. \"Contudo\" marca essa delimitação e faz a progressão do texto.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-237",
+      "texto_apoio": "Havia no bairro uma quadra de terra batida onde os meninos jogavam até escurecer. Em 2010, ela virou estacionamento.\n\nOs mesmos meninos, hoje adultos, apontam o lugar quando passam de ônibus. Nenhum deles diz \"estacionamento\".",
+      "enunciado": "A estrutura do texto se apoia na oposição entre dois usos do mesmo espaço, e o parágrafo final:",
+      "alternativas": {
+        "a": "informa que a quadra de terra batida foi reconstruída em outro terreno do bairro depois da instalação do estacionamento",
+        "b": "mostra que o uso antigo sobreviveu na fala dos moradores",
+        "c": "atribui à prefeitura a decisão de converter a área esportiva em vaga paga, medida contestada pelos moradores mais antigos",
+        "d": "descreve o estado atual do estacionamento, cuja ocupação diária ficou muito abaixo do previsto pelos responsáveis pela obra",
+        "e": "indica que os meninos citados no parágrafo inicial deixaram o bairro logo depois da desativação da quadra de terra batida"
+      },
+      "resposta": "b",
+      "explicacao": "A oposição entre quadra e estacionamento se resolve no fecho, quando o texto mostra que a designação antiga persiste. O parágrafo final retoma o termo inicial e o preserva.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-238",
+      "texto_apoio": "Cães detectam variações de odor em concentrações mil vezes menores que as perceptíveis por nós. Treinados, identificam alterações metabólicas antes de qualquer exame.\n\nO obstáculo não é o faro. É a padronização do treino.",
+      "enunciado": "A articulação entre as ideias dos dois parágrafos revela que o parágrafo final:",
+      "alternativas": {
+        "a": "questiona a capacidade olfativa atribuída aos cães no trecho inicial, apontando exageros nas concentrações ali mencionadas",
+        "b": "amplia a descrição do faro canino, detalhando o processo fisiológico que permite a percepção de odores em baixa concentração",
+        "c": "descreve o protocolo de treino adotado pelos centros que preparam cães para o rastreamento de alterações metabólicas",
+        "d": "desloca o problema da capacidade do animal para o processo de formação",
+        "e": "recomenda a substituição do rastreamento por cães pelos exames laboratoriais atualmente disponíveis na rede de diagnóstico"
+      },
+      "resposta": "d",
+      "explicacao": "O parágrafo inicial estabelece a competência do animal; o fecho a preserva e transfere a dificuldade para o treino. O encadeamento move o foco sem negar o dado anterior.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-239",
+      "texto_apoio": "O acordo previa a redução de emissões em 43% até 2030. Cada país escolheria o próprio caminho.\n\nA liberdade de método, prevista para acomodar diferenças, acabou permitindo metas frouxas. O que era flexibilidade virou folga.",
+      "enunciado": "A progressão textual do trecho se organiza a partir do contraste entre:",
+      "alternativas": {
+        "a": "os países que assinaram o acordo internacional e os países que se recusaram a aderir ao compromisso de redução firmado",
+        "b": "a meta numérica fixada para 2030 e a meta mais ambiciosa defendida por especialistas durante as negociações do acordo",
+        "c": "a intenção original de um dispositivo e o efeito que ele produziu",
+        "d": "as emissões da indústria pesada e as emissões do setor de transportes, tratadas de modo distinto pelo texto do acordo",
+        "e": "o custo de reduzir emissões nos países ricos e o custo do mesmo esforço nas economias que ainda dependem de carvão"
+      },
+      "resposta": "c",
+      "explicacao": "O texto avança opondo o propósito declarado da liberdade de método ao resultado observado. O fecho condensa esse par em duas palavras — flexibilidade e folga.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-240",
+      "texto_apoio": "Nas provas de fundo, o atleta que abre a corrida gasta mais energia por metro percorrido. O ar oferece resistência a quem vai à frente.\n\nPor isso, a liderança nos primeiros quilômetros costuma ser um mau sinal.",
+      "enunciado": "O conectivo \"por isso\", que abre o parágrafo final, estabelece uma relação de:",
+      "alternativas": {
+        "a": "oposição, contrapondo a estratégia do atleta que lidera à estratégia daquele que corre protegido no interior do pelotão",
+        "b": "conclusão, derivando do dado físico anterior uma leitura sobre a corrida",
+        "c": "condição, submetendo o resultado da prova de fundo à posição ocupada pelo atleta nos primeiros quilômetros de percurso",
+        "d": "concessão, admitindo que a resistência do ar afeta o desempenho apesar de não influir no resultado final da competição",
+        "e": "temporalidade, situando o gasto energético adicional em momento posterior ao encerramento da prova de longa distância"
+      },
+      "resposta": "b",
+      "explicacao": "O parágrafo inicial fornece o fato físico; o fecho extrai dele uma consequência prática para a leitura da prova. \"Por isso\" articula os dois passos.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-241",
+      "texto_apoio": "Na primeira década do rádio, o radialista descrevia o campo de futebol quadrante por quadrante. O ouvinte montava a imagem.\n\nCom a televisão, a descrição minuciosa virou ruído. Sobrou ao comentarista o que a câmera não mostra.",
+      "enunciado": "A organização do texto se apoia na comparação entre:",
+      "alternativas": {
+        "a": "o público do rádio na primeira década de transmissões esportivas e o público que acompanhava as partidas nos estádios",
+        "b": "a qualidade técnica das primeiras transmissões radiofônicas e a qualidade das imagens televisivas das décadas seguintes",
+        "c": "os custos de operação de uma emissora de rádio e os custos muito superiores exigidos por uma emissora de televisão",
+        "d": "as regras do futebol vigentes na primeira década do rádio e as regras adotadas depois da chegada da transmissão televisiva",
+        "e": "duas condições de transmissão e o papel que cada uma reserva à fala"
+      },
+      "resposta": "e",
+      "explicacao": "Os dois parágrafos tratam do mesmo objeto — a narração esportiva — sob condições técnicas distintas, e é o papel da voz que muda de um para outro. O paralelo sustenta a progressão.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-242",
+      "texto_apoio": "A pesca artesanal responde por metade do pescado consumido no litoral e por menos de 5% do que aparece nas estatísticas oficiais.\n\nO que não é medido não entra em política pública. E o que não entra em política pública some duas vezes.",
+      "enunciado": "O elemento de coesão que abre o parágrafo final retoma:",
+      "alternativas": {
+        "a": "a defasagem entre o consumo real e o registro estatístico apontada antes",
+        "b": "o percentual de 5% mencionado no parágrafo inicial como fatia da pesca industrial registrada nas estatísticas do setor",
+        "c": "o conjunto das políticas públicas destinadas ao setor pesqueiro, cuja formulação foi descrita nas linhas de abertura do texto",
+        "d": "o litoral brasileiro, apresentado no parágrafo inicial como território de atuação exclusiva das frotas de grande porte",
+        "e": "o pescado consumido pelas comunidades litorâneas, cuja composição por espécie foi detalhada no trecho imediatamente anterior"
+      },
+      "resposta": "a",
+      "explicacao": "\"O que não é medido\" retoma a lacuna estatística exposta no parágrafo inicial e a transforma em ponto de partida do fecho. Sem essa retomada, o segundo parágrafo ficaria solto.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-243",
+      "texto_apoio": "As cidades medievais europeias cobravam pedágio na entrada das muralhas. A taxa era proporcional ao volume da carga.\n\nMercadores passaram então a preferir tecidos finos e especiarias: pouco espaço, muito valor.",
+      "enunciado": "A relação de causa entre o parágrafo inicial e o parágrafo final mostra que:",
+      "alternativas": {
+        "a": "a preferência dos mercadores por tecidos finos levou as cidades a criar a cobrança de pedágio na entrada das muralhas",
+        "b": "o pedágio proporcional ao volume foi suprimido em razão da mudança verificada na composição das cargas transportadas",
+        "c": "as especiarias transportadas pelos mercadores ocupavam espaço maior do que o previsto nas tabelas de cobrança da taxa",
+        "d": "a forma de cobrança do pedágio moldou a escolha das mercadorias",
+        "e": "as muralhas das cidades medievais foram ampliadas para acomodar o crescimento do volume de cargas em circulação na região"
+      },
+      "resposta": "d",
+      "explicacao": "O advérbio \"então\" marca a passagem da regra tributária ao comportamento que ela induziu. A relação de causa e efeito organiza os dois parágrafos.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-244",
+      "texto_apoio": "O sono profundo remove do cérebro resíduos acumulados durante a vigília. O processo depende da duração ininterrupta do ciclo.\n\nDormir oito horas em quatro blocos de duas não produz o mesmo efeito de dormir oito horas seguidas.",
+      "enunciado": "A estrutura do texto se organiza a partir do contraste entre:",
+      "alternativas": {
+        "a": "o sono profundo e o sono superficial, cujas funções de limpeza cerebral se distribuem de modo distinto ao longo da noite",
+        "b": "a quantidade total de horas dormidas e a continuidade do período de sono",
+        "c": "o cérebro em vigília e o cérebro em repouso, comparados quanto ao volume de resíduos metabólicos produzidos em cada estado",
+        "d": "as necessidades de sono de crianças em fase de crescimento e as necessidades observadas em adultos de meia-idade",
+        "e": "o número de despertares noturnos registrados em ambiente doméstico e o número medido em laboratórios de estudo do sono"
+      },
+      "resposta": "b",
+      "explicacao": "O parágrafo final opõe oito horas fracionadas a oito horas seguidas, isolando a continuidade como variável decisiva. O texto avança por essa oposição.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-245",
+      "texto_apoio": "Uma língua morre quando o último falante morre. Mas ela começa a morrer bem antes, no dia em que deixa de ser usada para brigar, contar piada e fazer conta.\n\nO dicionário sobrevive à conversa.",
+      "enunciado": "O conectivo \"mas\", no parágrafo inicial, estabelece uma relação de:",
+      "alternativas": {
+        "a": "adição, somando ao desaparecimento do último falante outros indícios do processo de extinção descrito ao longo do trecho",
+        "b": "conclusão, derivando do desaparecimento dos falantes a impossibilidade de registrar o vocabulário da língua em dicionários",
+        "c": "retificação, corrigindo a definição apresentada na abertura por outra mais ampla",
+        "d": "finalidade, indicando o propósito que orienta o registro escrito das línguas em processo avançado de desaparecimento",
+        "e": "comparação, medindo a velocidade de extinção de duas línguas submetidas a condições sociais bastante semelhantes"
+      },
+      "resposta": "c",
+      "explicacao": "\"Mas\" desloca a definição inicial — morte da língua como morte do último falante — para outra, baseada no desuso cotidiano. A articulação entre as ideias é de correção.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-246",
+      "texto_apoio": "O laudo pericial ocupava 300 páginas e concluía pela ausência de dolo. O juiz o citou três vezes.\n\nNenhuma das três citações reproduzia o trecho em que o perito ressalvava os limites do próprio exame.",
+      "enunciado": "O elemento de coesão \"nenhuma das três citações\" refere-se ao trecho anterior porque retoma:",
+      "alternativas": {
+        "a": "as 300 páginas do laudo pericial, cuja extensão dificultou a leitura integral do documento pelas partes envolvidas no caso",
+        "b": "o perito responsável pelo exame, profissional designado para avaliar as circunstâncias descritas no parágrafo de abertura",
+        "c": "a ausência de dolo apontada como resultado do exame realizado sobre o material recolhido durante a fase de instrução",
+        "d": "as menções feitas pelo juiz ao laudo, enunciadas no parágrafo anterior",
+        "e": "os limites do exame pericial, ressalvados pelo próprio autor do laudo em passagem localizada ao fim do documento técnico"
+      },
+      "resposta": "d",
+      "explicacao": "A expressão retoma o numeral e o objeto do período anterior — as três citações do juiz — e sobre elas constrói a informação nova. É a retomada que sustenta o parágrafo final.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-247",
+      "texto_apoio": "Plantas de sombra crescem devagar e vivem muito. Plantas de clareira crescem rápido e morrem cedo.\n\nA floresta precisa das duas: uma fecha o dossel, a outra ocupa o buraco que a queda de um tronco abriu.",
+      "enunciado": "A organização do texto se apoia na oposição entre dois grupos de plantas, e o parágrafo final:",
+      "alternativas": {
+        "a": "mostra que a oposição descrita se converte em complementaridade",
+        "b": "elimina um dos dois grupos, ao demonstrar que as plantas de clareira desaparecem das florestas maduras em poucas décadas",
+        "c": "acrescenta um terceiro grupo de plantas, intermediário entre os dois descritos, capaz de ocupar ambientes de luz variável ao longo do ano",
+        "d": "explica por que as plantas de sombra crescem mais devagar, detalhando o processo de captação de luz sob o dossel fechado",
+        "e": "atribui a queda dos troncos à ação humana, apontando a exploração de madeira como causa da abertura das clareiras na mata"
+      },
+      "resposta": "a",
+      "explicacao": "O parágrafo inicial separa os dois grupos por características opostas; o fecho mostra que a floresta depende dos dois. A progressão vai da distinção à dependência recíproca.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-248",
+      "texto_apoio": "Durante trinta anos, o índice de preços foi calculado sobre uma cesta fixa de produtos. Em 2019, a cesta passou a ser revista a cada dois anos.\n\nA inflação medida caiu meio ponto. Nada mudou nos supermercados.",
+      "enunciado": "A relação de causa e efeito construída pelo texto indica que a queda de meio ponto:",
+      "alternativas": {
+        "a": "resultou da redução efetiva dos preços praticados nos supermercados a partir da revisão da cesta ocorrida em 2019",
+        "b": "decorreu do aumento da frequência de coleta de preços realizada pelos institutos responsáveis pelo cálculo do índice oficial",
+        "c": "reflete a mudança no critério de cálculo, e não o comportamento dos preços",
+        "d": "aconteceu apesar da revisão da cesta, cuja adoção tenderia a elevar o índice medido nos dois anos seguintes à mudança",
+        "e": "corresponde à variação normal do índice de preços observada em períodos de estabilidade da atividade econômica do país"
+      },
+      "resposta": "c",
+      "explicacao": "O parágrafo final registra que nada mudou nos supermercados. A queda do índice fica ligada à alteração metodológica descrita antes, e é esse nexo que o texto encadeia.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-249",
+      "texto_apoio": "A escola aumentou o intervalo de 15 para 25 minutos. Os professores previram queda no rendimento.\n\nO que se viu foi o contrário: menos ocorrências disciplinares e mais participação nas duas aulas seguintes ao recreio.",
+      "enunciado": "No parágrafo final, a articulação entre as ideias do texto se dá por meio de uma relação de:",
+      "alternativas": {
+        "a": "reforço, confirmando com dados de rendimento escolar a previsão que os professores haviam formulado antes da mudança",
+        "b": "ilustração, apresentando o caso de uma turma específica para mostrar a queda de rendimento antecipada pelo corpo docente",
+        "c": "sucessão, descrevendo a etapa imediatamente posterior à ampliação do intervalo sem avaliar seus efeitos sobre a rotina",
+        "d": "contraposição, opondo ao prognóstico dos professores o resultado observado",
+        "e": "condição, indicando o requisito que precisaria ser atendido para que a ampliação do intervalo produzisse efeito positivo sobre o rendimento"
+      },
+      "resposta": "d",
+      "explicacao": "\"O que se viu foi o contrário\" marca a quebra entre a expectativa registrada no parágrafo inicial e o resultado. O texto avança por oposição.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-250",
+      "texto_apoio": "Todo aterro sanitário nasce com data de encerramento. O de nossa cidade foi projetado para durar até 2015.\n\nSegue recebendo caminhões. A cada ano, alguém assina uma prorrogação e adia o problema para o mandato seguinte.",
+      "enunciado": "A estrutura do texto se organiza de modo que o parágrafo final:",
+      "alternativas": {
+        "a": "mostra o descumprimento do prazo apresentado antes e nomeia o mecanismo que o sustenta",
+        "b": "descreve o processo técnico de encerramento de aterros sanitários, detalhando as etapas exigidas pela legislação ambiental",
+        "c": "apresenta a alternativa adotada pela cidade para substituir o aterro sanitário depois do vencimento do prazo de operação",
+        "d": "corrige a data informada no parágrafo inicial, esclarecendo que o projeto original previa operação até um ano diferente",
+        "e": "atribui a sobrevida do aterro ao crescimento do volume de resíduos produzido pela população da cidade nas últimas décadas"
+      },
+      "resposta": "a",
+      "explicacao": "O parágrafo inicial fixa o prazo; o final registra que ele foi ultrapassado e explica como isso se tornou rotina. O encadeamento vai da regra ao seu contorno.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-251",
+      "texto_apoio": "Museus de ciência costumam pedir que o visitante toque, gire, aperte. Museus de arte pedem o contrário.\n\nA diferença não está no valor do acervo. Está no que cada um entende por compreender.",
+      "enunciado": "O que distingue os dois tipos de museu, segundo a organização do texto, é:",
+      "alternativas": {
+        "a": "o valor de mercado das peças abrigadas em cada um deles, fator que determina as restrições impostas ao público visitante",
+        "b": "o volume de visitantes recebido por ano, muito superior nas instituições dedicadas à divulgação do conhecimento científico",
+        "c": "a origem dos recursos que sustentam cada instituição, pública num caso e majoritariamente privada no outro tipo de museu",
+        "d": "a fragilidade material dos objetos expostos, que impede o contato direto nas coleções de pintura e de escultura antiga",
+        "e": "a concepção de compreensão que orienta cada um"
+      },
+      "resposta": "e",
+      "explicacao": "O parágrafo final afasta o valor do acervo como critério e nomeia o que de fato separa os dois casos. A progressão do texto vai da observação prática ao princípio que a explica.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-252",
+      "texto_apoio": "O corredor de ônibus reduziu o tempo de viagem em 22 minutos. As calçadas do mesmo eixo continuam com 1,2 metro de largura.\n\nQuem desce do ônibus rápido caminha devagar, em fila, desviando de postes.",
+      "enunciado": "A articulação entre as ideias dos dois parágrafos revela uma relação de:",
+      "alternativas": {
+        "a": "equivalência, já que o ganho de tempo no ônibus corresponde exatamente ao tempo perdido pelo pedestre ao longo das calçadas",
+        "b": "sucessão cronológica, indicando que o alargamento das calçadas do eixo foi executado depois da entrega do corredor de ônibus",
+        "c": "descontinuidade entre etapas do mesmo deslocamento, ganho num trecho e perda no seguinte",
+        "d": "causa, apontando a implantação do corredor de ônibus como responsável pelo estreitamento das calçadas naquele eixo urbano",
+        "e": "finalidade, esclarecendo o objetivo perseguido pela administração municipal ao manter as calçadas com a largura atual"
+      },
+      "resposta": "c",
+      "explicacao": "O texto encadeia dois trechos de um mesmo percurso: o corredor acelera, a calçada trava. O parágrafo final mostra o resultado dessa emenda mal-feita.",
+      "formato": "direta"
+    },
+    {
+      "id": "interpretacao-texto-253",
+      "texto_apoio": "O manual de instruções trazia 84 páginas e 11 avisos de segurança. O aparelho tinha dois botões.\n\nO desequilíbrio entre uma coisa e outra não é distração do fabricante. É proteção jurídica escrita em forma de manual.",
+      "enunciado": "No parágrafo final, a expressão \"o desequilíbrio entre uma coisa e outra\" retoma o:",
+      "alternativas": {
+        "a": "conjunto dos 11 avisos de segurança, cuja redação repetitiva ocupa a maior parte das páginas iniciais do documento",
+        "b": "descompasso entre a extensão do manual e a simplicidade do aparelho",
+        "c": "fabricante do aparelho, responsável tanto pela redação do manual quanto pelo projeto dos comandos instalados no produto",
+        "d": "número de botões do aparelho, informação apresentada no parágrafo inicial como indício da complexidade real do produto",
+        "e": "processo de elaboração dos manuais de instrução, descrito no trecho anterior como tarefa delegada a escritórios de advocacia"
+      },
+      "resposta": "b",
+      "explicacao": "A expressão retoma os dois dados justapostos no parágrafo inicial — 84 páginas contra dois botões — e os nomeia como desproporção. É essa retomada que dá referente ao fecho.",
+      "formato": "direta"
     }
   ]
 }

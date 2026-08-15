@@ -6299,6 +6299,1222 @@
    "explicacao": "Logística reversa é a devolução do produto ao fabricante ao fim da vida útil, prevista na Política Nacional de Resíduos Sólidos. Ela recupera o que tem valor e retira de circulação metais pesados, que não se degradam e bioacumulam nos organismos.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-385",
+   "texto_apoio": "Num aquário marinho, um mergulhador liberou um corante inerte junto à base de uma esponja fixa na rocha. O corante penetrou pelos poros distribuídos na parede lateral do animal e saiu, poucos minutos depois, por uma única abertura ampla no topo.",
+   "enunciado": "No reino animal, o percurso observado evidencia, nos poríferos, uma organização em que:",
+   "alternativas": {
+    "a": "a água entra pelos poros laterais, atravessa o corpo em sentido único e sai pelo ósculo, sendo filtrada nesse trajeto",
+    "b": "o corante percorreu um tubo digestório completo, com boca na base do animal e ânus na abertura do topo, arranjo que caracterizaria o grupo",
+    "c": "os poros laterais funcionam como saída da água e o ósculo, como entrada, de modo que o sentido observado foi acidental",
+    "d": "a água é impulsionada por contrações musculares da parede do corpo, à maneira dos invertebrados de simetria bilateral",
+    "e": "o trajeto do corante corresponde ao de um vaso condutor que distribui alimento às demais regiões do animal"
+   },
+   "resposta": "a",
+   "explicacao": "Os poríferos são invertebrados sem tecidos verdadeiros: a água entra pelos poros da parede (óstios), passa pelo átrio, onde os coanócitos retêm as partículas em suspensão, e sai pelo ósculo. É filtração em fluxo unidirecional, não digestão em tubo — o grupo não tem boca, ânus, musculatura nem vasos condutores.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-386",
+   "texto_apoio": "Um banhista encostou o antebraço no tentáculo de uma água-viva e sentiu ardência imediata. Ao microscópio, o tentáculo mostrou estruturas em forma de cápsula, cada uma com um filamento enrolado no interior e um pelo sensorial voltado para fora.",
+   "enunciado": "Nos cnidários, as estruturas descritas e sua função no reino animal correspondem a:",
+   "alternativas": {
+    "a": "coanócitos, que geram corrente de água e retêm partículas alimentares em suspensão no meio",
+    "b": "cnidócitos, que descarregam o filamento urticante e servem à captura de presas e à defesa",
+    "c": "nematocistos de origem vegetal, que liberam seiva ao serem tocados por um corpo estranho",
+    "d": "glândulas de veneno ligadas a um ducto muscular, semelhantes às que os artrópodes peçonhentos usam para inocular toxina na presa",
+    "e": "coanócitos modificados em placas calcárias, que enrijecem o tentáculo no instante do contato"
+   },
+   "resposta": "b",
+   "explicacao": "O cnidócito é a estrutura que dá nome ao filo: dentro dele, o nematocisto guarda um filamento enrolado que dispara ao estímulo mecânico do cnidocílio e injeta substância urticante. É o mecanismo de captura e defesa desses invertebrados. Coanócitos são dos poríferos, e o cnidócito não é glândula nem tem origem vegetal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-387",
+   "texto_apoio": "Numa comunidade rural sem saneamento, o exame de fezes de várias crianças revelou ovos de Ascaris lumbricoides. O verme adulto, recolhido em um dos casos, era cilíndrico, afilado nas pontas e não apresentava divisão do corpo em anéis.",
+   "enunciado": "No reino animal, o conjunto de traços descritos separa os nematódeos dos anelídeos porque indica:",
+   "alternativas": {
+    "a": "corpo dividido em anéis sucessivos, cada um deles com um par de cerdas locomotoras",
+    "b": "simetria radial e ausência de tubo digestório, com uma só abertura na parede do corpo",
+    "c": "corpo cilíndrico e não segmentado, com cavidade corporal do tipo pseudoceloma",
+    "d": "esqueleto externo de quitina articulado em apêndices, condição partilhada com os artrópodes de vida livre do solo",
+    "e": "corpo achatado no sentido dorsoventral e acelomado, com tubo digestório incompleto"
+   },
+   "resposta": "c",
+   "explicacao": "Ascaris é nematódeo: invertebrado de corpo cilíndrico, sem metameria, com tubo digestório completo e cavidade corporal do tipo pseudoceloma, revestida por mesoderma em apenas uma das faces. A segmentação em anéis com cerdas é dos anelídeos; o corpo achatado e acelomado, dos platelmintos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-388",
+   "texto_apoio": "Um agricultor comparou dois canteiros vizinhos de mesma composição. No canteiro em que introduziu minhocas, a água da chuva infiltrou mais rápido e o solo ficou visivelmente menos compactado ao fim de dois meses.",
+   "enunciado": "As minhocas são anelídeos. No reino animal, a característica que explica de forma mais direta o efeito observado no solo é:",
+   "alternativas": {
+    "a": "a escavação de galerias por um corpo metamerizado, sustentado pela pressão do líquido celomático",
+    "b": "a produção de filamentos de quitina que agregam entre si as partículas minerais do solo",
+    "c": "a fixação ao substrato por um pé muscular ventral, à maneira dos moluscos gastrópodes",
+    "d": "a filtração da água do solo por poros laterais da parede corporal, como fazem os poríferos de água doce",
+    "e": "a digestão do húmus por enzimas liberadas na superfície do corpo, processo que dispensaria a passagem do material pelo tubo digestório do animal"
+   },
+   "resposta": "a",
+   "explicacao": "O anelídeo é um invertebrado de corpo dividido em metâmeros, cada um com musculatura circular e longitudinal atuando contra o líquido do celoma — o esqueleto hidrostático. É esse arranjo que permite abrir galerias, e são as galerias que aumentam a porosidade e a aeração do solo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-389",
+   "texto_apoio": "Numa peixaria foram expostos, lado a lado, um caracol terrestre de concha espiralada, uma ostra com duas valvas articuladas e um polvo sem concha externa.",
+   "enunciado": "Os três animais são classificados no mesmo filo. No reino animal, o que reúne os moluscos num único grupo é:",
+   "alternativas": {
+    "a": "a concha calcária externa, presente nos três em alguma fase da vida",
+    "b": "a segmentação do corpo em anéis, herança comum com os anelídeos marinhos de fundo",
+    "c": "o esqueleto interno de placas calcárias com espinhos móveis, como nos equinodermos",
+    "d": "a respiração por traqueias ramificadas abertas em espiráculos laterais, arranjo idêntico ao dos artrópodes terrestres de porte pequeno",
+    "e": "o corpo mole com pé muscular e manto secretor, haja ou não concha externa"
+   },
+   "resposta": "e",
+   "explicacao": "A taxonomia agrupa caracol, ostra e polvo em Mollusca pelo plano corporal: massa visceral, pé muscular e manto — a prega de tecido que secreta a concha quando ela existe. Nos cefalópodes, como o polvo, a concha é interna e reduzida ou ausente, o que mostra que ela não é o critério do filo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-390",
+   "texto_apoio": "Numa coleta em mata foram encontrados três exemplares: um besouro com três pares de pernas e um par de antenas; uma aranha com quatro pares de pernas e sem antenas; um camarão de água doce com dois pares de antenas e apêndices birremes.",
+   "enunciado": "Considerando a classificação dos seres vivos, os três exemplares pertencem, respectivamente, às classes dos:",
+   "alternativas": {
+    "a": "insetos, aracnídeos e crustáceos",
+    "b": "aracnídeos, insetos e crustáceos",
+    "c": "insetos, crustáceos e aracnídeos",
+    "d": "crustáceos, aracnídeos e insetos",
+    "e": "insetos, aracnídeos e miriápodes de água doce"
+   },
+   "resposta": "a",
+   "explicacao": "A taxonomia dos artrópodes usa o número de apêndices e a divisão do corpo. Inseto: três pares de pernas, um par de antenas, corpo em cabeça, tórax e abdome. Aracnídeo: quatro pares de pernas, sem antenas, cefalotórax e abdome. Crustáceo: dois pares de antenas e apêndices birremes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-391",
+   "texto_apoio": "Numa poça de maré, uma estrela-do-mar deslocou-se lentamente sobre a rocha. Virada de cabeça para baixo por um observador, retomou a posição inicial usando centenas de projeções tubulares da face ventral, que se estendiam e se retraíam de modo coordenado.",
+   "enunciado": "No reino animal, as projeções descritas e o mecanismo que as move caracterizam os equinodermos como:",
+   "alternativas": {
+    "a": "invertebrados de simetria bilateral no adulto, com pés articulados movidos por músculos antagonistas",
+    "b": "invertebrados de simetria radial no adulto, com pés ambulacrários movidos por pressão de água",
+    "c": "cordados primitivos, cujos pés tubulares derivam de arcos faríngeos modificados",
+    "d": "moluscos sem concha, nos quais as projeções ventrais correspondem a expansões do pé muscular",
+    "e": "artrópodes marinhos de exoesqueleto calcário, nos quais as projeções seriam apêndices articulados reduzidos"
+   },
+   "resposta": "b",
+   "explicacao": "O equinoderme é invertebrado, tem simetria radial pentarradiada no adulto e um sistema hidrovascular exclusivo do filo: a água que circula nos canais é bombeada para os pés ambulacrários, que se estendem por pressão hidráulica e aderem ao substrato por ventosas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-392",
+   "texto_apoio": "Três animais foram descritos por um estudante. A tem pele úmida e permeável e depende de água parada para se reproduzir. B tem pele seca e queratinizada e põe ovos com casca. C tem escamas dérmicas e faz trocas gasosas por brânquias durante a vida inteira.",
+   "enunciado": "Na classificação dos seres vivos, é correto afirmar sobre esses animais que:",
+   "alternativas": {
+    "a": "B é um anfíbio, e a casca do ovo o dispensa de voltar à água durante o desenvolvimento",
+    "b": "A e B pertencem ao mesmo grupo, uma vez que ambos apresentam pele impermeável à água",
+    "c": "A é um anfíbio: a fecundação externa e o ovo sem casca o prendem à água",
+    "d": "C é um réptil aquático, já que as brânquias se mantêm nesse grupo do início ao fim da vida",
+    "e": "C é o único dos três a apresentar coluna vertebral, o que separaria os outros dois do grupo dos vertebrados"
+   },
+   "resposta": "c",
+   "explicacao": "A taxonomia separa os três: A é anfíbio (pele fina e permeável, fecundação externa, ovo sem casca — daí a dependência da água); B é réptil (pele queratinizada e ovo com casca, que o libertou do meio aquático); C é peixe (escamas dérmicas e brânquias permanentes). Os três são vertebrados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-393",
+   "texto_apoio": "Duas espécies foram acompanhadas num dia frio: ambas mantiveram a temperatura do corpo praticamente constante. Uma delas alimenta a prole com secreção produzida por glândulas da própria pele; a outra alimenta os filhotes por regurgitação do que capturou.",
+   "enunciado": "No reino animal, o traço que separa aves de mamíferos entre esses dois endotérmicos é:",
+   "alternativas": {
+    "a": "somente as aves mantêm temperatura interna constante, condição que os mamíferos não alcançam",
+    "b": "somente os mamíferos apresentam ovo com casca calcária e âmnio bem desenvolvido",
+    "c": "as duas pertencem ao mesmo grupo, pois a manutenção da temperatura interna define a categoria taxonômica",
+    "d": "somente os mamíferos produzem secreção láctea a partir de glândulas derivadas da pele",
+    "e": "somente as aves têm pelos, estrutura que os mamíferos teriam substituído por penas ao longo do tempo geológico"
+   },
+   "resposta": "d",
+   "explicacao": "Endotermia aparece em aves e em mamíferos e por isso não distingue os dois grupos na taxonomia. O que define Mammalia é a glândula mamária, derivada da pele, que produz o leite; o que define Aves são as penas e o bico córneo. O ovo com casca é das aves, não dos mamíferos placentários.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-394",
+   "texto_apoio": "Numa etiqueta de coleção zoológica lia-se Panthera onca (Linnaeus, 1758). Noutra, referente ao mesmo animal, constava apenas o nome popular onça-pintada, seguido do local de coleta.",
+   "enunciado": "A regra de nomenclatura que fundamenta o primeiro registro estabelece que:",
+   "alternativas": {
+    "a": "o primeiro termo indica a família e o segundo, o gênero, o que dispensa o destaque tipográfico",
+    "b": "os dois termos designam a mesma categoria, e a repetição serve para evitar homônimos entre reinos distintos",
+    "c": "o nome popular tem a mesma validade científica, desde que registrado numa coleção reconhecida",
+    "d": "o segundo termo é o nome do autor da descrição, e o ano entre parênteses marca a data em que o nome popular foi adotado",
+    "e": "o primeiro termo indica o gênero e o segundo, a espécie, ambos em latim e destacados do texto corrido"
+   },
+   "resposta": "e",
+   "explicacao": "A nomenclatura binomial de Lineu dá a cada espécie um nome de duas palavras latinizadas: gênero e espécie, o primeiro com inicial maiúscula, ambos em itálico ou sublinhados. O nome popular varia de região para região e não serve de referência entre pesquisadores — é justamente o problema que a regra resolve. Panthera onca é um mamífero carnívoro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-395",
+   "texto_apoio": "Um professor escreveu no quadro a sequência Animalia — Chordata — Mammalia — Carnivora — Felidae — Panthera — Panthera leo e pediu que a turma interpretasse o que ela representa.",
+   "enunciado": "Na classificação dos seres vivos, essa sequência:",
+   "alternativas": {
+    "a": "vai da mais restrita à mais abrangente, de modo que Animalia seria o grupo de menor amplitude",
+    "b": "lista categorias de mesma hierarquia, escolhidas por semelhança de forma e não por parentesco",
+    "c": "corresponde a sete espécies distintas de felinos, cada uma delas nomeada por um autor diferente",
+    "d": "vai da categoria mais abrangente à mais restrita, e cada nível está contido no anterior",
+    "e": "descreve a ordem em que os grupos foram descritos pela ciência, do registro mais antigo ao mais recente na literatura"
+   },
+   "resposta": "d",
+   "explicacao": "A taxonomia é hierárquica e encaixada: reino, filo, classe, ordem, família, gênero e espécie. Cada categoria contém as seguintes e é contida pelas anteriores — o leão é um mamífero, e todo mamífero é cordado. Ler a sequência ao contrário inverte a lógica de amplitude.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-396",
+   "texto_apoio": "Numa estimativa do número de espécies animais já descritas, os artrópodes respondem por mais de 80% do total registrado, enquanto o conjunto dos vertebrados fica abaixo de 5%.",
+   "enunciado": "No reino animal, esses números indicam que:",
+   "alternativas": {
+    "a": "os vertebrados formam o grupo mais numeroso em espécies descritas, apesar do porte corporal maior",
+    "b": "a maior parte da diversidade animal descrita está entre os invertebrados, e sobretudo entre os artrópodes",
+    "c": "artrópodes e vertebrados compõem um mesmo filo, o que explicaria o desequilíbrio nas contagens",
+    "d": "o número de espécies descritas mede o tamanho médio dos indivíduos de cada um dos grupos",
+    "e": "os artrópodes aparecem em maior número porque cada indivíduo coletado é contado como uma espécie diferente nos registros de museu"
+   },
+   "resposta": "b",
+   "explicacao": "Insetos, aracnídeos, crustáceos e miriápodes fazem dos artrópodes o filo mais rico em espécies descritas do reino animal. Os vertebrados são uma fração pequena do total, ainda que sejam o grupo mais estudado — o que mostra que a percepção de diversidade é enviesada pelo tamanho e pela proximidade do animal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-397",
+   "texto_apoio": "Um criador acompanhou dois insetos. No primeiro, do ovo saiu uma larva vermiforme que se transformou em pupa imóvel e, dela, emergiu o adulto alado. No segundo, do ovo saiu uma ninfa parecida com o adulto, que cresceu por mudas sucessivas até atingir o tamanho final.",
+   "enunciado": "Entre os artrópodes, os dois padrões de desenvolvimento descritos correspondem, respectivamente, a:",
+   "alternativas": {
+    "a": "metamorfose incompleta e metamorfose completa",
+    "b": "muda e regeneração, dois processos restritos aos crustáceos de água doce",
+    "c": "metamorfose completa e metamorfose incompleta",
+    "d": "reprodução sexuada e reprodução assexuada, conforme o número de mudas do ciclo",
+    "e": "desenvolvimento direto no primeiro caso e indireto no segundo, já que a pupa corresponderia ao estágio adulto do inseto"
+   },
+   "resposta": "c",
+   "explicacao": "Nos invertebrados holometábolos (besouros, borboletas, moscas) o ciclo passa por ovo, larva, pupa e adulto, e a larva não se parece com o adulto — é metamorfose completa. Nos hemimetábolos (baratas, percevejos) a ninfa já lembra o adulto e cresce por mudas: metamorfose incompleta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-398",
+   "texto_apoio": "Um paciente eliminou proglotes de Taenia solium após ingerir carne de porco malcozida. O verme adulto recolhido era achatado no sentido dorsoventral, não tinha cavidade corporal revestida e absorvia nutrientes diretamente pela superfície do corpo.",
+   "enunciado": "No reino animal, o conjunto dessas características situa o animal entre os:",
+   "alternativas": {
+    "a": "anelídeos, pela sucessão de proglotes ao longo do corpo, equivalentes a metâmeros",
+    "b": "nematódeos, pelo corpo alongado e pela ausência de segmentação verdadeira",
+    "c": "cnidários, pela falta de tubo digestório e pela simetria do corpo",
+    "d": "platelmintos, pelo corpo achatado, acelomado e sem tubo digestório",
+    "e": "artrópodes parasitas, uma vez que as proglotes corresponderiam a segmentos articulados revestidos de quitina"
+   },
+   "resposta": "d",
+   "explicacao": "Taenia é platelminto: invertebrado achatado dorsoventralmente, acelomado e, na forma parasita, sem tubo digestório — absorve o alimento já digerido pelo hospedeiro através do tegumento. As proglotes são unidades reprodutivas, não metâmeros como os dos anelídeos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-399",
+   "texto_apoio": "Um camarão criado em tanque manteve o mesmo comprimento por três semanas. Em seguida abandonou uma carapaça vazia e, nas horas seguintes, aumentou de tamanho de forma rápida, antes que o novo revestimento endurecesse.",
+   "enunciado": "No reino animal, o episódio ilustra uma limitação ao crescimento imposta aos artrópodes por:",
+   "alternativas": {
+    "a": "um endoesqueleto ósseo que cresce por deposição contínua nas extremidades",
+    "b": "uma parede corporal calcária secretada pelo manto, como nos moluscos bivalves",
+    "c": "um esqueleto hidrostático mantido pela pressão do líquido celomático",
+    "d": "uma cobertura de placas dérmicas articuladas com espinhos móveis, do tipo que os equinodermos de fundo apresentam",
+    "e": "um exoesqueleto rígido de quitina, que só permite crescimento quando é trocado"
+   },
+   "resposta": "e",
+   "explicacao": "O exoesqueleto quitinoso protege e sustenta o invertebrado, mas não acompanha o aumento de volume. O crescimento é descontínuo: o animal passa por ecdise, abandona a carapaça antiga e se expande enquanto o novo exoesqueleto ainda está mole, antes de calcificar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-400",
+   "texto_apoio": "Um embrião de peixe e um embrião de anfíbio, observados no mesmo estágio de desenvolvimento, apresentaram um bastão dorsal de sustentação, fendas na região faríngea e um cordão nervoso dorsal e oco.",
+   "enunciado": "Na classificação dos seres vivos, essas três estruturas embrionárias definem:",
+   "alternativas": {
+    "a": "o filo dos cordados, ao qual pertencem os vertebrados",
+    "b": "a classe dos peixes ósseos, restrita aos animais de nadadeiras pares",
+    "c": "o grupo dos invertebrados marinhos de simetria radial no adulto",
+    "d": "a ordem dos anfíbios anuros, definida pela perda da cauda no indivíduo adulto",
+    "e": "o reino animal como um bloco, uma vez que as três estruturas surgiriam também no desenvolvimento inicial de poríferos e cnidários"
+   },
+   "resposta": "a",
+   "explicacao": "Notocorda, fendas faríngeas e tubo nervoso dorsal são os caracteres diagnósticos de Chordata na taxonomia. Podem existir apenas no embrião — no ser humano a notocorda é substituída pela coluna vertebral. Poríferos e cnidários não passam por essas etapas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-401",
+   "texto_apoio": "Um esquema comparou quatro animais quanto à simetria do corpo: um porífero sem simetria definida, uma anêmona com simetria radial, uma planária com simetria bilateral e uma estrela-do-mar com simetria radial no adulto e bilateral na larva.",
+   "enunciado": "No reino animal, a comparação apresentada permite afirmar que:",
+   "alternativas": {
+    "a": "a simetria radial do adulto indica parentesco direto entre a anêmona e a estrela-do-mar",
+    "b": "a simetria da larva pode diferir da do adulto, como mostra o caso da estrela-do-mar",
+    "c": "a falta de simetria definida é traço partilhado por poríferos e planárias",
+    "d": "a simetria bilateral aparece apenas nos animais de vida fixa ao substrato rochoso",
+    "e": "os quatro animais têm a mesma simetria na fase larval, e as diferenças observadas surgiriam apenas no indivíduo já formado"
+   },
+   "resposta": "b",
+   "explicacao": "O equinoderme é o exemplo clássico de simetria que muda ao longo do ciclo: a larva é bilateral e o adulto, pentarradiado. Por isso a simetria do adulto, isolada, não basta como critério de parentesco entre invertebrados — a anêmona é cnidário e a estrela-do-mar, equinoderme.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-402",
+   "texto_apoio": "Numa residência foram coletados um escorpião, um carrapato e uma aranha-marrom. Nenhum dos três apresentava antenas, e os três tinham quatro pares de pernas locomotoras.",
+   "enunciado": "No reino animal, esses artrópodes são reunidos numa mesma classe porque compartilham:",
+   "alternativas": {
+    "a": "três pares de pernas, um par de antenas e corpo dividido em cabeça, tórax e abdome",
+    "b": "dois pares de antenas, apêndices birremes e trocas gasosas por brânquias",
+    "c": "quatro pares de pernas, ausência de antenas e corpo dividido em cefalotórax e abdome",
+    "d": "um par de pernas por segmento do corpo e trocas gasosas por traqueias ramificadas",
+    "e": "corpo mole revestido por manto e um pé muscular ventral, condição que os aproximaria dos moluscos terrestres"
+   },
+   "resposta": "c",
+   "explicacao": "Escorpiões, carrapatos e aranhas são aracnídeos: quatro pares de patas, ausência de antenas e corpo em cefalotórax mais abdome, com quelíceras e pedipalpos no lugar das mandíbulas. Três pares de patas com antenas define os insetos; dois pares de antenas, os crustáceos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-403",
+   "texto_apoio": "Um quadro comparou o ovo de três animais: o de um anfíbio, gelatinoso e depositado na água; o de um réptil, com casca resistente e quatro anexos embrionários; o de uma ave, com casca calcária e os mesmos quatro anexos.",
+   "enunciado": "Na classificação dos seres vivos, o anexo embrionário que permitiu a répteis e aves reproduzir-se longe da água é:",
+   "alternativas": {
+    "a": "o cório, que envolve os demais anexos e faz as trocas gasosas com o meio externo",
+    "b": "o saco vitelínico, encarregado de armazenar as reservas nutritivas usadas pelo embrião",
+    "c": "o alantoide, que acumula as excretas nitrogenadas em forma pouco tóxica",
+    "d": "o âmnio, que retém líquido em torno do embrião e o mantém em meio aquoso",
+    "e": "a casca calcária, o anexo embrionário responsável por reter a água no interior dos ovos de répteis e de aves"
+   },
+   "resposta": "d",
+   "explicacao": "O âmnio delimita a cavidade amniótica cheia de líquido: o embrião se desenvolve num ambiente aquático particular, mesmo com o ovo em terra firme. É o caráter que reúne répteis, aves e mamíferos como amniotas na taxonomia. A casca é envoltório, não anexo embrionário.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-404",
+   "texto_apoio": "Whittaker propôs, em 1969, um arranjo dos seres vivos em cinco reinos apoiado sobretudo em dois critérios: a presença ou a ausência de núcleo organizado e a forma de obter alimento — por produção própria a partir da luz, por absorção do que já está dissolvido no meio ou por ingestão de partículas.",
+   "enunciado": "Nessa classificação dos seres vivos, o reino Fungi é mantido separado do reino vegetal porque:",
+   "alternativas": {
+    "a": "os fungos obtêm alimento por absorção e não produzem matéria orgânica a partir da luz",
+    "b": "os fungos não têm núcleo organizado, ao contrário do que ocorre nas plantas",
+    "c": "os fungos são microscópicos e as plantas, visíveis a olho nu, sem exceção nos dois reinos",
+    "d": "as plantas obtêm alimento por ingestão de partículas sólidas, como fazem os protozoários",
+    "e": "o reino Fungi reúne os seres que se alimentam por ingestão de partículas, enquanto o reino vegetal reúne os que absorvem alimento já dissolvido no substrato"
+   },
+   "resposta": "a",
+   "explicacao": "Na taxonomia de Whittaker, os três modos de nutrição separam os reinos de eucariontes: as plantas produzem o próprio alimento com a energia da luz, os animais ingerem partículas e os fungos secretam enzimas para fora do corpo e absorvem o que foi degradado. Fungos e plantas têm núcleo organizado — não é esse o critério que os separa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-405",
+   "texto_apoio": "Uma amostra de iogurte artesanal foi observada ao microscópio óptico. Viam-se bastonetes de cerca de dois micrômetros, sem núcleo delimitado por envoltório e sem compartimentos internos distinguíveis.",
+   "enunciado": "Na classificação dos seres vivos, esses organismos pertencem ao reino Monera, cujos representantes são:",
+   "alternativas": {
+    "a": "eucariontes de corpo microscópico e nutrição por ingestão de partículas do meio",
+    "b": "procariontes, cujo material hereditário fica disperso no interior do corpo, sem envoltório próprio",
+    "c": "eucariontes de parede rígida e nutrição por absorção, reunidos no reino Fungi",
+    "d": "procariontes dotados de núcleo organizado e de compartimentos internos delimitados por membranas",
+    "e": "organismos sem material hereditário próprio, que dependem de um hospedeiro para se multiplicar e por isso ficam fora dos cinco reinos"
+   },
+   "resposta": "b",
+   "explicacao": "As bactérias do iogurte são procariontes: não têm carioteca, e a molécula circular que guarda a informação hereditária fica numa região sem envoltório, o nucleoide. A taxonomia reserva o reino Monera a esse grupo; ter núcleo organizado e compartimentos internos é justamente o que caracteriza os eucariontes dos outros reinos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-406",
+   "texto_apoio": "Amostras recolhidas em fontes termais a 85 °C e em lagoas de salinidade muito elevada revelaram organismos sem núcleo organizado, cuja composição de parede e de membrana difere da encontrada nas bactérias comuns.",
+   "enunciado": "Na classificação dos seres vivos, esses organismos são as arqueas, e o dado apresentado sustenta que:",
+   "alternativas": {
+    "a": "as arqueas são fungos de ambiente extremo, já que dependem de matéria orgânica dissolvida",
+    "b": "as arqueas e as bactérias formam um grupo único, pois a falta de núcleo basta como critério",
+    "c": "as arqueas são procariontes distintos das bactérias, e as duas linhagens ocupam domínios separados",
+    "d": "as arqueas são eucariontes de núcleo reduzido, o que explicaria a tolerância ao calor",
+    "e": "a tolerância ao calor e ao sal é o critério taxonômico que define o grupo, de modo que organismos de ambientes amenos ficariam fora dele"
+   },
+   "resposta": "c",
+   "explicacao": "A ausência de núcleo organizado reúne arqueas e bactérias na categoria de procariontes, mas não faz delas um grupo único: diferenças de parede, de membrana e de maquinaria de leitura da informação hereditária levaram a taxonomia a separá-las em dois domínios, Archaea e Bacteria. Viver em ambiente extremo é característica frequente, não critério de classificação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-407",
+   "texto_apoio": "Numa gota de água de charco foram observados três organismos microscópicos com núcleo organizado: o primeiro deslocava-se emitindo prolongamentos do corpo, o segundo por cílios dispostos em fileiras e o terceiro por um flagelo longo.",
+   "enunciado": "Na classificação dos seres vivos, esses protozoários do reino Protista são agrupados, respectivamente, como:",
+   "alternativas": {
+    "a": "ciliados, flagelados e rizópodes",
+    "b": "flagelados, rizópodes e ciliados",
+    "c": "rizópodes, flagelados e ciliados",
+    "d": "rizópodes, ciliados e flagelados",
+    "e": "esporozoários, ciliados e flagelados de água doce"
+   },
+   "resposta": "d",
+   "explicacao": "A taxonomia tradicional dos protozoários usa a estrutura de locomoção: rizópodes ou sarcodíneos emitem pseudópodes, ciliados batem cílios em fileiras e flagelados usam um ou poucos flagelos. Os esporozoários, como o do gênero Plasmodium, não têm estrutura locomotora no estágio infectante.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-408",
+   "texto_apoio": "Numa análise de água de represa, o material retido no filtro trazia organismos verdes microscópicos. Em outra amostra, recolhida num costão rochoso, havia lâminas pardas de vários centímetros presas à pedra por uma estrutura de fixação.",
+   "enunciado": "Na classificação dos seres vivos, esses organismos são algas, e o que os mantém fora do reino vegetal é o fato de:",
+   "alternativas": {
+    "a": "possuírem núcleo organizado e nutrição por absorção do alimento já dissolvido no meio",
+    "b": "não possuírem núcleo organizado, condição que os aproximaria do reino Monera",
+    "c": "terem raiz, caule e folha verdadeiros, o que os colocaria entre os vegetais de porte reduzido",
+    "d": "obterem alimento por ingestão de partículas sólidas, à maneira dos protozoários ciliados",
+    "e": "produzirem matéria orgânica com a clorofila sem formar tecidos nem órgãos verdadeiros"
+   },
+   "resposta": "e",
+   "explicacao": "Algas são eucariontes que produzem o próprio alimento a partir da luz, mas o corpo é um talo: não há raiz, caule nem folha, e portanto não há tecidos condutores. É esse critério de organização, e não o modo de nutrição, que a taxonomia usa para mantê-las no reino Protista e não entre as plantas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-409",
+   "texto_apoio": "Um pão esquecido sobre a mesa apresentou, em cinco dias, uma trama de filamentos brancos que avançava sobre a superfície. Ao fim do período, surgiram pontos escuros arredondados nas extremidades desses filamentos.",
+   "enunciado": "No reino Fungi, os filamentos e os pontos escuros descritos correspondem, respectivamente, a:",
+   "alternativas": {
+    "a": "hifas do micélio e estruturas produtoras de esporos",
+    "b": "raiz absorvente e sementes ainda em formação",
+    "c": "filamentos de origem bacteriana e grãos de amido acumulados",
+    "d": "hifas do micélio e pontos de contato com o substrato, por onde o alimento é ingerido",
+    "e": "prolongamentos do corpo usados na locomoção e estruturas de fixação ao substrato, do tipo que os protozoários rizópodes apresentam"
+   },
+   "resposta": "a",
+   "explicacao": "O bolor do pão, cujo gênero e espécie são Rhizopus stolonifer, cresce como micélio: um emaranhado de hifas que secretam enzimas sobre o alimento e absorvem o produto da degradação. Os pontos escuros são esporângios, onde se formam os esporos de dispersão. Fungo não ingere alimento nem produz semente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-410",
+   "texto_apoio": "Um padeiro misturou fermento biológico à massa e a deixou em repouso num recipiente fechado. Em duas horas o volume dobrou, e o interior da massa ficou tomado por bolhas de gás.",
+   "enunciado": "O fermento biológico é formado por leveduras. No reino Fungi, esses organismos se distinguem dos vegetais porque:",
+   "alternativas": {
+    "a": "não têm núcleo organizado, ao contrário do que se observa nas plantas cultivadas",
+    "b": "não produzem o próprio alimento a partir da luz e obtêm energia degradando açúcares do meio",
+    "c": "possuem raiz, caule e folha reduzidos, compatíveis com o meio líquido da massa",
+    "d": "pertencem ao reino Protista, junto com as algas verdes de água doce",
+    "e": "produzem gás porque acumulam clorofila em quantidade suficiente para converter a luz do forno em matéria orgânica"
+   },
+   "resposta": "b",
+   "explicacao": "A levedura de padaria, cujo gênero e espécie são Saccharomyces cerevisiae, é um fungo: eucarionte de parede rígida, sem clorofila, que degrada o açúcar da massa e libera gás carbônico — o que faz a massa crescer. A taxonomia separa o reino Fungi do reino vegetal exatamente pelo modo de obter alimento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-411",
+   "texto_apoio": "Sobre um muro exposto ao sol cresceram crostas cinza-esverdeadas. Ao microscópio viam-se filamentos entrelaçados envolvendo corpos verdes arredondados; separados em laboratório, nenhum dos dois componentes cresceu sozinho nas mesmas condições.",
+   "enunciado": "Na classificação dos seres vivos, a crosta descrita é um líquen, formado pela associação entre:",
+   "alternativas": {
+    "a": "duas espécies de fungos do reino Fungi, uma delas dependente da outra para se fixar",
+    "b": "uma bactéria e um protozoário, ambos classificados no reino Monera",
+    "c": "um fungo, que retém água e sustenta a estrutura, e uma alga, que produz matéria orgânica",
+    "d": "uma planta de porte reduzido e um fungo instalado em sua raiz absorvente",
+    "e": "um único organismo do reino Protista, cujos filamentos e corpos verdes seriam partes de um mesmo indivíduo em fases distintas do ciclo"
+   },
+   "resposta": "c",
+   "explicacao": "O líquen não é um táxon: é a associação estável entre um fungo e uma alga (ou uma cianobactéria). O fungo dá abrigo, sustentação e retenção de água; o parceiro verde produz a matéria orgânica com a energia da luz. Por isso a taxonomia classifica cada componente em seu reino, e o líquen é nomeado pelo fungo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-412",
+   "texto_apoio": "Numa parede úmida e sombreada cresceu um tapete de musgos de poucos centímetros de altura. Nenhuma das plantas apresentava vasos condutores, e os gametas masculinos precisaram de uma película de água para alcançar o gameta feminino.",
+   "enunciado": "Na classificação dos seres vivos, essas observações explicam por que as briófitas:",
+   "alternativas": {
+    "a": "atingem grande porte, já que a água sobe por capilaridade até o topo da planta",
+    "b": "dispensam a água na reprodução, o que lhes permite ocupar áreas secas e ensolaradas",
+    "c": "produzem sementes protegidas por fruto, o que assegura a dispersão em ambiente seco",
+    "d": "têm porte pequeno e dependem de ambiente úmido, por não formarem vaso condutor nem raiz, caule e folha verdadeiros",
+    "e": "formam vasos condutores lenhosos de grande calibre, condição que as coloca entre as plantas de maior altura das matas tropicais"
+   },
+   "resposta": "d",
+   "explicacao": "Musgos são o grupo mais simples do reino vegetal: sem xilema e sem floema, a água caminha de estrutura em estrutura e limita a altura a poucos centímetros. O que parece raiz, caule e folha são rizoides, caulóide e filoides, sem tecido condutor. E como o gameta masculino nada, a reprodução exige um filme de água.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-413",
+   "texto_apoio": "Numa mata de encosta, samambaias de mais de um metro cresciam em solo sombreado. Ao examinar a face inferior de uma folha, o botânico encontrou grupos de estruturas arredondadas que liberavam esporos quando tocadas.",
+   "enunciado": "Na classificação dos seres vivos, as pteridófitas são o primeiro grupo do reino vegetal a:",
+   "alternativas": {
+    "a": "produzir sementes protegidas no interior de um fruto carnoso",
+    "b": "dispensar a água para que o gameta masculino alcance o feminino",
+    "c": "formar flores com peças férteis reunidas num mesmo eixo",
+    "d": "abrir mão do esporo como unidade de dispersão, substituído pelo grão de pólen levado pelo vento",
+    "e": "apresentar vasos condutores, o que permitiu raiz, caule e folha de maior porte"
+   },
+   "resposta": "e",
+   "explicacao": "As samambaias trazem a novidade que a taxonomia usa para separá-las das briófitas: xilema e floema. Com tecido condutor, a planta sustenta porte maior e leva água do solo até as folhas. A dependência de água na fecundação continua, e a semente só aparece nas gimnospermas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-414",
+   "texto_apoio": "Num pinheiro do gênero Pinus, o botânico recolheu duas estruturas: uma pequena, produtora de grãos de pólen, e outra maior e lenhosa, com sementes descobertas apoiadas sobre escamas.",
+   "enunciado": "Na classificação dos seres vivos, essas observações caracterizam as gimnospermas porque mostram:",
+   "alternativas": {
+    "a": "sementes expostas sobre escamas de estróbilo, sem fruto que as envolva",
+    "b": "sementes encerradas num ovário que amadurece e se converte em fruto",
+    "c": "ausência de semente, com dispersão por esporos liberados na face inferior da folha",
+    "d": "flores com pétalas vistosas voltadas à atração de agentes polinizadores animais",
+    "e": "vasos condutores ausentes, o que limitaria a planta ao porte de poucos centímetros em solo permanentemente úmido"
+   },
+   "resposta": "a",
+   "explicacao": "O nome do grupo é descritivo: gimnosperma quer dizer semente nua. No reino vegetal, as gimnospermas trouxeram a semente e o grão de pólen — que dispensa a água na fecundação —, mas não o fruto. Flor e fruto aparecem apenas nas angiospermas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-415",
+   "texto_apoio": "Numa feira, tomate, abobrinha e vagem eram vendidos na banca de legumes. O exame de cada um mostrou sementes no interior e uma cicatriz correspondente ao ponto em que a estrutura se prendia à flor.",
+   "enunciado": "Na classificação dos seres vivos, esse exame indica que os três são, do ponto de vista das angiospermas:",
+   "alternativas": {
+    "a": "raiz tuberosa, engrossada pelo acúmulo de reservas nutritivas",
+    "b": "frutos, pois derivam do ovário da flor e guardam as sementes",
+    "c": "sementes de grande porte, formadas diretamente a partir do grão de pólen",
+    "d": "caules subterrâneos, onde a planta acumula amido para o período seco",
+    "e": "estróbilos lenhosos típicos das gimnospermas, nos quais as sementes ficam apoiadas sobre escamas descobertas"
+   },
+   "resposta": "b",
+   "explicacao": "Fruto, na taxonomia botânica, é o ovário desenvolvido após a fecundação, com as sementes no interior — o uso culinário de legume não corresponde a nenhuma categoria científica. Tomate, abobrinha e vagem são frutos de angiospermas; a batata é caule subterrâneo e a cenoura, raiz.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-416",
+   "texto_apoio": "Um horticultor retirou um anel completo de casca ao redor do tronco de uma laranjeira, atingindo apenas os tecidos externos. Meses depois, a região logo acima do corte estava engrossada, e as partes situadas abaixo dele definhavam.",
+   "enunciado": "No reino vegetal, o resultado desse anelamento mostra que:",
+   "alternativas": {
+    "a": "a raiz produz o açúcar que abastece a copa, e o corte interrompeu essa subida",
+    "b": "o xilema foi seccionado, e por isso a água deixou de chegar às folhas da copa",
+    "c": "o floema foi seccionado, e a seiva orgânica deixou de descer para a raiz",
+    "d": "o caule armazena água, e o anelamento esvaziou o reservatório da planta",
+    "e": "a casca retirada continha as estruturas que captam a luz, de modo que a planta deixou de produzir matéria orgânica no tronco"
+   },
+   "resposta": "c",
+   "explicacao": "O anelamento de Malpighi retira o floema, que fica na parte externa do tronco, e preserva o xilema, mais interno. A seiva orgânica que desce das folhas acumula-se acima do corte — daí o engrossamento — e deixa de alcançar a raiz, que definha. A água continua subindo, e por isso a copa demora a murchar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-417",
+   "texto_apoio": "Uma planta em vaso foi mantida durante o dia numa câmara com ar saturado de umidade. Nessas condições, a entrada de água pela raiz caiu de forma acentuada, embora o solo permanecesse úmido e a iluminação fosse a mesma dos dias anteriores.",
+   "enunciado": "No reino vegetal, o resultado se explica porque a subida de água pelo xilema depende principalmente:",
+   "alternativas": {
+    "a": "do bombeamento realizado por estruturas contráteis situadas na base do caule",
+    "b": "da pressão que o ar exerce sobre a superfície da folha, empurrando a água para dentro",
+    "c": "do transporte da seiva orgânica no sentido da folha para a raiz, ao longo do floema",
+    "d": "da transpiração na folha, que puxa a coluna de água coesa ao longo do vaso lenhoso",
+    "e": "da capilaridade nos vasos do lenho, força que por si só levaria a água ao topo de árvores de dezenas de metros"
+   },
+   "resposta": "d",
+   "explicacao": "Na teoria da coesão-tensão, a água que evapora pelos estômatos cria tensão no topo da coluna líquida; como as moléculas de água se atraem, a coluna inteira é puxada pelo xilema. Com o ar saturado, a transpiração cessa e a absorção pela raiz cai — mesmo com solo úmido. Capilaridade sozinha explica poucos centímetros.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-418",
+   "texto_apoio": "Sementes de feijão foram divididas em quatro grupos mantidos por dez dias: escuro e úmido, claro e úmido, escuro e seco, claro e seco. Germinaram apenas os dois primeiros grupos.",
+   "enunciado": "No reino vegetal, o experimento indica que, para essas sementes de angiosperma:",
+   "alternativas": {
+    "a": "a luz é o fator determinante, e a água pode ser dispensada sem prejuízo",
+    "b": "a germinação depende da presença simultânea de luz e de água, e a falta de um dos dois já basta para impedi-la",
+    "c": "o escuro impede a germinação, e a presença de água apenas acelera o processo",
+    "d": "nem a luz nem a água interferiram no resultado observado nos quatro grupos",
+    "e": "a água é determinante, e a luz não interferiu no resultado dos quatro grupos"
+   },
+   "resposta": "e",
+   "explicacao": "O delineamento cruza os dois fatores. Comparando escuro úmido com escuro seco, e claro úmido com claro seco, a água decide; comparando escuro úmido com claro úmido, a luz não altera o resultado. Para o feijão, cujo gênero e espécie são Phaseolus vulgaris, a semente germina no escuro desde que embebida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-419",
+   "texto_apoio": "Numa área de cultivo de maracujá, a produção caiu cerca de 70% depois que as mamangavas rarearam na região. Num teste, flores isoladas com saco de tecido não formaram fruto, enquanto flores que receberam pólen aplicado com pincel formaram normalmente.",
+   "enunciado": "No reino vegetal, o experimento mostra que, nessa angiosperma:",
+   "alternativas": {
+    "a": "a formação do fruto depende da chegada do pólen ao estigma da flor",
+    "b": "o fruto se forma a partir do grão de pólen depositado sobre a pétala",
+    "c": "o saco de tecido impediu a entrada de luz, e por isso a flor não frutificou",
+    "d": "o pincel substituiu a raiz na absorção da água necessária ao crescimento do fruto",
+    "e": "as mamangavas transportam sementes já formadas de uma planta a outra, e o fruto se organiza em torno delas depois do transporte"
+   },
+   "resposta": "a",
+   "explicacao": "O saco de tecido barra o polinizador, não a luz — e a flor isolada não frutifica. O pincel repõe o que faltava: o pólen no estigma. Como o fruto é o ovário desenvolvido, sem fecundação não há fruto, e é por isso que a queda das mamangavas derruba a produção do maracujazeiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-420",
+   "texto_apoio": "Um quadro comparou quatro grupos do reino vegetal quanto a três caracteres: vaso condutor, semente e fruto.",
+   "enunciado": "Assinale a alternativa que preenche corretamente as lacunas. As briófitas não apresentam _____; as samambaias apresentam vaso condutor, mas não apresentam _____; os pinheiros apresentam semente, mas não apresentam _____.",
+   "alternativas": {
+    "a": "semente … vaso condutor … flor",
+    "b": "vaso condutor … semente … fruto",
+    "c": "fruto … flor … vaso condutor",
+    "d": "vaso condutor … fruto … semente",
+    "e": "semente … fruto … vaso condutor de origem lenhosa"
+   },
+   "resposta": "b",
+   "explicacao": "A taxonomia botânica organiza os quatro grupos por acréscimo de caracteres: briófitas não têm tecido condutor; pteridófitas ganham xilema e floema, mas ainda se dispersam por esporo; gimnospermas ganham a semente, exposta na escama do estróbilo; angiospermas ganham flor e fruto, com a semente protegida.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-421",
+   "texto_apoio": "Uma tabela reuniu quatro organismos e o resultado de um corante específico para núcleo: num cogumelo e numa ameba o corante marcou uma estrutura bem delimitada; numa bactéria de solo e numa arquea de fonte termal não havia estrutura correspondente.",
+   "enunciado": "Na classificação dos seres vivos, o critério testado nessa tabela separa:",
+   "alternativas": {
+    "a": "os organismos microscópicos dos macroscópicos, dentro de um mesmo reino",
+    "b": "os que produzem o próprio alimento daqueles que dependem de matéria orgânica pronta",
+    "c": "os eucariontes, como o cogumelo e a ameba, dos procariontes, como a bactéria e a arquea",
+    "d": "os seres de vida livre daqueles que dependem de um hospedeiro para se multiplicar",
+    "e": "os organismos do reino Fungi dos demais, uma vez que a marcação do núcleo seria um caráter restrito a esse reino na tabela"
+   },
+   "resposta": "c",
+   "explicacao": "Ter ou não núcleo delimitado por envoltório é o corte mais profundo da taxonomia dos seres vivos. Cogumelo (reino Fungi) e ameba (reino Protista) são eucariontes; bactéria e arquea são procariontes, embora pertençam a domínios diferentes entre si. Tamanho e modo de nutrição não acompanham essa divisão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-422",
+   "texto_apoio": "Um quadro reuniu três estruturas presentes em grupos do reino vegetal e a descrição de cada uma: a cutícula cerosa que reveste a folha, o grão de pólen levado pelo vento ou por animais e a semente protegida por tegumento resistente.",
+   "enunciado": "Na classificação dos seres vivos, essas três estruturas têm em comum o fato de:",
+   "alternativas": {
+    "a": "ampliar a superfície disponível para a captação de luz pela folha",
+    "b": "permitir que o gameta masculino nade até o feminino numa película de água",
+    "c": "reduzir a altura da planta, o que diminui o gasto com a sustentação do caule",
+    "d": "reduzir a perda de água e livrar a reprodução da dependência do meio líquido",
+    "e": "manter a planta presa ao substrato úmido, condição exigida pelos grupos que não formam vaso condutor lenhoso"
+   },
+   "resposta": "d",
+   "explicacao": "As três estruturas resolvem o mesmo problema: viver fora da água. A cutícula limita a saída de vapor pela folha; o grão de pólen leva o gameta masculino até o feminino sem que ele precise nadar; o tegumento protege o embrião e a reserva durante a dispersão. Por isso gimnospermas e angiospermas ocupam ambientes secos que as briófitas não alcançam.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-423",
+   "texto_apoio": "Duas explicações para o pescoço longo das girafas foram apresentadas numa aula. Na primeira, o esforço de alcançar ramos altos alongaria o pescoço de cada indivíduo, e esse ganho passaria aos filhotes. Na segunda, já havia variação de comprimento entre os indivíduos, e os de pescoço mais longo deixaram mais filhotes.",
+   "enunciado": "Do ponto de vista evolutivo, as duas explicações correspondem, respectivamente, às ideias de:",
+   "alternativas": {
+    "a": "Lamarck e Darwin",
+    "b": "Darwin e Lamarck",
+    "c": "Darwin e Wallace",
+    "d": "Lamarck e Mendel",
+    "e": "Cuvier e Lamarck, nessa ordem de apresentação"
+   },
+   "resposta": "a",
+   "explicacao": "A primeira explicação é a lei do uso e desuso somada à transmissão dos caracteres adquiridos, de Lamarck: o traço aparece durante a vida e passa adiante. A segunda é a seleção natural de Darwin: a variação já existe no grupo, e o ambiente decide quem deixa mais descendência. A adaptação, aqui, é resultado da seleção, não causa dela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-424",
+   "texto_apoio": "Antes da industrialização inglesa, mariposas de asas claras predominavam sobre troncos cobertos de líquen, e a forma escura era rara. Com a fuligem das fábricas, os troncos escureceram e a forma escura passou a predominar. Décadas depois do controle das emissões, a forma clara voltou a ser a mais frequente.",
+   "enunciado": "Do ponto de vista evolutivo, o caso é usado como demonstração de seleção natural porque:",
+   "alternativas": {
+    "a": "a fuligem alterou diretamente a cor das asas ao longo da vida de cada mariposa",
+    "b": "as duas formas já existiam, e o ambiente alterou a chance de sobrevivência de cada uma",
+    "c": "as mariposas escureceram por esforço para se esconder e transmitiram esse esforço aos filhotes",
+    "d": "a forma escura surgiu depois da industrialização, como resposta dirigida ao novo tronco",
+    "e": "a forma escura desapareceu por completo durante o período industrial e teve de ser reintroduzida na região quando os troncos voltaram a clarear"
+   },
+   "resposta": "b",
+   "explicacao": "As duas formas eram conhecidas antes da industrialização: a variação é anterior à pressão seletiva. O que a fuligem mudou foi a visibilidade de cada uma sobre o tronco, e portanto a chance de escapar dos predadores — daí a inversão de frequência e o retorno depois da limpeza do ar. Nada no caso exige que o ambiente crie a variação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-425",
+   "texto_apoio": "Num experimento, besouros de duas cores foram soltos em dois recintos com solo de tonalidade diferente. Após seis gerações, em cada recinto predominavam os besouros de cor semelhante à do solo, embora as duas formas continuassem presentes nos dois recintos.",
+   "enunciado": "Do ponto de vista evolutivo, o resultado indica que:",
+   "alternativas": {
+    "a": "os besouros mudaram de cor para se ajustar ao solo de cada um dos recintos",
+    "b": "a seleção natural criou a variação de cor observada no início do experimento",
+    "c": "a seleção natural atuou sobre variação preexistente, alterando a proporção das formas",
+    "d": "o resultado se deve ao acaso, já que as duas formas continuaram presentes nos recintos",
+    "e": "a cor do solo modificou o material hereditário dos besouros no sentido exigido pelo ambiente de cada recinto"
+   },
+   "resposta": "c",
+   "explicacao": "Seleção natural não gera variação: ela filtra a que já existe. Como as duas cores estavam presentes desde o início e continuaram presentes ao fim, o que mudou foi a proporção entre elas — resultado esperado quando a cor do solo altera a chance de o besouro ser localizado. A adaptação observada é consequência desse filtro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-426",
+   "texto_apoio": "Três gráficos foram apresentados: no primeiro, recém-nascidos de peso muito baixo ou muito alto tiveram menor sobrevivência; no segundo, o comprimento médio do bico numa ilha aumentou após uma seca prolongada; no terceiro, uma população dividida entre dois tipos de alimento passou a concentrar indivíduos nos dois extremos de tamanho.",
+   "enunciado": "Do ponto de vista evolutivo, os três padrões correspondem, respectivamente, a seleção:",
+   "alternativas": {
+    "a": "direcional, estabilizadora e disruptiva",
+    "b": "disruptiva, direcional e estabilizadora",
+    "c": "estabilizadora, disruptiva e direcional",
+    "d": "estabilizadora, direcional e disruptiva",
+    "e": "direcional, disruptiva e estabilizadora, nessa ordem"
+   },
+   "resposta": "d",
+   "explicacao": "Seleção estabilizadora elimina os extremos e mantém a média — o caso clássico do peso ao nascer. Direcional desloca a média para um dos lados, como o bico maior após a seca. Disruptiva favorece os dois extremos e desfavorece o intermediário, situação que pode iniciar um processo de especiação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-427",
+   "texto_apoio": "Um rio de curso novo dividiu em duas a área ocupada por uma espécie de roedor. Milhares de gerações depois, indivíduos das duas margens foram reunidos em laboratório: houve acasalamento, mas os filhotes nasceram estéreis.",
+   "enunciado": "Do ponto de vista evolutivo, o episódio descrito é um caso de:",
+   "alternativas": {
+    "a": "especiação alopátrica, com isolamento geográfico seguido de isolamento reprodutivo",
+    "b": "especiação simpátrica, sem separação física entre os dois grupos de roedores",
+    "c": "deriva genética pura, sem interrupção do fluxo gênico entre as duas margens",
+    "d": "convergência entre linhagens distintas que passaram a ocupar a mesma margem do rio",
+    "e": "hibridação bem-sucedida, uma vez que os indivíduos das duas margens ainda produziram filhotes ao serem reunidos em laboratório"
+   },
+   "resposta": "a",
+   "explicacao": "O rio interrompeu o fluxo gênico entre as margens: é isolamento geográfico, e a especiação que se segue chama-se alopátrica. Filhote estéril indica que a barreira deixou de ser apenas geográfica e passou a ser reprodutiva — o critério de espécie biológica já não é satisfeito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-428",
+   "texto_apoio": "Duas espécies de anfíbios ocupam o mesmo brejo. A primeira vocaliza e desova em outubro; a segunda, em janeiro. Quando gametas das duas são reunidos em laboratório, formam-se zigotos que interrompem o desenvolvimento nas primeiras divisões.",
+   "enunciado": "Do ponto de vista evolutivo, os dois fatos descritos correspondem, respectivamente, a mecanismos de isolamento:",
+   "alternativas": {
+    "a": "pós-zigótico e pré-zigótico",
+    "b": "pré-zigótico e pós-zigótico",
+    "c": "pré-zigótico nos dois casos descritos",
+    "d": "pós-zigótico nos dois casos descritos",
+    "e": "geográfico no primeiro caso e comportamental no segundo caso"
+   },
+   "resposta": "b",
+   "explicacao": "Desovar em meses diferentes impede o encontro dos gametas: é isolamento pré-zigótico, do tipo sazonal. Já o zigoto que se forma e não vinga é isolamento pós-zigótico, medido depois da fecundação. Os dois mecanismos mantêm separadas espécies que dividem a mesma área — é o caso da especiação simpátrica, que dispensa barreira geográfica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-429",
+   "texto_apoio": "Um grupo de vinte pessoas deixou o continente e colonizou uma ilha isolada. Séculos depois, uma condição hereditária rara, presente em um único dos fundadores, aparecia em 8% dos habitantes da ilha e em 0,01% dos habitantes do continente.",
+   "enunciado": "Do ponto de vista evolutivo, a diferença observada se explica principalmente por:",
+   "alternativas": {
+    "a": "seleção natural favorável a essa condição no ambiente da ilha",
+    "b": "aumento da taxa de erro de cópia do material hereditário nos habitantes da ilha, provocado pelo isolamento",
+    "c": "fluxo gênico intenso entre a ilha e o continente ao longo dos séculos",
+    "d": "convergência entre os dois grupos, submetidos a pressões semelhantes",
+    "e": "efeito fundador, um caso de deriva genética ligado ao número pequeno de colonizadores"
+   },
+   "resposta": "e",
+   "explicacao": "Quando poucos indivíduos fundam um grupo isolado, a amostra que eles carregam não representa a variação do grupo de origem: uma condição rara no continente pode entrar na ilha em proporção alta e permanecer alta. É deriva genética — efeito do acaso amostral, não de vantagem seletiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-430",
+   "texto_apoio": "Um quadro comparou o darwinismo original com a teoria sintética formulada na primeira metade do século XX. A segunda incorporou o que se descobriu sobre a origem da variação hereditária e sobre o comportamento das frequências dessas variantes ao longo das gerações.",
+   "enunciado": "Do ponto de vista evolutivo, o que a teoria sintética acrescentou ao darwinismo foi:",
+   "alternativas": {
+    "a": "a explicação da origem da variação por erro de cópia e recombinação, ausente em Darwin",
+    "b": "a ideia de que o ambiente dirige a variação no sentido que lhe é conveniente",
+    "c": "a herança dos caracteres adquiridos ao longo da vida de cada indivíduo",
+    "d": "a substituição da seleção natural pela deriva genética como fator único",
+    "e": "a proposta de que as espécies são fixas e de que o registro do passado apenas documenta catástrofes sucessivas"
+   },
+   "resposta": "a",
+   "explicacao": "Darwin descreveu a seleção natural sem saber de onde vinha a variação nem como ela era transmitida. A teoria sintética juntou o darwinismo ao conhecimento sobre hereditariedade: erro de cópia e recombinação geram variação ao acaso; seleção, deriva genética e fluxo gênico alteram a frequência dessas variantes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-431",
+   "texto_apoio": "Um esquema comparou o membro anterior de um morcego, de uma baleia e de um cavalo: os três têm os mesmos ossos, na mesma sequência, com formas e proporções distintas. Ao lado, comparou a asa do morcego com a asa de um inseto, que não compartilham nenhum osso e diferem por completo na estrutura interna.",
+   "enunciado": "Do ponto de vista evolutivo, os dois conjuntos ilustram, respectivamente:",
+   "alternativas": {
+    "a": "órgãos análogos e órgãos homólogos",
+    "b": "órgãos vestigiais e órgãos homólogos",
+    "c": "órgãos homólogos e órgãos análogos",
+    "d": "convergência no primeiro conjunto e divergência no segundo",
+    "e": "órgãos homólogos nos dois conjuntos, já que ambos servem ao voo do animal"
+   },
+   "resposta": "c",
+   "explicacao": "Órgãos homólogos têm a mesma origem e podem ter funções diferentes — é o caso do membro anterior dos três mamíferos, herdado de um ancestral comum. Órgãos análogos têm a mesma função e origens diferentes, como as duas asas comparadas. Homologia indica parentesco; analogia indica pressão semelhante sobre linhagens distintas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-432",
+   "texto_apoio": "O golfinho, o tubarão e o extinto ictiossauro têm corpo fusiforme e nadadeiras de contorno parecido. O primeiro é mamífero, o segundo é peixe e o terceiro era réptil marinho conhecido pelo registro fóssil.",
+   "enunciado": "Do ponto de vista evolutivo, a semelhança de forma entre os três indica:",
+   "alternativas": {
+    "a": "parentesco próximo entre os três, revelado pelo formato do corpo",
+    "b": "que os três descendem de um ancestral comum exclusivo, do qual herdaram a nadadeira",
+    "c": "que a nadadeira dos três é um órgão homólogo, de mesma origem embrionária",
+    "d": "convergência: linhagens distintas sob pressão semelhante chegaram a formas parecidas",
+    "e": "que o ictiossauro é o ancestral direto do golfinho e do tubarão, conforme a sucessão de camadas em que o registro fóssil foi encontrado"
+   },
+   "resposta": "d",
+   "explicacao": "As nadadeiras dos três são órgãos análogos: cumprem a mesma função no mesmo meio, mas vêm de linhagens separadas. Semelhança de forma, sozinha, não é evidência de parentesco — é o erro que a anatomia comparada aprendeu a evitar ao distinguir homologia de analogia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-433",
+   "texto_apoio": "Uma lista reuniu estruturas humanas de função reduzida ou ausente: os músculos que movimentam a orelha externa, o cóccix e o apêndice vermiforme. Em outros mamíferos, as estruturas correspondentes têm função clara e tamanho proporcionalmente maior.",
+   "enunciado": "Do ponto de vista evolutivo, essas estruturas são tomadas como evidência porque:",
+   "alternativas": {
+    "a": "surgiram na espécie humana sem correspondência nos demais vertebrados",
+    "b": "são órgãos homólogos aos de outros mamíferos, sinal de ancestral comum entre eles",
+    "c": "resultam do desuso ao longo da vida de cada pessoa, e esse desuso passa aos filhos",
+    "d": "provam que a espécie humana descende diretamente dos macacos hoje existentes",
+    "e": "indicam que a espécie humana teria perdido a capacidade de responder às pressões do ambiente ao longo do tempo geológico"
+   },
+   "resposta": "b",
+   "explicacao": "Estruturas vestigiais são homólogas a órgãos funcionais de outras linhagens: a orelha móvel do cão, a cauda de outros mamíferos, o ceco volumoso dos herbívoros. A presença do resto sem a função é difícil de explicar sem ancestralidade comum, e é por isso que ela conta como evidência — não pelo desuso individual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-434",
+   "texto_apoio": "Numa encosta sedimentar, três camadas sobrepostas e não revolvidas guardavam restos de organismos distintos. A camada mais profunda trouxe apenas formas marinhas; a intermediária, formas marinhas e de água doce; a superior, formas terrestres.",
+   "enunciado": "Do ponto de vista evolutivo, a leitura correta do registro fóssil dessa encosta é:",
+   "alternativas": {
+    "a": "as camadas mais profundas são as mais recentes, porque foram cobertas depois das demais",
+    "b": "os organismos das três camadas viveram ao mesmo tempo e foram separados pela ação da água",
+    "c": "as camadas mais profundas são as mais antigas, e a sequência registra a ocupação de novos ambientes",
+    "d": "a presença de formas marinhas na base indica que a região se elevou e afundou várias vezes",
+    "e": "os restos das três camadas pertencem à mesma espécie em estágios distintos de decomposição, o que impede a leitura temporal da encosta"
+   },
+   "resposta": "c",
+   "explicacao": "Em terreno sedimentar não revolvido vale a superposição: a camada de baixo é a mais antiga. A sequência marinho, marinho mais dulcícola, terrestre acompanha a ordem em que os grupos aparecem no registro fóssil e é uma das evidências clássicas de que a vida mudou ao longo do tempo geológico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-435",
+   "texto_apoio": "O Archaeopteryx, conhecido por exemplares do Jurássico, tem penas e furcula, como as aves atuais, e também dentes, garras nos dedos da asa e cauda longa sustentada por vértebras, como certos répteis do mesmo período.",
+   "enunciado": "Do ponto de vista evolutivo, um fóssil com esse conjunto de caracteres é chamado de forma de transição porque:",
+   "alternativas": {
+    "a": "reúne caracteres de dois grupos e por isso é o ancestral direto de ambos",
+    "b": "mostra que as aves atuais descendem sem alteração dos répteis do Jurássico",
+    "c": "prova que os dois grupos surgiram ao mesmo tempo e não compartilharam ancestral",
+    "d": "indica que os caracteres de réptil foram adquiridos pelo animal ao longo da própria vida e transmitidos adiante",
+    "e": "documenta a combinação de caracteres esperada perto do ponto de separação entre linhagens"
+   },
+   "resposta": "e",
+   "explicacao": "Forma de transição não quer dizer ancestral direto: quer dizer que o organismo exibe a mistura de caracteres que se espera de uma linhagem próxima da separação entre dois grupos. O Archaeopteryx sustenta o parentesco entre dinossauros terópodes e aves sem que seja preciso colocá-lo na linha direta de descendência.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-436",
+   "texto_apoio": "As raças de cão descendem do lobo. Ao longo de milhares de anos, criadores escolheram para reprodução os indivíduos que traziam o traço desejado — porte, formato do focinho, tipo de pelagem — e afastaram os demais do acasalamento.",
+   "enunciado": "Do ponto de vista evolutivo, Darwin recorreu a esse tipo de caso como argumento porque a seleção artificial:",
+   "alternativas": {
+    "a": "prova que o criador consegue produzir variação nova onde ela não existia antes",
+    "b": "demonstra que os traços obtidos pelo treino do animal passam à geração seguinte",
+    "c": "indica que o ambiente natural não exerce pressão sobre os grupos de vida livre",
+    "d": "mostra que escolher quem se reproduz altera as características do grupo em poucas gerações",
+    "e": "revela que as raças de cão pertencem a espécies distintas, incapazes de gerar filhotes viáveis quando reunidas"
+   },
+   "resposta": "d",
+   "explicacao": "Darwin usou o que criadores já faziam como analogia visível de um processo lento: se a escolha humana de quem se acasala transforma o lobo em dezenas de raças em alguns milhares de anos, a seleção natural, ao longo de milhões de anos, pode ir muito além. A variação, nos dois casos, é anterior à escolha e não foi criada por ela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-437",
+   "texto_apoio": "Ratos de pelagem clara e escura foram soltos em duas áreas de campo: uma de areia clara e outra de rocha escura. A sobrevivência após seis meses foi de 61% para os claros na areia e 22% na rocha; para os escuros, foi de 24% na areia e 58% na rocha.",
+   "enunciado": "Do ponto de vista evolutivo, os dados sustentam que a adaptação:",
+   "alternativas": {
+    "a": "é qualidade fixa do indivíduo, independente do terreno em que ele vive",
+    "b": "é relativa ao ambiente: a mesma pelagem é vantajosa numa área e desvantajosa na outra",
+    "c": "surge por esforço do animal para se assemelhar ao terreno em que foi solto",
+    "d": "depende do número de indivíduos soltos, e não da cor da pelagem de cada um",
+    "e": "é adquirida ao longo da vida do animal e transmitida aos filhotes nascidos no mesmo terreno"
+   },
+   "resposta": "b",
+   "explicacao": "Os quatro números formam um cruzamento completo: cada pelagem tem sobrevivência alta num terreno e baixa no outro. Isso mostra que não existe pelagem melhor em termos absolutos — vantagem só faz sentido diante de uma pressão seletiva determinada, e é isso que a palavra adaptação significa em biologia evolutiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-438",
+   "texto_apoio": "Num arquipélago, pássaros de uma mesma linhagem ocuparam ilhas com recursos distintos. Hoje cada ilha abriga formas de bico diferente: fino e longo onde predominam insetos; curto e robusto onde predominam sementes de casca dura.",
+   "enunciado": "Do ponto de vista evolutivo, o quadro descrito é um caso de:",
+   "alternativas": {
+    "a": "convergência, já que formas de origem distinta chegaram ao mesmo tipo de bico",
+    "b": "deriva genética, uma vez que apenas o acaso definiu o bico de cada ilha",
+    "c": "radiação adaptativa: de um ancestral comum saíram formas ajustadas a recursos distintos",
+    "d": "seleção artificial, pois o formato do bico foi escolhido por criadores nas ilhas",
+    "e": "herança de caracteres adquiridos, já que o esforço de abrir sementes teria engrossado o bico ao longo da vida de cada pássaro"
+   },
+   "resposta": "c",
+   "explicacao": "Radiação adaptativa é a diversificação rápida de uma linhagem que encontra ambientes livres e recursos variados: de um ancestral comum saem formas especializadas, cada uma sob a pressão seletiva da sua ilha. É o oposto da convergência, em que linhagens separadas chegam a soluções parecidas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-439",
+   "texto_apoio": "Duas áreas de mata separadas por pasto abrigam grupos do mesmo primata. Depois que um corredor arborizado ligou as duas áreas, o intercâmbio de indivíduos passou de raro a frequente, e as diferenças entre os dois grupos diminuíram ao longo de vinte anos.",
+   "enunciado": "Do ponto de vista evolutivo, o efeito descrito corresponde ao aumento de:",
+   "alternativas": {
+    "a": "deriva genética, que amplia a diferença entre grupos mantidos isolados",
+    "b": "seleção natural contra os indivíduos que atravessam o corredor arborizado",
+    "c": "isolamento reprodutivo entre os dois grupos de mata",
+    "d": "fluxo gênico, que torna os dois grupos mais parecidos entre si",
+    "e": "especiação simpátrica, resultado esperado quando dois grupos passam a ocupar a mesma área de mata"
+   },
+   "resposta": "d",
+   "explicacao": "Fluxo gênico é a troca de variantes hereditárias entre grupos por migração de indivíduos. Enquanto o pasto isolava as manchas, cada grupo seguia caminho próprio e a diferença entre eles crescia; o corredor restabeleceu a troca e homogeneizou os dois — efeito oposto ao da deriva genética em isolamento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-440",
+   "texto_apoio": "Um quadro comparou três formas do gênero Homo pela capacidade craniana média e pelo tipo de instrumento associado a cada uma nos sítios escavados: 600 cm³ com lascas simples; 900 cm³ com machados bifaces; 1.350 cm³ com instrumentos compostos e pigmentos.",
+   "enunciado": "Do ponto de vista evolutivo, a leitura correta desse quadro é:",
+   "alternativas": {
+    "a": "as três formas são estágios da vida de um mesmo indivíduo, do jovem ao adulto",
+    "b": "a espécie humana atual descende das espécies de macaco hoje existentes",
+    "c": "o aumento da capacidade craniana decorreu do esforço individual de aprendizagem",
+    "d": "as três formas viveram exatamente na mesma época e no mesmo continente, sem parentesco documentado entre elas",
+    "e": "o registro fóssil documenta linhagens sucessivas, com ganho de capacidade craniana e de complexidade técnica"
+   },
+   "resposta": "e",
+   "explicacao": "O registro fóssil do gênero Homo mostra uma sequência de linhagens, algumas contemporâneas entre si, com tendência de aumento da capacidade craniana e sofisticação das indústrias líticas. Nenhuma dessas formas é estágio de vida de outra, e a espécie humana não descende dos macacos atuais: ambos partem de ancestral comum.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-441",
+   "texto_apoio": "Uma árvore evolutiva reuniu quatro espécies. O nó mais recente une B e C; o nó imediatamente anterior liga esse par a D; A parte do nó mais antigo, na base da árvore.",
+   "enunciado": "Do ponto de vista evolutivo, a leitura correta dessa filogenia é:",
+   "alternativas": {
+    "a": "B e C compartilham um ancestral comum mais recente entre si do que com D",
+    "b": "A é a espécie mais primitiva e deu origem diretamente às outras três",
+    "c": "D descende de B e de C, por ocupar um nó anterior na árvore",
+    "d": "as quatro espécies surgiram ao mesmo tempo, e os nós indicam apenas semelhança de forma",
+    "e": "a ordem dos ramos indica o grau de complexidade de cada espécie, do mais simples ao mais complexo, e não o parentesco entre elas"
+   },
+   "resposta": "a",
+   "explicacao": "Numa filogenia, o que importa é a posição dos nós: quanto mais recente o nó que une dois ramos, mais próximo o parentesco. A partir do nó basal, A é grupo-irmão do conjunto formado por D, B e C — e não ancestral deles. As espécies do topo são todas atuais; nenhuma é mais primitiva que a outra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-442",
+   "texto_apoio": "Redi colocou pedaços de carne em dois conjuntos de frascos: uns abertos, outros vedados com gaze fina que deixava passar o ar. Nos frascos abertos surgiram larvas sobre a carne; nos vedados, as larvas apareceram apenas sobre a gaze, e não no interior.",
+   "enunciado": "Na discussão sobre a origem da vida, o experimento de Redi foi decisivo porque:",
+   "alternativas": {
+    "a": "mostrou que as larvas vinham de ovos depositados por moscas, e não da carne em decomposição",
+    "b": "provou que seres vivos surgem da matéria sem vida desde que haja calor e umidade",
+    "c": "demonstrou que a gaze fornecia o princípio necessário à formação das larvas",
+    "d": "indicou que a carne dos frascos vedados estava alterada antes do início do teste",
+    "e": "estabeleceu que microrganismos resistem à fervura e por isso reaparecem em frascos fechados, o que encerrou o debate sobre a geração espontânea"
+   },
+   "resposta": "a",
+   "explicacao": "A gaze deixava passar o ar e barrava a mosca: com isso Redi separou as duas explicações concorrentes e mostrou que a larva vinha do ovo, não da carne. É o primeiro golpe sério na abiogênese, e a questão que ele trata — como a vida aparece — é distinta da que a seleção natural de Darwin explica, que é a diversificação das linhagens.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-443",
+   "texto_apoio": "Pasteur ferveu caldo nutritivo em frascos de pescoço longo e curvo, mantidos abertos para o ar. O caldo permaneceu límpido por meses. Quando o pescoço era quebrado, ou o frasco inclinado até que o líquido molhasse a curva, o caldo turvava em poucos dias.",
+   "enunciado": "Na discussão sobre a origem da vida, esse resultado sustenta que:",
+   "alternativas": {
+    "a": "o ar carrega o princípio vital que anima a matéria sem vida presente no caldo",
+    "b": "os microrganismos vieram do ar e ficaram retidos na curva do pescoço, e não do caldo",
+    "c": "a fervura destrói o princípio vital, o que impede o surgimento de vida nesses frascos",
+    "d": "o pescoço curvo impede a entrada de ar, e sem ar não ocorre geração espontânea",
+    "e": "o caldo turvou apenas nos frascos inclinados porque a inclinação alterou a composição química do meio de cultura"
+   },
+   "resposta": "b",
+   "explicacao": "O pescoço em S deixa o ar entrar e retém as partículas em suspensão na curva úmida. Como o caldo fervido continua límpido enquanto a curva está íntegra, e turva assim que o líquido a alcança, a contaminação vem de fora — é a demonstração da biogênese, que encerrou o debate sobre a geração espontânea.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-444",
+   "texto_apoio": "Pela hipótese de Oparin e Haldane, a atmosfera primitiva seria rica em metano, amônia, hidrogênio e vapor de água. Descargas elétricas e radiação teriam formado compostos orgânicos que se acumularam nos mares rasos e depois se agregaram em aglomerados envoltos por um filme de água.",
+   "enunciado": "Na discussão sobre a origem da vida, esses aglomerados são conhecidos como:",
+   "alternativas": {
+    "a": "esporos trazidos do espaço por corpos celestes em queda",
+    "b": "restos mineralizados preservados em rocha sedimentar antiga",
+    "c": "coacervados, agregados que concentravam moléculas e trocavam material com o meio",
+    "d": "aglomerados minerais capazes de se multiplicar sem participação de matéria orgânica",
+    "e": "seres vivos completos, já dotados de material hereditário e de metabolismo autossuficiente desde o momento em que se formaram"
+   },
+   "resposta": "c",
+   "explicacao": "Coacervado é o nome que Oparin deu ao agregado de moléculas orgânicas envolto por água organizada, capaz de concentrar substâncias e trocar material com o meio. Não é ser vivo: é um modelo de etapa intermediária entre a matéria orgânica dispersa e um sistema capaz de se manter e se duplicar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-445",
+   "texto_apoio": "Miller montou um sistema fechado com metano, amônia, hidrogênio e vapor de água, submetido a descargas elétricas contínuas, com um condensador que recolhia o líquido resultante. Após uma semana, o líquido continha aminoácidos e outros compostos orgânicos simples.",
+   "enunciado": "Na discussão sobre a origem da vida, o que o experimento de Miller demonstrou foi que:",
+   "alternativas": {
+    "a": "a vida surgiu dentro do aparelho, a partir da descarga elétrica aplicada ao sistema",
+    "b": "os aminoácidos recolhidos já formavam seres capazes de se multiplicar sozinhos",
+    "c": "a atmosfera atual produz os mesmos compostos, com ou sem descarga elétrica",
+    "d": "compostos orgânicos podem se formar a partir de matéria inorgânica em condições abióticas",
+    "e": "os compostos orgânicos da Terra primitiva chegaram prontos do espaço, conforme o resultado do aparelho poderia sugerir"
+   },
+   "resposta": "d",
+   "explicacao": "Miller não produziu vida nem algo próximo disso: produziu blocos de construção. O alcance do resultado é mostrar que a etapa química da hipótese de Oparin e Haldane é possível — moléculas orgânicas se formam sem ser vivo envolvido, dadas certas condições de atmosfera e energia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-446",
+   "texto_apoio": "Meteoritos analisados em laboratório trouxeram aminoácidos e outros compostos orgânicos formados fora da Terra. Alguns pesquisadores tomam esse dado como apoio à ideia de que os primeiros compostos, ou mesmo formas de vida simples, teriam chegado ao planeta vindos do espaço.",
+   "enunciado": "Na discussão sobre a origem da vida, essa ideia é a panspermia, e a principal objeção que se lhe faz é que ela:",
+   "alternativas": {
+    "a": "contraria a presença de compostos orgânicos nos meteoritos já analisados",
+    "b": "supõe uma atmosfera primitiva rica em oxigênio livre, condição incompatível com o registro das rochas mais antigas do planeta",
+    "c": "exige que a vida tenha surgido no fundo de fontes hidrotermais oceânicas",
+    "d": "nega que existam aminoácidos formados fora do ambiente terrestre",
+    "e": "desloca o problema de lugar sem resolvê-lo, pois não explica como a vida surgiu na origem"
+   },
+   "resposta": "e",
+   "explicacao": "A panspermia é compatível com os compostos orgânicos encontrados em meteoritos, e nesse ponto tem apoio empírico. O que ela não faz é responder à pergunta: se a vida veio de outro corpo celeste, resta explicar como surgiu lá. Por isso é tratada como hipótese sobre a chegada da vida, não sobre a origem dela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-447",
+   "texto_apoio": "Num hospital, uma cepa bacteriana deixou de responder ao antibiótico usado havia anos. O laboratório verificou que amostras da mesma cepa, guardadas de uma década antes do início do uso rotineiro, já traziam em frequência baixa a variante que permite sobreviver ao medicamento.",
+   "enunciado": "Do ponto de vista evolutivo, o quadro descrito indica que:",
+   "alternativas": {
+    "a": "o antibiótico selecionou variantes já presentes na cepa, e não as induziu",
+    "b": "o antibiótico modificou o material hereditário das bactérias no sentido de torná-las resistentes",
+    "c": "as bactérias adquiriram a característica pelo esforço de sobreviver a cada dose aplicada",
+    "d": "a variante resistente apareceu somente depois do início do uso rotineiro no hospital",
+    "e": "suspender o antibiótico eliminaria de imediato a variante resistente, uma vez que ela deixaria de ser útil à cepa"
+   },
+   "resposta": "a",
+   "explicacao": "A amostra anterior ao uso do medicamento é o dado decisivo: a variante já existia quando ainda não havia pressão nenhuma a favor dela. A resistência a antibióticos é, portanto, caso de seleção natural sobre variação preexistente — o medicamento filtra, não cria. A adaptação da cepa ao ambiente hospitalar é consequência desse filtro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-448",
+   "texto_apoio": "Uma lavoura recebeu o mesmo inseticida durante dez safras. A dose necessária para controlar a praga subiu de 1 para 6 litros por hectare. Amostras de insetos coletadas antes da primeira aplicação já continham indivíduos capazes de sobreviver à dose original.",
+   "enunciado": "Do ponto de vista evolutivo, o aumento da dose necessária se explica por:",
+   "alternativas": {
+    "a": "acostumamento dos insetos ao produto ao longo da própria vida de cada indivíduo",
+    "b": "seleção, a cada safra, dos indivíduos que já sobreviviam à dose então aplicada",
+    "c": "perda de potência do inseticida guardado no depósito entre uma safra e outra",
+    "d": "aparecimento de uma praga diferente na lavoura a partir da quinta safra",
+    "e": "indução direta da característica pelo produto, que teria alterado o material hereditário dos insetos expostos a ele"
+   },
+   "resposta": "b",
+   "explicacao": "É o mesmo mecanismo da resistência a inseticida em qualquer lavoura tratada por muitos ciclos: cada aplicação elimina os sensíveis e deixa os sobreviventes gerarem a safra seguinte, de modo que a proporção de resistentes sobe a cada geração. A variação vem antes do produto — as amostras iniciais provam isso —, e a adaptação da praga é resultado da seleção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-449",
+   "texto_apoio": "Uma tabela trouxe o número de diferenças numa mesma proteína entre a espécie humana e quatro outras espécies: chimpanzé, 0 diferenças; cavalo, 12; galinha, 13; levedura, 44.",
+   "enunciado": "Do ponto de vista evolutivo, uma tabela como essa é usada em filogenia porque:",
+   "alternativas": {
+    "a": "o número de diferenças mede a complexidade de cada espécie listada",
+    "b": "espécies com mais diferenças são necessariamente mais recentes que as demais",
+    "c": "quanto menor o número de diferenças, mais recente o ancestral comum entre as espécies",
+    "d": "a levedura descende da galinha, por apresentar o maior número de diferenças",
+    "e": "a ausência de diferença entre a espécie humana e o chimpanzé indicaria que as duas formam hoje uma única espécie biológica"
+   },
+   "resposta": "c",
+   "explicacao": "Diferenças em moléculas homólogas se acumulam com o tempo desde a separação das linhagens. Poucas diferenças indicam separação recente; muitas, separação antiga. Por isso a comparação de sequências sustenta árvores evolutivas sem depender de anatomia — e por isso ela não mede complexidade nem descendência direta entre as espécies atuais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-450",
+   "texto_apoio": "Um cladograma reuniu cinco grupos. O caráter coluna vertebral aparece no nó que reúne quatro deles; mandíbula, no nó que reúne três; membro locomotor com dígitos, no nó que reúne dois.",
+   "enunciado": "Do ponto de vista evolutivo, a leitura correta desse cladograma é:",
+   "alternativas": {
+    "a": "a mandíbula é o mais antigo dos três caracteres apresentados no esquema",
+    "b": "os cinco grupos surgiram ao mesmo tempo, e os nós ordenam apenas o porte de cada um",
+    "c": "o grupo que ficou fora do primeiro nó é o ancestral direto dos outros quatro",
+    "d": "cada caráter surge num nó e passa a estar presente nos grupos que dele derivam",
+    "e": "o membro com dígitos é o caráter mais antigo, pois aparece no nó que reúne o menor número de grupos do esquema"
+   },
+   "resposta": "d",
+   "explicacao": "Numa filogenia, o caráter marcado num nó é compartilhado pelos ramos que saem dele — é o que se chama caráter derivado compartilhado. Quanto mais grupos um caráter abrange, mais antigo é o nó em que surgiu: a coluna vertebral precede a mandíbula, que precede o membro com dígitos. Nenhum grupo do topo é ancestral de outro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-451",
+   "texto_apoio": "Cinco episódios de perda acentuada de linhagens marcam o registro fóssil dos últimos 540 milhões de anos. Depois de cada um deles, grupos que sobreviveram se diversificaram com rapidez e passaram a ocupar ambientes antes dominados por outras linhagens.",
+   "enunciado": "Do ponto de vista evolutivo, o padrão que se repete após cada extinção em massa é:",
+   "alternativas": {
+    "a": "o retorno das linhagens desaparecidas a partir dos fósseis preservados nas rochas",
+    "b": "a estabilização do número de linhagens exatamente no nível anterior ao episódio, sem que surjam formas novas",
+    "c": "o surgimento imediato de formas idênticas às que ocupavam os mesmos ambientes",
+    "d": "a interrupção da seleção natural por dezenas de milhões de anos após o episódio",
+    "e": "a radiação das linhagens sobreviventes, que se diversificam nos ambientes desocupados"
+   },
+   "resposta": "e",
+   "explicacao": "A extinção em massa libera ambientes e recursos antes monopolizados, e as linhagens que passaram pelo filtro se diversificam rapidamente nesse espaço — foi o que ocorreu com os mamíferos após o fim do Cretáceo. O registro fóssil mostra a sequência, mas o processo é irreversível: linhagem extinta não retorna.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-452",
+   "texto_apoio": "Uma orquídea de Madagascar guarda o néctar no fundo de um tubo floral de cerca de 30 cm. Ao examiná-la, Darwin previu que existiria na ilha um inseto com aparelho bucal desse comprimento. Décadas depois, uma mariposa de probóscide compatível foi encontrada na região.",
+   "enunciado": "Do ponto de vista evolutivo, a previsão de Darwin se apoiava na ideia de que:",
+   "alternativas": {
+    "a": "flor e polinizador exercem pressão seletiva um sobre o outro ao longo do tempo",
+    "b": "a orquídea alonga o tubo ao longo da própria vida, conforme o inseto que a visita",
+    "c": "o inseto alonga a probóscide por esforço repetido a cada visita à flor",
+    "d": "a forma da flor é obra do acaso e não guarda relação com quem a visita",
+    "e": "cada espécie de planta é visitada por um número grande de insetos distintos, o que tornaria o comprimento do tubo floral irrelevante"
+   },
+   "resposta": "a",
+   "explicacao": "É o raciocínio da coevolução: tubo mais fundo favorece o inseto de probóscide mais longa, e probóscide mais longa favorece a flor de tubo mais fundo, porque só o encaixe justo assegura a transferência do pólen. A adaptação de cada parceiro é pressão seletiva sobre o outro, e foi isso que permitiu a Darwin prever o animal antes de vê-lo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-453",
+   "texto_apoio": "Em várias espécies, os machos exibem estruturas volumosas e coloridas que atrapalham o deslocamento e os tornam mais visíveis a quem os caça. Ainda assim, esses machos deixam mais descendência que os machos de ornamento discreto.",
+   "enunciado": "Do ponto de vista evolutivo, a permanência desses ornamentos se explica por:",
+   "alternativas": {
+    "a": "deriva genética, que fixa por acaso traços prejudiciais ao indivíduo",
+    "b": "seleção sexual: a vantagem no acasalamento compensa o custo de sobrevivência",
+    "c": "herança de caracteres adquiridos pelo esforço de exibição de cada macho",
+    "d": "ausência de seleção natural nas espécies em que existe ornamento colorido",
+    "e": "seleção estabilizadora, que elimina os extremos e mantém apenas os machos de ornamento intermediário na espécie"
+   },
+   "resposta": "b",
+   "explicacao": "O que a seleção natural mede não é a sobrevivência isolada, mas a descendência deixada. Um ornamento caro em risco de vida se mantém quando aumenta o acesso ao acasalamento o bastante para compensar o custo — é a seleção sexual, já descrita por Darwin como caso particular do mesmo processo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-454",
+   "texto_apoio": "Uma borboleta inofensiva apresenta o mesmo padrão de cores de outra espécie, de sabor desagradável, que vive na mesma região. Em testes de campo, aves que haviam provado a espécie desagradável passaram a recusar também a inofensiva.",
+   "enunciado": "Do ponto de vista evolutivo, esse arranjo se mantém porque:",
+   "alternativas": {
+    "a": "a borboleta inofensiva copia o padrão por imitação aprendida ao longo da vida",
+    "b": "as duas espécies descendem de um ancestral comum imediato e por isso são idênticas",
+    "c": "indivíduos parecidos com a espécie desagradável foram menos atacados e deixaram mais filhotes",
+    "d": "as aves preferem padrões coloridos, o que favorece as duas espécies por igual",
+    "e": "o padrão de cores da espécie desagradável se transfere à inofensiva quando as duas passam a ocupar a mesma região"
+   },
+   "resposta": "c",
+   "explicacao": "No mimetismo batesiano, a espécie palatável se parece com a impalatável. A ave que aprendeu a evitar o padrão evita as duas, de modo que os imitadores mais parecidos escapam com mais frequência e deixam mais filhotes. A semelhança é resultado de seleção sobre variação, não de imitação aprendida nem de parentesco próximo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-455",
+   "texto_apoio": "Um paleontólogo explicou que a maior parte dos organismos não deixa fóssil: é preciso soterramento rápido, ambiente pobre em oxigênio e presença de partes duras, condições reunidas com muito mais frequência em fundos de lago e de mar do que em áreas de floresta.",
+   "enunciado": "Do ponto de vista evolutivo, a consequência dessa lista de condições para a leitura do registro fóssil é:",
+   "alternativas": {
+    "a": "o registro é completo, e a ausência de fóssil equivale à ausência do organismo",
+    "b": "organismos de corpo mole ficam mais bem representados que os de partes duras",
+    "c": "as áreas de floresta produzem mais fósseis do que os fundos de lago e de mar",
+    "d": "o registro é incompleto e enviesado, e a falta de um fóssil não prova ausência do grupo",
+    "e": "o soterramento rápido impede a preservação, e por isso os melhores fósseis vêm de organismos que permaneceram expostos ao ar por longo tempo"
+   },
+   "resposta": "d",
+   "explicacao": "As condições de fossilização favorecem certos ambientes e certos tipos de corpo, e por isso o registro fóssil é uma amostra enviesada da vida do passado, não um catálogo. Daí a regra de leitura: ausência de fóssil é ausência de evidência, e a árvore evolutiva de um grupo pode ter ramos que nenhuma rocha guardou.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-456",
+   "texto_apoio": "Fósseis do réptil Mesosaurus, animal de água doce, aparecem em apenas duas faixas de terreno: no leste da América do Sul e no oeste da África. O porte e o modo de vida do animal descartam a travessia de um oceano.",
+   "enunciado": "Do ponto de vista evolutivo e geológico, a explicação aceita para essa distribuição é:",
+   "alternativas": {
+    "a": "duas linhagens distintas produziram fósseis idênticos por acaso nos dois continentes",
+    "b": "os fósseis africanos foram levados por navios e depositados na América do Sul",
+    "c": "o Mesosaurus atravessava o Atlântico a nado durante a estação de reprodução",
+    "d": "os dois conjuntos de fósseis têm idades separadas por centenas de milhões de anos, o que dispensa a hipótese de ligação entre as duas áreas",
+    "e": "os dois continentes estavam unidos quando o animal viveu, e separaram-se depois"
+   },
+   "resposta": "e",
+   "explicacao": "A distribuição de fósseis é uma das evidências que sustentaram a deriva continental: o Mesosaurus viveu quando África e América do Sul formavam um bloco único, e as duas faixas de ocorrência coincidem quando se reencaixam os continentes. Ancestral comum mais separação física explicam o padrão sem nenhuma travessia oceânica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-457",
+   "texto_apoio": "Um quadro reuniu quatro fatos: o código genético é praticamente o mesmo em bactérias, plantas e animais; as mesmas vinte unidades formam as proteínas dos três grupos; a molécula que guarda a informação hereditária é a mesma; e o mecanismo de leitura dessa informação é equivalente nos três.",
+   "enunciado": "Do ponto de vista evolutivo, esse conjunto de fatos é tomado como evidência de que:",
+   "alternativas": {
+    "a": "os seres vivos atuais descendem de um ancestral comum único",
+    "b": "cada grupo desenvolveu o mesmo código de forma independente, por acaso",
+    "c": "bactérias, plantas e animais pertencem hoje a uma mesma espécie biológica",
+    "d": "o código foi transferido entre os três grupos por contato recente entre eles",
+    "e": "a semelhança se deve à convergência: pressões parecidas teriam levado grupos sem parentesco ao mesmo código de leitura"
+   },
+   "resposta": "a",
+   "explicacao": "O código genético é arbitrário: nada obriga uma trinca determinada a corresponder a uma unidade determinada. Que a mesma correspondência arbitrária apareça em linhagens tão distantes é difícil de explicar por acaso ou por convergência — a leitura mais econômica é herança a partir de um ancestral comum, e é ela que sustenta a filogenia da vida como uma árvore única.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-458",
+   "texto_apoio": "Numa área de campo, uma planta deu origem a indivíduos com o dobro do número de cromossomos. Esses indivíduos se fecundam entre si e produzem sementes viáveis; com a forma original, porém, formam sementes que não germinam.",
+   "enunciado": "Do ponto de vista evolutivo, o que se descreve nessa área de campo é:",
+   "alternativas": {
+    "a": "deriva genética, que reduziu a variação da área numa única geração",
+    "b": "especiação simpátrica, com isolamento reprodutivo instalado sem barreira geográfica",
+    "c": "especiação alopátrica, iniciada pela separação física entre as duas formas de planta",
+    "d": "convergência entre duas linhagens de origem distinta que ocupam a mesma área",
+    "e": "hibridação estável entre as duas formas, que passam a constituir um grupo único na área de campo"
+   },
+   "resposta": "b",
+   "explicacao": "A duplicação do conjunto de cromossomos cria, de uma vez, uma barreira reprodutiva com a forma original: os dois se encontram, mas não deixam descendência viável. Como não houve separação geográfica, trata-se de especiação simpátrica — mecanismo frequente em plantas e uma das poucas vias de especiação que se completa em poucas gerações.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-459",
+   "texto_apoio": "Um estudante afirmou que a espécie humana é mais evoluída do que uma bactéria, por ser mais complexa. O professor observou que as duas linhagens têm exatamente o mesmo tempo de história a partir do ancestral que compartilham.",
+   "enunciado": "Do ponto de vista evolutivo, a observação do professor se apoia em que:",
+   "alternativas": {
+    "a": "a complexidade cresce de modo contínuo em cada linhagem ao longo do tempo",
+    "b": "as bactérias atuais são formas ancestrais que não passaram por alteração alguma",
+    "c": "seleção natural produz ajuste ao ambiente, e não avanço rumo a maior complexidade",
+    "d": "a espécie humana é o ponto de chegada previsto desde o início da história da vida",
+    "e": "as linhagens tendem à simplificação, e a complexidade humana seria uma exceção sem paralelo entre as linhagens atuais"
+   },
+   "resposta": "c",
+   "explicacao": "Toda linhagem viva hoje tem a mesma idade contada desde o ancestral comum, e a bactéria atual não é a bactéria de bilhões de anos atrás: também passou por seleção esse tempo todo. A adaptação é local e relativa ao ambiente; não há escada de progresso na qual uma espécie ocupe degrau mais alto que outra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-biologia-460",
+   "texto_apoio": "Ilhas vulcânicas surgidas no oceano, a cerca de 900 km do continente, abrigam espécies que não ocorrem em lugar nenhum além delas. Cada uma dessas espécies tem parente próximo no continente mais próximo, e não em ilhas de outros oceanos.",
+   "enunciado": "Do ponto de vista evolutivo, esse padrão é explicado por:",
+   "alternativas": {
+    "a": "criação separada de cada espécie no local em que hoje é encontrada",
+    "b": "a chegada das espécies já formadas do continente, sem alteração desde então",
+    "c": "acaso, já que o parente próximo poderia estar em outro oceano distante",
+    "d": "colonização a partir do continente próximo, seguida de especiação no isolamento",
+    "e": "movimento das ilhas ao longo do oceano, que teria transportado as espécies desde o continente até a posição atual delas"
+   },
+   "resposta": "d",
+   "explicacao": "Ilha vulcânica nasce sem vida: quem chega vem de fora, e o candidato mais provável é a terra firme mais próxima — daí o parentesco com o continente vizinho. Uma vez isolada, cada linhagem segue caminho próprio e se diferencia até formar espécie nova, o que explica por que essas espécies não ocorrem em nenhum outro lugar.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "textos": [

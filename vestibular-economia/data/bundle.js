@@ -69570,6 +69570,601 @@ window.QUESTION_BANKS = {
    "explicacao": "Xenofobia é a hostilidade dirigida a pessoas por sua origem nacional ou condição de estrangeiro, sem relação necessária com raça, orientação sexual, religião ou idade — critérios que definem, respectivamente, as demais formas de discriminação listadas nas outras alternativas.",
    "formato": "direta",
    "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-264",
+   "texto_apoio": "Uma lei de 2023 deslocou a ofensa à honra baseada em raça, cor ou etnia para o mesmo diploma que trata dos crimes de racismo, com aumento da resposta criminal e alteração das regras de prescrição.",
+   "enunciado": "O efeito jurídico central dessa mudança foi:",
+   "alternativas": {
+    "a": "submeter a injúria racial ao regime dos crimes de racismo, insuscetível de fiança e sem prazo para a persecução",
+    "b": "transformar a conduta em infração de menor potencial ofensivo, deslocando seu julgamento para os juizados especiais criminais competentes na comarca em que o fato tenha ocorrido",
+    "c": "condicionar a apuração à representação da vítima, exigência que passaria a limitar o início do procedimento à manifestação expressa de quem sofreu a ofensa de conteúdo racial",
+    "d": "restringir a tipificação aos casos em que a ofensa tenha sido dirigida a um grupo indeterminado, excluindo do alcance da norma as manifestações voltadas a pessoa certa e identificada",
+    "e": "descriminalizar a conduta isolada, remetendo sua reparação ao campo da responsabilidade civil por dano moral apurado em processo próprio"
+   },
+   "resposta": "a",
+   "explicacao": "Antes da mudança, ofender alguém por sua cor era injúria racial — crime comum, prescritível — enquanto praticar racismo contra um grupo caía em regime muito mais severo. A distinção separava condutas de mesma natureza, e a lei de 2023 a suprimiu ao unificar o tratamento das ofensas dirigidas à população negra.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-265",
+   "texto_apoio": "Um estudo mostra que candidatos com nomes associados à população negra recebem menos retornos em processos seletivos, mesmo quando os currículos enviados são idênticos aos dos demais candidatos.",
+   "enunciado": "O resultado é frequentemente usado para sustentar que o racismo opera de modo:",
+   "alternativas": {
+    "a": "isolado, restrito a episódios de ofensa verbal explícita cuja autoria possa ser individualizada e atribuída a uma pessoa determinada dentro da organização examinada",
+    "b": "estrutural, produzindo efeitos desiguais mesmo sem intenção declarada de discriminar por parte de quem seleciona",
+    "c": "acidental, derivado de falhas de amostragem no desenho da pesquisa e não de um padrão consistente de tratamento diferenciado entre os grupos comparados no experimento",
+    "d": "declinante, uma vez que a paridade dos currículos apresentados tenderia a neutralizar o preconceito ao longo das etapas seguintes do processo de recrutamento adotado",
+    "e": "consciente e deliberado, o que permitiria enfrentá-lo somente com a responsabilização individual do recrutador envolvido em cada seleção examinada"
+   },
+   "resposta": "b",
+   "explicacao": "O experimento de currículos pareados isola a variável racial: mudando somente o nome, muda a taxa de retorno. Isso desloca o problema da má-fé individual para o funcionamento rotineiro das instituições, que é o núcleo do conceito de racismo estrutural.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-266",
+   "texto_apoio": "Uma universidade que reserva vagas por critério racial institui banca de heteroidentificação, formada por avaliadores que confirmam presencialmente a autodeclaração feita pelo candidato no ato da inscrição.",
+   "enunciado": "A justificativa central para essa etapa é:",
+   "alternativas": {
+    "a": "substituir a autodeclaração por exame documental de ascendência familiar, critério que permitiria reconstituir a origem étnica do candidato a partir dos registros civis de seus antepassados",
+    "b": "reduzir o número de aprovados na modalidade reservada, ajustando o total de ingressantes à capacidade de atendimento que a instituição consegue oferecer em cada período letivo",
+    "c": "coibir fraudes que desviam a vaga de quem sofre a discriminação que a política de cotas pretende corrigir",
+    "d": "transferir à instituição a definição da identidade racial do candidato, que deixaria de depender da manifestação do próprio interessado no momento da inscrição no processo seletivo",
+    "e": "aferir a condição econômica do candidato, dado que a modalidade reservada combina critérios de renda familiar com a autodeclaração prestada pelo inscrito"
+   },
+   "resposta": "c",
+   "explicacao": "A ação afirmativa racial se dirige a quem é lido socialmente como negro e por isso sofre discriminação. Como o critério é o fenótipo, e não a ancestralidade documentada, a autodeclaração é a base — mas admite verificação, porque a fraude retira a vaga exatamente de quem a política pretendia alcançar.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-267",
+   "texto_apoio": "Uma lei reserva percentual das vagas de concursos federais a candidatos negros e prevê prazo de vigência determinado, ao fim do qual sua manutenção deve ser reavaliada pelo legislador.",
+   "enunciado": "A fixação de prazo indica que a medida é entendida como:",
+   "alternativas": {
+    "a": "sanção ao poder público pela sub-representação histórica verificada em seus quadros, aplicável enquanto durar o desequilíbrio apurado nos levantamentos periódicos da administração",
+    "b": "regra permanente de organização da carreira, incorporada ao regime jurídico dos servidores desde o momento em que a lei entrou em vigor no âmbito federal",
+    "c": "benefício individual concedido ao candidato aprovado, cuja fruição se esgota com a nomeação e não produz efeitos sobre a composição futura do quadro de pessoal do órgão",
+    "d": "instrumento transitório, destinado a durar enquanto persistir a desvantagem que ele corrige",
+    "e": "critério de desempate entre candidatos com pontuação idêntica, aplicável somente na fase final de classificação do certame realizado pelo órgão federal responsável"
+   },
+   "resposta": "d",
+   "explicacao": "Ações afirmativas são medidas de igualdade material com prazo: existem para acelerar a correção de uma desvantagem e devem ser reavaliadas quando ela recuar. A cláusula temporal é o que as distingue de um privilégio permanente e sustenta sua compatibilidade com o princípio da isonomia.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-268",
+   "texto_apoio": "Uma mulher agredida pelo companheiro obtém, em poucas horas, decisão que afasta o agressor do lar e proíbe sua aproximação, sem que o processo criminal tenha sido concluído.",
+   "enunciado": "A concessão imediata da medida protetiva se explica porque ela:",
+   "alternativas": {
+    "a": "depende do trânsito em julgado da condenação criminal do agressor, ato que consolida a responsabilidade e autoriza restrições à sua liberdade de locomoção no território",
+    "b": "constitui antecipação da resposta criminal, cumprindo função de execução provisória da sanção que venha a ser aplicada ao final do procedimento instaurado",
+    "c": "só produz efeito mediante caução prestada pela requerente, garantia destinada a cobrir eventual prejuízo do requerido caso a alegação venha a ser considerada improcedente",
+    "d": "exige perícia técnica prévia sobre o risco de reincidência, laudo que a legislação condiciona à avaliação de equipe multidisciplinar designada para o caso concreto",
+    "e": "tem natureza cautelar e autônoma, voltada a cessar o risco imediato sobre a integridade da mulher"
+   },
+   "resposta": "e",
+   "explicacao": "A Lei Maria da Penha separou proteção e resposta criminal: a medida protetiva não pressupõe condenação nem depende do desfecho criminal, porque seu objeto é o risco atual. Condicioná-la ao fim do processo esvaziaria sua função, já que a violência doméstica costuma escalar justamente no intervalo, quadro agravado pela vulnerabilidade da vítima que segue no mesmo domicílio.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-269",
+   "texto_apoio": "Duas mortes são julgadas na mesma vara: numa, a vítima foi morta pelo ex-marido após anunciar a separação; noutra, um homem foi morto por um desafeto em disputa de trânsito.",
+   "enunciado": "A tipificação da primeira como feminicídio se apoia em:",
+   "alternativas": {
+    "a": "razões de condição do sexo feminino, isto é, morte praticada em contexto de violência doméstica ou de menosprezo à condição de mulher",
+    "b": "critério estatístico de frequência, segundo o qual as mortes de mulheres praticadas por parceiros ou ex-parceiros recebem classificação distinta em razão de seu peso no total de homicídios registrados",
+    "c": "grau de parentesco entre autor e vítima, elemento que a legislação brasileira elegeu como único fator de distinção entre as duas modalidades de homicídio doloso examinadas",
+    "d": "presunção de premeditação decorrente do vínculo afetivo anterior, circunstância que dispensaria a comprovação do elemento subjetivo na conduta atribuída ao autor do fato",
+    "e": "gravidade objetiva do resultado produzido, aferida pelo meio empregado e pelas consequências suportadas pelos familiares da vítima após a consumação do delito"
+   },
+   "resposta": "a",
+   "explicacao": "O feminicídio não é qualquer homicídio de mulher: exige que a morte se dê por razões da condição do sexo feminino, isto é, no contexto de violência doméstica ou de menosprezo à mulher. A figura nomeia um padrão de discriminação que a estatística de homicídios genérica tornava invisível.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-270",
+   "texto_apoio": "Uma lei de 2023 obriga empresas de maior porte a publicar relatórios semestrais de transparência salarial, comparando a remuneração média paga a homens e mulheres em cargos equivalentes.",
+   "enunciado": "O mecanismo escolhido pela lei atua principalmente por:",
+   "alternativas": {
+    "a": "tabelamento da remuneração por cargo, fixando piso e teto idênticos para funções equivalentes em cada setor econômico abrangido pela norma publicada",
+    "b": "visibilidade da diferença, criando custo reputacional e ônus de justificar a discriminação salarial apurada",
+    "c": "isenção tributária às empresas que atinjam paridade remuneratória, incentivo fiscal condicionado à comprovação anual do equilíbrio entre os quadros masculino e feminino",
+    "d": "vedação da negociação individual de salários nas empresas alcançadas, que passariam a admitir somente reajustes uniformes definidos em instrumento coletivo da categoria",
+    "e": "responsabilização do gestor imediato pela diferença apurada, com sanção administrativa aplicada diretamente à pessoa física responsável pela definição da folha do setor"
+   },
+   "resposta": "b",
+   "explicacao": "A lei de igualdade salarial não fixa preços: obriga a mostrar o dado e a explicá-lo. A aposta é que a diferença remuneratória entre homens e mulheres sobrevive sobretudo na opacidade, e que expor a comparação em cargos equivalentes desloca para a empresa o ônus de justificar a disparidade.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-271",
+   "texto_apoio": "Diante da ausência de lei específica, o Supremo Tribunal Federal decidiu que ofensas motivadas por orientação sexual e identidade de gênero seriam alcançadas pela lei que reprime o racismo, até que o Congresso legislasse sobre o tema.",
+   "enunciado": "A técnica empregada nessa decisão foi:",
+   "alternativas": {
+    "a": "a criação de novo tipo criminal por decisão judicial, com definição autônoma da conduta reprimida e da resposta correspondente pelo tribunal julgador",
+    "b": "a suspensão da eficácia da lei existente até a edição de norma específica pelo Congresso sobre a matéria discutida no julgamento",
+    "c": "a interpretação do conceito de raça em sentido social, de modo a alcançar a homofobia e a transfobia como espécies de discriminação já reprimidas",
+    "d": "a aplicação de tratado internacional com força superior à legislação interna, que passaria a reger diretamente a matéria enquanto durasse a omissão do legislador nacional",
+    "e": "a devolução da matéria ao legislador com prazo fixo, findo o qual a conduta permaneceria sem tratamento repressivo no ordenamento brasileiro vigente"
+   },
+   "resposta": "c",
+   "explicacao": "O tribunal não criou crime: leu o conceito de raça em sentido social, como construção histórica de hierarquias, e nele enquadrou ofensas dirigidas à população LGBT. A solução é enquadramento por interpretação, e por isso permanece provisória — a decisão vale enquanto o Congresso não legislar.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-272",
+   "texto_apoio": "Uma pessoa trans obtém a alteração de prenome e do campo sexo em seu registro civil diretamente em cartório, sem cirurgia prévia, laudo médico ou autorização judicial.",
+   "enunciado": "Essa possibilidade decorre do reconhecimento de que a identidade de gênero é:",
+   "alternativas": {
+    "a": "condição sujeita a comprovação técnica, aferida por junta médica que ateste a adequação entre a autopercepção declarada e as características físicas do requerente",
+    "b": "matéria de ordem processual, cuja alteração depende de sentença judicial transitada em julgado por envolver modificação de assento público de natureza permanente",
+    "c": "efeito jurídico da intervenção cirúrgica, que produziria a correspondência entre o corpo e o registro civil a ser retificado pelo cartório competente",
+    "d": "elemento da personalidade definido pela autopercepção, cuja expressão registral não pode ser condicionada a exame de terceiros",
+    "e": "dado estatístico de interesse público, cuja modificação exige comunicação prévia aos órgãos de registro para preservação da série histórica dos assentos civis"
+   },
+   "resposta": "d",
+   "explicacao": "Condicionar a retificação a cirurgia ou laudo submete a identidade de gênero ao crivo de terceiros e impõe intervenção corporal como preço do reconhecimento. Ao admitir a via administrativa sem esses requisitos, o ordenamento tratou a autopercepção como elemento da personalidade, não como diagnóstico.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-273",
+   "texto_apoio": "Duas leituras disputam a definição de deficiência: uma a localiza no corpo do indivíduo, como limitação a ser tratada; outra a define na interação entre o impedimento e as barreiras do ambiente.",
+   "enunciado": "A adoção da segunda leitura pelo ordenamento brasileiro implica que:",
+   "alternativas": {
+    "a": "a avaliação da deficiência passa a depender de perícia médica realizada por profissional habilitado no órgão competente para o reconhecimento do direito pleiteado",
+    "b": "a condição de pessoa com deficiência se define pelo grau de perda funcional aferido em escala clínica padronizada e revisada periodicamente pelo serviço responsável",
+    "c": "o reconhecimento do direito depende da demonstração de que o impedimento é permanente e irreversível, requisito verificado no momento do requerimento administrativo apresentado",
+    "d": "cabe à pessoa adaptar-se ao ambiente disponível, com apoio de tecnologia assistiva custeada pelo poder público conforme a disponibilidade orçamentária do exercício",
+    "e": "a remoção de barreiras vira obrigação do ambiente, e não encargo individual de quem tem o impedimento"
+   },
+   "resposta": "e",
+   "explicacao": "O modelo social inverte o endereço da obrigação: a deficiência deixa de ser atributo do corpo e passa a nascer do encontro entre impedimento e barreira. Quem precisa mudar é o ambiente — degrau, contrato, prova, site —, e é por isso que a acessibilidade se tornou dever exigível, não cortesia.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-274",
+   "texto_apoio": "Um edifício público novo é entregue com rampa lateral de acesso, situada nos fundos, enquanto a entrada principal, com escadaria, permanece como via de uso geral.",
+   "enunciado": "A solução adotada é criticada por especialistas porque:",
+   "alternativas": {
+    "a": "separa o percurso da pessoa com deficiência do percurso comum, ao passo que o desenho universal busca uma entrada única para o conjunto dos usuários",
+    "b": "eleva o custo da obra em relação ao projeto original, uma vez que a construção de acesso alternativo exige estrutura própria de cobertura e sinalização nas áreas externas do edifício",
+    "c": "desrespeita a inclinação máxima admitida para rampas em edificações de uso coletivo, parâmetro técnico definido em norma específica sobre acessibilidade arquitetônica em vigor",
+    "d": "dispensa a instalação de elevador nos pavimentos superiores, equipamento cuja presença a legislação exige nas edificações públicas com mais de um pavimento acessível ao público",
+    "e": "transfere ao usuário o custo do deslocamento adicional até a entrada alternativa situada na face posterior da edificação recém-entregue ao público"
+   },
+   "resposta": "a",
+   "explicacao": "Acessibilidade segregada resolve o acesso físico e mantém a marca da diferença: a rampa dos fundos comunica que aquela pessoa entra por outro lugar. O desenho universal responde a isso projetando desde o início um percurso que sirva a todos, o que traduz igualdade material em arquitetura.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-275",
+   "texto_apoio": "Uma empresa com mil empregados alega dificuldade de encontrar profissionais habilitados e deixa de preencher a reserva legal de vagas destinada a pessoas com deficiência e reabilitados.",
+   "enunciado": "O argumento empresarial costuma ser rejeitado sob o fundamento de que:",
+   "alternativas": {
+    "a": "a reserva se aplica somente às empresas de capital aberto, o que tornaria irrelevante a discussão sobre a disponibilidade de candidatos habilitados no mercado de trabalho local",
+    "b": "o dever inclui qualificar e adaptar postos, e não só recrutar quem já esteja pronto para as vagas existentes",
+    "c": "a exigência pode ser substituída por contribuição financeira a fundo específico, alternativa que desoneraria a empresa da obrigação de contratar diretamente prevista na legislação vigente",
+    "d": "a comprovação da recusa depende de denúncia formal apresentada por candidato preterido no processo seletivo conduzido pela empresa no período de referência da fiscalização",
+    "e": "a escassez alegada decorre da própria política de recrutamento adotada, cuja revisão compete ao órgão fiscalizador determinar em procedimento administrativo específico"
+   },
+   "resposta": "b",
+   "explicacao": "A política de cotas para a pessoa com deficiência não é reserva de recrutamento passivo: pressupõe adaptação razoável do posto, acessibilidade e formação. Aceitar a alegação de escassez transformaria a barreira produzida pela ausência de acessibilidade em justificativa para mantê-la, o que inverteria a lógica da norma.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-276",
+   "texto_apoio": "Discute-se se o reconhecimento de uma terra tradicional depende de os povos indígenas estarem nela em determinada data de referência, ou se basta a comprovação do vínculo tradicional com o território.",
+   "enunciado": "A tese do marco temporal é criticada porque:",
+   "alternativas": {
+    "a": "confunde a demarcação administrativa com o registro imobiliário do imóvel, procedimentos distintos que produzem efeitos próprios sobre a titularidade da área objeto do processo",
+    "b": "atribui ao órgão indigenista competência que caberia ao legislador, deslocando para a esfera administrativa uma definição de alcance nacional sobre o regime das terras tradicionais",
+    "c": "prejudica quem foi expulso do próprio território antes da data fixada, premiando a violência que provocou a ausência",
+    "d": "impede a exploração econômica das áreas reconhecidas por terceiros interessados, o que reduziria a arrecadação dos municípios em cujo perímetro se situam as terras demarcadas",
+    "e": "exige laudo antropológico atualizado a cada revisão do processo demarcatório, exigência que prolonga indefinidamente a tramitação dos pedidos apresentados pelas comunidades"
+   },
+   "resposta": "c",
+   "explicacao": "O marco temporal condiciona o direito à presença física numa data determinada. A crítica central é circular: quem foi removido à força justamente por não ter proteção fica sem o território por causa da remoção. A discriminação sofrida no passado passaria a operar como fundamento da perda no presente.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-277",
+   "texto_apoio": "Uma comunidade quilombola pleiteia o título de sua área. O procedimento prevê autodefinição da comunidade, relatório técnico de identificação e emissão de título coletivo e insuscetível de alienação.",
+   "enunciado": "A titulação coletiva e insuscetível de alienação se justifica porque:",
+   "alternativas": {
+    "a": "reduz o custo administrativo do procedimento, ao dispensar o registro individualizado de cada fração do território reconhecido em nome dos respectivos ocupantes",
+    "b": "assegura à comunidade a possibilidade de negociar a área em bloco, ampliando seu poder de barganha em eventual alienação futura do território reconhecido pelo poder público",
+    "c": "atende a exigência de padronização dos registros públicos, que trata de modo uniforme os imóveis rurais situados em áreas de ocupação tradicional no território nacional",
+    "d": "protege o território contra a fragmentação por vendas individuais, que dissolveria o vínculo coletivo que o procedimento reconhece",
+    "e": "transfere ao poder público a gestão da área titulada, cabendo à comunidade o uso mediante autorização periódica renovada pelo órgão fundiário competente"
+   },
+   "resposta": "d",
+   "explicacao": "O território quilombola é reconhecido como suporte de um modo de vida coletivo, não como soma de lotes. Se cada família pudesse vender sua parte, a pressão econômica desmontaria a comunidade em uma geração — daí a titulação em nome da associação, indivisível e fora do comércio. É resposta à discriminação fundiária que empurrou essas comunidades para a informalidade.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-278",
+   "texto_apoio": "Em uma cidade de fronteira, comerciantes passam a recusar atendimento a migrantes recém-chegados e publicam cartazes que associam o grupo ao aumento da criminalidade local.",
+   "enunciado": "A conduta descrita caracteriza:",
+   "alternativas": {
+    "a": "concorrência desleal entre estabelecimentos do mesmo ramo, apurada pelo órgão de defesa econômica competente para examinar práticas restritivas no mercado local afetado",
+    "b": "exercício regular da liberdade de contratar, que autorizaria o comerciante a escolher sua clientela conforme critérios próprios de gestão do estabelecimento comercial",
+    "c": "infração meramente administrativa de posturas municipais, relativa à afixação de cartazes em fachada sem autorização prévia do órgão de fiscalização urbana da cidade",
+    "d": "conflito de vizinhança sujeito a composição extrajudicial entre as partes envolvidas, sem repercussão sobre o regime jurídico aplicável ao atendimento no comércio",
+    "e": "xenofobia, forma de discriminação que atinge pessoas em razão de sua origem nacional"
+   },
+   "resposta": "e",
+   "explicacao": "Recusar atendimento por origem nacional e associar publicamente o grupo ao crime é discriminação, não escolha comercial. A liberdade de contratar não alcança a seleção de clientes por origem, e a vulnerabilidade específica do migrante recém-chegado agrava a lesão.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-279",
+   "texto_apoio": "Um terreiro de matriz africana tem seus objetos rituais destruídos por um grupo que grava a ação e publica as imagens com mensagens depreciativas sobre a religião praticada no local.",
+   "enunciado": "O episódio se enquadra como:",
+   "alternativas": {
+    "a": "intolerância religiosa, forma de discriminação que atinge minorias de crença e seus espaços de culto",
+    "b": "dano patrimonial simples, avaliado pelo valor de reposição dos bens destruídos e reparável na esfera civil mediante prova documental da propriedade dos objetos",
+    "c": "manifestação de convicção pessoal protegida pela liberdade de crença, que abrangeria a crítica pública dirigida a doutrinas religiosas distintas da professada pelo grupo",
+    "d": "perturbação do sossego alheio, infração de menor gravidade apurada no juizado competente e sujeita a composição entre as partes envolvidas no episódio",
+    "e": "conflito de vizinhança agravado pela divulgação das imagens em rede social, circunstância que ampliaria a repercussão do fato sem alterar sua natureza jurídica original"
+   },
+   "resposta": "a",
+   "explicacao": "A liberdade de crença protege a prática religiosa, não a destruição da prática alheia. Ataques a terreiros combinam dano material e mensagem discriminatória dirigida a um grupo, o que os coloca no campo da intolerância religiosa — e as religiões de matriz africana concentram esse tipo de ocorrência no país.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-280",
+   "texto_apoio": "Um professor propõe o seguinte problema: uma prova de acesso idêntica aplicada a candidatos com trajetórias escolares muito distintas produz classificação que espelha a origem dos participantes.",
+   "enunciado": "O problema ilustra o limite da igualdade:",
+   "alternativas": {
+    "a": "proporcional, que distribuiria as vagas conforme o peso demográfico de cada grupo na população da região abrangida pelo processo seletivo em questão",
+    "b": "formal, que trata os desiguais de modo idêntico e, por isso, reproduz a desvantagem de partida",
+    "c": "de resultado, que exigiria a equalização das notas finais entre os grupos comparados ao término de cada etapa do processo de seleção aplicado pela instituição",
+    "d": "de oportunidades, que se esgotaria na supressão das barreiras formais de inscrição e no acesso franqueado ao certame em condições idênticas para os inscritos",
+    "e": "material, que impõe tratamento uniforme a situações distintas para preservar a objetividade do critério classificatório adotado na seleção"
+   },
+   "resposta": "b",
+   "explicacao": "A igualdade formal proíbe a distinção na regra, mas não alcança a distinção na largada. Quando as trajetórias são desiguais, aplicar o mesmo critério a todos converte a desvantagem anterior em resultado legítimo — é o que a isonomia material pretende corrigir, tratando desigualmente os desiguais na medida da diferença.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-281",
+   "texto_apoio": "Um crítico sustenta que ações afirmativas raciais violam o mérito, pois selecionariam por critério alheio ao desempenho aferido na prova de acesso.",
+   "enunciado": "A resposta usual a essa objeção é a de que:",
+   "alternativas": {
+    "a": "o mérito deve ceder à representatividade dos grupos na composição do corpo discente, finalidade que passaria a orientar a seleção em substituição ao desempenho individual",
+    "b": "a prova de acesso é instrumento incapaz de medir aptidão, razão pela qual sua substituição por análise de histórico escolar resolveria a controvérsia sobre a seleção",
+    "c": "o desempenho na prova já incorpora vantagens acumuladas, de modo que a medida corrige o ponto de partida, não o critério de esforço",
+    "d": "a política de cotas se justifica somente pela reparação de danos históricos sofridos pelos antepassados dos candidatos, sem relação com a discriminação vivida no presente",
+    "e": "a objeção perde sentido diante do número reduzido de vagas reservadas, percentual insuficiente para alterar de modo perceptível a composição das turmas ingressantes por período"
+   },
+   "resposta": "c",
+   "explicacao": "A defesa das ações afirmativas não abandona o mérito: questiona a leitura que trata a nota como medida pura de esforço. Se a preparação depende de recursos distribuídos de forma desigual, a prova mede também a origem — e corrigir o ponto de partida é condição para que a comparação de mérito faça sentido.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-282",
+   "texto_apoio": "Uma empresa exige altura mínima de 1,75 m para o cargo de operador de empilhadeira. O requisito vale para o conjunto dos candidatos, mas elimina proporção muito maior de mulheres do que de homens.",
+   "enunciado": "A situação corresponde ao conceito de discriminação:",
+   "alternativas": {
+    "a": "indireta, em que critério aparentemente neutro produz efeito desproporcional sobre um grupo determinado",
+    "b": "direta, pois a exigência menciona expressamente a característica pessoal que serve de fundamento à exclusão dos candidatos preteridos no processo seletivo conduzido pela empresa",
+    "c": "positiva, uma vez que o requisito buscaria compensar desvantagem anterior do grupo atingido mediante a fixação de parâmetro objetivo aplicável na fase de triagem dos inscritos",
+    "d": "por associação, categoria que alcança quem sofre tratamento desfavorável em razão do vínculo mantido com pessoa pertencente ao grupo protegido pela norma antidiscriminatória",
+    "e": "interseccional, modalidade em que dois ou mais marcadores se sobrepõem e produzem desvantagem específica não redutível à soma dos efeitos isolados de cada um deles"
+   },
+   "resposta": "a",
+   "explicacao": "A discriminação indireta não aparece na redação da regra, e sim no seu resultado: o critério não cita sexo, mas filtra por ele. Sua identificação exige olhar o efeito estatístico e exigir do empregador a demonstração de que o requisito é realmente necessário à função.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-283",
+   "texto_apoio": "Uma rede varejista adota sistema automatizado de identificação por imagem para apontar clientes suspeitos. Auditoria mostra taxa de erro muito maior sobre rostos de pessoas da população negra.",
+   "enunciado": "O problema central revelado pela auditoria é que o sistema:",
+   "alternativas": {
+    "a": "opera sem autorização expressa dos clientes filmados, requisito formal cuja ausência tornaria irregular o tratamento dos dados coletados nas dependências do estabelecimento comercial",
+    "b": "reproduz e amplia a discriminação racial, pois o erro se distribui de forma desigual entre os grupos",
+    "c": "apresenta acurácia global insuficiente para uso comercial, o que recomendaria elevar o volume de imagens de treinamento até que a taxa média de acerto alcançasse o patamar exigido",
+    "d": "substitui a decisão humana na abordagem do cliente, transferindo a um programa a avaliação que caberia ao responsável pelo estabelecimento comercial realizar presencialmente",
+    "e": "encarece a operação da rede sem contrapartida mensurável em redução de perdas, resultado que desaconselharia sua manutenção pelo critério estritamente econômico do negócio"
+   },
+   "resposta": "b",
+   "explicacao": "Um erro médio aceitável pode esconder erro concentrado num grupo. Quando a taxa de falso positivo recai sobre a população negra, o sistema converte um viés dos dados de treinamento em suspeita automatizada — e a aparência de objetividade técnica torna a discriminação mais difícil de contestar.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-284",
+   "texto_apoio": "Um apresentador faz comentário depreciativo sobre o cabelo de uma convidada negra e, diante da repercussão, alega que se tratava de brincadeira sem intenção ofensiva.",
+   "enunciado": "A categoria usada por autores brasileiros para nomear esse fenômeno é:",
+   "alternativas": {
+    "a": "assédio moral difuso, conduta reiterada que atinge grupo indeterminado de pessoas no ambiente de trabalho e se caracteriza pela repetição ao longo do tempo de exposição",
+    "b": "estereótipo compensatório, que consiste em atribuir qualidade positiva a um grupo com a finalidade de encobrir a desvantagem material que ele suporta em outras esferas da vida social",
+    "c": "racismo recreativo, em que o humor funciona como veículo socialmente tolerado do preconceito",
+    "d": "microviolência simbólica involuntária, categoria que descreve atos cujo efeito lesivo decorre do desconhecimento do agente sobre o alcance de suas próprias palavras",
+    "e": "discriminação por associação, que atinge a pessoa em razão do vínculo mantido com integrantes do grupo alvo da hostilidade manifestada publicamente"
+   },
+   "resposta": "c",
+   "explicacao": "A formulação de Adilson Moreira descreve o riso como forma de circulação do racismo: a piada permite enunciar a hierarquia racial e, ao mesmo tempo, negar a intenção de ofender. A alegação de brincadeira integra o mecanismo, e não é defesa contra ele.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-285",
+   "texto_apoio": "Durante uma partida, parte da torcida dirige gestos e cânticos ofensivos a um jogador negro. A entidade organizadora do campeonato aplica sanção ao clube mandante, além da responsabilização individual dos autores.",
+   "enunciado": "A sanção ao clube se justifica porque ele:",
+   "alternativas": {
+    "a": "responde solidariamente por atos de terceiros ocorridos em local aberto ao público, independentemente do controle que exerça sobre o espaço em que a conduta se manifestou",
+    "b": "figura como empregador do atleta ofendido e, nessa condição, assume o dever de reparar o dano moral suportado por ele durante a prestação do serviço contratado",
+    "c": "detém a titularidade da transmissão televisiva do evento e, por isso, responde pelo conteúdo veiculado ao público durante o período de exibição da partida disputada",
+    "d": "tem o dever de organizar o evento e coibir manifestações de racismo no espaço que administra",
+    "e": "integra a mesma entidade que aplica a sanção, o que autorizaria a responsabilização automática de seus filiados por fatos ocorridos em competições oficiais do calendário"
+   },
+   "resposta": "d",
+   "explicacao": "A responsabilização do mandante desloca o custo da injúria racial para quem pode preveni-la: quem controla o acesso, a segurança privada e o sistema de imagens do estádio. Punir somente o autor individual mantém intacto o ambiente que torna a conduta possível e recorrente.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-286",
+   "texto_apoio": "Um anúncio de emprego para função administrativa restringe as inscrições a candidatos de até trinta e cinco anos, sem indicar exigência técnica que justifique o corte.",
+   "enunciado": "A exigência é considerada discriminatória porque:",
+   "alternativas": {
+    "a": "a idade constitui dado sensível cuja simples coleta em processo seletivo estaria vedada, ainda que o critério não fosse utilizado como fator de eliminação dos inscritos",
+    "b": "restringe o número de inscritos e, com isso, reduz a competitividade do certame promovido pela empresa para o preenchimento da vaga anunciada ao público",
+    "c": "contraria a política de cotas aplicável às empresas de maior porte, que reserva percentual das vagas disponíveis a grupos historicamente sub-representados no mercado",
+    "d": "impede a promoção interna dos empregados que já atuam na companhia e superaram a faixa etária indicada no anúncio publicado para a seleção externa",
+    "e": "presume incapacidade a partir de um marcador pessoal, sem demonstrar relação entre a idade e as tarefas do cargo"
+   },
+   "resposta": "e",
+   "explicacao": "Distinções em seleção só se sustentam quando o critério guarda relação demonstrável com a função. O limite de idade sem justificativa técnica converte um estereótipo em barreira de acesso, e a vulnerabilidade do trabalhador mais velho no mercado agrava o efeito da recusa.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-287",
+   "texto_apoio": "Numa empresa, comentários sobre a aparência das funcionárias são frequentes em reuniões, e as promoções a cargos de chefia recaem sistematicamente sobre homens com avaliação de desempenho equivalente.",
+   "enunciado": "Os dois fatos, tomados em conjunto, indicam:",
+   "alternativas": {
+    "a": "ambiente hostil de gênero, em que a discriminação se manifesta tanto no trato cotidiano quanto no critério de ascensão",
+    "b": "conflito interpessoal isolado entre integrantes de uma mesma equipe, cuja solução caberia à mediação conduzida pelo setor responsável pela gestão de pessoas da companhia",
+    "c": "falha de comunicação interna sobre os requisitos de promoção, sanável pela publicação de critérios objetivos aplicáveis às próximas seleções internas realizadas pela empresa",
+    "d": "prática admissível de gestão discricionária, já que a escolha para cargos de confiança escapa aos parâmetros que regem os processos seletivos abertos ao público externo",
+    "e": "desalinhamento entre a avaliação de desempenho e o plano de carreira vigente, situação que recomendaria a revisão dos instrumentos de aferição adotados pela organização"
+   },
+   "resposta": "a",
+   "explicacao": "Assédio e barreira de ascensão costumam ser tratados como problemas distintos, mas operam juntos: o comentário cotidiano sinaliza o lugar reservado às mulheres e a promoção o confirma. Ler os dois fatos como um só quadro é o que permite caracterizar a discriminação de gênero na empresa.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-288",
+   "texto_apoio": "A legislação eleitoral brasileira exige percentual mínimo de candidaturas de cada sexo e destina fatia proporcional dos recursos de campanha e do tempo de propaganda a essas candidaturas.",
+   "enunciado": "A vinculação de recursos ao percentual de candidaturas foi criada porque:",
+   "alternativas": {
+    "a": "a exigência de percentual mínimo havia sido considerada incompatível com a liberdade de organização interna dos partidos, o que impôs sua substituição por incentivo financeiro",
+    "b": "o percentual isolado permitia registrar candidaturas de mulheres sem financiá-las, esvaziando a medida",
+    "c": "os recursos de campanha passaram a ser distribuídos conforme o desempenho eleitoral anterior de cada legenda, critério que exigia correção específica para as novas candidaturas",
+    "d": "o tempo de propaganda é bem escasso cuja repartição interna depende de parâmetro legal, sem o qual as direções partidárias não conseguiriam pactuar a divisão entre os concorrentes",
+    "e": "a fiscalização do percentual dependia de conferência documental complexa, substituída por controle financeiro de execução mais simples para os órgãos responsáveis pelo exame das contas"
+   },
+   "resposta": "b",
+   "explicacao": "A cota de candidaturas por sexo produziu, por anos, registros formais sem campanha real. Amarrar recursos e tempo de propaganda ao percentual foi a correção: uma ação afirmativa só altera a composição do poder se distribuir também os meios de disputar, e não somente as vagas na lista.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-289",
+   "texto_apoio": "Uma senhora de oitenta anos passa a ter sua aposentadoria administrada por um sobrinho, que retém o cartão, decide os gastos e a impede de sair de casa desacompanhada.",
+   "enunciado": "A situação descrita configura violência:",
+   "alternativas": {
+    "a": "institucional, praticada por agente que atua em nome de órgão público no exercício de atribuição funcional relacionada ao atendimento da pessoa idosa no serviço prestado",
+    "b": "simbólica, exercida pela imposição de padrões culturais dominantes que desqualificam modos de vida próprios do grupo atingido pela conduta descrita na situação",
+    "c": "patrimonial e psicológica, formas que exploram a vulnerabilidade da pessoa idosa e restringem sua autonomia",
+    "d": "física por omissão, caracterizada pela ausência dos cuidados materiais devidos a quem depende de terceiros para as atividades cotidianas de subsistência e locomoção",
+    "e": "difusa, dirigida a grupo indeterminado de pessoas idosas e apurável por meio de procedimento coletivo instaurado pelo órgão competente para a defesa desses interesses"
+   },
+   "resposta": "c",
+   "explicacao": "A violência contra a pessoa idosa raramente aparece como agressão física: costuma se apresentar como controle do dinheiro e da circulação, praticado por familiar. Nomear as formas patrimonial e psicológica é o que permite enxergar a discriminação etária por trás do gesto apresentado como cuidado.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-290",
+   "texto_apoio": "Antes de haver lei específica, decisões judiciais reconheceram efeitos de entidade familiar às uniões estáveis entre pessoas do mesmo sexo e, em seguida, sua conversão em casamento civil.",
+   "enunciado": "O fundamento invocado nessas decisões foi:",
+   "alternativas": {
+    "a": "a existência de tratado internacional autoaplicável sobre o tema, incorporado ao ordenamento interno com hierarquia suficiente para afastar a legislação civil então vigente",
+    "b": "a analogia com o regime sucessório aplicável aos conviventes, que produziria por si os efeitos patrimoniais pretendidos sem necessidade de reconhecimento do vínculo familiar",
+    "c": "a competência do Judiciário para suprir omissões legislativas mediante edição de norma provisória com prazo determinado de vigência até deliberação do Congresso sobre a matéria",
+    "d": "a vedação de tratamento desfavorável fundado em orientação sexual, que impede restringir a família a um único arranjo",
+    "e": "a natureza contratual da união, que autorizaria as partes a pactuar livremente os efeitos patrimoniais desejados sem interferência do regime jurídico familiar previsto em lei"
+   },
+   "resposta": "d",
+   "explicacao": "O raciocínio não criou instituto novo: leu o conceito de entidade familiar sem o requisito implícito da diversidade de sexos. A discriminação fundada em orientação sexual foi tratada como fator ilegítimo de distinção, o que abriu o mesmo regime jurídico a arranjos antes excluídos.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-291",
+   "texto_apoio": "O censo brasileiro coleta cor ou raça por autodeclaração, em cinco categorias. Órgãos públicos passaram a exigir esse quesito em seus sistemas de registro administrativo.",
+   "enunciado": "A generalização do quesito cor nos registros públicos serve principalmente para:",
+   "alternativas": {
+    "a": "uniformizar a classificação usada pelos órgãos, substituindo a autodeclaração por critério administrativo aplicado de modo homogêneo em cada sistema de registro mantido pelo poder público",
+    "b": "identificar individualmente os beneficiários das ações afirmativas em curso, função que dispensaria a realização de bancas de verificação nos processos seletivos conduzidos pelas instituições",
+    "c": "atender a exigência estatística internacional de comparabilidade entre países, parâmetro que orienta a construção das séries históricas divulgadas pelos institutos nacionais de pesquisa",
+    "d": "estimar o crescimento demográfico de cada grupo ao longo do tempo, informação usada no planejamento da oferta de serviços públicos nos municípios de maior densidade populacional",
+    "e": "medir desigualdades por cor e tornar visível a desvantagem da população negra em cada serviço"
+   },
+   "resposta": "e",
+   "explicacao": "Sem o quesito cor, a discriminação some da estatística: não se mede o que não se registra. Coletar cor nos registros administrativos permite comparar acesso e desfecho entre grupos e é o que dá base empírica às políticas de igualdade racial.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-292",
+   "texto_apoio": "Após uma eleição disputada, circulam nas redes mensagens que atribuem atraso econômico a habitantes de uma região do país e propõem restringir sua circulação nas demais.",
+   "enunciado": "As mensagens caracterizam:",
+   "alternativas": {
+    "a": "discriminação por procedência regional, tratada pelo ordenamento como forma de preconceito vedada",
+    "b": "crítica política protegida pelo debate público, ainda que formulada em termos ásperos sobre o desempenho econômico comparado das diferentes regiões do território nacional",
+    "c": "manifestação cultural de rivalidade regional, fenômeno recorrente em países de dimensão continental e sem repercussão sobre o regime jurídico aplicável às relações entre habitantes",
+    "d": "difamação coletiva de natureza estritamente civil, reparável mediante indenização apurada em ação proposta por entidade representativa dos habitantes da região atingida",
+    "e": "propaganda eleitoral irregular veiculada fora do período autorizado, infração apurada pelo órgão competente para o exame das contas das campanhas realizadas naquele pleito"
+   },
+   "resposta": "a",
+   "explicacao": "O ordenamento brasileiro veda a distinção fundada em origem e procedência, e a hostilidade dirigida a habitantes de uma região é preconceito, não opinião política. O elemento decisivo é o alvo: a mensagem atinge pessoas por onde nasceram, e não uma proposta que defendam.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-293",
+   "texto_apoio": "Uma instituição privada de ensino recusa a matrícula de uma criança com autismo, alegando não dispor de estrutura para atendê-la, e sugere à família procurar estabelecimento especializado.",
+   "enunciado": "A recusa é considerada ilícita porque:",
+   "alternativas": {
+    "a": "a instituição privada não poderia selecionar seus alunos por critério algum, devendo aceitar as matrículas na ordem cronológica de apresentação dos requerimentos ao longo do período de inscrição",
+    "b": "cabe à instituição promover a adaptação razoável, e não à pessoa com deficiência procurar ambiente segregado",
+    "c": "a estrutura alegada como insuficiente deveria ter sido custeada por repasse público específico, cuja ausência não poderia ser oposta à família interessada na matrícula da criança",
+    "d": "a legislação transfere a estabelecimentos especializados somente o atendimento de casos que envolvam impedimento de natureza física comprovado por laudo emitido em serviço credenciado",
+    "e": "a matrícula já se havia aperfeiçoado com o pagamento da primeira parcela, o que impediria a instituição de rever sua decisão sobre o ingresso da criança naquele ano letivo"
+   },
+   "resposta": "b",
+   "explicacao": "O ensino inclusivo inverte o endereço do ajuste: quem se adapta é a instituição, por meio de adaptação razoável, e não a criança, remetida a um circuito separado. Cobrar taxa adicional por esse ajuste ou recusar a matrícula configura discriminação vedada em lei.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-294",
+   "texto_apoio": "Uma universidade passa a registrar o nome social nas listas de presença, nos crachás e nos sistemas internos, mantendo o nome de registro somente nos documentos de efeito externo exigidos por lei.",
+   "enunciado": "A medida se justifica porque o nome social:",
+   "alternativas": {
+    "a": "substitui o registro civil para os efeitos jurídicos em geral, dispensando o interessado de promover a retificação do assento perante o cartório competente para o ato",
+    "b": "constitui apelido de uso facultativo, cuja adoção depende de concordância prévia dos demais integrantes da comunidade acadêmica envolvida no convívio cotidiano com a pessoa",
+    "c": "evita a exposição forçada da identidade de gênero, situação que expõe a pessoa trans à discriminação cotidiana",
+    "d": "atende exigência de padronização dos sistemas acadêmicos, que passariam a operar com campo único de identificação para os registros internos mantidos pela instituição de ensino",
+    "e": "produz efeito somente durante o período letivo em curso, devendo ser renovado a cada matrícula semestral realizada pelo estudante interessado em manter o uso adotado"
+   },
+   "resposta": "c",
+   "explicacao": "Chamar em voz alta o nome de registro de uma pessoa trans a obriga a se expor diante de uma sala inteira. O nome social não substitui o registro civil, mas remove essa exposição no uso cotidiano — é medida de proteção contra a discriminação, e não concessão de cortesia.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-295",
+   "texto_apoio": "Uma imagem muito difundida mostra três pessoas de alturas distintas atrás de um muro: na primeira cena, cada uma recebe um caixote idêntico; na segunda, os caixotes são distribuídos conforme a necessidade; na terceira, o muro é substituído por grade vazada.",
+   "enunciado": "A terceira cena representa:",
+   "alternativas": {
+    "a": "a igualdade formal, que assegura tratamento idêntico às três pessoas independentemente da altura de cada uma no momento da distribuição dos apoios disponíveis",
+    "b": "a equidade, que distribui recursos conforme a necessidade individual verificada em cada caso concreto antes da entrega dos apoios às pessoas envolvidas na cena",
+    "c": "a compensação retroativa, que repara a desvantagem acumulada mediante entrega adicional de recursos ao integrante do grupo que suportou a maior restrição anterior",
+    "d": "a remoção da barreira, que torna dispensável a distribuição desigual de apoios ao suprimir a causa da desvantagem",
+    "e": "a discriminação positiva, que estabelece tratamento diferenciado temporário em favor do integrante do grupo historicamente desfavorecido na disputa por um bem escasso"
+   },
+   "resposta": "d",
+   "explicacao": "A metáfora tem três estágios, e o terceiro costuma ser esquecido: tratamento idêntico, distribuição conforme a necessidade e, por fim, eliminação do obstáculo. Só o último dispensa a redistribuição permanente de apoios, porque age sobre a estrutura que produzia a desvantagem.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-296",
+   "texto_apoio": "Numa companhia, mulheres ocupam metade dos postos de entrada, um terço das gerências e menos de um décimo dos assentos do conselho de administração.",
+   "enunciado": "O padrão descrito é usualmente designado como:",
+   "alternativas": {
+    "a": "efeito de coorte, decorrente do ingresso recente das novas gerações na companhia e da consequente defasagem entre o tempo de casa exigido e o alcançado por elas",
+    "b": "segmentação horizontal, distribuição desigual entre áreas funcionais distintas de uma mesma organização sem alteração do nível hierárquico ocupado pelos integrantes de cada grupo",
+    "c": "rotatividade seletiva, saída voluntária concentrada num grupo específico em razão de condições de trabalho percebidas como menos favoráveis ao longo da permanência na empresa",
+    "d": "viés de amostragem interna, distorção produzida pela forma como a companhia contabiliza os cargos de chefia em suas estatísticas periódicas de composição do quadro funcional",
+    "e": "teto de vidro, barreira informal que reduz a ascensão das mulheres à medida que a hierarquia sobe"
+   },
+   "resposta": "e",
+   "explicacao": "O funil é a assinatura do teto de vidro: a paridade na base convive com a escassez no topo. Como a barreira não está escrita em regra alguma, ela se sustenta em critérios informais de confiança e disponibilidade, e a discriminação só fica visível quando se compara a proporção por nível.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-297",
+   "texto_apoio": "Um restaurante adota regra de vestimenta e a aplica com rigor variável: clientes de aparência mais humilde são barrados por bermuda, enquanto outros entram com a mesma peça sem observação.",
+   "enunciado": "A conduta descrita revela:",
+   "alternativas": {
+    "a": "discriminação praticada por aplicação seletiva de regra neutra, apoiada em marcadores de classe e aparência",
+    "b": "exercício regular do poder de organização do estabelecimento, que pode fixar padrão de vestimenta e ajustá-lo conforme a ocupação de cada turno de atendimento ao público",
+    "c": "infração de norma sanitária relativa ao acesso às áreas de manipulação de alimentos, apurável pelo órgão de vigilância competente na circunscrição do estabelecimento",
+    "d": "publicidade enganosa, por divergência entre as condições anunciadas ao público e as efetivamente praticadas na recepção dos clientes que comparecem ao local",
+    "e": "conflito de consumo de natureza contratual, resolvível mediante composição entre as partes na esfera administrativa de defesa do consumidor do município"
+   },
+   "resposta": "a",
+   "explicacao": "A regra escrita é idêntica para todos; o filtro está na aplicação. Esse é o formato mais comum da discriminação em espaços de consumo, porque a norma neutra fornece justificativa pronta — e é a comparação entre casos semelhantes que expõe o critério real, ligado à aparência e à vulnerabilidade social do cliente.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-igualdade-discriminacao",
+   "id": "dir-direitos-humanos-298",
+   "texto_apoio": "Uma norma sanitária impedia a doação de sangue por homens que houvessem tido relação com outros homens nos doze meses anteriores. A restrição foi derrubada e substituída por triagem de condutas de risco aplicada a cada candidato.",
+   "enunciado": "O argumento decisivo contra a regra anterior foi o de que ela:",
+   "alternativas": {
+    "a": "reduzia o estoque disponível nos bancos de sangue em proporção incompatível com a demanda registrada pelos serviços de hemoterapia nos períodos de maior necessidade",
+    "b": "dispensava a realização de exames laboratoriais nas bolsas coletadas, transferindo a segurança da transfusão para a veracidade das respostas prestadas pelo candidato na entrevista",
+    "c": "tomava a orientação sexual como fator de risco em si, embora o risco decorra da conduta individual",
+    "d": "invadia competência normativa reservada a outro órgão do sistema de vigilância sanitária, vício formal que já bastaria para retirar a exigência do ordenamento então vigente",
+    "e": "impunha prazo de abstinência superior ao adotado por outros países com perfil epidemiológico semelhante, parâmetro que orientaria a revisão periódica dos critérios de triagem aplicados"
+   },
+   "resposta": "c",
+   "explicacao": "A triagem de doadores deve olhar comportamento, não identidade: um homem em relação estável e monogâmica era barrado, enquanto condutas de risco em relações heterossexuais não eram alcançadas. Presumir risco a partir da orientação sexual é discriminação, e ainda produz triagem menos eficaz.",
+   "formato": "direta",
+   "origem": "direito"
   }
  ],
  "dh-direitos-sociais": [
@@ -70081,6 +70676,652 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Uma política pública habitacional é uma ação estatal organizada para garantir o acesso à moradia como direito social, como no exemplo descrito de construção subsidiada de moradias populares. As demais alternativas descrevem outros fenômenos e práticas reais do mercado imobiliário, mas sem essa finalidade de política pública voltada à garantia de um direito social.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-226",
+   "texto_apoio": "Um município nega a um morador o fornecimento de medicamento de alto custo, alegando limite orçamentário. A defesa sustenta que existe um núcleo de prestações materiais abaixo do qual o direito à saúde deixa de ter conteúdo.",
+   "enunciado": "O conceito invocado pela defesa, contrapeso à reserva do possível, é o de:",
+   "alternativas": {
+    "a": "mínimo existencial, patamar de prestações sem o qual a política pública de saúde perde eficácia concreta",
+    "b": "supremacia do interesse coletivo, cláusula que autorizaria a administração a redimensionar seus programas sociais conforme a arrecadação de cada exercício financeiro e a previsão de despesa correspondente",
+    "c": "eficiência administrativa, diretriz que imporia ao gestor escolher entre os tratamentos disponíveis aquele de menor custo por resultado obtido na rede assistencial",
+    "d": "discricionariedade orçamentária, faculdade pela qual o administrador define a ordem de prioridade entre despesas de custeio e de investimento",
+    "e": "autonomia local, princípio que reservaria a cada ente a definição do próprio elenco de medicamentos padronizados"
+   },
+   "resposta": "a",
+   "explicacao": "A reserva do possível condiciona prestações estatais à disponibilidade de recursos, mas encontra limite no mínimo existencial: as condições materiais sem as quais a vida digna se inviabiliza. Nessa faixa, a escassez orçamentária deixa de bastar como razão para negar o atendimento.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-227",
+   "texto_apoio": "Um programa social paga benefício mensal às famílias inscritas e exige, para manter o pagamento, frequência escolar das crianças e acompanhamento de saúde das gestantes.",
+   "enunciado": "Essas exigências caracterizam a transferência de renda como:",
+   "alternativas": {
+    "a": "universal, porque o valor pago é idêntico para as famílias inscritas no cadastro",
+    "b": "condicionada, porque vincula o repasse monetário ao uso dos serviços de educação e de saúde pela família",
+    "c": "contributiva, porque a família precisaria ter recolhido parcelas anteriores para acessar o pagamento mensal previsto na regra do programa",
+    "d": "territorial, porque a seleção partiria de indicadores agregados do bairro de residência e não da situação declarada por cada núcleo familiar inscrito no cadastro do programa",
+    "e": "indireta, porque o repasse chegaria à família por meio de serviços prestados por entidades conveniadas em lugar do depósito em conta"
+   },
+   "resposta": "b",
+   "explicacao": "A condicionalidade é a marca desse desenho de transferência de renda: o repasse funciona também como incentivo ao uso dos serviços de educação e de saúde. A lógica soma alívio imediato da privação a ganho de prazo mais longo em escolaridade e em cuidado preventivo.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-228",
+   "texto_apoio": "Um gestor descreve o financiamento do sistema de proteção brasileiro como um arranjo de três pilares, custeado por contribuições de empregadores, de trabalhadores e por recursos orçamentários dos entes federados.",
+   "enunciado": "Os três pilares da seguridade social a que ele se refere são:",
+   "alternativas": {
+    "a": "educação básica, cultura e desporto",
+    "b": "trabalho digno, moradia e mobilidade",
+    "c": "saúde, previdência e assistência social",
+    "d": "saneamento básico, habitação popular e transporte, os três serviços de rede que dependem de investimento público continuado e de tarifa social para alcançar a população de baixa renda",
+    "e": "salário mínimo, seguro-desemprego e abono salarial, as três prestações monetárias que compõem o piso de proteção do trabalhador formal brasileiro segundo o desenho vigente"
+   },
+   "resposta": "c",
+   "explicacao": "A seguridade social brasileira reúne saúde, previdência e assistência social. A distinção prática entre elas é o acesso: a saúde é universal, a assistência social depende da necessidade comprovada e a previdência exige contribuição prévia do segurado.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-229",
+   "texto_apoio": "Uma pessoa idosa de baixa renda, que nunca recolheu contribuições, requer um benefício mensal de um salário mínimo e tem o pedido deferido.",
+   "enunciado": "O deferimento se explica porque o benefício requerido integra a:",
+   "alternativas": {
+    "a": "previdência social, cujo regime admite a contagem de tempo fictício em favor de segurados que comprovem baixa renda familiar ao longo do período aquisitivo",
+    "b": "seguridade rural, cujo custeio recai sobre a comercialização da produção e dispensa o recolhimento individual mensal do trabalhador do campo",
+    "c": "política pública de crédito consignado, que antecipa valores futuros mediante desconto em folha de pagamento do beneficiário",
+    "d": "assistência social, prestada a quem dela necessite e independente de contribuição prévia do requerente",
+    "e": "previdência complementar, regime de capitalização em que o participante forma reserva individual ao longo dos anos de atividade profissional"
+   },
+   "resposta": "d",
+   "explicacao": "O traço que separa assistência social e previdência é a contributividade. A assistência social é devida a quem dela necessite, sem recolhimento anterior; a previdência supõe filiação e contribuição do segurado ao regime.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-230",
+   "texto_apoio": "Um turista estrangeiro passa mal durante viagem pelo país e é atendido sem cobrança numa unidade pública de urgência.",
+   "enunciado": "O atendimento se justifica pela diretriz de:",
+   "alternativas": {
+    "a": "reciprocidade diplomática, que estenderia o atendimento gratuito a nacionais de países signatários de acordo específico sobre cobertura assistencial recíproca",
+    "b": "descentralização, que atribui a execução dos serviços à esfera municipal e a coordenação normativa às demais esferas do sistema",
+    "c": "participação da comunidade, que abre à sociedade civil a formulação das prioridades da rede assistencial",
+    "d": "hierarquização, que organiza a rede em níveis crescentes de complexidade tecnológica e concentra o atendimento de urgência nos hospitais de referência regional",
+    "e": "acesso universal, que abre a rede pública de saúde a quem esteja em território nacional, sem exigência de vínculo contributivo"
+   },
+   "resposta": "e",
+   "explicacao": "O direito à saúde no desenho brasileiro é de acesso universal: a porta de entrada não depende de contribuição nem de nacionalidade. Descentralização, hierarquização e participação da comunidade também são diretrizes do sistema, mas descrevem sua organização, não o critério de acesso.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-231",
+   "texto_apoio": "Uma fiscalização encontra dezessete pessoas alojadas num galpão sem água potável, com jornadas de dezesseis horas e dívidas registradas em caderno pelo contratante, que descontava alojamento e comida do valor prometido.",
+   "enunciado": "A situação descrita configura trabalho:",
+   "alternativas": {
+    "a": "temporário irregular, por descumprimento do prazo máximo de contratação e da obrigação de registro do vínculo junto à entidade sindical da categoria",
+    "b": "análogo ao de escravo, pela conjugação de servidão por dívida, jornada exaustiva e condições degradantes de alojamento",
+    "c": "intermitente sem registro, modalidade em que a convocação ocorre por período determinado e o pagamento segue as horas efetivamente prestadas ao contratante",
+    "d": "autônomo mal enquadrado, caso em que os direitos trabalhistas seriam devidos pelo simples reconhecimento da pessoalidade na prestação do serviço contratado",
+    "e": "avulso, prestado a diversos tomadores com intermediação obrigatória de órgão gestor de mão de obra"
+   },
+   "resposta": "b",
+   "explicacao": "A caracterização do trabalho análogo ao de escravo no direito brasileiro não exige cerceamento físico de liberdade: bastam condições degradantes, jornada exaustiva, trabalho forçado ou servidão por dívida. O caso reúne três desses elementos, o que afasta a leitura de mera irregularidade contratual.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-232",
+   "texto_apoio": "Um adolescente de quinze anos é contratado como aprendiz numa oficina, com jornada compatível com o horário escolar e matrícula ativa na rede de ensino.",
+   "enunciado": "Sobre a licitude do arranjo, é correto afirmar que a contratação é:",
+   "alternativas": {
+    "a": "vedada, porque o combate ao trabalho infantil impede a prestação de serviço remunerado antes da maioridade civil do contratado",
+    "b": "vedada, porque a aprendizagem exigiria conclusão prévia do ensino fundamental como requisito de matrícula no programa de formação técnico-profissional oferecido pela empresa",
+    "c": "lícita, porque a aprendizagem é admitida a partir dos catorze anos e supõe formação técnico-profissional compatível com a frequência à escola",
+    "d": "lícita, porque a proteção contra o trabalho infantil se dirige à atividade insalubre e não alcança oficinas mecânicas de pequeno porte instaladas em área urbana",
+    "e": "irrelevante para o direito do trabalho, por se tratar de vínculo de natureza educacional sem repercussão previdenciária ou salarial para as partes"
+   },
+   "resposta": "c",
+   "explicacao": "O ordenamento brasileiro proíbe o trabalho infantil, mas ressalva a condição de aprendiz a partir dos catorze anos. A aprendizagem é contrato especial: exige formação técnico-profissional metódica, jornada reduzida e compatibilidade com a frequência escolar, justamente para que o trabalho não substitua a educação.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-233",
+   "texto_apoio": "Um entregador acionado por aplicativo cumpre metas de tempo definidas pela plataforma, é avaliado por sistema automatizado e pode ser desconectado se recusar corridas seguidas.",
+   "enunciado": "O elemento que sustenta o pedido de reconhecimento de vínculo regido pela CLT é a:",
+   "alternativas": {
+    "a": "onerosidade, presente nas prestações de serviço remuneradas, com ou sem subordinação da parte que executa a tarefa",
+    "b": "eventualidade, já que a prestação se distribui de forma descontínua ao longo da semana conforme a demanda registrada pelo sistema em cada região atendida",
+    "c": "exclusividade, requisito que a legislação trabalhista brasileira elenca entre os pressupostos indispensáveis ao reconhecimento da relação de emprego",
+    "d": "subordinação algorítmica, forma de direção da atividade em que o comando e a sanção por desempenho são exercidos pelo próprio sistema",
+    "e": "pessoalidade, dispensável no caso porque a plataforma admite a substituição do entregador por terceiro cadastrado"
+   },
+   "resposta": "d",
+   "explicacao": "A discussão sobre plataformas gira em torno da subordinação: o controle deixou de ser a ordem verbal do chefe e passou a operar por métricas, ranqueamento e bloqueio automático. Reconhecer essa direção algorítmica como subordinação é o que abre caminho aos direitos trabalhistas e à cobertura da previdência social.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-234",
+   "texto_apoio": "Uma categoria negocia com o setor patronal a redução da jornada com redução proporcional de salário durante uma crise, mediante acordo coletivo firmado por sua entidade sindical.",
+   "enunciado": "A validade desse ajuste depende, sobretudo, de:",
+   "alternativas": {
+    "a": "homologação individual de cada trabalhador atingido perante o órgão administrativo local, ato sem o qual a cláusula coletiva não produziria efeito no contrato de cada um",
+    "b": "autorização prévia do juízo trabalhista competente, que examinaria a proporcionalidade da medida antes da assinatura do instrumento pelas partes",
+    "c": "participação da entidade sindical na negociação, exigida quando o ajuste envolve redução salarial",
+    "d": "referendo da assembleia patronal, órgão que confere eficácia às cláusulas de conteúdo econômico pactuadas pelos representantes das empresas do setor",
+    "e": "conversão em lei ordinária, providência que retiraria a matéria do campo da autonomia privada coletiva das partes"
+   },
+   "resposta": "c",
+   "explicacao": "A redução de salário é matéria que o ordenamento brasileiro reserva à negociação coletiva, com participação obrigatória da entidade sindical. A exigência protege o trabalhador da desigualdade de força no ajuste individual e é o núcleo da liberdade sindical no plano das relações de trabalho.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-235",
+   "texto_apoio": "Um fundo redistribui recursos entre redes de ensino conforme o número de matrículas, e completa com aporte da União a receita dos entes que não alcançam o valor mínimo por aluno.",
+   "enunciado": "A função redistributiva descrita atende ao objetivo de:",
+   "alternativas": {
+    "a": "reduzir a disparidade de gasto por aluno entre redes de educação básica com capacidades de arrecadação distintas",
+    "b": "vincular a remuneração dos profissionais da rede ao desempenho aferido em avaliação externa aplicada ao fim de cada etapa do ensino fundamental",
+    "c": "substituir a arrecadação própria dos entes por repasse federal integral, medida que uniformizaria a receita disponível para a política pública de ensino em cada território",
+    "d": "financiar a expansão do ensino superior privado por meio de bolsas concedidas a estudantes egressos da rede pública de educação básica em território nacional",
+    "e": "concentrar o investimento nas redes mais populosas, onde o custo unitário do atendimento tende a ser menor pela escala"
+   },
+   "resposta": "a",
+   "explicacao": "O fundo funciona como mecanismo de equalização: como a receita própria varia muito entre municípios, o repasse por matrícula somado ao complemento federal aproxima o gasto por aluno. É política pública de financiamento, e seu efeito principal é reduzir a desigualdade territorial na educação básica.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-236",
+   "texto_apoio": "Uma família pede vaga em creche pública para criança de dois anos. O município responde que a fila é longa e que a ampliação da rede depende de dotação orçamentária futura.",
+   "enunciado": "Diante desse quadro, o argumento mais consistente da família é o de que:",
+   "alternativas": {
+    "a": "a reserva do possível não alcança prestações de educação infantil expressamente priorizadas pelo ordenamento",
+    "b": "a fila de espera seria inválida por si só, pois a ordem cronológica de inscrição não pode servir de critério de distribuição de vagas na rede pública de ensino",
+    "c": "o município deveria custear mensalidade em instituição privada de sua livre escolha, solução que transferiria ao orçamento local o valor integral do contrato firmado pela família",
+    "d": "a educação infantil comportaria substituição por benefício monetário equivalente, pago diretamente à família enquanto durasse a insuficiência de vagas na rede",
+    "e": "a competência pela oferta seria da esfera estadual, o que deslocaria a responsabilidade pelo atendimento para outro ente"
+   },
+   "resposta": "a",
+   "explicacao": "A educação infantil é prestação que o ordenamento brasileiro trata como prioritária, o que estreita a margem para invocar a reserva do possível. A jurisprudência consolidou que a insuficiência orçamentária genérica não afasta o dever de oferta quando está em causa o núcleo do direito à educação.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-237",
+   "texto_apoio": "Uma pesquisa domiciliar classifica os lares em quatro faixas: segurança alimentar, insegurança leve (preocupação com a falta futura), moderada (redução da quantidade) e grave (interrupção de refeições).",
+   "enunciado": "A faixa de insegurança alimentar grave se distingue das demais porque nela:",
+   "alternativas": {
+    "a": "a preocupação com o abastecimento futuro passa a ser relatada pelo responsável pelo domicílio como um problema recorrente ao longo do mês",
+    "b": "a família substitui alimentos mais caros por opções de menor valor nutricional, mantendo porém o número usual de refeições diárias servidas no domicílio pesquisado",
+    "c": "o gasto com alimentação supera metade da renda domiciliar apurada pela pesquisa no mês anterior à visita da equipe de campo",
+    "d": "há restrição quantitativa que chega à supressão de refeições, situação em que a fome se manifesta de fato",
+    "e": "o domicílio passa a depender de programa social de transferência de renda para completar a despesa mensal com gêneros básicos"
+   },
+   "resposta": "d",
+   "explicacao": "A escala brasileira de insegurança alimentar mede uma gradação: da preocupação com a falta futura à redução da qualidade, depois da quantidade e, no grau grave, à supressão de refeições. Só o último patamar corresponde à fome propriamente dita, e é ele que orienta a prioridade da política pública de abastecimento.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-238",
+   "texto_apoio": "Uma ocupação urbana consolidada há trinta anos abriga oitocentas famílias. O município decide implantar rede de água, numerar as vias e emitir títulos de propriedade aos ocupantes.",
+   "enunciado": "A medida se enquadra como política pública de:",
+   "alternativas": {
+    "a": "desapropriação por interesse social, instrumento pelo qual a administração adquire o domínio do imóvel mediante prévia indenização em dinheiro paga ao proprietário registral da área ocupada",
+    "b": "regularização fundiária, que combina reconhecimento do domínio e provisão de infraestrutura para efetivar o direito à moradia",
+    "c": "concessão de uso especial precária, que autorizaria a permanência dos ocupantes enquanto durasse o interesse da administração na destinação atual daquele terreno",
+    "d": "remoção assistida, procedimento que transfere as famílias para conjunto habitacional construído em área distinta e regulariza o terreno de origem",
+    "e": "zoneamento inclusivo, técnica urbanística que reserva percentual das novas edificações a unidades de menor valor"
+   },
+   "resposta": "b",
+   "explicacao": "Regularização fundiária é o conjunto de medidas jurídicas, urbanísticas e sociais que incorpora assentamentos informais à cidade formal. Titular sem urbanizar produz papel sem cidade; urbanizar sem titular deixa o morador exposto à remoção. O direito à moradia depende das duas frentes.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-239",
+   "texto_apoio": "Uma reforma eleva a idade mínima de aposentadoria e cria regra de transição para quem já contribuía, calculada a partir do tempo que faltava na data da mudança.",
+   "enunciado": "A regra de transição atende, sobretudo, à proteção da:",
+   "alternativas": {
+    "a": "paridade entre gerações, que exigiria tratamento idêntico entre segurados novos e antigos do regime de previdência",
+    "b": "confiança legítima de quem organizou a vida laboral sob as condições anteriores do regime de previdência",
+    "c": "irredutibilidade nominal do valor dos benefícios já concedidos aos aposentados, que ficam imunes às alterações posteriores das regras de cálculo aplicáveis ao regime",
+    "d": "solidariedade contributiva, princípio segundo o qual a geração em atividade custeia os benefícios em manutenção no sistema de repartição simples adotado no país",
+    "e": "reserva matemática individual de cada participante, formada pelas contribuições vertidas ao longo do período de filiação ao regime"
+   },
+   "resposta": "b",
+   "explicacao": "A transição existe porque a política pública de previdência opera em horizonte de décadas: quem planejou a aposentadoria sob uma regra não pode ver o cálculo alterado de uma vez. A proteção da confiança legítima não impede a reforma, mas exige que a mudança seja escalonada para quem já estava no sistema.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-240",
+   "texto_apoio": "Um projeto de lei propõe extinguir um programa social consolidado de atendimento domiciliar a pessoas idosas, sem prever serviço substitutivo, sob o argumento de contenção de despesa.",
+   "enunciado": "O princípio que se opõe diretamente a essa proposta é o da:",
+   "alternativas": {
+    "a": "anterioridade orçamentária, que impediria a supressão de despesa já autorizada na lei de meios em curso naquele exercício financeiro",
+    "b": "seletividade das prestações, diretriz que autoriza o legislador a escolher quais riscos sociais serão cobertos",
+    "c": "reserva do possível, que condiciona a manutenção dos programas sociais existentes à efetiva disponibilidade de recursos apurada em cada exercício pelo órgão de execução",
+    "d": "subsidiariedade, que atribuiria à família e às entidades comunitárias o atendimento das necessidades que a política pública deixasse de cobrir naquele território",
+    "e": "vedação do retrocesso social, que resiste à supressão de prestações já incorporadas sem alternativa equivalente"
+   },
+   "resposta": "e",
+   "explicacao": "A vedação do retrocesso social sustenta que direitos sociais já concretizados em políticas públicas não podem ser desmontados sem substituição equivalente. Não congela o orçamento nem impede reformas, mas transfere ao legislador o ônus de demonstrar que o novo arranjo preserva o núcleo da prestação.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-241",
+   "texto_apoio": "Um estudo relaciona a ampliação da rede de esgoto num conjunto de municípios à queda das internações por doenças de veiculação hídrica nos anos seguintes.",
+   "enunciado": "O achado ilustra que o direito à saúde depende de:",
+   "alternativas": {
+    "a": "ação intersetorial, pois o resultado sanitário decorre de investimento feito fora da rede assistencial",
+    "b": "ampliação do número de leitos hospitalares disponíveis por habitante, indicador que costuma acompanhar a evolução das internações registradas em cada território pesquisado",
+    "c": "reorganização do modelo de atenção primária, com aumento das equipes de acompanhamento domiciliar responsáveis pelo território adscrito a cada unidade básica da rede",
+    "d": "revisão da tabela de repasse por procedimento, mecanismo que orienta a alocação dos recursos federais entre os prestadores conveniados ao sistema público de saúde",
+    "e": "elevação do gasto privado das famílias com planos de assistência médica suplementar contratados no mercado"
+   },
+   "resposta": "a",
+   "explicacao": "O caso mostra por que a saúde não se reduz a hospital: saneamento, moradia e alimentação determinam boa parte do adoecimento. Por isso a política pública de saúde é intersetorial, e o investimento em infraestrutura básica costuma render mais em desfecho sanitário do que igual valor aplicado na ponta assistencial.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-242",
+   "texto_apoio": "Dois desenhos disputam a preferência do gestor: pagar um valor mensal a toda a população adulta, sem verificação de renda, ou concentrar o pagamento nas famílias abaixo de uma linha de corte.",
+   "enunciado": "A vantagem central atribuída ao segundo desenho é:",
+   "alternativas": {
+    "a": "eliminar a burocracia de cadastro, já que dispensa a checagem periódica da situação econômica declarada por cada família atendida pelo programa social",
+    "b": "reduzir o estigma associado ao recebimento, porque o benefício deixa de sinalizar a condição econômica de quem o recebe perante a vizinhança",
+    "c": "dispensar a articulação com serviços de saúde e educação, que se tornariam desnecessários ao desenho da transferência de renda focalizada",
+    "d": "assegurar previsibilidade fiscal, uma vez que o custo total do programa passaria a variar somente com o crescimento vegetativo da população adulta residente no país",
+    "e": "concentrar recursos escassos onde a pobreza é mais aguda, elevando o impacto por real gasto"
+   },
+   "resposta": "e",
+   "explicacao": "Focalização e universalização trocam eficiência alocativa por simplicidade e ausência de estigma. O programa focalizado gasta menos para tirar mais gente da pobreza, mas paga o custo do cadastro, do erro de exclusão e do estigma; a renda básica universal inverte exatamente esse par.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-243",
+   "texto_apoio": "Um trabalhador dispensado sem justa causa recebe parcelas mensais temporárias enquanto procura nova colocação, custeadas por fundo alimentado por contribuição sobre o faturamento das empresas.",
+   "enunciado": "Essa prestação se caracteriza como benefício de natureza:",
+   "alternativas": {
+    "a": "assistencial, devido a quem comprove necessidade, sem relação com a existência de vínculo de emprego anterior à situação de desamparo",
+    "b": "indenizatória, paga pelo empregador como compensação pela ruptura do contrato antes do termo previsto entre as partes contratantes",
+    "c": "securitária, que cobre o risco social do desemprego involuntário de quem tinha vínculo formal",
+    "d": "remuneratória diferida, correspondente a parcela do salário retida ao longo do contrato e liberada ao fim da relação de trabalho mantida com aquele empregador",
+    "e": "creditícia, por antecipar ao trabalhador recursos que serão descontados de sua futura remuneração no próximo vínculo formal registrado"
+   },
+   "resposta": "c",
+   "explicacao": "O seguro-desemprego integra a seguridade social: cobre um risco (a perda involuntária do posto), pressupõe vínculo formal anterior e é custeado coletivamente, não pelo empregador que dispensou. Distingue-se por isso da verba rescisória, prevista entre os direitos trabalhistas de caráter indenizatório e individual.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-244",
+   "texto_apoio": "O piso salarial nacional serve de referência para o valor mínimo dos benefícios de previdência e assistência social, de modo que seu reajuste repercute em milhões de pagamentos mensais.",
+   "enunciado": "Essa vinculação explica por que o reajuste do piso é tratado como:",
+   "alternativas": {
+    "a": "matéria de negociação coletiva por categoria, cabendo à entidade sindical de cada setor fixar o valor aplicável a seus representados no âmbito da respectiva base territorial",
+    "b": "cláusula contratual privada, imune à intervenção estatal por integrar o núcleo da autonomia das partes no contrato de trabalho",
+    "c": "instrumento de correção monetária, cuja função se esgotaria em repor a perda inflacionária acumulada no período de doze meses anterior à data-base",
+    "d": "prerrogativa exclusiva do órgão gestor da previdência, que apura anualmente a capacidade de pagamento do fundo antes de propor o novo patamar de referência",
+    "e": "decisão de política fiscal, e não só de política salarial, pelo efeito direto sobre a despesa de seguridade social"
+   },
+   "resposta": "e",
+   "explicacao": "Como o piso indexa aposentadorias, pensões e benefícios da assistência social, cada real de reajuste multiplica-se pelo estoque de benefícios pagos. O reajuste é, portanto, decisão orçamentária de peso, e não uma escolha restrita ao mercado de trabalho formal.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-245",
+   "texto_apoio": "Uma rede substitui leitos de internação psiquiátrica de longa permanência por centros de atenção abertos, residências terapêuticas e acompanhamento no território onde a pessoa vive.",
+   "enunciado": "A reorientação descrita traduz a diretriz de:",
+   "alternativas": {
+    "a": "desinstitucionalização, que desloca o cuidado em saúde mental do isolamento hospitalar para serviços comunitários",
+    "b": "regionalização da alta complexidade, que concentra o atendimento especializado em hospitais de referência escolhidos por critério populacional dentro de cada macrorregião de saúde",
+    "c": "judicialização do cuidado, pela qual a definição do tratamento adequado passa a caber ao juízo competente nos casos de divergência técnica entre a família e a equipe",
+    "d": "contratualização de metas, instrumento pelo qual a política pública de saúde vincula o repasse de recursos ao cumprimento de indicadores pactuados com cada prestador da rede",
+    "e": "hospitalização integral, que reúne num mesmo estabelecimento os cuidados clínicos e psiquiátricos prestados ao usuário"
+   },
+   "resposta": "a",
+   "explicacao": "A reforma psiquiátrica brasileira trocou o manicômio por uma rede aberta de base territorial. A internação não desaparece, mas deixa de ser a porta de entrada e passa a ser recurso pontual: a política pública de saúde mental se organiza em torno da convivência, não do isolamento.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-246",
+   "texto_apoio": "Uma empresa contrata serviço de limpeza de outra companhia. A prestadora deixa de pagar as verbas devidas aos trabalhadores que atuaram nas dependências da contratante.",
+   "enunciado": "Quanto aos direitos trabalhistas não quitados, a contratante responde de forma:",
+   "alternativas": {
+    "a": "solidária desde a assinatura do contrato, dividindo com a prestadora o polo passivo de cada obrigação desde o primeiro dia da execução do serviço contratado",
+    "b": "subsidiária, se tiver falhado na fiscalização do cumprimento das obrigações pela prestadora",
+    "c": "exclusiva da prestadora, já que o vínculo formal de emprego se firmou com ela e a contratante permaneceu estranha à relação de trabalho havida entre as partes",
+    "d": "limitada ao valor do contrato de prestação de serviços firmado, teto que a CLT fixaria para a responsabilização do tomador nas hipóteses de inadimplemento da prestadora",
+    "e": "condicionada à falência da prestadora, pressuposto sem o qual o patrimônio da tomadora não poderia ser alcançado"
+   },
+   "resposta": "b",
+   "explicacao": "Na terceirização, o tomador responde de modo subsidiário quando se omite na fiscalização do contrato: primeiro se executa a prestadora, depois o tomador. A regra protege o trabalho digno sem inviabilizar a contratação de serviços, transferindo ao contratante o ônus de acompanhar o cumprimento das obrigações.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-247",
+   "texto_apoio": "Uma lei nacional fixa valor mínimo para a remuneração inicial dos professores da educação básica pública e determina reajuste anual conforme a variação do valor por aluno de um fundo de financiamento.",
+   "enunciado": "A vinculação entre piso e financiamento tem por efeito:",
+   "alternativas": {
+    "a": "transferir à negociação sindical de cada rede a definição do valor inicial, que passaria a variar conforme a força de mobilização da categoria em cada território",
+    "b": "converter o piso em teto remuneratório da carreira, impedindo que os planos locais estabeleçam níveis superiores ao valor de referência apurado na esfera nacional",
+    "c": "condicionar a atualização do piso a lei específica de cada rede, aprovada anualmente pelo respectivo legislativo antes do início do exercício financeiro correspondente",
+    "d": "amarrar a valorização docente ao volume de recursos da política pública de educação, e não à disposição orçamentária de cada rede",
+    "e": "eliminar a diferença de remuneração entre redes municipais e estaduais, que passariam a pagar valores idênticos em cada nível da carreira do magistério público"
+   },
+   "resposta": "d",
+   "explicacao": "O piso do magistério funciona como instrumento de equalização: ao indexar a remuneração inicial ao valor por aluno do fundo, a lei tira a valorização docente da disputa orçamentária local e a atrela ao financiamento da educação básica. É piso, e não teto — redes com mais receita podem pagar acima dele.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-248",
+   "texto_apoio": "Uma rede de ensino cruza a lista de matrículas com os registros de frequência e envia equipes às casas dos estudantes que deixaram de comparecer por mais de trinta dias.",
+   "enunciado": "A estratégia descrita se apoia no entendimento de que a evasão escolar é:",
+   "alternativas": {
+    "a": "consequência direta do desempenho insuficiente do estudante nas avaliações internas da rede, o que recomendaria o reforço pedagógico como resposta prioritária ao problema identificado",
+    "b": "questão de ordem doméstica, cuja solução caberia às famílias sem interferência da rede pública de educação na organização da rotina de cada domicílio",
+    "c": "problema de gestão que a rede pode antecipar, e não fato consumado a ser constatado ao fim do ano letivo",
+    "d": "efeito inevitável da entrada precoce no mercado de trabalho, que a política pública de educação não teria instrumentos para reverter enquanto persistisse a necessidade de renda da família",
+    "e": "indicador de qualidade do sistema, mensurado por avaliação externa e divulgado periodicamente às redes participantes"
+   },
+   "resposta": "c",
+   "explicacao": "A busca ativa escolar parte de uma inversão: em vez de registrar a evasão, a rede a detecta enquanto ainda é infrequência e intervém. O direito à educação passa a exigir da política pública um comportamento de procura, não de espera pela matrícula que não volta.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-249",
+   "texto_apoio": "Durante uma emergência sanitária, o governo paga benefício temporário a trabalhadores informais e famílias de baixa renda, usando como base um cadastro já existente e um aplicativo para novas inscrições.",
+   "enunciado": "O papel do cadastro preexistente nessa operação foi:",
+   "alternativas": {
+    "a": "substituir a análise de renda por sorteio entre os inscritos, critério adotado para acelerar a liberação das parcelas iniciais do benefício temporário concedido",
+    "b": "restringir o pagamento aos beneficiários que já recebiam transferência de renda regular, excluindo do alcance da medida os trabalhadores informais sem vínculo anterior com a rede de proteção",
+    "c": "permitir alcançar rapidamente parte da população em situação de pobreza, sem recomeçar do zero a identificação dos elegíveis",
+    "d": "transferir aos municípios a responsabilidade integral pela seleção dos beneficiários, que passariam a decidir localmente quem receberia cada parcela do programa social criado",
+    "e": "condicionar o benefício à frequência escolar das crianças da família, exigência mantida durante o período de suspensão das aulas presenciais"
+   },
+   "resposta": "c",
+   "explicacao": "A existência prévia de um cadastro social é infraestrutura de política pública: sem ela, uma transferência de renda emergencial levaria meses para identificar quem precisa. O episódio brasileiro mostrou tanto a vantagem do cadastro quanto seu limite — quem estava fora dele dependeu de autodeclaração por aplicativo.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-250",
+   "texto_apoio": "Um agricultor de economia familiar requer aposentadoria por idade comprovando o exercício da atividade rural por meio de notas de produtor e declaração de sindicato, sem apresentar carnês de recolhimento.",
+   "enunciado": "O deferimento do pedido se apoia na condição de segurado:",
+   "alternativas": {
+    "a": "facultativo, categoria aberta a quem não exerce atividade remunerada e deseja manter a filiação ao regime mediante recolhimento por iniciativa própria",
+    "b": "especial, cuja contribuição à previdência incide sobre a comercialização da produção e é comprovada pelo exercício da atividade",
+    "c": "individual, obrigado ao recolhimento mensal por conta própria sobre o salário de contribuição declarado no período de atividade que pretende ver reconhecido",
+    "d": "empregado rural, cuja contribuição é retida e recolhida pelo empregador ao longo do contrato mantido no campo",
+    "e": "avulso, que presta serviço a diversos tomadores rurais com intermediação obrigatória de entidade sindical responsável pelo registro das jornadas cumpridas"
+   },
+   "resposta": "b",
+   "explicacao": "O segurado especial é a solução da previdência brasileira para a economia familiar rural: como não há salário nem folha, a contribuição incide sobre a venda da produção e a prova se faz pelo exercício da atividade. É desenho de política pública que reconhece a informalidade estrutural do campo.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-251",
+   "texto_apoio": "Uma agência reguladora publica lista dos procedimentos de cobertura obrigatória pelos planos privados de assistência à saúde. Uma beneficiária pede tratamento não previsto na lista, com prescrição médica e evidência científica de eficácia.",
+   "enunciado": "A controvérsia central do caso está em definir se a lista é:",
+   "alternativas": {
+    "a": "vinculante para a rede pública de saúde, que passaria a ofertar os mesmos procedimentos elencados para o setor suplementar em cada nível de complexidade da assistência prestada",
+    "b": "critério de reajuste das mensalidades, calculado conforme a variação de custo dos procedimentos incorporados ao elenco obrigatório no exercício anterior",
+    "c": "rol exemplificativo ou taxativo, isto é, piso de cobertura ou limite dela",
+    "d": "instrumento de política pública de preços, destinado a uniformizar o valor cobrado pelos prestadores contratados por cada operadora que atua no mercado nacional",
+    "e": "documento de natureza técnica sem repercussão contratual, cuja observância dependeria do que estivesse pactuado em cada apólice individual firmada entre operadora e beneficiário"
+   },
+   "resposta": "c",
+   "explicacao": "A disputa sobre o rol resume o conflito entre previsibilidade atuarial e direito à saúde. Rol taxativo dá segurança de custo às operadoras e fecha a cobertura; rol exemplificativo trata a lista como piso e admite a incorporação de tratamentos comprovados. A legislação de 2022 adotou solução intermediária, com critérios de exceção.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-252",
+   "texto_apoio": "Uma grife é autuada depois que fiscais encontram costureiros migrantes em condições degradantes numa oficina subcontratada por seu fornecedor direto, a três níveis de distância da marca.",
+   "enunciado": "A responsabilização da grife se sustenta no argumento de que:",
+   "alternativas": {
+    "a": "a distância contratual entre a marca e a oficina afasta o dever de vigilância, que recairia somente sobre o fornecedor imediato ao qual a produção foi encomendada",
+    "b": "o trabalho análogo ao de escravo se presumiria nas cadeias de confecção que utilizam mão de obra migrante em oficinas instaladas em área urbana adensada",
+    "c": "a autuação depende de prova de que a marca deu ordens diretas aos costureiros, elemento sem o qual a subcontratação permanece irrelevante para a política pública de fiscalização",
+    "d": "quem se beneficia economicamente da cadeia produtiva tem dever de controlá-la, e a subcontratação não transfere esse dever adiante",
+    "e": "a marca responde na condição de empregadora formal dos costureiros, pois a pessoalidade e a subordinação se estabelecem com quem define o padrão do produto acabado"
+   },
+   "resposta": "d",
+   "explicacao": "O combate ao trabalho análogo ao de escravo na confecção deslocou o foco do empregador aparente para quem organiza e lucra com a cadeia. A responsabilidade por trabalho digno acompanha o benefício econômico: terceirizar a produção não terceiriza o dever de fiscalizar as condições em que ela ocorre.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-253",
+   "texto_apoio": "Uma empresa adota regime de teletrabalho e passa a acionar sua equipe por mensagens fora do horário contratado, com expectativa de resposta imediata em qualquer dia da semana.",
+   "enunciado": "A prática colide com o direito à desconexão, cujo fundamento é:",
+   "alternativas": {
+    "a": "a impossibilidade técnica de aferir a jornada em teletrabalho, o que levaria a legislação a excluir esse regime do controle de horário mantido para as demais formas de prestação",
+    "b": "a exigência de registro eletrônico de ponto para as empresas de maior porte, obrigação prevista para os estabelecimentos que ultrapassem o número mínimo de empregados fixado em norma",
+    "c": "a proteção da saúde do trabalhador, já que a disponibilidade permanente dissolve o limite de jornada que os direitos trabalhistas fixam",
+    "d": "a natureza autônoma do teletrabalho, que retiraria do contrato a subordinação e transferiria ao próprio profissional a organização integral do seu tempo de dedicação",
+    "e": "o dever de fornecer os equipamentos usados na atividade remota, cujo custo não pode ser repassado ao empregado sem previsão contratual"
+   },
+   "resposta": "c",
+   "explicacao": "O limite de jornada é norma de saúde, não só de remuneração: existe para preservar descanso, convívio e recuperação física. O teletrabalho não suspende essa lógica — a conexão contínua transforma o tempo de descanso em disponibilidade, e é isso que o direito à desconexão pretende barrar.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-254",
+   "texto_apoio": "Um acordo coletivo firmado por entidade sindical prevê a troca do intervalo de uma hora para refeição por trinta minutos, com saída antecipada. Outro prevê a redução do adicional devido pelo trabalho em ambiente insalubre.",
+   "enunciado": "A distinção decisiva entre as duas cláusulas está em que:",
+   "alternativas": {
+    "a": "a segunda envolve norma de saúde do trabalhador, matéria que os direitos trabalhistas subtraem da livre disposição das partes",
+    "b": "a primeira depende de homologação individual de cada empregado atingido, providência dispensada nas cláusulas que tratem de adicionais devidos pela exposição a agentes nocivos",
+    "c": "a segunda alcança verba de natureza salarial, o que já bastaria para retirá-la do campo da negociação coletiva conduzida pela entidade sindical da categoria envolvida",
+    "d": "a primeira exige referendo em assembleia geral convocada especificamente para esse fim, formalidade que a legislação não impõe às cláusulas de conteúdo econômico do instrumento",
+    "e": "as duas são igualmente válidas, pois a reforma de 2017 conferiu ao negociado prevalência sobre o legislado nas matérias de organização do contrato de trabalho"
+   },
+   "resposta": "a",
+   "explicacao": "A prevalência do negociado sobre o legislado, introduzida em 2017, não é ilimitada: a CLT lista matérias indisponíveis, e as normas de saúde e segurança estão entre elas. Intervalo pode ser objeto de ajuste; redução de proteção contra agente insalubre transfere risco ao corpo do trabalhador e escapa à negociação.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-255",
+   "texto_apoio": "Um levantamento aponta que parte relevante dos alimentos produzidos no país se perde entre a colheita e o varejo, enquanto milhões de domicílios convivem com insegurança alimentar.",
+   "enunciado": "A coexistência dos dois dados indica que a fome no país decorre principalmente de:",
+   "alternativas": {
+    "a": "insuficiência da produção agrícola nacional diante do crescimento demográfico observado nas últimas décadas, o que exigiria expansão da área plantada como resposta central",
+    "b": "falhas de distribuição e de acesso, e não de escassez física de alimentos",
+    "c": "concentração da produção em culturas de exportação, o que reduziria a oferta interna de gêneros básicos a ponto de comprometer o abastecimento das regiões metropolitanas do país",
+    "d": "elevação dos custos logísticos de transporte, variável que responderia isoladamente pela diferença entre o volume colhido e o volume que chega às prateleiras do varejo",
+    "e": "ausência de programa social de distribuição de cestas, instrumento capaz de suprir por si a lacuna entre a produção disponível e o consumo das famílias"
+   },
+   "resposta": "b",
+   "explicacao": "Desde Amartya Sen, a fome moderna se explica menos pela disponibilidade agregada de alimentos do que pela titularidade de acesso a eles: renda, preço e logística. Um país que perde parte da safra e ainda registra insegurança alimentar tem problema de distribuição, e a política pública eficaz age sobre renda e abastecimento.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-256",
+   "texto_apoio": "Um município enfrenta déficit habitacional composto majoritariamente por famílias que gastam mais de trinta por cento da renda com aluguel, e não por ausência física de imóveis vagos.",
+   "enunciado": "O dado sugere que a política pública de moradia deveria priorizar:",
+   "alternativas": {
+    "a": "instrumentos de acesso e permanência, como locação social e ocupação de imóveis ociosos bem localizados",
+    "b": "o financiamento de longo prazo para aquisição da casa própria, instrumento que converteria a despesa mensal com aluguel em amortização de um bem que passaria ao patrimônio da família",
+    "c": "a construção de novas unidades em áreas periféricas com terreno disponível, solução que ampliaria o estoque físico de imóveis destinados às famílias de menor renda do território",
+    "d": "a flexibilização das regras urbanísticas de altura e recuo, medida que barateia o metro quadrado ao permitir maior aproveitamento dos lotes situados nas áreas centrais da cidade",
+    "e": "a transferência das famílias para conjuntos habitacionais construídos fora do perímetro urbano, onde o custo do terreno permite atender mais domicílios com o mesmo recurso"
+   },
+   "resposta": "a",
+   "explicacao": "Déficit por ônus excessivo com aluguel não se resolve construindo mais: já há imóveis, o problema é o preço frente à renda. A resposta adequada combina locação social, subsídio à permanência e uso de estoque vago em área com infraestrutura — construir na periferia costuma agravar o custo de transporte da família.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-257",
+   "texto_apoio": "Um programa social de habitação divide os beneficiários em faixas de renda: na inferior, o subsídio cobre quase todo o valor do imóvel; na superior, oferece somente juros abaixo do mercado.",
+   "enunciado": "Essa graduação do subsídio traduz o princípio da:",
+   "alternativas": {
+    "a": "seletividade por risco de crédito, que reserva as melhores condições de financiamento aos candidatos com histórico de pagamento mais consistente registrado nas instituições financeiras",
+    "b": "uniformidade das prestações sociais, segundo a qual o benefício deve ter o mesmo conteúdo para o conjunto dos contemplados pelo programa habitacional em cada exercício",
+    "c": "subsidiariedade estatal, pela qual a intervenção pública só se justificaria depois de esgotada a capacidade do mercado imobiliário de atender à demanda por moradia naquele território",
+    "d": "progressividade do gasto público, que concentra o esforço fiscal onde a capacidade de pagamento é menor",
+    "e": "contrapartida obrigatória, que exige do beneficiário participação financeira proporcional ao valor do imóvel adquirido com recursos do programa"
+   },
+   "resposta": "d",
+   "explicacao": "Faixas de subsídio existem porque o mesmo real rende efeitos sociais distintos conforme a renda de quem o recebe. Concentrar o subsídio na faixa inferior é aplicar progressividade ao gasto: sem isso, o crédito habitacional tende a atender quem já teria acesso ao mercado e a deixar o déficit intacto.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-258",
+   "texto_apoio": "Uma norma determina que parte mínima dos recursos federais repassados para a alimentação escolar seja usada na compra direta de gêneros da agricultura familiar do próprio município ou região.",
+   "enunciado": "A regra articula dois objetivos, que são:",
+   "alternativas": {
+    "a": "assegurar alimentação adequada ao estudante e sustentar a renda do pequeno produtor local",
+    "b": "simplificar o processo de compra e dispensar a rede de manter estrutura própria de armazenamento e preparo dos gêneros adquiridos ao longo do ano letivo",
+    "c": "reduzir o custo unitário da refeição servida e uniformizar o cardápio oferecido nas redes de educação básica de diferentes regiões do país conforme padrão nacional",
+    "d": "ampliar a arrecadação tributária local e reduzir a dependência da rede de ensino em relação aos repasses federais destinados à manutenção da educação básica pública",
+    "e": "controlar a qualidade sanitária dos gêneros e centralizar a fiscalização dos fornecedores num único órgão federal responsável pelo programa de alimentação escolar"
+   },
+   "resposta": "a",
+   "explicacao": "A compra institucional junta duas pontas: enfrenta a insegurança alimentar do estudante e cria mercado estável para a agricultura familiar. É desenho de política pública que usa o poder de compra do Estado como instrumento de renda, e não somente como despesa da educação.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-259",
+   "texto_apoio": "Num município, bairros atendidos por rede de água tratada registram incidência muito menor de diarreia infantil do que bairros abastecidos por caminhão-pipa e poços rasos.",
+   "enunciado": "O contraste indica que o acesso à água tratada funciona como:",
+   "alternativas": {
+    "a": "serviço de natureza econômica cuja expansão depende do retorno tarifário obtido em cada área atendida pela concessionária responsável pelo abastecimento local",
+    "b": "indicador de desenvolvimento sem relação causal com os desfechos clínicos observados, uma vez que a incidência de diarreia responderia principalmente ao nível de escolaridade das famílias",
+    "c": "item de conforto domiciliar, relevante para a qualidade de vida mas secundário na hierarquia das prioridades da política pública de saneamento em áreas urbanas consolidadas",
+    "d": "determinante social do direito à saúde, cuja ausência produz adoecimento evitável",
+    "e": "obrigação do proprietário do imóvel, a quem caberia providenciar a ligação e o tratamento da água consumida na residência"
+   },
+   "resposta": "d",
+   "explicacao": "Água tratada é determinante social da saúde: sua falta produz doença que nenhum hospital previne. Por isso o saneamento entra no rol das políticas públicas de saúde, e não somente das de infraestrutura — o gasto se paga em internações que deixam de ocorrer.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-260",
+   "texto_apoio": "Após a morte de um segurado, sua companheira de vinte e cinco anos, sem filhos e sem incapacidade, passa a receber pensão por prazo determinado, e não vitalícia.",
+   "enunciado": "A limitação temporal do benefício se explica pela:",
+   "alternativas": {
+    "a": "natureza assistencial da pensão, devida a quem comprove necessidade e revista periodicamente conforme a renda familiar apurada em cada recadastramento do beneficiário",
+    "b": "ausência de dependência econômica presumida entre companheiros, que precisaria ser demonstrada ano a ano para a manutenção do pagamento pelo regime de previdência",
+    "c": "conversão automática da pensão em auxílio da assistência social ao fim do período inicial, momento em que o dependente passa a integrar outro programa de proteção da seguridade social",
+    "d": "regra de carência do regime, que exige tempo mínimo de contribuição do segurado falecido para a concessão de benefício de duração indeterminada aos seus dependentes",
+    "e": "graduação por idade do dependente, critério que a previdência adotou para escalonar a duração da pensão conforme a expectativa de reinserção no mercado de trabalho"
+   },
+   "resposta": "e",
+   "explicacao": "A reforma de 2015 escalonou a duração da pensão por morte conforme a idade do dependente: quanto mais jovem, menor o prazo. O desenho parte da presunção de que o dependente jovem e capaz pode voltar ao mercado de trabalho, e busca conter a despesa da previdência sem suprimir a proteção imediata.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-261",
+   "texto_apoio": "Uma trabalhadora com carteira assinada se afasta após o parto e recebe, durante o afastamento, valor correspondente à sua remuneração, custeado pelo regime de previdência e não pela empresa.",
+   "enunciado": "O custeio coletivo desse afastamento se justifica porque:",
+   "alternativas": {
+    "a": "a empresa transferiria o custo ao preço final do produto, o que anularia o efeito redistributivo pretendido pela legislação ao instituir o benefício em favor da segurada afastada",
+    "b": "o afastamento configura suspensão do contrato e, por isso, retira do empregador a obrigação de manter o recolhimento das demais parcelas devidas ao longo do período",
+    "c": "a legislação equipara o afastamento a acidente de trabalho, caso em que o custeio recai sobre o seguro específico mantido pelo regime para riscos ocupacionais",
+    "d": "o benefício integra a assistência social, campo em que as prestações independem de contribuição prévia de quem as recebe ou do vínculo formal mantido com o empregador",
+    "e": "atribuir o custo ao empregador criaria desincentivo à contratação de quem pode engravidar, deslocando o encargo para o conjunto dos contribuintes"
+   },
+   "resposta": "e",
+   "explicacao": "Socializar o custo do afastamento por parto é escolha deliberada de desenho: se o encargo recaísse sobre a folha da empresa, ele viraria motivo de recusa na contratação. Ao alocá-lo na previdência, os direitos trabalhistas evitam que a proteção se converta em barreira de entrada no emprego formal.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-262",
+   "texto_apoio": "Uma empresa paga adicional de insalubridade a empregados expostos a ruído acima do limite tolerado, e mantém a exposição inalterada por considerar o pagamento suficiente.",
+   "enunciado": "A crítica técnica a essa conduta é a de que o adicional:",
+   "alternativas": {
+    "a": "deveria ser calculado sobre a remuneração integral do empregado, e não sobre o piso da categoria, o que reduziria o valor efetivamente recebido por quem se expõe ao agente nocivo",
+    "b": "monetiza um risco à saúde que os direitos trabalhistas mandam antes eliminar ou neutralizar na fonte",
+    "c": "só é devido mediante laudo pericial atualizado a cada exercício, documento sem o qual o pagamento se torna mera liberalidade do empregador sujeita a supressão unilateral",
+    "d": "não integra o salário de contribuição e, por isso, deixaria de repercutir no cálculo dos benefícios futuros do trabalhador junto ao regime de previdência",
+    "e": "cabe somente aos empregados que comprovem lesão auditiva já instalada, aferida por exame admissional e periódico realizado pelo serviço médico da empresa"
+   },
+   "resposta": "b",
+   "explicacao": "A lógica da saúde do trabalhador é hierárquica: primeiro eliminar o risco, depois reduzi-lo, depois proteger com equipamento, e só então compensar em dinheiro. Tratar o adicional como preço da exposição inverte essa ordem e transforma a proteção da saúde em item negociável do custo de produção.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-direitos-sociais",
+   "id": "dir-direitos-humanos-263",
+   "texto_apoio": "Durante a suspensão das aulas presenciais, estudantes sem computador nem conexão estável em casa acumularam defasagem de aprendizagem muito maior do que colegas conectados da mesma rede.",
+   "enunciado": "O episódio evidencia que a conectividade doméstica passou a operar como:",
+   "alternativas": {
+    "a": "insumo pedagógico dispensável, já que o material impresso distribuído pela rede supriria integralmente a interação prevista para o período de aulas remotas",
+    "b": "item de consumo das famílias, cuja aquisição depende da renda disponível e escapa ao alcance da política pública de educação básica mesmo em cenário de emergência",
+    "c": "responsabilidade exclusiva das operadoras de telecomunicações, obrigadas por regulação setorial a garantir cobertura mínima nas áreas residenciais de menor densidade urbana",
+    "d": "variável sem relação com o desempenho escolar, que responderia sobretudo à formação dos docentes e à organização curricular adotada por cada rede de ensino no período",
+    "e": "condição de acesso ao direito à educação, cuja falta aprofunda a exclusão social preexistente"
+   },
+   "resposta": "e",
+   "explicacao": "A pandemia converteu conexão e dispositivo em pré-requisito da escolarização, e a defasagem resultante não se distribuiu por acaso: concentrou-se onde a renda já era menor. É o mecanismo clássico da exclusão social — a mesma política pública produz efeitos opostos conforme a infraestrutura de que cada família dispõe.",
    "formato": "direta",
    "origem": "direito"
   }

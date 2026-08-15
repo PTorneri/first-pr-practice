@@ -57132,6 +57132,125 @@ window.QUESTION_BANKS = {
    "resposta": "c",
    "explicacao": "The passage supports: Prior beliefs can increase the appeal of false information. The other options refer to the same text but state what it does not support or contradict what it says.",
    "origem": "direito"
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "med-ingles-276",
+   "texto_apoio": "Planting trees is the cheapest way a city has to lower summer temperatures, and the effect is larger than most residents expect. A street lined with mature trees can be several degrees cooler than an identical street without them, because the leaves block sunlight before it reaches the asphalt and release water vapour as they work. The saving in electricity is measurable within a single season. What is harder is the wait: the benefit arrives when the trees are twenty years old, and the councillor who plants them will not be in office to open the shade.",
+   "enunciado": "The main idea of the text is that:",
+   "alternativas": {
+    "a": "cities in warm regions have stopped planting trees along their busiest streets because of the cost",
+    "b": "urban trees cool streets cheaply, but the benefit takes decades to arrive",
+    "c": "electricity bills are the usual way of measuring the temperature of a street",
+    "d": "shade cast by buildings cools a street as efficiently as shade cast by trees",
+    "e": "planting trees costs more than the other measures available to a city"
+   },
+   "resposta": "b",
+   "explicacao": "A ideia central do texto é o contraste entre um efeito grande e barato e um prazo longo: as árvores esfriam a rua, mas o resultado só aparece vinte anos depois. As outras opções tomam pontos laterais da passagem ou invertem o que ela apresenta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "med-ingles-277",
+   "texto_apoio": "Offices emptied faster than the shops around them could adapt. A city centre built for a hundred thousand commuters loses its lunch trade first, then its evening trade, and the rents that supported both take two or three years to fall. Some districts have converted towers into flats, which is slower and more expensive than the headlines imply, because a floor plate designed for desks has windows in the wrong places. The districts recovering fastest are the ones that were never only offices, and that had residents before anyone had heard of remote work.",
+   "enunciado": "Which of these statements best expresses the central idea of the passage?",
+   "alternativas": {
+    "a": "converting office towers into flats is a quick and inexpensive solution for city centres",
+    "b": "shops in city centres closed before the offices around them emptied",
+    "c": "rents in business districts fell within a few months of the change",
+    "d": "mixed districts adapted better than those built around offices alone",
+    "e": "remote work had no measurable effect on the trade of city centres"
+   },
+   "resposta": "d",
+   "explicacao": "A ideia central do texto é que os centros com moradores anteriores à mudança se recuperaram mais depressa do que os bairros feitos só de escritórios. As demais opções invertem prazos ou atribuem à conversão de torres uma facilidade que a passagem nega.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "med-ingles-278",
+   "texto_apoio": "Resistance to antibiotics is often described as a problem of hospitals, and hospitals are where it is measured. Most of the volume, though, is used on farms, mixed into feed to make animals grow faster in crowded sheds. Countries that banned the practice saw resistant strains fall in animals within a few years, and no collapse in production. The argument that remains is about cost, since the alternative is fewer animals per shed and better ventilation. That is a price, and it is smaller than the one paid when a routine operation stops being routine.",
+   "enunciado": "The text is mainly about:",
+   "alternativas": {
+    "a": "the weight of farming in antibiotic resistance and the cost of changing it",
+    "b": "the discovery of new antibiotics in laboratories financed by farming companies",
+    "c": "the techniques hospitals use to measure resistant strains in their patients",
+    "d": "the collapse in meat production that followed the ban in several countries",
+    "e": "the reasons why routine operations have become more common in hospitals"
+   },
+   "resposta": "a",
+   "explicacao": "A ideia central do texto está no deslocamento do problema do hospital para a criação animal e no preço de corrigi-lo. As outras opções isolam detalhes do parágrafo ou dizem o contrário do que a passagem registra sobre a produção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "med-ingles-279",
+   "texto_apoio": "Streaming pays by the play, and a play counts after thirty seconds. Songwriters noticed. Intros have grown shorter, choruses arrive earlier, and the average track on the charts has lost almost a minute since the format took over. None of this was ordered by anyone. It is what happens when a payment rule meets a room full of people trying to make a living, and it has happened before: radio produced three-minute songs for reasons that had nothing to do with music, and nobody now hears those three minutes as a constraint.",
+   "enunciado": "The best title for the text would be:",
+   "alternativas": {
+    "a": "The thirty seconds that decide whether a track is played to the end by listeners",
+    "b": "Why radio still pays songwriters better than streaming services do",
+    "c": "Songwriters who refuse to shorten their intros",
+    "d": "The return of the long album in the streaming era",
+    "e": "How a payment rule reshaped the songs we hear"
+   },
+   "resposta": "e",
+   "explicacao": "A ideia principal do texto é que uma regra de pagamento remodelou a forma das canções, com o paralelo do rádio no fecho. As demais opções tratam de aspectos secundários ou de comparações que a passagem não faz.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "med-ingles-280",
+   "texto_apoio": "Students who type their notes write more words than those who use a pen, and remember less of what was said. The reason is not the keyboard. Typing is fast enough to transcribe, and transcription requires no decision; a pen forces the student to choose what matters while the lecturer is still speaking, and that choice is the learning. The finding has been replicated with mixed results, and the sensible reading is narrow: it is not that pens are magical, but that a method which lets you avoid thinking will be used to avoid thinking.",
+   "enunciado": "The author's main purpose in the text is to:",
+   "alternativas": {
+    "a": "describe the equipment used in the experiments on note-taking carried out with students",
+    "b": "recommend that universities remove laptops from their lecture halls",
+    "c": "explain why a slower way of taking notes can lead to better recall",
+    "d": "argue that students who type take fewer notes than those who write by hand",
+    "e": "compare the cost of pens and laptops for students beginning a course"
+   },
+   "resposta": "c",
+   "explicacao": "O objetivo principal do texto é explicar por que escrever à mão, sendo mais lento, obriga a selecionar e favorece a lembrança, e ainda advertir contra a leitura exagerada do achado. As outras opções propõem recomendações e comparações ausentes da passagem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "med-ingles-281",
+   "texto_apoio": "Desalination is presented as the answer to water scarcity, and in a few places it is. The plants are expensive to build, hungry for electricity, and they produce a stream of concentrated brine that has to go somewhere, usually back into the sea near the coast. Cities that installed them without fixing their pipes found they were paying to manufacture water that then leaked out of the network at a rate of thirty per cent. Repairing pipes is unglamorous and produces no ribbon to cut, and it is the cheaper litre in almost every case studied.",
+   "enunciado": "Which option best summarises the main point of the passage?",
+   "alternativas": {
+    "a": "desalination helps in some places, but repairing leaking pipes is usually cheaper",
+    "b": "the brine produced by desalination plants is harmless to the coastal waters where it is released",
+    "c": "cities that repaired their pipes had to close their desalination plants",
+    "d": "electricity is the largest cost in the maintenance of a water network",
+    "e": "water scarcity has been solved in the cities that built desalination plants"
+   },
+   "resposta": "a",
+   "explicacao": "A ideia central do texto é comparar duas soluções e mostrar que a menos vistosa costuma render o litro mais barato. As demais opções negam o problema da salmoura ou estendem a um caso geral um resultado que a passagem restringe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "med-ingles-282",
+   "texto_apoio": "Every few years a technology is announced that will end the teaching profession, and the profession is still here. Recorded lectures did not replace the classroom, and neither did the television course or the online platform that raised a billion dollars promising it. What each of them did was take over a piece of the work: delivering content, marking exercises, keeping a register. The part that survived is the part that was hardest to describe in the prospectus, which is noticing that a particular student has stopped understanding and deciding what to do about it that afternoon.",
+   "enunciado": "The overall argument of the text is that:",
+   "alternativas": {
+    "a": "recorded lectures are more effective than television courses for marking the exercises done by students",
+    "b": "online platforms have replaced the classroom in most countries over the past decade",
+    "c": "teachers spend most of their working time keeping registers and marking exercises",
+    "d": "new technologies absorb parts of teaching but not the judgement at its centre",
+    "e": "the teaching profession will disappear once content delivery is fully automated"
+   },
+   "resposta": "d",
+   "explicacao": "A ideia central do texto é que cada tecnologia assume uma parte da tarefa e deixa intacto o julgamento do professor diante de um aluno concreto. As outras opções anunciam substituições que a passagem afasta.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "ingles-detail": [
@@ -60050,6 +60169,737 @@ window.QUESTION_BANKS = {
    "resposta": "d",
    "explicacao": "Os três enganam por semelhança: \"college\" costuma ser faculdade (não colégio, que é \"high school\"), \"actual\" significa real, verdadeiro (não atual, que é \"current\"), e \"lecture\" é aula expositiva ou palestra (não leitura, que é \"reading\").",
    "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-233",
+   "texto_apoio": "Archaeologists working in northern Chile have recovered fishing hooks made from cactus spines that are more than seven thousand years old. Storing them has proved harder than finding them. Once the objects leave the dry desert soil, they absorb moisture from the air and become brittle: a hook that survived seven millennia underground can snap between two fingers within a week of being lifted. Conservators now seal each piece in a controlled case before it travels, and photograph it from every angle first, in case the original does not reach the laboratory intact.",
+   "enunciado": "In the text, the word \"brittle\" means the same as:",
+   "alternativas": {
+    "a": "very valuable to the collectors of ancient tools who buy them",
+    "b": "unusually heavy",
+    "c": "easily broken",
+    "d": "difficult to date",
+    "e": "resistant to moisture"
+   },
+   "resposta": "c",
+   "explicacao": "O termo \"brittle\" vem logo depois da absorção de umidade e antes da imagem do anzol que se parte entre dois dedos; nesse contexto ele equivale a \"quebradiço\". A passagem liga o problema à água absorvida, não ao peso, à datação nem ao valor da peça.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-234",
+   "texto_apoio": "Cities that have tried to reduce car traffic usually begin with pricing. Stockholm, Singapore and London all charge drivers for entering the centre at busy hours, and all three saw traffic fall in the first months. What is less often noticed is how quickly the effect can fade. Unless the money raised goes into buses and trains that people actually want to use, drivers adjust, absorb the cost and return. The charge alone does not curb congestion for long; it buys a government two or three years to build something better, and that window is easy to waste.",
+   "enunciado": "In the context of the passage, \"curb\" is closest in meaning to:",
+   "alternativas": {
+    "a": "hold back",
+    "b": "explain in detail the causes of",
+    "c": "measure precisely",
+    "d": "make worse",
+    "e": "predict"
+   },
+   "resposta": "a",
+   "explicacao": "O termo \"curb\" está na frase que opõe a cobrança ao retorno dos motoristas: a taxa não segura o congestionamento por muito tempo. Nesse contexto ele equivale a \"conter\", \"frear\". A passagem não discute medir nem prever o trânsito, e sim reduzi-lo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-235",
+   "texto_apoio": "The first portable electrocardiograph, sold in the 1920s, weighed close to thirty kilograms and needed two people to carry it up a staircase. Doctors who bought one described it as reliable but cumbersome: it took twenty minutes to set up in a patient's living room, and the wires tangled if the case was tilted. Within a decade the weight had fallen by half, and by the 1960s a machine that once filled a car boot could be wheeled by a nurse. The medical value of the reading never changed; what changed was how much effort it cost to obtain it.",
+   "enunciado": "The word \"cumbersome\" can be replaced, without loss of meaning, by:",
+   "alternativas": {
+    "a": "cheap to produce",
+    "b": "accurate under pressure",
+    "c": "restricted to hospitals with several trained technicians",
+    "d": "quiet in operation",
+    "e": "hard to handle"
+   },
+   "resposta": "e",
+   "explicacao": "O termo \"cumbersome\" aparece contraposto a \"reliable\" e explicado pelo que vem em seguida — trinta quilos, duas pessoas, vinte minutos de montagem, fios que embaraçam. Ele equivale a \"pesado e difícil de manejar\", e não a barato, preciso ou silencioso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-236",
+   "texto_apoio": "Rooftop gardens are often sold as a way to grow food in dense cities, but the plants that do best there are rarely the ones people imagine. Wind is stronger eight floors up, the soil layer is thin, and the surface heats fast on a clear afternoon. Tomatoes struggle; herbs such as rosemary and thyme thrive, because they evolved on dry, exposed hillsides where the same pressures apply. Gardeners who accept this get a harvest. Those who insist on planting what grows well at ground level spend a season learning what the roof will not support.",
+   "enunciado": "In context, \"thrive\" means:",
+   "alternativas": {
+    "a": "need constant watering from a system installed on the roof",
+    "b": "grow very well",
+    "c": "die quickly",
+    "d": "cost less to buy",
+    "e": "change colour"
+   },
+   "resposta": "b",
+   "explicacao": "O termo \"thrive\" aparece em oposição a \"struggle\", usado para os tomates, e é justificado pela origem das ervas em encostas secas e expostas. Ele equivale a \"prosperar\", \"vingar\". As opções que falam de rega, preço ou cor não retomam o contraste construído na passagem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-237",
+   "texto_apoio": "Half of the world's lithium comes from salt flats in Chile, Argentina and Bolivia, where brine is pumped to the surface and left to evaporate in shallow ponds. The process is cheap and needs almost no energy, since the sun does the work. It also needs land in places where water is scarce, and the ponds sit on aquifers that farming communities have used for generations. Mining companies argue that brine is not drinking water. Hydrologists reply that the two are connected underground, and that nobody has measured the link well enough to promise otherwise.",
+   "enunciado": "Which of these is closest in meaning to \"scarce\" as it is used in the text?",
+   "alternativas": {
+    "a": "polluted by the mining companies that operate in the region",
+    "b": "cheap",
+    "c": "abundant",
+    "d": "in short supply",
+    "e": "salty"
+   },
+   "resposta": "d",
+   "explicacao": "O termo \"scarce\" qualifica a água nos lugares onde ficam os tanques de evaporação, e é o que explica o conflito com as comunidades que dependem dos aquíferos. Ele equivale a \"escassa\". \"Abundante\" inverte o trecho, e a poluição não está em jogo nessa frase.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-238",
+   "texto_apoio": "Teams that work across several time zones often assume that the main obstacle is the clock. In practice, the harder problem is written communication. A message that reads as brisk in one office reads as rude in another, and the person who wrote it will not find out for eight hours. Managers who impose more meetings only hinder the work, because the meetings land badly for someone. What helps is duller: shared documents, decisions written down with the reasoning attached, and an agreement that silence before noon is not disagreement.",
+   "enunciado": "The expression \"hinder\" could be substituted, in this context, by:",
+   "alternativas": {
+    "a": "get in the way of",
+    "b": "describe in careful detail for the whole team",
+    "c": "speed up",
+    "d": "pay for",
+    "e": "replace"
+   },
+   "resposta": "a",
+   "explicacao": "O termo \"hinder\" está no que os gestores fazem de errado, e a frase seguinte apresenta o que de fato ajuda. Ele equivale a \"atrapalhar\", \"dificultar\". \"Acelerar\" diria o contrário do que a passagem constrói sobre o excesso de reuniões.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-239",
+   "texto_apoio": "Plastic in the ocean is usually pictured as bottles and bags, but by mass most of it is smaller than a grain of rice. That changes what can be done about it. Nets designed to collect floating debris catch the visible fraction and little else, and they catch fish as well. Researchers who study the problem argue that the only way to tackle it is upstream: fewer single-use items, better waste collection in the twenty rivers that carry most of the material to sea, and materials that break down where they are actually discarded.",
+   "enunciado": "In the text, the word \"tackle\" refers to the action of:",
+   "alternativas": {
+    "a": "keeping a problem out of public view for as long as possible",
+    "b": "measuring",
+    "c": "photographing",
+    "d": "dealing with a difficult problem",
+    "e": "celebrating"
+   },
+   "resposta": "d",
+   "explicacao": "O termo \"tackle\" abre a solução defendida pelos pesquisadores, detalhada nos três itens listados em seguida. Ele equivale a \"enfrentar\", \"atacar\" um problema. Medir e fotografar são ações que a passagem não propõe em nenhum momento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-240",
+   "texto_apoio": "When a new word enters a language, dictionaries do not add it immediately. Lexicographers wait to see whether the use is widespread, and whether it survives the season that produced it. The test is not how many people repeat a word in a single month but whether strangers who have never met use it in the same way, in writing, over several years. Most candidates fail. The ones that pass are rarely the clever coinages that journalists notice; more often they are dull, useful words that fill a gap nobody had named.",
+   "enunciado": "Which of these is a synonym of \"widespread\" as it is used in the text?",
+   "alternativas": {
+    "a": "written down in the official documents produced by governments",
+    "b": "found in many places",
+    "c": "recent",
+    "d": "amusing",
+    "e": "difficult to pronounce"
+   },
+   "resposta": "b",
+   "explicacao": "O termo \"widespread\" é explicado na frase seguinte: não basta muita gente repetir a palavra num mês, é preciso que desconhecidos a usem do mesmo modo. Ele equivale a \"difundido\", \"espalhado\", e não diz nada sobre ser recente, engraçado ou oficial.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-241",
+   "texto_apoio": "Vaccination campaigns often describe the people who do not come as opposed to vaccines. Surveys in several countries show a different picture. A large share are simply reluctant: they have not decided, they have a question nobody answered, or the clinic opens only when they are at work. Treating that group as an enemy pushes them towards the small minority that is genuinely opposed. Treating them as busy and unconvinced, and giving them ten minutes with someone who will answer the question, moves a surprising number of them within a single conversation.",
+   "enunciado": "In the text, the word \"reluctant\" means the same as:",
+   "alternativas": {
+    "a": "employed in the health system of their own countries",
+    "b": "well informed",
+    "c": "angry",
+    "d": "absent from the survey",
+    "e": "unwilling or hesitant"
+   },
+   "resposta": "e",
+   "explicacao": "O termo \"reluctant\" é definido pela enumeração que o segue: quem não decidiu, quem tem uma pergunta sem resposta, quem trabalha no horário da clínica. Ele equivale a \"hesitante\", e a passagem justamente o separa de quem é abertamente contrário.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-242",
+   "texto_apoio": "Museums have started lending pieces to the towns where they were originally found. The loans are short, and the objects return, but the effect on the smaller museum can last. Visitor numbers rise, local schools build a term around the visit, and the town council finds it easier to bolster the budget of a building that suddenly appears in the regional news. Curators in the large institutions worry about the logistics and the insurance. They also admit that a case standing empty for three months in the capital costs less than the goodwill it buys.",
+   "enunciado": "In the context of the passage, \"bolster\" is closest in meaning to:",
+   "alternativas": {
+    "a": "question in the public meetings of the town council",
+    "b": "cut",
+    "c": "strengthen",
+    "d": "publish",
+    "e": "delay"
+   },
+   "resposta": "c",
+   "explicacao": "O termo \"bolster\" descreve o que a câmara municipal faz com o orçamento de um museu que ganhou visibilidade, depois de duas frases sobre público e escolas. Ele equivale a \"reforçar\". Cortar ou adiar contrariariam a sequência de efeitos positivos descrita antes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-243",
+   "texto_apoio": "Remote work has changed the shape of the working day more than its length. People start earlier, stop later and take longer breaks in the middle, and the boundary between the job and everything else begins to blur. Companies that measured only hours logged were slow to notice. The employees who cope best are the ones who rebuild the boundary by hand: a walk that stands in for the commute, a room that is closed at seven, a phone left in a drawer. None of this is in any contract, and all of it decides whether the arrangement lasts.",
+   "enunciado": "In context, \"blur\" means:",
+   "alternativas": {
+    "a": "disappear from the schedule agreed in the contract",
+    "b": "become less clear",
+    "c": "grow stronger",
+    "d": "move earlier",
+    "e": "cost more"
+   },
+   "resposta": "b",
+   "explicacao": "O termo \"blur\" fecha a frase sobre horários que se espalham pelo dia, e a passagem mostra em seguida os empregados reconstruindo a fronteira à mão. Ele equivale a \"ficar difuso\", \"embaçar\" — a fronteira perde nitidez, mas não desaparece do contrato.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-244",
+   "texto_apoio": "Learning a language as an adult is often described as slower than learning one as a child, and in some ways it is. Adults hear fewer hours of speech a day and are more afraid of sounding foolish. They also start with an advantage that no four-year-old has: they already know how sentences work. The first month is daunting, because everything is unfamiliar at once. The second and third are usually faster than expected, and the people who quit almost always quit in the first four weeks, before the advantage has had a chance to show.",
+   "enunciado": "In the text, the word \"daunting\" means the same as:",
+   "alternativas": {
+    "a": "spent mostly on grammar exercises chosen by the teacher",
+    "b": "cheap",
+    "c": "silent",
+    "d": "encouraging",
+    "e": "discouraging and hard to face"
+   },
+   "resposta": "e",
+   "explicacao": "O termo \"daunting\" qualifica o primeiro mês e é justificado pela oração seguinte: tudo é desconhecido ao mesmo tempo. Ele equivale a \"intimidador\", e a passagem o usa para explicar por que a desistência se concentra nas quatro primeiras semanas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-245",
+   "texto_apoio": "Electric buses cost more to buy and less to run, which is why the cities that adopted them earliest were the ones with long planning horizons. Where budgets are approved year by year, fleets lag behind, because the saving arrives after the official who signed the purchase has left office. Engineers describe the problem as financial rather than technical: the batteries work, the routes are short enough, the depots can be adapted. What is missing is an accounting rule that lets a city count fuel it will not buy in ten years as money it has today.",
+   "enunciado": "The expression \"lag behind\" could be substituted, in this context, by:",
+   "alternativas": {
+    "a": "remain behind the others",
+    "b": "cost the same as the diesel fleet they were bought to replace",
+    "c": "advance faster",
+    "d": "break down often",
+    "e": "grow larger"
+   },
+   "resposta": "a",
+   "explicacao": "O termo \"lag behind\" descreve as frotas das cidades cujo orçamento é anual, em contraste com as que planejam a longo prazo. Ele equivale a \"ficar para trás\". A passagem atribui o atraso à contabilidade, e não a defeitos nem a preço de compra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-246",
+   "texto_apoio": "Public interest in a disaster follows a curve that relief agencies know well. Donations peak in the first ten days, while the images are still on the front page, and then wane sharply, even though the need is greater in month six than in week one. Agencies respond by asking for unrestricted money during the peak, so that they can spend it later, when nobody is watching. Donors dislike this, because unrestricted giving feels vague. The alternative is a warehouse full of blankets in a place that needed cash for local builders.",
+   "enunciado": "In the context of the passage, \"wane\" is closest in meaning to:",
+   "alternativas": {
+    "a": "reach the people who need help most in the affected region",
+    "b": "rise again",
+    "c": "decrease",
+    "d": "arrive late",
+    "e": "double"
+   },
+   "resposta": "c",
+   "explicacao": "O termo \"wane\" completa a curva que começa no pico dos dez primeiros dias e contrasta com a necessidade, maior no sexto mês. Ele equivale a \"minguar\", \"diminuir\". Subir de novo ou dobrar desfaria justamente a curva descrita na passagem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-247",
+   "texto_apoio": "Coral reefs bleach when the water stays too warm for too long, and a reef that bleaches once can recover. What kills it is frequency. Recovery takes about a decade, and heat waves in several regions now arrive every five or six years, which leaves the corals no time to rebuild. Some species cope with the heat better than others, and reefs are slowly becoming less varied as those species take over. A reef that survives in this way is still a reef, but it shelters fewer fish, and the fishing communities near it notice before the scientists publish.",
+   "enunciado": "The word \"cope with\" can be replaced, without loss of meaning, by:",
+   "alternativas": {
+    "a": "keep away from the region during the warmest months of the year",
+    "b": "produce",
+    "c": "measure",
+    "d": "deal with successfully",
+    "e": "suffer more from"
+   },
+   "resposta": "d",
+   "explicacao": "O termo \"cope with\" separa as espécies que resistem melhor ao calor daquelas que não resistem, e explica por que o recife empobrece sem morrer. Ele equivale a \"lidar bem com\", \"suportar\". \"Sofrer mais\" inverteria a relação entre as espécies descrita ali.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-248",
+   "texto_apoio": "Bicycles designed for rental fleets look clumsy next to a private bike, and that is deliberate. Every part that could be stolen is welded, the tyres are solid rather than inflated, and the frame is heavy enough to survive being dropped on a pavement several times a day. The result is sturdy and slow. Operators accept the weight because a bicycle that spends a week in a repair shop earns nothing, and because the average trip is under three kilometres. On that distance, riders notice reliability long before they notice speed.",
+   "enunciado": "In the text, the word \"sturdy\" means the same as:",
+   "alternativas": {
+    "a": "expensive to rent for short journeys around the city centre",
+    "b": "light",
+    "c": "silent",
+    "d": "fashionable",
+    "e": "strongly built"
+   },
+   "resposta": "e",
+   "explicacao": "O termo \"sturdy\" resume a lista anterior: peças soldadas, pneus maciços, quadro que aguenta quedas diárias. Ele equivale a \"robusto\" e vem colado a \"slow\", o que já afasta a ideia de leveza. Preço e estilo não estão em discussão no trecho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-249",
+   "texto_apoio": "Hospital audits usually count the events that end badly. A newer approach counts the ones that nearly did: the wrong dose caught by a pharmacist, the wrong patient noticed at the door of the operating theatre. These near misses outnumber the accidents by a wide margin, and they carry the same information at a far lower cost. Systems that only record harm overlook them, and so learn slowly. The obstacle is not technical. It is that a nurse who reports her own near miss has to trust that the report will not be used against her.",
+   "enunciado": "In the text, the word \"overlook\" refers to the action of:",
+   "alternativas": {
+    "a": "sending the reports that hospitals owe to the health authorities",
+    "b": "recording an event twice",
+    "c": "failing to notice something",
+    "d": "punishing",
+    "e": "explaining"
+   },
+   "resposta": "c",
+   "explicacao": "O termo \"overlook\" descreve o que os sistemas que registram apenas o dano fazem com os quase-erros, e por isso aprendem devagar. Ele equivale a \"deixar passar\", \"não enxergar\". Registrar duas vezes seria o oposto de ignorar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-250",
+   "texto_apoio": "Before software could read handwriting, every entry in a nineteenth-century ship's log had to be typed by a person. Climate scientists wanted the logs because they contain daily temperature and wind readings from places where no other record exists. The work was tedious, and universities could not pay for it, so it was given to volunteers on the internet, in slices of ten minutes. More than a million pages were transcribed in four years. The resulting dataset is now used to test the models that predict how storms will behave in the next century.",
+   "enunciado": "In the context of the passage, \"tedious\" is closest in meaning to:",
+   "alternativas": {
+    "a": "carried out by universities with money from national research agencies",
+    "b": "well paid",
+    "c": "quick",
+    "d": "long and dull",
+    "e": "dangerous"
+   },
+   "resposta": "d",
+   "explicacao": "O termo \"tedious\" explica por que a tarefa foi fatiada em blocos de dez minutos e entregue a voluntários. Ele equivale a \"maçante\", \"enfadonho\". A passagem diz o contrário de \"bem pago\" e de \"feito pelas universidades\", que não podiam custear o trabalho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-251",
+   "texto_apoio": "A supermarket throws away less food than most shoppers assume. The bulk of the loss happens earlier, on farms and in transport, where a crop can be left in the field because its price fell below the cost of picking it. Retailers are blamed because their waste is visible and photogenic; a bin behind a shop makes a better image than a field of unharvested onions. Campaigns that focus only on the shop can shift the problem upstream without reducing it, which is why some researchers now measure loss at every step before proposing anything.",
+   "enunciado": "The expression \"the bulk of\" is closest in meaning to:",
+   "alternativas": {
+    "a": "the largest part of",
+    "b": "the smallest and least studied share of",
+    "c": "the cost of",
+    "d": "the measurement of",
+    "e": "the end of"
+   },
+   "resposta": "a",
+   "explicacao": "O termo \"the bulk of\" abre a frase que desloca a perda do supermercado para a lavoura e o transporte, contrariando a suposição do comprador. Ele equivale a \"a maior parte de\". Ler como \"a menor parcela\" destruiria o argumento inteiro da passagem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-252",
+   "texto_apoio": "Iceland heats almost every building with hot water pumped from underground, which is possible because the island sits on a ridge where two plates pull apart. Countries without that geology can still tap into the ground, but at a different scale: a few metres down, the soil holds a steady temperature all year, and a pump can use it to warm a house in winter and cool it in summer. The equipment costs more than a boiler and lasts longer than two of them. Whether that is a good deal depends almost entirely on the price of electricity.",
+   "enunciado": "The expression \"tap into\" could be substituted, in this context, by:",
+   "alternativas": {
+    "a": "dig up and export to other countries in large quantities",
+    "b": "measure",
+    "c": "protect",
+    "d": "make use of",
+    "e": "cool down"
+   },
+   "resposta": "d",
+   "explicacao": "O termo \"tap into\" liga os países sem geologia vulcânica ao aproveitamento do solo raso, explicado logo depois pela descrição do solo raso. Ele equivale a \"recorrer a\", \"aproveitar\". Exportar ou proteger o solo não têm apoio em nenhuma parte do trecho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-253",
+   "texto_apoio": "Glaciers are measured in two ways, and the two disagree in a useful manner. Satellites show the surface area, which is easy to see and slow to change. Field teams drill for mass, which changes first. A glacier can shrink in mass for a decade while its outline stays roughly where it was, and then retreat quickly once the ice that held the front in place is gone. Reports based on area alone arrive late by design, and the sudden collapses that surprise the public were visible in the mass records years earlier.",
+   "enunciado": "In the text, the word \"shrink\" means the same as:",
+   "alternativas": {
+    "a": "be photographed by the satellites in orbit above the region",
+    "b": "become smaller",
+    "c": "move forward",
+    "d": "freeze",
+    "e": "grow"
+   },
+   "resposta": "b",
+   "explicacao": "O termo \"shrink\" descreve o que acontece com a massa da geleira enquanto o contorno permanece quase igual, e prepara o recuo súbito da frase seguinte. Ele equivale a \"encolher\". Avançar e crescer contrariam a sequência descrita ali.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-254",
+   "texto_apoio": "Small towns that lose young people often try to lure them back with tax breaks. The results are modest and expensive. What works better, in the few places that have measured it, is duller: reliable internet, a nursery with places available, and a bus that reaches the regional hospital. None of these is a reason to move on its own, and all of them remove a reason not to. The mayors who understand this stop advertising the landscape, which everyone already knows about, and start publishing the waiting list for the nursery.",
+   "enunciado": "The word \"lure\" can be replaced, without loss of meaning, by:",
+   "alternativas": {
+    "a": "employ in the public services of the region",
+    "b": "train",
+    "c": "attract",
+    "d": "count",
+    "e": "forbid"
+   },
+   "resposta": "c",
+   "explicacao": "O termo \"lure\" indica o que as cidades pequenas tentam fazer com os jovens que partiram, por meio de isenções fiscais. Ele equivale a \"atrair\". A passagem discute como atraí-los de volta, não como contratá-los, contá-los ou proibi-los.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-255",
+   "texto_apoio": "Weather forecasts have improved faster than public trust in them. A five-day forecast today is about as accurate as a two-day forecast was in 1980, and the numbers are checked openly. Forecasters remain cautious in their wording because a single confident prediction that fails is remembered for years, while a hundred quiet successes are not. Some services now publish probabilities rather than statements, and audiences dislike them at first. After a season, the same audiences use the numbers well, which is an argument for keeping them even when the first reaction is bad.",
+   "enunciado": "In the context of the passage, \"cautious\" is closest in meaning to:",
+   "alternativas": {
+    "a": "paid by the audiences that follow their published probabilities",
+    "b": "certain",
+    "c": "silent for most of the year",
+    "d": "careful about what they say",
+    "e": "hurried"
+   },
+   "resposta": "d",
+   "explicacao": "O termo \"cautious\" é justificado pela oração introduzida por \"because\": uma previsão confiante que falha fica na memória por anos. Ele equivale a \"cauteloso\", \"comedido\", e por isso \"certain\" e \"hurried\" caminham na direção contrária.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-256",
+   "texto_apoio": "For thirty years the advice on head injuries in sport was to rest for a day and return if the symptoms had gone. Mounting evidence from former players changed it. Brains examined after death showed damage in athletes who had never been knocked unconscious, only shaken repeatedly over a career. The new protocols keep players out for longer and treat the small impacts as the real risk. Coaches complain about the cost to their squads; the neurologists who wrote the rules reply that the cost is paid by someone either way.",
+   "enunciado": "In the text, the word \"mounting\" means the same as:",
+   "alternativas": {
+    "a": "increasing",
+    "b": "collected by the coaches during matches played over a full season",
+    "c": "unreliable",
+    "d": "disappearing",
+    "e": "expensive"
+   },
+   "resposta": "a",
+   "explicacao": "O termo \"mounting\" qualifica o conjunto de evidências que fez o protocolo mudar depois de trinta anos. Ele equivale a \"crescente\", \"que se acumula\". Uma evidência que desaparecesse ou fosse pouco confiável não explicaria a mudança de regra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-257",
+   "texto_apoio": "Airlines sell passengers the chance to offset a flight by paying for trees somewhere else. The arithmetic rarely survives inspection. A seedling planted this year stores carbon slowly, over decades, while the flight releases its share in a morning, and the forest has to survive fire, drought and the next landowner for the promise to hold. Some schemes are better than others, and the good ones are more expensive than the sums usually charged. The honest version of the product would cost enough to change behaviour, which is precisely why it is not the version sold.",
+   "enunciado": "The expression \"offset\" could be substituted, in this context, by:",
+   "alternativas": {
+    "a": "book in advance through the website of the company",
+    "b": "shorten",
+    "c": "cancel",
+    "d": "repeat",
+    "e": "compensate for"
+   },
+   "resposta": "e",
+   "explicacao": "O termo \"offset\" nomeia o produto vendido ao passageiro: pagar por árvores em outro lugar para equilibrar o carbono do voo. Ele equivale a \"compensar\". A aritmética discutida em seguida é justamente a da compensação, não a da compra da passagem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-258",
+   "texto_apoio": "Banning something is a blunt instrument, and governments reach for it because it is quick. A ban on a chemical removes it from shelves within a month, but it does not decide what replaces it, and the substitute is sometimes worse and always less studied. Regulators who work more slowly compare the candidates first and phase the old product out over years. The slow method produces better outcomes and worse headlines, which is a reasonable description of most environmental regulation that has actually worked.",
+   "enunciado": "In the context of the passage, \"blunt\" is closest in meaning to:",
+   "alternativas": {
+    "a": "forbidden in most of the countries that have tried it",
+    "b": "sharp",
+    "c": "lacking precision",
+    "d": "modern",
+    "e": "cheap"
+   },
+   "resposta": "c",
+   "explicacao": "O termo \"blunt\" qualifica a proibição e é explicado pelo que vem depois: ela tira o produto da prateleira, mas não escolhe o substituto. Ele equivale a \"grosseiro\", \"pouco preciso\" — o oposto de \"sharp\", que sugeriria exatamente a precisão que falta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-259",
+   "texto_apoio": "Two cities of the same population can differ by a factor of four in the energy their residents use for transport. What separates them is shape. Where housing sprawls outward in low, separated blocks, every errand becomes a drive, and public transport cannot reach enough doors to be worth running. Where the same people live closer together, the shop is a walk away and the bus fills up. Planners argue about towers and terraces, but the variable that matters is distance, and distance is decided decades before anyone complains about the traffic.",
+   "enunciado": "In the text, the verb \"sprawls\" means the same as:",
+   "alternativas": {
+    "a": "is rebuilt at intervals by the planners of the city",
+    "b": "rises quickly",
+    "c": "becomes cheaper",
+    "d": "disappears",
+    "e": "spreads out over a large area"
+   },
+   "resposta": "e",
+   "explicacao": "O termo \"sprawls\" vem seguido de \"outward in low, separated blocks\" e leva à conclusão de que cada tarefa vira uma viagem de carro. Ele equivale a \"espalhar-se\". \"Rises quickly\" descreveria verticalização, que é justamente o caso oposto no trecho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-260",
+   "texto_apoio": "Peer review is supposed to catch mistakes before publication, and it catches some. Studies that plant deliberate errors in a manuscript find that reviewers spot roughly a quarter of them, including most of the glaring ones and almost none of the subtle ones. The system is better understood as a filter than as a guarantee. What corrects science is what happens afterwards: replication, correspondence, and the slow discovery that a result nobody can reproduce is not a result. Treating publication as the end of the process is what produces the periodic scandals.",
+   "enunciado": "Which of these is a synonym of \"glaring\" as it is used in the text?",
+   "alternativas": {
+    "a": "introduced by the reviewers who read the manuscript",
+    "b": "printed in colour",
+    "c": "hidden",
+    "d": "very obvious",
+    "e": "small"
+   },
+   "resposta": "d",
+   "explicacao": "O termo \"glaring\" opõe-se a \"subtle\" na mesma frase: os revisores pegam quase todos os erros de um tipo e quase nenhum do outro. Ele equivale a \"gritante\", \"evidente\", e por isso \"hidden\" e \"small\" ficam do lado errado do contraste.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-261",
+   "texto_apoio": "After a bridge collapses, the usual response is to tighten inspection rules. The rules are rarely the problem. Inspectors in most countries already know which structures are worrying; what they lack is the budget to close one, because closing a bridge means diverting traffic and explaining the delay to people who cannot see the crack. Engineers describe the failure as political rather than technical. A country that funds repairs before the collapse gets no photograph and no ceremony, which is one reason so few of them do it.",
+   "enunciado": "The word \"tighten\" can be replaced, without loss of meaning, by:",
+   "alternativas": {
+    "a": "make stricter",
+    "b": "postpone for as long as the traffic diversion lasts",
+    "c": "translate",
+    "d": "abolish",
+    "e": "publish"
+   },
+   "resposta": "a",
+   "explicacao": "O termo \"tighten\" descreve a reação típica depois de um desabamento, logo desqualificada pela frase seguinte. Ele equivale a \"endurecer\", \"apertar\" as regras. \"Abolir\" inverteria a reação que a passagem atribui às autoridades.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-262",
+   "texto_apoio": "Shortages spread faster than the goods that cause them. When a fuel strike was announced in one country, sales rose by a third in two days, and the stations ran dry before a single tanker stopped moving. People who hoard are not behaving irrationally: if the queue is coming, joining it early is sensible for the individual and ruinous for the group. Governments that ask for calm are ignored. The measures that work limit the purchase per customer, which changes the arithmetic of joining the queue at all.",
+   "enunciado": "In context, \"hoard\" means:",
+   "alternativas": {
+    "a": "wait patiently in the queues formed at the fuel stations",
+    "b": "store up large amounts",
+    "c": "sell at a loss",
+    "d": "travel less",
+    "e": "complain"
+   },
+   "resposta": "b",
+   "explicacao": "O termo \"hoard\" nomeia o comportamento de quem antecipa a fila e leva os postos a secarem antes da greve. Ele equivale a \"estocar\", \"açambarcar\". Esperar na fila com paciência é justamente o que o trecho descreve como não acontecendo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-263",
+   "texto_apoio": "Countries arrive at climate conferences with pledges, and the gap between what is promised and what is delivered has become the main subject of study. A pledge costs nothing at the moment it is made, and the minister who makes it will not be in office on the date it falls due. Analysts have started scoring governments on the policies already written into law rather than on the targets announced, and the ranking changes considerably. The countries that look best under the new measure are rarely the ones that spoke longest at the conference.",
+   "enunciado": "In the text, the word \"pledge\" means the same as:",
+   "alternativas": {
+    "a": "a formal promise",
+    "b": "a payment made to the country that hosts the conference",
+    "c": "a fine",
+    "d": "a scientific report",
+    "e": "a delay"
+   },
+   "resposta": "a",
+   "explicacao": "O termo \"pledge\" é esclarecido pela distância entre o que se promete e o que se entrega, e pelo ministro que não estará no cargo na data do vencimento. Ele equivale a \"compromisso assumido\". Multa e relatório não cabem nessa relação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-264",
+   "texto_apoio": "Solar panels on a roof produce most of their power in the middle of the day, when many houses are empty. The main disadvantage is not the cost of the panel, which keeps falling, but the mismatch between the hours of production and the hours of use. Batteries close that gap and are still expensive. So does a tariff that pays well for what is sent to the grid at midday and charges little for what is drawn at eight in the evening. The second solution requires no new equipment at all.",
+   "enunciado": "In the context of the passage, \"mismatch\" is closest in meaning to:",
+   "alternativas": {
+    "a": "price paid by the owner of the roof to the electricity company",
+    "b": "lack of correspondence",
+    "c": "agreement",
+    "d": "measurement",
+    "e": "delay"
+   },
+   "resposta": "b",
+   "explicacao": "O termo \"mismatch\" liga as horas de produção às horas de consumo, que não coincidem, e é o que a bateria e a tarifa tentam resolver. Ele equivale a \"descompasso\". \"Agreement\" diria que os dois horários combinam, o contrário do trecho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-265",
+   "texto_apoio": "Algorithms that recommend videos are trained to keep people watching, and they learn quickly that outrage holds attention. Nobody wrote that instruction. It emerges from the target, and it can steer a whole audience towards material that none of its members would have chosen deliberately. Platforms that changed the target — rewarding videos that viewers rated highly a week later, rather than videos that were merely finished — reported less extreme recommendations and slightly lower watching time. The trade-off is real, and it is a business decision rather than an engineering one.",
+   "enunciado": "The expression \"steer\" could be substituted, in this context, by:",
+   "alternativas": {
+    "a": "count the number of viewers who watched each video to the end",
+    "b": "forbid",
+    "c": "reward",
+    "d": "shorten",
+    "e": "guide in a certain direction"
+   },
+   "resposta": "e",
+   "explicacao": "O termo \"steer\" descreve o efeito do alvo de treinamento sobre a audiência, levada a um material que ninguém escolheria por conta própria. Ele equivale a \"conduzir\", \"direcionar\". Proibir e recompensar são ações de outra natureza no trecho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-266",
+   "texto_apoio": "Scientific publishing is lopsided in a way that few outside it notice. Research from a handful of wealthy countries fills the journals that everyone reads, while work from the places where a disease is actually endemic appears in journals that are harder to find and rarely cited. The result is a literature that describes the world from a distance. Editors have begun to record where the data were collected alongside where the authors work, which is a small change that makes the imbalance visible on every page.",
+   "enunciado": "In the context of the passage, \"lopsided\" is closest in meaning to:",
+   "alternativas": {
+    "a": "written by the editors of the journals that everyone reads",
+    "b": "expensive to read",
+    "c": "unbalanced",
+    "d": "recent",
+    "e": "accurate"
+   },
+   "resposta": "c",
+   "explicacao": "O termo \"lopsided\" é retomado no fim do trecho pela palavra \"imbalance\", que a nova prática editorial torna visível. Ele equivale a \"desequilibrado\", \"torto\". Ser recente ou caro não descreveria a assimetria entre países que a passagem expõe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-267",
+   "texto_apoio": "When a city opens a new park, people flock to it in the first weeks and the numbers then settle at a level that surprises the planners. The stable figure depends less on the size of the park than on how many front doors are within a ten-minute walk. A large park at the edge of town serves fewer people than three small ones spread through the neighbourhoods, and costs more to maintain. Cities that measure the walk rather than the hectares end up building differently, and their parks are used on ordinary Tuesdays.",
+   "enunciado": "The word \"flock\" can be replaced, without loss of meaning, by:",
+   "alternativas": {
+    "a": "pay the entrance fee charged during the first weeks",
+    "b": "object",
+    "c": "stay away",
+    "d": "go in large numbers",
+    "e": "arrive late"
+   },
+   "resposta": "d",
+   "explicacao": "O termo \"flock\" descreve a corrida das primeiras semanas, contraposta ao número que se estabiliza depois. Ele equivale a \"acorrer em massa\". \"Stay away\" desmontaria o contraste entre a novidade e o uso rotineiro do parque.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-268",
+   "texto_apoio": "The number of people who can read a manuscript written in a regional hand of the sixteenth century has begun to dwindle. Universities closed the courses because the classes were small, and the archives that depend on those skills now compete for the same dozen specialists. Software can help with the clean pages and fails on the ones that matter, where the ink has faded and the scribe was in a hurry. Archivists describe the loss as slow and quiet: nothing burns, and one day the box simply cannot be read.",
+   "enunciado": "In context, \"dwindle\" means:",
+   "alternativas": {
+    "a": "be trained in the universities that closed the courses",
+    "b": "become fewer",
+    "c": "increase steadily",
+    "d": "disagree",
+    "e": "move abroad"
+   },
+   "resposta": "b",
+   "explicacao": "O termo \"dwindle\" abre o texto e é confirmado pelo fechamento dos cursos e pela disputa por uma dúzia de especialistas. Ele equivale a \"diminuir aos poucos\". Crescer contrariaria a perda lenta e silenciosa descrita no fecho do parágrafo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-269",
+   "texto_apoio": "A telescope that surveys the whole sky produces more images in a night than a team could examine in a year. Astronomers train software to sift through the frames and flag the few thousand that changed since the previous pass. Most of the flags turn out to be aircraft, satellites or dust on the mirror. A small remainder are exploding stars, and the value of the survey rests entirely on how quickly those can be separated from the noise and pointed at by a second instrument before the light fades.",
+   "enunciado": "The expression \"sift through\" could be substituted, in this context, by:",
+   "alternativas": {
+    "a": "photograph the whole sky once in each night of the year",
+    "b": "delete",
+    "c": "enlarge",
+    "d": "examine in order to select",
+    "e": "ignore"
+   },
+   "resposta": "d",
+   "explicacao": "O termo \"sift through\" descreve o que o programa faz com as imagens antes de marcar as poucas milhares que mudaram. Ele equivale a \"peneirar\", \"vasculhar para separar\". Apagar ou ignorar os quadros tornaria a marcação seguinte impossível.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-270",
+   "texto_apoio": "The cost of sequencing a human genome fell from about three billion dollars to under a thousand in twenty years, a staggering drop by any standard in industry. What did not fall at the same rate was the cost of interpreting the result. A sequence is a list; turning it into advice for a patient requires a specialist, a database of variants seen in other people, and a conversation about what will be done with an answer nobody asked for. Clinics now spend more on the second half than on the first.",
+   "enunciado": "In the text, the word \"staggering\" means the same as:",
+   "alternativas": {
+    "a": "extremely large",
+    "b": "measured in the databases used by clinics in several countries",
+    "c": "gradual",
+    "d": "temporary",
+    "e": "predicted"
+   },
+   "resposta": "a",
+   "explicacao": "O termo \"staggering\" qualifica a queda de três bilhões para menos de mil dólares, apresentada como fora do comum em qualquer setor. Ele equivale a \"impressionante\". \"Gradual\" apagaria justamente a magnitude que a comparação numérica constrói.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-271",
+   "texto_apoio": "Mobile coverage on a national map looks complete, because the map is drawn by population. Coverage measured by area is patchy, and the gaps sit where the users are few and the terrain is expensive: valleys, long stretches of road, the last kilometre of a farm track. Operators have no commercial reason to close them, and the people affected are too dispersed to form a lobby. Where the gaps have been closed, it was by pooling the masts of competing companies, which regulators had to require rather than request.",
+   "enunciado": "In the context of the passage, \"patchy\" is closest in meaning to:",
+   "alternativas": {
+    "a": "measured by the companies that agreed to share their masts",
+    "b": "expensive to draw",
+    "c": "complete",
+    "d": "recent",
+    "e": "uneven and incomplete"
+   },
+   "resposta": "e",
+   "explicacao": "O termo \"patchy\" descreve a cobertura medida por área, e a enumeração seguinte lista os vazios: vales, trechos de estrada, o último quilômetro. Ele equivale a \"irregular\", \"cheia de falhas\" — o contrário de \"complete\", que vale para o mapa por população.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-272",
+   "texto_apoio": "Spelling reform has been proposed in English roughly once a generation, and it has failed each time. The habits are entrenched: millions of people learned the current forms at school, printed material would age overnight, and the first country to change would find its books harder to sell abroad. Linguists point out that the difficulty is not the argument, which was won long ago, but the coordination. Everyone would have to move at once, and there is no institution with the authority to make that happen.",
+   "enunciado": "The word \"entrenched\" can be replaced, without loss of meaning, by:",
+   "alternativas": {
+    "a": "taught in the schools of the countries that print the books",
+    "b": "recent",
+    "c": "firmly established",
+    "d": "weak",
+    "e": "expensive"
+   },
+   "resposta": "c",
+   "explicacao": "O termo \"entrenched\" é sustentado pelos três motivos listados em seguida: milhões escolarizados na forma atual, material impresso que envelheceria, livros mais difíceis de vender. Ele equivale a \"arraigado\", e não a \"recente\" ou \"frágil\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-273",
+   "texto_apoio": "Prizes offered for a specific technical achievement have a mixed record. A prize can spur teams to attempt something that no single company would fund alone, and the total spent by the competitors usually exceeds the prize by a wide margin. It can also pull effort towards a narrow goal that turns out to be the wrong one. The competitions that worked defined the target loosely enough to allow surprises, and paid for the attempt rather than only for the win, which kept smaller teams in the field.",
+   "enunciado": "The expression \"spur\" could be substituted, in this context, by:",
+   "alternativas": {
+    "a": "select the winner among the teams that entered the competition",
+    "b": "pay",
+    "c": "prevent",
+    "d": "measure",
+    "e": "encourage to act"
+   },
+   "resposta": "e",
+   "explicacao": "O termo \"spur\" descreve o efeito positivo do prêmio: fazer equipes tentarem o que nenhuma empresa financiaria sozinha. Ele equivale a \"estimular\". \"Prevent\" inverteria o efeito, e escolher o vencedor é uma etapa posterior no trecho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-274",
+   "texto_apoio": "Farmers who tried precision agriculture early are the ones most wary of it now. The sensors work, and the maps of a field are genuinely useful. What went wrong was ownership: the data left the farm, and the company that held it sold advice back to the farmer and, in some cases, to the buyer negotiating the price of his harvest. Cooperatives in several countries responded by building their own platforms, slower and less polished, on the principle that the map of a field should belong to whoever walks it.",
+   "enunciado": "In the context of the passage, \"wary\" is closest in meaning to:",
+   "alternativas": {
+    "a": "distrustful",
+    "b": "employed by the companies that sell advice to farmers",
+    "c": "enthusiastic",
+    "d": "wealthy",
+    "e": "young"
+   },
+   "resposta": "a",
+   "explicacao": "O termo \"wary\" descreve os agricultores pioneiros depois de descobrirem para onde iam os seus dados. Ele equivale a \"desconfiado\", \"receoso\". \"Enthusiastic\" contrariaria a reação que levou as cooperativas a criarem plataformas próprias.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "med-ingles-275",
+   "texto_apoio": "A single tooth found in a Siberian cave has shed light on a population that left almost nothing else behind. The DNA inside it did not match any known group, and the genome it produced showed that these people met and had children with the ancestors of some living populations. Nothing in the cave prepared anyone for such a finding, and no bone large enough to identify has been recovered since. The episode is quoted in laboratories as an argument for keeping fragments that earlier excavations would have discarded.",
+   "enunciado": "The expression \"shed light on\" is closest in meaning to:",
+   "alternativas": {
+    "a": "recovered from the caves excavated in the region",
+    "b": "destroyed",
+    "c": "made something clearer",
+    "d": "hidden",
+    "e": "measured"
+   },
+   "resposta": "c",
+   "explicacao": "O termo \"shed light on\" descreve o efeito de um único dente sobre o conhecimento de uma população quase sem vestígios, detalhado nas frases seguintes sobre o DNA. Ele equivale a \"esclarecer\", \"lançar luz sobre\" — o oposto de esconder ou destruir.",
+   "formato": "direta",
    "origem": "medicina"
   }
  ]

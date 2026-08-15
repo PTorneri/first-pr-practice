@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-15",
  "frente": "ingles",
- "total": 442,
+ "total": 492,
  "residuo": [
   "med-ingles-44",
   "med-ingles-46",
@@ -2557,6 +2557,306 @@
    "frenteDestino": "ingles",
    "pontos": 5,
    "margem": 5
+  },
+  "med-ingles-233": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-234": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-235": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-236": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-237": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-238": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 18,
+   "margem": 18
+  },
+  "med-ingles-239": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-240": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-241": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-242": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-243": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-244": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-245": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 18,
+   "margem": 18
+  },
+  "med-ingles-246": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-247": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-ingles-248": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-249": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-250": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-251": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 19,
+   "margem": 19
+  },
+  "med-ingles-252": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 18,
+   "margem": 18
+  },
+  "med-ingles-253": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-254": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-255": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-256": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-257": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 18,
+   "margem": 18
+  },
+  "med-ingles-258": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-259": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-260": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-261": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-262": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-263": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-264": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-265": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 18,
+   "margem": 18
+  },
+  "med-ingles-266": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-267": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-268": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-269": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 18,
+   "margem": 18
+  },
+  "med-ingles-270": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-271": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-272": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-273": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 18,
+   "margem": 18
+  },
+  "med-ingles-274": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-275": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 19,
+   "margem": 19
+  },
+  "med-ingles-276": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-277": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-278": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-279": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-ingles-280": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-ingles-281": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-ingles-282": {
+   "subtema": "ingles-main-idea",
+   "frenteDestino": "ingles",
+   "pontos": 10,
+   "margem": 10
   }
  }
 }

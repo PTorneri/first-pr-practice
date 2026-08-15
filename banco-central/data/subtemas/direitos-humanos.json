@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-15",
  "frente": "direitos-humanos",
- "total": 188,
+ "total": 225,
  "residuo": [
   "dir-direitos-humanos-09",
   "dir-direitos-humanos-27",
@@ -1132,6 +1132,228 @@
    "frenteDestino": "direitos-humanos",
    "pontos": 10,
    "margem": 10
+  },
+  "dir-direitos-humanos-189": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-190": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-191": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-192": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-193": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-194": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-195": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-196": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-direitos-humanos-197": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-198": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-direitos-humanos-199": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-200": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-201": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-direitos-humanos-202": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-203": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-204": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-205": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-direitos-humanos-206": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-207": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-208": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-direitos-humanos-209": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-210": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-211": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-212": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-direitos-humanos-213": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-direitos-humanos-214": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 19,
+   "margem": 19
+  },
+  "dir-direitos-humanos-215": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-direitos-humanos-216": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-217": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-218": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-219": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 9
+  },
+  "dir-direitos-humanos-220": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-221": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-222": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 9,
+   "margem": 9
+  },
+  "dir-direitos-humanos-223": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-direitos-humanos-224": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-225": {
+   "subtema": "dh-constitucional",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
   }
  }
 }

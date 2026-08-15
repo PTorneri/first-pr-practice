@@ -2885,6 +2885,561 @@
                          "resposta":  "c",
                          "explicacao":  "A responsabilidade de proteger inverte o sentido clássico da soberania: ela deixa de ser escudo contra a ingerência e passa a implicar um dever perante a própria população, cuja falha grave habilita a ação coletiva. É a resposta institucional do sistema internacional de proteção aos episódios de Ruanda e da Bósnia nos anos 1990. Seu uso permanece contestado, porque a mesma linguagem de direitos humanos já serviu de justificativa a intervenções de motivação estratégica.",
                          "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-189",
+                         "texto_apoio":  "Uma proposta de emenda pretende substituir a escolha do chefe do Executivo federal pelo voto popular por uma indicação feita pelo Congresso.",
+                         "enunciado":  "À luz da Constituição de 1988, o obstáculo que essa proposta encontra é:",
+                         "alternativas":  {
+                                              "a":  "a exigência de maioria simples nas duas casas legislativas, quórum que o texto proposto dificilmente alcançaria em votação nominal",
+                                              "b":  "o limite material que protege o voto direto, secreto e periódico contra emenda tendente a aboli-lo",
+                                              "c":  "a necessidade de referendo popular prévio, condição que a Carta impõe às alterações do processo eleitoral brasileiro",
+                                              "d":  "a competência privativa do Poder Judiciário para autorizar mudanças no sistema de escolha dos ocupantes de cargos eletivos federais",
+                                              "e":  "a proibição de emendar o texto constitucional antes de decorridos cinco anos de sua última reforma aprovada pelo Congresso"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "As cláusulas pétreas do art. 60, § 4º, da Constituição de 1988 vedam a deliberação de emenda tendente a abolir o voto direto, secreto, universal e periódico. O limite é material: não impede o debate sobre o sistema de governo, mas impede suprimir o núcleo do sufrágio. O controle de constitucionalidade dessa proposta pode ser provocado ainda durante a tramitação, porque o vício está no próprio processo legislativo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-190",
+                         "texto_apoio":  "Um juiz de primeiro grau, ao julgar uma cobrança de tributo municipal, deixa de aplicar a lei que a instituiu por entendê-la incompatível com a Constituição, e decide o caso a favor do contribuinte.",
+                         "enunciado":  "Essa atuação do magistrado corresponde ao:",
+                         "alternativas":  {
+                                              "a":  "controle difuso de constitucionalidade, cujos efeitos alcançam, em regra, as partes daquele processo",
+                                              "b":  "controle concentrado de constitucionalidade, reservado ao órgão de cúpula do Poder Judiciário e com eficácia geral desde a publicação do acórdão",
+                                              "c":  "veto jurisdicional, instrumento pelo qual o magistrado devolve a lei ao Legislativo municipal para nova deliberação sobre o texto rejeitado",
+                                              "d":  "descumprimento de preceito fundamental, ação que a Carta reserva a legitimados específicos e que tramita perante o tribunal superior",
+                                              "e":  "recurso extraordinário de ofício, mecanismo que remete a controvérsia diretamente ao órgão de cúpula sem provocação da parte interessada"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "No controle difuso, todo órgão do Poder Judiciário pode reconhecer a incompatibilidade de uma norma com a Constituição de 1988 no caso concreto, e a decisão vale entre as partes. É o modelo incidental, que convive no Brasil com o concentrado. A distinção entre os dois é a espinha dorsal do controle de constitucionalidade brasileiro.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-191",
+                         "texto_apoio":  "Um estudante é impedido de deixar o campus por seguranças particulares depois de participar de um protesto, sem ordem judicial que justifique a retenção.",
+                         "enunciado":  "O remédio constitucional adequado para fazer cessar a restrição é o:",
+                         "alternativas":  {
+                                              "a":  "mandado de segurança, cabível diante de direito líquido e certo lesado por autoridade quando não amparado por outro remédio específico",
+                                              "b":  "habeas data, destinado a assegurar o conhecimento e a retificação de informações sobre a pessoa constantes de registros públicos",
+                                              "c":  "habeas corpus, que protege a liberdade de locomoção contra restrição ilegal, ainda que praticada por particular",
+                                              "d":  "mandado de injunção, voltado a suprir a ausência de norma que inviabilize o exercício de prerrogativa assegurada pela Carta",
+                                              "e":  "recurso ordinário constitucional, que devolve ao tribunal superior a apreciação de decisão denegatória proferida em instância única"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O habeas corpus tutela a liberdade de ir e vir contra coação ilegal, e o texto constitucional não restringe seu cabimento a atos de agentes estatais. O mandado de segurança é residual: só cabe quando o direito líquido e certo não estiver protegido por habeas corpus ou habeas data. Distinguir os remédios pelo bem jurídico que cada um tutela é o eixo da questão.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-192",
+                         "texto_apoio":  "Servidora estável é demitida por decisão administrativa fundamentada em relatório sigiloso, do qual não teve vista e sobre o qual não pôde se manifestar antes da decisão final.",
+                         "enunciado":  "O vício que compromete esse ato administrativo é a violação:",
+                         "alternativas":  {
+                                              "a":  "da legalidade estrita, princípio que impede a administração de instaurar procedimento disciplinar sem prévia autorização legislativa específica",
+                                              "b":  "da irredutibilidade de vencimentos, prerrogativa que impede a interrupção do pagamento antes do trânsito em julgado da decisão administrativa",
+                                              "c":  "do juiz natural, na medida em que a apuração disciplinar deveria ter sido conduzida por órgão do Poder Judiciário previamente designado",
+                                              "d":  "do contraditório e da ampla defesa, que a Constituição de 1988 estende ao processo administrativo",
+                                              "e":  "da anterioridade, que condiciona a eficácia de sanções disciplinares ao exercício seguinte àquele em que o ato foi praticado"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O art. 5º, LV, da Constituição assegura o contraditório e a ampla defesa aos litigantes em processo judicial e administrativo. Decidir com base em elemento que a interessada não conheceu esvazia a defesa e contraria o devido processo legal. É um dos temas em que o Poder Judiciário mais anula atos da administração.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-193",
+                         "texto_apoio":  "Um decreto do Executivo cria uma obrigação nova para empresas de transporte, sem que lei anterior tivesse previsto o dever imposto.",
+                         "enunciado":  "O princípio constitucional diretamente contrariado é o da:",
+                         "alternativas":  {
+                                              "a":  "eficiência, que impõe à administração o dever de escolher o meio menos oneroso entre as alternativas disponíveis para atingir o mesmo fim",
+                                              "b":  "publicidade, uma vez que atos normativos do Executivo só produzem efeitos depois de submetidos a consulta pública previamente regulamentada",
+                                              "c":  "moralidade administrativa, que veda ao agente público perseguir finalidade diversa daquela indicada de modo expresso no ato editado",
+                                              "d":  "impessoalidade, que proíbe a administração de dirigir comandos normativos a um setor econômico determinado sem justificar a escolha feita",
+                                              "e":  "legalidade, pois ninguém é obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A legalidade, no art. 5º, II, da Constituição de 1988, condiciona a criação de deveres à existência de lei. Decreto pode regulamentar, não inovar na ordem jurídica criando obrigação nova. É o limite clássico do poder normativo do Executivo e um dos pilares do Estado democrático de direito.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-194",
+                         "texto_apoio":  "O Congresso aprova lei que transfere ao Legislativo a competência para nomear e destituir livremente os dirigentes de agências reguladoras federais.",
+                         "enunciado":  "A objeção constitucional a essa lei apoia-se no princípio da:",
+                         "alternativas":  {
+                                              "a":  "separação dos poderes, que veda a um poder absorver atribuição típica de outro sem previsão constitucional",
+                                              "b":  "reserva de plenário, que condiciona a declaração de inconstitucionalidade nos tribunais ao voto da maioria absoluta de seus membros",
+                                              "c":  "simetria federativa, segundo a qual estados e municípios devem reproduzir em suas constituições o desenho institucional adotado na esfera federal",
+                                              "d":  "continuidade administrativa, que protege o mandato dos dirigentes de órgãos técnicos contra a alternância dos governos eleitos periodicamente",
+                                              "e":  "supremacia do interesse público, que autoriza a revisão dos atos de nomeação diante de conveniência reconhecida pela administração"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A separação dos poderes, art. 2º da Constituição, organiza a distribuição de funções e admite interferências recíprocas somente nas hipóteses que o próprio texto prevê. Transferir ao Legislativo a nomeação e a destituição livres de dirigentes do Executivo desloca função típica e desequilibra o sistema de freios e contrapesos.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-195",
+                         "texto_apoio":  "Um partido com representação no Congresso questiona, perante o órgão de cúpula do Poder Judiciário, a validade de lei federal em tese, sem discutir caso concreto.",
+                         "enunciado":  "O instrumento processual utilizado é a:",
+                         "alternativas":  {
+                                              "a":  "reclamação constitucional, cabível para preservar a competência do tribunal ou a autoridade de suas decisões anteriores já publicadas",
+                                              "b":  "ação direta de inconstitucionalidade, própria do controle concentrado e com eficácia geral",
+                                              "c":  "arguição incidental de inconstitucionalidade, suscitada no curso de processo subjetivo e resolvida antes do julgamento do mérito da causa",
+                                              "d":  "representação interventiva, voltada a apurar descumprimento de princípio sensível por unidade federada e a viabilizar a intervenção federal",
+                                              "e":  "suspensão de liminar, requerimento dirigido à presidência do tribunal para sustar decisão que cause lesão à ordem administrativa vigente"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A ação direta de inconstitucionalidade é a via do controle concentrado, sem caso concreto, e sua decisão vale contra todos e vincula os demais órgãos. O contraste com o controle difuso, incidental e entre as partes, é o eixo da questão. A Constituição de 1988 ampliou muito o rol de legitimados para propô-la.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-196",
+                         "texto_apoio":  "Determinado município edita lei que fixa regras próprias sobre o serviço de transporte coletivo dentro de seus limites territoriais.",
+                         "enunciado":  "Na repartição de competências desenhada pela Constituição de 1988, essa lei é:",
+                         "alternativas":  {
+                                              "a":  "inválida, pois a organização de serviços de transporte foi reservada de modo privativo à União em razão de seu alcance interestadual",
+                                              "b":  "inválida, uma vez que a Carta atribuiu aos estados a competência residual sobre serviços que os municípios executem em seu próprio território",
+                                              "c":  "válida, porque o município legisla sobre assunto de interesse local e organiza os serviços públicos que presta",
+                                              "d":  "válida, mas condicionada à prévia autorização legislativa do estado ao qual o município pertence, na forma de convênio de delegação",
+                                              "e":  "válida somente enquanto inexistir norma geral federal, e a competência municipal se torna suplementar depois da edição dela"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O art. 30 da Constituição confere ao município competência para legislar sobre assuntos de interesse local e organizar e prestar os serviços públicos de interesse local, incluído o transporte coletivo. A federação brasileira é de três níveis, e essa autonomia municipal é uma de suas marcas distintivas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-197",
+                         "texto_apoio":  "Uma norma constitucional afirma que determinada prerrogativa será exercida nos termos da lei, e o Congresso permanece anos sem editar a regulamentação.",
+                         "enunciado":  "O instrumento previsto para enfrentar essa omissão, em favor de quem se vê impedido de exercer a prerrogativa, é o:",
+                         "alternativas":  {
+                                              "a":  "mandado de segurança coletivo, impetrado por entidade de classe em defesa dos interesses de seus filiados diante de ato de autoridade",
+                                              "b":  "habeas data, destinado a permitir o acesso a registros e a correção de dados constantes de bancos mantidos por entidades públicas",
+                                              "c":  "recurso extraordinário, admitido quando a decisão recorrida contraria dispositivo constitucional e a controvérsia apresenta repercussão geral",
+                                              "d":  "mandado de injunção, cabível quando a falta de norma regulamentadora inviabiliza o exercício de direito assegurado pela Carta",
+                                              "e":  "pedido de providências, dirigido ao conselho de administração do tribunal competente para determinar o suprimento da lacuna normativa apontada"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O mandado de injunção, art. 5º, LXXI, ataca a omissão normativa que torna inviável o exercício de prerrogativa constitucional. Não se confunde com a ação direta por omissão, do controle concentrado. É um dos remédios que a Constituição de 1988 criou e que não existiam no desenho anterior.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-198",
+                         "texto_apoio":  "Uma lei estadual é editada em 1985. Com a promulgação da Constituição de 1988, discute-se se ela continua a produzir efeitos.",
+                         "enunciado":  "Se a lei antiga é materialmente compatível com o novo texto, ela:",
+                         "alternativas":  {
+                                              "a":  "perde a validade de imediato, porque a promulgação de uma nova Carta revoga em bloco a legislação anterior e exige reedição integral",
+                                              "b":  "fica suspensa até que o Legislativo estadual confirme seu texto por votação específica realizada no primeiro ano da nova ordem",
+                                              "c":  "converte-se automaticamente em norma de estatura constitucional, passando a integrar o rol de dispositivos protegidos contra emenda",
+                                              "d":  "somente subsiste se o órgão de cúpula do Poder Judiciário reconhecer sua compatibilidade em ação própria de controle concentrado",
+                                              "e":  "é recepcionada e continua vigente, ainda que tenha sido aprovada sob processo legislativo diverso do atual"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A recepção preserva a norma anterior compatível em conteúdo com a nova Constituição, sem exigir identidade de forma no processo legislativo. A incompatibilidade material, essa sim, revoga. O tema separa a análise de constitucionalidade da análise de vigência no tempo.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-199",
+                         "texto_apoio":  "Um tribunal de justiça, ao julgar apelação, decide por seu órgão fracionário afastar a aplicação de lei estadual por considerá-la incompatível com a Constituição.",
+                         "enunciado":  "O procedimento contraria a exigência constitucional de:",
+                         "alternativas":  {
+                                              "a":  "reserva de plenário, pela qual a inconstitucionalidade só pode ser declarada pelo voto da maioria absoluta do tribunal ou de seu órgão especial",
+                                              "b":  "duplo grau de jurisdição, garantia que impede o tribunal de decidir matéria constitucional antes de manifestação do juízo de primeiro grau",
+                                              "c":  "prévia oitiva do procurador-geral do estado, sem a qual o órgão fracionário fica impedido de examinar a validade de norma estadual editada e ainda em vigor naquela unidade federada",
+                                              "d":  "modulação de efeitos, providência obrigatória nas decisões que reconheçam vício de constitucionalidade em norma editada por unidade federada",
+                                              "e":  "repercussão geral, requisito de admissibilidade que a Carta estendeu ao exame de questões constitucionais nas diversas instâncias do Judiciário"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O art. 97 da Constituição de 1988 institui a cláusula de reserva de plenário: nos tribunais, a inconstitucionalidade depende do voto da maioria absoluta dos membros ou do órgão especial. É salvaguarda da presunção de validade das leis e limite ao controle difuso exercido em segundo grau.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-200",
+                         "texto_apoio":  "Uma norma constitucional declara que o Estado promoverá a defesa do consumidor na forma da lei. Outra declara que a casa é asilo inviolável do indivíduo.",
+                         "enunciado":  "A comparação entre as duas revela que a segunda é norma de eficácia:",
+                         "alternativas":  {
+                                              "a":  "contida, porque admite restrição por lei posterior, ao passo que a primeira produz efeitos independentemente de regulamentação futura",
+                                              "b":  "plena, aplicável desde a promulgação, enquanto a primeira depende de integração legislativa",
+                                              "c":  "limitada, já que sua aplicação supõe a edição de normas infraconstitucionais, situação inversa à da primeira, de incidência imediata",
+                                              "d":  "programática, na medida em que fixa fim a ser perseguido pelo poder público sem descrever conduta exigível de imediato pelo particular",
+                                              "e":  "diferida, uma vez que o constituinte condicionou sua incidência ao decurso do prazo de transição fixado no ato das disposições transitórias"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A inviolabilidade do domicílio incide desde logo, sem depender de lei que a viabilize: é norma de eficácia plena. Já a promessa de defesa do consumidor na forma da lei é de eficácia limitada, dependente de integração legislativa. A classificação organiza a leitura de todo o catálogo de direitos fundamentais da Carta.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-201",
+                         "texto_apoio":  "Durante uma investigação, a autoridade determina o acesso ao conteúdo de mensagens trocadas por aplicativo, sem autorização judicial, invocando urgência.",
+                         "enunciado":  "A medida é incompatível com a Constituição porque o sigilo das comunicações:",
+                         "alternativas":  {
+                                              "a":  "é absoluto no texto de 1988, de modo que o conteúdo de mensagens não pode ser acessado nem mesmo mediante ordem judicial fundamentada",
+                                              "b":  "cede diante de simples decisão administrativa motivada, desde que a autoridade registre por escrito as razões de urgência que a levaram a agir",
+                                              "c":  "só cede por ordem judicial, nas hipóteses e na forma que a lei estabelecer",
+                                              "d":  "está protegido somente em relação a correspondência escrita, não alcançando comunicações eletrônicas surgidas depois da promulgação da Carta",
+                                              "e":  "pode ser afastado por deliberação do órgão colegiado da própria corporação responsável pela investigação, dispensada a intervenção externa"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O art. 5º, XII, da Constituição submete a quebra do sigilo das comunicações à reserva de jurisdição: é o Poder Judiciário que autoriza, nas hipóteses e na forma da lei. A urgência não desloca essa competência. O caso ilustra o devido processo legal como limite à atividade investigativa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-202",
+                         "texto_apoio":  "Aprovada uma emenda que amplia o prazo de mandato dos ocupantes de cargos eletivos federais, discute-se a partir de quando ela se aplica.",
+                         "enunciado":  "A regra constitucional que impede sua incidência sobre a eleição marcada para dali a três meses é a:",
+                         "alternativas":  {
+                                              "a":  "irretroatividade das leis, que impede a incidência de norma posterior sobre situações constituídas antes de sua entrada em vigor no ordenamento",
+                                              "b":  "vacatio legis obrigatória de cento e oitenta dias, imposta pela Carta a emendas que modifiquem o desenho dos mandatos eletivos federais",
+                                              "c":  "reserva de iniciativa, segundo a qual matéria eleitoral depende de proposta encaminhada pelo chefe do Executivo ao Congresso Nacional",
+                                              "d":  "anterioridade eleitoral, que afasta a aplicação à eleição realizada até um ano da data de vigência da lei que altera o processo eleitoral",
+                                              "e":  "convalidação diferida, que condiciona a eficácia da emenda à confirmação por dois terços das assembleias legislativas estaduais existentes"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O art. 16 da Constituição de 1988 determina que a lei que altera o processo eleitoral entra em vigor de imediato, mas não se aplica à eleição que ocorra até um ano da data de sua vigência. É proteção das regras do jogo democrático, ligada ao Estado democrático de direito, e alcança também emendas constitucionais.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-203",
+                         "texto_apoio":  "Um cidadão pede a uma autarquia federal cópia dos dados pessoais que ela mantém a seu respeito e a correção de uma informação equivocada. O pedido é negado.",
+                         "enunciado":  "O remédio constitucional cabível é o:",
+                         "alternativas":  {
+                                              "a":  "mandado de injunção, próprio para os casos em que a ausência de norma regulamentadora inviabiliza o exercício de prerrogativa constitucional",
+                                              "b":  "habeas corpus, cabível nas situações em que ato de autoridade administrativa produza constrangimento ilegal ao interessado no âmbito de um procedimento",
+                                              "c":  "mandado de segurança coletivo, único instrumento adequado quando a recusa parte de entidade integrante da administração indireta federal",
+                                              "d":  "recurso ordinário constitucional, dirigido ao tribunal superior competente para reexaminar a negativa proferida pela autoridade administrativa",
+                                              "e":  "habeas data, voltado ao conhecimento e à retificação de informações sobre a pessoa constantes de registros de entidades governamentais"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O habeas data, art. 5º, LXXII, assegura o conhecimento de informações relativas à pessoa do impetrante constantes de registros de entidades governamentais e a retificação desses dados. O mandado de segurança é residual e não desloca o remédio específico previsto para essa finalidade.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-204",
+                         "texto_apoio":  "Uma lei federal é declarada inconstitucional em ação do controle concentrado, e o tribunal decide preservar os efeitos já produzidos até a data do julgamento.",
+                         "enunciado":  "A providência adotada denomina-se:",
+                         "alternativas":  {
+                                              "a":  "modulação dos efeitos da decisão, admitida por razões de segurança jurídica ou de excepcional interesse social",
+                                              "b":  "recepção parcial da norma impugnada, técnica pela qual o tribunal conserva os dispositivos compatíveis e afasta os incompatíveis com a Carta",
+                                              "c":  "interpretação conforme a Constituição, pela qual se escolhe entre os sentidos possíveis do texto aquele que o mantém dentro do quadro constitucional",
+                                              "d":  "declaração de nulidade sem redução de texto, em que o dispositivo permanece no ordenamento mas deixa de incidir sobre determinada classe de casos",
+                                              "e":  "suspensão cautelar de eficácia, deferida em caráter provisório enquanto o mérito da ação de controle concentrado não é definitivamente apreciado"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A modulação permite ao tribunal fixar o momento a partir do qual a decisão de inconstitucionalidade produz efeitos, afastando a regra da retroação plena quando a segurança jurídica ou o interesse social o justificarem. É instrumento típico do controle de constitucionalidade concentrado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-205",
+                         "texto_apoio":  "Um deputado profere, da tribuna da Câmara, críticas duras a um ministro de Estado, e este pretende responsabilizá-lo civilmente pelas palavras ditas.",
+                         "enunciado":  "O obstáculo constitucional à pretensão do ministro é:",
+                         "alternativas":  {
+                                              "a":  "a prerrogativa de foro, que desloca a causa para o tribunal superior sem afastar a responsabilidade civil do parlamentar pelo que afirmou",
+                                              "b":  "a imunidade material do parlamentar por suas opiniões, palavras e votos no exercício do mandato",
+                                              "c":  "a irresponsabilidade do agente político, princípio que impede a propositura de demandas indenizatórias contra ocupantes de cargos eletivos federais",
+                                              "d":  "a exigência de prévia licença da casa legislativa, requisito que a Carta manteve para o processamento de ações de natureza civil contra deputados",
+                                              "e":  "o sigilo das deliberações parlamentares, que impede a utilização de manifestações feitas em plenário como prova em processo judicial posterior"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O art. 53 da Constituição de 1988 confere aos parlamentares inviolabilidade civil e criminal por opiniões, palavras e votos proferidos no exercício do mandato: é a imunidade material. Diferencia-se da prerrogativa de foro, que é regra de competência constitucional, e da imunidade formal, ligada ao processamento perante o Poder Judiciário.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-206",
+                         "texto_apoio":  "Discute-se em um seminário por que a Constituição de 1988 exige quórum e procedimento mais exigentes para sua própria alteração do que os previstos para leis ordinárias.",
+                         "enunciado":  "Essa característica permite classificá-la como constituição:",
+                         "alternativas":  {
+                                              "a":  "flexível, uma vez que admite reforma por emenda e, portanto, equipara o procedimento de mudança àquele reservado à legislação comum",
+                                              "b":  "outorgada, na medida em que o procedimento agravado de reforma decorre da origem não assemblear do texto aprovado em 1988 no Brasil",
+                                              "c":  "rígida, atributo que sustenta a supremacia formal do texto constitucional e viabiliza o controle de constitucionalidade",
+                                              "d":  "sintética, porque a exigência de maioria qualificada restringe o número de matérias que o constituinte optou por disciplinar no corpo permanente",
+                                              "e":  "dirigente, categoria que descreve o texto voltado a impor programas ao legislador futuro e que independe do grau de dificuldade de sua reforma"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "A rigidez é o procedimento agravado de reforma. Dela decorre a supremacia formal da Constituição e a própria possibilidade do controle de constitucionalidade: se a alteração fosse tão simples quanto a de uma lei comum, não haveria hierarquia a proteger. Rigidez não se confunde com imutabilidade.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-207",
+                         "texto_apoio":  "Um tribunal recebe pedido para que reconheça a incompatibilidade entre um decreto municipal e um preceito fundamental da Carta, depois de esgotados os demais meios capazes de sanar a lesão.",
+                         "enunciado":  "A ação constitucional adequada é a:",
+                         "alternativas":  {
+                                              "a":  "ação declaratória de constitucionalidade, cujo objeto é afastar a controvérsia judicial relevante sobre a validade de norma federal em vigor",
+                                              "b":  "ação civil pública, instrumento de tutela coletiva que permite discutir a validade da norma como fundamento do pedido principal deduzido",
+                                              "c":  "reclamação, cabível para preservar a competência do tribunal ou assegurar a autoridade das decisões que ele já proferiu em casos anteriores",
+                                              "d":  "arguição de descumprimento de preceito fundamental, marcada pela subsidiariedade em relação aos outros instrumentos de controle concentrado",
+                                              "e":  "representação interventiva, destinada a apurar violação de princípio sensível por unidade federada e a autorizar a intervenção correspondente"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A arguição de descumprimento de preceito fundamental alcança atos do poder público que escapam ao objeto da ação direta, como normas municipais e anteriores a 1988, e só é cabível quando não houver outro meio eficaz de sanar a lesividade. A subsidiariedade é sua marca distintiva no controle concentrado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-208",
+                         "texto_apoio":  "Depois de reiteradas decisões sobre matéria constitucional, o órgão de cúpula do Poder Judiciário aprova enunciado que vincula os demais órgãos judiciais e a administração pública direta e indireta.",
+                         "enunciado":  "O instrumento descrito é a:",
+                         "alternativas":  {
+                                              "a":  "súmula vinculante, cujo descumprimento autoriza o uso de reclamação dirigida ao próprio tribunal que a editou",
+                                              "b":  "súmula persuasiva, enunciado que orienta a jurisprudência dos tribunais inferiores sem criar dever de observância para a administração pública",
+                                              "c":  "repercussão geral, requisito de admissibilidade recursal que seleciona as controvérsias constitucionais relevantes submetidas ao tribunal de cúpula",
+                                              "d":  "medida cautelar em ação declaratória, decisão provisória que suspende o julgamento dos processos que discutam a mesma questão constitucional",
+                                              "e":  "resolução de mérito com efeito prospectivo, deliberação que fixa a partir de qual data a orientação firmada passa a obrigar os órgãos judiciais"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "A súmula vinculante, prevista no art. 103-A da Constituição de 1988, obriga os demais órgãos do Poder Judiciário e a administração pública, e seu descumprimento é atacado por reclamação. Distingue-se da súmula comum, de eficácia meramente persuasiva, e da repercussão geral, que é filtro recursal.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-209",
+                         "texto_apoio":  "Uma lei cria tribunal de exceção para julgar um grupo determinado de pessoas por fatos já ocorridos, retirando as causas do juízo que seria naturalmente competente.",
+                         "enunciado":  "A norma é incompatível com a Constituição de 1988 por afrontar o princípio do:",
+                         "alternativas":  {
+                                              "a":  "duplo grau de jurisdição, que impõe a existência de instância recursal para o reexame integral das decisões proferidas em primeiro grau",
+                                              "b":  "juiz natural, que veda o juízo ou tribunal instituído depois do fato para julgá-lo",
+                                              "c":  "inafastabilidade do controle judicial, que impede a lei de excluir da apreciação do Judiciário lesão ou ameaça a direito de terceiros",
+                                              "d":  "identidade física do juiz, segundo o qual o magistrado que colhe a prova em audiência deve ser o mesmo a proferir a sentença naquele feito",
+                                              "e":  "livre convencimento motivado, que obriga o julgador a expor as razões de fato e de direito que sustentam a conclusão adotada na decisão"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O art. 5º, XXXVII e LIII, da Constituição proíbe o juízo ou tribunal de exceção e assegura o julgamento por autoridade competente segundo regras anteriores ao fato. É desdobramento do devido processo legal e limite direto ao Legislativo na organização do Poder Judiciário.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-210",
+                         "texto_apoio":  "Agentes públicos ingressam em uma residência às três da manhã, sem consentimento do morador e sem ordem judicial, para apreender documentos de interesse de uma fiscalização.",
+                         "enunciado":  "A conduta contraria a Constituição porque a entrada no domicílio, durante a noite, só se admite:",
+                         "alternativas":  {
+                                              "a":  "mediante autorização escrita da autoridade administrativa que preside o procedimento fiscalizatório, dispensada a manifestação do morador ausente",
+                                              "b":  "quando houver risco de perecimento da prova, situação em que a Carta autoriza o ingresso independentemente de consentimento ou de decisão judicial",
+                                              "c":  "com o consentimento do morador ou em caso de flagrante delito, desastre ou para prestar socorro",
+                                              "d":  "após comunicação prévia ao morador com antecedência mínima de vinte e quatro horas, exigência que o texto constitucional impõe às fiscalizações",
+                                              "e":  "por determinação do chefe do Executivo local, autoridade que a Constituição indica como competente para autorizar o ingresso noturno em residência"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O art. 5º, XI, da Constituição de 1988 define a casa como asilo inviolável: durante o dia a entrada sem consentimento depende de ordem judicial; durante a noite, restam o consentimento, o flagrante, o desastre e o socorro. A reserva de jurisdição é o eixo da garantia e não cede a conveniência administrativa.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-211",
+                         "texto_apoio":  "Ao julgar uma lei que admitia duas leituras possíveis, o tribunal declara válido o dispositivo, mas fixa que ele só pode ser aplicado em um dos sentidos.",
+                         "enunciado":  "A técnica de decisão empregada é a:",
+                         "alternativas":  {
+                                              "a":  "declaração de inconstitucionalidade por arrastamento, pela qual o vício reconhecido em um dispositivo se estende aos demais que dele dependam logicamente",
+                                              "b":  "modulação temporal dos efeitos, que fixa o momento a partir do qual a decisão de invalidade passa a produzir consequências no mundo jurídico",
+                                              "c":  "apelo ao legislador, comunicação dirigida ao Congresso para que corrija a norma antes que o tribunal reconheça sua incompatibilidade com o texto maior",
+                                              "d":  "interpretação conforme a Constituição, que preserva o texto e limita seu alcance ao sentido compatível com a Carta",
+                                              "e":  "inconstitucionalidade progressiva, reconhecimento de que a norma ainda é válida enquanto persistirem as circunstâncias de fato que a justificaram"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "A interpretação conforme atua onde o texto comporta mais de um sentido: o tribunal conserva a norma e exclui as leituras incompatíveis com a Constituição de 1988. É expressão da presunção de validade das leis e do princípio da conservação, e integra o repertório clássico do controle de constitucionalidade.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-212",
+                         "texto_apoio":  "Uma assembleia legislativa estadual elabora a constituição de seu estado, observando os princípios estabelecidos no texto federal.",
+                         "enunciado":  "Essa competência é manifestação do poder constituinte:",
+                         "alternativas":  {
+                                              "a":  "originário, porque inaugura uma ordem jurídica nova naquele território e não encontra limite em norma anterior de estatura superior à sua",
+                                              "b":  "derivado reformador, que se exerce por meio de emendas destinadas a alterar o próprio texto da Constituição Federal de 1988 em vigor",
+                                              "c":  "difuso, exercido de modo contínuo pela via da mutação constitucional, sem alteração formal do texto e sem procedimento legislativo específico",
+                                              "d":  "revisor, previsto no ato das disposições transitórias e exercido uma única vez por maioria absoluta em sessão unicameral do Congresso",
+                                              "e":  "decorrente, limitado e condicionado pelo texto federal que o institui"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O poder constituinte decorrente é a competência dos estados-membros para se auto-organizar, prevista no art. 25 da Constituição de 1988 e limitada pelos princípios que ela estabelece. É derivado e condicionado, ao contrário do originário, que é inicial e ilimitado juridicamente. A federação brasileira se estrutura sobre essa distinção.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-213",
+                         "texto_apoio":  "A União edita normas gerais sobre proteção do meio ambiente. Um estado, em seguida, aprova lei mais restritiva sobre o mesmo assunto, adequada às suas particularidades locais.",
+                         "enunciado":  "Nessa competência concorrente, a lei estadual é:",
+                         "alternativas":  {
+                                              "a":  "válida, pois cabe ao estado suplementar as normas gerais editadas pela União",
+                                              "b":  "inválida, porque a superveniência de norma geral federal exclui do estado a possibilidade de legislar sobre a matéria enquanto ela vigorar no país",
+                                              "c":  "válida, mas somente até que o Congresso Nacional ratifique expressamente o texto aprovado pela assembleia legislativa daquela unidade federada",
+                                              "d":  "inválida, uma vez que a competência para dispor sobre proteção ambiental foi reservada de modo privativo ao ente central pelo texto de 1988",
+                                              "e":  "válida na parte em que reproduzir a norma federal, e sem eficácia naquilo que dela divergir, ainda que a divergência seja mais protetiva ao bem tutelado"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "No art. 24 da Constituição, a competência concorrente reserva à União as normas gerais e aos estados a suplementação. A lei estadual mais restritiva, adequada às peculiaridades locais, é compatível com esse desenho. A repartição de competências é uma das colunas da federação brasileira.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-214",
+                         "texto_apoio":  "Um deputado apresenta projeto de lei que altera o regime jurídico dos servidores do Poder Executivo federal e amplia seus vencimentos.",
+                         "enunciado":  "O projeto é formalmente incompatível com a Constituição porque a matéria:",
+                         "alternativas":  {
+                                              "a":  "depende de proposta subscrita por um terço dos membros de cada casa legislativa, requisito que o texto constitucional impõe às matérias de pessoal",
+                                              "b":  "é de iniciativa privativa do chefe do Poder Executivo",
+                                              "c":  "só pode ser disciplinada por lei complementar aprovada pela maioria absoluta das duas casas, quórum que o projeto ordinário não alcança",
+                                              "d":  "foi transferida às unidades federadas, cabendo à União fixar somente as diretrizes gerais aplicáveis à remuneração dos agentes públicos civis",
+                                              "e":  "está reservada a decreto autônomo, instrumento que a Carta destina à organização interna da administração e à fixação da despesa com pessoal"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "O art. 61, § 1º, da Constituição de 1988 reserva ao chefe do Poder Executivo a iniciativa das leis sobre regime jurídico e remuneração de seus servidores. O vício de iniciativa é formal e contamina a lei desde a origem, sujeitando-a ao controle de constitucionalidade. É consequência direta da separação dos poderes.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-215",
+                         "texto_apoio":  "O chefe do Executivo edita medida provisória para instituir um programa de financiamento, alegando que a matéria não podia aguardar o trâmite legislativo comum.",
+                         "enunciado":  "Os pressupostos constitucionais que legitimam a edição desse ato são:",
+                         "alternativas":  {
+                                              "a":  "conveniência e oportunidade, critérios de mérito administrativo que a Carta submete à avaliação privativa do próprio chefe do Executivo federal",
+                                              "b":  "interesse público e economicidade, requisitos que o texto constitucional impõe aos atos normativos que produzam repercussão sobre a despesa pública",
+                                              "c":  "relevância e urgência, aferíveis também pelo Poder Judiciário em caso de desvio evidente",
+                                              "d":  "excepcionalidade e temporariedade, condições que autorizam a edição do ato desde que seu prazo de vigência não ultrapasse o exercício financeiro",
+                                              "e":  "necessidade e proporcionalidade, parâmetros que a Constituição adota para submeter o ato ao exame prévio da comissão mista do Congresso Nacional"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O art. 62 da Constituição condiciona a medida provisória à relevância e à urgência. Embora haja margem de avaliação política, o Poder Judiciário pode reconhecer o abuso quando o desvio é evidente, sem invadir o mérito. É um dos pontos de tensão permanente entre Executivo e Legislativo no desenho de 1988.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-216",
+                         "texto_apoio":  "Uma prova obtida por meio ilícito é juntada ao processo, e a parte pede que ela seja desentranhada. O juiz argumenta que o conteúdo é decisivo para revelar a verdade dos fatos.",
+                         "enunciado":  "À luz da Constituição de 1988, a prova:",
+                         "alternativas":  {
+                                              "a":  "deve ser mantida nos autos, desde que o juiz registre na decisão as razões pelas quais considerou o interesse na verdade superior ao vício de origem",
+                                              "b":  "pode ser aproveitada em favor da parte contrária àquela que a produziu, solução que o texto constitucional prevê expressamente para esses casos",
+                                              "c":  "é admissível se houver confirmação de seu conteúdo por outro elemento também obtido fora das formas legais previstas para a colheita de provas",
+                                              "d":  "é inadmissível no processo, ainda que relevante para a apuração dos fatos",
+                                              "e":  "somente é excluída quando a ilicitude decorrer de violação de domicílio, ficando preservadas as demais espécies de vício na obtenção do material"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O art. 5º, LVI, da Constituição declara inadmissíveis as provas obtidas por meios ilícitos. A regra é do devido processo legal e não comporta a ponderação sugerida na hipótese: o vício de origem contamina o elemento, ainda que ele seja útil. É garantia processual de estatura constitucional.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-217",
+                         "texto_apoio":  "Uma lei nova reduz o percentual de um benefício e pretende aplicá-lo a quem já havia preenchido todos os requisitos para obtê-lo sob a regra anterior.",
+                         "enunciado":  "O obstáculo constitucional à aplicação retroativa é a proteção:",
+                         "alternativas":  {
+                                              "a":  "da coisa julgada, que impede a modificação do que foi decidido em processo judicial encerrado e cujo trânsito em julgado já se operou formalmente",
+                                              "b":  "do ato jurídico perfeito, que resguarda o negócio celebrado segundo a lei vigente ao tempo em que se consumou, ainda que seus efeitos se projetem",
+                                              "c":  "da irredutibilidade de vencimentos, prerrogativa dirigida aos ocupantes de cargos públicos efetivos e estendida aos agentes políticos eleitos",
+                                              "d":  "da anterioridade nonagesimal, que difere a eficácia da norma para noventa dias depois de sua publicação oficial no veículo próprio de divulgação",
+                                              "e":  "do direito adquirido, que a lei não pode prejudicar"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "O art. 5º, XXXVI, da Constituição de 1988 protege o direito adquirido, o ato jurídico perfeito e a coisa julgada contra a lei nova. Quem já preencheu os requisitos incorporou o direito ao patrimônio jurídico, e a alteração posterior não o alcança. A distinção entre os três institutos é o ponto da questão.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-218",
+                         "texto_apoio":  "Uma associação sustenta, em juízo, que a norma constitucional que assegura determinada prerrogativa depende de lei para produzir efeitos, e que por isso nada pode ser exigido desde já.",
+                         "enunciado":  "A regra do art. 5º, § 1º, da Constituição de 1988 responde a esse argumento ao estabelecer que as normas definidoras de direitos fundamentais:",
+                         "alternativas":  {
+                                              "a":  "têm aplicação imediata",
+                                              "b":  "produzem efeitos a partir da publicação da lei regulamentadora, cabendo ao Congresso fixar o calendário de implantação progressiva de cada uma delas",
+                                              "c":  "vinculam somente os órgãos da administração direta, permanecendo os particulares livres de deveres enquanto não sobrevier disciplina legislativa",
+                                              "d":  "dependem de reconhecimento judicial em ação própria, sem o qual permanecem como diretriz dirigida ao legislador futuro e sem exigibilidade concreta",
+                                              "e":  "condicionam-se à disponibilidade orçamentária do exercício, critério que o texto constitucional adota para escalonar a eficácia dessas disposições"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "O art. 5º, § 1º, determina a aplicação imediata das normas definidoras dos direitos e garantias fundamentais. A regra não elimina as diferenças de eficácia entre as normas constitucionais, mas afasta a leitura de que o catálogo seria mera promessa dirigida ao legislador. É comando dirigido também ao Poder Judiciário.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-219",
+                         "texto_apoio":  "Uma associação privada exclui um filiado sem lhe permitir defesa prévia, alegando que a relação é regida por seu estatuto interno e que o texto constitucional só obriga o poder público.",
+                         "enunciado":  "A tese da associação é rejeitada com base na:",
+                         "alternativas":  {
+                                              "a":  "supremacia do interesse coletivo sobre o individual, critério que autoriza o Poder Judiciário a rever o mérito das deliberações tomadas por entidades civis",
+                                              "b":  "eficácia dos direitos fundamentais nas relações entre particulares, que impõe o contraditório também nesse âmbito",
+                                              "c":  "natureza contratual do vínculo associativo, que submete o estatuto às regras gerais dos negócios jurídicos e afasta a incidência do texto constitucional",
+                                              "d":  "teoria dos poderes implícitos, segundo a qual quem detém a atribuição principal dispõe também dos meios necessários para exercê-la de modo adequado",
+                                              "e":  "reserva do possível, que condiciona a exigência de procedimentos internos à capacidade organizativa demonstrada pela entidade privada em cada caso"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A eficácia horizontal reconhece que os direitos fundamentais irradiam efeitos sobre as relações privadas. A exclusão de associado sem defesa contraria o contraditório e a ampla defesa, e o Poder Judiciário pode anulá-la. É leitura consolidada do catálogo do art. 5º da Constituição de 1988.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-220",
+                         "texto_apoio":  "O chefe do Executivo veta integralmente um projeto aprovado pelas duas casas legislativas, por considerá-lo contrário ao interesse público.",
+                         "enunciado":  "Sobre esse veto, é correto afirmar que:",
+                         "alternativas":  {
+                                              "a":  "encerra definitivamente a tramitação, restando ao Legislativo apresentar projeto novo sobre a mesma matéria no período legislativo imediatamente seguinte",
+                                              "b":  "depende de homologação do Poder Judiciário quando fundado em juízo de contrariedade ao interesse público, e não em alegação de vício de validade",
+                                              "c":  "pode ser rejeitado pelo Congresso, pelo voto da maioria absoluta de deputados e senadores",
+                                              "d":  "converte o projeto em medida provisória, cabendo ao Congresso apreciá-la no prazo constitucional sob risco de perda de eficácia desde a edição",
+                                              "e":  "somente é admitido quando recair sobre a integralidade do texto, sendo vedada ao chefe do Executivo a recusa parcial de dispositivos aprovados"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O art. 66 da Constituição de 1988 admite o veto total ou parcial e prevê sua apreciação pelo Congresso em sessão conjunta, com rejeição pelo voto da maioria absoluta. É expressão clássica dos freios e contrapesos entre Executivo e Legislativo dentro da separação dos poderes.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-221",
+                         "texto_apoio":  "Um município aprova lei que institui oração obrigatória no início das atividades escolares da rede pública, com invocação de uma confissão religiosa determinada.",
+                         "enunciado":  "A norma é incompatível com a Constituição de 1988 porque o Estado brasileiro:",
+                         "alternativas":  {
+                                              "a":  "é confessional em matéria de ensino, mas depende de autorização do conselho municipal competente para definir a confissão adotada em cada unidade escolar",
+                                              "b":  "admite a prática desde que assegurada a dispensa de quem não professe aquela crença, solução que o texto constitucional prevê para as escolas públicas",
+                                              "c":  "transferiu às unidades federadas a competência para dispor sobre manifestações religiosas no ambiente escolar, respeitadas as diretrizes gerais federais",
+                                              "d":  "é laico, e não pode estabelecer cultos ou manter com eles relações de dependência ou aliança",
+                                              "e":  "reserva o tema à disciplina por lei complementar federal, único instrumento apto a regular a presença de práticas confessionais em órgãos públicos"
+                                          },
+                         "resposta":  "d",
+                         "explicacao":  "O art. 19, I, da Constituição veda aos entes federados estabelecer cultos religiosos ou com eles manter relações de dependência ou aliança. A laicidade não é hostilidade à religião: é neutralidade do poder público, e protege a liberdade de crença de quem quer que seja. A lei municipal descrita rompe essa neutralidade.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-222",
+                         "texto_apoio":  "Um estado deixa de repassar, por dois anos consecutivos, os recursos que a Constituição destina a determinada finalidade, e a União cogita medidas para restabelecer a normalidade.",
+                         "enunciado":  "O instrumento constitucional excepcional cabível é a:",
+                         "alternativas":  {
+                                              "a":  "dissolução da assembleia legislativa estadual, providência que a Carta autoriza diante do descumprimento reiterado de deveres financeiros pelo ente federado",
+                                              "b":  "encampação administrativa dos serviços estaduais, transferência provisória de sua execução ao ente central até o restabelecimento das condições normais",
+                                              "c":  "suspensão do pacto federativo em relação àquela unidade, deliberada pelo Congresso Nacional por maioria qualificada e por prazo determinado em decreto",
+                                              "d":  "requisição orçamentária direta, procedimento pelo qual o ente central retém e aplica os recursos estaduais sem necessidade de ato formal prévio",
+                                              "e":  "intervenção federal, medida excepcional e temporária que suspende parcialmente a autonomia do ente"
+                                          },
+                         "resposta":  "e",
+                         "explicacao":  "A intervenção federal, arts. 34 a 36 da Constituição de 1988, é medida excepcional que suspende temporariamente a autonomia do ente nas hipóteses taxativas do texto. A regra é a autonomia; a intervenção é exceção formalizada por decreto e submetida a controle político e, conforme o caso, ao Poder Judiciário.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-223",
+                         "texto_apoio":  "Duas prerrogativas asseguradas pela Carta entram em rota de colisão em um caso concreto, e não há regra que estabeleça a prevalência de uma sobre a outra em abstrato.",
+                         "enunciado":  "A técnica adequada para resolver a controvérsia é:",
+                         "alternativas":  {
+                                              "a":  "a ponderação, com exame da adequação, da necessidade e da proporcionalidade em sentido estrito",
+                                              "b":  "a revogação da prerrogativa mais antiga pela mais recente, aplicando-se ao texto constitucional o critério cronológico usado na solução de antinomias legais",
+                                              "c":  "a prevalência da norma de hierarquia superior, definida a partir da posição que cada dispositivo ocupa na sequência dos artigos do texto promulgado",
+                                              "d":  "a remessa da controvérsia ao Congresso Nacional, a quem compete editar emenda que estabeleça a ordem de precedência entre as posições em conflito",
+                                              "e":  "a aplicação da regra mais favorável ao poder público, critério que a Carta adota quando o conflito envolve interesses coletivos de titularidade difusa"
+                                          },
+                         "resposta":  "a",
+                         "explicacao":  "Direitos fundamentais colidentes não se excluem como regras: a solução passa pela ponderação e pelo exame de proporcionalidade, preservando ao máximo cada posição. A ideia é central ao devido processo legal substantivo e orienta o controle de constitucionalidade de medidas restritivas.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-224",
+                         "texto_apoio":  "Havendo controvérsia judicial relevante sobre a validade de uma lei federal em vigor, um legitimado pretende obter do tribunal de cúpula pronunciamento que afirme sua compatibilidade com a Carta.",
+                         "enunciado":  "A via processual adequada é a:",
+                         "alternativas":  {
+                                              "a":  "ação rescisória constitucional, cabível para desconstituir decisões transitadas em julgado que tenham aplicado a norma federal de modo divergente",
+                                              "b":  "ação declaratória de constitucionalidade, cuja decisão de procedência vincula os demais órgãos judiciais e a administração",
+                                              "c":  "medida cautelar inominada, requerimento pelo qual o legitimado obtém a suspensão dos processos em curso até o pronunciamento definitivo do tribunal",
+                                              "d":  "consulta constitucional prévia, procedimento pelo qual o tribunal se manifesta sobre projetos ainda em tramitação nas casas do Congresso Nacional",
+                                              "e":  "incidente de assunção de competência, instrumento destinado a uniformizar a interpretação de norma federal quando houver relevante questão de direito"
+                                          },
+                         "resposta":  "b",
+                         "explicacao":  "A ação declaratória de constitucionalidade, prevista no art. 102, I, a, da Constituição, pressupõe controvérsia judicial relevante e serve a afastar a incerteza sobre a validade de lei federal. Sua decisão tem eficácia contra terceiros e efeito vinculante, como a da ação direta, no controle concentrado.",
+                         "formato":  "direta"
+                     },
+                     {
+                         "id":  "direitos-humanos-225",
+                         "texto_apoio":  "Uma emenda constitucional é aprovada durante a vigência de estado de sítio decretado no país.",
+                         "enunciado":  "O vício que a compromete é a violação de limite:",
+                         "alternativas":  {
+                                              "a":  "material, na medida em que a Carta subtrai do poder de reforma o núcleo essencial das prerrogativas asseguradas no catálogo do art. 5º do texto",
+                                              "b":  "formal, porque o procedimento agravado de reforma exige dois turnos de votação em cada casa e o quórum de três quintos de seus respectivos membros",
+                                              "c":  "circunstancial, que veda a emenda na vigência de intervenção federal, estado de defesa ou estado de sítio",
+                                              "d":  "temporal, uma vez que o texto de 1988 fixou período mínimo de carência entre uma reforma e outra para preservar a estabilidade do arranjo institucional",
+                                              "e":  "implícito, categoria que reúne as vedações não escritas deduzidas do sistema, entre elas a proibição de alterar o próprio processo de reforma vigente"
+                                          },
+                         "resposta":  "c",
+                         "explicacao":  "O art. 60, § 1º, da Constituição de 1988 proíbe emendar o texto na vigência de intervenção federal, estado de defesa ou estado de sítio: é o limite circunstancial, ligado à anormalidade institucional. Distingue-se dos limites materiais das cláusulas pétreas e dos limites formais de procedimento e quórum.",
+                         "formato":  "direta"
                      }
                  ]
 }

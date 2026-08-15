@@ -6,12 +6,23 @@ duas colunas intercaladas, sem numero de questao, sem letra de alternativa e sem
 formula. Para transcrever a prova e preciso ver a pagina como ela e.
 
     python banco-central/provas.py paginas <pdf> <destino> [--dpi 150] [--de N] [--ate N]
-    python banco-central/provas.py recortar <pdf> <pagina> <x0,y0,x1,y1> <saida.png> [--dpi 200]
+    python banco-central/provas.py recortar <pdf> <pagina> <x0,y0,x1,y1> <saida> [--dpi 200]
     python banco-central/provas.py figuras <pdf> [--pagina N]
 
 `paginas` renderiza para leitura (vai no scratchpad, nunca no repo).
 `recortar` grava a figura de uma questao (essa sim vai para assets/provas/).
 `figuras` lista as imagens embutidas com sua bbox, para descobrir o recorte.
+
+**A extensao da saida decide o peso, e a diferenca e de 7x.** Medido na FGV
+2023.1, a 200 dpi: foto/mapa/capa de revista pesa ~313 KB em .png e ~45 KB em
+.jpg, com a mesma resolucao. Line art (diagrama, figura geometrica) ja nasce
+leve em .png (~25 KB) e nao ganha nada com .jpg, que ainda borraria o traco.
+
+    figura fotografica, mapa colorido, capa, charge  ->  .jpg
+    diagrama, grafico de linha, figura geometrica    ->  .png
+
+Com ~300 figuras nessa mistura o repositorio cresce ~11 MB. Salvando tudo em
+.png seriam ~65 MB, o que nao cabe num repo servido pelo GitHub Pages.
 
 A bbox e dada em pontos do PDF (72 pt = 1 polegada), no sistema do PyMuPDF:
 origem no canto superior esquerdo, y crescendo para baixo. `figuras` imprime
@@ -56,10 +67,14 @@ def cmd_recortar(args):
         matrix=pymupdf.Matrix(escala, escala), clip=pymupdf.Rect(x0, y0, x1, y1)
     )
     os.makedirs(os.path.dirname(os.path.abspath(args.saida)), exist_ok=True)
-    pix.save(args.saida)
+    ehjpeg = os.path.splitext(args.saida)[1].lower() in (".jpg", ".jpeg")
+    pix.save(args.saida, jpg_quality=args.qualidade) if ehjpeg else pix.save(args.saida)
     doc.close()
     tam = os.path.getsize(args.saida)
-    print(f"{tam / 1024:.0f} KB  {pix.width}x{pix.height}  {args.saida}")
+    aviso = ""
+    if not ehjpeg and tam > 120 * 1024:
+        aviso = "   <- pesado para .png; se for foto/mapa, salve como .jpg"
+    print(f"{tam / 1024:.0f} KB  {pix.width}x{pix.height}  {args.saida}{aviso}")
 
 
 def cmd_figuras(args):
@@ -110,8 +125,9 @@ def main():
     b.add_argument("pdf")
     b.add_argument("pagina", type=int, help="1-based")
     b.add_argument("bbox", help="x0,y0,x1,y1 em pontos do PDF")
-    b.add_argument("saida")
+    b.add_argument("saida", help=".jpg para foto/mapa/charge, .png para line art")
     b.add_argument("--dpi", type=int, default=200)
+    b.add_argument("--qualidade", type=int, default=82, help="qualidade JPEG (so vale para .jpg)")
     b.set_defaults(func=cmd_recortar)
 
     c = sub.add_parser("figuras", help="lista as imagens embutidas e suas bboxes")

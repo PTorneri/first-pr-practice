@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-15",
  "frente": "historia",
- "total": 443,
+ "total": 449,
  "residuo": [
   "dir-historia-brasil-68",
   "dir-historia-brasil-95",
@@ -2662,6 +2662,39 @@
    "frenteDestino": "historia",
    "pontos": 10,
    "margem": 5
+  },
+  "dir-historia-geral-108": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "dir-historia-brasil-110": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-historia-geral-109": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "dir-historia-geral-110": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-historia-brasil-111": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-historia-geral-111": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "revisado": true
   }
  }
 }

@@ -1696,6 +1696,44 @@
       "explicacao": "A queda da mortalidade infantil e o aumento da esperança de vida na segunda metade do século XX estão associados também à difusão de informação sobre métodos anticonceptivos, que permitiu maior espaçamento entre gestações e melhor cuidado materno-infantil, complementando os avanços sanitários do período.",
       "formato": "direta",
       "origem": "fgv-unificado-2025.1"
+    },
+    {
+      "id": "historia-brasil-110",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "texto_apoio": "\"O imperador tinha só dois caminhos a seguir, ou ser verdadeiramente constitucional, ou absoluto; no primeiro caso nada tinha que temer dos brasileiros, no segundo corria grandes azares, mas com juízo e constância poderia obter seu fim; mas hesitando constantemente, seguindo as circunstâncias, decerto há de vir a ser vítima sem falta.\"\n(DOLHNIKOFF, Miriam (org.). José Bonifácio de Andrada e Silva. Projetos para o Brasil. São Paulo: Companhia das Letras, 1998, p. 225.)",
+      "enunciado": "Leia o fragmento acima escrito por José Bonifácio no século XIX, e depois assinale a alternativa correta:",
+      "alternativas": {
+        "a": "D. Pedro I, diante das ameaças separatistas da oligarquia paulista, optou por impor um regime centralizado, em 1824, inspirado no absolutismo monárquico.",
+        "b": "A monarquia constitucional foi instaurada no Brasil com a emancipação política em 1822 e caracterizou-se pela estabilidade política.",
+        "c": "D. Pedro I, com a dissolução da Assembleia Constituinte em 1823, contrariou os interesses de parcela importante das oligarquias brasileiras.",
+        "d": "A adoção do Poder Moderador, em 1824, foi sugerida por setores da elite brasileira influenciados pelo liberalismo político estadunidense.",
+        "e": "A implementação do parlamentarismo monárquico no Brasil, em 1824, foi estimulada pelas boas relações diplomáticas mantidas com a Inglaterra."
+      },
+      "resposta": "c",
+      "explicacao": "O trecho descreve a hesitação de D. Pedro I entre governar dentro da Constituição ou impor-se como absoluto. Foi essa oscilação que culminou na dissolução da Assembleia Constituinte em novembro de 1823 e na outorga da Carta de 1824, medida que afrontou as elites regionais que esperavam participar da redação da lei — descontentamento que estourou na Confederação do Equador. As distratoras trocam datas e origens: o Poder Moderador vem de Benjamin Constant, pensador francês, e não do liberalismo estadunidense; e o parlamentarismo só se firmaria no Segundo Reinado, décadas depois.",
+      "origem": "direito",
+      "frenteOrigem": "historia-brasil"
+    },
+    {
+      "id": "historia-brasil-111",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "texto_apoio": "\"O PMDB se manteve na política brasileira como o maior partido desde a redemocratização. Se por um lado seria lícito contar sua história como se fosse a do país, visto que ele sustentou todos os presidentes desde Sarney, por outro o partido se tornou um vazio programático. Nos anos 1980, uma equipe de intelectuais que incluía Luiz Carlos Bresser Pereira, Fernando Henrique Cardoso, Fernando Morais, Maria da Conceição Tavares e Dilson Funaro, entre outros economistas, formulou as principais propostas debatidas no país.\"\n(SECCO, Lincoln, \"A hegemonia tardia\" in PINHEIRO, Milton (org.) Ditadura: o que resta da transição. São Paulo: Boitempo, 2014, p. 234.)",
+      "enunciado": "A respeito da política brasileira na década de 1980, é correto afirmar:",
+      "alternativas": {
+        "a": "Foi marcada pelo bipartidarismo com a hegemonia política do PMDB, consolidado como o maior partido do país.",
+        "b": "Caracterizou-se pela implementação de medidas radicais pela esquerda do PMDB, como a Reforma Agrária e taxação de grandes fortunas.",
+        "c": "Resultou em um grande pacto social e político, que reuniu todos os partidos legalizados e aliados em apoio aos presidentes do PMDB.",
+        "d": "Teve como um dos seus principais resultados a restauração da democracia e o restabelecimento das eleições diretas para a presidência da república.",
+        "e": "Foi pautada pelo receio de retrocessos políticos e de frequentes ameaças à ordem democrática e pelo rechaço à Constituição de 1988."
+      },
+      "resposta": "d",
+      "explicacao": "A década de 1980 concentra a transição: campanha das Diretas Já em 1984, fim do governo militar em 1985, Constituição de 1988 e, em 1989, a primeira eleição direta para presidente desde 1960. O bipartidarismo da alternativa a foi imposto pelo AI-2 em 1965 e acabou com a reforma partidária de 1979, portanto não vigorava na década descrita. A alternativa e erra ao afirmar rechaço à Constituição de 1988, que foi o coroamento do processo, e a b atribui ao PMDB um programa redistributivo que o próprio texto nega ao falar em vazio programático.",
+      "origem": "direito",
+      "frenteOrigem": "historia-brasil"
     }
   ]
 }

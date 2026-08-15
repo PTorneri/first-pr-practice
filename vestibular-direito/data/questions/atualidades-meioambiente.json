@@ -1595,6 +1595,29 @@
       "explicacao": "Políticas natalistas, que estimulam o crescimento populacional, vão na direção oposta à sustentabilidade ambiental, que depende de reduzir a pressão humana sobre os recursos naturais — por isso essa é a alternativa que não se encaixa entre os comportamentos capazes de melhorar as perspectivas ambientais, ao contrário das demais, como transporte coletivo, energias limpas e consumo consciente.",
       "formato": "direta",
       "origem": "fgv-unificado-2025.1"
+    },
+    {
+      "id": "atualidades-meioambiente-103",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "escada",
+      "visual": {
+        "tipo": "Fotografia",
+        "arquivo": "assets/provas/fgv-2023.1-q18.jpg",
+        "descricao": "Imagem de um ato de protesto em Brasília, em junho de 2022, após a morte do indigenista Bruno Pereira e do jornalista Dom Phillips. Sobre fundo vermelho aparecem os retratos estilizados dos dois, lado a lado, e entre eles a figura de uma pessoa indígena vista de costas, usando um cocar de penas azuis e amarelas. Crédito indicado: Reuters/Ueslei Marcelino."
+      },
+      "enunciado": "Em 2022, o assassinato de Bruno Pereira e do jornalista Dom Phillips reacendeu o debate sobre a violência contra ativistas ambientais no Brasil. Analise as afirmações a seguir a respeito de possíveis medidas a serem adotadas para aumentar a defesa dos ativistas.\nI. A ONU poderia estabelecer que os compromissos e as ações assinadas na COP26 para implementar o Acordo de Paris integrassem as proteções aos direitos humanos.\nII. Executivo e Legislativo federais poderiam elaborar e implementar um Código Florestal para auxiliar a proteger a terra e os partidários do meio ambiente.\nIII. Empresas e instituições financeiras poderiam excluir de suas operações globais e cadeias produtivas agentes causadores de riscos florestais e danos a defensores ambientais.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, apenas.",
+        "b": "II, apenas.",
+        "c": "I e III, apenas.",
+        "d": "II e III, apenas.",
+        "e": "I, II e III."
+      },
+      "resposta": "c",
+      "explicacao": "I e III propõem medidas ainda não adotadas e coerentes com o problema: acoplar a agenda de direitos humanos aos compromissos climáticos e usar o poder de compra e de crédito das empresas para excluir agentes ligados à violência ambiental, mecanismo já em uso em cadeias de commodities. II é a única incorreta, e por um detalhe factual: o Código Florestal brasileiro não precisaria ser elaborado, porque já existe — a Lei 12.651 é de 2012 e substituiu o código de 1965. Propor criar o que já está em vigor é o erro que a banca plantou.",
+      "origem": "direito",
+      "frenteOrigem": "atualidades-meioambiente"
     }
   ]
 }

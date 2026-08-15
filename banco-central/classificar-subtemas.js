@@ -931,6 +931,39 @@ const REVISADAS = {
   // múltiplos de 6 entre 50 e 200.
   "dir-matematica-rlm-103": "matematica-sequencias",
   "med-matematica-241": "matematica-sequencias",
+
+  // --- FGV Unificado 2023.1, lote de questões reais.
+  // Duas famílias de problema aqui, e vale distinguir porque o conserto é
+  // diferente. A primeira é regra disparando pelo acessório: a questão dos
+  // contêineres cúbicos é área de superfície, mas caiu em financeira porque
+  // fala em "custo" e as alternativas são percentuais; a dos semáforos é mmc,
+  // e ganhou 1 ponto solitário de "padrão" em sequências. A segunda é empate
+  // em cima: distância do taxista, função inversa e minimização de distância
+  // decidiram por desempate de ordem, não por mérito. Fixadas para a decisão
+  // não depender de qual regra foi cadastrada primeiro.
+  "dir-matematica-rlm-331": "matematica-sequencias",
+  "dir-matematica-rlm-332": "matematica-geometria",
+  "dir-matematica-rlm-338": "matematica-algebra",
+  "dir-matematica-rlm-339": "matematica-geometria",
+  "dir-matematica-rlm-342": "matematica-algebra",
+  "dir-matematica-rlm-343": "matematica-geometria",
+
+  // As três de história geral caíam em brasil-colonia-imperio, e a de Maria I
+  // com ZERO ponto -- era o destino de fallback, não uma decisão. Companhia de
+  // Jesus na América espanhola pontua alto em colônia por vocabulário
+  // compartilhado (jesuítas, indígenas, colonos), mas o enunciado pergunta
+  // pela Ordem "na Época Moderna", que é história geral.
+  "dir-historia-geral-108": "historia-geral-moderna",
+  "dir-historia-geral-109": "historia-geral-contemporanea",
+  "dir-historia-geral-111": "historia-geral-moderna",
+
+  // Sistemas de transporte e contêiner: logística, não clima. Empatava em
+  // física-clima contra população-urbana, e nenhuma das duas é o assunto.
+  "dir-geografia-175": "geografia-agraria-economica",
+
+  // Morte de Bruno Pereira e Dom Phillips: o tema é violência contra defensor
+  // ambiental. Empatava com geopolítica por citar ONU, COP26 e Acordo de Paris.
+  "dir-atualidades-meioambiente-103": "atualidades-meioambiente",
 };
 
 // ------------------------------------------------------------------- classificação

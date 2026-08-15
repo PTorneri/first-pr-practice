@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-15",
  "frente": "matematica",
- "total": 868,
+ "total": 883,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -5186,6 +5186,90 @@
    "subtema": "matematica-algebra",
    "frenteDestino": "matematica",
    "padrao": true
+  },
+  "dir-matematica-rlm-329": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-matematica-rlm-330": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 17,
+   "margem": 17
+  },
+  "dir-matematica-rlm-331": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "dir-matematica-rlm-332": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "dir-matematica-rlm-333": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "dir-matematica-rlm-334": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 10
+  },
+  "dir-matematica-rlm-335": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 2,
+   "margem": 2
+  },
+  "dir-matematica-rlm-336": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "dir-matematica-rlm-337": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 3
+  },
+  "dir-matematica-rlm-338": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "dir-matematica-rlm-339": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "dir-matematica-rlm-340": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-matematica-rlm-341": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "dir-matematica-rlm-342": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "dir-matematica-rlm-343": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "revisado": true
   }
  }
 }

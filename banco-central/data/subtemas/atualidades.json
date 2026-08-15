@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-15",
  "frente": "atualidades",
- "total": 605,
+ "total": 608,
  "residuo": [
   "med-atualidades-10",
   "med-atualidades-23",
@@ -3179,6 +3179,21 @@
    "frenteDestino": "atualidades",
    "pontos": 5,
    "margem": 5
+  },
+  "dir-atualidades-geopolitica-154": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-geopolitica-155": {
+   "subtema": "atualidades-geopolitica",
+   "frenteDestino": "atualidades",
+   "origem": "frenteOrigem"
+  },
+  "dir-atualidades-meioambiente-103": {
+   "subtema": "atualidades-meioambiente",
+   "frenteDestino": "atualidades",
+   "revisado": true
   }
  }
 }

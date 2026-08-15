@@ -5179,6 +5179,286 @@
       "explicacao": "Contando os dias após 31 de março, a produção diária é A(n)=663+29n e B(n)=1500+20n. A condição A(n)>B(n) dá 9n>837 → n>93, ou seja, o primeiro dia em que isso ocorre é n=94. Contando 30 dias de abril, 31 de maio e 30 de junho (91 dias), o 94º dia cai em 3 de julho.",
       "formato": "direta",
       "origem": "insper-2026.2"
+    },
+    {
+      "id": "matematica-rlm-329",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "Ana, Beatriz, Carla e Denise almoçaram juntas e as despesas individuais, incluindo bebidas, foram respectivamente, R$ 62,00, R$ 48,00, R$ 54,00 e R$ 60,00. Na hora de pagar, elas resolveram dar 10% de gorjeta sobre o total das despesas e dividiram igualmente o valor total entre elas.\nSe cada uma delas pagasse o correspondente à sua despesa individual acrescida de 10% de gorjeta, Beatriz pagaria",
+      "alternativas": {
+        "a": "R$ 8,80 a mais do que pagou.",
+        "b": "R$ 8,80 a menos do que pagou.",
+        "c": "R$ 7,80 a mais do que pagou.",
+        "d": "R$ 7,80 a menos do que pagou.",
+        "e": "o mesmo valor que pagou."
+      },
+      "resposta": "b",
+      "explicacao": "O total das despesas é 62 + 48 + 54 + 60 = 224. Com 10% de gorjeta, 246,40, e dividido por quatro cada uma pagou 61,60. Pela despesa individual, Beatriz pagaria 48 × 1,10 = 52,80. A diferença é 52,80 − 61,60 = −8,80, ou seja, R$ 8,80 a MENOS. O erro comum é acertar o valor e trocar o sinal: como Beatriz foi quem menos consumiu, a divisão igualitária a fez pagar mais do que lhe cabia, e não menos.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-330",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "No plano cartesiano, a área do triângulo delimitado pelas retas 5x − 3y + 1 = 0, y − 2 = 0 e 5x + y − 27 = 0 é",
+      "alternativas": {
+        "a": "27",
+        "b": "15",
+        "c": "12",
+        "d": "10",
+        "e": "8"
+      },
+      "resposta": "d",
+      "explicacao": "Os vértices são as interseções duas a duas. Com y = 2 em 5x − 3y + 1 = 0 vem x = 1, logo (1, 2); com y = 2 em 5x + y − 27 = 0 vem x = 5, logo (5, 2). Igualando as outras duas, −3y + 1 = −y + 27, obtém-se y = 7 e x = 4, logo (4, 7). Tomando como base o lado sobre a reta y = 2, a base mede 5 − 1 = 4 e a altura é 7 − 2 = 5, de onde a área é 4 × 5 / 2 = 10. Quem esquece de dividir por dois chega a 20; quem toma a distância entre os vértices errados chega a 15.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-331",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "O primeiro termo de uma progressão aritmética é a₁ = 1, e a média dos 2021 primeiros termos é 102. A razão desta progressão aritmética é",
+      "alternativas": {
+        "a": "0,10",
+        "b": "0,15",
+        "c": "0,20",
+        "d": "0,25",
+        "e": "0,30"
+      },
+      "resposta": "a",
+      "explicacao": "Numa progressão aritmética a média dos n primeiros termos é a média entre o primeiro e o último, (a₁ + aₙ)/2. Então (1 + a₂₀₂₁)/2 = 102 dá a₂₀₂₁ = 203. Como a₂₀₂₁ = a₁ + 2020r, vem 203 = 1 + 2020r e r = 202/2020 = 0,10. O erro típico é usar 2021 em vez de 2020 como número de saltos entre o primeiro e o último termo.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-332",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "Dados dois pontos A(a,b) e B(c,d) em um sistema de coordenadas cartesianas, definimos a \"distância do taxista\" entre os pontos A e B, representada por d(A,B), como sendo d(A,B) = |a−c| + |b−d|.\nA distância do taxista para ir do ponto A(−3,2) ao ponto B(1,−2) e a seguir do ponto B ao ponto C(4,3) é",
+      "alternativas": {
+        "a": "13",
+        "b": "14",
+        "c": "15",
+        "d": "16",
+        "e": "17"
+      },
+      "resposta": "d",
+      "explicacao": "De A(−3,2) a B(1,−2): |−3 − 1| + |2 − (−2)| = 4 + 4 = 8. De B(1,−2) a C(4,3): |1 − 4| + |−2 − 3| = 3 + 5 = 8. O total é 8 + 8 = 16. A armadilha é calcular a distância euclidiana, que daria 4√2 + √34 ≈ 11,5, ou esquecer o módulo em uma das diferenças negativas.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-333",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "João emitiu uma nota fiscal de R$ 2000,00. O comprador se espantou, dizendo que não era esse o preço original combinado. João então explicou que o preço combinado não considerava o imposto e que 20% do valor da nota fiscal emitida era imposto.\nQuanto João acrescentou de imposto ao preço original combinado com o comprador, em termos percentuais?",
+      "alternativas": {
+        "a": "18%",
+        "b": "25%",
+        "c": "20%",
+        "d": "27%",
+        "e": "22%"
+      },
+      "resposta": "b",
+      "explicacao": "Os 20% incidem sobre a nota, não sobre o preço combinado: o imposto é 0,20 × 2000 = 400, e o preço original é 2000 − 400 = 1600. O acréscimo percentual sobre o preço original é 400/1600 = 0,25, ou seja, 25%. A alternativa 20% é a resposta de quem toma a base errada — ela seria correta apenas se os 20% incidissem sobre o preço combinado.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-334",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Figura geométrica",
+        "arquivo": "assets/provas/fgv-2023.1-q06.png",
+        "descricao": "Uma circunferência e um triângulo retângulo isósceles. O vértice do ângulo reto está no centro da circunferência, os dois catetos partem desse centro e a hipotenusa toca a circunferência num único ponto. Duas pequenas regiões do triângulo, uma acima e outra à direita, ficam sombreadas: são as partes do triângulo situadas fora do círculo."
+      },
+      "enunciado": "O círculo da figura tem raio 2. O triângulo é um triângulo retângulo e isósceles. O vértice correspondente ao ângulo reto coincide com o centro do círculo. A hipotenusa do triângulo tangencia a circunferência. A área da parte do triângulo que está fora do círculo (parte sombreada) é",
+      "alternativas": {
+        "a": "π/3",
+        "b": "5π/2",
+        "c": "2−π/2",
+        "d": "π/4+1",
+        "e": "4−π"
+      },
+      "resposta": "e",
+      "explicacao": "Seja L o cateto. Num triângulo retângulo isósceles, a distância do vértice do ângulo reto até a hipotenusa é L/√2, e essa distância é o raio, pois a hipotenusa tangencia a circunferência: L/√2 = 2, logo L = 2√2. A área do triângulo é L²/2 = 8/2 = 4. Como o ângulo no centro mede 90°, a parte do triângulo dentro do círculo é exatamente um quarto de círculo, de área π·2²/4 = π. Logo a região sombreada mede 4 − π. Quem confunde o raio com o cateto obtém área 2 e chega a 2 − π/2.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-335",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "Alice tem 2022 fichas, das quais 1237 são azuis e as demais são amarelas. Alice colocou todas as fichas em 1011 saquinhos com duas fichas em cada saquinho. Sabe-se que há exatamente 525 saquinhos com duas fichas azuis em cada um.\nO número de saquinhos com duas fichas amarelas em cada um é",
+      "alternativas": {
+        "a": "486",
+        "b": "301",
+        "c": "299",
+        "d": "226",
+        "e": "187"
+      },
+      "resposta": "c",
+      "explicacao": "Os 525 saquinhos azuis consomem 1050 fichas azuis. Sobram 1237 − 1050 = 187 fichas azuis, e cada uma só pode estar num saquinho misto, logo há 187 saquinhos mistos. Os saquinhos restantes são 1011 − 525 − 187 = 299, todos com duas amarelas. A conferência fecha: as amarelas somam 187 nos mistos mais 2 × 299 = 598, total 785, que é 2022 − 1237. A alternativa 187 é o número de saquinhos mistos, não o pedido.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-336",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "Em uma certa loja, uma camisa que custava R$ 150,00 teve o seu preço aumentado em um certo percentual e, a seguir, esse novo preço foi diminuído do mesmo percentual resultando em um preço final de R$ 126,00.\nO percentual citado foi de",
+      "alternativas": {
+        "a": "24%",
+        "b": "25%",
+        "c": "30%",
+        "d": "36%",
+        "e": "40%"
+      },
+      "resposta": "e",
+      "explicacao": "Aumentar e depois reduzir do mesmo percentual p dá 150(1 + p)(1 − p) = 150(1 − p²). Igualando a 126: 1 − p² = 126/150 = 0,84, logo p² = 0,16 e p = 0,4, isto é, 40%. A alternativa 16% não aparece justamente porque é o erro de parar em p² sem extrair a raiz; e 24% é a queda percentual total (150 → 126), não o percentual aplicado em cada etapa.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-337",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "O banco XYZ permite que os clientes façam operações na sua conta por meio de um aplicativo. Para isso, cada cliente precisa registrar uma senha.\nOs caracteres permitidos na formação da senha são: as letras X, Y e Z; os caracteres especiais @ e $; os caracteres numéricos 0 e 1.\nAs senhas devem, obrigatoriamente, respeitar as seguintes regras: ter 3 caracteres; conter ao menos um caractere especial; conter ao menos um caractere numérico.\nO número de senhas que podem ser formadas com essas regras é",
+      "alternativas": {
+        "a": "125",
+        "b": "105",
+        "c": "120",
+        "d": "115",
+        "e": "130"
+      },
+      "resposta": "c",
+      "explicacao": "São 7 caracteres disponíveis, e 7³ = 343 senhas de três posições sem restrição. Pelo princípio da inclusão e exclusão, as senhas SEM especial usam apenas os 5 caracteres restantes (5³ = 125), as SEM numérico também 125, e as que não têm nem especial nem numérico usam só X, Y e Z (3³ = 27). As proibidas são 125 + 125 − 27 = 223, e as válidas 343 − 223 = 120. Esquecer de somar de volta a interseção leva a 93; contar posições fixas para cada exigência leva a contagens duplicadas.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-338",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "Um modelo matemático que, sob certas circunstâncias, pode ser usado para representar a propagação de um boato é a função p = 1/(1 + A·e^(−ct)), onde p é o percentual da população que, no instante de tempo t, já tomou conhecimento do boato, A e c são constantes positivas, e e é a base dos logaritmos naturais (neperianos).\nA função inversa da função dada, isto é, a função que expressa o tempo t em função do percentual p é",
+      "alternativas": {
+        "a": "t = 1/(1 + A·e^(−cp))",
+        "b": "t = ln[(pA/(1−p))^(1/c)]",
+        "c": "t = ln[((1−p)/(pA))^(1/c)]",
+        "d": "t = ln[pA/(c(1−p))]",
+        "e": "t = ln[(1−p)/(cpA)]"
+      },
+      "resposta": "b",
+      "explicacao": "De p = 1/(1 + A·e^(−ct)) vem 1/p = 1 + A·e^(−ct), logo A·e^(−ct) = (1 − p)/p e e^(−ct) = (1 − p)/(pA). Aplicando logaritmo natural, −ct = ln[(1 − p)/(pA)], isto é, ct = ln[pA/(1 − p)] e t = (1/c)·ln[pA/(1 − p)]. Como (1/c)·ln(x) = ln(x^(1/c)), a forma da alternativa b é a mesma expressão. A alternativa c inverte a fração dentro do logaritmo, que é o erro de sinal mais comum; as alternativas d e e põem o c dentro do argumento, o que não decorre de nenhum passo algébrico válido.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-339",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "Certo produto é transportado em contêineres cúbicos. Para reduzir o custo da embalagem no transporte, os transportadores pretendem trocar o contêiner atual por um cubo maior, com aresta duas vezes a aresta do cubo atual. Suponha que o material gasto para montar um contêiner seja proporcional à área da superfície do cubo. Ao transportar um volume correspondente ao cubo maior totalmente cheio, a economia de material com o cubo maior em relação ao material gasto com os contêineres atuais, necessários para transportar o mesmo volume, é de",
+      "alternativas": {
+        "a": "10%",
+        "b": "20%",
+        "c": "30%",
+        "d": "40%",
+        "e": "50%"
+      },
+      "resposta": "e",
+      "explicacao": "Se a aresta atual é a, o cubo maior tem aresta 2a e volume 8a³ — o equivalente a oito contêineres atuais. Esses oito gastam 8 × 6a² = 48a² de material; o cubo maior gasta 6(2a)² = 24a². A economia é (48 − 24)/48 = 50%. O erro frequente é comparar as áreas de um cubo contra o outro (24a² contra 6a²) e concluir que o maior gasta mais, esquecendo que é preciso igualar o volume transportado.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-340",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "Uma urna contém 100 bolas idênticas numeradas de 1 a 100. Uma bola é extraída ao acaso da urna e seu número b₁ é anotado. A bola é devolvida, as bolas são misturadas, e outra bola é extraída, com número b₂. O par ordenado (x, y) é chamado de não decrescente se x ≤ y. A probabilidade de que (b₁, b₂) seja não decrescente é",
+      "alternativas": {
+        "a": "0,667",
+        "b": "0,498",
+        "c": "0,500",
+        "d": "0,505",
+        "e": "0,655"
+      },
+      "resposta": "d",
+      "explicacao": "São 100 × 100 = 10 000 pares equiprováveis. Os pares com b₁ = b₂ são 100, de probabilidade 0,01. Os demais 0,99 se dividem por simetria entre b₁ < b₂ e b₁ > b₂, dando 0,495 para cada. Logo P(b₁ ≤ b₂) = 0,495 + 0,01 = 0,505. A alternativa 0,500 é a resposta de quem esquece que o empate conta como não decrescente e divide tudo ao meio.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-341",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "O número de anagramas da palavra COMUM nos quais as duas letras M não aparecem juntas é",
+      "alternativas": {
+        "a": "18",
+        "b": "24",
+        "c": "36",
+        "d": "48",
+        "e": "60"
+      },
+      "resposta": "c",
+      "explicacao": "COMUM tem 5 letras com a letra M repetida duas vezes, logo 5!/2! = 60 anagramas ao todo. Tratando as duas letras M como um bloco único, restam 4 elementos distintos e 4! = 24 anagramas com os M juntos. Os que interessam são 60 − 24 = 36. Quem esquece de dividir por 2! usa 120 no lugar de 60 e chega a 96; quem conta só os anagramas com M juntos marca 24.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-342",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "Em certa rua, há dois semáforos, um no início e outro no final da rua. O semáforo do início, a cada ciclo de 120 segundos, fica verde nos primeiros 110 segundos e vermelho nos 10 segundos seguintes. O semáforo do final, a cada ciclo de 180 segundos, fica verde nos primeiros 160 segundos e vermelho nos 20 segundos seguintes.\nAmbos ficaram verdes ao mesmo tempo, exatamente ao meio-dia. Por quanto tempo, no período de 24 horas até o meio-dia do dia seguinte, os semáforos estarão simultaneamente vermelhos?",
+      "alternativas": {
+        "a": "30 minutos",
+        "b": "40 minutos",
+        "c": "1 hora",
+        "d": "70 minutos",
+        "e": "1 hora e meia"
+      },
+      "resposta": "b",
+      "explicacao": "O padrão conjunto se repete a cada mmc(120, 180) = 360 segundos. Nesses 360 segundos o primeiro semáforo fica vermelho em [110,120), [230,240) e [350,360); o segundo, em [160,180) e [340,360). A única sobreposição é [350,360), ou seja, 10 segundos por ciclo de 360. Em 24 horas há 86 400/360 = 240 ciclos, e 240 × 10 = 2400 segundos = 40 minutos. Somar os tempos de vermelho de cada um sem procurar a interseção é o erro que leva às alternativas maiores.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
+    },
+    {
+      "id": "matematica-rlm-343",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/provas/fgv-2023.1-q15.png",
+        "descricao": "Um plano cartesiano com os eixos x e y. Sobre o eixo x, à esquerda da origem, está o ponto A, rotulado (−200,0), com uma seta horizontal apontando para a direita. Sobre o eixo y, acima da origem, está o ponto B, rotulado (0,200), com uma seta vertical apontando para baixo."
+      },
+      "enunciado": "Considere o plano cartesiano com coordenadas em metros. Duas partículas, A e B, começam a se mover simultaneamente. A partícula A está inicialmente no ponto (−200, 0) e move-se com velocidade constante igual a 10 m/s ao longo do eixo X no sentido do eixo (sua abscissa cresce com o tempo). A partícula B está inicialmente no ponto (0, 200) e move-se com velocidade constante igual a 5 m/s ao longo do eixo Y, no sentido oposto ao eixo (sua ordenada decresce com o tempo).\nO momento, em segundos, após o instante inicial, em que as duas partículas estão mais próximas é",
+      "alternativas": {
+        "a": "10",
+        "b": "12",
+        "c": "18",
+        "d": "24",
+        "e": "28"
+      },
+      "resposta": "d",
+      "explicacao": "No instante t as posições são A = (−200 + 10t, 0) e B = (0, 200 − 5t). O quadrado da distância é (10t − 200)² + (200 − 5t)² = 125t² − 6000t + 80 000. Como minimizar a distância equivale a minimizar o seu quadrado, basta o vértice da parábola: t = 6000/(2 × 125) = 24 segundos. O erro comum é procurar o instante em que as partículas cruzam os eixos (t = 20 para A e t = 40 para B) em vez de minimizar a distância entre elas.",
+      "origem": "direito",
+      "frenteOrigem": "matematica-rlm"
     }
   ]
 }

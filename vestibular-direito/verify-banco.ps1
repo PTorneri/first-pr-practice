@@ -179,8 +179,18 @@ function Test-Questao {
 
   # Invariante da escada: só cobra de quem está marcado como tal. Sai como
   # aviso até a Fase 6 normalizar as 108 (ver -EscadaEstrita).
+  #
+  # Questão real com procedência (campo 'banca') fica FORA: o padrão que este
+  # bloco cobra foi inferido das provas que existiam no repo, e questão real é
+  # a evidência de que ele é feito, não um caso a corrigir. A FGV Unificado
+  # 2023.1 falsificou a premissa de $ESCADA_PROIBIDAS ao oferecer "II, apenas"
+  # na questão 18 -- exatamente o que o comentário lá em cima dizia que a banca
+  # nunca faz. Bater a questão no molde teria trocado o jogo de alternativas
+  # que a banca de fato usou, que é o oposto do que a trava existe para
+  # proteger. A trava segue valendo para questão autoral, que é de onde vinham
+  # as escadas embaralhadas do expand-to-five.ps1.
   $escadaFora = @()
-  if ($q.formato -eq "escada") {
+  if ($q.formato -eq "escada" -and -not $q.banca) {
     if ($n -ne 5) {
       $escadaFora += "$id : escada com $n alternativas"
     } else {

@@ -1,108 +1,108 @@
 {
-    "artes-cultura":  {
-                          "longaPct":  0,
-                          "absCertaPct":  28.6,
-                          "indice":  0,
-                          "n":  100
-                      },
-    "interpretacao-texto":  {
-                                "longaPct":  9.5,
-                                "absCertaPct":  5.5,
-                                "indice":  19,
-                                "n":  210
-                            },
-    "atualidades-geopolitica":  {
-                                    "longaPct":  16.3,
-                                    "absCertaPct":  0,
-                                    "indice":  19.3,
-                                    "n":  135
-                                },
-    "ciencias-natureza":  {
-                              "longaPct":  6.1,
-                              "absCertaPct":  2,
-                              "indice":  8.3,
-                              "n":  132
-                          },
-    "filosofia-sociologia":  {
-                                 "longaPct":  0,
-                                 "absCertaPct":  29.1,
-                                 "indice":  3,
-                                 "n":  100
-                             },
-    "atualidades-meioambiente":  {
-                                     "longaPct":  11,
-                                     "absCertaPct":  2.7,
-                                     "indice":  11,
-                                     "n":  100
-                                 },
-    "historia-brasil":  {
-                            "longaPct":  6.2,
-                            "absCertaPct":  0,
-                            "indice":  7.5,
-                            "n":  80
-                        },
-    "atualidades-tecnologia":  {
-                                   "longaPct":  22,
-                                   "absCertaPct":  3.4,
-                                   "indice":  22,
-                                   "n":  100
-                               },
-    "direitos-humanos":  {
-                             "longaPct":  21,
-                             "absCertaPct":  4.4,
-                             "indice":  19,
-                             "n":  100
-                         },
-    "literatura":  {
-                       "longaPct":  16,
-                       "absCertaPct":  12.2,
-                       "indice":  16.7,
-                       "n":  150
-                   },
-    "historia-geral":  {
-                           "longaPct":  3.8,
-                           "absCertaPct":  0,
-                           "indice":  7.5,
-                           "n":  80
-                       },
-    "gramatica":  {
-                      "longaPct":  12,
-                      "absCertaPct":  7,
-                      "indice":  14.7,
-                      "n":  150
-                  },
-    "ingles":  {
-                   "longaPct":  19,
-                   "absCertaPct":  0,
-                   "indice":  19,
-                   "n":  210
-               },
-    "matematica-rlm":  {
-                           "longaPct":  2.2,
-                           "absCertaPct":  14.3,
-                           "indice":  2.2,
-                           "n":  270
-                       },
-    "obras":  {
-                  "longaPct":  14.7,
-                  "absCertaPct":  4.5,
-                  "indice":  14.4,
-                  "n":  360
-              },
-    "geografia":  {
-                      "longaPct":  2.8,
-                      "absCertaPct":  6.2,
-                      "indice":  11,
-                      "n":  109
-                  },
-    "atualidades-politica":  {
-                                 "longaPct":  14,
-                                 "absCertaPct":  0,
-                                 "indice":  19,
-                                 "n":  100
-                             },
-    "_global":  {
-                    "indice":  12.9,
-                    "n":  2486
-                }
+    "artes-cultura": {
+        "longaPct": 0,
+        "absCertaPct": 28.6,
+        "indice": 0,
+        "n": 100
+    },
+    "interpretacao-texto": {
+        "longaPct": 9.5,
+        "absCertaPct": 5.5,
+        "indice": 19,
+        "n": 210
+    },
+    "atualidades-geopolitica": {
+        "longaPct": 16.3,
+        "absCertaPct": 0,
+        "indice": 19.3,
+        "n": 135
+    },
+    "ciencias-natureza": {
+        "longaPct": 6.1,
+        "absCertaPct": 2,
+        "indice": 8.3,
+        "n": 132
+    },
+    "filosofia-sociologia": {
+        "longaPct": 0,
+        "absCertaPct": 29.1,
+        "indice": 3,
+        "n": 100
+    },
+    "atualidades-meioambiente": {
+        "longaPct": 11,
+        "absCertaPct": 2.7,
+        "indice": 11,
+        "n": 100
+    },
+    "historia-brasil": {
+        "longaPct": 8.1,
+        "absCertaPct": 0,
+        "indice": 9.3,
+        "n": 86
+    },
+    "atualidades-tecnologia": {
+        "longaPct": 22,
+        "absCertaPct": 3.4,
+        "indice": 22,
+        "n": 100
+    },
+    "direitos-humanos": {
+        "longaPct": 21,
+        "absCertaPct": 4.4,
+        "indice": 19,
+        "n": 100
+    },
+    "literatura": {
+        "longaPct": 16,
+        "absCertaPct": 12.2,
+        "indice": 16.7,
+        "n": 150
+    },
+    "historia-geral": {
+        "longaPct": 3.8,
+        "absCertaPct": 0,
+        "indice": 7.5,
+        "n": 80
+    },
+    "gramatica": {
+        "longaPct": 12,
+        "absCertaPct": 7,
+        "indice": 14.7,
+        "n": 150
+    },
+    "ingles": {
+        "longaPct": 19,
+        "absCertaPct": 0,
+        "indice": 19,
+        "n": 210
+    },
+    "matematica-rlm": {
+        "longaPct": 2.2,
+        "absCertaPct": 14.3,
+        "indice": 2.2,
+        "n": 270
+    },
+    "obras": {
+        "longaPct": 14.7,
+        "absCertaPct": 4.5,
+        "indice": 14.4,
+        "n": 360
+    },
+    "geografia": {
+        "longaPct": 2.8,
+        "absCertaPct": 6.2,
+        "indice": 11,
+        "n": 109
+    },
+    "atualidades-politica": {
+        "longaPct": 14,
+        "absCertaPct": 0,
+        "indice": 19,
+        "n": 100
+    },
+    "_global": {
+        "indice": 12.9,
+        "n": 2486
+    }
 }

@@ -27309,6 +27309,111 @@ window.QUESTION_BANKS = {
    "explicacao": "A disjunção p ∨ q, na lógica matemática, é falsa apenas quando as duas proposições são falsas — inclui o caso em que ambas são verdadeiras. É diferente do \"ou exclusivo\" do português cotidiano (\"ou vai, ou fica\"), que exclui a ocorrência simultânea. A alternativa (c) aplica a leitura cotidiana, mais restritiva, ao símbolo lógico, que na convenção matemática padrão é sempre inclusivo salvo aviso contrário.",
    "formato": "direta",
    "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "dir-matematica-rlm-330",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "No plano cartesiano, a área do triângulo delimitado pelas retas 5x − 3y + 1 = 0, y − 2 = 0 e 5x + y − 27 = 0 é",
+   "alternativas": {
+    "a": "27",
+    "b": "15",
+    "c": "12",
+    "d": "10",
+    "e": "8"
+   },
+   "resposta": "d",
+   "explicacao": "Os vértices são as interseções duas a duas. Com y = 2 em 5x − 3y + 1 = 0 vem x = 1, logo (1, 2); com y = 2 em 5x + y − 27 = 0 vem x = 5, logo (5, 2). Igualando as outras duas, −3y + 1 = −y + 27, obtém-se y = 7 e x = 4, logo (4, 7). Tomando como base o lado sobre a reta y = 2, a base mede 5 − 1 = 4 e a altura é 7 − 2 = 5, de onde a área é 4 × 5 / 2 = 10. Quem esquece de dividir por dois chega a 20; quem toma a distância entre os vértices errados chega a 15.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "dir-matematica-rlm-332",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Dados dois pontos A(a,b) e B(c,d) em um sistema de coordenadas cartesianas, definimos a \"distância do taxista\" entre os pontos A e B, representada por d(A,B), como sendo d(A,B) = |a−c| + |b−d|.\nA distância do taxista para ir do ponto A(−3,2) ao ponto B(1,−2) e a seguir do ponto B ao ponto C(4,3) é",
+   "alternativas": {
+    "a": "13",
+    "b": "14",
+    "c": "15",
+    "d": "16",
+    "e": "17"
+   },
+   "resposta": "d",
+   "explicacao": "De A(−3,2) a B(1,−2): |−3 − 1| + |2 − (−2)| = 4 + 4 = 8. De B(1,−2) a C(4,3): |1 − 4| + |−2 − 3| = 3 + 5 = 8. O total é 8 + 8 = 16. A armadilha é calcular a distância euclidiana, que daria 4√2 + √34 ≈ 11,5, ou esquecer o módulo em uma das diferenças negativas.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "dir-matematica-rlm-334",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Figura geométrica",
+    "arquivo": "assets/provas/fgv-2023.1-q06.png",
+    "descricao": "Uma circunferência e um triângulo retângulo isósceles. O vértice do ângulo reto está no centro da circunferência, os dois catetos partem desse centro e a hipotenusa toca a circunferência num único ponto. Duas pequenas regiões do triângulo, uma acima e outra à direita, ficam sombreadas: são as partes do triângulo situadas fora do círculo."
+   },
+   "enunciado": "O círculo da figura tem raio 2. O triângulo é um triângulo retângulo e isósceles. O vértice correspondente ao ângulo reto coincide com o centro do círculo. A hipotenusa do triângulo tangencia a circunferência. A área da parte do triângulo que está fora do círculo (parte sombreada) é",
+   "alternativas": {
+    "a": "π/3",
+    "b": "5π/2",
+    "c": "2−π/2",
+    "d": "π/4+1",
+    "e": "4−π"
+   },
+   "resposta": "e",
+   "explicacao": "Seja L o cateto. Num triângulo retângulo isósceles, a distância do vértice do ângulo reto até a hipotenusa é L/√2, e essa distância é o raio, pois a hipotenusa tangencia a circunferência: L/√2 = 2, logo L = 2√2. A área do triângulo é L²/2 = 8/2 = 4. Como o ângulo no centro mede 90°, a parte do triângulo dentro do círculo é exatamente um quarto de círculo, de área π·2²/4 = π. Logo a região sombreada mede 4 − π. Quem confunde o raio com o cateto obtém área 2 e chega a 2 − π/2.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "dir-matematica-rlm-339",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Certo produto é transportado em contêineres cúbicos. Para reduzir o custo da embalagem no transporte, os transportadores pretendem trocar o contêiner atual por um cubo maior, com aresta duas vezes a aresta do cubo atual. Suponha que o material gasto para montar um contêiner seja proporcional à área da superfície do cubo. Ao transportar um volume correspondente ao cubo maior totalmente cheio, a economia de material com o cubo maior em relação ao material gasto com os contêineres atuais, necessários para transportar o mesmo volume, é de",
+   "alternativas": {
+    "a": "10%",
+    "b": "20%",
+    "c": "30%",
+    "d": "40%",
+    "e": "50%"
+   },
+   "resposta": "e",
+   "explicacao": "Se a aresta atual é a, o cubo maior tem aresta 2a e volume 8a³ — o equivalente a oito contêineres atuais. Esses oito gastam 8 × 6a² = 48a² de material; o cubo maior gasta 6(2a)² = 24a². A economia é (48 − 24)/48 = 50%. O erro frequente é comparar as áreas de um cubo contra o outro (24a² contra 6a²) e concluir que o maior gasta mais, esquecendo que é preciso igualar o volume transportado.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "dir-matematica-rlm-343",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Esquema",
+    "arquivo": "assets/provas/fgv-2023.1-q15.png",
+    "descricao": "Um plano cartesiano com os eixos x e y. Sobre o eixo x, à esquerda da origem, está o ponto A, rotulado (−200,0), com uma seta horizontal apontando para a direita. Sobre o eixo y, acima da origem, está o ponto B, rotulado (0,200), com uma seta vertical apontando para baixo."
+   },
+   "enunciado": "Considere o plano cartesiano com coordenadas em metros. Duas partículas, A e B, começam a se mover simultaneamente. A partícula A está inicialmente no ponto (−200, 0) e move-se com velocidade constante igual a 10 m/s ao longo do eixo X no sentido do eixo (sua abscissa cresce com o tempo). A partícula B está inicialmente no ponto (0, 200) e move-se com velocidade constante igual a 5 m/s ao longo do eixo Y, no sentido oposto ao eixo (sua ordenada decresce com o tempo).\nO momento, em segundos, após o instante inicial, em que as duas partículas estão mais próximas é",
+   "alternativas": {
+    "a": "10",
+    "b": "12",
+    "c": "18",
+    "d": "24",
+    "e": "28"
+   },
+   "resposta": "d",
+   "explicacao": "No instante t as posições são A = (−200 + 10t, 0) e B = (0, 200 − 5t). O quadrado da distância é (10t − 200)² + (200 − 5t)² = 125t² − 6000t + 80 000. Como minimizar a distância equivale a minimizar o seu quadrado, basta o vértice da parábola: t = 6000/(2 × 125) = 24 segundos. O erro comum é procurar o instante em que as partículas cruzam os eixos (t = 20 para A e t = 40 para B) em vez de minimizar a distância entre elas.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
   }
  ],
  "matematica-financeira": [
@@ -30564,6 +30669,63 @@ window.QUESTION_BANKS = {
    "explicacao": "Calculando o saldo de gols (gols pró menos gols contra) de cada uma das 20 equipes e ordenando os valores, a mediana (média do 10º e 11º valores) é −5.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "dir-matematica-rlm-329",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Ana, Beatriz, Carla e Denise almoçaram juntas e as despesas individuais, incluindo bebidas, foram respectivamente, R$ 62,00, R$ 48,00, R$ 54,00 e R$ 60,00. Na hora de pagar, elas resolveram dar 10% de gorjeta sobre o total das despesas e dividiram igualmente o valor total entre elas.\nSe cada uma delas pagasse o correspondente à sua despesa individual acrescida de 10% de gorjeta, Beatriz pagaria",
+   "alternativas": {
+    "a": "R$ 8,80 a mais do que pagou.",
+    "b": "R$ 8,80 a menos do que pagou.",
+    "c": "R$ 7,80 a mais do que pagou.",
+    "d": "R$ 7,80 a menos do que pagou.",
+    "e": "o mesmo valor que pagou."
+   },
+   "resposta": "b",
+   "explicacao": "O total das despesas é 62 + 48 + 54 + 60 = 224. Com 10% de gorjeta, 246,40, e dividido por quatro cada uma pagou 61,60. Pela despesa individual, Beatriz pagaria 48 × 1,10 = 52,80. A diferença é 52,80 − 61,60 = −8,80, ou seja, R$ 8,80 a MENOS. O erro comum é acertar o valor e trocar o sinal: como Beatriz foi quem menos consumiu, a divisão igualitária a fez pagar mais do que lhe cabia, e não menos.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "dir-matematica-rlm-333",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "João emitiu uma nota fiscal de R$ 2000,00. O comprador se espantou, dizendo que não era esse o preço original combinado. João então explicou que o preço combinado não considerava o imposto e que 20% do valor da nota fiscal emitida era imposto.\nQuanto João acrescentou de imposto ao preço original combinado com o comprador, em termos percentuais?",
+   "alternativas": {
+    "a": "18%",
+    "b": "25%",
+    "c": "20%",
+    "d": "27%",
+    "e": "22%"
+   },
+   "resposta": "b",
+   "explicacao": "Os 20% incidem sobre a nota, não sobre o preço combinado: o imposto é 0,20 × 2000 = 400, e o preço original é 2000 − 400 = 1600. O acréscimo percentual sobre o preço original é 400/1600 = 0,25, ou seja, 25%. A alternativa 20% é a resposta de quem toma a base errada — ela seria correta apenas se os 20% incidissem sobre o preço combinado.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "dir-matematica-rlm-336",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Em uma certa loja, uma camisa que custava R$ 150,00 teve o seu preço aumentado em um certo percentual e, a seguir, esse novo preço foi diminuído do mesmo percentual resultando em um preço final de R$ 126,00.\nO percentual citado foi de",
+   "alternativas": {
+    "a": "24%",
+    "b": "25%",
+    "c": "30%",
+    "d": "36%",
+    "e": "40%"
+   },
+   "resposta": "e",
+   "explicacao": "Aumentar e depois reduzir do mesmo percentual p dá 150(1 + p)(1 − p) = 150(1 − p²). Igualando a 126: 1 − p² = 126/150 = 0,84, logo p² = 0,16 e p = 0,4, isto é, 40%. A alternativa 16% não aparece justamente porque é o erro de parar em p² sem extrair a raiz; e 24% é a queda percentual total (150 → 126), não o percentual aplicado em cada etapa.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
   }
  ],
  "matematica-algebra": [
@@ -33744,6 +33906,44 @@ window.QUESTION_BANKS = {
    "explicacao": "O complementar de A em U reúne os elementos de U que não estão em A: 50 − 28 = 22. A alternativa (a), 78, soma em vez de subtrair (28+50), tratando A como se estivesse fora de U em vez de contido nele. A (b) repete o próprio |A|, como se complementar significasse \"o mesmo conjunto\".",
    "formato": "direta",
    "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "dir-matematica-rlm-338",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Um modelo matemático que, sob certas circunstâncias, pode ser usado para representar a propagação de um boato é a função p = 1/(1 + A·e^(−ct)), onde p é o percentual da população que, no instante de tempo t, já tomou conhecimento do boato, A e c são constantes positivas, e e é a base dos logaritmos naturais (neperianos).\nA função inversa da função dada, isto é, a função que expressa o tempo t em função do percentual p é",
+   "alternativas": {
+    "a": "t = 1/(1 + A·e^(−cp))",
+    "b": "t = ln[(pA/(1−p))^(1/c)]",
+    "c": "t = ln[((1−p)/(pA))^(1/c)]",
+    "d": "t = ln[pA/(c(1−p))]",
+    "e": "t = ln[(1−p)/(cpA)]"
+   },
+   "resposta": "b",
+   "explicacao": "De p = 1/(1 + A·e^(−ct)) vem 1/p = 1 + A·e^(−ct), logo A·e^(−ct) = (1 − p)/p e e^(−ct) = (1 − p)/(pA). Aplicando logaritmo natural, −ct = ln[(1 − p)/(pA)], isto é, ct = ln[pA/(1 − p)] e t = (1/c)·ln[pA/(1 − p)]. Como (1/c)·ln(x) = ln(x^(1/c)), a forma da alternativa b é a mesma expressão. A alternativa c inverte a fração dentro do logaritmo, que é o erro de sinal mais comum; as alternativas d e e põem o c dentro do argumento, o que não decorre de nenhum passo algébrico válido.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "dir-matematica-rlm-342",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Em certa rua, há dois semáforos, um no início e outro no final da rua. O semáforo do início, a cada ciclo de 120 segundos, fica verde nos primeiros 110 segundos e vermelho nos 10 segundos seguintes. O semáforo do final, a cada ciclo de 180 segundos, fica verde nos primeiros 160 segundos e vermelho nos 20 segundos seguintes.\nAmbos ficaram verdes ao mesmo tempo, exatamente ao meio-dia. Por quanto tempo, no período de 24 horas até o meio-dia do dia seguinte, os semáforos estarão simultaneamente vermelhos?",
+   "alternativas": {
+    "a": "30 minutos",
+    "b": "40 minutos",
+    "c": "1 hora",
+    "d": "70 minutos",
+    "e": "1 hora e meia"
+   },
+   "resposta": "b",
+   "explicacao": "O padrão conjunto se repete a cada mmc(120, 180) = 360 segundos. Nesses 360 segundos o primeiro semáforo fica vermelho em [110,120), [230,240) e [350,360); o segundo, em [160,180) e [340,360). A única sobreposição é [350,360), ou seja, 10 segundos por ciclo de 360. Em 24 horas há 86 400/360 = 240 ciclos, e 240 × 10 = 2400 segundos = 40 minutos. Somar os tempos de vermelho de cada um sem procurar a interseção é o erro que leva às alternativas maiores.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
   }
  ],
  "matematica-probabilidade": [
@@ -35846,6 +36046,82 @@ window.QUESTION_BANKS = {
    "explicacao": "Contando pelo princípio da inclusão-exclusão: do total de arranjos de 5 pessoas em 8 karts (P(8,5)=6720), subtraem-se os casos com Luís no kart 1 (840) e Antônio no kart 7 (840), somando de volta os casos com ambos (120): 6720−840−840+120=5160.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "dir-matematica-rlm-335",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Alice tem 2022 fichas, das quais 1237 são azuis e as demais são amarelas. Alice colocou todas as fichas em 1011 saquinhos com duas fichas em cada saquinho. Sabe-se que há exatamente 525 saquinhos com duas fichas azuis em cada um.\nO número de saquinhos com duas fichas amarelas em cada um é",
+   "alternativas": {
+    "a": "486",
+    "b": "301",
+    "c": "299",
+    "d": "226",
+    "e": "187"
+   },
+   "resposta": "c",
+   "explicacao": "Os 525 saquinhos azuis consomem 1050 fichas azuis. Sobram 1237 − 1050 = 187 fichas azuis, e cada uma só pode estar num saquinho misto, logo há 187 saquinhos mistos. Os saquinhos restantes são 1011 − 525 − 187 = 299, todos com duas amarelas. A conferência fecha: as amarelas somam 187 nos mistos mais 2 × 299 = 598, total 785, que é 2022 − 1237. A alternativa 187 é o número de saquinhos mistos, não o pedido.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "dir-matematica-rlm-337",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "O banco XYZ permite que os clientes façam operações na sua conta por meio de um aplicativo. Para isso, cada cliente precisa registrar uma senha.\nOs caracteres permitidos na formação da senha são: as letras X, Y e Z; os caracteres especiais @ e $; os caracteres numéricos 0 e 1.\nAs senhas devem, obrigatoriamente, respeitar as seguintes regras: ter 3 caracteres; conter ao menos um caractere especial; conter ao menos um caractere numérico.\nO número de senhas que podem ser formadas com essas regras é",
+   "alternativas": {
+    "a": "125",
+    "b": "105",
+    "c": "120",
+    "d": "115",
+    "e": "130"
+   },
+   "resposta": "c",
+   "explicacao": "São 7 caracteres disponíveis, e 7³ = 343 senhas de três posições sem restrição. Pelo princípio da inclusão e exclusão, as senhas SEM especial usam apenas os 5 caracteres restantes (5³ = 125), as SEM numérico também 125, e as que não têm nem especial nem numérico usam só X, Y e Z (3³ = 27). As proibidas são 125 + 125 − 27 = 223, e as válidas 343 − 223 = 120. Esquecer de somar de volta a interseção leva a 93; contar posições fixas para cada exigência leva a contagens duplicadas.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "dir-matematica-rlm-340",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Uma urna contém 100 bolas idênticas numeradas de 1 a 100. Uma bola é extraída ao acaso da urna e seu número b₁ é anotado. A bola é devolvida, as bolas são misturadas, e outra bola é extraída, com número b₂. O par ordenado (x, y) é chamado de não decrescente se x ≤ y. A probabilidade de que (b₁, b₂) seja não decrescente é",
+   "alternativas": {
+    "a": "0,667",
+    "b": "0,498",
+    "c": "0,500",
+    "d": "0,505",
+    "e": "0,655"
+   },
+   "resposta": "d",
+   "explicacao": "São 100 × 100 = 10 000 pares equiprováveis. Os pares com b₁ = b₂ são 100, de probabilidade 0,01. Os demais 0,99 se dividem por simetria entre b₁ < b₂ e b₁ > b₂, dando 0,495 para cada. Logo P(b₁ ≤ b₂) = 0,495 + 0,01 = 0,505. A alternativa 0,500 é a resposta de quem esquece que o empate conta como não decrescente e divide tudo ao meio.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "dir-matematica-rlm-341",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "O número de anagramas da palavra COMUM nos quais as duas letras M não aparecem juntas é",
+   "alternativas": {
+    "a": "18",
+    "b": "24",
+    "c": "36",
+    "d": "48",
+    "e": "60"
+   },
+   "resposta": "c",
+   "explicacao": "COMUM tem 5 letras com a letra M repetida duas vezes, logo 5!/2! = 60 anagramas ao todo. Tratando as duas letras M como um bloco único, restam 4 elementos distintos e 4! = 24 anagramas com os M juntos. Os que interessam são 60 − 24 = 36. Quem esquece de dividir por 2! usa 120 no lugar de 60 e chega a 96; quem conta só os anagramas com M juntos marca 24.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
   }
  ],
  "matematica-sequencias": [
@@ -36929,6 +37205,25 @@ window.QUESTION_BANKS = {
    "explicacao": "As camadas formam a progressão aritmética 1, 2, …, 20, e a soma dos vinte primeiros termos vale (1 + 20)·20/2 = 21·10 = 210. É a soma dos n primeiros números naturais, n(n + 1)/2 — a mesma conta dos números triangulares.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "dir-matematica-rlm-331",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "O primeiro termo de uma progressão aritmética é a₁ = 1, e a média dos 2021 primeiros termos é 102. A razão desta progressão aritmética é",
+   "alternativas": {
+    "a": "0,10",
+    "b": "0,15",
+    "c": "0,20",
+    "d": "0,25",
+    "e": "0,30"
+   },
+   "resposta": "a",
+   "explicacao": "Numa progressão aritmética a média dos n primeiros termos é a média entre o primeiro e o último, (a₁ + aₙ)/2. Então (1 + a₂₀₂₁)/2 = 102 dá a₂₀₂₁ = 203. Como a₂₀₂₁ = a₁ + 2020r, vem 203 = 1 + 2020r e r = 202/2020 = 0,10. O erro típico é usar 2021 em vez de 2020 como número de saltos entre o primeiro e o último termo.",
+   "origem": "direito",
+   "frenteOrigem": "matematica-rlm"
   }
  ],
  "matematica-logica-conjuntos": [
@@ -71586,6 +71881,26 @@ window.QUESTION_BANKS = {
    "explicacao": "Entre 1751 e 1825, o volume de escravizados trazidos ao Brasil cresceu continuamente, impulsionado pela expansão da economia açucareira, mineira e cafeeira, enquanto na América do Norte o fluxo oscilou, refletindo fatores como o processo de Independência dos Estados Unidos (1776) e as mudanças na demanda por mão de obra ligadas à industrialização inglesa.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "historia-brasil-colonia-imperio",
+   "id": "dir-historia-brasil-110",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "\"O imperador tinha só dois caminhos a seguir, ou ser verdadeiramente constitucional, ou absoluto; no primeiro caso nada tinha que temer dos brasileiros, no segundo corria grandes azares, mas com juízo e constância poderia obter seu fim; mas hesitando constantemente, seguindo as circunstâncias, decerto há de vir a ser vítima sem falta.\"\n(DOLHNIKOFF, Miriam (org.). José Bonifácio de Andrada e Silva. Projetos para o Brasil. São Paulo: Companhia das Letras, 1998, p. 225.)",
+   "enunciado": "Leia o fragmento acima escrito por José Bonifácio no século XIX, e depois assinale a alternativa correta:",
+   "alternativas": {
+    "a": "D. Pedro I, diante das ameaças separatistas da oligarquia paulista, optou por impor um regime centralizado, em 1824, inspirado no absolutismo monárquico.",
+    "b": "A monarquia constitucional foi instaurada no Brasil com a emancipação política em 1822 e caracterizou-se pela estabilidade política.",
+    "c": "D. Pedro I, com a dissolução da Assembleia Constituinte em 1823, contrariou os interesses de parcela importante das oligarquias brasileiras.",
+    "d": "A adoção do Poder Moderador, em 1824, foi sugerida por setores da elite brasileira influenciados pelo liberalismo político estadunidense.",
+    "e": "A implementação do parlamentarismo monárquico no Brasil, em 1824, foi estimulada pelas boas relações diplomáticas mantidas com a Inglaterra."
+   },
+   "resposta": "c",
+   "explicacao": "O trecho descreve a hesitação de D. Pedro I entre governar dentro da Constituição ou impor-se como absoluto. Foi essa oscilação que culminou na dissolução da Assembleia Constituinte em novembro de 1823 e na outorga da Carta de 1824, medida que afrontou as elites regionais que esperavam participar da redação da lei — descontentamento que estourou na Confederação do Equador. As distratoras trocam datas e origens: o Poder Moderador vem de Benjamin Constant, pensador francês, e não do liberalismo estadunidense; e o parlamentarismo só se firmaria no Segundo Reinado, décadas depois.",
+   "origem": "direito",
+   "frenteOrigem": "historia-brasil"
   }
  ],
  "historia-brasil-republica": [
@@ -73265,6 +73580,26 @@ window.QUESTION_BANKS = {
    "explicacao": "A Constituição de 1988 reconheceu como originário o direito dos indígenas às terras que tradicionalmente ocupam, garantindo-lhes a posse permanente e coletiva e o usufruto exclusivo das riquezas do solo — sem, contudo, resolver definitivamente os conflitos fundiários ou impor assimilação cultural.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "historia-brasil-republica",
+   "id": "dir-historia-brasil-111",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "\"O PMDB se manteve na política brasileira como o maior partido desde a redemocratização. Se por um lado seria lícito contar sua história como se fosse a do país, visto que ele sustentou todos os presidentes desde Sarney, por outro o partido se tornou um vazio programático. Nos anos 1980, uma equipe de intelectuais que incluía Luiz Carlos Bresser Pereira, Fernando Henrique Cardoso, Fernando Morais, Maria da Conceição Tavares e Dilson Funaro, entre outros economistas, formulou as principais propostas debatidas no país.\"\n(SECCO, Lincoln, \"A hegemonia tardia\" in PINHEIRO, Milton (org.) Ditadura: o que resta da transição. São Paulo: Boitempo, 2014, p. 234.)",
+   "enunciado": "A respeito da política brasileira na década de 1980, é correto afirmar:",
+   "alternativas": {
+    "a": "Foi marcada pelo bipartidarismo com a hegemonia política do PMDB, consolidado como o maior partido do país.",
+    "b": "Caracterizou-se pela implementação de medidas radicais pela esquerda do PMDB, como a Reforma Agrária e taxação de grandes fortunas.",
+    "c": "Resultou em um grande pacto social e político, que reuniu todos os partidos legalizados e aliados em apoio aos presidentes do PMDB.",
+    "d": "Teve como um dos seus principais resultados a restauração da democracia e o restabelecimento das eleições diretas para a presidência da república.",
+    "e": "Foi pautada pelo receio de retrocessos políticos e de frequentes ameaças à ordem democrática e pelo rechaço à Constituição de 1988."
+   },
+   "resposta": "d",
+   "explicacao": "A década de 1980 concentra a transição: campanha das Diretas Já em 1984, fim do governo militar em 1985, Constituição de 1988 e, em 1989, a primeira eleição direta para presidente desde 1960. O bipartidarismo da alternativa a foi imposto pelo AI-2 em 1965 e acabou com a reforma partidária de 1979, portanto não vigorava na década descrita. A alternativa e erra ao afirmar rechaço à Constituição de 1988, que foi o coroamento do processo, e a b atribui ao PMDB um programa redistributivo que o próprio texto nega ao falar em vazio programático.",
+   "origem": "direito",
+   "frenteOrigem": "historia-brasil"
   }
  ],
  "historia-geral-contemporanea": [
@@ -75986,6 +76321,46 @@ window.QUESTION_BANKS = {
    "explicacao": "A charge contrapõe a locomotiva a vapor, símbolo da modernização tecnológica de capital britânico, ao tropeiro e sua comitiva de mulas, forma tradicional de transporte e acumulação de capital que via seu espaço econômico ser tomado pela ferrovia — evidenciando o impacto da nova tecnologia sobre atividades econômicas tradicionais.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "dir-historia-geral-109",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "\"Do Império britânico pode-se dizer que se não foi o mais duradouro no tempo, o foi em extensão espacial e poder universal, tendo sido o maior de todos quantos a história já registrou. No seu auge, na segunda metade do século XIX, dominava todos os oceanos, sobre toda a economia mundial (particularmente comércio e finanças) e tinha possessões diretas em todos os continentes...\"\n(FLORENZANO, M. Lições de História Moderna (séculos XV a XX). São Paulo: Intermeios, 2021, p. 171.)",
+   "enunciado": "As razões para a hegemonia britânica devem ser atribuídas:",
+   "alternativas": {
+    "a": "Ao privilegiado posicionamento geográfico inglês, que garantiu o controle sobre as rotas marítimas mundiais.",
+    "b": "À primazia de suas navegações e expedições marítimas, que permitiram aos ingleses se apropriarem mais cedo de importantes entrepostos comerciais.",
+    "c": "Ao sucesso de sua colonização na América, cujas colônias se estabeleceram com base na pequena propriedade e no mercado interno.",
+    "d": "Às políticas econômicas desenvolvidas pelo Estado britânico, que privilegiaram o comércio de artigos de luxo e de pedras preciosas.",
+    "e": "À combinação entre o desenvolvimento industrial e a subordinação de estados e territórios aos seus interesses econômicos e políticos."
+   },
+   "resposta": "e",
+   "explicacao": "A hegemonia britânica do século XIX se explica pelo encontro de dois processos: a Revolução Industrial, que deu à Grã-Bretanha vantagem produtiva e financeira sem paralelo, e o imperialismo, que submeteu territórios formalmente colonizados e também países nominalmente independentes à sua órbita econômica — o chamado imperialismo informal, como no caso da América Latina. As demais alternativas isolam fatores secundários: a posição geográfica e as navegações precedem em muito o auge descrito, e a primazia nas navegações da era moderna coube a portugueses e espanhóis, não aos ingleses.",
+   "origem": "direito",
+   "frenteOrigem": "historia-geral"
+  },
+  {
+   "subtema": "historia-geral-contemporanea",
+   "id": "dir-historia-geral-110",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "\"Em 1968, o planeta todo pegou fogo. Foi como se uma palavra de ordem universal tivesse sido dada. Em Paris, Roma, Berlim ou Turim, a calçada e o paralelepípedo tornaram-se símbolos de uma geração revoltada. 'We want the world and we want it now' (queremos o mundo e o queremos já) cantava Jim Morrisson (...)\"\n(COHN-BENDIT, Daniel. Nós que amávamos tanto a revolução. São Paulo: Brasiliense, 1987, p. 10.)",
+   "enunciado": "Os acontecimentos aludidos por Cohn-Bendit referem-se:",
+   "alternativas": {
+    "a": "A manifestações de jovens pela liberdade de escolha de suas profissões e por medidas sociais de proteção para a sua formação universitária.",
+    "b": "À rebeldia juvenil expressada na contestação aos padrões da sociedade da época e à produção de uma contracultura.",
+    "c": "A propostas de reforma do ensino com a extinção de escolas e centros de estudos religiosos e a adoção de uma educação agnóstica.",
+    "d": "A revoltas e passeatas contra os atos terroristas promovidos por grupos de extrema-esquerda em diversas cidades europeias.",
+    "e": "A reações de setores democráticos contra a emergência de grupos neonazistas e neofascistas no interior das universidades europeias."
+   },
+   "resposta": "b",
+   "explicacao": "1968 foi o ano do Maio Francês, da Primavera de Praga, das mobilizações contra a Guerra do Vietnã e, no Brasil, da Passeata dos Cem Mil. O próprio Cohn-Bendit foi liderança estudantil em Paris. O que unia esses movimentos não era uma pauta corporativa, mas a contestação ampla dos costumes, da autoridade e do consumo — a contracultura, de que o verso de Jim Morrison citado é emblema. As distratoras reduzem o fenômeno a reivindicações profissionais ou invertem o sinal político, colocando os jovens como reação ao invés de sujeitos da revolta.",
+   "origem": "direito",
+   "frenteOrigem": "historia-geral"
   }
  ],
  "historia-geral-moderna": [
@@ -77113,6 +77488,45 @@ window.QUESTION_BANKS = {
    "explicacao": "O monopólio permitia comprar barato na possessão e revender caro na Europa, e o lucro da intermediação ficava na metrópole. É a aplicação direta do mercantilismo que sustentou as grandes navegações, e sua contestação está entre as causas dos movimentos de independência a partir do fim do século XVIII.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "dir-historia-geral-108",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "O trono inglês teve suas primeiras rainhas governantes no século XVI. Joana Grey foi deposta em nove dias. Maria I reinou por cinco anos, sendo sucedida por Isabel I, que ocupou o trono por mais de 44 anos. O reinado de Maria I (1553-1558) foi marcado por muitas turbulências políticas devido:",
+   "alternativas": {
+    "a": "Às tensões religiosas que dividiam a sociedade inglesa e por sua ligação com o Catolicismo e com a monarquia espanhola, rival da Inglaterra.",
+    "b": "Ao seu projeto de centralização monárquica, revertendo a participação que a nobreza havia alcançado durante o reinado de Henrique VIII.",
+    "c": "À sua proximidade com mercadores e banqueiros de origem judaica, que afetava os interesses do Tribunal do Santo Ofício na Inglaterra.",
+    "d": "Ao seu projeto de colonização da América com o apoio dos puritanos e calvinistas ingleses.",
+    "e": "Às tentativas de reforma social, que afetariam os interesses da nobreza e do alto clero na Inglaterra."
+   },
+   "resposta": "a",
+   "explicacao": "Maria I era filha de Henrique VIII com Catarina de Aragão e tentou reverter a Reforma Anglicana iniciada pelo pai, restaurando o catolicismo e perseguindo protestantes — o que lhe rendeu o apelido de Maria, a Sanguinária. Seu casamento com Filipe II da Espanha, potência católica rival, agravou a rejeição interna. As demais alternativas deslocam o conflito para eixos que não valeram no período: a centralização monárquica foi obra de Henrique VIII, o Santo Ofício não operava na Inglaterra, e a colonização inglesa da América só deslancharia sob os Stuart, no século XVII.",
+   "origem": "direito",
+   "frenteOrigem": "historia-geral"
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "dir-historia-geral-111",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "\"A própria Companhia de Jesus, fundada em 1540, era fruto do ideal reformador. Assim também foi sua intervenção na América. Os jesuítas viajaram leves, livres da bagagem do passado. Procuraram implantar um cristianismo isento dos erros que desfiguraram a Fé na Europa. Seu impulso utópico acabou por florescer plenamente no século XVII, com as suas chamadas Reduções jesuíticas (principalmente no Paraguai).\"\n(BARNADAS, J. M. \"A Igreja Católica na América Espanhola Colonial\". In BETHEL, L. (org.) América Latina Colonial. São Paulo: Edusp, 1997, v. 1 p. 525.)",
+   "enunciado": "A respeito da Companhia de Jesus na Época Moderna, é correto afirmar:",
+   "alternativas": {
+    "a": "Foi formada durante a Reforma Católica mas acabou por se articular com os reformistas protestantes devido a divergências com o papado.",
+    "b": "Tornou-se um dos principais instrumentos de perseguição aos judeus, atuando, sobretudo, na Holanda e na Alemanha, bases territoriais dessa ofensiva.",
+    "c": "Envolveu-se em disputas com colonos laicos pelo controle dos povos originários na América.",
+    "d": "Caracterizou-se pelo estabelecimento de escolas inspiradas no pensamento ilustrado e na defesa do humanismo laico.",
+    "e": "Posicionou-se oficialmente contra a escravização dos africanos, contra o tráfico negreiro e o cativeiro dos indígenas americanos."
+   },
+   "resposta": "c",
+   "explicacao": "As reduções e missões jesuíticas concentravam indígenas sob tutela religiosa, e isso os retirava do alcance dos colonos que os queriam como mão de obra escravizada — daí o choque permanente, de que os ataques dos bandeirantes às missões do Guairá são o exemplo brasileiro mais conhecido. A alternativa a inverte o alinhamento: a Companhia nasceu como braço da Contrarreforma, contra os protestantes. A e é a distratora mais sedutora: os jesuítas defenderam os indígenas em várias ocasiões, mas a Ordem não se opôs oficialmente à escravidão africana, e chegou a possuir escravizados em suas propriedades.",
+   "origem": "direito",
+   "frenteOrigem": "historia-geral"
   }
  ],
  "historia-geral-antiga-medieval": [
@@ -82081,6 +82495,30 @@ window.QUESTION_BANKS = {
    "explicacao": "A boa conservação dos sambaquis se deve à ação da água da chuva, que dissolve e reprecipita o carbonato de cálcio das conchas, cimentando o monte e conferindo-lhe maior resistência à erosão ao longo do tempo.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-fisica-clima",
+   "id": "dir-geografia-178",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Mapa",
+    "arquivo": "assets/provas/fgv-2023.1-q30.jpg",
+    "descricao": "Mapa do Brasil dividido nos seis biomas continentais, cada um em uma cor. A Amazônia ocupa em verde toda a porção norte e noroeste; o Cerrado, em rosa, o centro do país; a Caatinga, em amarelo, o interior do Nordeste; a Mata Atlântica, em verde-claro, uma faixa contínua ao longo de todo o litoral leste e sul; o Pantanal, em cinza-claro, uma pequena área a oeste; e o Pampa, no extremo sul. Fonte indicada no mapa: IBGE."
+   },
+   "enunciado": "Analise o mapa acima. Em 2022, pouco mais de 10% do bioma Mata Atlântica original estão preservados.\nAssinale a opção que apresenta, corretamente, uma razão para a afirmação acima.",
+   "alternativas": {
+    "a": "No século XVI, a produção de energia: a floresta, ao ser queimada, produz lenha para as vilas e núcleos urbanos e nutrientes para o solo.",
+    "b": "No século XVII, a economia canavieira: a cana-de-açúcar precisa de certas condições ambientais para crescer, principalmente umidade.",
+    "c": "No século XXI, o crescimento das cidades: a especulação imobiliária incorpora as áreas florestadas ao espaço urbano como indicador de bem-estar e qualidade de vida.",
+    "d": "No século XX, o crescimento econômico: a exportação de madeira garante o acesso aos mercados internacionais de recursos naturais e estabilizava a balança comercial.",
+    "e": "No século XIX, a economia cafeeira: a expansão da cafeicultura, inicialmente no Vale do Paraíba e, depois, no Planalto Paulista, se dá pela incorporação de novas áreas florestais."
+   },
+   "resposta": "e",
+   "explicacao": "A Mata Atlântica é o bioma mais devastado do país porque coincide com a faixa de ocupação mais antiga e mais densa, e o golpe decisivo veio da cafeicultura do século XIX. A lavoura avançava derrubando mata virgem, esgotava o solo pela ausência de técnicas de conservação e seguia adiante — do Vale do Paraíba para o Oeste Paulista —, num padrão que ficou conhecido como lavoura itinerante. As demais alternativas ou citam atividades de impacto menor sobre esse bioma, ou, no caso de c, invertem o efeito, tratando a especulação imobiliária como preservação.",
+   "origem": "direito",
+   "frenteOrigem": "geografia"
   }
  ],
  "geografia-agraria-economica": [
@@ -83494,6 +83932,85 @@ window.QUESTION_BANKS = {
    "explicacao": "O crescimento das vendas de tratores e colheitadeiras entre o final dos anos 1960 e o início dos anos 1970 está diretamente ligado à difusão da Revolução Verde no Brasil, que estimulou a modernização e a mecanização da agricultura.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "dir-geografia-173",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "texto_apoio": "A crise do modelo fordista de produção, que se evidenciou na década de 1970, desencadeou um longo processo de reestruturação dos setores econômicos e trouxe, em seu bojo, transformações nas esferas social e política, a partir das mudanças no mundo do trabalho e nas formas de atuação dos Estados nacionais.\n(SANTOS, Eliane C. A reestruturação produtiva – do fordismo à produção flexível no estado de São Paulo. Editora UNESP. 2015. Adaptado.)",
+   "enunciado": "Sobre a crise do modelo de produção fordista, analise as afirmações a seguir.\nI. O declínio no padrão de acumulação do modelo fordista provocou uma recessão que, para ser superada, exigiu ajustes que interromperam décadas de crescimento econômico.\nII. O modelo de desenvolvimento fordista, que estava assentado na regulação econômica pelo Estado, entrou em crise devido à rigidez do processo produtivo e das medidas regulatórias.\nIII. A crise do modelo fordista foi superada pela adoção de medidas que tornaram mais flexíveis os processos de trabalho, as cadeias produtivas e os padrões de consumo.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "a": "I, apenas",
+    "b": "I e II, apenas",
+    "c": "I e III, apenas",
+    "d": "II e III, apenas",
+    "e": "I, II e III"
+   },
+   "resposta": "e",
+   "explicacao": "As três afirmações descrevem etapas do mesmo processo. A crise do fordismo, deflagrada na década de 1970 e agravada pelos choques do petróleo, encerrou os chamados Trinta Gloriosos de crescimento contínuo do pós-guerra (I). Sua causa está na rigidez do arranjo — linha de montagem inflexível, produção em massa de itens padronizados e forte regulação estatal de tipo keynesiano (II). A saída foi a acumulação flexível descrita por David Harvey: produção enxuta no modelo toyotista, terceirização, cadeias produtivas dispersas e consumo segmentado (III).",
+   "origem": "direito",
+   "frenteOrigem": "geografia"
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "dir-geografia-175",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "vf",
+   "enunciado": "Sobre os sistemas de transporte, indispensáveis para a compreensão do funcionamento do território, analise as afirmações a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n(  ) Os países que têm sistemas de transporte mais articulados e modais capazes de oferecer menores custos operacionais, inserem sua produção de modo mais competitivo no mercado internacional.\n(  ) A velocidade dos fluxos na circulação de mercadorias foi acelerada graças ao uso do contêiner, porque ele possibilitou a integração dos diferentes modais e tornou o movimento de cargas ainda mais eficiente.\n(  ) Os sistemas de informação conjugados às redes de transporte garantem o rastreamento e o monitoramento de cargas, como, por exemplo, o GPS, o que permite uma logística de distribuição em sistema just-in-time.\nAs afirmações são, na ordem apresentada, respectivamente,",
+   "alternativas": {
+    "a": "V – F – V.",
+    "b": "F – V – V.",
+    "c": "V – V – V.",
+    "d": "V – V – F.",
+    "e": "F – V – F."
+   },
+   "resposta": "c",
+   "explicacao": "As três são verdadeiras e descrevem a mesma lógica logística. O custo de transporte entra no preço final, de modo que uma malha articulada é vantagem competitiva direta (I). A conteinerização, difundida a partir dos anos 1960, padronizou a unidade de carga e permitiu passá-la de navio para trem e caminhão sem manuseio, o que é a definição de intermodalidade (II). E o rastreamento por GPS é justamente o que viabiliza o just-in-time, sistema que só funciona quando se sabe onde cada carga está e quando chega (III).",
+   "origem": "direito",
+   "frenteOrigem": "geografia"
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "dir-geografia-176",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "texto_apoio": "\"A disponibilidade de energia em quantidade e qualidade adequadas, a custos competitivos, é um dos mais importantes pré-requisitos para o desenvolvimento econômico. Em vista disso, a energia tem sido tratada como um bem estratégico, e não por acaso, a segurança energética tornou-se um dos temas mais relevantes do planejamento.\"\n(TOLMASQUIM, Mauricio T. et alii. Matriz energética brasileira: uma prospectiva. CEBRASP. São Paulo. 2008.)",
+   "enunciado": "Sobre a questão energética, analise as afirmações a seguir.\nI. O acesso a recursos energéticos de menor custo e de baixo impacto ambiental gera vantagens comparativas para a economia.\nII. A disponibilidade de recursos energéticos renováveis e de tecnologia para transformá-los em energia agrega valor à produção industrial.\nIII. O crescimento da energia nuclear e das fontes de energia renováveis acentua a tendência de esgotamento das jazidas de combustíveis fósseis.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "a": "I, apenas",
+    "b": "I e II, apenas",
+    "c": "I e III, apenas",
+    "d": "II e III, apenas",
+    "e": "I, II e III"
+   },
+   "resposta": "b",
+   "explicacao": "I e II estão corretas e são o próprio argumento do texto: energia barata e limpa reduz custo e passivo ambiental, e dominar a tecnologia de conversão agrega valor à indústria. III inverte a relação causal — ao substituírem os fósseis na matriz, a energia nuclear e as renováveis ALIVIAM a pressão sobre as jazidas e retardam seu esgotamento, em vez de acentuá-lo. Reconhecer essa inversão é o único passo que a questão realmente exige.",
+   "origem": "direito",
+   "frenteOrigem": "geografia"
+  },
+  {
+   "subtema": "geografia-agraria-economica",
+   "id": "dir-geografia-177",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "excecao",
+   "texto_apoio": "No Brasil, os sistemas de transporte foram modernizados para atender a atividades muito específicas que são operadas por grandes corporações do agronegócio ou da indústria extrativa mineral. A natureza dos sistemas de transporte aparece muito ligada às demandas das atividades voltadas, sobretudo, para a exportação de commodities.",
+   "enunciado": "A esse respeito, assinale a afirmação incorreta.",
+   "alternativas": {
+    "a": "A integração do território, a partir da instalação de uma infraestrutura de transporte, possibilitou a expansão da agricultura empresarial no bioma cerrado.",
+    "b": "A instalação da infraestrutura de armazenagem, processamento e escoamento da produção agrícola do Brasil Central deu origem a novos corredores de exportação.",
+    "c": "As redes de transporte, para viabilizar o escoamento das commodities do agronegócio, estruturaram novos eixos produtivos e induziram novos dinamismos regionais.",
+    "d": "A instalação da malha rodoviária, modal de transporte eficiente e de baixo custo, estimulou as exportações de commodities, produtos volumosos e de menor valor agregado.",
+    "e": "As inovações decorrentes das pesquisas da Embrapa e a instalação de um sistema de transporte foram responsáveis por novas frentes agrícolas no domínio do cerrado."
+   },
+   "resposta": "d",
+   "explicacao": "A questão pede a afirmação INCORRETA. O rodoviário é justamente o modal mais caro por tonelada-quilômetro em longas distâncias, e a dependência dele é apontada como gargalo da competitividade brasileira: para carga volumosa e de baixo valor agregado, como grãos e minério, o eficiente seria o ferroviário ou o hidroviário. As outras quatro descrevem corretamente a ocupação agrícola do Cerrado, viabilizada pela pesquisa da Embrapa em correção de solos e pelos corredores de exportação do Brasil Central.",
+   "origem": "direito",
+   "frenteOrigem": "geografia"
   }
  ],
  "geografia-geopolitica": [
@@ -84576,6 +85093,26 @@ window.QUESTION_BANKS = {
    "explicacao": "A ampliação do G20 reconheceu o peso das economias emergentes na coordenação da ordem mundial, mas não alterou a estrutura de voto do FMI nem a composição do Conselho de Segurança, o que mantém a assimetria entre centro e periferia na governança global.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-geopolitica",
+   "id": "dir-geografia-174",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Globalização é uma nova palavra para um processo que remonta, em última análise, à expansão da civilização europeia desde o final do século XV. Muitos dos fenômenos apresentados para sugerir o advento de uma nova era constituem a reprodução, sob nova roupagem, de tendências antigas. Mesmo assim, as discussões sobre globalização ou mundialização da economia adquiriram, nas últimas décadas, uma importância estratégica.",
+   "enunciado": "Sobre o processo contemporâneo de mundialização da economia, assinale a afirmação correta.",
+   "alternativas": {
+    "a": "Os Estados nacionais, em consequência do predomínio das políticas neoliberais, estão sendo compelidos a aumentar sua presença na economia.",
+    "b": "A economia globalizada vem sendo crescentemente dominada por empresas nacionais, que apresentam profunda identificação com seu país de origem.",
+    "c": "A globalização produziu um sistema econômico fortemente integrado, de caráter supranacional, que tende a enfraquecer as fronteiras nacionais.",
+    "d": "A mundialização da economia permitiu a formação de blocos econômicos regionais que conduziram a uma autonomia sem precedentes das economias nacionais.",
+    "e": "As transações financeiras internacionais criaram mercados regionais, diante dos quais a autonomia das políticas nacionais e a dos bancos centrais tendem a desaparecer."
+   },
+   "resposta": "c",
+   "explicacao": "A globalização integrou produção, finanças e informação numa escala que ultrapassa o território de cada Estado, e é nesse sentido que se fala em enfraquecimento das fronteiras — barreiras alfandegárias caem, capital circula quase sem atrito e cadeias produtivas se espalham por vários países. As distratoras invertem cada termo: o neoliberalismo reduz, não aumenta, a presença do Estado na economia (a); quem domina a economia globalizada são corporações transnacionais, sem a identificação nacional descrita em b; e blocos regionais implicam ceder soberania, não ganhar autonomia (d).",
+   "origem": "direito",
+   "frenteOrigem": "geografia"
   }
  ],
  "geografia-ambiente-sustentabilidade": [
@@ -104429,6 +104966,55 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "banca": "einstein",
    "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-geopolitica",
+   "id": "dir-atualidades-geopolitica-154",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "vf",
+   "visual": {
+    "tipo": "Mapa",
+    "arquivo": "assets/provas/fgv-2023.1-q16.jpg",
+    "descricao": "Planisfério que colore cada país conforme a variação da sua taxa básica de juros, em pontos percentuais, no primeiro semestre de 2022. A legenda vai de azul, para diminuição, ao amarelo, laranja, vermelho e marrom, conforme o aumento cresce. Estão rotulados, entre outros: Canadá 2,25 p.p., EUA 2,5 p.p., México 2,25 p.p., Venezuela 4,41 p.p., Brasil 4 p.p., Chile 5,75 p.p., Uruguai 4 p.p., Reino Unido 1 p.p., Zona do Euro 0,5 p.p., Ucrânia 16 p.p., Rússia 1 p.p., Índia 0,9 p.p., China −0,10 p.p., África do Sul 1,75 p.p. e Austrália 1,25 p.p. A China é o único grande país em azul. Fonte indicada: Country Economy."
+   },
+   "enunciado": "Observe o mapa acima, sobre o aumento ou a diminuição dos juros nominais (em pontos percentuais) no primeiro semestre de 2022.\nCom base no mapa, a respeito da evolução da política monetária internacional, assinale (V) para a afirmação verdadeira e (F) para a falsa.\n(  ) A Ucrânia elevou consideravelmente a sua taxa básica de juros em função da guerra com a Rússia.\n(  ) A China diminuiu suas taxas de juros para estimular o consumo diante da desaceleração da economia.\n(  ) Os Estados Unidos aumentaram a taxa de juros para compensar a deflação que está desvalorizando o dólar.\nAssinale a opção que indica a sequência correta, de cima para baixo.",
+   "alternativas": {
+    "a": "V – V – F.",
+    "b": "V – F – V.",
+    "c": "F – V – F.",
+    "d": "F – V – V.",
+    "e": "V – V – V."
+   },
+   "resposta": "a",
+   "explicacao": "A Ucrânia aparece no mapa com 16 p.p., de longe a maior alta, resposta à fuga de capitais e à inflação provocadas pela invasão russa (V). A China é o único grande país em azul, isto é, com corte de juros, movimento coerente com uma economia desacelerada pelos confinamentos e pela crise imobiliária (V). A terceira é falsa por dois motivos que se somam: em 2022 os Estados Unidos enfrentavam inflação alta, não deflação, e o aperto monetário do Federal Reserve VALORIZOU o dólar em vez de desvalorizá-lo. Basta identificar esse par de erros para fechar a sequência.",
+   "origem": "direito",
+   "frenteOrigem": "atualidades-geopolitica"
+  },
+  {
+   "subtema": "atualidades-geopolitica",
+   "id": "dir-atualidades-geopolitica-155",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Capa de revista",
+    "arquivo": "assets/provas/fgv-2023.1-q17.jpg",
+    "descricao": "Capa da revista The Economist de maio de 2022, sobre fundo azul-acinzentado, com o título \"The coming food catastrophe\". Abaixo do título, três espigas de trigo em que cada grão foi desenhado como uma pequena caveira humana."
+   },
+   "texto_apoio": "A volta da fome, uma tragédia anunciada\nÉ impossível subestimar a importância da invasão russa à Ucrânia para explicar o recente avanço da fome no mundo. Ucrânia e Rússia correspondem a 10% do comércio mundial de calorias, 30% das exportações mundiais de trigo e 60% das de óleo de girassol. Entre 20% e 30% da área de plantio da Ucrânia não poderá ser colhida e o bloqueio dos portos do país pelas tropas russas impede que os produtos disponíveis alcancem os mercados. Mas, embora haja grãos suficientes no mundo, eles não chegam à mesa de quem deles necessita, uma vez que é cada vez menor a proporção dos grãos que se destinam diretamente à alimentação humana. Além disso, as técnicas que favoreceram o avanço dos rendimentos agrícolas provocaram, ao mesmo tempo, uma dupla concentração: por um lado, poucos produtos (arroz, trigo, milho e soja) entram com mais de 50% da oferta global de calorias, por outro lado, 60% da produção concentra-se em alguns poucos países. Por isso, perdas de safra em qualquer destas regiões acabam tendo um impacto global de alto risco para a segurança alimentar mundial.\n(Adaptado de https://ricardoabramovay.com/2022/05/a-volta-da-fome-uma-tragedia-anunciada/. A capa reproduzida é da revista The Economist, 05/2022.)",
+   "enunciado": "Com base no texto, é correto afirmar que a atual crise global de abastecimento alimentar é uma consequência",
+   "alternativas": {
+    "a": "circunstancial, em função da guerra no leste europeu, pois Rússia e Ucrânia são grandes produtoras e exportadoras de cereais.",
+    "b": "inesperada, fruto da perda combinada de safras na Índia e na China, por questões climáticas, e no leste europeu, por questões bélicas.",
+    "c": "conjuntural, resultante da desorganização logística e portuária do transporte internacional, em função da pandemia e dos conflitos.",
+    "d": "estrutural, relacionada ao modelo produtivo que embasa as cadeias produtivas destinadas originalmente a alimentar o mundo e que, atualmente, encontram-se em colapso.",
+    "e": "ocasional, causada pelas barreiras comerciais impostas pela OTAN, responsáveis por represarem a livre circulação de mercadorias e trabalhadores."
+   },
+   "resposta": "d",
+   "explicacao": "O texto usa a guerra como porta de entrada, mas o argumento central vem depois do \"Mas\": há grãos suficientes no mundo e mesmo assim falta comida, porque a produção se concentrou em quatro cultivos e em poucos países, e boa parte dos grãos nem se destina ao consumo humano direto. Isso é diagnóstico ESTRUTURAL, do modelo produtivo. As alternativas a, c e e propõem causas passageiras — circunstancial, conjuntural, ocasional — que o texto explicitamente relativiza; e a b inventa perdas de safra na Índia e na China, que não aparecem em lugar nenhum.",
+   "origem": "direito",
+   "frenteOrigem": "atualidades-geopolitica"
   }
  ],
  "atualidades-meioambiente": [
@@ -106763,6 +107349,30 @@ window.QUESTION_BANKS = {
    "explicacao": "Reconhecer que há enquadramento não leva ao \"cada um tem sua verdade\": veículo que apura, cita fonte e corrige erro vale mais que o que não faz nada disso. Ceticismo é critério, não desistência.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-meioambiente",
+   "id": "dir-atualidades-meioambiente-103",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "visual": {
+    "tipo": "Fotografia",
+    "arquivo": "assets/provas/fgv-2023.1-q18.jpg",
+    "descricao": "Imagem de um ato de protesto em Brasília, em junho de 2022, após a morte do indigenista Bruno Pereira e do jornalista Dom Phillips. Sobre fundo vermelho aparecem os retratos estilizados dos dois, lado a lado, e entre eles a figura de uma pessoa indígena vista de costas, usando um cocar de penas azuis e amarelas. Crédito indicado: Reuters/Ueslei Marcelino."
+   },
+   "enunciado": "Em 2022, o assassinato de Bruno Pereira e do jornalista Dom Phillips reacendeu o debate sobre a violência contra ativistas ambientais no Brasil. Analise as afirmações a seguir a respeito de possíveis medidas a serem adotadas para aumentar a defesa dos ativistas.\nI. A ONU poderia estabelecer que os compromissos e as ações assinadas na COP26 para implementar o Acordo de Paris integrassem as proteções aos direitos humanos.\nII. Executivo e Legislativo federais poderiam elaborar e implementar um Código Florestal para auxiliar a proteger a terra e os partidários do meio ambiente.\nIII. Empresas e instituições financeiras poderiam excluir de suas operações globais e cadeias produtivas agentes causadores de riscos florestais e danos a defensores ambientais.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "a": "I, apenas.",
+    "b": "II, apenas.",
+    "c": "I e III, apenas.",
+    "d": "II e III, apenas.",
+    "e": "I, II e III."
+   },
+   "resposta": "c",
+   "explicacao": "I e III propõem medidas ainda não adotadas e coerentes com o problema: acoplar a agenda de direitos humanos aos compromissos climáticos e usar o poder de compra e de crédito das empresas para excluir agentes ligados à violência ambiental, mecanismo já em uso em cadeias de commodities. II é a única incorreta, e por um detalhe factual: o Código Florestal brasileiro não precisaria ser elaborado, porque já existe — a Lei 12.651 é de 2012 e substituiu o código de 1965. Propor criar o que já está em vigor é o erro que a banca plantou.",
+   "origem": "direito",
+   "frenteOrigem": "atualidades-meioambiente"
   }
  ],
  "atualidades-tecnologia": [

@@ -8061,6 +8061,123 @@
    "explicacao": "As raízes profundas dessa formação alimentam as cabeceiras de várias bacias do continente, e o desmatamento acelerado ali reduz a recarga e agrava a crise hídrica em regiões distantes, além de liberar o carbono estocado sob a superfície.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "dir-geografia-173",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "texto_apoio": "A crise do modelo fordista de produção, que se evidenciou na década de 1970, desencadeou um longo processo de reestruturação dos setores econômicos e trouxe, em seu bojo, transformações nas esferas social e política, a partir das mudanças no mundo do trabalho e nas formas de atuação dos Estados nacionais.\n(SANTOS, Eliane C. A reestruturação produtiva – do fordismo à produção flexível no estado de São Paulo. Editora UNESP. 2015. Adaptado.)",
+   "enunciado": "Sobre a crise do modelo de produção fordista, analise as afirmações a seguir.\nI. O declínio no padrão de acumulação do modelo fordista provocou uma recessão que, para ser superada, exigiu ajustes que interromperam décadas de crescimento econômico.\nII. O modelo de desenvolvimento fordista, que estava assentado na regulação econômica pelo Estado, entrou em crise devido à rigidez do processo produtivo e das medidas regulatórias.\nIII. A crise do modelo fordista foi superada pela adoção de medidas que tornaram mais flexíveis os processos de trabalho, as cadeias produtivas e os padrões de consumo.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "a": "I, apenas",
+    "b": "I e II, apenas",
+    "c": "I e III, apenas",
+    "d": "II e III, apenas",
+    "e": "I, II e III"
+   },
+   "resposta": "e",
+   "explicacao": "As três afirmações descrevem etapas do mesmo processo. A crise do fordismo, deflagrada na década de 1970 e agravada pelos choques do petróleo, encerrou os chamados Trinta Gloriosos de crescimento contínuo do pós-guerra (I). Sua causa está na rigidez do arranjo — linha de montagem inflexível, produção em massa de itens padronizados e forte regulação estatal de tipo keynesiano (II). A saída foi a acumulação flexível descrita por David Harvey: produção enxuta no modelo toyotista, terceirização, cadeias produtivas dispersas e consumo segmentado (III).",
+   "origem": "direito",
+   "frenteOrigem": "geografia"
+  },
+  {
+   "id": "dir-geografia-174",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Globalização é uma nova palavra para um processo que remonta, em última análise, à expansão da civilização europeia desde o final do século XV. Muitos dos fenômenos apresentados para sugerir o advento de uma nova era constituem a reprodução, sob nova roupagem, de tendências antigas. Mesmo assim, as discussões sobre globalização ou mundialização da economia adquiriram, nas últimas décadas, uma importância estratégica.",
+   "enunciado": "Sobre o processo contemporâneo de mundialização da economia, assinale a afirmação correta.",
+   "alternativas": {
+    "a": "Os Estados nacionais, em consequência do predomínio das políticas neoliberais, estão sendo compelidos a aumentar sua presença na economia.",
+    "b": "A economia globalizada vem sendo crescentemente dominada por empresas nacionais, que apresentam profunda identificação com seu país de origem.",
+    "c": "A globalização produziu um sistema econômico fortemente integrado, de caráter supranacional, que tende a enfraquecer as fronteiras nacionais.",
+    "d": "A mundialização da economia permitiu a formação de blocos econômicos regionais que conduziram a uma autonomia sem precedentes das economias nacionais.",
+    "e": "As transações financeiras internacionais criaram mercados regionais, diante dos quais a autonomia das políticas nacionais e a dos bancos centrais tendem a desaparecer."
+   },
+   "resposta": "c",
+   "explicacao": "A globalização integrou produção, finanças e informação numa escala que ultrapassa o território de cada Estado, e é nesse sentido que se fala em enfraquecimento das fronteiras — barreiras alfandegárias caem, capital circula quase sem atrito e cadeias produtivas se espalham por vários países. As distratoras invertem cada termo: o neoliberalismo reduz, não aumenta, a presença do Estado na economia (a); quem domina a economia globalizada são corporações transnacionais, sem a identificação nacional descrita em b; e blocos regionais implicam ceder soberania, não ganhar autonomia (d).",
+   "origem": "direito",
+   "frenteOrigem": "geografia"
+  },
+  {
+   "id": "dir-geografia-175",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "vf",
+   "enunciado": "Sobre os sistemas de transporte, indispensáveis para a compreensão do funcionamento do território, analise as afirmações a seguir e assinale (V) para a verdadeira e (F) para a falsa.\n(  ) Os países que têm sistemas de transporte mais articulados e modais capazes de oferecer menores custos operacionais, inserem sua produção de modo mais competitivo no mercado internacional.\n(  ) A velocidade dos fluxos na circulação de mercadorias foi acelerada graças ao uso do contêiner, porque ele possibilitou a integração dos diferentes modais e tornou o movimento de cargas ainda mais eficiente.\n(  ) Os sistemas de informação conjugados às redes de transporte garantem o rastreamento e o monitoramento de cargas, como, por exemplo, o GPS, o que permite uma logística de distribuição em sistema just-in-time.\nAs afirmações são, na ordem apresentada, respectivamente,",
+   "alternativas": {
+    "a": "V – F – V.",
+    "b": "F – V – V.",
+    "c": "V – V – V.",
+    "d": "V – V – F.",
+    "e": "F – V – F."
+   },
+   "resposta": "c",
+   "explicacao": "As três são verdadeiras e descrevem a mesma lógica logística. O custo de transporte entra no preço final, de modo que uma malha articulada é vantagem competitiva direta (I). A conteinerização, difundida a partir dos anos 1960, padronizou a unidade de carga e permitiu passá-la de navio para trem e caminhão sem manuseio, o que é a definição de intermodalidade (II). E o rastreamento por GPS é justamente o que viabiliza o just-in-time, sistema que só funciona quando se sabe onde cada carga está e quando chega (III).",
+   "origem": "direito",
+   "frenteOrigem": "geografia"
+  },
+  {
+   "id": "dir-geografia-176",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "texto_apoio": "\"A disponibilidade de energia em quantidade e qualidade adequadas, a custos competitivos, é um dos mais importantes pré-requisitos para o desenvolvimento econômico. Em vista disso, a energia tem sido tratada como um bem estratégico, e não por acaso, a segurança energética tornou-se um dos temas mais relevantes do planejamento.\"\n(TOLMASQUIM, Mauricio T. et alii. Matriz energética brasileira: uma prospectiva. CEBRASP. São Paulo. 2008.)",
+   "enunciado": "Sobre a questão energética, analise as afirmações a seguir.\nI. O acesso a recursos energéticos de menor custo e de baixo impacto ambiental gera vantagens comparativas para a economia.\nII. A disponibilidade de recursos energéticos renováveis e de tecnologia para transformá-los em energia agrega valor à produção industrial.\nIII. O crescimento da energia nuclear e das fontes de energia renováveis acentua a tendência de esgotamento das jazidas de combustíveis fósseis.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "a": "I, apenas",
+    "b": "I e II, apenas",
+    "c": "I e III, apenas",
+    "d": "II e III, apenas",
+    "e": "I, II e III"
+   },
+   "resposta": "b",
+   "explicacao": "I e II estão corretas e são o próprio argumento do texto: energia barata e limpa reduz custo e passivo ambiental, e dominar a tecnologia de conversão agrega valor à indústria. III inverte a relação causal — ao substituírem os fósseis na matriz, a energia nuclear e as renováveis ALIVIAM a pressão sobre as jazidas e retardam seu esgotamento, em vez de acentuá-lo. Reconhecer essa inversão é o único passo que a questão realmente exige.",
+   "origem": "direito",
+   "frenteOrigem": "geografia"
+  },
+  {
+   "id": "dir-geografia-177",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "excecao",
+   "texto_apoio": "No Brasil, os sistemas de transporte foram modernizados para atender a atividades muito específicas que são operadas por grandes corporações do agronegócio ou da indústria extrativa mineral. A natureza dos sistemas de transporte aparece muito ligada às demandas das atividades voltadas, sobretudo, para a exportação de commodities.",
+   "enunciado": "A esse respeito, assinale a afirmação incorreta.",
+   "alternativas": {
+    "a": "A integração do território, a partir da instalação de uma infraestrutura de transporte, possibilitou a expansão da agricultura empresarial no bioma cerrado.",
+    "b": "A instalação da infraestrutura de armazenagem, processamento e escoamento da produção agrícola do Brasil Central deu origem a novos corredores de exportação.",
+    "c": "As redes de transporte, para viabilizar o escoamento das commodities do agronegócio, estruturaram novos eixos produtivos e induziram novos dinamismos regionais.",
+    "d": "A instalação da malha rodoviária, modal de transporte eficiente e de baixo custo, estimulou as exportações de commodities, produtos volumosos e de menor valor agregado.",
+    "e": "As inovações decorrentes das pesquisas da Embrapa e a instalação de um sistema de transporte foram responsáveis por novas frentes agrícolas no domínio do cerrado."
+   },
+   "resposta": "d",
+   "explicacao": "A questão pede a afirmação INCORRETA. O rodoviário é justamente o modal mais caro por tonelada-quilômetro em longas distâncias, e a dependência dele é apontada como gargalo da competitividade brasileira: para carga volumosa e de baixo valor agregado, como grãos e minério, o eficiente seria o ferroviário ou o hidroviário. As outras quatro descrevem corretamente a ocupação agrícola do Cerrado, viabilizada pela pesquisa da Embrapa em correção de solos e pelos corredores de exportação do Brasil Central.",
+   "origem": "direito",
+   "frenteOrigem": "geografia"
+  },
+  {
+   "id": "dir-geografia-178",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Mapa",
+    "arquivo": "assets/provas/fgv-2023.1-q30.jpg",
+    "descricao": "Mapa do Brasil dividido nos seis biomas continentais, cada um em uma cor. A Amazônia ocupa em verde toda a porção norte e noroeste; o Cerrado, em rosa, o centro do país; a Caatinga, em amarelo, o interior do Nordeste; a Mata Atlântica, em verde-claro, uma faixa contínua ao longo de todo o litoral leste e sul; o Pantanal, em cinza-claro, uma pequena área a oeste; e o Pampa, no extremo sul. Fonte indicada no mapa: IBGE."
+   },
+   "enunciado": "Analise o mapa acima. Em 2022, pouco mais de 10% do bioma Mata Atlântica original estão preservados.\nAssinale a opção que apresenta, corretamente, uma razão para a afirmação acima.",
+   "alternativas": {
+    "a": "No século XVI, a produção de energia: a floresta, ao ser queimada, produz lenha para as vilas e núcleos urbanos e nutrientes para o solo.",
+    "b": "No século XVII, a economia canavieira: a cana-de-açúcar precisa de certas condições ambientais para crescer, principalmente umidade.",
+    "c": "No século XXI, o crescimento das cidades: a especulação imobiliária incorpora as áreas florestadas ao espaço urbano como indicador de bem-estar e qualidade de vida.",
+    "d": "No século XX, o crescimento econômico: a exportação de madeira garante o acesso aos mercados internacionais de recursos naturais e estabilizava a balança comercial.",
+    "e": "No século XIX, a economia cafeeira: a expansão da cafeicultura, inicialmente no Vale do Paraíba e, depois, no Planalto Paulista, se dá pela incorporação de novas áreas florestais."
+   },
+   "resposta": "e",
+   "explicacao": "A Mata Atlântica é o bioma mais devastado do país porque coincide com a faixa de ocupação mais antiga e mais densa, e o golpe decisivo veio da cafeicultura do século XIX. A lavoura avançava derrubando mata virgem, esgotava o solo pela ausência de técnicas de conservação e seguia adiante — do Vale do Paraíba para o Oeste Paulista —, num padrão que ficou conhecido como lavoura itinerante. As demais alternativas ou citam atividades de impacto menor sobre esse bioma, ou, no caso de c, invertem o efeito, tratando a especulação imobiliária como preservação.",
+   "origem": "direito",
+   "frenteOrigem": "geografia"
   }
  ]
 }

@@ -2394,6 +2394,53 @@
       "explicacao": "As três consequências descritas são coerentes com a lógica da desdolarização: menor demanda pelo dólar tende a desvalorizá-lo e pressionar a inflação americana (I), reduz a demanda por títulos do Tesouro dos EUA e eleva o custo da dívida pública (II), e o avanço de moedas alternativas em transações comerciais enfraquece a influência geopolítica americana (III).",
       "formato": "direta",
       "origem": "fgv-unificado-2026.1"
+    },
+    {
+      "id": "atualidades-geopolitica-154",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "vf",
+      "visual": {
+        "tipo": "Mapa",
+        "arquivo": "assets/provas/fgv-2023.1-q16.jpg",
+        "descricao": "Planisfério que colore cada país conforme a variação da sua taxa básica de juros, em pontos percentuais, no primeiro semestre de 2022. A legenda vai de azul, para diminuição, ao amarelo, laranja, vermelho e marrom, conforme o aumento cresce. Estão rotulados, entre outros: Canadá 2,25 p.p., EUA 2,5 p.p., México 2,25 p.p., Venezuela 4,41 p.p., Brasil 4 p.p., Chile 5,75 p.p., Uruguai 4 p.p., Reino Unido 1 p.p., Zona do Euro 0,5 p.p., Ucrânia 16 p.p., Rússia 1 p.p., Índia 0,9 p.p., China −0,10 p.p., África do Sul 1,75 p.p. e Austrália 1,25 p.p. A China é o único grande país em azul. Fonte indicada: Country Economy."
+      },
+      "enunciado": "Observe o mapa acima, sobre o aumento ou a diminuição dos juros nominais (em pontos percentuais) no primeiro semestre de 2022.\nCom base no mapa, a respeito da evolução da política monetária internacional, assinale (V) para a afirmação verdadeira e (F) para a falsa.\n(  ) A Ucrânia elevou consideravelmente a sua taxa básica de juros em função da guerra com a Rússia.\n(  ) A China diminuiu suas taxas de juros para estimular o consumo diante da desaceleração da economia.\n(  ) Os Estados Unidos aumentaram a taxa de juros para compensar a deflação que está desvalorizando o dólar.\nAssinale a opção que indica a sequência correta, de cima para baixo.",
+      "alternativas": {
+        "a": "V – V – F.",
+        "b": "V – F – V.",
+        "c": "F – V – F.",
+        "d": "F – V – V.",
+        "e": "V – V – V."
+      },
+      "resposta": "a",
+      "explicacao": "A Ucrânia aparece no mapa com 16 p.p., de longe a maior alta, resposta à fuga de capitais e à inflação provocadas pela invasão russa (V). A China é o único grande país em azul, isto é, com corte de juros, movimento coerente com uma economia desacelerada pelos confinamentos e pela crise imobiliária (V). A terceira é falsa por dois motivos que se somam: em 2022 os Estados Unidos enfrentavam inflação alta, não deflação, e o aperto monetário do Federal Reserve VALORIZOU o dólar em vez de desvalorizá-lo. Basta identificar esse par de erros para fechar a sequência.",
+      "origem": "direito",
+      "frenteOrigem": "atualidades-geopolitica"
+    },
+    {
+      "id": "atualidades-geopolitica-155",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "visual": {
+        "tipo": "Capa de revista",
+        "arquivo": "assets/provas/fgv-2023.1-q17.jpg",
+        "descricao": "Capa da revista The Economist de maio de 2022, sobre fundo azul-acinzentado, com o título \"The coming food catastrophe\". Abaixo do título, três espigas de trigo em que cada grão foi desenhado como uma pequena caveira humana."
+      },
+      "texto_apoio": "A volta da fome, uma tragédia anunciada\nÉ impossível subestimar a importância da invasão russa à Ucrânia para explicar o recente avanço da fome no mundo. Ucrânia e Rússia correspondem a 10% do comércio mundial de calorias, 30% das exportações mundiais de trigo e 60% das de óleo de girassol. Entre 20% e 30% da área de plantio da Ucrânia não poderá ser colhida e o bloqueio dos portos do país pelas tropas russas impede que os produtos disponíveis alcancem os mercados. Mas, embora haja grãos suficientes no mundo, eles não chegam à mesa de quem deles necessita, uma vez que é cada vez menor a proporção dos grãos que se destinam diretamente à alimentação humana. Além disso, as técnicas que favoreceram o avanço dos rendimentos agrícolas provocaram, ao mesmo tempo, uma dupla concentração: por um lado, poucos produtos (arroz, trigo, milho e soja) entram com mais de 50% da oferta global de calorias, por outro lado, 60% da produção concentra-se em alguns poucos países. Por isso, perdas de safra em qualquer destas regiões acabam tendo um impacto global de alto risco para a segurança alimentar mundial.\n(Adaptado de https://ricardoabramovay.com/2022/05/a-volta-da-fome-uma-tragedia-anunciada/. A capa reproduzida é da revista The Economist, 05/2022.)",
+      "enunciado": "Com base no texto, é correto afirmar que a atual crise global de abastecimento alimentar é uma consequência",
+      "alternativas": {
+        "a": "circunstancial, em função da guerra no leste europeu, pois Rússia e Ucrânia são grandes produtoras e exportadoras de cereais.",
+        "b": "inesperada, fruto da perda combinada de safras na Índia e na China, por questões climáticas, e no leste europeu, por questões bélicas.",
+        "c": "conjuntural, resultante da desorganização logística e portuária do transporte internacional, em função da pandemia e dos conflitos.",
+        "d": "estrutural, relacionada ao modelo produtivo que embasa as cadeias produtivas destinadas originalmente a alimentar o mundo e que, atualmente, encontram-se em colapso.",
+        "e": "ocasional, causada pelas barreiras comerciais impostas pela OTAN, responsáveis por represarem a livre circulação de mercadorias e trabalhadores."
+      },
+      "resposta": "d",
+      "explicacao": "O texto usa a guerra como porta de entrada, mas o argumento central vem depois do \"Mas\": há grãos suficientes no mundo e mesmo assim falta comida, porque a produção se concentrou em quatro cultivos e em poucos países, e boa parte dos grãos nem se destina ao consumo humano direto. Isso é diagnóstico ESTRUTURAL, do modelo produtivo. As alternativas a, c e e propõem causas passageiras — circunstancial, conjuntural, ocasional — que o texto explicitamente relativiza; e a b inventa perdas de safra na Índia e na China, que não aparecem em lugar nenhum.",
+      "origem": "direito",
+      "frenteOrigem": "atualidades-geopolitica"
     }
   ]
 }

@@ -1669,6 +1669,81 @@
       "explicacao": "A Revolução Neolítica, marcada pela adoção da agricultura e da domesticação de animais, garantiu oferta regular de alimentos e permitiu a fixação de grupos humanos em um mesmo território, dando origem ao sedentarismo.",
       "formato": "direta",
       "origem": "insper-2026.2"
+    },
+    {
+      "id": "historia-geral-108",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "enunciado": "O trono inglês teve suas primeiras rainhas governantes no século XVI. Joana Grey foi deposta em nove dias. Maria I reinou por cinco anos, sendo sucedida por Isabel I, que ocupou o trono por mais de 44 anos. O reinado de Maria I (1553-1558) foi marcado por muitas turbulências políticas devido:",
+      "alternativas": {
+        "a": "Às tensões religiosas que dividiam a sociedade inglesa e por sua ligação com o Catolicismo e com a monarquia espanhola, rival da Inglaterra.",
+        "b": "Ao seu projeto de centralização monárquica, revertendo a participação que a nobreza havia alcançado durante o reinado de Henrique VIII.",
+        "c": "À sua proximidade com mercadores e banqueiros de origem judaica, que afetava os interesses do Tribunal do Santo Ofício na Inglaterra.",
+        "d": "Ao seu projeto de colonização da América com o apoio dos puritanos e calvinistas ingleses.",
+        "e": "Às tentativas de reforma social, que afetariam os interesses da nobreza e do alto clero na Inglaterra."
+      },
+      "resposta": "a",
+      "explicacao": "Maria I era filha de Henrique VIII com Catarina de Aragão e tentou reverter a Reforma Anglicana iniciada pelo pai, restaurando o catolicismo e perseguindo protestantes — o que lhe rendeu o apelido de Maria, a Sanguinária. Seu casamento com Filipe II da Espanha, potência católica rival, agravou a rejeição interna. As demais alternativas deslocam o conflito para eixos que não valeram no período: a centralização monárquica foi obra de Henrique VIII, o Santo Ofício não operava na Inglaterra, e a colonização inglesa da América só deslancharia sob os Stuart, no século XVII.",
+      "origem": "direito",
+      "frenteOrigem": "historia-geral"
+    },
+    {
+      "id": "historia-geral-109",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "texto_apoio": "\"Do Império britânico pode-se dizer que se não foi o mais duradouro no tempo, o foi em extensão espacial e poder universal, tendo sido o maior de todos quantos a história já registrou. No seu auge, na segunda metade do século XIX, dominava todos os oceanos, sobre toda a economia mundial (particularmente comércio e finanças) e tinha possessões diretas em todos os continentes...\"\n(FLORENZANO, M. Lições de História Moderna (séculos XV a XX). São Paulo: Intermeios, 2021, p. 171.)",
+      "enunciado": "As razões para a hegemonia britânica devem ser atribuídas:",
+      "alternativas": {
+        "a": "Ao privilegiado posicionamento geográfico inglês, que garantiu o controle sobre as rotas marítimas mundiais.",
+        "b": "À primazia de suas navegações e expedições marítimas, que permitiram aos ingleses se apropriarem mais cedo de importantes entrepostos comerciais.",
+        "c": "Ao sucesso de sua colonização na América, cujas colônias se estabeleceram com base na pequena propriedade e no mercado interno.",
+        "d": "Às políticas econômicas desenvolvidas pelo Estado britânico, que privilegiaram o comércio de artigos de luxo e de pedras preciosas.",
+        "e": "À combinação entre o desenvolvimento industrial e a subordinação de estados e territórios aos seus interesses econômicos e políticos."
+      },
+      "resposta": "e",
+      "explicacao": "A hegemonia britânica do século XIX se explica pelo encontro de dois processos: a Revolução Industrial, que deu à Grã-Bretanha vantagem produtiva e financeira sem paralelo, e o imperialismo, que submeteu territórios formalmente colonizados e também países nominalmente independentes à sua órbita econômica — o chamado imperialismo informal, como no caso da América Latina. As demais alternativas isolam fatores secundários: a posição geográfica e as navegações precedem em muito o auge descrito, e a primazia nas navegações da era moderna coube a portugueses e espanhóis, não aos ingleses.",
+      "origem": "direito",
+      "frenteOrigem": "historia-geral"
+    },
+    {
+      "id": "historia-geral-110",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "texto_apoio": "\"Em 1968, o planeta todo pegou fogo. Foi como se uma palavra de ordem universal tivesse sido dada. Em Paris, Roma, Berlim ou Turim, a calçada e o paralelepípedo tornaram-se símbolos de uma geração revoltada. 'We want the world and we want it now' (queremos o mundo e o queremos já) cantava Jim Morrisson (...)\"\n(COHN-BENDIT, Daniel. Nós que amávamos tanto a revolução. São Paulo: Brasiliense, 1987, p. 10.)",
+      "enunciado": "Os acontecimentos aludidos por Cohn-Bendit referem-se:",
+      "alternativas": {
+        "a": "A manifestações de jovens pela liberdade de escolha de suas profissões e por medidas sociais de proteção para a sua formação universitária.",
+        "b": "À rebeldia juvenil expressada na contestação aos padrões da sociedade da época e à produção de uma contracultura.",
+        "c": "A propostas de reforma do ensino com a extinção de escolas e centros de estudos religiosos e a adoção de uma educação agnóstica.",
+        "d": "A revoltas e passeatas contra os atos terroristas promovidos por grupos de extrema-esquerda em diversas cidades europeias.",
+        "e": "A reações de setores democráticos contra a emergência de grupos neonazistas e neofascistas no interior das universidades europeias."
+      },
+      "resposta": "b",
+      "explicacao": "1968 foi o ano do Maio Francês, da Primavera de Praga, das mobilizações contra a Guerra do Vietnã e, no Brasil, da Passeata dos Cem Mil. O próprio Cohn-Bendit foi liderança estudantil em Paris. O que unia esses movimentos não era uma pauta corporativa, mas a contestação ampla dos costumes, da autoridade e do consumo — a contracultura, de que o verso de Jim Morrison citado é emblema. As distratoras reduzem o fenômeno a reivindicações profissionais ou invertem o sinal político, colocando os jovens como reação ao invés de sujeitos da revolta.",
+      "origem": "direito",
+      "frenteOrigem": "historia-geral"
+    },
+    {
+      "id": "historia-geral-111",
+      "banca": "fgv",
+      "sessao": "fgv-unificado-2023.1",
+      "formato": "direta",
+      "texto_apoio": "\"A própria Companhia de Jesus, fundada em 1540, era fruto do ideal reformador. Assim também foi sua intervenção na América. Os jesuítas viajaram leves, livres da bagagem do passado. Procuraram implantar um cristianismo isento dos erros que desfiguraram a Fé na Europa. Seu impulso utópico acabou por florescer plenamente no século XVII, com as suas chamadas Reduções jesuíticas (principalmente no Paraguai).\"\n(BARNADAS, J. M. \"A Igreja Católica na América Espanhola Colonial\". In BETHEL, L. (org.) América Latina Colonial. São Paulo: Edusp, 1997, v. 1 p. 525.)",
+      "enunciado": "A respeito da Companhia de Jesus na Época Moderna, é correto afirmar:",
+      "alternativas": {
+        "a": "Foi formada durante a Reforma Católica mas acabou por se articular com os reformistas protestantes devido a divergências com o papado.",
+        "b": "Tornou-se um dos principais instrumentos de perseguição aos judeus, atuando, sobretudo, na Holanda e na Alemanha, bases territoriais dessa ofensiva.",
+        "c": "Envolveu-se em disputas com colonos laicos pelo controle dos povos originários na América.",
+        "d": "Caracterizou-se pelo estabelecimento de escolas inspiradas no pensamento ilustrado e na defesa do humanismo laico.",
+        "e": "Posicionou-se oficialmente contra a escravização dos africanos, contra o tráfico negreiro e o cativeiro dos indígenas americanos."
+      },
+      "resposta": "c",
+      "explicacao": "As reduções e missões jesuíticas concentravam indígenas sob tutela religiosa, e isso os retirava do alcance dos colonos que os queriam como mão de obra escravizada — daí o choque permanente, de que os ataques dos bandeirantes às missões do Guairá são o exemplo brasileiro mais conhecido. A alternativa a inverte o alinhamento: a Companhia nasceu como braço da Contrarreforma, contra os protestantes. A e é a distratora mais sedutora: os jesuítas defenderam os indígenas em várias ocasiões, mas a Ordem não se opôs oficialmente à escravidão africana, e chegou a possuir escravizados em suas propriedades.",
+      "origem": "direito",
+      "frenteOrigem": "historia-geral"
     }
   ]
 }

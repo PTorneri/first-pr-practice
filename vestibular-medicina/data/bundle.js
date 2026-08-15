@@ -111308,6 +111308,669 @@ window.QUESTION_BANKS = {
    "explicacao": "A banca dá um texto que o candidato nunca viu e pede que ele o analise. Quem só decorou conclusões não tem com que trabalhar — falta o repertório de mecanismos que permite ler o texto novo.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-184",
+   "texto_apoio": "Levantamentos domiciliares mostram que, entre os jovens de 15 a 17 anos fora da rede de ensino, os motivos mais citados são a necessidade de trabalhar e o desinteresse pelo curso, e que a saída costuma vir precedida de reprovações.",
+   "enunciado": "A leitura mais adequada da evasão escolar no ensino médio a partir desses dados é:",
+   "alternativas": {
+    "a": "a evasão é decisão tomada de um dia para o outro, sem sinais anteriores que permitissem à rede de ensino identificar o estudante em risco antes da saída definitiva",
+    "b": "a evasão resulta de um processo acumulado de reprovação e distorção idade-série, agravado pela pressão para entrar no mercado de trabalho",
+    "c": "a evasão se explica pela ausência de vagas na rede pública, gargalo que responde pela maior parte das saídas registradas nessa faixa etária no país",
+    "d": "a evasão atinge de modo homogêneo os diferentes grupos de renda, o que a caracteriza como fenômeno de escolha individual desvinculado da posição social da família",
+    "e": "a evasão desapareceria com a ampliação do número de estabelecimentos de ensino, já que a distância até a unidade é o motivo declarado pela maioria dos jovens ouvidos"
+   },
+   "resposta": "b",
+   "explicacao": "Quem sai já vinha saindo. A reprovação empurra o estudante para uma turma de colegas mais novos, a defasagem corrói o sentido de continuar, e o trabalho aparece como alternativa concreta. Políticas de busca ativa funcionam porque agem sobre esse acúmulo, e não sobre o dia da desistência.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-185",
+   "texto_apoio": "Desde 2009 o ENEM passou a ser usado como porta de entrada ao ensino superior, articulado a programas de vaga pública e de bolsa em instituição privada, substituindo em boa parte das instituições o vestibular próprio.",
+   "enunciado": "O efeito estrutural mais relevante dessa mudança foi:",
+   "alternativas": {
+    "a": "eliminar a desigualdade de renda no acesso ao ensino superior, uma vez que a prova única passou a medir apenas o mérito individual de cada candidato inscrito",
+    "b": "reduzir o número de jovens que buscam o ensino superior, resultado do aumento da concorrência por vaga em instituições situadas fora da cidade de origem",
+    "c": "encerrar a expansão da rede privada, que perdeu sentido diante da oferta pública ampliada nas capitais e nas cidades de médio porte do território nacional",
+    "d": "ampliar a mobilidade geográfica do candidato, que passa a concorrer a vagas em outros estados com uma única inscrição e um único calendário",
+    "e": "transferir às universidades a definição do conteúdo cobrado, arranjo que devolveu a cada instituição a autonomia sobre o processo seletivo de ingresso da juventude"
+   },
+   "resposta": "d",
+   "explicacao": "Antes, concorrer em outro estado significava viajar, pagar outra taxa e estudar outro programa. A prova única derrubou esse custo e redesenhou o mapa de quem estuda onde. O ganho é real, mas não anula a desigualdade de renda anterior à prova: ela apenas muda o ponto em que a seleção acontece.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-186",
+   "texto_apoio": "Indicadores distinguem o analfabetismo absoluto — não saber ler nem escrever um bilhete simples — do analfabetismo funcional, em que a pessoa decodifica palavras mas não extrai sentido de um texto de complexidade média.",
+   "enunciado": "Acompanhar os dois indicadores importa porque:",
+   "alternativas": {
+    "a": "o analfabetismo funcional atinge parcela bem maior da população adulta e limita o desempenho no mercado de trabalho mesmo entre quem concluiu a etapa obrigatória",
+    "b": "os dois indicadores medem a mesma coisa em escalas diferentes, de modo que acompanhar um deles basta para descrever a situação educacional do país",
+    "c": "o analfabetismo absoluto voltou a crescer no Brasil na década de 2010, revertendo a tendência observada desde a redemocratização nas diferentes faixas de idade",
+    "d": "o analfabetismo funcional se concentra entre pessoas idosas, grupo que já saiu da vida produtiva e por isso não interfere nos indicadores nacionais de escolaridade",
+    "e": "a distinção existe por razões estatísticas internacionais, sem correspondência com diferenças de trajetória escolar entre os grupos medidos por cada um dos indicadores"
+   },
+   "resposta": "a",
+   "explicacao": "O analfabetismo absoluto recuou e se concentra hoje entre pessoas idosas; o funcional é o problema vivo, e ele aparece dentro da escola, não fora dela. Um diploma que não vem acompanhado de leitura proficiente devolve ao adulto uma dificuldade que ninguém registrou como fracasso escolar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-187",
+   "texto_apoio": "A reformulação do ensino médio aprovada em 2017 dividiu a carga entre formação geral básica e itinerários formativos escolhidos pelo estudante. Em 2024, uma nova lei ampliou a carga comum e reduziu o espaço dos itinerários.",
+   "enunciado": "A crítica que motivou essa revisão apontava que:",
+   "alternativas": {
+    "a": "os itinerários exigiam professor com formação específica, requisito que as redes cumpriram com folga já no primeiro ano de vigência do desenho original aprovado",
+    "b": "a formação geral básica havia sido ampliada além do necessário, deixando pouco espaço para os componentes de escolha do estudante em cada rede de ensino",
+    "c": "a oferta de itinerários dependia da estrutura de cada escola, de modo que a escolha prometida ao estudante variava conforme a rede em que ele estava matriculado",
+    "d": "a mudança elevou o custo de matrícula na rede privada, efeito que não se verificou nas unidades públicas por causa do financiamento definido em lei específica",
+    "e": "os itinerários foram desenhados para a juventude que já trabalha, público que não corresponde à maior parte das matrículas registradas na etapa em questão"
+   },
+   "resposta": "c",
+   "explicacao": "Escolha só é escolha quando há alternativas. Onde a rede oferecia um único itinerário, o estudante escolhia o que havia — e a promessa de personalização virou sorteio de endereço. A revisão de 2024 recompôs a base comum justamente para que a desigualdade entre escolas não decidisse o currículo de cada aluno.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-188",
+   "texto_apoio": "O acompanhamento da alfabetização passou a usar um indicador que mede a proporção de crianças ao fim do segundo ano do ensino fundamental com desempenho adequado em leitura.",
+   "enunciado": "Fixar o segundo ano como marco de referência se justifica porque:",
+   "alternativas": {
+    "a": "é a etapa em que a criança já domina a escrita argumentativa, competência avaliada pelo indicador em provas aplicadas na rede de ensino do país",
+    "b": "é o último ano da educação infantil, momento em que a rede avalia a transição entre as duas etapas da educação básica oferecidas às famílias",
+    "c": "é o ponto em que a desigualdade social deixa de influenciar o desempenho, o que torna a medição comparável entre redes de diferentes regiões brasileiras",
+    "d": "é a etapa em que a evasão escolar atinge o pico, o que faz do indicador uma medida indireta da permanência das crianças matriculadas na rede pública",
+    "e": "é a idade em que a defasagem ainda pode ser revertida com custo baixo, antes que ela contamine a aprendizagem dos componentes seguintes"
+   },
+   "resposta": "e",
+   "explicacao": "Quem chega ao quinto ano sem ler direito não falha só em português: falha em enunciado de matemática, em texto de ciências, em prova de qualquer componente. Medir cedo é caro; medir tarde é mais caro. A escolha do marco é uma aposta sobre onde a intervenção ainda cabe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-189",
+   "texto_apoio": "Avaliações nacionais aplicadas depois do fechamento das atividades presenciais em 2020 e 2021 mostraram queda de desempenho, mais acentuada entre estudantes de menor renda e nas redes com maior dificuldade de manter contato com as famílias.",
+   "enunciado": "A resposta descrita como recomposição da aprendizagem consiste em:",
+   "alternativas": {
+    "a": "repetir integralmente os anos letivos afetados para os estudantes da rede, medida que restabelece a sequência curricular interrompida no período considerado",
+    "b": "reduzir o conteúdo cobrado nas avaliações seguintes, ajuste que devolve às notas a comparabilidade com as séries históricas anteriores ao período de fechamento",
+    "c": "transferir aos responsáveis a tarefa de reforço em casa, arranjo que dispensa a rede de ensino de reorganizar o planejamento das aulas do ano em curso",
+    "d": "adiar a aplicação das avaliações nacionais até que os indicadores retornem ao patamar anterior, evitando que o resultado penalize as escolas mais atingidas",
+    "e": "diagnosticar o que cada turma deixou de aprender e retomar esses pontos dentro do currículo do ano corrente, sem repetir o programa inteiro"
+   },
+   "resposta": "e",
+   "explicacao": "Repetir tudo custa um ano de vida escolar e desmotiva quem aprendeu; ignorar produz uma turma que não acompanha o ano seguinte. A recomposição é a via do meio: identificar as lacunas que travam o conteúdo novo e tratá-las no caminho. Como a queda foi desigual, o diagnóstico por turma é o que impede que a desigualdade social vire defasagem permanente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-190",
+   "texto_apoio": "Pesquisas com estudantes de licenciatura e com professores em exercício apontam remuneração inicial baixa, número elevado de turmas por docente e percepção de baixo prestígio como fatores que afastam candidatos da carreira.",
+   "enunciado": "O efeito de longo prazo dessa combinação sobre a rede de ensino é:",
+   "alternativas": {
+    "a": "a elevação da nota de corte nos cursos de licenciatura, resultado da concorrência crescente por vagas em uma carreira percebida como estável no mercado de trabalho",
+    "b": "a substituição do professor por material padronizado, solução que as redes adotaram com resultados equivalentes aos obtidos com docente concursado em sala",
+    "c": "a irrelevância do fator docente para o desempenho dos estudantes, já que a infraestrutura da escola responde pela maior parte da variação observada nos resultados",
+    "d": "a queda da atratividade em cascata: menos candidatos qualificados entram, mais difícil fica cobrir as turmas e mais se recorre a contratos temporários",
+    "e": "a concentração dos melhores docentes nas redes mais pobres, movimento explicado pelos adicionais de difícil acesso pagos nessas localidades do território nacional"
+   },
+   "resposta": "d",
+   "explicacao": "É um circuito que se realimenta: salário e condições afastam candidatos, a falta de candidatos amplia a rotatividade, e a rotatividade derruba o resultado que justificaria investir na carreira. Some-se a isso a desigualdade de gênero de uma profissão majoritariamente feminina e historicamente mal remunerada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-191",
+   "texto_apoio": "A ampliação da escola em tempo integral prevê jornada de sete horas ou mais e articula, no mesmo turno, componentes curriculares e atividades de esporte, arte e apoio pedagógico.",
+   "enunciado": "O argumento mais consistente a favor dessa ampliação é:",
+   "alternativas": {
+    "a": "o tempo adicional permite retomar defasagens e amplia o repertório do estudante, além de reduzir a exposição da juventude a situações de risco no contraturno",
+    "b": "a jornada estendida reduz o custo por matrícula, já que o mesmo prédio passa a atender o dobro de estudantes ao longo dos dois turnos regulares da rede",
+    "c": "a permanência integral dispensa a participação das famílias no acompanhamento escolar, transferindo à rede de ensino a totalidade da formação da criança",
+    "d": "o modelo elimina a necessidade de avaliação externa, porque o acompanhamento diário do professor substitui os indicadores nacionais de aprendizagem aplicados às redes",
+    "e": "a jornada ampliada beneficia sobretudo os estudantes de renda alta, que dispõem de condições para permanecer na unidade durante o período integral oferecido"
+   },
+   "resposta": "a",
+   "explicacao": "O tempo é insumo, não resultado: turno estendido sem projeto pedagógico vira depósito. Onde funciona, ele soma reforço a repertório — e faz por uma criança de periferia o que a agenda paga de esporte e idioma faz por outra. O custo por matrícula sobe, não cai; a defesa é de efeito, não de economia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-192",
+   "texto_apoio": "A lei de 2012 reservou parte das vagas das instituições federais a egressos da rede pública, com recortes de renda, cor e origem. A revisão aprovada em 2023 manteve a política e ajustou seus critérios.",
+   "enunciado": "A crítica que a avaliação empírica dessa política ajudou a responder era a de que:",
+   "alternativas": {
+    "a": "as vagas reservadas ficariam ociosas, previsão que se confirmou nas instituições federais das regiões com menor oferta de ensino médio público",
+    "b": "os ingressantes por reserva teriam desempenho e taxas de conclusão muito inferiores, o que os acompanhamentos institucionais não confirmaram",
+    "c": "a política seria incapaz de alterar a composição do corpo discente, já que o número de vagas reservadas é pequeno diante do total ofertado pelas instituições",
+    "d": "a reserva substituiria o critério de nota, permitindo o ingresso de candidatos sem aprovação no processo seletivo aplicado às demais vagas da instituição",
+    "e": "a política provocaria a saída dos estudantes de renda alta para a rede privada, movimento que esvaziaria as universidades públicas ao longo da década seguinte"
+   },
+   "resposta": "b",
+   "explicacao": "O medo declarado era de queda de qualidade; os dados mostraram diferenças pequenas e, em vários cursos, desempenho semelhante. Isso deslocou o debate para a permanência — moradia, alimentação e bolsa —, porque o gargalo do estudante cotista, incluindo indígenas e quilombolas, passou a ser ficar, e não entrar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-193",
+   "texto_apoio": "A partir do início da década de 2020, os cursos a distância passaram a responder pela maior parte dos ingressos na graduação brasileira, com concentração em licenciaturas e em cursos de gestão.",
+   "enunciado": "A tensão central que essa expansão coloca é:",
+   "alternativas": {
+    "a": "entre custo e alcance de um lado e garantia de qualidade de outro, sobretudo em cursos que exigem prática supervisionada, como as licenciaturas",
+    "b": "entre a oferta pública e a privada, já que a modalidade a distância é ofertada apenas por instituições mantidas com recursos do poder público federal",
+    "c": "entre as regiões do país, uma vez que a modalidade só alcança municípios que dispõem de campus presencial de alguma instituição de educação superior",
+    "d": "entre gerações, porque a modalidade atende somente estudantes que já concluíram uma primeira graduação e buscam recolocação no mercado de trabalho",
+    "e": "entre áreas do conhecimento, pois a modalidade se restringe por lei aos cursos que dispensam atividade prática ao longo da formação oferecida"
+   },
+   "resposta": "a",
+   "explicacao": "A modalidade resolve um problema real: leva educação superior a quem trabalha e a quem mora longe de um campus. O que ela não resolve sozinha é a formação que depende de estágio acompanhado e de laboratório — e é justamente aí, na formação do professor, que a expansão foi mais rápida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-194",
+   "texto_apoio": "A política brasileira de educação especial na perspectiva inclusiva prevê a matrícula dos estudantes com deficiência em turmas comuns, acompanhada de atendimento educacional especializado no contraturno.",
+   "enunciado": "O sentido dessa opção é:",
+   "alternativas": {
+    "a": "reduzir o custo da rede, uma vez que a turma comum dispensa profissional de apoio e material adaptado para o estudante com deficiência matriculado",
+    "b": "concentrar esses estudantes em unidades especializadas, arranjo que assegura atendimento contínuo por equipe com formação específica na área",
+    "c": "condicionar a matrícula em turma comum à comprovação de desempenho equivalente ao dos demais estudantes daquele ano da educação básica",
+    "d": "reconhecer que a convivência na turma comum é parte da formação de ambos os grupos, e que o apoio especializado complementa, sem substituir, essa convivência",
+    "e": "transferir à família a escolha entre a turma comum e a unidade especializada, decisão que a rede de ensino acata sem oferecer contrapartida de apoio pedagógico"
+   },
+   "resposta": "d",
+   "explicacao": "A inclusão não é generosidade com um lado: a turma que convive aprende algo que nenhuma aula ensina. Mas matrícula sem apoio é abandono com outro nome — sem profissional de apoio, material acessível e formação do professor, a inclusão vira presença física e a desigualdade social se soma à barreira da deficiência.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-195",
+   "texto_apoio": "Séries históricas do mercado de trabalho mostram que trabalhadores negros recebem, em média, rendimento inferior ao dos brancos, e que a diferença persiste, embora menor, quando se comparam pessoas com a mesma escolaridade e na mesma ocupação.",
+   "enunciado": "A persistência da diferença após esses controles estatísticos indica que:",
+   "alternativas": {
+    "a": "a diferença observada decorre por inteiro da distribuição desigual da escolaridade, fator que os controles estatísticos já eliminam da comparação apresentada",
+    "b": "o mercado de trabalho remunera segundo a produtividade individual, de modo que a diferença remanescente reflete características não observadas pelo pesquisador",
+    "c": "parte da desigualdade racial de renda opera dentro do próprio mercado de trabalho, por meio de seleção, promoção e acesso a redes de contato",
+    "d": "a comparação perde validade quando se controla a escolaridade, porque grupos com trajetórias distintas deixam de ser comparáveis entre si em análise de renda",
+    "e": "a diferença desapareceria com a ampliação do acesso ao ensino superior, política suficiente para igualar os rendimentos dos dois grupos em uma única geração"
+   },
+   "resposta": "c",
+   "explicacao": "O controle estatístico é o teste decisivo: igualando diploma e cargo, a diferença encolhe e não some. O que sobra é o efeito do racismo dentro da porta de entrada — quem é chamado para a entrevista, quem é promovido, quem é apresentado a quem. Por isso a política de acesso ao ensino é necessária, mas não basta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-196",
+   "texto_apoio": "Em 2023 uma lei brasileira equiparou a injúria racial ao crime de racismo, tornando-a imprescritível e inafiançável. Antes disso, ofensas raciais dirigidas a uma pessoa determinada recebiam tratamento penal distinto.",
+   "enunciado": "A mudança é relevante porque:",
+   "alternativas": {
+    "a": "criou o crime de racismo no ordenamento brasileiro, até então ausente da legislação penal em vigor no país desde a promulgação da Constituição",
+    "b": "retirou da vítima a possibilidade de acionar a justiça, transferindo ao poder público a iniciativa exclusiva de apuração desse tipo de ocorrência",
+    "c": "restringiu a aplicação da norma aos casos ocorridos em ambiente de trabalho, deixando fora da proteção as ofensas praticadas em espaços de convivência pública",
+    "d": "reconheceu que a ofensa dirigida a uma pessoa por sua cor não é conflito privado, mas manifestação de um fenômeno coletivo que a lei já tratava como crime grave",
+    "e": "substituiu a pena de prisão por medidas educativas, alteração que reduziu o número de registros formalizados nas delegacias especializadas dos estados brasileiros"
+   },
+   "resposta": "d",
+   "explicacao": "Racismo já era crime desde 1989; a injúria racial ficava num regime mais brando, como se ofender alguém por sua cor fosse desavença entre duas pessoas. A equiparação reposiciona a conduta e conversa com a discussão de segurança pública sobre quem é abordado, quem é preso e quem é ouvido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-197",
+   "texto_apoio": "A tipificação do feminicídio entrou no Código Penal brasileiro em 2015 como circunstância qualificadora; em 2024, uma nova lei o transformou em tipo penal autônomo, com pena própria.",
+   "enunciado": "A finalidade de nomear esse crime de forma específica é:",
+   "alternativas": {
+    "a": "elevar a pena dos homicídios praticados no país, ajuste que responde ao crescimento geral dos índices de violência registrados nas últimas décadas",
+    "b": "substituir as medidas protetivas de urgência, que deixaram de ser aplicáveis aos casos em que houve ameaça anterior registrada pela vítima na delegacia",
+    "c": "transferir a competência do julgamento desses casos para a esfera administrativa, arranjo que abrevia o tempo de tramitação dos processos no sistema de justiça",
+    "d": "restringir a proteção às vítimas casadas com o autor da agressão, recorte que a legislação anterior tratava de modo mais amplo do que a redação vigente",
+    "e": "tornar visível na estatística e no processo a morte de mulheres por razões de gênero, o que permite dimensionar o problema e cobrar resposta específica"
+   },
+   "resposta": "e",
+   "explicacao": "Enquanto a morte era contada como homicídio comum, não havia número — e sem número não há política. Nomear separa o crime que decorre da relação de gênero do crime patrimonial ou da rixa, e liga o dado à rede de proteção contra a violência doméstica que o antecede na maioria dos casos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-198",
+   "texto_apoio": "A Lei Maria da Penha, de 2006, criou medidas protetivas de urgência que podem ser concedidas com rapidez e independem da abertura de processo criminal contra o agressor.",
+   "enunciado": "A razão técnica para desvincular a medida protetiva do processo criminal é:",
+   "alternativas": {
+    "a": "reduzir o número de processos criminais em tramitação, objetivo administrativo que orientou a redação aprovada pelo legislador em 2006",
+    "b": "condicionar a proteção à decisão da vítima de manter a denúncia, requisito que assegura a coerência entre a medida concedida e a vontade manifestada",
+    "c": "impedir que o agressor seja responsabilizado criminalmente, efeito buscado para preservar o vínculo familiar existente entre as partes envolvidas no conflito",
+    "d": "transferir a concessão da medida à autoridade policial do plantão, que passa a decidir sem participação do juiz em nenhuma etapa posterior do procedimento",
+    "e": "o risco de violência doméstica é imediato e não espera o tempo do processo, de modo que a proteção precisa chegar antes da apuração da responsabilidade penal"
+   },
+   "resposta": "e",
+   "explicacao": "O processo penal leva meses; o agressor volta para casa hoje. A medida protetiva opera noutra lógica: ela protege enquanto se apura, e não depois de apurado. Foi essa separação, mais do que o aumento de pena, que deu à lei sua eficácia prática — e ela dialoga com a política de segurança pública nos estados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-199",
+   "texto_apoio": "Pesquisas de uso do tempo mostram que mulheres dedicam, em média, cerca do dobro das horas semanais que os homens dedicam a afazeres domésticos e ao cuidado de crianças e de pessoas idosas da família.",
+   "enunciado": "A consequência dessa distribuição para a inserção feminina no mercado de trabalho é:",
+   "alternativas": {
+    "a": "a ampliação da presença feminina em ocupações de jornada integral, resultado da flexibilidade que o trabalho de cuidado oferece à organização da rotina familiar",
+    "b": "a ausência de efeito mensurável, uma vez que o trabalho de cuidado é realizado fora do horário destinado à ocupação remunerada pela maior parte das trabalhadoras",
+    "c": "uma jornada dupla que empurra parte delas para ocupações de meio período e interrompe trajetórias no momento em que a carreira costuma avançar",
+    "d": "a concentração das mulheres em cargos de direção, posições cuja autonomia de horário permite conciliar as duas jornadas sem perda de rendimento mensal",
+    "e": "a equalização dos rendimentos entre homens e mulheres com a mesma formação, efeito verificado nas ocupações em que o cuidado é remunerado pelo empregador"
+   },
+   "resposta": "c",
+   "explicacao": "O trabalho de cuidado não aparece nas contas nacionais e aparece inteiro na trajetória de quem o faz. A desigualdade de gênero na remuneração não se explica só pelo que acontece na empresa: boa parte já foi decidida em casa, na hora de escolher quem reduz a jornada de trabalho quando nasce uma criança.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-200",
+   "texto_apoio": "O levantamento censitário brasileiro passou a investigar de forma mais detalhada a composição dos domicílios, e pesquisas por amostra começaram a coletar informação sobre orientação sexual e identidade de gênero da população adulta.",
+   "enunciado": "A relevância estatística dessa coleta está em:",
+   "alternativas": {
+    "a": "produzir a base sem a qual a população LGBT permanece invisível nos indicadores, condição que dificulta dimensionar desvantagens no acesso ao ensino e ao mercado de trabalho",
+    "b": "substituir os registros administrativos existentes nos serviços públicos, que passam a ser dispensáveis para o acompanhamento das políticas dirigidas a esse segmento da população brasileira adulta",
+    "c": "permitir a identificação individual dos respondentes, requisito para o desenho de ações dirigidas a cada pessoa cadastrada nos serviços públicos municipais",
+    "d": "encerrar a discussão sobre discriminação, já que a existência do dado estatístico resolve por si a desvantagem observada nos indicadores levantados pela pesquisa",
+    "e": "reduzir o custo do levantamento, porque a inclusão de novos quesitos diminui o número de visitas domiciliares necessárias em cada setor censitário pesquisado"
+   },
+   "resposta": "a",
+   "explicacao": "Não medir é uma decisão, e ela tem efeito: sem dado não há série histórica, não há comparação e não há como cobrar resultado. O quesito não resolve a desigualdade social que descreve, mas retira o problema do campo da estimativa e o coloca no do orçamento e da avaliação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-201",
+   "texto_apoio": "O índice de Gini varia de zero, na distribuição perfeitamente igual, a um, na concentração total. O valor brasileiro oscila em torno de 0,52, entre os mais altos do mundo, e responde tanto a rendimentos do trabalho quanto a transferências.",
+   "enunciado": "A leitura correta desse indicador reconhece que:",
+   "alternativas": {
+    "a": "o índice mede a pobreza, de modo que sua queda indica necessariamente a redução do número de pessoas abaixo da linha adotada pelo levantamento",
+    "b": "o índice capta a distribuição relativa, e pode cair tanto pelo crescimento da renda na base quanto pela queda na renda do topo da distribuição",
+    "c": "o índice depende apenas da informalidade do mercado de trabalho, fator que responde isoladamente pela posição brasileira na comparação internacional",
+    "d": "o índice permanece constante ao longo do tempo em economias de renda média, o que o torna inadequado para acompanhar mudanças de curto prazo na distribuição",
+    "e": "o índice mede a desigualdade de renda entre países, e não dentro de um mesmo país, razão pela qual o valor brasileiro se compara ao de blocos econômicos"
+   },
+   "resposta": "b",
+   "explicacao": "Distribuição relativa não é o mesmo que bem-estar: um país pode ficar mais igual empobrecendo o topo. Por isso o Gini se lê ao lado do nível de renda e da escolaridade da população — sozinho, ele diz como o bolo está repartido, e nada sobre o tamanho do bolo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-202",
+   "texto_apoio": "Estudos de mobilidade social comparam a posição de renda dos filhos à dos pais. Estimativas internacionais indicam que, em países muito desiguais, uma família na base da distribuição levaria várias gerações para alcançar a renda média nacional.",
+   "enunciado": "O mecanismo que explica essa lentidão é:",
+   "alternativas": {
+    "a": "a transmissão da posição por vias indiretas: escola frequentada, rede de contatos e tempo disponível para estudar, que se somam à renda dos pais",
+    "b": "a ausência de crescimento econômico, condição sem a qual nenhuma família muda de posição relativa ao longo das gerações consideradas pelo estudo",
+    "c": "a herança financeira direta, que responde pela maior parte da transmissão de posição entre pais e filhos nas faixas de renda mais baixas da distribuição",
+    "d": "a decisão individual de não investir em formação, comportamento que os estudos identificam como principal responsável pela reprodução da posição de origem",
+    "e": "a mudança de composição das famílias, fator que altera o número de filhos por domicílio e explica a estabilidade observada na distribuição de renda entre gerações"
+   },
+   "resposta": "a",
+   "explicacao": "A herança que mais pesa não é o patrimônio, é o entorno. O endereço define a escola, a escola define a rede de contatos, e a renda dos pais define quantas horas o filho pode dedicar ao estudo em vez do trabalho. É por isso que a desigualdade de renda de um país se lê melhor em duas gerações do que em um ano.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-203",
+   "texto_apoio": "Levantamentos domiciliares registram, na década de 2020, mais de um milhão e meio de crianças e adolescentes de 5 a 17 anos em situação de trabalho no Brasil, parcela expressiva em atividades consideradas das piores formas.",
+   "enunciado": "A relação entre trabalho na infância e trajetória escolar é descrita corretamente por:",
+   "alternativas": {
+    "a": "o trabalho precoce melhora o desempenho escolar, porque impõe disciplina de horário e antecipa o contato com as exigências do mercado de trabalho adulto",
+    "b": "as duas dimensões são independentes, já que a jornada de trabalho das crianças ocorre em horário distinto do turno de aula na maior parte dos casos",
+    "c": "o trabalho precoce concorre com o tempo de estudo e antecipa a evasão escolar, o que rebaixa a renda futura e reproduz a situação da geração anterior",
+    "d": "a permanência na escola é o único fator determinado por esse trabalho, sem repercussão sobre a inserção ocupacional na vida adulta dessas crianças",
+    "e": "o trabalho na infância desapareceu das áreas urbanas brasileiras, restando apenas em atividades agrícolas familiares de regiões de baixa densidade populacional"
+   },
+   "resposta": "c",
+   "explicacao": "O ganho imediato é real e pequeno; a perda é diferida e grande. Quem trabalha aos treze chega pior aos dezoito, ganha menos aos trinta e coloca os próprios filhos na mesma rota. É o que faz do trabalho infantil um problema de renda futura, e não apenas de proteção presente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-204",
+   "texto_apoio": "A taxa de informalidade brasileira oscila em torno de quatro em cada dez pessoas ocupadas e reúne situações distintas: trabalho sem carteira assinada, conta própria sem registro e empregadores sem inscrição formal.",
+   "enunciado": "Tratar a informalidade como categoria única é problemático porque:",
+   "alternativas": {
+    "a": "a informalidade deixou de existir como fenômeno relevante no mercado de trabalho brasileiro depois da ampliação do registro individual de pequenos negócios",
+    "b": "ela reúne desde a sobrevivência sem alternativa até a escolha por autonomia com rendimento alto, e cada situação pede resposta diferente",
+    "c": "as situações reunidas na categoria têm o mesmo rendimento médio, o que torna a divisão em subgrupos um exercício sem consequência prática para a política pública",
+    "d": "a informalidade se concentra na indústria de transformação, setor em que a fiscalização do vínculo é mais simples de executar do que nos serviços prestados às famílias",
+    "e": "os trabalhadores informais têm escolaridade média superior à dos formais, característica que inverte a leitura usual sobre a relação entre formação e tipo de vínculo"
+   },
+   "resposta": "b",
+   "explicacao": "A palavra esconde dois mundos: o entregador sem proteção e o profissional que emite nota e ganha bem estão na mesma linha da estatística. Só o primeiro precisa de proteção previdenciária urgente. Confundi-los produz política que erra o alvo e reforça a desigualdade de renda que pretendia corrigir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-205",
+   "texto_apoio": "A reforma trabalhista de 2017 alterou a Consolidação das Leis do Trabalho em pontos como a prevalência do negociado sobre o legislado, o fim da obrigatoriedade da contribuição sindical e a criação do contrato intermitente.",
+   "enunciado": "Uma avaliação equilibrada dos efeitos observados nos anos seguintes reconhece que:",
+   "alternativas": {
+    "a": "a reforma produziu o aumento de vínculos formais prometido por seus defensores e, ao mesmo tempo, a elevação do rendimento médio esperada pelos críticos do desenho anterior",
+    "b": "a reforma foi revogada em sua totalidade antes de completar cinco anos de vigência, o que impede avaliar empiricamente os efeitos previstos",
+    "c": "os efeitos se restringiram ao serviço público, esfera em que a negociação coletiva substituiu integralmente as regras gerais aplicáveis à jornada de trabalho",
+    "d": "a geração de vínculos formais ficou abaixo do prometido, e parte do emprego criado veio em modalidades de renda instável, como o contrato intermitente",
+    "e": "a reforma elevou a arrecadação das entidades sindicais, resultado do crescimento voluntário das contribuições feitas pelos trabalhadores da categoria representada"
+   },
+   "resposta": "d",
+   "explicacao": "A promessa era formalizar em massa; o observado foi mais modesto e mais heterogêneo. O contrato intermitente formaliza no papel e não assegura renda no mês, o que criou uma faixa nova entre o vínculo estável e a informalidade — e a queda de arrecadação enfraqueceu quem negociaria a correção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-206",
+   "texto_apoio": "A proporção de trabalhadores brasileiros filiados a alguma entidade sindical caiu de forma acentuada ao longo da década de 2010 e seguiu recuando na década seguinte, em movimento observado também em outros países.",
+   "enunciado": "Entre os fatores que explicam essa queda, o mais diretamente ligado à estrutura ocupacional é:",
+   "alternativas": {
+    "a": "a elevação da idade média dos trabalhadores, característica que reduz a filiação por deslocar a base para faixas etárias historicamente menos participativas",
+    "b": "a redução da jornada de trabalho legal, mudança que retirou do sindicato a principal pauta capaz de mobilizar a categoria representada em cada negociação",
+    "c": "o crescimento do peso dos serviços e do trabalho por conta própria, formas dispersas em que a base tradicional de organização por fábrica não se reproduz",
+    "d": "o aumento do rendimento médio da juventude ocupada, que teria tornado desnecessária a representação coletiva nas negociações conduzidas em cada categoria",
+    "e": "a proibição legal da negociação coletiva em atividades de serviço, restrição que retirou desses setores o instrumento sobre o qual a filiação se justificava"
+   },
+   "resposta": "c",
+   "explicacao": "O sindicato nasceu da fábrica: mesma jornada, mesmo pátio, mesma reivindicação. Onde o trabalho se dispersa em milhares de contratos individuais, a base física da organização some antes que a necessidade dela. É por isso que a queda de filiação convive com aumento, e não com queda, da desigualdade de renda no mercado de trabalho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-207",
+   "texto_apoio": "Ganhou espaço no debate público brasileiro dos anos 2020 a proposta de reduzir a jornada de trabalho semanal e de rever a escala em que o trabalhador cumpre seis dias de trabalho para um de descanso.",
+   "enunciado": "O argumento de quem defende a mudança se apoia principalmente em:",
+   "alternativas": {
+    "a": "a constatação de que a produtividade por hora trabalhada cresce de forma proporcional à extensão da jornada cumprida em cada estabelecimento do setor de serviços",
+    "b": "o entendimento de que a jornada é matéria que dispensa negociação coletiva, cabendo ao empregador a definição unilateral da escala aplicada a cada função",
+    "c": "a expectativa de que a redução da jornada elimine a informalidade, efeito que dispensaria as demais políticas dirigidas ao mercado de trabalho brasileiro",
+    "d": "a observação de que o tempo de deslocamento nas grandes cidades se soma à jornada, de modo que o descanso efetivo é menor do que o previsto em contrato",
+    "e": "a avaliação de que a mudança beneficiaria apenas os trabalhadores de renda alta, grupo que já dispõe de autonomia para definir o próprio horário de trabalho"
+   },
+   "resposta": "d",
+   "explicacao": "O ponto forte do argumento é o que o contrato não mede. Duas horas diárias de ônibus em uma cidade sem mobilidade urbana adequada saem do descanso e não aparecem em lugar nenhum da folha. O contra-argumento — efeito sobre custo e sobre a geração de vagas — é empírico, e por isso o debate não se resolve por princípio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-208",
+   "texto_apoio": "Duas formas de transferência de renda convivem no debate brasileiro: a condicionada, que exige contrapartidas como frequência escolar e acompanhamento de crianças, e a renda básica incondicional, paga sem exigência de contrapartida.",
+   "enunciado": "O principal argumento a favor da forma incondicional é:",
+   "alternativas": {
+    "a": "a fiscalização das contrapartidas custa caro e pode excluir justamente quem tem mais dificuldade de cumpri-las, invertendo o alvo da política",
+    "b": "a exigência de contrapartida reduz por definição o valor recebido pela família, efeito que a forma incondicional corrige ao ampliar automaticamente o benefício pago",
+    "c": "a forma incondicional dispensa cadastro e cobertura, o que elimina a necessidade de identificar as famílias em situação de vulnerabilidade em cada território",
+    "d": "a contrapartida de frequência escolar deixou de produzir efeito sobre a permanência das crianças na rede de ensino desde a universalização do acesso à etapa obrigatória",
+    "e": "a forma incondicional substitui as demais políticas dirigidas à educação básica, que se tornam dispensáveis quando a renda familiar atinge o patamar mínimo definido"
+   },
+   "resposta": "a",
+   "explicacao": "O argumento não é que a condicionalidade não funcione — há evidência de que ela aumenta a frequência escolar. É que o custo de verificar recai sobre quem já está no limite: a família sem transporte, sem documento ou sem vaga perde o benefício por não cumprir o que não dependia dela. A escolha entre as duas formas pesa esses dois efeitos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-209",
+   "texto_apoio": "Operações de fiscalização resgatam anualmente, no Brasil, milhares de pessoas em condições análogas às de escravo. A caracterização não depende de restrição à liberdade de ir e vir: jornada exaustiva e condição degradante bastam para configurá-la.",
+   "enunciado": "Essa definição ampliada é relevante porque:",
+   "alternativas": {
+    "a": "restringe a caracterização aos casos em que houve transporte da vítima para outro estado, requisito que orienta o trabalho das equipes de fiscalização em campo",
+    "b": "equipara a condição ao mero descumprimento de norma trabalhista, o que amplia o alcance da fiscalização sobre o conjunto das empresas do setor produtivo",
+    "c": "desloca o critério do cárcere para as condições concretas de trabalho, alcançando situações em que a pessoa poderia sair e não tinha para onde ir",
+    "d": "condiciona o resgate à denúncia formalizada pela própria vítima, exigência que explica o número reduzido de operações realizadas nas áreas rurais mais isoladas",
+    "e": "limita a responsabilização ao intermediário que recrutou a mão de obra, poupando o tomador final do serviço prestado nas cadeias produtivas envolvidas"
+   },
+   "resposta": "c",
+   "explicacao": "A imagem de corrente e vigia é a exceção; a regra é a dívida que cresce, o alojamento sem água e a jornada que não termina. Ao olhar para as condições, e não para a tranca, a lei alcança o que de fato prende — e é por isso que o tema aparece ligado à desigualdade social das regiões de origem dos trabalhadores recrutados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-210",
+   "texto_apoio": "O déficit habitacional brasileiro, estimado em torno de seis milhões de domicílios, soma situações distintas: coabitação forçada, ônus excessivo com aluguel, adensamento e habitação precária.",
+   "enunciado": "A composição desse indicador importa para a política de moradia porque:",
+   "alternativas": {
+    "a": "cada componente pede resposta diferente, e o ônus com aluguel, hoje o mais numeroso, não se resolve apenas com a construção de novas unidades",
+    "b": "o indicador mede apenas a ausência de teto, de modo que a resposta adequada se resume à construção de unidades novas em terreno de baixo custo",
+    "c": "os componentes se equivalem em número e em urgência, o que permite tratá-los por um único instrumento de financiamento habitacional em âmbito nacional",
+    "d": "o déficit se concentra na zona rural, onde a autoconstrução responde pela maior parte das moradias erguidas pelas famílias de menor rendimento mensal",
+    "e": "a redução do déficit depende somente da queda da taxa de financiamento imobiliário, variável que independe das demais políticas dirigidas às cidades"
+   },
+   "resposta": "a",
+   "explicacao": "Construir longe e barato responde a um componente e agrava outro: a família sai do aluguel e entra num endereço sem emprego, sem serviço e a duas horas do centro. Onde o problema é o valor do aluguel, subsídio à locação e regularização entregam mais rápido — e a população em situação de rua costuma vir dessa faixa que perdeu o teto por preço, não por falta de obra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-211",
+   "texto_apoio": "Pesquisas sobre deslocamento nas regiões metropolitanas brasileiras mostram que trabalhadores de menor renda gastam mais tempo no trajeto diário e dependem mais do transporte coletivo do que os de renda alta.",
+   "enunciado": "Essa desigualdade no acesso à mobilidade urbana produz como efeito:",
+   "alternativas": {
+    "a": "a redução do tempo total de jornada dos trabalhadores de menor renda, que compensam o trajeto com a proximidade entre residência e local de trabalho",
+    "b": "a irrelevância do transporte coletivo para o funcionamento do mercado de trabalho metropolitano, já que o deslocamento é decisão estritamente individual",
+    "c": "a igualação das oportunidades entre bairros centrais e periféricos, uma vez que a rede de transporte conecta o conjunto do território metropolitano",
+    "d": "o encolhimento do conjunto de vagas efetivamente acessíveis a quem mora longe, porque a distância e o custo da passagem eliminam parte das oportunidades",
+    "e": "o aumento do rendimento médio dos moradores de áreas periféricas, resultado da compensação salarial oferecida pelas empresas às vagas de difícil acesso"
+   },
+   "resposta": "d",
+   "explicacao": "A cidade não é acessível por igual: quem mora longe não escolhe entre todas as vagas da metrópole, escolhe entre as que cabem no tempo e no preço da passagem. Transporte, nesse sentido, é política de renda — e a desigualdade social se reproduz pela geografia mesmo quando a escolaridade é a mesma.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-212",
+   "texto_apoio": "Anuários de segurança pública mostram que os homicídios no Brasil se concentram em um perfil estreito: homens jovens, negros, moradores de áreas periféricas, com pico entre 15 e 29 anos.",
+   "enunciado": "A implicação dessa concentração para a política de prevenção é:",
+   "alternativas": {
+    "a": "a conclusão de que o fenômeno é aleatório, o que recomenda a distribuição uniforme dos recursos de policiamento entre os bairros de cada município",
+    "b": "a possibilidade de focalizar territórios, horários e faixas etárias específicas, o que produz resultado maior por real gasto do que a ação distribuída por igual",
+    "c": "a recomendação de ampliar o efetivo policial nas áreas centrais das capitais brasileiras, onde o valor do patrimônio exposto ao risco é mais alto do que nas áreas periféricas ocupadas",
+    "d": "a constatação de que a desigualdade racial não interfere na distribuição das vítimas, cabendo à política priorizar apenas o recorte etário identificado",
+    "e": "a defesa de que a prevenção deve começar após os 30 anos, faixa em que a exposição ao risco de morte violenta atinge o valor máximo da série histórica"
+   },
+   "resposta": "b",
+   "explicacao": "Concentração é informação, e informação é economia de recurso. Programas que atuaram sobre poucos territórios e sobre a juventude mais exposta reduziram homicídios em prazos curtos. O risco do desenho focalizado é conhecido: focalizar policiamento sem focalizar oportunidade converte prevenção em abordagem repetida do mesmo grupo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-213",
+   "texto_apoio": "A população prisional brasileira multiplicou-se por várias vezes desde os anos 1990 e situa o país entre os três maiores do mundo em número absoluto de presos, com parcela expressiva ainda sem condenação definitiva.",
+   "enunciado": "A leitura mais consistente desse crescimento é:",
+   "alternativas": {
+    "a": "o crescimento resultou sobretudo do endurecimento penal e do peso das prisões provisórias, sem correspondência proporcional na queda dos crimes violentos",
+    "b": "o encarceramento cresceu na proporção exata dos crimes violentos registrados, relação que explica por si o tamanho atual do sistema prisional brasileiro",
+    "c": "o crescimento decorreu da redução das penas alternativas, único instrumento capaz de conter a entrada de novos presos nas unidades existentes",
+    "d": "o aumento se explica pela ampliação das vagas construídas, oferta que atraiu a demanda subsequente por prisões decretadas pelo sistema de justiça",
+    "e": "a população prisional brasileira estabilizou-se na década de 2010, de modo que a superlotação observada decorre apenas do desgaste físico das unidades antigas"
+   },
+   "resposta": "a",
+   "explicacao": "Prender mais não produziu, por si, cair mais o crime — a série mostra as duas curvas subindo juntas por anos. O motor foi legislativo e processual, e a conta chegou como superlotação, custo por preso e domínio de facções sobre as unidades. É por isso que segurança pública e política penal deixaram de ser discutidas em separado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-214",
+   "texto_apoio": "A audiência de custódia determina que a pessoa presa em flagrante seja apresentada a um juiz em até 24 horas, para que se avalie a legalidade da prisão, a ocorrência de maus-tratos e a necessidade de mantê-la presa.",
+   "enunciado": "A justificativa técnica desse mecanismo é:",
+   "alternativas": {
+    "a": "acelerar o julgamento do mérito da acusação, etapa que passa a ser concluída no mesmo ato de apresentação do preso à autoridade judicial competente",
+    "b": "substituir a defesa técnica por manifestação direta do próprio preso, arranjo que reduz o tempo de tramitação dos processos no sistema de justiça criminal",
+    "c": "avaliar cedo a necessidade da prisão provisória e verificar sinais de violência na abordagem, filtro que atua antes que a pessoa entre no sistema prisional",
+    "d": "transferir ao juiz a decisão sobre a culpa, retirando do processo a fase de instrução e as garantias associadas ao contraditório entre as partes envolvidas",
+    "e": "registrar estatisticamente as prisões efetuadas, finalidade administrativa sem efeito sobre a permanência da pessoa presa nas unidades do sistema penal"
+   },
+   "resposta": "c",
+   "explicacao": "É um filtro de entrada, e filtros de entrada são baratos comparados ao que vem depois. Manter presa provisoriamente uma pessoa que seria solta ao fim do processo custa vaga, custa dinheiro e a expõe ao ambiente prisional. O encontro presencial também é o único momento em que a denúncia de violência na abordagem chega ao juiz.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-215",
+   "texto_apoio": "Os registros do cadastro federal de programas assistenciais indicam crescimento acentuado do número de pessoas em situação de rua ao longo da década de 2020, com concentração nas grandes cidades.",
+   "enunciado": "A caracterização adequada desse fenômeno reconhece que:",
+   "alternativas": {
+    "a": "trata-se de população homogênea, formada por pessoas com o mesmo percurso de perda de vínculos e com a mesma necessidade de atendimento nos serviços",
+    "b": "trata-se de fenômeno restrito às capitais do Sudeste, sem expressão nas demais regiões metropolitanas do país segundo os registros administrativos disponíveis",
+    "c": "trata-se de situação transitória que se resolve com a oferta de abrigo noturno, sem necessidade de acesso a documento, renda e vaga de moradia estável",
+    "d": "trata-se de população heterogênea, cujo percurso combina perda de moradia, rompimento de vínculos e ausência de renda, o que exige respostas articuladas",
+    "e": "trata-se de decisão individual desvinculada da desigualdade social, o que torna o atendimento uma questão de ordenamento do espaço público urbano"
+   },
+   "resposta": "d",
+   "explicacao": "Há quem perdeu o emprego, quem saiu de casa fugindo de violência, quem foi despejado e quem vive dependência química — e cada percurso pede uma porta diferente. Abrigo noturno resolve a noite; o que tira da rua é o conjunto: documento, renda, tratamento e endereço fixo, na ordem que couber a cada pessoa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-216",
+   "texto_apoio": "O levantamento censitário de 2022 registrou cerca de 1,7 milhão de indígenas no Brasil, distribuídos por mais de trezentos povos, com parcela expressiva vivendo fora de terras demarcadas, inclusive em áreas urbanas.",
+   "enunciado": "A informação de que parte relevante desses povos indígenas vive fora de terras demarcadas implica que:",
+   "alternativas": {
+    "a": "a política de demarcação perdeu sentido, já que a maior parte da população indígena do país optou por residir de forma permanente nas cidades brasileiras de médio e grande porte",
+    "b": "a identidade indígena depende da residência em terra demarcada, critério adotado pelo levantamento para classificar os domicílios pesquisados no país",
+    "c": "o número registrado no levantamento decorre de erro de classificação, corrigido nas edições seguintes por meio da revisão do quesito de pertencimento",
+    "d": "a presença urbana elimina o vínculo com o território de origem, o que dispensa a articulação entre as políticas voltadas às aldeias e às cidades",
+    "e": "as políticas dirigidas a esses povos precisam alcançar também o contexto urbano, incluindo escola com ensino bilíngue e atendimento adequado nas cidades"
+   },
+   "resposta": "e",
+   "explicacao": "Autoidentificação, e não endereço, define quem é indígena no levantamento. Isso desmonta a ideia de que a política termina na cerca da terra demarcada: há criança indígena em escola urbana, e a rede de ensino que não oferece atendimento em língua materna reproduz a desigualdade social que a demarcação tentava corrigir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-217",
+   "texto_apoio": "O levantamento censitário de 2022 identificou pela primeira vez a população quilombola brasileira, com cerca de 1,3 milhão de pessoas. Parcela minoritária vive em territórios já titulados.",
+   "enunciado": "O significado dessa primeira contagem oficial é:",
+   "alternativas": {
+    "a": "tornar mensurável uma população que antes só aparecia em estimativas, o que permite dimensionar a distância entre o direito ao território e a titulação efetiva",
+    "b": "encerrar o processo de titulação, uma vez que a contagem substitui os procedimentos administrativos de reconhecimento dos territórios ainda pendentes",
+    "c": "demonstrar que a maior parte dessa população já vive em territórios titulados, o que reposiciona a pauta para outras dimensões da política pública",
+    "d": "restringir o reconhecimento às comunidades localizadas em área rural, critério adotado pelo levantamento para delimitar o universo de pesquisa aplicado",
+    "e": "substituir o critério de autoatribuição pelo de comprovação documental de ascendência familiar, mudança metodológica que teria reduzido de forma expressiva o número de pessoas contadas"
+   },
+   "resposta": "a",
+   "explicacao": "Contar é a etapa que antecede cobrar. Enquanto a população quilombola era estimativa, moradia, rede de ensino e acesso a serviço nesses territórios não tinham denominador. A contagem também expôs o descompasso: o direito ao território está na Constituição desde 1988, e a titulação segue muito atrás do número de comunidades reconhecidas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-218",
+   "texto_apoio": "A população brasileira com 60 anos ou mais cresce em ritmo acelerado, e projeções indicam que ela superará a de crianças e adolescentes nas próximas décadas. O Estatuto aprovado em 2003 assegura a esse grupo prioridade em atendimento e gratuidade no transporte coletivo.",
+   "enunciado": "O desafio urbano mais direto que esse crescimento coloca é:",
+   "alternativas": {
+    "a": "a redução da demanda por transporte coletivo, já que a pessoa idosa deixa de se deslocar depois de encerrada a vida ocupacional remunerada",
+    "b": "a necessidade de adaptar calçadas, travessias e transporte a quem se desloca a pé e devagar, sob risco de confinar a pessoa idosa em casa",
+    "c": "a substituição da rede de ensino por equipamentos dirigidos à terceira idade, remanejamento orçamentário que os municípios já teriam iniciado na década passada",
+    "d": "a concentração desse grupo em áreas rurais, movimento que reduz a pressão sobre os serviços urbanos das capitais e das regiões metropolitanas brasileiras",
+    "e": "a irrelevância da mobilidade urbana para esse grupo, cuja rotina se organiza em torno de deslocamentos curtos realizados no próprio bairro de residência"
+   },
+   "resposta": "b",
+   "explicacao": "Autonomia na velhice é uma questão de calçada. Guia alta, tempo curto de semáforo e ônibus com degrau produzem isolamento tão eficazmente quanto uma limitação física — e o isolamento é ele próprio fator de adoecimento. Cidade acessível para a pessoa idosa costuma ser cidade melhor para todo mundo que anda a pé.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-219",
+   "texto_apoio": "Cerca de um em cada cinco jovens brasileiros de 15 a 29 anos não estuda nem está ocupado. Entre as mulheres desse grupo, a proporção é maior, e o cuidado de filhos e de familiares aparece como principal motivo declarado.",
+   "enunciado": "A leitura mais precisa dessa categoria estatística é:",
+   "alternativas": {
+    "a": "o grupo é formado por jovens que recusam trabalho e estudo, comportamento que a estatística mede diretamente por meio do motivo declarado na entrevista",
+    "b": "a categoria mede apenas quem procurou vaga sem sucesso, recorte que exclui quem se dedica ao cuidado de familiares dentro do próprio domicílio",
+    "c": "o recorte de gênero é irrelevante, uma vez que homens e mulheres apresentam proporções equivalentes nas faixas etárias abrangidas pelo levantamento",
+    "d": "a categoria reúne situações distintas, e boa parte das mulheres nela classificadas exerce trabalho de cuidado não remunerado, invisível ao mercado de trabalho",
+    "e": "o grupo diminui de tamanho conforme cresce a escolaridade média, relação que dispensa políticas específicas dirigidas à permanência da juventude na rede de ensino"
+   },
+   "resposta": "d",
+   "explicacao": "O rótulo sugere ócio e mede outra coisa. Quem cuida de um irmão pequeno para que a mãe trabalhe não está ociosa; está fazendo um trabalho que a estatística não conta. Ler a categoria sem esse recorte transforma um problema de creche e de divisão do cuidado em acusação moral dirigida à juventude.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-220",
+   "texto_apoio": "O marco legal da primeira infância trata dos seis primeiros anos de vida como período de formação acelerada das conexões cerebrais e prevê a articulação entre saúde, assistência e educação infantil nesse período.",
+   "enunciado": "A razão pela qual esse período recebe prioridade nas políticas é:",
+   "alternativas": {
+    "a": "a legislação brasileira restringe a essa faixa etária a proteção integral, que deixa de ser aplicável às crianças a partir do início do ensino fundamental",
+    "b": "a criança dessa faixa etária custa menos ao poder público, o que permite ampliar a cobertura sem alterar o valor destinado à educação básica pelas redes",
+    "c": "a educação infantil substitui as demais etapas da educação básica na formação das competências avaliadas pelos indicadores nacionais de aprendizagem",
+    "d": "as diferenças de desenvolvimento observadas nessa fase decorrem apenas de fatores biológicos, sem relação com o contexto familiar em que a criança vive",
+    "e": "as intervenções feitas nessa fase apresentam retorno mais alto por real investido, porque atuam antes que a defasagem se converta em desvantagem acumulada"
+   },
+   "resposta": "e",
+   "explicacao": "É o argumento econômico somado ao de justiça: a diferença de vocabulário entre crianças de renda alta e baixa já é mensurável antes dos três anos, e cada ano de atraso encarece a correção. Creche de qualidade opera nas duas pontas — desenvolve a criança e libera a mãe para o mercado de trabalho, reduzindo desigualdade social em duas gerações ao mesmo tempo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-221",
+   "texto_apoio": "A urbanização brasileira produziu metrópoles em que a valorização das áreas centrais empurrou a população de menor renda para as bordas, processo descrito como periferização.",
+   "enunciado": "A consequência socioespacial desse processo é:",
+   "alternativas": {
+    "a": "a distribuição uniforme dos equipamentos públicos pelo território metropolitano, resultado do adensamento observado nas áreas de ocupação mais recente",
+    "b": "a redução do custo de vida das famílias deslocadas, que passam a gastar menos com transporte por residirem próximas às novas áreas de emprego industrial",
+    "c": "o encerramento do processo de favelização, absorvido pelos conjuntos habitacionais erguidos em áreas de borda ao longo das últimas duas décadas",
+    "d": "a irrelevância do endereço para as oportunidades disponíveis, já que a rede de transporte metropolitano equaliza o acesso ao conjunto das vagas ofertadas",
+    "e": "a formação de bordas com moradia precária, serviço escasso e longa distância dos empregos, em que o endereço passa a operar como marcador de desvantagem"
+   },
+   "resposta": "e",
+   "explicacao": "A cidade separa antes de a escola separar. Onde o preço do solo empurra a família para a borda, ela recebe a rede de ensino mais frágil, o posto mais distante e a linha de ônibus mais longa — três desvantagens que chegam juntas por causa de uma só decisão de mercado imobiliário, e que a política de moradia raramente consegue desfazer depois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-222",
+   "texto_apoio": "Desde 2014 a legislação brasileira reserva percentual das vagas de concursos públicos federais a candidatos negros, política que passou por revisão e ampliação em 2025, com a inclusão de indígenas e quilombolas.",
+   "enunciado": "O argumento técnico que sustenta a reserva de vagas no serviço público é:",
+   "alternativas": {
+    "a": "a existência de diferença de desempenho intelectual entre os grupos, o que exigiria critério de correção aplicado ao resultado das provas objetivas aplicadas",
+    "b": "a impossibilidade de aferir mérito em processos seletivos, o que levaria à substituição integral da prova por critérios de origem social do candidato inscrito",
+    "c": "a constatação de que a composição do funcionalismo não reflete a da população, e que a diversidade do corpo técnico melhora a prestação do serviço",
+    "d": "a necessidade de reduzir o número de candidatos inscritos, efeito administrativo que a reserva produz ao segmentar a concorrência em duas listas distintas",
+    "e": "a garantia de que os aprovados por reserva ocuparão os cargos de maior remuneração, mecanismo previsto na legislação como forma de acelerar a correção"
+   },
+   "resposta": "c",
+   "explicacao": "O argumento não é de compensação simbólica: quem atende o público decide o que a norma deixa em aberto, e um corpo técnico que não se parece com a população decide pior. A reserva também opera onde a desigualdade racial é mais resistente — no acesso a cargos estáveis e bem pagos, que o diploma sozinho não abriu.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "atualidades-saude": [
@@ -111915,6 +112578,567 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Quem entendeu por que a cobertura vacinal cai, como o efeito estufa funciona e o que faz uma cadeia produtiva se reorganizar consegue enfrentar o tema do próximo semestre — que ainda não aconteceu quando este banco foi escrito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-151",
+   "texto_apoio": "Um levantamento internacional publicado em 2022 estimou que a resistência antimicrobiana esteve associada a cerca de 4,9 milhões de mortes no mundo no ano de 2019, das quais 1,27 milhão diretamente atribuíveis a ela.",
+   "enunciado": "Do ponto de vista biológico, o avanço da resistência antimicrobiana se explica porque:",
+   "alternativas": {
+    "a": "o antibiótico desencadeia no paciente uma reação imunológica prolongada que enfraquece as defesas naturais do organismo e abre espaço para infecções oportunistas de origem hospitalar",
+    "b": "o uso do antibiótico elimina as linhagens sensíveis e deixa como sobreviventes as bactérias que já portavam genes de resistência, que então se multiplicam sem concorrência",
+    "c": "o contato com a droga induz a bactéria a produzir o gene de resistência, que se transmite depois às gerações seguintes",
+    "d": "a molécula do antibiótico se degrada com o tempo de armazenamento e perde a capacidade de agir sobre o agente infeccioso",
+    "e": "a resistência aparece só em ambiente hospitalar, onde a carga bacteriana circulante é maior do que a do ambiente doméstico"
+   },
+   "resposta": "b",
+   "explicacao": "É seleção, não indução: a droga não cria o gene de resistência, ela escolhe quem sobrevive. Por isso a saúde pública trata o consumo desnecessário de antibiótico como problema coletivo, e não como escolha individual sem consequência para terceiros.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-152",
+   "texto_apoio": "Desde outubro de 2022, os alimentos embalados vendidos no Brasil devem trazer na face frontal do rótulo uma lupa preta indicando alto teor de açúcar adicionado, de gorduras saturadas ou de sódio.",
+   "enunciado": "A lógica sanitária dessa exigência é:",
+   "alternativas": {
+    "a": "atestar que os produtos sem a lupa preta possuem qualidade nutricional superior e podem ser consumidos sem restrição por pessoas que já convivem com doenças crônicas diagnosticadas",
+    "b": "proibir a comercialização de produtos ultraprocessados nas redes de supermercado e nas cantinas de estabelecimentos de ensino",
+    "c": "tornar imediata, no ponto de venda, uma informação que antes dependia da leitura da tabela nutricional impressa no verso",
+    "d": "transferir à indústria o custo da fiscalização sanitária, que passa a ser feita por laboratórios contratados pelos próprios fabricantes",
+    "e": "substituir a tabela nutricional detalhada, que deixou de ser obrigatória nas embalagens a partir daquela data"
+   },
+   "resposta": "c",
+   "explicacao": "A tabela do verso continua obrigatória: a lupa não a substitui, ela resolve um problema de tempo e de atenção. O alvo é a decisão de compra, tomada em segundos, e não o consumidor que já procura a informação. É a mesma estratégia de saúde pública usada nas advertências de embalagens de cigarro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-153",
+   "texto_apoio": "A Estratégia Saúde da Família organiza equipes formadas por médico, enfermeiro, técnico de enfermagem e agentes comunitários, responsáveis por um território definido e por uma população cadastrada.",
+   "enunciado": "O papel atribuído à atenção primária nesse desenho é:",
+   "alternativas": {
+    "a": "concentrar os procedimentos de alta complexidade em unidades de referência regional, reduzindo o deslocamento dos pacientes crônicos entre municípios distantes da capital do estado",
+    "b": "atender apenas os casos de menor gravidade, encaminhando ao hospital tudo o que exija exame complementar",
+    "c": "substituir a rede hospitalar nas regiões de menor densidade demográfica do país",
+    "d": "funcionar como porta de entrada preferencial e coordenar o percurso do usuário pelos demais níveis de complexidade",
+    "e": "cadastrar a população para fins estatísticos, sem responsabilidade sobre o acompanhamento longitudinal das famílias"
+   },
+   "resposta": "d",
+   "explicacao": "Coordenação do cuidado é a função que distingue a atenção primária de um pronto-atendimento: ela acompanha a mesma família ao longo do tempo e organiza o trânsito pela rede. Sistemas de saúde com atenção primária forte custam menos e apresentam melhores indicadores, e é sobre esse princípio que o SUS foi desenhado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-154",
+   "texto_apoio": "Ao longo do século XX o perfil de adoecimento brasileiro deslocou-se das doenças infecciosas para as doenças crônicas não transmissíveis, sem que as primeiras desaparecessem do quadro nacional.",
+   "enunciado": "A leitura correta desse processo, conhecido como transição epidemiológica, é:",
+   "alternativas": {
+    "a": "as doenças infecciosas foram superadas no Brasil e hoje respondem por parcela irrelevante da demanda dos serviços assistenciais espalhados pelo território nacional",
+    "b": "o país vive uma dupla carga: as crônicas dominam os óbitos, enquanto epidemias de arboviroses seguem pressionando a rede assistencial",
+    "c": "a transição se completou primeiro nas regiões mais pobres, onde a queda da mortalidade infantil foi mais rápida",
+    "d": "o aumento das doenças crônicas indica piora das condições de vida da população brasileira nas últimas décadas",
+    "e": "a mudança de perfil decorre do envelhecimento populacional, sem relação com hábitos alimentares ou com o consumo de tabaco"
+   },
+   "resposta": "b",
+   "explicacao": "O conceito clássico previa substituição; o Brasil apresentou sobreposição. Parte do aumento das crônicas é efeito colateral de uma conquista — mais gente chega à idade em que elas aparecem, e a expectativa de vida subiu —, mas a outra parte vem de alimentação e sedentarismo. Os dois problemas disputam a mesma rede ao mesmo tempo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-155",
+   "texto_apoio": "O Censo de 2022 registrou 10,9% da população brasileira com 65 anos ou mais, proporção que era de 5,9% em 2000. A expectativa de vida ao nascer chegou a cerca de 76 anos.",
+   "enunciado": "A consequência mais direta desse quadro para o sistema de saúde é:",
+   "alternativas": {
+    "a": "a redução da demanda por leitos hospitalares, já que o aumento da longevidade indica melhora generalizada do estado de saúde da população brasileira adulta",
+    "b": "a substituição da atenção básica por serviços especializados em geriatria, únicos capazes de responder ao novo perfil",
+    "c": "a queda da despesa pública com medicamentos, pela redução das internações por causas infecciosas",
+    "d": "o encolhimento da população em idade ativa que sustenta o financiamento do sistema, sem efeito sobre o padrão de demanda",
+    "e": "o crescimento da demanda por cuidado continuado a condições crônicas, que exige acompanhamento longitudinal em vez de episódios isolados de internação"
+   },
+   "resposta": "e",
+   "explicacao": "Envelhecimento populacional não é sinônimo de doença, mas muda a natureza da demanda: o sistema deixa de responder a episódios agudos e passa a administrar condições que duram décadas. Isso favorece arranjos de atenção primária e cuidado domiciliar, que custam menos que a internação repetida — e a expectativa de vida seguirá subindo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-156",
+   "texto_apoio": "Em 2024 o Brasil registrou o maior número de casos prováveis de dengue de sua série histórica. Circulam no país quatro sorotipos distintos do vírus.",
+   "enunciado": "A existência de quatro sorotipos importa porque:",
+   "alternativas": {
+    "a": "a infecção por um sorotipo confere imunidade duradoura àquele sorotipo, e a reinfecção por um segundo eleva o risco de forma grave da doença",
+    "b": "cada sorotipo é transmitido por uma espécie diferente de mosquito, o que exige estratégias de controle distintas em cada região do país",
+    "c": "os sorotipos se alternam de acordo com a estação do ano, o que explica a concentração dos casos no período seco do calendário brasileiro",
+    "d": "quem já teve dengue está protegido contra os outros três sorotipos e deixa de compor o grupo de risco em novas temporadas de transmissão do vírus no território nacional",
+    "e": "os quatro sorotipos produzem quadros clínicos idênticos, o que dispensa a identificação laboratorial do agente em situações de surto"
+   },
+   "resposta": "a",
+   "explicacao": "A imunidade cruzada é parcial e transitória; passado esse intervalo, anticorpos contra o primeiro sorotipo podem facilitar a entrada do segundo nas células. É por isso que a reintrodução de um sorotipo ausente há anos costuma vir acompanhada de casos graves, e por que o acesso a tratamento precoce e a hidratação reduzem a letalidade dessa arbovirose.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-157",
+   "texto_apoio": "A cobertura vacinal infantil no Brasil recuou ao longo da década de 2010, ficando abaixo das metas em vários imunizantes, e voltou a subir a partir de 2023.",
+   "enunciado": "O conceito de imunidade coletiva, ou de rebanho, indica que:",
+   "alternativas": {
+    "a": "uma pessoa vacinada não transmite nenhum agente infeccioso, o que a torna irrelevante para a cadeia de transmissão da comunidade em que vive",
+    "b": "a imunidade se adquire pela circulação natural do agente, de modo que campanhas de imunização retardam a proteção do conjunto da população em longo prazo",
+    "c": "acima de certo percentual de imunizados, a transmissão não se sustenta e protege-se também quem não pôde ser vacinado, como recém-nascidos e imunossuprimidos",
+    "d": "o percentual necessário de imunizados é o mesmo para as diferentes doenças, o que simplifica a definição das metas nacionais de cobertura e dispensa o cálculo específico para cada agente infeccioso em circulação",
+    "e": "a proteção coletiva depende da vacinação dos adultos, já que crianças raramente participam das cadeias de transmissão nas comunidades"
+   },
+   "resposta": "c",
+   "explicacao": "O limiar varia com a transmissibilidade do agente: o sarampo, altíssima, exige perto de 95%; outras doenças se contêm com menos. Daí a lógica da busca ativa feita pela atenção primária — bolsões locais de baixa cobertura reacendem a transmissão mesmo quando a média nacional parece confortável.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-158",
+   "texto_apoio": "O Brasil recebeu em 2016 o certificado de eliminação do sarampo, perdeu-o em 2019 após surtos sustentados por mais de doze meses e voltou a recebê-lo em 2025.",
+   "enunciado": "A distinção entre eliminação e erradicação implica que:",
+   "alternativas": {
+    "a": "a eliminação é definitiva e dispensa a manutenção de campanhas periódicas de imunização depois de obtido o certificado internacional pelo país",
+    "b": "eliminação significa interrupção da transmissão dentro do território, e um caso importado pode reiniciar a cadeia onde a cobertura estiver baixa",
+    "c": "erradicação e eliminação designam a mesma situação, variando apenas conforme o organismo internacional que emite o certificado ao país solicitante",
+    "d": "a erradicação depende de tratamento eficaz disponível, e não da interrupção da circulação do agente entre as populações suscetíveis do planeta",
+    "e": "a perda do certificado em 2019 decorreu de mudança nos critérios de contagem adotados pelos organismos internacionais, e não de aumento real dos casos registrados no país"
+   },
+   "resposta": "b",
+   "explicacao": "Só a varíola foi erradicada. Eliminação é um estado que se perde: o vírus continua circulando em outros países, e viajantes o reintroduzem. O que decide se um caso importado vira surto é a cobertura local, mantida pela vacinação de rotina na atenção básica — não o certificado pendurado na parede.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-159",
+   "texto_apoio": "Pesquisas sobre hesitação vacinal descrevem um comportamento intermediário entre a aceitação e a recusa: pessoas que adiam, selecionam alguns imunizantes ou pedem mais tempo antes de decidir.",
+   "enunciado": "Tratar a hesitação como fenômeno distinto da recusa importa porque:",
+   "alternativas": {
+    "a": "o hesitante é numericamente irrelevante diante do grupo que recusa a imunização por convicção declarada e organizada em movimentos de alcance nacional",
+    "b": "a hesitação decorre de dificuldade de acesso ao serviço, e não de dúvida, o que torna a comunicação uma estratégia sem efeito prático sobre a cobertura",
+    "c": "a recusa por convicção responde bem ao esclarecimento técnico, enquanto o hesitante só muda de posição diante de exigência legal",
+    "d": "a hesitação surge apenas em países de renda alta, onde as doenças imunopreveníveis deixaram de ser lembradas pela população mais jovem das grandes cidades",
+    "e": "quem hesita ainda está aberto ao diálogo, e o vínculo com a equipe da atenção primária costuma ser mais eficaz do que a campanha de massa"
+   },
+   "resposta": "e",
+   "explicacao": "Hesitação é dúvida, não militância — e dúvida se responde com conversa, no contexto em que há confiança. O agente comunitário que conhece a família tem, aqui, poder que nenhuma peça publicitária tem. Confundir os dois grupos leva a saúde pública a gastar com o argumento errado no público errado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-160",
+   "texto_apoio": "Em 2022 o Brasil voltou a figurar no Mapa da Fome das Nações Unidas; em 2025 o mesmo relatório voltou a excluí-lo, ao registrar subalimentação abaixo de 2,5% da população.",
+   "enunciado": "As escalas usadas para medir insegurança alimentar caracterizam-se por:",
+   "alternativas": {
+    "a": "captar graus, da preocupação com a comida que pode faltar até a experiência da fome, em vez de registrar somente a situação extrema",
+    "b": "medir o total de alimentos produzidos no país, indicador que responde diretamente pela situação vivida em cada domicílio brasileiro",
+    "c": "registrar apenas os domicílios em que houve ausência completa de refeições por vinte e quatro horas consecutivas ao longo do trimestre pesquisado",
+    "d": "aferir o peso e a altura dos moradores, dispensando o relato dos entrevistados sobre a rotina alimentar do domicílio nos últimos meses do ano de referência",
+    "e": "acompanhar o preço da cesta básica nas capitais, informação que substitui com vantagem a entrevista domiciliar em levantamentos de abrangência nacional"
+   },
+   "resposta": "a",
+   "explicacao": "Insegurança alimentar é gradiente. A forma leve — comer pior, com menos variedade, para que a comida chegue ao fim do mês — atinge muito mais gente do que a fome, e antecede a desnutrição. Medir só o extremo apagaria justamente a faixa em que os determinantes sociais da saúde ainda podem ser revertidos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-161",
+   "texto_apoio": "Levantamentos nacionais mostram, nos mesmos territórios, prevalência elevada de obesidade adulta e persistência de déficits de crescimento e de anemia entre crianças.",
+   "enunciado": "Essa coexistência, chamada dupla carga de má nutrição, se explica porque:",
+   "alternativas": {
+    "a": "os dois quadros decorrem de excesso de consumo calórico, variando somente a idade em que cada um se manifesta ao longo da vida do indivíduo",
+    "b": "a obesidade adulta resulta de erro de medição das pesquisas domiciliares, que superestimam o peso declarado pelos moradores entrevistados nas periferias urbanas",
+    "c": "alimento barato e denso em calorias pode saciar sem nutrir, de modo que excesso de peso e carência de micronutrientes convivem no mesmo domicílio",
+    "d": "a desnutrição infantil desaparece assim que a renda domiciliar cresce, e o excesso de peso é a etapa seguinte e inevitável desse mesmo percurso",
+    "e": "trata-se de fenômeno restrito a países de renda alta, onde a oferta de alimentos industrializados é maior do que a de produtos frescos nos pontos de venda"
+   },
+   "resposta": "c",
+   "explicacao": "Calorias e nutrientes não caminham juntos. Onde o alimento acessível é o mais energético e o menos nutritivo, o mesmo domicílio produz adulto com obesidade e criança com déficit de ferro. Por isso os determinantes sociais da saúde explicam melhor esse quadro do que a leitura pela escolha individual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-162",
+   "texto_apoio": "A classificação NOVA agrupa os alimentos pelo grau e pelo propósito do processamento industrial, e não pelo teor de nutrientes: in natura, ingredientes culinários, processados e ultraprocessados.",
+   "enunciado": "O critério que define um alimento como ultraprocessado é:",
+   "alternativas": {
+    "a": "o teor de calorias por porção declarado na tabela impressa na embalagem do produto",
+    "b": "a presença de alguma etapa industrial na cadeia produtiva, o que inclui o simples congelamento de hortaliças, a pasteurização do leite e a moagem de grãos destinados à venda ao consumidor final",
+    "c": "o preço de venda ao consumidor, que reflete o número de etapas industriais percorridas pelo produto até a prateleira do supermercado",
+    "d": "ser uma formulação industrial feita de substâncias extraídas de alimentos e de aditivos de uso restrito à indústria, como corantes e realçadores de sabor",
+    "e": "a origem estrangeira da marca, indicador do padrão alimentar associado às cadeias globais de distribuição de produtos alimentícios embalados"
+   },
+   "resposta": "d",
+   "explicacao": "O deslocamento é do nutriente para o processo. Um produto pode ter rótulo nutricional aceitável e ainda assim ser ultraprocessado, porque o que a saúde pública observa é a formulação: matriz do alimento desfeita, aditivos que só existem na indústria e um desenho voltado a estimular consumo além da saciedade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-163",
+   "texto_apoio": "Na 11ª Revisão da Classificação Internacional de Doenças, em vigor desde 2022, o burnout aparece descrito como fenômeno ocupacional resultante de estresse crônico no trabalho que não foi administrado com êxito.",
+   "enunciado": "Classificá-lo como fenômeno ocupacional, e não como doença, implica que:",
+   "alternativas": {
+    "a": "o quadro passa a ser encarado como característica de personalidade do trabalhador, o que retira da organização a responsabilidade sobre as condições em que a atividade é exercida",
+    "b": "o diagnóstico deixa de exigir avaliação profissional e pode ser feito pelo próprio trabalhador a partir de questionários de autoaplicação disponíveis publicamente",
+    "c": "a resposta se dirige também à organização do trabalho, e não apenas ao tratamento individual de quem adoeceu",
+    "d": "o burnout deixa de guardar relação com transtornos de ansiedade e de depressão, passando a constituir categoria isolada dentro da classificação internacional",
+    "e": "a síndrome é reconhecida nas atividades profissionais formais, com exceção das exercidas sem vínculo registrado em carteira"
+   },
+   "resposta": "c",
+   "explicacao": "Nomear a origem no contexto muda o endereço da intervenção. Se o adoecimento nasce de sobrecarga, escala e ausência de reconhecimento, oferecer só apoio psicológico individual devolve ao trabalhador um problema que não é dele. A saúde pública trata o adoecimento no trabalho como questão coletiva, e não como fragilidade pessoal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-164",
+   "texto_apoio": "Estimativas internacionais colocam o Brasil entre os países com maior prevalência de transtornos de ansiedade, e apontam que boa parte das pessoas com depressão não recebe tratamento adequado.",
+   "enunciado": "A distância entre pessoas adoecidas e pessoas tratadas, conhecida como lacuna assistencial, decorre principalmente de:",
+   "alternativas": {
+    "a": "ausência de tratamentos eficazes disponíveis, já que os recursos terapêuticos existentes têm efeito comprovadamente reduzido sobre a maior parte dos quadros descritos",
+    "b": "estigma, escassez de profissionais na rede pública e concentração dos serviços de saúde mental nos grandes centros urbanos",
+    "c": "recusa dos pacientes ao tratamento, motivo que responde pela maior parte dos casos que não chegam a nenhum serviço da rede assistencial brasileira",
+    "d": "excesso de diagnósticos feitos na atenção primária, que satura os serviços especializados com encaminhamentos desnecessários e desloca a fila para quem tem quadro leve",
+    "e": "priorização das internações psiquiátricas de longa permanência, modelo que hoje concentra a maior parte do financiamento público da área no país"
+   },
+   "resposta": "b",
+   "explicacao": "A lacuna tem três camadas: quem não procura, quem procura e não encontra, e quem encontra e não continua. Cada uma pede resposta diferente — campanha contra o estigma não resolve falta de profissional, e ampliar a rede não resolve o silêncio de quem não pede ajuda. É por isso que a saúde pública trata o problema como organização de serviço, e não como soma de casos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-165",
+   "texto_apoio": "Manuais de comunicação recomendam que veículos de imprensa evitem descrever o modo como um suicídio ocorreu e, em contrapartida, divulguem canais de ajuda ao final da reportagem.",
+   "enunciado": "A base dessas recomendações é:",
+   "alternativas": {
+    "a": "a proibição legal de noticiar mortes autoprovocadas, restrição que vigora na legislação brasileira desde a criação das campanhas nacionais de prevenção",
+    "b": "a constatação de que o tema perdeu relevância epidemiológica no país, o que torna a cobertura jornalística desnecessária diante de outras pautas sanitárias",
+    "c": "a observação de que a divulgação detalhada pode favorecer a imitação, enquanto reportagens sobre superação e ajuda disponível associam-se a efeito protetor",
+    "d": "o entendimento de que falar do assunto induz o comportamento independentemente do modo como se fale, razão pela qual o silêncio seria a recomendação técnica predominante",
+    "e": "a orientação de concentrar a cobertura nos aspectos policiais do caso, poupando a família da exposição de detalhes sobre a trajetória pessoal da vítima e sobre o histórico de atendimentos"
+   },
+   "resposta": "c",
+   "explicacao": "Os dois efeitos têm nome: Werther, o de imitação, e Papageno, o protetor. A recomendação técnica não é calar — é mudar o foco da descrição do ato para a existência de saída. Prevenção do suicídio combina essa cobertura responsável com a ampliação do acesso a tratamento em saúde mental.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-166",
+   "texto_apoio": "Modelos usados em saúde coletiva representam a saúde como camadas concêntricas: características individuais no centro; redes sociais e comunitárias; condições de vida e de trabalho; e, na camada externa, as condições socioeconômicas gerais.",
+   "enunciado": "Esse modelo dos determinantes sociais da saúde sustenta que:",
+   "alternativas": {
+    "a": "as camadas externas explicam parcela relevante das diferenças de adoecimento entre grupos, o que torna insuficiente a intervenção restrita ao comportamento individual",
+    "b": "a carga genética responde pela maior parte da variação observada entre grupos sociais, cabendo às demais camadas função apenas descritiva no modelo proposto",
+    "c": "as camadas são independentes entre si, de modo que intervir em uma delas não altera o efeito produzido pelas demais sobre o estado de saúde da população",
+    "d": "a intervenção deve começar pela camada mais externa, e ações sobre hábitos individuais são desperdício de recursos públicos enquanto persistir a desigualdade de renda",
+    "e": "o modelo se aplica a países de renda baixa, onde as condições materiais de vida ainda pesam mais do que as escolhas pessoais sobre alimentação e atividade física"
+   },
+   "resposta": "a",
+   "explicacao": "O modelo não nega a biologia nem a conduta pessoal — ele as coloca dentro de um contexto que as condiciona. Renda, habitação, saneamento e anos de estudo mudam a probabilidade de adoecer antes que qualquer escolha seja feita, e é por isso que política de saúde pública raramente se resolve dentro do consultório.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-167",
+   "texto_apoio": "A abordagem de saúde única parte da constatação de que a maior parte das doenças infecciosas emergentes tem origem animal e depende do contato entre populações humanas, animais domésticos e fauna silvestre.",
+   "enunciado": "O evento de transposição de barreira entre espécies, ou transbordamento, torna-se mais provável quando:",
+   "alternativas": {
+    "a": "a densidade populacional urbana diminui e o contato entre pessoas se torna menos frequente ao longo do ano nas cidades de médio porte",
+    "b": "cresce a frequência de contato entre humanos, criações e fauna silvestre, situação favorecida pelo avanço sobre áreas florestais e pelo comércio de animais vivos",
+    "c": "as populações de fauna silvestre aumentam em áreas protegidas, condição que eleva de forma direta e proporcional o risco de zoonose nas cidades vizinhas às unidades de conservação",
+    "d": "a vigilância veterinária se separa da vigilância humana, arranjo que reduz a duplicidade de esforços e abrevia o tempo de resposta a uma emergência sanitária",
+    "e": "os agentes infecciosos sofrem mutação em laboratório, origem que responde pela maior parte dos surtos registrados nas últimas décadas em diferentes continentes"
+   },
+   "resposta": "b",
+   "explicacao": "Transbordamento é questão de oportunidade de contato. Onde a fronteira agrícola avança, onde animais silvestres são vendidos vivos e onde a criação se adensa, a chance de um agente encontrar hospedeiro humano cresce. Daí a lógica da saúde única: separar vigilância humana, animal e ambiental atrasa a detecção do próximo surto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-168",
+   "texto_apoio": "Diante da negativa administrativa de um medicamento, pacientes recorrem ao Poder Judiciário para obtê-lo. O volume dessas ações cresceu de forma acentuada nas duas primeiras décadas do século XXI.",
+   "enunciado": "O principal dilema da judicialização da saúde é que:",
+   "alternativas": {
+    "a": "as decisões judiciais atendem ao paciente que chegou ao processo, mas realocam recursos definidos por critério coletivo em favor de quem teve acesso a advogado",
+    "b": "os tribunais deixaram de reconhecer o direito à saúde como direito subjetivo, o que reduziu o número de ações movidas contra o poder público nos últimos anos",
+    "c": "as ações se concentram em medicamentos já incorporados às listas oficiais, o que revela problema exclusivo de distribuição, e não de definição da lista de itens custeados",
+    "d": "o gasto gerado por essas decisões é irrelevante diante do total, o que torna o debate uma discussão apenas doutrinária sobre os limites da atuação do Poder Judiciário no país",
+    "e": "a fila de espera por procedimentos deixa de existir onde o volume de ações judiciais é maior, resultado observado nas capitais das regiões mais ricas do território brasileiro"
+   },
+   "resposta": "a",
+   "explicacao": "O conflito é entre duas justiças: a do caso concreto e a da fila. Cada liminar cumprida sai de um orçamento que foi montado por critério epidemiológico, e quem move a ação costuma ser quem tem mais informação e representação. Daí a defesa de que a resposta esteja no processo de incorporação, e não caso a caso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-169",
+   "texto_apoio": "A incorporação de novas tecnologias ao SUS passa por avaliação que compara o benefício clínico adicional de um produto ao de alternativas já disponíveis e considera o custo dessa diferença.",
+   "enunciado": "O sentido de exigir essa avaliação antes da incorporação é:",
+   "alternativas": {
+    "a": "impedir a entrada de tecnologias desenvolvidas fora do país, reservando o mercado público aos fabricantes nacionais estabelecidos em território brasileiro",
+    "b": "condicionar a oferta pública à existência de patente vigente, requisito que assegura a qualidade do produto ofertado à rede assistencial",
+    "c": "adiar decisões politicamente sensíveis, transferindo a um colegiado técnico a responsabilidade por negativas que o gestor não deseja assinar",
+    "d": "verificar se o ganho clínico adicional justifica o custo adicional, já que cada incorporação compromete recursos que deixam de custear outra oferta",
+    "e": "assegurar que o produto mais recente esteja disponível, pois a data de registro é o melhor indicador do benefício que ele produzirá sobre o paciente"
+   },
+   "resposta": "d",
+   "explicacao": "Novidade não é sinônimo de benefício, e todo orçamento de saúde é finito. A pergunta técnica não é se a tecnologia funciona, e sim quanto ela acrescenta ao que já existe e a que preço — porque o dinheiro gasto com ela é o mesmo que deixaria de custear acesso a tratamento para outro grupo de pacientes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-170",
+   "texto_apoio": "A vigilância epidemiológica trabalha com uma lista de agravos de notificação compulsória: casos suspeitos devem ser comunicados ao serviço de saúde em prazo definido, mesmo antes da confirmação laboratorial.",
+   "enunciado": "Exigir a notificação do caso suspeito, e não apenas do confirmado, se justifica porque:",
+   "alternativas": {
+    "a": "o caso suspeito representa o único registro estatístico confiável para o cálculo das taxas de incidência das doenças transmissíveis no território nacional",
+    "b": "a confirmação laboratorial deixou de ser exigida na rotina dos serviços, o que transformou a suspeita clínica no critério definitivo de encerramento do caso notificado",
+    "c": "a notificação do suspeito reduz o custo do exame laboratorial, que passa a ser feito somente nos casos em que houver interesse acadêmico da equipe assistente",
+    "d": "a suspeita é registrada por razões jurídicas, para documentar a responsabilidade do profissional em caso de desfecho desfavorável do paciente atendido",
+    "e": "esperar a confirmação atrasaria a resposta, e medidas como bloqueio vacinal e busca de contatos perdem eficácia se aplicadas tarde"
+   },
+   "resposta": "e",
+   "explicacao": "Vigilância é uma corrida contra o tempo de duplicação da epidemia. O exame que confirma leva dias; a transmissão, não espera. Notificar a suspeita aceita de propósito algum alarme falso como preço por não perder o surto real — e é a atenção primária quem costuma dar o primeiro sinal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-171",
+   "texto_apoio": "A taxa de mortalidade infantil brasileira caiu de forma acentuada desde os anos 1990, mas segue desigual entre regiões e entre grupos raciais, com valores mais altos no Norte e no Nordeste.",
+   "enunciado": "A persistência dessas diferenças indica que:",
+   "alternativas": {
+    "a": "o indicador perdeu utilidade, já que a queda média nacional demonstra que o problema foi superado no conjunto do território brasileiro",
+    "b": "boa parte dos óbitos remanescentes é evitável e depende de pré-natal, parto assistido e saneamento, condições distribuídas de forma desigual",
+    "c": "as diferenças refletem características biológicas das populações regionais, sem relação com a oferta de serviços assistenciais em cada localidade",
+    "d": "a mortalidade infantil responde apenas à disponibilidade de leitos de terapia intensiva neonatal, equipamento concentrado nas capitais das regiões Sul e Sudeste do país",
+    "e": "o registro dos óbitos é mais completo nas regiões mais pobres, o que produz a diferença observada sem correspondência com a realidade dos nascimentos ocorridos"
+   },
+   "resposta": "b",
+   "explicacao": "A mortalidade infantil é o indicador que melhor expõe os determinantes sociais da saúde, porque quase todo óbito nessa faixa tem causa evitável. Quando a média cai e a diferença entre grupos permanece, o ganho chegou primeiro a quem já tinha acesso — e a saúde pública passa a medir equidade, não só o valor médio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-172",
+   "texto_apoio": "A vacinação contra o HPV foi incorporada ao calendário brasileiro em 2014 para meninas e ampliada a meninos em 2017; em 2024 o esquema passou a ser de dose única para a faixa etária prioritária.",
+   "enunciado": "O argumento sanitário para vacinar também os meninos é:",
+   "alternativas": {
+    "a": "eles apresentam risco de câncer de colo do útero equivalente ao das meninas, o que justifica a igualdade de tratamento no calendário oficial",
+    "b": "a resposta imune masculina exige duas aplicações, o que compensa o custo adicional da ampliação da faixa contemplada pelo programa nacional",
+    "c": "eles participam da cadeia de transmissão e também adoecem de cânceres associados ao vírus, de modo que vaciná-los protege os dois grupos",
+    "d": "a inclusão foi feita por decisão administrativa sem base epidemiológica, com o objetivo de elevar a cobertura vacinal média registrada pelo país nas estatísticas internacionais",
+    "e": "a vacinação masculina substitui a necessidade de rastreamento do câncer de colo do útero entre as mulheres adultas já expostas ao vírus antes da adolescência"
+   },
+   "resposta": "c",
+   "explicacao": "É uma vacina contra um vírus sexualmente transmissível: proteger só metade da população deixa a cadeia de transmissão aberta. Some-se a isso o câncer de orofaringe e o de pênis, ligados ao mesmo agente. O rastreamento segue necessário — a vacinação previne, o exame detecta o que já se instalou.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-173",
+   "texto_apoio": "No Brasil, a febre amarela circula em ciclo silvestre, entre primatas não humanos e mosquitos de mata; o ciclo urbano, transmitido pelo Aedes aegypti, não é registrado no país desde 1942.",
+   "enunciado": "A morte de macacos em uma área de mata deve ser tratada como:",
+   "alternativas": {
+    "a": "prova de que os primatas são o reservatório do vírus e devem ser eliminados nas áreas próximas às ocupações humanas em expansão sobre a mata",
+    "b": "evento sem relação com o risco humano, uma vez que o vírus que circula entre primatas pertence a linhagem distinta da que infecta pessoas na mesma região",
+    "c": "indício de retorno do ciclo urbano, o que exigiria a suspensão imediata da vacinação de rotina e a substituição do imunizante em uso pela rede pública de saúde",
+    "d": "sinal de alerta que antecede casos humanos e aciona a vacinação de bloqueio na região, já que os macacos adoecem e morrem como as pessoas",
+    "e": "consequência do desmatamento, sem implicação para a vigilância, pois o mosquito de mata não se aproxima das áreas de ocupação humana em nenhuma estação"
+   },
+   "resposta": "d",
+   "explicacao": "O macaco é sentinela, não culpado: ele adoece e morre igual, e o vírus está nos mosquitos silvestres. Matar primatas destrói o sistema de aviso e não reduz a transmissão. A epizootia notificada desencadeia a vacinação de bloqueio antes que apareça o primeiro caso humano — é vigilância de saúde única na prática.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-174",
+   "texto_apoio": "Pesquisas de comportamento mostram que parcela relevante da população brasileira já usou antibiótico por conta própria, com frequência para tratar quadros respiratórios de início recente.",
+   "enunciado": "O problema técnico central dessa prática é que:",
+   "alternativas": {
+    "a": "o antibiótico perde efeito se administrado junto a analgésicos comuns, interação que responde pelo fracasso da maior parte dos tratamentos iniciados sem prescrição",
+    "b": "a maioria das infecções respiratórias agudas é viral, e o antibiótico não age sobre vírus, embora selecione bactérias resistentes no organismo de quem o toma",
+    "c": "o antibiótico produz dependência química comparável à de outros medicamentos de venda controlada, o que explica a repetição do uso a cada novo episódio respiratório",
+    "d": "a automedicação encarece o tratamento subsequente, prejuízo que se restringe ao orçamento familiar sem efeito sobre a coletividade que compartilha o mesmo ambiente",
+    "e": "o efeito do antibiótico depende da estação do ano em que é tomado, e o uso fora do período recomendado reduz a resposta clínica esperada pelo paciente"
+   },
+   "resposta": "b",
+   "explicacao": "Duas perdas ao mesmo tempo: o paciente não melhora do quadro viral e ainda contribui para a resistência antimicrobiana. Foi por isso que a retenção de receita passou a ser exigida na dispensação. O dano não fica no indivíduo — a bactéria resistente circula, e a saúde pública paga a conta anos depois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-175",
+   "texto_apoio": "O ambiente alimentar de uma criança é formado pelo que está disponível, acessível e anunciado em torno dela: preço relativo, oferta no bairro, cardápio da cantina e publicidade dirigida ao público infantil.",
+   "enunciado": "A implicação dessa noção para o enfrentamento da obesidade infantil é:",
+   "alternativas": {
+    "a": "responsabilizar somente a família pelas escolhas alimentares, uma vez que a decisão de compra é tomada dentro do domicílio pelos responsáveis pela criança",
+    "b": "concluir que a informação nutricional resolve o problema sozinha, desde que impressa de forma legível na parte frontal das embalagens dos produtos ofertados",
+    "c": "priorizar o tratamento clínico individual do excesso de peso, adiando medidas coletivas até que o quadro esteja instalado na maior parte da população infantil brasileira",
+    "d": "deslocar parte da intervenção para regras de publicidade, oferta em ambiente de ensino e preço relativo, sem descartar a orientação individual",
+    "e": "transferir a decisão à indústria de alimentos, que passaria a definir de forma voluntária os limites de açúcar adicionado aceitáveis nos produtos dirigidos a crianças"
+   },
+   "resposta": "d",
+   "explicacao": "Se o alimento ultraprocessado é o mais barato, o mais anunciado e o mais fácil de encontrar, cobrar escolha melhor de uma criança é cobrar do elo mais fraco. A regulação da publicidade infantil e a composição da merenda mudam o cardápio antes que a escolha aconteça — o que a saúde pública chama de intervenção estrutural.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-176",
+   "texto_apoio": "Serviços de saúde mental relatam aumento da procura por adolescentes com queixas de ansiedade e de sono. Estudos observacionais associam parte desse quadro ao tempo prolongado diante de telas, sobretudo à noite.",
+   "enunciado": "A leitura metodologicamente cuidadosa dessa associação reconhece que:",
+   "alternativas": {
+    "a": "estudos observacionais não estabelecem sozinhos a direção do efeito, pois adolescentes com ansiedade podem também recorrer mais às telas",
+    "b": "a associação observada comprova a relação de causa, dispensando estudos adicionais sobre a direção do efeito entre o uso de telas e o adoecimento",
+    "c": "a ausência de experimento controlado torna o dado inútil para orientar recomendações sobre rotina de sono na adolescência, mesmo em caráter prudencial",
+    "d": "a associação se explica apenas pela luz emitida pelos aparelhos, mecanismo suficiente para dispensar a investigação do conteúdo consumido e do horário de uso",
+    "e": "o aumento da procura pelos serviços indica piora real da prevalência, já que a ampliação da oferta assistencial não interfere no número de casos registrados pela rede"
+   },
+   "resposta": "a",
+   "explicacao": "Causa reversa e confundimento são as duas armadilhas. Quem já dorme mal usa mais tela à noite; quem tem sofrimento busca refúgio nela. Isso não anula a recomendação prudente sobre sono, mas impede a manchete causal. A saúde pública convive com evidência imperfeita sem confundi-la com prova.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-177",
+   "texto_apoio": "A tuberculose concentra-se em populações específicas: pessoas privadas de liberdade, em situação de rua, vivendo com HIV e moradoras de áreas de alta densidade e baixa ventilação.",
+   "enunciado": "Chamar a tuberculose de doença socialmente determinada significa reconhecer que:",
+   "alternativas": {
+    "a": "a bactéria só infecta pessoas de baixa renda, característica biológica que explica a distribuição observada da doença entre os grupos sociais brasileiros",
+    "b": "o tratamento é ineficaz nessas populações, razão pela qual o controle depende do isolamento prolongado dos casos identificados nas unidades assistenciais",
+    "c": "a exposição e o adoecimento dependem de aglomeração, nutrição e acesso ao diagnóstico, condições distribuídas segundo a posição social",
+    "d": "a doença desapareceria com a distribuição universal do imunizante disponível, medida que dispensaria as ações voltadas às condições de vida dos grupos mais expostos",
+    "e": "a determinação social substitui a explicação microbiológica, de modo que a identificação do agente infeccioso perdeu utilidade prática no manejo clínico dos casos"
+   },
+   "resposta": "c",
+   "explicacao": "Determinação social não substitui o bacilo: ela explica por que o mesmo bacilo adoece uns e não outros. Aglomeração aumenta a exposição, desnutrição derruba a defesa, e a distância do serviço atrasa o diagnóstico. Por isso a busca ativa nesses territórios rende mais que a espera passiva na unidade de saúde.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-178",
+   "texto_apoio": "Duas estratégias mudaram o enfrentamento do HIV: a profilaxia pré-exposição, oferecida a pessoas sob risco elevado, e a constatação de que a pessoa em tratamento com carga viral indetectável não transmite o vírus por via sexual.",
+   "enunciado": "O ponto comum entre as duas estratégias é:",
+   "alternativas": {
+    "a": "substituir o uso do preservativo por medida farmacológica, que passa a responder também pela prevenção das demais infecções sexualmente transmissíveis",
+    "b": "restringir o cuidado ao grupo já diagnosticado, deixando a prevenção sob responsabilidade individual de quem ainda não procurou o serviço de saúde",
+    "c": "tratar a infecção como questão moral, cujo enfrentamento depende da mudança de comportamento sexual dos grupos historicamente mais expostos ao vírus",
+    "d": "condicionar o acesso ao medicamento à comprovação de exposição prévia ao vírus, requisito que reduz o custo do programa público de distribuição",
+    "e": "converter o tratamento em ferramenta de prevenção, o que torna o acesso a medicamento parte da estratégia coletiva, e não apenas do cuidado individual"
+   },
+   "resposta": "e",
+   "explicacao": "Tratar é prevenir. A pessoa em tratamento eficaz deixa de transmitir, e quem usa profilaxia se protege antes da exposição — nos dois casos o medicamento passa a operar no nível da população. Isso reposiciona a adesão ao tratamento como bem coletivo, e não só como interesse do paciente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-179",
+   "texto_apoio": "Domicílios sem coleta de esgoto e sem água tratada apresentam maior ocorrência de diarreia infantil, verminoses e hepatite A. O acesso a esses serviços permanece desigual entre regiões e dentro das próprias cidades brasileiras.",
+   "enunciado": "A relação entre saneamento e adoecimento é descrita corretamente por:",
+   "alternativas": {
+    "a": "trata-se de investimento que atua antes do adoecimento, evitando a demanda assistencial que o serviço de saúde teria de absorver depois",
+    "b": "trata-se de investimento cujo efeito sanitário só aparece nas gerações seguintes, o que o torna incomparável a gastos com serviços assistenciais no curto prazo",
+    "c": "trata-se de área alheia à saúde pública, cuja avaliação cabe apenas aos órgãos responsáveis pela infraestrutura urbana e pela regulação dos serviços prestados",
+    "d": "trata-se de fator relevante somente na zona rural, onde a densidade populacional é menor e a solução individual de esgotamento é a alternativa predominante nos domicílios",
+    "e": "trata-se de condição cujo efeito se limita às doenças de transmissão hídrica, sem repercussão sobre nutrição, crescimento infantil e frequência às atividades de ensino"
+   },
+   "resposta": "a",
+   "explicacao": "É o exemplo clássico de determinantes sociais da saúde: a intervenção mais eficaz sobre a diarreia infantil não é um medicamento, é uma rede de esgoto. O ganho aparece em indicadores que não pertencem ao setor que pagou a obra — motivo pelo qual esse gasto costuma perder a disputa por prioridade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-180",
+   "texto_apoio": "No Brasil, a retirada de órgãos de doador falecido depende da autorização da família, mesmo quando a pessoa manifestou em vida o desejo de doar. A recusa familiar responde por parcela expressiva das doações não realizadas.",
+   "enunciado": "A medida que a literatura aponta como mais eficaz para reduzir essa recusa é:",
+   "alternativas": {
+    "a": "a criação de pagamento às famílias doadoras, prática adotada pelos programas de transplante dos países com as maiores taxas de doação já registradas",
+    "b": "a conversa prévia em família sobre a intenção de doar, pois a dúvida sobre a vontade do falecido está na origem da maior parte das negativas",
+    "c": "a dispensa da autorização familiar por decisão administrativa, arranjo que retiraria da equipe assistencial a responsabilidade pela abordagem em momento de luto",
+    "d": "a ampliação do número de leitos de terapia intensiva, fator que atua sobre a fila de espera sem relação com o índice de recusa registrado nas entrevistas familiares",
+    "e": "a divulgação das listas de espera com identificação dos receptores, informação que permitiria à família escolher o destino dos órgãos doados pelo parente falecido"
+   },
+   "resposta": "b",
+   "explicacao": "A família não recusa por ser contra a doação; recusa porque não sabe o que o parente queria e, na dúvida, escolhe não decidir por ele. Campanhas eficazes não pedem que a pessoa se cadastre — pedem que ela avise em casa. O SUS opera o maior programa público de transplantes do mundo, e o gargalo do acesso a tratamento está nessa conversa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-181",
+   "texto_apoio": "Além da expectativa de vida ao nascer, os sistemas de saúde acompanham a expectativa de vida saudável, que estima quantos anos são vividos sem limitação funcional relevante.",
+   "enunciado": "Acompanhar os dois indicadores em conjunto permite verificar se:",
+   "alternativas": {
+    "a": "o país reduziu a mortalidade infantil, informação que o segundo indicador mede com precisão superior à do primeiro em populações jovens",
+    "b": "a população está migrando entre regiões, movimento que altera a distribuição etária e explica a diferença observada entre os dois indicadores calculados",
+    "c": "o gasto per capita com saúde acompanha o crescimento econômico do país, comparação que o segundo indicador substitui de forma direta nas avaliações internacionais",
+    "d": "a cobertura dos planos privados aumentou, o que se reflete de imediato no primeiro indicador e apenas de forma tardia no segundo indicador calculado pelo país",
+    "e": "os anos ganhados de vida são vividos com autonomia ou acrescentam tempo de convivência com limitação e dependência de cuidado"
+   },
+   "resposta": "e",
+   "explicacao": "Viver mais e viver bem não são a mesma conquista. Se a expectativa de vida sobe e a saudável fica parada, o ganho foi de anos com doença — e a demanda por cuidado de longa duração cresce mais rápido que a população. É esse par que orienta a política de envelhecimento populacional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-182",
+   "texto_apoio": "Programas de rastreamento oferecem exames a pessoas sem sintomas. Critérios consagrados exigem que a doença tenha fase inicial detectável, que exista tratamento eficaz nessa fase e que o exame apresente desempenho aceitável.",
+   "enunciado": "Exigir tratamento eficaz na fase inicial como condição do rastreamento se justifica porque:",
+   "alternativas": {
+    "a": "o exame de rastreamento tem custo superior ao do tratamento, o que inverte a lógica econômica do programa quando aplicado a populações numerosas sem sintoma algum",
+    "b": "a existência de tratamento eficaz melhora o desempenho técnico do exame, elevando sua capacidade de identificar corretamente os casos em fase inicial da doença",
+    "c": "detectar cedo sem poder mudar o desfecho apenas antecipa o diagnóstico e prolonga o tempo de doente, sem acrescentar tempo de vida",
+    "d": "a exigência foi estabelecida por razões orçamentárias e não guarda relação com o benefício clínico esperado pelas pessoas submetidas ao exame de rastreamento",
+    "e": "o rastreamento se destina a confirmar diagnósticos já suspeitados na consulta, etapa em que a disponibilidade de tratamento eficaz é pressuposto do encaminhamento feito"
+   },
+   "resposta": "c",
+   "explicacao": "É o viés de antecipação: a pessoa passa a saber antes, vive o mesmo tempo e adoece por mais tempo. Rastrear sem tratamento eficaz transfere sofrimento sem devolver vida. Por isso o acesso a tratamento é condição do programa, e não consequência dele — e por isso nem toda doença grave merece rastreamento populacional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-183",
+   "texto_apoio": "O Aedes aegypti depende de temperatura e de umidade para completar o ciclo. Modelos publicados na década de 2020 projetam ampliação da área e do período do ano favoráveis à transmissão de arboviroses em regiões hoje de clima mais ameno.",
+   "enunciado": "A implicação dessa projeção para os serviços de saúde é:",
+   "alternativas": {
+    "a": "a transmissão passaria a ocorrer sem a presença do vetor, o que dispensaria as ações de eliminação de criadouros nas áreas recém-incorporadas ao mapa de risco",
+    "b": "regiões antes pouco atingidas precisam preparar vigilância, diagnóstico e assistência para uma sazonalidade mais longa, sem abandonar o controle do vetor",
+    "c": "o problema deixa de ser sanitário e passa a ser somente ambiental, cabendo às áreas de meio ambiente a totalidade das ações de resposta e de preparo",
+    "d": "a projeção dispensa a manutenção da vigilância nas áreas historicamente endêmicas, cuja população já teria adquirido proteção contra os sorotipos circulantes na região",
+    "e": "os modelos climáticos não têm valor para o planejamento sanitário, porque tratam de escala de tempo longa demais para orientar decisões de organização dos serviços"
+   },
+   "resposta": "b",
+   "explicacao": "É saúde única aplicada ao clima: mudanças ambientais redesenham o mapa de quem adoece de quê. O preparo é banal e caro ao mesmo tempo — treinar a atenção primária para suspeitar de dengue onde ela era rara, garantir insumo de diagnóstico e manter o combate ao criadouro na estação que se alongou.",
    "formato": "direta",
    "origem": "medicina"
   }

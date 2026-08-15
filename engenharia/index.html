@@ -20,9 +20,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>sagax — Plano de 90 dias para o vestibular</title>
-<link rel="icon" type="image/png" href="vestibular-direito-v2/assets/favicon.png">
-<link rel="apple-touch-icon" href="vestibular-direito-v2/assets/logo.png">
+<title>sagax — Engenharia</title>
+<link rel="icon" type="image/png" href="../vestibular-direito-v2/assets/favicon.png">
+<link rel="apple-touch-icon" href="../vestibular-direito-v2/assets/logo.png">
 <!-- As fontes do redesenho são servidas DAQUI, não do Google (ver o @font-face
      no topo de tokens.css). São 84 KB no total, contra dois domínios externos
      no caminho crítico — o aluno abre o app no 4G, e o preconnect + a busca do
@@ -33,8 +33,8 @@
      As outras quatro entram pelo caminho normal, porque nenhuma delas aparece
      na primeira dobra. O crossorigin não é opcional nem sendo mesma origem:
      sem ele o navegador baixa o arquivo duas vezes. -->
-<link rel="preload" href="vestibular-direito-v2/assets/fonts/manrope-var.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" href="vestibular-direito-v2/assets/fonts/poppins-600.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="../vestibular-direito-v2/assets/fonts/manrope-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="../vestibular-direito-v2/assets/fonts/poppins-600.woff2" as="font" type="font/woff2" crossorigin>
 <!-- O GitHub Pages serve os arquivos com Cache-Control: max-age=600, então quem
      já visitou continua vendo a versão antiga do CSS/JS por até 10 minutos após
      uma publicação. O ?v= abaixo muda a URL do arquivo e força o navegador a
@@ -68,26 +68,21 @@
      consome variáveis, e uma variável precisa existir antes de ser lida. É
      também onde vivem os @font-face — declarados aqui, o navegador começa a
      baixar a letra enquanto ainda parseia o resto. -->
-<link rel="stylesheet" href="vestibular-direito-v2/tokens.css?v=52">
-<link rel="stylesheet" href="vestibular-direito-v2/styles.css?v=52">
+<link rel="stylesheet" href="../vestibular-direito-v2/tokens.css?v=52">
+<link rel="stylesheet" href="../vestibular-direito-v2/styles.css?v=52">
 <!-- Estilo da dissertativa de exatas (resolução + resposta final + faixa),
      hoje só usada pela Matemática de Economia. Carregado aqui, e não por
      trilha, pela mesma razão de trilhas.js e assuntos.js: é código, não dado
      — inerte enquanto ninguém chama VD_EXATAS.render(). -->
-<link rel="stylesheet" href="vestibular-economia/dissertativa-exatas.css?v=52">
+<link rel="stylesheet" href="../vestibular-economia/dissertativa-exatas.css?v=52">
 
 <!-- Injetado por build-paginas.js. VD_TRILHA_URL é a trilha desta URL:
      é ela que manda, acima do localStorage, porque abrir um link é uma
      escolha tão explícita quanto clicar no cartão do curso. -->
-<link rel="canonical" href="https://sagaxedu.com.br/">
+<link rel="canonical" href="https://sagaxedu.com.br/engenharia/">
 <script>
-window.VD_APP_BASE = "vestibular-direito-v2/";
-window.VD_TRILHA_URL = null;
-
-try {
-  var salva = localStorage.getItem("v2_trilha");
-  if (salva && /^[a-z]+$/.test(salva)) location.replace(salva + "/");
-} catch (e) { /* localStorage bloqueado: segue para a landing, que é o certo */ }
+window.VD_APP_BASE = "../vestibular-direito-v2/";
+window.VD_TRILHA_URL = "engenharia";
 </script>
 </head>
 <body>
@@ -190,13 +185,13 @@ try {
            aparecerem para quem usa leitor de tela. -->
       <span class="lp-halo lp-halo-azul" aria-hidden="true"></span>
       <span class="lp-halo lp-halo-ouro" aria-hidden="true"></span>
-      <img class="lp-marca-dagua" src="vestibular-direito-v2/assets/sagax-symbol-cut.png" alt="" aria-hidden="true">
+      <img class="lp-marca-dagua" src="../vestibular-direito-v2/assets/sagax-symbol-cut.png" alt="" aria-hidden="true">
 
       <div class="lp-hero-dentro">
         <nav class="lp-nav">
           <span class="lp-marca">
-            <img class="sidebar-symbol" src="vestibular-direito-v2/assets/sagax-symbol-cut.png" alt="">
-            <img class="sidebar-wordmark" src="vestibular-direito-v2/assets/sagax-wordmark-cut.png" alt="sagax">
+            <img class="sidebar-symbol" src="../vestibular-direito-v2/assets/sagax-symbol-cut.png" alt="">
+            <img class="sidebar-wordmark" src="../vestibular-direito-v2/assets/sagax-wordmark-cut.png" alt="sagax">
           </span>
           <div class="lp-nav-links">
             <a href="#como-funciona">Como funciona</a>
@@ -548,7 +543,7 @@ try {
       <div class="lp-secao-dentro">
         <div class="lp-rodape-topo">
           <div class="lp-rodape-marca">
-            <img class="sidebar-wordmark" src="vestibular-direito-v2/assets/sagax-wordmark-cut.png" alt="sagax">
+            <img class="sidebar-wordmark" src="../vestibular-direito-v2/assets/sagax-wordmark-cut.png" alt="sagax">
             <span>Plano de estudo diário para os vestibulares de São Paulo, com questões
             comentadas e revisão no dia certo.</span>
             <!-- A ressalva de autoria fecha a página, e agora aparece nas duas
@@ -570,8 +565,8 @@ try {
             <div class="lp-rodape-coluna">
               <span class="eyebrow">Suporte</span>
               <a href="#faq">Perguntas frequentes</a>
-              <a href="vestibular-direito-v2/termos.html">Termos de Uso</a>
-              <a href="vestibular-direito-v2/privacidade.html">Política de Privacidade</a>
+              <a href="../vestibular-direito-v2/termos.html">Termos de Uso</a>
+              <a href="../vestibular-direito-v2/privacidade.html">Política de Privacidade</a>
             </div>
             <div class="lp-rodape-coluna">
               <span class="eyebrow">Conta</span>
@@ -584,8 +579,8 @@ try {
         <div class="lp-rodape-fim">
           <span>© 2026 sagax</span>
           <span class="lp-rodape-legais">
-            <a href="vestibular-direito-v2/privacidade.html">Privacidade</a>
-            <a href="vestibular-direito-v2/termos.html">Termos</a>
+            <a href="../vestibular-direito-v2/privacidade.html">Privacidade</a>
+            <a href="../vestibular-direito-v2/termos.html">Termos</a>
           </span>
         </div>
       </div>
@@ -603,8 +598,8 @@ try {
     <div class="login-split">
       <div class="login-pitch">
         <span class="login-pitch-brand">
-          <img class="sidebar-symbol" src="vestibular-direito-v2/assets/sagax-symbol-cut.png" alt="">
-          <img class="sidebar-wordmark" src="vestibular-direito-v2/assets/sagax-wordmark-cut.png" alt="sagax">
+          <img class="sidebar-symbol" src="../vestibular-direito-v2/assets/sagax-symbol-cut.png" alt="">
+          <img class="sidebar-wordmark" src="../vestibular-direito-v2/assets/sagax-wordmark-cut.png" alt="sagax">
         </span>
         <div class="login-pitch-corpo">
           <div class="login-pitch-frase">Seu progresso fica salvo na sua conta, não só neste navegador.</div>
@@ -639,8 +634,8 @@ try {
              momento em que a pessoa contrata, e é aqui que os documentos têm
              que estar a um clique. -->
         <p class="login-note">Ao entrar, você concorda com os
-        <a href="vestibular-direito-v2/termos.html">Termos de Uso</a> e com a
-        <a href="vestibular-direito-v2/privacidade.html">Política de Privacidade</a>.</p>
+        <a href="../vestibular-direito-v2/termos.html">Termos de Uso</a> e com a
+        <a href="../vestibular-direito-v2/privacidade.html">Política de Privacidade</a>.</p>
         <button type="button" id="btn-voltar-landing" class="login-voltar" hidden>← Voltar</button>
       </div>
     </div>
@@ -651,7 +646,7 @@ try {
   <section id="view-sync-error" class="view" hidden>
     <div class="card onboarding-card">
       <div class="onboarding-logo-wrap">
-        <img class="onboarding-logo" src="vestibular-direito-v2/assets/logo.png" alt="">
+        <img class="onboarding-logo" src="../vestibular-direito-v2/assets/logo.png" alt="">
       </div>
       <h1>Não consegui carregar seu progresso</h1>
       <p class="subtitle">Você entrou na conta, mas não deu pra buscar o seu plano na nuvem —
@@ -676,7 +671,7 @@ try {
   <section id="view-assinatura" class="view" hidden>
     <div class="card onboarding-card">
       <div class="onboarding-logo-wrap">
-        <img class="onboarding-logo" src="vestibular-direito-v2/assets/logo.png" alt="">
+        <img class="onboarding-logo" src="../vestibular-direito-v2/assets/logo.png" alt="">
       </div>
       <div class="eyebrow" id="portao-eyebrow">Acesso</div>
       <h1 id="portao-titulo"></h1>
@@ -728,8 +723,8 @@ try {
              no painel navy do login. Sem o slogan: ele já assina o pé da barra
              lateral, e aqui a linha seguinte é o rótulo da trilha. -->
         <span class="onb-marca">
-          <img class="onb-simbolo sidebar-symbol" src="vestibular-direito-v2/assets/sagax-symbol-cut.png" alt="">
-          <img class="sidebar-wordmark" src="vestibular-direito-v2/assets/sagax-wordmark-cut.png" alt="sagax">
+          <img class="onb-simbolo sidebar-symbol" src="../vestibular-direito-v2/assets/sagax-symbol-cut.png" alt="">
+          <img class="sidebar-wordmark" src="../vestibular-direito-v2/assets/sagax-wordmark-cut.png" alt="sagax">
         </span>
         <div class="eyebrow onb-eyebrow" id="onb-eyebrow">Primeiro acesso</div>
         <h1 id="onb-titulo">Seus 90 dias começam hoje.</h1>
@@ -773,8 +768,8 @@ try {
 
     <aside class="sidebar">
       <div class="sidebar-brand">
-        <img class="sidebar-symbol" src="vestibular-direito-v2/assets/sagax-symbol-cut.png" alt="">
-        <img class="sidebar-wordmark" src="vestibular-direito-v2/assets/sagax-wordmark-cut.png" alt="sagax">
+        <img class="sidebar-symbol" src="../vestibular-direito-v2/assets/sagax-symbol-cut.png" alt="">
+        <img class="sidebar-wordmark" src="../vestibular-direito-v2/assets/sagax-wordmark-cut.png" alt="sagax">
       </div>
 
       <nav class="nav-groups">
@@ -824,7 +819,7 @@ try {
            ela que empurra os dois para baixo. Sem isso, num plano com poucas
            abas (Medicina esconde Obras) a barra ficava com um vão morto. -->
       <div class="sidebar-marca">
-        <img class="sidebar-marca-simbolo" src="vestibular-direito-v2/assets/sagax-symbol-cut.png" alt="">
+        <img class="sidebar-marca-simbolo" src="../vestibular-direito-v2/assets/sagax-symbol-cut.png" alt="">
         <span class="sidebar-slogan">Estude. <span class="tagline-gold">Evolua.</span> Conquiste.</span>
       </div>
 
@@ -1090,19 +1085,19 @@ try {
      escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
      Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
      dois apps. -->
-<script src="vestibular-direito-v2/trilhas.js?v=52"></script>
-<script src="vestibular-direito-v2/schedule.js?v=52"></script>
+<script src="../vestibular-direito-v2/trilhas.js?v=52"></script>
+<script src="../vestibular-direito-v2/schedule.js?v=52"></script>
 <!-- Dicionário de assuntos da busca. Vive aqui, e não em data/ de uma trilha,
      porque a taxonomia atravessa as duas: "crase" e "função quadrática" são o
      mesmo assunto em Direito e em Medicina. Pôr em data/ obrigaria a duplicar
      as listas de gramática, literatura, interpretação, inglês e matemática. -->
-<script src="vestibular-direito-v2/assuntos.js?v=52"></script>
+<script src="../vestibular-direito-v2/assuntos.js?v=52"></script>
 <!-- window.VD_EXATAS — renderizador da dissertativa de exatas (ver o <link>
      do CSS acima). Precisa carregar ANTES de app.js: renderDissertQuestion
      chama VD_EXATAS.render() para toda questão com `faixas`, e um script
      criado depois na ordem de execução ainda não teria definido o global. -->
-<script src="vestibular-economia/dissertativa-exatas.js?v=52"></script>
-<script src="vestibular-direito-v2/app.js?v=52"></script>
-<script type="module" src="vestibular-direito-v2/auth.js?v=52"></script>
+<script src="../vestibular-economia/dissertativa-exatas.js?v=52"></script>
+<script src="../vestibular-direito-v2/app.js?v=52"></script>
+<script type="module" src="../vestibular-direito-v2/auth.js?v=52"></script>
 </body>
 </html>

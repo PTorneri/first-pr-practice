@@ -1,4 +1,16 @@
 (function () {
+  // Onde moram os arquivos do app (app.js, styles.css, assets/), visto DESTA
+  // página. Quem preenche é o build-paginas.js, na porta de entrada que ele
+  // gera: "vestibular-direito-v2/" na landing da raiz, "../vestibular-direito-v2/"
+  // em /medicina/ e nas outras trilhas.
+  //
+  // Só faz falta para caminho montado em tempo de execução — os do HTML já
+  // saem reescritos do gerador. Hoje são dois, ambos das capas das obras: o
+  // fetch do PROCEDENCIA.json e o <img> do cartão. Sem isto eles quebrariam
+  // em silêncio, porque "assets/..." resolve contra o DOCUMENTO: de /medicina/
+  // o navegador pediria /medicina/assets/, que não existe.
+  const APP_BASE = window.VD_APP_BASE || "";
+
   // O v1 e o v2 moram no MESMO domínio (ptorneri.github.io), e o localStorage
   // é compartilhado por domínio — não por pasta. Sem um prefixo próprio, o v2
   // escreveria por cima do progresso que o v1 mostra, e o v1 deixaria de ser
@@ -606,17 +618,19 @@
         btn.disabled = true;
         btn.textContent = "Trocando…";
         window.VD_TRILHA.definir(t.id);
-        // Sobe antes de recarregar: se a pessoa fechar o app agora, a escolha
-        // já está na conta.
+        // Sobe antes de sair da página: se a pessoa fechar o app agora, a
+        // escolha já está na conta.
         try {
           if (window.VD_SYNC) await window.VD_SYNC.pushNow();
         } catch (e) {
           /* o boot seguinte tenta de novo pelo caminho normal */
         }
-        // O reload é obrigatório, não cosmético: o prefixo do localStorage e os
-        // dados da trilha são resolvidos no carregamento da página. Seguir sem
-        // recarregar gravaria o progresso da trilha nova no espaço da antiga.
-        location.reload();
+        // Navegar para /medicina/ em vez de recarregar. Carregar a página de
+        // novo continua sendo obrigatório e não cosmético — o prefixo do
+        // localStorage e os dados da trilha são resolvidos no carregamento, e
+        // seguir sem isso gravaria o progresso da trilha nova no espaço da
+        // antiga. A diferença é que agora a barra de endereço acompanha.
+        window.VD_TRILHA.ir(t.id);
       });
       card.appendChild(btn);
     });
@@ -2937,7 +2951,7 @@
   // por eles. Falhar em ler não pode derrubar a aba — sem o arquivo, o bloco
   // simplesmente não aparece.
   function renderCreditosObras(container) {
-    fetch("assets/obras/PROCEDENCIA.json")
+    fetch(APP_BASE + "assets/obras/PROCEDENCIA.json")
       .then((r) => (r.ok ? r.json() : null))
       .then((manifesto) => {
         const itens = manifesto && manifesto.itens ? Object.values(manifesto.itens) : [];
@@ -3015,7 +3029,7 @@
         <span class="obra-capa-titulo">${escapeHtml(o.titulo)}</span>
         <span class="obra-capa-autor">${escapeHtml(o.autor)}</span>
         <img class="obra-cover-img" alt="" loading="lazy" decoding="async"
-             src="assets/obras/${encodeURIComponent(o.id)}.jpg"
+             src="${APP_BASE}assets/obras/${encodeURIComponent(o.id)}.jpg"
              onerror="this.remove()">
       </div>
     `;

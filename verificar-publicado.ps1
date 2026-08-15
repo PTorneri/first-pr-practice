@@ -49,7 +49,12 @@ $SENTINELAS = @(
   "vestibular-direito/data/obras.js",
   "vestibular-direito/data/obras-questoes.js",
   "vestibular-direito/data/bundle.js",
-  "vestibular-direito-v2/index.html",
+  # As portas de entrada do app. São geradas por build-paginas.js a partir de
+  # template.html, e é por isso que entram aqui: publicar o template sem rodar o
+  # gerador deixa o site servindo o HTML antigo com o repositório já correto —
+  # o tipo de defasagem invisível que este script existe para pegar.
+  "index.html",
+  "medicina/index.html",
   "vestibular-direito-v2/trilhas.js",
   "vestibular-direito-v2/app.js",
   "vestibular-medicina/data/obras.js",
@@ -57,10 +62,14 @@ $SENTINELAS = @(
   "vestibular-medicina/data/bundle.js"
 )
 
-# As três pastas que o site serve. O resto do repositório (scripts, provas em
-# PDF, estudos) vai junto para o Pages, mas não é conteúdo de aluno e não
-# interessa conferir.
-$PASTAS_SERVIDAS = @("vestibular-direito", "vestibular-direito-v2", "vestibular-medicina")
+# As pastas que o site serve. O resto do repositório (scripts, provas em PDF,
+# estudos) vai junto para o Pages, mas não é conteúdo de aluno e não interessa
+# conferir. As quatro pastas de trilha têm um arquivo cada — o index.html
+# gerado —, e é o endereço por onde todo aluno entra.
+$PASTAS_SERVIDAS = @(
+  "vestibular-direito", "vestibular-direito-v2", "vestibular-medicina",
+  "direito", "medicina", "economia", "engenharia"
+)
 
 function Normalizar([string]$t) {
   if ($null -eq $t) { return "" }

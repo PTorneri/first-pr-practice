@@ -19,11 +19,11 @@
 //        URIs. Esse é sobre PARA ONDE o Google devolve, e é o authDomain de
 //        firebase-init.js. Sem ele, o Google recusa com redirect_uri_mismatch.
 
-import { auth } from "./firebase-init.js?v=51";
-import "./sync.js?v=51"; // define window.VD_SYNC
-import "./feedback.js?v=51"; // define window.VD_FEEDBACK
-import "./ia.js?v=51"; // define window.VD_IA (correção das dissertativas e redações)
-import "./assinatura.js?v=51"; // define window.VD_ASSINATURA (o portão)
+import { auth } from "./firebase-init.js?v=52";
+import "./sync.js?v=52"; // define window.VD_SYNC
+import "./feedback.js?v=52"; // define window.VD_FEEDBACK
+import "./ia.js?v=52"; // define window.VD_IA (correção das dissertativas e redações)
+import "./assinatura.js?v=52"; // define window.VD_ASSINATURA (o portão)
 import {
   GoogleAuthProvider,
   signInWithPopup,
@@ -201,10 +201,32 @@ async function showLoggedIn(user) {
   // celular tem essa escolha guardada na conta, não neste aparelho — perguntar
   // antes de baixar faria a pessoa escolher de novo, e escolher diferente
   // abriria um plano vazio por cima de um plano que existe.
+  // A trilha da URL é REAFIRMADA aqui, e isso não é redundância com o
+  // trilhas.js. Lá a gravação acontece antes de o VD_SYNC existir, então ela
+  // entra no localStorage sem carimbo de horário — e na mesclagem, onde "vence
+  // o mais recente", um carimbo vazio perde para a trilha guardada na conta.
+  // Sem esta linha, abrir /economia/ num login que estudava Direito voltaria
+  // para Direito assim que o sync terminasse.
+  const daUrl = window.VD_TRILHA.daUrl();
+  if (daUrl) window.VD_TRILHA.definir(daUrl);
+
   const trilha = window.VD_TRILHA.atual();
 
   if (!trilha) {
     mostrarEscolhaDeTrilha();
+    return;
+  }
+
+  // Entrou por um endereço sem trilha (a landing da raiz) e já tem curso na
+  // conta: vai para a pasta dele. Não é só cosmética de URL — o app.js calcula
+  // o prefixo do localStorage no carregamento da página, e num aparelho novo,
+  // em que a trilha só apareceu agora com o sync, esse cálculo foi feito com o
+  // padrão "dir_". Carregar a página do endereço certo é o que alinha os dois.
+  //
+  // replace() e não assign(): a landing não deve virar uma parada no botão
+  // Voltar de quem já tem plano.
+  if (trilha !== daUrl) {
+    location.replace(window.VD_TRILHA.urlDa(trilha));
     return;
   }
 
@@ -378,20 +400,20 @@ async function escolherTrilha(id, container) {
     return;
   }
 
-  // Sobe a escolha antes de recarregar. Se a pessoa fechar o app agora, a
+  // Sobe a escolha antes de sair da página. Se a pessoa fechar o app agora, a
   // trilha já está na conta e ela não será perguntada de novo.
   try {
     await window.VD_SYNC.pushNow();
   } catch (e) {
-    /* o reload abaixo tenta de novo pelo caminho normal */
+    /* o boot em /<trilha>/ tenta de novo pelo caminho normal */
   }
 
-  // Recarrega em vez de seguir na mesma página: o app.js já calculou o prefixo
-  // do localStorage quando carregou, com o padrão "dir_". Continuar daqui
-  // gravaria o progresso de Medicina dentro do espaço de Direito. O reload é a
-  // forma barata e segura de refazer esse cálculo — e é o mesmo caminho usado
-  // na troca de trilha.
-  location.reload();
+  // Vai para /medicina/ em vez de seguir na mesma página: o app.js já calculou
+  // o prefixo do localStorage quando carregou, com o padrão "dir_". Continuar
+  // daqui gravaria o progresso de Medicina dentro do espaço de Direito.
+  // Carregar outra página refaz esse cálculo, e de quebra põe o curso na barra
+  // de endereço — é o mesmo caminho usado na troca de trilha.
+  window.VD_TRILHA.ir(id);
 }
 
 // ---------- A tela do portão ----------

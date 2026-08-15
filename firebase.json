@@ -69,7 +69,7 @@
     "redirects": [
       {
         "source": "/",
-        "destination": "https://sagaxedu.com.br/vestibular-direito-v2/",
+        "destination": "https://sagaxedu.com.br/",
         "type": 302
       }
     ]

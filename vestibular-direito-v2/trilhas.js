@@ -740,6 +740,47 @@
     return !!(id && Object.prototype.hasOwnProperty.call(window.VD_TRILHAS, id));
   }
 
+  // ---------- A trilha que a URL diz ----------
+  //
+  // Desde 2026-08 cada trilha tem endereço próprio: /medicina/, /economia/…
+  // Quem escreve window.VD_TRILHA_URL é a própria página, gerada por
+  // build-paginas.js a partir de template.html — o app não adivinha a trilha
+  // lendo location.pathname, porque aí passaria a depender de onde o site está
+  // montado (raiz do domínio, servidor local, um eventual subcaminho).
+  //
+  // A landing da raiz não tem trilha: lá isto é null e vale o localStorage,
+  // exatamente como antes de as pastas existirem.
+  function daUrl() {
+    return ehValida(window.VD_TRILHA_URL) ? window.VD_TRILHA_URL : null;
+  }
+
+  // A URL manda, e a gravação acontece AQUI, no carregamento — não dentro de
+  // atual().
+  //
+  // O motivo é o app.js: ele calcula o prefixo do localStorage ("v2_med_") na
+  // linha 16, quando é lido, e nunca mais. Se a URL só fosse consultada depois,
+  // abrir /medicina/ num aparelho que estudava Direito montaria o app inteiro
+  // sobre o espaço de Direito, e o progresso de uma trilha cairia dentro da
+  // outra — a mesma classe de erro que o reload na troca de trilha evita.
+  //
+  // Isto NÃO carimba o horário no sync: VD_SYNC ainda não existe neste ponto do
+  // carregamento. Quem reafirma a escolha depois do sync, para que ela vença a
+  // mesclagem com a nuvem, é o auth.js.
+  (function () {
+    const id = daUrl();
+    if (id && localStorage.getItem(LS_TRILHA) !== id) localStorage.setItem(LS_TRILHA, id);
+  })();
+
+  // O endereço de uma trilha, derivado de onde ESTA página está — e não fixo em
+  // "/" + id. O app roda em mais de uma raiz (o domínio próprio e o servidor
+  // local do serve-root.ps1), e um caminho absoluto acertaria só a primeira.
+  function urlDa(id) {
+    const pasta = location.pathname.replace(/[^/]*$/, "");   // .../medicina/ ou .../
+    const atual = daUrl();
+    const raiz = atual ? pasta.replace(new RegExp(atual + "/$"), "") : pasta;
+    return raiz + id + "/";
+  }
+
   // Carrega os <script> de dados da trilha.
   //
   // Detalhe que importa: script criado por JS é "async" por padrão, e async
@@ -896,6 +937,24 @@
     },
 
     ehValida: ehValida,
+
+    // A trilha desta URL (null na landing da raiz) e o endereço de uma trilha.
+    daUrl: daUrl,
+    urlDa: urlDa,
+
+    // Trocar de trilha é NAVEGAR, não recarregar.
+    //
+    // Até as pastas existirem isto era location.reload(), e o reload nunca foi
+    // cosmético: o prefixo do localStorage e os dados da trilha são resolvidos
+    // no carregamento da página, então seguir sem recarregar gravaria o
+    // progresso da trilha nova no espaço da antiga. Ir para outro endereço
+    // carrega a página do mesmo jeito e ainda deixa a URL certa na barra.
+    ir: function (id) {
+      if (!ehValida(id)) return false;
+      location.assign(urlDa(id));
+      return true;
+    },
+
     carregar: carregar,
     carregarSecundaria: carregarSecundaria,
     carregarExtra: carregarExtra,

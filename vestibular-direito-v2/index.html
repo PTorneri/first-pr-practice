@@ -1,0 +1,46 @@
+<!-- ARQUIVO GERADO — não edite.
+     Fonte:   vestibular-direito-v2/template.html
+     Gerador: node vestibular-direito-v2/build-paginas.js
+     Editar aqui funciona até a próxima geração, e some sem aviso. -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>sagax</title>
+<link rel="icon" type="image/png" href="assets/favicon.png">
+<meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url=../">
+<link rel="canonical" href="https://sagaxedu.com.br/">
+<style>
+  body {
+    margin: 0; min-height: 100vh;
+    display: flex; align-items: center; justify-content: center;
+    background: #0A2540; color: #fff;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    text-align: center; padding: 24px;
+  }
+  .marca { font-size: 2rem; font-weight: 600; letter-spacing: -0.01em; margin: 0 0 4px; }
+  .marca span { color: #F4C142; }
+  p { color: #9fb2c9; font-size: 0.95rem; margin: 0 0 20px; }
+  a { color: #7AA0F5; font-weight: 600; }
+</style>
+</head>
+<body>
+  <div>
+    <p class="marca">saga<span>x</span></p>
+    <p>O plano mudou de endereço&hellip;</p>
+    <p><a href="../">Ir para o app</a></p>
+  </div>
+  <script>
+  // Leva direto para a pasta da trilha de quem já estuda; sem trilha guardada,
+  // a raiz decide. O <meta refresh> acima cobre o caso sem JavaScript.
+  try {
+    var salva = localStorage.getItem("v2_trilha");
+    location.replace(salva && /^[a-z]+$/.test(salva) ? "../" + salva + "/" : "../");
+  } catch (e) {
+    location.replace("../");
+  }
+  </script>
+</body>
+</html>

@@ -63536,6 +63536,652 @@ window.QUESTION_BANKS = {
    "explicacao": "Generalização cartográfica é o processo pelo qual o cartógrafo seleciona, simplifica ou até remove elementos ao reduzir a escala de um mapa, mantendo apenas o que ainda é legível e relevante no novo nível de detalhe. As demais alternativas nomeiam outros processos e conceitos cartográficos reais, mas distintos dessa simplificação por redução de escala.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-501",
+   "texto_apoio": "Numa carta topográfica na escala 1:25.000, cujas bordas trazem os valores de latitude e longitude, um estudante mede com a régua a distância em linha reta entre a torre de uma igreja e o portão de uma escola: 6 cm.",
+   "enunciado": "A distância real, em linha reta, entre esses dois pontos é de:",
+   "alternativas": {
+    "a": "0,15 km",
+    "b": "1,5 km",
+    "c": "15 km",
+    "d": "150 km",
+    "e": "4166,7 m"
+   },
+   "resposta": "b",
+   "explicacao": "Na escala numérica 1:25.000 cada centímetro do mapa vale 25.000 cm no terreno. Assim, 6 × 25.000 = 150.000 cm, que equivalem a 1.500 m, ou seja, 1,5 km. Quem divide 25.000 por 6 inverte a razão da escala e chega a um valor sem sentido; quem erra a conversão de centímetro para quilômetro sobe ou desce uma casa decimal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-502",
+   "texto_apoio": "Dois municípios estão separados por 30 km em linha reta. Um mapa da região, na escala 1:200.000, traz impressa a rede de meridianos e paralelos.",
+   "enunciado": "Nesse mapa, a distância entre os pontos que representam os dois municípios é de:",
+   "alternativas": {
+    "a": "1,5 cm",
+    "b": "15 cm",
+    "c": "150 cm",
+    "d": "0,15 cm",
+    "e": "6666,7 cm"
+   },
+   "resposta": "b",
+   "explicacao": "Converter primeiro: 30 km são 3.000.000 cm. Dividindo pelo denominador da escala numérica, 3.000.000 ÷ 200.000 = 15 cm no papel. O caminho é o mesmo, percorrido no sentido oposto — multiplica-se para ir do mapa ao terreno e divide-se para ir do terreno ao mapa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-503",
+   "texto_apoio": "Na margem inferior de um mapa, ao lado da rosa dos ventos e da indicação das coordenadas geográficas, aparece uma escala gráfica: uma barra dividida em segmentos, e cada segmento de 1 cm está rotulado como 500 m no terreno.",
+   "enunciado": "A escala numérica equivalente a essa escala gráfica é:",
+   "alternativas": {
+    "a": "1:500",
+    "b": "1:5.000",
+    "c": "1:500.000",
+    "d": "1:50.000",
+    "e": "1:50.000.000"
+   },
+   "resposta": "d",
+   "explicacao": "Basta pôr as duas medidas na mesma unidade: 500 m são 50.000 cm, e 1 cm do papel corresponde a esses 50.000 cm. A razão é, portanto, 1:50.000. Deixar a distância em metros no denominador leva a 1:500, que é o erro mais comum nessa conversão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-504",
+   "texto_apoio": "Um serviço de mapeamento oferece dois desenhos da mesma porção do terreno: um mapa na escala 1:10.000, com curva de nível traçada de 5 em 5 metros, e outro mapa na escala 1:1.000.000, sem informação de altimetria.",
+   "enunciado": "Comparando as duas representações, é correto afirmar que:",
+   "alternativas": {
+    "a": "a de 1:10.000 é a de escala maior, mostra mais detalhe e abrange uma porção menor da superfície",
+    "b": "a de 1:1.000.000 é a de escala maior, porque o denominador que a define é o número mais alto entre os dois apresentados, e por isso ela reúne mais informação em cada centímetro de papel",
+    "c": "as duas têm o mesmo grau de detalhe, mudando apenas o tamanho da folha impressa",
+    "d": "a de 1:10.000 abrange uma porção maior da superfície e reduz o detalhe representado",
+    "e": "a diferença entre elas está na projeção adotada, não no grau de detalhe possível"
+   },
+   "resposta": "a",
+   "explicacao": "Escala é uma fração: 1/10.000 é maior que 1/1.000.000. A escala maior tem denominador menor, aproxima a representação do tamanho real, mostra mais detalhe — como a curva de nível de 5 em 5 metros — e, na mesma folha, cobre uma porção menor da superfície. A confusão entre denominador alto e escala grande é o erro clássico aqui.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-505",
+   "texto_apoio": "Um mapa impresso na escala 1:100.000, com a quadrícula de latitude e longitude visível, é ampliado numa copiadora de modo que suas dimensões lineares dobrem.",
+   "enunciado": "A escala numérica do mapa ampliado passa a ser:",
+   "alternativas": {
+    "a": "1:100.000",
+    "b": "1:200.000",
+    "c": "1:50.000",
+    "d": "1:400.000",
+    "e": "1:1.000.000"
+   },
+   "resposta": "c",
+   "explicacao": "Dobrar as dimensões lineares faz cada distância do papel valer o dobro para a mesma distância no terreno; logo o denominador cai pela metade, de 100.000 para 50.000. Reduzir o mapa produziria o movimento oposto, com o denominador crescendo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-506",
+   "texto_apoio": "Num mapa na escala 1:50.000, em que a curva de nível é traçada a cada 20 m, um terreno retangular aparece com 2 cm de largura por 3 cm de comprimento.",
+   "enunciado": "A área real desse terreno é de:",
+   "alternativas": {
+    "a": "0,6 km²",
+    "b": "1,5 km²",
+    "c": "3 km²",
+    "d": "15 km²",
+    "e": "150.000 m²"
+   },
+   "resposta": "b",
+   "explicacao": "Cada dimensão é convertida separadamente: 2 cm × 50.000 = 100.000 cm, ou 1 km; 3 cm × 50.000 = 150.000 cm, ou 1,5 km. A área é 1 × 1,5 = 1,5 km². Multiplicar as medidas do papel antes de converter, ou aplicar a escala uma vez só à área, produz os demais valores.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-507",
+   "texto_apoio": "Uma equipe precisa representar, numa única folha, a planta do campus de uma faculdade com seus prédios, calçadas e estacionamentos, e pretende marcar sobre ela pontos levantados com GPS.",
+   "enunciado": "A escala numérica mais adequada a essa representação é:",
+   "alternativas": {
+    "a": "1:100.000",
+    "b": "1:500.000",
+    "c": "1:5.000.000",
+    "d": "1:25.000.000",
+    "e": "1:2.000"
+   },
+   "resposta": "e",
+   "explicacao": "Detalhe de prédio e calçada exige escala grande, com denominador baixo. Em 1:2.000 cada centímetro do papel vale 20 m, o que permite desenhar uma calçada; em 1:100.000 esse mesmo centímetro já vale 1 km, e o campus inteiro viraria um ponto. As escalas maiores da lista servem a mapas continentais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-508",
+   "texto_apoio": "Um mapa é reduzido numa fotocopiadora para 70% do tamanho original. Nele constam, lado a lado, a escala numérica escrita como 1:50.000, uma escala gráfica desenhada em barra e a moldura com as coordenadas geográficas.",
+   "enunciado": "Depois dessa redução:",
+   "alternativas": {
+    "a": "a escala gráfica continua válida, porque encolheu junto com o desenho, enquanto a escala numérica passou a indicar uma razão que não corresponde mais ao papel",
+    "b": "a escala numérica continua válida e a escala gráfica passa a induzir ao erro, já que barras impressas mantêm o comprimento original mesmo quando a folha inteira é reduzida por processos de cópia",
+    "c": "as duas continuam válidas, pois a redução altera apenas a nitidez da impressão",
+    "d": "as duas ficam incorretas, e o mapa perde utilidade para medir distâncias",
+    "e": "a redução afeta a orientação indicada pela rosa dos ventos, mas não as escalas"
+   },
+   "resposta": "a",
+   "explicacao": "A escala gráfica é desenhada, e por isso é reduzida ou ampliada na mesma proporção que o restante do mapa: a barra continua dizendo a verdade. Já a escala numérica é um texto, que a copiadora não recalcula — depois da redução para 70%, a razão 1:50.000 passou a ser, na prática, cerca de 1:71.400.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-509",
+   "texto_apoio": "Num mapa que traz a rede de meridianos e paralelos, dois pontos separados por 4 km no terreno aparecem a 8 cm um do outro.",
+   "enunciado": "A escala numérica desse mapa é:",
+   "alternativas": {
+    "a": "1:5.000",
+    "b": "1:32.000",
+    "c": "1:50.000",
+    "d": "1:500.000",
+    "e": "1:2.000.000"
+   },
+   "resposta": "c",
+   "explicacao": "A escala é a razão entre a medida no papel e a medida no terreno, na mesma unidade: 4 km são 400.000 cm, e 400.000 ÷ 8 = 50.000. Daí 1:50.000. Multiplicar 8 por 4.000, em vez de dividir, produz o 1:32.000 oferecido como distrator.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-510",
+   "texto_apoio": "Num mapa do país na escala 1:750.000, dois pontos assinalados sobre o mesmo paralelo aparecem separados por 12 cm.",
+   "enunciado": "A distância real entre esses dois pontos é de:",
+   "alternativas": {
+    "a": "9 km",
+    "b": "900 km",
+    "c": "9.000 km",
+    "d": "90 km",
+    "e": "62500,0 m"
+   },
+   "resposta": "d",
+   "explicacao": "Multiplicando, 12 × 750.000 = 9.000.000 cm. Convertendo, são 90.000 m, ou 90 km. Cada casa decimal perdida na passagem de centímetro para quilômetro gera uma das ordens de grandeza oferecidas, e a divisão invertida gera a última.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-511",
+   "texto_apoio": "Duas cartas cobrem exatamente a mesma porção da superfície: a primeira na escala 1:50.000, com curva de nível traçada de 20 em 20 metros, e a segunda na escala 1:250.000, com curva de nível de 100 em 100 metros.",
+   "enunciado": "Em relação à segunda carta, a primeira:",
+   "alternativas": {
+    "a": "reduz o detalhe representado e cabe numa folha menor, porque o denominador da escala numérica cresce à medida que a representação se aproxima do tamanho real da porção mapeada",
+    "b": "tem o mesmo grau de generalização, mudando apenas as cores da impressão",
+    "c": "cobre uma porção maior da superfície mantendo o mesmo grau de detalhe",
+    "d": "difere apenas na projeção adotada, e não no detalhe de altimetria registrado",
+    "e": "ocupa uma folha cinco vezes maior em cada dimensão linear e registra detalhes que a outra precisa generalizar"
+   },
+   "resposta": "e",
+   "explicacao": "250.000 ÷ 50.000 = 5: cada distância do terreno ocupa cinco vezes mais papel na primeira carta, que por isso precisa de uma folha muito maior e comporta curva de nível cinco vezes mais próxima. Escala maior significa mais detalhe e menos generalização.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-512",
+   "texto_apoio": "Para medir o comprimento de uma estrada sinuosa desenhada num mapa na escala 1:100.000, cuja moldura traz os valores de latitude e longitude, um estudante ajusta um barbante sobre o traçado da via, estica o barbante ao lado da régua e lê 22 cm.",
+   "enunciado": "O comprimento real dessa estrada é de aproximadamente:",
+   "alternativas": {
+    "a": "22 km",
+    "b": "2,2 km",
+    "c": "220 m",
+    "d": "220 km",
+    "e": "4545,5 m"
+   },
+   "resposta": "a",
+   "explicacao": "O barbante existe justamente porque a régua mede em linha reta e a via não é reta. Feita a leitura, a conta é a de sempre: 22 × 100.000 = 2.200.000 cm, ou 22 km. Medir em linha reta daria um valor menor que o percurso, e é por isso que a técnica do barbante aparece nas cartas rodoviárias.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-513",
+   "texto_apoio": "Numa planta cadastral na escala 1:5.000, georreferenciada por coordenadas geográficas, aparece um lote cuja frente mede 40 m no terreno.",
+   "enunciado": "No papel, essa frente é representada por um segmento de:",
+   "alternativas": {
+    "a": "0,08 cm",
+    "b": "8 cm",
+    "c": "0,8 cm",
+    "d": "80 cm",
+    "e": "125 cm"
+   },
+   "resposta": "c",
+   "explicacao": "Convertendo, 40 m são 4.000 cm; dividindo pelo denominador da escala numérica, 4.000 ÷ 5.000 = 0,8 cm. Um segmento de menos de um centímetro para um lote de 40 m mostra por que plantas de detalhe pedem escalas ainda maiores, como 1:1.000 ou 1:500.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-514",
+   "texto_apoio": "A projeção de Mercator, criada no século XVI para a navegação, conserva os ângulos: uma rota de rumo constante aparece no mapa como uma linha reta. Em troca, a superfície representada é esticada à medida que a latitude se afasta da linha do equador.",
+   "enunciado": "Uma consequência direta dessa característica, num mapa-múndi de Mercator pendurado na parede da sala de aula, é que:",
+   "alternativas": {
+    "a": "as áreas próximas à linha do equador aparecem exageradas em relação às de latitude elevada, porque o esticamento da projeção de Mercator cresce à medida que o observador se aproxima da faixa equatorial",
+    "b": "as formas dos continentes ficam deformadas e os ângulos deixam de ser conservados, o que retira da projeção sua utilidade para a navegação",
+    "c": "a Groenlândia aparece com tamanho próximo ao da África, embora a área africana seja cerca de catorze vezes maior",
+    "d": "as distâncias medidas sobre o mapa correspondem às reais em cada ponto da superfície representada",
+    "e": "a área da Antártida aparece reduzida, já que a projeção comprime as latitudes elevadas"
+   },
+   "resposta": "c",
+   "explicacao": "Numa projeção conforme como a de Mercator, o esticamento cresce com a latitude: perto dos polos ele é enorme. Por isso a Groenlândia, com cerca de 2,2 milhões de km², aparece do tamanho da África, que tem cerca de 30 milhões de km². O mapa não mente sobre os ângulos — mente sobre as áreas, e é por isso que serve à navegação e atrapalha como mapa-múndi de parede.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-515",
+   "texto_apoio": "Divulgada em 1973, a projeção de Peters conserva as áreas: cada porção da superfície ocupa no mapa espaço proporcional à sua extensão real. As formas, em troca, aparecem alongadas.",
+   "enunciado": "O argumento que acompanhou a divulgação dessa projeção sustentava que:",
+   "alternativas": {
+    "a": "uma projeção que amplia as latitudes elevadas reforça, na leitura de mapa feita pelo aluno, a importância da Europa e da América do Norte",
+    "b": "a conservação das formas é a propriedade mais importante de uma projeção cartográfica, e por isso a representação de Peters substituiu a de Mercator no uso escolar em razão de sua fidelidade ao contorno dos continentes",
+    "c": "a projeção de Peters conserva ao mesmo tempo áreas, ângulos e distâncias, o que encerraria a discussão",
+    "d": "as áreas tropicais aparecem reduzidas na projeção de Peters, e foi essa redução que motivou a crítica",
+    "e": "a escolha da projeção é uma decisão apenas técnica, sem efeito sobre a leitura de mapa"
+   },
+   "resposta": "a",
+   "explicacao": "Peters não trouxe novidade geométrica — projeções equivalentes existiam havia séculos. O que ela trouxe foi um argumento sobre a leitura de mapa: se o mapa-múndi de parede infla as latitudes elevadas, o aluno cresce vendo a Europa maior do que a América do Sul, que tem quase o dobro da área. Nenhuma projeção conserva áreas, ângulos e distâncias ao mesmo tempo; essa é a limitação de partida da cartografia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-516",
+   "texto_apoio": "Nenhuma projeção cartográfica transfere a superfície curva do planeta para o plano sem deformação. A projeção de Robinson, adotada por muitos atlas escolares, aceita pequenas deformações de área, de forma e de distância ao mesmo tempo, em vez de conservar rigorosamente uma dessas propriedades.",
+   "enunciado": "Essa opção caracteriza uma projeção do tipo:",
+   "alternativas": {
+    "a": "conforme, que conserva os ângulos e as formas locais",
+    "b": "equivalente, que conserva as áreas em proporção exata",
+    "c": "equidistante, que conserva as distâncias contadas a partir de um ponto escolhido",
+    "d": "afilática, ou de compromisso, que distribui as deformações em vez de eliminar uma delas",
+    "e": "cilíndrica equatorial, classificação que nomeia a propriedade geométrica conservada pela projeção e não a superfície sobre a qual a rede de meridianos e paralelos é lançada"
+   },
+   "resposta": "d",
+   "explicacao": "Projeções são classificadas por duas coisas diferentes: a propriedade conservada — conforme, equivalente, equidistante ou afilática — e a superfície de projeção — cilíndrica, cônica ou azimutal. Robinson é afilática: distribui o erro em vez de zerá-lo num ponto, o que a torna agradável ao olho e imprópria para medição rigorosa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-517",
+   "texto_apoio": "Um mapa é construído projetando a superfície do planeta sobre um plano tangente ao polo Norte. Nele, os meridianos aparecem como retas que partem do centro do desenho e os paralelos, como circunferências concêntricas.",
+   "enunciado": "Essa construção corresponde a uma projeção:",
+   "alternativas": {
+    "a": "cilíndrica equatorial, obtida ao envolver o planeta com um cilindro tangente à linha do equador",
+    "b": "azimutal polar, útil para representar rotas aéreas que partem de um mesmo ponto central",
+    "c": "cônica, obtida ao apoiar um cone sobre uma faixa de latitude média",
+    "d": "de Peters, que conserva as áreas e alonga as formas",
+    "e": "cilíndrica de Mercator, na qual os meridianos convergem para o centro do desenho e os paralelos formam circunferências concêntricas em torno do polo representado"
+   },
+   "resposta": "b",
+   "explicacao": "Meridianos em leque e paralelos em circunferências concêntricas são a assinatura da projeção azimutal de aspecto polar. Ela conserva a direção a partir do ponto central, o que a tornou padrão em cartas de rota aérea. Já em Mercator, meridianos e paralelos formam uma grade de retas perpendiculares.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-518",
+   "texto_apoio": "Em 1943, o artista uruguaio Joaquín Torres-García desenhou a América do Sul com o sul voltado para cima e escreveu: 'nosso norte é o sul'. Um mapa com o sul no topo, ou centrado no oceano Pacífico, circula desde então em sala de aula.",
+   "enunciado": "A lição que essa inversão pretende ensinar é que:",
+   "alternativas": {
+    "a": "a inversão corrige um erro de medição das coordenadas geográficas cometido pelos cartógrafos europeus, devolvendo ao desenho a posição que o planeta ocupa de fato quando observado do espaço exterior",
+    "b": "o desenho invertido representa a superfície com menos deformação de área do que o desenho tradicional",
+    "c": "a posição do norte no topo decorre da inclinação do eixo de rotação e não pode ser alterada",
+    "d": "a inversão altera as coordenadas geográficas dos lugares representados no desenho",
+    "e": "a orientação com o norte no topo é uma convenção histórica, e não uma imposição da forma do planeta"
+   },
+   "resposta": "e",
+   "explicacao": "Nada no planeta define um lado de cima. A convenção do norte no topo firmou-se na Europa entre os séculos XV e XVIII e foi difundida com a navegação atlântica. Virar o mapa não muda a latitude nem a longitude de lugar nenhum: muda quem ocupa o centro do olhar de quem lê.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-519",
+   "texto_apoio": "O mapa-múndi mais difundido nas escolas ocidentais coloca o meridiano de Greenwich perto do centro da folha; um mapa-múndi publicado na China costuma centrar o desenho no oceano Pacífico, deixando a Europa numa das bordas.",
+   "enunciado": "A comparação entre essas duas escolhas mostra que:",
+   "alternativas": {
+    "a": "a escolha do meridiano central é determinada por uma propriedade física do planeta, de modo que alterar essa escolha produziria um desenho geometricamente incorreto da superfície representada",
+    "b": "o mapa-múndi chinês está incorreto, pois o meridiano de Greenwich é o único ponto de partida admitido",
+    "c": "as duas escolhas alteram as latitudes dos lugares representados",
+    "d": "definir o que fica no centro do mapa é decisão de quem o produz, e organiza a leitura de mapa em torno de um ponto de vista",
+    "e": "centrar o desenho no oceano Pacífico elimina a deformação de área da projeção adotada"
+   },
+   "resposta": "d",
+   "explicacao": "Mudar o meridiano central desloca quem aparece no meio e quem aparece rasgado pela borda, sem alterar uma única coordenada geográfica. É por isso que o centro do mapa é lido como argumento: quem está no meio parece o ponto de partida, e quem está na beirada parece a borda do assunto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-520",
+   "texto_apoio": "Um ponto da superfície tem as coordenadas geográficas 23° de latitude sul e 46° de longitude oeste.",
+   "enunciado": "Esse ponto está situado:",
+   "alternativas": {
+    "a": "ao sul da linha do equador e a oeste do meridiano de Greenwich",
+    "b": "ao norte da linha do equador e a leste do meridiano de Greenwich",
+    "c": "sobre a linha do equador e a oeste do meridiano de Greenwich",
+    "d": "ao sul da linha do equador e a leste do meridiano de Greenwich",
+    "e": "ao sul da linha do equador e sobre o meridiano de Greenwich, já que a longitude indicada mede a distância angular contada a partir da linha do equador em direção ao polo"
+   },
+   "resposta": "a",
+   "explicacao": "Num mapa, a latitude é lida na moldura vertical e conta o afastamento em relação à linha do equador, de 0° a 90°; a longitude é lida na moldura horizontal e conta o afastamento em relação ao meridiano de Greenwich, de 0° a 180°. O par 23°S e 46°O situa o ponto a sudoeste dessas duas origens — são, aproximadamente, as coordenadas de São Paulo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-521",
+   "texto_apoio": "A latitude é contada da linha do equador para os polos e a longitude, do meridiano de Greenwich para leste e para oeste.",
+   "enunciado": "Entre os pares abaixo, o que não pode corresponder a um ponto da superfície do planeta é:",
+   "alternativas": {
+    "a": "90° de latitude sul e 0° de longitude",
+    "b": "100° de latitude norte e 20° de longitude leste",
+    "c": "0° de latitude e 180° de longitude",
+    "d": "45° de latitude norte e 179° de longitude oeste",
+    "e": "23°27' de latitude sul e 46°38' de longitude oeste, par que reúne graus e minutos na mesma notação"
+   },
+   "resposta": "b",
+   "explicacao": "A latitude vai de 0° na linha do equador a 90° em cada polo, e não passa disso: 100° de latitude não existe. Já a longitude vai de 0° a 180° para cada lado, de modo que 179°O e 180° são valores legítimos, e a notação em graus e minutos é a forma corrente de escrever coordenadas geográficas num mapa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-522",
+   "texto_apoio": "O meridiano de Greenwich, fixado em 1884 como origem das longitudes, tem por antimeridiano a linha dos 180°, por onde corre, com alguns desvios, a Linha Internacional de Data.",
+   "enunciado": "Ao cruzar essa linha viajando de leste para oeste, um viajante deve:",
+   "alternativas": {
+    "a": "atrasar a data em um dia, porque a leste dessa linha o dia já havia terminado",
+    "b": "somar doze horas ao relógio, sem alterar a data registrada",
+    "c": "manter a data e a hora, uma vez que a Linha Internacional de Data marca apenas o limite entre os dois hemisférios definidos pelo meridiano de Greenwich e não interfere na contagem dos dias",
+    "d": "subtrair uma hora a cada grau de longitude percorrido",
+    "e": "avançar a data em um dia, ajustando a hora ao fuso de destino"
+   },
+   "resposta": "e",
+   "explicacao": "Num mapa dos fusos horários, a contagem dos dias precisa quebrar em algum lugar, e esse lugar é o antimeridiano de Greenwich. Quem viaja para oeste e cruza a linha pula para o dia seguinte; quem viaja para leste repete o dia. A hora do relógio, essa, é ajustada ao fuso de destino, e não por grau percorrido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-523",
+   "texto_apoio": "Um estudante situado numa localidade do fuso GMT-3 marca 10h da manhã no relógio e liga para outra localidade, situada no fuso GMT+1.",
+   "enunciado": "No momento da ligação, o relógio da segunda localidade marca:",
+   "alternativas": {
+    "a": "6h",
+    "b": "13h",
+    "c": "14h",
+    "d": "7h",
+    "e": "18h30"
+   },
+   "resposta": "c",
+   "explicacao": "A diferença entre os dois fusos é 1 − (−3) = 4 horas, e o destino está a leste, portanto adiantado: 10h + 4h = 14h. Num mapa dos fusos horários fica visível a razão de somar em vez de subtrair — o Sol nasce primeiro a leste, e cada 15° de longitude valem uma hora.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-524",
+   "texto_apoio": "Um voo parte de Tóquio, no fuso GMT+9, às 10h de um domingo, e leva 10 horas de percurso até chegar a Los Angeles, no fuso GMT-8.",
+   "enunciado": "No momento do desembarque, o relógio local marca:",
+   "alternativas": {
+    "a": "3h da segunda-feira",
+    "b": "20h do mesmo domingo",
+    "c": "5h da segunda-feira",
+    "d": "3h do mesmo domingo",
+    "e": "11h do mesmo domingo, hora idêntica à de partida"
+   },
+   "resposta": "d",
+   "explicacao": "Convém passar pelo tempo universal: 10h de domingo em GMT+9 são 1h de domingo em GMT. Somadas as 10 horas de voo, chega-se às 11h de domingo em GMT, que no fuso GMT-8 são 3h da manhã do mesmo domingo. O passageiro desembarca antes da hora em que partiu porque cruzou a Linha Internacional de Data para leste, repetindo parte do dia — um mapa dos fusos horários torna o salto visível.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-525",
+   "texto_apoio": "O planeta completa um giro de 360° em cerca de 24 horas.",
+   "enunciado": "Dois pontos separados por 60° de longitude apresentam entre si uma diferença de:",
+   "alternativas": {
+    "a": "2 horas",
+    "b": "4 horas",
+    "c": "6 horas",
+    "d": "1 hora",
+    "e": "24 minutos"
+   },
+   "resposta": "b",
+   "explicacao": "Dividindo, 360° ÷ 24 h = 15° por hora — é essa a largura de cada um dos fusos horários no mapa. Logo 60° ÷ 15° = 4 horas de diferença. Quem divide 60 por 24, ou 24 por 60, chega aos valores oferecidos como distratores.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-526",
+   "texto_apoio": "Na rede de coordenadas geográficas impressa num mapa, paralelos e meridianos têm propriedades geométricas distintas.",
+   "enunciado": "Sobre essa rede, é correto afirmar que:",
+   "alternativas": {
+    "a": "os meridianos diminuem de comprimento em direção aos polos e os paralelos mantêm a mesma extensão entre si, razão pela qual a distância correspondente a um grau de longitude permanece constante da linha do equador até as regiões polares",
+    "b": "paralelos e meridianos são circunferências de mesmo raio, o que torna equivalente medir latitude ou longitude",
+    "c": "os paralelos indicam a longitude e os meridianos indicam a latitude de um ponto",
+    "d": "a distância entre dois paralelos consecutivos aumenta em direção à linha do equador",
+    "e": "os paralelos diminuem de comprimento em direção aos polos, enquanto os meridianos têm comprimento igual entre si"
+   },
+   "resposta": "e",
+   "explicacao": "O maior dos paralelos é a linha do equador; os demais encolhem até virar um ponto em cada polo. Os meridianos, por sua vez, são semicircunferências de mesma extensão, que se encontram nos dois polos. Daí um grau de longitude valer cerca de 111 km na linha do equador e quase nada perto do polo, enquanto um grau de latitude vale sempre por volta de 111 km.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-527",
+   "texto_apoio": "Numa carta topográfica, a curva de nível é traçada com equidistância de 20 m. Um caminho liga o ponto A, situado exatamente sobre a curva de 120 m, ao ponto B, situado exatamente sobre a curva de 200 m.",
+   "enunciado": "Entre A e B, o desnível vencido e o número de curvas intermediárias cruzadas são, respectivamente:",
+   "alternativas": {
+    "a": "80 m e 4 curvas",
+    "b": "20 m e 3 curvas",
+    "c": "80 m e 3 curvas",
+    "d": "320 m e 4 curvas",
+    "e": "200 m e 3 curvas, porque a equidistância indica a altitude absoluta do ponto mais alto do percurso"
+   },
+   "resposta": "c",
+   "explicacao": "O desnível é a diferença entre as duas altitudes: 200 − 120 = 80 m. Como a equidistância é de 20 m, entre as curvas de 120 e 200 estão as de 140, 160 e 180 — três curvas intermediárias, e não quatro, porque as curvas dos extremos não são cruzadas, e sim ocupadas. Ler a equidistância como altitude absoluta é o erro que o mapa mais cobra nesse tipo de leitura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-528",
+   "texto_apoio": "Numa carta topográfica, o traçado da curva de nível se adensa na porção leste da folha e se espaça bastante na porção oeste.",
+   "enunciado": "Essa diferença de espaçamento indica que:",
+   "alternativas": {
+    "a": "a leste o terreno é mais inclinado, e a oeste a inclinação é suave",
+    "b": "a leste o terreno é mais plano, porque curvas próximas umas das outras indicam que a altitude varia pouco ao longo de uma distância grande medida sobre a superfície representada",
+    "c": "a leste a altitude absoluta é menor do que a oeste",
+    "d": "a diferença de espaçamento decorre da escala numérica adotada, e não da inclinação do terreno",
+    "e": "a oeste o terreno é mais inclinado, e a leste ocorre um patamar"
+   },
+   "resposta": "a",
+   "explicacao": "Cada curva marca a mesma diferença de altitude. Se elas aparecem coladas, muitos metros de altitude são vencidos em poucos metros de distância no terreno — logo, a inclinação é forte. Espaçadas, o mesmo desnível se distribui por uma distância longa, e a inclinação é suave. O espaçamento nada diz sobre a altitude absoluta, que se lê no valor impresso em cada curva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-529",
+   "texto_apoio": "Para desenhar o perfil topográfico ao longo de uma linha traçada sobre um mapa com curva de nível de 50 em 50 metros, um estudante marca num gráfico a distância no eixo horizontal e a altitude no eixo vertical.",
+   "enunciado": "Nesse procedimento, cada ponto do gráfico é obtido:",
+   "alternativas": {
+    "a": "pela média das altitudes registradas na legenda, uma vez que o perfil topográfico representa a altitude média da porção mapeada e não a sucessão de altitudes ao longo da linha escolhida",
+    "b": "pela medida da distância entre duas curvas consecutivas, convertida em altitude pela escala numérica",
+    "c": "pela leitura da latitude de cada ponto sobre a moldura da folha",
+    "d": "pela contagem das curvas fechadas, que assinalam depressões do terreno",
+    "e": "no cruzamento da linha traçada com cada curva de nível, transportando para o eixo vertical a altitude que a curva indica"
+   },
+   "resposta": "e",
+   "explicacao": "O perfil topográfico é uma transposição direta: onde a linha corta uma curva de nível, sabe-se a distância percorrida e a altitude naquele ponto, e o par vira uma marca no gráfico. Unidas as marcas, aparece o corte vertical do terreno. Nada ali é média — o perfil mostra justamente a variação que uma média apagaria.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-530",
+   "texto_apoio": "Num mapa com equidistância de 10 m entre uma curva de nível e a seguinte, o ponto P está situado entre a curva de 340 m e a curva imediatamente acima dela. A folha traz ainda, numa elevação próxima, um ponto cotado de 356 m.",
+   "enunciado": "Sobre a altitude de P, é correto afirmar que:",
+   "alternativas": {
+    "a": "é exatamente 340 m",
+    "b": "está entre 340 m e 350 m",
+    "c": "é exatamente 356 m",
+    "d": "está entre 350 m e 360 m",
+    "e": "está entre 340 m e 356 m, porque o ponto cotado marca a altitude máxima admitida para o conjunto da porção representada na folha"
+   },
+   "resposta": "b",
+   "explicacao": "Estar entre duas curvas define um intervalo, não um valor: P está acima de 340 m e abaixo da curva seguinte, que a equidistância de 10 m coloca em 350 m. O ponto cotado de 356 m informa a altitude de um lugar específico — em geral o topo de uma elevação — e não limita as altitudes do restante do mapa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-531",
+   "texto_apoio": "Num mapa na escala 1:25.000, dois pontos estão separados por 8 cm medidos na horizontal. O primeiro está sobre a curva de nível de 300 m e o segundo, sobre a de 400 m.",
+   "enunciado": "A declividade média do trecho entre esses dois pontos é de:",
+   "alternativas": {
+    "a": "0,5%",
+    "b": "50%",
+    "c": "12,5%",
+    "d": "5%",
+    "e": "2,5%"
+   },
+   "resposta": "d",
+   "explicacao": "Primeiro a distância horizontal real: 8 × 25.000 = 200.000 cm, ou 2.000 m. Depois o desnível: 400 − 300 = 100 m. A declividade é a razão entre os dois, 100 ÷ 2.000 = 0,05, ou 5%. Esquecer de converter a medida do papel pela escala numérica, ou trocar a ordem da divisão, gera cada um dos demais valores.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-532",
+   "texto_apoio": "Um satélite em órbita registra a energia refletida pela superfície em diferentes faixas do espectro e envia os dados a uma estação em terra, onde a imagem de satélite é tratada e convertida em mapa.",
+   "enunciado": "Essa forma de obter informação sobre a superfície, sem contato físico com o alvo, chama-se:",
+   "alternativas": {
+    "a": "sensoriamento remoto",
+    "b": "levantamento de campo com trena e nível de bolha",
+    "c": "aerofotogrametria feita a partir de balão cativo",
+    "d": "cadastro predial preenchido por declaração de quem ocupa o imóvel",
+    "e": "geoprocessamento, nome que designa a captação de dados por sensores instalados a bordo de satélites e aeronaves, e não o tratamento posterior desses dados em camadas sobrepostas"
+   },
+   "resposta": "a",
+   "explicacao": "Sensoriamento remoto é a captação de informação a distância, sem tocar o alvo — é o que fazem o satélite e a aeronave equipada com sensor. Geoprocessamento é a etapa seguinte, o tratamento e o cruzamento desses dados em camadas. Confundir as duas é o deslize mais comum nesse assunto, e as bancas cobram exatamente o limite entre uma etapa e outra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-533",
+   "texto_apoio": "Um analista compara duas versões de uma imagem de satélite do mesmo trecho da superfície: na primeira, cada pixel corresponde a um quadrado de 30 m de lado no terreno; na segunda, a um quadrado de 1 m de lado.",
+   "enunciado": "Comparada à primeira, a segunda versão:",
+   "alternativas": {
+    "a": "tem resolução espacial mais grosseira, porque o valor em metros associado a cada pixel é menor e, por isso, a quantidade de detalhe registrada por unidade de área diminui na mesma proporção",
+    "b": "cobre uma extensão maior da superfície com o mesmo número de pixels",
+    "c": "tem resolução espacial mais fina e permite identificar objetos que a primeira dilui num único pixel",
+    "d": "difere da primeira apenas na quantidade de cores registradas",
+    "e": "tem a mesma resolução espacial, mudando só a escala gráfica usada na impressão"
+   },
+   "resposta": "c",
+   "explicacao": "Resolução espacial é o tamanho, no terreno, do menor elemento que a imagem distingue. Quanto menor esse tamanho, mais fina a resolução: com 1 m por pixel dá para separar um telhado de um pátio, o que 30 m por pixel misturam num único valor. A contrapartida é o volume de dados, muito maior na imagem detalhada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-534",
+   "texto_apoio": "Um receptor de GPS calcula a própria posição medindo o tempo que o sinal leva para chegar de cada satélite; com o sinal de quatro satélites, obtém latitude, longitude e altitude.",
+   "enunciado": "O princípio geométrico em que se apoia esse cálculo é:",
+   "alternativas": {
+    "a": "a triangulação por ângulos medidos entre pontos visíveis do terreno",
+    "b": "a nivelação geométrica feita com mira e nível de bolha",
+    "c": "a interpolação entre a curva de nível mais próxima e o ponto cotado",
+    "d": "a projeção cônica conforme, cujo cálculo converte a distância medida até cada satélite na coordenada geográfica correspondente sem depender do tempo de percurso do sinal",
+    "e": "a trilateração, que localiza o receptor no cruzamento de esferas de raio conhecido"
+   },
+   "resposta": "e",
+   "explicacao": "Cada satélite informa uma distância, e uma distância conhecida define uma esfera de posições possíveis em torno dele. Três esferas se cruzam num ponto; a quarta medida corrige o relógio do receptor, que não é atômico. Por isso é trilateração — medida de distâncias — e não triangulação, que trabalha com ângulos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-535",
+   "texto_apoio": "Numa base de geoprocessamento, um analista pede a seleção dos imóveis situados a menos de 500 m de uma estação de metrô, cruzando a camada dos imóveis com a camada das estações.",
+   "enunciado": "A operação que gera a faixa de 500 m em torno de cada estação, usada nesse cruzamento, é conhecida como:",
+   "alternativas": {
+    "a": "generalização, que simplifica o traçado das feições ao reduzir a escala",
+    "b": "área de influência, ou buffer, traçada em torno de um elemento da camada",
+    "c": "georreferenciamento, que atribui coordenadas conhecidas a uma imagem de satélite",
+    "d": "classificação supervisionada, que agrupa pixels a partir de amostras de treino",
+    "e": "anamorfose, operação que deforma a área de cada polígono da camada em proporção à distância que o separa da estação mais próxima"
+   },
+   "resposta": "b",
+   "explicacao": "O buffer, ou área de influência, é a faixa de largura fixa desenhada em torno de um ponto, de uma linha ou de um polígono; cruzada com outra camada, ela responde a perguntas de vizinhança como a do enunciado. É uma das operações mais usadas num mapa produzido por Sistema de Informação Geográfica, ao lado da sobreposição e do recorte.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-536",
+   "texto_apoio": "Num mapa do país, cada unidade da federação aparece com a área deformada para ficar proporcional ao número de eleitores, e não à sua extensão real: unidades pequenas e muito povoadas incham, e unidades extensas e pouco povoadas encolhem.",
+   "enunciado": "Essa forma de representação é chamada:",
+   "alternativas": {
+    "a": "anamorfose, ou cartograma, em que a área desenhada traduz o valor de uma variável",
+    "b": "mapa de coropletas, em que classes de valor são traduzidas em tons de cor",
+    "c": "mapa de fluxos, em que setas de espessura variável ligam origem e destino",
+    "d": "carta com curva de nível, em que linhas unem os pontos de mesma altitude",
+    "e": "projeção equivalente, que conserva a proporção entre as áreas desenhadas e as áreas reais da superfície e por isso deforma o contorno das unidades representadas"
+   },
+   "resposta": "a",
+   "explicacao": "Na anamorfose o desenho abandona a fidelidade geométrica para ganhar em eloquência: quem olha vê imediatamente onde está o peso do dado escolhido. O preço é o reconhecimento — o contorno familiar do país se desfaz, e sem legenda o leitor se perde. Não confundir com a projeção equivalente, que conserva as áreas reais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-537",
+   "texto_apoio": "Um mesmo dado — o número de matrículas escolares por município — é representado de duas formas. Na primeira, cada município é pintado com um tom de cor conforme a classe de valor em que se enquadra; na segunda, sobre cada município é desenhado um círculo de tamanho proporcional ao valor.",
+   "enunciado": "As duas formas correspondem, respectivamente, a:",
+   "alternativas": {
+    "a": "mapa de fluxos e anamorfose",
+    "b": "anamorfose e mapa de coropletas",
+    "c": "mapa de coropletas e mapa de símbolos proporcionais",
+    "d": "carta com curva de nível e mapa de fluxos",
+    "e": "mapa de fluxos e mapa de coropletas, pois círculos de tamanho variável desenhados sobre a área de cada município constituem a definição corrente de mapa de fluxos"
+   },
+   "resposta": "c",
+   "explicacao": "Coropletas pintam áreas inteiras segundo classes de valor e por isso pedem dados relativos, como taxas — pintar valores absolutos faz o município grande parecer sempre mais intenso. Símbolos proporcionais desenham figuras de tamanho variável sobre cada área e aceitam bem valores absolutos. Mapa de fluxos é outra coisa: liga origem e destino por setas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-538",
+   "texto_apoio": "Ao entregar um mapa temático, um estudante apresenta apenas o desenho colorido dos municípios, sem nenhuma outra informação na folha.",
+   "enunciado": "Para que a leitura de mapa se torne possível, faltam nessa folha, entre outros elementos:",
+   "alternativas": {
+    "a": "a assinatura do autor e a data da impressão",
+    "b": "a moldura decorativa e a numeração das páginas",
+    "c": "a curva de nível e o perfil topográfico, elementos exigidos em folha de mapa temático seja qual for o dado representado",
+    "d": "título, legenda, escala e indicação de orientação",
+    "e": "a projeção de Mercator e a rede de meridianos, sem as quais o dado não pode ser lido"
+   },
+   "resposta": "d",
+   "explicacao": "Sem título não se sabe o que está representado; sem legenda, o que cada cor significa; sem escala, o tamanho do que se vê; sem orientação, para onde aponta o desenho. Esses quatro elementos, somados à indicação da fonte do dado, formam o mínimo de um mapa temático. Curva de nível e projeção nomeada são exigências de outros tipos de carta, não desse.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "filosofia-politica": [

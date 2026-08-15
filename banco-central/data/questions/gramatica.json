@@ -6104,6 +6104,502 @@
    "explicacao": "As duas formulações comunicam a mesma informação essencial — o paciente relatou dor intensa —, apenas reorganizada, sem qualquer coesão perdida entre as partes; a reescrita mantém o sentido original.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-228",
+   "texto_apoio": "Machado de Assis, autor de Dom Casmurro, morreu no Rio de Janeiro em 1908.",
+   "enunciado": "O par de vírgulas empregado no período serve para",
+   "alternativas": {
+    "a": "destacar o aposto explicativo, expressão que acrescenta informação ao nome anterior sem alterar o esqueleto da frase.",
+    "b": "separar dois núcleos de uma enumeração breve, recurso comum quando a frase apresenta itens de igual valor.",
+    "c": "assinalar a ausência de um verbo já mencionado antes, procedimento de economia admitido pela norma culta escrita.",
+    "d": "marcar a fronteira entre o sujeito e o predicado do enunciado, pausa que a leitura em voz alta costuma pedir nos textos mais longos e de sintaxe intrincada.",
+    "e": "indicar que o trecho intermediário responde a uma circunstância de tempo e foi retirado do fim da frase."
+   },
+   "resposta": "a",
+   "explicacao": "O trecho entre vírgulas retoma o nome anterior e amplia a informação sobre ele: é um aposto explicativo. O par de vírgulas existe justamente para isolar esse aposto do restante da frase, e retirá-lo não deixa lacuna alguma na estrutura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-229",
+   "texto_apoio": "Doutor, o paciente do leito seis apresentou febre durante a madrugada.",
+   "enunciado": "A vírgula que aparece depois da primeira palavra do período justifica-se porque ela",
+   "alternativas": {
+    "a": "encerra uma enumeração de dois itens cujo segundo elemento foi suprimido pelo autor do relato.",
+    "b": "marca o vocativo, termo com que o falante chama o interlocutor e que fica isolado do restante do enunciado.",
+    "c": "anuncia uma citação literal que virá em seguida e ocupa o lugar reservado aos dois-pontos.",
+    "d": "separa a oração principal da subordinada iniciada logo depois, exigência que a norma culta faz valer nos períodos compostos por subordinação de ordem direta.",
+    "e": "assinala a supressão do verbo de ligação entre o nome de tratamento e o restante da informação."
+   },
+   "resposta": "b",
+   "explicacao": "O termo inicial não exerce função sintática dentro da oração: é o chamamento dirigido ao interlocutor, ou seja, um vocativo. A vírgula tem aí a função de isolar esse chamamento do enunciado que o segue.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-230",
+   "texto_apoio": "Na manhã seguinte à cirurgia, a equipe reavaliou os exames do paciente.",
+   "enunciado": "Sobre a vírgula empregada no período, é correto afirmar que ela",
+   "alternativas": {
+    "a": "é proibida, pois nenhum termo de circunstância admite pausa gráfica no início da frase.",
+    "b": "substitui um travessão que o autor preferiu evitar por razões de espaço na linha impressa.",
+    "c": "é recomendada, porque assinala o termo deslocado de circunstância que foi anteposto à oração e cuja extensão pede a pausa.",
+    "d": "marca o limite entre dois períodos independentes que foram reunidos numa única linha, prática corrente na redação jornalística contemporânea de grande circulação.",
+    "e": "indica que a expressão anterior funciona como aposto do nome que a segue no enunciado."
+   },
+   "resposta": "c",
+   "explicacao": "A expressão de circunstância abandonou o fim da frase e foi para o começo. Nesse caso a vírgula assinala o termo deslocado, e a pausa fica ainda mais recomendável porque a expressão é extensa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-231",
+   "texto_apoio": "Compare: (I) \"Os alunos, que estudaram, passaram.\" (II) \"Os alunos que estudaram passaram.\"",
+   "enunciado": "A diferença de sentido entre as duas frases decorre de que",
+   "alternativas": {
+    "a": "em I houve erro de digitação, pois a norma culta rejeita pausa gráfica antes de pronome relativo.",
+    "b": "em II falta a pausa exigida pela extensão do trecho, e as duas frases informam exatamente o mesmo.",
+    "c": "em I o trecho intercalado é uma enumeração reduzida a um único item, e em II ele foi apagado.",
+    "d": "em I a oração subordinada adjetiva explicativa diz que estudaram e passaram, e em II a restritiva separa quem estudou de quem não estudou.",
+    "e": "em II o trecho sublinhado deixou de ser oração e passou a funcionar como circunstância de causa dentro do enunciado principal, o que altera a leitura do conjunto."
+   },
+   "resposta": "d",
+   "explicacao": "Com vírgulas, o trecho é uma oração subordinada adjetiva explicativa: ela apenas comenta o conjunto e por isso vem isolada. Sem vírgulas, a oração é restritiva e recorta um subconjunto, deixando de fora os que não estudaram.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-232",
+   "texto_apoio": "O congresso reuniu delegações de Manaus, no Amazonas; Recife, em Pernambuco; e Bagé, no Rio Grande do Sul.",
+   "enunciado": "O emprego do ponto e vírgula no período acima explica-se porque ele",
+   "alternativas": {
+    "a": "encerra o período e dispensa o ponto final, já que a enumeração ficou completa na terceira cidade citada.",
+    "b": "anuncia a explicação que vem logo depois, papel normalmente atribuído aos dois-pontos na escrita formal.",
+    "c": "assinala pausa maior do que a do ponto final e menor do que a da quebra de parágrafo no texto corrido.",
+    "d": "separa termos de uma enumeração que já trazem pausas internas, tornando visível onde termina cada item da série apresentada pelo autor do texto informativo.",
+    "e": "separa os itens de uma série cujos elementos já contêm vírgula interna, evitando que as pausas se confundam."
+   },
+   "resposta": "e",
+   "explicacao": "Cada item da série traz uma vírgula interna, usada para isolar a informação de estado. Se a série fosse separada também por vírgula, o leitor perderia a fronteira entre um item e outro; o ponto e vírgula resolve esse conflito de níveis.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-233",
+   "texto_apoio": "A prova cobrará três frentes: interpretação de texto, gramática e redação.",
+   "enunciado": "Os dois-pontos empregados no período têm a função de",
+   "alternativas": {
+    "a": "anunciar a enumeração que especifica o termo anterior, funcionando como aposto enumerativo introduzido pela pausa.",
+    "b": "encerrar a oração anterior, que ficaria incompleta se o autor tivesse optado por um ponto final.",
+    "c": "marcar o apagamento de um verbo, sinal de economia frequente em manchetes e legendas de jornal.",
+    "d": "assinalar o chamamento dirigido ao leitor, papel que a norma culta reserva à vírgula em textos instrucionais escritos com finalidade didática e informativa.",
+    "e": "indicar interrupção brusca do raciocínio, deixando ao leitor a tarefa de completar a série iniciada."
+   },
+   "resposta": "a",
+   "explicacao": "Os dois-pontos abrem a lista que detalha o termo anunciado antes deles. Essa lista é um aposto enumerativo, e a vírgula interna apenas separa os itens da série que os dois-pontos introduziram.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-234",
+   "texto_apoio": "O médico foi categórico: \"O quadro exige internação imediata\".",
+   "enunciado": "No período acima, os dois-pontos foram usados para",
+   "alternativas": {
+    "a": "separar dois períodos de igual valor sintático, papel que caberia ao ponto e vírgula em textos técnicos.",
+    "b": "introduzir a fala reproduzida, marcando a passagem da voz do narrador para a voz da personagem citada.",
+    "c": "isolar um termo de circunstância que foi retirado do fim da frase e anteposto ao seu núcleo.",
+    "d": "assinalar a supressão de um verbo de dizer que o leitor deve recuperar pelo contexto, recurso descrito pelas gramáticas como zeugma e muito comum em textos jornalísticos de opinião.",
+    "e": "encerrar uma enumeração de causas cujo último item aparece entre aspas por decisão do redator."
+   },
+   "resposta": "b",
+   "explicacao": "Depois de um verbo de dizer, os dois-pontos abrem a citação literal. Eles marcam a mudança de voz, e as aspas ficam encarregadas de isolar graficamente o trecho que pertence ao entrevistado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-235",
+   "texto_apoio": "A vacina — resultado de três décadas de pesquisa — chegou às unidades básicas em março.",
+   "enunciado": "Os travessões empregados no período",
+   "alternativas": {
+    "a": "substituem os dois-pontos e anunciam a fala de um interlocutor não identificado no trecho.",
+    "b": "marcam a fronteira entre duas orações coordenadas, papel reservado ao ponto e vírgula na escrita formal.",
+    "c": "cumprem o papel de um par de vírgulas, mas dão mais destaque ao trecho intercalado que isolam.",
+    "d": "indicam que o trecho intercalado foi copiado de outro autor e por isso dispensa a referência bibliográfica completa ao final do parágrafo em que aparece.",
+    "e": "assinalam hesitação do redator diante de uma informação de que ele não tinha certeza no momento da escrita."
+   },
+   "resposta": "c",
+   "explicacao": "O trecho entre travessões poderia vir entre vírgulas sem prejuízo sintático: ele explica o nome anterior. Trocar a vírgula pelo travessão só muda a intensidade do realce, já que os dois sinais servem para isolar o mesmo bloco intercalado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-236",
+   "texto_apoio": "— O senhor sente dor aqui? — perguntou a residente, apalpando o abdome.",
+   "enunciado": "No trecho acima, o travessão foi empregado para",
+   "alternativas": {
+    "a": "encerrar a enumeração de sintomas que a personagem apresentava no momento do atendimento.",
+    "b": "substituir os parênteses que o autor considerou discretos demais para o tipo de texto escolhido.",
+    "c": "assinalar a supressão do verbo de ligação entre a pergunta e a resposta da personagem consultada.",
+    "d": "abrir a fala da personagem e, depois, separar essa fala do comentário do narrador que a acompanha.",
+    "e": "marcar uma pausa de circunstância dentro da própria pergunta, o que exigiria também a presença de vírgula antes do verbo empregado pela personagem no diálogo."
+   },
+   "resposta": "d",
+   "explicacao": "No diálogo, o primeiro travessão abre a fala e o segundo serve para isolar o comentário do narrador. A vírgula que vem depois de \"residente\" tem outro papel: ela separa o trecho reduzido que descreve a ação simultânea.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-237",
+   "texto_apoio": "O relatório (concluído em 2023) apontou falhas na conservação do acervo.",
+   "enunciado": "Os parênteses empregados no período",
+   "alternativas": {
+    "a": "assinalam a fala de um entrevistado, função que os manuais de estilo atribuem às aspas nos textos jornalísticos de maior circulação nacional.",
+    "b": "separam duas orações de mesmo valor sintático que o autor não quis reunir por conjunção.",
+    "c": "indicam que a informação interna foi acrescentada por um revisor, e não pelo autor do relatório citado.",
+    "d": "marcam o limite entre o sujeito e aquilo que dele se declara ao longo da frase.",
+    "e": "encerram um comentário acessório, isolando do fluxo principal um dado que o leitor pode dispensar."
+   },
+   "resposta": "e",
+   "explicacao": "Os parênteses guardam a informação de menor relevo, aquela que o leitor pode saltar sem perder o fio. Se essa informação subisse ao primeiro plano, o autor teria preferido a vírgula ou o travessão para isolar o trecho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-238",
+   "texto_apoio": "Ele hesitou, olhou para o teto, tentou responder...",
+   "enunciado": "As reticências que encerram o período acima",
+   "alternativas": {
+    "a": "sugerem que a série de ações continua, deixando a frase em suspensão em vez de concluí-la.",
+    "b": "substituem o ponto de interrogação, já que a frase apresenta a estrutura de uma pergunta indireta.",
+    "c": "assinalam a citação de um trecho alheio cuja parte final foi cortada pelo redator da matéria.",
+    "d": "marcam o encerramento definitivo do parágrafo e equivalem, em valor de pausa, ao ponto final usado na prosa.",
+    "e": "isolam o termo de circunstância que aparece no interior da frase, papel que caberia a um par de parênteses em texto de natureza mais técnica."
+   },
+   "resposta": "a",
+   "explicacao": "As vírgulas do período servem para isolar os itens da série de ações; as reticências, no fim, deixam essa série aberta. Elas suspendem o enunciado em vez de fechá-lo, sugerindo continuidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-239",
+   "texto_apoio": "O tratamento foi iniciado a tempo, mas a resposta do organismo demorou.",
+   "enunciado": "A vírgula colocada antes da conjunção do período justifica-se porque",
+   "alternativas": {
+    "a": "a conjunção introduz uma enumeração de dois itens de mesmo peso semântico dentro do enunciado.",
+    "b": "a pausa antecede conjunção de valor adversativo, e a norma culta recomenda isolar assim o contraste entre as duas informações.",
+    "c": "o trecho posterior à conjunção é um aposto do nome que aparece imediatamente antes dela.",
+    "d": "a pausa foi exigida pela extensão do trecho anterior, critério que a norma culta adota nos enunciados com mais de dez palavras escritas em sequência.",
+    "e": "o autor pretendeu reproduzir uma fala e por isso preferiu a vírgula aos dois-pontos usuais."
+   },
+   "resposta": "b",
+   "explicacao": "Antes de conjunção adversativa a vírgula é recomendada: ela isola o contraste e prepara o leitor para a informação que contraria a expectativa criada pela primeira parte do período.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-240",
+   "texto_apoio": "Levou para o plantão o estetoscópio, o jaleco, a caneta e o caderno de anotações.",
+   "enunciado": "As vírgulas empregadas no período acima",
+   "alternativas": {
+    "a": "anunciam citação literal e poderiam ser trocadas por dois-pontos sem prejuízo para o sentido do enunciado.",
+    "b": "separam a oração principal de duas orações que dela dependem, marcando a hierarquia entre elas na frase escrita.",
+    "c": "separam os itens de uma série de mesma função, e por isso desaparecem diante da conjunção que fecha a enumeração.",
+    "d": "isolam apostos sucessivos, expressões que apenas explicam o nome mencionado no começo do enunciado narrado.",
+    "e": "marcam a supressão de verbos idênticos ao primeiro, procedimento de economia que os manuais de redação chamam de zeugma e recomendam com parcimônia."
+   },
+   "resposta": "c",
+   "explicacao": "A vírgula separa os termos de uma série que exercem a mesma função. Diante da conjunção que fecha a enumeração ela não reaparece, porque a própria conjunção já faz o trabalho de ligar o último item.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-241",
+   "texto_apoio": "Compare: (I) \"A pesquisadora responsável pelo laboratório, apresentou os dados.\" (II) \"A pesquisadora responsável pelo laboratório apresentou os dados.\"",
+   "enunciado": "Sobre a pontuação das duas frases, é correto afirmar que",
+   "alternativas": {
+    "a": "as duas estão corretas, pois a pausa entre a expressão inicial e o verbo é facultativa na escrita formal.",
+    "b": "apenas I está correta, já que expressão inicial extensa pede pausa gráfica antes do verbo que a segue.",
+    "c": "as duas estão incorretas, porque a frase pede também um par de travessões em torno da expressão inicial para que a informação apareça devidamente destacada ao leitor.",
+    "d": "apenas II está correta, porque a vírgula de I separa o sujeito do verbo, corte que a norma culta rejeita.",
+    "e": "apenas I está correta, uma vez que a vírgula ali isola um aposto explicativo do nome inicial."
+   },
+   "resposta": "d",
+   "explicacao": "A extensão da expressão inicial não autoriza pausa: a vírgula de I corta a frase entre quem pratica a ação e a ação praticada. Só haveria vírgula ali se houvesse termo intercalado a isolar, o que não é o caso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-242",
+   "texto_apoio": "A cirurgia, disse o chefe da equipe, foi remarcada para segunda-feira.",
+   "enunciado": "As vírgulas do período acima",
+   "alternativas": {
+    "a": "assinalam enumeração de dois itens de mesma função, situação em que o autor optou por não usar conjunção.",
+    "b": "separam a expressão de circunstância que foi anteposta ao verbo, prática comum na prosa de imprensa.",
+    "c": "anunciam uma citação e cumprem, no período, o papel que caberia normalmente aos dois-pontos.",
+    "d": "marcam a supressão do verbo de ligação, procedimento que os manuais de redação toleram apenas em legendas curtas e manchetes de primeira página.",
+    "e": "isolam a oração intercalada que identifica quem disse a informação relatada no enunciado."
+   },
+   "resposta": "e",
+   "explicacao": "O trecho entre vírgulas interrompe a frase para dizer de quem partiu a informação: trata-se de oração intercalada. O par de vírgulas serve para isolar essa interrupção sem desmontar o enunciado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-243",
+   "texto_apoio": "A dose foi ajustada; o efeito colateral, porém, persistiu por mais dois dias.",
+   "enunciado": "As vírgulas que cercam a conjunção no segundo trecho justificam-se porque ela",
+   "alternativas": {
+    "a": "aparece fora da posição inicial e, deslocada para o interior do trecho, precisa ficar isolada por pausas.",
+    "b": "introduz uma enumeração de efeitos observados durante o acompanhamento do paciente internado.",
+    "c": "encerra a citação da fala de um profissional que não foi identificado pelo autor do relato clínico.",
+    "d": "funciona como aposto do nome que a antecede e por isso recebe o mesmo tratamento gráfico dado às expressões explicativas do português escrito.",
+    "e": "substitui o ponto e vírgula que já havia sido empregado antes no mesmo enunciado, o que evitaria a repetição."
+   },
+   "resposta": "a",
+   "explicacao": "A conjunção adversativa saiu do começo do trecho e foi para dentro dele. Quando isso acontece, as vírgulas passam a isolar a conjunção deslocada, e o ponto e vírgula anterior apenas separa as duas partes do período.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-244",
+   "texto_apoio": "Assim que os exames ficaram prontos, a médica alterou a conduta.",
+   "enunciado": "A vírgula empregada no período acima",
+   "alternativas": {
+    "a": "separa dois itens de uma enumeração de procedimentos adotados pela equipe durante o atendimento.",
+    "b": "assinala que a oração de circunstância veio antes da principal, e esse deslocamento torna a pausa recomendável.",
+    "c": "isola um aposto explicativo do nome que aparece imediatamente depois dela no enunciado.",
+    "d": "marca a fronteira entre quem pratica a ação e o que dele se declara, corte que a tradição gramatical brasileira descreve como obrigatório em frases de estrutura invertida.",
+    "e": "substitui os dois-pontos, pois o trecho inicial anuncia a informação que aparece na sequência."
+   },
+   "resposta": "b",
+   "explicacao": "A oração de circunstância normalmente viria depois da principal. Antecipada, ela é um termo deslocado, e a vírgula existe para isolar esse bloco antes que a oração principal comece.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-245",
+   "texto_apoio": "O primeiro grupo recebeu o soro; o segundo, o placebo.",
+   "enunciado": "A vírgula empregada no segundo trecho do período assinala",
+   "alternativas": {
+    "a": "o chamamento dirigido ao leitor, recurso comum nos textos de divulgação científica escritos para o público leigo.",
+    "b": "a fronteira entre duas orações de sentido oposto, ligadas por conjunção que o autor preferiu omitir da frase.",
+    "c": "a supressão do verbo já expresso no trecho anterior, apagamento que a pausa gráfica torna recuperável.",
+    "d": "o aposto enumerativo que detalha os grupos analisados durante o experimento descrito pelo texto.",
+    "e": "a citação da fala do pesquisador responsável, papel que caberia às aspas em texto de natureza técnica."
+   },
+   "resposta": "c",
+   "explicacao": "O verbo do segundo trecho não foi repetido. A vírgula ocupa o lugar dessa palavra apagada e sinaliza ao leitor que ele deve recuperá-la do trecho anterior; o ponto e vírgula, por sua vez, separa os dois blocos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-246",
+   "texto_apoio": "A anemia falciforme é hereditária, ou seja, transmite-se dos pais aos filhos.",
+   "enunciado": "As vírgulas que cercam a expressão destacada no período justificam-se porque ela",
+   "alternativas": {
+    "a": "introduz uma enumeração de causas da doença citada no início do enunciado informativo.",
+    "b": "anuncia a fala de um especialista consultado pelo autor do texto de divulgação científica publicado na imprensa diária.",
+    "c": "encerra o período e dispensa o ponto final que apareceria em outra construção equivalente.",
+    "d": "é expressão de valor explicativo e, como tal, fica isolada do restante por pausas gráficas.",
+    "e": "funciona como sujeito da oração seguinte e precisa ser destacada por essa razão sintática."
+   },
+   "resposta": "d",
+   "explicacao": "Expressões de valor explicativo como essa vêm entre vírgulas: a dupla de pausas serve para isolar o comentário que reformula o que foi dito antes, sem que ele se confunda com o fio principal do enunciado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-247",
+   "texto_apoio": "Belo Horizonte, 12 de março de 2024.",
+   "enunciado": "A vírgula empregada na linha acima",
+   "alternativas": {
+    "a": "separa o nome do lugar da data que o acompanha, uso consagrado no cabeçalho de cartas e ofícios.",
+    "b": "assinala a supressão de um verbo que o leitor recupera pelo contexto do documento assinado.",
+    "c": "isola um aposto explicativo, pois o segundo bloco apenas repete a informação dada pelo primeiro bloco da linha.",
+    "d": "marca uma enumeração de três itens, dos quais o primeiro é o nome da cidade em que o documento foi redigido e assinado pelo remetente.",
+    "e": "anuncia a citação que virá logo abaixo, no corpo do documento redigido em linguagem formal."
+   },
+   "resposta": "a",
+   "explicacao": "No cabeçalho de cartas e ofícios a vírgula separa o lugar da data. Não há aposto nem enumeração ali: a pausa apenas isola dois blocos de informação de naturezas distintas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-248",
+   "texto_apoio": "A primeira fase avaliou a segurança da substância em voluntários saudáveis; a segunda mediu a eficácia do composto em pacientes já diagnosticados.",
+   "enunciado": "O ponto e vírgula empregado no período acima",
+   "alternativas": {
+    "a": "separa dois trechos extensos de mesmo valor, com pausa maior do que a da vírgula e menor do que a do ponto.",
+    "b": "anuncia a explicação contida no segundo trecho, papel normalmente atribuído aos dois-pontos na escrita técnica.",
+    "c": "assinala a supressão do verbo do segundo trecho, apagamento comum em textos de natureza científica publicados em periódicos de circulação internacional.",
+    "d": "isola um aposto enumerativo que detalha as fases do estudo mencionadas antes dele.",
+    "e": "marca o chamamento dirigido ao leitor especializado a quem o relatório se destina."
+   },
+   "resposta": "a",
+   "explicacao": "Os dois blocos têm o mesmo peso e alguma extensão. A vírgula seria pausa fraca demais e o ponto separaria demais; o ponto e vírgula fica no meio-termo, sem isolar nenhum termo em particular.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-249",
+   "texto_apoio": "Compare: (I) \"O diagnóstico foi claro: havia infecção.\" (II) \"O diagnóstico foi claro, havia infecção.\"",
+   "enunciado": "Comparando as duas frases quanto à pontuação, é correto afirmar que",
+   "alternativas": {
+    "a": "as duas trazem enumerações de dois itens, o que torna as opções gráficas equivalentes entre si.",
+    "b": "em I os dois-pontos anunciam o que explica a informação anterior; em II a vírgula deixa essa relação vaga.",
+    "c": "em II a vírgula isola um aposto explicativo do nome que a antecede na frase escrita.",
+    "d": "em I os dois-pontos ocupam o lugar de um ponto final e encerram o período iniciado antes deles.",
+    "e": "em II a pausa marca a supressão de um verbo já expresso no trecho anterior da frase, procedimento de economia descrito pelas gramáticas escolares como zeugma."
+   },
+   "resposta": "b",
+   "explicacao": "Os dois-pontos anunciam: eles avisam ao leitor que o que vem a seguir esclarece o que veio antes. A vírgula apenas isola blocos e não carrega esse valor de anúncio, e por isso a relação entre as partes fica menos nítida em II.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-250",
+   "texto_apoio": "Compare: (I) \"Os moradores, que receberam o alerta, saíram.\" (II) \"Os moradores que receberam o alerta saíram.\"",
+   "enunciado": "A pontuação de I permite concluir que",
+   "alternativas": {
+    "a": "houve descuido de revisão, pois pausa gráfica antes de pronome relativo é vedada pela norma culta escrita.",
+    "b": "os dois enunciados descrevem a mesma cena, e a pausa apenas facilita a leitura em voz alta do trecho.",
+    "c": "o conjunto de moradores recebeu o alerta e saiu, ao passo que II recorta apenas parte desse conjunto.",
+    "d": "o trecho intercalado passou a funcionar como circunstância de causa, e não mais como comentário sobre o nome anterior.",
+    "e": "o trecho entre pausas é um aposto enumerativo que detalha os grupos de moradores atingidos pela ocorrência descrita no enunciado."
+   },
+   "resposta": "c",
+   "explicacao": "Com vírgulas, a oração subordinada adjetiva explicativa comenta o grupo inteiro e vem isolada por isso. Sem elas, a oração restritiva recorta um subgrupo e a leitura muda: parte dos moradores não teria saído.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-251",
+   "texto_apoio": "O relatório foi entregue no prazo, e a comissão o rejeitou na semana seguinte.",
+   "enunciado": "A vírgula colocada antes da conjunção aditiva do período",
+   "alternativas": {
+    "a": "é vedada pela norma culta, que rejeita pausa gráfica diante de conjunção aditiva na escrita formal.",
+    "b": "assinala a supressão do verbo do segundo trecho e permite ao leitor recuperá-lo pelo contexto imediato.",
+    "c": "isola um aposto explicativo do nome mencionado logo antes dela no enunciado escrito.",
+    "d": "é admitida, pois os dois trechos ligados pela conjunção têm agentes distintos, o que torna a pausa útil ao leitor.",
+    "e": "marca o começo de uma enumeração de providências tomadas pela comissão ao longo do processo de análise do documento entregue."
+   },
+   "resposta": "d",
+   "explicacao": "Diante de conjunção aditiva a vírgula costuma ser dispensada, mas ela é admitida quando os trechos ligados têm agentes diferentes. A pausa então serve para isolar as duas informações e evitar que o leitor as atribua ao mesmo agente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-252",
+   "texto_apoio": "Compare: (I) \"A lei (aprovada em 2019) mudou o setor.\" (II) \"A lei — aprovada em 2019 — mudou o setor.\"",
+   "enunciado": "A diferença entre as duas formas de pontuar está em que",
+   "alternativas": {
+    "a": "em I o trecho intercalado deixa de ser acessório e passa a integrar o núcleo da informação transmitida.",
+    "b": "em II o par de travessões anuncia uma citação literal, papel que os dois-pontos exerceriam com mais clareza.",
+    "c": "em I a informação intercalada fica em segundo plano, enquanto em II os travessões lhe dão realce.",
+    "d": "em II o trecho intercalado funciona como chamamento dirigido ao leitor especializado, e por isso recebe pausa mais forte do que a empregada na frase anterior.",
+    "e": "em I houve erro, pois parênteses só cabem em referências bibliográficas dentro de textos acadêmicos."
+   },
+   "resposta": "c",
+   "explicacao": "Parênteses e travessões podem isolar o mesmo trecho, mas com efeitos opostos de relevo: os parênteses rebaixam a informação, os travessões a destacam. A vírgula ficaria num ponto intermediário entre os dois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-253",
+   "texto_apoio": "Dois fatores explicam o resultado: a queda da adesão e o atraso na entrega das doses.",
+   "enunciado": "A pontuação empregada no período mostra que o trecho posterior aos dois-pontos",
+   "alternativas": {
+    "a": "é um aposto enumerativo que especifica os fatores anunciados no começo do enunciado.",
+    "b": "reproduz a fala de um gestor da rede pública consultado pelo autor da reportagem publicada.",
+    "c": "funciona como chamamento dirigido ao leitor e por isso aparece separado do restante do período escrito.",
+    "d": "traz a supressão de um verbo idêntico ao da primeira parte, apagamento que a pausa gráfica torna recuperável pelo leitor atento ao contexto da frase.",
+    "e": "encerra a frase com valor de suspensão, deixando ao leitor a tarefa de completar a série iniciada."
+   },
+   "resposta": "a",
+   "explicacao": "O trecho que segue os dois-pontos discrimina os fatores anunciados: é um aposto enumerativo. Note que a vírgula não aparece entre os dois itens, porque a conjunção aditiva já basta para ligá-los.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-254",
+   "texto_apoio": "Compare: (I) \"Ontem a equipe operou dois pacientes.\" (II) \"Ontem, a equipe operou dois pacientes.\"",
+   "enunciado": "Sobre a pausa que distingue as duas frases, é correto afirmar que",
+   "alternativas": {
+    "a": "somente II está correta, porque termo de circunstância anteposto exige pausa gráfica na norma culta escrita.",
+    "b": "as duas estão corretas, pois a pausa depois de termo de circunstância curto e anteposto é facultativa.",
+    "c": "somente I está correta, já que a vírgula de II corta a frase entre quem age e a ação que se declara.",
+    "d": "as duas estão incorretas, porque a frase pediria também um par de travessões em torno do termo inicial para destacar a informação de tempo diante do leitor.",
+    "e": "somente II está correta, uma vez que a pausa ali isola um aposto explicativo do nome inicial."
+   },
+   "resposta": "b",
+   "explicacao": "Termo de circunstância anteposto e curto admite as duas grafias: a vírgula fica a critério de quem escreve. A pausa passa a ser recomendada quando o termo deslocado é extenso, caso em que isolar o bloco ajuda a leitura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-255",
+   "texto_apoio": "Considere o trio: \"médico\", \"medico\" e \"medicou\".",
+   "enunciado": "Sobre a sílaba tônica e a acentuação das três formas, é correto afirmar que",
+   "alternativas": {
+    "a": "as três são proparoxítonas, e o acento gráfico foi suprimido nas duas últimas por decisão do Acordo Ortográfico assinado em 1990 pelos países de língua portuguesa.",
+    "b": "a segunda forma é oxítona terminada em o e por isso dispensa o acento gráfico na escrita.",
+    "c": "a primeira é proparoxítona e recebe acento; a segunda é paroxítona e a terceira, oxítona terminada em u, ambas sem acento.",
+    "d": "a terceira forma é paroxítona e deveria receber acento circunflexo na vogal da penúltima sílaba.",
+    "e": "as três compartilham a mesma sílaba tônica, e a diferença gráfica entre elas é de natureza puramente decorativa."
+   },
+   "resposta": "c",
+   "explicacao": "\"Médico\" tem a força na antepenúltima sílaba: é proparoxítona, e essas recebem acento sem exceção de terminação. \"Medico\", verbo no presente, é paroxítona terminada em o, terminação que a regra de acentuação não contempla. \"Medicou\" é oxítona terminada em u, também fora das terminações acentuadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-256",
+   "texto_apoio": "Compare: (I) \"Não se esqueça do exame.\" (II) \"Esqueça-se do exame.\"",
+   "enunciado": "A diferença de colocação pronominal entre as duas frases explica-se porque",
+   "alternativas": {
+    "a": "a ênclise de II é vedada pela norma culta em frases iniciadas por verbo no modo imperativo afirmativo.",
+    "b": "a próclise de I decorre da presença de um substantivo abstrato no início do enunciado escrito.",
+    "c": "as duas formas são intercambiáveis, e a escolha entre elas obedece apenas ao gosto pessoal de quem escreve o texto em situação de registro formal.",
+    "d": "em I o advérbio de negação atrai o pronome átono para antes do verbo, e em II, sem palavra atrativa, o pronome fica depois dele.",
+    "e": "em II a mesóclise foi empregada por se tratar de forma verbal do futuro do pretérito."
+   },
+   "resposta": "d",
+   "explicacao": "Palavras atrativas puxam o pronome átono para a próclise, e o advérbio de negação é a mais frequente delas. Sem essa palavra, o imperativo afirmativo de II admite a ênclise. A mesóclise não cabe em nenhuma das duas, pois exige futuro do presente ou do pretérito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-257",
+   "texto_apoio": "Considere: \"desleal\", \"lealdade\" e \"lealmente\".",
+   "enunciado": "Quanto à formação dessas três palavras, é correto afirmar que",
+   "alternativas": {
+    "a": "as três resultam de composição por justaposição de dois radicais autônomos da língua portuguesa.",
+    "b": "a primeira resulta de derivação regressiva, processo em que o vocábulo perde a sílaba final para gerar um substantivo abstrato de sentido correlato.",
+    "c": "a segunda é um neologismo recente, sem radical documentado nos dicionários da língua portuguesa.",
+    "d": "a terceira é um adjetivo formado por prefixação, e o elemento final indica intensidade.",
+    "e": "compartilham o radical leal: a primeira traz prefixo de negação, e as outras duas trazem sufixos que geram substantivo e advérbio."
+   },
+   "resposta": "e",
+   "explicacao": "O radical comum é leal. Em \"desleal\", o prefixo des- nega o sentido do radical. Em \"lealdade\", o sufixo -dade forma um substantivo abstrato; em \"lealmente\", o sufixo -mente forma um advérbio. Os três casos são derivação, não composição.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-gramatica-258",
+   "texto_apoio": "Compare: (I) \"A paciente ficou meio tonta.\" (II) \"Bebeu meio copo de água.\"",
+   "enunciado": "Sobre a classe gramatical da palavra repetida nas duas frases, é correto afirmar que",
+   "alternativas": {
+    "a": "em I ela é advérbio e permanece invariável; em II é numeral e acompanha o substantivo a que se refere.",
+    "b": "em I ela é adjetivo e qualifica o estado da paciente descrito pelo verbo de ligação da frase.",
+    "c": "nas duas frases ela pertence à mesma classe gramatical, e o que muda é apenas a posição que ocupa dentro de cada enunciado escrito pelo autor do relato.",
+    "d": "em II ela é interjeição, empregada para dar ênfase à quantidade mencionada no enunciado.",
+    "e": "em I ela é artigo indefinido, pois antecede um nome de sentido genérico dentro da frase."
+   },
+   "resposta": "a",
+   "explicacao": "A classificação morfológica de uma palavra depende do papel que ela exerce. Em I, \"meio\" modifica o adjetivo com valor de mais ou menos: é advérbio e fica invariável. Em II, quantifica o nome: é numeral fracionário e se ajusta ao nome que acompanha.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ]
 }

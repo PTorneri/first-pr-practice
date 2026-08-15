@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-15",
  "frente": "gramatica",
- "total": 377,
+ "total": 408,
  "residuo": [
   "dir-gramatica-01",
   "med-gramatica-25",
@@ -2266,6 +2266,192 @@
    "frenteDestino": "gramatica",
    "pontos": 8,
    "margem": 8
+  },
+  "med-gramatica-228": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-gramatica-229": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 4
+  },
+  "med-gramatica-230": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-231": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-gramatica-232": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-gramatica-233": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-gramatica-234": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-gramatica-235": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-gramatica-236": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-gramatica-237": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-gramatica-238": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-gramatica-239": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 5
+  },
+  "med-gramatica-240": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-gramatica-241": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-gramatica-242": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-gramatica-243": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-gramatica-244": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-gramatica-245": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-246": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-gramatica-247": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-248": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-gramatica-249": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-250": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 19,
+   "margem": 14
+  },
+  "med-gramatica-251": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-gramatica-252": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-gramatica-253": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-254": {
+   "subtema": "gramatica-pontuacao",
+   "frenteDestino": "gramatica",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-gramatica-255": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-gramatica-256": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "med-gramatica-257": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-gramatica-258": {
+   "subtema": "gramatica-morfologia",
+   "frenteDestino": "gramatica",
+   "pontos": 9,
+   "margem": 6
   }
  }
 }

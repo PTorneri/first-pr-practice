@@ -67197,6 +67197,686 @@ window.QUESTION_BANKS = {
    "resposta": "a",
    "explicacao": "Parte da doutrina passou a tratar o acesso à internet como direito social emergente, cuja ausência aprofunda desigualdades já existentes em educação, trabalho e acesso a serviços públicos. Descrevê-lo como privilégio comercial sob concessão é o distrator mais plausível, porque a prestação do serviço realmente se dá por concessão regulada — o que está em discussão é outra coisa: a natureza jurídica do acesso para o titular, não o regime de exploração. Chamá-lo de direito de terceira geração consolidado em tratado vinculante antecipa um reconhecimento que ainda não existe nesses termos. Tratá-lo como matéria estranha aos direitos humanos ignora o próprio debate. E supor acesso universalizado contraria os dados de exclusão digital.",
    "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-149",
+   "texto_apoio": "Em 10 de dezembro de 1948, a Assembleia Geral da recém-criada Organização das Nações Unidas aprovou um documento de trinta artigos que enunciava um rol de direitos reconhecidos a cada pessoa, sem distinção de origem, língua ou opinião.",
+   "enunciado": "O documento descrito e o contexto histórico que o motivou são, respectivamente:",
+   "alternativas": {
+    "a": "a Declaração Universal dos Direitos Humanos e a reação internacional às atrocidades da Segunda Guerra Mundial",
+    "b": "a Carta das Nações Unidas e a disputa entre as potências vencedoras pela partilha administrativa dos territórios coloniais africanos",
+    "c": "a Convenção de Genebra e o esforço de disciplinar o tratamento dispensado a prisioneiros de guerra em conflitos armados internacionais",
+    "d": "o Pacto de San José da Costa Rica e a redemocratização de países latino-americanos submetidos a regimes autoritários",
+    "e": "a Declaração dos Direitos do Homem e do Cidadão e o processo revolucionário francês de derrubada do absolutismo monárquico"
+   },
+   "resposta": "a",
+   "explicacao": "A Declaração Universal dos Direitos Humanos foi aprovada em 1948, três anos após o fim da Segunda Guerra Mundial, como resposta direta ao extermínio industrializado praticado pelo nazismo: se um Estado podia aniquilar os próprios habitantes sem violar sua lei interna, era preciso um patamar de proteção acima da vontade de cada soberano. É desse documento que nasce o sistema internacional de proteção. As demais alternativas nomeiam documentos reais, de datas e finalidades distintas.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-150",
+   "texto_apoio": "Um princípio clássico da matéria afirma que a titularidade dos direitos decorre da simples condição de ser pessoa, não dependendo de nacionalidade, de patrimônio ou de mérito individual.",
+   "enunciado": "Esse princípio é designado como:",
+   "alternativas": {
+    "a": "reciprocidade, segundo a qual o reconhecimento de um direito depende de que o beneficiário assuma antes um dever equivalente perante o Estado",
+    "b": "universalidade, segundo a qual os direitos humanos pertencem à pessoa por sua própria condição humana",
+    "c": "subsidiariedade, segundo a qual a proteção internacional atua depois de esgotados os recursos internos de cada país",
+    "d": "proporcionalidade, segundo a qual a restrição de um direito deve guardar medida com o fim legítimo que a justifica",
+    "e": "taxatividade, segundo a qual o rol de direitos protegidos se limita à lista expressa em documento escrito de alcance nacional"
+   },
+   "resposta": "b",
+   "explicacao": "Universalidade é a característica pela qual os direitos humanos se atribuem à pessoa por sua própria condição humana, sem exigir contrapartida, filiação nacional ou merecimento. Subsidiariedade e proporcionalidade são princípios verdadeiros do sistema internacional de proteção, mas descrevem, respectivamente, o momento de atuação dos órgãos internacionais e o método de solução de colisões, não a titularidade.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-151",
+   "texto_apoio": "Documentos internacionais afirmam que o exercício das liberdades civis se enfraquece quando faltam condições materiais mínimas de existência, e que estas, por sua vez, perdem sentido sem liberdade de escolha.",
+   "enunciado": "A característica dos direitos humanos enunciada nesse trecho é a:",
+   "alternativas": {
+    "a": "irretroatividade, pela qual uma norma nova não alcança situações já consolidadas sob a norma anterior",
+    "b": "reserva legal, pela qual a limitação de um direito depende de previsão em lei aprovada pelo Legislativo",
+    "c": "indivisibilidade, pela qual as diferentes categorias de direitos se sustentam mutuamente",
+    "d": "eficácia contida, pela qual a norma produz efeitos imediatos até que lei posterior reduza seu alcance",
+    "e": "renunciabilidade, pela qual o titular poderia dispor de seu direito mediante acordo escrito firmado com o poder público interessado"
+   },
+   "resposta": "c",
+   "explicacao": "Indivisibilidade é a característica pela qual as categorias de direitos formam um conjunto interdependente, sem hierarquia entre elas: liberdade sem condição material é abstrata, e condição material sem liberdade é tutela. A doutrina das gerações de direitos descreve a ordem histórica em que essas categorias foram reconhecidas, mas não autoriza sacrificar uma em nome da outra. As demais alternativas nomeiam institutos jurídicos reais, alheios ao trecho.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-152",
+   "texto_apoio": "Uma pessoa assina documento em que declara abrir mão, em caráter definitivo, de sua integridade física em troca de remuneração maior.",
+   "enunciado": "A cláusula é inválida porque os direitos humanos têm caráter:",
+   "alternativas": {
+    "a": "programático, o que os transformaria em meras diretrizes políticas dirigidas ao legislador futuro",
+    "b": "condicional, o que subordinaria sua fruição à contrapartida econômica ajustada entre as partes envolvidas",
+    "c": "supletivo, o que permitiria a acordos particulares substituir a norma protetiva havendo consenso das partes",
+    "d": "inalienável, o que impede que o titular transfira ou abra mão do núcleo essencial do direito",
+    "e": "dispositivo, o que autorizaria o afastamento da regra por manifestação de vontade formalizada em documento escrito"
+   },
+   "resposta": "d",
+   "explicacao": "Os direitos humanos são inalienáveis e irrenunciáveis: seu titular não pode transferi-los nem abrir mão de seu núcleo essencial, ainda que por vontade declarada e remunerada. É por isso que o consentimento não valida a degradação da própria pessoa, princípio reafirmado no sistema internacional de proteção. As demais alternativas descrevem regimes jurídicos que, se aplicados aqui, tornariam a renúncia possível, e por isso não explicam a invalidade.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-153",
+   "texto_apoio": "Tribunais internacionais têm afirmado que crimes contra a humanidade podem ser julgados décadas depois de cometidos, sem que a passagem do tempo extinga a possibilidade de responsabilização.",
+   "enunciado": "Essa afirmação apoia-se na característica dos direitos humanos conhecida como:",
+   "alternativas": {
+    "a": "relatividade, que admite a limitação recíproca de direitos em situações de colisão concreta entre eles",
+    "b": "historicidade, que reconhece a ampliação progressiva do rol de direitos ao longo do tempo",
+    "c": "efetividade, que exige do Estado medidas concretas de realização, e não só o reconhecimento formal",
+    "d": "vedação do retrocesso, que impede a supressão de patamares de proteção já alcançados por uma sociedade",
+    "e": "imprescritibilidade, que afasta a extinção da exigibilidade pelo decurso do prazo"
+   },
+   "resposta": "e",
+   "explicacao": "Imprescritibilidade significa que a exigibilidade não se extingue pelo decurso do tempo, marca que a história dos direitos humanos consolidou depois dos tribunais do pós-guerra e que sustenta o julgamento tardio de crimes contra a humanidade. As demais alternativas nomeiam características verdadeiras, mas nenhuma delas trata do efeito do tempo sobre a responsabilização.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-154",
+   "texto_apoio": "As primeiras declarações modernas de direitos, editadas entre os séculos XVIII e XIX, concentraram-se em impor limites à ação do Estado, exigindo dele sobretudo abstenção diante da esfera individual.",
+   "enunciado": "Os direitos assim caracterizados correspondem aos chamados direitos de:",
+   "alternativas": {
+    "a": "quarta geração, ligados à manipulação genética, à bioética e ao acesso ao patrimônio informacional da humanidade",
+    "b": "primeira geração, ligados às liberdades individuais e à participação política, que exigem abstenção estatal",
+    "c": "segunda geração, ligados a prestações materiais que o poder público deve oferecer mediante programas de longo prazo",
+    "d": "terceira geração, ligados à titularidade coletiva, como o ambiente equilibrado e a autodeterminação dos povos",
+    "e": "quinta geração, ligados ao debate contemporâneo sobre a paz como direito autônomo e sobre o ambiente digital comum"
+   },
+   "resposta": "b",
+   "explicacao": "Os direitos de primeira geração são as liberdades civis e políticas afirmadas contra o Estado absoluto: exigem dele abstenção, e não prestação. A classificação em gerações de direitos, formulada por Karel Vasak, organiza a ordem histórica de reconhecimento e não implica que as categorias posteriores substituam as anteriores. As demais alternativas descrevem corretamente as outras categorias, que não correspondem ao traço de abstenção enunciado no texto.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-155",
+   "texto_apoio": "Ao longo do século XX, cartas políticas passaram a inscrever deveres estatais de prestação, exigindo do poder público ações positivas em favor de condições materiais de existência.",
+   "enunciado": "Esses direitos, que reclamam do Estado uma atuação positiva, são classificados como direitos de:",
+   "alternativas": {
+    "a": "segunda geração, marcados pela exigência de prestações estatais de conteúdo econômico e cultural",
+    "b": "primeira geração, marcados pela contenção do poder estatal diante da liberdade e da propriedade individual",
+    "c": "terceira geração, marcados pela titularidade difusa e pela solidariedade entre povos e entre gerações",
+    "d": "quarta geração, marcados pelo avanço da biotecnologia e pelas questões do pluralismo informacional contemporâneo",
+    "e": "geração zero, categoria doutrinária que reuniria os deveres morais anteriores à formação do Estado moderno europeu"
+   },
+   "resposta": "a",
+   "explicacao": "Os direitos de segunda geração exigem do Estado prestações positivas de conteúdo econômico e cultural, e foram inscritos nas cartas políticas do século XX a partir dos textos mexicano de 1917 e alemão de 1919. A ordem das gerações de direitos é histórica, não hierárquica, e a classificação integra o vocabulário corrente dos direitos humanos. A quinta hipótese não corresponde a categoria reconhecida.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-156",
+   "texto_apoio": "O direito ao ambiente ecologicamente equilibrado, o direito ao desenvolvimento e o direito à paz têm em comum o fato de não pertencerem a um indivíduo determinado, mas à coletividade.",
+   "enunciado": "Essa titularidade compartilhada é a marca dos direitos de:",
+   "alternativas": {
+    "a": "primeira geração, cuja titularidade individual se afirma contra a interferência do poder político organizado",
+    "b": "segunda geração, cuja titularidade individual se realiza por meio de prestações materiais oferecidas pelo Estado",
+    "c": "quarta geração, cuja discussão se concentra nos limites éticos da intervenção sobre o patrimônio genético humano",
+    "d": "geração intermediária, categoria doutrinária proposta para abrigar os direitos processuais reconhecidos no século XIX",
+    "e": "terceira geração, cuja titularidade é difusa e se assenta no valor da solidariedade"
+   },
+   "resposta": "e",
+   "explicacao": "Os direitos de terceira geração têm titularidade difusa: pertencem à coletividade e não a um indivíduo identificável, e se assentam no valor da solidariedade, ao lado da fraternidade que fecha a tríade revolucionária francesa. A classificação em gerações de direitos ajuda a situá-los na trajetória dos direitos humanos. A quarta alternativa apresenta categoria inexistente na doutrina.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-157",
+   "texto_apoio": "Para uma corrente clássica do pensamento jurídico, existem direitos anteriores e superiores ao direito escrito, deduzidos da própria natureza humana e válidos independentemente do reconhecimento do soberano.",
+   "enunciado": "Essa corrente é conhecida como:",
+   "alternativas": {
+    "a": "realismo jurídico, corrente que identifica o direito com as decisões efetivamente proferidas pelos tribunais",
+    "b": "positivismo jurídico, corrente que reduz a validade da norma à sua produção conforme o procedimento previsto",
+    "c": "jusnaturalismo, corrente que reconhece direitos derivados da natureza humana, anteriores ao direito posto",
+    "d": "historicismo jurídico, corrente que explica o direito como produto do espírito de um povo em cada etapa de sua formação",
+    "e": "pluralismo jurídico, corrente que admite a coexistência de ordens normativas estatais e não estatais num mesmo território"
+   },
+   "resposta": "c",
+   "explicacao": "O jusnaturalismo sustenta a existência de direitos derivados da natureza humana, anteriores e superiores ao direito posto pelo Estado, e é a matriz filosófica das declarações setecentistas que fundam a linguagem moderna dos direitos humanos. O positivismo jurídico, por contraste, condiciona a validade da norma ao procedimento de sua produção. As demais correntes existem e são relevantes, mas respondem a outras perguntas.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-158",
+   "texto_apoio": "Num fórum internacional, uma delegação sustenta que padrões internacionais de proteção seriam imposição de valores ocidentais, e que práticas tradicionais locais deveriam prevalecer sobre eles.",
+   "enunciado": "A posição defendida por essa delegação, no debate teórico da área, é chamada de:",
+   "alternativas": {
+    "a": "cosmopolitismo jurídico, que defende a formação de uma ordem normativa mundial acima da soberania dos Estados",
+    "b": "universalismo, que sustenta a validade dos direitos humanos acima das particularidades de cada tradição cultural",
+    "c": "multilateralismo, que valoriza a negociação entre Estados como via preferencial de solução de controvérsias",
+    "d": "relativismo cultural, que condiciona a validade dos direitos ao contexto cultural de cada sociedade",
+    "e": "pacifismo institucional, que aposta na criação de organismos internacionais como caminho para a contenção de conflitos"
+   },
+   "resposta": "d",
+   "explicacao": "O relativismo cultural condiciona a validade dos direitos ao contexto cultural em que se aplicam, e é a objeção clássica ao universalismo, que os afirma acima de cada tradição particular. O debate é permanente no sistema internacional de proteção, porque a recusa do universalismo pode servir tanto à defesa legítima da diversidade quanto ao acobertamento de violações praticadas em nome da tradição.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-159",
+   "texto_apoio": "Uma vítima de violação atribuída ao Estado brasileiro, depois de esgotar as instâncias internas, apresenta petição a um órgão sediado em Washington, que analisa a admissibilidade do caso e pode encaminhá-lo a um tribunal sediado em San José da Costa Rica.",
+   "enunciado": "Os dois órgãos mencionados são, respectivamente:",
+   "alternativas": {
+    "a": "o Tribunal Internacional de Justiça e a Assembleia Geral da Organização das Nações Unidas",
+    "b": "o Conselho de Direitos Humanos da ONU e o Tribunal Internacional de Justiça, sediado na cidade de Haia",
+    "c": "a Organização Internacional do Trabalho e o Comitê de Peritos encarregado da aplicação das convenções laborais",
+    "d": "o Alto Comissariado das Nações Unidas para Refugiados e o Tribunal Europeu sediado em Estrasburgo",
+    "e": "a Comissão Interamericana de Direitos Humanos e a Corte Interamericana de Direitos Humanos"
+   },
+   "resposta": "e",
+   "explicacao": "A Comissão Interamericana de Direitos Humanos, sediada em Washington, recebe e examina a admissibilidade das petições individuais; a Corte Interamericana de Direitos Humanos, sediada em San José da Costa Rica, julga os casos que a Comissão lhe submete e profere sentenças vinculantes. Os dois órgãos formam o sistema interamericano de proteção, ligado à OEA. Os demais órgãos citados existem e atuam em outras esferas.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-160",
+   "texto_apoio": "O principal tratado do sistema regional americano, adotado em 1969 e ratificado pelo Brasil em 1992, enuncia direitos civis e políticos e cria mecanismos de responsabilização dos Estados que os descumprem.",
+   "enunciado": "Esse tratado é conhecido como:",
+   "alternativas": {
+    "a": "Pacto de San José da Costa Rica, também chamado Convenção Americana sobre Direitos Humanos",
+    "b": "Carta Democrática Interamericana, documento adotado em 2001 para a defesa da ordem democrática na região",
+    "c": "Protocolo de Kyoto, instrumento voltado à redução das emissões de gases responsáveis pelo efeito estufa",
+    "d": "Convenção de Viena, instrumento que codifica as regras gerais de celebração e interpretação de tratados",
+    "e": "Declaração de Estocolmo, documento resultante da primeira conferência mundial dedicada ao ambiente humano"
+   },
+   "resposta": "a",
+   "explicacao": "A Convenção Americana sobre Direitos Humanos, conhecida como Pacto de San José da Costa Rica, foi adotada em 1969 no âmbito da OEA e ratificada pelo Brasil em 1992; é dela que decorre a competência contenciosa da Corte Interamericana, aceita pelo país em 1998. Os demais documentos são reais e integram outros regimes internacionais, alheios ao sistema regional de proteção da pessoa.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-161",
+   "texto_apoio": "Em decisão de 2010, um tribunal regional condenou o Estado brasileiro no caso Gomes Lund, sobre o desaparecimento de opositores durante o regime militar, e considerou que a lei de anistia de 1979 não poderia impedir a apuração dos fatos.",
+   "enunciado": "A consequência jurídica desse tipo de condenação para o Brasil é que:",
+   "alternativas": {
+    "a": "a sentença revogaria automaticamente a lei interna incompatível, produzindo efeito imediato na ordem doméstica",
+    "b": "a decisão valeria como recomendação de natureza moral, sem produzir obrigação jurídica para o Estado condenado",
+    "c": "a sentença dependeria de homologação por referendo popular para produzir efeitos no território nacional brasileiro",
+    "d": "o Estado assume obrigação internacional de cumprir a sentença, adotando as medidas internas necessárias",
+    "e": "a decisão alcançaria só os agentes individualmente responsabilizados, sem criar dever de reparação para o Estado brasileiro"
+   },
+   "resposta": "d",
+   "explicacao": "A sentença da Corte Interamericana de Direitos Humanos vincula o Estado condenado, que assume a obrigação internacional de cumpri-la adotando as medidas internas necessárias, entre elas investigar, reparar e ajustar sua legislação. O que a decisão não faz é revogar por si a lei interna: a incompatibilidade declarada gera dever de adequação, e a resistência doméstica a esse dever é justamente o ponto de tensão que o caso Gomes Lund expôs no Brasil.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-162",
+   "texto_apoio": "Desde a Emenda Constitucional 45, de 2004, um tratado de direitos humanos aprovado em dois turnos, nas duas Casas do Congresso Nacional, por três quintos dos votos, adquire estatuto normativo especial no Brasil.",
+   "enunciado": "O estatuto adquirido nessas condições é o de:",
+   "alternativas": {
+    "a": "lei complementar, situada acima da lei ordinária e abaixo do texto constitucional em vigor",
+    "b": "emenda constitucional, com hierarquia equivalente à das normas do próprio texto constitucional",
+    "c": "decreto legislativo, ato de competência privativa do Congresso para referendar compromissos externos",
+    "d": "lei delegada, ato editado pela chefia do Executivo mediante autorização prévia concedida pelo Legislativo",
+    "e": "medida provisória, ato de vigência temporária submetido à apreciação posterior das Casas legislativas"
+   },
+   "resposta": "b",
+   "explicacao": "Um tratado de direitos humanos aprovado pelo rito reforçado introduzido em 2004 ingressa na ordem interna com hierarquia de emenda constitucional. Os tratados do gênero aprovados pelo rito comum têm, segundo o entendimento firmado em 2008, estatuto supralegal: acima das leis, abaixo do texto constitucional. A Convenção sobre os Direitos das Pessoas com Deficiência, de 2008, foi o primeiro a percorrer o rito reforçado.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-163",
+   "texto_apoio": "Em 1215, barões ingleses impuseram ao rei João Sem Terra um documento que limitava a cobrança de tributos sem consentimento e assegurava que homem livre não seria detido sem julgamento pelos seus pares.",
+   "enunciado": "Esse documento, marco recorrente na história dos direitos humanos, é a:",
+   "alternativas": {
+    "a": "Petição de Direitos, apresentada ao rei Carlos I em 1628 pelo Parlamento inglês em conflito com a Coroa",
+    "b": "Declaração de Independência, redigida em 1776 pelas treze colônias inglesas da América do Norte",
+    "c": "Magna Carta, imposta ao rei da Inglaterra em 1215 pela nobreza feudal",
+    "d": "Declaração dos Direitos do Homem e do Cidadão, aprovada em 1789 pela Assembleia Nacional francesa",
+    "e": "Bill of Rights, aprovado em 1689 após a Revolução Gloriosa, que consolidou a supremacia do Parlamento inglês"
+   },
+   "resposta": "c",
+   "explicacao": "A Magna Carta de 1215 é o documento imposto por barões ingleses ao rei João Sem Terra. Seu conteúdo era estamental, não universal: assegurava franquias aos homens livres de então, uma minoria da população. Ainda assim, entrou na história dos direitos humanos por inaugurar a ideia de que o poder do soberano encontra limite jurídico. As demais alternativas apresentam documentos reais de datas posteriores.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-164",
+   "texto_apoio": "Aprovada em agosto de 1789 pela Assembleia Nacional Constituinte francesa, uma declaração proclamou que os homens nascem livres e iguais em direitos e que a finalidade da associação política é a conservação dos direitos naturais.",
+   "enunciado": "Esse documento é considerado marco do reconhecimento moderno dos direitos humanos porque:",
+   "alternativas": {
+    "a": "criou um tribunal internacional destinado a julgar os governantes que violassem os direitos ali proclamados",
+    "b": "estabeleceu prestações materiais a cargo do Estado em favor dos setores de menor renda da população francesa",
+    "c": "condicionou a titularidade dos direitos proclamados à posse de bens imóveis registrados em cartório público",
+    "d": "enunciou direitos como atributos da pessoa, e não como concessões do soberano",
+    "e": "transferiu ao clero e à nobreza a tarefa de fiscalizar o cumprimento das liberdades ali solenemente proclamadas"
+   },
+   "resposta": "d",
+   "explicacao": "A Declaração de 1789 inverte a lógica anterior: os direitos deixam de ser franquias concedidas pelo soberano e passam a ser atributos que a pessoa traz consigo, cabendo ao poder político conservá-los. É essa inversão que faz do texto um marco na história dos direitos humanos. Os limites do documento são conhecidos — o sufrágio censitário e a exclusão dos escravizados nas colônias —, mas eles não decorrem das hipóteses descritas nas demais alternativas.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-165",
+   "texto_apoio": "Em 1966, a Assembleia Geral da ONU adotou dois pactos internacionais que converteram em obrigações vinculantes o conteúdo antes proclamado em 1948: um sobre direitos civis e políticos, outro sobre direitos econômicos, sociais e culturais.",
+   "enunciado": "A razão de esse conteúdo ter sido desdobrado em dois pactos distintos foi:",
+   "alternativas": {
+    "a": "a exigência de que cada pacto fosse redigido em idioma diverso, para facilitar sua difusão entre os Estados-membros",
+    "b": "a decisão de reservar o primeiro pacto aos países já industrializados e o segundo aos países recém-descolonizados",
+    "c": "a necessidade de submeter cada categoria de direitos a um tribunal internacional próprio, criado no mesmo ato",
+    "d": "a intenção de revogar a declaração de 1948, considerada superada pelos Estados signatários daquele período",
+    "e": "a divergência da Guerra Fria sobre quais direitos priorizar"
+   },
+   "resposta": "e",
+   "explicacao": "O desdobramento em dois pactos reflete a divisão política da Guerra Fria: o bloco ocidental priorizava as liberdades civis e políticas, e o bloco socialista, os direitos econômicos e culturais. Cada lado aceitou vincular-se ao que já defendia. Os dois pactos, somados à declaração de 1948, formam a chamada Carta Internacional dos Direitos Humanos, e a separação entre eles é hoje criticada justamente por sugerir uma hierarquia entre gerações de direitos que a indivisibilidade nega.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-166",
+   "texto_apoio": "Periodicamente, cada Estado-membro da ONU submete-se a um exame em que outros países avaliam sua situação interna e formulam recomendações, num mecanismo criado em 2006 junto com o órgão que o conduz.",
+   "enunciado": "Esse mecanismo é conhecido como:",
+   "alternativas": {
+    "a": "cláusula democrática, dispositivo que suspende de blocos regionais o país que sofrer ruptura institucional grave",
+    "b": "jurisdição universal, princípio que autoriza tribunais nacionais a julgar crimes graves cometidos no exterior",
+    "c": "Revisão Periódica Universal, exame por pares conduzido pelo Conselho de Direitos Humanos da ONU",
+    "d": "cláusula de reserva, faculdade de o Estado excluir a aplicação de dispositivos determinados de um tratado",
+    "e": "denúncia individual, procedimento em que a vítima leva o caso a comitê internacional depois de esgotadas as vias internas"
+   },
+   "resposta": "c",
+   "explicacao": "A Revisão Periódica Universal é o exame por pares a que cada Estado-membro se submete perante o Conselho de Direitos Humanos da ONU, criado em 2006 em substituição à antiga Comissão. Seu efeito é político e reputacional, não sancionatório, o que a distingue dos mecanismos contenciosos do sistema internacional de proteção. As demais alternativas descrevem institutos reais de outras finalidades.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-167",
+   "texto_apoio": "A doutrina costuma reservar uma expressão para os direitos reconhecidos em documentos internacionais, com pretensão de validade para pessoas de países diversos, e outra para esses mesmos direitos quando positivados na ordem jurídica interna de um país.",
+   "enunciado": "Essa distinção terminológica opõe:",
+   "alternativas": {
+    "a": "direitos humanos e direitos fundamentais, conforme o plano seja o internacional ou o interno",
+    "b": "direitos subjetivos e direitos objetivos, conforme se examine a faculdade do titular ou a norma que a institui",
+    "c": "direitos difusos e direitos coletivos, conforme o grupo atingido seja indeterminável ou ligado por relação jurídica",
+    "d": "direitos originários e direitos derivados, conforme decorram da natureza humana ou de ato posterior de concessão",
+    "e": "direitos públicos e direitos privados, conforme a relação envolva o poder estatal ou só particulares entre si"
+   },
+   "resposta": "a",
+   "explicacao": "A distinção é de plano normativo, não de conteúdo: fala-se em direitos humanos no plano internacional, onde valem os tratados e o sistema internacional de proteção, e em direitos fundamentais quando os mesmos direitos aparecem positivados na ordem interna de um país. Trata-se de convenção terminológica consolidada na história dos direitos humanos, e não de dois rols distintos. As demais oposições existem e classificam os direitos por outros critérios.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-168",
+   "texto_apoio": "Um teórico italiano afirmou que os direitos não nascem de uma vez por todas, mas surgem quando devem e podem surgir, conforme as condições históricas de cada época.",
+   "enunciado": "A tese enunciada nesse trecho é a da:",
+   "alternativas": {
+    "a": "fundamentação metafísica, segundo a qual o rol de direitos decorreria de uma ordem moral imutável e acessível pela razão",
+    "b": "historicidade dos direitos, segundo a qual seu rol se amplia conforme as condições sociais de cada época",
+    "c": "eficácia vinculante, segundo a qual a norma internacional obriga o Estado desde o depósito do instrumento de ratificação",
+    "d": "supremacia normativa, segundo a qual a norma de hierarquia superior invalida a norma inferior com ela conflitante",
+    "e": "reserva de jurisdição, segundo a qual determinadas restrições dependem de decisão proferida por autoridade judicial"
+   },
+   "resposta": "b",
+   "explicacao": "A tese é a da historicidade, formulada por Norberto Bobbio: o rol de direitos não é dado de antemão pela razão, mas se amplia conforme as lutas e as condições sociais de cada época — o que explica por que a história dos direitos humanos é uma sucessão de conquistas, e não a descoberta de um catálogo pronto. Essa posição se opõe à fundamentação metafísica, e as demais alternativas nomeiam princípios jurídicos reais, alheios ao trecho.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-169",
+   "texto_apoio": "Um filósofo do século XVIII formulou que as coisas têm preço e podem ser substituídas por um equivalente, mas aquilo que não admite equivalente algum tem dignidade.",
+   "enunciado": "Essa formulação é a base filosófica do princípio que veda:",
+   "alternativas": {
+    "a": "a limitação recíproca de direitos em situações de colisão concreta entre bens jurídicos protegidos",
+    "b": "a incorporação de normas internacionais ao direito interno sem prévia autorização do Legislativo nacional",
+    "c": "tratar a pessoa como meio para fins alheios, reduzindo-a à condição de instrumento",
+    "d": "a criação de tribunais internacionais com competência para julgar agentes públicos de Estados soberanos",
+    "e": "a aplicação de normas de proteção a estrangeiros que se encontrem em situação migratória irregular no país"
+   },
+   "resposta": "c",
+   "explicacao": "A fórmula kantiana do valor sem equivalente é a matriz filosófica da dignidade da pessoa humana, princípio que veda tratar alguém como simples meio para fins alheios. É essa ideia que a história dos direitos humanos recolhe e transforma em norma jurídica no século XX. As demais alternativas descrevem regras verdadeiras do direito, sem relação com o argumento do texto.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-170",
+   "texto_apoio": "Ao analisar a situação dos apátridas e dos refugiados no entreguerras, uma pensadora alemã observou que pessoas expulsas de sua comunidade política perdiam, junto com a nacionalidade, a própria possibilidade de reclamar proteção.",
+   "enunciado": "A conclusão que ela extraiu dessa observação foi a de que:",
+   "alternativas": {
+    "a": "a proteção internacional seria suficiente para suprir a perda do vínculo com uma comunidade política determinada",
+    "b": "a condição de apátrida decorreria de escolha individual, e por isso dispensaria medidas de acolhimento pelos Estados receptores",
+    "c": "a nacionalidade teria perdido relevância jurídica com a criação de organizações internacionais no século XX",
+    "d": "o reconhecimento formal de direitos em declarações solenes bastaria para assegurar sua fruição por pessoas destituídas de documentos",
+    "e": "o primeiro dos direitos é o direito a ter direitos, isto é, a pertencer a uma comunidade que os reconheça"
+   },
+   "resposta": "e",
+   "explicacao": "Hannah Arendt observou que a proclamação de direitos inerentes à pessoa se revelou impotente diante de quem havia perdido o vínculo com uma comunidade política: sem Estado que o reconhecesse, o apátrida não tinha a quem reclamar. Daí a formulação do direito a ter direitos, uma das críticas mais duradouras da história dos direitos humanos e o motivo pelo qual a proteção internacional se organizou depois de 1945.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-171",
+   "texto_apoio": "A Convenção de 1951 sobre o Estatuto dos Refugiados proíbe que um Estado devolva pessoa a território onde sua vida ou liberdade esteja ameaçada por motivo de raça, religião, nacionalidade, opinião política ou pertencimento a grupo determinado.",
+   "enunciado": "Essa proibição é conhecida como princípio:",
+   "alternativas": {
+    "a": "da não devolução, ou non-refoulement, núcleo do regime de amparo ao refugiado",
+    "b": "da reciprocidade diplomática, pelo qual o tratamento concedido a um estrangeiro espelha o dispensado aos nacionais no exterior",
+    "c": "do esgotamento prévio, pelo qual a via internacional se abre depois de percorridos os recursos internos do Estado",
+    "d": "da soberania territorial, pelo qual cabe a cada Estado decidir livremente sobre a entrada de estrangeiros em seu território",
+    "e": "da extraterritorialidade, pelo qual determinados agentes escapam à jurisdição do país em que se encontram"
+   },
+   "resposta": "a",
+   "explicacao": "O non-refoulement, ou princípio da não devolução, veda o retorno forçado da pessoa a território onde corra risco de perseguição, e é considerado hoje norma imperativa do sistema internacional de proteção — vincula inclusive Estados que não ratificaram a Convenção de 1951. As demais alternativas nomeiam princípios reais do direito internacional dos direitos humanos, de conteúdo distinto.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-172",
+   "texto_apoio": "Órgãos internacionais distinguem duas situações: a da pessoa que deixa seu país por decisão própria, em busca de melhores condições de vida, e a da pessoa que o deixa por fundado temor de perseguição.",
+   "enunciado": "A segunda situação corresponde à condição de:",
+   "alternativas": {
+    "a": "asilado diplomático, que recebe abrigo em representação estrangeira em razão de perseguição de natureza política",
+    "b": "apátrida, pessoa que não é reconhecida como nacional por Estado algum segundo a legislação deste",
+    "c": "deslocado interno, pessoa que abandona sua região de origem sem atravessar fronteira internacional reconhecida",
+    "d": "refugiado, cuja proteção decorre da Convenção de 1951 e do fundado temor de perseguição",
+    "e": "migrante econômico, pessoa que se desloca por razões de renda ou de ocupação, sem alegar perseguição pessoal"
+   },
+   "resposta": "d",
+   "explicacao": "O refugiado é definido pela Convenção de 1951 a partir do fundado temor de perseguição por motivo de raça, religião, nacionalidade, opinião política ou pertencimento a grupo determinado, e por isso recebe estatuto próprio no sistema internacional de proteção. O migrante econômico se desloca por outras razões e não dispõe do mesmo regime, ainda que também seja titular de direitos humanos. Asilado, apátrida e deslocado interno são categorias reais, de definição distinta.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-173",
+   "texto_apoio": "Entre 1945 e 1946, um tribunal instalado numa cidade alemã julgou dirigentes do regime nazista e rejeitou a alegação de que o cumprimento de ordens superiores e a obediência à lei então vigente excluiriam a responsabilidade dos acusados.",
+   "enunciado": "A importância desse julgamento para a formação do direito internacional está em:",
+   "alternativas": {
+    "a": "ter criado uma corte regional de caráter permanente, com jurisdição sobre os Estados do continente europeu",
+    "b": "afirmar a responsabilidade individual por crimes contra a humanidade, acima da lei interna do Estado",
+    "c": "estabelecer que a obediência a ordens superiores afasta a responsabilidade do agente subordinado ao comando",
+    "d": "reconhecer aos Estados a faculdade de julgar seus próprios dirigentes segundo critérios definidos internamente",
+    "e": "condicionar a responsabilização de dirigentes à existência de tratado firmado antes dos fatos pelo país deles"
+   },
+   "resposta": "b",
+   "explicacao": "Nuremberg firmou que o indivíduo responde por crimes contra a humanidade ainda que sua conduta estivesse autorizada pela lei interna, e que a obediência a ordens superiores não exclui essa responsabilidade. O julgamento é um divisor de águas na história dos direitos humanos: é a partir dele que o modo como um Estado trata seus próprios habitantes deixa de ser assunto doméstico. A objeção de que o tribunal aplicou norma posterior aos fatos é real e continua debatida, mas não corresponde a nenhuma das demais alternativas.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-174",
+   "texto_apoio": "Aprovada pela ONU um dia antes da declaração de 1948, uma convenção definiu como crime a prática de atos cometidos com a intenção de destruir, no todo ou em parte, um grupo nacional, étnico, racial ou religioso.",
+   "enunciado": "O elemento que, nessa definição, distingue o genocídio de outros crimes cometidos em massa é:",
+   "alternativas": {
+    "a": "o número absoluto de vítimas atingidas, que deveria superar o patamar fixado pelo próprio tratado internacional",
+    "b": "a existência de conflito armado internacional declarado entre dois ou mais Estados no momento dos fatos",
+    "c": "o envolvimento imediato de agentes estatais, sem o qual a conduta se enquadraria em tipo comum de homicídio",
+    "d": "a repercussão internacional do episódio, medida pela reação diplomática dos demais Estados envolvidos",
+    "e": "a intenção específica de destruir um grupo como tal, e não só de atingir seus integrantes"
+   },
+   "resposta": "e",
+   "explicacao": "O que caracteriza o genocídio é o dolo específico de destruir um grupo nacional, étnico, racial ou religioso como tal: a vítima é atingida por pertencer ao grupo, e o alvo último é o grupo. Sem esse elemento subjetivo a conduta é outro crime, ainda que numeroso. A Convenção de 1948 e a declaração universal aprovada no dia seguinte formam a dupla de textos com que o sistema internacional de proteção respondeu ao extermínio nazista.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-175",
+   "texto_apoio": "A Conferência Mundial realizada em Viena, em 1993, reafirmou num único enunciado que os direitos são universais, indivisíveis, interdependentes e inter-relacionados, devendo ser tratados de forma global e equitativa.",
+   "enunciado": "Esse enunciado responde diretamente à objeção de que:",
+   "alternativas": {
+    "a": "os tratados internacionais só obrigariam os Estados que os tenham ratificado sem apresentar reserva",
+    "b": "a proteção internacional dependeria do esgotamento prévio das instâncias internas de cada país signatário",
+    "c": "haveria hierarquia entre categorias de direitos, autorizando adiar umas em nome de outras",
+    "d": "a criação de tribunais internacionais dependeria de autorização unânime do Conselho de Segurança da ONU",
+    "e": "o reconhecimento de direitos em documento internacional dispensaria sua incorporação à ordem interna estatal"
+   },
+   "resposta": "c",
+   "explicacao": "A fórmula de Viena reafirma a universalidade e a indivisibilidade justamente contra o argumento, corrente na Guerra Fria e retomado depois, de que haveria uma ordem de precedência entre categorias de direitos — de que seria legítimo adiar as liberdades civis em nome do desenvolvimento, ou o inverso. A doutrina das gerações de direitos descreve uma sequência histórica, e a Conferência de 1993 deixou claro que ela não autoriza hierarquia.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-176",
+   "texto_apoio": "A doutrina contemporânea desdobra o dever estatal em três níveis: abster-se de violar, impedir que terceiros violem e adotar medidas positivas para tornar o direito efetivo.",
+   "enunciado": "Esses três níveis são designados, respectivamente, como obrigações de:",
+   "alternativas": {
+    "a": "respeitar, proteger e realizar, na ordem em que o texto os enuncia",
+    "b": "ratificar, incorporar e regulamentar, sequência que descreve o ingresso da norma internacional na ordem interna",
+    "c": "denunciar, reservar e aderir, faculdades que o Estado exerce diante do texto de um compromisso internacional",
+    "d": "legislar, executar e julgar, funções repartidas entre os órgãos que compõem a estrutura do Estado moderno",
+    "e": "prevenir, investigar e reparar, sequência de deveres que surge depois de consumada uma violação de direitos"
+   },
+   "resposta": "a",
+   "explicacao": "A tríade respeitar, proteger e realizar organiza os deveres do Estado em matéria de direitos humanos: abstenção, proteção contra terceiros e prestação positiva. Ela desfaz a ideia de que só os direitos de segunda geração custariam dinheiro — o dever de proteger exige estrutura em qualquer categoria. Prevenir, investigar e reparar é outra tríade real, consagrada pelo sistema internacional de proteção, mas descreve os deveres posteriores à violação.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-177",
+   "texto_apoio": "Diante de duas normas aplicáveis ao mesmo caso, uma de origem interna e outra de origem internacional, a solução consagrada na matéria manda aplicar a que ofereça proteção mais ampla à vítima.",
+   "enunciado": "Essa solução é conhecida como princípio:",
+   "alternativas": {
+    "a": "da especialidade, pelo qual a norma que trata do tema em detalhe afasta a de conteúdo mais geral",
+    "b": "pro persona, ou da primazia da norma mais favorável à pessoa protegida",
+    "c": "da anterioridade, pelo qual a norma mais antiga prevalece sobre a superveniente em caso de conflito",
+    "d": "da hierarquia formal, pelo qual a norma de estatuto superior afasta a inferior com ela incompatível",
+    "e": "da reserva de plenário, pelo qual a recusa de aplicação de uma lei exige decisão da maioria absoluta do tribunal"
+   },
+   "resposta": "b",
+   "explicacao": "O princípio pro persona determina que, entre normas aplicáveis, prevaleça a mais favorável à pessoa protegida, independentemente de sua origem ou hierarquia formal. É por isso que um tratado de direitos humanos não é aplicado pela régua comum do conflito de normas: a lógica é de proteção, e não de superioridade formal. As demais alternativas descrevem critérios verdadeiros de solução de antinomias, alheios a essa lógica.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-178",
+   "texto_apoio": "Ao decidir um caso, um juiz brasileiro deixa de aplicar dispositivo de lei interna por considerá-lo incompatível com tratado internacional de proteção da pessoa já ratificado pelo país.",
+   "enunciado": "Essa técnica de julgamento é chamada de controle:",
+   "alternativas": {
+    "a": "administrativo interno, exercido pela própria administração sobre os atos que ela mesma edita",
+    "b": "de mérito administrativo, incidente sobre a conveniência e a oportunidade da decisão tomada pelo gestor",
+    "c": "prévio de compatibilidade, realizado pelo Congresso antes de autorizar a ratificação de um compromisso externo",
+    "d": "de convencionalidade, confronto entre a norma interna e o tratado internacional em vigor",
+    "e": "de proporcionalidade em sentido estrito, ponderação entre o benefício obtido e o sacrifício imposto ao direito"
+   },
+   "resposta": "d",
+   "explicacao": "Controle de convencionalidade é o confronto entre a norma interna e o tratado internacional ratificado, com afastamento da primeira em caso de incompatibilidade. A doutrina foi formulada pela Corte Interamericana e dela decorre que o dever de compatibilizar recai sobre cada juiz nacional, e não somente sobre os órgãos de cúpula. É por essa via que os direitos humanos previstos em tratados alcançam o caso concreto sem depender de nova lei.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-179",
+   "texto_apoio": "Além do sistema global, ligado à ONU, existem arranjos regionais de proteção da pessoa, cada um com sua carta própria de direitos e com órgãos próprios de supervisão.",
+   "enunciado": "Os três sistemas regionais hoje consolidados correspondem aos continentes:",
+   "alternativas": {
+    "a": "americano, europeu e africano",
+    "b": "americano, asiático e africano, este último organizado em torno de comissão sediada na cidade de Banjul",
+    "c": "europeu, asiático e oceânico, agrupados sob a coordenação de um comitê permanente de peritos independentes",
+    "d": "americano, europeu e asiático, articulados por uma corte comum sediada na cidade de Haia desde 1959",
+    "e": "europeu, africano e oceânico, reunidos periodicamente em conferência intergovernamental de revisão de padrões"
+   },
+   "resposta": "a",
+   "explicacao": "Os três arranjos regionais consolidados são o interamericano, o europeu e o africano, cada um com sua carta e seus órgãos. O sistema interamericano é o que alcança o Brasil, por meio da OEA. Não há sistema regional asiático nem oceânico equivalente, embora existam iniciativas sub-regionais de menor alcance, e é por isso que a proteção nessas regiões depende sobretudo do plano global dos direitos humanos.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-180",
+   "texto_apoio": "Aprovado pela ONU em 2011, um documento estruturou o tema em três pilares: o dever do Estado de proteger, a responsabilidade da empresa de respeitar e o acesso das vítimas a mecanismos de reparação.",
+   "enunciado": "Esse documento, conhecido como Princípios Orientadores sobre Empresas e Direitos Humanos, inovou ao:",
+   "alternativas": {
+    "a": "criar tribunal internacional com competência para julgar diretamente as corporações transnacionais infratoras",
+    "b": "transferir ao Estado de origem da empresa a responsabilidade integral pelos danos causados no exterior",
+    "c": "atribuir às empresas responsabilidade de respeitar direitos, ainda sem força de tratado vinculante",
+    "d": "condicionar a atuação das corporações à celebração de acordo prévio com as comunidades de cada território",
+    "e": "substituir a legislação laboral de cada país por padrão internacional uniforme de conduta empresarial"
+   },
+   "resposta": "c",
+   "explicacao": "Os Princípios Orientadores de 2011 romperam com a ideia de que só o Estado figura como destinatário de deveres, atribuindo à empresa a responsabilidade de respeitar direitos e de exercer diligência sobre sua cadeia de fornecimento. São, porém, instrumento de adesão voluntária, sem força de tratado — a negociação de um instrumento vinculante segue em curso no sistema internacional de proteção, e essa lacuna é a principal crítica que recebem.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-181",
+   "texto_apoio": "Ao aderir a um compromisso internacional, um Estado declara que não se considera obrigado por determinado dispositivo, mantendo-se vinculado ao restante do texto.",
+   "enunciado": "Essa declaração unilateral é denominada:",
+   "alternativas": {
+    "a": "denúncia, ato pelo qual o Estado se desliga integralmente do compromisso assumido, observado o prazo previsto",
+    "b": "ratificação, ato pelo qual o Estado confirma no plano internacional o compromisso assinado por seu representante",
+    "c": "adesão, ato pelo qual um Estado que não participou da negociação passa a integrar o tratado já em vigor",
+    "d": "promulgação, ato interno que dá publicidade ao texto e o torna executável perante os órgãos nacionais",
+    "e": "reserva, admitida se compatível com o objeto e a finalidade do tratado"
+   },
+   "resposta": "e",
+   "explicacao": "Reserva é a declaração unilateral pela qual o Estado exclui ou modifica o efeito de dispositivos determinados, mantendo-se vinculado ao restante. Num tratado de direitos humanos ela encontra limite adicional: reservas incompatíveis com o objeto e a finalidade do texto são inválidas, porque esvaziariam a proteção que justifica o próprio compromisso. As demais alternativas nomeiam atos reais de outra função no ciclo de vida de um tratado.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-182",
+   "texto_apoio": "O avanço das técnicas de edição do genoma e o acúmulo de dados pessoais em bases digitais suscitaram, no debate contemporâneo, a proposta de reconhecer uma nova categoria de direitos.",
+   "enunciado": "Na classificação doutrinária mais difundida, essa categoria é designada como direitos de:",
+   "alternativas": {
+    "a": "primeira geração, por dizer respeito à esfera individual protegida contra a intromissão do poder político",
+    "b": "quarta geração, associados à bioética, ao patrimônio genético e ao pluralismo informacional",
+    "c": "segunda geração, por reclamar do Estado prestações positivas de conteúdo econômico e cultural",
+    "d": "terceira geração, por terem titularidade difusa e se apoiarem no valor da solidariedade entre os povos",
+    "e": "geração residual, categoria doutrinária destinada a acolher os direitos ainda não classificados pelos autores"
+   },
+   "resposta": "b",
+   "explicacao": "A quarta geração de direitos reúne as questões abertas pela biotecnologia e pelo tratamento massivo de dados, e é a extensão mais recente da classificação em gerações de direitos formulada por Karel Vasak. Trata-se de categoria doutrinária, ainda em disputa quanto ao conteúdo, e não de um rol fechado de direitos humanos positivados. A quinta alternativa apresenta categoria inexistente.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-183",
+   "texto_apoio": "Um sociólogo português propôs que o diálogo entre culturas parta do reconhecimento de que cada uma delas é incompleta, e de que o encontro com a outra é o que permite perceber essa incompletude.",
+   "enunciado": "Essa proposta pretende superar o impasse entre:",
+   "alternativas": {
+    "a": "o direito interno e o direito internacional, disputando qual deles prevalece em caso de conflito de normas",
+    "b": "a via judicial e a via administrativa, disputando qual delas atende com mais rapidez o titular do direito",
+    "c": "as obrigações de resultado e as de meio, disputando qual grau de exigência recai sobre o Estado devedor",
+    "d": "o universalismo abstrato e o relativismo cultural, na afirmação dos direitos",
+    "e": "o financiamento público e o privado, disputando de onde devem sair os recursos das ações de proteção"
+   },
+   "resposta": "d",
+   "explicacao": "A hermenêutica diatópica proposta por Boaventura de Sousa Santos busca uma terceira via entre o universalismo abstrato, que impõe um padrão único, e o relativismo cultural, que dissolve a crítica aos direitos violados dentro de cada tradição. A saída é construir o que ele chama de multiculturalismo emancipatório, ampliando por diálogo o consenso sobre os direitos humanos em vez de pressupô-lo. É uma das contribuições do Sul global ao sistema internacional de proteção.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-184",
+   "texto_apoio": "A declaração de 1948 foi aprovada como resolução da Assembleia Geral, sem a forma de tratado, o que levou parte da doutrina a discutir sua força obrigatória para os Estados.",
+   "enunciado": "O entendimento hoje predominante sobre essa questão é o de que a declaração:",
+   "alternativas": {
+    "a": "adquiriu força obrigatória como costume internacional, além de inspirar os tratados posteriores",
+    "b": "permanece sem efeito jurídico algum, funcionando como mera recomendação política dirigida aos governos nacionais",
+    "c": "obriga só os Estados que a subscreveram na sessão de 1948, excluídos os que se abstiveram na votação",
+    "d": "foi revogada pelos pactos de 1966, que a substituíram integralmente na função de enunciar o rol de direitos",
+    "e": "obriga por força de incorporação automática às ordens internas, dispensando ato de recepção pelos Estados"
+   },
+   "resposta": "a",
+   "explicacao": "A Declaração Universal nasceu como resolução, sem força vinculante formal, mas a reiteração de seu conteúdo em tratados, constituições e decisões judiciais ao longo de sete décadas consolidou boa parte de seus dispositivos como costume internacional. Hoje ela funciona como o texto de referência do sistema internacional de proteção, e sua ausência de forma de tratado deixou de ser argumento sério contra sua obrigatoriedade.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-185",
+   "texto_apoio": "Adotada pela ONU em 1989 e ratificada por quase a totalidade dos Estados, uma convenção fixou que as decisões relativas a crianças devem considerar em primeiro lugar o interesse superior delas.",
+   "enunciado": "O princípio enunciado no texto é conhecido como:",
+   "alternativas": {
+    "a": "princípio da capacidade progressiva, que gradua o exercício de direitos conforme o desenvolvimento do titular",
+    "b": "princípio do melhor interesse da criança, critério de decisão firmado na Convenção de 1989",
+    "c": "princípio da intervenção mínima, que limita a atuação do Estado na esfera doméstica das famílias envolvidas",
+    "d": "princípio da solidariedade entre gerações, que impõe deveres de conservação em favor das que ainda virão",
+    "e": "princípio da vedação da proteção insuficiente, que censura a tutela estatal aquém do exigido pela norma"
+   },
+   "resposta": "b",
+   "explicacao": "O melhor interesse da criança é o critério fixado pela Convenção sobre os Direitos da Criança, de 1989 — o tratado de direitos humanos com maior número de ratificações no mundo. Ele determina que, entre soluções possíveis, prevaleça a que melhor atenda quem está em desenvolvimento, e não a que seja mais cômoda para os adultos envolvidos. A capacidade progressiva também vem dessa convenção, mas trata do exercício gradual dos direitos, e não do critério de decisão.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-186",
+   "texto_apoio": "Num texto de 1843, um filósofo alemão criticou as declarações de direitos por consagrarem o homem egoísta, membro da sociedade civil, separado da comunidade e voltado ao interesse particular.",
+   "enunciado": "A crítica formulada nesse texto sustenta que as declarações setecentistas:",
+   "alternativas": {
+    "a": "eram inválidas por não terem sido aprovadas por assembleia eleita mediante sufrágio universal e direto",
+    "b": "protegiam os interesses coletivos em detrimento das liberdades individuais reivindicadas pela burguesia",
+    "c": "antecipavam os direitos de titularidade difusa que só viriam a ser reconhecidos no século XX pelos tratados internacionais",
+    "d": "eliminavam a distância entre a proclamação jurídica e a condição concreta de vida dos trabalhadores",
+    "e": "consagravam a emancipação política sem promover a emancipação humana, mantendo intacta a esfera econômica"
+   },
+   "resposta": "e",
+   "explicacao": "Em Sobre a questão judaica, Marx distingue emancipação política — a igualdade perante o Estado — de emancipação humana, e sustenta que as declarações setecentistas realizaram a primeira sem tocar na segunda, porque deixaram intocada a estrutura econômica que produz a desigualdade real. É a crítica de esquerda mais influente da história dos direitos humanos, e continua sendo o principal contraponto à leitura puramente liberal do tema.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-187",
+   "texto_apoio": "Numa conferência de 1964, um teórico italiano afirmou que o problema grave de seu tempo não era mais fundamentar filosoficamente os direitos, mas encontrar meios seguros de protegê-los.",
+   "enunciado": "O deslocamento proposto nessa afirmação vai:",
+   "alternativas": {
+    "a": "da esfera nacional para a regional, sugerindo que só arranjos continentais teriam eficácia real",
+    "b": "do direito escrito para o costume, sugerindo que a prática reiterada dos Estados basta como fonte da proteção",
+    "c": "da titularidade individual para a coletiva, sugerindo que só o grupo poderia reivindicar proteção efetiva",
+    "d": "do problema filosófico da fundamentação para o problema político e jurídico da efetivação",
+    "e": "da responsabilidade estatal para a individual, sugerindo caber à vítima demonstrar o dano que sofreu"
+   },
+   "resposta": "d",
+   "explicacao": "Bobbio desloca a discussão da fundamentação para a garantia: depois de 1948, com o rol enunciado e amplamente aceito, o obstáculo deixou de ser filosófico e passou a ser político e jurídico. A frase resume o giro que orienta a história dos direitos humanos na segunda metade do século XX, e explica por que o esforço se concentrou em criar órgãos, procedimentos e mecanismos de responsabilização.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "dh-fundamentos",
+   "id": "dir-direitos-humanos-188",
+   "texto_apoio": "A partir de 2005, a Assembleia Geral da ONU adotou a formulação de que a soberania implica responsabilidade e de que, diante de falha grave de um Estado em amparar sua população contra atrocidades, a comunidade internacional pode agir.",
+   "enunciado": "Essa formulação ficou conhecida como:",
+   "alternativas": {
+    "a": "intervenção humanitária unilateral, doutrina segundo a qual um Estado pode agir isoladamente em favor de vítimas estrangeiras",
+    "b": "cláusula de não intervenção, regra clássica que veda a ingerência de um Estado nos assuntos internos de outro",
+    "c": "responsabilidade de proteger, princípio que condiciona a soberania ao dever de amparar a população",
+    "d": "jurisdição universal, princípio que autoriza tribunais nacionais a julgar autores de crimes graves cometidos no exterior",
+    "e": "autodeterminação dos povos, princípio que assegura a cada coletividade decidir sobre seu próprio estatuto político"
+   },
+   "resposta": "c",
+   "explicacao": "A responsabilidade de proteger inverte o sentido clássico da soberania: ela deixa de ser escudo contra a ingerência e passa a implicar um dever perante a própria população, cuja falha grave habilita a ação coletiva. É a resposta institucional do sistema internacional de proteção aos episódios de Ruanda e da Bósnia nos anos 1990. Seu uso permanece contestado, porque a mesma linguagem de direitos humanos já serviu de justificativa a intervenções de motivação estratégica.",
+   "formato": "direta",
+   "origem": "direito"
   }
  ],
  "dh-constitucional": [

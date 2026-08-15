@@ -48,3 +48,20 @@ functions/node_modules/
 # Mockups da sessao de brainstorm visual (servidor local do superpowers).
 # Sao rascunho de desenho, nao entram no site publicado.
 .superpowers/
+
+# Cadernos do ITA e da Mauá que estão dentro de engenharia/, mesma regra das
+# pastas de provas de Medicina e Economia: material de ORIGEM, público e
+# rebaixável, sem função no app.
+#
+# Aqui a regra é mais dura que uma questão de peso no repositório. Desde que
+# cada trilha ganhou endereço próprio, engenharia/ NÃO é uma pasta qualquer: é
+# um caminho publicado (o GitHub Pages serve a raiz inteira). Um PDF commitado
+# aqui vira sagaxedu.com.br/engenharia/<nome do arquivo>.pdf, aberto a quem
+# souber o nome — redistribuir caderno de banca sem querer.
+#
+# O mesmo vale para direito/, medicina/ e economia/: os quatro nomes agora são
+# endereços do site, e só o index.html gerado deve morar neles.
+engenharia/*.pdf
+direito/*.pdf
+medicina/*.pdf
+economia/*.pdf

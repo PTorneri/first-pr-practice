@@ -42,6 +42,18 @@ const TEMPLATE = path.join(__dirname, "template.html");
 
 const VERIFICAR = process.argv.includes("--verificar");
 
+// Tudo entra e sai em LF, e a comparação é feita em LF.
+//
+// Sem isto o --verificar mente: o repositório está em autocrlf, então todo
+// checkout reescreve os arquivos em CRLF, e uma comparação byte a byte passaria
+// a acusar as seis páginas como defasadas depois de qualquer `git pull` — um
+// alarme que toca sempre é um alarme que se aprende a ignorar, e aí ele não
+// seria visto no dia em que a defasagem fosse real. É a mesma razão do
+// Normalizar() em verificar-publicado.ps1.
+function lf(texto) {
+  return texto.replace(/\r\n/g, "\n");
+}
+
 // ------------------------------------------------------- o registro de trilhas
 //
 // Lê as trilhas do próprio trilhas.js em vez de repetir a lista aqui. Ele é um
@@ -178,7 +190,7 @@ const CABECALHO_GERADO =
 
 // ---------------------------------------------------------------------- main
 
-const template = fs.readFileSync(TEMPLATE, "utf8");
+const template = lf(fs.readFileSync(TEMPLATE, "utf8"));
 const trilhas = lerTrilhas();
 const lista = paginas(trilhas);
 
@@ -189,7 +201,7 @@ lista.forEach((pagina) => {
   const destino = path.join(RAIZ, pagina.destino);
 
   if (VERIFICAR) {
-    const atual = fs.existsSync(destino) ? fs.readFileSync(destino, "utf8") : null;
+    const atual = fs.existsSync(destino) ? lf(fs.readFileSync(destino, "utf8")) : null;
     if (atual !== html) {
       console.error("DEFASADA: " + pagina.destino + (atual === null ? " (não existe)" : ""));
       defasadas++;
@@ -252,7 +264,7 @@ const REDIRECIONADOR = CABECALHO_GERADO + `<!DOCTYPE html>
 
 const destinoRedir = path.join(__dirname, "index.html");
 if (VERIFICAR) {
-  const atual = fs.existsSync(destinoRedir) ? fs.readFileSync(destinoRedir, "utf8") : null;
+  const atual = fs.existsSync(destinoRedir) ? lf(fs.readFileSync(destinoRedir, "utf8")) : null;
   if (atual !== REDIRECIONADOR) {
     console.error("DEFASADA: " + APP_DIR + "/index.html" + (atual === null ? " (não existe)" : ""));
     defasadas++;

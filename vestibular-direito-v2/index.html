@@ -49,13 +49,13 @@
      consome variáveis, e uma variável precisa existir antes de ser lida. É
      também onde vivem os @font-face — declarados aqui, o navegador começa a
      baixar a letra enquanto ainda parseia o resto. -->
-<link rel="stylesheet" href="tokens.css?v=49">
-<link rel="stylesheet" href="styles.css?v=49">
+<link rel="stylesheet" href="tokens.css?v=50">
+<link rel="stylesheet" href="styles.css?v=50">
 <!-- Estilo da dissertativa de exatas (resolução + resposta final + faixa),
      hoje só usada pela Matemática de Economia. Carregado aqui, e não por
      trilha, pela mesma razão de trilhas.js e assuntos.js: é código, não dado
      — inerte enquanto ninguém chama VD_EXATAS.render(). -->
-<link rel="stylesheet" href="../vestibular-economia/dissertativa-exatas.css?v=49">
+<link rel="stylesheet" href="../vestibular-economia/dissertativa-exatas.css?v=50">
 </head>
 <body>
 
@@ -671,38 +671,54 @@
     </div>
   </section>
 
-  <!-- ONBOARDING -->
+  <!-- ANTESSALA — a sala entre o login e o app.
+       Aparece em TODA entrada, não só na primeira (ver auth.js): quem está no
+       dia 40 passa por aqui toda vez que abre o app. Por isso ela tem dois
+       estados e o app.js escreve os dois (ver renderAntessala) — no primeiro
+       acesso ela promete os 90 dias; nas outras vezes ela diz em que dia você
+       está e sai da frente.
+
+       O esqueleto abaixo está no estado de primeiro acesso e sem número
+       nenhum: tudo o que é conta (o dia, a fita, a receita do dia, o mapa das
+       abas) sai da trilha ativa, e uma trilha que não tem Redação não pode ver
+       "Redação" escrito aqui. Antes esta lista era fixa e falava de FGV e
+       Insper para quem estuda Medicina. -->
   <section id="view-onboarding" class="view" hidden>
-    <div class="card onboarding-card">
-      <div class="onboarding-logo-wrap">
-        <img class="onboarding-logo" src="assets/logo.png" alt="sagax">
+    <div class="card onb-card">
+
+      <!-- A capa é navy nos DOIS temas, como o herói da landing e a barra
+           lateral do app: é a faixa que diz "isto é o sagax". O gradiente é
+           literal de propósito — não é token de tema. -->
+      <div class="onb-capa">
+        <span class="onb-halo" aria-hidden="true"></span>
+        <img class="onb-simbolo" src="assets/sagax-symbol-cut.png" alt="">
+        <div class="eyebrow onb-eyebrow" id="onb-eyebrow">Primeiro acesso</div>
+        <h1 id="onb-titulo">Seus 90 dias começam hoje.</h1>
+        <p class="onb-lide" id="onb-lide"></p>
       </div>
-      <h1>saga<span class="brand-x">x</span></h1>
-      <p class="subtitle">Plano de estudos de 90 dias baseado no formato real das provas: Português,
-      Inglês, Matemática/Raciocínio Lógico e Ciências Humanas (Atualidades, História, Geografia).</p>
-      <ul class="pitch-list">
-        <li>Todo dia: <strong>1 a 2 vídeo-aulas</strong> sugeridas + <strong>20 a 30 exercícios</strong> comentados</li>
-        <li>16 frentes de estudo, cada uma revisada <strong>mais de uma vez</strong> ao longo dos 90 dias — com
-        mais frequência para as frentes que mais caem nas provas reais, segundo um estudo de 6 anos de exames</li>
-        <li>Ao terminar os exercícios do dia, você escolhe se quer treinar <strong>questões dissertativas</strong>
-        (Humanas, Linguagens e Arte, no estilo da prova discursiva da FGV) — meta de <strong>4x por semana</strong>,
-        nos dias que você quiser</li>
-        <li>Aba <strong>Redação</strong> à parte, com 15 propostas dissertativo-argumentativas de 20 a 30 linhas e a
-        grade de correção oficial da FGV e do Insper</li>
-        <li>Todo <strong>domingo</strong> vira um <strong>simulado misto</strong> de ~45 questões, distribuídas
-        entre as 16 frentes por prioridade — e a semana seguinte passa a focar mais nos temas em que você mais
-        errou. No mesmo card você pode trocar pelo <strong>caderno oficial de 60 questões</strong> da FGV ou da
-        Insper, em quatro blocos de 15 na ordem exata da prova</li>
-        <li><strong>Caderno de Erros</strong>: toda questão que você errar reaparece numa aba própria pra você
-        treinar de novo, até acertar</li>
-        <li>Teoria (gatilhos e pegadinhas) antes dos exercícios, <strong>flashcards</strong> com repetição
-        espaçada, sessão <strong>SOS</strong> por tema e um <strong>score projetado</strong> pra prova</li>
-        <li>Obras obrigatórias da FGV (Artes e Questões Contemporâneas) numa aba própria, com resumo e análise
-        pelos eixos da banca</li>
-        <li>Progresso salvo na <strong>sua conta Google</strong> — disponível em qualquer aparelho</li>
-      </ul>
-      <button id="btn-start" class="btn btn-primary">Começar meu plano hoje</button>
-      <button id="btn-resume" class="btn btn-secondary" hidden>Continuar meu plano</button>
+
+      <!-- A fita de 90 segmentos é a mesma da aba Hoje (.fita-90), e é isso que
+           faz esta tela ser o primeiro quadro do app em vez de um folheto: o
+           desenho que a pessoa vai ver todo dia já está aqui, vazio, esperando. -->
+      <div class="onb-plano">
+        <div class="onb-plano-cab">
+          <span class="eyebrow">Os 90 dias</span>
+          <span class="onb-plano-conta" id="onb-conta"></span>
+        </div>
+        <div class="fita-90 onb-fita" id="onb-fita" role="img" aria-label=""></div>
+        <p class="onb-receita" id="onb-receita"></p>
+      </div>
+
+      <!-- O mapa do app: uma linha por aba que ESTA trilha tem, com o mesmo
+           rótulo que a barra lateral vai mostrar. Só no primeiro acesso. -->
+      <div class="onb-mapa" id="onb-mapa" hidden></div>
+
+      <div class="onb-acao">
+        <button id="btn-start" class="btn btn-primary">Começar meu plano hoje</button>
+        <button id="btn-resume" class="btn btn-secondary" hidden>Continuar meu plano</button>
+        <p class="onb-nota" id="onb-nota">Seu progresso fica salvo na sua conta Google e acompanha
+        você em qualquer aparelho.</p>
+      </div>
     </div>
   </section>
 
@@ -1035,19 +1051,19 @@
      escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
      Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
      dois apps. -->
-<script src="trilhas.js?v=49"></script>
-<script src="schedule.js?v=49"></script>
+<script src="trilhas.js?v=50"></script>
+<script src="schedule.js?v=50"></script>
 <!-- Dicionário de assuntos da busca. Vive aqui, e não em data/ de uma trilha,
      porque a taxonomia atravessa as duas: "crase" e "função quadrática" são o
      mesmo assunto em Direito e em Medicina. Pôr em data/ obrigaria a duplicar
      as listas de gramática, literatura, interpretação, inglês e matemática. -->
-<script src="assuntos.js?v=49"></script>
+<script src="assuntos.js?v=50"></script>
 <!-- window.VD_EXATAS — renderizador da dissertativa de exatas (ver o <link>
      do CSS acima). Precisa carregar ANTES de app.js: renderDissertQuestion
      chama VD_EXATAS.render() para toda questão com `faixas`, e um script
      criado depois na ordem de execução ainda não teria definido o global. -->
-<script src="../vestibular-economia/dissertativa-exatas.js?v=49"></script>
-<script src="app.js?v=49"></script>
-<script type="module" src="auth.js?v=49"></script>
+<script src="../vestibular-economia/dissertativa-exatas.js?v=50"></script>
+<script src="app.js?v=50"></script>
+<script type="module" src="auth.js?v=50"></script>
 </body>
 </html>

@@ -621,6 +621,164 @@ h4 { font-size: 1.0625rem; }
    Montserrat é larga — em 700 o wordmark fica pesado demais pro tamanho. */
 .onboarding-card h1 { margin: 0 0 8px; font-size: 1.6rem; font-weight: 600; }
 
+/* ═══════════════════════════════════════════════════════════════════════════
+   03 · ANTESSALA — a tela entre o login e o app
+
+   Não é um onboarding, apesar do id: ela aparece em TODA entrada (ver auth.js),
+   então quem está no dia 40 a vê toda vez. O desenho antigo era um folheto —
+   nove marcadores de disco, alguns com cinco linhas, repetindo para dentro do
+   app o que a landing já tinha vendido para fora, com o texto da FGV fixo no
+   HTML mesmo para quem estuda Medicina.
+
+   Três decisões governam o que está aqui:
+
+   1. A FITA é o assunto. Os noventa segmentos de .fita-90 são o objeto próprio
+      do produto, o mesmo que a aba Hoje mostra todo dia. Vazia, com o dia 1
+      aceso, ela diz "90 dias, nenhum feito, este é o seu" sem nenhuma frase —
+      e transforma esta tela no primeiro quadro do app em vez de uma capa.
+      É o único lugar onde esta tela gasta ousadia; o resto é disciplinado.
+
+   2. A capa é NAVY LITERAL, como o herói da landing e a barra lateral. Não
+      pode ser var(--surface-inverse): no tema escuro esse token é o próprio
+      fundo do cartão, e a faixa sumiria. Por isso o gradiente é o mesmo
+      #0A1732 → #040B1D da .lp-hero, mais escuro que o cartão nos dois temas.
+
+   3. Nada de número escrito à mão. Dia, fita, receita do dia e mapa das abas
+      saem da trilha ativa em renderAntessala() — é o que impede a tela de
+      prometer "Redação" para Engenharia, que não tem essa aba.
+   ═════════════════════════════════════════════════════════════════════════ */
+#view-onboarding { padding: 24px; }
+.onb-card {
+  width: 620px; max-width: 100%;
+  padding: 0; overflow: hidden;   /* overflow: a capa encosta na borda arredondada */
+  text-align: left;
+}
+
+/* ── Capa ───────────────────────────────────────────────────────────────── */
+.onb-capa {
+  position: relative; overflow: hidden;
+  padding: clamp(26px, 5vw, 36px) clamp(22px, 4vw, 34px) clamp(28px, 5vw, 34px);
+  background: linear-gradient(168deg, #0A1732 0%, #061027 62%, #040B1D 100%);
+}
+/* Um halo só, no canto de baixo à esquerda, terminando em alfa 0 da MESMA cor
+   do fundo — senão a borda do gradiente aparece como anel. É o mesmo recurso
+   da landing; aqui vem sozinho porque a faixa tem um terço da altura. */
+.onb-halo {
+  position: absolute; bottom: -190px; left: -120px; width: 420px; height: 420px;
+  border-radius: 50%; pointer-events: none;
+  background: radial-gradient(circle, rgba(240,180,48,.20) 0%, rgba(6,16,39,0) 68%);
+}
+.onb-simbolo {
+  position: relative; width: 44px; height: auto; display: block;
+  margin-bottom: var(--space-4);
+  filter: drop-shadow(0 10px 22px rgba(240,180,48,.26));
+  animation: sagax-respira 5.5s ease-in-out infinite;
+}
+.onb-eyebrow { position: relative; color: var(--gold-400); margin-bottom: var(--space-3); }
+.onb-capa h1 {
+  position: relative; margin: 0;
+  font: var(--weight-semibold) clamp(26px, 4.6vw, 33px)/1.12 var(--font-display);
+  letter-spacing: var(--tracking-tight); color: var(--white); text-wrap: pretty;
+}
+/* O número do título é o mesmo ouro da fita e do botão. Sem peso extra: o h1
+   já é 600, e um <b> em 700 no meio da frase criaria um segundo destaque. */
+.onb-capa h1 b { color: var(--gold-400); font-weight: inherit; }
+.onb-lide {
+  position: relative; margin: var(--space-3) 0 0;
+  font: var(--type-small); line-height: var(--leading-relaxed);
+  color: rgba(255,255,255,.70); text-wrap: pretty;
+}
+.onb-lide strong { color: rgba(255,255,255,.92); font-weight: var(--weight-semibold); }
+
+/* ── O plano: rótulo, fita, receita do dia ──────────────────────────────── */
+.onb-plano { padding: clamp(22px, 4vw, 28px) clamp(22px, 4vw, 34px) var(--space-5); }
+.onb-plano-cab {
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: var(--space-3); margin-bottom: var(--space-3);
+}
+.onb-plano-conta { font: var(--type-small); color: var(--text-muted); }
+.onb-plano-conta strong { font-family: var(--font-brand); color: var(--text-heading); }
+.onb-fita { margin-bottom: var(--space-4); }
+
+/* A receita do dia numa linha só, com os números na geométrica e no ouro.
+   Eram três células de métrica com um número grande em cada — o arranjo que
+   qualquer tela de qualquer produto usa. Uma frase diz o mesmo e não finge
+   ser painel de controle. */
+.onb-receita {
+  margin: 0; font: var(--type-small); line-height: var(--leading-relaxed);
+  color: var(--text-body); text-wrap: pretty;
+}
+.onb-receita b {
+  font-family: var(--font-brand); font-weight: var(--weight-semibold);
+  color: var(--text-accent);
+}
+
+/* ── Mapa do app ────────────────────────────────────────────────────────── */
+/* A lista antiga era uma pilha de benefícios; esta é a BARRA LATERAL que a
+   pessoa vai ver do outro lado do botão, com os mesmos rótulos, lidos do DOM.
+   A estrutura passou a dizer algo verdadeiro em vez de enfeitar. */
+.onb-mapa { padding: var(--space-5) clamp(22px, 4vw, 34px) var(--space-2); }
+.onb-mapa .eyebrow { display: block; margin-bottom: var(--space-2); }
+.onb-mapa-linha {
+  display: grid; grid-template-columns: 152px 1fr; gap: var(--space-4);
+  align-items: baseline; padding: 12px 0;
+  border-top: 1px solid var(--border-subtle);
+}
+.onb-mapa-nome {
+  font: var(--type-body-strong); font-size: var(--text-sm);
+  color: var(--text-heading);
+}
+.onb-mapa-desc { font: var(--type-small); color: var(--text-body); text-wrap: pretty; }
+
+/* ── Ação ───────────────────────────────────────────────────────────────── */
+.onb-acao {
+  padding: var(--space-5) clamp(22px, 4vw, 34px) clamp(24px, 4vw, 30px);
+  border-top: 1px solid var(--border-subtle);
+  background: var(--surface-sunken);
+}
+/* --text-body e não --text-muted: em 12px sobre a faixa de --surface-sunken o
+   cinza médio mede 4,16:1 no tema claro, abaixo dos 4,5:1 que texto pequeno
+   exige. Com o tom do corpo são 6,9:1. */
+.onb-nota {
+  margin: var(--space-2) 0 0; text-align: center;
+  font: var(--type-small); font-size: var(--text-xs); color: var(--text-body);
+}
+
+/* A fita se monta da esquerda para a direita quando a tela abre: 90 segmentos
+   a 7ms de intervalo, 630ms do dia 1 ao dia 90. É o plano se estendendo na
+   frente da pessoa, e é o único movimento desta tela.
+
+   O índice vem por --i, escrito segmento a segmento pelo app.js — CSS não
+   sabe contar irmãos dentro de um calc().
+
+   O animation-none abaixo NÃO é redundante com a regra global de
+   prefers-reduced-motion do tokens.css: aquela zera a duração, não o atraso.
+   Com fill-mode backwards e 630ms de espera, quem pede menos movimento veria
+   a fita em branco por meio segundo antes de ela aparecer de uma vez. */
+@keyframes onb-fita-entra {
+  from { opacity: 0; transform: scaleY(.28) }
+  to   { opacity: 1; transform: none }
+}
+.onb-fita .fita-dia {
+  transform-origin: bottom;
+  animation: onb-fita-entra .42s var(--ease-out) backwards;
+  animation-delay: calc(var(--i) * 7ms);
+}
+@media (prefers-reduced-motion: reduce) {
+  .onb-fita .fita-dia { animation: none }
+  .onb-simbolo { animation: none }
+}
+
+@media (max-width: 900px) { #view-onboarding { padding: 16px; } }
+@media (max-width: 560px) {
+  /* No celular a antessala ocupa a tela inteira, como o login: um cartão
+     flutuando com 16px de margem de cada lado só rouba largura da fita, que é
+     justamente o que esta tela tem para mostrar. */
+  #view-onboarding { padding: 0; align-items: stretch; }
+  .onb-card { width: 100%; border-radius: 0; border-left: none; border-right: none; min-height: 100vh; }
+  .onb-mapa-linha { grid-template-columns: 1fr; gap: 2px; }
+}
+
 /* O X de sagax e a palavra dourada do slogan (ver --brand-gold no :root, que
    já troca de tom sozinho entre claro e escuro). */
 .brand-x, .tagline-gold { color: var(--brand-gold); }
@@ -649,8 +807,6 @@ h4 { font-size: 1.0625rem; }
   .brand-tagline { font-size: 0.58rem; letter-spacing: 0.1em; margin-right: -0.1em; }
 }
 .subtitle { color: var(--ink-soft); margin: 0 0 20px; }
-.pitch-list { margin: 0 0 24px; padding-left: 20px; color: var(--ink-soft); }
-.pitch-list li { margin-bottom: 6px; }
 
 /* Cartão. Retângulo de 16px com traço de 1px e sombra tingida de navy — é a
    forma que, junto da pílula do botão, assina o desenho da marca. A sombra é
@@ -689,6 +845,13 @@ h4 { font-size: 1.0625rem; }
   white-space: nowrap;
   transition: var(--transition-control);
 }
+/* O `display: inline-flex` acima é mais específico que o `display: none` que o
+   navegador dá a [hidden], então um botão marcado como escondido continuava
+   aparecendo. Era visível na antessala: quem entrava pela primeira vez via
+   "Continuar meu plano" junto de "Começar meu plano hoje", e clicar no
+   primeiro abria o app sem gravar a data de início — no dia seguinte a pessoa
+   continuava no dia 1. Vale para todo .btn do app. */
+.btn[hidden] { display: none; }
 /* O controle inteiro afunda; nada recolore. */
 .btn:active:not(:disabled) { transform: translateY(1px) scale(.985); }
 .btn:disabled { opacity: .45; cursor: not-allowed; }
@@ -2698,8 +2861,10 @@ h4 { font-size: 1.0625rem; }
      dividido é fundo, não cartão, e com a moldura de 24px o navy virava um
      retângulo solto no meio do cinza. As outras telas de entrada são cartões de
      verdade e continuam com margem — só mais estreita. */
+  /* A antessala saiu desta lista: ela tem o próprio comportamento de tela
+     estreita, junto do resto do seu bloco (ver 03 · ANTESSALA). */
   #view-login { padding: 0; align-items: stretch; }
-  #view-onboarding, #view-sync-error, #view-assinatura, #view-escolha-trilha { padding: 16px; }
+  #view-sync-error, #view-assinatura, #view-escolha-trilha { padding: 16px; }
   /* A mesma régua de 52px do login. Aqui ela importa mais que em qualquer outra
      tela: no tamanho herdado do desktop os botões saíam com 43px e 37px, abaixo
      do alvo de toque, na única tela do app onde a pessoa está tentando pagar. */

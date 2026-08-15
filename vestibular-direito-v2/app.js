@@ -330,12 +330,150 @@
     return Math.min(Math.max(diffDays, 1), 90);
   }
 
-  // ---------- Onboarding ----------
-  function initOnboarding() {
+  // ---------- Antessala ----------
+  //
+  // A tela entre o login e o app. Ela aparece em TODA entrada (ver auth.js),
+  // não só na primeira — quem está no dia 40 passa por aqui toda vez que abre
+  // o app. Daí os dois estados: quem nunca começou recebe a promessa dos 90
+  // dias e o mapa do que existe do outro lado do botão; quem já começou recebe
+  // o número do dia e sai andando. Um folheto de benefícios a cada entrada era
+  // exatamente o que pesava na versão antiga.
+  //
+  // Nada aqui é escrito por trilha à mão. O texto fixo no HTML falava de FGV,
+  // Insper e "Obras obrigatórias da FGV" para quem estuda Medicina.
+
+  // Uma linha por aba, na ordem da barra lateral. Ficam de fora as abas de
+  // encanamento — Buscar, Calendário, Perfil e o "Mais" do celular: elas são
+  // navegação, não método, e esta lista promete o método.
+  const ANTESSALA_ABAS = [
+    ["hoje", (cfg) => "O dia já montado: teoria, vídeo-aula e " + cfg.plano.exerciciosMin +
+      " a " + cfg.plano.exerciciosMax + " questões comentadas em cada um dos " +
+      cfg.plano.subtemasPorDia + " assuntos."],
+    ["simulados", (cfg) => "Todo domingo, um simulado de " + cfg.plano.simuladoQtd +
+      " questões — e os cadernos oficiais das bancas, na ordem exata da prova."],
+    ["cards", () => "Flashcards com repetição espaçada: o card volta pouco antes de você esquecer."],
+    ["redacao", () => "Propostas no comando de cada banca, corrigidas pela grade oficial."],
+    // O rótulo desta aba muda de trilha para trilha, e a promessa muda junto:
+    // onde há subtitulo em obrasUI é porque a lista é repertório e o edital não
+    // cobra nenhuma delas. Prometer "a lista do edital" ali seria mentira.
+    ["obras", (cfg) => (cfg.obrasUI && cfg.obrasUI.subtitulo)
+      ? "Repertório para a redação e para as discursivas, com resumo e análise."
+      : "A lista do edital lida pelos eixos da banca — não é decoreba de enredo."],
+    ["erros", () => "Toda questão que você errar reaparece aqui até você acertar."],
+    ["progresso", () => "Acerto por tema, onde você mais perde ponto e o score projetado."],
+  ];
+
+  // Números na geométrica e no ouro, dentro de uma frase. Três células de
+  // métrica com um número grande em cada é o arranjo que qualquer produto usa;
+  // uma frase diz o mesmo sem fingir ser painel de controle.
+  function antessalaNum(n) { return "<b>" + n + "</b>"; }
+
+  function renderAntessala() {
+    const cfg = TRILHA_CFG;
+    if (!cfg) return;
+
+    const total = cfg.plano.totalDias;
     const start = localStorage.getItem(LS_START);
-    if (start) {
-      document.getElementById("btn-resume").hidden = false;
+    const jaComecou = !!start;
+    const hoje = currentDayFromStart();
+    const dayState = getDayState();
+    const inicio = start || todayISO();
+
+    // A fita, montada com os mesmos estados da aba Hoje para as duas nunca
+    // discordarem. O --i é o índice do segmento: é ele que escalona a entrada
+    // da esquerda para a direita (ver .onb-fita no styles.css), porque o CSS
+    // não sabe contar irmãos dentro de um calc().
+    let feitos = 0;
+    let respondidas = 0;
+    let domingos = 0;
+    const segmentos = [];
+    for (let d = 1; d <= total; d++) {
+      const st = dayState[d];
+      const domingo = scheduleDateForDay(inicio, d).getDay() === 0;
+      if (domingo) domingos++;
+      if (st) respondidas += st.answered || 0;
+      let estado;
+      if (jaComecou && d === hoje) estado = "hoje";
+      else if (st && st.total > 0 && st.answered >= st.total) { estado = "feito"; feitos++; }
+      else if (st && st.answered > 0) estado = "parcial";
+      else if (domingo) estado = "simulado";
+      else estado = "aberto";
+      // Sem plano começado o dia 1 é o "hoje": é ele que a fita está esperando.
+      if (!jaComecou && d === 1) estado = "hoje";
+      segmentos.push('<i class="fita-dia fita-' + estado + '" style="--i:' + (d - 1) + '"></i>');
     }
+    const fita = document.getElementById("onb-fita");
+    fita.innerHTML = segmentos.join("");
+    fita.setAttribute("aria-label", jaComecou
+      ? "Dia " + hoje + " de " + total + ". " + feitos + " dias concluídos."
+      : "Plano de " + total + " dias, nenhum iniciado.");
+
+    document.getElementById("onb-conta").innerHTML = jaComecou
+      ? "Dia <strong>" + hoje + "</strong> de " + total
+      : "Dia <strong>1</strong> de " + total;
+
+    const eyebrow = document.getElementById("onb-eyebrow");
+    const titulo = document.getElementById("onb-titulo");
+    const lide = document.getElementById("onb-lide");
+    const receita = document.getElementById("onb-receita");
+    const mapa = document.getElementById("onb-mapa");
+    const nota = document.getElementById("onb-nota");
+    const btnStart = document.getElementById("btn-start");
+    const btnResume = document.getElementById("btn-resume");
+
+    eyebrow.textContent = (jaComecou ? "De volta" : "Primeiro acesso") + " · Trilha " + cfg.nome;
+
+    if (jaComecou) {
+      const faltam = total - hoje;
+      titulo.innerHTML = "Você está no dia " + antessalaNum(hoje) + " de " + total + ".";
+      lide.innerHTML = "Sua trilha é <strong>" + cfg.subtitulo + "</strong>. O plano de hoje já está " +
+        "montado — é só continuar de onde você parou.";
+      receita.innerHTML = antessalaNum(feitos) + " dia" + (feitos === 1 ? "" : "s") +
+        " concluído" + (feitos === 1 ? "" : "s") + " · " + antessalaNum(respondidas) +
+        " questõe" + (respondidas === 1 ? "" : "s") + " respondida" + (respondidas === 1 ? "" : "s") +
+        (faltam > 0 ? " · faltam " + antessalaNum(faltam) + " dia" + (faltam === 1 ? "" : "s") : " · último dia");
+      mapa.hidden = true;
+      nota.textContent = "Seu progresso está salvo na sua conta Google — este é o mesmo plano em qualquer aparelho.";
+    } else {
+      const assuntos = (window.SUBTOPICS || []).length;
+      const estudo = total - domingos;
+      titulo.innerHTML = "Seus " + antessalaNum(total) + " dias começam hoje.";
+      lide.innerHTML = "Montado a partir do formato real das provas de <strong>" + cfg.subtitulo +
+        "</strong>. " + cfg.resumo;
+      // A frase é a legenda da fita logo acima: ela explica por que treze
+      // segmentos nascem azuis. Sem ela o azul é só uma cor a mais.
+      receita.innerHTML = antessalaNum(estudo) + " dias de estudo e " + antessalaNum(domingos) +
+        " domingos de simulado. Cada um dos " + antessalaNum(assuntos) + " assuntos volta mais de " +
+        "uma vez ao longo do plano, com mais frequência para os que mais caem — segundo a contagem " +
+        "das provas reais.";
+      mapa.hidden = false;
+      mapa.innerHTML = '<span class="eyebrow">As abas do seu plano</span>' +
+        ANTESSALA_ABAS.map(([aba, desc]) => {
+          // O rótulo sai da própria barra lateral, que aplicarTrilhaNaUI() já
+          // ajustou (ele roda antes daqui, no VD_BOOT). Ler do DOM em vez de um
+          // segundo dicionário é o que garante que o nome prometido nesta tela
+          // seja o nome que a pessoa vai achar do outro lado do botão — e que
+          // uma aba que esta trilha não tem não apareça.
+          const btn = document.querySelector('.sidebar .tab-btn[data-tab="' + aba + '"]');
+          if (!btn || btn.hidden) return "";
+          const nome = (btn.querySelector("span") || {}).textContent || "";
+          return '<div class="onb-mapa-linha">' +
+            '<span class="onb-mapa-nome">' + escapeHtml(nome.trim()) + "</span>" +
+            '<span class="onb-mapa-desc">' + escapeHtml(desc(cfg)) + "</span></div>";
+        }).join("");
+      nota.textContent = "Seu progresso fica salvo na sua conta Google e acompanha você em qualquer aparelho.";
+    }
+
+    // Uma ação por tela: quem já começou não precisa decidir entre começar e
+    // continuar. O botão que sobra vira o primário.
+    btnStart.hidden = jaComecou;
+    btnResume.hidden = !jaComecou;
+    btnResume.classList.toggle("btn-primary", jaComecou);
+    btnResume.classList.toggle("btn-secondary", !jaComecou);
+  }
+
+  function initOnboarding() {
+    renderAntessala();
     document.getElementById("btn-start").addEventListener("click", () => {
       if (!localStorage.getItem(LS_START)) {
         localStorage.setItem(LS_START, todayISO());
@@ -373,26 +511,20 @@
     // document.title não aceita markup: aqui vai a forma de texto da marca.
     document.title = window.VD_MARCA.texto + " — " + cfg.nome + " · Plano de 90 dias";
 
-    // A marca deixou de existir como TEXTO na interface do app: no redesenho
-    // ela é o logotipo no topo da barra lateral (símbolo + wordmark em PNG).
-    // O cfg.marca segue valendo no título da janela, logo acima.
+    // A marca não existe mais como TEXTO em nenhuma tela do app: ela é o
+    // logotipo da barra lateral, o símbolo da antessala e o wordmark do login,
+    // todos em PNG. Sobrou só aqui, na aba do navegador, onde markup não entra.
+    // Por isso cfg.marca e cfg.titulo ficaram sem leitor — continuam no
+    // trilhas.js como dado da trilha, e não porque alguma tela os use.
 
-    // Só o onboarding leva o título da trilha ("sagax — Direito"). O login
-    // agora é um painel dividido cujo h1 é o verbo da tela ("Entrar"), e a
-    // marca aparece nele como logotipo, não como texto.
-    document.querySelectorAll("#view-onboarding h1").forEach((h) => {
-      h.innerHTML = cfg.titulo;
-    });
     document.querySelectorAll(".onboarding-logo").forEach((img) => {
       if (img.alt) img.alt = cfg.logoAlt;
     });
 
-    const subOnb = document.querySelector("#view-onboarding .subtitle");
-    if (subOnb) {
-      subOnb.innerHTML = "Plano de estudos de " + cfg.plano.totalDias +
-        " dias baseado no formato real das provas de <strong>" + cfg.subtitulo + "</strong>. " +
-        cfg.resumo;
-    }
+    // O texto da antessala (título, lide, fita, receita e mapa das abas) é
+    // escrito por renderAntessala(), logo abaixo em initOnboarding(). Ele saiu
+    // daqui porque depende do progresso salvo, e não só da trilha: o h1 daquela
+    // tela é "Você está no dia 40" para quem já começou.
 
     // Abas que não existem nesta trilha somem — botão e painel. Em Engenharia é
     // o caso de "Redação": não há redacoes.js para o ITA.

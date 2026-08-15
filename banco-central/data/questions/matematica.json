@@ -14002,6 +14002,666 @@
    "explicacao": "O complementar de A em U reúne os elementos de U que não estão em A: 50 − 28 = 22. A alternativa (a), 78, soma em vez de subtrair (28+50), tratando A como se estivesse fora de U em vez de contido nele. A (b) repete o próprio |A|, como se complementar significasse \"o mesmo conjunto\".",
    "formato": "direta",
    "origem": "engenharia"
+  },
+  {
+   "id": "med-matematica-477",
+   "enunciado": "Uma pesquisa ouviu 130 moradores de um bairro sobre dois aplicativos. Verificou-se que 68 usam o aplicativo de transporte, 52 usam o aplicativo de entrega e 25 usam os dois. Representando a situação num diagrama de Venn, quantos moradores não usam nenhum dos dois aplicativos?",
+   "alternativas": {
+    "a": "35",
+    "b": "95",
+    "c": "70",
+    "d": "43",
+    "e": "27"
+   },
+   "resposta": "a",
+   "explicacao": "Pelo princípio da inclusão e exclusão, o número de elementos da união é |A ∪ B| = 68 + 52 − 25 = 95. Como o universo tem 130 moradores, ficam fora da união 130 − 95 = 35. O valor 95 é a própria união, isto é, quem usa pelo menos um; 70 conta quem usa exatamente um dos dois; 43 e 27 são as diferenças entre conjuntos, quem usa só um dos aplicativos. Esquecer de subtrair a interseção dos conjuntos é o erro clássico aqui.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-478",
+   "enunciado": "Numa loja, 90 clientes foram consultados: 45 compraram o produto A, 39 compraram o produto B e 12 compraram os dois produtos. Quantos clientes compraram exatamente um dos dois produtos?",
+   "alternativas": {
+    "a": "84",
+    "b": "60",
+    "c": "72",
+    "d": "33",
+    "e": "27"
+   },
+   "resposta": "b",
+   "explicacao": "Quem comprou apenas A são 45 − 12 = 33 clientes e quem comprou apenas B são 39 − 12 = 27, de modo que exatamente um dos dois produtos foi comprado por 33 + 27 = 60 clientes. Note que 72 é o número de elementos da união |A ∪ B| = 45 + 39 − 12, que já inclui quem comprou os dois; 84 soma os conjuntos sem descontar a interseção dos conjuntos, contando duas vezes quem está nos dois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-479",
+   "enunciado": "Sejam A e B dois conjuntos finitos tais que A tem 36 elementos, B tem 28 elementos e a interseção dos conjuntos tem 11 elementos. O número de elementos da união A ∪ B é:",
+   "alternativas": {
+    "a": "17",
+    "b": "64",
+    "c": "53",
+    "d": "42",
+    "e": "25"
+   },
+   "resposta": "c",
+   "explicacao": "O princípio da inclusão e exclusão dá |A ∪ B| = |A| + |B| − |A ∩ B| = 36 + 28 − 11 = 53. A alternativa 64 esquece de subtrair a interseção e conta duas vezes cada elemento comum aos dois conjuntos; 42 subtrai a interseção duas vezes e sobra quem pertence a exatamente um dos conjuntos; 25 e 17 são as diferenças entre conjuntos A − B e B − A.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-480",
+   "enunciado": "Num universo U com 150 elementos estão os conjuntos A, com 88 elementos, e B, com 64 elementos, cuja interseção tem 31 elementos. Quantos elementos de U não pertencem a A nem a B?",
+   "alternativas": {
+    "a": "152",
+    "b": "121",
+    "c": "62",
+    "d": "29",
+    "e": "86"
+   },
+   "resposta": "d",
+   "explicacao": "O que se pede é o conjunto complementar da união: |A ∪ B| = 88 + 64 − 31 = 121, e o complementar em U tem 150 − 121 = 29 elementos. As alternativas 62 e 86 dão o complementar de apenas um dos conjuntos; 152 soma A e B sem aplicar a inclusão e exclusão, e por isso ultrapassa o próprio universo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-481",
+   "enunciado": "Numa turma de 45 estudantes, 26 estudam alemão, 24 estudam italiano e 7 não estudam nenhum dos dois idiomas. Quantos estudantes estudam os dois idiomas?",
+   "alternativas": {
+    "a": "50",
+    "b": "7",
+    "c": "2",
+    "d": "38",
+    "e": "12"
+   },
+   "resposta": "e",
+   "explicacao": "Quem estuda pelo menos um idioma são 45 − 7 = 38 estudantes, e esse é o número de elementos da união. Pela inclusão e exclusão, |A ∩ B| = |A| + |B| − |A ∪ B| = 26 + 24 − 38 = 12. A alternativa 38 devolve a união em vez da interseção dos conjuntos; 50 é a soma crua dos dois conjuntos; 2 troca o sinal do termo da união.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-482",
+   "enunciado": "O conjunto A tem 57 elementos e a interseção dos conjuntos A e B tem 23 elementos. Quantos elementos formam a diferença entre conjuntos A − B, isto é, pertencem a A mas não a B?",
+   "alternativas": {
+    "a": "34",
+    "b": "57",
+    "c": "80",
+    "d": "46",
+    "e": "23"
+   },
+   "resposta": "a",
+   "explicacao": "A diferença entre conjuntos A − B reúne os elementos de A que ficam fora de B, logo |A − B| = |A| − |A ∩ B| = 57 − 23 = 34. A alternativa 23 devolve a própria interseção; 57 ignora que parte de A está dentro de B; 80 soma em vez de subtrair; 46 desconta a interseção duas vezes, o que daria 11 se ainda partisse de A.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-483",
+   "enunciado": "Uma pesquisa com 200 leitores mostrou que 110 leem o jornal A, 95 leem o jornal B e 40 leem os dois jornais. Quantos leitores leem apenas o jornal B?",
+   "alternativas": {
+    "a": "70",
+    "b": "55",
+    "c": "165",
+    "d": "35",
+    "e": "95"
+   },
+   "resposta": "b",
+   "explicacao": "Quem lê apenas B está na diferença entre conjuntos B − A: 95 − 40 = 55 leitores. A alternativa 95 é o total de leitores de B, que inclui quem lê também A; 70 é a diferença simétrica pelo outro lado, os que leem apenas A; 165 é o número de elementos da união |A ∪ B|; 35 são os que não leem nenhum dos dois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-484",
+   "enunciado": "Dois conjuntos A e B satisfazem |A ∪ B| = 74, |A| = 48 e |B| = 39. Quantos elementos pertencem simultaneamente aos dois conjuntos?",
+   "alternativas": {
+    "a": "87",
+    "b": "35",
+    "c": "13",
+    "d": "26",
+    "e": "61"
+   },
+   "resposta": "c",
+   "explicacao": "Isolando a interseção na fórmula da inclusão e exclusão: |A ∩ B| = |A| + |B| − |A ∪ B| = 48 + 39 − 74 = 13. A alternativa 87 é a soma dos dois conjuntos sem qualquer desconto; 35 e 26 subtraem um conjunto da união e devolvem uma diferença entre conjuntos, não a interseção; 61 é o que sobra da união depois de retirar a interseção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-485",
+   "enunciado": "Numa escola, 63 alunos participam do coral, 48 participam do grupo de teatro e 105 participam de pelo menos uma dessas duas atividades. Quantos alunos participam das duas atividades?",
+   "alternativas": {
+    "a": "42",
+    "b": "57",
+    "c": "12",
+    "d": "6",
+    "e": "111"
+   },
+   "resposta": "d",
+   "explicacao": "\"Participar de pelo menos uma\" é exatamente o número de elementos da união, logo |A ∩ B| = 63 + 48 − 105 = 6 alunos. A alternativa 111 soma os dois conjuntos e conta duas vezes quem está nos dois; 42 e 57 são diferenças entre conjuntos; 12 dobra a interseção, erro de quem soma as duas contagens do miolo do diagrama de Venn.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-486",
+   "enunciado": "Num condomínio com 96 moradores, 54 assinam o serviço de internet, 41 assinam o serviço de TV e 18 assinam ambos os serviços. Quantos moradores não assinam nenhum dos dois serviços?",
+   "alternativas": {
+    "a": "59",
+    "b": "36",
+    "c": "77",
+    "d": "95",
+    "e": "19"
+   },
+   "resposta": "e",
+   "explicacao": "O diagrama de Venn dá |A ∪ B| = 54 + 41 − 18 = 77 assinantes de pelo menos um serviço, e os demais são 96 − 77 = 19. A alternativa 77 confunde \"não assinam nenhum\" com \"assinam pelo menos um\"; 95 ignora a interseção dos conjuntos; 59 conta quem assina exatamente um; 36 é a diferença entre conjuntos de quem só tem internet.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-487",
+   "enunciado": "Considere os inteiros de 1 a 60. Seja A o conjunto dos múltiplos de 4 e B o conjunto dos múltiplos de 6 nesse intervalo. Quantos elementos tem a união A ∪ B?",
+   "alternativas": {
+    "a": "20",
+    "b": "15",
+    "c": "10",
+    "d": "5",
+    "e": "25"
+   },
+   "resposta": "a",
+   "explicacao": "São 15 múltiplos de 4 e 10 múltiplos de 6. Os elementos comuns aos dois conjuntos são os múltiplos de 12, o mínimo múltiplo comum, e há 5 deles. Pela inclusão e exclusão, |A ∪ B| = 15 + 10 − 5 = 20. A alternativa 25 conta duas vezes cada múltiplo de 12; 15 e 10 devolvem um dos conjuntos isolado; 5 é a interseção dos conjuntos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-488",
+   "enunciado": "Dois conjuntos A e B têm, respectivamente, 30 e 22 elementos, e 9 elementos pertencem aos dois. Quantos elementos formam a diferença simétrica entre A e B, ou seja, pertencem a exatamente um dos dois conjuntos?",
+   "alternativas": {
+    "a": "52",
+    "b": "34",
+    "c": "21",
+    "d": "13",
+    "e": "43"
+   },
+   "resposta": "b",
+   "explicacao": "A diferença simétrica é (A − B) ∪ (B − A): são 21 elementos só em A e 13 só em B, num total de 34. Equivale a |A| + |B| − 2·|A ∩ B| = 30 + 22 − 18 = 34. A alternativa 43 é o número de elementos da união, que também abriga a interseção dos conjuntos; 52 não desconta nada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-489",
+   "enunciado": "Num universo U com 80 elementos, o conjunto complementar de A tem 47 elementos. Sabendo que B tem 29 elementos e que a interseção de A com B tem 12 elementos, o número de elementos da união A ∪ B é:",
+   "alternativas": {
+    "a": "38",
+    "b": "17",
+    "c": "50",
+    "d": "62",
+    "e": "47"
+   },
+   "resposta": "c",
+   "explicacao": "Do complementar vem |A| = 80 − 47 = 33. Aplicando a inclusão e exclusão, |A ∪ B| = 33 + 29 − 12 = 50. A alternativa 62 esquece a interseção dos conjuntos; 47 repete o próprio complementar; 38 retira a interseção uma segunda vez; 17 é a diferença entre conjuntos B − A.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-490",
+   "enunciado": "De 132 candidatos, 79 acertaram a questão de lógica, 58 acertaram a questão de conjuntos e 24 não acertaram nenhuma das duas. Quantos candidatos acertaram as duas questões?",
+   "alternativas": {
+    "a": "50",
+    "b": "108",
+    "c": "137",
+    "d": "29",
+    "e": "24"
+   },
+   "resposta": "d",
+   "explicacao": "Acertaram pelo menos uma 132 − 24 = 108 candidatos, que é o número de elementos da união. Logo |A ∩ B| = 79 + 58 − 108 = 29. A alternativa 108 devolve a união; 137 soma os conjuntos sem inclusão e exclusão; 24 repete quem ficou fora; 50 é a diferença entre conjuntos de quem só acertou a de lógica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-491",
+   "enunciado": "Numa turma de 50 estudantes, cada um pratica ao menos um esporte entre natação e vôlei. Se 31 praticam natação e 27 praticam vôlei, quantos praticam os dois esportes?",
+   "alternativas": {
+    "a": "19",
+    "b": "42",
+    "c": "58",
+    "d": "23",
+    "e": "8"
+   },
+   "resposta": "e",
+   "explicacao": "Como o universo coincide com a união, |A ∪ B| = 50 e a inclusão e exclusão dá |A ∩ B| = 31 + 27 − 50 = 8. A alternativa 58 é a soma dos dois conjuntos, maior que a turma justamente porque conta duas vezes a interseção dos conjuntos; 23 e 19 são as diferenças entre conjuntos; 42 é quem pratica exatamente um esporte.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-492",
+   "enunciado": "Uma pesquisa com 150 pessoas investigou o uso de três aplicativos, A, B e C. Apurou-se que 78 usam A, 65 usam B, 52 usam C, 30 usam A e B, 25 usam A e C, 21 usam B e C, e 12 usam os três. Quantas pessoas não usam nenhum dos três aplicativos?",
+   "alternativas": {
+    "a": "19",
+    "b": "31",
+    "c": "131",
+    "d": "195",
+    "e": "79"
+   },
+   "resposta": "a",
+   "explicacao": "O princípio da inclusão e exclusão para três conjuntos dá |A ∪ B ∪ C| = 78 + 65 + 52 − 30 − 25 − 21 + 12 = 131. Sobram 150 − 131 = 19 pessoas fora da união. A alternativa 31 esquece de somar de volta os 12 do miolo do diagrama de Venn, que foram retirados três vezes; 131 é a própria união; 195 soma os três conjuntos sem desconto; 79 conta quem usa exatamente um aplicativo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-493",
+   "enunciado": "Num levantamento sobre três esportes, 64 jovens praticam futebol, 45 praticam vôlei e 38 praticam basquete; 20 praticam futebol e vôlei, 15 praticam futebol e basquete, 12 praticam vôlei e basquete, e 6 praticam os três. Quantos jovens praticam exatamente um desses esportes?",
+   "alternativas": {
+    "a": "44",
+    "b": "71",
+    "c": "106",
+    "d": "147",
+    "e": "29"
+   },
+   "resposta": "b",
+   "explicacao": "Quem pratica exatamente um esporte resulta de |A|+|B|+|C| − 2(|A∩B|+|A∩C|+|B∩C|) + 3|A∩B∩C| = 147 − 94 + 18 = 71. A alternativa 106 é o número de elementos da união, obtido pela inclusão e exclusão; 147 soma os três conjuntos; 29 conta quem pratica exatamente dois; 44 é a diferença entre conjuntos de quem joga futebol e não vôlei.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-494",
+   "enunciado": "Três cursos livres, A, B e C, foram oferecidos numa escola. Matricularam-se 52 estudantes em A, 44 em B e 36 em C; 18 cursaram A e B, 14 cursaram A e C, 11 cursaram B e C, e 5 cursaram os três. Quantos estudantes cursaram exatamente dois desses cursos?",
+   "alternativas": {
+    "a": "33",
+    "b": "132",
+    "c": "28",
+    "d": "43",
+    "e": "94"
+   },
+   "resposta": "c",
+   "explicacao": "Cada uma das interseções duas a duas já contém os 5 que fizeram os três, e cada um deles aparece nas três interseções. Assim, exatamente dois cursos são 43 − 3·5 = 28. A alternativa 43 soma as interseções sem descontar o miolo do diagrama de Venn; 94 é o número de elementos da união; 33 conta quem fez pelo menos dois; 132 soma os três conjuntos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-495",
+   "enunciado": "Sabe-se que |A| = 95, |B| = 82, |C| = 70, |A ∩ B| = 38, |A ∩ C| = 30, |B ∩ C| = 25 e que a união dos conjuntos A, B e C tem 168 elementos. Quantos elementos pertencem aos três conjuntos ao mesmo tempo?",
+   "alternativas": {
+    "a": "8",
+    "b": "79",
+    "c": "93",
+    "d": "14",
+    "e": "247"
+   },
+   "resposta": "d",
+   "explicacao": "Da inclusão e exclusão, |A ∩ B ∩ C| = |A ∪ B ∪ C| − (|A|+|B|+|C|) + (|A∩B|+|A∩C|+|B∩C|) = 168 − 247 + 93 = 14. A alternativa 93 apenas soma as interseções duas a duas; 247 soma os três conjuntos; 79 subtrai a união da soma crua, esquecendo as interseções; 8 desconta o miolo do diagrama de Venn uma vez a mais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-496",
+   "enunciado": "Numa pesquisa sobre três revistas, 60 leitores assinam a revista A, 48 assinam a B e 40 assinam a C; 22 assinam A e B, 18 assinam A e C, 15 assinam B e C, e 8 assinam as três. Quantos leitores assinam apenas a revista C?",
+   "alternativas": {
+    "a": "40",
+    "b": "7",
+    "c": "22",
+    "d": "101",
+    "e": "15"
+   },
+   "resposta": "e",
+   "explicacao": "Quem assina apenas C sai de |C| retirando as duas interseções e devolvendo o miolo, contado a menos: 40 − 18 − 15 + 8 = 15. A alternativa 40 é o total de assinantes de C; 7 esquece de somar de volta os 8 que estão no centro do diagrama de Venn e foram descontados duas vezes; 101 é o número de elementos da união.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-497",
+   "enunciado": "Numa turma, 27 estudantes participam ao mesmo tempo dos projetos A e B, e destes 11 participam também do projeto C. Quantos estudantes participam de A e B, mas não de C?",
+   "alternativas": {
+    "a": "16",
+    "b": "11",
+    "c": "33",
+    "d": "38",
+    "e": "27"
+   },
+   "resposta": "a",
+   "explicacao": "A região do diagrama de Venn pedida é (A ∩ B) − C, que tem 27 − 11 = 16 estudantes. A alternativa 27 devolve a interseção dos conjuntos A e B inteira, incluindo quem também faz C; 11 repete o miolo; 33 triplica esse miolo, erro de quem soma a mesma região nas três interseções; 38 soma em vez de subtrair. Vale notar que 22 também não corresponde a região alguma do diagrama.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-498",
+   "enunciado": "Numa empresa, 72 funcionários falam inglês, 58 falam espanhol e 46 falam francês; 26 falam inglês e espanhol, 20 falam inglês e francês, 17 falam espanhol e francês, e 10 falam os três idiomas. Além disso, 24 funcionários não falam nenhum desses idiomas. Quantos funcionários tem a empresa?",
+   "alternativas": {
+    "a": "123",
+    "b": "147",
+    "c": "176",
+    "d": "113",
+    "e": "133"
+   },
+   "resposta": "b",
+   "explicacao": "A união dos conjuntos vale 176 − 63 + 10 = 123 pela inclusão e exclusão, e o total da empresa é essa união somada aos 24 que não falam nenhum: 123 + 24 = 147. A alternativa 123 para no número de elementos da união; 176 soma os três conjuntos sem descontar as interseções; 113 esquece de devolver o miolo do diagrama de Venn.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-499",
+   "enunciado": "Numa pesquisa sobre três serviços de streaming, as assinaturas simultâneas foram: 30 pessoas assinam A e B, 24 assinam A e C, 19 assinam B e C, e 11 assinam os três. Quantas pessoas assinam pelo menos dois desses serviços?",
+   "alternativas": {
+    "a": "84",
+    "b": "73",
+    "c": "51",
+    "d": "40",
+    "e": "11"
+   },
+   "resposta": "c",
+   "explicacao": "Somando a interseção dos conjuntos duas a duas chega-se a 73, mas quem assina os três foi contado três vezes e deve valer uma só: 73 − 2·11 = 51. É o mesmo ajuste do princípio da inclusão e exclusão, que corrige as contagens repetidas antes de calcular o número de elementos da união. A alternativa 73 mantém a contagem tripla do miolo do diagrama de Venn; 40 conta apenas quem assina exatamente dois; 11 repete o centro; 84 soma em vez de descontar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-500",
+   "enunciado": "Na tabela-verdade da condicional p → q, com p e q proposições simples, essa proposição composta assume valor lógico falso em qual situação?",
+   "alternativas": {
+    "a": "p falsa e q falsa",
+    "b": "p verdadeira e q verdadeira",
+    "c": "em duas situações distintas: p falsa com q verdadeira e também p verdadeira com q verdadeira",
+    "d": "p verdadeira e q falsa",
+    "e": "p falsa e q verdadeira"
+   },
+   "resposta": "d",
+   "explicacao": "A condicional p → q só é falsa quando o antecedente é verdadeiro e o consequente é falso; nas outras três linhas da tabela-verdade ela é verdadeira, inclusive nas duas em que p é falsa. Por isso a negação da condicional é p ∧ ~q, e não outra condicional. Quem marca as demais alternativas costuma confundir a condicional com a bicondicional, que exige mesmo valor lógico dos dois lados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-501",
+   "enunciado": "Uma proposição composta é construída aplicando conectivos às proposições p, q, r e s, todas elas proposições simples. Quantas linhas tem a tabela-verdade dessa proposição composta?",
+   "alternativas": {
+    "a": "12",
+    "b": "32",
+    "c": "4",
+    "d": "8",
+    "e": "16"
+   },
+   "resposta": "e",
+   "explicacao": "Cada proposição simples admite dois valores lógicos, e para todo conjunto de n proposições simples a tabela-verdade tem 2 elevado a n linhas. Com n = 4, são 2·2·2·2 = 16 linhas. A alternativa 8 corresponde a três proposições; 32 corresponde a cinco; 12 soma em vez de multiplicar as possibilidades; 4 conta apenas as proposições, não as combinações de valor lógico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-502",
+   "enunciado": "Considere as proposições p e q e a proposição composta (p ∧ q) → ~p. Em quantas das quatro linhas da tabela-verdade essa proposição composta é verdadeira?",
+   "alternativas": {
+    "a": "3",
+    "b": "4",
+    "c": "0",
+    "d": "1",
+    "e": "2"
+   },
+   "resposta": "a",
+   "explicacao": "A conjunção p ∧ q só é verdadeira na linha em que p e q são ambas verdadeiras; nessa linha ~p é falsa e a condicional fica falsa. Nas outras três linhas o antecedente é falso e a condicional assume valor lógico verdadeiro. Logo são 3 linhas verdadeiras. Marcar 4 é esquecer a linha em que a condicional falha; marcar 1 é inverter o papel do antecedente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-503",
+   "enunciado": "Qual das proposições abaixo é logicamente equivalente à condicional p → q?",
+   "alternativas": {
+    "a": "p ∧ ~q",
+    "b": "~p ∨ q",
+    "c": "~p ∧ q",
+    "d": "p ∨ ~q",
+    "e": "a conjunção de p com a negação de q, que é justamente o caso em que a condicional falha"
+   },
+   "resposta": "b",
+   "explicacao": "Comparando linha a linha na tabela-verdade, p → q e ~p ∨ q têm o mesmo valor lógico nas quatro linhas: ambas só falham com p verdadeira e q falsa. Já p ∧ ~q é a negação da condicional, não a sua equivalente — e é esse mesmo erro que aparece descrito por extenso entre as opções. As formas ~p ∧ q e p ∨ ~q divergem da condicional em pelo menos uma linha da tabela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-504",
+   "enunciado": "Sendo p e q proposições simples, a negação da proposição composta p ∧ q é:",
+   "alternativas": {
+    "a": "p → ~q",
+    "b": "q → p",
+    "c": "~p ∨ ~q",
+    "d": "~p ∧ ~q",
+    "e": "p ∨ q"
+   },
+   "resposta": "c",
+   "explicacao": "Pelas leis de De Morgan, negar uma conjunção troca o conectivo lógico e nega as duas partes: ~(p ∧ q) equivale a ~p ∨ ~q. A alternativa ~p ∧ ~q nega as duas partes mas mantém a conjunção, e só é verdadeira quando as duas falham ao mesmo tempo — a tabela-verdade separa os dois casos. As demais mudam o valor lógico em pelo menos uma linha.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-505",
+   "enunciado": "A bicondicional p ↔ q, lida como \"p se e somente se q\", é verdadeira exatamente quando:",
+   "alternativas": {
+    "a": "p é verdadeira e q é falsa",
+    "b": "p é falsa e q é verdadeira",
+    "c": "basta que uma das duas proposições seja verdadeira para a bicondicional se verificar",
+    "d": "p e q têm o mesmo valor lógico",
+    "e": "p e q têm valores lógicos diferentes"
+   },
+   "resposta": "d",
+   "explicacao": "A bicondicional é a conjunção das duas condicionais, (p → q) ∧ (q → p), e por isso é verdadeira nas duas linhas da tabela-verdade em que p e q coincidem em valor lógico, e falsa nas outras duas. Contentar-se com uma das duas proposições verdadeira é descrever a disjunção, não a bicondicional; isso bastaria se o enunciado dissesse \"ou\", e não \"se e somente se\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-506",
+   "enunciado": "Um inteiro é divisível por 6 se e somente se for divisível por 2 e por 3. Nessa afirmação, ser divisível por 2 e por 3 é, em relação à divisibilidade por 6:",
+   "alternativas": {
+    "a": "condição necessária, mas não suficiente",
+    "b": "condição suficiente, mas não necessária",
+    "c": "uma condição sem relação com a divisibilidade por 6",
+    "d": "condição apenas suficiente, já que há múltiplos de 6 que deixam de ser múltiplos de 3",
+    "e": "condição necessária e suficiente"
+   },
+   "resposta": "e",
+   "explicacao": "A expressão \"se e somente se\" indica uma bicondicional, e numa bicondicional a segunda parte é ao mesmo tempo condição necessária e suficiente para a primeira: a implicação vale nos dois sentidos, com o mesmo valor lógico dos dois lados. As opções que separam necessária de suficiente descrevem uma condicional simples, que vale num sentido só. Chamar a condição de apenas suficiente é falso também no conteúdo: cada múltiplo de 6 é múltiplo de 3.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-507",
+   "enunciado": "Considere a proposição quantificada: \"Todo estudante desta turma foi aprovado no exame\". Qual das alternativas expressa corretamente a negação dessa proposição?",
+   "alternativas": {
+    "a": "Existe pelo menos um estudante desta turma que não foi aprovado no exame.",
+    "b": "Nenhum estudante desta turma foi aprovado no exame.",
+    "c": "Existe pelo menos um estudante desta turma que foi aprovado no exame.",
+    "d": "Os estudantes desta turma deixaram de ser aprovados no exame.",
+    "e": "Existe pelo menos um estudante de outra turma que não foi aprovado no exame do semestre."
+   },
+   "resposta": "a",
+   "explicacao": "A negação lógica da proposição universal \"para todo x, vale P(x)\" é a proposição existencial \"existe pelo menos um x para o qual P(x) falha\": o quantificador universal vira existencial e a propriedade é negada. Negar que a aprovação alcançou o grupo inteiro não obriga a que ninguém tenha sido aprovado, e afirmar isso seria forte demais. Falar de estudantes de outra turma muda o universo do enunciado, e dizer que existe um aprovado preserva o valor lógico da proposição original em vez de negá-lo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-508",
+   "enunciado": "Qual é a negação da proposição \"Existe pelo menos um candidato que não entregou os documentos exigidos\"?",
+   "alternativas": {
+    "a": "Nenhum candidato entregou os documentos exigidos.",
+    "b": "Cada candidato entregou os documentos exigidos.",
+    "c": "Há candidatos que deixaram de entregar os documentos exigidos.",
+    "d": "Cada candidato deixou de entregar ao menos um dos documentos exigidos na inscrição.",
+    "e": "Existe pelo menos um candidato que entregou os documentos exigidos."
+   },
+   "resposta": "b",
+   "explicacao": "Negar uma proposição existencial produz uma proposição universal com a propriedade negada: se é falso que existe um caso de falta, então para todo candidato a entrega ocorreu. O quantificador existencial vira universal. Dizer que há candidatos que deixaram de entregar apenas repete a proposição original com outras palavras, mantendo o mesmo valor lógico; afirmar que ninguém entregou, ou que cada candidato falhou em algum documento, vai muito além do que a negação exige.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-509",
+   "enunciado": "A proposição \"Algum morador do prédio pratica ioga\" tem como negação lógica:",
+   "alternativas": {
+    "a": "Há moradores do prédio que praticam ioga e moradores que não praticam ioga.",
+    "b": "Algum morador do prédio deixa de praticar ioga.",
+    "c": "Nenhum morador do prédio pratica ioga.",
+    "d": "Existe pelo menos um morador do prédio que pratica ioga.",
+    "e": "Cada morador do prédio pratica ioga."
+   },
+   "resposta": "c",
+   "explicacao": "A negação lógica da proposição parte do quantificador: \"algum\" é o existencial, e negar \"existe pelo menos um caso\" equivale a afirmar que para todo morador a propriedade falha — em português, \"nenhum morador pratica ioga\". Dizer que algum morador deixa de praticar nega a propriedade sem mexer no quantificador, e pode conviver com a proposição original sem contradizê-la; falar em existir quem pratique é repetir a original; e afirmar as duas coisas ao mesmo tempo não inverte o valor lógico de coisa alguma.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-510",
+   "enunciado": "Numa fábrica, afirma-se que \"toda peça produzida nesta linha passa pelo controle de qualidade\". Para mostrar que essa afirmação é falsa, basta exibir:",
+   "alternativas": {
+    "a": "que nenhuma peça produzida nesta linha passa pelo controle de qualidade",
+    "b": "uma peça de outra linha que não passa pelo controle de qualidade",
+    "c": "que as peças produzidas nesta linha e nas demais linhas deixam de passar pelo controle de qualidade",
+    "d": "uma peça produzida nesta linha que não passa pelo controle de qualidade",
+    "e": "uma peça produzida nesta linha que passa pelo controle de qualidade"
+   },
+   "resposta": "d",
+   "explicacao": "A negação lógica da proposição com quantificador universal é existencial: para todo caso valia a propriedade, e basta um contraexemplo para inverter o valor lógico da afirmação. Exigir que nenhuma peça passe pelo controle é pedir muito mais do que a negação; e uma peça de outra linha nada diz sobre a linha citada, porque o universo da proposição é apenas esta linha de produção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-511",
+   "enunciado": "Considere a condicional \"Se chove, então a rua fica molhada\". A contrapositiva dessa condicional é:",
+   "alternativas": {
+    "a": "Chove e a rua não fica molhada.",
+    "b": "Se a rua fica molhada, então não choveu, invertendo a ordem das duas partes da condicional.",
+    "c": "Se não chove, então a rua não fica molhada.",
+    "d": "Se a rua fica molhada, então choveu.",
+    "e": "Se a rua não fica molhada, então não choveu."
+   },
+   "resposta": "e",
+   "explicacao": "A contrapositiva de p → q é ~q → ~p, e as duas têm o mesmo valor lógico em cada linha da tabela-verdade. Partir de \"não chove\" produz a inversa (~p → ~q) e partir de \"a rua fica molhada\" produz a recíproca (q → p); nenhuma das duas equivale à condicional original. Afirmar que chove e a rua não fica molhada é a negação da condicional, p ∧ ~q. Trocar a inversa pela contrapositiva é o erro mais frequente nesse item.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-512",
+   "enunciado": "Dada a condicional \"Se um inteiro é múltiplo de 10, então ele é par\", a recíproca dessa condicional é:",
+   "alternativas": {
+    "a": "Se um inteiro é par, então ele é múltiplo de 10.",
+    "b": "Se um inteiro não é múltiplo de 10, então ele não é par.",
+    "c": "Se um inteiro não é par, então ele não é múltiplo de 10.",
+    "d": "Um inteiro é múltiplo de 10 e não é par.",
+    "e": "Se um inteiro é par, então ele não é múltiplo de 10, pois pode terminar em outro algarismo."
+   },
+   "resposta": "a",
+   "explicacao": "A recíproca de p → q é q → p: troca-se a ordem das partes sem negar nada. Negar as duas partes na ordem original produz a inversa; negá-las já invertidas produz a contrapositiva, esta sim com o mesmo valor lógico da condicional original; e afirmar que o inteiro é múltiplo de 10 sem ser par é a negação da condicional. Vale observar que a recíproca aqui é falsa, já que 14 é par sem ser múltiplo de 10, o que mostra que uma condicional verdadeira não arrasta a sua recíproca.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-513",
+   "enunciado": "Qual das proposições abaixo é a negação da condicional \"Se estudo, então passo no exame\"?",
+   "alternativas": {
+    "a": "Se não estudo, então não passo no exame.",
+    "b": "Estudo e não passo no exame.",
+    "c": "Se não passo no exame, então não estudo.",
+    "d": "Não estudo ou passo no exame.",
+    "e": "Se estudo, então não passo no exame, bastando negar a segunda parte da condicional."
+   },
+   "resposta": "b",
+   "explicacao": "A negação da condicional p → q é p ∧ ~q, a única situação em que a tabela-verdade dá falso: o antecedente ocorre e o consequente falha. Partir de \"não estudo\" dá a inversa, partir de \"não passo\" dá a contrapositiva, e \"não estudo ou passo\" é justamente uma forma equivalente à condicional original (~p ∨ q) — de modo que nenhuma delas nega coisa alguma. Negar só o consequente mantendo o \"se\" continua produzindo uma condicional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-514",
+   "enunciado": "Considere as premissas: \"Todo professor desta escola tem pós-graduação\" e \"Toda pessoa com pós-graduação concluiu a graduação\". Qual conclusão se segue necessariamente dessas premissas?",
+   "alternativas": {
+    "a": "Cada pessoa que concluiu a graduação leciona nesta escola.",
+    "b": "Cada pessoa com pós-graduação leciona nesta escola.",
+    "c": "Cada professor desta escola concluiu a graduação.",
+    "d": "Existe pelo menos um professor desta escola que não concluiu a graduação.",
+    "e": "Existe pelo menos uma pessoa com pós-graduação que não leciona nesta escola."
+   },
+   "resposta": "c",
+   "explicacao": "Cada premissa é uma proposição lógica de forma universal, e num silogismo desse tipo a propriedade se transmite: para todo professor vale a pós-graduação, e para todo pós-graduado vale a graduação concluída. Encadeando as duas, obtém-se um argumento válido. As opções que invertem o sentido da inclusão trocam a condicional pela recíproca, e a que aponta um pós-graduado fora da escola, embora plausível no mundo real, não decorre das premissas dadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-515",
+   "enunciado": "Sabe-se que \"se um inteiro termina em 0, então ele é par\". Informa-se, além disso, que certo inteiro é par. O que se pode concluir sobre esse inteiro?",
+   "alternativas": {
+    "a": "Ele termina em 0.",
+    "b": "Ele não termina em 0.",
+    "c": "Ele não é par.",
+    "d": "Nada se conclui: ele pode ser par sem terminar em 0.",
+    "e": "Ele termina em 0, porque a condicional autoriza a leitura da implicação nos dois sentidos."
+   },
+   "resposta": "d",
+   "explicacao": "Afirmar o consequente não é um argumento válido: das premissas p → q e q não se deduz p. Concluir que o inteiro termina em 0 seria usar a recíproca da condicional, que não decorre dela — 24 é par e termina em 4. Só a contrapositiva preserva o valor lógico da condicional, de modo que a informação útil seria saber que o inteiro não é par.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-516",
+   "enunciado": "Considere as premissas: \"Cada atleta da equipe treina pela manhã\" e \"Existe pelo menos um atleta da equipe que é canhoto\". Qual conclusão é válida?",
+   "alternativas": {
+    "a": "Existe pelo menos um atleta da equipe que treina à tarde.",
+    "b": "Nenhum canhoto treina pela manhã.",
+    "c": "Existe pelo menos um canhoto da equipe que treina à tarde, e não pela manhã.",
+    "d": "Cada canhoto treina pela manhã.",
+    "e": "Existe pelo menos um canhoto que treina pela manhã."
+   },
+   "resposta": "e",
+   "explicacao": "A primeira premissa é universal: para todo atleta da equipe vale o treino matinal. A segunda garante que a interseção dos conjuntos \"atletas da equipe\" e \"canhotos\" não é vazia. Logo há ao menos um canhoto no grupo que treina pela manhã, e o silogismo é um argumento válido. Concluir que o quantificador universal alcança os canhotos em geral extrapola as premissas, pois nada se disse sobre canhotos de fora da equipe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-517",
+   "enunciado": "Num certame, ser aprovado no exame é condição necessária para receber o certificado. Disso decorre que:",
+   "alternativas": {
+    "a": "quem recebeu o certificado foi aprovado no exame",
+    "b": "quem não recebeu o certificado não foi aprovado no exame",
+    "c": "ser aprovado no exame e receber o certificado são a mesma coisa",
+    "d": "quem foi aprovado no exame recebeu o certificado, pois a aprovação já basta para obtê-lo",
+    "e": "quem foi aprovado no exame recebeu o certificado"
+   },
+   "resposta": "a",
+   "explicacao": "Dizer que A é condição necessária para B é dizer B → A: receber o certificado implica ter sido aprovado. Isso não autoriza o caminho inverso, que exigiria uma condição necessária e suficiente, ou seja, uma bicondicional. Concluir que quem não recebeu o certificado não foi aprovado é usar a inversa da condicional, que não decorre dela; e concluir que a aprovação garantiu o certificado troca necessária por suficiente, erro que a tabela-verdade da condicional desfaz de imediato.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-518",
+   "enunciado": "Considere as proposições p, q e a proposição composta (~p) ∨ q. Em quantas das quatro linhas da tabela-verdade essa proposição composta é verdadeira?",
+   "alternativas": {
+    "a": "4",
+    "b": "3",
+    "c": "2",
+    "d": "1",
+    "e": "0"
+   },
+   "resposta": "b",
+   "explicacao": "A disjunção só é falsa quando as duas partes falham, isto é, quando ~p é falsa (p verdadeira) e q é falsa. Isso ocorre numa única linha, então nas outras 3 a proposição composta tem valor lógico verdadeiro. Essa composta é a forma equivalente da condicional p → q, e por isso a negação da condicional é p ∧ ~q, verdadeira exatamente naquela linha isolada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-519",
+   "enunciado": "Qual é a negação da proposição \"João estuda e trabalha\"?",
+   "alternativas": {
+    "a": "João estuda ou trabalha.",
+    "b": "João não estuda e não trabalha.",
+    "c": "João não estuda ou não trabalha.",
+    "d": "João não estuda, mas trabalha.",
+    "e": "João não estuda e não trabalha, já que negar uma conjunção pede negar as duas partes de uma vez."
+   },
+   "resposta": "c",
+   "explicacao": "A proposição composta tem a forma p ∧ q, e pelas leis de De Morgan a sua negação é ~p ∨ ~q: o conectivo lógico troca de conjunção para disjunção e cada parte é negada. Basta que uma das duas atividades falhe para que a afirmação original seja falsa, o que a tabela-verdade confirma. Exigir que as duas atividades falhem ao mesmo tempo é confundir a negação da conjunção com a conjunção das negações.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-matematica-520",
+   "enunciado": "Numa turma, cada estudante que faz o curso de robótica faz também o curso de programação. Sabendo que 18 estudantes fazem programação e 7 fazem robótica, quantos fazem programação sem fazer robótica?",
+   "alternativas": {
+    "a": "7",
+    "b": "3",
+    "c": "25",
+    "d": "11",
+    "e": "18"
+   },
+   "resposta": "d",
+   "explicacao": "A hipótese diz que para todo estudante de robótica vale também a programação, ou seja, o conjunto da robótica está contido no da programação, e no diagrama de Venn uma das regiões fica inteiramente dentro da outra. A interseção dos conjuntos é então o próprio grupo de robótica, e a diferença entre conjuntos procurada vale 18 − 7 = 11. A alternativa 25 soma os dois grupos como se fossem separados; 18 e 7 repetem os totais dados.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "textos": [

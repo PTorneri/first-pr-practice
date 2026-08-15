@@ -68932,6 +68932,720 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "banca": "einstein",
    "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-263",
+   "texto_apoio": "Numa cena de dez minutos, a câmera acompanha o protagonista da cozinha até a calçada sem que haja um único corte, sustentando a ação inteira dentro de um mesmo plano contínuo.",
+   "enunciado": "No cinema, o efeito principal dessa escolha sobre quem assiste é:",
+   "alternativas": {
+    "a": "reduzir a duração real da cena, comprimindo em segundos o que levaria minutos para acontecer no espaço filmado",
+    "b": "apagar a presença da câmera, que passa a registrar a ação de um ponto fixo e distante do ambiente",
+    "c": "fazer o tempo da cena coincidir com o tempo do espectador, reforçando a impressão de continuidade e de espaço real",
+    "d": "transferir para a trilha sonora a tarefa de indicar as passagens de tempo, já que a imagem deixa de marcá-las",
+    "e": "substituir o trabalho de decupagem por um esquema de cortes rápidos entre ângulos opostos, recurso que a montagem clássica reserva às cenas de perseguição e costuma usar para acelerar a leitura da ação"
+   },
+   "resposta": "c",
+   "explicacao": "O plano contínuo faz a duração da cena bater com a duração da experiência de quem assiste, e é por isso que a linguagem audiovisual o usa quando quer sustentar tensão sem alívio. Cortar seria justamente admitir a passagem de tempo que o cinema, nesse caso, decide recusar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-264",
+   "texto_apoio": "Um filme alterna, de poucos em poucos segundos, imagens de uma família à mesa e imagens de um caminhão que se aproxima em alta velocidade pela estrada.",
+   "enunciado": "Esse procedimento de montagem produz sentido porque:",
+   "alternativas": {
+    "a": "descreve o interior das personagens por meio de planos fechados sucessivos em seus rostos, dispensando o texto do roteiro",
+    "b": "isola cada ambiente num bloco fechado, de modo que o espectador acompanha primeiro uma história e só depois a outra, sem que as duas se cruzem em ponto algum da projeção que ele assiste na sala",
+    "c": "elimina a noção de duração, já que planos curtos impedem o espectador de medir o tempo da ação",
+    "d": "entrega à trilha sonora a função de ligar as duas ações, que a imagem apresenta como independentes",
+    "e": "aproxima duas ações distantes no espaço e sugere que ocorrem ao mesmo tempo, criando expectativa sobre o encontro entre elas"
+   },
+   "resposta": "e",
+   "explicacao": "A montagem paralela é uma das invenções mais antigas do cinema: alternar dois blocos de imagem cria simultaneidade onde não há nenhuma marca visual dela. O sentido não está em cada plano, está na ordem em que a linguagem audiovisual os dispõe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-265",
+   "texto_apoio": "Numa sequência de interrogatório, o diretor abandona o plano geral da sala e fecha o enquadramento no rosto da personagem, que passa a ocupar a tela inteira.",
+   "enunciado": "Esse fechamento do enquadramento cumpre, no cinema, a função de:",
+   "alternativas": {
+    "a": "situar geograficamente a cena, informando ao espectador onde a ação acontece",
+    "b": "concentrar a atenção na reação e no estado interno da personagem, tornando o detalhe do rosto o dado principal",
+    "c": "marcar a passagem de tempo entre dois momentos distantes da narrativa",
+    "d": "indicar que a cena foi filmada em estúdio, e não em locação externa",
+    "e": "distribuir de modo igual o interesse entre as figuras presentes na sala, recurso pelo qual a decupagem clássica costuma apresentar reuniões e assembleias em que as vozes se equivalem umas às outras"
+   },
+   "resposta": "b",
+   "explicacao": "Fechar o enquadramento é hierarquizar: o que sobra no quadro é o que a obra pede para ser olhado. No vocabulário audiovisual, o plano fechado no rosto é o recurso clássico para deslocar o interesse da situação para a reação de quem a vive.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-266",
+   "texto_apoio": "A câmera é posicionada abaixo da linha dos olhos e aponta para cima, de modo que a figura filmada aparece recortada contra o teto e parece maior do que quem a observa.",
+   "enunciado": "No vocabulário do cinema, esse posicionamento tende a:",
+   "alternativas": {
+    "a": "reduzir a nitidez do plano, exigindo iluminação adicional sobre o fundo",
+    "b": "indicar que a cena se passa num tempo anterior ao da história principal",
+    "c": "revelar o espaço em volta da figura, ampliando o campo visível do ambiente",
+    "d": "sugerir poder ou ameaça, já que o ângulo baixo engrandece a figura diante de quem assiste",
+    "e": "neutralizar a leitura da cena, porque um ponto de vista situado abaixo da linha dos olhos é o que mais se aproxima da visão comum de alguém em pé diante de outra pessoa de estatura parecida"
+   },
+   "resposta": "d",
+   "explicacao": "O ângulo é argumento: a câmera baixa apresenta a figura como quem a olha de baixo, e a linguagem audiovisual explora há um século essa correspondência entre altura do olhar e relação de força. O contrário, a câmera alta, tende a diminuir quem é filmado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-267",
+   "texto_apoio": "Numa mesma imagem, a personagem em primeiro plano e a casa ao fundo aparecem igualmente nítidas; nada na tela está desfocado.",
+   "enunciado": "Esse recurso, chamado profundidade de campo, interessa ao cinema porque:",
+   "alternativas": {
+    "a": "deixa o espectador escolher para onde olhar dentro do quadro, em vez de ter a atenção dirigida pelo foco",
+    "b": "encurta a duração do plano, obrigando o corte a acontecer mais cedo",
+    "c": "impede o uso de movimentos de câmera, que borrariam o segundo plano",
+    "d": "converte a imagem em preto e branco, já que o foco amplo reduz as cores",
+    "e": "concentra o olhar num único ponto do quadro, procedimento pelo qual a linguagem audiovisual costuma isolar a figura principal de um ambiente cheio e desviar a atenção do que acontece atrás dela"
+   },
+   "resposta": "a",
+   "explicacao": "Quando tudo está nítido, o filme deixa de apontar o que importa e devolve essa decisão a quem assiste. Foi esse deslocamento, e não a proeza técnica, que a crítica de cinema apontou como um ganho de liberdade da imagem audiovisual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-268",
+   "texto_apoio": "Numa cena de bar, ouve-se o rádio ligado no balcão; logo depois, entra uma trilha sonora que nenhuma personagem escuta.",
+   "enunciado": "No estudo do som no cinema, a diferença entre esses dois sons está em:",
+   "alternativas": {
+    "a": "o primeiro ser gravado em estúdio e o segundo, captado em locação",
+    "b": "o primeiro pertencer à montagem final e o segundo, ao material bruto",
+    "c": "o primeiro nascer dentro do mundo da história e o segundo vir de fora dele, audível só para quem assiste",
+    "d": "o primeiro ser mais alto que o segundo na mixagem entregue à sala",
+    "e": "o primeiro depender do roteiro escrito antes das filmagens e o segundo ser acrescentado por decisão do elenco durante os ensaios da cena montada no set de gravação"
+   },
+   "resposta": "c",
+   "explicacao": "A distinção separa o som que pertence ao mundo narrado daquele que só o espectador ouve. É uma das ferramentas mais econômicas da linguagem audiovisual, porque permite comentar a cena sem acrescentar nenhuma imagem nova.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-269",
+   "texto_apoio": "Nos anos 1960, um grupo de realizadores brasileiros propôs um cinema feito com poucos recursos, filmado em locações do sertão e das periferias, que assumia a precariedade técnica como escolha e não como defeito.",
+   "enunciado": "Essa proposta, conhecida como Cinema Novo, organizava-se em torno da convicção de que:",
+   "alternativas": {
+    "a": "a qualidade técnica do equipamento determinava o alcance político de um filme",
+    "b": "a escassez de meios podia virar linguagem, transformando a condição do subdesenvolvimento em tema e em forma",
+    "c": "o cinema brasileiro deveria copiar o padrão industrial dos estúdios estrangeiros",
+    "d": "o documentário era o caminho possível mais seguro para tratar do país",
+    "e": "a plateia precisava ser poupada de temas duros, cabendo ao realizador oferecer histórias amenas e bem acabadas que não pusessem em causa a situação social do país em que foram feitas"
+   },
+   "resposta": "b",
+   "explicacao": "A formulação de Glauber Rocha inverte o sinal da carência: a câmera na mão e a imagem áspera deixam de ser limitação e passam a ser a forma adequada ao assunto. O Cinema Novo é o caso brasileiro mais citado de estética nascida de uma condição material.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-270",
+   "texto_apoio": "Num documentário, o realizador aparece em quadro, conversa com os entrevistados e deixa audível a própria pergunta; em outro, a câmera observa à distância e nenhuma pergunta é ouvida.",
+   "enunciado": "A diferença entre os dois procedimentos está em:",
+   "alternativas": {
+    "a": "um ser rodado em cor e o outro em preto e branco",
+    "b": "um usar imagens antigas e o outro, apenas material inédito",
+    "c": "um pertencer inteiramente ao campo da ficção e o outro ao jornalismo de televisão, de modo que só o segundo estaria autorizado a apresentar depoimentos de pessoas reais diante da câmera",
+    "d": "um dispensar montagem e o outro depender dela para existir",
+    "e": "o grau de presença assumida do realizador, que num caso interfere na cena e no outro procura apagar a própria interferência"
+   },
+   "resposta": "e",
+   "explicacao": "Os manuais de documentário chamam esses arranjos de modo participativo e modo observacional. Nenhum dos dois é mais verdadeiro: um assume a interferência e a mostra, o outro a esconde, e essa escolha já é uma posição sobre o que a imagem audiovisual pode afirmar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-271",
+   "texto_apoio": "A programação de um canal aberto de televisão encadeia telejornal, novela e intervalo comercial num fluxo contínuo, pensado para que o espectador permaneça ligado de um programa ao seguinte.",
+   "enunciado": "Essa organização revela que, na televisão aberta, a unidade de sentido é:",
+   "alternativas": {
+    "a": "o fluxo da grade, e não o programa isolado, já que a emissora disputa a permanência do espectador ao longo da noite",
+    "b": "o episódio fechado, consumido no momento que o espectador escolher",
+    "c": "o intervalo comercial, cujo conteúdo determina a linha editorial do telejornal",
+    "d": "a duração do plano, tomada de empréstimo à decupagem do cinema clássico",
+    "e": "a temporada completa, disponibilizada de uma vez para que o espectador organize sozinho a ordem e o momento em que assiste a cada capítulo da história que acompanha"
+   },
+   "resposta": "a",
+   "explicacao": "Pensar a televisão por programas isolados é ler nela uma lógica de cinema. O que a emissora aberta administra é a continuidade da grade, e a alternativa que descreve a temporada liberada de uma vez descreve o streaming, um arranjo audiovisual de outro tipo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-272",
+   "texto_apoio": "Uma plataforma de streaming libera de uma vez os dez capítulos de uma temporada e registra em que minuto cada assinante interrompe a exibição.",
+   "enunciado": "Comparado ao modelo da televisão aberta, esse arranjo muda a relação com o público porque:",
+   "alternativas": {
+    "a": "dispensa a necessidade de roteiro, já que a ordem dos capítulos deixa de importar",
+    "b": "transfere ao anunciante a decisão sobre o corte final de cada capítulo",
+    "c": "reduz o custo de produção, pois suprime a etapa de montagem",
+    "d": "desloca o controle do tempo de exibição para o assinante e devolve à plataforma um registro detalhado do comportamento de quem assiste",
+    "e": "obriga cada capítulo a caber no intervalo entre dois blocos comerciais, restrição que a grade da televisão aberta impõe aos programas exibidos em horário de maior audiência"
+   },
+   "resposta": "d",
+   "explicacao": "A troca é dupla e costuma ser lida só pela metade: o espectador ganha o comando do quando, e a plataforma ganha um dado sobre ele que a televisão aberta nunca teve. É essa medição que reorganiza o que a produção audiovisual decide financiar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-273",
+   "texto_apoio": "Um fotógrafo brasileiro percorre por anos garimpos, campos de refugiados e regiões de gelo, e publica o resultado em conjuntos de imagens em preto e branco de forte contraste.",
+   "enunciado": "Sobre o trabalho de Sebastião Salgado, uma leitura recorrente da crítica sustenta que:",
+   "alternativas": {
+    "a": "as imagens abandonam o registro documental e assumem a forma de propaganda institucional",
+    "b": "a força documental convive com o cuidado formal, e é essa apuração da forma que divide a crítica sobre o modo de mostrar o sofrimento",
+    "c": "o uso do preto e branco decorre de limitação técnica do equipamento disponível",
+    "d": "as fotografias foram feitas em estúdio, com cenários montados para cada tema",
+    "e": "o interesse do conjunto está apenas no dado geográfico das regiões percorridas, sendo o tratamento visual das imagens uma questão secundária para o público que observa esse trabalho"
+   },
+   "resposta": "b",
+   "explicacao": "A polêmica em torno da obra é justamente essa: a fotografia é bela, e há quem sustente que a beleza atenua o que a imagem denuncia. Reconhecer a tensão é mais produtivo que escolher um lado, e é o que as bancas costumam cobrar diante desse fotógrafo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-274",
+   "texto_apoio": "Uma caixa fechada, com um furo pequeno numa das faces, projeta na face oposta a imagem invertida do que está do lado de fora. O princípio da câmara escura é conhecido desde muito antes de a fotografia existir.",
+   "enunciado": "A passagem desse princípio para a fotografia dependeu, historicamente, de:",
+   "alternativas": {
+    "a": "aumentar o furo até que a imagem projetada ganhasse nitidez suficiente",
+    "b": "substituir a caixa por um sistema de espelhos que corrigisse a inversão",
+    "c": "encontrar uma superfície sensível à luz capaz de fixar a imagem projetada",
+    "d": "reduzir o tempo de projeção a frações de segundo dentro da própria caixa",
+    "e": "converter a imagem projetada em desenho feito à mão sobre papel transparente, prática adotada por pintores durante séculos e que dispensava por completo o registro químico da luz sobre a chapa"
+   },
+   "resposta": "c",
+   "explicacao": "A projeção já existia; o que faltava era fixá-la. A fotografia nasce quando a química resolve esse problema, e é essa data que separa a imagem que se vê da imagem que permanece — a condição de toda a cultura audiovisual posterior.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-275",
+   "texto_apoio": "Um fotógrafo espera na esquina até que um ciclista, uma sombra projetada no muro e um cartaz coincidam num só quadro, e dispara uma única vez.",
+   "enunciado": "Essa prática, associada à noção de instante decisivo, define a fotografia como:",
+   "alternativas": {
+    "a": "montagem prévia do acontecimento diante da lente, de modo que o fotógrafo combinaria com os passantes a hora e o lugar de cada gesto antes de acionar o disparador da câmera que carrega",
+    "b": "registro automático, em que a escolha do momento pouco importa",
+    "c": "resultado de tratamento posterior da imagem, feito depois do disparo",
+    "d": "documento sem autoria, produzido pelo equipamento e não por quem o maneja",
+    "e": "decisão de olhar: o valor da imagem nasce do reconhecimento do momento exato em que os elementos do quadro se organizam"
+   },
+   "resposta": "e",
+   "explicacao": "A expressão consagrada por Cartier-Bresson desloca a autoria do aparelho para o olho: a fotografia não inventa a cena, escolhe o segundo em que ela se organiza. É o argumento clássico contra a ideia de que a imagem técnica se faz sozinha.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-276",
+   "texto_apoio": "Antes da fotografia, ver uma tela pintada exigia estar diante dela, num lugar determinado. Com a imagem técnica, a mesma obra passa a circular em milhares de cópias, em jornais, cartazes e telas.",
+   "enunciado": "Walter Benjamin descreveu esse deslocamento afirmando que a reprodutibilidade técnica:",
+   "alternativas": {
+    "a": "corrói a aura da obra, isto é, sua existência única aqui e agora, e abre caminho para funções sociais novas da imagem",
+    "b": "aumenta o preço das cópias, que passam a valer mais que o original",
+    "c": "encerra a circulação das imagens, restrita ao lugar em que foram feitas",
+    "d": "torna a fotografia incapaz de servir a fins políticos ou publicitários",
+    "e": "devolve ao público o contato direto com o objeto original, agora acessível apenas nas salas em que ele foi exposto desde o momento em que a obra deixou o ateliê de quem a produziu"
+   },
+   "resposta": "a",
+   "explicacao": "Benjamin não lamenta a perda: para ele, a aura da obra amarrava a imagem ao ritual, e a cópia técnica a solta dele. O texto é a porta de entrada canônica para pensar fotografia e cinema como formas que mudam o estatuto do que se chama arte.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-277",
+   "texto_apoio": "Bonecos de massa são fotografados um quadro por vez; entre um disparo e o outro, alguém desloca levemente um braço ou uma perna. Projetados em sequência, os quadros produzem movimento.",
+   "enunciado": "Essa técnica de animação depende, essencialmente, de:",
+   "alternativas": {
+    "a": "filmar o movimento em tempo real e acelerá-lo depois na edição",
+    "b": "desenhar cada quadro à mão sobre folhas transparentes sobrepostas",
+    "c": "decompor o movimento em posturas sucessivas, registradas quadro a quadro, que a projeção reconstrói como gesto contínuo",
+    "d": "usar programas que calculam sozinhos as etapas entre dois extremos",
+    "e": "captar o deslocamento dos bonecos por sensores presos ao corpo de intérpretes humanos, informação que depois é transferida para o modelo tridimensional exibido na tela do cinema"
+   },
+   "resposta": "c",
+   "explicacao": "A animação quadro a quadro expõe o princípio de toda imagem em movimento: não há movimento na tela, há sucessão rápida de imagens fixas. O cinema com atuação ao vivo esconde esse fato; o stop motion o mostra a cada gesto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-278",
+   "texto_apoio": "Um videoclipe de três minutos alterna imagens sem ligação causal entre si — um corredor vazio, um rosto na chuva, uma cidade vista do alto — presas apenas pelo andamento da faixa sonora.",
+   "enunciado": "Essa organização mostra que a linguagem do videoclipe se apoia menos na narrativa e mais em:",
+   "alternativas": {
+    "a": "explicação verbal, fornecida por legendas ao longo da exibição",
+    "b": "continuidade de espaço, que mantém as cenas num mesmo lugar",
+    "c": "duração longa dos planos, que dá tempo de reconhecer cada ambiente",
+    "d": "associação de imagens, cuja sucessão produz sentido por afinidade visual e por sintonia com o andamento sonoro",
+    "e": "reconstituição fiel de acontecimentos ocorridos durante a gravação em estúdio, material que o público acompanha como se assistisse ao registro documental de um dia inteiro de trabalho"
+   },
+   "resposta": "d",
+   "explicacao": "O videoclipe é o formato audiovisual em que a montagem se emancipa da causalidade: as imagens não contam, elas rimam. Reconhecer isso evita o erro comum de cobrar do clipe uma história que ele não se propôs a contar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-279",
+   "texto_apoio": "Ao ler um roteiro, uma produtora observa que a protagonista quer sair da cidade, que o irmão doente a impede e que a decisão se resolve na última cena.",
+   "enunciado": "O elemento que estrutura a narrativa descrita é:",
+   "alternativas": {
+    "a": "a locação escolhida, que fixa o gênero do filme desde o início",
+    "b": "o conflito entre um desejo e o obstáculo que se opõe a ele, motor que sustenta a progressão até o desfecho",
+    "c": "a divisão do texto em blocos de duração idêntica",
+    "d": "a ordem cronológica dos acontecimentos, indispensável à compreensão",
+    "e": "a descrição minuciosa dos cenários e do figurino de cada personagem, informação a partir da qual a equipe de produção estabelece o sentido geral da história que será narrada"
+   },
+   "resposta": "b",
+   "explicacao": "Sem obstáculo não há progressão, e sem progressão o roteiro vira descrição. É por isso que a análise de cinema começa pelo par desejo/obstáculo antes de discutir estilo: ele explica por que a cena seguinte precisa existir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-280",
+   "texto_apoio": "Numa conversa entre duas pessoas, a câmera permanece de um mesmo lado da linha imaginária que liga os dois corpos; se atravessasse essa linha, as figuras pareceriam trocar de lado na tela.",
+   "enunciado": "Essa convenção da decupagem clássica existe para:",
+   "alternativas": {
+    "a": "preservar a orientação espacial do espectador, que continua sabendo quem está à esquerda e quem está à direita",
+    "b": "reduzir o número de planos necessários para cobrir a cena",
+    "c": "impedir que o som direto capte o ruído do deslocamento do equipamento",
+    "d": "assegurar iluminação uniforme sobre os dois rostos filmados",
+    "e": "permitir que o público reconstrua sozinho a ordem dos acontecimentos, tarefa que a montagem paralela transfere a quem assiste ao alternar duas ações filmadas em lugares distintos"
+   },
+   "resposta": "a",
+   "explicacao": "A regra do eixo não tem valor estético em si: ela protege a legibilidade do espaço. Filmes a rompem de propósito quando querem produzir desorientação, o que confirma o princípio — no cinema, quebrar a convenção só significa alguma coisa porque ela existe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-281",
+   "texto_apoio": "Um plano mostra a personagem fechando a mala; o plano seguinte a mostra descendo de um ônibus em outra cidade. Nada exibe a viagem.",
+   "enunciado": "Esse salto entre os dois planos é possível porque, no cinema:",
+   "alternativas": {
+    "a": "o som se encarrega de narrar o trecho ausente ao espectador",
+    "b": "a duração real dos acontecimentos precisa aparecer integralmente na tela, de modo que a passagem de uma cidade para a outra exigiria o registro contínuo das horas gastas no percurso",
+    "c": "o plano seguinte repete o anterior sob outro ângulo, fechando a lacuna",
+    "d": "a legenda informa o tempo transcorrido entre uma imagem e a outra",
+    "e": "a montagem suprime o que é dedutível, e o público completa mentalmente o intervalo entre as duas imagens"
+   },
+   "resposta": "e",
+   "explicacao": "A elipse é a economia básica da narrativa audiovisual: o filme mostra o necessário e conta com a competência de quem assiste para ligar os pontos. Mostrar a viagem inteira seria informar, não narrar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-282",
+   "texto_apoio": "Um comercial de trinta segundos não mostra o produto até o último plano: exibe uma família reunida, uma casa iluminada e só então a marca aparece no canto da tela.",
+   "enunciado": "A estratégia dessa peça de publicidade audiovisual consiste em:",
+   "alternativas": {
+    "a": "detalhar as características técnicas do produto antes de nomeá-lo",
+    "b": "reproduzir a estrutura do telejornal para conferir credibilidade ao anúncio",
+    "c": "associar a marca a um repertório afetivo já disponível no espectador, mudando o argumento do produto para o sentimento",
+    "d": "recorrer ao formato do documentário, com depoimentos de consumidores reais",
+    "e": "comparar publicamente o produto com os concorrentes disponíveis no comércio, prática que a publicidade brasileira submete a limites definidos pelo código de autorregulamentação do setor"
+   },
+   "resposta": "c",
+   "explicacao": "A peça vende um lugar afetivo, e o produto entra como chave dele. Essa transferência é o mecanismo mais estudado da linguagem audiovisual publicitária, e independe da qualidade do que está sendo anunciado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-283",
+   "texto_apoio": "Um filme de ficção é rodado com a câmera na mão, com a luz disponível no local e com elenco não profissional, de modo que a imagem lembra a de um documentário.",
+   "enunciado": "Essa escolha estética produz, em quem assiste, o efeito de:",
+   "alternativas": {
+    "a": "afastá-lo da ação, lembrando a cada instante que se trata de invenção",
+    "b": "reduzir a importância do roteiro, que passa a ser escrito durante a filmagem",
+    "c": "sugerir que a história se passa num tempo anterior ao da filmagem",
+    "d": "aproximá-lo do acontecimento, emprestando à ficção a credibilidade do registro direto",
+    "e": "converter o filme em documentário propriamente dito, uma vez que o uso de elenco não profissional e de luz natural bastaria para suprimir o caráter ficcional da obra que está sendo apresentada"
+   },
+   "resposta": "d",
+   "explicacao": "Marcas de documentário funcionam como sinal de autenticidade, e a ficção as usa deliberadamente. O empréstimo é de estilo, não de estatuto: o filme segue ficcional, e é justamente essa distância que a análise audiovisual precisa manter à vista.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-284",
+   "texto_apoio": "Em duas tomadas diferentes, o mesmo objeto se aproxima de quem assiste. Na primeira, a câmera desliza sobre trilhos até chegar perto dele; na segunda, o equipamento fica parado e só a lente se fecha sobre o objeto.",
+   "enunciado": "A diferença visual entre travelling e zoom, no cinema, aparece principalmente em:",
+   "alternativas": {
+    "a": "o nível de ruído captado pelo microfone durante cada tomada",
+    "b": "o comportamento do fundo, que se reorganiza no travelling e apenas se achata no zoom, porque só no primeiro caso o ponto de vista se desloca de fato",
+    "c": "a duração máxima permitida a cada plano no corte final",
+    "d": "a quantidade de luz necessária para expor corretamente a imagem",
+    "e": "a possibilidade de gravar som direto, disponível apenas enquanto o equipamento permanece imóvel sobre o tripé durante o registro inteiro da cena que está sendo filmada pela equipe"
+   },
+   "resposta": "b",
+   "explicacao": "O zoom altera a lente; o travelling altera o lugar de onde se olha. Por isso só o travelling reorganiza as relações entre os planos do fundo, e é essa diferença perceptiva, e não a mecânica, que a análise audiovisual usa para separar os dois movimentos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-285",
+   "texto_apoio": "Um plano mostra a personagem olhando para fora do quadro; o plano seguinte mostra um cão na calçada. Nenhum texto informa que ela está vendo o cão.",
+   "enunciado": "A ligação entre as duas imagens se estabelece porque:",
+   "alternativas": {
+    "a": "o som do segundo plano se repete no primeiro, criando a ponte",
+    "b": "a legenda esclarece a relação entre as duas cenas exibidas",
+    "c": "o segundo plano dura mais que o primeiro, o que indica prioridade",
+    "d": "os dois planos foram registrados no mesmo instante por duas câmeras colocadas em lados opostos da rua, condição sem a qual a costura entre olhar e objeto perderia validade diante do público",
+    "e": "a direção do olhar no primeiro plano é lida como promessa, e a montagem cumpre essa promessa ao apresentar o objeto olhado"
+   },
+   "resposta": "e",
+   "explicacao": "É o raccord de olhar, uma das costuras mais antigas do cinema: a imagem não precisa provar a ligação, basta que a direção do olhar a anuncie. O público faz o resto, e esse trabalho conjunto é o que sustenta a continuidade audiovisual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-286",
+   "texto_apoio": "Durante uma sequência inteira, a imagem balança conforme os passos de alguém, atravessa um corredor e enfim encontra um espelho — em que aparece o rosto de quem carregava aquele ponto de vista.",
+   "enunciado": "O recurso descrito é a câmera subjetiva, cuja função narrativa é:",
+   "alternativas": {
+    "a": "colocar o espectador no lugar perceptivo da personagem, fazendo coincidir o campo visual dela com o da tela",
+    "b": "informar a hora exata em que a ação se passa dentro da história",
+    "c": "reduzir o custo de produção da sequência, que dispensa iluminação",
+    "d": "indicar que a cena pertence ao passado da personagem, e não ao presente",
+    "e": "revelar de uma vez a totalidade do espaço percorrido, procedimento que a decupagem clássica reserva ao plano geral quando precisa situar a ação num ambiente ainda desconhecido do público"
+   },
+   "resposta": "a",
+   "explicacao": "A câmera subjetiva iguala o quadro ao campo de visão de quem vê dentro da história. O espelho, no fim, é o recurso pelo qual o cinema devolve ao espectador a identidade daquele olhar sem precisar de nenhuma frase explicativa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-287",
+   "texto_apoio": "Numa cena, a fonte de luz é pequena e direta: as bordas das sombras no rosto ficam nítidas e recortadas. Noutra, a luz atravessa um tecido branco e as sombras perdem contorno.",
+   "enunciado": "No cinema, essa escolha de iluminação atua sobre a cena porque:",
+   "alternativas": {
+    "a": "determina o formato do quadro em que a imagem será exibida",
+    "b": "define a ordem em que os planos aparecerão no corte final",
+    "c": "a qualidade da fonte altera o clima da imagem, com a luz dura tendendo à dramaticidade e a luz difusa, ao acolhimento",
+    "d": "obriga o elenco a permanecer imóvel durante o registro da cena",
+    "e": "reduz o tempo de filmagem necessário em locações externas, uma vez que a fonte pequena e direta dispensa o ajuste do equipamento a cada nova inclinação do sol ao longo do dia de trabalho"
+   },
+   "resposta": "c",
+   "explicacao": "A luz não ilumina apenas, ela qualifica. A direção de fotografia trabalha exatamente nessa faixa: escolher o tamanho e a difusão da fonte é escolher o tom emocional do plano antes que o elenco diga qualquer coisa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-288",
+   "texto_apoio": "Ouve-se uma porta arrombada e gritos, mas a imagem permanece no rosto de uma criança sentada na cozinha. Nada do que acontece na sala aparece na tela.",
+   "enunciado": "O uso do fora de campo, nesse caso, funciona porque:",
+   "alternativas": {
+    "a": "elimina a necessidade de trilha sonora na sequência",
+    "b": "prova ao espectador que a cena não foi manipulada na montagem",
+    "c": "reduz a duração do plano exibido, agilizando a narrativa",
+    "d": "o que não se vê é preenchido pela imaginação de quem assiste, e a reação no rosto basta para orientar o sentido do que ocorre",
+    "e": "permite mostrar ao mesmo tempo os dois ambientes da casa, técnica pela qual o cinema costuma resolver cenas em que duas ações precisam ser acompanhadas sem interrupção pelo público"
+   },
+   "resposta": "d",
+   "explicacao": "O fora de campo é uma economia poderosa da linguagem audiovisual: mostrar menos aumenta o efeito, porque o que o espectador imagina é ajustado ao próprio medo. O rosto em quadro funciona como o termômetro do que a tela recusa exibir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-289",
+   "texto_apoio": "Depois de uma explosão, um filme retira o som por quinze segundos: a imagem continua agitada, mas a sala fica em silêncio.",
+   "enunciado": "No cinema, esse silêncio construído produz sentido porque:",
+   "alternativas": {
+    "a": "reproduz uma falha técnica da projeção, que o público reconhece",
+    "b": "o contraste com o volume anterior traduz o estado da personagem, sugerindo aturdimento sem precisar mostrá-lo",
+    "c": "reduz o custo da mixagem final entregue às salas de exibição",
+    "d": "informa que a sequência seguinte se passa num tempo anterior",
+    "e": "obedece a uma norma técnica de exibição que limita o volume máximo admitido nas salas comerciais, imposta às distribuidoras depois de reclamações do público sobre o excesso de ruído"
+   },
+   "resposta": "b",
+   "explicacao": "O silêncio no cinema raramente é ausência: é um som escolhido. Colocado logo depois do pico de volume, ele transporta o espectador para dentro da percepção alterada da personagem, o que nenhuma linha de diálogo faria com a mesma economia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-290",
+   "texto_apoio": "Um documentário sobre os anos 1970 é montado apenas com imagens gravadas na época por equipes de televisão e por famílias, sem nenhuma cena filmada no presente.",
+   "enunciado": "A escolha de trabalhar só com material preexistente implica que:",
+   "alternativas": {
+    "a": "o documentário perde o direito de propor uma interpretação sobre o período, ficando limitado a apresentar em ordem cronológica o material que conseguiu reunir junto às emissoras e às famílias",
+    "b": "a montagem se torna dispensável, já que as imagens vêm prontas",
+    "c": "as imagens antigas falam por si e não admitem leitura divergente",
+    "d": "o resultado se aproxima do telejornal, gênero em que a imagem se apresenta como neutra",
+    "e": "a autoria se desloca da filmagem para a seleção e a ordem das imagens, e é aí que o realizador constrói o argumento do filme"
+   },
+   "resposta": "e",
+   "explicacao": "Quando não se filma nada, resta escolher e ordenar — e é justamente aí que mora o ponto de vista. O documentário feito de material preexistente torna visível o que todo filme faz de qualquer modo: a montagem é o lugar do argumento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-291",
+   "texto_apoio": "Numa reunião de pauta, a chefia de um telejornal decide que a cobertura de uma enchente abrirá a edição e que uma votação no Congresso entrará no terceiro bloco.",
+   "enunciado": "Essa rotina evidencia que, na televisão jornalística:",
+   "alternativas": {
+    "a": "a hierarquia da edição já é um juízo sobre o que importa, e não um reflexo automático dos acontecimentos do dia",
+    "b": "a ordem dos assuntos é definida pela duração das imagens disponíveis",
+    "c": "a escolha de pauta cabe ao anunciante que patrocina o bloco",
+    "d": "o critério de abertura é fixado por norma legal aplicada às emissoras",
+    "e": "a edição apenas transcreve para o vídeo a ordem em que os acontecimentos ocorreram ao longo do dia, cabendo à equipe o trabalho técnico de ajustar cada reportagem ao tempo do bloco"
+   },
+   "resposta": "a",
+   "explicacao": "A ordem do telejornal é discurso: o que abre a edição é apresentado como o mais importante, e essa decisão é humana e disputada. Ler televisão é ler essa hierarquia, não só o conteúdo de cada reportagem isolada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-292",
+   "texto_apoio": "Uma plataforma de streaming exibe a cada assinante uma capa diferente para o mesmo filme, escolhida conforme o que ele assistiu antes.",
+   "enunciado": "Essa prática mostra que, no ambiente do streaming:",
+   "alternativas": {
+    "a": "o conteúdo do filme muda conforme o perfil de quem assiste",
+    "b": "a capa substitui o roteiro como instrumento de narrativa",
+    "c": "a apresentação do catálogo é personalizada, e a decisão sobre o que se vê passa também pelo modo como a plataforma oferece cada obra",
+    "d": "a exibição obedece a uma grade fixa, como na televisão aberta",
+    "e": "o público perde acesso ao catálogo completo do serviço, restrito às obras que a plataforma decide mostrar na tela inicial de cada perfil cadastrado na assinatura"
+   },
+   "resposta": "c",
+   "explicacao": "A capa é a primeira imagem audiovisual que o assinante recebe, e ela já vem endereçada. Perceber isso é perceber que a seleção e a vitrine do catálogo viraram parte da obra que chega ao público, e não uma etapa neutra de distribuição.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-293",
+   "texto_apoio": "Uma fotografia mostra uma multidão correndo numa avenida. Publicada com a legenda 'fuga durante o temporal', ela é lida de um modo; com a legenda 'confronto na manifestação', de outro.",
+   "enunciado": "O exemplo demonstra que, na fotografia de imprensa:",
+   "alternativas": {
+    "a": "a legenda é um acréscimo dispensável ao trabalho do fotógrafo",
+    "b": "o valor documental da imagem depende só de sua nitidez técnica",
+    "c": "a imagem determina sozinha o sentido que o leitor dará a ela",
+    "d": "o texto que acompanha a imagem participa da construção do sentido, e a fotografia isolada é mais ambígua do que aparenta",
+    "e": "a alteração do texto configura falsificação do registro fotográfico nos dois casos apresentados, pois a imagem carregaria em si a informação exata sobre o acontecimento retratado"
+   },
+   "resposta": "d",
+   "explicacao": "A fotografia mostra, mas não afirma: quem afirma é o par imagem e texto. É por isso que o exame de uma imagem de imprensa começa pela legenda, e não pelo enquadramento — a mesma cena sustenta relatos incompatíveis entre si.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-294",
+   "texto_apoio": "Ao enquadrar a cena, o fotógrafo deixa de fora o caminhão de televisão estacionado a dois metros do grupo que aparece na imagem final.",
+   "enunciado": "Essa decisão revela que a fotografia:",
+   "alternativas": {
+    "a": "registra o real sem interferência de quem segura o equipamento",
+    "b": "é um recorte: o que fica fora do quadro também constrói o que a imagem afirma",
+    "c": "perde valor documental ao ser publicada em jornal impresso",
+    "d": "depende do tratamento posterior da imagem para produzir significado",
+    "e": "deve reproduzir o ambiente inteiro em que o acontecimento se deu, obrigação que a prática do fotojornalismo brasileiro consagrou como condição de credibilidade das imagens publicadas"
+   },
+   "resposta": "b",
+   "explicacao": "O quadro é uma decisão sobre o que existe para o leitor. Deixar de fora o aparato de imprensa produz uma cena espontânea que não era espontânea, e essa é a crítica clássica ao suposto automatismo da imagem fotográfica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-295",
+   "texto_apoio": "Uma imagem que circula nas redes mostra uma cidade alagada. Verificados os dados técnicos do material, descobre-se que a imagem foi produzida por um sistema de geração automática, e não por uma câmera diante da cena.",
+   "enunciado": "O episódio afeta a fotografia porque:",
+   "alternativas": {
+    "a": "torna irrelevante a distinção entre imagem verdadeira e falsa",
+    "b": "prova que a fotografia analógica tampouco foi confiável em algum momento",
+    "c": "demonstra que só o vídeo pode servir como prova de um acontecimento",
+    "d": "elimina o interesse do público por imagens de acontecimentos reais, na medida em que a existência de imagens geradas por computador retiraria de circulação o trabalho feito por fotógrafos em campo",
+    "e": "abala o vínculo entre a imagem e um acontecimento ocorrido diante da lente, vínculo que sustentava a força documental da fotografia"
+   },
+   "resposta": "e",
+   "explicacao": "A força documental da fotografia vinha de um pressuposto simples: alguma coisa esteve ali, diante da lente. A imagem sintética rompe esse pressuposto e transfere a credibilidade da imagem para a cadeia de quem a produziu e a verificou.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-296",
+   "texto_apoio": "Numa fotografia de estúdio, a pessoa senta numa pose ensaiada, sob luz controlada, e olha diretamente para a lente. Numa outra imagem, feita na rua, ela aparece de perfil, sem perceber a câmera.",
+   "enunciado": "A comparação entre as duas imagens interessa ao estudo da fotografia porque mostra que:",
+   "alternativas": {
+    "a": "a consciência de estar sendo fotografado altera a pose e, com ela, o que a imagem apresenta como sendo aquela pessoa",
+    "b": "a imagem de estúdio é tecnicamente superior à imagem feita na rua",
+    "c": "só a fotografia feita sem consentimento tem valor documental",
+    "d": "a luz controlada elimina a intervenção do fotógrafo sobre a cena",
+    "e": "o formato do equipamento define sozinho o resultado obtido em cada situação, de modo que duas câmeras iguais produziriam a mesma imagem em ambientes bastante distintos entre si"
+   },
+   "resposta": "a",
+   "explicacao": "A pose é uma resposta à câmera, e a fotografia registra essa resposta junto com o rosto. Comparar imagem posada e imagem colhida sem aviso é o exercício mais direto para perceber que o aparelho participa daquilo que ele parece só constatar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-297",
+   "texto_apoio": "Um estúdio produz duas obras: numa, cada quadro é desenhado à mão e depois colorido; noutra, personagens tridimensionais são construídos num programa e o computador calcula as etapas intermediárias do movimento.",
+   "enunciado": "A diferença entre esses dois processos de animação está principalmente em:",
+   "alternativas": {
+    "a": "a duração final da obra, limitada pela técnica escolhida",
+    "b": "o público a que cada obra se dirige, definido pela técnica",
+    "c": "o modo de produzir o movimento, desenhado quadro a quadro no primeiro caso e calculado a partir de posturas-chave no segundo",
+    "d": "a possibilidade de exibição no cinema, restrita ao segundo caso",
+    "e": "a existência de roteiro escrito, exigência que se aplicaria apenas às obras desenhadas à mão e que o processo tridimensional substituiria pela construção prévia dos modelos digitais"
+   },
+   "resposta": "c",
+   "explicacao": "Nos dois casos o movimento é ilusão de sucessão, mas quem produz as etapas intermediárias muda: a mão do animador ou o cálculo do programa. Essa diferença de processo explica o acabamento característico de cada obra audiovisual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-298",
+   "texto_apoio": "Ao longo de um filme, uma voz adulta comenta as imagens de uma infância que a tela mostra. Nenhuma personagem em cena ouve essa voz.",
+   "enunciado": "Esse recurso de narração produz, na obra audiovisual, o efeito de:",
+   "alternativas": {
+    "a": "confirmar que as imagens exibidas têm origem documental",
+    "b": "substituir a montagem por uma sequência de comentários",
+    "c": "eliminar a ambiguidade das cenas, que passam a ter leitura única",
+    "d": "sobrepor duas camadas de tempo, a da lembrança e a do acontecimento, e deixar visível a distância entre elas",
+    "e": "transferir ao espectador a tarefa de escrever o roteiro que falta, procedimento comum nos filmes em que a narração se recusa a informar o que aconteceu com as personagens"
+   },
+   "resposta": "d",
+   "explicacao": "A narração em off não descreve a cena: comenta de outro tempo. A tensão entre o que a criança vive na tela e o que o adulto já sabe é o efeito buscado, e o cinema a produz sem precisar de nenhuma marca visual de passagem temporal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-299",
+   "texto_apoio": "Um filme sobre um período de guerra é finalizado com as cores reduzidas quase ao cinza; só uma bandeira vermelha mantém a saturação original.",
+   "enunciado": "A finalização de cor descrita cumpre a função de:",
+   "alternativas": {
+    "a": "restituir à imagem a aparência que ela tinha no negativo original",
+    "b": "hierarquizar o quadro, fazendo o único elemento saturado concentrar a atenção e ganhar peso simbólico",
+    "c": "reduzir o tamanho do material entregue às salas de exibição",
+    "d": "indicar ao espectador que a cena foi filmada dentro de um estúdio",
+    "e": "reproduzir fielmente as condições de luz do lugar em que a filmagem ocorreu, exigência técnica que a fotografia de cinema procura respeitar em produções ambientadas em outras épocas"
+   },
+   "resposta": "b",
+   "explicacao": "A finalização de cor é etapa de escrita, não de correção: retirar cor de tudo menos de um elemento é apontá-lo. O procedimento repete, com recursos digitais, o gesto mais antigo do cinema — dizer ao olhar onde ele deve pousar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-300",
+   "texto_apoio": "Uma família guarda rolos de filme de oito milímetros com aniversários e viagens dos anos 1960. Décadas depois, esse material é exibido numa sessão pública.",
+   "enunciado": "A passagem desse material do âmbito doméstico para a sessão pública mostra que:",
+   "alternativas": {
+    "a": "o filme doméstico perde o sentido ao ser exibido fora da família",
+    "b": "imagens amadoras não podem ser objeto de estudo histórico, uma vez que a ausência de equipe técnica e de intenção documental as afastaria do conjunto de fontes admitidas por quem pesquisa o período",
+    "c": "a exibição pública corrige os defeitos técnicos do material antigo",
+    "d": "o valor de um filme depende do equipamento com que foi rodado",
+    "e": "o sentido de uma imagem depende do lugar em que ela é vista, e o registro íntimo passa a funcionar como documento de um tempo"
+   },
+   "resposta": "e",
+   "explicacao": "O filme não mudou; mudou o contexto de exibição, e com ele o que a imagem informa. É o argumento central dos estudos sobre cinema doméstico: o registro feito sem intenção documental costuma ser a melhor fonte sobre a vida cotidiana de um período.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-301",
+   "texto_apoio": "Um programa de televisão grava cem horas semanais de convivência num confinamento e exibe quarenta minutos por dia.",
+   "enunciado": "A relação entre essas duas durações indica que:",
+   "alternativas": {
+    "a": "o programa é resultado de montagem, e o recorte de noventa e nove por cento do material bruto já organiza a história que o público acompanha",
+    "b": "as cem horas são exibidas depois, ao final da temporada",
+    "c": "o material descartado não interfere no sentido do que vai ao ar",
+    "d": "a edição se limita a corrigir problemas técnicos das gravações",
+    "e": "a exibição reproduz sem cortes os acontecimentos mais relevantes da semana, cabendo ao público avaliar por conta própria a convivência registrada pelas câmeras do confinamento"
+   },
+   "resposta": "a",
+   "explicacao": "O gênero se apresenta como registro direto e é, na prática, o formato de televisão mais editado que existe. A proporção entre gravado e exibido é a evidência mais simples de que há narrativa construída onde o programa promete espontaneidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-302",
+   "texto_apoio": "Um vídeo mostra uma autoridade dizendo frases que ela não disse: rosto e voz foram sintetizados por computador a partir de gravações antigas.",
+   "enunciado": "Para o estudo da imagem audiovisual, o caso é relevante porque:",
+   "alternativas": {
+    "a": "encerra a possibilidade de usar vídeo como registro de acontecimentos",
+    "b": "demonstra que a montagem cinematográfica já era enganosa em sua origem",
+    "c": "desloca o critério de credibilidade da imagem em si para a cadeia de origem e verificação do material que circula",
+    "d": "prova que a televisão aberta é mais confiável que as redes digitais",
+    "e": "reduz o problema a uma falha técnica de compressão do material exibido, questão que o aperfeiçoamento dos programas de edição resolveria sem envolver discussão sobre credibilidade da imagem"
+   },
+   "resposta": "c",
+   "explicacao": "O que a síntese digital rompe não é a técnica, é o contrato: ver deixa de bastar. A resposta não está em olhar melhor a imagem, e sim em saber de onde ela veio — deslocamento que já vinha sendo discutido na fotografia digital.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-303",
+   "texto_apoio": "O trailer de um filme reúne as cenas de maior impacto, corta cada uma em menos de dois segundos e encerra com o título sobre fundo preto.",
+   "enunciado": "Essa peça audiovisual se organiza de modo distinto do filme porque:",
+   "alternativas": {
+    "a": "reproduz em escala reduzida a ordem narrativa da obra completa",
+    "b": "obedece à mesma decupagem usada nas cenas de diálogo do filme",
+    "c": "dispensa montagem, pois apenas encadeia trechos já finalizados",
+    "d": "seu objetivo é prometer uma experiência, e não narrar, o que autoriza romper a ordem e a duração das cenas de origem",
+    "e": "precisa revelar o desfecho da história para que o público decida com segurança se vale a pena comprar o ingresso da sessão a que pretende assistir no cinema"
+   },
+   "resposta": "d",
+   "explicacao": "O trailer é publicidade audiovisual feita com o material do próprio filme, e por isso obedece a outra gramática: acumula intensidade em vez de construir causalidade. Julgar sua montagem pelos critérios da narrativa é errar o gênero.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-audiovisual-midia",
+   "id": "med-artes-304",
+   "texto_apoio": "Um mesmo filme estrangeiro chega às salas em duas versões: uma com legendas e a voz original, outra com vozes gravadas em português.",
+   "enunciado": "Do ponto de vista da linguagem audiovisual, a diferença entre as duas versões está em que:",
+   "alternativas": {
+    "a": "a versão com legendas altera a montagem original do filme",
+    "b": "a dublagem substitui um elemento da atuação original, a voz, enquanto a legenda acrescenta texto à imagem e divide a atenção de quem assiste",
+    "c": "a legenda modifica o enquadramento das cenas exibidas",
+    "d": "a dublagem encurta a duração total da obra projetada",
+    "e": "as duas versões produzem experiências idênticas entre si, já que o conteúdo do roteiro é o mesmo e a diferença se limitaria ao idioma em que as falas chegam ao público brasileiro"
+   },
+   "resposta": "b",
+   "explicacao": "Nenhuma das duas versões é neutra: uma troca parte do desempenho original, a outra reparte o olhar entre imagem e texto. O ponto da análise audiovisual não é escolher a melhor, e sim reconhecer que a obra chega diferente em cada uma.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "artes-patrimonio-cultura-popular": [
@@ -71335,6 +72049,720 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Isso não significa que tudo vale: a proposição pode ser banal, repetida ou mal formulada, e aí se critica. O que mudou foi o objeto do julgamento — da execução para a pertinência do que se propõe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-305",
+   "texto_apoio": "Em 1917, um artista assinou com pseudônimo um urinol de louça comprado pronto e o inscreveu numa exposição. O objeto não foi fabricado por ele nem alterado em nada.",
+   "enunciado": "O gesto, que funda o que se chamaria arte conceitual, sustenta-se na proposição de que:",
+   "alternativas": {
+    "a": "a habilidade manual do artista determina o estatuto de obra do objeto",
+    "b": "o material empregado precisa ser nobre para que a peça seja aceita",
+    "c": "o objeto industrial perde utilidade e ganha beleza ao ser deslocado",
+    "d": "o que transforma um objeto em obra é a escolha do artista e o lugar institucional em que ele é apresentado",
+    "e": "a obra só existe enquanto o público desconhece a origem industrial do objeto exibido, de modo que a revelação da procedência anularia o efeito pretendido pelo artista naquela ocasião"
+   },
+   "resposta": "d",
+   "explicacao": "O ready-made desloca a pergunta do como para o onde: nada no objeto mudou, mudou o circuito que o recebe. É o ponto de partida da arte conceitual e da discussão sobre legitimação que a arte contemporânea não abandonou mais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-306",
+   "texto_apoio": "Placas de metal ligadas por dobradiças formam um objeto que não tem frente nem posição correta: quem se aproxima é convidado a manipulá-lo, e cada manuseio produz uma configuração diferente.",
+   "enunciado": "Os Bichos, de Lygia Clark, deslocam a relação com a obra porque:",
+   "alternativas": {
+    "a": "a forma final depende do gesto de quem manipula, e a obra passa a existir no encontro em vez de estar pronta antes dele",
+    "b": "exigem que o público observe à distância para preservar o metal",
+    "c": "reproduzem em escala reduzida animais reconhecíveis pelo visitante",
+    "d": "dependem de explicação escrita para que o visitante entenda o tema",
+    "e": "recuperam o princípio segundo o qual a peça deve permanecer intocada dentro da vitrine, condição que a arte contemporânea brasileira teria estabelecido para os objetos de metal exibidos ao público"
+   },
+   "resposta": "a",
+   "explicacao": "A obra neoconcreta abandona a contemplação e pede manuseio: a participação do público deixa de ser efeito e vira matéria. Lygia Clark é a referência brasileira mais cobrada quando a banca quer discutir o que é uma obra inacabada por projeto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-307",
+   "texto_apoio": "Capas de tecido, plástico e tinta são feitas para serem vestidas: quem as veste se movimenta com elas, e a peça só se completa quando o corpo a põe em movimento.",
+   "enunciado": "Os Parangolés, de Hélio Oiticica, radicalizam uma proposta da arte contemporânea ao:",
+   "alternativas": {
+    "a": "devolver ao objeto de tecido o valor comercial que ele tinha perdido",
+    "b": "restringir a obra ao espaço reservado da galeria, onde é conservada sob condições controladas de luz e umidade que assegurariam a integridade do tecido ao longo das décadas seguintes",
+    "c": "propor que a peça seja observada de longe, como um objeto raro",
+    "d": "transformar a roupa num registro histórico do vestuário brasileiro",
+    "e": "dissolver a fronteira entre obra e vivência: sem alguém que a vista, a capa é apenas tecido, e o trabalho acontece no corpo"
+   },
+   "resposta": "e",
+   "explicacao": "O Parangolé não é objeto, é situação. Oiticica desloca a obra do olho para o corpo inteiro e faz da participação do público a condição de existência do trabalho — o passo seguinte ao que o neoconcretismo já vinha propondo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-308",
+   "texto_apoio": "Um grupo de artistas rompe com a orientação que tratava a obra como resultado de cálculo e de leis visuais objetivas, e passa a defender que a obra é um organismo vivo, que só se realiza na experiência de quem a encontra.",
+   "enunciado": "Essa ruptura, conhecida como neoconcretismo, opõe-se ao concretismo porque:",
+   "alternativas": {
+    "a": "abandona a abstração e retoma a figura humana reconhecível",
+    "b": "recusa a redução da obra a um problema técnico e recoloca o corpo e a subjetividade no centro da experiência",
+    "c": "propõe o retorno das artes ao ensino acadêmico de desenho",
+    "d": "substitui o objeto pela obra escrita, apresentada apenas em texto",
+    "e": "adota o cálculo matemático como regra única de composição das obras, de modo que o resultado visual passaria a ser deduzido de uma regra estabelecida antes do início do trabalho no ateliê"
+   },
+   "resposta": "b",
+   "explicacao": "O manifesto neoconcreto acusa o concretismo de racionalismo excessivo e reivindica a obra como corpo vivo. A divergência é decisiva para a arte contemporânea brasileira: dela saem os Bichos, os Parangolés e a linhagem que faz do espectador um participante.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-309",
+   "texto_apoio": "Um artista carimba mensagens políticas em notas de dinheiro e em garrafas de refrigerante retornáveis, e as devolve à circulação comum. As peças voltam ao comércio e chegam a pessoas que não procuravam nenhuma obra.",
+   "enunciado": "As Inserções em circuitos ideológicos, de Cildo Meireles, funcionam porque:",
+   "alternativas": {
+    "a": "reproduzem em escala industrial um objeto único produzido no ateliê",
+    "b": "dependem da vitrine da galeria para que o público reconheça a obra",
+    "c": "usam um circuito de circulação já existente para levar o trabalho a quem está fora do público habitual da arte contemporânea",
+    "d": "convertem o dinheiro em objeto de coleção, retirado do uso corrente",
+    "e": "propõem que o visitante compre a garrafa dentro do espaço da instituição e a devolva ao final da visita, procedimento pelo qual a obra registraria o comportamento de consumo do público"
+   },
+   "resposta": "c",
+   "explicacao": "Cildo Meireles não cria um circuito novo: parasita um que já funciona e é impossível de fechar. A obra escapa do lugar reservado à arte e alcança quem nunca entraria numa galeria, o que é ao mesmo tempo a estratégia política e a proposta estética.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-310",
+   "texto_apoio": "Uma superfície de azulejos brancos, no padrão colonial português, aparece rasgada ao meio; da fenda sai um volume vermelho que imita carne e vísceras.",
+   "enunciado": "Nessa obra de Adriana Varejão, a relação entre as duas camadas sugere:",
+   "alternativas": {
+    "a": "uma demonstração técnica sobre o processo de fabricação de azulejos",
+    "b": "a defesa do padrão colonial como herança estética a ser conservada",
+    "c": "um estudo formal sobre o contraste entre superfícies lisas e rugosas",
+    "d": "que sob a superfície ordenada do projeto colonial há violência, e a obra rompe o revestimento para mostrá-la",
+    "e": "a intenção de reconstituir com exatidão documental o interior de uma casa senhorial do período colonial brasileiro, a partir de peças recolhidas em antigos casarões do Nordeste"
+   },
+   "resposta": "d",
+   "explicacao": "O azulejo é o signo mais educado da colonização, e a carne que rompe a superfície é o que ele recobria. A obra da arte contemporânea brasileira atua aí: usa o ornamento herdado como pele e mostra o que existe embaixo dele.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-311",
+   "texto_apoio": "Uma trama de tecido elástico, presa ao teto, desce até o chão formando bolsas cheias de especiarias. O visitante entra na trama, sente o cheiro e apoia o corpo nela.",
+   "enunciado": "A obra descrita, característica de Ernesto Neto, propõe uma experiência que:",
+   "alternativas": {
+    "a": "mobiliza tato e olfato além da visão, tornando a permanência do corpo dentro do trabalho parte da própria obra",
+    "b": "reduz a obra a um problema de cor, resolvido pela escolha do tecido",
+    "c": "exige do visitante conhecimento prévio de história da arte para ser lida",
+    "d": "recupera o formato tradicional do objeto isolado sobre um pedestal",
+    "e": "converte a instalação num equipamento de descanso para os visitantes cansados do percurso, função que a instituição encomendaria ao artista para melhorar a circulação nas salas"
+   },
+   "resposta": "a",
+   "explicacao": "A instalação de Ernesto Neto trabalha com sentidos que o espaço expositivo tradicional costuma excluir. A participação do público não é convite acessório: sem alguém dentro da trama, o trabalho fica reduzido a matéria pendurada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-312",
+   "texto_apoio": "Numa sala escura, dezenas de rádios antigos ligados ao mesmo tempo formam uma torre; o visitante caminha em volta dela e o percurso altera o que ele escuta.",
+   "enunciado": "O trabalho descrito é uma instalação porque:",
+   "alternativas": {
+    "a": "reúne objetos antigos com a finalidade de preservar o uso original de cada aparelho, propondo ao visitante um panorama histórico dos equipamentos de comunicação usados no país",
+    "b": "apresenta um objeto único, isolado do espaço em que se encontra",
+    "c": "depende de um texto explicativo afixado na parede da sala",
+    "d": "reproduz em três dimensões um projeto desenhado previamente",
+    "e": "organiza o espaço inteiro como obra, de modo que a sala, o percurso e a presença do visitante integram o trabalho"
+   },
+   "resposta": "e",
+   "explicacao": "Instalação não é sinônimo de obra grande: é a obra que toma o espaço como material. Deslocar o conjunto para outra sala já produz outro trabalho, e é essa dependência do espaço que a arte contemporânea explora desde os anos 1960.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-313",
+   "texto_apoio": "Uma artista permanece sentada e em silêncio numa sala durante horas; quem quiser pode sentar diante dela e olhá-la. Nada é vendido, e ao fim do dia não resta objeto nenhum.",
+   "enunciado": "A performance, como forma da arte contemporânea, caracteriza-se por:",
+   "alternativas": {
+    "a": "produzir um objeto durável que permanece no espaço expositivo",
+    "b": "ter o corpo e o tempo presente como material, de modo que a obra acontece e se esgota no encontro",
+    "c": "exigir texto memorizado e marcação prévia dos deslocamentos",
+    "d": "depender da venda de ingressos para que o trabalho se realize",
+    "e": "reproduzir com fidelidade um acontecimento histórico escolhido pela artista, cabendo ao público reconhecer as referências implicadas em cada gesto realizado durante a apresentação"
+   },
+   "resposta": "b",
+   "explicacao": "A performance troca o objeto pela presença, e é justamente por isso que ela tensiona o mercado de arte: não há o que embalar depois. O que resta são registros, e a discussão sobre o estatuto desses registros é parte do assunto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-314",
+   "texto_apoio": "Nos anos 1960, artistas convocaram um grupo para um galpão, distribuíram materiais e propuseram uma situação inicial. O que aconteceu depois dependeu do que o grupo fez, e não se repetiu.",
+   "enunciado": "O happening se distingue de uma apresentação ensaiada porque:",
+   "alternativas": {
+    "a": "possui um texto fechado, decorado antes do encontro",
+    "b": "acontece invariavelmente no mesmo lugar, definido pela instituição",
+    "c": "não separa quem faz de quem assiste, e o resultado é imprevisto porque depende do que o grupo reunido decidir fazer",
+    "d": "resulta num objeto que a instituição pode conservar e exibir depois",
+    "e": "obedece a uma marcação prévia de entradas e saídas repetida a cada apresentação, condição pela qual o grupo reunido conseguiria reproduzir o mesmo resultado diante de públicos diferentes"
+   },
+   "resposta": "c",
+   "explicacao": "O happening propõe uma situação, não um resultado. A participação do público deixa de ser recepção e passa a ser causa, e é essa indeterminação que separa a proposta da arte contemporânea de uma apresentação preparada de antemão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-315",
+   "texto_apoio": "No deserto de Utah, um artista moveu milhares de toneladas de rocha e terra para formar uma espiral que avança sobre um lago salgado. A obra muda de aparência com o nível da água e vem se desfazendo desde então.",
+   "enunciado": "Obras de land art como essa colocam em questão:",
+   "alternativas": {
+    "a": "a preferência do público por trabalhos de pequeno formato",
+    "b": "a necessidade de o artista dominar técnicas de desenho acadêmico",
+    "c": "a possibilidade de a obra ser reproduzida industrialmente em larga escala",
+    "d": "a obra como objeto transportável e permanente, já que aqui ela pertence ao lugar e ao tempo que a transformam",
+    "e": "o direito de a instituição adquirir trabalhos produzidos fora de seu país de origem, discussão que o circuito artístico internacional teria enfrentado a partir daquele conjunto de intervenções"
+   },
+   "resposta": "d",
+   "explicacao": "A land art recusa as duas condições que a instituição pressupõe: o transporte e a permanência. A obra é o lugar, e sua degradação faz parte do trabalho — o que obriga a arte contemporânea a repensar o que significa conservar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-316",
+   "texto_apoio": "Numa ação acompanhada por um público reduzido, o artista submete o próprio corpo a esforço e a risco durante horas, e o limite físico atingido é o assunto do trabalho.",
+   "enunciado": "Nas obras de body art, o corpo do artista funciona como:",
+   "alternativas": {
+    "a": "suporte e assunto ao mesmo tempo, de modo que o trabalho se faz na experiência física e não num objeto separado dele",
+    "b": "modelo para uma peça que será produzida depois no ateliê",
+    "c": "instrumento de demonstração de técnicas atléticas ao público",
+    "d": "elemento decorativo acrescentado à apresentação de outra obra",
+    "e": "referência de escala para que o visitante avalie corretamente as dimensões das peças distribuídas pela sala, recurso adotado quando os trabalhos exibidos possuem tamanho pouco usual"
+   },
+   "resposta": "a",
+   "explicacao": "Na body art o corpo deixa de ser tema representado e passa a ser o material da obra. É o desdobramento mais extremo da performance, e coloca a arte contemporânea diante de perguntas sobre limite, consentimento e registro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-317",
+   "texto_apoio": "Um trabalho consiste numa folha datilografada com a definição de dicionário da palavra 'água', exposta na parede. Não há imagem nem objeto além do papel.",
+   "enunciado": "A arte conceitual, de que esse trabalho é exemplo, sustenta que:",
+   "alternativas": {
+    "a": "a beleza do objeto é o critério que define a qualidade da obra",
+    "b": "o valor do trabalho está na raridade do material empregado",
+    "c": "a obra precisa ser executada pelas mãos do próprio artista, exigência pela qual o campo da arte contemporânea distinguiria os trabalhos autênticos daqueles produzidos por assistentes contratados no ateliê",
+    "d": "a experiência sensível do visitante é o único conteúdo admitido",
+    "e": "a ideia é a obra, e a execução material se torna secundária, podendo até ser dispensada sem que o trabalho deixe de existir"
+   },
+   "resposta": "e",
+   "explicacao": "A arte conceitual desloca o peso da obra para a proposição que a define. O objeto vira documento de uma ideia, e a consequência prática é grande: obras que podem ser refeitas, transmitidas por instrução ou existir apenas como texto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-318",
+   "texto_apoio": "A cada dois anos, um pavilhão no parque do Ibirapuera reúne obras de artistas de dezenas de países, escolhidas por curadores convidados, e recebe centenas de milhares de visitantes em três meses.",
+   "enunciado": "A Bienal de São Paulo cumpre, no circuito artístico, a função de:",
+   "alternativas": {
+    "a": "conservar em caráter permanente as obras que recebe a cada edição",
+    "b": "dar visibilidade e legitimação a artistas e questões, funcionando como instância que define o que entra no debate do período",
+    "c": "vender diretamente ao público as obras expostas no pavilhão",
+    "d": "formar profissionais por meio de cursos regulares de desenho",
+    "e": "estabelecer um cânone definitivo das obras produzidas no país, lista que as instituições brasileiras adotariam como referência de aquisição para os anos seguintes à realização de cada edição"
+   },
+   "resposta": "b",
+   "explicacao": "A bienal não guarda obras: ela consagra. Entrar numa edição altera a trajetória de um artista e o preço do seu trabalho, e é por isso que a discussão sobre curadoria e critérios de seleção é inseparável do estudo da arte contemporânea.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-319",
+   "texto_apoio": "Diante de duzentas obras disponíveis, uma equipe escolhe sessenta, define a ordem das salas, redige os textos de parede e decide o que fica próximo do quê.",
+   "enunciado": "Esse trabalho de curadoria interfere na leitura das obras porque:",
+   "alternativas": {
+    "a": "altera fisicamente as peças escolhidas para a apresentação",
+    "b": "substitui o julgamento do público por um veredito técnico",
+    "c": "a vizinhança entre trabalhos e a ordem do percurso produzem relações de sentido que não estão em nenhuma obra isolada",
+    "d": "determina o preço que cada trabalho alcançará no mercado de arte",
+    "e": "impede que o visitante formule interpretação distinta daquela proposta pelos textos de parede, uma vez que a sequência das salas conduziria o percurso de leitura de maneira inteiramente prevista"
+   },
+   "resposta": "c",
+   "explicacao": "Curadoria é escrita com obras alheias: o que se afirma está na aproximação, na ordem e no que ficou de fora. Reconhecer isso é a diferença entre visitar uma exposição e ler a exposição, que é o que a arte contemporânea pede.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-320",
+   "texto_apoio": "Numa instituição de arte de São Paulo, as telas ficaram durante décadas presas a hastes fincadas em blocos de concreto transparente, sem parede atrás: o visitante via a frente da obra, o verso com a ficha técnica e as demais obras da sala ao mesmo tempo.",
+   "enunciado": "Esse arranjo expositivo, adotado no MASP, propõe que:",
+   "alternativas": {
+    "a": "o público conheça primeiro a ficha técnica e só depois a imagem",
+    "b": "as obras sejam protegidas do contato visual com o restante da sala",
+    "c": "a ordem cronológica organize sozinha o percurso do visitante",
+    "d": "a obra seja vista sem a hierarquia da parede, ficando o visitante livre para circular e comparar trabalhos de épocas distintas",
+    "e": "a instituição reduza o custo de conservação das obras, uma vez que a suspensão em blocos transparentes dispensaria os sistemas de controle de umidade adotados nas salas fechadas"
+   },
+   "resposta": "d",
+   "explicacao": "Os cavaletes de cristal transformam a visita numa experiência de escolha: sem percurso obrigatório, o visitante monta o próprio itinerário. É um argumento sobre democratização do olhar, e por isso a solução do MASP é discutida como obra, e não só como recurso expositivo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-321",
+   "texto_apoio": "Em Brumadinho, obras de grande porte ocupam pavilhões espalhados por um jardim de centenas de hectares. Chegar a cada trabalho exige caminhar, e alguns exigem hora marcada e entrada de poucas pessoas por vez.",
+   "enunciado": "Esse arranjo faz com que, em Inhotim:",
+   "alternativas": {
+    "a": "o percurso e a espera passem a integrar a experiência da obra, que deixa de ser vista de passagem numa sala comum",
+    "b": "as obras percam autonomia diante da vegetação que as cerca",
+    "c": "o público seja dispensado de preparo prévio para a visita",
+    "d": "a instituição abra mão de critérios de escolha das obras exibidas",
+    "e": "o conjunto funcione como parque de lazer sem vínculo com o circuito artístico, condição que explicaria a distância entre os pavilhões e a ausência de textos junto aos trabalhos"
+   },
+   "resposta": "a",
+   "explicacao": "Inhotim converte o deslocamento em parte da obra: caminhar por quinze minutos até um pavilhão prepara a atenção de um modo que a sala em sequência não prepara. É a lógica do site-specific aplicada à visita inteira.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-322",
+   "texto_apoio": "Uma obra é concebida para um antigo reservatório de água: aproveita o eco, a umidade e a escada em espiral do lugar. Levada para uma sala branca, restaria apenas um conjunto de peças sem sentido.",
+   "enunciado": "O caso ilustra a noção de site-specific, segundo a qual:",
+   "alternativas": {
+    "a": "a obra deve ser adaptável a espaços expositivos diversos",
+    "b": "o lugar é apenas o suporte neutro em que a obra é apoiada",
+    "c": "a peça precisa ser produzida com materiais recolhidos no próprio local de exibição, exigência pela qual o trabalho comprovaria seu vínculo com o espaço diante das instituições que o recebem",
+    "d": "o valor de uma peça decorre do tamanho do espaço que ela ocupa",
+    "e": "a obra é indissociável do lugar para o qual foi feita, e retirá-la dali a descaracteriza porque o espaço é parte do trabalho"
+   },
+   "resposta": "e",
+   "explicacao": "No site-specific o lugar não hospeda a obra: é matéria dela. A consequência prática incomoda o circuito artístico, porque a obra não pode ser vendida e transportada sem virar outra coisa — ou sem virar documentação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-323",
+   "texto_apoio": "Um grafite pintado sem autorização num muro de periferia circula nas redes, é celebrado pela crítica e, anos depois, o mesmo artista é convidado a produzir uma parede dentro de uma galeria.",
+   "enunciado": "Esse percurso evidencia uma tensão própria da arte urbana:",
+   "alternativas": {
+    "a": "a obra de rua não admite leitura estética, apenas política",
+    "b": "a passagem para o circuito institucional dá reconhecimento ao trabalho e ao mesmo tempo retira dele a condição de gesto não autorizado",
+    "c": "o grafite perde qualidade técnica ao ser feito em ambiente fechado",
+    "d": "o público das ruas e o das galerias apreciam os mesmos trabalhos",
+    "e": "a legislação brasileira equipara o grafite consentido à pichação feita sem anuência do proprietário, tratamento que a crítica especializada tem apontado como obstáculo ao reconhecimento desses artistas"
+   },
+   "resposta": "b",
+   "explicacao": "A arte urbana nasce da recusa ao circuito e é absorvida por ele. Não há saída limpa: a galeria confere legitimação e, no mesmo movimento, neutraliza o que fazia daquele gesto uma intervenção. Reconhecer a ambivalência é a leitura que a banca espera.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-324",
+   "texto_apoio": "Um coletivo pinta de branco os buracos de uma avenida e escreve ao lado a data em que cada um foi aberto. A prefeitura remove as marcas em dois dias.",
+   "enunciado": "A ação descrita se caracteriza como intervenção urbana porque:",
+   "alternativas": {
+    "a": "produz um objeto destinado à venda no mercado de arte",
+    "b": "reproduz na rua um trabalho antes exposto numa galeria",
+    "c": "atua sobre o espaço público comum, dirige-se a quem passa por ali e assume a própria remoção como parte do trabalho",
+    "d": "depende de autorização prévia para adquirir sentido artístico",
+    "e": "converte o problema urbano em documento técnico entregue à administração municipal, procedimento pelo qual o coletivo buscaria obter reparo mais rápido para os trechos danificados da via"
+   },
+   "resposta": "c",
+   "explicacao": "A intervenção urbana escolhe um público que não foi até a arte e um suporte que não lhe pertence. A remoção rápida não é fracasso: ela expõe o conflito sobre quem pode escrever na cidade, que é o assunto do trabalho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-325",
+   "texto_apoio": "Um trabalho feito com material perecível, que se decompõe em semanas, é vendido por valor alto. O comprador recebe um certificado com instruções de execução e a autorização para refazer a peça quando ela se desfizer.",
+   "enunciado": "A prática descrita mostra que, no mercado de arte contemporânea:",
+   "alternativas": {
+    "a": "o preço acompanha a durabilidade física do material empregado",
+    "b": "a venda de obras perecíveis foi abandonada pelas galerias",
+    "c": "o certificado substitui a peça e passa a ser exposto no lugar dela",
+    "d": "o que se negocia é o direito sobre a obra, e não o objeto material, o que permite dar valor a trabalhos que não duram",
+    "e": "a instituição compradora assume o compromisso de conservar por prazo indeterminado o material original recebido, obrigação que as galerias registram nos contratos firmados com colecionadores particulares"
+   },
+   "resposta": "d",
+   "explicacao": "Quando a obra é uma proposição, o que muda de mãos é o direito de realizá-la. O certificado resolve para o mercado de arte um problema criado pela arte conceitual, e mostra que a legitimação passa por documento tanto quanto por objeto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-326",
+   "texto_apoio": "Numa sala, um monte de balas embrulhadas em papel colorido ocupa um canto. Uma placa autoriza o visitante a levar uma; a cada dia a instituição repõe o que foi retirado, mantendo o peso original do conjunto.",
+   "enunciado": "A obra descrita depende da participação do público porque:",
+   "alternativas": {
+    "a": "o gesto de levar e a reposição diária constituem o trabalho, que existe no consumo e na reconstituição do conjunto",
+    "b": "a placa transfere ao visitante a autoria da peça exposta",
+    "c": "sem plateia numerosa a instituição perderia o direito de exibi-la",
+    "d": "as balas se deterioram e precisam ser trocadas por questão sanitária",
+    "e": "o número de doces retirados por dia determina o preço que a peça alcançará no circuito artístico, cálculo que a galeria informa aos interessados na aquisição do conjunto exibido"
+   },
+   "resposta": "a",
+   "explicacao": "A obra não é o monte de balas: é o ciclo de retirada e reposição. Sem o visitante, não há trabalho — a arte contemporânea leva aqui ao extremo a ideia de obra que só se completa na relação com quem a encontra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-327",
+   "texto_apoio": "Um artista envia pelo correio uma folha com três frases que descrevem como traçar linhas numa parede. Quem recebe executa o trabalho na própria casa, com lápis comum, e o artista não chega a ver o resultado.",
+   "enunciado": "Esse modo de trabalhar, próprio da arte conceitual, implica que:",
+   "alternativas": {
+    "a": "a obra se reduz ao papel enviado, que passa a ser a peça a conservar",
+    "b": "a obra existe como instrução, e cada execução é uma realização legítima dela, sem que haja um exemplar original",
+    "c": "o resultado precisa ser idêntico em cada casa que recebeu a carta",
+    "d": "o artista abre mão da autoria ao delegar a execução a estranhos",
+    "e": "o trabalho perde reconhecimento no circuito artístico porque a ausência de um objeto assinado impediria o reconhecimento de autoria diante das instituições que organizam suas coleções"
+   },
+   "resposta": "b",
+   "explicacao": "A obra por instrução separa concepção e execução, e é aí que a arte conceitual desmonta o pressuposto do original único. O que o circuito precisa aprender a negociar deixa de ser um objeto e passa a ser um direito de realizar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-328",
+   "texto_apoio": "Numa ação de longa duração, uma artista veste e retira sucessivamente peças de roupa associadas a papéis femininos e masculinos, diante de um público que permanece em pé ao redor.",
+   "enunciado": "A escolha do próprio corpo como suporte, nesse tipo de trabalho, permite:",
+   "alternativas": {
+    "a": "demonstrar habilidade técnica na confecção das peças de roupa",
+    "b": "reduzir custos, já que a obra dispensa materiais duradouros",
+    "c": "expor os papéis sociais como coisa vestida e retirável, e não como dado natural, colocando a discussão no plano da experiência",
+    "d": "assegurar que a obra seja compreendida de um modo único",
+    "e": "produzir um objeto que a instituição poderá conservar e exibir em edições futuras, condição pela qual esse tipo de trabalho ingressaria nas coleções permanentes das instituições brasileiras"
+   },
+   "resposta": "c",
+   "explicacao": "A performance mostra o papel social sendo montado diante do público, o que nenhum enunciado teórico faria com a mesma evidência. É por isso que a arte contemporânea recorre ao corpo quando o assunto é aquilo que costuma passar por natureza.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-329",
+   "texto_apoio": "Um grupo sem nome individual assina ações conjuntas: ocupa um terreno vazio, planta hortas com moradores e organiza rodas de conversa. Não há venda de peças nem assinatura de autor.",
+   "enunciado": "Esse modo de atuação tensiona o circuito artístico porque:",
+   "alternativas": {
+    "a": "recusa o uso de materiais industrializados nas ações realizadas",
+    "b": "condiciona a existência da obra à cobertura da imprensa local",
+    "c": "reproduz o modelo da galeria comercial em espaço aberto",
+    "d": "desloca a obra da autoria individual e do objeto vendável para o processo compartilhado, que o mercado de arte não sabe negociar",
+    "e": "exige que a instituição financeira patrocinadora aprove previamente cada etapa das ações realizadas no terreno, procedimento que os coletivos brasileiros teriam adotado para viabilizar suas atividades"
+   },
+   "resposta": "d",
+   "explicacao": "O circuito é organizado em torno de nomes e objetos, e a intervenção urbana feita por coletivo não oferece nem um nem outro. A dificuldade de negociar esse trabalho não é acidente: faz parte do que ele afirma.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-330",
+   "texto_apoio": "Uma obra é feita com jornal velho, terra, sacos de estopa e entulho recolhido na rua. Os materiais permanecem reconhecíveis: nada foi disfarçado.",
+   "enunciado": "A escolha desses materiais, recorrente na arte contemporânea, produz sentido porque:",
+   "alternativas": {
+    "a": "demonstra domínio de técnicas tradicionais de acabamento",
+    "b": "reduz o custo de produção sem interferir na leitura da obra",
+    "c": "assegura maior durabilidade do trabalho ao longo dos anos",
+    "d": "converte o trabalho num inventário de objetos do cotidiano, catálogo que o visitante percorreria reconhecendo cada item pelo nome antes de considerar o conjunto como uma obra",
+    "e": "o material carrega a história de onde veio, e a obra passa a falar de precariedade e descarte pela própria matéria de que é feita"
+   },
+   "resposta": "e",
+   "explicacao": "Material pobre não é falta de recurso, é argumento. Ao recusar o acabamento nobre, a instalação faz do descarte um assunto e obriga o circuito a discutir o que ele costuma admitir como digno de exibição.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-331",
+   "texto_apoio": "De uma ação realizada em 1970 diante de vinte pessoas restam hoje quatro imagens, um texto do artista e dois depoimentos. É esse conjunto que circula em exposições e livros.",
+   "enunciado": "O caso levanta um problema próprio da arte contemporânea:",
+   "alternativas": {
+    "a": "a obra aconteceu uma vez e o que sobrevive é o registro, de modo que o público posterior lida com a documentação e não com o trabalho",
+    "b": "as imagens restantes provam que a ação não chegou a ocorrer",
+    "c": "a performance perde valor artístico ao ser registrada",
+    "d": "os depoimentos substituem integralmente a experiência original",
+    "e": "a instituição que exibe o material deve refazer a ação com os mesmos participantes de 1970, exigência pela qual o circuito artístico asseguraria a autenticidade daquilo que apresenta ao público"
+   },
+   "resposta": "a",
+   "explicacao": "A performance existe no tempo presente e some com ele; o que entra nas coleções é o registro. Discutir o estatuto dessa documentação é hoje parte do estudo da arte contemporânea, porque é sobre ela que a história acaba sendo escrita.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-332",
+   "texto_apoio": "Uma instituição adquire uma obra feita com flores frescas dispostas no chão. Ao final de cada exibição as flores são descartadas; para a exibição seguinte, compram-se flores novas segundo as instruções do artista.",
+   "enunciado": "Esse procedimento mostra que, para obras efêmeras:",
+   "alternativas": {
+    "a": "a conservação depende de manter fisicamente o material original",
+    "b": "conservar deixa de ser guardar matéria e passa a ser preservar as instruções e os critérios que permitem realizar a obra outra vez",
+    "c": "a instituição deve exibir a peça uma única vez e depois retirá-la",
+    "d": "o registro em imagem substitui de vez a apresentação da obra",
+    "e": "o artista precisa acompanhar pessoalmente a compra das flores em cada nova apresentação, tarefa que os contratos firmados com instituições brasileiras costumam descrever com detalhe"
+   },
+   "resposta": "b",
+   "explicacao": "A obra efêmera obriga a instituição a trocar o objeto pela receita. É a mesma lógica da arte conceitual aplicada à conservação: o que se guarda é a proposição, e cada realização nova é a obra, não uma cópia dela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-333",
+   "texto_apoio": "Paredes brancas, piso neutro, sem janelas e com luz artificial uniforme: é assim que se apresenta a maior parte das salas de um museu de arte contemporânea.",
+   "enunciado": "A crítica ao chamado cubo branco sustenta que esse espaço:",
+   "alternativas": {
+    "a": "prejudica a conservação das obras por excesso de luz artificial",
+    "b": "impede a exibição de trabalhos de grandes dimensões",
+    "c": "não é neutro: ao apagar o mundo externo, produz a impressão de que a obra vale por si e desliga o trabalho de seu contexto",
+    "d": "obriga o artista a produzir peças de cor clara para contraste",
+    "e": "foi adotado por razões de custo pelas instituições do século passado, uma vez que paredes brancas seriam a solução mais barata disponível para preparar salas de exibição ao público"
+   },
+   "resposta": "c",
+   "explicacao": "O cubo branco parece ausência de escolha e é uma escolha forte: ele produz o efeito de obra autônoma. Reconhecer isso é o primeiro passo para ler a instituição como parte do que legitima o trabalho exibido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-334",
+   "texto_apoio": "Uma pilha de tijolos disposta numa sala de exposição é discutida em jornais, comprada por uma instituição e reproduzida em livros de história da arte. A mesma pilha, num canteiro de obras, não desperta comentário nenhum.",
+   "enunciado": "A comparação evidencia que, na arte contemporânea:",
+   "alternativas": {
+    "a": "o material determina sozinho se o conjunto é uma obra",
+    "b": "a opinião dos jornais define o valor estético dos trabalhos",
+    "c": "o público leigo reconhece a obra antes das instituições",
+    "d": "a condição de obra não está no objeto, e sim no circuito que o enuncia, exibe e discute como tal",
+    "e": "a repetição do mesmo conjunto em contextos distintos anula o interesse do trabalho, razão pela qual as instituições evitariam adquirir peças feitas com materiais de uso corrente na indústria"
+   },
+   "resposta": "d",
+   "explicacao": "É a continuação direta do problema aberto pelo ready-made: a legitimação não vem do objeto, vem do lugar de fala institucional. Por isso o estudo da arte contemporânea inclui galerias, bienais e crítica, e não apenas obras.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-335",
+   "texto_apoio": "Diante de uma sala com uma única lâmpada acesa e nada mais, um visitante comenta que aquilo não seria arte.",
+   "enunciado": "Uma resposta consistente com o debate sobre arte contemporânea a esse comentário seria:",
+   "alternativas": {
+    "a": "o visitante tem razão: a obra sem dificuldade técnica não interessa",
+    "b": "a instituição errou ao exibir um trabalho de leitura difícil",
+    "c": "o julgamento cabe apenas a especialistas do circuito artístico, uma vez que a formação técnica seria a condição para reconhecer as referências que sustentam a proposta exibida naquela sala",
+    "d": "a obra vale pelo preço que alcançou, dado objetivo e verificável",
+    "e": "a pergunta pertinente não é se seria fácil fazer, e sim o que o trabalho propõe naquele espaço e por que a proposta foi formulada assim"
+   },
+   "resposta": "e",
+   "explicacao": "A objeção da facilidade técnica supõe que a obra vale pelo esforço de execução, critério que a arte conceitual desmontou há sessenta anos. A pergunta produtiva é sobre a proposição e o lugar em que ela é feita.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-336",
+   "texto_apoio": "Em vez de uma figura sobre pedestal, uma cidade instala no chão da praça placas com os nomes de moradores expulsos dali. Quem caminha precisa olhar para baixo e desviar o passo.",
+   "enunciado": "Essa solução, chamada contra-monumento, distingue-se do monumento tradicional porque:",
+   "alternativas": {
+    "a": "recusa a celebração vertical e exige um gesto do corpo de quem passa, deslocando a lembrança para o próprio ato de caminhar",
+    "b": "utiliza materiais mais resistentes ao tempo que a pedra",
+    "c": "prescinde de relação com o passado recente da cidade",
+    "d": "é produzida por encomenda direta do poder público local",
+    "e": "reproduz em escala menor a figura que ocupava a praça antes da reforma, procedimento pelo qual a administração municipal manteria a lembrança do conjunto anterior sem ocupar o espaço de circulação"
+   },
+   "resposta": "a",
+   "explicacao": "O contra-monumento inverte a gramática do monumento: em vez de erguer e consagrar, ele rebaixa e incomoda. É uma intervenção urbana que transfere o trabalho da lembrança do objeto para o corpo de quem atravessa a praça.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-337",
+   "texto_apoio": "Sobre papel pardo de grandes dimensões, um artista carioca representa jovens negros em situações de lazer, estudo e desfile, e apresenta as folhas suspensas por cordas dentro do espaço de exibição.",
+   "enunciado": "Nesse conjunto de trabalhos de Maxwell Alexandre, a escolha do suporte e do modo de apresentação:",
+   "alternativas": {
+    "a": "indica limitação orçamentária que o artista pretende superar",
+    "b": "integra o sentido da obra, pois o material comum e a suspensão sem moldura recusam o protocolo com que o circuito costuma apresentar as figuras que consagra",
+    "c": "demonstra desinteresse pela conservação futura das folhas",
+    "d": "impede que o trabalho seja discutido em termos de conteúdo",
+    "e": "obedece a uma norma técnica adotada pelas instituições brasileiras para exibir obras de grandes dimensões, que restringiria o uso de molduras em salas de circulação intensa"
+   },
+   "resposta": "b",
+   "explicacao": "O papel pardo e a corda são argumento, não economia: quem entra numa sala assim percebe que o modo de exibir está sendo discutido junto com o que é exibido. É a leitura que a arte contemporânea brasileira pede diante desse conjunto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-338",
+   "texto_apoio": "Uma artista costura sobre reproduções de imagens produzidas no século XIX para classificar corpos por raça, cobrindo bocas e olhos com linha preta, e reúne as folhas numa parede inteira.",
+   "enunciado": "O procedimento de reaproveitar essas imagens, na arte contemporânea, permite:",
+   "alternativas": {
+    "a": "restituir às imagens o valor científico que elas tinham na época",
+    "b": "apresentar a técnica da costura como assunto principal do trabalho",
+    "c": "devolver o olhar a quem foi classificado, expondo a violência daquele modo de medir pessoas e interrompendo a leitura original das imagens",
+    "d": "comprovar que o material antigo se conserva melhor com costura",
+    "e": "reconstituir com fidelidade documental o procedimento empregado pelos pesquisadores do período, exigência a que o trabalho se submeteria para ser aceito no circuito artístico contemporâneo"
+   },
+   "resposta": "c",
+   "explicacao": "A costura não decora: ela intervém sobre um documento de violência e o obriga a dizer outra coisa. A arte contemporânea brasileira usa muito esse gesto de reapropriação, e a banca costuma cobrar exatamente a relação entre a obra e o material que ela reaproveita.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-339",
+   "texto_apoio": "Uma edição recente da Bienal reservou salas inteiras a artistas indígenas contemporâneos, apresentados com nome próprio, trajetória e obra individual, e não como autores anônimos de peças de coleção etnográfica.",
+   "enunciado": "Essa decisão de curadoria implica:",
+   "alternativas": {
+    "a": "o abandono do critério de qualidade na seleção dos trabalhos",
+    "b": "a transformação da mostra em evento de caráter antropológico",
+    "c": "a exigência de que os trabalhos utilizem materiais tradicionais",
+    "d": "reconhecer esses artistas como autores contemporâneos, o que altera o lugar que o circuito lhes reservava e amplia o que conta como arte do presente",
+    "e": "que as peças exibidas sejam devolvidas às comunidades de origem ao término da exposição, procedimento que as instituições brasileiras adotariam ao receber trabalhos vindos de aldeias"
+   },
+   "resposta": "d",
+   "explicacao": "A diferença entre expor um objeto como espécime e expor um trabalho com autoria é toda a diferença de estatuto. A curadoria que faz esse deslocamento não amplia apenas a lista de nomes: altera o que a bienal reconhece como obra do presente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-340",
+   "texto_apoio": "Numa sala vazia, alto-falantes distribuídos pelas paredes emitem gravações de ruídos de uma fábrica desativada. O visitante escuta trechos diferentes conforme o lugar em que para.",
+   "enunciado": "Trata-se de uma instalação porque o trabalho:",
+   "alternativas": {
+    "a": "utiliza gravações em vez de objetos, o que bastaria para defini-lo",
+    "b": "apresenta um conteúdo histórico sobre a fábrica desativada, funcionando como registro documental do período em que aquele parque industrial empregava boa parte dos moradores do bairro",
+    "c": "requer equipamento eletrônico para ser apresentado ao público",
+    "d": "propõe ao visitante uma experiência de escuta atenta e demorada",
+    "e": "faz do espaço e do deslocamento do visitante parte da obra, de modo que o percurso escolhido por cada um produz uma versão distinta do trabalho"
+   },
+   "resposta": "e",
+   "explicacao": "O que define a instalação não é o meio empregado, e sim o fato de o espaço e o percurso serem material da obra. Trocar a sala produziria outro trabalho, e essa dependência é o que a aproxima da lógica do site-specific.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-341",
+   "texto_apoio": "Numa parede branca, lê-se apenas a frase 'esta sentença é a obra'. Não há objeto, imagem nem legenda adicional.",
+   "enunciado": "O uso do texto como material, na arte conceitual, mostra que:",
+   "alternativas": {
+    "a": "a linguagem pode ser a matéria da obra, e não apenas o comentário sobre ela, o que desloca o trabalho do campo visual para o da proposição",
+    "b": "a obra escrita substitui a literatura no espaço da galeria",
+    "c": "o público precisa dominar teoria da arte para acessar o trabalho",
+    "d": "a ausência de imagem indica recusa do artista em produzir obra",
+    "e": "a instituição deve acrescentar um texto explicativo ao lado da frase para que o visitante compreenda a proposta, prática que o circuito artístico teria consolidado nas salas de arte contemporânea"
+   },
+   "resposta": "a",
+   "explicacao": "Quando a frase é a obra, o campo visual deixa de ser o lugar do trabalho. A arte conceitual usa esse desvio para perguntar do que uma obra é feita, e a resposta que ela oferece é: de uma proposição sustentada por um circuito que a reconhece.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-342",
+   "texto_apoio": "Um trabalho consiste numa página aberta em que pessoas de vários países acrescentam uma linha a um desenho comum. O resultado muda a cada minuto e não tem forma final.",
+   "enunciado": "Esse trabalho leva ao limite um princípio da arte contemporânea:",
+   "alternativas": {
+    "a": "a obra deve ser reproduzida industrialmente para circular",
+    "b": "a participação do público deixa de ser recepção e vira produção, e o artista assume o papel de quem propõe as regras do encontro",
+    "c": "a autoria coletiva elimina a necessidade de proposta inicial",
+    "d": "o meio digital dispensa a discussão sobre legitimação da obra",
+    "e": "a peça precisa alcançar uma forma estável para ser reconhecida pelo circuito artístico, condição que os trabalhos de natureza interativa procurariam atender antes de serem apresentados"
+   },
+   "resposta": "b",
+   "explicacao": "A linhagem vem de longe: dos Bichos manipuláveis ao desenho aberto em rede, o que muda é a escala, não o princípio. O artista deixa de entregar forma e passa a entregar regra, e a obra é o que acontece dentro dela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-343",
+   "texto_apoio": "Durante cinco dias, um pavilhão reúne estandes de galerias de vários países; obras são vendidas, contatos são feitos e a imprensa publica os preços alcançados.",
+   "enunciado": "A feira se distingue de uma exposição de instituição pública porque:",
+   "alternativas": {
+    "a": "reúne obras de qualidade superior às que as instituições exibem",
+    "b": "dispensa a presença de curadoria em suas diversas etapas",
+    "c": "seu propósito declarado é a transação comercial, e a seleção obedece ao que as galerias avaliam como negociável no mercado de arte",
+    "d": "impede que trabalhos de artistas jovens sejam apresentados",
+    "e": "recebe financiamento público destinado à difusão cultural, obrigação que a legislação brasileira estabeleceria para eventos que exibem obras de artistas nacionais em pavilhões abertos ao público"
+   },
+   "resposta": "c",
+   "explicacao": "Bienal e feira parecem eventos parecidos e obedecem a lógicas distintas: uma consagra, a outra vende. Distinguir as duas instâncias é condição para entender como funciona a legitimação no circuito artístico contemporâneo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-344",
+   "texto_apoio": "Um artista jovem recebe um prêmio que inclui três meses de trabalho num ateliê no exterior, verba de produção e uma exposição individual ao final do período.",
+   "enunciado": "Do ponto de vista do circuito artístico, esse tipo de programa funciona como:",
+   "alternativas": {
+    "a": "substituto da formação acadêmica em artes visuais",
+    "b": "certeza de que o artista passará a viver do próprio trabalho",
+    "c": "mecanismo de ampliação das coleções das instituições públicas",
+    "d": "instância de legitimação, que dá visibilidade e credenciais reconhecidas pelas galerias, pela crítica e pelas instituições",
+    "e": "exigência prévia para que um trabalho possa ser apresentado numa bienal, etapa que as comissões de seleção brasileiras verificariam antes de considerar a inscrição de artistas em início de trajetória"
+   },
+   "resposta": "d",
+   "explicacao": "Prêmios e residências são degraus reconhecidos do circuito: valem menos pelo dinheiro e mais pelo aval que produzem. Mapear essas instâncias é entender por que dois trabalhos equivalentes têm destinos tão diferentes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-345",
+   "texto_apoio": "Uma peça de aço de trinta metros é instalada no meio de uma praça movimentada e obriga os pedestres a contorná-la. Depois de anos de reclamações e de um processo público, ela é removida.",
+   "enunciado": "O episódio é discutido na arte contemporânea porque põe em confronto:",
+   "alternativas": {
+    "a": "a qualidade técnica da peça e o custo de sua manutenção, discussão que levaria a administração municipal a decidir pela retirada nos casos em que a conservação de um trabalho superasse o valor previsto em orçamento",
+    "b": "o interesse da crítica e a opinião dos historiadores da arte",
+    "c": "a durabilidade do aço e as condições climáticas da praça",
+    "d": "o valor da peça no mercado e o orçamento da administração",
+    "e": "a autonomia da obra concebida para aquele lugar e o direito de quem usa o espaço público de opinar sobre o que ocupa a praça"
+   },
+   "resposta": "e",
+   "explicacao": "O caso é o exemplo clássico do limite do site-specific em espaço público: a obra reivindica o lugar, e quem atravessa a praça também. Não há resposta pacífica, e é justamente por isso que a intervenção urbana segue sendo assunto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "med-artes-346",
+   "texto_apoio": "Numa mesma rua, um muro traz um conjunto de figuras coloridas feito com autorização do proprietário, e o muro vizinho traz letras alongadas em tinta preta, feitas sem consentimento.",
+   "enunciado": "A distinção entre grafite e pichação, no debate sobre arte urbana, costuma apoiar-se em:",
+   "alternativas": {
+    "a": "o consentimento e o reconhecimento social, critérios externos à obra que determinam como cada intervenção é tratada pela lei e pela crítica",
+    "b": "a quantidade de cores empregada em cada uma das paredes",
+    "c": "o tempo que cada intervenção leva para ser executada na rua",
+    "d": "a formação escolar de quem realiza cada tipo de trabalho",
+    "e": "o tamanho da superfície ocupada por cada intervenção no muro, medida que as prefeituras brasileiras utilizariam para decidir quais trabalhos permanecem e quais devem ser removidos das fachadas"
+   },
+   "resposta": "a",
+   "explicacao": "A fronteira entre as duas práticas é social, não formal: o mesmo gesto muda de nome conforme quem autoriza e quem reconhece. Perceber isso é entender por que a arte urbana continua sendo um campo em disputa, e não uma categoria estável.",
    "formato": "direta",
    "origem": "medicina"
   }

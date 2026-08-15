@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-15",
  "frente": "artes-cultura",
- "total": 262,
+ "total": 346,
  "residuo": [
   "dir-artes-cultura-46",
   "dir-artes-cultura-52",
@@ -1573,6 +1573,510 @@
   },
   "med-artes-262": {
    "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-263": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-264": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-265": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-266": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-267": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-268": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-269": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-270": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-271": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-272": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-273": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-274": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-275": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-276": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-277": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-278": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-279": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-280": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-281": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-282": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-283": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-284": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-285": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-286": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-287": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-288": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-289": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-290": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-291": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-292": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-293": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-294": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-295": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-296": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-297": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-298": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-299": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-300": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-301": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-302": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 20,
+   "margem": 20
+  },
+  "med-artes-303": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-304": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-305": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-306": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-307": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-308": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-309": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-310": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-311": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-312": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-313": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-314": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-315": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-316": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-317": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-318": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-artes-319": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-artes-320": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-321": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-artes-322": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-323": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-324": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-325": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-326": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-artes-327": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-328": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-329": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-330": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-331": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-332": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-333": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-artes-334": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-335": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-336": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-337": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-338": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-339": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-artes-340": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-341": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-342": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-artes-343": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-344": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-345": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-346": {
+   "subtema": "artes-contemporanea",
    "frenteDestino": "artes-cultura",
    "pontos": 5,
    "margem": 5

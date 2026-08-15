@@ -2184,6 +2184,895 @@
    "explicacao": "A elevação da glicose no sangue estimula as células beta das ilhotas pancreáticas a liberar insulina, que promove a captação de glicose pelo músculo e pelo tecido adiposo e o armazenamento como glicogênio no fígado. O glucagon faz o oposto e predomina no jejum. Glicose na urina é sinal de descontrole, e não mecanismo normal de regulação.",
    "formato": "direta",
    "origem": "direito"
+  },
+  {
+   "id": "dir-ciencias-natureza-133",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "lacunas",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q01.jpg",
+    "descricao": "Gráfico com a intensidade luminosa no eixo horizontal e duas escalas verticais. A curva verde, da taxa de fotossíntese, sobe a partir da origem e se estabiliza em 5. A reta laranja horizontal, da taxa de respiração, é constante em 3. Três pontos estão marcados na curva verde: A, abaixo da reta laranja; B, exatamente sobre o cruzamento das duas linhas; e C, onde a curva verde atinge o patamar. (Fonte: AMABIS e MARTHO. Biologia Moderna, volume 2, 1ª ed., São Paulo: Ed. Moderna, 2016, p.109.)"
+   },
+   "enunciado": "O gráfico refere-se ao efeito da luminosidade sobre a fotossíntese e a respiração de uma planta.\nO ponto de compensação fótica corresponde, no gráfico, à letra ______: plantas ______ apresentam pontos de compensação ______ e vivem em locais com ______ intensidade luminosa, ocorrendo o oposto com as plantas ______.\nAs lacunas devem ser corretamente preenchidas por:",
+   "alternativas": {
+    "a": "A; umbrófilas; baixos; menor; heliófilas.",
+    "b": "B; heliófilas; baixos; maior; umbrófilas.",
+    "c": "C; umbrófilas; altos; maior; heliófilas.",
+    "d": "B; umbrófilas; baixos; menor; heliófilas.",
+    "e": "C; heliófilas; baixos; maior; umbrófilas."
+   },
+   "resposta": "d",
+   "explicacao": "O ponto de compensação fótica é aquele em que a fotossíntese iguala a respiração, ou seja, onde as duas linhas se cruzam — o ponto B. Nele o saldo de matéria orgânica é zero. Plantas umbrófilas, ou de sombra, saturam com pouca luz e por isso têm ponto de compensação baixo, o que lhes permite viver sob menor intensidade luminosa; as heliófilas, de sol, precisam de mais luz para chegar ao mesmo equilíbrio. O erro típico é escolher C, que é o ponto de saturação luminosa, não o de compensação.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-134",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q02.png",
+    "descricao": "Gráfico com a velocidade da reação no eixo vertical e a grandeza X no eixo horizontal. A curva parte da origem, sobe rapidamente e depois se achata, aproximando-se de uma linha tracejada horizontal rotulada V máxima. Uma seta vertical aponta para a região em que a curva já está achatada, junto da V máxima."
+   },
+   "enunciado": "Fatores como temperatura, pH, salinidade e concentração de substrato afetam a velocidade das reações catalisadas por enzimas, já que tais moléculas atuam em faixas de valores considerados \"ótimos\", nos quais a atividade catalítica é máxima.\nO gráfico mostra como um desses fatores, representado por \"X\", atua sobre a velocidade de uma reação catalisada por enzima produzida pelo estômago humano.\nA análise do gráfico permite concluir que a abcissa x e a seta indicam, respectivamente,",
+   "alternativas": {
+    "a": "o pH e o ponto em que a enzima sofre desnaturação.",
+    "b": "a temperatura e o início da faixa ótima para a ação enzimática.",
+    "c": "a concentração do substrato e o ponto de saturação enzimática.",
+    "d": "a acidez e o ponto ótimo, onde a atividade enzimática é máxima.",
+    "e": "a salinidade e a ação enzimática ótima."
+   },
+   "resposta": "c",
+   "explicacao": "A forma da curva é o que decide. pH, temperatura e salinidade produzem curvas em SINO: a atividade sobe até um ótimo e depois cai, porque a enzima desnatura. Aqui a curva sobe e permanece no patamar, sem cair — comportamento exclusivo da concentração de substrato, que satura os sítios ativos disponíveis e não consegue mais aumentar a velocidade. A seta marca justamente esse ponto de saturação. A pepsina, enzima gástrica, é apenas o contexto.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-135",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "\"Cada cromossomo de um par de homólogos, constituído por duas cromátides unidas pelo centrômero, é puxado para um dos polos da célula. Assim, ocorre a separação dos cromossomos duplicados em polos opostos. Já as cromátides-irmãs permanecem ligadas pelo centrômero.\"",
+   "enunciado": "O texto acima descreve os eventos que caracterizam uma etapa de certa divisão celular. Esses eventos marcam a",
+   "alternativas": {
+    "a": "anáfase I da meiose.",
+    "b": "metáfase II da meiose.",
+    "c": "anáfase II da meiose.",
+    "d": "metáfase I da meiose.",
+    "e": "anáfase da mitose."
+   },
+   "resposta": "a",
+   "explicacao": "Duas informações resolvem. Há separação de cromossomos indo para polos opostos, o que caracteriza uma ANÁFASE, e não uma metáfase. E as cromátides-irmãs permanecem unidas pelo centrômero, o que só ocorre na anáfase I da meiose, em que se separam os homólogos, e não as cromátides. Na anáfase II e na anáfase da mitose são as cromátides-irmãs que se separam — exatamente o que o texto nega.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-136",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "A maior limitação do desenvolvimento da criação de carneiros e cabras no Brasil são as helmintoses, doenças parasitárias causadas por nematoides gastrointestinais. Tais doenças provocam atraso no crescimento dos animais e alterações nas taxas de fertilidade. O tratamento - realizado basicamente com o uso de medicamentos anti-helmínticos - tem alto custo e foi usado repetidamente e de forma descontrolada pelos produtores; com isso, sua eficiência foi reduzida, provavelmente pela resistência desenvolvida por parte dos helmintos.\n(https://books.scielo.org/id/76264/pdf/bezerra-9786587108643-05.pdf. Adaptado)",
+   "enunciado": "O uso indiscriminado de anti-helmínticos levou ao surgimento de uma população de parasitas resistentes, pois",
+   "alternativas": {
+    "a": "os parasitas modificaram sua fisiologia e passaram a produzir substâncias que impediam a ação das drogas anti-helmínticas.",
+    "b": "os anti-helmínticos causaram mutações no DNA dos vermes, tornando-os resistentes às drogas, característica esta que foi disseminada entre as gerações seguintes.",
+    "c": "os helmintos, capazes de sofrer mutações para se adaptar à presença das drogas, reproduziram-se e geraram descendentes também resistentes, pelo fato de ter ocorrido seleção natural.",
+    "d": "indivíduos da população original de helmintos apresentavam genes para resistência às drogas anti-helmínticas e transferiram esses genes para as gerações seguintes.",
+    "e": "os anti-helmínticos causaram o surgimento de novos alelos, que permitiram a sobrevivência dos nematoides e seus descendentes."
+   },
+   "resposta": "d",
+   "explicacao": "A questão separa darwinismo de lamarckismo. Na explicação correta, a variabilidade genética é PRÉ-EXISTENTE: alguns helmintos já carregavam os genes de resistência antes do contato com a droga, e o anti-helmíntico apenas selecionou esses indivíduos, que deixaram descendentes. As alternativas a, b, c e e são todas variantes lamarckistas ou de mutação dirigida — supõem que o próprio contato com a droga causou ou induziu a resistência. A alternativa c chega a citar seleção natural, mas diz que os helmintos são \"capazes de sofrer mutações para se adaptar\", o que atribui finalidade à mutação e a torna errada.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-137",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "\"As formigas nectarívoras são insetos que se alimentam de néctar e protegem sua fonte de alimento de outros animais, tornando-se possíveis substitutas aos agrotóxicos. Algumas espécies de formigas como a Ectatomma tuberculatum e Camponotus crassus, por exemplo, alimentam-se do néctar das plantas, tendo preferência por aquelas produzidas fora das flores, em estruturas conhecidas como nectários extraflorais.\"\n(Adaptado de https://aun.webhostusp.sti.usp.br/)",
+   "enunciado": "A relação ecológica entre as formigas e as plantas citadas deve ser classificada como um tipo de relação",
+   "alternativas": {
+    "a": "interespecífica do tipo sociedade.",
+    "b": "intraespecífica do tipo herbivoria.",
+    "c": "interespecífica do tipo comensalismo.",
+    "d": "intraespecífica do tipo epifitismo.",
+    "e": "interespecífica do tipo mutualismo."
+   },
+   "resposta": "e",
+   "explicacao": "São duas decisões encadeadas. Formiga e planta são espécies diferentes, logo a relação é INTERespecífica — o que já elimina b e d. E há benefício para os dois lados: a formiga ganha o néctar, a planta ganha proteção contra herbívoros. Isso é mutualismo. O comensalismo da alternativa c exigiria que a planta ficasse indiferente, o que o texto contradiz ao dizer que as formigas protegem a fonte de alimento.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-138",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Esquema",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q06.jpg",
+    "descricao": "Duas pirâmides de energia lado a lado, sobre bases iguais de plantação de milho. À esquerda, do milho sobe direto uma barra larga sustentando um grupo grande de pessoas, rotulado Vegetarianos. À direita, do milho de mesmo tamanho sobe uma barra sustentando um rebanho, rotulado Gado, e sobre o gado uma barra bem mais estreita sustenta uma única pessoa, rotulada Carnívoros. (Campbell Biology: Concepts & Connections. Reece, J.B. et al. Pearson Education, NJ. 2021. Adaptado.)"
+   },
+   "enunciado": "Observe as duas pirâmides de energia. Os esquemas representam o custo ecológico da carne de forma simplificada.\nConsiderando apenas o aspecto do fluxo de energia ao longo das cadeias alimentares, os esquemas mostram que uma plantação de milho pode sustentar muito mais humanos vegetarianos do que carnívoros. Isso ocorre porque",
+   "alternativas": {
+    "a": "há maior eficiência na transferência de energia dos produtores para os consumidores primários do que dos consumidores primários para os consumidores secundários.",
+    "b": "a maior parte da energia que chega a um nível trófico é transferida e incorporada pelos organismos do próximo nível trófico.",
+    "c": "durante a transferência de energia de um nível trófico para outro, 10% dessa energia é perdida na forma de calor para o ambiente.",
+    "d": "apenas uma pequena quantidade da energia que chega a um nível trófico é transferida ao nível trófico seguinte.",
+    "e": "os animais herbívoros consomem, obrigatoriamente, menos energia do que os animais carnívoros."
+   },
+   "resposta": "d",
+   "explicacao": "Vale a regra dos 10%: em média, só cerca de um décimo da energia de um nível trófico chega ao nível seguinte, e o resto se dissipa como calor no metabolismo. Comer o milho diretamente evita um degrau dessa perda, e por isso a mesma plantação sustenta muito mais gente. A alternativa c inverte o número — são 10% que passam, não 10% que se perdem — e a b inverte a proporção. A alternativa a é sedutora, mas a perda é da mesma ordem em qualquer degrau da cadeia; não é a eficiência que muda entre os níveis, é o número de degraus percorridos.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-139",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Fotografia",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q07.jpg",
+    "descricao": "Fotografia de uma folha de cafeeiro vista contra o céu, coberta de manchas circulares alaranjadas espalhadas por toda a superfície — as pústulas características da ferrugem do café. (Fonte: infoteca.cnptia.embrapa.br.)"
+   },
+   "enunciado": "As ferrugens são parasitas vegetais pertencentes a um reino de seres eucarióticos cuja parede celular contém quitina. Os ciclos de vida de muitas ferrugens são complexos e, diferentemente de outros da sua classe, não formam basídios. Estes fitopatógenos têm grande importância econômica, pois afetam a agricultura mundial, causando anualmente a perda de bilhões de dólares.\nAs ferrugens são",
+   "alternativas": {
+    "a": "bactérias.",
+    "b": "helmintos.",
+    "c": "vírus.",
+    "d": "protozoários.",
+    "e": "fungos."
+   },
+   "resposta": "e",
+   "explicacao": "O enunciado entrega a chave em duas palavras: eucariótico e parede celular de QUITINA. Quitina na parede é característica exclusiva do reino Fungi — plantas usam celulose, e bactérias, peptideoglicano. Isso já elimina bactérias e vírus, que sequer são eucarióticos, e também helmintos e protozoários, que não têm parede celular. A menção a basídios confirma: a comparação só faz sentido dentro dos fungos.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-140",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Uma das vacinas usadas para a prevenção da COVID-19 utiliza uma tecnologia inédita - a vacina contém um pedaço de RNA mensageiro (RNAm) sintético, correspondente à proteína Spike, usada pelo vírus Sars-Cov-2 para entrar nas células humanas. Depois de injetado no músculo de um indivíduo, o RNAm entrará nas células musculares, que iniciam a produção da proteína Spike, que será, em seguida, exibida na superfície dessas células. Nosso sistema imunológico identifica então a proteína estranha (antígeno) e entra em ação, ativando células de defesa e produzindo anticorpos contra a proteína viral.",
+   "enunciado": "A produção de proteínas Spike pelas células musculares humanas ocorre porque o RNAm sintético",
+   "alternativas": {
+    "a": "entra no núcleo das células humanas e incorpora-se aos seus cromossomos, alterando seu DNA.",
+    "b": "possui os genes do vírus SARS-CoV-2 responsáveis pela síntese da proteína viral.",
+    "c": "contém o código que determina a sequência de aminoácidos para a produção da proteína Spike.",
+    "d": "age como um parasita celular obrigatório, usando a maquinaria da célula para se multiplicar.",
+    "e": "transporta aminoácidos constituintes da proteína Spike, do núcleo para o citoplasma das células."
+   },
+   "resposta": "c",
+   "explicacao": "O RNA mensageiro é justamente a molécula que carrega, em trincas de bases, a instrução para a ordem dos aminoácidos, e essa instrução é lida pelos ribossomos no citoplasma. A alternativa a é o boato mais difundido sobre essas vacinas e é falsa: o RNAm não entra no núcleo nem se integra ao DNA. A b confunde gene com transcrito — gene é DNA. A d descreve o vírus, não a vacina, que não se multiplica. A e descreve o RNA transportador, e ainda erra a direção do transporte.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-141",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "As frequências de grupos sanguíneos dos sistemas ABO e Rh são variáveis entre as diversas populações do mundo. No estudo de uma determinada população, verificou-se que a frequência do fenótipo sanguíneo O é 0,45. Já em relação ao sistema Rh, a frequência do alelo dominante é 0,80. Tendo em conta estas informações, nessa população, a frequência de pessoas do grupo O e Rh+ (positivas) é, aproximadamente,",
+   "alternativas": {
+    "a": "32%.",
+    "b": "14%.",
+    "c": "43%.",
+    "d": "28%.",
+    "e": "45%."
+   },
+   "resposta": "c",
+   "explicacao": "Os dois sistemas são independentes, então basta multiplicar as frequências. A do grupo O já vem pronta: 0,45. Para o Rh, o alelo dominante tem frequência 0,80, logo o recessivo tem 0,20, e só o homozigoto recessivo é Rh negativo: 0,20² = 0,04. Assim Rh positivo é 1 − 0,04 = 0,96. O produto é 0,45 × 0,96 = 0,432, ou cerca de 43%. A alternativa 45% é a de quem esquece de descontar os Rh negativos; 36% seria a de quem usa 0,80 direto como frequência de Rh positivo, confundindo frequência de alelo com frequência de fenótipo.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-142",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Tabela",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q10.png",
+    "descricao": "Tabela da pressão média do sangue no sistema cardiovascular, em mmHg. Cavidade A: 0-4. Cavidade B: 8-10. Cavidade C: sistólica 120, diastólica 10. Cavidade D: sistólica 25, diastólica 4. Vaso I: sistólica 120, diastólica 80. Vaso II: sistólica 25, diastólica 10."
+   },
+   "enunciado": "A medida da pressão sanguínea no interior das câmaras do coração e nos vasos da circulação periférica permite avaliar a qualidade funcional do sistema cardiovascular. A tabela mostra os valores da pressão do sangue, medida em mm de mercúrio (mmHg), no interior das quatro cavidades cardíacas (representadas por A, B, C, D) e nas artérias pulmonar e aorta (representadas por algarismos romanos) de um indivíduo jovem sadio.\nA análise da tabela permite afirmar que",
+   "alternativas": {
+    "a": "C = ventrículo esquerdo; I = artéria aorta.",
+    "b": "C = ventrículo esquerdo; I = artéria pulmonar.",
+    "c": "D = ventrículo esquerdo; II = artéria aorta.",
+    "d": "D = ventrículo esquerdo; II = artéria pulmonar.",
+    "e": "B = átrio esquerdo; II = artéria aorta."
+   },
+   "resposta": "a",
+   "explicacao": "O ventrículo esquerdo é a câmara de maior pressão do coração, porque bombeia para todo o corpo: entre as cavidades, só C atinge 120 de sistólica. A aorta recebe esse sangue e por isso tem a mesma sistólica de 120, que é o vaso I. Os valores baixos, de 25, pertencem ao circuito pulmonar — cavidade D é o ventrículo direito e o vaso II é a artéria pulmonar, que trabalham sob pressão bem menor por percorrerem um trajeto curto. A e A e B, com pressões de um dígito, são os átrios.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-143",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Os vegetais, no seu crescimento e desenvolvimento, sofrem a influência de diversos hormônios. Entre os hormônios vegetais, aquele que atua na queda das folhas, além de promover o amadurecimento dos frutos, é",
+   "alternativas": {
+    "a": "a giberelina.",
+    "b": "o ácido abscísico.",
+    "c": "a citocinina.",
+    "d": "a auxina.",
+    "e": "o etileno."
+   },
+   "resposta": "e",
+   "explicacao": "O etileno é o único hormônio vegetal gasoso e responde pelas duas funções citadas: o amadurecimento dos frutos e a abscisão foliar, que é a queda das folhas. É por isso que uma fruta madura acelera o amadurecimento das vizinhas na fruteira. O ácido abscísico é a pegadinha do nome — apesar de \"abscísico\" lembrar abscisão, ele atua no fechamento dos estômatos e na dormência das sementes. Giberelina alonga o caule, citocinina promove divisão celular e auxina responde pelo crescimento orientado.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-144",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Boa parte da população mundial, em função de necessidade econômica, não tem acesso a alimentos de origem animal. Essas pessoas são forçadas a obter quase todas as suas calorias a partir de um único alimento vegetal, como batata ou arroz, levando-as a um quadro grave de desnutrição, com perda de massa muscular, edema (inchaço) generalizado sob a pele e queda da resistência contra infecções. Neste caso, a desnutrição é decorrente da ingestão insuficiente de",
+   "alternativas": {
+    "a": "carboidratos.",
+    "b": "lipídios.",
+    "c": "aminoácidos essenciais.",
+    "d": "fibras alimentares.",
+    "e": "amido."
+   },
+   "resposta": "c",
+   "explicacao": "O quadro descrito é o do kwashiorkor, desnutrição proteica. Perda de massa muscular, queda de imunidade e edema apontam todos para falta de proteína: sem albumina suficiente no sangue, cai a pressão oncótica e o líquido escapa para os tecidos, o que produz o inchaço. Como as calorias vêm em quantidade — batata e arroz são ricos em amido —, carboidratos e amido estão sobrando, não faltando. O ponto é que a proteína vegetal de um único alimento é incompleta: faltam aminoácidos essenciais, que o corpo não sintetiza.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-145",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q13.png",
+    "descricao": "Gráfico de crescimento populacional, com número de indivíduos no eixo vertical e tempo no horizontal. Uma curva preta sobe de forma exponencial e não se detém, indicada por A na base e B no trecho de subida. Uma curva vermelha acompanha a preta no início, depois se dobra e oscila em torno de uma linha horizontal azul rotulada C. A área entre as duas curvas está sombreada e marcada D, e o trecho da curva vermelha é indicado por E. (Fonte: AMABIS e MARTHO. Biologia Moderna, volume 3, 1ª ed., São Paulo: Ed. Moderna, 2016, p.217.)"
+   },
+   "enunciado": "O gráfico representa a curva de crescimento de uma população a partir de um pequeno número de indivíduos.\nA letra correspondente ao conjunto de fatores ambientais que limitam o crescimento da população é",
+   "alternativas": {
+    "a": "A, chamado de potencial biótico.",
+    "b": "B, chamado de resistência do meio.",
+    "c": "C, chamado de potencial biótico.",
+    "d": "D, chamado de resistência do meio.",
+    "e": "E, chamado de carga biótica máxima."
+   },
+   "resposta": "d",
+   "explicacao": "A curva preta é o potencial biótico: o crescimento que a população teria se nada a limitasse. A vermelha é o crescimento real. A distância entre as duas — a área sombreada D — é exatamente o que o ambiente impediu de acontecer: alimento finito, espaço, predadores, doenças. Esse conjunto é a resistência do meio. A linha C é a capacidade de suporte do ambiente, em torno da qual a população real oscila, e não a resistência do meio.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-146",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Estuários são áreas de transição entre o ambiente marinho e o límnico (de água doce). Nestes locais, a salinidade é um dos principais fatores abióticos que determina a distribuição dos animais invertebrados.\nNo litoral cearense, um fenômeno bastante comum é relatado pelos \"catadores de búzios\"; segundo eles, durante o período chuvoso, moluscos do gênero Anomalocardia brasiliana aparecem mortos devido ao excesso de água doce no estuário.\n(http://conexoes.ifce.edu.br/index.php/conexoes/article/viewFile/131/122. Adaptado)",
+   "enunciado": "A morte dos moluscos ocorre porque, durante o período chuvoso,",
+   "alternativas": {
+    "a": "a água do estuário torna-se hipertônica em relação às suas células, que perdem água para o meio e sofrem plasmólise.",
+    "b": "as células dos animais apresentam redução excessiva do volume, devido à perda de água para o meio, que se tornou hipo-osmótico.",
+    "c": "o potencial osmótico das células dos moluscos aumenta, elas perdem sais para o ambiente e desidratam.",
+    "d": "a água do estuário torna-se hipertônica e as células animais perdem água para o meio, o que causa a desidratação do animal.",
+    "e": "o meio externo torna-se hipotônico, levando à entrada excessiva de água nas células e consequente aumento do volume celular."
+   },
+   "resposta": "e",
+   "explicacao": "A chuva DILUI o estuário, então o meio externo fica com menos soluto que o interior das células — isto é, hipotônico. Pela osmose, a água vai do meio menos concentrado para o mais concentrado, e portanto ENTRA na célula, que incha e pode romper. As alternativas a e d invertem o sentido ao chamar o meio de hipertônico, e a b, embora acerte que o meio é hipo-osmótico, tira daí a conclusão oposta, de perda de água. Reconhecer que diluir o meio faz a água entrar é o passo único da questão.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-147",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "O isolamento reprodutivo desempenha um importante papel na especiação. O veado mateiro, Mazama americana, ocorre do norte da América do Sul ao norte da Argentina. Na pesquisa feita por Marina Cursino (2011), Mazama americana apresenta populações cariotipicamente diferentes em diversas regiões brasileiras, representadas por duas linhagens evolutivas. Essas linhagens mostram uma distância genética entre elas maior que em relação a outras espécies de Mazama. Cursino aponta a existência de um mecanismo de isolamento reprodutivo entre as linhagens. Com os dados obtidos no experimento, foi possível verificar a capacidade reprodutiva das fêmeas puras e observar a presença de subfertilidade e esterilidade das híbridas. A pesquisadora sugere que, devido à distância cariotípica das linhagens, a espécie Mazama americana deve ser diferenciada em espécies distintas por apresentarem isolamento reprodutivo.",
+   "enunciado": "O tipo de isolamento reprodutivo encontrado por Marina Cursino em Mazama americana é",
+   "alternativas": {
+    "a": "pré-copulatório e pré-zigótico.",
+    "b": "pós-copulatório e pós-zigótico.",
+    "c": "pré-copulatório e pós-zigótico.",
+    "d": "pós-copulatório e pré-zigótico.",
+    "e": "pré-copulatório e com isolamento gamético."
+   },
+   "resposta": "b",
+   "explicacao": "O detalhe decisivo é que os híbridos NASCEM — a pesquisa observa subfertilidade e esterilidade neles. Se há híbrido vivo, houve cópula e houve zigoto, de modo que a barreira não é pré-copulatória nem pré-zigótica: ela age depois, sobre a viabilidade e a fertilidade do descendente. É o caso clássico da esterilidade do híbrido, como a da mula. Qualquer alternativa com \"pré\" exigiria que os animais não chegassem a cruzar ou que o zigoto não se formasse.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-148",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Esquema",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q16.png",
+    "descricao": "Desenho do termoscópio de Galileu: uma esfera oca de vidro no alto, ligada a um tubo fino vertical cuja extremidade aberta mergulha num recipiente com água colorida. O líquido penetrou no tubo até certa altura, indicada pela coluna colorida. Ao lado, uma nota: o ar no termoscópio deve ser considerado um gás ideal."
+   },
+   "enunciado": "O termoscópio de Galileu, um dos primeiros instrumentos usados para indicar variações de temperatura, é formado por uma esfera oca de vidro ligada a um fino tubo, também de vidro, aberto em sua extremidade. O lado aberto do tubo está mergulhado em um recipiente contendo água com corante e pode-se observar que o líquido penetra no vidro até uma certa altura, como ilustra a figura. O sistema está à temperatura ambiente de 23 °C. Nestas condições, a esfera preenchida com ar é borrifada com álcool e a temperatura do ar dentro do termoscópio",
+   "alternativas": {
+    "a": "aumenta, e a água sobe no tubo.",
+    "b": "aumenta, e a água desce no tubo.",
+    "c": "diminui, e a água desce no tubo.",
+    "d": "diminui, e a água sobe no tubo.",
+    "e": "não varia, e a água permanece na mesma altura."
+   },
+   "resposta": "d",
+   "explicacao": "O álcool evapora rapidamente, e a vaporização é endotérmica: para mudar de estado ele retira calor do vidro e, por consequência, do ar aprisionado dentro da esfera. A temperatura do gás cai. Como o volume da esfera é praticamente fixo, a lei dos gases diz que a pressão interna cai junto, e a pressão atmosférica, agora maior, empurra a água para cima no tubo. O erro comum é imaginar que borrifar um líquido volátil aquece por atrito ou por contato, invertendo o sentido das duas mudanças.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-149",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q17.png",
+    "descricao": "Diagrama pressão versus volume do ciclo de Stirling, com quatro estados numerados. Duas curvas descendentes ligam 3 a 4 e 2 a 1, ambas em forma de hipérbole, que são as isotérmicas. Dois segmentos verticais fecham o ciclo: um sobe de 2 a 3 e outro desce de 4 a 1, ambos a volume constante."
+   },
+   "enunciado": "O motor de Stirling é um motor de combustão externa, cujo ciclo possui o mesmo princípio do ciclo de Carnot. Um esquema do diagrama pressão (P) x volume (V) para o ciclo termodinâmico de Stirling, com gás suposto ideal, está apresentado na figura, sendo as transformações 1→2 e 3→4, isotérmicas.\nConsidere as seguintes afirmações:\nI. Na compressão isotérmica, o gás perde calor.\nII. Na transformação isométrica 2→3, não há realização de trabalho e o gás recebe calor.\nIII. Na expansão isotérmica, o gás realiza trabalho e recebe calor.\nIV. Na transformação isométrica 4→1, o gás realiza trabalho e perde calor.\nEstão corretas apenas as afirmações:",
+   "alternativas": {
+    "a": "II e III.",
+    "b": "I e IV.",
+    "c": "I, III e IV.",
+    "d": "I, II e III.",
+    "e": "I, III."
+   },
+   "resposta": "d",
+   "explicacao": "Numa isotérmica de gás ideal a energia interna não muda, então o calor trocado iguala o trabalho: comprimindo, o gás recebe trabalho e perde calor (I correta); expandindo, realiza trabalho e recebe calor (III correta). Numa isométrica o volume é constante, logo o trabalho é nulo — e é justamente aí que IV erra, ao afirmar que o gás realiza trabalho em 4→1. A II está certa: sem trabalho, todo o calor recebido em 2→3 vai para a energia interna, e a pressão sobe.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-150",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Em uma fazenda, há uma pequena usina hidrelétrica que gera energia suficiente para o consumo local. A cachoeira da usina tem 10 m de altura medida a partir da turbina e vazão média de 2 m³/s de água. Considerando que o rendimento na geração de energia é de 60%, a usina, em 30 dias, produz, aproximadamente,\nDados: densidade da água = 10³ kg/m³; aceleração da gravidade local = 10 m/s².",
+   "alternativas": {
+    "a": "3,6 x 10³ kWh.",
+    "b": "5,8 x 10⁴ kWh.",
+    "c": "4,3 x 10⁵ kWh.",
+    "d": "3,1 x 10⁸ kWh.",
+    "e": "8,6 x 10⁴ kWh."
+   },
+   "resposta": "e",
+   "explicacao": "A potência bruta é o peso de água que cai por segundo vezes a altura: densidade × vazão × g × h = 1000 × 2 × 10 × 10 = 200 000 W. Com 60% de rendimento sobram 120 000 W, ou 120 kW. Em 30 dias há 720 horas, logo a energia é 120 × 720 = 86 400 kWh, isto é, 8,64 × 10⁴ kWh. O erro mais frequente é esquecer de converter os 30 dias em horas, ou aplicar o rendimento sobre a energia final e sobre a potência duas vezes.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-151",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Durante a reforma de um apartamento, um motor de corrente contínua ligado a uma bateria de 24 V está sendo usado para elevar, verticalmente, material de construção à velocidade constante de 0,4 m/s. Durante o transporte de uma massa de 36 kg, a corrente no motor, de rendimento 80%, é\nDado: aceleração local da gravidade = 10 m/s².",
+   "alternativas": {
+    "a": "3,0 A.",
+    "b": "6,0 A.",
+    "c": "7,5 A.",
+    "d": "4,8 A.",
+    "e": "2,4 A."
+   },
+   "resposta": "c",
+   "explicacao": "Como a subida é a velocidade constante, a força do motor iguala o peso, e a potência útil é o peso vezes a velocidade: 36 × 10 × 0,4 = 144 W. Essa é a potência que SAI; a que entra é maior, porque o rendimento é 80%: 144 / 0,8 = 180 W. Da potência elétrica P = U·i vem i = 180 / 24 = 7,5 A. Quem multiplica pelo rendimento em vez de dividir chega a 4,8 A, que está entre as alternativas exatamente por isso.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-152",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Em um carro elétrico, 1 litro de bateria fornece 430 Wh de energia para as rodas, enquanto, em motores a combustão, 1 litro de gasolina e 1 litro de etanol disponibilizam para as rodas, respectivamente, 1420 Wh e 1000 Wh. Se reservatórios de 50 litros de gasolina e de álcool forem substituídos por baterias que forneçam a mesma energia desses combustíveis, elas devem ter volumes, em litros, respectivamente, próximos de",
+   "alternativas": {
+    "a": "142 e 100.",
+    "b": "330 e 232.",
+    "c": "50 e 50.",
+    "d": "82 e 58.",
+    "e": "165 e 116."
+   },
+   "resposta": "e",
+   "explicacao": "Basta igualar a energia total e dividir pela densidade energética da bateria. A gasolina entrega 50 × 1420 = 71 000 Wh, o que exige 71 000 / 430 ≈ 165 litros de bateria. O etanol entrega 50 × 1000 = 50 000 Wh, exigindo 50 000 / 430 ≈ 116 litros. A alternativa a é a de quem esquece de dividir pelos 430 e apenas escala pelos 50 litros; o resultado, aliás, é o recado da questão: bateria ocupa três vezes mais espaço para a mesma energia.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-153",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Dois carros de massas iguais e velocidades constantes de mesmos módulos v trafegam em ruas planas e perpendiculares entre si. Ao chegarem em uma esquina, colidem e, presos um ao outro, com suas rodas travadas, percorrem 12 m de distância. A velocidade v dos carros, ao colidirem, é igual a\nDados: aceleração local da gravidade = 10 m/s²; coeficiente de atrito entre os carros após a batida e o solo = 0,3.",
+   "alternativas": {
+    "a": "3 km/h.",
+    "b": "24 km/h.",
+    "c": "43,2 km/h.",
+    "d": "6 km/h.",
+    "e": "21,6 km/h."
+   },
+   "resposta": "c",
+   "explicacao": "A questão encadeia dois princípios. Primeiro, a frenagem: o atrito dissipa toda a energia cinética do conjunto, então a velocidade logo após a batida sai de v'² = 2·μ·g·d = 2 × 0,3 × 10 × 12 = 72, ou seja, v' = 6√2 m/s. Segundo, a colisão: como as trajetórias são perpendiculares, os momentos se somam VETORIALMENTE, e o módulo resultante é mv√2, distribuído sobre a massa 2m — logo v' = v√2/2. Igualando, v = 12 m/s = 43,2 km/h. Somar os momentos como escalares é o erro que a questão cobra.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-154",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "No interior de uma câmara em vácuo, há um campo elétrico E uniforme e um campo magnético B = B k̂, sendo B uma constante positiva. Partículas de carga −q, sendo q > 0, penetram na câmara e caminham em linha reta com velocidade constante v = v ĵ. Nestas condições,\nDados: î, ĵ e k̂ são, respectivamente, os versores nas direções e sentidos dos eixos x, y e z.",
+   "alternativas": {
+    "a": "E = +v B î.",
+    "b": "E = −v B î.",
+    "c": "E = −B k̂.",
+    "d": "E = +B k̂.",
+    "e": "E = −v B ĵ."
+   },
+   "resposta": "b",
+   "explicacao": "Velocidade constante em linha reta significa força resultante nula, ou seja, a força elétrica anula a magnética. Como as duas atuam sobre a MESMA carga −q, ela se cancela na equação e sobra E = −(v × B). Com v = v ĵ e B = B k̂, o produto vetorial ĵ × k̂ = î dá v × B = vB î, e portanto E = −vB î. O sinal negativo da carga é a armadilha: quem tenta acompanhá-lo passo a passo costuma trocar o sinal duas vezes e chega à alternativa a.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-155",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Estudantes interessados em determinar a frequência de um forno de micro-ondas colocaram barras de chocolate em seu interior e as aqueceram, com o prato parado. Notaram que havia pequenas regiões com o chocolate muito derretido distantes 6 cm umas das outras. Conclui-se que a frequência do forno é aproximadamente igual a\nDado: velocidade da luz no ar = 3 x 10⁸ m/s.",
+   "alternativas": {
+    "a": "5000 MHz.",
+    "b": "2500 MHz.",
+    "c": "1250 MHz.",
+    "d": "0,4 kHz.",
+    "e": "0,8 kHz."
+   },
+   "resposta": "b",
+   "explicacao": "Com o prato parado forma-se uma onda estacionária dentro do forno, e o chocolate derrete nos ventres, onde a amplitude é máxima. A distância entre ventres consecutivos é MEIO comprimento de onda, então 6 cm correspondem a λ/2 e λ = 0,12 m. Da relação c = λ·f vem f = 3 × 10⁸ / 0,12 = 2,5 × 10⁹ Hz, ou 2500 MHz — que é de fato a faixa em que operam os fornos domésticos. Quem toma os 6 cm como o comprimento de onda inteiro chega a 5000 MHz.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-156",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Um bastão isolante eletrizado é aproximado de um condutor metálico neutro e isolado, sem tocá-lo. A seguir, são feitos os seguintes procedimentos: 1º com o bastão ainda próximo, o condutor é aterrado; 2º desfaz-se o aterramento; 3º o bastão é afastado do condutor.\nDepois desses procedimentos, verifica-se que o condutor está eletrizado e que, a seguir, ao ser iluminado com luz ultravioleta, ele se descarrega.\nO experimento permite concluir corretamente que o bastão eletrizado estava carregado",
+   "alternativas": {
+    "a": "positivamente e o condutor, logo antes de ser iluminado, também estava carregado positivamente.",
+    "b": "positivamente e o condutor, logo antes de ser iluminado, estava carregado negativamente.",
+    "c": "negativamente e o condutor, logo antes de ser iluminado, também estava carregado negativamente.",
+    "d": "negativamente e o condutor, logo antes de ser iluminado, estava carregado positivamente.",
+    "e": "negativamente e o condutor, logo antes de ser iluminado, estava polarizado com um lado negativo e outro positivo."
+   },
+   "resposta": "b",
+   "explicacao": "A chave está na descarga por luz ultravioleta, que é o efeito fotoelétrico: a luz ARRANCA elétrons do metal. Um corpo só se descarrega perdendo elétrons se estiver com elétrons em excesso, ou seja, negativo — logo o condutor estava negativo. E a eletrização por indução com aterramento sempre deixa o condutor com carga de sinal OPOSTO ao do indutor, de modo que o bastão era positivo. Encadear os dois passos nessa ordem, da descarga para o bastão, é o caminho mais curto.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-157",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Duas cargas puntiformes q e −q, localizadas no plano xy, estão respectivamente, nos pontos de coordenadas (x = −a, y = 0) e (x = +a, y = 0), no vácuo. O trabalho realizado pela força elétrica resultante sobre uma carga Q para trazê-la do infinito até o ponto (x = 0, y = d) é\nDado: a constante ε₀ é a permissividade elétrica do vácuo.",
+   "alternativas": {
+    "a": "nulo.",
+    "b": "qQ / (4πε₀√(d²+a²)).",
+    "c": "2qQ / (4πε₀√(d²+a²)).",
+    "d": "qQ / (4πε₀d).",
+    "e": "2qQ / (4πε₀d)."
+   },
+   "resposta": "a",
+   "explicacao": "O ponto (0, d) fica sobre a mediatriz do segmento que liga as duas cargas, logo equidista de ambas. Como elas têm cargas de mesmo módulo e sinais opostos, os potenciais que criam nesse ponto se cancelam exatamente, e o potencial resultante é zero. O trabalho da força elétrica para trazer Q do infinito, onde o potencial também é zero, até um ponto de potencial zero é portanto nulo. Note que a FORÇA sobre Q ali não é nula — é o TRABALHO que é, e confundir as duas coisas é o que leva às demais alternativas.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-158",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Uma pessoa está usando uma camisa listada vermelha e azul quando iluminada por luz solar. Em um ambiente onde todas as lâmpadas emitem luz monocromática azul, sua camisa será vista como",
+   "alternativas": {
+    "a": "inteiramente preta.",
+    "b": "inteiramente azul.",
+    "c": "listada roxa e azul.",
+    "d": "listada vermelha e azul.",
+    "e": "listada preta e azul."
+   },
+   "resposta": "e",
+   "explicacao": "Um corpo tem a cor da luz que REFLETE, e só pode refletir aquilo que recebe. Sob luz monocromática azul, as listras azuis refletem o azul e continuam azuis; as listras vermelhas, que por definição absorvem o azul e refletiriam o vermelho, não recebem vermelho algum — não têm o que refletir e são vistas como pretas. O resultado é uma camisa listada de preto e azul. A alternativa d é a de quem esquece que a cor percebida depende da iluminação.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-159",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Estudos sobre meio ambiente, em especial sobre mudanças climáticas, indicam que se o planeta Terra não tivesse atmosfera, sua temperatura média global seria 33 °C menor do que é hoje, resultado que mostra a importância do efeito estufa para a vida no nosso planeta. No entanto, o aumento da concentração de gases do efeito estufa, como CO₂, CH₄ e O₃, está acarretando o aumento da potência da radiação eletromagnética emitida pela atmosfera e, consequentemente, da temperatura média da superfície da Terra. Esses estudos também mostram que a taxa de absorção e emissão de radiação pela atmosfera varia com a sua frequência.",
+   "enunciado": "A partir dessas informações, pode-se afirmar que os gases do efeito estufa emitem radiação eletromagnética",
+   "alternativas": {
+    "a": "de forma intensa na faixa do infravermelho e a absorvem.",
+    "b": "de forma intensa na faixa do ultravioleta e a absorvem.",
+    "c": "de forma intensa na faixa do visível e a absorvem.",
+    "d": "na faixa do infravermelho, mas não a absorvem.",
+    "e": "na faixa do ultravioleta, mas não a absorvem."
+   },
+   "resposta": "a",
+   "explicacao": "A Terra, aquecida pelo Sol, reemite energia como radiação infravermelha, e é essa faixa que os gases estufa absorvem. Pela lei de Kirchhoff da radiação, um bom absorvedor numa dada frequência é também um bom EMISSOR naquela mesma frequência — daí a atmosfera reemitir infravermelho de volta para a superfície, que é o mecanismo do efeito estufa. As alternativas d e e quebram exatamente essa simetria entre absorver e emitir; ultravioleta e visível são as faixas que atravessam a atmosfera, não as que ela retém.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-160",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Em uma exposição de arte, há um cubo feito com um material transparente sobre o qual incidem luzes coloridas. Há um momento em que um feixe luminoso proveniente de um laser se propaga no ar, incide na face superior horizontal do cubo com ângulo de incidência igual a 60 graus, penetra nele e sofre reflexão total na face vertical do tubo. O mínimo valor possível para o índice de refração do material do cubo é\nDados: índice de refração do ar = 1; cos 60° = 1/2; sen 60° = √3/2; cos 30° = √3/2; sen 30° = 1/2.",
+   "alternativas": {
+    "a": "√5 / 2.",
+    "b": "√6 / 2.",
+    "c": "√7 / 2.",
+    "d": "√8 / 2.",
+    "e": "3 / 2."
+   },
+   "resposta": "c",
+   "explicacao": "Na face superior, a lei de Snell dá 1 · sen 60° = n · sen r, logo sen r = √3/(2n). Como as duas faces são perpendiculares, o ângulo com que o raio bate na face vertical é 90° − r, e a reflexão total exige sen(90° − r) ≥ 1/n, isto é, cos r ≥ 1/n. Elevando ao quadrado e usando sen²r + cos²r = 1: 1 − 3/(4n²) ≥ 1/n², o que leva a n² ≥ 7/4 e n ≥ √7/2. O passo que decide é perceber que o ângulo na segunda face é o COMPLEMENTAR do ângulo refratado.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-161",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Uma lente de óculos tem uma película fina antirreflexo aplicada sobre ela. No caso de incidência perpendicular, a menor espessura que deve ter a película para evitar a reflexão de luz com comprimento de onda igual a 550 nm tem valor igual a\nDados: índice de refração do ar n = 1, da lente n₁ = 1,5, da película n₂ = 1,2.",
+   "alternativas": {
+    "a": "115 nm.",
+    "b": "191 nm.",
+    "c": "132 nm.",
+    "d": "91 nm.",
+    "e": "68 nm."
+   },
+   "resposta": "a",
+   "explicacao": "Os índices crescem na sequência 1 < 1,2 < 1,5, então a luz refletida nas DUAS interfaces sofre a mesma inversão de fase, e essas inversões se cancelam. Resta a diferença de caminho: para interferência destrutiva, 2·n₂·e deve valer meio comprimento de onda, o que dá e = λ/(4n₂) = 550/(4 × 1,2) ≈ 115 nm. Esquecer o índice da película no denominador, usando λ/4 = 137,5 nm, é o deslize mais comum; ignorar que as duas inversões se cancelam leva à condição oposta e a 191 nm.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-162",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "A estação espacial internacional encontra-se em uma órbita baixa, a aproximadamente 300 km da superfície da Terra. A velocidade orbital da estação é, aproximadamente, igual a\nDados: constante universal da gravitação G = 6,7 x 10⁻¹¹ m³ kg⁻¹ s⁻²; massa da Terra = 6 x 10²⁴ kg; raio da Terra = 6400 km.",
+   "alternativas": {
+    "a": "6,1 x 10⁶ km/h.",
+    "b": "1,1 x 10⁵ km/h.",
+    "c": "7,2 x 10⁷ km/h.",
+    "d": "2,8 x 10⁴ km/h.",
+    "e": "5,2 x 10³ km/h."
+   },
+   "resposta": "d",
+   "explicacao": "O raio da órbita se mede do CENTRO da Terra, não da superfície: r = 6400 + 300 = 6700 km = 6,7 × 10⁶ m. Igualando a força gravitacional à resultante centrípeta chega-se a v = √(GM/r) = √(6,7 × 10⁻¹¹ × 6 × 10²⁴ / 6,7 × 10⁶) = √(6 × 10⁷) ≈ 7,7 × 10³ m/s. Convertendo, 7,7 × 3600 ≈ 2,8 × 10⁴ km/h. Usar só os 300 km como raio é o erro que a questão espera, e a conversão de m/s para km/h no fim é onde as ordens de grandeza das outras alternativas nascem.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-163",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Infográfico",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q31.jpg",
+    "descricao": "Infográfico em três etapas sobre a geração do hidrogênio verde. 1: uma turbina eólica alimenta, com o excedente de energia renovável, uma unidade instalada junto ao ponto de geração. 2: dois eletrodos ligados a essa fonte são inseridos num recipiente com água e promovem a eletrólise, com bolhas de O₂ saindo de um eletrodo e de H₂ do outro. 3: o gás gerado é comprimido e armazenado em cilindros sob alta pressão. (Fonte: oglobo.globo.com, acessado em 07/08/2022.)"
+   },
+   "texto_apoio": "Hidrogênio verde promete revolução na energia e atrai investimentos para o Brasil.\nUma revolução verde está cada vez mais próxima de várias cadeias produtivas, atraindo muitos investimentos com a promessa de acelerar a transição energética global. No centro dessa movimentação, está o hidrogênio renovável, nomenclatura atualizada do que é mais conhecido como hidrogênio verde.",
+   "enunciado": "No processo de eletrólise descrito, ocorre:",
+   "alternativas": {
+    "a": "formação de gás hidrogênio no ânodo do sistema.",
+    "b": "oxidação de O⁻² formando O₂.",
+    "c": "quebra das ligações iônicas da molécula da água.",
+    "d": "redução do H₂ pelo O₂ formado.",
+    "e": "formação de 1 mol de gás hidrogênio para cada 2 mol de gás oxigênio."
+   },
+   "resposta": "b",
+   "explicacao": "Na eletrólise da água o oxigênio sai do estado −2 para 0 no O₂, ou seja, PERDE elétrons: é oxidação, e ocorre no ânodo. A alternativa a inverte os eletrodos, porque o hidrogênio se forma no cátodo, onde há redução. A c erra a natureza da ligação: a água é molecular, com ligações covalentes, não iônicas. A e inverte a proporção — a estequiometria 2H₂O → 2H₂ + O₂ dá DOIS mols de hidrogênio para cada um de oxigênio, como o próprio desenho mostra pelo volume das bolhas.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-164",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "História em quadrinhos",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q32.jpg",
+    "descricao": "Três quadrinhos sobre os experimentos de Priestley. No primeiro, ele trata raspas de ferro com um ácido forte e a reação produz um gás, ou \"ar inflamável\", que queima de forma explosiva ao ser aproximado de uma vela. No segundo, ele aquece com lentes um mineral vermelho conhecido como \"calx, ou cinzas de mercúrio\" (atualmente, óxido de mercúrio): gotas de mercúrio metálico condensam-se nas paredes do recipiente enquanto um gás se acumula no interior da garrafa invertida. No terceiro, uma vela sob uma campânula queima com brilho extra quando imersa nesse novo gás. (Adaptado de: Gonick, Larry and Criddle, Craig. Química Geral em Quadrinhos, tradução de Henrique Eisi Toma. São Paulo: Blucher, 2014, 256 p.)"
+   },
+   "enunciado": "Leia os quadrinhos acima. Os gases envolvidos nos dois experimentos são, respectivamente:",
+   "alternativas": {
+    "a": "H₂ e O₂",
+    "b": "H₂ e CO₂",
+    "c": "HCl e O₂",
+    "d": "CO₂ e H₂",
+    "e": "HCl e CO₂"
+   },
+   "resposta": "a",
+   "explicacao": "No primeiro experimento, metal mais ácido forte libera gás hidrogênio — e o \"ar inflamável\" que queima de forma explosiva confirma, pois o H₂ é combustível. No segundo, aquecer óxido de mercúrio o decompõe em mercúrio metálico, que aparece condensado nas paredes, e em gás oxigênio; a vela queimando com brilho extra é o teste clássico do O₂, que é comburente. A distinção que a questão cobra é justamente essa: o primeiro gás QUEIMA, o segundo faz queimar.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-165",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Irène Joliot-Curie recebeu o Nobel de Química em 1953 \"em reconhecimento por sua síntese de novos elementos radioativos\", feita ao bombardear-se alumínio (₁₃Al²⁷) com partícula alfa. Após a remoção da fonte das partículas, observou-se que o alumínio, depois de expelir nêutron, continuava a emitir radiação, as quais foram atribuídas a um isótopo radioativo de fósforo (₁₅P) (isótopo até então desconhecido), não encontrado na natureza. \"O primeiro núcleo atômico criado pelo homem\", como diria Fréderic Joliot.\n(Fonte: adaptado de FARIAS, R.F. Para gostar de ler a História da Química, Volume único. Campinas, SP: Editora Átomo, 2013, p. 211.)",
+   "enunciado": "Segundo as informações do texto, o isótopo do fósforo formado nessa reação apresenta número de massa:",
+   "alternativas": {
+    "a": "29",
+    "b": "30",
+    "c": "31",
+    "d": "32",
+    "e": "33"
+   },
+   "resposta": "b",
+   "explicacao": "É conservação de número de massa, passo a passo. O alumínio-27 absorve a partícula alfa, que tem massa 4, formando um núcleo de massa 27 + 4 = 31. Esse núcleo então expele um nêutron, de massa 1, restando 31 − 1 = 30. A alternativa 31 é a de quem para antes da emissão do nêutron, e é por isso que ela está na lista. Vale conferir também o número atômico: 13 + 2 = 15, que é justamente o fósforo citado.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-166",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Fluxograma",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q34.png",
+    "descricao": "Fluxograma da separação de microplásticos. A amostra é misturada com solução saturada de NaCl e segue para o processo de separação (A), do qual saem dois ramos: um sólido, de um lado, e a solução saturada de NaCl com microplásticos em suspensão, de outro. Essa solução segue para o processo de separação (B), do qual saem a solução saturada de NaCl e, separadamente, os microplásticos."
+   },
+   "enunciado": "Os microplásticos são fragmentos de plásticos encontrados em diversos compartimentos ambientais. Esses materiais podem provocar danos variados em diversos organismos e já foram detectados nas fezes, na placenta, no pulmão e no sangue de seres humanos. Na análise de microplásticos presentes em sedimentos, as amostras são, inicialmente, misturadas com solução saturada de cloreto de sódio, depois de algum tempo, a fase aquosa é separada e, na etapa seguinte, os fragmentos em suspensão são separados, conforme mostra o esquema.\nOs processos de separação (A) e (B) são, respectivamente:",
+   "alternativas": {
+    "a": "tamisação e flotação.",
+    "b": "decantação e destilação.",
+    "c": "destilação e tamisação.",
+    "d": "decantação e filtração.",
+    "e": "filtração e flotação."
+   },
+   "resposta": "d",
+   "explicacao": "A solução saturada de NaCl é densa, então os sedimentos minerais afundam e os microplásticos, menos densos, ficam em suspensão. Deixar o sistema em repouso e retirar a fase aquosa é DECANTAÇÃO, o processo A. Depois, separar fragmentos sólidos que estão suspensos num líquido é FILTRAÇÃO, o processo B. A destilação está errada porque nada aqui é evaporado, e a tamisação, que é peneiração, se aplica a sólidos secos de granulometria diferente, não a uma suspensão.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-167",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Preço do ferro-gusa dispara com guerra\nA guerra entre a Rússia e a Ucrânia continua fazendo estragos na economia mundial, em especial nos setores que possuem commodities, que têm seu preço determinado pela oferta e procura internacional, entre as matérias-primas. A indústria da fundição, por exemplo, que tem enfrentado sucessivos aumentos no preço do ferro-gusa, acaba de receber mais um, agora de 60%, que vem a se somar aos reajustes de 41,6% praticados em janeiro e fevereiro.\n(Bianchetti, M. Diário do Comércio, 26/03/2022.)",
+   "enunciado": "O ferro-gusa é produzido a partir do minério de ferro em alto forno de acordo com a reação:\nFe₂O₃ + 3CO → 2Fe + 3CO₂\nEm um processo semelhante, 32000 kg de óxido de ferro (III) reagiram, e a quantidade máxima de ferro formado nesse processo corresponde, em kg, a:\nDados massas molares (g.mol⁻¹): Fe = 56; O = 16 e C = 12.",
+   "alternativas": {
+    "a": "28000",
+    "b": "22400",
+    "c": "17920",
+    "d": "2800",
+    "e": "2240"
+   },
+   "resposta": "b",
+   "explicacao": "A massa molar do Fe₂O₃ é 2 × 56 + 3 × 16 = 160 g/mol, então 32 000 kg correspondem a 200 kmol do óxido. Pela estequiometria, cada mol de Fe₂O₃ fornece 2 mols de Fe, logo são 400 kmol de ferro, que a 56 kg/kmol dão 22 400 kg. A alternativa 28 000 é a de quem esquece o fator 2 da equação; 17 920 sai de usar a massa do ferro sobre a do óxido sem a proporção molar.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-168",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Recentemente, foi noticiada, nos meios de comunicação, a retirada do mercado de uma determinada marca internacional de sorvetes no sabor baunilha.\n\"O recolhimento dos produtos importados da França ocorre em nível global, devido à presença de 2-cloroetanol (2-CE) no ingrediente utilizado na fabricação do sorvete para conferir o sabor baunilha. O 2-cloroetanol é uma substância que pode estar associada ao óxido de etileno, um pesticida que age na eliminação de microrganismos e que tem uso proibido no Brasil\".\n(Fonte: O Globo 15/07/2022.)",
+   "enunciado": "Sabendo que o óxido de etileno é um éter de fórmula C₂H₄O, as fórmulas do óxido de etileno e do 2-cloroetanol são, respectivamente,",
+   "alternativas": {
+    "a": "H₃C–CHO (etanal) e H₃C–CHCl–OH",
+    "b": "epóxido, um anel de três membros com dois carbonos e um oxigênio (H₂C–CH₂ ligados entre si e ambos ao O), e H₂C(Cl)–O–CH₃",
+    "c": "H₂C=CH–OH e H₂C(Cl)–CH₂(OH)",
+    "d": "H₃C–CHO (etanal) e H₂C(Cl)–O–CH₃",
+    "e": "epóxido, um anel de três membros com dois carbonos e um oxigênio (H₂C–CH₂ ligados entre si e ambos ao O), e H₂C(Cl)–CH₂(OH)"
+   },
+   "resposta": "e",
+   "explicacao": "São duas identificações independentes. O enunciado entrega a primeira: o óxido de etileno é um ÉTER de fórmula C₂H₄O, e a única forma de dois carbonos e um oxigênio fecharem um éter com essa fórmula é o anel de três membros, o epóxido — o etanal tem a mesma fórmula molecular, mas é aldeído, não éter. A segunda vem do nome: 2-cloroetanol é uma cadeia de dois carbonos com o OH no carbono 1 e o cloro no carbono 2, isto é, H₂C(Cl)–CH₂(OH). Só a alternativa e acerta as duas.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-169",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Na segunda metade do século XIX, a indústria química cresceu muito, diversificando a quimioterapia, os fertilizantes e os explosivos. Uma parte cada vez maior do produto bruto de uma nação industrializada tornou-se de natureza química. A tabela a seguir ordena as 10 substâncias mais produzidas pela indústria química no século XX:\n1 Ácido sulfúrico; 2 Nitrogênio; 3 Oxigênio; 4 Etileno; 5 Cal (óxido de cálcio); 6 Amoníaco; 7 Hidróxido de sódio; 8 Cloro; 9 Metil terc-butil éter; 10 Ácido fosfórico.\n(Adaptado de: HOFFMAN, R. O Mesmo e o Não-Mesmo. Campinas, São Paulo, SP: Editora UNESP, 2007, p. 262.)",
+   "enunciado": "Na tabela apresentada, temos:",
+   "alternativas": {
+    "a": "duas substâncias simples.",
+    "b": "quatro substâncias ácidas.",
+    "c": "três substâncias básicas.",
+    "d": "quatro substâncias orgânicas.",
+    "e": "duas substâncias gasosas (a 25 °C e 1 atm)."
+   },
+   "resposta": "c",
+   "explicacao": "As básicas são três: cal, que é óxido de cálcio e forma base ao reagir com água; amoníaco; e hidróxido de sódio. As alternativas erram por contagem. Substâncias simples são TRÊS, não duas — nitrogênio, oxigênio e cloro. Ácidos são apenas dois, o sulfúrico e o fosfórico. Orgânicas são duas, o etileno e o metil terc-butil éter. E gasosas a 25 °C e 1 atm são quatro: nitrogênio, oxigênio, etileno e cloro.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-170",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q38.jpg",
+    "descricao": "Gráfico de rosca da evolução da capacidade instalada por fonte no Brasil em julho de 2022, com total de 179,9 GW. Hidrelétrica 108,9 GW (61,9%); Eólica 21,7 (12,4%); Térmica Gás + GNL 15,3 (8,7%); Biomassa 15 (8,5%); Solar 5 (2,8%); Térmica Óleo e Diesel 4,3 (2,5%); Térmica a Carvão 3 (1,7%); Nuclear 2 (1,1%); Outras 0,6 (0,4%). (Fonte: O Globo 13.7.2022.)"
+   },
+   "enunciado": "A capacidade instalada é uma métrica utilizada para medir o máximo que um setor consegue produzir. O gráfico apresenta a evolução da capacidade instalada no setor de produção de energia no Brasil.\nA reação:\nU + n → Ba + Kr + 3n + energia\nestá associada à seguinte porcentagem de evolução da capacidade instalada por fonte, em julho de 2022, no Brasil:",
+   "alternativas": {
+    "a": "12,4%",
+    "b": "8,7%",
+    "c": "8,5%",
+    "d": "2,5%",
+    "e": "1,1%"
+   },
+   "resposta": "e",
+   "explicacao": "A equação mostra um núcleo pesado de urânio absorvendo um nêutron e se partindo em dois núcleos menores, bário e criptônio, liberando mais nêutrons e energia — é a FISSÃO nuclear, base das usinas nucleares. Basta então localizar \"Nuclear\" no gráfico: 2 GW, ou 1,1% do total. Cada distratora corresponde a outra fonte da rosca — 12,4% é a eólica, 8,7% a térmica a gás, 8,5% a biomassa e 2,5% a térmica a óleo e diesel.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-171",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Podemos dizer que a acidez de um meio expressa a concentração de (H₃O)⁺ ou, simplificadamente, de H⁺ dissolvido. A acidez de águas naturais está relacionada com a dissolução de gás carbônico, aminoácidos, ácidos graxos e processos de mineralização da matéria orgânica. Para determinar a acidez de uma amostra de água, podem ser utilizados instrumentos denominados pH-metros ou indicadores, como a fenolftaleína e o metil orange.\nAs colorações destes indicadores, em diferentes pH, são: fenolftaleína ⇒ pH<8,3 = incolor, pH>8,3 = rosa; metil orange ⇒ pH<4,3 = vermelho, pH>4,3 = amarelo.\nUm estudante analisou as concentrações de H⁺ em amostras de água de dois rios diferentes. No rio I, a concentração encontrada foi de 5x10⁻⁸ mol.L⁻¹ e, no rio II, foi de 5x10⁻⁴ mol.L⁻¹. As colorações destas amostras em presença de fenolftaleína e de metil orange foram, respectivamente:\nDado: log 5 = 0,70.",
+   "alternativas": {
+    "a": "rio I: incolor e vermelha; rio II: rosa e amarela.",
+    "b": "rio I: rosa e vermelha; rio II: incolor e amarela.",
+    "c": "rio I: incolor e amarela; rio II: rosa e vermelha.",
+    "d": "rio I: incolor e amarela; rio II: incolor e vermelha.",
+    "e": "rio I: rosa e vermelha; rio II: rosa e amarela."
+   },
+   "resposta": "d",
+   "explicacao": "Calcula-se cada pH e consulta-se as duas faixas. No rio I, pH = −log(5 × 10⁻⁸) = 8 − 0,70 = 7,3: abaixo de 8,3, a fenolftaleína fica incolor; acima de 4,3, o metil orange fica amarelo. No rio II, pH = 4 − 0,70 = 3,3: continua abaixo de 8,3, então a fenolftaleína segue INCOLOR, e agora abaixo de 4,3, o metil orange fica vermelho. A pegadinha está aí: um rio bem mais ácido não muda a cor da fenolftaleína, e quem espera alguma reação dela nas duas amostras cai nas alternativas com \"rosa\".",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-172",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "lacunas",
+   "visual": {
+    "tipo": "Fórmula estrutural",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q40.png",
+    "descricao": "Fórmula estrutural da tiroxina. Dois anéis aromáticos ligados entre si por um átomo de oxigênio. O anel da esquerda traz um grupo HO e dois átomos de iodo; o da direita, mais dois átomos de iodo. Do anel da direita parte uma cadeia curta que termina num carbono ligado simultaneamente a um grupo H₂N e a um grupo carboxila, COOH."
+   },
+   "enunciado": "Em um mecanismo de regulação da temperatura corporal, a glândula tireoide libera um hormônio chamado tiroxina, que faz o organismo reter calor para enfrentar o frio. A estrutura da tiroxina está representada acima.\nEssa substância apresenta isomeria ______, por apresentar carbono quiral (assimétrico), e contém um grupo que representa a função ______.\nAs lacunas devem ser corretamente preenchidas por:",
+   "alternativas": {
+    "a": "óptica; álcool.",
+    "b": "geométrica; fenol.",
+    "c": "geométrica; amina.",
+    "d": "óptica; amina.",
+    "e": "geométrica; álcool."
+   },
+   "resposta": "d",
+   "explicacao": "A primeira lacuna vem de graça no enunciado: carbono quiral é a definição de isomeria ÓPTICA, e a geométrica exigiria dupla ligação com ligantes distintos em cada carbono, o que não é o caso. Na segunda, o grupo H₂N ligado à cadeia carbônica caracteriza uma AMINA. A alternativa a é a armadilha mais fina: o OH da estrutura está preso diretamente ao anel aromático, o que faz dele um FENOL, e não um álcool — para ser álcool, o OH teria de estar num carbono saturado.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-173",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "O sódio em excesso é um fator de risco para doenças cardiovasculares em seres humanos. A maior parte do sódio ingerido provém do cloreto de sódio adicionado aos alimentos. A OMS (World Health Organization, 2012) recomendou o consumo de 2 gramas de sódio por dia. Para avaliar a ingestão de sódio, foram determinadas as concentrações de cloreto de sódio em amostras de 100 mL de caldo de feijão cozido, consumido por grupos de pessoas em um dia. As quantidades de cloreto de sódio encontradas nas amostras dos grupos foram: grupo A, 0,058 mol/L; grupo B, 0,078; grupo C, 1,08; grupo D, 2,00; grupo E, 8,70.",
+   "enunciado": "A quantidade diária de sódio está abaixo da recomendada pela OMS no(s) grupo(s):\nDados: massas molares Na = 23 g.mol⁻¹; Cl = 35,5 g.mol⁻¹.",
+   "alternativas": {
+    "a": "apenas A.",
+    "b": "apenas A e B.",
+    "c": "apenas A, B e C.",
+    "d": "apenas A, B, C e D.",
+    "e": "A, B, C, D e E."
+   },
+   "resposta": "b",
+   "explicacao": "Em 100 mL, o número de mols é a concentração dividida por dez, e cada mol de NaCl carrega 23 g de sódio. Assim o grupo A ingere 0,0058 × 23 ≈ 0,13 g; o B, ≈ 0,18 g; o C, 0,108 × 23 ≈ 2,48 g; o D, 0,2 × 23 = 4,6 g; e o E, 0,87 × 23 ≈ 20 g. Só A e B ficam abaixo dos 2 g recomendados, e o C já ultrapassa por pouco — é ele que separa a alternativa certa da seguinte. A massa molar do cloro é dada mas não faz falta: o que se pede é o sódio, não o sal.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-174",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Marques e Cavalcanti propuseram a construção de um espectroscópio alternativo para ensinar modelos atômicos. Segundo os dois autores:\n\"Quando o vapor de um gás é excitado, a radiação emitida possui um espectro que contém apenas alguns comprimentos de onda discretos e cada elemento químico exibe um único espectro de linhas; quando uma amostra do mesmo é excitada, as diferenças energéticas entre as órbitas e as emissões observadas são características únicas de cada elemento da tabela periódica\".\n(Marques, A. V. L e Cavalcanti, H. L. B. Quím. Nova Esc. – São Paulo-SP, vol. 44, n 1, p. 4-8, 2022.)",
+   "enunciado": "De acordo com o texto, o modelo atômico envolvido no trabalho é o de:",
+   "alternativas": {
+    "a": "Dalton.",
+    "b": "Thomson.",
+    "c": "Rutherford.",
+    "d": "Rutherford-Bohr.",
+    "e": "Schrödinger."
+   },
+   "resposta": "d",
+   "explicacao": "Duas palavras do texto fecham a questão: espectro DISCRETO e diferenças energéticas entre ÓRBITAS. Foi Bohr quem propôs órbitas de energia definida e explicou o espectro de linhas pelo salto do elétron entre elas, com emissão de um fóton de energia exata — daí o modelo ser chamado Rutherford-Bohr. Dalton via o átomo como esfera maciça e indivisível, Thomson não tinha níveis de energia, o modelo de Rutherford tinha órbitas sem quantização, e Schrödinger substitui órbitas por orbitais, que o texto não menciona.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-175",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "enunciado": "O níquel é um metal resistente a corrosão que possui utilizações variadas. É utilizado para fazer moedas, acabamentos de materiais metálicos presentes em residências e na indústria de cerâmicas. Este metal pode ser produzido a partir do óxido de níquel (II), presente na bunsenita, e monóxido de carbono através da seguinte reação em equilíbrio:\nNiO(s) + CO(g) ⇌ Ni(s) + CO₂(g)\nSobre essa reação, são feitas as afirmações:\nI. O aumento da pressão total do sistema favorece a formação de níquel metálico.\nII. A adição de um catalisador desloca o equilíbrio no sentido da formação de níquel metálico.\nIII. A retirada de gás carbônico do sistema favorece a formação de níquel metálico.\nEstá correto apenas o que se afirma em:",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "I e III.",
+    "e": "II e III."
+   },
+   "resposta": "c",
+   "explicacao": "Pelo princípio de Le Chatelier, retirar um produto desloca o equilíbrio para repô-lo, então tirar CO₂ empurra a reação para a direita e forma mais níquel: III é correta. A I falha porque só os GASES contam para o efeito da pressão, e há um mol de gás de cada lado — CO à esquerda, CO₂ à direita —, de modo que a pressão não desloca nada. A II repete o erro mais comum sobre catalisadores: eles aceleram os dois sentidos igualmente e antecipam o equilíbrio, mas não mudam a posição dele.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-176",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Feromônios são substâncias químicas produzidas e secretadas por organismos, e quando alcançam os órgãos olfativos de outros indivíduos da mesma espécie, desencadeiam uma série de reações. A mosca-doméstica também utiliza feromônios para assegurar sua reprodução. Em geral, uma pequena quantidade de feromônio sexual liberado já é o suficiente para atrair o macho. O feromônio sexual produzido pela mosca-doméstica tem estrutura CH₃–[CH₂]₇–CH=CH–[CH₂]₇–CH₃.\nA partir da análise da estrutura apresentada, é correto afirmar que esse feromônio é",
+   "alternativas": {
+    "a": "um hidrocarboneto saturado de cadeia ramificada, solúvel em água.",
+    "b": "um composto orgânico de alta polaridade e solúvel em água.",
+    "c": "um hidrocarboneto insaturado de cadeia normal e de baixa polaridade.",
+    "d": "um hidrocarboneto ramificado, polar e insolúvel em água.",
+    "e": "um composto orgânico de cadeia aberta, apolar e com alta solubilidade em água."
+   },
+   "resposta": "c",
+   "explicacao": "A estrutura resolve tudo. Só há carbono e hidrogênio, logo é hidrocarboneto. Há uma dupla ligação, logo é INSATURADO — o que elimina a alternativa a. Não há ramificação alguma: a cadeia é normal, e isso derruba a d. E, sendo formada apenas de ligações C–C e C–H, a molécula é apolar, de baixa polaridade e insolúvel em água, o que descarta b e e. A alternativa e chega perto ao dizer apolar, mas então se contradiz ao afirmar alta solubilidade em água.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "id": "dir-ciencias-natureza-177",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "O processo de fermentação alcoólica de açúcares é utilizado para produção de álcool nas usinas de cana-de-açúcar. A etapa final desse processo pode ser simplificadamente descrita na equação:\nC₆H₁₂O₆(s) → 2CH₃CH₂OH(ℓ) + 2CO₂(g)\nUtilizando as equações termoquímicas:\nI) C₆H₁₂O₆(s) + 6O₂(g) → 6CO₂(g) + 6H₂O(ℓ)\nII) CH₃CH₂OH(ℓ) + 3O₂(g) → 2CO₂(g) + 3H₂O(ℓ)\nque liberam, respectivamente, 2808 kJ.mol⁻¹ e 1368 kJ.mol⁻¹, o calor liberado na reação da etapa final apresentada da fermentação, em kJ por mol de açúcar, é:",
+   "alternativas": {
+    "a": "72 kJ.mol⁻¹",
+    "b": "87 kJ.mol⁻¹",
+    "c": "1440 kJ.mol⁻¹",
+    "d": "2772 kJ.mol⁻¹",
+    "e": "4176 kJ.mol⁻¹"
+   },
+   "resposta": "a",
+   "explicacao": "É a lei de Hess. A equação da fermentação se obtém somando a combustão da glicose com o INVERSO de duas vezes a combustão do etanol, de modo que ΔH = (−2808) − 2 × (−1368) = −2808 + 2736 = −72 kJ por mol de açúcar. O fator 2 é o que a questão cobra, porque a fermentação produz dois mols de etanol; quem o esquece chega a 1440. Somar os dois valores em vez de subtrair produz 4176, e por isso essa alternativa está na lista.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
   }
  ]
 }

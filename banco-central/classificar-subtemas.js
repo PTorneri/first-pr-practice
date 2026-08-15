@@ -964,6 +964,45 @@ const REVISADAS = {
   // Morte de Bruno Pereira e Dom Phillips: o tema é violência contra defensor
   // ambiental. Empatava com geopolítica por citar ONU, COP26 e Acordo de Paris.
   "dir-atualidades-meioambiente-103": "atualidades-meioambiente",
+
+  // --- FGV Unificado 2023.1, bloco de Biologia, Física e Química.
+  // O bloco mora em ciencias-natureza.json e é dissolvido nas três frentes por
+  // REDIRECIONA, o que amplia o alcance das regras: uma questão de Biologia
+  // disputa com a tabela inteira de Física e de Química ao mesmo tempo. Daí
+  // vieram os erros de frente, não só de subtema — e são os piores, porque a
+  // questão vai parar no bundle da frente errada. Fotossíntese e curva de
+  // crescimento caíram em óptica por "luminosidade" e "intensidade luminosa";
+  // microplásticos caiu em fisiologia por "placenta, pulmão e sangue"; e
+  // capacidade instalada por fonte caiu em ecologia por "biomassa" e "solar",
+  // quando o que a questão cobra é reconhecer a fissão nuclear.
+  "dir-ciencias-natureza-133": "biologia-fisiologia",
+  "dir-ciencias-natureza-145": "biologia-ecologia",
+  "dir-ciencias-natureza-146": "biologia-citologia",
+  "dir-ciencias-natureza-166": "quimica-solucoes",
+  // A fissão do urânio vai para química nuclear, e não para física moderna, para
+  // ficar junto da questão de Joliot-Curie: as duas são do mesmo bloco de
+  // Química da prova e cobram a mesma conservação de massa e carga no núcleo.
+  // Separá-las mandaria uma para o bundle de Física e a outra para o de Química.
+  "dir-ciencias-natureza-170": "quimica-atomistica-ligacoes",
+  "dir-ciencias-natureza-152": "fisica-energia-trabalho",
+  "dir-ciencias-natureza-174": "quimica-atomistica-ligacoes",
+
+  // Erros de subtema dentro da frente certa. A usina hidrelétrica não é
+  // hidrostática: a água não está parada, o que se calcula é conversão de
+  // energia. O trabalho da força elétrica sobre carga trazida do infinito é
+  // potencial, não energia mecânica. Os quadrinhos de Priestley são duas
+  // reações de oxirredução, e não têm ácido-base no meio.
+  "dir-ciencias-natureza-150": "fisica-energia-trabalho",
+  "dir-ciencias-natureza-157": "fisica-eletromagnetismo",
+  "dir-ciencias-natureza-164": "quimica-eletroquimica",
+  "dir-ciencias-natureza-173": "quimica-solucoes",
+  "dir-ciencias-natureza-175": "quimica-equilibrio-acido-base",
+
+  // Empates decididos por ordem de cadastro, fixados no destino correto.
+  "dir-ciencias-natureza-134": "biologia-fisiologia",
+  "dir-ciencias-natureza-158": "fisica-ondas-optica",
+  "dir-ciencias-natureza-159": "fisica-termologia",
+  "dir-ciencias-natureza-169": "quimica-equilibrio-acido-base",
 };
 
 // ------------------------------------------------------------------- classificação
@@ -1081,13 +1120,22 @@ function main() {
       totalQuestoes++;
       const conta = (r) => { porSubtema[r.subtema] = (porSubtema[r.subtema] || 0) + 1; };
 
-      // 1. decisão humana manda sempre
-      const antes = anterior.mapa && anterior.mapa[q.id];
-      if (antes && antes.revisado) { mapa[q.id] = antes; conta(antes); totalClassificadas++; return; }
+      // 1. decisão humana manda sempre.
+      //
+      // REVISADAS vem ANTES do mapa anterior de propósito. As duas são decisão
+      // humana, mas só REVISADAS é FONTE: mora aqui, é versionada e passa por
+      // revisão. O mapa é artefato, regravado a cada rodada. Enquanto o mapa
+      // vinha primeiro, corrigir uma entrada de REVISADAS não tinha efeito
+      // nenhum sobre uma questão já marcada `revisado` — a correção era
+      // silenciosamente ignorada, e a única saída era editar à mão o JSON
+      // gerado, exatamente o que o CLAUDE.md proíbe. Descoberto ao tentar mover
+      // a questão da fissão nuclear da FGV 2023.1 de física para química.
       if (REVISADAS[q.id]) {
         const r = { subtema: REVISADAS[q.id], frenteDestino: frenteDoSubtema(REVISADAS[q.id]), revisado: true };
         mapa[q.id] = r; conta(r); totalClassificadas++; return;
       }
+      const antes = anterior.mapa && anterior.mapa[q.id];
+      if (antes && antes.revisado) { mapa[q.id] = antes; conta(antes); totalClassificadas++; return; }
       // 2. frenteOrigem que já é subtema
       if (q.frenteOrigem && POR_ORIGEM[q.frenteOrigem]) {
         const r = { subtema: POR_ORIGEM[q.frenteOrigem], frenteDestino: frente, origem: "frenteOrigem" };

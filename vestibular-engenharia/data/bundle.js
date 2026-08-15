@@ -15362,6 +15362,74 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-148",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Esquema",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q16.png",
+    "descricao": "Desenho do termoscópio de Galileu: uma esfera oca de vidro no alto, ligada a um tubo fino vertical cuja extremidade aberta mergulha num recipiente com água colorida. O líquido penetrou no tubo até certa altura, indicada pela coluna colorida. Ao lado, uma nota: o ar no termoscópio deve ser considerado um gás ideal."
+   },
+   "enunciado": "O termoscópio de Galileu, um dos primeiros instrumentos usados para indicar variações de temperatura, é formado por uma esfera oca de vidro ligada a um fino tubo, também de vidro, aberto em sua extremidade. O lado aberto do tubo está mergulhado em um recipiente contendo água com corante e pode-se observar que o líquido penetra no vidro até uma certa altura, como ilustra a figura. O sistema está à temperatura ambiente de 23 °C. Nestas condições, a esfera preenchida com ar é borrifada com álcool e a temperatura do ar dentro do termoscópio",
+   "alternativas": {
+    "a": "aumenta, e a água sobe no tubo.",
+    "b": "aumenta, e a água desce no tubo.",
+    "c": "diminui, e a água desce no tubo.",
+    "d": "diminui, e a água sobe no tubo.",
+    "e": "não varia, e a água permanece na mesma altura."
+   },
+   "resposta": "d",
+   "explicacao": "O álcool evapora rapidamente, e a vaporização é endotérmica: para mudar de estado ele retira calor do vidro e, por consequência, do ar aprisionado dentro da esfera. A temperatura do gás cai. Como o volume da esfera é praticamente fixo, a lei dos gases diz que a pressão interna cai junto, e a pressão atmosférica, agora maior, empurra a água para cima no tubo. O erro comum é imaginar que borrifar um líquido volátil aquece por atrito ou por contato, invertendo o sentido das duas mudanças.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-149",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q17.png",
+    "descricao": "Diagrama pressão versus volume do ciclo de Stirling, com quatro estados numerados. Duas curvas descendentes ligam 3 a 4 e 2 a 1, ambas em forma de hipérbole, que são as isotérmicas. Dois segmentos verticais fecham o ciclo: um sobe de 2 a 3 e outro desce de 4 a 1, ambos a volume constante."
+   },
+   "enunciado": "O motor de Stirling é um motor de combustão externa, cujo ciclo possui o mesmo princípio do ciclo de Carnot. Um esquema do diagrama pressão (P) x volume (V) para o ciclo termodinâmico de Stirling, com gás suposto ideal, está apresentado na figura, sendo as transformações 1→2 e 3→4, isotérmicas.\nConsidere as seguintes afirmações:\nI. Na compressão isotérmica, o gás perde calor.\nII. Na transformação isométrica 2→3, não há realização de trabalho e o gás recebe calor.\nIII. Na expansão isotérmica, o gás realiza trabalho e recebe calor.\nIV. Na transformação isométrica 4→1, o gás realiza trabalho e perde calor.\nEstão corretas apenas as afirmações:",
+   "alternativas": {
+    "a": "II e III.",
+    "b": "I e IV.",
+    "c": "I, III e IV.",
+    "d": "I, II e III.",
+    "e": "I, III."
+   },
+   "resposta": "d",
+   "explicacao": "Numa isotérmica de gás ideal a energia interna não muda, então o calor trocado iguala o trabalho: comprimindo, o gás recebe trabalho e perde calor (I correta); expandindo, realiza trabalho e recebe calor (III correta). Numa isométrica o volume é constante, logo o trabalho é nulo — e é justamente aí que IV erra, ao afirmar que o gás realiza trabalho em 4→1. A II está certa: sem trabalho, todo o calor recebido em 2→3 vai para a energia interna, e a pressão sobe.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "dir-ciencias-natureza-159",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Estudos sobre meio ambiente, em especial sobre mudanças climáticas, indicam que se o planeta Terra não tivesse atmosfera, sua temperatura média global seria 33 °C menor do que é hoje, resultado que mostra a importância do efeito estufa para a vida no nosso planeta. No entanto, o aumento da concentração de gases do efeito estufa, como CO₂, CH₄ e O₃, está acarretando o aumento da potência da radiação eletromagnética emitida pela atmosfera e, consequentemente, da temperatura média da superfície da Terra. Esses estudos também mostram que a taxa de absorção e emissão de radiação pela atmosfera varia com a sua frequência.",
+   "enunciado": "A partir dessas informações, pode-se afirmar que os gases do efeito estufa emitem radiação eletromagnética",
+   "alternativas": {
+    "a": "de forma intensa na faixa do infravermelho e a absorvem.",
+    "b": "de forma intensa na faixa do ultravioleta e a absorvem.",
+    "c": "de forma intensa na faixa do visível e a absorvem.",
+    "d": "na faixa do infravermelho, mas não a absorvem.",
+    "e": "na faixa do ultravioleta, mas não a absorvem."
+   },
+   "resposta": "a",
+   "explicacao": "A Terra, aquecida pelo Sol, reemite energia como radiação infravermelha, e é essa faixa que os gases estufa absorvem. Pela lei de Kirchhoff da radiação, um bom absorvedor numa dada frequência é também um bom EMISSOR naquela mesma frequência — daí a atmosfera reemitir infravermelho de volta para a superfície, que é o mecanismo do efeito estufa. As alternativas d e e quebram exatamente essa simetria entre absorver e emitir; ultravioleta e visível são as faixas que atravessam a atmosfera, não as que ela retém.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-termologia",
    "id": "med-fisica-11",
    "texto_apoio": "Uma barra metálica de 2,0 m de comprimento a 20 °C é aquecida até 120 °C. O coeficiente de dilatação linear do material é 2,0 × 10⁻⁵ °C⁻¹.",
    "enunciado": "A variação no comprimento da barra é de:",
@@ -16328,6 +16396,44 @@ window.QUESTION_BANKS = {
    "dificuldade": "dificil",
    "formato": "direta",
    "origem": "direito"
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "dir-ciencias-natureza-153",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Dois carros de massas iguais e velocidades constantes de mesmos módulos v trafegam em ruas planas e perpendiculares entre si. Ao chegarem em uma esquina, colidem e, presos um ao outro, com suas rodas travadas, percorrem 12 m de distância. A velocidade v dos carros, ao colidirem, é igual a\nDados: aceleração local da gravidade = 10 m/s²; coeficiente de atrito entre os carros após a batida e o solo = 0,3.",
+   "alternativas": {
+    "a": "3 km/h.",
+    "b": "24 km/h.",
+    "c": "43,2 km/h.",
+    "d": "6 km/h.",
+    "e": "21,6 km/h."
+   },
+   "resposta": "c",
+   "explicacao": "A questão encadeia dois princípios. Primeiro, a frenagem: o atrito dissipa toda a energia cinética do conjunto, então a velocidade logo após a batida sai de v'² = 2·μ·g·d = 2 × 0,3 × 10 × 12 = 72, ou seja, v' = 6√2 m/s. Segundo, a colisão: como as trajetórias são perpendiculares, os momentos se somam VETORIALMENTE, e o módulo resultante é mv√2, distribuído sobre a massa 2m — logo v' = v√2/2. Igualando, v = 12 m/s = 43,2 km/h. Somar os momentos como escalares é o erro que a questão cobra.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "dir-ciencias-natureza-162",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "A estação espacial internacional encontra-se em uma órbita baixa, a aproximadamente 300 km da superfície da Terra. A velocidade orbital da estação é, aproximadamente, igual a\nDados: constante universal da gravitação G = 6,7 x 10⁻¹¹ m³ kg⁻¹ s⁻²; massa da Terra = 6 x 10²⁴ kg; raio da Terra = 6400 km.",
+   "alternativas": {
+    "a": "6,1 x 10⁶ km/h.",
+    "b": "1,1 x 10⁵ km/h.",
+    "c": "7,2 x 10⁷ km/h.",
+    "d": "2,8 x 10⁴ km/h.",
+    "e": "5,2 x 10³ km/h."
+   },
+   "resposta": "d",
+   "explicacao": "O raio da órbita se mede do CENTRO da Terra, não da superfície: r = 6400 + 300 = 6700 km = 6,7 × 10⁶ m. Igualando a força gravitacional à resultante centrípeta chega-se a v = √(GM/r) = √(6,7 × 10⁻¹¹ × 6 × 10²⁴ / 6,7 × 10⁶) = √(6 × 10⁷) ≈ 7,7 × 10³ m/s. Convertendo, 7,7 × 3600 ≈ 2,8 × 10⁴ km/h. Usar só os 300 km como raio é o erro que a questão espera, e a conversão de m/s para km/h no fim é onde as ordens de grandeza das outras alternativas nascem.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
   },
   {
    "subtema": "fisica-mecanica",
@@ -18444,6 +18550,82 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-ondas-optica",
+   "id": "dir-ciencias-natureza-155",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Estudantes interessados em determinar a frequência de um forno de micro-ondas colocaram barras de chocolate em seu interior e as aqueceram, com o prato parado. Notaram que havia pequenas regiões com o chocolate muito derretido distantes 6 cm umas das outras. Conclui-se que a frequência do forno é aproximadamente igual a\nDado: velocidade da luz no ar = 3 x 10⁸ m/s.",
+   "alternativas": {
+    "a": "5000 MHz.",
+    "b": "2500 MHz.",
+    "c": "1250 MHz.",
+    "d": "0,4 kHz.",
+    "e": "0,8 kHz."
+   },
+   "resposta": "b",
+   "explicacao": "Com o prato parado forma-se uma onda estacionária dentro do forno, e o chocolate derrete nos ventres, onde a amplitude é máxima. A distância entre ventres consecutivos é MEIO comprimento de onda, então 6 cm correspondem a λ/2 e λ = 0,12 m. Da relação c = λ·f vem f = 3 × 10⁸ / 0,12 = 2,5 × 10⁹ Hz, ou 2500 MHz — que é de fato a faixa em que operam os fornos domésticos. Quem toma os 6 cm como o comprimento de onda inteiro chega a 5000 MHz.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "dir-ciencias-natureza-158",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Uma pessoa está usando uma camisa listada vermelha e azul quando iluminada por luz solar. Em um ambiente onde todas as lâmpadas emitem luz monocromática azul, sua camisa será vista como",
+   "alternativas": {
+    "a": "inteiramente preta.",
+    "b": "inteiramente azul.",
+    "c": "listada roxa e azul.",
+    "d": "listada vermelha e azul.",
+    "e": "listada preta e azul."
+   },
+   "resposta": "e",
+   "explicacao": "Um corpo tem a cor da luz que REFLETE, e só pode refletir aquilo que recebe. Sob luz monocromática azul, as listras azuis refletem o azul e continuam azuis; as listras vermelhas, que por definição absorvem o azul e refletiriam o vermelho, não recebem vermelho algum — não têm o que refletir e são vistas como pretas. O resultado é uma camisa listada de preto e azul. A alternativa d é a de quem esquece que a cor percebida depende da iluminação.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "dir-ciencias-natureza-160",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Em uma exposição de arte, há um cubo feito com um material transparente sobre o qual incidem luzes coloridas. Há um momento em que um feixe luminoso proveniente de um laser se propaga no ar, incide na face superior horizontal do cubo com ângulo de incidência igual a 60 graus, penetra nele e sofre reflexão total na face vertical do tubo. O mínimo valor possível para o índice de refração do material do cubo é\nDados: índice de refração do ar = 1; cos 60° = 1/2; sen 60° = √3/2; cos 30° = √3/2; sen 30° = 1/2.",
+   "alternativas": {
+    "a": "√5 / 2.",
+    "b": "√6 / 2.",
+    "c": "√7 / 2.",
+    "d": "√8 / 2.",
+    "e": "3 / 2."
+   },
+   "resposta": "c",
+   "explicacao": "Na face superior, a lei de Snell dá 1 · sen 60° = n · sen r, logo sen r = √3/(2n). Como as duas faces são perpendiculares, o ângulo com que o raio bate na face vertical é 90° − r, e a reflexão total exige sen(90° − r) ≥ 1/n, isto é, cos r ≥ 1/n. Elevando ao quadrado e usando sen²r + cos²r = 1: 1 − 3/(4n²) ≥ 1/n², o que leva a n² ≥ 7/4 e n ≥ √7/2. O passo que decide é perceber que o ângulo na segunda face é o COMPLEMENTAR do ângulo refratado.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "dir-ciencias-natureza-161",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Uma lente de óculos tem uma película fina antirreflexo aplicada sobre ela. No caso de incidência perpendicular, a menor espessura que deve ter a película para evitar a reflexão de luz com comprimento de onda igual a 550 nm tem valor igual a\nDados: índice de refração do ar n = 1, da lente n₁ = 1,5, da película n₂ = 1,2.",
+   "alternativas": {
+    "a": "115 nm.",
+    "b": "191 nm.",
+    "c": "132 nm.",
+    "d": "91 nm.",
+    "e": "68 nm."
+   },
+   "resposta": "a",
+   "explicacao": "Os índices crescem na sequência 1 < 1,2 < 1,5, então a luz refletida nas DUAS interfaces sofre a mesma inversão de fase, e essas inversões se cancelam. Resta a diferença de caminho: para interferência destrutiva, 2·n₂·e deve valer meio comprimento de onda, o que dá e = λ/(4n₂) = 550/(4 × 1,2) ≈ 115 nm. Esquecer o índice da película no denominador, usando λ/4 = 137,5 nm, é o deslize mais comum; ignorar que as duas inversões se cancelam leva à condição oposta e a 191 nm.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-ondas-optica",
    "id": "med-fisica-01",
    "textoId": "med-med-fis-t1",
    "enunciado": "Segundo o texto, a formação da imagem no exame de raio X depende principalmente:",
@@ -19818,6 +20000,63 @@ window.QUESTION_BANKS = {
    "dificuldade": "media",
    "formato": "direta",
    "origem": "direito"
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "dir-ciencias-natureza-151",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Durante a reforma de um apartamento, um motor de corrente contínua ligado a uma bateria de 24 V está sendo usado para elevar, verticalmente, material de construção à velocidade constante de 0,4 m/s. Durante o transporte de uma massa de 36 kg, a corrente no motor, de rendimento 80%, é\nDado: aceleração local da gravidade = 10 m/s².",
+   "alternativas": {
+    "a": "3,0 A.",
+    "b": "6,0 A.",
+    "c": "7,5 A.",
+    "d": "4,8 A.",
+    "e": "2,4 A."
+   },
+   "resposta": "c",
+   "explicacao": "Como a subida é a velocidade constante, a força do motor iguala o peso, e a potência útil é o peso vezes a velocidade: 36 × 10 × 0,4 = 144 W. Essa é a potência que SAI; a que entra é maior, porque o rendimento é 80%: 144 / 0,8 = 180 W. Da potência elétrica P = U·i vem i = 180 / 24 = 7,5 A. Quem multiplica pelo rendimento em vez de dividir chega a 4,8 A, que está entre as alternativas exatamente por isso.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "dir-ciencias-natureza-154",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "No interior de uma câmara em vácuo, há um campo elétrico E uniforme e um campo magnético B = B k̂, sendo B uma constante positiva. Partículas de carga −q, sendo q > 0, penetram na câmara e caminham em linha reta com velocidade constante v = v ĵ. Nestas condições,\nDados: î, ĵ e k̂ são, respectivamente, os versores nas direções e sentidos dos eixos x, y e z.",
+   "alternativas": {
+    "a": "E = +v B î.",
+    "b": "E = −v B î.",
+    "c": "E = −B k̂.",
+    "d": "E = +B k̂.",
+    "e": "E = −v B ĵ."
+   },
+   "resposta": "b",
+   "explicacao": "Velocidade constante em linha reta significa força resultante nula, ou seja, a força elétrica anula a magnética. Como as duas atuam sobre a MESMA carga −q, ela se cancela na equação e sobra E = −(v × B). Com v = v ĵ e B = B k̂, o produto vetorial ĵ × k̂ = î dá v × B = vB î, e portanto E = −vB î. O sinal negativo da carga é a armadilha: quem tenta acompanhá-lo passo a passo costuma trocar o sinal duas vezes e chega à alternativa a.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "dir-ciencias-natureza-157",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Duas cargas puntiformes q e −q, localizadas no plano xy, estão respectivamente, nos pontos de coordenadas (x = −a, y = 0) e (x = +a, y = 0), no vácuo. O trabalho realizado pela força elétrica resultante sobre uma carga Q para trazê-la do infinito até o ponto (x = 0, y = d) é\nDado: a constante ε₀ é a permissividade elétrica do vácuo.",
+   "alternativas": {
+    "a": "nulo.",
+    "b": "qQ / (4πε₀√(d²+a²)).",
+    "c": "2qQ / (4πε₀√(d²+a²)).",
+    "d": "qQ / (4πε₀d).",
+    "e": "2qQ / (4πε₀d)."
+   },
+   "resposta": "a",
+   "explicacao": "O ponto (0, d) fica sobre a mediatriz do segmento que liga as duas cargas, logo equidista de ambas. Como elas têm cargas de mesmo módulo e sinais opostos, os potenciais que criam nesse ponto se cancelam exatamente, e o potencial resultante é zero. O trabalho da força elétrica para trazer Q do infinito, onde o potencial também é zero, até um ponto de potencial zero é portanto nulo. Note que a FORÇA sobre Q ali não é nula — é o TRABALHO que é, e confundir as duas coisas é o que leva às demais alternativas.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
   },
   {
    "subtema": "fisica-eletromagnetismo",
@@ -22053,6 +22292,44 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-energia-trabalho",
+   "id": "dir-ciencias-natureza-150",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Em uma fazenda, há uma pequena usina hidrelétrica que gera energia suficiente para o consumo local. A cachoeira da usina tem 10 m de altura medida a partir da turbina e vazão média de 2 m³/s de água. Considerando que o rendimento na geração de energia é de 60%, a usina, em 30 dias, produz, aproximadamente,\nDados: densidade da água = 10³ kg/m³; aceleração da gravidade local = 10 m/s².",
+   "alternativas": {
+    "a": "3,6 x 10³ kWh.",
+    "b": "5,8 x 10⁴ kWh.",
+    "c": "4,3 x 10⁵ kWh.",
+    "d": "3,1 x 10⁸ kWh.",
+    "e": "8,6 x 10⁴ kWh."
+   },
+   "resposta": "e",
+   "explicacao": "A potência bruta é o peso de água que cai por segundo vezes a altura: densidade × vazão × g × h = 1000 × 2 × 10 × 10 = 200 000 W. Com 60% de rendimento sobram 120 000 W, ou 120 kW. Em 30 dias há 720 horas, logo a energia é 120 × 720 = 86 400 kWh, isto é, 8,64 × 10⁴ kWh. O erro mais frequente é esquecer de converter os 30 dias em horas, ou aplicar o rendimento sobre a energia final e sobre a potência duas vezes.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "dir-ciencias-natureza-152",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Em um carro elétrico, 1 litro de bateria fornece 430 Wh de energia para as rodas, enquanto, em motores a combustão, 1 litro de gasolina e 1 litro de etanol disponibilizam para as rodas, respectivamente, 1420 Wh e 1000 Wh. Se reservatórios de 50 litros de gasolina e de álcool forem substituídos por baterias que forneçam a mesma energia desses combustíveis, elas devem ter volumes, em litros, respectivamente, próximos de",
+   "alternativas": {
+    "a": "142 e 100.",
+    "b": "330 e 232.",
+    "c": "50 e 50.",
+    "d": "82 e 58.",
+    "e": "165 e 116."
+   },
+   "resposta": "e",
+   "explicacao": "Basta igualar a energia total e dividir pela densidade energética da bateria. A gasolina entrega 50 × 1420 = 71 000 Wh, o que exige 71 000 / 430 ≈ 165 litros de bateria. O etanol entrega 50 × 1000 = 50 000 Wh, exigindo 50 000 / 430 ≈ 116 litros. A alternativa a é a de quem esquece de dividir pelos 430 e apenas escala pelos 50 litros; o resultado, aliás, é o recado da questão: bateria ocupa três vezes mais espaço para a mesma energia.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
    "id": "med-fisica-04",
    "textoId": "med-med-fis-t2",
    "enunciado": "De acordo com o texto, o cinto de segurança protege o ocupante porque:",
@@ -23169,6 +23446,25 @@ window.QUESTION_BANKS = {
  "fisica-moderna": [
   {
    "subtema": "fisica-moderna",
+   "id": "dir-ciencias-natureza-156",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Um bastão isolante eletrizado é aproximado de um condutor metálico neutro e isolado, sem tocá-lo. A seguir, são feitos os seguintes procedimentos: 1º com o bastão ainda próximo, o condutor é aterrado; 2º desfaz-se o aterramento; 3º o bastão é afastado do condutor.\nDepois desses procedimentos, verifica-se que o condutor está eletrizado e que, a seguir, ao ser iluminado com luz ultravioleta, ele se descarrega.\nO experimento permite concluir corretamente que o bastão eletrizado estava carregado",
+   "alternativas": {
+    "a": "positivamente e o condutor, logo antes de ser iluminado, também estava carregado positivamente.",
+    "b": "positivamente e o condutor, logo antes de ser iluminado, estava carregado negativamente.",
+    "c": "negativamente e o condutor, logo antes de ser iluminado, também estava carregado negativamente.",
+    "d": "negativamente e o condutor, logo antes de ser iluminado, estava carregado positivamente.",
+    "e": "negativamente e o condutor, logo antes de ser iluminado, estava polarizado com um lado negativo e outro positivo."
+   },
+   "resposta": "b",
+   "explicacao": "A chave está na descarga por luz ultravioleta, que é o efeito fotoelétrico: a luz ARRANCA elétrons do metal. Um corpo só se descarrega perdendo elétrons se estiver com elétrons em excesso, ou seja, negativo — logo o condutor estava negativo. E a eletrização por indução com aterramento sempre deixa o condutor com carga de sinal OPOSTO ao do indutor, de modo que o bastão era positivo. Encadear os dois passos nessa ordem, da descarga para o bastão, é o caminho mais curto.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "fisica-moderna",
    "id": "med-fisica-76",
    "texto_apoio": "Segundo a teoria da relatividade restrita, o intervalo de tempo medido entre dois eventos depende do estado de movimento do observador. Relógios atômicos embarcados em satélites do sistema de posicionamento global precisam de correção diária.",
    "enunciado": "A necessidade dessa correção mostra que efeitos relativísticos:",
@@ -23724,6 +24020,55 @@ window.QUESTION_BANKS = {
    "explicacao": "O estanho tem potencial de redução maior que o do ferro, então não se oxida no lugar dele: se o recobrimento é riscado, o ferro corrói. O zinco, com potencial menor, oxida-se preferencialmente e protege mesmo com a barreira rompida. Três opções acertam \"estanho\" na primeira lacuna e erram na segunda.",
    "formato": "lacunas",
    "origem": "direito"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "dir-ciencias-natureza-163",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Infográfico",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q31.jpg",
+    "descricao": "Infográfico em três etapas sobre a geração do hidrogênio verde. 1: uma turbina eólica alimenta, com o excedente de energia renovável, uma unidade instalada junto ao ponto de geração. 2: dois eletrodos ligados a essa fonte são inseridos num recipiente com água e promovem a eletrólise, com bolhas de O₂ saindo de um eletrodo e de H₂ do outro. 3: o gás gerado é comprimido e armazenado em cilindros sob alta pressão. (Fonte: oglobo.globo.com, acessado em 07/08/2022.)"
+   },
+   "texto_apoio": "Hidrogênio verde promete revolução na energia e atrai investimentos para o Brasil.\nUma revolução verde está cada vez mais próxima de várias cadeias produtivas, atraindo muitos investimentos com a promessa de acelerar a transição energética global. No centro dessa movimentação, está o hidrogênio renovável, nomenclatura atualizada do que é mais conhecido como hidrogênio verde.",
+   "enunciado": "No processo de eletrólise descrito, ocorre:",
+   "alternativas": {
+    "a": "formação de gás hidrogênio no ânodo do sistema.",
+    "b": "oxidação de O⁻² formando O₂.",
+    "c": "quebra das ligações iônicas da molécula da água.",
+    "d": "redução do H₂ pelo O₂ formado.",
+    "e": "formação de 1 mol de gás hidrogênio para cada 2 mol de gás oxigênio."
+   },
+   "resposta": "b",
+   "explicacao": "Na eletrólise da água o oxigênio sai do estado −2 para 0 no O₂, ou seja, PERDE elétrons: é oxidação, e ocorre no ânodo. A alternativa a inverte os eletrodos, porque o hidrogênio se forma no cátodo, onde há redução. A c erra a natureza da ligação: a água é molecular, com ligações covalentes, não iônicas. A e inverte a proporção — a estequiometria 2H₂O → 2H₂ + O₂ dá DOIS mols de hidrogênio para cada um de oxigênio, como o próprio desenho mostra pelo volume das bolhas.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "dir-ciencias-natureza-164",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "História em quadrinhos",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q32.jpg",
+    "descricao": "Três quadrinhos sobre os experimentos de Priestley. No primeiro, ele trata raspas de ferro com um ácido forte e a reação produz um gás, ou \"ar inflamável\", que queima de forma explosiva ao ser aproximado de uma vela. No segundo, ele aquece com lentes um mineral vermelho conhecido como \"calx, ou cinzas de mercúrio\" (atualmente, óxido de mercúrio): gotas de mercúrio metálico condensam-se nas paredes do recipiente enquanto um gás se acumula no interior da garrafa invertida. No terceiro, uma vela sob uma campânula queima com brilho extra quando imersa nesse novo gás. (Adaptado de: Gonick, Larry and Criddle, Craig. Química Geral em Quadrinhos, tradução de Henrique Eisi Toma. São Paulo: Blucher, 2014, 256 p.)"
+   },
+   "enunciado": "Leia os quadrinhos acima. Os gases envolvidos nos dois experimentos são, respectivamente:",
+   "alternativas": {
+    "a": "H₂ e O₂",
+    "b": "H₂ e CO₂",
+    "c": "HCl e O₂",
+    "d": "CO₂ e H₂",
+    "e": "HCl e CO₂"
+   },
+   "resposta": "a",
+   "explicacao": "No primeiro experimento, metal mais ácido forte libera gás hidrogênio — e o \"ar inflamável\" que queima de forma explosiva confirma, pois o H₂ é combustível. No segundo, aquecer óxido de mercúrio o decompõe em mercúrio metálico, que aparece condensado nas paredes, e em gás oxigênio; a vela queimando com brilho extra é o teste clássico do O₂, que é comburente. A distinção que a questão cobra é justamente essa: o primeiro gás QUEIMA, o segundo faz queimar.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
   },
   {
    "subtema": "quimica-eletroquimica",
@@ -24992,6 +25337,70 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "quimica-atomistica-ligacoes",
+   "id": "dir-ciencias-natureza-165",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Irène Joliot-Curie recebeu o Nobel de Química em 1953 \"em reconhecimento por sua síntese de novos elementos radioativos\", feita ao bombardear-se alumínio (₁₃Al²⁷) com partícula alfa. Após a remoção da fonte das partículas, observou-se que o alumínio, depois de expelir nêutron, continuava a emitir radiação, as quais foram atribuídas a um isótopo radioativo de fósforo (₁₅P) (isótopo até então desconhecido), não encontrado na natureza. \"O primeiro núcleo atômico criado pelo homem\", como diria Fréderic Joliot.\n(Fonte: adaptado de FARIAS, R.F. Para gostar de ler a História da Química, Volume único. Campinas, SP: Editora Átomo, 2013, p. 211.)",
+   "enunciado": "Segundo as informações do texto, o isótopo do fósforo formado nessa reação apresenta número de massa:",
+   "alternativas": {
+    "a": "29",
+    "b": "30",
+    "c": "31",
+    "d": "32",
+    "e": "33"
+   },
+   "resposta": "b",
+   "explicacao": "É conservação de número de massa, passo a passo. O alumínio-27 absorve a partícula alfa, que tem massa 4, formando um núcleo de massa 27 + 4 = 31. Esse núcleo então expele um nêutron, de massa 1, restando 31 − 1 = 30. A alternativa 31 é a de quem para antes da emissão do nêutron, e é por isso que ela está na lista. Vale conferir também o número atômico: 13 + 2 = 15, que é justamente o fósforo citado.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "dir-ciencias-natureza-170",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q38.jpg",
+    "descricao": "Gráfico de rosca da evolução da capacidade instalada por fonte no Brasil em julho de 2022, com total de 179,9 GW. Hidrelétrica 108,9 GW (61,9%); Eólica 21,7 (12,4%); Térmica Gás + GNL 15,3 (8,7%); Biomassa 15 (8,5%); Solar 5 (2,8%); Térmica Óleo e Diesel 4,3 (2,5%); Térmica a Carvão 3 (1,7%); Nuclear 2 (1,1%); Outras 0,6 (0,4%). (Fonte: O Globo 13.7.2022.)"
+   },
+   "enunciado": "A capacidade instalada é uma métrica utilizada para medir o máximo que um setor consegue produzir. O gráfico apresenta a evolução da capacidade instalada no setor de produção de energia no Brasil.\nA reação:\nU + n → Ba + Kr + 3n + energia\nestá associada à seguinte porcentagem de evolução da capacidade instalada por fonte, em julho de 2022, no Brasil:",
+   "alternativas": {
+    "a": "12,4%",
+    "b": "8,7%",
+    "c": "8,5%",
+    "d": "2,5%",
+    "e": "1,1%"
+   },
+   "resposta": "e",
+   "explicacao": "A equação mostra um núcleo pesado de urânio absorvendo um nêutron e se partindo em dois núcleos menores, bário e criptônio, liberando mais nêutrons e energia — é a FISSÃO nuclear, base das usinas nucleares. Basta então localizar \"Nuclear\" no gráfico: 2 GW, ou 1,1% do total. Cada distratora corresponde a outra fonte da rosca — 12,4% é a eólica, 8,7% a térmica a gás, 8,5% a biomassa e 2,5% a térmica a óleo e diesel.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "dir-ciencias-natureza-174",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Marques e Cavalcanti propuseram a construção de um espectroscópio alternativo para ensinar modelos atômicos. Segundo os dois autores:\n\"Quando o vapor de um gás é excitado, a radiação emitida possui um espectro que contém apenas alguns comprimentos de onda discretos e cada elemento químico exibe um único espectro de linhas; quando uma amostra do mesmo é excitada, as diferenças energéticas entre as órbitas e as emissões observadas são características únicas de cada elemento da tabela periódica\".\n(Marques, A. V. L e Cavalcanti, H. L. B. Quím. Nova Esc. – São Paulo-SP, vol. 44, n 1, p. 4-8, 2022.)",
+   "enunciado": "De acordo com o texto, o modelo atômico envolvido no trabalho é o de:",
+   "alternativas": {
+    "a": "Dalton.",
+    "b": "Thomson.",
+    "c": "Rutherford.",
+    "d": "Rutherford-Bohr.",
+    "e": "Schrödinger."
+   },
+   "resposta": "d",
+   "explicacao": "Duas palavras do texto fecham a questão: espectro DISCRETO e diferenças energéticas entre ÓRBITAS. Foi Bohr quem propôs órbitas de energia definida e explicou o espectro de linhas pelo salto do elétron entre elas, com emissão de um fóton de energia exata — daí o modelo ser chamado Rutherford-Bohr. Dalton via o átomo como esfera maciça e indivisível, Thomson não tinha níveis de energia, o modelo de Rutherford tinha órbitas sem quantização, e Schrödinger substitui órbitas por orbitais, que o texto não menciona.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
    "id": "med-quimica-10",
    "texto_apoio": "Uma tabela apresenta as temperaturas de fusão e de ebulição de quatro substâncias a 1 atm: substância I, fusão −114 °C e ebulição 78 °C; substância II, fusão 801 °C e ebulição 1413 °C; substância III, fusão −218 °C e ebulição −183 °C; substância IV, fusão 1535 °C e ebulição 2750 °C.",
    "enunciado": "Considerando a temperatura ambiente de 25 °C, os estados físicos das substâncias I, II, III e IV são, respectivamente:",
@@ -26032,6 +26441,64 @@ window.QUESTION_BANKS = {
    "explicacao": "O controle da ventilação é regido principalmente pelo CO2, e não pelo O2: a elevação do gás carbônico acidifica o líquido cefalorraquidiano e os quimiorreceptores centrais disparam. É por isso que hiperventilar antes de mergulhar é perigoso — reduz o CO2, adia o estímulo, e a pessoa pode desmaiar por falta de oxigênio sem sentir vontade de respirar.",
    "formato": "direta",
    "origem": "direito"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "dir-ciencias-natureza-169",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Na segunda metade do século XIX, a indústria química cresceu muito, diversificando a quimioterapia, os fertilizantes e os explosivos. Uma parte cada vez maior do produto bruto de uma nação industrializada tornou-se de natureza química. A tabela a seguir ordena as 10 substâncias mais produzidas pela indústria química no século XX:\n1 Ácido sulfúrico; 2 Nitrogênio; 3 Oxigênio; 4 Etileno; 5 Cal (óxido de cálcio); 6 Amoníaco; 7 Hidróxido de sódio; 8 Cloro; 9 Metil terc-butil éter; 10 Ácido fosfórico.\n(Adaptado de: HOFFMAN, R. O Mesmo e o Não-Mesmo. Campinas, São Paulo, SP: Editora UNESP, 2007, p. 262.)",
+   "enunciado": "Na tabela apresentada, temos:",
+   "alternativas": {
+    "a": "duas substâncias simples.",
+    "b": "quatro substâncias ácidas.",
+    "c": "três substâncias básicas.",
+    "d": "quatro substâncias orgânicas.",
+    "e": "duas substâncias gasosas (a 25 °C e 1 atm)."
+   },
+   "resposta": "c",
+   "explicacao": "As básicas são três: cal, que é óxido de cálcio e forma base ao reagir com água; amoníaco; e hidróxido de sódio. As alternativas erram por contagem. Substâncias simples são TRÊS, não duas — nitrogênio, oxigênio e cloro. Ácidos são apenas dois, o sulfúrico e o fosfórico. Orgânicas são duas, o etileno e o metil terc-butil éter. E gasosas a 25 °C e 1 atm são quatro: nitrogênio, oxigênio, etileno e cloro.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "dir-ciencias-natureza-171",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Podemos dizer que a acidez de um meio expressa a concentração de (H₃O)⁺ ou, simplificadamente, de H⁺ dissolvido. A acidez de águas naturais está relacionada com a dissolução de gás carbônico, aminoácidos, ácidos graxos e processos de mineralização da matéria orgânica. Para determinar a acidez de uma amostra de água, podem ser utilizados instrumentos denominados pH-metros ou indicadores, como a fenolftaleína e o metil orange.\nAs colorações destes indicadores, em diferentes pH, são: fenolftaleína ⇒ pH<8,3 = incolor, pH>8,3 = rosa; metil orange ⇒ pH<4,3 = vermelho, pH>4,3 = amarelo.\nUm estudante analisou as concentrações de H⁺ em amostras de água de dois rios diferentes. No rio I, a concentração encontrada foi de 5x10⁻⁸ mol.L⁻¹ e, no rio II, foi de 5x10⁻⁴ mol.L⁻¹. As colorações destas amostras em presença de fenolftaleína e de metil orange foram, respectivamente:\nDado: log 5 = 0,70.",
+   "alternativas": {
+    "a": "rio I: incolor e vermelha; rio II: rosa e amarela.",
+    "b": "rio I: rosa e vermelha; rio II: incolor e amarela.",
+    "c": "rio I: incolor e amarela; rio II: rosa e vermelha.",
+    "d": "rio I: incolor e amarela; rio II: incolor e vermelha.",
+    "e": "rio I: rosa e vermelha; rio II: rosa e amarela."
+   },
+   "resposta": "d",
+   "explicacao": "Calcula-se cada pH e consulta-se as duas faixas. No rio I, pH = −log(5 × 10⁻⁸) = 8 − 0,70 = 7,3: abaixo de 8,3, a fenolftaleína fica incolor; acima de 4,3, o metil orange fica amarelo. No rio II, pH = 4 − 0,70 = 3,3: continua abaixo de 8,3, então a fenolftaleína segue INCOLOR, e agora abaixo de 4,3, o metil orange fica vermelho. A pegadinha está aí: um rio bem mais ácido não muda a cor da fenolftaleína, e quem espera alguma reação dela nas duas amostras cai nas alternativas com \"rosa\".",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "dir-ciencias-natureza-175",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "enunciado": "O níquel é um metal resistente a corrosão que possui utilizações variadas. É utilizado para fazer moedas, acabamentos de materiais metálicos presentes em residências e na indústria de cerâmicas. Este metal pode ser produzido a partir do óxido de níquel (II), presente na bunsenita, e monóxido de carbono através da seguinte reação em equilíbrio:\nNiO(s) + CO(g) ⇌ Ni(s) + CO₂(g)\nSobre essa reação, são feitas as afirmações:\nI. O aumento da pressão total do sistema favorece a formação de níquel metálico.\nII. A adição de um catalisador desloca o equilíbrio no sentido da formação de níquel metálico.\nIII. A retirada de gás carbônico do sistema favorece a formação de níquel metálico.\nEstá correto apenas o que se afirma em:",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "I e III.",
+    "e": "II e III."
+   },
+   "resposta": "c",
+   "explicacao": "Pelo princípio de Le Chatelier, retirar um produto desloca o equilíbrio para repô-lo, então tirar CO₂ empurra a reação para a direita e forma mais níquel: III é correta. A I falha porque só os GASES contam para o efeito da pressão, e há um mol de gás de cada lado — CO à esquerda, CO₂ à direita —, de modo que a pressão não desloca nada. A II repete o erro mais comum sobre catalisadores: eles aceleram os dois sentidos igualmente e antecipam o equilíbrio, mas não mudam a posição dele.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
   },
   {
    "subtema": "quimica-equilibrio-acido-base",
@@ -27119,6 +27586,26 @@ window.QUESTION_BANKS = {
    "dificuldade": "media",
    "formato": "direta",
    "origem": "direito"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "dir-ciencias-natureza-167",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Preço do ferro-gusa dispara com guerra\nA guerra entre a Rússia e a Ucrânia continua fazendo estragos na economia mundial, em especial nos setores que possuem commodities, que têm seu preço determinado pela oferta e procura internacional, entre as matérias-primas. A indústria da fundição, por exemplo, que tem enfrentado sucessivos aumentos no preço do ferro-gusa, acaba de receber mais um, agora de 60%, que vem a se somar aos reajustes de 41,6% praticados em janeiro e fevereiro.\n(Bianchetti, M. Diário do Comércio, 26/03/2022.)",
+   "enunciado": "O ferro-gusa é produzido a partir do minério de ferro em alto forno de acordo com a reação:\nFe₂O₃ + 3CO → 2Fe + 3CO₂\nEm um processo semelhante, 32000 kg de óxido de ferro (III) reagiram, e a quantidade máxima de ferro formado nesse processo corresponde, em kg, a:\nDados massas molares (g.mol⁻¹): Fe = 56; O = 16 e C = 12.",
+   "alternativas": {
+    "a": "28000",
+    "b": "22400",
+    "c": "17920",
+    "d": "2800",
+    "e": "2240"
+   },
+   "resposta": "b",
+   "explicacao": "A massa molar do Fe₂O₃ é 2 × 56 + 3 × 16 = 160 g/mol, então 32 000 kg correspondem a 200 kmol do óxido. Pela estequiometria, cada mol de Fe₂O₃ fornece 2 mols de Fe, logo são 400 kmol de ferro, que a 56 kg/kmol dão 22 400 kg. A alternativa 28 000 é a de quem esquece o fator 2 da equação; 17 920 sai de usar a massa do ferro sobre a do óxido sem a proporção molar.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
   },
   {
    "subtema": "quimica-estequiometria",
@@ -28497,6 +28984,69 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "quimica-organica",
+   "id": "dir-ciencias-natureza-168",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "Recentemente, foi noticiada, nos meios de comunicação, a retirada do mercado de uma determinada marca internacional de sorvetes no sabor baunilha.\n\"O recolhimento dos produtos importados da França ocorre em nível global, devido à presença de 2-cloroetanol (2-CE) no ingrediente utilizado na fabricação do sorvete para conferir o sabor baunilha. O 2-cloroetanol é uma substância que pode estar associada ao óxido de etileno, um pesticida que age na eliminação de microrganismos e que tem uso proibido no Brasil\".\n(Fonte: O Globo 15/07/2022.)",
+   "enunciado": "Sabendo que o óxido de etileno é um éter de fórmula C₂H₄O, as fórmulas do óxido de etileno e do 2-cloroetanol são, respectivamente,",
+   "alternativas": {
+    "a": "H₃C–CHO (etanal) e H₃C–CHCl–OH",
+    "b": "epóxido, um anel de três membros com dois carbonos e um oxigênio (H₂C–CH₂ ligados entre si e ambos ao O), e H₂C(Cl)–O–CH₃",
+    "c": "H₂C=CH–OH e H₂C(Cl)–CH₂(OH)",
+    "d": "H₃C–CHO (etanal) e H₂C(Cl)–O–CH₃",
+    "e": "epóxido, um anel de três membros com dois carbonos e um oxigênio (H₂C–CH₂ ligados entre si e ambos ao O), e H₂C(Cl)–CH₂(OH)"
+   },
+   "resposta": "e",
+   "explicacao": "São duas identificações independentes. O enunciado entrega a primeira: o óxido de etileno é um ÉTER de fórmula C₂H₄O, e a única forma de dois carbonos e um oxigênio fecharem um éter com essa fórmula é o anel de três membros, o epóxido — o etanal tem a mesma fórmula molecular, mas é aldeído, não éter. A segunda vem do nome: 2-cloroetanol é uma cadeia de dois carbonos com o OH no carbono 1 e o cloro no carbono 2, isto é, H₂C(Cl)–CH₂(OH). Só a alternativa e acerta as duas.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "dir-ciencias-natureza-172",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "lacunas",
+   "visual": {
+    "tipo": "Fórmula estrutural",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q40.png",
+    "descricao": "Fórmula estrutural da tiroxina. Dois anéis aromáticos ligados entre si por um átomo de oxigênio. O anel da esquerda traz um grupo HO e dois átomos de iodo; o da direita, mais dois átomos de iodo. Do anel da direita parte uma cadeia curta que termina num carbono ligado simultaneamente a um grupo H₂N e a um grupo carboxila, COOH."
+   },
+   "enunciado": "Em um mecanismo de regulação da temperatura corporal, a glândula tireoide libera um hormônio chamado tiroxina, que faz o organismo reter calor para enfrentar o frio. A estrutura da tiroxina está representada acima.\nEssa substância apresenta isomeria ______, por apresentar carbono quiral (assimétrico), e contém um grupo que representa a função ______.\nAs lacunas devem ser corretamente preenchidas por:",
+   "alternativas": {
+    "a": "óptica; álcool.",
+    "b": "geométrica; fenol.",
+    "c": "geométrica; amina.",
+    "d": "óptica; amina.",
+    "e": "geométrica; álcool."
+   },
+   "resposta": "d",
+   "explicacao": "A primeira lacuna vem de graça no enunciado: carbono quiral é a definição de isomeria ÓPTICA, e a geométrica exigiria dupla ligação com ligantes distintos em cada carbono, o que não é o caso. Na segunda, o grupo H₂N ligado à cadeia carbônica caracteriza uma AMINA. A alternativa a é a armadilha mais fina: o OH da estrutura está preso diretamente ao anel aromático, o que faz dele um FENOL, e não um álcool — para ser álcool, o OH teria de estar num carbono saturado.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "dir-ciencias-natureza-176",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "Feromônios são substâncias químicas produzidas e secretadas por organismos, e quando alcançam os órgãos olfativos de outros indivíduos da mesma espécie, desencadeiam uma série de reações. A mosca-doméstica também utiliza feromônios para assegurar sua reprodução. Em geral, uma pequena quantidade de feromônio sexual liberado já é o suficiente para atrair o macho. O feromônio sexual produzido pela mosca-doméstica tem estrutura CH₃–[CH₂]₇–CH=CH–[CH₂]₇–CH₃.\nA partir da análise da estrutura apresentada, é correto afirmar que esse feromônio é",
+   "alternativas": {
+    "a": "um hidrocarboneto saturado de cadeia ramificada, solúvel em água.",
+    "b": "um composto orgânico de alta polaridade e solúvel em água.",
+    "c": "um hidrocarboneto insaturado de cadeia normal e de baixa polaridade.",
+    "d": "um hidrocarboneto ramificado, polar e insolúvel em água.",
+    "e": "um composto orgânico de cadeia aberta, apolar e com alta solubilidade em água."
+   },
+   "resposta": "c",
+   "explicacao": "A estrutura resolve tudo. Só há carbono e hidrogênio, logo é hidrocarboneto. Há uma dupla ligação, logo é INSATURADO — o que elimina a alternativa a. Não há ramificação alguma: a cadeia é normal, e isso derruba a d. E, sendo formada apenas de ligações C–C e C–H, a molécula é apolar, de baixa polaridade e insolúvel em água, o que descarta b e e. A alternativa e chega perto ao dizer apolar, mas então se contradiz ao afirmar alta solubilidade em água.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "quimica-organica",
    "id": "med-quimica-09",
    "texto_apoio": "A figura mostra a estrutura do etanol e a do dimetil-éter, ambos com fórmula molecular C2H6O. Suas temperaturas de ebulição a 1 atm são, respectivamente, 78 °C e −24 °C.",
    "enunciado": "As duas substâncias são exemplos de isomeria ______, e a diferença entre as temperaturas de ebulição se explica porque apenas o etanol forma ______, interação mais intensa que ______ presente no éter. As lacunas são preenchidas por:",
@@ -29664,6 +30214,50 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "quimica-solucoes",
+   "id": "dir-ciencias-natureza-166",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Fluxograma",
+    "arquivo": "assets/provas/fgv-2023.1-cn-q34.png",
+    "descricao": "Fluxograma da separação de microplásticos. A amostra é misturada com solução saturada de NaCl e segue para o processo de separação (A), do qual saem dois ramos: um sólido, de um lado, e a solução saturada de NaCl com microplásticos em suspensão, de outro. Essa solução segue para o processo de separação (B), do qual saem a solução saturada de NaCl e, separadamente, os microplásticos."
+   },
+   "enunciado": "Os microplásticos são fragmentos de plásticos encontrados em diversos compartimentos ambientais. Esses materiais podem provocar danos variados em diversos organismos e já foram detectados nas fezes, na placenta, no pulmão e no sangue de seres humanos. Na análise de microplásticos presentes em sedimentos, as amostras são, inicialmente, misturadas com solução saturada de cloreto de sódio, depois de algum tempo, a fase aquosa é separada e, na etapa seguinte, os fragmentos em suspensão são separados, conforme mostra o esquema.\nOs processos de separação (A) e (B) são, respectivamente:",
+   "alternativas": {
+    "a": "tamisação e flotação.",
+    "b": "decantação e destilação.",
+    "c": "destilação e tamisação.",
+    "d": "decantação e filtração.",
+    "e": "filtração e flotação."
+   },
+   "resposta": "d",
+   "explicacao": "A solução saturada de NaCl é densa, então os sedimentos minerais afundam e os microplásticos, menos densos, ficam em suspensão. Deixar o sistema em repouso e retirar a fase aquosa é DECANTAÇÃO, o processo A. Depois, separar fragmentos sólidos que estão suspensos num líquido é FILTRAÇÃO, o processo B. A destilação está errada porque nada aqui é evaporado, e a tamisação, que é peneiração, se aplica a sólidos secos de granulometria diferente, não a uma suspensão.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "dir-ciencias-natureza-173",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "texto_apoio": "O sódio em excesso é um fator de risco para doenças cardiovasculares em seres humanos. A maior parte do sódio ingerido provém do cloreto de sódio adicionado aos alimentos. A OMS (World Health Organization, 2012) recomendou o consumo de 2 gramas de sódio por dia. Para avaliar a ingestão de sódio, foram determinadas as concentrações de cloreto de sódio em amostras de 100 mL de caldo de feijão cozido, consumido por grupos de pessoas em um dia. As quantidades de cloreto de sódio encontradas nas amostras dos grupos foram: grupo A, 0,058 mol/L; grupo B, 0,078; grupo C, 1,08; grupo D, 2,00; grupo E, 8,70.",
+   "enunciado": "A quantidade diária de sódio está abaixo da recomendada pela OMS no(s) grupo(s):\nDados: massas molares Na = 23 g.mol⁻¹; Cl = 35,5 g.mol⁻¹.",
+   "alternativas": {
+    "a": "apenas A.",
+    "b": "apenas A e B.",
+    "c": "apenas A, B e C.",
+    "d": "apenas A, B, C e D.",
+    "e": "A, B, C, D e E."
+   },
+   "resposta": "b",
+   "explicacao": "Em 100 mL, o número de mols é a concentração dividida por dez, e cada mol de NaCl carrega 23 g de sódio. Assim o grupo A ingere 0,0058 × 23 ≈ 0,13 g; o B, ≈ 0,18 g; o C, 0,108 × 23 ≈ 2,48 g; o D, 0,2 × 23 = 4,6 g; e o E, 0,87 × 23 ≈ 20 g. Só A e B ficam abaixo dos 2 g recomendados, e o C já ultrapassa por pouco — é ele que separa a alternativa certa da seguinte. A massa molar do cloro é dada mas não faz falta: o que se pede é o sódio, não o sal.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
+  {
+   "subtema": "quimica-solucoes",
    "id": "med-quimica-01",
    "textoId": "med-med-qui-t1",
    "enunciado": "De acordo com o texto, a chuva natural é levemente ácida porque:",
@@ -30642,6 +31236,25 @@ window.QUESTION_BANKS = {
   }
  ],
  "quimica-termoquimica-cinetica": [
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "dir-ciencias-natureza-177",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "enunciado": "O processo de fermentação alcoólica de açúcares é utilizado para produção de álcool nas usinas de cana-de-açúcar. A etapa final desse processo pode ser simplificadamente descrita na equação:\nC₆H₁₂O₆(s) → 2CH₃CH₂OH(ℓ) + 2CO₂(g)\nUtilizando as equações termoquímicas:\nI) C₆H₁₂O₆(s) + 6O₂(g) → 6CO₂(g) + 6H₂O(ℓ)\nII) CH₃CH₂OH(ℓ) + 3O₂(g) → 2CO₂(g) + 3H₂O(ℓ)\nque liberam, respectivamente, 2808 kJ.mol⁻¹ e 1368 kJ.mol⁻¹, o calor liberado na reação da etapa final apresentada da fermentação, em kJ por mol de açúcar, é:",
+   "alternativas": {
+    "a": "72 kJ.mol⁻¹",
+    "b": "87 kJ.mol⁻¹",
+    "c": "1440 kJ.mol⁻¹",
+    "d": "2772 kJ.mol⁻¹",
+    "e": "4176 kJ.mol⁻¹"
+   },
+   "resposta": "a",
+   "explicacao": "É a lei de Hess. A equação da fermentação se obtém somando a combustão da glicose com o INVERSO de duas vezes a combustão do etanol, de modo que ΔH = (−2808) − 2 × (−1368) = −2808 + 2736 = −72 kJ por mol de açúcar. O fator 2 é o que a questão cobra, porque a fermentação produz dois mols de etanol; quem o esquece chega a 1440. Somar os dois valores em vez de subtrair produz 4176, e por isso essa alternativa está na lista.",
+   "origem": "direito",
+   "frenteOrigem": "ciencias-natureza"
+  },
   {
    "subtema": "quimica-termoquimica-cinetica",
    "id": "med-quimica-14",

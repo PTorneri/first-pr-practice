@@ -668,9 +668,17 @@ h4 { font-size: 1.0625rem; }
   border-radius: 50%; pointer-events: none;
   background: radial-gradient(circle, rgba(240,180,48,.20) 0%, rgba(6,16,39,0) 68%);
 }
-.onb-simbolo {
-  position: relative; width: 44px; height: auto; display: block;
+/* As duas peças da marca medidas por ALTURA, na mesma proporção da .lp-marca
+   da landing (38/26): o wordmark é mais baixo que o símbolo porque a arte do
+   símbolo tem folga acima e abaixo do traço. Casar as duas por largura, como
+   faz o topo da barra lateral, aqui deixaria o nome maior que o desenho. */
+.onb-marca {
+  position: relative; display: flex; align-items: center; gap: 11px;
   margin-bottom: var(--space-4);
+}
+.onb-marca .sidebar-symbol { height: 42px; }
+.onb-marca .sidebar-wordmark { height: 29px; }
+.onb-simbolo {
   filter: drop-shadow(0 10px 22px rgba(240,180,48,.26));
   animation: sagax-respira 5.5s ease-in-out infinite;
 }

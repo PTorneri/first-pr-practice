@@ -12,7 +12,7 @@
 // "feedback", mais recentes primeiro (campo createdAt).
 
 import { collection, addDoc } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-firestore.js";
-import { db } from "./firebase-init.js?v=50";
+import { db } from "./firebase-init.js?v=51";
 
 // Guarda o que já foi enviado nesta sessão pra evitar relato duplicado por
 // clique repetido. Não persiste: relatar de novo amanhã é legítimo.

@@ -8557,6 +8557,652 @@ window.QUESTION_BANKS = {
    "explicacao": "O metal usado como proteção catódica (metal de sacrifício) deve ser mais reativo (mais eletropositivo) do que o ferro para se oxidar preferencialmente em seu lugar; entre os citados, o magnésio (mais reativo, usado em pontos estratégicos como ânodo de sacrifício) e o zinco (usado revestindo toda a peça, galvanização) atendem a essa condição, diferente do estanho, menos reativo que o ferro.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-411",
+   "texto_apoio": "Na pilha de Daniell, uma placa de zinco e uma placa de cobre são ligadas por fio externo e por uma ponte salina. Potenciais padrão de redução: Zn²⁺/Zn = -0,76 V; Cu²⁺/Cu = +0,34 V.",
+   "enunciado": "A força eletromotriz padrão dessa pilha e o eletrodo que funciona como ânodo são, respectivamente:",
+   "alternativas": {
+    "a": "+1,10 V e a placa de cobre",
+    "b": "+1,10 V e a placa de zinco",
+    "c": "-0,42 V e a placa de zinco",
+    "d": "+0,42 V e a placa de cobre",
+    "e": "-1,10 V e a placa de cobre"
+   },
+   "resposta": "b",
+   "explicacao": "A força eletromotriz padrão é a diferença entre o potencial de redução do cátodo e o do ânodo: 0,34 - (-0,76) = 1,10 V. Quem tem o menor potencial de redução sofre oxidação e é o ânodo, papel do zinco, que se desgasta enquanto o cobre se deposita no cátodo. Somar os potenciais em vez de subtrair produziria -0,42 V.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-412",
+   "texto_apoio": "Uma lâmina de ferro polido foi mergulhada em uma solução de nitrato de prata. Em minutos, a lâmina ficou recoberta por um depósito prateado. Potenciais padrão de redução: Fe²⁺/Fe = -0,44 V; Ag⁺/Ag = +0,80 V.",
+   "enunciado": "A força eletromotriz padrão da transformação Fe(s) + 2 Ag⁺(aq) → Fe²⁺(aq) + 2 Ag(s) e a conclusão sobre sua espontaneidade são:",
+   "alternativas": {
+    "a": "+0,36 V e transformação espontânea",
+    "b": "-1,24 V e transformação não espontânea",
+    "c": "+1,24 V e transformação não espontânea",
+    "d": "-0,36 V e transformação não espontânea",
+    "e": "+1,24 V e transformação espontânea"
+   },
+   "resposta": "e",
+   "explicacao": "A prata tem potencial de redução maior, então é ela que se reduz, e o ferro sofre oxidação: 0,80 - (-0,44) = 1,24 V. Força eletromotriz positiva indica processo espontâneo, o que se confirma pelo depósito de prata metálica sobre a lâmina. Dobrar o coeficiente da prata não altera o potencial, que é uma grandeza intensiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-413",
+   "texto_apoio": "Dutos de aço enterrados são ligados por cabo a blocos de magnésio distribuídos ao longo do traçado. Os blocos vão sendo consumidos e precisam ser trocados periodicamente. Potenciais padrão de redução: Mg²⁺/Mg = -2,37 V; Fe²⁺/Fe = -0,44 V.",
+   "enunciado": "Essa técnica protege o duto porque o magnésio:",
+   "alternativas": {
+    "a": "tem potencial de redução menor e funciona como metal de sacrifício, sofrendo oxidação no lugar do ferro",
+    "b": "tem potencial de redução maior e por isso obriga o ferro do duto a sofrer a oxidação em lugar do bloco enterrado",
+    "c": "forma sobre o aço uma camada isolante de óxido de magnésio, capaz de bloquear o contato do duto com a umidade",
+    "d": "reage com a água do solo e libera gás hidrogênio, que expulsaria o oxigênio das vizinhanças do duto enterrado",
+    "e": "atua como polo positivo do sistema e recebe os elétrons perdidos pelo ferro, o que aceleraria a ferrugem no duto"
+   },
+   "resposta": "a",
+   "explicacao": "Ligados eletricamente, magnésio e ferro formam uma pilha na qual o metal de menor potencial de redução é o ânodo. Como -2,37 V é bem menor que -0,44 V, o magnésio oxida e envia elétrons ao duto, que fica protegido catodicamente. O bloco se consome no lugar do aço: daí o nome metal de sacrifício.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-414",
+   "texto_apoio": "A ferrugem se forma sobre o aço quando há ao mesmo tempo água e gás oxigênio. Peças guardadas em ambiente seco, ou submersas em água fervida e desaerada, praticamente não enferrujam.",
+   "enunciado": "Do ponto de vista eletroquímico, a formação da ferrugem envolve:",
+   "alternativas": {
+    "a": "redução do ferro metálico a íons Fe²⁺ e oxidação do gás oxigênio dissolvido na água em contato com a peça",
+    "b": "oxidação simultânea do ferro e do gás oxigênio, ambos atuando como agente redutor na superfície do metal",
+    "c": "oxidação do ferro metálico a íons Fe²⁺ e redução do gás oxigênio na presença de água",
+    "d": "redução da água a gás hidrogênio nas regiões anódicas e oxidação do ferro nas regiões catódicas da peça",
+    "e": "apenas a desidratação do óxido já existente na superfície do aço, sem transferência de elétrons envolvida"
+   },
+   "resposta": "c",
+   "explicacao": "A corrosão é um processo de oxirredução espalhado pela superfície: em regiões anódicas o ferro perde elétrons e vira Fe²⁺; em regiões catódicas o gás oxigênio recebe esses elétrons na presença de água. Sem um dos dois, o circuito não fecha e a ferrugem não se forma, o que explica as duas situações descritas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-415",
+   "texto_apoio": "O sódio metálico é obtido industrialmente pela eletrólise ígnea do cloreto de sódio fundido, a cerca de 800 °C, em células de aço revestidas.",
+   "enunciado": "Nessa célula eletrolítica, os produtos formados no cátodo e no ânodo são, respectivamente:",
+   "alternativas": {
+    "a": "gás cloro, por redução dos íons Cl⁻, e sódio metálico, por oxidação dos íons Na⁺ presentes no sal fundido",
+    "b": "gás hidrogênio, por redução da água presente no sal, e gás cloro, por oxidação dos íons cloreto na célula",
+    "c": "sódio metálico, por oxidação dos íons Na⁺, e gás oxigênio, por redução do ar dissolvido no sal fundido",
+    "d": "sódio metálico, por redução dos íons Na⁺, e gás cloro, por oxidação dos íons Cl⁻",
+    "e": "hidróxido de sódio, formado no polo negativo, e gás oxigênio, formado por oxidação no ânodo da célula"
+   },
+   "resposta": "d",
+   "explicacao": "No sal fundido só existem Na⁺ e Cl⁻. O cátodo é o polo negativo da cuba e atrai os cátions, que recebem elétrons: forma-se sódio metálico. O ânodo atrai os ânions cloreto, que perdem elétrons e formam gás cloro. Redução no cátodo e oxidação no ânodo, tanto na pilha quanto na eletrólise.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-416",
+   "texto_apoio": "A indústria de cloro-soda faz a eletrólise de salmoura, isto é, de cloreto de sódio dissolvido em água. Os produtos comerciais do processo são gás cloro, gás hidrogênio e hidróxido de sódio.",
+   "enunciado": "A diferença entre esse processo e a eletrólise do mesmo sal fundido está em que, na salmoura:",
+   "alternativas": {
+    "a": "o íon Na⁺ sofre redução mais facilmente que a água, o que produziria sódio metálico e explicaria a soda formada",
+    "b": "o íon Cl⁻ deixa de sofrer oxidação no ânodo, e o gás cloro passaria a vir da decomposição da própria água",
+    "c": "a água sofre oxidação no polo negativo, o que liberaria gás hidrogênio e deixaria íons Na⁺ livres para a soda",
+    "d": "os dois eletrodos passam a produzir gás oxigênio, e o hidróxido de sódio resultaria apenas da evaporação final",
+    "e": "a água sofre redução no polo negativo em lugar do íon Na⁺, o que libera gás hidrogênio e deixa o meio básico"
+   },
+   "resposta": "e",
+   "explicacao": "Em meio aquoso disputam a redução no cátodo o íon Na⁺ e a água; como a água tem potencial de redução maior, é ela que reage, liberando gás hidrogênio e íons OH⁻ — daí a soda. No ânodo, o íon cloreto continua sofrendo oxidação a gás cloro. Por isso a eletrólise ígnea é obrigatória para se obter sódio metálico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-417",
+   "texto_apoio": "Uma peça foi recoberta de cobre em uma célula eletrolítica percorrida por corrente de 10 A durante 965 s. A espécie descarregada no cátodo é o íon Cu²⁺, a constante de Faraday vale 96 500 C por mol de elétrons e 1 mol de átomos de cobre tem 63,5 g.",
+   "enunciado": "A massa de cobre depositada sobre a peça é de aproximadamente:",
+   "alternativas": {
+    "a": "6,4 g",
+    "b": "1,6 g",
+    "c": "3,2 g",
+    "d": "0,1 g",
+    "e": "63,5 g"
+   },
+   "resposta": "c",
+   "explicacao": "A carga que atravessou a cuba foi 10 × 965 = 9650 C, o que corresponde a 9650 / 96500 = 0,1 mol de elétrons. Como cada íon Cu²⁺ precisa de 2 elétrons para sofrer redução, formaram-se 0,05 mol de cobre, ou 0,05 × 63,5 ≈ 3,2 g. Esquecer a carga 2 do cátion dobraria o resultado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-418",
+   "texto_apoio": "Para cromar o para-choque de um carro antigo, a peça e uma barra de cromo são mergulhadas em um banho contendo íons Cr³⁺ e ligadas aos polos de uma fonte de corrente contínua.",
+   "enunciado": "Para que o cromo se deposite sobre o para-choque, a peça precisa ser ligada ao:",
+   "alternativas": {
+    "a": "polo positivo da fonte, funcionando como ânodo, onde os íons Cr³⁺ do banho sofreriam redução a cromo metálico",
+    "b": "polo negativo da fonte, onde os íons Cr³⁺ do banho sofrem redução a cromo metálico",
+    "c": "polo positivo da fonte, onde o cromo metálico da barra sofreria oxidação a íons Cr³⁺ e migraria para a peça",
+    "d": "polo negativo da fonte, funcionando como ânodo, onde o metal do para-choque sofreria oxidação e seria recoberto",
+    "e": "polo terra do circuito, o que evitaria a passagem de corrente e impediria a corrosão da peça durante o banho"
+   },
+   "resposta": "b",
+   "explicacao": "Na eletrodeposição, a peça a ser revestida é sempre o cátodo, ligado ao polo negativo da fonte: ali chegam os elétrons e os cátions Cr³⁺ do banho sofrem redução, aderindo à superfície. A barra de cromo é o ânodo e vai se dissolvendo por oxidação, repondo os íons consumidos no banho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-419",
+   "texto_apoio": "A bateria de chumbo de um automóvel entrega corrente ao motor de arranque e depois é recarregada pelo alternador enquanto o carro anda.",
+   "enunciado": "Durante a recarga, essa bateria funciona como:",
+   "alternativas": {
+    "a": "célula eletrolítica, e o eletrodo que recebia elétrons na descarga passa a sofrer oxidação",
+    "b": "célula galvânica, e a recarga seria espontânea porque a força eletromotriz do conjunto continua sendo positiva",
+    "c": "célula eletrolítica, e os dois eletrodos passariam a sofrer redução ao mesmo tempo por ação da fonte externa",
+    "d": "célula galvânica, e o eletrodo que era ânodo na descarga passaria a receber elétrons vindos do alternador",
+    "e": "resistor comum, já que a recarga apenas repõe calor no eletrólito sem envolver transferência de elétrons"
+   },
+   "resposta": "a",
+   "explicacao": "Na descarga a bateria é uma pilha: a transformação é espontânea e fornece corrente. Na recarga o alternador força o caminho inverso, e o dispositivo passa a ser uma célula eletrolítica, com processo não espontâneo. Os papéis se invertem: o eletrodo que sofria redução na descarga passa a sofrer oxidação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-420",
+   "texto_apoio": "Nas baterias de íon-lítio de celulares, durante o uso os íons Li⁺ migram do eletrodo de grafite para o eletrodo de óxido metálico, e o caminho inverso ocorre quando o aparelho é posto na tomada.",
+   "enunciado": "Enquanto o celular está sendo usado, o eletrodo de grafite:",
+   "alternativas": {
+    "a": "é o polo positivo da pilha, sofre redução e recebe do circuito externo os elétrons que alimentam o aparelho",
+    "b": "é o ânodo da pilha, sofre redução e por isso perderia massa a cada ciclo completo de uso do celular",
+    "c": "é o polo negativo de uma célula eletrolítica, e a transformação que nele ocorre não seria espontânea durante o uso",
+    "d": "é o ânodo da pilha, sofre oxidação e envia elétrons ao circuito externo do aparelho",
+    "e": "não participa da transferência de elétrons e serve apenas de suporte isolante para os íons Li⁺ em trânsito"
+   },
+   "resposta": "d",
+   "explicacao": "Em uso, o dispositivo é uma pilha: a saída de Li⁺ do grafite vem acompanhada da saída de elétrons pelo circuito externo, ou seja, o grafite sofre oxidação e é o ânodo. Na recarga o sentido se inverte e a bateria vira célula eletrolítica. Vale a regra geral: oxidação no ânodo, redução no cátodo, nos dois casos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-421",
+   "texto_apoio": "Ônibus movidos a célula a combustível consomem gás hidrogênio e gás oxigênio e produzem água e energia elétrica, sem passar por uma etapa de queima em motor.",
+   "enunciado": "Nessa célula, o gás hidrogênio e o gás oxigênio atuam, respectivamente, como:",
+   "alternativas": {
+    "a": "agente oxidante, que sofre redução no ânodo, e agente redutor, que sofreria oxidação no polo positivo da célula",
+    "b": "agente redutor, que sofre redução no polo positivo, e agente oxidante, que sofreria oxidação no ânodo da célula",
+    "c": "eletrólitos inertes, cuja função seria apenas conduzir a corrente entre os dois eletrodos porosos do dispositivo",
+    "d": "catalisadores da transformação, que seriam consumidos e regenerados a cada ciclo de funcionamento do ônibus",
+    "e": "agente redutor, que sofre oxidação no ânodo, e agente oxidante, que sofre redução no polo positivo"
+   },
+   "resposta": "e",
+   "explicacao": "A célula a combustível é uma pilha alimentada continuamente. O hidrogênio perde elétrons — sofre oxidação — e por isso é o agente redutor, no ânodo. O oxigênio recebe esses elétrons — sofre redução — e é o agente oxidante, no cátodo. A energia sai como corrente elétrica em vez de calor, o que eleva o rendimento do veículo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-422",
+   "texto_apoio": "O permanganato de potássio, KMnO₄, é um agente oxidante forte, de potencial padrão de redução elevado, usado em análises de laboratório e como antisséptico tópico em soluções muito diluídas.",
+   "enunciado": "No íon permanganato, MnO₄⁻, o número de oxidação do manganês é:",
+   "alternativas": {
+    "a": "+2",
+    "b": "+4",
+    "c": "+7",
+    "d": "+5",
+    "e": "-7"
+   },
+   "resposta": "c",
+   "explicacao": "Cada oxigênio tem nox -2, o que dá -8 nos quatro; para a carga total do íon ser -1, o manganês precisa ter nox +7. É o valor máximo possível para esse elemento, e por isso o permanganato só pode sofrer redução numa oxirredução — nunca oxidação —, o que explica seu poder oxidante e o uso em titulações.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-423",
+   "texto_apoio": "Ao se colocar granalha de zinco em contato com ácido clorídrico diluído, observa-se efervescência intensa e a granalha vai desaparecendo. O zinco passa de nox 0 a +2 e o hidrogênio, de +1 a 0.",
+   "enunciado": "Nessa oxirredução, o agente oxidante e o agente redutor são, respectivamente:",
+   "alternativas": {
+    "a": "o zinco metálico, que sofre oxidação, e o íon H⁺, que sofre redução no contato com a granalha do metal",
+    "b": "o íon H⁺, que sofre redução, e o zinco metálico, que sofre oxidação",
+    "c": "o íon Cl⁻, que sofre redução, e o zinco metálico, que sofre oxidação a íons Zn²⁺ na superfície da granalha",
+    "d": "o íon H⁺, que sofreria oxidação, e o íon Cl⁻, que sofreria redução formando gás cloro junto ao hidrogênio",
+    "e": "o zinco metálico nos dois papéis, por ser a única espécie a mudar de número de oxidação na transformação"
+   },
+   "resposta": "b",
+   "explicacao": "Agente oxidante é quem provoca a oxidação alheia sofrendo redução: aqui é o H⁺, que passa de +1 a 0 e sai como gás hidrogênio. Agente redutor é quem sofre oxidação: o zinco, que passa de 0 a +2. O cloreto é espectador, pois seu nox não muda. É essa transformação que alimenta uma pilha simples de zinco.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-424",
+   "texto_apoio": "Uma lâmina de zinco mergulhada em solução azul de sulfato de cobre fica recoberta por um depósito avermelhado, e a cor azul vai sumindo. Já uma lâmina de cobre mergulhada em sulfato de zinco permanece inalterada por dias.",
+   "enunciado": "A explicação eletroquímica para essa diferença é que:",
+   "alternativas": {
+    "a": "o zinco tem potencial de redução menor que o do cobre, então sofre oxidação e desloca o cobre",
+    "b": "o cobre tem potencial de redução menor que o do zinco, então sofreria oxidação e passaria para a solução azul",
+    "c": "os dois metais têm o mesmo potencial de redução, e a diferença observada viria apenas da cor de cada solução",
+    "d": "o zinco tem potencial de redução maior, de modo que ele sofreria redução e o cobre metálico se dissolveria",
+    "e": "o cobre é o agente redutor mais forte do par, mas sua camada de óxido impediria o contato com a solução salina"
+   },
+   "resposta": "a",
+   "explicacao": "Quanto menor o potencial padrão de redução, maior a tendência do metal a sofrer oxidação. O zinco (-0,76 V) cede elétrons aos íons Cu²⁺ (+0,34 V), que sofrem redução e se depositam como cobre metálico — é a reação da pilha de Daniell ocorrendo em um recipiente só. O caminho inverso teria força eletromotriz negativa e não acontece.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-425",
+   "texto_apoio": "Esquadrias de alumínio recebem um tratamento chamado anodização: a peça é ligada ao polo positivo de uma fonte, dentro de um banho apropriado, e ganha uma camada de óxido de alumínio mais espessa e uniforme do que a natural.",
+   "enunciado": "Nesse tratamento, a peça de alumínio:",
+   "alternativas": {
+    "a": "é o polo negativo do processo e sofre redução, o que depositaria alumínio metálico novo sobre a esquadria",
+    "b": "é o ânodo do processo e sofre redução, o que consumiria a camada de óxido já existente na superfície",
+    "c": "funciona como metal de sacrifício e protegeria o banho eletrolítico da corrosão provocada pelo oxigênio do ar",
+    "d": "é o ânodo do processo e sofre oxidação, o que engrossa a camada protetora contra a corrosão",
+    "e": "não participa da transferência de elétrons, e a camada de óxido viria apenas do aquecimento do banho usado"
+   },
+   "resposta": "d",
+   "explicacao": "Ligada ao polo positivo, a peça é o ânodo da célula eletrolítica e sofre oxidação controlada: o alumínio da superfície vira óxido de alumínio. Essa camada é aderente e isolante e funciona como barreira contra a corrosão, ao contrário da ferrugem, que é porosa e se desprende do aço.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-426",
+   "texto_apoio": "Uma experiência clássica de feira de ciências espeta um prego de zinco e um fio de cobre em um limão e liga os dois a um relógio digital, que passa a funcionar.",
+   "enunciado": "O funcionamento do relógio se explica porque o conjunto forma:",
+   "alternativas": {
+    "a": "uma pilha, na qual o cobre sofre oxidação por ser o metal de menor potencial padrão de redução do par formado",
+    "b": "uma célula eletrolítica, na qual o suco do limão forneceria a corrente contínua exigida pela transformação",
+    "c": "uma pilha, na qual o zinco sofre oxidação e o cobre serve de superfície para a redução dos íons H⁺",
+    "d": "um capacitor, no qual a casca do limão separaria cargas de sinais opostos acumuladas nos dois metais espetados",
+    "e": "um condutor metálico simples, no qual o suco do limão apenas fecharia o circuito entre o prego e o fio de cobre"
+   },
+   "resposta": "c",
+   "explicacao": "Dois metais de potenciais de redução diferentes mergulhados no mesmo meio condutor formam uma pilha. O zinco, de potencial menor, é o ânodo e sofre oxidação; o cobre é o cátodo, onde os íons H⁺ do suco sofrem redução a gás hidrogênio. O limão não gera energia: ele apenas fornece o eletrólito que fecha o circuito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-427",
+   "texto_apoio": "As tabelas de potenciais trazem o eletrodo padrão de hidrogênio com valor exatamente igual a zero volt, em condições padrão.",
+   "enunciado": "Esse valor nulo decorre de que o eletrodo de hidrogênio:",
+   "alternativas": {
+    "a": "é a referência escolhida por convenção, e os demais potenciais de redução são medidos contra ele",
+    "b": "não troca elétrons com outros eletrodos, o que o tornaria inerte em pilhas e em células eletrolíticas",
+    "c": "teria tendência nula a sofrer oxidação e também a sofrer redução, permanecendo inalterado em cada pilha montada",
+    "d": "seria o eletrodo de menor energia possível, e por isso o polo positivo de cada pilha em que for empregado",
+    "e": "teria força eletromotriz nula porque o gás hidrogênio não conduziria corrente elétrica em condições padrão"
+   },
+   "resposta": "a",
+   "explicacao": "Não se mede o potencial de um eletrodo isolado, apenas a diferença entre dois. Por isso convencionou-se atribuir zero ao eletrodo de hidrogênio em condições padrão e tabelar todos os outros em relação a ele. O hidrogênio participa normalmente de oxirreduções: o valor zero é uma escolha de referência, não uma propriedade física.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-428",
+   "texto_apoio": "Na eletrólise da água levemente acidulada, recolhem-se separadamente os gases formados em cada eletrodo, medidos à mesma temperatura e à mesma pressão.",
+   "enunciado": "O gás recolhido no cátodo e a razão entre os volumes de gás do cátodo e do ânodo são:",
+   "alternativas": {
+    "a": "gás oxigênio, formado por redução no polo negativo, e razão de 2 para 1 entre os volumes recolhidos",
+    "b": "gás hidrogênio, formado por redução, e razão de 2 para 1",
+    "c": "gás hidrogênio, formado por oxidação no polo negativo, e razão de 1 para 2 entre os volumes recolhidos",
+    "d": "gás hidrogênio, formado por redução no polo negativo, e razão de 1 para 1 entre os volumes recolhidos",
+    "e": "gás oxigênio, formado por oxidação no polo negativo, e razão de 1 para 4 entre os volumes recolhidos"
+   },
+   "resposta": "b",
+   "explicacao": "No cátodo a água sofre redução e libera gás hidrogênio; no ânodo ela sofre oxidação e libera gás oxigênio. A decomposição segue 2 H₂O → 2 H₂ + O₂, de modo que se formam dois volumes de hidrogênio para cada volume de oxigênio nas mesmas condições. O ácido apenas aumenta a condutividade e não é consumido no processo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-429",
+   "texto_apoio": "No refino eletrolítico do cobre, uma barra de cobre impuro é ligada ao polo positivo de uma fonte e uma placa fina de cobre puro, ao polo negativo. Impurezas de ouro e de prata não se dissolvem e caem no fundo da cuba, formando a lama anódica.",
+   "enunciado": "Nesse processo, a barra de cobre impuro e a placa de cobre puro funcionam, respectivamente, como:",
+   "alternativas": {
+    "a": "polo negativo, com redução do cobre a Cu²⁺, e ânodo, com oxidação do Cu²⁺ a cobre metálico de alta pureza",
+    "b": "ânodo, com redução do cobre a Cu²⁺, e polo negativo, com oxidação do Cu²⁺ a cobre metálico de alta pureza",
+    "c": "polo negativo, com oxidação do cobre a Cu²⁺, e ânodo, com redução do Cu²⁺ a cobre metálico de alta pureza",
+    "d": "eletrodos inertes, e a transferência do cobre entre eles ocorreria apenas pela agitação mecânica do banho",
+    "e": "ânodo, com oxidação do cobre a Cu²⁺, e polo negativo, com redução do Cu²⁺ a cobre metálico"
+   },
+   "resposta": "e",
+   "explicacao": "O polo positivo é o ânodo da célula eletrolítica: ali o cobre impuro sofre oxidação e passa ao banho como Cu²⁺. No cátodo, ligado ao polo negativo, esses íons sofrem redução e se depositam com pureza alta. Ouro e prata têm potencial de redução maior que o do cobre e não são oxidados, por isso caem intactos como lama anódica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-430",
+   "texto_apoio": "Potenciais padrão de redução, em volts: Al³⁺/Al = -1,66; Ag⁺/Ag = +0,80.",
+   "enunciado": "Para a pilha montada com esses dois eletrodos em condições padrão, a força eletromotriz vale:",
+   "alternativas": {
+    "a": "-2,46 V",
+    "b": "+0,86 V",
+    "c": "+2,46 V",
+    "d": "-0,86 V",
+    "e": "+1,66 V"
+   },
+   "resposta": "c",
+   "explicacao": "A força eletromotriz padrão é o potencial de redução do cátodo menos o do ânodo: 0,80 - (-1,66) = 2,46 V. O alumínio, de potencial menor, sofre oxidação e é o ânodo. Somar os potenciais em vez de subtrair produziria -0,86 V, e trocar o sinal do resultado indicaria erradamente processo não espontâneo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-431",
+   "texto_apoio": "Uma pilha experimental foi montada com uma fita de magnésio e uma placa de cobre, unidas por ponte salina. Potenciais padrão de redução: Mg²⁺/Mg = -2,37 V; Cu²⁺/Cu = +0,34 V.",
+   "enunciado": "A força eletromotriz padrão dessa pilha e o eletrodo que se desgasta durante o funcionamento são:",
+   "alternativas": {
+    "a": "+2,71 V e a fita de magnésio",
+    "b": "+2,71 V e a placa de cobre",
+    "c": "-2,03 V e a fita de magnésio",
+    "d": "+2,03 V e a placa de cobre",
+    "e": "-2,71 V e a placa de cobre"
+   },
+   "resposta": "a",
+   "explicacao": "A força eletromotriz padrão vale 0,34 - (-2,37) = 2,71 V. O magnésio tem o menor potencial de redução, logo sofre oxidação, é o ânodo e vai perdendo massa; no cobre ocorre a redução dos íons Cu²⁺, e a placa engrossa. Somar os potenciais produziria -2,03 V.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-432",
+   "texto_apoio": "Em meio acidulado, o íon permanganato reage com o íon ferroso segundo o esquema não balanceado:\n\nMnO₄⁻ + Fe²⁺ + H⁺ → Mn²⁺ + Fe³⁺ + H₂O",
+   "enunciado": "Depois de balanceada a oxirredução, os coeficientes do íon permanganato, do íon Fe²⁺ e do íon H⁺ são, nessa ordem:",
+   "alternativas": {
+    "a": "1, 3 e 4",
+    "b": "2, 5 e 16",
+    "c": "1, 1 e 2",
+    "d": "5, 1 e 8",
+    "e": "1, 5 e 8"
+   },
+   "resposta": "e",
+   "explicacao": "O manganês cai de nox +7 para +2 e recebe 5 elétrons; o ferro sobe de +2 para +3 e cede 1 elétron. Para igualar os elétrons trocados são precisos 5 íons Fe²⁺ por permanganato, e o balanço de cargas e de oxigênios exige 8 íons H⁺ e 4 águas. O permanganato, de potencial de redução alto, é o agente oxidante; o Fe²⁺ é o agente redutor.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-433",
+   "texto_apoio": "O dicromato de potássio, de cor alaranjada, foi por décadas o agente oxidante dos bafômetros descartáveis: em contato com o vapor exalado, ele sofria redução e o tubo mudava de cor.",
+   "enunciado": "No íon dicromato, Cr₂O₇²⁻, o número de oxidação do cromo é:",
+   "alternativas": {
+    "a": "+3",
+    "b": "+6",
+    "c": "+7",
+    "d": "+2",
+    "e": "-6"
+   },
+   "resposta": "b",
+   "explicacao": "Os sete oxigênios somam -14; para a carga do íon ser -2, os dois cromos precisam somar +12, o que dá +6 para cada um. O potencial de redução alto do dicromato faz dele um bom agente oxidante: no bafômetro ele sofria redução a Cr³⁺, de cor esverdeada, e era essa mudança de cor que indicava o resultado do teste.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-434",
+   "texto_apoio": "Deseja-se depositar 10,8 g de prata sobre uma peça ligada ao cátodo de uma célula eletrolítica percorrida por corrente de 5,0 A. No cátodo ocorre a redução Ag⁺ + e⁻ → Ag; 1 mol de prata tem 108 g e a constante de Faraday vale 96 500 C por mol de elétrons.",
+   "enunciado": "O tempo necessário para essa deposição é de:",
+   "alternativas": {
+    "a": "965 s",
+    "b": "3860 s",
+    "c": "19300 s",
+    "d": "1930 s",
+    "e": "386 s"
+   },
+   "resposta": "d",
+   "explicacao": "A massa corresponde a 10,8 / 108 = 0,1 mol de prata e, como cada íon Ag⁺ sofre redução recebendo um único elétron, também a 0,1 mol de elétrons. A carga necessária é 0,1 × 96 500 = 9650 C, e o tempo é 9 650 / 5,0 = 1930 s. Supor dois elétrons por íon dobraria o resultado. No ânodo, em paralelo, ocorre a oxidação correspondente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-435",
+   "texto_apoio": "Grades e portões de casas no litoral enferrujam bem mais depressa que os mesmos objetos instalados no interior do estado, ainda que a umidade média não seja muito diferente.",
+   "enunciado": "A explicação eletroquímica para a corrosão mais rápida à beira-mar é que a maresia:",
+   "alternativas": {
+    "a": "eleva o potencial padrão de redução do ferro, o que faria o metal sofrer oxidação com mais facilidade no litoral",
+    "b": "fornece íons cloreto que sofreriam oxidação no lugar do ferro, transferindo os elétrons diretamente ao oxigênio",
+    "c": "deposita sais sobre o metal e forma um eletrólito que fecha o circuito entre as regiões anódicas e catódicas",
+    "d": "aquece a superfície metálica e assim tornaria espontânea uma oxidação que no interior não chega a ocorrer",
+    "e": "torna o ferro o agente oxidante do processo, papel que no interior caberia ao gás oxigênio presente no ar"
+   },
+   "resposta": "c",
+   "explicacao": "A corrosão é uma pilha em curto-circuito na superfície do metal e depende de um meio condutor entre as áreas onde o ferro sofre oxidação e as áreas onde o oxigênio sofre redução. A água salgada da maresia é um eletrólito muito melhor que a água de chuva, e por isso a ferrugem avança bem mais rápido no litoral.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-436",
+   "texto_apoio": "Nas pilhas alcalinas comuns, o zinco em pó e o dióxido de manganês estão separados por uma pasta de hidróxido de potássio. Com o uso, o zinco vai se consumindo.",
+   "enunciado": "Nessa pilha, o zinco e o dióxido de manganês atuam, respectivamente, como:",
+   "alternativas": {
+    "a": "agente redutor, que sofre oxidação, e agente oxidante, que sofre redução",
+    "b": "agente oxidante, que sofre redução, e agente redutor, que sofreria oxidação ao longo do uso da pilha",
+    "c": "agente redutor, que sofre redução, e agente oxidante, que sofreria oxidação ao longo do uso da pilha",
+    "d": "eletrólitos da pilha, cuja única função seria conduzir os íons entre os dois eletrodos do dispositivo",
+    "e": "catalisadores do processo, que seriam consumidos e regenerados a cada ciclo de descarga da pilha alcalina"
+   },
+   "resposta": "a",
+   "explicacao": "O zinco perde elétrons e vai se consumindo: sofre oxidação e, por provocar a redução alheia, é o agente redutor, no ânodo. O dióxido de manganês recebe esses elétrons, sofre redução e é o agente oxidante. O hidróxido de potássio é o eletrólito e não muda de número de oxidação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-437",
+   "texto_apoio": "Na eletrólise de uma solução aquosa de sulfato de sódio, com eletrodos inertes de platina, observa-se desprendimento de gás nos dois eletrodos e nenhum depósito metálico.",
+   "enunciado": "Os gases formados no cátodo e no ânodo são, respectivamente:",
+   "alternativas": {
+    "a": "gás oxigênio, por redução da água no polo negativo, e gás hidrogênio, por oxidação da água no polo positivo",
+    "b": "gás hidrogênio, por redução do íon Na⁺, e gás enxofre, por oxidação do íon sulfato presente na solução",
+    "c": "gás sódio, por redução do íon Na⁺ no polo negativo, e gás oxigênio, por oxidação da água no polo positivo",
+    "d": "gás hidrogênio nos dois eletrodos, já que apenas a água sofreria transformação em uma solução desse tipo",
+    "e": "gás hidrogênio, por redução da água, e gás oxigênio, por oxidação da água"
+   },
+   "resposta": "e",
+   "explicacao": "Nem o íon Na⁺ nem o íon sulfato são descarregados em meio aquoso: os dois pertencem ao grupo dos que perdem a disputa para a água. Sobra a própria água, que sofre redução no cátodo liberando gás hidrogênio e oxidação no ânodo liberando gás oxigênio. O sal apenas garante a condução da corrente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-438",
+   "texto_apoio": "Cascos de navios e tanques enterrados podem ser protegidos por corrente impressa: uma fonte externa força elétrons para dentro da estrutura metálica, mantida ligada a eletrodos auxiliares de grafite.",
+   "enunciado": "Essa técnica evita a corrosão porque o excesso de elétrons na estrutura:",
+   "alternativas": {
+    "a": "eleva o potencial padrão de redução do ferro acima do potencial do ouro, o que tornaria o casco um metal nobre",
+    "b": "impede a oxidação do ferro e faz do casco a região catódica da estrutura protegida",
+    "c": "provoca a oxidação controlada do ferro, formando uma camada de ferrugem aderente que protegeria o restante",
+    "d": "converte o gás oxigênio dissolvido na água do mar em agente redutor, incapaz de atacar o metal do casco",
+    "e": "transforma a estrutura no ânodo do sistema, e por isso os eletrodos de grafite passariam a se consumir aos poucos"
+   },
+   "resposta": "b",
+   "explicacao": "Corroer é perder elétrons. Se uma fonte externa injeta elétrons na estrutura, o ferro deixa de precisar cedê-los e a oxidação não ocorre: o metal passa a ser a região catódica, e a oxidação é empurrada para os eletrodos auxiliares. É a mesma ideia do metal de sacrifício, só que com fonte externa em vez de outro metal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-439",
+   "texto_apoio": "Amostras de zinco, de magnésio, de cobre e de prata foram colocadas separadamente em ácido clorídrico diluído. Houve efervescência nas duas primeiras e nada nas duas últimas. Potenciais padrão de redução, em volts: Mg²⁺/Mg = -2,37; Zn²⁺/Zn = -0,76; H⁺/H₂ = 0,00; Cu²⁺/Cu = +0,34; Ag⁺/Ag = +0,80.",
+   "enunciado": "O critério que separa os metais que reagiram dos que não reagiram é:",
+   "alternativas": {
+    "a": "reagem os metais de potencial de redução maior que o do hidrogênio, pois recebem elétrons do íon H⁺ do ácido",
+    "b": "reagem os metais de maior massa por mol de átomos, o que facilitaria a saída de elétrons da estrutura metálica",
+    "c": "reagem os metais que atuam como agente oxidante frente ao íon H⁺, sofrendo redução na superfície da amostra",
+    "d": "reagem os metais de potencial de redução menor que o do hidrogênio, pois cedem elétrons ao íon H⁺",
+    "e": "reagem os metais cuja camada de óxido é solúvel no ácido, sem que haja transferência de elétrons no processo"
+   },
+   "resposta": "d",
+   "explicacao": "O íon H⁺ só é reduzido a gás hidrogênio por um metal disposto a sofrer oxidação, isto é, de potencial de redução abaixo de zero. Magnésio (-2,37 V) e zinco (-0,76 V) satisfazem a condição; cobre (+0,34 V) e prata (+0,80 V), não, e por isso permanecem intactos. A efervescência observada é o gás hidrogênio formado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-440",
+   "texto_apoio": "Joias de ouro recuperadas de naufrágios séculos depois aparecem praticamente intactas, enquanto peças de ferro do mesmo navio se desfazem em óxidos.",
+   "enunciado": "A resistência do ouro nesse ambiente se explica porque esse metal:",
+   "alternativas": {
+    "a": "tem potencial de redução muito baixo, o que faria dele um metal de sacrifício natural diante do ferro do casco",
+    "b": "forma uma camada de óxido de ouro aderente, que bloquearia o contato do metal com a água salgada do fundo",
+    "c": "tem potencial de redução muito alto, o que torna sua oxidação pela água do mar não espontânea",
+    "d": "atua como agente redutor forte e por isso cede elétrons ao gás oxigênio antes de sofrer corrosão profunda",
+    "e": "é o único metal cuja corrosão exigiria a presença simultânea de gás oxigênio e de corrente elétrica externa"
+   },
+   "resposta": "c",
+   "explicacao": "Ouro e platina estão no alto da tabela de potenciais de redução: têm pouquíssima tendência a ceder elétrons. Para que o ouro sofresse oxidação seria preciso um agente oxidante mais forte que o gás oxigênio dissolvido, e a força eletromotriz do processo é negativa, ou seja, não espontânea. O ferro, no extremo oposto, oxida com facilidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-441",
+   "texto_apoio": "O dióxido de enxofre lançado por termelétricas e por veículos sofre transformações na atmosfera até chegar ao íon sulfato presente na chuva ácida.",
+   "enunciado": "Os números de oxidação do enxofre no SO₂ e no íon sulfato, SO₄²⁻, são, respectivamente:",
+   "alternativas": {
+    "a": "+4 e +6",
+    "b": "+2 e +6",
+    "c": "+4 e +8",
+    "d": "-2 e +6",
+    "e": "+6 e +4"
+   },
+   "resposta": "a",
+   "explicacao": "No SO₂, dois oxigênios somam -4 e a substância é neutra, então o enxofre tem nox +4. No sulfato, quatro oxigênios somam -8 e a carga do íon é -2, o que exige +6 para o enxofre. A passagem de +4 a +6 mostra oxidação do enxofre; o gás oxigênio, de potencial de redução elevado, é o agente oxidante dessa etapa atmosférica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-442",
+   "texto_apoio": "Telhas e parafusos de aço galvanizado passam por um banho de zinco fundido. Mesmo depois de arranhados até o metal de baixo, esses produtos resistem à ferrugem por anos. Potenciais padrão de redução: Zn²⁺/Zn = -0,76 V; Fe²⁺/Fe = -0,44 V.",
+   "enunciado": "A camada de zinco protege o aço arranhado porque o zinco:",
+   "alternativas": {
+    "a": "tem potencial de redução maior que o do ferro e por isso obriga o aço exposto a receber os elétrons do meio",
+    "b": "forma sobre o arranhão uma solda metálica que refecha a superfície e isola o aço do contato com a umidade",
+    "c": "reage com a água da chuva liberando gás hidrogênio, que empurraria o gás oxigênio para longe do arranhão",
+    "d": "funciona como agente oxidante do sistema e retira do ferro a possibilidade de atuar como agente redutor",
+    "e": "tem potencial de redução menor que o do ferro e sofre oxidação em seu lugar, mesmo já exposto o aço"
+   },
+   "resposta": "e",
+   "explicacao": "A galvanização não protege apenas por cobrir: com -0,76 V contra -0,44 V, o zinco é o ânodo do par e continua sofrendo oxidação mesmo depois que o arranhão expõe o aço. Por isso o aço galvanizado resiste ao risco, enquanto a folha de flandres, revestida de estanho, corrói mais rápido justamente na parte arranhada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-443",
+   "texto_apoio": "Na pilha seca comum, um copo de zinco serve ao mesmo tempo de recipiente e de eletrodo, e um bastão central de grafite fica mergulhado numa pasta úmida. Pilhas velhas costumam vazar por furos no copo.",
+   "enunciado": "O vazamento das pilhas velhas se explica porque o copo de zinco:",
+   "alternativas": {
+    "a": "é o polo positivo do dispositivo e sofre redução, o que engrossaria a parede até rompê-la pela pressão interna",
+    "b": "é o ânodo do dispositivo e vai sendo consumido por oxidação até perfurar a parede do recipiente",
+    "c": "serve apenas de invólucro isolante e se rompe pelo calor liberado durante a descarga da pilha em uso contínuo",
+    "d": "atua como agente oxidante da pasta interna, papel que o faria receber elétrons e perder resistência mecânica",
+    "e": "recebe os elétrons vindos do bastão de grafite e por isso acumula zinco metálico até deformar o recipiente"
+   },
+   "resposta": "b",
+   "explicacao": "O copo de zinco é o ânodo: ele sofre oxidação a Zn²⁺ e vai literalmente se dissolvendo enquanto a pilha funciona. Quando a parede afina o suficiente, a pasta eletrolítica escapa. O bastão de grafite é apenas o eletrodo inerte que conduz elétrons para a redução que ocorre na pasta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-444",
+   "texto_apoio": "Uma chapa foi niquelada em uma célula eletrolítica com banho de íons Ni²⁺, sob corrente de 2,0 A durante 9 650 s. No cátodo ocorre a redução Ni²⁺ + 2 e⁻ → Ni; a constante de Faraday vale 96 500 C por mol de elétrons e 1 mol de níquel tem 59 g.",
+   "enunciado": "A massa de níquel depositada sobre a chapa é de:",
+   "alternativas": {
+    "a": "11,8 g",
+    "b": "3,0 g",
+    "c": "0,2 g",
+    "d": "5,9 g",
+    "e": "59,0 g"
+   },
+   "resposta": "d",
+   "explicacao": "A carga vale 2,0 × 9 650 = 19300 C, o que dá 19 300 / 96 500 = 0,2 mol de elétrons. Como a redução no cátodo consome 2 elétrons por íon Ni²⁺, formam-se 0,1 mol de níquel, ou 0,1 × 59 = 5,9 g. Ignorar a carga 2 do cátion levaria a 11,8 g; no ânodo ocorre a oxidação correspondente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-445",
+   "texto_apoio": "Quem tem restauração metálica no dente sente um choque desagradável ao morder papel-alumínio. A saliva funciona como meio condutor entre o alumínio e a liga metálica da restauração.",
+   "enunciado": "A sensação de choque se explica porque, nessa situação, forma-se:",
+   "alternativas": {
+    "a": "uma célula eletrolítica, com a saliva funcionando como fonte externa de corrente contínua para o circuito",
+    "b": "um curto-circuito puramente térmico, em que o metal apenas conduz o calor da boca até o nervo do dente",
+    "c": "uma pilha, com o alumínio sofrendo oxidação e a corrente atravessando a polpa do dente",
+    "d": "uma pilha, com o alumínio sofrendo redução e a liga da restauração cedendo elétrons ao papel-alumínio",
+    "e": "um capacitor entre os dois metais, no qual a saliva atuaria como isolante e acumularia cargas opostas"
+   },
+   "resposta": "c",
+   "explicacao": "Dois metais diferentes ligados por um eletrólito formam uma pilha, e a saliva cumpre esse papel. O alumínio tem potencial de redução bem menor que o das ligas de restauração, então sofre oxidação e é o ânodo; a corrente resultante atravessa o dente e estimula o nervo. É corrosão galvânica dentro da boca.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-446",
+   "texto_apoio": "Talheres de prata escurecem com o tempo pela formação de sulfeto de prata. Uma receita caseira devolve o brilho: mergulhar as peças em água quente com sal e bicarbonato, dentro de uma vasilha forrada de papel-alumínio.",
+   "enunciado": "A recuperação do brilho ocorre porque, nessa montagem:",
+   "alternativas": {
+    "a": "o alumínio sofre oxidação e devolve elétrons à prata do sulfeto, que volta a ser prata metálica",
+    "b": "a prata sofre oxidação e passa para o papel-alumínio, deixando os talheres com a superfície nova e polida",
+    "c": "o sal e o bicarbonato dissolvem o sulfeto de prata sem que haja transferência de elétrons entre os metais",
+    "d": "o alumínio sofre redução na superfície do talher e forma uma película metálica que cobre a mancha escura",
+    "e": "a água quente decompõe o sulfeto em enxofre e prata, e o papel-alumínio apenas retém o enxofre liberado"
+   },
+   "resposta": "a",
+   "explicacao": "A montagem é uma pilha: o alumínio, de potencial de redução muito menor que o da prata, atua como agente redutor e cede elétrons; o íon prata do sulfeto sofre redução e volta ao talher como metal. A água com sal e bicarbonato é o eletrólito que fecha o circuito. Ao contrário do polimento com abrasivo, esse processo não desgasta a peça.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-447",
+   "texto_apoio": "A hemoglobina transporta gás oxigênio graças ao ferro de nox +2 presente no grupo heme. Alguns agentes, como nitritos em excesso, convertem esse ferro em Fe³⁺, e a hemoglobina alterada deixa de transportar oxigênio, quadro chamado metemoglobinemia.",
+   "enunciado": "Do ponto de vista eletroquímico, a passagem de Fe²⁺ a Fe³⁺ na hemoglobina corresponde a:",
+   "alternativas": {
+    "a": "uma redução do ferro, que recebe um elétron, sendo o nitrito o agente redutor envolvido nesse processo",
+    "b": "uma oxidação do ferro, que recebe um elétron do nitrito e por isso deixa de se ligar ao gás oxigênio",
+    "c": "uma redução do ferro, que perde um elétron para o nitrito e assume nox mais alto no grupo heme alterado",
+    "d": "uma troca de ligantes sem transferência de elétrons, já que o nox do ferro permanece igual a +2 no processo",
+    "e": "uma oxidação do ferro, que perde um elétron, sendo o nitrito o agente oxidante do processo"
+   },
+   "resposta": "e",
+   "explicacao": "Subir de +2 para +3 significa perder um elétron, o que por definição é oxidação. Quem provoca essa perda — o nitrito — sofre redução e é o agente oxidante. Só o Fe²⁺ liga o gás oxigênio de forma reversível, e por isso a metemoglobinemia leva à cianose. O tratamento com azul de metileno devolve o ferro ao estado +2.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "med-quimica-448",
+   "texto_apoio": "Piscinas com gerador de cloro dispensam a compra do produto: adiciona-se sal comum à água e uma célula instalada na tubulação faz a eletrólise contínua da salmoura diluída enquanto a bomba funciona.",
+   "enunciado": "O cloro sanitizante surge nessa célula porque o íon cloreto:",
+   "alternativas": {
+    "a": "sofre redução no polo negativo, recebendo elétrons e formando gás cloro que se dissolve na água da piscina",
+    "b": "sofre oxidação no ânodo, perdendo elétrons e formando gás cloro, que se dissolve na água da piscina",
+    "c": "sofre oxidação no polo negativo, o que liberaria ao mesmo tempo gás cloro e gás hidrogênio nesse eletrodo",
+    "d": "atua como agente oxidante da água, que por sua vez cederia elétrons e liberaria o gás cloro dissolvido",
+    "e": "se decompõe pelo calor gerado na célula, sem que haja transferência de elétrons entre os eletrodos do sistema"
+   },
+   "resposta": "b",
+   "explicacao": "O cloreto é um ânion, migra para o ânodo e ali perde elétrons: é oxidação, com formação de gás cloro. No cátodo a água sofre redução e libera gás hidrogênio. O cloro dissolvido forma as espécies que desinfetam a água, e o cloreto acaba regenerado, o que explica por que o sal quase não precisa ser reposto.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "quimica-atomistica-ligacoes": [
@@ -14742,6 +15388,736 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A combustão incompleta produz CO em vez de CO2; usando a lei de Hess, o ΔH da combustão completa (-5471 kJ) é igual ao ΔH da combustão incompleta somado a 8 vezes a conversão de CO em CO2 (8×(-283)=-2264 kJ). Logo, ΔH(incompleta) = -5471-(-2264) = -3207 kJ.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-368",
+   "texto_apoio": "Na queima de carvão vegetal em fornos com pouca ventilação, a transformação do carbono ocorre em duas etapas, cujas variações de entalpia foram medidas a 25 °C e 1 atm:\n\nI. C(grafite) + ½ O2(g) → CO(g)   entalpia = -110 kJ\nII. CO(g) + ½ O2(g) → CO2(g)   entalpia = -283 kJ",
+   "enunciado": "Aplicando a lei de Hess, a variação de entalpia da transformação direta de C(grafite) em CO2(g) é de:",
+   "alternativas": {
+    "a": "-173 kJ",
+    "b": "+393 kJ",
+    "c": "-393 kJ",
+    "d": "-283 kJ",
+    "e": "-503 kJ"
+   },
+   "resposta": "c",
+   "explicacao": "A lei de Hess permite somar as duas etapas, porque a entalpia é função de estado e depende apenas dos estados inicial e final: (-110) + (-283) = -393 kJ. Subtrair as etapas daria -173 kJ e inverter o sinal daria 393 kJ; a etapa II sozinha, -283 kJ, descreve apenas a oxidação do monóxido. O valor negativo confirma o processo exotérmico e espontâneo nas condições do forno.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-369",
+   "texto_apoio": "O diagrama de energia de uma reação em fase gasosa registra os reagentes a 80 kJ, o complexo ativado a 200 kJ e os produtos a 30 kJ.",
+   "enunciado": "A energia de ativação da reação direta, a energia de ativação da reação inversa e a variação de entalpia do processo valem, respectivamente:",
+   "alternativas": {
+    "a": "120 kJ, 170 kJ e -50 kJ",
+    "b": "120 kJ, 170 kJ e +50 kJ",
+    "c": "170 kJ, 120 kJ e -50 kJ",
+    "d": "200 kJ, 30 kJ e -50 kJ",
+    "e": "120 kJ, 200 kJ e -110 kJ"
+   },
+   "resposta": "a",
+   "explicacao": "A energia de ativação direta é a subida dos reagentes ao complexo ativado: 200 - 80 = 120 kJ. A inversa é a subida dos produtos ao mesmo topo: 200 - 30 = 170 kJ. A variação de entalpia é a diferença entre produtos e reagentes: 30 - 80 = -50 kJ, isto é, processo exotérmico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-370",
+   "texto_apoio": "Uma indústria química passou a usar um catalisador sólido em uma etapa exotérmica que antes era conduzida a 500 °C e hoje ocorre a 350 °C, mantida a mesma produção diária.",
+   "enunciado": "Sobre o efeito desse catalisador no processo, é correto afirmar que ele:",
+   "alternativas": {
+    "a": "diminui a energia de ativação da reação e deixa a variação de entalpia do processo inalterada",
+    "b": "abaixa a variação de entalpia da reação e, com isso, eleva a energia de ativação do processo direto",
+    "c": "torna a reação mais exotérmica, porque abaixa a entalpia dos produtos em relação à dos reagentes iniciais",
+    "d": "eleva a energia liberada por grama de reagente consumido, o que compensa a temperatura mais baixa do forno",
+    "e": "empurra o processo no sentido dos produtos porque é consumido ao longo da reação e precisa ser reposto a cada lote"
+   },
+   "resposta": "a",
+   "explicacao": "O catalisador cria um caminho alternativo de menor energia de ativação, o que aumenta a velocidade da reação e permite operar a temperatura mais baixa. Ele não muda os estados inicial e final, de modo que a variação de entalpia continua a mesma; também não é consumido, pois é regenerado ao fim de cada ciclo catalítico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-371",
+   "texto_apoio": "Entalpias padrão de formação a 25 °C e 1 atm, em kJ/mol: CH4(g) = -75; CO2(g) = -394; H2O(l) = -286.",
+   "enunciado": "Para a combustão completa do metano com formação de água líquida, CH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l), a variação de entalpia é de:",
+   "alternativas": {
+    "a": "-605 kJ/mol",
+    "b": "-891 kJ/mol",
+    "c": "+891 kJ/mol",
+    "d": "-1041 kJ/mol",
+    "e": "-803 kJ/mol"
+   },
+   "resposta": "b",
+   "explicacao": "A variação de entalpia é a soma das entalpias de formação dos produtos menos a dos reagentes, cada uma multiplicada pelo seu coeficiente: [(-394) + 2(-286)] - (-75) = -891 kJ/mol. Esquecer o coeficiente 2 da água leva a -605 kJ/mol; somar em vez de subtrair a entalpia do metano leva a -1041 kJ/mol; usar vapor de água em lugar de água líquida leva a -803 kJ/mol. O sinal negativo mostra processo exotérmico e espontâneo nas condições ambientes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-372",
+   "texto_apoio": "Na síntese industrial da amônia, N2(g) + 3 H2(g) → 2 NH3(g), medem-se a 298 K uma variação de entalpia de -92 kJ e uma variação de entropia de -0,20 kJ/K.",
+   "enunciado": "A variação de energia livre de Gibbs dessa transformação a 298 K e a conclusão sobre sua espontaneidade são, respectivamente:",
+   "alternativas": {
+    "a": "-151,6 kJ e processo espontâneo",
+    "b": "+32,4 kJ e processo não espontâneo",
+    "c": "-92,0 kJ e processo espontâneo",
+    "d": "-32,4 kJ e processo espontâneo",
+    "e": "+59,6 kJ e processo não espontâneo"
+   },
+   "resposta": "d",
+   "explicacao": "A energia livre de Gibbs vale entalpia menos temperatura vezes entropia: (-92) - 298 × (-0,20) = -32,4 kJ. Como o resultado é negativo, o processo é espontâneo a 298 K. Somar em vez de subtrair o termo entrópico leva a -151,6 kJ e ignorar a entropia deixaria o resultado em -92,0 kJ.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-373",
+   "texto_apoio": "Dois comprimidos efervescentes idênticos foram colocados em copos com a mesma massa de água à mesma temperatura: um inteiro e o outro triturado até virar pó fino. O triturado liberou gás em poucos segundos; o inteiro levou mais de um minuto.",
+   "enunciado": "O comportamento do comprimido triturado se explica porque o aumento da superfície de contato:",
+   "alternativas": {
+    "a": "abaixa a energia de ativação do processo e converte a transformação de endotérmica em exotérmica, liberando mais calor por comprimido",
+    "b": "aumenta a variação de entalpia da transformação e, com isso, libera mais gás por grama de comprimido usado no ensaio",
+    "c": "funciona como catalisador do processo, sendo consumido durante a efervescência e reposto ao final do experimento",
+    "d": "eleva a frequência de choques eficazes entre as partículas reagentes, o que aumenta a velocidade da reação",
+    "e": "eleva a temperatura do meio e, por essa razão, torna espontâneo um processo que antes tinha energia livre positiva"
+   },
+   "resposta": "d",
+   "explicacao": "Triturar o comprimido não altera a entalpia nem a energia de ativação do processo: altera apenas a área exposta. Com mais partículas na superfície, cresce a frequência de colisões com orientação e energia adequadas, e a velocidade da reação aumenta. O calor total liberado por comprimido é o mesmo nos dois copos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-374",
+   "texto_apoio": "Para a transformação 2 NO(g) + O2(g) → 2 NO2(g), medidas experimentais a temperatura constante levaram à lei de velocidade v = k · [NO]² · [O2].",
+   "enunciado": "Ao dobrar a concentração de NO e manter inalterada a de O2, a velocidade da reação passa a ser, em relação à inicial:",
+   "alternativas": {
+    "a": "o dobro",
+    "b": "o triplo",
+    "c": "o quádruplo",
+    "d": "a metade",
+    "e": "oito vezes maior"
+   },
+   "resposta": "c",
+   "explicacao": "A lei de velocidade é de segunda ordem em NO, de modo que dobrar essa concentração multiplica a velocidade da reação por 2² = 4. O expoente vem do experimento, não dos coeficientes da equação. A constante k depende da temperatura e da energia de ativação, e a transformação, exotérmica, não tem sua entalpia afetada pela concentração.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-375",
+   "texto_apoio": "Energias médias de ligação, em kJ/mol: H—H = 436; Cl—Cl = 243; H—Cl = 431.",
+   "enunciado": "Para a transformação H2(g) + Cl2(g) → 2 HCl(g), a variação de entalpia estimada a partir desses valores é de:",
+   "alternativas": {
+    "a": "+183 kJ/mol",
+    "b": "-183 kJ/mol",
+    "c": "+248 kJ/mol",
+    "d": "-248 kJ/mol",
+    "e": "-1541 kJ/mol"
+   },
+   "resposta": "b",
+   "explicacao": "Romper ligações consome energia e formá-las libera energia: (436 + 243) - 2 × 431 = -183 kJ/mol. Esquecer o coeficiente 2 do HCl produz 248 kJ/mol e inverter o sinal produz 183 kJ/mol. O saldo negativo indica processo exotérmico, o que favorece a espontaneidade da transformação nas condições padrão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-376",
+   "texto_apoio": "Em uma bomba calorimétrica, a queima de 0,50 g de uma amostra de carvão mineral elevou em 1,2 °C a temperatura de 2,0 kg de água. Considere o calor específico da água igual a 4,2 J/(g·°C) e despreze a capacidade térmica do recipiente.",
+   "enunciado": "A energia liberada por grama de carvão queimado, medida nesse ensaio, é de aproximadamente:",
+   "alternativas": {
+    "a": "10 kJ/g",
+    "b": "40 kJ/g",
+    "c": "5,0 kJ/g",
+    "d": "50 kJ/g",
+    "e": "20 kJ/g"
+   },
+   "resposta": "e",
+   "explicacao": "A água recebeu 2000 × 4,2 × 1,2 = 10080 J, ou 10,08 kJ. Dividindo pela massa queimada, 10,08 / 0,50 ≈ 20 kJ/g, que é o poder calorífico do carvão. Esquecer a divisão pela massa daria cerca de 10 kJ/g. O sinal da entalpia de combustão é negativo, pois o processo é exotérmico e espontâneo nas condições do ensaio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-377",
+   "texto_apoio": "A produção de cal virgem parte do calcário, segundo CaCO3(s) → CaO(s) + CO2(g), com entalpia de +178 kJ/mol. O forno industrial opera perto de 900 °C.",
+   "enunciado": "A necessidade de manter o forno a temperatura tão elevada se explica porque a transformação:",
+   "alternativas": {
+    "a": "é exotérmica e precisa de calor apenas no início, para vencer a energia de ativação da primeira porção de calcário do forno",
+    "b": "é endotérmica e só se torna espontânea em temperaturas altas, nas quais o termo entrópico supera o entálpico",
+    "c": "tem variação de entropia negativa, de modo que a espontaneidade aparece somente sob pressão elevada de gás carbônico dentro do forno",
+    "d": "libera calor durante a decomposição, e a temperatura alta do forno serve para dissipar o excesso de energia gerado pelo calcário",
+    "e": "já tem energia livre negativa a 25 °C, e a temperatura elevada é usada apenas para separar a cal do gás carbônico ao final"
+   },
+   "resposta": "b",
+   "explicacao": "A entalpia positiva mostra processo endotérmico. Como um sólido gera um sólido mais um gás, a variação de entropia é positiva, e o produto entre temperatura e entropia cresce com o aquecimento até superar a entalpia: só então a energia livre fica negativa e a decomposição se torna espontânea. Daí a temperatura de operação do forno.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-378",
+   "texto_apoio": "Alimentos guardados na geladeira estragam bem mais devagar do que os deixados sobre a bancada da cozinha, ainda que as transformações químicas envolvidas sejam as mesmas nos dois casos.",
+   "enunciado": "Do ponto de vista da cinética química, a explicação para essa diferença é que a temperatura mais baixa:",
+   "alternativas": {
+    "a": "diminui a fração de partículas com energia igual ou superior à energia de ativação, tornando raros os choques eficazes",
+    "b": "eleva a energia de ativação das transformações de degradação e, com isso, converte processos exotérmicos em endotérmicos dentro do alimento",
+    "c": "torna positiva a variação de entalpia da degradação, o que impede o processo de ocorrer enquanto o alimento estiver refrigerado",
+    "d": "age como catalisador negativo do processo, sendo consumida ao longo das transformações que degradam o alimento na geladeira",
+    "e": "aumenta a entropia do sistema e, por essa razão, deixa a decomposição menos espontânea abaixo de dez graus Celsius"
+   },
+   "resposta": "a",
+   "explicacao": "A energia de ativação é uma propriedade do caminho da reação e não muda com a temperatura. O que muda é a distribuição de energia das partículas: a frio, poucas atingem o valor necessário para formar o complexo ativado, e a velocidade da reação cai. A variação de entalpia da degradação também permanece a mesma.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-379",
+   "texto_apoio": "Variações de entalpia medidas a 25 °C e 1 atm:\n\nI. C(grafite) + O2(g) → CO2(g)   -394 kJ\nII. H2(g) + ½ O2(g) → H2O(l)   -286 kJ\nIII. C2H6(g) + 7/2 O2(g) → 2 CO2(g) + 3 H2O(l)   -1560 kJ",
+   "enunciado": "Pela lei de Hess, a entalpia de formação do etano, C2H6(g), a partir das substâncias simples correspondentes é de:",
+   "alternativas": {
+    "a": "+86 kJ",
+    "b": "+880 kJ",
+    "c": "-1646 kJ",
+    "d": "-3206 kJ",
+    "e": "-86 kJ"
+   },
+   "resposta": "e",
+   "explicacao": "Somam-se as etapas I (multiplicada por 2) e II (multiplicada por 3) e subtrai-se a etapa III, invertida: 2(-394) + 3(-286) - (-1560) = -86 kJ. Ignorar os coeficientes leva a 880 kJ; esquecer de somar a etapa invertida leva a -1646 kJ; deixar a etapa III sem inverter o sinal leva a -3206 kJ.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-380",
+   "texto_apoio": "Um gráfico de energia potencial em função do caminho da reação traz duas curvas para o mesmo processo. A curva 1 tem máximo em 150 kJ e a curva 2, máximo em 90 kJ; nas duas, os reagentes estão em 40 kJ e os produtos, em 10 kJ.",
+   "enunciado": "Comparando as duas curvas, é correto concluir que a curva 2 descreve o processo:",
+   "alternativas": {
+    "a": "conduzido sem catalisador: a energia de ativação subiu de 50 kJ para 110 kJ e a entalpia passou a valer +30 kJ no sentido direto",
+    "b": "conduzido com catalisador: a variação de entalpia passou de -30 kJ para -90 kJ ao longo do caminho da reação registrado no gráfico",
+    "c": "conduzido com catalisador: a energia de ativação caiu de 110 kJ para 50 kJ e a entalpia continua em -30 kJ",
+    "d": "conduzido a temperatura mais alta: o aquecimento abaixa a entalpia dos produtos e torna a transformação mais exotérmica do que era antes",
+    "e": "conduzido com catalisador: a energia de ativação caiu de 150 kJ para 90 kJ e a variação de entalpia passou de negativa a positiva"
+   },
+   "resposta": "c",
+   "explicacao": "A energia de ativação é medida do patamar dos reagentes até o máximo da curva: 150 - 40 = 110 kJ na curva 1 e 90 - 40 = 50 kJ na curva 2. Como os patamares de reagentes e produtos não se moveram, a variação de entalpia continua sendo 10 - 40 = -30 kJ. Abaixar apenas a barreira é exatamente o que faz um catalisador.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-381",
+   "texto_apoio": "Por convenção internacional, atribui-se entalpia padrão de formação igual a zero a certas substâncias, tomadas como referência para as demais.",
+   "enunciado": "Nessa convenção, a entalpia padrão de formação é nula para:",
+   "alternativas": {
+    "a": "a água líquida, H2O(l), a 25 °C e 1 atm, por ser a substância de referência mais abundante na superfície do planeta",
+    "b": "o ozônio, O3(g), a 25 °C e 1 atm, por também ser uma substância simples constituída apenas pelo elemento oxigênio",
+    "c": "o gás carbônico, CO2(g), a 25 °C e 1 atm, por ser o produto final da combustão completa dos compostos de carbono",
+    "d": "o gás oxigênio, O2(g), a 25 °C e 1 atm, por ser a forma mais estável do elemento oxigênio nessas condições",
+    "e": "o diamante, C(diamante), a 25 °C e 1 atm, por ser a forma alotrópica do carbono de maior dureza que se conhece"
+   },
+   "resposta": "d",
+   "explicacao": "A referência é a substância simples na forma alotrópica mais estável a 25 °C e 1 atm: O2(g), e não O3(g); C(grafite), e não C(diamante). Água e gás carbônico são substâncias compostas e têm entalpia de formação diferente de zero. Essa convenção é o que permite calcular a entalpia de uma transformação pela lei de Hess.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-382",
+   "texto_apoio": "Em um ensaio conduzido a temperatura constante, a concentração de um reagente caiu de 0,80 mol/L para 0,20 mol/L ao longo de 4,0 minutos.",
+   "enunciado": "A velocidade média de consumo desse reagente, no intervalo considerado, é de:",
+   "alternativas": {
+    "a": "0,20 mol/(L·min)",
+    "b": "0,15 mol/(L·min)",
+    "c": "0,60 mol/(L·min)",
+    "d": "0,05 mol/(L·min)",
+    "e": "1,50 mol/(L·min)"
+   },
+   "resposta": "b",
+   "explicacao": "A velocidade média é a variação da concentração dividida pelo intervalo de tempo: (0,80 - 0,20) / 4,0 = 0,15 mol/(L·min). Usar apenas a concentração inicial ou apenas a final, ou esquecer de dividir pelo tempo, produz os demais valores. A velocidade da reação cai ao longo do ensaio, embora a entalpia do processo, exotérmico e espontâneo, seja a mesma do início ao fim.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-383",
+   "texto_apoio": "A vaporização da água a 100 °C absorve 40,7 kJ/mol. É esse processo que explica a sensação de frescor produzida pela evaporação do suor na pele.",
+   "enunciado": "Do ponto de vista termoquímico, a evaporação do suor resfria o corpo porque esse processo:",
+   "alternativas": {
+    "a": "é endotérmico e retira calor da pele para afastar umas das outras as partículas de água do suor",
+    "b": "é exotérmico, e o calor que ele libera se dispersa no ar em vez de retornar para a superfície da pele aquecida",
+    "c": "tem entalpia negativa, e a energia liberada acaba sendo consumida para elevar a entropia do vapor de água formado",
+    "d": "diminui a entropia da água do suor, e essa perda de desordem vem acompanhada de queda da temperatura da pele",
+    "e": "tem energia livre negativa, e um processo espontâneo resfria o meio em que ocorre por causa do trabalho realizado"
+   },
+   "resposta": "a",
+   "explicacao": "Vaporizar exige energia para vencer as interações entre as partículas do líquido: a entalpia de vaporização é positiva, e o processo é endotérmico. Esse calor sai da pele, que esfria. A espontaneidade da evaporação a temperatura ambiente vem do ganho de entropia na passagem de líquido a vapor, não de liberação de calor.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-384",
+   "texto_apoio": "Uma vela acesa dentro de um frasco com oxigênio puro queima com chama muito mais intensa do que ao ar livre, onde o oxigênio corresponde a cerca de 21% do volume da mistura.",
+   "enunciado": "Do ponto de vista da cinética química, a chama mais intensa em oxigênio puro decorre de:",
+   "alternativas": {
+    "a": "queda da energia de ativação da combustão, que no oxigênio puro passaria a ocorrer sem necessidade de ignição prévia externa",
+    "b": "aumento da entalpia liberada por grama de parafina queimada, já que o oxigênio puro é mais energético que o do ar atmosférico",
+    "c": "inversão do sinal da variação de entalpia do processo, que deixa de ser endotérmico e passa a ser exotérmico no frasco fechado",
+    "d": "ação catalítica do próprio oxigênio, que é consumido no início da queima e depois regenerado ao final de cada ciclo da chama",
+    "e": "maior número de choques eficazes por segundo entre as partículas, o que eleva a velocidade da reação"
+   },
+   "resposta": "e",
+   "explicacao": "A energia liberada por grama de parafina e a energia de ativação da combustão são as mesmas nos dois casos. O que muda é a concentração de oxigênio: com mais partículas de comburente por unidade de volume, cresce a frequência de choques eficazes e a velocidade da reação aumenta, o que se vê como chama mais intensa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-385",
+   "texto_apoio": "A catalase, presente no fígado e no sangue, decompõe o peróxido de hidrogênio em água e gás oxigênio. Sem ela, a mesma decomposição à temperatura do corpo humano é lenta o bastante para permitir o acúmulo do peróxido nas células.",
+   "enunciado": "A catalase acelera essa decomposição porque:",
+   "alternativas": {
+    "a": "aumenta a energia liberada pela decomposição do peróxido, o que torna o processo mais exotérmico do que seria sem ela no organismo",
+    "b": "eleva a temperatura local do tecido hepático e, por essa via, aumenta a velocidade da reação de decomposição do peróxido",
+    "c": "é consumida ao longo da decomposição, o que empurra o processo no sentido dos produtos até esgotar o peróxido presente na célula",
+    "d": "oferece um caminho alternativo de menor energia de ativação, sem alterar a variação de entalpia do processo",
+    "e": "torna espontâneo um processo que sem ela teria variação de energia livre positiva à temperatura de trinta e sete graus Celsius"
+   },
+   "resposta": "d",
+   "explicacao": "Enzimas são catalisadores biológicos: abaixam a energia de ativação ao estabilizar o complexo ativado, e por isso a velocidade da reação cresce muito. A decomposição do peróxido já é espontânea e exotérmica sem a enzima; o que faltava era rapidez. A entalpia do processo e a energia livre não mudam com a catálise.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-386",
+   "texto_apoio": "Para muitas transformações químicas, um aumento de apenas 10 °C chega a dobrar a velocidade da reação, ainda que a variação de entalpia do processo permaneça exatamente a mesma.",
+   "enunciado": "Esse comportamento é explicado por que a elevação da temperatura:",
+   "alternativas": {
+    "a": "abaixa a energia de ativação da transformação, aproximando reagentes e complexo ativado no diagrama de energia do processo",
+    "b": "torna menor a entalpia dos produtos, de modo que cada colisão eficaz passa a liberar uma quantidade maior de calor ao meio",
+    "c": "aumenta a fração de partículas com energia acima da energia de ativação e também a frequência dos choques",
+    "d": "eleva a entropia dos reagentes até o ponto em que a energia livre se anula e a transformação química deixa de progredir",
+    "e": "substitui o complexo ativado por um catalisador térmico gerado no próprio meio de reação a partir dos reagentes aquecidos"
+   },
+   "resposta": "c",
+   "explicacao": "Aquecer não mexe na barreira: a energia de ativação é a mesma. O que muda é a distribuição de energia das partículas, que desloca uma fração muito maior delas acima da barreira, além de aumentar a frequência dos choques. Por isso a velocidade da reação cresce tanto com pequenas variações de temperatura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-387",
+   "texto_apoio": "Poder calorífico de dois combustíveis usados em caldeiras industriais, em kJ por grama: gás natural = 55; carvão mineral = 33.",
+   "enunciado": "Para que uma caldeira libere 1,1 × 10⁴ kJ, as massas queimadas de cada combustível seriam, respectivamente, de cerca de:",
+   "alternativas": {
+    "a": "333 g de gás natural e 200 g de carvão mineral",
+    "b": "200 g de gás natural e 200 g de carvão mineral",
+    "c": "550 g de gás natural e 330 g de carvão mineral",
+    "d": "20 g de gás natural e 33 g de carvão mineral",
+    "e": "200 g de gás natural e 333 g de carvão mineral"
+   },
+   "resposta": "e",
+   "explicacao": "Basta dividir a energia desejada pelo poder calorífico de cada combustível: 11000 / 55 = 200 g de gás natural e 11000 / 33 ≈ 333 g de carvão mineral. Quanto maior o poder calorífico, menor a massa queimada para a mesma energia. Como as duas queimas são exotérmicas e espontâneas, a entalpia de combustão é negativa nos dois casos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-388",
+   "texto_apoio": "A entropia mede o grau de dispersão da energia e da matéria em um sistema, e costuma crescer quando aumenta a liberdade de movimento das partículas.",
+   "enunciado": "Entre os processos indicados, aquele em que a entropia do sistema aumenta é:",
+   "alternativas": {
+    "a": "a condensação do vapor de água sobre as paredes externas de um copo com bebida gelada em dia quente",
+    "b": "a solidificação da água líquida a 0 °C dentro do congelador de uma geladeira doméstica comum",
+    "c": "a formação de amônia gasosa a partir de N2(g) e H2(g), processo que ocorre com contração de volume",
+    "d": "a deposição do vapor de iodo sobre uma superfície fria de vidro, formando cristais escuros brilhantes",
+    "e": "a sublimação do gelo-seco, CO2(s) → CO2(g), a -78 °C sob pressão ambiente"
+   },
+   "resposta": "e",
+   "explicacao": "Na passagem de sólido a gás, as partículas ganham liberdade de movimento e a entropia do sistema aumenta. Condensação, solidificação e deposição caminham no sentido oposto; a formação da amônia parte de quatro volumes de gás e chega a dois, o que também reduz a entropia. A entalpia de sublimação do gelo-seco, por sua vez, é positiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-389",
+   "texto_apoio": "Em uma transformação elementar em fase gasosa, a energia de ativação da reação direta vale 85 kJ/mol e a variação de entalpia do processo direto vale -40 kJ/mol.",
+   "enunciado": "A energia de ativação da reação inversa é de:",
+   "alternativas": {
+    "a": "+45 kJ/mol",
+    "b": "+85 kJ/mol",
+    "c": "+125 kJ/mol",
+    "d": "-40 kJ/mol",
+    "e": "-125 kJ/mol"
+   },
+   "resposta": "c",
+   "explicacao": "No diagrama de energia, a barreira inversa é medida do patamar dos produtos até o mesmo complexo ativado: 85 - (-40) = 125 kJ/mol. Subtrair em vez de somar produz 45 kJ/mol. Como a barreira inversa é maior que a direta, o processo direto é exotérmico, o que já se lê no sinal negativo da entalpia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-390",
+   "texto_apoio": "Entalpias de combustão a 25 °C e 1 atm, em kJ/mol: C(grafite) = -394; H2(g) = -286; C2H2(g) = -1300. A água formada está no estado líquido em todos os casos.",
+   "enunciado": "Pela lei de Hess, a entalpia de formação do acetileno, C2H2(g), a partir das substâncias simples é de:",
+   "alternativas": {
+    "a": "-226 kJ/mol",
+    "b": "+620 kJ/mol",
+    "c": "-620 kJ/mol",
+    "d": "+226 kJ/mol",
+    "e": "-2374 kJ/mol"
+   },
+   "resposta": "d",
+   "explicacao": "Somam-se as combustões das substâncias simples, com seus coeficientes, e subtrai-se a do acetileno: 2(-394) + (-286) - (-1300) = 226 kJ/mol. Ignorar o coeficiente 2 do carbono produz 620 kJ/mol; deixar de inverter a combustão do acetileno produz -2374 kJ/mol. A entalpia positiva mostra que o acetileno é uma substância endotérmica, o que ajuda a explicar sua instabilidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-391",
+   "texto_apoio": "Três ensaios da transformação A + B → C, todos à mesma temperatura, forneceram:\n\nEnsaio 1: [A] = 0,10; [B] = 0,10; velocidade = 2,0 × 10⁻³\nEnsaio 2: [A] = 0,20; [B] = 0,10; velocidade = 8,0 × 10⁻³\nEnsaio 3: [A] = 0,10; [B] = 0,20; velocidade = 2,0 × 10⁻³\n\n(concentrações em mol/L e velocidades em mol/(L·s))",
+   "enunciado": "A lei de velocidade compatível com esses dados e a ordem global do processo são:",
+   "alternativas": {
+    "a": "v = k · [A] · [B], de ordem global 2",
+    "b": "v = k · [A]² · [B], de ordem global 3",
+    "c": "v = k · [A]², de ordem global 2",
+    "d": "v = k · [A] · [B]², de ordem global 3",
+    "e": "v = k · [A]² · [B]², de ordem global 4"
+   },
+   "resposta": "c",
+   "explicacao": "Do ensaio 1 para o 2, dobrar [A] multiplicou a velocidade da reação por 4, o que indica ordem 2 em A. Do ensaio 1 para o 3, dobrar [B] não alterou a velocidade, o que indica ordem 0 em B. Logo v = k · [A]², de ordem global 2. Os expoentes vêm do experimento, não dos coeficientes; a entalpia do processo, exotérmico, não interfere na lei de velocidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-392",
+   "texto_apoio": "Uma transformação em fase gasosa ocorre em duas etapas elementares:\n\nEtapa I (lenta): NO2 + NO2 → NO3 + NO\nEtapa II (rápida): NO3 + CO → NO2 + CO2",
+   "enunciado": "A lei de velocidade do processo global e a justificativa correspondente são:",
+   "alternativas": {
+    "a": "v = k · [NO2]², porque a etapa lenta é a determinante da velocidade da reação",
+    "b": "v = k · [NO2]² · [CO], porque a lei de velocidade precisa reunir os reagentes das duas etapas elementares",
+    "c": "v = k · [NO2] · [CO], porque a velocidade da reação depende dos reagentes que aparecem na equação global",
+    "d": "v = k · [NO3] · [CO], porque a etapa rápida é a que apresenta a maior energia de ativação do mecanismo",
+    "e": "v = k · [NO2]² · [NO3], porque o intermediário formado na etapa I também entra na lei de velocidade global"
+   },
+   "resposta": "a",
+   "explicacao": "Num mecanismo em etapas, a etapa lenta é a determinante: a lei de velocidade global reproduz a molecularidade dela, v = k · [NO2]². O diagrama de energia do processo mostra dois máximos, e o mais alto corresponde à etapa I. Intermediários como o NO3 não aparecem na lei; o processo global é exotérmico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-393",
+   "texto_apoio": "O conversor catalítico dos automóveis contém platina e ródio finamente divididos, sobre os quais o monóxido de carbono e os óxidos de nitrogênio presentes nos gases de escape se transformam em CO2 e N2 antes de sair pelo escapamento.",
+   "enunciado": "O papel desses metais no conversor é:",
+   "alternativas": {
+    "a": "abaixar a energia de ativação dessas transformações, sem alterar a entalpia de cada uma delas",
+    "b": "elevar a entalpia liberada por essas transformações, o que aquece o escapamento e acelera a passagem dos gases",
+    "c": "fornecer calor às transformações endotérmicas dos gases de escape, tornando-as espontâneas dentro do conversor",
+    "d": "serem consumidos aos poucos nessas transformações, o que explicaria a troca periódica do conversor pelo dono do carro",
+    "e": "elevar a energia de ativação das transformações lentas e abaixar a das rápidas, igualando a velocidade da reação"
+   },
+   "resposta": "a",
+   "explicacao": "Platina e ródio são catalisadores heterogêneos: adsorvem os gases na superfície e oferecem um caminho de menor energia de ativação, o que multiplica a velocidade da reação no curto tempo em que os gases atravessam o conversor. Estados inicial e final não mudam, logo a entalpia de cada transformação é a mesma; o catalisador é regenerado a cada ciclo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-394",
+   "texto_apoio": "A energia livre de Gibbs de um processo é obtida subtraindo-se da variação de entalpia o produto entre a temperatura absoluta e a variação de entropia.",
+   "enunciado": "Um processo com variação de entalpia negativa e variação de entropia positiva é espontâneo:",
+   "alternativas": {
+    "a": "somente em temperaturas altas, porque só assim o termo entrópico consegue superar o termo entálpico do processo",
+    "b": "em temperaturas altas e baixas, porque as duas parcelas contribuem com sinal negativo para a energia livre",
+    "c": "somente em temperaturas baixas, porque o termo entálpico perde importância à medida que o sistema é aquecido",
+    "d": "somente acima da temperatura na qual a entalpia se iguala ao produto entre temperatura e variação de entropia",
+    "e": "apenas sob pressão elevada, porque a energia livre resulta positiva nas duas parcelas da expressão a 1 atm"
+   },
+   "resposta": "b",
+   "explicacao": "Com entalpia negativa, a primeira parcela já é favorável. Com entropia positiva, o termo subtraído é positivo e torna a energia livre ainda mais negativa, tanto mais quanto maior a temperatura. As duas parcelas empurram no mesmo sentido, de modo que o processo é espontâneo em toda a faixa de temperatura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-395",
+   "texto_apoio": "Para a decomposição do carbonato de cálcio em cal virgem e gás carbônico, medem-se variação de entalpia de +178 kJ/mol e variação de entropia de +0,16 kJ/(mol·K).",
+   "enunciado": "A temperatura mínima, em kelvin, acima da qual essa decomposição se torna espontânea é de aproximadamente:",
+   "alternativas": {
+    "a": "28 K",
+    "b": "178 K",
+    "c": "1780 K",
+    "d": "890 K",
+    "e": "1113 K"
+   },
+   "resposta": "e",
+   "explicacao": "A energia livre se anula quando a entalpia iguala o produto entre temperatura e entropia, isto é, T = 178 / 0,16 ≈ 1113 K. Acima disso o termo entrópico supera o entálpico e a decomposição passa a ser espontânea. Multiplicar em vez de dividir daria 28 K.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-396",
+   "texto_apoio": "Bolsas de gelo instantâneo, usadas em pronto atendimento, trazem água e um sal em compartimentos separados. Rompida a divisória interna, a mistura esfria até perto de 0 °C em poucos segundos.",
+   "enunciado": "O resfriamento observado indica que a mistura desse sal com a água é um processo:",
+   "alternativas": {
+    "a": "endotérmico, de entalpia positiva, que retira calor da vizinhança e é favorecido pelo ganho de entropia",
+    "b": "exotérmico, de entalpia negativa, cujo calor liberado acaba absorvido pelo plástico da embalagem externa da bolsa",
+    "c": "endotérmico, de entalpia negativa, o que explicaria a queda de temperatura registrada logo após romper a divisória",
+    "d": "exotérmico, de entalpia positiva, cuja energia livre negativa torna o processo espontâneo mesmo em água gelada",
+    "e": "atérmico, de entalpia nula, no qual a queda de temperatura vem apenas da expansão do gás retido dentro da bolsa"
+   },
+   "resposta": "a",
+   "explicacao": "Se a bolsa esfria, ela absorve calor do próprio conteúdo e da vizinhança: o processo é endotérmico e tem entalpia positiva. Ele ainda assim é espontâneo porque a variação de entropia é grande e positiva, e o termo entrópico compensa o entálpico na energia livre. Entalpia negativa corresponderia a aquecimento, não a resfriamento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-397",
+   "texto_apoio": "Na panela de pressão a água ferve perto de 120 °C, em vez dos 100 °C da panela aberta, e o cozimento dos alimentos leva cerca de um terço do tempo.",
+   "enunciado": "Do ponto de vista da cinética química, o cozimento mais rápido decorre de que a temperatura mais alta:",
+   "alternativas": {
+    "a": "aumenta a fração de partículas capazes de vencer a energia de ativação das transformações do alimento",
+    "b": "abaixa a energia de ativação dessas transformações, o que dispensaria o uso de temperatura elevada na panela fechada",
+    "c": "eleva a variação de entalpia dessas transformações, o que faria liberar mais calor por grama de alimento cozido",
+    "d": "transforma o vapor de água em catalisador do processo, sendo ele consumido ao longo do cozimento sob pressão",
+    "e": "diminui a entropia do alimento e, por essa razão, torna o cozimento um processo espontâneo e mais rápido"
+   },
+   "resposta": "a",
+   "explicacao": "A barreira energética não muda com o aquecimento: o que muda é a distribuição de energia das partículas. A 120 °C uma fração bem maior delas ultrapassa a energia de ativação, e a velocidade da reação cresce. A entalpia das transformações envolvidas continua a mesma nas duas panelas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-398",
+   "texto_apoio": "A combustão do hidrogênio, H2(g) + ½ O2(g) → H2O(g), libera 242 kJ por mol de hidrogênio queimado. Cada 2,0 g de hidrogênio correspondem a 1 mol dessa substância.",
+   "enunciado": "A energia liberada por grama de hidrogênio queimado é de:",
+   "alternativas": {
+    "a": "242 kJ/g",
+    "b": "121 kJ/g",
+    "c": "484 kJ/g",
+    "d": "60,5 kJ/g",
+    "e": "2 kJ/g"
+   },
+   "resposta": "b",
+   "explicacao": "Basta dividir a energia por mol pela massa de 1 mol: 242 / 2,0 = 121 kJ/g. É o maior valor entre os combustíveis usuais, e por isso o hidrogênio é atraente para foguetes. Esquecer a divisão deixaria 242 kJ/g. O processo é exotérmico e espontâneo, e sua entalpia de combustão tem sinal negativo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-399",
+   "texto_apoio": "Nas plantas, a fotossíntese armazena energia luminosa em substâncias ricas em carbono; nos seres vivos em geral, a respiração celular devolve essa energia ao organismo, com produção de gás carbônico e água.",
+   "enunciado": "Do ponto de vista termoquímico, esses dois processos são, respectivamente:",
+   "alternativas": {
+    "a": "exotérmico, de entalpia negativa, e endotérmico, de entalpia positiva",
+    "b": "endotérmicos os dois, com entalpias positivas de mesmo valor absoluto",
+    "c": "exotérmicos os dois, com entalpias negativas de mesmo valor absoluto",
+    "d": "atérmico o primeiro e exotérmico o segundo, com entalpia nula na fotossíntese",
+    "e": "endotérmico, de entalpia positiva, e exotérmico, de entalpia negativa"
+   },
+   "resposta": "e",
+   "explicacao": "A fotossíntese absorve energia para construir substâncias mais energéticas: é endotérmica, de entalpia positiva. A respiração percorre o caminho inverso e libera essa energia: é exotérmica, de entalpia negativa. Pela lei de Hess, como um processo é o inverso do outro, as entalpias têm o mesmo valor absoluto e sinais opostos; a respiração é espontânea.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-400",
+   "texto_apoio": "Em um ensaio a 25 °C, a concentração de um reagente foi registrada de minuto em minuto e valeu, em mol/L: 1,00; 0,60; 0,36; 0,22 e 0,13.",
+   "enunciado": "A velocidade média de consumo do reagente nos dois primeiros minutos e o comportamento observado ao longo do ensaio são:",
+   "alternativas": {
+    "a": "0,64 mol/(L·min), e a velocidade da reação diminui à medida que o reagente é consumido",
+    "b": "0,32 mol/(L·min), e a velocidade da reação cresce porque a energia de ativação cai com o passar do tempo",
+    "c": "0,32 mol/(L·min), e a velocidade da reação diminui à medida que o reagente é consumido",
+    "d": "0,40 mol/(L·min), e a velocidade da reação se mantém constante ao longo dos cinco minutos do ensaio",
+    "e": "0,18 mol/(L·min), e a velocidade da reação diminui porque a entalpia do processo se torna positiva"
+   },
+   "resposta": "c",
+   "explicacao": "A velocidade média é (1,00 - 0,36) / 2 = 0,32 mol/(L·min). Os intervalos seguintes mostram quedas cada vez menores de concentração, sinal de que a velocidade da reação diminui conforme o reagente se esgota. A energia de ativação e a entalpia do processo, exotérmico, permanecem as mesmas durante todo o ensaio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-401",
+   "texto_apoio": "A nitroglicerina se decompõe em milissegundos, gerando um volume enorme de gases e liberando muito calor. Já a queima de uma vela de parafina libera energia comparável por grama, porém ao longo de horas.",
+   "enunciado": "A comparação entre os dois processos mostra que:",
+   "alternativas": {
+    "a": "a energia liberada por grama é comparável, mas a velocidade da reação é muitíssimo maior na decomposição",
+    "b": "a nitroglicerina libera mais energia por grama porque sua entalpia de decomposição é positiva e a da vela é negativa",
+    "c": "a vela tem energia de ativação menor, e é por isso que sua queima se estende por horas em vez de milissegundos",
+    "d": "os dois processos têm a mesma velocidade da reação, e a diferença estaria apenas na entalpia liberada por grama",
+    "e": "a decomposição é endotérmica e a queima da vela é exotérmica, o que explicaria a diferença de tempo entre elas"
+   },
+   "resposta": "a",
+   "explicacao": "Energia liberada e rapidez são grandezas distintas: a primeira é termoquímica, dada pela entalpia; a segunda é cinética. A nitroglicerina tem energia de ativação baixa e gera gases que espalham a decomposição instantaneamente, enquanto a vela queima limitada pela evaporação da parafina e pelo oxigênio que chega à chama.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-402",
+   "texto_apoio": "Conservantes adicionados a alimentos industrializados retardam as transformações químicas responsáveis pela deterioração do produto na prateleira, sem alterar o valor energético do alimento.",
+   "enunciado": "Do ponto de vista da cinética química, um conservante desse tipo atua como:",
+   "alternativas": {
+    "a": "catalisador, abaixando a energia de ativação da transformação e retardando por essa via a deterioração do alimento",
+    "b": "fonte de calor, o que tornaria a deterioração um processo endotérmico e, por isso mesmo, mais lento na prateleira",
+    "c": "agente que torna negativa a entropia do alimento, o que impediria a transformação de ocorrer no prazo de validade",
+    "d": "inibidor, elevando a energia de ativação da transformação e baixando a velocidade da reação",
+    "e": "reagente que abaixa a entalpia dos produtos da deterioração e assim retarda a formação de substâncias indesejadas"
+   },
+   "resposta": "d",
+   "explicacao": "Inibidores fazem o oposto dos catalisadores: dificultam o caminho da reação, o que equivale a elevar a barreira a ser vencida, e por isso a velocidade da reação cai. Um catalisador aceleraria a deterioração. O valor energético do alimento, ligado à entalpia de combustão, não muda com o conservante.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-403",
+   "texto_apoio": "Entalpias de combustão a 25 °C e 1 atm, em kJ/mol: C(grafite) = -394; C(diamante) = -396.",
+   "enunciado": "A variação de entalpia da transformação C(grafite) → C(diamante) é de:",
+   "alternativas": {
+    "a": "-2 kJ/mol",
+    "b": "-790 kJ/mol",
+    "c": "+2 kJ/mol",
+    "d": "+790 kJ/mol",
+    "e": "-396 kJ/mol"
+   },
+   "resposta": "c",
+   "explicacao": "Pela lei de Hess, soma-se a combustão do grafite à combustão do diamante invertida: (-394) - (-396) = 2 kJ/mol. O valor positivo mostra que a conversão do grafite em diamante é endotérmica, ou seja, o diamante é a forma mais energética. Somar as duas combustões em vez de subtrair produziria -790 kJ/mol.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-404",
+   "texto_apoio": "Uma transformação em fase gasosa tem energia de ativação de 100 kJ sem catalisador e de 60 kJ com catalisador. A variação de entalpia do processo direto vale -25 kJ.",
+   "enunciado": "Na presença do catalisador, a energia de ativação da reação inversa vale:",
+   "alternativas": {
+    "a": "35 kJ",
+    "b": "85 kJ",
+    "c": "60 kJ",
+    "d": "100 kJ",
+    "e": "125 kJ"
+   },
+   "resposta": "b",
+   "explicacao": "No diagrama de energia, a barreira inversa é a diferença entre o topo e o patamar dos produtos: 60 - (-25) = 85 kJ. Subtrair em vez de somar daria 35 kJ. O catalisador abaixa igualmente as duas barreiras e deixa intacta a variação de entalpia, que continua sendo -25 kJ.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-405",
+   "texto_apoio": "Ao comprimir uma mistura de gases reagentes até a metade do volume inicial, mantida a temperatura constante, observa-se aumento da velocidade da reação entre eles.",
+   "enunciado": "Esse aumento decorre de que a compressão:",
+   "alternativas": {
+    "a": "abaixa a energia de ativação do processo, já que a pressão forneceria parte da energia necessária ao complexo ativado",
+    "b": "aproxima as partículas e eleva a frequência dos choques eficazes por unidade de tempo",
+    "c": "eleva a temperatura do sistema e, com ela, a entalpia liberada pela transformação química entre os gases comprimidos",
+    "d": "age como catalisador físico do processo, sendo consumida ao longo da transformação dos reagentes em estado gasoso",
+    "e": "torna o processo mais exotérmico e, por essa razão, aumenta a entropia dos produtos gasosos formados na reação"
+   },
+   "resposta": "b",
+   "explicacao": "Comprimir aumenta o número de partículas por unidade de volume, o que é o mesmo efeito de elevar a concentração: cresce a frequência de colisões e, com ela, a velocidade da reação. A energia de ativação, a entalpia e a entropia do processo não dependem do volume do recipiente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-406",
+   "texto_apoio": "A combustão completa do carbono libera 394 kJ por mol de carbono queimado; a combustão incompleta, com formação de monóxido de carbono, libera 110 kJ por mol.",
+   "enunciado": "Comparando a queima de 1 mol de carbono nas duas condições, é correto afirmar que a combustão incompleta:",
+   "alternativas": {
+    "a": "libera 504 kJ a mais, porque as duas entalpias de combustão precisam ser somadas nesse caso",
+    "b": "libera a mesma energia, já que pela lei de Hess a entalpia independe do caminho seguido pela transformação",
+    "c": "libera 284 kJ a mais, pois a formação de monóxido de carbono seria um processo mais exotérmico que a de dióxido",
+    "d": "é endotérmica, pois a formação de monóxido de carbono absorveria calor do ambiente em que a queima acontece",
+    "e": "libera 284 kJ a menos e ainda gera um gás tóxico, o que a torna perigosa em ambientes fechados"
+   },
+   "resposta": "e",
+   "explicacao": "Parar a queima no monóxido deixa energia guardada na substância: liberam-se 110 kJ em vez de 394 kJ, uma perda de 284 kJ por mol. A lei de Hess não iguala os dois casos porque os produtos finais são diferentes. Além do desperdício, o monóxido é tóxico, o que explica as mortes por aquecedores a gás mal ventilados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-407",
+   "texto_apoio": "Dentro dos motores a explosão, a temperatura elevada permite a transformação N2(g) + O2(g) → 2 NO(g), cuja variação de entalpia vale +180 kJ. O óxido formado é um dos poluentes responsáveis pela névoa das grandes cidades.",
+   "enunciado": "O fato de essa transformação só ocorrer em temperatura muito alta se explica porque ela:",
+   "alternativas": {
+    "a": "é exotérmica, e o calor liberado precisaria ser retirado do cilindro justamente pela temperatura alta do motor",
+    "b": "tem variação de entropia fortemente negativa, o que só seria compensado em temperaturas muito baixas de operação",
+    "c": "tem energia livre negativa a 25 °C, e a temperatura elevada serviria apenas para acelerar a saída dos gases do motor",
+    "d": "é endotérmica e tem energia de ativação elevada, condições que exigem grande aporte de energia",
+    "e": "tem entalpia negativa e entropia positiva, sendo por isso espontânea tanto em temperaturas altas quanto baixas"
+   },
+   "resposta": "d",
+   "explicacao": "A entalpia positiva mostra processo endotérmico, desfavorecido energeticamente; além disso as ligações do N2 e do O2 são fortes, o que dá energia de ativação alta. Só a temperatura da câmara de combustão fornece energia suficiente para vencer a barreira e tornar a transformação apreciável.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-408",
+   "texto_apoio": "Silos de armazenamento de grãos registram explosões provocadas pela ignição de poeira fina em suspensão no ar, acidente que não ocorre com os grãos inteiros guardados no mesmo silo.",
+   "enunciado": "A diferença entre a poeira e os grãos inteiros, do ponto de vista da cinética química, está:",
+   "alternativas": {
+    "a": "na energia de ativação da combustão, que na poeira seria maior e por isso liberaria o calor de uma só vez",
+    "b": "na entalpia de combustão por grama, que seria várias vezes maior na poeira do que no grão inteiro do mesmo cereal",
+    "c": "na área de contato com o oxigênio, muito maior na poeira, o que eleva a velocidade da reação",
+    "d": "na entropia do sistema, que só se tornaria positiva com o material finamente dividido e disperso no ar do silo",
+    "e": "na ação catalítica do ar em suspensão, consumido durante a queima e reposto em seguida pela ventilação do silo"
+   },
+   "resposta": "c",
+   "explicacao": "A poeira e o grão inteiro têm a mesma entalpia de combustão por grama; o que muda é a superfície exposta. Dividido em partículas finíssimas, o material oferece área enorme ao oxigênio, a velocidade da reação dispara e o calor liberado num intervalo curtíssimo produz a explosão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-409",
+   "texto_apoio": "Variações de entalpia medidas a 25 °C e 1 atm:\n\nI. H2(g) + ½ O2(g) → H2O(l)   -286 kJ\nII. H2O(l) → H2O(g)   +44 kJ",
+   "enunciado": "Pela lei de Hess, a entalpia de formação da água no estado gasoso é de:",
+   "alternativas": {
+    "a": "-330 kJ",
+    "b": "+242 kJ",
+    "c": "+44 kJ",
+    "d": "-242 kJ",
+    "e": "+330 kJ"
+   },
+   "resposta": "d",
+   "explicacao": "Somando as duas etapas, a água líquida se cancela e sobra H2(g) + ½ O2(g) → H2O(g): (-286) + (+44) = -242 kJ. Subtrair em vez de somar daria -330 kJ. Como a vaporização é endotérmica, formar vapor libera menos energia do que formar água líquida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "med-quimica-410",
+   "enunciado": "Em cinética química, o complexo ativado de uma transformação é corretamente descrito como:",
+   "alternativas": {
+    "a": "o produto mais estável da transformação, formado logo depois que a energia de ativação do processo é vencida",
+    "b": "o catalisador que se forma no próprio meio de reação e abaixa a energia de ativação do processo direto",
+    "c": "o intermediário isolável que aparece entre duas etapas elementares de um mecanismo em cadeia de radicais",
+    "d": "o estado de menor entalpia do sistema, no qual termina uma transformação espontânea conduzida a frio",
+    "e": "o arranjo instável de energia máxima, no topo da barreira que separa reagentes de produtos"
+   },
+   "resposta": "e",
+   "explicacao": "O complexo ativado é a espécie efêmera do alto do diagrama de energia: ligações antigas já enfraquecidas e novas ainda não formadas. Ele não é isolável, ao contrário de um intermediário de reação, e não se confunde com produto nem com catalisador. A altura entre reagentes e esse topo é a energia de ativação.",
    "formato": "direta",
    "origem": "medicina"
   }

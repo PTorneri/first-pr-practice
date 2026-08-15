@@ -24,8 +24,9 @@ Santa Casa 40, outras 10.
 |---|---|---|
 | Medicina — 7 bancas | ~594 | só contadas nos `questoes-reais-*-STAGING.md`, **não transcritas** |
 | FGV Unificado 2024.1–2026.1 | 113 | transcritas em `*-EXCLUIDAS-STAGING.md` com comando, alternativas e gabarito; **falta o texto de apoio** |
-| FGV Unificado 2021.1, 2022.1, 2023.1 | ~250–300 | **nunca mineradas** — não aparecem em nenhum staging |
-| Insper 2026.1/2026.2 | 91 | **bloqueado**: os cadernos INSP2502/INSP2504 não estão no repo, só os editais |
+| FGV Unificado 2021.1, 2022.1, 2023.1 | ~250–300 | **nunca mineradas** — não aparecem em nenhum staging. 2023.1 **feito** (30 questões) |
+| Insper 2026.1 (+ v.2) e 2026.2 | 91+ | destravado em 15/08/2026: os cadernos e gabaritos chegaram em `fgv e insper/`. O caderno "v.2" não aparece em staging nenhum e pode render questão inédita |
+| **ITA 2023, 2024, 2026 + Mauá 2024, 2025** | ~250–350 | banca nova, em `engenharia/`. O banco não tem **uma única** questão de ITA ou Mauá |
 
 ## Decisões tomadas
 
@@ -65,7 +66,17 @@ campos. `sessao` atravessa o build sem alteração de código.
   colunas intercaladas, sem número de questão, sem letra de alternativa e sem
   fórmula. Sozinho é inutilizável.
 - `recortar <pdf> <pág> <x0,y0,x1,y1> <saída>` — recorta a figura para
-  `vestibular-direito-v2/assets/provas/<banca>-<sessao>-q<NN>.png`.
+  `vestibular-direito-v2/assets/provas/<banca>-<sessao>-q<NN>.{png,jpg}`.
+- `figuras <pdf> [--pagina N]` — lista as imagens embutidas e suas bboxes, que
+  é como se descobre o recorte.
+
+**A extensão decide o peso, e a diferença é de 7×.** Medido na FGV 2023.1, a
+200 dpi: foto, mapa ou capa pesa ~313 KB em `.png` e ~45 KB em `.jpg`, com a
+mesma resolução; line art (diagrama, figura geométrica) já nasce em ~25 KB no
+`.png` e não ganha nada no `.jpg`, que ainda borraria o traço. Nessa mistura,
+as ~300 figuras restantes ocupam **~12 MB**; tudo em `.png` seriam ~65 MB, que
+não cabe num repositório servido pelo GitHub Pages. Este era o único risco não
+medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 
 ### O ciclo, por prova
 
@@ -84,19 +95,20 @@ campos. `sessao` atravessa o build sem alteração de código.
 
 ### As fases
 
-| Fase | O quê | Volume |
-|---|---|---|
-| 1 — piloto | FGV 2023.1 (3 blocos, 36 páginas) | ~105 |
-| 2 | FGV 2022.1 + 2021.1 (64 páginas) | ~200 |
-| 3 | As 113 FGV já transcritas — recuperar o texto de apoio | 113 |
-| 4 | Discursivas FGV, com as grades oficiais (`*_GC.pdf`) | ~20 |
-| 5 | Medicina, banca a banca | ~594 |
-| 6 | Discursivas de Medicina | ~60 |
+| Fase | O quê | Volume | Estado |
+|---|---|---|---|
+| 1 — piloto | FGV 2023.1, bloco Matemática + Humanas | 30 | **feito** (`be66418`) |
+| 1b | FGV 2023.1, blocos BIO-FIS-QUIM (15 pág.) e INGLES-LP (12 pág.) | ~75 | a fazer |
+| 2 | FGV 2022.1 + 2021.1 (64 páginas) | ~200 | |
+| 3 | As 113 FGV já transcritas — recuperar o texto de apoio | 113 | |
+| 4 | Insper 2026.1, 2026.1 v.2 e 2026.2 (destravado) | 91+ | |
+| 5 | **ITA + Mauá** — banca nova, trilha de Engenharia | ~250–350 | |
+| 6 | Medicina, banca a banca | ~594 | |
+| 7 | Discursivas: FGV com as grades oficiais (`*_GC.pdf`), depois Medicina | ~80 | |
 
-A fase 1 é piloto de propósito: valida o ciclo inteiro e mede o peso real por
-PNG — o único risco ainda não medido. ~300 figuras podem pesar de 10 a 30 MB no
-repositório. O GitHub Pages aguenta, mas o número precisa ser conhecido antes de
-multiplicar por seis.
+O piloto validou o ciclo inteiro e mediu o peso das figuras (ver acima). As
+questões de ITA entram com `dificuldade: "muito dificil"`, porque o banco é
+compartilhado e uma questão de ITA cai no plano diário de quem estuda Direito.
 
 ### As discursivas
 
@@ -119,6 +131,20 @@ de discursiva real:
   `classificar-subtemas.js`, nunca no JSON gerado.
 - **`banca` + `sessao` aparecem na tela.** É a mitigação barata do risco
   autoral: a origem fica explícita em toda questão de terceiro.
+- **Invariante que a prova real contradiz é invariante errado.** A trava de
+  escada do `verify-banco.ps1` afirmava que "a FGV nunca oferece uma opção com
+  uma asserção isolada que não seja a I"; a questão 18 da 2023.1 oferece "II,
+  apenas". A premissa foi inferida das provas que havia no repositório, e
+  questão real é a evidência de que o padrão é feito. A trava passou a isentar
+  quem tem campo `banca`, e segue valendo para questão autoral. **Bater a
+  questão real no molde teria falsificado a prova.**
+- **Ordem de alternativa é conteúdo; ponto final é tipografia.** A 2023.1
+  imprime `I e III, apenas` antes de `II e III, apenas` — ordem preservada. O
+  ponto final das alternativas foi retirado, para não destoar das outras 6.646.
+- **Baseline de chutabilidade se regrava por frente, à mão.**
+  `-AtualizarChutabilidade` reescreve o arquivo inteiro e recusa rodar junto de
+  `-Frente`, de propósito. Com outra sessão ativa no repositório, rodá-lo
+  absorveria trabalho alheio em silêncio.
 
 ## Fora de escopo
 

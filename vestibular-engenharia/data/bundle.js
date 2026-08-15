@@ -12423,342 +12423,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "matematica-logica-conjuntos",
-   "id": "eng-polinomios-24",
-   "enunciado": "Um polinômio p(x) é tal que p(x) = 0 para todo valor real de x. Sobre o grau desse polinômio, é correto afirmar que:",
-   "alternativas": {
-    "a": "o polinômio nulo não tem grau definido, e não pode ser tratado como tendo grau 0",
-    "b": "seu grau é 0",
-    "c": "seu grau é 1",
-    "d": "seu grau é indefinidamente grande",
-    "e": "seu grau depende do número de termos escritos"
-   },
-   "resposta": "a",
-   "explicacao": "O polinômio identicamente nulo (todos os coeficientes iguais a zero) é o único caso em que o grau não é definido, por convenção — não existe termo de maior grau com coeficiente não nulo para caracterizar um grau. É diferente de um polinômio constante não nulo, como p(x)=5, que tem grau 0. A alternativa (b) confunde os dois casos.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-01",
-   "enunciado": "Numa turma de 40 alunos, 22 fazem cursinho de Matemática e 18 fazem cursinho de Física. Sabendo que 8 alunos fazem os dois cursinhos, o número de alunos que não fazem nenhum dos dois é:",
-   "alternativas": {
-    "a": "14",
-    "b": "24",
-    "c": "32",
-    "d": "0",
-    "e": "8"
-   },
-   "resposta": "e",
-   "explicacao": "|A∪B| = 22 + 18 − 8 = 32. Não fazem nenhum: 40 − 32 = 8. A alternativa (c) confunde \"não fazem nenhum\" com \"fazem pelo menos um\" (a própria união). A (b) conta só quem faz exatamente um dos dois (14 + 10). A (a) é só quem faz Matemática e não Física (22 − 8). A (d) vem de somar 22 + 18 = 40 sem subtrair a interseção, como se a turma toda estivesse coberta.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-02",
-   "enunciado": "Dos 90 alunos de um cursinho, 50 estudam Cálculo, 40 estudam Física e 35 estudam Química. Desses, 20 estudam Cálculo e Física, 15 estudam Física e Química, 18 estudam Cálculo e Química, e 8 estudam as três disciplinas. O número de alunos que não estudam nenhuma das três é:",
-   "alternativas": {
-    "a": "45",
-    "b": "26",
-    "c": "18",
-    "d": "10",
-    "e": "5"
-   },
-   "resposta": "d",
-   "explicacao": "|A∪B∪C| = 50+40+35 − 20−15−18 + 8 = 80. Não estudam nenhuma: 90 − 80 = 10. A alternativa (c) esquece de somar de volta os 8 que fazem as três disciplinas (fórmula parando em 125 − 53 = 72, e 90 − 72 = 18). A (b) subtrai a interseção tripla em vez de somá-la (125 − 53 − 8 = 64, e 90 − 64 = 26).",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-03",
-   "enunciado": "Sejam A = {x ∈ ℕ : 1 ≤ x ≤ 20} e B o conjunto dos múltiplos de 3 pertencentes a A. O número de elementos do conjunto A − B (diferença entre A e B) é:",
-   "alternativas": {
-    "a": "6",
-    "b": "13",
-    "c": "14",
-    "d": "20",
-    "e": "7"
-   },
-   "resposta": "c",
-   "explicacao": "B = {3,6,9,12,15,18}, com 6 elementos. A − B remove de A os elementos de B: 20 − 6 = 14. A alternativa (a) é o número de elementos de B, não de A − B. A (d) ignora a subtração e devolve o próprio A. A (b) e a (e) vêm de contar errado os múltiplos de 3 até 20 (incluindo por engano um sétimo múltiplo, como se 21 pertencesse a A).",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-04",
-   "enunciado": "Considere as proposições p: \"Marte tem duas luas\" (verdadeira) e q: \"Vênus é o planeta mais próximo do Sol\" (falsa). O valor lógico da proposição composta ~p ∨ (p → q) é:",
-   "alternativas": {
-    "a": "verdadeira, porque p → q é verdadeira sempre que p é verdadeira",
-    "b": "falsa, porque ~p é falsa e p → q também é falsa",
-    "c": "verdadeira, porque ~p ∨ (p → q) equivale à própria negação de p, que é falsa",
-    "d": "falsa, porque a disjunção de duas proposições falsas é falsa",
-    "e": "impossível determinar sem saber o valor lógico de ~q"
-   },
-   "resposta": "b",
-   "explicacao": "~p é falsa, pois p é verdadeira. p → q é falsa porque o antecedente é verdadeiro e o consequente é falso — o único caso em que o condicional falha. A disjunção de duas proposições falsas é falsa: ~p ∨ (p → q) é falsa. A alternativa (a) erra a regra do condicional: p verdadeiro não garante p → q verdadeiro, só quando q também é verdadeiro. A (d) chega à conclusão certa mas por justificativa incompleta, sem checar que a disjunção citada é mesmo essa.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-05",
-   "enunciado": "A negação lógica da proposição \"Se chove, então a rua fica molhada\" é:",
-   "alternativas": {
-    "a": "Não chove ou a rua não fica molhada",
-    "b": "A rua fica molhada se, e somente se, chove",
-    "c": "Se não chove, então a rua não fica molhada",
-    "d": "Se a rua fica molhada, então chove",
-    "e": "Chove e a rua não fica molhada"
-   },
-   "resposta": "e",
-   "explicacao": "A negação de p → q é p ∧ ~q, e não outro condicional: nega-se \"sempre que chove, molha\" exibindo um caso em que chove e não molha. A alternativa (c) é a inversa do condicional original, e (d) é a recíproca — nenhuma das duas é logicamente equivalente à negação. A (a) aplica De Morgan a uma disjunção que a proposição original nem tem.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-06",
-   "enunciado": "Das proposições compostas abaixo, é logicamente equivalente a p → q:",
-   "alternativas": {
-    "a": "~p ∨ q",
-    "b": "~p ∧ q",
-    "c": "p ∧ ~q",
-    "d": "~q → ~p",
-    "e": "tanto (a) quanto (d)"
-   },
-   "resposta": "e",
-   "explicacao": "p → q é falsa apenas quando p é verdadeira e q é falsa. Testando ~p ∨ q nesse caso: ~p é falsa e q é falsa, logo a disjunção é falsa — coincide em todos os casos com p → q. ~q → ~p é a contrapositiva de p → q, e a contrapositiva é sempre equivalente ao condicional original. As duas construções, portanto, são equivalentes. A alternativa (b), ~p ∧ q, é uma conjunção que não corresponde a nenhuma equivalência do condicional.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-07",
-   "enunciado": "Numa pesquisa com 200 pessoas sobre o consumo de dois serviços de streaming, A e B, verificou-se que o número de pessoas que assinam apenas A é o dobro do número de pessoas que assinam apenas B, 30 pessoas assinam ambos e 50 não assinam nenhum. O número de pessoas que assinam o serviço A (incluindo quem assina os dois) é:",
-   "alternativas": {
-    "a": "80",
-    "b": "90",
-    "c": "110",
-    "d": "120",
-    "e": "150"
-   },
-   "resposta": "c",
-   "explicacao": "Quem assina pelo menos um: 200 − 50 = 150. Sendo x quem assina só B e 2x quem assina só A: 2x + x + 30 = 150, logo x = 40. Assinam A no total: apenas A (2x = 80) mais quem assina os dois (30) = 110. A alternativa (a) é só \"apenas A\", esquecendo de somar quem assina os dois serviços. A (e) é o total de quem assina pelo menos um dos dois, não só A.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-08",
-   "enunciado": "Considere a proposição: \"Se um número é múltiplo de 6, então é múltiplo de 3.\" Assinale a alternativa que apresenta a contrapositiva dessa proposição.",
-   "alternativas": {
-    "a": "Se um número não é múltiplo de 6, então não é múltiplo de 3",
-    "b": "Um número é múltiplo de 6 se, e somente se, é múltiplo de 3",
-    "c": "Um número não é múltiplo de 6 ou não é múltiplo de 3",
-    "d": "Se um número é múltiplo de 3, então é múltiplo de 6",
-    "e": "Se um número não é múltiplo de 3, então não é múltiplo de 6"
-   },
-   "resposta": "e",
-   "explicacao": "A contrapositiva de p → q é ~q → ~p: nega-se e inverte-se a ordem das duas partes. Aqui, \"não é múltiplo de 3, então não é múltiplo de 6\". A alternativa (d) é a recíproca (q → p), verdadeira nesse caso específico mas logicamente distinta da original. A (a) é a inversa (~p → ~q), que troca a ordem errada — nega mas não inverte.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-09",
-   "enunciado": "Sejam A e B subconjuntos de um universo U. A expressão que é sempre igual a (A ∩ B)ᶜ (complementar da interseção) é:",
-   "alternativas": {
-    "a": "A ∩ Bᶜ",
-    "b": "Aᶜ ∩ B",
-    "c": "Aᶜ ∩ Bᶜ",
-    "d": "Aᶜ ∪ Bᶜ",
-    "e": "A ∪ B"
-   },
-   "resposta": "d",
-   "explicacao": "É a lei de De Morgan para conjuntos: o complementar da interseção é a união dos complementares. A alternativa (c), Aᶜ ∩ Bᶜ, é o complementar da UNIÃO, (A ∪ B)ᶜ — a outra metade da mesma lei, frequentemente trocada com esta.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-10",
-   "enunciado": "A negação da proposição \"Todo engenheiro que se forma no ITA encontra emprego em até seis meses\" é:",
-   "alternativas": {
-    "a": "Nenhum engenheiro que se forma no ITA encontra emprego em até seis meses",
-    "b": "Todo engenheiro que se forma no ITA não encontra emprego em até seis meses",
-    "c": "Existe um engenheiro que se forma no ITA e não encontra emprego em até seis meses",
-    "d": "Existe um engenheiro que não se forma no ITA e encontra emprego em até seis meses",
-    "e": "Todo engenheiro que não se forma no ITA não encontra emprego em até seis meses"
-   },
-   "resposta": "c",
-   "explicacao": "A negação de \"para todo x, P(x)\" é \"existe x tal que não P(x)\": basta um único contraexemplo para derrubar a afirmação universal. As alternativas (a) e (b) trocam a negação por outra afirmação universal (\"nenhum\", \"todo... não\"), erro comum que substitui \"existe um caso contrário\" por \"todos os casos são contrários\" — logicamente mais forte do que a simples negação exige.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-11",
-   "enunciado": "Se A tem 4 elementos e B tem 3 elementos, o número de subconjuntos do produto cartesiano A × B é:",
-   "alternativas": {
-    "a": "12",
-    "b": "2¹²",
-    "c": "4³",
-    "d": "2⁷",
-    "e": "3⁴"
-   },
-   "resposta": "b",
-   "explicacao": "A × B tem 4 × 3 = 12 pares ordenados. O número de subconjuntos de um conjunto com n elementos é 2ⁿ, logo o número de subconjuntos de A × B é 2¹². A alternativa (a) é só o número de elementos de A × B, não o número de subconjuntos dele. A (d), 2⁷, seria o número de subconjuntos de um conjunto com 7 elementos — nem A ∪ B (7 elementos, se disjuntos) nem A × B.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-12",
-   "enunciado": "Uma proposição composta é formada por 4 proposições simples distintas, p, q, r e s. O número de linhas da tabela-verdade dessa proposição composta é:",
-   "alternativas": {
-    "a": "8",
-    "b": "16",
-    "c": "24",
-    "d": "4",
-    "e": "32"
-   },
-   "resposta": "b",
-   "explicacao": "Cada proposição simples pode assumir 2 valores (V ou F), e a tabela precisa cobrir todas as combinações possíveis: 2⁴ = 16 linhas. A alternativa (a), 8 = 2³, seria o número de linhas para 3 proposições, não 4. A (c), 24, é 4! (permutações de 4 elementos), confusão comum entre contar combinações de valores lógicos e contar arranjos.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-13",
-   "enunciado": "Um número inteiro n satisfaz \"n é par se, e somente se, n² é par\". Sobre essa proposição bicondicional, é correto afirmar que ela é:",
-   "alternativas": {
-    "a": "verdadeira apenas para n positivo",
-    "b": "falsa, pois a implicação \"n² par implica n par\" não vale para todo n",
-    "c": "indeterminada, pois depende do valor de n",
-    "d": "falsa, pois existem números pares cujo quadrado é ímpar",
-    "e": "verdadeira, pois as duas implicações — \"n par implica n² par\" e \"n² par implica n par\" — são ambas verdadeiras"
-   },
-   "resposta": "e",
-   "explicacao": "p ↔ q é verdadeira quando as duas implicações valem: se n é par, n² é par (produto de par por par); e se n² é par, n é necessariamente par (se n fosse ímpar, n² seria ímpar). As duas implicações se sustentam para todo n inteiro, tornando a bicondicional verdadeira sempre, não só para n positivo, como sugere (a).",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-14",
-   "enunciado": "Em uma pesquisa com 150 candidatos de um processo seletivo, 90 sabem Python, 70 sabem C++ e 40 sabem as duas linguagens. O número de candidatos que sabem apenas uma das duas linguagens é:",
-   "alternativas": {
-    "a": "80",
-    "b": "90",
-    "c": "120",
-    "d": "20",
-    "e": "160"
-   },
-   "resposta": "a",
-   "explicacao": "Apenas Python: 90 − 40 = 50. Apenas C++: 70 − 40 = 30. Apenas uma das duas: 50 + 30 = 80. A alternativa (c), 120, é |A ∪ B| = 90+70−40, que inclui também quem sabe as duas — o oposto de \"apenas uma\". A (b), 90, é só o total de quem sabe Python, sem descontar quem também sabe C++.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-16",
-   "enunciado": "Sejam A = {1, 2, 3} e B = {3, 4, 5}. O número de elementos do conjunto (A ∪ B) − (A ∩ B) é:",
-   "alternativas": {
-    "a": "6",
-    "b": "5",
-    "c": "4",
-    "d": "3",
-    "e": "1"
-   },
-   "resposta": "c",
-   "explicacao": "A ∪ B = {1,2,3,4,5}, com 5 elementos. A ∩ B = {3}, com 1 elemento. A diferença remove os elementos comuns da união: {1,2,4,5}, com 4 elementos — essa construção é chamada diferença simétrica. A alternativa (b), 5, é só |A ∪ B|, sem descontar o que se pede subtrair. A (e), 1, é o tamanho de A ∩ B, o termo que deveria ser removido, não o resultado.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-17",
-   "enunciado": "Para quaisquer conjuntos A, B e C, a expressão A ∩ (B ∪ C) é sempre igual a:",
-   "alternativas": {
-    "a": "(A ∩ B) ∪ (A ∩ C)",
-    "b": "(A ∪ B) ∩ (A ∪ C)",
-    "c": "(A ∩ B) ∩ (A ∩ C)",
-    "d": "(A ∪ B) ∪ (A ∪ C)",
-    "e": "A ∩ B ∩ C"
-   },
-   "resposta": "a",
-   "explicacao": "É a propriedade distributiva da interseção sobre a união, análoga a a·(b+c) = a·b + a·c na álgebra. A alternativa (b) é a distributiva da UNIÃO sobre a interseção, A ∪ (B ∩ C) — a lei irmã, fácil de trocar com esta. A (e) só valeria se B e C fossem exatamente iguais.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-20",
-   "enunciado": "A negação da proposição \"Existe um número real x tal que x² + 1 = 0\" é:",
-   "alternativas": {
-    "a": "Não existe nenhum número real x tal que x² + 1 = 0",
-    "b": "Existe um número real x tal que x² + 1 ≠ 0",
-    "c": "Para todo número real x, x² + 1 ≠ 0",
-    "d": "tanto (a) quanto (c), pois são equivalentes",
-    "e": "Para todo número real x, x² + 1 = 0"
-   },
-   "resposta": "d",
-   "explicacao": "A negação de \"existe x tal que P(x)\" é \"para todo x, não P(x)\": se nenhum caso particular satisfaz a condição, então nenhum satisfaz — as duas formas, \"não existe\" e \"para todo, não\", dizem exatamente a mesma coisa. A alternativa (b) comete o erro clássico de trocar apenas o \"existe...=\" por \"existe...≠\", mantendo o quantificador existencial, o que não é uma negação válida da proposição original.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-21",
-   "enunciado": "Sejam A o conjunto dos divisores positivos de 12 e B o conjunto dos divisores positivos de 18. O número de elementos da diferença simétrica A △ B (elementos que pertencem a exatamente um dos dois conjuntos) é:",
-   "alternativas": {
-    "a": "4",
-    "b": "6",
-    "c": "8",
-    "d": "10",
-    "e": "2"
-   },
-   "resposta": "a",
-   "explicacao": "Divisores de 12: {1,2,3,4,6,12}, 6 elementos. Divisores de 18: {1,2,3,6,9,18}, 6 elementos. Comuns: {1,2,3,6}, 4 elementos. A diferença simétrica tem |A|+|B|−2|A∩B| = 6+6−8 = 4: os elementos 4, 12, 9 e 18 pertencem a exatamente um dos dois. A alternativa (c), 8, seria |A∪B|−|A∩B|... na verdade |A∪B|=8, que é o total de elementos distintos contando UMA vez os comuns — diferente de contar só quem está em exatamente um dos dois.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-22",
-   "enunciado": "Numa pesquisa com 300 pessoas, 180 disseram gostar de rock, 150 disseram gostar de MPB e 45 disseram não gostar de nenhum dos dois gêneros. O número de pessoas que gostam dos dois gêneros ao mesmo tempo é:",
-   "alternativas": {
-    "a": "30",
-    "b": "45",
-    "c": "60",
-    "d": "75",
-    "e": "105"
-   },
-   "resposta": "d",
-   "explicacao": "Quem gosta de pelo menos um: 300 − 45 = 255. Pela fórmula da união, |A∩B| = |A|+|B|−|A∪B| = 180+150−255 = 75. A alternativa (a), 30, viria de um erro de sinal na fórmula (255−180−150=−75, e alguém \"corrige\" tirando o sinal e dividindo por algo). A (e), 105, seria 180−75 ou outra combinação sem sentido direto com a pergunta.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-24",
-   "enunciado": "Sejam as proposições p: \"8 é divisor de 24\" (verdadeira), q: \"8 é divisor de 36\" (falsa) e r: \"8 é primo\" (falsa). O valor lógico de (p ∧ ~q) ∨ r é:",
-   "alternativas": {
-    "a": "verdadeira, pois p é verdadeira e ~q também é verdadeira, o que já basta para a disjunção com r",
-    "b": "falsa, pois r é falsa e isso torna toda a disjunção falsa",
-    "c": "falsa, pois p ∧ ~q é falsa",
-    "d": "verdadeira apenas se r fosse também verdadeira",
-    "e": "indeterminada, pois depende de convenção sobre primalidade de 8"
-   },
-   "resposta": "a",
-   "explicacao": "~q é verdadeira, pois q é falsa. p ∧ ~q: verdadeira e verdadeira, logo verdadeira. Numa disjunção, basta um lado ser verdadeiro para o todo ser verdadeiro — não importa que r seja falsa. A alternativa (b) erra a regra da disjunção, tratando-a como se fosse uma conjunção, em que todos os termos precisariam ser verdadeiros.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
    "id": "med-matematica-477",
    "enunciado": "Uma pesquisa ouviu 130 moradores de um bairro sobre dois aplicativos. Verificou-se que 68 usam o aplicativo de transporte, 52 usam o aplicativo de entrega e 25 usam os dois. Representando a situação num diagrama de Venn, quantos moradores não usam nenhum dos dois aplicativos?",
    "alternativas": {
@@ -13460,6 +13124,342 @@ window.QUESTION_BANKS = {
    "explicacao": "A hipótese diz que para todo estudante de robótica vale também a programação, ou seja, o conjunto da robótica está contido no da programação, e no diagrama de Venn uma das regiões fica inteiramente dentro da outra. A interseção dos conjuntos é então o próprio grupo de robótica, e a diferença entre conjuntos procurada vale 18 − 7 = 11. A alternativa 25 soma os dois grupos como se fossem separados; 18 e 7 repetem os totais dados.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-polinomios-24",
+   "enunciado": "Um polinômio p(x) é tal que p(x) = 0 para todo valor real de x. Sobre o grau desse polinômio, é correto afirmar que:",
+   "alternativas": {
+    "a": "o polinômio nulo não tem grau definido, e não pode ser tratado como tendo grau 0",
+    "b": "seu grau é 0",
+    "c": "seu grau é 1",
+    "d": "seu grau é indefinidamente grande",
+    "e": "seu grau depende do número de termos escritos"
+   },
+   "resposta": "a",
+   "explicacao": "O polinômio identicamente nulo (todos os coeficientes iguais a zero) é o único caso em que o grau não é definido, por convenção — não existe termo de maior grau com coeficiente não nulo para caracterizar um grau. É diferente de um polinômio constante não nulo, como p(x)=5, que tem grau 0. A alternativa (b) confunde os dois casos.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-01",
+   "enunciado": "Numa turma de 40 alunos, 22 fazem cursinho de Matemática e 18 fazem cursinho de Física. Sabendo que 8 alunos fazem os dois cursinhos, o número de alunos que não fazem nenhum dos dois é:",
+   "alternativas": {
+    "a": "14",
+    "b": "24",
+    "c": "32",
+    "d": "0",
+    "e": "8"
+   },
+   "resposta": "e",
+   "explicacao": "|A∪B| = 22 + 18 − 8 = 32. Não fazem nenhum: 40 − 32 = 8. A alternativa (c) confunde \"não fazem nenhum\" com \"fazem pelo menos um\" (a própria união). A (b) conta só quem faz exatamente um dos dois (14 + 10). A (a) é só quem faz Matemática e não Física (22 − 8). A (d) vem de somar 22 + 18 = 40 sem subtrair a interseção, como se a turma toda estivesse coberta.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-02",
+   "enunciado": "Dos 90 alunos de um cursinho, 50 estudam Cálculo, 40 estudam Física e 35 estudam Química. Desses, 20 estudam Cálculo e Física, 15 estudam Física e Química, 18 estudam Cálculo e Química, e 8 estudam as três disciplinas. O número de alunos que não estudam nenhuma das três é:",
+   "alternativas": {
+    "a": "45",
+    "b": "26",
+    "c": "18",
+    "d": "10",
+    "e": "5"
+   },
+   "resposta": "d",
+   "explicacao": "|A∪B∪C| = 50+40+35 − 20−15−18 + 8 = 80. Não estudam nenhuma: 90 − 80 = 10. A alternativa (c) esquece de somar de volta os 8 que fazem as três disciplinas (fórmula parando em 125 − 53 = 72, e 90 − 72 = 18). A (b) subtrai a interseção tripla em vez de somá-la (125 − 53 − 8 = 64, e 90 − 64 = 26).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-03",
+   "enunciado": "Sejam A = {x ∈ ℕ : 1 ≤ x ≤ 20} e B o conjunto dos múltiplos de 3 pertencentes a A. O número de elementos do conjunto A − B (diferença entre A e B) é:",
+   "alternativas": {
+    "a": "6",
+    "b": "13",
+    "c": "14",
+    "d": "20",
+    "e": "7"
+   },
+   "resposta": "c",
+   "explicacao": "B = {3,6,9,12,15,18}, com 6 elementos. A − B remove de A os elementos de B: 20 − 6 = 14. A alternativa (a) é o número de elementos de B, não de A − B. A (d) ignora a subtração e devolve o próprio A. A (b) e a (e) vêm de contar errado os múltiplos de 3 até 20 (incluindo por engano um sétimo múltiplo, como se 21 pertencesse a A).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-04",
+   "enunciado": "Considere as proposições p: \"Marte tem duas luas\" (verdadeira) e q: \"Vênus é o planeta mais próximo do Sol\" (falsa). O valor lógico da proposição composta ~p ∨ (p → q) é:",
+   "alternativas": {
+    "a": "verdadeira, porque p → q é verdadeira sempre que p é verdadeira",
+    "b": "falsa, porque ~p é falsa e p → q também é falsa",
+    "c": "verdadeira, porque ~p ∨ (p → q) equivale à própria negação de p, que é falsa",
+    "d": "falsa, porque a disjunção de duas proposições falsas é falsa",
+    "e": "impossível determinar sem saber o valor lógico de ~q"
+   },
+   "resposta": "b",
+   "explicacao": "~p é falsa, pois p é verdadeira. p → q é falsa porque o antecedente é verdadeiro e o consequente é falso — o único caso em que o condicional falha. A disjunção de duas proposições falsas é falsa: ~p ∨ (p → q) é falsa. A alternativa (a) erra a regra do condicional: p verdadeiro não garante p → q verdadeiro, só quando q também é verdadeiro. A (d) chega à conclusão certa mas por justificativa incompleta, sem checar que a disjunção citada é mesmo essa.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-05",
+   "enunciado": "A negação lógica da proposição \"Se chove, então a rua fica molhada\" é:",
+   "alternativas": {
+    "a": "Não chove ou a rua não fica molhada",
+    "b": "A rua fica molhada se, e somente se, chove",
+    "c": "Se não chove, então a rua não fica molhada",
+    "d": "Se a rua fica molhada, então chove",
+    "e": "Chove e a rua não fica molhada"
+   },
+   "resposta": "e",
+   "explicacao": "A negação de p → q é p ∧ ~q, e não outro condicional: nega-se \"sempre que chove, molha\" exibindo um caso em que chove e não molha. A alternativa (c) é a inversa do condicional original, e (d) é a recíproca — nenhuma das duas é logicamente equivalente à negação. A (a) aplica De Morgan a uma disjunção que a proposição original nem tem.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-06",
+   "enunciado": "Das proposições compostas abaixo, é logicamente equivalente a p → q:",
+   "alternativas": {
+    "a": "~p ∨ q",
+    "b": "~p ∧ q",
+    "c": "p ∧ ~q",
+    "d": "~q → ~p",
+    "e": "tanto (a) quanto (d)"
+   },
+   "resposta": "e",
+   "explicacao": "p → q é falsa apenas quando p é verdadeira e q é falsa. Testando ~p ∨ q nesse caso: ~p é falsa e q é falsa, logo a disjunção é falsa — coincide em todos os casos com p → q. ~q → ~p é a contrapositiva de p → q, e a contrapositiva é sempre equivalente ao condicional original. As duas construções, portanto, são equivalentes. A alternativa (b), ~p ∧ q, é uma conjunção que não corresponde a nenhuma equivalência do condicional.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-07",
+   "enunciado": "Numa pesquisa com 200 pessoas sobre o consumo de dois serviços de streaming, A e B, verificou-se que o número de pessoas que assinam apenas A é o dobro do número de pessoas que assinam apenas B, 30 pessoas assinam ambos e 50 não assinam nenhum. O número de pessoas que assinam o serviço A (incluindo quem assina os dois) é:",
+   "alternativas": {
+    "a": "80",
+    "b": "90",
+    "c": "110",
+    "d": "120",
+    "e": "150"
+   },
+   "resposta": "c",
+   "explicacao": "Quem assina pelo menos um: 200 − 50 = 150. Sendo x quem assina só B e 2x quem assina só A: 2x + x + 30 = 150, logo x = 40. Assinam A no total: apenas A (2x = 80) mais quem assina os dois (30) = 110. A alternativa (a) é só \"apenas A\", esquecendo de somar quem assina os dois serviços. A (e) é o total de quem assina pelo menos um dos dois, não só A.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-08",
+   "enunciado": "Considere a proposição: \"Se um número é múltiplo de 6, então é múltiplo de 3.\" Assinale a alternativa que apresenta a contrapositiva dessa proposição.",
+   "alternativas": {
+    "a": "Se um número não é múltiplo de 6, então não é múltiplo de 3",
+    "b": "Um número é múltiplo de 6 se, e somente se, é múltiplo de 3",
+    "c": "Um número não é múltiplo de 6 ou não é múltiplo de 3",
+    "d": "Se um número é múltiplo de 3, então é múltiplo de 6",
+    "e": "Se um número não é múltiplo de 3, então não é múltiplo de 6"
+   },
+   "resposta": "e",
+   "explicacao": "A contrapositiva de p → q é ~q → ~p: nega-se e inverte-se a ordem das duas partes. Aqui, \"não é múltiplo de 3, então não é múltiplo de 6\". A alternativa (d) é a recíproca (q → p), verdadeira nesse caso específico mas logicamente distinta da original. A (a) é a inversa (~p → ~q), que troca a ordem errada — nega mas não inverte.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-09",
+   "enunciado": "Sejam A e B subconjuntos de um universo U. A expressão que é sempre igual a (A ∩ B)ᶜ (complementar da interseção) é:",
+   "alternativas": {
+    "a": "A ∩ Bᶜ",
+    "b": "Aᶜ ∩ B",
+    "c": "Aᶜ ∩ Bᶜ",
+    "d": "Aᶜ ∪ Bᶜ",
+    "e": "A ∪ B"
+   },
+   "resposta": "d",
+   "explicacao": "É a lei de De Morgan para conjuntos: o complementar da interseção é a união dos complementares. A alternativa (c), Aᶜ ∩ Bᶜ, é o complementar da UNIÃO, (A ∪ B)ᶜ — a outra metade da mesma lei, frequentemente trocada com esta.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-10",
+   "enunciado": "A negação da proposição \"Todo engenheiro que se forma no ITA encontra emprego em até seis meses\" é:",
+   "alternativas": {
+    "a": "Nenhum engenheiro que se forma no ITA encontra emprego em até seis meses",
+    "b": "Todo engenheiro que se forma no ITA não encontra emprego em até seis meses",
+    "c": "Existe um engenheiro que se forma no ITA e não encontra emprego em até seis meses",
+    "d": "Existe um engenheiro que não se forma no ITA e encontra emprego em até seis meses",
+    "e": "Todo engenheiro que não se forma no ITA não encontra emprego em até seis meses"
+   },
+   "resposta": "c",
+   "explicacao": "A negação de \"para todo x, P(x)\" é \"existe x tal que não P(x)\": basta um único contraexemplo para derrubar a afirmação universal. As alternativas (a) e (b) trocam a negação por outra afirmação universal (\"nenhum\", \"todo... não\"), erro comum que substitui \"existe um caso contrário\" por \"todos os casos são contrários\" — logicamente mais forte do que a simples negação exige.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-11",
+   "enunciado": "Se A tem 4 elementos e B tem 3 elementos, o número de subconjuntos do produto cartesiano A × B é:",
+   "alternativas": {
+    "a": "12",
+    "b": "2¹²",
+    "c": "4³",
+    "d": "2⁷",
+    "e": "3⁴"
+   },
+   "resposta": "b",
+   "explicacao": "A × B tem 4 × 3 = 12 pares ordenados. O número de subconjuntos de um conjunto com n elementos é 2ⁿ, logo o número de subconjuntos de A × B é 2¹². A alternativa (a) é só o número de elementos de A × B, não o número de subconjuntos dele. A (d), 2⁷, seria o número de subconjuntos de um conjunto com 7 elementos — nem A ∪ B (7 elementos, se disjuntos) nem A × B.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-12",
+   "enunciado": "Uma proposição composta é formada por 4 proposições simples distintas, p, q, r e s. O número de linhas da tabela-verdade dessa proposição composta é:",
+   "alternativas": {
+    "a": "8",
+    "b": "16",
+    "c": "24",
+    "d": "4",
+    "e": "32"
+   },
+   "resposta": "b",
+   "explicacao": "Cada proposição simples pode assumir 2 valores (V ou F), e a tabela precisa cobrir todas as combinações possíveis: 2⁴ = 16 linhas. A alternativa (a), 8 = 2³, seria o número de linhas para 3 proposições, não 4. A (c), 24, é 4! (permutações de 4 elementos), confusão comum entre contar combinações de valores lógicos e contar arranjos.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-13",
+   "enunciado": "Um número inteiro n satisfaz \"n é par se, e somente se, n² é par\". Sobre essa proposição bicondicional, é correto afirmar que ela é:",
+   "alternativas": {
+    "a": "verdadeira apenas para n positivo",
+    "b": "falsa, pois a implicação \"n² par implica n par\" não vale para todo n",
+    "c": "indeterminada, pois depende do valor de n",
+    "d": "falsa, pois existem números pares cujo quadrado é ímpar",
+    "e": "verdadeira, pois as duas implicações — \"n par implica n² par\" e \"n² par implica n par\" — são ambas verdadeiras"
+   },
+   "resposta": "e",
+   "explicacao": "p ↔ q é verdadeira quando as duas implicações valem: se n é par, n² é par (produto de par por par); e se n² é par, n é necessariamente par (se n fosse ímpar, n² seria ímpar). As duas implicações se sustentam para todo n inteiro, tornando a bicondicional verdadeira sempre, não só para n positivo, como sugere (a).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-14",
+   "enunciado": "Em uma pesquisa com 150 candidatos de um processo seletivo, 90 sabem Python, 70 sabem C++ e 40 sabem as duas linguagens. O número de candidatos que sabem apenas uma das duas linguagens é:",
+   "alternativas": {
+    "a": "80",
+    "b": "90",
+    "c": "120",
+    "d": "20",
+    "e": "160"
+   },
+   "resposta": "a",
+   "explicacao": "Apenas Python: 90 − 40 = 50. Apenas C++: 70 − 40 = 30. Apenas uma das duas: 50 + 30 = 80. A alternativa (c), 120, é |A ∪ B| = 90+70−40, que inclui também quem sabe as duas — o oposto de \"apenas uma\". A (b), 90, é só o total de quem sabe Python, sem descontar quem também sabe C++.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-16",
+   "enunciado": "Sejam A = {1, 2, 3} e B = {3, 4, 5}. O número de elementos do conjunto (A ∪ B) − (A ∩ B) é:",
+   "alternativas": {
+    "a": "6",
+    "b": "5",
+    "c": "4",
+    "d": "3",
+    "e": "1"
+   },
+   "resposta": "c",
+   "explicacao": "A ∪ B = {1,2,3,4,5}, com 5 elementos. A ∩ B = {3}, com 1 elemento. A diferença remove os elementos comuns da união: {1,2,4,5}, com 4 elementos — essa construção é chamada diferença simétrica. A alternativa (b), 5, é só |A ∪ B|, sem descontar o que se pede subtrair. A (e), 1, é o tamanho de A ∩ B, o termo que deveria ser removido, não o resultado.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-17",
+   "enunciado": "Para quaisquer conjuntos A, B e C, a expressão A ∩ (B ∪ C) é sempre igual a:",
+   "alternativas": {
+    "a": "(A ∩ B) ∪ (A ∩ C)",
+    "b": "(A ∪ B) ∩ (A ∪ C)",
+    "c": "(A ∩ B) ∩ (A ∩ C)",
+    "d": "(A ∪ B) ∪ (A ∪ C)",
+    "e": "A ∩ B ∩ C"
+   },
+   "resposta": "a",
+   "explicacao": "É a propriedade distributiva da interseção sobre a união, análoga a a·(b+c) = a·b + a·c na álgebra. A alternativa (b) é a distributiva da UNIÃO sobre a interseção, A ∪ (B ∩ C) — a lei irmã, fácil de trocar com esta. A (e) só valeria se B e C fossem exatamente iguais.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-20",
+   "enunciado": "A negação da proposição \"Existe um número real x tal que x² + 1 = 0\" é:",
+   "alternativas": {
+    "a": "Não existe nenhum número real x tal que x² + 1 = 0",
+    "b": "Existe um número real x tal que x² + 1 ≠ 0",
+    "c": "Para todo número real x, x² + 1 ≠ 0",
+    "d": "tanto (a) quanto (c), pois são equivalentes",
+    "e": "Para todo número real x, x² + 1 = 0"
+   },
+   "resposta": "d",
+   "explicacao": "A negação de \"existe x tal que P(x)\" é \"para todo x, não P(x)\": se nenhum caso particular satisfaz a condição, então nenhum satisfaz — as duas formas, \"não existe\" e \"para todo, não\", dizem exatamente a mesma coisa. A alternativa (b) comete o erro clássico de trocar apenas o \"existe...=\" por \"existe...≠\", mantendo o quantificador existencial, o que não é uma negação válida da proposição original.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-21",
+   "enunciado": "Sejam A o conjunto dos divisores positivos de 12 e B o conjunto dos divisores positivos de 18. O número de elementos da diferença simétrica A △ B (elementos que pertencem a exatamente um dos dois conjuntos) é:",
+   "alternativas": {
+    "a": "4",
+    "b": "6",
+    "c": "8",
+    "d": "10",
+    "e": "2"
+   },
+   "resposta": "a",
+   "explicacao": "Divisores de 12: {1,2,3,4,6,12}, 6 elementos. Divisores de 18: {1,2,3,6,9,18}, 6 elementos. Comuns: {1,2,3,6}, 4 elementos. A diferença simétrica tem |A|+|B|−2|A∩B| = 6+6−8 = 4: os elementos 4, 12, 9 e 18 pertencem a exatamente um dos dois. A alternativa (c), 8, seria |A∪B|−|A∩B|... na verdade |A∪B|=8, que é o total de elementos distintos contando UMA vez os comuns — diferente de contar só quem está em exatamente um dos dois.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-22",
+   "enunciado": "Numa pesquisa com 300 pessoas, 180 disseram gostar de rock, 150 disseram gostar de MPB e 45 disseram não gostar de nenhum dos dois gêneros. O número de pessoas que gostam dos dois gêneros ao mesmo tempo é:",
+   "alternativas": {
+    "a": "30",
+    "b": "45",
+    "c": "60",
+    "d": "75",
+    "e": "105"
+   },
+   "resposta": "d",
+   "explicacao": "Quem gosta de pelo menos um: 300 − 45 = 255. Pela fórmula da união, |A∩B| = |A|+|B|−|A∪B| = 180+150−255 = 75. A alternativa (a), 30, viria de um erro de sinal na fórmula (255−180−150=−75, e alguém \"corrige\" tirando o sinal e dividindo por algo). A (e), 105, seria 180−75 ou outra combinação sem sentido direto com a pergunta.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-24",
+   "enunciado": "Sejam as proposições p: \"8 é divisor de 24\" (verdadeira), q: \"8 é divisor de 36\" (falsa) e r: \"8 é primo\" (falsa). O valor lógico de (p ∧ ~q) ∨ r é:",
+   "alternativas": {
+    "a": "verdadeira, pois p é verdadeira e ~q também é verdadeira, o que já basta para a disjunção com r",
+    "b": "falsa, pois r é falsa e isso torna toda a disjunção falsa",
+    "c": "falsa, pois p ∧ ~q é falsa",
+    "d": "verdadeira apenas se r fosse também verdadeira",
+    "e": "indeterminada, pois depende de convenção sobre primalidade de 8"
+   },
+   "resposta": "a",
+   "explicacao": "~q é verdadeira, pois q é falsa. p ∧ ~q: verdadeira e verdadeira, logo verdadeira. Numa disjunção, basta um lado ser verdadeiro para o todo ser verdadeiro — não importa que r seja falsa. A alternativa (b) erra a regra da disjunção, tratando-a como se fosse uma conjunção, em que todos os termos precisariam ser verdadeiros.",
+   "formato": "direta",
+   "origem": "engenharia"
   }
  ],
  "matematica-complexos": [

@@ -12423,342 +12423,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "matematica-logica-conjuntos",
-   "id": "eng-polinomios-24",
-   "enunciado": "Um polinômio p(x) é tal que p(x) = 0 para todo valor real de x. Sobre o grau desse polinômio, é correto afirmar que:",
-   "alternativas": {
-    "a": "o polinômio nulo não tem grau definido, e não pode ser tratado como tendo grau 0",
-    "b": "seu grau é 0",
-    "c": "seu grau é 1",
-    "d": "seu grau é indefinidamente grande",
-    "e": "seu grau depende do número de termos escritos"
-   },
-   "resposta": "a",
-   "explicacao": "O polinômio identicamente nulo (todos os coeficientes iguais a zero) é o único caso em que o grau não é definido, por convenção — não existe termo de maior grau com coeficiente não nulo para caracterizar um grau. É diferente de um polinômio constante não nulo, como p(x)=5, que tem grau 0. A alternativa (b) confunde os dois casos.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-01",
-   "enunciado": "Numa turma de 40 alunos, 22 fazem cursinho de Matemática e 18 fazem cursinho de Física. Sabendo que 8 alunos fazem os dois cursinhos, o número de alunos que não fazem nenhum dos dois é:",
-   "alternativas": {
-    "a": "14",
-    "b": "24",
-    "c": "32",
-    "d": "0",
-    "e": "8"
-   },
-   "resposta": "e",
-   "explicacao": "|A∪B| = 22 + 18 − 8 = 32. Não fazem nenhum: 40 − 32 = 8. A alternativa (c) confunde \"não fazem nenhum\" com \"fazem pelo menos um\" (a própria união). A (b) conta só quem faz exatamente um dos dois (14 + 10). A (a) é só quem faz Matemática e não Física (22 − 8). A (d) vem de somar 22 + 18 = 40 sem subtrair a interseção, como se a turma toda estivesse coberta.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-02",
-   "enunciado": "Dos 90 alunos de um cursinho, 50 estudam Cálculo, 40 estudam Física e 35 estudam Química. Desses, 20 estudam Cálculo e Física, 15 estudam Física e Química, 18 estudam Cálculo e Química, e 8 estudam as três disciplinas. O número de alunos que não estudam nenhuma das três é:",
-   "alternativas": {
-    "a": "45",
-    "b": "26",
-    "c": "18",
-    "d": "10",
-    "e": "5"
-   },
-   "resposta": "d",
-   "explicacao": "|A∪B∪C| = 50+40+35 − 20−15−18 + 8 = 80. Não estudam nenhuma: 90 − 80 = 10. A alternativa (c) esquece de somar de volta os 8 que fazem as três disciplinas (fórmula parando em 125 − 53 = 72, e 90 − 72 = 18). A (b) subtrai a interseção tripla em vez de somá-la (125 − 53 − 8 = 64, e 90 − 64 = 26).",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-03",
-   "enunciado": "Sejam A = {x ∈ ℕ : 1 ≤ x ≤ 20} e B o conjunto dos múltiplos de 3 pertencentes a A. O número de elementos do conjunto A − B (diferença entre A e B) é:",
-   "alternativas": {
-    "a": "6",
-    "b": "13",
-    "c": "14",
-    "d": "20",
-    "e": "7"
-   },
-   "resposta": "c",
-   "explicacao": "B = {3,6,9,12,15,18}, com 6 elementos. A − B remove de A os elementos de B: 20 − 6 = 14. A alternativa (a) é o número de elementos de B, não de A − B. A (d) ignora a subtração e devolve o próprio A. A (b) e a (e) vêm de contar errado os múltiplos de 3 até 20 (incluindo por engano um sétimo múltiplo, como se 21 pertencesse a A).",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-04",
-   "enunciado": "Considere as proposições p: \"Marte tem duas luas\" (verdadeira) e q: \"Vênus é o planeta mais próximo do Sol\" (falsa). O valor lógico da proposição composta ~p ∨ (p → q) é:",
-   "alternativas": {
-    "a": "verdadeira, porque p → q é verdadeira sempre que p é verdadeira",
-    "b": "falsa, porque ~p é falsa e p → q também é falsa",
-    "c": "verdadeira, porque ~p ∨ (p → q) equivale à própria negação de p, que é falsa",
-    "d": "falsa, porque a disjunção de duas proposições falsas é falsa",
-    "e": "impossível determinar sem saber o valor lógico de ~q"
-   },
-   "resposta": "b",
-   "explicacao": "~p é falsa, pois p é verdadeira. p → q é falsa porque o antecedente é verdadeiro e o consequente é falso — o único caso em que o condicional falha. A disjunção de duas proposições falsas é falsa: ~p ∨ (p → q) é falsa. A alternativa (a) erra a regra do condicional: p verdadeiro não garante p → q verdadeiro, só quando q também é verdadeiro. A (d) chega à conclusão certa mas por justificativa incompleta, sem checar que a disjunção citada é mesmo essa.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-05",
-   "enunciado": "A negação lógica da proposição \"Se chove, então a rua fica molhada\" é:",
-   "alternativas": {
-    "a": "Não chove ou a rua não fica molhada",
-    "b": "A rua fica molhada se, e somente se, chove",
-    "c": "Se não chove, então a rua não fica molhada",
-    "d": "Se a rua fica molhada, então chove",
-    "e": "Chove e a rua não fica molhada"
-   },
-   "resposta": "e",
-   "explicacao": "A negação de p → q é p ∧ ~q, e não outro condicional: nega-se \"sempre que chove, molha\" exibindo um caso em que chove e não molha. A alternativa (c) é a inversa do condicional original, e (d) é a recíproca — nenhuma das duas é logicamente equivalente à negação. A (a) aplica De Morgan a uma disjunção que a proposição original nem tem.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-06",
-   "enunciado": "Das proposições compostas abaixo, é logicamente equivalente a p → q:",
-   "alternativas": {
-    "a": "~p ∨ q",
-    "b": "~p ∧ q",
-    "c": "p ∧ ~q",
-    "d": "~q → ~p",
-    "e": "tanto (a) quanto (d)"
-   },
-   "resposta": "e",
-   "explicacao": "p → q é falsa apenas quando p é verdadeira e q é falsa. Testando ~p ∨ q nesse caso: ~p é falsa e q é falsa, logo a disjunção é falsa — coincide em todos os casos com p → q. ~q → ~p é a contrapositiva de p → q, e a contrapositiva é sempre equivalente ao condicional original. As duas construções, portanto, são equivalentes. A alternativa (b), ~p ∧ q, é uma conjunção que não corresponde a nenhuma equivalência do condicional.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-07",
-   "enunciado": "Numa pesquisa com 200 pessoas sobre o consumo de dois serviços de streaming, A e B, verificou-se que o número de pessoas que assinam apenas A é o dobro do número de pessoas que assinam apenas B, 30 pessoas assinam ambos e 50 não assinam nenhum. O número de pessoas que assinam o serviço A (incluindo quem assina os dois) é:",
-   "alternativas": {
-    "a": "80",
-    "b": "90",
-    "c": "110",
-    "d": "120",
-    "e": "150"
-   },
-   "resposta": "c",
-   "explicacao": "Quem assina pelo menos um: 200 − 50 = 150. Sendo x quem assina só B e 2x quem assina só A: 2x + x + 30 = 150, logo x = 40. Assinam A no total: apenas A (2x = 80) mais quem assina os dois (30) = 110. A alternativa (a) é só \"apenas A\", esquecendo de somar quem assina os dois serviços. A (e) é o total de quem assina pelo menos um dos dois, não só A.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-08",
-   "enunciado": "Considere a proposição: \"Se um número é múltiplo de 6, então é múltiplo de 3.\" Assinale a alternativa que apresenta a contrapositiva dessa proposição.",
-   "alternativas": {
-    "a": "Se um número não é múltiplo de 6, então não é múltiplo de 3",
-    "b": "Um número é múltiplo de 6 se, e somente se, é múltiplo de 3",
-    "c": "Um número não é múltiplo de 6 ou não é múltiplo de 3",
-    "d": "Se um número é múltiplo de 3, então é múltiplo de 6",
-    "e": "Se um número não é múltiplo de 3, então não é múltiplo de 6"
-   },
-   "resposta": "e",
-   "explicacao": "A contrapositiva de p → q é ~q → ~p: nega-se e inverte-se a ordem das duas partes. Aqui, \"não é múltiplo de 3, então não é múltiplo de 6\". A alternativa (d) é a recíproca (q → p), verdadeira nesse caso específico mas logicamente distinta da original. A (a) é a inversa (~p → ~q), que troca a ordem errada — nega mas não inverte.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-09",
-   "enunciado": "Sejam A e B subconjuntos de um universo U. A expressão que é sempre igual a (A ∩ B)ᶜ (complementar da interseção) é:",
-   "alternativas": {
-    "a": "A ∩ Bᶜ",
-    "b": "Aᶜ ∩ B",
-    "c": "Aᶜ ∩ Bᶜ",
-    "d": "Aᶜ ∪ Bᶜ",
-    "e": "A ∪ B"
-   },
-   "resposta": "d",
-   "explicacao": "É a lei de De Morgan para conjuntos: o complementar da interseção é a união dos complementares. A alternativa (c), Aᶜ ∩ Bᶜ, é o complementar da UNIÃO, (A ∪ B)ᶜ — a outra metade da mesma lei, frequentemente trocada com esta.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-10",
-   "enunciado": "A negação da proposição \"Todo engenheiro que se forma no ITA encontra emprego em até seis meses\" é:",
-   "alternativas": {
-    "a": "Nenhum engenheiro que se forma no ITA encontra emprego em até seis meses",
-    "b": "Todo engenheiro que se forma no ITA não encontra emprego em até seis meses",
-    "c": "Existe um engenheiro que se forma no ITA e não encontra emprego em até seis meses",
-    "d": "Existe um engenheiro que não se forma no ITA e encontra emprego em até seis meses",
-    "e": "Todo engenheiro que não se forma no ITA não encontra emprego em até seis meses"
-   },
-   "resposta": "c",
-   "explicacao": "A negação de \"para todo x, P(x)\" é \"existe x tal que não P(x)\": basta um único contraexemplo para derrubar a afirmação universal. As alternativas (a) e (b) trocam a negação por outra afirmação universal (\"nenhum\", \"todo... não\"), erro comum que substitui \"existe um caso contrário\" por \"todos os casos são contrários\" — logicamente mais forte do que a simples negação exige.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-11",
-   "enunciado": "Se A tem 4 elementos e B tem 3 elementos, o número de subconjuntos do produto cartesiano A × B é:",
-   "alternativas": {
-    "a": "12",
-    "b": "2¹²",
-    "c": "4³",
-    "d": "2⁷",
-    "e": "3⁴"
-   },
-   "resposta": "b",
-   "explicacao": "A × B tem 4 × 3 = 12 pares ordenados. O número de subconjuntos de um conjunto com n elementos é 2ⁿ, logo o número de subconjuntos de A × B é 2¹². A alternativa (a) é só o número de elementos de A × B, não o número de subconjuntos dele. A (d), 2⁷, seria o número de subconjuntos de um conjunto com 7 elementos — nem A ∪ B (7 elementos, se disjuntos) nem A × B.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-12",
-   "enunciado": "Uma proposição composta é formada por 4 proposições simples distintas, p, q, r e s. O número de linhas da tabela-verdade dessa proposição composta é:",
-   "alternativas": {
-    "a": "8",
-    "b": "16",
-    "c": "24",
-    "d": "4",
-    "e": "32"
-   },
-   "resposta": "b",
-   "explicacao": "Cada proposição simples pode assumir 2 valores (V ou F), e a tabela precisa cobrir todas as combinações possíveis: 2⁴ = 16 linhas. A alternativa (a), 8 = 2³, seria o número de linhas para 3 proposições, não 4. A (c), 24, é 4! (permutações de 4 elementos), confusão comum entre contar combinações de valores lógicos e contar arranjos.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-13",
-   "enunciado": "Um número inteiro n satisfaz \"n é par se, e somente se, n² é par\". Sobre essa proposição bicondicional, é correto afirmar que ela é:",
-   "alternativas": {
-    "a": "verdadeira apenas para n positivo",
-    "b": "falsa, pois a implicação \"n² par implica n par\" não vale para todo n",
-    "c": "indeterminada, pois depende do valor de n",
-    "d": "falsa, pois existem números pares cujo quadrado é ímpar",
-    "e": "verdadeira, pois as duas implicações — \"n par implica n² par\" e \"n² par implica n par\" — são ambas verdadeiras"
-   },
-   "resposta": "e",
-   "explicacao": "p ↔ q é verdadeira quando as duas implicações valem: se n é par, n² é par (produto de par por par); e se n² é par, n é necessariamente par (se n fosse ímpar, n² seria ímpar). As duas implicações se sustentam para todo n inteiro, tornando a bicondicional verdadeira sempre, não só para n positivo, como sugere (a).",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-14",
-   "enunciado": "Em uma pesquisa com 150 candidatos de um processo seletivo, 90 sabem Python, 70 sabem C++ e 40 sabem as duas linguagens. O número de candidatos que sabem apenas uma das duas linguagens é:",
-   "alternativas": {
-    "a": "80",
-    "b": "90",
-    "c": "120",
-    "d": "20",
-    "e": "160"
-   },
-   "resposta": "a",
-   "explicacao": "Apenas Python: 90 − 40 = 50. Apenas C++: 70 − 40 = 30. Apenas uma das duas: 50 + 30 = 80. A alternativa (c), 120, é |A ∪ B| = 90+70−40, que inclui também quem sabe as duas — o oposto de \"apenas uma\". A (b), 90, é só o total de quem sabe Python, sem descontar quem também sabe C++.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-16",
-   "enunciado": "Sejam A = {1, 2, 3} e B = {3, 4, 5}. O número de elementos do conjunto (A ∪ B) − (A ∩ B) é:",
-   "alternativas": {
-    "a": "6",
-    "b": "5",
-    "c": "4",
-    "d": "3",
-    "e": "1"
-   },
-   "resposta": "c",
-   "explicacao": "A ∪ B = {1,2,3,4,5}, com 5 elementos. A ∩ B = {3}, com 1 elemento. A diferença remove os elementos comuns da união: {1,2,4,5}, com 4 elementos — essa construção é chamada diferença simétrica. A alternativa (b), 5, é só |A ∪ B|, sem descontar o que se pede subtrair. A (e), 1, é o tamanho de A ∩ B, o termo que deveria ser removido, não o resultado.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-17",
-   "enunciado": "Para quaisquer conjuntos A, B e C, a expressão A ∩ (B ∪ C) é sempre igual a:",
-   "alternativas": {
-    "a": "(A ∩ B) ∪ (A ∩ C)",
-    "b": "(A ∪ B) ∩ (A ∪ C)",
-    "c": "(A ∩ B) ∩ (A ∩ C)",
-    "d": "(A ∪ B) ∪ (A ∪ C)",
-    "e": "A ∩ B ∩ C"
-   },
-   "resposta": "a",
-   "explicacao": "É a propriedade distributiva da interseção sobre a união, análoga a a·(b+c) = a·b + a·c na álgebra. A alternativa (b) é a distributiva da UNIÃO sobre a interseção, A ∪ (B ∩ C) — a lei irmã, fácil de trocar com esta. A (e) só valeria se B e C fossem exatamente iguais.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-20",
-   "enunciado": "A negação da proposição \"Existe um número real x tal que x² + 1 = 0\" é:",
-   "alternativas": {
-    "a": "Não existe nenhum número real x tal que x² + 1 = 0",
-    "b": "Existe um número real x tal que x² + 1 ≠ 0",
-    "c": "Para todo número real x, x² + 1 ≠ 0",
-    "d": "tanto (a) quanto (c), pois são equivalentes",
-    "e": "Para todo número real x, x² + 1 = 0"
-   },
-   "resposta": "d",
-   "explicacao": "A negação de \"existe x tal que P(x)\" é \"para todo x, não P(x)\": se nenhum caso particular satisfaz a condição, então nenhum satisfaz — as duas formas, \"não existe\" e \"para todo, não\", dizem exatamente a mesma coisa. A alternativa (b) comete o erro clássico de trocar apenas o \"existe...=\" por \"existe...≠\", mantendo o quantificador existencial, o que não é uma negação válida da proposição original.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-21",
-   "enunciado": "Sejam A o conjunto dos divisores positivos de 12 e B o conjunto dos divisores positivos de 18. O número de elementos da diferença simétrica A △ B (elementos que pertencem a exatamente um dos dois conjuntos) é:",
-   "alternativas": {
-    "a": "4",
-    "b": "6",
-    "c": "8",
-    "d": "10",
-    "e": "2"
-   },
-   "resposta": "a",
-   "explicacao": "Divisores de 12: {1,2,3,4,6,12}, 6 elementos. Divisores de 18: {1,2,3,6,9,18}, 6 elementos. Comuns: {1,2,3,6}, 4 elementos. A diferença simétrica tem |A|+|B|−2|A∩B| = 6+6−8 = 4: os elementos 4, 12, 9 e 18 pertencem a exatamente um dos dois. A alternativa (c), 8, seria |A∪B|−|A∩B|... na verdade |A∪B|=8, que é o total de elementos distintos contando UMA vez os comuns — diferente de contar só quem está em exatamente um dos dois.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-22",
-   "enunciado": "Numa pesquisa com 300 pessoas, 180 disseram gostar de rock, 150 disseram gostar de MPB e 45 disseram não gostar de nenhum dos dois gêneros. O número de pessoas que gostam dos dois gêneros ao mesmo tempo é:",
-   "alternativas": {
-    "a": "30",
-    "b": "45",
-    "c": "60",
-    "d": "75",
-    "e": "105"
-   },
-   "resposta": "d",
-   "explicacao": "Quem gosta de pelo menos um: 300 − 45 = 255. Pela fórmula da união, |A∩B| = |A|+|B|−|A∪B| = 180+150−255 = 75. A alternativa (a), 30, viria de um erro de sinal na fórmula (255−180−150=−75, e alguém \"corrige\" tirando o sinal e dividindo por algo). A (e), 105, seria 180−75 ou outra combinação sem sentido direto com a pergunta.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
-   "id": "eng-logica-24",
-   "enunciado": "Sejam as proposições p: \"8 é divisor de 24\" (verdadeira), q: \"8 é divisor de 36\" (falsa) e r: \"8 é primo\" (falsa). O valor lógico de (p ∧ ~q) ∨ r é:",
-   "alternativas": {
-    "a": "verdadeira, pois p é verdadeira e ~q também é verdadeira, o que já basta para a disjunção com r",
-    "b": "falsa, pois r é falsa e isso torna toda a disjunção falsa",
-    "c": "falsa, pois p ∧ ~q é falsa",
-    "d": "verdadeira apenas se r fosse também verdadeira",
-    "e": "indeterminada, pois depende de convenção sobre primalidade de 8"
-   },
-   "resposta": "a",
-   "explicacao": "~q é verdadeira, pois q é falsa. p ∧ ~q: verdadeira e verdadeira, logo verdadeira. Numa disjunção, basta um lado ser verdadeiro para o todo ser verdadeiro — não importa que r seja falsa. A alternativa (b) erra a regra da disjunção, tratando-a como se fosse uma conjunção, em que todos os termos precisariam ser verdadeiros.",
-   "formato": "direta",
-   "origem": "engenharia"
-  },
-  {
-   "subtema": "matematica-logica-conjuntos",
    "id": "med-matematica-477",
    "enunciado": "Uma pesquisa ouviu 130 moradores de um bairro sobre dois aplicativos. Verificou-se que 68 usam o aplicativo de transporte, 52 usam o aplicativo de entrega e 25 usam os dois. Representando a situação num diagrama de Venn, quantos moradores não usam nenhum dos dois aplicativos?",
    "alternativas": {
@@ -13460,6 +13124,342 @@ window.QUESTION_BANKS = {
    "explicacao": "A hipótese diz que para todo estudante de robótica vale também a programação, ou seja, o conjunto da robótica está contido no da programação, e no diagrama de Venn uma das regiões fica inteiramente dentro da outra. A interseção dos conjuntos é então o próprio grupo de robótica, e a diferença entre conjuntos procurada vale 18 − 7 = 11. A alternativa 25 soma os dois grupos como se fossem separados; 18 e 7 repetem os totais dados.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-polinomios-24",
+   "enunciado": "Um polinômio p(x) é tal que p(x) = 0 para todo valor real de x. Sobre o grau desse polinômio, é correto afirmar que:",
+   "alternativas": {
+    "a": "o polinômio nulo não tem grau definido, e não pode ser tratado como tendo grau 0",
+    "b": "seu grau é 0",
+    "c": "seu grau é 1",
+    "d": "seu grau é indefinidamente grande",
+    "e": "seu grau depende do número de termos escritos"
+   },
+   "resposta": "a",
+   "explicacao": "O polinômio identicamente nulo (todos os coeficientes iguais a zero) é o único caso em que o grau não é definido, por convenção — não existe termo de maior grau com coeficiente não nulo para caracterizar um grau. É diferente de um polinômio constante não nulo, como p(x)=5, que tem grau 0. A alternativa (b) confunde os dois casos.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-01",
+   "enunciado": "Numa turma de 40 alunos, 22 fazem cursinho de Matemática e 18 fazem cursinho de Física. Sabendo que 8 alunos fazem os dois cursinhos, o número de alunos que não fazem nenhum dos dois é:",
+   "alternativas": {
+    "a": "14",
+    "b": "24",
+    "c": "32",
+    "d": "0",
+    "e": "8"
+   },
+   "resposta": "e",
+   "explicacao": "|A∪B| = 22 + 18 − 8 = 32. Não fazem nenhum: 40 − 32 = 8. A alternativa (c) confunde \"não fazem nenhum\" com \"fazem pelo menos um\" (a própria união). A (b) conta só quem faz exatamente um dos dois (14 + 10). A (a) é só quem faz Matemática e não Física (22 − 8). A (d) vem de somar 22 + 18 = 40 sem subtrair a interseção, como se a turma toda estivesse coberta.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-02",
+   "enunciado": "Dos 90 alunos de um cursinho, 50 estudam Cálculo, 40 estudam Física e 35 estudam Química. Desses, 20 estudam Cálculo e Física, 15 estudam Física e Química, 18 estudam Cálculo e Química, e 8 estudam as três disciplinas. O número de alunos que não estudam nenhuma das três é:",
+   "alternativas": {
+    "a": "45",
+    "b": "26",
+    "c": "18",
+    "d": "10",
+    "e": "5"
+   },
+   "resposta": "d",
+   "explicacao": "|A∪B∪C| = 50+40+35 − 20−15−18 + 8 = 80. Não estudam nenhuma: 90 − 80 = 10. A alternativa (c) esquece de somar de volta os 8 que fazem as três disciplinas (fórmula parando em 125 − 53 = 72, e 90 − 72 = 18). A (b) subtrai a interseção tripla em vez de somá-la (125 − 53 − 8 = 64, e 90 − 64 = 26).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-03",
+   "enunciado": "Sejam A = {x ∈ ℕ : 1 ≤ x ≤ 20} e B o conjunto dos múltiplos de 3 pertencentes a A. O número de elementos do conjunto A − B (diferença entre A e B) é:",
+   "alternativas": {
+    "a": "6",
+    "b": "13",
+    "c": "14",
+    "d": "20",
+    "e": "7"
+   },
+   "resposta": "c",
+   "explicacao": "B = {3,6,9,12,15,18}, com 6 elementos. A − B remove de A os elementos de B: 20 − 6 = 14. A alternativa (a) é o número de elementos de B, não de A − B. A (d) ignora a subtração e devolve o próprio A. A (b) e a (e) vêm de contar errado os múltiplos de 3 até 20 (incluindo por engano um sétimo múltiplo, como se 21 pertencesse a A).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-04",
+   "enunciado": "Considere as proposições p: \"Marte tem duas luas\" (verdadeira) e q: \"Vênus é o planeta mais próximo do Sol\" (falsa). O valor lógico da proposição composta ~p ∨ (p → q) é:",
+   "alternativas": {
+    "a": "verdadeira, porque p → q é verdadeira sempre que p é verdadeira",
+    "b": "falsa, porque ~p é falsa e p → q também é falsa",
+    "c": "verdadeira, porque ~p ∨ (p → q) equivale à própria negação de p, que é falsa",
+    "d": "falsa, porque a disjunção de duas proposições falsas é falsa",
+    "e": "impossível determinar sem saber o valor lógico de ~q"
+   },
+   "resposta": "b",
+   "explicacao": "~p é falsa, pois p é verdadeira. p → q é falsa porque o antecedente é verdadeiro e o consequente é falso — o único caso em que o condicional falha. A disjunção de duas proposições falsas é falsa: ~p ∨ (p → q) é falsa. A alternativa (a) erra a regra do condicional: p verdadeiro não garante p → q verdadeiro, só quando q também é verdadeiro. A (d) chega à conclusão certa mas por justificativa incompleta, sem checar que a disjunção citada é mesmo essa.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-05",
+   "enunciado": "A negação lógica da proposição \"Se chove, então a rua fica molhada\" é:",
+   "alternativas": {
+    "a": "Não chove ou a rua não fica molhada",
+    "b": "A rua fica molhada se, e somente se, chove",
+    "c": "Se não chove, então a rua não fica molhada",
+    "d": "Se a rua fica molhada, então chove",
+    "e": "Chove e a rua não fica molhada"
+   },
+   "resposta": "e",
+   "explicacao": "A negação de p → q é p ∧ ~q, e não outro condicional: nega-se \"sempre que chove, molha\" exibindo um caso em que chove e não molha. A alternativa (c) é a inversa do condicional original, e (d) é a recíproca — nenhuma das duas é logicamente equivalente à negação. A (a) aplica De Morgan a uma disjunção que a proposição original nem tem.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-06",
+   "enunciado": "Das proposições compostas abaixo, é logicamente equivalente a p → q:",
+   "alternativas": {
+    "a": "~p ∨ q",
+    "b": "~p ∧ q",
+    "c": "p ∧ ~q",
+    "d": "~q → ~p",
+    "e": "tanto (a) quanto (d)"
+   },
+   "resposta": "e",
+   "explicacao": "p → q é falsa apenas quando p é verdadeira e q é falsa. Testando ~p ∨ q nesse caso: ~p é falsa e q é falsa, logo a disjunção é falsa — coincide em todos os casos com p → q. ~q → ~p é a contrapositiva de p → q, e a contrapositiva é sempre equivalente ao condicional original. As duas construções, portanto, são equivalentes. A alternativa (b), ~p ∧ q, é uma conjunção que não corresponde a nenhuma equivalência do condicional.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-07",
+   "enunciado": "Numa pesquisa com 200 pessoas sobre o consumo de dois serviços de streaming, A e B, verificou-se que o número de pessoas que assinam apenas A é o dobro do número de pessoas que assinam apenas B, 30 pessoas assinam ambos e 50 não assinam nenhum. O número de pessoas que assinam o serviço A (incluindo quem assina os dois) é:",
+   "alternativas": {
+    "a": "80",
+    "b": "90",
+    "c": "110",
+    "d": "120",
+    "e": "150"
+   },
+   "resposta": "c",
+   "explicacao": "Quem assina pelo menos um: 200 − 50 = 150. Sendo x quem assina só B e 2x quem assina só A: 2x + x + 30 = 150, logo x = 40. Assinam A no total: apenas A (2x = 80) mais quem assina os dois (30) = 110. A alternativa (a) é só \"apenas A\", esquecendo de somar quem assina os dois serviços. A (e) é o total de quem assina pelo menos um dos dois, não só A.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-08",
+   "enunciado": "Considere a proposição: \"Se um número é múltiplo de 6, então é múltiplo de 3.\" Assinale a alternativa que apresenta a contrapositiva dessa proposição.",
+   "alternativas": {
+    "a": "Se um número não é múltiplo de 6, então não é múltiplo de 3",
+    "b": "Um número é múltiplo de 6 se, e somente se, é múltiplo de 3",
+    "c": "Um número não é múltiplo de 6 ou não é múltiplo de 3",
+    "d": "Se um número é múltiplo de 3, então é múltiplo de 6",
+    "e": "Se um número não é múltiplo de 3, então não é múltiplo de 6"
+   },
+   "resposta": "e",
+   "explicacao": "A contrapositiva de p → q é ~q → ~p: nega-se e inverte-se a ordem das duas partes. Aqui, \"não é múltiplo de 3, então não é múltiplo de 6\". A alternativa (d) é a recíproca (q → p), verdadeira nesse caso específico mas logicamente distinta da original. A (a) é a inversa (~p → ~q), que troca a ordem errada — nega mas não inverte.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-09",
+   "enunciado": "Sejam A e B subconjuntos de um universo U. A expressão que é sempre igual a (A ∩ B)ᶜ (complementar da interseção) é:",
+   "alternativas": {
+    "a": "A ∩ Bᶜ",
+    "b": "Aᶜ ∩ B",
+    "c": "Aᶜ ∩ Bᶜ",
+    "d": "Aᶜ ∪ Bᶜ",
+    "e": "A ∪ B"
+   },
+   "resposta": "d",
+   "explicacao": "É a lei de De Morgan para conjuntos: o complementar da interseção é a união dos complementares. A alternativa (c), Aᶜ ∩ Bᶜ, é o complementar da UNIÃO, (A ∪ B)ᶜ — a outra metade da mesma lei, frequentemente trocada com esta.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-10",
+   "enunciado": "A negação da proposição \"Todo engenheiro que se forma no ITA encontra emprego em até seis meses\" é:",
+   "alternativas": {
+    "a": "Nenhum engenheiro que se forma no ITA encontra emprego em até seis meses",
+    "b": "Todo engenheiro que se forma no ITA não encontra emprego em até seis meses",
+    "c": "Existe um engenheiro que se forma no ITA e não encontra emprego em até seis meses",
+    "d": "Existe um engenheiro que não se forma no ITA e encontra emprego em até seis meses",
+    "e": "Todo engenheiro que não se forma no ITA não encontra emprego em até seis meses"
+   },
+   "resposta": "c",
+   "explicacao": "A negação de \"para todo x, P(x)\" é \"existe x tal que não P(x)\": basta um único contraexemplo para derrubar a afirmação universal. As alternativas (a) e (b) trocam a negação por outra afirmação universal (\"nenhum\", \"todo... não\"), erro comum que substitui \"existe um caso contrário\" por \"todos os casos são contrários\" — logicamente mais forte do que a simples negação exige.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-11",
+   "enunciado": "Se A tem 4 elementos e B tem 3 elementos, o número de subconjuntos do produto cartesiano A × B é:",
+   "alternativas": {
+    "a": "12",
+    "b": "2¹²",
+    "c": "4³",
+    "d": "2⁷",
+    "e": "3⁴"
+   },
+   "resposta": "b",
+   "explicacao": "A × B tem 4 × 3 = 12 pares ordenados. O número de subconjuntos de um conjunto com n elementos é 2ⁿ, logo o número de subconjuntos de A × B é 2¹². A alternativa (a) é só o número de elementos de A × B, não o número de subconjuntos dele. A (d), 2⁷, seria o número de subconjuntos de um conjunto com 7 elementos — nem A ∪ B (7 elementos, se disjuntos) nem A × B.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-12",
+   "enunciado": "Uma proposição composta é formada por 4 proposições simples distintas, p, q, r e s. O número de linhas da tabela-verdade dessa proposição composta é:",
+   "alternativas": {
+    "a": "8",
+    "b": "16",
+    "c": "24",
+    "d": "4",
+    "e": "32"
+   },
+   "resposta": "b",
+   "explicacao": "Cada proposição simples pode assumir 2 valores (V ou F), e a tabela precisa cobrir todas as combinações possíveis: 2⁴ = 16 linhas. A alternativa (a), 8 = 2³, seria o número de linhas para 3 proposições, não 4. A (c), 24, é 4! (permutações de 4 elementos), confusão comum entre contar combinações de valores lógicos e contar arranjos.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-13",
+   "enunciado": "Um número inteiro n satisfaz \"n é par se, e somente se, n² é par\". Sobre essa proposição bicondicional, é correto afirmar que ela é:",
+   "alternativas": {
+    "a": "verdadeira apenas para n positivo",
+    "b": "falsa, pois a implicação \"n² par implica n par\" não vale para todo n",
+    "c": "indeterminada, pois depende do valor de n",
+    "d": "falsa, pois existem números pares cujo quadrado é ímpar",
+    "e": "verdadeira, pois as duas implicações — \"n par implica n² par\" e \"n² par implica n par\" — são ambas verdadeiras"
+   },
+   "resposta": "e",
+   "explicacao": "p ↔ q é verdadeira quando as duas implicações valem: se n é par, n² é par (produto de par por par); e se n² é par, n é necessariamente par (se n fosse ímpar, n² seria ímpar). As duas implicações se sustentam para todo n inteiro, tornando a bicondicional verdadeira sempre, não só para n positivo, como sugere (a).",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-14",
+   "enunciado": "Em uma pesquisa com 150 candidatos de um processo seletivo, 90 sabem Python, 70 sabem C++ e 40 sabem as duas linguagens. O número de candidatos que sabem apenas uma das duas linguagens é:",
+   "alternativas": {
+    "a": "80",
+    "b": "90",
+    "c": "120",
+    "d": "20",
+    "e": "160"
+   },
+   "resposta": "a",
+   "explicacao": "Apenas Python: 90 − 40 = 50. Apenas C++: 70 − 40 = 30. Apenas uma das duas: 50 + 30 = 80. A alternativa (c), 120, é |A ∪ B| = 90+70−40, que inclui também quem sabe as duas — o oposto de \"apenas uma\". A (b), 90, é só o total de quem sabe Python, sem descontar quem também sabe C++.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-16",
+   "enunciado": "Sejam A = {1, 2, 3} e B = {3, 4, 5}. O número de elementos do conjunto (A ∪ B) − (A ∩ B) é:",
+   "alternativas": {
+    "a": "6",
+    "b": "5",
+    "c": "4",
+    "d": "3",
+    "e": "1"
+   },
+   "resposta": "c",
+   "explicacao": "A ∪ B = {1,2,3,4,5}, com 5 elementos. A ∩ B = {3}, com 1 elemento. A diferença remove os elementos comuns da união: {1,2,4,5}, com 4 elementos — essa construção é chamada diferença simétrica. A alternativa (b), 5, é só |A ∪ B|, sem descontar o que se pede subtrair. A (e), 1, é o tamanho de A ∩ B, o termo que deveria ser removido, não o resultado.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-17",
+   "enunciado": "Para quaisquer conjuntos A, B e C, a expressão A ∩ (B ∪ C) é sempre igual a:",
+   "alternativas": {
+    "a": "(A ∩ B) ∪ (A ∩ C)",
+    "b": "(A ∪ B) ∩ (A ∪ C)",
+    "c": "(A ∩ B) ∩ (A ∩ C)",
+    "d": "(A ∪ B) ∪ (A ∪ C)",
+    "e": "A ∩ B ∩ C"
+   },
+   "resposta": "a",
+   "explicacao": "É a propriedade distributiva da interseção sobre a união, análoga a a·(b+c) = a·b + a·c na álgebra. A alternativa (b) é a distributiva da UNIÃO sobre a interseção, A ∪ (B ∩ C) — a lei irmã, fácil de trocar com esta. A (e) só valeria se B e C fossem exatamente iguais.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-20",
+   "enunciado": "A negação da proposição \"Existe um número real x tal que x² + 1 = 0\" é:",
+   "alternativas": {
+    "a": "Não existe nenhum número real x tal que x² + 1 = 0",
+    "b": "Existe um número real x tal que x² + 1 ≠ 0",
+    "c": "Para todo número real x, x² + 1 ≠ 0",
+    "d": "tanto (a) quanto (c), pois são equivalentes",
+    "e": "Para todo número real x, x² + 1 = 0"
+   },
+   "resposta": "d",
+   "explicacao": "A negação de \"existe x tal que P(x)\" é \"para todo x, não P(x)\": se nenhum caso particular satisfaz a condição, então nenhum satisfaz — as duas formas, \"não existe\" e \"para todo, não\", dizem exatamente a mesma coisa. A alternativa (b) comete o erro clássico de trocar apenas o \"existe...=\" por \"existe...≠\", mantendo o quantificador existencial, o que não é uma negação válida da proposição original.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-21",
+   "enunciado": "Sejam A o conjunto dos divisores positivos de 12 e B o conjunto dos divisores positivos de 18. O número de elementos da diferença simétrica A △ B (elementos que pertencem a exatamente um dos dois conjuntos) é:",
+   "alternativas": {
+    "a": "4",
+    "b": "6",
+    "c": "8",
+    "d": "10",
+    "e": "2"
+   },
+   "resposta": "a",
+   "explicacao": "Divisores de 12: {1,2,3,4,6,12}, 6 elementos. Divisores de 18: {1,2,3,6,9,18}, 6 elementos. Comuns: {1,2,3,6}, 4 elementos. A diferença simétrica tem |A|+|B|−2|A∩B| = 6+6−8 = 4: os elementos 4, 12, 9 e 18 pertencem a exatamente um dos dois. A alternativa (c), 8, seria |A∪B|−|A∩B|... na verdade |A∪B|=8, que é o total de elementos distintos contando UMA vez os comuns — diferente de contar só quem está em exatamente um dos dois.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-22",
+   "enunciado": "Numa pesquisa com 300 pessoas, 180 disseram gostar de rock, 150 disseram gostar de MPB e 45 disseram não gostar de nenhum dos dois gêneros. O número de pessoas que gostam dos dois gêneros ao mesmo tempo é:",
+   "alternativas": {
+    "a": "30",
+    "b": "45",
+    "c": "60",
+    "d": "75",
+    "e": "105"
+   },
+   "resposta": "d",
+   "explicacao": "Quem gosta de pelo menos um: 300 − 45 = 255. Pela fórmula da união, |A∩B| = |A|+|B|−|A∪B| = 180+150−255 = 75. A alternativa (a), 30, viria de um erro de sinal na fórmula (255−180−150=−75, e alguém \"corrige\" tirando o sinal e dividindo por algo). A (e), 105, seria 180−75 ou outra combinação sem sentido direto com a pergunta.",
+   "formato": "direta",
+   "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-logica-24",
+   "enunciado": "Sejam as proposições p: \"8 é divisor de 24\" (verdadeira), q: \"8 é divisor de 36\" (falsa) e r: \"8 é primo\" (falsa). O valor lógico de (p ∧ ~q) ∨ r é:",
+   "alternativas": {
+    "a": "verdadeira, pois p é verdadeira e ~q também é verdadeira, o que já basta para a disjunção com r",
+    "b": "falsa, pois r é falsa e isso torna toda a disjunção falsa",
+    "c": "falsa, pois p ∧ ~q é falsa",
+    "d": "verdadeira apenas se r fosse também verdadeira",
+    "e": "indeterminada, pois depende de convenção sobre primalidade de 8"
+   },
+   "resposta": "a",
+   "explicacao": "~q é verdadeira, pois q é falsa. p ∧ ~q: verdadeira e verdadeira, logo verdadeira. Numa disjunção, basta um lado ser verdadeiro para o todo ser verdadeiro — não importa que r seja falsa. A alternativa (b) erra a regra da disjunção, tratando-a como se fosse uma conjunção, em que todos os termos precisariam ser verdadeiros.",
+   "formato": "direta",
+   "origem": "engenharia"
   }
  ],
  "matematica-complexos": [
@@ -54264,6 +54264,703 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O geocentrismo medieval refletia a cosmovisão teológica cristã, segundo a qual a Terra ocupava o centro do universo por ser habitada pelo ser humano, criatura central da criação divina — e não por comprovação empírica, já que o telescópio só surgiria no século XVII.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-228",
+   "texto_apoio": "Na Atenas do século V a.C., a Assembleia do povo reunia-se para votar leis e decidir sobre a guerra. Segundo as estimativas dos historiadores, mulheres, estrangeiros residentes e cativos formavam a maioria dos habitantes da pólis e ficavam de fora do corpo de cidadãos.",
+   "enunciado": "Essa configuração permite descrever a democracia ateniense como:",
+   "alternativas": {
+    "a": "direta no exercício e estreita na base: decidia em pessoa quem era cidadão, e o corpo de cidadãos era minoria entre os habitantes",
+    "b": "representativa e ampla, com delegados eleitos periodicamente por um colégio que reunia os moradores livres e os estrangeiros estabelecidos na pólis",
+    "c": "hereditária no sentido estrito: o direito de voto passava de pai para filho sem exame da comunidade",
+    "d": "censitária nos moldes modernos, com o voto distribuído conforme a renda declarada a cada ano",
+    "e": "delegada a magistrados vitalícios escolhidos entre as famílias mais antigas da cidade"
+   },
+   "resposta": "a",
+   "explicacao": "A Assembleia decidia sem intermediários — daí o termo direta —, mas ser cidadão em Atenas era um privilégio de nascimento reservado ao homem adulto filho de pais atenienses. As duas coisas convivem, e é essa combinação que a banca cobra quando pede a comparação entre a pólis e as democracias de hoje.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-229",
+   "texto_apoio": "Xenofonte, ateniense do século IV a.C., escreveu que em Esparta os meninos deixavam a casa da família por volta dos sete anos e passavam a ser educados em grupos, sob disciplina pública, enquanto em outras cidades a criação ficava a cargo de preceptores contratados por cada família.",
+   "enunciado": "O contraste apontado por Xenofonte indica que, na pólis espartana:",
+   "alternativas": {
+    "a": "a educação ficava entregue a um mercado de mestres particulares, que disputavam a clientela das famílias ricas e ofereciam formação em retórica e em filosofia",
+    "b": "o ensino privilegiava o comércio marítimo, principal fonte de renda da cidade",
+    "c": "a formação do jovem era assunto do Estado, ajustada à necessidade de manter um corpo permanente de guerreiros",
+    "d": "a instrução religiosa cabia a um clero profissional que administrava os templos",
+    "e": "as crianças eram educadas em casa até a idade adulta, sem contato com a comunidade"
+   },
+   "resposta": "c",
+   "explicacao": "Esparta mantinha sob domínio uma população de hilotas muito mais numerosa que a dos espartanos, e a educação pública dos meninos servia a esse arranjo: formar o guerreiro era condição para conservar o domínio. Comparar essa formação com a educação ateniense é o exercício clássico da comparação entre as duas pólis.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-230",
+   "texto_apoio": "As reformas atribuídas a Sólon, no início do século VI a.C., cancelaram as dívidas que prendiam camponeses de Atenas à terra de seus credores e proibiram que um cidadão respondesse com o próprio corpo por uma dívida contraída.",
+   "enunciado": "Ao proibir a servidão por dívida, essas reformas:",
+   "alternativas": {
+    "a": "transferiram aos credores o direito de julgar as causas em que eram parte, o que ampliou o poder das famílias proprietárias sobre a justiça da cidade",
+    "b": "instituíram o voto do conjunto dos moradores adultos na Assembleia da cidade",
+    "c": "puseram fim à propriedade privada da terra no território de Atenas",
+    "d": "encerraram o trabalho compulsório no conjunto do mundo grego",
+    "e": "separaram a condição de cidadão da de devedor e aliviaram a tensão social que ameaçava partir a pólis"
+   },
+   "resposta": "e",
+   "explicacao": "Sólon não democratizou Atenas: ele desarmou uma crise agrária que empurrava o pequeno proprietário para a dependência pessoal. O passo seguinte veio com Clístenes, que reorganizou o corpo de cidadãos por critério territorial. A ordem entre os dois é o que a banca costuma pedir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-231",
+   "texto_apoio": "Heródoto narra que, diante do avanço do exército persa, cidades gregas até então rivais firmaram uma liga militar sob comando conjunto, e que a frota de Atenas teve papel decisivo no confronto naval de Salamina, em 480 a.C.",
+   "enunciado": "O desfecho desse conflito ajuda a explicar:",
+   "alternativas": {
+    "a": "a incorporação definitiva das cidades gregas ao domínio persa, que passou a nomear os magistrados de cada pólis e a cobrar tributo direto de seus habitantes",
+    "b": "a ascensão de Atenas à liderança de uma liga marítima que ela converteu em instrumento de sua própria hegemonia",
+    "c": "o desaparecimento da pólis como forma de organização política no mundo grego",
+    "d": "a fusão das cidades gregas num único Estado territorial de capital fixa",
+    "e": "a transferência do centro do mundo grego para a Península Itálica"
+   },
+   "resposta": "b",
+   "explicacao": "A Liga de Delos nasceu como aliança defensiva e virou base do império marítimo ateniense: o tesouro comum foi transferido para Atenas e a contribuição dos aliados passou a financiar obras da própria cidade. O atrito com Esparta que daí resultou desembocou na Guerra do Peloponeso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-232",
+   "texto_apoio": "Depois da morte de Alexandre, os reinos formados por seus generais espalharam pelo Oriente cidades de traçado grego, com ginásio e teatro, enquanto seus governantes assumiam títulos locais: no Egito antigo, os Ptolomeus mandaram representar-se como faraós.",
+   "enunciado": "Esse quadro caracteriza o período helenístico porque nele:",
+   "alternativas": {
+    "a": "a língua e a religião gregas foram impostas por decreto aos povos do Oriente, com o fechamento dos templos e a proibição dos cultos anteriores",
+    "b": "a pólis clássica foi restaurada como unidade política soberana em cada região",
+    "c": "as tradições egípcias substituíram a cultura grega nos reinos formados",
+    "d": "elementos da cultura grega circularam misturados a tradições orientais, sem apagar as formas locais de poder",
+    "e": "o poder político voltou a se concentrar nas assembleias de cidadãos"
+   },
+   "resposta": "d",
+   "explicacao": "O helenismo é um processo de mistura, não de substituição: o grego virou língua franca da administração e do comércio, e ao mesmo tempo o soberano se legitimava com o repertório religioso de cada região. Alexandria, com seu Museu e sua Biblioteca, é o exemplo que as bancas mais citam.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-233",
+   "texto_apoio": "O conjunto de leis atribuído a Hamurábi, na Mesopotâmia do século XVIII a.C., fixa penas diferentes para o mesmo delito conforme a condição social de quem agride e de quem é agredido: a punição de quem ferisse um homem livre não é a mesma prevista para quem ferisse um dependente.",
+   "enunciado": "Do ponto de vista do historiador, o principal valor desse documento está em:",
+   "alternativas": {
+    "a": "revelar a hierarquia social que a lei escrita registrava e ajudava a sustentar",
+    "b": "descrever com precisão estatística a distribuição da renda entre as famílias das cidades da região, o que permitiria reconstituir seu cotidiano econômico",
+    "c": "comprovar a igualdade jurídica entre os habitantes das cidades mesopotâmicas",
+    "d": "demonstrar que a escrita cuneiforme servia apenas a fins religiosos",
+    "e": "atestar a ausência de autoridade central no vale entre os dois grandes rios"
+   },
+   "resposta": "a",
+   "explicacao": "A lei de talião que a banca costuma citar só vale entre iguais; abaixo dela, a compensação é em prata. Um código não descreve a sociedade tal como ela é, mas mostra qual ordem o poder que o promulga queria ver respeitada — e é isso que se pede de um documento normativo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-234",
+   "texto_apoio": "A administração do Egito antigo mantinha, em marcos de pedra fincados às margens do Nilo, o registro do nível atingido pela cheia de cada ano, e calculava a partir dele o tributo devido por cada propriedade na estação seguinte.",
+   "enunciado": "Essa prática indica que, naquela sociedade:",
+   "alternativas": {
+    "a": "os tributos eram fixados por assembleias de camponeses reunidas a cada colheita nas aldeias do vale, conforme o rendimento que cada família declarasse",
+    "b": "a produção agrícola dependia da chuva local e dispensava o registro das cheias",
+    "c": "o controle do calendário agrícola e da medição das cheias era fonte direta do poder de arrecadar do Estado",
+    "d": "o faraó abria mão da arrecadação nos anos de cheia mais alta",
+    "e": "a escrita hieroglífica era desconhecida dos funcionários da cobrança"
+   },
+   "resposta": "c",
+   "explicacao": "Medir o rio era prever a safra, e prever a safra era saber quanto cobrar. A escrita, o calendário e a geometria de demarcação de terras nasceram amarrados a essa necessidade fiscal — a explicação mais sólida para o peso do Estado na sociedade egípcia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-235",
+   "texto_apoio": "Os textos reunidos na Bíblia hebraica foram escritos e reescritos ao longo de séculos, e boa parte deles ganhou forma definitiva durante e depois do exílio na Babilônia, no século VI a.C.",
+   "enunciado": "Esse dado é decisivo para o estudo do povo hebreu porque mostra que:",
+   "alternativas": {
+    "a": "o monoteísmo apareceu pronto e sem disputa interna desde o começo da trajetória desse povo, tal como o texto final o apresenta ao leitor",
+    "b": "a Bíblia hebraica é um registro cronológico feito por testemunhas dos acontecimentos",
+    "c": "o exílio na Babilônia interrompeu a produção escrita do povo hebreu",
+    "d": "os textos foram fixados antes da formação das primeiras cidades da região",
+    "e": "a redação do texto responde às perguntas do tempo em que foi escrita, e não apenas aos fatos que narra"
+   },
+   "resposta": "e",
+   "explicacao": "É a distinção entre o tempo narrado e o tempo da narração, que vale para qualquer fonte. No caso hebreu, a experiência do exílio e do retorno ajuda a explicar a ênfase na aliança e na lei escrita como marcas de identidade de um povo sem território próprio naquele momento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-236",
+   "texto_apoio": "Ao longo do primeiro milênio a.C., cidades da costa do Levante instalaram entrepostos em pontos do Mediterrâneo escolhidos pela proximidade com as rotas de metal e pelo abrigo que ofereciam às embarcações.",
+   "enunciado": "Sobre a atuação do povo fenício nesse processo, é correto afirmar que ela:",
+   "alternativas": {
+    "a": "resultou na formação de um Estado territorial unificado sob um rei único, que administrava tanto as cidades do Levante quanto as praças do Mediterrâneo ocidental",
+    "b": "montou uma rede de portos voltada ao comércio, sem projeto de conquista territorial de grande extensão",
+    "c": "esteve subordinada ao poder militar das cidades da Grécia antiga no período clássico",
+    "d": "dispensou o uso da escrita, substituída pelo registro oral das transações",
+    "e": "concentrou-se na navegação de longo curso pelo Atlântico Norte"
+   },
+   "resposta": "b",
+   "explicacao": "O alfabeto que os fenícios difundiram é consequência dessa vocação: um sistema enxuto, de aprendizado rápido, útil para escriturar cargas e contas. Adaptado pelos gregos com a notação das vogais, é o antepassado direto do alfabeto que usamos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-237",
+   "texto_apoio": "O Império Persa aquemênida dividia o território em satrapias, mantinha uma estrada real com postos para troca de montaria e preservava, em muitas regiões conquistadas, os cultos e as autoridades já existentes.",
+   "enunciado": "Esse conjunto de práticas sugere que a administração persa buscava:",
+   "alternativas": {
+    "a": "impor uma religião única e uma língua comum ao conjunto das províncias, com a dissolução das autoridades tradicionais de cada região conquistada",
+    "b": "reduzir o território administrado a um único centro urbano de decisão",
+    "c": "transferir a arrecadação para as pólis gregas do litoral da Ásia Menor",
+    "d": "assegurar a cobrança do tributo e a circulação das ordens sem desmontar as estruturas locais de poder",
+    "e": "abandonar a construção de estradas em favor do transporte marítimo"
+   },
+   "resposta": "d",
+   "explicacao": "Governar um território daquele tamanho antes do telégrafo exigia delegar: o sátrapa cobrava e recrutava, e o rei mantinha inspetores para vigiá-lo. A tolerância com cultos locais era instrumento de governo, não princípio abstrato — foi o que permitiu, por exemplo, o retorno dos judeus a Jerusalém.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-238",
+   "texto_apoio": "Entre os séculos V e III a.C., a plebe recorreu à retirada em massa da cidade — a chamada secessão — para pressionar o patriciado. Desse processo saíram o tribunato da plebe, a fixação das leis em tábuas expostas ao público e o direito ao casamento entre os dois grupos.",
+   "enunciado": "A trajetória descrita mostra que, na Roma antiga:",
+   "alternativas": {
+    "a": "a ampliação de direitos resultou de conflito organizado, e não de concessão espontânea do grupo dominante",
+    "b": "os patrícios cederam por convicção jurídica, sem que a plebe precisasse recorrer à pressão coletiva ou à interrupção de suas atividades na cidade",
+    "c": "a plebe alcançou de imediato a igualdade completa de condições com o patriciado",
+    "d": "as leis permaneceram sob a guarda fechada dos sacerdotes patrícios",
+    "e": "o tribunato da plebe nasceu de iniciativa do Senado, à revelia da própria plebe"
+   },
+   "resposta": "a",
+   "explicacao": "A Lei das Doze Tábuas importa menos pelo conteúdo do que pelo gesto: escrever a norma e expô-la tira do sacerdote patrício o monopólio de dizer o que a lei era. Direito publicado é direito que se pode invocar — e foi essa a conquista da plebe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-239",
+   "texto_apoio": "Políbio, historiador grego do século II a.C., descreveu a organização de Roma como uma combinação: os cônsules lembravam a monarquia, o Senado lembrava a aristocracia e as assembleias populares lembravam a democracia.",
+   "enunciado": "A leitura de Políbio ajuda a entender a República romana como um regime em que:",
+   "alternativas": {
+    "a": "o povo reunido em assembleia detinha a última palavra sobre as decisões de guerra e sobre a escolha dos magistrados da cidade a cada ano do calendário",
+    "b": "um rei hereditário concentrava as funções civis e as religiosas",
+    "c": "instituições de origens distintas se equilibravam, com predomínio efetivo do Senado e das famílias que o compunham",
+    "d": "as magistraturas eram vitalícias e transmitidas por herança familiar",
+    "e": "o exército escolhia diretamente os ocupantes do Senado"
+   },
+   "resposta": "c",
+   "explicacao": "Políbio escreve para explicar aos gregos por que Roma vencia, e a resposta que ele dá — o equilíbrio entre as três formas — atravessou os séculos e chegou à teoria da separação de poderes. O historiador de hoje acrescenta o que ele minimiza: o Senado, e não a assembleia, dava as cartas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-240",
+   "texto_apoio": "No século I a.C., generais romanos passaram a recrutar soldados sem posses, que dependiam do comandante para receber terra ao fim do serviço. Júlio César, Pompeu e outros chefiaram exércitos ligados a eles por essa relação.",
+   "enunciado": "A consequência política desse vínculo entre general e soldado foi:",
+   "alternativas": {
+    "a": "fortalecer o controle do Senado sobre as legiões, que passaram a receber soldo e terra diretamente do tesouro público administrado pelos magistrados eleitos",
+    "b": "encerrar as campanhas de conquista na bacia do Mediterrâneo",
+    "c": "devolver às assembleias populares a decisão sobre a guerra e a paz",
+    "d": "restringir o serviço militar aos proprietários de terra da Península Itálica",
+    "e": "deslocar a lealdade da tropa das instituições da cidade para a pessoa do comandante, o que abriu caminho ao poder pessoal"
+   },
+   "resposta": "e",
+   "explicacao": "A reforma que abriu a legião aos sem-terra resolveu um problema de recrutamento e criou outro, maior: o soldado passou a cobrar do general, e não do Estado, a recompensa do serviço. Daí saem as guerras civis e, delas, o principado de Augusto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-241",
+   "texto_apoio": "Nas províncias do Império Romano, cidades locais recebiam estatuto jurídico romano e seus notáveis podiam obter a cidadania. Em 212 d.C., um edito estendeu a cidadania à generalidade dos habitantes livres do território.",
+   "enunciado": "O processo de romanização a que esses fatos pertencem é mais bem descrito como:",
+   "alternativas": {
+    "a": "a troca completa das línguas, dos cultos e das formas de propriedade das províncias por equivalentes vindos da Itália, sem sobrevivência de práticas anteriores",
+    "b": "a incorporação das elites provinciais à ordem romana, que recebiam direitos em troca de administrar suas cidades segundo o modelo da capital",
+    "c": "a expulsão das populações locais das cidades provinciais",
+    "d": "a proibição de que provinciais ocupassem cargos públicos no Império Romano",
+    "e": "a renúncia de Roma à cobrança de tributo nas províncias"
+   },
+   "resposta": "b",
+   "explicacao": "Romanizar era cooptar: quem administrava a província no lugar de Roma ganhava direitos e o vocabulário jurídico do vencedor, e em troca sustentava a arrecadação e o recrutamento. Por isso o processo é desigual — intenso nas cidades e nas elites, tênue no campo e entre os pobres.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-242",
+   "texto_apoio": "Um inventário do século IX descreve um domínio dividido em duas partes: a reserva, cultivada pelos dependentes em proveito do senhor, e os lotes entregues às famílias camponesas, que deviam dias de trabalho e parte da colheita em troca do direito de os cultivar.",
+   "enunciado": "Essa organização do feudo indica que a relação entre o senhor e o servo da gleba se apoiava:",
+   "alternativas": {
+    "a": "no acesso à terra concedido em troca de obrigações fixadas pelo costume, com o camponês preso ao lote mas não vendido como coisa",
+    "b": "num contrato de trabalho assalariado, renovado a cada ano e rescindível pelas duas partes conforme o preço alcançado pela colheita na região",
+    "c": "na propriedade plena da terra pelo camponês, livre de encargos perante o senhor",
+    "d": "no pagamento de tributo em moeda ao poder central, que redistribuía o produto",
+    "e": "na ausência de vínculo pessoal entre quem cultivava e quem detinha o domínio"
+   },
+   "resposta": "a",
+   "explicacao": "O servo devia corveia (trabalho na reserva), talha (parte da colheita) e banalidades (taxas pelo uso do moinho, do forno e do lagar). Ele não era propriedade de ninguém, e sim vinculado à terra: se o domínio mudasse de senhor, ele continuava onde estava. A distinção entre servidão e cativeiro antigo é a pegadinha mais comum do tema.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-243",
+   "texto_apoio": "O ritual de homenagem, descrito em documentos dos séculos X e XI, unia dois homens livres: o vassalo punha as mãos entre as do suserano e prestava juramento de fidelidade; em troca recebia um benefício, em geral uma terra com seus dependentes.",
+   "enunciado": "O laço de suserania e vassalagem descrito distingue-se de uma relação de emprego porque:",
+   "alternativas": {
+    "a": "estabelecia remuneração em moeda paga mês a mês pelo suserano ao vassalo, conforme o número de dias de serviço prestado ao longo do ano",
+    "b": "podia ser rompido por uma das partes sem consequência nenhuma",
+    "c": "criava um vínculo pessoal e recíproco de fidelidade, com deveres militares e de conselho de parte a parte",
+    "d": "subordinava o vassalo ao rei, e não ao senhor que lhe entregava a terra",
+    "e": "excluía a transmissão do benefício aos herdeiros do vassalo"
+   },
+   "resposta": "c",
+   "explicacao": "A vassalagem é contrato entre nobres, não entre patrão e trabalhador: obriga os dois lados, e o descumprimento pelo suserano libera o vassalo. Com o tempo o benefício virou hereditário, e o que era vínculo pessoal virou patrimônio de família — a raiz do poder da nobreza feudal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-244",
+   "texto_apoio": "Marc Bloch observou que, na Europa dos séculos X e XI, a maior parte do que se consumia num domínio era produzida ali mesmo, e que a troca a longa distância se restringia a produtos de alto valor e pequeno volume.",
+   "enunciado": "Essa característica da economia feudal decorria principalmente:",
+   "alternativas": {
+    "a": "de uma decisão dos reis europeus, que teriam fechado por lei os portos e as feiras da cristandade e concentrado a produção nos domínios rurais",
+    "b": "da proibição senhorial de que produto algum saísse dos limites do domínio",
+    "c": "da preferência dos camponeses por produtos vindos de regiões distantes",
+    "d": "do excesso de moeda de prata em circulação nos mercados urbanos",
+    "e": "da insegurança das estradas e da escassez de moeda em circulação, que encareciam a troca a distância"
+   },
+   "resposta": "e",
+   "explicacao": "Não se trata de uma economia fechada por decreto, e sim de uma economia em que trocar sai caro: estrada insegura, pedágio a cada senhorio, pouca moeda. Quando essas condições mudam, a partir do século XI, a troca volta a crescer — e é isso que se chama renascimento comercial.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-245",
+   "texto_apoio": "No século XI, o bispo Adalberon de Laon escreveu que a sociedade se dividia em três grupos — os que rezam, os que combatem e os que trabalham — e que essa divisão fora estabelecida por desígnio divino.",
+   "enunciado": "Esse esquema das três ordens deve ser lido pelo historiador como:",
+   "alternativas": {
+    "a": "um levantamento estatístico da população europeia, feito a partir dos registros paroquiais de nascimento e de óbito reunidos pelas dioceses",
+    "b": "uma representação produzida pelo clero, que justificava a hierarquia da sociedade feudal apresentando-a como ordem natural",
+    "c": "a descrição fiel da divisão do trabalho na Idade Média, sem função política",
+    "d": "um projeto de reforma social que pretendia extinguir a diferença entre os grupos",
+    "e": "um texto sem circulação entre os letrados de seu tempo"
+   },
+   "resposta": "b",
+   "explicacao": "Quem descreve a sociedade em três ordens pertence à primeira delas, e o esquema deixa de fora justamente quem cresce depois — o mercador e o artesão da cidade. Ler um documento perguntando quem o escreveu e a serviço de que ordem é o exercício que as bancas mais premiam.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-246",
+   "texto_apoio": "Depois da divisão do Império de Carlos Magno e das incursões de normandos e magiares, condes e detentores de castelos passaram a exercer no próprio território atribuições antes reservadas ao rei: julgar, cobrar taxas de passagem e convocar homens armados.",
+   "enunciado": "Esse deslocamento é considerado central na formação da sociedade feudal porque:",
+   "alternativas": {
+    "a": "criou uma administração remunerada em moeda e submetida a exame público, capaz de aplicar a mesma lei desde o vale do Reno até o do Loire",
+    "b": "concentrou nas mãos do rei o julgamento das causas e a cobrança dos tributos do reino inteiro",
+    "c": "extinguiu a guerra privada entre os senhores de uma mesma região",
+    "d": "transferiu o poder público a senhores locais, que passaram a exercê-lo como direito ligado à posse da terra",
+    "e": "devolveu às assembleias de camponeses a decisão sobre o uso das terras comuns"
+   },
+   "resposta": "d",
+   "explicacao": "O traço decisivo do feudalismo não é o castelo nem a armadura: é a privatização do poder público. Julgar e cobrar deixam de ser atributos do Estado e passam a ser direitos de quem detém a terra — e por isso a reconstrução das monarquias, séculos depois, é descrita como retomada desses direitos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-247",
+   "texto_apoio": "Num costumeiro do século XII, as obrigações de um camponês aparecem discriminadas: dias de trabalho na reserva senhorial, parte da colheita entregue ao senhor, taxa para usar o moinho, o forno e o lagar do domínio, e pagamento devido no casamento da filha fora dele.",
+   "enunciado": "A lista mostra que, no regime feudal, a renda do senhor vinha sobretudo:",
+   "alternativas": {
+    "a": "do direito de mando sobre as pessoas e sobre os equipamentos do domínio, e não da venda de excedente no mercado",
+    "b": "do arrendamento em dinheiro de suas terras a empresários agrícolas que produziam em grande escala para vender em praças distantes",
+    "c": "do salário que o rei pagava aos senhores encarregados de administrar o território",
+    "d": "do lucro obtido na compra e na revenda de grãos nas feiras das cidades",
+    "e": "de um imposto único cobrado pela Igreja e repassado à nobreza local"
+   },
+   "resposta": "a",
+   "explicacao": "As banalidades são a chave: o senhor cobra porque detém o monopólio do moinho e do forno, não porque prestou serviço melhor. É renda extraída por coerção, e é isso que separa o excedente feudal do lucro obtido em mercado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-248",
+   "texto_apoio": "Nos mosteiros da Europa ocidental, monges copistas reproduziam à mão, no scriptorium, textos religiosos e obras da Antiguidade. Até o século XII, as bibliotecas monásticas eram os maiores acervos de livros do Ocidente.",
+   "enunciado": "Essa atividade explica por que, na Idade Média ocidental:",
+   "alternativas": {
+    "a": "os textos gregos e latinos teriam chegado ao Ocidente por meio de tipografias instaladas nas cidades comerciais do norte da Itália, que os difundiram em larga tiragem",
+    "b": "a leitura era prática difundida entre os camponeses do domínio senhorial",
+    "c": "a Igreja deteve por longo período o controle da cultura escrita e da transmissão do saber antigo",
+    "d": "as obras da Antiguidade foram destruídas sem exceção pelos copistas",
+    "e": "a produção de livros esteve a cargo de oficinas urbanas desde o século VI"
+   },
+   "resposta": "c",
+   "explicacao": "Copiar à mão é caro e lento, e quem paga escolhe o que sobrevive: a seleção feita nos mosteiros decidiu boa parte do que da Antiguidade chegou até nós. Quando o pergaminho escasseava, um texto antigo podia ser raspado para receber outro por cima — o palimpsesto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-249",
+   "texto_apoio": "A convocação da primeira cruzada, em 1095, prometeu remissão de pecados a quem partisse para o Oriente. Nas décadas seguintes, cidades italianas como Gênova e Veneza forneceram transporte e crédito às expedições e ampliaram seus entrepostos no Mediterrâneo oriental.",
+   "enunciado": "O dado sobre as cidades italianas ajuda a entender as cruzadas como um movimento que:",
+   "alternativas": {
+    "a": "teria sido organizado por monarquias nacionais já constituídas, que financiaram as expedições com tributos regulares cobrados de seus súditos",
+    "b": "teve causa apenas religiosa, sem efeito perceptível sobre o comércio europeu",
+    "c": "resultou no domínio duradouro do Ocidente sobre a região disputada",
+    "d": "interrompeu por completo o contato entre cristãos e o mundo islâmico",
+    "e": "somou motivação religiosa e interesse mercantil, e reabriu ao Ocidente rotas de troca no Mediterrâneo"
+   },
+   "resposta": "e",
+   "explicacao": "As cruzadas fracassaram no que prometiam e mudaram a Europa pelo caminho: crédito, frete marítimo e entrepostos mobilizados por elas estão entre os motores do renascimento comercial dos séculos XII e XIII. A quarta expedição, que acabou saqueando Constantinopla, é a prova mais crua de que o alvo religioso não mandava sozinho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-250",
+   "texto_apoio": "No século VI, Justiniano mandou reunir e organizar num único conjunto as leis e as opiniões dos juristas de Roma, obra depois conhecida como Corpus Juris Civilis. O texto foi redescoberto no Ocidente a partir do século XI e passou a ser ensinado nas primeiras universidades.",
+   "enunciado": "Esse episódio mostra que o Império Bizantino:",
+   "alternativas": {
+    "a": "teria rompido com a tradição jurídica anterior e adotado um direito criado do zero por assembleias de juristas eleitos nas províncias do Oriente",
+    "b": "preservou e transmitiu a herança jurídica romana, que voltou a circular no Ocidente séculos depois",
+    "c": "manteve-se isolado do Ocidente, sem influência sobre a cultura jurídica de lá",
+    "d": "adotou o grego apenas na liturgia e o latim no conjunto da administração",
+    "e": "abandonou a codificação escrita em favor do costume transmitido oralmente"
+   },
+   "resposta": "b",
+   "explicacao": "Do Corpus Juris saiu o vocabulário do direito civil que ainda usamos, e a sua redescoberta na Idade Média está na origem das faculdades de direito de Bolonha. Bizâncio não é apenas sobrevivência do Império Romano do Oriente: é o canal por onde a tradição jurídica antiga volta ao Ocidente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-251",
+   "texto_apoio": "Um século depois da morte de Maomé, o califado se estendia da Península Ibérica ao vale do Indo. Nas regiões conquistadas, comunidades cristãs e judaicas conservaram seu culto mediante o pagamento de um tributo específico.",
+   "enunciado": "Esse arranjo indica que a expansão islâmica:",
+   "alternativas": {
+    "a": "teria imposto a conversão imediata dos vencidos sob pena de morte, e é essa violência que explicaria a velocidade da ampliação do território nas primeiras décadas",
+    "b": "dispensou o uso da força e avançou apenas pela pregação dos letrados",
+    "c": "manteve o território fragmentado em unidades sem autoridade comum",
+    "d": "combinou conquista militar e tolerância regulada dos demais cultos, o que baixou o custo de administrar territórios extensos",
+    "e": "restringiu-se à Península Arábica durante os dois primeiros séculos"
+   },
+   "resposta": "d",
+   "explicacao": "Cobrar tributo de quem conserva o próprio culto rende mais do que converter à força, e foi essa contabilidade que sustentou o califado. Na Idade Média, esse mundo concentrou a matemática, a medicina e a filosofia mais avançadas do período, e é dele que a Europa recebe de volta boa parte do saber grego.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-252",
+   "texto_apoio": "Em Córdoba, Toledo e Bagdá, textos gregos de medicina, matemática e filosofia foram traduzidos para o árabe, comentados e depois vertidos para o latim por equipes que reuniam tradutores cristãos, judeus e muçulmanos.",
+   "enunciado": "Esse trabalho de tradução importa à história do Ocidente medieval porque:",
+   "alternativas": {
+    "a": "devolveu à Europa parte da produção científica e filosófica antiga, com os acréscimos feitos no mundo islâmico",
+    "b": "provaria que a Europa cristã produziu por conta própria, sem contato externo, o conjunto do saber que passaria a ensinar em suas universidades a partir do século XIII",
+    "c": "eliminou a influência de Aristóteles sobre o pensamento cristão",
+    "d": "manteve os textos antigos restritos às bibliotecas de Bagdá",
+    "e": "substituiu o latim pelo árabe nas escolas da Europa cristã"
+   },
+   "resposta": "a",
+   "explicacao": "Averróis e Avicena não apenas guardaram Aristóteles: comentaram-no, e é com esses comentários que Tomás de Aquino discute. Os algarismos que usamos e a álgebra chegaram pela mesma via. A ideia de uma Idade Média fechada em si mesma não sobrevive a esse dossiê.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-253",
+   "texto_apoio": "Nas universidades formadas a partir do século XII, o ensino se organizava em torno da leitura de um texto de autoridade, seguida da disputa: enunciava-se uma questão, expunham-se os argumentos contrários e o mestre concluía procurando conciliar as autoridades em conflito.",
+   "enunciado": "Esse procedimento, próprio da escolástica, mostra que o pensamento medieval:",
+   "alternativas": {
+    "a": "recusava o raciocínio lógico e se contentava em repetir o que os textos sagrados afirmavam, sem confronto algum entre posições divergentes",
+    "b": "dispensava o recurso a textos escritos no ensino de nível superior",
+    "c": "operava com regras rigorosas de argumentação, ainda que partindo de autoridades religiosas admitidas de antemão",
+    "d": "havia rompido com a filosofia antiga e proibido a leitura de Aristóteles",
+    "e": "era praticado fora das instituições ligadas à Igreja"
+   },
+   "resposta": "c",
+   "explicacao": "A disputa escolástica é um torneio de argumentos com regras fixas, e dela vem boa parte do vocabulário lógico do Ocidente. O limite é claro — a autoridade das Escrituras não está em jogo —, mas dizer que a Idade Média não raciocinava é confundir o ponto de partida com o método.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-254",
+   "texto_apoio": "A partir do século XIII, tribunais eclesiásticos passaram a investigar grupos como os cátaros, no sul da França, que pregavam a pobreza e negavam a autoridade do clero sobre a salvação. O procedimento previa interrogatório, testemunhas e a entrega do condenado ao poder civil para a aplicação da pena.",
+   "enunciado": "A perseguição a esses grupos pela inquisição medieval é mais bem explicada pelo fato de que:",
+   "alternativas": {
+    "a": "os grupos investigados defenderiam a separação entre a Igreja e o Estado nos termos em que ela viria a ser formulada pelas constituições liberais do século XIX",
+    "b": "os tribunais eclesiásticos julgavam apenas causas de propriedade rural",
+    "c": "a Igreja havia perdido o monopólio da escrita para as oficinas urbanas",
+    "d": "as pregações condenadas defendiam o acúmulo de riqueza pelo clero",
+    "e": "a heresia punha em causa a doutrina e o lugar da Igreja como intermediária da salvação, e por isso era tratada como ameaça à ordem"
+   },
+   "resposta": "e",
+   "explicacao": "Pregar a pobreza era, na prática, acusar a hierarquia de traição, e disputar quem media a relação com o divino era disputar poder. Note o desenho do procedimento: quem julga é o tribunal da Igreja, quem executa a pena é o braço civil — divisão de tarefas que a banca gosta de cobrar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-255",
+   "texto_apoio": "Na chamada Querela das Investiduras, encerrada em 1122, papado e Império disputaram quem tinha o direito de nomear bispos e de lhes entregar os símbolos do cargo — questão que envolvia também as terras e as rendas ligadas às dioceses.",
+   "enunciado": "O conflito indica que, na Idade Média, a autoridade eclesiástica:",
+   "alternativas": {
+    "a": "limitava-se ao campo espiritual e não guardava relação com a posse de terras nem com a arrecadação de rendas nas dioceses da cristandade",
+    "b": "estava enredada em poder territorial e em renda, e por isso a nomeação de bispos interessava de perto ao poder leigo",
+    "c": "era exercida por bispos eleitos pelos fiéis de cada paróquia",
+    "d": "deixava indiferentes os imperadores germânicos do período",
+    "e": "havia sido transferida por inteiro ao imperador desde o século IX"
+   },
+   "resposta": "b",
+   "explicacao": "Um bispo administrava terras, cobrava rendas e comandava homens: nomeá-lo era decidir quem controlava um pedaço do território. A solução de compromisso separou a investidura espiritual, do papa, da entrega dos bens temporais, do imperador — e essa distinção entre as duas esferas atravessa o resto da história política do Ocidente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-256",
+   "texto_apoio": "Entre os séculos XII e XIII, as feiras de Champagne reuniam periodicamente mercadores do norte e do sul da Europa. Ali circulavam letras de câmbio, que permitiam saldar contas sem transportar moeda, e juízes especiais julgavam as disputas entre comerciantes.",
+   "enunciado": "As feiras descritas são indício do renascimento comercial porque mostram:",
+   "alternativas": {
+    "a": "a formação de instrumentos próprios de crédito e de justiça para uma atividade mercantil em expansão",
+    "b": "a substituição da produção agrícola pela indústria de bens de consumo nas regiões atravessadas pelas rotas que ligavam o norte ao sul do continente",
+    "c": "o desaparecimento do domínio senhorial como unidade de produção agrícola",
+    "d": "a decisão dos senhores de abrir mão da cobrança de pedágio nas estradas",
+    "e": "o abandono da moeda metálica nas trocas europeias do período"
+   },
+   "resposta": "a",
+   "explicacao": "Uma economia feudal em que trocar era caro precisou inventar o que faltava: crédito que dispensasse o transporte de moeda e um tribunal que entendesse de contrato mercantil. Champagne fica no cruzamento entre Flandres e as cidades italianas — a geografia explica a escolha do lugar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-257",
+   "texto_apoio": "A partir do século XI, agrupamentos de mercadores e artesãos instalados junto a muralhas e a mosteiros negociaram com o senhor local cartas que lhes assegurassem tribunal próprio, dispensa de certas obrigações e liberdade pessoal a quem ali residisse por um ano e um dia.",
+   "enunciado": "A conquista dessas cartas pelo burgo significou:",
+   "alternativas": {
+    "a": "a submissão dos moradores da cidade ao mesmo estatuto do camponês do domínio, com dias de trabalho na reserva e entrega de parte do que produzissem",
+    "b": "a abertura de um espaço jurídico distinto do senhorio rural, com regras ajustadas à vida mercantil",
+    "c": "a extinção do poder senhorial no conjunto do território do reino",
+    "d": "a transferência da administração das cidades para o papado",
+    "e": "o retorno dos artesãos ao trabalho agrícola nas terras da reserva"
+   },
+   "resposta": "b",
+   "explicacao": "O ditado alemão diz que o ar da cidade liberta, e o prazo de um ano e um dia é exatamente o mecanismo: passado ele, o servo fugido não podia mais ser reclamado. A cidade medieval não nasce fora do mundo feudal, ela negocia dentro dele o direito de ter regra própria.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-258",
+   "texto_apoio": "Os estatutos de uma corporação de ofício de Paris, no século XIII, fixavam quantos aprendizes cada mestre podia ter, a duração da jornada, a qualidade da matéria-prima admitida e o preço mínimo da peça acabada.",
+   "enunciado": "Essa regulamentação tinha por objetivo principal:",
+   "alternativas": {
+    "a": "ampliar a produção pelo alongamento da jornada e pela livre entrada de novos concorrentes no mercado urbano da cidade",
+    "b": "submeter os artesãos ao controle direto do senhor do domínio rural",
+    "c": "conter a concorrência entre os oficiais do mesmo ramo e preservar o padrão e o preço do produto",
+    "d": "eliminar a hierarquia entre mestre, oficial e aprendiz nas oficinas",
+    "e": "transferir a fixação dos preços para as feiras internacionais"
+   },
+   "resposta": "c",
+   "explicacao": "A lógica é o oposto da concorrência: quem já está dentro protege o próprio lugar limitando quantos entram e a que preço se vende. É uma economia urbana medieval regulada pelo costume e pela corporação, e é contra esse arranjo que a liberdade de ofício será reivindicada muitos séculos depois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-259",
+   "texto_apoio": "A epidemia que atravessou a Europa entre 1347 e 1351 reduziu de modo abrupto a população do continente. Em regiões da Inglaterra e da França, o pagamento devido a trabalhadores rurais subiu nos anos seguintes, e leis foram editadas para tabelá-lo nos níveis anteriores.",
+   "enunciado": "A relação entre a peste negra e a legislação citada se explica porque:",
+   "alternativas": {
+    "a": "o desaparecimento das cidades comerciais teria obrigado o poder público a fixar por decreto o preço dos gêneros agrícolas e o valor pago por dia de trabalho",
+    "b": "a epidemia ampliou a população disponível para o trabalho no campo",
+    "c": "as leis buscavam elevar o pagamento devido aos trabalhadores rurais",
+    "d": "a queda da população encareceu a mão de obra, e os senhores recorreram à lei para conter a alta que o mercado impunha",
+    "e": "os senhores preferiam pagar acima do que o costume previa"
+   },
+   "resposta": "d",
+   "explicacao": "A peste é o caso didático de choque demográfico com efeito econômico: sobra terra e falta braço, e quem tem o braço passa a poder negociar. O regime feudal reage pela lei e pela coerção, e a tensão daí resultante está na origem das grandes revoltas camponesas da segunda metade do século XIV.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-260",
+   "texto_apoio": "Em 1358, camponeses do norte da França atacaram castelos e registros senhoriais; em 1381, na Inglaterra, revoltosos exigiram o fim das obrigações servis e marcharam sobre Londres. Nos dois casos, os documentos que provavam os deveres devidos ao senhor foram alvo preferencial.",
+   "enunciado": "A destruição preferencial dos registros indica que os revoltosos:",
+   "alternativas": {
+    "a": "pretenderiam substituir o rei por um governo formado por representantes das aldeias e das cidades comerciais reunidos em assembleia permanente",
+    "b": "atacavam a escrita por considerá-la invenção de origem estrangeira",
+    "c": "buscavam apossar-se dos tesouros guardados nos arquivos senhoriais",
+    "d": "desconheciam o conteúdo das obrigações que lhes eram cobradas",
+    "e": "reconheciam no documento escrito o instrumento que fixava e perpetuava as obrigações servis"
+   },
+   "resposta": "e",
+   "explicacao": "Numa sociedade feudal em que o costume é a lei, queimar o registro é apagar a prova da dívida. As revoltas do século XIV vêm depois da peste negra e do aperto senhorial que a seguiu, e o alvo escolhido mostra que os camponeses sabiam muito bem onde o poder se apoiava.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-261",
+   "texto_apoio": "Ao longo dos séculos XIV e XV, reis da França e da Inglaterra passaram a manter tribunais que julgavam em grau de recurso as sentenças dos senhores, a cobrar impostos gerais destinados à guerra e a sustentar tropas pagas em dinheiro.",
+   "enunciado": "Esse conjunto de medidas caracteriza a centralização monárquica do fim da Idade Média porque:",
+   "alternativas": {
+    "a": "retomava para o rei atribuições de justiça, de tributo e de força que estavam repartidas entre os senhores",
+    "b": "reproduzia sem alteração o arranjo em que julgar e cobrar eram direitos ligados à posse da terra e exercidos por cada senhor em seu domínio",
+    "c": "eliminava a nobreza como grupo social do reino",
+    "d": "transferia a arrecadação de impostos para as cidades italianas",
+    "e": "devolvia ao papado a nomeação dos juízes do reino"
+   },
+   "resposta": "a",
+   "explicacao": "Tropa paga não precisa de vassalo, e imposto geral não passa pelo senhorio: são esses dois instrumentos que devolvem ao rei o que a fragmentação feudal havia repartido. A Guerra dos Cem Anos acelerou o processo, porque guerra longa exige receita permanente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-262",
+   "texto_apoio": "Em 1453, tropas otomanas tomaram Constantinopla, capital do que restava do Império Romano do Oriente. A cidade controlava a passagem entre o Mediterrâneo e o Mar Negro e era ponto de chegada de rotas terrestres vindas da Ásia.",
+   "enunciado": "Além de marcar o fim do Império Bizantino, o episódio costuma ser lembrado porque:",
+   "alternativas": {
+    "a": "teria interrompido de imediato e por inteiro a troca de mercadorias entre a Europa e a Ásia, o que forçaria os reinos ibéricos a procurar outra saída",
+    "b": "alterou as condições de acesso europeu às rotas terrestres do Oriente e estimulou a busca de caminhos alternativos",
+    "c": "restaurou a unidade política do Mediterrâneo sob comando cristão",
+    "d": "eliminou a presença otomana na Península Balcânica",
+    "e": "encerrou a produção de textos em grego naquela região"
+   },
+   "resposta": "b",
+   "explicacao": "A versão de manual costuma exagerar: o comércio não parou, ficou mais caro e mais dependente de intermediários. Isso basta para tornar atraente procurar outro caminho, e é o encadeamento que a banca cobra — nada de tratar 1453 como interruptor que desliga o Oriente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-263",
+   "texto_apoio": "Nas Grandes Dionísias de Atenas, as tragédias eram encenadas diante de milhares de espectadores, e o poder público custeava a presença dos cidadãos mais pobres. As peças retomavam mitos conhecidos para discutir a justiça, a lei da cidade e os limites do poder.",
+   "enunciado": "O teatro ateniense descrito cumpria, portanto, função:",
+   "alternativas": {
+    "a": "restrita ao entretenimento das famílias de maior renda, que financiavam as encenações e as assistiam em recintos fechados ao restante da população",
+    "b": "apenas religiosa, sem relação com as questões políticas da cidade",
+    "c": "cívica, ao propor à comunidade reunida o debate sobre as regras que organizavam a pólis",
+    "d": "escolar, destinada à formação técnica dos futuros magistrados",
+    "e": "militar, voltada ao treinamento dos jovens para a guerra"
+   },
+   "resposta": "c",
+   "explicacao": "Antígona discute o conflito entre a lei da cidade e o dever para com os mortos; Édipo, os limites do saber de quem governa. Pagar a entrada do cidadão pobre não é caridade, é política: a plateia é a mesma que decide na Assembleia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-264",
+   "texto_apoio": "Os primeiros filósofos jônicos procuraram explicar a origem das coisas por princípios como a água, o ar ou o ilimitado, em vez de recorrer à ação dos deuses. Mais tarde, em Atenas, Sócrates deslocou a investigação para as questões da vida em comum e do bem.",
+   "enunciado": "A mudança descrita costuma ser resumida na passagem do mito ao logos, e significa que:",
+   "alternativas": {
+    "a": "a religião grega teria desaparecido das cidades e sido substituída, em poucas décadas, pelo ensino das escolas filosóficas abertas em cada bairro",
+    "b": "os mitos deixaram de ser narrados e de circular entre os habitantes da pólis",
+    "c": "a filosofia abandonou as questões da cidade para tratar apenas da natureza",
+    "d": "passou-se a exigir da explicação uma justificativa racional que outros pudessem examinar e refutar",
+    "e": "o exame das causas naturais foi proibido pelas leis de Atenas"
+   },
+   "resposta": "d",
+   "explicacao": "O que muda não é o assunto, é o critério: a explicação passa a valer pelo argumento que a sustenta, e por isso pode ser discutida. Mito e filosofia conviveram por séculos na mesma pólis — a condenação de Sócrates mostra até onde a discussão era tolerada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-265",
+   "texto_apoio": "Nos primeiros séculos do Império Romano, distribuições regulares de grãos atendiam a parte da população da capital, e os espetáculos no anfiteatro e no circo eram custeados pelo poder público ou por notáveis em busca de prestígio.",
+   "enunciado": "A expressão pão e circo, cunhada por um poeta do período, descreve uma prática política que:",
+   "alternativas": {
+    "a": "asseguraria à população da capital participação efetiva nas decisões de governo por meio de assembleias reunidas nos dias de espetáculo",
+    "b": "financiava a produção agrícola das províncias com recursos da capital",
+    "c": "substituía o exército profissional pela convocação dos cidadãos pobres",
+    "d": "destinava-se apenas aos membros da ordem senatorial",
+    "e": "trocava sustento e diversão pela aquiescência de uma população urbana numerosa e sem trabalho estável"
+   },
+   "resposta": "e",
+   "explicacao": "Juvenal escreve como crítico, e a frase resume um diagnóstico: a plebe urbana que antes votava agora recebe. É despesa de legitimação, e não assistência social — comparar as duas coisas sem marcar a diferença é o erro que a correção costuma punir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-266",
+   "texto_apoio": "No século III, o Império Romano enfrentou pressão nas fronteiras, desvalorização da moeda e queda no fornecimento de cativos vindos das guerras. Grandes proprietários passaram a fixar trabalhadores na terra em troca de proteção e de um lote para cultivo.",
+   "enunciado": "Esse arranjo, conhecido como colonato, é apontado pelos historiadores como:",
+   "alternativas": {
+    "a": "resposta à falta de mão de obra que antecipa traços do vínculo entre senhor e camponês na Idade Média",
+    "b": "a implantação do trabalho assalariado livre no campo, com pagamento em moeda de prata e contratos anuais registrados por funcionários das províncias",
+    "c": "a devolução das terras aos pequenos proprietários expulsos pelas guerras",
+    "d": "o fim da grande propriedade rural no território do Império",
+    "e": "uma medida de estímulo à vida urbana nas províncias ocidentais"
+   },
+   "resposta": "a",
+   "explicacao": "Sem guerra de conquista não chegam cativos, e sem cativos a grande propriedade precisa prender quem já está ali. O colono não é vendido, mas também não pode sair — é a ponte entre o mundo antigo e a servidão que se firma depois, e é por isso que a ruptura entre os dois períodos nunca é limpa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-267",
+   "texto_apoio": "Perseguido em certos períodos, o cristianismo obteve liberdade de culto em 313 e, no fim do século IV, tornou-se a religião oficial do Império Romano. Bispos passaram a acumular funções de assistência, de arbitragem de conflitos e de representação das cidades diante do poder.",
+   "enunciado": "A trajetória descrita ajuda a explicar por que, depois da desagregação do Império no Ocidente:",
+   "alternativas": {
+    "a": "as cidades ocidentais teriam conservado intactas suas magistraturas civis, que seguiram arrecadando tributos e mantendo estradas por conta própria",
+    "b": "a Igreja permaneceu como estrutura organizada, capaz de suprir funções administrativas que o poder imperial deixou vagas",
+    "c": "o cristianismo perdeu adeptos e ficou restrito às províncias orientais",
+    "d": "os bispos foram afastados de funções que não fossem estritamente litúrgicas",
+    "e": "a autoridade religiosa passou a ser exercida pelos chefes militares germânicos"
+   },
+   "resposta": "b",
+   "explicacao": "A rede de dioceses aproveitou o desenho administrativo romano e sobreviveu a ele. É essa continuidade institucional que explica o peso da Igreja na Idade Média: quando o Estado imperial se desfaz no Ocidente, o que resta de escrita, de arquivo e de arbitragem está com o clero.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-268",
+   "texto_apoio": "A divisão da história ocidental em Antiguidade, Idade Média, Idade Moderna e Idade Contemporânea foi construída por letrados europeus, que escolheram como marcos a deposição do último imperador do Ocidente, em 476, e acontecimentos ocorridos no século XV.",
+   "enunciado": "Uma crítica corrente a essa periodização sustenta que ela:",
+   "alternativas": {
+    "a": "seria excessivamente detalhada, por repartir cada um dos quatro períodos em subperíodos definidos a partir de acontecimentos de alcance estritamente local",
+    "b": "recusa a existência de marcos temporais no estudo do passado",
+    "c": "atribui à Idade Média duração menor do que a documentação permite",
+    "d": "toma processos da Europa como divisores universais e diz pouco sobre a trajetória de outras regiões do mundo",
+    "e": "teria sido elaborada por autores que desconheciam as fontes escritas do período"
+   },
+   "resposta": "d",
+   "explicacao": "A crítica não é ao recorte em si — organizar o tempo é inevitável —, e sim à pretensão de que marcos europeus sirvam de régua para a China, para a África ou para a América. Perceber que a periodização é uma escolha de quem escreve, e não um dado do passado, é o passo que a banca quer ver dado.",
    "formato": "direta",
    "origem": "medicina"
   }

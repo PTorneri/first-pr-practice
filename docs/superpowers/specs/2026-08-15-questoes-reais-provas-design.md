@@ -98,7 +98,8 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 | Fase | O quê | Volume | Estado |
 |---|---|---|---|
 | 1 — piloto | FGV 2023.1, bloco Matemática + Humanas | 30 | **feito** (`be66418`) |
-| 1b | FGV 2023.1, blocos BIO-FIS-QUIM (15 pág.) e INGLES-LP (12 pág.) | ~75 | a fazer |
+| 1b | FGV 2023.1, bloco Biologia, Física e Química | 45 | **feito** |
+| 1c | FGV 2023.1, bloco Inglês e Língua Portuguesa (12 pág.) | ~30 | a fazer |
 | 2 | FGV 2022.1 + 2021.1 (64 páginas) | ~200 | |
 | 3 | As 113 FGV já transcritas — recuperar o texto de apoio | 113 | |
 | 4 | Insper 2026.1, 2026.1 v.2 e 2026.2 (destravado) | 91+ | |
@@ -128,7 +129,15 @@ de discursiva real:
   fica registrada no commit.
 - **Nada de editar bundle gerado.** Correção vai na fonte.
 - **Decisão de classificação vai em `REVISADAS`**, dentro de
-  `classificar-subtemas.js`, nunca no JSON gerado.
+  `classificar-subtemas.js`, nunca no JSON gerado. Desde 15/08/2026 `REVISADAS`
+  tem precedência sobre o mapa anterior — antes, o mapa vinha primeiro e
+  corrigir uma entrada não surtia efeito sobre questão já marcada `revisado`.
+- **Bloco de Ciências da Natureza classifica mal com mais frequência.** Ele mora
+  em `ciencias-natureza.json` e o `REDIRECIONA` o dissolve em Biologia, Química
+  e Física, o que faz cada questão disputar com a tabela das TRÊS frentes ao
+  mesmo tempo. O erro aqui é de FRENTE, não de subtema, e manda a questão para o
+  bundle errado. Confira a contagem por frente contra a prova antes de fechar:
+  a 2023.1 tem 15 de cada, e foi assim que os erros apareceram.
 - **`banca` + `sessao` aparecem na tela.** É a mitigação barata do risco
   autoral: a origem fica explícita em toda questão de terceiro.
 - **Invariante que a prova real contradiz é invariante errado.** A trava de

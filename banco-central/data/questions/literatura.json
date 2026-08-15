@@ -5359,6 +5359,774 @@
    "explicacao": "Morte e Vida Severina, de João Cabral de Melo Neto, é um auto de natal pernambucano. O retirante Severino desce o Capibaribe fugindo da seca e encontra sucessivas mortes até o nascimento final, que devolve algum sentido à travessia.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-318",
+   "texto_apoio": "Em Grande Sertão: Veredas, de Guimarães Rosa, o protagonista afirma, ao rever a própria história: \"O sertão é do tamanho do mundo.\"",
+   "enunciado": "A afirmação indica que, na obra, o sertão funciona como:",
+   "alternativas": {
+    "a": "espaço que ultrapassa a referência geográfica e passa a nomear a condição de quem vive sob risco",
+    "b": "recorte regional descrito com precisão documental, cujo interesse está no levantamento dos costumes locais",
+    "c": "cenário neutro, escolhido para situar as ações de vingança que organizam a intriga do livro",
+    "d": "lugar idealizado e oposto à cidade, no qual a vida transcorre em harmonia e afastada de conflitos morais",
+    "e": "fronteira administrativa entre estados, cuja delimitação explica as disputas de terra apresentadas no livro"
+   },
+   "resposta": "a",
+   "explicacao": "A frase amplia o sertão de recorte regional para categoria de mundo: ele deixa de ser apenas o lugar em que a ação se passa e passa a designar a experiência de viver exposto ao risco e à indecisão. É por isso que a obra costuma ser lida como travessia existencial, e não como retrato de costumes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-319",
+   "texto_apoio": "A prosa de Guimarães Rosa combina palavras raras do falar rural, termos recolhidos de línguas estrangeiras e criações do próprio autor, dispostas numa sintaxe que desloca a ordem esperada da frase.",
+   "enunciado": "Esse trabalho com a língua produz, na obra, o efeito de:",
+   "alternativas": {
+    "a": "reproduzir com fidelidade fonética a fala do interior de Minas, com finalidade de registro linguístico",
+    "b": "criar uma língua literária própria, que estranha o leitor e o obriga a reaprender o modo de ler",
+    "c": "aproximar o texto da linguagem dos jornais da época, mais acessível ao público leitor urbano",
+    "d": "demonstrar erudição do escritor por meio de citações latinas que interrompem o fluxo da história",
+    "e": "simplificar a leitura ao substituir termos abstratos por equivalentes correntes na conversa cotidiana"
+   },
+   "resposta": "b",
+   "explicacao": "Rosa não transcreve a fala sertaneja: ele a usa como ponto de partida para inventar uma terceira língua, nem regional nem culta. O estranhamento é deliberado e faz parte do sentido — a travessia do protagonista se repete na travessia que o leitor faz pela frase.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-320",
+   "texto_apoio": "Em Grande Sertão: Veredas, o protagonista fala a um interlocutor culto, vindo da cidade, que o escuta por dias inteiros sem que nenhuma fala sua seja transcrita no livro.",
+   "enunciado": "A presença desse ouvinte mudo é decisiva porque:",
+   "alternativas": {
+    "a": "elimina a subjetividade do relato, já que a fala se dirige a um especialista capaz de conferir os fatos",
+    "b": "divide o livro em duas partes iguais, uma de ação e outra de comentário, marcadas pelas perguntas do ouvinte",
+    "c": "sustenta o tom de depoimento oral e faz do leitor o destinatário direto da confissão do protagonista",
+    "d": "garantiria ao texto o estatuto de documento histórico, atestado por quem transcreveu o depoimento",
+    "e": "revela que o protagonista mente, pois só um ouvinte silencioso aceitaria a história tal como ela é dita"
+   },
+   "resposta": "c",
+   "explicacao": "O interlocutor é uma espécie de moldura vazia: como suas falas não aparecem, o lugar de quem escuta fica livre e acaba ocupado por quem lê. Daí a força do tom de confissão, com a oralidade preservada nas repetições, nos apelos e nas hesitações do relato.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-321",
+   "texto_apoio": "Riobaldo relata que teria firmado um pacto com o demônio numa encruzilhada, à meia-noite, mas volta ao episódio várias vezes ao longo do livro, ora afirmando que o diabo não existe, ora admitindo que algo mudou nele naquela noite.",
+   "enunciado": "Essa oscilação do relato tem como função principal:",
+   "alternativas": {
+    "a": "corrigir progressivamente uma versão falsa dos fatos até chegar à explicação racional do episódio",
+    "b": "indicar que a cena do pacto foi acrescentada ao livro depois, sem relação com o restante da história",
+    "c": "atribuir à religiosidade popular do interior a responsabilidade pelos crimes cometidos pelos jagunços da região",
+    "d": "manter em suspensão a existência do sobrenatural e transferir a quem lê a decisão sobre o que aconteceu",
+    "e": "provar que o protagonista perdeu a memória e por isso não consegue reconstituir a própria trajetória"
+   },
+   "resposta": "d",
+   "explicacao": "A obra não decide se houve pacto. A dúvida é o assunto: o protagonista precisa acreditar em alguma coisa para explicar a própria coragem e a própria culpa, e a indeterminação do episódio é o que mantém viva a pergunta sobre o mal e a responsabilidade de cada um.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-322",
+   "texto_apoio": "Leia o trecho de uma narrativa brasileira contemporânea, escrita para esta questão à maneira de Clarice Lispector:\n\n\"Ela apenas segurava a sacola de compras quando viu o cego mascando chicles na esquina. Nada acontecera. E no entanto o bonde parou, a rua ficou branca, e a vida que ela havia arrumado com tanto cuidado desmanchou-se em suas mãos como papel molhado.\"",
+   "enunciado": "O procedimento característico da autora que o trecho reproduz é:",
+   "alternativas": {
+    "a": "a denúncia social explícita, que interrompe a história para comentar as condições de vida do mendigo",
+    "b": "a reconstituição histórica de um bairro paulistano por meio de referências a ruas e a linhas de bonde",
+    "c": "o encadeamento de peripécias, em que cada gesto da protagonista desencadeia uma consequência imediata",
+    "d": "a caricatura da classe média, obtida pelo exagero cômico dos hábitos domésticos da protagonista",
+    "e": "a epifania, em que um acontecimento banal desorganiza a percepção que a personagem tinha de si"
+   },
+   "resposta": "e",
+   "explicacao": "A ficção de Clarice Lispector costuma partir de um incidente mínimo — um cego mascando chicles, um ovo na cozinha — que fratura a rotina e expõe o vazio sob ela. Não há denúncia nem sucessão de peripécias: o acontecimento é interno, e cabe no intervalo de alguns segundos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-323",
+   "texto_apoio": "Em A Hora da Estrela, de Clarice Lispector, quem conta a história é um escritor fictício, homem, de classe média, que interrompe o relato para dizer que escreve sobre uma moça pobre do Nordeste e para confessar o desconforto de fazê-lo.",
+   "enunciado": "Essa escolha produz, na obra, o efeito de:",
+   "alternativas": {
+    "a": "expor a distância social entre quem escreve e a figura retratada, em vez de apagá-la sob a aparência de neutralidade",
+    "b": "assegurar imparcialidade ao relato, pois um observador externo descreve a moça sem interferência de julgamentos",
+    "c": "deslocar o interesse do livro para a biografia do escritor fictício, que passa a ser a figura central da história narrada",
+    "d": "atenuar a pobreza da protagonista, apresentada a partir do ponto de vista de quem a considera uma jovem feliz",
+    "e": "transformar o livro num tratado sociológico sobre a migração nordestina para as cidades do Sudeste do país"
+   },
+   "resposta": "a",
+   "explicacao": "Ao dar voz a um escritor de classe média que declara sua dificuldade em falar da moça pobre, o livro põe em cena o problema de representar o outro. A mediação fica visível — e é justamente essa visibilidade que impede a leitura piedosa ou paternalista.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-324",
+   "texto_apoio": "Macabéa, protagonista de A Hora da Estrela, come cachorro-quente, gosta de anúncios de rádio, não sabe que é infeliz e responde às humilhações com docilidade.",
+   "enunciado": "A construção dessa protagonista é significativa porque:",
+   "alternativas": {
+    "a": "recorre ao humor para tornar simpática uma figura marginal e assim conquistar a adesão de quem lê a obra",
+    "b": "mostra uma privação tão profunda que alcança a própria consciência de si, e não apenas as condições materiais",
+    "c": "apresenta uma trajetória de ascensão social que recompensa o esforço individual da jovem recém-chegada",
+    "d": "atribui à personagem um discurso politizado, capaz de explicar as causas econômicas da própria situação",
+    "e": "reproduz o modelo da heroína virtuosa, cuja pureza moral é recompensada ao final com um casamento socialmente vantajoso"
+   },
+   "resposta": "b",
+   "explicacao": "A pobreza de Macabéa não é só falta de dinheiro: falta-lhe também a linguagem e o repertório para se perceber como alguém que sofre. O livro registra essa privação sem transformá-la em lição, o que torna a personagem incômoda em vez de comovente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-325",
+   "texto_apoio": "Leia o trecho, escrito para esta questão à maneira da ficção de Clarice Lispector:\n\n\"Sentou-se. Levantou-se. Antes de o café esfriar, atravessara a infância inteira, o casamento, a mão do filho na sua, e voltou à cozinha exatamente no instante em que o relógio marcava as sete e dois.\"",
+   "enunciado": "A relação entre o tempo do relógio e o tempo da personagem, no trecho, caracteriza-se por:",
+   "alternativas": {
+    "a": "coincidir integralmente, pois cada lembrança evocada ocupa a mesma duração do acontecimento lembrado",
+    "b": "suprimir a passagem das horas, uma vez que a cena se organiza fora de referências à contagem das horas",
+    "c": "condensar anos de experiência interior em poucos minutos de duração medida pelo relógio da cozinha",
+    "d": "obedecer à ordem dos fatos, apresentados da infância ao presente segundo a sucessão em que ocorreram",
+    "e": "estabelecer prazos precisos para as ações da personagem, que age pressionada pelo horário do trabalho"
+   },
+   "resposta": "c",
+   "explicacao": "Dois minutos de relógio abrigam décadas de vida interior. A desproporção entre a duração medida e a duração vivida é um dos procedimentos mais reconhecíveis da autora e explica por que suas histórias podem ter tão pouca ação exterior.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-326",
+   "texto_apoio": "Em Quarto de Despejo, Carolina Maria de Jesus escreve: \"Eu classifico São Paulo assim: O Palácio, é a sala de visita. A Prefeitura é a sala de jantar e a cidade é o jardim. E a favela é o quintal onde jogam os lixos.\"",
+   "enunciado": "A imagem construída no trecho permite afirmar que a autora:",
+   "alternativas": {
+    "a": "descreve a cidade como um conjunto de bairros equivalentes, cujas diferenças se explicam por escolhas individuais de seus moradores",
+    "b": "propõe uma reforma urbana detalhada, com indicação das obras públicas necessárias em cada região da capital",
+    "c": "recusa a comparação entre espaços urbanos e prefere apresentar a favela isolada do restante da cidade paulistana",
+    "d": "usa a planta de uma casa para expor a hierarquia entre as partes da cidade e o lugar reservado a quem vive na favela",
+    "e": "celebra o crescimento industrial de São Paulo, apresentado no diário como promessa de melhoria para os moradores"
+   },
+   "resposta": "d",
+   "explicacao": "A metáfora doméstica organiza a cidade inteira em cômodos e revela a hierarquia: à favela cabe o quintal, o lugar do descarte. A força do diário está em produzir análise social a partir da experiência direta de quem catava papel para comer.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-327",
+   "texto_apoio": "Quarto de Despejo, publicado em 1960, reúne anotações que Carolina Maria de Jesus escreveu em cadernos encontrados no lixo, enquanto sustentava três filhos com a venda de papel recolhido nas ruas.",
+   "enunciado": "A importância dessa obra na literatura brasileira está em:",
+   "alternativas": {
+    "a": "inverter a posição habitual da favela no texto literário, que deixa de ser assunto observado e passa a ser lugar de quem escreve",
+    "b": "descrever a rotina da catação com vocabulário técnico, o que aproxima o diário de um relatório de assistência social daquele período",
+    "c": "recuperar a tradição do romance de tese, com personagens criados para defender uma posição política definida",
+    "d": "apresentar a pobreza urbana pela perspectiva de um pesquisador que conviveu com a comunidade durante meses",
+    "e": "propor uma linguagem depurada e culta, ajustada às expectativas do público leitor da época em que saiu o livro"
+   },
+   "resposta": "a",
+   "explicacao": "Antes do diário, a favela aparecia na literatura brasileira como objeto de observação externa. Carolina inverte a posição: quem escreve é quem mora ali, e o texto guarda as marcas dessa origem, inclusive na língua que a autora usa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-328",
+   "texto_apoio": "Conceição Evaristo criou o termo escrevivência para nomear uma escrita que parte da vivência da autora e das mulheres negras de sua família e comunidade, sem se confundir com autobiografia.",
+   "enunciado": "O termo é adequado a essa produção porque:",
+   "alternativas": {
+    "a": "restringe o texto ao relato de fatos verificáveis da vida da autora, comprovados por documentos de família",
+    "b": "designa a escrita feita sob encomenda de instituições de pesquisa interessadas em memórias de comunidades",
+    "c": "elege a experiência coletiva como matéria da ficção, de modo que a história pessoal responde por muitas outras",
+    "d": "indica a recusa da ficção em favor do depoimento oral, gravado e transcrito por pesquisadores especializados no assunto",
+    "e": "define um gênero fixo, com regras de composição estabelecidas por escritoras negras ao longo do século XIX"
+   },
+   "resposta": "c",
+   "explicacao": "Escrevivência não é autobiografia: a experiência entra na ficção como matéria coletiva. A vida narrada vale pelo que tem de comum com a de outras mulheres negras, e é isso que distingue o conceito do relato pessoal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-329",
+   "texto_apoio": "Nos livros de Conceição Evaristo, personagens negras aparecem com vida interior detalhada: sonhos, desejos, memórias de infância e reflexões sobre a própria condição ocupam mais espaço que a descrição de seu trabalho.",
+   "enunciado": "Essa escolha de composição é relevante porque:",
+   "alternativas": {
+    "a": "afasta a obra do debate social, ao concentrar-se em questões subjetivas desligadas da vida material das personagens",
+    "b": "rompe com a tradição que reservava às figuras negras papéis secundários, definidos pela função que exerciam",
+    "c": "adota o modelo do romance de aventuras, no qual a ação exterior determina o interesse da história narrada",
+    "d": "reduz as personagens a representantes de um grupo, sem características que as distingam umas das outras",
+    "e": "prescinde da memória como matéria literária e privilegia o registro do presente imediato das comunidades"
+   },
+   "resposta": "b",
+   "explicacao": "Dar interioridade às personagens negras é uma decisão política e formal: elas deixam de ser tipos definidos pelo trabalho ou pela cor e passam a existir como sujeitos plenos, com desejo e memória próprios.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-330",
+   "texto_apoio": "A literatura negra brasileira das últimas décadas reúne autoras e autores que tratam de racismo, ancestralidade e vida urbana escrevendo a partir da própria experiência, e que frequentemente organizam coletivos, editoras e antologias.",
+   "enunciado": "Um traço que caracteriza essa produção é:",
+   "alternativas": {
+    "a": "a preferência por temas históricos distantes, que evitam referência direta ao presente das cidades brasileiras de hoje",
+    "b": "o abandono da prosa em favor da poesia, considerada a única forma capaz de tratar da experiência do racismo",
+    "c": "a dependência de grandes editoras, sem as quais a circulação dessa produção não teria alcançado leitores",
+    "d": "o deslocamento do ponto de vista: a população negra deixa de ser tema observado e assume a posição de quem narra",
+    "e": "a adesão a uma linguagem padronizada, que apaga marcas regionais e sociais em nome da unidade da obra"
+   },
+   "resposta": "d",
+   "explicacao": "O traço decisivo é a mudança de posição: quem antes era descrito de fora passa a escrever. Essa produção também constrói circuitos próprios — coletivos, editoras independentes, antologias — para chegar ao público.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-331",
+   "texto_apoio": "A partir dos anos 1990, autores como Ferréz passaram a publicar livros sobre a vida em bairros afastados do centro de São Paulo, organizando também saraus, editoras e revistas fora do circuito das grandes casas publicadoras.",
+   "enunciado": "Esse conjunto de práticas é conhecido como literatura marginal ou periférica porque:",
+   "alternativas": {
+    "a": "reúne obras que a crítica especializada classificou como menores por não atingirem o padrão estético exigido",
+    "b": "designa textos escritos sem revisão, cuja publicação depende da tolerância do público em relação a erros de língua",
+    "c": "articula o assunto tratado, a origem de quem escreve e a criação de circuitos próprios de edição e circulação",
+    "d": "indica a posição geográfica das editoras envolvidas, instaladas nos limites administrativos do município paulistano",
+    "e": "refere-se à publicação em jornais de bairro, forma predominante de circulação desses textos até os dias de hoje"
+   },
+   "resposta": "c",
+   "explicacao": "O rótulo não é geográfico nem depreciativo: reúne o território de que se fala, o lugar social de quem escreve e a construção de um circuito editorial próprio — saraus, selos independentes, coletivos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-332",
+   "texto_apoio": "Cidade de Deus, de Paulo Lins, acompanha três gerações de moradores de um conjunto habitacional carioca. Dezenas de figuras entram e saem da história, e nenhuma delas concentra sozinha o interesse do livro.",
+   "enunciado": "Essa forma de composição serve para:",
+   "alternativas": {
+    "a": "dificultar o acompanhamento da história, efeito buscado como recusa deliberada de sentido no relato apresentado",
+    "b": "sugerir que a trajetória apresentada é excepcional e não se repete entre os demais moradores do conjunto",
+    "c": "reproduzir o modelo do romance de formação, centrado no amadurecimento moral de um protagonista único",
+    "d": "concentrar a narração na perspectiva de um morador que observa a comunidade a partir de sua janela",
+    "e": "deslocar o protagonismo para o próprio território, cuja transformação ao longo de décadas é o assunto do livro"
+   },
+   "resposta": "e",
+   "explicacao": "O protagonista do livro é o lugar. A multiplicação de figuras e de histórias mostra um processo social — a formação e o endurecimento da violência num território — que nenhuma trajetória individual daria conta de representar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-333",
+   "texto_apoio": "A literatura indígena contemporânea reúne autores que publicam livros assinados, muitos deles baseados em histórias aprendidas com os mais velhos de seus povos, e que discutem em ensaios a relação entre a escrita e a tradição oral.",
+   "enunciado": "Uma diferença central entre essa produção e a representação do indígena feita no século XIX é que:",
+   "alternativas": {
+    "a": "a autoria pertence agora aos próprios indígenas, que deixam de ser figuras representadas por escritores de fora",
+    "b": "os livros atuais evitam falar de mitos e de cosmologias, restringindo-se a relatos de disputas por território",
+    "c": "a produção de hoje é publicada apenas em línguas indígenas, sem edições que circulem em língua portuguesa",
+    "d": "os textos recentes tratam o indígena como símbolo da nação, tal como fizeram os escritores do período anterior",
+    "e": "as obras contemporâneas são escritas por antropólogos que transcrevem depoimentos colhidos nas aldeias visitadas"
+   },
+   "resposta": "a",
+   "explicacao": "No século XIX o indígena era personagem construído por escritores não indígenas, a serviço de um projeto de nação. Hoje ele assina o livro: a mudança é de autoria e de ponto de vista, e traz consigo a discussão sobre como passar a oralidade para a página.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-334",
+   "texto_apoio": "Em Torto Arado, de Itamar Vieira Junior, duas irmãs crescem numa fazenda do interior da Bahia onde famílias trabalham a terra há gerações sem poder possuí-la, e um acidente com uma faca antiga marca a infância das duas.",
+   "enunciado": "A relação entre as personagens e a terra, no livro, é apresentada como:",
+   "alternativas": {
+    "a": "resolvida logo no início do relato: a família recebe o título de propriedade da área que já cultivava",
+    "b": "indiferente ao trabalho agrícola, pois as irmãs deixam a fazenda ainda meninas e não retornam ao local",
+    "c": "vínculo de pertencimento que convive com a ausência de direito legal sobre o lugar em que a vida transcorre",
+    "d": "assunto secundário, subordinado à descrição das festas religiosas que reúnem os moradores da região baiana ao longo do ano",
+    "e": "resultado de escolha individual, já que cada trabalhador decide livremente onde plantar e por quanto tempo"
+   },
+   "resposta": "c",
+   "explicacao": "O livro trabalha exatamente essa tensão: as famílias pertencem à terra e a terra não lhes pertence. Herança do trabalho compulsório, a situação organiza a vida das personagens e dá ao relato sua dimensão histórica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-335",
+   "texto_apoio": "Os livros de Milton Hatoum se passam em Manaus e reconstroem, a partir de lembranças de quem conviveu com elas, a história de famílias de origem libanesa cujas casas e negócios entram em decadência.",
+   "enunciado": "A presença da memória nesses livros cumpre a função de:",
+   "alternativas": {
+    "a": "assegurar exatidão documental à reconstituição da vida econômica da capital amazonense no século passado",
+    "b": "afastar o relato do espaço urbano, deslocando o interesse para a paisagem da floresta e para os rios da região",
+    "c": "reunir depoimentos de imigrantes libaneses, transcritos com indicação de nomes e datas de chegada ao Brasil",
+    "d": "organizar a história por lembranças parciais e às vezes divergentes, o que expõe os limites de quem recorda",
+    "e": "eliminar o conflito familiar, uma vez que a distância no tempo suaviza as disputas entre irmãos e parentes"
+   },
+   "resposta": "d",
+   "explicacao": "Quem recorda nesses livros é figura implicada nos fatos, e a lembrança chega incompleta e disputada. A decadência das casas e das famílias aparece através dessa memória imperfeita — não como registro histórico, mas como versão possível.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-336",
+   "texto_apoio": "Leia o trecho, escrito para esta questão à maneira das narrativas urbanas de Rubem Fonseca:\n\n\"Perguntei quanto ele tinha no bolso. Ele disse que nada. Revistei. Tinha. Depois fui até a lanchonete da esquina, pedi um misto quente e olhei o movimento da avenida, que àquela hora já estava bom.\"",
+   "enunciado": "O efeito produzido pela ausência de comentário sobre a violência relatada é:",
+   "alternativas": {
+    "a": "atribuir à figura que fala uma consciência moral apurada, expressa na escolha das palavras do relato",
+    "b": "sugerir que o episódio foi inventado, já que um crime real exigiria descrição minuciosa das circunstâncias e do local",
+    "c": "amenizar o crime, apresentado como incidente banal cuja gravidade a própria história trata de negar",
+    "d": "transferir a quem lê o julgamento, pois o texto expõe o gesto criminoso com a mesma frieza do gesto trivial",
+    "e": "produzir efeito cômico, obtido pelo contraste entre a linguagem elevada e a brutalidade do assunto tratado"
+   },
+   "resposta": "d",
+   "explicacao": "A frase curta e a ausência de julgamento equiparam o assalto e o lanche na mesma linha de relato. O incômodo nasce daí: o texto se recusa a orientar a reação de quem lê, e a avaliação moral fica inteiramente por conta do leitor.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-337",
+   "texto_apoio": "A obra de Hilda Hilst combina ficção e poesia, trata do desejo em termos explícitos e recorre a interlocutores improváveis — Deus, um porco, o próprio corpo —, o que a manteve por décadas fora dos circuitos de grande circulação.",
+   "enunciado": "Essa combinação indica que a autora:",
+   "alternativas": {
+    "a": "adotou fórmulas do mercado editorial da época para ampliar o alcance de seus livros entre o público jovem",
+    "b": "restringiu sua produção ao gênero epistolar, o que explica a recepção limitada de sua obra em vida",
+    "c": "fez da provocação e da mistura de registros um projeto artístico, e não uma concessão ao gosto do público",
+    "d": "abandonou a literatura depois das primeiras publicações, dedicando-se apenas a atividades de outra natureza",
+    "e": "preferiu temas amenos e domésticos, tratados com linguagem simples para agradar aos leitores da imprensa"
+   },
+   "resposta": "c",
+   "explicacao": "Hilda Hilst levou ao limite a mistura de registros — o sagrado e o obsceno, a filosofia e a piada — como projeto deliberado. O afastamento do grande público foi consequência dessa opção, revista pela crítica nas últimas décadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-338",
+   "texto_apoio": "Morangos Mofados, de Caio Fernando Abreu, saiu em 1982 e reúne histórias curtas em que figuras jovens, urbanas, marcadas por amores interrompidos e pelo clima político da época, falam de desencanto e de espera.",
+   "enunciado": "O livro é representativo da produção brasileira dos anos 1980 porque:",
+   "alternativas": {
+    "a": "articula a experiência afetiva de uma geração ao esgotamento das promessas políticas do período que a antecedeu",
+    "b": "propõe um programa de ação coletiva, com indicação das tarefas que caberiam à juventude urbana daquela década",
+    "c": "recusa o espaço urbano como assunto e localiza suas histórias em pequenas comunidades rurais do interior do país",
+    "d": "reconstitui em ordem cronológica os acontecimentos políticos da década, atribuindo a cada um deles uma história",
+    "e": "adota linguagem impessoal e distante, sem marcas de gíria ou de referência à música ouvida pelas personagens"
+   },
+   "resposta": "a",
+   "explicacao": "Caio Fernando Abreu escreve o avesso íntimo de um momento histórico: a ressaca afetiva de quem atravessou os anos de repressão e chega à década seguinte sem as certezas que sustentavam a geração anterior.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-339",
+   "texto_apoio": "Em obras contemporâneas classificadas como autoficção, quem narra tem o mesmo nome do autor e episódios verificáveis de sua biografia, mas o livro é publicado e lido como ficção.",
+   "enunciado": "O interesse literário desse procedimento está em:",
+   "alternativas": {
+    "a": "assegurar a veracidade dos fatos relatados, submetidos previamente à checagem dos editores da obra",
+    "b": "tornar indecidível a fronteira entre vida e invenção, deslocando a atenção para o modo como o relato é construído",
+    "c": "substituir a ficção pela reportagem, gênero em que a apuração dos fatos precede a redação do texto final",
+    "d": "restaurar o modelo das memórias oitocentistas, escritas ao fim da vida para fixar a versão do próprio autor",
+    "e": "eliminar a figura de quem narra, já que o nome do autor na capa dispensa a criação de uma voz interna à obra publicada"
+   },
+   "resposta": "b",
+   "explicacao": "A autoficção não promete verdade nem a nega: instala a dúvida como parte da experiência de leitura. O leitor deixa de perguntar apenas o que aconteceu e passa a observar como a vida foi transformada em texto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-340",
+   "texto_apoio": "Leia o trecho, escrito para esta questão à maneira de certa ficção contemporânea:\n\n\"Escrevo esta página pela quarta vez. Nas anteriores, o homem descia a escada e morria no terceiro degrau. Desta vez ele desce, hesita, e eu percebo que não sei o que fazer com ele — nem com esta frase, que já dura tempo demais.\"",
+   "enunciado": "O recurso empregado no trecho consiste em:",
+   "alternativas": {
+    "a": "descrever o ambiente da escada com detalhe suficiente para que o espaço se torne o assunto da passagem",
+    "b": "reproduzir o discurso interior da figura que desce a escada, apresentada em seu último instante de vida",
+    "c": "recorrer a expressões regionais para situar a cena num território reconhecível pelo público leitor brasileiro",
+    "d": "expor o processo de escrita dentro do próprio texto, que passa a comentar as decisões de quem o compõe",
+    "e": "encadear versões sucessivas do mesmo episódio até fixar a que melhor corresponde aos fatos ocorridos"
+   },
+   "resposta": "d",
+   "explicacao": "É metalinguagem: o texto vira assunto de si mesmo. Em vez de esconder o trabalho de composição, a passagem o exibe — as tentativas frustradas, a hesitação, a frase que não termina —, e o leitor acompanha a construção em curso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-341",
+   "texto_apoio": "Certos livros contemporâneos se organizam em blocos curtos, numerados ou separados por espaços em branco, que saltam de uma cena a outra sem ligação explícita e deixam a quem lê a tarefa de reunir as peças.",
+   "enunciado": "Essa fragmentação narrativa costuma ser lida como:",
+   "alternativas": {
+    "a": "defeito de edição, resultante da supressão de capítulos por decisão comercial da casa publicadora",
+    "b": "retorno ao modelo do folhetim oitocentista, publicado em partes semanais nos jornais de grande circulação",
+    "c": "recurso destinado a reduzir o tamanho do livro, sem consequências para o sentido do que é apresentado",
+    "d": "exigência dos concursos literários atuais, que estabelecem limite máximo de páginas para as obras inscritas a cada edição",
+    "e": "forma que responde a uma experiência descontínua do tempo e da cidade, transferida para a montagem do livro"
+   },
+   "resposta": "e",
+   "explicacao": "A montagem em blocos não é acidente: ela reproduz no plano da forma uma experiência já fragmentada — do tempo, da memória, da vida urbana. Cabe a quem lê estabelecer as ligações que o texto deixou em aberto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-342",
+   "texto_apoio": "Leia o trecho, escrito para esta questão à maneira de certa ficção contemporânea:\n\n\"O detetive citou Camões enquanto esperava o elevador, comparou o crime a um episódio de série policial e concluiu que a vítima morrera como quem sai de cena num comercial de margarina.\"",
+   "enunciado": "O procedimento reconhecível no trecho, associado à produção de feição pós-moderna, é:",
+   "alternativas": {
+    "a": "a busca de uma linguagem pura, depurada de referências externas ao mundo interno da história narrada",
+    "b": "o apagamento das marcas de tempo, que impede o reconhecimento do período em que a cena se passa",
+    "c": "a defesa de uma hierarquia rígida entre a alta cultura e os produtos da indústria de entretenimento",
+    "d": "a exposição do processo de escrita, com o autor interrompendo a cena para discutir suas próprias escolhas",
+    "e": "a mistura, no mesmo plano, de repertório literário consagrado e de referências da cultura de massa"
+   },
+   "resposta": "e",
+   "explicacao": "Camões, série policial e comercial de margarina aparecem lado a lado, sem hierarquia. Essa nivelação de repertórios de origens distintas é um dos traços mais citados da produção de feição pós-moderna.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-343",
+   "texto_apoio": "Leia a letra de canção, composta para esta questão:\n\n\"Ergueu no beco o seu barraco torto,\nbebeu a tarde como quem bebeu adeus,\ndançou na laje um samba de conforto,\ne descansou, no chão, como se fosse seus.\"",
+   "enunciado": "A leitura da letra como texto literário se justifica, na produção brasileira contemporânea, porque:",
+   "alternativas": {
+    "a": "a composição trabalha imagem, ritmo e ambiguidade, recursos que o texto escrito também mobiliza",
+    "b": "as letras de canção substituíram os livros na formação do público leitor brasileiro das últimas décadas",
+    "c": "a música gravada dispensa o exame da palavra, cuja função se limita a acompanhar a melodia escolhida",
+    "d": "os compositores populares assumiram a tarefa de registrar, em suas letras, a história política do país",
+    "e": "a canção alcança público maior que o do livro, o que basta para incluí-la entre os objetos da crítica literária"
+   },
+   "resposta": "a",
+   "explicacao": "O que autoriza a leitura literária é o trabalho com a linguagem — a imagem do barraco torto, a comparação inesperada, o corte do último apoio. O alcance de público não decide a questão; o modo de construção do texto decide.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-344",
+   "texto_apoio": "Em Leite Derramado, romance de Chico Buarque, um homem muito idoso, internado num hospital, fala sem parar a quem estiver por perto e reconta a história de sua família ao longo de mais de um século.",
+   "enunciado": "A escolha desse tipo de relato permite ao livro:",
+   "alternativas": {
+    "a": "fixar a versão definitiva dos acontecimentos familiares, conferida pelos documentos guardados pelo protagonista ao longo da vida",
+    "b": "expor, pelas repetições e lacunas da fala do velho, a decadência de uma linhagem e os preconceitos que a sustentavam",
+    "c": "reduzir a história do país a um pano de fundo, sem relação com a trajetória apresentada pelo protagonista",
+    "d": "concentrar a ação num único dia, período em que o protagonista recebe a visita dos parentes mais próximos",
+    "e": "apresentar o ponto de vista dos empregados da casa, encarregados de corrigir os enganos do antigo patrão"
+   },
+   "resposta": "b",
+   "explicacao": "A fala do velho volta aos mesmos episódios com variações e esquecimentos. Nessas falhas aparecem a decadência da família e o racismo de classe que a organizava — o livro diz mais pelo que a memória deforma do que pelo que ela afirma.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-345",
+   "texto_apoio": "Leia o trecho, escrito para esta questão à maneira da ficção de Lygia Fagundes Telles:\n\n\"A visita chegou às cinco, elogiou as xícaras e sentou-se no lugar de sempre. Foi então que reparei: a cadeira ao lado, vazia havia doze anos, estava com a almofada afundada, morna, como se alguém acabasse de se levantar dali.\"",
+   "enunciado": "O efeito construído no trecho, frequente nessa vertente da ficção contemporânea, resulta de:",
+   "alternativas": {
+    "a": "explicar de imediato a origem do fenômeno observado, o que dissipa a estranheza criada pela cena doméstica",
+    "b": "apresentar o episódio como sonho da personagem, recurso indicado desde a primeira linha da passagem",
+    "c": "recorrer a criaturas fantásticas, cuja descrição minuciosa ocupa a maior parte da cena apresentada",
+    "d": "situar a ação num cenário improvável, distante da vida cotidiana das personagens que dela participam",
+    "e": "introduzir o insólito dentro de uma cena banal, mantida em tudo o mais dentro da normalidade da casa"
+   },
+   "resposta": "e",
+   "explicacao": "A força da cena vem do contraste: chá, xícaras, hora marcada — e uma almofada morna sem explicação. O insólito não desmonta o cotidiano; instala-se dentro dele e permanece sem resposta, que é como essa vertente costuma operar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-346",
+   "texto_apoio": "Leia o trecho de poema, composto para esta questão à maneira da poesia brasileira contemporânea de Adélia Prado:\n\n\"Deus mora na panela de arroz que esqueci no fogo.\nSe eu falo assim, as pessoas riem.\nMas foi lavando prato que entendi a ressurreição.\"",
+   "enunciado": "A relação entre o doméstico e o sagrado, no trecho, caracteriza-se por:",
+   "alternativas": {
+    "a": "separar as duas esferas, reservando à cozinha o assunto profano e à igreja a experiência religiosa",
+    "b": "tratar a rotina da casa como matéria de escárnio, à qual o texto se refere em tom de deboche",
+    "c": "encontrar a experiência religiosa dentro da tarefa comum, sem que uma coisa perca a dignidade da outra",
+    "d": "propor a substituição da fé por uma explicação racional dos acontecimentos observados na vida diária",
+    "e": "descrever cerimônias litúrgicas com vocabulário técnico, distante da linguagem falada pelas personagens"
+   },
+   "resposta": "c",
+   "explicacao": "A poesia de Adélia Prado costuma achar o sagrado no lugar mais baixo — a panela, a pia, o corpo. Nada é rebaixado no encontro: a tarefa doméstica ganha densidade e a experiência religiosa perde a solenidade sem perder a seriedade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-347",
+   "texto_apoio": "Leia o trecho de poema, composto para esta questão à maneira da poesia brasileira contemporânea de Manoel de Barros:\n\n\"Prefiro as coisas que não servem para nada:\no prego enferrujado, a lata sem fundo,\na palavra que ninguém quis usar hoje.\nCom elas eu faço a minha manhã.\"",
+   "enunciado": "A poética sugerida no trecho consiste em:",
+   "alternativas": {
+    "a": "denunciar o desperdício urbano por meio do inventário dos objetos descartados nas ruas das grandes cidades",
+    "b": "defender a modernização do vocabulário poético com termos técnicos recolhidos da indústria e do comércio",
+    "c": "reconstituir a infância do autor a partir de objetos guardados por sua família na região em que nasceu",
+    "d": "propor a restauração das formas fixas herdadas da tradição, aplicadas a assuntos de baixa importância",
+    "e": "deslocar o valor poético para o que é considerado inútil, incluindo as palavras deixadas de lado pelo uso"
+   },
+   "resposta": "e",
+   "explicacao": "O ínfimo e o descartado passam a ser o centro. A poesia de Manoel de Barros faz do que não serve — objeto ou palavra — a matéria do texto, invertendo a hierarquia habitual entre o que merece e o que não merece ser dito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-348",
+   "texto_apoio": "Publicado em 1975 e hoje lido como marco da ficção brasileira contemporânea, Lavoura Arcaica, de Raduan Nassar, apresenta um filho que fugiu de casa é buscado pelo irmão mais velho e reconta, em frases longas e encadeadas, a vida de uma família de imigrantes regida pelos sermões do pai à mesa.",
+   "enunciado": "A escolha por esse tipo de frase, no livro, corresponde a:",
+   "alternativas": {
+    "a": "uma exigência editorial da época, que impunha capítulos extensos aos livros publicados naquele período",
+    "b": "um ajuste da forma ao assunto, pois o fluxo contínuo da fala reproduz a pressão do discurso paterno e o delírio do filho",
+    "c": "uma tentativa de aproximar o texto da linguagem dos meios de comunicação, marcada por períodos breves",
+    "d": "um recurso de acessibilidade, destinado a facilitar a leitura do livro por um público ainda não habituado à ficção contemporânea",
+    "e": "uma imitação do estilo dos textos religiosos, empregada apenas nos capítulos em que o pai toma a palavra"
+   },
+   "resposta": "b",
+   "explicacao": "A frase que não termina é o próprio conflito: a lei do pai, dita em parábolas, e a revolta do filho, que fala sem respirar. Forma e assunto se sustentam mutuamente, e o ritmo do texto é parte do que ele diz.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-349",
+   "texto_apoio": "Eles Eram Muitos Cavalos, de Luiz Ruffato, um dos livros mais citados da ficção brasileira contemporânea, apresenta dezenas de fragmentos — um cardápio, uma lista de orações, um bilhete, cenas de poucas linhas — que registram um único dia na cidade de São Paulo.",
+   "enunciado": "A composição do livro por fragmentos justapostos serve para:",
+   "alternativas": {
+    "a": "figurar a metrópole como soma de existências simultâneas que não se encontram nem se explicam entre si",
+    "b": "acompanhar uma família paulistana ao longo de um dia, do despertar até o momento de dormir",
+    "c": "reunir documentos autênticos recolhidos pelo autor em repartições públicas da capital paulista",
+    "d": "estabelecer a ordem cronológica dos acontecimentos, apresentados hora a hora do amanhecer à noite",
+    "e": "demonstrar que a vida urbana pode ser reduzida a um pequeno conjunto de trajetórias tomadas como representativas"
+   },
+   "resposta": "a",
+   "explicacao": "Nenhum fio costura os fragmentos, e é esse o ponto: a cidade aparece como amontoado de vidas paralelas que se ignoram. A forma do livro imita o modo como a metrópole é de fato experimentada por quem vive nela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-350",
+   "texto_apoio": "Em O Filho Eterno, de Cristovão Tezza, um escritor acompanha o nascimento de um filho com síndrome de Down e o próprio fracasso em aceitá-lo. A trajetória coincide com a do autor, mas o livro foi publicado como ficção contemporânea.",
+   "enunciado": "Essa combinação aproxima o livro do procedimento conhecido como autoficção porque:",
+   "alternativas": {
+    "a": "os fatos narrados foram confirmados por documentos médicos anexados ao final da edição publicada",
+    "b": "o autor renuncia à elaboração da linguagem para preservar a exatidão do relato pessoal",
+    "c": "a matéria autobiográfica é elaborada como ficção, o que permite ao autor tratar a si mesmo como personagem",
+    "d": "o livro se apresenta como manual destinado a orientar famílias que passam por situação semelhante à narrada",
+    "e": "a história é atribuída a uma figura sem relação com a biografia de quem assina o livro publicado"
+   },
+   "resposta": "c",
+   "explicacao": "O autor se transforma em personagem observado de fora, inclusive naquilo que o desabona. Essa distância é obra da ficção — e é ela que separa o livro tanto do depoimento quanto da autobiografia convencional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-351",
+   "texto_apoio": "Um Defeito de Cor, de Ana Maria Gonçalves, acompanha uma mulher africana escravizada no Brasil do século XIX, que aprende a ler, participa de revoltas e procura o filho perdido, tudo contado por ela própria.",
+   "enunciado": "A escolha de dar a palavra a essa figura é decisiva porque:",
+   "alternativas": {
+    "a": "elimina a dimensão histórica do livro, que passa a depender apenas das impressões pessoais da protagonista",
+    "b": "converte a obra em estudo acadêmico sobre o tráfico atlântico, com notas e referências ao final de cada capítulo",
+    "c": "restringe o relato ao ambiente doméstico, sem alcance sobre os acontecimentos públicos do período retratado",
+    "d": "reconta o período da escravidão a partir de quem o sofreu, deslocando o ponto de vista consagrado pela tradição",
+    "e": "confirma a versão difundida pelos manuais escolares do século XX a respeito da vida nas fazendas brasileiras"
+   },
+   "resposta": "d",
+   "explicacao": "A escravidão aparece do lado de dentro: quem conta é a mulher escravizada, e não o observador externo. A ficção contemporânea usa esse deslocamento para rever a história oficial sem abrir mão do trabalho de pesquisa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-352",
+   "texto_apoio": "Em K. Relato de uma busca, de Bernardo Kucinski, um pai idoso procura a filha desaparecida durante a ditadura militar brasileira, batendo em portas de repartições que negam saber de qualquer coisa.",
+   "enunciado": "O livro é representativo de uma linha da produção contemporânea que:",
+   "alternativas": {
+    "a": "trata o período militar como assunto encerrado, cuja discussão caberia apenas aos manuais de história do país adotados nas escolas",
+    "b": "reconstrói a cronologia oficial dos governos militares, com atenção às medidas econômicas de cada período",
+    "c": "descreve o cotidiano das repartições públicas do período, com interesse voltado à rotina dos funcionários",
+    "d": "abandona a documentação histórica e trata os episódios da repressão como matéria puramente imaginária",
+    "e": "elabora ficcionalmente a memória da repressão, tomando a ausência do corpo e a recusa de informação como assunto"
+   },
+   "resposta": "e",
+   "explicacao": "A busca não termina, e a obra faz dessa impossibilidade a sua matéria: o que se narra é a ausência — do corpo, da resposta, do registro. Boa parte da ficção brasileira recente trabalha assim a memória da ditadura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-353",
+   "texto_apoio": "A crônica contemporânea, publicada em jornais, revistas e perfis de redes sociais, costuma partir de um acontecimento mínimo do dia — uma fila, um cachorro na calçada, uma frase ouvida no ônibus — e chegar a uma reflexão breve.",
+   "enunciado": "Esse gênero se distingue de outras formas de prosa por:",
+   "alternativas": {
+    "a": "exigir pesquisa prévia em fontes documentais e em arquivos públicos, o que aproxima o texto do trabalho do historiador de formação acadêmica",
+    "b": "extrair de um episódio corriqueiro uma pequena elaboração, em texto curto e ajustado ao ritmo da publicação periódica",
+    "c": "apresentar personagens acompanhadas por longos períodos, cujo amadurecimento organiza o interesse do texto",
+    "d": "recusar o assunto do dia e tratar de temas atemporais, escolhidos por sua permanência ao longo dos séculos",
+    "e": "adotar linguagem técnica e impessoal, exigida pelos veículos em que esses textos costumam ser publicados"
+   },
+   "resposta": "b",
+   "explicacao": "A crônica vive da conjunção entre o assunto miúdo e a forma breve, herdada do jornal e hoje adaptada às redes. O interesse não está no fato relatado, e sim no que quem escreve consegue extrair dele em poucas linhas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-354",
+   "texto_apoio": "Em saraus e batalhas de poesia falada realizados em praças e bares de bairros afastados dos centros urbanos, autores apresentam textos memorizados diante do público, que reage de imediato e às vezes decide o resultado da disputa.",
+   "enunciado": "Essa prática, ligada à literatura periférica contemporânea, caracteriza-se por:",
+   "alternativas": {
+    "a": "dispensar a escrita, já que os textos apresentados são improvisados no momento exato da apresentação",
+    "b": "reproduzir o formato das leituras acadêmicas, com público restrito e avaliação feita por especialistas convidados",
+    "c": "recusar a discussão de assuntos coletivos, concentrando-se em experiências estritamente individuais",
+    "d": "restituir à poesia a dimensão oral e pública, com a reação imediata do público integrada ao acontecimento",
+    "e": "substituir o livro impresso pela gravação em estúdio, forma predominante de circulação desses textos"
+   },
+   "resposta": "d",
+   "explicacao": "O texto é escrito, mas existe plenamente quando dito em voz alta diante de gente que responde. A poesia falada devolve à literatura uma dimensão pública e coletiva que o livro impresso havia deslocado para a leitura silenciosa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-355",
+   "texto_apoio": "Leia o trecho, escrito para esta questão à maneira da prosa de Mia Couto:\n\n\"A avó desencantava o tempo: puxava um fio da manhã e o dia inteiro se desfiava. Eu, menino, ficava a olhar aquela mulher fabricando lembranças que ainda não tinham acontecido.\"",
+   "enunciado": "Um traço da prosa desse autor moçambicano, reconhecível no trecho, é:",
+   "alternativas": {
+    "a": "a adoção de linguagem jornalística, ajustada ao relato objetivo dos acontecimentos apresentados",
+    "b": "a reprodução literal da fala urbana de Maputo, registrada com finalidade de documentação linguística e histórica",
+    "c": "a criação de palavras e de imagens que aproximam a língua portuguesa das formas de contar da tradição oral",
+    "d": "a preferência por assuntos históricos europeus, tratados com vocabulário erudito de origem latina",
+    "e": "a recusa da presença de figuras familiares, substituídas por personagens sem vínculo entre si"
+   },
+   "resposta": "c",
+   "explicacao": "Mia Couto trabalha a língua portuguesa como matéria maleável — palavras inventadas, imagens vindas do modo de contar dos mais velhos. A escrita se aproxima da oralidade sem transcrevê-la, num procedimento comparável ao de Guimarães Rosa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-356",
+   "texto_apoio": "Em romances contemporâneos do angolano José Eduardo Agualusa, figuras vendem passados falsos a clientes que desejam outra biografia, e memórias inventadas passam a ocupar o lugar das lembranças verdadeiras.",
+   "enunciado": "Esse assunto permite ao autor tratar de:",
+   "alternativas": {
+    "a": "problemas técnicos do registro civil angolano, discutidos com apoio na legislação vigente no país",
+    "b": "uma crítica ao mercado editorial, cuja lógica comercial os livros procuram descrever em detalhe",
+    "c": "questões da natureza, apresentadas por meio da descrição da fauna e da flora do território angolano e de seus rios",
+    "d": "assuntos exclusivos da história europeia, sem relação com o passado recente das antigas colônias",
+    "e": "identidade e memória como construções, num país que precisou reescrever a própria história depois da guerra"
+   },
+   "resposta": "e",
+   "explicacao": "Vender passados é uma alegoria eficaz: num país que saiu de uma longa guerra, a identidade é matéria em disputa. A ficção contemporânea de língua portuguesa usa esse tipo de invenção para discutir memória coletiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-357",
+   "texto_apoio": "Leia o trecho, escrito para esta questão à maneira de certa ficção contemporânea:\n\n\"Não estive lá naquela noite, e quem disser o contrário mente. Contei esta história vinte vezes, sempre igual. Só mudei o nome da rua, a hora e o motivo, porque isso, afinal, não interessa a ninguém.\"",
+   "enunciado": "A relação que o trecho estabelece com quem lê baseia-se em:",
+   "alternativas": {
+    "a": "minar a confiança na versão apresentada, pois quem fala se contradiz ao detalhar o que diz não ter alterado",
+    "b": "assegurar a veracidade do relato por meio da repetição, apresentada como prova da constância da versão",
+    "c": "transferir a responsabilidade do relato a uma testemunha externa, chamada a confirmar cada informação dada",
+    "d": "eliminar as marcas de subjetividade, o que confere ao texto a neutralidade própria dos registros oficiais",
+    "e": "descrever o ambiente com precisão suficiente para que a cena possa ser reconstituída por quem acompanha o texto"
+   },
+   "resposta": "a",
+   "explicacao": "Quem fala afirma que a história é a mesma e, na frase seguinte, admite ter mudado rua, hora e motivo. A contradição instala a desconfiança: a ficção contemporânea explora esse tipo de voz para pôr em xeque a própria versão apresentada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-358",
+   "texto_apoio": "Capão Pecado, de Ferréz, publicado em 2000, apresenta a vida de jovens de um bairro afastado do centro de São Paulo com uso de gíria local, e traz páginas assinadas por outros autores do mesmo bairro.",
+   "enunciado": "A presença dessas páginas de outros autores, no livro, indica que a literatura marginal contemporânea:",
+   "alternativas": {
+    "a": "considera a autoria individual um valor indiscutível, preservado pela assinatura única na capa do volume publicado",
+    "b": "opera como projeto coletivo, em que publicar significa também abrir espaço para outras pessoas do território",
+    "c": "depende do aval de instituições culturais para reconhecer os autores que participam de suas publicações",
+    "d": "adota o formato de antologia por exigência das editoras que financiaram a impressão dos exemplares",
+    "e": "renuncia à ficção e reúne apenas depoimentos autobiográficos recolhidos entre moradores do bairro"
+   },
+   "resposta": "b",
+   "explicacao": "O livro funciona como plataforma: quem publica leva junto outros autores do mesmo território. A dimensão coletiva é parte do projeto e explica os saraus, os coletivos e as editoras independentes que acompanham essa produção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-359",
+   "texto_apoio": "Leia o trecho, composto para esta questão à maneira da poesia do Barroco:\n\n\"Vem o dia, e o seu brilho não se atém;\nsegue-se a sombra ao rir da madrugada;\nno bem que dura pouco mora o nada,\ne o nada, sendo nada, ainda é bem.\"",
+   "enunciado": "O procedimento predominante no trecho, típico da poesia barroca, é:",
+   "alternativas": {
+    "a": "o jogo de contrários e o encadeamento de conceitos, que expõem a instabilidade das coisas do mundo",
+    "b": "a descrição objetiva da paisagem, apresentada sem interferência de julgamento de quem escreve o poema",
+    "c": "a exaltação do trabalho humano, tratado como força capaz de vencer a passagem do tempo e a morte",
+    "d": "o relato de um episódio histórico, reconstituído com datas e nomes recolhidos em documentos da época",
+    "e": "a defesa da vida simples no campo, apresentada em linguagem clara e despojada de figuras de linguagem elaboradas"
+   },
+   "resposta": "a",
+   "explicacao": "Sol e sombra, bem e dano, dura e engana: o texto avança por oposições encadeadas e por raciocínio agudo. São os dois traços mais citados do Barroco, o contraste e o trabalho conceitual, ambos a serviço do tema da transitoriedade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-360",
+   "texto_apoio": "Leia o trecho, composto para esta questão à maneira da poesia do Arcadismo:\n\n\"Deixa a cidade, Marfisa, e vem comigo\nver como o ribeirinho corre manso;\ndarei-te leite e queijo, e por abrigo\nesta sombra de fresco descanso.\"",
+   "enunciado": "Os elementos reunidos no trecho remetem a lemas centrais do Arcadismo, entre eles:",
+   "alternativas": {
+    "a": "o desprezo pela natureza, considerada obstáculo à formação do gosto refinado do público leitor da corte",
+    "b": "a fuga da cidade e o convite ao repouso em paisagem amena, ligados a fugere urbem e a locus amoenus",
+    "c": "a valorização da guerra e do heroísmo militar, tratados como assunto próprio da poesia daquele período",
+    "d": "o interesse pelo passado medieval e pelas lendas de cavalaria, retomadas como matéria de composição",
+    "e": "a sondagem do sofrimento interior de quem escreve, tomado como assunto exclusivo do poema composto"
+   },
+   "resposta": "b",
+   "explicacao": "A saída da cidade (fugere urbem) e a paisagem aprazível do riacho e da sombra (locus amoenus) organizam o trecho, junto ao pastor que oferece leite e queijo à amada. É o repertório árcade em estado quase puro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-361",
+   "texto_apoio": "Em Marília de Dirceu, Tomás Antônio Gonzaga assume o nome pastoril de Dirceu, apresenta-se como pastor que cuida do rebanho e canta a amada, embora fosse magistrado de formação universitária em Vila Rica.",
+   "enunciado": "Essa distância entre a figura do pastor e a condição real do autor indica que, no Arcadismo:",
+   "alternativas": {
+    "a": "o disfarce pastoril é convenção do período, adotada como forma de tratar do sentimento com a medida do modelo antigo",
+    "b": "os autores efetivamente abandonavam suas funções públicas para viver do trabalho no campo durante o período",
+    "c": "a poesia se propunha a registrar com exatidão a rotina dos criadores de gado da região das Minas setecentistas e das vilas próximas",
+    "d": "a escolha do nome falso tinha por objetivo ocultar a autoria dos textos diante da censura da metrópole",
+    "e": "a figura do pastor foi criada no Brasil, sem correspondência nas literaturas europeias do mesmo período"
+   },
+   "resposta": "a",
+   "explicacao": "O pastor é máscara literária de origem greco-latina, retomada como convenção do período. Não há biografia a conferir: o disfarce dá forma e medida ao sentimento amoroso, segundo o ideal árcade de imitação dos antigos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-362",
+   "texto_apoio": "Em I-Juca-Pirama, de Gonçalves Dias, um guerreiro tupi capturado pede aos inimigos que o poupem para que possa cuidar do pai cego, e é recusado por demonstrar fraqueza diante da morte.",
+   "enunciado": "A construção dessa figura no poema é característica do indianismo romântico porque:",
+   "alternativas": {
+    "a": "descreve com precisão etnográfica os rituais de guerra observados entre povos indígenas do litoral brasileiro",
+    "b": "denuncia a violência do colonizador europeu contra as populações indígenas ao longo dos três séculos anteriores",
+    "c": "atribui ao guerreiro indígena um código de honra construído segundo o modelo do cavaleiro medieval europeu",
+    "d": "trata o indígena como figura decorativa, sem participação nos conflitos apresentados ao longo da composição",
+    "e": "apresenta o protagonista como personagem cômico, cuja recusa da morte serve de contraponto ao tom do poema"
+   },
+   "resposta": "c",
+   "explicacao": "O indianismo romântico não é etnografia: constrói o herói nacional projetando sobre o indígena valores de bravura, honra e fidelidade herdados do cavaleiro medieval. Daí a coragem exigida do guerreiro diante do sacrifício.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-363",
+   "texto_apoio": "Leia o trecho, composto para esta questão à maneira da poesia condoreira do Romantismo brasileiro:\n\n\"Ó Deus dos que padecem! respondei:\né delírio este pranto que derramo,\né delírio este brado com que chamo,\ndo porão apertado, o vosso céu?\"",
+   "enunciado": "Os recursos empregados no trecho identificam a terceira geração romântica brasileira porque:",
+   "alternativas": {
+    "a": "restringem o poema à confissão do sofrimento pessoal, sem projeção sobre a vida em sociedade",
+    "b": "reproduzem a linguagem coloquial da conversa diária, ajustada ao registro do público a que se dirigem nas praças e nos salões",
+    "c": "descrevem a paisagem marítima com finalidade documental, apoiada em relatos de viagem da época",
+    "d": "recorrem à interrogação e ao apelo em tom elevado para tratar de causas públicas, como a libertação dos escravizados",
+    "e": "empregam vocabulário técnico da navegação para descrever as embarcações usadas no comércio atlântico"
+   },
+   "resposta": "d",
+   "explicacao": "A geração condoreira leva a poesia romântica à praça pública: apelo a Deus, exclamação, pergunta retórica e vocabulário elevado a serviço da campanha abolicionista. O eu que fala é porta-voz de uma causa, não apenas de uma dor íntima.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-364",
+   "texto_apoio": "Leia o trecho, composto para esta questão à maneira da segunda geração romântica brasileira:\n\n\"Quando eu partir, ao menos venha alguém\ncerrar-me os olhos com a mão macia;\ne a vela, ao pé da cama, ainda fria,\nchorará por quem já não é ninguém.\"",
+   "enunciado": "Os traços reunidos no trecho caracterizam o ultrarromantismo por:",
+   "alternativas": {
+    "a": "reunir o gosto pela morte, a autocomiseração e a idealização amorosa, marcas do chamado mal do século",
+    "b": "defender a intervenção do poeta nos debates públicos de seu tempo, com apelo direto ao público leitor",
+    "c": "apresentar o cotidiano do trabalho urbano com atenção às condições materiais de quem vive na cidade",
+    "d": "recuperar o repertório da poesia antiga, com pastores e ninfas dispostos numa paisagem campestre serena",
+    "e": "descrever de modo minucioso a hereditariedade das personagens para explicar seu comportamento moral"
+   },
+   "resposta": "a",
+   "explicacao": "Morte antecipada, amada idealizada, autopiedade e tom melancólico compõem o repertório da segunda geração romântica, herdeiro de Byron e Musset, que a crítica costuma reunir sob a expressão mal do século.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-365",
+   "texto_apoio": "Em Iracema, de José de Alencar, a protagonista indígena aparece descrita por comparações tomadas da natureza brasileira — o mel dos lábios, os cabelos mais negros que a asa da graúna — e a prosa se organiza em períodos curtos e ritmados.",
+   "enunciado": "Esses procedimentos servem, no livro, para:",
+   "alternativas": {
+    "a": "aproximar o texto do relato de viagem, destinado a informar o público europeu sobre as terras do continente",
+    "b": "construir uma narrativa de fundação em prosa poética, na qual a paisagem e a heroína são idealizadas em conjunto",
+    "c": "reproduzir a fala das populações indígenas do Ceará, registrada pelo autor durante pesquisas de campo realizadas na região",
+    "d": "produzir efeito cômico pelo contraste entre as comparações escolhidas e a gravidade dos fatos apresentados",
+    "e": "documentar a economia colonial do litoral cearense por meio da descrição das atividades das personagens"
+   },
+   "resposta": "b",
+   "explicacao": "Alencar chama o livro de lenda: a prosa se aproxima do poema e a heroína se confunde com a terra. O par indígena e colonizador serve de mito de origem do povo brasileiro, projeto central do romantismo nacionalista.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "textos": [

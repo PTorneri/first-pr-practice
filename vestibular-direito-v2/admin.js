@@ -9,7 +9,7 @@
 // Firestore recusar, ela mostra o seu UID e a regra pronta pra colar. Assim
 // existe uma fonte da verdade só, e ninguém ganha acesso editando o JavaScript.
 
-import { auth, db } from "./firebase-init.js?v=51";
+import { auth, db } from "./firebase-init.js?v=52";
 import {
   GoogleAuthProvider, signInWithPopup, signOut, onAuthStateChanged,
 } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-auth.js";
@@ -56,9 +56,63 @@ function dataHora(ms) {
 }
 
 // O documento do usuário guarda { data: { "<chave>": { value, ts } } }.
+//
+// A chave tem DOIS prefixos desde a migração de 2026-08: "v2_" mais o prefixo
+// da trilha (ver o topo de app.js). Uma conta que estuda Direito grava em
+// "v2_dir_vd_studyDays"; a mesma conta em Medicina grava em
+// "v2_med_vd_studyDays". Procurar só por "v2_vd_*", como este painel fazia,
+// encontrava apenas os documentos anteriores à migração — daí a aba Uso
+// mostrar "nunca estudou" para quem estuda todo dia.
+//
+// O "" no começo da lista é justamente esse espaço pré-trilha, que continua
+// valendo para quem não abriu o app depois da migração.
+const PREFIXOS = ["", "dir_", "med_", "eco_", "eng_"];
+
+function entradasDe(userDoc, chaveSemPrefixo) {
+  const data = userDoc.data || {};
+  const out = [];
+  PREFIXOS.forEach((p) => {
+    const e = data[NS + p + chaveSemPrefixo];
+    if (e) out.push(e);
+  });
+  return out;
+}
+
+// Valor simples (vd_startDate): vence o carimbo mais recente. Quem estuda duas
+// trilhas tem duas datas de início legítimas e diferentes; a mais recente é a
+// da trilha em que a pessoa está agora, que é a que faz o "dia do plano" desta
+// tabela dizer alguma coisa.
 function valorDe(userDoc, chaveSemPrefixo) {
-  const entrada = (userDoc.data || {})[NS + chaveSemPrefixo];
-  return entrada ? entrada.value : undefined;
+  const es = entradasDe(userDoc, chaveSemPrefixo);
+  if (!es.length) return undefined;
+  return es.reduce((a, b) => ((b.ts || 0) > (a.ts || 0) ? b : a)).value;
+}
+
+// Mapas chave -> valor (dias estudados, respostas): união entre as trilhas.
+// Estudar é estudar, independentemente do curso — a conta é uma só.
+function unirDe(userDoc, chaveSemPrefixo) {
+  const out = {};
+  entradasDe(userDoc, chaveSemPrefixo).forEach((e) => {
+    if (e.value && typeof e.value === "object") Object.assign(out, e.value);
+  });
+  return out;
+}
+
+// Contadores por subtema: somados entre as trilhas. As frentes são
+// compartilhadas (o banco é central), então responder Biologia em Medicina e
+// em Engenharia são respostas da mesma pessoa na mesma frente.
+function somarDe(userDoc, chaveSemPrefixo) {
+  const out = {};
+  entradasDe(userDoc, chaveSemPrefixo).forEach((e) => {
+    const v = e.value;
+    if (!v || typeof v !== "object") return;
+    Object.keys(v).forEach((sub) => {
+      if (!out[sub]) out[sub] = { answered: 0, correct: 0 };
+      out[sub].answered += (v[sub] && v[sub].answered) || 0;
+      out[sub].correct += (v[sub] && v[sub].correct) || 0;
+    });
+  });
+  return out;
 }
 
 function nomeDaFrente(id) {
@@ -226,7 +280,7 @@ function renderUso() {
   const linhas = [];
 
   usuarios.forEach((u) => {
-    const dias = valorDe(u, "vd_studyDays") || {};
+    const dias = unirDe(u, "vd_studyDays");
     const dts = Object.keys(dias).filter((d) => dias[d]).sort();
     const ultimo = dts[dts.length - 1] || null;
     const seq = sequenciaDe(dias);
@@ -241,7 +295,7 @@ function renderUso() {
       diaDoPlano = Math.min(Math.max(n, 1), 90);
     }
 
-    const topic = valorDe(u, "vd_topicState") || {};
+    const topic = somarDe(u, "vd_topicState");
     let resp = 0, cert = 0;
     Object.values(topic).forEach((t) => { resp += t.answered || 0; cert += t.correct || 0; });
 
@@ -299,7 +353,7 @@ function renderUso() {
 function renderFrentes() {
   const agregado = {};
   dados.usuarios.forEach((u) => {
-    const topic = valorDe(u, "vd_topicState") || {};
+    const topic = somarDe(u, "vd_topicState");
     Object.keys(topic).forEach((sub) => {
       if (!agregado[sub]) agregado[sub] = { answered: 0, correct: 0, contas: 0 };
       agregado[sub].answered += topic[sub].answered || 0;
@@ -350,7 +404,10 @@ function renderQuestoes() {
   // Cruza a resposta de cada conta com o gabarito do banco.
   const porQuestao = {};
   dados.usuarios.forEach((u) => {
-    const respostas = valorDe(u, "vd_answers") || {};
+    // União entre trilhas: se a mesma questão foi respondida em duas, vale a
+    // última encontrada. Não é decisão fina — o banco é o mesmo e a taxa de
+    // erro agregada não muda de forma relevante por causa disso.
+    const respostas = unirDe(u, "vd_answers");
     Object.keys(respostas).forEach((chave) => {
       const sep = chave.indexOf("::");
       if (sep < 0) return;
@@ -458,6 +515,143 @@ function diasRestantes(a) {
 
 const ROTULO_ESTADO = { ativa: "Ativa", vencida: "Vencida", cancelada: "Cancelada" };
 
+// ---------- Quem está no teste de 7 dias ----------
+//
+// Espelho de TESTE_DIAS, em assinatura.js — as duas TÊM que concordar, pelo
+// mesmo motivo de estadoDaAssinatura(): com números diferentes, o painel
+// mostraria como "no teste" alguém que o app já barrou, e você cobraria quem
+// ainda está experimentando.
+const TESTE_DIAS = 7;
+
+// A data de nascimento da conta é gravada por sync.js em /users/{uid}, a cada
+// login, a partir do creationTime do Firebase Auth (ver o comentário de
+// `identidade` lá). Aqui ela é só lida.
+//
+// DUAS CONSEQUÊNCIAS que a tela precisa admitir, e admite:
+//
+// 1. Uma conta só aparece depois de abrir o app UMA VEZ com a versão que grava
+//    o carimbo. Quem está no teste abre o app por definição, então a lista se
+//    completa sozinha em um ou dois dias; quem criou conta e nunca voltou fica
+//    de fora para sempre. O contador de "sem carimbo" existe para você saber o
+//    tamanho desse buraco em vez de supor que ele é zero.
+//
+// 2. Quem escreve o campo é o próprio dono da conta (é a regra de users/{uid}).
+//    Isto serve para VER, nunca para decidir acesso — quem decide é
+//    estadoDoTeste() em assinatura.js, lendo o Auth direto.
+function estadoDoTeste(u) {
+  const nasceu = typeof u.criadaEm === "number" ? u.criadaEm : 0;
+  if (!nasceu) return null;
+  const terminaEm = nasceu + TESTE_DIAS * 86400000;
+  return {
+    nasceu: nasceu,
+    terminaEm: terminaEm,
+    dentro: Date.now() < terminaEm,
+    // Arredonda pra cima, igual ao app: faltando 6h ainda se diz "1 dia".
+    // Se o número daqui fosse pra baixo, você leria "0" numa conta que ainda
+    // vê "1 dia" na tela da pessoa.
+    diasRestantes: Math.max(0, Math.ceil((terminaEm - Date.now()) / 86400000)),
+  };
+}
+
+// Junta, para cada conta, o que o painel precisa saber sobre quem está
+// experimentando: quem é, quanto falta, se já está usando de verdade e se já
+// pagou. Devolve também quantas contas não têm carimbo — é o que separa
+// "ninguém está no teste" de "ainda não sei quem está".
+function contasNoTeste() {
+  const porEmail = new Map((dados.assinaturas || []).map((a) => [a.email, a]));
+  const linhas = [];
+  let semCarimbo = 0;
+
+  (dados.usuarios || []).forEach((u) => {
+    const teste = estadoDoTeste(u);
+    if (!teste) { semCarimbo++; return; }
+    if (!teste.dentro) return;
+
+    const dias = unirDe(u, "vd_studyDays");
+    const dts = Object.keys(dias).filter((d) => dias[d]).sort();
+    const assinatura = u.email ? porEmail.get(u.email) : null;
+
+    linhas.push({
+      uid: u.uid,
+      email: u.email || "",
+      teste: teste,
+      diasEstudados: dts.length,
+      ultimo: dts[dts.length - 1] || null,
+      assinatura: assinatura || null,
+    });
+  });
+
+  // Quem termina antes vem primeiro: é a ordem em que você tem chance de
+  // converter alguém, e a lista serve para isso.
+  linhas.sort((a, b) => a.teste.terminaEm - b.teste.terminaEm);
+  return { linhas: linhas, semCarimbo: semCarimbo };
+}
+
+// `semAcoes` existe para o caso em que a regra de /assinaturas não está
+// publicada: a lista do teste continua valendo (ela sai de /users, que o admin
+// já lê), mas liberar acesso é impossível ali. Botão que não pode funcionar é
+// pior que botão nenhum — some.
+function secaoTeste(resumo, semAcoes) {
+  const { linhas, semCarimbo } = resumo;
+
+  const nota = semCarimbo
+    ? `<p class="login-note">${semCarimbo} conta(s) ainda sem data de criação registrada —
+       são as que não abriram o app desde que o painel passou a guardá-la. Elas entram
+       sozinhas no próximo acesso de cada uma.</p>`
+    : "";
+
+  if (!linhas.length) {
+    // Sem título fora do cartão neste caso: o padrão das outras abas é o
+    // estado vazio se explicar sozinho, dentro do cartão.
+    return `
+      <div class="card admin-vazio">
+        <h3>Ninguém no teste de ${TESTE_DIAS} dias agora</h3>
+        <p class="lesson-desc">Toda conta nova entra com o app inteiro por ${TESTE_DIAS} dias,
+        contados do nascimento da conta. Enquanto o teste estiver correndo, ela aparece aqui —
+        com quanto falta e se a pessoa está mesmo estudando.</p>
+        ${nota}
+      </div>`;
+  }
+
+  const corpo = linhas.map((l) => {
+    const t = l.teste;
+    // Faltando 2 dias ou menos, a linha ganha o mesmo amarelo de "vencendo":
+    // é quando a conversa com a pessoa ainda cabe antes do muro.
+    const urgente = t.diasRestantes <= 2;
+    const est = l.assinatura ? estadoDaAssinatura(l.assinatura) : null;
+    return `<tr data-email="${esc(l.email)}">
+      <td class="admin-email">${l.email ? esc(l.email) : `<code class="admin-uid-curto">${esc(l.uid.slice(0, 8))}…</code>`}</td>
+      <td>${esc(new Date(t.nasceu).toLocaleDateString("pt-BR"))}</td>
+      <td><span class="admin-status ${urgente ? "vencida" : "ativa"}">${t.diasRestantes} dia(s)</span></td>
+      <td>${l.diasEstudados}</td>
+      <td>${esc(l.ultimo || "nunca")}</td>
+      <td>${est ? `<span class="admin-status ${est}">${ROTULO_ESTADO[est]}</span>` : "—"}</td>
+      <td class="admin-acoes-cel">
+        ${semAcoes || est === "ativa" || !l.email
+          ? ""
+          : `<button class="btn btn-ghost admin-btn-mini" data-acao="liberar-teste">+90 dias</button>`}
+      </td>
+    </tr>`;
+  }).join("");
+
+  return `
+    <h3>No teste de ${TESTE_DIAS} dias</h3>
+    <p class="hint">${linhas.length} conta(s) experimentando agora, de quem termina antes para
+    quem termina depois. "Estudou" separa quem vai assinar de quem só abriu e sumiu —
+    é o que decide se vale puxar conversa. A coluna Assinatura mostra quem já pagou
+    durante o teste; para esses não há botão, porque já está resolvido.</p>
+    <div class="admin-tabela-wrap">
+      <table class="admin-tabela">
+        <thead><tr>
+          <th>Conta</th><th>Criada em</th><th>Falta</th><th>Dias estudados</th>
+          <th>Último estudo</th><th>Assinatura</th><th></th>
+        </tr></thead>
+        <tbody>${corpo}</tbody>
+      </table>
+    </div>
+    ${nota}`;
+}
+
 function renderAssinaturas() {
   const alvo = $("tab-assinaturas");
   const lista = (dados.assinaturas || []).slice();
@@ -474,8 +668,11 @@ function renderAssinaturas() {
         &gt; Regras, cole o conteúdo de <code>firestore.rules</code> e publique. Depois
         recarregue esta página.</p>
         <p class="lesson-desc">Enquanto isso o resto do painel funciona normalmente — só esta
-        aba depende da coleção nova.</p>
-      </div>`;
+        aba depende da coleção nova. A lista do teste, logo abaixo, sai de
+        <code>/users</code> e continua valendo; o que falta é poder liberar acesso.</p>
+      </div>
+
+      ${secaoTeste(contasNoTeste(), true)}`;
     return;
   }
 
@@ -527,15 +724,16 @@ function renderAssinaturas() {
   }).join("");
 
   const contas = dados.usuarios.length;
+  const resumoTeste = contasNoTeste();
 
   alvo.innerHTML = `
     <h2>Assinaturas</h2>
-    <p class="hint">Quem tem documento aqui entra no app; quem não tem, vê a tela de assinatura.
-    Enquanto o portão estiver desligado (<code>PORTAO_ATIVO = false</code> em
-    <code>assinatura.js</code>), isto não bloqueia ninguém — dá pra cadastrar tudo com calma
-    antes de virar a chave.</p>
+    <p class="hint">Quem tem documento aqui entra no app; quem não tem e já passou dos
+    ${TESTE_DIAS} dias de teste, vê a tela de assinatura. As duas portas aparecem nesta aba:
+    embaixo, quem paga; logo acima, quem ainda está experimentando.</p>
 
     <div class="admin-nums">
+      ${cartao("No teste", resumoTeste.linhas.length, "dos " + TESTE_DIAS + " dias grátis")}
       ${cartao("Ativas", ativas)}
       ${cartao("Vencem em 7 dias", vencendo)}
       ${cartao("Vencidas", vencidas)}
@@ -561,12 +759,15 @@ function renderAssinaturas() {
         <button id="btn-liberar" class="btn btn-primary admin-btn-inline">Liberar</button>
       </div>
       <p id="lib-resultado" class="admin-resultado" hidden></p>
-      <p class="login-note">Os e-mails de quem já usa o app estão no Console do Firebase &gt;
-      Authentication &gt; Users. O painel não consegue listá-los daqui: o SDK do navegador não
-      enumera contas do Auth, só o Admin SDK — por isso o passo é copiar de lá e colar aqui.
+      <p class="login-note">O e-mail de quem está no teste aparece na tabela logo abaixo, com um
+      botão que já libera — não precisa copiar de lugar nenhum. Para uma conta antiga que ainda
+      não voltou ao app, a lista completa continua no Console do Firebase &gt; Authentication &gt;
+      Users: o SDK do navegador não enumera contas do Auth, só o Admin SDK.
       Hoje há <strong>${contas}</strong> conta(s) no app e <strong>${lista.length}</strong>
       assinatura(s) cadastrada(s).</p>
     </div>
+
+    ${secaoTeste(resumoTeste)}
 
     ${lista.length ? `
     <h3>Cadastradas</h3>
@@ -656,15 +857,20 @@ async function liberar() {
 
 async function acaoNaLinha(email, acao, btn) {
   const atual = (dados.assinaturas || []).find((a) => a.email === email);
-  if (!atual) return;
+
+  // "liberar-teste" vem da tabela do teste, onde a conta em geral AINDA NÃO
+  // tem documento de assinatura — é justamente o que o botão cria. As outras
+  // ações operam sobre uma linha que já existe, e sem ela não há o que alterar.
+  if (!atual && acao !== "liberar-teste") return;
+  if (!email) return;
 
   btn.disabled = true;
   const rotulo = btn.textContent;
   btn.textContent = "…";
 
   try {
-    if (acao === "renovar") {
-      const restante = estadoDaAssinatura(atual) === "ativa" ? atual.expiraEm : 0;
+    if (acao === "renovar" || acao === "liberar-teste") {
+      const restante = atual && estadoDaAssinatura(atual) === "ativa" ? atual.expiraEm : 0;
       await setDoc(doc(db, "assinaturas", email), {
         ativa: true,
         expiraEm: novaValidade(90, restante),
@@ -818,6 +1024,10 @@ window.VD_ADMIN = {
     renderQuestoes();
   },
   _sequenciaDe: sequenciaDe,
+  _estadoDoTeste: estadoDoTeste,
+  _contasNoTeste: contasNoTeste,
+  _unirDe: unirDe,
+  _somarDe: somarDe,
   _estadoDaAssinatura: estadoDaAssinatura,
   _novaValidade: novaValidade,
   _normalizarEmail: normalizarEmail,

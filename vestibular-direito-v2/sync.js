@@ -13,7 +13,7 @@
 // dado — descritas em MERGE_STRATEGY logo abaixo.
 
 import { doc, getDoc, setDoc, deleteDoc } from "https://www.gstatic.com/firebasejs/12.17.1/firebase-firestore.js";
-import { db } from "./firebase-init.js?v=51";
+import { db } from "./firebase-init.js?v=52";
 
 const META_KEY = "v2_syncMeta"; // { "<chave>": <ms da última escrita local> } — não sobe pra nuvem
 const PUSH_DEBOUNCE_MS = 2500;
@@ -146,6 +146,27 @@ let pushTimer = null;
 let statusEl = null;
 let lastError = null;
 
+// ---------- A identidade da conta ----------
+//
+// { email, criadaEm } — o e-mail do login e o carimbo de nascimento da conta,
+// em milissegundos. Não têm nada a ver com progresso e não são mesclados: são
+// fatos do Firebase Auth, copiados para dentro do documento.
+//
+// Por que copiar algo que o Auth já sabe: o painel roda no navegador, e o SDK
+// do navegador NÃO enumera contas do Auth (só o Admin SDK, no servidor). Sem
+// esta cópia, o painel não tem como listar quem está nos 7 dias de teste — o
+// teste é contado do creationTime, e o creationTime só existe dentro do objeto
+// do usuário logado, na máquina dele. Aqui ele passa a existir também em
+// /users/{uid}, que o admin já lê.
+//
+// O que ISTO NÃO É: a fonte da verdade do teste. Quem decide se alguém entra
+// continua sendo estadoDoTeste() em assinatura.js, lendo o metadata direto do
+// Auth — imexível por quem está sendo barrado. O campo daqui é escrito pelo
+// próprio dono da conta (a regra de users/{uid} permite), então serve para o
+// painel VER, nunca para o portão DECIDIR. Alguém que forje o próprio
+// criadaEm ganha uma linha errada no seu painel, e nem um dia de acesso.
+let identidade = null;
+
 // Trava de segurança: só é permitido ESCREVER na nuvem depois de ter LIDO dela
 // com sucesso. Sem isso, um aparelho cujo download falhou sobe o próprio estado
 // (vazio ou desatualizado) como se fosse a verdade e apaga o progresso real —
@@ -275,6 +296,25 @@ function migrateFromV1() {
 
 // ---------- Subir / baixar ----------
 
+// Extrai do objeto do Auth só o que o painel precisa, já normalizado.
+//
+// O e-mail sai em minúsculas porque é assim que ele vira chave em
+// /assinaturas — o painel cruza as duas coleções por esse campo, e
+// "Fulano@Gmail.com" gravado aqui nunca casaria com o documento de assinatura.
+//
+// Campo que não deu para preencher fica FORA do objeto, e não como undefined:
+// o Firestore recusa undefined e derrubaria a escrita inteira do progresso por
+// causa de um dado acessório.
+function identidadeDe(user) {
+  const out = {};
+  const email = (user && user.email ? user.email : "").toLowerCase().trim();
+  if (email) out.email = email;
+  const carimbo = user && user.metadata ? user.metadata.creationTime : null;
+  const nasceu = carimbo ? Date.parse(carimbo) : NaN;
+  if (!isNaN(nasceu)) out.criadaEm = nasceu;
+  return Object.keys(out).length ? out : null;
+}
+
 function collectLocal() {
   const meta = loadMeta();
   const data = {};
@@ -295,11 +335,11 @@ async function pushNow() {
     // merge:true é essencial: sem ele o setDoc SUBSTITUI o documento inteiro, e
     // qualquer chave que este aparelho não tenha localmente some da nuvem. Com
     // merge, cada chave é escrita por cima da sua correspondente e o resto fica.
-    await setDoc(doc(db, "users", currentUid), {
+    await setDoc(doc(db, "users", currentUid), Object.assign({
       data: collectLocal(),
       updatedAt: Date.now(),
       app: "v2",
-    }, { merge: true });
+    }, identidade || {}), { merge: true });
     lastError = null;
     setStatus("ok", "Salvo na sua conta");
   } catch (err) {
@@ -331,8 +371,21 @@ async function pullAndMerge() {
 
   if (!snap.exists()) return { ok: true, mudou: false, primeiraVez: true };
 
-  const remoto = (snap.data() || {}).data || {};
+  const docRemoto = snap.data() || {};
+  const remoto = docRemoto.data || {};
   let mudou = false;
+
+  // A identidade não entra na mesclagem — ela é um fato do Auth, não um estado
+  // que dois aparelhos disputam. Só se compara para saber se vale a escrita:
+  // gravar o mesmo e-mail e o mesmo carimbo a cada login seria uma escrita por
+  // sessão sem nenhuma informação nova.
+  //
+  // A comparação percorre as chaves de `identidade`, e não as do documento:
+  // um campo que só existe do lado remoto (porque o Auth não entregou o
+  // carimbo nesta sessão) não é divergência — o merge:true o preservaria de
+  // qualquer jeito, e contá-lo aqui pediria uma escrita inútil a cada login.
+  const identidadeDefasada = !!identidade &&
+    Object.keys(identidade).some((k) => docRemoto[k] !== identidade[k]);
 
   window.VD_KEYS.SYNCABLE.forEach((k) => {
     const entradaRemota = remoto[k];
@@ -350,7 +403,7 @@ async function pullAndMerge() {
   });
 
   if (mudou) saveMeta(meta);
-  return { ok: true, mudou: mudou };
+  return { ok: true, mudou: mudou, identidadeDefasada: identidadeDefasada };
 }
 
 // ---------- API pública ----------
@@ -359,6 +412,7 @@ async function pullAndMerge() {
 // é isso que faz "retomar de onde parou" funcionar em qualquer aparelho.
 async function start(user) {
   currentUid = user.uid;
+  identidade = identidadeDe(user);
   podeEscrever = false; // só libera depois de ler a nuvem com sucesso
   setStatus("saving", "Sincronizando…");
 
@@ -385,8 +439,10 @@ async function start(user) {
   podeEscrever = true;
 
   // Sobe se: é a primeira vez desta conta (nuvem vazia), se trouxemos dados
-  // do v1, ou se a mesclagem mudou algo — nesse caso a nuvem está defasada.
-  if (resultado.primeiraVez || migrou || resultado.mudou) {
+  // do v1, se a mesclagem mudou algo — nesse caso a nuvem está defasada — ou
+  // se o documento ainda não tem a identidade (contas que já existiam quando
+  // isto entrou; elas ganham o carimbo na primeira vez que abrirem o app).
+  if (resultado.primeiraVez || migrou || resultado.mudou || resultado.identidadeDefasada) {
     await pushNow();
   } else {
     setStatus("ok", "Salvo na sua conta");
@@ -449,6 +505,7 @@ function stop() {
   clearTimeout(pushTimer);
   pushTimer = null;
   currentUid = null;
+  identidade = null;
   podeEscrever = false;
   dirtyKeys.clear();
 }
@@ -473,6 +530,10 @@ window.VD_SYNC = {
   },
   // exposto pra teste: permite verificar a mesclagem sem tocar na rede
   _merge: mergeValue,
+  // exposto pra teste: a normalização da identidade decide se o painel
+  // consegue cruzar a conta com a assinatura (e-mail em minúsculas) e se a
+  // escrita do progresso sobrevive a um carimbo ausente.
+  _identidadeDe: identidadeDe,
   // exposto pra teste: a migração para o namespace de trilha é a operação de
   // maior risco do app (renomeia todas as chaves de progresso de quem já
   // usava). Poder rodá-la isolada, sem login e sem rede, é o que torna

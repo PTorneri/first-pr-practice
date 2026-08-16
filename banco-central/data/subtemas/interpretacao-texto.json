@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "interpretacao-texto",
- "total": 503,
+ "total": 527,
  "residuo": [
   "dir-interpretacao-texto-10",
   "dir-interpretacao-texto-37",
@@ -2900,6 +2900,130 @@
   },
   "enem-interpretacao-texto-21": {
    "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-22": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-23": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-24": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-25": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-interpretacao-texto-26": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-27": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-28": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-29": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-interpretacao-texto-30": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-31": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-32": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-33": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-34": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-35": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-36": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-37": {
+   "subtema": "interpretacao-estrutura-coesao",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-38": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-interpretacao-texto-39": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-40": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-41": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-42": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-43": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-interpretacao-texto-44": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-45": {
+   "subtema": "interpretacao-argumentacao",
    "frenteDestino": "interpretacao-texto",
    "revisado": true
   }

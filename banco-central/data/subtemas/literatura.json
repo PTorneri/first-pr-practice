@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "literatura",
- "total": 408,
+ "total": 417,
  "residuo": [
   "dir-literatura-53",
   "dir-literatura-55",
@@ -2432,6 +2432,54 @@
    "revisado": true
   },
   "enem-literatura-11": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "enem-literatura-12": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "enem-literatura-13": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "enem-literatura-14": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-literatura-15": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "enem-literatura-16": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "enem-literatura-17": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "enem-literatura-18": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 1
+  },
+  "enem-literatura-19": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-literatura-20": {
    "subtema": "literatura-teoria-analise",
    "frenteDestino": "literatura",
    "revisado": true

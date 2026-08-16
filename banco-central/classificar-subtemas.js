@@ -1506,6 +1506,57 @@ const REVISADAS = {
   "enem-geografia-16": "geografia-populacao-urbana",
   "enem-historia-19": "historia-geral-contemporanea",
   "enem-filosofia-sociologia-20": "sociologia-cultura-identidade",
+
+  // ENEM 2024, primeiro dia -- Linguagens. 29 pinos em 39 questoes (74%), a
+  // taxa que Interpretacao e Literatura ja cobravam antes. Aqui nao ha o que
+  // consertar: o subtema de uma questao de leitura e a HABILIDADE cobrada
+  // (ideia central, coesao, inferencia), e habilidade nao deixa palavra no
+  // texto. Duas questoes sobre o mesmo texto podem ir para subtemas diferentes
+  // conforme o que o enunciado pede, e nenhuma regra de vocabulario alcanca
+  // isso. Sao 12 residuos (`padrao`) entre os 29.
+  //
+  // Ingles: as duas caem no subtema padrao da frente porque o enunciado e em
+  // portugues e o texto em ingles -- as regras nao pontuam nem um nem outro.
+  "enem-ingles-06": "ingles-inference",
+  "enem-ingles-07": "ingles-main-idea",
+  // Arte afro-brasileira: "cultura negra nacional" e "candomble" levam para
+  // patrimonio e cultura popular; os artistas sao do seculo XX e o recorte da
+  // questao e a producao contemporanea.
+  "enem-artes-cultura-10": "artes-contemporanea",
+  //
+  // Literatura tem um vies proprio: enunciado de analise ("o narrador ironiza",
+  // "transmite uma sensibilidade lirica") pontua teoria-analise, que engole o
+  // periodo literario da obra. Cinco das nove foram parar la.
+  "enem-literatura-12": "literatura-realismo-naturalismo",
+  "enem-literatura-16": "literatura-realismo-naturalismo",
+  "enem-literatura-13": "literatura-contemporanea",
+  "enem-literatura-15": "literatura-contemporanea",
+  "enem-literatura-17": "literatura-contemporanea",
+  // E o inverso: a feijoada de Vinicius foi para modernismo pelo autor, mas a
+  // questao pergunta o que faz daquilo um poema -- teoria literaria pura.
+  "enem-literatura-20": "literatura-teoria-analise",
+  //
+  // Interpretacao: 24 questoes, 21 pinos. Listadas na ordem do caderno.
+  "enem-interpretacao-texto-22": "interpretacao-ideia-central",
+  "enem-interpretacao-texto-23": "interpretacao-genero-discurso",
+  "enem-interpretacao-texto-24": "interpretacao-ideia-central",
+  "enem-interpretacao-texto-26": "interpretacao-recursos-linguagem",
+  "enem-interpretacao-texto-27": "interpretacao-ideia-central",
+  "enem-interpretacao-texto-28": "interpretacao-genero-discurso",
+  "enem-interpretacao-texto-30": "interpretacao-ideia-central",
+  "enem-interpretacao-texto-31": "interpretacao-argumentacao",
+  "enem-interpretacao-texto-32": "interpretacao-ideia-central",
+  "enem-interpretacao-texto-33": "interpretacao-estrutura-coesao",
+  "enem-interpretacao-texto-34": "interpretacao-estrutura-coesao",
+  "enem-interpretacao-texto-35": "interpretacao-ideia-central",
+  "enem-interpretacao-texto-36": "interpretacao-recursos-linguagem",
+  "enem-interpretacao-texto-37": "interpretacao-estrutura-coesao",
+  "enem-interpretacao-texto-39": "interpretacao-ideia-central",
+  "enem-interpretacao-texto-40": "interpretacao-recursos-linguagem",
+  "enem-interpretacao-texto-41": "interpretacao-inferencia",
+  "enem-interpretacao-texto-42": "interpretacao-inferencia",
+  "enem-interpretacao-texto-44": "interpretacao-inferencia",
+  "enem-interpretacao-texto-45": "interpretacao-argumentacao",
 };
 
 // ------------------------------------------------------------------- classificação

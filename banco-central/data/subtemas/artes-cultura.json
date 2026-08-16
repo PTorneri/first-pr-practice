@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "artes-cultura",
- "total": 397,
+ "total": 401,
  "residuo": [
   "dir-artes-cultura-31",
   "dir-artes-cultura-32",
@@ -2381,6 +2381,29 @@
    "frenteDestino": "artes-cultura",
    "pontos": 5,
    "margem": 5
+  },
+  "enem-artes-cultura-09": {
+   "subtema": "artes-musica-cena",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "enem-artes-cultura-10": {
+   "subtema": "artes-contemporanea",
+   "frenteDestino": "artes-cultura",
+   "revisado": true
+  },
+  "enem-artes-cultura-11": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 12,
+   "margem": 12
+  },
+  "enem-artes-cultura-12": {
+   "subtema": "artes-audiovisual-midia",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
   }
  }
 }

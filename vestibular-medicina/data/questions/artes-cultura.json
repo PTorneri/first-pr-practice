@@ -4565,6 +4565,82 @@
       },
       "resposta": "b",
       "explicacao": "O Círio não é um objeto nem uma edificação: é uma prática que se repete todo ano, feita de procissão, promessa, ladainha e comida. Bens desse tipo — saberes, celebrações, formas de expressão e lugares — não são tombados, e sim registrados como patrimônio cultural imaterial, instrumento criado pelo Decreto 3.551/2000; o Círio recebeu esse registro do Iphan em 2004. A alternativa (c) trata de tombamento de sítio arqueológico, categoria material e alheia ao caso, e a (e) sugere um reconhecimento por caráter religioso oficial, incompatível com a laicidade do Estado."
+    },
+    {
+      "id": "enem-artes-cultura-09",
+      "banca": "enem",
+      "sessao": "enem-2024-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "É fundamentalmente no Minho, norte de Portugal, que o cavaquinho aparece como instrumento tipicamente popular, ligado às formas essenciais da música característica dessa província. O cavaquinho minhoto tem escala rasa com o tampo, o que facilita a prática do “rasqueado”. O cavaquinho chega ao Brasil diretamente de Portugal, e o modelo brasileiro é maior do que a sua versão portuguesa, com uma caixa de ressonância mais funda. Semelhante ao cavaquinho minhoto, o machete, ou machetinho madeirense, é um pequeno cordófono de corda dedilhada, que faz parte da grande e diversificada família das violas de mão portuguesas. O ukulele tem a sua origem no século XIX, tendo como ancestrais o braguinha (ou machete) e o rajão, instrumentos levados pelos madeirenses quando eles emigraram para o Havaí.",
+      "enunciado": "O conjunto dessas práticas musicais demonstra que os instrumentos mencionados no texto",
+      "alternativas": {
+        "a": "refletem a dependência da utilização de matéria-prima europeia.",
+        "b": "adaptam suas características a cada cultura, assumindo nova identidade.",
+        "c": "comprovam a hegemonia portuguesa na invenção de cordófonos dedilhados.",
+        "d": "ilustram processos de dominação cultural, evidenciando situações de choque cultural.",
+        "e": "mantêm nomenclatura própria para garantir a fidelidade às formas originais de confecção."
+      },
+      "resposta": "b",
+      "explicacao": "O texto acompanha a mesma família de instrumentos mudando de lugar e mudando com o lugar. No Brasil o cavaquinho ficou maior e ganhou caixa mais funda, ajustando-se ao samba e ao choro. No Havaí o braguinha virou ukulele e passou a ser instrumento da música local. Em cada destino há troca de nome, de forma e de repertório: o instrumento assume nova identidade. A alternativa (d) fala em dominação e choque, quando o texto descreve apropriação criativa, e a (e) afirma o oposto do que ocorre — os nomes justamente mudam."
+    },
+    {
+      "id": "enem-artes-cultura-10",
+      "banca": "enem",
+      "sessao": "enem-2024-dia-1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "enem",
+      "texto_apoio": "Uma definição possível para o conceito de arte afro-brasileira pode ser: produção plástica que é feita por negros, mestiços ou brancos a partir de suas experiências sociais com a cultura negra nacional. Exemplos clássicos dessa abordagem são Carybé (1911-1997), Mestre Didi (1917-2013) e Djanira da Motta e Silva (1914-1979), cujas obras emergem e ganham forma em razão do ambiente social no qual habitaram e viveram. Se Didi era um célebre representante da cultura religiosa nagô baiana e brasileira, iniciado desde o ventre no candomblé, Carybé era argentino e, naturalizado brasileiro, envolveu-se de tal modo com essa religião que alguns dos orixás dos quais conhecemos a imagem visual são produções suas.",
+      "enunciado": "Sob a perspectiva da multiculturalidade e de acordo com o texto, a produção artística afro-brasileira caracteriza-se pelo(a)",
+      "alternativas": {
+        "a": "estranhamento no modo de apropriação da cultura religiosa de matriz africana.",
+        "b": "distanciamento entre as raízes de matriz africana e a estética de outras culturas.",
+        "c": "visão uniformizadora das religiões de matriz africana expressada nas diferentes produções.",
+        "d": "relação complexa entre as vivências pessoais dos artistas e os referenciais estéticos de matriz africana.",
+        "e": "padronização da forma de produção e da temática da matriz africana presente nas obras dos artistas citados."
+      },
+      "resposta": "d",
+      "explicacao": "A definição do texto não usa critério racial nem de nascimento: fala em produção feita por negros, mestiços ou brancos a partir de suas experiências sociais com a cultura negra. Os exemplos comprovam a variedade de caminhos — Didi iniciado no candomblé desde o ventre, Carybé argentino naturalizado que acabou criando as imagens visuais de orixás que hoje conhecemos. Cada trajetória pessoal encontra a matriz africana de um jeito, o que é exatamente a relação complexa da alternativa (d). As (c) e (e) supõem uniformidade, e o texto mostra o contrário."
+    },
+    {
+      "id": "enem-artes-cultura-11",
+      "banca": "enem",
+      "sessao": "enem-2024-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "TEXTO I — A linguagem visual dos adornos transmite informações sobre prestígio e transgressão, direito e dever, pois só é permitido ao indivíduo o uso de adornos de sua linhagem. Quando diretamente vinculadas aos conceitos cosmológicos, as artes indígenas convertem-se antes em prismas que refletem as concepções acerca da composição do universo e dos componentes que o povoam.\nTEXTO II — Diadema da etnia Kayapó, peça de arte plumária dos estados do Mato Grosso e do Pará, do acervo do Museu de Arte Indígena.",
+      "enunciado": "Pela leitura desses textos, infere-se que a compreensão da arte plumária indígena requer a consideração da",
+      "alternativas": {
+        "a": "indistinção hierárquica entre os membros de um mesmo grupo social.",
+        "b": "prevalência dos elementos do mundo natural sobre as relações humanas.",
+        "c": "reconfiguração constante das representações coletivas acerca do universo.",
+        "d": "indeterminação entre as noções de identidade individual e de identidade cultural.",
+        "e": "indissociabilidade entre objetos ritualísticos e os papéis dos indivíduos na comunidade."
+      },
+      "resposta": "e",
+      "explicacao": "A frase decisiva do Texto I é que só é permitido ao indivíduo usar adornos de sua linhagem. O objeto não é enfeite: ele informa prestígio, direito e dever, ou seja, diz quem a pessoa é dentro do grupo. Adorno e posição social estão colados — daí a indissociabilidade da alternativa (e). A (a) afirma exatamente o contrário, já que o texto fala em prestígio e, portanto, em hierarquia; e a (b) inverte a relação, pois os elementos naturais servem para expressar relações humanas e cosmológicas, não para se sobrepor a elas."
+    },
+    {
+      "id": "enem-artes-cultura-12",
+      "banca": "enem",
+      "sessao": "enem-2024-dia-1",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "A fotografia de Regina Valkenborgh apresenta 2 953 arcos de luz cruzando o céu e registra o nascer e o pôr do sol ao longo de oito anos. Em 2012, essa estudante da Universidade de Hertfordshire colocou uma folha de papel fotográfico em uma lata com um pequeno orifício, criando assim uma câmera pinhole de baixa tecnologia. Porém, a lata foi esquecida em um telescópio no observatório da universidade. Esse projeto esquecido acabou revelando a foto do pôr do sol de maior exposição já tirada.",
+      "enunciado": "O experimento realizado por Regina Valkenborgh resultou no entendimento de que a",
+      "alternativas": {
+        "a": "técnica fotográfica alternativa limita o registro de imagens.",
+        "b": "apreciação da natureza depende de registro fotográfico.",
+        "c": "criatividade artística decorre do conhecimento científico.",
+        "d": "câmera de criação caseira tem valor tecnológico.",
+        "e": "produção artística pode ser resultado do acaso."
+      },
+      "resposta": "e",
+      "explicacao": "A palavra que organiza o texto é “porém”: a lata foi esquecida. A imagem de oito anos de trajetórias solares não foi planejada por ninguém — nasceu de um projeto abandonado que continuou exposto à luz. O resultado artístico veio do acaso, não da intenção. A alternativa (a) contradiz o texto, já que a técnica improvisada produziu a maior exposição de que se tem notícia; e a (c) inverte a ordem dos fatos, pois aqui não houve conhecimento científico conduzindo a criação, e sim esquecimento."
     }
   ]
 }

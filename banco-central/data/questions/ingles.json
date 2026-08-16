@@ -8766,6 +8766,44 @@
    },
    "resposta": "b",
    "explicacao": "O humor está na contradição entre o que se diz e o que se vê. A fala se gaba de que ninguém é tratado de forma diferente por idade, raça ou gênero — mas o escritório inteiro é composto de homens brancos idênticos. Não há tratamento desigual porque não há ninguém diferente para ser tratado: a igualdade é consequência da exclusão prévia. É a falta de diversidade que o cartum denuncia. O terno igual em todos é o SINAL dessa uniformidade, não o alvo da crítica, o que afasta a leitura sobre vestimenta. E as três restantes leem a cena ao pé da letra, como se a frase do personagem fosse verdadeira — que é exatamente a armadilha da ironia."
+  },
+  {
+   "id": "enem-ingles-06",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Holy War\nOh, so we can hate each other and fear each other\nWe can build these walls between each other\nBaby, blow by blow and brick by brick\nKeep yourself locked in, yourself locked in\n[…]\nOh, maybe we should love somebody\nOh, maybe we could care a little more\nSo maybe we should love somebody\nInstead of polishing the bombs of holy war\nKEYS, A. Here. Estados Unidos: RCA Records, 2016.",
+   "enunciado": "Nessa letra de canção, que aborda um contexto de ódio e intolerância, o marcador “instead of” introduz a ideia de",
+   "alternativas": {
+    "a": "mudança de comportamento.",
+    "b": "panorama de conflitos.",
+    "c": "rotina de isolamento.",
+    "d": "perspectiva bélica.",
+    "e": "cenário religioso."
+   },
+   "resposta": "a",
+   "explicacao": "“Instead of” marca substituição: troca-se uma coisa pela outra. A canção coloca de um lado o que se faz hoje — polir as bombas da guerra santa, odiar, temer, erguer muros — e do outro o que se deveria fazer: amar alguém, importar-se um pouco mais. O marcador é o pivô entre os dois, e o que ele propõe é justamente abandonar uma conduta e adotar outra: mudança de comportamento. As alternativas (b), (d) e (e) descrevem o cenário que a canção quer superar, não a ideia que o conector introduz."
+  },
+  {
+   "id": "enem-ingles-07",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "I remember being caught speaking Spanish at recess [...] I remember being sent to the corner of the classroom for “talking back” to the Anglo teacher when all I was trying to do was tell her how to pronounce my name. “If you want to be American, speak ‘American’. If you don’t like it, go back to Mexico where you belong”.\n“I want you to speak English […]”, my mother would say, mortified that I spoke English like a Mexican. At Pan American University, I and all Chicano students were required to take two speech classes. Their purpose: to get rid of our accents.\nANZALDÚA, G. Borderlands/La Frontera: The New Mestiza. San Francisco: Aunt Lute Books, 1987.",
+   "enunciado": "O problema abordado nesse texto sobre imigrantes residentes nos Estados Unidos diz respeito aos prejuízos gerados pelo(a)",
+   "alternativas": {
+    "a": "repúdio ao sotaque espanhol no uso do inglês.",
+    "b": "resignação diante do apagamento da língua materna.",
+    "c": "escassez de oportunidades de aprendizado do espanhol.",
+    "d": "choque entre falantes de línguas distintas de diferentes gerações.",
+    "e": "concorrência entre as variações linguísticas do inglês e as do espanhol."
+   },
+   "resposta": "a",
+   "explicacao": "As três cenas convergem no mesmo alvo, e não é o espanhol: é o modo como a autora fala inglês. A professora a pune quando ela tenta ensinar a pronúncia do próprio nome; a mãe se envergonha porque a filha fala inglês “como mexicana”; e a universidade obriga os estudantes chicanos a aulas cujo propósito declarado é eliminar o sotaque. O que se rejeita é a marca do espanhol dentro do inglês. A alternativa (b) erra ao falar em resignação, já que Anzaldúa denuncia em vez de aceitar, e a (c) inverte o problema: não falta ensino de espanhol, sobra repressão a ele."
   }
  ],
  "textos": [

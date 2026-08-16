@@ -40258,6 +40258,82 @@ window.QUESTION_BANKS = {
    "explicacao": "\"Embora\" reconhece um fato favorável à conclusão contrária e segue adiante mesmo assim. Se fosse causa, o exame normal explicaria a investigação — e ele faz o oposto, é o argumento contra ela.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "dir-interpretacao-texto-224",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-int-fgv23-t1",
+   "enunciado": "O autor desenvolve o assunto do texto sob uma perspectiva, ao mesmo tempo, psicológica e",
+   "alternativas": {
+    "a": "filosófica.",
+    "b": "religiosa.",
+    "c": "econômica.",
+    "d": "doutrinária.",
+    "e": "política."
+   },
+   "resposta": "a",
+   "explicacao": "O texto trata de ética, de como se diferencia o certo do errado e de um experimento mental clássico, o dilema do bonde — tudo isso é filosofia moral. O lado psicológico está explícito no nome do campo citado, \"psicologia moral\", e na menção ao monitoramento do cérebro dos voluntários. As demais alternativas não se sustentam: o autor não invoca fé, não trata de custos ou mercados, não defende doutrina alguma, e os exemplos políticos, como vacinas e drogas, aparecem só como ILUSTRAÇÃO de dilemas morais, não como o assunto.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "dir-interpretacao-texto-225",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-int-fgv23-t1",
+   "enunciado": "O trecho em que o autor se antecipa, pressupondo um questionamento do leitor, é:",
+   "alternativas": {
+    "a": "\"Você está longe demais para ajudá-las, mas pode mexer numa alavanca que muda o trem de trilho, salvando suas vidas.\"",
+    "b": "\"A vida foi se tornando cada vez mais complicada conforme cresceu a complexidade da sociedade.\"",
+    "c": "\"O problema é que no outro trilho há uma pessoa, e ela acabará morta no lugar das cinco. Você puxaria a alavanca?\"",
+    "d": "\"Qualquer discussão, de proibição das drogas a obrigatoriedade de vacinas, está condenada a ser reduzida, no fim, a algo como 'mas essa é minha opinião'.\"",
+    "e": "\"Sim, não é um exercício de argumentação sério e profundo como um debate na ONU...\""
+   },
+   "resposta": "e",
+   "explicacao": "O \"Sim\" inicial é a marca decisiva: ele responde a uma objeção que ninguém formulou no texto, mas que o leitor formularia — a de que um jogo de tabuleiro é coisa leviana diante de um tema sério. O autor concede o ponto antes que ele seja feito, para então virá-lo a seu favor. É a figura da antecipação, ou prolepse. As alternativas a e c fazem perguntas AO leitor, o que é diferente de antecipar a objeção DELE, e as demais são afirmações expositivas.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "dir-interpretacao-texto-226",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "excecao",
+   "textoId": "dir-int-fgv23-t1",
+   "enunciado": "Dos comentários sobre aspectos linguísticos dos trechos citados, o único que NÃO está correto é:",
+   "alternativas": {
+    "a": "\"... tudo para concluir que, bem, é complicado mesmo.\" (7º parágrafo): o vocábulo sublinhado introduz uma pausa, para que o autor termine a frase de modo inesperado.",
+    "b": "\"Imagine que um trem descontrolado irá matar cinco pessoas.\" (6º parágrafo): considerando que o autor se dirige ao leitor por \"você\", o correto seria \"Imagina\".",
+    "c": "\"... e não terminar reduzida, no fim, a um bate-boca ...\" (3º parágrafo): a expressão sublinhada destoa da variedade linguística predominante no texto.",
+    "d": "\"A teia de relações entre as pessoas e seus atos ganhou tantas imbricações que mal nos damos conta do que isso significa.\" (1º parágrafo): a palavra sublinhada foi empregada, no texto, em sentido conotativo.",
+    "e": "\"A partir dos anos 2000 um campo de estudos sobre isso – psicologia moral – apresentou grande desenvolvimento, ...\" (5º parágrafo): por estar anteposto ao sujeito, o trecho sublinhado deveria ser separado por vírgula."
+   },
+   "resposta": "b",
+   "explicacao": "O comentário de b inverte a norma. \"Imagine\" é justamente a forma do imperativo afirmativo que corresponde ao tratamento VOCÊ, derivada do presente do subjuntivo; \"imagina\" é a forma associada a TU. Quem se dirige ao leitor por \"você\" deve escrever \"imagine\", que é o que o texto faz — o comentário aponta erro onde não há. Os outros quatro procedem: o \"bem\" cria a pausa antes da queda irônica, \"bate-boca\" é coloquial num texto de registro mais formal, \"teia\" é metáfora, e o adjunto adverbial longo anteposto pede vírgula.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "dir-interpretacao-texto-227",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "textoId": "dir-int-fgv23-t1",
+   "enunciado": "Examine as relações sintáticas estabelecidas nos seguintes trechos do texto:\nI. \"A teia de relações entre as pessoas e seus atos ganhou tantas imbricações que mal nos damos conta do que isso significa.\"\nII. \"...; mas há tantas implicações em cada decisão, tantas ramificações das consequências dos nossos atos, que quase sempre é impossível encontrar uma 'resposta certa'.\"\nIII. \"A partir dos anos 2000 um campo de estudos sobre isso – psicologia moral – apresentou grande desenvolvimento, lançando luz sobre como e por que diferenciamos o certo do errado, o bom do mau, o ético do antiético.\"\nIV. \"A ideia ganhou o mundo pop de tal forma que depois de aparecer em seriado de TV e vídeos no YouTube, no ano passado virou um jogo de tabuleiro.\"\nO caráter argumentativo do texto explica o emprego de orações que expressam ideia de consequência, como se pode verificar em:",
+   "alternativas": {
+    "a": "I, II, III e IV.",
+    "b": "III e IV, apenas.",
+    "c": "I e II, apenas.",
+    "d": "I, II e IV, apenas.",
+    "e": "II, III e IV, apenas."
+   },
+   "resposta": "d",
+   "explicacao": "A consecutiva se reconhece pelo par intensificador mais \"que\": em I, \"tantas... QUE\"; em II, \"tantas... QUE\"; em IV, \"de tal forma QUE\". Nos três casos a segunda oração enuncia o efeito produzido pela intensidade anunciada na primeira. Em III não há nada disso: \"lançando luz sobre...\" é oração reduzida de gerúndio, com valor explicativo do que o campo de estudos fez, sem qualquer intensificador correlato. Encontrar o par correlativo é o único movimento que a questão exige.",
+   "origem": "direito"
   }
  ],
  "interpretacao-inferencia": [
@@ -43871,6 +43947,29 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "banca": "santacasa",
    "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "dir-interpretacao-texto-223",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Tirinha",
+    "arquivo": "assets/provas/fgv-2023.1-lp-q16.jpg",
+    "descricao": "Tirinha em quadro único. Uma criança de máscara caminha ao lado de um adulto de máscara e óculos escuros, ambos de perfil. A criança diz: \"A pandemia traz tantos questionamentos...\". O adulto responde: \"Tipo como usar máscara sem embaçar os óculos!?\". (Daiquiri, Folha de S.Paulo, 29/07/2020.)"
+   },
+   "enunciado": "Examine a tirinha de Caco Galhardo.\nConsiderando-se o efeito de humor pretendido na tirinha, a segunda fala constitui, em relação à primeira, uma quebra de expectativa, que se caracteriza",
+   "alternativas": {
+    "a": "pela redundância.",
+    "b": "pela ambiguidade.",
+    "c": "pela metalinguagem.",
+    "d": "pelo contraste.",
+    "e": "pelo paradoxo."
+   },
+   "resposta": "d",
+   "explicacao": "A primeira fala abre um campo grave e abstrato — \"questionamentos\" trazidos pela pandemia sugere dilemas existenciais, sanitários, éticos. A segunda desce abruptamente ao mais trivial dos incômodos, o óculos embaçado pela máscara. O humor nasce dessa distância entre o solene esperado e o banal entregue, e é isso que se chama CONTRASTE. Não há paradoxo, porque nada ali se contradiz logicamente; nem ambiguidade, porque nenhuma das falas admite dois sentidos; nem metalinguagem, porque a tirinha não fala de si mesma.",
+   "origem": "direito"
   }
  ],
  "interpretacao-estrutura-coesao": [
@@ -48684,6 +48783,120 @@ window.QUESTION_BANKS = {
    "explicacao": "No 5º parágrafo, o narrador interrompe o relato para dialogar diretamente com o leitor, envolvendo-o na reflexão sobre o episódio — recurso característico da metalinguagem machadiana, que constrói cumplicidade entre narrador e leitor ao longo da obra.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "dir-literatura-152",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "textoId": "dir-lit-fgv23-t1",
+   "enunciado": "Considere as afirmações abaixo, para responder ao que se pede.\nObservada no ambiente social do romance, formado principalmente pelos familiares, dependentes, agregados, vizinhos e comensais, que gravitam em torno da viúva e proprietária, D. Glória, mãe de Bentinho, na casa de Matacavalos, a mocinha Capitu\nI. distingue-se da maioria dos dependentes, em particular do agregado-tipo, José Dias, por sua relativa independência de espírito;\nII. contrapõe-se tacitamente à subalternidade a que são reduzidas, usualmente, as mulheres, em um meio regido pela mentalidade patriarcal;\nIII. discrepa do comodismo dos demais dependentes, uma vez que trata de se preparar ativamente para ingressar no mercado de trabalho e no mundo das profissões liberais.\nEstá correto o que se afirma em:",
+   "alternativas": {
+    "a": "I, somente.",
+    "b": "II, somente.",
+    "c": "I e II, somente.",
+    "d": "II e III, somente.",
+    "e": "I, II e III."
+   },
+   "resposta": "c",
+   "explicacao": "I e II se sustentam no excerto: Capitu não se abate com a ameaça do seminário, interroga, confere e decide por conta própria, o oposto da bajulação servil de José Dias; e ao querer aprender latim justamente porque lhe disseram que \"não era língua de meninas\", ela se opõe na prática ao lugar reservado às mulheres. III é a distratora, e falha por anacronismo: nada no texto indica preparo para o mercado de trabalho ou profissões liberais — Capitu aprende renda, inglês e gamão, saberes de salão do século XIX, movida por curiosidade, não por projeto profissional.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "dir-literatura-153",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-lit-fgv23-t1",
+   "enunciado": "Tendo em vista que o narrador do romance está interessado em provar determinadas teses, notadamente a da infidelidade conjugal de Capitu, as \"curiosidades\" da personagem, relatadas no excerto, podem ser lidas, em um primeiro momento, sobretudo como demonstrações de vivacidade de espírito, mas, em um segundo momento, podem ser relidas como indicações de que a mocinha possuiria, desde sempre, um caráter",
+   "alternativas": {
+    "a": "masculinizado.",
+    "b": "ambicioso.",
+    "c": "sádico.",
+    "d": "maníaco.",
+    "e": "desordeiro."
+   },
+   "resposta": "b",
+   "explicacao": "É a chave de leitura de Dom Casmurro: o narrador seleciona e colore os fatos para construir a tese da traição. Lidas na segunda camada, a curiosidade insaciável, o querer saber tudo e o desejo de aprender o que lhe foi negado deixam de ser vivacidade e passam a sugerir alguém que quer sempre mais do que lhe cabe — ambição. As demais alternativas exigiriam crueldade, obsessão patológica ou desordem, e nada no excerto oferece material para Bentinho insinuar isso.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "dir-literatura-154",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-lit-fgv23-t1",
+   "enunciado": "Os atributos de Capitu, indicados no excerto, serão considerados positivos ou negativos, conforme sejam julgados, respectivamente, do ponto de vista",
+   "alternativas": {
+    "a": "do esclarecimento e do conservantismo.",
+    "b": "do opressor e do oprimido.",
+    "c": "do escravismo e do liberalismo.",
+    "d": "do favor e da autonomia da pessoa.",
+    "e": "do patriarcalismo e do feminismo."
+   },
+   "resposta": "a",
+   "explicacao": "Os mesmos traços mudam de sinal conforme a régua. Para uma mentalidade esclarecida, querer saber tudo, aprender latim e não se conformar com o que se nega às meninas são virtudes. Para uma mentalidade conservadora, oitocentista e patriarcal, são exatamente os defeitos que fazem de uma moça inconveniente. A alternativa e é a distratora mais forte, mas inverte a ordem pedida: seria o patriarcalismo a julgar NEGATIVAMENTE e o feminismo a julgar positivamente, e o enunciado pede positivo primeiro.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "dir-literatura-155",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-lit-fgv23-t1",
+   "enunciado": "Considerada no contexto da narração do romance, a frase \"Há conceitos que se devem incutir na alma do leitor, à força de repetição\",",
+   "alternativas": {
+    "a": "poderia servir de advertência ao leitor, quanto às estratégias de persuasão mobilizadas pelo narrador.",
+    "b": "prova, de modo cabal, que a isenção do narrador é a mais completa, e o seu comportamento, o mais impessoal.",
+    "c": "ilustra o mandamento do Realismo, do século XIX, segundo o qual o narrador deve provocar e desfeitear continuamente o leitor.",
+    "d": "reproduz um recurso das técnicas catequéticas que o narrador aprendeu a usar em sua primeira formação religiosa, haurida no Seminário de São José.",
+    "e": "representa uma remanescência da ideia romântica de \"alma\", muito acatada pelo autor, em sua segunda fase literária, na qual ele retoma os ideais de sua primeira juventude."
+   },
+   "resposta": "a",
+   "explicacao": "Bentinho confessa o método no ato de aplicá-lo: acaba de repetir que Capitu era \"mais mulher do que eu era homem\" e emenda que certos conceitos se incutem à força de repetição. Quem lê com atenção percebe que está sendo trabalhado, e a frase vira advertência. A alternativa b inverte o sentido — a frase denuncia parcialidade, não isenção. A d é sedutora porque Bentinho de fato foi ao seminário, mas isso ocorre DEPOIS deste capítulo, em que a ida ainda é apenas ameaça.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "dir-literatura-156",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "textoId": "dir-lit-fgv23-t1",
+   "enunciado": "Considere as afirmações sobre os seguintes trechos destacados do texto:\nI. \"Também se pode dizer que conferia, rotulava e pregava na memória a minha exposição\": a sequência das ações expressas pelos verbos sublinhados caracteriza a gradação ascendente.\nII. \"As curiosidades de Capitu dão para um capítulo\": a proximidade sonora entre as palavras sublinhadas resulta num jogo de palavras, o qual pode ser considerado um trocadilho.\nIII. \"Eram de vária espécie, explicáveis e inexplicáveis, assim úteis como inúteis, umas graves, outras frívolas\": os adjetivos sublinhados constituem a terceira antítese da frase.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "a": "III, apenas.",
+    "b": "I e III, apenas.",
+    "c": "I, II e III.",
+    "d": "II, apenas.",
+    "e": "I e II, apenas."
+   },
+   "resposta": "c",
+   "explicacao": "As três procedem. Em I, conferir, rotular e pregar na memória formam uma escala de fixação crescente, do exame passageiro ao registro definitivo — gradação ascendente. Em II, \"Capitu\" e \"capítulo\" compartilham as sílabas iniciais, e o efeito é de trocadilho. Em III, a frase alinha três pares opostos, explicáveis/inexplicáveis, úteis/inúteis e graves/frívolas: o par de adjetivos sublinhado é, de fato, a terceira antítese da série.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "dir-literatura-157",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-lit-fgv23-t1",
+   "enunciado": "A palavra sublinhada na frase \"Esta imagem é porventura melhor que a outra\" pode ser substituída, sem alteração de sentido, por:",
+   "alternativas": {
+    "a": "talvez.",
+    "b": "sem dúvida.",
+    "c": "literalmente.",
+    "d": "consequentemente.",
+    "e": "por isso mesmo."
+   },
+   "resposta": "a",
+   "explicacao": "\"Porventura\" é advérbio de dúvida e equivale a \"talvez\", \"acaso\" — sentido confirmado pela continuação da frase, em que o narrador logo relativiza tudo ao dizer que \"a ótima delas é nenhuma\". A alternativa b vai na direção contrária, trocando dúvida por certeza; c afirma literalidade num trecho que compara imagens, isto é, figuras; e d e e introduzem consequência, relação que a frase não estabelece.",
+   "origem": "direito"
   }
  ],
  "literatura-colonial-romantismo": [
@@ -52626,6 +52839,82 @@ window.QUESTION_BANKS = {
    "explicacao": "Ao mencionar \"as leis dos contos como este\", o narrador comenta as próprias convenções do gênero em que a fábula se insere, expondo dentro da narrativa as regras que a regem — procedimento típico da metalinguagem.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "dir-literatura-158",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-lit-fgv23-t2",
+   "enunciado": "No contexto regional, social e cultural representado no poema, o \"romance de barbante\", nele mencionado, refere-se a",
+   "alternativas": {
+    "a": "livros baratos, produzidos pela indústria cultural, para venda em feiras e rodoviárias.",
+    "b": "folhetos da assim chamada literatura de cordel nordestina.",
+    "c": "reproduções, em verso, de obras de romancistas literários canônicos.",
+    "d": "fotonovelas legendadas, produzidas nos estados do Sudeste do Brasil.",
+    "e": "narrativas picantes, de gosto duvidoso e moralidade ambígua."
+   },
+   "resposta": "b",
+   "explicacao": "O nome vem do próprio modo de venda: os folhetos ficavam pendurados num barbante, ou cordel, nas feiras do Nordeste — daí \"literatura de cordel\". O poema confirma o cenário em cada detalhe: o engenho, a feira de domingo, os feirantes, o folheto, os cegos de feira. A alternativa a descreve produção industrial urbana, que não é o caso de uma tradição popular e artesanal, e a c inverte a relação, já que o cordel tem enredos próprios e não reproduz romancistas canônicos.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "dir-literatura-159",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-lit-fgv23-t2",
+   "enunciado": "Para o menino que lê em voz alta para os circunstantes, parte decisiva da \"Descoberta da literatura\", a que se refere o título do poema, é a revelação da",
+   "alternativas": {
+    "a": "necessidade de repudiar os padrões da arte popular, para ingressar na verdadeira literatura, infensa a eles.",
+    "b": "intensa e encantada recepção que pode ter uma obra de arte verbal.",
+    "c": "reverência despertada, nas almas simples, pelas obras-primas da literatura erudita.",
+    "d": "comoção que provoca a leitura de narrativas góticas, de caráter fantástico e teor sobrenatural.",
+    "e": "insensibilidade e pobreza de espírito inerentes à carência de alfabetização."
+   },
+   "resposta": "b",
+   "explicacao": "O que o menino descobre não é o valor do folheto — o poema diz que as histórias pouco variavam e soavam já sabidas —, mas o EFEITO delas sobre quem ouve: a tensão \"tão densa\", que \"subia tão alarmante\", e a plateia que ele, sem querer, \"imantara\". A literatura se revela pela força da recepção. A alternativa c erra ao falar em literatura erudita, quando se trata de cordel, e a e contradiz o poema, que mostra sensibilidade intensa justamente entre ouvintes analfabetos.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "dir-literatura-160",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-lit-fgv23-t2",
+   "enunciado": "Ao ler em voz alta para os circunstantes, tal como figurado no poema, o menino leitor dá-se conta de que está, também,",
+   "alternativas": {
+    "a": "fazendo a obra meritória de levar a cultura ao povo simples, esclarecendo-o com as luzes do conhecimento.",
+    "b": "sendo usado, de maneira abusiva e, até, mal-intencionada, por aqueles que o mobilizaram para essa leitura.",
+    "c": "expondo-se ao risco de ser tomado por um esnobe, vulgar e pretensioso.",
+    "d": "transgredindo os limites que separam as classes sociais, o que poderia vir a ser motivo de reprovação.",
+    "e": "rebaixando a alta literatura, ao reproduzi-la de maneira inepta e infantil, para um público inculto."
+   },
+   "resposta": "d",
+   "explicacao": "Os parênteses finais dizem tudo: o menino teme que contem \"tudo à Casa-Grande\", porque um \"filho-engenho\" se estava dando ao \"desplante\" de ler para os cassacos do eito, na fala dos cegos de feira. A palavra desplante é a chave — o que ele faz é atrevimento, quebra da fronteira entre a casa-grande e o eito, e por isso passível de reprovação. A alternativa a é a leitura ingênua e generosa que o próprio poema desmente ao registrar o medo do menino, não o seu orgulho.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "dir-literatura-161",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-lit-fgv23-t2",
+   "enunciado": "Um exemplo de derivação imprópria (processo de enriquecimento vocabular que consiste em mudar a classe gramatical de uma palavra sem, contudo, alterar sua forma) ocorre no verso:",
+   "alternativas": {
+    "a": "\"se estava dando ao desplante\".",
+    "b": "\"de ler letra analfabeta\".",
+    "c": "\"como puro alto-falante\".",
+    "d": "\"E da feira do domingo\".",
+    "e": "\"e todo o mirabolante\"."
+   },
+   "resposta": "e",
+   "explicacao": "\"Mirabolante\" é adjetivo, e no verso vem precedido do artigo \"o\" e do pronome \"todo\", o que o transforma em SUBSTANTIVO sem mudar-lhe uma letra sequer — a definição exata de derivação imprópria. Em b há personificação, já que a letra é que aparece qualificada de analfabeta, mas \"analfabeta\" continua adjetivo; em c, \"alto-falante\" já é substantivo; e em a e d não há troca de classe alguma.",
+   "origem": "direito"
   }
  ],
  "literatura-contemporanea": [
@@ -63211,6 +63500,11 @@ window.QUESTION_TEXTS = {
   "fonte": "Pecas de campanha ficticias originais escritas para este banco",
   "conteudo": "PEÇAS DE CAMPANHA — VEICULAÇÃO EM TRANSPORTE PÚBLICO\n\nCARTAZ 1\nVocê levou 40 segundos para ler isto.\nLavar as mãos leva 20.\n\nCARTAZ 2\nEle não lembra o seu nome.\nLembra que você sentou.\nVisite quem está internado.\n\nCARTAZ 3\n\"Depois eu marco.\"\nFoi o que 6 em cada 10 disseram no ano passado.\nO exame leva 15 minutos. A fila para marcar, 15 dias.\nMarque hoje.\n\nCARTAZ 4\nNão é frescura.\nÉ o terceiro dia de febre.\nProcure atendimento."
  },
+ "dir-int-fgv23-t1": {
+  "id": "dir-int-fgv23-t1",
+  "fonte": "O bonde da moral. Daniel Martins de Barros, O Estado de S.Paulo, 15 de janeiro de 2022. Adaptado. (FGV Unificado 2023.1, texto das questões 17 a 20.)",
+  "conteudo": "O bonde da moral\n\n1  A vida foi se tornando cada vez mais complicada conforme cresceu a complexidade da sociedade. A teia de relações entre as pessoas e seus atos ganhou tantas imbricações que mal nos damos conta do que isso significa.\n2  Um dos resultados tem a ver com o que chamamos de ética. Nesses contextos modernos, a nossa intuição moral pré-histórica por vezes depara com grandes dificuldades para diferenciar o certo do errado.\n3  Qualquer discussão, de proibição das drogas a obrigatoriedade de vacinas, está condenada a ser reduzida, no fim, a algo como \"mas essa é minha opinião\" (quando for civilizada e não terminar reduzida, no fim, a um bate-boca acabando com o jantar em família antes da sobremesa).\n4  Não que seja inútil argumentar, bem ao contrário: só quando os argumentos são bons e a conversa respeitosa a gente consegue retirar do debate ideias preconcebidas e as falácias; mas há tantas implicações em cada decisão, tantas ramificações das consequências dos nossos atos, que quase sempre é impossível encontrar uma \"resposta certa\".\n5  A partir dos anos 2000 um campo de estudos sobre isso – psicologia moral – apresentou grande desenvolvimento, lançando luz sobre como e por que diferenciamos o certo do errado, o bom do mau, o ético do antiético. Um de seus experimentos mentais ficou famoso: o dilema do bonde.\n6  Imagine que um trem descontrolado irá matar cinco pessoas. Você está longe demais para ajudá-las, mas pode mexer numa alavanca que muda o trem de trilho, salvando suas vidas. O problema é que no outro trilho há uma pessoa, e ela acabará morta no lugar das cinco. Você puxaria a alavanca?\n7  Esse cenário recebeu diversas modificações, colocando pessoas conhecidas ou desconhecidas em um ou outro trilho, por vezes monitorando o cérebro dos voluntários, tudo para concluir que, bem, é complicado mesmo.\n8  A ideia ganhou o mundo pop de tal forma que depois de aparecer em seriado de TV e vídeos no YouTube, no ano passado virou um jogo de tabuleiro.\n9  Em Trial by Trolley (editora Galápagos, 2021), os jogadores se revezam colocando mocinhos ou vilões nos trilhos (um casal de velhinhos apaixonados; uma pessoa que maltrata animais; assim por diante) e tentam convencer o condutor da vez – que muda a cada rodada – a mandar o trem para o trilho dos adversários.\n10  No final, ganha o jogo quem salvou mais gente.\n11  Sim, não é um exercício de argumentação sério e profundo como um debate na ONU, mas dá uma ideia de como podem ser complicadas as decisões morais num mundo tão complexo, e ainda garante boas risadas em grupo."
+ },
  "dir-lit-c1-cortico": {
   "id": "dir-lit-c1-cortico",
   "fonte": "Dossie original sobre O Cortico, de Aluisio Azevedo (1890)",
@@ -63250,6 +63544,16 @@ window.QUESTION_TEXTS = {
   "id": "dir-lit-c8-ateneu",
   "fonte": "Dossie original sobre O Ateneu, de Raul Pompeia (1888)",
   "conteudo": "O Ateneu, de Raul Pompeia, foi publicado em 1888, primeiro em folhetim, e é narrado em primeira pessoa por Sérgio, já adulto, que reconstrói o período em que estudou como interno no colégio que dá nome ao livro. A advertência que o pai lhe faz ao deixá-lo no portão — de que ali vai encontrar o mundo — organiza a leitura inteira: o internato não é preparação para a sociedade, é a sociedade em escala reduzida.\n\nO que o narrador descreve nesse mundo fechado são hierarquias, alianças, humilhações e a autoridade de Aristarco, o diretor, cuja preocupação central é a reputação e a propaganda do estabelecimento. As relações entre os alunos reproduzem as relações de força que existem fora dali, e o retrato que resulta é impiedoso, sem a nostalgia que a memória de infância costuma trazer.\n\nO livro é difícil de classificar nas escolas literárias, e é isso que a crítica costuma destacar. Tem o olhar de análise social que se associa ao Realismo e a atenção ao detalhe físico que se associa ao Naturalismo, mas a prosa é carregada de imagens, adjetivos e sensações num grau que a aproxima do Impressionismo, e a distorção deliberada de certas figuras antecipa procedimentos que só se firmariam no século seguinte.\n\nA data importa. Publicado no ano da Abolição e às vésperas da República, o romance oferece um retrato da formação da elite brasileira no momento em que essa elite se reorganizava."
+ },
+ "dir-lit-fgv23-t1": {
+  "id": "dir-lit-fgv23-t1",
+  "fonte": "Machado de Assis, Dom Casmurro, capítulo XXXI — As curiosidades de Capitu. Obra em domínio público. (FGV Unificado 2023.1, texto das questões 21 a 26.)",
+  "conteudo": "CAPÍTULO XXXI — AS CURIOSIDADES DE CAPITU\n\nCapitu preferia tudo ao seminário. Em vez de ficar abatida com a ameaça da larga separação, se vingasse a ideia da Europa, mostrou-se satisfeita. E quando eu lhe contei o meu sonho imperial:\n— Não, Bentinho, deixemos o Imperador sossegado, replicou; fiquemos por ora com a promessa de José Dias. Quando é que ele disse que falaria a sua mãe?\n— Não marcou dia; prometeu que ia ver; que falaria logo que pudesse, e que me pegasse com Deus.\nCapitu quis que lhe repetisse as respostas todas do agregado, as alterações do gesto e até a pirueta, que apenas lhe contara. Pedia o som das palavras. Era minuciosa e atenta; a narração e o diálogo, tudo parecia remoer consigo. Também se pode dizer que conferia, rotulava e pregava na memória a minha exposição. Esta imagem é porventura melhor que a outra, mas a ótima delas é nenhuma. Capitu era Capitu, isto é, uma criatura mui particular, mais mulher do que eu era homem. Se ainda o não disse, aí fica. Se disse, fica também. Há conceitos que se devem incutir na alma do leitor, à força de repetição.\nEra também mais curiosa. As curiosidades de Capitu dão para um capítulo. Eram de vária espécie, explicáveis e inexplicáveis, assim úteis como inúteis, umas graves, outras frívolas; gostava de saber tudo. No colégio onde, desde os sete anos, aprendera a ler, escrever e contar, francês, doutrina e obras de agulha, não aprendeu, por exemplo, a fazer renda - por isso mesmo, quis que prima Justina lho ensinasse. Se não estudou latim com o Padre Cabral foi porque o padre, depois de lhe propor gracejando, acabou dizendo que latim não era língua de meninas. Capitu confessou-me um dia que esta razão acendeu nela o desejo de o saber. Em compensação, quis aprender inglês com um velho professor amigo do pai e parceiro deste ao solo¹, mas não foi adiante. Tio Cosme ensinou-lhe gamão.\n— Anda apanhar um capotinho², Capitu, dizia-lhe ele.\n(...)\n\nGlossário:\n1 — \"solo\": tipo de jogo de cartas.\n2 — \"capotinho\": diminutivo de \"capote\". Em um jogo, ganhar por grande diferença de pontos."
+ },
+ "dir-lit-fgv23-t2": {
+  "id": "dir-lit-fgv23-t2",
+  "fonte": "João Cabral de Melo Neto, \"Descoberta da Literatura\", em A educação pela pedra. (FGV Unificado 2023.1, texto das questões 27 a 30.)",
+  "conteudo": "Descoberta da Literatura\n\nNo dia a dia do engenho,\ntoda a semana, durante,\ncochichavam-me em segredo:\nsaiu um novo romance.\nE da feira do domingo\nme traziam conspirantes\npara que os lesse e explicasse\num romance de barbante.\nSentados na roda morta\nde um carro de boi, sem jante¹,\nouviam o folheto guenzo²,\na seu leitor semelhante,\ncom as peripécias de espanto\npreditas pelos feirantes.\nEmbora as coisas contadas\ne todo o mirabolante,\nem nada ou pouco variassem\nnos crimes, no amor, nos lances,\ne soassem como sabidas\nde outros folhetos migrantes,\na tensão era tão densa,\nsubia tão alarmante,\nque o leitor que lia aquilo\ncomo puro alto-falante,\ne, sem querer, imantara\ntodos ali, circunstantes,\nreceava que confundissem\no de perto com o distante,\no ali com o espaço mágico,\nseu franzino com o gigante,\ne que o acabassem tomando\npelo autor imaginante\nou tivesse que afrontar\nas brabezas do brigante.\n(E acabaria, não fossem\ncontar tudo à Casa-Grande:\nna moita morta do engenho,\num filho-engenho, perante\ncassacos³ do eito e de tudo,\nse estava dando ao desplante\nde ler letra analfabeta\nde corumba⁴, no caçanje⁵\npróprio dos cegos de feira,\nmuitas vezes meliantes.)\n\nGlossário:\n1 — \"jante\": aro da roda.\n2 — \"guenzo\": magro, frágil.\n3 — \"cassacos\": trabalhadores do engenho de cana-de-açúcar.\n4 — \"corumba\": pessoa de baixa condição social, andarilho.\n5 — \"caçanje\": português mal falado."
  },
  "dir-ing-c01-t1": {
   "id": "dir-ing-c01-t1",

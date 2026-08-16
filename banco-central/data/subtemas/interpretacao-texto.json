@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "interpretacao-texto",
- "total": 475,
+ "total": 480,
  "residuo": [
   "dir-interpretacao-texto-10",
   "dir-interpretacao-texto-37",
@@ -2755,6 +2755,36 @@
    "frenteDestino": "interpretacao-texto",
    "pontos": 10,
    "margem": 10
+  },
+  "dir-interpretacao-texto-223": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 5
+  },
+  "dir-interpretacao-texto-224": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 3
+  },
+  "dir-interpretacao-texto-225": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 3
+  },
+  "dir-interpretacao-texto-226": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 3
+  },
+  "dir-interpretacao-texto-227": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "pontos": 10,
+   "margem": 3
   }
  }
 }

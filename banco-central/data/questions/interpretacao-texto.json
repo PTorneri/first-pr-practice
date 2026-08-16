@@ -7886,6 +7886,100 @@
    "explicacao": "A expressão retoma os dois dados justapostos no parágrafo inicial — 84 páginas contra dois botões — e os nomeia como desproporção. É essa retomada que dá referente ao fecho.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "dir-interpretacao-texto-223",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "visual": {
+    "tipo": "Tirinha",
+    "arquivo": "assets/provas/fgv-2023.1-lp-q16.jpg",
+    "descricao": "Tirinha em quadro único. Uma criança de máscara caminha ao lado de um adulto de máscara e óculos escuros, ambos de perfil. A criança diz: \"A pandemia traz tantos questionamentos...\". O adulto responde: \"Tipo como usar máscara sem embaçar os óculos!?\". (Daiquiri, Folha de S.Paulo, 29/07/2020.)"
+   },
+   "enunciado": "Examine a tirinha de Caco Galhardo.\nConsiderando-se o efeito de humor pretendido na tirinha, a segunda fala constitui, em relação à primeira, uma quebra de expectativa, que se caracteriza",
+   "alternativas": {
+    "a": "pela redundância.",
+    "b": "pela ambiguidade.",
+    "c": "pela metalinguagem.",
+    "d": "pelo contraste.",
+    "e": "pelo paradoxo."
+   },
+   "resposta": "d",
+   "explicacao": "A primeira fala abre um campo grave e abstrato — \"questionamentos\" trazidos pela pandemia sugere dilemas existenciais, sanitários, éticos. A segunda desce abruptamente ao mais trivial dos incômodos, o óculos embaçado pela máscara. O humor nasce dessa distância entre o solene esperado e o banal entregue, e é isso que se chama CONTRASTE. Não há paradoxo, porque nada ali se contradiz logicamente; nem ambiguidade, porque nenhuma das falas admite dois sentidos; nem metalinguagem, porque a tirinha não fala de si mesma.",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-interpretacao-texto-224",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-int-fgv23-t1",
+   "enunciado": "O autor desenvolve o assunto do texto sob uma perspectiva, ao mesmo tempo, psicológica e",
+   "alternativas": {
+    "a": "filosófica.",
+    "b": "religiosa.",
+    "c": "econômica.",
+    "d": "doutrinária.",
+    "e": "política."
+   },
+   "resposta": "a",
+   "explicacao": "O texto trata de ética, de como se diferencia o certo do errado e de um experimento mental clássico, o dilema do bonde — tudo isso é filosofia moral. O lado psicológico está explícito no nome do campo citado, \"psicologia moral\", e na menção ao monitoramento do cérebro dos voluntários. As demais alternativas não se sustentam: o autor não invoca fé, não trata de custos ou mercados, não defende doutrina alguma, e os exemplos políticos, como vacinas e drogas, aparecem só como ILUSTRAÇÃO de dilemas morais, não como o assunto.",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-interpretacao-texto-225",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-int-fgv23-t1",
+   "enunciado": "O trecho em que o autor se antecipa, pressupondo um questionamento do leitor, é:",
+   "alternativas": {
+    "a": "\"Você está longe demais para ajudá-las, mas pode mexer numa alavanca que muda o trem de trilho, salvando suas vidas.\"",
+    "b": "\"A vida foi se tornando cada vez mais complicada conforme cresceu a complexidade da sociedade.\"",
+    "c": "\"O problema é que no outro trilho há uma pessoa, e ela acabará morta no lugar das cinco. Você puxaria a alavanca?\"",
+    "d": "\"Qualquer discussão, de proibição das drogas a obrigatoriedade de vacinas, está condenada a ser reduzida, no fim, a algo como 'mas essa é minha opinião'.\"",
+    "e": "\"Sim, não é um exercício de argumentação sério e profundo como um debate na ONU...\""
+   },
+   "resposta": "e",
+   "explicacao": "O \"Sim\" inicial é a marca decisiva: ele responde a uma objeção que ninguém formulou no texto, mas que o leitor formularia — a de que um jogo de tabuleiro é coisa leviana diante de um tema sério. O autor concede o ponto antes que ele seja feito, para então virá-lo a seu favor. É a figura da antecipação, ou prolepse. As alternativas a e c fazem perguntas AO leitor, o que é diferente de antecipar a objeção DELE, e as demais são afirmações expositivas.",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-interpretacao-texto-226",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "excecao",
+   "textoId": "dir-int-fgv23-t1",
+   "enunciado": "Dos comentários sobre aspectos linguísticos dos trechos citados, o único que NÃO está correto é:",
+   "alternativas": {
+    "a": "\"... tudo para concluir que, bem, é complicado mesmo.\" (7º parágrafo): o vocábulo sublinhado introduz uma pausa, para que o autor termine a frase de modo inesperado.",
+    "b": "\"Imagine que um trem descontrolado irá matar cinco pessoas.\" (6º parágrafo): considerando que o autor se dirige ao leitor por \"você\", o correto seria \"Imagina\".",
+    "c": "\"... e não terminar reduzida, no fim, a um bate-boca ...\" (3º parágrafo): a expressão sublinhada destoa da variedade linguística predominante no texto.",
+    "d": "\"A teia de relações entre as pessoas e seus atos ganhou tantas imbricações que mal nos damos conta do que isso significa.\" (1º parágrafo): a palavra sublinhada foi empregada, no texto, em sentido conotativo.",
+    "e": "\"A partir dos anos 2000 um campo de estudos sobre isso – psicologia moral – apresentou grande desenvolvimento, ...\" (5º parágrafo): por estar anteposto ao sujeito, o trecho sublinhado deveria ser separado por vírgula."
+   },
+   "resposta": "b",
+   "explicacao": "O comentário de b inverte a norma. \"Imagine\" é justamente a forma do imperativo afirmativo que corresponde ao tratamento VOCÊ, derivada do presente do subjuntivo; \"imagina\" é a forma associada a TU. Quem se dirige ao leitor por \"você\" deve escrever \"imagine\", que é o que o texto faz — o comentário aponta erro onde não há. Os outros quatro procedem: o \"bem\" cria a pausa antes da queda irônica, \"bate-boca\" é coloquial num texto de registro mais formal, \"teia\" é metáfora, e o adjunto adverbial longo anteposto pede vírgula.",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-interpretacao-texto-227",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "escada",
+   "textoId": "dir-int-fgv23-t1",
+   "enunciado": "Examine as relações sintáticas estabelecidas nos seguintes trechos do texto:\nI. \"A teia de relações entre as pessoas e seus atos ganhou tantas imbricações que mal nos damos conta do que isso significa.\"\nII. \"...; mas há tantas implicações em cada decisão, tantas ramificações das consequências dos nossos atos, que quase sempre é impossível encontrar uma 'resposta certa'.\"\nIII. \"A partir dos anos 2000 um campo de estudos sobre isso – psicologia moral – apresentou grande desenvolvimento, lançando luz sobre como e por que diferenciamos o certo do errado, o bom do mau, o ético do antiético.\"\nIV. \"A ideia ganhou o mundo pop de tal forma que depois de aparecer em seriado de TV e vídeos no YouTube, no ano passado virou um jogo de tabuleiro.\"\nO caráter argumentativo do texto explica o emprego de orações que expressam ideia de consequência, como se pode verificar em:",
+   "alternativas": {
+    "a": "I, II, III e IV.",
+    "b": "III e IV, apenas.",
+    "c": "I e II, apenas.",
+    "d": "I, II e IV, apenas.",
+    "e": "II, III e IV, apenas."
+   },
+   "resposta": "d",
+   "explicacao": "A consecutiva se reconhece pelo par intensificador mais \"que\": em I, \"tantas... QUE\"; em II, \"tantas... QUE\"; em IV, \"de tal forma QUE\". Nos três casos a segunda oração enuncia o efeito produzido pela intensidade anunciada na primeira. Em III não há nada disso: \"lançando luz sobre...\" é oração reduzida de gerúndio, com valor explicativo do que o campo de estudos fez, sem qualquer intensificador correlato. Encontrar o par correlativo é o único movimento que a questão exige.",
+   "origem": "direito"
   }
  ],
  "textos": [
@@ -8053,6 +8147,11 @@
    "id": "med-med-int-t13",
    "fonte": "Pecas de campanha ficticias originais escritas para este banco",
    "conteudo": "PEÇAS DE CAMPANHA — VEICULAÇÃO EM TRANSPORTE PÚBLICO\n\nCARTAZ 1\nVocê levou 40 segundos para ler isto.\nLavar as mãos leva 20.\n\nCARTAZ 2\nEle não lembra o seu nome.\nLembra que você sentou.\nVisite quem está internado.\n\nCARTAZ 3\n\"Depois eu marco.\"\nFoi o que 6 em cada 10 disseram no ano passado.\nO exame leva 15 minutos. A fila para marcar, 15 dias.\nMarque hoje.\n\nCARTAZ 4\nNão é frescura.\nÉ o terceiro dia de febre.\nProcure atendimento."
+  },
+  {
+   "id": "dir-int-fgv23-t1",
+   "fonte": "O bonde da moral. Daniel Martins de Barros, O Estado de S.Paulo, 15 de janeiro de 2022. Adaptado. (FGV Unificado 2023.1, texto das questões 17 a 20.)",
+   "conteudo": "O bonde da moral\n\n1  A vida foi se tornando cada vez mais complicada conforme cresceu a complexidade da sociedade. A teia de relações entre as pessoas e seus atos ganhou tantas imbricações que mal nos damos conta do que isso significa.\n2  Um dos resultados tem a ver com o que chamamos de ética. Nesses contextos modernos, a nossa intuição moral pré-histórica por vezes depara com grandes dificuldades para diferenciar o certo do errado.\n3  Qualquer discussão, de proibição das drogas a obrigatoriedade de vacinas, está condenada a ser reduzida, no fim, a algo como \"mas essa é minha opinião\" (quando for civilizada e não terminar reduzida, no fim, a um bate-boca acabando com o jantar em família antes da sobremesa).\n4  Não que seja inútil argumentar, bem ao contrário: só quando os argumentos são bons e a conversa respeitosa a gente consegue retirar do debate ideias preconcebidas e as falácias; mas há tantas implicações em cada decisão, tantas ramificações das consequências dos nossos atos, que quase sempre é impossível encontrar uma \"resposta certa\".\n5  A partir dos anos 2000 um campo de estudos sobre isso – psicologia moral – apresentou grande desenvolvimento, lançando luz sobre como e por que diferenciamos o certo do errado, o bom do mau, o ético do antiético. Um de seus experimentos mentais ficou famoso: o dilema do bonde.\n6  Imagine que um trem descontrolado irá matar cinco pessoas. Você está longe demais para ajudá-las, mas pode mexer numa alavanca que muda o trem de trilho, salvando suas vidas. O problema é que no outro trilho há uma pessoa, e ela acabará morta no lugar das cinco. Você puxaria a alavanca?\n7  Esse cenário recebeu diversas modificações, colocando pessoas conhecidas ou desconhecidas em um ou outro trilho, por vezes monitorando o cérebro dos voluntários, tudo para concluir que, bem, é complicado mesmo.\n8  A ideia ganhou o mundo pop de tal forma que depois de aparecer em seriado de TV e vídeos no YouTube, no ano passado virou um jogo de tabuleiro.\n9  Em Trial by Trolley (editora Galápagos, 2021), os jogadores se revezam colocando mocinhos ou vilões nos trilhos (um casal de velhinhos apaixonados; uma pessoa que maltrata animais; assim por diante) e tentam convencer o condutor da vez – que muda a cada rodada – a mandar o trem para o trilho dos adversários.\n10  No final, ganha o jogo quem salvou mais gente.\n11  Sim, não é um exercício de argumentação sério e profundo como um debate na ONU, mas dá uma ideia de como podem ser complicadas as decisões morais num mundo tão complexo, e ainda garante boas risadas em grupo."
   }
  ]
 }

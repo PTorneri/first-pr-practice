@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "literatura",
- "total": 379,
+ "total": 389,
  "residuo": [
   "dir-literatura-53",
   "dir-literatura-55",
@@ -28,7 +28,8 @@
   "med-literatura-113",
   "med-literatura-135",
   "med-literatura-138",
-  "med-literatura-139"
+  "med-literatura-139",
+  "dir-literatura-160"
  ],
  "mapa": {
   "dir-literatura-01": {
@@ -2271,6 +2272,62 @@
   },
   "med-literatura-365": {
    "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-152": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-153": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "cluster": true
+  },
+  "dir-literatura-154": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-155": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "cluster": true
+  },
+  "dir-literatura-156": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "dir-literatura-157": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "cluster": true
+  },
+  "dir-literatura-158": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-literatura-159": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-literatura-160": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "padrao": true
+  },
+  "dir-literatura-161": {
+   "subtema": "literatura-teoria-analise",
    "frenteDestino": "literatura",
    "pontos": 5,
    "margem": 5

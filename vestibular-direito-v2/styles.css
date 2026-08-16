@@ -1400,6 +1400,13 @@ h4 { font-size: 1.0625rem; }
   color: var(--text-muted); background: var(--surface-sunken); border-radius: var(--radius-pill);
   padding: 4px 11px; margin-bottom: var(--space-2);
 }
+/* Crédito da prova de origem, acima do texto de apoio. Discreto de propósito:
+   informa a procedência sem competir com o enunciado pela atenção. */
+.q-fonte {
+  font: var(--type-eyebrow); letter-spacing: var(--tracking-caps);
+  text-transform: uppercase; color: var(--text-muted);
+  margin-bottom: var(--space-2);
+}
 /* O enunciado se separa das alternativas por TAMANHO (17px contra 15px), não
    por peso. Negrito em enunciado longo — e os da FGV passam de dez linhas —
    cansa a leitura; a diferença de corpo faz o mesmo trabalho sem pesar. */

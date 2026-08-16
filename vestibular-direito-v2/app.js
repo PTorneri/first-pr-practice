@@ -4294,6 +4294,7 @@
       ? `<div class="q-support">${escapeHtml(support)}</div>`
       : "";
     const tagHtml = tagLabel ? `<div class="q-tag">${escapeHtml(tagLabel)}</div>` : "";
+    const fonteHtml = renderFonte(q);
     const visualHtml = renderVisual(q.visual);
     // Selo de dificuldade: só questões novas (banco ampliado) têm o campo
     // `dificuldade` ("media"/"dificil") — questões antigas seguem sem selo.
@@ -4311,6 +4312,7 @@
 
     wrap.innerHTML = `
       ${tagHtml}
+      ${fonteHtml}
       ${supportHtml}
       ${visualHtml}
       <div class="q-enunciado">${idx + 1}. ${escapeHtml(q.enunciado)} ${difficultyHtml}</div>
@@ -5743,6 +5745,43 @@
       }
     }
     container.appendChild(node);
+  }
+
+  // Crédito da prova de origem. Só as questões transcritas de caderno real
+  // carregam `banca`/`sessao`; as autorais não têm o campo e não ganham linha.
+  //
+  // Isto não é enfeite: enunciado de prova real é texto de terceiro, e citar a
+  // fonte é o mínimo devido a quem a escreveu. Os dois campos já vinham sendo
+  // gravados na questão desde a primeira transcrição — só não chegavam à tela.
+  const BANCA_NOME = {
+    fgv: "FGV", insper: "Insper", enem: "ENEM", ita: "ITA", maua: "Mauá",
+    fuvest: "Fuvest", unicamp: "Unicamp", unesp: "Unesp", unifesp: "Unifesp",
+    einstein: "Einstein", santacasa: "Santa Casa", famema: "Famema",
+    famerp: "Famerp", uerj: "UERJ", pucsp: "PUC-SP",
+  };
+
+  // O slug da sessão (`enem-2023-dia-1`, `maua-verao-2025-online`) é interno e
+  // vem sem acento. Na tela vira "Mauá 2025 · verão, presencial": banca e ano
+  // primeiro, porque é o que o aluno reconhece, e a qualificação depois, só
+  // quando a banca aplicou mais de um caderno no mesmo ano.
+  const SESSAO_PALAVRA = { verao: "verão", online: "on-line" };
+
+  // Exige `sessao`, e não só `banca`: a maioria das questões com `banca` foi
+  // escrita NO ESTILO daquela banca, não copiada do caderno dela. Creditar
+  // essas à FGV seria atribuição falsa — quem veio de prova real tem sessão.
+  function renderFonte(q) {
+    if (!q || !q.banca || !q.sessao) return "";
+    const nome = BANCA_NOME[q.banca] || q.banca;
+    const partes = String(q.sessao).split("-").filter((p) => p && p !== q.banca);
+    const ano = partes.find((p) => /^\d{4}(\.\d)?$/.test(p)) || "";
+    const dia = /dia-(\d)/.exec(q.sessao);
+    const qualif = dia
+      ? [dia[1] + "º dia"]
+      : partes.filter((p) => p !== ano && !/^\d+$/.test(p))
+              .map((p) => SESSAO_PALAVRA[p] || p);
+    const txt = [nome + (ano ? " " + ano : ""), qualif.join(", ")]
+      .filter(Boolean).join(" · ");
+    return `<div class="q-fonte">${escapeHtml(txt)}</div>`;
   }
 
   const VISUAL_PATH_OK = /^assets\/[A-Za-z0-9._/-]+\.(svg|png|jpg|jpeg|webp)$/;

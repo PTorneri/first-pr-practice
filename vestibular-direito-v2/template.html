@@ -64,13 +64,13 @@
      consome variáveis, e uma variável precisa existir antes de ser lida. É
      também onde vivem os @font-face — declarados aqui, o navegador começa a
      baixar a letra enquanto ainda parseia o resto. -->
-<link rel="stylesheet" href="tokens.css?v=53">
-<link rel="stylesheet" href="styles.css?v=53">
+<link rel="stylesheet" href="tokens.css?v=54">
+<link rel="stylesheet" href="styles.css?v=54">
 <!-- Estilo da dissertativa de exatas (resolução + resposta final + faixa),
      hoje só usada pela Matemática de Economia. Carregado aqui, e não por
      trilha, pela mesma razão de trilhas.js e assuntos.js: é código, não dado
      — inerte enquanto ninguém chama VD_EXATAS.render(). -->
-<link rel="stylesheet" href="../vestibular-economia/dissertativa-exatas.css?v=53">
+<link rel="stylesheet" href="../vestibular-economia/dissertativa-exatas.css?v=54">
 </head>
 <body>
 
@@ -1072,19 +1072,19 @@
      escolheu — só os dados daquela trilha entram no navegador. O conteúdo de
      Direito continua sendo o mesmo do v1: corrigir uma questão lá corrige nos
      dois apps. -->
-<script src="trilhas.js?v=53"></script>
-<script src="schedule.js?v=53"></script>
+<script src="trilhas.js?v=54"></script>
+<script src="schedule.js?v=54"></script>
 <!-- Dicionário de assuntos da busca. Vive aqui, e não em data/ de uma trilha,
      porque a taxonomia atravessa as duas: "crase" e "função quadrática" são o
      mesmo assunto em Direito e em Medicina. Pôr em data/ obrigaria a duplicar
      as listas de gramática, literatura, interpretação, inglês e matemática. -->
-<script src="assuntos.js?v=53"></script>
+<script src="assuntos.js?v=54"></script>
 <!-- window.VD_EXATAS — renderizador da dissertativa de exatas (ver o <link>
      do CSS acima). Precisa carregar ANTES de app.js: renderDissertQuestion
      chama VD_EXATAS.render() para toda questão com `faixas`, e um script
      criado depois na ordem de execução ainda não teria definido o global. -->
-<script src="../vestibular-economia/dissertativa-exatas.js?v=53"></script>
-<script src="app.js?v=53"></script>
-<script type="module" src="auth.js?v=53"></script>
+<script src="../vestibular-economia/dissertativa-exatas.js?v=54"></script>
+<script src="app.js?v=54"></script>
+<script type="module" src="auth.js?v=54"></script>
 </body>
 </html>

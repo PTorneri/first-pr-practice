@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "quimica",
- "total": 456,
+ "total": 468,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -11,7 +11,8 @@
   "med-quimica-232",
   "med-quimica-248",
   "med-quimica-263",
-  "med-quimica-301"
+  "med-quimica-301",
+  "eng-quimica-02"
  ],
  "mapa": {
   "med-quimica-01": {
@@ -2739,6 +2740,73 @@
    "frenteDestino": "quimica",
    "pontos": 10,
    "margem": 10
+  },
+  "eng-quimica-01": {
+   "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "eng-quimica-02": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "padrao": true
+  },
+  "eng-quimica-03": {
+   "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "eng-quimica-04": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "eng-quimica-05": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 3,
+   "margem": 0
+  },
+  "eng-quimica-06": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "eng-quimica-07": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "eng-quimica-08": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "eng-quimica-09": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "eng-quimica-10": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 0
+  },
+  "eng-quimica-11": {
+   "subtema": "quimica-eletroquimica",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "eng-quimica-12": {
+   "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "revisado": true
   }
  }
 }

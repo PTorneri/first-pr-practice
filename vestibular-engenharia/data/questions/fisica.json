@@ -351,6 +351,206 @@
       "resposta": "a",
       "explicacao": "A equivalência E=mc² revela que massa e energia são duas manifestações de uma mesma grandeza conservada: massa \"desaparecida\" reaparece como energia liberada (cinética dos fragmentos, radiação), e a soma massa+energia (numa contabilidade unificada) se conserva. Não há violação da conservação de energia — é justamente a extensão da lei de conservação para incluir a massa como forma de energia que a relatividade introduz. A alternativa (b) aplica a visão pré-relativística, em que massa e energia eram conservadas separadamente.",
       "formato": "direta"
+    },
+    {
+      "id": "fisica-01",
+      "banca": "ita",
+      "sessao": "ita-2024",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "visual": {
+        "tipo": "Gráfico",
+        "arquivo": "assets/provas/ita-2024-q01.png",
+        "descricao": "Três curvas de calibração. Na primeira, a leitura E_t cresce linearmente com o tempo, de 0 a 5 contagens enquanto o tempo vai de 0 a 10 s. Na segunda, E_c DECRESCE linearmente com o comprimento, de 10 contagens em 0 cm até 0 contagem em 10 cm. Na terceira, E_m cresce com a massa segundo uma curva côncava para cima, de 0 a 10 contagens enquanto a massa vai de 0 a 10 g — em 3 contagens a massa é de cerca de 5 g."
+      },
+      "enunciado": "Em um centro de pesquisa foram desenvolvidos três equipamentos para medições de tempo, comprimento e massa, cujas leituras são E_t, E_c, E_m, respectivamente. As curvas de calibração de cada equipamento estão apresentadas na figura. Esses equipamentos foram utilizados para medir o movimento retilíneo uniforme de uma partícula pontual. A medição da massa indicou leitura de 3 contagens, e a medição do movimento mostrou que ele percorreu uma distância entre as posições indicadas pelas contagens 6 e 2, em um intervalo de tempo de 0 a 1 contagens.\nPode-se afirmar que a energia cinética da partícula é:",
+      "alternativas": {
+        "a": "20 J.",
+        "b": "10 J.",
+        "c": "2,0 µJ.",
+        "d": "1,0 µJ.",
+        "e": "0,75 µJ."
+      },
+      "resposta": "d",
+      "explicacao": "Cada grandeza sai da sua própria curva. Na régua de comprimento, 10 contagens valem 10 cm, então 1 contagem vale 1 cm e o deslocamento entre as contagens 6 e 2 é de 4 cm, ou 0,04 m. Na régua de tempo, 5 contagens valem 10 s, então 1 contagem vale 2 s. A velocidade do movimento uniforme é 0,04/2 = 0,02 m/s. A massa é a única leitura que não pode ser convertida por regra de três: a curva dela é não linear, e 3 contagens correspondem a 5 g, ou 5×10⁻³ kg. Daí Ec = ½mv² = ½·5×10⁻³·(2×10⁻²)² = 1,0×10⁻⁶ J = 1,0 µJ. As opções em joule vêm de tratar as contagens como se fossem já as grandezas em unidades do SI."
+    },
+    {
+      "id": "fisica-02",
+      "banca": "ita",
+      "sessao": "ita-2024",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/provas/ita-2024-q02.png",
+        "descricao": "Corte de um recinto fechado. No teto, a uma altura H do solo, está presa uma fonte luminosa. No chão, a uma distância 2a da parede da esquerda, há um objeto de altura h. A fonte cai em linha reta e atinge o solo a uma distância 3a da mesma parede."
+      },
+      "enunciado": "Uma fonte luminosa está presa ao teto de um recinto fechado, a uma altura H do solo. No recinto há um objeto de altura h (h < H/2) a uma distância 2a de uma das paredes. A lâmpada desprende-se, iniciando um movimento de queda livre, e atinge o solo a uma distância 3a da parede. Considere que o efeito de reflexão de luz nas paredes é desprezível e que a fonte de luz é pontual.\nAssinale a alternativa que apresenta a expressão correta do módulo da velocidade da sombra a partir do instante em que esta começa a ser projetada sobre a parede.",
+      "alternativas": {
+        "a": "√(2g(H − 3h/2))",
+        "b": "√(2g(H − h))",
+        "c": "(1/2)·√(2g(H − 3h/2))",
+        "d": "2·√(2g(H − 3h/2))",
+        "e": "2·√(2g(H − h))"
+      },
+      "resposta": "d",
+      "explicacao": "Com a parede em x = 0, o objeto ocupa x = 2a com altura h e a fonte cai sobre x = 3a, numa altura y. O raio que passa pelo topo do objeto vai de (3a, y) a (2a, h); para chegar de x = 3a até x = 0 o deslocamento horizontal triplica, e a altura da sombra na parede é Y = y + 3(h − y) = 3h − 2y. A sombra começa a ser projetada quando Y = 0, isto é, quando a fonte passa por y = 3h/2 — já tendo caído H − 3h/2 e, portanto, com velocidade √(2g(H − 3h/2)). Derivando Y no tempo, dY/dt = −2·dy/dt: a sombra sobe com o DOBRO da velocidade da lâmpada, o que dá 2√(2g(H − 3h/2)). A alternativa (a) esquece esse fator 2, e as que trazem H − h ignoram que a projeção só começa quando a fonte chega a 3h/2, não a h."
+    },
+    {
+      "id": "fisica-03",
+      "banca": "ita",
+      "sessao": "ita-2024",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/provas/ita-2024-q03.png",
+        "descricao": "Esfera de raio R com uma cavidade esférica interna de raio R/2, que tangencia a esfera por dentro no ápice A. Os dois centros de curvatura e o ponto A estão na mesma vertical, que desce até o ponto S no solo, a uma altura H = 15R abaixo de A."
+      },
+      "enunciado": "Uma esfera de raio R possui uma cavidade esférica interna de raio R/2. A cavidade tangencia internamente a esfera no seu ápice A, que está a uma altura H = 15R do ponto S, localizado no solo verticalmente abaixo. Os dois centros de curvatura e o ponto A se encontram na linha vertical que passa por S. A esfera é então abandonada de seu repouso em queda livre, atinge o solo em S e inverte seu movimento.\nConsiderando que a distribuição de massa é homogênea na região sólida do objeto e que o coeficiente de restituição da colisão é 0,80, a altura máxima alcançada pelo centro de massa da esfera após a colisão é aproximadamente igual a:",
+      "alternativas": {
+        "a": "7,7R.",
+        "b": "8,5R.",
+        "c": "9,3R.",
+        "d": "10,1R.",
+        "e": "10,9R."
+      },
+      "resposta": "c",
+      "explicacao": "A cavidade se trata como massa negativa. Se M é a massa da esfera cheia, a cavidade de raio R/2 vale M/8, e o corpo tem 7M/8. Com o centro O da esfera na origem, o centro da cavidade fica em +R/2 (ela tangencia o ápice A, que está em +R), então o centro de massa está em (0 − (M/8)(R/2))/(7M/8) = −R/14, ou seja, R/14 ABAIXO de O. A queda não é de 15R: o ápice está a 15R do solo, logo o ponto mais baixo da esfera está a 13R, e é essa a altura percorrida até o choque. A velocidade de chegada é √(2g·13R) e a de saída, 0,80 dela, o que devolve 0,64·13R = 8,32R de altura de subida. No instante do choque o centro de massa está a R − R/14 = 13R/14 ≈ 0,93R do solo, e a altura máxima fica em 0,93R + 8,32R ≈ 9,3R. Usar 15R como altura de queda, ou colocar o centro de massa em O, leva às demais opções."
+    },
+    {
+      "id": "fisica-04",
+      "banca": "ita",
+      "sessao": "ita-2024",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Sejam duas bases de lançamento de foguete. A primeira localizada em uma cidade no equador terrestre e a segunda na latitude 60°.\nAssinale a alternativa que corresponde à melhor estimativa da razão entre os impulsos necessários para que um foguete seja lançado ao espaço partindo da primeira base e da segunda base.",
+      "alternativas": {
+        "a": "1,08",
+        "b": "0,98",
+        "c": "0,87",
+        "d": "0,76",
+        "e": "0,68"
+      },
+      "resposta": "b",
+      "explicacao": "A rotação da Terra já entrega parte da velocidade, e entrega mais perto do equador: em latitude φ, a velocidade de arraste é ωR·cos φ. Com ω = 2π/86400 s⁻¹ e R = 6,4×10⁶ m, isso dá cerca de 465 m/s no equador e metade disso, 232 m/s, a 60°. A velocidade de escape é v = √(2GM/R) = √(2·6,7×10⁻¹¹·6,0×10²⁴/6,4×10⁶) ≈ 11,2 km/s. Como o impulso é proporcional ao ganho de velocidade que ainda falta, a razão é (11200 − 465)/(11200 − 232) ≈ 10735/10968 ≈ 0,98. O valor é próximo de 1 justamente porque a ajuda da rotação é pequena diante da velocidade de escape — quem espera um ganho grande escolhe 0,87 ou 0,68."
+    },
+    {
+      "id": "fisica-05",
+      "banca": "ita",
+      "sessao": "ita-2024",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Um professor montou um experimento com dois pêndulos simples, com fios de mesmo comprimento. Os pêndulos se mantiveram perfeitamente síncronos, cada qual com período de 2 s, em um dia cuja temperatura local era de 10 °C. Num outro dia, passados alguns minutos, notou-se que os pêndulos perdiam a sincronicidade. O professor associou tal fenômeno à variação de temperatura local, já que o termômetro do laboratório marcava 30 °C naquele dia e que o coeficiente de dilatação térmica dos fios era de α₁ = 2×10⁻⁵ °C⁻¹ e α₂ = 7×10⁻⁵ °C⁻¹.\nAssinale a alternativa que contém a melhor estimativa do intervalo de tempo entre o início do movimento e o instante em que os pêndulos apresentaram uma defasagem de meio ciclo pela primeira vez.",
+      "alternativas": {
+        "a": "17 min",
+        "b": "33 min",
+        "c": "40 min",
+        "d": "66 min",
+        "e": "80 min"
+      },
+      "resposta": "b",
+      "explicacao": "O período do pêndulo simples é T = 2π√(L/g), e a raiz faz a dilatação entrar pela metade: T' ≈ T(1 + ½αΔθ). Com ΔΘ = 20 °C, a diferença entre os dois períodos é ΔT = T·½·Δθ·(α₂ − α₁) = 2·½·20·(7 − 2)×10⁻⁵ = 1×10⁻³ s por oscilação. Meio ciclo de defasagem significa acumular T/2 = 1 s de atraso, o que exige 1/10⁻³ = 1000 oscilações. Como cada uma dura cerca de 2 s, são 2000 s ≈ 33 min. O erro que leva a 66 min é exigir um ciclo inteiro de defasagem em vez de meio; o que leva a 17 min é esquecer o fator ½ da raiz."
+    },
+    {
+      "id": "fisica-06",
+      "banca": "ita",
+      "sessao": "ita-2024",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Um microscópio óptico, formado por duas lentes convergentes, é utilizado para observar uma amostra biológica em laboratório. A lente objetiva tem uma distância focal de 5 mm, enquanto a ocular tem uma distância focal de 70 mm. A distância entre a objetiva e a ocular é ajustada para 190 mm.\nSabendo que a amostra encontra-se a 5,2 mm da lente objetiva, assinale a alternativa que contém o módulo do aumento linear do microscópio descrito.",
+      "alternativas": {
+        "a": "7",
+        "b": "14",
+        "c": "25",
+        "d": "75",
+        "e": "175"
+      },
+      "resposta": "e",
+      "explicacao": "O aumento do microscópio é o produto dos aumentos das duas lentes. Na objetiva, 1/v = 1/5 − 1/5,2 dá v = 130 mm, e o aumento é v/o = 130/5,2 = 25. Essa imagem se forma a 130 mm da objetiva, logo a 190 − 130 = 60 mm da ocular — dentro da distância focal dela (70 mm), que é como a ocular deve trabalhar, funcionando como lupa. Aí 1/v = 1/70 − 1/60 dá v = −420 mm (imagem virtual) e aumento 420/60 = 7. O total é 25 × 7 = 175. As opções 25 e 7 são cada uma das etapas isoladas, e 75 troca o produto por uma conta com os focos."
+    },
+    {
+      "id": "fisica-07",
+      "banca": "ita",
+      "sessao": "ita-2024",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "visual": {
+        "tipo": "Esquema",
+        "arquivo": "assets/provas/ita-2024-q08.png",
+        "descricao": "Montagem da dupla fenda de Young: uma frente de onda incide sobre um anteparo com duas fendas separadas por a. Na saída de uma das fendas há uma lente de material de índice de refração n, com formato de semicírculo de raio R. A figura de interferência se forma num anteparo a uma distância L, muito maior que a."
+      },
+      "enunciado": "Considere que no experimento de Young da dupla fenda, uma lente, composta de um material com índice de refração n (1 < n < 2), no formato de um semicírculo de raio R, é colocada na saída de uma das fendas.\nSabendo que o comprimento de onda λ é maior que R e que a distância entre o anteparo e as fendas, L, é muito maior do que λ, assinale a alternativa que corresponde à expressão da posição x_m do m-ésimo pico do padrão de interferência acima do máximo central.",
+      "alternativas": {
+        "a": "(λm + (n−1)R)·(L/a)",
+        "b": "(λm − nR)·(L/a)",
+        "c": "λm·(L/a) + (n−1)R",
+        "d": "(λm + nR)·(L/a)",
+        "e": "(λm − nR)·(L/2a)"
+      },
+      "resposta": "a",
+      "explicacao": "Sem a lente, o máximo de ordem m sai de a·x/L = mλ. A lente acrescenta caminho ÓPTICO, não geométrico: atravessar uma espessura R de material de índice n em vez de ar custa (n − 1)R a mais. Como ela está na fenda cuja frente já era a atrasada, a condição de máximo vira a·x/L − (n − 1)R = mλ, e daí x_m = (λm + (n−1)R)·(L/a). Os distratores com nR esquecem que só a DIFERENÇA em relação ao ar conta — em n = 1 a expressão tem de recair no caso sem lente, teste que só a alternativa (a) passa. Em (c) o termo da lente aparece fora do fator L/a, isto é, sem ser convertido de diferença de caminho para posição no anteparo."
+    },
+    {
+      "id": "fisica-08",
+      "banca": "ita",
+      "sessao": "ita-2024",
+      "formato": "escada",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Ao redor de uma carga elétrica Q, localizada no ponto (0, R/2), existe uma casca metálica aterrada de raio R e com centro localizado na origem do sistema de coordenadas.\nA respeito dessa situação física, são feitas as seguintes afirmações:\nI. O campo elétrico no exterior da casca metálica é nulo.\nII. A carga elétrica induzida na casca metálica é igual a −Q.\nIII. O campo elétrico no ponto (0, 3R/4) é mais intenso do que o campo elétrico no ponto (0, R/4).\nAssinale a alternativa que contém todas as afirmações corretas com respeito ao sistema descrito.",
+      "alternativas": {
+        "a": "I",
+        "b": "I e II",
+        "c": "I e III",
+        "d": "II e III",
+        "e": "I, II e III"
+      },
+      "resposta": "e",
+      "explicacao": "I é o efeito do aterramento: a casca condutora blinda o exterior, e o campo fora dela é nulo mesmo com a carga descentrada. II segue de I por Gauss — para o campo se anular fora, a carga total envolvida tem de ser zero, o que exige carga induzida −Q. III é a parte que exige conta: os dois pontos estão à MESMA distância R/4 da carga, então a contribuição de Q tem o mesmo módulo nos dois. O desempate vem da carga induzida, que se concentra na parte da casca mais próxima de Q, ou seja, acima. Pelo método da carga imagem (q' = −2Q em (0, 2R)), em (0, 3R/4) as duas contribuições apontam para cima e se somam; em (0, R/4) elas se opõem. Logo o campo é mais intenso em 3R/4, e as três afirmações valem."
+    },
+    {
+      "id": "fisica-09",
+      "banca": "ita",
+      "sessao": "ita-2024",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Uma sonda composta por um conjunto de m espiras de raio r é colocada no interior de um solenoide de n espiras circulares e comprimento L. O solenoide é conectado a um circuito C composto por uma fonte de tensão variável U e um resistor de resistência elétrica R. A tensão da fonte cresce linearmente com o tempo t, conforme a relação U = (U₀/t₀)·t, com U₀/t₀ > 0.\nA sonda é conectada a um voltímetro e orientada de modo que o eixo axial de suas espiras seja paralelo ao campo magnético. Considere que R é muito maior do que a resistência/impedância proporcionada pelo solenoide e que a permeabilidade magnética do interior do solenoide é µ₀.\nA magnitude da tensão medida pelo voltímetro é:",
+      "alternativas": {
+        "a": "(mnµ₀/2L)·πr²/R·(U₀/t₀)",
+        "b": "(3mnµ₀/2L)·πr²/R·(U₀/t₀)",
+        "c": "(mnµ₀/L)·πr²/R·(U₀/t₀)",
+        "d": "(2mnµ₀/L)·πr²/R·(U₀/t₀)",
+        "e": "(2nµ₀/L)·πr²/R·(U₀/t₀)"
+      },
+      "resposta": "c",
+      "explicacao": "A hipótese R ≫ impedância do solenoide serve para dizer que a corrente é ditada só pelo resistor: i = U/R = (U₀/t₀)t/R. O campo dentro do solenoide é B = µ₀ n i/L, e o fluxo pelas m espiras da sonda, de área πr² cada, é Φ = m·πr²·µ₀ n (U₀/t₀)t/(LR). Como tudo aí é constante menos t, a lei de Faraday dá simplesmente ε = dΦ/dt = m n µ₀ πr² (U₀/t₀)/(L R). Não há fatores ½ nem 2: eles apareceriam se o campo fosse o de meio solenoide ou se o fluxo fosse contado duas vezes. Em (e) o número m de espiras da sonda sumiu, embora seja ele que multiplica o fluxo captado."
+    },
+    {
+      "id": "fisica-10",
+      "banca": "ita",
+      "sessao": "ita-2024",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Um foguete de 700 m de comprimento se afasta de uma estação espacial a uma velocidade de 3×10³ km/s. Em cada extremo do foguete há um emissor de ondas de rádio que, para um observador no foguete, emitem pulsos simultâneos.\nDetermine o intervalo temporal entre as emissões dos sinais observado por um astronauta na estação espacial.",
+      "alternativas": {
+        "a": "1 ns",
+        "b": "4 ns",
+        "c": "20 ns",
+        "d": "1 µs",
+        "e": "2 µs"
+      },
+      "resposta": "c",
+      "explicacao": "É a relatividade da simultaneidade: dois eventos simultâneos e separados por uma distância L₀ no referencial próprio deixam de ser simultâneos em outro referencial, com Δt = γ·v·L₀/c². Aqui v = 3×10⁶ m/s, ou 0,01c, de modo que γ ≈ 1 e a dilatação temporal é desprezível — o efeito é todo da separação espacial. Assim Δt ≈ (3×10⁶ · 700)/(3×10⁸)² = 2,1×10⁹/9×10¹⁶ ≈ 2,3×10⁻⁸ s, isto é, cerca de 20 ns. Os valores em microssegundo saem de dividir o comprimento pela velocidade do foguete, que responderia outra pergunta: quanto tempo o foguete leva para percorrer o próprio comprimento."
     }
   ]
 }

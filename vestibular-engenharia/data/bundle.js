@@ -2863,6 +2863,120 @@ window.QUESTION_BANKS = {
    "explicacao": "No instante t as posições são A = (−200 + 10t, 0) e B = (0, 200 − 5t). O quadrado da distância é (10t − 200)² + (200 − 5t)² = 125t² − 6000t + 80 000. Como minimizar a distância equivale a minimizar o seu quadrado, basta o vértice da parábola: t = 6000/(2 × 125) = 24 segundos. O erro comum é procurar o instante em que as partículas cruzam os eixos (t = 20 para A e t = 40 para B) em vez de minimizar a distância entre elas.",
    "origem": "direito",
    "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-03",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Determine o valor de cos(2·arctg(4/3)) + sen(2·arctg(4/3)).",
+   "alternativas": {
+    "a": "17/25",
+    "b": "4/5",
+    "c": "24/25",
+    "d": "28/25",
+    "e": "31/25"
+   },
+   "resposta": "a",
+   "explicacao": "Chamando θ = arctg(4/3), o triângulo de catetos 3 e 4 tem hipotenusa 5, logo sen θ = 4/5 e cos θ = 3/5. Pelas fórmulas do arco duplo, cos 2θ = cos²θ − sen²θ = 9/25 − 16/25 = −7/25, e sen 2θ = 2 sen θ cos θ = 2·(4/5)(3/5) = 24/25. A soma é (−7 + 24)/25 = 17/25. O sinal negativo do cosseno é o ponto da questão: como tg θ = 4/3 > 1, o arco θ passa de 45° e o arco dobrado passa de 90°, onde o cosseno já é negativo. Quem soma 24/25 com +7/25 chega a 31/25, e quem usa só o seno para 24/25."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-07",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere um cilindro circular reto tal que a área da sua base A₁, a área da sua superfície lateral A₂ e o seu volume A₃ formem, nesta ordem, uma progressão geométrica crescente. A medida do raio da base pode estar no intervalo:",
+   "alternativas": {
+    "a": "(1, 5/4).",
+    "b": "(5/4, 3/2).",
+    "c": "(3/2, 7/4).",
+    "d": "(7/4, 2).",
+    "e": "(2, 5/2)."
+   },
+   "resposta": "e",
+   "explicacao": "Com A₁ = πr², A₂ = 2πrh e A₃ = πr²h, a condição de PG é A₂² = A₁·A₃: 4π²r²h² = πr²·πr²h, que simplifica para 4h = r², isto é, h = r²/4. Falta usar a palavra CRESCENTE, que é o que fecha a resposta. A razão da PG é q = A₂/A₁ = 2h/r e, substituindo h, q = r/2. Exigir q > 1 dá r > 2, e o único intervalo compatível é (2, 5/2). Quem para na relação h = r²/4 sem impor o crescimento não consegue escolher entre as cinco opções — todas satisfazem a PG, só uma satisfaz a razão maior que 1."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-08",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um poliedro convexo tem 24 vértices e 36 arestas. Sabemos que cada vértice une 3 faces e que o número de arestas em cada face só pode assumir um entre dois valores m ou n. É CORRETO afirmar que:",
+   "alternativas": {
+    "a": "é possível que m = 3 e n = 4.",
+    "b": "é possível que m = 3 e n = 5.",
+    "c": "é possível que m = 3 e n = 7.",
+    "d": "é possível que m = 3 e n = 8.",
+    "e": "é possível que m = 4 e n = 5."
+   },
+   "resposta": "d",
+   "explicacao": "Por Euler, F = 2 − V + A = 2 − 24 + 36 = 14 faces. Como cada aresta separa exatamente duas faces, a soma dos lados de todas as faces é 2A = 72. Sendo x faces de m lados e y de n lados, o sistema é x + y = 14 e mx + ny = 72. Testando as opções: (3, 4) exige y = 30; (3, 5), y = 15; (3, 7), y = 7,5; (4, 5), y = 16 — todos impossíveis, por excederem 14 faces ou não serem inteiros. Só (3, 8) fecha, com y = 6 e x = 8: oito triângulos e seis octógonos, que é exatamente o cubo truncado, com seus 24 vértices e 36 arestas."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-09",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere um triângulo ABC e M o ponto médio do lado BC. Tome o ponto R ≠ A na reta AB tal que m(AB) = m(BR) e o ponto Q na reta AC tal que m(AC) = 2·m(CQ) e Q não esteja no segmento AC. A reta RM corta o lado AC no ponto S e a reta QM corta o lado AB no ponto P. Sendo 24 a área do triângulo ABC, o valor da área do quadrilátero APMS vale:",
+   "alternativas": {
+    "a": "15.",
+    "b": "16.",
+    "c": "17.",
+    "d": "18.",
+    "e": "19."
+   },
+   "resposta": "c",
+   "explicacao": "Como a razão entre áreas não muda por transformação afim, dá para escolher o triângulo mais cômodo: A = (0,0), B = (1,0), C = (0,1), de área 1/2, e ajustar a escala no fim. Então M = (1/2, 1/2). O ponto R tem B como médio de AR, logo R = (2, 0); o ponto Q está além de C com CQ = AC/2, logo Q = (0, 3/2). A reta RM encontra o eixo AC em S = (0, 2/3), e a reta QM encontra AB em P = (3/4, 0). Pelo cálculo da área do quadrilátero A(0,0), P(3/4,0), M(1/2,1/2), S(0,2/3), obtém-se 17/48, que dividido pela área 1/2 do triângulo dá 17/24. Sobre 24, a área do quadrilátero é 17."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-11",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere o triângulo de vértices A = (0, 0), B = (√2, √3) e C = ((5/2)√2, 0).\nA equação da reta que passa por B e é perpendicular à bissetriz do ângulo ABC é:",
+   "alternativas": {
+    "a": "y = (5 − 2√6)x + 5√3 − 5√2.",
+    "b": "y = (5 + 2√6)x − 3√3 − 5√2.",
+    "c": "y = (5 − √6)x + 3√3 − 5√2.",
+    "d": "y = −(5 + 2√6)x + 5√3 + 5√2.",
+    "e": "y = (−5 + 2√6)x − 3√3 + 5√2."
+   },
+   "resposta": "a",
+   "explicacao": "A bissetriz de um ângulo tem a direção da SOMA dos vetores unitários dos dois lados — é aí que a questão se decide, porque somar os vetores sem normalizar dá outra reta. De B saem os vetores BA = (−√2, −√3), de módulo √5, e BC = (3√2/2, −√3), de módulo √(15/2). Os unitários são aproximadamente (−0,632; −0,775) e (0,775; −0,632), cuja soma, (0,142; −1,407), dá a direção da bissetriz. A perpendicular a ela tem coeficiente angular 1,407/0,142 ≈ 0,101, que é exatamente 5 − 2√6. Passando por B = (√2, √3), o coeficiente linear é √3 − (5 − 2√6)√2 = 5√3 − 5√2, o que fecha a alternativa (a)."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-12",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere a elipse dada pela equação λx² + (λ+4)y² − 4λx − (10λ+40)y + 25(λ+4) − λ² = 0, e o círculo de equação x² + y² − 4x − 12y + 36 = 0.\nEstando o interior do círculo inteiramente contido no interior da elipse, o valor de λ ∈ ℝ − {−4, 0} quando a excentricidade da elipse é máxima é igual a:",
+   "alternativas": {
+    "a": "3.",
+    "b": "5.",
+    "c": "9.",
+    "d": "13.",
+    "e": "15."
+   },
+   "resposta": "c",
+   "explicacao": "Completando quadrados, a elipse vira (x−2)²/(λ+4) + (y−5)²/λ = 1, de centro (2, 5), e o círculo vira (x−2)² + (y−6)² = 4, de centro (2, 6) e raio 2. Como λ + 4 > λ, o eixo maior é o horizontal e a excentricidade é e² = 1 − λ/(λ+4) = 4/(λ+4): ela cresce quando λ DIMINUI, de modo que a pergunta é qual o menor λ admissível. O círculo sobe até y = 8, e a elipse só alcança y = 5 + √λ, o que exige √λ ≥ 3, isto é, λ ≥ 9. Em λ = 9 o contato é de tangência interna no ponto (2, 8) e o resto do círculo fica dentro, então o mínimo é atingido e a resposta é 9. Valores maiores de λ cabem, mas achatam menos a elipse e baixam a excentricidade."
   }
  ],
  "matematica-financeira": [
@@ -9393,6 +9507,25 @@ window.QUESTION_BANKS = {
    "explicacao": "O padrão conjunto se repete a cada mmc(120, 180) = 360 segundos. Nesses 360 segundos o primeiro semáforo fica vermelho em [110,120), [230,240) e [350,360); o segundo, em [160,180) e [340,360). A única sobreposição é [350,360), ou seja, 10 segundos por ciclo de 360. Em 24 horas há 86 400/360 = 240 ciclos, e 240 × 10 = 2400 segundos = 40 minutos. Somar os tempos de vermelho de cada um sem procurar a interseção é o erro que leva às alternativas maiores.",
    "origem": "direito",
    "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-matematica-02",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Sejam A, B, C, D ∈ M_n(ℝ). Considere o sistema linear\nAX = B\nDX + Y = C\nnas variáveis X, Y ∈ M_n(ℝ). Considere as afirmações:\nI. Se det A = 0 ou det D = 0, então o sistema é impossível.\nII. Se A = B, então o sistema possui uma única solução.\nIII. O sistema possui uma única solução apenas se A e D são inversíveis.\nÉ (São) VERDADEIRA(S):",
+   "alternativas": {
+    "a": "apenas I.",
+    "b": "apenas II.",
+    "c": "apenas III.",
+    "d": "apenas II e III.",
+    "e": "nenhuma."
+   },
+   "resposta": "e",
+   "explicacao": "A segunda equação nunca é obstáculo: qualquer que seja X, ela apenas define Y = C − DX. Ou seja, todo o comportamento do sistema é decidido pela primeira equação, e D não tem papel algum — o que já derruba I e III. I também falha pelo lado de A: com det A = 0 o sistema pode ser possível e indeterminado (basta B estar na imagem de A), não impossível. II falha porque A = B garante a existência de uma solução, X = I, mas não a unicidade: se A é singular, X = I + N com AN = 0 também serve. III inverte a condição necessária correta — a unicidade exige A inversível, e não exige nada de D. Nenhuma das três se sustenta."
   }
  ],
  "matematica-probabilidade": [
@@ -11571,6 +11704,25 @@ window.QUESTION_BANKS = {
    "explicacao": "COMUM tem 5 letras com a letra M repetida duas vezes, logo 5!/2! = 60 anagramas ao todo. Tratando as duas letras M como um bloco único, restam 4 elementos distintos e 4! = 24 anagramas com os M juntos. Os que interessam são 60 − 24 = 36. Quem esquece de dividir por 2! usa 120 no lugar de 60 e chega a 96; quem conta só os anagramas com M juntos marca 24.",
    "origem": "direito",
    "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "eng-matematica-04",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere o conjunto A = {1, 2, 4, 8, 16, 32, 64, 128, 256}.\nQual o menor n ∈ ℕ tal que todo subconjunto de A com n elementos contenha pelo menos um par cujo produto seja 256?",
+   "alternativas": {
+    "a": "n = 5.",
+    "b": "n = 6.",
+    "c": "n = 7.",
+    "d": "n = 8.",
+    "e": "n = 9."
+   },
+   "resposta": "b",
+   "explicacao": "Como 256 = 2⁸, os pares de elementos distintos cujo produto é 256 são (1, 256), (2, 128), (4, 64) e (8, 32) — quatro pares disjuntos. O 16 fica de fora: 16 × 16 = 256, mas isso exigiria usar o mesmo elemento duas vezes, e o subconjunto não repete elementos. Pela casa dos pombos, a pergunta vira: qual o maior subconjunto SEM nenhum desses pares? Basta pegar um elemento de cada par (4 elementos) e mais o 16, que não estraga nada — 5 elementos. Com 6 elementos, os pombos não cabem mais nas 4 casas e algum par se fecha, logo n = 6. Responder 5 é confundir o tamanho do maior conjunto livre com o menor n que força o par."
   }
  ],
  "matematica-sequencias": [
@@ -13787,6 +13939,25 @@ window.QUESTION_BANKS = {
    "explicacao": "~q é verdadeira, pois q é falsa. p ∧ ~q: verdadeira e verdadeira, logo verdadeira. Numa disjunção, basta um lado ser verdadeiro para o todo ser verdadeiro — não importa que r seja falsa. A alternativa (b) erra a regra da disjunção, tratando-a como se fosse uma conjunção, em que todos os termos precisariam ser verdadeiros.",
    "formato": "direta",
    "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-matematica-01",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Sejam A, B, C ⊆ ℝ tais que C ⊆ A. Considere as afirmações:\nI. (A ∩ B) ∪ C = A ∩ (B ∪ C).\nII. A ∩ B = C ∪ (B ∩ (ℝ − C)).\nIII. A ∩ (B − C) = (A ∩ B) − C.\nÉ (São) VERDADEIRA(S):",
+   "alternativas": {
+    "a": "apenas I e II.",
+    "b": "apenas I e III.",
+    "c": "apenas II.",
+    "d": "apenas III.",
+    "e": "I, II e III."
+   },
+   "resposta": "b",
+   "explicacao": "A hipótese C ⊆ A é o que sustenta I: distribuindo, A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C), e como C está contido em A, A ∩ C = C, o que devolve exatamente o lado esquerdo. III é identidade de conjuntos e vale sempre, com ou sem a hipótese: tirar os elementos de C depois de interseccionar dá o mesmo que interseccionar com B − C. II é falsa, e um caso pequeno basta para derrubá-la: com A = C = {1} e B = ∅, o lado esquerdo é ∅ e o direito é C ∪ ∅ = {1}. O erro de II é supor que C esteja dentro de B, e não apenas dentro de A."
   }
  ],
  "matematica-complexos": [
@@ -14861,6 +15032,25 @@ window.QUESTION_BANKS = {
    "explicacao": "Em polinômios de coeficientes reais, as raízes complexas sempre aparecem em pares conjugados: se a+bi é raiz, a−bi também é. Aqui, o conjugado de 2+3i é 2−3i. A alternativa (e), −2+3i, troca o sinal da parte errada (a real em vez da imaginária) — não é o conjugado, é outro número diferente sem garantia nenhuma de ser raiz.",
    "formato": "direta",
    "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-complexos",
+   "id": "eng-matematica-10",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Sejam a = 1 + 3√3·i e b = 2√3 + 4i números complexos. O menor valor m ∈ ℕ tal que aᵐ = bᵐ é:",
+   "alternativas": {
+    "a": "6.",
+    "b": "8.",
+    "c": "10.",
+    "d": "12.",
+    "e": "não existe m ∈ ℕ satisfazendo esta igualdade."
+   },
+   "resposta": "d",
+   "explicacao": "A forma polar resolve. Os módulos são iguais: |a| = √(1 + 27) = √28 e |b| = √(12 + 16) = √28 — condição necessária, sem a qual nenhum expoente igualaria as potências. Resta o argumento: aᵐ = bᵐ exige m(θ_a − θ_b) múltiplo de 2π. Com tg θ_a = 3√3 e tg θ_b = 4/(2√3) = 2/√3, a tangente da diferença é (3√3 − 2/√3)/(1 + 3√3·2/√3) = (7/√3)/7 = 1/√3, ou seja, a diferença é exatamente 30°. Daí 30m tem de ser múltiplo de 360, e o menor natural é m = 12. A alternativa (e) é a armadilha de quem confere só que a ≠ b."
   }
  ],
  "matematica-polinomios": [
@@ -15919,6 +16109,44 @@ window.QUESTION_BANKS = {
    "explicacao": "Se p(x) = (x−a)²·q(x), substituindo x=a: p(a) = (a−a)²·q(a) = 0·q(a) = 0 — a é raiz, garantido diretamente pela fatoração. A alternativa (b) contraria a própria definição dada no enunciado, que já estabelece q(a)≠0: se q também tivesse a como raiz, a multiplicidade de a em p(x) seria maior que 2, não igual a 2.",
    "formato": "direta",
    "origem": "engenharia"
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-matematica-05",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere o conjunto C = {1, 2, 3, 4, 5}. Para cada escolha possível de a₀, a₁, a₂, a₃, a₄ ∈ C, dois a dois distintos, formamos o polinômio a₀ + a₁x + a₂x² + a₃x³ + a₄x⁴.\nA soma das raízes, contadas com multiplicidade, de todos os polinômios formados nesse processo é igual a:",
+   "alternativas": {
+    "a": "−17125/4",
+    "b": "−1800",
+    "c": "−360",
+    "d": "−351/2",
+    "e": "−101/4"
+   },
+   "resposta": "d",
+   "explicacao": "Por Girard, cada polinômio tem soma de raízes igual a −a₃/a₄ — os demais coeficientes não importam. São 5! = 120 polinômios; fixado o par ordenado (a₃, a₄) de valores distintos, os três coeficientes restantes se distribuem de 3! = 6 maneiras. A soma total é então −6·Σ_{i≠j} i/j, com i, j ∈ {1,...,5}. Agrupando por denominador, Σ_{i≠j} i/j = Σ_j (15 − j)/j = 15·(1 + 1/2 + 1/3 + 1/4 + 1/5) − 5 = 15·(137/60) − 5 = 137/4 − 5 = 117/4. Logo o total é −6·117/4 = −351/2. O 15 é a soma de 1 a 5, e o −5 desconta os casos i = j, que não existem porque os coeficientes são distintos."
+  },
+  {
+   "subtema": "matematica-polinomios",
+   "id": "eng-matematica-06",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "O valor de k ∈ ℝ de modo que as raízes do polinômio p(x) = x³ + 3x² − 6x + k estejam em progressão geométrica é:",
+   "alternativas": {
+    "a": "−18.",
+    "b": "−16.",
+    "c": "−8.",
+    "d": "−2.",
+    "e": "−1."
+   },
+   "resposta": "c",
+   "explicacao": "Escrever as três raízes em PG como a/q, a e aq é o que faz a conta sair sem resolver a cúbica. Por Girard, a soma das raízes é a(1/q + 1 + q) = −3 e a soma dos produtos dois a dois é a²(1/q + 1 + q) = −6. Dividindo a segunda pela primeira, o fator (1/q + 1 + q) se cancela e sobra a = −6/−3 = 2 — ou seja, a raiz do meio da PG é 2, e de fato p(2) = 8 + 12 − 12 + k = 8 + k. O produto das raízes é a³ = 8 e, por Girard, vale −k. Logo k = −8. Escrever as raízes como a, aq, aq² em vez de a/q, a, aq faz o cancelamento não acontecer e a questão vira um sistema desnecessário."
   }
  ],
  "fisica-termologia": [
@@ -17109,6 +17337,25 @@ window.QUESTION_BANKS = {
    "explicacao": "Na dilatação linear, ΔL = L₀ · α · ΔT. Com L₀ = 20 m, α = 1,2 × 10⁻⁵ °C⁻¹ e ΔT = 50 − 10 = 40 °C, tem-se ΔL = 20 × 1,2 × 10⁻⁵ × 40 = 9,6 × 10⁻³ m, isto é, 9,6 mm. É por isso que se deixa folga entre trilhos consecutivos.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "eng-fisica-05",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um professor montou um experimento com dois pêndulos simples, com fios de mesmo comprimento. Os pêndulos se mantiveram perfeitamente síncronos, cada qual com período de 2 s, em um dia cuja temperatura local era de 10 °C. Num outro dia, passados alguns minutos, notou-se que os pêndulos perdiam a sincronicidade. O professor associou tal fenômeno à variação de temperatura local, já que o termômetro do laboratório marcava 30 °C naquele dia e que o coeficiente de dilatação térmica dos fios era de α₁ = 2×10⁻⁵ °C⁻¹ e α₂ = 7×10⁻⁵ °C⁻¹.\nAssinale a alternativa que contém a melhor estimativa do intervalo de tempo entre o início do movimento e o instante em que os pêndulos apresentaram uma defasagem de meio ciclo pela primeira vez.",
+   "alternativas": {
+    "a": "17 min",
+    "b": "33 min",
+    "c": "40 min",
+    "d": "66 min",
+    "e": "80 min"
+   },
+   "resposta": "b",
+   "explicacao": "O período do pêndulo simples é T = 2π√(L/g), e a raiz faz a dilatação entrar pela metade: T' ≈ T(1 + ½αΔθ). Com ΔΘ = 20 °C, a diferença entre os dois períodos é ΔT = T·½·Δθ·(α₂ − α₁) = 2·½·20·(7 − 2)×10⁻⁵ = 1×10⁻³ s por oscilação. Meio ciclo de defasagem significa acumular T/2 = 1 s de atraso, o que exige 1/10⁻³ = 1000 oscilações. Como cada uma dura cerca de 2 s, são 2000 s ≈ 33 min. O erro que leva a 66 min é exigir um ciclo inteiro de defasagem em vez de meio; o que leva a 17 min é esquecer o fator ½ da raiz."
   }
  ],
  "fisica-mecanica": [
@@ -19101,6 +19348,97 @@ window.QUESTION_BANKS = {
    "explicacao": "E = Δm·c² = 3,6×10⁻²⁸ × (3,0×10⁸)² = 3,6×10⁻²⁸ × 9,0×10¹⁶ = 3,24×10⁻¹¹ J. A alternativa (e) esquece completamente de multiplicar por c², repetindo o próprio Δm como se fosse a energia. A (a) multiplica por c em vez de c² (só uma potência, não duas).",
    "formato": "direta",
    "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "eng-fisica-01",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/ita-2024-q01.png",
+    "descricao": "Três curvas de calibração. Na primeira, a leitura E_t cresce linearmente com o tempo, de 0 a 5 contagens enquanto o tempo vai de 0 a 10 s. Na segunda, E_c DECRESCE linearmente com o comprimento, de 10 contagens em 0 cm até 0 contagem em 10 cm. Na terceira, E_m cresce com a massa segundo uma curva côncava para cima, de 0 a 10 contagens enquanto a massa vai de 0 a 10 g — em 3 contagens a massa é de cerca de 5 g."
+   },
+   "enunciado": "Em um centro de pesquisa foram desenvolvidos três equipamentos para medições de tempo, comprimento e massa, cujas leituras são E_t, E_c, E_m, respectivamente. As curvas de calibração de cada equipamento estão apresentadas na figura. Esses equipamentos foram utilizados para medir o movimento retilíneo uniforme de uma partícula pontual. A medição da massa indicou leitura de 3 contagens, e a medição do movimento mostrou que ele percorreu uma distância entre as posições indicadas pelas contagens 6 e 2, em um intervalo de tempo de 0 a 1 contagens.\nPode-se afirmar que a energia cinética da partícula é:",
+   "alternativas": {
+    "a": "20 J.",
+    "b": "10 J.",
+    "c": "2,0 µJ.",
+    "d": "1,0 µJ.",
+    "e": "0,75 µJ."
+   },
+   "resposta": "d",
+   "explicacao": "Cada grandeza sai da sua própria curva. Na régua de comprimento, 10 contagens valem 10 cm, então 1 contagem vale 1 cm e o deslocamento entre as contagens 6 e 2 é de 4 cm, ou 0,04 m. Na régua de tempo, 5 contagens valem 10 s, então 1 contagem vale 2 s. A velocidade do movimento uniforme é 0,04/2 = 0,02 m/s. A massa é a única leitura que não pode ser convertida por regra de três: a curva dela é não linear, e 3 contagens correspondem a 5 g, ou 5×10⁻³ kg. Daí Ec = ½mv² = ½·5×10⁻³·(2×10⁻²)² = 1,0×10⁻⁶ J = 1,0 µJ. As opções em joule vêm de tratar as contagens como se fossem já as grandezas em unidades do SI."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "eng-fisica-02",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "visual": {
+    "tipo": "Esquema",
+    "arquivo": "assets/provas/ita-2024-q02.png",
+    "descricao": "Corte de um recinto fechado. No teto, a uma altura H do solo, está presa uma fonte luminosa. No chão, a uma distância 2a da parede da esquerda, há um objeto de altura h. A fonte cai em linha reta e atinge o solo a uma distância 3a da mesma parede."
+   },
+   "enunciado": "Uma fonte luminosa está presa ao teto de um recinto fechado, a uma altura H do solo. No recinto há um objeto de altura h (h < H/2) a uma distância 2a de uma das paredes. A lâmpada desprende-se, iniciando um movimento de queda livre, e atinge o solo a uma distância 3a da parede. Considere que o efeito de reflexão de luz nas paredes é desprezível e que a fonte de luz é pontual.\nAssinale a alternativa que apresenta a expressão correta do módulo da velocidade da sombra a partir do instante em que esta começa a ser projetada sobre a parede.",
+   "alternativas": {
+    "a": "√(2g(H − 3h/2))",
+    "b": "√(2g(H − h))",
+    "c": "(1/2)·√(2g(H − 3h/2))",
+    "d": "2·√(2g(H − 3h/2))",
+    "e": "2·√(2g(H − h))"
+   },
+   "resposta": "d",
+   "explicacao": "Com a parede em x = 0, o objeto ocupa x = 2a com altura h e a fonte cai sobre x = 3a, numa altura y. O raio que passa pelo topo do objeto vai de (3a, y) a (2a, h); para chegar de x = 3a até x = 0 o deslocamento horizontal triplica, e a altura da sombra na parede é Y = y + 3(h − y) = 3h − 2y. A sombra começa a ser projetada quando Y = 0, isto é, quando a fonte passa por y = 3h/2 — já tendo caído H − 3h/2 e, portanto, com velocidade √(2g(H − 3h/2)). Derivando Y no tempo, dY/dt = −2·dy/dt: a sombra sobe com o DOBRO da velocidade da lâmpada, o que dá 2√(2g(H − 3h/2)). A alternativa (a) esquece esse fator 2, e as que trazem H − h ignoram que a projeção só começa quando a fonte chega a 3h/2, não a h."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "eng-fisica-03",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "visual": {
+    "tipo": "Esquema",
+    "arquivo": "assets/provas/ita-2024-q03.png",
+    "descricao": "Esfera de raio R com uma cavidade esférica interna de raio R/2, que tangencia a esfera por dentro no ápice A. Os dois centros de curvatura e o ponto A estão na mesma vertical, que desce até o ponto S no solo, a uma altura H = 15R abaixo de A."
+   },
+   "enunciado": "Uma esfera de raio R possui uma cavidade esférica interna de raio R/2. A cavidade tangencia internamente a esfera no seu ápice A, que está a uma altura H = 15R do ponto S, localizado no solo verticalmente abaixo. Os dois centros de curvatura e o ponto A se encontram na linha vertical que passa por S. A esfera é então abandonada de seu repouso em queda livre, atinge o solo em S e inverte seu movimento.\nConsiderando que a distribuição de massa é homogênea na região sólida do objeto e que o coeficiente de restituição da colisão é 0,80, a altura máxima alcançada pelo centro de massa da esfera após a colisão é aproximadamente igual a:",
+   "alternativas": {
+    "a": "7,7R.",
+    "b": "8,5R.",
+    "c": "9,3R.",
+    "d": "10,1R.",
+    "e": "10,9R."
+   },
+   "resposta": "c",
+   "explicacao": "A cavidade se trata como massa negativa. Se M é a massa da esfera cheia, a cavidade de raio R/2 vale M/8, e o corpo tem 7M/8. Com o centro O da esfera na origem, o centro da cavidade fica em +R/2 (ela tangencia o ápice A, que está em +R), então o centro de massa está em (0 − (M/8)(R/2))/(7M/8) = −R/14, ou seja, R/14 ABAIXO de O. A queda não é de 15R: o ápice está a 15R do solo, logo o ponto mais baixo da esfera está a 13R, e é essa a altura percorrida até o choque. A velocidade de chegada é √(2g·13R) e a de saída, 0,80 dela, o que devolve 0,64·13R = 8,32R de altura de subida. No instante do choque o centro de massa está a R − R/14 = 13R/14 ≈ 0,93R do solo, e a altura máxima fica em 0,93R + 8,32R ≈ 9,3R. Usar 15R como altura de queda, ou colocar o centro de massa em O, leva às demais opções."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "eng-fisica-04",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Sejam duas bases de lançamento de foguete. A primeira localizada em uma cidade no equador terrestre e a segunda na latitude 60°.\nAssinale a alternativa que corresponde à melhor estimativa da razão entre os impulsos necessários para que um foguete seja lançado ao espaço partindo da primeira base e da segunda base.",
+   "alternativas": {
+    "a": "1,08",
+    "b": "0,98",
+    "c": "0,87",
+    "d": "0,76",
+    "e": "0,68"
+   },
+   "resposta": "b",
+   "explicacao": "A rotação da Terra já entrega parte da velocidade, e entrega mais perto do equador: em latitude φ, a velocidade de arraste é ωR·cos φ. Com ω = 2π/86400 s⁻¹ e R = 6,4×10⁶ m, isso dá cerca de 465 m/s no equador e metade disso, 232 m/s, a 60°. A velocidade de escape é v = √(2GM/R) = √(2·6,7×10⁻¹¹·6,0×10²⁴/6,4×10⁶) ≈ 11,2 km/s. Como o impulso é proporcional ao ganho de velocidade que ainda falta, a razão é (11200 − 465)/(11200 − 232) ≈ 10735/10968 ≈ 0,98. O valor é próximo de 1 justamente porque a ajuda da rotação é pequena diante da velocidade de escape — quem espera um ganho grande escolhe 0,87 ou 0,68."
   }
  ],
  "fisica-ondas-optica": [
@@ -20713,6 +21051,49 @@ window.QUESTION_BANKS = {
    "explicacao": "A energia cinética máxima de cada elétron ejetado depende só da frequência da luz (Ec=hf−φ), não da intensidade: dobrar a intensidade significa dobrar o número de fótons por segundo, cada um com a mesma energia individual de antes. Mais fótons chegando por segundo ejetam mais elétrons por segundo (a corrente fotoelétrica dobra), mas a energia de cada elétron ejetado continua igual. A alternativa (b) inverte a relação correta: é a frequência, não a intensidade, que controla a energia cinética.",
    "formato": "direta",
    "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "eng-fisica-06",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um microscópio óptico, formado por duas lentes convergentes, é utilizado para observar uma amostra biológica em laboratório. A lente objetiva tem uma distância focal de 5 mm, enquanto a ocular tem uma distância focal de 70 mm. A distância entre a objetiva e a ocular é ajustada para 190 mm.\nSabendo que a amostra encontra-se a 5,2 mm da lente objetiva, assinale a alternativa que contém o módulo do aumento linear do microscópio descrito.",
+   "alternativas": {
+    "a": "7",
+    "b": "14",
+    "c": "25",
+    "d": "75",
+    "e": "175"
+   },
+   "resposta": "e",
+   "explicacao": "O aumento do microscópio é o produto dos aumentos das duas lentes. Na objetiva, 1/v = 1/5 − 1/5,2 dá v = 130 mm, e o aumento é v/o = 130/5,2 = 25. Essa imagem se forma a 130 mm da objetiva, logo a 190 − 130 = 60 mm da ocular — dentro da distância focal dela (70 mm), que é como a ocular deve trabalhar, funcionando como lupa. Aí 1/v = 1/70 − 1/60 dá v = −420 mm (imagem virtual) e aumento 420/60 = 7. O total é 25 × 7 = 175. As opções 25 e 7 são cada uma das etapas isoladas, e 75 troca o produto por uma conta com os focos."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "eng-fisica-07",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "visual": {
+    "tipo": "Esquema",
+    "arquivo": "assets/provas/ita-2024-q08.png",
+    "descricao": "Montagem da dupla fenda de Young: uma frente de onda incide sobre um anteparo com duas fendas separadas por a. Na saída de uma das fendas há uma lente de material de índice de refração n, com formato de semicírculo de raio R. A figura de interferência se forma num anteparo a uma distância L, muito maior que a."
+   },
+   "enunciado": "Considere que no experimento de Young da dupla fenda, uma lente, composta de um material com índice de refração n (1 < n < 2), no formato de um semicírculo de raio R, é colocada na saída de uma das fendas.\nSabendo que o comprimento de onda λ é maior que R e que a distância entre o anteparo e as fendas, L, é muito maior do que λ, assinale a alternativa que corresponde à expressão da posição x_m do m-ésimo pico do padrão de interferência acima do máximo central.",
+   "alternativas": {
+    "a": "(λm + (n−1)R)·(L/a)",
+    "b": "(λm − nR)·(L/a)",
+    "c": "λm·(L/a) + (n−1)R",
+    "d": "(λm + nR)·(L/a)",
+    "e": "(λm − nR)·(L/2a)"
+   },
+   "resposta": "a",
+   "explicacao": "Sem a lente, o máximo de ordem m sai de a·x/L = mλ. A lente acrescenta caminho ÓPTICO, não geométrico: atravessar uma espessura R de material de índice n em vez de ar custa (n − 1)R a mais. Como ela está na fenda cuja frente já era a atrasada, a condição de máximo vira a·x/L − (n − 1)R = mλ, e daí x_m = (λm + (n−1)R)·(L/a). Os distratores com nR esquecem que só a DIFERENÇA em relação ao ar conta — em n = 1 a expressão tem de recair no caso sem lente, teste que só a alternativa (a) passa. Em (c) o termo da lente aparece fora do fator L/a, isto é, sem ser convertido de diferença de caminho para posição no anteparo."
   }
  ],
  "fisica-eletromagnetismo": [
@@ -21898,6 +22279,44 @@ window.QUESTION_BANKS = {
    "explicacao": "A economia de potência é 90−15=75W; em 4 horas de uso, a energia economizada é 75×4=300 Wh=0,30 kWh.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "eng-fisica-08",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Ao redor de uma carga elétrica Q, localizada no ponto (0, R/2), existe uma casca metálica aterrada de raio R e com centro localizado na origem do sistema de coordenadas.\nA respeito dessa situação física, são feitas as seguintes afirmações:\nI. O campo elétrico no exterior da casca metálica é nulo.\nII. A carga elétrica induzida na casca metálica é igual a −Q.\nIII. O campo elétrico no ponto (0, 3R/4) é mais intenso do que o campo elétrico no ponto (0, R/4).\nAssinale a alternativa que contém todas as afirmações corretas com respeito ao sistema descrito.",
+   "alternativas": {
+    "a": "I",
+    "b": "I e II",
+    "c": "I e III",
+    "d": "II e III",
+    "e": "I, II e III"
+   },
+   "resposta": "e",
+   "explicacao": "I é o efeito do aterramento: a casca condutora blinda o exterior, e o campo fora dela é nulo mesmo com a carga descentrada. II segue de I por Gauss — para o campo se anular fora, a carga total envolvida tem de ser zero, o que exige carga induzida −Q. III é a parte que exige conta: os dois pontos estão à MESMA distância R/4 da carga, então a contribuição de Q tem o mesmo módulo nos dois. O desempate vem da carga induzida, que se concentra na parte da casca mais próxima de Q, ou seja, acima. Pelo método da carga imagem (q' = −2Q em (0, 2R)), em (0, 3R/4) as duas contribuições apontam para cima e se somam; em (0, R/4) elas se opõem. Logo o campo é mais intenso em 3R/4, e as três afirmações valem."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "eng-fisica-09",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Uma sonda composta por um conjunto de m espiras de raio r é colocada no interior de um solenoide de n espiras circulares e comprimento L. O solenoide é conectado a um circuito C composto por uma fonte de tensão variável U e um resistor de resistência elétrica R. A tensão da fonte cresce linearmente com o tempo t, conforme a relação U = (U₀/t₀)·t, com U₀/t₀ > 0.\nA sonda é conectada a um voltímetro e orientada de modo que o eixo axial de suas espiras seja paralelo ao campo magnético. Considere que R é muito maior do que a resistência/impedância proporcionada pelo solenoide e que a permeabilidade magnética do interior do solenoide é µ₀.\nA magnitude da tensão medida pelo voltímetro é:",
+   "alternativas": {
+    "a": "(mnµ₀/2L)·πr²/R·(U₀/t₀)",
+    "b": "(3mnµ₀/2L)·πr²/R·(U₀/t₀)",
+    "c": "(mnµ₀/L)·πr²/R·(U₀/t₀)",
+    "d": "(2mnµ₀/L)·πr²/R·(U₀/t₀)",
+    "e": "(2nµ₀/L)·πr²/R·(U₀/t₀)"
+   },
+   "resposta": "c",
+   "explicacao": "A hipótese R ≫ impedância do solenoide serve para dizer que a corrente é ditada só pelo resistor: i = U/R = (U₀/t₀)t/R. O campo dentro do solenoide é B = µ₀ n i/L, e o fluxo pelas m espiras da sonda, de área πr² cada, é Φ = m·πr²·µ₀ n (U₀/t₀)t/(LR). Como tudo aí é constante menos t, a lei de Faraday dá simplesmente ε = dΦ/dt = m n µ₀ πr² (U₀/t₀)/(L R). Não há fatores ½ nem 2: eles apareceriam se o campo fosse o de meio solenoide ou se o fluxo fosse contado duas vezes. Em (e) o número m de espiras da sonda sumiu, embora seja ele que multiplica o fluxo captado."
   }
  ],
  "fisica-hidrostatica": [
@@ -25340,6 +25759,25 @@ window.QUESTION_BANKS = {
    "explicacao": "A equivalência E=mc² revela que massa e energia são duas manifestações de uma mesma grandeza conservada: massa \"desaparecida\" reaparece como energia liberada (cinética dos fragmentos, radiação), e a soma massa+energia (numa contabilidade unificada) se conserva. Não há violação da conservação de energia — é justamente a extensão da lei de conservação para incluir a massa como forma de energia que a relatividade introduz. A alternativa (b) aplica a visão pré-relativística, em que massa e energia eram conservadas separadamente.",
    "formato": "direta",
    "origem": "engenharia"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "eng-fisica-10",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um foguete de 700 m de comprimento se afasta de uma estação espacial a uma velocidade de 3×10³ km/s. Em cada extremo do foguete há um emissor de ondas de rádio que, para um observador no foguete, emitem pulsos simultâneos.\nDetermine o intervalo temporal entre as emissões dos sinais observado por um astronauta na estação espacial.",
+   "alternativas": {
+    "a": "1 ns",
+    "b": "4 ns",
+    "c": "20 ns",
+    "d": "1 µs",
+    "e": "2 µs"
+   },
+   "resposta": "c",
+   "explicacao": "É a relatividade da simultaneidade: dois eventos simultâneos e separados por uma distância L₀ no referencial próprio deixam de ser simultâneos em outro referencial, com Δt = γ·v·L₀/c². Aqui v = 3×10⁶ m/s, ou 0,01c, de modo que γ ≈ 1 e a dilatação temporal é desprezível — o efeito é todo da separação espacial. Assim Δt ≈ (3×10⁶ · 700)/(3×10⁸)² = 2,1×10⁹/9×10¹⁶ ≈ 2,3×10⁻⁸ s, isto é, cerca de 20 ns. Os valores em microssegundo saem de dividir o comprimento pela velocidade do foguete, que responderia outra pergunta: quanto tempo o foguete leva para percorrer o próprio comprimento."
   }
  ],
  "quimica-eletroquimica": [
@@ -26636,6 +27074,25 @@ window.QUESTION_BANKS = {
    "explicacao": "O cloreto é um ânion, migra para o ânodo e ali perde elétrons: é oxidação, com formação de gás cloro. No cátodo a água sofre redução e libera gás hidrogênio. O cloro dissolvido forma as espécies que desinfetam a água, e o cloreto acaba regenerado, o que explica por que o sal quase não precisa ser reposto.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "eng-quimica-11",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere as afirmações relacionadas a células eletroquímicas.\nI. O potencial padrão de uma célula eletroquímica é diretamente proporcional à variação de energia livre de Gibbs padrão da reação envolvida e inversamente proporcional à sua constante de equilíbrio.\nII. Dado que os valores de potencial padrão do eletrodo de cobre e do calomelano saturado em relação ao eletrodo padrão de hidrogênio são, respectivamente, 0,34 V e 0,24 V, o potencial do eletrodo de cobre em relação ao eletrodo de calomelano saturado será 0,10 V.\nIII. Os potenciais padrão de eletrodo não são valores absolutos de semicélulas, mas sim diferenças de potencial entre semicélulas.\nIV. O catodo de uma célula galvânica torna-se o anodo quando essa célula passa a operar como célula eletrolítica, embora a redução sempre ocorra no catodo da célula e a oxidação sempre ocorra no anodo.\nAssinale a opção que contém as afirmações CORRETAS.",
+   "alternativas": {
+    "a": "Apenas I e II.",
+    "b": "Apenas I, II e IV.",
+    "c": "Apenas I e III.",
+    "d": "Apenas II, III e IV.",
+    "e": "Apenas III e IV."
+   },
+   "resposta": "d",
+   "explicacao": "I é a única errada, e erra nas duas metades: ΔG° = −nFE° é uma proporcionalidade INVERSA no sinal, e E° cresce com o logaritmo de K (E° = RT ln K/nF), não decresce. II é aritmética de referência: mudando o eletrodo de referência do hidrogênio para o calomelano, subtrai-se 0,24 de 0,34, dando 0,10 V. III diz o que o próprio zero convencionado do eletrodo de hidrogênio significa — não existe potencial absoluto de meia-célula, só diferença. IV descreve o que acontece ao recarregar uma pilha: o eletrodo troca de papel, mas as definições não mudam de lugar, porque catodo é por definição onde ocorre redução, e anodo onde ocorre oxidação."
   }
  ],
  "quimica-atomistica-ligacoes": [
@@ -27828,6 +28285,63 @@ window.QUESTION_BANKS = {
    "explicacao": "A polaridade de uma partícula depende da geometria, e não só da diferença de eletronegatividade. No CO₂ o átomo central não tem par de elétrons livre e o arranjo é linear: os dois vetores têm mesma intensidade e sentidos opostos, e a resultante é nula. No SO₂ o par livre sobre o enxofre torna o arranjo angular, e a resultante deixa de ser nula.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "eng-quimica-02",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere as seguintes afirmações relacionadas ao ciclo do nitrogênio.\nI. As principais formas de obtenção de compostos nitrogenados incluem a biológica por bactérias, a industrial por meio do processo Haber-Bosch e a atmosférica por descargas elétricas.\nII. A nitrificação é um processo de duas etapas no qual a amônia é convertida em nitrato por bactérias no solo: primeiro a amônia é oxidada a nitrito e, em seguida, o nitrito é oxidado a nitrato.\nIII. A desnitrificação é o processo pelo qual o nitrato é convertido novamente em nitrogênio atmosférico por bactérias desnitrificantes, processo que ocorre preferencialmente em condições de alto teor de oxigênio.\nIV. As plantas contribuem para o ciclo do nitrogênio fixando o nitrogênio atmosférico por meio de relações simbióticas com bactérias fixadoras de nitrogênio.\nV. O ciclo do nitrogênio consiste em várias etapas interconectadas, tais como: fixação, nitrificação, desnitrificação e amonificação.\nDas afirmações acima, estão CORRETAS",
+   "alternativas": {
+    "a": "apenas I, II e IV.",
+    "b": "apenas I, III e V.",
+    "c": "apenas I, II, IV e V.",
+    "d": "apenas II, III e IV.",
+    "e": "todas."
+   },
+   "resposta": "c",
+   "explicacao": "Só III está errada, e o erro é uma palavra: a desnitrificação de fato devolve o nitrato à atmosfera como N₂, mas ocorre em ambiente ANAERÓBIO, não em alto teor de oxigênio. A razão é que as bactérias desnitrificantes usam o nitrato como aceptor final de elétrons justamente quando falta oxigênio — havendo O₂ disponível, elas respiram O₂ e a desnitrificação para. É por isso que ela é típica de solos encharcados e sedimentos alagados. As demais descrevem corretamente as três vias de fixação (I), as duas etapas da nitrificação via nitrito (II), a simbiose das leguminosas com rizóbios (IV) e o encadeamento geral do ciclo (V)."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "eng-quimica-04",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "As afirmações a seguir relacionam processos físico-químicos que podem ser interpretados utilizando diferentes modelos atômicos e representados por meio de uma equação química.\nI. O modelo de Bohr contém o arcabouço teórico minimamente necessário para representar uma equação do tipo: γ + H(g) → H*(g), em que H* representa o estado eletrônico excitado do H.\nII. O modelo de Dalton contém o arcabouço teórico minimamente necessário para representar uma equação do tipo: 12 Fe(s) + C(s) → Fe₁₂C(s).\nIII. O modelo de Rutherford contém o arcabouço teórico minimamente necessário para representar uma equação do tipo: ⁴₂He²⁺ + Au → ⁴₂He²⁺ + Au.\nIV. O modelo de Thomson contém o arcabouço teórico minimamente necessário para representar uma equação do tipo: 2H⁺ + 2e⁻ ⇌ H₂.\nAssinale a opção que contém a(s) afirmação(ões) CORRETA(S) sobre a relação entre os modelos atômicos e as equações químicas mostradas.",
+   "alternativas": {
+    "a": "Apenas I.",
+    "b": "Apenas I, II e III.",
+    "c": "Apenas II e IV.",
+    "d": "Apenas III e IV.",
+    "e": "Todas as afirmações."
+   },
+   "resposta": "e",
+   "explicacao": "A palavra que organiza a questão é MINIMAMENTE: para cada equação, pergunta-se qual o modelo mais simples que ainda dá conta dela. Absorver um fóton e passar a um estado excitado exige níveis discretos de energia, que é a contribuição de Bohr (I). Uma combinação em proporção fixa de átomos indivisíveis é exatamente o que Dalton propõe, sem precisar de estrutura interna (II). O espalhamento elástico de uma partícula alfa por um núcleo é o próprio experimento de Rutherford (III). E a formação de H₂ a partir de prótons e elétrons só requer que existam cargas positivas e negativas dentro da matéria, que é o que Thomson estabeleceu (IV). As quatro associações se sustentam."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "eng-quimica-07",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere as seguintes afirmações relacionadas à ocorrência ou não de reações químicas em condições ambientes.\nI. Ao borbulhar gás cloro em uma solução aquosa de iodeto de sódio, haverá a formação de um sólido.\nII. Ao borbulhar gás cloro em uma solução aquosa e incolor de brometo de sódio, a solução se tornará ligeiramente marrom.\nIII. Ao adicionar uma solução aquosa de iodeto de sódio a uma solução aquosa de cloreto de potássio, haverá a formação de um gás.\nIV. Ao adicionar bromo líquido a uma solução aquosa de fluoreto de sódio, haverá formação de um gás.\nV. Ao adicionar bromo líquido a uma solução aquosa de iodeto de sódio, haverá formação de um sólido.\nDas afirmações acima, estão CORRETAS",
+   "alternativas": {
+    "a": "apenas I, II e V.",
+    "b": "apenas I e IV.",
+    "c": "apenas II e III.",
+    "d": "apenas II, III e V.",
+    "e": "apenas III e IV."
+   },
+   "resposta": "a",
+   "explicacao": "Tudo se decide pela ordem de reatividade dos halogênios, F > Cl > Br > I: um halogênio só desloca o de baixo. I e V dão certo e produzem iodo, que é sólido em condições ambientes — daí a formação de sólido. II também ocorre: o cloro desloca o brometo e o bromo liberado tinge a solução de castanho. III não acontece, porque o iodeto não desloca o cloreto, que está ACIMA dele; e mesmo que houvesse reação, não sairia gás nenhum. IV também não: o bromo não desloca o fluoreto, o halogênio mais reativo de todos. Reparar no estado físico do produto é o que separa I e V (sólido) de II (solução colorida)."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -29004,6 +29518,44 @@ window.QUESTION_BANKS = {
    "explicacao": "A saída acelerada de CO₂ retira um participante do lado esquerdo. Pelo princípio de Le Chatelier, o sistema desloca o equilíbrio no sentido de repor o que foi retirado, consumindo H⁺ e HCO₃⁻. Com menos H⁺ livre, o pH sobe — é a alcalose respiratória. A constante de equilíbrio só muda com a temperatura.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "eng-quimica-06",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "São feitas comparações entre os valores do pKa de compostos orgânicos, em que Ka é a primeira constante de ionização.\nI. Ácido metanoico > ácido etanodioico.\nII. Ácido propanodioico > ácido etanodioico.\nIII. Ácido 2-cloro etanoico > ácido 4-cloro butanoico.\nIV. Ácido 2-trifluor etanoico > ácido 2-tricloro etanoico.\nAssinale a opção que apresenta as comparações CORRETAS.",
+   "alternativas": {
+    "a": "Apenas I e II.",
+    "b": "Apenas I e III.",
+    "c": "Apenas II e III.",
+    "d": "Apenas II e IV.",
+    "e": "Apenas III e IV."
+   },
+   "resposta": "a",
+   "explicacao": "Como pKa MAIOR significa ácido mais FRACO, cada item pede a comparação invertida em relação à força. I: o ácido fórmico (pKa ≈ 3,7) é mais fraco que o oxálico (pKa₁ ≈ 1,3), que tem a segunda carboxila retirando elétrons — correta. II: o malônico (pKa₁ ≈ 2,8) é mais fraco que o oxálico, porque nele o CH₂ afasta as duas carboxilas e enfraquece o efeito indutivo — correta. III é falsa: o cloro no carbono 2 está colado à carboxila e acidifica muito mais que um cloro no carbono 4, logo o ácido cloroacético tem pKa MENOR, não maior. IV é falsa pelo mesmo raciocínio de eletronegatividade: o flúor puxa elétrons mais que o cloro, então o trifluoracético é o mais forte e tem o menor pKa."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "eng-quimica-08",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere 1 L de solução aquosa preparada por meio da adição de 1 mol de um ácido monoprótico hipotético, 1 mol de sua base conjugada e 0,82 mol de uma base forte. Sabendo que a constante de ionização do ácido é igual a 10⁻⁴, assinale a alternativa que melhor representa o pH da solução resultante.",
+   "alternativas": {
+    "a": "4.",
+    "b": "5.",
+    "c": "6.",
+    "d": "7.",
+    "e": "8."
+   },
+   "resposta": "b",
+   "explicacao": "É um tampão, e a base forte age antes do equilíbrio: os 0,82 mol de OH⁻ consomem 0,82 mol do ácido e convertem tudo isso em base conjugada. Sobram 1 − 0,82 = 0,18 mol de ácido e 1 + 0,82 = 1,82 mol de base conjugada. Com pKa = 4, a equação de Henderson-Hasselbalch dá pH = 4 + log(1,82/0,18) = 4 + log(10,1) ≈ 4 + 1 = 5. O valor 4 é o de quem esquece a base forte e vê apenas a mistura equimolar de ácido e base conjugada; a razão 10 para 1 criada pela neutralização é exatamente o que desloca o pH em uma unidade."
   }
  ],
  "quimica-estequiometria": [
@@ -31625,6 +32177,25 @@ window.QUESTION_BANKS = {
    "explicacao": "Propano (C₃H₈) e butano (C₄H₁₀) são alcanos: hidrocarbonetos de cadeia aberta, saturada e sem ramificação obrigatória, com apenas ligações simples entre carbonos. Não têm grupo funcional, logo não há isomeria de função entre eles; e a cadeia é aberta, o que exclui o caráter aromático.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "eng-quimica-09",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere as seguintes afirmações a respeito de reações orgânicas.\nI. A reatividade do ácido acético com 2-propanol é maior do que com 2-metil-2-propanol.\nII. A reação do 2-butino com KMnO₄ em meio ácido a quente leva à formação majoritária de aldeídos.\nIII. A redução do fenol para a formação do ciclo-hexanol exige condições mais enérgicas do que aquelas necessárias à redução do fenol a benzeno.\nDas afirmações acima, está(ão) CORRETA(S)",
+   "alternativas": {
+    "a": "apenas I e II.",
+    "b": "apenas I, II e III.",
+    "c": "apenas I e III.",
+    "d": "apenas II.",
+    "e": "apenas III."
+   },
+   "resposta": "c",
+   "explicacao": "I é correta e o motivo é estérico: na esterificação de Fischer o carbono da carbonila precisa ser atacado pelo álcool, e o 2-metil-2-propanol, terciário, tem três metilas em volta da hidroxila, o que o torna bem menos reativo que o 2-propanol, secundário. II é falsa: a oxidação enérgica do 2-butino com permanganato em meio ácido a quente ROMPE a tripla ligação e leva a ácido carboxílico (ácido acético), não a aldeído — aldeído é produto de oxidação branda, e aqui a condição é a mais drástica. III é correta: reduzir o fenol a cicloexanol significa hidrogenar o anel aromático inteiro, o que exige pressão e temperatura altas com catalisador metálico, enquanto tirar apenas a hidroxila e chegar ao benzeno é bem mais fácil, porque preserva a aromaticidade."
   }
  ],
  "quimica-solucoes": [
@@ -32788,6 +33359,44 @@ window.QUESTION_BANKS = {
    "explicacao": "As partículas de soluto não volátil ocupam a superfície do líquido e dificultam a passagem do solvente à fase de vapor: a pressão de vapor cai. Por isso é preciso temperatura maior para que ela iguale a pressão externa (ebulioscopia) e temperatura menor para o congelamento (crioscopia). Os efeitos coligativos dependem da quantidade de partículas dispersas, não da natureza delas.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "eng-quimica-05",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere as seguintes afirmações sobre misturas e processos de separação.\nI. Misturas azeotrópicas são separadas por destilação simples.\nII. Os elementos constituintes de ligas metálicas, como o bronze, podem ser separados por fusão.\nIII. A filtração a pressão reduzida, usando um funil de Büchner, é um processo utilizado para reduzir o tempo de separação de um sólido suspenso em um líquido.\nIV. A temperatura aumenta continuamente no aquecimento de uma mistura simples, mesmo durante a fusão e a ebulição.\nAssinale a opção que contém a(s) afirmação(ões) CORRETA(S).",
+   "alternativas": {
+    "a": "Apenas I.",
+    "b": "Apenas I e II.",
+    "c": "Apenas II e III.",
+    "d": "Apenas III e IV.",
+    "e": "Apenas IV."
+   },
+   "resposta": "d",
+   "explicacao": "I é falsa por definição de azeótropo: a mistura ferve com vapor de mesma composição do líquido, e é justamente por isso que a destilação simples não a separa — o caso clássico é o etanol 96% em água. II também é falsa: bronze é solução sólida, e ao fundir dá uma solução líquida de cobre e estanho, não dois metais separados. III é correta e descreve o Büchner corretamente: o vácuo aumenta a diferença de pressão através do papel e acelera a filtração. IV é o comportamento que distingue mistura comum de substância pura — a substância pura tem patamar de temperatura constante durante a mudança de estado, e a mistura não, sua temperatura continua subindo enquanto funde ou ferve."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "eng-quimica-10",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Uma solução foi preparada a partir da dissolução de 1,00 mol de uma substância A em 1,0 kg de um solvente. Essa substância se dissocia de acordo com a reação química A ⇌ B + C. Assinale a opção que apresenta a diferença de temperatura de ebulição, em °C, dessa solução após atingir o equilíbrio químico, em relação à temperatura de ebulição de um sistema contendo apenas uma substância D, produzido nas mesmas condições (1,00 mol dissolvido em 1,0 kg do mesmo solvente). Considere que a substância D não se dissocia. Dados: constante ebuliométrica molal do solvente Ke = 1,0 °C·kg/mol; constante de equilíbrio (K) da dissociação de A: K = 2.",
+   "alternativas": {
+    "a": "0,12.",
+    "b": "0,73.",
+    "c": "1,09.",
+    "d": "1,27.",
+    "e": "2,21."
+   },
+   "resposta": "b",
+   "explicacao": "A elevação ebulioscópica conta PARTÍCULAS, então o que interessa é quanto a dissociação aumenta o número total de mols dissolvidos. Sendo x o quanto de A se dissocia, K = x²/(1 − x) = 2 leva a x² + 2x − 2 = 0 e x = −1 + √3 ≈ 0,73. Ao equilíbrio há (1 − x) de A mais x de B e x de C, num total de 1 + x ≈ 1,73 mol/kg. Como D não se dissocia, sua molalidade efetiva é 1,00. Com Ke = 1,0, a diferença entre as duas elevações é 1,0 × (1,73 − 1,00) = 0,73 °C. Repare que o número coincide com o próprio grau de dissociação, e não por acaso: cada mol dissociado acrescenta exatamente um mol de partículas."
   }
  ],
  "quimica-termoquimica-cinetica": [
@@ -33950,6 +34559,63 @@ window.QUESTION_BANKS = {
    "explicacao": "O complexo ativado é a espécie efêmera do alto do diagrama de energia: ligações antigas já enfraquecidas e novas ainda não formadas. Ele não é isolável, ao contrário de um intermediário de reação, e não se confunde com produto nem com catalisador. A altura entre reagentes e esse topo é a energia de ativação.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "eng-quimica-01",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere as afirmações a respeito da reação de combustão completa de misturas estequiométricas, nas condições ambientes.\nI. Em uma mistura de hidrogênio e oxigênio, o combustível representa aproximadamente 11% da massa total.\nII. Em uma mistura de octano e oxigênio, o combustível representa aproximadamente 78% da massa total.\nIII. A variação de temperatura da reação de combustível e oxigênio (por mol de combustível) é igual à variação de temperatura da reação de combustível e ar atmosférico (por mol de combustível).\nIV. A entalpia molar de combustão de uma mistura de combustível e oxigênio é igual à entalpia molar de combustão de uma mistura de combustível e ar atmosférico.\nAssinale a opção que contém as afirmações CORRETAS.",
+   "alternativas": {
+    "a": "Apenas I, II e III.",
+    "b": "Apenas I e III.",
+    "c": "Apenas I e IV.",
+    "d": "Apenas II, III e IV.",
+    "e": "Apenas II e IV."
+   },
+   "resposta": "c",
+   "explicacao": "I confere: em 2 H₂ + O₂ → 2 H₂O são 4 g de hidrogênio para 32 g de oxigênio, e 4/36 ≈ 11%. II inverte os papéis: em C₈H₁₈ + 12,5 O₂ são 114 g de octano para 400 g de oxigênio, ou seja, 114/514 ≈ 22% — os 78% são a fração do OXIGÊNIO. O par III/IV é o miolo da questão, e as duas afirmações não são a mesma coisa dita de dois jeitos. O nitrogênio do ar é inerte e não participa da reação, então a entalpia LIBERADA por mol de combustível não muda (IV correta); mas ele está lá para ser aquecido, e essa massa extra absorve calor, o que faz a temperatura final da chama com ar ser bem menor que com oxigênio puro (III incorreta). É por isso que maçarico de corte usa oxigênio, e não ar."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "eng-quimica-03",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Dados os processos químicos abaixo, assinale aquele que representa uma reação endotérmica.",
+   "alternativas": {
+    "a": "Cristalização de cloreto de sódio a partir do sal puro fundido.",
+    "b": "Corrosão de uma placa de ferro.",
+    "c": "Neutralização de uma solução aquosa de um ácido forte com uma solução aquosa de uma base fraca.",
+    "d": "Decomposição de uma solução aquosa de peróxido de hidrogênio 40 volumes na presença de um catalisador.",
+    "e": "Formação de cal virgem por decomposição de calcário."
+   },
+   "resposta": "e",
+   "explicacao": "A calcinação do calcário, CaCO₃ → CaO + CO₂, é endotérmica — e de forma bem visível na prática: o forno de cal precisa ser mantido acima de 800 °C, e a reação para assim que o aquecimento cessa. As outras quatro liberam calor. Cristalizar é o inverso de fundir, e fundir é que consome energia (a). A corrosão do ferro é uma oxidação espontânea (b). Neutralização ácido-base libera calor mesmo quando a base é fraca — o valor é menor que os 57 kJ/mol do par forte-forte, porque parte da energia paga a ionização da base, mas o saldo continua negativo (c). A decomposição da água oxigenada é exotérmica, e o catalisador só acelera; ele nunca inverte o sinal de ΔH (d)."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "eng-quimica-12",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "As energias de ligação do H₂, do Cl₂ e do HCl nas condições padrão e a 25 °C, em kJ/mol, são 434, 243 e 431, respectivamente. Com base nessas informações, assinale a alternativa que apresenta a entalpia padrão de formação do HCl, em kJ/mol.",
+   "alternativas": {
+    "a": "−185",
+    "b": "−92,5.",
+    "c": "92,5.",
+    "d": "185.",
+    "e": "769,5."
+   },
+   "resposta": "b",
+   "explicacao": "Entalpia de FORMAÇÃO se refere a 1 mol do composto a partir das substâncias simples, o que aqui obriga a escrever ½H₂ + ½Cl₂ → HCl, com meios coeficientes. Quebrar ligações consome energia e formá-las libera, então ΔH = ½(434) + ½(243) − 431 = 217 + 121,5 − 431 = −92,5 kJ/mol. O valor −185 é a resposta da equação H₂ + Cl₂ → 2 HCl, que forma dois mols e por isso não é a entalpia de formação. O sinal positivo inverte quebra e formação, e 769,5 soma as três energias em vez de subtrair a do produto."
   }
  ],
  "gramatica-coesao-semantica": [

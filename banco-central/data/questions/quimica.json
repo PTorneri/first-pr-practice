@@ -7299,6 +7299,222 @@
    "explicacao": "As partículas de soluto não volátil ocupam a superfície do líquido e dificultam a passagem do solvente à fase de vapor: a pressão de vapor cai. Por isso é preciso temperatura maior para que ela iguale a pressão externa (ebulioscopia) e temperatura menor para o congelamento (crioscopia). Os efeitos coligativos dependem da quantidade de partículas dispersas, não da natureza delas.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "eng-quimica-01",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere as afirmações a respeito da reação de combustão completa de misturas estequiométricas, nas condições ambientes.\nI. Em uma mistura de hidrogênio e oxigênio, o combustível representa aproximadamente 11% da massa total.\nII. Em uma mistura de octano e oxigênio, o combustível representa aproximadamente 78% da massa total.\nIII. A variação de temperatura da reação de combustível e oxigênio (por mol de combustível) é igual à variação de temperatura da reação de combustível e ar atmosférico (por mol de combustível).\nIV. A entalpia molar de combustão de uma mistura de combustível e oxigênio é igual à entalpia molar de combustão de uma mistura de combustível e ar atmosférico.\nAssinale a opção que contém as afirmações CORRETAS.",
+   "alternativas": {
+    "a": "Apenas I, II e III.",
+    "b": "Apenas I e III.",
+    "c": "Apenas I e IV.",
+    "d": "Apenas II, III e IV.",
+    "e": "Apenas II e IV."
+   },
+   "resposta": "c",
+   "explicacao": "I confere: em 2 H₂ + O₂ → 2 H₂O são 4 g de hidrogênio para 32 g de oxigênio, e 4/36 ≈ 11%. II inverte os papéis: em C₈H₁₈ + 12,5 O₂ são 114 g de octano para 400 g de oxigênio, ou seja, 114/514 ≈ 22% — os 78% são a fração do OXIGÊNIO. O par III/IV é o miolo da questão, e as duas afirmações não são a mesma coisa dita de dois jeitos. O nitrogênio do ar é inerte e não participa da reação, então a entalpia LIBERADA por mol de combustível não muda (IV correta); mas ele está lá para ser aquecido, e essa massa extra absorve calor, o que faz a temperatura final da chama com ar ser bem menor que com oxigênio puro (III incorreta). É por isso que maçarico de corte usa oxigênio, e não ar."
+  },
+  {
+   "id": "eng-quimica-02",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere as seguintes afirmações relacionadas ao ciclo do nitrogênio.\nI. As principais formas de obtenção de compostos nitrogenados incluem a biológica por bactérias, a industrial por meio do processo Haber-Bosch e a atmosférica por descargas elétricas.\nII. A nitrificação é um processo de duas etapas no qual a amônia é convertida em nitrato por bactérias no solo: primeiro a amônia é oxidada a nitrito e, em seguida, o nitrito é oxidado a nitrato.\nIII. A desnitrificação é o processo pelo qual o nitrato é convertido novamente em nitrogênio atmosférico por bactérias desnitrificantes, processo que ocorre preferencialmente em condições de alto teor de oxigênio.\nIV. As plantas contribuem para o ciclo do nitrogênio fixando o nitrogênio atmosférico por meio de relações simbióticas com bactérias fixadoras de nitrogênio.\nV. O ciclo do nitrogênio consiste em várias etapas interconectadas, tais como: fixação, nitrificação, desnitrificação e amonificação.\nDas afirmações acima, estão CORRETAS",
+   "alternativas": {
+    "a": "apenas I, II e IV.",
+    "b": "apenas I, III e V.",
+    "c": "apenas I, II, IV e V.",
+    "d": "apenas II, III e IV.",
+    "e": "todas."
+   },
+   "resposta": "c",
+   "explicacao": "Só III está errada, e o erro é uma palavra: a desnitrificação de fato devolve o nitrato à atmosfera como N₂, mas ocorre em ambiente ANAERÓBIO, não em alto teor de oxigênio. A razão é que as bactérias desnitrificantes usam o nitrato como aceptor final de elétrons justamente quando falta oxigênio — havendo O₂ disponível, elas respiram O₂ e a desnitrificação para. É por isso que ela é típica de solos encharcados e sedimentos alagados. As demais descrevem corretamente as três vias de fixação (I), as duas etapas da nitrificação via nitrito (II), a simbiose das leguminosas com rizóbios (IV) e o encadeamento geral do ciclo (V)."
+  },
+  {
+   "id": "eng-quimica-03",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Dados os processos químicos abaixo, assinale aquele que representa uma reação endotérmica.",
+   "alternativas": {
+    "a": "Cristalização de cloreto de sódio a partir do sal puro fundido.",
+    "b": "Corrosão de uma placa de ferro.",
+    "c": "Neutralização de uma solução aquosa de um ácido forte com uma solução aquosa de uma base fraca.",
+    "d": "Decomposição de uma solução aquosa de peróxido de hidrogênio 40 volumes na presença de um catalisador.",
+    "e": "Formação de cal virgem por decomposição de calcário."
+   },
+   "resposta": "e",
+   "explicacao": "A calcinação do calcário, CaCO₃ → CaO + CO₂, é endotérmica — e de forma bem visível na prática: o forno de cal precisa ser mantido acima de 800 °C, e a reação para assim que o aquecimento cessa. As outras quatro liberam calor. Cristalizar é o inverso de fundir, e fundir é que consome energia (a). A corrosão do ferro é uma oxidação espontânea (b). Neutralização ácido-base libera calor mesmo quando a base é fraca — o valor é menor que os 57 kJ/mol do par forte-forte, porque parte da energia paga a ionização da base, mas o saldo continua negativo (c). A decomposição da água oxigenada é exotérmica, e o catalisador só acelera; ele nunca inverte o sinal de ΔH (d)."
+  },
+  {
+   "id": "eng-quimica-04",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "As afirmações a seguir relacionam processos físico-químicos que podem ser interpretados utilizando diferentes modelos atômicos e representados por meio de uma equação química.\nI. O modelo de Bohr contém o arcabouço teórico minimamente necessário para representar uma equação do tipo: γ + H(g) → H*(g), em que H* representa o estado eletrônico excitado do H.\nII. O modelo de Dalton contém o arcabouço teórico minimamente necessário para representar uma equação do tipo: 12 Fe(s) + C(s) → Fe₁₂C(s).\nIII. O modelo de Rutherford contém o arcabouço teórico minimamente necessário para representar uma equação do tipo: ⁴₂He²⁺ + Au → ⁴₂He²⁺ + Au.\nIV. O modelo de Thomson contém o arcabouço teórico minimamente necessário para representar uma equação do tipo: 2H⁺ + 2e⁻ ⇌ H₂.\nAssinale a opção que contém a(s) afirmação(ões) CORRETA(S) sobre a relação entre os modelos atômicos e as equações químicas mostradas.",
+   "alternativas": {
+    "a": "Apenas I.",
+    "b": "Apenas I, II e III.",
+    "c": "Apenas II e IV.",
+    "d": "Apenas III e IV.",
+    "e": "Todas as afirmações."
+   },
+   "resposta": "e",
+   "explicacao": "A palavra que organiza a questão é MINIMAMENTE: para cada equação, pergunta-se qual o modelo mais simples que ainda dá conta dela. Absorver um fóton e passar a um estado excitado exige níveis discretos de energia, que é a contribuição de Bohr (I). Uma combinação em proporção fixa de átomos indivisíveis é exatamente o que Dalton propõe, sem precisar de estrutura interna (II). O espalhamento elástico de uma partícula alfa por um núcleo é o próprio experimento de Rutherford (III). E a formação de H₂ a partir de prótons e elétrons só requer que existam cargas positivas e negativas dentro da matéria, que é o que Thomson estabeleceu (IV). As quatro associações se sustentam."
+  },
+  {
+   "id": "eng-quimica-05",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere as seguintes afirmações sobre misturas e processos de separação.\nI. Misturas azeotrópicas são separadas por destilação simples.\nII. Os elementos constituintes de ligas metálicas, como o bronze, podem ser separados por fusão.\nIII. A filtração a pressão reduzida, usando um funil de Büchner, é um processo utilizado para reduzir o tempo de separação de um sólido suspenso em um líquido.\nIV. A temperatura aumenta continuamente no aquecimento de uma mistura simples, mesmo durante a fusão e a ebulição.\nAssinale a opção que contém a(s) afirmação(ões) CORRETA(S).",
+   "alternativas": {
+    "a": "Apenas I.",
+    "b": "Apenas I e II.",
+    "c": "Apenas II e III.",
+    "d": "Apenas III e IV.",
+    "e": "Apenas IV."
+   },
+   "resposta": "d",
+   "explicacao": "I é falsa por definição de azeótropo: a mistura ferve com vapor de mesma composição do líquido, e é justamente por isso que a destilação simples não a separa — o caso clássico é o etanol 96% em água. II também é falsa: bronze é solução sólida, e ao fundir dá uma solução líquida de cobre e estanho, não dois metais separados. III é correta e descreve o Büchner corretamente: o vácuo aumenta a diferença de pressão através do papel e acelera a filtração. IV é o comportamento que distingue mistura comum de substância pura — a substância pura tem patamar de temperatura constante durante a mudança de estado, e a mistura não, sua temperatura continua subindo enquanto funde ou ferve."
+  },
+  {
+   "id": "eng-quimica-06",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "São feitas comparações entre os valores do pKa de compostos orgânicos, em que Ka é a primeira constante de ionização.\nI. Ácido metanoico > ácido etanodioico.\nII. Ácido propanodioico > ácido etanodioico.\nIII. Ácido 2-cloro etanoico > ácido 4-cloro butanoico.\nIV. Ácido 2-trifluor etanoico > ácido 2-tricloro etanoico.\nAssinale a opção que apresenta as comparações CORRETAS.",
+   "alternativas": {
+    "a": "Apenas I e II.",
+    "b": "Apenas I e III.",
+    "c": "Apenas II e III.",
+    "d": "Apenas II e IV.",
+    "e": "Apenas III e IV."
+   },
+   "resposta": "a",
+   "explicacao": "Como pKa MAIOR significa ácido mais FRACO, cada item pede a comparação invertida em relação à força. I: o ácido fórmico (pKa ≈ 3,7) é mais fraco que o oxálico (pKa₁ ≈ 1,3), que tem a segunda carboxila retirando elétrons — correta. II: o malônico (pKa₁ ≈ 2,8) é mais fraco que o oxálico, porque nele o CH₂ afasta as duas carboxilas e enfraquece o efeito indutivo — correta. III é falsa: o cloro no carbono 2 está colado à carboxila e acidifica muito mais que um cloro no carbono 4, logo o ácido cloroacético tem pKa MENOR, não maior. IV é falsa pelo mesmo raciocínio de eletronegatividade: o flúor puxa elétrons mais que o cloro, então o trifluoracético é o mais forte e tem o menor pKa."
+  },
+  {
+   "id": "eng-quimica-07",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere as seguintes afirmações relacionadas à ocorrência ou não de reações químicas em condições ambientes.\nI. Ao borbulhar gás cloro em uma solução aquosa de iodeto de sódio, haverá a formação de um sólido.\nII. Ao borbulhar gás cloro em uma solução aquosa e incolor de brometo de sódio, a solução se tornará ligeiramente marrom.\nIII. Ao adicionar uma solução aquosa de iodeto de sódio a uma solução aquosa de cloreto de potássio, haverá a formação de um gás.\nIV. Ao adicionar bromo líquido a uma solução aquosa de fluoreto de sódio, haverá formação de um gás.\nV. Ao adicionar bromo líquido a uma solução aquosa de iodeto de sódio, haverá formação de um sólido.\nDas afirmações acima, estão CORRETAS",
+   "alternativas": {
+    "a": "apenas I, II e V.",
+    "b": "apenas I e IV.",
+    "c": "apenas II e III.",
+    "d": "apenas II, III e V.",
+    "e": "apenas III e IV."
+   },
+   "resposta": "a",
+   "explicacao": "Tudo se decide pela ordem de reatividade dos halogênios, F > Cl > Br > I: um halogênio só desloca o de baixo. I e V dão certo e produzem iodo, que é sólido em condições ambientes — daí a formação de sólido. II também ocorre: o cloro desloca o brometo e o bromo liberado tinge a solução de castanho. III não acontece, porque o iodeto não desloca o cloreto, que está ACIMA dele; e mesmo que houvesse reação, não sairia gás nenhum. IV também não: o bromo não desloca o fluoreto, o halogênio mais reativo de todos. Reparar no estado físico do produto é o que separa I e V (sólido) de II (solução colorida)."
+  },
+  {
+   "id": "eng-quimica-08",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere 1 L de solução aquosa preparada por meio da adição de 1 mol de um ácido monoprótico hipotético, 1 mol de sua base conjugada e 0,82 mol de uma base forte. Sabendo que a constante de ionização do ácido é igual a 10⁻⁴, assinale a alternativa que melhor representa o pH da solução resultante.",
+   "alternativas": {
+    "a": "4.",
+    "b": "5.",
+    "c": "6.",
+    "d": "7.",
+    "e": "8."
+   },
+   "resposta": "b",
+   "explicacao": "É um tampão, e a base forte age antes do equilíbrio: os 0,82 mol de OH⁻ consomem 0,82 mol do ácido e convertem tudo isso em base conjugada. Sobram 1 − 0,82 = 0,18 mol de ácido e 1 + 0,82 = 1,82 mol de base conjugada. Com pKa = 4, a equação de Henderson-Hasselbalch dá pH = 4 + log(1,82/0,18) = 4 + log(10,1) ≈ 4 + 1 = 5. O valor 4 é o de quem esquece a base forte e vê apenas a mistura equimolar de ácido e base conjugada; a razão 10 para 1 criada pela neutralização é exatamente o que desloca o pH em uma unidade."
+  },
+  {
+   "id": "eng-quimica-09",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere as seguintes afirmações a respeito de reações orgânicas.\nI. A reatividade do ácido acético com 2-propanol é maior do que com 2-metil-2-propanol.\nII. A reação do 2-butino com KMnO₄ em meio ácido a quente leva à formação majoritária de aldeídos.\nIII. A redução do fenol para a formação do ciclo-hexanol exige condições mais enérgicas do que aquelas necessárias à redução do fenol a benzeno.\nDas afirmações acima, está(ão) CORRETA(S)",
+   "alternativas": {
+    "a": "apenas I e II.",
+    "b": "apenas I, II e III.",
+    "c": "apenas I e III.",
+    "d": "apenas II.",
+    "e": "apenas III."
+   },
+   "resposta": "c",
+   "explicacao": "I é correta e o motivo é estérico: na esterificação de Fischer o carbono da carbonila precisa ser atacado pelo álcool, e o 2-metil-2-propanol, terciário, tem três metilas em volta da hidroxila, o que o torna bem menos reativo que o 2-propanol, secundário. II é falsa: a oxidação enérgica do 2-butino com permanganato em meio ácido a quente ROMPE a tripla ligação e leva a ácido carboxílico (ácido acético), não a aldeído — aldeído é produto de oxidação branda, e aqui a condição é a mais drástica. III é correta: reduzir o fenol a cicloexanol significa hidrogenar o anel aromático inteiro, o que exige pressão e temperatura altas com catalisador metálico, enquanto tirar apenas a hidroxila e chegar ao benzeno é bem mais fácil, porque preserva a aromaticidade."
+  },
+  {
+   "id": "eng-quimica-10",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Uma solução foi preparada a partir da dissolução de 1,00 mol de uma substância A em 1,0 kg de um solvente. Essa substância se dissocia de acordo com a reação química A ⇌ B + C. Assinale a opção que apresenta a diferença de temperatura de ebulição, em °C, dessa solução após atingir o equilíbrio químico, em relação à temperatura de ebulição de um sistema contendo apenas uma substância D, produzido nas mesmas condições (1,00 mol dissolvido em 1,0 kg do mesmo solvente). Considere que a substância D não se dissocia. Dados: constante ebuliométrica molal do solvente Ke = 1,0 °C·kg/mol; constante de equilíbrio (K) da dissociação de A: K = 2.",
+   "alternativas": {
+    "a": "0,12.",
+    "b": "0,73.",
+    "c": "1,09.",
+    "d": "1,27.",
+    "e": "2,21."
+   },
+   "resposta": "b",
+   "explicacao": "A elevação ebulioscópica conta PARTÍCULAS, então o que interessa é quanto a dissociação aumenta o número total de mols dissolvidos. Sendo x o quanto de A se dissocia, K = x²/(1 − x) = 2 leva a x² + 2x − 2 = 0 e x = −1 + √3 ≈ 0,73. Ao equilíbrio há (1 − x) de A mais x de B e x de C, num total de 1 + x ≈ 1,73 mol/kg. Como D não se dissocia, sua molalidade efetiva é 1,00. Com Ke = 1,0, a diferença entre as duas elevações é 1,0 × (1,73 − 1,00) = 0,73 °C. Repare que o número coincide com o próprio grau de dissociação, e não por acaso: cada mol dissociado acrescenta exatamente um mol de partículas."
+  },
+  {
+   "id": "eng-quimica-11",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere as afirmações relacionadas a células eletroquímicas.\nI. O potencial padrão de uma célula eletroquímica é diretamente proporcional à variação de energia livre de Gibbs padrão da reação envolvida e inversamente proporcional à sua constante de equilíbrio.\nII. Dado que os valores de potencial padrão do eletrodo de cobre e do calomelano saturado em relação ao eletrodo padrão de hidrogênio são, respectivamente, 0,34 V e 0,24 V, o potencial do eletrodo de cobre em relação ao eletrodo de calomelano saturado será 0,10 V.\nIII. Os potenciais padrão de eletrodo não são valores absolutos de semicélulas, mas sim diferenças de potencial entre semicélulas.\nIV. O catodo de uma célula galvânica torna-se o anodo quando essa célula passa a operar como célula eletrolítica, embora a redução sempre ocorra no catodo da célula e a oxidação sempre ocorra no anodo.\nAssinale a opção que contém as afirmações CORRETAS.",
+   "alternativas": {
+    "a": "Apenas I e II.",
+    "b": "Apenas I, II e IV.",
+    "c": "Apenas I e III.",
+    "d": "Apenas II, III e IV.",
+    "e": "Apenas III e IV."
+   },
+   "resposta": "d",
+   "explicacao": "I é a única errada, e erra nas duas metades: ΔG° = −nFE° é uma proporcionalidade INVERSA no sinal, e E° cresce com o logaritmo de K (E° = RT ln K/nF), não decresce. II é aritmética de referência: mudando o eletrodo de referência do hidrogênio para o calomelano, subtrai-se 0,24 de 0,34, dando 0,10 V. III diz o que o próprio zero convencionado do eletrodo de hidrogênio significa — não existe potencial absoluto de meia-célula, só diferença. IV descreve o que acontece ao recarregar uma pilha: o eletrodo troca de papel, mas as definições não mudam de lugar, porque catodo é por definição onde ocorre redução, e anodo onde ocorre oxidação."
+  },
+  {
+   "id": "eng-quimica-12",
+   "banca": "ita",
+   "sessao": "ita-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "As energias de ligação do H₂, do Cl₂ e do HCl nas condições padrão e a 25 °C, em kJ/mol, são 434, 243 e 431, respectivamente. Com base nessas informações, assinale a alternativa que apresenta a entalpia padrão de formação do HCl, em kJ/mol.",
+   "alternativas": {
+    "a": "−185",
+    "b": "−92,5.",
+    "c": "92,5.",
+    "d": "185.",
+    "e": "769,5."
+   },
+   "resposta": "b",
+   "explicacao": "Entalpia de FORMAÇÃO se refere a 1 mol do composto a partir das substâncias simples, o que aqui obriga a escrever ½H₂ + ½Cl₂ → HCl, com meios coeficientes. Quebrar ligações consome energia e formá-las libera, então ΔH = ½(434) + ½(243) − 431 = 217 + 121,5 − 431 = −92,5 kJ/mol. O valor −185 é a resposta da equação H₂ + Cl₂ → 2 HCl, que forma dois mols e por isso não é a entalpia de formação. O sinal positivo inverte quebra e formação, e 769,5 soma as três energias em vez de subtrair a do produto."
   }
  ],
  "textos": [

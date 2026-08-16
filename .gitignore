@@ -78,3 +78,9 @@ economia/*.pdf
 # tomada. As provas seguem servindo de fonte, lidas do disco local.
 fgv e insper/
 einsten e santa casa/
+
+# Cadernos do ENEM e da FUVEST que chegaram na raiz em 15/08/2026 (ENEM 2023 e
+# 2025, os dois dias; FUVEST 2024, 2025 e 2026 de 1ª fase; e os dois simulados
+# oficiais da FUVEST). Mesma regra da pasta acima, pela mesma razão: a raiz é o
+# site, e commitar aqui publicaria o caderno inteiro como download aberto.
+enem e fuvest/

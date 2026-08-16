@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "matematica",
- "total": 929,
+ "total": 941,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -5546,6 +5546,77 @@
    "subtema": "matematica-geometria",
    "frenteDestino": "matematica",
    "revisado": true
+  },
+  "eng-matematica-01": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "eng-matematica-02": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "eng-matematica-03": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 16,
+   "margem": 16
+  },
+  "eng-matematica-04": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "eng-matematica-05": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "eng-matematica-06": {
+   "subtema": "matematica-polinomios",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 2
+  },
+  "eng-matematica-07": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "eng-matematica-08": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 17,
+   "margem": 17
+  },
+  "eng-matematica-09": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "eng-matematica-10": {
+   "subtema": "matematica-complexos",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "eng-matematica-11": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 6
+  },
+  "eng-matematica-12": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 1
   }
  }
 }

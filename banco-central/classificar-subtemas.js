@@ -1027,6 +1027,31 @@ const REVISADAS = {
   "dir-ingles-218": "ingles-inference",
   "dir-ingles-219": "ingles-inference",
   "dir-ingles-220": "ingles-inference",
+
+  // --- ITA 2024. A prova do ITA descreve o fenômeno pelo cenário, não pelo
+  // nome do conteúdo, e é isso que confunde a tabela: "sombra projetada" puxa
+  // óptica numa questão de queda livre, "casca metálica" não diz
+  // eletromagnetismo com nenhuma palavra da regra, e relatividade restrita
+  // aparece como um foguete que se afasta. As oito abaixo foram lidas uma a
+  // uma; as demais 26 do lote a regra acertou sozinha.
+  //
+  // Sombra de fonte em queda livre: o que se cobra é queda livre e semelhança
+  // de triângulos. "luz", "reflexão" e "sombra" é cenário.
+  "eng-fisica-02": "fisica-mecanica",
+  // Carga dentro de casca aterrada: blindagem, indução e Gauss.
+  "eng-fisica-08": "fisica-eletromagnetismo",
+  // Simultaneidade entre foguete e estação — relatividade restrita.
+  "eng-fisica-10": "fisica-moderna",
+  // aᵐ = bᵐ com a e b complexos: módulo e argumento, não geometria plana.
+  "eng-matematica-10": "matematica-complexos",
+  // Calcinação do calcário: a pergunta é o sinal de ΔH.
+  "eng-quimica-03": "quimica-termoquimica-cinetica",
+  // Deslocamento entre halogênios: ordem de reatividade, que é periodicidade.
+  "eng-quimica-07": "quimica-atomistica-ligacoes",
+  // Esterificação, oxidação de alcino e redução de fenol.
+  "eng-quimica-09": "quimica-organica",
+  // Entalpia de formação a partir de energias de ligação.
+  "eng-quimica-12": "quimica-termoquimica-cinetica",
 };
 
 // ------------------------------------------------------------------- classificação

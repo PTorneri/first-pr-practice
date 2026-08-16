@@ -1052,6 +1052,28 @@ const REVISADAS = {
   "eng-quimica-09": "quimica-organica",
   // Entalpia de formação a partir de energias de ligação.
   "eng-quimica-12": "quimica-termoquimica-cinetica",
+
+  // --- Mauá (Verão 2025 presencial e on-line, Inverno 2024). A banca ancora
+  // quase toda questão num cenário do cotidiano — pneu, fertilizante, site de
+  // venda de soda cáustica —, e a tabela pontua pelo cenário. Sete precisaram
+  // de leitura; as 29 restantes do lote a regra acertou.
+  //
+  // Polímero de condensação, cadeia aromática, grupo funcional: é orgânica.
+  "eng-quimica-13": "quimica-organica",
+  // Dissolução de NaOH em água: a pergunta é sobre a interação íon-dipolo.
+  "eng-quimica-19": "quimica-atomistica-ligacoes",
+  // Solubilidade em g/L e corpo de fundo.
+  "eng-quimica-21": "quimica-solucoes",
+  // Percentual em massa de nutriente num fertilizante.
+  "eng-quimica-23": "quimica-estequiometria",
+  // Lei de velocidade e ordem de reação.
+  "eng-quimica-26": "quimica-termoquimica-cinetica",
+  // Sistema vascular aquífero e ossículos calcários: filo, não célula.
+  "eng-biologia-07": "biologia-diversidade",
+  // Densidade populacional, potencial biótico e resistência ambiental.
+  "eng-biologia-09": "biologia-ecologia",
+  // Xilema, floema e transpiração — fisiologia vegetal.
+  "eng-biologia-08": "biologia-fisiologia",
 };
 
 // ------------------------------------------------------------------- classificação

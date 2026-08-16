@@ -99092,6 +99092,68 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-citologia",
+   "id": "eng-biologia-03",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "No ciclo de Krebs, uma das etapas do processo de respiração celular, o fumarato recebe água na presença da enzima fumarase e se converte em malato; em seguida, o malato é convertido em oxalacetato, etapa em que NAD⁺ é convertido em NADH + H⁺.\nNo ciclo de Krebs, a conversão do fumarato em malato, e a transformação de malato em oxalacetato ocorrem, respectivamente, por meio de reações de",
+   "alternativas": {
+    "a": "hidratação e redução.",
+    "b": "hidrólise e oxidação.",
+    "c": "hidrólise e redução.",
+    "d": "hidrólise e neutralização.",
+    "e": "hidratação e oxidação."
+   },
+   "resposta": "e",
+   "explicacao": "A primeira etapa acrescenta uma molécula de água à dupla ligação do fumarato sem quebrar nada: é HIDRATAÇÃO, e não hidrólise — hidrólise usaria a água para romper uma ligação, partindo a molécula em duas. Na segunda etapa, quem entrega elétrons e hidrogênio é o malato, e quem os recebe é o NAD⁺, que vira NADH. Como o malato PERDE hidrogênio, ele sofre oxidação; o NAD⁺ é que é reduzido. Trocar os dois papéis é o erro que a opção \"hidratação e redução\" registra, e é o deslize mais comum em oxirredução biológica: olhar para a coenzima em vez de olhar para o substrato sobre o qual a pergunta incide."
+  },
+  {
+   "subtema": "biologia-citologia",
+   "id": "eng-biologia-04",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "lacunas",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/maua-2025-online-q36.png",
+    "descricao": "Gráfico da quantidade de matéria de malato formada em função do tempo, com duas curvas. A curva B sobe depressa e chega cedo ao patamar; a curva A sobe devagar e alcança o MESMO patamar final, só que muito depois."
+   },
+   "enunciado": "Ainda no ciclo de Krebs, observa-se a participação de enzimas, como a fumarase, que apresentam um papel importante na conversão do fumarato em malato. O gráfico mostra a quantidade de matéria de malato formada em função do tempo, com duas curvas, A e B.\nA fumarase atua como _____________ do processo, sendo a reação com a presença dessa enzima representada pela curva _____________, já que a fumarase atua ___________ a energia de ativação do processo de transformação do fumarato em malato.\nAs lacunas presentes no texto são preenchidas, respectivamente, por",
+   "alternativas": {
+    "a": "inibidor – A – aumentando.",
+    "b": "catalisador – B – diminuindo.",
+    "c": "catalisador – A – diminuindo.",
+    "d": "catalisador – A – aumentando.",
+    "e": "inibidor – B – diminuindo."
+   },
+   "resposta": "b",
+   "explicacao": "Enzima é catalisador biológico, e catalisador age BAIXANDO a energia de ativação — abre um caminho alternativo mais barato para a reação. Isso já fixa a primeira e a terceira lacunas. A do meio sai do gráfico: as duas curvas terminam no MESMO patamar, o que confirma que a enzima não muda a quantidade final de produto (nem o equilíbrio), apenas a rapidez com que se chega lá; logo a curva com enzima é a que sobe mais depressa, a B. Chamar a fumarase de inibidor contradiz o próprio nome da classe — a terminação -ase indica enzima, e o enunciado diz que ela tem papel importante na conversão."
+  },
+  {
+   "subtema": "biologia-citologia",
+   "id": "eng-biologia-10",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A doença de Tay-Sachs, de padrão autossômico recessivo, é distúrbio genético raro, causado pela deficiência da enzima hidrolítica hexosaminidase. Essa enzima, catalisadora de uma reação metabólica de digestão em células eucariontes animais, é encontrada na organela",
+   "alternativas": {
+    "a": "plasto.",
+    "b": "lisossomo.",
+    "c": "mitocôndria.",
+    "d": "glioxissomo.",
+    "e": "centríolo."
+   },
+   "resposta": "b",
+   "explicacao": "As duas pistas do enunciado apontam para a mesma organela: a enzima é HIDROLÍTICA e faz DIGESTÃO intracelular, que é a função do lisossomo — a bolsa de enzimas digestivas produzida pelo complexo golgiense. É por isso que a deficiência de hexosaminidase faz acumular material não digerido dentro das células nervosas, o que explica o quadro da doença. Plasto e glioxissomo são organelas de células VEGETAIS, o que já as descarta num enunciado sobre células animais. A mitocôndria faz respiração celular, produzindo ATP, não digestão. E o centríolo participa da divisão celular e da organização de cílios e flagelos, sem atividade enzimática digestiva."
+  },
+  {
+   "subtema": "biologia-citologia",
    "id": "dir-ciencias-natureza-04",
    "texto_apoio": "As chuvas ácidas resultam da emissão de determinados poluentes atmosféricos provenientes de processos industriais e da queima de combustíveis.",
    "enunciado": "As chuvas ácidas são causadas, principalmente, pela reação da água presente na atmosfera com",
@@ -101058,6 +101120,25 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-genetica",
+   "id": "eng-biologia-02",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "O cariótipo com banda G é exame genético cujo resultado permite analisar os cromossomos presentes no DNA de um indivíduo. Um cariótipo apresenta 47 cromossomos, com o padrão sexual XXY.\nO padrão cromossômico acima é compatível com um indivíduo portador da síndrome de",
+   "alternativas": {
+    "a": "Turner.",
+    "b": "Down.",
+    "c": "Patau.",
+    "d": "Edwards.",
+    "e": "Klinefelter."
+   },
+   "resposta": "e",
+   "explicacao": "O número 47 indica um cromossomo a mais que os 46 habituais, e a notação XXY diz exatamente onde está o excesso: nos cromossomos SEXUAIS. Essa é a síndrome de Klinefelter. As outras três trissomias listadas são autossômicas e também dão 47 cromossomos, mas o par extra é numerado — 21 na síndrome de Down, 13 na de Patau e 18 na de Edwards —, e nenhuma delas altera o padrão sexual. Turner é o oposto do que está descrito: falta um cromossomo sexual, com 45 cromossomos e cariótipo X0."
+  },
+  {
+   "subtema": "biologia-genetica",
    "id": "dir-ciencias-natureza-23",
    "texto_apoio": "Os organismos geneticamente modificados (transgênicos) são obtidos por meio de técnicas de engenharia genética que alteram o material genético de um organismo.",
    "enunciado": "Uma planta transgênica resistente a determinada praga é obtida, tipicamente, por meio da",
@@ -102389,6 +102470,44 @@ window.QUESTION_BANKS = {
    "explicacao": "As três estruturas resolvem o mesmo problema: viver fora da água. A cutícula limita a saída de vapor pela folha; o grão de pólen leva o gameta masculino até o feminino sem que ele precise nadar; o tegumento protege o embrião e a reserva durante a dispersão. Por isso gimnospermas e angiospermas ocupam ambientes secos que as briófitas não alcançam.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "eng-biologia-01",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Paramecium é um gênero de protozoário que habita água marinha, doce ou salobra, podendo ser encontrado em ambientes com água parada, com corpo coberto por cílios.\nSobre o Paramecium, é correto afirmar que",
+   "alternativas": {
+    "a": "é protista, procarionte e se locomove, na água, com auxílio dos cílios que cobrem sua superfície.",
+    "b": "é eucarionte, heterotrófico, e possui cílios que auxiliam sua locomoção na água.",
+    "c": "pertence ao reino protista, é autótrofo, eucarionte, unicelular e ciliado.",
+    "d": "é unicelular, heterotrófico, e se locomove com auxílio dos flagelos que cobrem sua superfície.",
+    "e": "pertence ao reino protista, é procarionte, autótrofo e flagelado."
+   },
+   "resposta": "b",
+   "explicacao": "Cada alternativa errada carrega um único termo falso, e é isso que a questão testa. Protozoário é protista e, por definição do reino, EUCARIONTE — tem núcleo organizado —, o que derruba de imediato as duas opções que o chamam de procarionte. Paramecium também não produz o próprio alimento: ingere partículas pelo sulco oral, sendo heterotrófico, e por isso caem as que o descrevem como autótrofo. Resta a distinção entre cílios e flagelos, que o próprio enunciado já entrega ao dizer que o corpo é coberto por cílios — numerosos e curtos, ao contrário dos flagelos, longos e poucos."
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "eng-biologia-07",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Certas espécies marinhas — entre elas o pepino-do-mar, a ofiúra e a bolacha-da-praia — apresentam sistema vascular aquífero, ossículos calcários e tecido conectivo mutável.\nOs organismos acima tratam-se de",
+   "alternativas": {
+    "a": "poríferos.",
+    "b": "artrópodes.",
+    "c": "moluscos.",
+    "d": "cnidários.",
+    "e": "equinodermos."
+   },
+   "resposta": "e",
+   "explicacao": "O sistema vascular aquífero é exclusivo dos equinodermos: é a rede de canais cheios de água que aciona os pés ambulacrários usados na locomoção e na captura de alimento. Some-se a isso o endoesqueleto de ossículos calcários e o tecido conectivo mutável, capaz de enrijecer ou amolecer sob controle nervoso, e os três traços juntos não pertencem a nenhum outro filo. Os exemplos confirmam: pepino-do-mar, ofiúra e bolacha-da-praia são equinodermos, ao lado da estrela-do-mar e do ouriço. Poríferos não têm tecidos verdadeiros; artrópodes e moluscos têm exoesqueleto ou concha, e não ossículos internos; cnidários têm células urticantes e simetria radial sem esqueleto calcário interno."
   },
   {
    "subtema": "biologia-diversidade",
@@ -104048,6 +104167,44 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-fisiologia",
+   "id": "eng-biologia-05",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A diluição seriada é uma técnica muito utilizada em análises clínicas e consiste na realização de várias diluições sucessivas. Inicia-se com a solução mais concentrada, chegando a soluções menos concentradas: utiliza-se 0,5 mL da solução estoque, diluída ao ser misturada com 0,5 mL do diluente (tubo 1); do tubo 1, retira-se 0,5 mL, diluído com mais 0,5 mL de diluente (tubo 2), e assim sucessivamente.\nNo exame de VDRL, utilizado para diagnóstico e monitoramento do tratamento da sífilis, uma amostra de sangue é retirada do indivíduo e passa por diluição seriada, sendo considerado resultado positivo quando, após a quarta diluição, ainda é possível identificar anticorpos.\nConsiderando que a amostra de sangue retirada do paciente seja a solução estoque e que a concentração de anticorpos nessa solução seja igual a X, a concentração de anticorpos na solução obtida após a quarta diluição será de",
+   "alternativas": {
+    "a": "X/2",
+    "b": "X/32",
+    "c": "X/16",
+    "d": "X/8",
+    "e": "X/4"
+   },
+   "resposta": "c",
+   "explicacao": "Cada tubo mistura 0,5 mL da solução anterior com 0,5 mL de diluente, o que dobra o volume e portanto CORTA a concentração pela metade — é uma diluição 1:2, não 1:1 como o volume igual pode sugerir. Quatro diluições sucessivas multiplicam esse fator quatro vezes: X × (1/2)⁴ = X/16. O crescimento é geométrico, e não aditivo, que é justamente o que separa X/16 de X/8 (três diluições) e de X/32 (cinco). Na prática clínica é essa progressão que dá o \"título\" do exame, expresso como 1:2, 1:4, 1:8, 1:16."
+  },
+  {
+   "subtema": "biologia-fisiologia",
+   "id": "eng-biologia-08",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "lacunas",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A condução de seiva bruta nos vegetais ocorre pelo __________, e uma das hipóteses explicativas é a Teoria da Adesão – Coesão – Tensão. Segundo essa hipótese, o movimento ascendente da coluna de água está associado a vários fenômenos, como transpiração, coesão e adesão nos vasos e absorção radicular.\nNo processo de transpiração, o vapor de água é eliminado a partir __________, causando uma tensão que faz a água ascender. As forças de adesão e coesão proporcionadas pelas interações do tipo __________ entre as moléculas de água permitem a formação de uma coluna contínua, o que contribui para esse movimento de ascensão.\nAs lacunas presentes no texto são corretamente preenchidas, respectivamente, por",
+   "alternativas": {
+    "a": "xilema – da raiz – dipolo induzido.",
+    "b": "xilema – dos estômatos – ligação de hidrogênio.",
+    "c": "xilema – da raiz – iônica.",
+    "d": "floema – da raiz – dipolo induzido.",
+    "e": "floema – dos estômatos – ligação de hidrogênio."
+   },
+   "resposta": "b",
+   "explicacao": "As três lacunas cobram assuntos diferentes e cada uma elimina alternativas. Seiva BRUTA — água e sais minerais, subindo da raiz — corre pelo xilema; o floema conduz a seiva elaborada, com açúcares produzidos na fotossíntese. A transpiração que puxa a coluna acontece nas FOLHAS, pelos estômatos, e não na raiz: é a saída de vapor lá em cima que gera a tensão transmitida para baixo. E a coesão entre moléculas de água vem das ligações de hidrogênio, possíveis porque o hidrogênio está preso a um oxigênio muito eletronegativo — dipolo induzido é interação de moléculas apolares, e ligação iônica nem sequer ocorre entre moléculas de água."
+  },
+  {
+   "subtema": "biologia-fisiologia",
    "id": "dir-ciencias-natureza-02",
    "texto_apoio": "A eutrofização é um processo ecológico frequentemente associado à poluição de rios e lagos por esgoto doméstico e fertilizantes agrícolas.",
    "enunciado": "A eutrofização de um corpo d'água ocorre quando",
@@ -105612,6 +105769,25 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-ecologia",
+   "id": "eng-biologia-09",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Dinâmica populacional é uma área da ecologia que se dedica a estudar variações na quantidade de indivíduos em uma população.\nSobre a dinâmica das populações, é correto afirmar que",
+   "alternativas": {
+    "a": "a densidade da população (d) é dada por: d = N²/A, sendo N o número de indivíduos da população e A a unidade de medida de área ou volume.",
+    "b": "uma população em equilíbrio apresenta densidade constante, em que: natalidade + emigração = mortalidade + imigração.",
+    "c": "os parâmetros natalidade e emigração contribuem com o aumento da densidade populacional de uma espécie.",
+    "d": "o potencial biótico mede a capacidade de uma população aumentar em condições extremas ou desfavoráveis.",
+    "e": "a resistência ambiental considera todos os fatores que limitam o crescimento de uma população, como predadores e competidores, entre outros."
+   },
+   "resposta": "e",
+   "explicacao": "Resistência ambiental é exatamente o conjunto de fatores que freiam o crescimento — predação, competição, doença, escassez de alimento — e é o que faz a curva real se afastar da exponencial. As demais erram por um detalhe cada. A densidade é d = N/A, sem elevar N ao quadrado. No equilíbrio, o que entra iguala o que sai: natalidade + IMIGRAÇÃO = mortalidade + EMIGRAÇÃO, e a alternativa troca os dois termos de lado. Emigração é saída de indivíduos, portanto DIMINUI a densidade em vez de aumentá-la. E potencial biótico é definido para condições IDEAIS, o crescimento máximo possível sem restrição, e não para condições desfavoráveis."
+  },
+  {
+   "subtema": "biologia-ecologia",
    "id": "dir-ciencias-natureza-11",
    "texto_apoio": "A separação de resíduos sólidos urbanos em recicláveis e não recicláveis é uma prática incentivada por políticas públicas de gestão ambiental.",
    "enunciado": "Do ponto de vista químico, uma das razões pelas quais plásticos comuns, como o PET, demoram muito tempo para se decompor no ambiente é",
@@ -107025,6 +107201,25 @@ window.QUESTION_BANKS = {
    "explicacao": "Ilha vulcânica nasce sem vida: quem chega vem de fora, e o candidato mais provável é a terra firme mais próxima — daí o parentesco com o continente vizinho. Uma vez isolada, cada linhagem segue caminho próprio e se diferencia até formar espécie nova, o que explica por que essas espécies não ocorrem em nenhum outro lugar.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "eng-biologia-06",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A origem da carapaça em tartarugas é objeto de estudo da biologia evolutiva. Uma hipótese representa as modificações ao longo da linhagem que leva aos Testudinata: primeiro o surgimento de costelas em T (Eunotosaurus africanus), depois um novo arranjo das costelas ventrais (Pappochelys rosinae), em seguida o plastrão, a redução da cauda e espinhos neurais expandidos (Odontochelys semitestacea), então a perda dos dentes marginais e a carapaça completa (Proganochelys quenstedti), e por fim os Testudinata, que reúnem as demais tartarugas atuais.\nPara o grupo Testudinata, a hipótese ilustrada acima trata de suas relações",
+   "alternativas": {
+    "a": "harmônicas.",
+    "b": "bióticas interespecíficas.",
+    "c": "predatórias.",
+    "d": "filogenéticas.",
+    "e": "desarmônicas."
+   },
+   "resposta": "d",
+   "explicacao": "O que está descrito é uma sequência de ANCESTRALIDADE: espécies fósseis ordenadas pelo aparecimento sucessivo de características que culminam na carapaça completa. Relação de parentesco evolutivo entre grupos é, por definição, relação filogenética. Todas as outras opções pertencem a um campo diferente — o da ecologia —, e descrevem interações entre organismos que convivem no mesmo tempo e lugar: harmônicas e desarmônicas classificam o saldo da convivência, interespecíficas dizem que ocorrem entre espécies distintas, e predação é um caso particular. Nenhuma se aplica a espécies separadas por milhões de anos, que nunca se encontraram."
   },
   {
    "subtema": "biologia-evolucao",
@@ -109661,6 +109856,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Tudo se decide pela ordem de reatividade dos halogênios, F > Cl > Br > I: um halogênio só desloca o de baixo. I e V dão certo e produzem iodo, que é sólido em condições ambientes — daí a formação de sólido. II também ocorre: o cloro desloca o brometo e o bromo liberado tinge a solução de castanho. III não acontece, porque o iodeto não desloca o cloreto, que está ACIMA dele; e mesmo que houvesse reação, não sairia gás nenhum. IV também não: o bromo não desloca o fluoreto, o halogênio mais reativo de todos. Reparar no estado físico do produto é o que separa I e V (sólido) de II (solução colorida)."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "eng-quimica-19",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Em um site de venda de produtos químicos, um produto é divulgado como \"Soda Cáustica Líquida 5 Litros – 50%\". O anúncio apresenta um erro conceitual, já que o ponto de fusão do hidróxido de sódio (NaOH) é 318 °C ao nível do mar, o que impossibilita o estado físico líquido na temperatura ambiente. Na realidade, o anunciante deveria ter indicado que se trata de uma solução aquosa de soda cáustica, formada pela dissolução do hidróxido de sódio em água.\nNessa dissolução, as partículas do soluto e do solvente interagem por meio de interações do tipo",
+   "alternativas": {
+    "a": "ligação de hidrogênio.",
+    "b": "dipolo permanente.",
+    "c": "dipolo induzido.",
+    "d": "ligação iônica.",
+    "e": "íon-dipolo."
+   },
+   "resposta": "e",
+   "explicacao": "O NaOH é composto iônico e, ao se dissolver, libera Na⁺ e OH⁻; a água é molécula polar. A interação entre um ÍON e uma molécula com dipolo é, por definição, íon-dipolo — é ela que solvata cada íon e mantém o sal dissolvido. Ligação de hidrogênio e dipolo permanente descrevem interações entre MOLÉCULAS, e as moléculas de água de fato as fazem entre si, mas a pergunta é sobre soluto e solvente. Dipolo induzido apareceria com soluto apolar. E ligação iônica é o que segura o sólido antes da dissolução, justamente o que a água desfaz."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -110875,6 +111089,44 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "É um tampão, e a base forte age antes do equilíbrio: os 0,82 mol de OH⁻ consomem 0,82 mol do ácido e convertem tudo isso em base conjugada. Sobram 1 − 0,82 = 0,18 mol de ácido e 1 + 0,82 = 1,82 mol de base conjugada. Com pKa = 4, a equação de Henderson-Hasselbalch dá pH = 4 + log(1,82/0,18) = 4 + log(10,1) ≈ 4 + 1 = 5. O valor 4 é o de quem esquece a base forte e vê apenas a mistura equimolar de ácido e base conjugada; a razão 10 para 1 criada pela neutralização é exatamente o que desloca o pH em uma unidade."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "eng-quimica-15",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "lacunas",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "O urânio é elemento presente em quase 100 minerais, sendo transportado a partir da lixiviação de rochas para leitos aquáticos. Nas águas superficiais e subterrâneas oxidantes, ocorre o transporte de urânio como íons uranila (UO₂²⁺), sob a forma de vários compostos solúveis com os ânions comumente dissolvidos. Em condições ácidas, os principais compostos da uranila são formados com o fosfato (PO₄³⁻), e em condições alcalinas são formados com o carbonato (CO₃²⁻).\nNo íon uranila, o urânio apresenta um número de oxidação igual a _______, sendo que o composto formado desse íon em águas subterrâneas com pH 8,5 possui fórmula _________.\nAs lacunas presentes no texto são preenchidas, respectivamente, por",
+   "alternativas": {
+    "a": "+4 – UO₂CO₃.",
+    "b": "+6 – UO₂CO₃.",
+    "c": "+6 – (UO₂)₃(PO₄)₂.",
+    "d": "+4 – UO₂PO₄.",
+    "e": "+2 – (UO₂)₃(PO₄)₂."
+   },
+   "resposta": "b",
+   "explicacao": "No íon UO₂²⁺ os dois oxigênios somam −4, e a carga total é +2; logo o urânio entra com +6. O segundo passo é ler o pH: 8,5 está ACIMA de 7, isto é, meio alcalino, e o enunciado diz que em condições alcalinas a uranila se associa ao carbonato. Como UO₂²⁺ tem carga +2 e CO₃²⁻ tem carga −2, a proporção é de um para um: UO₂CO₃. Quem lê 8,5 como meio ácido escolhe o fosfato, e quem esquece que a carga do íon é +2 (e não zero) chega a +4 para o urânio."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "eng-quimica-17",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Considere as transformações químicas balanceadas, numeradas de 1 a 5:\n1: C₉H₂₀ + 14 O₂ → 9 CO₂ + 10 H₂O\n2: Zn(OH)₂ + HCN → H₂O + ZnOHCN\n3: 2 H₃PO₄ + 3 Ca(OH)₂ → Ca₃(PO₄)₂ + 6 H₂O\n4: 2 C₆H₆ + 9 O₂ → 12 CO + 6 H₂O\n5: Zn + 2 HCl → ZnCl₂ + H₂\nRepresentam reações de combustão, oxirredução e neutralização parcial, respectivamente, as equações",
+   "alternativas": {
+    "a": "1, 5 e 3.",
+    "b": "1, 3 e 2.",
+    "c": "3, 4 e 2.",
+    "d": "4, 5 e 3.",
+    "e": "4, 1 e 2."
+   },
+   "resposta": "e",
+   "explicacao": "A palavra PARCIAL é a chave, e ela aparece na terceira posição. Na equação 2, o Zn(OH)₂ tem duas hidroxilas e só uma delas reage, sobrando o ZnOHCN — neutralização parcial. Na 3, todas as hidroxilas e todos os hidrogênios ionizáveis são consumidos: é neutralização total. Isso já elimina as opções que terminam em 3. Entre as que sobram, tanto a 1 quanto a 4 são combustões (a 4 incompleta, gerando CO), e tanto a 1 quanto a 4 e a 5 são oxirreduções — então a sequência que fecha as três posições ao mesmo tempo é 4, 1 e 2."
   }
  ],
  "quimica-estequiometria": [
@@ -112288,6 +112540,25 @@ window.QUESTION_BANKS = {
    "explicacao": "Usando PV=nRT com P=2,1×10⁻³ atm, V=0,2 L, R=0,08 atm·L·mol⁻¹·K⁻¹ e T=300 K, calcula-se o número de mols de mercúrio e, multiplicando pela massa molar (200 g/mol), obtém-se a massa de Hg no interior da lâmpada.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "eng-quimica-23",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um fertilizante tem rótulo NPK 04 – 14 – 08, isto é, percentuais em massa de 4% de nitrogênio total, 14% de fósforo (como P₂O₅) e 8% de óxido de potássio (K₂O).\nConsidere a aplicação desse fertilizante em um terreno trapezoidal com bases de 15 m e 25 m e altura de 10 m. Sabendo que 1 hectare (ha) equivale a 10.000 m², e que o solo desse terreno necessita de 50 kg de nitrogênio por hectare, a quantidade mínima do fertilizante utilizada, para garantir essa necessidade, é de",
+   "alternativas": {
+    "a": "1 kg",
+    "b": "7 kg",
+    "c": "12 kg",
+    "d": "25 kg",
+    "e": "50 kg"
+   },
+   "resposta": "d",
+   "explicacao": "São três passos encaixados. A área do trapézio é (15 + 25)/2 × 10 = 200 m², o que equivale a 200/10 000 = 0,02 ha. A necessidade de nitrogênio é 50 × 0,02 = 1 kg. Só que 1 kg é a massa do NUTRIENTE, não a do fertilizante: como o produto tem apenas 4% de nitrogênio, são precisos 1/0,04 = 25 kg de fertilizante. Parar no segundo passo dá exatamente 1 kg, que é a alternativa oferecida para esse erro. Os números 14 e 8 do rótulo não entram na conta — a exigência declarada é só de nitrogênio."
   }
  ],
  "quimica-organica": [
@@ -113515,6 +113786,120 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "I é correta e o motivo é estérico: na esterificação de Fischer o carbono da carbonila precisa ser atacado pelo álcool, e o 2-metil-2-propanol, terciário, tem três metilas em volta da hidroxila, o que o torna bem menos reativo que o 2-propanol, secundário. II é falsa: a oxidação enérgica do 2-butino com permanganato em meio ácido a quente ROMPE a tripla ligação e leva a ácido carboxílico (ácido acético), não a aldeído — aldeído é produto de oxidação branda, e aqui a condição é a mais drástica. III é correta: reduzir o fenol a cicloexanol significa hidrogenar o anel aromático inteiro, o que exige pressão e temperatura altas com catalisador metálico, enquanto tirar apenas a hidroxila e chegar ao benzeno é bem mais fácil, porque preserva a aromaticidade."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "eng-quimica-13",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "O policarbonato, cuja unidade de repetição é [–O–C₆H₄–C(CH₃)₂–C₆H₄–O–C(=O)–]ₙ, é polímero termoplástico de engenharia, com temperatura de fusão em torno de 265 °C. Ele é largamente utilizado devido às suas características de liberdade de design, transparência e ductilidade, boa estabilidade térmica e resistência à corrosão.\nDe acordo com a estrutura apresentada, conclui-se que o policarbonato",
+   "alternativas": {
+    "a": "é formado a partir de reações de condensação.",
+    "b": "encontra-se no estado líquido em temperaturas abaixo de 265 °C.",
+    "c": "possui uma ramificação etil em cada unidade de repetição.",
+    "d": "é um polímero que possui cadeia alifática.",
+    "e": "apresenta ligações de hidrogênio entre as cadeias."
+   },
+   "resposta": "a",
+   "explicacao": "O grupo carbonato –O–C(=O)–O– só se forma com saída de uma molécula pequena entre o difenol e o reagente que traz a carbonila: é polimerização por CONDENSAÇÃO, e não por adição. As demais caem cada uma num detalhe da estrutura escrita no enunciado: abaixo de 265 °C o polímero está SÓLIDO, não líquido, porque essa é a temperatura de fusão; as ramificações são duas metilas do grupo C(CH₃)₂, não uma etila; a cadeia traz dois anéis benzênicos por unidade, o que a torna aromática e não alifática; e ligação de hidrogênio exigiria hidrogênio preso a N, O ou F, que a estrutura não tem — os oxigênios estão todos ligados a carbono."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "eng-quimica-18",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Dextroanfetamina é uma droga sintética que estimula o sistema nervoso central, sendo empregada com finalidade terapêutica em casos de narcolepsia e distúrbios envolvendo hiperatividade. Sua estrutura é um anel benzênico ligado a um grupo –CH₂–CH(CH₃)–NH₂, e o carbono central desse grupo é um centro estereogênico.\nÉ correto dizer que a dextroanfetamina é uma amina",
+   "alternativas": {
+    "a": "secundária, que interage com a luz plano-polarizada, desviando-a para a direita.",
+    "b": "aromática, que interage com a luz plano-polarizada, desviando-a para a direita.",
+    "c": "primária, cujo grupo funcional atua como base, segundo a teoria de Brønsted-Lowry.",
+    "d": "que interage por ligação de hidrogênio e cujo grupo funcional atua como ácido, segundo a teoria de Brønsted-Lowry.",
+    "e": "que possui isômero óptico levógiro, sendo um caso de isomeria de compensação."
+   },
+   "resposta": "c",
+   "explicacao": "A classificação de uma amina conta quantos CARBONOS estão presos ao nitrogênio, e aqui é um só — logo, amina primária. E o nitrogênio tem um par de elétrons livre, com que recebe próton: pela definição de Brønsted-Lowry, quem recebe próton é base, o que torna errada a opção que a chama de ácido. Amina aromática seria aquela com o nitrogênio ligado DIRETAMENTE ao anel, como a anilina; aqui há dois carbonos entre o anel e o NH₂. E o isômero óptico de imagem especular não é isomeria de compensação (metameria), que é outra coisa: variação da posição de um heteroátomo dentro da cadeia."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "eng-quimica-20",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Farneseno é um composto orgânico da classe dos sesquiterpenos, que pode ser obtido a partir da cana-de-açúcar. Sua hidrogenação total produz farnesano, conhecido como bioquerosene, um combustível alternativo aeronáutico. O farneseno é um hidrocarboneto acíclico de quinze carbonos, com ramificações metílicas e quatro ligações duplas.\nÉ correto afirmar que",
+   "alternativas": {
+    "a": "é possível produzir farneseno a partir de farnesano, por meio de hidrogenação catalítica, empregando níquel metálico.",
+    "b": "as moléculas de farneseno e farnesano são acíclicas, com fórmulas químicas C₁₅H₂₄ e C₁₅H₃₂, respectivamente.",
+    "c": "farnesano é um hidrocarboneto insaturado, obtido a partir da quebra das ligações duplas do farneseno.",
+    "d": "o produto farnesano é um alcano que possui 3 ramificações na cadeia principal e 8 carbonos secundários.",
+    "e": "são necessários 4 mols de gás hidrogênio (H₂) para a hidrogenação total de 1 mol de farneseno, na reação de eliminação."
+   },
+   "resposta": "b",
+   "explicacao": "Quinze carbonos e quatro insaturações dão C₁₅H₂₄ (um alcano de 15 carbonos teria C₁₅H₃₂, e cada dupla tira dois hidrogênios). Hidrogenar todas as quatro devolve exatamente o C₁₅H₃₂ do farnesano, e nenhum dos dois tem anel. A opção que fala em insaturado erra porque o produto da hidrogenação é SATURADO. A que exige 4 mol de H₂ acerta o número, mas chama a reação de eliminação quando ela é de ADIÇÃO — hidrogenação acrescenta átomos à molécula. E a última inverte o sentido: hidrogenação catalítica com níquel leva do farneseno ao farnesano, não o contrário."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "eng-quimica-22",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A octanagem mede a capacidade de resistência do combustível à detonação, de acordo com o nível de compressão dentro do motor. Quanto mais elevada a octanagem, maior a qualidade do combustível. A elevada octanagem é resultado da presença, em maior quantidade, de hidrocarbonetos ramificados no combustível, em relação aos hidrocarbonetos de cadeia linear.\nPara aumentar a octanagem de um combustível, o petróleo passa por um processo químico de conversão de um hidrocarboneto de cadeia linear (heptano) em seu isômero ramificado.\nEsse processo químico, a que o petróleo é submetido, é conhecido como",
+   "alternativas": {
+    "a": "craqueamento.",
+    "b": "destilação fracionada.",
+    "c": "oxidação.",
+    "d": "reforma catalítica.",
+    "e": "decantação."
+   },
+   "resposta": "d",
+   "explicacao": "Transformar uma cadeia linear no seu ISÔMERO ramificado é rearranjar os mesmos átomos, sem mudar a fórmula molecular — e o processo industrial que faz isso é a reforma catalítica, também chamada de isomerização. O craqueamento faz outra coisa: QUEBRA cadeias longas em menores, mudando a fórmula. Destilação fracionada e decantação nem sequer são transformações químicas — são separações físicas, e o enunciado avisa que se trata de um processo químico. Oxidação alteraria a função do composto, introduzindo oxigênio, o que não é o caso de um isômero de hidrocarboneto."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "eng-quimica-24",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Química Verde ou química para o desenvolvimento sustentável é um campo emergente que tem como objetivo final desenvolver as ações científicas e/ou processos industriais ecologicamente corretos. Dentre os vários princípios que compõem a Química Verde, destaca-se a economia atômica, cujo principal objetivo é incorporar ao máximo os átomos dos reagentes nos produtos, evitando a síntese de produtos secundários.\nPode-se considerar, dentre as alternativas abaixo, que a transformação com a maior economia atômica é a",
+   "alternativas": {
+    "a": "produção de nitrobenzeno, a partir da nitração do benzeno.",
+    "b": "cloração do metano, para produção do clorometano.",
+    "c": "hidrogenação do eteno, para produção de etano.",
+    "d": "produção de metanol, a partir da hidrólise do etanoato de metila.",
+    "e": "desidratação do etanol, para a produção de eteno."
+   },
+   "resposta": "c",
+   "explicacao": "Economia atômica máxima é a da reação de ADIÇÃO, em que nada sobra: C₂H₄ + H₂ → C₂H₆ incorpora 100% dos átomos dos reagentes no único produto. Todas as outras geram subproduto que sai da conta — a nitração e a cloração liberam água e HCl, respectivamente, e são substituições; a hidrólise do éster produz metanol E ácido etanoico, de modo que só parte dos átomos vai para o produto desejado; e a desidratação do etanol descarta uma molécula de água inteira. Repare que o critério não é ser \"limpa\" ou \"verde\" no sentido comum, e sim quantos átomos dos reagentes terminam no produto."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "eng-quimica-25",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "escada",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Os isômeros planos do dimetil-benzeno são conhecidos como xilenos. Trata-se de hidrocarbonetos aromáticos, que diferem na posição relativa das metilas no anel benzênico e que existem na forma líquida em condições ambiente.\nConsidere as afirmações a seguir:\nI. Existem três xilenos diferentes, sendo eles isômeros constitucionais entre si.\nII. A fórmula molecular do xileno é C₈H₁₂.\nIII. Os xilenos possuem propriedades físico-químicas distintas.\nEstá correto o que se afirma em",
+   "alternativas": {
+    "a": "I, II e III.",
+    "b": "II, apenas.",
+    "c": "III, apenas.",
+    "d": "I e II, apenas.",
+    "e": "I e III, apenas."
+   },
+   "resposta": "e",
+   "explicacao": "I é correta: as duas metilas podem ficar em posição orto, meta ou para, o que dá três compostos distintos, isômeros de posição — que são um tipo de isomeria constitucional. III também: por terem geometrias e polaridades diferentes, os três xilenos têm pontos de fusão e ebulição diferentes, e é isso que permite separá-los industrialmente. II é a única falsa, e o erro está na contagem de hidrogênios: o benzeno é C₆H₆, e trocar dois hidrogênios por dois grupos CH₃ dá C₆H₄(CH₃)₂, ou seja, C₈H₁₀ — e não C₈H₁₂, que corresponderia a um grau de insaturação a menos do que o anel aromático exige."
   }
  ],
  "quimica-solucoes": [
@@ -114716,6 +115101,44 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A elevação ebulioscópica conta PARTÍCULAS, então o que interessa é quanto a dissociação aumenta o número total de mols dissolvidos. Sendo x o quanto de A se dissocia, K = x²/(1 − x) = 2 leva a x² + 2x − 2 = 0 e x = −1 + √3 ≈ 0,73. Ao equilíbrio há (1 − x) de A mais x de B e x de C, num total de 1 + x ≈ 1,73 mol/kg. Como D não se dissocia, sua molalidade efetiva é 1,00. Com Ke = 1,0, a diferença entre as duas elevações é 1,0 × (1,73 − 1,00) = 0,73 °C. Repare que o número coincide com o próprio grau de dissociação, e não por acaso: cada mol dissociado acrescenta exatamente um mol de partículas."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "eng-quimica-16",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Para analisar a composição de uma amostra de hidróxido de cálcio, Ca(OH)₂, e bicarbonato de sódio, NaHCO₃, um químico adicionou a essa mistura 200 mL de solução aquosa 0,2 mol/L de ácido clorídrico (HCl), até completa neutralização. Considere que o volume molar do CO₂, nas condições do experimento, é 24,5 L/mol.\nAo final da análise, foram recolhidos 735 mL de dióxido de carbono (CO₂), o que leva a concluir que as quantidades de matéria, em mol, de hidróxido de cálcio e bicarbonato de sódio na mistura eram, respectivamente, iguais a",
+   "alternativas": {
+    "a": "0,005 e 0,03.",
+    "b": "0,01 e 0,03.",
+    "c": "0,02 e 0,04.",
+    "d": "0,005 e 0,04.",
+    "e": "0,02 e 0,03."
+   },
+   "resposta": "a",
+   "explicacao": "O gás é o que permite separar as duas substâncias, porque só o bicarbonato libera CO₂: n(CO₂) = 0,735/24,5 = 0,03 mol, e como NaHCO₃ + HCl → NaCl + H₂O + CO₂ é de um para um, havia 0,03 mol de bicarbonato, que gastaram 0,03 mol de ácido. O HCl total é 0,200 L × 0,2 mol/L = 0,04 mol, então sobraram 0,01 mol para o hidróxido. Aí entra o detalhe que decide a questão: Ca(OH)₂ tem DUAS hidroxilas e consome 2 HCl por mol, de modo que 0,01 mol de ácido neutraliza 0,005 mol de base. Esquecer esse fator 2 leva direto a 0,01 e 0,03."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "eng-quimica-21",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Cromato de potássio é um composto iônico solúvel em água. Sua dissociação forma íons de acordo com a equação K₂CrO₄(s) → 2 K⁺(aq) + CrO₄²⁻(aq).\nDados: solubilidade de cromato de potássio a 25 °C = 659 g por litro de água; K = 39,1 g/mol; Cr = 52,0 g/mol; O = 16,0 g/mol.\nNo preparo de uma solução aquosa de cromato de potássio a 25 °C, foram adicionados 2 kg do sal em 2 L de água.\nA quantidade de matéria do cátion K⁺ existente, como corpo de fundo, é mais próxima de",
+   "alternativas": {
+    "a": "13,6 mol.",
+    "b": "24,6 mol.",
+    "c": "7,0 mol.",
+    "d": "3,5 mol.",
+    "e": "682 mol."
+   },
+   "resposta": "c",
+   "explicacao": "Em 2 L de água dissolvem-se, no máximo, 2 × 659 = 1318 g de sal. Como foram colocados 2000 g, o excesso que fica como CORPO DE FUNDO é 2000 − 1318 = 682 g. A massa molar do K₂CrO₄ é 2(39,1) + 52,0 + 4(16,0) = 194,2 g/mol, então 682 g correspondem a 3,5 mol do sal. O último passo é a proporção da fórmula: cada K₂CrO₄ traz DOIS potássios, e por isso são 7,0 mol de K⁺. O valor 3,5 é o de quem para no sal e esquece o índice 2, e 682 é a massa em gramas oferecida como se fosse quantidade de matéria."
   }
  ],
  "quimica-termoquimica-cinetica": [
@@ -115935,6 +116358,44 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Entalpia de FORMAÇÃO se refere a 1 mol do composto a partir das substâncias simples, o que aqui obriga a escrever ½H₂ + ½Cl₂ → HCl, com meios coeficientes. Quebrar ligações consome energia e formá-las libera, então ΔH = ½(434) + ½(243) − 431 = 217 + 121,5 − 431 = −92,5 kJ/mol. O valor −185 é a resposta da equação H₂ + Cl₂ → 2 HCl, que forma dois mols e por isso não é a entalpia de formação. O sinal positivo inverte quebra e formação, e 769,5 soma as três energias em vez de subtrair a do produto."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "eng-quimica-14",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Um gráfico apresenta a variação de entalpia da reação de formação da água líquida a partir dos gases hidrogênio e oxigênio: o estado inicial, H₂(g) + ½O₂(g), está em 0 kJ, e o estado final, H₂O(ℓ), em −286,6 kJ.\nTal reação é exemplo de",
+   "alternativas": {
+    "a": "decomposição, e ocorre com liberação de energia.",
+    "b": "eletrólise, e ocorre com liberação de energia.",
+    "c": "oxirredução, e ocorre com absorção de energia.",
+    "d": "combustão, e ocorre com liberação de energia.",
+    "e": "análise, e ocorre com absorção de energia."
+   },
+   "resposta": "d",
+   "explicacao": "Queimar hidrogênio em oxigênio é combustão, e o gráfico mostra o produto ABAIXO dos reagentes (−286,6 kJ), o que caracteriza processo exotérmico, com liberação de energia. As alternativas foram montadas para punir quem acerta metade: decomposição e análise descrevem o caminho INVERSO, em que a água se parte em H₂ e O₂; eletrólise é justamente esse caminho inverso forçado por corrente elétrica, e consome energia em vez de liberar. A opção que fala em oxirredução acerta a classificação — a reação é mesmo de oxirredução — mas erra o sinal, ao dizer que há absorção de energia."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "eng-quimica-26",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Considere a reação entre bromo gasoso e óxido nítrico, cuja velocidade depende, em primeira ordem, da concentração de gás bromo e, em segunda ordem, da concentração de óxido:\nBr₂(g) + 2 NO(g) → 2 NOBr(g)\nCerto estudo cinético dessa transformação, conduzido a 546 kelvin, estabeleceu velocidade inicial da reação igual a 12,0 mol/L·s.\nEm igualdade de condições e temperatura, caso a concentração de Br₂ seja triplicada e a concentração de NO seja reduzida à metade, a velocidade da reação será igual a",
+   "alternativas": {
+    "a": "9,0 mol/L·s",
+    "b": "54,0 mol/L·s",
+    "c": "18,0 mol/L·s",
+    "d": "36,0 mol/L·s",
+    "e": "144,0 mol/L·s"
+   },
+   "resposta": "a",
+   "explicacao": "A lei de velocidade vem das ORDENS informadas, não dos coeficientes da equação: v = k[Br₂]¹[NO]². Triplicar o bromo multiplica a velocidade por 3; reduzir o óxido à metade a multiplica por (1/2)² = 1/4, porque a ordem dele é dois. O fator combinado é 3 × 1/4 = 3/4, e 12,0 × 3/4 = 9,0 mol/L·s. Quem trata o NO como primeira ordem obtém 3 × 1/2 = 3/2 e chega a 18,0; quem esquece a redução do NO e só triplica chega a 36,0. É o expoente 2 que faz a velocidade CAIR mesmo com o bromo triplicado."
   }
  ],
  "fisica-termologia": [

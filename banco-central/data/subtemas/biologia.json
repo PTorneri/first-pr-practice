@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "biologia",
- "total": 461,
+ "total": 471,
  "residuo": [
   "med-biologia-09",
   "med-biologia-39",
@@ -2769,6 +2769,63 @@
    "frenteDestino": "biologia",
    "pontos": 14,
    "margem": 10
+  },
+  "eng-biologia-01": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "eng-biologia-02": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 7,
+   "margem": 7
+  },
+  "eng-biologia-03": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 12,
+   "margem": 12
+  },
+  "eng-biologia-04": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 7,
+   "margem": 7
+  },
+  "eng-biologia-05": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 8,
+   "margem": 8
+  },
+  "eng-biologia-06": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "eng-biologia-07": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "eng-biologia-08": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "eng-biologia-09": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "eng-biologia-10": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 22,
+   "margem": 18
   }
  }
 }

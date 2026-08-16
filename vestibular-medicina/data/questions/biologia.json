@@ -7207,6 +7207,191 @@
       "resposta": "d",
       "explicacao": "O excesso de nutrientes dispara a proliferação de organismos fotossintetizantes na superfície. A camada formada bloqueia a luz, e o material que morre e afunda é degradado pelos decompositores aeróbios do fundo. Esse consumo derruba o oxigênio dissolvido nas camadas profundas, e a fauna de fundo morre por asfixia.",
       "formato": "direta"
+    },
+    {
+      "id": "eng-biologia-01",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-presencial",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "Paramecium é um gênero de protozoário que habita água marinha, doce ou salobra, podendo ser encontrado em ambientes com água parada, com corpo coberto por cílios.\nSobre o Paramecium, é correto afirmar que",
+      "alternativas": {
+        "a": "é protista, procarionte e se locomove, na água, com auxílio dos cílios que cobrem sua superfície.",
+        "b": "é eucarionte, heterotrófico, e possui cílios que auxiliam sua locomoção na água.",
+        "c": "pertence ao reino protista, é autótrofo, eucarionte, unicelular e ciliado.",
+        "d": "é unicelular, heterotrófico, e se locomove com auxílio dos flagelos que cobrem sua superfície.",
+        "e": "pertence ao reino protista, é procarionte, autótrofo e flagelado."
+      },
+      "resposta": "b",
+      "explicacao": "Cada alternativa errada carrega um único termo falso, e é isso que a questão testa. Protozoário é protista e, por definição do reino, EUCARIONTE — tem núcleo organizado —, o que derruba de imediato as duas opções que o chamam de procarionte. Paramecium também não produz o próprio alimento: ingere partículas pelo sulco oral, sendo heterotrófico, e por isso caem as que o descrevem como autótrofo. Resta a distinção entre cílios e flagelos, que o próprio enunciado já entrega ao dizer que o corpo é coberto por cílios — numerosos e curtos, ao contrário dos flagelos, longos e poucos."
+    },
+    {
+      "id": "eng-biologia-02",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-presencial",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "O cariótipo com banda G é exame genético cujo resultado permite analisar os cromossomos presentes no DNA de um indivíduo. Um cariótipo apresenta 47 cromossomos, com o padrão sexual XXY.\nO padrão cromossômico acima é compatível com um indivíduo portador da síndrome de",
+      "alternativas": {
+        "a": "Turner.",
+        "b": "Down.",
+        "c": "Patau.",
+        "d": "Edwards.",
+        "e": "Klinefelter."
+      },
+      "resposta": "e",
+      "explicacao": "O número 47 indica um cromossomo a mais que os 46 habituais, e a notação XXY diz exatamente onde está o excesso: nos cromossomos SEXUAIS. Essa é a síndrome de Klinefelter. As outras três trissomias listadas são autossômicas e também dão 47 cromossomos, mas o par extra é numerado — 21 na síndrome de Down, 13 na de Patau e 18 na de Edwards —, e nenhuma delas altera o padrão sexual. Turner é o oposto do que está descrito: falta um cromossomo sexual, com 45 cromossomos e cariótipo X0."
+    },
+    {
+      "id": "eng-biologia-03",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-online",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "No ciclo de Krebs, uma das etapas do processo de respiração celular, o fumarato recebe água na presença da enzima fumarase e se converte em malato; em seguida, o malato é convertido em oxalacetato, etapa em que NAD⁺ é convertido em NADH + H⁺.\nNo ciclo de Krebs, a conversão do fumarato em malato, e a transformação de malato em oxalacetato ocorrem, respectivamente, por meio de reações de",
+      "alternativas": {
+        "a": "hidratação e redução.",
+        "b": "hidrólise e oxidação.",
+        "c": "hidrólise e redução.",
+        "d": "hidrólise e neutralização.",
+        "e": "hidratação e oxidação."
+      },
+      "resposta": "e",
+      "explicacao": "A primeira etapa acrescenta uma molécula de água à dupla ligação do fumarato sem quebrar nada: é HIDRATAÇÃO, e não hidrólise — hidrólise usaria a água para romper uma ligação, partindo a molécula em duas. Na segunda etapa, quem entrega elétrons e hidrogênio é o malato, e quem os recebe é o NAD⁺, que vira NADH. Como o malato PERDE hidrogênio, ele sofre oxidação; o NAD⁺ é que é reduzido. Trocar os dois papéis é o erro que a opção \"hidratação e redução\" registra, e é o deslize mais comum em oxirredução biológica: olhar para a coenzima em vez de olhar para o substrato sobre o qual a pergunta incide."
+    },
+    {
+      "id": "eng-biologia-04",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-online",
+      "formato": "lacunas",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "visual": {
+        "tipo": "Gráfico",
+        "arquivo": "assets/provas/maua-2025-online-q36.png",
+        "descricao": "Gráfico da quantidade de matéria de malato formada em função do tempo, com duas curvas. A curva B sobe depressa e chega cedo ao patamar; a curva A sobe devagar e alcança o MESMO patamar final, só que muito depois."
+      },
+      "enunciado": "Ainda no ciclo de Krebs, observa-se a participação de enzimas, como a fumarase, que apresentam um papel importante na conversão do fumarato em malato. O gráfico mostra a quantidade de matéria de malato formada em função do tempo, com duas curvas, A e B.\nA fumarase atua como _____________ do processo, sendo a reação com a presença dessa enzima representada pela curva _____________, já que a fumarase atua ___________ a energia de ativação do processo de transformação do fumarato em malato.\nAs lacunas presentes no texto são preenchidas, respectivamente, por",
+      "alternativas": {
+        "a": "inibidor – A – aumentando.",
+        "b": "catalisador – B – diminuindo.",
+        "c": "catalisador – A – diminuindo.",
+        "d": "catalisador – A – aumentando.",
+        "e": "inibidor – B – diminuindo."
+      },
+      "resposta": "b",
+      "explicacao": "Enzima é catalisador biológico, e catalisador age BAIXANDO a energia de ativação — abre um caminho alternativo mais barato para a reação. Isso já fixa a primeira e a terceira lacunas. A do meio sai do gráfico: as duas curvas terminam no MESMO patamar, o que confirma que a enzima não muda a quantidade final de produto (nem o equilíbrio), apenas a rapidez com que se chega lá; logo a curva com enzima é a que sobe mais depressa, a B. Chamar a fumarase de inibidor contradiz o próprio nome da classe — a terminação -ase indica enzima, e o enunciado diz que ela tem papel importante na conversão."
+    },
+    {
+      "id": "eng-biologia-05",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-online",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "A diluição seriada é uma técnica muito utilizada em análises clínicas e consiste na realização de várias diluições sucessivas. Inicia-se com a solução mais concentrada, chegando a soluções menos concentradas: utiliza-se 0,5 mL da solução estoque, diluída ao ser misturada com 0,5 mL do diluente (tubo 1); do tubo 1, retira-se 0,5 mL, diluído com mais 0,5 mL de diluente (tubo 2), e assim sucessivamente.\nNo exame de VDRL, utilizado para diagnóstico e monitoramento do tratamento da sífilis, uma amostra de sangue é retirada do indivíduo e passa por diluição seriada, sendo considerado resultado positivo quando, após a quarta diluição, ainda é possível identificar anticorpos.\nConsiderando que a amostra de sangue retirada do paciente seja a solução estoque e que a concentração de anticorpos nessa solução seja igual a X, a concentração de anticorpos na solução obtida após a quarta diluição será de",
+      "alternativas": {
+        "a": "X/2",
+        "b": "X/32",
+        "c": "X/16",
+        "d": "X/8",
+        "e": "X/4"
+      },
+      "resposta": "c",
+      "explicacao": "Cada tubo mistura 0,5 mL da solução anterior com 0,5 mL de diluente, o que dobra o volume e portanto CORTA a concentração pela metade — é uma diluição 1:2, não 1:1 como o volume igual pode sugerir. Quatro diluições sucessivas multiplicam esse fator quatro vezes: X × (1/2)⁴ = X/16. O crescimento é geométrico, e não aditivo, que é justamente o que separa X/16 de X/8 (três diluições) e de X/32 (cinco). Na prática clínica é essa progressão que dá o \"título\" do exame, expresso como 1:2, 1:4, 1:8, 1:16."
+    },
+    {
+      "id": "eng-biologia-06",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-online",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "A origem da carapaça em tartarugas é objeto de estudo da biologia evolutiva. Uma hipótese representa as modificações ao longo da linhagem que leva aos Testudinata: primeiro o surgimento de costelas em T (Eunotosaurus africanus), depois um novo arranjo das costelas ventrais (Pappochelys rosinae), em seguida o plastrão, a redução da cauda e espinhos neurais expandidos (Odontochelys semitestacea), então a perda dos dentes marginais e a carapaça completa (Proganochelys quenstedti), e por fim os Testudinata, que reúnem as demais tartarugas atuais.\nPara o grupo Testudinata, a hipótese ilustrada acima trata de suas relações",
+      "alternativas": {
+        "a": "harmônicas.",
+        "b": "bióticas interespecíficas.",
+        "c": "predatórias.",
+        "d": "filogenéticas.",
+        "e": "desarmônicas."
+      },
+      "resposta": "d",
+      "explicacao": "O que está descrito é uma sequência de ANCESTRALIDADE: espécies fósseis ordenadas pelo aparecimento sucessivo de características que culminam na carapaça completa. Relação de parentesco evolutivo entre grupos é, por definição, relação filogenética. Todas as outras opções pertencem a um campo diferente — o da ecologia —, e descrevem interações entre organismos que convivem no mesmo tempo e lugar: harmônicas e desarmônicas classificam o saldo da convivência, interespecíficas dizem que ocorrem entre espécies distintas, e predação é um caso particular. Nenhuma se aplica a espécies separadas por milhões de anos, que nunca se encontraram."
+    },
+    {
+      "id": "eng-biologia-07",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-online",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "Certas espécies marinhas — entre elas o pepino-do-mar, a ofiúra e a bolacha-da-praia — apresentam sistema vascular aquífero, ossículos calcários e tecido conectivo mutável.\nOs organismos acima tratam-se de",
+      "alternativas": {
+        "a": "poríferos.",
+        "b": "artrópodes.",
+        "c": "moluscos.",
+        "d": "cnidários.",
+        "e": "equinodermos."
+      },
+      "resposta": "e",
+      "explicacao": "O sistema vascular aquífero é exclusivo dos equinodermos: é a rede de canais cheios de água que aciona os pés ambulacrários usados na locomoção e na captura de alimento. Some-se a isso o endoesqueleto de ossículos calcários e o tecido conectivo mutável, capaz de enrijecer ou amolecer sob controle nervoso, e os três traços juntos não pertencem a nenhum outro filo. Os exemplos confirmam: pepino-do-mar, ofiúra e bolacha-da-praia são equinodermos, ao lado da estrela-do-mar e do ouriço. Poríferos não têm tecidos verdadeiros; artrópodes e moluscos têm exoesqueleto ou concha, e não ossículos internos; cnidários têm células urticantes e simetria radial sem esqueleto calcário interno."
+    },
+    {
+      "id": "eng-biologia-08",
+      "banca": "maua",
+      "sessao": "maua-inverno-2024",
+      "formato": "lacunas",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "A condução de seiva bruta nos vegetais ocorre pelo __________, e uma das hipóteses explicativas é a Teoria da Adesão – Coesão – Tensão. Segundo essa hipótese, o movimento ascendente da coluna de água está associado a vários fenômenos, como transpiração, coesão e adesão nos vasos e absorção radicular.\nNo processo de transpiração, o vapor de água é eliminado a partir __________, causando uma tensão que faz a água ascender. As forças de adesão e coesão proporcionadas pelas interações do tipo __________ entre as moléculas de água permitem a formação de uma coluna contínua, o que contribui para esse movimento de ascensão.\nAs lacunas presentes no texto são corretamente preenchidas, respectivamente, por",
+      "alternativas": {
+        "a": "xilema – da raiz – dipolo induzido.",
+        "b": "xilema – dos estômatos – ligação de hidrogênio.",
+        "c": "xilema – da raiz – iônica.",
+        "d": "floema – da raiz – dipolo induzido.",
+        "e": "floema – dos estômatos – ligação de hidrogênio."
+      },
+      "resposta": "b",
+      "explicacao": "As três lacunas cobram assuntos diferentes e cada uma elimina alternativas. Seiva BRUTA — água e sais minerais, subindo da raiz — corre pelo xilema; o floema conduz a seiva elaborada, com açúcares produzidos na fotossíntese. A transpiração que puxa a coluna acontece nas FOLHAS, pelos estômatos, e não na raiz: é a saída de vapor lá em cima que gera a tensão transmitida para baixo. E a coesão entre moléculas de água vem das ligações de hidrogênio, possíveis porque o hidrogênio está preso a um oxigênio muito eletronegativo — dipolo induzido é interação de moléculas apolares, e ligação iônica nem sequer ocorre entre moléculas de água."
+    },
+    {
+      "id": "eng-biologia-09",
+      "banca": "maua",
+      "sessao": "maua-inverno-2024",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "Dinâmica populacional é uma área da ecologia que se dedica a estudar variações na quantidade de indivíduos em uma população.\nSobre a dinâmica das populações, é correto afirmar que",
+      "alternativas": {
+        "a": "a densidade da população (d) é dada por: d = N²/A, sendo N o número de indivíduos da população e A a unidade de medida de área ou volume.",
+        "b": "uma população em equilíbrio apresenta densidade constante, em que: natalidade + emigração = mortalidade + imigração.",
+        "c": "os parâmetros natalidade e emigração contribuem com o aumento da densidade populacional de uma espécie.",
+        "d": "o potencial biótico mede a capacidade de uma população aumentar em condições extremas ou desfavoráveis.",
+        "e": "a resistência ambiental considera todos os fatores que limitam o crescimento de uma população, como predadores e competidores, entre outros."
+      },
+      "resposta": "e",
+      "explicacao": "Resistência ambiental é exatamente o conjunto de fatores que freiam o crescimento — predação, competição, doença, escassez de alimento — e é o que faz a curva real se afastar da exponencial. As demais erram por um detalhe cada. A densidade é d = N/A, sem elevar N ao quadrado. No equilíbrio, o que entra iguala o que sai: natalidade + IMIGRAÇÃO = mortalidade + EMIGRAÇÃO, e a alternativa troca os dois termos de lado. Emigração é saída de indivíduos, portanto DIMINUI a densidade em vez de aumentá-la. E potencial biótico é definido para condições IDEAIS, o crescimento máximo possível sem restrição, e não para condições desfavoráveis."
+    },
+    {
+      "id": "eng-biologia-10",
+      "banca": "maua",
+      "sessao": "maua-inverno-2024",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "A doença de Tay-Sachs, de padrão autossômico recessivo, é distúrbio genético raro, causado pela deficiência da enzima hidrolítica hexosaminidase. Essa enzima, catalisadora de uma reação metabólica de digestão em células eucariontes animais, é encontrada na organela",
+      "alternativas": {
+        "a": "plasto.",
+        "b": "lisossomo.",
+        "c": "mitocôndria.",
+        "d": "glioxissomo.",
+        "e": "centríolo."
+      },
+      "resposta": "b",
+      "explicacao": "As duas pistas do enunciado apontam para a mesma organela: a enzima é HIDROLÍTICA e faz DIGESTÃO intracelular, que é a função do lisossomo — a bolsa de enzimas digestivas produzida pelo complexo golgiense. É por isso que a deficiência de hexosaminidase faz acumular material não digerido dentro das células nervosas, o que explica o quadro da doença. Plasto e glioxissomo são organelas de células VEGETAIS, o que já as descarta num enunciado sobre células animais. A mitocôndria faz respiração celular, produzindo ATP, não digestão. E o centríolo participa da divisão celular e da organização de cílios e flagelos, sem atividade enzimática digestiva."
     }
   ]
 }

@@ -217,6 +217,258 @@
       },
       "resposta": "b",
       "explicacao": "Entalpia de FORMAÇÃO se refere a 1 mol do composto a partir das substâncias simples, o que aqui obriga a escrever ½H₂ + ½Cl₂ → HCl, com meios coeficientes. Quebrar ligações consome energia e formá-las libera, então ΔH = ½(434) + ½(243) − 431 = 217 + 121,5 − 431 = −92,5 kJ/mol. O valor −185 é a resposta da equação H₂ + Cl₂ → 2 HCl, que forma dois mols e por isso não é a entalpia de formação. O sinal positivo inverte quebra e formação, e 769,5 soma as três energias em vez de subtrair a do produto."
+    },
+    {
+      "id": "quimica-13",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-presencial",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "O policarbonato, cuja unidade de repetição é [–O–C₆H₄–C(CH₃)₂–C₆H₄–O–C(=O)–]ₙ, é polímero termoplástico de engenharia, com temperatura de fusão em torno de 265 °C. Ele é largamente utilizado devido às suas características de liberdade de design, transparência e ductilidade, boa estabilidade térmica e resistência à corrosão.\nDe acordo com a estrutura apresentada, conclui-se que o policarbonato",
+      "alternativas": {
+        "a": "é formado a partir de reações de condensação.",
+        "b": "encontra-se no estado líquido em temperaturas abaixo de 265 °C.",
+        "c": "possui uma ramificação etil em cada unidade de repetição.",
+        "d": "é um polímero que possui cadeia alifática.",
+        "e": "apresenta ligações de hidrogênio entre as cadeias."
+      },
+      "resposta": "a",
+      "explicacao": "O grupo carbonato –O–C(=O)–O– só se forma com saída de uma molécula pequena entre o difenol e o reagente que traz a carbonila: é polimerização por CONDENSAÇÃO, e não por adição. As demais caem cada uma num detalhe da estrutura escrita no enunciado: abaixo de 265 °C o polímero está SÓLIDO, não líquido, porque essa é a temperatura de fusão; as ramificações são duas metilas do grupo C(CH₃)₂, não uma etila; a cadeia traz dois anéis benzênicos por unidade, o que a torna aromática e não alifática; e ligação de hidrogênio exigiria hidrogênio preso a N, O ou F, que a estrutura não tem — os oxigênios estão todos ligados a carbono."
+    },
+    {
+      "id": "quimica-14",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-presencial",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "Um gráfico apresenta a variação de entalpia da reação de formação da água líquida a partir dos gases hidrogênio e oxigênio: o estado inicial, H₂(g) + ½O₂(g), está em 0 kJ, e o estado final, H₂O(ℓ), em −286,6 kJ.\nTal reação é exemplo de",
+      "alternativas": {
+        "a": "decomposição, e ocorre com liberação de energia.",
+        "b": "eletrólise, e ocorre com liberação de energia.",
+        "c": "oxirredução, e ocorre com absorção de energia.",
+        "d": "combustão, e ocorre com liberação de energia.",
+        "e": "análise, e ocorre com absorção de energia."
+      },
+      "resposta": "d",
+      "explicacao": "Queimar hidrogênio em oxigênio é combustão, e o gráfico mostra o produto ABAIXO dos reagentes (−286,6 kJ), o que caracteriza processo exotérmico, com liberação de energia. As alternativas foram montadas para punir quem acerta metade: decomposição e análise descrevem o caminho INVERSO, em que a água se parte em H₂ e O₂; eletrólise é justamente esse caminho inverso forçado por corrente elétrica, e consome energia em vez de liberar. A opção que fala em oxirredução acerta a classificação — a reação é mesmo de oxirredução — mas erra o sinal, ao dizer que há absorção de energia."
+    },
+    {
+      "id": "quimica-15",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-presencial",
+      "formato": "lacunas",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "O urânio é elemento presente em quase 100 minerais, sendo transportado a partir da lixiviação de rochas para leitos aquáticos. Nas águas superficiais e subterrâneas oxidantes, ocorre o transporte de urânio como íons uranila (UO₂²⁺), sob a forma de vários compostos solúveis com os ânions comumente dissolvidos. Em condições ácidas, os principais compostos da uranila são formados com o fosfato (PO₄³⁻), e em condições alcalinas são formados com o carbonato (CO₃²⁻).\nNo íon uranila, o urânio apresenta um número de oxidação igual a _______, sendo que o composto formado desse íon em águas subterrâneas com pH 8,5 possui fórmula _________.\nAs lacunas presentes no texto são preenchidas, respectivamente, por",
+      "alternativas": {
+        "a": "+4 – UO₂CO₃.",
+        "b": "+6 – UO₂CO₃.",
+        "c": "+6 – (UO₂)₃(PO₄)₂.",
+        "d": "+4 – UO₂PO₄.",
+        "e": "+2 – (UO₂)₃(PO₄)₂."
+      },
+      "resposta": "b",
+      "explicacao": "No íon UO₂²⁺ os dois oxigênios somam −4, e a carga total é +2; logo o urânio entra com +6. O segundo passo é ler o pH: 8,5 está ACIMA de 7, isto é, meio alcalino, e o enunciado diz que em condições alcalinas a uranila se associa ao carbonato. Como UO₂²⁺ tem carga +2 e CO₃²⁻ tem carga −2, a proporção é de um para um: UO₂CO₃. Quem lê 8,5 como meio ácido escolhe o fosfato, e quem esquece que a carga do íon é +2 (e não zero) chega a +4 para o urânio."
+    },
+    {
+      "id": "quimica-16",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-presencial",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Para analisar a composição de uma amostra de hidróxido de cálcio, Ca(OH)₂, e bicarbonato de sódio, NaHCO₃, um químico adicionou a essa mistura 200 mL de solução aquosa 0,2 mol/L de ácido clorídrico (HCl), até completa neutralização. Considere que o volume molar do CO₂, nas condições do experimento, é 24,5 L/mol.\nAo final da análise, foram recolhidos 735 mL de dióxido de carbono (CO₂), o que leva a concluir que as quantidades de matéria, em mol, de hidróxido de cálcio e bicarbonato de sódio na mistura eram, respectivamente, iguais a",
+      "alternativas": {
+        "a": "0,005 e 0,03.",
+        "b": "0,01 e 0,03.",
+        "c": "0,02 e 0,04.",
+        "d": "0,005 e 0,04.",
+        "e": "0,02 e 0,03."
+      },
+      "resposta": "a",
+      "explicacao": "O gás é o que permite separar as duas substâncias, porque só o bicarbonato libera CO₂: n(CO₂) = 0,735/24,5 = 0,03 mol, e como NaHCO₃ + HCl → NaCl + H₂O + CO₂ é de um para um, havia 0,03 mol de bicarbonato, que gastaram 0,03 mol de ácido. O HCl total é 0,200 L × 0,2 mol/L = 0,04 mol, então sobraram 0,01 mol para o hidróxido. Aí entra o detalhe que decide a questão: Ca(OH)₂ tem DUAS hidroxilas e consome 2 HCl por mol, de modo que 0,01 mol de ácido neutraliza 0,005 mol de base. Esquecer esse fator 2 leva direto a 0,01 e 0,03."
+    },
+    {
+      "id": "quimica-17",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-presencial",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "Considere as transformações químicas balanceadas, numeradas de 1 a 5:\n1: C₉H₂₀ + 14 O₂ → 9 CO₂ + 10 H₂O\n2: Zn(OH)₂ + HCN → H₂O + ZnOHCN\n3: 2 H₃PO₄ + 3 Ca(OH)₂ → Ca₃(PO₄)₂ + 6 H₂O\n4: 2 C₆H₆ + 9 O₂ → 12 CO + 6 H₂O\n5: Zn + 2 HCl → ZnCl₂ + H₂\nRepresentam reações de combustão, oxirredução e neutralização parcial, respectivamente, as equações",
+      "alternativas": {
+        "a": "1, 5 e 3.",
+        "b": "1, 3 e 2.",
+        "c": "3, 4 e 2.",
+        "d": "4, 5 e 3.",
+        "e": "4, 1 e 2."
+      },
+      "resposta": "e",
+      "explicacao": "A palavra PARCIAL é a chave, e ela aparece na terceira posição. Na equação 2, o Zn(OH)₂ tem duas hidroxilas e só uma delas reage, sobrando o ZnOHCN — neutralização parcial. Na 3, todas as hidroxilas e todos os hidrogênios ionizáveis são consumidos: é neutralização total. Isso já elimina as opções que terminam em 3. Entre as que sobram, tanto a 1 quanto a 4 são combustões (a 4 incompleta, gerando CO), e tanto a 1 quanto a 4 e a 5 são oxirreduções — então a sequência que fecha as três posições ao mesmo tempo é 4, 1 e 2."
+    },
+    {
+      "id": "quimica-18",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-presencial",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "Dextroanfetamina é uma droga sintética que estimula o sistema nervoso central, sendo empregada com finalidade terapêutica em casos de narcolepsia e distúrbios envolvendo hiperatividade. Sua estrutura é um anel benzênico ligado a um grupo –CH₂–CH(CH₃)–NH₂, e o carbono central desse grupo é um centro estereogênico.\nÉ correto dizer que a dextroanfetamina é uma amina",
+      "alternativas": {
+        "a": "secundária, que interage com a luz plano-polarizada, desviando-a para a direita.",
+        "b": "aromática, que interage com a luz plano-polarizada, desviando-a para a direita.",
+        "c": "primária, cujo grupo funcional atua como base, segundo a teoria de Brønsted-Lowry.",
+        "d": "que interage por ligação de hidrogênio e cujo grupo funcional atua como ácido, segundo a teoria de Brønsted-Lowry.",
+        "e": "que possui isômero óptico levógiro, sendo um caso de isomeria de compensação."
+      },
+      "resposta": "c",
+      "explicacao": "A classificação de uma amina conta quantos CARBONOS estão presos ao nitrogênio, e aqui é um só — logo, amina primária. E o nitrogênio tem um par de elétrons livre, com que recebe próton: pela definição de Brønsted-Lowry, quem recebe próton é base, o que torna errada a opção que a chama de ácido. Amina aromática seria aquela com o nitrogênio ligado DIRETAMENTE ao anel, como a anilina; aqui há dois carbonos entre o anel e o NH₂. E o isômero óptico de imagem especular não é isomeria de compensação (metameria), que é outra coisa: variação da posição de um heteroátomo dentro da cadeia."
+    },
+    {
+      "id": "quimica-19",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-online",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "Em um site de venda de produtos químicos, um produto é divulgado como \"Soda Cáustica Líquida 5 Litros – 50%\". O anúncio apresenta um erro conceitual, já que o ponto de fusão do hidróxido de sódio (NaOH) é 318 °C ao nível do mar, o que impossibilita o estado físico líquido na temperatura ambiente. Na realidade, o anunciante deveria ter indicado que se trata de uma solução aquosa de soda cáustica, formada pela dissolução do hidróxido de sódio em água.\nNessa dissolução, as partículas do soluto e do solvente interagem por meio de interações do tipo",
+      "alternativas": {
+        "a": "ligação de hidrogênio.",
+        "b": "dipolo permanente.",
+        "c": "dipolo induzido.",
+        "d": "ligação iônica.",
+        "e": "íon-dipolo."
+      },
+      "resposta": "e",
+      "explicacao": "O NaOH é composto iônico e, ao se dissolver, libera Na⁺ e OH⁻; a água é molécula polar. A interação entre um ÍON e uma molécula com dipolo é, por definição, íon-dipolo — é ela que solvata cada íon e mantém o sal dissolvido. Ligação de hidrogênio e dipolo permanente descrevem interações entre MOLÉCULAS, e as moléculas de água de fato as fazem entre si, mas a pergunta é sobre soluto e solvente. Dipolo induzido apareceria com soluto apolar. E ligação iônica é o que segura o sólido antes da dissolução, justamente o que a água desfaz."
+    },
+    {
+      "id": "quimica-20",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-online",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Farneseno é um composto orgânico da classe dos sesquiterpenos, que pode ser obtido a partir da cana-de-açúcar. Sua hidrogenação total produz farnesano, conhecido como bioquerosene, um combustível alternativo aeronáutico. O farneseno é um hidrocarboneto acíclico de quinze carbonos, com ramificações metílicas e quatro ligações duplas.\nÉ correto afirmar que",
+      "alternativas": {
+        "a": "é possível produzir farneseno a partir de farnesano, por meio de hidrogenação catalítica, empregando níquel metálico.",
+        "b": "as moléculas de farneseno e farnesano são acíclicas, com fórmulas químicas C₁₅H₂₄ e C₁₅H₃₂, respectivamente.",
+        "c": "farnesano é um hidrocarboneto insaturado, obtido a partir da quebra das ligações duplas do farneseno.",
+        "d": "o produto farnesano é um alcano que possui 3 ramificações na cadeia principal e 8 carbonos secundários.",
+        "e": "são necessários 4 mols de gás hidrogênio (H₂) para a hidrogenação total de 1 mol de farneseno, na reação de eliminação."
+      },
+      "resposta": "b",
+      "explicacao": "Quinze carbonos e quatro insaturações dão C₁₅H₂₄ (um alcano de 15 carbonos teria C₁₅H₃₂, e cada dupla tira dois hidrogênios). Hidrogenar todas as quatro devolve exatamente o C₁₅H₃₂ do farnesano, e nenhum dos dois tem anel. A opção que fala em insaturado erra porque o produto da hidrogenação é SATURADO. A que exige 4 mol de H₂ acerta o número, mas chama a reação de eliminação quando ela é de ADIÇÃO — hidrogenação acrescenta átomos à molécula. E a última inverte o sentido: hidrogenação catalítica com níquel leva do farneseno ao farnesano, não o contrário."
+    },
+    {
+      "id": "quimica-21",
+      "banca": "maua",
+      "sessao": "maua-verao-2025-online",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Cromato de potássio é um composto iônico solúvel em água. Sua dissociação forma íons de acordo com a equação K₂CrO₄(s) → 2 K⁺(aq) + CrO₄²⁻(aq).\nDados: solubilidade de cromato de potássio a 25 °C = 659 g por litro de água; K = 39,1 g/mol; Cr = 52,0 g/mol; O = 16,0 g/mol.\nNo preparo de uma solução aquosa de cromato de potássio a 25 °C, foram adicionados 2 kg do sal em 2 L de água.\nA quantidade de matéria do cátion K⁺ existente, como corpo de fundo, é mais próxima de",
+      "alternativas": {
+        "a": "13,6 mol.",
+        "b": "24,6 mol.",
+        "c": "7,0 mol.",
+        "d": "3,5 mol.",
+        "e": "682 mol."
+      },
+      "resposta": "c",
+      "explicacao": "Em 2 L de água dissolvem-se, no máximo, 2 × 659 = 1318 g de sal. Como foram colocados 2000 g, o excesso que fica como CORPO DE FUNDO é 2000 − 1318 = 682 g. A massa molar do K₂CrO₄ é 2(39,1) + 52,0 + 4(16,0) = 194,2 g/mol, então 682 g correspondem a 3,5 mol do sal. O último passo é a proporção da fórmula: cada K₂CrO₄ traz DOIS potássios, e por isso são 7,0 mol de K⁺. O valor 3,5 é o de quem para no sal e esquece o índice 2, e 682 é a massa em gramas oferecida como se fosse quantidade de matéria."
+    },
+    {
+      "id": "quimica-22",
+      "banca": "maua",
+      "sessao": "maua-inverno-2024",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "A octanagem mede a capacidade de resistência do combustível à detonação, de acordo com o nível de compressão dentro do motor. Quanto mais elevada a octanagem, maior a qualidade do combustível. A elevada octanagem é resultado da presença, em maior quantidade, de hidrocarbonetos ramificados no combustível, em relação aos hidrocarbonetos de cadeia linear.\nPara aumentar a octanagem de um combustível, o petróleo passa por um processo químico de conversão de um hidrocarboneto de cadeia linear (heptano) em seu isômero ramificado.\nEsse processo químico, a que o petróleo é submetido, é conhecido como",
+      "alternativas": {
+        "a": "craqueamento.",
+        "b": "destilação fracionada.",
+        "c": "oxidação.",
+        "d": "reforma catalítica.",
+        "e": "decantação."
+      },
+      "resposta": "d",
+      "explicacao": "Transformar uma cadeia linear no seu ISÔMERO ramificado é rearranjar os mesmos átomos, sem mudar a fórmula molecular — e o processo industrial que faz isso é a reforma catalítica, também chamada de isomerização. O craqueamento faz outra coisa: QUEBRA cadeias longas em menores, mudando a fórmula. Destilação fracionada e decantação nem sequer são transformações químicas — são separações físicas, e o enunciado avisa que se trata de um processo químico. Oxidação alteraria a função do composto, introduzindo oxigênio, o que não é o caso de um isômero de hidrocarboneto."
+    },
+    {
+      "id": "quimica-23",
+      "banca": "maua",
+      "sessao": "maua-inverno-2024",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "engenharia",
+      "enunciado": "Um fertilizante tem rótulo NPK 04 – 14 – 08, isto é, percentuais em massa de 4% de nitrogênio total, 14% de fósforo (como P₂O₅) e 8% de óxido de potássio (K₂O).\nConsidere a aplicação desse fertilizante em um terreno trapezoidal com bases de 15 m e 25 m e altura de 10 m. Sabendo que 1 hectare (ha) equivale a 10.000 m², e que o solo desse terreno necessita de 50 kg de nitrogênio por hectare, a quantidade mínima do fertilizante utilizada, para garantir essa necessidade, é de",
+      "alternativas": {
+        "a": "1 kg",
+        "b": "7 kg",
+        "c": "12 kg",
+        "d": "25 kg",
+        "e": "50 kg"
+      },
+      "resposta": "d",
+      "explicacao": "São três passos encaixados. A área do trapézio é (15 + 25)/2 × 10 = 200 m², o que equivale a 200/10 000 = 0,02 ha. A necessidade de nitrogênio é 50 × 0,02 = 1 kg. Só que 1 kg é a massa do NUTRIENTE, não a do fertilizante: como o produto tem apenas 4% de nitrogênio, são precisos 1/0,04 = 25 kg de fertilizante. Parar no segundo passo dá exatamente 1 kg, que é a alternativa oferecida para esse erro. Os números 14 e 8 do rótulo não entram na conta — a exigência declarada é só de nitrogênio."
+    },
+    {
+      "id": "quimica-24",
+      "banca": "maua",
+      "sessao": "maua-inverno-2024",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "Química Verde ou química para o desenvolvimento sustentável é um campo emergente que tem como objetivo final desenvolver as ações científicas e/ou processos industriais ecologicamente corretos. Dentre os vários princípios que compõem a Química Verde, destaca-se a economia atômica, cujo principal objetivo é incorporar ao máximo os átomos dos reagentes nos produtos, evitando a síntese de produtos secundários.\nPode-se considerar, dentre as alternativas abaixo, que a transformação com a maior economia atômica é a",
+      "alternativas": {
+        "a": "produção de nitrobenzeno, a partir da nitração do benzeno.",
+        "b": "cloração do metano, para produção do clorometano.",
+        "c": "hidrogenação do eteno, para produção de etano.",
+        "d": "produção de metanol, a partir da hidrólise do etanoato de metila.",
+        "e": "desidratação do etanol, para a produção de eteno."
+      },
+      "resposta": "c",
+      "explicacao": "Economia atômica máxima é a da reação de ADIÇÃO, em que nada sobra: C₂H₄ + H₂ → C₂H₆ incorpora 100% dos átomos dos reagentes no único produto. Todas as outras geram subproduto que sai da conta — a nitração e a cloração liberam água e HCl, respectivamente, e são substituições; a hidrólise do éster produz metanol E ácido etanoico, de modo que só parte dos átomos vai para o produto desejado; e a desidratação do etanol descarta uma molécula de água inteira. Repare que o critério não é ser \"limpa\" ou \"verde\" no sentido comum, e sim quantos átomos dos reagentes terminam no produto."
+    },
+    {
+      "id": "quimica-25",
+      "banca": "maua",
+      "sessao": "maua-inverno-2024",
+      "formato": "escada",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "Os isômeros planos do dimetil-benzeno são conhecidos como xilenos. Trata-se de hidrocarbonetos aromáticos, que diferem na posição relativa das metilas no anel benzênico e que existem na forma líquida em condições ambiente.\nConsidere as afirmações a seguir:\nI. Existem três xilenos diferentes, sendo eles isômeros constitucionais entre si.\nII. A fórmula molecular do xileno é C₈H₁₂.\nIII. Os xilenos possuem propriedades físico-químicas distintas.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "a": "I, II e III.",
+        "b": "II, apenas.",
+        "c": "III, apenas.",
+        "d": "I e II, apenas.",
+        "e": "I e III, apenas."
+      },
+      "resposta": "e",
+      "explicacao": "I é correta: as duas metilas podem ficar em posição orto, meta ou para, o que dá três compostos distintos, isômeros de posição — que são um tipo de isomeria constitucional. III também: por terem geometrias e polaridades diferentes, os três xilenos têm pontos de fusão e ebulição diferentes, e é isso que permite separá-los industrialmente. II é a única falsa, e o erro está na contagem de hidrogênios: o benzeno é C₆H₆, e trocar dois hidrogênios por dois grupos CH₃ dá C₆H₄(CH₃)₂, ou seja, C₈H₁₀ — e não C₈H₁₂, que corresponderia a um grau de insaturação a menos do que o anel aromático exige."
+    },
+    {
+      "id": "quimica-26",
+      "banca": "maua",
+      "sessao": "maua-inverno-2024",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "engenharia",
+      "enunciado": "Considere a reação entre bromo gasoso e óxido nítrico, cuja velocidade depende, em primeira ordem, da concentração de gás bromo e, em segunda ordem, da concentração de óxido:\nBr₂(g) + 2 NO(g) → 2 NOBr(g)\nCerto estudo cinético dessa transformação, conduzido a 546 kelvin, estabeleceu velocidade inicial da reação igual a 12,0 mol/L·s.\nEm igualdade de condições e temperatura, caso a concentração de Br₂ seja triplicada e a concentração de NO seja reduzida à metade, a velocidade da reação será igual a",
+      "alternativas": {
+        "a": "9,0 mol/L·s",
+        "b": "54,0 mol/L·s",
+        "c": "18,0 mol/L·s",
+        "d": "36,0 mol/L·s",
+        "e": "144,0 mol/L·s"
+      },
+      "resposta": "a",
+      "explicacao": "A lei de velocidade vem das ORDENS informadas, não dos coeficientes da equação: v = k[Br₂]¹[NO]². Triplicar o bromo multiplica a velocidade por 3; reduzir o óxido à metade a multiplica por (1/2)² = 1/4, porque a ordem dele é dois. O fator combinado é 3 × 1/4 = 3/4, e 12,0 × 3/4 = 9,0 mol/L·s. Quem trata o NO como primeira ordem obtém 3 × 1/2 = 3/2 e chega a 18,0; quem esquece a redução do NO e só triplica chega a 36,0. É o expoente 2 que faz a velocidade CAIR mesmo com o bromo triplicado."
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "quimica",
- "total": 468,
+ "total": 482,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -2804,6 +2804,85 @@
    "margem": 10
   },
   "eng-quimica-12": {
+   "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "eng-quimica-13": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "eng-quimica-14": {
+   "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "pontos": 12,
+   "margem": 2
+  },
+  "eng-quimica-15": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "eng-quimica-16": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "eng-quimica-17": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "eng-quimica-18": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 0
+  },
+  "eng-quimica-19": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "eng-quimica-20": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 19,
+   "margem": 14
+  },
+  "eng-quimica-21": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "eng-quimica-22": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "eng-quimica-23": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "eng-quimica-24": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "eng-quimica-25": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "eng-quimica-26": {
    "subtema": "quimica-termoquimica-cinetica",
    "frenteDestino": "quimica",
    "revisado": true

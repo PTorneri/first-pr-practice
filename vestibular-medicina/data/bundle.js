@@ -19650,6 +19650,44 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O período do pêndulo simples é T = 2π√(L/g), e a raiz faz a dilatação entrar pela metade: T' ≈ T(1 + ½αΔθ). Com ΔΘ = 20 °C, a diferença entre os dois períodos é ΔT = T·½·Δθ·(α₂ − α₁) = 2·½·20·(7 − 2)×10⁻⁵ = 1×10⁻³ s por oscilação. Meio ciclo de defasagem significa acumular T/2 = 1 s de atraso, o que exige 1/10⁻³ = 1000 oscilações. Como cada uma dura cerca de 2 s, são 2000 s ≈ 33 min. O erro que leva a 66 min é exigir um ciclo inteiro de defasagem em vez de meio; o que leva a 17 min é esquecer o fator ½ da raiz."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "eng-fisica-13",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "O pneu de um automóvel foi calibrado, de acordo com o manual do proprietário, com pressão de 35 psi. Quando foi feita a calibragem, a temperatura ambiente era de 17 °C. Ao rodar com o automóvel no período da tarde, a temperatura dos pneus elevou-se para 43 °C.\nConsiderando que a variação de volume do pneu foi desprezível, a pressão aproximada dos pneus será de",
+   "alternativas": {
+    "a": "38 psi",
+    "b": "88 psi",
+    "c": "61 psi",
+    "d": "35 psi",
+    "e": "32 psi"
+   },
+   "resposta": "a",
+   "explicacao": "Volume constante é transformação isovolumétrica, e nela P/T se mantém. O passo que decide a questão é converter para kelvin: 17 °C = 290 K e 43 °C = 316 K. Daí P₂ = 35·(316/290) ≈ 38 psi. Fazer a mesma proporção com as temperaturas em grau Celsius, 35·(43/17), daria cerca de 88 psi — que é justamente a alternativa (b), e o motivo de ela estar lá. O aumento real é modesto, de menos de 10%, porque em kelvin a variação de 26 graus é pequena diante de 290."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "eng-fisica-21",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Em um dia extremamente quente, uma pessoa que vive numa casa sem ar-condicionado decide abrir a porta da geladeira, para reduzir um pouco a temperatura da sua cozinha.\nNessas condições, é correto afirmar que a temperatura da cozinha",
+   "alternativas": {
+    "a": "reduzirá pouco, dado que a geladeira não é tão potente quanto um aparelho de ar-condicionado.",
+    "b": "aumentará devido ao efeito Joule no motor elétrico da geladeira.",
+    "c": "permanecerá igual, pois toda a energia térmica absorvida pela parte frontal será irradiada na parte traseira do aparelho.",
+    "d": "reduzirá num primeiro momento, mas, tão logo o motor da geladeira começar a funcionar, a cozinha ficará mais quente do que antes.",
+    "e": "reduzirá, mas o consumo de energia da residência aumentará, pois a geladeira ficará com o motor ligado em potência máxima."
+   },
+   "resposta": "d",
+   "explicacao": "A geladeira não destrói calor: ela o bombeia de dentro para fora, e o que sai pela serpentina traseira é o calor retirado MAIS o trabalho elétrico do compressor. Com a porta aberta a cozinha vira o ambiente dos dois lados, e o saldo é positivo — ela esquenta. O primeiro instante realmente refresca, porque o ar frio já acumulado escapa, e é por isso que a alternativa (d) descreve as duas fases. A (c) erra ao supor um balanço nulo, ignorando a energia elétrica que entra; ela vale para uma máquina ideal sem consumo, que não existe. A (b) acerta o sentido, mas atribui o aquecimento só ao efeito Joule no motor, quando a maior parte é o calor bombeado de dentro para fora."
   }
  ],
  "fisica-mecanica": [
@@ -21733,6 +21771,44 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A rotação da Terra já entrega parte da velocidade, e entrega mais perto do equador: em latitude φ, a velocidade de arraste é ωR·cos φ. Com ω = 2π/86400 s⁻¹ e R = 6,4×10⁶ m, isso dá cerca de 465 m/s no equador e metade disso, 232 m/s, a 60°. A velocidade de escape é v = √(2GM/R) = √(2·6,7×10⁻¹¹·6,0×10²⁴/6,4×10⁶) ≈ 11,2 km/s. Como o impulso é proporcional ao ganho de velocidade que ainda falta, a razão é (11200 − 465)/(11200 − 232) ≈ 10735/10968 ≈ 0,98. O valor é próximo de 1 justamente porque a ajuda da rotação é pequena diante da velocidade de escape — quem espera um ganho grande escolhe 0,87 ou 0,68."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "eng-fisica-15",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A análise do salto à distância de um atleta consistiu em mapear a trajetória do seu centro de massa nos eixos vertical e horizontal. Obteve-se que o ângulo de salto foi de 37° e seu alcance foi próximo de 8 m.\nAproximando a aceleração gravitacional para 10 m/s² e desprezando forças de resistência ao longo do salto, a velocidade aproximada de salto do atleta será de (Dados: sen 37° = 0,6; cos 37° = 0,8)",
+   "alternativas": {
+    "a": "7 m/s",
+    "b": "6,5 m/s",
+    "c": "4,8 m/s",
+    "d": "11,5 m/s",
+    "e": "9 m/s"
+   },
+   "resposta": "e",
+   "explicacao": "No lançamento oblíquo que começa e termina na mesma altura, o alcance é A = v²·sen(2θ)/g. Com θ = 37°, o arco dobrado é 74°, e sen 74° sai dos dados pela fórmula do arco duplo: 2·sen 37°·cos 37° = 2·0,6·0,8 = 0,96. Então 8 = v²·0,96/10, o que dá v² ≈ 83 e v ≈ 9 m/s. É por isso que a questão fornece seno E cosseno de 37°: sem o arco duplo, os dois valores isolados não resolvem. Usar sen 37° = 0,6 no lugar de sen 74° levaria a v ≈ 11,5 m/s, que está entre as opções justamente por isso."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "eng-fisica-19",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Certa pista de automobilismo conta com uma curva, cujo raio máximo é de 120 m. Sendo o coeficiente de atrito estático entre o pneu e a pista igual a 3/4, o cinético igual a 1/2, e g igual a 10 N/kg, a velocidade máxima, em m/s, para que o automóvel complete a curva, sem que haja derrapagem, é",
+   "alternativas": {
+    "a": "90",
+    "b": "40",
+    "c": "30",
+    "d": "25",
+    "e": "15"
+   },
+   "resposta": "c",
+   "explicacao": "Na curva plana quem faz o papel de força centrípeta é o atrito, e enquanto o pneu NÃO derrapa o atrito é o estático — é ele, e não o cinético, que entra na conta. No limite, µₑ·m·g = m·v²/R, e a massa se cancela: v = √(µₑ·g·R) = √(0,75·10·120) = √900 = 30 m/s. O coeficiente cinético de 1/2 está no enunciado justamente como distrator; usá-lo daria √600 ≈ 24,5, próximo dos 25 da alternativa (d). Repare que a massa do carro não é informada porque, de fato, não faz diferença."
   }
  ],
  "fisica-ondas-optica": [
@@ -23388,6 +23464,63 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Sem a lente, o máximo de ordem m sai de a·x/L = mλ. A lente acrescenta caminho ÓPTICO, não geométrico: atravessar uma espessura R de material de índice n em vez de ar custa (n − 1)R a mais. Como ela está na fenda cuja frente já era a atrasada, a condição de máximo vira a·x/L − (n − 1)R = mλ, e daí x_m = (λm + (n−1)R)·(L/a). Os distratores com nR esquecem que só a DIFERENÇA em relação ao ar conta — em n = 1 a expressão tem de recair no caso sem lente, teste que só a alternativa (a) passa. Em (c) o termo da lente aparece fora do fator L/a, isto é, sem ser convertido de diferença de caminho para posição no anteparo."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "eng-fisica-12",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Em um campo aberto, há duas caixas acústicas, separadas por 3 m, ligadas ao mesmo amplificador. As caixas foram ligadas com as polaridades corretas, de modo a produzir sons em fase. Um ouvinte posiciona-se, a 4 m de distância, bem em frente a uma das caixas.\nA menor frequência para a qual o ouvinte perceberá interferência destrutiva é de (Adote: velocidade do som = 340 m/s)",
+   "alternativas": {
+    "a": "85 Hz",
+    "b": "113 Hz",
+    "c": "170 Hz",
+    "d": "340 Hz",
+    "e": "97 Hz"
+   },
+   "resposta": "c",
+   "explicacao": "O ouvinte está a 4 m da caixa em frente e, pelo triângulo retângulo de catetos 3 e 4, a 5 m da outra: a diferença de percurso é de exatamente 1 m. Como as fontes estão em fase, a interferência é destrutiva quando essa diferença vale um número ímpar de meios comprimentos de onda. A MENOR frequência corresponde ao MAIOR comprimento de onda, isto é, ao primeiro caso: 1 m = λ/2, logo λ = 2 m e f = 340/2 = 170 Hz. Usar λ = 1 m (como se a condição destrutiva fosse um comprimento de onda inteiro) leva a 340 Hz, que é o erro clássico de trocar as condições de máximo e mínimo."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "eng-fisica-16",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Numa experiência de física, um microfone é preso num gira-gira de parque de diversões posto a girar, de modo que o microfone se movimente a 7 m/s. Enquanto isso, uma sirene toca um som de 680 Hz a uma distância suficientemente grande para considerarmos desprezíveis as variações de distância do microfone.\nDetermine a maior e a menor frequência, em Hertz, capturada pelo microfone. Adote: velocidade do som = 340 m/s.",
+   "alternativas": {
+    "a": "347 e 333",
+    "b": "666 e 694",
+    "c": "340 e 1020",
+    "d": "663 e 687",
+    "e": "680 e 680"
+   },
+   "resposta": "b",
+   "explicacao": "É efeito Doppler com fonte parada e OBSERVADOR em movimento: f' = f·(v ± v_obs)/v. O microfone gira, então uma vez por volta ele se aproxima da sirene com os 7 m/s cheios e, meia volta depois, se afasta com a mesma rapidez. Os extremos são f' = 680·(340 + 7)/340 = 694 Hz e f' = 680·(340 − 7)/340 = 666 Hz. A opção \"680 e 680\" é a de quem considera que, como a DISTÂNCIA média não muda, a frequência também não mudaria — mas o que produz Doppler é a velocidade radial instantânea, não a distância."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "eng-fisica-22",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A flauta de pã é composta por tubos fechados em uma das extremidades.\nConsiderando v_som = 330 m/s, o comprimento aproximado do tubo, para que, em seu primeiro harmônico, seja emitida a nota musical \"lá\", cuja frequência é de 440 Hz, é de",
+   "alternativas": {
+    "a": "19 cm",
+    "b": "9 cm",
+    "c": "4,5 cm",
+    "d": "38 cm",
+    "e": "75 cm"
+   },
+   "resposta": "a",
+   "explicacao": "O comprimento de onda é λ = v/f = 330/440 = 0,75 m. Num tubo FECHADO numa das pontas, a extremidade fechada é nó e a aberta é ventre, e a menor distância entre um nó e um ventre é um quarto de onda — daí, no primeiro harmônico, L = λ/4 = 0,1875 m ≈ 19 cm. A alternativa (d), 38 cm, é λ/2, que valeria para um tubo ABERTO nas duas pontas, e (e) é o próprio λ. Distinguir tubo aberto de fechado é exatamente o que a questão cobra ao mencionar que a flauta de pã tem uma extremidade tampada."
   }
  ],
  "fisica-eletromagnetismo": [
@@ -24611,6 +24744,63 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A hipótese R ≫ impedância do solenoide serve para dizer que a corrente é ditada só pelo resistor: i = U/R = (U₀/t₀)t/R. O campo dentro do solenoide é B = µ₀ n i/L, e o fluxo pelas m espiras da sonda, de área πr² cada, é Φ = m·πr²·µ₀ n (U₀/t₀)t/(LR). Como tudo aí é constante menos t, a lei de Faraday dá simplesmente ε = dΦ/dt = m n µ₀ πr² (U₀/t₀)/(L R). Não há fatores ½ nem 2: eles apareceriam se o campo fosse o de meio solenoide ou se o fluxo fosse contado duas vezes. Em (e) o número m de espiras da sonda sumiu, embora seja ele que multiplica o fluxo captado."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "eng-fisica-14",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Um alto-falante possui funcionamento análogo ao de um motor elétrico: certa quantidade de fio, submetida a um campo magnético, sofre ação de força magnética, quando percorrida por corrente elétrica. Um alto-falante típico é composto por uma bobina que totaliza 30 m de fio, de resistência elétrica 8 Ω, que se encontra sob ação de um campo magnético de 1,5 T perpendicular ao fio.\nA força magnética sobre o fio, quando a bobina é ligada a um amplificador que produz 12 V em seus terminais, é de",
+   "alternativas": {
+    "a": "2,25 N",
+    "b": "18 N",
+    "c": "54 N",
+    "d": "36 N",
+    "e": "67,5 N"
+   },
+   "resposta": "e",
+   "explicacao": "São duas etapas. Primeiro a corrente, pela lei de Ohm: i = U/R = 12/8 = 1,5 A. Depois a força sobre um fio retilíneo perpendicular ao campo: F = B·i·L = 1,5·1,5·30 = 67,5 N. O comprimento que entra é o do FIO todo, 30 m, e não o diâmetro da bobina — é por isso que o enunciado informa a metragem total. Quem esquece de calcular a corrente e usa 12 direto, ou troca o comprimento, cai em 18 N ou 36 N; 2,25 N é o produto B·i sem o comprimento."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "eng-fisica-18",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Uma lâmpada de 4 W foi projetada para ser ligada a uma fonte de 2 V. Determine qual deve ser o resistor e como deve ser ligado à lâmpada, para que seu brilho seja reduzido a um quarto do valor.",
+   "alternativas": {
+    "a": "0,25 Ω em série.",
+    "b": "0,25 Ω em paralelo.",
+    "c": "4 Ω em série.",
+    "d": "1 Ω em série.",
+    "e": "1 Ω em paralelo."
+   },
+   "resposta": "d",
+   "explicacao": "A lâmpada tem R = U²/P = 4/4 = 1 Ω e opera com i = 2 A. O brilho é a potência DELA, P = i²R, então cair a um quarto significa a corrente cair à metade, para 1 A. Com a fonte fixa em 2 V, isso exige resistência total de 2 Ω, e portanto 1 Ω em SÉRIE com a lâmpada. Ligar em paralelo não serviria para nada aqui: a tensão sobre a lâmpada continuaria sendo os 2 V da fonte e o brilho não mudaria — o resistor só puxaria corrente extra da fonte. Reparar que a potência vai com o QUADRADO da corrente é o que evita procurar uma corrente quatro vezes menor."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "eng-fisica-20",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Um circuito contém três lâmpadas idênticas, L1, L2 e L3, de resistências elétricas iguais a 2 Ω, ligadas a uma fonte de 3 V, com L1 em série com a associação em paralelo de L2 e L3, e um amperímetro medindo a corrente total.\nO valor da corrente elétrica registrada pelo amperímetro A é de",
+   "alternativas": {
+    "a": "1 A",
+    "b": "0,5 A",
+    "c": "0,25 A",
+    "d": "1,5 A",
+    "e": "3 A"
+   },
+   "resposta": "a",
+   "explicacao": "Primeiro reduz-se o paralelo: duas resistências iguais de 2 Ω em paralelo valem 1 Ω. Essa associação está em série com L1, então a resistência equivalente do circuito é 2 + 1 = 3 Ω. O amperímetro mede a corrente TOTAL, que passa por L1: i = U/R = 3/3 = 1 A. A alternativa (d), 1,5 A, é o que se obteria com apenas L1 no circuito, e (b) é a corrente que passa em cada uma das lâmpadas do paralelo — metade do 1 A total, correta, mas não é o que o amperímetro lê."
   }
  ],
  "fisica-hidrostatica": [
@@ -26922,6 +27112,44 @@ window.QUESTION_BANKS = {
    "explicacao": "A quantidade de movimento é uma grandeza com sentido: 12 para a esquerda contra 10 para a direita resulta em 2 kg·m/s para a esquerda. A energia cinética do sistema, ao contrário, soma sempre e vale 34 joules.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "eng-fisica-11",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Um carrinho de brinquedo se move em pista estreita, com laterais elevadas, capazes de controlar sua trajetória. Uma das construções possíveis para essa pista envolve a montagem de um looping com raio de 10 cm, que deve ser completado pelo carrinho, que tem massa de 50 g.\nPara lançar o carrinho, utiliza-se um sistema com mola comprimida, de constante elástica igual a 45 N/m, deformada em 10 cm.\nA força normal entre o carrinho e o ponto mais alto do looping é de (Considere: g = 10 N/kg)",
+   "alternativas": {
+    "a": "0,5 N",
+    "b": "500 N",
+    "c": "0,002 N",
+    "d": "2 N",
+    "e": "2,5 N"
+   },
+   "resposta": "d",
+   "explicacao": "A mola entrega Ee = ½kx² = ½·45·(0,1)² = 0,225 J. Subir até o topo do looping custa mgh, com h = 2R = 0,2 m: 0,05·10·0,2 = 0,1 J. Sobram 0,125 J de energia cinética lá em cima, o que dá v² = 2·0,125/0,05 = 5 m²/s². No ponto mais alto, quem faz o papel de resultante centrípeta são o peso E a normal, ambos apontando para o centro: N + mg = mv²/R. Logo N = 0,05·5/0,1 − 0,05·10 = 2,5 − 0,5 = 2 N. O valor 2,5 N é a resultante centrípeta inteira, de quem esqueceu de descontar o peso; 0,5 N é só o peso."
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "eng-fisica-17",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Um automóvel, em velocidade de cruzeiro, enfrenta cerca de 200 N de forças de resistência ao seu movimento, que devem ser compensadas pelo seu conjunto motriz.\nSabendo que o rendimento do motor do automóvel é de 30%, a energia aproximada fornecida pelo combustível, para que seja possível manter o automóvel em velocidade constante por 100 km, será de",
+   "alternativas": {
+    "a": "6,7 MJ",
+    "b": "14 MJ",
+    "c": "67 MJ",
+    "d": "20 MJ",
+    "e": "60 MJ"
+   },
+   "resposta": "c",
+   "explicacao": "Em velocidade constante a força motriz iguala a resistência, então o trabalho ÚTIL é W = F·d = 200·100 000 = 2×10⁷ J = 20 MJ. Esse é o trabalho entregue à estrada, não o que o combustível fornece: com rendimento de 30%, a energia de entrada é E = 20/0,30 ≈ 67 MJ. A opção de 20 MJ é exatamente o trabalho útil, de quem esqueceu o rendimento, e a de 60 MJ é o resultado de MULTIPLICAR por 0,3 em vez de dividir — o que daria menos energia no tanque do que o carro entrega, invertendo o sentido da perda."
   }
  ],
  "fisica-moderna": [

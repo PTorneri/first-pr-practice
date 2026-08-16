@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "fisica",
- "total": 522,
+ "total": 534,
  "residuo": [
   "med-fisica-92",
   "med-fisica-136",
@@ -3133,6 +3133,78 @@
    "subtema": "fisica-moderna",
    "frenteDestino": "fisica",
    "revisado": true
+  },
+  "eng-fisica-11": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 2
+  },
+  "eng-fisica-12": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "eng-fisica-13": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "eng-fisica-14": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "eng-fisica-15": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "eng-fisica-16": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
+  },
+  "eng-fisica-17": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "eng-fisica-18": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "eng-fisica-19": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "eng-fisica-20": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "eng-fisica-21": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "eng-fisica-22": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 5
   }
  }
 }

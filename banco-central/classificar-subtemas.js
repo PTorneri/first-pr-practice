@@ -1339,6 +1339,47 @@ const REVISADAS = {
   // Copo de casca de cafe: a vantagem que decide e nao esquentar por fora.
   // Nenhuma palavra de termologia aparece -- so "conduz" e "quente".
   "enem-fisica-13": "fisica-termologia",
+
+  // --- ENEM 2023, 2o dia, Matematica (questoes 136 a 180). Sete pinos em 30.
+  //
+  // A prova de Matematica do ENEM quase nunca nomeia o conteudo: ela conta uma
+  // historia de pizzaria, creche ou pedagio e deixa a ferramenta implicita. As
+  // regras entao se apoiam no CENARIO, e cenario com dinheiro cai em
+  // financeira, cenario com "proximo termo" cai em sequencias. Onde o cenario e
+  // neutro (pao de forma, fila de caixa, caloria por hora) nenhum subtema
+  // pontua e a questao vira residuo -- por isso metade destes pinos aponta para
+  // algebra a partir de ZERO ponto, e nao de uma disputa.
+  //
+  // Estatistica NAO tem subtema proprio: as 21 questoes de media, mediana e
+  // moda ja no banco estao todas em financeira. Media salarial, porcentagem de
+  // alcool no sangue e media de precipitacao seguiram essa convencao em vez de
+  // ganhar pino -- mudar isso e mexer na tabela, nao no lote.
+  //
+  // As tres de progressao. O ENEM nunca escreve "progressao aritmetica": diz
+  // que as vendas sobem 10 por mes ou que a populacao multiplica por 10 a cada
+  // tres dias, e a tabela nao tem regra para isso. Sao residuo (zero ponto em
+  // todos os subtemas), nao disputa -- e residuo cai no subtema padrao, que em
+  // Matematica e algebra. O pre-voo nao acusou porque, com o alvo tambem em
+  // zero, ele conta empate como acerto; so a classificacao do banco inteiro
+  // mostra o `padrao: true`.
+  "enem-matematica-04": "matematica-sequencias",
+  "enem-matematica-17": "matematica-sequencias",
+  // Triangulo magico: a palavra "triangulo" leva 14 pontos para geometria, mas
+  // nao ha uma medida na questao -- e uma PA nos vertices e uma soma por lado.
+  "enem-matematica-08": "matematica-sequencias",
+  // Pacotes de pao de forma: proporcao e arredondamento para cima.
+  "enem-matematica-09": "matematica-algebra",
+  // Fila de caixa: minimizar o produto tempo x pessoas. Cenario neutro.
+  "enem-matematica-13": "matematica-algebra",
+  // Gasto calorico por dia da semana: soma ponderada de um quadro.
+  "enem-matematica-21": "matematica-algebra",
+  // Calendario maia: conversao de unidade. "260 dias" puxava probabilidade.
+  "enem-matematica-25": "matematica-algebra",
+  // Unidade de medida do EC do maratonista: algebra de unidades.
+  "enem-matematica-27": "matematica-algebra",
+  // Cartelas de tiquete: sistema linear de duas equacoes. O preco em real
+  // levava para financeira, mas nao ha juros, desconto nem porcentagem.
+  "enem-matematica-28": "matematica-algebra",
 };
 
 // ------------------------------------------------------------------- classificação

@@ -32778,6 +32778,147 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "As duas parábolas já vêm na forma canônica y = a(x − h)² + k, em que (h, k) é o VÉRTICE — e, como o coeficiente é negativo, a concavidade é para baixo e o vértice é o ponto mais alto, isto é, o cume. Lendo direto: A = (−3, 4) e B = (8, 8), lembrando que o sinal dentro do parêntese se inverte. A distância sai do teorema de Pitágoras: √((8 − (−3))² + (8 − 4)²) = √(11² + 4²) = √(121 + 16) = √137. Ler o vértice de −(x + 3)² + 4 como (3, 4), esquecendo a inversão do sinal, dá √89 e nem aparece na lista; já √146 sai de trocar os 4 e 8 de lugar."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-01",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Um artista plástico esculpe uma escultura a partir de um bloco de madeira de lei, em etapas. Inicialmente, esculpe um cone reto com 36 cm de altura e diâmetro da base medindo 18 cm. Em seguida, remove desse cone um cone menor, cujo diâmetro da base mede 6 cm, obtendo, assim, um tronco de cone. Em seguida, perfura esse tronco de cone, removendo um cilindro reto, de diâmetro 6 cm, cujo eixo de simetria é o mesmo do cone original. Dessa forma, ao final, a escultura tem a forma de um tronco de cone com uma perfuração cilíndrica de base a base. O tipo de madeira utilizada para produzir essa escultura tem massa igual a 0,6 g por centímetro cúbico de volume. Utilize 3 como aproximação para π.",
+   "enunciado": "Qual é a massa, em grama, dessa escultura?",
+   "alternativas": {
+    "a": "1 198,8",
+    "b": "1 296,0",
+    "c": "1 360,8",
+    "d": "4 665,6",
+    "e": "4 860,0"
+   },
+   "resposta": "b",
+   "explicacao": "O cone original tem raio 9 e altura 36. O corte que deixa o topo com raio 3 acontece onde o raio caiu para um terço, e como raio e altura são proporcionais no cone, isso ocorre a 24 cm da base: o tronco tem altura 24, raio maior 9 e raio menor 3. Seu volume é (πh/3)(R² + Rr + r²) = (3 × 24/3)(81 + 27 + 9) = 24 × 117 = 2 808 cm³. A perfuração é um cilindro de raio 3 e altura 24, com volume πr²h = 3 × 9 × 24 = 648 cm³. Sobram 2 808 − 648 = 2 160 cm³ de madeira, e a massa é 0,6 × 2 160 = 1 296 g. Duas armadilhas: usar a altura 36 do cone inteiro em vez dos 24 do tronco, e esquecer de descontar o furo."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-05",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A água utilizada pelos 75 moradores de um vilarejo provém de um reservatório de formato cilíndrico circular reto cujo raio da base mede 5 metros, sempre abastecido no primeiro dia de cada mês por caminhões-pipa. Cada morador desse vilarejo consome, em média, 200 litros de água por dia. No mês de junho de um determinado ano, o vilarejo festejou o dia do seu padroeiro e houve um gasto extra de água nos primeiros 20 dias. Passado esse período, as pessoas verificaram a quantidade de água presente no reservatório e constataram que o nível da coluna de água estava em 1,5 metro. Decidiram, então, fazer um racionamento de água durante os 10 dias seguintes. Considere 3 como aproximação para π.",
+   "enunciado": "Qual é a quantidade mínima de água, em litro, que cada morador, em média, deverá economizar por dia, de modo que o reservatório não fique sem água nos próximos 10 dias?",
+   "alternativas": {
+    "a": "50",
+    "b": "60",
+    "c": "80",
+    "d": "140",
+    "e": "150"
+   },
+   "resposta": "a",
+   "explicacao": "A área da base é πr² = 3 × 25 = 75 m², e com 1,5 m de coluna sobram 75 × 1,5 = 112,5 m³, ou 112 500 litros. Esse volume precisa durar 10 dias para 75 moradores, o que dá 75 × 10 = 750 diárias individuais: 112 500 ÷ 750 = 150 litros por morador por dia. Como o consumo habitual é de 200 litros, cada um deve economizar 200 − 150 = 50 litros diários. A opção e, 150, é o consumo permitido, não a economia — é a leitura de quem para uma linha antes do fim. Vale lembrar a conversão que decide a conta: 1 m³ = 1 000 L."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-07",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma cisterna destinada ao armazenamento de água, na forma de cilindro circular reto com 3 m² de área da base, foi abastecida por um curso-d'água com vazão constante. O seu proprietário registrou a altura do nível da água no interior da cisterna durante o abastecimento em diferentes momentos de um mesmo dia: às 6:00, 0,5 m; às 8:00, 1,1 m; às 12:00, 2,3 m; às 15:00, 3,2 m.",
+   "fonte_texto": "Disponível em: www.paraibamix.com. Acesso em: 3 dez. 2012.",
+   "enunciado": "Qual foi a vazão, em metro cúbico por hora, do curso-d'água que abasteceu a cisterna?",
+   "alternativas": {
+    "a": "0,3",
+    "b": "0,5",
+    "c": "0,9",
+    "d": "1,8",
+    "e": "2,7"
+   },
+   "resposta": "c",
+   "explicacao": "Como a vazão é constante, qualquer par de registros serve. Entre 6:00 e 8:00 o nível subiu de 0,5 m para 1,1 m, isto é, 0,6 m em 2 horas: 0,3 metro por hora. Mas a pergunta é por volume, não por altura, e o volume é a área da base vezes a altura: 0,3 m/h × 3 m² = 0,9 m³/h. Conferindo com outro intervalo, de 12:00 a 15:00 o nível sobe 0,9 m em 3 horas, os mesmos 0,3 m/h — a constância da vazão se confirma. A opção a, 0,3, é a velocidade de subida do nível, que só viraria vazão se a base medisse 1 m²."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-10",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O mastro de uma bandeira foi instalado perpendicularmente ao solo em uma região plana. Devido aos fortes ventos, três cabos de aço, de mesmo comprimento, serão instalados para dar sustentação ao mastro. Cada cabo de aço ficará perfeitamente esticado, com uma extremidade num ponto P do mastro, a uma altura h do solo, e a outra extremidade, num ponto no chão. Os cabos de aço formam um ângulo α com o plano do chão. Por medida de segurança, há apenas três opções de instalação: opção I, h = 11 m e α = 30°; opção II, h = 12 m e α = 45°; opção III, h = 18 m e α = 60°. A opção a ser escolhida é aquela em que a medida dos cabos seja a menor possível.",
+   "enunciado": "Qual será a medida, em metro, de cada um dos cabos a serem instalados?",
+   "alternativas": {
+    "a": "22√3/3",
+    "b": "11√2",
+    "c": "12√2",
+    "d": "12√3",
+    "e": "22"
+   },
+   "resposta": "c",
+   "explicacao": "Em cada opção, o cabo é a hipotenusa de um triângulo retângulo em que h é o cateto oposto ao ângulo α, então o comprimento é h/sen α. Opção I: 11 / sen 30° = 11 / 0,5 = 22 m. Opção II: 12 / sen 45° = 12 / (√2/2) = 24/√2 = 12√2 ≈ 16,97 m. Opção III: 18 / sen 60° = 18 / (√3/2) = 36/√3 = 12√3 ≈ 20,78 m. A menor das três é 12√2, da opção II. Note que não basta escolher o menor h nem o maior ângulo isoladamente: a opção I tem o mastro mais baixo e mesmo assim exige o cabo mais longo, porque o ângulo raso a afasta demais do mastro."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-14",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As figuras pintadas no quadro da sala de estar de uma residência representam as silhuetas de parte das torres de um castelo e, ao fundo, a de uma lua cheia. A lua foi pintada na forma de um círculo, e o telhado da torre mais alta, na forma de triângulo equilátero, foi pintado sobrepondo parte da lua. O centro da lua coincide com um dos vértices do telhado da torre mais alta.",
+   "enunciado": "Nesse quadro, a parte da lua escondida atrás da torre mais alta do castelo pode ser representada por um",
+   "alternativas": {
+    "a": "cone.",
+    "b": "setor circular.",
+    "c": "segmento circular.",
+    "d": "triângulo isósceles.",
+    "e": "arco de circunferência."
+   },
+   "resposta": "b",
+   "explicacao": "A informação decisiva é que o centro da lua coincide com um vértice do telhado. A região escondida fica, portanto, delimitada por dois segmentos que partem do centro do círculo — os dois lados do triângulo que saem daquele vértice — e pelo arco entre eles. Essa é exatamente a definição de setor circular, a \"fatia de pizza\". Segmento circular seria a região entre uma corda e o arco, o que exigiria que o lado do triângulo cortasse o círculo sem passar pelo centro. Arco de circunferência é uma linha, não uma região. Cone é sólido, e a pintura é plana. E o triângulo isósceles ignoraria o arco, que é justamente o que fecha a área."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-15",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Na planta baixa de um clube, a piscina é representada por um quadrado cuja área real mede 400 m². Ao redor dessa piscina, será construída uma calçada, de largura constante igual a 5 m.",
+   "enunciado": "Qual é a medida da área, em metro quadrado, ocupada pela calçada?",
+   "alternativas": {
+    "a": "1 000",
+    "b": "900",
+    "c": "600",
+    "d": "500",
+    "e": "400"
+   },
+   "resposta": "d",
+   "explicacao": "A piscina é um quadrado de área 400 m², logo o lado mede 20 m. A calçada de 5 m de largura envolve a piscina pelos quatro lados, então o quadrado externo tem lado 20 + 5 + 5 = 30 m e área 900 m². A calçada é a diferença entre as duas áreas: 900 − 400 = 500 m². O erro clássico é somar 5 m uma só vez e trabalhar com um quadrado de lado 25, o que daria 625 − 400 = 225; e a opção b, 900, é a área do quadrado externo inteiro, com a piscina incluída."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-26",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Sejam a, b e c as medidas dos lados de um triângulo retângulo, tendo a como medida da hipotenusa. Esses valores a, b e c são, respectivamente, os diâmetros dos círculos C1, C2 e C3. Essa construção assegura, pelo teorema de Pitágoras, que área (C1) = área (C2) + área (C3). Um professor de matemática era conhecedor dessa construção e, confraternizando com dois amigos em uma pizzaria onde são vendidas pizzas somente em formato de círculo, lançou um desafio: mesmo sem usar um instrumento de medição, poderia afirmar com certeza se a área do círculo correspondente à pizza que ele pedisse era maior, igual ou menor do que a soma das áreas das pizzas dos dois amigos. Assim, foram pedidas três pizzas. O professor as dividiu ao meio e formou um triângulo com os diâmetros das pizzas, sendo α o ângulo do triângulo oposto ao diâmetro da pizza do professor. A partir da medida do ângulo α, o professor afirmou que a área de sua pizza é maior do que a soma das áreas das outras duas pizzas.",
+   "enunciado": "A área da pizza do professor de matemática é maior do que a soma das áreas das outras duas pizzas, pois",
+   "alternativas": {
+    "a": "0° < α < 90°",
+    "b": "α = 90°",
+    "c": "90° < α < 180°",
+    "d": "α = 180°",
+    "e": "180° < α < 360°"
+   },
+   "resposta": "c",
+   "explicacao": "A área de um círculo é proporcional ao quadrado do diâmetro, então comparar áreas é comparar a² com b² + c². Pela lei dos cossenos, a² = b² + c² − 2bc·cos α. Para que a² seja maior que b² + c² é preciso que −2bc·cos α seja positivo, ou seja, que cos α seja negativo — o que acontece exatamente quando α é obtuso, entre 90° e 180°. Em α = 90° vale a igualdade, que é o caso de Pitágoras citado no enunciado, e é a opção b. Com α agudo a soma das duas pizzas menores vence. Os valores de 180° em diante estão fora porque nenhum ângulo interno de triângulo os alcança."
   }
  ],
  "matematica-financeira": [
@@ -36277,6 +36418,147 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O prêmio das modalidades coletivas é pago à EQUIPE e dividido entre as atletas, enquanto o individual vai inteiro para uma pessoa — e é isso que a questão cobra. A surfista compete sozinha, então recebe os 210 mil da prata individual. A seleção de futebol tem mais de 6 atletas, logo entra na linha \"coletiva\", com 630 mil a serem repartidos por 18 jogadoras: 35 mil cada. A razão é 210/35 = 6. Comparar 210 com os 630 sem dividir pelas 18 dá 1/3, que está na lista exatamente para quem esquece o rateio."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-02",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os 100 funcionários de uma empresa estão distribuídos em dois setores: Produção e Administração. Os funcionários de um mesmo setor recebem salários com valores iguais. O quadro apresenta a quantidade de funcionários por setor e seus respectivos salários. Produção: 75 funcionários, salário de R$ 2 000,00. Administração: 25 funcionários, salário de R$ 7 000,00.",
+   "enunciado": "A média dos salários dos 100 funcionários dessa empresa, em real, é",
+   "alternativas": {
+    "a": "2 000,00.",
+    "b": "2 500,00.",
+    "c": "3 250,00.",
+    "d": "4 500,00.",
+    "e": "9 000,00."
+   },
+   "resposta": "c",
+   "explicacao": "A média tem de ser ponderada pela quantidade de funcionários de cada setor, e não simplesmente a média dos dois salários. A folha total é 75 × 2 000 + 25 × 7 000 = 150 000 + 175 000 = 325 000 reais, dividida por 100 funcionários: 3 250,00. A opção d, 4 500, é exatamente a média aritmética simples entre 2 000 e 7 000 — o erro de tratar os dois setores como se tivessem o mesmo peso. Repare que o resultado correto fica mais perto de 2 000 do que de 7 000, o que faz sentido: três em cada quatro funcionários ganham o salário menor."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-06",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em janeiro do ano passado, a direção de uma fábrica abriu uma creche para os filhos de seus funcionários, com 10 salas, cada uma com capacidade para atender 10 crianças a cada ano. As vagas são sorteadas entre os filhos dos funcionários inscritos, enquanto os não contemplados pelo sorteio formam uma lista de espera. No ano passado, a lista de espera teve 400 nomes e, neste ano, esse número cresceu 10%. A direção da fábrica realizou uma pesquisa e constatou que a lista de espera para o próximo ano terá a mesma quantidade de nomes da lista de espera deste ano. Decidiu, então, construir, ao longo desse ano, novas salas para a creche, também com capacidade de atendimento para 10 crianças cada, de modo que o número de nomes na lista de espera no próximo ano seja 25% menor que o deste ano.",
+   "enunciado": "O número mínimo de salas que deverão ser construídas é",
+   "alternativas": {
+    "a": "10.",
+    "b": "11.",
+    "c": "13.",
+    "d": "30.",
+    "e": "33."
+   },
+   "resposta": "b",
+   "explicacao": "A lista deste ano tem 400 aumentado em 10%, ou seja, 440 nomes, e a do próximo ano seria a mesma coisa: 440. A meta é que ela caia 25% em relação a este ano, chegando a 0,75 × 440 = 330 nomes. É preciso, portanto, absorver 440 − 330 = 110 crianças a mais. Como cada sala nova atende 10, são 11 salas. As opções d e e vêm de calcular sobre o total de vagas em vez da lista de espera; e a opção a, 10, é o número de salas que a creche já tinha, não o que precisa ser construído."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-11",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa, uma vez que, a partir da primeira dose, a pessoa já começa a ter perda de sensibilidade de movimentos e de reflexos. Apesar de a eliminação e absorção do álcool depender de cada pessoa e de como o organismo consegue metabolizar a substância, ao final da primeira hora após a ingestão, a concentração de álcool (C) no sangue corresponde a aproximadamente 90% da quantidade (q) de álcool ingerida, e a eliminação total dessa concentração pode demorar até 12 horas.",
+   "fonte_texto": "Disponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado).",
+   "enunciado": "Nessas condições, ao final da primeira hora após a ingestão da quantidade q de álcool, a concentração C dessa substância no sangue é expressa algebricamente por",
+   "alternativas": {
+    "a": "C = 0,9q",
+    "b": "C = 0,1q",
+    "c": "C = 1 − 0,1q",
+    "d": "C = 1 − 0,9q",
+    "e": "C = q − 10"
+   },
+   "resposta": "a",
+   "explicacao": "Tomar 90% de uma quantidade é multiplicá-la por 0,9, então C = 0,9q. As opções c e d confundem porcentagem com subtração de uma unidade, e o resultado nem sequer teria dimensão coerente: q está em quantidade de álcool e o \"1\" seria um número puro. A opção b usa os 10% que restam, ou seja, o que foi eliminado em vez do que permaneceu no sangue. E a opção e trata os 90% como se fossem um desconto fixo de 10 unidades, e não uma proporção — a diferença aparece na hora de dobrar q."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-16",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Um pescador tem um custo fixo diário de R$ 900,00 com combustível, iscas, manutenção de seu barco e outras pequenas despesas. Ele vende cada quilograma de peixe por R$ 5,00. Sua meta é obter um lucro mínimo de R$ 800,00 por dia. Sozinho, ele consegue, ao final de um dia de trabalho, pescar 180 kg de peixe, o que é suficiente apenas para cobrir o custo fixo diário. Portanto, precisa contratar ajudantes, pagando para cada um R$ 250,00 por dia de trabalho. Além desse valor, 4% da receita obtida pela venda de peixe é repartida igualmente entre os ajudantes. Considerando o tamanho de seu barco, ele pode contratar até 5 ajudantes. Ele sabe que com um ajudante a pesca diária é de 300 kg e que, a partir do segundo ajudante contratado, aumenta-se em 100 kg a quantidade de peixe pescada por ajudante em um dia de trabalho.",
+   "enunciado": "A quantidade mínima de ajudantes que esse pescador precisa contratar para conseguir o lucro diário pretendido é",
+   "alternativas": {
+    "a": "1.",
+    "b": "2.",
+    "c": "3.",
+    "d": "4.",
+    "e": "5."
+   },
+   "resposta": "d",
+   "explicacao": "Com n ajudantes a pesca é de 300 kg para n = 1 e cresce 100 kg a cada ajudante seguinte: 400, 500, 600 e 700 kg. A receita é 5 vezes a quantidade, e o lucro é a receita menos o custo fixo de 900, menos 250 por ajudante, menos os 4% da receita repartidos entre eles. Como os 4% saem da receita independentemente de quantos ajudantes a dividem, o lucro fica 0,96 × 5Q − 900 − 250n = 4,8Q − 900 − 250n. Testando: n = 3 dá 4,8 × 500 − 900 − 750 = 2 400 − 1 650 = 750, abaixo da meta; n = 4 dá 4,8 × 600 − 900 − 1 000 = 2 880 − 1 900 = 980, acima dos 800 exigidos. A resposta é 4. A pegadinha é achar que os 4% pesam mais quando há mais ajudantes: eles são divididos entre os ajudantes, mas o total tirado da receita não muda."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-19",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Uma loja vende seus produtos de duas formas: à vista ou financiado em três parcelas mensais iguais. Para definir o valor dessas parcelas nas vendas financiadas, a loja aumenta em 20% o valor do produto à vista e divide esse novo valor por 3. A primeira parcela deve ser paga no ato da compra, e as duas últimas, em 30 e 60 dias após a compra. Um cliente da loja decidiu comprar, de forma financiada, um produto cujo valor à vista é R$ 1 500,00. Utilize 5,29 como aproximação para √28.",
+   "enunciado": "A taxa mensal de juros compostos praticada nesse financiamento é de",
+   "alternativas": {
+    "a": "6,7%",
+    "b": "10%",
+    "c": "20%",
+    "d": "21,5%",
+    "e": "23,3%"
+   },
+   "resposta": "d",
+   "explicacao": "O valor financiado a três parcelas é 1 500 × 1,2 = 1 800, ou 600 por parcela. Como a primeira é paga no ato, o cliente na verdade financia 1 500 − 600 = 900 reais, a serem quitados com duas parcelas de 600 em 30 e 60 dias. Chamando x = 1 + i, o valor presente é 900 = 600/x + 600/x². Multiplicando por x²: 900x² = 600x + 600, ou 3x² − 2x − 2 = 0. Então x = (2 + √28)/6 = (2 + 5,29)/6 = 1,215, e i ≈ 21,5% ao mês. A opção c, 20%, é a armadilha central: o acréscimo de 20% é sobre o preço, não a taxa mensal — como a primeira parcela é paga à vista, a taxa efetiva sobre o que de fato foi financiado sai maior."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-22",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A cada bimestre, a diretora de uma escola compra uma quantidade de folhas de papel ofício proporcional ao número de alunos matriculados. No bimestre passado, ela comprou 6 000 folhas para serem utilizadas pelos 1 200 alunos matriculados. Neste bimestre, alguns alunos cancelaram suas matrículas e a escola tem, agora, 1 150 alunos. A diretora só pode gastar R$ 220,00 nessa compra, e sabe que o fornecedor da escola vende as folhas de papel ofício em embalagens de 100 unidades a R$ 4,00 a embalagem. Assim, será preciso convencer o fornecedor a dar um desconto à escola, de modo que seja possível comprar a quantidade total de papel ofício necessária para o bimestre.",
+   "enunciado": "O desconto necessário no preço final da compra, em porcentagem, pertence ao intervalo",
+   "alternativas": {
+    "a": "(5,0 ; 5,5).",
+    "b": "(8,0 ; 8,5).",
+    "c": "(11,5 ; 12,5).",
+    "d": "(19,5 ; 20,5).",
+    "e": "(3,5 ; 4,0)."
+   },
+   "resposta": "a",
+   "explicacao": "A proporção do bimestre passado é 6 000 folhas para 1 200 alunos, ou 5 folhas por aluno. Com 1 150 alunos, são necessárias 5 750 folhas. Como o papel só é vendido em embalagens de 100, é preciso comprar 58 embalagens (57 dariam apenas 5 700 folhas), ao custo de 58 × 4 = 232 reais. O orçamento é 220, então o desconto precisa ser de 12 reais sobre 232, isto é, 12/232 ≈ 5,17%, dentro do intervalo (5,0 ; 5,5). O erro mais comum é usar 57,5 embalagens e chegar a 230 reais, o que levaria a um desconto de 4,3% e à opção e — o arredondamento para cima da embalagem é o que decide a questão."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-30",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um tipo de semente necessita de bastante água nos dois primeiros meses após o plantio. Um produtor pretende estabelecer o melhor momento para o plantio desse tipo de semente, nos meses de outubro a março. Após consultar a previsão do índice mensal de precipitação de chuva (ImPC) da região onde ocorrerá o plantio, para o período chuvoso de 2020-2021, ele obteve os seguintes dados: outubro/2020, ImPC = 250 mm; novembro/2020, ImPC = 150 mm; dezembro/2020, ImPC = 200 mm; janeiro/2021, ImPC = 450 mm; fevereiro/2021, ImPC = 100 mm; março/2021, ImPC = 200 mm. Com base nessas previsões, ele precisa escolher dois meses consecutivos em que a média mensal de precipitação seja a maior possível.",
+   "enunciado": "No início de qual desses meses o produtor deverá plantar esse tipo de semente?",
+   "alternativas": {
+    "a": "Outubro.",
+    "b": "Novembro.",
+    "c": "Dezembro.",
+    "d": "Janeiro.",
+    "e": "Fevereiro."
+   },
+   "resposta": "c",
+   "explicacao": "Basta comparar as médias de cada par de meses consecutivos: outubro e novembro, (250 + 150)/2 = 200 mm; novembro e dezembro, 175 mm; dezembro e janeiro, (200 + 450)/2 = 325 mm; janeiro e fevereiro, 275 mm; fevereiro e março, 150 mm. A maior é a dupla dezembro-janeiro, então o plantio deve começar no início de dezembro. A opção d, janeiro, é o erro de escolher o mês mais chuvoso isoladamente: janeiro tem 450 mm, mas plantar ali significaria emparelhá-lo com fevereiro, o mês mais seco da lista, e a média cairia para 275."
   }
  ],
  "matematica-algebra": [
@@ -39684,6 +39966,190 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Cada problema resolvido pelas DUAS equipes rende 3 + 1 = 4 pontos ao placar total; cada problema resolvido por uma só rende 3, porque não há segundo colocado. Sendo k a quantidade de problemas comuns, cada equipe resolveu 30 − k problemas sozinha, e o total de pontos é 4k + 3(30 − k) + 3(30 − k) = 180 − 2k. Igualando a 128, obtém-se 2k = 52 e k = 26. Repare no sinal: quanto MAIS problemas em comum, MENOR o placar total, porque um problema compartilhado rende 4 pontos, enquanto o mesmo problema resolvido separadamente pelas duas equipes renderia 6."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-09",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Alguns estudos comprovam que os carboidratos fornecem energia ao corpo, preservam as proteínas estruturais dos músculos durante a prática de atividade física e ainda dão força para o cérebro coordenar os movimentos. O ideal é consumir 1 grama de carboidrato para cada minuto de caminhada. Um casal realizará diariamente 30 minutos de caminhada, ingerindo, antes dessa atividade, a quantidade ideal de carboidratos recomendada. Para ter o consumo ideal apenas por meio do consumo de pão de fôrma integral, o casal planeja garantir o suprimento de pães para um período de 30 dias ininterruptos. Sabe-se que cada pacote desse pão vem com 18 fatias, e que cada uma delas tem 15 gramas de carboidratos.",
+   "fonte_texto": "CIRINO, C. Boa pergunta: consumir carboidratos antes dos exercícios melhora o desempenho do atleta? Revista Saúde! É Vital, n. 330, nov. 2010 (adaptado).",
+   "enunciado": "A quantidade mínima de pacotes de pão de fôrma necessários para prover o suprimento a esse casal é",
+   "alternativas": {
+    "a": "1.",
+    "b": "4.",
+    "c": "6.",
+    "d": "7.",
+    "e": "8."
+   },
+   "resposta": "d",
+   "explicacao": "São duas pessoas caminhando 30 minutos cada, o que exige 30 g de carboidrato por pessoa e 60 g por dia para o casal. Em 30 dias são 1 800 g. Cada fatia dá 15 g, então são necessárias 1 800 ÷ 15 = 120 fatias, e cada pacote traz 18: 120 ÷ 18 = 6,67 pacotes. Como não se compra fração de pacote e a pergunta pede o mínimo suficiente, arredonda-se para cima — 7 pacotes. A opção c, 6, é o erro de truncar em vez de arredondar para cima (6 pacotes dariam apenas 108 fatias); e a opção b vem de esquecer que são duas pessoas."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-12",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível N de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo N = 10·log₁₀(I) − 10·log₁₀(I₀), com I a intensidade do som e I₀ = 10⁻¹² W/m². As medidas preventivas são as seguintes.\nSom baixo, com N = 48 dB ou menos: medida preventiva I.\nSom moderado, com N no intervalo (48 dB, 55 dB): medida preventiva II.\nSom moderado alto, com N no intervalo (55 dB, 80 dB): medida preventiva III.\nSom alto, com N no intervalo (80 dB, 115 dB): medida preventiva IV.\nSom muito alto, com N maior que 115 dB: medida preventiva V. Uma nova máquina, com I = 8 × 10⁻⁸ W/m², foi adquirida e será classificada de acordo com o nível de ruído que produz. Considere 0,3 como aproximação para log₁₀2.",
+   "fonte_texto": "Disponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado).",
+   "enunciado": "O funcionário que operará a nova máquina deverá adotar a medida preventiva",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "b",
+   "explicacao": "A fórmula é equivalente a N = 10·log₁₀(I/I₀). Com I = 8 × 10⁻⁸ e I₀ = 10⁻¹², a razão é 8 × 10⁴. Então log₁₀(8 × 10⁴) = log₁₀8 + 4 = 3·log₁₀2 + 4 = 3 × 0,3 + 4 = 4,9, e N = 49 dB. O valor 49 é maior que 48 e menor que 55, caindo no intervalo do som moderado — medida preventiva II. Repare como a margem é estreita: bastaria log₁₀2 ≈ 0,30103 para o resultado ficar em 49,03, ainda em II, mas um erro de uma casa na potência de 10 empurraria o nível para 59 ou 39 e trocaria a resposta. O truque que evita isso é decompor 8 como 2³."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-13",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um supermercado conta com cinco caixas disponíveis para pagamento. Foram instaladas telas que apresentam o tempo médio gasto por cada caixa para iniciar e finalizar o atendimento de cada cliente, e o número de pessoas presentes na fila de cada caixa em tempo real. Um cliente, na hora de passar sua compra, sabendo que cada um dos cinco caixas iniciará um novo atendimento naquele momento, pretende gastar o menor tempo possível de espera na fila. Ele observa que as telas apresentavam as informações a seguir. Caixa I: atendimento 12 minutos, 5 pessoas na fila. Caixa II: atendimento 6 minutos, 9 pessoas na fila. Caixa III: atendimento 5 minutos, 6 pessoas na fila. Caixa IV: atendimento 15 minutos, 2 pessoas na fila. Caixa V: atendimento 9 minutos, 3 pessoas na fila.",
+   "enunciado": "Para alcançar seu objetivo, o cliente deverá escolher o caixa",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "e",
+   "explicacao": "O tempo de espera é o tempo de atendimento multiplicado pelo número de pessoas à frente. Caixa I: 12 × 5 = 60 min. Caixa II: 6 × 9 = 54 min. Caixa III: 5 × 6 = 30 min. Caixa IV: 15 × 2 = 30 min. Caixa V: 9 × 3 = 27 min. O menor é o caixa V. A questão premia quem resiste a duas leituras rápidas: escolher o caixa com a fila mais curta levaria ao IV, e escolher o de atendimento mais rápido levaria ao III — nenhum dos dois é o melhor, porque o que importa é o produto das duas grandezas, não cada uma isoladamente."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-20",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Para concretar a laje de sua residência, uma pessoa contratou uma construtora. Tal empresa informa que o preço y do concreto bombeado é composto de duas partes: uma fixa, chamada de taxa de bombeamento, e uma variável, que depende do volume x de concreto utilizado. Sabe-se que a taxa de bombeamento custa R$ 500,00 e que o metro cúbico do concreto bombeado é de R$ 250,00.",
+   "enunciado": "A expressão que representa o preço y em função do volume x, em metro cúbico, é",
+   "alternativas": {
+    "a": "y = 250x",
+    "b": "y = 500x",
+    "c": "y = 750x",
+    "d": "y = 250x + 500",
+    "e": "y = 500x + 250"
+   },
+   "resposta": "d",
+   "explicacao": "A parte fixa não depende do volume, então entra como termo constante: 500. A parte variável é 250 reais por metro cúbico, ou seja, 250 multiplicado pelo volume x. Somando, y = 250x + 500 — uma função afim em que o coeficiente angular é o preço unitário e o coeficiente linear é a taxa. A opção e troca os dois papéis, cobrando 500 por metro cúbico e 250 de taxa. A opção c soma os dois valores num único coeficiente, tratando a taxa como se fosse cobrada a cada metro cúbico. E as opções a e b simplesmente ignoram uma das duas parcelas."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-21",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. O número de horas diárias por atividade é: segunda-feira, caminhar 1,0; correr 0,5; bicicleta 0,0; futebol 2,0. Terça-feira, caminhar 0,5; correr 1,0; bicicleta 0,5; futebol 1,0. Quarta-feira, caminhar 0,0; correr 1,5; bicicleta 1,0; futebol 0,5. Quinta-feira, caminhar 0,0; correr 2,0; bicicleta 0,0; futebol 0,0. Sexta-feira, caminhar 0,0; correr 0,5; bicicleta 0,0; futebol 2,5. Ela deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas praticadas for o maior. Os gastos calóricos por hora são: caminhar, 248 cal/h; correr, 764 cal/h; andar de bicicleta, 356 cal/h; jogar futebol, 492 cal/h.",
+   "enunciado": "O dia da semana em que será comemorado o aniversário é",
+   "alternativas": {
+    "a": "segunda-feira.",
+    "b": "terça-feira.",
+    "c": "quarta-feira.",
+    "d": "quinta-feira.",
+    "e": "sexta-feira."
+   },
+   "resposta": "c",
+   "explicacao": "Cada dia rende a soma das horas de cada atividade multiplicadas pelo gasto por hora. Segunda: 1,0 × 248 + 0,5 × 764 + 2,0 × 492 = 248 + 382 + 984 = 1 614 cal. Terça: 124 + 764 + 178 + 492 = 1 558. Quarta: 1,5 × 764 + 1,0 × 356 + 0,5 × 492 = 1 146 + 356 + 246 = 1 748. Quinta: 2,0 × 764 = 1 528. Sexta: 0,5 × 764 + 2,5 × 492 = 382 + 1 230 = 1 612. O maior é a quarta-feira. Repare que ela não é o dia de mais horas de exercício, nem o de mais futebol: vence porque concentra a hora e meia de corrida, que é de longe a atividade mais cara em caloria por hora."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-24",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Analisando as vendas de uma empresa, o gerente concluiu que o montante diário arrecadado, em milhar de real, poderia ser calculado pela expressão V(x) = x²/4 − 10x + 105, em que os valores de x representam os dias do mês, variando de 1 a 30. Um dos fatores para avaliar o desempenho mensal da empresa é verificar qual é o menor montante diário V₀ arrecadado ao longo do mês e classificar o desempenho conforme as categorias, em que as quantidades estão expressas em milhar de real: Ótimo, V₀ ≥ 24; Bom, 20 ≤ V₀ < 24; Normal, 10 ≤ V₀ < 20; Ruim, 4 ≤ V₀ < 10; Péssimo, V₀ < 4.",
+   "enunciado": "No caso analisado, qual seria a classificação do desempenho da empresa?",
+   "alternativas": {
+    "a": "Ótimo.",
+    "b": "Bom.",
+    "c": "Normal.",
+    "d": "Ruim.",
+    "e": "Péssimo."
+   },
+   "resposta": "d",
+   "explicacao": "A expressão é uma função quadrática com coeficiente de x² positivo (1/4), logo a parábola tem concavidade para cima e o menor valor está no vértice. A abscissa do vértice é x = −b/2a = 10/(2 × 1/4) = 20, que está dentro do intervalo válido de 1 a 30 — detalhe que precisa ser conferido, porque se caísse fora o mínimo estaria numa das pontas. Substituindo: V(20) = 400/4 − 200 + 105 = 100 − 200 + 105 = 5 mil reais. Como 4 ≤ 5 < 10, o desempenho é classificado como Ruim. Quem avalia nas extremidades encontra V(1) = 95,25 e V(30) = 30, valores altos que levariam a Ótimo — o erro de procurar o mínimo sem passar pelo vértice."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-25",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O calendário maia apresenta duas contagens simultâneas de anos, o chamado ano Tzolkim, composto por 260 dias e que determinava o calendário religioso, e o ano Haab, composto por 365 dias e que determinava o calendário agrícola. Um historiador encontrou evidências de que gerações de uma mesma família governaram certa comunidade maia pelo período de 20 ciclos, sendo cada ciclo formado por 52 anos Haab.",
+   "fonte_texto": "Disponível em: www.suapesquisa.com. Acesso em: 20 ago. 2014.",
+   "enunciado": "De acordo com as informações fornecidas, durante quantos anos Tzolkim aquela comunidade maia foi governada por tal família?",
+   "alternativas": {
+    "a": "741",
+    "b": "1 040",
+    "c": "1 460",
+    "d": "2 100",
+    "e": "5 200"
+   },
+   "resposta": "c",
+   "explicacao": "O caminho é converter tudo para dias, que é a unidade comum aos dois calendários. São 20 ciclos de 52 anos Haab, ou 1 040 anos Haab, e cada um tem 365 dias: 1 040 × 365 = 379 600 dias. Dividindo pelo tamanho do ano Tzolkim, 379 600 ÷ 260 = 1 460 anos Tzolkim. A opção b, 1 040, é o número de anos Haab, sem a conversão — o distrator para quem para no meio do caminho. Uma verificação rápida de plausibilidade: como o ano Tzolkim é mais curto, a mesma duração tem de caber num número MAIOR de anos Tzolkim, o que já elimina a e b."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-27",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Entre maratonistas, um parâmetro utilizado é o de economia de corrida (EC). O valor desse parâmetro é calculado pela razão entre o consumo de oxigênio, em mililitro (mL) por minuto (min), e a massa, em quilograma (kg), do atleta correndo a uma velocidade constante. Um maratonista, visando melhorar sua performance, auxiliado por um médico, mensura o seu consumo de oxigênio por minuto a velocidade constante. Com base nesse consumo e na massa do atleta, o médico calcula o EC do atleta.",
+   "fonte_texto": "Disponível em: www.treinamentoonline.com.br. Acesso em: 23 out. 2019 (adaptado).",
+   "enunciado": "A unidade de medida da grandeza descrita pelo parâmetro EC é",
+   "alternativas": {
+    "a": "min/(mL·kg)",
+    "b": "mL/(min·kg)",
+    "c": "(min·mL)/kg",
+    "d": "(min·kg)/mL",
+    "e": "(mL·kg)/min"
+   },
+   "resposta": "b",
+   "explicacao": "O consumo de oxigênio vem em mililitro por minuto, isto é, mL/min. O parâmetro EC é a razão entre esse consumo e a massa em quilograma, então EC = (mL/min) ÷ kg. Dividir por kg é o mesmo que multiplicar o denominador por kg, e o resultado é mL/(min·kg). A dificuldade da questão é puramente de manipulação de unidades: a divisão de uma fração por uma grandeza empurra essa grandeza para baixo, nunca para cima — o que elimina de saída as opções c e e, que trazem o quilograma multiplicando no numerador."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-28",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O metrô de um município oferece dois tipos de tíquetes com colorações diferentes, azul e vermelha, sendo vendidos em cartelas, cada qual com nove tíquetes da mesma cor e mesmo valor unitário. Duas cartelas de tíquetes azuis e uma cartela de tíquetes vermelhos são vendidas por R$ 32,40. Sabe-se que o preço de um tíquete azul menos o preço de um tíquete vermelho é igual ao preço de um tíquete vermelho mais cinco centavos.",
+   "enunciado": "Qual o preço, em real, de uma cartela de tíquetes vermelhos?",
+   "alternativas": {
+    "a": "4,68",
+    "b": "6,30",
+    "c": "9,30",
+    "d": "10,50",
+    "e": "10,65"
+   },
+   "resposta": "b",
+   "explicacao": "Sejam a e v os preços unitários. Duas cartelas azuis e uma vermelha somam 18a + 9v = 32,40, que dividido por 9 dá 2a + v = 3,60. A segunda informação diz a − v = v + 0,05, ou seja, a = 2v + 0,05. Substituindo: 2(2v + 0,05) + v = 3,60, isto é, 5v = 3,50 e v = 0,70. A pergunta é pelo preço da CARTELA vermelha, com nove tíquetes: 9 × 0,70 = 6,30. A opção a, 4,68, e a d são armadilhas de quem resolve certo mas responde o preço unitário ou o da cartela azul — vale conferir que a = 1,45 e a cartela azul sai por 13,05, o que fecha a conta: 2 × 13,05 + 6,30 = 32,40."
   }
  ],
  "matematica-probabilidade": [
@@ -41938,6 +42404,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Com 4 eleitores escolhendo entre dois candidatos, há 2⁴ = 16 resultados igualmente prováveis. O empate acontece quando exatamente 2 dos 4 votam em A, o que ocorre de C(4,2) = 6 maneiras. Logo a probabilidade é 6/16 = 0,375, ou 37,5%. A resposta de 50% é a intuição errada de que \"empate ou não empate\" seriam igualmente prováveis, quando na verdade há mais maneiras de desempatar do que de empatar. Repare que o valor cai depressa com o número de eleitores — de 37,5% com 4 votos para 1,1% com quase cinco mil, como aconteceu em Inhaúma."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "enem-matematica-03",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Visando atrair mais clientes, o gerente de uma loja anunciou uma promoção em que cada cliente que realizar uma compra pode ganhar um voucher. Para ganhar seu voucher, o cliente precisa retirar, ao acaso, uma bolinha de dentro de cada uma das duas urnas A e B, nas quais há apenas bolinhas pretas e brancas. Atualmente, a probabilidade de se escolher, ao acaso, uma bolinha preta na urna A é igual a 20% e a probabilidade de se escolher uma bolinha preta na urna B é 25%. Ganha o voucher o cliente que retirar duas bolinhas pretas, uma de cada urna. Com o passar dos dias, o gerente percebeu que, para a promoção ser viável aos negócios, era preciso alterar a probabilidade de acerto do cliente sem alterar a regra da promoção. Para isso, resolveu alterar a quantidade de bolinhas brancas na urna B de forma que a probabilidade de um cliente ganhar o voucher passasse a ser menor ou igual a 1%. Sabe-se que a urna B tem 4 bolinhas pretas e que, em ambas as urnas, todas as bolinhas têm a mesma probabilidade de serem retiradas.",
+   "enunciado": "Qual é o número mínimo de bolinhas brancas que o gerente deve adicionar à urna B?",
+   "alternativas": {
+    "a": "20",
+    "b": "60",
+    "c": "64",
+    "d": "68",
+    "e": "80"
+   },
+   "resposta": "c",
+   "explicacao": "Primeiro é preciso saber quantas bolinhas a urna B tem hoje: com 4 pretas e probabilidade 25%, o total é 16, ou seja, 12 brancas. A urna A não muda, então a probabilidade de ganhar é 0,20 × 4/n, onde n é o novo total de bolinhas em B. Impondo 0,20 × 4/n ≤ 0,01, vem 0,8/n ≤ 0,01, isto é, n ≥ 80. Como as 4 pretas permanecem, a urna precisa de 76 brancas, e ela já tem 12: faltam 64. O distrator mais tentador é 68, que é 80 − 12 — a conta de quem esquece que as 4 pretas também contam no total; e 80 é o próprio total final, confundido com o que se acrescenta."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "enem-matematica-18",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Ao realizar o cadastro em um aplicativo de investimentos, foi solicitado ao usuário que criasse uma senha, sendo permitido o uso somente dos seguintes caracteres: algarismos de 0 a 9; 26 letras minúsculas do alfabeto; 26 letras maiúsculas do alfabeto; 6 caracteres especiais. Três tipos de estruturas para senha foram apresentadas ao usuário: tipo I, formada por quaisquer quatro caracteres distintos, escolhidos dentre os permitidos; tipo II, formada por cinco caracteres distintos, iniciando por três letras, seguidas por um algarismo e, ao final, um caractere especial; tipo III, formada por seis caracteres distintos, iniciando por duas letras, seguidas por dois algarismos e, ao final, dois caracteres especiais. Considere p₁, p₂ e p₃ as probabilidades de se descobrirem ao acaso, na primeira tentativa, as senhas dos tipos I, II e III, respectivamente.",
+   "enunciado": "Nessas condições, o tipo de senha que apresenta a menor probabilidade de ser descoberta ao acaso, na primeira tentativa, é o",
+   "alternativas": {
+    "a": "tipo I, pois p₁ < p₂ < p₃.",
+    "b": "tipo I, pois tem menor quantidade de caracteres.",
+    "c": "tipo II, pois tem maior quantidade de letras.",
+    "d": "tipo III, pois p₃ < p₂ < p₁.",
+    "e": "tipo III, pois tem maior quantidade de caracteres."
+   },
+   "resposta": "a",
+   "explicacao": "Quanto mais senhas possíveis, menor a chance de acertar na primeira tentativa. São 10 + 26 + 26 + 6 = 68 caracteres permitidos. Tipo I: 68 × 67 × 66 × 65 = 19 545 240. Tipo II: 52 × 51 × 50 (as três letras) × 10 × 6 = 7 956 000. Tipo III: 52 × 51 × 10 × 9 × 6 × 5 = 7 160 400. O tipo I é o que tem mais combinações, apesar de ser o mais curto — porque cada posição pode receber qualquer um dos 68 caracteres, enquanto nos outros o formato fixo restringe cada posição a um subconjunto pequeno. Logo p₁ < p₂ < p₃. As opções b, c e e apelam para o comprimento ou a quantidade de letras, e é justamente esse raciocínio que a questão desmonta: mais caracteres não garantem mais segurança se o formato for previsível."
   }
  ],
  "matematica-sequencias": [
@@ -43062,6 +43568,106 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Chamando os dois primeiros números de x e y, a sequência é x, y, x+y, x+2y, 2x+3y, 3x+5y, 5x+8y, 8x+13y, 13x+21y, 21x+34y — os coeficientes são os de Fibonacci. Somando os dez termos, obtém-se 55x + 88y, que se fatora como 11·(5x + 8y). E 5x + 8y é exatamente o SÉTIMO termo da coluna. Por isso a soma dos dez é sempre onze vezes o sétimo, quaisquer que sejam os números iniciais — o que é o truque inteiro da mágica. Nenhuma outra posição funciona, porque em nenhuma outra os coeficientes da soma total são múltiplos exatos dos do termo."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "enem-matematica-04",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O gerente de uma fábrica pretende comparar a evolução das vendas de dois produtos similares (I e II). Para isso, passou a verificar o número de unidades vendidas de cada um desses produtos em cada mês. Os resultados dessa verificação, para os meses de abril a junho, são: produto I, 80 unidades em abril, 90 em maio e 100 em junho; produto II, 190 unidades em abril, 170 em maio e 150 em junho. O gerente estava decidido a cessar a produção do produto II no mês seguinte àquele em que as vendas do produto I superassem as do produto II. Suponha que a variação na quantidade de unidades vendidas dos produtos I e II se manteve, mês a mês, como no período representado na tabela.",
+   "enunciado": "Em qual mês o produto II parou de ser produzido?",
+   "alternativas": {
+    "a": "Junho.",
+    "b": "Julho.",
+    "c": "Agosto.",
+    "d": "Setembro.",
+    "e": "Outubro."
+   },
+   "resposta": "d",
+   "explicacao": "As duas séries são progressões aritméticas: o produto I sobe 10 unidades por mês e o produto II cai 20. Seguindo em julho: I = 110 e II = 130, e o II ainda vende mais. Em agosto: I = 120 e II = 110 — é aí que o produto I supera o II pela primeira vez. Mas a regra do gerente é cessar a produção no mês SEGUINTE àquele em que a ultrapassagem acontece, então o produto II deixa de ser produzido em setembro. A opção c, agosto, é a resposta de quem para na ultrapassagem e ignora a palavra \"seguinte\" — que é justamente o que a questão está medindo."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "enem-matematica-08",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Considere um triângulo mágico: uma figura com seis círculos, três nos vértices de um triângulo e um no meio de cada lado. Nos círculos, escrevem-se os números de 1 a 6, sem repetição, com um número em cada círculo. O objetivo é distribuir os números de forma que as somas dos números em cada lado do triângulo — os dois vértices daquele lado mais o círculo do meio — sejam iguais. Considere que os números colocados nos vértices do triângulo estejam em progressão aritmética de razão igual a 2.",
+   "enunciado": "Nas condições propostas, quais as possíveis soluções para as somas dos números que formam os lados do triângulo?",
+   "alternativas": {
+    "a": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 7.",
+    "b": "Há somente uma solução possível, e as somas em cada lado do triângulo são iguais a 9.",
+    "c": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 7 e outra em que as somas são iguais a 9.",
+    "d": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 9 e outra em que as somas são iguais a 12.",
+    "e": "Há somente duas soluções possíveis, uma em que as somas em cada lado do triângulo são iguais a 10 e outra em que as somas são iguais a 11."
+   },
+   "resposta": "e",
+   "explicacao": "Somando os três lados, cada número do meio é contado uma vez e cada vértice é contado duas vezes, porque pertence a dois lados. Logo 3S = (1 + 2 + 3 + 4 + 5 + 6) + V = 21 + V, onde V é a soma dos vértices. Com números de 1 a 6 em progressão aritmética de razão 2, só há dois trios possíveis nos vértices: {1, 3, 5}, com V = 9, e {2, 4, 6}, com V = 12. No primeiro caso 3S = 30 e S = 10; no segundo 3S = 33 e S = 11. As duas distribuições de fato se completam — com vértices 1, 3, 5 os meios são 6, 4, 2, e com vértices 2, 4, 6 os meios são 5, 3, 1. São, portanto, duas soluções, com somas 10 e 11."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "enem-matematica-17",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um agricultor é informado sobre um método de proteção para sua lavoura que consiste em inserir larvas específicas, de rápida reprodução. A reprodução dessas larvas faz com que sua população multiplique-se por 10 a cada 3 dias e, para evitar eventuais desequilíbrios, é possível cessar essa reprodução aplicando-se um produto X. O agricultor decide iniciar esse método com 100 larvas e dispõe de 5 litros do produto X, cuja aplicação recomendada é de exatamente 1 litro para cada população de 200 000 larvas. A quantidade total do produto X de que ele dispõe deverá ser aplicada de uma única vez.",
+   "enunciado": "Quantos dias após iniciado esse método o agricultor deverá aplicar o produto X?",
+   "alternativas": {
+    "a": "2",
+    "b": "4",
+    "c": "6",
+    "d": "12",
+    "e": "18"
+   },
+   "resposta": "d",
+   "explicacao": "Os 5 litros tratam 5 × 200 000 = 1 000 000 de larvas, e é esse o tamanho que a população deve ter no momento da aplicação. Partindo de 100 larvas e multiplicando por 10 a cada 3 dias, a população vale 100 × 10^k depois de k períodos. Igualando a 10⁶: 100 × 10^k = 10⁶, ou seja, 10^k = 10⁴ e k = 4 períodos. Como cada período dura 3 dias, são 4 × 3 = 12 dias. O erro que a opção b captura é responder 4, o número de períodos, esquecendo de convertê-lo em dias; e quem parte de 1 larva em vez de 100 encontra 6 períodos e cai em 18."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "enem-matematica-23",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A intensidade luminosa decresce com o aumento da profundidade em um rio, sendo L₀ a intensidade na sua superfície. Na profundidade de 0 m a intensidade é L₀; a 1 m é (2/3)L₀; a 2 m é (4/9)L₀; a 3 m é (8/27)L₀. Considere que a intensidade luminosa diminui, a cada metro acrescido na profundidade, segundo o mesmo padrão.",
+   "enunciado": "A intensidade luminosa correspondente à profundidade de 6 m é igual a",
+   "alternativas": {
+    "a": "(1/9)L₀",
+    "b": "(16/27)L₀",
+    "c": "(32/243)L₀",
+    "d": "(64/729)L₀",
+    "e": "(128/2187)L₀"
+   },
+   "resposta": "d",
+   "explicacao": "Os valores formam uma progressão geométrica: cada metro multiplica a intensidade por 2/3, como se vê em 2/3, 4/9 e 8/27, que são (2/3)¹, (2/3)² e (2/3)³. A 6 metros, portanto, a intensidade é (2/3)⁶ · L₀ = 2⁶/3⁶ · L₀ = 64/729 · L₀. As opções c e e correspondem a (2/3)⁵ e (2/3)⁷ — erro de contar um metro a mais ou a menos, o que é fácil de cometer porque a superfície é o expoente zero, e não o primeiro termo. A opção a, 1/9, é o que se obteria dobrando o denominador em vez de elevar a fração à sexta potência."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "enem-matematica-29",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os números figurados pentagonais provavelmente foram introduzidos pelos pitagóricos por volta do século V a.C. Os seis primeiros números pentagonais são 1, 5, 12, 22, 35 e 51, sendo os demais obtidos seguindo o mesmo padrão geométrico.",
+   "enunciado": "O oitavo número pentagonal é",
+   "alternativas": {
+    "a": "59.",
+    "b": "83.",
+    "c": "86.",
+    "d": "89.",
+    "e": "92."
+   },
+   "resposta": "e",
+   "explicacao": "As diferenças entre termos consecutivos são 4, 7, 10, 13 e 16 — uma progressão aritmética de razão 3. A próxima diferença é 19, então o sétimo pentagonal é 51 + 19 = 70; a diferença seguinte é 22, e o oitavo é 70 + 22 = 92. Não é preciso conhecer a fórmula fechada n(3n − 1)/2, embora ela confirme: 8 × 23/2 = 92. O distrator mais próximo é 89, resultado de manter a diferença em 19 nos dois últimos passos, isto é, de tratar a sequência como se as diferenças fossem constantes em vez de crescerem de 3 em 3."
   }
  ],
  "matematica-logica-conjuntos": [

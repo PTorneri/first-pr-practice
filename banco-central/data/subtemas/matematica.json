@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "matematica",
- "total": 974,
+ "total": 1004,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -5811,6 +5811,177 @@
    "subtema": "matematica-algebra",
    "frenteDestino": "matematica",
    "revisado": true
+  },
+  "enem-matematica-01": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "enem-matematica-02": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "enem-matematica-03": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "enem-matematica-04": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "enem-matematica-05": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 3
+  },
+  "enem-matematica-06": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "enem-matematica-07": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "enem-matematica-08": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "enem-matematica-09": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "enem-matematica-10": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 10
+  },
+  "enem-matematica-11": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 2
+  },
+  "enem-matematica-12": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "enem-matematica-13": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "enem-matematica-14": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 22,
+   "margem": 22
+  },
+  "enem-matematica-15": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "enem-matematica-16": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "enem-matematica-17": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "enem-matematica-18": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 12
+  },
+  "enem-matematica-19": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 8
+  },
+  "enem-matematica-20": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "enem-matematica-21": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "enem-matematica-22": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "enem-matematica-23": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 7
+  },
+  "enem-matematica-24": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 2
+  },
+  "enem-matematica-25": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "enem-matematica-26": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 18,
+   "margem": 15
+  },
+  "enem-matematica-27": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "enem-matematica-28": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "enem-matematica-29": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 9
+  },
+  "enem-matematica-30": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 2,
+   "margem": 2
   }
  }
 }

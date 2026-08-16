@@ -33232,7 +33232,7 @@ window.QUESTION_BANKS = {
     "a": "conclusão, encerrando definitivamente o raciocínio sobre o tema apresentado, sem qualquer relativização do avanço mencionado anteriormente.",
     "b": "causa, indicando que a ampliação de leitos foi a causa direta da estabilidade no tempo de internação.",
     "c": "contraste, apresentando um dado que relativiza ou se opõe, em algum grau, ao avanço mencionado na primeira frase.",
-    "d": "adição, reforçando integralmente a ideia positiva apresentada na primeira frase, sem introduzir qualquer contraste ou relativização posterior.",
+    "d": "adição, reforçando integralmente a ideia positiva apresentada na primeira frase, sem introduzir contraste ou relativização posterior.",
     "e": "explicação, retomando em outros termos o dado apresentado na frase anterior."
    },
    "resposta": "c",
@@ -33405,7 +33405,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Os conectivos destacados exprimem, respectivamente, circunstância de:",
    "alternativas": {
     "a": "comparação e proporção, sentidos que a norma culta considera equivalentes quando os conectivos aparecem em orações de estrutura semelhante",
-    "b": "causa e finalidade, valores que se distinguem pela posição ocupada por cada uma das orações subordinadas dentro do período composto apresentado",
+    "b": "causa e finalidade, valores que se distinguem pela posição ocupada por cada uma das orações subordinadas dentro do período composto apresentado na comparação entre os dois enunciados",
     "c": "condição e concessão, relações que dependem do modo verbal empregado em cada uma das duas orações subordinadas propostas na comparação",
     "d": "tempo e consequência, circunstâncias que se diferenciam pelo aspecto verbal expresso pelas formas empregadas em cada um dos dois enunciados",
     "e": "finalidade e causa, circunstâncias que se distinguem por a primeira apontar o objetivo do fato, com verbo no subjuntivo, e a segunda, o motivo que o provocou"
@@ -33509,7 +33509,7 @@ window.QUESTION_BANKS = {
     "a": "pleonasmo, com repetição de uma ideia já contida em outro termo da mesma oração apresentada para análise no enunciado da questão",
     "b": "elipse, com supressão de um termo facilmente recuperável a partir do contexto em que a construção aparece empregada no texto produzido",
     "c": "hipérbato, com inversão da ordem direta pelo deslocamento do complemento para o início, recurso de estilo corrente na escrita formal e que não configura desvio",
-    "d": "silepse, com concordância feita segundo a ideia expressa e não segundo a forma gramatical dos termos empregados na construção analisada",
+    "d": "silepse, com concordância feita segundo a ideia expressa e não segundo a forma gramatical dos termos empregados na construção, figura que aqui atingiria o número do verbo",
     "e": "anacoluto, com abandono da estrutura sintática iniciada no começo do período e retomada de outra estrutura na sequência do enunciado"
    },
    "resposta": "c",
@@ -33541,7 +33541,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O período é ambíguo porque o possessivo \"sua\":",
    "alternativas": {
     "a": "poderia ser suprimido sem prejuízo do sentido, uma vez que a informação por ele veiculada já está contida no substantivo que o acompanha",
-    "b": "não concorda em gênero com nenhum dos dois substantivos mencionados antes dele na estrutura sintática do período apresentado no enunciado",
+    "b": "não concorda em gênero com nenhum dos dois substantivos mencionados antes dele na estrutura do período, o que deixaria em aberto qual deles o possessivo retoma",
     "c": "aparece separado do termo a que se refere por um complemento preposicionado, o que impede sua recuperação a partir da leitura do período",
     "d": "designa lugar e não posse, valor que exigiria o emprego de um advérbio no lugar do pronome empregado na construção apresentada",
     "e": "pode remeter ao médico ou ao paciente, já que o possessivo de terceira pessoa não distingue os dois referentes, que só \"dele\" ou \"dele próprio\" fixariam"
@@ -33660,7 +33660,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O problema do enunciado, considerado o gênero, é de:",
    "alternativas": {
     "a": "progressão temática, já que o enunciado não avança em relação à informação apresentada no início e apenas repete o que já era conhecido",
-    "b": "correção gramatical, uma vez que as construções empregadas violam regras de concordância e de regência estabelecidas pela norma culta escrita",
+    "b": "correção gramatical, uma vez que as construções empregadas violam regras de concordância e de regência estabelecidas pela norma culta escrita para o gênero do comunicado institucional",
     "c": "coesão referencial, provocada pela impossibilidade de recuperar a que termo remete cada um dos pronomes utilizados ao longo do comunicado",
     "d": "ambiguidade estrutural, decorrente da possibilidade de ligar o adjunto adverbial a mais de um termo dentro da estrutura sintática do período",
     "e": "adequação de registro ao contexto, já que as frases estão bem formadas, mas as expressões empregadas pertencem à conversa informal e destoam do gênero do comunicado"
@@ -33743,7 +33743,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre os mecanismos de retomada de termos ao longo de um texto, é correto afirmar que:",
    "alternativas": {
     "a": "toda retomada de termo depende obrigatoriamente da repetição literal e integral da mesma expressão ao longo de todo o texto",
-    "b": "a coesão de um texto se resume exclusivamente ao uso de conectivos, sem qualquer participação de elementos que retomam termos, conforme a estrutura superficial do trecho poderia, num primeiro momento, sugerir ao leitor menos atento",
+    "b": "a coesão de um texto se resume ao uso de conectivos, sem participação de elementos que retomam termos, conforme a estrutura superficial do trecho poderia, num primeiro momento, sugerir ao leitor menos atento",
     "c": "um elemento coesivo nunca pode aparecer antes do termo a que se refere, apenas depois dele, em qualquer situação",
     "d": "textos bem construídos evitam por completo qualquer tipo de retomada, preferindo sempre introduzir termos inéditos",
     "e": "um elemento coesivo pode substituir uma expressão já mencionada, reduzindo repetições e garantindo a progressão do sentido entre as partes"
@@ -33775,7 +33775,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-204",
    "enunciado": "Sobre o papel dos conectivos na construção do sentido de um texto, é correto afirmar que:",
    "alternativas": {
-    "a": "os conectivos servem apenas para tornar o texto mais longo, sem qualquer influência sobre o sentido das partes que ligam, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "a": "os conectivos servem apenas para tornar o texto mais longo, sem influência sobre o sentido das partes que ligam, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
     "b": "cada conectivo carrega um valor lógico-semântico próprio, capaz de estabelecer relações como oposição, conclusão ou explicação entre as partes do texto",
     "c": "um mesmo conectivo produz sempre o mesmo efeito de sentido, independentemente do contexto em que for empregado",
     "d": "textos bem escritos dispensam totalmente o uso de conectivos, substituindo-os sempre por marcas gráficas no papel",
@@ -33874,7 +33874,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-210",
    "enunciado": "Sobre a coerência de um texto, é correto afirmar que ela:",
    "alternativas": {
-    "a": "se limita ao uso correto de conectivos, sendo garantida automaticamente sempre que há um conectivo entre duas frases, conforme a proximidade entre os termos no texto poderia equivocadamente sugerir ao leitor menos atento",
+    "a": "se limita ao uso correto de conectivos, sendo assegurada de forma automática quando há um conectivo entre duas frases, conforme a proximidade entre os termos no texto poderia equivocadamente sugerir ao leitor menos atento",
     "b": "é uma propriedade exclusiva de textos longos, não podendo ser observada em frases soltas ou em textos breves",
     "c": "depende da relação lógica entre as ideias apresentadas, de modo que o texto faça sentido para quem o lê, além da simples ligação formal entre as palavras",
     "d": "independe totalmente do contexto no qual o texto é produzido, valendo sempre da mesma forma em qualquer situação",
@@ -33907,7 +33907,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-212",
    "enunciado": "Um texto é considerado incoerente quando:",
    "alternativas": {
-    "a": "utiliza conectivos variados ao longo de todo o desenvolvimento, sem repetir o mesmo elemento coesivo com frequência, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
+    "a": "utiliza conectivos variados ao longo do desenvolvimento, sem repetir o mesmo elemento coesivo com frequência, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
     "b": "mantém uma progressão constante de ideias, sempre relacionadas de forma lógica ao assunto central discutido",
     "c": "emprega vocabulário técnico apropriado ao tema tratado, adequado ao público a que o texto se destina",
     "d": "segue rigorosamente a norma culta em todas as suas frases, sem qualquer desvio gramatical perceptível",
@@ -33925,7 +33925,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre a relação entre as duas frases desse pequeno texto, é correto afirmar que:",
    "alternativas": {
     "a": "há uma contradição de sentido entre afirmar que não existe nenhum leito e, em seguida, afirmar que três foram liberados",
-    "b": "as duas frases se complementam sem qualquer contradição, já que tratam de momentos distintos e sem relação entre si, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do trecho",
+    "b": "as duas frases se complementam sem contradição, já que tratam de momentos distintos e sem relação entre si, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do trecho",
     "c": "a segunda frase apenas repete, com outras palavras, exatamente a mesma informação apresentada na primeira frase",
     "d": "a relação entre as frases é de causa e efeito, sendo a liberação dos leitos consequência direta da falta deles",
     "e": "não há qualquer problema de sentido entre as frases, pois \"nenhum\" e \"três\" podem coexistir sem contradição"
@@ -33956,7 +33956,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-215",
    "enunciado": "As palavras \"eminente\" e \"iminente\" são frequentemente confundidas em textos porque:",
    "alternativas": {
-    "a": "são sinônimas perfeitas, podendo ser substituídas uma pela outra em qualquer contexto sem qualquer alteração de sentido, suposição que a ordem das palavras no trecho poderia, à primeira vista, sustentar",
+    "a": "são sinônimas perfeitas, podendo ser substituídas uma pela outra em contextos variados sem alteração de sentido, suposição que a ordem das palavras no trecho poderia, à primeira vista, sustentar",
     "b": "são homônimas, já que se escrevem exatamente da mesma forma, embora tenham origem etimológica distinta",
     "c": "são parônimas: têm grafia e pronúncia parecidas, mas sentidos bem diferentes — uma indica destaque, a outra, proximidade no tempo",
     "d": "pertencem à mesma família de palavras, com uma origem etimológica comum a ambas as formas apresentadas",
@@ -34023,7 +34023,7 @@ window.QUESTION_BANKS = {
     "a": "denotativo, já que se refere exatamente ao órgão responsável por bombear o sangue pelo corpo humano",
     "b": "conotativo, pois se afasta do significado literal do órgão para expressar a ideia de núcleo central e vital de um espaço",
     "c": "técnico, pois é utilizado, nesse contexto, exatamente como nos manuais de anatomia e fisiologia humana",
-    "d": "ambíguo, uma vez que é impossível saber, nesse trecho, a que sentido a palavra \"coração\" realmente se refere, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "d": "ambíguo, uma vez que não se consegue saber, nesse trecho, a que sentido a palavra \"coração\" realmente se refere, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
     "e": "regional, já que essa forma de emprego da palavra só é compreendida em determinadas variedades do idioma"
    },
    "resposta": "b",
@@ -34117,7 +34117,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A diferença entre \"o pessoal já foi embora\", em fala informal entre colegas, e \"os profissionais já se retiraram\", em registro formal de um relatório, ilustra, sobretudo, uma variação de:",
    "alternativas": {
     "a": "significado, pois as duas frases descrevem fatos completamente diferentes, sem qualquer relação de sentido entre elas",
-    "b": "duração da ação, uma vez que a diferença central entre as frases estaria exclusivamente no momento no qual os fatos ocorreram, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "b": "duração da ação, uma vez que a diferença central entre as frases estaria apenas no momento no qual os fatos ocorreram, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
     "c": "registro, já que a mesma informação é adaptada à situação de comunicação, ora em registro informal, ora em registro formal e institucional",
     "d": "número gramatical, já que uma das frases está no singular e a outra, no plural, alterando por completo o sentido",
     "e": "pessoa gramatical, pois cada frase emprega uma pessoa do discurso diferente da outra, o que altera o sentido"
@@ -34132,7 +34132,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-226",
    "enunciado": "Sobre a relação entre norma culta e variedades regionais ou informais do português, é correto afirmar que:",
    "alternativas": {
-    "a": "apenas a norma culta pode ser considerada uma forma legítima de comunicação, sendo as demais variedades sempre incorretas, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
+    "a": "apenas a norma culta pode ser considerada uma forma legítima de comunicação, sendo as demais variedades incorretas, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
     "b": "as variedades regionais e informais desapareceram completamente do português contemporâneo, restando apenas a norma culta",
     "c": "a norma culta é usada exclusivamente na fala cotidiana, enquanto as demais variedades aparecem apenas em textos escritos",
     "d": "a norma culta é a variedade de prestígio associada a contextos formais, mas isso não torna as demais variedades erradas ou inferiores em si mesmas",
@@ -34555,7 +34555,7 @@ window.QUESTION_BANKS = {
     "a": "está correta apenas se houver especificação posterior, como em 'à noite de ontem'; sem ela, o acento é indevido.",
     "b": "está correta, pois 'à noite' é locução adverbial de tempo consagrada pelo uso, formada pela fusão da preposição 'a' com o artigo feminino de 'noite'.",
     "c": "está incorreta, pois locuções adverbiais de tempo nunca admitem crase, mesmo quando formadas por substantivo feminino consagrado pelo uso.",
-    "d": "está incorreta porque 'noite' é substantivo que rejeita artigo definido em qualquer contexto, mesmo quando antecedido por preposição temporal.",
+    "d": "está incorreta porque 'noite' é substantivo que rejeita o artigo definido feminino, de modo que o 'a' anteposto seria apenas preposição e deveria vir sem acento grave nessa locução adverbial de tempo.",
     "e": "está correta apenas se a frase estiver no modo imperativo, condição que por si só justificaria a fusão da preposição com o artigo feminino."
    },
    "resposta": "b",
@@ -34607,7 +34607,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre a regência do verbo 'chegar' na frase, considerando a norma culta escrita formal, é correto afirmar que",
    "alternativas": {
     "a": "está correta apenas em textos jornalísticos, sendo um erro em outros gêneros textuais, como bulas, editais ou correspondências formais.",
-    "b": "está incorreta; deveria ser 'chegou no endereço', forma mais adequada segundo a norma culta escrita formal em qualquer tipo de texto.",
+    "b": "está incorreta; deveria ser 'chegou no endereço', forma que a norma culta escrita formal recomendaria para indicar o lugar de destino, reservando 'chegar a' apenas ao registro literário mais antigo.",
     "c": "está incorreta porque falta a preposição 'para' antes de 'o endereço', complemento que o verbo 'chegar' exigiria nessa construção.",
     "d": "está correta, mas apenas porque o complemento é nome de cidade; com nomes de estabelecimento, exige-se 'em'.",
     "e": "está correta; a construção 'chegar a' é a recomendada pela norma culta escrita formal para indicar o lugar de destino, em vez de 'chegar em/no'."
@@ -34626,7 +34626,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "está correta, mas apenas porque o complemento de pessoa vem antes; invertida a ordem, a preposição seria obrigatória.",
     "b": "está correta; 'comunicar' é bitransitivo e admite a construção 'comunicar algo a alguém', com o complemento de pessoa regido pela preposição 'a', que se funde ao artigo feminino de 'direção'.",
-    "c": "está incorreta porque 'comunicar' deveria ser regido exclusivamente pela preposição 'sobre', nunca admitindo a construção bitransitiva com 'a', uso que se aproximaria da regência do verbo 'informar' quando este introduz assunto, mas que não se aplicaria aqui.",
+    "c": "está incorreta porque 'comunicar' deveria ser regido apenas pela preposição 'sobre', sem admitir a construção bitransitiva com 'a', uso que se aproximaria da regência do verbo 'informar' quando este introduz assunto, mas que não se aplicaria aqui.",
     "d": "está incorreta; deveria ser 'comuniquei a direção', sem crase, pois 'comunicar' não admite complemento indireto de pessoa regido por artigo, tratamento que se estenderia, por analogia, a todos os verbos de comunicação regidos por complemento humano determinado.",
     "e": "está correta apenas se 'direção' for substituída por um substantivo masculino, condição que eliminaria a possibilidade de crase na frase, já que a ausência de artigo feminino impediria qualquer fusão preposicional nessa regência verbal específica."
    },
@@ -34732,7 +34732,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"O enfermeiro assistiu o paciente durante toda a madrugada, monitorando os sinais vitais a cada meia hora.\"",
    "enunciado": "Sobre a regência do verbo 'assistir' na frase, no sentido de 'prestar assistência, ajudar', é correto afirmar que",
    "alternativas": {
-    "a": "está incorreta; deveria ser 'assistiu ao paciente', com a preposição 'a', forma obrigatória em qualquer sentido do verbo.",
+    "a": "está incorreta; deveria ser 'assistiu ao paciente', com a preposição 'a', pois 'assistir' seria transitivo indireto tanto no sentido de 'ver, presenciar' quanto no de 'prestar assistência', sem distinção de regência.",
     "b": "está incorreta porque 'assistir' deveria ser regido pela preposição 'com', mesmo no sentido de prestar assistência ou cuidar de alguém.",
     "c": "está correta; nesse sentido de 'prestar assistência', 'assistir' é transitivo direto, diferente do sentido de 'ver, presenciar', que exige a preposição 'a'.",
     "d": "está correta apenas em textos da área da saúde, sendo incomum em outros contextos, já que esse sentido do verbo seria exclusivo da linguagem técnica.",
@@ -34751,7 +34751,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre a crase em 'à que', caso se quisesse reescrever a oração relativa como 'a decisão à que nos referimos ontem afetou toda a equipe', é correto afirmar que",
    "alternativas": {
     "a": "a crase estaria correta apenas se 'decisão' fosse substituída por um substantivo masculino, condição que anularia completamente a regra de crase.",
-    "b": "a crase estaria correta, pois o verbo 'referir-se' exige a preposição 'a', e essa preposição receberia acento grave sempre que o antecedente do relativo fosse um substantivo feminino.",
+    "b": "a crase estaria correta, pois o verbo 'referir-se' exige a preposição 'a', e essa preposição se fundiria ao artigo definido do antecedente feminino 'decisão', produzindo o acento grave diante do pronome relativo 'que', como ocorreria também em 'à qual'.",
     "c": "a crase estaria incorreta porque o verbo 'referir-se' não admite complemento regido por preposição, funcionando sempre como transitivo direto nessa construção.",
     "d": "a crase estaria incorreta; com o antecedente 'a decisão' já expresso, o relativo 'que' não admite artigo, restando apenas a preposição: o correto seria 'a decisão a que nos referimos' ou 'a decisão à qual nos referimos'.",
     "e": "a crase estaria correta, pois a fusão ocorre entre a preposição exigida pelo verbo e o pronome relativo."
@@ -34808,7 +34808,7 @@ window.QUESTION_BANKS = {
     "b": "está correta, mas apenas porque a locução tem valor de modo; com valor de intensidade, dispensaria o acento.",
     "c": "está correta, pois 'à vontade' é locução adverbial feminina consagrada pelo uso, formada pela fusão da preposição 'a' com o artigo feminino de 'vontade'.",
     "d": "está incorreta porque a expressão correta seria 'na vontade', sem qualquer crase, substituindo a locução consagrada por regência mais simples.",
-    "e": "está incorreta, pois 'vontade' é substantivo que rejeita artigo definido antecedente em qualquer contexto, mesmo quando regido por preposição exigida pela locução verbal."
+    "e": "está incorreta, pois 'vontade' é substantivo que rejeita o artigo definido antecedente, mesmo quando regido por preposição exigida pela locução verbal, de modo que o 'a' seria mera preposição."
    },
    "resposta": "c",
    "explicacao": "'À vontade' é locução adverbial feminina consagrada pelo uso, resultante da fusão da preposição 'a' com o artigo feminino que acompanha 'vontade', mantendo-se a crase independentemente da posição da locução na frase.",
@@ -34861,7 +34861,7 @@ window.QUESTION_BANKS = {
     "a": "ambas estão corretas; 'gostar' é verbo transitivo indireto que exige a preposição 'de' antes de seu complemento, tanto em 'gosto desse tipo' quanto em 'compartilham do mesmo gosto', embora este último use o verbo 'compartilhar', também regido por 'de'.",
     "b": "ambas estão incorretas, pois 'gostar' pede complemento sem preposição quando o que se aprecia vem determinado por pronome demonstrativo, construção que dispensa o 'de' nesse tipo de estrutura",
     "c": "apenas a primeira ocorrência está correta; a segunda deveria ser 'compartilham o mesmo gosto', sem preposição, porque 'compartilhar' pede objeto direto quando o que se divide é coisa e não sentimento",
-    "d": "apenas a segunda ocorrência está correta, pois a primeira deveria ser regida pela preposição 'com', assim como ocorreria com verbos de afinidade, simpatia e apreço pessoal (uso frequente entre falantes cuidadosos), hipótese sem respaldo na regência tradicionalmente consagrada.",
+    "d": "apenas a segunda ocorrência está correta, pois a primeira deveria ser regida pela preposição 'com', assim como ocorreria com verbos de afinidade, simpatia e apreço pessoal (uso frequente entre falantes cuidadosos), construção sem respaldo na regência tradicionalmente consagrada.",
     "e": "ambas estão corretas, mas por outra razão: 'gostar' é transitivo direto, e a preposição funciona como realce."
    },
    "resposta": "a",
@@ -34876,7 +34876,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"Todos os candidatos devem comparecer ao local de prova com uma hora de antecedência, portando documento de identificação com foto.\"",
    "enunciado": "Sobre a regência do verbo 'comparecer' na frase, é correto afirmar que",
    "alternativas": {
-    "a": "está incorreta; deveria ser 'comparecer no local', com a preposição 'em', forma obrigatória na norma culta escrita em qualquer tipo de documento formal.",
+    "a": "está incorreta; deveria ser 'comparecer no local', com a preposição 'em', forma que a norma culta escrita exigiria nos editais e nas convocações, por indicarem permanência no lugar, e não deslocamento até ele.",
     "b": "está correta, mas apenas porque o complemento indica lugar público; com lugar privado, exige-se a preposição 'em'.",
     "c": "está correta; o verbo 'comparecer' é transitivo indireto e rege a preposição 'a' para indicar o lugar a que se comparece, regência empregada corretamente na frase.",
     "d": "está incorreta porque 'comparecer' deveria ser regido pela preposição 'para', indicando a finalidade do deslocamento até o local de prova.",
@@ -34913,7 +34913,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre o emprego de 'à qual' na frase, é correto afirmar que",
    "alternativas": {
     "a": "está correto, mas por outra razão: 'à qual' é forma fixa que dispensa análise da regência do termo antecedente.",
-    "b": "está incorreto porque a expressão 'dar atenção' não admite complemento regido por preposição, funcionando sempre como transitiva direta nessa construção.",
+    "b": "está incorreto porque a expressão 'dar atenção' não admite complemento regido por preposição, funcionando como transitiva direta nessa construção, de modo que o relativo deveria vir sem artigo e sem acento grave.",
     "c": "está correto apenas se 'norma' for substituída por um substantivo masculino, como 'regulamento', condição que eliminaria a crase diante do relativo.",
     "d": "está correto, pois o verbo 'dar atenção a' exige a preposição 'a', que se combina com o artigo feminino do pronome relativo 'qual', retomando 'uma norma antiga'.",
     "e": "está incorreto, pois 'qual' nunca pode ser antecedido de artigo definido fundido a preposição, mesmo quando o verbo regente exija essa preposição."
@@ -34969,7 +34969,7 @@ window.QUESTION_BANKS = {
     "a": "está correta, pois o verbo 'aspirar', no sentido de 'pretender, desejar', é transitivo indireto e rege a preposição 'a', que se funde ao artigo feminino de 'vaga'.",
     "b": "está correta apenas se o verbo estiver no tempo presente do indicativo, tempo que por si só justificaria a fusão da preposição com o artigo.",
     "c": "está correta, mas apenas porque o sujeito é plural; com sujeito singular, 'aspirar' dispensaria a preposição.",
-    "d": "está incorreta, pois o verbo 'aspirar' nunca admite complemento regido por preposição, comportando-se sempre como transitivo direto nessa acepção.",
+    "d": "está incorreta, pois o verbo 'aspirar' não admite complemento regido por preposição, comportando-se como transitivo direto nessa acepção, de modo que o 'a' anteposto a 'vaga' seria apenas artigo definido.",
     "e": "está incorreta porque 'vaga' é substantivo que rejeita artigo definido antecedente, mesmo quando regida por preposição exigida pelo verbo 'aspirar'."
    },
    "resposta": "a",
@@ -34985,7 +34985,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre o sentido e a grafia da locução 'à revelia de' na frase, é correto afirmar que",
    "alternativas": {
     "a": "significa 'antes do prazo estabelecido por', sentido não relacionado ao contexto da frase, que trataria de uma decisão tomada sem consulta prévia.",
-    "b": "está incorreta, pois a locução correta seria 'na revelia dos moradores', sem qualquer crase, substituindo a locução consagrada por regência simples.",
+    "b": "está incorreta, pois a locução correta seria 'na revelia dos moradores', sem crase, já que 'revelia' só admitiria artigo definido quando viesse determinada por um complemento posterior.",
     "c": "significa 'sem o conhecimento ou consentimento de', e a crase está corretamente empregada por se tratar de locução prepositiva feminina consagrada pelo uso.",
     "d": "significa 'com o total apoio de', sentido oposto ao empregado na frase, o que tornaria seu uso aqui inadequado.",
     "e": "significa 'sob a supervisão direta de', e a grafia com acento grave está correta por se tratar de locução adverbial."
@@ -35108,7 +35108,7 @@ window.QUESTION_BANKS = {
     "a": "apenas II é correta, já que a pessoa informada é sempre o objeto direto e a informação transmitida funciona como complemento preposicionado",
     "b": "apenas I é correta, uma vez que a coisa informada deve necessariamente ocupar a posição de objeto direto em qualquer construção com esse verbo",
     "c": "ambas são corretas, pois o verbo é bitransitivo e admite as duas distribuições, informando-se algo a alguém ou alguém de algo, como também ocorre com \"avisar\"",
-    "d": "ambas são incorretas, porque \"informar\" é transitivo direto e não admite complemento preposicionado em nenhuma das acepções registradas para ele",
+    "d": "ambas são incorretas, porque \"informar\" é transitivo direto e não admite complemento preposicionado em nenhuma das acepções registradas para ele nos dicionários de regência",
     "e": "apenas I é correta, e a construção II resulta de influência estrangeira não incorporada à norma culta do português escrito contemporâneo"
    },
    "resposta": "c",
@@ -35193,7 +35193,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "os termos \"limpo\" e \"pé\" funcionam como adjetivos e a crase só ocorre diante de substantivos que possam ser determinados por artigo definido",
     "b": "os dois enunciados apresentam locuções adverbiais de modo, classe que nunca recebe o acento indicativo de crase em nenhuma circunstância de uso",
-    "c": "o verbo de cada uma das orações é intransitivo e por isso não exige preposição diante do termo que aparece em seguida na construção apresentada",
+    "c": "o verbo de cada uma das orações é intransitivo e por isso não exige preposição diante do termo que aparece em seguida na construção apresentada, restando ali apenas o artigo",
     "d": "as palavras que seguem o \"a\" são masculinas e não admitem artigo feminino, de modo que não existe artigo com que a preposição se funda e a crase não se justifica",
     "e": "o acento foi suprimido pela reforma ortográfica em todas as locuções formadas por preposição seguida de palavra iniciada por consoante na língua"
    },
@@ -35348,7 +35348,7 @@ window.QUESTION_BANKS = {
     "b": "objeto indireto e objeto direto, distinção que se estabelece pela ordem em que os dois complementos aparecem depois do verbo na oração",
     "c": "objeto direto e objeto indireto, complementos de um verbo bitransitivo — entrega-se algo a alguém —, dos quais apenas o segundo vem introduzido por preposição",
     "d": "adjunto adnominal e complemento nominal, classificação determinada pela presença da preposição diante do segundo dos dois termos indicados",
-    "e": "predicativo do objeto e agente da passiva, funções que a estrutura da oração permite identificar a partir da transitividade do verbo empregado"
+    "e": "predicativo do objeto e agente da passiva, funções que a estrutura da oração permite identificar a partir da transitividade do verbo empregado e da preposição que introduz o segundo termo"
    },
    "resposta": "c",
    "explicacao": "\"Entregar\" é bitransitivo: entrega-se algo a alguém. O que se entrega vem sem preposição e é o objeto direto; a quem se entrega vem com \"a\" e é o objeto indireto.",
@@ -35873,7 +35873,7 @@ window.QUESTION_BANKS = {
     "b": "a ausência de crase torna a expressão gramaticalmente incorreta em qualquer contexto, mesmo sendo 'olhos' substantivo masculino nessa locução.",
     "c": "a crase é facultativa, pois 'olhos' admite tanto leitura definida quanto indefinida na expressão.",
     "d": "não deve haver crase, pois 'a olhos vistos' é locução consagrada pelo uso que não é antecedida de artigo definido feminino, sendo 'olhos' substantivo masculino.",
-    "e": "deveria haver crase, pois toda expressão formada por 'a' seguida de substantivo plural exige o acento grave, independentemente do gênero da palavra."
+    "e": "deveria haver crase, pois a expressão formada por 'a' seguida de substantivo no plural exige o acento grave, independentemente do gênero da palavra e da consagração da locução pelo uso."
    },
    "resposta": "d",
    "explicacao": "'A olhos vistos' é locução adverbial consagrada pelo uso, sem artigo definido feminino (já que 'olhos' é substantivo masculino), o que impede a ocorrência de crase nessa expressão.",
@@ -36087,7 +36087,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "está correta; embora 'a gente' equivalha semanticamente a 'nós', é gramaticalmente um substantivo coletivo que exige concordância verbal na terceira pessoa do singular, como ocorre em 'chega' e 'prefere'.",
     "b": "está correta, mas apenas em registro oral; na escrita formal, 'a gente' exige o verbo na primeira pessoa do plural.",
-    "c": "está correta apenas em registros extremamente informais, sendo sempre um erro grave em qualquer texto escrito, mesmo em conversas cotidianas transcritas, avaliação equivocada quanto à aceitação dessa expressão em registros cuidados.",
+    "c": "está correta apenas em registros extremamente informais, sendo um erro grave no texto escrito, mesmo em conversas cotidianas transcritas, avaliação equivocada quanto à aceitação dessa expressão em registros escritos mais cuidados.",
     "d": "está incorreta; 'a gente', por equivaler a 'nós', deveria levar sempre o verbo para a primeira pessoa do plural: 'nós chegamos', 'nós preferimos'.",
     "e": "está incorreta na escrita formal, em que 'a gente' deve ser substituído por 'nós' com o verbo na primeira pessoa do plural, restando a construção da frase apenas para o registro falado"
    },
@@ -36106,7 +36106,7 @@ window.QUESTION_BANKS = {
     "a": "está correta apenas porque a frase está no pretérito mais-que-perfeito composto, tempo que determinaria a concordância do pronome indefinido.",
     "b": "está correta, mas apenas porque o verbo vem posposto ao sujeito; anteposto, a concordância iria ao singular.",
     "c": "está incorreta porque falta o artigo definido antes de 'moradores', elemento que a expressão partitiva exigiria obrigatoriamente nessa posição.",
-    "d": "está incorreta; deveria concordar no singular, já que 'alguns' é o núcleo do sujeito, mas isolado, o que tornaria 'havia solicitado' a única forma aceita.",
+    "d": "está incorreta; deveria concordar no singular, já que 'alguns' é o núcleo do sujeito, mas isolado, o que tornaria 'havia solicitado' a única forma aceita nas expressões partitivas desse tipo.",
     "e": "está correta; o núcleo do sujeito é 'alguns', substantivo indefinido plural, que exige a concordância no plural com o verbo, como ocorre em 'haviam solicitado'."
    },
    "resposta": "e",
@@ -36142,7 +36142,7 @@ window.QUESTION_BANKS = {
     "a": "ambas estão corretas, já que a concordância com sujeito posposto é facultativa e admite tanto o singular quanto o plural sem prejuízo de sentido",
     "b": "apenas II está correta, uma vez que o verbo colocado antes do sujeito permanece obrigatoriamente na terceira pessoa do singular em qualquer situação",
     "c": "apenas I está correta, pois o verbo concorda com o sujeito \"três pacientes\", ainda que posposto, e inverter a ordem dos termos é recurso de estilo, e não de sintaxe",
-    "d": "ambas estão incorretas, pois o sujeito da oração é o termo \"pronto-socorro\" e exigiria a forma verbal na terceira pessoa do singular do pretérito",
+    "d": "ambas estão incorretas, pois o sujeito da oração é o termo \"pronto-socorro\" e exigiria a forma verbal na terceira pessoa do singular do pretérito perfeito, e não a concordância com o termo posposto",
     "e": "apenas II está correta, porque a expressão \"com o mesmo quadro\" funciona como adjunto e transfere o núcleo do sujeito para a forma singular"
    },
    "resposta": "c",
@@ -36160,7 +36160,7 @@ window.QUESTION_BANKS = {
     "b": "está acompanhado da locução \"mais de\", que impõe a forma singular a qualquer verbo com o qual venha a se combinar dentro do período",
     "c": "concorda com o termo \"sala de espera\", que exerce a função de sujeito da oração e se encontra no singular na construção apresentada",
     "d": "aparece no pretérito imperfeito, tempo verbal que no português contemporâneo dispensa a flexão de número em construções existenciais",
-    "e": "funciona como auxiliar de uma locução verbal cujo verbo principal ficou subentendido, o que impede a flexão de número na forma empregada"
+    "e": "funciona como auxiliar de uma locução verbal cujo verbo principal ficou subentendido, o que impede a flexão de número na forma empregada e a transfere para o termo omitido"
    },
    "resposta": "a",
    "explicacao": "\"Vinte pessoas\" é objeto direto, não sujeito: a oração não tem sujeito. Por isso o verbo fica na terceira pessoa do singular. Com \"existir\", que é pessoal, a frase seria \"existiam mais de vinte pessoas\".",
@@ -36210,7 +36210,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "o verbo \"vender\" pertence ao grupo dos que exigem obrigatoriamente a flexão de plural quando acompanhados de pronome átono na próclise",
     "b": "o verbo concorda com o adjetivo \"usados\", que aparece no plural e determina a flexão de toda a construção verbal empregada na oração",
-    "c": "a partícula \"se\" indetermina o sujeito, e nesse caso a norma culta recomenda o emprego da terceira pessoa do plural para marcar a indeterminação",
+    "c": "a partícula \"se\" indetermina o sujeito, e nesse caso a norma culta recomenda o emprego da terceira pessoa do plural para marcar a indeterminação do agente da ação verbal",
     "d": "\"equipamentos\" é o sujeito de uma construção passiva sintética, equivalente a \"são vendidos\", em que o \"se\" apassiva o verbo e o objeto aparente passa a sujeito",
     "e": "o termo \"hospitalares\" funciona como núcleo do sujeito composto da oração e impõe ao verbo a concordância com a forma plural apresentada"
    },
@@ -36226,7 +36226,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre a concordância nominal nos dois enunciados:",
    "alternativas": {
     "a": "ambos estão corretos, pois \"anexo\" e \"obrigado\" funcionam como adjetivos e variam conforme o termo a que se referem, sendo invariável apenas a locução \"em anexo\"",
-    "b": "apenas I está correto, já que \"obrigado\" é forma cristalizada e permanece invariável independentemente de quem produz o enunciado em que ela aparece",
+    "b": "apenas I está correto, já que \"obrigado\" é forma cristalizada e permanece invariável independentemente de quem produz o enunciado em que ela aparece, como se dá com \"alerta\"",
     "c": "apenas II está correto, uma vez que \"anexo\" tem valor adverbial nessa construção e por isso não admite flexão de gênero nem de número",
     "d": "ambos estão incorretos, porque as duas palavras pertencem à classe dos advérbios e deveriam permanecer na forma masculina singular nos dois casos",
     "e": "apenas I está correto, e em II a forma adequada seria \"muito obrigado\", em razão da concordância com o termo \"muito\" que a antecede na frase"
@@ -36242,7 +36242,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Compare: (I) \"É proibido entrada de acompanhantes.\" (II) \"É proibida a entrada de acompanhantes.\"",
    "enunciado": "As duas construções são corretas porque, em I, o sujeito ______ e o predicativo ______; em II, o sujeito ______ e o predicativo ______. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "é o termo \"entrada\" nos dois casos – varia livremente – é o mesmo termo – varia livremente, sendo as duas formas intercambiáveis em qualquer contexto",
+    "a": "é o termo \"entrada\" nos dois casos – varia livremente – é o mesmo termo – varia livremente, sendo as duas formas intercambiáveis em contextos formais e informais",
     "b": "está determinado por artigo – concorda com ele – está sem determinante – permanece invariável, mantendo-se sempre na forma feminina singular",
     "c": "é a oração inteira – concorda com o verbo da oração principal – é o termo \"acompanhantes\" – concorda com esse termo no plural masculino",
     "d": "é indeterminado – acompanha o gênero do falante – é oculto – concorda com a pessoa a quem a proibição se dirige em cada situação de uso",
@@ -36277,7 +36277,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Considere: (I) \"Vinte por cento dos leitos estão ocupados.\" (II) \"Um por cento dos leitos está ocupado.\"",
    "enunciado": "A diferença de concordância entre os dois enunciados se explica porque, com expressões percentuais, o verbo concorda:",
    "alternativas": {
-    "a": "sempre com o termo preposicionado que vem em seguida à expressão percentual, independentemente do valor numérico indicado antes dele no período",
+    "a": "com o termo preposicionado que vem em seguida à expressão percentual, independentemente do valor numérico indicado antes dele, critério que também valeria para as frações e para as porcentagens escritas por extenso",
     "b": "com o numeral que acompanha a expressão percentual, e não com o termo preposicionado que vem depois dela, o qual, se comandasse, daria a mesma forma aos dois",
     "c": "sempre na terceira pessoa do singular, uma vez que expressões percentuais constituem construções impessoais e não admitem sujeito determinado",
     "d": "com o termo mais próximo, critério que se aplica a todas as construções em que o sujeito é formado por mais de um elemento nominal na frase",
@@ -36294,7 +36294,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"Mais de um paciente relatou o mesmo sintoma naquela semana.\"",
    "enunciado": "A forma verbal no singular se justifica porque a expressão \"mais de um\":",
    "alternativas": {
-    "a": "constitui locução prepositiva e por isso não pode integrar o sujeito da oração, que nesse caso permanece indeterminado ao longo de todo o período",
+    "a": "constitui locução prepositiva e por isso não pode integrar o sujeito da oração, que nesse caso permanece indeterminado e exige o verbo na terceira pessoa do singular",
     "b": "funciona como adjunto adverbial de intensidade, o que impede qualquer influência sua sobre a flexão de número da forma verbal utilizada na oração",
     "c": "concorda com o termo \"sintoma\", núcleo do complemento verbal, que aparece no singular na construção apresentada pelo enunciado da questão",
     "d": "exige o verbo no singular, apesar de indicar quantidade superior a um, prevalecendo a forma sobre o sentido nessa construção consagrada pelo uso",
@@ -36350,7 +36350,7 @@ window.QUESTION_BANKS = {
     "a": "oculto, recuperável pela desinência verbal empregada na terceira pessoa do plural do pretérito perfeito do modo indicativo apresentado",
     "b": "indeterminado, uma vez que o verbo está na terceira pessoa do plural sem sujeito expresso nem recuperável no contexto: não se sabe nem se diz quem bateu à porta",
     "c": "inexistente, uma vez que se trata de oração sem sujeito construída com verbo impessoal que indica fenômeno ocorrido durante a madrugada",
-    "d": "simples, tendo como núcleo o termo \"porta\", que aparece precedido de preposição na estrutura sintática apresentada pelo enunciado da questão",
+    "d": "simples, tendo como núcleo o termo \"porta\", que aparece precedido de preposição e comanda a concordância do verbo na terceira pessoa do plural, apesar de vir posposto a ele",
     "e": "composto, formado pelos dois termos que aparecem depois do verbo e que exercem conjuntamente essa função dentro da oração analisada"
    },
    "resposta": "b",
@@ -36383,7 +36383,7 @@ window.QUESTION_BANKS = {
    "enunciado": "As vozes verbais empregadas são, respectivamente:",
    "alternativas": {
     "a": "impessoal e pessoal, classificação que depende da possibilidade de identificar o sujeito da oração em cada um dos dois casos apresentados",
-    "b": "passiva sintética e passiva analítica, formas que se distinguem pela presença ou pela ausência do verbo auxiliar em cada uma das construções",
+    "b": "passiva sintética e passiva analítica, formas que se distinguem pela presença ou pela ausência do verbo auxiliar em cada uma das construções apresentadas na comparação entre os dois enunciados",
     "c": "ativa e passiva, distinção determinada pela posição ocupada pelo agente da ação em relação ao verbo em cada um dos dois enunciados propostos",
     "d": "reflexiva recíproca e reflexiva, ordem que decorre do número de participantes envolvidos na ação descrita por cada uma das duas orações",
     "e": "reflexiva e reflexiva recíproca, praticando e sofrendo o sujeito a mesma ação na primeira, e admitindo a segunda o acréscimo de \"um ao outro\" sem mudar o sentido"
@@ -36401,7 +36401,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "sujeito determinado; a regular, com sujeito indeterminado, alternância que depende da possibilidade de identificar o agente da ação verbal",
     "b": "\"ter\" e \"haver\"; a regular, com \"ser\" e \"estar\", distribuição que a norma culta estabelece para todos os verbos de particípio duplo da língua",
-    "c": "verbos transitivos diretos; a regular, com verbos transitivos indiretos, critério determinado pela regência exigida em cada uma das construções",
+    "c": "verbos transitivos diretos; a regular, com verbos transitivos indiretos, critério determinado pela regência exigida em cada uma das construções, e não pelo auxiliar empregado",
     "d": "orações da voz ativa; a regular, com orações da voz passiva, distinção que se aplica indistintamente a todos os tempos compostos do português",
     "e": "\"ser\" e \"estar\"; a regular, com \"ter\" e \"haver\", distribuição que vale também para \"pago\" e \"impresso\" e separa os auxiliares da passiva dos tempos compostos"
    },
@@ -36605,6 +36605,40 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Na voz passiva analítica, o particípio concorda com o sujeito paciente. O sujeito é \"as chaves\", feminino plural, e por isso a forma é \"entregues\", assim como o auxiliar vai ao plural: \"foram\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-259",
+   "texto_apoio": "Compare: (I) \"Faltaram ao plantão o técnico e a enfermeira.\" (II) \"Faltou ao plantão o técnico e a enfermeira.\"",
+   "enunciado": "Sobre a concordância verbal com o sujeito composto posposto ao verbo, é correto afirmar que",
+   "alternativas": {
+    "a": "as duas estão corretas: com sujeito composto posposto, o verbo pode ir ao plural ou concordar com o núcleo mais próximo.",
+    "b": "apenas II está correta, já que o verbo colocado à frente do sujeito composto permanece no singular por ainda não dispor de um termo com que concordar naquele ponto da frase.",
+    "c": "apenas I está correta, porque o sujeito composto pede o plural e a ordem dos núcleos não interfere na flexão da forma verbal.",
+    "d": "ambas estão incorretas, pois o sujeito composto leva o verbo ao plural apenas se os núcleos forem ligados pela conjunção \"ou\".",
+    "e": "apenas II está correta, porque a concordância se faz com o primeiro dos dois núcleos, e ele se encontra no singular."
+   },
+   "resposta": "a",
+   "explicacao": "Com o sujeito composto anteposto, o plural é obrigatório. Posposto, a norma admite as duas saídas: o verbo vai ao plural, somando os núcleos, ou concorda com o núcleo mais próximo — a chamada concordância atrativa. Por isso I e II são aceitáveis, e nenhuma das duas é desvio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-260",
+   "texto_apoio": "Compare: (I) \"Os relatórios seguem anexos ao processo.\" (II) \"Havia bastantes motivos para adiar a cirurgia.\"",
+   "enunciado": "Sobre a concordância nominal nas duas frases, é correto afirmar que",
+   "alternativas": {
+    "a": "apenas I está correta, e em II a forma adequada seria \"bastante motivos\", com a palavra no singular por vir antes do nome.",
+    "b": "apenas II está correta, já que \"anexo\" tem valor fixo e não acompanha a flexão de número do termo ao qual se liga.",
+    "c": "as duas estão corretas: \"anexos\" concorda com o termo a que se refere e \"bastantes\" varia por quantificar um nome.",
+    "d": "apenas I está correta, pois \"bastante\" é palavra invariável e deveria permanecer no singular mesmo diante do nome que quantifica, uma vez que funciona ali como simples reforço de intensidade.",
+    "e": "ambas estão incorretas, porque as duas palavras deveriam ficar no singular por não integrarem o sujeito de suas orações."
+   },
+   "resposta": "c",
+   "explicacao": "\"Anexo\" concorda em gênero e número com o termo a que se refere: relatórios anexos, cópia anexa. Só a locução \"em anexo\" fica invariável. \"Bastante\" varia quando quantifica um nome, valendo por \"muitos\"; fica invariável quando intensifica um verbo ou modificador, valendo por \"muito\".",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -36935,7 +36969,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"A equipe organizou um mutirão de limpeza a fim de que o parque estivesse pronto para a reinauguração no próximo mês.\"",
    "enunciado": "Sobre o emprego do subjuntivo após a locução conjuntiva 'a fim de que' na frase, é correto afirmar que",
    "alternativas": {
-    "a": "está incorreto porque 'a fim de que' deveria ser seguida do indicativo, e não do subjuntivo, modo que exprimiria certeza quanto à finalidade pretendida.",
+    "a": "está incorreto porque 'a fim de que' deveria ser seguida do indicativo, e não do subjuntivo, modo que exprimiria certeza quanto à finalidade pretendida pela equipe que organizou o mutirão.",
     "b": "está correto, mas apenas porque a oração principal está no passado; com principal no presente, exigir-se-ia o indicativo.",
     "c": "está incorreto; 'a fim de que' deveria ser seguida de infinitivo, e não de subjuntivo, já que expressa apenas finalidade sem sujeito próprio.",
     "d": "está correto apenas se a oração principal também estiver no subjuntivo, condição que determinaria o modo verbal da oração final subordinada.",
@@ -36993,7 +37027,7 @@ window.QUESTION_BANKS = {
     "b": "ambas as ocorrências deveriam ser grafadas como 'mau', já que se trata sempre de adjetivo com sentido negativo, nunca funcionando como advérbio nessas construções específicas.",
     "c": "ambas estão corretas, mas por outra razão: 'mal' é sempre advérbio, e o hífen depende apenas da vogal seguinte.",
     "d": "a primeira ocorrência está incorreta e deveria ser 'mau-humorado', pois 'mau' é a forma usada antes de substantivos e adjetivos em qualquer composição (erro comum em registros descuidados).",
-    "e": "a segunda ocorrência está incorreta e deveria ser substituída por 'mau entrou', mantendo o mesmo sentido temporal equivalente a 'assim que' nessa construção adverbial, confusão entre o advérbio 'mal' e o adjetivo 'mau'."
+    "e": "a segunda ocorrência está incorreta e deveria ser substituída por 'mau entrou', mantendo o mesmo sentido temporal equivalente a 'assim que' nessa construção adverbial, já que 'mau' seria a forma correta diante de verbo no pretérito."
    },
    "resposta": "a",
    "explicacao": "'Mal' (advérbio) é usado em 'mal-humorado' como elemento de composição consagrado pela tradição ortográfica, e também em 'mal entrou' com sentido temporal (equivalente a 'assim que entrou'); já 'mau' é adjetivo, oposto de 'bom', usado antes de substantivos ('um mau motorista'), distinção diferente da aplicada nesta frase.",
@@ -37007,7 +37041,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"A paciente estava meio cansada e tomou meia dose do medicamento.\"",
    "enunciado": "As duas ocorrências de \"meio\" se distinguem porque a primeira é:",
    "alternativas": {
-    "a": "substantivo e funciona como núcleo do sujeito; a segunda é adjetivo e exerce a função de adjunto adnominal do termo que aparece em seguida",
+    "a": "substantivo e funciona como núcleo do sujeito; a segunda é adjetivo e exerce a função de adjunto adnominal do termo que aparece em seguida, com o qual concorda em gênero",
     "b": "numeral e concorda com o adjetivo que a acompanha; a segunda é advérbio de intensidade e permanece invariável em qualquer contexto de emprego",
     "c": "advérbio e não varia, por modificar um adjetivo e equivaler ali a \"um pouco\"; a segunda é numeral e concorda em gênero com o substantivo que ela quantifica",
     "d": "preposição e introduz um complemento nominal; a segunda é conjunção e estabelece relação de adição entre as duas orações do período",
@@ -37110,7 +37144,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"O tomógrafo foi instalado em março. O equipamento passou por calibração em abril. O aparelho já atende à demanda do setor.\"",
    "enunciado": "A progressão do trecho se apoia no recurso de:",
    "alternativas": {
-    "a": "utilização de conectivos temporais que marcam a sucessão cronológica entre os fatos relatados em cada um dos três períodos do trecho apresentado",
+    "a": "utilização de conectivos temporais que marcam a sucessão cronológica entre os fatos relatados em cada um dos três períodos do trecho, ligando-os explicitamente uns aos outros na progressão do texto",
     "b": "repetição integral do mesmo substantivo em todos os períodos, estratégia adotada para assegurar que o leitor não perca o referente ao longo do texto",
     "c": "emprego de pronomes demonstrativos que retomam o termo mencionado no período imediatamente anterior a cada uma das ocorrências indicadas",
     "d": "substituição lexical por hiperônimos, termos de sentido mais amplo que incluem ali o referente anterior e evitam a repetição sem exigir o emprego de pronome ou de conectivo",
@@ -37213,7 +37247,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Considere: \"infeliz\", \"felizmente\", \"entristecer\".",
    "enunciado": "Os processos de formação das três palavras são, na ordem:",
    "alternativas": {
-    "a": "composição por justaposição, aglutinação e hibridismo, classificação que leva em conta a origem de cada um dos elementos combinados na palavra",
+    "a": "composição por justaposição, aglutinação e hibridismo, classificação que leva em conta a origem de cada um dos elementos combinados na formação de cada uma das três palavras",
     "b": "derivação sufixal, prefixal e regressiva, processos que se diferenciam pela posição ocupada pelo afixo em relação ao radical de cada palavra",
     "c": "derivação prefixal, sufixal e parassintética, sendo a última caracterizada pelo acréscimo simultâneo dos dois afixos, já que não existe a forma com só um deles",
     "d": "derivação imprópria, regressiva e parassintética, sendo a primeira caracterizada pela mudança de classe sem alteração da forma da palavra",
@@ -37492,7 +37526,7 @@ window.QUESTION_BANKS = {
     "b": "ação em curso ao longo de um período e ação concluída em momento definido, distinção marcada pela presença do adjunto adverbial em cada caso",
     "c": "ação concluída em momento definido e ação em curso ao longo de um período, contraste de aspecto: o perfeito fecha o fato num ponto e o imperfeito o deixa aberto",
     "d": "ação hipotética dependente de condição e ação efetivamente realizada, valores que se distinguem pelo modo verbal empregado em cada oração",
-    "e": "ação habitual repetida indefinidamente e ação pontual sem duração determinada, contraste que decorre do aspecto verbal de cada uma das formas"
+    "e": "ação habitual repetida indefinidamente e ação pontual sem duração determinada, contraste que decorre do aspecto verbal de cada uma das formas empregadas nos dois enunciados da comparação"
    },
    "resposta": "c",
    "explicacao": "O pretérito perfeito fecha o fato num ponto do tempo; o imperfeito o deixa aberto, em processo. É a diferença entre \"melhorou às oito\" e \"melhorava a cada dia\", e ela é de aspecto, não de tempo.",
@@ -37558,7 +37592,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Os três termos têm em comum o fato de:",
    "alternativas": {
     "a": "formarem o sentido negativo por meio de prefixo — \"des-\", \"a-\" e \"ir-\" —, elementos de origens distintas que negam aquilo que vem depois deles na formação da palavra",
-    "b": "pertencerem à mesma classe gramatical e apresentarem idêntico processo de formação a partir de radicais de origem grega incorporados ao português",
+    "b": "pertencerem à mesma classe gramatical e apresentarem idêntico processo de formação a partir de radicais de origem grega incorporados ao português na linguagem médica contemporânea",
     "c": "constituírem antônimos entre si, de modo que o emprego de qualquer um deles exclui necessariamente a possibilidade de emprego dos outros dois",
     "d": "resultarem de derivação regressiva a partir de verbos correspondentes, processo em que a palavra derivada perde parte do radical original",
     "e": "apresentarem sufixos que indicam estado transitório, característica que os distingue de outros termos empregados na descrição de quadros clínicos"
@@ -37660,7 +37694,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Compare: (I) \"A proposta veio ao encontro do que a equipe pedia.\" (II) \"A proposta veio de encontro ao que a equipe pedia.\"",
    "enunciado": "As duas construções são corretas, mas exprimem, respectivamente:",
    "alternativas": {
-    "a": "oposição e concordância, distinção que decorre da posição ocupada pela preposição em relação ao substantivo dentro de cada uma das locuções",
+    "a": "oposição e concordância, distinção que decorre da posição ocupada pela preposição em relação ao substantivo dentro de cada uma das locuções empregadas nos dois enunciados",
     "b": "concordância e oposição, já que a primeira locução equivale a favorecer e a segunda, a colidir, valores que se invertem ao se trocar a preposição empregada",
     "c": "anterioridade e posterioridade, valores temporais que as duas locuções assumem conforme o tempo verbal empregado na oração principal",
     "d": "certeza e dúvida, graus de comprometimento que quem escreve assume em relação ao conteúdo transmitido em cada um dos dois enunciados",
@@ -37921,7 +37955,7 @@ window.QUESTION_BANKS = {
     "a": "deveria haver ponto final antes de 'o acordo', encerrando a frase no meio do período e transformando o adjunto deslocado em oração independente.",
     "b": "está corretamente separado do restante da oração por vírgula, prática recomendada para adjuntos adverbiais deslocados, especialmente quando extensos.",
     "c": "a vírgula é facultativa, pois adjuntos adverbiais deslocados só exigem pontuação quando expressam tempo.",
-    "d": "a vírgula empregada está incorreta e deveria ser substituída por ponto e vírgula, sinal reservado a adjuntos com vírgulas internas complexas.",
+    "d": "a vírgula empregada está incorreta e deveria ser substituída por ponto e vírgula, sinal reservado aos adjuntos adverbiais deslocados de grande extensão, como o que abre o período em análise, com vírgulas internas complexas.",
     "e": "não deveria haver vírgula alguma antes do sujeito 'o acordo', independentemente do tamanho do adjunto deslocado, mesmo sendo ele bastante extenso."
    },
    "resposta": "b",
@@ -38046,7 +38080,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "está corretamente pontuada, dispensando qualquer sinal entre as orações apresentadas, já que orações coordenadas assindéticas curtas dispensariam vírgula, mesmo com sujeito e verbo próprios em cada uma.",
     "b": "está incorreta; as orações coordenadas deveriam ser separadas por ponto e vírgula, e não por vírgula.",
-    "c": "está incorreta porque deveria haver ponto final entre cada uma das três orações, formando três frases independentes e sem qualquer relação sintática entre si, solução que fragmentaria desnecessariamente a sequência narrativa do período original.",
+    "c": "está incorreta porque deveria haver ponto final entre cada uma das três orações, formando três frases independentes e sem relação sintática entre si, solução que fragmentaria desnecessariamente a sequência narrativa do período original.",
     "d": "está incorreta apenas porque falta um sujeito explícito em cada oração, uma vez que a supressão do sujeito em orações coordenadas assindéticas prejudica a identificação de quem pratica cada ação narrada",
     "e": "está incorreta; faltam vírgulas separando as orações coordenadas assindéticas (sem conjunção), sendo necessário algo como 'Terminou a reunião, entrou correndo na sala ao lado, esqueceu completamente o notebook sobre a mesa'."
    },
@@ -38082,7 +38116,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "deveria haver ponto final, e não vírgula, separando o adjunto do restante da oração e transformando-o em uma frase curta e independente.",
     "b": "a vírgula é indevida, pois adjuntos adverbiais deslocados só a exigem quando expressam causa ou condição.",
-    "c": "a vírgula está incorreta e deveria ser eliminada em qualquer hipótese, já que adjuntos adverbiais deslocados rejeitariam qualquer pausa gráfica.",
+    "c": "a vírgula está incorreta e deveria ser eliminada nesse caso, já que os adjuntos adverbiais deslocados rejeitariam a pausa gráfica antes do sujeito da oração.",
     "d": "a vírgula empregada após o adjunto é obrigatória em qualquer extensão de adjunto deslocado, sem exceção.",
     "e": "a vírgula empregada é aceitável, embora, por se tratar de um adjunto curto, sua ausência também seria considerada correta pela norma culta."
    },
@@ -38102,7 +38136,7 @@ window.QUESTION_BANKS = {
     "b": "deveria ser obrigatoriamente substituído por vírgula, sendo o travessão sempre inadequado nesse tipo de construção.",
     "c": "está empregado corretamente, mas apenas porque a explicação vem no fim do período; no meio, exigiria par.",
     "d": "está correto apenas se a frase estiver em discurso direto representando a fala de um personagem, uso exclusivo desse tipo de travessão isolado.",
-    "e": "está incorreto, pois travessões isolados nunca podem substituir dois-pontos em nenhuma hipótese, mesmo quando introduzem uma explicação posterior."
+    "e": "está incorreto, pois o travessão isolado não pode substituir os dois-pontos, mesmo quando introduz uma explicação posterior, função reservada apenas ao par de travessões que intercala um comentário."
    },
    "resposta": "a",
    "explicacao": "O travessão isolado pode ser empregado para introduzir uma explicação ou detalhamento do que foi anunciado antes ('um dado alarmante'), uso equivalente, em muitos contextos, ao dos dois-pontos, sendo recurso estilístico aceito pela norma culta.",
@@ -38153,7 +38187,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"O projeto não avançou como esperado, ou seja, boa parte das metas estabelecidas no início do ano não foi cumprida dentro do prazo.\"",
    "enunciado": "Sobre a pontuação empregada com a expressão 'ou seja' na frase, é correto afirmar que",
    "alternativas": {
-    "a": "a expressão 'ou seja' deveria ser substituída por 'já que', sem qualquer alteração na pontuação, mantendo idêntico o valor explicativo do trecho.",
+    "a": "a expressão 'ou seja' deveria ser substituída por 'já que', sem alteração na pontuação, mantendo idêntico o valor explicativo do trecho, uma vez que ambas introduzem uma reformulação.",
     "b": "deveria haver ponto final antes de 'ou seja', encerrando o período nesse ponto e transformando a reformulação em oração independente.",
     "c": "deveria ser eliminada a vírgula antes de 'ou seja', já que expressões explicativas nunca são isoladas por vírgula.",
     "d": "está corretamente isolada por vírgula, prática recomendada para expressões explicativas que reformulam uma ideia anterior, como ocorre nesse caso.",
@@ -38173,7 +38207,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "um aposto explicativo, termo que acrescenta informação sobre outro já determinado e por isso se isola por vírgulas, o que não ocorreria se fosse especificativo",
     "b": "um vocativo dirigido ao interlocutor, termo que se caracteriza por não exercer função sintática dentro da oração em que aparece empregado",
-    "c": "uma oração subordinada adverbial deslocada de sua posição habitual, o que exige a marcação por meio de sinal de pontuação nos dois extremos",
+    "c": "uma oração subordinada adverbial deslocada de sua posição habitual, o que exige a marcação por meio de sinal de pontuação nos dois extremos do trecho intercalado no período",
     "d": "um adjunto adverbial de lugar intercalado entre o sujeito e o predicado da oração principal",
     "e": "um complemento nominal do termo que o antecede, isolado por vírgulas para evitar ambiguidade quanto ao termo a que ele se refere na frase"
    },
@@ -38206,7 +38240,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"A equipe de plantão da unidade de emergência, informou o resultado à família.\"",
    "enunciado": "O período apresenta erro de pontuação porque a vírgula:",
    "alternativas": {
-    "a": "marca a elipse de um verbo que ficou subentendido na segunda parte do período, recurso que exigiria o emprego de ponto e vírgula no lugar dela",
+    "a": "marca a elipse de um verbo que ficou subentendido na segunda parte do período, recurso que exigiria o emprego de ponto e vírgula no lugar dela, e não de vírgula simples",
     "b": "isola um aposto explicativo sem que o segundo sinal correspondente tenha sido empregado no lugar adequado dentro da estrutura do período",
     "c": "antecede uma conjunção coordenativa aditiva, contexto em que a norma culta desaconselha o emprego desse sinal de pontuação na escrita formal",
     "d": "separa o sujeito do predicado, termos que a norma não admite ver divididos por esse sinal, sendo a extensão do sintagma o que faz o erro parecer natural",
@@ -38223,7 +38257,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"Compareceram à reunião: Ana, do laboratório; Bruno, da farmácia; e Carla, da enfermagem.\"",
    "enunciado": "O emprego do ponto e vírgula se justifica porque:",
    "alternativas": {
-    "a": "a enumeração apresenta mais de dois elementos, número a partir do qual a norma culta passa a exigir esse sinal em substituição à vírgula simples",
+    "a": "a enumeração apresenta mais de dois elementos, número a partir do qual a norma culta passa a exigir esse sinal em substituição à vírgula simples, independentemente do conteúdo dos itens",
     "b": "os itens enumerados já contêm vírgulas internas, separando o nome do setor, e o sinal mais forte estabelece a hierarquia entre os dois níveis da enumeração",
     "c": "os termos listados pertencem a setores diferentes da mesma instituição, distinção que a pontuação precisa marcar de forma explícita no texto",
     "d": "o período foi introduzido por dois-pontos, sinal que impõe o uso de ponto e vírgula em toda a sequência que vier depois dele na construção",
@@ -38260,7 +38294,7 @@ window.QUESTION_BANKS = {
     "a": "indica que a informação intercalada foi acrescentada por outra pessoa que não o autor do texto, prática comum em documentos revisados por terceiros",
     "b": "destaca mais a informação intercalada, em vez de rebaixá-la, cabendo à vírgula a posição intermediária nessa escala de ênfase entre os três recursos",
     "c": "assinala a supressão de um trecho do enunciado original, ao passo que os parênteses marcam apenas o acréscimo de conteúdo novo ao período",
-    "d": "é obrigatório sempre que a intercalação contiver forma verbal, ficando os parênteses restritos aos casos em que se intercalam apenas sintagmas nominais",
+    "d": "é obrigatório quando a intercalação contiver forma verbal, ficando os parênteses restritos aos casos em que se intercalam apenas sintagmas nominais sem verbo",
     "e": "estabelece relação de oposição entre o trecho intercalado e o restante do período, enquanto os parênteses indicam relação de simples acréscimo"
    },
    "resposta": "b",
@@ -38277,7 +38311,7 @@ window.QUESTION_BANKS = {
     "a": "a segunda oração é subordinada à primeira e por isso precisa ser isolada do restante do período por meio desse sinal de pontuação",
     "b": "a conjunção estabelece relação de oposição entre as duas orações, valor que exige a marcação por vírgula em qualquer construção coordenada",
     "c": "as orações coordenadas têm sujeitos diferentes e, embora a regra geral dispense a vírgula antes de \"e\", ela evita que o segundo seja lido como parte do predicado",
-    "d": "o período apresenta mais de uma forma verbal, número a partir do qual a norma culta torna obrigatório o emprego da vírgula antes das conjunções",
+    "d": "o período apresenta mais de uma forma verbal, número a partir do qual a norma culta torna obrigatório o emprego da vírgula antes das conjunções coordenativas, inclusive das aditivas",
     "e": "há elipse do sujeito na segunda oração, e a vírgula sinaliza ao leitor a supressão do termo que deveria ocupar aquela posição sintática"
    },
    "resposta": "c",
@@ -38432,7 +38466,7 @@ window.QUESTION_BANKS = {
     "a": "vai reavaliar – amanhã – apenas a pontuação, que deixa de exigir travessão na abertura da fala transposta para a nova construção sintática",
     "b": "reavaliaria – no dia seguinte – o tempo verbal, puxado pelo verbo introdutor no passado, e os marcadores de tempo, reorganizados a partir do momento do relato",
     "c": "reavaliou – ontem – a pessoa do verbo, que passa da primeira para a terceira sem que os demais elementos do enunciado sofram alteração",
-    "d": "reavalie – naquele momento – o modo verbal, que passa do indicativo ao subjuntivo por exigência da conjunção introdutora da oração subordinada",
+    "d": "reavalie – naquele momento – o modo verbal, que passa do indicativo ao subjuntivo por exigência da conjunção introdutora, sem que o tempo verbal se altere na transposição",
     "e": "teria reavaliado – anteontem – o aspecto verbal, que passa a indicar ação concluída antes do momento em que a fala foi originalmente produzida"
    },
    "resposta": "b",
@@ -39016,7 +39050,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "transitivo indireto – não vem pronominalizado – transitivo direto – vem acompanhado de pronome, caso em que a preposição passa a ser dispensável",
     "b": "transitivo direto – não vem pronominalizado – transitivo indireto – vem acompanhado de pronome e passa a exigir preposição, como também ocorre com \"lembrar\"",
-    "c": "intransitivo – o complemento está subentendido – transitivo direto – o complemento aparece expresso na forma de um sintagma nominal preposicionado",
+    "c": "intransitivo – o complemento está subentendido – transitivo direto – o complemento aparece expresso na forma de um sintagma nominal preposicionado pelo pronome reflexivo",
     "d": "bitransitivo – o objeto indireto vem posposto – intransitivo – o pronome reflexivo assume a função sintática de complemento verbal na estrutura",
     "e": "de ligação – o predicativo se encontra elíptico – transitivo direto – o pronome exerce a função de sujeito da oração reduzida que o acompanha"
    },
@@ -39066,7 +39100,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Compare: (I) \"Sabemos que o exame demora.\" (II) \"O exame que pedimos demora.\"",
    "enunciado": "A palavra \"que\" é, respectivamente:",
    "alternativas": {
-    "a": "pronome relativo e conjunção integrante, distinção que decorre da posição ocupada por cada uma das orações subordinadas dentro do período composto",
+    "a": "pronome relativo e conjunção integrante, distinção que decorre da posição ocupada por cada uma das orações subordinadas dentro do período composto apresentado na comparação",
     "b": "conjunção integrante e pronome relativo, classes que se distinguem por a primeira poder ser trocada por \"isso\" e só a segunda retomar um termo e exercer função",
     "c": "conjunção integrante nos dois casos, já que ambas as orações completam o sentido do verbo da oração principal em que se encontram inseridas",
     "d": "pronome relativo nos dois casos, uma vez que a palavra sempre retoma um termo mencionado antes dela na estrutura do período apresentado",
@@ -39136,7 +39170,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Considerando que \"atender\" pode ser transitivo direto, o emprego da preposição diante de \"o ferido\" configura:",
    "alternativas": {
     "a": "objeto direto preposicionado, termo que continua sendo objeto direto, embora a preposição apareça sem ser exigida pela regência, por clareza ou por ênfase",
-    "b": "objeto indireto obrigatório, uma vez que o verbo empregado admite exclusivamente essa regência quando o complemento designa pessoa determinada",
+    "b": "objeto indireto obrigatório, uma vez que o verbo empregado passa a admitir apenas essa regência quando o complemento designa pessoa determinada, e não coisa ou lugar",
     "c": "complemento nominal, termo que completa o sentido de um nome e que exige preposição por natureza em todas as construções em que aparece",
     "d": "adjunto adverbial de finalidade, que indica o objetivo a que se destina a ação verbal expressa pelo núcleo do predicado da oração analisada",
     "e": "agente da passiva, função exercida pelo termo que pratica a ação em orações construídas na voz passiva analítica com verbo auxiliar elíptico"
@@ -39171,7 +39205,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "causa, finalidade e intensidade, circunstâncias que se distinguem pelo tipo de relação estabelecida entre cada termo e o verbo da oração",
     "b": "tempo, lugar e modo, ordem que corresponde à posição ocupada por cada um dos três termos em relação ao núcleo do predicado da oração",
-    "c": "modo, tempo e lugar, classificação determinada pela presença de preposição diante de cada um dos adjuntos identificados no período composto",
+    "c": "modo, tempo e lugar, classificação determinada pela presença de preposição diante de cada um dos adjuntos identificados no período composto apresentado no enunciado da questão",
     "d": "lugar, modo e tempo, circunstâncias identificadas pela pergunta que cada termo responde — onde, como e quanto tempo —, e não pela posição que ocupa na frase",
     "e": "companhia, instrumento e dúvida, valores que dependem do contexto em que o enunciado é produzido e da intenção de quem o formula na frase"
    },
@@ -39255,7 +39289,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"Chegaram cedo os resultados que a equipe aguardava.\"",
    "enunciado": "O período é composto por:",
    "alternativas": {
-    "a": "coordenação, com duas orações independentes ligadas por conectivo que estabelece relação de adição entre os fatos enunciados em cada uma",
+    "a": "coordenação, com duas orações independentes ligadas por conectivo que estabelece relação de adição entre os fatos enunciados em cada uma delas, sem hierarquia entre as duas",
     "b": "subordinação, com uma oração adjetiva restritiva, que depende do antecedente e delimita quais resultados chegaram, razão pela qual não vem separada por vírgula",
     "c": "subordinação, com uma oração substantiva objetiva direta que completa o sentido do verbo empregado na oração principal do período",
     "d": "coordenação e subordinação simultaneamente, apresentando três orações distribuídas em dois níveis hierárquicos dentro da mesma estrutura",
@@ -39272,7 +39306,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Compare: (I) \"Ele saiu porque estava cansado.\" (II) \"Ele estava cansado, por isso saiu.\"",
    "enunciado": "Os dois períodos exprimem a mesma relação, mas são compostos, respectivamente, por:",
    "alternativas": {
-    "a": "coordenação nos dois casos, já que as orações de ambos os períodos poderiam existir isoladamente sem prejuízo de sentido para o leitor",
+    "a": "coordenação nos dois casos, já que as orações de ambos os períodos poderiam existir isoladamente sem prejuízo de sentido, o que dispensaria a análise da hierarquia entre elas",
     "b": "coordenação e subordinação, distinção que decorre da posição ocupada pelo conectivo dentro de cada um dos dois períodos apresentados",
     "c": "subordinação nos dois casos, uma vez que ambos apresentam uma oração sintaticamente dependente da outra dentro da mesma estrutura",
     "d": "subordinação e coordenação, arranjos em que a relação de causa é a mesma e muda a hierarquia: no primeiro a causal depende da principal; no segundo, não",
@@ -39778,7 +39812,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-182",
    "enunciado": "\"A equipe revisou todo o protocolo, mas o erro de digitação só foi percebido na revisão final.\" Nesse período composto por coordenação, a conjunção coordenativa \"mas\" estabelece entre as orações uma relação:",
    "alternativas": {
-    "a": "aditiva, somando dois fatos que ocorreram de forma simultânea e sem qualquer tipo de contraste, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do período",
+    "a": "aditiva, somando dois fatos que ocorreram de forma simultânea e sem contraste entre eles, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do período",
     "b": "conclusiva, apresentando a percepção tardia do erro como consequência lógica da revisão feita",
     "c": "alternativa, apresentando duas possibilidades entre as quais a equipe teve de escolher uma",
     "d": "explicativa, justificando o motivo pelo qual o protocolo precisou ser revisado por completo",
@@ -39795,7 +39829,7 @@ window.QUESTION_BANKS = {
    "enunciado": "\"Ou o exame é repetido ainda hoje, ou o resultado anterior será considerado válido.\" Nesse período composto por coordenação, a correlação \"ou... ou\", com \"ou\" funcionando como conjunção coordenativa, estabelece relação:",
    "alternativas": {
     "a": "alternativa, apresentando duas possibilidades que se excluem, das quais apenas uma deve prevalecer",
-    "b": "aditiva, somando as duas possibilidades apresentadas sem qualquer relação de exclusão entre elas, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
+    "b": "aditiva, somando as duas possibilidades apresentadas sem estabelecer relação de exclusão entre elas, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
     "c": "adversativa, contrapondo a necessidade de repetir o exame ao fato de o resultado já ser válido",
     "d": "conclusiva, apresentando a validade do resultado anterior como conclusão da primeira oração",
     "e": "explicativa, justificando por que o exame anterior deixaria de ser considerado válido"
@@ -39875,7 +39909,7 @@ window.QUESTION_BANKS = {
    "enunciado": "\"O plantonista permaneceu atento durante toda a madrugada.\" Na análise sintática, o predicado desse período classifica-se como:",
    "alternativas": {
     "a": "nominal, pois o núcleo de sentido recai sobre \"atento\", predicativo do sujeito ligado por um verbo de ligação",
-    "b": "verbal, já que o núcleo de sentido está inteiramente concentrado no verbo, sem qualquer predicativo do sujeito",
+    "b": "verbal, já que o núcleo de sentido está inteiramente concentrado no verbo, sem predicativo do sujeito ligado por um verbo de ligação",
     "c": "verbo-nominal, pois há dois núcleos de sentido: um verbo de ação plena e um predicativo do objeto",
     "d": "composto, formado por dois verbos que se equivalem em importância dentro da mesma oração",
     "e": "indeterminado, já que não é possível identificar com precisão o núcleo de sentido do predicado inteiro"
@@ -40002,7 +40036,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-196",
    "enunciado": "Sobre a distinção entre voz ativa, voz passiva e voz reflexiva na análise sintática do período, é correto afirmar que:",
    "alternativas": {
-    "a": "na voz passiva, o sujeito sempre pratica a ação, cabendo ao agente da passiva apenas recebê-la de forma indireta, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
+    "a": "na voz passiva, o sujeito pratica a ação, cabendo ao agente da passiva apenas recebê-la de forma indireta, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
     "b": "na voz ativa, o sujeito recebe a ação verbal, que é praticada por um agente expresso em outra parte do período",
     "c": "as três vozes verbais produzem exatamente o mesmo efeito de sentido, diferindo apenas na ordem das palavras",
     "d": "na voz reflexiva, o sujeito pratica e, ao mesmo tempo, recebe a ação expressa pelo verbo, como em \"o paciente se cortou sem querer\"",
@@ -40020,7 +40054,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "uma voz ativa comum, na qual \"se\" ocupa a função de complemento do verbo \"aplicou\" dentro do período",
     "b": "uma voz reflexiva recíproca, na qual dois sujeitos praticam e recebem a ação um do outro simultaneamente",
-    "c": "uma construção sem qualquer sujeito, na qual \"o protocolo de urgência\" exerce apenas função de complemento indireto, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do período",
+    "c": "uma construção sem sujeito, na qual \"o protocolo de urgência\" exerce apenas função de complemento indireto, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do período",
     "d": "uma voz ativa sem sujeito expresso, na qual \"o protocolo de urgência\" não mantém relação sintática com o verbo",
     "e": "uma voz passiva sintética, na qual \"o protocolo de urgência\" funciona como sujeito paciente da forma verbal com \"se\""
    },

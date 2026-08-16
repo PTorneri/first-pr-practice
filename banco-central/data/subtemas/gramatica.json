@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "gramatica",
- "total": 408,
+ "total": 410,
  "residuo": [
   "dir-gramatica-01",
   "med-gramatica-25",
@@ -878,8 +878,8 @@
   "dir-gramatica-145": {
    "subtema": "gramatica-morfologia",
    "frenteDestino": "gramatica",
-   "pontos": 15,
-   "margem": 12
+   "pontos": 20,
+   "margem": 17
   },
   "dir-gramatica-146": {
    "subtema": "gramatica-regencia-crase",
@@ -891,7 +891,7 @@
    "subtema": "gramatica-regencia-crase",
    "frenteDestino": "gramatica",
    "pontos": 8,
-   "margem": 8
+   "margem": 3
   },
   "dir-gramatica-148": {
    "subtema": "gramatica-pontuacao",
@@ -1340,7 +1340,7 @@
    "subtema": "gramatica-concordancia",
    "frenteDestino": "gramatica",
    "pontos": 12,
-   "margem": 9
+   "margem": 12
   },
   "med-gramatica-73": {
    "subtema": "gramatica-sintaxe-periodo",
@@ -2452,6 +2452,18 @@
    "frenteDestino": "gramatica",
    "pontos": 9,
    "margem": 6
+  },
+  "med-gramatica-259": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 12,
+   "margem": 12
+  },
+  "med-gramatica-260": {
+   "subtema": "gramatica-concordancia",
+   "frenteDestino": "gramatica",
+   "pontos": 11,
+   "margem": 8
   }
  }
 }

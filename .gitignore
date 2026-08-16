@@ -65,3 +65,16 @@ engenharia/*.pdf
 direito/*.pdf
 medicina/*.pdf
 economia/*.pdf
+
+# Cadernos que chegaram soltos na raiz em 15/08/2026 (Insper 2026.1 e 2026.2,
+# FGV EESP 2024-2026, Einstein e Santa Casa). Mesma regra das pastas acima, e
+# aqui o risco é o maior de todos: a raiz É o site. Commitados, virariam
+# sagaxedu.com.br/fgv%20e%20insper/<arquivo>.pdf — 49 MB de caderno de banca
+# como download aberto, e permanentes, porque sair do histórico exigiria
+# reescrevê-lo.
+#
+# Assumir o risco autoral de usar TRECHO de texto e imagem dentro de uma
+# questão é uma decisão; republicar o caderno inteiro é outra, e esta nunca foi
+# tomada. As provas seguem servindo de fonte, lidas do disco local.
+fgv e insper/
+einsten e santa casa/

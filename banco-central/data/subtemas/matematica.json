@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "matematica",
- "total": 941,
+ "total": 974,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -5617,6 +5617,200 @@
    "frenteDestino": "matematica",
    "pontos": 7,
    "margem": 1
+  },
+  "eng-matematica-13": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "eng-matematica-14": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 9
+  },
+  "eng-matematica-15": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 5
+  },
+  "eng-matematica-16": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "eng-matematica-17": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "eng-matematica-18": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "eng-matematica-19": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "eng-matematica-20": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 4
+  },
+  "eng-matematica-21": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "eng-matematica-22": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "eng-matematica-23": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "eng-matematica-24": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "eng-matematica-25": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 1
+  },
+  "eng-matematica-26": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 8
+  },
+  "eng-matematica-27": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 6
+  },
+  "eng-matematica-28": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 7
+  },
+  "eng-matematica-29": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "eng-matematica-30": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 5
+  },
+  "eng-matematica-31": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 4,
+   "margem": 4
+  },
+  "eng-matematica-32": {
+   "subtema": "matematica-financeira",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "eng-matematica-33": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 7,
+   "margem": 5
+  },
+  "eng-matematica-34": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "eng-matematica-35": {
+   "subtema": "matematica-probabilidade",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 1
+  },
+  "eng-matematica-36": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "eng-matematica-37": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "eng-matematica-38": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 1
+  },
+  "eng-matematica-39": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 6,
+   "margem": 3
+  },
+  "eng-matematica-40": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
+  },
+  "eng-matematica-41": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "eng-matematica-42": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 11,
+   "margem": 11
+  },
+  "eng-matematica-43": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "revisado": true
+  },
+  "eng-matematica-44": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 8,
+   "margem": 5
+  },
+  "eng-matematica-45": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "revisado": true
   }
  }
 }

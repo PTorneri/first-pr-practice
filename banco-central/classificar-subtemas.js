@@ -1084,6 +1084,17 @@ const REVISADAS = {
   // Cerâmica marajoara, arte plumária, cestaria e grafismo corporal: cultura
   // material dos povos originários, não música e cena.
   "eng-artes-cultura-01": "artes-patrimonio-cultura-popular",
+  // Fatoração de polinômio para simplificar valor numérico. "Ensino
+  // fundamental" e "aula de matemática" não pontuam, e a questão foi para
+  // geometria por falta de rival.
+  "eng-matematica-34": "matematica-algebra",
+  // Leitura do gráfico de uma função: qual curva descreve o aquecimento.
+  // "Gráfico" sozinho puxa geometria.
+  "eng-matematica-37": "matematica-algebra",
+  // Diagrama de Venn com três conjuntos e inclusão-exclusão.
+  "eng-matematica-43": "matematica-logica-conjuntos",
+  // Sistema linear disfarçado de placar de competição.
+  "eng-matematica-45": "matematica-algebra",
 };
 
 // ------------------------------------------------------------------- classificação

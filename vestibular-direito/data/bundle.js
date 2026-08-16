@@ -34608,6 +34608,215 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Completando quadrados, a elipse vira (x−2)²/(λ+4) + (y−5)²/λ = 1, de centro (2, 5), e o círculo vira (x−2)² + (y−6)² = 4, de centro (2, 6) e raio 2. Como λ + 4 > λ, o eixo maior é o horizontal e a excentricidade é e² = 1 − λ/(λ+4) = 4/(λ+4): ela cresce quando λ DIMINUI, de modo que a pergunta é qual o menor λ admissível. O círculo sobe até y = 8, e a elipse só alcança y = 5 + √λ, o que exige √λ ≥ 3, isto é, λ ≥ 9. Em λ = 9 o contato é de tangência interna no ponto (2, 8) e o resto do círculo fica dentro, então o mínimo é atingido e a resposta é 9. Valores maiores de λ cabem, mas achatam menos a elipse e baixam a excentricidade."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-14",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Considere o recorte de um quadrado de lado 8.000 km, em alto mar, e um navio de cruzeiro navegando sobre a sua diagonal. Em um dos vértices do quadrado está a ilha de Madagascar e, a 2.000 km dela, sobre o lado do quadrado, estão as Ilhas Maurício. Num certo momento, o navio para e duas embarcações menores vão, em linha reta, para as duas ilhas.\nCalcule a menor distância, em quilômetros, da soma Navio/Madagascar + Navio/Ilhas Maurício.",
+   "alternativas": {
+    "a": "12.000",
+    "b": "10.000",
+    "c": "10.600",
+    "d": "16.200",
+    "e": "14.000"
+   },
+   "resposta": "b",
+   "explicacao": "É o problema do caminho mínimo com um ponto livre sobre uma reta, e a ferramenta é a REFLEXÃO. Espelhando Madagascar em relação à diagonal, a soma das duas distâncias vira o comprimento de um caminho quebrado que liga o ponto refletido às Ilhas Maurício passando pela diagonal — e esse caminho é mínimo quando fica reto. Com o quadrado de vértices (0,0), (8.000,0), (8.000,8.000) e (0,8.000), Madagascar em (0,0) e Maurício em (2.000,0), a reflexão de Madagascar pela diagonal cai em (8.000,8.000). A distância em linha reta daí até (2.000,0) é √(6.000² + 8.000²) = 10.000 km — o mesmo terno 3-4-5 de sempre, multiplicado por 2.000."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-17",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Em ambiente virtual de metaverso, um desenvolvedor está criando uma cidade digital que representa uma cidade do mundo real. A cidade digital é reduzida pelo fator de 1:500. A cidade do mundo real cobre uma área de 2.000 quilômetros quadrados, e o edifício mais alto da cidade tem 300 metros de altura.\nA área da cidade digital e a altura do edifício mais alto no metaverso terão, respectivamente,",
+   "alternativas": {
+    "a": "8 km² e 0,6 m",
+    "b": "4 km² e 0,6 m",
+    "c": "8.000 m² e 0,6 m",
+    "d": "4.000 m² e 0,6 m",
+    "e": "4.000 m² e 600 m"
+   },
+   "resposta": "c",
+   "explicacao": "Comprimento e área não encolhem na mesma proporção: a escala 1:500 divide os COMPRIMENTOS por 500 e as ÁREAS por 500² = 250.000. A altura vai de 300 m para 0,6 m, e a área, de 2.000 km² = 2×10⁹ m² para 2×10⁹/250.000 = 8.000 m². Dividir a área por 500 em vez de por 500² é o erro que a questão persegue, e por isso as opções em km² estão lá — 8 km² é o resultado dessa conta. Vale conferir a ordem de grandeza pelo bom senso: uma cidade em miniatura cabe num terreno de 80 m por 100 m, não num de vários quilômetros."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-18",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um arquiteto está projetando um novo parque público e inclui uma grande fonte decorativa como centro das atenções. A fonte é composta de uma base cilíndrica com cúpula hemisférica no topo.\nA parte cilíndrica da fonte tem altura de 1 metro e raio de 0,5 metro. A cúpula hemisférica no topo tem diâmetro de 3 metros.\nA área total da superfície externa da fonte, excluindo as bases do cilindro e a parte interna da semiesfera, em metros quadrados, é, aproximadamente,",
+   "alternativas": {
+    "a": "31,4",
+    "b": "59,7",
+    "c": "29,8",
+    "d": "17,3",
+    "e": "14,1"
+   },
+   "resposta": "d",
+   "explicacao": "A armadilha está nos dois raios diferentes, dados em unidades diferentes: o cilindro tem raio 0,5 m, mas a cúpula é dada pelo DIÂMETRO de 3 m, ou seja, raio 1,5 m. A superfície lateral do cilindro é 2πrh = 2π(0,5)(1) = π ≈ 3,14 m². A calota externa da semiesfera é metade da esfera, 2πR² = 2π(1,5)² = 4,5π ≈ 14,14 m². Somando, 5,5π ≈ 17,3 m². Usar 1,5 também no cilindro, ou somar a área interna da cúpula, leva aos valores maiores da lista; e as bases ficam de fora porque o enunciado as exclui explicitamente."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-21",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "O uso de drones para apresentações com voos sincronizados está se tornando cada vez mais comum. Em um dos movimentos de um show, os produtores querem que o drone suba na forma de hélice com raio de 1 metro, com a altura aumentando linearmente com o tempo.\nCom base nessa situação, as funções que descrevem as coordenadas x(t) e y(t), em função do tempo, são, respectivamente,",
+   "alternativas": {
+    "a": "x(t) = sen(t); y(t) = cos(t)",
+    "b": "x(t) = cos(t); y(t) = sen(t)",
+    "c": "x(t) = √(1−t²); y(t) = √(1−t²)",
+    "d": "x(t) = √(1−y(t)); y(t) = √(1−x(t))",
+    "e": "x(t) = t, −1≤t≤1; y(t) = t, −1≤t≤1"
+   },
+   "resposta": "b",
+   "explicacao": "Visto de cima, o drone percorre uma circunferência de raio 1, e a condição para isso é x(t)² + y(t)² = 1 para todo t — o que só o par cosseno e seno satisfaz. As três últimas opções falham nesse teste: as duas com raiz quadrada não descrevem circunferência (e a que define x em função de y e y em função de x é circular no sentido errado), e o par x = y = t descreve uma reta, não um giro. O gabarito adota a convenção usual da trigonometria, x = cos t e y = sen t, que faz o movimento partir do ponto (1, 0) no sentido anti-horário. O par invertido também traça a mesma circunferência, percorrida a partir de outro ponto e no sentido oposto."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-22",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "No plano cartesiano, um automóvel com velocidade constante de 90 km/h, numa estrada retilínea (o eixo x), está saindo da cobertura da estação de rádio \"Nova Mauá\", transmitida pela antena A: x² + y² − 8x − 6y = 0. Mas logo receberá, novamente, a mesma transmissão pela antena B: x² + y² − 32x − 4y + 244 = 0.\nAdmitindo que os raios das circunferências acima, com centros em A e B, representem o alcance de transmissão da rádio, o tempo que o automóvel ficará sem receber o sinal será de, aproximadamente,",
+   "alternativas": {
+    "a": "7 minutos",
+    "b": "5 minutos",
+    "c": "8 minutos",
+    "d": "3 minutos",
+    "e": "6 minutos"
+   },
+   "resposta": "d",
+   "explicacao": "Completando quadrados, a antena A é (x − 4)² + (y − 3)² = 25, de raio 5, e a B é (x − 16)² + (y − 2)² = 16, de raio 4. O carro anda sobre o eixo x, então o que interessa é onde cada círculo CORTA a reta y = 0. Para A: (x − 4)² = 16, ou seja, x = 0 e x = 8 — o sinal acaba em x = 8. Para B: (x − 16)² = 12, logo x ≈ 12,54 e x ≈ 19,46 — o sinal volta em 12,54. O trecho mudo mede 12,54 − 8 ≈ 4,54 km. A 90 km/h, isto é, 1,5 km por minuto, são cerca de 3 minutos. Usar a distância entre os CENTROS, e não os pontos sobre a estrada, é o que produz os tempos maiores da lista."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-23",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Durante suas férias num resort, a engenheira Andressa precisou calcular o diâmetro de uma piscina circular. Como não dispunha de instrumentos adequados, apenas mediu dois segmentos: AB = 3,6 m e CD = 0,6 m, sendo A, B e C pontos da borda da piscina. Sabendo que D é ponto médio de AB e que CD é perpendicular a AB, a medida do diâmetro será de",
+   "alternativas": {
+    "a": "7,2 m",
+    "b": "4,2 m",
+    "c": "6,0 m",
+    "d": "7,0 m",
+    "e": "6,5 m"
+   },
+   "resposta": "c",
+   "explicacao": "AB é uma corda e CD é a flecha, isto é, a distância do meio da corda até o arco. Como D é ponto médio e CD é perpendicular, o centro da circunferência está sobre a reta CD, a uma distância r − 0,6 de D. O triângulo retângulo formado pelo centro, por D e por A dá r² = 1,8² + (r − 0,6)². Expandindo, r² = 3,24 + r² − 1,2r + 0,36, os r² se cancelam e sobra 1,2r = 3,6, ou seja, r = 3 m — e o DIÂMETRO, que é o que se pede, vale 6,0 m. A alternativa 7,2 m é o dobro de AB, e responder 3 seria parar no raio."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-33",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "O pistão de um motor se movimenta para cima e para baixo dentro de um cilindro. Suponha que, em um instante t, em segundos, a altura h(t) do pistão, em centímetros, possa ser descrita pela expressão h(t) = 5·sen(2πt/0,03) + 5.\nQuantos ciclos completos esse pistão realiza, funcionando durante um minuto?",
+   "alternativas": {
+    "a": "3.600",
+    "b": "600",
+    "c": "2.000",
+    "d": "4.000",
+    "e": "12.000"
+   },
+   "resposta": "c",
+   "explicacao": "Numa função da forma sen(2πt/T), o número T que divide o tempo é o PERÍODO — o tempo de um ciclo completo. Aqui T = 0,03 segundo. Em um minuto, isto é, 60 segundos, cabem 60/0,03 = 2.000 ciclos. Nem a amplitude 5 nem o deslocamento vertical +5 entram na conta: eles dizem que o pistão oscila entre 0 e 10 cm, mas não afetam a frequência. O valor 3.600 aparece para quem confunde minuto com hora, e 12.000 sai de dividir 60 por 0,005, isto é, de ler errado o período."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-36",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Dois irmãos compraram um terreno na forma de triângulo retângulo ABC, com o ângulo reto em A. Para dividir o terreno em duas partes de mesma área, decidiram construir um muro DE paralelo ao lado BC, com D sobre AB e E sobre AC.\nA distância x, medida sobre AC a partir de A, que determina a posição do muro, em função de b (a medida do cateto AC), é",
+   "alternativas": {
+    "a": "b√3",
+    "b": "b√2/2",
+    "c": "b√2",
+    "d": "b/2",
+    "e": "b/3"
+   },
+   "resposta": "b",
+   "explicacao": "Como DE é paralelo a BC, o triângulo ADE é SEMELHANTE ao ABC, e em figuras semelhantes as áreas variam com o QUADRADO da razão de semelhança. Se o muro deve deixar metade da área de um lado, o triângulo menor precisa ter metade da área do maior: k² = 1/2, logo k = 1/√2 = √2/2. Como x é o lado do triângulo menor correspondente a b, tem-se x = b·√2/2 ≈ 0,71b. A resposta b/2 é a armadilha central: dividir o LADO ao meio dividiria a área em quatro, não em duas — o muro fica mais longe do vértice do que a metade sugere."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-41",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Dois sólidos de revolução foram construídos a partir de dois quadrados congruentes. Um deles foi rotacionado em torno do eixo que passa pela diagonal, formando dois cones unidos pela base. O outro foi rotacionado em torno do eixo de simetria que passa pelos pontos médios de dois lados opostos, formando um cilindro.\nDetermine a razão entre os volumes do duplo cone e do cilindro, respectivamente.",
+   "alternativas": {
+    "a": "2√2/3",
+    "b": "√2/3",
+    "c": "3√2/2",
+    "d": "2√2",
+    "e": "3√2"
+   },
+   "resposta": "a",
+   "explicacao": "Seja L o lado do quadrado. Girando em torno da diagonal, o raio comum dos dois cones é a metade da OUTRA diagonal, L√2/2, e a altura de cada cone é também L√2/2; o volume dos dois juntos é 2·(1/3)π(L√2/2)²(L√2/2) = πL³√2/6. Girando em torno do eixo dos pontos médios, sai um cilindro de raio L/2 e altura L, com volume π(L/2)²L = πL³/4. A razão é (√2/6)/(1/4) = 2√2/3 ≈ 0,94 — os dois sólidos têm volumes próximos, o duplo cone ficando um pouco menor. Usar L como raio dos cones, em vez da metade da diagonal, é o erro que produz os valores maiores que 1 da lista."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-42",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Amanda escolhe um número inteiro de 1 a 5 e anota num papel. Depois, Beatriz escolhe um número inteiro de 1 a 6 e também anota num papel. Seja a reta y = ax + b, onde a e b são os números escolhidos por Amanda e Beatriz, respectivamente.\nSomando os valores a + b de todas as retas que formam um triângulo isósceles com os eixos coordenados, temos",
+   "alternativas": {
+    "a": "45",
+    "b": "36",
+    "c": "30",
+    "d": "27",
+    "e": "20"
+   },
+   "resposta": "d",
+   "explicacao": "A reta y = ax + b corta o eixo y em b e o eixo x em −b/a, formando com os eixos um triângulo RETÂNGULO de catetos |b| e |b/a|. Para que ele seja isósceles, os dois catetos têm de ser iguais: |b| = |b/a|, o que exige |a| = 1 e, como a é escolhido entre 1 e 5, a = 1. O valor de b é livre entre 1 e 6, então as retas que servem são y = x + b, com b de 1 a 6. Somando a + b em cada uma: (1+1) + (1+2) + ... + (1+6) = 6 + 21 = 27. A opção 45 é a soma de TODOS os pares possíveis, sem filtrar pela condição de isósceles."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "eng-matematica-44",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Uma empresa de engenharia foi contratada para projetar um teleférico entre dois picos de montanhas. Numa modelagem matemática, as montanhas foram representadas por duas funções quadráticas: y = −(x + 3)² + 4 e y = −(x − 8)² + 8.\nA distância entre os cumes A e B das montanhas é de",
+   "alternativas": {
+    "a": "√116",
+    "b": "√146",
+    "c": "√130",
+    "d": "√157",
+    "e": "√137"
+   },
+   "resposta": "e",
+   "explicacao": "As duas parábolas já vêm na forma canônica y = a(x − h)² + k, em que (h, k) é o VÉRTICE — e, como o coeficiente é negativo, a concavidade é para baixo e o vértice é o ponto mais alto, isto é, o cume. Lendo direto: A = (−3, 4) e B = (8, 8), lembrando que o sinal dentro do parêntese se inverte. A distância sai do teorema de Pitágoras: √((8 − (−3))² + (8 − 4)²) = √(11² + 4²) = √(121 + 16) = √137. Ler o vértice de −(x + 3)² + 4 como (3, 4), esquecendo a inversão do sinal, dá √89 e nem aparece na lista; já √146 sai de trocar os 4 e 8 de lugar."
   }
  ],
  "matematica-financeira": [
@@ -37920,6 +38129,177 @@ window.QUESTION_BANKS = {
    "explicacao": "Aumentar e depois reduzir do mesmo percentual p dá 150(1 + p)(1 − p) = 150(1 − p²). Igualando a 126: 1 − p² = 126/150 = 0,84, logo p² = 0,16 e p = 0,4, isto é, 40%. A alternativa 16% não aparece justamente porque é o erro de parar em p² sem extrair a raiz; e 24% é a queda percentual total (150 → 126), não o percentual aplicado em cada etapa.",
    "origem": "direito",
    "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "eng-matematica-13",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Em 2024, o governo brasileiro ampliou a isenção do imposto de renda para indivíduos que ganham até dois salários mínimos.\nSuponha que o salário mínimo seja de R$ 1.500,00 por mês. Uma pessoa que ganha R$ 3.000,00 por mês (dois salários mínimos) agora está isenta do imposto de renda, enquanto anteriormente pagava 7,5% sobre a renda acima de R$ 2.500,00. A economia anual que essa pessoa terá com a nova isenção é de",
+   "alternativas": {
+    "a": "R$ 37,50",
+    "b": "R$ 187,50",
+    "c": "R$ 450,00",
+    "d": "R$ 225,00",
+    "e": "R$ 2.250,00"
+   },
+   "resposta": "c",
+   "explicacao": "A alíquota não incide sobre o salário inteiro, e sim sobre a parcela que EXCEDE a faixa de isenção — é esse o desenho do imposto por faixas. O excedente é 3.000 − 2.500 = R$ 500, e 7,5% disso dá R$ 37,50 por mês. A pergunta é pela economia ANUAL, então multiplica-se por 12: R$ 450,00. Os R$ 37,50 são a economia de um mês só, e os R$ 187,50 vêm de aplicar os 7,5% sobre os R$ 2.500 em vez de sobre o excedente. O erro mais caro seria calcular 7,5% sobre os R$ 3.000 cheios, que é justamente o que a estrutura por faixas evita."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "eng-matematica-20",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "A dona de uma microempresa de bolos contratou um matemático para ajudá-la a aumentar os lucros. O especialista analisou vários dados e constatou que o número n de bolos vendidos semanalmente dependia do preço x de cada bolo, cujo gasto unitário com ingredientes era de 12 reais. A função encontrada foi n(x) = 120 − 3x.\nO valor de x, para que o lucro semanal da microempresa seja máximo, é de",
+   "alternativas": {
+    "a": "R$ 13,00",
+    "b": "R$ 40,00",
+    "c": "R$ 12,00",
+    "d": "R$ 28,00",
+    "e": "R$ 26,00"
+   },
+   "resposta": "e",
+   "explicacao": "Lucro é margem vezes quantidade: L(x) = (x − 12)·(120 − 3x), em que (x − 12) é o ganho por bolo e (120 − 3x) é quantos se vendem àquele preço. Expandindo, L(x) = −3x² + 156x − 1.440, parábola com concavidade para baixo, cujo máximo está no vértice: x = −b/2a = 156/6 = R$ 26,00. O erro que a questão espera é maximizar a RECEITA em vez do lucro, ignorando o custo: x·(120 − 3x) teria máximo em x = 20. O preço de R$ 40,00 é onde as vendas zeram, e R$ 12,00 é o custo, em que o lucro é nulo — os dois extremos entre os quais o ótimo tinha de estar."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "eng-matematica-25",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Em uma pesquisa com 80 participantes, os entrevistados foram questionados sobre seus métodos de transporte preferidos para ir ao trabalho. Os resultados foram os seguintes:\n• 10% dos participantes preferem andar de bicicleta.\n• 0,2 dos participantes preferem transporte público.\n• 1/4 dos participantes preferem caminhar.\n• √0,04 dos participantes preferem carona.\n• 20 de 80 participantes preferem dirigir.\nCom base nas informações fornecidas, o método de transporte menos preferido entre os participantes é",
+   "alternativas": {
+    "a": "carona.",
+    "b": "dirigir.",
+    "c": "andar de bicicleta.",
+    "d": "transporte público.",
+    "e": "caminhar."
+   },
+   "resposta": "c",
+   "explicacao": "A questão é de conversão entre formas de representar a mesma coisa: porcentagem, decimal, fração e raiz. Passando todas para fração de 80 participantes: 10% dá 8; 0,2 dá 16; 1/4 dá 20; √0,04 = 0,2, que também dá 16; e 20 em 80 dá 20. O menor é 8, a bicicleta. A raiz é a única pegadinha real — √0,04 não é 0,02, e quem calcula assim encontra 1,6 pessoa e escolhe a carona como a menos preferida. Repare que transporte público e carona empatam em 16, o que é uma boa conferência de que as conversões saíram certas."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "eng-matematica-27",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Uma oliveira produz em média 12 quilogramas de azeitonas, gerando 700 mL de azeite extravirgem. Um olival produziu 14.000 litros de azeite. Se 20% das árvores não produziram azeite neste ano, devido a condições desfavoráveis, o número total de oliveiras desse olival é",
+   "alternativas": {
+    "a": "20.000",
+    "b": "16.000",
+    "c": "100.000",
+    "d": "4.000",
+    "e": "25.000"
+   },
+   "resposta": "e",
+   "explicacao": "São dois passos, e o segundo é o que separa as respostas. Primeiro, quantas árvores produziram: 14.000 L são 14.000.000 mL, e a 700 mL por árvore dá 20.000 oliveiras produtivas. Só que essas 20.000 não são o total — são os 80% que produziram, já que 20% não deram azeite. O total sai de 20.000/0,80 = 25.000 árvores. O valor 20.000 é a resposta de quem para no primeiro passo, e 16.000 é o de quem calcula 80% DE 20.000, subtraindo quando devia dividir. A conferência é imediata: 20% de 25.000 são 5.000, e 25.000 − 5.000 = 20.000 produtivas."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "eng-matematica-28",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Considere o valor da produção agrícola de dez municípios brasileiros em 2023, em bilhões de reais: Sorriso/MT 8,3; São Desidério/BA 7,8; Sapezal/MT 7,5; Campo Novo do Parecis/MT 7,2; Rio Verde/GO 6,9; Diamantino/MT 5,9; Formosa do Rio Preto/BA 5,8; Nova Ubiratã/MT 5,5; Nova Mutum/MT 5,4; Jataí/GO 4,8.\nAs cidades de Goiás (GO) são responsáveis por, aproximadamente,",
+   "alternativas": {
+    "a": "21%",
+    "b": "18%",
+    "c": "20%",
+    "d": "12%",
+    "e": "22%"
+   },
+   "resposta": "b",
+   "explicacao": "Primeiro é preciso separar quais municípios são de Goiás — Rio Verde e Jataí —, e só eles entram no numerador: 6,9 + 4,8 = 11,7 bilhões. O denominador é a soma dos dez valores, que dá 65,1 bilhões. A razão 11,7/65,1 ≈ 0,180, isto é, cerca de 18%. O erro previsto pela lista é contar mal a sigla do estado: incluir um município do Mato Grosso ou trocar Jataí de estado empurra o resultado para 20% ou 22%. Uma estimativa rápida confirma a ordem de grandeza: 11,7 é pouco menos de um quinto de 65, e um quinto seria 20%."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "eng-matematica-29",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Em um jogo, um personagem regenera sua vida a uma taxa de 13% da vida máxima por segundo, mas apenas após passar 3 segundos sem receber dano, atacar ou usar habilidades. Se o personagem tem vida máxima de 8.000 pontos e, durante uma batalha, sua vida cai para 2.400 pontos, o tempo mínimo, em segundos, que o jogador precisará ficar sem receber dano, atacar ou usar habilidades, para que o personagem regenere completamente sua vida, será de",
+   "alternativas": {
+    "a": "8",
+    "b": "10",
+    "c": "9",
+    "d": "6",
+    "e": "11"
+   },
+   "resposta": "c",
+   "explicacao": "A taxa de regeneração incide sobre a vida MÁXIMA, e não sobre a atual: 13% de 8.000 são 1.040 pontos por segundo. Falta recuperar 8.000 − 2.400 = 5.600 pontos, o que exige 5.600/1.040 ≈ 5,4 segundos e, como o tempo é contado em segundos inteiros, 6 segundos de regeneração. A esse tempo somam-se os 3 segundos de espera antes de a regeneração começar, que o enunciado impõe: 3 + 6 = 9 segundos. Responder 6 é esquecer a espera inicial, e calcular os 13% sobre os 2.400 pontos atuais levaria a um tempo bem maior."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "eng-matematica-30",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Beatriz possui uma carteira de investimentos entre Tesouro Direto, CDBs, ações e fundos imobiliários. Admitindo que, em um deles, o rendimento seja de 1,0% ao mês, calcule o tempo, em meses, em que essa quantia investida será duplicada.\nSe precisar, utilize: log₁₀2 = 0,301; log₁₀101 = 2,0043.",
+   "alternativas": {
+    "a": "15",
+    "b": "75",
+    "c": "68",
+    "d": "70",
+    "e": "66"
+   },
+   "resposta": "d",
+   "explicacao": "Juro composto de 1% ao mês multiplica o capital por 1,01 a cada mês, então dobrar significa resolver 1,01ⁿ = 2. Aplicando logaritmo nos dois lados, n = log2/log1,01. O dado de log 101 existe justamente para calcular log 1,01: como 1,01 = 101/100, tem-se log1,01 = 2,0043 − 2 = 0,0043. Daí n = 0,301/0,0043 = 70 meses. A alternativa 15 é a de quem trata o juro como SIMPLES e faz 100/1 dividido por... qualquer conta linear — em juro simples dobrar a 1% ao mês levaria 100 meses, e nenhum atalho linear chega perto dos 70 que a capitalização composta produz."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "eng-matematica-31",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Num jogo, os jogadores devem adivinhar o ano em que uma foto foi tirada. O sistema dá no máximo 100 pontos por rodada, e as deduções são calculadas assim: erro de 0 a 5 anos custa 1 ponto por ano; de 6 a 10 anos, 2 pontos por ano; de 11 a 20 anos, 3 pontos por ano; mais de 20 anos, 4 pontos por ano.\nUm jogador fez três rodadas, com os seguintes erros: 5 anos na primeira, 10 anos na segunda e 25 anos na terceira.\nCom base nesses dados, a pontuação final do jogador, após essas três rodadas, será de",
+   "alternativas": {
+    "a": "293",
+    "b": "93",
+    "c": "58",
+    "d": "260",
+    "e": "175"
+   },
+   "resposta": "e",
+   "explicacao": "A dedução é por ANO de erro, e a faixa determina quanto custa cada ano — não é um desconto fixo por faixa. Na primeira rodada, 5 anos a 1 ponto tiram 5, deixando 95. Na segunda, 10 anos a 2 pontos tiram 20, deixando 80. Na terceira, 25 anos a 4 pontos tirariam 100, o que zera a rodada, já que a pontuação não fica negativa. O total é 95 + 80 + 0 = 175. Tratar a dedução como valor único por faixa (1, 2 e 4 pontos) daria 97 + 98 + 96, muito acima de qualquer opção, e é o erro que a tabela de faixas costuma induzir."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "eng-matematica-32",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A tabela mostra os valores das premiações pagas pelo Comitê Olímpico Brasileiro aos atletas, em milhares de reais, nas Olimpíadas de Paris, em 2024:\n• Individual: prata 210, ouro 350, bronze 140.\n• Grupo (2 a 6 atletas): prata 420, ouro 700, bronze 280.\n• Coletiva (mais de 6 atletas): prata 630, ouro 1050, bronze 420.\nA seleção feminina de futebol, com 18 jogadoras, e uma atleta brasileira do surfe foram medalhas de prata.\nO valor recebido pela atleta no surfe é equivalente a quantas vezes o valor recebido por uma jogadora de futebol?",
+   "alternativas": {
+    "a": "7,5",
+    "b": "6",
+    "c": "3",
+    "d": "10",
+    "e": "1/3"
+   },
+   "resposta": "b",
+   "explicacao": "O prêmio das modalidades coletivas é pago à EQUIPE e dividido entre as atletas, enquanto o individual vai inteiro para uma pessoa — e é isso que a questão cobra. A surfista compete sozinha, então recebe os 210 mil da prata individual. A seleção de futebol tem mais de 6 atletas, logo entra na linha \"coletiva\", com 630 mil a serem repartidos por 18 jogadoras: 35 mil cada. A razão é 210/35 = 6. Comparar 210 com os 630 sem dividir pelas 18 dá 1/3, que está na lista exatamente para quem esquece o rateio."
   }
  ],
  "matematica-algebra": [
@@ -41157,6 +41537,144 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A segunda equação nunca é obstáculo: qualquer que seja X, ela apenas define Y = C − DX. Ou seja, todo o comportamento do sistema é decidido pela primeira equação, e D não tem papel algum — o que já derruba I e III. I também falha pelo lado de A: com det A = 0 o sistema pode ser possível e indeterminado (basta B estar na imagem de A), não impossível. II falha porque A = B garante a existência de uma solução, X = I, mas não a unicidade: se A é singular, X = I + N com AN = 0 também serve. III inverte a condição necessária correta — a unicidade exige A inversível, e não exige nada de D. Nenhuma das três se sustenta."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-matematica-15",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Uma empresa está analisando o custo de produção C(x) de um novo produto. O custo total de produzir x unidades do produto é modelado pela função quadrática C(x) = 100 − 2x + 0,04x².\nO número de unidades que devem ser produzidas, para minimizar o custo total dessa empresa, é",
+   "alternativas": {
+    "a": "25",
+    "b": "50",
+    "c": "44",
+    "d": "144",
+    "e": "Não há mínimo, pois x < 0."
+   },
+   "resposta": "a",
+   "explicacao": "O coeficiente de x² é positivo (0,04), então a parábola tem concavidade para cima e o vértice é ponto de MÍNIMO — a alternativa que nega a existência do mínimo já cai por aí. A abscissa do vértice é x = −b/2a = 2/(2·0,04) = 2/0,08 = 25 unidades. O valor 50 aparece para quem esquece o 2 do denominador, e 44 sai de tentar zerar a função em vez de minimizá-la. Repare que o custo mínimo em si, C(25) = 100 − 50 + 25 = 75, não é o que se pede: a pergunta é pela QUANTIDADE que minimiza, não pelo custo."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-matematica-24",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "As pessoas começam a perder a audição quando são expostas, por períodos prolongados e repetidos, a sons a partir de 85 decibéis (dB), o equivalente ao ruído de um liquidificador.\nSabe-se que o nível de intensidade sonora I, em decibéis, é dado por I = 10·log₁₀(P/P₀), onde P é a potência do som em watts e P₀ é uma potência de referência.\nUm aspirador de pó produz som com uma potência de 3,16×10⁻⁵ watts, equivalente a 75 dB. Sabendo que um liquidificador produz um som de 85 dB, a potência da onda sonora emitida pelo liquidificador é de",
+   "alternativas": {
+    "a": "4,22×10⁻⁵ watts",
+    "b": "3,58×10⁻⁴ watts",
+    "c": "2,37×10⁻⁴ watts",
+    "d": "2,79×10⁻⁴ watts",
+    "e": "3,16×10⁻⁴ watts"
+   },
+   "resposta": "e",
+   "explicacao": "A escala de decibéis é logarítmica, e é isso que dispensa qualquer conta pesada aqui: subtraindo as duas expressões, 85 − 75 = 10·log(P₂/P₁), logo log(P₂/P₁) = 1 e P₂/P₁ = 10. Uma diferença de 10 dB significa potência DEZ VEZES maior, sempre. Então basta multiplicar 3,16×10⁻⁵ por 10, chegando a 3,16×10⁻⁴ watts — o mesmo algarismo, com o expoente uma unidade acima. Os demais valores são o que se obteria somando ou interpolando linearmente os decibéis, tratando a escala como se fosse aritmética, que é exatamente o que ela não é."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-matematica-26",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "A meia-vida de um fármaco é o tempo necessário para que sua concentração plasmática seja reduzida pela metade.\nUm paciente ingeriu um comprimido de 200 miligramas, que possui uma meia-vida de 8 horas.\nA concentração aproximada desse medicamento no organismo do paciente, após 3 dias completos desde a sua ingestão, será de",
+   "alternativas": {
+    "a": "0,17 mg",
+    "b": "1,56 mg",
+    "c": "2,88 mg",
+    "d": "0,39 mg",
+    "e": "0,78 mg"
+   },
+   "resposta": "d",
+   "explicacao": "Três dias são 72 horas, e 72 dividido por 8 dá 9 meias-vidas. Cada meia-vida corta a quantidade ao meio, então o que resta é 200/2⁹ = 200/512 ≈ 0,39 mg. O decaimento é exponencial, não linear: contar 9 subtrações iguais em vez de 9 divisões por 2 daria um resultado negativo, e é para punir a contagem errada de meias-vidas que a lista traz 0,78 (que corresponde a 8 delas) e 0,17 (a 10). Converter os 3 dias para horas ANTES de dividir é o passo que evita o erro mais comum."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-matematica-34",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Durante uma aula de matemática no ensino fundamental, um aluno questionou a respeito da utilização prática de produtos notáveis e fatoração algébrica.\nO valor numérico da expressão (a³ + a² − 4a − 4)/(2a² − 2a − 4), para a = 10.998, é",
+   "alternativas": {
+    "a": "5.501",
+    "b": "5.498",
+    "c": "5.497",
+    "d": "5.500",
+    "e": "5.502"
+   },
+   "resposta": "d",
+   "explicacao": "É a questão que responde à pergunta do aluno: fatorar transforma uma conta impossível de fazer à mão numa conta trivial. No numerador, agrupando, a²(a + 1) − 4(a + 1) = (a + 1)(a² − 4) = (a + 1)(a − 2)(a + 2). No denominador, 2(a² − a − 2) = 2(a − 2)(a + 1). Os fatores (a + 1) e (a − 2) se cancelam e sobra apenas (a + 2)/2. Para a = 10.998, isso dá 11.000/2 = 5.500. Sem a fatoração seria preciso elevar 10.998 ao cubo, e as demais opções — todas a poucas unidades da correta — existem para punir exatamente quem tenta o caminho aritmético e erra por pouco."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-matematica-37",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "visual": {
+    "tipo": "Gráfico",
+    "arquivo": "assets/provas/maua-inverno-2024-q23.svg",
+    "descricao": "Cinco gráficos de temperatura (0 a 30 °C) por tempo (0 a 48 horas), rotulados de A a E. Em A a curva parte de 10 °C, sobe rápido no início e vai se achatando até encostar em 30 °C. Em B a curva parte de 10 °C e sobe de forma convexa, cada vez mais depressa. Em C é uma reta de 10 a 30 °C. Em D a curva tem forma de S. Em E a curva fica quase parada no início e dispara perto do fim."
+   },
+   "enunciado": "Em bela tarde de verão, um grupo de amigos faz um piquenique e leva bebida fria, para se refrescar, em copo térmico. A temperatura ambiente estava em 30 °C, enquanto a bebida dentro do copo, inicialmente em 10 °C. Eles observam que a temperatura da bebida se eleva gradualmente ao longo do tempo, aumentando cada vez mais devagar, até atingir a temperatura ambiente.\nSupondo que esse processo levou quase 48 horas para se completar, o gráfico que melhor representa a mudança de temperatura da bebida dentro do copo térmico é",
+   "alternativas": {
+    "a": "o gráfico A.",
+    "b": "o gráfico B.",
+    "c": "o gráfico C.",
+    "d": "o gráfico D.",
+    "e": "o gráfico E."
+   },
+   "resposta": "a",
+   "explicacao": "O enunciado descreve a curva antes de mostrá-la: a temperatura sobe \"cada vez mais devagar\" até encostar nos 30 °C do ambiente. Isso é crescimento CÔNCAVO, rápido no começo e cada vez mais lento — o comportamento da lei do resfriamento de Newton, em que a velocidade da troca de calor é proporcional à diferença de temperatura que ainda resta. Como essa diferença encolhe, a subida desacelera e a curva se aproxima assintoticamente de 30 °C. A reta suporia velocidade constante; as curvas convexas e a em S dizem que a bebida esquenta cada vez MAIS depressa, que é o contrário do enunciado e também do que se observa num copo térmico."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-matematica-38",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "O ano de 2023 foi confirmado como o mais quente já registrado, com uma temperatura média global de 1,06 °C acima da média de longo prazo. Suponha que a relação entre o aumento da temperatura média global e o número de eventos climáticos extremos registrados possa ser modelada por um polinômio de primeira ordem.\nSe em 2023, com um aumento de 1,06 °C, foram registrados 1.018 eventos climáticos extremos, e em 2022, com um aumento de 0,82 °C, foram registrados 970 eventos, o número de eventos climáticos extremos esperado para um aumento de 1,32 °C é de",
+   "alternativas": {
+    "a": "1.562",
+    "b": "1.268",
+    "c": "1.242",
+    "d": "1.070",
+    "e": "1.066"
+   },
+   "resposta": "d",
+   "explicacao": "\"Polinômio de primeira ordem\" é o mesmo que função afim, então basta achar a taxa de variação a partir dos dois pontos dados: (1.018 − 970)/(1,06 − 0,82) = 48/0,24 = 200 eventos por grau. De 1,06 °C para 1,32 °C são 0,26 °C a mais, o que acrescenta 200 × 0,26 = 52 eventos: 1.018 + 52 = 1.070. O erro que a lista prevê é aplicar a proporção direta entre temperatura e número de eventos — 1.018 × (1,32/1,06) daria cerca de 1.268 —, o que trataria a relação como se ela passasse pela origem, e o próprio par de dados mostra que não passa."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "eng-matematica-45",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Numa competição acadêmica, as equipes A e B chegaram à final. Nesta última fase, cada equipe precisa resolver 50 problemas em, no máximo, três horas. Quem resolver primeiro ganha 3 pontos e o segundo colocado, 1 ponto. As duas equipes conseguiram resolver 30 problemas cada, e a pontuação total foi de 128 pontos.\nO número de problemas iguais que as duas equipes resolveram foi",
+   "alternativas": {
+    "a": "8",
+    "b": "26",
+    "c": "20",
+    "d": "18",
+    "e": "24"
+   },
+   "resposta": "b",
+   "explicacao": "Cada problema resolvido pelas DUAS equipes rende 3 + 1 = 4 pontos ao placar total; cada problema resolvido por uma só rende 3, porque não há segundo colocado. Sendo k a quantidade de problemas comuns, cada equipe resolveu 30 − k problemas sozinha, e o total de pontos é 4k + 3(30 − k) + 3(30 − k) = 180 − 2k. Igualando a 128, obtém-se 2k = 52 e k = 26. Repare no sinal: quanto MAIS problemas em comum, MENOR o placar total, porque um problema compartilhado rende 4 pontos, enquanto o mesmo problema resolvido separadamente pelas duas equipes renderia 6."
   }
  ],
  "matematica-probabilidade": [
@@ -43354,6 +43872,63 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Como 256 = 2⁸, os pares de elementos distintos cujo produto é 256 são (1, 256), (2, 128), (4, 64) e (8, 32) — quatro pares disjuntos. O 16 fica de fora: 16 × 16 = 256, mas isso exigiria usar o mesmo elemento duas vezes, e o subconjunto não repete elementos. Pela casa dos pombos, a pergunta vira: qual o maior subconjunto SEM nenhum desses pares? Basta pegar um elemento de cada par (4 elementos) e mais o 16, que não estraga nada — 5 elementos. Com 6 elementos, os pombos não cabem mais nas 4 casas e algum par se fecha, logo n = 6. Responder 5 é confundir o tamanho do maior conjunto livre com o menor n que força o par."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "eng-matematica-16",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Numa Competição de Projetos de Engenharia Sustentável, os 8 finalistas sentaram-se em volta de uma grande mesa circular, para debaterem suas ideias.\nConsiderando iguais as disposições por rotação, a quantidade de maneiras em que os competidores poderiam sentar-se em volta da mesa é",
+   "alternativas": {
+    "a": "8!",
+    "b": "8!/7",
+    "c": "8!/2",
+    "d": "2·4!",
+    "e": "7!"
+   },
+   "resposta": "e",
+   "explicacao": "Numa fila, 8 pessoas se ordenam de 8! maneiras. Na mesa redonda, porém, girar todo mundo um lugar não produz uma disposição nova — o que importa é quem está ao lado de quem. Como cada arranjo circular corresponde a 8 arranjos em fila (um para cada rotação), divide-se por 8: 8!/8 = 7!. É a permutação circular, (n − 1)!. A alternativa 8! ignora a rotação, e 8!/2 seria a correção para o caso em que também se considerasse igual o arranjo REFLETIDO, o que a questão não pede."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "eng-matematica-19",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Ana e Beatriz estavam brincando de adivinhar números inteiros.\n— Pensei em um número par de 3 algarismos distintos — disse Ana.\n— É o número 136? — disse Beatriz.\n— Não é 136, tente novamente — disse Ana.\nA probabilidade de Beatriz acertar na próxima tentativa é de",
+   "alternativas": {
+    "a": "1/420",
+    "b": "1/327",
+    "c": "1/405",
+    "d": "1/360",
+    "e": "1/328"
+   },
+   "resposta": "b",
+   "explicacao": "A contagem se parte em dois casos por causa do zero. Se o número termina em 0, o primeiro algarismo tem 9 opções (1 a 9) e o do meio, 8: são 72. Se termina em 2, 4, 6 ou 8, o primeiro não pode ser 0 nem repetir o último, restando 8 opções, e o do meio também 8: são 4 × 8 × 8 = 256. O total é 72 + 256 = 328 números pares de três algarismos distintos. Como o 136 já foi descartado — e ele é um deles, pois termina em 6 —, sobram 327 candidatos igualmente prováveis, e a probabilidade é 1/327. A opção 1/328 é a de quem esquece de tirar o palpite já eliminado."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "eng-matematica-35",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "enunciado": "Na pequena cidade de Inhaúma, em Minas Gerais, a eleição para prefeito de 2024 terminou em um surpreendente empate: ambos os candidatos receberam exatamente 2.434 votos.\nDesconsiderando abstenções, nulos e brancos, a probabilidade de ter ocorrido um empate em Inhaúma era de cerca de 1,1%. Se considerarmos uma cidade com apenas 4 votos válidos, entre dois candidatos A e B, a probabilidade de empate seria de, aproximadamente,",
+   "alternativas": {
+    "a": "50%",
+    "b": "33,3%",
+    "c": "1,1%",
+    "d": "25%",
+    "e": "37,5%"
+   },
+   "resposta": "e",
+   "explicacao": "Com 4 eleitores escolhendo entre dois candidatos, há 2⁴ = 16 resultados igualmente prováveis. O empate acontece quando exatamente 2 dos 4 votam em A, o que ocorre de C(4,2) = 6 maneiras. Logo a probabilidade é 6/16 = 0,375, ou 37,5%. A resposta de 50% é a intuição errada de que \"empate ou não empate\" seriam igualmente prováveis, quando na verdade há mais maneiras de desempatar do que de empatar. Repare que o valor cai depressa com o número de eleitores — de 37,5% com 4 votos para 1,1% com quase cinco mil, como aconteceu em Inhaúma."
   }
  ],
  "matematica-sequencias": [
@@ -44488,6 +45063,44 @@ window.QUESTION_BANKS = {
    "explicacao": "Numa progressão aritmética a média dos n primeiros termos é a média entre o primeiro e o último, (a₁ + aₙ)/2. Então (1 + a₂₀₂₁)/2 = 102 dá a₂₀₂₁ = 203. Como a₂₀₂₁ = a₁ + 2020r, vem 203 = 1 + 2020r e r = 202/2020 = 0,10. O erro típico é usar 2021 em vez de 2020 como número de saltos entre o primeiro e o último termo.",
    "origem": "direito",
    "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "eng-matematica-39",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Com o aumento da intensidade dos furacões, cientistas propõem a adição de uma nova categoria à escala de Saffir-Simpson, que atualmente vai até a categoria 5. Na escala atual, a categoria Um vai de 119 a 153 km/h, a Dois de 154 a 177, a Três de 178 a 208, a Quatro de 209 a 251, e a Cinco começa em 252 km/h.\nSe criássemos uma nova escala, em que o intervalo de velocidade fosse constante, na forma de uma progressão aritmética com razão de 34 km/h, começando a categoria \"Um\" com 119 km/h, a velocidade do vento para um furacão de classe \"Cinco\", na nova escala, seria de",
+   "alternativas": {
+    "a": "255 km/h a 289 km/h",
+    "b": "222 km/h a 255 km/h",
+    "c": "21 km/h a 255 km/h",
+    "d": "252 km/h a 286 km/h",
+    "e": "255 km/h a 288 km/h"
+   },
+   "resposta": "e",
+   "explicacao": "Os limites INFERIORES das categorias formam a progressão aritmética de razão 34, a partir de 119: são 119, 153, 187, 221 e 255 km/h. A categoria Cinco começa, portanto, em 255. O limite superior sai da largura da faixa: como cada categoria cobre 34 valores inteiros, e a faixa começa em 255, ela termina em 288 — repare que 288 − 255 + 1 = 34, e que o mesmo padrão vale na escala original, em que a categoria Um vai de 119 a 153. A opção que termina em 289 conta a largura como 35 valores, e a que começa em 252 usa o limite da escala ANTIGA em vez do da nova."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "eng-matematica-40",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Um professor de matemática resolveu iniciar o conteúdo de álgebra através de uma \"mágica\". Ele pediu que os alunos anotassem, numa coluna com 10 posições, dois números quaisquer nas duas primeiras posições. A partir daí, cada posição seguinte é a soma das duas anteriores, até a 10ª posição. Em seguida, somam-se todos os 10 números escritos.\nPara realizar a \"mágica\", o professor pergunta apenas o número escrito na posição n, multiplica-o mentalmente por certo número e \"adivinha\" a soma total.\nA posição n que o professor perguntava e o número que multiplicava são",
+   "alternativas": {
+    "a": "posição 5 e multiplicava por 30",
+    "b": "posição 7 e multiplicava por 11",
+    "c": "posição 8 e multiplicava por 7",
+    "d": "posição 9 e multiplicava por 4",
+    "e": "posição 10 e multiplicava por 3"
+   },
+   "resposta": "b",
+   "explicacao": "Chamando os dois primeiros números de x e y, a sequência é x, y, x+y, x+2y, 2x+3y, 3x+5y, 5x+8y, 8x+13y, 13x+21y, 21x+34y — os coeficientes são os de Fibonacci. Somando os dez termos, obtém-se 55x + 88y, que se fatora como 11·(5x + 8y). E 5x + 8y é exatamente o SÉTIMO termo da coluna. Por isso a soma dos dez é sempre onze vezes o sétimo, quaisquer que sejam os números iniciais — o que é o truque inteiro da mágica. Nenhuma outra posição funciona, porque em nenhuma outra os coeficientes da soma total são múltiplos exatos dos do termo."
   }
  ],
  "matematica-logica-conjuntos": [
@@ -45589,6 +46202,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A hipótese C ⊆ A é o que sustenta I: distribuindo, A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C), e como C está contido em A, A ∩ C = C, o que devolve exatamente o lado esquerdo. III é identidade de conjuntos e vale sempre, com ou sem a hipótese: tirar os elementos de C depois de interseccionar dá o mesmo que interseccionar com B − C. II é falsa, e um caso pequeno basta para derrubá-la: com A = C = {1} e B = ∅, o lado esquerdo é ∅ e o direito é C ∪ ∅ = {1}. O erro de II é supor que C esteja dentro de B, e não apenas dentro de A."
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "eng-matematica-43",
+   "banca": "maua",
+   "sessao": "maua-inverno-2024",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Em uma cidade, três projetos de urbanismo estão sendo considerados: um parque (P), uma ciclovia (C) e uma área de lazer (L). Uma pesquisa foi realizada com alguns moradores:\n• 120 moradores votaram a favor do parque.\n• 80 moradores votaram a favor da ciclovia.\n• 110 moradores votaram a favor da área de lazer.\n• 40 moradores votaram a favor do parque e da ciclovia.\n• 30 moradores votaram a favor do parque e da área de lazer.\n• 20 moradores votaram a favor da ciclovia e da área de lazer.\n• 10 moradores votaram a favor dos três projetos.\n• 20 moradores votaram em nenhum projeto.\nCom base nesses dados, o número de moradores entrevistados foi de",
+   "alternativas": {
+    "a": "200",
+    "b": "215",
+    "c": "220",
+    "d": "250",
+    "e": "430"
+   },
+   "resposta": "c",
+   "explicacao": "O gabarito adota a leitura EXCLUSIVA dos pares: os 40 do parque e da ciclovia são os que votaram nesses dois e SÓ nesses dois, sem contar os 10 dos três projetos. Montando o diagrama de dentro para fora, o miolo tem 10; as regiões de exatamente dois têm 40, 30 e 20; e as de exatamente um ficam com 120 − 40 − 30 − 10 = 40 no parque, 80 − 40 − 20 − 10 = 10 na ciclovia e 110 − 30 − 20 − 10 = 50 na área de lazer. A união soma 40 + 10 + 50 + 40 + 30 + 20 + 10 = 200, e com os 20 que não votaram em nada dá 220 entrevistados. Se os pares fossem lidos como INCLUSIVOS, a inclusão-exclusão daria 230 na união e 250 no total — que é justamente o outro número oferecido na lista."
   }
  ],
  "matematica-complexos": [

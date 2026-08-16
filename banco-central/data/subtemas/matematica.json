@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "matematica",
- "total": 883,
+ "total": 929,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -4738,6 +4738,282 @@
    "frenteDestino": "matematica",
    "pontos": 15,
    "margem": 12
+  },
+  "med-matematica-477": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 19,
+   "margem": 16
+  },
+  "med-matematica-478": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-matematica-479": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-matematica-480": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-matematica-481": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 18,
+   "margem": 15
+  },
+  "med-matematica-482": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-matematica-483": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-matematica-484": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-matematica-485": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-matematica-486": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 19,
+   "margem": 16
+  },
+  "med-matematica-487": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-matematica-488": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-matematica-489": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-matematica-490": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-matematica-491": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-matematica-492": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 10
+  },
+  "med-matematica-493": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-matematica-494": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-matematica-495": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 19,
+   "margem": 16
+  },
+  "med-matematica-496": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 6
+  },
+  "med-matematica-497": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 15,
+   "margem": 12
+  },
+  "med-matematica-498": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-matematica-499": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-matematica-500": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-matematica-501": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-matematica-502": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-matematica-503": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-matematica-504": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-matematica-505": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 16,
+   "margem": 16
+  },
+  "med-matematica-506": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 12
+  },
+  "med-matematica-507": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-matematica-508": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-matematica-509": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-matematica-510": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-matematica-511": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-matematica-512": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-matematica-513": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-matematica-514": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 16,
+   "margem": 16
+  },
+  "med-matematica-515": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 16,
+   "margem": 16
+  },
+  "med-matematica-516": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 9
+  },
+  "med-matematica-517": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 12,
+   "margem": 12
+  },
+  "med-matematica-518": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-matematica-519": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 8
+  },
+  "med-matematica-520": {
+   "subtema": "matematica-logica-conjuntos",
+   "frenteDestino": "matematica",
+   "pontos": 14,
+   "margem": 11
+  },
+  "med-matematica-521": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 10
+  },
+  "med-matematica-522": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 16,
+   "margem": 13
   },
   "eng-complexos-01": {
    "subtema": "matematica-complexos",

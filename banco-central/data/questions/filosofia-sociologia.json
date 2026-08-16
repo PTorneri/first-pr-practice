@@ -6391,6 +6391,101 @@
    "explicacao": "Entrar e permanecer em um movimento social não decorre apenas da causa defendida: pesa a rede de relações que sustenta o compromisso e o custo de abandoná-la. É assim que a militância se converte em carreira e a mobilização social ganha continuidade.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-345",
+   "texto_apoio": "“Age apenas segundo aquela máxima que possas querer que se torne uma lei universal.” (Immanuel Kant, 1785)",
+   "enunciado": "Essa formulação do imperativo categórico caracteriza a ética kantiana porque ela:",
+   "alternativas": {
+    "a": "condiciona o valor moral do ato ao proveito que ele traz a quem o pratica",
+    "b": "transfere a decisão sobre o que é correto à autoridade religiosa encarregada de interpretar os mandamentos, à qual o agente deve submeter o próprio juízo antes de agir",
+    "c": "avalia a conduta pela forma da regra que a orienta, e não pelos resultados agradáveis que venha a produzir",
+    "d": "reduz o dever moral ao costume vigente na comunidade em que o agente vive",
+    "e": "faz depender a obrigação moral do cálculo do prazer que a ação distribui"
+   },
+   "resposta": "c",
+   "explicacao": "A ética de Kant julga o ato pela máxima que o orienta: correto é aquilo cuja regra o agente poderia querer ver adotada por todos sem contradição. Daí o dever moral aparecer como imperativo categórico, que obriga incondicionalmente, e não como conselho de prudência dependente do fim desejado. A autonomia da vontade está em o sujeito dar a si mesmo a lei que segue. As demais alternativas descrevem éticas heterônomas, que buscam o critério fora do agente (autoridade, costume), ou consequencialistas, que o buscam no efeito da ação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-346",
+   "texto_apoio": "“A doutrina da utilidade sustenta que as ações são corretas na medida em que tendem a promover a felicidade, e erradas quando tendem a produzir o contrário da felicidade.” (John Stuart Mill, 1863)",
+   "enunciado": "Um dilema ético classicamente levantado contra o utilitarismo consiste em observar que essa doutrina:",
+   "alternativas": {
+    "a": "admite, em situações-limite, sacrificar o interesse de poucos quando isso eleva o bem-estar do conjunto",
+    "b": "recusa a comparação entre os efeitos de condutas diferentes",
+    "c": "estabelece que a correção de um ato depende apenas da intenção declarada por quem o pratica, de modo que os efeitos sobre terceiros ficariam fora do exame moral que ela propõe",
+    "d": "identifica o bem com o cumprimento de mandamentos revelados",
+    "e": "abandona a ideia de que a felicidade tenha peso na avaliação da conduta"
+   },
+   "resposta": "a",
+   "explicacao": "O utilitarismo de Bentham e de Stuart Mill mede a correção da ação por suas consequências, tomando como critério a maior felicidade do maior número. A objeção mais conhecida é a de que esse cálculo agregado, por somar bem e mal de pessoas distintas num saldo único, pode tornar defensável prejudicar um grupo pequeno em nome de um ganho maior distribuído. É esse ponto que separa a ética utilitarista das éticas do dever, para as quais há obrigações que o saldo favorável não dispensa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-347",
+   "enunciado": "Na análise de Marx, a mais-valia designa:",
+   "alternativas": {
+    "a": "o lucro obtido pelo comerciante ao vender acima do preço de tabela",
+    "b": "a diferença entre o salário nominal e o salário real, medida que os economistas obtêm ao comparar o poder de compra dos rendimentos em dois momentos distintos do tempo",
+    "c": "o imposto recolhido sobre a folha de pagamento das empresas industriais",
+    "d": "a parte da jornada de trabalho não paga ao trabalhador, apropriada pelo dono dos meios de produção",
+    "e": "o valor que o proprietário adianta na compra de máquinas e de matérias-primas"
+   },
+   "resposta": "d",
+   "explicacao": "Para Marx, a força de trabalho é uma mercadoria peculiar: seu uso produz mais valor do que custa para ser reposta. A jornada divide-se em tempo de trabalho necessário, que equivale ao salário, e tempo de trabalho excedente, cujo produto fica com o proprietário dos meios de produção. Essa fração não paga é a mais-valia, base da acumulação no capitalismo e da leitura que opõe burguesia e proletariado como classes sociais definidas pelo lugar que ocupam na produção, e não pela renda que recebem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-348",
+   "texto_apoio": "Nas plataformas de entrega e de transporte por aplicativo, quem dirige ou pedala é tratado como parceiro autônomo: não há vínculo formal, o pagamento é por tarefa cumprida e a jornada se estende conforme a necessidade de renda.",
+   "enunciado": "O processo descrito é analisado pela sociologia do trabalho como:",
+   "alternativas": {
+    "a": "retorno ao artesanato, com o produtor recuperando o controle do ritmo e do destino do que produz",
+    "b": "uberização, forma de precarização em que o risco e o custo da atividade passam ao próprio trabalhador",
+    "c": "expansão do emprego formal, uma vez que a intermediação eletrônica das tarefas costuma vir acompanhada da assinatura de contratos com jornada fixa e previsão de férias remuneradas",
+    "d": "aplicação do fordismo clássico, com esteira, posto fixo e supervisão presencial",
+    "e": "extinção da divisão do trabalho nas atividades urbanas de serviços"
+   },
+   "resposta": "b",
+   "explicacao": "A uberização combina autonomia aparente e controle efetivo: a plataforma distribui as tarefas e define o preço, enquanto o veículo, a manutenção, o combustível e o tempo de espera correm por conta de quem executa o serviço. É um caso de precarização e de reestruturação produtiva: o vínculo assalariado cede lugar ao trabalho por plataforma, sem os direitos que a relação de emprego assegurava. O fordismo, ao contrário, supunha posto fixo, jornada delimitada e contrato estável, e a divisão do trabalho não desaparece, apenas muda de forma.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-349",
+   "texto_apoio": "Ao descrever um povo cujos hábitos alimentares e formas de casamento diferiam dos seus, um viajante europeu do século XIX classificou-o como “atrasado” e “sem civilização”.",
+   "enunciado": "Do ponto de vista da antropologia, o juízo desse viajante é exemplo de:",
+   "alternativas": {
+    "a": "difusionismo, explicação corrente para a propagação de invenções entre povos vizinhos",
+    "b": "relativismo cultural, atitude que procura compreender uma prática a partir do sistema de significados em que ela ganha sentido dentro do grupo que a mantém, sem hierarquizá-la de antemão",
+    "c": "aculturação, processo de contato prolongado entre grupos de repertórios distintos",
+    "d": "endogamia, regra que restringe o casamento ao interior do próprio grupo",
+    "e": "etnocentrismo, avaliação de outra cultura pelos valores da própria, tomados como medida do que seria civilizado"
+   },
+   "resposta": "e",
+   "explicacao": "Etnocentrismo é o hábito de julgar a diversidade cultural pela régua do próprio grupo, convertendo diferença em atraso. A antropologia opõe-lhe o relativismo cultural, que não significa abster-se de julgar, e sim descrever a prática no interior do sistema simbólico que lhe dá sentido. No caso descrito, a identidade cultural do observador funcionou como critério de classificação do outro, e por isso o relato diz tanto sobre quem escreve quanto sobre quem é descrito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-filosofia-sociologia-350",
+   "texto_apoio": "Para Adorno e Horkheimer, os bens culturais fabricados em série apresentam-se ao público como diversão e, ao mesmo tempo, como padronização: o que muda de um produto para o outro é a embalagem, não o esquema.",
+   "enunciado": "A crítica formulada pela Escola de Frankfurt sustenta que a indústria cultural:",
+   "alternativas": {
+    "a": "apaga a distinção entre arte erudita e arte popular ao financiar as duas em igual medida",
+    "b": "converte a experiência estética em consumo padronizado, moldando de antemão a reação do público",
+    "c": "amplia a autonomia do espectador diante das obras, na medida em que a reprodução técnica coloca ao seu alcance um repertório de bens culturais antes reservado a um público restrito",
+    "d": "descreve a mídia como instância neutra de transmissão de conteúdos",
+    "e": "restringe-se ao estudo das artes plásticas produzidas na Alemanha"
+   },
+   "resposta": "b",
+   "explicacao": "Adorno e Horkheimer chamam de indústria cultural o setor que fabrica bens simbólicos segundo o padrão da produção em série. A cultura de massa daí resultante oferece variação aparente e repetição de fundo, o que antecipa e domestica a resposta de quem consome. A mídia, nessa leitura, não é canal neutro: participa da mercantilização da cultura. A alternativa que fala em ampliar a autonomia do espectador corresponde a outra vertente do debate, ligada a Walter Benjamin e à aposta emancipadora na reprodutibilidade técnica.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ]
 }

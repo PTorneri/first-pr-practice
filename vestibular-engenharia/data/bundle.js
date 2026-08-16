@@ -12657,6 +12657,38 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "matematica-sequencias",
+   "id": "med-matematica-521",
+   "enunciado": "Em um teatro, a primeira fila tem 12 poltronas e cada fila seguinte tem 3 poltronas a mais do que a fila imediatamente anterior. O número total de poltronas nas 20 primeiras filas é:",
+   "alternativas": {
+    "a": "780",
+    "b": "840",
+    "c": "810",
+    "d": "741",
+    "e": "690"
+   },
+   "resposta": "c",
+   "explicacao": "As quantidades por fila formam uma progressão aritmética de primeiro termo 12, e a razão da progressão vale 3. O vigésimo termo é 12 + 19 · 3 = 69, e a soma dos 20 primeiros termos é (12 + 69) · 20 ÷ 2 = 810. Os valores 780 e 840 saem de usar 18 ou 20 parcelas de razão no último termo; 741 corresponde a somar apenas 19 filas; 690 vem de multiplicar 69 por 10, o que ignora que o fator 10 deve multiplicar a soma dos extremos, e não só o maior deles.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-522",
+   "enunciado": "Numa dinâmica de sala de aula, o primeiro participante recebe 3 pontos e cada participante seguinte recebe o triplo dos pontos do participante anterior. Quantos pontos recebe o sexto participante?",
+   "alternativas": {
+    "a": "243",
+    "b": "1092",
+    "c": "18",
+    "d": "2187",
+    "e": "729"
+   },
+   "resposta": "e",
+   "explicacao": "A sequência dos pontos é uma progressão geométrica de primeiro termo 3, e a razão da progressão vale 3. O termo geral multiplica o primeiro termo pela razão elevada a n − 1, de modo que o sexto termo é 3 · 3⁵ = 3 · 243 = 729. O valor 243 é o quinto termo; 2187 seria o sétimo; 1092 é a soma dos 6 primeiros termos; e 18 aparece quando se trata a lista como progressão aritmética de razão 3.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
    "id": "dir-matematica-rlm-331",
    "banca": "fgv",
    "sessao": "fgv-unificado-2023.1",
@@ -12715,6 +12747,710 @@ window.QUESTION_BANKS = {
    "banca": "fgv",
    "origem": "direito",
    "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-477",
+   "enunciado": "Uma pesquisa ouviu 130 moradores de um bairro sobre dois aplicativos. Verificou-se que 68 usam o aplicativo de transporte, 52 usam o aplicativo de entrega e 25 usam os dois. Representando a situação num diagrama de Venn, quantos moradores não usam nenhum dos dois aplicativos?",
+   "alternativas": {
+    "a": "35",
+    "b": "95",
+    "c": "70",
+    "d": "43",
+    "e": "27"
+   },
+   "resposta": "a",
+   "explicacao": "Pelo princípio da inclusão e exclusão, o número de elementos da união é |A ∪ B| = 68 + 52 − 25 = 95. Como o universo tem 130 moradores, ficam fora da união 130 − 95 = 35. O valor 95 é a própria união, isto é, quem usa pelo menos um; 70 conta quem usa exatamente um dos dois; 43 e 27 são as diferenças entre conjuntos, quem usa só um dos aplicativos. Esquecer de subtrair a interseção dos conjuntos é o erro clássico aqui.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-478",
+   "enunciado": "Numa loja, 90 clientes foram consultados: 45 compraram o produto A, 39 compraram o produto B e 12 compraram os dois produtos. Quantos clientes compraram exatamente um dos dois produtos?",
+   "alternativas": {
+    "a": "84",
+    "b": "60",
+    "c": "72",
+    "d": "33",
+    "e": "27"
+   },
+   "resposta": "b",
+   "explicacao": "Quem comprou apenas A são 45 − 12 = 33 clientes e quem comprou apenas B são 39 − 12 = 27, de modo que exatamente um dos dois produtos foi comprado por 33 + 27 = 60 clientes. Note que 72 é o número de elementos da união |A ∪ B| = 45 + 39 − 12, que já inclui quem comprou os dois; 84 soma os conjuntos sem descontar a interseção dos conjuntos, contando duas vezes quem está nos dois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-479",
+   "enunciado": "Sejam A e B dois conjuntos finitos tais que A tem 36 elementos, B tem 28 elementos e a interseção dos conjuntos tem 11 elementos. O número de elementos da união A ∪ B é:",
+   "alternativas": {
+    "a": "17",
+    "b": "64",
+    "c": "53",
+    "d": "42",
+    "e": "25"
+   },
+   "resposta": "c",
+   "explicacao": "O princípio da inclusão e exclusão dá |A ∪ B| = |A| + |B| − |A ∩ B| = 36 + 28 − 11 = 53. A alternativa 64 esquece de subtrair a interseção e conta duas vezes cada elemento comum aos dois conjuntos; 42 subtrai a interseção duas vezes e sobra quem pertence a exatamente um dos conjuntos; 25 e 17 são as diferenças entre conjuntos A − B e B − A.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-480",
+   "enunciado": "Num universo U com 150 elementos estão os conjuntos A, com 88 elementos, e B, com 64 elementos, cuja interseção tem 31 elementos. Quantos elementos de U não pertencem a A nem a B?",
+   "alternativas": {
+    "a": "152",
+    "b": "121",
+    "c": "62",
+    "d": "29",
+    "e": "86"
+   },
+   "resposta": "d",
+   "explicacao": "O que se pede é o conjunto complementar da união: |A ∪ B| = 88 + 64 − 31 = 121, e o complementar em U tem 150 − 121 = 29 elementos. As alternativas 62 e 86 dão o complementar de apenas um dos conjuntos; 152 soma A e B sem aplicar a inclusão e exclusão, e por isso ultrapassa o próprio universo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-481",
+   "enunciado": "Numa turma de 45 estudantes, 26 estudam alemão, 24 estudam italiano e 7 não estudam nenhum dos dois idiomas. Quantos estudantes estudam os dois idiomas?",
+   "alternativas": {
+    "a": "50",
+    "b": "7",
+    "c": "2",
+    "d": "38",
+    "e": "12"
+   },
+   "resposta": "e",
+   "explicacao": "Quem estuda pelo menos um idioma são 45 − 7 = 38 estudantes, e esse é o número de elementos da união. Pela inclusão e exclusão, |A ∩ B| = |A| + |B| − |A ∪ B| = 26 + 24 − 38 = 12. A alternativa 38 devolve a união em vez da interseção dos conjuntos; 50 é a soma crua dos dois conjuntos; 2 troca o sinal do termo da união.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-482",
+   "enunciado": "O conjunto A tem 57 elementos e a interseção dos conjuntos A e B tem 23 elementos. Quantos elementos formam a diferença entre conjuntos A − B, isto é, pertencem a A mas não a B?",
+   "alternativas": {
+    "a": "34",
+    "b": "57",
+    "c": "80",
+    "d": "46",
+    "e": "23"
+   },
+   "resposta": "a",
+   "explicacao": "A diferença entre conjuntos A − B reúne os elementos de A que ficam fora de B, logo |A − B| = |A| − |A ∩ B| = 57 − 23 = 34. A alternativa 23 devolve a própria interseção; 57 ignora que parte de A está dentro de B; 80 soma em vez de subtrair; 46 desconta a interseção duas vezes, o que daria 11 se ainda partisse de A.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-483",
+   "enunciado": "Uma pesquisa com 200 leitores mostrou que 110 leem o jornal A, 95 leem o jornal B e 40 leem os dois jornais. Quantos leitores leem apenas o jornal B?",
+   "alternativas": {
+    "a": "70",
+    "b": "55",
+    "c": "165",
+    "d": "35",
+    "e": "95"
+   },
+   "resposta": "b",
+   "explicacao": "Quem lê apenas B está na diferença entre conjuntos B − A: 95 − 40 = 55 leitores. A alternativa 95 é o total de leitores de B, que inclui quem lê também A; 70 é a diferença simétrica pelo outro lado, os que leem apenas A; 165 é o número de elementos da união |A ∪ B|; 35 são os que não leem nenhum dos dois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-484",
+   "enunciado": "Dois conjuntos A e B satisfazem |A ∪ B| = 74, |A| = 48 e |B| = 39. Quantos elementos pertencem simultaneamente aos dois conjuntos?",
+   "alternativas": {
+    "a": "87",
+    "b": "35",
+    "c": "13",
+    "d": "26",
+    "e": "61"
+   },
+   "resposta": "c",
+   "explicacao": "Isolando a interseção na fórmula da inclusão e exclusão: |A ∩ B| = |A| + |B| − |A ∪ B| = 48 + 39 − 74 = 13. A alternativa 87 é a soma dos dois conjuntos sem qualquer desconto; 35 e 26 subtraem um conjunto da união e devolvem uma diferença entre conjuntos, não a interseção; 61 é o que sobra da união depois de retirar a interseção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-485",
+   "enunciado": "Numa escola, 63 alunos participam do coral, 48 participam do grupo de teatro e 105 participam de pelo menos uma dessas duas atividades. Quantos alunos participam das duas atividades?",
+   "alternativas": {
+    "a": "42",
+    "b": "57",
+    "c": "12",
+    "d": "6",
+    "e": "111"
+   },
+   "resposta": "d",
+   "explicacao": "\"Participar de pelo menos uma\" é exatamente o número de elementos da união, logo |A ∩ B| = 63 + 48 − 105 = 6 alunos. A alternativa 111 soma os dois conjuntos e conta duas vezes quem está nos dois; 42 e 57 são diferenças entre conjuntos; 12 dobra a interseção, erro de quem soma as duas contagens do miolo do diagrama de Venn.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-486",
+   "enunciado": "Num condomínio com 96 moradores, 54 assinam o serviço de internet, 41 assinam o serviço de TV e 18 assinam ambos os serviços. Quantos moradores não assinam nenhum dos dois serviços?",
+   "alternativas": {
+    "a": "59",
+    "b": "36",
+    "c": "77",
+    "d": "95",
+    "e": "19"
+   },
+   "resposta": "e",
+   "explicacao": "O diagrama de Venn dá |A ∪ B| = 54 + 41 − 18 = 77 assinantes de pelo menos um serviço, e os demais são 96 − 77 = 19. A alternativa 77 confunde \"não assinam nenhum\" com \"assinam pelo menos um\"; 95 ignora a interseção dos conjuntos; 59 conta quem assina exatamente um; 36 é a diferença entre conjuntos de quem só tem internet.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-487",
+   "enunciado": "Considere os inteiros de 1 a 60. Seja A o conjunto dos múltiplos de 4 e B o conjunto dos múltiplos de 6 nesse intervalo. Quantos elementos tem a união A ∪ B?",
+   "alternativas": {
+    "a": "20",
+    "b": "15",
+    "c": "10",
+    "d": "5",
+    "e": "25"
+   },
+   "resposta": "a",
+   "explicacao": "São 15 múltiplos de 4 e 10 múltiplos de 6. Os elementos comuns aos dois conjuntos são os múltiplos de 12, o mínimo múltiplo comum, e há 5 deles. Pela inclusão e exclusão, |A ∪ B| = 15 + 10 − 5 = 20. A alternativa 25 conta duas vezes cada múltiplo de 12; 15 e 10 devolvem um dos conjuntos isolado; 5 é a interseção dos conjuntos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-488",
+   "enunciado": "Dois conjuntos A e B têm, respectivamente, 30 e 22 elementos, e 9 elementos pertencem aos dois. Quantos elementos formam a diferença simétrica entre A e B, ou seja, pertencem a exatamente um dos dois conjuntos?",
+   "alternativas": {
+    "a": "52",
+    "b": "34",
+    "c": "21",
+    "d": "13",
+    "e": "43"
+   },
+   "resposta": "b",
+   "explicacao": "A diferença simétrica é (A − B) ∪ (B − A): são 21 elementos só em A e 13 só em B, num total de 34. Equivale a |A| + |B| − 2·|A ∩ B| = 30 + 22 − 18 = 34. A alternativa 43 é o número de elementos da união, que também abriga a interseção dos conjuntos; 52 não desconta nada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-489",
+   "enunciado": "Num universo U com 80 elementos, o conjunto complementar de A tem 47 elementos. Sabendo que B tem 29 elementos e que a interseção de A com B tem 12 elementos, o número de elementos da união A ∪ B é:",
+   "alternativas": {
+    "a": "38",
+    "b": "17",
+    "c": "50",
+    "d": "62",
+    "e": "47"
+   },
+   "resposta": "c",
+   "explicacao": "Do complementar vem |A| = 80 − 47 = 33. Aplicando a inclusão e exclusão, |A ∪ B| = 33 + 29 − 12 = 50. A alternativa 62 esquece a interseção dos conjuntos; 47 repete o próprio complementar; 38 retira a interseção uma segunda vez; 17 é a diferença entre conjuntos B − A.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-490",
+   "enunciado": "De 132 candidatos, 79 acertaram a questão de lógica, 58 acertaram a questão de conjuntos e 24 não acertaram nenhuma das duas. Quantos candidatos acertaram as duas questões?",
+   "alternativas": {
+    "a": "50",
+    "b": "108",
+    "c": "137",
+    "d": "29",
+    "e": "24"
+   },
+   "resposta": "d",
+   "explicacao": "Acertaram pelo menos uma 132 − 24 = 108 candidatos, que é o número de elementos da união. Logo |A ∩ B| = 79 + 58 − 108 = 29. A alternativa 108 devolve a união; 137 soma os conjuntos sem inclusão e exclusão; 24 repete quem ficou fora; 50 é a diferença entre conjuntos de quem só acertou a de lógica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-491",
+   "enunciado": "Numa turma de 50 estudantes, cada um pratica ao menos um esporte entre natação e vôlei. Se 31 praticam natação e 27 praticam vôlei, quantos praticam os dois esportes?",
+   "alternativas": {
+    "a": "19",
+    "b": "42",
+    "c": "58",
+    "d": "23",
+    "e": "8"
+   },
+   "resposta": "e",
+   "explicacao": "Como o universo coincide com a união, |A ∪ B| = 50 e a inclusão e exclusão dá |A ∩ B| = 31 + 27 − 50 = 8. A alternativa 58 é a soma dos dois conjuntos, maior que a turma justamente porque conta duas vezes a interseção dos conjuntos; 23 e 19 são as diferenças entre conjuntos; 42 é quem pratica exatamente um esporte.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-492",
+   "enunciado": "Uma pesquisa com 150 pessoas investigou o uso de três aplicativos, A, B e C. Apurou-se que 78 usam A, 65 usam B, 52 usam C, 30 usam A e B, 25 usam A e C, 21 usam B e C, e 12 usam os três. Quantas pessoas não usam nenhum dos três aplicativos?",
+   "alternativas": {
+    "a": "19",
+    "b": "31",
+    "c": "131",
+    "d": "195",
+    "e": "79"
+   },
+   "resposta": "a",
+   "explicacao": "O princípio da inclusão e exclusão para três conjuntos dá |A ∪ B ∪ C| = 78 + 65 + 52 − 30 − 25 − 21 + 12 = 131. Sobram 150 − 131 = 19 pessoas fora da união. A alternativa 31 esquece de somar de volta os 12 do miolo do diagrama de Venn, que foram retirados três vezes; 131 é a própria união; 195 soma os três conjuntos sem desconto; 79 conta quem usa exatamente um aplicativo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-493",
+   "enunciado": "Num levantamento sobre três esportes, 64 jovens praticam futebol, 45 praticam vôlei e 38 praticam basquete; 20 praticam futebol e vôlei, 15 praticam futebol e basquete, 12 praticam vôlei e basquete, e 6 praticam os três. Quantos jovens praticam exatamente um desses esportes?",
+   "alternativas": {
+    "a": "44",
+    "b": "71",
+    "c": "106",
+    "d": "147",
+    "e": "29"
+   },
+   "resposta": "b",
+   "explicacao": "Quem pratica exatamente um esporte resulta de |A|+|B|+|C| − 2(|A∩B|+|A∩C|+|B∩C|) + 3|A∩B∩C| = 147 − 94 + 18 = 71. A alternativa 106 é o número de elementos da união, obtido pela inclusão e exclusão; 147 soma os três conjuntos; 29 conta quem pratica exatamente dois; 44 é a diferença entre conjuntos de quem joga futebol e não vôlei.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-494",
+   "enunciado": "Três cursos livres, A, B e C, foram oferecidos numa escola. Matricularam-se 52 estudantes em A, 44 em B e 36 em C; 18 cursaram A e B, 14 cursaram A e C, 11 cursaram B e C, e 5 cursaram os três. Quantos estudantes cursaram exatamente dois desses cursos?",
+   "alternativas": {
+    "a": "33",
+    "b": "132",
+    "c": "28",
+    "d": "43",
+    "e": "94"
+   },
+   "resposta": "c",
+   "explicacao": "Cada uma das interseções duas a duas já contém os 5 que fizeram os três, e cada um deles aparece nas três interseções. Assim, exatamente dois cursos são 43 − 3·5 = 28. A alternativa 43 soma as interseções sem descontar o miolo do diagrama de Venn; 94 é o número de elementos da união; 33 conta quem fez pelo menos dois; 132 soma os três conjuntos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-495",
+   "enunciado": "Sabe-se que |A| = 95, |B| = 82, |C| = 70, |A ∩ B| = 38, |A ∩ C| = 30, |B ∩ C| = 25 e que a união dos conjuntos A, B e C tem 168 elementos. Quantos elementos pertencem aos três conjuntos ao mesmo tempo?",
+   "alternativas": {
+    "a": "8",
+    "b": "79",
+    "c": "93",
+    "d": "14",
+    "e": "247"
+   },
+   "resposta": "d",
+   "explicacao": "Da inclusão e exclusão, |A ∩ B ∩ C| = |A ∪ B ∪ C| − (|A|+|B|+|C|) + (|A∩B|+|A∩C|+|B∩C|) = 168 − 247 + 93 = 14. A alternativa 93 apenas soma as interseções duas a duas; 247 soma os três conjuntos; 79 subtrai a união da soma crua, esquecendo as interseções; 8 desconta o miolo do diagrama de Venn uma vez a mais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-496",
+   "enunciado": "Numa pesquisa sobre três revistas, 60 leitores assinam a revista A, 48 assinam a B e 40 assinam a C; 22 assinam A e B, 18 assinam A e C, 15 assinam B e C, e 8 assinam as três. Quantos leitores assinam apenas a revista C?",
+   "alternativas": {
+    "a": "40",
+    "b": "7",
+    "c": "22",
+    "d": "101",
+    "e": "15"
+   },
+   "resposta": "e",
+   "explicacao": "Quem assina apenas C sai de |C| retirando as duas interseções e devolvendo o miolo, contado a menos: 40 − 18 − 15 + 8 = 15. A alternativa 40 é o total de assinantes de C; 7 esquece de somar de volta os 8 que estão no centro do diagrama de Venn e foram descontados duas vezes; 101 é o número de elementos da união.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-497",
+   "enunciado": "Numa turma, 27 estudantes participam ao mesmo tempo dos projetos A e B, e destes 11 participam também do projeto C. Quantos estudantes participam de A e B, mas não de C?",
+   "alternativas": {
+    "a": "16",
+    "b": "11",
+    "c": "33",
+    "d": "38",
+    "e": "27"
+   },
+   "resposta": "a",
+   "explicacao": "A região do diagrama de Venn pedida é (A ∩ B) − C, que tem 27 − 11 = 16 estudantes. A alternativa 27 devolve a interseção dos conjuntos A e B inteira, incluindo quem também faz C; 11 repete o miolo; 33 triplica esse miolo, erro de quem soma a mesma região nas três interseções; 38 soma em vez de subtrair. Vale notar que 22 também não corresponde a região alguma do diagrama.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-498",
+   "enunciado": "Numa empresa, 72 funcionários falam inglês, 58 falam espanhol e 46 falam francês; 26 falam inglês e espanhol, 20 falam inglês e francês, 17 falam espanhol e francês, e 10 falam os três idiomas. Além disso, 24 funcionários não falam nenhum desses idiomas. Quantos funcionários tem a empresa?",
+   "alternativas": {
+    "a": "123",
+    "b": "147",
+    "c": "176",
+    "d": "113",
+    "e": "133"
+   },
+   "resposta": "b",
+   "explicacao": "A união dos conjuntos vale 176 − 63 + 10 = 123 pela inclusão e exclusão, e o total da empresa é essa união somada aos 24 que não falam nenhum: 123 + 24 = 147. A alternativa 123 para no número de elementos da união; 176 soma os três conjuntos sem descontar as interseções; 113 esquece de devolver o miolo do diagrama de Venn.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-499",
+   "enunciado": "Numa pesquisa sobre três serviços de streaming, as assinaturas simultâneas foram: 30 pessoas assinam A e B, 24 assinam A e C, 19 assinam B e C, e 11 assinam os três. Quantas pessoas assinam pelo menos dois desses serviços?",
+   "alternativas": {
+    "a": "84",
+    "b": "73",
+    "c": "51",
+    "d": "40",
+    "e": "11"
+   },
+   "resposta": "c",
+   "explicacao": "Somando a interseção dos conjuntos duas a duas chega-se a 73, mas quem assina os três foi contado três vezes e deve valer uma só: 73 − 2·11 = 51. É o mesmo ajuste do princípio da inclusão e exclusão, que corrige as contagens repetidas antes de calcular o número de elementos da união. A alternativa 73 mantém a contagem tripla do miolo do diagrama de Venn; 40 conta apenas quem assina exatamente dois; 11 repete o centro; 84 soma em vez de descontar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-500",
+   "enunciado": "Na tabela-verdade da condicional p → q, com p e q proposições simples, essa proposição composta assume valor lógico falso em qual situação?",
+   "alternativas": {
+    "a": "p falsa e q falsa",
+    "b": "p verdadeira e q verdadeira",
+    "c": "em duas situações distintas: p falsa com q verdadeira e também p verdadeira com q verdadeira",
+    "d": "p verdadeira e q falsa",
+    "e": "p falsa e q verdadeira"
+   },
+   "resposta": "d",
+   "explicacao": "A condicional p → q só é falsa quando o antecedente é verdadeiro e o consequente é falso; nas outras três linhas da tabela-verdade ela é verdadeira, inclusive nas duas em que p é falsa. Por isso a negação da condicional é p ∧ ~q, e não outra condicional. Quem marca as demais alternativas costuma confundir a condicional com a bicondicional, que exige mesmo valor lógico dos dois lados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-501",
+   "enunciado": "Uma proposição composta é construída aplicando conectivos às proposições p, q, r e s, todas elas proposições simples. Quantas linhas tem a tabela-verdade dessa proposição composta?",
+   "alternativas": {
+    "a": "12",
+    "b": "32",
+    "c": "4",
+    "d": "8",
+    "e": "16"
+   },
+   "resposta": "e",
+   "explicacao": "Cada proposição simples admite dois valores lógicos, e para todo conjunto de n proposições simples a tabela-verdade tem 2 elevado a n linhas. Com n = 4, são 2·2·2·2 = 16 linhas. A alternativa 8 corresponde a três proposições; 32 corresponde a cinco; 12 soma em vez de multiplicar as possibilidades; 4 conta apenas as proposições, não as combinações de valor lógico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-502",
+   "enunciado": "Considere as proposições p e q e a proposição composta (p ∧ q) → ~p. Em quantas das quatro linhas da tabela-verdade essa proposição composta é verdadeira?",
+   "alternativas": {
+    "a": "3",
+    "b": "4",
+    "c": "0",
+    "d": "1",
+    "e": "2"
+   },
+   "resposta": "a",
+   "explicacao": "A conjunção p ∧ q só é verdadeira na linha em que p e q são ambas verdadeiras; nessa linha ~p é falsa e a condicional fica falsa. Nas outras três linhas o antecedente é falso e a condicional assume valor lógico verdadeiro. Logo são 3 linhas verdadeiras. Marcar 4 é esquecer a linha em que a condicional falha; marcar 1 é inverter o papel do antecedente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-503",
+   "enunciado": "Qual das proposições abaixo é logicamente equivalente à condicional p → q?",
+   "alternativas": {
+    "a": "p ∧ ~q",
+    "b": "~p ∨ q",
+    "c": "~p ∧ q",
+    "d": "p ∨ ~q",
+    "e": "a conjunção de p com a negação de q, que é justamente o caso em que a condicional falha"
+   },
+   "resposta": "b",
+   "explicacao": "Comparando linha a linha na tabela-verdade, p → q e ~p ∨ q têm o mesmo valor lógico nas quatro linhas: ambas só falham com p verdadeira e q falsa. Já p ∧ ~q é a negação da condicional, não a sua equivalente — e é esse mesmo erro que aparece descrito por extenso entre as opções. As formas ~p ∧ q e p ∨ ~q divergem da condicional em pelo menos uma linha da tabela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-504",
+   "enunciado": "Sendo p e q proposições simples, a negação da proposição composta p ∧ q é:",
+   "alternativas": {
+    "a": "p → ~q",
+    "b": "q → p",
+    "c": "~p ∨ ~q",
+    "d": "~p ∧ ~q",
+    "e": "p ∨ q"
+   },
+   "resposta": "c",
+   "explicacao": "Pelas leis de De Morgan, negar uma conjunção troca o conectivo lógico e nega as duas partes: ~(p ∧ q) equivale a ~p ∨ ~q. A alternativa ~p ∧ ~q nega as duas partes mas mantém a conjunção, e só é verdadeira quando as duas falham ao mesmo tempo — a tabela-verdade separa os dois casos. As demais mudam o valor lógico em pelo menos uma linha.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-505",
+   "enunciado": "A bicondicional p ↔ q, lida como \"p se e somente se q\", é verdadeira exatamente quando:",
+   "alternativas": {
+    "a": "p é verdadeira e q é falsa",
+    "b": "p é falsa e q é verdadeira",
+    "c": "basta que uma das duas proposições seja verdadeira para a bicondicional se verificar",
+    "d": "p e q têm o mesmo valor lógico",
+    "e": "p e q têm valores lógicos diferentes"
+   },
+   "resposta": "d",
+   "explicacao": "A bicondicional é a conjunção das duas condicionais, (p → q) ∧ (q → p), e por isso é verdadeira nas duas linhas da tabela-verdade em que p e q coincidem em valor lógico, e falsa nas outras duas. Contentar-se com uma das duas proposições verdadeira é descrever a disjunção, não a bicondicional; isso bastaria se o enunciado dissesse \"ou\", e não \"se e somente se\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-506",
+   "enunciado": "Um inteiro é divisível por 6 se e somente se for divisível por 2 e por 3. Nessa afirmação, ser divisível por 2 e por 3 é, em relação à divisibilidade por 6:",
+   "alternativas": {
+    "a": "condição necessária, mas não suficiente",
+    "b": "condição suficiente, mas não necessária",
+    "c": "uma condição sem relação com a divisibilidade por 6",
+    "d": "condição apenas suficiente, já que há múltiplos de 6 que deixam de ser múltiplos de 3",
+    "e": "condição necessária e suficiente"
+   },
+   "resposta": "e",
+   "explicacao": "A expressão \"se e somente se\" indica uma bicondicional, e numa bicondicional a segunda parte é ao mesmo tempo condição necessária e suficiente para a primeira: a implicação vale nos dois sentidos, com o mesmo valor lógico dos dois lados. As opções que separam necessária de suficiente descrevem uma condicional simples, que vale num sentido só. Chamar a condição de apenas suficiente é falso também no conteúdo: cada múltiplo de 6 é múltiplo de 3.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-507",
+   "enunciado": "Considere a proposição quantificada: \"Todo estudante desta turma foi aprovado no exame\". Qual das alternativas expressa corretamente a negação dessa proposição?",
+   "alternativas": {
+    "a": "Existe pelo menos um estudante desta turma que não foi aprovado no exame.",
+    "b": "Nenhum estudante desta turma foi aprovado no exame.",
+    "c": "Existe pelo menos um estudante desta turma que foi aprovado no exame.",
+    "d": "Os estudantes desta turma deixaram de ser aprovados no exame.",
+    "e": "Existe pelo menos um estudante de outra turma que não foi aprovado no exame do semestre."
+   },
+   "resposta": "a",
+   "explicacao": "A negação lógica da proposição universal \"para todo x, vale P(x)\" é a proposição existencial \"existe pelo menos um x para o qual P(x) falha\": o quantificador universal vira existencial e a propriedade é negada. Negar que a aprovação alcançou o grupo inteiro não obriga a que ninguém tenha sido aprovado, e afirmar isso seria forte demais. Falar de estudantes de outra turma muda o universo do enunciado, e dizer que existe um aprovado preserva o valor lógico da proposição original em vez de negá-lo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-508",
+   "enunciado": "Qual é a negação da proposição \"Existe pelo menos um candidato que não entregou os documentos exigidos\"?",
+   "alternativas": {
+    "a": "Nenhum candidato entregou os documentos exigidos.",
+    "b": "Cada candidato entregou os documentos exigidos.",
+    "c": "Há candidatos que deixaram de entregar os documentos exigidos.",
+    "d": "Cada candidato deixou de entregar ao menos um dos documentos exigidos na inscrição.",
+    "e": "Existe pelo menos um candidato que entregou os documentos exigidos."
+   },
+   "resposta": "b",
+   "explicacao": "Negar uma proposição existencial produz uma proposição universal com a propriedade negada: se é falso que existe um caso de falta, então para todo candidato a entrega ocorreu. O quantificador existencial vira universal. Dizer que há candidatos que deixaram de entregar apenas repete a proposição original com outras palavras, mantendo o mesmo valor lógico; afirmar que ninguém entregou, ou que cada candidato falhou em algum documento, vai muito além do que a negação exige.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-509",
+   "enunciado": "A proposição \"Algum morador do prédio pratica ioga\" tem como negação lógica:",
+   "alternativas": {
+    "a": "Há moradores do prédio que praticam ioga e moradores que não praticam ioga.",
+    "b": "Algum morador do prédio deixa de praticar ioga.",
+    "c": "Nenhum morador do prédio pratica ioga.",
+    "d": "Existe pelo menos um morador do prédio que pratica ioga.",
+    "e": "Cada morador do prédio pratica ioga."
+   },
+   "resposta": "c",
+   "explicacao": "A negação lógica da proposição parte do quantificador: \"algum\" é o existencial, e negar \"existe pelo menos um caso\" equivale a afirmar que para todo morador a propriedade falha — em português, \"nenhum morador pratica ioga\". Dizer que algum morador deixa de praticar nega a propriedade sem mexer no quantificador, e pode conviver com a proposição original sem contradizê-la; falar em existir quem pratique é repetir a original; e afirmar as duas coisas ao mesmo tempo não inverte o valor lógico de coisa alguma.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-510",
+   "enunciado": "Numa fábrica, afirma-se que \"toda peça produzida nesta linha passa pelo controle de qualidade\". Para mostrar que essa afirmação é falsa, basta exibir:",
+   "alternativas": {
+    "a": "que nenhuma peça produzida nesta linha passa pelo controle de qualidade",
+    "b": "uma peça de outra linha que não passa pelo controle de qualidade",
+    "c": "que as peças produzidas nesta linha e nas demais linhas deixam de passar pelo controle de qualidade",
+    "d": "uma peça produzida nesta linha que não passa pelo controle de qualidade",
+    "e": "uma peça produzida nesta linha que passa pelo controle de qualidade"
+   },
+   "resposta": "d",
+   "explicacao": "A negação lógica da proposição com quantificador universal é existencial: para todo caso valia a propriedade, e basta um contraexemplo para inverter o valor lógico da afirmação. Exigir que nenhuma peça passe pelo controle é pedir muito mais do que a negação; e uma peça de outra linha nada diz sobre a linha citada, porque o universo da proposição é apenas esta linha de produção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-511",
+   "enunciado": "Considere a condicional \"Se chove, então a rua fica molhada\". A contrapositiva dessa condicional é:",
+   "alternativas": {
+    "a": "Chove e a rua não fica molhada.",
+    "b": "Se a rua fica molhada, então não choveu, invertendo a ordem das duas partes da condicional.",
+    "c": "Se não chove, então a rua não fica molhada.",
+    "d": "Se a rua fica molhada, então choveu.",
+    "e": "Se a rua não fica molhada, então não choveu."
+   },
+   "resposta": "e",
+   "explicacao": "A contrapositiva de p → q é ~q → ~p, e as duas têm o mesmo valor lógico em cada linha da tabela-verdade. Partir de \"não chove\" produz a inversa (~p → ~q) e partir de \"a rua fica molhada\" produz a recíproca (q → p); nenhuma das duas equivale à condicional original. Afirmar que chove e a rua não fica molhada é a negação da condicional, p ∧ ~q. Trocar a inversa pela contrapositiva é o erro mais frequente nesse item.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-512",
+   "enunciado": "Dada a condicional \"Se um inteiro é múltiplo de 10, então ele é par\", a recíproca dessa condicional é:",
+   "alternativas": {
+    "a": "Se um inteiro é par, então ele é múltiplo de 10.",
+    "b": "Se um inteiro não é múltiplo de 10, então ele não é par.",
+    "c": "Se um inteiro não é par, então ele não é múltiplo de 10.",
+    "d": "Um inteiro é múltiplo de 10 e não é par.",
+    "e": "Se um inteiro é par, então ele não é múltiplo de 10, pois pode terminar em outro algarismo."
+   },
+   "resposta": "a",
+   "explicacao": "A recíproca de p → q é q → p: troca-se a ordem das partes sem negar nada. Negar as duas partes na ordem original produz a inversa; negá-las já invertidas produz a contrapositiva, esta sim com o mesmo valor lógico da condicional original; e afirmar que o inteiro é múltiplo de 10 sem ser par é a negação da condicional. Vale observar que a recíproca aqui é falsa, já que 14 é par sem ser múltiplo de 10, o que mostra que uma condicional verdadeira não arrasta a sua recíproca.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-513",
+   "enunciado": "Qual das proposições abaixo é a negação da condicional \"Se estudo, então passo no exame\"?",
+   "alternativas": {
+    "a": "Se não estudo, então não passo no exame.",
+    "b": "Estudo e não passo no exame.",
+    "c": "Se não passo no exame, então não estudo.",
+    "d": "Não estudo ou passo no exame.",
+    "e": "Se estudo, então não passo no exame, bastando negar a segunda parte da condicional."
+   },
+   "resposta": "b",
+   "explicacao": "A negação da condicional p → q é p ∧ ~q, a única situação em que a tabela-verdade dá falso: o antecedente ocorre e o consequente falha. Partir de \"não estudo\" dá a inversa, partir de \"não passo\" dá a contrapositiva, e \"não estudo ou passo\" é justamente uma forma equivalente à condicional original (~p ∨ q) — de modo que nenhuma delas nega coisa alguma. Negar só o consequente mantendo o \"se\" continua produzindo uma condicional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-514",
+   "enunciado": "Considere as premissas: \"Todo professor desta escola tem pós-graduação\" e \"Toda pessoa com pós-graduação concluiu a graduação\". Qual conclusão se segue necessariamente dessas premissas?",
+   "alternativas": {
+    "a": "Cada pessoa que concluiu a graduação leciona nesta escola.",
+    "b": "Cada pessoa com pós-graduação leciona nesta escola.",
+    "c": "Cada professor desta escola concluiu a graduação.",
+    "d": "Existe pelo menos um professor desta escola que não concluiu a graduação.",
+    "e": "Existe pelo menos uma pessoa com pós-graduação que não leciona nesta escola."
+   },
+   "resposta": "c",
+   "explicacao": "Cada premissa é uma proposição lógica de forma universal, e num silogismo desse tipo a propriedade se transmite: para todo professor vale a pós-graduação, e para todo pós-graduado vale a graduação concluída. Encadeando as duas, obtém-se um argumento válido. As opções que invertem o sentido da inclusão trocam a condicional pela recíproca, e a que aponta um pós-graduado fora da escola, embora plausível no mundo real, não decorre das premissas dadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-515",
+   "enunciado": "Sabe-se que \"se um inteiro termina em 0, então ele é par\". Informa-se, além disso, que certo inteiro é par. O que se pode concluir sobre esse inteiro?",
+   "alternativas": {
+    "a": "Ele termina em 0.",
+    "b": "Ele não termina em 0.",
+    "c": "Ele não é par.",
+    "d": "Nada se conclui: ele pode ser par sem terminar em 0.",
+    "e": "Ele termina em 0, porque a condicional autoriza a leitura da implicação nos dois sentidos."
+   },
+   "resposta": "d",
+   "explicacao": "Afirmar o consequente não é um argumento válido: das premissas p → q e q não se deduz p. Concluir que o inteiro termina em 0 seria usar a recíproca da condicional, que não decorre dela — 24 é par e termina em 4. Só a contrapositiva preserva o valor lógico da condicional, de modo que a informação útil seria saber que o inteiro não é par.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-516",
+   "enunciado": "Considere as premissas: \"Cada atleta da equipe treina pela manhã\" e \"Existe pelo menos um atleta da equipe que é canhoto\". Qual conclusão é válida?",
+   "alternativas": {
+    "a": "Existe pelo menos um atleta da equipe que treina à tarde.",
+    "b": "Nenhum canhoto treina pela manhã.",
+    "c": "Existe pelo menos um canhoto da equipe que treina à tarde, e não pela manhã.",
+    "d": "Cada canhoto treina pela manhã.",
+    "e": "Existe pelo menos um canhoto que treina pela manhã."
+   },
+   "resposta": "e",
+   "explicacao": "A primeira premissa é universal: para todo atleta da equipe vale o treino matinal. A segunda garante que a interseção dos conjuntos \"atletas da equipe\" e \"canhotos\" não é vazia. Logo há ao menos um canhoto no grupo que treina pela manhã, e o silogismo é um argumento válido. Concluir que o quantificador universal alcança os canhotos em geral extrapola as premissas, pois nada se disse sobre canhotos de fora da equipe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-517",
+   "enunciado": "Num certame, ser aprovado no exame é condição necessária para receber o certificado. Disso decorre que:",
+   "alternativas": {
+    "a": "quem recebeu o certificado foi aprovado no exame",
+    "b": "quem não recebeu o certificado não foi aprovado no exame",
+    "c": "ser aprovado no exame e receber o certificado são a mesma coisa",
+    "d": "quem foi aprovado no exame recebeu o certificado, pois a aprovação já basta para obtê-lo",
+    "e": "quem foi aprovado no exame recebeu o certificado"
+   },
+   "resposta": "a",
+   "explicacao": "Dizer que A é condição necessária para B é dizer B → A: receber o certificado implica ter sido aprovado. Isso não autoriza o caminho inverso, que exigiria uma condição necessária e suficiente, ou seja, uma bicondicional. Concluir que quem não recebeu o certificado não foi aprovado é usar a inversa da condicional, que não decorre dela; e concluir que a aprovação garantiu o certificado troca necessária por suficiente, erro que a tabela-verdade da condicional desfaz de imediato.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-518",
+   "enunciado": "Considere as proposições p, q e a proposição composta (~p) ∨ q. Em quantas das quatro linhas da tabela-verdade essa proposição composta é verdadeira?",
+   "alternativas": {
+    "a": "4",
+    "b": "3",
+    "c": "2",
+    "d": "1",
+    "e": "0"
+   },
+   "resposta": "b",
+   "explicacao": "A disjunção só é falsa quando as duas partes falham, isto é, quando ~p é falsa (p verdadeira) e q é falsa. Isso ocorre numa única linha, então nas outras 3 a proposição composta tem valor lógico verdadeiro. Essa composta é a forma equivalente da condicional p → q, e por isso a negação da condicional é p ∧ ~q, verdadeira exatamente naquela linha isolada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-519",
+   "enunciado": "Qual é a negação da proposição \"João estuda e trabalha\"?",
+   "alternativas": {
+    "a": "João estuda ou trabalha.",
+    "b": "João não estuda e não trabalha.",
+    "c": "João não estuda ou não trabalha.",
+    "d": "João não estuda, mas trabalha.",
+    "e": "João não estuda e não trabalha, já que negar uma conjunção pede negar as duas partes de uma vez."
+   },
+   "resposta": "c",
+   "explicacao": "A proposição composta tem a forma p ∧ q, e pelas leis de De Morgan a sua negação é ~p ∨ ~q: o conectivo lógico troca de conjunção para disjunção e cada parte é negada. Basta que uma das duas atividades falhe para que a afirmação original seja falsa, o que a tabela-verdade confirma. Exigir que as duas atividades falhem ao mesmo tempo é confundir a negação da conjunção com a conjunção das negações.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-520",
+   "enunciado": "Numa turma, cada estudante que faz o curso de robótica faz também o curso de programação. Sabendo que 18 estudantes fazem programação e 7 fazem robótica, quantos fazem programação sem fazer robótica?",
+   "alternativas": {
+    "a": "7",
+    "b": "3",
+    "c": "25",
+    "d": "11",
+    "e": "18"
+   },
+   "resposta": "d",
+   "explicacao": "A hipótese diz que para todo estudante de robótica vale também a programação, ou seja, o conjunto da robótica está contido no da programação, e no diagrama de Venn uma das regiões fica inteiramente dentro da outra. A interseção dos conjuntos é então o próprio grupo de robótica, e a diferença entre conjuntos procurada vale 18 − 7 = 11. A alternativa 25 soma os dois grupos como se fossem separados; 18 e 7 repetem os totais dados.",
+   "formato": "direta",
+   "origem": "medicina"
   },
   {
    "subtema": "matematica-logica-conjuntos",
@@ -16339,6 +17075,38 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Na panela de pressão, o aumento da pressão interna eleva o ponto de ebulição da água para acima de 100°C, permitindo que o alimento cozinhe em temperatura mais alta e, portanto, mais rapidamente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-486",
+   "enunciado": "Em um recipiente termicamente isolado, misturam-se 300 g de água a 80 °C com 200 g de água a 30 °C. Considerando que só há troca de calor entre as duas porções e que o calor específico da água vale 1,0 cal/(g·°C), a temperatura de equilíbrio térmico da mistura é de:",
+   "alternativas": {
+    "a": "40 °C",
+    "b": "45 °C",
+    "c": "50 °C",
+    "d": "55 °C",
+    "e": "60 °C"
+   },
+   "resposta": "e",
+   "explicacao": "O calor cedido pela porção quente iguala o recebido pela fria: 300 × 1,0 × (80 − T) = 200 × 1,0 × (T − 30). Daí 24 000 − 300T = 200T − 6 000, ou seja, 500T = 30 000 e T = 60 °C. A temperatura de equilíbrio térmico fica mais próxima da porção de maior massa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-487",
+   "enunciado": "Um trilho de aço de 20 m de comprimento é assentado a 10 °C. Em um dia de verão, sua temperatura chega a 50 °C. Sendo 1,2 × 10⁻⁵ °C⁻¹ o coeficiente de dilatação linear do aço, o acréscimo de comprimento do trilho é de:",
+   "alternativas": {
+    "a": "0,96 mm",
+    "b": "4,8 mm",
+    "c": "9,6 mm",
+    "d": "12,0 mm",
+    "e": "19,2 mm"
+   },
+   "resposta": "c",
+   "explicacao": "Na dilatação linear, ΔL = L₀ · α · ΔT. Com L₀ = 20 m, α = 1,2 × 10⁻⁵ °C⁻¹ e ΔT = 50 − 10 = 40 °C, tem-se ΔL = 20 × 1,2 × 10⁻⁵ × 40 = 9,6 × 10⁻³ m, isto é, 9,6 mm. É por isso que se deixa folga entre trilhos consecutivos.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -23613,6 +24381,664 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-moderna",
+   "id": "med-fisica-447",
+   "texto_apoio": "Múons produzidos na alta atmosfera atravessam quilômetros de ar antes de chegar ao chão. No referencial em que o múon está parado, seu tempo médio de vida vale 2,0 µs. Um detector registra múons cujo fator de Lorentz, medido da Terra, vale γ = 1,25.",
+   "enunciado": "Pela dilatação do tempo prevista pela relatividade restrita, o tempo médio de vida desse múon medido por um observador no chão é de:",
+   "alternativas": {
+    "a": "1,6 µs",
+    "b": "2,0 µs",
+    "c": "2,5 µs",
+    "d": "3,2 µs",
+    "e": "4,0 µs"
+   },
+   "resposta": "c",
+   "explicacao": "O tempo próprio Δt₀ = 2,0 µs é o intervalo medido no relógio que acompanha o múon, e é o menor de todos. Em outro referencial vale Δt = γ·Δt₀ = 1,25 × 2,0 = 2,5 µs. A alternativa (a) divide por γ em vez de multiplicar — é o erro de trocar γ por 1/γ, que serve para a contração do comprimento, não para a dilatação do tempo; (b) ignora o efeito relativístico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-448",
+   "texto_apoio": "Uma sonda tem 30 m de comprimento próprio — aquele medido no referencial em que ela está em repouso. Ela cruza uma estação com velocidade tal que o fator de Lorentz vale γ = 2,5.",
+   "enunciado": "Segundo a relatividade restrita, o comprimento da sonda medido pelos instrumentos da estação é de:",
+   "alternativas": {
+    "a": "7,5 m",
+    "b": "12 m",
+    "c": "30 m",
+    "d": "75 m",
+    "e": "18 m"
+   },
+   "resposta": "b",
+   "explicacao": "A contração do comprimento vale só na direção do movimento e divide o comprimento próprio pelo fator de Lorentz: L = L₀/γ = 30/2,5 = 12 m. A alternativa (d), 75 m, multiplica por γ — objeto nenhum é medido maior do que o próprio comprimento de repouso; (c) ignora o efeito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-449",
+   "texto_apoio": "Uma nave espacial se afasta da Terra a 0,50c e lança para a frente uma sonda que, medida a bordo, se move a 0,50c em relação à nave. A composição relativística de velocidades é u = (v + u′)/(1 + v·u′/c²).",
+   "enunciado": "A velocidade da sonda medida por um observador na Terra é de:",
+   "alternativas": {
+    "a": "0,25c",
+    "b": "0,40c",
+    "c": "0,50c",
+    "d": "0,80c",
+    "e": "1,00c"
+   },
+   "resposta": "d",
+   "explicacao": "Substituindo: (0,50 + 0,50)/(1 + 0,25) = 1,00/1,25 = 0,80c. A alternativa (e) adiciona as duas velocidades como a mecânica de Newton faria, e daria 1,00c — resultado que a relatividade restrita descarta, porque entre referenciais inerciais a velocidade da luz permanece o teto e nenhuma composição de velocidades menores que c o ultrapassa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-450",
+   "texto_apoio": "Uma nave espacial se aproxima de um observatório a 0,80c e acende um farol na direção do movimento.",
+   "enunciado": "A velocidade da luz desse farol, medida pelos instrumentos do observatório, vale:",
+   "alternativas": {
+    "a": "0,20c",
+    "b": "0,80c",
+    "c": "1,00c",
+    "d": "1,64c",
+    "e": "1,80c"
+   },
+   "resposta": "c",
+   "explicacao": "O segundo postulado da relatividade restrita diz que a luz se propaga com o mesmo valor c em referenciais inerciais distintos, não importa como se mova a fonte. Por isso o observatório mede 1,00c, e não 1,80c — este seria o resultado da adição de velocidades da mecânica de Newton, que vale como aproximação apenas para velocidades muito menores que c.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-451",
+   "enunciado": "Uma partícula se move a 0,80c em relação ao laboratório. O fator de Lorentz γ = 1/√(1 − v²/c²) associado a ela vale aproximadamente:",
+   "alternativas": {
+    "a": "1,67",
+    "b": "0,60",
+    "c": "1,25",
+    "d": "1,80",
+    "e": "2,50"
+   },
+   "resposta": "a",
+   "explicacao": "Com v/c = 0,80, v²/c² = 0,64 e 1 − 0,64 = 0,36, cuja raiz é 0,60. Logo γ = 1/0,60 ≈ 1,67. A alternativa (b) entrega justamente 0,60, isto é, 1/γ; a relatividade restrita exige γ ≥ 1, então valor menor que 1 já se descarta sem conta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-452",
+   "texto_apoio": "Dentro de um vagão que viaja em linha reta com velocidade constante, dois flashes disparam ao mesmo tempo, um em cada ponta do vagão, segundo a passageira sentada no meio dele.",
+   "enunciado": "Para um observador parado na plataforma, esses dois flashes:",
+   "alternativas": {
+    "a": "disparam em instantes diferentes, porque a simultaneidade de eventos separados no espaço depende do referencial",
+    "b": "disparam no mesmo instante, já que intervalos de tempo têm o mesmo valor em referenciais inerciais distintos",
+    "c": "disparam no mesmo instante, mas com as pontas do vagão trocadas em relação ao que a passageira registra",
+    "d": "disparam em instantes diferentes apenas porque a luz de uma das pontas leva mais tempo para chegar ao olho do observador da plataforma",
+    "e": "disparam em instantes diferentes porque o vagão encurta e as duas pontas se aproximam do centro durante a viagem"
+   },
+   "resposta": "a",
+   "explicacao": "É o trem de Einstein. A relatividade restrita mostra que a simultaneidade de eventos separados no espaço não é absoluta: dois disparos simultâneos no vagão deixam de ser simultâneos na plataforma. A alternativa (d) descreve um atraso de propagação da luz, que se corrige descontando o tempo de trajeto e não tem nada de relativístico; a diferença aqui permanece depois dessa correção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-453",
+   "texto_apoio": "Duas irmãs gêmeas se separam: uma fica na Terra e a outra parte numa nave espacial cujo fator de Lorentz em relação à Terra vale γ = 2,0 na ida e na volta.",
+   "enunciado": "Se a viagem dura 10 anos pelos relógios da Terra, o tempo transcorrido para a irmã que viajou é de:",
+   "alternativas": {
+    "a": "2,5 anos",
+    "b": "10 anos",
+    "c": "15 anos",
+    "d": "20 anos",
+    "e": "5,0 anos"
+   },
+   "resposta": "e",
+   "explicacao": "O relógio que acompanha a viajante marca o tempo próprio, Δt₀ = Δt/γ = 10/2,0 = 5,0 anos. A dilatação do tempo faz a viajante voltar mais nova que a irmã. A alternativa (d) multiplica por γ em vez de dividir; (b) ignora o efeito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-454",
+   "texto_apoio": "Ao se juntarem para formar um núcleo de hélio-4, dois prótons e dois nêutrons perdem 5,0 × 10⁻²⁹ kg de massa. Adote para a velocidade da luz no vácuo o valor 3,0 × 10⁸ m/s.",
+   "enunciado": "Pela equivalência massa-energia E = mc², a energia de ligação correspondente a essa perda de massa é de:",
+   "alternativas": {
+    "a": "1,5 × 10⁻²⁰ J",
+    "b": "4,5 × 10⁻¹² J",
+    "c": "9,0 × 10⁻¹² J",
+    "d": "4,5 × 10⁻¹³ J",
+    "e": "1,5 × 10⁻¹² J"
+   },
+   "resposta": "b",
+   "explicacao": "E = Δm·c² = 5,0 × 10⁻²⁹ × (3,0 × 10⁸)² = 5,0 × 10⁻²⁹ × 9,0 × 10¹⁶ = 4,5 × 10⁻¹² J. A alternativa (a) usa c em vez de c² e erra por oito ordens de grandeza. A energia de repouso que desaparece da balança é exatamente a que a relatividade restrita converte em energia de ligação do núcleo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-455",
+   "enunciado": "Uma partícula de energia de repouso E₀ = 900 MeV se move com fator de Lorentz γ = 5/3 em relação ao laboratório. Sua energia total, dada por E = γE₀, vale:",
+   "alternativas": {
+    "a": "540 MeV",
+    "b": "900 MeV",
+    "c": "600 MeV",
+    "d": "1500 MeV",
+    "e": "2400 MeV"
+   },
+   "resposta": "d",
+   "explicacao": "E = γE₀ = (5/3) × 900 = 1500 MeV. A alternativa (a), 540 MeV, divide por γ — confusão com a contração do comprimento; a relatividade restrita exige energia total maior que a de repouso para qualquer partícula em movimento, o que já elimina 540 e 600 MeV.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-456",
+   "enunciado": "A energia cinética relativística de uma partícula é Ec = (γ − 1)mc². Para uma partícula cujo fator de Lorentz vale γ = 5/3, a energia cinética, medida em unidades da energia de repouso mc², vale:",
+   "alternativas": {
+    "a": "0,25 mc²",
+    "b": "0,50 mc²",
+    "c": "0,67 mc²",
+    "d": "1,67 mc²",
+    "e": "2,67 mc²"
+   },
+   "resposta": "c",
+   "explicacao": "Ec = (γ − 1)mc² = (5/3 − 1)mc² = (2/3)mc² ≈ 0,67 mc². A alternativa (d) esquece de subtrair 1 e entrega γmc², que é a energia TOTAL, não a cinética; (e) subtrai 1 depois de dobrar γ. Note que ½mv² daria 0,32 mc² e não serve nessa faixa de velocidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-457",
+   "enunciado": "Pela expressão da energia cinética relativística, Ec = (γ − 1)mc², à medida que a velocidade de uma partícula dotada de massa se aproxima da velocidade da luz:",
+   "alternativas": {
+    "a": "a energia cinética cresce sem limite, de modo que nenhuma quantidade finita de energia leva a partícula até c",
+    "b": "a energia cinética estaciona num patamar igual à energia de repouso mc² da partícula",
+    "c": "a energia cinética diminui, porque o fator de Lorentz tende a zero nessa faixa de velocidade",
+    "d": "a energia cinética passa a valer ½mv², como na mecânica de Newton",
+    "e": "a energia cinética cresce em proporção direta à velocidade, de modo que dobrar a velocidade dobra a energia cinética e assim por diante"
+   },
+   "resposta": "a",
+   "explicacao": "Quando v → c, o denominador √(1 − v²/c²) tende a zero e o fator de Lorentz cresce sem limite; com ele, (γ − 1)mc². É por isso que a relatividade restrita põe a velocidade da luz como limite inatingível para corpos com massa. A expressão ½mv² de (d) é a aproximação válida só para v ≪ c.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-458",
+   "texto_apoio": "Um múon criado a 6,0 km de altitude chega ao chão. No referencial da Terra, essa é a distância que ele percorre; no referencial do múon, quem se aproxima é o chão, e o fator de Lorentz do movimento vale γ = 5,0.",
+   "enunciado": "No referencial em que o múon está parado, a espessura de atmosfera que passa por ele mede:",
+   "alternativas": {
+    "a": "0,24 km",
+    "b": "3,0 km",
+    "c": "30 km",
+    "d": "6,0 km",
+    "e": "1,2 km"
+   },
+   "resposta": "e",
+   "explicacao": "É a contração do comprimento vista do outro lado: d = d₀/γ = 6,0/5,0 = 1,2 km. Os dois referenciais concordam que o múon chega ao chão, mas explicam o feito de modos diferentes — a Terra fala em dilatação do tempo de vida, o múon fala em atmosfera encurtada. A alternativa (c) multiplica por γ.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-459",
+   "texto_apoio": "Duas naves cruzam o espaço com velocidade constante uma em relação à outra, motores desligados. Cada tripulação compara, à distância, o relógio da outra nave com o seu.",
+   "enunciado": "O que a relatividade restrita prevê para essa comparação é que:",
+   "alternativas": {
+    "a": "cada tripulação mede o relógio da outra nave andando mais devagar que o seu, e as duas descrições valem igualmente",
+    "b": "apenas a tripulação da nave mais veloz mede o relógio da outra atrasando, porque só ela se encontra de fato em movimento verdadeiro",
+    "c": "os dois relógios marcam intervalos iguais, já que a dilatação do tempo aparece só em movimento acelerado",
+    "d": "cada tripulação mede o relógio da outra adiantando, efeito que se inverte na viagem de volta",
+    "e": "o relógio atrasado é decidido pelo referencial do centro da galáxia, tomado como repouso absoluto"
+   },
+   "resposta": "a",
+   "explicacao": "O efeito é recíproco porque os dois são referenciais inerciais e nenhum deles tem estatuto privilegiado: cada um mede o relógio do outro atrasando. Não há contradição, pois comparar relógios distantes exige convencionar simultaneidade, e é justamente aí que os dois discordam. A alternativa (e) ressuscita o referencial absoluto que a relatividade restrita dispensa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-460",
+   "texto_apoio": "Uma lâmpada de leitura emite luz alaranjada de comprimento de onda 6,0 × 10⁻⁷ m. Adote a constante de Planck h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "A energia transportada por um único fóton dessa luz é de aproximadamente:",
+   "alternativas": {
+    "a": "1,1 × 10⁻²⁷ J",
+    "b": "3,3 × 10⁻¹⁹ J",
+    "c": "6,6 × 10⁻¹⁹ J",
+    "d": "1,7 × 10⁻¹⁹ J",
+    "e": "1,2 × 10⁻³¹ J"
+   },
+   "resposta": "b",
+   "explicacao": "A energia do fóton é E = hf, e como f = c/λ, vale E = hc/λ = (6,63 × 10⁻³⁴ × 3,0 × 10⁸)/(6,0 × 10⁻⁷) ≈ 3,3 × 10⁻¹⁹ J. A alternativa (a) esquece de multiplicar por c; a (e) multiplica por λ em vez de dividir. Repare que a energia é o quantum de energia da radiação: o feixe entrega múltiplos inteiros desse valor, não uma quantidade contínua.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-461",
+   "texto_apoio": "Sobre uma placa metálica cuja função trabalho do metal vale φ = 3,0 × 10⁻¹⁹ J incide luz de frequência 1,0 × 10¹⁵ Hz. Adote h = 6,63 × 10⁻³⁴ J·s.",
+   "enunciado": "Pela equação do efeito fotoelétrico, a energia cinética máxima dos elétrons ejetados dessa placa é de:",
+   "alternativas": {
+    "a": "3,6 × 10⁻¹⁹ J",
+    "b": "6,6 × 10⁻¹⁹ J",
+    "c": "9,6 × 10⁻¹⁹ J",
+    "d": "3,0 × 10⁻¹⁹ J",
+    "e": "2,0 × 10⁻¹⁹ J"
+   },
+   "resposta": "a",
+   "explicacao": "Ec(máx) = hf − φ = 6,63 × 10⁻¹⁹ − 3,0 × 10⁻¹⁹ = 3,6 × 10⁻¹⁹ J. A alternativa (b) é a energia do fóton incidente e esquece de descontar a função trabalho do metal, que é o erro mais comum aqui; a (c) adiciona φ em vez de subtrair.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-462",
+   "texto_apoio": "A função trabalho de um metal usado em células fotoelétricas vale φ = 4,0 × 10⁻¹⁹ J. Adote h = 6,63 × 10⁻³⁴ J·s.",
+   "enunciado": "A frequência de corte desse metal — a menor frequência capaz de arrancar elétrons dele por efeito fotoelétrico — vale aproximadamente:",
+   "alternativas": {
+    "a": "1,7 × 10⁻¹⁵ Hz",
+    "b": "2,7 × 10⁻⁵² Hz",
+    "c": "6,0 × 10⁸ Hz",
+    "d": "6,0 × 10¹⁴ Hz",
+    "e": "1,2 × 10¹⁵ Hz"
+   },
+   "resposta": "d",
+   "explicacao": "No limiar, o fóton entrega exatamente a função trabalho do metal e o elétron sai com energia cinética nula: hf₀ = φ, logo f₀ = φ/h = 4,0 × 10⁻¹⁹ / 6,63 × 10⁻³⁴ ≈ 6,0 × 10¹⁴ Hz. A alternativa (a) inverte a divisão; a (b) multiplica. Abaixo de f₀ não há emissão por mais que se aumente a intensidade do feixe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-463",
+   "texto_apoio": "Num experimento de efeito fotoelétrico mede-se a energia cinética máxima dos elétrons ejetados de uma placa para vários valores de frequência da luz incidente. Os pontos obtidos se alinham numa reta.",
+   "enunciado": "A inclinação dessa reta corresponde:",
+   "alternativas": {
+    "a": "à intensidade do feixe de luz que ilumina a placa, grandeza que fixa quantos elétrons saem por segundo mas não a energia de cada um",
+    "b": "à função trabalho do metal, valor que muda de um metal para outro",
+    "c": "à frequência de corte do metal usado na placa",
+    "d": "ao produto da carga do elétron pelo potencial de corte medido",
+    "e": "à constante de Planck, valor que não muda de um metal para outro"
+   },
+   "resposta": "e",
+   "explicacao": "A equação Ec(máx) = hf − φ é a de uma reta em f: a inclinação é h e o coeficiente linear é −φ. Trocar o metal desloca a reta para os lados, mas mantém a inclinação — foi assim que Millikan mediu h a partir do efeito fotoelétrico. A alternativa (b) confunde inclinação com intercepto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-464",
+   "texto_apoio": "No mesmo gráfico da energia cinética máxima dos elétrons ejetados contra a frequência da luz incidente, a reta é prolongada até cruzar o eixo vertical, num valor negativo.",
+   "enunciado": "Esse valor negativo corresponde:",
+   "alternativas": {
+    "a": "ao simétrico da constante de Planck, com o sinal trocado pela escolha da escala do eixo vertical do gráfico",
+    "b": "à energia cinética máxima obtida na própria frequência de corte do metal",
+    "c": "ao simétrico da função trabalho do metal, isto é, a −φ",
+    "d": "ao produto da carga do elétron pela frequência de corte da placa",
+    "e": "à energia do fóton incidente de menor comprimento de onda entre os usados na medida"
+   },
+   "resposta": "c",
+   "explicacao": "Em Ec(máx) = hf − φ, fazer f = 0 dá Ec = −φ. O ponto é matemático, não físico: com f = 0 não há emissão nenhuma. A alternativa (b) descreve o cruzamento com o eixo HORIZONTAL, onde Ec = 0 e f = f₀; é o outro intercepto da mesma reta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-465",
+   "texto_apoio": "Sobre uma placa metálica incide luz monocromática de frequência acima da frequência de corte. Um circuito registra ao mesmo tempo quantos elétrons ejetados chegam ao coletor por segundo e qual a energia cinética máxima deles.",
+   "enunciado": "Dobrando a intensidade do feixe e mantendo a mesma frequência, o experimento passa a registrar:",
+   "alternativas": {
+    "a": "o dobro de elétrons por segundo, com a mesma energia cinética máxima de antes",
+    "b": "o mesmo número de elétrons por segundo, com o dobro da energia cinética máxima",
+    "c": "o dobro de elétrons por segundo e também o dobro da energia cinética máxima",
+    "d": "metade dos elétrons por segundo, porque cada fóton passa a carregar menos energia",
+    "e": "emissão nenhuma, porque a intensidade maior aquece a placa e eleva a função trabalho do metal acima da energia do fóton incidente"
+   },
+   "resposta": "a",
+   "explicacao": "Dobrar a intensidade dobra o número de fótons por segundo, e cada fóton arranca um elétron: a corrente dobra. Mas a energia de cada fóton depende só da frequência, então Ec(máx) = hf − φ não muda. Essa separação entre quantidade e energia é justamente o que o modelo ondulatório da luz não conseguia explicar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-466",
+   "texto_apoio": "A função trabalho de um metal vale φ = 3,0 × 10⁻¹⁹ J. Adote h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O maior comprimento de onda capaz de arrancar elétrons desse metal por efeito fotoelétrico é de aproximadamente:",
+   "alternativas": {
+    "a": "2,2 × 10⁻⁷ m",
+    "b": "6,6 × 10⁻⁷ m",
+    "c": "3,3 × 10⁻⁷ m",
+    "d": "1,3 × 10⁻⁶ m",
+    "e": "7,4 × 10⁻²⁴ m"
+   },
+   "resposta": "b",
+   "explicacao": "No limiar hc/λ₀ = φ, então λ₀ = hc/φ = 1,989 × 10⁻²⁵ / 3,0 × 10⁻¹⁹ ≈ 6,6 × 10⁻⁷ m. Comprimento de onda MAIOR significa frequência menor, e abaixo da frequência de corte não há emissão — daí o limiar aparecer como um máximo em λ e um mínimo em f.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-467",
+   "texto_apoio": "Numa célula fotoelétrica aplica-se uma tensão contrária que freia os elétrons ejetados; a tensão que anula a corrente é o potencial de corte V₀, e vale e·V₀ = Ec(máx). Num ensaio, a energia cinética máxima medida foi de 3,2 × 10⁻¹⁹ J. Adote e = 1,6 × 10⁻¹⁹ C.",
+   "enunciado": "O potencial de corte desse ensaio vale:",
+   "alternativas": {
+    "a": "0,50 V",
+    "b": "1,0 V",
+    "c": "3,2 V",
+    "d": "2,0 V",
+    "e": "5,0 V"
+   },
+   "resposta": "d",
+   "explicacao": "V₀ = Ec(máx)/e = 3,2 × 10⁻¹⁹ / 1,6 × 10⁻¹⁹ = 2,0 V. A alternativa (c) trata o número 3,2 como se já estivesse em volts, erro de quem mistura joule com elétron-volt no meio da conta. Medir V₀ é a forma prática de obter Ec(máx) no efeito fotoelétrico sem detectar cada elétron.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-468",
+   "texto_apoio": "A radiação ultravioleta danifica o DNA das células da pele e responde pelo risco de câncer cutâneo. A luz visível chega ao chão em quantidade muito maior ao meio-dia e não produz esse dano.",
+   "enunciado": "No modelo em que a luz é feita de fótons, a explicação para essa diferença é que:",
+   "alternativas": {
+    "a": "o fóton ultravioleta tem comprimento de onda maior e por isso penetra mais fundo na pele",
+    "b": "a luz visível chega em fótons mais numerosos, e o dano cresce com o número de fótons por segundo",
+    "c": "cada fóton ultravioleta carrega mais energia que um fóton visível, e o dano depende da energia por fóton",
+    "d": "o fóton ultravioleta se propaga mais devagar e fica mais tempo em contato com a célula",
+    "e": "os dois tipos de fóton carregam a mesma energia, e o que muda é apenas a intensidade da radiação que chega ao chão ao meio-dia"
+   },
+   "resposta": "c",
+   "explicacao": "Como E = hf, o ultravioleta (frequência maior) entrega pacotes de energia maiores, suficientes para quebrar ligações do DNA; o visível entrega muitos pacotes pequenos, e pacote pequeno não se acumula numa molécula. É o mesmo raciocínio do efeito fotoelétrico, em que a frequência de corte separa a luz que arranca elétrons da que não arranca por mais intensa que seja.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-469",
+   "texto_apoio": "Um átomo excitado decai de um nível de energia para outro, mais baixo, e a diferença entre os dois níveis vale 4,42 × 10⁻¹⁹ J. Adote h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O comprimento de onda do fóton emitido nessa transição é de aproximadamente:",
+   "alternativas": {
+    "a": "1,5 × 10⁻¹⁵ m",
+    "b": "2,2 × 10⁻⁷ m",
+    "c": "9,0 × 10⁻⁷ m",
+    "d": "6,6 × 10⁻⁷ m",
+    "e": "4,5 × 10⁻⁷ m"
+   },
+   "resposta": "e",
+   "explicacao": "ΔE = hc/λ, então λ = hc/ΔE = 1,989 × 10⁻²⁵ / 4,42 × 10⁻¹⁹ ≈ 4,5 × 10⁻⁷ m — luz azul. A alternativa (a) esquece o c. Como os níveis do átomo são discretos, as diferenças possíveis também são, e é daí que vem o espectro de linhas: cada quantum de energia emitido corresponde a uma cor bem definida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-470",
+   "texto_apoio": "Num LED, o elétron atravessa uma barreira de energia da ordem de 2,0 eV e a diferença é entregue de uma vez a um fóton. Adote 1 eV = 1,6 × 10⁻¹⁹ J, h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O comprimento de onda da luz emitida por esse LED é de aproximadamente:",
+   "alternativas": {
+    "a": "622 nm",
+    "b": "310 nm",
+    "c": "1240 nm",
+    "d": "450 nm",
+    "e": "780 nm"
+   },
+   "resposta": "a",
+   "explicacao": "2,0 eV = 3,2 × 10⁻¹⁹ J, e λ = hc/E = 1,989 × 10⁻²⁵ / 3,2 × 10⁻¹⁹ ≈ 6,2 × 10⁻⁷ m = 622 nm, luz vermelho-alaranjada. A alternativa (b) divide o resultado por dois, erro de quem usa 2h em vez de h; a (c) trata o 2,0 como se já estivesse em joules. Um LED só acende acima de uma tensão mínima justamente porque abaixo dela o elétron não junta a energia de um fóton inteiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-471",
+   "texto_apoio": "Num tubo de raios X de uso radiológico, elétrons acelerados por uma tensão de 50 kV chocam-se contra o alvo. No caso extremo, um elétron entrega de uma vez toda a energia que ganhou a um único fóton. Adote e = 1,6 × 10⁻¹⁹ C, h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O menor comprimento de onda presente no feixe produzido por esse tubo é de aproximadamente:",
+   "alternativas": {
+    "a": "1,2 × 10⁻¹⁰ m",
+    "b": "2,5 × 10⁻⁹ m",
+    "c": "8,0 × 10⁻¹⁵ m",
+    "d": "2,5 × 10⁻¹¹ m",
+    "e": "4,0 × 10⁻¹¹ m"
+   },
+   "resposta": "d",
+   "explicacao": "A energia máxima do fóton é eU = 1,6 × 10⁻¹⁹ × 5,0 × 10⁴ = 8,0 × 10⁻¹⁵ J, e λ(mín) = hc/eU = 1,989 × 10⁻²⁵ / 8,0 × 10⁻¹⁵ ≈ 2,5 × 10⁻¹¹ m. A alternativa (c) devolve a energia, não o comprimento de onda. O corte abrupto do espectro nesse valor é a assinatura da quantização: sem ela, o feixe se estenderia indefinidamente para comprimentos menores.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-472",
+   "texto_apoio": "Um apontador laser entrega 2,0 × 10⁻³ joule por segundo em luz de comprimento de onda 6,0 × 10⁻⁷ m. Adote h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O número de fótons que esse apontador emite por segundo é de aproximadamente:",
+   "alternativas": {
+    "a": "6,0 × 10¹² por segundo",
+    "b": "6,0 × 10¹⁵ por segundo",
+    "c": "3,0 × 10¹⁵ por segundo",
+    "d": "1,2 × 10¹⁶ por segundo",
+    "e": "6,6 × 10⁻²² por segundo"
+   },
+   "resposta": "b",
+   "explicacao": "Cada fóton vale E = hc/λ ≈ 3,3 × 10⁻¹⁹ J, e o feixe entrega 2,0 × 10⁻³ J a cada segundo, logo N = 2,0 × 10⁻³ / 3,3 × 10⁻¹⁹ ≈ 6,0 × 10¹⁵. A alternativa (e) multiplica em vez de dividir. O número é tão grande que o feixe parece contínuo: a granularidade da luz só aparece em experiências de contagem individual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-473",
+   "texto_apoio": "Um elétron de um microscópio eletrônico tem momento linear de módulo 2,0 × 10⁻²⁴ kg·m/s. Adote h = 6,63 × 10⁻³⁴ J·s.",
+   "enunciado": "O comprimento de onda de De Broglie associado a esse elétron, λ = h/p, é de aproximadamente:",
+   "alternativas": {
+    "a": "1,3 × 10⁻⁵⁷ m",
+    "b": "3,0 × 10⁹ m",
+    "c": "3,3 × 10⁻¹⁰ m",
+    "d": "6,6 × 10⁻¹⁰ m",
+    "e": "1,7 × 10⁻¹⁰ m"
+   },
+   "resposta": "c",
+   "explicacao": "λ = h/p = 6,63 × 10⁻³⁴ / 2,0 × 10⁻²⁴ ≈ 3,3 × 10⁻¹⁰ m, da ordem do tamanho de um átomo. A alternativa (a) multiplica em vez de dividir; a (b) inverte a razão e devolve um número gigantesco, incompatível com um comprimento. É essa onda de matéria que dá ao elétron o comportamento difrativo previsto pela dualidade onda-partícula.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-474",
+   "texto_apoio": "Um microscópio óptico não separa detalhes menores que o comprimento de onda da luz que usa, cerca de 5 × 10⁻⁷ m. Um microscópio eletrônico enxerga estruturas milhares de vezes menores, como a membrana de uma organela.",
+   "enunciado": "A razão física desse ganho de resolução é que:",
+   "alternativas": {
+    "a": "o feixe de elétrons tem intensidade maior e ilumina melhor a amostra observada",
+    "b": "o comprimento de onda de De Broglie do elétron acelerado é muito menor que o da luz visível",
+    "c": "o elétron viaja acima da velocidade da luz e alcança detalhes que a luz não alcança",
+    "d": "o elétron não tem comportamento ondulatório, e por isso escapa da limitação imposta pelo comprimento de onda",
+    "e": "o elétron carrega carga e é atraído pelo núcleo dos átomos da amostra, desenhando o contorno deles no detector"
+   },
+   "resposta": "b",
+   "explicacao": "O limite de resolução é da ordem do comprimento de onda usado. Acelerado por alguns milhares de volts, o elétron tem λ = h/mv da ordem de 10⁻¹¹ m, quatro ordens de grandeza abaixo da luz visível. A alternativa (c) é impossível de sustentar: a velocidade da luz é o teto para partículas com massa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-475",
+   "enunciado": "Um próton e um elétron se movem com a mesma velocidade. Comparando os comprimentos de onda de De Broglie associados a eles, λ = h/mv, conclui-se que:",
+   "alternativas": {
+    "a": "o do próton é maior, porque a massa dele é maior",
+    "b": "os dois são iguais, porque λ depende só da velocidade das partículas",
+    "c": "o do próton é maior, porque ele carrega mais energia cinética nessa situação",
+    "d": "os dois são iguais, porque a constante de Planck é a mesma para as duas partículas e é ela quem fixa o comprimento de onda",
+    "e": "o do elétron é maior, porque a massa dele é menor"
+   },
+   "resposta": "e",
+   "explicacao": "Com a mesma velocidade, quem tem menos massa tem o produto mv menor, e λ = h/mv é inversamente proporcional a ele. O próton tem massa cerca de 1836 vezes maior, então seu comprimento de onda de De Broglie é 1836 vezes menor. Só perto da velocidade da luz seria preciso trocar mv pela expressão relativística. A dualidade onda-partícula fica imperceptível em corpos macroscópicos exatamente por esse motivo: massa grande, λ minúsculo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-476",
+   "texto_apoio": "Sondas com vela solar são empurradas pela luz do Sol, sem carregar combustível. Cada fóton que atinge a vela e volta transfere momento linear a ela.",
+   "enunciado": "Que a luz consiga empurrar a vela mostra que:",
+   "alternativas": {
+    "a": "o fóton carrega momento linear e o transfere à vela, apesar de sua energia de repouso ser nula",
+    "b": "o fóton tem uma massa de repouso pequena, e é ela que produz o empurrão sobre a vela",
+    "c": "o empurrão vem do vento de partículas do Sol, e a luz em si não exerce força alguma",
+    "d": "o empurrão vem do aquecimento da vela, que evapora material da superfície e produz reação",
+    "e": "a luz transfere carga elétrica à vela, e a repulsão entre cargas de mesmo sinal afasta a sonda do Sol"
+   },
+   "resposta": "a",
+   "explicacao": "Na relatividade restrita, momento e energia se ligam por E² = (pc)² + (mc²)². Para o fóton, cuja energia de repouso é nula, sobra p = E/c: momento sem massa. Refletido pela vela, ele inverte de sentido e entrega o dobro do próprio momento, e a pressão de radiação resultante move a sonda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-477",
+   "texto_apoio": "Ao atravessar tecido, um fóton de raios X pode ser espalhado por um elétron e seguir viagem com comprimento de onda maior do que tinha antes. É o efeito Compton, responsável por boa parte da dose espalhada numa sala de radiologia.",
+   "enunciado": "Esse aumento do comprimento de onda do fóton espalhado significa que ele:",
+   "alternativas": {
+    "a": "manteve a mesma energia, mudando apenas a direção em que segue",
+    "b": "ganhou energia, porque comprimento de onda maior corresponde a fóton mais energético",
+    "c": "perdeu energia, parte dela entregue ao elétron como energia cinética",
+    "d": "perdeu carga elétrica para o elétron, e com ela parte da sua frequência",
+    "e": "perdeu massa de repouso, convertida em energia cinética do elétron atingido no choque"
+   },
+   "resposta": "c",
+   "explicacao": "Como E = hc/λ, comprimento de onda maior é energia menor: o fóton entregou parte da sua energia ao elétron, que recua. O choque conserva energia e momento como o de duas bolas, e foi essa a evidência que consolidou o fóton como partícula. A alternativa (e) não se sustenta porque o fóton não tem energia de repouso a perder.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-478",
+   "texto_apoio": "Elétrons ejetados de um filamento aquecido formam um feixe tão fraco que atravessam uma barreira de duas fendas praticamente um a um. Cada um marca um ponto isolado na tela; depois de milhões de impactos, os pontos desenham franjas claras e escuras.",
+   "enunciado": "Esse resultado é apresentado como demonstração:",
+   "alternativas": {
+    "a": "de que o elétron é apenas uma onda, já que só ondas produzem franjas numa tela",
+    "b": "de que os elétrons colidem entre si dentro do aparelho e assim se organizam nas franjas",
+    "c": "de que a tela brilha por conta própria nos pontos de impacto, formando o padrão observado",
+    "d": "da dualidade onda-partícula: cada elétron chega como grão isolado, mas a estatística dos impactos desenha um padrão de interferência",
+    "e": "de que cada elétron passa por uma fenda de cada vez e o padrão nasce de duas faixas iluminadas justapostas, uma para cada fenda que se deixou aberta"
+   },
+   "resposta": "d",
+   "explicacao": "Os dois lados aparecem no mesmo experimento: a chegada é sempre pontual, típica de partícula, e a distribuição das chegadas é a de uma onda que passou pelas duas fendas. Fechar uma das fendas destrói o padrão, o que elimina a alternativa (e). O mesmo experimento feito com fótons dá o mesmo desenho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-479",
+   "texto_apoio": "Num gráfico da energia de ligação por núcleon contra o número de massa, a curva sobe rápido entre os núcleos leves, atinge o máximo na região do ferro-56 e depois cai lentamente até o urânio.",
+   "enunciado": "Desse formato de curva decorre que:",
+   "alternativas": {
+    "a": "o ferro-56 é o núcleo que mais facilmente se parte, justamente por ocupar o máximo da curva",
+    "b": "núcleos leves liberam energia ao se fundir e núcleos pesados liberam energia ao se partir",
+    "c": "núcleos leves liberam energia ao se partir e núcleos pesados liberam energia ao se fundir",
+    "d": "apenas a fissão libera energia, seja qual for a região da curva em que o núcleo se encontre",
+    "e": "a energia de ligação por núcleon cresce indefinidamente com o número de massa e não apresenta máximo"
+   },
+   "resposta": "b",
+   "explicacao": "Libera energia todo processo que empurra os núcleos para o topo da curva: fusão vindo da esquerda, fissão vindo da direita. A energia sai da massa que desaparece na reação, convertida pela relação E = mc² com o quadrado da velocidade da luz. Por estar no máximo, o ferro-56 não libera energia nem partindo nem se fundindo — o contrário do que diz (a).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-480",
+   "texto_apoio": "Na fissão de um núcleo de urânio-235, os fragmentos produzidos têm massa total 3,0 × 10⁻²⁸ kg menor que a do núcleo original. Adote para a velocidade da luz no vácuo 3,0 × 10⁸ m/s.",
+   "enunciado": "A energia liberada nessa fissão, pela relação E = mc², é de aproximadamente:",
+   "alternativas": {
+    "a": "9,0 × 10⁻²⁰ J",
+    "b": "2,7 × 10⁻¹⁰ J",
+    "c": "1,4 × 10⁻¹¹ J",
+    "d": "5,4 × 10⁻¹¹ J",
+    "e": "2,7 × 10⁻¹¹ J"
+   },
+   "resposta": "e",
+   "explicacao": "E = Δm·c² = 3,0 × 10⁻²⁸ × 9,0 × 10¹⁶ = 2,7 × 10⁻¹¹ J, cerca de 170 MeV — o valor típico por fissão. A alternativa (a) usa c em vez de c². Multiplicada pelo número de núcleos de um quilograma de combustível, essa energia por evento é o que separa a escala nuclear da escala química.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-481",
+   "texto_apoio": "No núcleo do Sol, quatro núcleos de hidrogênio acabam formando um núcleo de hélio. O hélio produzido tem massa menor que a dos quatro hidrogênios que entraram na conta.",
+   "enunciado": "A relação entre essa perda de massa e o brilho do Sol é que:",
+   "alternativas": {
+    "a": "a massa que falta virou energia segundo E = mc², e é essa energia que a estrela irradia",
+    "b": "a massa que falta foi expelida como poeira e não entra no balanço energético da estrela",
+    "c": "a massa se conserva no processo, e a energia irradiada vem da queima química do hidrogênio",
+    "d": "a energia irradiada vem da contração gravitacional, e a massa que falta é erro de medida",
+    "e": "a massa que falta reaparece como energia de repouso dos neutrinos emitidos, sem contribuir para o brilho observado"
+   },
+   "resposta": "a",
+   "explicacao": "A cada quilograma de hidrogênio fundido, cerca de 7 gramas desaparecem da balança e reaparecem como energia, multiplicados pelo quadrado da velocidade da luz. A alternativa (c) foi a hipótese do século XIX e dava ao Sol alguns milhares de anos de vida — quatro ordens de grandeza abaixo da idade geológica da Terra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-482",
+   "texto_apoio": "No exame PET, um radiofármaco emite pósitrons. Cada pósitron encontra um elétron do tecido e os dois desaparecem, dando lugar a dois fótons de 0,511 MeV que partem em sentidos opostos e são captados pelo anel de detectores.",
+   "enunciado": "O valor 0,511 MeV de cada fóton corresponde:",
+   "alternativas": {
+    "a": "à energia cinética que o pósitron tinha ao ser emitido pelo radiofármaco",
+    "b": "à energia de ligação do elétron ao átomo de onde ele saiu",
+    "c": "à energia de repouso do elétron, obtida por E = mc²",
+    "d": "à metade da energia de repouso do próton que permanece no núcleo após a emissão",
+    "e": "à energia do fóton de raios X que o anel de detectores emite para localizar o ponto de origem do sinal"
+   },
+   "resposta": "c",
+   "explicacao": "A massa do elétron equivale a 0,511 MeV. Na aniquilação, a energia de repouso das duas partículas (0,511 MeV cada) sai como dois fótons de mesma energia em sentidos opostos, o que conserva momento. É a emissão em sentidos opostos que permite ao anel traçar a reta em que o evento ocorreu e reconstruir a imagem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-483",
+   "texto_apoio": "No fim do século XIX, a física clássica previa que um corpo aquecido deveria irradiar energia sem limite nas frequências mais altas — previsão que os experimentos desmentiam. Em 1900, Planck contornou o impasse supondo que a troca de energia entre matéria e radiação se dá em pacotes.",
+   "enunciado": "A hipótese de Planck consiste em admitir que:",
+   "alternativas": {
+    "a": "a energia trocada pode assumir valor contínuo, desde que a frequência envolvida seja baixa",
+    "b": "a energia do corpo aquecido depende só da sua massa, e não da frequência da radiação emitida",
+    "c": "a matéria absorve radiação em pacotes mas a emite de forma contínua, e isso basta para corrigir a previsão clássica",
+    "d": "a energia trocada entre matéria e radiação é múltipla de um quantum de energia igual a hf",
+    "e": "radiação de frequência alta não é emitida por corpo algum, o que elimina o infinito da previsão clássica"
+   },
+   "resposta": "d",
+   "explicacao": "Ao exigir que a energia venha em múltiplos inteiros de hf, Planck tornou improvável a excitação dos modos de frequência muito alta, e a curva prevista passou a coincidir com a medida. Cinco anos depois Einstein levou a ideia adiante: o pacote não é só um artifício de cálculo, é o fóton, e com ele explicou o efeito fotoelétrico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-484",
+   "texto_apoio": "Hidrogênio aquecido num tubo emite luz apenas em cores bem determinadas: no espectroscópio aparecem linhas separadas, e não uma faixa contínua de cores.",
+   "enunciado": "A explicação quântica para esse espectro de linhas é que:",
+   "alternativas": {
+    "a": "cada linha corresponde a uma velocidade diferente do elétron dentro do átomo",
+    "b": "os níveis de energia do átomo são discretos, e cada linha é o fóton emitido numa transição entre dois deles",
+    "c": "o átomo emite em cores contínuas, e o espectroscópio filtra parte delas antes do registro",
+    "d": "cada linha corresponde a um isótopo diferente presente na amostra de gás do tubo",
+    "e": "as linhas nascem do encontro entre a radiação emitida por átomos vizinhos, e não da estrutura interna do átomo"
+   },
+   "resposta": "b",
+   "explicacao": "Se a energia do elétron ligado só pode assumir valores discretos, as diferenças entre esses valores também são discretas, e cada diferença fixa o valor hf de um fóton emitido. O espectro de linhas é, portanto, a impressão digital dos níveis de cada elemento — e foi o que o modelo clássico do átomo, com energia contínua, não conseguiu prever.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-485",
+   "texto_apoio": "Numa sala de radiologia convivem duas radiações feitas de fóton: os raios X, produzidos por elétrons freados num alvo metálico, e os raios gama, emitidos pelo núcleo de átomos radioativos.",
+   "enunciado": "Entre raios X e raios gama de mesma energia, a diferença física está:",
+   "alternativas": {
+    "a": "apenas na origem: um vem da frenagem de elétrons ou da eletrosfera, o outro vem do núcleo",
+    "b": "na rapidez com que atravessam o ar, maior nos raios gama do que nos raios X",
+    "c": "na carga elétrica, positiva nos raios gama e nula nos raios X",
+    "d": "no fato de os raios X serem ondas e os raios gama serem partículas",
+    "e": "na energia de cada fóton, necessariamente maior nos raios gama, seja qual for a fonte usada"
+   },
+   "resposta": "a",
+   "explicacao": "De mesma energia, os dois fótons são fisicamente idênticos: atravessam o vácuo com a velocidade da luz e interagem com o tecido do mesmo modo. O que os nomes registram é a procedência, não uma propriedade. Na prática os gama costumam ser mais energéticos, mas isso é tendência das fontes, não definição — o que derruba (e).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
    "id": "eng-fismoderna-03",
    "enunciado": "Para que o fator de Lorentz γ de uma partícula seja igual a 2, sua velocidade em relação ao referencial do laboratório deve ser aproximadamente:",
    "alternativas": {
@@ -26370,6 +27796,38 @@ window.QUESTION_BANKS = {
    "explicacao": "Na ligação metálica os elétrons de valência ficam deslocalizados por todo o retículo de cátions. Essa nuvem móvel explica a condução elétrica e permite que as camadas de cátions deslizem sob impacto sem que o material se rompa.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-449",
+   "enunciado": "Sob pressão de 1 atm, a água ferve a 100 °C, enquanto o sulfeto de hidrogênio (H₂S), de fórmula análoga e massa maior, ferve a −60 °C. Essa diferença entre as duas substâncias é explicada por:",
+   "alternativas": {
+    "a": "a maior massa das partículas de H₂S, que intensifica as forças de dispersão entre elas e por isso mantém esse composto no estado líquido em uma faixa de temperatura bem mais ampla que a da água",
+    "b": "a ligação de hidrogênio entre as partículas de água, interação intermolecular bem mais intensa que o dipolo permanente fraco do H₂S",
+    "c": "o caráter iônico da ligação entre hidrogênio e oxigênio, ausente na união entre hidrogênio e enxofre",
+    "d": "a geometria linear da partícula de água, arranjo que favorece o empacotamento e dificulta a passagem ao estado gasoso",
+    "e": "a menor eletronegatividade do oxigênio em relação ao enxofre, o que reduz a polaridade da união O—H"
+   },
+   "resposta": "b",
+   "explicacao": "O oxigênio é bem mais eletronegativo que o enxofre e, ligado ao hidrogênio, permite ligações de hidrogênio — a mais forte das forças intermoleculares. No H₂S há apenas dipolo permanente fraco, vencido em temperatura muito menor. A geometria angular da água ainda reforça essa polaridade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-450",
+   "enunciado": "O gás carbônico (CO₂) é apolar, ainda que a união entre carbono e oxigênio seja polar; já o dióxido de enxofre (SO₂), formado por átomos de diferença de eletronegatividade parecida, é polar. Assinale a alternativa que justifica corretamente essa diferença.",
+   "alternativas": {
+    "a": "o CO₂ apresenta hibridação sp³ no átomo central, arranjo que distribui as cargas de modo homogêneo pela partícula",
+    "b": "o enxofre está no terceiro período da tabela periódica e tem raio atômico maior que o do carbono, o que enfraquece cada uma das uniões e faz o dióxido de enxofre reter caráter polar mesmo em fase gasosa",
+    "c": "as uniões do CO₂ são covalentes e as do SO₂ são iônicas, e só compostos iônicos apresentam polos definidos",
+    "d": "o CO₂ tem geometria linear e os vetores de polaridade se anulam, ao passo que o SO₂ tem geometria angular e apresenta resultante diferente de zero",
+    "e": "a afinidade eletrônica do carbono é menor que a do enxofre, e átomos de menor afinidade eletrônica originam compostos apolares"
+   },
+   "resposta": "d",
+   "explicacao": "A polaridade de uma partícula depende da geometria, e não só da diferença de eletronegatividade. No CO₂ o átomo central não tem par de elétrons livre e o arranjo é linear: os dois vetores têm mesma intensidade e sentidos opostos, e a resultante é nula. No SO₂ o par livre sobre o enxofre torna o arranjo angular, e a resultante deixa de ser nula.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -27511,6 +28969,39 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Diluir reduz as concentrações de todas as espécies, mas afeta mais o encontro entre os íons que refariam a molécula. O equilíbrio químico se desloca no sentido da ionização e α cresce, embora Ka permaneça o mesmo, já que depende apenas da temperatura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-451",
+   "enunciado": "Uma solução aquosa de ácido acético de concentração 0,10 mol/L apresenta grau de ionização de 1,0%. Nessas condições, o pH dessa solução é:",
+   "alternativas": {
+    "a": "1,0, valor que corresponderia à ionização completa do ácido acético em água",
+    "b": "2,0, resultado de admitir que cada partícula do ácido libera dois íons H⁺ no meio",
+    "c": "3,0, pois a concentração de íons H⁺ no equilíbrio iônico vale 1,0 × 10⁻³ mol/L",
+    "d": "4,0, valor que corresponderia a um grau de ionização de 0,10% para essa mesma concentração inicial de ácido acético",
+    "e": "5,0, pois o caráter fraco do ácido deixaria a concentração de íons H⁺ próxima à da água pura"
+   },
+   "resposta": "c",
+   "explicacao": "Num ácido fraco, a concentração de H⁺ no equilíbrio iônico é o produto da concentração inicial pelo grau de ionização: 0,10 × 0,010 = 1,0 × 10⁻³ mol/L. Como pH = −log[H⁺], o pH vale 3,0.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-452",
+   "texto_apoio": "No plasma sanguíneo, o equilíbrio químico\n\nCO₂ + H₂O ⇌ H⁺ + HCO₃⁻\n\nmantém o pH em torno de 7,4. Durante uma crise de hiperventilação, o paciente elimina CO₂ pelos pulmões em ritmo maior que o de produção pelo organismo.",
+   "enunciado": "De acordo com o princípio de Le Chatelier, é esperado que, nessa crise:",
+   "alternativas": {
+    "a": "a hidrólise do íon bicarbonato cesse, e o plasma passe a se comportar como meio neutro",
+    "b": "o equilíbrio se desloque para a direita, o que aumenta a quantidade de íons H⁺ livres e baixa o pH",
+    "c": "a constante de equilíbrio da reação diminua, o que compensaria a saída de CO₂ e manteria o pH do plasma inalterado durante a crise",
+    "d": "o pH permaneça em 7,4, já que a retirada de um dos participantes não afeta o sentido do equilíbrio",
+    "e": "o equilíbrio se desloque para a esquerda, consumindo H⁺ e elevando o pH do plasma"
+   },
+   "resposta": "e",
+   "explicacao": "A saída acelerada de CO₂ retira um participante do lado esquerdo. Pelo princípio de Le Chatelier, o sistema desloca o equilíbrio no sentido de repor o que foi retirado, consumindo H⁺ e HCO₃⁻. Com menos H⁺ livre, o pH sobe — é a alcalose respiratória. A constante de equilíbrio só muda com a temperatura.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -30102,6 +31593,38 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "banca": "unesp",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-453",
+   "enunciado": "Duas substâncias distintas têm a mesma fórmula C₂H₆O: uma delas é líquida a 25 °C e ferve a 78 °C; a outra é gasosa nessa temperatura e ferve a −24 °C. Essa diferença de comportamento entre substâncias de mesma fórmula decorre de:",
+   "alternativas": {
+    "a": "isomeria de cadeia, já que uma das substâncias tem cadeia carbônica normal e a outra, cadeia ramificada com o mesmo número de átomos de carbono",
+    "b": "isomeria plana de função, que separa a função oxigenada dos álcoois da dos éteres; só a primeira forma ligações de hidrogênio",
+    "c": "isomeria óptica, que gera duas formas de mesma fórmula com propriedades físicas distintas por causa do carbono quiral",
+    "d": "isomeria geométrica, resultante da posição dos grupos presos a uma dupla ligação entre carbonos da cadeia",
+    "e": "diferença no grau de polimerização, pois a substância de maior temperatura de ebulição corresponderia a uma cadeia carbônica mais extensa formada por unidades repetidas"
+   },
+   "resposta": "b",
+   "explicacao": "C₂H₆O corresponde a duas funções orgânicas diferentes: o etanol, da função oxigenada dos álcoois, e o metoximetano, da dos éteres. É isomeria plana de função. Só o primeiro tem hidrogênio preso a oxigênio e faz ligações de hidrogênio, o que eleva muito sua temperatura de ebulição. Com dois carbonos não há ramificação possível, nem carbono quiral, nem dupla ligação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-454",
+   "enunciado": "O gás de cozinha vendido no Brasil é uma mistura em que predominam propano e butano, dois hidrocarbonetos saturados de cadeia aberta. Sobre essas duas substâncias, é correto afirmar que:",
+   "alternativas": {
+    "a": "são compostos aromáticos, pois a cadeia fechada lhes confere estabilidade e permite o armazenamento sob pressão",
+    "b": "pertencem à família dos alcenos, o que explicaria a facilidade com que participariam de reações de adição e justificaria o emprego das duas como combustível doméstico de alto poder calorífico",
+    "c": "apresentam isomeria de função entre si, pois diferem apenas na posição do grupo funcional preso à cadeia carbônica",
+    "d": "pertencem à família dos alcanos e apresentam apenas ligações simples entre os átomos de carbono da cadeia",
+    "e": "formam cadeia carbônica ramificada, condição para que se apresentem no estado gasoso nas condições ambientes"
+   },
+   "resposta": "d",
+   "explicacao": "Propano (C₃H₈) e butano (C₄H₁₀) são alcanos: hidrocarbonetos de cadeia aberta, saturada e sem ramificação obrigatória, com apenas ligações simples entre carbonos. Não têm grupo funcional, logo não há isomeria de função entre eles; e a cadeia é aberta, o que exclui o caráter aromático.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "quimica-solucoes": [
@@ -31231,6 +32754,38 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Na osmose espontânea, o solvente migra da região menos concentrada para a mais concentrada. Aplicando pressão maior que a osmótica, o sentido se inverte: o solvente atravessa a membrana e o soluto fica retido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-455",
+   "enunciado": "Em um laboratório, 50 mL de uma solução aquosa de cloreto de sódio de concentração 2,0 mol/L são diluídos com água destilada até que a concentração final seja 0,25 mol/L. Sabendo que a diluição não altera a quantidade de soluto presente, o volume de água destilada acrescentado foi de:",
+   "alternativas": {
+    "a": "100 mL",
+    "b": "200 mL",
+    "c": "350 mL",
+    "d": "400 mL",
+    "e": "450 mL"
+   },
+   "resposta": "c",
+   "explicacao": "Numa diluição vale C₁V₁ = C₂V₂, pois a quantidade de soluto é conservada: 2,0 × 50 = 0,25 × V₂, logo V₂ = 400 mL de solução final. Como o volume de partida era 50 mL, o volume de água destilada acrescentado foi 400 − 50 = 350 mL.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-456",
+   "enunciado": "Ao dissolver sal de cozinha em água, verifica-se que a temperatura de ebulição do sistema sobe e a de congelamento cai em relação à água pura. Esses dois efeitos coligativos, chamados ebulioscopia e crioscopia, decorrem do:",
+   "alternativas": {
+    "a": "aumento da pressão de vapor do solvente, que assim escapa com mais facilidade da superfície do líquido",
+    "b": "abaixamento da pressão de vapor do solvente, provocado pelas partículas de soluto dispersas no meio",
+    "c": "aumento do calor específico da água causado pelo soluto, que passaria a exigir mais energia em cada etapa da mudança de estado do sistema",
+    "d": "rompimento das uniões entre as partículas de água pelo soluto, o que reduziria a coesão do líquido",
+    "e": "aumento da densidade da mistura, propriedade que deslocaria os pontos de mudança de estado do solvente"
+   },
+   "resposta": "b",
+   "explicacao": "As partículas de soluto não volátil ocupam a superfície do líquido e dificultam a passagem do solvente à fase de vapor: a pressão de vapor cai. Por isso é preciso temperatura maior para que ela iguale a pressão externa (ebulioscopia) e temperatura menor para o congelamento (crioscopia). Os efeitos coligativos dependem da quantidade de partículas dispersas, não da natureza delas.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -32617,7 +34172,7 @@ window.QUESTION_BANKS = {
     "a": "conclusão, encerrando definitivamente o raciocínio sobre o tema apresentado, sem qualquer relativização do avanço mencionado anteriormente.",
     "b": "causa, indicando que a ampliação de leitos foi a causa direta da estabilidade no tempo de internação.",
     "c": "contraste, apresentando um dado que relativiza ou se opõe, em algum grau, ao avanço mencionado na primeira frase.",
-    "d": "adição, reforçando integralmente a ideia positiva apresentada na primeira frase, sem introduzir qualquer contraste ou relativização posterior.",
+    "d": "adição, reforçando integralmente a ideia positiva apresentada na primeira frase, sem introduzir contraste ou relativização posterior.",
     "e": "explicação, retomando em outros termos o dado apresentado na frase anterior."
    },
    "resposta": "c",
@@ -32790,7 +34345,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Os conectivos destacados exprimem, respectivamente, circunstância de:",
    "alternativas": {
     "a": "comparação e proporção, sentidos que a norma culta considera equivalentes quando os conectivos aparecem em orações de estrutura semelhante",
-    "b": "causa e finalidade, valores que se distinguem pela posição ocupada por cada uma das orações subordinadas dentro do período composto apresentado",
+    "b": "causa e finalidade, valores que se distinguem pela posição ocupada por cada uma das orações subordinadas dentro do período composto apresentado na comparação entre os dois enunciados",
     "c": "condição e concessão, relações que dependem do modo verbal empregado em cada uma das duas orações subordinadas propostas na comparação",
     "d": "tempo e consequência, circunstâncias que se diferenciam pelo aspecto verbal expresso pelas formas empregadas em cada um dos dois enunciados",
     "e": "finalidade e causa, circunstâncias que se distinguem por a primeira apontar o objetivo do fato, com verbo no subjuntivo, e a segunda, o motivo que o provocou"
@@ -32894,7 +34449,7 @@ window.QUESTION_BANKS = {
     "a": "pleonasmo, com repetição de uma ideia já contida em outro termo da mesma oração apresentada para análise no enunciado da questão",
     "b": "elipse, com supressão de um termo facilmente recuperável a partir do contexto em que a construção aparece empregada no texto produzido",
     "c": "hipérbato, com inversão da ordem direta pelo deslocamento do complemento para o início, recurso de estilo corrente na escrita formal e que não configura desvio",
-    "d": "silepse, com concordância feita segundo a ideia expressa e não segundo a forma gramatical dos termos empregados na construção analisada",
+    "d": "silepse, com concordância feita segundo a ideia expressa e não segundo a forma gramatical dos termos empregados na construção, figura que aqui atingiria o número do verbo",
     "e": "anacoluto, com abandono da estrutura sintática iniciada no começo do período e retomada de outra estrutura na sequência do enunciado"
    },
    "resposta": "c",
@@ -32926,7 +34481,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O período é ambíguo porque o possessivo \"sua\":",
    "alternativas": {
     "a": "poderia ser suprimido sem prejuízo do sentido, uma vez que a informação por ele veiculada já está contida no substantivo que o acompanha",
-    "b": "não concorda em gênero com nenhum dos dois substantivos mencionados antes dele na estrutura sintática do período apresentado no enunciado",
+    "b": "não concorda em gênero com nenhum dos dois substantivos mencionados antes dele na estrutura do período, o que deixaria em aberto qual deles o possessivo retoma",
     "c": "aparece separado do termo a que se refere por um complemento preposicionado, o que impede sua recuperação a partir da leitura do período",
     "d": "designa lugar e não posse, valor que exigiria o emprego de um advérbio no lugar do pronome empregado na construção apresentada",
     "e": "pode remeter ao médico ou ao paciente, já que o possessivo de terceira pessoa não distingue os dois referentes, que só \"dele\" ou \"dele próprio\" fixariam"
@@ -33045,7 +34600,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O problema do enunciado, considerado o gênero, é de:",
    "alternativas": {
     "a": "progressão temática, já que o enunciado não avança em relação à informação apresentada no início e apenas repete o que já era conhecido",
-    "b": "correção gramatical, uma vez que as construções empregadas violam regras de concordância e de regência estabelecidas pela norma culta escrita",
+    "b": "correção gramatical, uma vez que as construções empregadas violam regras de concordância e de regência estabelecidas pela norma culta escrita para o gênero do comunicado institucional",
     "c": "coesão referencial, provocada pela impossibilidade de recuperar a que termo remete cada um dos pronomes utilizados ao longo do comunicado",
     "d": "ambiguidade estrutural, decorrente da possibilidade de ligar o adjunto adverbial a mais de um termo dentro da estrutura sintática do período",
     "e": "adequação de registro ao contexto, já que as frases estão bem formadas, mas as expressões empregadas pertencem à conversa informal e destoam do gênero do comunicado"
@@ -33128,7 +34683,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre os mecanismos de retomada de termos ao longo de um texto, é correto afirmar que:",
    "alternativas": {
     "a": "toda retomada de termo depende obrigatoriamente da repetição literal e integral da mesma expressão ao longo de todo o texto",
-    "b": "a coesão de um texto se resume exclusivamente ao uso de conectivos, sem qualquer participação de elementos que retomam termos, conforme a estrutura superficial do trecho poderia, num primeiro momento, sugerir ao leitor menos atento",
+    "b": "a coesão de um texto se resume ao uso de conectivos, sem participação de elementos que retomam termos, conforme a estrutura superficial do trecho poderia, num primeiro momento, sugerir ao leitor menos atento",
     "c": "um elemento coesivo nunca pode aparecer antes do termo a que se refere, apenas depois dele, em qualquer situação",
     "d": "textos bem construídos evitam por completo qualquer tipo de retomada, preferindo sempre introduzir termos inéditos",
     "e": "um elemento coesivo pode substituir uma expressão já mencionada, reduzindo repetições e garantindo a progressão do sentido entre as partes"
@@ -33160,7 +34715,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-204",
    "enunciado": "Sobre o papel dos conectivos na construção do sentido de um texto, é correto afirmar que:",
    "alternativas": {
-    "a": "os conectivos servem apenas para tornar o texto mais longo, sem qualquer influência sobre o sentido das partes que ligam, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "a": "os conectivos servem apenas para tornar o texto mais longo, sem influência sobre o sentido das partes que ligam, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
     "b": "cada conectivo carrega um valor lógico-semântico próprio, capaz de estabelecer relações como oposição, conclusão ou explicação entre as partes do texto",
     "c": "um mesmo conectivo produz sempre o mesmo efeito de sentido, independentemente do contexto em que for empregado",
     "d": "textos bem escritos dispensam totalmente o uso de conectivos, substituindo-os sempre por marcas gráficas no papel",
@@ -33259,7 +34814,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-210",
    "enunciado": "Sobre a coerência de um texto, é correto afirmar que ela:",
    "alternativas": {
-    "a": "se limita ao uso correto de conectivos, sendo garantida automaticamente sempre que há um conectivo entre duas frases, conforme a proximidade entre os termos no texto poderia equivocadamente sugerir ao leitor menos atento",
+    "a": "se limita ao uso correto de conectivos, sendo assegurada de forma automática quando há um conectivo entre duas frases, conforme a proximidade entre os termos no texto poderia equivocadamente sugerir ao leitor menos atento",
     "b": "é uma propriedade exclusiva de textos longos, não podendo ser observada em frases soltas ou em textos breves",
     "c": "depende da relação lógica entre as ideias apresentadas, de modo que o texto faça sentido para quem o lê, além da simples ligação formal entre as palavras",
     "d": "independe totalmente do contexto no qual o texto é produzido, valendo sempre da mesma forma em qualquer situação",
@@ -33292,7 +34847,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-212",
    "enunciado": "Um texto é considerado incoerente quando:",
    "alternativas": {
-    "a": "utiliza conectivos variados ao longo de todo o desenvolvimento, sem repetir o mesmo elemento coesivo com frequência, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
+    "a": "utiliza conectivos variados ao longo do desenvolvimento, sem repetir o mesmo elemento coesivo com frequência, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
     "b": "mantém uma progressão constante de ideias, sempre relacionadas de forma lógica ao assunto central discutido",
     "c": "emprega vocabulário técnico apropriado ao tema tratado, adequado ao público a que o texto se destina",
     "d": "segue rigorosamente a norma culta em todas as suas frases, sem qualquer desvio gramatical perceptível",
@@ -33310,7 +34865,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre a relação entre as duas frases desse pequeno texto, é correto afirmar que:",
    "alternativas": {
     "a": "há uma contradição de sentido entre afirmar que não existe nenhum leito e, em seguida, afirmar que três foram liberados",
-    "b": "as duas frases se complementam sem qualquer contradição, já que tratam de momentos distintos e sem relação entre si, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do trecho",
+    "b": "as duas frases se complementam sem contradição, já que tratam de momentos distintos e sem relação entre si, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do trecho",
     "c": "a segunda frase apenas repete, com outras palavras, exatamente a mesma informação apresentada na primeira frase",
     "d": "a relação entre as frases é de causa e efeito, sendo a liberação dos leitos consequência direta da falta deles",
     "e": "não há qualquer problema de sentido entre as frases, pois \"nenhum\" e \"três\" podem coexistir sem contradição"
@@ -33341,7 +34896,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-215",
    "enunciado": "As palavras \"eminente\" e \"iminente\" são frequentemente confundidas em textos porque:",
    "alternativas": {
-    "a": "são sinônimas perfeitas, podendo ser substituídas uma pela outra em qualquer contexto sem qualquer alteração de sentido, suposição que a ordem das palavras no trecho poderia, à primeira vista, sustentar",
+    "a": "são sinônimas perfeitas, podendo ser substituídas uma pela outra em contextos variados sem alteração de sentido, suposição que a ordem das palavras no trecho poderia, à primeira vista, sustentar",
     "b": "são homônimas, já que se escrevem exatamente da mesma forma, embora tenham origem etimológica distinta",
     "c": "são parônimas: têm grafia e pronúncia parecidas, mas sentidos bem diferentes — uma indica destaque, a outra, proximidade no tempo",
     "d": "pertencem à mesma família de palavras, com uma origem etimológica comum a ambas as formas apresentadas",
@@ -33408,7 +34963,7 @@ window.QUESTION_BANKS = {
     "a": "denotativo, já que se refere exatamente ao órgão responsável por bombear o sangue pelo corpo humano",
     "b": "conotativo, pois se afasta do significado literal do órgão para expressar a ideia de núcleo central e vital de um espaço",
     "c": "técnico, pois é utilizado, nesse contexto, exatamente como nos manuais de anatomia e fisiologia humana",
-    "d": "ambíguo, uma vez que é impossível saber, nesse trecho, a que sentido a palavra \"coração\" realmente se refere, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "d": "ambíguo, uma vez que não se consegue saber, nesse trecho, a que sentido a palavra \"coração\" realmente se refere, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
     "e": "regional, já que essa forma de emprego da palavra só é compreendida em determinadas variedades do idioma"
    },
    "resposta": "b",
@@ -33502,7 +35057,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A diferença entre \"o pessoal já foi embora\", em fala informal entre colegas, e \"os profissionais já se retiraram\", em registro formal de um relatório, ilustra, sobretudo, uma variação de:",
    "alternativas": {
     "a": "significado, pois as duas frases descrevem fatos completamente diferentes, sem qualquer relação de sentido entre elas",
-    "b": "duração da ação, uma vez que a diferença central entre as frases estaria exclusivamente no momento no qual os fatos ocorreram, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "b": "duração da ação, uma vez que a diferença central entre as frases estaria apenas no momento no qual os fatos ocorreram, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
     "c": "registro, já que a mesma informação é adaptada à situação de comunicação, ora em registro informal, ora em registro formal e institucional",
     "d": "número gramatical, já que uma das frases está no singular e a outra, no plural, alterando por completo o sentido",
     "e": "pessoa gramatical, pois cada frase emprega uma pessoa do discurso diferente da outra, o que altera o sentido"
@@ -33517,7 +35072,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-226",
    "enunciado": "Sobre a relação entre norma culta e variedades regionais ou informais do português, é correto afirmar que:",
    "alternativas": {
-    "a": "apenas a norma culta pode ser considerada uma forma legítima de comunicação, sendo as demais variedades sempre incorretas, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
+    "a": "apenas a norma culta pode ser considerada uma forma legítima de comunicação, sendo as demais variedades incorretas, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
     "b": "as variedades regionais e informais desapareceram completamente do português contemporâneo, restando apenas a norma culta",
     "c": "a norma culta é usada exclusivamente na fala cotidiana, enquanto as demais variedades aparecem apenas em textos escritos",
     "d": "a norma culta é a variedade de prestígio associada a contextos formais, mas isso não torna as demais variedades erradas ou inferiores em si mesmas",
@@ -33940,7 +35495,7 @@ window.QUESTION_BANKS = {
     "a": "está correta apenas se houver especificação posterior, como em 'à noite de ontem'; sem ela, o acento é indevido.",
     "b": "está correta, pois 'à noite' é locução adverbial de tempo consagrada pelo uso, formada pela fusão da preposição 'a' com o artigo feminino de 'noite'.",
     "c": "está incorreta, pois locuções adverbiais de tempo nunca admitem crase, mesmo quando formadas por substantivo feminino consagrado pelo uso.",
-    "d": "está incorreta porque 'noite' é substantivo que rejeita artigo definido em qualquer contexto, mesmo quando antecedido por preposição temporal.",
+    "d": "está incorreta porque 'noite' é substantivo que rejeita o artigo definido feminino, de modo que o 'a' anteposto seria apenas preposição e deveria vir sem acento grave nessa locução adverbial de tempo.",
     "e": "está correta apenas se a frase estiver no modo imperativo, condição que por si só justificaria a fusão da preposição com o artigo feminino."
    },
    "resposta": "b",
@@ -33992,7 +35547,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre a regência do verbo 'chegar' na frase, considerando a norma culta escrita formal, é correto afirmar que",
    "alternativas": {
     "a": "está correta apenas em textos jornalísticos, sendo um erro em outros gêneros textuais, como bulas, editais ou correspondências formais.",
-    "b": "está incorreta; deveria ser 'chegou no endereço', forma mais adequada segundo a norma culta escrita formal em qualquer tipo de texto.",
+    "b": "está incorreta; deveria ser 'chegou no endereço', forma que a norma culta escrita formal recomendaria para indicar o lugar de destino, reservando 'chegar a' apenas ao registro literário mais antigo.",
     "c": "está incorreta porque falta a preposição 'para' antes de 'o endereço', complemento que o verbo 'chegar' exigiria nessa construção.",
     "d": "está correta, mas apenas porque o complemento é nome de cidade; com nomes de estabelecimento, exige-se 'em'.",
     "e": "está correta; a construção 'chegar a' é a recomendada pela norma culta escrita formal para indicar o lugar de destino, em vez de 'chegar em/no'."
@@ -34011,7 +35566,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "está correta, mas apenas porque o complemento de pessoa vem antes; invertida a ordem, a preposição seria obrigatória.",
     "b": "está correta; 'comunicar' é bitransitivo e admite a construção 'comunicar algo a alguém', com o complemento de pessoa regido pela preposição 'a', que se funde ao artigo feminino de 'direção'.",
-    "c": "está incorreta porque 'comunicar' deveria ser regido exclusivamente pela preposição 'sobre', nunca admitindo a construção bitransitiva com 'a', uso que se aproximaria da regência do verbo 'informar' quando este introduz assunto, mas que não se aplicaria aqui.",
+    "c": "está incorreta porque 'comunicar' deveria ser regido apenas pela preposição 'sobre', sem admitir a construção bitransitiva com 'a', uso que se aproximaria da regência do verbo 'informar' quando este introduz assunto, mas que não se aplicaria aqui.",
     "d": "está incorreta; deveria ser 'comuniquei a direção', sem crase, pois 'comunicar' não admite complemento indireto de pessoa regido por artigo, tratamento que se estenderia, por analogia, a todos os verbos de comunicação regidos por complemento humano determinado.",
     "e": "está correta apenas se 'direção' for substituída por um substantivo masculino, condição que eliminaria a possibilidade de crase na frase, já que a ausência de artigo feminino impediria qualquer fusão preposicional nessa regência verbal específica."
    },
@@ -34117,7 +35672,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"O enfermeiro assistiu o paciente durante toda a madrugada, monitorando os sinais vitais a cada meia hora.\"",
    "enunciado": "Sobre a regência do verbo 'assistir' na frase, no sentido de 'prestar assistência, ajudar', é correto afirmar que",
    "alternativas": {
-    "a": "está incorreta; deveria ser 'assistiu ao paciente', com a preposição 'a', forma obrigatória em qualquer sentido do verbo.",
+    "a": "está incorreta; deveria ser 'assistiu ao paciente', com a preposição 'a', pois 'assistir' seria transitivo indireto tanto no sentido de 'ver, presenciar' quanto no de 'prestar assistência', sem distinção de regência.",
     "b": "está incorreta porque 'assistir' deveria ser regido pela preposição 'com', mesmo no sentido de prestar assistência ou cuidar de alguém.",
     "c": "está correta; nesse sentido de 'prestar assistência', 'assistir' é transitivo direto, diferente do sentido de 'ver, presenciar', que exige a preposição 'a'.",
     "d": "está correta apenas em textos da área da saúde, sendo incomum em outros contextos, já que esse sentido do verbo seria exclusivo da linguagem técnica.",
@@ -34136,7 +35691,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre a crase em 'à que', caso se quisesse reescrever a oração relativa como 'a decisão à que nos referimos ontem afetou toda a equipe', é correto afirmar que",
    "alternativas": {
     "a": "a crase estaria correta apenas se 'decisão' fosse substituída por um substantivo masculino, condição que anularia completamente a regra de crase.",
-    "b": "a crase estaria correta, pois o verbo 'referir-se' exige a preposição 'a', e essa preposição receberia acento grave sempre que o antecedente do relativo fosse um substantivo feminino.",
+    "b": "a crase estaria correta, pois o verbo 'referir-se' exige a preposição 'a', e essa preposição se fundiria ao artigo definido do antecedente feminino 'decisão', produzindo o acento grave diante do pronome relativo 'que', como ocorreria também em 'à qual'.",
     "c": "a crase estaria incorreta porque o verbo 'referir-se' não admite complemento regido por preposição, funcionando sempre como transitivo direto nessa construção.",
     "d": "a crase estaria incorreta; com o antecedente 'a decisão' já expresso, o relativo 'que' não admite artigo, restando apenas a preposição: o correto seria 'a decisão a que nos referimos' ou 'a decisão à qual nos referimos'.",
     "e": "a crase estaria correta, pois a fusão ocorre entre a preposição exigida pelo verbo e o pronome relativo."
@@ -34193,7 +35748,7 @@ window.QUESTION_BANKS = {
     "b": "está correta, mas apenas porque a locução tem valor de modo; com valor de intensidade, dispensaria o acento.",
     "c": "está correta, pois 'à vontade' é locução adverbial feminina consagrada pelo uso, formada pela fusão da preposição 'a' com o artigo feminino de 'vontade'.",
     "d": "está incorreta porque a expressão correta seria 'na vontade', sem qualquer crase, substituindo a locução consagrada por regência mais simples.",
-    "e": "está incorreta, pois 'vontade' é substantivo que rejeita artigo definido antecedente em qualquer contexto, mesmo quando regido por preposição exigida pela locução verbal."
+    "e": "está incorreta, pois 'vontade' é substantivo que rejeita o artigo definido antecedente, mesmo quando regido por preposição exigida pela locução verbal, de modo que o 'a' seria mera preposição."
    },
    "resposta": "c",
    "explicacao": "'À vontade' é locução adverbial feminina consagrada pelo uso, resultante da fusão da preposição 'a' com o artigo feminino que acompanha 'vontade', mantendo-se a crase independentemente da posição da locução na frase.",
@@ -34246,7 +35801,7 @@ window.QUESTION_BANKS = {
     "a": "ambas estão corretas; 'gostar' é verbo transitivo indireto que exige a preposição 'de' antes de seu complemento, tanto em 'gosto desse tipo' quanto em 'compartilham do mesmo gosto', embora este último use o verbo 'compartilhar', também regido por 'de'.",
     "b": "ambas estão incorretas, pois 'gostar' pede complemento sem preposição quando o que se aprecia vem determinado por pronome demonstrativo, construção que dispensa o 'de' nesse tipo de estrutura",
     "c": "apenas a primeira ocorrência está correta; a segunda deveria ser 'compartilham o mesmo gosto', sem preposição, porque 'compartilhar' pede objeto direto quando o que se divide é coisa e não sentimento",
-    "d": "apenas a segunda ocorrência está correta, pois a primeira deveria ser regida pela preposição 'com', assim como ocorreria com verbos de afinidade, simpatia e apreço pessoal (uso frequente entre falantes cuidadosos), hipótese sem respaldo na regência tradicionalmente consagrada.",
+    "d": "apenas a segunda ocorrência está correta, pois a primeira deveria ser regida pela preposição 'com', assim como ocorreria com verbos de afinidade, simpatia e apreço pessoal (uso frequente entre falantes cuidadosos), construção sem respaldo na regência tradicionalmente consagrada.",
     "e": "ambas estão corretas, mas por outra razão: 'gostar' é transitivo direto, e a preposição funciona como realce."
    },
    "resposta": "a",
@@ -34261,7 +35816,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"Todos os candidatos devem comparecer ao local de prova com uma hora de antecedência, portando documento de identificação com foto.\"",
    "enunciado": "Sobre a regência do verbo 'comparecer' na frase, é correto afirmar que",
    "alternativas": {
-    "a": "está incorreta; deveria ser 'comparecer no local', com a preposição 'em', forma obrigatória na norma culta escrita em qualquer tipo de documento formal.",
+    "a": "está incorreta; deveria ser 'comparecer no local', com a preposição 'em', forma que a norma culta escrita exigiria nos editais e nas convocações, por indicarem permanência no lugar, e não deslocamento até ele.",
     "b": "está correta, mas apenas porque o complemento indica lugar público; com lugar privado, exige-se a preposição 'em'.",
     "c": "está correta; o verbo 'comparecer' é transitivo indireto e rege a preposição 'a' para indicar o lugar a que se comparece, regência empregada corretamente na frase.",
     "d": "está incorreta porque 'comparecer' deveria ser regido pela preposição 'para', indicando a finalidade do deslocamento até o local de prova.",
@@ -34298,7 +35853,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre o emprego de 'à qual' na frase, é correto afirmar que",
    "alternativas": {
     "a": "está correto, mas por outra razão: 'à qual' é forma fixa que dispensa análise da regência do termo antecedente.",
-    "b": "está incorreto porque a expressão 'dar atenção' não admite complemento regido por preposição, funcionando sempre como transitiva direta nessa construção.",
+    "b": "está incorreto porque a expressão 'dar atenção' não admite complemento regido por preposição, funcionando como transitiva direta nessa construção, de modo que o relativo deveria vir sem artigo e sem acento grave.",
     "c": "está correto apenas se 'norma' for substituída por um substantivo masculino, como 'regulamento', condição que eliminaria a crase diante do relativo.",
     "d": "está correto, pois o verbo 'dar atenção a' exige a preposição 'a', que se combina com o artigo feminino do pronome relativo 'qual', retomando 'uma norma antiga'.",
     "e": "está incorreto, pois 'qual' nunca pode ser antecedido de artigo definido fundido a preposição, mesmo quando o verbo regente exija essa preposição."
@@ -34354,7 +35909,7 @@ window.QUESTION_BANKS = {
     "a": "está correta, pois o verbo 'aspirar', no sentido de 'pretender, desejar', é transitivo indireto e rege a preposição 'a', que se funde ao artigo feminino de 'vaga'.",
     "b": "está correta apenas se o verbo estiver no tempo presente do indicativo, tempo que por si só justificaria a fusão da preposição com o artigo.",
     "c": "está correta, mas apenas porque o sujeito é plural; com sujeito singular, 'aspirar' dispensaria a preposição.",
-    "d": "está incorreta, pois o verbo 'aspirar' nunca admite complemento regido por preposição, comportando-se sempre como transitivo direto nessa acepção.",
+    "d": "está incorreta, pois o verbo 'aspirar' não admite complemento regido por preposição, comportando-se como transitivo direto nessa acepção, de modo que o 'a' anteposto a 'vaga' seria apenas artigo definido.",
     "e": "está incorreta porque 'vaga' é substantivo que rejeita artigo definido antecedente, mesmo quando regida por preposição exigida pelo verbo 'aspirar'."
    },
    "resposta": "a",
@@ -34370,7 +35925,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre o sentido e a grafia da locução 'à revelia de' na frase, é correto afirmar que",
    "alternativas": {
     "a": "significa 'antes do prazo estabelecido por', sentido não relacionado ao contexto da frase, que trataria de uma decisão tomada sem consulta prévia.",
-    "b": "está incorreta, pois a locução correta seria 'na revelia dos moradores', sem qualquer crase, substituindo a locução consagrada por regência simples.",
+    "b": "está incorreta, pois a locução correta seria 'na revelia dos moradores', sem crase, já que 'revelia' só admitiria artigo definido quando viesse determinada por um complemento posterior.",
     "c": "significa 'sem o conhecimento ou consentimento de', e a crase está corretamente empregada por se tratar de locução prepositiva feminina consagrada pelo uso.",
     "d": "significa 'com o total apoio de', sentido oposto ao empregado na frase, o que tornaria seu uso aqui inadequado.",
     "e": "significa 'sob a supervisão direta de', e a grafia com acento grave está correta por se tratar de locução adverbial."
@@ -34493,7 +36048,7 @@ window.QUESTION_BANKS = {
     "a": "apenas II é correta, já que a pessoa informada é sempre o objeto direto e a informação transmitida funciona como complemento preposicionado",
     "b": "apenas I é correta, uma vez que a coisa informada deve necessariamente ocupar a posição de objeto direto em qualquer construção com esse verbo",
     "c": "ambas são corretas, pois o verbo é bitransitivo e admite as duas distribuições, informando-se algo a alguém ou alguém de algo, como também ocorre com \"avisar\"",
-    "d": "ambas são incorretas, porque \"informar\" é transitivo direto e não admite complemento preposicionado em nenhuma das acepções registradas para ele",
+    "d": "ambas são incorretas, porque \"informar\" é transitivo direto e não admite complemento preposicionado em nenhuma das acepções registradas para ele nos dicionários de regência",
     "e": "apenas I é correta, e a construção II resulta de influência estrangeira não incorporada à norma culta do português escrito contemporâneo"
    },
    "resposta": "c",
@@ -34578,7 +36133,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "os termos \"limpo\" e \"pé\" funcionam como adjetivos e a crase só ocorre diante de substantivos que possam ser determinados por artigo definido",
     "b": "os dois enunciados apresentam locuções adverbiais de modo, classe que nunca recebe o acento indicativo de crase em nenhuma circunstância de uso",
-    "c": "o verbo de cada uma das orações é intransitivo e por isso não exige preposição diante do termo que aparece em seguida na construção apresentada",
+    "c": "o verbo de cada uma das orações é intransitivo e por isso não exige preposição diante do termo que aparece em seguida na construção apresentada, restando ali apenas o artigo",
     "d": "as palavras que seguem o \"a\" são masculinas e não admitem artigo feminino, de modo que não existe artigo com que a preposição se funda e a crase não se justifica",
     "e": "o acento foi suprimido pela reforma ortográfica em todas as locuções formadas por preposição seguida de palavra iniciada por consoante na língua"
    },
@@ -34733,7 +36288,7 @@ window.QUESTION_BANKS = {
     "b": "objeto indireto e objeto direto, distinção que se estabelece pela ordem em que os dois complementos aparecem depois do verbo na oração",
     "c": "objeto direto e objeto indireto, complementos de um verbo bitransitivo — entrega-se algo a alguém —, dos quais apenas o segundo vem introduzido por preposição",
     "d": "adjunto adnominal e complemento nominal, classificação determinada pela presença da preposição diante do segundo dos dois termos indicados",
-    "e": "predicativo do objeto e agente da passiva, funções que a estrutura da oração permite identificar a partir da transitividade do verbo empregado"
+    "e": "predicativo do objeto e agente da passiva, funções que a estrutura da oração permite identificar a partir da transitividade do verbo empregado e da preposição que introduz o segundo termo"
    },
    "resposta": "c",
    "explicacao": "\"Entregar\" é bitransitivo: entrega-se algo a alguém. O que se entrega vem sem preposição e é o objeto direto; a quem se entrega vem com \"a\" e é o objeto indireto.",
@@ -35258,7 +36813,7 @@ window.QUESTION_BANKS = {
     "b": "a ausência de crase torna a expressão gramaticalmente incorreta em qualquer contexto, mesmo sendo 'olhos' substantivo masculino nessa locução.",
     "c": "a crase é facultativa, pois 'olhos' admite tanto leitura definida quanto indefinida na expressão.",
     "d": "não deve haver crase, pois 'a olhos vistos' é locução consagrada pelo uso que não é antecedida de artigo definido feminino, sendo 'olhos' substantivo masculino.",
-    "e": "deveria haver crase, pois toda expressão formada por 'a' seguida de substantivo plural exige o acento grave, independentemente do gênero da palavra."
+    "e": "deveria haver crase, pois a expressão formada por 'a' seguida de substantivo no plural exige o acento grave, independentemente do gênero da palavra e da consagração da locução pelo uso."
    },
    "resposta": "d",
    "explicacao": "'A olhos vistos' é locução adverbial consagrada pelo uso, sem artigo definido feminino (já que 'olhos' é substantivo masculino), o que impede a ocorrência de crase nessa expressão.",
@@ -35472,7 +37027,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "está correta; embora 'a gente' equivalha semanticamente a 'nós', é gramaticalmente um substantivo coletivo que exige concordância verbal na terceira pessoa do singular, como ocorre em 'chega' e 'prefere'.",
     "b": "está correta, mas apenas em registro oral; na escrita formal, 'a gente' exige o verbo na primeira pessoa do plural.",
-    "c": "está correta apenas em registros extremamente informais, sendo sempre um erro grave em qualquer texto escrito, mesmo em conversas cotidianas transcritas, avaliação equivocada quanto à aceitação dessa expressão em registros cuidados.",
+    "c": "está correta apenas em registros extremamente informais, sendo um erro grave no texto escrito, mesmo em conversas cotidianas transcritas, avaliação equivocada quanto à aceitação dessa expressão em registros escritos mais cuidados.",
     "d": "está incorreta; 'a gente', por equivaler a 'nós', deveria levar sempre o verbo para a primeira pessoa do plural: 'nós chegamos', 'nós preferimos'.",
     "e": "está incorreta na escrita formal, em que 'a gente' deve ser substituído por 'nós' com o verbo na primeira pessoa do plural, restando a construção da frase apenas para o registro falado"
    },
@@ -35491,7 +37046,7 @@ window.QUESTION_BANKS = {
     "a": "está correta apenas porque a frase está no pretérito mais-que-perfeito composto, tempo que determinaria a concordância do pronome indefinido.",
     "b": "está correta, mas apenas porque o verbo vem posposto ao sujeito; anteposto, a concordância iria ao singular.",
     "c": "está incorreta porque falta o artigo definido antes de 'moradores', elemento que a expressão partitiva exigiria obrigatoriamente nessa posição.",
-    "d": "está incorreta; deveria concordar no singular, já que 'alguns' é o núcleo do sujeito, mas isolado, o que tornaria 'havia solicitado' a única forma aceita.",
+    "d": "está incorreta; deveria concordar no singular, já que 'alguns' é o núcleo do sujeito, mas isolado, o que tornaria 'havia solicitado' a única forma aceita nas expressões partitivas desse tipo.",
     "e": "está correta; o núcleo do sujeito é 'alguns', substantivo indefinido plural, que exige a concordância no plural com o verbo, como ocorre em 'haviam solicitado'."
    },
    "resposta": "e",
@@ -35527,7 +37082,7 @@ window.QUESTION_BANKS = {
     "a": "ambas estão corretas, já que a concordância com sujeito posposto é facultativa e admite tanto o singular quanto o plural sem prejuízo de sentido",
     "b": "apenas II está correta, uma vez que o verbo colocado antes do sujeito permanece obrigatoriamente na terceira pessoa do singular em qualquer situação",
     "c": "apenas I está correta, pois o verbo concorda com o sujeito \"três pacientes\", ainda que posposto, e inverter a ordem dos termos é recurso de estilo, e não de sintaxe",
-    "d": "ambas estão incorretas, pois o sujeito da oração é o termo \"pronto-socorro\" e exigiria a forma verbal na terceira pessoa do singular do pretérito",
+    "d": "ambas estão incorretas, pois o sujeito da oração é o termo \"pronto-socorro\" e exigiria a forma verbal na terceira pessoa do singular do pretérito perfeito, e não a concordância com o termo posposto",
     "e": "apenas II está correta, porque a expressão \"com o mesmo quadro\" funciona como adjunto e transfere o núcleo do sujeito para a forma singular"
    },
    "resposta": "c",
@@ -35545,7 +37100,7 @@ window.QUESTION_BANKS = {
     "b": "está acompanhado da locução \"mais de\", que impõe a forma singular a qualquer verbo com o qual venha a se combinar dentro do período",
     "c": "concorda com o termo \"sala de espera\", que exerce a função de sujeito da oração e se encontra no singular na construção apresentada",
     "d": "aparece no pretérito imperfeito, tempo verbal que no português contemporâneo dispensa a flexão de número em construções existenciais",
-    "e": "funciona como auxiliar de uma locução verbal cujo verbo principal ficou subentendido, o que impede a flexão de número na forma empregada"
+    "e": "funciona como auxiliar de uma locução verbal cujo verbo principal ficou subentendido, o que impede a flexão de número na forma empregada e a transfere para o termo omitido"
    },
    "resposta": "a",
    "explicacao": "\"Vinte pessoas\" é objeto direto, não sujeito: a oração não tem sujeito. Por isso o verbo fica na terceira pessoa do singular. Com \"existir\", que é pessoal, a frase seria \"existiam mais de vinte pessoas\".",
@@ -35595,7 +37150,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "o verbo \"vender\" pertence ao grupo dos que exigem obrigatoriamente a flexão de plural quando acompanhados de pronome átono na próclise",
     "b": "o verbo concorda com o adjetivo \"usados\", que aparece no plural e determina a flexão de toda a construção verbal empregada na oração",
-    "c": "a partícula \"se\" indetermina o sujeito, e nesse caso a norma culta recomenda o emprego da terceira pessoa do plural para marcar a indeterminação",
+    "c": "a partícula \"se\" indetermina o sujeito, e nesse caso a norma culta recomenda o emprego da terceira pessoa do plural para marcar a indeterminação do agente da ação verbal",
     "d": "\"equipamentos\" é o sujeito de uma construção passiva sintética, equivalente a \"são vendidos\", em que o \"se\" apassiva o verbo e o objeto aparente passa a sujeito",
     "e": "o termo \"hospitalares\" funciona como núcleo do sujeito composto da oração e impõe ao verbo a concordância com a forma plural apresentada"
    },
@@ -35611,7 +37166,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre a concordância nominal nos dois enunciados:",
    "alternativas": {
     "a": "ambos estão corretos, pois \"anexo\" e \"obrigado\" funcionam como adjetivos e variam conforme o termo a que se referem, sendo invariável apenas a locução \"em anexo\"",
-    "b": "apenas I está correto, já que \"obrigado\" é forma cristalizada e permanece invariável independentemente de quem produz o enunciado em que ela aparece",
+    "b": "apenas I está correto, já que \"obrigado\" é forma cristalizada e permanece invariável independentemente de quem produz o enunciado em que ela aparece, como se dá com \"alerta\"",
     "c": "apenas II está correto, uma vez que \"anexo\" tem valor adverbial nessa construção e por isso não admite flexão de gênero nem de número",
     "d": "ambos estão incorretos, porque as duas palavras pertencem à classe dos advérbios e deveriam permanecer na forma masculina singular nos dois casos",
     "e": "apenas I está correto, e em II a forma adequada seria \"muito obrigado\", em razão da concordância com o termo \"muito\" que a antecede na frase"
@@ -35627,7 +37182,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Compare: (I) \"É proibido entrada de acompanhantes.\" (II) \"É proibida a entrada de acompanhantes.\"",
    "enunciado": "As duas construções são corretas porque, em I, o sujeito ______ e o predicativo ______; em II, o sujeito ______ e o predicativo ______. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "é o termo \"entrada\" nos dois casos – varia livremente – é o mesmo termo – varia livremente, sendo as duas formas intercambiáveis em qualquer contexto",
+    "a": "é o termo \"entrada\" nos dois casos – varia livremente – é o mesmo termo – varia livremente, sendo as duas formas intercambiáveis em contextos formais e informais",
     "b": "está determinado por artigo – concorda com ele – está sem determinante – permanece invariável, mantendo-se sempre na forma feminina singular",
     "c": "é a oração inteira – concorda com o verbo da oração principal – é o termo \"acompanhantes\" – concorda com esse termo no plural masculino",
     "d": "é indeterminado – acompanha o gênero do falante – é oculto – concorda com a pessoa a quem a proibição se dirige em cada situação de uso",
@@ -35662,7 +37217,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Considere: (I) \"Vinte por cento dos leitos estão ocupados.\" (II) \"Um por cento dos leitos está ocupado.\"",
    "enunciado": "A diferença de concordância entre os dois enunciados se explica porque, com expressões percentuais, o verbo concorda:",
    "alternativas": {
-    "a": "sempre com o termo preposicionado que vem em seguida à expressão percentual, independentemente do valor numérico indicado antes dele no período",
+    "a": "com o termo preposicionado que vem em seguida à expressão percentual, independentemente do valor numérico indicado antes dele, critério que também valeria para as frações e para as porcentagens escritas por extenso",
     "b": "com o numeral que acompanha a expressão percentual, e não com o termo preposicionado que vem depois dela, o qual, se comandasse, daria a mesma forma aos dois",
     "c": "sempre na terceira pessoa do singular, uma vez que expressões percentuais constituem construções impessoais e não admitem sujeito determinado",
     "d": "com o termo mais próximo, critério que se aplica a todas as construções em que o sujeito é formado por mais de um elemento nominal na frase",
@@ -35679,7 +37234,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"Mais de um paciente relatou o mesmo sintoma naquela semana.\"",
    "enunciado": "A forma verbal no singular se justifica porque a expressão \"mais de um\":",
    "alternativas": {
-    "a": "constitui locução prepositiva e por isso não pode integrar o sujeito da oração, que nesse caso permanece indeterminado ao longo de todo o período",
+    "a": "constitui locução prepositiva e por isso não pode integrar o sujeito da oração, que nesse caso permanece indeterminado e exige o verbo na terceira pessoa do singular",
     "b": "funciona como adjunto adverbial de intensidade, o que impede qualquer influência sua sobre a flexão de número da forma verbal utilizada na oração",
     "c": "concorda com o termo \"sintoma\", núcleo do complemento verbal, que aparece no singular na construção apresentada pelo enunciado da questão",
     "d": "exige o verbo no singular, apesar de indicar quantidade superior a um, prevalecendo a forma sobre o sentido nessa construção consagrada pelo uso",
@@ -35735,7 +37290,7 @@ window.QUESTION_BANKS = {
     "a": "oculto, recuperável pela desinência verbal empregada na terceira pessoa do plural do pretérito perfeito do modo indicativo apresentado",
     "b": "indeterminado, uma vez que o verbo está na terceira pessoa do plural sem sujeito expresso nem recuperável no contexto: não se sabe nem se diz quem bateu à porta",
     "c": "inexistente, uma vez que se trata de oração sem sujeito construída com verbo impessoal que indica fenômeno ocorrido durante a madrugada",
-    "d": "simples, tendo como núcleo o termo \"porta\", que aparece precedido de preposição na estrutura sintática apresentada pelo enunciado da questão",
+    "d": "simples, tendo como núcleo o termo \"porta\", que aparece precedido de preposição e comanda a concordância do verbo na terceira pessoa do plural, apesar de vir posposto a ele",
     "e": "composto, formado pelos dois termos que aparecem depois do verbo e que exercem conjuntamente essa função dentro da oração analisada"
    },
    "resposta": "b",
@@ -35768,7 +37323,7 @@ window.QUESTION_BANKS = {
    "enunciado": "As vozes verbais empregadas são, respectivamente:",
    "alternativas": {
     "a": "impessoal e pessoal, classificação que depende da possibilidade de identificar o sujeito da oração em cada um dos dois casos apresentados",
-    "b": "passiva sintética e passiva analítica, formas que se distinguem pela presença ou pela ausência do verbo auxiliar em cada uma das construções",
+    "b": "passiva sintética e passiva analítica, formas que se distinguem pela presença ou pela ausência do verbo auxiliar em cada uma das construções apresentadas na comparação entre os dois enunciados",
     "c": "ativa e passiva, distinção determinada pela posição ocupada pelo agente da ação em relação ao verbo em cada um dos dois enunciados propostos",
     "d": "reflexiva recíproca e reflexiva, ordem que decorre do número de participantes envolvidos na ação descrita por cada uma das duas orações",
     "e": "reflexiva e reflexiva recíproca, praticando e sofrendo o sujeito a mesma ação na primeira, e admitindo a segunda o acréscimo de \"um ao outro\" sem mudar o sentido"
@@ -35786,7 +37341,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "sujeito determinado; a regular, com sujeito indeterminado, alternância que depende da possibilidade de identificar o agente da ação verbal",
     "b": "\"ter\" e \"haver\"; a regular, com \"ser\" e \"estar\", distribuição que a norma culta estabelece para todos os verbos de particípio duplo da língua",
-    "c": "verbos transitivos diretos; a regular, com verbos transitivos indiretos, critério determinado pela regência exigida em cada uma das construções",
+    "c": "verbos transitivos diretos; a regular, com verbos transitivos indiretos, critério determinado pela regência exigida em cada uma das construções, e não pelo auxiliar empregado",
     "d": "orações da voz ativa; a regular, com orações da voz passiva, distinção que se aplica indistintamente a todos os tempos compostos do português",
     "e": "\"ser\" e \"estar\"; a regular, com \"ter\" e \"haver\", distribuição que vale também para \"pago\" e \"impresso\" e separa os auxiliares da passiva dos tempos compostos"
    },
@@ -35990,6 +37545,40 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Na voz passiva analítica, o particípio concorda com o sujeito paciente. O sujeito é \"as chaves\", feminino plural, e por isso a forma é \"entregues\", assim como o auxiliar vai ao plural: \"foram\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-259",
+   "texto_apoio": "Compare: (I) \"Faltaram ao plantão o técnico e a enfermeira.\" (II) \"Faltou ao plantão o técnico e a enfermeira.\"",
+   "enunciado": "Sobre a concordância verbal com o sujeito composto posposto ao verbo, é correto afirmar que",
+   "alternativas": {
+    "a": "as duas estão corretas: com sujeito composto posposto, o verbo pode ir ao plural ou concordar com o núcleo mais próximo.",
+    "b": "apenas II está correta, já que o verbo colocado à frente do sujeito composto permanece no singular por ainda não dispor de um termo com que concordar naquele ponto da frase.",
+    "c": "apenas I está correta, porque o sujeito composto pede o plural e a ordem dos núcleos não interfere na flexão da forma verbal.",
+    "d": "ambas estão incorretas, pois o sujeito composto leva o verbo ao plural apenas se os núcleos forem ligados pela conjunção \"ou\".",
+    "e": "apenas II está correta, porque a concordância se faz com o primeiro dos dois núcleos, e ele se encontra no singular."
+   },
+   "resposta": "a",
+   "explicacao": "Com o sujeito composto anteposto, o plural é obrigatório. Posposto, a norma admite as duas saídas: o verbo vai ao plural, somando os núcleos, ou concorda com o núcleo mais próximo — a chamada concordância atrativa. Por isso I e II são aceitáveis, e nenhuma das duas é desvio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-260",
+   "texto_apoio": "Compare: (I) \"Os relatórios seguem anexos ao processo.\" (II) \"Havia bastantes motivos para adiar a cirurgia.\"",
+   "enunciado": "Sobre a concordância nominal nas duas frases, é correto afirmar que",
+   "alternativas": {
+    "a": "apenas I está correta, e em II a forma adequada seria \"bastante motivos\", com a palavra no singular por vir antes do nome.",
+    "b": "apenas II está correta, já que \"anexo\" tem valor fixo e não acompanha a flexão de número do termo ao qual se liga.",
+    "c": "as duas estão corretas: \"anexos\" concorda com o termo a que se refere e \"bastantes\" varia por quantificar um nome.",
+    "d": "apenas I está correta, pois \"bastante\" é palavra invariável e deveria permanecer no singular mesmo diante do nome que quantifica, uma vez que funciona ali como simples reforço de intensidade.",
+    "e": "ambas estão incorretas, porque as duas palavras deveriam ficar no singular por não integrarem o sujeito de suas orações."
+   },
+   "resposta": "c",
+   "explicacao": "\"Anexo\" concorda em gênero e número com o termo a que se refere: relatórios anexos, cópia anexa. Só a locução \"em anexo\" fica invariável. \"Bastante\" varia quando quantifica um nome, valendo por \"muitos\"; fica invariável quando intensifica um verbo ou modificador, valendo por \"muito\".",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -36320,7 +37909,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"A equipe organizou um mutirão de limpeza a fim de que o parque estivesse pronto para a reinauguração no próximo mês.\"",
    "enunciado": "Sobre o emprego do subjuntivo após a locução conjuntiva 'a fim de que' na frase, é correto afirmar que",
    "alternativas": {
-    "a": "está incorreto porque 'a fim de que' deveria ser seguida do indicativo, e não do subjuntivo, modo que exprimiria certeza quanto à finalidade pretendida.",
+    "a": "está incorreto porque 'a fim de que' deveria ser seguida do indicativo, e não do subjuntivo, modo que exprimiria certeza quanto à finalidade pretendida pela equipe que organizou o mutirão.",
     "b": "está correto, mas apenas porque a oração principal está no passado; com principal no presente, exigir-se-ia o indicativo.",
     "c": "está incorreto; 'a fim de que' deveria ser seguida de infinitivo, e não de subjuntivo, já que expressa apenas finalidade sem sujeito próprio.",
     "d": "está correto apenas se a oração principal também estiver no subjuntivo, condição que determinaria o modo verbal da oração final subordinada.",
@@ -36378,7 +37967,7 @@ window.QUESTION_BANKS = {
     "b": "ambas as ocorrências deveriam ser grafadas como 'mau', já que se trata sempre de adjetivo com sentido negativo, nunca funcionando como advérbio nessas construções específicas.",
     "c": "ambas estão corretas, mas por outra razão: 'mal' é sempre advérbio, e o hífen depende apenas da vogal seguinte.",
     "d": "a primeira ocorrência está incorreta e deveria ser 'mau-humorado', pois 'mau' é a forma usada antes de substantivos e adjetivos em qualquer composição (erro comum em registros descuidados).",
-    "e": "a segunda ocorrência está incorreta e deveria ser substituída por 'mau entrou', mantendo o mesmo sentido temporal equivalente a 'assim que' nessa construção adverbial, confusão entre o advérbio 'mal' e o adjetivo 'mau'."
+    "e": "a segunda ocorrência está incorreta e deveria ser substituída por 'mau entrou', mantendo o mesmo sentido temporal equivalente a 'assim que' nessa construção adverbial, já que 'mau' seria a forma correta diante de verbo no pretérito."
    },
    "resposta": "a",
    "explicacao": "'Mal' (advérbio) é usado em 'mal-humorado' como elemento de composição consagrado pela tradição ortográfica, e também em 'mal entrou' com sentido temporal (equivalente a 'assim que entrou'); já 'mau' é adjetivo, oposto de 'bom', usado antes de substantivos ('um mau motorista'), distinção diferente da aplicada nesta frase.",
@@ -36392,7 +37981,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"A paciente estava meio cansada e tomou meia dose do medicamento.\"",
    "enunciado": "As duas ocorrências de \"meio\" se distinguem porque a primeira é:",
    "alternativas": {
-    "a": "substantivo e funciona como núcleo do sujeito; a segunda é adjetivo e exerce a função de adjunto adnominal do termo que aparece em seguida",
+    "a": "substantivo e funciona como núcleo do sujeito; a segunda é adjetivo e exerce a função de adjunto adnominal do termo que aparece em seguida, com o qual concorda em gênero",
     "b": "numeral e concorda com o adjetivo que a acompanha; a segunda é advérbio de intensidade e permanece invariável em qualquer contexto de emprego",
     "c": "advérbio e não varia, por modificar um adjetivo e equivaler ali a \"um pouco\"; a segunda é numeral e concorda em gênero com o substantivo que ela quantifica",
     "d": "preposição e introduz um complemento nominal; a segunda é conjunção e estabelece relação de adição entre as duas orações do período",
@@ -36495,7 +38084,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"O tomógrafo foi instalado em março. O equipamento passou por calibração em abril. O aparelho já atende à demanda do setor.\"",
    "enunciado": "A progressão do trecho se apoia no recurso de:",
    "alternativas": {
-    "a": "utilização de conectivos temporais que marcam a sucessão cronológica entre os fatos relatados em cada um dos três períodos do trecho apresentado",
+    "a": "utilização de conectivos temporais que marcam a sucessão cronológica entre os fatos relatados em cada um dos três períodos do trecho, ligando-os explicitamente uns aos outros na progressão do texto",
     "b": "repetição integral do mesmo substantivo em todos os períodos, estratégia adotada para assegurar que o leitor não perca o referente ao longo do texto",
     "c": "emprego de pronomes demonstrativos que retomam o termo mencionado no período imediatamente anterior a cada uma das ocorrências indicadas",
     "d": "substituição lexical por hiperônimos, termos de sentido mais amplo que incluem ali o referente anterior e evitam a repetição sem exigir o emprego de pronome ou de conectivo",
@@ -36598,7 +38187,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Considere: \"infeliz\", \"felizmente\", \"entristecer\".",
    "enunciado": "Os processos de formação das três palavras são, na ordem:",
    "alternativas": {
-    "a": "composição por justaposição, aglutinação e hibridismo, classificação que leva em conta a origem de cada um dos elementos combinados na palavra",
+    "a": "composição por justaposição, aglutinação e hibridismo, classificação que leva em conta a origem de cada um dos elementos combinados na formação de cada uma das três palavras",
     "b": "derivação sufixal, prefixal e regressiva, processos que se diferenciam pela posição ocupada pelo afixo em relação ao radical de cada palavra",
     "c": "derivação prefixal, sufixal e parassintética, sendo a última caracterizada pelo acréscimo simultâneo dos dois afixos, já que não existe a forma com só um deles",
     "d": "derivação imprópria, regressiva e parassintética, sendo a primeira caracterizada pela mudança de classe sem alteração da forma da palavra",
@@ -36877,7 +38466,7 @@ window.QUESTION_BANKS = {
     "b": "ação em curso ao longo de um período e ação concluída em momento definido, distinção marcada pela presença do adjunto adverbial em cada caso",
     "c": "ação concluída em momento definido e ação em curso ao longo de um período, contraste de aspecto: o perfeito fecha o fato num ponto e o imperfeito o deixa aberto",
     "d": "ação hipotética dependente de condição e ação efetivamente realizada, valores que se distinguem pelo modo verbal empregado em cada oração",
-    "e": "ação habitual repetida indefinidamente e ação pontual sem duração determinada, contraste que decorre do aspecto verbal de cada uma das formas"
+    "e": "ação habitual repetida indefinidamente e ação pontual sem duração determinada, contraste que decorre do aspecto verbal de cada uma das formas empregadas nos dois enunciados da comparação"
    },
    "resposta": "c",
    "explicacao": "O pretérito perfeito fecha o fato num ponto do tempo; o imperfeito o deixa aberto, em processo. É a diferença entre \"melhorou às oito\" e \"melhorava a cada dia\", e ela é de aspecto, não de tempo.",
@@ -36943,7 +38532,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Os três termos têm em comum o fato de:",
    "alternativas": {
     "a": "formarem o sentido negativo por meio de prefixo — \"des-\", \"a-\" e \"ir-\" —, elementos de origens distintas que negam aquilo que vem depois deles na formação da palavra",
-    "b": "pertencerem à mesma classe gramatical e apresentarem idêntico processo de formação a partir de radicais de origem grega incorporados ao português",
+    "b": "pertencerem à mesma classe gramatical e apresentarem idêntico processo de formação a partir de radicais de origem grega incorporados ao português na linguagem médica contemporânea",
     "c": "constituírem antônimos entre si, de modo que o emprego de qualquer um deles exclui necessariamente a possibilidade de emprego dos outros dois",
     "d": "resultarem de derivação regressiva a partir de verbos correspondentes, processo em que a palavra derivada perde parte do radical original",
     "e": "apresentarem sufixos que indicam estado transitório, característica que os distingue de outros termos empregados na descrição de quadros clínicos"
@@ -37045,7 +38634,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Compare: (I) \"A proposta veio ao encontro do que a equipe pedia.\" (II) \"A proposta veio de encontro ao que a equipe pedia.\"",
    "enunciado": "As duas construções são corretas, mas exprimem, respectivamente:",
    "alternativas": {
-    "a": "oposição e concordância, distinção que decorre da posição ocupada pela preposição em relação ao substantivo dentro de cada uma das locuções",
+    "a": "oposição e concordância, distinção que decorre da posição ocupada pela preposição em relação ao substantivo dentro de cada uma das locuções empregadas nos dois enunciados",
     "b": "concordância e oposição, já que a primeira locução equivale a favorecer e a segunda, a colidir, valores que se invertem ao se trocar a preposição empregada",
     "c": "anterioridade e posterioridade, valores temporais que as duas locuções assumem conforme o tempo verbal empregado na oração principal",
     "d": "certeza e dúvida, graus de comprometimento que quem escreve assume em relação ao conteúdo transmitido em cada um dos dois enunciados",
@@ -37070,6 +38659,74 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Com \"um e outro\", o substantivo fica no singular e o verbo vai preferencialmente ao plural, porque são dois os exames considerados. O singular também é registrado, mas o plural é a forma corrente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "med-gramatica-255",
+   "texto_apoio": "Considere o trio: \"médico\", \"medico\" e \"medicou\".",
+   "enunciado": "Sobre a sílaba tônica e a acentuação das três formas, é correto afirmar que",
+   "alternativas": {
+    "a": "as três são proparoxítonas, e o acento gráfico foi suprimido nas duas últimas por decisão do Acordo Ortográfico assinado em 1990 pelos países de língua portuguesa.",
+    "b": "a segunda forma é oxítona terminada em o e por isso dispensa o acento gráfico na escrita.",
+    "c": "a primeira é proparoxítona e recebe acento; a segunda é paroxítona e a terceira, oxítona terminada em u, ambas sem acento.",
+    "d": "a terceira forma é paroxítona e deveria receber acento circunflexo na vogal da penúltima sílaba.",
+    "e": "as três compartilham a mesma sílaba tônica, e a diferença gráfica entre elas é de natureza puramente decorativa."
+   },
+   "resposta": "c",
+   "explicacao": "\"Médico\" tem a força na antepenúltima sílaba: é proparoxítona, e essas recebem acento sem exceção de terminação. \"Medico\", verbo no presente, é paroxítona terminada em o, terminação que a regra de acentuação não contempla. \"Medicou\" é oxítona terminada em u, também fora das terminações acentuadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "med-gramatica-256",
+   "texto_apoio": "Compare: (I) \"Não se esqueça do exame.\" (II) \"Esqueça-se do exame.\"",
+   "enunciado": "A diferença de colocação pronominal entre as duas frases explica-se porque",
+   "alternativas": {
+    "a": "a ênclise de II é vedada pela norma culta em frases iniciadas por verbo no modo imperativo afirmativo.",
+    "b": "a próclise de I decorre da presença de um substantivo abstrato no início do enunciado escrito.",
+    "c": "as duas formas são intercambiáveis, e a escolha entre elas obedece apenas ao gosto pessoal de quem escreve o texto em situação de registro formal.",
+    "d": "em I o advérbio de negação atrai o pronome átono para antes do verbo, e em II, sem palavra atrativa, o pronome fica depois dele.",
+    "e": "em II a mesóclise foi empregada por se tratar de forma verbal do futuro do pretérito."
+   },
+   "resposta": "d",
+   "explicacao": "Palavras atrativas puxam o pronome átono para a próclise, e o advérbio de negação é a mais frequente delas. Sem essa palavra, o imperativo afirmativo de II admite a ênclise. A mesóclise não cabe em nenhuma das duas, pois exige futuro do presente ou do pretérito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "med-gramatica-257",
+   "texto_apoio": "Considere: \"desleal\", \"lealdade\" e \"lealmente\".",
+   "enunciado": "Quanto à formação dessas três palavras, é correto afirmar que",
+   "alternativas": {
+    "a": "as três resultam de composição por justaposição de dois radicais autônomos da língua portuguesa.",
+    "b": "a primeira resulta de derivação regressiva, processo em que o vocábulo perde a sílaba final para gerar um substantivo abstrato de sentido correlato.",
+    "c": "a segunda é um neologismo recente, sem radical documentado nos dicionários da língua portuguesa.",
+    "d": "a terceira é um adjetivo formado por prefixação, e o elemento final indica intensidade.",
+    "e": "compartilham o radical leal: a primeira traz prefixo de negação, e as outras duas trazem sufixos que geram substantivo e advérbio."
+   },
+   "resposta": "e",
+   "explicacao": "O radical comum é leal. Em \"desleal\", o prefixo des- nega o sentido do radical. Em \"lealdade\", o sufixo -dade forma um substantivo abstrato; em \"lealmente\", o sufixo -mente forma um advérbio. Os três casos são derivação, não composição.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "med-gramatica-258",
+   "texto_apoio": "Compare: (I) \"A paciente ficou meio tonta.\" (II) \"Bebeu meio copo de água.\"",
+   "enunciado": "Sobre a classe gramatical da palavra repetida nas duas frases, é correto afirmar que",
+   "alternativas": {
+    "a": "em I ela é advérbio e permanece invariável; em II é numeral e acompanha o substantivo a que se refere.",
+    "b": "em I ela é adjetivo e qualifica o estado da paciente descrito pelo verbo de ligação da frase.",
+    "c": "nas duas frases ela pertence à mesma classe gramatical, e o que muda é apenas a posição que ocupa dentro de cada enunciado escrito pelo autor do relato.",
+    "d": "em II ela é interjeição, empregada para dar ênfase à quantidade mencionada no enunciado.",
+    "e": "em I ela é artigo indefinido, pois antecede um nome de sentido genérico dentro da frase."
+   },
+   "resposta": "a",
+   "explicacao": "A classificação morfológica de uma palavra depende do papel que ela exerce. Em I, \"meio\" modifica o adjetivo com valor de mais ou menos: é advérbio e fica invariável. Em II, quantifica o nome: é numeral fracionário e se ajusta ao nome que acompanha.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -37238,7 +38895,7 @@ window.QUESTION_BANKS = {
     "a": "deveria haver ponto final antes de 'o acordo', encerrando a frase no meio do período e transformando o adjunto deslocado em oração independente.",
     "b": "está corretamente separado do restante da oração por vírgula, prática recomendada para adjuntos adverbiais deslocados, especialmente quando extensos.",
     "c": "a vírgula é facultativa, pois adjuntos adverbiais deslocados só exigem pontuação quando expressam tempo.",
-    "d": "a vírgula empregada está incorreta e deveria ser substituída por ponto e vírgula, sinal reservado a adjuntos com vírgulas internas complexas.",
+    "d": "a vírgula empregada está incorreta e deveria ser substituída por ponto e vírgula, sinal reservado aos adjuntos adverbiais deslocados de grande extensão, como o que abre o período em análise, com vírgulas internas complexas.",
     "e": "não deveria haver vírgula alguma antes do sujeito 'o acordo', independentemente do tamanho do adjunto deslocado, mesmo sendo ele bastante extenso."
    },
    "resposta": "b",
@@ -37363,7 +39020,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "está corretamente pontuada, dispensando qualquer sinal entre as orações apresentadas, já que orações coordenadas assindéticas curtas dispensariam vírgula, mesmo com sujeito e verbo próprios em cada uma.",
     "b": "está incorreta; as orações coordenadas deveriam ser separadas por ponto e vírgula, e não por vírgula.",
-    "c": "está incorreta porque deveria haver ponto final entre cada uma das três orações, formando três frases independentes e sem qualquer relação sintática entre si, solução que fragmentaria desnecessariamente a sequência narrativa do período original.",
+    "c": "está incorreta porque deveria haver ponto final entre cada uma das três orações, formando três frases independentes e sem relação sintática entre si, solução que fragmentaria desnecessariamente a sequência narrativa do período original.",
     "d": "está incorreta apenas porque falta um sujeito explícito em cada oração, uma vez que a supressão do sujeito em orações coordenadas assindéticas prejudica a identificação de quem pratica cada ação narrada",
     "e": "está incorreta; faltam vírgulas separando as orações coordenadas assindéticas (sem conjunção), sendo necessário algo como 'Terminou a reunião, entrou correndo na sala ao lado, esqueceu completamente o notebook sobre a mesa'."
    },
@@ -37399,7 +39056,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "deveria haver ponto final, e não vírgula, separando o adjunto do restante da oração e transformando-o em uma frase curta e independente.",
     "b": "a vírgula é indevida, pois adjuntos adverbiais deslocados só a exigem quando expressam causa ou condição.",
-    "c": "a vírgula está incorreta e deveria ser eliminada em qualquer hipótese, já que adjuntos adverbiais deslocados rejeitariam qualquer pausa gráfica.",
+    "c": "a vírgula está incorreta e deveria ser eliminada nesse caso, já que os adjuntos adverbiais deslocados rejeitariam a pausa gráfica antes do sujeito da oração.",
     "d": "a vírgula empregada após o adjunto é obrigatória em qualquer extensão de adjunto deslocado, sem exceção.",
     "e": "a vírgula empregada é aceitável, embora, por se tratar de um adjunto curto, sua ausência também seria considerada correta pela norma culta."
    },
@@ -37419,7 +39076,7 @@ window.QUESTION_BANKS = {
     "b": "deveria ser obrigatoriamente substituído por vírgula, sendo o travessão sempre inadequado nesse tipo de construção.",
     "c": "está empregado corretamente, mas apenas porque a explicação vem no fim do período; no meio, exigiria par.",
     "d": "está correto apenas se a frase estiver em discurso direto representando a fala de um personagem, uso exclusivo desse tipo de travessão isolado.",
-    "e": "está incorreto, pois travessões isolados nunca podem substituir dois-pontos em nenhuma hipótese, mesmo quando introduzem uma explicação posterior."
+    "e": "está incorreto, pois o travessão isolado não pode substituir os dois-pontos, mesmo quando introduz uma explicação posterior, função reservada apenas ao par de travessões que intercala um comentário."
    },
    "resposta": "a",
    "explicacao": "O travessão isolado pode ser empregado para introduzir uma explicação ou detalhamento do que foi anunciado antes ('um dado alarmante'), uso equivalente, em muitos contextos, ao dos dois-pontos, sendo recurso estilístico aceito pela norma culta.",
@@ -37470,7 +39127,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"O projeto não avançou como esperado, ou seja, boa parte das metas estabelecidas no início do ano não foi cumprida dentro do prazo.\"",
    "enunciado": "Sobre a pontuação empregada com a expressão 'ou seja' na frase, é correto afirmar que",
    "alternativas": {
-    "a": "a expressão 'ou seja' deveria ser substituída por 'já que', sem qualquer alteração na pontuação, mantendo idêntico o valor explicativo do trecho.",
+    "a": "a expressão 'ou seja' deveria ser substituída por 'já que', sem alteração na pontuação, mantendo idêntico o valor explicativo do trecho, uma vez que ambas introduzem uma reformulação.",
     "b": "deveria haver ponto final antes de 'ou seja', encerrando o período nesse ponto e transformando a reformulação em oração independente.",
     "c": "deveria ser eliminada a vírgula antes de 'ou seja', já que expressões explicativas nunca são isoladas por vírgula.",
     "d": "está corretamente isolada por vírgula, prática recomendada para expressões explicativas que reformulam uma ideia anterior, como ocorre nesse caso.",
@@ -37490,7 +39147,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "um aposto explicativo, termo que acrescenta informação sobre outro já determinado e por isso se isola por vírgulas, o que não ocorreria se fosse especificativo",
     "b": "um vocativo dirigido ao interlocutor, termo que se caracteriza por não exercer função sintática dentro da oração em que aparece empregado",
-    "c": "uma oração subordinada adverbial deslocada de sua posição habitual, o que exige a marcação por meio de sinal de pontuação nos dois extremos",
+    "c": "uma oração subordinada adverbial deslocada de sua posição habitual, o que exige a marcação por meio de sinal de pontuação nos dois extremos do trecho intercalado no período",
     "d": "um adjunto adverbial de lugar intercalado entre o sujeito e o predicado da oração principal",
     "e": "um complemento nominal do termo que o antecede, isolado por vírgulas para evitar ambiguidade quanto ao termo a que ele se refere na frase"
    },
@@ -37523,7 +39180,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"A equipe de plantão da unidade de emergência, informou o resultado à família.\"",
    "enunciado": "O período apresenta erro de pontuação porque a vírgula:",
    "alternativas": {
-    "a": "marca a elipse de um verbo que ficou subentendido na segunda parte do período, recurso que exigiria o emprego de ponto e vírgula no lugar dela",
+    "a": "marca a elipse de um verbo que ficou subentendido na segunda parte do período, recurso que exigiria o emprego de ponto e vírgula no lugar dela, e não de vírgula simples",
     "b": "isola um aposto explicativo sem que o segundo sinal correspondente tenha sido empregado no lugar adequado dentro da estrutura do período",
     "c": "antecede uma conjunção coordenativa aditiva, contexto em que a norma culta desaconselha o emprego desse sinal de pontuação na escrita formal",
     "d": "separa o sujeito do predicado, termos que a norma não admite ver divididos por esse sinal, sendo a extensão do sintagma o que faz o erro parecer natural",
@@ -37540,7 +39197,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"Compareceram à reunião: Ana, do laboratório; Bruno, da farmácia; e Carla, da enfermagem.\"",
    "enunciado": "O emprego do ponto e vírgula se justifica porque:",
    "alternativas": {
-    "a": "a enumeração apresenta mais de dois elementos, número a partir do qual a norma culta passa a exigir esse sinal em substituição à vírgula simples",
+    "a": "a enumeração apresenta mais de dois elementos, número a partir do qual a norma culta passa a exigir esse sinal em substituição à vírgula simples, independentemente do conteúdo dos itens",
     "b": "os itens enumerados já contêm vírgulas internas, separando o nome do setor, e o sinal mais forte estabelece a hierarquia entre os dois níveis da enumeração",
     "c": "os termos listados pertencem a setores diferentes da mesma instituição, distinção que a pontuação precisa marcar de forma explícita no texto",
     "d": "o período foi introduzido por dois-pontos, sinal que impõe o uso de ponto e vírgula em toda a sequência que vier depois dele na construção",
@@ -37577,7 +39234,7 @@ window.QUESTION_BANKS = {
     "a": "indica que a informação intercalada foi acrescentada por outra pessoa que não o autor do texto, prática comum em documentos revisados por terceiros",
     "b": "destaca mais a informação intercalada, em vez de rebaixá-la, cabendo à vírgula a posição intermediária nessa escala de ênfase entre os três recursos",
     "c": "assinala a supressão de um trecho do enunciado original, ao passo que os parênteses marcam apenas o acréscimo de conteúdo novo ao período",
-    "d": "é obrigatório sempre que a intercalação contiver forma verbal, ficando os parênteses restritos aos casos em que se intercalam apenas sintagmas nominais",
+    "d": "é obrigatório quando a intercalação contiver forma verbal, ficando os parênteses restritos aos casos em que se intercalam apenas sintagmas nominais sem verbo",
     "e": "estabelece relação de oposição entre o trecho intercalado e o restante do período, enquanto os parênteses indicam relação de simples acréscimo"
    },
    "resposta": "b",
@@ -37594,7 +39251,7 @@ window.QUESTION_BANKS = {
     "a": "a segunda oração é subordinada à primeira e por isso precisa ser isolada do restante do período por meio desse sinal de pontuação",
     "b": "a conjunção estabelece relação de oposição entre as duas orações, valor que exige a marcação por vírgula em qualquer construção coordenada",
     "c": "as orações coordenadas têm sujeitos diferentes e, embora a regra geral dispense a vírgula antes de \"e\", ela evita que o segundo seja lido como parte do predicado",
-    "d": "o período apresenta mais de uma forma verbal, número a partir do qual a norma culta torna obrigatório o emprego da vírgula antes das conjunções",
+    "d": "o período apresenta mais de uma forma verbal, número a partir do qual a norma culta torna obrigatório o emprego da vírgula antes das conjunções coordenativas, inclusive das aditivas",
     "e": "há elipse do sujeito na segunda oração, e a vírgula sinaliza ao leitor a supressão do termo que deveria ocupar aquela posição sintática"
    },
    "resposta": "c",
@@ -37749,13 +39406,472 @@ window.QUESTION_BANKS = {
     "a": "vai reavaliar – amanhã – apenas a pontuação, que deixa de exigir travessão na abertura da fala transposta para a nova construção sintática",
     "b": "reavaliaria – no dia seguinte – o tempo verbal, puxado pelo verbo introdutor no passado, e os marcadores de tempo, reorganizados a partir do momento do relato",
     "c": "reavaliou – ontem – a pessoa do verbo, que passa da primeira para a terceira sem que os demais elementos do enunciado sofram alteração",
-    "d": "reavalie – naquele momento – o modo verbal, que passa do indicativo ao subjuntivo por exigência da conjunção introdutora da oração subordinada",
+    "d": "reavalie – naquele momento – o modo verbal, que passa do indicativo ao subjuntivo por exigência da conjunção introdutora, sem que o tempo verbal se altere na transposição",
     "e": "teria reavaliado – anteontem – o aspecto verbal, que passa a indicar ação concluída antes do momento em que a fala foi originalmente produzida"
    },
    "resposta": "b",
    "explicacao": "O verbo introdutor no passado puxa o futuro do presente para o futuro do pretérito, e os dêiticos se reorganizam a partir do momento do relato: \"amanhã\" vira \"no dia seguinte\".",
    "formato": "lacunas",
    "banca": "unesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-228",
+   "texto_apoio": "Machado de Assis, autor de Dom Casmurro, morreu no Rio de Janeiro em 1908.",
+   "enunciado": "O par de vírgulas empregado no período serve para",
+   "alternativas": {
+    "a": "destacar o aposto explicativo, expressão que acrescenta informação ao nome anterior sem alterar o esqueleto da frase.",
+    "b": "separar dois núcleos de uma enumeração breve, recurso comum quando a frase apresenta itens de igual valor.",
+    "c": "assinalar a ausência de um verbo já mencionado antes, procedimento de economia admitido pela norma culta escrita.",
+    "d": "marcar a fronteira entre o sujeito e o predicado do enunciado, pausa que a leitura em voz alta costuma pedir nos textos mais longos e de sintaxe intrincada.",
+    "e": "indicar que o trecho intermediário responde a uma circunstância de tempo e foi retirado do fim da frase."
+   },
+   "resposta": "a",
+   "explicacao": "O trecho entre vírgulas retoma o nome anterior e amplia a informação sobre ele: é um aposto explicativo. O par de vírgulas existe justamente para isolar esse aposto do restante da frase, e retirá-lo não deixa lacuna alguma na estrutura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-229",
+   "texto_apoio": "Doutor, o paciente do leito seis apresentou febre durante a madrugada.",
+   "enunciado": "A vírgula que aparece depois da primeira palavra do período justifica-se porque ela",
+   "alternativas": {
+    "a": "encerra uma enumeração de dois itens cujo segundo elemento foi suprimido pelo autor do relato.",
+    "b": "marca o vocativo, termo com que o falante chama o interlocutor e que fica isolado do restante do enunciado.",
+    "c": "anuncia uma citação literal que virá em seguida e ocupa o lugar reservado aos dois-pontos.",
+    "d": "separa a oração principal da subordinada iniciada logo depois, exigência que a norma culta faz valer nos períodos compostos por subordinação de ordem direta.",
+    "e": "assinala a supressão do verbo de ligação entre o nome de tratamento e o restante da informação."
+   },
+   "resposta": "b",
+   "explicacao": "O termo inicial não exerce função sintática dentro da oração: é o chamamento dirigido ao interlocutor, ou seja, um vocativo. A vírgula tem aí a função de isolar esse chamamento do enunciado que o segue.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-230",
+   "texto_apoio": "Na manhã seguinte à cirurgia, a equipe reavaliou os exames do paciente.",
+   "enunciado": "Sobre a vírgula empregada no período, é correto afirmar que ela",
+   "alternativas": {
+    "a": "é proibida, pois nenhum termo de circunstância admite pausa gráfica no início da frase.",
+    "b": "substitui um travessão que o autor preferiu evitar por razões de espaço na linha impressa.",
+    "c": "é recomendada, porque assinala o termo deslocado de circunstância que foi anteposto à oração e cuja extensão pede a pausa.",
+    "d": "marca o limite entre dois períodos independentes que foram reunidos numa única linha, prática corrente na redação jornalística contemporânea de grande circulação.",
+    "e": "indica que a expressão anterior funciona como aposto do nome que a segue no enunciado."
+   },
+   "resposta": "c",
+   "explicacao": "A expressão de circunstância abandonou o fim da frase e foi para o começo. Nesse caso a vírgula assinala o termo deslocado, e a pausa fica ainda mais recomendável porque a expressão é extensa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-231",
+   "texto_apoio": "Compare: (I) \"Os alunos, que estudaram, passaram.\" (II) \"Os alunos que estudaram passaram.\"",
+   "enunciado": "A diferença de sentido entre as duas frases decorre de que",
+   "alternativas": {
+    "a": "em I houve erro de digitação, pois a norma culta rejeita pausa gráfica antes de pronome relativo.",
+    "b": "em II falta a pausa exigida pela extensão do trecho, e as duas frases informam exatamente o mesmo.",
+    "c": "em I o trecho intercalado é uma enumeração reduzida a um único item, e em II ele foi apagado.",
+    "d": "em I a oração subordinada adjetiva explicativa diz que estudaram e passaram, e em II a restritiva separa quem estudou de quem não estudou.",
+    "e": "em II o trecho sublinhado deixou de ser oração e passou a funcionar como circunstância de causa dentro do enunciado principal, o que altera a leitura do conjunto."
+   },
+   "resposta": "d",
+   "explicacao": "Com vírgulas, o trecho é uma oração subordinada adjetiva explicativa: ela apenas comenta o conjunto e por isso vem isolada. Sem vírgulas, a oração é restritiva e recorta um subconjunto, deixando de fora os que não estudaram.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-232",
+   "texto_apoio": "O congresso reuniu delegações de Manaus, no Amazonas; Recife, em Pernambuco; e Bagé, no Rio Grande do Sul.",
+   "enunciado": "O emprego do ponto e vírgula no período acima explica-se porque ele",
+   "alternativas": {
+    "a": "encerra o período e dispensa o ponto final, já que a enumeração ficou completa na terceira cidade citada.",
+    "b": "anuncia a explicação que vem logo depois, papel normalmente atribuído aos dois-pontos na escrita formal.",
+    "c": "assinala pausa maior do que a do ponto final e menor do que a da quebra de parágrafo no texto corrido.",
+    "d": "separa termos de uma enumeração que já trazem pausas internas, tornando visível onde termina cada item da série apresentada pelo autor do texto informativo.",
+    "e": "separa os itens de uma série cujos elementos já contêm vírgula interna, evitando que as pausas se confundam."
+   },
+   "resposta": "e",
+   "explicacao": "Cada item da série traz uma vírgula interna, usada para isolar a informação de estado. Se a série fosse separada também por vírgula, o leitor perderia a fronteira entre um item e outro; o ponto e vírgula resolve esse conflito de níveis.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-233",
+   "texto_apoio": "A prova cobrará três frentes: interpretação de texto, gramática e redação.",
+   "enunciado": "Os dois-pontos empregados no período têm a função de",
+   "alternativas": {
+    "a": "anunciar a enumeração que especifica o termo anterior, funcionando como aposto enumerativo introduzido pela pausa.",
+    "b": "encerrar a oração anterior, que ficaria incompleta se o autor tivesse optado por um ponto final.",
+    "c": "marcar o apagamento de um verbo, sinal de economia frequente em manchetes e legendas de jornal.",
+    "d": "assinalar o chamamento dirigido ao leitor, papel que a norma culta reserva à vírgula em textos instrucionais escritos com finalidade didática e informativa.",
+    "e": "indicar interrupção brusca do raciocínio, deixando ao leitor a tarefa de completar a série iniciada."
+   },
+   "resposta": "a",
+   "explicacao": "Os dois-pontos abrem a lista que detalha o termo anunciado antes deles. Essa lista é um aposto enumerativo, e a vírgula interna apenas separa os itens da série que os dois-pontos introduziram.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-234",
+   "texto_apoio": "O médico foi categórico: \"O quadro exige internação imediata\".",
+   "enunciado": "No período acima, os dois-pontos foram usados para",
+   "alternativas": {
+    "a": "separar dois períodos de igual valor sintático, papel que caberia ao ponto e vírgula em textos técnicos.",
+    "b": "introduzir a fala reproduzida, marcando a passagem da voz do narrador para a voz da personagem citada.",
+    "c": "isolar um termo de circunstância que foi retirado do fim da frase e anteposto ao seu núcleo.",
+    "d": "assinalar a supressão de um verbo de dizer que o leitor deve recuperar pelo contexto, recurso descrito pelas gramáticas como zeugma e muito comum em textos jornalísticos de opinião.",
+    "e": "encerrar uma enumeração de causas cujo último item aparece entre aspas por decisão do redator."
+   },
+   "resposta": "b",
+   "explicacao": "Depois de um verbo de dizer, os dois-pontos abrem a citação literal. Eles marcam a mudança de voz, e as aspas ficam encarregadas de isolar graficamente o trecho que pertence ao entrevistado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-235",
+   "texto_apoio": "A vacina — resultado de três décadas de pesquisa — chegou às unidades básicas em março.",
+   "enunciado": "Os travessões empregados no período",
+   "alternativas": {
+    "a": "substituem os dois-pontos e anunciam a fala de um interlocutor não identificado no trecho.",
+    "b": "marcam a fronteira entre duas orações coordenadas, papel reservado ao ponto e vírgula na escrita formal.",
+    "c": "cumprem o papel de um par de vírgulas, mas dão mais destaque ao trecho intercalado que isolam.",
+    "d": "indicam que o trecho intercalado foi copiado de outro autor e por isso dispensa a referência bibliográfica completa ao final do parágrafo em que aparece.",
+    "e": "assinalam hesitação do redator diante de uma informação de que ele não tinha certeza no momento da escrita."
+   },
+   "resposta": "c",
+   "explicacao": "O trecho entre travessões poderia vir entre vírgulas sem prejuízo sintático: ele explica o nome anterior. Trocar a vírgula pelo travessão só muda a intensidade do realce, já que os dois sinais servem para isolar o mesmo bloco intercalado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-236",
+   "texto_apoio": "— O senhor sente dor aqui? — perguntou a residente, apalpando o abdome.",
+   "enunciado": "No trecho acima, o travessão foi empregado para",
+   "alternativas": {
+    "a": "encerrar a enumeração de sintomas que a personagem apresentava no momento do atendimento.",
+    "b": "substituir os parênteses que o autor considerou discretos demais para o tipo de texto escolhido.",
+    "c": "assinalar a supressão do verbo de ligação entre a pergunta e a resposta da personagem consultada.",
+    "d": "abrir a fala da personagem e, depois, separar essa fala do comentário do narrador que a acompanha.",
+    "e": "marcar uma pausa de circunstância dentro da própria pergunta, o que exigiria também a presença de vírgula antes do verbo empregado pela personagem no diálogo."
+   },
+   "resposta": "d",
+   "explicacao": "No diálogo, o primeiro travessão abre a fala e o segundo serve para isolar o comentário do narrador. A vírgula que vem depois de \"residente\" tem outro papel: ela separa o trecho reduzido que descreve a ação simultânea.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-237",
+   "texto_apoio": "O relatório (concluído em 2023) apontou falhas na conservação do acervo.",
+   "enunciado": "Os parênteses empregados no período",
+   "alternativas": {
+    "a": "assinalam a fala de um entrevistado, função que os manuais de estilo atribuem às aspas nos textos jornalísticos de maior circulação nacional.",
+    "b": "separam duas orações de mesmo valor sintático que o autor não quis reunir por conjunção.",
+    "c": "indicam que a informação interna foi acrescentada por um revisor, e não pelo autor do relatório citado.",
+    "d": "marcam o limite entre o sujeito e aquilo que dele se declara ao longo da frase.",
+    "e": "encerram um comentário acessório, isolando do fluxo principal um dado que o leitor pode dispensar."
+   },
+   "resposta": "e",
+   "explicacao": "Os parênteses guardam a informação de menor relevo, aquela que o leitor pode saltar sem perder o fio. Se essa informação subisse ao primeiro plano, o autor teria preferido a vírgula ou o travessão para isolar o trecho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-238",
+   "texto_apoio": "Ele hesitou, olhou para o teto, tentou responder...",
+   "enunciado": "As reticências que encerram o período acima",
+   "alternativas": {
+    "a": "sugerem que a série de ações continua, deixando a frase em suspensão em vez de concluí-la.",
+    "b": "substituem o ponto de interrogação, já que a frase apresenta a estrutura de uma pergunta indireta.",
+    "c": "assinalam a citação de um trecho alheio cuja parte final foi cortada pelo redator da matéria.",
+    "d": "marcam o encerramento definitivo do parágrafo e equivalem, em valor de pausa, ao ponto final usado na prosa.",
+    "e": "isolam o termo de circunstância que aparece no interior da frase, papel que caberia a um par de parênteses em texto de natureza mais técnica."
+   },
+   "resposta": "a",
+   "explicacao": "As vírgulas do período servem para isolar os itens da série de ações; as reticências, no fim, deixam essa série aberta. Elas suspendem o enunciado em vez de fechá-lo, sugerindo continuidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-239",
+   "texto_apoio": "O tratamento foi iniciado a tempo, mas a resposta do organismo demorou.",
+   "enunciado": "A vírgula colocada antes da conjunção do período justifica-se porque",
+   "alternativas": {
+    "a": "a conjunção introduz uma enumeração de dois itens de mesmo peso semântico dentro do enunciado.",
+    "b": "a pausa antecede conjunção de valor adversativo, e a norma culta recomenda isolar assim o contraste entre as duas informações.",
+    "c": "o trecho posterior à conjunção é um aposto do nome que aparece imediatamente antes dela.",
+    "d": "a pausa foi exigida pela extensão do trecho anterior, critério que a norma culta adota nos enunciados com mais de dez palavras escritas em sequência.",
+    "e": "o autor pretendeu reproduzir uma fala e por isso preferiu a vírgula aos dois-pontos usuais."
+   },
+   "resposta": "b",
+   "explicacao": "Antes de conjunção adversativa a vírgula é recomendada: ela isola o contraste e prepara o leitor para a informação que contraria a expectativa criada pela primeira parte do período.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-240",
+   "texto_apoio": "Levou para o plantão o estetoscópio, o jaleco, a caneta e o caderno de anotações.",
+   "enunciado": "As vírgulas empregadas no período acima",
+   "alternativas": {
+    "a": "anunciam citação literal e poderiam ser trocadas por dois-pontos sem prejuízo para o sentido do enunciado.",
+    "b": "separam a oração principal de duas orações que dela dependem, marcando a hierarquia entre elas na frase escrita.",
+    "c": "separam os itens de uma série de mesma função, e por isso desaparecem diante da conjunção que fecha a enumeração.",
+    "d": "isolam apostos sucessivos, expressões que apenas explicam o nome mencionado no começo do enunciado narrado.",
+    "e": "marcam a supressão de verbos idênticos ao primeiro, procedimento de economia que os manuais de redação chamam de zeugma e recomendam com parcimônia."
+   },
+   "resposta": "c",
+   "explicacao": "A vírgula separa os termos de uma série que exercem a mesma função. Diante da conjunção que fecha a enumeração ela não reaparece, porque a própria conjunção já faz o trabalho de ligar o último item.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-241",
+   "texto_apoio": "Compare: (I) \"A pesquisadora responsável pelo laboratório, apresentou os dados.\" (II) \"A pesquisadora responsável pelo laboratório apresentou os dados.\"",
+   "enunciado": "Sobre a pontuação das duas frases, é correto afirmar que",
+   "alternativas": {
+    "a": "as duas estão corretas, pois a pausa entre a expressão inicial e o verbo é facultativa na escrita formal.",
+    "b": "apenas I está correta, já que expressão inicial extensa pede pausa gráfica antes do verbo que a segue.",
+    "c": "as duas estão incorretas, porque a frase pede também um par de travessões em torno da expressão inicial para que a informação apareça devidamente destacada ao leitor.",
+    "d": "apenas II está correta, porque a vírgula de I separa o sujeito do verbo, corte que a norma culta rejeita.",
+    "e": "apenas I está correta, uma vez que a vírgula ali isola um aposto explicativo do nome inicial."
+   },
+   "resposta": "d",
+   "explicacao": "A extensão da expressão inicial não autoriza pausa: a vírgula de I corta a frase entre quem pratica a ação e a ação praticada. Só haveria vírgula ali se houvesse termo intercalado a isolar, o que não é o caso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-242",
+   "texto_apoio": "A cirurgia, disse o chefe da equipe, foi remarcada para segunda-feira.",
+   "enunciado": "As vírgulas do período acima",
+   "alternativas": {
+    "a": "assinalam enumeração de dois itens de mesma função, situação em que o autor optou por não usar conjunção.",
+    "b": "separam a expressão de circunstância que foi anteposta ao verbo, prática comum na prosa de imprensa.",
+    "c": "anunciam uma citação e cumprem, no período, o papel que caberia normalmente aos dois-pontos.",
+    "d": "marcam a supressão do verbo de ligação, procedimento que os manuais de redação toleram apenas em legendas curtas e manchetes de primeira página.",
+    "e": "isolam a oração intercalada que identifica quem disse a informação relatada no enunciado."
+   },
+   "resposta": "e",
+   "explicacao": "O trecho entre vírgulas interrompe a frase para dizer de quem partiu a informação: trata-se de oração intercalada. O par de vírgulas serve para isolar essa interrupção sem desmontar o enunciado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-243",
+   "texto_apoio": "A dose foi ajustada; o efeito colateral, porém, persistiu por mais dois dias.",
+   "enunciado": "As vírgulas que cercam a conjunção no segundo trecho justificam-se porque ela",
+   "alternativas": {
+    "a": "aparece fora da posição inicial e, deslocada para o interior do trecho, precisa ficar isolada por pausas.",
+    "b": "introduz uma enumeração de efeitos observados durante o acompanhamento do paciente internado.",
+    "c": "encerra a citação da fala de um profissional que não foi identificado pelo autor do relato clínico.",
+    "d": "funciona como aposto do nome que a antecede e por isso recebe o mesmo tratamento gráfico dado às expressões explicativas do português escrito.",
+    "e": "substitui o ponto e vírgula que já havia sido empregado antes no mesmo enunciado, o que evitaria a repetição."
+   },
+   "resposta": "a",
+   "explicacao": "A conjunção adversativa saiu do começo do trecho e foi para dentro dele. Quando isso acontece, as vírgulas passam a isolar a conjunção deslocada, e o ponto e vírgula anterior apenas separa as duas partes do período.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-244",
+   "texto_apoio": "Assim que os exames ficaram prontos, a médica alterou a conduta.",
+   "enunciado": "A vírgula empregada no período acima",
+   "alternativas": {
+    "a": "separa dois itens de uma enumeração de procedimentos adotados pela equipe durante o atendimento.",
+    "b": "assinala que a oração de circunstância veio antes da principal, e esse deslocamento torna a pausa recomendável.",
+    "c": "isola um aposto explicativo do nome que aparece imediatamente depois dela no enunciado.",
+    "d": "marca a fronteira entre quem pratica a ação e o que dele se declara, corte que a tradição gramatical brasileira descreve como obrigatório em frases de estrutura invertida.",
+    "e": "substitui os dois-pontos, pois o trecho inicial anuncia a informação que aparece na sequência."
+   },
+   "resposta": "b",
+   "explicacao": "A oração de circunstância normalmente viria depois da principal. Antecipada, ela é um termo deslocado, e a vírgula existe para isolar esse bloco antes que a oração principal comece.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-245",
+   "texto_apoio": "O primeiro grupo recebeu o soro; o segundo, o placebo.",
+   "enunciado": "A vírgula empregada no segundo trecho do período assinala",
+   "alternativas": {
+    "a": "o chamamento dirigido ao leitor, recurso comum nos textos de divulgação científica escritos para o público leigo.",
+    "b": "a fronteira entre duas orações de sentido oposto, ligadas por conjunção que o autor preferiu omitir da frase.",
+    "c": "a supressão do verbo já expresso no trecho anterior, apagamento que a pausa gráfica torna recuperável.",
+    "d": "o aposto enumerativo que detalha os grupos analisados durante o experimento descrito pelo texto.",
+    "e": "a citação da fala do pesquisador responsável, papel que caberia às aspas em texto de natureza técnica."
+   },
+   "resposta": "c",
+   "explicacao": "O verbo do segundo trecho não foi repetido. A vírgula ocupa o lugar dessa palavra apagada e sinaliza ao leitor que ele deve recuperá-la do trecho anterior; o ponto e vírgula, por sua vez, separa os dois blocos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-246",
+   "texto_apoio": "A anemia falciforme é hereditária, ou seja, transmite-se dos pais aos filhos.",
+   "enunciado": "As vírgulas que cercam a expressão destacada no período justificam-se porque ela",
+   "alternativas": {
+    "a": "introduz uma enumeração de causas da doença citada no início do enunciado informativo.",
+    "b": "anuncia a fala de um especialista consultado pelo autor do texto de divulgação científica publicado na imprensa diária.",
+    "c": "encerra o período e dispensa o ponto final que apareceria em outra construção equivalente.",
+    "d": "é expressão de valor explicativo e, como tal, fica isolada do restante por pausas gráficas.",
+    "e": "funciona como sujeito da oração seguinte e precisa ser destacada por essa razão sintática."
+   },
+   "resposta": "d",
+   "explicacao": "Expressões de valor explicativo como essa vêm entre vírgulas: a dupla de pausas serve para isolar o comentário que reformula o que foi dito antes, sem que ele se confunda com o fio principal do enunciado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-247",
+   "texto_apoio": "Belo Horizonte, 12 de março de 2024.",
+   "enunciado": "A vírgula empregada na linha acima",
+   "alternativas": {
+    "a": "separa o nome do lugar da data que o acompanha, uso consagrado no cabeçalho de cartas e ofícios.",
+    "b": "assinala a supressão de um verbo que o leitor recupera pelo contexto do documento assinado.",
+    "c": "isola um aposto explicativo, pois o segundo bloco apenas repete a informação dada pelo primeiro bloco da linha.",
+    "d": "marca uma enumeração de três itens, dos quais o primeiro é o nome da cidade em que o documento foi redigido e assinado pelo remetente.",
+    "e": "anuncia a citação que virá logo abaixo, no corpo do documento redigido em linguagem formal."
+   },
+   "resposta": "a",
+   "explicacao": "No cabeçalho de cartas e ofícios a vírgula separa o lugar da data. Não há aposto nem enumeração ali: a pausa apenas isola dois blocos de informação de naturezas distintas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-248",
+   "texto_apoio": "A primeira fase avaliou a segurança da substância em voluntários saudáveis; a segunda mediu a eficácia do composto em pacientes já diagnosticados.",
+   "enunciado": "O ponto e vírgula empregado no período acima",
+   "alternativas": {
+    "a": "separa dois trechos extensos de mesmo valor, com pausa maior do que a da vírgula e menor do que a do ponto.",
+    "b": "anuncia a explicação contida no segundo trecho, papel normalmente atribuído aos dois-pontos na escrita técnica.",
+    "c": "assinala a supressão do verbo do segundo trecho, apagamento comum em textos de natureza científica publicados em periódicos de circulação internacional.",
+    "d": "isola um aposto enumerativo que detalha as fases do estudo mencionadas antes dele.",
+    "e": "marca o chamamento dirigido ao leitor especializado a quem o relatório se destina."
+   },
+   "resposta": "a",
+   "explicacao": "Os dois blocos têm o mesmo peso e alguma extensão. A vírgula seria pausa fraca demais e o ponto separaria demais; o ponto e vírgula fica no meio-termo, sem isolar nenhum termo em particular.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-249",
+   "texto_apoio": "Compare: (I) \"O diagnóstico foi claro: havia infecção.\" (II) \"O diagnóstico foi claro, havia infecção.\"",
+   "enunciado": "Comparando as duas frases quanto à pontuação, é correto afirmar que",
+   "alternativas": {
+    "a": "as duas trazem enumerações de dois itens, o que torna as opções gráficas equivalentes entre si.",
+    "b": "em I os dois-pontos anunciam o que explica a informação anterior; em II a vírgula deixa essa relação vaga.",
+    "c": "em II a vírgula isola um aposto explicativo do nome que a antecede na frase escrita.",
+    "d": "em I os dois-pontos ocupam o lugar de um ponto final e encerram o período iniciado antes deles.",
+    "e": "em II a pausa marca a supressão de um verbo já expresso no trecho anterior da frase, procedimento de economia descrito pelas gramáticas escolares como zeugma."
+   },
+   "resposta": "b",
+   "explicacao": "Os dois-pontos anunciam: eles avisam ao leitor que o que vem a seguir esclarece o que veio antes. A vírgula apenas isola blocos e não carrega esse valor de anúncio, e por isso a relação entre as partes fica menos nítida em II.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-250",
+   "texto_apoio": "Compare: (I) \"Os moradores, que receberam o alerta, saíram.\" (II) \"Os moradores que receberam o alerta saíram.\"",
+   "enunciado": "A pontuação de I permite concluir que",
+   "alternativas": {
+    "a": "houve descuido de revisão, pois pausa gráfica antes de pronome relativo é vedada pela norma culta escrita.",
+    "b": "os dois enunciados descrevem a mesma cena, e a pausa apenas facilita a leitura em voz alta do trecho.",
+    "c": "o conjunto de moradores recebeu o alerta e saiu, ao passo que II recorta apenas parte desse conjunto.",
+    "d": "o trecho intercalado passou a funcionar como circunstância de causa, e não mais como comentário sobre o nome anterior.",
+    "e": "o trecho entre pausas é um aposto enumerativo que detalha os grupos de moradores atingidos pela ocorrência descrita no enunciado."
+   },
+   "resposta": "c",
+   "explicacao": "Com vírgulas, a oração subordinada adjetiva explicativa comenta o grupo inteiro e vem isolada por isso. Sem elas, a oração restritiva recorta um subgrupo e a leitura muda: parte dos moradores não teria saído.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-251",
+   "texto_apoio": "O relatório foi entregue no prazo, e a comissão o rejeitou na semana seguinte.",
+   "enunciado": "A vírgula colocada antes da conjunção aditiva do período",
+   "alternativas": {
+    "a": "é vedada pela norma culta, que rejeita pausa gráfica diante de conjunção aditiva na escrita formal.",
+    "b": "assinala a supressão do verbo do segundo trecho e permite ao leitor recuperá-lo pelo contexto imediato.",
+    "c": "isola um aposto explicativo do nome mencionado logo antes dela no enunciado escrito.",
+    "d": "é admitida, pois os dois trechos ligados pela conjunção têm agentes distintos, o que torna a pausa útil ao leitor.",
+    "e": "marca o começo de uma enumeração de providências tomadas pela comissão ao longo do processo de análise do documento entregue."
+   },
+   "resposta": "d",
+   "explicacao": "Diante de conjunção aditiva a vírgula costuma ser dispensada, mas ela é admitida quando os trechos ligados têm agentes diferentes. A pausa então serve para isolar as duas informações e evitar que o leitor as atribua ao mesmo agente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-252",
+   "texto_apoio": "Compare: (I) \"A lei (aprovada em 2019) mudou o setor.\" (II) \"A lei — aprovada em 2019 — mudou o setor.\"",
+   "enunciado": "A diferença entre as duas formas de pontuar está em que",
+   "alternativas": {
+    "a": "em I o trecho intercalado deixa de ser acessório e passa a integrar o núcleo da informação transmitida.",
+    "b": "em II o par de travessões anuncia uma citação literal, papel que os dois-pontos exerceriam com mais clareza.",
+    "c": "em I a informação intercalada fica em segundo plano, enquanto em II os travessões lhe dão realce.",
+    "d": "em II o trecho intercalado funciona como chamamento dirigido ao leitor especializado, e por isso recebe pausa mais forte do que a empregada na frase anterior.",
+    "e": "em I houve erro, pois parênteses só cabem em referências bibliográficas dentro de textos acadêmicos."
+   },
+   "resposta": "c",
+   "explicacao": "Parênteses e travessões podem isolar o mesmo trecho, mas com efeitos opostos de relevo: os parênteses rebaixam a informação, os travessões a destacam. A vírgula ficaria num ponto intermediário entre os dois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-253",
+   "texto_apoio": "Dois fatores explicam o resultado: a queda da adesão e o atraso na entrega das doses.",
+   "enunciado": "A pontuação empregada no período mostra que o trecho posterior aos dois-pontos",
+   "alternativas": {
+    "a": "é um aposto enumerativo que especifica os fatores anunciados no começo do enunciado.",
+    "b": "reproduz a fala de um gestor da rede pública consultado pelo autor da reportagem publicada.",
+    "c": "funciona como chamamento dirigido ao leitor e por isso aparece separado do restante do período escrito.",
+    "d": "traz a supressão de um verbo idêntico ao da primeira parte, apagamento que a pausa gráfica torna recuperável pelo leitor atento ao contexto da frase.",
+    "e": "encerra a frase com valor de suspensão, deixando ao leitor a tarefa de completar a série iniciada."
+   },
+   "resposta": "a",
+   "explicacao": "O trecho que segue os dois-pontos discrimina os fatores anunciados: é um aposto enumerativo. Note que a vírgula não aparece entre os dois itens, porque a conjunção aditiva já basta para ligá-los.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-254",
+   "texto_apoio": "Compare: (I) \"Ontem a equipe operou dois pacientes.\" (II) \"Ontem, a equipe operou dois pacientes.\"",
+   "enunciado": "Sobre a pausa que distingue as duas frases, é correto afirmar que",
+   "alternativas": {
+    "a": "somente II está correta, porque termo de circunstância anteposto exige pausa gráfica na norma culta escrita.",
+    "b": "as duas estão corretas, pois a pausa depois de termo de circunstância curto e anteposto é facultativa.",
+    "c": "somente I está correta, já que a vírgula de II corta a frase entre quem age e a ação que se declara.",
+    "d": "as duas estão incorretas, porque a frase pediria também um par de travessões em torno do termo inicial para destacar a informação de tempo diante do leitor.",
+    "e": "somente II está correta, uma vez que a pausa ali isola um aposto explicativo do nome inicial."
+   },
+   "resposta": "b",
+   "explicacao": "Termo de circunstância anteposto e curto admite as duas grafias: a vírgula fica a critério de quem escreve. A pausa passa a ser recomendada quando o termo deslocado é extenso, caso em que isolar o bloco ajuda a leitura.",
+   "formato": "direta",
    "origem": "medicina"
   }
  ],
@@ -37874,7 +39990,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "transitivo indireto – não vem pronominalizado – transitivo direto – vem acompanhado de pronome, caso em que a preposição passa a ser dispensável",
     "b": "transitivo direto – não vem pronominalizado – transitivo indireto – vem acompanhado de pronome e passa a exigir preposição, como também ocorre com \"lembrar\"",
-    "c": "intransitivo – o complemento está subentendido – transitivo direto – o complemento aparece expresso na forma de um sintagma nominal preposicionado",
+    "c": "intransitivo – o complemento está subentendido – transitivo direto – o complemento aparece expresso na forma de um sintagma nominal preposicionado pelo pronome reflexivo",
     "d": "bitransitivo – o objeto indireto vem posposto – intransitivo – o pronome reflexivo assume a função sintática de complemento verbal na estrutura",
     "e": "de ligação – o predicativo se encontra elíptico – transitivo direto – o pronome exerce a função de sujeito da oração reduzida que o acompanha"
    },
@@ -37924,7 +40040,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Compare: (I) \"Sabemos que o exame demora.\" (II) \"O exame que pedimos demora.\"",
    "enunciado": "A palavra \"que\" é, respectivamente:",
    "alternativas": {
-    "a": "pronome relativo e conjunção integrante, distinção que decorre da posição ocupada por cada uma das orações subordinadas dentro do período composto",
+    "a": "pronome relativo e conjunção integrante, distinção que decorre da posição ocupada por cada uma das orações subordinadas dentro do período composto apresentado na comparação",
     "b": "conjunção integrante e pronome relativo, classes que se distinguem por a primeira poder ser trocada por \"isso\" e só a segunda retomar um termo e exercer função",
     "c": "conjunção integrante nos dois casos, já que ambas as orações completam o sentido do verbo da oração principal em que se encontram inseridas",
     "d": "pronome relativo nos dois casos, uma vez que a palavra sempre retoma um termo mencionado antes dela na estrutura do período apresentado",
@@ -37994,7 +40110,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Considerando que \"atender\" pode ser transitivo direto, o emprego da preposição diante de \"o ferido\" configura:",
    "alternativas": {
     "a": "objeto direto preposicionado, termo que continua sendo objeto direto, embora a preposição apareça sem ser exigida pela regência, por clareza ou por ênfase",
-    "b": "objeto indireto obrigatório, uma vez que o verbo empregado admite exclusivamente essa regência quando o complemento designa pessoa determinada",
+    "b": "objeto indireto obrigatório, uma vez que o verbo empregado passa a admitir apenas essa regência quando o complemento designa pessoa determinada, e não coisa ou lugar",
     "c": "complemento nominal, termo que completa o sentido de um nome e que exige preposição por natureza em todas as construções em que aparece",
     "d": "adjunto adverbial de finalidade, que indica o objetivo a que se destina a ação verbal expressa pelo núcleo do predicado da oração analisada",
     "e": "agente da passiva, função exercida pelo termo que pratica a ação em orações construídas na voz passiva analítica com verbo auxiliar elíptico"
@@ -38029,7 +40145,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "causa, finalidade e intensidade, circunstâncias que se distinguem pelo tipo de relação estabelecida entre cada termo e o verbo da oração",
     "b": "tempo, lugar e modo, ordem que corresponde à posição ocupada por cada um dos três termos em relação ao núcleo do predicado da oração",
-    "c": "modo, tempo e lugar, classificação determinada pela presença de preposição diante de cada um dos adjuntos identificados no período composto",
+    "c": "modo, tempo e lugar, classificação determinada pela presença de preposição diante de cada um dos adjuntos identificados no período composto apresentado no enunciado da questão",
     "d": "lugar, modo e tempo, circunstâncias identificadas pela pergunta que cada termo responde — onde, como e quanto tempo —, e não pela posição que ocupa na frase",
     "e": "companhia, instrumento e dúvida, valores que dependem do contexto em que o enunciado é produzido e da intenção de quem o formula na frase"
    },
@@ -38113,7 +40229,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"Chegaram cedo os resultados que a equipe aguardava.\"",
    "enunciado": "O período é composto por:",
    "alternativas": {
-    "a": "coordenação, com duas orações independentes ligadas por conectivo que estabelece relação de adição entre os fatos enunciados em cada uma",
+    "a": "coordenação, com duas orações independentes ligadas por conectivo que estabelece relação de adição entre os fatos enunciados em cada uma delas, sem hierarquia entre as duas",
     "b": "subordinação, com uma oração adjetiva restritiva, que depende do antecedente e delimita quais resultados chegaram, razão pela qual não vem separada por vírgula",
     "c": "subordinação, com uma oração substantiva objetiva direta que completa o sentido do verbo empregado na oração principal do período",
     "d": "coordenação e subordinação simultaneamente, apresentando três orações distribuídas em dois níveis hierárquicos dentro da mesma estrutura",
@@ -38130,7 +40246,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Compare: (I) \"Ele saiu porque estava cansado.\" (II) \"Ele estava cansado, por isso saiu.\"",
    "enunciado": "Os dois períodos exprimem a mesma relação, mas são compostos, respectivamente, por:",
    "alternativas": {
-    "a": "coordenação nos dois casos, já que as orações de ambos os períodos poderiam existir isoladamente sem prejuízo de sentido para o leitor",
+    "a": "coordenação nos dois casos, já que as orações de ambos os períodos poderiam existir isoladamente sem prejuízo de sentido, o que dispensaria a análise da hierarquia entre elas",
     "b": "coordenação e subordinação, distinção que decorre da posição ocupada pelo conectivo dentro de cada um dos dois períodos apresentados",
     "c": "subordinação nos dois casos, uma vez que ambos apresentam uma oração sintaticamente dependente da outra dentro da mesma estrutura",
     "d": "subordinação e coordenação, arranjos em que a relação de causa é a mesma e muda a hierarquia: no primeiro a causal depende da principal; no segundo, não",
@@ -38636,7 +40752,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-182",
    "enunciado": "\"A equipe revisou todo o protocolo, mas o erro de digitação só foi percebido na revisão final.\" Nesse período composto por coordenação, a conjunção coordenativa \"mas\" estabelece entre as orações uma relação:",
    "alternativas": {
-    "a": "aditiva, somando dois fatos que ocorreram de forma simultânea e sem qualquer tipo de contraste, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do período",
+    "a": "aditiva, somando dois fatos que ocorreram de forma simultânea e sem contraste entre eles, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do período",
     "b": "conclusiva, apresentando a percepção tardia do erro como consequência lógica da revisão feita",
     "c": "alternativa, apresentando duas possibilidades entre as quais a equipe teve de escolher uma",
     "d": "explicativa, justificando o motivo pelo qual o protocolo precisou ser revisado por completo",
@@ -38653,7 +40769,7 @@ window.QUESTION_BANKS = {
    "enunciado": "\"Ou o exame é repetido ainda hoje, ou o resultado anterior será considerado válido.\" Nesse período composto por coordenação, a correlação \"ou... ou\", com \"ou\" funcionando como conjunção coordenativa, estabelece relação:",
    "alternativas": {
     "a": "alternativa, apresentando duas possibilidades que se excluem, das quais apenas uma deve prevalecer",
-    "b": "aditiva, somando as duas possibilidades apresentadas sem qualquer relação de exclusão entre elas, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
+    "b": "aditiva, somando as duas possibilidades apresentadas sem estabelecer relação de exclusão entre elas, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
     "c": "adversativa, contrapondo a necessidade de repetir o exame ao fato de o resultado já ser válido",
     "d": "conclusiva, apresentando a validade do resultado anterior como conclusão da primeira oração",
     "e": "explicativa, justificando por que o exame anterior deixaria de ser considerado válido"
@@ -38733,7 +40849,7 @@ window.QUESTION_BANKS = {
    "enunciado": "\"O plantonista permaneceu atento durante toda a madrugada.\" Na análise sintática, o predicado desse período classifica-se como:",
    "alternativas": {
     "a": "nominal, pois o núcleo de sentido recai sobre \"atento\", predicativo do sujeito ligado por um verbo de ligação",
-    "b": "verbal, já que o núcleo de sentido está inteiramente concentrado no verbo, sem qualquer predicativo do sujeito",
+    "b": "verbal, já que o núcleo de sentido está inteiramente concentrado no verbo, sem predicativo do sujeito ligado por um verbo de ligação",
     "c": "verbo-nominal, pois há dois núcleos de sentido: um verbo de ação plena e um predicativo do objeto",
     "d": "composto, formado por dois verbos que se equivalem em importância dentro da mesma oração",
     "e": "indeterminado, já que não é possível identificar com precisão o núcleo de sentido do predicado inteiro"
@@ -38860,7 +40976,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-196",
    "enunciado": "Sobre a distinção entre voz ativa, voz passiva e voz reflexiva na análise sintática do período, é correto afirmar que:",
    "alternativas": {
-    "a": "na voz passiva, o sujeito sempre pratica a ação, cabendo ao agente da passiva apenas recebê-la de forma indireta, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
+    "a": "na voz passiva, o sujeito pratica a ação, cabendo ao agente da passiva apenas recebê-la de forma indireta, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
     "b": "na voz ativa, o sujeito recebe a ação verbal, que é praticada por um agente expresso em outra parte do período",
     "c": "as três vozes verbais produzem exatamente o mesmo efeito de sentido, diferindo apenas na ordem das palavras",
     "d": "na voz reflexiva, o sujeito pratica e, ao mesmo tempo, recebe a ação expressa pelo verbo, como em \"o paciente se cortou sem querer\"",
@@ -38878,7 +40994,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "uma voz ativa comum, na qual \"se\" ocupa a função de complemento do verbo \"aplicou\" dentro do período",
     "b": "uma voz reflexiva recíproca, na qual dois sujeitos praticam e recebem a ação um do outro simultaneamente",
-    "c": "uma construção sem qualquer sujeito, na qual \"o protocolo de urgência\" exerce apenas função de complemento indireto, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do período",
+    "c": "uma construção sem sujeito, na qual \"o protocolo de urgência\" exerce apenas função de complemento indireto, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do período",
     "d": "uma voz ativa sem sujeito expresso, na qual \"o protocolo de urgência\" não mantém relação sintática com o verbo",
     "e": "uma voz passiva sintética, na qual \"o protocolo de urgência\" funciona como sujeito paciente da forma verbal com \"se\""
    },
@@ -39120,7 +41236,7 @@ window.QUESTION_BANKS = {
     "a": "contraposição, em que a paciência é apresentada como mais confiável e sustentável do que a paixão.",
     "b": "indiferença, pois o orador afirma que nenhum dos dois conceitos importa para o trabalho.",
     "c": "complementaridade, em que a paixão inicia o percurso e a paciência apenas o mantém.",
-    "d": "sinonímia, já que os dois termos seriam usados como equivalentes ao longo de todo o discurso de formatura.",
+    "d": "sinonímia, já que os dois termos seriam usados como equivalentes pelo orador, sem distinção de sentido entre eles no discurso de formatura.",
     "e": "causa e efeito, em que a paixão é apontada como consequência direta da paciência."
    },
    "resposta": "a",
@@ -39477,7 +41593,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Países que historicamente mais contribuíram para as emissões acumuladas de gases de efeito estufa costumam ser também os que possuem maior capacidade financeira e tecnológica para mitigar os efeitos das mudanças climáticas. Já nações que menos contribuíram para o problema ao longo da história frequentemente enfrentam os impactos mais severos, como secas prolongadas e eventos climáticos extremos, com recursos proporcionalmente menores para se adaptar.",
    "enunciado": "Qual argumento pode ser construído a partir da relação apresentada no texto entre responsabilidade histórica e capacidade de mitigação?",
    "alternativas": {
-    "a": "Países menos desenvolvidos seriam os principais e únicos responsáveis históricos pelas emissões de gases de efeito estufa mundiais.",
+    "a": "Países menos desenvolvidos seriam os principais e únicos responsáveis históricos pelas emissões acumuladas de gases de efeito estufa, embora disponham de menos recursos.",
     "b": "Há uma desproporção entre quem mais contribuiu para o problema climático e quem mais sofre seus efeitos com menos recursos para se adaptar.",
     "c": "A capacidade de mitigação acompanha a responsabilidade histórica, o que torna a distribuição de encargos proporcional.",
     "d": "Não existe, segundo o texto, nenhuma relação entre capacidade financeira e mitigação climática global.",
@@ -39515,7 +41631,7 @@ window.QUESTION_BANKS = {
     "a": "introduzir um dado de pesquisa que comprova a superioridade da triagem por gravidade sobre os demais critérios de ordenação adotados nos serviços de urgência",
     "b": "apresentar a tese central do artigo, que só é enunciada nesse ponto do texto depois de o autor preparar o leitor com os exemplos apresentados anteriormente",
     "c": "admitir a objeção adversária e, em seguida, reduzir seu alcance, mostrando que a existência de erros de classificação pede uma triagem melhor, e não a volta da ordem de chegada",
-    "d": "abandonar a linha de raciocínio até então desenvolvida, passando a defender a posição contrária àquela sustentada nos primeiros parágrafos do artigo publicado",
+    "d": "abandonar a linha de raciocínio até então desenvolvida, passando a defender a posição contrária àquela sustentada nos primeiros parágrafos, numa guinada que o restante do artigo não retoma",
     "e": "encerrar a exposição com um resumo das ideias apresentadas, retomando ponto a ponto os argumentos utilizados pelo autor ao longo de toda a sua explanação"
    },
    "resposta": "c",
@@ -39582,7 +41698,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Segundo o texto, o principal obstáculo à aceitação da triagem pelos pacientes é:",
    "alternativas": {
     "a": "a invisibilidade do critério para quem está esperando, que vê o vizinho ser chamado na sua frente sem enxergar a razão da escolha",
-    "b": "a insuficiência do número de profissionais disponíveis nos serviços de urgência, que torna a espera longa demais para ser tolerada por qualquer pessoa adoecida",
+    "b": "a insuficiência do número de profissionais disponíveis nos serviços de urgência, que torna a espera longa demais para ser tolerada por quem chega adoecido",
     "c": "a desconfiança generalizada em relação à competência técnica das equipes de classificação de risco",
     "d": "a ausência de uma legislação específica que regulamente os critérios de prioridade e preveja sanções aos serviços",
     "e": "o desconhecimento, por parte da população, de que existe qualquer classificação de risco anterior ao atendimento"
@@ -39601,7 +41717,7 @@ window.QUESTION_BANKS = {
     "a": "representa um avanço em relação aos modelos anteriores de organização das filas, ainda que exija adaptações para funcionar em unidades de grande porte",
     "b": "produz resultados clínicos equivalentes aos da triagem por gravidade, com a vantagem de ser compreendido sem esforço pelos usuários",
     "c": "elimina a possibilidade de erro humano na classificação, uma vez que dispensa qualquer avaliação técnica por parte da equipe responsável pelo acolhimento",
-    "d": "deve ser adotado nos casos em que a equipe de triagem não dispuser de informação suficiente para estabelecer a prioridade entre os pacientes que aguardam",
+    "d": "deve ser adotado nos casos em que a equipe de triagem não dispuser de informação suficiente para estabelecer a prioridade entre os pacientes que aguardam atendimento",
     "e": "não reduz o prejuízo causado pela espera, apenas o desloca para casos cuja demora é mais fácil de justificar, o que traz conforto a quem precisa explicá-la"
    },
    "resposta": "e",
@@ -39770,7 +41886,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O uso predominante do discurso direto no conto contribui para:",
    "alternativas": {
     "a": "diferenciar o registro linguístico das duas personagens, evidenciando o contraste entre a formação técnica de cada uma delas e a região de origem",
-    "b": "estabelecer com precisão o tempo transcorrido durante o episódio narrado, uma vez que cada réplica corresponde a um intervalo determinado da conversa",
+    "b": "estabelecer com precisão o tempo transcorrido durante o episódio narrado, uma vez que cada réplica corresponde a um intervalo determinado da conversa entre as personagens",
     "c": "concentrar o sentido nas falas e reduzir ao mínimo o comentário do narrador, que informa pouco e não interpreta o que as personagens dizem uma à outra",
     "d": "aproximar o texto do gênero dramático, no qual a ausência de narrador exige que toda a ação seja construída exclusivamente por meio dos diálogos",
     "e": "suprir a falta de descrição do ambiente, elemento que o conto deliberadamente omite por considerá-lo irrelevante para a compreensão do enredo"
@@ -40162,7 +42278,7 @@ window.QUESTION_BANKS = {
    "textoId": "med-med-int-t12",
    "enunciado": "O \"observamos\" ______ a responsabilidade, ao passo que o \"eu não sei\" ______; o resenhista valoriza o segundo por ______. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "concentra – distribui entre os membros da equipe – refletir com mais fidelidade o modo como as decisões clínicas são efetivamente tomadas na prática",
+    "a": "concentra – distribui entre os membros da equipe – refletir com mais fidelidade o modo como as decisões clínicas são efetivamente tomadas na prática dos hospitais de ensino",
     "b": "dilui – tem dono, e com ele a dúvida ganha um sujeito – expor quem assume a dúvida, registro que o resenhista considera notável e lamenta ver restrito a quatro capítulos",
     "c": "explicita – oculta a autoria da conclusão apresentada – preservar o anonimato dos profissionais envolvidos nos casos relatados ao longo do volume",
     "d": "atenua – reforça a certeza expressa pela autora – transmitir ao leitor maior segurança quanto às conclusões apresentadas em cada um dos capítulos",
@@ -40215,7 +42331,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A sequência textual predominante é:",
    "alternativas": {
     "a": "descritiva, na medida em que caracteriza detalhadamente os materiais utilizados em cada uma das etapas mencionadas na sequência apresentada",
-    "b": "narrativa, pois relata na ordem cronológica os passos executados por um profissional durante a realização de um procedimento assistencial de rotina",
+    "b": "narrativa, pois relata na ordem cronológica os passos executados por um profissional durante a realização de um procedimento assistencial de rotina, do primeiro ao último",
     "c": "argumentativa, uma vez que justifica a necessidade de cada uma das etapas listadas por meio de razões apresentadas ao longo do enunciado",
     "d": "injuntiva, porque instrui o leitor sobre como proceder, com verbos no imperativo dispostos na ordem em que as etapas devem ser executadas no procedimento",
     "e": "expositiva, considerando que apresenta de forma neutra o conjunto de normas técnicas aplicáveis à execução do procedimento em questão"
@@ -40251,7 +42367,7 @@ window.QUESTION_BANKS = {
     "a": "causa, apresentando o motivo pelo qual a investigação do quadro clínico deve prosseguir apesar dos resultados obtidos no exame realizado",
     "b": "concessão, admitindo um fato favorável à conclusão contrária e seguindo adiante mesmo assim, sem que ele impeça a investigação que a equipe propõe",
     "c": "condição, indicando a circunstância que precisaria ocorrer para que a investigação clínica pudesse ser considerada concluída pela equipe",
-    "d": "finalidade, expressando o objetivo que se pretende alcançar com a continuidade do processo de investigação do quadro apresentado pelo paciente",
+    "d": "finalidade, expressando o objetivo que se pretende alcançar com a continuidade do processo de investigação do quadro apresentado pelo paciente ao longo do atendimento",
     "e": "consequência, apontando o resultado decorrente da normalidade observada nos exames laboratoriais solicitados no início do atendimento"
    },
    "resposta": "b",
@@ -40429,7 +42545,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "O bairro recebeu, nos últimos cinco anos, três novos condomínios de alto padrão. Os antigos moradores comentam que o supermercado tradicional, antes o único da região, fechou as portas no ano passado, dando lugar a uma rede de conveniência voltada a produtos importados. O aluguel médio, segundo a imobiliária local, praticamente dobrou no período.",
    "enunciado": "Com base no conjunto de informações apresentadas, é possível inferir que o bairro está passando por um processo de",
    "alternativas": {
-    "a": "queda constante e acentuada no valor de todos os imóveis do bairro ao longo dos últimos cinco anos mencionados no texto.",
+    "a": "queda acentuada e generalizada no valor dos imóveis do bairro ao longo dos últimos cinco anos, segundo a imobiliária local citada.",
     "b": "gentrificação, evidenciada pelos condomínios de alto padrão, pela alta do aluguel e pela mudança no comércio.",
     "c": "conurbação com o município vizinho, evidenciada pela expansão contínua da malha urbana.",
     "d": "tombamento histórico oficial do bairro por parte da prefeitura, medida não mencionada no texto.",
@@ -40449,7 +42565,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "o público concordou unanimemente com a decisão de afastamento temporário tomada pela própria atleta.",
     "b": "há um sentido implícito nos comentários hostis, revelando resistência do público ao custo emocional do alto rendimento.",
-    "c": "os comentários hostis foram todos publicados literalmente entre as demais frases desse texto jornalístico específico citado.",
+    "c": "os comentários hostis foram publicados literalmente entre as demais frases desse texto jornalístico, ocupando as linhas intermediárias.",
     "d": "a atleta escreveu pessoalmente todos os comentários hostis mencionados ao longo da reportagem citada.",
     "e": "a atleta respondeu aos comentários de forma indireta, sem mencionar seus autores pelo nome."
    },
@@ -40502,7 +42618,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Que contraponto o autor apresenta em relação ao benefício citado dos jogos de estratégia em tempo real?",
    "alternativas": {
     "a": "Sustenta que o ganho observado desaparece assim que o jogador interrompe a prática por algumas semanas.",
-    "b": "Nega que exista absolutamente qualquer relação entre jogos de estratégia e habilidades cognitivas humanas reais.",
+    "b": "Nega que exista relação demonstrável entre os jogos de estratégia em tempo real e o desempenho cognitivo de quem os pratica.",
     "c": "Sugere que apenas jogos de tabuleiro tradicionais trazem benefícios cognitivos reais.",
     "d": "Afirma que os jogos de estratégia não trazem nenhum benefício real à tomada de decisões.",
     "e": "Reconhece o ganho em rapidez decisória, mas aponta um possível custo: menor tolerância à reflexão pausada."
@@ -40576,7 +42692,7 @@ window.QUESTION_BANKS = {
     "a": "Trabalhadores de turno noturno não utilizam, em nenhuma hipótese, o transporte público para se deslocar.",
     "b": "A redução de frequência nos horários noturnos beneficia diretamente os trabalhadores desse turno.",
     "c": "A lógica de custo que reduz a frequência noturna tende a prejudicar quem depende desses horários por trabalhar à noite.",
-    "d": "A redução de frequência afeta sempre igualmente todos os passageiros, sem qualquer distinção real entre turnos de trabalho.",
+    "d": "A redução de frequência afeta de modo igual os passageiros do período diurno e os do noturno, sem distinção real entre os turnos de trabalho.",
     "e": "A redução noturna é compensada por linhas alternativas, o que mantém o tempo médio de espera estável."
    },
    "resposta": "c",
@@ -40646,7 +42762,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Qual comparação o texto estabelece entre o trabalho infantil do século XIX e o do século XXI?",
    "alternativas": {
     "a": "Sugere que o trabalho infantil no século XXI é exclusivo de minas de carvão, como ocorria no século XIX.",
-    "b": "Afirma que o trabalho infantil foi completamente erradicado no mundo desde o século XIX até os dias de hoje.",
+    "b": "Afirma que o trabalho infantil foi completamente erradicado no mundo desde o século XIX, restando dele apenas os registros históricos das minas europeias.",
     "c": "Mostra que, apesar de mudanças legais desde o século XIX, o trabalho infantil persiste sob formas e cadeias produtivas diferentes.",
     "d": "Sustenta que a legislação do século XIX foi mais eficaz que a atual, por prever punição mais severa.",
     "e": "Nega qualquer relação entre a legislação do século XIX e a situação atual do trabalho infantil no mundo."
@@ -40667,7 +42783,7 @@ window.QUESTION_BANKS = {
     "b": "O método anterior provavelmente aplicava recursos de forma mais uniforme, sem considerar as necessidades específicas de cada ponto.",
     "c": "O método anterior já utilizava sensores tão precisos quanto os descritos no texto atual sobre a agricultura.",
     "d": "O método anterior aplicava insumos de forma localizada, mas sem monitoramento contínuo do solo.",
-    "e": "Não é possível inferir nada sobre o método utilizado antes da adoção da nova tecnologia de sensores no campo."
+    "e": "Não é possível inferir nada sobre o método utilizado antes da adoção dos sensores, porque o texto trata apenas do custo dos equipamentos instalados na lavoura."
    },
    "resposta": "b",
    "explicacao": "Como o texto contrasta a aplicação 'nos pontos específicos que realmente precisam' com uma prática anterior implícita, é possível inferir que o método antigo era menos direcionado, provavelmente aplicando recursos de forma mais uniforme em toda a área.",
@@ -40684,7 +42800,7 @@ window.QUESTION_BANKS = {
     "a": "Porque essas expressões dependem de contexto cultural compartilhado, e não apenas do significado literal das palavras.",
     "b": "Porque essas expressões variam de região para região dentro de um mesmo idioma, o que multiplica as possibilidades.",
     "c": "Porque expressões idiomáticas não existem em nenhuma língua além do português, segundo o texto.",
-    "d": "Porque as ferramentas de tradução automática ainda não conseguem traduzir tipo algum de texto, seja técnico ou não.",
+    "d": "Porque as ferramentas de tradução automática ainda não conseguem traduzir tipo algum de texto, seja ele técnico, informativo ou literário, como reconhece o autor.",
     "e": "Porque os sistemas de tradução automática são treinados exclusivamente com textos jurídicos formais."
    },
    "resposta": "a",
@@ -40717,7 +42833,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A frase pressupõe que:",
    "alternativas": {
     "a": "o município nunca havia registrado casos daquela doença antes do mês de abril, quando o primeiro deles foi finalmente identificado e notificado",
-    "b": "o município passou a adotar um novo sistema de notificação a partir do mês mencionado, o que alterou a forma de contabilizar os casos ocorridos",
+    "b": "o município passou a adotar um novo sistema de notificação a partir do mês mencionado, o que alterou a forma de contabilizar os casos ocorridos no território desde o início do ano",
     "c": "os casos continuaram a ocorrer, embora tenham deixado de ser informados aos órgãos responsáveis pela vigilância epidemiológica da região",
     "d": "abril foi o mês de maior incidência da doença no período analisado pelas autoridades sanitárias responsáveis pelo acompanhamento do surto",
     "e": "havia registro de casos antes de abril, informação que continua valendo mesmo quando a frase é negada, por se tratar de pressuposto e não de afirmação"
@@ -41577,7 +43693,7 @@ window.QUESTION_BANKS = {
     "b": "emotiva, porque as falas revelam o estado emocional de quem participa da conversa.",
     "c": "conativa, porque cada fala procura obter do outro uma mudança de comportamento.",
     "d": "fática, porque as falas servem para estabelecer e verificar o contato entre os interlocutores.",
-    "e": "metalinguística, porque os interlocutores discutem o significado das palavras que empregam."
+    "e": "metalinguística, porque os interlocutores interrompem a conversa para discutir o significado das palavras que um e outro empregam."
    },
    "resposta": "d",
    "explicacao": "Nenhuma informação é transmitida: as falas apenas testam se o canal está aberto e se o outro continua na linha, que é exatamente a função fática. A referencial exigiria assunto, e o diálogo não chega a ter um; a emotiva exigiria marca de sentimento; a conativa exigiria pedido de ação, e os imperativos aqui apenas devolvem o turno de fala; e a metalinguística exigiria discussão sobre a própria língua.",
@@ -41681,7 +43797,7 @@ window.QUESTION_BANKS = {
     "b": "o discurso entusiasmado sobre a 'flexibilidade' do home office e a rotina exaustiva revelada nos quadros seguintes.",
     "c": "o vocabulário corporativo usado pela personagem e a linguagem informal de quem responde a ela.",
     "d": "a quantidade de notebooks usados pela personagem e a qualidade da internet disponível na casa.",
-    "e": "uma explicação técnica bem detalhada sobre a configuração de todos os equipamentos usados nas reuniões virtuais mostradas."
+    "e": "uma explicação técnica bem detalhada sobre a configuração dos equipamentos usados nas reuniões virtuais mostradas na tirinha."
    },
    "resposta": "b",
    "explicacao": "O humor nasce do contraste entre o discurso entusiasmado sobre a flexibilidade do home office e a rotina exaustiva que os quadros seguintes revelam: a mesma cadeira desde as sete da manhã, três notebooks e um bilhete que continua intocado à noite. A passagem do tempo entre o primeiro e o terceiro quadro é o distrator mais fino, porque ela está na tirinha e é indispensável — é o veículo da piada, não o contraste que a produz, que se dá entre o que a personagem diz e o que se vê. O vocabulário corporativo aparece sem que haja um interlocutor de fala informal. A quantidade de notebooks compõe a cena, e a internet não é mencionada. E não há explicação técnica sobre equipamentos.",
@@ -41768,7 +43884,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Segundo o texto, qual é a principal causa apontada para a insegurança alimentar em escala global?",
    "alternativas": {
     "a": "A ausência completa de organizações internacionais dedicadas ao tema da alimentação mundial.",
-    "b": "O excesso constante de produção agrícola, que tornaria os alimentos artificialmente muito mais baratos em todo o mercado.",
+    "b": "O excesso de produção agrícola registrado nos últimos anos, que teria tornado os alimentos artificialmente baratos no mercado mundial.",
     "c": "A concentração da produção agrícola em poucos países exportadores, que fragiliza os importadores.",
     "d": "Problemas de distribuição, perdas na cadeia de transporte e barreiras de acesso econômico, e não a falta de produção.",
     "e": "A insuficiência da produção mundial de alimentos frente à demanda crescente da população global."
@@ -41785,7 +43901,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Diferente do rádio e da televisão, cujo conteúdo é ouvido ou visto no momento estrito da transmissão, o podcast permite que o ouvinte controle o ritmo: pausar, voltar, acelerar a velocidade de reprodução ou consumir o episódio dias depois de publicado. Essa flexibilidade tem atraído um público que valoriza aprofundamento maior do que o formato costuma oferecer em veículos de notícia mais curtos e imediatos.",
    "enunciado": "Segundo o texto, o que diferencia estruturalmente o consumo de podcast do consumo tradicional de rádio e televisão?",
    "alternativas": {
-    "a": "Não há, segundo o texto, nenhuma diferença relevante entre os três formatos de mídia mencionados no início.",
+    "a": "Não há, segundo o texto, diferença relevante entre os três formatos mencionados, já que os três dependem igualmente da grade fixa de programação da emissora.",
     "b": "O podcast depende de conexão contínua durante a escuta, o que restringe seu uso em deslocamentos.",
     "c": "O podcast exige, obrigatoriamente, que o conteúdo seja ouvido no exato momento da publicação do episódio.",
     "d": "O podcast permite ao ouvinte controlar o ritmo de consumo, ao contrário da transmissão em tempo real característica do rádio e da TV.",
@@ -41894,7 +44010,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Qual é a função do trecho final do texto ('até que, dois anos depois, a prefeitura passou a apoiar...') em relação ao restante do relato?",
    "alternativas": {
     "a": "Afirmar que a prefeitura foi responsável, desde o início, pela criação da biblioteca comunitária relatada.",
-    "b": "Contradizer completamente toda a informação apresentada anteriormente sobre a origem comunitária da biblioteca citada no texto.",
+    "b": "Contradizer frontalmente as informações apresentadas antes sobre a origem comunitária da biblioteca, revelando-as imprecisas ao final do relato.",
     "c": "Mostrar que a iniciativa, nascida da comunidade, obteve reconhecimento institucional posterior, sem que este fosse sua origem.",
     "d": "Encerrar o relato sem qualquer relação lógica com as informações apresentadas anteriormente ao longo do texto.",
     "e": "Indicar que a iniciativa perdeu autonomia ao passar a depender de recursos públicos."
@@ -41966,7 +44082,7 @@ window.QUESTION_BANKS = {
     "b": "ironia, ao registrar um entusiasmo pequeno demais para o tamanho do anúncio feito na assembleia, concedendo a comemoração e retirando-a no mesmo movimento",
     "c": "correção, ao retificar uma informação equivocada que o narrador havia fornecido antes sobre a reação do público à obra",
     "d": "dúvida, ao sugerir que o narrador não conseguiu ouvir com clareza o que se passou durante a assembleia do condomínio",
-    "e": "explicação, ao esclarecer ao leitor qual foi o procedimento adotado pelo condomínio para aprovar formalmente a realização da obra no equipamento"
+    "e": "explicação, ao esclarecer ao leitor qual foi o procedimento adotado pelo condomínio para aprovar formalmente a realização da obra no equipamento, com as etapas de votação registradas em ata"
    },
    "resposta": "b",
    "explicacao": "A construção concede e retira ao mesmo tempo: houve palmas, mas eram poucas. O narrador registra a comemoração e, no mesmo fôlego, mostra que ela era mínima — recurso típico da crônica para marcar distância bem-humorada do que se narra.",
@@ -42047,7 +44163,7 @@ window.QUESTION_BANKS = {
    "textoId": "med-med-int-t1",
    "enunciado": "Ao dizer que o tempo ganho \"dá, no fim do mês, um número que não impressiona ninguém\", o narrador:",
    "alternativas": {
-    "a": "sugere que a medição do tempo em ambientes coletivos é sempre imprecisa e que qualquer estimativa apresentada seria contestada por parte dos condôminos",
+    "a": "sugere que a medição do tempo em ambientes coletivos é imprecisa demais e que uma estimativa apresentada em números seria contestada por boa parte dos condôminos",
     "b": "reconhece que não dispõe de dados precisos para calcular a economia obtida e prefere não apresentar número algum ao leitor",
     "c": "critica a falta de transparência do condomínio, que não divulgou aos moradores os resultados alcançados com o investimento",
     "d": "demonstra que os moradores exageraram ao comemorar o anúncio da obra, já que o problema afetava apenas uma parcela reduzida dos usuários do elevador",
@@ -42083,7 +44199,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "o dado correto só funciona quando entregue junto com o que o cerca — a narrativa em que ele será lido, a comparação com algo já vivido e a admissão do que ainda não se sabe",
     "b": "a população brasileira apresenta baixo nível de letramento estatístico, o que explica a dificuldade de compreensão dos números divulgados pelas autoridades de saúde",
-    "c": "os veículos de comunicação distorcem sistematicamente as informações fornecidas pelos pesquisadores, prática que compromete a credibilidade da ciência junto ao público",
+    "c": "os veículos de comunicação distorcem sistematicamente as informações fornecidas pelos pesquisadores, prática que compromete a credibilidade da ciência junto ao público que acompanha os temas de saúde",
     "d": "a comunicação de risco deveria ser realizada exclusivamente por profissionais com formação específica na área, e não pelos próprios cientistas responsáveis pelos estudos",
     "e": "os percentuais são a forma mais adequada de expressar risco, desde que acompanhados de material explicativo distribuído previamente à população interessada"
    },
@@ -42254,7 +44370,7 @@ window.QUESTION_BANKS = {
     "a": "ofereça transporte fretado aos profissionais que residem em regiões distantes, medida que resolveria integralmente o problema apontado ao longo de toda a carta",
     "b": "elimine definitivamente a realização de reuniões no período da manhã, transferindo todos os encontros institucionais para o final da tarde ou para o início da noite",
     "c": "considere, na hora de decidir o horário da reunião, o tempo de deslocamento de quem vem de longe, um tempo que hoje não entra na conta por não aparecer na planilha do serviço",
-    "d": "reduza a jornada de trabalho dos profissionais que enfrentam trajetos longos, compensando com folgas adicionais o tempo despendido nos deslocamentos diários",
+    "d": "reduza a jornada de trabalho dos profissionais que enfrentam trajetos longos, compensando com folgas adicionais o tempo despendido nos deslocamentos diários entre a casa e a unidade de saúde",
     "e": "reconheça publicamente o esforço dos trabalhadores que cumprem horários rígidos, gesto que o autor considera suficiente para melhorar o clima institucional"
    },
    "resposta": "c",
@@ -42355,7 +44471,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "a falta de consulta prévia aos trabalhadores sobre o horário mais adequado, procedimento que deveria ser adotado antes de qualquer definição de escala",
     "b": "a imprecisão da redação empregada nas convocações, que deveriam especificar também o horário previsto para o encerramento",
-    "c": "a ausência de tolerância para atrasos nas reuniões matinais, prática que penaliza injustamente os profissionais que dependem do transporte público coletivo",
+    "c": "a ausência de tolerância para atrasos nas reuniões matinais, prática que penaliza injustamente os profissionais que dependem do transporte público coletivo da região metropolitana",
     "d": "a aparência de neutralidade de uma regra que atinge as pessoas de modo desigual, uma vez que o mesmo horário de início custa muito mais a quem mora longe do serviço",
     "e": "o excesso de reuniões realizadas ao longo da semana, que consome tempo que poderia ser dedicado às atividades assistenciais próprias de cada profissional"
    },
@@ -42422,7 +44538,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A tese central da reportagem é a de que:",
    "alternativas": {
     "a": "a cobertura vacinal deveria ser medida por outro indicador, já que o percentual de esquemas completos não reflete a proteção real da população infantil",
-    "b": "as campanhas de conscientização produzidas pelos órgãos de saúde apresentam conteúdo tecnicamente incorreto e por isso deixam de convencer a população a que se dirigem",
+    "b": "as campanhas de conscientização produzidas pelos órgãos de saúde apresentam conteúdo tecnicamente incorreto e por isso deixam de convencer a população a que se dirigem, segundo os pesquisadores ouvidos",
     "c": "a recusa deliberada à vacinação cresceu de forma acentuada no período analisado e responde pela maior parte da redução observada na cobertura das crianças",
     "d": "as doenças imunopreveníveis retornaram porque os laboratórios reduziram a produção de vacinas, o que comprometeu o abastecimento das unidades básicas de saúde",
     "e": "boa parte da queda da vacinação se resolve removendo obstáculos, e não convencendo, já que ela vem sobretudo de fricção — o horário do posto, a segunda viagem — e não de recusa"
@@ -42477,7 +44593,7 @@ window.QUESTION_BANKS = {
     "b": "hesitação, ao indicar que o autor não dispõe de dados para afirmar quando o processo teve início",
     "c": "concessão, ao admitir que a interpretação contrária também encontra respaldo nos dados disponíveis",
     "d": "reviravolta, ao desmentir em três palavras, logo depois do travessão, a impressão construída na oração anterior",
-    "e": "generalização, ao estender a conclusão obtida para o caso brasileiro a todos os países que enfrentaram redução semelhante em sua cobertura vacinal"
+    "e": "generalização, ao estender a conclusão obtida para o caso brasileiro a outros países que enfrentaram redução semelhante em sua cobertura vacinal"
    },
    "resposta": "d",
    "explicacao": "O travessão corta a frase e o verbo muda de tempo: o \"parece que nada estava acontecendo\" é desfeito por \"até que estava\". A brevidade é o recurso — quanto mais curta a virada, mais súbita ela soa, que é justamente o comportamento descrito.",
@@ -42510,7 +44626,7 @@ window.QUESTION_BANKS = {
     "a": "cada uma pede um tipo diferente de solução — convencimento num caso, acesso no outro —, e tratá-las como se fossem iguais desperdiça recurso sem mover o indicador",
     "b": "a recusa é um fenômeno restrito a grupos organizados, ao passo que a fricção atinge de modo uniforme todas as camadas da população brasileira",
     "c": "somente a recusa pode ser medida com precisão pelos sistemas de informação em saúde, o que torna a fricção um fator impossível de incorporar ao planejamento",
-    "d": "a fricção é um obstáculo temporário que tende a desaparecer com a modernização dos serviços, enquanto a recusa se consolidou como problema permanente",
+    "d": "a fricção é um obstáculo temporário que tende a desaparecer com a modernização dos serviços, enquanto a recusa se consolidou como problema permanente entre as famílias brasileiras",
     "e": "as duas expressões designam o mesmo comportamento observado nas famílias, variando apenas o vocabulário adotado por diferentes áreas de pesquisa"
    },
    "resposta": "a",
@@ -42559,7 +44675,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A frase final, sobre \"gastar dinheiro sem mover o indicador\", encerra o texto:",
    "alternativas": {
     "a": "atribuindo a responsabilidade pelo problema aos gestores municipais, que não acompanham os indicadores",
-    "b": "reconhecendo que os recursos destinados à imunização são insuficientes e precisariam ser ampliados antes de qualquer discussão sobre a estratégia adotada",
+    "b": "reconhecendo que os recursos destinados à imunização são insuficientes e precisariam ser ampliados antes de se rediscutir a estratégia adotada",
     "c": "traduzindo o erro de diagnóstico em custo financeiro, o que o torna difícil de ignorar por quem decide sobre o orçamento",
     "d": "propondo um novo indicador de acompanhamento, capaz de distinguir a recusa da dificuldade de acesso",
     "e": "retomando a imagem do escorregamento apresentada na abertura, o que dá circularidade ao texto"
@@ -42575,7 +44691,7 @@ window.QUESTION_BANKS = {
    "textoId": "med-med-int-t7",
    "enunciado": "A reportagem apresenta, na ordem: ______, depois ______, em seguida ______ e por fim ______. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "os dados de um levantamento – a comparação com outros países – as hipóteses explicativas levantadas pelos pesquisadores – as limitações metodológicas do estudo",
+    "a": "os dados de um levantamento – a comparação com outros países – as hipóteses explicativas levantadas pelos pesquisadores – as limitações metodológicas apontadas ao final do estudo",
     "b": "como a cobertura cai devagar – o que essa forma de cair provoca – uma causa pouco lembrada da queda – a correção do diagnóstico em que a resposta usual costuma se apoiar",
     "c": "o depoimento de uma família – a reação dos serviços de saúde locais – a posição oficial do ministério responsável – o desfecho do caso relatado na abertura",
     "d": "a definição de cobertura vacinal – o histórico do calendário brasileiro – os resultados alcançados em cada década – as projeções para os anos seguintes",
@@ -42645,7 +44761,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A citação \"Depois eu marco\", no Cartaz 3, é eficaz porque:",
    "alternativas": {
     "a": "reproduz, entre aspas, a frase que o próprio leitor costuma dizer a si mesmo para adiar a marcação, e a devolve como objeção a ser respondida no cartaz",
-    "b": "atribui a fala a uma personagem identificada na campanha, cujo depoimento confere credibilidade à mensagem transmitida pela peça publicitária",
+    "b": "atribui a fala a uma personagem identificada na campanha, cujo depoimento confere credibilidade à mensagem, já que ela aparece nomeada e com a idade indicada no cartaz",
     "c": "reproduz uma orientação frequentemente dada pelos profissionais de saúde aos pacientes que procuram as unidades sem encaminhamento prévio",
     "d": "ironiza a linguagem burocrática utilizada nos serviços de agendamento, cuja complexidade é apontada como causa do adiamento dos exames",
     "e": "cita um trecho de campanha anterior veiculada pelo mesmo órgão, estabelecendo continuidade entre as duas ações de comunicação realizadas"
@@ -42699,7 +44815,7 @@ window.QUESTION_BANKS = {
     "b": "pela exigência de reduzir custos de produção gráfica, uma vez que o valor de cada peça é calculado a partir do número de caracteres impressos nela",
     "c": "pela necessidade de adaptar o texto ao público de menor escolaridade, único capaz de ser alcançado por campanhas veiculadas em transporte coletivo",
     "d": "pela obrigação legal de limitar a extensão das mensagens de utilidade pública veiculadas em espaços de circulação de pessoas nas grandes cidades",
-    "e": "pela tentativa de imitar a linguagem das redes sociais, ambiente em que a campanha teria sido originalmente concebida antes de migrar para o cartaz"
+    "e": "pela tentativa de imitar a linguagem das redes sociais, ambiente em que a campanha teria sido originalmente concebida antes de migrar para o cartaz impresso do transporte"
    },
    "resposta": "a",
    "explicacao": "O próprio cabeçalho informa onde as peças serão veiculadas. Um cartaz de ônibus disputa alguns segundos de atenção de alguém em pé — e a extensão da frase é decidida por essa condição de leitura.",
@@ -42729,7 +44845,7 @@ window.QUESTION_BANKS = {
    "textoId": "med-med-int-t13",
    "enunciado": "O dado \"6 em cada 10\" foi preferido a um percentual porque essa forma:",
    "alternativas": {
-    "a": "apresenta maior precisão estatística do que a expressão em percentual, evitando os arredondamentos que costumam distorcer a leitura dos resultados",
+    "a": "apresenta maior precisão estatística do que a expressão em percentual, evitando os arredondamentos que costumam distorcer a leitura dos resultados divulgados ao público",
     "b": "faz o leitor se imaginar dentro do grupo contado, coisa que a porcentagem não faz por descrever uma propriedade da população, e não pessoas contáveis",
     "c": "ocupa menos espaço no cartaz, exigência decorrente das dimensões reduzidas das peças destinadas à veiculação no interior dos veículos coletivos",
     "d": "corresponde ao formato exigido pelos órgãos de saúde para a divulgação de indicadores obtidos a partir de levantamentos populacionais amostrais",
@@ -42888,7 +45004,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O humor da tirinha se baseia principalmente",
    "alternativas": {
     "a": "em uma interpretação literal e absurda, pelo robô, do pedido ambíguo do dono, resultando em inação.",
-    "b": "na incapacidade técnica real de qualquer robô doméstico existente executar tarefas simultâneas de fato.",
+    "b": "na incapacidade técnica dos robôs domésticos hoje existentes de executar duas tarefas ao mesmo tempo, limitação que a tirinha ilustraria.",
     "c": "na recusa do robô em executar uma tarefa que considera abaixo de suas funções.",
     "d": "em uma explicação séria sobre como robôs domésticos funcionam tecnicamente na vida real.",
     "e": "em uma crítica direta ao consumo excessivo de energia elétrica pelos eletrodomésticos modernos."
@@ -43033,7 +45149,7 @@ window.QUESTION_BANKS = {
     "b": "Apesar de anunciadas como personalizadas, as playlists tendem a reforçar a popularidade já existente, dificultando descobertas.",
     "c": "As playlists automáticas ampliam o repertório do ouvinte, expondo-o a gêneros que ele não buscaria sozinho.",
     "d": "Os serviços de streaming musical deixaram totalmente de usar playlists automáticas, segundo relata o texto apresentado.",
-    "e": "Os algoritmos de recomendação musical são incapazes de identificar as reais preferências musicais dos usuários."
+    "e": "Os algoritmos de recomendação musical são incapazes de identificar as reais preferências dos usuários e por isso sugerem artistas de gêneros escolhidos ao acaso."
    },
    "resposta": "b",
    "explicacao": "O texto contrapõe o discurso de personalização ('feitas sob medida') à prática observada (repetição de artistas populares), sustentando que a promessa de descoberta é limitada por um viés estrutural do algoritmo em favor do que já é popular.",
@@ -43065,10 +45181,10 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Troquei de cidade há três meses e ainda calculo distâncias pelo tempo que levava no lugar antigo. 'Fica pertinho', digo, sobre um mercado que está, na verdade, a quarenta minutos a pé. Aos poucos vou entendendo que não é só o mapa que muda quando a gente se muda: é a régua inteira com que a gente media a vida antes.",
    "enunciado": "A reflexão do narrador sobre 'a régua inteira com que a gente media a vida' sugere que",
    "alternativas": {
-    "a": "mudar de cidade só altera realmente as distâncias físicas entre os lugares, sem qualquer outro efeito notável ou relevante.",
+    "a": "mudar de cidade altera apenas as distâncias físicas entre os lugares, sem nenhum efeito sobre o modo como o narrador percebe a vida.",
     "b": "o narrador considera o mercado da nova cidade bem mais próximo do que de fato está de sua casa.",
     "c": "o narrador pretende voltar a morar definitivamente na cidade antiga assim que for possível fazer isso.",
-    "d": "o narrador passou a medir distâncias em tempo de deslocamento, e não mais em quilômetros percorridos.",
+    "d": "o narrador passou a medir distâncias em tempo de deslocamento, e não mais em quilômetros percorridos, adotando o relógio como referência para os trajetos que faz na cidade nova.",
     "e": "adaptar-se a um novo lugar envolve também rever referências e critérios internos usados para interpretar a nova realidade."
    },
    "resposta": "e",
@@ -43123,7 +45239,7 @@ window.QUESTION_BANKS = {
     "b": "irônico, criticando de forma bem-humorada a vagueza da informação apesar da aparência de cortesia.",
     "c": "neutro, apenas descrevendo tecnicamente o funcionamento do painel de embarque.",
     "d": "indignado, exigindo formalmente indenização da companhia aérea pelo atraso do voo.",
-    "e": "elogioso, valorizando de forma sincera a transparência da companhia aérea com todos os seus passageiros."
+    "e": "elogioso, valorizando de forma sincera a transparência com que a companhia aérea informou o novo horário de embarque."
    },
    "resposta": "b",
    "explicacao": "A caracterização da frase como algo que 'promete tudo, garante nada, e ainda parece educada' revela ironia bem-humorada diante da vagueza institucional, sem configurar elogio sincero, neutralidade técnica ou exigência formal.",
@@ -43156,7 +45272,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O efeito de humor no trecho final ('a palavra só é sempre a mais otimista da frase') decorre de",
    "alternativas": {
     "a": "uma generalização irônica que contrasta a modéstia da expressão 'só o banheiro' com o tamanho real da reforma que se seguiu.",
-    "b": "uma explicação bem técnica e detalhada sobre os custos médios de reformas residenciais na cidade atualmente cobrados.",
+    "b": "uma explicação bem técnica e detalhada sobre os custos médios das reformas residenciais na cidade, com o preço por metro quadrado de cada etapa.",
     "c": "uma descrição neutra do cronograma originalmente planejado apenas para a reforma do banheiro.",
     "d": "de um trocadilho entre o nome da construtora e o prazo repetidamente descumprido por ela.",
     "e": "uma crítica direta e sem humor ao comportamento dos vizinhos que reclamavam do barulho aos sábados."
@@ -43175,7 +45291,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "O sonar identifica cardumes com precisão, mas seu custo elevado restringe o acesso à pesca industrial.",
     "b": "Os biólogos marinhos afirmam que a tecnologia de sonar não tem qualquer efeito sobre os cardumes pescados.",
-    "c": "A tecnologia de sonar teria tornado a pesca ainda menos eficiente do que era antes de sua adoção pelas frotas pesqueiras.",
+    "c": "A tecnologia de sonar teria tornado a pesca ainda menos eficiente do que era antes de sua adoção, já que o equipamento afugenta os cardumes localizados.",
     "d": "O aumento da eficiência tecnológica na captura de peixes pode reduzir, no médio prazo, a disponibilidade futura da própria pesca.",
     "e": "A pesca com sonar aumentou, comprovadamente, a taxa de reprodução das espécies capturadas pelas frotas."
    },
@@ -43209,7 +45325,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "No primeiro quadro, um usuário tenta acessar um site e vê a mensagem: 'Confirme que você não é um robô: selecione todas as imagens com semáforo'. No segundo quadro, depois de acertar, aparece nova mensagem: 'Agora selecione todas com bicicleta'. No terceiro quadro, o usuário, exausto, encara a tela e murmura: 'Eu só queria ver a previsão do tempo.'",
    "enunciado": "O humor da tirinha decorre principalmente",
    "alternativas": {
-    "a": "de uma crítica séria e detalhada às falhas de segurança em sites de previsão do tempo.",
+    "a": "de uma crítica séria e detalhada às falhas de segurança dos sites de previsão do tempo, apresentadas pela tirinha como o verdadeiro problema do usuário.",
     "b": "da comparação técnica entre diferentes tipos de verificação de segurança digital usados hoje.",
     "c": "da ausência de qualquer diálogo direto entre o usuário e o site ao longo da tirinha.",
     "d": "do exagero cômico da quantidade de etapas de verificação exigidas para uma tarefa simples e corriqueira.",
@@ -43299,7 +45415,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "No grupo de família do WhatsApp, minha tia manda bom dia às seis da manhã, meu primo manda memes desatualizados às três da tarde, e meu pai, fiel ao estilo, responde tudo com 'certo' três dias depois. Ainda assim, é nesse grupo bagunçado, sem nenhuma lógica de horário, que a gente sempre descobre primeiro quando alguém da família precisa de ajuda.",
    "enunciado": "O tom do narrador ao descrever o funcionamento aparentemente caótico do grupo de família é de",
    "alternativas": {
-    "a": "irritação profunda com a falta de organização das mensagens trocadas nesse grupo de família.",
+    "a": "irritação profunda com a falta de organização das mensagens trocadas nesse grupo de família, que o narrador diz pretender abandonar assim que puder.",
     "b": "crítica severa e definitiva ao uso de aplicativos de mensagem por familiares mais velhos.",
     "c": "indiferença total em relação a tudo o que acontece no grupo de família no WhatsApp da casa.",
     "d": "humor afetuoso, que reconhece a bagunça aparente do grupo sem deixar de valorizar sua função real na família.",
@@ -43385,7 +45501,7 @@ window.QUESTION_BANKS = {
    "textoId": "med-med-int-t3",
    "enunciado": "O poema é composto por versos ______, sem ______, e sua unidade se apoia ______. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "alexandrinos – pausa interna obrigatória no interior de cada verso – na simetria entre a primeira e a última estrofe da composição apresentada",
+    "a": "alexandrinos – pausa interna obrigatória no interior de cada verso – na simetria entre a primeira e a última estrofe, que se repetem quase palavra por palavra",
     "b": "decassílabos – variação no número de sílabas poéticas ao longo das estrofes – na regularidade métrica que percorre toda a composição do início ao fim",
     "c": "brancos – qualquer recurso de repetição sonora ou sintática – na sucessão cronológica dos acontecimentos narrados ao longo da noite de plantão",
     "d": "redondilhos – estrofes de extensão desigual entre si – no esquema de rimas emparelhadas que fecha cada uma das quatro estrofes do poema",
@@ -43456,7 +45572,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "os profissionais de plantão se dividem entre os que cumprem suas obrigações e os que descansam às escondidas",
     "b": "há quem simule dormir, de modo que a insônia e o sono convivem sob a mesma luz branca, que não se apaga durante a noite",
-    "c": "os pacientes recebem medicação para dormir, ainda que nem todos apresentem resposta adequada ao tratamento prescrito pela equipe responsável pelo caso",
+    "c": "os pacientes recebem medicação para dormir, ainda que parte deles não apresente resposta adequada ao tratamento prescrito pela equipe responsável",
     "d": "o horário de visitas foi encerrado e os acompanhantes precisam permanecer em silêncio para não incomodar",
     "e": "as luzes permanecem acesas por determinação do regulamento interno, o que impede qualquer pessoa de adormecer"
    },
@@ -43472,7 +45588,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A relação entre o título \"Plantão\" e o corpo do poema é de:",
    "alternativas": {
     "a": "ironia, pois o título sugere atividade intensa enquanto o texto descreve um ambiente em que absolutamente nada acontece durante toda a noite retratada",
-    "b": "contraposição, uma vez que o título anuncia um tema que o poema recusa a desenvolver, optando por tratar de assunto inteiramente diverso do sugerido",
+    "b": "contraposição, uma vez que o título anuncia um tema que o poema recusa a desenvolver, optando por assunto inteiramente diverso, o que deixa o título sem função no conjunto",
     "c": "redundância, já que todos os elementos indicados pelo título são retomados literalmente ao longo dos versos, sem que nada de novo seja acrescentado",
     "d": "enquadramento, pois é ele que situa a cena e explica a vigília descrita, informando que alguém está de serviço e que aquela noite terminará num relato de passagem",
     "e": "ambiguidade, na medida em que o termo escolhido admite dois sentidos distintos que o poema explora alternadamente em cada uma de suas quatro estrofes"
@@ -43506,7 +45622,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A progressão do trecho se dá por:",
    "alternativas": {
     "a": "enumeração das etapas do atendimento em ordem cronológica inversa, partindo da última delas até chegar ao momento inicial do processo descrito",
-    "b": "repetição integral da mesma informação em três formulações distintas, recurso empregado para assegurar a compreensão do leitor não especializado",
+    "b": "repetição integral da mesma informação em três formulações distintas, recurso empregado para assegurar a compreensão do leitor não especializado no assunto tratado",
     "c": "apresentação de três aspectos independentes entre si de um mesmo processo, reunidos no parágrafo sem que haja ligação lógica entre eles",
     "d": "oposição sucessiva entre as ideias enunciadas, de modo que cada período nega parcialmente o conteúdo apresentado no período anterior a ele",
     "e": "retomada, em cada período, do termo que encerrava o anterior, de modo que a informação nova vira ponto de partida do seguinte, sem repetir conteúdo"
@@ -43633,7 +45749,7 @@ window.QUESTION_BANKS = {
     "a": "afetuoso, já que o banco demonstra preocupação genuína com o bem-estar de quem recebeu a mensagem",
     "b": "de cobrança disfarçada, em que a polidez do vocabulário mascara uma exigência de pagamento imediato",
     "c": "indiferente, pois a mensagem não menciona nenhuma consequência para quem não regularizar a dívida",
-    "d": "ameno e informativo, sem qualquer intenção de pressionar quem a recebeu a tomar alguma providência imediata",
+    "d": "ameno e informativo, limitado a comunicar ao cliente a situação atual da conta, sem lhe pedir nenhuma providência",
     "e": "de elogio indireto a quem deve, reconhecendo o esforço já feito para quitar o débito acumulado"
    },
    "resposta": "b",
@@ -43848,7 +45964,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "coerência de registro, já que ambas as expressões pertencem à mesma variedade formal da língua",
     "b": "erro de norma culta, sem qualquer intenção expressiva por parte de quem escreveu a mensagem",
-    "c": "uso exclusivamente técnico, próprio da correspondência comercial entre clientes e gerentes de banco na cidade",
+    "c": "uso estritamente técnico, próprio da correspondência comercial entre clientes e gerentes de banco na cidade",
     "d": "contraste de registro, que reforça, pelo choque entre polidez e informalidade, o tom irônico da fala",
     "e": "neutralidade estilística, pois as duas expressões produzem o mesmo efeito sobre o leitor do texto"
    },
@@ -43950,6 +46066,40 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-254",
+   "texto_apoio": "A fila do posto de saúde é um termômetro. Quando cresce na porta, é sinal de que alguma coisa esquentou lá dentro. Naquela segunda-feira, o termômetro marcava três horas de espera.",
+   "enunciado": "A expressão \"o termômetro marcava\" sugere que o texto:",
+   "alternativas": {
+    "a": "mantém a imagem apresentada na abertura e a estende ao tempo de espera, tratando a fila como instrumento de medida",
+    "b": "abandona a linguagem figurada e passa a informar a temperatura efetivamente registrada no interior da unidade de saúde",
+    "c": "recorre à personificação, atribuindo ao aparelho de medição a capacidade de decidir quanto tempo cada pessoa espera",
+    "d": "adota registro formal para descrever um procedimento de aferição previsto nas normas de funcionamento do serviço público",
+    "e": "emprega hipérbole para exagerar um dado que o próprio texto apresenta em seguida como pouco relevante para a discussão"
+   },
+   "resposta": "a",
+   "explicacao": "O texto abre chamando a fila de termômetro — uma metáfora — e, no fim, faz o mesmo termômetro marcar horas em vez de graus. O sentido só se completa porque a imagem inicial continua valendo: o que se mede ali não é temperatura, é a pressão sobre o serviço.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-255",
+   "texto_apoio": "No registro do plantão, o residente escreveu que a enfermaria \"amanheceu calma\". O supervisor riscou a palavra e anotou ao lado: \"calma é o que a gente sente; anote o que se mediu\".",
+   "enunciado": "A ressalva do supervisor incide sobre o sentido da palavra \"calma\", que nesse contexto é:",
+   "alternativas": {
+    "a": "estritamente denotativo, por corresponder a uma grandeza medida pelos aparelhos instalados ao lado de cada leito",
+    "b": "de tom irônico, por dizer o contrário do que se observou durante a madrugada, como o supervisor teria percebido",
+    "c": "próximo da hipérbole, por exagerar de propósito a intensidade do que se passou na enfermaria naquele período",
+    "d": "técnico, por pertencer ao jargão padronizado que a instituição impõe nos registros de acompanhamento dos pacientes",
+    "e": "impressionista, próximo da linguagem figurada, por exprimir o que quem escreveu sentiu, e não um dado aferido"
+   },
+   "resposta": "e",
+   "explicacao": "\"Calma\" descreve a impressão de quem estava lá, não uma grandeza que se possa conferir depois. É por isso que o supervisor pede a troca: no registro clínico, a palavra vale como avaliação subjetiva, e o que se cobra ali é o dado aferido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
    "id": "dir-interpretacao-texto-223",
    "banca": "fgv",
    "sessao": "fgv-unificado-2023.1",
@@ -44016,7 +46166,7 @@ window.QUESTION_BANKS = {
     "a": "Nos polvos, os neurônios concentram-se num cérebro central proporcionalmente maior que o dos mamíferos.",
     "b": "Nos polvos, grande parte dos neurônios está distribuída pelos braços, permitindo processamento relativamente independente.",
     "c": "O polvo não possui neurônios em nenhuma parte do corpo, segundo estudos recentes de neurociência marinha.",
-    "d": "Os braços do polvo são incapazes de qualquer tipo de processamento sensorial, dependendo sempre do cérebro central do animal.",
+    "d": "Os braços do polvo são incapazes de realizar processamento sensorial por conta própria e dependem do cérebro central para cada movimento executado.",
     "e": "Os polvos têm menos neurônios do que qualquer outro animal marinho, incluindo peixes e crustáceos."
    },
    "resposta": "b",
@@ -44065,7 +46215,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "A seleção venceu por 2 a 1 e chegou aos 15 pontos na classificação, mantendo a liderança do grupo. 'Fizemos um jogo inteligente, sofremos no primeiro tempo, mas ajustamos a marcação no intervalo', avaliou o técnico após a partida.",
    "enunciado": "No trecho, é possível distinguir claramente entre",
    "alternativas": {
-    "a": "apenas opiniões pessoais do próprio jornalista, sem qualquer dado verificável sobre o resultado da partida disputada.",
+    "a": "apenas opiniões pessoais do próprio jornalista, que teria interpretado o placar e a classificação segundo sua preferência clubística.",
     "b": "dois dados estatísticos que, nessa leitura, se contradizem entre si sobre o placar e a posição na tabela.",
     "c": "duas avaliações do técnico feitas em momentos diferentes da temporada, sem dados de classificação.",
     "d": "uma crítica do técnico ao desempenho de um jogador específico, citado nominalmente na entrevista concedida.",
@@ -44102,7 +46252,7 @@ window.QUESTION_BANKS = {
    "enunciado": "No texto, o conectivo 'contudo' estabelece uma relação de",
    "alternativas": {
     "a": "oposição, contrapondo a insuficiência do hábito isolado de poupar à eficácia do hábito acompanhado de reflexão.",
-    "b": "causa, indicando que guardar a mesada sozinha já seria sempre a causa direta do raciocínio financeiro adulto completo.",
+    "b": "causa, indicando que guardar parte da mesada já seria, por si só, a causa direta do raciocínio financeiro do adulto formado.",
     "c": "comparação entre duas crianças diferentes, cujos hábitos de poupança o texto contrastaria.",
     "d": "adição, reforçando a ideia anterior sobre a mesada sem introduzir nenhuma ressalva ao raciocínio.",
     "e": "conclusão, apresentando o hábito de poupar como resultado necessário do que se afirmou antes."
@@ -44121,7 +46271,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "A segurança da vacina depende de consenso entre especialistas; a recomendação de uso, de evidência direta.",
     "b": "Nenhuma das duas afirmações tem qualquer base científica sólida, segundo a própria cientista entrevistada.",
-    "c": "Ambas as afirmações são igualmente fatos comprovados cientificamente, sem nenhuma diferença relevante entre elas.",
+    "c": "Ambas as afirmações são igualmente fatos comprovados cientificamente, já que a recomendação de vacinar decorre dos mesmos testes clínicos revisados por pares.",
     "d": "A segurança da vacina é fato baseado em evidências; a recomendação universal envolve julgamento que extrapola os dados.",
     "e": "A cientista afirma que não há diferença relevante alguma entre fato e opinião em contextos científicos."
    },
@@ -45243,7 +47393,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "Porque o ruído urbano é medido pelos mesmos órgãos que monitoram a qualidade do ar.",
     "b": "Porque a exposição prolongada a ruídos elevados está associada a distúrbios do sono e a maior risco cardiovascular.",
-    "c": "Porque nenhum morador jamais se queixou do barulho da rodovia antes da instalação completa dessas barreiras acústicas específicas.",
+    "c": "Porque os moradores só se queixaram do barulho da rodovia depois que as barreiras acústicas foram instaladas ao longo da via residencial.",
     "d": "Porque as barreiras acústicas custam mais caro do que outras obras de infraestrutura urbana.",
     "e": "Porque a redução de ruído não trouxe nenhum benefício mensurável à saúde dos moradores da região."
    },
@@ -45277,7 +47427,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Pesquisas em neurolinguística indicam que crianças expostas regularmente a duas línguas desde a primeira infância desenvolvem, em média, maior flexibilidade cognitiva para alternar entre tarefas, mesmo em atividades que não envolvem linguagem diretamente. Os pesquisadores atribuem esse ganho ao exercício constante de inibir uma língua para ativar outra, um treino que parece se generalizar para outras funções executivas do cérebro.",
    "enunciado": "Qual explicação os pesquisadores oferecem para o ganho cognitivo associado ao bilinguismo infantil?",
    "alternativas": {
-    "a": "A ausência completa e definitiva de qualquer relação entre bilinguismo e todas as funções cognitivas executivas do cérebro.",
+    "a": "A ausência de relação demonstrável entre o bilinguismo infantil e as funções executivas do cérebro, apontada pelos próprios pesquisadores.",
     "b": "O uso exclusivo de métodos escolares tradicionais no ensino de idiomas estrangeiros às crianças.",
     "c": "O fato de crianças bilíngues estudarem, em média, mais horas por dia do que crianças monolíngues.",
     "d": "O contato precoce com estruturas gramaticais mais complexas, que antecipa o amadurecimento da linguagem.",
@@ -45317,7 +47467,7 @@ window.QUESTION_BANKS = {
     "b": "As próteses robóticas ainda não conseguem reproduzir nenhum movimento natural da mão humana.",
     "c": "O principal obstáculo é a resistência dos usuários a dispositivos que dependem de recarga diária.",
     "d": "O principal obstáculo atual para a difusão das próteses robóticas é de natureza econômica, não mais mecânica.",
-    "e": "As próteses robóticas são utilizadas exclusivamente por pessoas de altíssimo poder aquisitivo, sem qualquer exceção."
+    "e": "As próteses robóticas já chegaram ao mesmo preço das próteses mecânicas comuns, o que ampliou muito o número de usuários atendidos."
    },
    "resposta": "d",
    "explicacao": "O texto afirma que o desafio 'não é mais puramente mecânico, mas de custo', apontando a questão econômica como o principal obstáculo atual à difusão da tecnologia, e não a limitação técnica dos movimentos.",
@@ -45373,7 +47523,7 @@ window.QUESTION_BANKS = {
     "b": "as duas são literais, uma vez que ambas remetem a instalações elétricas concretas.",
     "c": "as duas são figuradas, pois a palavra designa um objeto ausente em ambos os contextos.",
     "d": "a primeira é figurada e a segunda é literal, já que a reforma envolve documentos físicos.",
-    "e": "a distinção não se aplica, porque a palavra tem um único sentido registrado em dicionário."
+    "e": "a distinção não se aplica, porque a palavra tem um único sentido registrado em dicionário e conserva esse mesmo sentido nos dois trechos citados."
    },
    "resposta": "a",
    "explicacao": "No manual, fiação designa o conjunto de fios elétricos dentro da parede — o objeto mesmo. No texto de opinião, ela nomeia a rede de vínculos e repasses entre os entes da federação, que não é feita de fios: o sentido é construído por transferência. Dizer que as duas são literais ignora que uma federação não tem cabos; dizer que as duas são figuradas desconsidera o manual, cujo objeto é físico; a inversão troca os dois casos; e a existência de um sentido dicionarizado não impede o uso figurado, que é justamente o que se apoia nele.",
@@ -45386,7 +47536,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Qual é o tom predominante do texto ao descrever a reação da comunidade após a enchente?",
    "alternativas": {
     "a": "De crítica exclusiva e resignada à ausência total de atuação do poder público na região afetada.",
-    "b": "De desconfiança em relação à eficácia dos mutirões de limpeza organizados pelos próprios moradores.",
+    "b": "De desconfiança em relação à eficácia dos mutirões organizados pelos próprios moradores, tratados no texto como improviso incapaz de resolver o problema.",
     "c": "De reconhecimento e valorização da capacidade de organização coletiva revelada pela própria comunidade diante da crise.",
     "d": "De indiferença total em relação às ações realizadas pelos moradores após o desastre relatado.",
     "e": "De cobrança dirigida aos moradores, que teriam demorado a se organizar depois da enchente."
@@ -45409,7 +47559,7 @@ window.QUESTION_BANKS = {
     "b": "duas opiniões pessoais da secretária, sem nenhum dado numérico que as sustente",
     "c": "um dado objetivo sobre a queda e uma avaliação subjetiva da secretária",
     "d": "uma crítica direta da secretária ao sistema de agendamento implantado",
-    "e": "um dado objetivo e uma projeção da secretária sobre os próximos meses"
+    "e": "um dado objetivo sobre a queda e uma projeção da secretária a respeito dos próximos meses de atendimento"
    },
    "resposta": "c",
    "explicacao": "Os números — de 94 para 61 dias — são verificáveis; a melhora mais consistente em quinze anos é juízo de quem fala, apoiado na própria experiência. O texto junta as duas coisas sem confundi-las, e distingui-las é a tarefa. Em (e) está o distrator mais fino: a secretária avalia o passado, e não projeta o futuro; dizer que ainda se está longe do ideal é medir a distância já percorrida, não prever a próxima. Em (b), o dado numérico existe. Em (a), os números não se contradizem. Em (d), a fala é positiva com ressalva, e não crítica ao sistema.",
@@ -45422,7 +47572,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Qual tese o texto sustenta em relação à criação de horários fixos de planejamento dentro da carga horária contratada?",
    "alternativas": {
     "a": "A criação de horários fixos de planejamento não trouxe nenhuma mudança perceptível na saúde dos professores.",
-    "b": "O planejamento dentro da carga horária só produz efeito quando acompanhado de redução do número de alunos por turma.",
+    "b": "O planejamento dentro da carga horária só produz efeito quando acompanhado de redução do número de alunos por turma, condição destacada pelo levantamento sindical.",
     "c": "Os afastamentos por saúde mental entre professores aumentaram após a criação de horários fixos de planejamento.",
     "d": "O planejamento pedagógico deveria ser realizado exclusivamente fora do horário de trabalho remunerado.",
     "e": "Reservar tempo de planejamento dentro da carga horária contratada está associado à redução de afastamentos por saúde mental."
@@ -45496,7 +47646,7 @@ window.QUESTION_BANKS = {
     "a": "Porque feiras livres não aceitam, em nenhuma hipótese, produtos vindos de pequenos produtores rurais.",
     "b": "Porque a venda para atravessadores está proibida por lei para produtores de pequena escala.",
     "c": "Porque a viabilidade da venda direta depende do tamanho da produção e da distância até o consumidor.",
-    "d": "Porque grandes e pequenos produtores enfrentam exatamente os mesmos custos fixos de deslocamento.",
+    "d": "Porque grandes e pequenos produtores enfrentam exatamente os mesmos custos fixos de deslocamento até os pontos de venda.",
     "e": "Porque a venda direta exige certificação sanitária que só grandes produtores conseguem obter."
    },
    "resposta": "c",
@@ -45584,7 +47734,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Qual explicação o texto oferece para a mobilização de voluntários sem experiência prévia em ações humanitárias?",
    "alternativas": {
     "a": "A cobertura contínua do desastre pela imprensa, que manteve o assunto em evidência por semanas.",
-    "b": "A ausência completa e absolutamente total de qualquer outro tipo de auxílio prestado às vítimas desse grande deslizamento de terra citado.",
+    "b": "A ausência de outras formas de auxílio às vítimas do deslizamento, o que teria deixado o socorro inteiramente por conta dos voluntários vindos de outras cidades.",
     "c": "A obrigatoriedade legal de participação em ações de ajuda humanitária após desastres naturais como esse.",
     "d": "A proximidade emocional criada pelas imagens do desastre compartilhadas nas redes sociais, que aproximou a tragédia apesar da distância.",
     "e": "O pagamento oferecido pelas organizações responsáveis pela coordenação da ajuda humanitária prestada."
@@ -45605,7 +47755,7 @@ window.QUESTION_BANKS = {
     "b": "As empresas de aplicativo eliminaram completamente qualquer forma de avaliação de desempenho dos entregadores.",
     "c": "A autonomia declarada convive com a impossibilidade de o trabalhador negociar o preço do próprio serviço.",
     "d": "Não existe, segundo o texto, nenhuma contradição na categorização utilizada pelas empresas de aplicativo citadas.",
-    "e": "Os trabalhadores de aplicativo já recebem, atualmente, absolutamente todos os direitos trabalhistas tradicionais garantidos pela legislação."
+    "e": "Os trabalhadores de aplicativo já recebem, atualmente, os mesmos direitos trabalhistas assegurados pela legislação aos empregados com carteira assinada."
    },
    "resposta": "a",
    "explicacao": "O texto evidencia uma contradição entre a categoria formal de 'autônomo' (sem direitos trabalhistas tradicionais) e a prática real de controle por metas, avaliações e penalidades, elementos associados a relações de subordinação, e não de autonomia plena.",
@@ -45620,7 +47770,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Qual é a função da proposta intermediária apresentada no final do texto?",
    "alternativas": {
     "a": "Buscar conciliar a preservação da memória histórica com uma reavaliação crítica do que o monumento representa.",
-    "b": "Encerrar definitivamente todo esse debate ao atender integralmente a posição favorável à remoção do monumento.",
+    "b": "Encerrar o debate ao atender de forma integral a posição dos moradores que defendem a remoção do monumento da praça central.",
     "c": "Provar que não existe, de fato, nenhuma controvérsia real sobre a permanência da estátua na praça.",
     "d": "Defender que toda estátua histórica deveria ser removida de praças públicas, sem exceção.",
     "e": "Demonstrar que soluções intermediárias tendem a desagradar aos dois lados e por isso são inviáveis."
@@ -45793,7 +47943,7 @@ window.QUESTION_BANKS = {
    "enunciado": "No texto, qual estratégia de construção se destaca?",
    "alternativas": {
     "a": "enumeração de exemplos em ordem crescente de importância",
-    "b": "definição técnica seguida de sua aplicação prática",
+    "b": "definição técnica do aplicativo seguida de sua aplicação prática no cotidiano",
     "c": "citação de autoridade para sustentar a afirmação",
     "d": "ironia produzida pelo contraste entre promessa e resultado",
     "e": "pergunta retórica respondida no período seguinte"
@@ -45907,8 +48057,8 @@ window.QUESTION_BANKS = {
    "enunciado": "No texto, qual estratégia de construção se destaca?",
    "alternativas": {
     "a": "uso de dados numéricos para dimensionar o problema",
-    "b": "paralelismo entre duas estruturas sintáticas idênticas",
-    "c": "descrição de um cenário sem marcas de posicionamento",
+    "b": "paralelismo entre duas estruturas sintáticas idênticas em extensão e na ordem dos termos",
+    "c": "descrição objetiva do relatório, sem nenhuma marca de posicionamento do autor",
     "d": "conclusão anunciada antes dos dados que a sustentam",
     "e": "oposição entre quantidade de números e qualidade da explicação"
    },
@@ -45963,7 +48113,7 @@ window.QUESTION_BANKS = {
    "dificuldade": "media",
    "enunciado": "No texto, qual estratégia de construção se destaca?",
    "alternativas": {
-    "a": "paralelismo entre duas estruturas sintáticas idênticas",
+    "a": "paralelismo entre as duas estruturas sintáticas que abrem os períodos",
     "b": "alternância entre discurso direto e discurso indireto",
     "c": "correção de expectativa por meio da estrutura não... mas",
     "d": "citação de autoridade para sustentar a afirmação",
@@ -46382,7 +48532,7 @@ window.QUESTION_BANKS = {
    "enunciado": "É correto afirmar que a ideia central do texto é:",
    "alternativas": {
     "a": "A obra produziu efeitos idênticos nos dois lados da região que ela passou a conectar",
-    "b": "A ponte distribuiu os benefícios da integração de forma equivalente entre todos os pontos da região",
+    "b": "A ponte distribuiu os benefícios da integração de forma equivalente entre as duas cidades que ela passou a ligar",
     "c": "A ponte beneficiou igualmente todos os pontos da região",
     "d": "O comércio antigo passou a receber mais veículos depois da obra",
     "e": "Uma obra de infraestrutura pode gerar efeitos positivos e perdas distribuídos de modo desigual"
@@ -46479,7 +48629,7 @@ window.QUESTION_BANKS = {
     "a": "citação de autoridade para sustentar a afirmação",
     "b": "pergunta retórica respondida no período seguinte",
     "c": "definição técnica seguida de sua aplicação prática",
-    "d": "enumeração de exemplos em ordem crescente de importância",
+    "d": "enumeração de exemplos em ordem crescente de importância ao longo do parágrafo final",
     "e": "comparação entre elementos explícitos e escolhas editoriais"
    },
    "resposta": "e",
@@ -46829,7 +48979,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Segundo o texto, o ajuste ______ acontece com o tempo, o ajuste ______ não se completa, e é por isso que ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "temporário – permanente – o retorno ao turno diurno reverte integralmente os efeitos já acumulados",
-    "b": "fisiológico – comportamental – os trabalhadores relatam dificuldade de adaptação mesmo quando os exames laboratoriais não apresentam qualquer alteração",
+    "b": "fisiológico – comportamental – os trabalhadores relatam dificuldade de adaptação mesmo quando os exames laboratoriais não apresentam alteração relevante",
     "c": "hormonal – metabólico – as alterações se restringem ao período imediatamente posterior ao início da escala",
     "d": "individual – coletivo – as medidas de organização da escala produzem resultado apenas quando adotadas simultaneamente por toda a equipe do serviço",
     "e": "comportamental – fisiológico – dormir bem durante o dia não elimina o efeito do turno sobre o metabolismo da glicose"
@@ -46847,7 +48997,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O parágrafo iniciado por \"Nada disso significa que o trabalho noturno deva acabar\" cumpre a função de:",
    "alternativas": {
     "a": "refutar os estudos mencionados no parágrafo anterior, cujos resultados o autor considera insuficientes para sustentar qualquer recomendação de política pública",
-    "b": "introduzir o argumento principal da reportagem, que só é apresentado nesse ponto após a exposição preliminar dos mecanismos biológicos envolvidos no processo",
+    "b": "introduzir o argumento principal da reportagem, que só é apresentado nesse ponto após a exposição preliminar dos mecanismos biológicos envolvidos no processo de adaptação ao turno",
     "c": "delimitar o alcance da tese, afastando uma conclusão que o leitor poderia tirar dos parágrafos anteriores, a de que os serviços noturnos deveriam simplesmente acabar",
     "d": "encerrar a exposição dos dados científicos e iniciar uma seção de caráter opinativo, claramente separada da parte informativa apresentada até aquele momento",
     "e": "apresentar o ponto de vista das instituições empregadoras, contrastando-o com a posição dos pesquisadores citados ao longo dos parágrafos anteriores do texto"
@@ -46916,7 +49066,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Segundo o texto, o que a pesquisa em cronobiologia desmontou foi a ideia de que:",
    "alternativas": {
     "a": "os trabalhadores de escala noturna apresentam maior incidência de distúrbios metabólicos que os de jornada diurna",
-    "b": "o sono desempenha papel central na manutenção da saúde, hipótese que os estudos recentes teriam substituído por explicações de natureza estritamente hormonal",
+    "b": "o sono desempenha papel central na manutenção da saúde — algo que os estudos recentes de cronobiologia teriam substituído por explicações estritamente hormonais",
     "c": "a exposição à luz artificial durante a noite influencia o funcionamento do organismo ao longo do dia",
     "d": "adaptar-se ao turno noturno depende basicamente de força de vontade e de hábito adquirido, e não da fisiologia do organismo",
     "e": "existe um relógio interno responsável por coordenar diversas funções fisiológicas, concepção hoje abandonada"
@@ -47001,7 +49151,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Nas instruções de uso predominam verbos no modo ______, adequado a um texto que ______; nas advertências, esse modo aparece combinado a ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "imperativo – orienta condutas que o leitor deve executar sozinho – orações condicionais iniciadas por \"se\", que delimitam os casos em que a ordem vale para cada paciente",
-    "b": "subjuntivo – descreve situações hipotéticas – enunciados no futuro do presente que projetam os efeitos esperados do tratamento sobre o organismo do paciente",
+    "b": "subjuntivo – descreve situações hipotéticas – enunciados no futuro do presente que projetam os efeitos esperados do tratamento sobre o organismo do paciente ao longo das semanas",
     "c": "indicativo – relata fatos verificados – construções na voz passiva que ocultam o agente responsável pela execução de cada uma das etapas descritas",
     "d": "infinitivo – enumera procedimentos sem destinatário definido – expressões de tempo que delimitam a duração máxima recomendada para o tratamento",
     "e": "gerúndio – descreve processos em andamento – complementos de finalidade que justificam cada uma das recomendações apresentadas ao longo do texto"
@@ -47087,7 +49237,7 @@ window.QUESTION_BANKS = {
    "textoId": "med-med-int-t8",
    "enunciado": "A precisão de \"um comprimido a cada 6 horas, não ultrapassando 4 comprimidos em 24 horas\" se explica porque:",
    "alternativas": {
-    "a": "a formulação em dois números permite ao paciente escolher entre os dois critérios aquele que melhor se ajusta à sua rotina diária de trabalho e descanso",
+    "a": "a formulação em dois números permite ao paciente escolher entre os dois critérios aquele que melhor se ajusta à sua rotina diária de trabalho e de descanso ao longo da semana",
     "b": "o intervalo sozinho não impede que o total do dia passe do limite, já que quatro doses espaçadas ainda deixariam espaço para uma quinta tomada de madrugada",
     "c": "as duas informações se destinam a públicos distintos, sendo a primeira dirigida ao paciente e a segunda ao farmacêutico responsável pela dispensação",
     "d": "a repetição da mesma informação em unidades diferentes é exigência da regulamentação aplicável às bulas de medicamentos isentos de prescrição médica",
@@ -47261,7 +49411,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "nomeia aquilo que falta ao sistema — a assinatura que responde pelo laudo —, e é essa falta, e não o desempenho, que o texto discute do começo ao fim",
     "b": "identifica os tipos de exame para os quais a legislação ainda não autoriza o laudo inteiramente automatizado",
-    "c": "indica que o texto tratará das limitações técnicas dos algoritmos de leitura de imagem em comparação com a acuidade visual dos especialistas humanos",
+    "c": "indica que o texto tratará das limitações técnicas dos algoritmos de leitura de imagem diante da acuidade visual dos especialistas humanos que hoje assinam os laudos",
     "d": "sugere que os sistemas ocultam deliberadamente a autoria de suas conclusões, prática que o editorial denuncia ao longo dos parágrafos seguintes",
     "e": "anuncia uma comparação entre os documentos emitidos por profissionais e aqueles gerados por sistemas, cotejados item a item no corpo do texto"
    },
@@ -47294,7 +49444,7 @@ window.QUESTION_BANKS = {
    "enunciado": "No trecho, predomina a função:",
    "alternativas": {
     "a": "metalinguística, porque a linguagem é usada para explicar os próprios termos, definindo o que se chama de prevalência e distinguindo-a da incidência",
-    "b": "referencial, uma vez que o texto informa dados epidemiológicos verificáveis sobre a ocorrência de doenças em uma população determinada e delimitada",
+    "b": "referencial, uma vez que o texto informa dados epidemiológicos verificáveis sobre a ocorrência de doenças em uma população determinada e delimitada no tempo e no espaço",
     "c": "apelativa, na medida em que orienta o leitor sobre o modo correto de empregar cada um dos dois conceitos apresentados ao longo do enunciado",
     "d": "fática, pois o objetivo do enunciado é verificar se o canal de comunicação entre quem escreve e quem lê permanece aberto durante a exposição",
     "e": "emotiva, considerando que o autor manifesta sua preferência pessoal por um dos dois indicadores mencionados no interior do mesmo período"
@@ -51157,6 +53307,40 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Morte e Vida Severina, de João Cabral de Melo Neto, é um auto de natal pernambucano. O retirante Severino desce o Capibaribe fugindo da seca e encontra sucessivas mortes até o nascimento final, que devolve algum sentido à travessia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-366",
+   "texto_apoio": "“Só a Antropofagia nos une. Socialmente. Economicamente. Filosoficamente. […] Tupi, or not tupi that is the question.” (Oswald de Andrade, Manifesto Antropófago, 1928)",
+   "enunciado": "O trocadilho com a célebre fala de Hamlet condensa a proposta modernista de:",
+   "alternativas": {
+    "a": "rejeitar a contribuição estrangeira em nome de uma expressão anterior ao contato com a Europa",
+    "b": "fixar uma língua literária depurada dos regionalismos, submetendo a escrita nacional às regras de composição herdadas dos manuais lusitanos de retórica e de boa gramática",
+    "c": "abandonar a matéria nacional em favor de assuntos universais",
+    "d": "devorar a herança europeia e transformá-la em matéria brasileira, em vez de imitá-la ou de recusá-la em bloco",
+    "e": "converter a poesia em registro documental da vida rural, sem elaboração formal"
+   },
+   "resposta": "d",
+   "explicacao": "O Manifesto Antropófago propõe a antropofagia cultural: em lugar de copiar o modelo europeu ou de recusá-lo inteiro, o escritor brasileiro deve deglutir a influência e devolvê-la transformada. A imagem parte do ritual tupinambá relatado pelos cronistas e responde ao problema que a Semana de Arte Moderna de 1922 havia posto — como ser moderno e brasileiro ao mesmo tempo. Oswald de Andrade radicaliza aí o programa da primeira fase do modernismo, que Pau-Brasil já esboçara.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-367",
+   "texto_apoio": "“Na planície avermelhada os juazeiros alargavam duas manchas verdes. Os infelizes tinham caminhado o dia inteiro, estavam cansados e famintos.” (Graciliano Ramos, Vidas Secas, 1938)",
+   "enunciado": "A construção do trecho é característica do romance de 30 por:",
+   "alternativas": {
+    "a": "aliar o registro seco e a frase curta à observação de uma população reduzida à sobrevivência",
+    "b": "recorrer à linguagem rebuscada para elevar a matéria sertaneja ao plano da epopeia",
+    "c": "acumular digressões filosóficas em períodos longos, nos quais quem conta a história interrompe a ação para comentar em primeira pessoa as próprias hesitações diante do que acaba de relatar",
+    "d": "substituir a matéria social pela fantasia, deslocando a ação para um tempo mítico",
+    "e": "adotar o tom de crônica bem-humorada dos costumes urbanos"
+   },
+   "resposta": "a",
+   "explicacao": "Vidas Secas integra o romance de 30, fase do modernismo em que a ficção se volta para a denúncia social — estiagem, migração forçada, exploração — com uma prosa desnuda, sem ornamento. Graciliano Ramos reduz o período à frase essencial e alterna a descrição da paisagem hostil com a percepção limitada das figuras retratadas, cuja dificuldade com a palavra é ela mesma um dos temas do livro. Jorge Amado e Rachel de Queiroz compõem, com ele, a geração de 30.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -58291,6 +60475,40 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O parágrafo vai do \"for decades\" ao \"today\", e o \"though\" do fecho introduz a ressalva sobre as unidades menores. Não há pergunta inicial nem proposta de solução: o texto descreve uma mudança e o limite dela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-283",
+   "texto_apoio": "City councils have spent two decades widening roads to reduce congestion. The wider road fills up within a few years, and the delay returns to what it was. Traffic engineers call this induced demand: capacity that is added is capacity that gets used. Cities that took the opposite route — narrowing lanes, adding bus corridors and bicycle tracks — have reported shorter average journeys. However, the political cost of removing a lane is far higher than the cost of adding one, which is why the wider road remains the default answer.",
+   "enunciado": "In the last sentence of the text, the connector “However” introduces:",
+   "alternativas": {
+    "a": "a further consequence of the shorter journeys reported by those cities",
+    "b": "a chronological step in the sequence of measures adopted by the traffic engineers mentioned earlier in the paragraph, placing them in the order in which they were tried",
+    "c": "an obstacle that runs against the evidence presented in the preceding sentence",
+    "d": "an example of the measures taken by councils that narrowed their lanes",
+    "e": "a conclusion drawn from the definition of induced demand"
+   },
+   "resposta": "c",
+   "explicacao": "O conectivo “however” estabelece uma relação de contraste: a frase anterior registra um resultado favorável às cidades que estreitaram as vias, e a última opõe a ela o obstáculo político que impede a adoção da medida. Reconhecer o valor do conectivo é o que sustenta a leitura do parágrafo — “and” e “moreover” somariam informação, “therefore” marcaria consequência e “for instance” anunciaria exemplo. A estrutura do texto vai, assim, do problema ao dado empírico e do dado à ressalva final.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-284",
+   "texto_apoio": "The first results were announced in March, before the trial had been completed. Journalists were told that the treatment worked; the researchers, who had asked for more time, were not consulted about the press release. By the time the full data set was published, eighteen months later, the headline had already travelled around the world.",
+   "enunciado": "The forms “were announced”, “had been completed” and “was published” share the feature of being:",
+   "alternativas": {
+    "a": "in the active voice, with the agent expressed by a prepositional phrase",
+    "b": "in the present perfect, a form English uses to link a past action to the moment of speaking and which is built with the auxiliary “have” followed by the past participle of the main verb",
+    "c": "modal verbs expressing obligation",
+    "d": "instances of reported speech introduced by a reporting verb",
+    "e": "in the passive voice, which keeps the focus on what happened rather than on the agent"
+   },
+   "resposta": "e",
+   "explicacao": "As três formas estão na voz passiva: o particípio vem precedido do verbo “be” flexionado em algum tempo verbal — past simple em “were announced” e “was published”, past perfect em “had been completed”. A voz passiva desloca para a posição de sujeito aquilo que sofre a ação e permite omitir quem a praticou, recurso frequente no relato científico e no texto jornalístico. Em “were told” aparece a mesma estrutura com verbo de dois complementos, e não há aí nem verbo modal nem discurso indireto.",
    "formato": "direta",
    "origem": "medicina"
   }

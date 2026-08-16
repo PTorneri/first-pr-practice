@@ -3759,6 +3759,636 @@
       "resposta": "a",
       "explicacao": "A fronteira entre as duas práticas é social, não formal: o mesmo gesto muda de nome conforme quem autoriza e quem reconhece. Perceber isso é entender por que a arte urbana continua sendo um campo em disputa, e não uma categoria estável.",
       "formato": "direta"
+    },
+    {
+      "id": "artes-347",
+      "texto_apoio": "A Constituição de 1988 reconheceu como patrimônio cultural brasileiro tanto os bens de natureza material — conjuntos edificados, sítios, objetos — quanto os de natureza imaterial: os modos de fazer, de celebrar e as formas de expressão de cada grupo social.",
+      "enunciado": "A distinção entre bem material e bem imaterial, na política brasileira de patrimônio, apoia-se em:",
+      "alternativas": {
+        "a": "a natureza do bem protegido: o material se conserva na matéria que o forma, e o imaterial depende de gente que continue praticando o saber tradicional",
+        "b": "a idade do bem, sendo material o anterior ao século XIX e imaterial o posterior a ele",
+        "c": "o órgão responsável, cabendo ao município o bem material e à União o bem imaterial",
+        "d": "o custo de conservação, mais alto no bem imaterial do que no bem material",
+        "e": "o grau de beleza reconhecido pelos especialistas, critério que separaria os bens dignos de proteção daqueles cuja forma não alcançaria o padrão exigido pelas comissões técnicas encarregadas de examinar cada pedido de reconhecimento"
+      },
+      "resposta": "a",
+      "explicacao": "O texto constitucional não hierarquiza os dois conjuntos: ele reconhece que parte do patrimônio cultural existe apenas enquanto é praticada. Um casario tombado sobrevive ao abandono por décadas; um ofício deixa de existir na primeira geração que não o aprende. É essa diferença que explica por que o instrumento do bem imaterial é o registro, e não o tombamento.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-348",
+      "texto_apoio": "Criado em 1937, o IPHAN nasceu com a atribuição de inscrever bens em livros de tombo. Durante décadas, quase tudo o que entrou nesses livros era de pedra e cal, e sobretudo de origem colonial e religiosa.",
+      "enunciado": "A crítica que se faz hoje a esse primeiro momento da política brasileira de patrimônio sustenta que:",
+      "alternativas": {
+        "a": "o número de bens inscritos foi pequeno demais para justificar a criação do órgão federal",
+        "b": "a escolha do que se tomba é uma decisão política, e o recorte inicial deixou de fora a cultura popular, os terreiros e os bens das populações negras e indígenas",
+        "c": "os livros de tombo deveriam ter sido substituídos por um cadastro eletrônico já naquele período",
+        "d": "a proteção legal reduziu o valor de mercado dos imóveis atingidos pela medida",
+        "e": "o instituto agiu fora de sua competência ao proteger bens de propriedade privada, prática que teria sido corrigida apenas com a redação do texto constitucional promulgado ao fim do regime militar brasileiro"
+      },
+      "resposta": "b",
+      "explicacao": "Tombar é escolher, e escolher é excluir. O recorte de pedra e cal produziu uma imagem do país feita de igrejas e casarões, na qual a cultura popular, o candomblé e a arte indígena não cabiam. O registro do patrimônio imaterial, criado em 2000, é a resposta institucional a essa lacuna — e a razão de o Ofício das Baianas e o jongo terem entrado só depois.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-349",
+      "texto_apoio": "O Ofício das Baianas de Acarajé foi registrado em 2005 como patrimônio cultural imaterial brasileiro. O bem protegido não é o tabuleiro nem a receita, mas o conjunto de gestos, roupas, rezas e regras de aprendizado que fazem uma baiana ser reconhecida como tal por sua comunidade.",
+      "enunciado": "O que esse registro efetivamente protege é:",
+      "alternativas": {
+        "a": "a marca comercial do acarajé, impedindo que outros estabelecimentos o vendam",
+        "b": "o prédio onde funciona a associação das baianas na cidade de Salvador",
+        "c": "o saber tradicional transmitido entre gerações, com o vínculo entre o quitute, o candomblé e a rua",
+        "d": "a fórmula química do azeite de dendê empregado na fritura da massa",
+        "e": "o direito de as praticantes cobrarem um preço mínimo fixado pelo poder público municipal, medida de proteção econômica que acompanharia o reconhecimento cultural concedido pelo instituto federal responsável pelo tema"
+      },
+      "resposta": "c",
+      "explicacao": "O registro é instrumento de continuidade, não de congelamento: ele documenta e apoia a prática viva, e por isso exige revalidação periódica. Se o saber tradicional deixar de ser praticado, não sobra o que preservar. Reconhecer o ofício é também reconhecer a raiz afro-brasileira que o sustenta, contra a leitura que o reduz a comércio de rua.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-350",
+      "texto_apoio": "A roda de capoeira e o ofício dos mestres de capoeira foram registrados pelo IPHAN em 2008, e em 2014 a UNESCO inscreveu a roda em sua lista do patrimônio cultural imaterial da humanidade. A prática, que já figurou como crime no Código Penal de 1890, tornou-se bem protegido pelo Estado.",
+      "enunciado": "A trajetória da capoeira, de contravenção a bem registrado, ilustra que:",
+      "alternativas": {
+        "a": "o valor cultural de uma prática é definido por sua antiguidade comprovada em documentos",
+        "b": "a repressão penal a práticas culturais deixou de existir no país depois de 1888",
+        "c": "o reconhecimento internacional antecede, em regra, o reconhecimento feito pelo próprio país",
+        "d": "o que o Estado reconhece como patrimônio cultural muda conforme a disputa política, e práticas antes criminalizadas podem ser incorporadas à identidade nacional",
+        "e": "a inscrição em lista internacional transfere ao organismo estrangeiro a responsabilidade pela salvaguarda do bem, cabendo ao país signatário apenas informar periodicamente o número de praticantes registrados em seu território"
+      },
+      "resposta": "d",
+      "explicacao": "A mesma prática foi perseguida e depois celebrada sem que a roda se alterasse: o que se transformou foi quem tem poder de dizer o que conta como cultura. É por isso que o patrimônio se lê como escolha política, e não como qualidade natural do objeto — e por isso o ofício dos mestres de capoeira entra no livro dos saberes.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-351",
+      "texto_apoio": "O jongo do Sudeste, registrado como patrimônio imaterial em 2005, é prática de terreiro herdeira dos povos bantos trazidos escravizados para o vale do Paraíba. Seus versos, chamados pontos, são entoados em linguagem cifrada, cheia de palavras que só os jongueiros mais velhos decifram por inteiro.",
+      "enunciado": "A linguagem cifrada dos pontos de jongo se explica historicamente porque:",
+      "alternativas": {
+        "a": "os jongueiros desconheciam a língua portuguesa e improvisavam palavras sem sentido fixo",
+        "b": "o registro pelo IPHAN exigiu a criação de um código próprio para identificar o bem",
+        "c": "os versos foram compostos por poetas letrados da corte imperial e depois adotados pelas comunidades negras rurais, que teriam preservado a forma original sem compreender o sentido das palavras usadas",
+        "d": "a cifra foi introduzida no século XX por pesquisadores de folclore interessados no efeito literário",
+        "e": "sob a escravidão, dizer o que se pensava exigia disfarce, e o enigma virou parte do saber tradicional transmitido dentro da comunidade negra"
+      },
+      "resposta": "e",
+      "explicacao": "A cifra não é ornamento: é herança de um contexto em que a palavra direta custava caro ao escravizado. Registrar o jongo como patrimônio imaterial protege, junto com os pontos, a memória coletiva das comunidades que os guardam — o que inclui o direito de não revelar tudo ao pesquisador.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-352",
+      "texto_apoio": "Ouro Preto foi o primeiro bem brasileiro inscrito na lista da UNESCO, em 1980. A cidade conserva o conjunto colonial erguido com o ouro extraído por pessoas escravizadas, cujo trabalho aparece pouco nas placas e nos percursos oferecidos ao visitante.",
+      "enunciado": "A crítica recente a esse tipo de inscrição costuma apontar que:",
+      "alternativas": {
+        "a": "o conjunto conservado narra a história de quem mandou construir, e a preservação cultural tende a apagar o trabalho escravizado que o ergueu",
+        "b": "a inscrição internacional impede o município de arrecadar impostos sobre os imóveis protegidos",
+        "c": "o título internacional obriga a demolição dos prédios erguidos depois do século XVIII",
+        "d": "o tombamento federal deixa de valer quando existe reconhecimento internacional do mesmo bem",
+        "e": "o reconhecimento mundial atrai visitantes em número suficiente para custear integralmente a manutenção do casario histórico, dispensando o repasse de verbas públicas municipais, estaduais e federais para as obras de conservação"
+      },
+      "resposta": "a",
+      "explicacao": "Preservar é narrar. O casario de Ouro Preto é patrimônio material inegável, mas o mesmo sítio guarda o rastro de uma escravidão que raramente aparece na sinalização — inclusive o das irmandades negras que sustentaram as festas do Rosário, das quais descende a congada. A crítica não pede que se derrube o conjunto: pede que a memória social dos escravizados entre no relato.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-353",
+      "texto_apoio": "O Parque Nacional Serra da Capivara, no sudeste do Piauí, guarda milhares de sítios com pinturas rupestres e é patrimônio mundial desde 1991. As figuras, feitas em paredões de arenito, mostram caçadas, festas e situações de convívio de grupos que viveram ali há mais de dez mil anos.",
+      "enunciado": "Tratar essas figuras como patrimônio cultural, e não apenas como achado arqueológico, implica reconhecer que:",
+      "alternativas": {
+        "a": "a datação por carbono é o critério decisivo do valor de um sítio protegido",
+        "b": "elas são expressão de um grafismo indígena com sentido próprio, e o sítio guarda a memória coletiva dos povos originários do continente",
+        "c": "o parque precisa ser fechado ao público para impedir a deterioração das figuras",
+        "d": "as figuras deveriam ser transferidas para um museu na capital do estado",
+        "e": "o reconhecimento internacional converte o sítio em propriedade do organismo que o inscreveu, retirando do país a responsabilidade sobre a conservação dos paredões pintados e sobre o controle da visitação que ali se realiza"
+      },
+      "resposta": "b",
+      "explicacao": "Chamar de arte indígena o que se vê nos paredões desloca o sítio da vitrine natural para o campo da cultura: há intenção, repertório e convenção nas figuras. O tombamento e a inscrição internacional reconhecem esse valor, mas a preservação cultural sem as comunidades vizinhas é frágil — o parque convive com a pressão do desmatamento e da caça.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-354",
+      "texto_apoio": "Em 2019 Paraty e Ilha Grande entraram na lista da UNESCO como bem misto, categoria que reconhece ao mesmo tempo valor cultural e valor natural. O território inscrito abrange o centro histórico, a Serra da Bocaina e comunidades caiçaras, quilombolas e indígenas.",
+      "enunciado": "A categoria de bem misto se justifica, nesse caso, porque:",
+      "alternativas": {
+        "a": "o conjunto reúne prédios de duas épocas distintas dentro do mesmo perímetro",
+        "b": "a cidade tem tanto praças públicas quanto propriedades privadas em seu perímetro protegido",
+        "c": "o modo de vida caiçara e quilombola é inseparável da floresta e do mar que o sustentam, e separar cultura de natureza desfaria o próprio bem",
+        "d": "metade do território pertence ao estado e a outra metade pertence à União",
+        "e": "a inscrição exige que ao menos duas categorias sejam preenchidas para que o pedido seja aceito, exigência formal do organismo internacional que os países costumam atender reunindo bens de naturezas distintas num processo único"
+      },
+      "resposta": "c",
+      "explicacao": "A noção de paisagem cultural quebra a separação entre patrimônio cultural e patrimônio natural. Em Paraty, o saber tradicional caiçara sobre as marés e a roça, a festa do Divino e a cultura popular do litoral são tão parte do bem quanto o casario do centro histórico — protegê-los em separado seria proteger metade.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-355",
+      "texto_apoio": "Soterrado por mais de um século e reencontrado em 2011 durante obras na zona portuária carioca, o Cais do Valongo foi o maior ponto de desembarque de africanos escravizados das Américas. Em 2017 a UNESCO o inscreveu como sítio de memória sensível.",
+      "enunciado": "A inscrição de um sítio como o Valongo cumpre função distinta da de um monumento celebrativo porque:",
+      "alternativas": {
+        "a": "o local possui valor estético superior ao dos monumentos erguidos no mesmo período",
+        "b": "a norma internacional obriga cada país a indicar um sítio desse tipo por década",
+        "c": "o cais foi reerguido com materiais idênticos aos empregados no século XIX",
+        "d": "ele preserva a memória coletiva de uma violência, e o patrimônio serve ali para impedir o apagamento, não para exaltar um feito",
+        "e": "o reconhecimento internacional de sítios ligados ao tráfico de pessoas substitui as políticas de reparação devidas às populações negras, encerrando administrativamente o debate público sobre indenizações e sobre a demarcação de territórios quilombolas"
+      },
+      "resposta": "d",
+      "explicacao": "Há patrimônio que celebra e há patrimônio que envergonha. O Valongo pertence ao segundo grupo: seu valor está em manter visível o que a cidade tentou enterrar. A pedra do cais é bem material; o que ela sustenta é a identidade cultural de uma população cujos vestígios foram soterrados — e que segue viva nas festas e na cultura popular do território conhecido como Pequena África.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-356",
+      "texto_apoio": "O registro do patrimônio imaterial no Brasil se organiza em quatro livros: dos Saberes, das Celebrações, das Formas de Expressão e dos Lugares. Cada bem entra num deles conforme aquilo que nele se quer proteger.",
+      "enunciado": "A existência desses quatro livros indica que:",
+      "alternativas": {
+        "a": "o número de bens registrados a cada ano está limitado a quatro processos",
+        "b": "cada livro corresponde a uma das grandes regiões do país",
+        "c": "os bens migram de um livro para outro a cada dez anos de vigência",
+        "d": "a divisão em livros substituiu o tombamento também nos casos de bem material, de modo que os conjuntos protegidos antes de 2000 tiveram de ser reinscritos em um dos quatro livros criados pelo decreto",
+        "e": "o bem imaterial é reconhecido pela natureza da prática — um ofício, uma festa popular, uma forma de expressão ou um lugar de convívio"
+      },
+      "resposta": "e",
+      "explicacao": "Os livros nomeiam o que se protege. A feira de Caruaru entra em Celebrações; o ofício das paneleiras de Goiabeiras, em Saberes; a Cachoeira de Iauaretê, em Lugares. O registro não congela a prática: exige revalidação, porque um saber tradicional vivo se altera, e o que se protege é a continuidade, não uma forma fixa.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-357",
+      "texto_apoio": "Vilas ferroviárias, armazéns e usinas ocupam hoje boa parte das pautas de tombamento, mas raramente chegam a ser protegidos antes de virarem ruína. Enquanto uma igreja do século XVIII mobiliza recursos com facilidade, uma estação de 1920 costuma ser demolida sem que ninguém reclame.",
+      "enunciado": "Essa diferença de tratamento revela que:",
+      "alternativas": {
+        "a": "o valor patrimonial não é qualidade do objeto, e sim resultado de uma disputa sobre qual passado merece durar",
+        "b": "os prédios do século XVIII resistem melhor à ação do tempo e das intempéries",
+        "c": "o custo de restauração de uma estação supera o de uma igreja de mesmo porte",
+        "d": "a legislação brasileira proíbe o tombamento de bens erguidos no século XX",
+        "e": "a memória do trabalho industrial conta com registro documental abundante em arquivos sindicais, o que dispensaria a preservação do patrimônio construído e permitiria concentrar os recursos públicos na conservação dos conjuntos de origem colonial"
+      },
+      "resposta": "a",
+      "explicacao": "O que se tomba e o que se deixa cair desenham juntos a versão de país que o patrimônio conta. Quando só o casario colonial e religioso é conservado, a identidade cultural que resulta é parcial. É a mesma crítica que abriu espaço para o registro da cultura popular e dos bens das populações negras e indígenas.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-358",
+      "texto_apoio": "Depois do incêndio que consumiu o Museu Nacional em 2018, o debate sobre restauração voltou a dividir técnicos: reproduzir o que existia, assumir a perda com marcação visível, ou apenas estabilizar o que restou.",
+      "enunciado": "O princípio dominante na teoria da restauração desde o século XX sustenta que:",
+      "alternativas": {
+        "a": "a peça deve ser refeita de modo idêntico ao original, sem sinal visível do reparo",
+        "b": "a intervenção precisa ser reconhecível e reversível, para não falsificar o documento histórico que o bem constitui",
+        "c": "o bem danificado perde a condição de patrimônio e deve ser retirado do acervo",
+        "d": "a decisão sobre o reparo cabe ao doador da peça, e não à instituição que a guarda",
+        "e": "a reprodução digital tridimensional das peças perdidas substitui a conservação dos originais remanescentes, política que o poder público brasileiro teria adotado como norma para o acervo das instituições federais atingidas por sinistros"
+      },
+      "resposta": "b",
+      "explicacao": "Restaurar não é rejuvenescer. Cesare Brandi formulou a regra que ainda orienta o campo: a intervenção deve ser legível e desfazível, porque o bem vale também como documento. Um acervo reconstituído sem essa marcação vira cenografia — e a memória social do que se perdeu desaparece junto com a marca da perda.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-359",
+      "texto_apoio": "O tombamento de um centro histórico costuma vir acompanhado de reforma de fachadas, chegada de hotéis e alta do aluguel. Em Salvador, o Pelourinho passou por esse processo nos anos 1990: o casario foi recuperado e boa parte dos moradores antigos deixou o bairro.",
+      "enunciado": "O efeito descrito é resumido pela crítica ao patrimônio como:",
+      "alternativas": {
+        "a": "o excesso de rigor técnico exigido nas obras de restauração das fachadas",
+        "b": "a falta de recursos federais para a conservação de imóveis protegidos",
+        "c": "a preservação do patrimônio construído acompanhada da expulsão de quem sustentava ali a cultura popular do lugar",
+        "d": "a demora do órgão federal em concluir os processos de tombamento abertos",
+        "e": "a impropriedade de aplicar a bens de origem colonial os mesmos critérios de conservação empregados nos conjuntos industriais do século XX, distinção técnica que a legislação brasileira sobre o tema deixou de estabelecer com clareza suficiente"
+      },
+      "resposta": "c",
+      "explicacao": "Salvar as pedras e perder as pessoas esvazia o próprio bem: um centro histórico sem os terreiros, o artesanato e as festas que lhe davam sentido vira vitrine. Por isso a política de patrimônio passou a falar em salvaguarda, que alcança quem pratica, e não apenas em conservação, que cuida da matéria.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-360",
+      "texto_apoio": "Uma grife internacional lançou uma linha de roupas inspirada em grafismos de um povo indígena brasileiro, sem citar a origem nem repartir o resultado das vendas. O caso reacendeu o debate sobre os limites entre inspiração e apropriação.",
+      "enunciado": "A objeção central que se faz a esse tipo de uso é que:",
+      "alternativas": {
+        "a": "há apropriação cultural quando o grafismo indígena é extraído de seu contexto e explorado comercialmente por quem não pertence ao grupo que o criou",
+        "b": "o desenho perde qualidade estética ao ser aplicado sobre tecido industrial",
+        "c": "a legislação brasileira de marcas veda o uso de estampas geométricas em roupas",
+        "d": "o povo indígena deveria ter inscrito o desenho como obra literária no órgão competente",
+        "e": "o uso de referências visuais alheias está vedado às empresas estrangeiras pela convenção internacional sobre diversidade cultural, tratado que estabeleceria autorização prévia obrigatória para o emprego comercial de repertórios visuais de povos originários"
+      },
+      "resposta": "a",
+      "explicacao": "A diferença entre troca e apropriação está no poder e na repartição: quem nomeia, quem lucra e quem some do relato. O grafismo indígena não é ornamento livre — é parte de um saber tradicional que identifica o grupo, e a arte indígena vem sendo reconhecida como patrimônio imaterial justamente por isso.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-361",
+      "texto_apoio": "O Complexo Cultural do Bumba Meu Boi do Maranhão foi registrado pelo IPHAN em 2011 e inscrito pela UNESCO em 2019. O ciclo vai de junho ao fim de agosto e reúne sotaques distintos, cada um com seu jeito de brincar o boi, de bordar o couro e de organizar o cortejo.",
+      "enunciado": "O uso do termo complexo, e não simplesmente festa, no nome do bem registrado indica que:",
+      "alternativas": {
+        "a": "o bem envolve um número elevado de participantes em cada edição do ciclo",
+        "b": "o registro alcança o ciclo inteiro — o saber tradicional do bordado, a matança, o cortejo e as regras de cada grupo —, e não um evento isolado",
+        "c": "o termo foi escolhido para diferenciar o bem maranhense dos outros bois brasileiros",
+        "d": "o complexo é a soma dos bens materiais localizados no centro histórico de São Luís",
+        "e": "a expressão designa o conjunto de prédios públicos que o governo estadual destinou às apresentações do ciclo junino, patrimônio construído cuja conservação passou a integrar as obrigações assumidas perante o organismo internacional"
+      },
+      "resposta": "b",
+      "explicacao": "Registrar um complexo é reconhecer que a festa popular não cabe num dia do calendário: ela é feita de ofícios, de hierarquias internas e de vínculos com a devoção. Proteger apenas a apresentação final deixaria de fora o artesanato do couro bordado e os mestres que ensinam a brincadeira — que é justamente onde o bem se reproduz.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-362",
+      "texto_apoio": "Nas congadas do interior de Minas Gerais, grupos organizados em ternos saem em cortejo para coroar o Rei Congo e a Rainha Conga diante da igreja de Nossa Senhora do Rosário. A devoção católica convive ali com a lembrança de reinos africanos e com irmandades negras formadas ainda no período colonial.",
+      "enunciado": "A convivência entre devoção católica e referência africana nas congadas se explica melhor pela noção de:",
+      "alternativas": {
+        "a": "substituição, pois a fé católica apagou por inteiro as referências africanas anteriores",
+        "b": "isolamento, já que os dois repertórios permaneceram sem contato entre si",
+        "c": "reelaboração, porque os grupos negros deram sentido próprio ao culto imposto e nele mantiveram a memória coletiva de suas origens",
+        "d": "importação, pois o cortejo foi trazido pronto de Portugal no século XVIII",
+        "e": "encomenda oficial, uma vez que a coroação do Rei Congo teria sido instituída por decreto imperial como forma de controle das populações negras livres nas vilas do interior mineiro durante o século XIX"
+      },
+      "resposta": "c",
+      "explicacao": "A congada não é sobra folclórica nem catolicismo puro: é cultura popular produzida na negociação. Reconhecê-la como patrimônio imaterial obriga a contar as duas histórias juntas, a da imposição e a da reinvenção — e essa é a correção que o estudo do folclore como curiosidade pitoresca precisou receber.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-363",
+      "texto_apoio": "Entre o Natal e o dia 6 de janeiro, companhias de folia de reis percorrem casas do interior brasileiro levando a bandeira dos três reis magos. Quem recebe a visita oferece comida e donativos; quem chega devolve versos improvisados e a promessa de retorno no ano seguinte.",
+      "enunciado": "A troca entre quem recebe a bandeira e quem a leva mostra que, nesse tipo de festa popular:",
+      "alternativas": {
+        "a": "a participação depende do pagamento de ingresso antecipado pelos moradores",
+        "b": "a organização do ciclo é responsabilidade do poder público municipal",
+        "c": "o repertório é fixado por escrito e repetido sem variação de casa em casa",
+        "d": "o vínculo entre os participantes é de reciprocidade e devoção, e o ciclo se sustenta na obrigação recíproca de dar, receber e retribuir",
+        "e": "a manutenção do ciclo depende de subvenção federal continuada, sem a qual as companhias perderiam o direito de circular pelas propriedades rurais que costumam visitar no período compreendido entre dezembro e janeiro"
+      },
+      "resposta": "d",
+      "explicacao": "A folia se sustenta num circuito de reciprocidade que a antropologia descreve como dar, receber e retribuir. Por isso o folclore não é sobrevivência congelada: é uma economia moral em funcionamento, e o registro dessas companhias como patrimônio imaterial reconhece o saber tradicional de quem conduz a bandeira.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-364",
+      "texto_apoio": "A festa do Divino Espírito Santo chegou ao Brasil com os portugueses e ganhou formas próprias em Pirenópolis, em Paraty, no Maranhão e na Amazônia. Em cada lugar a coroa do Império do Divino circula de casa em casa antes do domingo de Pentecostes, e o cargo de festeiro se transmite entre famílias.",
+      "enunciado": "A existência de versões tão distintas de uma mesma festa em regiões diferentes do país indica que:",
+      "alternativas": {
+        "a": "as versões regionais resultam de erro na transmissão do modelo português original",
+        "b": "a festa perdeu o sentido religioso ao se espalhar pelo território brasileiro",
+        "c": "o instituto federal responsável pelo tema registrou apenas a versão considerada mais fiel ao modelo europeu de origem, tratando as demais como variações regionais sem valor patrimonial próprio para efeito de proteção legal",
+        "d": "a variação decorre apenas da distância física entre as localidades onde a festa ocorre",
+        "e": "a cultura popular se reproduz por apropriação e reinvenção local, e não por cópia de um modelo fixo"
+      },
+      "resposta": "e",
+      "explicacao": "Toda festa popular que dura muda de forma ao durar. O que se transmite não é um modelo fechado, e sim um conjunto de obrigações — coroar, dividir a comida, passar o cargo adiante — que cada comunidade preenche com o que tem. É por isso que o registro do patrimônio imaterial protege processos, e não formas, e por isso o saber tradicional dos festeiros pesa mais que a fidelidade à origem.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-365",
+      "texto_apoio": "A literatura de cordel foi registrada como patrimônio cultural imaterial brasileiro em 2018. Os folhetos, vendidos em feiras e presos em barbantes, tratam de valentia, política, seca e milagre em sextilhas rimadas, e trazem na capa uma xilogravura feita pelo próprio poeta ou por um entalhador da região.",
+      "enunciado": "A relação entre o folheto de cordel e a feira onde ele circula mostra que:",
+      "alternativas": {
+        "a": "o cordel é cultura popular também no modo de circular: preço baixo, venda direta e recitação em voz alta para quem não lê",
+        "b": "o folheto é obra letrada adaptada ao gosto do público das feiras nordestinas",
+        "c": "a xilogravura da capa serve apenas para proteger o papel do folheto do sol",
+        "d": "a venda em feira reduz o valor literário do texto impresso em sextilhas",
+        "e": "a inscrição do cordel entre os bens protegidos transferiu ao órgão federal a atribuição de autorizar previamente a publicação de novos folhetos, medida destinada a preservar a métrica tradicional das sextilhas empregadas pelos poetas do Nordeste"
+      },
+      "resposta": "a",
+      "explicacao": "O cordel não é literatura menor levada ao povo: é um sistema próprio, com autor, editor, vendedor e ouvinte no mesmo espaço da feira. Registrar esse conjunto como patrimônio imaterial protege o saber tradicional do poeta e do entalhador da capa, e não apenas o texto impresso.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-366",
+      "texto_apoio": "As paneleiras de Goiabeiras, em Vitória, tiram o barro de um mesmo banco de argila há gerações, moldam a panela sem torno e a queimam a céu aberto, tingindo-a com a casca do mangue. O ofício foi o primeiro bem inscrito no Livro dos Saberes, em 2002.",
+      "enunciado": "A proteção desse ofício dependeu de um elemento que o registro precisou reconhecer:",
+      "alternativas": {
+        "a": "a existência de um museu na cidade dedicado à exibição das panelas produzidas",
+        "b": "o acesso ao banco de argila e ao mangue, pois sem a matéria-prima o saber tradicional não se pratica",
+        "c": "a padronização do formato das panelas para facilitar a venda ao turista",
+        "d": "a troca da queima a céu aberto por fornos industriais mais seguros para as artesãs",
+        "e": "a criação de uma denominação de origem que impeça a comercialização de utensílios semelhantes fabricados fora dos limites do bairro, restrição comercial que a legislação de propriedade industrial brasileira reserva a produtos alimentícios"
+      },
+      "resposta": "b",
+      "explicacao": "O patrimônio imaterial não flutua: ele depende de território, de matéria e de gente. Ao registrar o ofício, o Estado assumiu junto o problema do banco de argila — o artesanato desaparece quando a fonte é aterrada, mesmo que as mestras continuem vivas. É a diferença entre proteger o objeto e proteger a condição de produzi-lo.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-367",
+      "texto_apoio": "Entre os Baniwa, do alto rio Negro, a cestaria de arumã combina padrões geométricos que nomeiam seres, parentescos e episódios de origem. Um mesmo desenho pode aparecer no cesto, no corpo e na parede da casa, e quem o traça sabe o que está dizendo.",
+      "enunciado": "Esse funcionamento do desenho baniwa desautoriza a classificação da cestaria como mero adorno porque:",
+      "alternativas": {
+        "a": "os cestos alcançam preço elevado quando vendidos nas capitais brasileiras",
+        "b": "o arumã é uma fibra rara e de manejo difícil na região do alto rio Negro",
+        "c": "o grafismo indígena funciona como linguagem, e a peça carrega um saber tradicional sobre parentesco e origem",
+        "d": "a cestaria substituiu a escrita alfabética entre os povos do alto rio Negro",
+        "e": "o padrão geométrico se repete sem variação entre gerações sucessivas, o que permitiria datar cada peça com precisão a partir da comparação com exemplares reunidos nas coleções etnográficas montadas por pesquisadores estrangeiros"
+      },
+      "resposta": "c",
+      "explicacao": "Chamar de artesanato decorativo o que é sistema de significação é o gesto que a crítica à arte popular vem desmontando há décadas. A arte indígena não ilustra a cultura: ela a organiza. O reconhecimento como patrimônio imaterial acompanha essa correção de perspectiva.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-368",
+      "texto_apoio": "As carrancas do rio São Francisco eram fixadas na proa dos barcos a vapor para afastar o mal das águas. Talhadas em madeira por mestres ribeirinhos, com feição meio humana e meio animal, saíram de uso quando a navegação encolheu e passaram a ser procuradas por colecionadores.",
+      "enunciado": "A passagem da carranca da proa do barco para a sala do colecionador transformou o objeto porque:",
+      "alternativas": {
+        "a": "a madeira empregada na peça foi substituída por material industrial mais barato",
+        "b": "as carrancas perderam o vínculo com o rio e passaram a ser produzidas industrialmente",
+        "c": "o valor de mercado da peça diminuiu quando ela saiu do uso cotidiano",
+        "d": "a peça deixou de ter função de proteção e passou a valer como arte popular, num deslocamento que muda o sentido sem alterar a forma",
+        "e": "a saída das carrancas do rio determinou a extinção do ofício dos mestres entalhadores, cuja retomada dependeria de política federal capaz de reconstituir a navegação a vapor no médio curso do São Francisco"
+      },
+      "resposta": "d",
+      "explicacao": "O objeto é o mesmo; o que muda é o regime de valor. Ao virar arte popular na parede de um apartamento, a carranca ganha assinatura e perde a proa. Nada disso a torna falsa, mas mostra que o valor se produz na circulação, e que o mestre entalhador raramente participa do lucro dessa segunda vida do artesanato. É por isso que a política de patrimônio imaterial protege o ofício, e não a peça avulsa.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-369",
+      "texto_apoio": "Bronzes do Reino do Benim, tomados por tropas britânicas em 1897, estão hoje em museus da Europa e dos Estados Unidos, embora sejam peças centrais do patrimônio cultural nigeriano. Desde 2021 algumas instituições começaram a devolvê-los, e outras alegam que a peça está mais segura onde se encontra.",
+      "enunciado": "O argumento da segurança, usado contra a devolução, é criticado principalmente porque:",
+      "alternativas": {
+        "a": "os museus europeus dispõem de menos recursos técnicos que os museus africanos",
+        "b": "as peças de bronze não exigem cuidados especiais de conservação preventiva",
+        "c": "a devolução já foi concluída na totalidade dos casos hoje conhecidos",
+        "d": "o transporte internacional de bens culturais está vedado pelas convenções em vigor, de modo que a permanência das peças nos acervos europeus decorre de impedimento jurídico e não de escolha política das instituições que as detêm",
+        "e": "ele julga a capacidade do outro a partir de quem o espoliou, e trata como técnica uma decisão sobre memória e identidade cultural"
+      },
+      "resposta": "e",
+      "explicacao": "Restituir não é gesto de generosidade: é enfrentar como o acervo se formou. Enquanto a peça permanece no museu de quem a tomou, a memória social do saque fica fora do texto da vitrine. O debate sobre restituição é hoje parte central da descolonização cultural das instituições, e alcança também os acervos brasileiros.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-370",
+      "texto_apoio": "Um arquivo público conserva o que alguém decidiu registrar. Processos de terra, atas de vereança e correspondência oficial chegam completos ao pesquisador; a fala de quem não escrevia raramente deixou papel, e precisa ser reconstituída por vestígios indiretos.",
+      "enunciado": "A consequência dessa assimetria para o trabalho com memória social é que:",
+      "alternativas": {
+        "a": "o silêncio do arquivo é ele próprio um dado histórico, e reconstituir o que ficou de fora exige fontes como a tradição oral e o saber tradicional das comunidades",
+        "b": "os documentos oficiais devem ser descartados por causa do viés de sua origem",
+        "c": "a história só pode ser escrita a partir do que foi registrado em cartório",
+        "d": "a ausência de documentos prova que os fatos narrados oralmente não ocorreram",
+        "e": "o problema se resolve com a digitalização integral dos acervos públicos brasileiros, procedimento que tornaria acessível ao pesquisador o conjunto de registros produzidos pelas populações que não tiveram acesso à escrita durante o período colonial"
+      },
+      "resposta": "a",
+      "explicacao": "Arquivo não é espelho: é resultado de escolhas sucessivas sobre o que merece durar. Trabalhar com o patrimônio cultural de populações que não escreviam significa ler o silêncio como informação e recorrer à memória coletiva, à cultura popular e ao testemunho — sem tomar a falta de papel por inexistência do fato.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-371",
+      "texto_apoio": "A Feira de Caruaru foi registrada em 2006 como patrimônio cultural imaterial. Ali se vende comida, ferramenta, remédio de raiz e as figuras de barro que Vitalino começou a modelar nos anos 1930, mostrando cangaceiro, retirante, casamento e enterro.",
+      "enunciado": "O registro da feira inteira, e não apenas das figuras de barro, se explica porque:",
+      "alternativas": {
+        "a": "as figuras de barro perderam relevância comercial no agreste pernambucano",
+        "b": "a feira é o lugar onde o artesanato, o cordel e a comida se encontram, e o valor do bem está nesse convívio, não numa peça isolada",
+        "c": "o barro utilizado pelos artesãos vem de fora do município de Caruaru",
+        "d": "o registro de objetos avulsos foi vedado pela legislação editada em 2000",
+        "e": "a proteção do conjunto permite ao poder público municipal fixar os preços praticados pelos feirantes, prerrogativa que decorreria do reconhecimento federal e alcançaria também as barracas instaladas fora do perímetro originalmente inscrito"
+      },
+      "resposta": "b",
+      "explicacao": "Uma figura de Vitalino num museu continua sendo arte popular, mas fora da feira ela vira peça avulsa. O que o registro protege é o ambiente que produz a peça: o mestre que ensina, o cordel vendido na banca ao lado e a freguesia que dá sentido ao objeto. Preservar o patrimônio imaterial é preservar contexto.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-372",
+      "texto_apoio": "Em vários centros urbanos brasileiros, prédios protegidos tiveram a fachada mantida e o interior inteiramente demolido para dar lugar a estacionamento ou galeria comercial. A prática ficou conhecida como fachadismo.",
+      "enunciado": "A objeção técnica ao fachadismo sustenta que:",
+      "alternativas": {
+        "a": "a fachada é a parte menos relevante de um imóvel protegido por tombamento",
+        "b": "a demolição interna reduz o custo da restauração da fachada remanescente",
+        "c": "o bem protegido é o conjunto, e conservar só a casca transforma o patrimônio histórico em cenografia de rua",
+        "d": "o tombamento deveria alcançar apenas os prédios de uso público na área central",
+        "e": "a permanência da fachada dispensa o proprietário das obrigações futuras de manutenção, entendimento que os órgãos de proteção brasileiros teriam firmado para viabilizar economicamente a conservação dos conjuntos protegidos nas áreas centrais das cidades"
+      },
+      "resposta": "c",
+      "explicacao": "Tombar um imóvel é reconhecer que ele documenta um modo de morar, de trabalhar e de circular — coisas que estão no interior, no pé-direito e na distribuição dos cômodos. A fachada mantida sem o corpo do prédio conta uma história falsa, e esvazia a preservação do patrimônio em favor de uma imagem publicitária da cidade, que apaga a memória social de quem viveu ali.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-373",
+      "texto_apoio": "Festas populares que passaram a atrair público turístico costumam ganhar arquibancada, patrocínio e horário fixo. Em alguns casos o cortejo que percorria as ruas foi transferido para um recinto fechado com ingresso pago.",
+      "enunciado": "A leitura crítica desse processo evita duas simplificações opostas. São elas:",
+      "alternativas": {
+        "a": "afirmar que a festa é autêntica e afirmar que ela é antiga",
+        "b": "afirmar que o turismo gera renda e afirmar que ele gera emprego",
+        "c": "afirmar que o patrocínio é privado e afirmar que ele é público",
+        "d": "tratar a festa como pureza corrompida pelo dinheiro e tratar a mercantilização como destino inevitável da cultura popular",
+        "e": "sustentar que o ingresso pago melhora a qualidade da produção e sustentar que a ausência de cobrança reduziria o número de participantes dispostos a comparecer ao recinto durante os dias reservados ao ciclo festivo"
+      },
+      "resposta": "d",
+      "explicacao": "A cultura popular não é um museu a céu aberto: ela negocia com o mercado desde que existe feira. Mas dizer isso não apaga a diferença entre a comunidade que decide vender e o produtor externo que decide por ela. O critério útil é a governança do bem — quem manda na festa popular —, e é ele que a política de patrimônio imaterial procura sustentar quando fala em salvaguarda.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-374",
+      "texto_apoio": "O Sistema Agrícola Tradicional do rio Negro foi registrado em 2010. Ele reúne as roças de mandioca, as variedades selecionadas pelas mulheres indígenas ao longo de gerações, a casa de farinha, os utensílios e as regras de troca de mudas entre parentes.",
+      "enunciado": "O registro de um sistema agrícola como bem cultural sustenta-se no argumento de que:",
+      "alternativas": {
+        "a": "a agricultura indígena produz mais por hectare que a agricultura mecanizada",
+        "b": "as roças de mandioca precisam ser convertidas em área de proteção ambiental",
+        "c": "a mandioca é planta originária de outro continente e por isso merece proteção",
+        "d": "o registro do sistema substitui a demarcação das terras onde as roças se localizam, uma vez que o reconhecimento federal do bem cultural implicaria a titulação imediata das áreas ocupadas pelas comunidades que o praticam",
+        "e": "manejar variedades, escolher sementes e transmitir esse conhecimento é saber tradicional, e a agrobiodiversidade resultante é produto de cultura, não de natureza"
+      },
+      "resposta": "e",
+      "explicacao": "A floresta do rio Negro tem a feição do manejo humano de milhares de anos. Reconhecer o sistema como patrimônio imaterial é dizer que a diversidade das roças foi produzida por escolha, e que proteger a arte indígena e o saber tradicional inclui proteger a terra onde eles acontecem — o registro não substitui a demarcação, mas a torna mais difícil de ignorar.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-375",
+      "texto_apoio": "O terreiro da Casa Branca do Engenho Velho, em Salvador, foi tombado pelo IPHAN em 1984 — o primeiro bem de culto afro-brasileiro a entrar nos livros de tombo. O processo protegeu o terreno, as árvores sagradas, as casas de santo e os assentamentos enterrados no chão.",
+      "enunciado": "Esse tombamento é considerado um marco na política brasileira de patrimônio porque:",
+      "alternativas": {
+        "a": "reconheceu como bem cultural um espaço de religiosidade negra até então tratado como caso de polícia, alargando o que o Estado admitia proteger",
+        "b": "foi o primeiro processo brasileiro a proteger vegetação junto com edificações",
+        "c": "reduziu o valor venal do terreno onde o terreiro se localiza em Salvador",
+        "d": "obrigou o terreiro a abrir suas atividades religiosas à visitação pública diária",
+        "e": "estabeleceu que os bens de natureza religiosa passariam a ser inscritos em livro específico, criado naquele ano para separar os cultos de origem africana dos demais conjuntos protegidos pelo órgão federal brasileiro"
+      },
+      "resposta": "a",
+      "explicacao": "O candomblé foi crime e depois folclore antes de virar patrimônio cultural. Tombar a Casa Branca inverteu o gesto que, por décadas, mandava a polícia apreender objetos de terreiro — muitos dos quais seguem em acervos policiais. Reconhecer o terreiro como bem é reconhecer a identidade cultural de quem o sustenta.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-376",
+      "texto_apoio": "Entre 1890 e 1946, a polícia do Rio de Janeiro apreendeu objetos de terreiros e os manteve como prova de crime. Em 2020 essas peças deixaram o Museu da Polícia e foram transferidas para o Museu da República, sob o nome de Nosso Sagrado.",
+      "enunciado": "A transferência dessas peças de um museu para outro importa porque:",
+      "alternativas": {
+        "a": "o novo prédio oferece condições melhores de temperatura e umidade relativa",
+        "b": "o acervo policial havia perdido utilidade para as investigações em curso",
+        "c": "a legislação veda que órgãos de segurança mantenham bens tombados sob sua guarda",
+        "d": "mudar a instituição muda o sentido do acervo: o que era prova de crime passa a ser patrimônio cultural de uma religiosidade perseguida",
+        "e": "o deslocamento das peças encerrou juridicamente os processos criminais instaurados contra praticantes de culto de origem africana na primeira metade do século XX, reparando as condenações pronunciadas àquela época"
+      },
+      "resposta": "d",
+      "explicacao": "Objeto nenhum tem sentido fora da vitrine que o abriga. Sob a etiqueta da polícia, o assentamento era corpo de delito; sob a etiqueta do museu, é bem cultural ligado ao candomblé. O que os terreiros reivindicam agora vai além: pedem a devolução das peças, porque acervo e culto não são a mesma relação com o objeto.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-377",
+      "texto_apoio": "Museus etnográficos brasileiros exibiram por décadas objetos indígenas sem nomear o povo, o autor ou a data de coleta. Nos últimos anos, esses conjuntos passaram a ser revistos com lideranças dos próprios povos, que reconhecem peças, corrigem etiquetas e reivindicam devolução.",
+      "enunciado": "A revisão dessas etiquetas evidencia que o museu:",
+      "alternativas": {
+        "a": "deve restringir o acesso de pesquisadores externos ao seu acervo etnográfico",
+        "b": "perde valor científico quando consulta as comunidades de origem das peças",
+        "c": "não é depósito neutro, e a maneira de descrever a peça já é uma versão sobre quem a produziu",
+        "d": "precisa transferir seu acervo indígena para instituições estrangeiras especializadas",
+        "e": "cumpre função meramente administrativa de conservação física, cabendo às universidades e aos institutos de pesquisa a tarefa de produzir a interpretação dos objetos reunidos nas expedições do século passado"
+      },
+      "resposta": "c",
+      "explicacao": "Etiqueta é texto, e texto tem autor. Escrever objeto indígena, sem povo e sem nome, apaga a arte indígena como criação e a converte em amostra. Rever a descrição junto com as comunidades é parte da descolonização cultural dos acervos, e muda o que o visitante aprende sobre a identidade cultural do país.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-378",
+      "texto_apoio": "O território Kalunga, na Chapada dos Veadeiros, reúne comunidades quilombolas formadas por pessoas que fugiram das minas de ouro no século XVIII. Ali a roça, a farinha, a folia do Império e o conhecimento sobre plantas se apoiam num mesmo território, hoje reconhecido e ainda em disputa fundiária.",
+      "enunciado": "Proteger um bem como esse pela via do patrimônio cultural encontra um limite prático porque:",
+      "alternativas": {
+        "a": "as comunidades quilombolas recusam o reconhecimento estatal de suas práticas",
+        "b": "a legislação de patrimônio não alcança bens situados em área rural",
+        "c": "o registro impede a continuidade das atividades agrícolas no território",
+        "d": "sem a garantia da terra, o saber tradicional protegido no papel perde a base material que o sustenta",
+        "e": "o reconhecimento federal de bens culturais localizados em territórios quilombolas depende de autorização prévia dos proprietários rurais vizinhos, exigência processual que costuma retardar por anos a conclusão dos pedidos apresentados ao órgão"
+      },
+      "resposta": "d",
+      "explicacao": "Patrimônio imaterial sem território é promessa vazia. A folia, a farinha e a cultura popular kalunga acontecem num lugar; se o lugar é loteado, o bem some com ele. Por isso a política de patrimônio, sozinha, não resolve — ela precisa andar junto com a titulação das terras.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-379",
+      "texto_apoio": "Boa parte do discurso oficial sobre cultura brasileira, entre os anos 1930 e 1950, apresentou o país como resultado harmonioso do encontro entre três povos. Feijoada, futebol e carnaval viraram provas dessa mistura, e a desigualdade entre os grupos saiu do primeiro plano.",
+      "enunciado": "A crítica a essa versão da identidade nacional sustenta que ela:",
+      "alternativas": {
+        "a": "exagerou a contribuição europeia e omitiu por inteiro as demais contribuições",
+        "b": "foi produzida por pesquisadores estrangeiros sem contato direto com o país",
+        "c": "descreveu com exatidão a formação social brasileira do período colonial",
+        "d": "não teve efeito sobre as políticas culturais adotadas naquelas décadas, uma vez que os órgãos federais criados no período limitaram sua atuação à proteção de imóveis coloniais e permaneceram alheios ao debate público sobre a formação do povo brasileiro",
+        "e": "converteu a desigualdade em folclore, celebrando a mistura enquanto mantinha intacta a hierarquia entre os grupos que a compõem"
+      },
+      "resposta": "e",
+      "explicacao": "A noção de mistura harmoniosa serviu para produzir identidade nacional sem enfrentar racismo. Reconhecer a cultura popular negra e indígena como patrimônio cultural é diferente de celebrá-la como tempero: no primeiro caso há disputa por recurso e por narrativa; no segundo, há vitrine. A distinção é o que separa política de patrimônio de propaganda.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-380",
+      "texto_apoio": "Uma marca de decoração fechou acordo com uma associação de artesãs do Vale do Jequitinhonha: as peças saem com o nome de quem as fez, o preço é definido em conjunto e parte da receita volta para a compra de material. O arranjo é citado como contraexemplo aos casos de uso não autorizado.",
+      "enunciado": "O que distingue esse arranjo de um caso de apropriação cultural é:",
+      "alternativas": {
+        "a": "o fato de as peças serem vendidas fora da região onde foram produzidas",
+        "b": "o controle das artesãs sobre nome, preço e destino da receita, isto é, quem decide e quem lucra",
+        "c": "a semelhança formal entre as peças vendidas e as peças de uso local",
+        "d": "a existência de contrato escrito entre as partes envolvidas no negócio",
+        "e": "a inscrição prévia do artesanato do Vale do Jequitinhonha entre os bens culturais protegidos pelo órgão federal, condição sem a qual acordos comerciais dessa natureza não poderiam ser firmados por associações de produtoras rurais"
+      },
+      "resposta": "b",
+      "explicacao": "Apropriação cultural não se mede pela semelhança do desenho, e sim pela assimetria de poder. Quando as artesãs mantêm a autoria, a decisão sobre o preço e a titularidade do saber tradicional, a circulação amplia o bem em vez de esvaziá-lo — que é o que a política de patrimônio cultural chama de salvaguarda compartilhada.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-381",
+      "texto_apoio": "Registrar um bem imaterial obriga o poder público a elaborar um plano de salvaguarda: apoio à transmissão do ofício, acesso à matéria-prima, documentação e, a cada dez anos, uma revalidação que pergunta se o bem continua vivo.",
+      "enunciado": "A exigência de revalidação a cada dez anos revela que o registro:",
+      "alternativas": {
+        "a": "tem validade jurídica temporária e caduca por decurso de prazo",
+        "b": "serve para atualizar o valor de mercado atribuído ao bem protegido",
+        "c": "depende de nova solicitação apresentada pela comunidade interessada",
+        "d": "acompanha uma prática viva, que pode se transformar ou desaparecer, ao contrário do tombamento, que protege matéria estável",
+        "e": "reproduz o procedimento adotado para os bens materiais, cuja proteção também se submeteria a exame decenal realizado pelas superintendências estaduais do órgão federal responsável pela conservação dos conjuntos protegidos"
+      },
+      "resposta": "d",
+      "explicacao": "Pedra não precisa de plano de salvaguarda; gente precisa. A revalidação existe porque o patrimônio imaterial depende de quem pratica, e o Estado precisa saber se seu apoio funcionou. É a diferença estrutural entre proteger uma igreja e proteger uma festa popular: no primeiro caso cuida-se do objeto; no segundo, das condições de continuar.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-382",
+      "texto_apoio": "Peças de uso ritual expostas em vitrines de museus levantam um problema que a conservação técnica não resolve: para a comunidade de origem, o objeto precisa ser alimentado, vestido ou mantido no escuro, e a exibição permanente contraria a regra que o constitui.",
+      "enunciado": "Esse conflito indica que a noção de conservação empregada pelas instituições:",
+      "alternativas": {
+        "a": "é incompatível com a legislação brasileira sobre bens culturais protegidos",
+        "b": "deve ser abandonada em favor da devolução imediata das peças de uso ritual",
+        "c": "supõe um objeto sem dono e sem uso, o que ignora o saber tradicional que define como aquela peça deve existir",
+        "d": "resolve o problema assim que a vitrine passa a receber iluminação reduzida",
+        "e": "encontra amparo em norma internacional que atribui às instituições depositárias a palavra final sobre as condições de guarda, dispensando a consulta às comunidades de origem nos casos em que houver risco documentado de deterioração"
+      },
+      "resposta": "c",
+      "explicacao": "Conservar segundo o manual pode ser, do ponto de vista da comunidade, deixar o objeto morrer. Museus que passaram a negociar acesso ritual ao acervo — abrir a vitrine em datas certas, permitir oferendas — reconhecem que a arte afro-brasileira e a arte indígena não param de ser usadas ao entrar na coleção museológica. Isso desloca a autoridade sobre o patrimônio cultural.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-383",
+      "texto_apoio": "A festa junina brasileira mistura o ciclo católico de Santo Antônio, São João e São Pedro com marcas do calendário agrícola europeu e com elementos indígenas e africanos. Nas cidades grandes ela virou evento de rua com traje caipira estilizado; no interior, segue ligada à colheita e à fogueira.",
+      "enunciado": "O traje caipira estilizado das festas urbanas é criticado por parte dos estudiosos porque:",
+      "alternativas": {
+        "a": "descaracteriza o vestuário original registrado em documentos do século XIX",
+        "b": "encarece a participação das famílias de baixa renda nos festejos do ciclo",
+        "c": "impede o reconhecimento da festa junina como patrimônio imaterial brasileiro",
+        "d": "transforma o morador rural em caricatura, convertendo cultura popular em fantasia de quem a observa de fora",
+        "e": "reproduz modelos de vestuário importados de festividades europeias equivalentes, o que descumpriria a exigência de autenticidade estabelecida pelas normas internacionais para o reconhecimento de manifestações culturais tradicionais"
+      },
+      "resposta": "d",
+      "explicacao": "O dente pintado de preto e o remendo aplicado no traje riem de alguém. A festa junina é bem cultural vivo do país inteiro; a questão é se ela celebra o campo ou o ridiculariza. Reconhecer a cultura popular como patrimônio cultural pressupõe tratar quem a pratica como sujeito, e não como personagem.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-384",
+      "texto_apoio": "Alguns estados brasileiros criaram o registro de mestre da cultura, que concede bolsa vitalícia a quem detém e transmite um saber. O beneficiário assume o compromisso de ensinar, e o pagamento cobre a hora que ele deixaria de trabalhar para receber aprendizes.",
+      "enunciado": "A lógica desse tipo de política pública é:",
+      "alternativas": {
+        "a": "tratar a pessoa como suporte do bem, já que o saber tradicional só sobrevive se houver quem o ensine e quem o aprenda",
+        "b": "remunerar a apresentação pública do mestre em eventos oficiais do estado",
+        "c": "compensar financeiramente a perda de renda causada pelo tombamento do imóvel",
+        "d": "substituir o ensino formal nas escolas públicas das regiões atendidas pela bolsa",
+        "e": "transferir ao beneficiário a titularidade jurídica do bem cultural registrado, de modo que o uso do repertório por terceiros passe a depender de autorização escrita concedida pelo detentor da bolsa estadual"
+      },
+      "resposta": "a",
+      "explicacao": "No bem material o suporte é a pedra; no imaterial, é a pessoa. Um mestre de ofício que morre sem aprendiz leva o bem junto, e documentação nenhuma substitui a transmissão. Por isso a política de patrimônio imaterial financia a hora de ensinar — é o equivalente, na cultura popular, do reboco que se refaz num casarão tombado.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-385",
+      "texto_apoio": "O rompimento da barragem de Fundão, em 2015, soterrou o distrito de Bento Rodrigues e alcançou aldeias Krenak no rio Doce. Além das casas, sumiram o cemitério, a igreja, as receitas de festa e a relação cotidiana com o rio, que o povo Krenak trata como parente.",
+      "enunciado": "Descrever esse episódio também como dano ao patrimônio cultural, e não apenas como dano ambiental e material, permite reconhecer que:",
+      "alternativas": {
+        "a": "o valor das casas destruídas deve ser recalculado pelo custo de reposição",
+        "b": "o que se perdeu inclui a memória coletiva e o saber tradicional de comunidades cuja vida se organizava em torno do rio",
+        "c": "o rio Doce deveria ter sido tombado antes do rompimento da barragem",
+        "d": "a reparação se esgota com a construção de casas novas em outro lugar",
+        "e": "a recomposição dos bens culturais atingidos caberia integralmente ao poder público estadual, restando às empresas envolvidas apenas o ressarcimento dos prejuízos materiais individualmente comprovados pelos moradores"
+      },
+      "resposta": "b",
+      "explicacao": "Reassentar não é reparar. Uma comunidade não é a soma de suas casas: é o cemitério onde os mortos estão, a festa que se repete no mesmo mês, o ponto do rio onde se pesca. Chamar isso de patrimônio cultural obriga a reparação a incluir o que não tem preço de mercado — e é por isso que os Krenak falam em perda de identidade cultural, e não só em prejuízo.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-386",
+      "texto_apoio": "O modo artesanal de fazer queijo de leite cru em Minas Gerais foi registrado como patrimônio imaterial em 2008. Durante anos, porém, a norma sanitária federal exigiu maturação longa e leite pasteurizado, o que inviabilizava a venda do produto fora do estado.",
+      "enunciado": "O conflito entre o registro e a norma sanitária mostra que:",
+      "alternativas": {
+        "a": "o registro de um bem imaterial revoga as normas sanitárias que o alcançam",
+        "b": "a maturação longa melhora as características sensoriais do produto final",
+        "c": "o queijo deveria ter sido registrado como bem material, e não como imaterial",
+        "d": "a proteção conferida ao modo de fazer alcança apenas a documentação da técnica em arquivo público, sem produzir efeito sobre a comercialização do produto, que permanece submetida integralmente à disciplina sanitária vigente",
+        "e": "reconhecer um saber tradicional não basta: proteger o bem exige rever as regras de outros setores que o inviabilizam na prática"
+      },
+      "resposta": "e",
+      "explicacao": "Registro sem política é carimbo. O queijo de leite cru continuou impedido de circular anos depois de virar patrimônio cultural, e a saída veio de uma disputa normativa, não de um livro de registro. É o exemplo mais didático de que salvaguardar cultura popular significa mexer em regras que parecem não ter nada a ver com cultura.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-387",
+      "texto_apoio": "A convenção internacional de 2003 mantém duas listas de patrimônio imaterial: a representativa, que dá visibilidade a bens vivos, e a de salvaguarda urgente, destinada a práticas em risco de desaparecer. A maioria dos pedidos apresentados pelos países se dirige à primeira.",
+      "enunciado": "A preferência dos países pela lista representativa costuma ser explicada porque:",
+      "alternativas": {
+        "a": "a lista de urgência exige contrapartida financeira ao organismo internacional",
+        "b": "a lista representativa protege o bem contra usos comerciais indevidos",
+        "c": "a lista representativa rende prestígio e turismo, enquanto a de urgência expõe uma falha de política pública do próprio país",
+        "d": "a lista de urgência foi criada depois e ainda é pouco conhecida dos governos",
+        "e": "a inscrição na lista de salvaguarda urgente transfere ao organismo internacional a gestão direta do bem inscrito, arranjo que os países signatários evitam por implicar limitação de sua competência sobre manifestações culturais internas"
+      },
+      "resposta": "c",
+      "explicacao": "Patrimônio também é vitrine diplomática. Admitir que uma cultura popular está prestes a acabar é admitir que o Estado falhou em sustentá-la, e isso rende menos manchete que o título de patrimônio cultural da humanidade concedido pela UNESCO. Ler a lista como instrumento político, e não como classificação de valor, é o passo que separa a análise crítica do folheto turístico.",
+      "formato": "direta"
+    },
+    {
+      "id": "artes-388",
+      "texto_apoio": "Em 2020, estátuas de traficantes de escravizados e de colonizadores foram derrubadas ou pichadas em vários países. No Brasil, o debate recaiu sobre homenagens a bandeirantes, cujos monumentos ocupam praças e dão nome a avenidas.",
+      "enunciado": "Entre as saídas que a política de patrimônio tem oferecido a esse tipo de contestação está:",
+      "alternativas": {
+        "a": "a remoção imediata dos monumentos contestados, sem procedimento prévio",
+        "b": "a proibição de manifestações públicas nas praças onde esses monumentos se localizam, medida de proteção física que os órgãos de patrimônio brasileiros teriam adotado como regra geral após os episódios de contestação ocorridos naquele ano",
+        "c": "a transferência das peças para o exterior mediante acordo diplomático",
+        "d": "o tombamento imediato das homenagens contestadas, para impedir novas intervenções",
+        "e": "manter o monumento e acrescentar contra-informação no lugar, tratando a praça como campo de disputa sobre a memória coletiva"
+      },
+      "resposta": "e",
+      "explicacao": "Derrubar apaga; manter sem comentário legitima. A saída que vem sendo testada — placa nova, obra ao lado, troca de nome com registro do nome antigo — assume que o monumento é documento do que uma época quis celebrar, e que a identidade cultural de hoje pode discordar dele em voz alta. O mesmo país que ergueu essas homenagens deixou sem proteção os terreiros e a cultura popular negra; o patrimônio histórico, aqui, é o próprio campo de conflito.",
+      "formato": "direta"
     }
   ]
 }

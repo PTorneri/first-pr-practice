@@ -4252,6 +4252,652 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-diversidade",
+   "id": "med-biologia-385",
+   "texto_apoio": "Num aquário marinho, um mergulhador liberou um corante inerte junto à base de uma esponja fixa na rocha. O corante penetrou pelos poros distribuídos na parede lateral do animal e saiu, poucos minutos depois, por uma única abertura ampla no topo.",
+   "enunciado": "No reino animal, o percurso observado evidencia, nos poríferos, uma organização em que:",
+   "alternativas": {
+    "a": "a água entra pelos poros laterais, atravessa o corpo em sentido único e sai pelo ósculo, sendo filtrada nesse trajeto",
+    "b": "o corante percorreu um tubo digestório completo, com boca na base do animal e ânus na abertura do topo, arranjo que caracterizaria o grupo",
+    "c": "os poros laterais funcionam como saída da água e o ósculo, como entrada, de modo que o sentido observado foi acidental",
+    "d": "a água é impulsionada por contrações musculares da parede do corpo, à maneira dos invertebrados de simetria bilateral",
+    "e": "o trajeto do corante corresponde ao de um vaso condutor que distribui alimento às demais regiões do animal"
+   },
+   "resposta": "a",
+   "explicacao": "Os poríferos são invertebrados sem tecidos verdadeiros: a água entra pelos poros da parede (óstios), passa pelo átrio, onde os coanócitos retêm as partículas em suspensão, e sai pelo ósculo. É filtração em fluxo unidirecional, não digestão em tubo — o grupo não tem boca, ânus, musculatura nem vasos condutores.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-386",
+   "texto_apoio": "Um banhista encostou o antebraço no tentáculo de uma água-viva e sentiu ardência imediata. Ao microscópio, o tentáculo mostrou estruturas em forma de cápsula, cada uma com um filamento enrolado no interior e um pelo sensorial voltado para fora.",
+   "enunciado": "Nos cnidários, as estruturas descritas e sua função no reino animal correspondem a:",
+   "alternativas": {
+    "a": "coanócitos, que geram corrente de água e retêm partículas alimentares em suspensão no meio",
+    "b": "cnidócitos, que descarregam o filamento urticante e servem à captura de presas e à defesa",
+    "c": "nematocistos de origem vegetal, que liberam seiva ao serem tocados por um corpo estranho",
+    "d": "glândulas de veneno ligadas a um ducto muscular, semelhantes às que os artrópodes peçonhentos usam para inocular toxina na presa",
+    "e": "coanócitos modificados em placas calcárias, que enrijecem o tentáculo no instante do contato"
+   },
+   "resposta": "b",
+   "explicacao": "O cnidócito é a estrutura que dá nome ao filo: dentro dele, o nematocisto guarda um filamento enrolado que dispara ao estímulo mecânico do cnidocílio e injeta substância urticante. É o mecanismo de captura e defesa desses invertebrados. Coanócitos são dos poríferos, e o cnidócito não é glândula nem tem origem vegetal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-387",
+   "texto_apoio": "Numa comunidade rural sem saneamento, o exame de fezes de várias crianças revelou ovos de Ascaris lumbricoides. O verme adulto, recolhido em um dos casos, era cilíndrico, afilado nas pontas e não apresentava divisão do corpo em anéis.",
+   "enunciado": "No reino animal, o conjunto de traços descritos separa os nematódeos dos anelídeos porque indica:",
+   "alternativas": {
+    "a": "corpo dividido em anéis sucessivos, cada um deles com um par de cerdas locomotoras",
+    "b": "simetria radial e ausência de tubo digestório, com uma só abertura na parede do corpo",
+    "c": "corpo cilíndrico e não segmentado, com cavidade corporal do tipo pseudoceloma",
+    "d": "esqueleto externo de quitina articulado em apêndices, condição partilhada com os artrópodes de vida livre do solo",
+    "e": "corpo achatado no sentido dorsoventral e acelomado, com tubo digestório incompleto"
+   },
+   "resposta": "c",
+   "explicacao": "Ascaris é nematódeo: invertebrado de corpo cilíndrico, sem metameria, com tubo digestório completo e cavidade corporal do tipo pseudoceloma, revestida por mesoderma em apenas uma das faces. A segmentação em anéis com cerdas é dos anelídeos; o corpo achatado e acelomado, dos platelmintos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-388",
+   "texto_apoio": "Um agricultor comparou dois canteiros vizinhos de mesma composição. No canteiro em que introduziu minhocas, a água da chuva infiltrou mais rápido e o solo ficou visivelmente menos compactado ao fim de dois meses.",
+   "enunciado": "As minhocas são anelídeos. No reino animal, a característica que explica de forma mais direta o efeito observado no solo é:",
+   "alternativas": {
+    "a": "a escavação de galerias por um corpo metamerizado, sustentado pela pressão do líquido celomático",
+    "b": "a produção de filamentos de quitina que agregam entre si as partículas minerais do solo",
+    "c": "a fixação ao substrato por um pé muscular ventral, à maneira dos moluscos gastrópodes",
+    "d": "a filtração da água do solo por poros laterais da parede corporal, como fazem os poríferos de água doce",
+    "e": "a digestão do húmus por enzimas liberadas na superfície do corpo, processo que dispensaria a passagem do material pelo tubo digestório do animal"
+   },
+   "resposta": "a",
+   "explicacao": "O anelídeo é um invertebrado de corpo dividido em metâmeros, cada um com musculatura circular e longitudinal atuando contra o líquido do celoma — o esqueleto hidrostático. É esse arranjo que permite abrir galerias, e são as galerias que aumentam a porosidade e a aeração do solo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-389",
+   "texto_apoio": "Numa peixaria foram expostos, lado a lado, um caracol terrestre de concha espiralada, uma ostra com duas valvas articuladas e um polvo sem concha externa.",
+   "enunciado": "Os três animais são classificados no mesmo filo. No reino animal, o que reúne os moluscos num único grupo é:",
+   "alternativas": {
+    "a": "a concha calcária externa, presente nos três em alguma fase da vida",
+    "b": "a segmentação do corpo em anéis, herança comum com os anelídeos marinhos de fundo",
+    "c": "o esqueleto interno de placas calcárias com espinhos móveis, como nos equinodermos",
+    "d": "a respiração por traqueias ramificadas abertas em espiráculos laterais, arranjo idêntico ao dos artrópodes terrestres de porte pequeno",
+    "e": "o corpo mole com pé muscular e manto secretor, haja ou não concha externa"
+   },
+   "resposta": "e",
+   "explicacao": "A taxonomia agrupa caracol, ostra e polvo em Mollusca pelo plano corporal: massa visceral, pé muscular e manto — a prega de tecido que secreta a concha quando ela existe. Nos cefalópodes, como o polvo, a concha é interna e reduzida ou ausente, o que mostra que ela não é o critério do filo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-390",
+   "texto_apoio": "Numa coleta em mata foram encontrados três exemplares: um besouro com três pares de pernas e um par de antenas; uma aranha com quatro pares de pernas e sem antenas; um camarão de água doce com dois pares de antenas e apêndices birremes.",
+   "enunciado": "Considerando a classificação dos seres vivos, os três exemplares pertencem, respectivamente, às classes dos:",
+   "alternativas": {
+    "a": "insetos, aracnídeos e crustáceos",
+    "b": "aracnídeos, insetos e crustáceos",
+    "c": "insetos, crustáceos e aracnídeos",
+    "d": "crustáceos, aracnídeos e insetos",
+    "e": "insetos, aracnídeos e miriápodes de água doce"
+   },
+   "resposta": "a",
+   "explicacao": "A taxonomia dos artrópodes usa o número de apêndices e a divisão do corpo. Inseto: três pares de pernas, um par de antenas, corpo em cabeça, tórax e abdome. Aracnídeo: quatro pares de pernas, sem antenas, cefalotórax e abdome. Crustáceo: dois pares de antenas e apêndices birremes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-391",
+   "texto_apoio": "Numa poça de maré, uma estrela-do-mar deslocou-se lentamente sobre a rocha. Virada de cabeça para baixo por um observador, retomou a posição inicial usando centenas de projeções tubulares da face ventral, que se estendiam e se retraíam de modo coordenado.",
+   "enunciado": "No reino animal, as projeções descritas e o mecanismo que as move caracterizam os equinodermos como:",
+   "alternativas": {
+    "a": "invertebrados de simetria bilateral no adulto, com pés articulados movidos por músculos antagonistas",
+    "b": "invertebrados de simetria radial no adulto, com pés ambulacrários movidos por pressão de água",
+    "c": "cordados primitivos, cujos pés tubulares derivam de arcos faríngeos modificados",
+    "d": "moluscos sem concha, nos quais as projeções ventrais correspondem a expansões do pé muscular",
+    "e": "artrópodes marinhos de exoesqueleto calcário, nos quais as projeções seriam apêndices articulados reduzidos"
+   },
+   "resposta": "b",
+   "explicacao": "O equinoderme é invertebrado, tem simetria radial pentarradiada no adulto e um sistema hidrovascular exclusivo do filo: a água que circula nos canais é bombeada para os pés ambulacrários, que se estendem por pressão hidráulica e aderem ao substrato por ventosas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-392",
+   "texto_apoio": "Três animais foram descritos por um estudante. A tem pele úmida e permeável e depende de água parada para se reproduzir. B tem pele seca e queratinizada e põe ovos com casca. C tem escamas dérmicas e faz trocas gasosas por brânquias durante a vida inteira.",
+   "enunciado": "Na classificação dos seres vivos, é correto afirmar sobre esses animais que:",
+   "alternativas": {
+    "a": "B é um anfíbio, e a casca do ovo o dispensa de voltar à água durante o desenvolvimento",
+    "b": "A e B pertencem ao mesmo grupo, uma vez que ambos apresentam pele impermeável à água",
+    "c": "A é um anfíbio: a fecundação externa e o ovo sem casca o prendem à água",
+    "d": "C é um réptil aquático, já que as brânquias se mantêm nesse grupo do início ao fim da vida",
+    "e": "C é o único dos três a apresentar coluna vertebral, o que separaria os outros dois do grupo dos vertebrados"
+   },
+   "resposta": "c",
+   "explicacao": "A taxonomia separa os três: A é anfíbio (pele fina e permeável, fecundação externa, ovo sem casca — daí a dependência da água); B é réptil (pele queratinizada e ovo com casca, que o libertou do meio aquático); C é peixe (escamas dérmicas e brânquias permanentes). Os três são vertebrados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-393",
+   "texto_apoio": "Duas espécies foram acompanhadas num dia frio: ambas mantiveram a temperatura do corpo praticamente constante. Uma delas alimenta a prole com secreção produzida por glândulas da própria pele; a outra alimenta os filhotes por regurgitação do que capturou.",
+   "enunciado": "No reino animal, o traço que separa aves de mamíferos entre esses dois endotérmicos é:",
+   "alternativas": {
+    "a": "somente as aves mantêm temperatura interna constante, condição que os mamíferos não alcançam",
+    "b": "somente os mamíferos apresentam ovo com casca calcária e âmnio bem desenvolvido",
+    "c": "as duas pertencem ao mesmo grupo, pois a manutenção da temperatura interna define a categoria taxonômica",
+    "d": "somente os mamíferos produzem secreção láctea a partir de glândulas derivadas da pele",
+    "e": "somente as aves têm pelos, estrutura que os mamíferos teriam substituído por penas ao longo do tempo geológico"
+   },
+   "resposta": "d",
+   "explicacao": "Endotermia aparece em aves e em mamíferos e por isso não distingue os dois grupos na taxonomia. O que define Mammalia é a glândula mamária, derivada da pele, que produz o leite; o que define Aves são as penas e o bico córneo. O ovo com casca é das aves, não dos mamíferos placentários.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-394",
+   "texto_apoio": "Numa etiqueta de coleção zoológica lia-se Panthera onca (Linnaeus, 1758). Noutra, referente ao mesmo animal, constava apenas o nome popular onça-pintada, seguido do local de coleta.",
+   "enunciado": "A regra de nomenclatura que fundamenta o primeiro registro estabelece que:",
+   "alternativas": {
+    "a": "o primeiro termo indica a família e o segundo, o gênero, o que dispensa o destaque tipográfico",
+    "b": "os dois termos designam a mesma categoria, e a repetição serve para evitar homônimos entre reinos distintos",
+    "c": "o nome popular tem a mesma validade científica, desde que registrado numa coleção reconhecida",
+    "d": "o segundo termo é o nome do autor da descrição, e o ano entre parênteses marca a data em que o nome popular foi adotado",
+    "e": "o primeiro termo indica o gênero e o segundo, a espécie, ambos em latim e destacados do texto corrido"
+   },
+   "resposta": "e",
+   "explicacao": "A nomenclatura binomial de Lineu dá a cada espécie um nome de duas palavras latinizadas: gênero e espécie, o primeiro com inicial maiúscula, ambos em itálico ou sublinhados. O nome popular varia de região para região e não serve de referência entre pesquisadores — é justamente o problema que a regra resolve. Panthera onca é um mamífero carnívoro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-395",
+   "texto_apoio": "Um professor escreveu no quadro a sequência Animalia — Chordata — Mammalia — Carnivora — Felidae — Panthera — Panthera leo e pediu que a turma interpretasse o que ela representa.",
+   "enunciado": "Na classificação dos seres vivos, essa sequência:",
+   "alternativas": {
+    "a": "vai da mais restrita à mais abrangente, de modo que Animalia seria o grupo de menor amplitude",
+    "b": "lista categorias de mesma hierarquia, escolhidas por semelhança de forma e não por parentesco",
+    "c": "corresponde a sete espécies distintas de felinos, cada uma delas nomeada por um autor diferente",
+    "d": "vai da categoria mais abrangente à mais restrita, e cada nível está contido no anterior",
+    "e": "descreve a ordem em que os grupos foram descritos pela ciência, do registro mais antigo ao mais recente na literatura"
+   },
+   "resposta": "d",
+   "explicacao": "A taxonomia é hierárquica e encaixada: reino, filo, classe, ordem, família, gênero e espécie. Cada categoria contém as seguintes e é contida pelas anteriores — o leão é um mamífero, e todo mamífero é cordado. Ler a sequência ao contrário inverte a lógica de amplitude.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-396",
+   "texto_apoio": "Numa estimativa do número de espécies animais já descritas, os artrópodes respondem por mais de 80% do total registrado, enquanto o conjunto dos vertebrados fica abaixo de 5%.",
+   "enunciado": "No reino animal, esses números indicam que:",
+   "alternativas": {
+    "a": "os vertebrados formam o grupo mais numeroso em espécies descritas, apesar do porte corporal maior",
+    "b": "a maior parte da diversidade animal descrita está entre os invertebrados, e sobretudo entre os artrópodes",
+    "c": "artrópodes e vertebrados compõem um mesmo filo, o que explicaria o desequilíbrio nas contagens",
+    "d": "o número de espécies descritas mede o tamanho médio dos indivíduos de cada um dos grupos",
+    "e": "os artrópodes aparecem em maior número porque cada indivíduo coletado é contado como uma espécie diferente nos registros de museu"
+   },
+   "resposta": "b",
+   "explicacao": "Insetos, aracnídeos, crustáceos e miriápodes fazem dos artrópodes o filo mais rico em espécies descritas do reino animal. Os vertebrados são uma fração pequena do total, ainda que sejam o grupo mais estudado — o que mostra que a percepção de diversidade é enviesada pelo tamanho e pela proximidade do animal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-397",
+   "texto_apoio": "Um criador acompanhou dois insetos. No primeiro, do ovo saiu uma larva vermiforme que se transformou em pupa imóvel e, dela, emergiu o adulto alado. No segundo, do ovo saiu uma ninfa parecida com o adulto, que cresceu por mudas sucessivas até atingir o tamanho final.",
+   "enunciado": "Entre os artrópodes, os dois padrões de desenvolvimento descritos correspondem, respectivamente, a:",
+   "alternativas": {
+    "a": "metamorfose incompleta e metamorfose completa",
+    "b": "muda e regeneração, dois processos restritos aos crustáceos de água doce",
+    "c": "metamorfose completa e metamorfose incompleta",
+    "d": "reprodução sexuada e reprodução assexuada, conforme o número de mudas do ciclo",
+    "e": "desenvolvimento direto no primeiro caso e indireto no segundo, já que a pupa corresponderia ao estágio adulto do inseto"
+   },
+   "resposta": "c",
+   "explicacao": "Nos invertebrados holometábolos (besouros, borboletas, moscas) o ciclo passa por ovo, larva, pupa e adulto, e a larva não se parece com o adulto — é metamorfose completa. Nos hemimetábolos (baratas, percevejos) a ninfa já lembra o adulto e cresce por mudas: metamorfose incompleta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-398",
+   "texto_apoio": "Um paciente eliminou proglotes de Taenia solium após ingerir carne de porco malcozida. O verme adulto recolhido era achatado no sentido dorsoventral, não tinha cavidade corporal revestida e absorvia nutrientes diretamente pela superfície do corpo.",
+   "enunciado": "No reino animal, o conjunto dessas características situa o animal entre os:",
+   "alternativas": {
+    "a": "anelídeos, pela sucessão de proglotes ao longo do corpo, equivalentes a metâmeros",
+    "b": "nematódeos, pelo corpo alongado e pela ausência de segmentação verdadeira",
+    "c": "cnidários, pela falta de tubo digestório e pela simetria do corpo",
+    "d": "platelmintos, pelo corpo achatado, acelomado e sem tubo digestório",
+    "e": "artrópodes parasitas, uma vez que as proglotes corresponderiam a segmentos articulados revestidos de quitina"
+   },
+   "resposta": "d",
+   "explicacao": "Taenia é platelminto: invertebrado achatado dorsoventralmente, acelomado e, na forma parasita, sem tubo digestório — absorve o alimento já digerido pelo hospedeiro através do tegumento. As proglotes são unidades reprodutivas, não metâmeros como os dos anelídeos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-399",
+   "texto_apoio": "Um camarão criado em tanque manteve o mesmo comprimento por três semanas. Em seguida abandonou uma carapaça vazia e, nas horas seguintes, aumentou de tamanho de forma rápida, antes que o novo revestimento endurecesse.",
+   "enunciado": "No reino animal, o episódio ilustra uma limitação ao crescimento imposta aos artrópodes por:",
+   "alternativas": {
+    "a": "um endoesqueleto ósseo que cresce por deposição contínua nas extremidades",
+    "b": "uma parede corporal calcária secretada pelo manto, como nos moluscos bivalves",
+    "c": "um esqueleto hidrostático mantido pela pressão do líquido celomático",
+    "d": "uma cobertura de placas dérmicas articuladas com espinhos móveis, do tipo que os equinodermos de fundo apresentam",
+    "e": "um exoesqueleto rígido de quitina, que só permite crescimento quando é trocado"
+   },
+   "resposta": "e",
+   "explicacao": "O exoesqueleto quitinoso protege e sustenta o invertebrado, mas não acompanha o aumento de volume. O crescimento é descontínuo: o animal passa por ecdise, abandona a carapaça antiga e se expande enquanto o novo exoesqueleto ainda está mole, antes de calcificar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-400",
+   "texto_apoio": "Um embrião de peixe e um embrião de anfíbio, observados no mesmo estágio de desenvolvimento, apresentaram um bastão dorsal de sustentação, fendas na região faríngea e um cordão nervoso dorsal e oco.",
+   "enunciado": "Na classificação dos seres vivos, essas três estruturas embrionárias definem:",
+   "alternativas": {
+    "a": "o filo dos cordados, ao qual pertencem os vertebrados",
+    "b": "a classe dos peixes ósseos, restrita aos animais de nadadeiras pares",
+    "c": "o grupo dos invertebrados marinhos de simetria radial no adulto",
+    "d": "a ordem dos anfíbios anuros, definida pela perda da cauda no indivíduo adulto",
+    "e": "o reino animal como um bloco, uma vez que as três estruturas surgiriam também no desenvolvimento inicial de poríferos e cnidários"
+   },
+   "resposta": "a",
+   "explicacao": "Notocorda, fendas faríngeas e tubo nervoso dorsal são os caracteres diagnósticos de Chordata na taxonomia. Podem existir apenas no embrião — no ser humano a notocorda é substituída pela coluna vertebral. Poríferos e cnidários não passam por essas etapas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-401",
+   "texto_apoio": "Um esquema comparou quatro animais quanto à simetria do corpo: um porífero sem simetria definida, uma anêmona com simetria radial, uma planária com simetria bilateral e uma estrela-do-mar com simetria radial no adulto e bilateral na larva.",
+   "enunciado": "No reino animal, a comparação apresentada permite afirmar que:",
+   "alternativas": {
+    "a": "a simetria radial do adulto indica parentesco direto entre a anêmona e a estrela-do-mar",
+    "b": "a simetria da larva pode diferir da do adulto, como mostra o caso da estrela-do-mar",
+    "c": "a falta de simetria definida é traço partilhado por poríferos e planárias",
+    "d": "a simetria bilateral aparece apenas nos animais de vida fixa ao substrato rochoso",
+    "e": "os quatro animais têm a mesma simetria na fase larval, e as diferenças observadas surgiriam apenas no indivíduo já formado"
+   },
+   "resposta": "b",
+   "explicacao": "O equinoderme é o exemplo clássico de simetria que muda ao longo do ciclo: a larva é bilateral e o adulto, pentarradiado. Por isso a simetria do adulto, isolada, não basta como critério de parentesco entre invertebrados — a anêmona é cnidário e a estrela-do-mar, equinoderme.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-402",
+   "texto_apoio": "Numa residência foram coletados um escorpião, um carrapato e uma aranha-marrom. Nenhum dos três apresentava antenas, e os três tinham quatro pares de pernas locomotoras.",
+   "enunciado": "No reino animal, esses artrópodes são reunidos numa mesma classe porque compartilham:",
+   "alternativas": {
+    "a": "três pares de pernas, um par de antenas e corpo dividido em cabeça, tórax e abdome",
+    "b": "dois pares de antenas, apêndices birremes e trocas gasosas por brânquias",
+    "c": "quatro pares de pernas, ausência de antenas e corpo dividido em cefalotórax e abdome",
+    "d": "um par de pernas por segmento do corpo e trocas gasosas por traqueias ramificadas",
+    "e": "corpo mole revestido por manto e um pé muscular ventral, condição que os aproximaria dos moluscos terrestres"
+   },
+   "resposta": "c",
+   "explicacao": "Escorpiões, carrapatos e aranhas são aracnídeos: quatro pares de patas, ausência de antenas e corpo em cefalotórax mais abdome, com quelíceras e pedipalpos no lugar das mandíbulas. Três pares de patas com antenas define os insetos; dois pares de antenas, os crustáceos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-403",
+   "texto_apoio": "Um quadro comparou o ovo de três animais: o de um anfíbio, gelatinoso e depositado na água; o de um réptil, com casca resistente e quatro anexos embrionários; o de uma ave, com casca calcária e os mesmos quatro anexos.",
+   "enunciado": "Na classificação dos seres vivos, o anexo embrionário que permitiu a répteis e aves reproduzir-se longe da água é:",
+   "alternativas": {
+    "a": "o cório, que envolve os demais anexos e faz as trocas gasosas com o meio externo",
+    "b": "o saco vitelínico, encarregado de armazenar as reservas nutritivas usadas pelo embrião",
+    "c": "o alantoide, que acumula as excretas nitrogenadas em forma pouco tóxica",
+    "d": "o âmnio, que retém líquido em torno do embrião e o mantém em meio aquoso",
+    "e": "a casca calcária, o anexo embrionário responsável por reter a água no interior dos ovos de répteis e de aves"
+   },
+   "resposta": "d",
+   "explicacao": "O âmnio delimita a cavidade amniótica cheia de líquido: o embrião se desenvolve num ambiente aquático particular, mesmo com o ovo em terra firme. É o caráter que reúne répteis, aves e mamíferos como amniotas na taxonomia. A casca é envoltório, não anexo embrionário.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-404",
+   "texto_apoio": "Whittaker propôs, em 1969, um arranjo dos seres vivos em cinco reinos apoiado sobretudo em dois critérios: a presença ou a ausência de núcleo organizado e a forma de obter alimento — por produção própria a partir da luz, por absorção do que já está dissolvido no meio ou por ingestão de partículas.",
+   "enunciado": "Nessa classificação dos seres vivos, o reino Fungi é mantido separado do reino vegetal porque:",
+   "alternativas": {
+    "a": "os fungos obtêm alimento por absorção e não produzem matéria orgânica a partir da luz",
+    "b": "os fungos não têm núcleo organizado, ao contrário do que ocorre nas plantas",
+    "c": "os fungos são microscópicos e as plantas, visíveis a olho nu, sem exceção nos dois reinos",
+    "d": "as plantas obtêm alimento por ingestão de partículas sólidas, como fazem os protozoários",
+    "e": "o reino Fungi reúne os seres que se alimentam por ingestão de partículas, enquanto o reino vegetal reúne os que absorvem alimento já dissolvido no substrato"
+   },
+   "resposta": "a",
+   "explicacao": "Na taxonomia de Whittaker, os três modos de nutrição separam os reinos de eucariontes: as plantas produzem o próprio alimento com a energia da luz, os animais ingerem partículas e os fungos secretam enzimas para fora do corpo e absorvem o que foi degradado. Fungos e plantas têm núcleo organizado — não é esse o critério que os separa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-405",
+   "texto_apoio": "Uma amostra de iogurte artesanal foi observada ao microscópio óptico. Viam-se bastonetes de cerca de dois micrômetros, sem núcleo delimitado por envoltório e sem compartimentos internos distinguíveis.",
+   "enunciado": "Na classificação dos seres vivos, esses organismos pertencem ao reino Monera, cujos representantes são:",
+   "alternativas": {
+    "a": "eucariontes de corpo microscópico e nutrição por ingestão de partículas do meio",
+    "b": "procariontes, cujo material hereditário fica disperso no interior do corpo, sem envoltório próprio",
+    "c": "eucariontes de parede rígida e nutrição por absorção, reunidos no reino Fungi",
+    "d": "procariontes dotados de núcleo organizado e de compartimentos internos delimitados por membranas",
+    "e": "organismos sem material hereditário próprio, que dependem de um hospedeiro para se multiplicar e por isso ficam fora dos cinco reinos"
+   },
+   "resposta": "b",
+   "explicacao": "As bactérias do iogurte são procariontes: não têm carioteca, e a molécula circular que guarda a informação hereditária fica numa região sem envoltório, o nucleoide. A taxonomia reserva o reino Monera a esse grupo; ter núcleo organizado e compartimentos internos é justamente o que caracteriza os eucariontes dos outros reinos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-406",
+   "texto_apoio": "Amostras recolhidas em fontes termais a 85 °C e em lagoas de salinidade muito elevada revelaram organismos sem núcleo organizado, cuja composição de parede e de membrana difere da encontrada nas bactérias comuns.",
+   "enunciado": "Na classificação dos seres vivos, esses organismos são as arqueas, e o dado apresentado sustenta que:",
+   "alternativas": {
+    "a": "as arqueas são fungos de ambiente extremo, já que dependem de matéria orgânica dissolvida",
+    "b": "as arqueas e as bactérias formam um grupo único, pois a falta de núcleo basta como critério",
+    "c": "as arqueas são procariontes distintos das bactérias, e as duas linhagens ocupam domínios separados",
+    "d": "as arqueas são eucariontes de núcleo reduzido, o que explicaria a tolerância ao calor",
+    "e": "a tolerância ao calor e ao sal é o critério taxonômico que define o grupo, de modo que organismos de ambientes amenos ficariam fora dele"
+   },
+   "resposta": "c",
+   "explicacao": "A ausência de núcleo organizado reúne arqueas e bactérias na categoria de procariontes, mas não faz delas um grupo único: diferenças de parede, de membrana e de maquinaria de leitura da informação hereditária levaram a taxonomia a separá-las em dois domínios, Archaea e Bacteria. Viver em ambiente extremo é característica frequente, não critério de classificação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-407",
+   "texto_apoio": "Numa gota de água de charco foram observados três organismos microscópicos com núcleo organizado: o primeiro deslocava-se emitindo prolongamentos do corpo, o segundo por cílios dispostos em fileiras e o terceiro por um flagelo longo.",
+   "enunciado": "Na classificação dos seres vivos, esses protozoários do reino Protista são agrupados, respectivamente, como:",
+   "alternativas": {
+    "a": "ciliados, flagelados e rizópodes",
+    "b": "flagelados, rizópodes e ciliados",
+    "c": "rizópodes, flagelados e ciliados",
+    "d": "rizópodes, ciliados e flagelados",
+    "e": "esporozoários, ciliados e flagelados de água doce"
+   },
+   "resposta": "d",
+   "explicacao": "A taxonomia tradicional dos protozoários usa a estrutura de locomoção: rizópodes ou sarcodíneos emitem pseudópodes, ciliados batem cílios em fileiras e flagelados usam um ou poucos flagelos. Os esporozoários, como o do gênero Plasmodium, não têm estrutura locomotora no estágio infectante.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-408",
+   "texto_apoio": "Numa análise de água de represa, o material retido no filtro trazia organismos verdes microscópicos. Em outra amostra, recolhida num costão rochoso, havia lâminas pardas de vários centímetros presas à pedra por uma estrutura de fixação.",
+   "enunciado": "Na classificação dos seres vivos, esses organismos são algas, e o que os mantém fora do reino vegetal é o fato de:",
+   "alternativas": {
+    "a": "possuírem núcleo organizado e nutrição por absorção do alimento já dissolvido no meio",
+    "b": "não possuírem núcleo organizado, condição que os aproximaria do reino Monera",
+    "c": "terem raiz, caule e folha verdadeiros, o que os colocaria entre os vegetais de porte reduzido",
+    "d": "obterem alimento por ingestão de partículas sólidas, à maneira dos protozoários ciliados",
+    "e": "produzirem matéria orgânica com a clorofila sem formar tecidos nem órgãos verdadeiros"
+   },
+   "resposta": "e",
+   "explicacao": "Algas são eucariontes que produzem o próprio alimento a partir da luz, mas o corpo é um talo: não há raiz, caule nem folha, e portanto não há tecidos condutores. É esse critério de organização, e não o modo de nutrição, que a taxonomia usa para mantê-las no reino Protista e não entre as plantas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-409",
+   "texto_apoio": "Um pão esquecido sobre a mesa apresentou, em cinco dias, uma trama de filamentos brancos que avançava sobre a superfície. Ao fim do período, surgiram pontos escuros arredondados nas extremidades desses filamentos.",
+   "enunciado": "No reino Fungi, os filamentos e os pontos escuros descritos correspondem, respectivamente, a:",
+   "alternativas": {
+    "a": "hifas do micélio e estruturas produtoras de esporos",
+    "b": "raiz absorvente e sementes ainda em formação",
+    "c": "filamentos de origem bacteriana e grãos de amido acumulados",
+    "d": "hifas do micélio e pontos de contato com o substrato, por onde o alimento é ingerido",
+    "e": "prolongamentos do corpo usados na locomoção e estruturas de fixação ao substrato, do tipo que os protozoários rizópodes apresentam"
+   },
+   "resposta": "a",
+   "explicacao": "O bolor do pão, cujo gênero e espécie são Rhizopus stolonifer, cresce como micélio: um emaranhado de hifas que secretam enzimas sobre o alimento e absorvem o produto da degradação. Os pontos escuros são esporângios, onde se formam os esporos de dispersão. Fungo não ingere alimento nem produz semente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-410",
+   "texto_apoio": "Um padeiro misturou fermento biológico à massa e a deixou em repouso num recipiente fechado. Em duas horas o volume dobrou, e o interior da massa ficou tomado por bolhas de gás.",
+   "enunciado": "O fermento biológico é formado por leveduras. No reino Fungi, esses organismos se distinguem dos vegetais porque:",
+   "alternativas": {
+    "a": "não têm núcleo organizado, ao contrário do que se observa nas plantas cultivadas",
+    "b": "não produzem o próprio alimento a partir da luz e obtêm energia degradando açúcares do meio",
+    "c": "possuem raiz, caule e folha reduzidos, compatíveis com o meio líquido da massa",
+    "d": "pertencem ao reino Protista, junto com as algas verdes de água doce",
+    "e": "produzem gás porque acumulam clorofila em quantidade suficiente para converter a luz do forno em matéria orgânica"
+   },
+   "resposta": "b",
+   "explicacao": "A levedura de padaria, cujo gênero e espécie são Saccharomyces cerevisiae, é um fungo: eucarionte de parede rígida, sem clorofila, que degrada o açúcar da massa e libera gás carbônico — o que faz a massa crescer. A taxonomia separa o reino Fungi do reino vegetal exatamente pelo modo de obter alimento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-411",
+   "texto_apoio": "Sobre um muro exposto ao sol cresceram crostas cinza-esverdeadas. Ao microscópio viam-se filamentos entrelaçados envolvendo corpos verdes arredondados; separados em laboratório, nenhum dos dois componentes cresceu sozinho nas mesmas condições.",
+   "enunciado": "Na classificação dos seres vivos, a crosta descrita é um líquen, formado pela associação entre:",
+   "alternativas": {
+    "a": "duas espécies de fungos do reino Fungi, uma delas dependente da outra para se fixar",
+    "b": "uma bactéria e um protozoário, ambos classificados no reino Monera",
+    "c": "um fungo, que retém água e sustenta a estrutura, e uma alga, que produz matéria orgânica",
+    "d": "uma planta de porte reduzido e um fungo instalado em sua raiz absorvente",
+    "e": "um único organismo do reino Protista, cujos filamentos e corpos verdes seriam partes de um mesmo indivíduo em fases distintas do ciclo"
+   },
+   "resposta": "c",
+   "explicacao": "O líquen não é um táxon: é a associação estável entre um fungo e uma alga (ou uma cianobactéria). O fungo dá abrigo, sustentação e retenção de água; o parceiro verde produz a matéria orgânica com a energia da luz. Por isso a taxonomia classifica cada componente em seu reino, e o líquen é nomeado pelo fungo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-412",
+   "texto_apoio": "Numa parede úmida e sombreada cresceu um tapete de musgos de poucos centímetros de altura. Nenhuma das plantas apresentava vasos condutores, e os gametas masculinos precisaram de uma película de água para alcançar o gameta feminino.",
+   "enunciado": "Na classificação dos seres vivos, essas observações explicam por que as briófitas:",
+   "alternativas": {
+    "a": "atingem grande porte, já que a água sobe por capilaridade até o topo da planta",
+    "b": "dispensam a água na reprodução, o que lhes permite ocupar áreas secas e ensolaradas",
+    "c": "produzem sementes protegidas por fruto, o que assegura a dispersão em ambiente seco",
+    "d": "têm porte pequeno e dependem de ambiente úmido, por não formarem vaso condutor nem raiz, caule e folha verdadeiros",
+    "e": "formam vasos condutores lenhosos de grande calibre, condição que as coloca entre as plantas de maior altura das matas tropicais"
+   },
+   "resposta": "d",
+   "explicacao": "Musgos são o grupo mais simples do reino vegetal: sem xilema e sem floema, a água caminha de estrutura em estrutura e limita a altura a poucos centímetros. O que parece raiz, caule e folha são rizoides, caulóide e filoides, sem tecido condutor. E como o gameta masculino nada, a reprodução exige um filme de água.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-413",
+   "texto_apoio": "Numa mata de encosta, samambaias de mais de um metro cresciam em solo sombreado. Ao examinar a face inferior de uma folha, o botânico encontrou grupos de estruturas arredondadas que liberavam esporos quando tocadas.",
+   "enunciado": "Na classificação dos seres vivos, as pteridófitas são o primeiro grupo do reino vegetal a:",
+   "alternativas": {
+    "a": "produzir sementes protegidas no interior de um fruto carnoso",
+    "b": "dispensar a água para que o gameta masculino alcance o feminino",
+    "c": "formar flores com peças férteis reunidas num mesmo eixo",
+    "d": "abrir mão do esporo como unidade de dispersão, substituído pelo grão de pólen levado pelo vento",
+    "e": "apresentar vasos condutores, o que permitiu raiz, caule e folha de maior porte"
+   },
+   "resposta": "e",
+   "explicacao": "As samambaias trazem a novidade que a taxonomia usa para separá-las das briófitas: xilema e floema. Com tecido condutor, a planta sustenta porte maior e leva água do solo até as folhas. A dependência de água na fecundação continua, e a semente só aparece nas gimnospermas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-414",
+   "texto_apoio": "Num pinheiro do gênero Pinus, o botânico recolheu duas estruturas: uma pequena, produtora de grãos de pólen, e outra maior e lenhosa, com sementes descobertas apoiadas sobre escamas.",
+   "enunciado": "Na classificação dos seres vivos, essas observações caracterizam as gimnospermas porque mostram:",
+   "alternativas": {
+    "a": "sementes expostas sobre escamas de estróbilo, sem fruto que as envolva",
+    "b": "sementes encerradas num ovário que amadurece e se converte em fruto",
+    "c": "ausência de semente, com dispersão por esporos liberados na face inferior da folha",
+    "d": "flores com pétalas vistosas voltadas à atração de agentes polinizadores animais",
+    "e": "vasos condutores ausentes, o que limitaria a planta ao porte de poucos centímetros em solo permanentemente úmido"
+   },
+   "resposta": "a",
+   "explicacao": "O nome do grupo é descritivo: gimnosperma quer dizer semente nua. No reino vegetal, as gimnospermas trouxeram a semente e o grão de pólen — que dispensa a água na fecundação —, mas não o fruto. Flor e fruto aparecem apenas nas angiospermas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-415",
+   "texto_apoio": "Numa feira, tomate, abobrinha e vagem eram vendidos na banca de legumes. O exame de cada um mostrou sementes no interior e uma cicatriz correspondente ao ponto em que a estrutura se prendia à flor.",
+   "enunciado": "Na classificação dos seres vivos, esse exame indica que os três são, do ponto de vista das angiospermas:",
+   "alternativas": {
+    "a": "raiz tuberosa, engrossada pelo acúmulo de reservas nutritivas",
+    "b": "frutos, pois derivam do ovário da flor e guardam as sementes",
+    "c": "sementes de grande porte, formadas diretamente a partir do grão de pólen",
+    "d": "caules subterrâneos, onde a planta acumula amido para o período seco",
+    "e": "estróbilos lenhosos típicos das gimnospermas, nos quais as sementes ficam apoiadas sobre escamas descobertas"
+   },
+   "resposta": "b",
+   "explicacao": "Fruto, na taxonomia botânica, é o ovário desenvolvido após a fecundação, com as sementes no interior — o uso culinário de legume não corresponde a nenhuma categoria científica. Tomate, abobrinha e vagem são frutos de angiospermas; a batata é caule subterrâneo e a cenoura, raiz.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-416",
+   "texto_apoio": "Um horticultor retirou um anel completo de casca ao redor do tronco de uma laranjeira, atingindo apenas os tecidos externos. Meses depois, a região logo acima do corte estava engrossada, e as partes situadas abaixo dele definhavam.",
+   "enunciado": "No reino vegetal, o resultado desse anelamento mostra que:",
+   "alternativas": {
+    "a": "a raiz produz o açúcar que abastece a copa, e o corte interrompeu essa subida",
+    "b": "o xilema foi seccionado, e por isso a água deixou de chegar às folhas da copa",
+    "c": "o floema foi seccionado, e a seiva orgânica deixou de descer para a raiz",
+    "d": "o caule armazena água, e o anelamento esvaziou o reservatório da planta",
+    "e": "a casca retirada continha as estruturas que captam a luz, de modo que a planta deixou de produzir matéria orgânica no tronco"
+   },
+   "resposta": "c",
+   "explicacao": "O anelamento de Malpighi retira o floema, que fica na parte externa do tronco, e preserva o xilema, mais interno. A seiva orgânica que desce das folhas acumula-se acima do corte — daí o engrossamento — e deixa de alcançar a raiz, que definha. A água continua subindo, e por isso a copa demora a murchar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-417",
+   "texto_apoio": "Uma planta em vaso foi mantida durante o dia numa câmara com ar saturado de umidade. Nessas condições, a entrada de água pela raiz caiu de forma acentuada, embora o solo permanecesse úmido e a iluminação fosse a mesma dos dias anteriores.",
+   "enunciado": "No reino vegetal, o resultado se explica porque a subida de água pelo xilema depende principalmente:",
+   "alternativas": {
+    "a": "do bombeamento realizado por estruturas contráteis situadas na base do caule",
+    "b": "da pressão que o ar exerce sobre a superfície da folha, empurrando a água para dentro",
+    "c": "do transporte da seiva orgânica no sentido da folha para a raiz, ao longo do floema",
+    "d": "da transpiração na folha, que puxa a coluna de água coesa ao longo do vaso lenhoso",
+    "e": "da capilaridade nos vasos do lenho, força que por si só levaria a água ao topo de árvores de dezenas de metros"
+   },
+   "resposta": "d",
+   "explicacao": "Na teoria da coesão-tensão, a água que evapora pelos estômatos cria tensão no topo da coluna líquida; como as moléculas de água se atraem, a coluna inteira é puxada pelo xilema. Com o ar saturado, a transpiração cessa e a absorção pela raiz cai — mesmo com solo úmido. Capilaridade sozinha explica poucos centímetros.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-418",
+   "texto_apoio": "Sementes de feijão foram divididas em quatro grupos mantidos por dez dias: escuro e úmido, claro e úmido, escuro e seco, claro e seco. Germinaram apenas os dois primeiros grupos.",
+   "enunciado": "No reino vegetal, o experimento indica que, para essas sementes de angiosperma:",
+   "alternativas": {
+    "a": "a luz é o fator determinante, e a água pode ser dispensada sem prejuízo",
+    "b": "a germinação depende da presença simultânea de luz e de água, e a falta de um dos dois já basta para impedi-la",
+    "c": "o escuro impede a germinação, e a presença de água apenas acelera o processo",
+    "d": "nem a luz nem a água interferiram no resultado observado nos quatro grupos",
+    "e": "a água é determinante, e a luz não interferiu no resultado dos quatro grupos"
+   },
+   "resposta": "e",
+   "explicacao": "O delineamento cruza os dois fatores. Comparando escuro úmido com escuro seco, e claro úmido com claro seco, a água decide; comparando escuro úmido com claro úmido, a luz não altera o resultado. Para o feijão, cujo gênero e espécie são Phaseolus vulgaris, a semente germina no escuro desde que embebida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-419",
+   "texto_apoio": "Numa área de cultivo de maracujá, a produção caiu cerca de 70% depois que as mamangavas rarearam na região. Num teste, flores isoladas com saco de tecido não formaram fruto, enquanto flores que receberam pólen aplicado com pincel formaram normalmente.",
+   "enunciado": "No reino vegetal, o experimento mostra que, nessa angiosperma:",
+   "alternativas": {
+    "a": "a formação do fruto depende da chegada do pólen ao estigma da flor",
+    "b": "o fruto se forma a partir do grão de pólen depositado sobre a pétala",
+    "c": "o saco de tecido impediu a entrada de luz, e por isso a flor não frutificou",
+    "d": "o pincel substituiu a raiz na absorção da água necessária ao crescimento do fruto",
+    "e": "as mamangavas transportam sementes já formadas de uma planta a outra, e o fruto se organiza em torno delas depois do transporte"
+   },
+   "resposta": "a",
+   "explicacao": "O saco de tecido barra o polinizador, não a luz — e a flor isolada não frutifica. O pincel repõe o que faltava: o pólen no estigma. Como o fruto é o ovário desenvolvido, sem fecundação não há fruto, e é por isso que a queda das mamangavas derruba a produção do maracujazeiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-420",
+   "texto_apoio": "Um quadro comparou quatro grupos do reino vegetal quanto a três caracteres: vaso condutor, semente e fruto.",
+   "enunciado": "Assinale a alternativa que preenche corretamente as lacunas. As briófitas não apresentam _____; as samambaias apresentam vaso condutor, mas não apresentam _____; os pinheiros apresentam semente, mas não apresentam _____.",
+   "alternativas": {
+    "a": "semente … vaso condutor … flor",
+    "b": "vaso condutor … semente … fruto",
+    "c": "fruto … flor … vaso condutor",
+    "d": "vaso condutor … fruto … semente",
+    "e": "semente … fruto … vaso condutor de origem lenhosa"
+   },
+   "resposta": "b",
+   "explicacao": "A taxonomia botânica organiza os quatro grupos por acréscimo de caracteres: briófitas não têm tecido condutor; pteridófitas ganham xilema e floema, mas ainda se dispersam por esporo; gimnospermas ganham a semente, exposta na escama do estróbilo; angiospermas ganham flor e fruto, com a semente protegida.",
+   "formato": "lacunas",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-421",
+   "texto_apoio": "Uma tabela reuniu quatro organismos e o resultado de um corante específico para núcleo: num cogumelo e numa ameba o corante marcou uma estrutura bem delimitada; numa bactéria de solo e numa arquea de fonte termal não havia estrutura correspondente.",
+   "enunciado": "Na classificação dos seres vivos, o critério testado nessa tabela separa:",
+   "alternativas": {
+    "a": "os organismos microscópicos dos macroscópicos, dentro de um mesmo reino",
+    "b": "os que produzem o próprio alimento daqueles que dependem de matéria orgânica pronta",
+    "c": "os eucariontes, como o cogumelo e a ameba, dos procariontes, como a bactéria e a arquea",
+    "d": "os seres de vida livre daqueles que dependem de um hospedeiro para se multiplicar",
+    "e": "os organismos do reino Fungi dos demais, uma vez que a marcação do núcleo seria um caráter restrito a esse reino na tabela"
+   },
+   "resposta": "c",
+   "explicacao": "Ter ou não núcleo delimitado por envoltório é o corte mais profundo da taxonomia dos seres vivos. Cogumelo (reino Fungi) e ameba (reino Protista) são eucariontes; bactéria e arquea são procariontes, embora pertençam a domínios diferentes entre si. Tamanho e modo de nutrição não acompanham essa divisão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
+   "id": "med-biologia-422",
+   "texto_apoio": "Um quadro reuniu três estruturas presentes em grupos do reino vegetal e a descrição de cada uma: a cutícula cerosa que reveste a folha, o grão de pólen levado pelo vento ou por animais e a semente protegida por tegumento resistente.",
+   "enunciado": "Na classificação dos seres vivos, essas três estruturas têm em comum o fato de:",
+   "alternativas": {
+    "a": "ampliar a superfície disponível para a captação de luz pela folha",
+    "b": "permitir que o gameta masculino nade até o feminino numa película de água",
+    "c": "reduzir a altura da planta, o que diminui o gasto com a sustentação do caule",
+    "d": "reduzir a perda de água e livrar a reprodução da dependência do meio líquido",
+    "e": "manter a planta presa ao substrato úmido, condição exigida pelos grupos que não formam vaso condutor lenhoso"
+   },
+   "resposta": "d",
+   "explicacao": "As três estruturas resolvem o mesmo problema: viver fora da água. A cutícula limita a saída de vapor pela folha; o grão de pólen leva o gameta masculino até o feminino sem que ele precise nadar; o tegumento protege o embrião e a reserva durante a dispersão. Por isso gimnospermas e angiospermas ocupam ambientes secos que as briófitas não alcançam.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-diversidade",
    "id": "dir-ciencias-natureza-139",
    "banca": "fgv",
    "sessao": "fgv-unificado-2023.1",
@@ -7438,6 +8084,40 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-ecologia",
+   "id": "med-biologia-461",
+   "texto_apoio": "Em um trecho de mata foi descrita a seguinte teia alimentar:\n\ncapim → gafanhoto → sapo → serpente → gavião\n\nMediu-se a energia acumulada em cada nível trófico e observou-se queda acentuada de um nível para o seguinte.",
+   "enunciado": "Sobre o fluxo de energia representado nessa teia alimentar, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "a energia disponível diminui a cada nível trófico porque boa parte dela é dissipada como calor pelos organismos e não fica acumulada na biomassa",
+    "b": "a energia retorna ao capim pela ação dos decompositores, o que fecharia um ciclo em que a quantidade disponível para os produtores se manteria constante ao longo das estações do ano",
+    "c": "o gavião dispõe de mais energia que o gafanhoto, pois ocupa o nível mais alto e reúne o que foi produzido nos níveis anteriores",
+    "d": "a perda de energia entre os níveis ocorre porque os consumidores primários deixam de fixar o carbono que o capim fixa",
+    "e": "o número de níveis tróficos da cadeia independe da energia disponível, sendo determinado pela riqueza de espécies do ecossistema"
+   },
+   "resposta": "a",
+   "explicacao": "O fluxo de energia num ecossistema é unidirecional e decrescente: de cada nível trófico para o seguinte passa cerca de 10% do que havia, porque o restante é dissipado como calor nos processos metabólicos ou sai como matéria não assimilada. É essa perda que limita o número de níveis de uma cadeia e faz do gavião o nível de menor energia acumulada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
+   "id": "med-biologia-462",
+   "texto_apoio": "O escoamento de fertilizantes de lavouras vizinhas elevou muito a concentração de nitrato e de fosfato na água de um reservatório. Meses depois, a superfície ficou coberta por uma camada verde densa e os peixes que viviam no fundo morreram.",
+   "enunciado": "Esse processo é chamado eutrofização. A mortandade dos peixes de fundo do reservatório se explica porque:",
+   "alternativas": {
+    "a": "os nutrientes em excesso são tóxicos para os peixes e provocam a morte por contaminação da água do reservatório",
+    "b": "a camada verde eleva a temperatura da água e a queda de densidade daí resultante empurraria os peixes para as regiões rasas",
+    "c": "o nitrato eleva o pH da água a ponto de dissolver as estruturas de sustentação dos peixes, que assim perderiam a capacidade de se manter no fundo do reservatório",
+    "d": "a camada superficial barra a entrada de luz e a ação dos decompositores sobre a matéria morta consome o oxigênio dissolvido no fundo",
+    "e": "o fosfato se acumula nos tecidos dos peixes de fundo por bioacumulação e interrompe a captação de oxigênio pelas brânquias"
+   },
+   "resposta": "d",
+   "explicacao": "O excesso de nutrientes dispara a proliferação de organismos fotossintetizantes na superfície. A camada formada bloqueia a luz, e o material que morre e afunda é degradado pelos decompositores aeróbios do fundo. Esse consumo derruba o oxigênio dissolvido nas camadas profundas, e a fauna de fundo morre por asfixia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-ecologia",
    "id": "dir-ciencias-natureza-11",
    "texto_apoio": "A separação de resíduos sólidos urbanos em recicláveis e não recicláveis é uma prática incentivada por políticas públicas de gestão ambiental.",
    "enunciado": "Do ponto de vista químico, uma das razões pelas quais plásticos comuns, como o PET, demoram muito tempo para se decompor no ambiente é",
@@ -8203,6 +8883,652 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A nomenclatura binomial, criada por Lineu, atribui a cada ser vivo um nome científico de duas palavras em latim: a primeira indica o gênero, a segunda distingue a espécie dentro desse gênero — como em Homo sapiens. As demais alternativas descrevem outros sistemas ou conceitos reais da biologia, mas distintos dessa nomenclatura de duas palavras.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-423",
+   "texto_apoio": "Duas explicações para o pescoço longo das girafas foram apresentadas numa aula. Na primeira, o esforço de alcançar ramos altos alongaria o pescoço de cada indivíduo, e esse ganho passaria aos filhotes. Na segunda, já havia variação de comprimento entre os indivíduos, e os de pescoço mais longo deixaram mais filhotes.",
+   "enunciado": "Do ponto de vista evolutivo, as duas explicações correspondem, respectivamente, às ideias de:",
+   "alternativas": {
+    "a": "Lamarck e Darwin",
+    "b": "Darwin e Lamarck",
+    "c": "Darwin e Wallace",
+    "d": "Lamarck e Mendel",
+    "e": "Cuvier e Lamarck, nessa ordem de apresentação"
+   },
+   "resposta": "a",
+   "explicacao": "A primeira explicação é a lei do uso e desuso somada à transmissão dos caracteres adquiridos, de Lamarck: o traço aparece durante a vida e passa adiante. A segunda é a seleção natural de Darwin: a variação já existe no grupo, e o ambiente decide quem deixa mais descendência. A adaptação, aqui, é resultado da seleção, não causa dela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-424",
+   "texto_apoio": "Antes da industrialização inglesa, mariposas de asas claras predominavam sobre troncos cobertos de líquen, e a forma escura era rara. Com a fuligem das fábricas, os troncos escureceram e a forma escura passou a predominar. Décadas depois do controle das emissões, a forma clara voltou a ser a mais frequente.",
+   "enunciado": "Do ponto de vista evolutivo, o caso é usado como demonstração de seleção natural porque:",
+   "alternativas": {
+    "a": "a fuligem alterou diretamente a cor das asas ao longo da vida de cada mariposa",
+    "b": "as duas formas já existiam, e o ambiente alterou a chance de sobrevivência de cada uma",
+    "c": "as mariposas escureceram por esforço para se esconder e transmitiram esse esforço aos filhotes",
+    "d": "a forma escura surgiu depois da industrialização, como resposta dirigida ao novo tronco",
+    "e": "a forma escura desapareceu por completo durante o período industrial e teve de ser reintroduzida na região quando os troncos voltaram a clarear"
+   },
+   "resposta": "b",
+   "explicacao": "As duas formas eram conhecidas antes da industrialização: a variação é anterior à pressão seletiva. O que a fuligem mudou foi a visibilidade de cada uma sobre o tronco, e portanto a chance de escapar dos predadores — daí a inversão de frequência e o retorno depois da limpeza do ar. Nada no caso exige que o ambiente crie a variação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-425",
+   "texto_apoio": "Num experimento, besouros de duas cores foram soltos em dois recintos com solo de tonalidade diferente. Após seis gerações, em cada recinto predominavam os besouros de cor semelhante à do solo, embora as duas formas continuassem presentes nos dois recintos.",
+   "enunciado": "Do ponto de vista evolutivo, o resultado indica que:",
+   "alternativas": {
+    "a": "os besouros mudaram de cor para se ajustar ao solo de cada um dos recintos",
+    "b": "a seleção natural criou a variação de cor observada no início do experimento",
+    "c": "a seleção natural atuou sobre variação preexistente, alterando a proporção das formas",
+    "d": "o resultado se deve ao acaso, já que as duas formas continuaram presentes nos recintos",
+    "e": "a cor do solo modificou o material hereditário dos besouros no sentido exigido pelo ambiente de cada recinto"
+   },
+   "resposta": "c",
+   "explicacao": "Seleção natural não gera variação: ela filtra a que já existe. Como as duas cores estavam presentes desde o início e continuaram presentes ao fim, o que mudou foi a proporção entre elas — resultado esperado quando a cor do solo altera a chance de o besouro ser localizado. A adaptação observada é consequência desse filtro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-426",
+   "texto_apoio": "Três gráficos foram apresentados: no primeiro, recém-nascidos de peso muito baixo ou muito alto tiveram menor sobrevivência; no segundo, o comprimento médio do bico numa ilha aumentou após uma seca prolongada; no terceiro, uma população dividida entre dois tipos de alimento passou a concentrar indivíduos nos dois extremos de tamanho.",
+   "enunciado": "Do ponto de vista evolutivo, os três padrões correspondem, respectivamente, a seleção:",
+   "alternativas": {
+    "a": "direcional, estabilizadora e disruptiva",
+    "b": "disruptiva, direcional e estabilizadora",
+    "c": "estabilizadora, disruptiva e direcional",
+    "d": "estabilizadora, direcional e disruptiva",
+    "e": "direcional, disruptiva e estabilizadora, nessa ordem"
+   },
+   "resposta": "d",
+   "explicacao": "Seleção estabilizadora elimina os extremos e mantém a média — o caso clássico do peso ao nascer. Direcional desloca a média para um dos lados, como o bico maior após a seca. Disruptiva favorece os dois extremos e desfavorece o intermediário, situação que pode iniciar um processo de especiação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-427",
+   "texto_apoio": "Um rio de curso novo dividiu em duas a área ocupada por uma espécie de roedor. Milhares de gerações depois, indivíduos das duas margens foram reunidos em laboratório: houve acasalamento, mas os filhotes nasceram estéreis.",
+   "enunciado": "Do ponto de vista evolutivo, o episódio descrito é um caso de:",
+   "alternativas": {
+    "a": "especiação alopátrica, com isolamento geográfico seguido de isolamento reprodutivo",
+    "b": "especiação simpátrica, sem separação física entre os dois grupos de roedores",
+    "c": "deriva genética pura, sem interrupção do fluxo gênico entre as duas margens",
+    "d": "convergência entre linhagens distintas que passaram a ocupar a mesma margem do rio",
+    "e": "hibridação bem-sucedida, uma vez que os indivíduos das duas margens ainda produziram filhotes ao serem reunidos em laboratório"
+   },
+   "resposta": "a",
+   "explicacao": "O rio interrompeu o fluxo gênico entre as margens: é isolamento geográfico, e a especiação que se segue chama-se alopátrica. Filhote estéril indica que a barreira deixou de ser apenas geográfica e passou a ser reprodutiva — o critério de espécie biológica já não é satisfeito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-428",
+   "texto_apoio": "Duas espécies de anfíbios ocupam o mesmo brejo. A primeira vocaliza e desova em outubro; a segunda, em janeiro. Quando gametas das duas são reunidos em laboratório, formam-se zigotos que interrompem o desenvolvimento nas primeiras divisões.",
+   "enunciado": "Do ponto de vista evolutivo, os dois fatos descritos correspondem, respectivamente, a mecanismos de isolamento:",
+   "alternativas": {
+    "a": "pós-zigótico e pré-zigótico",
+    "b": "pré-zigótico e pós-zigótico",
+    "c": "pré-zigótico nos dois casos descritos",
+    "d": "pós-zigótico nos dois casos descritos",
+    "e": "geográfico no primeiro caso e comportamental no segundo caso"
+   },
+   "resposta": "b",
+   "explicacao": "Desovar em meses diferentes impede o encontro dos gametas: é isolamento pré-zigótico, do tipo sazonal. Já o zigoto que se forma e não vinga é isolamento pós-zigótico, medido depois da fecundação. Os dois mecanismos mantêm separadas espécies que dividem a mesma área — é o caso da especiação simpátrica, que dispensa barreira geográfica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-429",
+   "texto_apoio": "Um grupo de vinte pessoas deixou o continente e colonizou uma ilha isolada. Séculos depois, uma condição hereditária rara, presente em um único dos fundadores, aparecia em 8% dos habitantes da ilha e em 0,01% dos habitantes do continente.",
+   "enunciado": "Do ponto de vista evolutivo, a diferença observada se explica principalmente por:",
+   "alternativas": {
+    "a": "seleção natural favorável a essa condição no ambiente da ilha",
+    "b": "aumento da taxa de erro de cópia do material hereditário nos habitantes da ilha, provocado pelo isolamento",
+    "c": "fluxo gênico intenso entre a ilha e o continente ao longo dos séculos",
+    "d": "convergência entre os dois grupos, submetidos a pressões semelhantes",
+    "e": "efeito fundador, um caso de deriva genética ligado ao número pequeno de colonizadores"
+   },
+   "resposta": "e",
+   "explicacao": "Quando poucos indivíduos fundam um grupo isolado, a amostra que eles carregam não representa a variação do grupo de origem: uma condição rara no continente pode entrar na ilha em proporção alta e permanecer alta. É deriva genética — efeito do acaso amostral, não de vantagem seletiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-430",
+   "texto_apoio": "Um quadro comparou o darwinismo original com a teoria sintética formulada na primeira metade do século XX. A segunda incorporou o que se descobriu sobre a origem da variação hereditária e sobre o comportamento das frequências dessas variantes ao longo das gerações.",
+   "enunciado": "Do ponto de vista evolutivo, o que a teoria sintética acrescentou ao darwinismo foi:",
+   "alternativas": {
+    "a": "a explicação da origem da variação por erro de cópia e recombinação, ausente em Darwin",
+    "b": "a ideia de que o ambiente dirige a variação no sentido que lhe é conveniente",
+    "c": "a herança dos caracteres adquiridos ao longo da vida de cada indivíduo",
+    "d": "a substituição da seleção natural pela deriva genética como fator único",
+    "e": "a proposta de que as espécies são fixas e de que o registro do passado apenas documenta catástrofes sucessivas"
+   },
+   "resposta": "a",
+   "explicacao": "Darwin descreveu a seleção natural sem saber de onde vinha a variação nem como ela era transmitida. A teoria sintética juntou o darwinismo ao conhecimento sobre hereditariedade: erro de cópia e recombinação geram variação ao acaso; seleção, deriva genética e fluxo gênico alteram a frequência dessas variantes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-431",
+   "texto_apoio": "Um esquema comparou o membro anterior de um morcego, de uma baleia e de um cavalo: os três têm os mesmos ossos, na mesma sequência, com formas e proporções distintas. Ao lado, comparou a asa do morcego com a asa de um inseto, que não compartilham nenhum osso e diferem por completo na estrutura interna.",
+   "enunciado": "Do ponto de vista evolutivo, os dois conjuntos ilustram, respectivamente:",
+   "alternativas": {
+    "a": "órgãos análogos e órgãos homólogos",
+    "b": "órgãos vestigiais e órgãos homólogos",
+    "c": "órgãos homólogos e órgãos análogos",
+    "d": "convergência no primeiro conjunto e divergência no segundo",
+    "e": "órgãos homólogos nos dois conjuntos, já que ambos servem ao voo do animal"
+   },
+   "resposta": "c",
+   "explicacao": "Órgãos homólogos têm a mesma origem e podem ter funções diferentes — é o caso do membro anterior dos três mamíferos, herdado de um ancestral comum. Órgãos análogos têm a mesma função e origens diferentes, como as duas asas comparadas. Homologia indica parentesco; analogia indica pressão semelhante sobre linhagens distintas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-432",
+   "texto_apoio": "O golfinho, o tubarão e o extinto ictiossauro têm corpo fusiforme e nadadeiras de contorno parecido. O primeiro é mamífero, o segundo é peixe e o terceiro era réptil marinho conhecido pelo registro fóssil.",
+   "enunciado": "Do ponto de vista evolutivo, a semelhança de forma entre os três indica:",
+   "alternativas": {
+    "a": "parentesco próximo entre os três, revelado pelo formato do corpo",
+    "b": "que os três descendem de um ancestral comum exclusivo, do qual herdaram a nadadeira",
+    "c": "que a nadadeira dos três é um órgão homólogo, de mesma origem embrionária",
+    "d": "convergência: linhagens distintas sob pressão semelhante chegaram a formas parecidas",
+    "e": "que o ictiossauro é o ancestral direto do golfinho e do tubarão, conforme a sucessão de camadas em que o registro fóssil foi encontrado"
+   },
+   "resposta": "d",
+   "explicacao": "As nadadeiras dos três são órgãos análogos: cumprem a mesma função no mesmo meio, mas vêm de linhagens separadas. Semelhança de forma, sozinha, não é evidência de parentesco — é o erro que a anatomia comparada aprendeu a evitar ao distinguir homologia de analogia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-433",
+   "texto_apoio": "Uma lista reuniu estruturas humanas de função reduzida ou ausente: os músculos que movimentam a orelha externa, o cóccix e o apêndice vermiforme. Em outros mamíferos, as estruturas correspondentes têm função clara e tamanho proporcionalmente maior.",
+   "enunciado": "Do ponto de vista evolutivo, essas estruturas são tomadas como evidência porque:",
+   "alternativas": {
+    "a": "surgiram na espécie humana sem correspondência nos demais vertebrados",
+    "b": "são órgãos homólogos aos de outros mamíferos, sinal de ancestral comum entre eles",
+    "c": "resultam do desuso ao longo da vida de cada pessoa, e esse desuso passa aos filhos",
+    "d": "provam que a espécie humana descende diretamente dos macacos hoje existentes",
+    "e": "indicam que a espécie humana teria perdido a capacidade de responder às pressões do ambiente ao longo do tempo geológico"
+   },
+   "resposta": "b",
+   "explicacao": "Estruturas vestigiais são homólogas a órgãos funcionais de outras linhagens: a orelha móvel do cão, a cauda de outros mamíferos, o ceco volumoso dos herbívoros. A presença do resto sem a função é difícil de explicar sem ancestralidade comum, e é por isso que ela conta como evidência — não pelo desuso individual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-434",
+   "texto_apoio": "Numa encosta sedimentar, três camadas sobrepostas e não revolvidas guardavam restos de organismos distintos. A camada mais profunda trouxe apenas formas marinhas; a intermediária, formas marinhas e de água doce; a superior, formas terrestres.",
+   "enunciado": "Do ponto de vista evolutivo, a leitura correta do registro fóssil dessa encosta é:",
+   "alternativas": {
+    "a": "as camadas mais profundas são as mais recentes, porque foram cobertas depois das demais",
+    "b": "os organismos das três camadas viveram ao mesmo tempo e foram separados pela ação da água",
+    "c": "as camadas mais profundas são as mais antigas, e a sequência registra a ocupação de novos ambientes",
+    "d": "a presença de formas marinhas na base indica que a região se elevou e afundou várias vezes",
+    "e": "os restos das três camadas pertencem à mesma espécie em estágios distintos de decomposição, o que impede a leitura temporal da encosta"
+   },
+   "resposta": "c",
+   "explicacao": "Em terreno sedimentar não revolvido vale a superposição: a camada de baixo é a mais antiga. A sequência marinho, marinho mais dulcícola, terrestre acompanha a ordem em que os grupos aparecem no registro fóssil e é uma das evidências clássicas de que a vida mudou ao longo do tempo geológico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-435",
+   "texto_apoio": "O Archaeopteryx, conhecido por exemplares do Jurássico, tem penas e furcula, como as aves atuais, e também dentes, garras nos dedos da asa e cauda longa sustentada por vértebras, como certos répteis do mesmo período.",
+   "enunciado": "Do ponto de vista evolutivo, um fóssil com esse conjunto de caracteres é chamado de forma de transição porque:",
+   "alternativas": {
+    "a": "reúne caracteres de dois grupos e por isso é o ancestral direto de ambos",
+    "b": "mostra que as aves atuais descendem sem alteração dos répteis do Jurássico",
+    "c": "prova que os dois grupos surgiram ao mesmo tempo e não compartilharam ancestral",
+    "d": "indica que os caracteres de réptil foram adquiridos pelo animal ao longo da própria vida e transmitidos adiante",
+    "e": "documenta a combinação de caracteres esperada perto do ponto de separação entre linhagens"
+   },
+   "resposta": "e",
+   "explicacao": "Forma de transição não quer dizer ancestral direto: quer dizer que o organismo exibe a mistura de caracteres que se espera de uma linhagem próxima da separação entre dois grupos. O Archaeopteryx sustenta o parentesco entre dinossauros terópodes e aves sem que seja preciso colocá-lo na linha direta de descendência.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-436",
+   "texto_apoio": "As raças de cão descendem do lobo. Ao longo de milhares de anos, criadores escolheram para reprodução os indivíduos que traziam o traço desejado — porte, formato do focinho, tipo de pelagem — e afastaram os demais do acasalamento.",
+   "enunciado": "Do ponto de vista evolutivo, Darwin recorreu a esse tipo de caso como argumento porque a seleção artificial:",
+   "alternativas": {
+    "a": "prova que o criador consegue produzir variação nova onde ela não existia antes",
+    "b": "demonstra que os traços obtidos pelo treino do animal passam à geração seguinte",
+    "c": "indica que o ambiente natural não exerce pressão sobre os grupos de vida livre",
+    "d": "mostra que escolher quem se reproduz altera as características do grupo em poucas gerações",
+    "e": "revela que as raças de cão pertencem a espécies distintas, incapazes de gerar filhotes viáveis quando reunidas"
+   },
+   "resposta": "d",
+   "explicacao": "Darwin usou o que criadores já faziam como analogia visível de um processo lento: se a escolha humana de quem se acasala transforma o lobo em dezenas de raças em alguns milhares de anos, a seleção natural, ao longo de milhões de anos, pode ir muito além. A variação, nos dois casos, é anterior à escolha e não foi criada por ela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-437",
+   "texto_apoio": "Ratos de pelagem clara e escura foram soltos em duas áreas de campo: uma de areia clara e outra de rocha escura. A sobrevivência após seis meses foi de 61% para os claros na areia e 22% na rocha; para os escuros, foi de 24% na areia e 58% na rocha.",
+   "enunciado": "Do ponto de vista evolutivo, os dados sustentam que a adaptação:",
+   "alternativas": {
+    "a": "é qualidade fixa do indivíduo, independente do terreno em que ele vive",
+    "b": "é relativa ao ambiente: a mesma pelagem é vantajosa numa área e desvantajosa na outra",
+    "c": "surge por esforço do animal para se assemelhar ao terreno em que foi solto",
+    "d": "depende do número de indivíduos soltos, e não da cor da pelagem de cada um",
+    "e": "é adquirida ao longo da vida do animal e transmitida aos filhotes nascidos no mesmo terreno"
+   },
+   "resposta": "b",
+   "explicacao": "Os quatro números formam um cruzamento completo: cada pelagem tem sobrevivência alta num terreno e baixa no outro. Isso mostra que não existe pelagem melhor em termos absolutos — vantagem só faz sentido diante de uma pressão seletiva determinada, e é isso que a palavra adaptação significa em biologia evolutiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-438",
+   "texto_apoio": "Num arquipélago, pássaros de uma mesma linhagem ocuparam ilhas com recursos distintos. Hoje cada ilha abriga formas de bico diferente: fino e longo onde predominam insetos; curto e robusto onde predominam sementes de casca dura.",
+   "enunciado": "Do ponto de vista evolutivo, o quadro descrito é um caso de:",
+   "alternativas": {
+    "a": "convergência, já que formas de origem distinta chegaram ao mesmo tipo de bico",
+    "b": "deriva genética, uma vez que apenas o acaso definiu o bico de cada ilha",
+    "c": "radiação adaptativa: de um ancestral comum saíram formas ajustadas a recursos distintos",
+    "d": "seleção artificial, pois o formato do bico foi escolhido por criadores nas ilhas",
+    "e": "herança de caracteres adquiridos, já que o esforço de abrir sementes teria engrossado o bico ao longo da vida de cada pássaro"
+   },
+   "resposta": "c",
+   "explicacao": "Radiação adaptativa é a diversificação rápida de uma linhagem que encontra ambientes livres e recursos variados: de um ancestral comum saem formas especializadas, cada uma sob a pressão seletiva da sua ilha. É o oposto da convergência, em que linhagens separadas chegam a soluções parecidas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-439",
+   "texto_apoio": "Duas áreas de mata separadas por pasto abrigam grupos do mesmo primata. Depois que um corredor arborizado ligou as duas áreas, o intercâmbio de indivíduos passou de raro a frequente, e as diferenças entre os dois grupos diminuíram ao longo de vinte anos.",
+   "enunciado": "Do ponto de vista evolutivo, o efeito descrito corresponde ao aumento de:",
+   "alternativas": {
+    "a": "deriva genética, que amplia a diferença entre grupos mantidos isolados",
+    "b": "seleção natural contra os indivíduos que atravessam o corredor arborizado",
+    "c": "isolamento reprodutivo entre os dois grupos de mata",
+    "d": "fluxo gênico, que torna os dois grupos mais parecidos entre si",
+    "e": "especiação simpátrica, resultado esperado quando dois grupos passam a ocupar a mesma área de mata"
+   },
+   "resposta": "d",
+   "explicacao": "Fluxo gênico é a troca de variantes hereditárias entre grupos por migração de indivíduos. Enquanto o pasto isolava as manchas, cada grupo seguia caminho próprio e a diferença entre eles crescia; o corredor restabeleceu a troca e homogeneizou os dois — efeito oposto ao da deriva genética em isolamento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-440",
+   "texto_apoio": "Um quadro comparou três formas do gênero Homo pela capacidade craniana média e pelo tipo de instrumento associado a cada uma nos sítios escavados: 600 cm³ com lascas simples; 900 cm³ com machados bifaces; 1.350 cm³ com instrumentos compostos e pigmentos.",
+   "enunciado": "Do ponto de vista evolutivo, a leitura correta desse quadro é:",
+   "alternativas": {
+    "a": "as três formas são estágios da vida de um mesmo indivíduo, do jovem ao adulto",
+    "b": "a espécie humana atual descende das espécies de macaco hoje existentes",
+    "c": "o aumento da capacidade craniana decorreu do esforço individual de aprendizagem",
+    "d": "as três formas viveram exatamente na mesma época e no mesmo continente, sem parentesco documentado entre elas",
+    "e": "o registro fóssil documenta linhagens sucessivas, com ganho de capacidade craniana e de complexidade técnica"
+   },
+   "resposta": "e",
+   "explicacao": "O registro fóssil do gênero Homo mostra uma sequência de linhagens, algumas contemporâneas entre si, com tendência de aumento da capacidade craniana e sofisticação das indústrias líticas. Nenhuma dessas formas é estágio de vida de outra, e a espécie humana não descende dos macacos atuais: ambos partem de ancestral comum.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-441",
+   "texto_apoio": "Uma árvore evolutiva reuniu quatro espécies. O nó mais recente une B e C; o nó imediatamente anterior liga esse par a D; A parte do nó mais antigo, na base da árvore.",
+   "enunciado": "Do ponto de vista evolutivo, a leitura correta dessa filogenia é:",
+   "alternativas": {
+    "a": "B e C compartilham um ancestral comum mais recente entre si do que com D",
+    "b": "A é a espécie mais primitiva e deu origem diretamente às outras três",
+    "c": "D descende de B e de C, por ocupar um nó anterior na árvore",
+    "d": "as quatro espécies surgiram ao mesmo tempo, e os nós indicam apenas semelhança de forma",
+    "e": "a ordem dos ramos indica o grau de complexidade de cada espécie, do mais simples ao mais complexo, e não o parentesco entre elas"
+   },
+   "resposta": "a",
+   "explicacao": "Numa filogenia, o que importa é a posição dos nós: quanto mais recente o nó que une dois ramos, mais próximo o parentesco. A partir do nó basal, A é grupo-irmão do conjunto formado por D, B e C — e não ancestral deles. As espécies do topo são todas atuais; nenhuma é mais primitiva que a outra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-442",
+   "texto_apoio": "Redi colocou pedaços de carne em dois conjuntos de frascos: uns abertos, outros vedados com gaze fina que deixava passar o ar. Nos frascos abertos surgiram larvas sobre a carne; nos vedados, as larvas apareceram apenas sobre a gaze, e não no interior.",
+   "enunciado": "Na discussão sobre a origem da vida, o experimento de Redi foi decisivo porque:",
+   "alternativas": {
+    "a": "mostrou que as larvas vinham de ovos depositados por moscas, e não da carne em decomposição",
+    "b": "provou que seres vivos surgem da matéria sem vida desde que haja calor e umidade",
+    "c": "demonstrou que a gaze fornecia o princípio necessário à formação das larvas",
+    "d": "indicou que a carne dos frascos vedados estava alterada antes do início do teste",
+    "e": "estabeleceu que microrganismos resistem à fervura e por isso reaparecem em frascos fechados, o que encerrou o debate sobre a geração espontânea"
+   },
+   "resposta": "a",
+   "explicacao": "A gaze deixava passar o ar e barrava a mosca: com isso Redi separou as duas explicações concorrentes e mostrou que a larva vinha do ovo, não da carne. É o primeiro golpe sério na abiogênese, e a questão que ele trata — como a vida aparece — é distinta da que a seleção natural de Darwin explica, que é a diversificação das linhagens.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-443",
+   "texto_apoio": "Pasteur ferveu caldo nutritivo em frascos de pescoço longo e curvo, mantidos abertos para o ar. O caldo permaneceu límpido por meses. Quando o pescoço era quebrado, ou o frasco inclinado até que o líquido molhasse a curva, o caldo turvava em poucos dias.",
+   "enunciado": "Na discussão sobre a origem da vida, esse resultado sustenta que:",
+   "alternativas": {
+    "a": "o ar carrega o princípio vital que anima a matéria sem vida presente no caldo",
+    "b": "os microrganismos vieram do ar e ficaram retidos na curva do pescoço, e não do caldo",
+    "c": "a fervura destrói o princípio vital, o que impede o surgimento de vida nesses frascos",
+    "d": "o pescoço curvo impede a entrada de ar, e sem ar não ocorre geração espontânea",
+    "e": "o caldo turvou apenas nos frascos inclinados porque a inclinação alterou a composição química do meio de cultura"
+   },
+   "resposta": "b",
+   "explicacao": "O pescoço em S deixa o ar entrar e retém as partículas em suspensão na curva úmida. Como o caldo fervido continua límpido enquanto a curva está íntegra, e turva assim que o líquido a alcança, a contaminação vem de fora — é a demonstração da biogênese, que encerrou o debate sobre a geração espontânea.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-444",
+   "texto_apoio": "Pela hipótese de Oparin e Haldane, a atmosfera primitiva seria rica em metano, amônia, hidrogênio e vapor de água. Descargas elétricas e radiação teriam formado compostos orgânicos que se acumularam nos mares rasos e depois se agregaram em aglomerados envoltos por um filme de água.",
+   "enunciado": "Na discussão sobre a origem da vida, esses aglomerados são conhecidos como:",
+   "alternativas": {
+    "a": "esporos trazidos do espaço por corpos celestes em queda",
+    "b": "restos mineralizados preservados em rocha sedimentar antiga",
+    "c": "coacervados, agregados que concentravam moléculas e trocavam material com o meio",
+    "d": "aglomerados minerais capazes de se multiplicar sem participação de matéria orgânica",
+    "e": "seres vivos completos, já dotados de material hereditário e de metabolismo autossuficiente desde o momento em que se formaram"
+   },
+   "resposta": "c",
+   "explicacao": "Coacervado é o nome que Oparin deu ao agregado de moléculas orgânicas envolto por água organizada, capaz de concentrar substâncias e trocar material com o meio. Não é ser vivo: é um modelo de etapa intermediária entre a matéria orgânica dispersa e um sistema capaz de se manter e se duplicar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-445",
+   "texto_apoio": "Miller montou um sistema fechado com metano, amônia, hidrogênio e vapor de água, submetido a descargas elétricas contínuas, com um condensador que recolhia o líquido resultante. Após uma semana, o líquido continha aminoácidos e outros compostos orgânicos simples.",
+   "enunciado": "Na discussão sobre a origem da vida, o que o experimento de Miller demonstrou foi que:",
+   "alternativas": {
+    "a": "a vida surgiu dentro do aparelho, a partir da descarga elétrica aplicada ao sistema",
+    "b": "os aminoácidos recolhidos já formavam seres capazes de se multiplicar sozinhos",
+    "c": "a atmosfera atual produz os mesmos compostos, com ou sem descarga elétrica",
+    "d": "compostos orgânicos podem se formar a partir de matéria inorgânica em condições abióticas",
+    "e": "os compostos orgânicos da Terra primitiva chegaram prontos do espaço, conforme o resultado do aparelho poderia sugerir"
+   },
+   "resposta": "d",
+   "explicacao": "Miller não produziu vida nem algo próximo disso: produziu blocos de construção. O alcance do resultado é mostrar que a etapa química da hipótese de Oparin e Haldane é possível — moléculas orgânicas se formam sem ser vivo envolvido, dadas certas condições de atmosfera e energia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-446",
+   "texto_apoio": "Meteoritos analisados em laboratório trouxeram aminoácidos e outros compostos orgânicos formados fora da Terra. Alguns pesquisadores tomam esse dado como apoio à ideia de que os primeiros compostos, ou mesmo formas de vida simples, teriam chegado ao planeta vindos do espaço.",
+   "enunciado": "Na discussão sobre a origem da vida, essa ideia é a panspermia, e a principal objeção que se lhe faz é que ela:",
+   "alternativas": {
+    "a": "contraria a presença de compostos orgânicos nos meteoritos já analisados",
+    "b": "supõe uma atmosfera primitiva rica em oxigênio livre, condição incompatível com o registro das rochas mais antigas do planeta",
+    "c": "exige que a vida tenha surgido no fundo de fontes hidrotermais oceânicas",
+    "d": "nega que existam aminoácidos formados fora do ambiente terrestre",
+    "e": "desloca o problema de lugar sem resolvê-lo, pois não explica como a vida surgiu na origem"
+   },
+   "resposta": "e",
+   "explicacao": "A panspermia é compatível com os compostos orgânicos encontrados em meteoritos, e nesse ponto tem apoio empírico. O que ela não faz é responder à pergunta: se a vida veio de outro corpo celeste, resta explicar como surgiu lá. Por isso é tratada como hipótese sobre a chegada da vida, não sobre a origem dela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-447",
+   "texto_apoio": "Num hospital, uma cepa bacteriana deixou de responder ao antibiótico usado havia anos. O laboratório verificou que amostras da mesma cepa, guardadas de uma década antes do início do uso rotineiro, já traziam em frequência baixa a variante que permite sobreviver ao medicamento.",
+   "enunciado": "Do ponto de vista evolutivo, o quadro descrito indica que:",
+   "alternativas": {
+    "a": "o antibiótico selecionou variantes já presentes na cepa, e não as induziu",
+    "b": "o antibiótico modificou o material hereditário das bactérias no sentido de torná-las resistentes",
+    "c": "as bactérias adquiriram a característica pelo esforço de sobreviver a cada dose aplicada",
+    "d": "a variante resistente apareceu somente depois do início do uso rotineiro no hospital",
+    "e": "suspender o antibiótico eliminaria de imediato a variante resistente, uma vez que ela deixaria de ser útil à cepa"
+   },
+   "resposta": "a",
+   "explicacao": "A amostra anterior ao uso do medicamento é o dado decisivo: a variante já existia quando ainda não havia pressão nenhuma a favor dela. A resistência a antibióticos é, portanto, caso de seleção natural sobre variação preexistente — o medicamento filtra, não cria. A adaptação da cepa ao ambiente hospitalar é consequência desse filtro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-448",
+   "texto_apoio": "Uma lavoura recebeu o mesmo inseticida durante dez safras. A dose necessária para controlar a praga subiu de 1 para 6 litros por hectare. Amostras de insetos coletadas antes da primeira aplicação já continham indivíduos capazes de sobreviver à dose original.",
+   "enunciado": "Do ponto de vista evolutivo, o aumento da dose necessária se explica por:",
+   "alternativas": {
+    "a": "acostumamento dos insetos ao produto ao longo da própria vida de cada indivíduo",
+    "b": "seleção, a cada safra, dos indivíduos que já sobreviviam à dose então aplicada",
+    "c": "perda de potência do inseticida guardado no depósito entre uma safra e outra",
+    "d": "aparecimento de uma praga diferente na lavoura a partir da quinta safra",
+    "e": "indução direta da característica pelo produto, que teria alterado o material hereditário dos insetos expostos a ele"
+   },
+   "resposta": "b",
+   "explicacao": "É o mesmo mecanismo da resistência a inseticida em qualquer lavoura tratada por muitos ciclos: cada aplicação elimina os sensíveis e deixa os sobreviventes gerarem a safra seguinte, de modo que a proporção de resistentes sobe a cada geração. A variação vem antes do produto — as amostras iniciais provam isso —, e a adaptação da praga é resultado da seleção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-449",
+   "texto_apoio": "Uma tabela trouxe o número de diferenças numa mesma proteína entre a espécie humana e quatro outras espécies: chimpanzé, 0 diferenças; cavalo, 12; galinha, 13; levedura, 44.",
+   "enunciado": "Do ponto de vista evolutivo, uma tabela como essa é usada em filogenia porque:",
+   "alternativas": {
+    "a": "o número de diferenças mede a complexidade de cada espécie listada",
+    "b": "espécies com mais diferenças são necessariamente mais recentes que as demais",
+    "c": "quanto menor o número de diferenças, mais recente o ancestral comum entre as espécies",
+    "d": "a levedura descende da galinha, por apresentar o maior número de diferenças",
+    "e": "a ausência de diferença entre a espécie humana e o chimpanzé indicaria que as duas formam hoje uma única espécie biológica"
+   },
+   "resposta": "c",
+   "explicacao": "Diferenças em moléculas homólogas se acumulam com o tempo desde a separação das linhagens. Poucas diferenças indicam separação recente; muitas, separação antiga. Por isso a comparação de sequências sustenta árvores evolutivas sem depender de anatomia — e por isso ela não mede complexidade nem descendência direta entre as espécies atuais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-450",
+   "texto_apoio": "Um cladograma reuniu cinco grupos. O caráter coluna vertebral aparece no nó que reúne quatro deles; mandíbula, no nó que reúne três; membro locomotor com dígitos, no nó que reúne dois.",
+   "enunciado": "Do ponto de vista evolutivo, a leitura correta desse cladograma é:",
+   "alternativas": {
+    "a": "a mandíbula é o mais antigo dos três caracteres apresentados no esquema",
+    "b": "os cinco grupos surgiram ao mesmo tempo, e os nós ordenam apenas o porte de cada um",
+    "c": "o grupo que ficou fora do primeiro nó é o ancestral direto dos outros quatro",
+    "d": "cada caráter surge num nó e passa a estar presente nos grupos que dele derivam",
+    "e": "o membro com dígitos é o caráter mais antigo, pois aparece no nó que reúne o menor número de grupos do esquema"
+   },
+   "resposta": "d",
+   "explicacao": "Numa filogenia, o caráter marcado num nó é compartilhado pelos ramos que saem dele — é o que se chama caráter derivado compartilhado. Quanto mais grupos um caráter abrange, mais antigo é o nó em que surgiu: a coluna vertebral precede a mandíbula, que precede o membro com dígitos. Nenhum grupo do topo é ancestral de outro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-451",
+   "texto_apoio": "Cinco episódios de perda acentuada de linhagens marcam o registro fóssil dos últimos 540 milhões de anos. Depois de cada um deles, grupos que sobreviveram se diversificaram com rapidez e passaram a ocupar ambientes antes dominados por outras linhagens.",
+   "enunciado": "Do ponto de vista evolutivo, o padrão que se repete após cada extinção em massa é:",
+   "alternativas": {
+    "a": "o retorno das linhagens desaparecidas a partir dos fósseis preservados nas rochas",
+    "b": "a estabilização do número de linhagens exatamente no nível anterior ao episódio, sem que surjam formas novas",
+    "c": "o surgimento imediato de formas idênticas às que ocupavam os mesmos ambientes",
+    "d": "a interrupção da seleção natural por dezenas de milhões de anos após o episódio",
+    "e": "a radiação das linhagens sobreviventes, que se diversificam nos ambientes desocupados"
+   },
+   "resposta": "e",
+   "explicacao": "A extinção em massa libera ambientes e recursos antes monopolizados, e as linhagens que passaram pelo filtro se diversificam rapidamente nesse espaço — foi o que ocorreu com os mamíferos após o fim do Cretáceo. O registro fóssil mostra a sequência, mas o processo é irreversível: linhagem extinta não retorna.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-452",
+   "texto_apoio": "Uma orquídea de Madagascar guarda o néctar no fundo de um tubo floral de cerca de 30 cm. Ao examiná-la, Darwin previu que existiria na ilha um inseto com aparelho bucal desse comprimento. Décadas depois, uma mariposa de probóscide compatível foi encontrada na região.",
+   "enunciado": "Do ponto de vista evolutivo, a previsão de Darwin se apoiava na ideia de que:",
+   "alternativas": {
+    "a": "flor e polinizador exercem pressão seletiva um sobre o outro ao longo do tempo",
+    "b": "a orquídea alonga o tubo ao longo da própria vida, conforme o inseto que a visita",
+    "c": "o inseto alonga a probóscide por esforço repetido a cada visita à flor",
+    "d": "a forma da flor é obra do acaso e não guarda relação com quem a visita",
+    "e": "cada espécie de planta é visitada por um número grande de insetos distintos, o que tornaria o comprimento do tubo floral irrelevante"
+   },
+   "resposta": "a",
+   "explicacao": "É o raciocínio da coevolução: tubo mais fundo favorece o inseto de probóscide mais longa, e probóscide mais longa favorece a flor de tubo mais fundo, porque só o encaixe justo assegura a transferência do pólen. A adaptação de cada parceiro é pressão seletiva sobre o outro, e foi isso que permitiu a Darwin prever o animal antes de vê-lo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-453",
+   "texto_apoio": "Em várias espécies, os machos exibem estruturas volumosas e coloridas que atrapalham o deslocamento e os tornam mais visíveis a quem os caça. Ainda assim, esses machos deixam mais descendência que os machos de ornamento discreto.",
+   "enunciado": "Do ponto de vista evolutivo, a permanência desses ornamentos se explica por:",
+   "alternativas": {
+    "a": "deriva genética, que fixa por acaso traços prejudiciais ao indivíduo",
+    "b": "seleção sexual: a vantagem no acasalamento compensa o custo de sobrevivência",
+    "c": "herança de caracteres adquiridos pelo esforço de exibição de cada macho",
+    "d": "ausência de seleção natural nas espécies em que existe ornamento colorido",
+    "e": "seleção estabilizadora, que elimina os extremos e mantém apenas os machos de ornamento intermediário na espécie"
+   },
+   "resposta": "b",
+   "explicacao": "O que a seleção natural mede não é a sobrevivência isolada, mas a descendência deixada. Um ornamento caro em risco de vida se mantém quando aumenta o acesso ao acasalamento o bastante para compensar o custo — é a seleção sexual, já descrita por Darwin como caso particular do mesmo processo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-454",
+   "texto_apoio": "Uma borboleta inofensiva apresenta o mesmo padrão de cores de outra espécie, de sabor desagradável, que vive na mesma região. Em testes de campo, aves que haviam provado a espécie desagradável passaram a recusar também a inofensiva.",
+   "enunciado": "Do ponto de vista evolutivo, esse arranjo se mantém porque:",
+   "alternativas": {
+    "a": "a borboleta inofensiva copia o padrão por imitação aprendida ao longo da vida",
+    "b": "as duas espécies descendem de um ancestral comum imediato e por isso são idênticas",
+    "c": "indivíduos parecidos com a espécie desagradável foram menos atacados e deixaram mais filhotes",
+    "d": "as aves preferem padrões coloridos, o que favorece as duas espécies por igual",
+    "e": "o padrão de cores da espécie desagradável se transfere à inofensiva quando as duas passam a ocupar a mesma região"
+   },
+   "resposta": "c",
+   "explicacao": "No mimetismo batesiano, a espécie palatável se parece com a impalatável. A ave que aprendeu a evitar o padrão evita as duas, de modo que os imitadores mais parecidos escapam com mais frequência e deixam mais filhotes. A semelhança é resultado de seleção sobre variação, não de imitação aprendida nem de parentesco próximo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-455",
+   "texto_apoio": "Um paleontólogo explicou que a maior parte dos organismos não deixa fóssil: é preciso soterramento rápido, ambiente pobre em oxigênio e presença de partes duras, condições reunidas com muito mais frequência em fundos de lago e de mar do que em áreas de floresta.",
+   "enunciado": "Do ponto de vista evolutivo, a consequência dessa lista de condições para a leitura do registro fóssil é:",
+   "alternativas": {
+    "a": "o registro é completo, e a ausência de fóssil equivale à ausência do organismo",
+    "b": "organismos de corpo mole ficam mais bem representados que os de partes duras",
+    "c": "as áreas de floresta produzem mais fósseis do que os fundos de lago e de mar",
+    "d": "o registro é incompleto e enviesado, e a falta de um fóssil não prova ausência do grupo",
+    "e": "o soterramento rápido impede a preservação, e por isso os melhores fósseis vêm de organismos que permaneceram expostos ao ar por longo tempo"
+   },
+   "resposta": "d",
+   "explicacao": "As condições de fossilização favorecem certos ambientes e certos tipos de corpo, e por isso o registro fóssil é uma amostra enviesada da vida do passado, não um catálogo. Daí a regra de leitura: ausência de fóssil é ausência de evidência, e a árvore evolutiva de um grupo pode ter ramos que nenhuma rocha guardou.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-456",
+   "texto_apoio": "Fósseis do réptil Mesosaurus, animal de água doce, aparecem em apenas duas faixas de terreno: no leste da América do Sul e no oeste da África. O porte e o modo de vida do animal descartam a travessia de um oceano.",
+   "enunciado": "Do ponto de vista evolutivo e geológico, a explicação aceita para essa distribuição é:",
+   "alternativas": {
+    "a": "duas linhagens distintas produziram fósseis idênticos por acaso nos dois continentes",
+    "b": "os fósseis africanos foram levados por navios e depositados na América do Sul",
+    "c": "o Mesosaurus atravessava o Atlântico a nado durante a estação de reprodução",
+    "d": "os dois conjuntos de fósseis têm idades separadas por centenas de milhões de anos, o que dispensa a hipótese de ligação entre as duas áreas",
+    "e": "os dois continentes estavam unidos quando o animal viveu, e separaram-se depois"
+   },
+   "resposta": "e",
+   "explicacao": "A distribuição de fósseis é uma das evidências que sustentaram a deriva continental: o Mesosaurus viveu quando África e América do Sul formavam um bloco único, e as duas faixas de ocorrência coincidem quando se reencaixam os continentes. Ancestral comum mais separação física explicam o padrão sem nenhuma travessia oceânica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-457",
+   "texto_apoio": "Um quadro reuniu quatro fatos: o código genético é praticamente o mesmo em bactérias, plantas e animais; as mesmas vinte unidades formam as proteínas dos três grupos; a molécula que guarda a informação hereditária é a mesma; e o mecanismo de leitura dessa informação é equivalente nos três.",
+   "enunciado": "Do ponto de vista evolutivo, esse conjunto de fatos é tomado como evidência de que:",
+   "alternativas": {
+    "a": "os seres vivos atuais descendem de um ancestral comum único",
+    "b": "cada grupo desenvolveu o mesmo código de forma independente, por acaso",
+    "c": "bactérias, plantas e animais pertencem hoje a uma mesma espécie biológica",
+    "d": "o código foi transferido entre os três grupos por contato recente entre eles",
+    "e": "a semelhança se deve à convergência: pressões parecidas teriam levado grupos sem parentesco ao mesmo código de leitura"
+   },
+   "resposta": "a",
+   "explicacao": "O código genético é arbitrário: nada obriga uma trinca determinada a corresponder a uma unidade determinada. Que a mesma correspondência arbitrária apareça em linhagens tão distantes é difícil de explicar por acaso ou por convergência — a leitura mais econômica é herança a partir de um ancestral comum, e é ela que sustenta a filogenia da vida como uma árvore única.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-458",
+   "texto_apoio": "Numa área de campo, uma planta deu origem a indivíduos com o dobro do número de cromossomos. Esses indivíduos se fecundam entre si e produzem sementes viáveis; com a forma original, porém, formam sementes que não germinam.",
+   "enunciado": "Do ponto de vista evolutivo, o que se descreve nessa área de campo é:",
+   "alternativas": {
+    "a": "deriva genética, que reduziu a variação da área numa única geração",
+    "b": "especiação simpátrica, com isolamento reprodutivo instalado sem barreira geográfica",
+    "c": "especiação alopátrica, iniciada pela separação física entre as duas formas de planta",
+    "d": "convergência entre duas linhagens de origem distinta que ocupam a mesma área",
+    "e": "hibridação estável entre as duas formas, que passam a constituir um grupo único na área de campo"
+   },
+   "resposta": "b",
+   "explicacao": "A duplicação do conjunto de cromossomos cria, de uma vez, uma barreira reprodutiva com a forma original: os dois se encontram, mas não deixam descendência viável. Como não houve separação geográfica, trata-se de especiação simpátrica — mecanismo frequente em plantas e uma das poucas vias de especiação que se completa em poucas gerações.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-459",
+   "texto_apoio": "Um estudante afirmou que a espécie humana é mais evoluída do que uma bactéria, por ser mais complexa. O professor observou que as duas linhagens têm exatamente o mesmo tempo de história a partir do ancestral que compartilham.",
+   "enunciado": "Do ponto de vista evolutivo, a observação do professor se apoia em que:",
+   "alternativas": {
+    "a": "a complexidade cresce de modo contínuo em cada linhagem ao longo do tempo",
+    "b": "as bactérias atuais são formas ancestrais que não passaram por alteração alguma",
+    "c": "seleção natural produz ajuste ao ambiente, e não avanço rumo a maior complexidade",
+    "d": "a espécie humana é o ponto de chegada previsto desde o início da história da vida",
+    "e": "as linhagens tendem à simplificação, e a complexidade humana seria uma exceção sem paralelo entre as linhagens atuais"
+   },
+   "resposta": "c",
+   "explicacao": "Toda linhagem viva hoje tem a mesma idade contada desde o ancestral comum, e a bactéria atual não é a bactéria de bilhões de anos atrás: também passou por seleção esse tempo todo. A adaptação é local e relativa ao ambiente; não há escada de progresso na qual uma espécie ocupe degrau mais alto que outra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "biologia-evolucao",
+   "id": "med-biologia-460",
+   "texto_apoio": "Ilhas vulcânicas surgidas no oceano, a cerca de 900 km do continente, abrigam espécies que não ocorrem em lugar nenhum além delas. Cada uma dessas espécies tem parente próximo no continente mais próximo, e não em ilhas de outros oceanos.",
+   "enunciado": "Do ponto de vista evolutivo, esse padrão é explicado por:",
+   "alternativas": {
+    "a": "criação separada de cada espécie no local em que hoje é encontrada",
+    "b": "a chegada das espécies já formadas do continente, sem alteração desde então",
+    "c": "acaso, já que o parente próximo poderia estar em outro oceano distante",
+    "d": "colonização a partir do continente próximo, seguida de especiação no isolamento",
+    "e": "movimento das ilhas ao longo do oceano, que teria transportado as espécies desde o continente até a posição atual delas"
+   },
+   "resposta": "d",
+   "explicacao": "Ilha vulcânica nasce sem vida: quem chega vem de fora, e o candidato mais provável é a terra firme mais próxima — daí o parentesco com o continente vizinho. Uma vez isolada, cada linhagem segue caminho próprio e se diferencia até formar espécie nova, o que explica por que essas espécies não ocorrem em nenhum outro lugar.",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -10733,6 +12059,38 @@ window.QUESTION_BANKS = {
    "explicacao": "Na ligação metálica os elétrons de valência ficam deslocalizados por todo o retículo de cátions. Essa nuvem móvel explica a condução elétrica e permite que as camadas de cátions deslizem sob impacto sem que o material se rompa.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-449",
+   "enunciado": "Sob pressão de 1 atm, a água ferve a 100 °C, enquanto o sulfeto de hidrogênio (H₂S), de fórmula análoga e massa maior, ferve a −60 °C. Essa diferença entre as duas substâncias é explicada por:",
+   "alternativas": {
+    "a": "a maior massa das partículas de H₂S, que intensifica as forças de dispersão entre elas e por isso mantém esse composto no estado líquido em uma faixa de temperatura bem mais ampla que a da água",
+    "b": "a ligação de hidrogênio entre as partículas de água, interação intermolecular bem mais intensa que o dipolo permanente fraco do H₂S",
+    "c": "o caráter iônico da ligação entre hidrogênio e oxigênio, ausente na união entre hidrogênio e enxofre",
+    "d": "a geometria linear da partícula de água, arranjo que favorece o empacotamento e dificulta a passagem ao estado gasoso",
+    "e": "a menor eletronegatividade do oxigênio em relação ao enxofre, o que reduz a polaridade da união O—H"
+   },
+   "resposta": "b",
+   "explicacao": "O oxigênio é bem mais eletronegativo que o enxofre e, ligado ao hidrogênio, permite ligações de hidrogênio — a mais forte das forças intermoleculares. No H₂S há apenas dipolo permanente fraco, vencido em temperatura muito menor. A geometria angular da água ainda reforça essa polaridade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "med-quimica-450",
+   "enunciado": "O gás carbônico (CO₂) é apolar, ainda que a união entre carbono e oxigênio seja polar; já o dióxido de enxofre (SO₂), formado por átomos de diferença de eletronegatividade parecida, é polar. Assinale a alternativa que justifica corretamente essa diferença.",
+   "alternativas": {
+    "a": "o CO₂ apresenta hibridação sp³ no átomo central, arranjo que distribui as cargas de modo homogêneo pela partícula",
+    "b": "o enxofre está no terceiro período da tabela periódica e tem raio atômico maior que o do carbono, o que enfraquece cada uma das uniões e faz o dióxido de enxofre reter caráter polar mesmo em fase gasosa",
+    "c": "as uniões do CO₂ são covalentes e as do SO₂ são iônicas, e só compostos iônicos apresentam polos definidos",
+    "d": "o CO₂ tem geometria linear e os vetores de polaridade se anulam, ao passo que o SO₂ tem geometria angular e apresenta resultante diferente de zero",
+    "e": "a afinidade eletrônica do carbono é menor que a do enxofre, e átomos de menor afinidade eletrônica originam compostos apolares"
+   },
+   "resposta": "d",
+   "explicacao": "A polaridade de uma partícula depende da geometria, e não só da diferença de eletronegatividade. No CO₂ o átomo central não tem par de elétrons livre e o arranjo é linear: os dois vetores têm mesma intensidade e sentidos opostos, e a resultante é nula. No SO₂ o par livre sobre o enxofre torna o arranjo angular, e a resultante deixa de ser nula.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -11874,6 +13232,39 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Diluir reduz as concentrações de todas as espécies, mas afeta mais o encontro entre os íons que refariam a molécula. O equilíbrio químico se desloca no sentido da ionização e α cresce, embora Ka permaneça o mesmo, já que depende apenas da temperatura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-451",
+   "enunciado": "Uma solução aquosa de ácido acético de concentração 0,10 mol/L apresenta grau de ionização de 1,0%. Nessas condições, o pH dessa solução é:",
+   "alternativas": {
+    "a": "1,0, valor que corresponderia à ionização completa do ácido acético em água",
+    "b": "2,0, resultado de admitir que cada partícula do ácido libera dois íons H⁺ no meio",
+    "c": "3,0, pois a concentração de íons H⁺ no equilíbrio iônico vale 1,0 × 10⁻³ mol/L",
+    "d": "4,0, valor que corresponderia a um grau de ionização de 0,10% para essa mesma concentração inicial de ácido acético",
+    "e": "5,0, pois o caráter fraco do ácido deixaria a concentração de íons H⁺ próxima à da água pura"
+   },
+   "resposta": "c",
+   "explicacao": "Num ácido fraco, a concentração de H⁺ no equilíbrio iônico é o produto da concentração inicial pelo grau de ionização: 0,10 × 0,010 = 1,0 × 10⁻³ mol/L. Como pH = −log[H⁺], o pH vale 3,0.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "med-quimica-452",
+   "texto_apoio": "No plasma sanguíneo, o equilíbrio químico\n\nCO₂ + H₂O ⇌ H⁺ + HCO₃⁻\n\nmantém o pH em torno de 7,4. Durante uma crise de hiperventilação, o paciente elimina CO₂ pelos pulmões em ritmo maior que o de produção pelo organismo.",
+   "enunciado": "De acordo com o princípio de Le Chatelier, é esperado que, nessa crise:",
+   "alternativas": {
+    "a": "a hidrólise do íon bicarbonato cesse, e o plasma passe a se comportar como meio neutro",
+    "b": "o equilíbrio se desloque para a direita, o que aumenta a quantidade de íons H⁺ livres e baixa o pH",
+    "c": "a constante de equilíbrio da reação diminua, o que compensaria a saída de CO₂ e manteria o pH do plasma inalterado durante a crise",
+    "d": "o pH permaneça em 7,4, já que a retirada de um dos participantes não afeta o sentido do equilíbrio",
+    "e": "o equilíbrio se desloque para a esquerda, consumindo H⁺ e elevando o pH do plasma"
+   },
+   "resposta": "e",
+   "explicacao": "A saída acelerada de CO₂ retira um participante do lado esquerdo. Pelo princípio de Le Chatelier, o sistema desloca o equilíbrio no sentido de repor o que foi retirado, consumindo H⁺ e HCO₃⁻. Com menos H⁺ livre, o pH sobe — é a alcalose respiratória. A constante de equilíbrio só muda com a temperatura.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -14465,6 +15856,38 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "banca": "unesp",
    "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-453",
+   "enunciado": "Duas substâncias distintas têm a mesma fórmula C₂H₆O: uma delas é líquida a 25 °C e ferve a 78 °C; a outra é gasosa nessa temperatura e ferve a −24 °C. Essa diferença de comportamento entre substâncias de mesma fórmula decorre de:",
+   "alternativas": {
+    "a": "isomeria de cadeia, já que uma das substâncias tem cadeia carbônica normal e a outra, cadeia ramificada com o mesmo número de átomos de carbono",
+    "b": "isomeria plana de função, que separa a função oxigenada dos álcoois da dos éteres; só a primeira forma ligações de hidrogênio",
+    "c": "isomeria óptica, que gera duas formas de mesma fórmula com propriedades físicas distintas por causa do carbono quiral",
+    "d": "isomeria geométrica, resultante da posição dos grupos presos a uma dupla ligação entre carbonos da cadeia",
+    "e": "diferença no grau de polimerização, pois a substância de maior temperatura de ebulição corresponderia a uma cadeia carbônica mais extensa formada por unidades repetidas"
+   },
+   "resposta": "b",
+   "explicacao": "C₂H₆O corresponde a duas funções orgânicas diferentes: o etanol, da função oxigenada dos álcoois, e o metoximetano, da dos éteres. É isomeria plana de função. Só o primeiro tem hidrogênio preso a oxigênio e faz ligações de hidrogênio, o que eleva muito sua temperatura de ebulição. Com dois carbonos não há ramificação possível, nem carbono quiral, nem dupla ligação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "med-quimica-454",
+   "enunciado": "O gás de cozinha vendido no Brasil é uma mistura em que predominam propano e butano, dois hidrocarbonetos saturados de cadeia aberta. Sobre essas duas substâncias, é correto afirmar que:",
+   "alternativas": {
+    "a": "são compostos aromáticos, pois a cadeia fechada lhes confere estabilidade e permite o armazenamento sob pressão",
+    "b": "pertencem à família dos alcenos, o que explicaria a facilidade com que participariam de reações de adição e justificaria o emprego das duas como combustível doméstico de alto poder calorífico",
+    "c": "apresentam isomeria de função entre si, pois diferem apenas na posição do grupo funcional preso à cadeia carbônica",
+    "d": "pertencem à família dos alcanos e apresentam apenas ligações simples entre os átomos de carbono da cadeia",
+    "e": "formam cadeia carbônica ramificada, condição para que se apresentem no estado gasoso nas condições ambientes"
+   },
+   "resposta": "d",
+   "explicacao": "Propano (C₃H₈) e butano (C₄H₁₀) são alcanos: hidrocarbonetos de cadeia aberta, saturada e sem ramificação obrigatória, com apenas ligações simples entre carbonos. Não têm grupo funcional, logo não há isomeria de função entre eles; e a cadeia é aberta, o que exclui o caráter aromático.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "quimica-solucoes": [
@@ -15594,6 +17017,38 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Na osmose espontânea, o solvente migra da região menos concentrada para a mais concentrada. Aplicando pressão maior que a osmótica, o sentido se inverte: o solvente atravessa a membrana e o soluto fica retido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-455",
+   "enunciado": "Em um laboratório, 50 mL de uma solução aquosa de cloreto de sódio de concentração 2,0 mol/L são diluídos com água destilada até que a concentração final seja 0,25 mol/L. Sabendo que a diluição não altera a quantidade de soluto presente, o volume de água destilada acrescentado foi de:",
+   "alternativas": {
+    "a": "100 mL",
+    "b": "200 mL",
+    "c": "350 mL",
+    "d": "400 mL",
+    "e": "450 mL"
+   },
+   "resposta": "c",
+   "explicacao": "Numa diluição vale C₁V₁ = C₂V₂, pois a quantidade de soluto é conservada: 2,0 × 50 = 0,25 × V₂, logo V₂ = 400 mL de solução final. Como o volume de partida era 50 mL, o volume de água destilada acrescentado foi 400 − 50 = 350 mL.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "med-quimica-456",
+   "enunciado": "Ao dissolver sal de cozinha em água, verifica-se que a temperatura de ebulição do sistema sobe e a de congelamento cai em relação à água pura. Esses dois efeitos coligativos, chamados ebulioscopia e crioscopia, decorrem do:",
+   "alternativas": {
+    "a": "aumento da pressão de vapor do solvente, que assim escapa com mais facilidade da superfície do líquido",
+    "b": "abaixamento da pressão de vapor do solvente, provocado pelas partículas de soluto dispersas no meio",
+    "c": "aumento do calor específico da água causado pelo soluto, que passaria a exigir mais energia em cada etapa da mudança de estado do sistema",
+    "d": "rompimento das uniões entre as partículas de água pelo soluto, o que reduziria a coesão do líquido",
+    "e": "aumento da densidade da mistura, propriedade que deslocaria os pontos de mudança de estado do solvente"
+   },
+   "resposta": "b",
+   "explicacao": "As partículas de soluto não volátil ocupam a superfície do líquido e dificultam a passagem do solvente à fase de vapor: a pressão de vapor cai. Por isso é preciso temperatura maior para que ela iguale a pressão externa (ebulioscopia) e temperatura menor para o congelamento (crioscopia). Os efeitos coligativos dependem da quantidade de partículas dispersas, não da natureza delas.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -17914,6 +19369,38 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Na panela de pressão, o aumento da pressão interna eleva o ponto de ebulição da água para acima de 100°C, permitindo que o alimento cozinhe em temperatura mais alta e, portanto, mais rapidamente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-486",
+   "enunciado": "Em um recipiente termicamente isolado, misturam-se 300 g de água a 80 °C com 200 g de água a 30 °C. Considerando que só há troca de calor entre as duas porções e que o calor específico da água vale 1,0 cal/(g·°C), a temperatura de equilíbrio térmico da mistura é de:",
+   "alternativas": {
+    "a": "40 °C",
+    "b": "45 °C",
+    "c": "50 °C",
+    "d": "55 °C",
+    "e": "60 °C"
+   },
+   "resposta": "e",
+   "explicacao": "O calor cedido pela porção quente iguala o recebido pela fria: 300 × 1,0 × (80 − T) = 200 × 1,0 × (T − 30). Daí 24 000 − 300T = 200T − 6 000, ou seja, 500T = 30 000 e T = 60 °C. A temperatura de equilíbrio térmico fica mais próxima da porção de maior massa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "med-fisica-487",
+   "enunciado": "Um trilho de aço de 20 m de comprimento é assentado a 10 °C. Em um dia de verão, sua temperatura chega a 50 °C. Sendo 1,2 × 10⁻⁵ °C⁻¹ o coeficiente de dilatação linear do aço, o acréscimo de comprimento do trilho é de:",
+   "alternativas": {
+    "a": "0,96 mm",
+    "b": "4,8 mm",
+    "c": "9,6 mm",
+    "d": "12,0 mm",
+    "e": "19,2 mm"
+   },
+   "resposta": "c",
+   "explicacao": "Na dilatação linear, ΔL = L₀ · α · ΔT. Com L₀ = 20 m, α = 1,2 × 10⁻⁵ °C⁻¹ e ΔT = 50 − 10 = 40 °C, tem-se ΔL = 20 × 1,2 × 10⁻⁵ × 40 = 9,6 × 10⁻³ m, isto é, 9,6 mm. É por isso que se deixa folga entre trilhos consecutivos.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -25183,6 +26670,664 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A massa do dêuteron é menor que a soma das massas do próton e do nêutron separados (938,2728+939,5654−1875,6129=2,2253 MeV/c²); essa diferença de massa é convertida em energia liberada na forma de um fóton emitido durante a formação do núcleo (energia de ligação nuclear).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-447",
+   "texto_apoio": "Múons produzidos na alta atmosfera atravessam quilômetros de ar antes de chegar ao chão. No referencial em que o múon está parado, seu tempo médio de vida vale 2,0 µs. Um detector registra múons cujo fator de Lorentz, medido da Terra, vale γ = 1,25.",
+   "enunciado": "Pela dilatação do tempo prevista pela relatividade restrita, o tempo médio de vida desse múon medido por um observador no chão é de:",
+   "alternativas": {
+    "a": "1,6 µs",
+    "b": "2,0 µs",
+    "c": "2,5 µs",
+    "d": "3,2 µs",
+    "e": "4,0 µs"
+   },
+   "resposta": "c",
+   "explicacao": "O tempo próprio Δt₀ = 2,0 µs é o intervalo medido no relógio que acompanha o múon, e é o menor de todos. Em outro referencial vale Δt = γ·Δt₀ = 1,25 × 2,0 = 2,5 µs. A alternativa (a) divide por γ em vez de multiplicar — é o erro de trocar γ por 1/γ, que serve para a contração do comprimento, não para a dilatação do tempo; (b) ignora o efeito relativístico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-448",
+   "texto_apoio": "Uma sonda tem 30 m de comprimento próprio — aquele medido no referencial em que ela está em repouso. Ela cruza uma estação com velocidade tal que o fator de Lorentz vale γ = 2,5.",
+   "enunciado": "Segundo a relatividade restrita, o comprimento da sonda medido pelos instrumentos da estação é de:",
+   "alternativas": {
+    "a": "7,5 m",
+    "b": "12 m",
+    "c": "30 m",
+    "d": "75 m",
+    "e": "18 m"
+   },
+   "resposta": "b",
+   "explicacao": "A contração do comprimento vale só na direção do movimento e divide o comprimento próprio pelo fator de Lorentz: L = L₀/γ = 30/2,5 = 12 m. A alternativa (d), 75 m, multiplica por γ — objeto nenhum é medido maior do que o próprio comprimento de repouso; (c) ignora o efeito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-449",
+   "texto_apoio": "Uma nave espacial se afasta da Terra a 0,50c e lança para a frente uma sonda que, medida a bordo, se move a 0,50c em relação à nave. A composição relativística de velocidades é u = (v + u′)/(1 + v·u′/c²).",
+   "enunciado": "A velocidade da sonda medida por um observador na Terra é de:",
+   "alternativas": {
+    "a": "0,25c",
+    "b": "0,40c",
+    "c": "0,50c",
+    "d": "0,80c",
+    "e": "1,00c"
+   },
+   "resposta": "d",
+   "explicacao": "Substituindo: (0,50 + 0,50)/(1 + 0,25) = 1,00/1,25 = 0,80c. A alternativa (e) adiciona as duas velocidades como a mecânica de Newton faria, e daria 1,00c — resultado que a relatividade restrita descarta, porque entre referenciais inerciais a velocidade da luz permanece o teto e nenhuma composição de velocidades menores que c o ultrapassa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-450",
+   "texto_apoio": "Uma nave espacial se aproxima de um observatório a 0,80c e acende um farol na direção do movimento.",
+   "enunciado": "A velocidade da luz desse farol, medida pelos instrumentos do observatório, vale:",
+   "alternativas": {
+    "a": "0,20c",
+    "b": "0,80c",
+    "c": "1,00c",
+    "d": "1,64c",
+    "e": "1,80c"
+   },
+   "resposta": "c",
+   "explicacao": "O segundo postulado da relatividade restrita diz que a luz se propaga com o mesmo valor c em referenciais inerciais distintos, não importa como se mova a fonte. Por isso o observatório mede 1,00c, e não 1,80c — este seria o resultado da adição de velocidades da mecânica de Newton, que vale como aproximação apenas para velocidades muito menores que c.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-451",
+   "enunciado": "Uma partícula se move a 0,80c em relação ao laboratório. O fator de Lorentz γ = 1/√(1 − v²/c²) associado a ela vale aproximadamente:",
+   "alternativas": {
+    "a": "1,67",
+    "b": "0,60",
+    "c": "1,25",
+    "d": "1,80",
+    "e": "2,50"
+   },
+   "resposta": "a",
+   "explicacao": "Com v/c = 0,80, v²/c² = 0,64 e 1 − 0,64 = 0,36, cuja raiz é 0,60. Logo γ = 1/0,60 ≈ 1,67. A alternativa (b) entrega justamente 0,60, isto é, 1/γ; a relatividade restrita exige γ ≥ 1, então valor menor que 1 já se descarta sem conta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-452",
+   "texto_apoio": "Dentro de um vagão que viaja em linha reta com velocidade constante, dois flashes disparam ao mesmo tempo, um em cada ponta do vagão, segundo a passageira sentada no meio dele.",
+   "enunciado": "Para um observador parado na plataforma, esses dois flashes:",
+   "alternativas": {
+    "a": "disparam em instantes diferentes, porque a simultaneidade de eventos separados no espaço depende do referencial",
+    "b": "disparam no mesmo instante, já que intervalos de tempo têm o mesmo valor em referenciais inerciais distintos",
+    "c": "disparam no mesmo instante, mas com as pontas do vagão trocadas em relação ao que a passageira registra",
+    "d": "disparam em instantes diferentes apenas porque a luz de uma das pontas leva mais tempo para chegar ao olho do observador da plataforma",
+    "e": "disparam em instantes diferentes porque o vagão encurta e as duas pontas se aproximam do centro durante a viagem"
+   },
+   "resposta": "a",
+   "explicacao": "É o trem de Einstein. A relatividade restrita mostra que a simultaneidade de eventos separados no espaço não é absoluta: dois disparos simultâneos no vagão deixam de ser simultâneos na plataforma. A alternativa (d) descreve um atraso de propagação da luz, que se corrige descontando o tempo de trajeto e não tem nada de relativístico; a diferença aqui permanece depois dessa correção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-453",
+   "texto_apoio": "Duas irmãs gêmeas se separam: uma fica na Terra e a outra parte numa nave espacial cujo fator de Lorentz em relação à Terra vale γ = 2,0 na ida e na volta.",
+   "enunciado": "Se a viagem dura 10 anos pelos relógios da Terra, o tempo transcorrido para a irmã que viajou é de:",
+   "alternativas": {
+    "a": "2,5 anos",
+    "b": "10 anos",
+    "c": "15 anos",
+    "d": "20 anos",
+    "e": "5,0 anos"
+   },
+   "resposta": "e",
+   "explicacao": "O relógio que acompanha a viajante marca o tempo próprio, Δt₀ = Δt/γ = 10/2,0 = 5,0 anos. A dilatação do tempo faz a viajante voltar mais nova que a irmã. A alternativa (d) multiplica por γ em vez de dividir; (b) ignora o efeito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-454",
+   "texto_apoio": "Ao se juntarem para formar um núcleo de hélio-4, dois prótons e dois nêutrons perdem 5,0 × 10⁻²⁹ kg de massa. Adote para a velocidade da luz no vácuo o valor 3,0 × 10⁸ m/s.",
+   "enunciado": "Pela equivalência massa-energia E = mc², a energia de ligação correspondente a essa perda de massa é de:",
+   "alternativas": {
+    "a": "1,5 × 10⁻²⁰ J",
+    "b": "4,5 × 10⁻¹² J",
+    "c": "9,0 × 10⁻¹² J",
+    "d": "4,5 × 10⁻¹³ J",
+    "e": "1,5 × 10⁻¹² J"
+   },
+   "resposta": "b",
+   "explicacao": "E = Δm·c² = 5,0 × 10⁻²⁹ × (3,0 × 10⁸)² = 5,0 × 10⁻²⁹ × 9,0 × 10¹⁶ = 4,5 × 10⁻¹² J. A alternativa (a) usa c em vez de c² e erra por oito ordens de grandeza. A energia de repouso que desaparece da balança é exatamente a que a relatividade restrita converte em energia de ligação do núcleo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-455",
+   "enunciado": "Uma partícula de energia de repouso E₀ = 900 MeV se move com fator de Lorentz γ = 5/3 em relação ao laboratório. Sua energia total, dada por E = γE₀, vale:",
+   "alternativas": {
+    "a": "540 MeV",
+    "b": "900 MeV",
+    "c": "600 MeV",
+    "d": "1500 MeV",
+    "e": "2400 MeV"
+   },
+   "resposta": "d",
+   "explicacao": "E = γE₀ = (5/3) × 900 = 1500 MeV. A alternativa (a), 540 MeV, divide por γ — confusão com a contração do comprimento; a relatividade restrita exige energia total maior que a de repouso para qualquer partícula em movimento, o que já elimina 540 e 600 MeV.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-456",
+   "enunciado": "A energia cinética relativística de uma partícula é Ec = (γ − 1)mc². Para uma partícula cujo fator de Lorentz vale γ = 5/3, a energia cinética, medida em unidades da energia de repouso mc², vale:",
+   "alternativas": {
+    "a": "0,25 mc²",
+    "b": "0,50 mc²",
+    "c": "0,67 mc²",
+    "d": "1,67 mc²",
+    "e": "2,67 mc²"
+   },
+   "resposta": "c",
+   "explicacao": "Ec = (γ − 1)mc² = (5/3 − 1)mc² = (2/3)mc² ≈ 0,67 mc². A alternativa (d) esquece de subtrair 1 e entrega γmc², que é a energia TOTAL, não a cinética; (e) subtrai 1 depois de dobrar γ. Note que ½mv² daria 0,32 mc² e não serve nessa faixa de velocidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-457",
+   "enunciado": "Pela expressão da energia cinética relativística, Ec = (γ − 1)mc², à medida que a velocidade de uma partícula dotada de massa se aproxima da velocidade da luz:",
+   "alternativas": {
+    "a": "a energia cinética cresce sem limite, de modo que nenhuma quantidade finita de energia leva a partícula até c",
+    "b": "a energia cinética estaciona num patamar igual à energia de repouso mc² da partícula",
+    "c": "a energia cinética diminui, porque o fator de Lorentz tende a zero nessa faixa de velocidade",
+    "d": "a energia cinética passa a valer ½mv², como na mecânica de Newton",
+    "e": "a energia cinética cresce em proporção direta à velocidade, de modo que dobrar a velocidade dobra a energia cinética e assim por diante"
+   },
+   "resposta": "a",
+   "explicacao": "Quando v → c, o denominador √(1 − v²/c²) tende a zero e o fator de Lorentz cresce sem limite; com ele, (γ − 1)mc². É por isso que a relatividade restrita põe a velocidade da luz como limite inatingível para corpos com massa. A expressão ½mv² de (d) é a aproximação válida só para v ≪ c.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-458",
+   "texto_apoio": "Um múon criado a 6,0 km de altitude chega ao chão. No referencial da Terra, essa é a distância que ele percorre; no referencial do múon, quem se aproxima é o chão, e o fator de Lorentz do movimento vale γ = 5,0.",
+   "enunciado": "No referencial em que o múon está parado, a espessura de atmosfera que passa por ele mede:",
+   "alternativas": {
+    "a": "0,24 km",
+    "b": "3,0 km",
+    "c": "30 km",
+    "d": "6,0 km",
+    "e": "1,2 km"
+   },
+   "resposta": "e",
+   "explicacao": "É a contração do comprimento vista do outro lado: d = d₀/γ = 6,0/5,0 = 1,2 km. Os dois referenciais concordam que o múon chega ao chão, mas explicam o feito de modos diferentes — a Terra fala em dilatação do tempo de vida, o múon fala em atmosfera encurtada. A alternativa (c) multiplica por γ.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-459",
+   "texto_apoio": "Duas naves cruzam o espaço com velocidade constante uma em relação à outra, motores desligados. Cada tripulação compara, à distância, o relógio da outra nave com o seu.",
+   "enunciado": "O que a relatividade restrita prevê para essa comparação é que:",
+   "alternativas": {
+    "a": "cada tripulação mede o relógio da outra nave andando mais devagar que o seu, e as duas descrições valem igualmente",
+    "b": "apenas a tripulação da nave mais veloz mede o relógio da outra atrasando, porque só ela se encontra de fato em movimento verdadeiro",
+    "c": "os dois relógios marcam intervalos iguais, já que a dilatação do tempo aparece só em movimento acelerado",
+    "d": "cada tripulação mede o relógio da outra adiantando, efeito que se inverte na viagem de volta",
+    "e": "o relógio atrasado é decidido pelo referencial do centro da galáxia, tomado como repouso absoluto"
+   },
+   "resposta": "a",
+   "explicacao": "O efeito é recíproco porque os dois são referenciais inerciais e nenhum deles tem estatuto privilegiado: cada um mede o relógio do outro atrasando. Não há contradição, pois comparar relógios distantes exige convencionar simultaneidade, e é justamente aí que os dois discordam. A alternativa (e) ressuscita o referencial absoluto que a relatividade restrita dispensa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-460",
+   "texto_apoio": "Uma lâmpada de leitura emite luz alaranjada de comprimento de onda 6,0 × 10⁻⁷ m. Adote a constante de Planck h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "A energia transportada por um único fóton dessa luz é de aproximadamente:",
+   "alternativas": {
+    "a": "1,1 × 10⁻²⁷ J",
+    "b": "3,3 × 10⁻¹⁹ J",
+    "c": "6,6 × 10⁻¹⁹ J",
+    "d": "1,7 × 10⁻¹⁹ J",
+    "e": "1,2 × 10⁻³¹ J"
+   },
+   "resposta": "b",
+   "explicacao": "A energia do fóton é E = hf, e como f = c/λ, vale E = hc/λ = (6,63 × 10⁻³⁴ × 3,0 × 10⁸)/(6,0 × 10⁻⁷) ≈ 3,3 × 10⁻¹⁹ J. A alternativa (a) esquece de multiplicar por c; a (e) multiplica por λ em vez de dividir. Repare que a energia é o quantum de energia da radiação: o feixe entrega múltiplos inteiros desse valor, não uma quantidade contínua.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-461",
+   "texto_apoio": "Sobre uma placa metálica cuja função trabalho do metal vale φ = 3,0 × 10⁻¹⁹ J incide luz de frequência 1,0 × 10¹⁵ Hz. Adote h = 6,63 × 10⁻³⁴ J·s.",
+   "enunciado": "Pela equação do efeito fotoelétrico, a energia cinética máxima dos elétrons ejetados dessa placa é de:",
+   "alternativas": {
+    "a": "3,6 × 10⁻¹⁹ J",
+    "b": "6,6 × 10⁻¹⁹ J",
+    "c": "9,6 × 10⁻¹⁹ J",
+    "d": "3,0 × 10⁻¹⁹ J",
+    "e": "2,0 × 10⁻¹⁹ J"
+   },
+   "resposta": "a",
+   "explicacao": "Ec(máx) = hf − φ = 6,63 × 10⁻¹⁹ − 3,0 × 10⁻¹⁹ = 3,6 × 10⁻¹⁹ J. A alternativa (b) é a energia do fóton incidente e esquece de descontar a função trabalho do metal, que é o erro mais comum aqui; a (c) adiciona φ em vez de subtrair.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-462",
+   "texto_apoio": "A função trabalho de um metal usado em células fotoelétricas vale φ = 4,0 × 10⁻¹⁹ J. Adote h = 6,63 × 10⁻³⁴ J·s.",
+   "enunciado": "A frequência de corte desse metal — a menor frequência capaz de arrancar elétrons dele por efeito fotoelétrico — vale aproximadamente:",
+   "alternativas": {
+    "a": "1,7 × 10⁻¹⁵ Hz",
+    "b": "2,7 × 10⁻⁵² Hz",
+    "c": "6,0 × 10⁸ Hz",
+    "d": "6,0 × 10¹⁴ Hz",
+    "e": "1,2 × 10¹⁵ Hz"
+   },
+   "resposta": "d",
+   "explicacao": "No limiar, o fóton entrega exatamente a função trabalho do metal e o elétron sai com energia cinética nula: hf₀ = φ, logo f₀ = φ/h = 4,0 × 10⁻¹⁹ / 6,63 × 10⁻³⁴ ≈ 6,0 × 10¹⁴ Hz. A alternativa (a) inverte a divisão; a (b) multiplica. Abaixo de f₀ não há emissão por mais que se aumente a intensidade do feixe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-463",
+   "texto_apoio": "Num experimento de efeito fotoelétrico mede-se a energia cinética máxima dos elétrons ejetados de uma placa para vários valores de frequência da luz incidente. Os pontos obtidos se alinham numa reta.",
+   "enunciado": "A inclinação dessa reta corresponde:",
+   "alternativas": {
+    "a": "à intensidade do feixe de luz que ilumina a placa, grandeza que fixa quantos elétrons saem por segundo mas não a energia de cada um",
+    "b": "à função trabalho do metal, valor que muda de um metal para outro",
+    "c": "à frequência de corte do metal usado na placa",
+    "d": "ao produto da carga do elétron pelo potencial de corte medido",
+    "e": "à constante de Planck, valor que não muda de um metal para outro"
+   },
+   "resposta": "e",
+   "explicacao": "A equação Ec(máx) = hf − φ é a de uma reta em f: a inclinação é h e o coeficiente linear é −φ. Trocar o metal desloca a reta para os lados, mas mantém a inclinação — foi assim que Millikan mediu h a partir do efeito fotoelétrico. A alternativa (b) confunde inclinação com intercepto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-464",
+   "texto_apoio": "No mesmo gráfico da energia cinética máxima dos elétrons ejetados contra a frequência da luz incidente, a reta é prolongada até cruzar o eixo vertical, num valor negativo.",
+   "enunciado": "Esse valor negativo corresponde:",
+   "alternativas": {
+    "a": "ao simétrico da constante de Planck, com o sinal trocado pela escolha da escala do eixo vertical do gráfico",
+    "b": "à energia cinética máxima obtida na própria frequência de corte do metal",
+    "c": "ao simétrico da função trabalho do metal, isto é, a −φ",
+    "d": "ao produto da carga do elétron pela frequência de corte da placa",
+    "e": "à energia do fóton incidente de menor comprimento de onda entre os usados na medida"
+   },
+   "resposta": "c",
+   "explicacao": "Em Ec(máx) = hf − φ, fazer f = 0 dá Ec = −φ. O ponto é matemático, não físico: com f = 0 não há emissão nenhuma. A alternativa (b) descreve o cruzamento com o eixo HORIZONTAL, onde Ec = 0 e f = f₀; é o outro intercepto da mesma reta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-465",
+   "texto_apoio": "Sobre uma placa metálica incide luz monocromática de frequência acima da frequência de corte. Um circuito registra ao mesmo tempo quantos elétrons ejetados chegam ao coletor por segundo e qual a energia cinética máxima deles.",
+   "enunciado": "Dobrando a intensidade do feixe e mantendo a mesma frequência, o experimento passa a registrar:",
+   "alternativas": {
+    "a": "o dobro de elétrons por segundo, com a mesma energia cinética máxima de antes",
+    "b": "o mesmo número de elétrons por segundo, com o dobro da energia cinética máxima",
+    "c": "o dobro de elétrons por segundo e também o dobro da energia cinética máxima",
+    "d": "metade dos elétrons por segundo, porque cada fóton passa a carregar menos energia",
+    "e": "emissão nenhuma, porque a intensidade maior aquece a placa e eleva a função trabalho do metal acima da energia do fóton incidente"
+   },
+   "resposta": "a",
+   "explicacao": "Dobrar a intensidade dobra o número de fótons por segundo, e cada fóton arranca um elétron: a corrente dobra. Mas a energia de cada fóton depende só da frequência, então Ec(máx) = hf − φ não muda. Essa separação entre quantidade e energia é justamente o que o modelo ondulatório da luz não conseguia explicar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-466",
+   "texto_apoio": "A função trabalho de um metal vale φ = 3,0 × 10⁻¹⁹ J. Adote h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O maior comprimento de onda capaz de arrancar elétrons desse metal por efeito fotoelétrico é de aproximadamente:",
+   "alternativas": {
+    "a": "2,2 × 10⁻⁷ m",
+    "b": "6,6 × 10⁻⁷ m",
+    "c": "3,3 × 10⁻⁷ m",
+    "d": "1,3 × 10⁻⁶ m",
+    "e": "7,4 × 10⁻²⁴ m"
+   },
+   "resposta": "b",
+   "explicacao": "No limiar hc/λ₀ = φ, então λ₀ = hc/φ = 1,989 × 10⁻²⁵ / 3,0 × 10⁻¹⁹ ≈ 6,6 × 10⁻⁷ m. Comprimento de onda MAIOR significa frequência menor, e abaixo da frequência de corte não há emissão — daí o limiar aparecer como um máximo em λ e um mínimo em f.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-467",
+   "texto_apoio": "Numa célula fotoelétrica aplica-se uma tensão contrária que freia os elétrons ejetados; a tensão que anula a corrente é o potencial de corte V₀, e vale e·V₀ = Ec(máx). Num ensaio, a energia cinética máxima medida foi de 3,2 × 10⁻¹⁹ J. Adote e = 1,6 × 10⁻¹⁹ C.",
+   "enunciado": "O potencial de corte desse ensaio vale:",
+   "alternativas": {
+    "a": "0,50 V",
+    "b": "1,0 V",
+    "c": "3,2 V",
+    "d": "2,0 V",
+    "e": "5,0 V"
+   },
+   "resposta": "d",
+   "explicacao": "V₀ = Ec(máx)/e = 3,2 × 10⁻¹⁹ / 1,6 × 10⁻¹⁹ = 2,0 V. A alternativa (c) trata o número 3,2 como se já estivesse em volts, erro de quem mistura joule com elétron-volt no meio da conta. Medir V₀ é a forma prática de obter Ec(máx) no efeito fotoelétrico sem detectar cada elétron.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-468",
+   "texto_apoio": "A radiação ultravioleta danifica o DNA das células da pele e responde pelo risco de câncer cutâneo. A luz visível chega ao chão em quantidade muito maior ao meio-dia e não produz esse dano.",
+   "enunciado": "No modelo em que a luz é feita de fótons, a explicação para essa diferença é que:",
+   "alternativas": {
+    "a": "o fóton ultravioleta tem comprimento de onda maior e por isso penetra mais fundo na pele",
+    "b": "a luz visível chega em fótons mais numerosos, e o dano cresce com o número de fótons por segundo",
+    "c": "cada fóton ultravioleta carrega mais energia que um fóton visível, e o dano depende da energia por fóton",
+    "d": "o fóton ultravioleta se propaga mais devagar e fica mais tempo em contato com a célula",
+    "e": "os dois tipos de fóton carregam a mesma energia, e o que muda é apenas a intensidade da radiação que chega ao chão ao meio-dia"
+   },
+   "resposta": "c",
+   "explicacao": "Como E = hf, o ultravioleta (frequência maior) entrega pacotes de energia maiores, suficientes para quebrar ligações do DNA; o visível entrega muitos pacotes pequenos, e pacote pequeno não se acumula numa molécula. É o mesmo raciocínio do efeito fotoelétrico, em que a frequência de corte separa a luz que arranca elétrons da que não arranca por mais intensa que seja.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-469",
+   "texto_apoio": "Um átomo excitado decai de um nível de energia para outro, mais baixo, e a diferença entre os dois níveis vale 4,42 × 10⁻¹⁹ J. Adote h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O comprimento de onda do fóton emitido nessa transição é de aproximadamente:",
+   "alternativas": {
+    "a": "1,5 × 10⁻¹⁵ m",
+    "b": "2,2 × 10⁻⁷ m",
+    "c": "9,0 × 10⁻⁷ m",
+    "d": "6,6 × 10⁻⁷ m",
+    "e": "4,5 × 10⁻⁷ m"
+   },
+   "resposta": "e",
+   "explicacao": "ΔE = hc/λ, então λ = hc/ΔE = 1,989 × 10⁻²⁵ / 4,42 × 10⁻¹⁹ ≈ 4,5 × 10⁻⁷ m — luz azul. A alternativa (a) esquece o c. Como os níveis do átomo são discretos, as diferenças possíveis também são, e é daí que vem o espectro de linhas: cada quantum de energia emitido corresponde a uma cor bem definida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-470",
+   "texto_apoio": "Num LED, o elétron atravessa uma barreira de energia da ordem de 2,0 eV e a diferença é entregue de uma vez a um fóton. Adote 1 eV = 1,6 × 10⁻¹⁹ J, h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O comprimento de onda da luz emitida por esse LED é de aproximadamente:",
+   "alternativas": {
+    "a": "622 nm",
+    "b": "310 nm",
+    "c": "1240 nm",
+    "d": "450 nm",
+    "e": "780 nm"
+   },
+   "resposta": "a",
+   "explicacao": "2,0 eV = 3,2 × 10⁻¹⁹ J, e λ = hc/E = 1,989 × 10⁻²⁵ / 3,2 × 10⁻¹⁹ ≈ 6,2 × 10⁻⁷ m = 622 nm, luz vermelho-alaranjada. A alternativa (b) divide o resultado por dois, erro de quem usa 2h em vez de h; a (c) trata o 2,0 como se já estivesse em joules. Um LED só acende acima de uma tensão mínima justamente porque abaixo dela o elétron não junta a energia de um fóton inteiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-471",
+   "texto_apoio": "Num tubo de raios X de uso radiológico, elétrons acelerados por uma tensão de 50 kV chocam-se contra o alvo. No caso extremo, um elétron entrega de uma vez toda a energia que ganhou a um único fóton. Adote e = 1,6 × 10⁻¹⁹ C, h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O menor comprimento de onda presente no feixe produzido por esse tubo é de aproximadamente:",
+   "alternativas": {
+    "a": "1,2 × 10⁻¹⁰ m",
+    "b": "2,5 × 10⁻⁹ m",
+    "c": "8,0 × 10⁻¹⁵ m",
+    "d": "2,5 × 10⁻¹¹ m",
+    "e": "4,0 × 10⁻¹¹ m"
+   },
+   "resposta": "d",
+   "explicacao": "A energia máxima do fóton é eU = 1,6 × 10⁻¹⁹ × 5,0 × 10⁴ = 8,0 × 10⁻¹⁵ J, e λ(mín) = hc/eU = 1,989 × 10⁻²⁵ / 8,0 × 10⁻¹⁵ ≈ 2,5 × 10⁻¹¹ m. A alternativa (c) devolve a energia, não o comprimento de onda. O corte abrupto do espectro nesse valor é a assinatura da quantização: sem ela, o feixe se estenderia indefinidamente para comprimentos menores.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-472",
+   "texto_apoio": "Um apontador laser entrega 2,0 × 10⁻³ joule por segundo em luz de comprimento de onda 6,0 × 10⁻⁷ m. Adote h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O número de fótons que esse apontador emite por segundo é de aproximadamente:",
+   "alternativas": {
+    "a": "6,0 × 10¹² por segundo",
+    "b": "6,0 × 10¹⁵ por segundo",
+    "c": "3,0 × 10¹⁵ por segundo",
+    "d": "1,2 × 10¹⁶ por segundo",
+    "e": "6,6 × 10⁻²² por segundo"
+   },
+   "resposta": "b",
+   "explicacao": "Cada fóton vale E = hc/λ ≈ 3,3 × 10⁻¹⁹ J, e o feixe entrega 2,0 × 10⁻³ J a cada segundo, logo N = 2,0 × 10⁻³ / 3,3 × 10⁻¹⁹ ≈ 6,0 × 10¹⁵. A alternativa (e) multiplica em vez de dividir. O número é tão grande que o feixe parece contínuo: a granularidade da luz só aparece em experiências de contagem individual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-473",
+   "texto_apoio": "Um elétron de um microscópio eletrônico tem momento linear de módulo 2,0 × 10⁻²⁴ kg·m/s. Adote h = 6,63 × 10⁻³⁴ J·s.",
+   "enunciado": "O comprimento de onda de De Broglie associado a esse elétron, λ = h/p, é de aproximadamente:",
+   "alternativas": {
+    "a": "1,3 × 10⁻⁵⁷ m",
+    "b": "3,0 × 10⁹ m",
+    "c": "3,3 × 10⁻¹⁰ m",
+    "d": "6,6 × 10⁻¹⁰ m",
+    "e": "1,7 × 10⁻¹⁰ m"
+   },
+   "resposta": "c",
+   "explicacao": "λ = h/p = 6,63 × 10⁻³⁴ / 2,0 × 10⁻²⁴ ≈ 3,3 × 10⁻¹⁰ m, da ordem do tamanho de um átomo. A alternativa (a) multiplica em vez de dividir; a (b) inverte a razão e devolve um número gigantesco, incompatível com um comprimento. É essa onda de matéria que dá ao elétron o comportamento difrativo previsto pela dualidade onda-partícula.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-474",
+   "texto_apoio": "Um microscópio óptico não separa detalhes menores que o comprimento de onda da luz que usa, cerca de 5 × 10⁻⁷ m. Um microscópio eletrônico enxerga estruturas milhares de vezes menores, como a membrana de uma organela.",
+   "enunciado": "A razão física desse ganho de resolução é que:",
+   "alternativas": {
+    "a": "o feixe de elétrons tem intensidade maior e ilumina melhor a amostra observada",
+    "b": "o comprimento de onda de De Broglie do elétron acelerado é muito menor que o da luz visível",
+    "c": "o elétron viaja acima da velocidade da luz e alcança detalhes que a luz não alcança",
+    "d": "o elétron não tem comportamento ondulatório, e por isso escapa da limitação imposta pelo comprimento de onda",
+    "e": "o elétron carrega carga e é atraído pelo núcleo dos átomos da amostra, desenhando o contorno deles no detector"
+   },
+   "resposta": "b",
+   "explicacao": "O limite de resolução é da ordem do comprimento de onda usado. Acelerado por alguns milhares de volts, o elétron tem λ = h/mv da ordem de 10⁻¹¹ m, quatro ordens de grandeza abaixo da luz visível. A alternativa (c) é impossível de sustentar: a velocidade da luz é o teto para partículas com massa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-475",
+   "enunciado": "Um próton e um elétron se movem com a mesma velocidade. Comparando os comprimentos de onda de De Broglie associados a eles, λ = h/mv, conclui-se que:",
+   "alternativas": {
+    "a": "o do próton é maior, porque a massa dele é maior",
+    "b": "os dois são iguais, porque λ depende só da velocidade das partículas",
+    "c": "o do próton é maior, porque ele carrega mais energia cinética nessa situação",
+    "d": "os dois são iguais, porque a constante de Planck é a mesma para as duas partículas e é ela quem fixa o comprimento de onda",
+    "e": "o do elétron é maior, porque a massa dele é menor"
+   },
+   "resposta": "e",
+   "explicacao": "Com a mesma velocidade, quem tem menos massa tem o produto mv menor, e λ = h/mv é inversamente proporcional a ele. O próton tem massa cerca de 1836 vezes maior, então seu comprimento de onda de De Broglie é 1836 vezes menor. Só perto da velocidade da luz seria preciso trocar mv pela expressão relativística. A dualidade onda-partícula fica imperceptível em corpos macroscópicos exatamente por esse motivo: massa grande, λ minúsculo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-476",
+   "texto_apoio": "Sondas com vela solar são empurradas pela luz do Sol, sem carregar combustível. Cada fóton que atinge a vela e volta transfere momento linear a ela.",
+   "enunciado": "Que a luz consiga empurrar a vela mostra que:",
+   "alternativas": {
+    "a": "o fóton carrega momento linear e o transfere à vela, apesar de sua energia de repouso ser nula",
+    "b": "o fóton tem uma massa de repouso pequena, e é ela que produz o empurrão sobre a vela",
+    "c": "o empurrão vem do vento de partículas do Sol, e a luz em si não exerce força alguma",
+    "d": "o empurrão vem do aquecimento da vela, que evapora material da superfície e produz reação",
+    "e": "a luz transfere carga elétrica à vela, e a repulsão entre cargas de mesmo sinal afasta a sonda do Sol"
+   },
+   "resposta": "a",
+   "explicacao": "Na relatividade restrita, momento e energia se ligam por E² = (pc)² + (mc²)². Para o fóton, cuja energia de repouso é nula, sobra p = E/c: momento sem massa. Refletido pela vela, ele inverte de sentido e entrega o dobro do próprio momento, e a pressão de radiação resultante move a sonda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-477",
+   "texto_apoio": "Ao atravessar tecido, um fóton de raios X pode ser espalhado por um elétron e seguir viagem com comprimento de onda maior do que tinha antes. É o efeito Compton, responsável por boa parte da dose espalhada numa sala de radiologia.",
+   "enunciado": "Esse aumento do comprimento de onda do fóton espalhado significa que ele:",
+   "alternativas": {
+    "a": "manteve a mesma energia, mudando apenas a direção em que segue",
+    "b": "ganhou energia, porque comprimento de onda maior corresponde a fóton mais energético",
+    "c": "perdeu energia, parte dela entregue ao elétron como energia cinética",
+    "d": "perdeu carga elétrica para o elétron, e com ela parte da sua frequência",
+    "e": "perdeu massa de repouso, convertida em energia cinética do elétron atingido no choque"
+   },
+   "resposta": "c",
+   "explicacao": "Como E = hc/λ, comprimento de onda maior é energia menor: o fóton entregou parte da sua energia ao elétron, que recua. O choque conserva energia e momento como o de duas bolas, e foi essa a evidência que consolidou o fóton como partícula. A alternativa (e) não se sustenta porque o fóton não tem energia de repouso a perder.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-478",
+   "texto_apoio": "Elétrons ejetados de um filamento aquecido formam um feixe tão fraco que atravessam uma barreira de duas fendas praticamente um a um. Cada um marca um ponto isolado na tela; depois de milhões de impactos, os pontos desenham franjas claras e escuras.",
+   "enunciado": "Esse resultado é apresentado como demonstração:",
+   "alternativas": {
+    "a": "de que o elétron é apenas uma onda, já que só ondas produzem franjas numa tela",
+    "b": "de que os elétrons colidem entre si dentro do aparelho e assim se organizam nas franjas",
+    "c": "de que a tela brilha por conta própria nos pontos de impacto, formando o padrão observado",
+    "d": "da dualidade onda-partícula: cada elétron chega como grão isolado, mas a estatística dos impactos desenha um padrão de interferência",
+    "e": "de que cada elétron passa por uma fenda de cada vez e o padrão nasce de duas faixas iluminadas justapostas, uma para cada fenda que se deixou aberta"
+   },
+   "resposta": "d",
+   "explicacao": "Os dois lados aparecem no mesmo experimento: a chegada é sempre pontual, típica de partícula, e a distribuição das chegadas é a de uma onda que passou pelas duas fendas. Fechar uma das fendas destrói o padrão, o que elimina a alternativa (e). O mesmo experimento feito com fótons dá o mesmo desenho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-479",
+   "texto_apoio": "Num gráfico da energia de ligação por núcleon contra o número de massa, a curva sobe rápido entre os núcleos leves, atinge o máximo na região do ferro-56 e depois cai lentamente até o urânio.",
+   "enunciado": "Desse formato de curva decorre que:",
+   "alternativas": {
+    "a": "o ferro-56 é o núcleo que mais facilmente se parte, justamente por ocupar o máximo da curva",
+    "b": "núcleos leves liberam energia ao se fundir e núcleos pesados liberam energia ao se partir",
+    "c": "núcleos leves liberam energia ao se partir e núcleos pesados liberam energia ao se fundir",
+    "d": "apenas a fissão libera energia, seja qual for a região da curva em que o núcleo se encontre",
+    "e": "a energia de ligação por núcleon cresce indefinidamente com o número de massa e não apresenta máximo"
+   },
+   "resposta": "b",
+   "explicacao": "Libera energia todo processo que empurra os núcleos para o topo da curva: fusão vindo da esquerda, fissão vindo da direita. A energia sai da massa que desaparece na reação, convertida pela relação E = mc² com o quadrado da velocidade da luz. Por estar no máximo, o ferro-56 não libera energia nem partindo nem se fundindo — o contrário do que diz (a).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-480",
+   "texto_apoio": "Na fissão de um núcleo de urânio-235, os fragmentos produzidos têm massa total 3,0 × 10⁻²⁸ kg menor que a do núcleo original. Adote para a velocidade da luz no vácuo 3,0 × 10⁸ m/s.",
+   "enunciado": "A energia liberada nessa fissão, pela relação E = mc², é de aproximadamente:",
+   "alternativas": {
+    "a": "9,0 × 10⁻²⁰ J",
+    "b": "2,7 × 10⁻¹⁰ J",
+    "c": "1,4 × 10⁻¹¹ J",
+    "d": "5,4 × 10⁻¹¹ J",
+    "e": "2,7 × 10⁻¹¹ J"
+   },
+   "resposta": "e",
+   "explicacao": "E = Δm·c² = 3,0 × 10⁻²⁸ × 9,0 × 10¹⁶ = 2,7 × 10⁻¹¹ J, cerca de 170 MeV — o valor típico por fissão. A alternativa (a) usa c em vez de c². Multiplicada pelo número de núcleos de um quilograma de combustível, essa energia por evento é o que separa a escala nuclear da escala química.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-481",
+   "texto_apoio": "No núcleo do Sol, quatro núcleos de hidrogênio acabam formando um núcleo de hélio. O hélio produzido tem massa menor que a dos quatro hidrogênios que entraram na conta.",
+   "enunciado": "A relação entre essa perda de massa e o brilho do Sol é que:",
+   "alternativas": {
+    "a": "a massa que falta virou energia segundo E = mc², e é essa energia que a estrela irradia",
+    "b": "a massa que falta foi expelida como poeira e não entra no balanço energético da estrela",
+    "c": "a massa se conserva no processo, e a energia irradiada vem da queima química do hidrogênio",
+    "d": "a energia irradiada vem da contração gravitacional, e a massa que falta é erro de medida",
+    "e": "a massa que falta reaparece como energia de repouso dos neutrinos emitidos, sem contribuir para o brilho observado"
+   },
+   "resposta": "a",
+   "explicacao": "A cada quilograma de hidrogênio fundido, cerca de 7 gramas desaparecem da balança e reaparecem como energia, multiplicados pelo quadrado da velocidade da luz. A alternativa (c) foi a hipótese do século XIX e dava ao Sol alguns milhares de anos de vida — quatro ordens de grandeza abaixo da idade geológica da Terra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-482",
+   "texto_apoio": "No exame PET, um radiofármaco emite pósitrons. Cada pósitron encontra um elétron do tecido e os dois desaparecem, dando lugar a dois fótons de 0,511 MeV que partem em sentidos opostos e são captados pelo anel de detectores.",
+   "enunciado": "O valor 0,511 MeV de cada fóton corresponde:",
+   "alternativas": {
+    "a": "à energia cinética que o pósitron tinha ao ser emitido pelo radiofármaco",
+    "b": "à energia de ligação do elétron ao átomo de onde ele saiu",
+    "c": "à energia de repouso do elétron, obtida por E = mc²",
+    "d": "à metade da energia de repouso do próton que permanece no núcleo após a emissão",
+    "e": "à energia do fóton de raios X que o anel de detectores emite para localizar o ponto de origem do sinal"
+   },
+   "resposta": "c",
+   "explicacao": "A massa do elétron equivale a 0,511 MeV. Na aniquilação, a energia de repouso das duas partículas (0,511 MeV cada) sai como dois fótons de mesma energia em sentidos opostos, o que conserva momento. É a emissão em sentidos opostos que permite ao anel traçar a reta em que o evento ocorreu e reconstruir a imagem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-483",
+   "texto_apoio": "No fim do século XIX, a física clássica previa que um corpo aquecido deveria irradiar energia sem limite nas frequências mais altas — previsão que os experimentos desmentiam. Em 1900, Planck contornou o impasse supondo que a troca de energia entre matéria e radiação se dá em pacotes.",
+   "enunciado": "A hipótese de Planck consiste em admitir que:",
+   "alternativas": {
+    "a": "a energia trocada pode assumir valor contínuo, desde que a frequência envolvida seja baixa",
+    "b": "a energia do corpo aquecido depende só da sua massa, e não da frequência da radiação emitida",
+    "c": "a matéria absorve radiação em pacotes mas a emite de forma contínua, e isso basta para corrigir a previsão clássica",
+    "d": "a energia trocada entre matéria e radiação é múltipla de um quantum de energia igual a hf",
+    "e": "radiação de frequência alta não é emitida por corpo algum, o que elimina o infinito da previsão clássica"
+   },
+   "resposta": "d",
+   "explicacao": "Ao exigir que a energia venha em múltiplos inteiros de hf, Planck tornou improvável a excitação dos modos de frequência muito alta, e a curva prevista passou a coincidir com a medida. Cinco anos depois Einstein levou a ideia adiante: o pacote não é só um artifício de cálculo, é o fóton, e com ele explicou o efeito fotoelétrico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-484",
+   "texto_apoio": "Hidrogênio aquecido num tubo emite luz apenas em cores bem determinadas: no espectroscópio aparecem linhas separadas, e não uma faixa contínua de cores.",
+   "enunciado": "A explicação quântica para esse espectro de linhas é que:",
+   "alternativas": {
+    "a": "cada linha corresponde a uma velocidade diferente do elétron dentro do átomo",
+    "b": "os níveis de energia do átomo são discretos, e cada linha é o fóton emitido numa transição entre dois deles",
+    "c": "o átomo emite em cores contínuas, e o espectroscópio filtra parte delas antes do registro",
+    "d": "cada linha corresponde a um isótopo diferente presente na amostra de gás do tubo",
+    "e": "as linhas nascem do encontro entre a radiação emitida por átomos vizinhos, e não da estrutura interna do átomo"
+   },
+   "resposta": "b",
+   "explicacao": "Se a energia do elétron ligado só pode assumir valores discretos, as diferenças entre esses valores também são discretas, e cada diferença fixa o valor hf de um fóton emitido. O espectro de linhas é, portanto, a impressão digital dos níveis de cada elemento — e foi o que o modelo clássico do átomo, com energia contínua, não conseguiu prever.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-485",
+   "texto_apoio": "Numa sala de radiologia convivem duas radiações feitas de fóton: os raios X, produzidos por elétrons freados num alvo metálico, e os raios gama, emitidos pelo núcleo de átomos radioativos.",
+   "enunciado": "Entre raios X e raios gama de mesma energia, a diferença física está:",
+   "alternativas": {
+    "a": "apenas na origem: um vem da frenagem de elétrons ou da eletrosfera, o outro vem do núcleo",
+    "b": "na rapidez com que atravessam o ar, maior nos raios gama do que nos raios X",
+    "c": "na carga elétrica, positiva nos raios gama e nula nos raios X",
+    "d": "no fato de os raios X serem ondas e os raios gama serem partículas",
+    "e": "na energia de cada fóton, necessariamente maior nos raios gama, seja qual for a fonte usada"
+   },
+   "resposta": "a",
+   "explicacao": "De mesma energia, os dois fótons são fisicamente idênticos: atravessam o vácuo com a velocidade da luz e interagem com o tecido do mesmo modo. O que os nomes registram é a procedência, não uma propriedade. Na prática os gama costumam ser mais energéticos, mas isso é tendência das fontes, não definição — o que derruba (e).",
    "formato": "direta",
    "origem": "medicina"
   },
@@ -38142,6 +40287,38 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "matematica-sequencias",
+   "id": "med-matematica-521",
+   "enunciado": "Em um teatro, a primeira fila tem 12 poltronas e cada fila seguinte tem 3 poltronas a mais do que a fila imediatamente anterior. O número total de poltronas nas 20 primeiras filas é:",
+   "alternativas": {
+    "a": "780",
+    "b": "840",
+    "c": "810",
+    "d": "741",
+    "e": "690"
+   },
+   "resposta": "c",
+   "explicacao": "As quantidades por fila formam uma progressão aritmética de primeiro termo 12, e a razão da progressão vale 3. O vigésimo termo é 12 + 19 · 3 = 69, e a soma dos 20 primeiros termos é (12 + 69) · 20 ÷ 2 = 810. Os valores 780 e 840 saem de usar 18 ou 20 parcelas de razão no último termo; 741 corresponde a somar apenas 19 filas; 690 vem de multiplicar 69 por 10, o que ignora que o fator 10 deve multiplicar a soma dos extremos, e não só o maior deles.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-522",
+   "enunciado": "Numa dinâmica de sala de aula, o primeiro participante recebe 3 pontos e cada participante seguinte recebe o triplo dos pontos do participante anterior. Quantos pontos recebe o sexto participante?",
+   "alternativas": {
+    "a": "243",
+    "b": "1092",
+    "c": "18",
+    "d": "2187",
+    "e": "729"
+   },
+   "resposta": "e",
+   "explicacao": "A sequência dos pontos é uma progressão geométrica de primeiro termo 3, e a razão da progressão vale 3. O termo geral multiplica o primeiro termo pela razão elevada a n − 1, de modo que o sexto termo é 3 · 3⁵ = 3 · 243 = 729. O valor 243 é o quinto termo; 2187 seria o sétimo; 1092 é a soma dos 6 primeiros termos; e 18 aparece quando se trata a lista como progressão aritmética de razão 3.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
    "id": "dir-matematica-rlm-331",
    "banca": "fgv",
    "sessao": "fgv-unificado-2023.1",
@@ -38200,6 +40377,710 @@ window.QUESTION_BANKS = {
    "banca": "fgv",
    "origem": "direito",
    "frenteOrigem": "matematica-rlm"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-477",
+   "enunciado": "Uma pesquisa ouviu 130 moradores de um bairro sobre dois aplicativos. Verificou-se que 68 usam o aplicativo de transporte, 52 usam o aplicativo de entrega e 25 usam os dois. Representando a situação num diagrama de Venn, quantos moradores não usam nenhum dos dois aplicativos?",
+   "alternativas": {
+    "a": "35",
+    "b": "95",
+    "c": "70",
+    "d": "43",
+    "e": "27"
+   },
+   "resposta": "a",
+   "explicacao": "Pelo princípio da inclusão e exclusão, o número de elementos da união é |A ∪ B| = 68 + 52 − 25 = 95. Como o universo tem 130 moradores, ficam fora da união 130 − 95 = 35. O valor 95 é a própria união, isto é, quem usa pelo menos um; 70 conta quem usa exatamente um dos dois; 43 e 27 são as diferenças entre conjuntos, quem usa só um dos aplicativos. Esquecer de subtrair a interseção dos conjuntos é o erro clássico aqui.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-478",
+   "enunciado": "Numa loja, 90 clientes foram consultados: 45 compraram o produto A, 39 compraram o produto B e 12 compraram os dois produtos. Quantos clientes compraram exatamente um dos dois produtos?",
+   "alternativas": {
+    "a": "84",
+    "b": "60",
+    "c": "72",
+    "d": "33",
+    "e": "27"
+   },
+   "resposta": "b",
+   "explicacao": "Quem comprou apenas A são 45 − 12 = 33 clientes e quem comprou apenas B são 39 − 12 = 27, de modo que exatamente um dos dois produtos foi comprado por 33 + 27 = 60 clientes. Note que 72 é o número de elementos da união |A ∪ B| = 45 + 39 − 12, que já inclui quem comprou os dois; 84 soma os conjuntos sem descontar a interseção dos conjuntos, contando duas vezes quem está nos dois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-479",
+   "enunciado": "Sejam A e B dois conjuntos finitos tais que A tem 36 elementos, B tem 28 elementos e a interseção dos conjuntos tem 11 elementos. O número de elementos da união A ∪ B é:",
+   "alternativas": {
+    "a": "17",
+    "b": "64",
+    "c": "53",
+    "d": "42",
+    "e": "25"
+   },
+   "resposta": "c",
+   "explicacao": "O princípio da inclusão e exclusão dá |A ∪ B| = |A| + |B| − |A ∩ B| = 36 + 28 − 11 = 53. A alternativa 64 esquece de subtrair a interseção e conta duas vezes cada elemento comum aos dois conjuntos; 42 subtrai a interseção duas vezes e sobra quem pertence a exatamente um dos conjuntos; 25 e 17 são as diferenças entre conjuntos A − B e B − A.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-480",
+   "enunciado": "Num universo U com 150 elementos estão os conjuntos A, com 88 elementos, e B, com 64 elementos, cuja interseção tem 31 elementos. Quantos elementos de U não pertencem a A nem a B?",
+   "alternativas": {
+    "a": "152",
+    "b": "121",
+    "c": "62",
+    "d": "29",
+    "e": "86"
+   },
+   "resposta": "d",
+   "explicacao": "O que se pede é o conjunto complementar da união: |A ∪ B| = 88 + 64 − 31 = 121, e o complementar em U tem 150 − 121 = 29 elementos. As alternativas 62 e 86 dão o complementar de apenas um dos conjuntos; 152 soma A e B sem aplicar a inclusão e exclusão, e por isso ultrapassa o próprio universo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-481",
+   "enunciado": "Numa turma de 45 estudantes, 26 estudam alemão, 24 estudam italiano e 7 não estudam nenhum dos dois idiomas. Quantos estudantes estudam os dois idiomas?",
+   "alternativas": {
+    "a": "50",
+    "b": "7",
+    "c": "2",
+    "d": "38",
+    "e": "12"
+   },
+   "resposta": "e",
+   "explicacao": "Quem estuda pelo menos um idioma são 45 − 7 = 38 estudantes, e esse é o número de elementos da união. Pela inclusão e exclusão, |A ∩ B| = |A| + |B| − |A ∪ B| = 26 + 24 − 38 = 12. A alternativa 38 devolve a união em vez da interseção dos conjuntos; 50 é a soma crua dos dois conjuntos; 2 troca o sinal do termo da união.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-482",
+   "enunciado": "O conjunto A tem 57 elementos e a interseção dos conjuntos A e B tem 23 elementos. Quantos elementos formam a diferença entre conjuntos A − B, isto é, pertencem a A mas não a B?",
+   "alternativas": {
+    "a": "34",
+    "b": "57",
+    "c": "80",
+    "d": "46",
+    "e": "23"
+   },
+   "resposta": "a",
+   "explicacao": "A diferença entre conjuntos A − B reúne os elementos de A que ficam fora de B, logo |A − B| = |A| − |A ∩ B| = 57 − 23 = 34. A alternativa 23 devolve a própria interseção; 57 ignora que parte de A está dentro de B; 80 soma em vez de subtrair; 46 desconta a interseção duas vezes, o que daria 11 se ainda partisse de A.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-483",
+   "enunciado": "Uma pesquisa com 200 leitores mostrou que 110 leem o jornal A, 95 leem o jornal B e 40 leem os dois jornais. Quantos leitores leem apenas o jornal B?",
+   "alternativas": {
+    "a": "70",
+    "b": "55",
+    "c": "165",
+    "d": "35",
+    "e": "95"
+   },
+   "resposta": "b",
+   "explicacao": "Quem lê apenas B está na diferença entre conjuntos B − A: 95 − 40 = 55 leitores. A alternativa 95 é o total de leitores de B, que inclui quem lê também A; 70 é a diferença simétrica pelo outro lado, os que leem apenas A; 165 é o número de elementos da união |A ∪ B|; 35 são os que não leem nenhum dos dois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-484",
+   "enunciado": "Dois conjuntos A e B satisfazem |A ∪ B| = 74, |A| = 48 e |B| = 39. Quantos elementos pertencem simultaneamente aos dois conjuntos?",
+   "alternativas": {
+    "a": "87",
+    "b": "35",
+    "c": "13",
+    "d": "26",
+    "e": "61"
+   },
+   "resposta": "c",
+   "explicacao": "Isolando a interseção na fórmula da inclusão e exclusão: |A ∩ B| = |A| + |B| − |A ∪ B| = 48 + 39 − 74 = 13. A alternativa 87 é a soma dos dois conjuntos sem qualquer desconto; 35 e 26 subtraem um conjunto da união e devolvem uma diferença entre conjuntos, não a interseção; 61 é o que sobra da união depois de retirar a interseção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-485",
+   "enunciado": "Numa escola, 63 alunos participam do coral, 48 participam do grupo de teatro e 105 participam de pelo menos uma dessas duas atividades. Quantos alunos participam das duas atividades?",
+   "alternativas": {
+    "a": "42",
+    "b": "57",
+    "c": "12",
+    "d": "6",
+    "e": "111"
+   },
+   "resposta": "d",
+   "explicacao": "\"Participar de pelo menos uma\" é exatamente o número de elementos da união, logo |A ∩ B| = 63 + 48 − 105 = 6 alunos. A alternativa 111 soma os dois conjuntos e conta duas vezes quem está nos dois; 42 e 57 são diferenças entre conjuntos; 12 dobra a interseção, erro de quem soma as duas contagens do miolo do diagrama de Venn.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-486",
+   "enunciado": "Num condomínio com 96 moradores, 54 assinam o serviço de internet, 41 assinam o serviço de TV e 18 assinam ambos os serviços. Quantos moradores não assinam nenhum dos dois serviços?",
+   "alternativas": {
+    "a": "59",
+    "b": "36",
+    "c": "77",
+    "d": "95",
+    "e": "19"
+   },
+   "resposta": "e",
+   "explicacao": "O diagrama de Venn dá |A ∪ B| = 54 + 41 − 18 = 77 assinantes de pelo menos um serviço, e os demais são 96 − 77 = 19. A alternativa 77 confunde \"não assinam nenhum\" com \"assinam pelo menos um\"; 95 ignora a interseção dos conjuntos; 59 conta quem assina exatamente um; 36 é a diferença entre conjuntos de quem só tem internet.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-487",
+   "enunciado": "Considere os inteiros de 1 a 60. Seja A o conjunto dos múltiplos de 4 e B o conjunto dos múltiplos de 6 nesse intervalo. Quantos elementos tem a união A ∪ B?",
+   "alternativas": {
+    "a": "20",
+    "b": "15",
+    "c": "10",
+    "d": "5",
+    "e": "25"
+   },
+   "resposta": "a",
+   "explicacao": "São 15 múltiplos de 4 e 10 múltiplos de 6. Os elementos comuns aos dois conjuntos são os múltiplos de 12, o mínimo múltiplo comum, e há 5 deles. Pela inclusão e exclusão, |A ∪ B| = 15 + 10 − 5 = 20. A alternativa 25 conta duas vezes cada múltiplo de 12; 15 e 10 devolvem um dos conjuntos isolado; 5 é a interseção dos conjuntos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-488",
+   "enunciado": "Dois conjuntos A e B têm, respectivamente, 30 e 22 elementos, e 9 elementos pertencem aos dois. Quantos elementos formam a diferença simétrica entre A e B, ou seja, pertencem a exatamente um dos dois conjuntos?",
+   "alternativas": {
+    "a": "52",
+    "b": "34",
+    "c": "21",
+    "d": "13",
+    "e": "43"
+   },
+   "resposta": "b",
+   "explicacao": "A diferença simétrica é (A − B) ∪ (B − A): são 21 elementos só em A e 13 só em B, num total de 34. Equivale a |A| + |B| − 2·|A ∩ B| = 30 + 22 − 18 = 34. A alternativa 43 é o número de elementos da união, que também abriga a interseção dos conjuntos; 52 não desconta nada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-489",
+   "enunciado": "Num universo U com 80 elementos, o conjunto complementar de A tem 47 elementos. Sabendo que B tem 29 elementos e que a interseção de A com B tem 12 elementos, o número de elementos da união A ∪ B é:",
+   "alternativas": {
+    "a": "38",
+    "b": "17",
+    "c": "50",
+    "d": "62",
+    "e": "47"
+   },
+   "resposta": "c",
+   "explicacao": "Do complementar vem |A| = 80 − 47 = 33. Aplicando a inclusão e exclusão, |A ∪ B| = 33 + 29 − 12 = 50. A alternativa 62 esquece a interseção dos conjuntos; 47 repete o próprio complementar; 38 retira a interseção uma segunda vez; 17 é a diferença entre conjuntos B − A.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-490",
+   "enunciado": "De 132 candidatos, 79 acertaram a questão de lógica, 58 acertaram a questão de conjuntos e 24 não acertaram nenhuma das duas. Quantos candidatos acertaram as duas questões?",
+   "alternativas": {
+    "a": "50",
+    "b": "108",
+    "c": "137",
+    "d": "29",
+    "e": "24"
+   },
+   "resposta": "d",
+   "explicacao": "Acertaram pelo menos uma 132 − 24 = 108 candidatos, que é o número de elementos da união. Logo |A ∩ B| = 79 + 58 − 108 = 29. A alternativa 108 devolve a união; 137 soma os conjuntos sem inclusão e exclusão; 24 repete quem ficou fora; 50 é a diferença entre conjuntos de quem só acertou a de lógica.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-491",
+   "enunciado": "Numa turma de 50 estudantes, cada um pratica ao menos um esporte entre natação e vôlei. Se 31 praticam natação e 27 praticam vôlei, quantos praticam os dois esportes?",
+   "alternativas": {
+    "a": "19",
+    "b": "42",
+    "c": "58",
+    "d": "23",
+    "e": "8"
+   },
+   "resposta": "e",
+   "explicacao": "Como o universo coincide com a união, |A ∪ B| = 50 e a inclusão e exclusão dá |A ∩ B| = 31 + 27 − 50 = 8. A alternativa 58 é a soma dos dois conjuntos, maior que a turma justamente porque conta duas vezes a interseção dos conjuntos; 23 e 19 são as diferenças entre conjuntos; 42 é quem pratica exatamente um esporte.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-492",
+   "enunciado": "Uma pesquisa com 150 pessoas investigou o uso de três aplicativos, A, B e C. Apurou-se que 78 usam A, 65 usam B, 52 usam C, 30 usam A e B, 25 usam A e C, 21 usam B e C, e 12 usam os três. Quantas pessoas não usam nenhum dos três aplicativos?",
+   "alternativas": {
+    "a": "19",
+    "b": "31",
+    "c": "131",
+    "d": "195",
+    "e": "79"
+   },
+   "resposta": "a",
+   "explicacao": "O princípio da inclusão e exclusão para três conjuntos dá |A ∪ B ∪ C| = 78 + 65 + 52 − 30 − 25 − 21 + 12 = 131. Sobram 150 − 131 = 19 pessoas fora da união. A alternativa 31 esquece de somar de volta os 12 do miolo do diagrama de Venn, que foram retirados três vezes; 131 é a própria união; 195 soma os três conjuntos sem desconto; 79 conta quem usa exatamente um aplicativo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-493",
+   "enunciado": "Num levantamento sobre três esportes, 64 jovens praticam futebol, 45 praticam vôlei e 38 praticam basquete; 20 praticam futebol e vôlei, 15 praticam futebol e basquete, 12 praticam vôlei e basquete, e 6 praticam os três. Quantos jovens praticam exatamente um desses esportes?",
+   "alternativas": {
+    "a": "44",
+    "b": "71",
+    "c": "106",
+    "d": "147",
+    "e": "29"
+   },
+   "resposta": "b",
+   "explicacao": "Quem pratica exatamente um esporte resulta de |A|+|B|+|C| − 2(|A∩B|+|A∩C|+|B∩C|) + 3|A∩B∩C| = 147 − 94 + 18 = 71. A alternativa 106 é o número de elementos da união, obtido pela inclusão e exclusão; 147 soma os três conjuntos; 29 conta quem pratica exatamente dois; 44 é a diferença entre conjuntos de quem joga futebol e não vôlei.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-494",
+   "enunciado": "Três cursos livres, A, B e C, foram oferecidos numa escola. Matricularam-se 52 estudantes em A, 44 em B e 36 em C; 18 cursaram A e B, 14 cursaram A e C, 11 cursaram B e C, e 5 cursaram os três. Quantos estudantes cursaram exatamente dois desses cursos?",
+   "alternativas": {
+    "a": "33",
+    "b": "132",
+    "c": "28",
+    "d": "43",
+    "e": "94"
+   },
+   "resposta": "c",
+   "explicacao": "Cada uma das interseções duas a duas já contém os 5 que fizeram os três, e cada um deles aparece nas três interseções. Assim, exatamente dois cursos são 43 − 3·5 = 28. A alternativa 43 soma as interseções sem descontar o miolo do diagrama de Venn; 94 é o número de elementos da união; 33 conta quem fez pelo menos dois; 132 soma os três conjuntos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-495",
+   "enunciado": "Sabe-se que |A| = 95, |B| = 82, |C| = 70, |A ∩ B| = 38, |A ∩ C| = 30, |B ∩ C| = 25 e que a união dos conjuntos A, B e C tem 168 elementos. Quantos elementos pertencem aos três conjuntos ao mesmo tempo?",
+   "alternativas": {
+    "a": "8",
+    "b": "79",
+    "c": "93",
+    "d": "14",
+    "e": "247"
+   },
+   "resposta": "d",
+   "explicacao": "Da inclusão e exclusão, |A ∩ B ∩ C| = |A ∪ B ∪ C| − (|A|+|B|+|C|) + (|A∩B|+|A∩C|+|B∩C|) = 168 − 247 + 93 = 14. A alternativa 93 apenas soma as interseções duas a duas; 247 soma os três conjuntos; 79 subtrai a união da soma crua, esquecendo as interseções; 8 desconta o miolo do diagrama de Venn uma vez a mais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-496",
+   "enunciado": "Numa pesquisa sobre três revistas, 60 leitores assinam a revista A, 48 assinam a B e 40 assinam a C; 22 assinam A e B, 18 assinam A e C, 15 assinam B e C, e 8 assinam as três. Quantos leitores assinam apenas a revista C?",
+   "alternativas": {
+    "a": "40",
+    "b": "7",
+    "c": "22",
+    "d": "101",
+    "e": "15"
+   },
+   "resposta": "e",
+   "explicacao": "Quem assina apenas C sai de |C| retirando as duas interseções e devolvendo o miolo, contado a menos: 40 − 18 − 15 + 8 = 15. A alternativa 40 é o total de assinantes de C; 7 esquece de somar de volta os 8 que estão no centro do diagrama de Venn e foram descontados duas vezes; 101 é o número de elementos da união.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-497",
+   "enunciado": "Numa turma, 27 estudantes participam ao mesmo tempo dos projetos A e B, e destes 11 participam também do projeto C. Quantos estudantes participam de A e B, mas não de C?",
+   "alternativas": {
+    "a": "16",
+    "b": "11",
+    "c": "33",
+    "d": "38",
+    "e": "27"
+   },
+   "resposta": "a",
+   "explicacao": "A região do diagrama de Venn pedida é (A ∩ B) − C, que tem 27 − 11 = 16 estudantes. A alternativa 27 devolve a interseção dos conjuntos A e B inteira, incluindo quem também faz C; 11 repete o miolo; 33 triplica esse miolo, erro de quem soma a mesma região nas três interseções; 38 soma em vez de subtrair. Vale notar que 22 também não corresponde a região alguma do diagrama.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-498",
+   "enunciado": "Numa empresa, 72 funcionários falam inglês, 58 falam espanhol e 46 falam francês; 26 falam inglês e espanhol, 20 falam inglês e francês, 17 falam espanhol e francês, e 10 falam os três idiomas. Além disso, 24 funcionários não falam nenhum desses idiomas. Quantos funcionários tem a empresa?",
+   "alternativas": {
+    "a": "123",
+    "b": "147",
+    "c": "176",
+    "d": "113",
+    "e": "133"
+   },
+   "resposta": "b",
+   "explicacao": "A união dos conjuntos vale 176 − 63 + 10 = 123 pela inclusão e exclusão, e o total da empresa é essa união somada aos 24 que não falam nenhum: 123 + 24 = 147. A alternativa 123 para no número de elementos da união; 176 soma os três conjuntos sem descontar as interseções; 113 esquece de devolver o miolo do diagrama de Venn.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-499",
+   "enunciado": "Numa pesquisa sobre três serviços de streaming, as assinaturas simultâneas foram: 30 pessoas assinam A e B, 24 assinam A e C, 19 assinam B e C, e 11 assinam os três. Quantas pessoas assinam pelo menos dois desses serviços?",
+   "alternativas": {
+    "a": "84",
+    "b": "73",
+    "c": "51",
+    "d": "40",
+    "e": "11"
+   },
+   "resposta": "c",
+   "explicacao": "Somando a interseção dos conjuntos duas a duas chega-se a 73, mas quem assina os três foi contado três vezes e deve valer uma só: 73 − 2·11 = 51. É o mesmo ajuste do princípio da inclusão e exclusão, que corrige as contagens repetidas antes de calcular o número de elementos da união. A alternativa 73 mantém a contagem tripla do miolo do diagrama de Venn; 40 conta apenas quem assina exatamente dois; 11 repete o centro; 84 soma em vez de descontar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-500",
+   "enunciado": "Na tabela-verdade da condicional p → q, com p e q proposições simples, essa proposição composta assume valor lógico falso em qual situação?",
+   "alternativas": {
+    "a": "p falsa e q falsa",
+    "b": "p verdadeira e q verdadeira",
+    "c": "em duas situações distintas: p falsa com q verdadeira e também p verdadeira com q verdadeira",
+    "d": "p verdadeira e q falsa",
+    "e": "p falsa e q verdadeira"
+   },
+   "resposta": "d",
+   "explicacao": "A condicional p → q só é falsa quando o antecedente é verdadeiro e o consequente é falso; nas outras três linhas da tabela-verdade ela é verdadeira, inclusive nas duas em que p é falsa. Por isso a negação da condicional é p ∧ ~q, e não outra condicional. Quem marca as demais alternativas costuma confundir a condicional com a bicondicional, que exige mesmo valor lógico dos dois lados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-501",
+   "enunciado": "Uma proposição composta é construída aplicando conectivos às proposições p, q, r e s, todas elas proposições simples. Quantas linhas tem a tabela-verdade dessa proposição composta?",
+   "alternativas": {
+    "a": "12",
+    "b": "32",
+    "c": "4",
+    "d": "8",
+    "e": "16"
+   },
+   "resposta": "e",
+   "explicacao": "Cada proposição simples admite dois valores lógicos, e para todo conjunto de n proposições simples a tabela-verdade tem 2 elevado a n linhas. Com n = 4, são 2·2·2·2 = 16 linhas. A alternativa 8 corresponde a três proposições; 32 corresponde a cinco; 12 soma em vez de multiplicar as possibilidades; 4 conta apenas as proposições, não as combinações de valor lógico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-502",
+   "enunciado": "Considere as proposições p e q e a proposição composta (p ∧ q) → ~p. Em quantas das quatro linhas da tabela-verdade essa proposição composta é verdadeira?",
+   "alternativas": {
+    "a": "3",
+    "b": "4",
+    "c": "0",
+    "d": "1",
+    "e": "2"
+   },
+   "resposta": "a",
+   "explicacao": "A conjunção p ∧ q só é verdadeira na linha em que p e q são ambas verdadeiras; nessa linha ~p é falsa e a condicional fica falsa. Nas outras três linhas o antecedente é falso e a condicional assume valor lógico verdadeiro. Logo são 3 linhas verdadeiras. Marcar 4 é esquecer a linha em que a condicional falha; marcar 1 é inverter o papel do antecedente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-503",
+   "enunciado": "Qual das proposições abaixo é logicamente equivalente à condicional p → q?",
+   "alternativas": {
+    "a": "p ∧ ~q",
+    "b": "~p ∨ q",
+    "c": "~p ∧ q",
+    "d": "p ∨ ~q",
+    "e": "a conjunção de p com a negação de q, que é justamente o caso em que a condicional falha"
+   },
+   "resposta": "b",
+   "explicacao": "Comparando linha a linha na tabela-verdade, p → q e ~p ∨ q têm o mesmo valor lógico nas quatro linhas: ambas só falham com p verdadeira e q falsa. Já p ∧ ~q é a negação da condicional, não a sua equivalente — e é esse mesmo erro que aparece descrito por extenso entre as opções. As formas ~p ∧ q e p ∨ ~q divergem da condicional em pelo menos uma linha da tabela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-504",
+   "enunciado": "Sendo p e q proposições simples, a negação da proposição composta p ∧ q é:",
+   "alternativas": {
+    "a": "p → ~q",
+    "b": "q → p",
+    "c": "~p ∨ ~q",
+    "d": "~p ∧ ~q",
+    "e": "p ∨ q"
+   },
+   "resposta": "c",
+   "explicacao": "Pelas leis de De Morgan, negar uma conjunção troca o conectivo lógico e nega as duas partes: ~(p ∧ q) equivale a ~p ∨ ~q. A alternativa ~p ∧ ~q nega as duas partes mas mantém a conjunção, e só é verdadeira quando as duas falham ao mesmo tempo — a tabela-verdade separa os dois casos. As demais mudam o valor lógico em pelo menos uma linha.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-505",
+   "enunciado": "A bicondicional p ↔ q, lida como \"p se e somente se q\", é verdadeira exatamente quando:",
+   "alternativas": {
+    "a": "p é verdadeira e q é falsa",
+    "b": "p é falsa e q é verdadeira",
+    "c": "basta que uma das duas proposições seja verdadeira para a bicondicional se verificar",
+    "d": "p e q têm o mesmo valor lógico",
+    "e": "p e q têm valores lógicos diferentes"
+   },
+   "resposta": "d",
+   "explicacao": "A bicondicional é a conjunção das duas condicionais, (p → q) ∧ (q → p), e por isso é verdadeira nas duas linhas da tabela-verdade em que p e q coincidem em valor lógico, e falsa nas outras duas. Contentar-se com uma das duas proposições verdadeira é descrever a disjunção, não a bicondicional; isso bastaria se o enunciado dissesse \"ou\", e não \"se e somente se\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-506",
+   "enunciado": "Um inteiro é divisível por 6 se e somente se for divisível por 2 e por 3. Nessa afirmação, ser divisível por 2 e por 3 é, em relação à divisibilidade por 6:",
+   "alternativas": {
+    "a": "condição necessária, mas não suficiente",
+    "b": "condição suficiente, mas não necessária",
+    "c": "uma condição sem relação com a divisibilidade por 6",
+    "d": "condição apenas suficiente, já que há múltiplos de 6 que deixam de ser múltiplos de 3",
+    "e": "condição necessária e suficiente"
+   },
+   "resposta": "e",
+   "explicacao": "A expressão \"se e somente se\" indica uma bicondicional, e numa bicondicional a segunda parte é ao mesmo tempo condição necessária e suficiente para a primeira: a implicação vale nos dois sentidos, com o mesmo valor lógico dos dois lados. As opções que separam necessária de suficiente descrevem uma condicional simples, que vale num sentido só. Chamar a condição de apenas suficiente é falso também no conteúdo: cada múltiplo de 6 é múltiplo de 3.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-507",
+   "enunciado": "Considere a proposição quantificada: \"Todo estudante desta turma foi aprovado no exame\". Qual das alternativas expressa corretamente a negação dessa proposição?",
+   "alternativas": {
+    "a": "Existe pelo menos um estudante desta turma que não foi aprovado no exame.",
+    "b": "Nenhum estudante desta turma foi aprovado no exame.",
+    "c": "Existe pelo menos um estudante desta turma que foi aprovado no exame.",
+    "d": "Os estudantes desta turma deixaram de ser aprovados no exame.",
+    "e": "Existe pelo menos um estudante de outra turma que não foi aprovado no exame do semestre."
+   },
+   "resposta": "a",
+   "explicacao": "A negação lógica da proposição universal \"para todo x, vale P(x)\" é a proposição existencial \"existe pelo menos um x para o qual P(x) falha\": o quantificador universal vira existencial e a propriedade é negada. Negar que a aprovação alcançou o grupo inteiro não obriga a que ninguém tenha sido aprovado, e afirmar isso seria forte demais. Falar de estudantes de outra turma muda o universo do enunciado, e dizer que existe um aprovado preserva o valor lógico da proposição original em vez de negá-lo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-508",
+   "enunciado": "Qual é a negação da proposição \"Existe pelo menos um candidato que não entregou os documentos exigidos\"?",
+   "alternativas": {
+    "a": "Nenhum candidato entregou os documentos exigidos.",
+    "b": "Cada candidato entregou os documentos exigidos.",
+    "c": "Há candidatos que deixaram de entregar os documentos exigidos.",
+    "d": "Cada candidato deixou de entregar ao menos um dos documentos exigidos na inscrição.",
+    "e": "Existe pelo menos um candidato que entregou os documentos exigidos."
+   },
+   "resposta": "b",
+   "explicacao": "Negar uma proposição existencial produz uma proposição universal com a propriedade negada: se é falso que existe um caso de falta, então para todo candidato a entrega ocorreu. O quantificador existencial vira universal. Dizer que há candidatos que deixaram de entregar apenas repete a proposição original com outras palavras, mantendo o mesmo valor lógico; afirmar que ninguém entregou, ou que cada candidato falhou em algum documento, vai muito além do que a negação exige.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-509",
+   "enunciado": "A proposição \"Algum morador do prédio pratica ioga\" tem como negação lógica:",
+   "alternativas": {
+    "a": "Há moradores do prédio que praticam ioga e moradores que não praticam ioga.",
+    "b": "Algum morador do prédio deixa de praticar ioga.",
+    "c": "Nenhum morador do prédio pratica ioga.",
+    "d": "Existe pelo menos um morador do prédio que pratica ioga.",
+    "e": "Cada morador do prédio pratica ioga."
+   },
+   "resposta": "c",
+   "explicacao": "A negação lógica da proposição parte do quantificador: \"algum\" é o existencial, e negar \"existe pelo menos um caso\" equivale a afirmar que para todo morador a propriedade falha — em português, \"nenhum morador pratica ioga\". Dizer que algum morador deixa de praticar nega a propriedade sem mexer no quantificador, e pode conviver com a proposição original sem contradizê-la; falar em existir quem pratique é repetir a original; e afirmar as duas coisas ao mesmo tempo não inverte o valor lógico de coisa alguma.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-510",
+   "enunciado": "Numa fábrica, afirma-se que \"toda peça produzida nesta linha passa pelo controle de qualidade\". Para mostrar que essa afirmação é falsa, basta exibir:",
+   "alternativas": {
+    "a": "que nenhuma peça produzida nesta linha passa pelo controle de qualidade",
+    "b": "uma peça de outra linha que não passa pelo controle de qualidade",
+    "c": "que as peças produzidas nesta linha e nas demais linhas deixam de passar pelo controle de qualidade",
+    "d": "uma peça produzida nesta linha que não passa pelo controle de qualidade",
+    "e": "uma peça produzida nesta linha que passa pelo controle de qualidade"
+   },
+   "resposta": "d",
+   "explicacao": "A negação lógica da proposição com quantificador universal é existencial: para todo caso valia a propriedade, e basta um contraexemplo para inverter o valor lógico da afirmação. Exigir que nenhuma peça passe pelo controle é pedir muito mais do que a negação; e uma peça de outra linha nada diz sobre a linha citada, porque o universo da proposição é apenas esta linha de produção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-511",
+   "enunciado": "Considere a condicional \"Se chove, então a rua fica molhada\". A contrapositiva dessa condicional é:",
+   "alternativas": {
+    "a": "Chove e a rua não fica molhada.",
+    "b": "Se a rua fica molhada, então não choveu, invertendo a ordem das duas partes da condicional.",
+    "c": "Se não chove, então a rua não fica molhada.",
+    "d": "Se a rua fica molhada, então choveu.",
+    "e": "Se a rua não fica molhada, então não choveu."
+   },
+   "resposta": "e",
+   "explicacao": "A contrapositiva de p → q é ~q → ~p, e as duas têm o mesmo valor lógico em cada linha da tabela-verdade. Partir de \"não chove\" produz a inversa (~p → ~q) e partir de \"a rua fica molhada\" produz a recíproca (q → p); nenhuma das duas equivale à condicional original. Afirmar que chove e a rua não fica molhada é a negação da condicional, p ∧ ~q. Trocar a inversa pela contrapositiva é o erro mais frequente nesse item.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-512",
+   "enunciado": "Dada a condicional \"Se um inteiro é múltiplo de 10, então ele é par\", a recíproca dessa condicional é:",
+   "alternativas": {
+    "a": "Se um inteiro é par, então ele é múltiplo de 10.",
+    "b": "Se um inteiro não é múltiplo de 10, então ele não é par.",
+    "c": "Se um inteiro não é par, então ele não é múltiplo de 10.",
+    "d": "Um inteiro é múltiplo de 10 e não é par.",
+    "e": "Se um inteiro é par, então ele não é múltiplo de 10, pois pode terminar em outro algarismo."
+   },
+   "resposta": "a",
+   "explicacao": "A recíproca de p → q é q → p: troca-se a ordem das partes sem negar nada. Negar as duas partes na ordem original produz a inversa; negá-las já invertidas produz a contrapositiva, esta sim com o mesmo valor lógico da condicional original; e afirmar que o inteiro é múltiplo de 10 sem ser par é a negação da condicional. Vale observar que a recíproca aqui é falsa, já que 14 é par sem ser múltiplo de 10, o que mostra que uma condicional verdadeira não arrasta a sua recíproca.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-513",
+   "enunciado": "Qual das proposições abaixo é a negação da condicional \"Se estudo, então passo no exame\"?",
+   "alternativas": {
+    "a": "Se não estudo, então não passo no exame.",
+    "b": "Estudo e não passo no exame.",
+    "c": "Se não passo no exame, então não estudo.",
+    "d": "Não estudo ou passo no exame.",
+    "e": "Se estudo, então não passo no exame, bastando negar a segunda parte da condicional."
+   },
+   "resposta": "b",
+   "explicacao": "A negação da condicional p → q é p ∧ ~q, a única situação em que a tabela-verdade dá falso: o antecedente ocorre e o consequente falha. Partir de \"não estudo\" dá a inversa, partir de \"não passo\" dá a contrapositiva, e \"não estudo ou passo\" é justamente uma forma equivalente à condicional original (~p ∨ q) — de modo que nenhuma delas nega coisa alguma. Negar só o consequente mantendo o \"se\" continua produzindo uma condicional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-514",
+   "enunciado": "Considere as premissas: \"Todo professor desta escola tem pós-graduação\" e \"Toda pessoa com pós-graduação concluiu a graduação\". Qual conclusão se segue necessariamente dessas premissas?",
+   "alternativas": {
+    "a": "Cada pessoa que concluiu a graduação leciona nesta escola.",
+    "b": "Cada pessoa com pós-graduação leciona nesta escola.",
+    "c": "Cada professor desta escola concluiu a graduação.",
+    "d": "Existe pelo menos um professor desta escola que não concluiu a graduação.",
+    "e": "Existe pelo menos uma pessoa com pós-graduação que não leciona nesta escola."
+   },
+   "resposta": "c",
+   "explicacao": "Cada premissa é uma proposição lógica de forma universal, e num silogismo desse tipo a propriedade se transmite: para todo professor vale a pós-graduação, e para todo pós-graduado vale a graduação concluída. Encadeando as duas, obtém-se um argumento válido. As opções que invertem o sentido da inclusão trocam a condicional pela recíproca, e a que aponta um pós-graduado fora da escola, embora plausível no mundo real, não decorre das premissas dadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-515",
+   "enunciado": "Sabe-se que \"se um inteiro termina em 0, então ele é par\". Informa-se, além disso, que certo inteiro é par. O que se pode concluir sobre esse inteiro?",
+   "alternativas": {
+    "a": "Ele termina em 0.",
+    "b": "Ele não termina em 0.",
+    "c": "Ele não é par.",
+    "d": "Nada se conclui: ele pode ser par sem terminar em 0.",
+    "e": "Ele termina em 0, porque a condicional autoriza a leitura da implicação nos dois sentidos."
+   },
+   "resposta": "d",
+   "explicacao": "Afirmar o consequente não é um argumento válido: das premissas p → q e q não se deduz p. Concluir que o inteiro termina em 0 seria usar a recíproca da condicional, que não decorre dela — 24 é par e termina em 4. Só a contrapositiva preserva o valor lógico da condicional, de modo que a informação útil seria saber que o inteiro não é par.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-516",
+   "enunciado": "Considere as premissas: \"Cada atleta da equipe treina pela manhã\" e \"Existe pelo menos um atleta da equipe que é canhoto\". Qual conclusão é válida?",
+   "alternativas": {
+    "a": "Existe pelo menos um atleta da equipe que treina à tarde.",
+    "b": "Nenhum canhoto treina pela manhã.",
+    "c": "Existe pelo menos um canhoto da equipe que treina à tarde, e não pela manhã.",
+    "d": "Cada canhoto treina pela manhã.",
+    "e": "Existe pelo menos um canhoto que treina pela manhã."
+   },
+   "resposta": "e",
+   "explicacao": "A primeira premissa é universal: para todo atleta da equipe vale o treino matinal. A segunda garante que a interseção dos conjuntos \"atletas da equipe\" e \"canhotos\" não é vazia. Logo há ao menos um canhoto no grupo que treina pela manhã, e o silogismo é um argumento válido. Concluir que o quantificador universal alcança os canhotos em geral extrapola as premissas, pois nada se disse sobre canhotos de fora da equipe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-517",
+   "enunciado": "Num certame, ser aprovado no exame é condição necessária para receber o certificado. Disso decorre que:",
+   "alternativas": {
+    "a": "quem recebeu o certificado foi aprovado no exame",
+    "b": "quem não recebeu o certificado não foi aprovado no exame",
+    "c": "ser aprovado no exame e receber o certificado são a mesma coisa",
+    "d": "quem foi aprovado no exame recebeu o certificado, pois a aprovação já basta para obtê-lo",
+    "e": "quem foi aprovado no exame recebeu o certificado"
+   },
+   "resposta": "a",
+   "explicacao": "Dizer que A é condição necessária para B é dizer B → A: receber o certificado implica ter sido aprovado. Isso não autoriza o caminho inverso, que exigiria uma condição necessária e suficiente, ou seja, uma bicondicional. Concluir que quem não recebeu o certificado não foi aprovado é usar a inversa da condicional, que não decorre dela; e concluir que a aprovação garantiu o certificado troca necessária por suficiente, erro que a tabela-verdade da condicional desfaz de imediato.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-518",
+   "enunciado": "Considere as proposições p, q e a proposição composta (~p) ∨ q. Em quantas das quatro linhas da tabela-verdade essa proposição composta é verdadeira?",
+   "alternativas": {
+    "a": "4",
+    "b": "3",
+    "c": "2",
+    "d": "1",
+    "e": "0"
+   },
+   "resposta": "b",
+   "explicacao": "A disjunção só é falsa quando as duas partes falham, isto é, quando ~p é falsa (p verdadeira) e q é falsa. Isso ocorre numa única linha, então nas outras 3 a proposição composta tem valor lógico verdadeiro. Essa composta é a forma equivalente da condicional p → q, e por isso a negação da condicional é p ∧ ~q, verdadeira exatamente naquela linha isolada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-519",
+   "enunciado": "Qual é a negação da proposição \"João estuda e trabalha\"?",
+   "alternativas": {
+    "a": "João estuda ou trabalha.",
+    "b": "João não estuda e não trabalha.",
+    "c": "João não estuda ou não trabalha.",
+    "d": "João não estuda, mas trabalha.",
+    "e": "João não estuda e não trabalha, já que negar uma conjunção pede negar as duas partes de uma vez."
+   },
+   "resposta": "c",
+   "explicacao": "A proposição composta tem a forma p ∧ q, e pelas leis de De Morgan a sua negação é ~p ∨ ~q: o conectivo lógico troca de conjunção para disjunção e cada parte é negada. Basta que uma das duas atividades falhe para que a afirmação original seja falsa, o que a tabela-verdade confirma. Exigir que as duas atividades falhem ao mesmo tempo é confundir a negação da conjunção com a conjunção das negações.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-logica-conjuntos",
+   "id": "med-matematica-520",
+   "enunciado": "Numa turma, cada estudante que faz o curso de robótica faz também o curso de programação. Sabendo que 18 estudantes fazem programação e 7 fazem robótica, quantos fazem programação sem fazer robótica?",
+   "alternativas": {
+    "a": "7",
+    "b": "3",
+    "c": "25",
+    "d": "11",
+    "e": "18"
+   },
+   "resposta": "d",
+   "explicacao": "A hipótese diz que para todo estudante de robótica vale também a programação, ou seja, o conjunto da robótica está contido no da programação, e no diagrama de Venn uma das regiões fica inteiramente dentro da outra. A interseção dos conjuntos é então o próprio grupo de robótica, e a diferença entre conjuntos procurada vale 18 − 7 = 11. A alternativa 25 soma os dois grupos como se fossem separados; 18 e 7 repetem os totais dados.",
+   "formato": "direta",
+   "origem": "medicina"
   },
   {
    "subtema": "matematica-logica-conjuntos",
@@ -40902,7 +43783,7 @@ window.QUESTION_BANKS = {
     "a": "contraposição, em que a paciência é apresentada como mais confiável e sustentável do que a paixão.",
     "b": "indiferença, pois o orador afirma que nenhum dos dois conceitos importa para o trabalho.",
     "c": "complementaridade, em que a paixão inicia o percurso e a paciência apenas o mantém.",
-    "d": "sinonímia, já que os dois termos seriam usados como equivalentes ao longo de todo o discurso de formatura.",
+    "d": "sinonímia, já que os dois termos seriam usados como equivalentes pelo orador, sem distinção de sentido entre eles no discurso de formatura.",
     "e": "causa e efeito, em que a paixão é apontada como consequência direta da paciência."
    },
    "resposta": "a",
@@ -41259,7 +44140,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Países que historicamente mais contribuíram para as emissões acumuladas de gases de efeito estufa costumam ser também os que possuem maior capacidade financeira e tecnológica para mitigar os efeitos das mudanças climáticas. Já nações que menos contribuíram para o problema ao longo da história frequentemente enfrentam os impactos mais severos, como secas prolongadas e eventos climáticos extremos, com recursos proporcionalmente menores para se adaptar.",
    "enunciado": "Qual argumento pode ser construído a partir da relação apresentada no texto entre responsabilidade histórica e capacidade de mitigação?",
    "alternativas": {
-    "a": "Países menos desenvolvidos seriam os principais e únicos responsáveis históricos pelas emissões de gases de efeito estufa mundiais.",
+    "a": "Países menos desenvolvidos seriam os principais e únicos responsáveis históricos pelas emissões acumuladas de gases de efeito estufa, embora disponham de menos recursos.",
     "b": "Há uma desproporção entre quem mais contribuiu para o problema climático e quem mais sofre seus efeitos com menos recursos para se adaptar.",
     "c": "A capacidade de mitigação acompanha a responsabilidade histórica, o que torna a distribuição de encargos proporcional.",
     "d": "Não existe, segundo o texto, nenhuma relação entre capacidade financeira e mitigação climática global.",
@@ -41297,7 +44178,7 @@ window.QUESTION_BANKS = {
     "a": "introduzir um dado de pesquisa que comprova a superioridade da triagem por gravidade sobre os demais critérios de ordenação adotados nos serviços de urgência",
     "b": "apresentar a tese central do artigo, que só é enunciada nesse ponto do texto depois de o autor preparar o leitor com os exemplos apresentados anteriormente",
     "c": "admitir a objeção adversária e, em seguida, reduzir seu alcance, mostrando que a existência de erros de classificação pede uma triagem melhor, e não a volta da ordem de chegada",
-    "d": "abandonar a linha de raciocínio até então desenvolvida, passando a defender a posição contrária àquela sustentada nos primeiros parágrafos do artigo publicado",
+    "d": "abandonar a linha de raciocínio até então desenvolvida, passando a defender a posição contrária àquela sustentada nos primeiros parágrafos, numa guinada que o restante do artigo não retoma",
     "e": "encerrar a exposição com um resumo das ideias apresentadas, retomando ponto a ponto os argumentos utilizados pelo autor ao longo de toda a sua explanação"
    },
    "resposta": "c",
@@ -41364,7 +44245,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Segundo o texto, o principal obstáculo à aceitação da triagem pelos pacientes é:",
    "alternativas": {
     "a": "a invisibilidade do critério para quem está esperando, que vê o vizinho ser chamado na sua frente sem enxergar a razão da escolha",
-    "b": "a insuficiência do número de profissionais disponíveis nos serviços de urgência, que torna a espera longa demais para ser tolerada por qualquer pessoa adoecida",
+    "b": "a insuficiência do número de profissionais disponíveis nos serviços de urgência, que torna a espera longa demais para ser tolerada por quem chega adoecido",
     "c": "a desconfiança generalizada em relação à competência técnica das equipes de classificação de risco",
     "d": "a ausência de uma legislação específica que regulamente os critérios de prioridade e preveja sanções aos serviços",
     "e": "o desconhecimento, por parte da população, de que existe qualquer classificação de risco anterior ao atendimento"
@@ -41383,7 +44264,7 @@ window.QUESTION_BANKS = {
     "a": "representa um avanço em relação aos modelos anteriores de organização das filas, ainda que exija adaptações para funcionar em unidades de grande porte",
     "b": "produz resultados clínicos equivalentes aos da triagem por gravidade, com a vantagem de ser compreendido sem esforço pelos usuários",
     "c": "elimina a possibilidade de erro humano na classificação, uma vez que dispensa qualquer avaliação técnica por parte da equipe responsável pelo acolhimento",
-    "d": "deve ser adotado nos casos em que a equipe de triagem não dispuser de informação suficiente para estabelecer a prioridade entre os pacientes que aguardam",
+    "d": "deve ser adotado nos casos em que a equipe de triagem não dispuser de informação suficiente para estabelecer a prioridade entre os pacientes que aguardam atendimento",
     "e": "não reduz o prejuízo causado pela espera, apenas o desloca para casos cuja demora é mais fácil de justificar, o que traz conforto a quem precisa explicá-la"
    },
    "resposta": "e",
@@ -41552,7 +44433,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O uso predominante do discurso direto no conto contribui para:",
    "alternativas": {
     "a": "diferenciar o registro linguístico das duas personagens, evidenciando o contraste entre a formação técnica de cada uma delas e a região de origem",
-    "b": "estabelecer com precisão o tempo transcorrido durante o episódio narrado, uma vez que cada réplica corresponde a um intervalo determinado da conversa",
+    "b": "estabelecer com precisão o tempo transcorrido durante o episódio narrado, uma vez que cada réplica corresponde a um intervalo determinado da conversa entre as personagens",
     "c": "concentrar o sentido nas falas e reduzir ao mínimo o comentário do narrador, que informa pouco e não interpreta o que as personagens dizem uma à outra",
     "d": "aproximar o texto do gênero dramático, no qual a ausência de narrador exige que toda a ação seja construída exclusivamente por meio dos diálogos",
     "e": "suprir a falta de descrição do ambiente, elemento que o conto deliberadamente omite por considerá-lo irrelevante para a compreensão do enredo"
@@ -41944,7 +44825,7 @@ window.QUESTION_BANKS = {
    "textoId": "med-med-int-t12",
    "enunciado": "O \"observamos\" ______ a responsabilidade, ao passo que o \"eu não sei\" ______; o resenhista valoriza o segundo por ______. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "concentra – distribui entre os membros da equipe – refletir com mais fidelidade o modo como as decisões clínicas são efetivamente tomadas na prática",
+    "a": "concentra – distribui entre os membros da equipe – refletir com mais fidelidade o modo como as decisões clínicas são efetivamente tomadas na prática dos hospitais de ensino",
     "b": "dilui – tem dono, e com ele a dúvida ganha um sujeito – expor quem assume a dúvida, registro que o resenhista considera notável e lamenta ver restrito a quatro capítulos",
     "c": "explicita – oculta a autoria da conclusão apresentada – preservar o anonimato dos profissionais envolvidos nos casos relatados ao longo do volume",
     "d": "atenua – reforça a certeza expressa pela autora – transmitir ao leitor maior segurança quanto às conclusões apresentadas em cada um dos capítulos",
@@ -41997,7 +44878,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A sequência textual predominante é:",
    "alternativas": {
     "a": "descritiva, na medida em que caracteriza detalhadamente os materiais utilizados em cada uma das etapas mencionadas na sequência apresentada",
-    "b": "narrativa, pois relata na ordem cronológica os passos executados por um profissional durante a realização de um procedimento assistencial de rotina",
+    "b": "narrativa, pois relata na ordem cronológica os passos executados por um profissional durante a realização de um procedimento assistencial de rotina, do primeiro ao último",
     "c": "argumentativa, uma vez que justifica a necessidade de cada uma das etapas listadas por meio de razões apresentadas ao longo do enunciado",
     "d": "injuntiva, porque instrui o leitor sobre como proceder, com verbos no imperativo dispostos na ordem em que as etapas devem ser executadas no procedimento",
     "e": "expositiva, considerando que apresenta de forma neutra o conjunto de normas técnicas aplicáveis à execução do procedimento em questão"
@@ -42033,7 +44914,7 @@ window.QUESTION_BANKS = {
     "a": "causa, apresentando o motivo pelo qual a investigação do quadro clínico deve prosseguir apesar dos resultados obtidos no exame realizado",
     "b": "concessão, admitindo um fato favorável à conclusão contrária e seguindo adiante mesmo assim, sem que ele impeça a investigação que a equipe propõe",
     "c": "condição, indicando a circunstância que precisaria ocorrer para que a investigação clínica pudesse ser considerada concluída pela equipe",
-    "d": "finalidade, expressando o objetivo que se pretende alcançar com a continuidade do processo de investigação do quadro apresentado pelo paciente",
+    "d": "finalidade, expressando o objetivo que se pretende alcançar com a continuidade do processo de investigação do quadro apresentado pelo paciente ao longo do atendimento",
     "e": "consequência, apontando o resultado decorrente da normalidade observada nos exames laboratoriais solicitados no início do atendimento"
    },
    "resposta": "b",
@@ -42211,7 +45092,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "O bairro recebeu, nos últimos cinco anos, três novos condomínios de alto padrão. Os antigos moradores comentam que o supermercado tradicional, antes o único da região, fechou as portas no ano passado, dando lugar a uma rede de conveniência voltada a produtos importados. O aluguel médio, segundo a imobiliária local, praticamente dobrou no período.",
    "enunciado": "Com base no conjunto de informações apresentadas, é possível inferir que o bairro está passando por um processo de",
    "alternativas": {
-    "a": "queda constante e acentuada no valor de todos os imóveis do bairro ao longo dos últimos cinco anos mencionados no texto.",
+    "a": "queda acentuada e generalizada no valor dos imóveis do bairro ao longo dos últimos cinco anos, segundo a imobiliária local citada.",
     "b": "gentrificação, evidenciada pelos condomínios de alto padrão, pela alta do aluguel e pela mudança no comércio.",
     "c": "conurbação com o município vizinho, evidenciada pela expansão contínua da malha urbana.",
     "d": "tombamento histórico oficial do bairro por parte da prefeitura, medida não mencionada no texto.",
@@ -42231,7 +45112,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "o público concordou unanimemente com a decisão de afastamento temporário tomada pela própria atleta.",
     "b": "há um sentido implícito nos comentários hostis, revelando resistência do público ao custo emocional do alto rendimento.",
-    "c": "os comentários hostis foram todos publicados literalmente entre as demais frases desse texto jornalístico específico citado.",
+    "c": "os comentários hostis foram publicados literalmente entre as demais frases desse texto jornalístico, ocupando as linhas intermediárias.",
     "d": "a atleta escreveu pessoalmente todos os comentários hostis mencionados ao longo da reportagem citada.",
     "e": "a atleta respondeu aos comentários de forma indireta, sem mencionar seus autores pelo nome."
    },
@@ -42284,7 +45165,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Que contraponto o autor apresenta em relação ao benefício citado dos jogos de estratégia em tempo real?",
    "alternativas": {
     "a": "Sustenta que o ganho observado desaparece assim que o jogador interrompe a prática por algumas semanas.",
-    "b": "Nega que exista absolutamente qualquer relação entre jogos de estratégia e habilidades cognitivas humanas reais.",
+    "b": "Nega que exista relação demonstrável entre os jogos de estratégia em tempo real e o desempenho cognitivo de quem os pratica.",
     "c": "Sugere que apenas jogos de tabuleiro tradicionais trazem benefícios cognitivos reais.",
     "d": "Afirma que os jogos de estratégia não trazem nenhum benefício real à tomada de decisões.",
     "e": "Reconhece o ganho em rapidez decisória, mas aponta um possível custo: menor tolerância à reflexão pausada."
@@ -42358,7 +45239,7 @@ window.QUESTION_BANKS = {
     "a": "Trabalhadores de turno noturno não utilizam, em nenhuma hipótese, o transporte público para se deslocar.",
     "b": "A redução de frequência nos horários noturnos beneficia diretamente os trabalhadores desse turno.",
     "c": "A lógica de custo que reduz a frequência noturna tende a prejudicar quem depende desses horários por trabalhar à noite.",
-    "d": "A redução de frequência afeta sempre igualmente todos os passageiros, sem qualquer distinção real entre turnos de trabalho.",
+    "d": "A redução de frequência afeta de modo igual os passageiros do período diurno e os do noturno, sem distinção real entre os turnos de trabalho.",
     "e": "A redução noturna é compensada por linhas alternativas, o que mantém o tempo médio de espera estável."
    },
    "resposta": "c",
@@ -42428,7 +45309,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Qual comparação o texto estabelece entre o trabalho infantil do século XIX e o do século XXI?",
    "alternativas": {
     "a": "Sugere que o trabalho infantil no século XXI é exclusivo de minas de carvão, como ocorria no século XIX.",
-    "b": "Afirma que o trabalho infantil foi completamente erradicado no mundo desde o século XIX até os dias de hoje.",
+    "b": "Afirma que o trabalho infantil foi completamente erradicado no mundo desde o século XIX, restando dele apenas os registros históricos das minas europeias.",
     "c": "Mostra que, apesar de mudanças legais desde o século XIX, o trabalho infantil persiste sob formas e cadeias produtivas diferentes.",
     "d": "Sustenta que a legislação do século XIX foi mais eficaz que a atual, por prever punição mais severa.",
     "e": "Nega qualquer relação entre a legislação do século XIX e a situação atual do trabalho infantil no mundo."
@@ -42449,7 +45330,7 @@ window.QUESTION_BANKS = {
     "b": "O método anterior provavelmente aplicava recursos de forma mais uniforme, sem considerar as necessidades específicas de cada ponto.",
     "c": "O método anterior já utilizava sensores tão precisos quanto os descritos no texto atual sobre a agricultura.",
     "d": "O método anterior aplicava insumos de forma localizada, mas sem monitoramento contínuo do solo.",
-    "e": "Não é possível inferir nada sobre o método utilizado antes da adoção da nova tecnologia de sensores no campo."
+    "e": "Não é possível inferir nada sobre o método utilizado antes da adoção dos sensores, porque o texto trata apenas do custo dos equipamentos instalados na lavoura."
    },
    "resposta": "b",
    "explicacao": "Como o texto contrasta a aplicação 'nos pontos específicos que realmente precisam' com uma prática anterior implícita, é possível inferir que o método antigo era menos direcionado, provavelmente aplicando recursos de forma mais uniforme em toda a área.",
@@ -42466,7 +45347,7 @@ window.QUESTION_BANKS = {
     "a": "Porque essas expressões dependem de contexto cultural compartilhado, e não apenas do significado literal das palavras.",
     "b": "Porque essas expressões variam de região para região dentro de um mesmo idioma, o que multiplica as possibilidades.",
     "c": "Porque expressões idiomáticas não existem em nenhuma língua além do português, segundo o texto.",
-    "d": "Porque as ferramentas de tradução automática ainda não conseguem traduzir tipo algum de texto, seja técnico ou não.",
+    "d": "Porque as ferramentas de tradução automática ainda não conseguem traduzir tipo algum de texto, seja ele técnico, informativo ou literário, como reconhece o autor.",
     "e": "Porque os sistemas de tradução automática são treinados exclusivamente com textos jurídicos formais."
    },
    "resposta": "a",
@@ -42499,7 +45380,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A frase pressupõe que:",
    "alternativas": {
     "a": "o município nunca havia registrado casos daquela doença antes do mês de abril, quando o primeiro deles foi finalmente identificado e notificado",
-    "b": "o município passou a adotar um novo sistema de notificação a partir do mês mencionado, o que alterou a forma de contabilizar os casos ocorridos",
+    "b": "o município passou a adotar um novo sistema de notificação a partir do mês mencionado, o que alterou a forma de contabilizar os casos ocorridos no território desde o início do ano",
     "c": "os casos continuaram a ocorrer, embora tenham deixado de ser informados aos órgãos responsáveis pela vigilância epidemiológica da região",
     "d": "abril foi o mês de maior incidência da doença no período analisado pelas autoridades sanitárias responsáveis pelo acompanhamento do surto",
     "e": "havia registro de casos antes de abril, informação que continua valendo mesmo quando a frase é negada, por se tratar de pressuposto e não de afirmação"
@@ -43359,7 +46240,7 @@ window.QUESTION_BANKS = {
     "b": "emotiva, porque as falas revelam o estado emocional de quem participa da conversa.",
     "c": "conativa, porque cada fala procura obter do outro uma mudança de comportamento.",
     "d": "fática, porque as falas servem para estabelecer e verificar o contato entre os interlocutores.",
-    "e": "metalinguística, porque os interlocutores discutem o significado das palavras que empregam."
+    "e": "metalinguística, porque os interlocutores interrompem a conversa para discutir o significado das palavras que um e outro empregam."
    },
    "resposta": "d",
    "explicacao": "Nenhuma informação é transmitida: as falas apenas testam se o canal está aberto e se o outro continua na linha, que é exatamente a função fática. A referencial exigiria assunto, e o diálogo não chega a ter um; a emotiva exigiria marca de sentimento; a conativa exigiria pedido de ação, e os imperativos aqui apenas devolvem o turno de fala; e a metalinguística exigiria discussão sobre a própria língua.",
@@ -43463,7 +46344,7 @@ window.QUESTION_BANKS = {
     "b": "o discurso entusiasmado sobre a 'flexibilidade' do home office e a rotina exaustiva revelada nos quadros seguintes.",
     "c": "o vocabulário corporativo usado pela personagem e a linguagem informal de quem responde a ela.",
     "d": "a quantidade de notebooks usados pela personagem e a qualidade da internet disponível na casa.",
-    "e": "uma explicação técnica bem detalhada sobre a configuração de todos os equipamentos usados nas reuniões virtuais mostradas."
+    "e": "uma explicação técnica bem detalhada sobre a configuração dos equipamentos usados nas reuniões virtuais mostradas na tirinha."
    },
    "resposta": "b",
    "explicacao": "O humor nasce do contraste entre o discurso entusiasmado sobre a flexibilidade do home office e a rotina exaustiva que os quadros seguintes revelam: a mesma cadeira desde as sete da manhã, três notebooks e um bilhete que continua intocado à noite. A passagem do tempo entre o primeiro e o terceiro quadro é o distrator mais fino, porque ela está na tirinha e é indispensável — é o veículo da piada, não o contraste que a produz, que se dá entre o que a personagem diz e o que se vê. O vocabulário corporativo aparece sem que haja um interlocutor de fala informal. A quantidade de notebooks compõe a cena, e a internet não é mencionada. E não há explicação técnica sobre equipamentos.",
@@ -43550,7 +46431,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Segundo o texto, qual é a principal causa apontada para a insegurança alimentar em escala global?",
    "alternativas": {
     "a": "A ausência completa de organizações internacionais dedicadas ao tema da alimentação mundial.",
-    "b": "O excesso constante de produção agrícola, que tornaria os alimentos artificialmente muito mais baratos em todo o mercado.",
+    "b": "O excesso de produção agrícola registrado nos últimos anos, que teria tornado os alimentos artificialmente baratos no mercado mundial.",
     "c": "A concentração da produção agrícola em poucos países exportadores, que fragiliza os importadores.",
     "d": "Problemas de distribuição, perdas na cadeia de transporte e barreiras de acesso econômico, e não a falta de produção.",
     "e": "A insuficiência da produção mundial de alimentos frente à demanda crescente da população global."
@@ -43567,7 +46448,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Diferente do rádio e da televisão, cujo conteúdo é ouvido ou visto no momento estrito da transmissão, o podcast permite que o ouvinte controle o ritmo: pausar, voltar, acelerar a velocidade de reprodução ou consumir o episódio dias depois de publicado. Essa flexibilidade tem atraído um público que valoriza aprofundamento maior do que o formato costuma oferecer em veículos de notícia mais curtos e imediatos.",
    "enunciado": "Segundo o texto, o que diferencia estruturalmente o consumo de podcast do consumo tradicional de rádio e televisão?",
    "alternativas": {
-    "a": "Não há, segundo o texto, nenhuma diferença relevante entre os três formatos de mídia mencionados no início.",
+    "a": "Não há, segundo o texto, diferença relevante entre os três formatos mencionados, já que os três dependem igualmente da grade fixa de programação da emissora.",
     "b": "O podcast depende de conexão contínua durante a escuta, o que restringe seu uso em deslocamentos.",
     "c": "O podcast exige, obrigatoriamente, que o conteúdo seja ouvido no exato momento da publicação do episódio.",
     "d": "O podcast permite ao ouvinte controlar o ritmo de consumo, ao contrário da transmissão em tempo real característica do rádio e da TV.",
@@ -43676,7 +46557,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Qual é a função do trecho final do texto ('até que, dois anos depois, a prefeitura passou a apoiar...') em relação ao restante do relato?",
    "alternativas": {
     "a": "Afirmar que a prefeitura foi responsável, desde o início, pela criação da biblioteca comunitária relatada.",
-    "b": "Contradizer completamente toda a informação apresentada anteriormente sobre a origem comunitária da biblioteca citada no texto.",
+    "b": "Contradizer frontalmente as informações apresentadas antes sobre a origem comunitária da biblioteca, revelando-as imprecisas ao final do relato.",
     "c": "Mostrar que a iniciativa, nascida da comunidade, obteve reconhecimento institucional posterior, sem que este fosse sua origem.",
     "d": "Encerrar o relato sem qualquer relação lógica com as informações apresentadas anteriormente ao longo do texto.",
     "e": "Indicar que a iniciativa perdeu autonomia ao passar a depender de recursos públicos."
@@ -43748,7 +46629,7 @@ window.QUESTION_BANKS = {
     "b": "ironia, ao registrar um entusiasmo pequeno demais para o tamanho do anúncio feito na assembleia, concedendo a comemoração e retirando-a no mesmo movimento",
     "c": "correção, ao retificar uma informação equivocada que o narrador havia fornecido antes sobre a reação do público à obra",
     "d": "dúvida, ao sugerir que o narrador não conseguiu ouvir com clareza o que se passou durante a assembleia do condomínio",
-    "e": "explicação, ao esclarecer ao leitor qual foi o procedimento adotado pelo condomínio para aprovar formalmente a realização da obra no equipamento"
+    "e": "explicação, ao esclarecer ao leitor qual foi o procedimento adotado pelo condomínio para aprovar formalmente a realização da obra no equipamento, com as etapas de votação registradas em ata"
    },
    "resposta": "b",
    "explicacao": "A construção concede e retira ao mesmo tempo: houve palmas, mas eram poucas. O narrador registra a comemoração e, no mesmo fôlego, mostra que ela era mínima — recurso típico da crônica para marcar distância bem-humorada do que se narra.",
@@ -43829,7 +46710,7 @@ window.QUESTION_BANKS = {
    "textoId": "med-med-int-t1",
    "enunciado": "Ao dizer que o tempo ganho \"dá, no fim do mês, um número que não impressiona ninguém\", o narrador:",
    "alternativas": {
-    "a": "sugere que a medição do tempo em ambientes coletivos é sempre imprecisa e que qualquer estimativa apresentada seria contestada por parte dos condôminos",
+    "a": "sugere que a medição do tempo em ambientes coletivos é imprecisa demais e que uma estimativa apresentada em números seria contestada por boa parte dos condôminos",
     "b": "reconhece que não dispõe de dados precisos para calcular a economia obtida e prefere não apresentar número algum ao leitor",
     "c": "critica a falta de transparência do condomínio, que não divulgou aos moradores os resultados alcançados com o investimento",
     "d": "demonstra que os moradores exageraram ao comemorar o anúncio da obra, já que o problema afetava apenas uma parcela reduzida dos usuários do elevador",
@@ -43865,7 +46746,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "o dado correto só funciona quando entregue junto com o que o cerca — a narrativa em que ele será lido, a comparação com algo já vivido e a admissão do que ainda não se sabe",
     "b": "a população brasileira apresenta baixo nível de letramento estatístico, o que explica a dificuldade de compreensão dos números divulgados pelas autoridades de saúde",
-    "c": "os veículos de comunicação distorcem sistematicamente as informações fornecidas pelos pesquisadores, prática que compromete a credibilidade da ciência junto ao público",
+    "c": "os veículos de comunicação distorcem sistematicamente as informações fornecidas pelos pesquisadores, prática que compromete a credibilidade da ciência junto ao público que acompanha os temas de saúde",
     "d": "a comunicação de risco deveria ser realizada exclusivamente por profissionais com formação específica na área, e não pelos próprios cientistas responsáveis pelos estudos",
     "e": "os percentuais são a forma mais adequada de expressar risco, desde que acompanhados de material explicativo distribuído previamente à população interessada"
    },
@@ -44036,7 +46917,7 @@ window.QUESTION_BANKS = {
     "a": "ofereça transporte fretado aos profissionais que residem em regiões distantes, medida que resolveria integralmente o problema apontado ao longo de toda a carta",
     "b": "elimine definitivamente a realização de reuniões no período da manhã, transferindo todos os encontros institucionais para o final da tarde ou para o início da noite",
     "c": "considere, na hora de decidir o horário da reunião, o tempo de deslocamento de quem vem de longe, um tempo que hoje não entra na conta por não aparecer na planilha do serviço",
-    "d": "reduza a jornada de trabalho dos profissionais que enfrentam trajetos longos, compensando com folgas adicionais o tempo despendido nos deslocamentos diários",
+    "d": "reduza a jornada de trabalho dos profissionais que enfrentam trajetos longos, compensando com folgas adicionais o tempo despendido nos deslocamentos diários entre a casa e a unidade de saúde",
     "e": "reconheça publicamente o esforço dos trabalhadores que cumprem horários rígidos, gesto que o autor considera suficiente para melhorar o clima institucional"
    },
    "resposta": "c",
@@ -44137,7 +47018,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "a falta de consulta prévia aos trabalhadores sobre o horário mais adequado, procedimento que deveria ser adotado antes de qualquer definição de escala",
     "b": "a imprecisão da redação empregada nas convocações, que deveriam especificar também o horário previsto para o encerramento",
-    "c": "a ausência de tolerância para atrasos nas reuniões matinais, prática que penaliza injustamente os profissionais que dependem do transporte público coletivo",
+    "c": "a ausência de tolerância para atrasos nas reuniões matinais, prática que penaliza injustamente os profissionais que dependem do transporte público coletivo da região metropolitana",
     "d": "a aparência de neutralidade de uma regra que atinge as pessoas de modo desigual, uma vez que o mesmo horário de início custa muito mais a quem mora longe do serviço",
     "e": "o excesso de reuniões realizadas ao longo da semana, que consome tempo que poderia ser dedicado às atividades assistenciais próprias de cada profissional"
    },
@@ -44204,7 +47085,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A tese central da reportagem é a de que:",
    "alternativas": {
     "a": "a cobertura vacinal deveria ser medida por outro indicador, já que o percentual de esquemas completos não reflete a proteção real da população infantil",
-    "b": "as campanhas de conscientização produzidas pelos órgãos de saúde apresentam conteúdo tecnicamente incorreto e por isso deixam de convencer a população a que se dirigem",
+    "b": "as campanhas de conscientização produzidas pelos órgãos de saúde apresentam conteúdo tecnicamente incorreto e por isso deixam de convencer a população a que se dirigem, segundo os pesquisadores ouvidos",
     "c": "a recusa deliberada à vacinação cresceu de forma acentuada no período analisado e responde pela maior parte da redução observada na cobertura das crianças",
     "d": "as doenças imunopreveníveis retornaram porque os laboratórios reduziram a produção de vacinas, o que comprometeu o abastecimento das unidades básicas de saúde",
     "e": "boa parte da queda da vacinação se resolve removendo obstáculos, e não convencendo, já que ela vem sobretudo de fricção — o horário do posto, a segunda viagem — e não de recusa"
@@ -44259,7 +47140,7 @@ window.QUESTION_BANKS = {
     "b": "hesitação, ao indicar que o autor não dispõe de dados para afirmar quando o processo teve início",
     "c": "concessão, ao admitir que a interpretação contrária também encontra respaldo nos dados disponíveis",
     "d": "reviravolta, ao desmentir em três palavras, logo depois do travessão, a impressão construída na oração anterior",
-    "e": "generalização, ao estender a conclusão obtida para o caso brasileiro a todos os países que enfrentaram redução semelhante em sua cobertura vacinal"
+    "e": "generalização, ao estender a conclusão obtida para o caso brasileiro a outros países que enfrentaram redução semelhante em sua cobertura vacinal"
    },
    "resposta": "d",
    "explicacao": "O travessão corta a frase e o verbo muda de tempo: o \"parece que nada estava acontecendo\" é desfeito por \"até que estava\". A brevidade é o recurso — quanto mais curta a virada, mais súbita ela soa, que é justamente o comportamento descrito.",
@@ -44292,7 +47173,7 @@ window.QUESTION_BANKS = {
     "a": "cada uma pede um tipo diferente de solução — convencimento num caso, acesso no outro —, e tratá-las como se fossem iguais desperdiça recurso sem mover o indicador",
     "b": "a recusa é um fenômeno restrito a grupos organizados, ao passo que a fricção atinge de modo uniforme todas as camadas da população brasileira",
     "c": "somente a recusa pode ser medida com precisão pelos sistemas de informação em saúde, o que torna a fricção um fator impossível de incorporar ao planejamento",
-    "d": "a fricção é um obstáculo temporário que tende a desaparecer com a modernização dos serviços, enquanto a recusa se consolidou como problema permanente",
+    "d": "a fricção é um obstáculo temporário que tende a desaparecer com a modernização dos serviços, enquanto a recusa se consolidou como problema permanente entre as famílias brasileiras",
     "e": "as duas expressões designam o mesmo comportamento observado nas famílias, variando apenas o vocabulário adotado por diferentes áreas de pesquisa"
    },
    "resposta": "a",
@@ -44341,7 +47222,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A frase final, sobre \"gastar dinheiro sem mover o indicador\", encerra o texto:",
    "alternativas": {
     "a": "atribuindo a responsabilidade pelo problema aos gestores municipais, que não acompanham os indicadores",
-    "b": "reconhecendo que os recursos destinados à imunização são insuficientes e precisariam ser ampliados antes de qualquer discussão sobre a estratégia adotada",
+    "b": "reconhecendo que os recursos destinados à imunização são insuficientes e precisariam ser ampliados antes de se rediscutir a estratégia adotada",
     "c": "traduzindo o erro de diagnóstico em custo financeiro, o que o torna difícil de ignorar por quem decide sobre o orçamento",
     "d": "propondo um novo indicador de acompanhamento, capaz de distinguir a recusa da dificuldade de acesso",
     "e": "retomando a imagem do escorregamento apresentada na abertura, o que dá circularidade ao texto"
@@ -44357,7 +47238,7 @@ window.QUESTION_BANKS = {
    "textoId": "med-med-int-t7",
    "enunciado": "A reportagem apresenta, na ordem: ______, depois ______, em seguida ______ e por fim ______. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "os dados de um levantamento – a comparação com outros países – as hipóteses explicativas levantadas pelos pesquisadores – as limitações metodológicas do estudo",
+    "a": "os dados de um levantamento – a comparação com outros países – as hipóteses explicativas levantadas pelos pesquisadores – as limitações metodológicas apontadas ao final do estudo",
     "b": "como a cobertura cai devagar – o que essa forma de cair provoca – uma causa pouco lembrada da queda – a correção do diagnóstico em que a resposta usual costuma se apoiar",
     "c": "o depoimento de uma família – a reação dos serviços de saúde locais – a posição oficial do ministério responsável – o desfecho do caso relatado na abertura",
     "d": "a definição de cobertura vacinal – o histórico do calendário brasileiro – os resultados alcançados em cada década – as projeções para os anos seguintes",
@@ -44427,7 +47308,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A citação \"Depois eu marco\", no Cartaz 3, é eficaz porque:",
    "alternativas": {
     "a": "reproduz, entre aspas, a frase que o próprio leitor costuma dizer a si mesmo para adiar a marcação, e a devolve como objeção a ser respondida no cartaz",
-    "b": "atribui a fala a uma personagem identificada na campanha, cujo depoimento confere credibilidade à mensagem transmitida pela peça publicitária",
+    "b": "atribui a fala a uma personagem identificada na campanha, cujo depoimento confere credibilidade à mensagem, já que ela aparece nomeada e com a idade indicada no cartaz",
     "c": "reproduz uma orientação frequentemente dada pelos profissionais de saúde aos pacientes que procuram as unidades sem encaminhamento prévio",
     "d": "ironiza a linguagem burocrática utilizada nos serviços de agendamento, cuja complexidade é apontada como causa do adiamento dos exames",
     "e": "cita um trecho de campanha anterior veiculada pelo mesmo órgão, estabelecendo continuidade entre as duas ações de comunicação realizadas"
@@ -44481,7 +47362,7 @@ window.QUESTION_BANKS = {
     "b": "pela exigência de reduzir custos de produção gráfica, uma vez que o valor de cada peça é calculado a partir do número de caracteres impressos nela",
     "c": "pela necessidade de adaptar o texto ao público de menor escolaridade, único capaz de ser alcançado por campanhas veiculadas em transporte coletivo",
     "d": "pela obrigação legal de limitar a extensão das mensagens de utilidade pública veiculadas em espaços de circulação de pessoas nas grandes cidades",
-    "e": "pela tentativa de imitar a linguagem das redes sociais, ambiente em que a campanha teria sido originalmente concebida antes de migrar para o cartaz"
+    "e": "pela tentativa de imitar a linguagem das redes sociais, ambiente em que a campanha teria sido originalmente concebida antes de migrar para o cartaz impresso do transporte"
    },
    "resposta": "a",
    "explicacao": "O próprio cabeçalho informa onde as peças serão veiculadas. Um cartaz de ônibus disputa alguns segundos de atenção de alguém em pé — e a extensão da frase é decidida por essa condição de leitura.",
@@ -44511,7 +47392,7 @@ window.QUESTION_BANKS = {
    "textoId": "med-med-int-t13",
    "enunciado": "O dado \"6 em cada 10\" foi preferido a um percentual porque essa forma:",
    "alternativas": {
-    "a": "apresenta maior precisão estatística do que a expressão em percentual, evitando os arredondamentos que costumam distorcer a leitura dos resultados",
+    "a": "apresenta maior precisão estatística do que a expressão em percentual, evitando os arredondamentos que costumam distorcer a leitura dos resultados divulgados ao público",
     "b": "faz o leitor se imaginar dentro do grupo contado, coisa que a porcentagem não faz por descrever uma propriedade da população, e não pessoas contáveis",
     "c": "ocupa menos espaço no cartaz, exigência decorrente das dimensões reduzidas das peças destinadas à veiculação no interior dos veículos coletivos",
     "d": "corresponde ao formato exigido pelos órgãos de saúde para a divulgação de indicadores obtidos a partir de levantamentos populacionais amostrais",
@@ -44670,7 +47551,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O humor da tirinha se baseia principalmente",
    "alternativas": {
     "a": "em uma interpretação literal e absurda, pelo robô, do pedido ambíguo do dono, resultando em inação.",
-    "b": "na incapacidade técnica real de qualquer robô doméstico existente executar tarefas simultâneas de fato.",
+    "b": "na incapacidade técnica dos robôs domésticos hoje existentes de executar duas tarefas ao mesmo tempo, limitação que a tirinha ilustraria.",
     "c": "na recusa do robô em executar uma tarefa que considera abaixo de suas funções.",
     "d": "em uma explicação séria sobre como robôs domésticos funcionam tecnicamente na vida real.",
     "e": "em uma crítica direta ao consumo excessivo de energia elétrica pelos eletrodomésticos modernos."
@@ -44815,7 +47696,7 @@ window.QUESTION_BANKS = {
     "b": "Apesar de anunciadas como personalizadas, as playlists tendem a reforçar a popularidade já existente, dificultando descobertas.",
     "c": "As playlists automáticas ampliam o repertório do ouvinte, expondo-o a gêneros que ele não buscaria sozinho.",
     "d": "Os serviços de streaming musical deixaram totalmente de usar playlists automáticas, segundo relata o texto apresentado.",
-    "e": "Os algoritmos de recomendação musical são incapazes de identificar as reais preferências musicais dos usuários."
+    "e": "Os algoritmos de recomendação musical são incapazes de identificar as reais preferências dos usuários e por isso sugerem artistas de gêneros escolhidos ao acaso."
    },
    "resposta": "b",
    "explicacao": "O texto contrapõe o discurso de personalização ('feitas sob medida') à prática observada (repetição de artistas populares), sustentando que a promessa de descoberta é limitada por um viés estrutural do algoritmo em favor do que já é popular.",
@@ -44847,10 +47728,10 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Troquei de cidade há três meses e ainda calculo distâncias pelo tempo que levava no lugar antigo. 'Fica pertinho', digo, sobre um mercado que está, na verdade, a quarenta minutos a pé. Aos poucos vou entendendo que não é só o mapa que muda quando a gente se muda: é a régua inteira com que a gente media a vida antes.",
    "enunciado": "A reflexão do narrador sobre 'a régua inteira com que a gente media a vida' sugere que",
    "alternativas": {
-    "a": "mudar de cidade só altera realmente as distâncias físicas entre os lugares, sem qualquer outro efeito notável ou relevante.",
+    "a": "mudar de cidade altera apenas as distâncias físicas entre os lugares, sem nenhum efeito sobre o modo como o narrador percebe a vida.",
     "b": "o narrador considera o mercado da nova cidade bem mais próximo do que de fato está de sua casa.",
     "c": "o narrador pretende voltar a morar definitivamente na cidade antiga assim que for possível fazer isso.",
-    "d": "o narrador passou a medir distâncias em tempo de deslocamento, e não mais em quilômetros percorridos.",
+    "d": "o narrador passou a medir distâncias em tempo de deslocamento, e não mais em quilômetros percorridos, adotando o relógio como referência para os trajetos que faz na cidade nova.",
     "e": "adaptar-se a um novo lugar envolve também rever referências e critérios internos usados para interpretar a nova realidade."
    },
    "resposta": "e",
@@ -44905,7 +47786,7 @@ window.QUESTION_BANKS = {
     "b": "irônico, criticando de forma bem-humorada a vagueza da informação apesar da aparência de cortesia.",
     "c": "neutro, apenas descrevendo tecnicamente o funcionamento do painel de embarque.",
     "d": "indignado, exigindo formalmente indenização da companhia aérea pelo atraso do voo.",
-    "e": "elogioso, valorizando de forma sincera a transparência da companhia aérea com todos os seus passageiros."
+    "e": "elogioso, valorizando de forma sincera a transparência com que a companhia aérea informou o novo horário de embarque."
    },
    "resposta": "b",
    "explicacao": "A caracterização da frase como algo que 'promete tudo, garante nada, e ainda parece educada' revela ironia bem-humorada diante da vagueza institucional, sem configurar elogio sincero, neutralidade técnica ou exigência formal.",
@@ -44938,7 +47819,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O efeito de humor no trecho final ('a palavra só é sempre a mais otimista da frase') decorre de",
    "alternativas": {
     "a": "uma generalização irônica que contrasta a modéstia da expressão 'só o banheiro' com o tamanho real da reforma que se seguiu.",
-    "b": "uma explicação bem técnica e detalhada sobre os custos médios de reformas residenciais na cidade atualmente cobrados.",
+    "b": "uma explicação bem técnica e detalhada sobre os custos médios das reformas residenciais na cidade, com o preço por metro quadrado de cada etapa.",
     "c": "uma descrição neutra do cronograma originalmente planejado apenas para a reforma do banheiro.",
     "d": "de um trocadilho entre o nome da construtora e o prazo repetidamente descumprido por ela.",
     "e": "uma crítica direta e sem humor ao comportamento dos vizinhos que reclamavam do barulho aos sábados."
@@ -44957,7 +47838,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "O sonar identifica cardumes com precisão, mas seu custo elevado restringe o acesso à pesca industrial.",
     "b": "Os biólogos marinhos afirmam que a tecnologia de sonar não tem qualquer efeito sobre os cardumes pescados.",
-    "c": "A tecnologia de sonar teria tornado a pesca ainda menos eficiente do que era antes de sua adoção pelas frotas pesqueiras.",
+    "c": "A tecnologia de sonar teria tornado a pesca ainda menos eficiente do que era antes de sua adoção, já que o equipamento afugenta os cardumes localizados.",
     "d": "O aumento da eficiência tecnológica na captura de peixes pode reduzir, no médio prazo, a disponibilidade futura da própria pesca.",
     "e": "A pesca com sonar aumentou, comprovadamente, a taxa de reprodução das espécies capturadas pelas frotas."
    },
@@ -44991,7 +47872,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "No primeiro quadro, um usuário tenta acessar um site e vê a mensagem: 'Confirme que você não é um robô: selecione todas as imagens com semáforo'. No segundo quadro, depois de acertar, aparece nova mensagem: 'Agora selecione todas com bicicleta'. No terceiro quadro, o usuário, exausto, encara a tela e murmura: 'Eu só queria ver a previsão do tempo.'",
    "enunciado": "O humor da tirinha decorre principalmente",
    "alternativas": {
-    "a": "de uma crítica séria e detalhada às falhas de segurança em sites de previsão do tempo.",
+    "a": "de uma crítica séria e detalhada às falhas de segurança dos sites de previsão do tempo, apresentadas pela tirinha como o verdadeiro problema do usuário.",
     "b": "da comparação técnica entre diferentes tipos de verificação de segurança digital usados hoje.",
     "c": "da ausência de qualquer diálogo direto entre o usuário e o site ao longo da tirinha.",
     "d": "do exagero cômico da quantidade de etapas de verificação exigidas para uma tarefa simples e corriqueira.",
@@ -45081,7 +47962,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "No grupo de família do WhatsApp, minha tia manda bom dia às seis da manhã, meu primo manda memes desatualizados às três da tarde, e meu pai, fiel ao estilo, responde tudo com 'certo' três dias depois. Ainda assim, é nesse grupo bagunçado, sem nenhuma lógica de horário, que a gente sempre descobre primeiro quando alguém da família precisa de ajuda.",
    "enunciado": "O tom do narrador ao descrever o funcionamento aparentemente caótico do grupo de família é de",
    "alternativas": {
-    "a": "irritação profunda com a falta de organização das mensagens trocadas nesse grupo de família.",
+    "a": "irritação profunda com a falta de organização das mensagens trocadas nesse grupo de família, que o narrador diz pretender abandonar assim que puder.",
     "b": "crítica severa e definitiva ao uso de aplicativos de mensagem por familiares mais velhos.",
     "c": "indiferença total em relação a tudo o que acontece no grupo de família no WhatsApp da casa.",
     "d": "humor afetuoso, que reconhece a bagunça aparente do grupo sem deixar de valorizar sua função real na família.",
@@ -45167,7 +48048,7 @@ window.QUESTION_BANKS = {
    "textoId": "med-med-int-t3",
    "enunciado": "O poema é composto por versos ______, sem ______, e sua unidade se apoia ______. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "alexandrinos – pausa interna obrigatória no interior de cada verso – na simetria entre a primeira e a última estrofe da composição apresentada",
+    "a": "alexandrinos – pausa interna obrigatória no interior de cada verso – na simetria entre a primeira e a última estrofe, que se repetem quase palavra por palavra",
     "b": "decassílabos – variação no número de sílabas poéticas ao longo das estrofes – na regularidade métrica que percorre toda a composição do início ao fim",
     "c": "brancos – qualquer recurso de repetição sonora ou sintática – na sucessão cronológica dos acontecimentos narrados ao longo da noite de plantão",
     "d": "redondilhos – estrofes de extensão desigual entre si – no esquema de rimas emparelhadas que fecha cada uma das quatro estrofes do poema",
@@ -45238,7 +48119,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "os profissionais de plantão se dividem entre os que cumprem suas obrigações e os que descansam às escondidas",
     "b": "há quem simule dormir, de modo que a insônia e o sono convivem sob a mesma luz branca, que não se apaga durante a noite",
-    "c": "os pacientes recebem medicação para dormir, ainda que nem todos apresentem resposta adequada ao tratamento prescrito pela equipe responsável pelo caso",
+    "c": "os pacientes recebem medicação para dormir, ainda que parte deles não apresente resposta adequada ao tratamento prescrito pela equipe responsável",
     "d": "o horário de visitas foi encerrado e os acompanhantes precisam permanecer em silêncio para não incomodar",
     "e": "as luzes permanecem acesas por determinação do regulamento interno, o que impede qualquer pessoa de adormecer"
    },
@@ -45254,7 +48135,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A relação entre o título \"Plantão\" e o corpo do poema é de:",
    "alternativas": {
     "a": "ironia, pois o título sugere atividade intensa enquanto o texto descreve um ambiente em que absolutamente nada acontece durante toda a noite retratada",
-    "b": "contraposição, uma vez que o título anuncia um tema que o poema recusa a desenvolver, optando por tratar de assunto inteiramente diverso do sugerido",
+    "b": "contraposição, uma vez que o título anuncia um tema que o poema recusa a desenvolver, optando por assunto inteiramente diverso, o que deixa o título sem função no conjunto",
     "c": "redundância, já que todos os elementos indicados pelo título são retomados literalmente ao longo dos versos, sem que nada de novo seja acrescentado",
     "d": "enquadramento, pois é ele que situa a cena e explica a vigília descrita, informando que alguém está de serviço e que aquela noite terminará num relato de passagem",
     "e": "ambiguidade, na medida em que o termo escolhido admite dois sentidos distintos que o poema explora alternadamente em cada uma de suas quatro estrofes"
@@ -45288,7 +48169,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A progressão do trecho se dá por:",
    "alternativas": {
     "a": "enumeração das etapas do atendimento em ordem cronológica inversa, partindo da última delas até chegar ao momento inicial do processo descrito",
-    "b": "repetição integral da mesma informação em três formulações distintas, recurso empregado para assegurar a compreensão do leitor não especializado",
+    "b": "repetição integral da mesma informação em três formulações distintas, recurso empregado para assegurar a compreensão do leitor não especializado no assunto tratado",
     "c": "apresentação de três aspectos independentes entre si de um mesmo processo, reunidos no parágrafo sem que haja ligação lógica entre eles",
     "d": "oposição sucessiva entre as ideias enunciadas, de modo que cada período nega parcialmente o conteúdo apresentado no período anterior a ele",
     "e": "retomada, em cada período, do termo que encerrava o anterior, de modo que a informação nova vira ponto de partida do seguinte, sem repetir conteúdo"
@@ -45415,7 +48296,7 @@ window.QUESTION_BANKS = {
     "a": "afetuoso, já que o banco demonstra preocupação genuína com o bem-estar de quem recebeu a mensagem",
     "b": "de cobrança disfarçada, em que a polidez do vocabulário mascara uma exigência de pagamento imediato",
     "c": "indiferente, pois a mensagem não menciona nenhuma consequência para quem não regularizar a dívida",
-    "d": "ameno e informativo, sem qualquer intenção de pressionar quem a recebeu a tomar alguma providência imediata",
+    "d": "ameno e informativo, limitado a comunicar ao cliente a situação atual da conta, sem lhe pedir nenhuma providência",
     "e": "de elogio indireto a quem deve, reconhecendo o esforço já feito para quitar o débito acumulado"
    },
    "resposta": "b",
@@ -45630,7 +48511,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "coerência de registro, já que ambas as expressões pertencem à mesma variedade formal da língua",
     "b": "erro de norma culta, sem qualquer intenção expressiva por parte de quem escreveu a mensagem",
-    "c": "uso exclusivamente técnico, próprio da correspondência comercial entre clientes e gerentes de banco na cidade",
+    "c": "uso estritamente técnico, próprio da correspondência comercial entre clientes e gerentes de banco na cidade",
     "d": "contraste de registro, que reforça, pelo choque entre polidez e informalidade, o tom irônico da fala",
     "e": "neutralidade estilística, pois as duas expressões produzem o mesmo efeito sobre o leitor do texto"
    },
@@ -45732,6 +48613,40 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-254",
+   "texto_apoio": "A fila do posto de saúde é um termômetro. Quando cresce na porta, é sinal de que alguma coisa esquentou lá dentro. Naquela segunda-feira, o termômetro marcava três horas de espera.",
+   "enunciado": "A expressão \"o termômetro marcava\" sugere que o texto:",
+   "alternativas": {
+    "a": "mantém a imagem apresentada na abertura e a estende ao tempo de espera, tratando a fila como instrumento de medida",
+    "b": "abandona a linguagem figurada e passa a informar a temperatura efetivamente registrada no interior da unidade de saúde",
+    "c": "recorre à personificação, atribuindo ao aparelho de medição a capacidade de decidir quanto tempo cada pessoa espera",
+    "d": "adota registro formal para descrever um procedimento de aferição previsto nas normas de funcionamento do serviço público",
+    "e": "emprega hipérbole para exagerar um dado que o próprio texto apresenta em seguida como pouco relevante para a discussão"
+   },
+   "resposta": "a",
+   "explicacao": "O texto abre chamando a fila de termômetro — uma metáfora — e, no fim, faz o mesmo termômetro marcar horas em vez de graus. O sentido só se completa porque a imagem inicial continua valendo: o que se mede ali não é temperatura, é a pressão sobre o serviço.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "med-interpretacao-texto-255",
+   "texto_apoio": "No registro do plantão, o residente escreveu que a enfermaria \"amanheceu calma\". O supervisor riscou a palavra e anotou ao lado: \"calma é o que a gente sente; anote o que se mediu\".",
+   "enunciado": "A ressalva do supervisor incide sobre o sentido da palavra \"calma\", que nesse contexto é:",
+   "alternativas": {
+    "a": "estritamente denotativo, por corresponder a uma grandeza medida pelos aparelhos instalados ao lado de cada leito",
+    "b": "de tom irônico, por dizer o contrário do que se observou durante a madrugada, como o supervisor teria percebido",
+    "c": "próximo da hipérbole, por exagerar de propósito a intensidade do que se passou na enfermaria naquele período",
+    "d": "técnico, por pertencer ao jargão padronizado que a instituição impõe nos registros de acompanhamento dos pacientes",
+    "e": "impressionista, próximo da linguagem figurada, por exprimir o que quem escreveu sentiu, e não um dado aferido"
+   },
+   "resposta": "e",
+   "explicacao": "\"Calma\" descreve a impressão de quem estava lá, não uma grandeza que se possa conferir depois. É por isso que o supervisor pede a troca: no registro clínico, a palavra vale como avaliação subjetiva, e o que se cobra ali é o dado aferido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
    "id": "dir-interpretacao-texto-223",
    "banca": "fgv",
    "sessao": "fgv-unificado-2023.1",
@@ -45798,7 +48713,7 @@ window.QUESTION_BANKS = {
     "a": "Nos polvos, os neurônios concentram-se num cérebro central proporcionalmente maior que o dos mamíferos.",
     "b": "Nos polvos, grande parte dos neurônios está distribuída pelos braços, permitindo processamento relativamente independente.",
     "c": "O polvo não possui neurônios em nenhuma parte do corpo, segundo estudos recentes de neurociência marinha.",
-    "d": "Os braços do polvo são incapazes de qualquer tipo de processamento sensorial, dependendo sempre do cérebro central do animal.",
+    "d": "Os braços do polvo são incapazes de realizar processamento sensorial por conta própria e dependem do cérebro central para cada movimento executado.",
     "e": "Os polvos têm menos neurônios do que qualquer outro animal marinho, incluindo peixes e crustáceos."
    },
    "resposta": "b",
@@ -45847,7 +48762,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "A seleção venceu por 2 a 1 e chegou aos 15 pontos na classificação, mantendo a liderança do grupo. 'Fizemos um jogo inteligente, sofremos no primeiro tempo, mas ajustamos a marcação no intervalo', avaliou o técnico após a partida.",
    "enunciado": "No trecho, é possível distinguir claramente entre",
    "alternativas": {
-    "a": "apenas opiniões pessoais do próprio jornalista, sem qualquer dado verificável sobre o resultado da partida disputada.",
+    "a": "apenas opiniões pessoais do próprio jornalista, que teria interpretado o placar e a classificação segundo sua preferência clubística.",
     "b": "dois dados estatísticos que, nessa leitura, se contradizem entre si sobre o placar e a posição na tabela.",
     "c": "duas avaliações do técnico feitas em momentos diferentes da temporada, sem dados de classificação.",
     "d": "uma crítica do técnico ao desempenho de um jogador específico, citado nominalmente na entrevista concedida.",
@@ -45884,7 +48799,7 @@ window.QUESTION_BANKS = {
    "enunciado": "No texto, o conectivo 'contudo' estabelece uma relação de",
    "alternativas": {
     "a": "oposição, contrapondo a insuficiência do hábito isolado de poupar à eficácia do hábito acompanhado de reflexão.",
-    "b": "causa, indicando que guardar a mesada sozinha já seria sempre a causa direta do raciocínio financeiro adulto completo.",
+    "b": "causa, indicando que guardar parte da mesada já seria, por si só, a causa direta do raciocínio financeiro do adulto formado.",
     "c": "comparação entre duas crianças diferentes, cujos hábitos de poupança o texto contrastaria.",
     "d": "adição, reforçando a ideia anterior sobre a mesada sem introduzir nenhuma ressalva ao raciocínio.",
     "e": "conclusão, apresentando o hábito de poupar como resultado necessário do que se afirmou antes."
@@ -45903,7 +48818,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "A segurança da vacina depende de consenso entre especialistas; a recomendação de uso, de evidência direta.",
     "b": "Nenhuma das duas afirmações tem qualquer base científica sólida, segundo a própria cientista entrevistada.",
-    "c": "Ambas as afirmações são igualmente fatos comprovados cientificamente, sem nenhuma diferença relevante entre elas.",
+    "c": "Ambas as afirmações são igualmente fatos comprovados cientificamente, já que a recomendação de vacinar decorre dos mesmos testes clínicos revisados por pares.",
     "d": "A segurança da vacina é fato baseado em evidências; a recomendação universal envolve julgamento que extrapola os dados.",
     "e": "A cientista afirma que não há diferença relevante alguma entre fato e opinião em contextos científicos."
    },
@@ -47025,7 +49940,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "Porque o ruído urbano é medido pelos mesmos órgãos que monitoram a qualidade do ar.",
     "b": "Porque a exposição prolongada a ruídos elevados está associada a distúrbios do sono e a maior risco cardiovascular.",
-    "c": "Porque nenhum morador jamais se queixou do barulho da rodovia antes da instalação completa dessas barreiras acústicas específicas.",
+    "c": "Porque os moradores só se queixaram do barulho da rodovia depois que as barreiras acústicas foram instaladas ao longo da via residencial.",
     "d": "Porque as barreiras acústicas custam mais caro do que outras obras de infraestrutura urbana.",
     "e": "Porque a redução de ruído não trouxe nenhum benefício mensurável à saúde dos moradores da região."
    },
@@ -47059,7 +49974,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Pesquisas em neurolinguística indicam que crianças expostas regularmente a duas línguas desde a primeira infância desenvolvem, em média, maior flexibilidade cognitiva para alternar entre tarefas, mesmo em atividades que não envolvem linguagem diretamente. Os pesquisadores atribuem esse ganho ao exercício constante de inibir uma língua para ativar outra, um treino que parece se generalizar para outras funções executivas do cérebro.",
    "enunciado": "Qual explicação os pesquisadores oferecem para o ganho cognitivo associado ao bilinguismo infantil?",
    "alternativas": {
-    "a": "A ausência completa e definitiva de qualquer relação entre bilinguismo e todas as funções cognitivas executivas do cérebro.",
+    "a": "A ausência de relação demonstrável entre o bilinguismo infantil e as funções executivas do cérebro, apontada pelos próprios pesquisadores.",
     "b": "O uso exclusivo de métodos escolares tradicionais no ensino de idiomas estrangeiros às crianças.",
     "c": "O fato de crianças bilíngues estudarem, em média, mais horas por dia do que crianças monolíngues.",
     "d": "O contato precoce com estruturas gramaticais mais complexas, que antecipa o amadurecimento da linguagem.",
@@ -47099,7 +50014,7 @@ window.QUESTION_BANKS = {
     "b": "As próteses robóticas ainda não conseguem reproduzir nenhum movimento natural da mão humana.",
     "c": "O principal obstáculo é a resistência dos usuários a dispositivos que dependem de recarga diária.",
     "d": "O principal obstáculo atual para a difusão das próteses robóticas é de natureza econômica, não mais mecânica.",
-    "e": "As próteses robóticas são utilizadas exclusivamente por pessoas de altíssimo poder aquisitivo, sem qualquer exceção."
+    "e": "As próteses robóticas já chegaram ao mesmo preço das próteses mecânicas comuns, o que ampliou muito o número de usuários atendidos."
    },
    "resposta": "d",
    "explicacao": "O texto afirma que o desafio 'não é mais puramente mecânico, mas de custo', apontando a questão econômica como o principal obstáculo atual à difusão da tecnologia, e não a limitação técnica dos movimentos.",
@@ -47155,7 +50070,7 @@ window.QUESTION_BANKS = {
     "b": "as duas são literais, uma vez que ambas remetem a instalações elétricas concretas.",
     "c": "as duas são figuradas, pois a palavra designa um objeto ausente em ambos os contextos.",
     "d": "a primeira é figurada e a segunda é literal, já que a reforma envolve documentos físicos.",
-    "e": "a distinção não se aplica, porque a palavra tem um único sentido registrado em dicionário."
+    "e": "a distinção não se aplica, porque a palavra tem um único sentido registrado em dicionário e conserva esse mesmo sentido nos dois trechos citados."
    },
    "resposta": "a",
    "explicacao": "No manual, fiação designa o conjunto de fios elétricos dentro da parede — o objeto mesmo. No texto de opinião, ela nomeia a rede de vínculos e repasses entre os entes da federação, que não é feita de fios: o sentido é construído por transferência. Dizer que as duas são literais ignora que uma federação não tem cabos; dizer que as duas são figuradas desconsidera o manual, cujo objeto é físico; a inversão troca os dois casos; e a existência de um sentido dicionarizado não impede o uso figurado, que é justamente o que se apoia nele.",
@@ -47168,7 +50083,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Qual é o tom predominante do texto ao descrever a reação da comunidade após a enchente?",
    "alternativas": {
     "a": "De crítica exclusiva e resignada à ausência total de atuação do poder público na região afetada.",
-    "b": "De desconfiança em relação à eficácia dos mutirões de limpeza organizados pelos próprios moradores.",
+    "b": "De desconfiança em relação à eficácia dos mutirões organizados pelos próprios moradores, tratados no texto como improviso incapaz de resolver o problema.",
     "c": "De reconhecimento e valorização da capacidade de organização coletiva revelada pela própria comunidade diante da crise.",
     "d": "De indiferença total em relação às ações realizadas pelos moradores após o desastre relatado.",
     "e": "De cobrança dirigida aos moradores, que teriam demorado a se organizar depois da enchente."
@@ -47191,7 +50106,7 @@ window.QUESTION_BANKS = {
     "b": "duas opiniões pessoais da secretária, sem nenhum dado numérico que as sustente",
     "c": "um dado objetivo sobre a queda e uma avaliação subjetiva da secretária",
     "d": "uma crítica direta da secretária ao sistema de agendamento implantado",
-    "e": "um dado objetivo e uma projeção da secretária sobre os próximos meses"
+    "e": "um dado objetivo sobre a queda e uma projeção da secretária a respeito dos próximos meses de atendimento"
    },
    "resposta": "c",
    "explicacao": "Os números — de 94 para 61 dias — são verificáveis; a melhora mais consistente em quinze anos é juízo de quem fala, apoiado na própria experiência. O texto junta as duas coisas sem confundi-las, e distingui-las é a tarefa. Em (e) está o distrator mais fino: a secretária avalia o passado, e não projeta o futuro; dizer que ainda se está longe do ideal é medir a distância já percorrida, não prever a próxima. Em (b), o dado numérico existe. Em (a), os números não se contradizem. Em (d), a fala é positiva com ressalva, e não crítica ao sistema.",
@@ -47204,7 +50119,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Qual tese o texto sustenta em relação à criação de horários fixos de planejamento dentro da carga horária contratada?",
    "alternativas": {
     "a": "A criação de horários fixos de planejamento não trouxe nenhuma mudança perceptível na saúde dos professores.",
-    "b": "O planejamento dentro da carga horária só produz efeito quando acompanhado de redução do número de alunos por turma.",
+    "b": "O planejamento dentro da carga horária só produz efeito quando acompanhado de redução do número de alunos por turma, condição destacada pelo levantamento sindical.",
     "c": "Os afastamentos por saúde mental entre professores aumentaram após a criação de horários fixos de planejamento.",
     "d": "O planejamento pedagógico deveria ser realizado exclusivamente fora do horário de trabalho remunerado.",
     "e": "Reservar tempo de planejamento dentro da carga horária contratada está associado à redução de afastamentos por saúde mental."
@@ -47278,7 +50193,7 @@ window.QUESTION_BANKS = {
     "a": "Porque feiras livres não aceitam, em nenhuma hipótese, produtos vindos de pequenos produtores rurais.",
     "b": "Porque a venda para atravessadores está proibida por lei para produtores de pequena escala.",
     "c": "Porque a viabilidade da venda direta depende do tamanho da produção e da distância até o consumidor.",
-    "d": "Porque grandes e pequenos produtores enfrentam exatamente os mesmos custos fixos de deslocamento.",
+    "d": "Porque grandes e pequenos produtores enfrentam exatamente os mesmos custos fixos de deslocamento até os pontos de venda.",
     "e": "Porque a venda direta exige certificação sanitária que só grandes produtores conseguem obter."
    },
    "resposta": "c",
@@ -47366,7 +50281,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Qual explicação o texto oferece para a mobilização de voluntários sem experiência prévia em ações humanitárias?",
    "alternativas": {
     "a": "A cobertura contínua do desastre pela imprensa, que manteve o assunto em evidência por semanas.",
-    "b": "A ausência completa e absolutamente total de qualquer outro tipo de auxílio prestado às vítimas desse grande deslizamento de terra citado.",
+    "b": "A ausência de outras formas de auxílio às vítimas do deslizamento, o que teria deixado o socorro inteiramente por conta dos voluntários vindos de outras cidades.",
     "c": "A obrigatoriedade legal de participação em ações de ajuda humanitária após desastres naturais como esse.",
     "d": "A proximidade emocional criada pelas imagens do desastre compartilhadas nas redes sociais, que aproximou a tragédia apesar da distância.",
     "e": "O pagamento oferecido pelas organizações responsáveis pela coordenação da ajuda humanitária prestada."
@@ -47387,7 +50302,7 @@ window.QUESTION_BANKS = {
     "b": "As empresas de aplicativo eliminaram completamente qualquer forma de avaliação de desempenho dos entregadores.",
     "c": "A autonomia declarada convive com a impossibilidade de o trabalhador negociar o preço do próprio serviço.",
     "d": "Não existe, segundo o texto, nenhuma contradição na categorização utilizada pelas empresas de aplicativo citadas.",
-    "e": "Os trabalhadores de aplicativo já recebem, atualmente, absolutamente todos os direitos trabalhistas tradicionais garantidos pela legislação."
+    "e": "Os trabalhadores de aplicativo já recebem, atualmente, os mesmos direitos trabalhistas assegurados pela legislação aos empregados com carteira assinada."
    },
    "resposta": "a",
    "explicacao": "O texto evidencia uma contradição entre a categoria formal de 'autônomo' (sem direitos trabalhistas tradicionais) e a prática real de controle por metas, avaliações e penalidades, elementos associados a relações de subordinação, e não de autonomia plena.",
@@ -47402,7 +50317,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Qual é a função da proposta intermediária apresentada no final do texto?",
    "alternativas": {
     "a": "Buscar conciliar a preservação da memória histórica com uma reavaliação crítica do que o monumento representa.",
-    "b": "Encerrar definitivamente todo esse debate ao atender integralmente a posição favorável à remoção do monumento.",
+    "b": "Encerrar o debate ao atender de forma integral a posição dos moradores que defendem a remoção do monumento da praça central.",
     "c": "Provar que não existe, de fato, nenhuma controvérsia real sobre a permanência da estátua na praça.",
     "d": "Defender que toda estátua histórica deveria ser removida de praças públicas, sem exceção.",
     "e": "Demonstrar que soluções intermediárias tendem a desagradar aos dois lados e por isso são inviáveis."
@@ -47575,7 +50490,7 @@ window.QUESTION_BANKS = {
    "enunciado": "No texto, qual estratégia de construção se destaca?",
    "alternativas": {
     "a": "enumeração de exemplos em ordem crescente de importância",
-    "b": "definição técnica seguida de sua aplicação prática",
+    "b": "definição técnica do aplicativo seguida de sua aplicação prática no cotidiano",
     "c": "citação de autoridade para sustentar a afirmação",
     "d": "ironia produzida pelo contraste entre promessa e resultado",
     "e": "pergunta retórica respondida no período seguinte"
@@ -47689,8 +50604,8 @@ window.QUESTION_BANKS = {
    "enunciado": "No texto, qual estratégia de construção se destaca?",
    "alternativas": {
     "a": "uso de dados numéricos para dimensionar o problema",
-    "b": "paralelismo entre duas estruturas sintáticas idênticas",
-    "c": "descrição de um cenário sem marcas de posicionamento",
+    "b": "paralelismo entre duas estruturas sintáticas idênticas em extensão e na ordem dos termos",
+    "c": "descrição objetiva do relatório, sem nenhuma marca de posicionamento do autor",
     "d": "conclusão anunciada antes dos dados que a sustentam",
     "e": "oposição entre quantidade de números e qualidade da explicação"
    },
@@ -47745,7 +50660,7 @@ window.QUESTION_BANKS = {
    "dificuldade": "media",
    "enunciado": "No texto, qual estratégia de construção se destaca?",
    "alternativas": {
-    "a": "paralelismo entre duas estruturas sintáticas idênticas",
+    "a": "paralelismo entre as duas estruturas sintáticas que abrem os períodos",
     "b": "alternância entre discurso direto e discurso indireto",
     "c": "correção de expectativa por meio da estrutura não... mas",
     "d": "citação de autoridade para sustentar a afirmação",
@@ -48164,7 +51079,7 @@ window.QUESTION_BANKS = {
    "enunciado": "É correto afirmar que a ideia central do texto é:",
    "alternativas": {
     "a": "A obra produziu efeitos idênticos nos dois lados da região que ela passou a conectar",
-    "b": "A ponte distribuiu os benefícios da integração de forma equivalente entre todos os pontos da região",
+    "b": "A ponte distribuiu os benefícios da integração de forma equivalente entre as duas cidades que ela passou a ligar",
     "c": "A ponte beneficiou igualmente todos os pontos da região",
     "d": "O comércio antigo passou a receber mais veículos depois da obra",
     "e": "Uma obra de infraestrutura pode gerar efeitos positivos e perdas distribuídos de modo desigual"
@@ -48261,7 +51176,7 @@ window.QUESTION_BANKS = {
     "a": "citação de autoridade para sustentar a afirmação",
     "b": "pergunta retórica respondida no período seguinte",
     "c": "definição técnica seguida de sua aplicação prática",
-    "d": "enumeração de exemplos em ordem crescente de importância",
+    "d": "enumeração de exemplos em ordem crescente de importância ao longo do parágrafo final",
     "e": "comparação entre elementos explícitos e escolhas editoriais"
    },
    "resposta": "e",
@@ -48611,7 +51526,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Segundo o texto, o ajuste ______ acontece com o tempo, o ajuste ______ não se completa, e é por isso que ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "temporário – permanente – o retorno ao turno diurno reverte integralmente os efeitos já acumulados",
-    "b": "fisiológico – comportamental – os trabalhadores relatam dificuldade de adaptação mesmo quando os exames laboratoriais não apresentam qualquer alteração",
+    "b": "fisiológico – comportamental – os trabalhadores relatam dificuldade de adaptação mesmo quando os exames laboratoriais não apresentam alteração relevante",
     "c": "hormonal – metabólico – as alterações se restringem ao período imediatamente posterior ao início da escala",
     "d": "individual – coletivo – as medidas de organização da escala produzem resultado apenas quando adotadas simultaneamente por toda a equipe do serviço",
     "e": "comportamental – fisiológico – dormir bem durante o dia não elimina o efeito do turno sobre o metabolismo da glicose"
@@ -48629,7 +51544,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O parágrafo iniciado por \"Nada disso significa que o trabalho noturno deva acabar\" cumpre a função de:",
    "alternativas": {
     "a": "refutar os estudos mencionados no parágrafo anterior, cujos resultados o autor considera insuficientes para sustentar qualquer recomendação de política pública",
-    "b": "introduzir o argumento principal da reportagem, que só é apresentado nesse ponto após a exposição preliminar dos mecanismos biológicos envolvidos no processo",
+    "b": "introduzir o argumento principal da reportagem, que só é apresentado nesse ponto após a exposição preliminar dos mecanismos biológicos envolvidos no processo de adaptação ao turno",
     "c": "delimitar o alcance da tese, afastando uma conclusão que o leitor poderia tirar dos parágrafos anteriores, a de que os serviços noturnos deveriam simplesmente acabar",
     "d": "encerrar a exposição dos dados científicos e iniciar uma seção de caráter opinativo, claramente separada da parte informativa apresentada até aquele momento",
     "e": "apresentar o ponto de vista das instituições empregadoras, contrastando-o com a posição dos pesquisadores citados ao longo dos parágrafos anteriores do texto"
@@ -48698,7 +51613,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Segundo o texto, o que a pesquisa em cronobiologia desmontou foi a ideia de que:",
    "alternativas": {
     "a": "os trabalhadores de escala noturna apresentam maior incidência de distúrbios metabólicos que os de jornada diurna",
-    "b": "o sono desempenha papel central na manutenção da saúde, hipótese que os estudos recentes teriam substituído por explicações de natureza estritamente hormonal",
+    "b": "o sono desempenha papel central na manutenção da saúde — algo que os estudos recentes de cronobiologia teriam substituído por explicações estritamente hormonais",
     "c": "a exposição à luz artificial durante a noite influencia o funcionamento do organismo ao longo do dia",
     "d": "adaptar-se ao turno noturno depende basicamente de força de vontade e de hábito adquirido, e não da fisiologia do organismo",
     "e": "existe um relógio interno responsável por coordenar diversas funções fisiológicas, concepção hoje abandonada"
@@ -48783,7 +51698,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Nas instruções de uso predominam verbos no modo ______, adequado a um texto que ______; nas advertências, esse modo aparece combinado a ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "imperativo – orienta condutas que o leitor deve executar sozinho – orações condicionais iniciadas por \"se\", que delimitam os casos em que a ordem vale para cada paciente",
-    "b": "subjuntivo – descreve situações hipotéticas – enunciados no futuro do presente que projetam os efeitos esperados do tratamento sobre o organismo do paciente",
+    "b": "subjuntivo – descreve situações hipotéticas – enunciados no futuro do presente que projetam os efeitos esperados do tratamento sobre o organismo do paciente ao longo das semanas",
     "c": "indicativo – relata fatos verificados – construções na voz passiva que ocultam o agente responsável pela execução de cada uma das etapas descritas",
     "d": "infinitivo – enumera procedimentos sem destinatário definido – expressões de tempo que delimitam a duração máxima recomendada para o tratamento",
     "e": "gerúndio – descreve processos em andamento – complementos de finalidade que justificam cada uma das recomendações apresentadas ao longo do texto"
@@ -48869,7 +51784,7 @@ window.QUESTION_BANKS = {
    "textoId": "med-med-int-t8",
    "enunciado": "A precisão de \"um comprimido a cada 6 horas, não ultrapassando 4 comprimidos em 24 horas\" se explica porque:",
    "alternativas": {
-    "a": "a formulação em dois números permite ao paciente escolher entre os dois critérios aquele que melhor se ajusta à sua rotina diária de trabalho e descanso",
+    "a": "a formulação em dois números permite ao paciente escolher entre os dois critérios aquele que melhor se ajusta à sua rotina diária de trabalho e de descanso ao longo da semana",
     "b": "o intervalo sozinho não impede que o total do dia passe do limite, já que quatro doses espaçadas ainda deixariam espaço para uma quinta tomada de madrugada",
     "c": "as duas informações se destinam a públicos distintos, sendo a primeira dirigida ao paciente e a segunda ao farmacêutico responsável pela dispensação",
     "d": "a repetição da mesma informação em unidades diferentes é exigência da regulamentação aplicável às bulas de medicamentos isentos de prescrição médica",
@@ -49043,7 +51958,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "nomeia aquilo que falta ao sistema — a assinatura que responde pelo laudo —, e é essa falta, e não o desempenho, que o texto discute do começo ao fim",
     "b": "identifica os tipos de exame para os quais a legislação ainda não autoriza o laudo inteiramente automatizado",
-    "c": "indica que o texto tratará das limitações técnicas dos algoritmos de leitura de imagem em comparação com a acuidade visual dos especialistas humanos",
+    "c": "indica que o texto tratará das limitações técnicas dos algoritmos de leitura de imagem diante da acuidade visual dos especialistas humanos que hoje assinam os laudos",
     "d": "sugere que os sistemas ocultam deliberadamente a autoria de suas conclusões, prática que o editorial denuncia ao longo dos parágrafos seguintes",
     "e": "anuncia uma comparação entre os documentos emitidos por profissionais e aqueles gerados por sistemas, cotejados item a item no corpo do texto"
    },
@@ -49076,7 +51991,7 @@ window.QUESTION_BANKS = {
    "enunciado": "No trecho, predomina a função:",
    "alternativas": {
     "a": "metalinguística, porque a linguagem é usada para explicar os próprios termos, definindo o que se chama de prevalência e distinguindo-a da incidência",
-    "b": "referencial, uma vez que o texto informa dados epidemiológicos verificáveis sobre a ocorrência de doenças em uma população determinada e delimitada",
+    "b": "referencial, uma vez que o texto informa dados epidemiológicos verificáveis sobre a ocorrência de doenças em uma população determinada e delimitada no tempo e no espaço",
     "c": "apelativa, na medida em que orienta o leitor sobre o modo correto de empregar cada um dos dois conceitos apresentados ao longo do enunciado",
     "d": "fática, pois o objetivo do enunciado é verificar se o canal de comunicação entre quem escreve e quem lê permanece aberto durante a exposição",
     "e": "emotiva, considerando que o autor manifesta sua preferência pessoal por um dos dois indicadores mencionados no interior do mesmo período"
@@ -49360,7 +52275,7 @@ window.QUESTION_BANKS = {
     "a": "conclusão, encerrando definitivamente o raciocínio sobre o tema apresentado, sem qualquer relativização do avanço mencionado anteriormente.",
     "b": "causa, indicando que a ampliação de leitos foi a causa direta da estabilidade no tempo de internação.",
     "c": "contraste, apresentando um dado que relativiza ou se opõe, em algum grau, ao avanço mencionado na primeira frase.",
-    "d": "adição, reforçando integralmente a ideia positiva apresentada na primeira frase, sem introduzir qualquer contraste ou relativização posterior.",
+    "d": "adição, reforçando integralmente a ideia positiva apresentada na primeira frase, sem introduzir contraste ou relativização posterior.",
     "e": "explicação, retomando em outros termos o dado apresentado na frase anterior."
    },
    "resposta": "c",
@@ -49533,7 +52448,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Os conectivos destacados exprimem, respectivamente, circunstância de:",
    "alternativas": {
     "a": "comparação e proporção, sentidos que a norma culta considera equivalentes quando os conectivos aparecem em orações de estrutura semelhante",
-    "b": "causa e finalidade, valores que se distinguem pela posição ocupada por cada uma das orações subordinadas dentro do período composto apresentado",
+    "b": "causa e finalidade, valores que se distinguem pela posição ocupada por cada uma das orações subordinadas dentro do período composto apresentado na comparação entre os dois enunciados",
     "c": "condição e concessão, relações que dependem do modo verbal empregado em cada uma das duas orações subordinadas propostas na comparação",
     "d": "tempo e consequência, circunstâncias que se diferenciam pelo aspecto verbal expresso pelas formas empregadas em cada um dos dois enunciados",
     "e": "finalidade e causa, circunstâncias que se distinguem por a primeira apontar o objetivo do fato, com verbo no subjuntivo, e a segunda, o motivo que o provocou"
@@ -49637,7 +52552,7 @@ window.QUESTION_BANKS = {
     "a": "pleonasmo, com repetição de uma ideia já contida em outro termo da mesma oração apresentada para análise no enunciado da questão",
     "b": "elipse, com supressão de um termo facilmente recuperável a partir do contexto em que a construção aparece empregada no texto produzido",
     "c": "hipérbato, com inversão da ordem direta pelo deslocamento do complemento para o início, recurso de estilo corrente na escrita formal e que não configura desvio",
-    "d": "silepse, com concordância feita segundo a ideia expressa e não segundo a forma gramatical dos termos empregados na construção analisada",
+    "d": "silepse, com concordância feita segundo a ideia expressa e não segundo a forma gramatical dos termos empregados na construção, figura que aqui atingiria o número do verbo",
     "e": "anacoluto, com abandono da estrutura sintática iniciada no começo do período e retomada de outra estrutura na sequência do enunciado"
    },
    "resposta": "c",
@@ -49669,7 +52584,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O período é ambíguo porque o possessivo \"sua\":",
    "alternativas": {
     "a": "poderia ser suprimido sem prejuízo do sentido, uma vez que a informação por ele veiculada já está contida no substantivo que o acompanha",
-    "b": "não concorda em gênero com nenhum dos dois substantivos mencionados antes dele na estrutura sintática do período apresentado no enunciado",
+    "b": "não concorda em gênero com nenhum dos dois substantivos mencionados antes dele na estrutura do período, o que deixaria em aberto qual deles o possessivo retoma",
     "c": "aparece separado do termo a que se refere por um complemento preposicionado, o que impede sua recuperação a partir da leitura do período",
     "d": "designa lugar e não posse, valor que exigiria o emprego de um advérbio no lugar do pronome empregado na construção apresentada",
     "e": "pode remeter ao médico ou ao paciente, já que o possessivo de terceira pessoa não distingue os dois referentes, que só \"dele\" ou \"dele próprio\" fixariam"
@@ -49788,7 +52703,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O problema do enunciado, considerado o gênero, é de:",
    "alternativas": {
     "a": "progressão temática, já que o enunciado não avança em relação à informação apresentada no início e apenas repete o que já era conhecido",
-    "b": "correção gramatical, uma vez que as construções empregadas violam regras de concordância e de regência estabelecidas pela norma culta escrita",
+    "b": "correção gramatical, uma vez que as construções empregadas violam regras de concordância e de regência estabelecidas pela norma culta escrita para o gênero do comunicado institucional",
     "c": "coesão referencial, provocada pela impossibilidade de recuperar a que termo remete cada um dos pronomes utilizados ao longo do comunicado",
     "d": "ambiguidade estrutural, decorrente da possibilidade de ligar o adjunto adverbial a mais de um termo dentro da estrutura sintática do período",
     "e": "adequação de registro ao contexto, já que as frases estão bem formadas, mas as expressões empregadas pertencem à conversa informal e destoam do gênero do comunicado"
@@ -49871,7 +52786,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre os mecanismos de retomada de termos ao longo de um texto, é correto afirmar que:",
    "alternativas": {
     "a": "toda retomada de termo depende obrigatoriamente da repetição literal e integral da mesma expressão ao longo de todo o texto",
-    "b": "a coesão de um texto se resume exclusivamente ao uso de conectivos, sem qualquer participação de elementos que retomam termos, conforme a estrutura superficial do trecho poderia, num primeiro momento, sugerir ao leitor menos atento",
+    "b": "a coesão de um texto se resume ao uso de conectivos, sem participação de elementos que retomam termos, conforme a estrutura superficial do trecho poderia, num primeiro momento, sugerir ao leitor menos atento",
     "c": "um elemento coesivo nunca pode aparecer antes do termo a que se refere, apenas depois dele, em qualquer situação",
     "d": "textos bem construídos evitam por completo qualquer tipo de retomada, preferindo sempre introduzir termos inéditos",
     "e": "um elemento coesivo pode substituir uma expressão já mencionada, reduzindo repetições e garantindo a progressão do sentido entre as partes"
@@ -49903,7 +52818,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-204",
    "enunciado": "Sobre o papel dos conectivos na construção do sentido de um texto, é correto afirmar que:",
    "alternativas": {
-    "a": "os conectivos servem apenas para tornar o texto mais longo, sem qualquer influência sobre o sentido das partes que ligam, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "a": "os conectivos servem apenas para tornar o texto mais longo, sem influência sobre o sentido das partes que ligam, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
     "b": "cada conectivo carrega um valor lógico-semântico próprio, capaz de estabelecer relações como oposição, conclusão ou explicação entre as partes do texto",
     "c": "um mesmo conectivo produz sempre o mesmo efeito de sentido, independentemente do contexto em que for empregado",
     "d": "textos bem escritos dispensam totalmente o uso de conectivos, substituindo-os sempre por marcas gráficas no papel",
@@ -50002,7 +52917,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-210",
    "enunciado": "Sobre a coerência de um texto, é correto afirmar que ela:",
    "alternativas": {
-    "a": "se limita ao uso correto de conectivos, sendo garantida automaticamente sempre que há um conectivo entre duas frases, conforme a proximidade entre os termos no texto poderia equivocadamente sugerir ao leitor menos atento",
+    "a": "se limita ao uso correto de conectivos, sendo assegurada de forma automática quando há um conectivo entre duas frases, conforme a proximidade entre os termos no texto poderia equivocadamente sugerir ao leitor menos atento",
     "b": "é uma propriedade exclusiva de textos longos, não podendo ser observada em frases soltas ou em textos breves",
     "c": "depende da relação lógica entre as ideias apresentadas, de modo que o texto faça sentido para quem o lê, além da simples ligação formal entre as palavras",
     "d": "independe totalmente do contexto no qual o texto é produzido, valendo sempre da mesma forma em qualquer situação",
@@ -50035,7 +52950,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-212",
    "enunciado": "Um texto é considerado incoerente quando:",
    "alternativas": {
-    "a": "utiliza conectivos variados ao longo de todo o desenvolvimento, sem repetir o mesmo elemento coesivo com frequência, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
+    "a": "utiliza conectivos variados ao longo do desenvolvimento, sem repetir o mesmo elemento coesivo com frequência, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
     "b": "mantém uma progressão constante de ideias, sempre relacionadas de forma lógica ao assunto central discutido",
     "c": "emprega vocabulário técnico apropriado ao tema tratado, adequado ao público a que o texto se destina",
     "d": "segue rigorosamente a norma culta em todas as suas frases, sem qualquer desvio gramatical perceptível",
@@ -50053,7 +52968,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre a relação entre as duas frases desse pequeno texto, é correto afirmar que:",
    "alternativas": {
     "a": "há uma contradição de sentido entre afirmar que não existe nenhum leito e, em seguida, afirmar que três foram liberados",
-    "b": "as duas frases se complementam sem qualquer contradição, já que tratam de momentos distintos e sem relação entre si, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do trecho",
+    "b": "as duas frases se complementam sem contradição, já que tratam de momentos distintos e sem relação entre si, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do trecho",
     "c": "a segunda frase apenas repete, com outras palavras, exatamente a mesma informação apresentada na primeira frase",
     "d": "a relação entre as frases é de causa e efeito, sendo a liberação dos leitos consequência direta da falta deles",
     "e": "não há qualquer problema de sentido entre as frases, pois \"nenhum\" e \"três\" podem coexistir sem contradição"
@@ -50084,7 +52999,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-215",
    "enunciado": "As palavras \"eminente\" e \"iminente\" são frequentemente confundidas em textos porque:",
    "alternativas": {
-    "a": "são sinônimas perfeitas, podendo ser substituídas uma pela outra em qualquer contexto sem qualquer alteração de sentido, suposição que a ordem das palavras no trecho poderia, à primeira vista, sustentar",
+    "a": "são sinônimas perfeitas, podendo ser substituídas uma pela outra em contextos variados sem alteração de sentido, suposição que a ordem das palavras no trecho poderia, à primeira vista, sustentar",
     "b": "são homônimas, já que se escrevem exatamente da mesma forma, embora tenham origem etimológica distinta",
     "c": "são parônimas: têm grafia e pronúncia parecidas, mas sentidos bem diferentes — uma indica destaque, a outra, proximidade no tempo",
     "d": "pertencem à mesma família de palavras, com uma origem etimológica comum a ambas as formas apresentadas",
@@ -50151,7 +53066,7 @@ window.QUESTION_BANKS = {
     "a": "denotativo, já que se refere exatamente ao órgão responsável por bombear o sangue pelo corpo humano",
     "b": "conotativo, pois se afasta do significado literal do órgão para expressar a ideia de núcleo central e vital de um espaço",
     "c": "técnico, pois é utilizado, nesse contexto, exatamente como nos manuais de anatomia e fisiologia humana",
-    "d": "ambíguo, uma vez que é impossível saber, nesse trecho, a que sentido a palavra \"coração\" realmente se refere, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "d": "ambíguo, uma vez que não se consegue saber, nesse trecho, a que sentido a palavra \"coração\" realmente se refere, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
     "e": "regional, já que essa forma de emprego da palavra só é compreendida em determinadas variedades do idioma"
    },
    "resposta": "b",
@@ -50245,7 +53160,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A diferença entre \"o pessoal já foi embora\", em fala informal entre colegas, e \"os profissionais já se retiraram\", em registro formal de um relatório, ilustra, sobretudo, uma variação de:",
    "alternativas": {
     "a": "significado, pois as duas frases descrevem fatos completamente diferentes, sem qualquer relação de sentido entre elas",
-    "b": "duração da ação, uma vez que a diferença central entre as frases estaria exclusivamente no momento no qual os fatos ocorreram, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
+    "b": "duração da ação, uma vez que a diferença central entre as frases estaria apenas no momento no qual os fatos ocorreram, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do trecho",
     "c": "registro, já que a mesma informação é adaptada à situação de comunicação, ora em registro informal, ora em registro formal e institucional",
     "d": "número gramatical, já que uma das frases está no singular e a outra, no plural, alterando por completo o sentido",
     "e": "pessoa gramatical, pois cada frase emprega uma pessoa do discurso diferente da outra, o que altera o sentido"
@@ -50260,7 +53175,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-226",
    "enunciado": "Sobre a relação entre norma culta e variedades regionais ou informais do português, é correto afirmar que:",
    "alternativas": {
-    "a": "apenas a norma culta pode ser considerada uma forma legítima de comunicação, sendo as demais variedades sempre incorretas, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
+    "a": "apenas a norma culta pode ser considerada uma forma legítima de comunicação, sendo as demais variedades incorretas, como um exame apressado do texto poderia, sem razão real, sugerir ao leitor menos atento",
     "b": "as variedades regionais e informais desapareceram completamente do português contemporâneo, restando apenas a norma culta",
     "c": "a norma culta é usada exclusivamente na fala cotidiana, enquanto as demais variedades aparecem apenas em textos escritos",
     "d": "a norma culta é a variedade de prestígio associada a contextos formais, mas isso não torna as demais variedades erradas ou inferiores em si mesmas",
@@ -50683,7 +53598,7 @@ window.QUESTION_BANKS = {
     "a": "está correta apenas se houver especificação posterior, como em 'à noite de ontem'; sem ela, o acento é indevido.",
     "b": "está correta, pois 'à noite' é locução adverbial de tempo consagrada pelo uso, formada pela fusão da preposição 'a' com o artigo feminino de 'noite'.",
     "c": "está incorreta, pois locuções adverbiais de tempo nunca admitem crase, mesmo quando formadas por substantivo feminino consagrado pelo uso.",
-    "d": "está incorreta porque 'noite' é substantivo que rejeita artigo definido em qualquer contexto, mesmo quando antecedido por preposição temporal.",
+    "d": "está incorreta porque 'noite' é substantivo que rejeita o artigo definido feminino, de modo que o 'a' anteposto seria apenas preposição e deveria vir sem acento grave nessa locução adverbial de tempo.",
     "e": "está correta apenas se a frase estiver no modo imperativo, condição que por si só justificaria a fusão da preposição com o artigo feminino."
    },
    "resposta": "b",
@@ -50735,7 +53650,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre a regência do verbo 'chegar' na frase, considerando a norma culta escrita formal, é correto afirmar que",
    "alternativas": {
     "a": "está correta apenas em textos jornalísticos, sendo um erro em outros gêneros textuais, como bulas, editais ou correspondências formais.",
-    "b": "está incorreta; deveria ser 'chegou no endereço', forma mais adequada segundo a norma culta escrita formal em qualquer tipo de texto.",
+    "b": "está incorreta; deveria ser 'chegou no endereço', forma que a norma culta escrita formal recomendaria para indicar o lugar de destino, reservando 'chegar a' apenas ao registro literário mais antigo.",
     "c": "está incorreta porque falta a preposição 'para' antes de 'o endereço', complemento que o verbo 'chegar' exigiria nessa construção.",
     "d": "está correta, mas apenas porque o complemento é nome de cidade; com nomes de estabelecimento, exige-se 'em'.",
     "e": "está correta; a construção 'chegar a' é a recomendada pela norma culta escrita formal para indicar o lugar de destino, em vez de 'chegar em/no'."
@@ -50754,7 +53669,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "está correta, mas apenas porque o complemento de pessoa vem antes; invertida a ordem, a preposição seria obrigatória.",
     "b": "está correta; 'comunicar' é bitransitivo e admite a construção 'comunicar algo a alguém', com o complemento de pessoa regido pela preposição 'a', que se funde ao artigo feminino de 'direção'.",
-    "c": "está incorreta porque 'comunicar' deveria ser regido exclusivamente pela preposição 'sobre', nunca admitindo a construção bitransitiva com 'a', uso que se aproximaria da regência do verbo 'informar' quando este introduz assunto, mas que não se aplicaria aqui.",
+    "c": "está incorreta porque 'comunicar' deveria ser regido apenas pela preposição 'sobre', sem admitir a construção bitransitiva com 'a', uso que se aproximaria da regência do verbo 'informar' quando este introduz assunto, mas que não se aplicaria aqui.",
     "d": "está incorreta; deveria ser 'comuniquei a direção', sem crase, pois 'comunicar' não admite complemento indireto de pessoa regido por artigo, tratamento que se estenderia, por analogia, a todos os verbos de comunicação regidos por complemento humano determinado.",
     "e": "está correta apenas se 'direção' for substituída por um substantivo masculino, condição que eliminaria a possibilidade de crase na frase, já que a ausência de artigo feminino impediria qualquer fusão preposicional nessa regência verbal específica."
    },
@@ -50860,7 +53775,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"O enfermeiro assistiu o paciente durante toda a madrugada, monitorando os sinais vitais a cada meia hora.\"",
    "enunciado": "Sobre a regência do verbo 'assistir' na frase, no sentido de 'prestar assistência, ajudar', é correto afirmar que",
    "alternativas": {
-    "a": "está incorreta; deveria ser 'assistiu ao paciente', com a preposição 'a', forma obrigatória em qualquer sentido do verbo.",
+    "a": "está incorreta; deveria ser 'assistiu ao paciente', com a preposição 'a', pois 'assistir' seria transitivo indireto tanto no sentido de 'ver, presenciar' quanto no de 'prestar assistência', sem distinção de regência.",
     "b": "está incorreta porque 'assistir' deveria ser regido pela preposição 'com', mesmo no sentido de prestar assistência ou cuidar de alguém.",
     "c": "está correta; nesse sentido de 'prestar assistência', 'assistir' é transitivo direto, diferente do sentido de 'ver, presenciar', que exige a preposição 'a'.",
     "d": "está correta apenas em textos da área da saúde, sendo incomum em outros contextos, já que esse sentido do verbo seria exclusivo da linguagem técnica.",
@@ -50879,7 +53794,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre a crase em 'à que', caso se quisesse reescrever a oração relativa como 'a decisão à que nos referimos ontem afetou toda a equipe', é correto afirmar que",
    "alternativas": {
     "a": "a crase estaria correta apenas se 'decisão' fosse substituída por um substantivo masculino, condição que anularia completamente a regra de crase.",
-    "b": "a crase estaria correta, pois o verbo 'referir-se' exige a preposição 'a', e essa preposição receberia acento grave sempre que o antecedente do relativo fosse um substantivo feminino.",
+    "b": "a crase estaria correta, pois o verbo 'referir-se' exige a preposição 'a', e essa preposição se fundiria ao artigo definido do antecedente feminino 'decisão', produzindo o acento grave diante do pronome relativo 'que', como ocorreria também em 'à qual'.",
     "c": "a crase estaria incorreta porque o verbo 'referir-se' não admite complemento regido por preposição, funcionando sempre como transitivo direto nessa construção.",
     "d": "a crase estaria incorreta; com o antecedente 'a decisão' já expresso, o relativo 'que' não admite artigo, restando apenas a preposição: o correto seria 'a decisão a que nos referimos' ou 'a decisão à qual nos referimos'.",
     "e": "a crase estaria correta, pois a fusão ocorre entre a preposição exigida pelo verbo e o pronome relativo."
@@ -50936,7 +53851,7 @@ window.QUESTION_BANKS = {
     "b": "está correta, mas apenas porque a locução tem valor de modo; com valor de intensidade, dispensaria o acento.",
     "c": "está correta, pois 'à vontade' é locução adverbial feminina consagrada pelo uso, formada pela fusão da preposição 'a' com o artigo feminino de 'vontade'.",
     "d": "está incorreta porque a expressão correta seria 'na vontade', sem qualquer crase, substituindo a locução consagrada por regência mais simples.",
-    "e": "está incorreta, pois 'vontade' é substantivo que rejeita artigo definido antecedente em qualquer contexto, mesmo quando regido por preposição exigida pela locução verbal."
+    "e": "está incorreta, pois 'vontade' é substantivo que rejeita o artigo definido antecedente, mesmo quando regido por preposição exigida pela locução verbal, de modo que o 'a' seria mera preposição."
    },
    "resposta": "c",
    "explicacao": "'À vontade' é locução adverbial feminina consagrada pelo uso, resultante da fusão da preposição 'a' com o artigo feminino que acompanha 'vontade', mantendo-se a crase independentemente da posição da locução na frase.",
@@ -50989,7 +53904,7 @@ window.QUESTION_BANKS = {
     "a": "ambas estão corretas; 'gostar' é verbo transitivo indireto que exige a preposição 'de' antes de seu complemento, tanto em 'gosto desse tipo' quanto em 'compartilham do mesmo gosto', embora este último use o verbo 'compartilhar', também regido por 'de'.",
     "b": "ambas estão incorretas, pois 'gostar' pede complemento sem preposição quando o que se aprecia vem determinado por pronome demonstrativo, construção que dispensa o 'de' nesse tipo de estrutura",
     "c": "apenas a primeira ocorrência está correta; a segunda deveria ser 'compartilham o mesmo gosto', sem preposição, porque 'compartilhar' pede objeto direto quando o que se divide é coisa e não sentimento",
-    "d": "apenas a segunda ocorrência está correta, pois a primeira deveria ser regida pela preposição 'com', assim como ocorreria com verbos de afinidade, simpatia e apreço pessoal (uso frequente entre falantes cuidadosos), hipótese sem respaldo na regência tradicionalmente consagrada.",
+    "d": "apenas a segunda ocorrência está correta, pois a primeira deveria ser regida pela preposição 'com', assim como ocorreria com verbos de afinidade, simpatia e apreço pessoal (uso frequente entre falantes cuidadosos), construção sem respaldo na regência tradicionalmente consagrada.",
     "e": "ambas estão corretas, mas por outra razão: 'gostar' é transitivo direto, e a preposição funciona como realce."
    },
    "resposta": "a",
@@ -51004,7 +53919,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"Todos os candidatos devem comparecer ao local de prova com uma hora de antecedência, portando documento de identificação com foto.\"",
    "enunciado": "Sobre a regência do verbo 'comparecer' na frase, é correto afirmar que",
    "alternativas": {
-    "a": "está incorreta; deveria ser 'comparecer no local', com a preposição 'em', forma obrigatória na norma culta escrita em qualquer tipo de documento formal.",
+    "a": "está incorreta; deveria ser 'comparecer no local', com a preposição 'em', forma que a norma culta escrita exigiria nos editais e nas convocações, por indicarem permanência no lugar, e não deslocamento até ele.",
     "b": "está correta, mas apenas porque o complemento indica lugar público; com lugar privado, exige-se a preposição 'em'.",
     "c": "está correta; o verbo 'comparecer' é transitivo indireto e rege a preposição 'a' para indicar o lugar a que se comparece, regência empregada corretamente na frase.",
     "d": "está incorreta porque 'comparecer' deveria ser regido pela preposição 'para', indicando a finalidade do deslocamento até o local de prova.",
@@ -51041,7 +53956,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre o emprego de 'à qual' na frase, é correto afirmar que",
    "alternativas": {
     "a": "está correto, mas por outra razão: 'à qual' é forma fixa que dispensa análise da regência do termo antecedente.",
-    "b": "está incorreto porque a expressão 'dar atenção' não admite complemento regido por preposição, funcionando sempre como transitiva direta nessa construção.",
+    "b": "está incorreto porque a expressão 'dar atenção' não admite complemento regido por preposição, funcionando como transitiva direta nessa construção, de modo que o relativo deveria vir sem artigo e sem acento grave.",
     "c": "está correto apenas se 'norma' for substituída por um substantivo masculino, como 'regulamento', condição que eliminaria a crase diante do relativo.",
     "d": "está correto, pois o verbo 'dar atenção a' exige a preposição 'a', que se combina com o artigo feminino do pronome relativo 'qual', retomando 'uma norma antiga'.",
     "e": "está incorreto, pois 'qual' nunca pode ser antecedido de artigo definido fundido a preposição, mesmo quando o verbo regente exija essa preposição."
@@ -51097,7 +54012,7 @@ window.QUESTION_BANKS = {
     "a": "está correta, pois o verbo 'aspirar', no sentido de 'pretender, desejar', é transitivo indireto e rege a preposição 'a', que se funde ao artigo feminino de 'vaga'.",
     "b": "está correta apenas se o verbo estiver no tempo presente do indicativo, tempo que por si só justificaria a fusão da preposição com o artigo.",
     "c": "está correta, mas apenas porque o sujeito é plural; com sujeito singular, 'aspirar' dispensaria a preposição.",
-    "d": "está incorreta, pois o verbo 'aspirar' nunca admite complemento regido por preposição, comportando-se sempre como transitivo direto nessa acepção.",
+    "d": "está incorreta, pois o verbo 'aspirar' não admite complemento regido por preposição, comportando-se como transitivo direto nessa acepção, de modo que o 'a' anteposto a 'vaga' seria apenas artigo definido.",
     "e": "está incorreta porque 'vaga' é substantivo que rejeita artigo definido antecedente, mesmo quando regida por preposição exigida pelo verbo 'aspirar'."
    },
    "resposta": "a",
@@ -51113,7 +54028,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre o sentido e a grafia da locução 'à revelia de' na frase, é correto afirmar que",
    "alternativas": {
     "a": "significa 'antes do prazo estabelecido por', sentido não relacionado ao contexto da frase, que trataria de uma decisão tomada sem consulta prévia.",
-    "b": "está incorreta, pois a locução correta seria 'na revelia dos moradores', sem qualquer crase, substituindo a locução consagrada por regência simples.",
+    "b": "está incorreta, pois a locução correta seria 'na revelia dos moradores', sem crase, já que 'revelia' só admitiria artigo definido quando viesse determinada por um complemento posterior.",
     "c": "significa 'sem o conhecimento ou consentimento de', e a crase está corretamente empregada por se tratar de locução prepositiva feminina consagrada pelo uso.",
     "d": "significa 'com o total apoio de', sentido oposto ao empregado na frase, o que tornaria seu uso aqui inadequado.",
     "e": "significa 'sob a supervisão direta de', e a grafia com acento grave está correta por se tratar de locução adverbial."
@@ -51236,7 +54151,7 @@ window.QUESTION_BANKS = {
     "a": "apenas II é correta, já que a pessoa informada é sempre o objeto direto e a informação transmitida funciona como complemento preposicionado",
     "b": "apenas I é correta, uma vez que a coisa informada deve necessariamente ocupar a posição de objeto direto em qualquer construção com esse verbo",
     "c": "ambas são corretas, pois o verbo é bitransitivo e admite as duas distribuições, informando-se algo a alguém ou alguém de algo, como também ocorre com \"avisar\"",
-    "d": "ambas são incorretas, porque \"informar\" é transitivo direto e não admite complemento preposicionado em nenhuma das acepções registradas para ele",
+    "d": "ambas são incorretas, porque \"informar\" é transitivo direto e não admite complemento preposicionado em nenhuma das acepções registradas para ele nos dicionários de regência",
     "e": "apenas I é correta, e a construção II resulta de influência estrangeira não incorporada à norma culta do português escrito contemporâneo"
    },
    "resposta": "c",
@@ -51321,7 +54236,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "os termos \"limpo\" e \"pé\" funcionam como adjetivos e a crase só ocorre diante de substantivos que possam ser determinados por artigo definido",
     "b": "os dois enunciados apresentam locuções adverbiais de modo, classe que nunca recebe o acento indicativo de crase em nenhuma circunstância de uso",
-    "c": "o verbo de cada uma das orações é intransitivo e por isso não exige preposição diante do termo que aparece em seguida na construção apresentada",
+    "c": "o verbo de cada uma das orações é intransitivo e por isso não exige preposição diante do termo que aparece em seguida na construção apresentada, restando ali apenas o artigo",
     "d": "as palavras que seguem o \"a\" são masculinas e não admitem artigo feminino, de modo que não existe artigo com que a preposição se funda e a crase não se justifica",
     "e": "o acento foi suprimido pela reforma ortográfica em todas as locuções formadas por preposição seguida de palavra iniciada por consoante na língua"
    },
@@ -51476,7 +54391,7 @@ window.QUESTION_BANKS = {
     "b": "objeto indireto e objeto direto, distinção que se estabelece pela ordem em que os dois complementos aparecem depois do verbo na oração",
     "c": "objeto direto e objeto indireto, complementos de um verbo bitransitivo — entrega-se algo a alguém —, dos quais apenas o segundo vem introduzido por preposição",
     "d": "adjunto adnominal e complemento nominal, classificação determinada pela presença da preposição diante do segundo dos dois termos indicados",
-    "e": "predicativo do objeto e agente da passiva, funções que a estrutura da oração permite identificar a partir da transitividade do verbo empregado"
+    "e": "predicativo do objeto e agente da passiva, funções que a estrutura da oração permite identificar a partir da transitividade do verbo empregado e da preposição que introduz o segundo termo"
    },
    "resposta": "c",
    "explicacao": "\"Entregar\" é bitransitivo: entrega-se algo a alguém. O que se entrega vem sem preposição e é o objeto direto; a quem se entrega vem com \"a\" e é o objeto indireto.",
@@ -52001,7 +54916,7 @@ window.QUESTION_BANKS = {
     "b": "a ausência de crase torna a expressão gramaticalmente incorreta em qualquer contexto, mesmo sendo 'olhos' substantivo masculino nessa locução.",
     "c": "a crase é facultativa, pois 'olhos' admite tanto leitura definida quanto indefinida na expressão.",
     "d": "não deve haver crase, pois 'a olhos vistos' é locução consagrada pelo uso que não é antecedida de artigo definido feminino, sendo 'olhos' substantivo masculino.",
-    "e": "deveria haver crase, pois toda expressão formada por 'a' seguida de substantivo plural exige o acento grave, independentemente do gênero da palavra."
+    "e": "deveria haver crase, pois a expressão formada por 'a' seguida de substantivo no plural exige o acento grave, independentemente do gênero da palavra e da consagração da locução pelo uso."
    },
    "resposta": "d",
    "explicacao": "'A olhos vistos' é locução adverbial consagrada pelo uso, sem artigo definido feminino (já que 'olhos' é substantivo masculino), o que impede a ocorrência de crase nessa expressão.",
@@ -52215,7 +55130,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "está correta; embora 'a gente' equivalha semanticamente a 'nós', é gramaticalmente um substantivo coletivo que exige concordância verbal na terceira pessoa do singular, como ocorre em 'chega' e 'prefere'.",
     "b": "está correta, mas apenas em registro oral; na escrita formal, 'a gente' exige o verbo na primeira pessoa do plural.",
-    "c": "está correta apenas em registros extremamente informais, sendo sempre um erro grave em qualquer texto escrito, mesmo em conversas cotidianas transcritas, avaliação equivocada quanto à aceitação dessa expressão em registros cuidados.",
+    "c": "está correta apenas em registros extremamente informais, sendo um erro grave no texto escrito, mesmo em conversas cotidianas transcritas, avaliação equivocada quanto à aceitação dessa expressão em registros escritos mais cuidados.",
     "d": "está incorreta; 'a gente', por equivaler a 'nós', deveria levar sempre o verbo para a primeira pessoa do plural: 'nós chegamos', 'nós preferimos'.",
     "e": "está incorreta na escrita formal, em que 'a gente' deve ser substituído por 'nós' com o verbo na primeira pessoa do plural, restando a construção da frase apenas para o registro falado"
    },
@@ -52234,7 +55149,7 @@ window.QUESTION_BANKS = {
     "a": "está correta apenas porque a frase está no pretérito mais-que-perfeito composto, tempo que determinaria a concordância do pronome indefinido.",
     "b": "está correta, mas apenas porque o verbo vem posposto ao sujeito; anteposto, a concordância iria ao singular.",
     "c": "está incorreta porque falta o artigo definido antes de 'moradores', elemento que a expressão partitiva exigiria obrigatoriamente nessa posição.",
-    "d": "está incorreta; deveria concordar no singular, já que 'alguns' é o núcleo do sujeito, mas isolado, o que tornaria 'havia solicitado' a única forma aceita.",
+    "d": "está incorreta; deveria concordar no singular, já que 'alguns' é o núcleo do sujeito, mas isolado, o que tornaria 'havia solicitado' a única forma aceita nas expressões partitivas desse tipo.",
     "e": "está correta; o núcleo do sujeito é 'alguns', substantivo indefinido plural, que exige a concordância no plural com o verbo, como ocorre em 'haviam solicitado'."
    },
    "resposta": "e",
@@ -52270,7 +55185,7 @@ window.QUESTION_BANKS = {
     "a": "ambas estão corretas, já que a concordância com sujeito posposto é facultativa e admite tanto o singular quanto o plural sem prejuízo de sentido",
     "b": "apenas II está correta, uma vez que o verbo colocado antes do sujeito permanece obrigatoriamente na terceira pessoa do singular em qualquer situação",
     "c": "apenas I está correta, pois o verbo concorda com o sujeito \"três pacientes\", ainda que posposto, e inverter a ordem dos termos é recurso de estilo, e não de sintaxe",
-    "d": "ambas estão incorretas, pois o sujeito da oração é o termo \"pronto-socorro\" e exigiria a forma verbal na terceira pessoa do singular do pretérito",
+    "d": "ambas estão incorretas, pois o sujeito da oração é o termo \"pronto-socorro\" e exigiria a forma verbal na terceira pessoa do singular do pretérito perfeito, e não a concordância com o termo posposto",
     "e": "apenas II está correta, porque a expressão \"com o mesmo quadro\" funciona como adjunto e transfere o núcleo do sujeito para a forma singular"
    },
    "resposta": "c",
@@ -52288,7 +55203,7 @@ window.QUESTION_BANKS = {
     "b": "está acompanhado da locução \"mais de\", que impõe a forma singular a qualquer verbo com o qual venha a se combinar dentro do período",
     "c": "concorda com o termo \"sala de espera\", que exerce a função de sujeito da oração e se encontra no singular na construção apresentada",
     "d": "aparece no pretérito imperfeito, tempo verbal que no português contemporâneo dispensa a flexão de número em construções existenciais",
-    "e": "funciona como auxiliar de uma locução verbal cujo verbo principal ficou subentendido, o que impede a flexão de número na forma empregada"
+    "e": "funciona como auxiliar de uma locução verbal cujo verbo principal ficou subentendido, o que impede a flexão de número na forma empregada e a transfere para o termo omitido"
    },
    "resposta": "a",
    "explicacao": "\"Vinte pessoas\" é objeto direto, não sujeito: a oração não tem sujeito. Por isso o verbo fica na terceira pessoa do singular. Com \"existir\", que é pessoal, a frase seria \"existiam mais de vinte pessoas\".",
@@ -52338,7 +55253,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "o verbo \"vender\" pertence ao grupo dos que exigem obrigatoriamente a flexão de plural quando acompanhados de pronome átono na próclise",
     "b": "o verbo concorda com o adjetivo \"usados\", que aparece no plural e determina a flexão de toda a construção verbal empregada na oração",
-    "c": "a partícula \"se\" indetermina o sujeito, e nesse caso a norma culta recomenda o emprego da terceira pessoa do plural para marcar a indeterminação",
+    "c": "a partícula \"se\" indetermina o sujeito, e nesse caso a norma culta recomenda o emprego da terceira pessoa do plural para marcar a indeterminação do agente da ação verbal",
     "d": "\"equipamentos\" é o sujeito de uma construção passiva sintética, equivalente a \"são vendidos\", em que o \"se\" apassiva o verbo e o objeto aparente passa a sujeito",
     "e": "o termo \"hospitalares\" funciona como núcleo do sujeito composto da oração e impõe ao verbo a concordância com a forma plural apresentada"
    },
@@ -52354,7 +55269,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Sobre a concordância nominal nos dois enunciados:",
    "alternativas": {
     "a": "ambos estão corretos, pois \"anexo\" e \"obrigado\" funcionam como adjetivos e variam conforme o termo a que se referem, sendo invariável apenas a locução \"em anexo\"",
-    "b": "apenas I está correto, já que \"obrigado\" é forma cristalizada e permanece invariável independentemente de quem produz o enunciado em que ela aparece",
+    "b": "apenas I está correto, já que \"obrigado\" é forma cristalizada e permanece invariável independentemente de quem produz o enunciado em que ela aparece, como se dá com \"alerta\"",
     "c": "apenas II está correto, uma vez que \"anexo\" tem valor adverbial nessa construção e por isso não admite flexão de gênero nem de número",
     "d": "ambos estão incorretos, porque as duas palavras pertencem à classe dos advérbios e deveriam permanecer na forma masculina singular nos dois casos",
     "e": "apenas I está correto, e em II a forma adequada seria \"muito obrigado\", em razão da concordância com o termo \"muito\" que a antecede na frase"
@@ -52370,7 +55285,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Compare: (I) \"É proibido entrada de acompanhantes.\" (II) \"É proibida a entrada de acompanhantes.\"",
    "enunciado": "As duas construções são corretas porque, em I, o sujeito ______ e o predicativo ______; em II, o sujeito ______ e o predicativo ______. As lacunas são preenchidas por:",
    "alternativas": {
-    "a": "é o termo \"entrada\" nos dois casos – varia livremente – é o mesmo termo – varia livremente, sendo as duas formas intercambiáveis em qualquer contexto",
+    "a": "é o termo \"entrada\" nos dois casos – varia livremente – é o mesmo termo – varia livremente, sendo as duas formas intercambiáveis em contextos formais e informais",
     "b": "está determinado por artigo – concorda com ele – está sem determinante – permanece invariável, mantendo-se sempre na forma feminina singular",
     "c": "é a oração inteira – concorda com o verbo da oração principal – é o termo \"acompanhantes\" – concorda com esse termo no plural masculino",
     "d": "é indeterminado – acompanha o gênero do falante – é oculto – concorda com a pessoa a quem a proibição se dirige em cada situação de uso",
@@ -52405,7 +55320,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Considere: (I) \"Vinte por cento dos leitos estão ocupados.\" (II) \"Um por cento dos leitos está ocupado.\"",
    "enunciado": "A diferença de concordância entre os dois enunciados se explica porque, com expressões percentuais, o verbo concorda:",
    "alternativas": {
-    "a": "sempre com o termo preposicionado que vem em seguida à expressão percentual, independentemente do valor numérico indicado antes dele no período",
+    "a": "com o termo preposicionado que vem em seguida à expressão percentual, independentemente do valor numérico indicado antes dele, critério que também valeria para as frações e para as porcentagens escritas por extenso",
     "b": "com o numeral que acompanha a expressão percentual, e não com o termo preposicionado que vem depois dela, o qual, se comandasse, daria a mesma forma aos dois",
     "c": "sempre na terceira pessoa do singular, uma vez que expressões percentuais constituem construções impessoais e não admitem sujeito determinado",
     "d": "com o termo mais próximo, critério que se aplica a todas as construções em que o sujeito é formado por mais de um elemento nominal na frase",
@@ -52422,7 +55337,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"Mais de um paciente relatou o mesmo sintoma naquela semana.\"",
    "enunciado": "A forma verbal no singular se justifica porque a expressão \"mais de um\":",
    "alternativas": {
-    "a": "constitui locução prepositiva e por isso não pode integrar o sujeito da oração, que nesse caso permanece indeterminado ao longo de todo o período",
+    "a": "constitui locução prepositiva e por isso não pode integrar o sujeito da oração, que nesse caso permanece indeterminado e exige o verbo na terceira pessoa do singular",
     "b": "funciona como adjunto adverbial de intensidade, o que impede qualquer influência sua sobre a flexão de número da forma verbal utilizada na oração",
     "c": "concorda com o termo \"sintoma\", núcleo do complemento verbal, que aparece no singular na construção apresentada pelo enunciado da questão",
     "d": "exige o verbo no singular, apesar de indicar quantidade superior a um, prevalecendo a forma sobre o sentido nessa construção consagrada pelo uso",
@@ -52478,7 +55393,7 @@ window.QUESTION_BANKS = {
     "a": "oculto, recuperável pela desinência verbal empregada na terceira pessoa do plural do pretérito perfeito do modo indicativo apresentado",
     "b": "indeterminado, uma vez que o verbo está na terceira pessoa do plural sem sujeito expresso nem recuperável no contexto: não se sabe nem se diz quem bateu à porta",
     "c": "inexistente, uma vez que se trata de oração sem sujeito construída com verbo impessoal que indica fenômeno ocorrido durante a madrugada",
-    "d": "simples, tendo como núcleo o termo \"porta\", que aparece precedido de preposição na estrutura sintática apresentada pelo enunciado da questão",
+    "d": "simples, tendo como núcleo o termo \"porta\", que aparece precedido de preposição e comanda a concordância do verbo na terceira pessoa do plural, apesar de vir posposto a ele",
     "e": "composto, formado pelos dois termos que aparecem depois do verbo e que exercem conjuntamente essa função dentro da oração analisada"
    },
    "resposta": "b",
@@ -52511,7 +55426,7 @@ window.QUESTION_BANKS = {
    "enunciado": "As vozes verbais empregadas são, respectivamente:",
    "alternativas": {
     "a": "impessoal e pessoal, classificação que depende da possibilidade de identificar o sujeito da oração em cada um dos dois casos apresentados",
-    "b": "passiva sintética e passiva analítica, formas que se distinguem pela presença ou pela ausência do verbo auxiliar em cada uma das construções",
+    "b": "passiva sintética e passiva analítica, formas que se distinguem pela presença ou pela ausência do verbo auxiliar em cada uma das construções apresentadas na comparação entre os dois enunciados",
     "c": "ativa e passiva, distinção determinada pela posição ocupada pelo agente da ação em relação ao verbo em cada um dos dois enunciados propostos",
     "d": "reflexiva recíproca e reflexiva, ordem que decorre do número de participantes envolvidos na ação descrita por cada uma das duas orações",
     "e": "reflexiva e reflexiva recíproca, praticando e sofrendo o sujeito a mesma ação na primeira, e admitindo a segunda o acréscimo de \"um ao outro\" sem mudar o sentido"
@@ -52529,7 +55444,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "sujeito determinado; a regular, com sujeito indeterminado, alternância que depende da possibilidade de identificar o agente da ação verbal",
     "b": "\"ter\" e \"haver\"; a regular, com \"ser\" e \"estar\", distribuição que a norma culta estabelece para todos os verbos de particípio duplo da língua",
-    "c": "verbos transitivos diretos; a regular, com verbos transitivos indiretos, critério determinado pela regência exigida em cada uma das construções",
+    "c": "verbos transitivos diretos; a regular, com verbos transitivos indiretos, critério determinado pela regência exigida em cada uma das construções, e não pelo auxiliar empregado",
     "d": "orações da voz ativa; a regular, com orações da voz passiva, distinção que se aplica indistintamente a todos os tempos compostos do português",
     "e": "\"ser\" e \"estar\"; a regular, com \"ter\" e \"haver\", distribuição que vale também para \"pago\" e \"impresso\" e separa os auxiliares da passiva dos tempos compostos"
    },
@@ -52733,6 +55648,40 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Na voz passiva analítica, o particípio concorda com o sujeito paciente. O sujeito é \"as chaves\", feminino plural, e por isso a forma é \"entregues\", assim como o auxiliar vai ao plural: \"foram\".",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-259",
+   "texto_apoio": "Compare: (I) \"Faltaram ao plantão o técnico e a enfermeira.\" (II) \"Faltou ao plantão o técnico e a enfermeira.\"",
+   "enunciado": "Sobre a concordância verbal com o sujeito composto posposto ao verbo, é correto afirmar que",
+   "alternativas": {
+    "a": "as duas estão corretas: com sujeito composto posposto, o verbo pode ir ao plural ou concordar com o núcleo mais próximo.",
+    "b": "apenas II está correta, já que o verbo colocado à frente do sujeito composto permanece no singular por ainda não dispor de um termo com que concordar naquele ponto da frase.",
+    "c": "apenas I está correta, porque o sujeito composto pede o plural e a ordem dos núcleos não interfere na flexão da forma verbal.",
+    "d": "ambas estão incorretas, pois o sujeito composto leva o verbo ao plural apenas se os núcleos forem ligados pela conjunção \"ou\".",
+    "e": "apenas II está correta, porque a concordância se faz com o primeiro dos dois núcleos, e ele se encontra no singular."
+   },
+   "resposta": "a",
+   "explicacao": "Com o sujeito composto anteposto, o plural é obrigatório. Posposto, a norma admite as duas saídas: o verbo vai ao plural, somando os núcleos, ou concorda com o núcleo mais próximo — a chamada concordância atrativa. Por isso I e II são aceitáveis, e nenhuma das duas é desvio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "med-gramatica-260",
+   "texto_apoio": "Compare: (I) \"Os relatórios seguem anexos ao processo.\" (II) \"Havia bastantes motivos para adiar a cirurgia.\"",
+   "enunciado": "Sobre a concordância nominal nas duas frases, é correto afirmar que",
+   "alternativas": {
+    "a": "apenas I está correta, e em II a forma adequada seria \"bastante motivos\", com a palavra no singular por vir antes do nome.",
+    "b": "apenas II está correta, já que \"anexo\" tem valor fixo e não acompanha a flexão de número do termo ao qual se liga.",
+    "c": "as duas estão corretas: \"anexos\" concorda com o termo a que se refere e \"bastantes\" varia por quantificar um nome.",
+    "d": "apenas I está correta, pois \"bastante\" é palavra invariável e deveria permanecer no singular mesmo diante do nome que quantifica, uma vez que funciona ali como simples reforço de intensidade.",
+    "e": "ambas estão incorretas, porque as duas palavras deveriam ficar no singular por não integrarem o sujeito de suas orações."
+   },
+   "resposta": "c",
+   "explicacao": "\"Anexo\" concorda em gênero e número com o termo a que se refere: relatórios anexos, cópia anexa. Só a locução \"em anexo\" fica invariável. \"Bastante\" varia quando quantifica um nome, valendo por \"muitos\"; fica invariável quando intensifica um verbo ou modificador, valendo por \"muito\".",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -53063,7 +56012,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"A equipe organizou um mutirão de limpeza a fim de que o parque estivesse pronto para a reinauguração no próximo mês.\"",
    "enunciado": "Sobre o emprego do subjuntivo após a locução conjuntiva 'a fim de que' na frase, é correto afirmar que",
    "alternativas": {
-    "a": "está incorreto porque 'a fim de que' deveria ser seguida do indicativo, e não do subjuntivo, modo que exprimiria certeza quanto à finalidade pretendida.",
+    "a": "está incorreto porque 'a fim de que' deveria ser seguida do indicativo, e não do subjuntivo, modo que exprimiria certeza quanto à finalidade pretendida pela equipe que organizou o mutirão.",
     "b": "está correto, mas apenas porque a oração principal está no passado; com principal no presente, exigir-se-ia o indicativo.",
     "c": "está incorreto; 'a fim de que' deveria ser seguida de infinitivo, e não de subjuntivo, já que expressa apenas finalidade sem sujeito próprio.",
     "d": "está correto apenas se a oração principal também estiver no subjuntivo, condição que determinaria o modo verbal da oração final subordinada.",
@@ -53121,7 +56070,7 @@ window.QUESTION_BANKS = {
     "b": "ambas as ocorrências deveriam ser grafadas como 'mau', já que se trata sempre de adjetivo com sentido negativo, nunca funcionando como advérbio nessas construções específicas.",
     "c": "ambas estão corretas, mas por outra razão: 'mal' é sempre advérbio, e o hífen depende apenas da vogal seguinte.",
     "d": "a primeira ocorrência está incorreta e deveria ser 'mau-humorado', pois 'mau' é a forma usada antes de substantivos e adjetivos em qualquer composição (erro comum em registros descuidados).",
-    "e": "a segunda ocorrência está incorreta e deveria ser substituída por 'mau entrou', mantendo o mesmo sentido temporal equivalente a 'assim que' nessa construção adverbial, confusão entre o advérbio 'mal' e o adjetivo 'mau'."
+    "e": "a segunda ocorrência está incorreta e deveria ser substituída por 'mau entrou', mantendo o mesmo sentido temporal equivalente a 'assim que' nessa construção adverbial, já que 'mau' seria a forma correta diante de verbo no pretérito."
    },
    "resposta": "a",
    "explicacao": "'Mal' (advérbio) é usado em 'mal-humorado' como elemento de composição consagrado pela tradição ortográfica, e também em 'mal entrou' com sentido temporal (equivalente a 'assim que entrou'); já 'mau' é adjetivo, oposto de 'bom', usado antes de substantivos ('um mau motorista'), distinção diferente da aplicada nesta frase.",
@@ -53135,7 +56084,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"A paciente estava meio cansada e tomou meia dose do medicamento.\"",
    "enunciado": "As duas ocorrências de \"meio\" se distinguem porque a primeira é:",
    "alternativas": {
-    "a": "substantivo e funciona como núcleo do sujeito; a segunda é adjetivo e exerce a função de adjunto adnominal do termo que aparece em seguida",
+    "a": "substantivo e funciona como núcleo do sujeito; a segunda é adjetivo e exerce a função de adjunto adnominal do termo que aparece em seguida, com o qual concorda em gênero",
     "b": "numeral e concorda com o adjetivo que a acompanha; a segunda é advérbio de intensidade e permanece invariável em qualquer contexto de emprego",
     "c": "advérbio e não varia, por modificar um adjetivo e equivaler ali a \"um pouco\"; a segunda é numeral e concorda em gênero com o substantivo que ela quantifica",
     "d": "preposição e introduz um complemento nominal; a segunda é conjunção e estabelece relação de adição entre as duas orações do período",
@@ -53238,7 +56187,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"O tomógrafo foi instalado em março. O equipamento passou por calibração em abril. O aparelho já atende à demanda do setor.\"",
    "enunciado": "A progressão do trecho se apoia no recurso de:",
    "alternativas": {
-    "a": "utilização de conectivos temporais que marcam a sucessão cronológica entre os fatos relatados em cada um dos três períodos do trecho apresentado",
+    "a": "utilização de conectivos temporais que marcam a sucessão cronológica entre os fatos relatados em cada um dos três períodos do trecho, ligando-os explicitamente uns aos outros na progressão do texto",
     "b": "repetição integral do mesmo substantivo em todos os períodos, estratégia adotada para assegurar que o leitor não perca o referente ao longo do texto",
     "c": "emprego de pronomes demonstrativos que retomam o termo mencionado no período imediatamente anterior a cada uma das ocorrências indicadas",
     "d": "substituição lexical por hiperônimos, termos de sentido mais amplo que incluem ali o referente anterior e evitam a repetição sem exigir o emprego de pronome ou de conectivo",
@@ -53341,7 +56290,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Considere: \"infeliz\", \"felizmente\", \"entristecer\".",
    "enunciado": "Os processos de formação das três palavras são, na ordem:",
    "alternativas": {
-    "a": "composição por justaposição, aglutinação e hibridismo, classificação que leva em conta a origem de cada um dos elementos combinados na palavra",
+    "a": "composição por justaposição, aglutinação e hibridismo, classificação que leva em conta a origem de cada um dos elementos combinados na formação de cada uma das três palavras",
     "b": "derivação sufixal, prefixal e regressiva, processos que se diferenciam pela posição ocupada pelo afixo em relação ao radical de cada palavra",
     "c": "derivação prefixal, sufixal e parassintética, sendo a última caracterizada pelo acréscimo simultâneo dos dois afixos, já que não existe a forma com só um deles",
     "d": "derivação imprópria, regressiva e parassintética, sendo a primeira caracterizada pela mudança de classe sem alteração da forma da palavra",
@@ -53620,7 +56569,7 @@ window.QUESTION_BANKS = {
     "b": "ação em curso ao longo de um período e ação concluída em momento definido, distinção marcada pela presença do adjunto adverbial em cada caso",
     "c": "ação concluída em momento definido e ação em curso ao longo de um período, contraste de aspecto: o perfeito fecha o fato num ponto e o imperfeito o deixa aberto",
     "d": "ação hipotética dependente de condição e ação efetivamente realizada, valores que se distinguem pelo modo verbal empregado em cada oração",
-    "e": "ação habitual repetida indefinidamente e ação pontual sem duração determinada, contraste que decorre do aspecto verbal de cada uma das formas"
+    "e": "ação habitual repetida indefinidamente e ação pontual sem duração determinada, contraste que decorre do aspecto verbal de cada uma das formas empregadas nos dois enunciados da comparação"
    },
    "resposta": "c",
    "explicacao": "O pretérito perfeito fecha o fato num ponto do tempo; o imperfeito o deixa aberto, em processo. É a diferença entre \"melhorou às oito\" e \"melhorava a cada dia\", e ela é de aspecto, não de tempo.",
@@ -53686,7 +56635,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Os três termos têm em comum o fato de:",
    "alternativas": {
     "a": "formarem o sentido negativo por meio de prefixo — \"des-\", \"a-\" e \"ir-\" —, elementos de origens distintas que negam aquilo que vem depois deles na formação da palavra",
-    "b": "pertencerem à mesma classe gramatical e apresentarem idêntico processo de formação a partir de radicais de origem grega incorporados ao português",
+    "b": "pertencerem à mesma classe gramatical e apresentarem idêntico processo de formação a partir de radicais de origem grega incorporados ao português na linguagem médica contemporânea",
     "c": "constituírem antônimos entre si, de modo que o emprego de qualquer um deles exclui necessariamente a possibilidade de emprego dos outros dois",
     "d": "resultarem de derivação regressiva a partir de verbos correspondentes, processo em que a palavra derivada perde parte do radical original",
     "e": "apresentarem sufixos que indicam estado transitório, característica que os distingue de outros termos empregados na descrição de quadros clínicos"
@@ -53788,7 +56737,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Compare: (I) \"A proposta veio ao encontro do que a equipe pedia.\" (II) \"A proposta veio de encontro ao que a equipe pedia.\"",
    "enunciado": "As duas construções são corretas, mas exprimem, respectivamente:",
    "alternativas": {
-    "a": "oposição e concordância, distinção que decorre da posição ocupada pela preposição em relação ao substantivo dentro de cada uma das locuções",
+    "a": "oposição e concordância, distinção que decorre da posição ocupada pela preposição em relação ao substantivo dentro de cada uma das locuções empregadas nos dois enunciados",
     "b": "concordância e oposição, já que a primeira locução equivale a favorecer e a segunda, a colidir, valores que se invertem ao se trocar a preposição empregada",
     "c": "anterioridade e posterioridade, valores temporais que as duas locuções assumem conforme o tempo verbal empregado na oração principal",
     "d": "certeza e dúvida, graus de comprometimento que quem escreve assume em relação ao conteúdo transmitido em cada um dos dois enunciados",
@@ -53813,6 +56762,74 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Com \"um e outro\", o substantivo fica no singular e o verbo vai preferencialmente ao plural, porque são dois os exames considerados. O singular também é registrado, mas o plural é a forma corrente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "med-gramatica-255",
+   "texto_apoio": "Considere o trio: \"médico\", \"medico\" e \"medicou\".",
+   "enunciado": "Sobre a sílaba tônica e a acentuação das três formas, é correto afirmar que",
+   "alternativas": {
+    "a": "as três são proparoxítonas, e o acento gráfico foi suprimido nas duas últimas por decisão do Acordo Ortográfico assinado em 1990 pelos países de língua portuguesa.",
+    "b": "a segunda forma é oxítona terminada em o e por isso dispensa o acento gráfico na escrita.",
+    "c": "a primeira é proparoxítona e recebe acento; a segunda é paroxítona e a terceira, oxítona terminada em u, ambas sem acento.",
+    "d": "a terceira forma é paroxítona e deveria receber acento circunflexo na vogal da penúltima sílaba.",
+    "e": "as três compartilham a mesma sílaba tônica, e a diferença gráfica entre elas é de natureza puramente decorativa."
+   },
+   "resposta": "c",
+   "explicacao": "\"Médico\" tem a força na antepenúltima sílaba: é proparoxítona, e essas recebem acento sem exceção de terminação. \"Medico\", verbo no presente, é paroxítona terminada em o, terminação que a regra de acentuação não contempla. \"Medicou\" é oxítona terminada em u, também fora das terminações acentuadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "med-gramatica-256",
+   "texto_apoio": "Compare: (I) \"Não se esqueça do exame.\" (II) \"Esqueça-se do exame.\"",
+   "enunciado": "A diferença de colocação pronominal entre as duas frases explica-se porque",
+   "alternativas": {
+    "a": "a ênclise de II é vedada pela norma culta em frases iniciadas por verbo no modo imperativo afirmativo.",
+    "b": "a próclise de I decorre da presença de um substantivo abstrato no início do enunciado escrito.",
+    "c": "as duas formas são intercambiáveis, e a escolha entre elas obedece apenas ao gosto pessoal de quem escreve o texto em situação de registro formal.",
+    "d": "em I o advérbio de negação atrai o pronome átono para antes do verbo, e em II, sem palavra atrativa, o pronome fica depois dele.",
+    "e": "em II a mesóclise foi empregada por se tratar de forma verbal do futuro do pretérito."
+   },
+   "resposta": "d",
+   "explicacao": "Palavras atrativas puxam o pronome átono para a próclise, e o advérbio de negação é a mais frequente delas. Sem essa palavra, o imperativo afirmativo de II admite a ênclise. A mesóclise não cabe em nenhuma das duas, pois exige futuro do presente ou do pretérito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "med-gramatica-257",
+   "texto_apoio": "Considere: \"desleal\", \"lealdade\" e \"lealmente\".",
+   "enunciado": "Quanto à formação dessas três palavras, é correto afirmar que",
+   "alternativas": {
+    "a": "as três resultam de composição por justaposição de dois radicais autônomos da língua portuguesa.",
+    "b": "a primeira resulta de derivação regressiva, processo em que o vocábulo perde a sílaba final para gerar um substantivo abstrato de sentido correlato.",
+    "c": "a segunda é um neologismo recente, sem radical documentado nos dicionários da língua portuguesa.",
+    "d": "a terceira é um adjetivo formado por prefixação, e o elemento final indica intensidade.",
+    "e": "compartilham o radical leal: a primeira traz prefixo de negação, e as outras duas trazem sufixos que geram substantivo e advérbio."
+   },
+   "resposta": "e",
+   "explicacao": "O radical comum é leal. Em \"desleal\", o prefixo des- nega o sentido do radical. Em \"lealdade\", o sufixo -dade forma um substantivo abstrato; em \"lealmente\", o sufixo -mente forma um advérbio. Os três casos são derivação, não composição.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-morfologia",
+   "id": "med-gramatica-258",
+   "texto_apoio": "Compare: (I) \"A paciente ficou meio tonta.\" (II) \"Bebeu meio copo de água.\"",
+   "enunciado": "Sobre a classe gramatical da palavra repetida nas duas frases, é correto afirmar que",
+   "alternativas": {
+    "a": "em I ela é advérbio e permanece invariável; em II é numeral e acompanha o substantivo a que se refere.",
+    "b": "em I ela é adjetivo e qualifica o estado da paciente descrito pelo verbo de ligação da frase.",
+    "c": "nas duas frases ela pertence à mesma classe gramatical, e o que muda é apenas a posição que ocupa dentro de cada enunciado escrito pelo autor do relato.",
+    "d": "em II ela é interjeição, empregada para dar ênfase à quantidade mencionada no enunciado.",
+    "e": "em I ela é artigo indefinido, pois antecede um nome de sentido genérico dentro da frase."
+   },
+   "resposta": "a",
+   "explicacao": "A classificação morfológica de uma palavra depende do papel que ela exerce. Em I, \"meio\" modifica o adjetivo com valor de mais ou menos: é advérbio e fica invariável. Em II, quantifica o nome: é numeral fracionário e se ajusta ao nome que acompanha.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -53981,7 +56998,7 @@ window.QUESTION_BANKS = {
     "a": "deveria haver ponto final antes de 'o acordo', encerrando a frase no meio do período e transformando o adjunto deslocado em oração independente.",
     "b": "está corretamente separado do restante da oração por vírgula, prática recomendada para adjuntos adverbiais deslocados, especialmente quando extensos.",
     "c": "a vírgula é facultativa, pois adjuntos adverbiais deslocados só exigem pontuação quando expressam tempo.",
-    "d": "a vírgula empregada está incorreta e deveria ser substituída por ponto e vírgula, sinal reservado a adjuntos com vírgulas internas complexas.",
+    "d": "a vírgula empregada está incorreta e deveria ser substituída por ponto e vírgula, sinal reservado aos adjuntos adverbiais deslocados de grande extensão, como o que abre o período em análise, com vírgulas internas complexas.",
     "e": "não deveria haver vírgula alguma antes do sujeito 'o acordo', independentemente do tamanho do adjunto deslocado, mesmo sendo ele bastante extenso."
    },
    "resposta": "b",
@@ -54106,7 +57123,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "está corretamente pontuada, dispensando qualquer sinal entre as orações apresentadas, já que orações coordenadas assindéticas curtas dispensariam vírgula, mesmo com sujeito e verbo próprios em cada uma.",
     "b": "está incorreta; as orações coordenadas deveriam ser separadas por ponto e vírgula, e não por vírgula.",
-    "c": "está incorreta porque deveria haver ponto final entre cada uma das três orações, formando três frases independentes e sem qualquer relação sintática entre si, solução que fragmentaria desnecessariamente a sequência narrativa do período original.",
+    "c": "está incorreta porque deveria haver ponto final entre cada uma das três orações, formando três frases independentes e sem relação sintática entre si, solução que fragmentaria desnecessariamente a sequência narrativa do período original.",
     "d": "está incorreta apenas porque falta um sujeito explícito em cada oração, uma vez que a supressão do sujeito em orações coordenadas assindéticas prejudica a identificação de quem pratica cada ação narrada",
     "e": "está incorreta; faltam vírgulas separando as orações coordenadas assindéticas (sem conjunção), sendo necessário algo como 'Terminou a reunião, entrou correndo na sala ao lado, esqueceu completamente o notebook sobre a mesa'."
    },
@@ -54142,7 +57159,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "deveria haver ponto final, e não vírgula, separando o adjunto do restante da oração e transformando-o em uma frase curta e independente.",
     "b": "a vírgula é indevida, pois adjuntos adverbiais deslocados só a exigem quando expressam causa ou condição.",
-    "c": "a vírgula está incorreta e deveria ser eliminada em qualquer hipótese, já que adjuntos adverbiais deslocados rejeitariam qualquer pausa gráfica.",
+    "c": "a vírgula está incorreta e deveria ser eliminada nesse caso, já que os adjuntos adverbiais deslocados rejeitariam a pausa gráfica antes do sujeito da oração.",
     "d": "a vírgula empregada após o adjunto é obrigatória em qualquer extensão de adjunto deslocado, sem exceção.",
     "e": "a vírgula empregada é aceitável, embora, por se tratar de um adjunto curto, sua ausência também seria considerada correta pela norma culta."
    },
@@ -54162,7 +57179,7 @@ window.QUESTION_BANKS = {
     "b": "deveria ser obrigatoriamente substituído por vírgula, sendo o travessão sempre inadequado nesse tipo de construção.",
     "c": "está empregado corretamente, mas apenas porque a explicação vem no fim do período; no meio, exigiria par.",
     "d": "está correto apenas se a frase estiver em discurso direto representando a fala de um personagem, uso exclusivo desse tipo de travessão isolado.",
-    "e": "está incorreto, pois travessões isolados nunca podem substituir dois-pontos em nenhuma hipótese, mesmo quando introduzem uma explicação posterior."
+    "e": "está incorreto, pois o travessão isolado não pode substituir os dois-pontos, mesmo quando introduz uma explicação posterior, função reservada apenas ao par de travessões que intercala um comentário."
    },
    "resposta": "a",
    "explicacao": "O travessão isolado pode ser empregado para introduzir uma explicação ou detalhamento do que foi anunciado antes ('um dado alarmante'), uso equivalente, em muitos contextos, ao dos dois-pontos, sendo recurso estilístico aceito pela norma culta.",
@@ -54213,7 +57230,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"O projeto não avançou como esperado, ou seja, boa parte das metas estabelecidas no início do ano não foi cumprida dentro do prazo.\"",
    "enunciado": "Sobre a pontuação empregada com a expressão 'ou seja' na frase, é correto afirmar que",
    "alternativas": {
-    "a": "a expressão 'ou seja' deveria ser substituída por 'já que', sem qualquer alteração na pontuação, mantendo idêntico o valor explicativo do trecho.",
+    "a": "a expressão 'ou seja' deveria ser substituída por 'já que', sem alteração na pontuação, mantendo idêntico o valor explicativo do trecho, uma vez que ambas introduzem uma reformulação.",
     "b": "deveria haver ponto final antes de 'ou seja', encerrando o período nesse ponto e transformando a reformulação em oração independente.",
     "c": "deveria ser eliminada a vírgula antes de 'ou seja', já que expressões explicativas nunca são isoladas por vírgula.",
     "d": "está corretamente isolada por vírgula, prática recomendada para expressões explicativas que reformulam uma ideia anterior, como ocorre nesse caso.",
@@ -54233,7 +57250,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "um aposto explicativo, termo que acrescenta informação sobre outro já determinado e por isso se isola por vírgulas, o que não ocorreria se fosse especificativo",
     "b": "um vocativo dirigido ao interlocutor, termo que se caracteriza por não exercer função sintática dentro da oração em que aparece empregado",
-    "c": "uma oração subordinada adverbial deslocada de sua posição habitual, o que exige a marcação por meio de sinal de pontuação nos dois extremos",
+    "c": "uma oração subordinada adverbial deslocada de sua posição habitual, o que exige a marcação por meio de sinal de pontuação nos dois extremos do trecho intercalado no período",
     "d": "um adjunto adverbial de lugar intercalado entre o sujeito e o predicado da oração principal",
     "e": "um complemento nominal do termo que o antecede, isolado por vírgulas para evitar ambiguidade quanto ao termo a que ele se refere na frase"
    },
@@ -54266,7 +57283,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"A equipe de plantão da unidade de emergência, informou o resultado à família.\"",
    "enunciado": "O período apresenta erro de pontuação porque a vírgula:",
    "alternativas": {
-    "a": "marca a elipse de um verbo que ficou subentendido na segunda parte do período, recurso que exigiria o emprego de ponto e vírgula no lugar dela",
+    "a": "marca a elipse de um verbo que ficou subentendido na segunda parte do período, recurso que exigiria o emprego de ponto e vírgula no lugar dela, e não de vírgula simples",
     "b": "isola um aposto explicativo sem que o segundo sinal correspondente tenha sido empregado no lugar adequado dentro da estrutura do período",
     "c": "antecede uma conjunção coordenativa aditiva, contexto em que a norma culta desaconselha o emprego desse sinal de pontuação na escrita formal",
     "d": "separa o sujeito do predicado, termos que a norma não admite ver divididos por esse sinal, sendo a extensão do sintagma o que faz o erro parecer natural",
@@ -54283,7 +57300,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"Compareceram à reunião: Ana, do laboratório; Bruno, da farmácia; e Carla, da enfermagem.\"",
    "enunciado": "O emprego do ponto e vírgula se justifica porque:",
    "alternativas": {
-    "a": "a enumeração apresenta mais de dois elementos, número a partir do qual a norma culta passa a exigir esse sinal em substituição à vírgula simples",
+    "a": "a enumeração apresenta mais de dois elementos, número a partir do qual a norma culta passa a exigir esse sinal em substituição à vírgula simples, independentemente do conteúdo dos itens",
     "b": "os itens enumerados já contêm vírgulas internas, separando o nome do setor, e o sinal mais forte estabelece a hierarquia entre os dois níveis da enumeração",
     "c": "os termos listados pertencem a setores diferentes da mesma instituição, distinção que a pontuação precisa marcar de forma explícita no texto",
     "d": "o período foi introduzido por dois-pontos, sinal que impõe o uso de ponto e vírgula em toda a sequência que vier depois dele na construção",
@@ -54320,7 +57337,7 @@ window.QUESTION_BANKS = {
     "a": "indica que a informação intercalada foi acrescentada por outra pessoa que não o autor do texto, prática comum em documentos revisados por terceiros",
     "b": "destaca mais a informação intercalada, em vez de rebaixá-la, cabendo à vírgula a posição intermediária nessa escala de ênfase entre os três recursos",
     "c": "assinala a supressão de um trecho do enunciado original, ao passo que os parênteses marcam apenas o acréscimo de conteúdo novo ao período",
-    "d": "é obrigatório sempre que a intercalação contiver forma verbal, ficando os parênteses restritos aos casos em que se intercalam apenas sintagmas nominais",
+    "d": "é obrigatório quando a intercalação contiver forma verbal, ficando os parênteses restritos aos casos em que se intercalam apenas sintagmas nominais sem verbo",
     "e": "estabelece relação de oposição entre o trecho intercalado e o restante do período, enquanto os parênteses indicam relação de simples acréscimo"
    },
    "resposta": "b",
@@ -54337,7 +57354,7 @@ window.QUESTION_BANKS = {
     "a": "a segunda oração é subordinada à primeira e por isso precisa ser isolada do restante do período por meio desse sinal de pontuação",
     "b": "a conjunção estabelece relação de oposição entre as duas orações, valor que exige a marcação por vírgula em qualquer construção coordenada",
     "c": "as orações coordenadas têm sujeitos diferentes e, embora a regra geral dispense a vírgula antes de \"e\", ela evita que o segundo seja lido como parte do predicado",
-    "d": "o período apresenta mais de uma forma verbal, número a partir do qual a norma culta torna obrigatório o emprego da vírgula antes das conjunções",
+    "d": "o período apresenta mais de uma forma verbal, número a partir do qual a norma culta torna obrigatório o emprego da vírgula antes das conjunções coordenativas, inclusive das aditivas",
     "e": "há elipse do sujeito na segunda oração, e a vírgula sinaliza ao leitor a supressão do termo que deveria ocupar aquela posição sintática"
    },
    "resposta": "c",
@@ -54492,13 +57509,472 @@ window.QUESTION_BANKS = {
     "a": "vai reavaliar – amanhã – apenas a pontuação, que deixa de exigir travessão na abertura da fala transposta para a nova construção sintática",
     "b": "reavaliaria – no dia seguinte – o tempo verbal, puxado pelo verbo introdutor no passado, e os marcadores de tempo, reorganizados a partir do momento do relato",
     "c": "reavaliou – ontem – a pessoa do verbo, que passa da primeira para a terceira sem que os demais elementos do enunciado sofram alteração",
-    "d": "reavalie – naquele momento – o modo verbal, que passa do indicativo ao subjuntivo por exigência da conjunção introdutora da oração subordinada",
+    "d": "reavalie – naquele momento – o modo verbal, que passa do indicativo ao subjuntivo por exigência da conjunção introdutora, sem que o tempo verbal se altere na transposição",
     "e": "teria reavaliado – anteontem – o aspecto verbal, que passa a indicar ação concluída antes do momento em que a fala foi originalmente produzida"
    },
    "resposta": "b",
    "explicacao": "O verbo introdutor no passado puxa o futuro do presente para o futuro do pretérito, e os dêiticos se reorganizam a partir do momento do relato: \"amanhã\" vira \"no dia seguinte\".",
    "formato": "lacunas",
    "banca": "unesp",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-228",
+   "texto_apoio": "Machado de Assis, autor de Dom Casmurro, morreu no Rio de Janeiro em 1908.",
+   "enunciado": "O par de vírgulas empregado no período serve para",
+   "alternativas": {
+    "a": "destacar o aposto explicativo, expressão que acrescenta informação ao nome anterior sem alterar o esqueleto da frase.",
+    "b": "separar dois núcleos de uma enumeração breve, recurso comum quando a frase apresenta itens de igual valor.",
+    "c": "assinalar a ausência de um verbo já mencionado antes, procedimento de economia admitido pela norma culta escrita.",
+    "d": "marcar a fronteira entre o sujeito e o predicado do enunciado, pausa que a leitura em voz alta costuma pedir nos textos mais longos e de sintaxe intrincada.",
+    "e": "indicar que o trecho intermediário responde a uma circunstância de tempo e foi retirado do fim da frase."
+   },
+   "resposta": "a",
+   "explicacao": "O trecho entre vírgulas retoma o nome anterior e amplia a informação sobre ele: é um aposto explicativo. O par de vírgulas existe justamente para isolar esse aposto do restante da frase, e retirá-lo não deixa lacuna alguma na estrutura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-229",
+   "texto_apoio": "Doutor, o paciente do leito seis apresentou febre durante a madrugada.",
+   "enunciado": "A vírgula que aparece depois da primeira palavra do período justifica-se porque ela",
+   "alternativas": {
+    "a": "encerra uma enumeração de dois itens cujo segundo elemento foi suprimido pelo autor do relato.",
+    "b": "marca o vocativo, termo com que o falante chama o interlocutor e que fica isolado do restante do enunciado.",
+    "c": "anuncia uma citação literal que virá em seguida e ocupa o lugar reservado aos dois-pontos.",
+    "d": "separa a oração principal da subordinada iniciada logo depois, exigência que a norma culta faz valer nos períodos compostos por subordinação de ordem direta.",
+    "e": "assinala a supressão do verbo de ligação entre o nome de tratamento e o restante da informação."
+   },
+   "resposta": "b",
+   "explicacao": "O termo inicial não exerce função sintática dentro da oração: é o chamamento dirigido ao interlocutor, ou seja, um vocativo. A vírgula tem aí a função de isolar esse chamamento do enunciado que o segue.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-230",
+   "texto_apoio": "Na manhã seguinte à cirurgia, a equipe reavaliou os exames do paciente.",
+   "enunciado": "Sobre a vírgula empregada no período, é correto afirmar que ela",
+   "alternativas": {
+    "a": "é proibida, pois nenhum termo de circunstância admite pausa gráfica no início da frase.",
+    "b": "substitui um travessão que o autor preferiu evitar por razões de espaço na linha impressa.",
+    "c": "é recomendada, porque assinala o termo deslocado de circunstância que foi anteposto à oração e cuja extensão pede a pausa.",
+    "d": "marca o limite entre dois períodos independentes que foram reunidos numa única linha, prática corrente na redação jornalística contemporânea de grande circulação.",
+    "e": "indica que a expressão anterior funciona como aposto do nome que a segue no enunciado."
+   },
+   "resposta": "c",
+   "explicacao": "A expressão de circunstância abandonou o fim da frase e foi para o começo. Nesse caso a vírgula assinala o termo deslocado, e a pausa fica ainda mais recomendável porque a expressão é extensa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-231",
+   "texto_apoio": "Compare: (I) \"Os alunos, que estudaram, passaram.\" (II) \"Os alunos que estudaram passaram.\"",
+   "enunciado": "A diferença de sentido entre as duas frases decorre de que",
+   "alternativas": {
+    "a": "em I houve erro de digitação, pois a norma culta rejeita pausa gráfica antes de pronome relativo.",
+    "b": "em II falta a pausa exigida pela extensão do trecho, e as duas frases informam exatamente o mesmo.",
+    "c": "em I o trecho intercalado é uma enumeração reduzida a um único item, e em II ele foi apagado.",
+    "d": "em I a oração subordinada adjetiva explicativa diz que estudaram e passaram, e em II a restritiva separa quem estudou de quem não estudou.",
+    "e": "em II o trecho sublinhado deixou de ser oração e passou a funcionar como circunstância de causa dentro do enunciado principal, o que altera a leitura do conjunto."
+   },
+   "resposta": "d",
+   "explicacao": "Com vírgulas, o trecho é uma oração subordinada adjetiva explicativa: ela apenas comenta o conjunto e por isso vem isolada. Sem vírgulas, a oração é restritiva e recorta um subconjunto, deixando de fora os que não estudaram.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-232",
+   "texto_apoio": "O congresso reuniu delegações de Manaus, no Amazonas; Recife, em Pernambuco; e Bagé, no Rio Grande do Sul.",
+   "enunciado": "O emprego do ponto e vírgula no período acima explica-se porque ele",
+   "alternativas": {
+    "a": "encerra o período e dispensa o ponto final, já que a enumeração ficou completa na terceira cidade citada.",
+    "b": "anuncia a explicação que vem logo depois, papel normalmente atribuído aos dois-pontos na escrita formal.",
+    "c": "assinala pausa maior do que a do ponto final e menor do que a da quebra de parágrafo no texto corrido.",
+    "d": "separa termos de uma enumeração que já trazem pausas internas, tornando visível onde termina cada item da série apresentada pelo autor do texto informativo.",
+    "e": "separa os itens de uma série cujos elementos já contêm vírgula interna, evitando que as pausas se confundam."
+   },
+   "resposta": "e",
+   "explicacao": "Cada item da série traz uma vírgula interna, usada para isolar a informação de estado. Se a série fosse separada também por vírgula, o leitor perderia a fronteira entre um item e outro; o ponto e vírgula resolve esse conflito de níveis.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-233",
+   "texto_apoio": "A prova cobrará três frentes: interpretação de texto, gramática e redação.",
+   "enunciado": "Os dois-pontos empregados no período têm a função de",
+   "alternativas": {
+    "a": "anunciar a enumeração que especifica o termo anterior, funcionando como aposto enumerativo introduzido pela pausa.",
+    "b": "encerrar a oração anterior, que ficaria incompleta se o autor tivesse optado por um ponto final.",
+    "c": "marcar o apagamento de um verbo, sinal de economia frequente em manchetes e legendas de jornal.",
+    "d": "assinalar o chamamento dirigido ao leitor, papel que a norma culta reserva à vírgula em textos instrucionais escritos com finalidade didática e informativa.",
+    "e": "indicar interrupção brusca do raciocínio, deixando ao leitor a tarefa de completar a série iniciada."
+   },
+   "resposta": "a",
+   "explicacao": "Os dois-pontos abrem a lista que detalha o termo anunciado antes deles. Essa lista é um aposto enumerativo, e a vírgula interna apenas separa os itens da série que os dois-pontos introduziram.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-234",
+   "texto_apoio": "O médico foi categórico: \"O quadro exige internação imediata\".",
+   "enunciado": "No período acima, os dois-pontos foram usados para",
+   "alternativas": {
+    "a": "separar dois períodos de igual valor sintático, papel que caberia ao ponto e vírgula em textos técnicos.",
+    "b": "introduzir a fala reproduzida, marcando a passagem da voz do narrador para a voz da personagem citada.",
+    "c": "isolar um termo de circunstância que foi retirado do fim da frase e anteposto ao seu núcleo.",
+    "d": "assinalar a supressão de um verbo de dizer que o leitor deve recuperar pelo contexto, recurso descrito pelas gramáticas como zeugma e muito comum em textos jornalísticos de opinião.",
+    "e": "encerrar uma enumeração de causas cujo último item aparece entre aspas por decisão do redator."
+   },
+   "resposta": "b",
+   "explicacao": "Depois de um verbo de dizer, os dois-pontos abrem a citação literal. Eles marcam a mudança de voz, e as aspas ficam encarregadas de isolar graficamente o trecho que pertence ao entrevistado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-235",
+   "texto_apoio": "A vacina — resultado de três décadas de pesquisa — chegou às unidades básicas em março.",
+   "enunciado": "Os travessões empregados no período",
+   "alternativas": {
+    "a": "substituem os dois-pontos e anunciam a fala de um interlocutor não identificado no trecho.",
+    "b": "marcam a fronteira entre duas orações coordenadas, papel reservado ao ponto e vírgula na escrita formal.",
+    "c": "cumprem o papel de um par de vírgulas, mas dão mais destaque ao trecho intercalado que isolam.",
+    "d": "indicam que o trecho intercalado foi copiado de outro autor e por isso dispensa a referência bibliográfica completa ao final do parágrafo em que aparece.",
+    "e": "assinalam hesitação do redator diante de uma informação de que ele não tinha certeza no momento da escrita."
+   },
+   "resposta": "c",
+   "explicacao": "O trecho entre travessões poderia vir entre vírgulas sem prejuízo sintático: ele explica o nome anterior. Trocar a vírgula pelo travessão só muda a intensidade do realce, já que os dois sinais servem para isolar o mesmo bloco intercalado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-236",
+   "texto_apoio": "— O senhor sente dor aqui? — perguntou a residente, apalpando o abdome.",
+   "enunciado": "No trecho acima, o travessão foi empregado para",
+   "alternativas": {
+    "a": "encerrar a enumeração de sintomas que a personagem apresentava no momento do atendimento.",
+    "b": "substituir os parênteses que o autor considerou discretos demais para o tipo de texto escolhido.",
+    "c": "assinalar a supressão do verbo de ligação entre a pergunta e a resposta da personagem consultada.",
+    "d": "abrir a fala da personagem e, depois, separar essa fala do comentário do narrador que a acompanha.",
+    "e": "marcar uma pausa de circunstância dentro da própria pergunta, o que exigiria também a presença de vírgula antes do verbo empregado pela personagem no diálogo."
+   },
+   "resposta": "d",
+   "explicacao": "No diálogo, o primeiro travessão abre a fala e o segundo serve para isolar o comentário do narrador. A vírgula que vem depois de \"residente\" tem outro papel: ela separa o trecho reduzido que descreve a ação simultânea.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-237",
+   "texto_apoio": "O relatório (concluído em 2023) apontou falhas na conservação do acervo.",
+   "enunciado": "Os parênteses empregados no período",
+   "alternativas": {
+    "a": "assinalam a fala de um entrevistado, função que os manuais de estilo atribuem às aspas nos textos jornalísticos de maior circulação nacional.",
+    "b": "separam duas orações de mesmo valor sintático que o autor não quis reunir por conjunção.",
+    "c": "indicam que a informação interna foi acrescentada por um revisor, e não pelo autor do relatório citado.",
+    "d": "marcam o limite entre o sujeito e aquilo que dele se declara ao longo da frase.",
+    "e": "encerram um comentário acessório, isolando do fluxo principal um dado que o leitor pode dispensar."
+   },
+   "resposta": "e",
+   "explicacao": "Os parênteses guardam a informação de menor relevo, aquela que o leitor pode saltar sem perder o fio. Se essa informação subisse ao primeiro plano, o autor teria preferido a vírgula ou o travessão para isolar o trecho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-238",
+   "texto_apoio": "Ele hesitou, olhou para o teto, tentou responder...",
+   "enunciado": "As reticências que encerram o período acima",
+   "alternativas": {
+    "a": "sugerem que a série de ações continua, deixando a frase em suspensão em vez de concluí-la.",
+    "b": "substituem o ponto de interrogação, já que a frase apresenta a estrutura de uma pergunta indireta.",
+    "c": "assinalam a citação de um trecho alheio cuja parte final foi cortada pelo redator da matéria.",
+    "d": "marcam o encerramento definitivo do parágrafo e equivalem, em valor de pausa, ao ponto final usado na prosa.",
+    "e": "isolam o termo de circunstância que aparece no interior da frase, papel que caberia a um par de parênteses em texto de natureza mais técnica."
+   },
+   "resposta": "a",
+   "explicacao": "As vírgulas do período servem para isolar os itens da série de ações; as reticências, no fim, deixam essa série aberta. Elas suspendem o enunciado em vez de fechá-lo, sugerindo continuidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-239",
+   "texto_apoio": "O tratamento foi iniciado a tempo, mas a resposta do organismo demorou.",
+   "enunciado": "A vírgula colocada antes da conjunção do período justifica-se porque",
+   "alternativas": {
+    "a": "a conjunção introduz uma enumeração de dois itens de mesmo peso semântico dentro do enunciado.",
+    "b": "a pausa antecede conjunção de valor adversativo, e a norma culta recomenda isolar assim o contraste entre as duas informações.",
+    "c": "o trecho posterior à conjunção é um aposto do nome que aparece imediatamente antes dela.",
+    "d": "a pausa foi exigida pela extensão do trecho anterior, critério que a norma culta adota nos enunciados com mais de dez palavras escritas em sequência.",
+    "e": "o autor pretendeu reproduzir uma fala e por isso preferiu a vírgula aos dois-pontos usuais."
+   },
+   "resposta": "b",
+   "explicacao": "Antes de conjunção adversativa a vírgula é recomendada: ela isola o contraste e prepara o leitor para a informação que contraria a expectativa criada pela primeira parte do período.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-240",
+   "texto_apoio": "Levou para o plantão o estetoscópio, o jaleco, a caneta e o caderno de anotações.",
+   "enunciado": "As vírgulas empregadas no período acima",
+   "alternativas": {
+    "a": "anunciam citação literal e poderiam ser trocadas por dois-pontos sem prejuízo para o sentido do enunciado.",
+    "b": "separam a oração principal de duas orações que dela dependem, marcando a hierarquia entre elas na frase escrita.",
+    "c": "separam os itens de uma série de mesma função, e por isso desaparecem diante da conjunção que fecha a enumeração.",
+    "d": "isolam apostos sucessivos, expressões que apenas explicam o nome mencionado no começo do enunciado narrado.",
+    "e": "marcam a supressão de verbos idênticos ao primeiro, procedimento de economia que os manuais de redação chamam de zeugma e recomendam com parcimônia."
+   },
+   "resposta": "c",
+   "explicacao": "A vírgula separa os termos de uma série que exercem a mesma função. Diante da conjunção que fecha a enumeração ela não reaparece, porque a própria conjunção já faz o trabalho de ligar o último item.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-241",
+   "texto_apoio": "Compare: (I) \"A pesquisadora responsável pelo laboratório, apresentou os dados.\" (II) \"A pesquisadora responsável pelo laboratório apresentou os dados.\"",
+   "enunciado": "Sobre a pontuação das duas frases, é correto afirmar que",
+   "alternativas": {
+    "a": "as duas estão corretas, pois a pausa entre a expressão inicial e o verbo é facultativa na escrita formal.",
+    "b": "apenas I está correta, já que expressão inicial extensa pede pausa gráfica antes do verbo que a segue.",
+    "c": "as duas estão incorretas, porque a frase pede também um par de travessões em torno da expressão inicial para que a informação apareça devidamente destacada ao leitor.",
+    "d": "apenas II está correta, porque a vírgula de I separa o sujeito do verbo, corte que a norma culta rejeita.",
+    "e": "apenas I está correta, uma vez que a vírgula ali isola um aposto explicativo do nome inicial."
+   },
+   "resposta": "d",
+   "explicacao": "A extensão da expressão inicial não autoriza pausa: a vírgula de I corta a frase entre quem pratica a ação e a ação praticada. Só haveria vírgula ali se houvesse termo intercalado a isolar, o que não é o caso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-242",
+   "texto_apoio": "A cirurgia, disse o chefe da equipe, foi remarcada para segunda-feira.",
+   "enunciado": "As vírgulas do período acima",
+   "alternativas": {
+    "a": "assinalam enumeração de dois itens de mesma função, situação em que o autor optou por não usar conjunção.",
+    "b": "separam a expressão de circunstância que foi anteposta ao verbo, prática comum na prosa de imprensa.",
+    "c": "anunciam uma citação e cumprem, no período, o papel que caberia normalmente aos dois-pontos.",
+    "d": "marcam a supressão do verbo de ligação, procedimento que os manuais de redação toleram apenas em legendas curtas e manchetes de primeira página.",
+    "e": "isolam a oração intercalada que identifica quem disse a informação relatada no enunciado."
+   },
+   "resposta": "e",
+   "explicacao": "O trecho entre vírgulas interrompe a frase para dizer de quem partiu a informação: trata-se de oração intercalada. O par de vírgulas serve para isolar essa interrupção sem desmontar o enunciado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-243",
+   "texto_apoio": "A dose foi ajustada; o efeito colateral, porém, persistiu por mais dois dias.",
+   "enunciado": "As vírgulas que cercam a conjunção no segundo trecho justificam-se porque ela",
+   "alternativas": {
+    "a": "aparece fora da posição inicial e, deslocada para o interior do trecho, precisa ficar isolada por pausas.",
+    "b": "introduz uma enumeração de efeitos observados durante o acompanhamento do paciente internado.",
+    "c": "encerra a citação da fala de um profissional que não foi identificado pelo autor do relato clínico.",
+    "d": "funciona como aposto do nome que a antecede e por isso recebe o mesmo tratamento gráfico dado às expressões explicativas do português escrito.",
+    "e": "substitui o ponto e vírgula que já havia sido empregado antes no mesmo enunciado, o que evitaria a repetição."
+   },
+   "resposta": "a",
+   "explicacao": "A conjunção adversativa saiu do começo do trecho e foi para dentro dele. Quando isso acontece, as vírgulas passam a isolar a conjunção deslocada, e o ponto e vírgula anterior apenas separa as duas partes do período.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-244",
+   "texto_apoio": "Assim que os exames ficaram prontos, a médica alterou a conduta.",
+   "enunciado": "A vírgula empregada no período acima",
+   "alternativas": {
+    "a": "separa dois itens de uma enumeração de procedimentos adotados pela equipe durante o atendimento.",
+    "b": "assinala que a oração de circunstância veio antes da principal, e esse deslocamento torna a pausa recomendável.",
+    "c": "isola um aposto explicativo do nome que aparece imediatamente depois dela no enunciado.",
+    "d": "marca a fronteira entre quem pratica a ação e o que dele se declara, corte que a tradição gramatical brasileira descreve como obrigatório em frases de estrutura invertida.",
+    "e": "substitui os dois-pontos, pois o trecho inicial anuncia a informação que aparece na sequência."
+   },
+   "resposta": "b",
+   "explicacao": "A oração de circunstância normalmente viria depois da principal. Antecipada, ela é um termo deslocado, e a vírgula existe para isolar esse bloco antes que a oração principal comece.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-245",
+   "texto_apoio": "O primeiro grupo recebeu o soro; o segundo, o placebo.",
+   "enunciado": "A vírgula empregada no segundo trecho do período assinala",
+   "alternativas": {
+    "a": "o chamamento dirigido ao leitor, recurso comum nos textos de divulgação científica escritos para o público leigo.",
+    "b": "a fronteira entre duas orações de sentido oposto, ligadas por conjunção que o autor preferiu omitir da frase.",
+    "c": "a supressão do verbo já expresso no trecho anterior, apagamento que a pausa gráfica torna recuperável.",
+    "d": "o aposto enumerativo que detalha os grupos analisados durante o experimento descrito pelo texto.",
+    "e": "a citação da fala do pesquisador responsável, papel que caberia às aspas em texto de natureza técnica."
+   },
+   "resposta": "c",
+   "explicacao": "O verbo do segundo trecho não foi repetido. A vírgula ocupa o lugar dessa palavra apagada e sinaliza ao leitor que ele deve recuperá-la do trecho anterior; o ponto e vírgula, por sua vez, separa os dois blocos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-246",
+   "texto_apoio": "A anemia falciforme é hereditária, ou seja, transmite-se dos pais aos filhos.",
+   "enunciado": "As vírgulas que cercam a expressão destacada no período justificam-se porque ela",
+   "alternativas": {
+    "a": "introduz uma enumeração de causas da doença citada no início do enunciado informativo.",
+    "b": "anuncia a fala de um especialista consultado pelo autor do texto de divulgação científica publicado na imprensa diária.",
+    "c": "encerra o período e dispensa o ponto final que apareceria em outra construção equivalente.",
+    "d": "é expressão de valor explicativo e, como tal, fica isolada do restante por pausas gráficas.",
+    "e": "funciona como sujeito da oração seguinte e precisa ser destacada por essa razão sintática."
+   },
+   "resposta": "d",
+   "explicacao": "Expressões de valor explicativo como essa vêm entre vírgulas: a dupla de pausas serve para isolar o comentário que reformula o que foi dito antes, sem que ele se confunda com o fio principal do enunciado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-247",
+   "texto_apoio": "Belo Horizonte, 12 de março de 2024.",
+   "enunciado": "A vírgula empregada na linha acima",
+   "alternativas": {
+    "a": "separa o nome do lugar da data que o acompanha, uso consagrado no cabeçalho de cartas e ofícios.",
+    "b": "assinala a supressão de um verbo que o leitor recupera pelo contexto do documento assinado.",
+    "c": "isola um aposto explicativo, pois o segundo bloco apenas repete a informação dada pelo primeiro bloco da linha.",
+    "d": "marca uma enumeração de três itens, dos quais o primeiro é o nome da cidade em que o documento foi redigido e assinado pelo remetente.",
+    "e": "anuncia a citação que virá logo abaixo, no corpo do documento redigido em linguagem formal."
+   },
+   "resposta": "a",
+   "explicacao": "No cabeçalho de cartas e ofícios a vírgula separa o lugar da data. Não há aposto nem enumeração ali: a pausa apenas isola dois blocos de informação de naturezas distintas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-248",
+   "texto_apoio": "A primeira fase avaliou a segurança da substância em voluntários saudáveis; a segunda mediu a eficácia do composto em pacientes já diagnosticados.",
+   "enunciado": "O ponto e vírgula empregado no período acima",
+   "alternativas": {
+    "a": "separa dois trechos extensos de mesmo valor, com pausa maior do que a da vírgula e menor do que a do ponto.",
+    "b": "anuncia a explicação contida no segundo trecho, papel normalmente atribuído aos dois-pontos na escrita técnica.",
+    "c": "assinala a supressão do verbo do segundo trecho, apagamento comum em textos de natureza científica publicados em periódicos de circulação internacional.",
+    "d": "isola um aposto enumerativo que detalha as fases do estudo mencionadas antes dele.",
+    "e": "marca o chamamento dirigido ao leitor especializado a quem o relatório se destina."
+   },
+   "resposta": "a",
+   "explicacao": "Os dois blocos têm o mesmo peso e alguma extensão. A vírgula seria pausa fraca demais e o ponto separaria demais; o ponto e vírgula fica no meio-termo, sem isolar nenhum termo em particular.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-249",
+   "texto_apoio": "Compare: (I) \"O diagnóstico foi claro: havia infecção.\" (II) \"O diagnóstico foi claro, havia infecção.\"",
+   "enunciado": "Comparando as duas frases quanto à pontuação, é correto afirmar que",
+   "alternativas": {
+    "a": "as duas trazem enumerações de dois itens, o que torna as opções gráficas equivalentes entre si.",
+    "b": "em I os dois-pontos anunciam o que explica a informação anterior; em II a vírgula deixa essa relação vaga.",
+    "c": "em II a vírgula isola um aposto explicativo do nome que a antecede na frase escrita.",
+    "d": "em I os dois-pontos ocupam o lugar de um ponto final e encerram o período iniciado antes deles.",
+    "e": "em II a pausa marca a supressão de um verbo já expresso no trecho anterior da frase, procedimento de economia descrito pelas gramáticas escolares como zeugma."
+   },
+   "resposta": "b",
+   "explicacao": "Os dois-pontos anunciam: eles avisam ao leitor que o que vem a seguir esclarece o que veio antes. A vírgula apenas isola blocos e não carrega esse valor de anúncio, e por isso a relação entre as partes fica menos nítida em II.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-250",
+   "texto_apoio": "Compare: (I) \"Os moradores, que receberam o alerta, saíram.\" (II) \"Os moradores que receberam o alerta saíram.\"",
+   "enunciado": "A pontuação de I permite concluir que",
+   "alternativas": {
+    "a": "houve descuido de revisão, pois pausa gráfica antes de pronome relativo é vedada pela norma culta escrita.",
+    "b": "os dois enunciados descrevem a mesma cena, e a pausa apenas facilita a leitura em voz alta do trecho.",
+    "c": "o conjunto de moradores recebeu o alerta e saiu, ao passo que II recorta apenas parte desse conjunto.",
+    "d": "o trecho intercalado passou a funcionar como circunstância de causa, e não mais como comentário sobre o nome anterior.",
+    "e": "o trecho entre pausas é um aposto enumerativo que detalha os grupos de moradores atingidos pela ocorrência descrita no enunciado."
+   },
+   "resposta": "c",
+   "explicacao": "Com vírgulas, a oração subordinada adjetiva explicativa comenta o grupo inteiro e vem isolada por isso. Sem elas, a oração restritiva recorta um subgrupo e a leitura muda: parte dos moradores não teria saído.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-251",
+   "texto_apoio": "O relatório foi entregue no prazo, e a comissão o rejeitou na semana seguinte.",
+   "enunciado": "A vírgula colocada antes da conjunção aditiva do período",
+   "alternativas": {
+    "a": "é vedada pela norma culta, que rejeita pausa gráfica diante de conjunção aditiva na escrita formal.",
+    "b": "assinala a supressão do verbo do segundo trecho e permite ao leitor recuperá-lo pelo contexto imediato.",
+    "c": "isola um aposto explicativo do nome mencionado logo antes dela no enunciado escrito.",
+    "d": "é admitida, pois os dois trechos ligados pela conjunção têm agentes distintos, o que torna a pausa útil ao leitor.",
+    "e": "marca o começo de uma enumeração de providências tomadas pela comissão ao longo do processo de análise do documento entregue."
+   },
+   "resposta": "d",
+   "explicacao": "Diante de conjunção aditiva a vírgula costuma ser dispensada, mas ela é admitida quando os trechos ligados têm agentes diferentes. A pausa então serve para isolar as duas informações e evitar que o leitor as atribua ao mesmo agente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-252",
+   "texto_apoio": "Compare: (I) \"A lei (aprovada em 2019) mudou o setor.\" (II) \"A lei — aprovada em 2019 — mudou o setor.\"",
+   "enunciado": "A diferença entre as duas formas de pontuar está em que",
+   "alternativas": {
+    "a": "em I o trecho intercalado deixa de ser acessório e passa a integrar o núcleo da informação transmitida.",
+    "b": "em II o par de travessões anuncia uma citação literal, papel que os dois-pontos exerceriam com mais clareza.",
+    "c": "em I a informação intercalada fica em segundo plano, enquanto em II os travessões lhe dão realce.",
+    "d": "em II o trecho intercalado funciona como chamamento dirigido ao leitor especializado, e por isso recebe pausa mais forte do que a empregada na frase anterior.",
+    "e": "em I houve erro, pois parênteses só cabem em referências bibliográficas dentro de textos acadêmicos."
+   },
+   "resposta": "c",
+   "explicacao": "Parênteses e travessões podem isolar o mesmo trecho, mas com efeitos opostos de relevo: os parênteses rebaixam a informação, os travessões a destacam. A vírgula ficaria num ponto intermediário entre os dois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-253",
+   "texto_apoio": "Dois fatores explicam o resultado: a queda da adesão e o atraso na entrega das doses.",
+   "enunciado": "A pontuação empregada no período mostra que o trecho posterior aos dois-pontos",
+   "alternativas": {
+    "a": "é um aposto enumerativo que especifica os fatores anunciados no começo do enunciado.",
+    "b": "reproduz a fala de um gestor da rede pública consultado pelo autor da reportagem publicada.",
+    "c": "funciona como chamamento dirigido ao leitor e por isso aparece separado do restante do período escrito.",
+    "d": "traz a supressão de um verbo idêntico ao da primeira parte, apagamento que a pausa gráfica torna recuperável pelo leitor atento ao contexto da frase.",
+    "e": "encerra a frase com valor de suspensão, deixando ao leitor a tarefa de completar a série iniciada."
+   },
+   "resposta": "a",
+   "explicacao": "O trecho que segue os dois-pontos discrimina os fatores anunciados: é um aposto enumerativo. Note que a vírgula não aparece entre os dois itens, porque a conjunção aditiva já basta para ligá-los.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-pontuacao",
+   "id": "med-gramatica-254",
+   "texto_apoio": "Compare: (I) \"Ontem a equipe operou dois pacientes.\" (II) \"Ontem, a equipe operou dois pacientes.\"",
+   "enunciado": "Sobre a pausa que distingue as duas frases, é correto afirmar que",
+   "alternativas": {
+    "a": "somente II está correta, porque termo de circunstância anteposto exige pausa gráfica na norma culta escrita.",
+    "b": "as duas estão corretas, pois a pausa depois de termo de circunstância curto e anteposto é facultativa.",
+    "c": "somente I está correta, já que a vírgula de II corta a frase entre quem age e a ação que se declara.",
+    "d": "as duas estão incorretas, porque a frase pediria também um par de travessões em torno do termo inicial para destacar a informação de tempo diante do leitor.",
+    "e": "somente II está correta, uma vez que a pausa ali isola um aposto explicativo do nome inicial."
+   },
+   "resposta": "b",
+   "explicacao": "Termo de circunstância anteposto e curto admite as duas grafias: a vírgula fica a critério de quem escreve. A pausa passa a ser recomendada quando o termo deslocado é extenso, caso em que isolar o bloco ajuda a leitura.",
+   "formato": "direta",
    "origem": "medicina"
   }
  ],
@@ -54617,7 +58093,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "transitivo indireto – não vem pronominalizado – transitivo direto – vem acompanhado de pronome, caso em que a preposição passa a ser dispensável",
     "b": "transitivo direto – não vem pronominalizado – transitivo indireto – vem acompanhado de pronome e passa a exigir preposição, como também ocorre com \"lembrar\"",
-    "c": "intransitivo – o complemento está subentendido – transitivo direto – o complemento aparece expresso na forma de um sintagma nominal preposicionado",
+    "c": "intransitivo – o complemento está subentendido – transitivo direto – o complemento aparece expresso na forma de um sintagma nominal preposicionado pelo pronome reflexivo",
     "d": "bitransitivo – o objeto indireto vem posposto – intransitivo – o pronome reflexivo assume a função sintática de complemento verbal na estrutura",
     "e": "de ligação – o predicativo se encontra elíptico – transitivo direto – o pronome exerce a função de sujeito da oração reduzida que o acompanha"
    },
@@ -54667,7 +58143,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Compare: (I) \"Sabemos que o exame demora.\" (II) \"O exame que pedimos demora.\"",
    "enunciado": "A palavra \"que\" é, respectivamente:",
    "alternativas": {
-    "a": "pronome relativo e conjunção integrante, distinção que decorre da posição ocupada por cada uma das orações subordinadas dentro do período composto",
+    "a": "pronome relativo e conjunção integrante, distinção que decorre da posição ocupada por cada uma das orações subordinadas dentro do período composto apresentado na comparação",
     "b": "conjunção integrante e pronome relativo, classes que se distinguem por a primeira poder ser trocada por \"isso\" e só a segunda retomar um termo e exercer função",
     "c": "conjunção integrante nos dois casos, já que ambas as orações completam o sentido do verbo da oração principal em que se encontram inseridas",
     "d": "pronome relativo nos dois casos, uma vez que a palavra sempre retoma um termo mencionado antes dela na estrutura do período apresentado",
@@ -54737,7 +58213,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Considerando que \"atender\" pode ser transitivo direto, o emprego da preposição diante de \"o ferido\" configura:",
    "alternativas": {
     "a": "objeto direto preposicionado, termo que continua sendo objeto direto, embora a preposição apareça sem ser exigida pela regência, por clareza ou por ênfase",
-    "b": "objeto indireto obrigatório, uma vez que o verbo empregado admite exclusivamente essa regência quando o complemento designa pessoa determinada",
+    "b": "objeto indireto obrigatório, uma vez que o verbo empregado passa a admitir apenas essa regência quando o complemento designa pessoa determinada, e não coisa ou lugar",
     "c": "complemento nominal, termo que completa o sentido de um nome e que exige preposição por natureza em todas as construções em que aparece",
     "d": "adjunto adverbial de finalidade, que indica o objetivo a que se destina a ação verbal expressa pelo núcleo do predicado da oração analisada",
     "e": "agente da passiva, função exercida pelo termo que pratica a ação em orações construídas na voz passiva analítica com verbo auxiliar elíptico"
@@ -54772,7 +58248,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "causa, finalidade e intensidade, circunstâncias que se distinguem pelo tipo de relação estabelecida entre cada termo e o verbo da oração",
     "b": "tempo, lugar e modo, ordem que corresponde à posição ocupada por cada um dos três termos em relação ao núcleo do predicado da oração",
-    "c": "modo, tempo e lugar, classificação determinada pela presença de preposição diante de cada um dos adjuntos identificados no período composto",
+    "c": "modo, tempo e lugar, classificação determinada pela presença de preposição diante de cada um dos adjuntos identificados no período composto apresentado no enunciado da questão",
     "d": "lugar, modo e tempo, circunstâncias identificadas pela pergunta que cada termo responde — onde, como e quanto tempo —, e não pela posição que ocupa na frase",
     "e": "companhia, instrumento e dúvida, valores que dependem do contexto em que o enunciado é produzido e da intenção de quem o formula na frase"
    },
@@ -54856,7 +58332,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "\"Chegaram cedo os resultados que a equipe aguardava.\"",
    "enunciado": "O período é composto por:",
    "alternativas": {
-    "a": "coordenação, com duas orações independentes ligadas por conectivo que estabelece relação de adição entre os fatos enunciados em cada uma",
+    "a": "coordenação, com duas orações independentes ligadas por conectivo que estabelece relação de adição entre os fatos enunciados em cada uma delas, sem hierarquia entre as duas",
     "b": "subordinação, com uma oração adjetiva restritiva, que depende do antecedente e delimita quais resultados chegaram, razão pela qual não vem separada por vírgula",
     "c": "subordinação, com uma oração substantiva objetiva direta que completa o sentido do verbo empregado na oração principal do período",
     "d": "coordenação e subordinação simultaneamente, apresentando três orações distribuídas em dois níveis hierárquicos dentro da mesma estrutura",
@@ -54873,7 +58349,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Compare: (I) \"Ele saiu porque estava cansado.\" (II) \"Ele estava cansado, por isso saiu.\"",
    "enunciado": "Os dois períodos exprimem a mesma relação, mas são compostos, respectivamente, por:",
    "alternativas": {
-    "a": "coordenação nos dois casos, já que as orações de ambos os períodos poderiam existir isoladamente sem prejuízo de sentido para o leitor",
+    "a": "coordenação nos dois casos, já que as orações de ambos os períodos poderiam existir isoladamente sem prejuízo de sentido, o que dispensaria a análise da hierarquia entre elas",
     "b": "coordenação e subordinação, distinção que decorre da posição ocupada pelo conectivo dentro de cada um dos dois períodos apresentados",
     "c": "subordinação nos dois casos, uma vez que ambos apresentam uma oração sintaticamente dependente da outra dentro da mesma estrutura",
     "d": "subordinação e coordenação, arranjos em que a relação de causa é a mesma e muda a hierarquia: no primeiro a causal depende da principal; no segundo, não",
@@ -55379,7 +58855,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-182",
    "enunciado": "\"A equipe revisou todo o protocolo, mas o erro de digitação só foi percebido na revisão final.\" Nesse período composto por coordenação, a conjunção coordenativa \"mas\" estabelece entre as orações uma relação:",
    "alternativas": {
-    "a": "aditiva, somando dois fatos que ocorreram de forma simultânea e sem qualquer tipo de contraste, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do período",
+    "a": "aditiva, somando dois fatos que ocorreram de forma simultânea e sem contraste entre eles, uma leitura possível à primeira vista, mas que não resiste a um exame mais atento do período",
     "b": "conclusiva, apresentando a percepção tardia do erro como consequência lógica da revisão feita",
     "c": "alternativa, apresentando duas possibilidades entre as quais a equipe teve de escolher uma",
     "d": "explicativa, justificando o motivo pelo qual o protocolo precisou ser revisado por completo",
@@ -55396,7 +58872,7 @@ window.QUESTION_BANKS = {
    "enunciado": "\"Ou o exame é repetido ainda hoje, ou o resultado anterior será considerado válido.\" Nesse período composto por coordenação, a correlação \"ou... ou\", com \"ou\" funcionando como conjunção coordenativa, estabelece relação:",
    "alternativas": {
     "a": "alternativa, apresentando duas possibilidades que se excluem, das quais apenas uma deve prevalecer",
-    "b": "aditiva, somando as duas possibilidades apresentadas sem qualquer relação de exclusão entre elas, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
+    "b": "aditiva, somando as duas possibilidades apresentadas sem estabelecer relação de exclusão entre elas, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
     "c": "adversativa, contrapondo a necessidade de repetir o exame ao fato de o resultado já ser válido",
     "d": "conclusiva, apresentando a validade do resultado anterior como conclusão da primeira oração",
     "e": "explicativa, justificando por que o exame anterior deixaria de ser considerado válido"
@@ -55476,7 +58952,7 @@ window.QUESTION_BANKS = {
    "enunciado": "\"O plantonista permaneceu atento durante toda a madrugada.\" Na análise sintática, o predicado desse período classifica-se como:",
    "alternativas": {
     "a": "nominal, pois o núcleo de sentido recai sobre \"atento\", predicativo do sujeito ligado por um verbo de ligação",
-    "b": "verbal, já que o núcleo de sentido está inteiramente concentrado no verbo, sem qualquer predicativo do sujeito",
+    "b": "verbal, já que o núcleo de sentido está inteiramente concentrado no verbo, sem predicativo do sujeito ligado por um verbo de ligação",
     "c": "verbo-nominal, pois há dois núcleos de sentido: um verbo de ação plena e um predicativo do objeto",
     "d": "composto, formado por dois verbos que se equivalem em importância dentro da mesma oração",
     "e": "indeterminado, já que não é possível identificar com precisão o núcleo de sentido do predicado inteiro"
@@ -55603,7 +59079,7 @@ window.QUESTION_BANKS = {
    "id": "med-gramatica-196",
    "enunciado": "Sobre a distinção entre voz ativa, voz passiva e voz reflexiva na análise sintática do período, é correto afirmar que:",
    "alternativas": {
-    "a": "na voz passiva, o sujeito sempre pratica a ação, cabendo ao agente da passiva apenas recebê-la de forma indireta, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
+    "a": "na voz passiva, o sujeito pratica a ação, cabendo ao agente da passiva apenas recebê-la de forma indireta, como um exame apressado do período poderia, de forma equivocada, sugerir ao leitor menos atento",
     "b": "na voz ativa, o sujeito recebe a ação verbal, que é praticada por um agente expresso em outra parte do período",
     "c": "as três vozes verbais produzem exatamente o mesmo efeito de sentido, diferindo apenas na ordem das palavras",
     "d": "na voz reflexiva, o sujeito pratica e, ao mesmo tempo, recebe a ação expressa pelo verbo, como em \"o paciente se cortou sem querer\"",
@@ -55621,7 +59097,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "uma voz ativa comum, na qual \"se\" ocupa a função de complemento do verbo \"aplicou\" dentro do período",
     "b": "uma voz reflexiva recíproca, na qual dois sujeitos praticam e recebem a ação um do outro simultaneamente",
-    "c": "uma construção sem qualquer sujeito, na qual \"o protocolo de urgência\" exerce apenas função de complemento indireto, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do período",
+    "c": "uma construção sem sujeito, na qual \"o protocolo de urgência\" exerce apenas função de complemento indireto, como um leitor menos atento poderia supor ao considerar apenas a primeira parte do período",
     "d": "uma voz ativa sem sujeito expresso, na qual \"o protocolo de urgência\" não mantém relação sintática com o verbo",
     "e": "uma voz passiva sintética, na qual \"o protocolo de urgência\" funciona como sujeito paciente da forma verbal com \"se\""
    },
@@ -59430,6 +62906,40 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Morte e Vida Severina, de João Cabral de Melo Neto, é um auto de natal pernambucano. O retirante Severino desce o Capibaribe fugindo da seca e encontra sucessivas mortes até o nascimento final, que devolve algum sentido à travessia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-366",
+   "texto_apoio": "“Só a Antropofagia nos une. Socialmente. Economicamente. Filosoficamente. […] Tupi, or not tupi that is the question.” (Oswald de Andrade, Manifesto Antropófago, 1928)",
+   "enunciado": "O trocadilho com a célebre fala de Hamlet condensa a proposta modernista de:",
+   "alternativas": {
+    "a": "rejeitar a contribuição estrangeira em nome de uma expressão anterior ao contato com a Europa",
+    "b": "fixar uma língua literária depurada dos regionalismos, submetendo a escrita nacional às regras de composição herdadas dos manuais lusitanos de retórica e de boa gramática",
+    "c": "abandonar a matéria nacional em favor de assuntos universais",
+    "d": "devorar a herança europeia e transformá-la em matéria brasileira, em vez de imitá-la ou de recusá-la em bloco",
+    "e": "converter a poesia em registro documental da vida rural, sem elaboração formal"
+   },
+   "resposta": "d",
+   "explicacao": "O Manifesto Antropófago propõe a antropofagia cultural: em lugar de copiar o modelo europeu ou de recusá-lo inteiro, o escritor brasileiro deve deglutir a influência e devolvê-la transformada. A imagem parte do ritual tupinambá relatado pelos cronistas e responde ao problema que a Semana de Arte Moderna de 1922 havia posto — como ser moderno e brasileiro ao mesmo tempo. Oswald de Andrade radicaliza aí o programa da primeira fase do modernismo, que Pau-Brasil já esboçara.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-367",
+   "texto_apoio": "“Na planície avermelhada os juazeiros alargavam duas manchas verdes. Os infelizes tinham caminhado o dia inteiro, estavam cansados e famintos.” (Graciliano Ramos, Vidas Secas, 1938)",
+   "enunciado": "A construção do trecho é característica do romance de 30 por:",
+   "alternativas": {
+    "a": "aliar o registro seco e a frase curta à observação de uma população reduzida à sobrevivência",
+    "b": "recorrer à linguagem rebuscada para elevar a matéria sertaneja ao plano da epopeia",
+    "c": "acumular digressões filosóficas em períodos longos, nos quais quem conta a história interrompe a ação para comentar em primeira pessoa as próprias hesitações diante do que acaba de relatar",
+    "d": "substituir a matéria social pela fantasia, deslocando a ação para um tempo mítico",
+    "e": "adotar o tom de crônica bem-humorada dos costumes urbanos"
+   },
+   "resposta": "a",
+   "explicacao": "Vidas Secas integra o romance de 30, fase do modernismo em que a ficção se volta para a denúncia social — estiagem, migração forçada, exploração — com uma prosa desnuda, sem ornamento. Graciliano Ramos reduz o período à frase essencial e alterna a descrição da paisagem hostil com a percepção limitada das figuras retratadas, cuja dificuldade com a palavra é ela mesma um dos temas do livro. Jorge Amado e Rachel de Queiroz compõem, com ele, a geração de 30.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -66564,6 +70074,40 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O parágrafo vai do \"for decades\" ao \"today\", e o \"though\" do fecho introduz a ressalva sobre as unidades menores. Não há pergunta inicial nem proposta de solução: o texto descreve uma mudança e o limite dela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-283",
+   "texto_apoio": "City councils have spent two decades widening roads to reduce congestion. The wider road fills up within a few years, and the delay returns to what it was. Traffic engineers call this induced demand: capacity that is added is capacity that gets used. Cities that took the opposite route — narrowing lanes, adding bus corridors and bicycle tracks — have reported shorter average journeys. However, the political cost of removing a lane is far higher than the cost of adding one, which is why the wider road remains the default answer.",
+   "enunciado": "In the last sentence of the text, the connector “However” introduces:",
+   "alternativas": {
+    "a": "a further consequence of the shorter journeys reported by those cities",
+    "b": "a chronological step in the sequence of measures adopted by the traffic engineers mentioned earlier in the paragraph, placing them in the order in which they were tried",
+    "c": "an obstacle that runs against the evidence presented in the preceding sentence",
+    "d": "an example of the measures taken by councils that narrowed their lanes",
+    "e": "a conclusion drawn from the definition of induced demand"
+   },
+   "resposta": "c",
+   "explicacao": "O conectivo “however” estabelece uma relação de contraste: a frase anterior registra um resultado favorável às cidades que estreitaram as vias, e a última opõe a ela o obstáculo político que impede a adoção da medida. Reconhecer o valor do conectivo é o que sustenta a leitura do parágrafo — “and” e “moreover” somariam informação, “therefore” marcaria consequência e “for instance” anunciaria exemplo. A estrutura do texto vai, assim, do problema ao dado empírico e do dado à ressalva final.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-284",
+   "texto_apoio": "The first results were announced in March, before the trial had been completed. Journalists were told that the treatment worked; the researchers, who had asked for more time, were not consulted about the press release. By the time the full data set was published, eighteen months later, the headline had already travelled around the world.",
+   "enunciado": "The forms “were announced”, “had been completed” and “was published” share the feature of being:",
+   "alternativas": {
+    "a": "in the active voice, with the agent expressed by a prepositional phrase",
+    "b": "in the present perfect, a form English uses to link a past action to the moment of speaking and which is built with the auxiliary “have” followed by the past participle of the main verb",
+    "c": "modal verbs expressing obligation",
+    "d": "instances of reported speech introduced by a reporting verb",
+    "e": "in the passive voice, which keeps the focus on what happened rather than on the agent"
+   },
+   "resposta": "e",
+   "explicacao": "As três formas estão na voz passiva: o particípio vem precedido do verbo “be” flexionado em algum tempo verbal — past simple em “were announced” e “was published”, past perfect em “had been completed”. A voz passiva desloca para a posição de sujeito aquilo que sofre a ação e permite omitir quem a praticou, recurso frequente no relato científico e no texto jornalístico. Em “were told” aparece a mesma estrutura com verbo de dois complementos, e não há aí nem verbo modal nem discurso indireto.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -79004,6 +82548,40 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "historia-geral-moderna",
+   "id": "med-historia-269",
+   "texto_apoio": "Em 1517, um monge agostiniano afixou em Wittenberg noventa e cinco teses contra a venda de indulgências pela Igreja de Roma.",
+   "enunciado": "A rápida difusão dessas teses pelo Sacro Império deveu-se, entre outros fatores, a que:",
+   "alternativas": {
+    "a": "as autoridades eclesiásticas de Roma aderiram desde o início à proposta de revisão do dogma",
+    "b": "a divulgação coube às ordens mendicantes, que percorriam as feiras da região levando cópias manuscritas das teses e pregando em latim para as populações campesinas reunidas nos adros das igrejas",
+    "c": "o Sacro Império havia proibido, poucos anos antes, a cobrança de tributos eclesiásticos",
+    "d": "a imprensa de tipos móveis multiplicou os panfletos, e príncipes territoriais viram na ruptura um modo de reduzir a ingerência papal em seus domínios",
+    "e": "a população da região desconhecia a língua alemã em que as teses circularam"
+   },
+   "resposta": "d",
+   "explicacao": "A Reforma protestante não se explica só pela disputa teológica sobre a salvação pela fé: apoia-se na imprensa, que barateou a circulação dos escritos de Lutero em língua vulgar, e no interesse de príncipes que, no quadro do Antigo Regime, disputavam com o papado o controle de rendas e de nomeações. Roma respondeu com a Contrarreforma, articulada no Concílio de Trento. Calvino, em Genebra, radicalizaria a doutrina da predestinação, com efeitos duradouros sobre as cidades comerciais do norte europeu.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "med-historia-270",
+   "texto_apoio": "“Os homens nascem e permanecem livres e iguais em direitos. As distinções sociais só podem fundar-se na utilidade comum.” (Declaração dos Direitos do Homem e do Cidadão, 1789)",
+   "enunciado": "O texto rompe com a ordem do Antigo Regime na medida em que:",
+   "alternativas": {
+    "a": "restabelece os privilégios de nascimento como fundamento da hierarquia social",
+    "b": "substitui a sociedade de ordens, em que a condição jurídica vinha do nascimento, por uma igualdade de direitos entre os cidadãos",
+    "c": "transfere ao rei a prerrogativa de definir quais distinções sociais atendem à utilidade comum, cabendo aos parlamentos provinciais registrar as decisões tomadas nesse sentido antes que passassem a valer",
+    "d": "declara extinta a propriedade privada nas províncias francesas",
+    "e": "condiciona a liberdade de trabalho ao pertencimento a uma irmandade reconhecida pelo rei"
+   },
+   "resposta": "b",
+   "explicacao": "A Declaração de 1789 converte em norma os princípios do Iluminismo — igualdade civil, soberania da nação, direitos naturais — e desmonta o fundamento do Antigo Regime, a sociedade estamental de clero, nobreza e Terceiro Estado, na qual o estatuto jurídico de cada um decorria do berço. Montesquieu e Rousseau estão entre os autores mobilizados pelos constituintes, ainda que a Revolução Francesa tenha ido bem além do que eles propunham. O absolutismo perde aí sua justificativa doutrinária.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-moderna",
    "id": "dir-historia-geral-108",
    "banca": "fgv",
    "sessao": "fgv-unificado-2023.1",
@@ -79511,6 +83089,703 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O geocentrismo medieval refletia a cosmovisão teológica cristã, segundo a qual a Terra ocupava o centro do universo por ser habitada pelo ser humano, criatura central da criação divina — e não por comprovação empírica, já que o telescópio só surgiria no século XVII.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-228",
+   "texto_apoio": "Na Atenas do século V a.C., a Assembleia do povo reunia-se para votar leis e decidir sobre a guerra. Segundo as estimativas dos historiadores, mulheres, estrangeiros residentes e cativos formavam a maioria dos habitantes da pólis e ficavam de fora do corpo de cidadãos.",
+   "enunciado": "Essa configuração permite descrever a democracia ateniense como:",
+   "alternativas": {
+    "a": "direta no exercício e estreita na base: decidia em pessoa quem era cidadão, e o corpo de cidadãos era minoria entre os habitantes",
+    "b": "representativa e ampla, com delegados eleitos periodicamente por um colégio que reunia os moradores livres e os estrangeiros estabelecidos na pólis",
+    "c": "hereditária no sentido estrito: o direito de voto passava de pai para filho sem exame da comunidade",
+    "d": "censitária nos moldes modernos, com o voto distribuído conforme a renda declarada a cada ano",
+    "e": "delegada a magistrados vitalícios escolhidos entre as famílias mais antigas da cidade"
+   },
+   "resposta": "a",
+   "explicacao": "A Assembleia decidia sem intermediários — daí o termo direta —, mas ser cidadão em Atenas era um privilégio de nascimento reservado ao homem adulto filho de pais atenienses. As duas coisas convivem, e é essa combinação que a banca cobra quando pede a comparação entre a pólis e as democracias de hoje.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-229",
+   "texto_apoio": "Xenofonte, ateniense do século IV a.C., escreveu que em Esparta os meninos deixavam a casa da família por volta dos sete anos e passavam a ser educados em grupos, sob disciplina pública, enquanto em outras cidades a criação ficava a cargo de preceptores contratados por cada família.",
+   "enunciado": "O contraste apontado por Xenofonte indica que, na pólis espartana:",
+   "alternativas": {
+    "a": "a educação ficava entregue a um mercado de mestres particulares, que disputavam a clientela das famílias ricas e ofereciam formação em retórica e em filosofia",
+    "b": "o ensino privilegiava o comércio marítimo, principal fonte de renda da cidade",
+    "c": "a formação do jovem era assunto do Estado, ajustada à necessidade de manter um corpo permanente de guerreiros",
+    "d": "a instrução religiosa cabia a um clero profissional que administrava os templos",
+    "e": "as crianças eram educadas em casa até a idade adulta, sem contato com a comunidade"
+   },
+   "resposta": "c",
+   "explicacao": "Esparta mantinha sob domínio uma população de hilotas muito mais numerosa que a dos espartanos, e a educação pública dos meninos servia a esse arranjo: formar o guerreiro era condição para conservar o domínio. Comparar essa formação com a educação ateniense é o exercício clássico da comparação entre as duas pólis.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-230",
+   "texto_apoio": "As reformas atribuídas a Sólon, no início do século VI a.C., cancelaram as dívidas que prendiam camponeses de Atenas à terra de seus credores e proibiram que um cidadão respondesse com o próprio corpo por uma dívida contraída.",
+   "enunciado": "Ao proibir a servidão por dívida, essas reformas:",
+   "alternativas": {
+    "a": "transferiram aos credores o direito de julgar as causas em que eram parte, o que ampliou o poder das famílias proprietárias sobre a justiça da cidade",
+    "b": "instituíram o voto do conjunto dos moradores adultos na Assembleia da cidade",
+    "c": "puseram fim à propriedade privada da terra no território de Atenas",
+    "d": "encerraram o trabalho compulsório no conjunto do mundo grego",
+    "e": "separaram a condição de cidadão da de devedor e aliviaram a tensão social que ameaçava partir a pólis"
+   },
+   "resposta": "e",
+   "explicacao": "Sólon não democratizou Atenas: ele desarmou uma crise agrária que empurrava o pequeno proprietário para a dependência pessoal. O passo seguinte veio com Clístenes, que reorganizou o corpo de cidadãos por critério territorial. A ordem entre os dois é o que a banca costuma pedir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-231",
+   "texto_apoio": "Heródoto narra que, diante do avanço do exército persa, cidades gregas até então rivais firmaram uma liga militar sob comando conjunto, e que a frota de Atenas teve papel decisivo no confronto naval de Salamina, em 480 a.C.",
+   "enunciado": "O desfecho desse conflito ajuda a explicar:",
+   "alternativas": {
+    "a": "a incorporação definitiva das cidades gregas ao domínio persa, que passou a nomear os magistrados de cada pólis e a cobrar tributo direto de seus habitantes",
+    "b": "a ascensão de Atenas à liderança de uma liga marítima que ela converteu em instrumento de sua própria hegemonia",
+    "c": "o desaparecimento da pólis como forma de organização política no mundo grego",
+    "d": "a fusão das cidades gregas num único Estado territorial de capital fixa",
+    "e": "a transferência do centro do mundo grego para a Península Itálica"
+   },
+   "resposta": "b",
+   "explicacao": "A Liga de Delos nasceu como aliança defensiva e virou base do império marítimo ateniense: o tesouro comum foi transferido para Atenas e a contribuição dos aliados passou a financiar obras da própria cidade. O atrito com Esparta que daí resultou desembocou na Guerra do Peloponeso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-232",
+   "texto_apoio": "Depois da morte de Alexandre, os reinos formados por seus generais espalharam pelo Oriente cidades de traçado grego, com ginásio e teatro, enquanto seus governantes assumiam títulos locais: no Egito antigo, os Ptolomeus mandaram representar-se como faraós.",
+   "enunciado": "Esse quadro caracteriza o período helenístico porque nele:",
+   "alternativas": {
+    "a": "a língua e a religião gregas foram impostas por decreto aos povos do Oriente, com o fechamento dos templos e a proibição dos cultos anteriores",
+    "b": "a pólis clássica foi restaurada como unidade política soberana em cada região",
+    "c": "as tradições egípcias substituíram a cultura grega nos reinos formados",
+    "d": "elementos da cultura grega circularam misturados a tradições orientais, sem apagar as formas locais de poder",
+    "e": "o poder político voltou a se concentrar nas assembleias de cidadãos"
+   },
+   "resposta": "d",
+   "explicacao": "O helenismo é um processo de mistura, não de substituição: o grego virou língua franca da administração e do comércio, e ao mesmo tempo o soberano se legitimava com o repertório religioso de cada região. Alexandria, com seu Museu e sua Biblioteca, é o exemplo que as bancas mais citam.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-233",
+   "texto_apoio": "O conjunto de leis atribuído a Hamurábi, na Mesopotâmia do século XVIII a.C., fixa penas diferentes para o mesmo delito conforme a condição social de quem agride e de quem é agredido: a punição de quem ferisse um homem livre não é a mesma prevista para quem ferisse um dependente.",
+   "enunciado": "Do ponto de vista do historiador, o principal valor desse documento está em:",
+   "alternativas": {
+    "a": "revelar a hierarquia social que a lei escrita registrava e ajudava a sustentar",
+    "b": "descrever com precisão estatística a distribuição da renda entre as famílias das cidades da região, o que permitiria reconstituir seu cotidiano econômico",
+    "c": "comprovar a igualdade jurídica entre os habitantes das cidades mesopotâmicas",
+    "d": "demonstrar que a escrita cuneiforme servia apenas a fins religiosos",
+    "e": "atestar a ausência de autoridade central no vale entre os dois grandes rios"
+   },
+   "resposta": "a",
+   "explicacao": "A lei de talião que a banca costuma citar só vale entre iguais; abaixo dela, a compensação é em prata. Um código não descreve a sociedade tal como ela é, mas mostra qual ordem o poder que o promulga queria ver respeitada — e é isso que se pede de um documento normativo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-234",
+   "texto_apoio": "A administração do Egito antigo mantinha, em marcos de pedra fincados às margens do Nilo, o registro do nível atingido pela cheia de cada ano, e calculava a partir dele o tributo devido por cada propriedade na estação seguinte.",
+   "enunciado": "Essa prática indica que, naquela sociedade:",
+   "alternativas": {
+    "a": "os tributos eram fixados por assembleias de camponeses reunidas a cada colheita nas aldeias do vale, conforme o rendimento que cada família declarasse",
+    "b": "a produção agrícola dependia da chuva local e dispensava o registro das cheias",
+    "c": "o controle do calendário agrícola e da medição das cheias era fonte direta do poder de arrecadar do Estado",
+    "d": "o faraó abria mão da arrecadação nos anos de cheia mais alta",
+    "e": "a escrita hieroglífica era desconhecida dos funcionários da cobrança"
+   },
+   "resposta": "c",
+   "explicacao": "Medir o rio era prever a safra, e prever a safra era saber quanto cobrar. A escrita, o calendário e a geometria de demarcação de terras nasceram amarrados a essa necessidade fiscal — a explicação mais sólida para o peso do Estado na sociedade egípcia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-235",
+   "texto_apoio": "Os textos reunidos na Bíblia hebraica foram escritos e reescritos ao longo de séculos, e boa parte deles ganhou forma definitiva durante e depois do exílio na Babilônia, no século VI a.C.",
+   "enunciado": "Esse dado é decisivo para o estudo do povo hebreu porque mostra que:",
+   "alternativas": {
+    "a": "o monoteísmo apareceu pronto e sem disputa interna desde o começo da trajetória desse povo, tal como o texto final o apresenta ao leitor",
+    "b": "a Bíblia hebraica é um registro cronológico feito por testemunhas dos acontecimentos",
+    "c": "o exílio na Babilônia interrompeu a produção escrita do povo hebreu",
+    "d": "os textos foram fixados antes da formação das primeiras cidades da região",
+    "e": "a redação do texto responde às perguntas do tempo em que foi escrita, e não apenas aos fatos que narra"
+   },
+   "resposta": "e",
+   "explicacao": "É a distinção entre o tempo narrado e o tempo da narração, que vale para qualquer fonte. No caso hebreu, a experiência do exílio e do retorno ajuda a explicar a ênfase na aliança e na lei escrita como marcas de identidade de um povo sem território próprio naquele momento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-236",
+   "texto_apoio": "Ao longo do primeiro milênio a.C., cidades da costa do Levante instalaram entrepostos em pontos do Mediterrâneo escolhidos pela proximidade com as rotas de metal e pelo abrigo que ofereciam às embarcações.",
+   "enunciado": "Sobre a atuação do povo fenício nesse processo, é correto afirmar que ela:",
+   "alternativas": {
+    "a": "resultou na formação de um Estado territorial unificado sob um rei único, que administrava tanto as cidades do Levante quanto as praças do Mediterrâneo ocidental",
+    "b": "montou uma rede de portos voltada ao comércio, sem projeto de conquista territorial de grande extensão",
+    "c": "esteve subordinada ao poder militar das cidades da Grécia antiga no período clássico",
+    "d": "dispensou o uso da escrita, substituída pelo registro oral das transações",
+    "e": "concentrou-se na navegação de longo curso pelo Atlântico Norte"
+   },
+   "resposta": "b",
+   "explicacao": "O alfabeto que os fenícios difundiram é consequência dessa vocação: um sistema enxuto, de aprendizado rápido, útil para escriturar cargas e contas. Adaptado pelos gregos com a notação das vogais, é o antepassado direto do alfabeto que usamos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-237",
+   "texto_apoio": "O Império Persa aquemênida dividia o território em satrapias, mantinha uma estrada real com postos para troca de montaria e preservava, em muitas regiões conquistadas, os cultos e as autoridades já existentes.",
+   "enunciado": "Esse conjunto de práticas sugere que a administração persa buscava:",
+   "alternativas": {
+    "a": "impor uma religião única e uma língua comum ao conjunto das províncias, com a dissolução das autoridades tradicionais de cada região conquistada",
+    "b": "reduzir o território administrado a um único centro urbano de decisão",
+    "c": "transferir a arrecadação para as pólis gregas do litoral da Ásia Menor",
+    "d": "assegurar a cobrança do tributo e a circulação das ordens sem desmontar as estruturas locais de poder",
+    "e": "abandonar a construção de estradas em favor do transporte marítimo"
+   },
+   "resposta": "d",
+   "explicacao": "Governar um território daquele tamanho antes do telégrafo exigia delegar: o sátrapa cobrava e recrutava, e o rei mantinha inspetores para vigiá-lo. A tolerância com cultos locais era instrumento de governo, não princípio abstrato — foi o que permitiu, por exemplo, o retorno dos judeus a Jerusalém.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-238",
+   "texto_apoio": "Entre os séculos V e III a.C., a plebe recorreu à retirada em massa da cidade — a chamada secessão — para pressionar o patriciado. Desse processo saíram o tribunato da plebe, a fixação das leis em tábuas expostas ao público e o direito ao casamento entre os dois grupos.",
+   "enunciado": "A trajetória descrita mostra que, na Roma antiga:",
+   "alternativas": {
+    "a": "a ampliação de direitos resultou de conflito organizado, e não de concessão espontânea do grupo dominante",
+    "b": "os patrícios cederam por convicção jurídica, sem que a plebe precisasse recorrer à pressão coletiva ou à interrupção de suas atividades na cidade",
+    "c": "a plebe alcançou de imediato a igualdade completa de condições com o patriciado",
+    "d": "as leis permaneceram sob a guarda fechada dos sacerdotes patrícios",
+    "e": "o tribunato da plebe nasceu de iniciativa do Senado, à revelia da própria plebe"
+   },
+   "resposta": "a",
+   "explicacao": "A Lei das Doze Tábuas importa menos pelo conteúdo do que pelo gesto: escrever a norma e expô-la tira do sacerdote patrício o monopólio de dizer o que a lei era. Direito publicado é direito que se pode invocar — e foi essa a conquista da plebe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-239",
+   "texto_apoio": "Políbio, historiador grego do século II a.C., descreveu a organização de Roma como uma combinação: os cônsules lembravam a monarquia, o Senado lembrava a aristocracia e as assembleias populares lembravam a democracia.",
+   "enunciado": "A leitura de Políbio ajuda a entender a República romana como um regime em que:",
+   "alternativas": {
+    "a": "o povo reunido em assembleia detinha a última palavra sobre as decisões de guerra e sobre a escolha dos magistrados da cidade a cada ano do calendário",
+    "b": "um rei hereditário concentrava as funções civis e as religiosas",
+    "c": "instituições de origens distintas se equilibravam, com predomínio efetivo do Senado e das famílias que o compunham",
+    "d": "as magistraturas eram vitalícias e transmitidas por herança familiar",
+    "e": "o exército escolhia diretamente os ocupantes do Senado"
+   },
+   "resposta": "c",
+   "explicacao": "Políbio escreve para explicar aos gregos por que Roma vencia, e a resposta que ele dá — o equilíbrio entre as três formas — atravessou os séculos e chegou à teoria da separação de poderes. O historiador de hoje acrescenta o que ele minimiza: o Senado, e não a assembleia, dava as cartas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-240",
+   "texto_apoio": "No século I a.C., generais romanos passaram a recrutar soldados sem posses, que dependiam do comandante para receber terra ao fim do serviço. Júlio César, Pompeu e outros chefiaram exércitos ligados a eles por essa relação.",
+   "enunciado": "A consequência política desse vínculo entre general e soldado foi:",
+   "alternativas": {
+    "a": "fortalecer o controle do Senado sobre as legiões, que passaram a receber soldo e terra diretamente do tesouro público administrado pelos magistrados eleitos",
+    "b": "encerrar as campanhas de conquista na bacia do Mediterrâneo",
+    "c": "devolver às assembleias populares a decisão sobre a guerra e a paz",
+    "d": "restringir o serviço militar aos proprietários de terra da Península Itálica",
+    "e": "deslocar a lealdade da tropa das instituições da cidade para a pessoa do comandante, o que abriu caminho ao poder pessoal"
+   },
+   "resposta": "e",
+   "explicacao": "A reforma que abriu a legião aos sem-terra resolveu um problema de recrutamento e criou outro, maior: o soldado passou a cobrar do general, e não do Estado, a recompensa do serviço. Daí saem as guerras civis e, delas, o principado de Augusto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-241",
+   "texto_apoio": "Nas províncias do Império Romano, cidades locais recebiam estatuto jurídico romano e seus notáveis podiam obter a cidadania. Em 212 d.C., um edito estendeu a cidadania à generalidade dos habitantes livres do território.",
+   "enunciado": "O processo de romanização a que esses fatos pertencem é mais bem descrito como:",
+   "alternativas": {
+    "a": "a troca completa das línguas, dos cultos e das formas de propriedade das províncias por equivalentes vindos da Itália, sem sobrevivência de práticas anteriores",
+    "b": "a incorporação das elites provinciais à ordem romana, que recebiam direitos em troca de administrar suas cidades segundo o modelo da capital",
+    "c": "a expulsão das populações locais das cidades provinciais",
+    "d": "a proibição de que provinciais ocupassem cargos públicos no Império Romano",
+    "e": "a renúncia de Roma à cobrança de tributo nas províncias"
+   },
+   "resposta": "b",
+   "explicacao": "Romanizar era cooptar: quem administrava a província no lugar de Roma ganhava direitos e o vocabulário jurídico do vencedor, e em troca sustentava a arrecadação e o recrutamento. Por isso o processo é desigual — intenso nas cidades e nas elites, tênue no campo e entre os pobres.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-242",
+   "texto_apoio": "Um inventário do século IX descreve um domínio dividido em duas partes: a reserva, cultivada pelos dependentes em proveito do senhor, e os lotes entregues às famílias camponesas, que deviam dias de trabalho e parte da colheita em troca do direito de os cultivar.",
+   "enunciado": "Essa organização do feudo indica que a relação entre o senhor e o servo da gleba se apoiava:",
+   "alternativas": {
+    "a": "no acesso à terra concedido em troca de obrigações fixadas pelo costume, com o camponês preso ao lote mas não vendido como coisa",
+    "b": "num contrato de trabalho assalariado, renovado a cada ano e rescindível pelas duas partes conforme o preço alcançado pela colheita na região",
+    "c": "na propriedade plena da terra pelo camponês, livre de encargos perante o senhor",
+    "d": "no pagamento de tributo em moeda ao poder central, que redistribuía o produto",
+    "e": "na ausência de vínculo pessoal entre quem cultivava e quem detinha o domínio"
+   },
+   "resposta": "a",
+   "explicacao": "O servo devia corveia (trabalho na reserva), talha (parte da colheita) e banalidades (taxas pelo uso do moinho, do forno e do lagar). Ele não era propriedade de ninguém, e sim vinculado à terra: se o domínio mudasse de senhor, ele continuava onde estava. A distinção entre servidão e cativeiro antigo é a pegadinha mais comum do tema.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-243",
+   "texto_apoio": "O ritual de homenagem, descrito em documentos dos séculos X e XI, unia dois homens livres: o vassalo punha as mãos entre as do suserano e prestava juramento de fidelidade; em troca recebia um benefício, em geral uma terra com seus dependentes.",
+   "enunciado": "O laço de suserania e vassalagem descrito distingue-se de uma relação de emprego porque:",
+   "alternativas": {
+    "a": "estabelecia remuneração em moeda paga mês a mês pelo suserano ao vassalo, conforme o número de dias de serviço prestado ao longo do ano",
+    "b": "podia ser rompido por uma das partes sem consequência nenhuma",
+    "c": "criava um vínculo pessoal e recíproco de fidelidade, com deveres militares e de conselho de parte a parte",
+    "d": "subordinava o vassalo ao rei, e não ao senhor que lhe entregava a terra",
+    "e": "excluía a transmissão do benefício aos herdeiros do vassalo"
+   },
+   "resposta": "c",
+   "explicacao": "A vassalagem é contrato entre nobres, não entre patrão e trabalhador: obriga os dois lados, e o descumprimento pelo suserano libera o vassalo. Com o tempo o benefício virou hereditário, e o que era vínculo pessoal virou patrimônio de família — a raiz do poder da nobreza feudal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-244",
+   "texto_apoio": "Marc Bloch observou que, na Europa dos séculos X e XI, a maior parte do que se consumia num domínio era produzida ali mesmo, e que a troca a longa distância se restringia a produtos de alto valor e pequeno volume.",
+   "enunciado": "Essa característica da economia feudal decorria principalmente:",
+   "alternativas": {
+    "a": "de uma decisão dos reis europeus, que teriam fechado por lei os portos e as feiras da cristandade e concentrado a produção nos domínios rurais",
+    "b": "da proibição senhorial de que produto algum saísse dos limites do domínio",
+    "c": "da preferência dos camponeses por produtos vindos de regiões distantes",
+    "d": "do excesso de moeda de prata em circulação nos mercados urbanos",
+    "e": "da insegurança das estradas e da escassez de moeda em circulação, que encareciam a troca a distância"
+   },
+   "resposta": "e",
+   "explicacao": "Não se trata de uma economia fechada por decreto, e sim de uma economia em que trocar sai caro: estrada insegura, pedágio a cada senhorio, pouca moeda. Quando essas condições mudam, a partir do século XI, a troca volta a crescer — e é isso que se chama renascimento comercial.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-245",
+   "texto_apoio": "No século XI, o bispo Adalberon de Laon escreveu que a sociedade se dividia em três grupos — os que rezam, os que combatem e os que trabalham — e que essa divisão fora estabelecida por desígnio divino.",
+   "enunciado": "Esse esquema das três ordens deve ser lido pelo historiador como:",
+   "alternativas": {
+    "a": "um levantamento estatístico da população europeia, feito a partir dos registros paroquiais de nascimento e de óbito reunidos pelas dioceses",
+    "b": "uma representação produzida pelo clero, que justificava a hierarquia da sociedade feudal apresentando-a como ordem natural",
+    "c": "a descrição fiel da divisão do trabalho na Idade Média, sem função política",
+    "d": "um projeto de reforma social que pretendia extinguir a diferença entre os grupos",
+    "e": "um texto sem circulação entre os letrados de seu tempo"
+   },
+   "resposta": "b",
+   "explicacao": "Quem descreve a sociedade em três ordens pertence à primeira delas, e o esquema deixa de fora justamente quem cresce depois — o mercador e o artesão da cidade. Ler um documento perguntando quem o escreveu e a serviço de que ordem é o exercício que as bancas mais premiam.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-246",
+   "texto_apoio": "Depois da divisão do Império de Carlos Magno e das incursões de normandos e magiares, condes e detentores de castelos passaram a exercer no próprio território atribuições antes reservadas ao rei: julgar, cobrar taxas de passagem e convocar homens armados.",
+   "enunciado": "Esse deslocamento é considerado central na formação da sociedade feudal porque:",
+   "alternativas": {
+    "a": "criou uma administração remunerada em moeda e submetida a exame público, capaz de aplicar a mesma lei desde o vale do Reno até o do Loire",
+    "b": "concentrou nas mãos do rei o julgamento das causas e a cobrança dos tributos do reino inteiro",
+    "c": "extinguiu a guerra privada entre os senhores de uma mesma região",
+    "d": "transferiu o poder público a senhores locais, que passaram a exercê-lo como direito ligado à posse da terra",
+    "e": "devolveu às assembleias de camponeses a decisão sobre o uso das terras comuns"
+   },
+   "resposta": "d",
+   "explicacao": "O traço decisivo do feudalismo não é o castelo nem a armadura: é a privatização do poder público. Julgar e cobrar deixam de ser atributos do Estado e passam a ser direitos de quem detém a terra — e por isso a reconstrução das monarquias, séculos depois, é descrita como retomada desses direitos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-247",
+   "texto_apoio": "Num costumeiro do século XII, as obrigações de um camponês aparecem discriminadas: dias de trabalho na reserva senhorial, parte da colheita entregue ao senhor, taxa para usar o moinho, o forno e o lagar do domínio, e pagamento devido no casamento da filha fora dele.",
+   "enunciado": "A lista mostra que, no regime feudal, a renda do senhor vinha sobretudo:",
+   "alternativas": {
+    "a": "do direito de mando sobre as pessoas e sobre os equipamentos do domínio, e não da venda de excedente no mercado",
+    "b": "do arrendamento em dinheiro de suas terras a empresários agrícolas que produziam em grande escala para vender em praças distantes",
+    "c": "do salário que o rei pagava aos senhores encarregados de administrar o território",
+    "d": "do lucro obtido na compra e na revenda de grãos nas feiras das cidades",
+    "e": "de um imposto único cobrado pela Igreja e repassado à nobreza local"
+   },
+   "resposta": "a",
+   "explicacao": "As banalidades são a chave: o senhor cobra porque detém o monopólio do moinho e do forno, não porque prestou serviço melhor. É renda extraída por coerção, e é isso que separa o excedente feudal do lucro obtido em mercado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-248",
+   "texto_apoio": "Nos mosteiros da Europa ocidental, monges copistas reproduziam à mão, no scriptorium, textos religiosos e obras da Antiguidade. Até o século XII, as bibliotecas monásticas eram os maiores acervos de livros do Ocidente.",
+   "enunciado": "Essa atividade explica por que, na Idade Média ocidental:",
+   "alternativas": {
+    "a": "os textos gregos e latinos teriam chegado ao Ocidente por meio de tipografias instaladas nas cidades comerciais do norte da Itália, que os difundiram em larga tiragem",
+    "b": "a leitura era prática difundida entre os camponeses do domínio senhorial",
+    "c": "a Igreja deteve por longo período o controle da cultura escrita e da transmissão do saber antigo",
+    "d": "as obras da Antiguidade foram destruídas sem exceção pelos copistas",
+    "e": "a produção de livros esteve a cargo de oficinas urbanas desde o século VI"
+   },
+   "resposta": "c",
+   "explicacao": "Copiar à mão é caro e lento, e quem paga escolhe o que sobrevive: a seleção feita nos mosteiros decidiu boa parte do que da Antiguidade chegou até nós. Quando o pergaminho escasseava, um texto antigo podia ser raspado para receber outro por cima — o palimpsesto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-249",
+   "texto_apoio": "A convocação da primeira cruzada, em 1095, prometeu remissão de pecados a quem partisse para o Oriente. Nas décadas seguintes, cidades italianas como Gênova e Veneza forneceram transporte e crédito às expedições e ampliaram seus entrepostos no Mediterrâneo oriental.",
+   "enunciado": "O dado sobre as cidades italianas ajuda a entender as cruzadas como um movimento que:",
+   "alternativas": {
+    "a": "teria sido organizado por monarquias nacionais já constituídas, que financiaram as expedições com tributos regulares cobrados de seus súditos",
+    "b": "teve causa apenas religiosa, sem efeito perceptível sobre o comércio europeu",
+    "c": "resultou no domínio duradouro do Ocidente sobre a região disputada",
+    "d": "interrompeu por completo o contato entre cristãos e o mundo islâmico",
+    "e": "somou motivação religiosa e interesse mercantil, e reabriu ao Ocidente rotas de troca no Mediterrâneo"
+   },
+   "resposta": "e",
+   "explicacao": "As cruzadas fracassaram no que prometiam e mudaram a Europa pelo caminho: crédito, frete marítimo e entrepostos mobilizados por elas estão entre os motores do renascimento comercial dos séculos XII e XIII. A quarta expedição, que acabou saqueando Constantinopla, é a prova mais crua de que o alvo religioso não mandava sozinho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-250",
+   "texto_apoio": "No século VI, Justiniano mandou reunir e organizar num único conjunto as leis e as opiniões dos juristas de Roma, obra depois conhecida como Corpus Juris Civilis. O texto foi redescoberto no Ocidente a partir do século XI e passou a ser ensinado nas primeiras universidades.",
+   "enunciado": "Esse episódio mostra que o Império Bizantino:",
+   "alternativas": {
+    "a": "teria rompido com a tradição jurídica anterior e adotado um direito criado do zero por assembleias de juristas eleitos nas províncias do Oriente",
+    "b": "preservou e transmitiu a herança jurídica romana, que voltou a circular no Ocidente séculos depois",
+    "c": "manteve-se isolado do Ocidente, sem influência sobre a cultura jurídica de lá",
+    "d": "adotou o grego apenas na liturgia e o latim no conjunto da administração",
+    "e": "abandonou a codificação escrita em favor do costume transmitido oralmente"
+   },
+   "resposta": "b",
+   "explicacao": "Do Corpus Juris saiu o vocabulário do direito civil que ainda usamos, e a sua redescoberta na Idade Média está na origem das faculdades de direito de Bolonha. Bizâncio não é apenas sobrevivência do Império Romano do Oriente: é o canal por onde a tradição jurídica antiga volta ao Ocidente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-251",
+   "texto_apoio": "Um século depois da morte de Maomé, o califado se estendia da Península Ibérica ao vale do Indo. Nas regiões conquistadas, comunidades cristãs e judaicas conservaram seu culto mediante o pagamento de um tributo específico.",
+   "enunciado": "Esse arranjo indica que a expansão islâmica:",
+   "alternativas": {
+    "a": "teria imposto a conversão imediata dos vencidos sob pena de morte, e é essa violência que explicaria a velocidade da ampliação do território nas primeiras décadas",
+    "b": "dispensou o uso da força e avançou apenas pela pregação dos letrados",
+    "c": "manteve o território fragmentado em unidades sem autoridade comum",
+    "d": "combinou conquista militar e tolerância regulada dos demais cultos, o que baixou o custo de administrar territórios extensos",
+    "e": "restringiu-se à Península Arábica durante os dois primeiros séculos"
+   },
+   "resposta": "d",
+   "explicacao": "Cobrar tributo de quem conserva o próprio culto rende mais do que converter à força, e foi essa contabilidade que sustentou o califado. Na Idade Média, esse mundo concentrou a matemática, a medicina e a filosofia mais avançadas do período, e é dele que a Europa recebe de volta boa parte do saber grego.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-252",
+   "texto_apoio": "Em Córdoba, Toledo e Bagdá, textos gregos de medicina, matemática e filosofia foram traduzidos para o árabe, comentados e depois vertidos para o latim por equipes que reuniam tradutores cristãos, judeus e muçulmanos.",
+   "enunciado": "Esse trabalho de tradução importa à história do Ocidente medieval porque:",
+   "alternativas": {
+    "a": "devolveu à Europa parte da produção científica e filosófica antiga, com os acréscimos feitos no mundo islâmico",
+    "b": "provaria que a Europa cristã produziu por conta própria, sem contato externo, o conjunto do saber que passaria a ensinar em suas universidades a partir do século XIII",
+    "c": "eliminou a influência de Aristóteles sobre o pensamento cristão",
+    "d": "manteve os textos antigos restritos às bibliotecas de Bagdá",
+    "e": "substituiu o latim pelo árabe nas escolas da Europa cristã"
+   },
+   "resposta": "a",
+   "explicacao": "Averróis e Avicena não apenas guardaram Aristóteles: comentaram-no, e é com esses comentários que Tomás de Aquino discute. Os algarismos que usamos e a álgebra chegaram pela mesma via. A ideia de uma Idade Média fechada em si mesma não sobrevive a esse dossiê.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-253",
+   "texto_apoio": "Nas universidades formadas a partir do século XII, o ensino se organizava em torno da leitura de um texto de autoridade, seguida da disputa: enunciava-se uma questão, expunham-se os argumentos contrários e o mestre concluía procurando conciliar as autoridades em conflito.",
+   "enunciado": "Esse procedimento, próprio da escolástica, mostra que o pensamento medieval:",
+   "alternativas": {
+    "a": "recusava o raciocínio lógico e se contentava em repetir o que os textos sagrados afirmavam, sem confronto algum entre posições divergentes",
+    "b": "dispensava o recurso a textos escritos no ensino de nível superior",
+    "c": "operava com regras rigorosas de argumentação, ainda que partindo de autoridades religiosas admitidas de antemão",
+    "d": "havia rompido com a filosofia antiga e proibido a leitura de Aristóteles",
+    "e": "era praticado fora das instituições ligadas à Igreja"
+   },
+   "resposta": "c",
+   "explicacao": "A disputa escolástica é um torneio de argumentos com regras fixas, e dela vem boa parte do vocabulário lógico do Ocidente. O limite é claro — a autoridade das Escrituras não está em jogo —, mas dizer que a Idade Média não raciocinava é confundir o ponto de partida com o método.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-254",
+   "texto_apoio": "A partir do século XIII, tribunais eclesiásticos passaram a investigar grupos como os cátaros, no sul da França, que pregavam a pobreza e negavam a autoridade do clero sobre a salvação. O procedimento previa interrogatório, testemunhas e a entrega do condenado ao poder civil para a aplicação da pena.",
+   "enunciado": "A perseguição a esses grupos pela inquisição medieval é mais bem explicada pelo fato de que:",
+   "alternativas": {
+    "a": "os grupos investigados defenderiam a separação entre a Igreja e o Estado nos termos em que ela viria a ser formulada pelas constituições liberais do século XIX",
+    "b": "os tribunais eclesiásticos julgavam apenas causas de propriedade rural",
+    "c": "a Igreja havia perdido o monopólio da escrita para as oficinas urbanas",
+    "d": "as pregações condenadas defendiam o acúmulo de riqueza pelo clero",
+    "e": "a heresia punha em causa a doutrina e o lugar da Igreja como intermediária da salvação, e por isso era tratada como ameaça à ordem"
+   },
+   "resposta": "e",
+   "explicacao": "Pregar a pobreza era, na prática, acusar a hierarquia de traição, e disputar quem media a relação com o divino era disputar poder. Note o desenho do procedimento: quem julga é o tribunal da Igreja, quem executa a pena é o braço civil — divisão de tarefas que a banca gosta de cobrar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-255",
+   "texto_apoio": "Na chamada Querela das Investiduras, encerrada em 1122, papado e Império disputaram quem tinha o direito de nomear bispos e de lhes entregar os símbolos do cargo — questão que envolvia também as terras e as rendas ligadas às dioceses.",
+   "enunciado": "O conflito indica que, na Idade Média, a autoridade eclesiástica:",
+   "alternativas": {
+    "a": "limitava-se ao campo espiritual e não guardava relação com a posse de terras nem com a arrecadação de rendas nas dioceses da cristandade",
+    "b": "estava enredada em poder territorial e em renda, e por isso a nomeação de bispos interessava de perto ao poder leigo",
+    "c": "era exercida por bispos eleitos pelos fiéis de cada paróquia",
+    "d": "deixava indiferentes os imperadores germânicos do período",
+    "e": "havia sido transferida por inteiro ao imperador desde o século IX"
+   },
+   "resposta": "b",
+   "explicacao": "Um bispo administrava terras, cobrava rendas e comandava homens: nomeá-lo era decidir quem controlava um pedaço do território. A solução de compromisso separou a investidura espiritual, do papa, da entrega dos bens temporais, do imperador — e essa distinção entre as duas esferas atravessa o resto da história política do Ocidente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-256",
+   "texto_apoio": "Entre os séculos XII e XIII, as feiras de Champagne reuniam periodicamente mercadores do norte e do sul da Europa. Ali circulavam letras de câmbio, que permitiam saldar contas sem transportar moeda, e juízes especiais julgavam as disputas entre comerciantes.",
+   "enunciado": "As feiras descritas são indício do renascimento comercial porque mostram:",
+   "alternativas": {
+    "a": "a formação de instrumentos próprios de crédito e de justiça para uma atividade mercantil em expansão",
+    "b": "a substituição da produção agrícola pela indústria de bens de consumo nas regiões atravessadas pelas rotas que ligavam o norte ao sul do continente",
+    "c": "o desaparecimento do domínio senhorial como unidade de produção agrícola",
+    "d": "a decisão dos senhores de abrir mão da cobrança de pedágio nas estradas",
+    "e": "o abandono da moeda metálica nas trocas europeias do período"
+   },
+   "resposta": "a",
+   "explicacao": "Uma economia feudal em que trocar era caro precisou inventar o que faltava: crédito que dispensasse o transporte de moeda e um tribunal que entendesse de contrato mercantil. Champagne fica no cruzamento entre Flandres e as cidades italianas — a geografia explica a escolha do lugar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-257",
+   "texto_apoio": "A partir do século XI, agrupamentos de mercadores e artesãos instalados junto a muralhas e a mosteiros negociaram com o senhor local cartas que lhes assegurassem tribunal próprio, dispensa de certas obrigações e liberdade pessoal a quem ali residisse por um ano e um dia.",
+   "enunciado": "A conquista dessas cartas pelo burgo significou:",
+   "alternativas": {
+    "a": "a submissão dos moradores da cidade ao mesmo estatuto do camponês do domínio, com dias de trabalho na reserva e entrega de parte do que produzissem",
+    "b": "a abertura de um espaço jurídico distinto do senhorio rural, com regras ajustadas à vida mercantil",
+    "c": "a extinção do poder senhorial no conjunto do território do reino",
+    "d": "a transferência da administração das cidades para o papado",
+    "e": "o retorno dos artesãos ao trabalho agrícola nas terras da reserva"
+   },
+   "resposta": "b",
+   "explicacao": "O ditado alemão diz que o ar da cidade liberta, e o prazo de um ano e um dia é exatamente o mecanismo: passado ele, o servo fugido não podia mais ser reclamado. A cidade medieval não nasce fora do mundo feudal, ela negocia dentro dele o direito de ter regra própria.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-258",
+   "texto_apoio": "Os estatutos de uma corporação de ofício de Paris, no século XIII, fixavam quantos aprendizes cada mestre podia ter, a duração da jornada, a qualidade da matéria-prima admitida e o preço mínimo da peça acabada.",
+   "enunciado": "Essa regulamentação tinha por objetivo principal:",
+   "alternativas": {
+    "a": "ampliar a produção pelo alongamento da jornada e pela livre entrada de novos concorrentes no mercado urbano da cidade",
+    "b": "submeter os artesãos ao controle direto do senhor do domínio rural",
+    "c": "conter a concorrência entre os oficiais do mesmo ramo e preservar o padrão e o preço do produto",
+    "d": "eliminar a hierarquia entre mestre, oficial e aprendiz nas oficinas",
+    "e": "transferir a fixação dos preços para as feiras internacionais"
+   },
+   "resposta": "c",
+   "explicacao": "A lógica é o oposto da concorrência: quem já está dentro protege o próprio lugar limitando quantos entram e a que preço se vende. É uma economia urbana medieval regulada pelo costume e pela corporação, e é contra esse arranjo que a liberdade de ofício será reivindicada muitos séculos depois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-259",
+   "texto_apoio": "A epidemia que atravessou a Europa entre 1347 e 1351 reduziu de modo abrupto a população do continente. Em regiões da Inglaterra e da França, o pagamento devido a trabalhadores rurais subiu nos anos seguintes, e leis foram editadas para tabelá-lo nos níveis anteriores.",
+   "enunciado": "A relação entre a peste negra e a legislação citada se explica porque:",
+   "alternativas": {
+    "a": "o desaparecimento das cidades comerciais teria obrigado o poder público a fixar por decreto o preço dos gêneros agrícolas e o valor pago por dia de trabalho",
+    "b": "a epidemia ampliou a população disponível para o trabalho no campo",
+    "c": "as leis buscavam elevar o pagamento devido aos trabalhadores rurais",
+    "d": "a queda da população encareceu a mão de obra, e os senhores recorreram à lei para conter a alta que o mercado impunha",
+    "e": "os senhores preferiam pagar acima do que o costume previa"
+   },
+   "resposta": "d",
+   "explicacao": "A peste é o caso didático de choque demográfico com efeito econômico: sobra terra e falta braço, e quem tem o braço passa a poder negociar. O regime feudal reage pela lei e pela coerção, e a tensão daí resultante está na origem das grandes revoltas camponesas da segunda metade do século XIV.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-260",
+   "texto_apoio": "Em 1358, camponeses do norte da França atacaram castelos e registros senhoriais; em 1381, na Inglaterra, revoltosos exigiram o fim das obrigações servis e marcharam sobre Londres. Nos dois casos, os documentos que provavam os deveres devidos ao senhor foram alvo preferencial.",
+   "enunciado": "A destruição preferencial dos registros indica que os revoltosos:",
+   "alternativas": {
+    "a": "pretenderiam substituir o rei por um governo formado por representantes das aldeias e das cidades comerciais reunidos em assembleia permanente",
+    "b": "atacavam a escrita por considerá-la invenção de origem estrangeira",
+    "c": "buscavam apossar-se dos tesouros guardados nos arquivos senhoriais",
+    "d": "desconheciam o conteúdo das obrigações que lhes eram cobradas",
+    "e": "reconheciam no documento escrito o instrumento que fixava e perpetuava as obrigações servis"
+   },
+   "resposta": "e",
+   "explicacao": "Numa sociedade feudal em que o costume é a lei, queimar o registro é apagar a prova da dívida. As revoltas do século XIV vêm depois da peste negra e do aperto senhorial que a seguiu, e o alvo escolhido mostra que os camponeses sabiam muito bem onde o poder se apoiava.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-261",
+   "texto_apoio": "Ao longo dos séculos XIV e XV, reis da França e da Inglaterra passaram a manter tribunais que julgavam em grau de recurso as sentenças dos senhores, a cobrar impostos gerais destinados à guerra e a sustentar tropas pagas em dinheiro.",
+   "enunciado": "Esse conjunto de medidas caracteriza a centralização monárquica do fim da Idade Média porque:",
+   "alternativas": {
+    "a": "retomava para o rei atribuições de justiça, de tributo e de força que estavam repartidas entre os senhores",
+    "b": "reproduzia sem alteração o arranjo em que julgar e cobrar eram direitos ligados à posse da terra e exercidos por cada senhor em seu domínio",
+    "c": "eliminava a nobreza como grupo social do reino",
+    "d": "transferia a arrecadação de impostos para as cidades italianas",
+    "e": "devolvia ao papado a nomeação dos juízes do reino"
+   },
+   "resposta": "a",
+   "explicacao": "Tropa paga não precisa de vassalo, e imposto geral não passa pelo senhorio: são esses dois instrumentos que devolvem ao rei o que a fragmentação feudal havia repartido. A Guerra dos Cem Anos acelerou o processo, porque guerra longa exige receita permanente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-262",
+   "texto_apoio": "Em 1453, tropas otomanas tomaram Constantinopla, capital do que restava do Império Romano do Oriente. A cidade controlava a passagem entre o Mediterrâneo e o Mar Negro e era ponto de chegada de rotas terrestres vindas da Ásia.",
+   "enunciado": "Além de marcar o fim do Império Bizantino, o episódio costuma ser lembrado porque:",
+   "alternativas": {
+    "a": "teria interrompido de imediato e por inteiro a troca de mercadorias entre a Europa e a Ásia, o que forçaria os reinos ibéricos a procurar outra saída",
+    "b": "alterou as condições de acesso europeu às rotas terrestres do Oriente e estimulou a busca de caminhos alternativos",
+    "c": "restaurou a unidade política do Mediterrâneo sob comando cristão",
+    "d": "eliminou a presença otomana na Península Balcânica",
+    "e": "encerrou a produção de textos em grego naquela região"
+   },
+   "resposta": "b",
+   "explicacao": "A versão de manual costuma exagerar: o comércio não parou, ficou mais caro e mais dependente de intermediários. Isso basta para tornar atraente procurar outro caminho, e é o encadeamento que a banca cobra — nada de tratar 1453 como interruptor que desliga o Oriente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-263",
+   "texto_apoio": "Nas Grandes Dionísias de Atenas, as tragédias eram encenadas diante de milhares de espectadores, e o poder público custeava a presença dos cidadãos mais pobres. As peças retomavam mitos conhecidos para discutir a justiça, a lei da cidade e os limites do poder.",
+   "enunciado": "O teatro ateniense descrito cumpria, portanto, função:",
+   "alternativas": {
+    "a": "restrita ao entretenimento das famílias de maior renda, que financiavam as encenações e as assistiam em recintos fechados ao restante da população",
+    "b": "apenas religiosa, sem relação com as questões políticas da cidade",
+    "c": "cívica, ao propor à comunidade reunida o debate sobre as regras que organizavam a pólis",
+    "d": "escolar, destinada à formação técnica dos futuros magistrados",
+    "e": "militar, voltada ao treinamento dos jovens para a guerra"
+   },
+   "resposta": "c",
+   "explicacao": "Antígona discute o conflito entre a lei da cidade e o dever para com os mortos; Édipo, os limites do saber de quem governa. Pagar a entrada do cidadão pobre não é caridade, é política: a plateia é a mesma que decide na Assembleia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-264",
+   "texto_apoio": "Os primeiros filósofos jônicos procuraram explicar a origem das coisas por princípios como a água, o ar ou o ilimitado, em vez de recorrer à ação dos deuses. Mais tarde, em Atenas, Sócrates deslocou a investigação para as questões da vida em comum e do bem.",
+   "enunciado": "A mudança descrita costuma ser resumida na passagem do mito ao logos, e significa que:",
+   "alternativas": {
+    "a": "a religião grega teria desaparecido das cidades e sido substituída, em poucas décadas, pelo ensino das escolas filosóficas abertas em cada bairro",
+    "b": "os mitos deixaram de ser narrados e de circular entre os habitantes da pólis",
+    "c": "a filosofia abandonou as questões da cidade para tratar apenas da natureza",
+    "d": "passou-se a exigir da explicação uma justificativa racional que outros pudessem examinar e refutar",
+    "e": "o exame das causas naturais foi proibido pelas leis de Atenas"
+   },
+   "resposta": "d",
+   "explicacao": "O que muda não é o assunto, é o critério: a explicação passa a valer pelo argumento que a sustenta, e por isso pode ser discutida. Mito e filosofia conviveram por séculos na mesma pólis — a condenação de Sócrates mostra até onde a discussão era tolerada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-265",
+   "texto_apoio": "Nos primeiros séculos do Império Romano, distribuições regulares de grãos atendiam a parte da população da capital, e os espetáculos no anfiteatro e no circo eram custeados pelo poder público ou por notáveis em busca de prestígio.",
+   "enunciado": "A expressão pão e circo, cunhada por um poeta do período, descreve uma prática política que:",
+   "alternativas": {
+    "a": "asseguraria à população da capital participação efetiva nas decisões de governo por meio de assembleias reunidas nos dias de espetáculo",
+    "b": "financiava a produção agrícola das províncias com recursos da capital",
+    "c": "substituía o exército profissional pela convocação dos cidadãos pobres",
+    "d": "destinava-se apenas aos membros da ordem senatorial",
+    "e": "trocava sustento e diversão pela aquiescência de uma população urbana numerosa e sem trabalho estável"
+   },
+   "resposta": "e",
+   "explicacao": "Juvenal escreve como crítico, e a frase resume um diagnóstico: a plebe urbana que antes votava agora recebe. É despesa de legitimação, e não assistência social — comparar as duas coisas sem marcar a diferença é o erro que a correção costuma punir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-266",
+   "texto_apoio": "No século III, o Império Romano enfrentou pressão nas fronteiras, desvalorização da moeda e queda no fornecimento de cativos vindos das guerras. Grandes proprietários passaram a fixar trabalhadores na terra em troca de proteção e de um lote para cultivo.",
+   "enunciado": "Esse arranjo, conhecido como colonato, é apontado pelos historiadores como:",
+   "alternativas": {
+    "a": "resposta à falta de mão de obra que antecipa traços do vínculo entre senhor e camponês na Idade Média",
+    "b": "a implantação do trabalho assalariado livre no campo, com pagamento em moeda de prata e contratos anuais registrados por funcionários das províncias",
+    "c": "a devolução das terras aos pequenos proprietários expulsos pelas guerras",
+    "d": "o fim da grande propriedade rural no território do Império",
+    "e": "uma medida de estímulo à vida urbana nas províncias ocidentais"
+   },
+   "resposta": "a",
+   "explicacao": "Sem guerra de conquista não chegam cativos, e sem cativos a grande propriedade precisa prender quem já está ali. O colono não é vendido, mas também não pode sair — é a ponte entre o mundo antigo e a servidão que se firma depois, e é por isso que a ruptura entre os dois períodos nunca é limpa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-267",
+   "texto_apoio": "Perseguido em certos períodos, o cristianismo obteve liberdade de culto em 313 e, no fim do século IV, tornou-se a religião oficial do Império Romano. Bispos passaram a acumular funções de assistência, de arbitragem de conflitos e de representação das cidades diante do poder.",
+   "enunciado": "A trajetória descrita ajuda a explicar por que, depois da desagregação do Império no Ocidente:",
+   "alternativas": {
+    "a": "as cidades ocidentais teriam conservado intactas suas magistraturas civis, que seguiram arrecadando tributos e mantendo estradas por conta própria",
+    "b": "a Igreja permaneceu como estrutura organizada, capaz de suprir funções administrativas que o poder imperial deixou vagas",
+    "c": "o cristianismo perdeu adeptos e ficou restrito às províncias orientais",
+    "d": "os bispos foram afastados de funções que não fossem estritamente litúrgicas",
+    "e": "a autoridade religiosa passou a ser exercida pelos chefes militares germânicos"
+   },
+   "resposta": "b",
+   "explicacao": "A rede de dioceses aproveitou o desenho administrativo romano e sobreviveu a ele. É essa continuidade institucional que explica o peso da Igreja na Idade Média: quando o Estado imperial se desfaz no Ocidente, o que resta de escrita, de arquivo e de arbitragem está com o clero.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-antiga-medieval",
+   "id": "med-historia-268",
+   "texto_apoio": "A divisão da história ocidental em Antiguidade, Idade Média, Idade Moderna e Idade Contemporânea foi construída por letrados europeus, que escolheram como marcos a deposição do último imperador do Ocidente, em 476, e acontecimentos ocorridos no século XV.",
+   "enunciado": "Uma crítica corrente a essa periodização sustenta que ela:",
+   "alternativas": {
+    "a": "seria excessivamente detalhada, por repartir cada um dos quatro períodos em subperíodos definidos a partir de acontecimentos de alcance estritamente local",
+    "b": "recusa a existência de marcos temporais no estudo do passado",
+    "c": "atribui à Idade Média duração menor do que a documentação permite",
+    "d": "toma processos da Europa como divisores universais e diz pouco sobre a trajetória de outras regiões do mundo",
+    "e": "teria sido elaborada por autores que desconheciam as fontes escritas do período"
+   },
+   "resposta": "d",
+   "explicacao": "A crítica não é ao recorte em si — organizar o tempo é inevitável —, e sim à pretensão de que marcos europeus sirvam de régua para a China, para a África ou para a América. Perceber que a periodização é uma escolha de quem escreve, e não um dado do passado, é o passo que a banca quer ver dado.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -88209,6 +92484,652 @@ window.QUESTION_BANKS = {
    "explicacao": "Generalização cartográfica é o processo pelo qual o cartógrafo seleciona, simplifica ou até remove elementos ao reduzir a escala de um mapa, mantendo apenas o que ainda é legível e relevante no novo nível de detalhe. As demais alternativas nomeiam outros processos e conceitos cartográficos reais, mas distintos dessa simplificação por redução de escala.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-501",
+   "texto_apoio": "Numa carta topográfica na escala 1:25.000, cujas bordas trazem os valores de latitude e longitude, um estudante mede com a régua a distância em linha reta entre a torre de uma igreja e o portão de uma escola: 6 cm.",
+   "enunciado": "A distância real, em linha reta, entre esses dois pontos é de:",
+   "alternativas": {
+    "a": "0,15 km",
+    "b": "1,5 km",
+    "c": "15 km",
+    "d": "150 km",
+    "e": "4166,7 m"
+   },
+   "resposta": "b",
+   "explicacao": "Na escala numérica 1:25.000 cada centímetro do mapa vale 25.000 cm no terreno. Assim, 6 × 25.000 = 150.000 cm, que equivalem a 1.500 m, ou seja, 1,5 km. Quem divide 25.000 por 6 inverte a razão da escala e chega a um valor sem sentido; quem erra a conversão de centímetro para quilômetro sobe ou desce uma casa decimal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-502",
+   "texto_apoio": "Dois municípios estão separados por 30 km em linha reta. Um mapa da região, na escala 1:200.000, traz impressa a rede de meridianos e paralelos.",
+   "enunciado": "Nesse mapa, a distância entre os pontos que representam os dois municípios é de:",
+   "alternativas": {
+    "a": "1,5 cm",
+    "b": "15 cm",
+    "c": "150 cm",
+    "d": "0,15 cm",
+    "e": "6666,7 cm"
+   },
+   "resposta": "b",
+   "explicacao": "Converter primeiro: 30 km são 3.000.000 cm. Dividindo pelo denominador da escala numérica, 3.000.000 ÷ 200.000 = 15 cm no papel. O caminho é o mesmo, percorrido no sentido oposto — multiplica-se para ir do mapa ao terreno e divide-se para ir do terreno ao mapa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-503",
+   "texto_apoio": "Na margem inferior de um mapa, ao lado da rosa dos ventos e da indicação das coordenadas geográficas, aparece uma escala gráfica: uma barra dividida em segmentos, e cada segmento de 1 cm está rotulado como 500 m no terreno.",
+   "enunciado": "A escala numérica equivalente a essa escala gráfica é:",
+   "alternativas": {
+    "a": "1:500",
+    "b": "1:5.000",
+    "c": "1:500.000",
+    "d": "1:50.000",
+    "e": "1:50.000.000"
+   },
+   "resposta": "d",
+   "explicacao": "Basta pôr as duas medidas na mesma unidade: 500 m são 50.000 cm, e 1 cm do papel corresponde a esses 50.000 cm. A razão é, portanto, 1:50.000. Deixar a distância em metros no denominador leva a 1:500, que é o erro mais comum nessa conversão.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-504",
+   "texto_apoio": "Um serviço de mapeamento oferece dois desenhos da mesma porção do terreno: um mapa na escala 1:10.000, com curva de nível traçada de 5 em 5 metros, e outro mapa na escala 1:1.000.000, sem informação de altimetria.",
+   "enunciado": "Comparando as duas representações, é correto afirmar que:",
+   "alternativas": {
+    "a": "a de 1:10.000 é a de escala maior, mostra mais detalhe e abrange uma porção menor da superfície",
+    "b": "a de 1:1.000.000 é a de escala maior, porque o denominador que a define é o número mais alto entre os dois apresentados, e por isso ela reúne mais informação em cada centímetro de papel",
+    "c": "as duas têm o mesmo grau de detalhe, mudando apenas o tamanho da folha impressa",
+    "d": "a de 1:10.000 abrange uma porção maior da superfície e reduz o detalhe representado",
+    "e": "a diferença entre elas está na projeção adotada, não no grau de detalhe possível"
+   },
+   "resposta": "a",
+   "explicacao": "Escala é uma fração: 1/10.000 é maior que 1/1.000.000. A escala maior tem denominador menor, aproxima a representação do tamanho real, mostra mais detalhe — como a curva de nível de 5 em 5 metros — e, na mesma folha, cobre uma porção menor da superfície. A confusão entre denominador alto e escala grande é o erro clássico aqui.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-505",
+   "texto_apoio": "Um mapa impresso na escala 1:100.000, com a quadrícula de latitude e longitude visível, é ampliado numa copiadora de modo que suas dimensões lineares dobrem.",
+   "enunciado": "A escala numérica do mapa ampliado passa a ser:",
+   "alternativas": {
+    "a": "1:100.000",
+    "b": "1:200.000",
+    "c": "1:50.000",
+    "d": "1:400.000",
+    "e": "1:1.000.000"
+   },
+   "resposta": "c",
+   "explicacao": "Dobrar as dimensões lineares faz cada distância do papel valer o dobro para a mesma distância no terreno; logo o denominador cai pela metade, de 100.000 para 50.000. Reduzir o mapa produziria o movimento oposto, com o denominador crescendo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-506",
+   "texto_apoio": "Num mapa na escala 1:50.000, em que a curva de nível é traçada a cada 20 m, um terreno retangular aparece com 2 cm de largura por 3 cm de comprimento.",
+   "enunciado": "A área real desse terreno é de:",
+   "alternativas": {
+    "a": "0,6 km²",
+    "b": "1,5 km²",
+    "c": "3 km²",
+    "d": "15 km²",
+    "e": "150.000 m²"
+   },
+   "resposta": "b",
+   "explicacao": "Cada dimensão é convertida separadamente: 2 cm × 50.000 = 100.000 cm, ou 1 km; 3 cm × 50.000 = 150.000 cm, ou 1,5 km. A área é 1 × 1,5 = 1,5 km². Multiplicar as medidas do papel antes de converter, ou aplicar a escala uma vez só à área, produz os demais valores.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-507",
+   "texto_apoio": "Uma equipe precisa representar, numa única folha, a planta do campus de uma faculdade com seus prédios, calçadas e estacionamentos, e pretende marcar sobre ela pontos levantados com GPS.",
+   "enunciado": "A escala numérica mais adequada a essa representação é:",
+   "alternativas": {
+    "a": "1:100.000",
+    "b": "1:500.000",
+    "c": "1:5.000.000",
+    "d": "1:25.000.000",
+    "e": "1:2.000"
+   },
+   "resposta": "e",
+   "explicacao": "Detalhe de prédio e calçada exige escala grande, com denominador baixo. Em 1:2.000 cada centímetro do papel vale 20 m, o que permite desenhar uma calçada; em 1:100.000 esse mesmo centímetro já vale 1 km, e o campus inteiro viraria um ponto. As escalas maiores da lista servem a mapas continentais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-508",
+   "texto_apoio": "Um mapa é reduzido numa fotocopiadora para 70% do tamanho original. Nele constam, lado a lado, a escala numérica escrita como 1:50.000, uma escala gráfica desenhada em barra e a moldura com as coordenadas geográficas.",
+   "enunciado": "Depois dessa redução:",
+   "alternativas": {
+    "a": "a escala gráfica continua válida, porque encolheu junto com o desenho, enquanto a escala numérica passou a indicar uma razão que não corresponde mais ao papel",
+    "b": "a escala numérica continua válida e a escala gráfica passa a induzir ao erro, já que barras impressas mantêm o comprimento original mesmo quando a folha inteira é reduzida por processos de cópia",
+    "c": "as duas continuam válidas, pois a redução altera apenas a nitidez da impressão",
+    "d": "as duas ficam incorretas, e o mapa perde utilidade para medir distâncias",
+    "e": "a redução afeta a orientação indicada pela rosa dos ventos, mas não as escalas"
+   },
+   "resposta": "a",
+   "explicacao": "A escala gráfica é desenhada, e por isso é reduzida ou ampliada na mesma proporção que o restante do mapa: a barra continua dizendo a verdade. Já a escala numérica é um texto, que a copiadora não recalcula — depois da redução para 70%, a razão 1:50.000 passou a ser, na prática, cerca de 1:71.400.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-509",
+   "texto_apoio": "Num mapa que traz a rede de meridianos e paralelos, dois pontos separados por 4 km no terreno aparecem a 8 cm um do outro.",
+   "enunciado": "A escala numérica desse mapa é:",
+   "alternativas": {
+    "a": "1:5.000",
+    "b": "1:32.000",
+    "c": "1:50.000",
+    "d": "1:500.000",
+    "e": "1:2.000.000"
+   },
+   "resposta": "c",
+   "explicacao": "A escala é a razão entre a medida no papel e a medida no terreno, na mesma unidade: 4 km são 400.000 cm, e 400.000 ÷ 8 = 50.000. Daí 1:50.000. Multiplicar 8 por 4.000, em vez de dividir, produz o 1:32.000 oferecido como distrator.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-510",
+   "texto_apoio": "Num mapa do país na escala 1:750.000, dois pontos assinalados sobre o mesmo paralelo aparecem separados por 12 cm.",
+   "enunciado": "A distância real entre esses dois pontos é de:",
+   "alternativas": {
+    "a": "9 km",
+    "b": "900 km",
+    "c": "9.000 km",
+    "d": "90 km",
+    "e": "62500,0 m"
+   },
+   "resposta": "d",
+   "explicacao": "Multiplicando, 12 × 750.000 = 9.000.000 cm. Convertendo, são 90.000 m, ou 90 km. Cada casa decimal perdida na passagem de centímetro para quilômetro gera uma das ordens de grandeza oferecidas, e a divisão invertida gera a última.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-511",
+   "texto_apoio": "Duas cartas cobrem exatamente a mesma porção da superfície: a primeira na escala 1:50.000, com curva de nível traçada de 20 em 20 metros, e a segunda na escala 1:250.000, com curva de nível de 100 em 100 metros.",
+   "enunciado": "Em relação à segunda carta, a primeira:",
+   "alternativas": {
+    "a": "reduz o detalhe representado e cabe numa folha menor, porque o denominador da escala numérica cresce à medida que a representação se aproxima do tamanho real da porção mapeada",
+    "b": "tem o mesmo grau de generalização, mudando apenas as cores da impressão",
+    "c": "cobre uma porção maior da superfície mantendo o mesmo grau de detalhe",
+    "d": "difere apenas na projeção adotada, e não no detalhe de altimetria registrado",
+    "e": "ocupa uma folha cinco vezes maior em cada dimensão linear e registra detalhes que a outra precisa generalizar"
+   },
+   "resposta": "e",
+   "explicacao": "250.000 ÷ 50.000 = 5: cada distância do terreno ocupa cinco vezes mais papel na primeira carta, que por isso precisa de uma folha muito maior e comporta curva de nível cinco vezes mais próxima. Escala maior significa mais detalhe e menos generalização.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-512",
+   "texto_apoio": "Para medir o comprimento de uma estrada sinuosa desenhada num mapa na escala 1:100.000, cuja moldura traz os valores de latitude e longitude, um estudante ajusta um barbante sobre o traçado da via, estica o barbante ao lado da régua e lê 22 cm.",
+   "enunciado": "O comprimento real dessa estrada é de aproximadamente:",
+   "alternativas": {
+    "a": "22 km",
+    "b": "2,2 km",
+    "c": "220 m",
+    "d": "220 km",
+    "e": "4545,5 m"
+   },
+   "resposta": "a",
+   "explicacao": "O barbante existe justamente porque a régua mede em linha reta e a via não é reta. Feita a leitura, a conta é a de sempre: 22 × 100.000 = 2.200.000 cm, ou 22 km. Medir em linha reta daria um valor menor que o percurso, e é por isso que a técnica do barbante aparece nas cartas rodoviárias.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-513",
+   "texto_apoio": "Numa planta cadastral na escala 1:5.000, georreferenciada por coordenadas geográficas, aparece um lote cuja frente mede 40 m no terreno.",
+   "enunciado": "No papel, essa frente é representada por um segmento de:",
+   "alternativas": {
+    "a": "0,08 cm",
+    "b": "8 cm",
+    "c": "0,8 cm",
+    "d": "80 cm",
+    "e": "125 cm"
+   },
+   "resposta": "c",
+   "explicacao": "Convertendo, 40 m são 4.000 cm; dividindo pelo denominador da escala numérica, 4.000 ÷ 5.000 = 0,8 cm. Um segmento de menos de um centímetro para um lote de 40 m mostra por que plantas de detalhe pedem escalas ainda maiores, como 1:1.000 ou 1:500.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-514",
+   "texto_apoio": "A projeção de Mercator, criada no século XVI para a navegação, conserva os ângulos: uma rota de rumo constante aparece no mapa como uma linha reta. Em troca, a superfície representada é esticada à medida que a latitude se afasta da linha do equador.",
+   "enunciado": "Uma consequência direta dessa característica, num mapa-múndi de Mercator pendurado na parede da sala de aula, é que:",
+   "alternativas": {
+    "a": "as áreas próximas à linha do equador aparecem exageradas em relação às de latitude elevada, porque o esticamento da projeção de Mercator cresce à medida que o observador se aproxima da faixa equatorial",
+    "b": "as formas dos continentes ficam deformadas e os ângulos deixam de ser conservados, o que retira da projeção sua utilidade para a navegação",
+    "c": "a Groenlândia aparece com tamanho próximo ao da África, embora a área africana seja cerca de catorze vezes maior",
+    "d": "as distâncias medidas sobre o mapa correspondem às reais em cada ponto da superfície representada",
+    "e": "a área da Antártida aparece reduzida, já que a projeção comprime as latitudes elevadas"
+   },
+   "resposta": "c",
+   "explicacao": "Numa projeção conforme como a de Mercator, o esticamento cresce com a latitude: perto dos polos ele é enorme. Por isso a Groenlândia, com cerca de 2,2 milhões de km², aparece do tamanho da África, que tem cerca de 30 milhões de km². O mapa não mente sobre os ângulos — mente sobre as áreas, e é por isso que serve à navegação e atrapalha como mapa-múndi de parede.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-515",
+   "texto_apoio": "Divulgada em 1973, a projeção de Peters conserva as áreas: cada porção da superfície ocupa no mapa espaço proporcional à sua extensão real. As formas, em troca, aparecem alongadas.",
+   "enunciado": "O argumento que acompanhou a divulgação dessa projeção sustentava que:",
+   "alternativas": {
+    "a": "uma projeção que amplia as latitudes elevadas reforça, na leitura de mapa feita pelo aluno, a importância da Europa e da América do Norte",
+    "b": "a conservação das formas é a propriedade mais importante de uma projeção cartográfica, e por isso a representação de Peters substituiu a de Mercator no uso escolar em razão de sua fidelidade ao contorno dos continentes",
+    "c": "a projeção de Peters conserva ao mesmo tempo áreas, ângulos e distâncias, o que encerraria a discussão",
+    "d": "as áreas tropicais aparecem reduzidas na projeção de Peters, e foi essa redução que motivou a crítica",
+    "e": "a escolha da projeção é uma decisão apenas técnica, sem efeito sobre a leitura de mapa"
+   },
+   "resposta": "a",
+   "explicacao": "Peters não trouxe novidade geométrica — projeções equivalentes existiam havia séculos. O que ela trouxe foi um argumento sobre a leitura de mapa: se o mapa-múndi de parede infla as latitudes elevadas, o aluno cresce vendo a Europa maior do que a América do Sul, que tem quase o dobro da área. Nenhuma projeção conserva áreas, ângulos e distâncias ao mesmo tempo; essa é a limitação de partida da cartografia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-516",
+   "texto_apoio": "Nenhuma projeção cartográfica transfere a superfície curva do planeta para o plano sem deformação. A projeção de Robinson, adotada por muitos atlas escolares, aceita pequenas deformações de área, de forma e de distância ao mesmo tempo, em vez de conservar rigorosamente uma dessas propriedades.",
+   "enunciado": "Essa opção caracteriza uma projeção do tipo:",
+   "alternativas": {
+    "a": "conforme, que conserva os ângulos e as formas locais",
+    "b": "equivalente, que conserva as áreas em proporção exata",
+    "c": "equidistante, que conserva as distâncias contadas a partir de um ponto escolhido",
+    "d": "afilática, ou de compromisso, que distribui as deformações em vez de eliminar uma delas",
+    "e": "cilíndrica equatorial, classificação que nomeia a propriedade geométrica conservada pela projeção e não a superfície sobre a qual a rede de meridianos e paralelos é lançada"
+   },
+   "resposta": "d",
+   "explicacao": "Projeções são classificadas por duas coisas diferentes: a propriedade conservada — conforme, equivalente, equidistante ou afilática — e a superfície de projeção — cilíndrica, cônica ou azimutal. Robinson é afilática: distribui o erro em vez de zerá-lo num ponto, o que a torna agradável ao olho e imprópria para medição rigorosa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-517",
+   "texto_apoio": "Um mapa é construído projetando a superfície do planeta sobre um plano tangente ao polo Norte. Nele, os meridianos aparecem como retas que partem do centro do desenho e os paralelos, como circunferências concêntricas.",
+   "enunciado": "Essa construção corresponde a uma projeção:",
+   "alternativas": {
+    "a": "cilíndrica equatorial, obtida ao envolver o planeta com um cilindro tangente à linha do equador",
+    "b": "azimutal polar, útil para representar rotas aéreas que partem de um mesmo ponto central",
+    "c": "cônica, obtida ao apoiar um cone sobre uma faixa de latitude média",
+    "d": "de Peters, que conserva as áreas e alonga as formas",
+    "e": "cilíndrica de Mercator, na qual os meridianos convergem para o centro do desenho e os paralelos formam circunferências concêntricas em torno do polo representado"
+   },
+   "resposta": "b",
+   "explicacao": "Meridianos em leque e paralelos em circunferências concêntricas são a assinatura da projeção azimutal de aspecto polar. Ela conserva a direção a partir do ponto central, o que a tornou padrão em cartas de rota aérea. Já em Mercator, meridianos e paralelos formam uma grade de retas perpendiculares.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-518",
+   "texto_apoio": "Em 1943, o artista uruguaio Joaquín Torres-García desenhou a América do Sul com o sul voltado para cima e escreveu: 'nosso norte é o sul'. Um mapa com o sul no topo, ou centrado no oceano Pacífico, circula desde então em sala de aula.",
+   "enunciado": "A lição que essa inversão pretende ensinar é que:",
+   "alternativas": {
+    "a": "a inversão corrige um erro de medição das coordenadas geográficas cometido pelos cartógrafos europeus, devolvendo ao desenho a posição que o planeta ocupa de fato quando observado do espaço exterior",
+    "b": "o desenho invertido representa a superfície com menos deformação de área do que o desenho tradicional",
+    "c": "a posição do norte no topo decorre da inclinação do eixo de rotação e não pode ser alterada",
+    "d": "a inversão altera as coordenadas geográficas dos lugares representados no desenho",
+    "e": "a orientação com o norte no topo é uma convenção histórica, e não uma imposição da forma do planeta"
+   },
+   "resposta": "e",
+   "explicacao": "Nada no planeta define um lado de cima. A convenção do norte no topo firmou-se na Europa entre os séculos XV e XVIII e foi difundida com a navegação atlântica. Virar o mapa não muda a latitude nem a longitude de lugar nenhum: muda quem ocupa o centro do olhar de quem lê.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-519",
+   "texto_apoio": "O mapa-múndi mais difundido nas escolas ocidentais coloca o meridiano de Greenwich perto do centro da folha; um mapa-múndi publicado na China costuma centrar o desenho no oceano Pacífico, deixando a Europa numa das bordas.",
+   "enunciado": "A comparação entre essas duas escolhas mostra que:",
+   "alternativas": {
+    "a": "a escolha do meridiano central é determinada por uma propriedade física do planeta, de modo que alterar essa escolha produziria um desenho geometricamente incorreto da superfície representada",
+    "b": "o mapa-múndi chinês está incorreto, pois o meridiano de Greenwich é o único ponto de partida admitido",
+    "c": "as duas escolhas alteram as latitudes dos lugares representados",
+    "d": "definir o que fica no centro do mapa é decisão de quem o produz, e organiza a leitura de mapa em torno de um ponto de vista",
+    "e": "centrar o desenho no oceano Pacífico elimina a deformação de área da projeção adotada"
+   },
+   "resposta": "d",
+   "explicacao": "Mudar o meridiano central desloca quem aparece no meio e quem aparece rasgado pela borda, sem alterar uma única coordenada geográfica. É por isso que o centro do mapa é lido como argumento: quem está no meio parece o ponto de partida, e quem está na beirada parece a borda do assunto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-520",
+   "texto_apoio": "Um ponto da superfície tem as coordenadas geográficas 23° de latitude sul e 46° de longitude oeste.",
+   "enunciado": "Esse ponto está situado:",
+   "alternativas": {
+    "a": "ao sul da linha do equador e a oeste do meridiano de Greenwich",
+    "b": "ao norte da linha do equador e a leste do meridiano de Greenwich",
+    "c": "sobre a linha do equador e a oeste do meridiano de Greenwich",
+    "d": "ao sul da linha do equador e a leste do meridiano de Greenwich",
+    "e": "ao sul da linha do equador e sobre o meridiano de Greenwich, já que a longitude indicada mede a distância angular contada a partir da linha do equador em direção ao polo"
+   },
+   "resposta": "a",
+   "explicacao": "Num mapa, a latitude é lida na moldura vertical e conta o afastamento em relação à linha do equador, de 0° a 90°; a longitude é lida na moldura horizontal e conta o afastamento em relação ao meridiano de Greenwich, de 0° a 180°. O par 23°S e 46°O situa o ponto a sudoeste dessas duas origens — são, aproximadamente, as coordenadas de São Paulo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-521",
+   "texto_apoio": "A latitude é contada da linha do equador para os polos e a longitude, do meridiano de Greenwich para leste e para oeste.",
+   "enunciado": "Entre os pares abaixo, o que não pode corresponder a um ponto da superfície do planeta é:",
+   "alternativas": {
+    "a": "90° de latitude sul e 0° de longitude",
+    "b": "100° de latitude norte e 20° de longitude leste",
+    "c": "0° de latitude e 180° de longitude",
+    "d": "45° de latitude norte e 179° de longitude oeste",
+    "e": "23°27' de latitude sul e 46°38' de longitude oeste, par que reúne graus e minutos na mesma notação"
+   },
+   "resposta": "b",
+   "explicacao": "A latitude vai de 0° na linha do equador a 90° em cada polo, e não passa disso: 100° de latitude não existe. Já a longitude vai de 0° a 180° para cada lado, de modo que 179°O e 180° são valores legítimos, e a notação em graus e minutos é a forma corrente de escrever coordenadas geográficas num mapa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-522",
+   "texto_apoio": "O meridiano de Greenwich, fixado em 1884 como origem das longitudes, tem por antimeridiano a linha dos 180°, por onde corre, com alguns desvios, a Linha Internacional de Data.",
+   "enunciado": "Ao cruzar essa linha viajando de leste para oeste, um viajante deve:",
+   "alternativas": {
+    "a": "atrasar a data em um dia, porque a leste dessa linha o dia já havia terminado",
+    "b": "somar doze horas ao relógio, sem alterar a data registrada",
+    "c": "manter a data e a hora, uma vez que a Linha Internacional de Data marca apenas o limite entre os dois hemisférios definidos pelo meridiano de Greenwich e não interfere na contagem dos dias",
+    "d": "subtrair uma hora a cada grau de longitude percorrido",
+    "e": "avançar a data em um dia, ajustando a hora ao fuso de destino"
+   },
+   "resposta": "e",
+   "explicacao": "Num mapa dos fusos horários, a contagem dos dias precisa quebrar em algum lugar, e esse lugar é o antimeridiano de Greenwich. Quem viaja para oeste e cruza a linha pula para o dia seguinte; quem viaja para leste repete o dia. A hora do relógio, essa, é ajustada ao fuso de destino, e não por grau percorrido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-523",
+   "texto_apoio": "Um estudante situado numa localidade do fuso GMT-3 marca 10h da manhã no relógio e liga para outra localidade, situada no fuso GMT+1.",
+   "enunciado": "No momento da ligação, o relógio da segunda localidade marca:",
+   "alternativas": {
+    "a": "6h",
+    "b": "13h",
+    "c": "14h",
+    "d": "7h",
+    "e": "18h30"
+   },
+   "resposta": "c",
+   "explicacao": "A diferença entre os dois fusos é 1 − (−3) = 4 horas, e o destino está a leste, portanto adiantado: 10h + 4h = 14h. Num mapa dos fusos horários fica visível a razão de somar em vez de subtrair — o Sol nasce primeiro a leste, e cada 15° de longitude valem uma hora.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-524",
+   "texto_apoio": "Um voo parte de Tóquio, no fuso GMT+9, às 10h de um domingo, e leva 10 horas de percurso até chegar a Los Angeles, no fuso GMT-8.",
+   "enunciado": "No momento do desembarque, o relógio local marca:",
+   "alternativas": {
+    "a": "3h da segunda-feira",
+    "b": "20h do mesmo domingo",
+    "c": "5h da segunda-feira",
+    "d": "3h do mesmo domingo",
+    "e": "11h do mesmo domingo, hora idêntica à de partida"
+   },
+   "resposta": "d",
+   "explicacao": "Convém passar pelo tempo universal: 10h de domingo em GMT+9 são 1h de domingo em GMT. Somadas as 10 horas de voo, chega-se às 11h de domingo em GMT, que no fuso GMT-8 são 3h da manhã do mesmo domingo. O passageiro desembarca antes da hora em que partiu porque cruzou a Linha Internacional de Data para leste, repetindo parte do dia — um mapa dos fusos horários torna o salto visível.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-525",
+   "texto_apoio": "O planeta completa um giro de 360° em cerca de 24 horas.",
+   "enunciado": "Dois pontos separados por 60° de longitude apresentam entre si uma diferença de:",
+   "alternativas": {
+    "a": "2 horas",
+    "b": "4 horas",
+    "c": "6 horas",
+    "d": "1 hora",
+    "e": "24 minutos"
+   },
+   "resposta": "b",
+   "explicacao": "Dividindo, 360° ÷ 24 h = 15° por hora — é essa a largura de cada um dos fusos horários no mapa. Logo 60° ÷ 15° = 4 horas de diferença. Quem divide 60 por 24, ou 24 por 60, chega aos valores oferecidos como distratores.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-526",
+   "texto_apoio": "Na rede de coordenadas geográficas impressa num mapa, paralelos e meridianos têm propriedades geométricas distintas.",
+   "enunciado": "Sobre essa rede, é correto afirmar que:",
+   "alternativas": {
+    "a": "os meridianos diminuem de comprimento em direção aos polos e os paralelos mantêm a mesma extensão entre si, razão pela qual a distância correspondente a um grau de longitude permanece constante da linha do equador até as regiões polares",
+    "b": "paralelos e meridianos são circunferências de mesmo raio, o que torna equivalente medir latitude ou longitude",
+    "c": "os paralelos indicam a longitude e os meridianos indicam a latitude de um ponto",
+    "d": "a distância entre dois paralelos consecutivos aumenta em direção à linha do equador",
+    "e": "os paralelos diminuem de comprimento em direção aos polos, enquanto os meridianos têm comprimento igual entre si"
+   },
+   "resposta": "e",
+   "explicacao": "O maior dos paralelos é a linha do equador; os demais encolhem até virar um ponto em cada polo. Os meridianos, por sua vez, são semicircunferências de mesma extensão, que se encontram nos dois polos. Daí um grau de longitude valer cerca de 111 km na linha do equador e quase nada perto do polo, enquanto um grau de latitude vale sempre por volta de 111 km.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-527",
+   "texto_apoio": "Numa carta topográfica, a curva de nível é traçada com equidistância de 20 m. Um caminho liga o ponto A, situado exatamente sobre a curva de 120 m, ao ponto B, situado exatamente sobre a curva de 200 m.",
+   "enunciado": "Entre A e B, o desnível vencido e o número de curvas intermediárias cruzadas são, respectivamente:",
+   "alternativas": {
+    "a": "80 m e 4 curvas",
+    "b": "20 m e 3 curvas",
+    "c": "80 m e 3 curvas",
+    "d": "320 m e 4 curvas",
+    "e": "200 m e 3 curvas, porque a equidistância indica a altitude absoluta do ponto mais alto do percurso"
+   },
+   "resposta": "c",
+   "explicacao": "O desnível é a diferença entre as duas altitudes: 200 − 120 = 80 m. Como a equidistância é de 20 m, entre as curvas de 120 e 200 estão as de 140, 160 e 180 — três curvas intermediárias, e não quatro, porque as curvas dos extremos não são cruzadas, e sim ocupadas. Ler a equidistância como altitude absoluta é o erro que o mapa mais cobra nesse tipo de leitura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-528",
+   "texto_apoio": "Numa carta topográfica, o traçado da curva de nível se adensa na porção leste da folha e se espaça bastante na porção oeste.",
+   "enunciado": "Essa diferença de espaçamento indica que:",
+   "alternativas": {
+    "a": "a leste o terreno é mais inclinado, e a oeste a inclinação é suave",
+    "b": "a leste o terreno é mais plano, porque curvas próximas umas das outras indicam que a altitude varia pouco ao longo de uma distância grande medida sobre a superfície representada",
+    "c": "a leste a altitude absoluta é menor do que a oeste",
+    "d": "a diferença de espaçamento decorre da escala numérica adotada, e não da inclinação do terreno",
+    "e": "a oeste o terreno é mais inclinado, e a leste ocorre um patamar"
+   },
+   "resposta": "a",
+   "explicacao": "Cada curva marca a mesma diferença de altitude. Se elas aparecem coladas, muitos metros de altitude são vencidos em poucos metros de distância no terreno — logo, a inclinação é forte. Espaçadas, o mesmo desnível se distribui por uma distância longa, e a inclinação é suave. O espaçamento nada diz sobre a altitude absoluta, que se lê no valor impresso em cada curva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-529",
+   "texto_apoio": "Para desenhar o perfil topográfico ao longo de uma linha traçada sobre um mapa com curva de nível de 50 em 50 metros, um estudante marca num gráfico a distância no eixo horizontal e a altitude no eixo vertical.",
+   "enunciado": "Nesse procedimento, cada ponto do gráfico é obtido:",
+   "alternativas": {
+    "a": "pela média das altitudes registradas na legenda, uma vez que o perfil topográfico representa a altitude média da porção mapeada e não a sucessão de altitudes ao longo da linha escolhida",
+    "b": "pela medida da distância entre duas curvas consecutivas, convertida em altitude pela escala numérica",
+    "c": "pela leitura da latitude de cada ponto sobre a moldura da folha",
+    "d": "pela contagem das curvas fechadas, que assinalam depressões do terreno",
+    "e": "no cruzamento da linha traçada com cada curva de nível, transportando para o eixo vertical a altitude que a curva indica"
+   },
+   "resposta": "e",
+   "explicacao": "O perfil topográfico é uma transposição direta: onde a linha corta uma curva de nível, sabe-se a distância percorrida e a altitude naquele ponto, e o par vira uma marca no gráfico. Unidas as marcas, aparece o corte vertical do terreno. Nada ali é média — o perfil mostra justamente a variação que uma média apagaria.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-530",
+   "texto_apoio": "Num mapa com equidistância de 10 m entre uma curva de nível e a seguinte, o ponto P está situado entre a curva de 340 m e a curva imediatamente acima dela. A folha traz ainda, numa elevação próxima, um ponto cotado de 356 m.",
+   "enunciado": "Sobre a altitude de P, é correto afirmar que:",
+   "alternativas": {
+    "a": "é exatamente 340 m",
+    "b": "está entre 340 m e 350 m",
+    "c": "é exatamente 356 m",
+    "d": "está entre 350 m e 360 m",
+    "e": "está entre 340 m e 356 m, porque o ponto cotado marca a altitude máxima admitida para o conjunto da porção representada na folha"
+   },
+   "resposta": "b",
+   "explicacao": "Estar entre duas curvas define um intervalo, não um valor: P está acima de 340 m e abaixo da curva seguinte, que a equidistância de 10 m coloca em 350 m. O ponto cotado de 356 m informa a altitude de um lugar específico — em geral o topo de uma elevação — e não limita as altitudes do restante do mapa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-531",
+   "texto_apoio": "Num mapa na escala 1:25.000, dois pontos estão separados por 8 cm medidos na horizontal. O primeiro está sobre a curva de nível de 300 m e o segundo, sobre a de 400 m.",
+   "enunciado": "A declividade média do trecho entre esses dois pontos é de:",
+   "alternativas": {
+    "a": "0,5%",
+    "b": "50%",
+    "c": "12,5%",
+    "d": "5%",
+    "e": "2,5%"
+   },
+   "resposta": "d",
+   "explicacao": "Primeiro a distância horizontal real: 8 × 25.000 = 200.000 cm, ou 2.000 m. Depois o desnível: 400 − 300 = 100 m. A declividade é a razão entre os dois, 100 ÷ 2.000 = 0,05, ou 5%. Esquecer de converter a medida do papel pela escala numérica, ou trocar a ordem da divisão, gera cada um dos demais valores.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-532",
+   "texto_apoio": "Um satélite em órbita registra a energia refletida pela superfície em diferentes faixas do espectro e envia os dados a uma estação em terra, onde a imagem de satélite é tratada e convertida em mapa.",
+   "enunciado": "Essa forma de obter informação sobre a superfície, sem contato físico com o alvo, chama-se:",
+   "alternativas": {
+    "a": "sensoriamento remoto",
+    "b": "levantamento de campo com trena e nível de bolha",
+    "c": "aerofotogrametria feita a partir de balão cativo",
+    "d": "cadastro predial preenchido por declaração de quem ocupa o imóvel",
+    "e": "geoprocessamento, nome que designa a captação de dados por sensores instalados a bordo de satélites e aeronaves, e não o tratamento posterior desses dados em camadas sobrepostas"
+   },
+   "resposta": "a",
+   "explicacao": "Sensoriamento remoto é a captação de informação a distância, sem tocar o alvo — é o que fazem o satélite e a aeronave equipada com sensor. Geoprocessamento é a etapa seguinte, o tratamento e o cruzamento desses dados em camadas. Confundir as duas é o deslize mais comum nesse assunto, e as bancas cobram exatamente o limite entre uma etapa e outra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-533",
+   "texto_apoio": "Um analista compara duas versões de uma imagem de satélite do mesmo trecho da superfície: na primeira, cada pixel corresponde a um quadrado de 30 m de lado no terreno; na segunda, a um quadrado de 1 m de lado.",
+   "enunciado": "Comparada à primeira, a segunda versão:",
+   "alternativas": {
+    "a": "tem resolução espacial mais grosseira, porque o valor em metros associado a cada pixel é menor e, por isso, a quantidade de detalhe registrada por unidade de área diminui na mesma proporção",
+    "b": "cobre uma extensão maior da superfície com o mesmo número de pixels",
+    "c": "tem resolução espacial mais fina e permite identificar objetos que a primeira dilui num único pixel",
+    "d": "difere da primeira apenas na quantidade de cores registradas",
+    "e": "tem a mesma resolução espacial, mudando só a escala gráfica usada na impressão"
+   },
+   "resposta": "c",
+   "explicacao": "Resolução espacial é o tamanho, no terreno, do menor elemento que a imagem distingue. Quanto menor esse tamanho, mais fina a resolução: com 1 m por pixel dá para separar um telhado de um pátio, o que 30 m por pixel misturam num único valor. A contrapartida é o volume de dados, muito maior na imagem detalhada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-534",
+   "texto_apoio": "Um receptor de GPS calcula a própria posição medindo o tempo que o sinal leva para chegar de cada satélite; com o sinal de quatro satélites, obtém latitude, longitude e altitude.",
+   "enunciado": "O princípio geométrico em que se apoia esse cálculo é:",
+   "alternativas": {
+    "a": "a triangulação por ângulos medidos entre pontos visíveis do terreno",
+    "b": "a nivelação geométrica feita com mira e nível de bolha",
+    "c": "a interpolação entre a curva de nível mais próxima e o ponto cotado",
+    "d": "a projeção cônica conforme, cujo cálculo converte a distância medida até cada satélite na coordenada geográfica correspondente sem depender do tempo de percurso do sinal",
+    "e": "a trilateração, que localiza o receptor no cruzamento de esferas de raio conhecido"
+   },
+   "resposta": "e",
+   "explicacao": "Cada satélite informa uma distância, e uma distância conhecida define uma esfera de posições possíveis em torno dele. Três esferas se cruzam num ponto; a quarta medida corrige o relógio do receptor, que não é atômico. Por isso é trilateração — medida de distâncias — e não triangulação, que trabalha com ângulos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-535",
+   "texto_apoio": "Numa base de geoprocessamento, um analista pede a seleção dos imóveis situados a menos de 500 m de uma estação de metrô, cruzando a camada dos imóveis com a camada das estações.",
+   "enunciado": "A operação que gera a faixa de 500 m em torno de cada estação, usada nesse cruzamento, é conhecida como:",
+   "alternativas": {
+    "a": "generalização, que simplifica o traçado das feições ao reduzir a escala",
+    "b": "área de influência, ou buffer, traçada em torno de um elemento da camada",
+    "c": "georreferenciamento, que atribui coordenadas conhecidas a uma imagem de satélite",
+    "d": "classificação supervisionada, que agrupa pixels a partir de amostras de treino",
+    "e": "anamorfose, operação que deforma a área de cada polígono da camada em proporção à distância que o separa da estação mais próxima"
+   },
+   "resposta": "b",
+   "explicacao": "O buffer, ou área de influência, é a faixa de largura fixa desenhada em torno de um ponto, de uma linha ou de um polígono; cruzada com outra camada, ela responde a perguntas de vizinhança como a do enunciado. É uma das operações mais usadas num mapa produzido por Sistema de Informação Geográfica, ao lado da sobreposição e do recorte.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-536",
+   "texto_apoio": "Num mapa do país, cada unidade da federação aparece com a área deformada para ficar proporcional ao número de eleitores, e não à sua extensão real: unidades pequenas e muito povoadas incham, e unidades extensas e pouco povoadas encolhem.",
+   "enunciado": "Essa forma de representação é chamada:",
+   "alternativas": {
+    "a": "anamorfose, ou cartograma, em que a área desenhada traduz o valor de uma variável",
+    "b": "mapa de coropletas, em que classes de valor são traduzidas em tons de cor",
+    "c": "mapa de fluxos, em que setas de espessura variável ligam origem e destino",
+    "d": "carta com curva de nível, em que linhas unem os pontos de mesma altitude",
+    "e": "projeção equivalente, que conserva a proporção entre as áreas desenhadas e as áreas reais da superfície e por isso deforma o contorno das unidades representadas"
+   },
+   "resposta": "a",
+   "explicacao": "Na anamorfose o desenho abandona a fidelidade geométrica para ganhar em eloquência: quem olha vê imediatamente onde está o peso do dado escolhido. O preço é o reconhecimento — o contorno familiar do país se desfaz, e sem legenda o leitor se perde. Não confundir com a projeção equivalente, que conserva as áreas reais.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-537",
+   "texto_apoio": "Um mesmo dado — o número de matrículas escolares por município — é representado de duas formas. Na primeira, cada município é pintado com um tom de cor conforme a classe de valor em que se enquadra; na segunda, sobre cada município é desenhado um círculo de tamanho proporcional ao valor.",
+   "enunciado": "As duas formas correspondem, respectivamente, a:",
+   "alternativas": {
+    "a": "mapa de fluxos e anamorfose",
+    "b": "anamorfose e mapa de coropletas",
+    "c": "mapa de coropletas e mapa de símbolos proporcionais",
+    "d": "carta com curva de nível e mapa de fluxos",
+    "e": "mapa de fluxos e mapa de coropletas, pois círculos de tamanho variável desenhados sobre a área de cada município constituem a definição corrente de mapa de fluxos"
+   },
+   "resposta": "c",
+   "explicacao": "Coropletas pintam áreas inteiras segundo classes de valor e por isso pedem dados relativos, como taxas — pintar valores absolutos faz o município grande parecer sempre mais intenso. Símbolos proporcionais desenham figuras de tamanho variável sobre cada área e aceitam bem valores absolutos. Mapa de fluxos é outra coisa: liga origem e destino por setas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "geografia-cartografia",
+   "id": "med-geografia-538",
+   "texto_apoio": "Ao entregar um mapa temático, um estudante apresenta apenas o desenho colorido dos municípios, sem nenhuma outra informação na folha.",
+   "enunciado": "Para que a leitura de mapa se torne possível, faltam nessa folha, entre outros elementos:",
+   "alternativas": {
+    "a": "a assinatura do autor e a data da impressão",
+    "b": "a moldura decorativa e a numeração das páginas",
+    "c": "a curva de nível e o perfil topográfico, elementos exigidos em folha de mapa temático seja qual for o dado representado",
+    "d": "título, legenda, escala e indicação de orientação",
+    "e": "a projeção de Mercator e a rede de meridianos, sem as quais o dado não pode ser lido"
+   },
+   "resposta": "d",
+   "explicacao": "Sem título não se sabe o que está representado; sem legenda, o que cada cor significa; sem escala, o tamanho do que se vê; sem orientação, para onde aponta o desenho. Esses quatro elementos, somados à indicação da fonte do dado, formam o mínimo de um mapa temático. Curva de nível e projeção nomeada são exigências de outros tipos de carta, não desse.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "filosofia-politica": [
@@ -90447,6 +95368,40 @@ window.QUESTION_BANKS = {
    "explicacao": "A genealogia não pergunta o que é o bem, e sim quem chamou o quê de bem, e por quê. Ao exibir a origem histórica da avaliação, Nietzsche retira dela a aparência de dado natural — e o alvo não é a conduta decente, é a pretensão de que a distinção entre certo e errado valha para sempre.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "filosofia-etica-moral",
+   "id": "med-filosofia-sociologia-345",
+   "texto_apoio": "“Age apenas segundo aquela máxima que possas querer que se torne uma lei universal.” (Immanuel Kant, 1785)",
+   "enunciado": "Essa formulação do imperativo categórico caracteriza a ética kantiana porque ela:",
+   "alternativas": {
+    "a": "condiciona o valor moral do ato ao proveito que ele traz a quem o pratica",
+    "b": "transfere a decisão sobre o que é correto à autoridade religiosa encarregada de interpretar os mandamentos, à qual o agente deve submeter o próprio juízo antes de agir",
+    "c": "avalia a conduta pela forma da regra que a orienta, e não pelos resultados agradáveis que venha a produzir",
+    "d": "reduz o dever moral ao costume vigente na comunidade em que o agente vive",
+    "e": "faz depender a obrigação moral do cálculo do prazer que a ação distribui"
+   },
+   "resposta": "c",
+   "explicacao": "A ética de Kant julga o ato pela máxima que o orienta: correto é aquilo cuja regra o agente poderia querer ver adotada por todos sem contradição. Daí o dever moral aparecer como imperativo categórico, que obriga incondicionalmente, e não como conselho de prudência dependente do fim desejado. A autonomia da vontade está em o sujeito dar a si mesmo a lei que segue. As demais alternativas descrevem éticas heterônomas, que buscam o critério fora do agente (autoridade, costume), ou consequencialistas, que o buscam no efeito da ação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "filosofia-etica-moral",
+   "id": "med-filosofia-sociologia-346",
+   "texto_apoio": "“A doutrina da utilidade sustenta que as ações são corretas na medida em que tendem a promover a felicidade, e erradas quando tendem a produzir o contrário da felicidade.” (John Stuart Mill, 1863)",
+   "enunciado": "Um dilema ético classicamente levantado contra o utilitarismo consiste em observar que essa doutrina:",
+   "alternativas": {
+    "a": "admite, em situações-limite, sacrificar o interesse de poucos quando isso eleva o bem-estar do conjunto",
+    "b": "recusa a comparação entre os efeitos de condutas diferentes",
+    "c": "estabelece que a correção de um ato depende apenas da intenção declarada por quem o pratica, de modo que os efeitos sobre terceiros ficariam fora do exame moral que ela propõe",
+    "d": "identifica o bem com o cumprimento de mandamentos revelados",
+    "e": "abandona a ideia de que a felicidade tenha peso na avaliação da conduta"
+   },
+   "resposta": "a",
+   "explicacao": "O utilitarismo de Bentham e de Stuart Mill mede a correção da ação por suas consequências, tomando como critério a maior felicidade do maior número. A objeção mais conhecida é a de que esse cálculo agregado, por somar bem e mal de pessoas distintas num saldo único, pode tornar defensável prejudicar um grupo pequeno em nome de um ganho maior distribuído. É esse ponto que separa a ética utilitarista das éticas do dever, para as quais há obrigações que o saldo favorável não dispensa.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "sociologia-trabalho-classes": [
@@ -91556,6 +96511,39 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Abolir sem reparar deixou os libertos sem terra, sem escola e sem crédito, ao mesmo tempo em que o imigrante subsidiado ocupava as vagas do café e barateava a força de trabalho disponível. A desigualdade social que se lê hoje nos dados de renda e ocupação tem aí uma de suas origens documentadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-trabalho-classes",
+   "id": "med-filosofia-sociologia-347",
+   "enunciado": "Na análise de Marx, a mais-valia designa:",
+   "alternativas": {
+    "a": "o lucro obtido pelo comerciante ao vender acima do preço de tabela",
+    "b": "a diferença entre o salário nominal e o salário real, medida que os economistas obtêm ao comparar o poder de compra dos rendimentos em dois momentos distintos do tempo",
+    "c": "o imposto recolhido sobre a folha de pagamento das empresas industriais",
+    "d": "a parte da jornada de trabalho não paga ao trabalhador, apropriada pelo dono dos meios de produção",
+    "e": "o valor que o proprietário adianta na compra de máquinas e de matérias-primas"
+   },
+   "resposta": "d",
+   "explicacao": "Para Marx, a força de trabalho é uma mercadoria peculiar: seu uso produz mais valor do que custa para ser reposta. A jornada divide-se em tempo de trabalho necessário, que equivale ao salário, e tempo de trabalho excedente, cujo produto fica com o proprietário dos meios de produção. Essa fração não paga é a mais-valia, base da acumulação no capitalismo e da leitura que opõe burguesia e proletariado como classes sociais definidas pelo lugar que ocupam na produção, e não pela renda que recebem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-trabalho-classes",
+   "id": "med-filosofia-sociologia-348",
+   "texto_apoio": "Nas plataformas de entrega e de transporte por aplicativo, quem dirige ou pedala é tratado como parceiro autônomo: não há vínculo formal, o pagamento é por tarefa cumprida e a jornada se estende conforme a necessidade de renda.",
+   "enunciado": "O processo descrito é analisado pela sociologia do trabalho como:",
+   "alternativas": {
+    "a": "retorno ao artesanato, com o produtor recuperando o controle do ritmo e do destino do que produz",
+    "b": "uberização, forma de precarização em que o risco e o custo da atividade passam ao próprio trabalhador",
+    "c": "expansão do emprego formal, uma vez que a intermediação eletrônica das tarefas costuma vir acompanhada da assinatura de contratos com jornada fixa e previsão de férias remuneradas",
+    "d": "aplicação do fordismo clássico, com esteira, posto fixo e supervisão presencial",
+    "e": "extinção da divisão do trabalho nas atividades urbanas de serviços"
+   },
+   "resposta": "b",
+   "explicacao": "A uberização combina autonomia aparente e controle efetivo: a plataforma distribui as tarefas e define o preço, enquanto o veículo, a manutenção, o combustível e o tempo de espera correm por conta de quem executa o serviço. É um caso de precarização e de reestruturação produtiva: o vínculo assalariado cede lugar ao trabalho por plataforma, sem os direitos que a relação de emprego assegurava. O fordismo, ao contrário, supunha posto fixo, jornada delimitada e contrato estável, e a divisão do trabalho não desaparece, apenas muda de forma.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -92670,6 +97658,40 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O bem opera como sinal: o que se compra é a diferença em relação a quem não pode comprá-lo. Bourdieu mostra que o gosto legítimo funciona assim em muitos campos — parece escolha pessoal e organiza, na prática, fronteiras culturais entre grupos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-349",
+   "texto_apoio": "Ao descrever um povo cujos hábitos alimentares e formas de casamento diferiam dos seus, um viajante europeu do século XIX classificou-o como “atrasado” e “sem civilização”.",
+   "enunciado": "Do ponto de vista da antropologia, o juízo desse viajante é exemplo de:",
+   "alternativas": {
+    "a": "difusionismo, explicação corrente para a propagação de invenções entre povos vizinhos",
+    "b": "relativismo cultural, atitude que procura compreender uma prática a partir do sistema de significados em que ela ganha sentido dentro do grupo que a mantém, sem hierarquizá-la de antemão",
+    "c": "aculturação, processo de contato prolongado entre grupos de repertórios distintos",
+    "d": "endogamia, regra que restringe o casamento ao interior do próprio grupo",
+    "e": "etnocentrismo, avaliação de outra cultura pelos valores da própria, tomados como medida do que seria civilizado"
+   },
+   "resposta": "e",
+   "explicacao": "Etnocentrismo é o hábito de julgar a diversidade cultural pela régua do próprio grupo, convertendo diferença em atraso. A antropologia opõe-lhe o relativismo cultural, que não significa abster-se de julgar, e sim descrever a prática no interior do sistema simbólico que lhe dá sentido. No caso descrito, a identidade cultural do observador funcionou como critério de classificação do outro, e por isso o relato diz tanto sobre quem escreve quanto sobre quem é descrito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-350",
+   "texto_apoio": "Para Adorno e Horkheimer, os bens culturais fabricados em série apresentam-se ao público como diversão e, ao mesmo tempo, como padronização: o que muda de um produto para o outro é a embalagem, não o esquema.",
+   "enunciado": "A crítica formulada pela Escola de Frankfurt sustenta que a indústria cultural:",
+   "alternativas": {
+    "a": "apaga a distinção entre arte erudita e arte popular ao financiar as duas em igual medida",
+    "b": "converte a experiência estética em consumo padronizado, moldando de antemão a reação do público",
+    "c": "amplia a autonomia do espectador diante das obras, na medida em que a reprodução técnica coloca ao seu alcance um repertório de bens culturais antes reservado a um público restrito",
+    "d": "descreve a mídia como instância neutra de transmissão de conteúdos",
+    "e": "restringe-se ao estudo das artes plásticas produzidas na Alemanha"
+   },
+   "resposta": "b",
+   "explicacao": "Adorno e Horkheimer chamam de indústria cultural o setor que fabrica bens simbólicos segundo o padrão da produção em série. A cultura de massa daí resultante oferece variação aparente e repetição de fundo, o que antecipa e domestica a resposta de quem consome. A mídia, nessa leitura, não é canal neutro: participa da mercantilização da cultura. A alternativa que fala em ampliar a autonomia do espectador corresponde a outra vertente do debate, ligada a Walter Benjamin e à aposta emancipadora na reprodutibilidade técnica.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -98357,6 +103379,720 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Um princípio central da restauração de bens tombados é permitir distinguir o que é original do que foi acrescentado na intervenção, para não fabricar uma falsa antiguidade nem apagar a história do próprio processo de restauro. As demais opções descrevem práticas que comprometem a autenticidade do bem, contrariando esse princípio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-347",
+   "texto_apoio": "A Constituição de 1988 reconheceu como patrimônio cultural brasileiro tanto os bens de natureza material — conjuntos edificados, sítios, objetos — quanto os de natureza imaterial: os modos de fazer, de celebrar e as formas de expressão de cada grupo social.",
+   "enunciado": "A distinção entre bem material e bem imaterial, na política brasileira de patrimônio, apoia-se em:",
+   "alternativas": {
+    "a": "a natureza do bem protegido: o material se conserva na matéria que o forma, e o imaterial depende de gente que continue praticando o saber tradicional",
+    "b": "a idade do bem, sendo material o anterior ao século XIX e imaterial o posterior a ele",
+    "c": "o órgão responsável, cabendo ao município o bem material e à União o bem imaterial",
+    "d": "o custo de conservação, mais alto no bem imaterial do que no bem material",
+    "e": "o grau de beleza reconhecido pelos especialistas, critério que separaria os bens dignos de proteção daqueles cuja forma não alcançaria o padrão exigido pelas comissões técnicas encarregadas de examinar cada pedido de reconhecimento"
+   },
+   "resposta": "a",
+   "explicacao": "O texto constitucional não hierarquiza os dois conjuntos: ele reconhece que parte do patrimônio cultural existe apenas enquanto é praticada. Um casario tombado sobrevive ao abandono por décadas; um ofício deixa de existir na primeira geração que não o aprende. É essa diferença que explica por que o instrumento do bem imaterial é o registro, e não o tombamento.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-348",
+   "texto_apoio": "Criado em 1937, o IPHAN nasceu com a atribuição de inscrever bens em livros de tombo. Durante décadas, quase tudo o que entrou nesses livros era de pedra e cal, e sobretudo de origem colonial e religiosa.",
+   "enunciado": "A crítica que se faz hoje a esse primeiro momento da política brasileira de patrimônio sustenta que:",
+   "alternativas": {
+    "a": "o número de bens inscritos foi pequeno demais para justificar a criação do órgão federal",
+    "b": "a escolha do que se tomba é uma decisão política, e o recorte inicial deixou de fora a cultura popular, os terreiros e os bens das populações negras e indígenas",
+    "c": "os livros de tombo deveriam ter sido substituídos por um cadastro eletrônico já naquele período",
+    "d": "a proteção legal reduziu o valor de mercado dos imóveis atingidos pela medida",
+    "e": "o instituto agiu fora de sua competência ao proteger bens de propriedade privada, prática que teria sido corrigida apenas com a redação do texto constitucional promulgado ao fim do regime militar brasileiro"
+   },
+   "resposta": "b",
+   "explicacao": "Tombar é escolher, e escolher é excluir. O recorte de pedra e cal produziu uma imagem do país feita de igrejas e casarões, na qual a cultura popular, o candomblé e a arte indígena não cabiam. O registro do patrimônio imaterial, criado em 2000, é a resposta institucional a essa lacuna — e a razão de o Ofício das Baianas e o jongo terem entrado só depois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-349",
+   "texto_apoio": "O Ofício das Baianas de Acarajé foi registrado em 2005 como patrimônio cultural imaterial brasileiro. O bem protegido não é o tabuleiro nem a receita, mas o conjunto de gestos, roupas, rezas e regras de aprendizado que fazem uma baiana ser reconhecida como tal por sua comunidade.",
+   "enunciado": "O que esse registro efetivamente protege é:",
+   "alternativas": {
+    "a": "a marca comercial do acarajé, impedindo que outros estabelecimentos o vendam",
+    "b": "o prédio onde funciona a associação das baianas na cidade de Salvador",
+    "c": "o saber tradicional transmitido entre gerações, com o vínculo entre o quitute, o candomblé e a rua",
+    "d": "a fórmula química do azeite de dendê empregado na fritura da massa",
+    "e": "o direito de as praticantes cobrarem um preço mínimo fixado pelo poder público municipal, medida de proteção econômica que acompanharia o reconhecimento cultural concedido pelo instituto federal responsável pelo tema"
+   },
+   "resposta": "c",
+   "explicacao": "O registro é instrumento de continuidade, não de congelamento: ele documenta e apoia a prática viva, e por isso exige revalidação periódica. Se o saber tradicional deixar de ser praticado, não sobra o que preservar. Reconhecer o ofício é também reconhecer a raiz afro-brasileira que o sustenta, contra a leitura que o reduz a comércio de rua.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-350",
+   "texto_apoio": "A roda de capoeira e o ofício dos mestres de capoeira foram registrados pelo IPHAN em 2008, e em 2014 a UNESCO inscreveu a roda em sua lista do patrimônio cultural imaterial da humanidade. A prática, que já figurou como crime no Código Penal de 1890, tornou-se bem protegido pelo Estado.",
+   "enunciado": "A trajetória da capoeira, de contravenção a bem registrado, ilustra que:",
+   "alternativas": {
+    "a": "o valor cultural de uma prática é definido por sua antiguidade comprovada em documentos",
+    "b": "a repressão penal a práticas culturais deixou de existir no país depois de 1888",
+    "c": "o reconhecimento internacional antecede, em regra, o reconhecimento feito pelo próprio país",
+    "d": "o que o Estado reconhece como patrimônio cultural muda conforme a disputa política, e práticas antes criminalizadas podem ser incorporadas à identidade nacional",
+    "e": "a inscrição em lista internacional transfere ao organismo estrangeiro a responsabilidade pela salvaguarda do bem, cabendo ao país signatário apenas informar periodicamente o número de praticantes registrados em seu território"
+   },
+   "resposta": "d",
+   "explicacao": "A mesma prática foi perseguida e depois celebrada sem que a roda se alterasse: o que se transformou foi quem tem poder de dizer o que conta como cultura. É por isso que o patrimônio se lê como escolha política, e não como qualidade natural do objeto — e por isso o ofício dos mestres de capoeira entra no livro dos saberes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-351",
+   "texto_apoio": "O jongo do Sudeste, registrado como patrimônio imaterial em 2005, é prática de terreiro herdeira dos povos bantos trazidos escravizados para o vale do Paraíba. Seus versos, chamados pontos, são entoados em linguagem cifrada, cheia de palavras que só os jongueiros mais velhos decifram por inteiro.",
+   "enunciado": "A linguagem cifrada dos pontos de jongo se explica historicamente porque:",
+   "alternativas": {
+    "a": "os jongueiros desconheciam a língua portuguesa e improvisavam palavras sem sentido fixo",
+    "b": "o registro pelo IPHAN exigiu a criação de um código próprio para identificar o bem",
+    "c": "os versos foram compostos por poetas letrados da corte imperial e depois adotados pelas comunidades negras rurais, que teriam preservado a forma original sem compreender o sentido das palavras usadas",
+    "d": "a cifra foi introduzida no século XX por pesquisadores de folclore interessados no efeito literário",
+    "e": "sob a escravidão, dizer o que se pensava exigia disfarce, e o enigma virou parte do saber tradicional transmitido dentro da comunidade negra"
+   },
+   "resposta": "e",
+   "explicacao": "A cifra não é ornamento: é herança de um contexto em que a palavra direta custava caro ao escravizado. Registrar o jongo como patrimônio imaterial protege, junto com os pontos, a memória coletiva das comunidades que os guardam — o que inclui o direito de não revelar tudo ao pesquisador.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-352",
+   "texto_apoio": "Ouro Preto foi o primeiro bem brasileiro inscrito na lista da UNESCO, em 1980. A cidade conserva o conjunto colonial erguido com o ouro extraído por pessoas escravizadas, cujo trabalho aparece pouco nas placas e nos percursos oferecidos ao visitante.",
+   "enunciado": "A crítica recente a esse tipo de inscrição costuma apontar que:",
+   "alternativas": {
+    "a": "o conjunto conservado narra a história de quem mandou construir, e a preservação cultural tende a apagar o trabalho escravizado que o ergueu",
+    "b": "a inscrição internacional impede o município de arrecadar impostos sobre os imóveis protegidos",
+    "c": "o título internacional obriga a demolição dos prédios erguidos depois do século XVIII",
+    "d": "o tombamento federal deixa de valer quando existe reconhecimento internacional do mesmo bem",
+    "e": "o reconhecimento mundial atrai visitantes em número suficiente para custear integralmente a manutenção do casario histórico, dispensando o repasse de verbas públicas municipais, estaduais e federais para as obras de conservação"
+   },
+   "resposta": "a",
+   "explicacao": "Preservar é narrar. O casario de Ouro Preto é patrimônio material inegável, mas o mesmo sítio guarda o rastro de uma escravidão que raramente aparece na sinalização — inclusive o das irmandades negras que sustentaram as festas do Rosário, das quais descende a congada. A crítica não pede que se derrube o conjunto: pede que a memória social dos escravizados entre no relato.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-353",
+   "texto_apoio": "O Parque Nacional Serra da Capivara, no sudeste do Piauí, guarda milhares de sítios com pinturas rupestres e é patrimônio mundial desde 1991. As figuras, feitas em paredões de arenito, mostram caçadas, festas e situações de convívio de grupos que viveram ali há mais de dez mil anos.",
+   "enunciado": "Tratar essas figuras como patrimônio cultural, e não apenas como achado arqueológico, implica reconhecer que:",
+   "alternativas": {
+    "a": "a datação por carbono é o critério decisivo do valor de um sítio protegido",
+    "b": "elas são expressão de um grafismo indígena com sentido próprio, e o sítio guarda a memória coletiva dos povos originários do continente",
+    "c": "o parque precisa ser fechado ao público para impedir a deterioração das figuras",
+    "d": "as figuras deveriam ser transferidas para um museu na capital do estado",
+    "e": "o reconhecimento internacional converte o sítio em propriedade do organismo que o inscreveu, retirando do país a responsabilidade sobre a conservação dos paredões pintados e sobre o controle da visitação que ali se realiza"
+   },
+   "resposta": "b",
+   "explicacao": "Chamar de arte indígena o que se vê nos paredões desloca o sítio da vitrine natural para o campo da cultura: há intenção, repertório e convenção nas figuras. O tombamento e a inscrição internacional reconhecem esse valor, mas a preservação cultural sem as comunidades vizinhas é frágil — o parque convive com a pressão do desmatamento e da caça.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-354",
+   "texto_apoio": "Em 2019 Paraty e Ilha Grande entraram na lista da UNESCO como bem misto, categoria que reconhece ao mesmo tempo valor cultural e valor natural. O território inscrito abrange o centro histórico, a Serra da Bocaina e comunidades caiçaras, quilombolas e indígenas.",
+   "enunciado": "A categoria de bem misto se justifica, nesse caso, porque:",
+   "alternativas": {
+    "a": "o conjunto reúne prédios de duas épocas distintas dentro do mesmo perímetro",
+    "b": "a cidade tem tanto praças públicas quanto propriedades privadas em seu perímetro protegido",
+    "c": "o modo de vida caiçara e quilombola é inseparável da floresta e do mar que o sustentam, e separar cultura de natureza desfaria o próprio bem",
+    "d": "metade do território pertence ao estado e a outra metade pertence à União",
+    "e": "a inscrição exige que ao menos duas categorias sejam preenchidas para que o pedido seja aceito, exigência formal do organismo internacional que os países costumam atender reunindo bens de naturezas distintas num processo único"
+   },
+   "resposta": "c",
+   "explicacao": "A noção de paisagem cultural quebra a separação entre patrimônio cultural e patrimônio natural. Em Paraty, o saber tradicional caiçara sobre as marés e a roça, a festa do Divino e a cultura popular do litoral são tão parte do bem quanto o casario do centro histórico — protegê-los em separado seria proteger metade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-355",
+   "texto_apoio": "Soterrado por mais de um século e reencontrado em 2011 durante obras na zona portuária carioca, o Cais do Valongo foi o maior ponto de desembarque de africanos escravizados das Américas. Em 2017 a UNESCO o inscreveu como sítio de memória sensível.",
+   "enunciado": "A inscrição de um sítio como o Valongo cumpre função distinta da de um monumento celebrativo porque:",
+   "alternativas": {
+    "a": "o local possui valor estético superior ao dos monumentos erguidos no mesmo período",
+    "b": "a norma internacional obriga cada país a indicar um sítio desse tipo por década",
+    "c": "o cais foi reerguido com materiais idênticos aos empregados no século XIX",
+    "d": "ele preserva a memória coletiva de uma violência, e o patrimônio serve ali para impedir o apagamento, não para exaltar um feito",
+    "e": "o reconhecimento internacional de sítios ligados ao tráfico de pessoas substitui as políticas de reparação devidas às populações negras, encerrando administrativamente o debate público sobre indenizações e sobre a demarcação de territórios quilombolas"
+   },
+   "resposta": "d",
+   "explicacao": "Há patrimônio que celebra e há patrimônio que envergonha. O Valongo pertence ao segundo grupo: seu valor está em manter visível o que a cidade tentou enterrar. A pedra do cais é bem material; o que ela sustenta é a identidade cultural de uma população cujos vestígios foram soterrados — e que segue viva nas festas e na cultura popular do território conhecido como Pequena África.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-356",
+   "texto_apoio": "O registro do patrimônio imaterial no Brasil se organiza em quatro livros: dos Saberes, das Celebrações, das Formas de Expressão e dos Lugares. Cada bem entra num deles conforme aquilo que nele se quer proteger.",
+   "enunciado": "A existência desses quatro livros indica que:",
+   "alternativas": {
+    "a": "o número de bens registrados a cada ano está limitado a quatro processos",
+    "b": "cada livro corresponde a uma das grandes regiões do país",
+    "c": "os bens migram de um livro para outro a cada dez anos de vigência",
+    "d": "a divisão em livros substituiu o tombamento também nos casos de bem material, de modo que os conjuntos protegidos antes de 2000 tiveram de ser reinscritos em um dos quatro livros criados pelo decreto",
+    "e": "o bem imaterial é reconhecido pela natureza da prática — um ofício, uma festa popular, uma forma de expressão ou um lugar de convívio"
+   },
+   "resposta": "e",
+   "explicacao": "Os livros nomeiam o que se protege. A feira de Caruaru entra em Celebrações; o ofício das paneleiras de Goiabeiras, em Saberes; a Cachoeira de Iauaretê, em Lugares. O registro não congela a prática: exige revalidação, porque um saber tradicional vivo se altera, e o que se protege é a continuidade, não uma forma fixa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-357",
+   "texto_apoio": "Vilas ferroviárias, armazéns e usinas ocupam hoje boa parte das pautas de tombamento, mas raramente chegam a ser protegidos antes de virarem ruína. Enquanto uma igreja do século XVIII mobiliza recursos com facilidade, uma estação de 1920 costuma ser demolida sem que ninguém reclame.",
+   "enunciado": "Essa diferença de tratamento revela que:",
+   "alternativas": {
+    "a": "o valor patrimonial não é qualidade do objeto, e sim resultado de uma disputa sobre qual passado merece durar",
+    "b": "os prédios do século XVIII resistem melhor à ação do tempo e das intempéries",
+    "c": "o custo de restauração de uma estação supera o de uma igreja de mesmo porte",
+    "d": "a legislação brasileira proíbe o tombamento de bens erguidos no século XX",
+    "e": "a memória do trabalho industrial conta com registro documental abundante em arquivos sindicais, o que dispensaria a preservação do patrimônio construído e permitiria concentrar os recursos públicos na conservação dos conjuntos de origem colonial"
+   },
+   "resposta": "a",
+   "explicacao": "O que se tomba e o que se deixa cair desenham juntos a versão de país que o patrimônio conta. Quando só o casario colonial e religioso é conservado, a identidade cultural que resulta é parcial. É a mesma crítica que abriu espaço para o registro da cultura popular e dos bens das populações negras e indígenas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-358",
+   "texto_apoio": "Depois do incêndio que consumiu o Museu Nacional em 2018, o debate sobre restauração voltou a dividir técnicos: reproduzir o que existia, assumir a perda com marcação visível, ou apenas estabilizar o que restou.",
+   "enunciado": "O princípio dominante na teoria da restauração desde o século XX sustenta que:",
+   "alternativas": {
+    "a": "a peça deve ser refeita de modo idêntico ao original, sem sinal visível do reparo",
+    "b": "a intervenção precisa ser reconhecível e reversível, para não falsificar o documento histórico que o bem constitui",
+    "c": "o bem danificado perde a condição de patrimônio e deve ser retirado do acervo",
+    "d": "a decisão sobre o reparo cabe ao doador da peça, e não à instituição que a guarda",
+    "e": "a reprodução digital tridimensional das peças perdidas substitui a conservação dos originais remanescentes, política que o poder público brasileiro teria adotado como norma para o acervo das instituições federais atingidas por sinistros"
+   },
+   "resposta": "b",
+   "explicacao": "Restaurar não é rejuvenescer. Cesare Brandi formulou a regra que ainda orienta o campo: a intervenção deve ser legível e desfazível, porque o bem vale também como documento. Um acervo reconstituído sem essa marcação vira cenografia — e a memória social do que se perdeu desaparece junto com a marca da perda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-359",
+   "texto_apoio": "O tombamento de um centro histórico costuma vir acompanhado de reforma de fachadas, chegada de hotéis e alta do aluguel. Em Salvador, o Pelourinho passou por esse processo nos anos 1990: o casario foi recuperado e boa parte dos moradores antigos deixou o bairro.",
+   "enunciado": "O efeito descrito é resumido pela crítica ao patrimônio como:",
+   "alternativas": {
+    "a": "o excesso de rigor técnico exigido nas obras de restauração das fachadas",
+    "b": "a falta de recursos federais para a conservação de imóveis protegidos",
+    "c": "a preservação do patrimônio construído acompanhada da expulsão de quem sustentava ali a cultura popular do lugar",
+    "d": "a demora do órgão federal em concluir os processos de tombamento abertos",
+    "e": "a impropriedade de aplicar a bens de origem colonial os mesmos critérios de conservação empregados nos conjuntos industriais do século XX, distinção técnica que a legislação brasileira sobre o tema deixou de estabelecer com clareza suficiente"
+   },
+   "resposta": "c",
+   "explicacao": "Salvar as pedras e perder as pessoas esvazia o próprio bem: um centro histórico sem os terreiros, o artesanato e as festas que lhe davam sentido vira vitrine. Por isso a política de patrimônio passou a falar em salvaguarda, que alcança quem pratica, e não apenas em conservação, que cuida da matéria.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-360",
+   "texto_apoio": "Uma grife internacional lançou uma linha de roupas inspirada em grafismos de um povo indígena brasileiro, sem citar a origem nem repartir o resultado das vendas. O caso reacendeu o debate sobre os limites entre inspiração e apropriação.",
+   "enunciado": "A objeção central que se faz a esse tipo de uso é que:",
+   "alternativas": {
+    "a": "há apropriação cultural quando o grafismo indígena é extraído de seu contexto e explorado comercialmente por quem não pertence ao grupo que o criou",
+    "b": "o desenho perde qualidade estética ao ser aplicado sobre tecido industrial",
+    "c": "a legislação brasileira de marcas veda o uso de estampas geométricas em roupas",
+    "d": "o povo indígena deveria ter inscrito o desenho como obra literária no órgão competente",
+    "e": "o uso de referências visuais alheias está vedado às empresas estrangeiras pela convenção internacional sobre diversidade cultural, tratado que estabeleceria autorização prévia obrigatória para o emprego comercial de repertórios visuais de povos originários"
+   },
+   "resposta": "a",
+   "explicacao": "A diferença entre troca e apropriação está no poder e na repartição: quem nomeia, quem lucra e quem some do relato. O grafismo indígena não é ornamento livre — é parte de um saber tradicional que identifica o grupo, e a arte indígena vem sendo reconhecida como patrimônio imaterial justamente por isso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-361",
+   "texto_apoio": "O Complexo Cultural do Bumba Meu Boi do Maranhão foi registrado pelo IPHAN em 2011 e inscrito pela UNESCO em 2019. O ciclo vai de junho ao fim de agosto e reúne sotaques distintos, cada um com seu jeito de brincar o boi, de bordar o couro e de organizar o cortejo.",
+   "enunciado": "O uso do termo complexo, e não simplesmente festa, no nome do bem registrado indica que:",
+   "alternativas": {
+    "a": "o bem envolve um número elevado de participantes em cada edição do ciclo",
+    "b": "o registro alcança o ciclo inteiro — o saber tradicional do bordado, a matança, o cortejo e as regras de cada grupo —, e não um evento isolado",
+    "c": "o termo foi escolhido para diferenciar o bem maranhense dos outros bois brasileiros",
+    "d": "o complexo é a soma dos bens materiais localizados no centro histórico de São Luís",
+    "e": "a expressão designa o conjunto de prédios públicos que o governo estadual destinou às apresentações do ciclo junino, patrimônio construído cuja conservação passou a integrar as obrigações assumidas perante o organismo internacional"
+   },
+   "resposta": "b",
+   "explicacao": "Registrar um complexo é reconhecer que a festa popular não cabe num dia do calendário: ela é feita de ofícios, de hierarquias internas e de vínculos com a devoção. Proteger apenas a apresentação final deixaria de fora o artesanato do couro bordado e os mestres que ensinam a brincadeira — que é justamente onde o bem se reproduz.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-362",
+   "texto_apoio": "Nas congadas do interior de Minas Gerais, grupos organizados em ternos saem em cortejo para coroar o Rei Congo e a Rainha Conga diante da igreja de Nossa Senhora do Rosário. A devoção católica convive ali com a lembrança de reinos africanos e com irmandades negras formadas ainda no período colonial.",
+   "enunciado": "A convivência entre devoção católica e referência africana nas congadas se explica melhor pela noção de:",
+   "alternativas": {
+    "a": "substituição, pois a fé católica apagou por inteiro as referências africanas anteriores",
+    "b": "isolamento, já que os dois repertórios permaneceram sem contato entre si",
+    "c": "reelaboração, porque os grupos negros deram sentido próprio ao culto imposto e nele mantiveram a memória coletiva de suas origens",
+    "d": "importação, pois o cortejo foi trazido pronto de Portugal no século XVIII",
+    "e": "encomenda oficial, uma vez que a coroação do Rei Congo teria sido instituída por decreto imperial como forma de controle das populações negras livres nas vilas do interior mineiro durante o século XIX"
+   },
+   "resposta": "c",
+   "explicacao": "A congada não é sobra folclórica nem catolicismo puro: é cultura popular produzida na negociação. Reconhecê-la como patrimônio imaterial obriga a contar as duas histórias juntas, a da imposição e a da reinvenção — e essa é a correção que o estudo do folclore como curiosidade pitoresca precisou receber.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-363",
+   "texto_apoio": "Entre o Natal e o dia 6 de janeiro, companhias de folia de reis percorrem casas do interior brasileiro levando a bandeira dos três reis magos. Quem recebe a visita oferece comida e donativos; quem chega devolve versos improvisados e a promessa de retorno no ano seguinte.",
+   "enunciado": "A troca entre quem recebe a bandeira e quem a leva mostra que, nesse tipo de festa popular:",
+   "alternativas": {
+    "a": "a participação depende do pagamento de ingresso antecipado pelos moradores",
+    "b": "a organização do ciclo é responsabilidade do poder público municipal",
+    "c": "o repertório é fixado por escrito e repetido sem variação de casa em casa",
+    "d": "o vínculo entre os participantes é de reciprocidade e devoção, e o ciclo se sustenta na obrigação recíproca de dar, receber e retribuir",
+    "e": "a manutenção do ciclo depende de subvenção federal continuada, sem a qual as companhias perderiam o direito de circular pelas propriedades rurais que costumam visitar no período compreendido entre dezembro e janeiro"
+   },
+   "resposta": "d",
+   "explicacao": "A folia se sustenta num circuito de reciprocidade que a antropologia descreve como dar, receber e retribuir. Por isso o folclore não é sobrevivência congelada: é uma economia moral em funcionamento, e o registro dessas companhias como patrimônio imaterial reconhece o saber tradicional de quem conduz a bandeira.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-364",
+   "texto_apoio": "A festa do Divino Espírito Santo chegou ao Brasil com os portugueses e ganhou formas próprias em Pirenópolis, em Paraty, no Maranhão e na Amazônia. Em cada lugar a coroa do Império do Divino circula de casa em casa antes do domingo de Pentecostes, e o cargo de festeiro se transmite entre famílias.",
+   "enunciado": "A existência de versões tão distintas de uma mesma festa em regiões diferentes do país indica que:",
+   "alternativas": {
+    "a": "as versões regionais resultam de erro na transmissão do modelo português original",
+    "b": "a festa perdeu o sentido religioso ao se espalhar pelo território brasileiro",
+    "c": "o instituto federal responsável pelo tema registrou apenas a versão considerada mais fiel ao modelo europeu de origem, tratando as demais como variações regionais sem valor patrimonial próprio para efeito de proteção legal",
+    "d": "a variação decorre apenas da distância física entre as localidades onde a festa ocorre",
+    "e": "a cultura popular se reproduz por apropriação e reinvenção local, e não por cópia de um modelo fixo"
+   },
+   "resposta": "e",
+   "explicacao": "Toda festa popular que dura muda de forma ao durar. O que se transmite não é um modelo fechado, e sim um conjunto de obrigações — coroar, dividir a comida, passar o cargo adiante — que cada comunidade preenche com o que tem. É por isso que o registro do patrimônio imaterial protege processos, e não formas, e por isso o saber tradicional dos festeiros pesa mais que a fidelidade à origem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-365",
+   "texto_apoio": "A literatura de cordel foi registrada como patrimônio cultural imaterial brasileiro em 2018. Os folhetos, vendidos em feiras e presos em barbantes, tratam de valentia, política, seca e milagre em sextilhas rimadas, e trazem na capa uma xilogravura feita pelo próprio poeta ou por um entalhador da região.",
+   "enunciado": "A relação entre o folheto de cordel e a feira onde ele circula mostra que:",
+   "alternativas": {
+    "a": "o cordel é cultura popular também no modo de circular: preço baixo, venda direta e recitação em voz alta para quem não lê",
+    "b": "o folheto é obra letrada adaptada ao gosto do público das feiras nordestinas",
+    "c": "a xilogravura da capa serve apenas para proteger o papel do folheto do sol",
+    "d": "a venda em feira reduz o valor literário do texto impresso em sextilhas",
+    "e": "a inscrição do cordel entre os bens protegidos transferiu ao órgão federal a atribuição de autorizar previamente a publicação de novos folhetos, medida destinada a preservar a métrica tradicional das sextilhas empregadas pelos poetas do Nordeste"
+   },
+   "resposta": "a",
+   "explicacao": "O cordel não é literatura menor levada ao povo: é um sistema próprio, com autor, editor, vendedor e ouvinte no mesmo espaço da feira. Registrar esse conjunto como patrimônio imaterial protege o saber tradicional do poeta e do entalhador da capa, e não apenas o texto impresso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-366",
+   "texto_apoio": "As paneleiras de Goiabeiras, em Vitória, tiram o barro de um mesmo banco de argila há gerações, moldam a panela sem torno e a queimam a céu aberto, tingindo-a com a casca do mangue. O ofício foi o primeiro bem inscrito no Livro dos Saberes, em 2002.",
+   "enunciado": "A proteção desse ofício dependeu de um elemento que o registro precisou reconhecer:",
+   "alternativas": {
+    "a": "a existência de um museu na cidade dedicado à exibição das panelas produzidas",
+    "b": "o acesso ao banco de argila e ao mangue, pois sem a matéria-prima o saber tradicional não se pratica",
+    "c": "a padronização do formato das panelas para facilitar a venda ao turista",
+    "d": "a troca da queima a céu aberto por fornos industriais mais seguros para as artesãs",
+    "e": "a criação de uma denominação de origem que impeça a comercialização de utensílios semelhantes fabricados fora dos limites do bairro, restrição comercial que a legislação de propriedade industrial brasileira reserva a produtos alimentícios"
+   },
+   "resposta": "b",
+   "explicacao": "O patrimônio imaterial não flutua: ele depende de território, de matéria e de gente. Ao registrar o ofício, o Estado assumiu junto o problema do banco de argila — o artesanato desaparece quando a fonte é aterrada, mesmo que as mestras continuem vivas. É a diferença entre proteger o objeto e proteger a condição de produzi-lo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-367",
+   "texto_apoio": "Entre os Baniwa, do alto rio Negro, a cestaria de arumã combina padrões geométricos que nomeiam seres, parentescos e episódios de origem. Um mesmo desenho pode aparecer no cesto, no corpo e na parede da casa, e quem o traça sabe o que está dizendo.",
+   "enunciado": "Esse funcionamento do desenho baniwa desautoriza a classificação da cestaria como mero adorno porque:",
+   "alternativas": {
+    "a": "os cestos alcançam preço elevado quando vendidos nas capitais brasileiras",
+    "b": "o arumã é uma fibra rara e de manejo difícil na região do alto rio Negro",
+    "c": "o grafismo indígena funciona como linguagem, e a peça carrega um saber tradicional sobre parentesco e origem",
+    "d": "a cestaria substituiu a escrita alfabética entre os povos do alto rio Negro",
+    "e": "o padrão geométrico se repete sem variação entre gerações sucessivas, o que permitiria datar cada peça com precisão a partir da comparação com exemplares reunidos nas coleções etnográficas montadas por pesquisadores estrangeiros"
+   },
+   "resposta": "c",
+   "explicacao": "Chamar de artesanato decorativo o que é sistema de significação é o gesto que a crítica à arte popular vem desmontando há décadas. A arte indígena não ilustra a cultura: ela a organiza. O reconhecimento como patrimônio imaterial acompanha essa correção de perspectiva.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-368",
+   "texto_apoio": "As carrancas do rio São Francisco eram fixadas na proa dos barcos a vapor para afastar o mal das águas. Talhadas em madeira por mestres ribeirinhos, com feição meio humana e meio animal, saíram de uso quando a navegação encolheu e passaram a ser procuradas por colecionadores.",
+   "enunciado": "A passagem da carranca da proa do barco para a sala do colecionador transformou o objeto porque:",
+   "alternativas": {
+    "a": "a madeira empregada na peça foi substituída por material industrial mais barato",
+    "b": "as carrancas perderam o vínculo com o rio e passaram a ser produzidas industrialmente",
+    "c": "o valor de mercado da peça diminuiu quando ela saiu do uso cotidiano",
+    "d": "a peça deixou de ter função de proteção e passou a valer como arte popular, num deslocamento que muda o sentido sem alterar a forma",
+    "e": "a saída das carrancas do rio determinou a extinção do ofício dos mestres entalhadores, cuja retomada dependeria de política federal capaz de reconstituir a navegação a vapor no médio curso do São Francisco"
+   },
+   "resposta": "d",
+   "explicacao": "O objeto é o mesmo; o que muda é o regime de valor. Ao virar arte popular na parede de um apartamento, a carranca ganha assinatura e perde a proa. Nada disso a torna falsa, mas mostra que o valor se produz na circulação, e que o mestre entalhador raramente participa do lucro dessa segunda vida do artesanato. É por isso que a política de patrimônio imaterial protege o ofício, e não a peça avulsa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-369",
+   "texto_apoio": "Bronzes do Reino do Benim, tomados por tropas britânicas em 1897, estão hoje em museus da Europa e dos Estados Unidos, embora sejam peças centrais do patrimônio cultural nigeriano. Desde 2021 algumas instituições começaram a devolvê-los, e outras alegam que a peça está mais segura onde se encontra.",
+   "enunciado": "O argumento da segurança, usado contra a devolução, é criticado principalmente porque:",
+   "alternativas": {
+    "a": "os museus europeus dispõem de menos recursos técnicos que os museus africanos",
+    "b": "as peças de bronze não exigem cuidados especiais de conservação preventiva",
+    "c": "a devolução já foi concluída na totalidade dos casos hoje conhecidos",
+    "d": "o transporte internacional de bens culturais está vedado pelas convenções em vigor, de modo que a permanência das peças nos acervos europeus decorre de impedimento jurídico e não de escolha política das instituições que as detêm",
+    "e": "ele julga a capacidade do outro a partir de quem o espoliou, e trata como técnica uma decisão sobre memória e identidade cultural"
+   },
+   "resposta": "e",
+   "explicacao": "Restituir não é gesto de generosidade: é enfrentar como o acervo se formou. Enquanto a peça permanece no museu de quem a tomou, a memória social do saque fica fora do texto da vitrine. O debate sobre restituição é hoje parte central da descolonização cultural das instituições, e alcança também os acervos brasileiros.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-370",
+   "texto_apoio": "Um arquivo público conserva o que alguém decidiu registrar. Processos de terra, atas de vereança e correspondência oficial chegam completos ao pesquisador; a fala de quem não escrevia raramente deixou papel, e precisa ser reconstituída por vestígios indiretos.",
+   "enunciado": "A consequência dessa assimetria para o trabalho com memória social é que:",
+   "alternativas": {
+    "a": "o silêncio do arquivo é ele próprio um dado histórico, e reconstituir o que ficou de fora exige fontes como a tradição oral e o saber tradicional das comunidades",
+    "b": "os documentos oficiais devem ser descartados por causa do viés de sua origem",
+    "c": "a história só pode ser escrita a partir do que foi registrado em cartório",
+    "d": "a ausência de documentos prova que os fatos narrados oralmente não ocorreram",
+    "e": "o problema se resolve com a digitalização integral dos acervos públicos brasileiros, procedimento que tornaria acessível ao pesquisador o conjunto de registros produzidos pelas populações que não tiveram acesso à escrita durante o período colonial"
+   },
+   "resposta": "a",
+   "explicacao": "Arquivo não é espelho: é resultado de escolhas sucessivas sobre o que merece durar. Trabalhar com o patrimônio cultural de populações que não escreviam significa ler o silêncio como informação e recorrer à memória coletiva, à cultura popular e ao testemunho — sem tomar a falta de papel por inexistência do fato.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-371",
+   "texto_apoio": "A Feira de Caruaru foi registrada em 2006 como patrimônio cultural imaterial. Ali se vende comida, ferramenta, remédio de raiz e as figuras de barro que Vitalino começou a modelar nos anos 1930, mostrando cangaceiro, retirante, casamento e enterro.",
+   "enunciado": "O registro da feira inteira, e não apenas das figuras de barro, se explica porque:",
+   "alternativas": {
+    "a": "as figuras de barro perderam relevância comercial no agreste pernambucano",
+    "b": "a feira é o lugar onde o artesanato, o cordel e a comida se encontram, e o valor do bem está nesse convívio, não numa peça isolada",
+    "c": "o barro utilizado pelos artesãos vem de fora do município de Caruaru",
+    "d": "o registro de objetos avulsos foi vedado pela legislação editada em 2000",
+    "e": "a proteção do conjunto permite ao poder público municipal fixar os preços praticados pelos feirantes, prerrogativa que decorreria do reconhecimento federal e alcançaria também as barracas instaladas fora do perímetro originalmente inscrito"
+   },
+   "resposta": "b",
+   "explicacao": "Uma figura de Vitalino num museu continua sendo arte popular, mas fora da feira ela vira peça avulsa. O que o registro protege é o ambiente que produz a peça: o mestre que ensina, o cordel vendido na banca ao lado e a freguesia que dá sentido ao objeto. Preservar o patrimônio imaterial é preservar contexto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-372",
+   "texto_apoio": "Em vários centros urbanos brasileiros, prédios protegidos tiveram a fachada mantida e o interior inteiramente demolido para dar lugar a estacionamento ou galeria comercial. A prática ficou conhecida como fachadismo.",
+   "enunciado": "A objeção técnica ao fachadismo sustenta que:",
+   "alternativas": {
+    "a": "a fachada é a parte menos relevante de um imóvel protegido por tombamento",
+    "b": "a demolição interna reduz o custo da restauração da fachada remanescente",
+    "c": "o bem protegido é o conjunto, e conservar só a casca transforma o patrimônio histórico em cenografia de rua",
+    "d": "o tombamento deveria alcançar apenas os prédios de uso público na área central",
+    "e": "a permanência da fachada dispensa o proprietário das obrigações futuras de manutenção, entendimento que os órgãos de proteção brasileiros teriam firmado para viabilizar economicamente a conservação dos conjuntos protegidos nas áreas centrais das cidades"
+   },
+   "resposta": "c",
+   "explicacao": "Tombar um imóvel é reconhecer que ele documenta um modo de morar, de trabalhar e de circular — coisas que estão no interior, no pé-direito e na distribuição dos cômodos. A fachada mantida sem o corpo do prédio conta uma história falsa, e esvazia a preservação do patrimônio em favor de uma imagem publicitária da cidade, que apaga a memória social de quem viveu ali.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-373",
+   "texto_apoio": "Festas populares que passaram a atrair público turístico costumam ganhar arquibancada, patrocínio e horário fixo. Em alguns casos o cortejo que percorria as ruas foi transferido para um recinto fechado com ingresso pago.",
+   "enunciado": "A leitura crítica desse processo evita duas simplificações opostas. São elas:",
+   "alternativas": {
+    "a": "afirmar que a festa é autêntica e afirmar que ela é antiga",
+    "b": "afirmar que o turismo gera renda e afirmar que ele gera emprego",
+    "c": "afirmar que o patrocínio é privado e afirmar que ele é público",
+    "d": "tratar a festa como pureza corrompida pelo dinheiro e tratar a mercantilização como destino inevitável da cultura popular",
+    "e": "sustentar que o ingresso pago melhora a qualidade da produção e sustentar que a ausência de cobrança reduziria o número de participantes dispostos a comparecer ao recinto durante os dias reservados ao ciclo festivo"
+   },
+   "resposta": "d",
+   "explicacao": "A cultura popular não é um museu a céu aberto: ela negocia com o mercado desde que existe feira. Mas dizer isso não apaga a diferença entre a comunidade que decide vender e o produtor externo que decide por ela. O critério útil é a governança do bem — quem manda na festa popular —, e é ele que a política de patrimônio imaterial procura sustentar quando fala em salvaguarda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-374",
+   "texto_apoio": "O Sistema Agrícola Tradicional do rio Negro foi registrado em 2010. Ele reúne as roças de mandioca, as variedades selecionadas pelas mulheres indígenas ao longo de gerações, a casa de farinha, os utensílios e as regras de troca de mudas entre parentes.",
+   "enunciado": "O registro de um sistema agrícola como bem cultural sustenta-se no argumento de que:",
+   "alternativas": {
+    "a": "a agricultura indígena produz mais por hectare que a agricultura mecanizada",
+    "b": "as roças de mandioca precisam ser convertidas em área de proteção ambiental",
+    "c": "a mandioca é planta originária de outro continente e por isso merece proteção",
+    "d": "o registro do sistema substitui a demarcação das terras onde as roças se localizam, uma vez que o reconhecimento federal do bem cultural implicaria a titulação imediata das áreas ocupadas pelas comunidades que o praticam",
+    "e": "manejar variedades, escolher sementes e transmitir esse conhecimento é saber tradicional, e a agrobiodiversidade resultante é produto de cultura, não de natureza"
+   },
+   "resposta": "e",
+   "explicacao": "A floresta do rio Negro tem a feição do manejo humano de milhares de anos. Reconhecer o sistema como patrimônio imaterial é dizer que a diversidade das roças foi produzida por escolha, e que proteger a arte indígena e o saber tradicional inclui proteger a terra onde eles acontecem — o registro não substitui a demarcação, mas a torna mais difícil de ignorar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-375",
+   "texto_apoio": "O terreiro da Casa Branca do Engenho Velho, em Salvador, foi tombado pelo IPHAN em 1984 — o primeiro bem de culto afro-brasileiro a entrar nos livros de tombo. O processo protegeu o terreno, as árvores sagradas, as casas de santo e os assentamentos enterrados no chão.",
+   "enunciado": "Esse tombamento é considerado um marco na política brasileira de patrimônio porque:",
+   "alternativas": {
+    "a": "reconheceu como bem cultural um espaço de religiosidade negra até então tratado como caso de polícia, alargando o que o Estado admitia proteger",
+    "b": "foi o primeiro processo brasileiro a proteger vegetação junto com edificações",
+    "c": "reduziu o valor venal do terreno onde o terreiro se localiza em Salvador",
+    "d": "obrigou o terreiro a abrir suas atividades religiosas à visitação pública diária",
+    "e": "estabeleceu que os bens de natureza religiosa passariam a ser inscritos em livro específico, criado naquele ano para separar os cultos de origem africana dos demais conjuntos protegidos pelo órgão federal brasileiro"
+   },
+   "resposta": "a",
+   "explicacao": "O candomblé foi crime e depois folclore antes de virar patrimônio cultural. Tombar a Casa Branca inverteu o gesto que, por décadas, mandava a polícia apreender objetos de terreiro — muitos dos quais seguem em acervos policiais. Reconhecer o terreiro como bem é reconhecer a identidade cultural de quem o sustenta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-376",
+   "texto_apoio": "Entre 1890 e 1946, a polícia do Rio de Janeiro apreendeu objetos de terreiros e os manteve como prova de crime. Em 2020 essas peças deixaram o Museu da Polícia e foram transferidas para o Museu da República, sob o nome de Nosso Sagrado.",
+   "enunciado": "A transferência dessas peças de um museu para outro importa porque:",
+   "alternativas": {
+    "a": "o novo prédio oferece condições melhores de temperatura e umidade relativa",
+    "b": "o acervo policial havia perdido utilidade para as investigações em curso",
+    "c": "a legislação veda que órgãos de segurança mantenham bens tombados sob sua guarda",
+    "d": "mudar a instituição muda o sentido do acervo: o que era prova de crime passa a ser patrimônio cultural de uma religiosidade perseguida",
+    "e": "o deslocamento das peças encerrou juridicamente os processos criminais instaurados contra praticantes de culto de origem africana na primeira metade do século XX, reparando as condenações pronunciadas àquela época"
+   },
+   "resposta": "d",
+   "explicacao": "Objeto nenhum tem sentido fora da vitrine que o abriga. Sob a etiqueta da polícia, o assentamento era corpo de delito; sob a etiqueta do museu, é bem cultural ligado ao candomblé. O que os terreiros reivindicam agora vai além: pedem a devolução das peças, porque acervo e culto não são a mesma relação com o objeto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-377",
+   "texto_apoio": "Museus etnográficos brasileiros exibiram por décadas objetos indígenas sem nomear o povo, o autor ou a data de coleta. Nos últimos anos, esses conjuntos passaram a ser revistos com lideranças dos próprios povos, que reconhecem peças, corrigem etiquetas e reivindicam devolução.",
+   "enunciado": "A revisão dessas etiquetas evidencia que o museu:",
+   "alternativas": {
+    "a": "deve restringir o acesso de pesquisadores externos ao seu acervo etnográfico",
+    "b": "perde valor científico quando consulta as comunidades de origem das peças",
+    "c": "não é depósito neutro, e a maneira de descrever a peça já é uma versão sobre quem a produziu",
+    "d": "precisa transferir seu acervo indígena para instituições estrangeiras especializadas",
+    "e": "cumpre função meramente administrativa de conservação física, cabendo às universidades e aos institutos de pesquisa a tarefa de produzir a interpretação dos objetos reunidos nas expedições do século passado"
+   },
+   "resposta": "c",
+   "explicacao": "Etiqueta é texto, e texto tem autor. Escrever objeto indígena, sem povo e sem nome, apaga a arte indígena como criação e a converte em amostra. Rever a descrição junto com as comunidades é parte da descolonização cultural dos acervos, e muda o que o visitante aprende sobre a identidade cultural do país.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-378",
+   "texto_apoio": "O território Kalunga, na Chapada dos Veadeiros, reúne comunidades quilombolas formadas por pessoas que fugiram das minas de ouro no século XVIII. Ali a roça, a farinha, a folia do Império e o conhecimento sobre plantas se apoiam num mesmo território, hoje reconhecido e ainda em disputa fundiária.",
+   "enunciado": "Proteger um bem como esse pela via do patrimônio cultural encontra um limite prático porque:",
+   "alternativas": {
+    "a": "as comunidades quilombolas recusam o reconhecimento estatal de suas práticas",
+    "b": "a legislação de patrimônio não alcança bens situados em área rural",
+    "c": "o registro impede a continuidade das atividades agrícolas no território",
+    "d": "sem a garantia da terra, o saber tradicional protegido no papel perde a base material que o sustenta",
+    "e": "o reconhecimento federal de bens culturais localizados em territórios quilombolas depende de autorização prévia dos proprietários rurais vizinhos, exigência processual que costuma retardar por anos a conclusão dos pedidos apresentados ao órgão"
+   },
+   "resposta": "d",
+   "explicacao": "Patrimônio imaterial sem território é promessa vazia. A folia, a farinha e a cultura popular kalunga acontecem num lugar; se o lugar é loteado, o bem some com ele. Por isso a política de patrimônio, sozinha, não resolve — ela precisa andar junto com a titulação das terras.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-379",
+   "texto_apoio": "Boa parte do discurso oficial sobre cultura brasileira, entre os anos 1930 e 1950, apresentou o país como resultado harmonioso do encontro entre três povos. Feijoada, futebol e carnaval viraram provas dessa mistura, e a desigualdade entre os grupos saiu do primeiro plano.",
+   "enunciado": "A crítica a essa versão da identidade nacional sustenta que ela:",
+   "alternativas": {
+    "a": "exagerou a contribuição europeia e omitiu por inteiro as demais contribuições",
+    "b": "foi produzida por pesquisadores estrangeiros sem contato direto com o país",
+    "c": "descreveu com exatidão a formação social brasileira do período colonial",
+    "d": "não teve efeito sobre as políticas culturais adotadas naquelas décadas, uma vez que os órgãos federais criados no período limitaram sua atuação à proteção de imóveis coloniais e permaneceram alheios ao debate público sobre a formação do povo brasileiro",
+    "e": "converteu a desigualdade em folclore, celebrando a mistura enquanto mantinha intacta a hierarquia entre os grupos que a compõem"
+   },
+   "resposta": "e",
+   "explicacao": "A noção de mistura harmoniosa serviu para produzir identidade nacional sem enfrentar racismo. Reconhecer a cultura popular negra e indígena como patrimônio cultural é diferente de celebrá-la como tempero: no primeiro caso há disputa por recurso e por narrativa; no segundo, há vitrine. A distinção é o que separa política de patrimônio de propaganda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-380",
+   "texto_apoio": "Uma marca de decoração fechou acordo com uma associação de artesãs do Vale do Jequitinhonha: as peças saem com o nome de quem as fez, o preço é definido em conjunto e parte da receita volta para a compra de material. O arranjo é citado como contraexemplo aos casos de uso não autorizado.",
+   "enunciado": "O que distingue esse arranjo de um caso de apropriação cultural é:",
+   "alternativas": {
+    "a": "o fato de as peças serem vendidas fora da região onde foram produzidas",
+    "b": "o controle das artesãs sobre nome, preço e destino da receita, isto é, quem decide e quem lucra",
+    "c": "a semelhança formal entre as peças vendidas e as peças de uso local",
+    "d": "a existência de contrato escrito entre as partes envolvidas no negócio",
+    "e": "a inscrição prévia do artesanato do Vale do Jequitinhonha entre os bens culturais protegidos pelo órgão federal, condição sem a qual acordos comerciais dessa natureza não poderiam ser firmados por associações de produtoras rurais"
+   },
+   "resposta": "b",
+   "explicacao": "Apropriação cultural não se mede pela semelhança do desenho, e sim pela assimetria de poder. Quando as artesãs mantêm a autoria, a decisão sobre o preço e a titularidade do saber tradicional, a circulação amplia o bem em vez de esvaziá-lo — que é o que a política de patrimônio cultural chama de salvaguarda compartilhada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-381",
+   "texto_apoio": "Registrar um bem imaterial obriga o poder público a elaborar um plano de salvaguarda: apoio à transmissão do ofício, acesso à matéria-prima, documentação e, a cada dez anos, uma revalidação que pergunta se o bem continua vivo.",
+   "enunciado": "A exigência de revalidação a cada dez anos revela que o registro:",
+   "alternativas": {
+    "a": "tem validade jurídica temporária e caduca por decurso de prazo",
+    "b": "serve para atualizar o valor de mercado atribuído ao bem protegido",
+    "c": "depende de nova solicitação apresentada pela comunidade interessada",
+    "d": "acompanha uma prática viva, que pode se transformar ou desaparecer, ao contrário do tombamento, que protege matéria estável",
+    "e": "reproduz o procedimento adotado para os bens materiais, cuja proteção também se submeteria a exame decenal realizado pelas superintendências estaduais do órgão federal responsável pela conservação dos conjuntos protegidos"
+   },
+   "resposta": "d",
+   "explicacao": "Pedra não precisa de plano de salvaguarda; gente precisa. A revalidação existe porque o patrimônio imaterial depende de quem pratica, e o Estado precisa saber se seu apoio funcionou. É a diferença estrutural entre proteger uma igreja e proteger uma festa popular: no primeiro caso cuida-se do objeto; no segundo, das condições de continuar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-382",
+   "texto_apoio": "Peças de uso ritual expostas em vitrines de museus levantam um problema que a conservação técnica não resolve: para a comunidade de origem, o objeto precisa ser alimentado, vestido ou mantido no escuro, e a exibição permanente contraria a regra que o constitui.",
+   "enunciado": "Esse conflito indica que a noção de conservação empregada pelas instituições:",
+   "alternativas": {
+    "a": "é incompatível com a legislação brasileira sobre bens culturais protegidos",
+    "b": "deve ser abandonada em favor da devolução imediata das peças de uso ritual",
+    "c": "supõe um objeto sem dono e sem uso, o que ignora o saber tradicional que define como aquela peça deve existir",
+    "d": "resolve o problema assim que a vitrine passa a receber iluminação reduzida",
+    "e": "encontra amparo em norma internacional que atribui às instituições depositárias a palavra final sobre as condições de guarda, dispensando a consulta às comunidades de origem nos casos em que houver risco documentado de deterioração"
+   },
+   "resposta": "c",
+   "explicacao": "Conservar segundo o manual pode ser, do ponto de vista da comunidade, deixar o objeto morrer. Museus que passaram a negociar acesso ritual ao acervo — abrir a vitrine em datas certas, permitir oferendas — reconhecem que a arte afro-brasileira e a arte indígena não param de ser usadas ao entrar na coleção museológica. Isso desloca a autoridade sobre o patrimônio cultural.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-383",
+   "texto_apoio": "A festa junina brasileira mistura o ciclo católico de Santo Antônio, São João e São Pedro com marcas do calendário agrícola europeu e com elementos indígenas e africanos. Nas cidades grandes ela virou evento de rua com traje caipira estilizado; no interior, segue ligada à colheita e à fogueira.",
+   "enunciado": "O traje caipira estilizado das festas urbanas é criticado por parte dos estudiosos porque:",
+   "alternativas": {
+    "a": "descaracteriza o vestuário original registrado em documentos do século XIX",
+    "b": "encarece a participação das famílias de baixa renda nos festejos do ciclo",
+    "c": "impede o reconhecimento da festa junina como patrimônio imaterial brasileiro",
+    "d": "transforma o morador rural em caricatura, convertendo cultura popular em fantasia de quem a observa de fora",
+    "e": "reproduz modelos de vestuário importados de festividades europeias equivalentes, o que descumpriria a exigência de autenticidade estabelecida pelas normas internacionais para o reconhecimento de manifestações culturais tradicionais"
+   },
+   "resposta": "d",
+   "explicacao": "O dente pintado de preto e o remendo aplicado no traje riem de alguém. A festa junina é bem cultural vivo do país inteiro; a questão é se ela celebra o campo ou o ridiculariza. Reconhecer a cultura popular como patrimônio cultural pressupõe tratar quem a pratica como sujeito, e não como personagem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-384",
+   "texto_apoio": "Alguns estados brasileiros criaram o registro de mestre da cultura, que concede bolsa vitalícia a quem detém e transmite um saber. O beneficiário assume o compromisso de ensinar, e o pagamento cobre a hora que ele deixaria de trabalhar para receber aprendizes.",
+   "enunciado": "A lógica desse tipo de política pública é:",
+   "alternativas": {
+    "a": "tratar a pessoa como suporte do bem, já que o saber tradicional só sobrevive se houver quem o ensine e quem o aprenda",
+    "b": "remunerar a apresentação pública do mestre em eventos oficiais do estado",
+    "c": "compensar financeiramente a perda de renda causada pelo tombamento do imóvel",
+    "d": "substituir o ensino formal nas escolas públicas das regiões atendidas pela bolsa",
+    "e": "transferir ao beneficiário a titularidade jurídica do bem cultural registrado, de modo que o uso do repertório por terceiros passe a depender de autorização escrita concedida pelo detentor da bolsa estadual"
+   },
+   "resposta": "a",
+   "explicacao": "No bem material o suporte é a pedra; no imaterial, é a pessoa. Um mestre de ofício que morre sem aprendiz leva o bem junto, e documentação nenhuma substitui a transmissão. Por isso a política de patrimônio imaterial financia a hora de ensinar — é o equivalente, na cultura popular, do reboco que se refaz num casarão tombado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-385",
+   "texto_apoio": "O rompimento da barragem de Fundão, em 2015, soterrou o distrito de Bento Rodrigues e alcançou aldeias Krenak no rio Doce. Além das casas, sumiram o cemitério, a igreja, as receitas de festa e a relação cotidiana com o rio, que o povo Krenak trata como parente.",
+   "enunciado": "Descrever esse episódio também como dano ao patrimônio cultural, e não apenas como dano ambiental e material, permite reconhecer que:",
+   "alternativas": {
+    "a": "o valor das casas destruídas deve ser recalculado pelo custo de reposição",
+    "b": "o que se perdeu inclui a memória coletiva e o saber tradicional de comunidades cuja vida se organizava em torno do rio",
+    "c": "o rio Doce deveria ter sido tombado antes do rompimento da barragem",
+    "d": "a reparação se esgota com a construção de casas novas em outro lugar",
+    "e": "a recomposição dos bens culturais atingidos caberia integralmente ao poder público estadual, restando às empresas envolvidas apenas o ressarcimento dos prejuízos materiais individualmente comprovados pelos moradores"
+   },
+   "resposta": "b",
+   "explicacao": "Reassentar não é reparar. Uma comunidade não é a soma de suas casas: é o cemitério onde os mortos estão, a festa que se repete no mesmo mês, o ponto do rio onde se pesca. Chamar isso de patrimônio cultural obriga a reparação a incluir o que não tem preço de mercado — e é por isso que os Krenak falam em perda de identidade cultural, e não só em prejuízo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-386",
+   "texto_apoio": "O modo artesanal de fazer queijo de leite cru em Minas Gerais foi registrado como patrimônio imaterial em 2008. Durante anos, porém, a norma sanitária federal exigiu maturação longa e leite pasteurizado, o que inviabilizava a venda do produto fora do estado.",
+   "enunciado": "O conflito entre o registro e a norma sanitária mostra que:",
+   "alternativas": {
+    "a": "o registro de um bem imaterial revoga as normas sanitárias que o alcançam",
+    "b": "a maturação longa melhora as características sensoriais do produto final",
+    "c": "o queijo deveria ter sido registrado como bem material, e não como imaterial",
+    "d": "a proteção conferida ao modo de fazer alcança apenas a documentação da técnica em arquivo público, sem produzir efeito sobre a comercialização do produto, que permanece submetida integralmente à disciplina sanitária vigente",
+    "e": "reconhecer um saber tradicional não basta: proteger o bem exige rever as regras de outros setores que o inviabilizam na prática"
+   },
+   "resposta": "e",
+   "explicacao": "Registro sem política é carimbo. O queijo de leite cru continuou impedido de circular anos depois de virar patrimônio cultural, e a saída veio de uma disputa normativa, não de um livro de registro. É o exemplo mais didático de que salvaguardar cultura popular significa mexer em regras que parecem não ter nada a ver com cultura.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-387",
+   "texto_apoio": "A convenção internacional de 2003 mantém duas listas de patrimônio imaterial: a representativa, que dá visibilidade a bens vivos, e a de salvaguarda urgente, destinada a práticas em risco de desaparecer. A maioria dos pedidos apresentados pelos países se dirige à primeira.",
+   "enunciado": "A preferência dos países pela lista representativa costuma ser explicada porque:",
+   "alternativas": {
+    "a": "a lista de urgência exige contrapartida financeira ao organismo internacional",
+    "b": "a lista representativa protege o bem contra usos comerciais indevidos",
+    "c": "a lista representativa rende prestígio e turismo, enquanto a de urgência expõe uma falha de política pública do próprio país",
+    "d": "a lista de urgência foi criada depois e ainda é pouco conhecida dos governos",
+    "e": "a inscrição na lista de salvaguarda urgente transfere ao organismo internacional a gestão direta do bem inscrito, arranjo que os países signatários evitam por implicar limitação de sua competência sobre manifestações culturais internas"
+   },
+   "resposta": "c",
+   "explicacao": "Patrimônio também é vitrine diplomática. Admitir que uma cultura popular está prestes a acabar é admitir que o Estado falhou em sustentá-la, e isso rende menos manchete que o título de patrimônio cultural da humanidade concedido pela UNESCO. Ler a lista como instrumento político, e não como classificação de valor, é o passo que separa a análise crítica do folheto turístico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "med-artes-388",
+   "texto_apoio": "Em 2020, estátuas de traficantes de escravizados e de colonizadores foram derrubadas ou pichadas em vários países. No Brasil, o debate recaiu sobre homenagens a bandeirantes, cujos monumentos ocupam praças e dão nome a avenidas.",
+   "enunciado": "Entre as saídas que a política de patrimônio tem oferecido a esse tipo de contestação está:",
+   "alternativas": {
+    "a": "a remoção imediata dos monumentos contestados, sem procedimento prévio",
+    "b": "a proibição de manifestações públicas nas praças onde esses monumentos se localizam, medida de proteção física que os órgãos de patrimônio brasileiros teriam adotado como regra geral após os episódios de contestação ocorridos naquele ano",
+    "c": "a transferência das peças para o exterior mediante acordo diplomático",
+    "d": "o tombamento imediato das homenagens contestadas, para impedir novas intervenções",
+    "e": "manter o monumento e acrescentar contra-informação no lugar, tratando a praça como campo de disputa sobre a memória coletiva"
+   },
+   "resposta": "e",
+   "explicacao": "Derrubar apaga; manter sem comentário legitima. A saída que vem sendo testada — placa nova, obra ao lado, troca de nome com registro do nome antigo — assume que o monumento é documento do que uma época quis celebrar, e que a identidade cultural de hoje pode discordar dele em voz alta. O mesmo país que ergueu essas homenagens deixou sem proteção os terreiros e a cultura popular negra; o patrimônio histórico, aqui, é o próprio campo de conflito.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -111612,6 +117348,669 @@ window.QUESTION_BANKS = {
    "explicacao": "A banca dá um texto que o candidato nunca viu e pede que ele o analise. Quem só decorou conclusões não tem com que trabalhar — falta o repertório de mecanismos que permite ler o texto novo.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-184",
+   "texto_apoio": "Levantamentos domiciliares mostram que, entre os jovens de 15 a 17 anos fora da rede de ensino, os motivos mais citados são a necessidade de trabalhar e o desinteresse pelo curso, e que a saída costuma vir precedida de reprovações.",
+   "enunciado": "A leitura mais adequada da evasão escolar no ensino médio a partir desses dados é:",
+   "alternativas": {
+    "a": "a evasão é decisão tomada de um dia para o outro, sem sinais anteriores que permitissem à rede de ensino identificar o estudante em risco antes da saída definitiva",
+    "b": "a evasão resulta de um processo acumulado de reprovação e distorção idade-série, agravado pela pressão para entrar no mercado de trabalho",
+    "c": "a evasão se explica pela ausência de vagas na rede pública, gargalo que responde pela maior parte das saídas registradas nessa faixa etária no país",
+    "d": "a evasão atinge de modo homogêneo os diferentes grupos de renda, o que a caracteriza como fenômeno de escolha individual desvinculado da posição social da família",
+    "e": "a evasão desapareceria com a ampliação do número de estabelecimentos de ensino, já que a distância até a unidade é o motivo declarado pela maioria dos jovens ouvidos"
+   },
+   "resposta": "b",
+   "explicacao": "Quem sai já vinha saindo. A reprovação empurra o estudante para uma turma de colegas mais novos, a defasagem corrói o sentido de continuar, e o trabalho aparece como alternativa concreta. Políticas de busca ativa funcionam porque agem sobre esse acúmulo, e não sobre o dia da desistência.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-185",
+   "texto_apoio": "Desde 2009 o ENEM passou a ser usado como porta de entrada ao ensino superior, articulado a programas de vaga pública e de bolsa em instituição privada, substituindo em boa parte das instituições o vestibular próprio.",
+   "enunciado": "O efeito estrutural mais relevante dessa mudança foi:",
+   "alternativas": {
+    "a": "eliminar a desigualdade de renda no acesso ao ensino superior, uma vez que a prova única passou a medir apenas o mérito individual de cada candidato inscrito",
+    "b": "reduzir o número de jovens que buscam o ensino superior, resultado do aumento da concorrência por vaga em instituições situadas fora da cidade de origem",
+    "c": "encerrar a expansão da rede privada, que perdeu sentido diante da oferta pública ampliada nas capitais e nas cidades de médio porte do território nacional",
+    "d": "ampliar a mobilidade geográfica do candidato, que passa a concorrer a vagas em outros estados com uma única inscrição e um único calendário",
+    "e": "transferir às universidades a definição do conteúdo cobrado, arranjo que devolveu a cada instituição a autonomia sobre o processo seletivo de ingresso da juventude"
+   },
+   "resposta": "d",
+   "explicacao": "Antes, concorrer em outro estado significava viajar, pagar outra taxa e estudar outro programa. A prova única derrubou esse custo e redesenhou o mapa de quem estuda onde. O ganho é real, mas não anula a desigualdade de renda anterior à prova: ela apenas muda o ponto em que a seleção acontece.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-186",
+   "texto_apoio": "Indicadores distinguem o analfabetismo absoluto — não saber ler nem escrever um bilhete simples — do analfabetismo funcional, em que a pessoa decodifica palavras mas não extrai sentido de um texto de complexidade média.",
+   "enunciado": "Acompanhar os dois indicadores importa porque:",
+   "alternativas": {
+    "a": "o analfabetismo funcional atinge parcela bem maior da população adulta e limita o desempenho no mercado de trabalho mesmo entre quem concluiu a etapa obrigatória",
+    "b": "os dois indicadores medem a mesma coisa em escalas diferentes, de modo que acompanhar um deles basta para descrever a situação educacional do país",
+    "c": "o analfabetismo absoluto voltou a crescer no Brasil na década de 2010, revertendo a tendência observada desde a redemocratização nas diferentes faixas de idade",
+    "d": "o analfabetismo funcional se concentra entre pessoas idosas, grupo que já saiu da vida produtiva e por isso não interfere nos indicadores nacionais de escolaridade",
+    "e": "a distinção existe por razões estatísticas internacionais, sem correspondência com diferenças de trajetória escolar entre os grupos medidos por cada um dos indicadores"
+   },
+   "resposta": "a",
+   "explicacao": "O analfabetismo absoluto recuou e se concentra hoje entre pessoas idosas; o funcional é o problema vivo, e ele aparece dentro da escola, não fora dela. Um diploma que não vem acompanhado de leitura proficiente devolve ao adulto uma dificuldade que ninguém registrou como fracasso escolar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-187",
+   "texto_apoio": "A reformulação do ensino médio aprovada em 2017 dividiu a carga entre formação geral básica e itinerários formativos escolhidos pelo estudante. Em 2024, uma nova lei ampliou a carga comum e reduziu o espaço dos itinerários.",
+   "enunciado": "A crítica que motivou essa revisão apontava que:",
+   "alternativas": {
+    "a": "os itinerários exigiam professor com formação específica, requisito que as redes cumpriram com folga já no primeiro ano de vigência do desenho original aprovado",
+    "b": "a formação geral básica havia sido ampliada além do necessário, deixando pouco espaço para os componentes de escolha do estudante em cada rede de ensino",
+    "c": "a oferta de itinerários dependia da estrutura de cada escola, de modo que a escolha prometida ao estudante variava conforme a rede em que ele estava matriculado",
+    "d": "a mudança elevou o custo de matrícula na rede privada, efeito que não se verificou nas unidades públicas por causa do financiamento definido em lei específica",
+    "e": "os itinerários foram desenhados para a juventude que já trabalha, público que não corresponde à maior parte das matrículas registradas na etapa em questão"
+   },
+   "resposta": "c",
+   "explicacao": "Escolha só é escolha quando há alternativas. Onde a rede oferecia um único itinerário, o estudante escolhia o que havia — e a promessa de personalização virou sorteio de endereço. A revisão de 2024 recompôs a base comum justamente para que a desigualdade entre escolas não decidisse o currículo de cada aluno.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-188",
+   "texto_apoio": "O acompanhamento da alfabetização passou a usar um indicador que mede a proporção de crianças ao fim do segundo ano do ensino fundamental com desempenho adequado em leitura.",
+   "enunciado": "Fixar o segundo ano como marco de referência se justifica porque:",
+   "alternativas": {
+    "a": "é a etapa em que a criança já domina a escrita argumentativa, competência avaliada pelo indicador em provas aplicadas na rede de ensino do país",
+    "b": "é o último ano da educação infantil, momento em que a rede avalia a transição entre as duas etapas da educação básica oferecidas às famílias",
+    "c": "é o ponto em que a desigualdade social deixa de influenciar o desempenho, o que torna a medição comparável entre redes de diferentes regiões brasileiras",
+    "d": "é a etapa em que a evasão escolar atinge o pico, o que faz do indicador uma medida indireta da permanência das crianças matriculadas na rede pública",
+    "e": "é a idade em que a defasagem ainda pode ser revertida com custo baixo, antes que ela contamine a aprendizagem dos componentes seguintes"
+   },
+   "resposta": "e",
+   "explicacao": "Quem chega ao quinto ano sem ler direito não falha só em português: falha em enunciado de matemática, em texto de ciências, em prova de qualquer componente. Medir cedo é caro; medir tarde é mais caro. A escolha do marco é uma aposta sobre onde a intervenção ainda cabe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-189",
+   "texto_apoio": "Avaliações nacionais aplicadas depois do fechamento das atividades presenciais em 2020 e 2021 mostraram queda de desempenho, mais acentuada entre estudantes de menor renda e nas redes com maior dificuldade de manter contato com as famílias.",
+   "enunciado": "A resposta descrita como recomposição da aprendizagem consiste em:",
+   "alternativas": {
+    "a": "repetir integralmente os anos letivos afetados para os estudantes da rede, medida que restabelece a sequência curricular interrompida no período considerado",
+    "b": "reduzir o conteúdo cobrado nas avaliações seguintes, ajuste que devolve às notas a comparabilidade com as séries históricas anteriores ao período de fechamento",
+    "c": "transferir aos responsáveis a tarefa de reforço em casa, arranjo que dispensa a rede de ensino de reorganizar o planejamento das aulas do ano em curso",
+    "d": "adiar a aplicação das avaliações nacionais até que os indicadores retornem ao patamar anterior, evitando que o resultado penalize as escolas mais atingidas",
+    "e": "diagnosticar o que cada turma deixou de aprender e retomar esses pontos dentro do currículo do ano corrente, sem repetir o programa inteiro"
+   },
+   "resposta": "e",
+   "explicacao": "Repetir tudo custa um ano de vida escolar e desmotiva quem aprendeu; ignorar produz uma turma que não acompanha o ano seguinte. A recomposição é a via do meio: identificar as lacunas que travam o conteúdo novo e tratá-las no caminho. Como a queda foi desigual, o diagnóstico por turma é o que impede que a desigualdade social vire defasagem permanente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-190",
+   "texto_apoio": "Pesquisas com estudantes de licenciatura e com professores em exercício apontam remuneração inicial baixa, número elevado de turmas por docente e percepção de baixo prestígio como fatores que afastam candidatos da carreira.",
+   "enunciado": "O efeito de longo prazo dessa combinação sobre a rede de ensino é:",
+   "alternativas": {
+    "a": "a elevação da nota de corte nos cursos de licenciatura, resultado da concorrência crescente por vagas em uma carreira percebida como estável no mercado de trabalho",
+    "b": "a substituição do professor por material padronizado, solução que as redes adotaram com resultados equivalentes aos obtidos com docente concursado em sala",
+    "c": "a irrelevância do fator docente para o desempenho dos estudantes, já que a infraestrutura da escola responde pela maior parte da variação observada nos resultados",
+    "d": "a queda da atratividade em cascata: menos candidatos qualificados entram, mais difícil fica cobrir as turmas e mais se recorre a contratos temporários",
+    "e": "a concentração dos melhores docentes nas redes mais pobres, movimento explicado pelos adicionais de difícil acesso pagos nessas localidades do território nacional"
+   },
+   "resposta": "d",
+   "explicacao": "É um circuito que se realimenta: salário e condições afastam candidatos, a falta de candidatos amplia a rotatividade, e a rotatividade derruba o resultado que justificaria investir na carreira. Some-se a isso a desigualdade de gênero de uma profissão majoritariamente feminina e historicamente mal remunerada.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-191",
+   "texto_apoio": "A ampliação da escola em tempo integral prevê jornada de sete horas ou mais e articula, no mesmo turno, componentes curriculares e atividades de esporte, arte e apoio pedagógico.",
+   "enunciado": "O argumento mais consistente a favor dessa ampliação é:",
+   "alternativas": {
+    "a": "o tempo adicional permite retomar defasagens e amplia o repertório do estudante, além de reduzir a exposição da juventude a situações de risco no contraturno",
+    "b": "a jornada estendida reduz o custo por matrícula, já que o mesmo prédio passa a atender o dobro de estudantes ao longo dos dois turnos regulares da rede",
+    "c": "a permanência integral dispensa a participação das famílias no acompanhamento escolar, transferindo à rede de ensino a totalidade da formação da criança",
+    "d": "o modelo elimina a necessidade de avaliação externa, porque o acompanhamento diário do professor substitui os indicadores nacionais de aprendizagem aplicados às redes",
+    "e": "a jornada ampliada beneficia sobretudo os estudantes de renda alta, que dispõem de condições para permanecer na unidade durante o período integral oferecido"
+   },
+   "resposta": "a",
+   "explicacao": "O tempo é insumo, não resultado: turno estendido sem projeto pedagógico vira depósito. Onde funciona, ele soma reforço a repertório — e faz por uma criança de periferia o que a agenda paga de esporte e idioma faz por outra. O custo por matrícula sobe, não cai; a defesa é de efeito, não de economia.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-192",
+   "texto_apoio": "A lei de 2012 reservou parte das vagas das instituições federais a egressos da rede pública, com recortes de renda, cor e origem. A revisão aprovada em 2023 manteve a política e ajustou seus critérios.",
+   "enunciado": "A crítica que a avaliação empírica dessa política ajudou a responder era a de que:",
+   "alternativas": {
+    "a": "as vagas reservadas ficariam ociosas, previsão que se confirmou nas instituições federais das regiões com menor oferta de ensino médio público",
+    "b": "os ingressantes por reserva teriam desempenho e taxas de conclusão muito inferiores, o que os acompanhamentos institucionais não confirmaram",
+    "c": "a política seria incapaz de alterar a composição do corpo discente, já que o número de vagas reservadas é pequeno diante do total ofertado pelas instituições",
+    "d": "a reserva substituiria o critério de nota, permitindo o ingresso de candidatos sem aprovação no processo seletivo aplicado às demais vagas da instituição",
+    "e": "a política provocaria a saída dos estudantes de renda alta para a rede privada, movimento que esvaziaria as universidades públicas ao longo da década seguinte"
+   },
+   "resposta": "b",
+   "explicacao": "O medo declarado era de queda de qualidade; os dados mostraram diferenças pequenas e, em vários cursos, desempenho semelhante. Isso deslocou o debate para a permanência — moradia, alimentação e bolsa —, porque o gargalo do estudante cotista, incluindo indígenas e quilombolas, passou a ser ficar, e não entrar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-193",
+   "texto_apoio": "A partir do início da década de 2020, os cursos a distância passaram a responder pela maior parte dos ingressos na graduação brasileira, com concentração em licenciaturas e em cursos de gestão.",
+   "enunciado": "A tensão central que essa expansão coloca é:",
+   "alternativas": {
+    "a": "entre custo e alcance de um lado e garantia de qualidade de outro, sobretudo em cursos que exigem prática supervisionada, como as licenciaturas",
+    "b": "entre a oferta pública e a privada, já que a modalidade a distância é ofertada apenas por instituições mantidas com recursos do poder público federal",
+    "c": "entre as regiões do país, uma vez que a modalidade só alcança municípios que dispõem de campus presencial de alguma instituição de educação superior",
+    "d": "entre gerações, porque a modalidade atende somente estudantes que já concluíram uma primeira graduação e buscam recolocação no mercado de trabalho",
+    "e": "entre áreas do conhecimento, pois a modalidade se restringe por lei aos cursos que dispensam atividade prática ao longo da formação oferecida"
+   },
+   "resposta": "a",
+   "explicacao": "A modalidade resolve um problema real: leva educação superior a quem trabalha e a quem mora longe de um campus. O que ela não resolve sozinha é a formação que depende de estágio acompanhado e de laboratório — e é justamente aí, na formação do professor, que a expansão foi mais rápida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-194",
+   "texto_apoio": "A política brasileira de educação especial na perspectiva inclusiva prevê a matrícula dos estudantes com deficiência em turmas comuns, acompanhada de atendimento educacional especializado no contraturno.",
+   "enunciado": "O sentido dessa opção é:",
+   "alternativas": {
+    "a": "reduzir o custo da rede, uma vez que a turma comum dispensa profissional de apoio e material adaptado para o estudante com deficiência matriculado",
+    "b": "concentrar esses estudantes em unidades especializadas, arranjo que assegura atendimento contínuo por equipe com formação específica na área",
+    "c": "condicionar a matrícula em turma comum à comprovação de desempenho equivalente ao dos demais estudantes daquele ano da educação básica",
+    "d": "reconhecer que a convivência na turma comum é parte da formação de ambos os grupos, e que o apoio especializado complementa, sem substituir, essa convivência",
+    "e": "transferir à família a escolha entre a turma comum e a unidade especializada, decisão que a rede de ensino acata sem oferecer contrapartida de apoio pedagógico"
+   },
+   "resposta": "d",
+   "explicacao": "A inclusão não é generosidade com um lado: a turma que convive aprende algo que nenhuma aula ensina. Mas matrícula sem apoio é abandono com outro nome — sem profissional de apoio, material acessível e formação do professor, a inclusão vira presença física e a desigualdade social se soma à barreira da deficiência.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-195",
+   "texto_apoio": "Séries históricas do mercado de trabalho mostram que trabalhadores negros recebem, em média, rendimento inferior ao dos brancos, e que a diferença persiste, embora menor, quando se comparam pessoas com a mesma escolaridade e na mesma ocupação.",
+   "enunciado": "A persistência da diferença após esses controles estatísticos indica que:",
+   "alternativas": {
+    "a": "a diferença observada decorre por inteiro da distribuição desigual da escolaridade, fator que os controles estatísticos já eliminam da comparação apresentada",
+    "b": "o mercado de trabalho remunera segundo a produtividade individual, de modo que a diferença remanescente reflete características não observadas pelo pesquisador",
+    "c": "parte da desigualdade racial de renda opera dentro do próprio mercado de trabalho, por meio de seleção, promoção e acesso a redes de contato",
+    "d": "a comparação perde validade quando se controla a escolaridade, porque grupos com trajetórias distintas deixam de ser comparáveis entre si em análise de renda",
+    "e": "a diferença desapareceria com a ampliação do acesso ao ensino superior, política suficiente para igualar os rendimentos dos dois grupos em uma única geração"
+   },
+   "resposta": "c",
+   "explicacao": "O controle estatístico é o teste decisivo: igualando diploma e cargo, a diferença encolhe e não some. O que sobra é o efeito do racismo dentro da porta de entrada — quem é chamado para a entrevista, quem é promovido, quem é apresentado a quem. Por isso a política de acesso ao ensino é necessária, mas não basta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-196",
+   "texto_apoio": "Em 2023 uma lei brasileira equiparou a injúria racial ao crime de racismo, tornando-a imprescritível e inafiançável. Antes disso, ofensas raciais dirigidas a uma pessoa determinada recebiam tratamento penal distinto.",
+   "enunciado": "A mudança é relevante porque:",
+   "alternativas": {
+    "a": "criou o crime de racismo no ordenamento brasileiro, até então ausente da legislação penal em vigor no país desde a promulgação da Constituição",
+    "b": "retirou da vítima a possibilidade de acionar a justiça, transferindo ao poder público a iniciativa exclusiva de apuração desse tipo de ocorrência",
+    "c": "restringiu a aplicação da norma aos casos ocorridos em ambiente de trabalho, deixando fora da proteção as ofensas praticadas em espaços de convivência pública",
+    "d": "reconheceu que a ofensa dirigida a uma pessoa por sua cor não é conflito privado, mas manifestação de um fenômeno coletivo que a lei já tratava como crime grave",
+    "e": "substituiu a pena de prisão por medidas educativas, alteração que reduziu o número de registros formalizados nas delegacias especializadas dos estados brasileiros"
+   },
+   "resposta": "d",
+   "explicacao": "Racismo já era crime desde 1989; a injúria racial ficava num regime mais brando, como se ofender alguém por sua cor fosse desavença entre duas pessoas. A equiparação reposiciona a conduta e conversa com a discussão de segurança pública sobre quem é abordado, quem é preso e quem é ouvido.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-197",
+   "texto_apoio": "A tipificação do feminicídio entrou no Código Penal brasileiro em 2015 como circunstância qualificadora; em 2024, uma nova lei o transformou em tipo penal autônomo, com pena própria.",
+   "enunciado": "A finalidade de nomear esse crime de forma específica é:",
+   "alternativas": {
+    "a": "elevar a pena dos homicídios praticados no país, ajuste que responde ao crescimento geral dos índices de violência registrados nas últimas décadas",
+    "b": "substituir as medidas protetivas de urgência, que deixaram de ser aplicáveis aos casos em que houve ameaça anterior registrada pela vítima na delegacia",
+    "c": "transferir a competência do julgamento desses casos para a esfera administrativa, arranjo que abrevia o tempo de tramitação dos processos no sistema de justiça",
+    "d": "restringir a proteção às vítimas casadas com o autor da agressão, recorte que a legislação anterior tratava de modo mais amplo do que a redação vigente",
+    "e": "tornar visível na estatística e no processo a morte de mulheres por razões de gênero, o que permite dimensionar o problema e cobrar resposta específica"
+   },
+   "resposta": "e",
+   "explicacao": "Enquanto a morte era contada como homicídio comum, não havia número — e sem número não há política. Nomear separa o crime que decorre da relação de gênero do crime patrimonial ou da rixa, e liga o dado à rede de proteção contra a violência doméstica que o antecede na maioria dos casos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-198",
+   "texto_apoio": "A Lei Maria da Penha, de 2006, criou medidas protetivas de urgência que podem ser concedidas com rapidez e independem da abertura de processo criminal contra o agressor.",
+   "enunciado": "A razão técnica para desvincular a medida protetiva do processo criminal é:",
+   "alternativas": {
+    "a": "reduzir o número de processos criminais em tramitação, objetivo administrativo que orientou a redação aprovada pelo legislador em 2006",
+    "b": "condicionar a proteção à decisão da vítima de manter a denúncia, requisito que assegura a coerência entre a medida concedida e a vontade manifestada",
+    "c": "impedir que o agressor seja responsabilizado criminalmente, efeito buscado para preservar o vínculo familiar existente entre as partes envolvidas no conflito",
+    "d": "transferir a concessão da medida à autoridade policial do plantão, que passa a decidir sem participação do juiz em nenhuma etapa posterior do procedimento",
+    "e": "o risco de violência doméstica é imediato e não espera o tempo do processo, de modo que a proteção precisa chegar antes da apuração da responsabilidade penal"
+   },
+   "resposta": "e",
+   "explicacao": "O processo penal leva meses; o agressor volta para casa hoje. A medida protetiva opera noutra lógica: ela protege enquanto se apura, e não depois de apurado. Foi essa separação, mais do que o aumento de pena, que deu à lei sua eficácia prática — e ela dialoga com a política de segurança pública nos estados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-199",
+   "texto_apoio": "Pesquisas de uso do tempo mostram que mulheres dedicam, em média, cerca do dobro das horas semanais que os homens dedicam a afazeres domésticos e ao cuidado de crianças e de pessoas idosas da família.",
+   "enunciado": "A consequência dessa distribuição para a inserção feminina no mercado de trabalho é:",
+   "alternativas": {
+    "a": "a ampliação da presença feminina em ocupações de jornada integral, resultado da flexibilidade que o trabalho de cuidado oferece à organização da rotina familiar",
+    "b": "a ausência de efeito mensurável, uma vez que o trabalho de cuidado é realizado fora do horário destinado à ocupação remunerada pela maior parte das trabalhadoras",
+    "c": "uma jornada dupla que empurra parte delas para ocupações de meio período e interrompe trajetórias no momento em que a carreira costuma avançar",
+    "d": "a concentração das mulheres em cargos de direção, posições cuja autonomia de horário permite conciliar as duas jornadas sem perda de rendimento mensal",
+    "e": "a equalização dos rendimentos entre homens e mulheres com a mesma formação, efeito verificado nas ocupações em que o cuidado é remunerado pelo empregador"
+   },
+   "resposta": "c",
+   "explicacao": "O trabalho de cuidado não aparece nas contas nacionais e aparece inteiro na trajetória de quem o faz. A desigualdade de gênero na remuneração não se explica só pelo que acontece na empresa: boa parte já foi decidida em casa, na hora de escolher quem reduz a jornada de trabalho quando nasce uma criança.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-200",
+   "texto_apoio": "O levantamento censitário brasileiro passou a investigar de forma mais detalhada a composição dos domicílios, e pesquisas por amostra começaram a coletar informação sobre orientação sexual e identidade de gênero da população adulta.",
+   "enunciado": "A relevância estatística dessa coleta está em:",
+   "alternativas": {
+    "a": "produzir a base sem a qual a população LGBT permanece invisível nos indicadores, condição que dificulta dimensionar desvantagens no acesso ao ensino e ao mercado de trabalho",
+    "b": "substituir os registros administrativos existentes nos serviços públicos, que passam a ser dispensáveis para o acompanhamento das políticas dirigidas a esse segmento da população brasileira adulta",
+    "c": "permitir a identificação individual dos respondentes, requisito para o desenho de ações dirigidas a cada pessoa cadastrada nos serviços públicos municipais",
+    "d": "encerrar a discussão sobre discriminação, já que a existência do dado estatístico resolve por si a desvantagem observada nos indicadores levantados pela pesquisa",
+    "e": "reduzir o custo do levantamento, porque a inclusão de novos quesitos diminui o número de visitas domiciliares necessárias em cada setor censitário pesquisado"
+   },
+   "resposta": "a",
+   "explicacao": "Não medir é uma decisão, e ela tem efeito: sem dado não há série histórica, não há comparação e não há como cobrar resultado. O quesito não resolve a desigualdade social que descreve, mas retira o problema do campo da estimativa e o coloca no do orçamento e da avaliação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-201",
+   "texto_apoio": "O índice de Gini varia de zero, na distribuição perfeitamente igual, a um, na concentração total. O valor brasileiro oscila em torno de 0,52, entre os mais altos do mundo, e responde tanto a rendimentos do trabalho quanto a transferências.",
+   "enunciado": "A leitura correta desse indicador reconhece que:",
+   "alternativas": {
+    "a": "o índice mede a pobreza, de modo que sua queda indica necessariamente a redução do número de pessoas abaixo da linha adotada pelo levantamento",
+    "b": "o índice capta a distribuição relativa, e pode cair tanto pelo crescimento da renda na base quanto pela queda na renda do topo da distribuição",
+    "c": "o índice depende apenas da informalidade do mercado de trabalho, fator que responde isoladamente pela posição brasileira na comparação internacional",
+    "d": "o índice permanece constante ao longo do tempo em economias de renda média, o que o torna inadequado para acompanhar mudanças de curto prazo na distribuição",
+    "e": "o índice mede a desigualdade de renda entre países, e não dentro de um mesmo país, razão pela qual o valor brasileiro se compara ao de blocos econômicos"
+   },
+   "resposta": "b",
+   "explicacao": "Distribuição relativa não é o mesmo que bem-estar: um país pode ficar mais igual empobrecendo o topo. Por isso o Gini se lê ao lado do nível de renda e da escolaridade da população — sozinho, ele diz como o bolo está repartido, e nada sobre o tamanho do bolo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-202",
+   "texto_apoio": "Estudos de mobilidade social comparam a posição de renda dos filhos à dos pais. Estimativas internacionais indicam que, em países muito desiguais, uma família na base da distribuição levaria várias gerações para alcançar a renda média nacional.",
+   "enunciado": "O mecanismo que explica essa lentidão é:",
+   "alternativas": {
+    "a": "a transmissão da posição por vias indiretas: escola frequentada, rede de contatos e tempo disponível para estudar, que se somam à renda dos pais",
+    "b": "a ausência de crescimento econômico, condição sem a qual nenhuma família muda de posição relativa ao longo das gerações consideradas pelo estudo",
+    "c": "a herança financeira direta, que responde pela maior parte da transmissão de posição entre pais e filhos nas faixas de renda mais baixas da distribuição",
+    "d": "a decisão individual de não investir em formação, comportamento que os estudos identificam como principal responsável pela reprodução da posição de origem",
+    "e": "a mudança de composição das famílias, fator que altera o número de filhos por domicílio e explica a estabilidade observada na distribuição de renda entre gerações"
+   },
+   "resposta": "a",
+   "explicacao": "A herança que mais pesa não é o patrimônio, é o entorno. O endereço define a escola, a escola define a rede de contatos, e a renda dos pais define quantas horas o filho pode dedicar ao estudo em vez do trabalho. É por isso que a desigualdade de renda de um país se lê melhor em duas gerações do que em um ano.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-203",
+   "texto_apoio": "Levantamentos domiciliares registram, na década de 2020, mais de um milhão e meio de crianças e adolescentes de 5 a 17 anos em situação de trabalho no Brasil, parcela expressiva em atividades consideradas das piores formas.",
+   "enunciado": "A relação entre trabalho na infância e trajetória escolar é descrita corretamente por:",
+   "alternativas": {
+    "a": "o trabalho precoce melhora o desempenho escolar, porque impõe disciplina de horário e antecipa o contato com as exigências do mercado de trabalho adulto",
+    "b": "as duas dimensões são independentes, já que a jornada de trabalho das crianças ocorre em horário distinto do turno de aula na maior parte dos casos",
+    "c": "o trabalho precoce concorre com o tempo de estudo e antecipa a evasão escolar, o que rebaixa a renda futura e reproduz a situação da geração anterior",
+    "d": "a permanência na escola é o único fator determinado por esse trabalho, sem repercussão sobre a inserção ocupacional na vida adulta dessas crianças",
+    "e": "o trabalho na infância desapareceu das áreas urbanas brasileiras, restando apenas em atividades agrícolas familiares de regiões de baixa densidade populacional"
+   },
+   "resposta": "c",
+   "explicacao": "O ganho imediato é real e pequeno; a perda é diferida e grande. Quem trabalha aos treze chega pior aos dezoito, ganha menos aos trinta e coloca os próprios filhos na mesma rota. É o que faz do trabalho infantil um problema de renda futura, e não apenas de proteção presente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-204",
+   "texto_apoio": "A taxa de informalidade brasileira oscila em torno de quatro em cada dez pessoas ocupadas e reúne situações distintas: trabalho sem carteira assinada, conta própria sem registro e empregadores sem inscrição formal.",
+   "enunciado": "Tratar a informalidade como categoria única é problemático porque:",
+   "alternativas": {
+    "a": "a informalidade deixou de existir como fenômeno relevante no mercado de trabalho brasileiro depois da ampliação do registro individual de pequenos negócios",
+    "b": "ela reúne desde a sobrevivência sem alternativa até a escolha por autonomia com rendimento alto, e cada situação pede resposta diferente",
+    "c": "as situações reunidas na categoria têm o mesmo rendimento médio, o que torna a divisão em subgrupos um exercício sem consequência prática para a política pública",
+    "d": "a informalidade se concentra na indústria de transformação, setor em que a fiscalização do vínculo é mais simples de executar do que nos serviços prestados às famílias",
+    "e": "os trabalhadores informais têm escolaridade média superior à dos formais, característica que inverte a leitura usual sobre a relação entre formação e tipo de vínculo"
+   },
+   "resposta": "b",
+   "explicacao": "A palavra esconde dois mundos: o entregador sem proteção e o profissional que emite nota e ganha bem estão na mesma linha da estatística. Só o primeiro precisa de proteção previdenciária urgente. Confundi-los produz política que erra o alvo e reforça a desigualdade de renda que pretendia corrigir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-205",
+   "texto_apoio": "A reforma trabalhista de 2017 alterou a Consolidação das Leis do Trabalho em pontos como a prevalência do negociado sobre o legislado, o fim da obrigatoriedade da contribuição sindical e a criação do contrato intermitente.",
+   "enunciado": "Uma avaliação equilibrada dos efeitos observados nos anos seguintes reconhece que:",
+   "alternativas": {
+    "a": "a reforma produziu o aumento de vínculos formais prometido por seus defensores e, ao mesmo tempo, a elevação do rendimento médio esperada pelos críticos do desenho anterior",
+    "b": "a reforma foi revogada em sua totalidade antes de completar cinco anos de vigência, o que impede avaliar empiricamente os efeitos previstos",
+    "c": "os efeitos se restringiram ao serviço público, esfera em que a negociação coletiva substituiu integralmente as regras gerais aplicáveis à jornada de trabalho",
+    "d": "a geração de vínculos formais ficou abaixo do prometido, e parte do emprego criado veio em modalidades de renda instável, como o contrato intermitente",
+    "e": "a reforma elevou a arrecadação das entidades sindicais, resultado do crescimento voluntário das contribuições feitas pelos trabalhadores da categoria representada"
+   },
+   "resposta": "d",
+   "explicacao": "A promessa era formalizar em massa; o observado foi mais modesto e mais heterogêneo. O contrato intermitente formaliza no papel e não assegura renda no mês, o que criou uma faixa nova entre o vínculo estável e a informalidade — e a queda de arrecadação enfraqueceu quem negociaria a correção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-206",
+   "texto_apoio": "A proporção de trabalhadores brasileiros filiados a alguma entidade sindical caiu de forma acentuada ao longo da década de 2010 e seguiu recuando na década seguinte, em movimento observado também em outros países.",
+   "enunciado": "Entre os fatores que explicam essa queda, o mais diretamente ligado à estrutura ocupacional é:",
+   "alternativas": {
+    "a": "a elevação da idade média dos trabalhadores, característica que reduz a filiação por deslocar a base para faixas etárias historicamente menos participativas",
+    "b": "a redução da jornada de trabalho legal, mudança que retirou do sindicato a principal pauta capaz de mobilizar a categoria representada em cada negociação",
+    "c": "o crescimento do peso dos serviços e do trabalho por conta própria, formas dispersas em que a base tradicional de organização por fábrica não se reproduz",
+    "d": "o aumento do rendimento médio da juventude ocupada, que teria tornado desnecessária a representação coletiva nas negociações conduzidas em cada categoria",
+    "e": "a proibição legal da negociação coletiva em atividades de serviço, restrição que retirou desses setores o instrumento sobre o qual a filiação se justificava"
+   },
+   "resposta": "c",
+   "explicacao": "O sindicato nasceu da fábrica: mesma jornada, mesmo pátio, mesma reivindicação. Onde o trabalho se dispersa em milhares de contratos individuais, a base física da organização some antes que a necessidade dela. É por isso que a queda de filiação convive com aumento, e não com queda, da desigualdade de renda no mercado de trabalho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-207",
+   "texto_apoio": "Ganhou espaço no debate público brasileiro dos anos 2020 a proposta de reduzir a jornada de trabalho semanal e de rever a escala em que o trabalhador cumpre seis dias de trabalho para um de descanso.",
+   "enunciado": "O argumento de quem defende a mudança se apoia principalmente em:",
+   "alternativas": {
+    "a": "a constatação de que a produtividade por hora trabalhada cresce de forma proporcional à extensão da jornada cumprida em cada estabelecimento do setor de serviços",
+    "b": "o entendimento de que a jornada é matéria que dispensa negociação coletiva, cabendo ao empregador a definição unilateral da escala aplicada a cada função",
+    "c": "a expectativa de que a redução da jornada elimine a informalidade, efeito que dispensaria as demais políticas dirigidas ao mercado de trabalho brasileiro",
+    "d": "a observação de que o tempo de deslocamento nas grandes cidades se soma à jornada, de modo que o descanso efetivo é menor do que o previsto em contrato",
+    "e": "a avaliação de que a mudança beneficiaria apenas os trabalhadores de renda alta, grupo que já dispõe de autonomia para definir o próprio horário de trabalho"
+   },
+   "resposta": "d",
+   "explicacao": "O ponto forte do argumento é o que o contrato não mede. Duas horas diárias de ônibus em uma cidade sem mobilidade urbana adequada saem do descanso e não aparecem em lugar nenhum da folha. O contra-argumento — efeito sobre custo e sobre a geração de vagas — é empírico, e por isso o debate não se resolve por princípio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-208",
+   "texto_apoio": "Duas formas de transferência de renda convivem no debate brasileiro: a condicionada, que exige contrapartidas como frequência escolar e acompanhamento de crianças, e a renda básica incondicional, paga sem exigência de contrapartida.",
+   "enunciado": "O principal argumento a favor da forma incondicional é:",
+   "alternativas": {
+    "a": "a fiscalização das contrapartidas custa caro e pode excluir justamente quem tem mais dificuldade de cumpri-las, invertendo o alvo da política",
+    "b": "a exigência de contrapartida reduz por definição o valor recebido pela família, efeito que a forma incondicional corrige ao ampliar automaticamente o benefício pago",
+    "c": "a forma incondicional dispensa cadastro e cobertura, o que elimina a necessidade de identificar as famílias em situação de vulnerabilidade em cada território",
+    "d": "a contrapartida de frequência escolar deixou de produzir efeito sobre a permanência das crianças na rede de ensino desde a universalização do acesso à etapa obrigatória",
+    "e": "a forma incondicional substitui as demais políticas dirigidas à educação básica, que se tornam dispensáveis quando a renda familiar atinge o patamar mínimo definido"
+   },
+   "resposta": "a",
+   "explicacao": "O argumento não é que a condicionalidade não funcione — há evidência de que ela aumenta a frequência escolar. É que o custo de verificar recai sobre quem já está no limite: a família sem transporte, sem documento ou sem vaga perde o benefício por não cumprir o que não dependia dela. A escolha entre as duas formas pesa esses dois efeitos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-209",
+   "texto_apoio": "Operações de fiscalização resgatam anualmente, no Brasil, milhares de pessoas em condições análogas às de escravo. A caracterização não depende de restrição à liberdade de ir e vir: jornada exaustiva e condição degradante bastam para configurá-la.",
+   "enunciado": "Essa definição ampliada é relevante porque:",
+   "alternativas": {
+    "a": "restringe a caracterização aos casos em que houve transporte da vítima para outro estado, requisito que orienta o trabalho das equipes de fiscalização em campo",
+    "b": "equipara a condição ao mero descumprimento de norma trabalhista, o que amplia o alcance da fiscalização sobre o conjunto das empresas do setor produtivo",
+    "c": "desloca o critério do cárcere para as condições concretas de trabalho, alcançando situações em que a pessoa poderia sair e não tinha para onde ir",
+    "d": "condiciona o resgate à denúncia formalizada pela própria vítima, exigência que explica o número reduzido de operações realizadas nas áreas rurais mais isoladas",
+    "e": "limita a responsabilização ao intermediário que recrutou a mão de obra, poupando o tomador final do serviço prestado nas cadeias produtivas envolvidas"
+   },
+   "resposta": "c",
+   "explicacao": "A imagem de corrente e vigia é a exceção; a regra é a dívida que cresce, o alojamento sem água e a jornada que não termina. Ao olhar para as condições, e não para a tranca, a lei alcança o que de fato prende — e é por isso que o tema aparece ligado à desigualdade social das regiões de origem dos trabalhadores recrutados.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-210",
+   "texto_apoio": "O déficit habitacional brasileiro, estimado em torno de seis milhões de domicílios, soma situações distintas: coabitação forçada, ônus excessivo com aluguel, adensamento e habitação precária.",
+   "enunciado": "A composição desse indicador importa para a política de moradia porque:",
+   "alternativas": {
+    "a": "cada componente pede resposta diferente, e o ônus com aluguel, hoje o mais numeroso, não se resolve apenas com a construção de novas unidades",
+    "b": "o indicador mede apenas a ausência de teto, de modo que a resposta adequada se resume à construção de unidades novas em terreno de baixo custo",
+    "c": "os componentes se equivalem em número e em urgência, o que permite tratá-los por um único instrumento de financiamento habitacional em âmbito nacional",
+    "d": "o déficit se concentra na zona rural, onde a autoconstrução responde pela maior parte das moradias erguidas pelas famílias de menor rendimento mensal",
+    "e": "a redução do déficit depende somente da queda da taxa de financiamento imobiliário, variável que independe das demais políticas dirigidas às cidades"
+   },
+   "resposta": "a",
+   "explicacao": "Construir longe e barato responde a um componente e agrava outro: a família sai do aluguel e entra num endereço sem emprego, sem serviço e a duas horas do centro. Onde o problema é o valor do aluguel, subsídio à locação e regularização entregam mais rápido — e a população em situação de rua costuma vir dessa faixa que perdeu o teto por preço, não por falta de obra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-211",
+   "texto_apoio": "Pesquisas sobre deslocamento nas regiões metropolitanas brasileiras mostram que trabalhadores de menor renda gastam mais tempo no trajeto diário e dependem mais do transporte coletivo do que os de renda alta.",
+   "enunciado": "Essa desigualdade no acesso à mobilidade urbana produz como efeito:",
+   "alternativas": {
+    "a": "a redução do tempo total de jornada dos trabalhadores de menor renda, que compensam o trajeto com a proximidade entre residência e local de trabalho",
+    "b": "a irrelevância do transporte coletivo para o funcionamento do mercado de trabalho metropolitano, já que o deslocamento é decisão estritamente individual",
+    "c": "a igualação das oportunidades entre bairros centrais e periféricos, uma vez que a rede de transporte conecta o conjunto do território metropolitano",
+    "d": "o encolhimento do conjunto de vagas efetivamente acessíveis a quem mora longe, porque a distância e o custo da passagem eliminam parte das oportunidades",
+    "e": "o aumento do rendimento médio dos moradores de áreas periféricas, resultado da compensação salarial oferecida pelas empresas às vagas de difícil acesso"
+   },
+   "resposta": "d",
+   "explicacao": "A cidade não é acessível por igual: quem mora longe não escolhe entre todas as vagas da metrópole, escolhe entre as que cabem no tempo e no preço da passagem. Transporte, nesse sentido, é política de renda — e a desigualdade social se reproduz pela geografia mesmo quando a escolaridade é a mesma.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-212",
+   "texto_apoio": "Anuários de segurança pública mostram que os homicídios no Brasil se concentram em um perfil estreito: homens jovens, negros, moradores de áreas periféricas, com pico entre 15 e 29 anos.",
+   "enunciado": "A implicação dessa concentração para a política de prevenção é:",
+   "alternativas": {
+    "a": "a conclusão de que o fenômeno é aleatório, o que recomenda a distribuição uniforme dos recursos de policiamento entre os bairros de cada município",
+    "b": "a possibilidade de focalizar territórios, horários e faixas etárias específicas, o que produz resultado maior por real gasto do que a ação distribuída por igual",
+    "c": "a recomendação de ampliar o efetivo policial nas áreas centrais das capitais brasileiras, onde o valor do patrimônio exposto ao risco é mais alto do que nas áreas periféricas ocupadas",
+    "d": "a constatação de que a desigualdade racial não interfere na distribuição das vítimas, cabendo à política priorizar apenas o recorte etário identificado",
+    "e": "a defesa de que a prevenção deve começar após os 30 anos, faixa em que a exposição ao risco de morte violenta atinge o valor máximo da série histórica"
+   },
+   "resposta": "b",
+   "explicacao": "Concentração é informação, e informação é economia de recurso. Programas que atuaram sobre poucos territórios e sobre a juventude mais exposta reduziram homicídios em prazos curtos. O risco do desenho focalizado é conhecido: focalizar policiamento sem focalizar oportunidade converte prevenção em abordagem repetida do mesmo grupo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-213",
+   "texto_apoio": "A população prisional brasileira multiplicou-se por várias vezes desde os anos 1990 e situa o país entre os três maiores do mundo em número absoluto de presos, com parcela expressiva ainda sem condenação definitiva.",
+   "enunciado": "A leitura mais consistente desse crescimento é:",
+   "alternativas": {
+    "a": "o crescimento resultou sobretudo do endurecimento penal e do peso das prisões provisórias, sem correspondência proporcional na queda dos crimes violentos",
+    "b": "o encarceramento cresceu na proporção exata dos crimes violentos registrados, relação que explica por si o tamanho atual do sistema prisional brasileiro",
+    "c": "o crescimento decorreu da redução das penas alternativas, único instrumento capaz de conter a entrada de novos presos nas unidades existentes",
+    "d": "o aumento se explica pela ampliação das vagas construídas, oferta que atraiu a demanda subsequente por prisões decretadas pelo sistema de justiça",
+    "e": "a população prisional brasileira estabilizou-se na década de 2010, de modo que a superlotação observada decorre apenas do desgaste físico das unidades antigas"
+   },
+   "resposta": "a",
+   "explicacao": "Prender mais não produziu, por si, cair mais o crime — a série mostra as duas curvas subindo juntas por anos. O motor foi legislativo e processual, e a conta chegou como superlotação, custo por preso e domínio de facções sobre as unidades. É por isso que segurança pública e política penal deixaram de ser discutidas em separado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-214",
+   "texto_apoio": "A audiência de custódia determina que a pessoa presa em flagrante seja apresentada a um juiz em até 24 horas, para que se avalie a legalidade da prisão, a ocorrência de maus-tratos e a necessidade de mantê-la presa.",
+   "enunciado": "A justificativa técnica desse mecanismo é:",
+   "alternativas": {
+    "a": "acelerar o julgamento do mérito da acusação, etapa que passa a ser concluída no mesmo ato de apresentação do preso à autoridade judicial competente",
+    "b": "substituir a defesa técnica por manifestação direta do próprio preso, arranjo que reduz o tempo de tramitação dos processos no sistema de justiça criminal",
+    "c": "avaliar cedo a necessidade da prisão provisória e verificar sinais de violência na abordagem, filtro que atua antes que a pessoa entre no sistema prisional",
+    "d": "transferir ao juiz a decisão sobre a culpa, retirando do processo a fase de instrução e as garantias associadas ao contraditório entre as partes envolvidas",
+    "e": "registrar estatisticamente as prisões efetuadas, finalidade administrativa sem efeito sobre a permanência da pessoa presa nas unidades do sistema penal"
+   },
+   "resposta": "c",
+   "explicacao": "É um filtro de entrada, e filtros de entrada são baratos comparados ao que vem depois. Manter presa provisoriamente uma pessoa que seria solta ao fim do processo custa vaga, custa dinheiro e a expõe ao ambiente prisional. O encontro presencial também é o único momento em que a denúncia de violência na abordagem chega ao juiz.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-215",
+   "texto_apoio": "Os registros do cadastro federal de programas assistenciais indicam crescimento acentuado do número de pessoas em situação de rua ao longo da década de 2020, com concentração nas grandes cidades.",
+   "enunciado": "A caracterização adequada desse fenômeno reconhece que:",
+   "alternativas": {
+    "a": "trata-se de população homogênea, formada por pessoas com o mesmo percurso de perda de vínculos e com a mesma necessidade de atendimento nos serviços",
+    "b": "trata-se de fenômeno restrito às capitais do Sudeste, sem expressão nas demais regiões metropolitanas do país segundo os registros administrativos disponíveis",
+    "c": "trata-se de situação transitória que se resolve com a oferta de abrigo noturno, sem necessidade de acesso a documento, renda e vaga de moradia estável",
+    "d": "trata-se de população heterogênea, cujo percurso combina perda de moradia, rompimento de vínculos e ausência de renda, o que exige respostas articuladas",
+    "e": "trata-se de decisão individual desvinculada da desigualdade social, o que torna o atendimento uma questão de ordenamento do espaço público urbano"
+   },
+   "resposta": "d",
+   "explicacao": "Há quem perdeu o emprego, quem saiu de casa fugindo de violência, quem foi despejado e quem vive dependência química — e cada percurso pede uma porta diferente. Abrigo noturno resolve a noite; o que tira da rua é o conjunto: documento, renda, tratamento e endereço fixo, na ordem que couber a cada pessoa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-216",
+   "texto_apoio": "O levantamento censitário de 2022 registrou cerca de 1,7 milhão de indígenas no Brasil, distribuídos por mais de trezentos povos, com parcela expressiva vivendo fora de terras demarcadas, inclusive em áreas urbanas.",
+   "enunciado": "A informação de que parte relevante desses povos indígenas vive fora de terras demarcadas implica que:",
+   "alternativas": {
+    "a": "a política de demarcação perdeu sentido, já que a maior parte da população indígena do país optou por residir de forma permanente nas cidades brasileiras de médio e grande porte",
+    "b": "a identidade indígena depende da residência em terra demarcada, critério adotado pelo levantamento para classificar os domicílios pesquisados no país",
+    "c": "o número registrado no levantamento decorre de erro de classificação, corrigido nas edições seguintes por meio da revisão do quesito de pertencimento",
+    "d": "a presença urbana elimina o vínculo com o território de origem, o que dispensa a articulação entre as políticas voltadas às aldeias e às cidades",
+    "e": "as políticas dirigidas a esses povos precisam alcançar também o contexto urbano, incluindo escola com ensino bilíngue e atendimento adequado nas cidades"
+   },
+   "resposta": "e",
+   "explicacao": "Autoidentificação, e não endereço, define quem é indígena no levantamento. Isso desmonta a ideia de que a política termina na cerca da terra demarcada: há criança indígena em escola urbana, e a rede de ensino que não oferece atendimento em língua materna reproduz a desigualdade social que a demarcação tentava corrigir.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-217",
+   "texto_apoio": "O levantamento censitário de 2022 identificou pela primeira vez a população quilombola brasileira, com cerca de 1,3 milhão de pessoas. Parcela minoritária vive em territórios já titulados.",
+   "enunciado": "O significado dessa primeira contagem oficial é:",
+   "alternativas": {
+    "a": "tornar mensurável uma população que antes só aparecia em estimativas, o que permite dimensionar a distância entre o direito ao território e a titulação efetiva",
+    "b": "encerrar o processo de titulação, uma vez que a contagem substitui os procedimentos administrativos de reconhecimento dos territórios ainda pendentes",
+    "c": "demonstrar que a maior parte dessa população já vive em territórios titulados, o que reposiciona a pauta para outras dimensões da política pública",
+    "d": "restringir o reconhecimento às comunidades localizadas em área rural, critério adotado pelo levantamento para delimitar o universo de pesquisa aplicado",
+    "e": "substituir o critério de autoatribuição pelo de comprovação documental de ascendência familiar, mudança metodológica que teria reduzido de forma expressiva o número de pessoas contadas"
+   },
+   "resposta": "a",
+   "explicacao": "Contar é a etapa que antecede cobrar. Enquanto a população quilombola era estimativa, moradia, rede de ensino e acesso a serviço nesses territórios não tinham denominador. A contagem também expôs o descompasso: o direito ao território está na Constituição desde 1988, e a titulação segue muito atrás do número de comunidades reconhecidas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-218",
+   "texto_apoio": "A população brasileira com 60 anos ou mais cresce em ritmo acelerado, e projeções indicam que ela superará a de crianças e adolescentes nas próximas décadas. O Estatuto aprovado em 2003 assegura a esse grupo prioridade em atendimento e gratuidade no transporte coletivo.",
+   "enunciado": "O desafio urbano mais direto que esse crescimento coloca é:",
+   "alternativas": {
+    "a": "a redução da demanda por transporte coletivo, já que a pessoa idosa deixa de se deslocar depois de encerrada a vida ocupacional remunerada",
+    "b": "a necessidade de adaptar calçadas, travessias e transporte a quem se desloca a pé e devagar, sob risco de confinar a pessoa idosa em casa",
+    "c": "a substituição da rede de ensino por equipamentos dirigidos à terceira idade, remanejamento orçamentário que os municípios já teriam iniciado na década passada",
+    "d": "a concentração desse grupo em áreas rurais, movimento que reduz a pressão sobre os serviços urbanos das capitais e das regiões metropolitanas brasileiras",
+    "e": "a irrelevância da mobilidade urbana para esse grupo, cuja rotina se organiza em torno de deslocamentos curtos realizados no próprio bairro de residência"
+   },
+   "resposta": "b",
+   "explicacao": "Autonomia na velhice é uma questão de calçada. Guia alta, tempo curto de semáforo e ônibus com degrau produzem isolamento tão eficazmente quanto uma limitação física — e o isolamento é ele próprio fator de adoecimento. Cidade acessível para a pessoa idosa costuma ser cidade melhor para todo mundo que anda a pé.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-219",
+   "texto_apoio": "Cerca de um em cada cinco jovens brasileiros de 15 a 29 anos não estuda nem está ocupado. Entre as mulheres desse grupo, a proporção é maior, e o cuidado de filhos e de familiares aparece como principal motivo declarado.",
+   "enunciado": "A leitura mais precisa dessa categoria estatística é:",
+   "alternativas": {
+    "a": "o grupo é formado por jovens que recusam trabalho e estudo, comportamento que a estatística mede diretamente por meio do motivo declarado na entrevista",
+    "b": "a categoria mede apenas quem procurou vaga sem sucesso, recorte que exclui quem se dedica ao cuidado de familiares dentro do próprio domicílio",
+    "c": "o recorte de gênero é irrelevante, uma vez que homens e mulheres apresentam proporções equivalentes nas faixas etárias abrangidas pelo levantamento",
+    "d": "a categoria reúne situações distintas, e boa parte das mulheres nela classificadas exerce trabalho de cuidado não remunerado, invisível ao mercado de trabalho",
+    "e": "o grupo diminui de tamanho conforme cresce a escolaridade média, relação que dispensa políticas específicas dirigidas à permanência da juventude na rede de ensino"
+   },
+   "resposta": "d",
+   "explicacao": "O rótulo sugere ócio e mede outra coisa. Quem cuida de um irmão pequeno para que a mãe trabalhe não está ociosa; está fazendo um trabalho que a estatística não conta. Ler a categoria sem esse recorte transforma um problema de creche e de divisão do cuidado em acusação moral dirigida à juventude.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-220",
+   "texto_apoio": "O marco legal da primeira infância trata dos seis primeiros anos de vida como período de formação acelerada das conexões cerebrais e prevê a articulação entre saúde, assistência e educação infantil nesse período.",
+   "enunciado": "A razão pela qual esse período recebe prioridade nas políticas é:",
+   "alternativas": {
+    "a": "a legislação brasileira restringe a essa faixa etária a proteção integral, que deixa de ser aplicável às crianças a partir do início do ensino fundamental",
+    "b": "a criança dessa faixa etária custa menos ao poder público, o que permite ampliar a cobertura sem alterar o valor destinado à educação básica pelas redes",
+    "c": "a educação infantil substitui as demais etapas da educação básica na formação das competências avaliadas pelos indicadores nacionais de aprendizagem",
+    "d": "as diferenças de desenvolvimento observadas nessa fase decorrem apenas de fatores biológicos, sem relação com o contexto familiar em que a criança vive",
+    "e": "as intervenções feitas nessa fase apresentam retorno mais alto por real investido, porque atuam antes que a defasagem se converta em desvantagem acumulada"
+   },
+   "resposta": "e",
+   "explicacao": "É o argumento econômico somado ao de justiça: a diferença de vocabulário entre crianças de renda alta e baixa já é mensurável antes dos três anos, e cada ano de atraso encarece a correção. Creche de qualidade opera nas duas pontas — desenvolve a criança e libera a mãe para o mercado de trabalho, reduzindo desigualdade social em duas gerações ao mesmo tempo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-221",
+   "texto_apoio": "A urbanização brasileira produziu metrópoles em que a valorização das áreas centrais empurrou a população de menor renda para as bordas, processo descrito como periferização.",
+   "enunciado": "A consequência socioespacial desse processo é:",
+   "alternativas": {
+    "a": "a distribuição uniforme dos equipamentos públicos pelo território metropolitano, resultado do adensamento observado nas áreas de ocupação mais recente",
+    "b": "a redução do custo de vida das famílias deslocadas, que passam a gastar menos com transporte por residirem próximas às novas áreas de emprego industrial",
+    "c": "o encerramento do processo de favelização, absorvido pelos conjuntos habitacionais erguidos em áreas de borda ao longo das últimas duas décadas",
+    "d": "a irrelevância do endereço para as oportunidades disponíveis, já que a rede de transporte metropolitano equaliza o acesso ao conjunto das vagas ofertadas",
+    "e": "a formação de bordas com moradia precária, serviço escasso e longa distância dos empregos, em que o endereço passa a operar como marcador de desvantagem"
+   },
+   "resposta": "e",
+   "explicacao": "A cidade separa antes de a escola separar. Onde o preço do solo empurra a família para a borda, ela recebe a rede de ensino mais frágil, o posto mais distante e a linha de ônibus mais longa — três desvantagens que chegam juntas por causa de uma só decisão de mercado imobiliário, e que a política de moradia raramente consegue desfazer depois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-sociedade-educacao",
+   "id": "med-atualidades-222",
+   "texto_apoio": "Desde 2014 a legislação brasileira reserva percentual das vagas de concursos públicos federais a candidatos negros, política que passou por revisão e ampliação em 2025, com a inclusão de indígenas e quilombolas.",
+   "enunciado": "O argumento técnico que sustenta a reserva de vagas no serviço público é:",
+   "alternativas": {
+    "a": "a existência de diferença de desempenho intelectual entre os grupos, o que exigiria critério de correção aplicado ao resultado das provas objetivas aplicadas",
+    "b": "a impossibilidade de aferir mérito em processos seletivos, o que levaria à substituição integral da prova por critérios de origem social do candidato inscrito",
+    "c": "a constatação de que a composição do funcionalismo não reflete a da população, e que a diversidade do corpo técnico melhora a prestação do serviço",
+    "d": "a necessidade de reduzir o número de candidatos inscritos, efeito administrativo que a reserva produz ao segmentar a concorrência em duas listas distintas",
+    "e": "a garantia de que os aprovados por reserva ocuparão os cargos de maior remuneração, mecanismo previsto na legislação como forma de acelerar a correção"
+   },
+   "resposta": "c",
+   "explicacao": "O argumento não é de compensação simbólica: quem atende o público decide o que a norma deixa em aberto, e um corpo técnico que não se parece com a população decide pior. A reserva também opera onde a desigualdade racial é mais resistente — no acesso a cargos estáveis e bem pagos, que o diploma sozinho não abriu.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "atualidades-saude": [
@@ -112219,6 +118618,567 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Quem entendeu por que a cobertura vacinal cai, como o efeito estufa funciona e o que faz uma cadeia produtiva se reorganizar consegue enfrentar o tema do próximo semestre — que ainda não aconteceu quando este banco foi escrito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-151",
+   "texto_apoio": "Um levantamento internacional publicado em 2022 estimou que a resistência antimicrobiana esteve associada a cerca de 4,9 milhões de mortes no mundo no ano de 2019, das quais 1,27 milhão diretamente atribuíveis a ela.",
+   "enunciado": "Do ponto de vista biológico, o avanço da resistência antimicrobiana se explica porque:",
+   "alternativas": {
+    "a": "o antibiótico desencadeia no paciente uma reação imunológica prolongada que enfraquece as defesas naturais do organismo e abre espaço para infecções oportunistas de origem hospitalar",
+    "b": "o uso do antibiótico elimina as linhagens sensíveis e deixa como sobreviventes as bactérias que já portavam genes de resistência, que então se multiplicam sem concorrência",
+    "c": "o contato com a droga induz a bactéria a produzir o gene de resistência, que se transmite depois às gerações seguintes",
+    "d": "a molécula do antibiótico se degrada com o tempo de armazenamento e perde a capacidade de agir sobre o agente infeccioso",
+    "e": "a resistência aparece só em ambiente hospitalar, onde a carga bacteriana circulante é maior do que a do ambiente doméstico"
+   },
+   "resposta": "b",
+   "explicacao": "É seleção, não indução: a droga não cria o gene de resistência, ela escolhe quem sobrevive. Por isso a saúde pública trata o consumo desnecessário de antibiótico como problema coletivo, e não como escolha individual sem consequência para terceiros.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-152",
+   "texto_apoio": "Desde outubro de 2022, os alimentos embalados vendidos no Brasil devem trazer na face frontal do rótulo uma lupa preta indicando alto teor de açúcar adicionado, de gorduras saturadas ou de sódio.",
+   "enunciado": "A lógica sanitária dessa exigência é:",
+   "alternativas": {
+    "a": "atestar que os produtos sem a lupa preta possuem qualidade nutricional superior e podem ser consumidos sem restrição por pessoas que já convivem com doenças crônicas diagnosticadas",
+    "b": "proibir a comercialização de produtos ultraprocessados nas redes de supermercado e nas cantinas de estabelecimentos de ensino",
+    "c": "tornar imediata, no ponto de venda, uma informação que antes dependia da leitura da tabela nutricional impressa no verso",
+    "d": "transferir à indústria o custo da fiscalização sanitária, que passa a ser feita por laboratórios contratados pelos próprios fabricantes",
+    "e": "substituir a tabela nutricional detalhada, que deixou de ser obrigatória nas embalagens a partir daquela data"
+   },
+   "resposta": "c",
+   "explicacao": "A tabela do verso continua obrigatória: a lupa não a substitui, ela resolve um problema de tempo e de atenção. O alvo é a decisão de compra, tomada em segundos, e não o consumidor que já procura a informação. É a mesma estratégia de saúde pública usada nas advertências de embalagens de cigarro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-153",
+   "texto_apoio": "A Estratégia Saúde da Família organiza equipes formadas por médico, enfermeiro, técnico de enfermagem e agentes comunitários, responsáveis por um território definido e por uma população cadastrada.",
+   "enunciado": "O papel atribuído à atenção primária nesse desenho é:",
+   "alternativas": {
+    "a": "concentrar os procedimentos de alta complexidade em unidades de referência regional, reduzindo o deslocamento dos pacientes crônicos entre municípios distantes da capital do estado",
+    "b": "atender apenas os casos de menor gravidade, encaminhando ao hospital tudo o que exija exame complementar",
+    "c": "substituir a rede hospitalar nas regiões de menor densidade demográfica do país",
+    "d": "funcionar como porta de entrada preferencial e coordenar o percurso do usuário pelos demais níveis de complexidade",
+    "e": "cadastrar a população para fins estatísticos, sem responsabilidade sobre o acompanhamento longitudinal das famílias"
+   },
+   "resposta": "d",
+   "explicacao": "Coordenação do cuidado é a função que distingue a atenção primária de um pronto-atendimento: ela acompanha a mesma família ao longo do tempo e organiza o trânsito pela rede. Sistemas de saúde com atenção primária forte custam menos e apresentam melhores indicadores, e é sobre esse princípio que o SUS foi desenhado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-154",
+   "texto_apoio": "Ao longo do século XX o perfil de adoecimento brasileiro deslocou-se das doenças infecciosas para as doenças crônicas não transmissíveis, sem que as primeiras desaparecessem do quadro nacional.",
+   "enunciado": "A leitura correta desse processo, conhecido como transição epidemiológica, é:",
+   "alternativas": {
+    "a": "as doenças infecciosas foram superadas no Brasil e hoje respondem por parcela irrelevante da demanda dos serviços assistenciais espalhados pelo território nacional",
+    "b": "o país vive uma dupla carga: as crônicas dominam os óbitos, enquanto epidemias de arboviroses seguem pressionando a rede assistencial",
+    "c": "a transição se completou primeiro nas regiões mais pobres, onde a queda da mortalidade infantil foi mais rápida",
+    "d": "o aumento das doenças crônicas indica piora das condições de vida da população brasileira nas últimas décadas",
+    "e": "a mudança de perfil decorre do envelhecimento populacional, sem relação com hábitos alimentares ou com o consumo de tabaco"
+   },
+   "resposta": "b",
+   "explicacao": "O conceito clássico previa substituição; o Brasil apresentou sobreposição. Parte do aumento das crônicas é efeito colateral de uma conquista — mais gente chega à idade em que elas aparecem, e a expectativa de vida subiu —, mas a outra parte vem de alimentação e sedentarismo. Os dois problemas disputam a mesma rede ao mesmo tempo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-155",
+   "texto_apoio": "O Censo de 2022 registrou 10,9% da população brasileira com 65 anos ou mais, proporção que era de 5,9% em 2000. A expectativa de vida ao nascer chegou a cerca de 76 anos.",
+   "enunciado": "A consequência mais direta desse quadro para o sistema de saúde é:",
+   "alternativas": {
+    "a": "a redução da demanda por leitos hospitalares, já que o aumento da longevidade indica melhora generalizada do estado de saúde da população brasileira adulta",
+    "b": "a substituição da atenção básica por serviços especializados em geriatria, únicos capazes de responder ao novo perfil",
+    "c": "a queda da despesa pública com medicamentos, pela redução das internações por causas infecciosas",
+    "d": "o encolhimento da população em idade ativa que sustenta o financiamento do sistema, sem efeito sobre o padrão de demanda",
+    "e": "o crescimento da demanda por cuidado continuado a condições crônicas, que exige acompanhamento longitudinal em vez de episódios isolados de internação"
+   },
+   "resposta": "e",
+   "explicacao": "Envelhecimento populacional não é sinônimo de doença, mas muda a natureza da demanda: o sistema deixa de responder a episódios agudos e passa a administrar condições que duram décadas. Isso favorece arranjos de atenção primária e cuidado domiciliar, que custam menos que a internação repetida — e a expectativa de vida seguirá subindo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-156",
+   "texto_apoio": "Em 2024 o Brasil registrou o maior número de casos prováveis de dengue de sua série histórica. Circulam no país quatro sorotipos distintos do vírus.",
+   "enunciado": "A existência de quatro sorotipos importa porque:",
+   "alternativas": {
+    "a": "a infecção por um sorotipo confere imunidade duradoura àquele sorotipo, e a reinfecção por um segundo eleva o risco de forma grave da doença",
+    "b": "cada sorotipo é transmitido por uma espécie diferente de mosquito, o que exige estratégias de controle distintas em cada região do país",
+    "c": "os sorotipos se alternam de acordo com a estação do ano, o que explica a concentração dos casos no período seco do calendário brasileiro",
+    "d": "quem já teve dengue está protegido contra os outros três sorotipos e deixa de compor o grupo de risco em novas temporadas de transmissão do vírus no território nacional",
+    "e": "os quatro sorotipos produzem quadros clínicos idênticos, o que dispensa a identificação laboratorial do agente em situações de surto"
+   },
+   "resposta": "a",
+   "explicacao": "A imunidade cruzada é parcial e transitória; passado esse intervalo, anticorpos contra o primeiro sorotipo podem facilitar a entrada do segundo nas células. É por isso que a reintrodução de um sorotipo ausente há anos costuma vir acompanhada de casos graves, e por que o acesso a tratamento precoce e a hidratação reduzem a letalidade dessa arbovirose.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-157",
+   "texto_apoio": "A cobertura vacinal infantil no Brasil recuou ao longo da década de 2010, ficando abaixo das metas em vários imunizantes, e voltou a subir a partir de 2023.",
+   "enunciado": "O conceito de imunidade coletiva, ou de rebanho, indica que:",
+   "alternativas": {
+    "a": "uma pessoa vacinada não transmite nenhum agente infeccioso, o que a torna irrelevante para a cadeia de transmissão da comunidade em que vive",
+    "b": "a imunidade se adquire pela circulação natural do agente, de modo que campanhas de imunização retardam a proteção do conjunto da população em longo prazo",
+    "c": "acima de certo percentual de imunizados, a transmissão não se sustenta e protege-se também quem não pôde ser vacinado, como recém-nascidos e imunossuprimidos",
+    "d": "o percentual necessário de imunizados é o mesmo para as diferentes doenças, o que simplifica a definição das metas nacionais de cobertura e dispensa o cálculo específico para cada agente infeccioso em circulação",
+    "e": "a proteção coletiva depende da vacinação dos adultos, já que crianças raramente participam das cadeias de transmissão nas comunidades"
+   },
+   "resposta": "c",
+   "explicacao": "O limiar varia com a transmissibilidade do agente: o sarampo, altíssima, exige perto de 95%; outras doenças se contêm com menos. Daí a lógica da busca ativa feita pela atenção primária — bolsões locais de baixa cobertura reacendem a transmissão mesmo quando a média nacional parece confortável.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-158",
+   "texto_apoio": "O Brasil recebeu em 2016 o certificado de eliminação do sarampo, perdeu-o em 2019 após surtos sustentados por mais de doze meses e voltou a recebê-lo em 2025.",
+   "enunciado": "A distinção entre eliminação e erradicação implica que:",
+   "alternativas": {
+    "a": "a eliminação é definitiva e dispensa a manutenção de campanhas periódicas de imunização depois de obtido o certificado internacional pelo país",
+    "b": "eliminação significa interrupção da transmissão dentro do território, e um caso importado pode reiniciar a cadeia onde a cobertura estiver baixa",
+    "c": "erradicação e eliminação designam a mesma situação, variando apenas conforme o organismo internacional que emite o certificado ao país solicitante",
+    "d": "a erradicação depende de tratamento eficaz disponível, e não da interrupção da circulação do agente entre as populações suscetíveis do planeta",
+    "e": "a perda do certificado em 2019 decorreu de mudança nos critérios de contagem adotados pelos organismos internacionais, e não de aumento real dos casos registrados no país"
+   },
+   "resposta": "b",
+   "explicacao": "Só a varíola foi erradicada. Eliminação é um estado que se perde: o vírus continua circulando em outros países, e viajantes o reintroduzem. O que decide se um caso importado vira surto é a cobertura local, mantida pela vacinação de rotina na atenção básica — não o certificado pendurado na parede.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-159",
+   "texto_apoio": "Pesquisas sobre hesitação vacinal descrevem um comportamento intermediário entre a aceitação e a recusa: pessoas que adiam, selecionam alguns imunizantes ou pedem mais tempo antes de decidir.",
+   "enunciado": "Tratar a hesitação como fenômeno distinto da recusa importa porque:",
+   "alternativas": {
+    "a": "o hesitante é numericamente irrelevante diante do grupo que recusa a imunização por convicção declarada e organizada em movimentos de alcance nacional",
+    "b": "a hesitação decorre de dificuldade de acesso ao serviço, e não de dúvida, o que torna a comunicação uma estratégia sem efeito prático sobre a cobertura",
+    "c": "a recusa por convicção responde bem ao esclarecimento técnico, enquanto o hesitante só muda de posição diante de exigência legal",
+    "d": "a hesitação surge apenas em países de renda alta, onde as doenças imunopreveníveis deixaram de ser lembradas pela população mais jovem das grandes cidades",
+    "e": "quem hesita ainda está aberto ao diálogo, e o vínculo com a equipe da atenção primária costuma ser mais eficaz do que a campanha de massa"
+   },
+   "resposta": "e",
+   "explicacao": "Hesitação é dúvida, não militância — e dúvida se responde com conversa, no contexto em que há confiança. O agente comunitário que conhece a família tem, aqui, poder que nenhuma peça publicitária tem. Confundir os dois grupos leva a saúde pública a gastar com o argumento errado no público errado.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-160",
+   "texto_apoio": "Em 2022 o Brasil voltou a figurar no Mapa da Fome das Nações Unidas; em 2025 o mesmo relatório voltou a excluí-lo, ao registrar subalimentação abaixo de 2,5% da população.",
+   "enunciado": "As escalas usadas para medir insegurança alimentar caracterizam-se por:",
+   "alternativas": {
+    "a": "captar graus, da preocupação com a comida que pode faltar até a experiência da fome, em vez de registrar somente a situação extrema",
+    "b": "medir o total de alimentos produzidos no país, indicador que responde diretamente pela situação vivida em cada domicílio brasileiro",
+    "c": "registrar apenas os domicílios em que houve ausência completa de refeições por vinte e quatro horas consecutivas ao longo do trimestre pesquisado",
+    "d": "aferir o peso e a altura dos moradores, dispensando o relato dos entrevistados sobre a rotina alimentar do domicílio nos últimos meses do ano de referência",
+    "e": "acompanhar o preço da cesta básica nas capitais, informação que substitui com vantagem a entrevista domiciliar em levantamentos de abrangência nacional"
+   },
+   "resposta": "a",
+   "explicacao": "Insegurança alimentar é gradiente. A forma leve — comer pior, com menos variedade, para que a comida chegue ao fim do mês — atinge muito mais gente do que a fome, e antecede a desnutrição. Medir só o extremo apagaria justamente a faixa em que os determinantes sociais da saúde ainda podem ser revertidos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-161",
+   "texto_apoio": "Levantamentos nacionais mostram, nos mesmos territórios, prevalência elevada de obesidade adulta e persistência de déficits de crescimento e de anemia entre crianças.",
+   "enunciado": "Essa coexistência, chamada dupla carga de má nutrição, se explica porque:",
+   "alternativas": {
+    "a": "os dois quadros decorrem de excesso de consumo calórico, variando somente a idade em que cada um se manifesta ao longo da vida do indivíduo",
+    "b": "a obesidade adulta resulta de erro de medição das pesquisas domiciliares, que superestimam o peso declarado pelos moradores entrevistados nas periferias urbanas",
+    "c": "alimento barato e denso em calorias pode saciar sem nutrir, de modo que excesso de peso e carência de micronutrientes convivem no mesmo domicílio",
+    "d": "a desnutrição infantil desaparece assim que a renda domiciliar cresce, e o excesso de peso é a etapa seguinte e inevitável desse mesmo percurso",
+    "e": "trata-se de fenômeno restrito a países de renda alta, onde a oferta de alimentos industrializados é maior do que a de produtos frescos nos pontos de venda"
+   },
+   "resposta": "c",
+   "explicacao": "Calorias e nutrientes não caminham juntos. Onde o alimento acessível é o mais energético e o menos nutritivo, o mesmo domicílio produz adulto com obesidade e criança com déficit de ferro. Por isso os determinantes sociais da saúde explicam melhor esse quadro do que a leitura pela escolha individual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-162",
+   "texto_apoio": "A classificação NOVA agrupa os alimentos pelo grau e pelo propósito do processamento industrial, e não pelo teor de nutrientes: in natura, ingredientes culinários, processados e ultraprocessados.",
+   "enunciado": "O critério que define um alimento como ultraprocessado é:",
+   "alternativas": {
+    "a": "o teor de calorias por porção declarado na tabela impressa na embalagem do produto",
+    "b": "a presença de alguma etapa industrial na cadeia produtiva, o que inclui o simples congelamento de hortaliças, a pasteurização do leite e a moagem de grãos destinados à venda ao consumidor final",
+    "c": "o preço de venda ao consumidor, que reflete o número de etapas industriais percorridas pelo produto até a prateleira do supermercado",
+    "d": "ser uma formulação industrial feita de substâncias extraídas de alimentos e de aditivos de uso restrito à indústria, como corantes e realçadores de sabor",
+    "e": "a origem estrangeira da marca, indicador do padrão alimentar associado às cadeias globais de distribuição de produtos alimentícios embalados"
+   },
+   "resposta": "d",
+   "explicacao": "O deslocamento é do nutriente para o processo. Um produto pode ter rótulo nutricional aceitável e ainda assim ser ultraprocessado, porque o que a saúde pública observa é a formulação: matriz do alimento desfeita, aditivos que só existem na indústria e um desenho voltado a estimular consumo além da saciedade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-163",
+   "texto_apoio": "Na 11ª Revisão da Classificação Internacional de Doenças, em vigor desde 2022, o burnout aparece descrito como fenômeno ocupacional resultante de estresse crônico no trabalho que não foi administrado com êxito.",
+   "enunciado": "Classificá-lo como fenômeno ocupacional, e não como doença, implica que:",
+   "alternativas": {
+    "a": "o quadro passa a ser encarado como característica de personalidade do trabalhador, o que retira da organização a responsabilidade sobre as condições em que a atividade é exercida",
+    "b": "o diagnóstico deixa de exigir avaliação profissional e pode ser feito pelo próprio trabalhador a partir de questionários de autoaplicação disponíveis publicamente",
+    "c": "a resposta se dirige também à organização do trabalho, e não apenas ao tratamento individual de quem adoeceu",
+    "d": "o burnout deixa de guardar relação com transtornos de ansiedade e de depressão, passando a constituir categoria isolada dentro da classificação internacional",
+    "e": "a síndrome é reconhecida nas atividades profissionais formais, com exceção das exercidas sem vínculo registrado em carteira"
+   },
+   "resposta": "c",
+   "explicacao": "Nomear a origem no contexto muda o endereço da intervenção. Se o adoecimento nasce de sobrecarga, escala e ausência de reconhecimento, oferecer só apoio psicológico individual devolve ao trabalhador um problema que não é dele. A saúde pública trata o adoecimento no trabalho como questão coletiva, e não como fragilidade pessoal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-164",
+   "texto_apoio": "Estimativas internacionais colocam o Brasil entre os países com maior prevalência de transtornos de ansiedade, e apontam que boa parte das pessoas com depressão não recebe tratamento adequado.",
+   "enunciado": "A distância entre pessoas adoecidas e pessoas tratadas, conhecida como lacuna assistencial, decorre principalmente de:",
+   "alternativas": {
+    "a": "ausência de tratamentos eficazes disponíveis, já que os recursos terapêuticos existentes têm efeito comprovadamente reduzido sobre a maior parte dos quadros descritos",
+    "b": "estigma, escassez de profissionais na rede pública e concentração dos serviços de saúde mental nos grandes centros urbanos",
+    "c": "recusa dos pacientes ao tratamento, motivo que responde pela maior parte dos casos que não chegam a nenhum serviço da rede assistencial brasileira",
+    "d": "excesso de diagnósticos feitos na atenção primária, que satura os serviços especializados com encaminhamentos desnecessários e desloca a fila para quem tem quadro leve",
+    "e": "priorização das internações psiquiátricas de longa permanência, modelo que hoje concentra a maior parte do financiamento público da área no país"
+   },
+   "resposta": "b",
+   "explicacao": "A lacuna tem três camadas: quem não procura, quem procura e não encontra, e quem encontra e não continua. Cada uma pede resposta diferente — campanha contra o estigma não resolve falta de profissional, e ampliar a rede não resolve o silêncio de quem não pede ajuda. É por isso que a saúde pública trata o problema como organização de serviço, e não como soma de casos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-165",
+   "texto_apoio": "Manuais de comunicação recomendam que veículos de imprensa evitem descrever o modo como um suicídio ocorreu e, em contrapartida, divulguem canais de ajuda ao final da reportagem.",
+   "enunciado": "A base dessas recomendações é:",
+   "alternativas": {
+    "a": "a proibição legal de noticiar mortes autoprovocadas, restrição que vigora na legislação brasileira desde a criação das campanhas nacionais de prevenção",
+    "b": "a constatação de que o tema perdeu relevância epidemiológica no país, o que torna a cobertura jornalística desnecessária diante de outras pautas sanitárias",
+    "c": "a observação de que a divulgação detalhada pode favorecer a imitação, enquanto reportagens sobre superação e ajuda disponível associam-se a efeito protetor",
+    "d": "o entendimento de que falar do assunto induz o comportamento independentemente do modo como se fale, razão pela qual o silêncio seria a recomendação técnica predominante",
+    "e": "a orientação de concentrar a cobertura nos aspectos policiais do caso, poupando a família da exposição de detalhes sobre a trajetória pessoal da vítima e sobre o histórico de atendimentos"
+   },
+   "resposta": "c",
+   "explicacao": "Os dois efeitos têm nome: Werther, o de imitação, e Papageno, o protetor. A recomendação técnica não é calar — é mudar o foco da descrição do ato para a existência de saída. Prevenção do suicídio combina essa cobertura responsável com a ampliação do acesso a tratamento em saúde mental.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-166",
+   "texto_apoio": "Modelos usados em saúde coletiva representam a saúde como camadas concêntricas: características individuais no centro; redes sociais e comunitárias; condições de vida e de trabalho; e, na camada externa, as condições socioeconômicas gerais.",
+   "enunciado": "Esse modelo dos determinantes sociais da saúde sustenta que:",
+   "alternativas": {
+    "a": "as camadas externas explicam parcela relevante das diferenças de adoecimento entre grupos, o que torna insuficiente a intervenção restrita ao comportamento individual",
+    "b": "a carga genética responde pela maior parte da variação observada entre grupos sociais, cabendo às demais camadas função apenas descritiva no modelo proposto",
+    "c": "as camadas são independentes entre si, de modo que intervir em uma delas não altera o efeito produzido pelas demais sobre o estado de saúde da população",
+    "d": "a intervenção deve começar pela camada mais externa, e ações sobre hábitos individuais são desperdício de recursos públicos enquanto persistir a desigualdade de renda",
+    "e": "o modelo se aplica a países de renda baixa, onde as condições materiais de vida ainda pesam mais do que as escolhas pessoais sobre alimentação e atividade física"
+   },
+   "resposta": "a",
+   "explicacao": "O modelo não nega a biologia nem a conduta pessoal — ele as coloca dentro de um contexto que as condiciona. Renda, habitação, saneamento e anos de estudo mudam a probabilidade de adoecer antes que qualquer escolha seja feita, e é por isso que política de saúde pública raramente se resolve dentro do consultório.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-167",
+   "texto_apoio": "A abordagem de saúde única parte da constatação de que a maior parte das doenças infecciosas emergentes tem origem animal e depende do contato entre populações humanas, animais domésticos e fauna silvestre.",
+   "enunciado": "O evento de transposição de barreira entre espécies, ou transbordamento, torna-se mais provável quando:",
+   "alternativas": {
+    "a": "a densidade populacional urbana diminui e o contato entre pessoas se torna menos frequente ao longo do ano nas cidades de médio porte",
+    "b": "cresce a frequência de contato entre humanos, criações e fauna silvestre, situação favorecida pelo avanço sobre áreas florestais e pelo comércio de animais vivos",
+    "c": "as populações de fauna silvestre aumentam em áreas protegidas, condição que eleva de forma direta e proporcional o risco de zoonose nas cidades vizinhas às unidades de conservação",
+    "d": "a vigilância veterinária se separa da vigilância humana, arranjo que reduz a duplicidade de esforços e abrevia o tempo de resposta a uma emergência sanitária",
+    "e": "os agentes infecciosos sofrem mutação em laboratório, origem que responde pela maior parte dos surtos registrados nas últimas décadas em diferentes continentes"
+   },
+   "resposta": "b",
+   "explicacao": "Transbordamento é questão de oportunidade de contato. Onde a fronteira agrícola avança, onde animais silvestres são vendidos vivos e onde a criação se adensa, a chance de um agente encontrar hospedeiro humano cresce. Daí a lógica da saúde única: separar vigilância humana, animal e ambiental atrasa a detecção do próximo surto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-168",
+   "texto_apoio": "Diante da negativa administrativa de um medicamento, pacientes recorrem ao Poder Judiciário para obtê-lo. O volume dessas ações cresceu de forma acentuada nas duas primeiras décadas do século XXI.",
+   "enunciado": "O principal dilema da judicialização da saúde é que:",
+   "alternativas": {
+    "a": "as decisões judiciais atendem ao paciente que chegou ao processo, mas realocam recursos definidos por critério coletivo em favor de quem teve acesso a advogado",
+    "b": "os tribunais deixaram de reconhecer o direito à saúde como direito subjetivo, o que reduziu o número de ações movidas contra o poder público nos últimos anos",
+    "c": "as ações se concentram em medicamentos já incorporados às listas oficiais, o que revela problema exclusivo de distribuição, e não de definição da lista de itens custeados",
+    "d": "o gasto gerado por essas decisões é irrelevante diante do total, o que torna o debate uma discussão apenas doutrinária sobre os limites da atuação do Poder Judiciário no país",
+    "e": "a fila de espera por procedimentos deixa de existir onde o volume de ações judiciais é maior, resultado observado nas capitais das regiões mais ricas do território brasileiro"
+   },
+   "resposta": "a",
+   "explicacao": "O conflito é entre duas justiças: a do caso concreto e a da fila. Cada liminar cumprida sai de um orçamento que foi montado por critério epidemiológico, e quem move a ação costuma ser quem tem mais informação e representação. Daí a defesa de que a resposta esteja no processo de incorporação, e não caso a caso.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-169",
+   "texto_apoio": "A incorporação de novas tecnologias ao SUS passa por avaliação que compara o benefício clínico adicional de um produto ao de alternativas já disponíveis e considera o custo dessa diferença.",
+   "enunciado": "O sentido de exigir essa avaliação antes da incorporação é:",
+   "alternativas": {
+    "a": "impedir a entrada de tecnologias desenvolvidas fora do país, reservando o mercado público aos fabricantes nacionais estabelecidos em território brasileiro",
+    "b": "condicionar a oferta pública à existência de patente vigente, requisito que assegura a qualidade do produto ofertado à rede assistencial",
+    "c": "adiar decisões politicamente sensíveis, transferindo a um colegiado técnico a responsabilidade por negativas que o gestor não deseja assinar",
+    "d": "verificar se o ganho clínico adicional justifica o custo adicional, já que cada incorporação compromete recursos que deixam de custear outra oferta",
+    "e": "assegurar que o produto mais recente esteja disponível, pois a data de registro é o melhor indicador do benefício que ele produzirá sobre o paciente"
+   },
+   "resposta": "d",
+   "explicacao": "Novidade não é sinônimo de benefício, e todo orçamento de saúde é finito. A pergunta técnica não é se a tecnologia funciona, e sim quanto ela acrescenta ao que já existe e a que preço — porque o dinheiro gasto com ela é o mesmo que deixaria de custear acesso a tratamento para outro grupo de pacientes.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-170",
+   "texto_apoio": "A vigilância epidemiológica trabalha com uma lista de agravos de notificação compulsória: casos suspeitos devem ser comunicados ao serviço de saúde em prazo definido, mesmo antes da confirmação laboratorial.",
+   "enunciado": "Exigir a notificação do caso suspeito, e não apenas do confirmado, se justifica porque:",
+   "alternativas": {
+    "a": "o caso suspeito representa o único registro estatístico confiável para o cálculo das taxas de incidência das doenças transmissíveis no território nacional",
+    "b": "a confirmação laboratorial deixou de ser exigida na rotina dos serviços, o que transformou a suspeita clínica no critério definitivo de encerramento do caso notificado",
+    "c": "a notificação do suspeito reduz o custo do exame laboratorial, que passa a ser feito somente nos casos em que houver interesse acadêmico da equipe assistente",
+    "d": "a suspeita é registrada por razões jurídicas, para documentar a responsabilidade do profissional em caso de desfecho desfavorável do paciente atendido",
+    "e": "esperar a confirmação atrasaria a resposta, e medidas como bloqueio vacinal e busca de contatos perdem eficácia se aplicadas tarde"
+   },
+   "resposta": "e",
+   "explicacao": "Vigilância é uma corrida contra o tempo de duplicação da epidemia. O exame que confirma leva dias; a transmissão, não espera. Notificar a suspeita aceita de propósito algum alarme falso como preço por não perder o surto real — e é a atenção primária quem costuma dar o primeiro sinal.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-171",
+   "texto_apoio": "A taxa de mortalidade infantil brasileira caiu de forma acentuada desde os anos 1990, mas segue desigual entre regiões e entre grupos raciais, com valores mais altos no Norte e no Nordeste.",
+   "enunciado": "A persistência dessas diferenças indica que:",
+   "alternativas": {
+    "a": "o indicador perdeu utilidade, já que a queda média nacional demonstra que o problema foi superado no conjunto do território brasileiro",
+    "b": "boa parte dos óbitos remanescentes é evitável e depende de pré-natal, parto assistido e saneamento, condições distribuídas de forma desigual",
+    "c": "as diferenças refletem características biológicas das populações regionais, sem relação com a oferta de serviços assistenciais em cada localidade",
+    "d": "a mortalidade infantil responde apenas à disponibilidade de leitos de terapia intensiva neonatal, equipamento concentrado nas capitais das regiões Sul e Sudeste do país",
+    "e": "o registro dos óbitos é mais completo nas regiões mais pobres, o que produz a diferença observada sem correspondência com a realidade dos nascimentos ocorridos"
+   },
+   "resposta": "b",
+   "explicacao": "A mortalidade infantil é o indicador que melhor expõe os determinantes sociais da saúde, porque quase todo óbito nessa faixa tem causa evitável. Quando a média cai e a diferença entre grupos permanece, o ganho chegou primeiro a quem já tinha acesso — e a saúde pública passa a medir equidade, não só o valor médio.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-172",
+   "texto_apoio": "A vacinação contra o HPV foi incorporada ao calendário brasileiro em 2014 para meninas e ampliada a meninos em 2017; em 2024 o esquema passou a ser de dose única para a faixa etária prioritária.",
+   "enunciado": "O argumento sanitário para vacinar também os meninos é:",
+   "alternativas": {
+    "a": "eles apresentam risco de câncer de colo do útero equivalente ao das meninas, o que justifica a igualdade de tratamento no calendário oficial",
+    "b": "a resposta imune masculina exige duas aplicações, o que compensa o custo adicional da ampliação da faixa contemplada pelo programa nacional",
+    "c": "eles participam da cadeia de transmissão e também adoecem de cânceres associados ao vírus, de modo que vaciná-los protege os dois grupos",
+    "d": "a inclusão foi feita por decisão administrativa sem base epidemiológica, com o objetivo de elevar a cobertura vacinal média registrada pelo país nas estatísticas internacionais",
+    "e": "a vacinação masculina substitui a necessidade de rastreamento do câncer de colo do útero entre as mulheres adultas já expostas ao vírus antes da adolescência"
+   },
+   "resposta": "c",
+   "explicacao": "É uma vacina contra um vírus sexualmente transmissível: proteger só metade da população deixa a cadeia de transmissão aberta. Some-se a isso o câncer de orofaringe e o de pênis, ligados ao mesmo agente. O rastreamento segue necessário — a vacinação previne, o exame detecta o que já se instalou.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-173",
+   "texto_apoio": "No Brasil, a febre amarela circula em ciclo silvestre, entre primatas não humanos e mosquitos de mata; o ciclo urbano, transmitido pelo Aedes aegypti, não é registrado no país desde 1942.",
+   "enunciado": "A morte de macacos em uma área de mata deve ser tratada como:",
+   "alternativas": {
+    "a": "prova de que os primatas são o reservatório do vírus e devem ser eliminados nas áreas próximas às ocupações humanas em expansão sobre a mata",
+    "b": "evento sem relação com o risco humano, uma vez que o vírus que circula entre primatas pertence a linhagem distinta da que infecta pessoas na mesma região",
+    "c": "indício de retorno do ciclo urbano, o que exigiria a suspensão imediata da vacinação de rotina e a substituição do imunizante em uso pela rede pública de saúde",
+    "d": "sinal de alerta que antecede casos humanos e aciona a vacinação de bloqueio na região, já que os macacos adoecem e morrem como as pessoas",
+    "e": "consequência do desmatamento, sem implicação para a vigilância, pois o mosquito de mata não se aproxima das áreas de ocupação humana em nenhuma estação"
+   },
+   "resposta": "d",
+   "explicacao": "O macaco é sentinela, não culpado: ele adoece e morre igual, e o vírus está nos mosquitos silvestres. Matar primatas destrói o sistema de aviso e não reduz a transmissão. A epizootia notificada desencadeia a vacinação de bloqueio antes que apareça o primeiro caso humano — é vigilância de saúde única na prática.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-174",
+   "texto_apoio": "Pesquisas de comportamento mostram que parcela relevante da população brasileira já usou antibiótico por conta própria, com frequência para tratar quadros respiratórios de início recente.",
+   "enunciado": "O problema técnico central dessa prática é que:",
+   "alternativas": {
+    "a": "o antibiótico perde efeito se administrado junto a analgésicos comuns, interação que responde pelo fracasso da maior parte dos tratamentos iniciados sem prescrição",
+    "b": "a maioria das infecções respiratórias agudas é viral, e o antibiótico não age sobre vírus, embora selecione bactérias resistentes no organismo de quem o toma",
+    "c": "o antibiótico produz dependência química comparável à de outros medicamentos de venda controlada, o que explica a repetição do uso a cada novo episódio respiratório",
+    "d": "a automedicação encarece o tratamento subsequente, prejuízo que se restringe ao orçamento familiar sem efeito sobre a coletividade que compartilha o mesmo ambiente",
+    "e": "o efeito do antibiótico depende da estação do ano em que é tomado, e o uso fora do período recomendado reduz a resposta clínica esperada pelo paciente"
+   },
+   "resposta": "b",
+   "explicacao": "Duas perdas ao mesmo tempo: o paciente não melhora do quadro viral e ainda contribui para a resistência antimicrobiana. Foi por isso que a retenção de receita passou a ser exigida na dispensação. O dano não fica no indivíduo — a bactéria resistente circula, e a saúde pública paga a conta anos depois.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-175",
+   "texto_apoio": "O ambiente alimentar de uma criança é formado pelo que está disponível, acessível e anunciado em torno dela: preço relativo, oferta no bairro, cardápio da cantina e publicidade dirigida ao público infantil.",
+   "enunciado": "A implicação dessa noção para o enfrentamento da obesidade infantil é:",
+   "alternativas": {
+    "a": "responsabilizar somente a família pelas escolhas alimentares, uma vez que a decisão de compra é tomada dentro do domicílio pelos responsáveis pela criança",
+    "b": "concluir que a informação nutricional resolve o problema sozinha, desde que impressa de forma legível na parte frontal das embalagens dos produtos ofertados",
+    "c": "priorizar o tratamento clínico individual do excesso de peso, adiando medidas coletivas até que o quadro esteja instalado na maior parte da população infantil brasileira",
+    "d": "deslocar parte da intervenção para regras de publicidade, oferta em ambiente de ensino e preço relativo, sem descartar a orientação individual",
+    "e": "transferir a decisão à indústria de alimentos, que passaria a definir de forma voluntária os limites de açúcar adicionado aceitáveis nos produtos dirigidos a crianças"
+   },
+   "resposta": "d",
+   "explicacao": "Se o alimento ultraprocessado é o mais barato, o mais anunciado e o mais fácil de encontrar, cobrar escolha melhor de uma criança é cobrar do elo mais fraco. A regulação da publicidade infantil e a composição da merenda mudam o cardápio antes que a escolha aconteça — o que a saúde pública chama de intervenção estrutural.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-176",
+   "texto_apoio": "Serviços de saúde mental relatam aumento da procura por adolescentes com queixas de ansiedade e de sono. Estudos observacionais associam parte desse quadro ao tempo prolongado diante de telas, sobretudo à noite.",
+   "enunciado": "A leitura metodologicamente cuidadosa dessa associação reconhece que:",
+   "alternativas": {
+    "a": "estudos observacionais não estabelecem sozinhos a direção do efeito, pois adolescentes com ansiedade podem também recorrer mais às telas",
+    "b": "a associação observada comprova a relação de causa, dispensando estudos adicionais sobre a direção do efeito entre o uso de telas e o adoecimento",
+    "c": "a ausência de experimento controlado torna o dado inútil para orientar recomendações sobre rotina de sono na adolescência, mesmo em caráter prudencial",
+    "d": "a associação se explica apenas pela luz emitida pelos aparelhos, mecanismo suficiente para dispensar a investigação do conteúdo consumido e do horário de uso",
+    "e": "o aumento da procura pelos serviços indica piora real da prevalência, já que a ampliação da oferta assistencial não interfere no número de casos registrados pela rede"
+   },
+   "resposta": "a",
+   "explicacao": "Causa reversa e confundimento são as duas armadilhas. Quem já dorme mal usa mais tela à noite; quem tem sofrimento busca refúgio nela. Isso não anula a recomendação prudente sobre sono, mas impede a manchete causal. A saúde pública convive com evidência imperfeita sem confundi-la com prova.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-177",
+   "texto_apoio": "A tuberculose concentra-se em populações específicas: pessoas privadas de liberdade, em situação de rua, vivendo com HIV e moradoras de áreas de alta densidade e baixa ventilação.",
+   "enunciado": "Chamar a tuberculose de doença socialmente determinada significa reconhecer que:",
+   "alternativas": {
+    "a": "a bactéria só infecta pessoas de baixa renda, característica biológica que explica a distribuição observada da doença entre os grupos sociais brasileiros",
+    "b": "o tratamento é ineficaz nessas populações, razão pela qual o controle depende do isolamento prolongado dos casos identificados nas unidades assistenciais",
+    "c": "a exposição e o adoecimento dependem de aglomeração, nutrição e acesso ao diagnóstico, condições distribuídas segundo a posição social",
+    "d": "a doença desapareceria com a distribuição universal do imunizante disponível, medida que dispensaria as ações voltadas às condições de vida dos grupos mais expostos",
+    "e": "a determinação social substitui a explicação microbiológica, de modo que a identificação do agente infeccioso perdeu utilidade prática no manejo clínico dos casos"
+   },
+   "resposta": "c",
+   "explicacao": "Determinação social não substitui o bacilo: ela explica por que o mesmo bacilo adoece uns e não outros. Aglomeração aumenta a exposição, desnutrição derruba a defesa, e a distância do serviço atrasa o diagnóstico. Por isso a busca ativa nesses territórios rende mais que a espera passiva na unidade de saúde.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-178",
+   "texto_apoio": "Duas estratégias mudaram o enfrentamento do HIV: a profilaxia pré-exposição, oferecida a pessoas sob risco elevado, e a constatação de que a pessoa em tratamento com carga viral indetectável não transmite o vírus por via sexual.",
+   "enunciado": "O ponto comum entre as duas estratégias é:",
+   "alternativas": {
+    "a": "substituir o uso do preservativo por medida farmacológica, que passa a responder também pela prevenção das demais infecções sexualmente transmissíveis",
+    "b": "restringir o cuidado ao grupo já diagnosticado, deixando a prevenção sob responsabilidade individual de quem ainda não procurou o serviço de saúde",
+    "c": "tratar a infecção como questão moral, cujo enfrentamento depende da mudança de comportamento sexual dos grupos historicamente mais expostos ao vírus",
+    "d": "condicionar o acesso ao medicamento à comprovação de exposição prévia ao vírus, requisito que reduz o custo do programa público de distribuição",
+    "e": "converter o tratamento em ferramenta de prevenção, o que torna o acesso a medicamento parte da estratégia coletiva, e não apenas do cuidado individual"
+   },
+   "resposta": "e",
+   "explicacao": "Tratar é prevenir. A pessoa em tratamento eficaz deixa de transmitir, e quem usa profilaxia se protege antes da exposição — nos dois casos o medicamento passa a operar no nível da população. Isso reposiciona a adesão ao tratamento como bem coletivo, e não só como interesse do paciente.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-179",
+   "texto_apoio": "Domicílios sem coleta de esgoto e sem água tratada apresentam maior ocorrência de diarreia infantil, verminoses e hepatite A. O acesso a esses serviços permanece desigual entre regiões e dentro das próprias cidades brasileiras.",
+   "enunciado": "A relação entre saneamento e adoecimento é descrita corretamente por:",
+   "alternativas": {
+    "a": "trata-se de investimento que atua antes do adoecimento, evitando a demanda assistencial que o serviço de saúde teria de absorver depois",
+    "b": "trata-se de investimento cujo efeito sanitário só aparece nas gerações seguintes, o que o torna incomparável a gastos com serviços assistenciais no curto prazo",
+    "c": "trata-se de área alheia à saúde pública, cuja avaliação cabe apenas aos órgãos responsáveis pela infraestrutura urbana e pela regulação dos serviços prestados",
+    "d": "trata-se de fator relevante somente na zona rural, onde a densidade populacional é menor e a solução individual de esgotamento é a alternativa predominante nos domicílios",
+    "e": "trata-se de condição cujo efeito se limita às doenças de transmissão hídrica, sem repercussão sobre nutrição, crescimento infantil e frequência às atividades de ensino"
+   },
+   "resposta": "a",
+   "explicacao": "É o exemplo clássico de determinantes sociais da saúde: a intervenção mais eficaz sobre a diarreia infantil não é um medicamento, é uma rede de esgoto. O ganho aparece em indicadores que não pertencem ao setor que pagou a obra — motivo pelo qual esse gasto costuma perder a disputa por prioridade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-180",
+   "texto_apoio": "No Brasil, a retirada de órgãos de doador falecido depende da autorização da família, mesmo quando a pessoa manifestou em vida o desejo de doar. A recusa familiar responde por parcela expressiva das doações não realizadas.",
+   "enunciado": "A medida que a literatura aponta como mais eficaz para reduzir essa recusa é:",
+   "alternativas": {
+    "a": "a criação de pagamento às famílias doadoras, prática adotada pelos programas de transplante dos países com as maiores taxas de doação já registradas",
+    "b": "a conversa prévia em família sobre a intenção de doar, pois a dúvida sobre a vontade do falecido está na origem da maior parte das negativas",
+    "c": "a dispensa da autorização familiar por decisão administrativa, arranjo que retiraria da equipe assistencial a responsabilidade pela abordagem em momento de luto",
+    "d": "a ampliação do número de leitos de terapia intensiva, fator que atua sobre a fila de espera sem relação com o índice de recusa registrado nas entrevistas familiares",
+    "e": "a divulgação das listas de espera com identificação dos receptores, informação que permitiria à família escolher o destino dos órgãos doados pelo parente falecido"
+   },
+   "resposta": "b",
+   "explicacao": "A família não recusa por ser contra a doação; recusa porque não sabe o que o parente queria e, na dúvida, escolhe não decidir por ele. Campanhas eficazes não pedem que a pessoa se cadastre — pedem que ela avise em casa. O SUS opera o maior programa público de transplantes do mundo, e o gargalo do acesso a tratamento está nessa conversa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-181",
+   "texto_apoio": "Além da expectativa de vida ao nascer, os sistemas de saúde acompanham a expectativa de vida saudável, que estima quantos anos são vividos sem limitação funcional relevante.",
+   "enunciado": "Acompanhar os dois indicadores em conjunto permite verificar se:",
+   "alternativas": {
+    "a": "o país reduziu a mortalidade infantil, informação que o segundo indicador mede com precisão superior à do primeiro em populações jovens",
+    "b": "a população está migrando entre regiões, movimento que altera a distribuição etária e explica a diferença observada entre os dois indicadores calculados",
+    "c": "o gasto per capita com saúde acompanha o crescimento econômico do país, comparação que o segundo indicador substitui de forma direta nas avaliações internacionais",
+    "d": "a cobertura dos planos privados aumentou, o que se reflete de imediato no primeiro indicador e apenas de forma tardia no segundo indicador calculado pelo país",
+    "e": "os anos ganhados de vida são vividos com autonomia ou acrescentam tempo de convivência com limitação e dependência de cuidado"
+   },
+   "resposta": "e",
+   "explicacao": "Viver mais e viver bem não são a mesma conquista. Se a expectativa de vida sobe e a saudável fica parada, o ganho foi de anos com doença — e a demanda por cuidado de longa duração cresce mais rápido que a população. É esse par que orienta a política de envelhecimento populacional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-182",
+   "texto_apoio": "Programas de rastreamento oferecem exames a pessoas sem sintomas. Critérios consagrados exigem que a doença tenha fase inicial detectável, que exista tratamento eficaz nessa fase e que o exame apresente desempenho aceitável.",
+   "enunciado": "Exigir tratamento eficaz na fase inicial como condição do rastreamento se justifica porque:",
+   "alternativas": {
+    "a": "o exame de rastreamento tem custo superior ao do tratamento, o que inverte a lógica econômica do programa quando aplicado a populações numerosas sem sintoma algum",
+    "b": "a existência de tratamento eficaz melhora o desempenho técnico do exame, elevando sua capacidade de identificar corretamente os casos em fase inicial da doença",
+    "c": "detectar cedo sem poder mudar o desfecho apenas antecipa o diagnóstico e prolonga o tempo de doente, sem acrescentar tempo de vida",
+    "d": "a exigência foi estabelecida por razões orçamentárias e não guarda relação com o benefício clínico esperado pelas pessoas submetidas ao exame de rastreamento",
+    "e": "o rastreamento se destina a confirmar diagnósticos já suspeitados na consulta, etapa em que a disponibilidade de tratamento eficaz é pressuposto do encaminhamento feito"
+   },
+   "resposta": "c",
+   "explicacao": "É o viés de antecipação: a pessoa passa a saber antes, vive o mesmo tempo e adoece por mais tempo. Rastrear sem tratamento eficaz transfere sofrimento sem devolver vida. Por isso o acesso a tratamento é condição do programa, e não consequência dele — e por isso nem toda doença grave merece rastreamento populacional.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "atualidades-saude",
+   "id": "med-atualidades-183",
+   "texto_apoio": "O Aedes aegypti depende de temperatura e de umidade para completar o ciclo. Modelos publicados na década de 2020 projetam ampliação da área e do período do ano favoráveis à transmissão de arboviroses em regiões hoje de clima mais ameno.",
+   "enunciado": "A implicação dessa projeção para os serviços de saúde é:",
+   "alternativas": {
+    "a": "a transmissão passaria a ocorrer sem a presença do vetor, o que dispensaria as ações de eliminação de criadouros nas áreas recém-incorporadas ao mapa de risco",
+    "b": "regiões antes pouco atingidas precisam preparar vigilância, diagnóstico e assistência para uma sazonalidade mais longa, sem abandonar o controle do vetor",
+    "c": "o problema deixa de ser sanitário e passa a ser somente ambiental, cabendo às áreas de meio ambiente a totalidade das ações de resposta e de preparo",
+    "d": "a projeção dispensa a manutenção da vigilância nas áreas historicamente endêmicas, cuja população já teria adquirido proteção contra os sorotipos circulantes na região",
+    "e": "os modelos climáticos não têm valor para o planejamento sanitário, porque tratam de escala de tempo longa demais para orientar decisões de organização dos serviços"
+   },
+   "resposta": "b",
+   "explicacao": "É saúde única aplicada ao clima: mudanças ambientais redesenham o mapa de quem adoece de quê. O preparo é banal e caro ao mesmo tempo — treinar a atenção primária para suspeitar de dengue onde ela era rara, garantir insumo de diagnóstico e manter o combate ao criadouro na estação que se alongou.",
    "formato": "direta",
    "origem": "medicina"
   }

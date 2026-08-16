@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "filosofia-sociologia",
- "total": 397,
+ "total": 403,
  "residuo": [
   "dir-filosofia-sociologia-81",
   "dir-filosofia-sociologia-97",
@@ -2386,6 +2386,42 @@
    "frenteDestino": "filosofia-sociologia",
    "pontos": 14,
    "margem": 9
+  },
+  "med-filosofia-sociologia-345": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-346": {
+   "subtema": "filosofia-etica-moral",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-filosofia-sociologia-347": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-filosofia-sociologia-348": {
+   "subtema": "sociologia-trabalho-classes",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-filosofia-sociologia-349": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-filosofia-sociologia-350": {
+   "subtema": "sociologia-cultura-identidade",
+   "frenteDestino": "filosofia-sociologia",
+   "pontos": 15,
+   "margem": 10
   }
  }
 }

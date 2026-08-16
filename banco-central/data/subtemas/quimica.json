@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "quimica",
- "total": 448,
+ "total": 456,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -2690,6 +2690,54 @@
    "subtema": "quimica-eletroquimica",
    "frenteDestino": "quimica",
    "pontos": 15,
+   "margem": 10
+  },
+  "med-quimica-449": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-quimica-450": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 20,
+   "margem": 20
+  },
+  "med-quimica-451": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 5
+  },
+  "med-quimica-452": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-quimica-453": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 23,
+   "margem": 18
+  },
+  "med-quimica-454": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 15,
+   "margem": 5
+  },
+  "med-quimica-455": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-quimica-456": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
    "margem": 10
   }
  }

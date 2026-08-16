@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "atualidades",
- "total": 608,
+ "total": 680,
  "residuo": [
   "med-atualidades-10",
   "med-atualidades-23",
@@ -3179,6 +3179,438 @@
    "frenteDestino": "atualidades",
    "pontos": 5,
    "margem": 5
+  },
+  "med-atualidades-151": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-152": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-atualidades-153": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-154": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-155": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-156": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-157": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-158": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-159": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-160": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-161": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-162": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-163": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-164": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-atualidades-165": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-atualidades-166": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-atualidades-167": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-atualidades-168": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-169": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-170": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-atualidades-171": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-atualidades-172": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-173": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-atualidades-174": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-175": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-176": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-177": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-178": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-179": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 5
+  },
+  "med-atualidades-180": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-181": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-182": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-183": {
+   "subtema": "atualidades-saude",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-atualidades-184": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-185": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-atualidades-186": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-187": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-atualidades-188": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-189": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-190": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-atualidades-191": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-atualidades-192": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-atualidades-193": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-194": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-195": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-atualidades-196": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-197": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-198": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-199": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-200": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-201": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-atualidades-202": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-203": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-atualidades-204": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-atualidades-205": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-206": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-atualidades-207": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-208": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-209": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-210": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-atualidades-211": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 20,
+   "margem": 20
+  },
+  "med-atualidades-212": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-atualidades-213": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-214": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-215": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-216": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-atualidades-217": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-atualidades-218": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 5,
+   "margem": 5
+  },
+  "med-atualidades-219": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 14,
+   "margem": 9
+  },
+  "med-atualidades-220": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 19,
+   "margem": 19
+  },
+  "med-atualidades-221": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-atualidades-222": {
+   "subtema": "atualidades-sociedade-educacao",
+   "frenteDestino": "atualidades",
+   "pontos": 9,
+   "margem": 9
   },
   "dir-atualidades-geopolitica-154": {
    "subtema": "atualidades-geopolitica",

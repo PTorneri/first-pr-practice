@@ -4342,6 +4342,36 @@
         "resposta": "d",
         "explicacao": "A ideia central do texto é que cada tecnologia assume uma parte da tarefa e deixa intacto o julgamento do professor diante de um aluno concreto. As outras opções anunciam substituições que a passagem afasta.",
         "formato": "direta"
-      }
+      },
+    {
+      "id": "ingles-283",
+      "texto_apoio": "City councils have spent two decades widening roads to reduce congestion. The wider road fills up within a few years, and the delay returns to what it was. Traffic engineers call this induced demand: capacity that is added is capacity that gets used. Cities that took the opposite route — narrowing lanes, adding bus corridors and bicycle tracks — have reported shorter average journeys. However, the political cost of removing a lane is far higher than the cost of adding one, which is why the wider road remains the default answer.",
+      "enunciado": "In the last sentence of the text, the connector “However” introduces:",
+      "alternativas": {
+        "a": "a further consequence of the shorter journeys reported by those cities",
+        "b": "a chronological step in the sequence of measures adopted by the traffic engineers mentioned earlier in the paragraph, placing them in the order in which they were tried",
+        "c": "an obstacle that runs against the evidence presented in the preceding sentence",
+        "d": "an example of the measures taken by councils that narrowed their lanes",
+        "e": "a conclusion drawn from the definition of induced demand"
+      },
+      "resposta": "c",
+      "explicacao": "O conectivo “however” estabelece uma relação de contraste: a frase anterior registra um resultado favorável às cidades que estreitaram as vias, e a última opõe a ela o obstáculo político que impede a adoção da medida. Reconhecer o valor do conectivo é o que sustenta a leitura do parágrafo — “and” e “moreover” somariam informação, “therefore” marcaria consequência e “for instance” anunciaria exemplo. A estrutura do texto vai, assim, do problema ao dado empírico e do dado à ressalva final.",
+      "formato": "direta"
+    },
+    {
+      "id": "ingles-284",
+      "texto_apoio": "The first results were announced in March, before the trial had been completed. Journalists were told that the treatment worked; the researchers, who had asked for more time, were not consulted about the press release. By the time the full data set was published, eighteen months later, the headline had already travelled around the world.",
+      "enunciado": "The forms “were announced”, “had been completed” and “was published” share the feature of being:",
+      "alternativas": {
+        "a": "in the active voice, with the agent expressed by a prepositional phrase",
+        "b": "in the present perfect, a form English uses to link a past action to the moment of speaking and which is built with the auxiliary “have” followed by the past participle of the main verb",
+        "c": "modal verbs expressing obligation",
+        "d": "instances of reported speech introduced by a reporting verb",
+        "e": "in the passive voice, which keeps the focus on what happened rather than on the agent"
+      },
+      "resposta": "e",
+      "explicacao": "As três formas estão na voz passiva: o particípio vem precedido do verbo “be” flexionado em algum tempo verbal — past simple em “were announced” e “was published”, past perfect em “had been completed”. A voz passiva desloca para a posição de sujeito aquilo que sofre a ação e permite omitir quem a praticou, recurso frequente no relato científico e no texto jornalístico. Em “were told” aparece a mesma estrutura com verbo de dois complementos, e não há aí nem verbo modal nem discurso indireto.",
+      "formato": "direta"
+    }
   ]
 }

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "ingles",
- "total": 507,
+ "total": 509,
  "residuo": [
   "med-ingles-44",
   "med-ingles-46",
@@ -2859,6 +2859,18 @@
    "frenteDestino": "ingles",
    "pontos": 10,
    "margem": 10
+  },
+  "med-ingles-283": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-ingles-284": {
+   "subtema": "ingles-grammar-structure",
+   "frenteDestino": "ingles",
+   "pontos": 14,
+   "margem": 14
   },
   "dir-ingles-211": {
    "subtema": "ingles-inference",

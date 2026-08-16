@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "direitos-humanos",
- "total": 298,
+ "total": 332,
  "residuo": [
   "dir-direitos-humanos-09",
   "dir-direitos-humanos-27",
@@ -1789,6 +1789,210 @@
   },
   "dir-direitos-humanos-298": {
    "subtema": "dh-igualdade-discriminacao",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-299": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-300": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-direitos-humanos-301": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 19,
+   "margem": 19
+  },
+  "dir-direitos-humanos-302": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-303": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-direitos-humanos-304": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-305": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-direitos-humanos-306": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-307": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-308": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-direitos-humanos-309": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-310": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-311": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-312": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-313": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-direitos-humanos-314": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-direitos-humanos-315": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-316": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-direitos-humanos-317": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-318": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-direitos-humanos-319": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 20,
+   "margem": 20
+  },
+  "dir-direitos-humanos-320": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 19,
+   "margem": 19
+  },
+  "dir-direitos-humanos-321": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-322": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 19,
+   "margem": 19
+  },
+  "dir-direitos-humanos-323": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-324": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-325": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 15,
+   "margem": 15
+  },
+  "dir-direitos-humanos-326": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-327": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-328": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-direitos-humanos-329": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-330": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 10,
+   "margem": 10
+  },
+  "dir-direitos-humanos-331": {
+   "subtema": "dh-justica-seguranca",
+   "frenteDestino": "direitos-humanos",
+   "pontos": 14,
+   "margem": 14
+  },
+  "dir-direitos-humanos-332": {
+   "subtema": "dh-justica-seguranca",
    "frenteDestino": "direitos-humanos",
    "pontos": 10,
    "margem": 10

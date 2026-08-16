@@ -4835,6 +4835,550 @@
    "explicacao": "A triagem de doadores deve olhar comportamento, não identidade: um homem em relação estável e monogâmica era barrado, enquanto condutas de risco em relações heterossexuais não eram alcançadas. Presumir risco a partir da orientação sexual é discriminação, e ainda produz triagem menos eficaz.",
    "formato": "direta",
    "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-299",
+   "texto_apoio": "O Brasil tem a terceira maior população prisional do mundo, e cerca de um quarto dela é formada por presos provisórios, ainda sem julgamento definitivo.",
+   "enunciado": "Esse dado sobre o sistema prisional brasileiro indica que:",
+   "alternativas": {
+    "a": "o encarceramento provisório deixou de ser exceção e passou a funcionar como regra, o que sobrecarrega o sistema penal sem correspondência com sentenças condenatórias.",
+    "b": "a prisão preventiva foi abolida do ordenamento e substituída pelo monitoramento eletrônico nas comarcas do país.",
+    "c": "o número de presídios cresceu no ritmo da população prisional, e a taxa de ocupação está estabilizada há uma década.",
+    "d": "a pena privativa de liberdade é aplicada apenas depois do trânsito em julgado, e os presos provisórios cumprem medida diversa da prisão em estabelecimento próprio, apartado dos condenados.",
+    "e": "os presos provisórios respondem por crimes de maior gravidade, o que explica a lentidão do trâmite processual em cada um desses casos."
+   },
+   "resposta": "a",
+   "explicacao": "A prisão antes do julgamento deveria ser excepcional. Quando um quarto da população prisional está nessa condição, o sistema penal encarcera pessoas que talvez sequer venham a ser condenadas, e a superlotação do presídio deixa de ter relação com o volume de sentenças.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-300",
+   "texto_apoio": "A audiência de custódia determina que a pessoa presa em flagrante seja apresentada a um juiz em até 24 horas.",
+   "enunciado": "A principal razão de ser desse instituto no sistema de justiça é:",
+   "alternativas": {
+    "a": "acelerar a condenação, permitindo que a pena seja fixada já na primeira apresentação ao juiz responsável pelo caso.",
+    "b": "permitir o controle imediato da legitimidade da prisão e a verificação de eventual tortura ou maus-tratos praticados no momento da abordagem policial.",
+    "c": "transferir ao delegado a decisão sobre a manutenção da custódia, dispensando a apreciação judicial nas primeiras horas.",
+    "d": "substituir o processo penal por um acordo firmado entre a polícia e a pessoa presa, com o aval do ministério público local.",
+    "e": "reservar o exame do caso a uma comissão administrativa da própria corporação policial, que decide sobre a permanência da pessoa sob custódia e sobre o encaminhamento do inquérito."
+   },
+   "resposta": "b",
+   "explicacao": "O contato rápido com o juiz cumpre duas funções: aferir se a prisão se sustenta e permitir que marcas de tortura ou de violência policial sejam registradas enquanto ainda são visíveis. É um mecanismo de controle sobre a atuação da polícia, não um atalho para a pena.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-301",
+   "texto_apoio": "A Lei 12.847/2013 criou o Sistema Nacional de Prevenção e Combate à Tortura, com um mecanismo autorizado a visitar unidades de privação de liberdade sem aviso prévio.",
+   "enunciado": "A visita sem aviso prévio é peça central desse desenho porque:",
+   "alternativas": {
+    "a": "reduz o custo das inspeções, já que dispensa o deslocamento de equipes técnicas até as unidades mais distantes das capitais.",
+    "b": "permite que a unidade prisional se prepare com antecedência e apresente suas instalações em condições representativas do cotidiano.",
+    "c": "impede o preparo prévio do ambiente e permite flagrar a rotina real da unidade, onde a tortura tende a ocorrer longe de registro documental.",
+    "d": "transfere à direção do presídio a escolha das alas inspecionadas, o que assegura a colaboração da administração penitenciária ao longo do procedimento de fiscalização.",
+    "e": "substitui a atuação da ouvidoria e da defensoria pública, que passam a depender do relatório produzido pelo mecanismo."
+   },
+   "resposta": "c",
+   "explicacao": "A prevenção da tortura depende de o inspetor ver o que não foi arrumado para ele. O aviso prévio permitiria maquiar a unidade; sem ele, o mecanismo alcança a rotina em que a violência institucional costuma acontecer sem testemunhas.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-302",
+   "texto_apoio": "Levantamentos do Fórum Brasileiro de Segurança Pública mostram que as mortes decorrentes de intervenção policial se concentram em periferias urbanas e em abordagens sem confronto armado registrado.",
+   "enunciado": "A leitura desses dados sobre letalidade policial permite concluir que:",
+   "alternativas": {
+    "a": "o uso da força letal seguiu estritamente o critério da proporcionalidade em cada ocorrência registrada pelas corregedorias.",
+    "b": "a concentração territorial das mortes é aleatória, e por isso o dado não autoriza inferência sobre a atuação das corporações.",
+    "c": "a letalidade é consequência inevitável do trabalho de rua e não comporta parâmetro de controle externo à corporação.",
+    "d": "há um padrão de uso da força que não se explica pela reação a agressão, o que aponta para falha de controle sobre a atividade policial.",
+    "e": "os registros de intervenção policial deveriam ser arquivados sem apuração, uma vez que a corporação já dispõe de instrumentos internos de correição para tratar de casos dessa natureza."
+   },
+   "resposta": "d",
+   "explicacao": "Se as mortes se concentram em certos territórios e ocorrem sem confronto registrado, o padrão não decorre de reação a agressão. Ele revela a fragilidade do controle sobre a atividade policial, e é aí que a ouvidoria e o ministério público têm papel a cumprir.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-303",
+   "texto_apoio": "O policiamento comunitário propõe que a corporação atue de forma permanente em um território, conhecendo moradores e mediando conflitos antes que eles escalem.",
+   "enunciado": "A diferença central entre esse modelo e o policiamento reativo tradicional está em que o primeiro:",
+   "alternativas": {
+    "a": "abandona o uso da força diante de resistência, transferindo a ocorrência ao ministério público a cada abordagem realizada.",
+    "b": "concentra a atuação em operações de grande porte, deslocando efetivo de outras regiões para intervenções pontuais e de curta duração.",
+    "c": "substitui a corporação policial por conselhos de moradores, aos quais passa a caber a decisão sobre a punição de infratores no bairro.",
+    "d": "mede resultado pelo número de prisões efetuadas no mês, indicador que a doutrina de segurança pública considera o mais confiável para avaliar a eficiência do serviço prestado.",
+    "e": "trata a prevenção do conflito como resultado a perseguir, e não apenas a resposta rápida depois que o crime já aconteceu."
+   },
+   "resposta": "e",
+   "explicacao": "O policiamento reativo mede sucesso pela rapidez da resposta ao chamado. O comunitário desloca a meta para antes do fato: presença estável, vínculo com o território e mediação de conflitos. Continua sendo polícia, com uso de força regulado, e não substituição por conselho de moradores.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-304",
+   "texto_apoio": "A Defensoria Pública presta assistência jurídica integral e gratuita aos que comprovam insuficiência de recursos.",
+   "enunciado": "A existência dessa instituição é decisiva para o acesso à justiça porque:",
+   "alternativas": {
+    "a": "sem representação técnica, a pessoa sem recursos ficaria fora do processo judicial na prática, ainda que o direito lhe fosse formalmente reconhecido.",
+    "b": "ela substitui o juiz na decisão das causas em que uma das partes não dispõe de recursos financeiros.",
+    "c": "ela atua apenas na esfera penal, o que concentra a atividade da instituição na defesa de pessoas já condenadas a pena privativa de liberdade.",
+    "d": "ela transfere ao ministério público a defesa dos interesses individuais, reservando à advocacia privada as causas de repercussão coletiva e os litígios de massa que chegam ao Judiciário.",
+    "e": "ela dispensa a presença de advogado nas causas cíveis, tornando facultativa a assistência técnica no processo civil."
+   },
+   "resposta": "a",
+   "explicacao": "Direito reconhecido no papel e direito exercível são coisas distintas. A defensoria pública é a ponte entre os dois: sem ela, a barreira econômica converte a garantia formal em letra morta, e o acesso à justiça fica restrito a quem pode pagar.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-305",
+   "texto_apoio": "Ao Ministério Público cabe, entre outras funções, o controle externo da atividade policial.",
+   "enunciado": "Essa atribuição faz sentido institucional porque:",
+   "alternativas": {
+    "a": "o órgão integra a estrutura da corporação policial e por isso conhece a rotina de cada unidade fiscalizada no território.",
+    "b": "a apuração de abuso de autoridade e de violência policial perde credibilidade quando fica restrita à correição interna da própria corporação.",
+    "c": "a atividade policial não admite fiscalização por órgão externo, e o controle se limita ao registro estatístico das ocorrências que chegam às delegacias de cada região.",
+    "d": "o órgão assume o comando operacional das ações de segurança pública nas capitais durante os períodos de maior incidência criminal.",
+    "e": "a corregedoria deixa de existir quando o controle externo é instalado, o que evita a duplicidade de instâncias de apuração."
+   },
+   "resposta": "b",
+   "explicacao": "Investigação de abuso de autoridade conduzida apenas pela própria corporação é frágil por construção. O controle externo pelo ministério público não substitui a corregedoria: ele acrescenta uma instância de fora, o que torna a apuração de violência policial menos dependente da hierarquia investigada.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-306",
+   "texto_apoio": "Um processo que leva doze anos para julgar um pedido de indenização por prisão indevida chega ao fim quando o autor já reorganizou a vida sem a reparação pleiteada.",
+   "enunciado": "A situação descrita ilustra que a morosidade do sistema de justiça:",
+   "alternativas": {
+    "a": "é irrelevante para a efetividade do direito, desde que a sentença final reconheça a razão do autor do pedido.",
+    "b": "decorre apenas do número de recursos interpostos pela parte que perde a causa em primeira instância.",
+    "c": "compromete o próprio acesso à justiça, porque a demora esvazia na prática o direito que a sentença viria a reconhecer.",
+    "d": "é resolvida com a transferência do caso à esfera administrativa, onde o prazo de julgamento é fixado em lei e a defensoria pública atua como instância recursal do processo.",
+    "e": "atinge somente as causas de menor valor econômico, que ficam ao fim da fila de julgamento nos tribunais."
+   },
+   "resposta": "c",
+   "explicacao": "Acesso à justiça não é apenas poder entrar com a ação: é obter resposta em tempo útil. A morosidade transforma vitória processual em reparação simbólica, e por isso a duração razoável do processo integra o próprio conteúdo desse acesso.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-307",
+   "texto_apoio": "A justiça restaurativa reúne ofensor, vítima e comunidade num círculo mediado, com foco na reparação do dano e na responsabilização ativa de quem causou o prejuízo.",
+   "enunciado": "O que distingue essa abordagem do modelo penal tradicional é que ela:",
+   "alternativas": {
+    "a": "elimina a responsabilização do ofensor e encerra o caso com um pedido de desculpas registrado em ata pelo mediador do círculo.",
+    "b": "amplia o tempo de reclusão como forma de compensar a vítima pelo prejuízo sofrido durante a ocorrência.",
+    "c": "transfere à vítima a decisão sobre a pena a ser cumprida, retirando do juiz a competência para fixar a sanção aplicável ao caso concreto que lhe foi submetido.",
+    "d": "desloca o eixo da punição para a reparação, tratando o conflito como algo a ser reconstruído entre as partes envolvidas.",
+    "e": "aplica-se apenas a crimes cometidos por adultos, ficando o ato infracional fora de seu alcance."
+   },
+   "resposta": "d",
+   "explicacao": "O modelo tradicional pergunta que pena cabe ao fato. A justiça restaurativa pergunta que dano foi causado e como repará-lo. A responsabilização continua existindo, mas é ativa: o ofensor assume o prejuízo diante de quem o sofreu, em vez de apenas suportar a punição imposta.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-308",
+   "texto_apoio": "O ECA prevê que a internação de adolescente autor de ato infracional seja aplicada apenas em último caso e pelo menor tempo possível.",
+   "enunciado": "Esse comando do ECA se apoia na ideia de que:",
+   "alternativas": {
+    "a": "o adolescente não responde por seus atos, e a medida socioeducativa tem caráter meramente simbólico no sistema de justiça juvenil.",
+    "b": "a internação é a medida mais eficaz para conter a reincidência e deveria ser a primeira escolha do juiz diante de ato infracional.",
+    "c": "a medida socioeducativa e a pena aplicada ao adulto são idênticas em natureza, o que autoriza o cumprimento conjunto em unidades do sistema prisional comum.",
+    "d": "o ato infracional deve ser apurado pela polícia sem participação do ministério público, cuja atuação se restringe à fase de execução da medida socioeducativa aplicada ao adolescente.",
+    "e": "a privação de liberdade interrompe vínculos formativos, e a medida em meio aberto responsabiliza sem produzir esse rompimento."
+   },
+   "resposta": "e",
+   "explicacao": "A internação é excepcional porque rompe vínculos escolares, familiares e comunitários numa fase decisiva. Medidas em meio aberto responsabilizam o adolescente pelo ato infracional sem esse custo, e por isso o ECA as coloca à frente na escala.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-309",
+   "texto_apoio": "O conselho tutelar é órgão permanente e autônomo, composto por membros escolhidos em processo de escolha aberto à comunidade local.",
+   "enunciado": "A escolha dos conselheiros pela própria comunidade se justifica porque:",
+   "alternativas": {
+    "a": "vincula o órgão ao território que ele atende e materializa uma forma de participação popular no zelo pelos direitos da criança.",
+    "b": "reduz o custo de manutenção do órgão, dispensando o repasse de recursos pelo município onde ele funciona.",
+    "c": "transfere ao conselho a competência para aplicar pena a adultos que descumpram suas determinações no âmbito do território atendido.",
+    "d": "torna o conselho tutelar subordinado à corporação policial do município, o que assegura a execução imediata das medidas de proteção que ele venha a determinar em cada caso.",
+    "e": "substitui o Judiciário na apuração do ato infracional praticado por adolescente residente na área de abrangência."
+   },
+   "resposta": "a",
+   "explicacao": "O conselho tutelar é desenho de controle social: quem convive com o território escolhe quem vai zelar por ele. Essa participação popular é o que distingue o órgão de uma repartição administrativa comum, e não lhe dá poder de punição nem de julgamento.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-310",
+   "texto_apoio": "Ouvidorias de polícia externas recebem denúncias de cidadãos sobre condutas de agentes e acompanham a apuração feita pela corregedoria.",
+   "enunciado": "A independência entre ouvidoria e corregedoria é relevante porque:",
+   "alternativas": {
+    "a": "elimina a necessidade de apuração interna, já que a ouvidoria passa a instaurar e a julgar os procedimentos disciplinares.",
+    "b": "separa quem recebe a denúncia de quem investiga o denunciado, o que reduz o risco de a queixa de abuso de autoridade morrer na origem.",
+    "c": "permite que o ouvidor comande operações de segurança pública nos territórios de onde partem as denúncias recebidas pelo canal.",
+    "d": "confere ao denunciante o direito de fixar a sanção aplicável ao agente, o que aumenta a confiança da população no controle social sobre a atividade policial em seu bairro.",
+    "e": "encerra a competência do ministério público sobre o controle externo da atividade policial no estado onde a ouvidoria funciona."
+   },
+   "resposta": "b",
+   "explicacao": "Se a mesma estrutura recebe e investiga, a denúncia de violência policial depende da disposição do investigado em apurar a si mesmo. A ouvidoria independente cria uma porta de entrada fora da hierarquia e acompanha o que a corregedoria faz com a queixa.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-311",
+   "texto_apoio": "A vedação à censura prévia impede que o Estado examine e autorize conteúdo antes de sua publicação, mas não afasta a responsabilização posterior por abusos.",
+   "enunciado": "A distinção entre censura prévia e responsabilização posterior importa porque:",
+   "alternativas": {
+    "a": "torna a liberdade de expressão um direito sem limite, o que dispensa reparação civil por dano causado a terceiro.",
+    "b": "autoriza o Estado a suspender publicações que considere inconvenientes, desde que informe o motivo ao veículo atingido pela medida.",
+    "c": "permite que o conteúdo circule e só depois responda por eventual excesso, evitando que o poder público decida o que pode ser dito.",
+    "d": "transfere ao Judiciário a análise prévia de cada matéria jornalística, o que substitui o controle administrativo por um filtro judicial anterior à circulação do conteúdo produzido.",
+    "e": "restringe a liberdade de imprensa aos veículos licenciados pelo poder público em cada estado."
+   },
+   "resposta": "c",
+   "explicacao": "A censura decide antes o que pode existir; a responsabilização julga depois o que já circulou, e pode chegar à reparação civil ou à punição prevista em lei. A segunda preserva o debate público e ainda assim protege o ofendido, porque a liberdade de expressão não blinda quem abusa dela.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-312",
+   "texto_apoio": "A Lei de Acesso à Informação estabelece a publicidade como regra e o sigilo como exceção nos órgãos públicos.",
+   "enunciado": "Essa inversão do ônus tem como efeito principal:",
+   "alternativas": {
+    "a": "obrigar o cidadão a justificar o interesse no pedido, o que filtra as solicitações sem finalidade pública demonstrada.",
+    "b": "permitir que cada órgão classifique como sigilosos os documentos que julgar sensíveis, sem prazo para revisão da classificação atribuída.",
+    "c": "restringir o direito à informação aos jornalistas credenciados junto ao órgão que detém o documento solicitado.",
+    "d": "transferir ao ministério público a decisão sobre cada pedido de acesso formulado por cidadão comum, o que uniformiza os critérios de resposta no território nacional.",
+    "e": "colocar sobre o órgão público o dever de fundamentar a recusa, e não sobre o cidadão o de justificar o pedido."
+   },
+   "resposta": "e",
+   "explicacao": "Quando a publicidade é regra, quem quer negar é que precisa explicar por quê. O direito à informação deixa de depender da boa vontade do gestor e passa a funcionar como instrumento de controle social sobre a atuação estatal.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-313",
+   "texto_apoio": "A liberdade de reunião é assegurada para fins pacíficos, em locais abertos ao público, exigindo-se apenas aviso prévio à autoridade competente.",
+   "enunciado": "A exigência de aviso prévio, nesse desenho, significa que:",
+   "alternativas": {
+    "a": "a manifestação depende de autorização da autoridade, que pode negá-la quando discordar da pauta apresentada pelos organizadores.",
+    "b": "o aviso é comunicação, não pedido de licença, e serve para que o poder público organize o espaço sem julgar o conteúdo do protesto.",
+    "c": "a reunião só é lícita quando ocorre em recinto fechado e com número previamente informado de participantes.",
+    "d": "cabe à polícia definir o percurso e a pauta do ato, o que assegura a segurança pública dos participantes e evita conflito com terceiros durante o trajeto escolhido pelos organizadores.",
+    "e": "a ausência de aviso converte automaticamente a reunião em ato criminoso sujeito a punição dos organizadores."
+   },
+   "resposta": "b",
+   "explicacao": "Aviso prévio não é autorização. Ele existe para que a polícia possa isolar o trecho da via e prevenir conflito, não para que a autoridade avalie a pauta. Condicionar o ato ao juízo do poder público sobre seu conteúdo seria censura por outro caminho.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-314",
+   "texto_apoio": "A Lei 13.869/2019 tipifica condutas de agente público que, no exercício da função, excede os limites de sua atribuição com finalidade específica de prejudicar alguém ou de obter benefício.",
+   "enunciado": "A exigência dessa finalidade específica no tipo penal serve para:",
+   "alternativas": {
+    "a": "impedir a responsabilização do agente público, que passa a responder somente na esfera administrativa perante a corregedoria.",
+    "b": "estender a punição às decisões que venham a ser reformadas por instância superior, o que aumenta o rigor do controle sobre a atividade policial e sobre a atuação do juiz de primeiro grau.",
+    "c": "separar o abuso de autoridade do erro de interpretação, punindo o desvio de finalidade e não a divergência técnica.",
+    "d": "transferir ao ministério público a competência para aplicar diretamente a sanção ao agente que praticou a conduta descrita na lei.",
+    "e": "restringir a aplicação da lei aos agentes de segurança pública, excluindo os demais servidores do alcance da norma."
+   },
+   "resposta": "c",
+   "explicacao": "Sem a finalidade específica, toda decisão reformada viraria crime e o agente ficaria paralisado. Com ela, a lei alcança o desvio deliberado — o abuso de autoridade propriamente dito — e deixa fora a divergência de interpretação, que se resolve por recurso.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-315",
+   "texto_apoio": "Programas de prevenção à violência urbana combinam iluminação de vias, ocupação de praças, atividades noturnas para jovens e mediação de conflitos locais.",
+   "enunciado": "A lógica que sustenta esse tipo de programa é a de que:",
+   "alternativas": {
+    "a": "a redução do crime depende apenas do aumento do efetivo policial e da ampliação das vagas no presídio da região.",
+    "b": "a ocupação do espaço público não interfere na dinâmica criminal, servindo apenas como resposta de imagem para a população local.",
+    "c": "a violência urbana é fenômeno individual, insensível à organização física e social do território onde se manifesta.",
+    "d": "a segurança pública se constrói também fora da atuação repressiva, alterando as condições do território que favorecem a ocorrência do crime.",
+    "e": "a mediação de conflitos deve ser conduzida pela corporação policial em regime de exclusividade, o que dispensa a participação social dos moradores nas decisões sobre o uso dos equipamentos do bairro."
+   },
+   "resposta": "d",
+   "explicacao": "Prevenção situacional parte de uma observação simples: crime tem geografia e horário. Iluminar, ocupar e mediar altera as condições em que a ocorrência acontece. Isso não substitui a polícia, mas mostra que a segurança pública não se esgota na resposta repressiva.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-316",
+   "texto_apoio": "As Regras de Mandela estabelecem parâmetros para o tratamento de pessoas privadas de liberdade, entre eles a vedação ao isolamento prolongado e o contato regular com o mundo exterior.",
+   "enunciado": "A limitação ao isolamento prolongado dessas regras apoia-se no entendimento de que:",
+   "alternativas": {
+    "a": "a pessoa condenada perde, com a sentença, a titularidade dos direitos não atingidos pela sentença condenatória proferida.",
+    "b": "o isolamento é a forma mais eficiente de manter a ordem interna e deveria ser a resposta padrão a faltas disciplinares no presídio.",
+    "c": "o isolamento prolongado produz dano psíquico e se aproxima da tortura, extrapolando o conteúdo da pena imposta pela sentença.",
+    "d": "a administração penitenciária pode fixar livremente o regime disciplinar, sem controle da defensoria pública nem do ministério público sobre os procedimentos adotados dentro da unidade prisional.",
+    "e": "o contato com o mundo exterior compromete a segurança da unidade e deve ser suprimido durante o cumprimento da pena."
+   },
+   "resposta": "c",
+   "explicacao": "A pena restringe a liberdade de ir e vir, não a integridade psíquica. Isolamento prolongado produz dano que a sentença não autorizou, e por isso as Regras de Mandela o tratam como algo que resvala na tortura e não como mero instrumento disciplinar.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-317",
+   "texto_apoio": "Penas restritivas de direitos, como prestação de serviços à comunidade, substituem a privação de liberdade em condenações de menor gravidade.",
+   "enunciado": "A previsão dessas alternativas penais no ordenamento se apoia na constatação de que:",
+   "alternativas": {
+    "a": "a prestação de serviços é mais severa que a reclusão e por isso desestimula com mais força a reincidência do condenado.",
+    "b": "o sistema prisional não comporta novas vagas, e a substituição é medida provisória a ser revista quando houver ampliação da estrutura existente.",
+    "c": "a alternativa penal só se aplica a quem já cumpriu parte da pena em regime fechado no presídio da comarca.",
+    "d": "para infrações leves, o encarceramento agrava o quadro do condenado sem ganho para a segurança pública, além de sobrecarregar o sistema penal.",
+    "e": "o juiz perde a atribuição de fixar a sanção nesses casos, que passa a ser definida pela administração penitenciária conforme a lotação disponível em cada unidade do estado."
+   },
+   "resposta": "d",
+   "explicacao": "Em infração leve, a passagem pelo presídio rompe vínculos de trabalho e família e expõe o condenado à dinâmica interna do sistema penal, sem que a segurança pública ganhe com isso. A alternativa penal mantém a responsabilização e evita esse custo.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-318",
+   "texto_apoio": "Estudos sobre seletividade descrevem o sistema penal como um funil: muitos fatos entram, poucos chegam à condenação, e o perfil de quem chega ao fim é bastante homogêneo.",
+   "enunciado": "A metáfora do funil serve para evidenciar que:",
+   "alternativas": {
+    "a": "a lei penal se aplica de modo idêntico aos casos que chegam ao conhecimento da polícia em cada território.",
+    "b": "a filtragem ao longo do processo não é neutra, e a seleção de quem é efetivamente punido revela critérios alheios à gravidade do fato.",
+    "c": "o número de condenações corresponde ao número de fatos praticados, o que torna a estatística criminal um retrato fiel da realidade.",
+    "d": "a atuação da defensoria pública é a única variável que explica o estreitamento do funil, uma vez que a assistência jurídica gratuita determina o desfecho de cada processo submetido ao Judiciário.",
+    "e": "o estreitamento decorre apenas da prescrição, instituto que encerra o processo pelo decurso do tempo."
+   },
+   "resposta": "b",
+   "explicacao": "O funil mostra que a punição efetiva depende de uma cadeia de escolhas: o que a polícia registra, o que o ministério público denuncia, o que o Judiciário condena. Quando o perfil de quem chega ao fim é homogêneo, o critério que operou não foi só a gravidade do fato.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-319",
+   "texto_apoio": "A presunção de inocência determina que ninguém seja tratado como culpado antes do trânsito em julgado da sentença condenatória.",
+   "enunciado": "A exibição de pessoas presas algemadas em coletivas de imprensa colide com esse princípio porque:",
+   "alternativas": {
+    "a": "antecipa perante o público um juízo de culpa que ainda não foi formado no processo, produzindo uma punição informal antes da sentença.",
+    "b": "impede a atuação da defensoria pública no caso, que fica limitada à fase de execução da pena eventualmente imposta.",
+    "c": "transfere ao veículo de imprensa a competência para fixar a sanção cabível ao fato noticiado naquela ocasião.",
+    "d": "restringe o direito à informação da população, que passa a depender somente das notas divulgadas pela assessoria da corporação policial responsável pela operação realizada.",
+    "e": "converte o inquérito policial em processo judicial, dispensando o oferecimento de denúncia pelo ministério público."
+   },
+   "resposta": "a",
+   "explicacao": "A exposição pública funciona como pena antecipada: o estigma se instala antes de qualquer sentença e não desaparece com eventual absolvição. Informar sobre a operação é legítimo; expor a pessoa como troféu é punição informal aplicada pela polícia fora do processo.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-320",
+   "texto_apoio": "Chama-se violência institucional aquela praticada por agentes do Estado, ou tolerada por eles, no funcionamento ordinário dos serviços públicos.",
+   "enunciado": "O que caracteriza esse tipo de violência é o fato de ela:",
+   "alternativas": {
+    "a": "ocorrer fora do horário de expediente, o que dificulta a identificação do agente responsável pela conduta.",
+    "b": "depender de dolo específico do agente, sem o qual a conduta se torna atípica na esfera administrativa e na penal.",
+    "c": "estar inscrita na rotina do serviço, e não em desvio isolado, o que a torna invisível para quem opera o sistema por dentro.",
+    "d": "atingir apenas pessoas privadas de liberdade em presídio, uma vez que o ambiente fechado impede o registro externo das condutas praticadas pelos agentes de custódia da unidade.",
+    "e": "ser apurada somente pela ouvidoria, que substitui o ministério público no controle externo da atividade policial."
+   },
+   "resposta": "c",
+   "explicacao": "A violência institucional não depende de um agente descontrolado: ela está no procedimento normalizado, na fila que humilha, na revista vexatória, no atendimento que descrê da vítima. Por estar na rotina, escapa ao olhar de quem a pratica, e é por isso que o controle externo importa.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-321",
+   "texto_apoio": "Conselhos comunitários de segurança reúnem periodicamente moradores, comerciantes e comandantes locais para discutir prioridades do policiamento no bairro.",
+   "enunciado": "O ganho principal desse arranjo de participação social está em:",
+   "alternativas": {
+    "a": "transferir aos moradores a decisão sobre a punição a ser aplicada a quem comete infrações no território discutido nas reuniões.",
+    "b": "aproximar a definição das prioridades de quem convive com o território, submetendo a atuação da polícia a algum grau de controle social.",
+    "c": "dispensar a atuação da ouvidoria e da corregedoria, cujas funções passam a ser exercidas pelo próprio conselho instalado no bairro.",
+    "d": "substituir o comando da corporação por uma direção colegiada eleita entre os moradores presentes às reuniões periódicas, o que reduz a distância entre a chefia e a população atendida.",
+    "e": "encerrar o registro estatístico das ocorrências, já que as prioridades passam a ser definidas em reunião aberta."
+   },
+   "resposta": "b",
+   "explicacao": "Quem mora no lugar sabe onde e quando o problema aparece. O conselho não comanda a polícia nem pune ninguém: ele cria um canal de participação social em que a corporação presta contas e ouve prioridades, o que é uma forma modesta mas real de controle social.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-322",
+   "texto_apoio": "Mutirões de emissão de documentos em áreas periféricas registram grande procura por certidão de nascimento e carteira de identidade entre adultos.",
+   "enunciado": "A ausência de documentação básica é problema de cidadania porque:",
+   "alternativas": {
+    "a": "impede apenas o exercício do voto, permanecendo os demais direitos plenamente acessíveis à pessoa não documentada.",
+    "b": "decorre de escolha individual da pessoa, que decide não procurar o cartório da região onde reside com sua família.",
+    "c": "afeta somente a relação com bancos privados, sem repercussão sobre o acesso a serviços prestados pelo Estado.",
+    "d": "sem registro, a pessoa não consegue acionar serviços nem a defensoria pública, ficando fora do alcance prático do acesso à justiça.",
+    "e": "a emissão de documentos cabe à corporação policial do município, que define os critérios de atendimento em cada mutirão realizado no território periférico."
+   },
+   "resposta": "d",
+   "explicacao": "O documento é a porta de entrada: sem ele a pessoa não abre conta, não assina contrato, não é atendida na ponta e tem dificuldade até para ser representada pela defensoria pública. A cidadania começa no registro, e sua falta bloqueia o acesso à justiça na prática.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-323",
+   "texto_apoio": "O sistema socioeducativo prevê que a unidade de internação seja regionalizada, próxima ao domicílio do adolescente e com capacidade reduzida.",
+   "enunciado": "Essas exigências de porte e localização atendem à finalidade da medida porque:",
+   "alternativas": {
+    "a": "reduzem o custo de manutenção da unidade e permitem realocar o efetivo de segurança para outras funções na região.",
+    "b": "facilitam o controle disciplinar interno, que se torna mais rígido em unidades de menor porte e menor circulação.",
+    "c": "aproximam a unidade da corporação policial responsável pela apuração do ato infracional atribuído ao adolescente internado.",
+    "d": "permitem que a direção da unidade fixe livremente o tempo de permanência do adolescente, sem submeter a decisão ao juiz que aplicou a medida socioeducativa no caso concreto.",
+    "e": "preservam o vínculo familiar e comunitário, sem o qual a medida socioeducativa perde o caráter formativo e se aproxima da pena."
+   },
+   "resposta": "e",
+   "explicacao": "Internar longe de casa e em unidade grande transforma a medida socioeducativa em prisão juvenil. Proximidade e porte reduzido preservam a visita, o vínculo e o acompanhamento individual, que é justamente o que distingue a medida da pena aplicada ao adulto.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-324",
+   "texto_apoio": "Políticas de desencarceramento incluem revisão de prisões provisórias, ampliação de alternativas penais e monitoramento eletrônico em substituição ao regime fechado.",
+   "enunciado": "O argumento central em favor dessas políticas é o de que:",
+   "alternativas": {
+    "a": "o encarceramento em massa não produziu a queda de criminalidade esperada e agravou o custo humano e financeiro do sistema penal.",
+    "b": "a prisão preventiva foi revogada do ordenamento jurídico brasileiro pela legislação que criou o monitoramento eletrônico.",
+    "c": "o presídio superlotado cumpre melhor a função de dissuasão, e a redução da lotação enfraquece esse efeito sobre o comportamento coletivo.",
+    "d": "o monitoramento eletrônico é medida mais gravosa que a reclusão e por isso desestimula com mais eficácia a prática de novas infrações pelo condenado.",
+    "e": "a competência para decidir sobre a soltura passa à administração penitenciária, que avalia a lotação da unidade antes de submeter o pedido ao juiz da execução penal."
+   },
+   "resposta": "a",
+   "explicacao": "Décadas de crescimento da população prisional não vieram acompanhadas da queda de criminalidade prometida, enquanto o custo por vaga e a violência interna cresceram. O desencarceramento parte dessa constatação empírica, não de leniência com o crime.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-325",
+   "texto_apoio": "O monitoramento eletrônico por tornozeleira permite o cumprimento de medida fora do estabelecimento prisional, com restrição de horários e áreas de circulação.",
+   "enunciado": "Uma crítica frequente a esse instrumento aponta que ele:",
+   "alternativas": {
+    "a": "elimina a supervisão judicial sobre o cumprimento da medida, que passa a ser conduzida pela empresa contratada para operar o equipamento.",
+    "b": "pode ampliar o alcance do controle penal, alcançando pessoas que antes sequer receberiam medida restritiva, em vez de substituir a prisão.",
+    "c": "impede a atuação da defensoria pública durante a execução, restringindo a assistência jurídica à fase de conhecimento do processo.",
+    "d": "converte a medida em pena privativa de liberdade cumprida em domicílio, o que exige a construção de novas unidades prisionais para abrigar os monitorados que descumprem as regras estabelecidas.",
+    "e": "torna obrigatória a presença diária do monitorado na delegacia da região onde reside, sob supervisão da corporação policial local."
+   },
+   "resposta": "b",
+   "explicacao": "A crítica é conhecida como alargamento da rede: em vez de esvaziar o presídio, o monitoramento pode ser aplicado a quem antes responderia solto. Se isso acontece, o sistema penal amplia seu alcance sem que a lotação da unidade prisional diminua.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-326",
+   "texto_apoio": "Egressos do sistema prisional relatam recusa de contratação assim que informam a passagem pela unidade, mesmo após o cumprimento integral da medida imposta.",
+   "enunciado": "Essa barreira contraria a lógica da execução penal porque:",
+   "alternativas": {
+    "a": "a legislação obriga o empregador privado a contratar egressos em percentual fixo de seu quadro funcional.",
+    "b": "o cumprimento da medida imposta não encerra os efeitos da condenação, que se prolongam por prazo indeterminado na esfera civil.",
+    "c": "a pena tem termo final, e o estigma que sobrevive a ele impõe uma punição que a sentença não previu nem autorizou.",
+    "d": "o egresso permanece sob custódia da administração penitenciária, que responde pela sua colocação no mercado de trabalho ao longo do período subsequente à soltura.",
+    "e": "a recusa de contratação constitui abuso de autoridade e sujeita o empregador às sanções previstas na legislação de segurança pública."
+   },
+   "resposta": "c",
+   "explicacao": "A pena é finita por definição. Quando o estigma continua fechando portas depois do cumprimento, cria-se uma punição paralela, sem prazo e sem sentença, que empurra o egresso de volta ao mesmo circuito que o sistema penal dizia querer interromper.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-327",
+   "texto_apoio": "Centros judiciários de solução consensual de conflitos conduzem sessões de mediação e conciliação antes ou durante o processo judicial.",
+   "enunciado": "A difusão desses centros se relaciona ao acesso à justiça porque:",
+   "alternativas": {
+    "a": "retira do cidadão a possibilidade de submeter a controvérsia ao juiz, tornando a via consensual a única porta disponível.",
+    "b": "condiciona a mediação ao pagamento de taxa proporcional ao valor da causa discutida entre as partes envolvidas.",
+    "c": "transfere ao mediador o poder de decidir o conflito, com força equivalente à de uma sentença proferida pelo juiz da causa.",
+    "d": "oferece resposta mais rápida e menos onerosa a conflitos que, na via tradicional, esbarrariam na morosidade do Judiciário.",
+    "e": "restringe a atuação da defensoria pública às causas em que a mediação foi tentada sem êxito, o que reduz a demanda por assistência jurídica gratuita nas comarcas do interior."
+   },
+   "resposta": "d",
+   "explicacao": "Nem todo conflito precisa de sentença. A via consensual encurta o caminho e desafoga a fila, atacando a morosidade que corrói o acesso à justiça. Ela é porta adicional, não substituta: quem não acorda continua podendo levar a causa ao juiz.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-328",
+   "texto_apoio": "Os juizados especiais julgam causas de menor complexidade com procedimento simplificado, oralidade e dispensa de advogado até determinado valor.",
+   "enunciado": "Esse desenho procedimental foi concebido para:",
+   "alternativas": {
+    "a": "reservar a via judicial às causas de maior valor econômico, que justificam a estrutura de um processo completo.",
+    "b": "atribuir ao ministério público a condução das causas de menor complexidade em substituição às partes interessadas.",
+    "c": "eliminar o direito de recurso, encerrando a controvérsia na primeira decisão proferida pelo juiz do juizado especial.",
+    "d": "transferir à defensoria pública a representação obrigatória de ambas as partes nas causas submetidas ao rito simplificado do juizado, o que uniformiza a qualidade técnica da postulação.",
+    "e": "reduzir as barreiras de custo e de formalidade que afastavam do Judiciário pequenos conflitos do cotidiano."
+   },
+   "resposta": "e",
+   "explicacao": "Antes dos juizados, uma cobrança indevida de cem reais não valia o custo do processo, e o direito ficava sem remédio. Simplificar o rito e dispensar advogado nas causas menores derruba a barreira de entrada e amplia o acesso à justiça na prática.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-329",
+   "texto_apoio": "A classificação indicativa informa a faixa etária recomendada para obras audiovisuais e o horário sugerido de exibição na televisão aberta.",
+   "enunciado": "A diferença entre classificação indicativa e censura está em que a primeira:",
+   "alternativas": {
+    "a": "informa e orienta a escolha do público, sem retirar a obra de circulação nem condicionar sua existência a autorização estatal.",
+    "b": "submete o conteúdo a exame prévio de um órgão do governo, que decide se a obra pode ser exibida ao público.",
+    "c": "veda a exibição de obras que tratem de temas sensíveis, independentemente do horário e do meio utilizado na transmissão.",
+    "d": "transfere à corporação policial a fiscalização do conteúdo exibido em cada emissora, com poder de interromper a transmissão em curso quando identificar conteúdo incompatível com a faixa indicada.",
+    "e": "atinge somente publicações impressas, que passam a depender de registro prévio junto ao órgão responsável pela classificação."
+   },
+   "resposta": "a",
+   "explicacao": "A censura decide se a obra existe; a classificação indicativa diz para quem ela é adequada e deixa a escolha com o público. A liberdade de expressão fica preservada porque nada é retirado de circulação nem depende de autorização para ser produzido.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-330",
+   "texto_apoio": "O sigilo da fonte permite ao jornalista não revelar quem lhe forneceu determinada informação, ainda que instado judicialmente a fazê-lo.",
+   "enunciado": "A proteção do sigilo da fonte se justifica porque:",
+   "alternativas": {
+    "a": "confere ao jornalista imunidade quanto ao conteúdo publicado, afastando a responsabilização civil por dano causado a terceiro.",
+    "b": "sem a garantia de anonimato, quem conhece um abuso por dentro deixaria de denunciá-lo, e a liberdade de imprensa perderia sua principal via de apuração.",
+    "c": "impede o Judiciário de examinar a veracidade da informação divulgada pelo veículo de comunicação em circunstância alguma.",
+    "d": "transfere ao ministério público a decisão sobre a publicação de cada matéria que envolva agente público, o que assegura o equilíbrio entre a apuração jornalística e a proteção da honra dos investigados.",
+    "e": "elimina a possibilidade de retratação por parte do veículo que divulgou informação posteriormente desmentida."
+   },
+   "resposta": "b",
+   "explicacao": "A fonte protegida é quase sempre quem tem mais a perder: o servidor que vê a irregularidade de dentro. Sem sigilo, essa informação não chega ao público. A proteção alcança a identidade da fonte, não o conteúdo publicado, pelo qual o veículo continua respondendo.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-331",
+   "texto_apoio": "Canais de denúncia anônima recebem relatos sobre irregularidades em serviços públicos e os encaminham aos órgãos de apuração competentes.",
+   "enunciado": "O anonimato nesses canais costuma ser defendido sob o argumento de que:",
+   "alternativas": {
+    "a": "dispensa a apuração posterior do relato, que passa a valer como prova bastante para a punição do agente denunciado.",
+    "b": "substitui a ouvidoria e a corregedoria, cujas funções são absorvidas pelo canal a partir de sua instalação no órgão público.",
+    "c": "protege o denunciante de retaliação e viabiliza relatos que o temor de represália manteria fora do alcance do controle social.",
+    "d": "assegura ao denunciante o direito de acompanhar cada etapa da apuração e de fixar a sanção aplicável ao agente ao final do procedimento disciplinar instaurado.",
+    "e": "impede que o ministério público tenha acesso ao teor das denúncias recebidas pelo canal durante o período de apuração."
+   },
+   "resposta": "c",
+   "explicacao": "Quem denuncia costuma depender do denunciado — é subordinado, é usuário do serviço, mora no território. O anonimato remove o medo de represália e faz o relato existir. Ele não dispensa apuração: serve de ponto de partida para a ouvidoria e para o ministério público.",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "id": "dir-direitos-humanos-332",
+   "texto_apoio": "Revistas vexatórias em visitantes de unidades prisionais foram progressivamente substituídas por equipamentos de detecção eletrônica em vários estados.",
+   "enunciado": "A substituição do procedimento por equipamento eletrônico foi defendida sob o argumento de que:",
+   "alternativas": {
+    "a": "a revista manual é mais eficaz na detecção de objetos ilícitos e foi abandonada por razões de custo operacional.",
+    "b": "o visitante não é alcançado por nenhuma restrição na entrada da unidade prisional, o que torna a revista dispensável em formato algum.",
+    "c": "a inspeção de visitantes cabe à corporação policial do município, e não à administração penitenciária responsável pela custódia interna.",
+    "d": "a revista íntima impõe humilhação a quem não cumpre pena alguma, aproximando-se do tratamento degradante que a vedação à tortura procura evitar.",
+    "e": "a detecção eletrônica encerra a necessidade de controle de entrada na unidade, o que permite reduzir o efetivo de agentes lotados no setor de recepção de visitas do estabelecimento."
+   },
+   "resposta": "d",
+   "explicacao": "A visitante que passa por revista íntima não responde a processo algum, e ainda assim é submetida a constrangimento que se aproxima do tratamento degradante vedado junto com a tortura. O equipamento eletrônico preserva o controle de entrada sem esse custo.",
+   "formato": "direta",
+   "origem": "direito"
   }
  ]
 }

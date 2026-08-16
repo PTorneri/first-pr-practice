@@ -11,7 +11,12 @@
 <!-- Reaproveita o CSS do app: estas páginas herdam a marca, a tipografia e o
      modo escuro sem uma segunda folha para manter em sincronia. O bloco .doc-*
      que formata texto longo vive lá dentro. -->
-<link rel="stylesheet" href="styles.css?v=52">
+<!-- tokens.css ANTES de styles.css: styles.css só consome variáveis, e uma
+     variável precisa existir antes de ser lida. Faltava aqui desde o redesenho
+     (d4f51ca), que criou o tokens.css e atualizou só a página do app — esta
+     página vinha sendo servida sem cor e sem a letra da marca. -->
+<link rel="stylesheet" href="tokens.css?v=53">
+<link rel="stylesheet" href="styles.css?v=53">
 </head>
 <body>
 

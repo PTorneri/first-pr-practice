@@ -1,7 +1,36 @@
 /* Painel de administração — carregado só por admin.html.
    Fica separado de styles.css de propósito: o app do aluno não precisa
-   baixar nada disto. Reaproveita as variáveis e os componentes base
-   (.card, .btn, .topbar, .tab-btn) definidos em styles.css. */
+   baixar nada disto. Reaproveita as variáveis (tokens.css) e os componentes
+   base (.card, .btn, .tab-btn, .tab-panel) definidos em styles.css. */
+
+/* ---------- O cabeçalho do painel ----------
+
+   Estas cinco regras VIVIAM no styles.css e saíram dele na reforma de interface
+   (c06fe6c), quando o app trocou a .topbar pelo .page-header. O painel continuou
+   com o esqueleto antigo no HTML e ficou sem nenhuma regra: o logotipo passou a
+   sair no tamanho natural do arquivo (320 px), as abas desempilharam de linha e
+   o cabeçalho perdeu o fundo azul-marinho.
+
+   A cópia mora aqui, e não de volta no styles.css, porque hoje só o painel usa
+   estes nomes — devolvê-las ao app faria o aluno baixar regras de uma tela que
+   ele nunca abre. São as regras originais, com as mesmas variáveis de
+   tokens.css; o .tab-btn do styles.css já pressupõe este fundo escuro (o estado
+   ativo é branco sobre navy), então os dois voltam a combinar. */
+.topbar {
+  position: sticky; top: 0; z-index: 10;
+  background: var(--header-bg);
+  border-bottom: 1px solid var(--header-border);
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 14px 20px;
+  flex-wrap: wrap; gap: 10px;
+}
+.brand { display: flex; align-items: center; gap: 10px; font-weight: 600; color: var(--header-ink); }
+.brand-logo { height: 32px; width: auto; display: block; }
+.tabs { display: flex; gap: 4px; background: var(--header-pill-bg); border-radius: 999px; padding: 4px; }
+.user-chip {
+  display: flex; align-items: center; gap: 8px;
+  background: var(--header-pill-bg); border-radius: 999px; padding: 4px 6px 4px 4px;
+}
 
 .admin-body #view-login,
 .admin-body #view-bootstrap {
@@ -17,7 +46,28 @@
 .admin-body #view-bootstrap .onboarding-card {
   max-width: 680px; width: 100%; min-width: 0;
 }
-.admin-content { max-width: 1000px; }
+/* A goteira lateral.
+
+   O .content do styles.css paga o respiro das bordas com
+   `padding: ... var(--gutter-lateral) ...`, e quem DEFINE essa variável no app
+   é o .page-main — um invólucro que o painel não tem, porque o cabeçalho dele
+   é a .topbar e não o .page-header. Variável indefinida dentro de um shorthand
+   invalida a declaração INTEIRA, então o padding não caía pela metade: caía
+   todo. O resultado era o texto colado na borda esquerda e a última coluna das
+   tabelas para fora da tela, sem nenhum aviso no console.
+
+   A conta é a mesma do app; só a largura da coluna muda. 1000px em vez dos
+   1180 de lá porque aqui o conteúdo é tabela e cartão, não texto corrido — e
+   é o número que .admin-content já usava.
+
+   Note que aqui NÃO há max-width, e isso é o ponto: a largura da coluna é paga
+   pelo padding, não pela caixa. Com os dois ao mesmo tempo — max-width de
+   1000px E goteira de (100% - 1000)/2 — as duas contas se somam e o conteúdo
+   útil cai para 415px num monitor de 1600. É o mesmo desenho do app. */
+.admin-content {
+  --content-max: 1000px;
+  --gutter-lateral: max(var(--gutter-page), calc((100% - var(--content-max)) / 2));
+}
 .admin-link { text-decoration: none; }
 
 .admin-label {
@@ -139,6 +189,16 @@
 .admin-btn-mini { font-size: 0.78rem; padding: 5px 10px; white-space: nowrap; }
 
 @media (max-width: 640px) {
+  /* Mesma adaptação que o cabeçalho tinha no styles.css: com cinco abas, no
+     celular elas precisam rolar de lado em vez de quebrar linha. */
+  .topbar { padding: 14px; }
+  .tabs {
+    max-width: 100%; flex-wrap: nowrap; overflow-x: auto; -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab-btn { flex: 0 0 auto; white-space: nowrap; padding: 7px 12px; font-size: 0.92rem; }
+
   .admin-data { margin-left: 0; width: 100%; }
   .admin-num-valor { font-size: 1.6rem; }
   .admin-liberar-linha { flex-direction: column; align-items: stretch; }

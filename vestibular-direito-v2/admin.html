@@ -10,8 +10,16 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap">
 <!-- Ao mudar admin.css ou admin.js, incremente o ?v= aqui (mesma regra do index.html:
      o GitHub Pages serve com max-age=600 e o navegador segura a versão antiga). -->
-<link rel="stylesheet" href="styles.css?v=52">
-<link rel="stylesheet" href="admin.css?v=52">
+<!-- tokens.css ANTES de styles.css, pelo mesmo motivo explicado no template.html:
+     styles.css e admin.css só CONSOMEM variáveis, e uma variável precisa existir
+     antes de ser lida. Esta linha faltava desde o redesenho (d4f51ca), que criou
+     o tokens.css e atualizou só a página do app — o painel ficou desde então com
+     as 36 var(--...) do admin.css e as 718 do styles.css resolvendo em nada, ou
+     seja, sem cor, sem cartão e em Times New Roman. É o tipo de quebra que não dá
+     erro nenhum no console: o CSS carrega, aplica, e simplesmente não pinta. -->
+<link rel="stylesheet" href="tokens.css?v=53">
+<link rel="stylesheet" href="styles.css?v=53">
+<link rel="stylesheet" href="admin.css?v=53">
 </head>
 <body class="admin-body">
 
@@ -92,6 +100,6 @@
      e dos nomes das frentes pra rotular. Mesma base do v1, sem cópia. -->
 <script src="../vestibular-direito/data/subtopics.js?d=38"></script>
 <script src="../vestibular-direito/data/bundle.js?d=38"></script>
-<script type="module" src="admin.js?v=52"></script>
+<script type="module" src="admin.js?v=53"></script>
 </body>
 </html>

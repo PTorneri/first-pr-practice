@@ -102,7 +102,7 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 | 1c | FGV 2023.1, bloco de Inglês (4 textos-base) | 15 | **feito** |
 | 1d | FGV 2023.1, bloco de Língua Portuguesa e Literatura | 15 | **feito** |
 | **1 — total** | **FGV Unificado 2023.1, sessão completa, 4 cadernos** | **105** | **feito** |
-| 2 | FGV 2022.1 + 2021.1 (64 páginas) | ~200 | |
+| 2 | FGV 2022.1 + 2021.1 — **162 páginas**, ver o mapa abaixo | ~350 | |
 | 3 | As 113 FGV já transcritas — recuperar o texto de apoio | 113 | |
 | 4 | Insper 2026.1, 2026.1 v.2 e 2026.2 (destravado) | 91+ | |
 | 5 | **ITA + Mauá** — banca nova, trilha de Engenharia | ~250–350 | |
@@ -112,6 +112,33 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 O piloto validou o ciclo inteiro e mediu o peso das figuras (ver acima). As
 questões de ITA entram com `dificuldade: "muito dificil"`, porque o banco é
 compartilhado e uma questão de ITA cai no plano diário de quem estuda Direito.
+
+**Custo medido da fase 1:** 105 questões e 21 figuras consumiram uma sessão
+inteira, porque cada página precisa ser lida como imagem. Uma sessão comporta
+da ordem de **35 a 40 páginas de prova**. Planeje por bloco, não por sessão.
+
+### O mapa dos cadernos de 2022.1 e 2021.1
+
+Os arquivos `Prova_00N_1a-Fase.pdf` **não são variantes embaralhadas da mesma
+prova** — são BLOCOS de matérias diferentes, com conteúdo distinto. Tratá-los
+como variantes e ler só um faria pular três quartos do material. Conferido por
+hash do texto extraído:
+
+| sessão | arquivo | páginas | matérias |
+|---|---|---|---|
+| 2022.1 | `Prova_001_1a-Fase` | 18 | Matemática |
+| 2022.1 | `Prova_002_1a-Fase` | 22 | Ciências Humanas |
+| 2022.1 | `Prova_003_1a-Fase` | 16 | Inglês e Língua Portuguesa |
+| 2022.1 | `Prova_004_1a-Fase` | 26 | Biologia, Física e Química |
+| 2022.1 | `Prova_005_2a-Fase` | 8 | discursivas — fase 7, não aqui |
+| 2021.1 | `Prova_001_1a-Fase` | 46 | caderno completo: todas as matérias |
+| 2021.1 | `Prova_002_1a-Fase` | 34 | segunda aplicação |
+
+Em 2022.1 o gabarito vem no arquivo `_COM_GABARITO`, cujo texto extraído é
+idêntico ao da prova limpa — sinal de que a resposta está marcada
+VISUALMENTE, como na 2023.1, e por isso basta renderizar essa versão. Em
+2021.1 os arquivos `_GABARITO` têm hash diferente, então ali o gabarito é
+conteúdo à parte e precisa ser lido separadamente.
 
 ### As discursivas
 

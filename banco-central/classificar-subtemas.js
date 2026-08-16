@@ -1003,6 +1003,30 @@ const REVISADAS = {
   "dir-ciencias-natureza-158": "fisica-ondas-optica",
   "dir-ciencias-natureza-159": "fisica-termologia",
   "dir-ciencias-natureza-169": "quimica-equilibrio-acido-base",
+
+  // --- FGV Unificado 2023.1, bloco de Inglês.
+  // Aqui o subtema é o TIPO de pergunta, não o assunto, e as regras têm pouco
+  // de que se agarrar: cinco questões caíram em main-idea com ZERO ponto, que é
+  // o destino de fallback, não uma decisão.
+  //
+  // CUIDADO ao revisar questão de Inglês: `revisado` não é sobreposto pela
+  // coesão de cluster, então pin em questão amarrada a texto compartilhado
+  // PARTE o cluster. Na primeira tentativa eu classifiquei cada uma pelo seu
+  // comando — uma de detalhe, uma de main idea, o resto inferência — e o texto
+  // de 900 palavras sobre cozinha e evolução acabou repartido em três subtemas,
+  // isto é, três dias distintos de releitura para o aluno. Que é exatamente o
+  // que a regra de coesão existe para evitar.
+  //
+  // O jeito certo é pinar só o necessário para levar a MAIORIA do cluster ao
+  // subtema correto e deixar a coesão arrastar o resto. Os quatro textos deste
+  // bloco convergem para inferência, que é o que a FGV de fato cobra aqui.
+  "dir-ingles-211": "ingles-inference",
+  "dir-ingles-213": "ingles-inference",
+  "dir-ingles-214": "ingles-inference",
+  "dir-ingles-215": "ingles-inference",
+  "dir-ingles-218": "ingles-inference",
+  "dir-ingles-219": "ingles-inference",
+  "dir-ingles-220": "ingles-inference",
 };
 
 // ------------------------------------------------------------------- classificação
@@ -1134,8 +1158,14 @@ function main() {
         const r = { subtema: REVISADAS[q.id], frenteDestino: frenteDoSubtema(REVISADAS[q.id]), revisado: true };
         mapa[q.id] = r; conta(r); totalClassificadas++; return;
       }
-      const antes = anterior.mapa && anterior.mapa[q.id];
-      if (antes && antes.revisado) { mapa[q.id] = antes; conta(antes); totalClassificadas++; return; }
+      // O mapa anterior NÃO é mais consultado para `revisado`. Ele era, e isso
+      // tornava a remoção impossível: tirar um id de REVISADAS não o desafixava,
+      // porque o artefato da rodada anterior ainda o trazia marcado. A fonte
+      // mandava para adicionar e não mandava para remover. Medido antes de
+      // cortar: das 62 entradas marcadas no mapa, 59 estavam em REVISADAS e as
+      // 3 órfãs eram justamente as que eu acabara de remover — ou seja, não
+      // existe decisão histórica que só viva no artefato, e o ramo só servia
+      // para prender.
       // 2. frenteOrigem que já é subtema
       if (q.frenteOrigem && POR_ORIGEM[q.frenteOrigem]) {
         const r = { subtema: POR_ORIGEM[q.frenteOrigem], frenteDestino: frente, origem: "frenteOrigem" };

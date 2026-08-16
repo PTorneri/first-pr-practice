@@ -39388,6 +39388,296 @@ window.QUESTION_BANKS = {
    "explicacao": "\"Patients\" é contável e a proporção se expressa por \"twice as many ... as\". \"As much\" só serve para incontáveis; \"more\" e \"many more\" pediriam \"than\", e não o \"as\" já impresso depois da lacuna. Esse segundo \"as\" é a pista que decide o item e passa despercebido por quem lê apenas até o espaço em branco.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-211",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-ing-fgv23-t1",
+   "enunciado": "In paragraph 1, the quotation from James Boswell is most likely presented to",
+   "alternativas": {
+    "a": "highlight the fact that cooking is a crucial part of human nutrition.",
+    "b": "show when the idea first appeared that humans are unique because they are the only animal that cooks.",
+    "c": "give an idea of the longevity of a widespread point of view.",
+    "d": "identify a theory that has led to an even more important theory.",
+    "e": "explain the essence of what it means to be human."
+   },
+   "resposta": "c",
+   "explicacao": "O parágrafo abre dizendo que \"the idea that cooking makes us human is an old one\" e só então traz Boswell, de 1785, como prova de idade dessa ideia. A citação serve, portanto, para mostrar há quanto tempo o ponto de vista circula. A alternativa b é a armadilha: o texto não afirma que Boswell foi o PRIMEIRO a ter a ideia, apenas que ele já a expressava — e logo acrescenta que ele escrevia antes de Darwin, o que reforça a antiguidade, não a originalidade.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-212",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-ing-fgv23-t1",
+   "enunciado": "In paragraph 2, the term \"opportunistic behavior\" most likely refers to which of the following?",
+   "alternativas": {
+    "a": "Chimpanzees do not regularly and deliberately seek meat as part of their diet.",
+    "b": "The guts of gorillas did not develop specifically for the digestion of meat.",
+    "c": "The guts of chimpanzees did not develop specifically for the digestion of meat.",
+    "d": "The main factor separating the chimpanzee diet from the gorilla diet is opportunity.",
+    "e": "For chimpanzees, meat is a luxury rather than a necessity."
+   },
+   "resposta": "a",
+   "explicacao": "A expressão aparece logo depois de \"chimpanzees will catch and eat animals WHEN THEY CAN\", e o parágrafo fecha lembrando que eles vivem principalmente de fruta. Oportunista, aqui, significa comer carne quando ela aparece, sem procurá-la de forma sistemática. As alternativas b e c falam de anatomia digestiva, que o trecho não menciona, e a e introduz um juízo sobre luxo e necessidade que também não está no texto.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-213",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-ing-fgv23-t1",
+   "enunciado": "The information in the article most supports which of the following?",
+   "alternativas": {
+    "a": "If the evolutionary ancestors of humans were not all extinct, it might be possible nowadays to perceive greater similarities between humans and other animals.",
+    "b": "So far, all scientific experiments focused on the potential of chimpanzees to cook meat have produced varied, inconclusive results.",
+    "c": "There are fewer evolutionary differences between chimpanzees and humans than between chimpanzees and gorillas.",
+    "d": "Because chimpanzees are potentially able to cook, we must assume that they are far more developed than gorillas.",
+    "e": "Evolutionary studies confirm that the human race has avoided extinction because it has always eaten meat."
+   },
+   "resposta": "a",
+   "explicacao": "O parágrafo 3 diz exatamente isso, pelo avesso: o abismo entre nós e os outros animais PARECE tão grande porque os intermediários do caminho evolutivo foram apagados pela extinção. Se eles ainda existissem, a distância pareceria menor. As demais alternativas afirmam coisas que o texto não sustenta: ele não relata experimentos com chimpanzés cozinhando, não compara distâncias evolutivas entre as três espécies, e não atribui a sobrevivência humana ao consumo de carne.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-214",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-ing-fgv23-t1",
+   "enunciado": "With respect to phytoliths (as mentioned in paragraph 4), the information in the article most likely provides support for which of the following?",
+   "alternativas": {
+    "a": "They are one of the many things left behind in the paleoarchaeological record that provide evidence of what early vegetarians ate.",
+    "b": "Since they are non-digestible and are therefore expelled in the feces of vegetarian animals, they can be important elements of paleoarchaeological research.",
+    "c": "The presence of phytoliths in certain Ethiopian fossils enabled scientists to establish the age of the Australopithecus afarensis known as Lucy.",
+    "d": "In 1974, while doing research in the desert of Hadar in Ethiopia, Donald Johanson and Tom Gray were the first to discover the scientific importance of phytoliths.",
+    "e": "The presence of phytoliths in the teeth of Lucy suggest differences between the diets and even the habitats of A. afarensis and chimpanzees."
+   },
+   "resposta": "e",
+   "explicacao": "O texto diz que os fitólitos ficam presos nos dentes e revelam que tipo de planta foi comido, e conclui que a dieta de Lucy incluía uma variedade maior de plantas que a dos chimpanzés, e que os australopitecos viviam em ambientes mais variados — dieta E habitat, que é o que a alternativa e reúne. A alternativa a inverte o parágrafo, que abre dizendo que vegetarianos deixam MUITO POUCO para trás. A c confunde o papel dos fitólitos com a datação do fóssil, e a d atribui a Johanson e Gray uma descoberta que o texto não lhes dá: eles acharam Lucy, não os fitólitos.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-215",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-ing-fgv23-t1",
+   "enunciado": "In paragraph 4, the phrase \"A. afarensis had larger molars, smaller canine teeth, and more powerful jaws than a chimp...\" most likely suggests which of the following?",
+   "alternativas": {
+    "a": "The diet of A. afarensis contained a wide and copious variety of raw meat.",
+    "b": "The standard diet of chimpanzees probably contains a relatively smaller percentage of tough food than did the diet of A. afarensis.",
+    "c": "The genus Homo owed its evolutionary success to the powerful jaw and efficient arrangement of teeth that it had inherited from A. afarensis.",
+    "d": "Because of their inefficient arrangement of teeth and weak jaw muscles, chimpanzees are limited to a small range of foods and habitats.",
+    "e": "An efficient digestive system is the most important prerequisite for success along the evolutionary pathway."
+   },
+   "resposta": "b",
+   "explicacao": "O próprio texto interpreta a anatomia: molares maiores e mandíbula mais forte sugerem que esse ancestral mastigava muito alimento duro. Como a comparação é feita explicitamente com o chimpanzé, segue que a dieta do chimpanzé tem proporção menor de alimento duro. A alternativa a erra ao falar em carne crua, quando o parágrafo trata de plantas; a d exagera para \"weak jaw muscles\" e tira conclusões sobre habitat que o texto atribui aos australopitecos, não aos chimpanzés.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-216",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-ing-fgv23-t1",
+   "enunciado": "According to the information in the article,",
+   "alternativas": {
+    "a": "though raw food is healthier than cooked food, it provides the human body with less energy.",
+    "b": "it was unnecessary to collect and interpret fossil and paleoarchaeological evidence to discover why cooking began.",
+    "c": "without cooking, it would have been impossible for A. afarensis to evolve into present-day human beings.",
+    "d": "because of cooked food, energy previously required by our guts could be channeled to our brain.",
+    "e": "a diet of raw food will of necessity be detrimental to the intellectual processes of any animal species."
+   },
+   "resposta": "d",
+   "explicacao": "É a tese dos parágrafos 5 e 6: os intestinos encolheram na mesma época em que o cérebro cresceu, e ao economizar em intestino a evolução liberou energia para gastar em cérebro maior, o que a cozinha viabilizou ao aumentar o valor energético do alimento. A alternativa a inverte o texto ao chamar o cru de mais saudável; a b contradiz o parágrafo 5, que espera MAIS evidência fóssil; e a e generaliza para qualquer espécie animal uma afirmação que o texto faz apenas sobre a linhagem humana.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-217",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-ing-fgv23-t1",
+   "enunciado": "The main purpose of the last paragraph is most likely to",
+   "alternativas": {
+    "a": "identify the evolutionary processes that led to the great efficiency of the human brain.",
+    "b": "point to one of the main reasons for the extinction of certain hominin species and for the survival of others.",
+    "c": "give a brief summary of the probable cause and effect of the dietary and mental abilities of humans.",
+    "d": "demonstrate the value of paleoarchaeological research in establishing credible evolutionary narratives.",
+    "e": "lay out clearly the successful evolutionary pathway that has led to human predominance of Earth."
+   },
+   "resposta": "c",
+   "explicacao": "O último parágrafo amarra a causa — cozinhar aumentou o valor energético do alimento e permitiu intestinos menores — ao efeito, que é o cérebro maior e a condição de onívoro adaptável e inteligente. É um resumo de causa e efeito ligando dieta e capacidade mental, exatamente como diz a alternativa c. A alternativa e é a distratora mais forte, mas o parágrafo não expõe um \"caminho evolutivo\" passo a passo; ele fecha o argumento do texto.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-218",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "excecao",
+   "textoId": "dir-ing-fgv23-t2",
+   "enunciado": "With respect to the Pantanal, which of the following is probably least supported by the information in the passage?",
+   "alternativas": {
+    "a": "Just the Brazilian portion of the Pantanal contains more flora and fauna than does the entire Amazon rainforest.",
+    "b": "Although located in different parts of the world, California, Siberia, and the Pantanal all share an urgent, serious characteristic.",
+    "c": "At least until 2020, a common Brazilian agrarian practice wasn't extremely destructive in the Pantanal's protected wilderness areas.",
+    "d": "Although it is classified as a contiguous wetland, the Pantanal is not flooded all year long.",
+    "e": "It may have been inaccurate for Brazilian authorities to attribute the 2020 fires to the 2018 drought."
+   },
+   "resposta": "a",
+   "explicacao": "O texto diz que o Pantanal é mais rico em vida selvagem que a Amazônia, mas fala do bioma INTEIRO, que inclui Bolívia e Paraguai — restringir a comparação só à porção brasileira é um salto que o texto não autoriza. As outras quatro se apoiam diretamente no texto: Califórnia, Sibéria e Pantanal como zonas de desastre de incêndio; \"seasonally flooded\", isto é, alagado por estação e não o ano todo; a vegetação que permanecia exuberante nas áreas protegidas antes de 2020; e a nova pesquisa que aponta causa humana em vez da seca de 2018.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-219",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-ing-fgv23-t2",
+   "enunciado": "Considering the information in the passage, you can most likely conclude which of the following?",
+   "alternativas": {
+    "a": "Land in the Pantanal remains essentially useless for many years after being subjected to extensive burning.",
+    "b": "Using fire to clear land for plantations and cattle ranches in the Pantanal is an efficient, productive, and widely approved agricultural practice.",
+    "c": "Since the Pantanal is in reality eternal, loud warnings about its imminent destruction are merely examples of irresponsible propaganda.",
+    "d": "Scientific research suggests that the 2020 Pantanal fires were more the result of human action than of natural forces.",
+    "e": "Natural phenomena protected agricultural and grazing lands in the Pantanal from the worst effects of the 2020 fires."
+   },
+   "resposta": "d",
+   "explicacao": "O padrão dos dados é o argumento: o fogo se concentrou nas áreas naturais intactas — 52% das protegidas e 44% das de pastejo mínimo — enquanto as áreas já usadas para gado queimaram muito menos, menos de 1% nas intensamente pastejadas. Fogo que escolhe justamente o que ainda não foi convertido não é acidente climático, é ação humana, e o texto diz que a pesquisa aponta para causa humana direta. A alternativa e inverte a explicação, atribuindo a fenômeno natural o que decorre do uso da terra.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-220",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-ing-fgv23-t3",
+   "enunciado": "Which of the following statements does the information in the article probably most support?",
+   "alternativas": {
+    "a": "The Taliban believe that it goes against the teachings of the Buddha to represent him in the form of a statue.",
+    "b": "The Taliban believe there is no connection between their religion (Islam) and Buddhism.",
+    "c": "Destroying religious art weakens rather than strengthens religious faith.",
+    "d": "The nature of religion is such that no true religion can, in good conscience, encourage the destruction of religious art.",
+    "e": "Those who destroy religious art are, in a sense, hurting themselves."
+   },
+   "resposta": "e",
+   "explicacao": "A pista está na escolha de palavras do primeiro parágrafo: o texto chama o iconoclasmo de \"self-inflicted wound\", ferida autoinfligida. Quem destrói a arte religiosa está, em algum sentido, ferindo a si mesmo — é a leitura da alternativa e. As alternativas c e d são afirmações gerais sobre fé e religião verdadeira que o texto, de tom descritivo e histórico, não faz; e as duas primeiras atribuem ao Talibã crenças específicas sobre budismo que o artigo não menciona.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-221",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-ing-fgv23-t3",
+   "enunciado": "Which of the following most likely applies to Leo III?",
+   "alternativas": {
+    "a": "He had no idea of the damage that would occur when he ordered that all pictures and statuary in the Byzantine Empire's Christian churches be destroyed.",
+    "b": "He invented the Greek term eikono klasmos to describe what he had planned for all religious pictures and statuary in his empire.",
+    "c": "Although he encouraged the first acts formally known as iconoclasm, his campaign of destruction was not completely successful.",
+    "d": "In the end, he lost his throne because of widespread opposition to the destructive religious conflict that resulted from his iconoclasm.",
+    "e": "He went even further than Jewish and Moslem leaders had gone when he decreed that all religious imagery in his empire be destroyed – without exception."
+   },
+   "resposta": "c",
+   "explicacao": "O texto diz que o episódio de 726 foi o que deu nome ao iconoclasmo e que, mais de um século depois, em 842, os DEFENSORES das imagens sagradas levaram a melhor. Ou seja, a campanha começou com ele, mas não venceu. A alternativa b confunde nomear com inventar: o termo grego nomeia o episódio, e o texto não diz que Leão III o cunhou. E nada no artigo trata da perda do trono nem compara o alcance da ordem dele com o de líderes judeus e muçulmanos.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-222",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-ing-fgv23-t3",
+   "enunciado": "According to the information in the article, in the 16th century,",
+   "alternativas": {
+    "a": "The Protestant Reformation was the logical result of religious fanaticism that began in the Jewish, Moslem, and Byzantine worlds.",
+    "b": "Although a number of Protestant reformers condemned the Catholic Church's use of religious pictures and statues, not every reformer shared that attitude.",
+    "c": "Their opposition to the worship of religious pictures and statues was the element that, more than any other, definitively separated the Protestant reformers from the Catholic Church.",
+    "d": "Among all the Protestant reformers, John Calvin was the most radical in his hatred of \"heathen\" imagery and statuary.",
+    "e": "Protestant churches in the Netherlands, England, and the New World were merely Catholic churches without the religious pictures and statuary."
+   },
+   "resposta": "b",
+   "explicacao": "A palavra decisiva é \"SOME\": o texto diz que ALGUNS reformadores se opuseram ao culto de pinturas e estátuas, o que implica que outros não. As distratoras todas extrapolam esse quantificador ou inventam superlativos: a c faz da oposição às imagens o elemento que MAIS separou protestantes de católicos, a d declara Calvino o MAIS radical entre todos, e a a apresenta a Reforma como resultado lógico de um fanatismo anterior. Nenhuma dessas hierarquias está no artigo.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-223",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "excecao",
+   "textoId": "dir-ing-fgv23-t4",
+   "enunciado": "The information in the article most likely supports all of the following statements except",
+   "alternativas": {
+    "a": "the main purpose of Marit Langschwager's article was to humiliate Vladimir Putin and, by extension, Russia.",
+    "b": "if the article had been all text with no pictorial elements, the Russian government possibly would not have reacted.",
+    "c": "in his article, Marit Langschwager investigated how memes may or may not affect wars, both present and future.",
+    "d": "nothing written in the article could be considered openly insulting to Vladimir Putin.",
+    "e": "despite threats and recriminations, the Russian Embassy has so far not brought any concrete legal action against Marit Langschwager and the NZZ."
+   },
+   "resposta": "a",
+   "explicacao": "O texto é explícito ao dizer que o artigo analisava como memes simplificam processos complexos e especulava sobre o efeito do humor na opinião pública — e que \"there was no direct attack on Vladimir Putin in the text\". Humilhar Putin não era o propósito, e é por isso que a alternativa a é a que NÃO se sustenta. As demais decorrem do artigo: a reação veio pela imagem, o objeto da investigação eram os memes na guerra, nada no texto escrito era ofensivo, e a embaixada ameaçou processar sem ter processado — a matéria segue publicada.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-224",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-ing-fgv23-t4",
+   "enunciado": "Considering the information in the article, you may conclude that the Russian Embassy most likely promotes the idea that",
+   "alternativas": {
+    "a": "Vladimir Putin is a man of \"honor and dignity\" whose effectiveness as a national leader will be ruined if people see him depicted as a clown.",
+    "b": "a number of Swiss writers are currently working to spread false and destructive anti-Russian information.",
+    "c": "a group of talentless amateurs are fabricating memes that only serve to increase Vladimir Putin's popularity.",
+    "d": "any Russian who claims to believe in traditional Christian values will never have anything to do with the LGBTQ+ movement.",
+    "e": "if the NZZ continues to lie about Russia, it will be closed by the Swiss Authorities."
+   },
+   "resposta": "b",
+   "explicacao": "Está na carta citada no parágrafo 3: a jovem jornalista teria superado outros escritores suíços que \"regularly spread inventions and insults against the Russian leadership, shamelessly and unpunished\". A frase pressupõe que existe um conjunto de autores suíços difundindo inverdades contra a Rússia — que é o que a alternativa b enuncia. A alternativa a distorce: a embaixada fala em honra e dignidade violadas, mas não afirma que a liderança de Putin ficaria arruinada; e a e inventa um fechamento do jornal pelas autoridades suíças que a carta não ameaça.",
+   "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "dir-ingles-225",
+   "banca": "fgv",
+   "sessao": "fgv-unificado-2023.1",
+   "formato": "direta",
+   "textoId": "dir-ing-fgv23-t4",
+   "visual": {
+    "tipo": "Memes",
+    "arquivo": "assets/provas/fgv-2023.1-lp-q15.jpg",
+    "descricao": "Os dois memes reproduzidos com o artigo. À esquerda, o presidente Volodymyr Zelensky retratado como um super-herói ao estilo do Capitão América, em uniforme azul e amarelo com o tridente ucraniano no peito e um escudo dourado, diante de um cenário em chamas. À direita, uma foto do presidente Vladimir Putin manipulada digitalmente, com nariz de palhaço vermelho e pintura facial nas cores da bandeira LGBTQ+."
+   },
+   "enunciado": "Which one of the following statements could most likely help to explain the impact of the two memes that accompany the article and are reproduced above?",
+   "alternativas": {
+    "a": "\"It is only shallow people who do not judge by appearances.\"",
+    "b": "\"Winning isn't the most important thing: it's the only thing.\"",
+    "c": "\"Laugh and the world laughs with you; cry and you cry alone.\"",
+    "d": "\"One picture is worth a thousand words.\"",
+    "e": "\"The first casualty when war comes is truth.\""
+   },
+   "resposta": "d",
+   "explicacao": "O artigo inteiro se apoia num contraste: o TEXTO não atacava Putin, e ainda assim foi a IMAGEM que provocou a ameaça de processo do governo russo. Nenhuma palavra escrita produziu o efeito que duas figuras produziram — que é precisamente o sentido de \"uma imagem vale mais que mil palavras\". A alternativa e é a distratora mais elegante, porque a frase sobre a verdade como primeira vítima da guerra é verdadeira em geral, mas não explica o IMPACTO específico dos memes, que é o que a pergunta cobra.",
+   "origem": "direito"
   }
  ],
  "ingles-grammar-structure": [
@@ -117596,6 +117886,26 @@ window.QUESTION_TEXTS = {
   "id": "med-med-ing-t10",
   "fonte": "Artigo original em ingles escrito para este banco",
   "conteudo": "HEAT\n\nHeat kills quietly. Unlike a flood or a storm, it leaves no wreckage to photograph, and the deaths it causes are usually recorded under another name: heart failure, kidney failure, respiratory arrest. The person had a condition; the heat is what made the week fatal.\n\nThis is why the toll of a heatwave is estimated rather than counted. Researchers compare the number of deaths in the affected days with the number expected in an ordinary week, and the gap is called excess mortality. The method is indirect and it is the best available.\n\nWho dies is not random. Old people, whose bodies regulate temperature less well and who often live alone. People on certain medications. People whose work is outdoors and cannot be rescheduled. People in flats under a roof, in neighbourhoods with no trees, in cities built to hold heat rather than release it.\n\nThat last group is the reason heat is a planning problem and not only a health one. A tree on a street lowers the temperature beneath it by several degrees, and shade is not distributed by chance: it follows the map of who was able to demand it. The same is true of air conditioning, of insulation, of whether a window opens.\n\nForecasting a heatwave is now reliable. Knowing which streets it will empty and which it will kill in is also possible. What is missing is rarely the information."
+ },
+ "dir-ing-fgv23-t1": {
+  "id": "dir-ing-fgv23-t1",
+  "fonte": "COOKING AND EVOLUTION, by Jonathan Silvertown. Adapted from Natural History, 12/17-01/18. (FGV Unificado 2023.1, texto das questões 1 a 7.)",
+  "conteudo": "COOKING AND EVOLUTION\nBy Jonathan Silvertown\n\n(Note: The most commonly used recent definition of \"hominin\": the group consisting of modern humans, extinct human species and all our immediate ancestors, including members of the genera Homo, Australopithecus, Paranthropus, and Ardipithecus.)\n\n1  Cooking is fundamental to human nutrition, and it is a truly ancient practice that was pivotal in the evolution of humans. The idea that cooking makes us human is an old one. In 1785 the Scottish biographer and diarist James Boswell wrote: \"My Definition of Man, is a 'Cooking Animal.' The beasts have memory, judgment, and the faculties and passions of our mind, in a certain degree; but no beast is a cook...\" Boswell was writing before Darwin, and so he was not making an evolutionary argument, but the idea that cooking is fundamental to our species is a conclusion that others have also felt in their very guts [os próprios intestinos] to be right. Gut instinct [intuição] is generally frowned upon [pouco aceitável] as a source of evidence in science, but guts are key witnesses in this matter.\n\n2  Since no beast is a cook and, as Boswell said, we are cooking animals, the obvious question is, how and when did this habit evolve? Our great ape [grande símio] cousins are essentially vegetarians, living on leaves and fruits. Gorillas eat only plants, but chimpanzees will catch and eat animals when they can, though this is opportunistic behavior and they live mainly on fruit. Chimps can't cook, even though it has been argued that they are intelligent enough for the task. The common ancestor of chimps and ourselves must have been a vegetarian, and so we meat-eating, cooking humans evolved by stages from vegetarian, indeed vegan [um vegetariano que come somente produtos de plantas], stock [o progenitor original].\n\n3  The enormous gulf between ourselves and other animals appears so large – not just in diet and cooking, but also in intelligence, language, brain size, and anatomy – because the intermediates along the evolutionary pathway that we unwittingly [sem saber] followed have been erased by extinction.\n\n4  Vegetarians leave little behind in the paleoarchaeological record to show what they ate – or rather, what they leave behind is very little. The characteristic shapes of very tiny grains of silica called phytoliths – which are part of the structure of leaves and when eaten can become lodged [presos] in teeth – can tell us something about what kind of plants were eaten by, say, Lucy, the 3.18 million-year-old Australopithecus afarensis found in 1974 by Donald Johanson and Tom Gray in the desert of Hadar in Ethiopia. The diet of Lucy and her kind [espécie], though mainly vegetarian, included a wider range of plants than is eaten by chimps, and it seems that Australopithecus, of which there are several species, were in general adapted to live in a wider range of environments than chimps do. A. afarensis had larger molars, smaller canine teeth, and more powerful jaws than a chimp, suggesting that this ancestor did a great deal of chewing of tough food. The scientific consensus is that our own genus, Homo, arose from a species of Australopithecus, probably Lucy's own A. afarensis, which lived 3.8-2.95 million years ago.\n\n5  In any event, the answer to exactly when cooking began is likely to become clearer as more fossil and paleoarchaeological evidence is discovered. By comparison with the mystery of when cooking began, the question of why has a much clearer answer. Cooking increases the digestibility of food, enabling us to extract more energy from it, and it inactivates many toxins, incidentally, opening new vistas of possibility in hominin evolution. Perhaps the most persuasive evidence that we are truly the cooking animal is that brain growth and cooking do seem inextricably linked. During the evolution of humans, our guts shrank at around the same time that our brains grew. Large, smart brains unlocked the possibility of uniquely human capabilities such as complex language, abstract thinking, and all that flowed from that. Brains are very energy-hungry organs. The human brain is only about 2 percent of body weight but uses fully 20 percent of the energy consumed in a resting state.\n\n6  While our brains are much bigger than the norm for a primate of our size, our guts are much smaller. By economizing on guts, evolution spared energy for splurging [gastar liberalmente] on bigger brains. Studies suggest that by increasing the energy value of our food, cooking made it possible for smaller guts to supply the burgeoning [crescentes] requirements of brain evolution. Our evolutionary history has indeed shaped our dietary capabilities, but it has broadened rather than narrowed them. We have survived and then thrived [florescido], multiplied, and occupied every continent because we are adaptable, intelligent omnivores."
+ },
+ "dir-ing-fgv23-t2": {
+  "id": "dir-ing-fgv23-t2",
+  "fonte": "HUMAN-INDUCED FIRE IN THE PANTANAL, by Eric Scigliano. Adapted from Natural History, April 2022. (FGV Unificado 2023.1, texto das questões 8 e 9.)",
+  "conteudo": "HUMAN-INDUCED FIRE IN THE PANTANAL\nBy Eric Scigliano\n\n1  The vast inland delta known as the Pantanal is the world's largest contiguous wetland, covering more than 40,000 square miles of seasonally flooded grass and woodland in Brazil and thousands more in Bolivia and Paraguay. Richer in wildlife than the Amazon rainforest, the Pantanal has now joined California and Siberia as a major fire disaster zone.\n\n2  In 2020, about 29 percent of the Pantanal burned – making it the worst recorded fire year for the area, by far [de longe], according to an analysis of satellite spectroradiometer imaging data by researchers at NASA's Goddard and Marshall Space Flight Centers [in the U.S.], the Federal University of Rio de Janeiro, and Cardiff University in Wales. Brazilian authorities blamed the fires on an exceptionally severe drought [seca] in 2018. But the new research points to a more direct form of human causation. The burning concentrated strongly on relatively intact natural areas, while areas already devoted to cattle grazing [pasto de gado] suffered far less.\n\n3  Prior to 2020, despite a long history of people using fire to clear areas for grazing, vegetation in natural conservation areas remained lush [exuberante, abundante]. In 2020, however, blazes burned 52 percent of protected areas and 44 percent of areas with minimal grazing – about 360 percent above mean burning levels [níveis médios de queimadas] since 2003. By contrast, just 6 percent of areas with medium cattle density and less than 1 percent of heavily grazed areas burned. Natural forests and wetlands, which ranchers and farmers may seek to alter and put to use, burned markedly more than savannah, pasture [pasto], and croplands [terras de plantações] that are already usable."
+ },
+ "dir-ing-fgv23-t3": {
+  "id": "dir-ing-fgv23-t3",
+  "fonte": "CAN IMAGES UNDERMINE TRUTH? SOME WOULD SAY SO. Adapted from 100 Ideas That Changed The World, published by Time. (FGV Unificado 2023.1, texto das questões 10 a 12.)",
+  "conteudo": "CAN IMAGES UNDERMINE TRUTH? SOME WOULD SAY SO\n\n1  In March 2001, the Taliban regime that ruled Afghanistan stunned [chocou] the world by destroying two ancient and monumental sculptures of the Buddha carved [esculpidas, entalhadas] into the sandstone cliffs of the province of Bamiyan. Images have power – to enchant, but also to threaten. For centuries they have threatened those who believe that images stand in the way of the authentic search [busca] for God, and who have retaliated by obliterating religious art. We call that self-inflicted wound [ferido] iconoclasm, from the Greek eikono klasmos – \"image breaking.\"\n\n2  It has a long history. Jews were discouraged from religious imagery by the injunction against \"graven images\" [imagens esculpidas] in the biblical book of Exodus. Most Moslems have been opposed to religious imagery, including representations of the Prophet [Mohammed]. But hostility to \"idol worship\" [adoração de ídolos] has been a struggle for centuries within Christianity as well. In the year 726 the episode that first gave iconoclasm its name began when Byzantine Emperor Leo III ordered the destruction of all pictures and statuary in Christian churches within his empire. It was an order that set off riots [acendeu tumultos] in many places and ignited more than a century of turmoil [tumultuo, desordem] in the Byzantine Empire before the defenders of holy images gained the upper hand [a posição dominante] in 842.\n\n3  As the Protestant Reformation took shape in the 16th century, some reformers opposed what they saw as the worship of pictures and statues among the Catholic faithful. John Calvin's hatred of \"heathen\" [pagão] imagery and statuary would lead to a wave of church \"cleansings\" in the Netherlands [os Países Baixos] in 1566 and campaigns against holy pictures and statues during the English Civil War. It was an attitude the Pilgrims [os Peregrinos], Puritan followers of Calvin, would carry with them to the New World in North America."
+ },
+ "dir-ing-fgv23-t4": {
+  "id": "dir-ing-fgv23-t4",
+  "fonte": "RUSSIA THREATENS TO SUE SWISS NEWSPAPER, by Jan de Boer. Adapted from the online newsletter I AM EXPAT, July 18, 2022. (FGV Unificado 2023.1, texto das questões 13 a 15.)",
+  "conteudo": "RUSSIA THREATENS TO SUE SWISS NEWSPAPER\nBy Jan de Boer\n\n1  The Russian government has threatened to sue [processar] a Swiss newspaper after it published a photoshopped picture of President Vladimir Putin. The Russian Embassy in Bern [Switzerland's Capital] sent the Neue Zürcher Zeitung (NZZ) [\"New Journal of Zurich\"] a letter of protest, warning that they may pursue [procurar] legal action.\n\n2  On June 25, 2022, the NZZ published a piece entitled Between Superheroes and Villains: The Power of Memes in the Ukraine War. In the article, journalist Marit Langschwager analyzed how memes on the internet \"often simplify complex processes,\" such as events during the war in Ukraine. The article included several memes related to the conflict – one meme portrayed President Volodymyr Zelensky as a kind of heroic Ukrainian Captain America – and speculated whether humor could be used to sway [influenciar] public opinion and diplomacy in future wars. While there was no direct attack on Vladimir Putin in the text, the NZZ did include a photoshopped image of the Russian President wearing a clown nose and sporting [ostentando] LGBTQ+ flag face-paint.\n\n3  This angered the Russian Embassy, which declared in a letter to NZZ editor Eric Gujer that the \"little-known [pouco conhecido] young journalist\" had surpassed other Swiss writers who \"regularly spread inventions and insults against the Russian leadership, shamelessly and unpunished.\" The Embassy claimed that the memes were created by \"Ukrainian troll factories,\" [oficinas clandestinas que produzem \"fake news\" e calúnias e difamações para a mídia social] and are mere \"reprints of stock images\" characterized by \"a flat sense of humor.\"\n\n4  The Embassy argued that the newspaper – one of the largest news outlets [veículos] in Zurich – had \"violated the honor and dignity of the president.\" They also expressed anger at the LGBTQ+ flag on Putin's face, which they said offends the \"traditional Christian values of Russian society\" and reflected how LGBTQ+ ideals are \"forcefully promoted in the west.\"\n\n5  In concluding their statement, the Embassy threatened the NZZ with legal action, saying they reserved the right to contact the Swiss police and sue the newspaper for \"this publication and possible future publications of a libelous [caluniosa] and offensive nature.\" They cautioned the newspaper to \"approach the selections of materials for publication more carefully\" in the future. The article remains published."
  },
  "med-med-bio-t1": {
   "id": "med-med-bio-t1",

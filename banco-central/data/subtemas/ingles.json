@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-15",
+ "gerado": "2026-08-16",
  "frente": "ingles",
- "total": 492,
+ "total": 507,
  "residuo": [
   "med-ingles-44",
   "med-ingles-46",
@@ -98,7 +98,9 @@
   "med-ingles-206",
   "med-ingles-207",
   "med-ingles-209",
-  "med-ingles-210"
+  "med-ingles-210",
+  "dir-ingles-216",
+  "dir-ingles-222"
  ],
  "mapa": {
   "dir-ingles-01": {
@@ -2857,6 +2859,84 @@
    "frenteDestino": "ingles",
    "pontos": 10,
    "margem": 10
+  },
+  "dir-ingles-211": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "dir-ingles-212": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-213": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "dir-ingles-214": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "dir-ingles-215": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "dir-ingles-216": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-217": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-218": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "dir-ingles-219": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "dir-ingles-220": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "dir-ingles-221": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-222": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-223": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "cluster": true
+  },
+  "dir-ingles-224": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "dir-ingles-225": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
   }
  }
 }

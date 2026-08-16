@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-15",
+ "gerado": "2026-08-16",
  "frente": "artes-cultura",
- "total": 346,
+ "total": 388,
  "residuo": [
   "dir-artes-cultura-46",
   "dir-artes-cultura-52",
@@ -2080,6 +2080,258 @@
    "frenteDestino": "artes-cultura",
    "pontos": 5,
    "margem": 5
+  },
+  "med-artes-347": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-348": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-349": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-350": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-artes-351": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-artes-352": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-artes-353": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 17,
+   "margem": 17
+  },
+  "med-artes-354": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-355": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-artes-356": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-357": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 17,
+   "margem": 17
+  },
+  "med-artes-358": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 12,
+   "margem": 12
+  },
+  "med-artes-359": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-360": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 19,
+   "margem": 19
+  },
+  "med-artes-361": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-362": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-artes-363": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-364": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-365": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 7
+  },
+  "med-artes-366": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-artes-367": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-368": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-369": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 12,
+   "margem": 12
+  },
+  "med-artes-370": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 17,
+   "margem": 17
+  },
+  "med-artes-371": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 18,
+   "margem": 18
+  },
+  "med-artes-372": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 9,
+   "margem": 9
+  },
+  "med-artes-373": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-artes-374": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 15,
+   "margem": 15
+  },
+  "med-artes-375": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 22,
+   "margem": 22
+  },
+  "med-artes-376": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-artes-377": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 12,
+   "margem": 12
+  },
+  "med-artes-378": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-379": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-artes-380": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-artes-381": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-382": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 18,
+   "margem": 18
+  },
+  "med-artes-383": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-384": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-385": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "med-artes-386": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 13,
+   "margem": 13
+  },
+  "med-artes-387": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-artes-388": {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "frenteDestino": "artes-cultura",
+   "pontos": 14,
+   "margem": 14
   }
  }
 }

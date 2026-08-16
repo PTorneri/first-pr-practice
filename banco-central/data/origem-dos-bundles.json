@@ -1,7 +1,7 @@
 {
   "gerado": "2026-08-16",
   "origem": {
-    "questions/artes-cultura.json": "af1b975d2706",
+    "questions/artes-cultura.json": "bb3478ace9d1",
     "questions/atualidades.json": "99303697636e",
     "questions/biologia.json": "8bceb3d7dc63",
     "questions/ciencias-natureza.json": "2e41f5f21a07",
@@ -16,7 +16,7 @@
     "questions/literatura.json": "eaed13ca63e2",
     "questions/matematica.json": "981d60c82bec",
     "questions/quimica.json": "8bdb635659ef",
-    "subtemas/artes-cultura.json": "2755ad27a5fb",
+    "subtemas/artes-cultura.json": "7d09d78c5640",
     "subtemas/atualidades.json": "c4d0eb9913d7",
     "subtemas/biologia.json": "e4b1d0053722",
     "subtemas/ciencias-natureza.json": "b2ecd4eac251",

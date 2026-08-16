@@ -225,7 +225,11 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 | 9b | FUVEST 2025, 1ª fase | 71 de 90 | **feito** (`29d0561`) |
 | 9c | FUVEST 2026, 1ª fase (a 3 foi anulada pela banca) | 70 de 90 | **feito** (`8cdf2d1`) |
 | **9a–9c** | **os três vestibulares de verdade: 203 de 270** | **203** | **feito** |
-| 9d–9f | os três simulados oficiais | ~250 | **próxima** |
+| 9d | Simulado oficial de abril (FUVEST 2027, 1ª ed.) | 64 de 80 | **feito** (`ab5ffec`) |
+| 9e | Simulado oficial de julho (FUVEST 2027, 2ª ed.) | 69 de 80 | **feito** (`e8d680b`) |
+| 9f | Simulado oficial FUVEST 2026 (S1) | 70 de 90 | **feito** (`634401c`) |
+| **9d–9f** | **os três simulados oficiais: 203 de 250** | **203** | **feito** |
+| **9 — geral** | **FUVEST completa: 406 questões de seis cadernos** | **406** | **feito** |
 
 Os cadernos de ENEM e FUVEST chegaram em `enem e fuvest/`, na raiz, e a pasta
 entrou no `.gitignore` pela mesma razão das outras: a raiz É o site.
@@ -466,6 +470,80 @@ de discursiva real:
   `-AtualizarChutabilidade` reescreve o arquivo inteiro e recusa rodar junto de
   `-Frente`, de propósito. Com outra sessão ativa no repositório, rodá-lo
   absorveria trabalho alheio em silêncio.
+
+### O que os três simulados acrescentaram (2026-08-16)
+
+Os simulados oficiais trazem o mesmo gabarito de correspondência na página 2 e
+caem nos layouts já conhecidos, mas com uma combinação nova e um cabeçalho de
+página próprio:
+
+| | cabeçalho da questão | fim da questão | espaço entre palavras | cabeçalho de página |
+|---|---|---|---|---|
+| Simulado abril | `{04}` | linha de `#####` | **U+00AC (`¬`)** | `Simulado da Prova de Conhecimentos Gerais FUVEST 2027` |
+| Simulado julho | `{04}` | linha de `#####` | espaço comum | `... FUVEST 2027 – 2ª Edição` |
+| Simulado 2026 | `04` | (adivinhar) | **U+00AC (`¬`)** | `Simulado Prova de Conhecimentos Gerais FUVEST 2026 – Prova S1` |
+
+Nenhum diz "Concurso Vestibular", que era o que a regex de cabeçalho de página
+casava. Sem generalizá-la, a linha do topo entra no meio do enunciado a cada
+virada de página — 31, 29 e 27 vezes por caderno.
+
+**O detector de figura por página não serve aqui.** Os simulados desenham a
+régua de coluna como imagem (241×5) e rasterizam símbolo matemático solto
+(7×42, um sinal de integral), de modo que 78 das 80 questões "têm imagem". O
+`figuras-fuvest.py` passou a exigir tamanho mínimo (55×34) e a atribuir cada
+imagem a UMA questão pela ordem de leitura — (página, coluna, y), porque
+ordenar só pelo y intercala as duas colunas e joga a figura na questão errada.
+Um detalhe do detector: o número da questão precisa ser procurado LINHA a
+linha, não bloco a bloco — o bloco costuma juntar o cabeçalho ao parágrafo
+seguinte, e aí o texto é "04Do pouco que havemos expendido", que não casa
+número nenhum. Aferido contra os cadernos conhecidos: 47 figuras em 2024, onde
+28 questões foram excluídas por dependerem delas.
+
+**A questão pode errar o subtema sem que o pré-voo reclame.** Ele só acusa
+quando uma regra rival vence a do alvo. Quando NENHUMA regra pontua — nem a do
+alvo, nem a rival —, ele imprime `caiu em X (0 pts), alvo ficou com 0 pts`, o
+que se lê como se X tivesse vencido; e na classificação completa a questão cai
+no subtema padrão da frente (`ingles-detail`, `literatura-teoria-analise`).
+Aceitar a sugestão do pré-voo nesse caso não adianta: o padrão vence de novo.
+**Só o pino segura, e só a conferência de `padrao` depois da classificação
+completa revela.** Custou três questões em julho e três em outubro.
+
+**A hifenação que o PDF deixa no meio da palavra.** A quebra de linha preserva
+o hífen na junção: "ex- colônias", "kick- started", "célula- tronco". Três
+regras separam isso do hífen suspensivo legítimo ("orto- e para-nitrofenol"):
+
+1. continuação de palavra tem três letras ou mais → junta;
+2. pronome enclítico (-a, -lo, -se) tem uma ou duas, mas depois de hífen só
+   pode ser ênclise → junta por lista;
+3. composto inglês partido ("up- to-date") traz outro hífen colado → junta.
+
+O que sobra sem hífen colado e seguido de "e"/"ou" é suspensivo e fica.
+Aplicada às já publicadas: 17 + 12 ocorrências, conferidas uma a uma.
+
+**Enunciado preserva quebra de linha, como o apoio.** Questão com itens I a V
+precisa de uma linha por item, e o `verify-banco` reprova "itens em texto
+corrido". O montador colapsava todo espaço em branco no enunciado e só
+preservava a quebra no `texto_apoio`.
+
+**Três questões saíram porque a conta não fecha com o gabarito**, e é o mesmo
+teste do ovo cozido de 2026 aplicado a questão sem figura:
+
+- probabilidade (abril): a razão dá 2,6×10⁻² e o gabarito diz 5,2×10⁻²;
+- neve artificial (abril): o "Note e adote" informa densidade da água de
+  1 kg/m³, mil vezes menor que a real, e quem seguir o dado publicado chega à
+  alternativa A, não à C do gabarito;
+- LIGO (julho): a razão entre o braço de 4 km e a variação de 10⁻¹⁸ m dá 10²¹,
+  e a alternativa dada como certa diz 10⁻²¹.
+
+Uma quarta saiu por gabarito contestável: a Estrada de Ferro Carajás, cuja
+função principal é o minério de ferro, que nenhuma das cinco alternativas
+sequer menciona.
+
+**Taxa de pino por caderno**, agora com seis medidas: 35% (2024), 41% (2025),
+34% (2026), 48% (abril), 41% (julho), 44% (outubro). Os simulados pinam mais
+que as provas reais porque escolhem contextos híbridos de propósito — uma
+Bienal para falar de petróleo, uma medalha olímpica para falar de energia — e
+é a moldura que o classificador lê.
 
 ## Fora de escopo
 

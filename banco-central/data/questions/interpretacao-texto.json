@@ -1052,7 +1052,7 @@
     "a": "mudar de cidade altera apenas as distâncias físicas entre os lugares, sem nenhum efeito sobre o modo como o narrador percebe a vida.",
     "b": "o narrador considera o mercado da nova cidade bem mais próximo do que de fato está de sua casa.",
     "c": "o narrador pretende voltar a morar definitivamente na cidade antiga assim que for possível fazer isso.",
-    "d": "o narrador passou a medir distâncias em tempo de deslocamento, e não mais em quilômetros percorridos.",
+    "d": "o narrador passou a medir distâncias em tempo de deslocamento, e não mais em quilômetros percorridos, adotando o relógio como referência para os trajetos que faz na cidade nova.",
     "e": "adaptar-se a um novo lugar envolve também rever referências e critérios internos usados para interpretar a nova realidade."
    },
    "resposta": "e",
@@ -1956,7 +1956,7 @@
     "b": "duas opiniões pessoais da secretária, sem nenhum dado numérico que as sustente",
     "c": "um dado objetivo sobre a queda e uma avaliação subjetiva da secretária",
     "d": "uma crítica direta da secretária ao sistema de agendamento implantado",
-    "e": "um dado objetivo e uma projeção da secretária sobre os próximos meses"
+    "e": "um dado objetivo sobre a queda e uma projeção da secretária a respeito dos próximos meses de atendimento"
    },
    "resposta": "c",
    "explicacao": "Os números — de 94 para 61 dias — são verificáveis; a melhora mais consistente em quinze anos é juízo de quem fala, apoiado na própria experiência. O texto junta as duas coisas sem confundi-las, e distingui-las é a tarefa. Em (e) está o distrator mais fino: a secretária avalia o passado, e não projeta o futuro; dizer que ainda se está longe do ideal é medir a distância já percorrida, não prever a próxima. Em (b), o dado numérico existe. Em (a), os números não se contradizem. Em (d), a fala é positiva com ressalva, e não crítica ao sistema.",
@@ -2157,7 +2157,7 @@
     "a": "Porque feiras livres não aceitam, em nenhuma hipótese, produtos vindos de pequenos produtores rurais.",
     "b": "Porque a venda para atravessadores está proibida por lei para produtores de pequena escala.",
     "c": "Porque a viabilidade da venda direta depende do tamanho da produção e da distância até o consumidor.",
-    "d": "Porque grandes e pequenos produtores enfrentam exatamente os mesmos custos fixos de deslocamento.",
+    "d": "Porque grandes e pequenos produtores enfrentam exatamente os mesmos custos fixos de deslocamento até os pontos de venda.",
     "e": "Porque a venda direta exige certificação sanitária que só grandes produtores conseguem obter."
    },
    "resposta": "c",
@@ -2784,7 +2784,7 @@
    "enunciado": "No texto, qual estratégia de construção se destaca?",
    "alternativas": {
     "a": "uso de dados numéricos para dimensionar o problema",
-    "b": "paralelismo entre duas estruturas sintáticas idênticas",
+    "b": "paralelismo entre duas estruturas sintáticas idênticas em extensão e na ordem dos termos",
     "c": "descrição objetiva do relatório, sem nenhuma marca de posicionamento do autor",
     "d": "conclusão anunciada antes dos dados que a sustentam",
     "e": "oposição entre quantidade de números e qualidade da explicação"

@@ -39074,6 +39074,38 @@ window.QUESTION_BANKS = {
    "explicacao": "As camadas formam a progressão aritmética 1, 2, …, 20, e a soma dos vinte primeiros termos vale (1 + 20)·20/2 = 21·10 = 210. É a soma dos n primeiros números naturais, n(n + 1)/2 — a mesma conta dos números triangulares.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-521",
+   "enunciado": "Em um teatro, a primeira fila tem 12 poltronas e cada fila seguinte tem 3 poltronas a mais do que a fila imediatamente anterior. O número total de poltronas nas 20 primeiras filas é:",
+   "alternativas": {
+    "a": "780",
+    "b": "840",
+    "c": "810",
+    "d": "741",
+    "e": "690"
+   },
+   "resposta": "c",
+   "explicacao": "As quantidades por fila formam uma progressão aritmética de primeiro termo 12, e a razão da progressão vale 3. O vigésimo termo é 12 + 19 · 3 = 69, e a soma dos 20 primeiros termos é (12 + 69) · 20 ÷ 2 = 810. Os valores 780 e 840 saem de usar 18 ou 20 parcelas de razão no último termo; 741 corresponde a somar apenas 19 filas; 690 vem de multiplicar 69 por 10, o que ignora que o fator 10 deve multiplicar a soma dos extremos, e não só o maior deles.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-522",
+   "enunciado": "Numa dinâmica de sala de aula, o primeiro participante recebe 3 pontos e cada participante seguinte recebe o triplo dos pontos do participante anterior. Quantos pontos recebe o sexto participante?",
+   "alternativas": {
+    "a": "243",
+    "b": "1092",
+    "c": "18",
+    "d": "2187",
+    "e": "729"
+   },
+   "resposta": "e",
+   "explicacao": "A sequência dos pontos é uma progressão geométrica de primeiro termo 3, e a razão da progressão vale 3. O termo geral multiplica o primeiro termo pela razão elevada a n − 1, de modo que o sexto termo é 3 · 3⁵ = 3 · 243 = 729. O valor 243 é o quinto termo; 2187 seria o sétimo; 1092 é a soma dos 6 primeiros termos; e 18 aparece quando se trata a lista como progressão aritmética de razão 3.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "matematica-logica-conjuntos": [
@@ -61434,6 +61466,40 @@ window.QUESTION_BANKS = {
    "explicacao": "Morte e Vida Severina, de João Cabral de Melo Neto, é um auto de natal pernambucano. O retirante Severino desce o Capibaribe fugindo da seca e encontra sucessivas mortes até o nascimento final, que devolve algum sentido à travessia.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-366",
+   "texto_apoio": "“Só a Antropofagia nos une. Socialmente. Economicamente. Filosoficamente. […] Tupi, or not tupi that is the question.” (Oswald de Andrade, Manifesto Antropófago, 1928)",
+   "enunciado": "O trocadilho com a célebre fala de Hamlet condensa a proposta modernista de:",
+   "alternativas": {
+    "a": "rejeitar a contribuição estrangeira em nome de uma expressão anterior ao contato com a Europa",
+    "b": "fixar uma língua literária depurada dos regionalismos, submetendo a escrita nacional às regras de composição herdadas dos manuais lusitanos de retórica e de boa gramática",
+    "c": "abandonar a matéria nacional em favor de assuntos universais",
+    "d": "devorar a herança europeia e transformá-la em matéria brasileira, em vez de imitá-la ou de recusá-la em bloco",
+    "e": "converter a poesia em registro documental da vida rural, sem elaboração formal"
+   },
+   "resposta": "d",
+   "explicacao": "O Manifesto Antropófago propõe a antropofagia cultural: em lugar de copiar o modelo europeu ou de recusá-lo inteiro, o escritor brasileiro deve deglutir a influência e devolvê-la transformada. A imagem parte do ritual tupinambá relatado pelos cronistas e responde ao problema que a Semana de Arte Moderna de 1922 havia posto — como ser moderno e brasileiro ao mesmo tempo. Oswald de Andrade radicaliza aí o programa da primeira fase do modernismo, que Pau-Brasil já esboçara.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-367",
+   "texto_apoio": "“Na planície avermelhada os juazeiros alargavam duas manchas verdes. Os infelizes tinham caminhado o dia inteiro, estavam cansados e famintos.” (Graciliano Ramos, Vidas Secas, 1938)",
+   "enunciado": "A construção do trecho é característica do romance de 30 por:",
+   "alternativas": {
+    "a": "aliar o registro seco e a frase curta à observação de uma população reduzida à sobrevivência",
+    "b": "recorrer à linguagem rebuscada para elevar a matéria sertaneja ao plano da epopeia",
+    "c": "acumular digressões filosóficas em períodos longos, nos quais quem conta a história interrompe a ação para comentar em primeira pessoa as próprias hesitações diante do que acaba de relatar",
+    "d": "substituir a matéria social pela fantasia, deslocando a ação para um tempo mítico",
+    "e": "adotar o tom de crônica bem-humorada dos costumes urbanos"
+   },
+   "resposta": "a",
+   "explicacao": "Vidas Secas integra o romance de 30, fase do modernismo em que a ficção se volta para a denúncia social — estiagem, migração forçada, exploração — com uma prosa desnuda, sem ornamento. Graciliano Ramos reduz o período à frase essencial e alterna a descrição da paisagem hostil com a percepção limitada das figuras retratadas, cuja dificuldade com a palavra é ela mesma um dos temas do livro. Jorge Amado e Rachel de Queiroz compõem, com ele, a geração de 30.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "literatura-teoria-analise": [
@@ -68200,6 +68266,40 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O parágrafo vai do \"for decades\" ao \"today\", e o \"though\" do fecho introduz a ressalva sobre as unidades menores. Não há pergunta inicial nem proposta de solução: o texto descreve uma mudança e o limite dela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-283",
+   "texto_apoio": "City councils have spent two decades widening roads to reduce congestion. The wider road fills up within a few years, and the delay returns to what it was. Traffic engineers call this induced demand: capacity that is added is capacity that gets used. Cities that took the opposite route — narrowing lanes, adding bus corridors and bicycle tracks — have reported shorter average journeys. However, the political cost of removing a lane is far higher than the cost of adding one, which is why the wider road remains the default answer.",
+   "enunciado": "In the last sentence of the text, the connector “However” introduces:",
+   "alternativas": {
+    "a": "a further consequence of the shorter journeys reported by those cities",
+    "b": "a chronological step in the sequence of measures adopted by the traffic engineers mentioned earlier in the paragraph, placing them in the order in which they were tried",
+    "c": "an obstacle that runs against the evidence presented in the preceding sentence",
+    "d": "an example of the measures taken by councils that narrowed their lanes",
+    "e": "a conclusion drawn from the definition of induced demand"
+   },
+   "resposta": "c",
+   "explicacao": "O conectivo “however” estabelece uma relação de contraste: a frase anterior registra um resultado favorável às cidades que estreitaram as vias, e a última opõe a ela o obstáculo político que impede a adoção da medida. Reconhecer o valor do conectivo é o que sustenta a leitura do parágrafo — “and” e “moreover” somariam informação, “therefore” marcaria consequência e “for instance” anunciaria exemplo. A estrutura do texto vai, assim, do problema ao dado empírico e do dado à ressalva final.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-284",
+   "texto_apoio": "The first results were announced in March, before the trial had been completed. Journalists were told that the treatment worked; the researchers, who had asked for more time, were not consulted about the press release. By the time the full data set was published, eighteen months later, the headline had already travelled around the world.",
+   "enunciado": "The forms “were announced”, “had been completed” and “was published” share the feature of being:",
+   "alternativas": {
+    "a": "in the active voice, with the agent expressed by a prepositional phrase",
+    "b": "in the present perfect, a form English uses to link a past action to the moment of speaking and which is built with the auxiliary “have” followed by the past participle of the main verb",
+    "c": "modal verbs expressing obligation",
+    "d": "instances of reported speech introduced by a reporting verb",
+    "e": "in the passive voice, which keeps the focus on what happened rather than on the agent"
+   },
+   "resposta": "e",
+   "explicacao": "As três formas estão na voz passiva: o particípio vem precedido do verbo “be” flexionado em algum tempo verbal — past simple em “were announced” e “was published”, past perfect em “had been completed”. A voz passiva desloca para a posição de sujeito aquilo que sofre a ação e permite omitir quem a praticou, recurso frequente no relato científico e no texto jornalístico. Em “were told” aparece a mesma estrutura com verbo de dois complementos, e não há aí nem verbo modal nem discurso indireto.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -80555,6 +80655,40 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O monopólio permitia comprar barato na possessão e revender caro na Europa, e o lucro da intermediação ficava na metrópole. É a aplicação direta do mercantilismo que sustentou as grandes navegações, e sua contestação está entre as causas dos movimentos de independência a partir do fim do século XVIII.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "med-historia-269",
+   "texto_apoio": "Em 1517, um monge agostiniano afixou em Wittenberg noventa e cinco teses contra a venda de indulgências pela Igreja de Roma.",
+   "enunciado": "A rápida difusão dessas teses pelo Sacro Império deveu-se, entre outros fatores, a que:",
+   "alternativas": {
+    "a": "as autoridades eclesiásticas de Roma aderiram desde o início à proposta de revisão do dogma",
+    "b": "a divulgação coube às ordens mendicantes, que percorriam as feiras da região levando cópias manuscritas das teses e pregando em latim para as populações campesinas reunidas nos adros das igrejas",
+    "c": "o Sacro Império havia proibido, poucos anos antes, a cobrança de tributos eclesiásticos",
+    "d": "a imprensa de tipos móveis multiplicou os panfletos, e príncipes territoriais viram na ruptura um modo de reduzir a ingerência papal em seus domínios",
+    "e": "a população da região desconhecia a língua alemã em que as teses circularam"
+   },
+   "resposta": "d",
+   "explicacao": "A Reforma protestante não se explica só pela disputa teológica sobre a salvação pela fé: apoia-se na imprensa, que barateou a circulação dos escritos de Lutero em língua vulgar, e no interesse de príncipes que, no quadro do Antigo Regime, disputavam com o papado o controle de rendas e de nomeações. Roma respondeu com a Contrarreforma, articulada no Concílio de Trento. Calvino, em Genebra, radicalizaria a doutrina da predestinação, com efeitos duradouros sobre as cidades comerciais do norte europeu.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "historia-geral-moderna",
+   "id": "med-historia-270",
+   "texto_apoio": "“Os homens nascem e permanecem livres e iguais em direitos. As distinções sociais só podem fundar-se na utilidade comum.” (Declaração dos Direitos do Homem e do Cidadão, 1789)",
+   "enunciado": "O texto rompe com a ordem do Antigo Regime na medida em que:",
+   "alternativas": {
+    "a": "restabelece os privilégios de nascimento como fundamento da hierarquia social",
+    "b": "substitui a sociedade de ordens, em que a condição jurídica vinha do nascimento, por uma igualdade de direitos entre os cidadãos",
+    "c": "transfere ao rei a prerrogativa de definir quais distinções sociais atendem à utilidade comum, cabendo aos parlamentos provinciais registrar as decisões tomadas nesse sentido antes que passassem a valer",
+    "d": "declara extinta a propriedade privada nas províncias francesas",
+    "e": "condiciona a liberdade de trabalho ao pertencimento a uma irmandade reconhecida pelo rei"
+   },
+   "resposta": "b",
+   "explicacao": "A Declaração de 1789 converte em norma os princípios do Iluminismo — igualdade civil, soberania da nação, direitos naturais — e desmonta o fundamento do Antigo Regime, a sociedade estamental de clero, nobreza e Terceiro Estado, na qual o estatuto jurídico de cada um decorria do berço. Montesquieu e Rousseau estão entre os autores mobilizados pelos constituintes, ainda que a Revolução Francesa tenha ido bem além do que eles propunham. O absolutismo perde aí sua justificativa doutrinária.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -93184,6 +93318,40 @@ window.QUESTION_BANKS = {
    "explicacao": "A genealogia não pergunta o que é o bem, e sim quem chamou o quê de bem, e por quê. Ao exibir a origem histórica da avaliação, Nietzsche retira dela a aparência de dado natural — e o alvo não é a conduta decente, é a pretensão de que a distinção entre certo e errado valha para sempre.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "filosofia-etica-moral",
+   "id": "med-filosofia-sociologia-345",
+   "texto_apoio": "“Age apenas segundo aquela máxima que possas querer que se torne uma lei universal.” (Immanuel Kant, 1785)",
+   "enunciado": "Essa formulação do imperativo categórico caracteriza a ética kantiana porque ela:",
+   "alternativas": {
+    "a": "condiciona o valor moral do ato ao proveito que ele traz a quem o pratica",
+    "b": "transfere a decisão sobre o que é correto à autoridade religiosa encarregada de interpretar os mandamentos, à qual o agente deve submeter o próprio juízo antes de agir",
+    "c": "avalia a conduta pela forma da regra que a orienta, e não pelos resultados agradáveis que venha a produzir",
+    "d": "reduz o dever moral ao costume vigente na comunidade em que o agente vive",
+    "e": "faz depender a obrigação moral do cálculo do prazer que a ação distribui"
+   },
+   "resposta": "c",
+   "explicacao": "A ética de Kant julga o ato pela máxima que o orienta: correto é aquilo cuja regra o agente poderia querer ver adotada por todos sem contradição. Daí o dever moral aparecer como imperativo categórico, que obriga incondicionalmente, e não como conselho de prudência dependente do fim desejado. A autonomia da vontade está em o sujeito dar a si mesmo a lei que segue. As demais alternativas descrevem éticas heterônomas, que buscam o critério fora do agente (autoridade, costume), ou consequencialistas, que o buscam no efeito da ação.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "filosofia-etica-moral",
+   "id": "med-filosofia-sociologia-346",
+   "texto_apoio": "“A doutrina da utilidade sustenta que as ações são corretas na medida em que tendem a promover a felicidade, e erradas quando tendem a produzir o contrário da felicidade.” (John Stuart Mill, 1863)",
+   "enunciado": "Um dilema ético classicamente levantado contra o utilitarismo consiste em observar que essa doutrina:",
+   "alternativas": {
+    "a": "admite, em situações-limite, sacrificar o interesse de poucos quando isso eleva o bem-estar do conjunto",
+    "b": "recusa a comparação entre os efeitos de condutas diferentes",
+    "c": "estabelece que a correção de um ato depende apenas da intenção declarada por quem o pratica, de modo que os efeitos sobre terceiros ficariam fora do exame moral que ela propõe",
+    "d": "identifica o bem com o cumprimento de mandamentos revelados",
+    "e": "abandona a ideia de que a felicidade tenha peso na avaliação da conduta"
+   },
+   "resposta": "a",
+   "explicacao": "O utilitarismo de Bentham e de Stuart Mill mede a correção da ação por suas consequências, tomando como critério a maior felicidade do maior número. A objeção mais conhecida é a de que esse cálculo agregado, por somar bem e mal de pessoas distintas num saldo único, pode tornar defensável prejudicar um grupo pequeno em nome de um ganho maior distribuído. É esse ponto que separa a ética utilitarista das éticas do dever, para as quais há obrigações que o saldo favorável não dispensa.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "sociologia-trabalho-classes": [
@@ -94293,6 +94461,39 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Abolir sem reparar deixou os libertos sem terra, sem escola e sem crédito, ao mesmo tempo em que o imigrante subsidiado ocupava as vagas do café e barateava a força de trabalho disponível. A desigualdade social que se lê hoje nos dados de renda e ocupação tem aí uma de suas origens documentadas.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-trabalho-classes",
+   "id": "med-filosofia-sociologia-347",
+   "enunciado": "Na análise de Marx, a mais-valia designa:",
+   "alternativas": {
+    "a": "o lucro obtido pelo comerciante ao vender acima do preço de tabela",
+    "b": "a diferença entre o salário nominal e o salário real, medida que os economistas obtêm ao comparar o poder de compra dos rendimentos em dois momentos distintos do tempo",
+    "c": "o imposto recolhido sobre a folha de pagamento das empresas industriais",
+    "d": "a parte da jornada de trabalho não paga ao trabalhador, apropriada pelo dono dos meios de produção",
+    "e": "o valor que o proprietário adianta na compra de máquinas e de matérias-primas"
+   },
+   "resposta": "d",
+   "explicacao": "Para Marx, a força de trabalho é uma mercadoria peculiar: seu uso produz mais valor do que custa para ser reposta. A jornada divide-se em tempo de trabalho necessário, que equivale ao salário, e tempo de trabalho excedente, cujo produto fica com o proprietário dos meios de produção. Essa fração não paga é a mais-valia, base da acumulação no capitalismo e da leitura que opõe burguesia e proletariado como classes sociais definidas pelo lugar que ocupam na produção, e não pela renda que recebem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-trabalho-classes",
+   "id": "med-filosofia-sociologia-348",
+   "texto_apoio": "Nas plataformas de entrega e de transporte por aplicativo, quem dirige ou pedala é tratado como parceiro autônomo: não há vínculo formal, o pagamento é por tarefa cumprida e a jornada se estende conforme a necessidade de renda.",
+   "enunciado": "O processo descrito é analisado pela sociologia do trabalho como:",
+   "alternativas": {
+    "a": "retorno ao artesanato, com o produtor recuperando o controle do ritmo e do destino do que produz",
+    "b": "uberização, forma de precarização em que o risco e o custo da atividade passam ao próprio trabalhador",
+    "c": "expansão do emprego formal, uma vez que a intermediação eletrônica das tarefas costuma vir acompanhada da assinatura de contratos com jornada fixa e previsão de férias remuneradas",
+    "d": "aplicação do fordismo clássico, com esteira, posto fixo e supervisão presencial",
+    "e": "extinção da divisão do trabalho nas atividades urbanas de serviços"
+   },
+   "resposta": "b",
+   "explicacao": "A uberização combina autonomia aparente e controle efetivo: a plataforma distribui as tarefas e define o preço, enquanto o veículo, a manutenção, o combustível e o tempo de espera correm por conta de quem executa o serviço. É um caso de precarização e de reestruturação produtiva: o vínculo assalariado cede lugar ao trabalho por plataforma, sem os direitos que a relação de emprego assegurava. O fordismo, ao contrário, supunha posto fixo, jornada delimitada e contrato estável, e a divisão do trabalho não desaparece, apenas muda de forma.",
    "formato": "direta",
    "origem": "medicina"
   }
@@ -95407,6 +95608,40 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O bem opera como sinal: o que se compra é a diferença em relação a quem não pode comprá-lo. Bourdieu mostra que o gosto legítimo funciona assim em muitos campos — parece escolha pessoal e organiza, na prática, fronteiras culturais entre grupos.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-349",
+   "texto_apoio": "Ao descrever um povo cujos hábitos alimentares e formas de casamento diferiam dos seus, um viajante europeu do século XIX classificou-o como “atrasado” e “sem civilização”.",
+   "enunciado": "Do ponto de vista da antropologia, o juízo desse viajante é exemplo de:",
+   "alternativas": {
+    "a": "difusionismo, explicação corrente para a propagação de invenções entre povos vizinhos",
+    "b": "relativismo cultural, atitude que procura compreender uma prática a partir do sistema de significados em que ela ganha sentido dentro do grupo que a mantém, sem hierarquizá-la de antemão",
+    "c": "aculturação, processo de contato prolongado entre grupos de repertórios distintos",
+    "d": "endogamia, regra que restringe o casamento ao interior do próprio grupo",
+    "e": "etnocentrismo, avaliação de outra cultura pelos valores da própria, tomados como medida do que seria civilizado"
+   },
+   "resposta": "e",
+   "explicacao": "Etnocentrismo é o hábito de julgar a diversidade cultural pela régua do próprio grupo, convertendo diferença em atraso. A antropologia opõe-lhe o relativismo cultural, que não significa abster-se de julgar, e sim descrever a prática no interior do sistema simbólico que lhe dá sentido. No caso descrito, a identidade cultural do observador funcionou como critério de classificação do outro, e por isso o relato diz tanto sobre quem escreve quanto sobre quem é descrito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "sociologia-cultura-identidade",
+   "id": "med-filosofia-sociologia-350",
+   "texto_apoio": "Para Adorno e Horkheimer, os bens culturais fabricados em série apresentam-se ao público como diversão e, ao mesmo tempo, como padronização: o que muda de um produto para o outro é a embalagem, não o esquema.",
+   "enunciado": "A crítica formulada pela Escola de Frankfurt sustenta que a indústria cultural:",
+   "alternativas": {
+    "a": "apaga a distinção entre arte erudita e arte popular ao financiar as duas em igual medida",
+    "b": "converte a experiência estética em consumo padronizado, moldando de antemão a reação do público",
+    "c": "amplia a autonomia do espectador diante das obras, na medida em que a reprodução técnica coloca ao seu alcance um repertório de bens culturais antes reservado a um público restrito",
+    "d": "descreve a mídia como instância neutra de transmissão de conteúdos",
+    "e": "restringe-se ao estudo das artes plásticas produzidas na Alemanha"
+   },
+   "resposta": "b",
+   "explicacao": "Adorno e Horkheimer chamam de indústria cultural o setor que fabrica bens simbólicos segundo o padrão da produção em série. A cultura de massa daí resultante oferece variação aparente e repetição de fundo, o que antecipa e domestica a resposta de quem consome. A mídia, nessa leitura, não é canal neutro: participa da mercantilização da cultura. A alternativa que fala em ampliar a autonomia do espectador corresponde a outra vertente do debate, ligada a Walter Benjamin e à aposta emancipadora na reprodutibilidade técnica.",
    "formato": "direta",
    "origem": "medicina"
   }

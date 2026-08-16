@@ -12378,6 +12378,38 @@ window.QUESTION_BANKS = {
    "explicacao": "As camadas formam a progressão aritmética 1, 2, …, 20, e a soma dos vinte primeiros termos vale (1 + 20)·20/2 = 21·10 = 210. É a soma dos n primeiros números naturais, n(n + 1)/2 — a mesma conta dos números triangulares.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-521",
+   "enunciado": "Em um teatro, a primeira fila tem 12 poltronas e cada fila seguinte tem 3 poltronas a mais do que a fila imediatamente anterior. O número total de poltronas nas 20 primeiras filas é:",
+   "alternativas": {
+    "a": "780",
+    "b": "840",
+    "c": "810",
+    "d": "741",
+    "e": "690"
+   },
+   "resposta": "c",
+   "explicacao": "As quantidades por fila formam uma progressão aritmética de primeiro termo 12, e a razão da progressão vale 3. O vigésimo termo é 12 + 19 · 3 = 69, e a soma dos 20 primeiros termos é (12 + 69) · 20 ÷ 2 = 810. Os valores 780 e 840 saem de usar 18 ou 20 parcelas de razão no último termo; 741 corresponde a somar apenas 19 filas; 690 vem de multiplicar 69 por 10, o que ignora que o fator 10 deve multiplicar a soma dos extremos, e não só o maior deles.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "med-matematica-522",
+   "enunciado": "Numa dinâmica de sala de aula, o primeiro participante recebe 3 pontos e cada participante seguinte recebe o triplo dos pontos do participante anterior. Quantos pontos recebe o sexto participante?",
+   "alternativas": {
+    "a": "243",
+    "b": "1092",
+    "c": "18",
+    "d": "2187",
+    "e": "729"
+   },
+   "resposta": "e",
+   "explicacao": "A sequência dos pontos é uma progressão geométrica de primeiro termo 3, e a razão da progressão vale 3. O termo geral multiplica o primeiro termo pela razão elevada a n − 1, de modo que o sexto termo é 3 · 3⁵ = 3 · 243 = 729. O valor 243 é o quinto termo; 2187 seria o sétimo; 1092 é a soma dos 6 primeiros termos; e 18 aparece quando se trata a lista como progressão aritmética de razão 3.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "matematica-logica-conjuntos": [
@@ -52156,6 +52188,40 @@ window.QUESTION_BANKS = {
    "explicacao": "Morte e Vida Severina, de João Cabral de Melo Neto, é um auto de natal pernambucano. O retirante Severino desce o Capibaribe fugindo da seca e encontra sucessivas mortes até o nascimento final, que devolve algum sentido à travessia.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-366",
+   "texto_apoio": "“Só a Antropofagia nos une. Socialmente. Economicamente. Filosoficamente. […] Tupi, or not tupi that is the question.” (Oswald de Andrade, Manifesto Antropófago, 1928)",
+   "enunciado": "O trocadilho com a célebre fala de Hamlet condensa a proposta modernista de:",
+   "alternativas": {
+    "a": "rejeitar a contribuição estrangeira em nome de uma expressão anterior ao contato com a Europa",
+    "b": "fixar uma língua literária depurada dos regionalismos, submetendo a escrita nacional às regras de composição herdadas dos manuais lusitanos de retórica e de boa gramática",
+    "c": "abandonar a matéria nacional em favor de assuntos universais",
+    "d": "devorar a herança europeia e transformá-la em matéria brasileira, em vez de imitá-la ou de recusá-la em bloco",
+    "e": "converter a poesia em registro documental da vida rural, sem elaboração formal"
+   },
+   "resposta": "d",
+   "explicacao": "O Manifesto Antropófago propõe a antropofagia cultural: em lugar de copiar o modelo europeu ou de recusá-lo inteiro, o escritor brasileiro deve deglutir a influência e devolvê-la transformada. A imagem parte do ritual tupinambá relatado pelos cronistas e responde ao problema que a Semana de Arte Moderna de 1922 havia posto — como ser moderno e brasileiro ao mesmo tempo. Oswald de Andrade radicaliza aí o programa da primeira fase do modernismo, que Pau-Brasil já esboçara.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "med-literatura-367",
+   "texto_apoio": "“Na planície avermelhada os juazeiros alargavam duas manchas verdes. Os infelizes tinham caminhado o dia inteiro, estavam cansados e famintos.” (Graciliano Ramos, Vidas Secas, 1938)",
+   "enunciado": "A construção do trecho é característica do romance de 30 por:",
+   "alternativas": {
+    "a": "aliar o registro seco e a frase curta à observação de uma população reduzida à sobrevivência",
+    "b": "recorrer à linguagem rebuscada para elevar a matéria sertaneja ao plano da epopeia",
+    "c": "acumular digressões filosóficas em períodos longos, nos quais quem conta a história interrompe a ação para comentar em primeira pessoa as próprias hesitações diante do que acaba de relatar",
+    "d": "substituir a matéria social pela fantasia, deslocando a ação para um tempo mítico",
+    "e": "adotar o tom de crônica bem-humorada dos costumes urbanos"
+   },
+   "resposta": "a",
+   "explicacao": "Vidas Secas integra o romance de 30, fase do modernismo em que a ficção se volta para a denúncia social — estiagem, migração forçada, exploração — com uma prosa desnuda, sem ornamento. Graciliano Ramos reduz o período à frase essencial e alterna a descrição da paisagem hostil com a percepção limitada das figuras retratadas, cuja dificuldade com a palavra é ela mesma um dos temas do livro. Jorge Amado e Rachel de Queiroz compõem, com ele, a geração de 30.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "literatura-teoria-analise": [
@@ -58922,6 +58988,40 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O parágrafo vai do \"for decades\" ao \"today\", e o \"though\" do fecho introduz a ressalva sobre as unidades menores. Não há pergunta inicial nem proposta de solução: o texto descreve uma mudança e o limite dela.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-283",
+   "texto_apoio": "City councils have spent two decades widening roads to reduce congestion. The wider road fills up within a few years, and the delay returns to what it was. Traffic engineers call this induced demand: capacity that is added is capacity that gets used. Cities that took the opposite route — narrowing lanes, adding bus corridors and bicycle tracks — have reported shorter average journeys. However, the political cost of removing a lane is far higher than the cost of adding one, which is why the wider road remains the default answer.",
+   "enunciado": "In the last sentence of the text, the connector “However” introduces:",
+   "alternativas": {
+    "a": "a further consequence of the shorter journeys reported by those cities",
+    "b": "a chronological step in the sequence of measures adopted by the traffic engineers mentioned earlier in the paragraph, placing them in the order in which they were tried",
+    "c": "an obstacle that runs against the evidence presented in the preceding sentence",
+    "d": "an example of the measures taken by councils that narrowed their lanes",
+    "e": "a conclusion drawn from the definition of induced demand"
+   },
+   "resposta": "c",
+   "explicacao": "O conectivo “however” estabelece uma relação de contraste: a frase anterior registra um resultado favorável às cidades que estreitaram as vias, e a última opõe a ela o obstáculo político que impede a adoção da medida. Reconhecer o valor do conectivo é o que sustenta a leitura do parágrafo — “and” e “moreover” somariam informação, “therefore” marcaria consequência e “for instance” anunciaria exemplo. A estrutura do texto vai, assim, do problema ao dado empírico e do dado à ressalva final.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-grammar-structure",
+   "id": "med-ingles-284",
+   "texto_apoio": "The first results were announced in March, before the trial had been completed. Journalists were told that the treatment worked; the researchers, who had asked for more time, were not consulted about the press release. By the time the full data set was published, eighteen months later, the headline had already travelled around the world.",
+   "enunciado": "The forms “were announced”, “had been completed” and “was published” share the feature of being:",
+   "alternativas": {
+    "a": "in the active voice, with the agent expressed by a prepositional phrase",
+    "b": "in the present perfect, a form English uses to link a past action to the moment of speaking and which is built with the auxiliary “have” followed by the past participle of the main verb",
+    "c": "modal verbs expressing obligation",
+    "d": "instances of reported speech introduced by a reporting verb",
+    "e": "in the passive voice, which keeps the focus on what happened rather than on the agent"
+   },
+   "resposta": "e",
+   "explicacao": "As três formas estão na voz passiva: o particípio vem precedido do verbo “be” flexionado em algum tempo verbal — past simple em “were announced” e “was published”, past perfect em “had been completed”. A voz passiva desloca para a posição de sujeito aquilo que sofre a ação e permite omitir quem a praticou, recurso frequente no relato científico e no texto jornalístico. Em “were told” aparece a mesma estrutura com verbo de dois complementos, e não há aí nem verbo modal nem discurso indireto.",
    "formato": "direta",
    "origem": "medicina"
   }

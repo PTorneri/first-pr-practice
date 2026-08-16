@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "literatura",
- "total": 379,
+ "total": 381,
  "residuo": [
   "dir-literatura-53",
   "dir-literatura-55",
@@ -2274,6 +2274,18 @@
    "frenteDestino": "literatura",
    "pontos": 5,
    "margem": 5
+  },
+  "med-literatura-366": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-literatura-367": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 10,
+   "margem": 10
   }
  }
 }

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "historia",
- "total": 484,
+ "total": 486,
  "residuo": [
   "dir-historia-brasil-68",
   "dir-historia-brasil-95",
@@ -2908,6 +2908,18 @@
    "frenteDestino": "historia",
    "pontos": 5,
    "margem": 5
+  },
+  "med-historia-269": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "med-historia-270": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
   }
  }
 }

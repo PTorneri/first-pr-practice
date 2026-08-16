@@ -6127,6 +6127,38 @@
    "explicacao": "Alencar chama o livro de lenda: a prosa se aproxima do poema e a heroína se confunde com a terra. O par indígena e colonizador serve de mito de origem do povo brasileiro, projeto central do romantismo nacionalista.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-366",
+   "texto_apoio": "“Só a Antropofagia nos une. Socialmente. Economicamente. Filosoficamente. […] Tupi, or not tupi that is the question.” (Oswald de Andrade, Manifesto Antropófago, 1928)",
+   "enunciado": "O trocadilho com a célebre fala de Hamlet condensa a proposta modernista de:",
+   "alternativas": {
+    "a": "rejeitar a contribuição estrangeira em nome de uma expressão anterior ao contato com a Europa",
+    "b": "fixar uma língua literária depurada dos regionalismos, submetendo a escrita nacional às regras de composição herdadas dos manuais lusitanos de retórica e de boa gramática",
+    "c": "abandonar a matéria nacional em favor de assuntos universais",
+    "d": "devorar a herança europeia e transformá-la em matéria brasileira, em vez de imitá-la ou de recusá-la em bloco",
+    "e": "converter a poesia em registro documental da vida rural, sem elaboração formal"
+   },
+   "resposta": "d",
+   "explicacao": "O Manifesto Antropófago propõe a antropofagia cultural: em lugar de copiar o modelo europeu ou de recusá-lo inteiro, o escritor brasileiro deve deglutir a influência e devolvê-la transformada. A imagem parte do ritual tupinambá relatado pelos cronistas e responde ao problema que a Semana de Arte Moderna de 1922 havia posto — como ser moderno e brasileiro ao mesmo tempo. Oswald de Andrade radicaliza aí o programa da primeira fase do modernismo, que Pau-Brasil já esboçara.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-literatura-367",
+   "texto_apoio": "“Na planície avermelhada os juazeiros alargavam duas manchas verdes. Os infelizes tinham caminhado o dia inteiro, estavam cansados e famintos.” (Graciliano Ramos, Vidas Secas, 1938)",
+   "enunciado": "A construção do trecho é característica do romance de 30 por:",
+   "alternativas": {
+    "a": "aliar o registro seco e a frase curta à observação de uma população reduzida à sobrevivência",
+    "b": "recorrer à linguagem rebuscada para elevar a matéria sertaneja ao plano da epopeia",
+    "c": "acumular digressões filosóficas em períodos longos, nos quais quem conta a história interrompe a ação para comentar em primeira pessoa as próprias hesitações diante do que acaba de relatar",
+    "d": "substituir a matéria social pela fantasia, deslocando a ação para um tempo mítico",
+    "e": "adotar o tom de crônica bem-humorada dos costumes urbanos"
+   },
+   "resposta": "a",
+   "explicacao": "Vidas Secas integra o romance de 30, fase do modernismo em que a ficção se volta para a denúncia social — estiagem, migração forçada, exploração — com uma prosa desnuda, sem ornamento. Graciliano Ramos reduz o período à frase essencial e alterna a descrição da paisagem hostil com a percepção limitada das figuras retratadas, cuja dificuldade com a palavra é ela mesma um dos temas do livro. Jorge Amado e Rachel de Queiroz compõem, com ele, a geração de 30.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ],
  "textos": [

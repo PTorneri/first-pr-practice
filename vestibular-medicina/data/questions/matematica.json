@@ -7485,6 +7485,34 @@
       "resposta": "d",
       "explicacao": "A hipótese diz que para todo estudante de robótica vale também a programação, ou seja, o conjunto da robótica está contido no da programação, e no diagrama de Venn uma das regiões fica inteiramente dentro da outra. A interseção dos conjuntos é então o próprio grupo de robótica, e a diferença entre conjuntos procurada vale 18 − 7 = 11. A alternativa 25 soma os dois grupos como se fossem separados; 18 e 7 repetem os totais dados.",
       "formato": "direta"
+    },
+    {
+      "id": "matematica-521",
+      "enunciado": "Em um teatro, a primeira fila tem 12 poltronas e cada fila seguinte tem 3 poltronas a mais do que a fila imediatamente anterior. O número total de poltronas nas 20 primeiras filas é:",
+      "alternativas": {
+        "a": "780",
+        "b": "840",
+        "c": "810",
+        "d": "741",
+        "e": "690"
+      },
+      "resposta": "c",
+      "explicacao": "As quantidades por fila formam uma progressão aritmética de primeiro termo 12, e a razão da progressão vale 3. O vigésimo termo é 12 + 19 · 3 = 69, e a soma dos 20 primeiros termos é (12 + 69) · 20 ÷ 2 = 810. Os valores 780 e 840 saem de usar 18 ou 20 parcelas de razão no último termo; 741 corresponde a somar apenas 19 filas; 690 vem de multiplicar 69 por 10, o que ignora que o fator 10 deve multiplicar a soma dos extremos, e não só o maior deles.",
+      "formato": "direta"
+    },
+    {
+      "id": "matematica-522",
+      "enunciado": "Numa dinâmica de sala de aula, o primeiro participante recebe 3 pontos e cada participante seguinte recebe o triplo dos pontos do participante anterior. Quantos pontos recebe o sexto participante?",
+      "alternativas": {
+        "a": "243",
+        "b": "1092",
+        "c": "18",
+        "d": "2187",
+        "e": "729"
+      },
+      "resposta": "e",
+      "explicacao": "A sequência dos pontos é uma progressão geométrica de primeiro termo 3, e a razão da progressão vale 3. O termo geral multiplica o primeiro termo pela razão elevada a n − 1, de modo que o sexto termo é 3 · 3⁵ = 3 · 243 = 729. O valor 243 é o quinto termo; 2187 seria o sétimo; 1092 é a soma dos 6 primeiros termos; e 18 aparece quando se trata a lista como progressão aritmética de razão 3.",
+      "formato": "direta"
     }
   ]
 }

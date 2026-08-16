@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "matematica",
- "total": 912,
+ "total": 914,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -5002,6 +5002,18 @@
    "frenteDestino": "matematica",
    "pontos": 14,
    "margem": 11
+  },
+  "med-matematica-521": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 10
+  },
+  "med-matematica-522": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 16,
+   "margem": 13
   },
   "eng-complexos-01": {
    "subtema": "matematica-complexos",

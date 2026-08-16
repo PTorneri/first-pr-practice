@@ -8122,6 +8122,38 @@
    "explicacao": "A crítica não é ao recorte em si — organizar o tempo é inevitável —, e sim à pretensão de que marcos europeus sirvam de régua para a China, para a África ou para a América. Perceber que a periodização é uma escolha de quem escreve, e não um dado do passado, é o passo que a banca quer ver dado.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "med-historia-269",
+   "texto_apoio": "Em 1517, um monge agostiniano afixou em Wittenberg noventa e cinco teses contra a venda de indulgências pela Igreja de Roma.",
+   "enunciado": "A rápida difusão dessas teses pelo Sacro Império deveu-se, entre outros fatores, a que:",
+   "alternativas": {
+    "a": "as autoridades eclesiásticas de Roma aderiram desde o início à proposta de revisão do dogma",
+    "b": "a divulgação coube às ordens mendicantes, que percorriam as feiras da região levando cópias manuscritas das teses e pregando em latim para as populações campesinas reunidas nos adros das igrejas",
+    "c": "o Sacro Império havia proibido, poucos anos antes, a cobrança de tributos eclesiásticos",
+    "d": "a imprensa de tipos móveis multiplicou os panfletos, e príncipes territoriais viram na ruptura um modo de reduzir a ingerência papal em seus domínios",
+    "e": "a população da região desconhecia a língua alemã em que as teses circularam"
+   },
+   "resposta": "d",
+   "explicacao": "A Reforma protestante não se explica só pela disputa teológica sobre a salvação pela fé: apoia-se na imprensa, que barateou a circulação dos escritos de Lutero em língua vulgar, e no interesse de príncipes que, no quadro do Antigo Regime, disputavam com o papado o controle de rendas e de nomeações. Roma respondeu com a Contrarreforma, articulada no Concílio de Trento. Calvino, em Genebra, radicalizaria a doutrina da predestinação, com efeitos duradouros sobre as cidades comerciais do norte europeu.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "id": "med-historia-270",
+   "texto_apoio": "“Os homens nascem e permanecem livres e iguais em direitos. As distinções sociais só podem fundar-se na utilidade comum.” (Declaração dos Direitos do Homem e do Cidadão, 1789)",
+   "enunciado": "O texto rompe com a ordem do Antigo Regime na medida em que:",
+   "alternativas": {
+    "a": "restabelece os privilégios de nascimento como fundamento da hierarquia social",
+    "b": "substitui a sociedade de ordens, em que a condição jurídica vinha do nascimento, por uma igualdade de direitos entre os cidadãos",
+    "c": "transfere ao rei a prerrogativa de definir quais distinções sociais atendem à utilidade comum, cabendo aos parlamentos provinciais registrar as decisões tomadas nesse sentido antes que passassem a valer",
+    "d": "declara extinta a propriedade privada nas províncias francesas",
+    "e": "condiciona a liberdade de trabalho ao pertencimento a uma irmandade reconhecida pelo rei"
+   },
+   "resposta": "b",
+   "explicacao": "A Declaração de 1789 converte em norma os princípios do Iluminismo — igualdade civil, soberania da nação, direitos naturais — e desmonta o fundamento do Antigo Regime, a sociedade estamental de clero, nobreza e Terceiro Estado, na qual o estatuto jurídico de cada um decorria do berço. Montesquieu e Rousseau estão entre os autores mobilizados pelos constituintes, ainda que a Revolução Francesa tenha ido bem além do que eles propunham. O absolutismo perde aí sua justificativa doutrinária.",
+   "formato": "direta",
+   "origem": "medicina"
   }
  ]
 }

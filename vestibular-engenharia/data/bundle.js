@@ -23726,6 +23726,664 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "fisica-moderna",
+   "id": "med-fisica-447",
+   "texto_apoio": "Múons produzidos na alta atmosfera atravessam quilômetros de ar antes de chegar ao chão. No referencial em que o múon está parado, seu tempo médio de vida vale 2,0 µs. Um detector registra múons cujo fator de Lorentz, medido da Terra, vale γ = 1,25.",
+   "enunciado": "Pela dilatação do tempo prevista pela relatividade restrita, o tempo médio de vida desse múon medido por um observador no chão é de:",
+   "alternativas": {
+    "a": "1,6 µs",
+    "b": "2,0 µs",
+    "c": "2,5 µs",
+    "d": "3,2 µs",
+    "e": "4,0 µs"
+   },
+   "resposta": "c",
+   "explicacao": "O tempo próprio Δt₀ = 2,0 µs é o intervalo medido no relógio que acompanha o múon, e é o menor de todos. Em outro referencial vale Δt = γ·Δt₀ = 1,25 × 2,0 = 2,5 µs. A alternativa (a) divide por γ em vez de multiplicar — é o erro de trocar γ por 1/γ, que serve para a contração do comprimento, não para a dilatação do tempo; (b) ignora o efeito relativístico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-448",
+   "texto_apoio": "Uma sonda tem 30 m de comprimento próprio — aquele medido no referencial em que ela está em repouso. Ela cruza uma estação com velocidade tal que o fator de Lorentz vale γ = 2,5.",
+   "enunciado": "Segundo a relatividade restrita, o comprimento da sonda medido pelos instrumentos da estação é de:",
+   "alternativas": {
+    "a": "7,5 m",
+    "b": "12 m",
+    "c": "30 m",
+    "d": "75 m",
+    "e": "18 m"
+   },
+   "resposta": "b",
+   "explicacao": "A contração do comprimento vale só na direção do movimento e divide o comprimento próprio pelo fator de Lorentz: L = L₀/γ = 30/2,5 = 12 m. A alternativa (d), 75 m, multiplica por γ — objeto nenhum é medido maior do que o próprio comprimento de repouso; (c) ignora o efeito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-449",
+   "texto_apoio": "Uma nave espacial se afasta da Terra a 0,50c e lança para a frente uma sonda que, medida a bordo, se move a 0,50c em relação à nave. A composição relativística de velocidades é u = (v + u′)/(1 + v·u′/c²).",
+   "enunciado": "A velocidade da sonda medida por um observador na Terra é de:",
+   "alternativas": {
+    "a": "0,25c",
+    "b": "0,40c",
+    "c": "0,50c",
+    "d": "0,80c",
+    "e": "1,00c"
+   },
+   "resposta": "d",
+   "explicacao": "Substituindo: (0,50 + 0,50)/(1 + 0,25) = 1,00/1,25 = 0,80c. A alternativa (e) adiciona as duas velocidades como a mecânica de Newton faria, e daria 1,00c — resultado que a relatividade restrita descarta, porque entre referenciais inerciais a velocidade da luz permanece o teto e nenhuma composição de velocidades menores que c o ultrapassa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-450",
+   "texto_apoio": "Uma nave espacial se aproxima de um observatório a 0,80c e acende um farol na direção do movimento.",
+   "enunciado": "A velocidade da luz desse farol, medida pelos instrumentos do observatório, vale:",
+   "alternativas": {
+    "a": "0,20c",
+    "b": "0,80c",
+    "c": "1,00c",
+    "d": "1,64c",
+    "e": "1,80c"
+   },
+   "resposta": "c",
+   "explicacao": "O segundo postulado da relatividade restrita diz que a luz se propaga com o mesmo valor c em referenciais inerciais distintos, não importa como se mova a fonte. Por isso o observatório mede 1,00c, e não 1,80c — este seria o resultado da adição de velocidades da mecânica de Newton, que vale como aproximação apenas para velocidades muito menores que c.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-451",
+   "enunciado": "Uma partícula se move a 0,80c em relação ao laboratório. O fator de Lorentz γ = 1/√(1 − v²/c²) associado a ela vale aproximadamente:",
+   "alternativas": {
+    "a": "1,67",
+    "b": "0,60",
+    "c": "1,25",
+    "d": "1,80",
+    "e": "2,50"
+   },
+   "resposta": "a",
+   "explicacao": "Com v/c = 0,80, v²/c² = 0,64 e 1 − 0,64 = 0,36, cuja raiz é 0,60. Logo γ = 1/0,60 ≈ 1,67. A alternativa (b) entrega justamente 0,60, isto é, 1/γ; a relatividade restrita exige γ ≥ 1, então valor menor que 1 já se descarta sem conta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-452",
+   "texto_apoio": "Dentro de um vagão que viaja em linha reta com velocidade constante, dois flashes disparam ao mesmo tempo, um em cada ponta do vagão, segundo a passageira sentada no meio dele.",
+   "enunciado": "Para um observador parado na plataforma, esses dois flashes:",
+   "alternativas": {
+    "a": "disparam em instantes diferentes, porque a simultaneidade de eventos separados no espaço depende do referencial",
+    "b": "disparam no mesmo instante, já que intervalos de tempo têm o mesmo valor em referenciais inerciais distintos",
+    "c": "disparam no mesmo instante, mas com as pontas do vagão trocadas em relação ao que a passageira registra",
+    "d": "disparam em instantes diferentes apenas porque a luz de uma das pontas leva mais tempo para chegar ao olho do observador da plataforma",
+    "e": "disparam em instantes diferentes porque o vagão encurta e as duas pontas se aproximam do centro durante a viagem"
+   },
+   "resposta": "a",
+   "explicacao": "É o trem de Einstein. A relatividade restrita mostra que a simultaneidade de eventos separados no espaço não é absoluta: dois disparos simultâneos no vagão deixam de ser simultâneos na plataforma. A alternativa (d) descreve um atraso de propagação da luz, que se corrige descontando o tempo de trajeto e não tem nada de relativístico; a diferença aqui permanece depois dessa correção.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-453",
+   "texto_apoio": "Duas irmãs gêmeas se separam: uma fica na Terra e a outra parte numa nave espacial cujo fator de Lorentz em relação à Terra vale γ = 2,0 na ida e na volta.",
+   "enunciado": "Se a viagem dura 10 anos pelos relógios da Terra, o tempo transcorrido para a irmã que viajou é de:",
+   "alternativas": {
+    "a": "2,5 anos",
+    "b": "10 anos",
+    "c": "15 anos",
+    "d": "20 anos",
+    "e": "5,0 anos"
+   },
+   "resposta": "e",
+   "explicacao": "O relógio que acompanha a viajante marca o tempo próprio, Δt₀ = Δt/γ = 10/2,0 = 5,0 anos. A dilatação do tempo faz a viajante voltar mais nova que a irmã. A alternativa (d) multiplica por γ em vez de dividir; (b) ignora o efeito.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-454",
+   "texto_apoio": "Ao se juntarem para formar um núcleo de hélio-4, dois prótons e dois nêutrons perdem 5,0 × 10⁻²⁹ kg de massa. Adote para a velocidade da luz no vácuo o valor 3,0 × 10⁸ m/s.",
+   "enunciado": "Pela equivalência massa-energia E = mc², a energia de ligação correspondente a essa perda de massa é de:",
+   "alternativas": {
+    "a": "1,5 × 10⁻²⁰ J",
+    "b": "4,5 × 10⁻¹² J",
+    "c": "9,0 × 10⁻¹² J",
+    "d": "4,5 × 10⁻¹³ J",
+    "e": "1,5 × 10⁻¹² J"
+   },
+   "resposta": "b",
+   "explicacao": "E = Δm·c² = 5,0 × 10⁻²⁹ × (3,0 × 10⁸)² = 5,0 × 10⁻²⁹ × 9,0 × 10¹⁶ = 4,5 × 10⁻¹² J. A alternativa (a) usa c em vez de c² e erra por oito ordens de grandeza. A energia de repouso que desaparece da balança é exatamente a que a relatividade restrita converte em energia de ligação do núcleo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-455",
+   "enunciado": "Uma partícula de energia de repouso E₀ = 900 MeV se move com fator de Lorentz γ = 5/3 em relação ao laboratório. Sua energia total, dada por E = γE₀, vale:",
+   "alternativas": {
+    "a": "540 MeV",
+    "b": "900 MeV",
+    "c": "600 MeV",
+    "d": "1500 MeV",
+    "e": "2400 MeV"
+   },
+   "resposta": "d",
+   "explicacao": "E = γE₀ = (5/3) × 900 = 1500 MeV. A alternativa (a), 540 MeV, divide por γ — confusão com a contração do comprimento; a relatividade restrita exige energia total maior que a de repouso para qualquer partícula em movimento, o que já elimina 540 e 600 MeV.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-456",
+   "enunciado": "A energia cinética relativística de uma partícula é Ec = (γ − 1)mc². Para uma partícula cujo fator de Lorentz vale γ = 5/3, a energia cinética, medida em unidades da energia de repouso mc², vale:",
+   "alternativas": {
+    "a": "0,25 mc²",
+    "b": "0,50 mc²",
+    "c": "0,67 mc²",
+    "d": "1,67 mc²",
+    "e": "2,67 mc²"
+   },
+   "resposta": "c",
+   "explicacao": "Ec = (γ − 1)mc² = (5/3 − 1)mc² = (2/3)mc² ≈ 0,67 mc². A alternativa (d) esquece de subtrair 1 e entrega γmc², que é a energia TOTAL, não a cinética; (e) subtrai 1 depois de dobrar γ. Note que ½mv² daria 0,32 mc² e não serve nessa faixa de velocidade.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-457",
+   "enunciado": "Pela expressão da energia cinética relativística, Ec = (γ − 1)mc², à medida que a velocidade de uma partícula dotada de massa se aproxima da velocidade da luz:",
+   "alternativas": {
+    "a": "a energia cinética cresce sem limite, de modo que nenhuma quantidade finita de energia leva a partícula até c",
+    "b": "a energia cinética estaciona num patamar igual à energia de repouso mc² da partícula",
+    "c": "a energia cinética diminui, porque o fator de Lorentz tende a zero nessa faixa de velocidade",
+    "d": "a energia cinética passa a valer ½mv², como na mecânica de Newton",
+    "e": "a energia cinética cresce em proporção direta à velocidade, de modo que dobrar a velocidade dobra a energia cinética e assim por diante"
+   },
+   "resposta": "a",
+   "explicacao": "Quando v → c, o denominador √(1 − v²/c²) tende a zero e o fator de Lorentz cresce sem limite; com ele, (γ − 1)mc². É por isso que a relatividade restrita põe a velocidade da luz como limite inatingível para corpos com massa. A expressão ½mv² de (d) é a aproximação válida só para v ≪ c.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-458",
+   "texto_apoio": "Um múon criado a 6,0 km de altitude chega ao chão. No referencial da Terra, essa é a distância que ele percorre; no referencial do múon, quem se aproxima é o chão, e o fator de Lorentz do movimento vale γ = 5,0.",
+   "enunciado": "No referencial em que o múon está parado, a espessura de atmosfera que passa por ele mede:",
+   "alternativas": {
+    "a": "0,24 km",
+    "b": "3,0 km",
+    "c": "30 km",
+    "d": "6,0 km",
+    "e": "1,2 km"
+   },
+   "resposta": "e",
+   "explicacao": "É a contração do comprimento vista do outro lado: d = d₀/γ = 6,0/5,0 = 1,2 km. Os dois referenciais concordam que o múon chega ao chão, mas explicam o feito de modos diferentes — a Terra fala em dilatação do tempo de vida, o múon fala em atmosfera encurtada. A alternativa (c) multiplica por γ.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-459",
+   "texto_apoio": "Duas naves cruzam o espaço com velocidade constante uma em relação à outra, motores desligados. Cada tripulação compara, à distância, o relógio da outra nave com o seu.",
+   "enunciado": "O que a relatividade restrita prevê para essa comparação é que:",
+   "alternativas": {
+    "a": "cada tripulação mede o relógio da outra nave andando mais devagar que o seu, e as duas descrições valem igualmente",
+    "b": "apenas a tripulação da nave mais veloz mede o relógio da outra atrasando, porque só ela se encontra de fato em movimento verdadeiro",
+    "c": "os dois relógios marcam intervalos iguais, já que a dilatação do tempo aparece só em movimento acelerado",
+    "d": "cada tripulação mede o relógio da outra adiantando, efeito que se inverte na viagem de volta",
+    "e": "o relógio atrasado é decidido pelo referencial do centro da galáxia, tomado como repouso absoluto"
+   },
+   "resposta": "a",
+   "explicacao": "O efeito é recíproco porque os dois são referenciais inerciais e nenhum deles tem estatuto privilegiado: cada um mede o relógio do outro atrasando. Não há contradição, pois comparar relógios distantes exige convencionar simultaneidade, e é justamente aí que os dois discordam. A alternativa (e) ressuscita o referencial absoluto que a relatividade restrita dispensa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-460",
+   "texto_apoio": "Uma lâmpada de leitura emite luz alaranjada de comprimento de onda 6,0 × 10⁻⁷ m. Adote a constante de Planck h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "A energia transportada por um único fóton dessa luz é de aproximadamente:",
+   "alternativas": {
+    "a": "1,1 × 10⁻²⁷ J",
+    "b": "3,3 × 10⁻¹⁹ J",
+    "c": "6,6 × 10⁻¹⁹ J",
+    "d": "1,7 × 10⁻¹⁹ J",
+    "e": "1,2 × 10⁻³¹ J"
+   },
+   "resposta": "b",
+   "explicacao": "A energia do fóton é E = hf, e como f = c/λ, vale E = hc/λ = (6,63 × 10⁻³⁴ × 3,0 × 10⁸)/(6,0 × 10⁻⁷) ≈ 3,3 × 10⁻¹⁹ J. A alternativa (a) esquece de multiplicar por c; a (e) multiplica por λ em vez de dividir. Repare que a energia é o quantum de energia da radiação: o feixe entrega múltiplos inteiros desse valor, não uma quantidade contínua.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-461",
+   "texto_apoio": "Sobre uma placa metálica cuja função trabalho do metal vale φ = 3,0 × 10⁻¹⁹ J incide luz de frequência 1,0 × 10¹⁵ Hz. Adote h = 6,63 × 10⁻³⁴ J·s.",
+   "enunciado": "Pela equação do efeito fotoelétrico, a energia cinética máxima dos elétrons ejetados dessa placa é de:",
+   "alternativas": {
+    "a": "3,6 × 10⁻¹⁹ J",
+    "b": "6,6 × 10⁻¹⁹ J",
+    "c": "9,6 × 10⁻¹⁹ J",
+    "d": "3,0 × 10⁻¹⁹ J",
+    "e": "2,0 × 10⁻¹⁹ J"
+   },
+   "resposta": "a",
+   "explicacao": "Ec(máx) = hf − φ = 6,63 × 10⁻¹⁹ − 3,0 × 10⁻¹⁹ = 3,6 × 10⁻¹⁹ J. A alternativa (b) é a energia do fóton incidente e esquece de descontar a função trabalho do metal, que é o erro mais comum aqui; a (c) adiciona φ em vez de subtrair.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-462",
+   "texto_apoio": "A função trabalho de um metal usado em células fotoelétricas vale φ = 4,0 × 10⁻¹⁹ J. Adote h = 6,63 × 10⁻³⁴ J·s.",
+   "enunciado": "A frequência de corte desse metal — a menor frequência capaz de arrancar elétrons dele por efeito fotoelétrico — vale aproximadamente:",
+   "alternativas": {
+    "a": "1,7 × 10⁻¹⁵ Hz",
+    "b": "2,7 × 10⁻⁵² Hz",
+    "c": "6,0 × 10⁸ Hz",
+    "d": "6,0 × 10¹⁴ Hz",
+    "e": "1,2 × 10¹⁵ Hz"
+   },
+   "resposta": "d",
+   "explicacao": "No limiar, o fóton entrega exatamente a função trabalho do metal e o elétron sai com energia cinética nula: hf₀ = φ, logo f₀ = φ/h = 4,0 × 10⁻¹⁹ / 6,63 × 10⁻³⁴ ≈ 6,0 × 10¹⁴ Hz. A alternativa (a) inverte a divisão; a (b) multiplica. Abaixo de f₀ não há emissão por mais que se aumente a intensidade do feixe.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-463",
+   "texto_apoio": "Num experimento de efeito fotoelétrico mede-se a energia cinética máxima dos elétrons ejetados de uma placa para vários valores de frequência da luz incidente. Os pontos obtidos se alinham numa reta.",
+   "enunciado": "A inclinação dessa reta corresponde:",
+   "alternativas": {
+    "a": "à intensidade do feixe de luz que ilumina a placa, grandeza que fixa quantos elétrons saem por segundo mas não a energia de cada um",
+    "b": "à função trabalho do metal, valor que muda de um metal para outro",
+    "c": "à frequência de corte do metal usado na placa",
+    "d": "ao produto da carga do elétron pelo potencial de corte medido",
+    "e": "à constante de Planck, valor que não muda de um metal para outro"
+   },
+   "resposta": "e",
+   "explicacao": "A equação Ec(máx) = hf − φ é a de uma reta em f: a inclinação é h e o coeficiente linear é −φ. Trocar o metal desloca a reta para os lados, mas mantém a inclinação — foi assim que Millikan mediu h a partir do efeito fotoelétrico. A alternativa (b) confunde inclinação com intercepto.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-464",
+   "texto_apoio": "No mesmo gráfico da energia cinética máxima dos elétrons ejetados contra a frequência da luz incidente, a reta é prolongada até cruzar o eixo vertical, num valor negativo.",
+   "enunciado": "Esse valor negativo corresponde:",
+   "alternativas": {
+    "a": "ao simétrico da constante de Planck, com o sinal trocado pela escolha da escala do eixo vertical do gráfico",
+    "b": "à energia cinética máxima obtida na própria frequência de corte do metal",
+    "c": "ao simétrico da função trabalho do metal, isto é, a −φ",
+    "d": "ao produto da carga do elétron pela frequência de corte da placa",
+    "e": "à energia do fóton incidente de menor comprimento de onda entre os usados na medida"
+   },
+   "resposta": "c",
+   "explicacao": "Em Ec(máx) = hf − φ, fazer f = 0 dá Ec = −φ. O ponto é matemático, não físico: com f = 0 não há emissão nenhuma. A alternativa (b) descreve o cruzamento com o eixo HORIZONTAL, onde Ec = 0 e f = f₀; é o outro intercepto da mesma reta.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-465",
+   "texto_apoio": "Sobre uma placa metálica incide luz monocromática de frequência acima da frequência de corte. Um circuito registra ao mesmo tempo quantos elétrons ejetados chegam ao coletor por segundo e qual a energia cinética máxima deles.",
+   "enunciado": "Dobrando a intensidade do feixe e mantendo a mesma frequência, o experimento passa a registrar:",
+   "alternativas": {
+    "a": "o dobro de elétrons por segundo, com a mesma energia cinética máxima de antes",
+    "b": "o mesmo número de elétrons por segundo, com o dobro da energia cinética máxima",
+    "c": "o dobro de elétrons por segundo e também o dobro da energia cinética máxima",
+    "d": "metade dos elétrons por segundo, porque cada fóton passa a carregar menos energia",
+    "e": "emissão nenhuma, porque a intensidade maior aquece a placa e eleva a função trabalho do metal acima da energia do fóton incidente"
+   },
+   "resposta": "a",
+   "explicacao": "Dobrar a intensidade dobra o número de fótons por segundo, e cada fóton arranca um elétron: a corrente dobra. Mas a energia de cada fóton depende só da frequência, então Ec(máx) = hf − φ não muda. Essa separação entre quantidade e energia é justamente o que o modelo ondulatório da luz não conseguia explicar.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-466",
+   "texto_apoio": "A função trabalho de um metal vale φ = 3,0 × 10⁻¹⁹ J. Adote h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O maior comprimento de onda capaz de arrancar elétrons desse metal por efeito fotoelétrico é de aproximadamente:",
+   "alternativas": {
+    "a": "2,2 × 10⁻⁷ m",
+    "b": "6,6 × 10⁻⁷ m",
+    "c": "3,3 × 10⁻⁷ m",
+    "d": "1,3 × 10⁻⁶ m",
+    "e": "7,4 × 10⁻²⁴ m"
+   },
+   "resposta": "b",
+   "explicacao": "No limiar hc/λ₀ = φ, então λ₀ = hc/φ = 1,989 × 10⁻²⁵ / 3,0 × 10⁻¹⁹ ≈ 6,6 × 10⁻⁷ m. Comprimento de onda MAIOR significa frequência menor, e abaixo da frequência de corte não há emissão — daí o limiar aparecer como um máximo em λ e um mínimo em f.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-467",
+   "texto_apoio": "Numa célula fotoelétrica aplica-se uma tensão contrária que freia os elétrons ejetados; a tensão que anula a corrente é o potencial de corte V₀, e vale e·V₀ = Ec(máx). Num ensaio, a energia cinética máxima medida foi de 3,2 × 10⁻¹⁹ J. Adote e = 1,6 × 10⁻¹⁹ C.",
+   "enunciado": "O potencial de corte desse ensaio vale:",
+   "alternativas": {
+    "a": "0,50 V",
+    "b": "1,0 V",
+    "c": "3,2 V",
+    "d": "2,0 V",
+    "e": "5,0 V"
+   },
+   "resposta": "d",
+   "explicacao": "V₀ = Ec(máx)/e = 3,2 × 10⁻¹⁹ / 1,6 × 10⁻¹⁹ = 2,0 V. A alternativa (c) trata o número 3,2 como se já estivesse em volts, erro de quem mistura joule com elétron-volt no meio da conta. Medir V₀ é a forma prática de obter Ec(máx) no efeito fotoelétrico sem detectar cada elétron.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-468",
+   "texto_apoio": "A radiação ultravioleta danifica o DNA das células da pele e responde pelo risco de câncer cutâneo. A luz visível chega ao chão em quantidade muito maior ao meio-dia e não produz esse dano.",
+   "enunciado": "No modelo em que a luz é feita de fótons, a explicação para essa diferença é que:",
+   "alternativas": {
+    "a": "o fóton ultravioleta tem comprimento de onda maior e por isso penetra mais fundo na pele",
+    "b": "a luz visível chega em fótons mais numerosos, e o dano cresce com o número de fótons por segundo",
+    "c": "cada fóton ultravioleta carrega mais energia que um fóton visível, e o dano depende da energia por fóton",
+    "d": "o fóton ultravioleta se propaga mais devagar e fica mais tempo em contato com a célula",
+    "e": "os dois tipos de fóton carregam a mesma energia, e o que muda é apenas a intensidade da radiação que chega ao chão ao meio-dia"
+   },
+   "resposta": "c",
+   "explicacao": "Como E = hf, o ultravioleta (frequência maior) entrega pacotes de energia maiores, suficientes para quebrar ligações do DNA; o visível entrega muitos pacotes pequenos, e pacote pequeno não se acumula numa molécula. É o mesmo raciocínio do efeito fotoelétrico, em que a frequência de corte separa a luz que arranca elétrons da que não arranca por mais intensa que seja.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-469",
+   "texto_apoio": "Um átomo excitado decai de um nível de energia para outro, mais baixo, e a diferença entre os dois níveis vale 4,42 × 10⁻¹⁹ J. Adote h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O comprimento de onda do fóton emitido nessa transição é de aproximadamente:",
+   "alternativas": {
+    "a": "1,5 × 10⁻¹⁵ m",
+    "b": "2,2 × 10⁻⁷ m",
+    "c": "9,0 × 10⁻⁷ m",
+    "d": "6,6 × 10⁻⁷ m",
+    "e": "4,5 × 10⁻⁷ m"
+   },
+   "resposta": "e",
+   "explicacao": "ΔE = hc/λ, então λ = hc/ΔE = 1,989 × 10⁻²⁵ / 4,42 × 10⁻¹⁹ ≈ 4,5 × 10⁻⁷ m — luz azul. A alternativa (a) esquece o c. Como os níveis do átomo são discretos, as diferenças possíveis também são, e é daí que vem o espectro de linhas: cada quantum de energia emitido corresponde a uma cor bem definida.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-470",
+   "texto_apoio": "Num LED, o elétron atravessa uma barreira de energia da ordem de 2,0 eV e a diferença é entregue de uma vez a um fóton. Adote 1 eV = 1,6 × 10⁻¹⁹ J, h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O comprimento de onda da luz emitida por esse LED é de aproximadamente:",
+   "alternativas": {
+    "a": "622 nm",
+    "b": "310 nm",
+    "c": "1240 nm",
+    "d": "450 nm",
+    "e": "780 nm"
+   },
+   "resposta": "a",
+   "explicacao": "2,0 eV = 3,2 × 10⁻¹⁹ J, e λ = hc/E = 1,989 × 10⁻²⁵ / 3,2 × 10⁻¹⁹ ≈ 6,2 × 10⁻⁷ m = 622 nm, luz vermelho-alaranjada. A alternativa (b) divide o resultado por dois, erro de quem usa 2h em vez de h; a (c) trata o 2,0 como se já estivesse em joules. Um LED só acende acima de uma tensão mínima justamente porque abaixo dela o elétron não junta a energia de um fóton inteiro.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-471",
+   "texto_apoio": "Num tubo de raios X de uso radiológico, elétrons acelerados por uma tensão de 50 kV chocam-se contra o alvo. No caso extremo, um elétron entrega de uma vez toda a energia que ganhou a um único fóton. Adote e = 1,6 × 10⁻¹⁹ C, h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O menor comprimento de onda presente no feixe produzido por esse tubo é de aproximadamente:",
+   "alternativas": {
+    "a": "1,2 × 10⁻¹⁰ m",
+    "b": "2,5 × 10⁻⁹ m",
+    "c": "8,0 × 10⁻¹⁵ m",
+    "d": "2,5 × 10⁻¹¹ m",
+    "e": "4,0 × 10⁻¹¹ m"
+   },
+   "resposta": "d",
+   "explicacao": "A energia máxima do fóton é eU = 1,6 × 10⁻¹⁹ × 5,0 × 10⁴ = 8,0 × 10⁻¹⁵ J, e λ(mín) = hc/eU = 1,989 × 10⁻²⁵ / 8,0 × 10⁻¹⁵ ≈ 2,5 × 10⁻¹¹ m. A alternativa (c) devolve a energia, não o comprimento de onda. O corte abrupto do espectro nesse valor é a assinatura da quantização: sem ela, o feixe se estenderia indefinidamente para comprimentos menores.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-472",
+   "texto_apoio": "Um apontador laser entrega 2,0 × 10⁻³ joule por segundo em luz de comprimento de onda 6,0 × 10⁻⁷ m. Adote h = 6,63 × 10⁻³⁴ J·s e, para a velocidade da luz no vácuo, 3,0 × 10⁸ m/s.",
+   "enunciado": "O número de fótons que esse apontador emite por segundo é de aproximadamente:",
+   "alternativas": {
+    "a": "6,0 × 10¹² por segundo",
+    "b": "6,0 × 10¹⁵ por segundo",
+    "c": "3,0 × 10¹⁵ por segundo",
+    "d": "1,2 × 10¹⁶ por segundo",
+    "e": "6,6 × 10⁻²² por segundo"
+   },
+   "resposta": "b",
+   "explicacao": "Cada fóton vale E = hc/λ ≈ 3,3 × 10⁻¹⁹ J, e o feixe entrega 2,0 × 10⁻³ J a cada segundo, logo N = 2,0 × 10⁻³ / 3,3 × 10⁻¹⁹ ≈ 6,0 × 10¹⁵. A alternativa (e) multiplica em vez de dividir. O número é tão grande que o feixe parece contínuo: a granularidade da luz só aparece em experiências de contagem individual.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-473",
+   "texto_apoio": "Um elétron de um microscópio eletrônico tem momento linear de módulo 2,0 × 10⁻²⁴ kg·m/s. Adote h = 6,63 × 10⁻³⁴ J·s.",
+   "enunciado": "O comprimento de onda de De Broglie associado a esse elétron, λ = h/p, é de aproximadamente:",
+   "alternativas": {
+    "a": "1,3 × 10⁻⁵⁷ m",
+    "b": "3,0 × 10⁹ m",
+    "c": "3,3 × 10⁻¹⁰ m",
+    "d": "6,6 × 10⁻¹⁰ m",
+    "e": "1,7 × 10⁻¹⁰ m"
+   },
+   "resposta": "c",
+   "explicacao": "λ = h/p = 6,63 × 10⁻³⁴ / 2,0 × 10⁻²⁴ ≈ 3,3 × 10⁻¹⁰ m, da ordem do tamanho de um átomo. A alternativa (a) multiplica em vez de dividir; a (b) inverte a razão e devolve um número gigantesco, incompatível com um comprimento. É essa onda de matéria que dá ao elétron o comportamento difrativo previsto pela dualidade onda-partícula.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-474",
+   "texto_apoio": "Um microscópio óptico não separa detalhes menores que o comprimento de onda da luz que usa, cerca de 5 × 10⁻⁷ m. Um microscópio eletrônico enxerga estruturas milhares de vezes menores, como a membrana de uma organela.",
+   "enunciado": "A razão física desse ganho de resolução é que:",
+   "alternativas": {
+    "a": "o feixe de elétrons tem intensidade maior e ilumina melhor a amostra observada",
+    "b": "o comprimento de onda de De Broglie do elétron acelerado é muito menor que o da luz visível",
+    "c": "o elétron viaja acima da velocidade da luz e alcança detalhes que a luz não alcança",
+    "d": "o elétron não tem comportamento ondulatório, e por isso escapa da limitação imposta pelo comprimento de onda",
+    "e": "o elétron carrega carga e é atraído pelo núcleo dos átomos da amostra, desenhando o contorno deles no detector"
+   },
+   "resposta": "b",
+   "explicacao": "O limite de resolução é da ordem do comprimento de onda usado. Acelerado por alguns milhares de volts, o elétron tem λ = h/mv da ordem de 10⁻¹¹ m, quatro ordens de grandeza abaixo da luz visível. A alternativa (c) é impossível de sustentar: a velocidade da luz é o teto para partículas com massa.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-475",
+   "enunciado": "Um próton e um elétron se movem com a mesma velocidade. Comparando os comprimentos de onda de De Broglie associados a eles, λ = h/mv, conclui-se que:",
+   "alternativas": {
+    "a": "o do próton é maior, porque a massa dele é maior",
+    "b": "os dois são iguais, porque λ depende só da velocidade das partículas",
+    "c": "o do próton é maior, porque ele carrega mais energia cinética nessa situação",
+    "d": "os dois são iguais, porque a constante de Planck é a mesma para as duas partículas e é ela quem fixa o comprimento de onda",
+    "e": "o do elétron é maior, porque a massa dele é menor"
+   },
+   "resposta": "e",
+   "explicacao": "Com a mesma velocidade, quem tem menos massa tem o produto mv menor, e λ = h/mv é inversamente proporcional a ele. O próton tem massa cerca de 1836 vezes maior, então seu comprimento de onda de De Broglie é 1836 vezes menor. Só perto da velocidade da luz seria preciso trocar mv pela expressão relativística. A dualidade onda-partícula fica imperceptível em corpos macroscópicos exatamente por esse motivo: massa grande, λ minúsculo.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-476",
+   "texto_apoio": "Sondas com vela solar são empurradas pela luz do Sol, sem carregar combustível. Cada fóton que atinge a vela e volta transfere momento linear a ela.",
+   "enunciado": "Que a luz consiga empurrar a vela mostra que:",
+   "alternativas": {
+    "a": "o fóton carrega momento linear e o transfere à vela, apesar de sua energia de repouso ser nula",
+    "b": "o fóton tem uma massa de repouso pequena, e é ela que produz o empurrão sobre a vela",
+    "c": "o empurrão vem do vento de partículas do Sol, e a luz em si não exerce força alguma",
+    "d": "o empurrão vem do aquecimento da vela, que evapora material da superfície e produz reação",
+    "e": "a luz transfere carga elétrica à vela, e a repulsão entre cargas de mesmo sinal afasta a sonda do Sol"
+   },
+   "resposta": "a",
+   "explicacao": "Na relatividade restrita, momento e energia se ligam por E² = (pc)² + (mc²)². Para o fóton, cuja energia de repouso é nula, sobra p = E/c: momento sem massa. Refletido pela vela, ele inverte de sentido e entrega o dobro do próprio momento, e a pressão de radiação resultante move a sonda.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-477",
+   "texto_apoio": "Ao atravessar tecido, um fóton de raios X pode ser espalhado por um elétron e seguir viagem com comprimento de onda maior do que tinha antes. É o efeito Compton, responsável por boa parte da dose espalhada numa sala de radiologia.",
+   "enunciado": "Esse aumento do comprimento de onda do fóton espalhado significa que ele:",
+   "alternativas": {
+    "a": "manteve a mesma energia, mudando apenas a direção em que segue",
+    "b": "ganhou energia, porque comprimento de onda maior corresponde a fóton mais energético",
+    "c": "perdeu energia, parte dela entregue ao elétron como energia cinética",
+    "d": "perdeu carga elétrica para o elétron, e com ela parte da sua frequência",
+    "e": "perdeu massa de repouso, convertida em energia cinética do elétron atingido no choque"
+   },
+   "resposta": "c",
+   "explicacao": "Como E = hc/λ, comprimento de onda maior é energia menor: o fóton entregou parte da sua energia ao elétron, que recua. O choque conserva energia e momento como o de duas bolas, e foi essa a evidência que consolidou o fóton como partícula. A alternativa (e) não se sustenta porque o fóton não tem energia de repouso a perder.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-478",
+   "texto_apoio": "Elétrons ejetados de um filamento aquecido formam um feixe tão fraco que atravessam uma barreira de duas fendas praticamente um a um. Cada um marca um ponto isolado na tela; depois de milhões de impactos, os pontos desenham franjas claras e escuras.",
+   "enunciado": "Esse resultado é apresentado como demonstração:",
+   "alternativas": {
+    "a": "de que o elétron é apenas uma onda, já que só ondas produzem franjas numa tela",
+    "b": "de que os elétrons colidem entre si dentro do aparelho e assim se organizam nas franjas",
+    "c": "de que a tela brilha por conta própria nos pontos de impacto, formando o padrão observado",
+    "d": "da dualidade onda-partícula: cada elétron chega como grão isolado, mas a estatística dos impactos desenha um padrão de interferência",
+    "e": "de que cada elétron passa por uma fenda de cada vez e o padrão nasce de duas faixas iluminadas justapostas, uma para cada fenda que se deixou aberta"
+   },
+   "resposta": "d",
+   "explicacao": "Os dois lados aparecem no mesmo experimento: a chegada é sempre pontual, típica de partícula, e a distribuição das chegadas é a de uma onda que passou pelas duas fendas. Fechar uma das fendas destrói o padrão, o que elimina a alternativa (e). O mesmo experimento feito com fótons dá o mesmo desenho.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-479",
+   "texto_apoio": "Num gráfico da energia de ligação por núcleon contra o número de massa, a curva sobe rápido entre os núcleos leves, atinge o máximo na região do ferro-56 e depois cai lentamente até o urânio.",
+   "enunciado": "Desse formato de curva decorre que:",
+   "alternativas": {
+    "a": "o ferro-56 é o núcleo que mais facilmente se parte, justamente por ocupar o máximo da curva",
+    "b": "núcleos leves liberam energia ao se fundir e núcleos pesados liberam energia ao se partir",
+    "c": "núcleos leves liberam energia ao se partir e núcleos pesados liberam energia ao se fundir",
+    "d": "apenas a fissão libera energia, seja qual for a região da curva em que o núcleo se encontre",
+    "e": "a energia de ligação por núcleon cresce indefinidamente com o número de massa e não apresenta máximo"
+   },
+   "resposta": "b",
+   "explicacao": "Libera energia todo processo que empurra os núcleos para o topo da curva: fusão vindo da esquerda, fissão vindo da direita. A energia sai da massa que desaparece na reação, convertida pela relação E = mc² com o quadrado da velocidade da luz. Por estar no máximo, o ferro-56 não libera energia nem partindo nem se fundindo — o contrário do que diz (a).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-480",
+   "texto_apoio": "Na fissão de um núcleo de urânio-235, os fragmentos produzidos têm massa total 3,0 × 10⁻²⁸ kg menor que a do núcleo original. Adote para a velocidade da luz no vácuo 3,0 × 10⁸ m/s.",
+   "enunciado": "A energia liberada nessa fissão, pela relação E = mc², é de aproximadamente:",
+   "alternativas": {
+    "a": "9,0 × 10⁻²⁰ J",
+    "b": "2,7 × 10⁻¹⁰ J",
+    "c": "1,4 × 10⁻¹¹ J",
+    "d": "5,4 × 10⁻¹¹ J",
+    "e": "2,7 × 10⁻¹¹ J"
+   },
+   "resposta": "e",
+   "explicacao": "E = Δm·c² = 3,0 × 10⁻²⁸ × 9,0 × 10¹⁶ = 2,7 × 10⁻¹¹ J, cerca de 170 MeV — o valor típico por fissão. A alternativa (a) usa c em vez de c². Multiplicada pelo número de núcleos de um quilograma de combustível, essa energia por evento é o que separa a escala nuclear da escala química.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-481",
+   "texto_apoio": "No núcleo do Sol, quatro núcleos de hidrogênio acabam formando um núcleo de hélio. O hélio produzido tem massa menor que a dos quatro hidrogênios que entraram na conta.",
+   "enunciado": "A relação entre essa perda de massa e o brilho do Sol é que:",
+   "alternativas": {
+    "a": "a massa que falta virou energia segundo E = mc², e é essa energia que a estrela irradia",
+    "b": "a massa que falta foi expelida como poeira e não entra no balanço energético da estrela",
+    "c": "a massa se conserva no processo, e a energia irradiada vem da queima química do hidrogênio",
+    "d": "a energia irradiada vem da contração gravitacional, e a massa que falta é erro de medida",
+    "e": "a massa que falta reaparece como energia de repouso dos neutrinos emitidos, sem contribuir para o brilho observado"
+   },
+   "resposta": "a",
+   "explicacao": "A cada quilograma de hidrogênio fundido, cerca de 7 gramas desaparecem da balança e reaparecem como energia, multiplicados pelo quadrado da velocidade da luz. A alternativa (c) foi a hipótese do século XIX e dava ao Sol alguns milhares de anos de vida — quatro ordens de grandeza abaixo da idade geológica da Terra.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-482",
+   "texto_apoio": "No exame PET, um radiofármaco emite pósitrons. Cada pósitron encontra um elétron do tecido e os dois desaparecem, dando lugar a dois fótons de 0,511 MeV que partem em sentidos opostos e são captados pelo anel de detectores.",
+   "enunciado": "O valor 0,511 MeV de cada fóton corresponde:",
+   "alternativas": {
+    "a": "à energia cinética que o pósitron tinha ao ser emitido pelo radiofármaco",
+    "b": "à energia de ligação do elétron ao átomo de onde ele saiu",
+    "c": "à energia de repouso do elétron, obtida por E = mc²",
+    "d": "à metade da energia de repouso do próton que permanece no núcleo após a emissão",
+    "e": "à energia do fóton de raios X que o anel de detectores emite para localizar o ponto de origem do sinal"
+   },
+   "resposta": "c",
+   "explicacao": "A massa do elétron equivale a 0,511 MeV. Na aniquilação, a energia de repouso das duas partículas (0,511 MeV cada) sai como dois fótons de mesma energia em sentidos opostos, o que conserva momento. É a emissão em sentidos opostos que permite ao anel traçar a reta em que o evento ocorreu e reconstruir a imagem.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-483",
+   "texto_apoio": "No fim do século XIX, a física clássica previa que um corpo aquecido deveria irradiar energia sem limite nas frequências mais altas — previsão que os experimentos desmentiam. Em 1900, Planck contornou o impasse supondo que a troca de energia entre matéria e radiação se dá em pacotes.",
+   "enunciado": "A hipótese de Planck consiste em admitir que:",
+   "alternativas": {
+    "a": "a energia trocada pode assumir valor contínuo, desde que a frequência envolvida seja baixa",
+    "b": "a energia do corpo aquecido depende só da sua massa, e não da frequência da radiação emitida",
+    "c": "a matéria absorve radiação em pacotes mas a emite de forma contínua, e isso basta para corrigir a previsão clássica",
+    "d": "a energia trocada entre matéria e radiação é múltipla de um quantum de energia igual a hf",
+    "e": "radiação de frequência alta não é emitida por corpo algum, o que elimina o infinito da previsão clássica"
+   },
+   "resposta": "d",
+   "explicacao": "Ao exigir que a energia venha em múltiplos inteiros de hf, Planck tornou improvável a excitação dos modos de frequência muito alta, e a curva prevista passou a coincidir com a medida. Cinco anos depois Einstein levou a ideia adiante: o pacote não é só um artifício de cálculo, é o fóton, e com ele explicou o efeito fotoelétrico.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-484",
+   "texto_apoio": "Hidrogênio aquecido num tubo emite luz apenas em cores bem determinadas: no espectroscópio aparecem linhas separadas, e não uma faixa contínua de cores.",
+   "enunciado": "A explicação quântica para esse espectro de linhas é que:",
+   "alternativas": {
+    "a": "cada linha corresponde a uma velocidade diferente do elétron dentro do átomo",
+    "b": "os níveis de energia do átomo são discretos, e cada linha é o fóton emitido numa transição entre dois deles",
+    "c": "o átomo emite em cores contínuas, e o espectroscópio filtra parte delas antes do registro",
+    "d": "cada linha corresponde a um isótopo diferente presente na amostra de gás do tubo",
+    "e": "as linhas nascem do encontro entre a radiação emitida por átomos vizinhos, e não da estrutura interna do átomo"
+   },
+   "resposta": "b",
+   "explicacao": "Se a energia do elétron ligado só pode assumir valores discretos, as diferenças entre esses valores também são discretas, e cada diferença fixa o valor hf de um fóton emitido. O espectro de linhas é, portanto, a impressão digital dos níveis de cada elemento — e foi o que o modelo clássico do átomo, com energia contínua, não conseguiu prever.",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "med-fisica-485",
+   "texto_apoio": "Numa sala de radiologia convivem duas radiações feitas de fóton: os raios X, produzidos por elétrons freados num alvo metálico, e os raios gama, emitidos pelo núcleo de átomos radioativos.",
+   "enunciado": "Entre raios X e raios gama de mesma energia, a diferença física está:",
+   "alternativas": {
+    "a": "apenas na origem: um vem da frenagem de elétrons ou da eletrosfera, o outro vem do núcleo",
+    "b": "na rapidez com que atravessam o ar, maior nos raios gama do que nos raios X",
+    "c": "na carga elétrica, positiva nos raios gama e nula nos raios X",
+    "d": "no fato de os raios X serem ondas e os raios gama serem partículas",
+    "e": "na energia de cada fóton, necessariamente maior nos raios gama, seja qual for a fonte usada"
+   },
+   "resposta": "a",
+   "explicacao": "De mesma energia, os dois fótons são fisicamente idênticos: atravessam o vácuo com a velocidade da luz e interagem com o tecido do mesmo modo. O que os nomes registram é a procedência, não uma propriedade. Na prática os gama costumam ser mais energéticos, mas isso é tendência das fontes, não definição — o que derruba (e).",
+   "formato": "direta",
+   "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-moderna",
    "id": "eng-fismoderna-03",
    "enunciado": "Para que o fator de Lorentz γ de uma partícula seja igual a 2, sua velocidade em relação ao referencial do laboratório deve ser aproximadamente:",
    "alternativas": {

@@ -1,7 +1,7 @@
 {
- "gerado": "2026-08-15",
+ "gerado": "2026-08-16",
  "frente": "fisica",
- "total": 471,
+ "total": 510,
  "residuo": [
   "med-fisica-92",
   "med-fisica-136",
@@ -2681,6 +2681,240 @@
    "frenteDestino": "fisica",
    "pontos": 14,
    "margem": 9
+  },
+  "med-fisica-447": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 25,
+   "margem": 21
+  },
+  "med-fisica-448": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 22,
+   "margem": 15
+  },
+  "med-fisica-449": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 30,
+   "margem": 25
+  },
+  "med-fisica-450": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 30,
+   "margem": 25
+  },
+  "med-fisica-451": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 22,
+   "margem": 22
+  },
+  "med-fisica-452": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 22,
+   "margem": 17
+  },
+  "med-fisica-453": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 25,
+   "margem": 20
+  },
+  "med-fisica-454": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 27,
+   "margem": 19
+  },
+  "med-fisica-455": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 32,
+   "margem": 25
+  },
+  "med-fisica-456": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 15
+  },
+  "med-fisica-457": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 37,
+   "margem": 32
+  },
+  "med-fisica-458": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 25,
+   "margem": 21
+  },
+  "med-fisica-459": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 22,
+   "margem": 15
+  },
+  "med-fisica-460": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 17,
+   "margem": 7
+  },
+  "med-fisica-461": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 10
+  },
+  "med-fisica-462": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 15
+  },
+  "med-fisica-463": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 10
+  },
+  "med-fisica-464": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 10
+  },
+  "med-fisica-465": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 10
+  },
+  "med-fisica-466": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 25,
+   "margem": 15
+  },
+  "med-fisica-467": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 11
+  },
+  "med-fisica-468": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 10
+  },
+  "med-fisica-469": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 17,
+   "margem": 7
+  },
+  "med-fisica-470": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 17,
+   "margem": 7
+  },
+  "med-fisica-471": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 17,
+   "margem": 7
+  },
+  "med-fisica-472": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 17,
+   "margem": 7
+  },
+  "med-fisica-473": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "med-fisica-474": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 17,
+   "margem": 7
+  },
+  "med-fisica-475": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 17,
+   "margem": 7
+  },
+  "med-fisica-476": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 34,
+   "margem": 24
+  },
+  "med-fisica-477": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 22,
+   "margem": 17
+  },
+  "med-fisica-478": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 20,
+   "margem": 10
+  },
+  "med-fisica-479": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-fisica-480": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 10
+  },
+  "med-fisica-481": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 8
+  },
+  "med-fisica-482": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 22,
+   "margem": 17
+  },
+  "med-fisica-483": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "med-fisica-484": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 12,
+   "margem": 7
+  },
+  "med-fisica-485": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "pontos": 17,
+   "margem": 7
   },
   "eng-fismoderna-01": {
    "subtema": "fisica-mecanica",

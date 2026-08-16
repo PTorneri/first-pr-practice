@@ -779,7 +779,10 @@ if ($chuteBase -and -not $AtualizarChutabilidade) {
     }
   }
 }
-else {
+elseif (-not $chuteBase) {
+  # O 'elseif' não é estilo: com o 'else' solto, rodar COM -AtualizarChutabilidade
+  # caía aqui e mandava rodar com -AtualizarChutabilidade — a única saída que
+  # não podia dizer isso era justamente essa.
   $avisos += "chutabilidade : sem baseline. Rode com -AtualizarChutabilidade para gravar a primeira e ligar a catraca."
 }
 
@@ -843,11 +846,20 @@ if ($avisos.Count -gt 0) {
 # comparando contra um número velho — sem proteger nada. Gravar aqui é
 # seguro porque as duas escritas exigem a flag explícita, e a flag já
 # desliga a comparação da catraca: não existe alarme para apagar.
-if ($AtualizarContagem) {
-  $dir = Split-Path -Parent $contagemPath
+# O ConvertTo-Json do PS 5.1 quebra linha com CRLF, e as baselines estão no
+# repositório em LF. Sem normalizar, regravar uma baseline produz um diff do
+# arquivo inteiro para mudar quatro números.
+function Write-JsonLf {
+  param([string]$caminho, $objeto)
+
+  $dir = Split-Path -Parent $caminho
   if (-not (Test-Path $dir)) { New-Item -ItemType Directory -Force $dir | Out-Null }
-  $txt = $contagemNova | ConvertTo-Json -Depth 5
-  [System.IO.File]::WriteAllText($contagemPath, $txt, [System.Text.UTF8Encoding]::new($false))
+  $txt = ($objeto | ConvertTo-Json -Depth 5) -replace "`r`n", "`n"
+  [System.IO.File]::WriteAllText($caminho, $txt, [System.Text.UTF8Encoding]::new($false))
+}
+
+if ($AtualizarContagem) {
+  Write-JsonLf $contagemPath $contagemNova
   Write-Output ""
   Write-Output "Baseline do tripwire atualizada em data/reescritas/_contagem.json"
 }
@@ -858,13 +870,10 @@ if ($AtualizarChutabilidade) {
   if ($Frente) {
     throw "-AtualizarChutabilidade não funciona junto com -Frente: a baseline é do banco inteiro e seria sobrescrita com uma frente só."
   }
-  $dir = Split-Path -Parent $chutePath
-  if (-not (Test-Path $dir)) { New-Item -ItemType Directory -Force $dir | Out-Null }
   $paraGravar = @{}
   foreach ($k in $chuteNovo.Keys) { $paraGravar[$k] = $chuteNovo[$k] }
   $paraGravar["_global"] = @{ indice = $chuteGlobal; n = $chuteN }
-  $txt = $paraGravar | ConvertTo-Json -Depth 5
-  [System.IO.File]::WriteAllText($chutePath, $txt, [System.Text.UTF8Encoding]::new($false))
+  Write-JsonLf $chutePath $paraGravar
   Write-Output ""
   Write-Output "Baseline de chutabilidade atualizada em data/reescritas/_chutabilidade.json (global: $chuteGlobal%)"
 }

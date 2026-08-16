@@ -80,11 +80,25 @@ O espelho leva a mesma questão **sem o prefixo de trilha no id**:
 
 ## Lendo o verify-banco
 
-A baseline de chutabilidade é global e está defasada — o veredito final reprova
-praticamente todo lote. **Não é sinal de que o seu lote piorou.** Compare a
-frente que você tocou contra `vestibular-<trilha>/data/reescritas/_chutabilidade.json`:
-só houve regressão se aquela frente subiu. As invariantes de forma (5
-alternativas, escada, id duplicado, textoId órfão) valem sempre.
+**`REPROVADO` quer dizer alguma coisa de novo.** Até 16/08/2026 a baseline de
+chutabilidade estava medida sobre uma amostra (150 questões por frente, 1.560 no
+total) enquanto o banco já tinha 4.765, e por isso o veredito reprovava todo
+lote independentemente do que ele contivesse — a orientação da época era ignorar
+o veredito e comparar a frente na mão. Não é mais. As duas baselines foram
+regravadas sobre o banco inteiro e os dois verificadores fecham em `OK`:
+
+| | global | medido sobre |
+|---|---|---|
+| Medicina | 9,2% | 4.765 questões, 14 frentes |
+| Direito (v1) | 9,4% | 2.890 questões, 17 frentes |
+
+Então: se reprovou, olhe. A catraca é **por frente** e tolera 1 ponto, o
+suficiente para o ruído de uma reescrita isolada e não mais que isso. Uma
+`REGRESSÃO de chutabilidade` agora aponta a frente que o seu lote piorou.
+
+Regravar a baseline (`-AtualizarChutabilidade`, que exige rodar sem `-Frente`)
+é dizer "estes números são os certos". Só faça isso quando a subida for
+deliberada — um tell novo na medida, por exemplo. Não use para calar um lote.
 
 ## Erros comuns
 

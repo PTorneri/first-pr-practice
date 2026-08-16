@@ -225,8 +225,25 @@ function Test-Questao {
 
   # Invariante da escada: só cobra de quem está marcado como tal. Sai como
   # aviso até a Fase 6 normalizar as 108 (ver -EscadaEstrita).
+  # Questão real com procedência (campo 'banca') fica FORA, pela mesma razão já
+  # registrada no verificador de Direito: o padrão cobrado aqui foi inferido das
+  # provas que havia no repo, e questão real é a evidência de que ele é
+  # inferido, não um caso a corrigir. Lá quem falsificou a premissa foi a FGV
+  # Unificado 2023.1, oferecendo "II, apenas"; aqui é a Mauá, que enumera cinco
+  # asserções e pede "I, II e V" (eng-atualidades-02) — resposta que nenhuma das
+  # cinco opções do jogo da FGV consegue expressar. Bater a questão no molde
+  # trocaria o jogo que a banca de fato usou, que é o oposto do que a trava
+  # existe para proteger.
+  #
+  # Não é folga grande: das 25 escadas deste banco, 3 têm procedência e 22 são
+  # autorais — e são as autorais que a trava foi criada para vigiar, porque é
+  # delas que vinham as escadas embaralhadas do expand-to-five.ps1.
+  #
+  # Custava caro estar errado: a reprovação acontece ANTES do bloco que grava a
+  # baseline, então uma questão legítima mantinha a catraca de chutabilidade
+  # congelada e o verificador reprovando todo lote.
   $escadaFora = @()
-  if ($q.formato -eq "escada") {
+  if ($q.formato -eq "escada" -and -not $q.banca) {
     if ($n -ne 5) {
       $escadaFora += "$id : escada com $n alternativas"
     } else {
@@ -407,6 +424,19 @@ function Invoke-SelfTest {
 
   $escadaBoa = '{"id":"x-06","formato":"escada","enunciado":"e","alternativas":{"a":"I, apenas","b":"I e II, apenas","c":"II e III, apenas","d":"I e III, apenas","e":"I, II e III"},"resposta":"c","explicacao":"x"}' | ConvertFrom-Json
   if ((Test-Questao $escadaBoa $true).escada.Count -ne 0) { throw "self-test: escada canônica foi reprovada" }
+
+  # a MESMA escada embaralhada, agora com procedência: questão real não é
+  # cobrada no molde inferido (é o caso do eng-atualidades-02, da Mauá)
+  $escadaReal = '{"id":"x-06b","formato":"escada","banca":"maua","enunciado":"e","alternativas":{"a":"I, II e V apenas.","b":"I, II, III, IV e V.","c":"I, III e V apenas.","d":"II, III e IV apenas.","e":"II, III e V apenas."},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
+  if ((Test-Questao $escadaReal $true).escada.Count -ne 0) { throw "self-test: escada de banca real foi cobrada no jogo da FGV" }
+
+  # a isenção é da procedência, não do formato: sem 'banca', a mesma questão volta a reprovar
+  $escadaSemBanca = '{"id":"x-06c","formato":"escada","enunciado":"e","alternativas":{"a":"I, II e V apenas.","b":"I, II, III, IV e V.","c":"I, III e V apenas.","d":"II, III e IV apenas.","e":"II, III e V apenas."},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
+  if ((Test-Questao $escadaSemBanca $true).escada.Count -eq 0) { throw "self-test: escada autoral embaralhada passou" }
+
+  # 'banca' vazia é ausência de procedência, não procedência — não pode isentar
+  $bancaVazia = '{"id":"x-06d","formato":"escada","banca":"","enunciado":"e","alternativas":{"a":"I e II, apenas","b":"I, apenas","c":"I, II e III","d":"II e III, apenas","e":"III, apenas"},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
+  if ((Test-Questao $bancaVazia $true).escada.Count -eq 0) { throw "self-test: banca vazia isentou a escada" }
 
   $visualSemDesc = '{"id":"x-07","enunciado":"e","visual":{"tipo":"charge","arquivo":"assets/v/a.svg"},"alternativas":{"a":"1","b":"2","c":"3","d":"4","e":"5"},"resposta":"a","explicacao":"x"}' | ConvertFrom-Json
   if ((Test-Questao $visualSemDesc $true).erros.Count -eq 0) { throw "self-test: visual sem descricao passou" }
@@ -815,7 +845,10 @@ if ($chuteBase -and -not $AtualizarChutabilidade) {
     }
   }
 }
-else {
+elseif (-not $chuteBase) {
+  # O 'elseif' não é estilo: com o 'else' solto, rodar COM -AtualizarChutabilidade
+  # caía aqui e mandava rodar com -AtualizarChutabilidade — a única saída que
+  # não podia dizer isso era justamente essa.
   $avisos += "chutabilidade : sem baseline. Rode com -AtualizarChutabilidade para gravar a primeira e ligar a catraca."
 }
 
@@ -880,11 +913,21 @@ if ($falhas.Count -gt 0) {
   exit 1
 }
 
-if ($AtualizarContagem) {
-  $dir = Split-Path -Parent $contagemPath
+# O ConvertTo-Json do PS 5.1 quebra linha com CRLF, e as baselines estão no
+# repositório em LF. Sem normalizar, regravar uma baseline produz um diff do
+# arquivo inteiro — 77 linhas trocadas para mudar quatro números — e o próximo
+# a olhar o histórico não consegue ver o que de fato mudou.
+function Write-JsonLf {
+  param([string]$caminho, $objeto)
+
+  $dir = Split-Path -Parent $caminho
   if (-not (Test-Path $dir)) { New-Item -ItemType Directory -Force $dir | Out-Null }
-  $txt = $contagemNova | ConvertTo-Json -Depth 5
-  [System.IO.File]::WriteAllText($contagemPath, $txt, [System.Text.UTF8Encoding]::new($false))
+  $txt = ($objeto | ConvertTo-Json -Depth 5) -replace "`r`n", "`n"
+  [System.IO.File]::WriteAllText($caminho, $txt, [System.Text.UTF8Encoding]::new($false))
+}
+
+if ($AtualizarContagem) {
+  Write-JsonLf $contagemPath $contagemNova
   Write-Output ""
   Write-Output "Baseline do tripwire atualizada em data/reescritas/_contagem.json"
 }
@@ -895,13 +938,10 @@ if ($AtualizarChutabilidade) {
   if ($Frente) {
     throw "-AtualizarChutabilidade não funciona junto com -Frente: a baseline é do banco inteiro e seria sobrescrita com uma frente só."
   }
-  $dir = Split-Path -Parent $chutePath
-  if (-not (Test-Path $dir)) { New-Item -ItemType Directory -Force $dir | Out-Null }
   $paraGravar = @{}
   foreach ($k in $chuteNovo.Keys) { $paraGravar[$k] = $chuteNovo[$k] }
   $paraGravar["_global"] = @{ indice = $chuteGlobal; n = $chuteN }
-  $txt = $paraGravar | ConvertTo-Json -Depth 5
-  [System.IO.File]::WriteAllText($chutePath, $txt, [System.Text.UTF8Encoding]::new($false))
+  Write-JsonLf $chutePath $paraGravar
   Write-Output ""
   Write-Output "Baseline de chutabilidade atualizada em data/reescritas/_chutabilidade.json (global: $chuteGlobal%)"
 }

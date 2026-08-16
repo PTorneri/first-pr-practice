@@ -1,0 +1,58 @@
+{
+    "artes-cultura":  {
+                          "total":  289,
+                          "cinco":  289
+                      },
+    "interpretacao-texto":  {
+                                "total":  255,
+                                "cinco":  255
+                            },
+    "historia":  {
+                     "total":  275,
+                     "cinco":  275
+                 },
+    "filosofia-sociologia":  {
+                                 "total":  302,
+                                 "cinco":  302
+                             },
+    "matematica":  {
+                       "total":  522,
+                       "cinco":  512
+                   },
+    "quimica":  {
+                    "total":  456,
+                    "cinco":  454
+                },
+    "atualidades":  {
+                        "total":  227,
+                        "cinco":  227
+                    },
+    "literatura":  {
+                       "total":  230,
+                       "cinco":  230
+                   },
+    "biologia":  {
+                     "total":  471,
+                     "cinco":  469
+                 },
+    "gramatica":  {
+                      "total":  260,
+                      "cinco":  260
+                  },
+    "ingles":  {
+                   "total":  284,
+                   "cinco":  284
+               },
+    "obras":  {
+                  "total":  360,
+                  "cinco":  360
+              },
+    "geografia":  {
+                      "total":  372,
+                      "cinco":  369
+                  },
+    "fisica":  {
+                   "total":  487,
+                   "cinco":  481
+               }
+}

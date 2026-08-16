@@ -103,8 +103,7 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 | 1d | FGV 2023.1, bloco de Língua Portuguesa e Literatura | 15 | **feito** |
 | **1 — total** | **FGV Unificado 2023.1, sessão completa, 4 cadernos** | **105** | **feito** |
 | 5a | **ITA 2024** — banca nova, trilha de Engenharia | 34 | **feito** (`c25242a`) |
-| 5b | **Mauá** — Física, Química, Biologia, Literatura, Gramática | 44 | **feito** (`9c4587b`, `50e9832`, `0a146bb`) |
-| 5c | Mauá — Humanas (15) e Matemática (36) | 49 | **falta** |
+| 5b | **Mauá** — 92 das 95 aprovadas, as três provas | 92 | **feito** (`9c4587b` … `a546661`) |
 | 2 | FGV 2022.1 + 2021.1 — **162 páginas**, ver o mapa abaixo | ~350 | |
 | 3 | As 113 FGV já transcritas — recuperar o texto de apoio | 113 | |
 | 4 | Insper 2026.1, 2026.1 v.2 e 2026.2 (destravado) | 91+ | |
@@ -146,6 +145,25 @@ entrou no `.gitignore` pela mesma razão das outras: a raiz É o site.
 - **A baseline de chutabilidade está pior do que se pensava.** A de Biologia foi
   gravada com `n: 150`, e a frente tem 471 questões. Os 13,9% que o verify-banco
   acusa são a defasagem dela, não o lote.
+- **A figura do caderno "prova e gabarito" pode ENTREGAR a resposta.** Nos três
+  cadernos da Mauá a opção correta é impressa em cor diferente — laranja na
+  curva, vermelho no rótulo. Para questão de alternativa em TEXTO isso não
+  importa, porque o texto é redigitado; para questão cujas ALTERNATIVAS são
+  desenhos, recortar a figura é inviável. A saída é redesenhar, e ela só serve
+  quando as opções são formas inequívocas: a questão 23 do inverno virou um SVG
+  gerado por fórmula (assintótica, convexa, reta, sigmoide, fortemente convexa),
+  e a 31 ficou de fora porque suas opções diferem por curvatura fina, que
+  redesenhar significaria adivinhar.
+- **`provas.py montar`** junta vários recortes numa figura só, para quando as
+  opções estão espalhadas em duas colunas da página. Resolve a diagramação — não
+  resolve a cor do gabarito.
+- **A rotação das on-line quebra referência POSICIONAL, não só por letra.** "A
+  segunda opção descreve…" fica errado do mesmo jeito que "a alternativa (e)".
+  Escreva a explicação citando o CONTEÚDO da opção.
+- **Questão cuja resposta não se consegue justificar não entra.** A 30 do inverno
+  tem gabarito oficial `c` (R$ 80,00) que não fecha com a aritmética do
+  enunciado; staging e PDF concordam na letra, então não é erro de transcrição.
+  Ficou de fora: a explicação é metade do produto.
 
 O piloto validou o ciclo inteiro e mediu o peso das figuras (ver acima). As
 questões de ITA entram com `dificuldade: "muito dificil"`, porque o banco é

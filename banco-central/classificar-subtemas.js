@@ -1782,6 +1782,95 @@ const REVISADAS = {
   "fuvest-quimica-19": "quimica-equilibrio-acido-base",
   "fuvest-quimica-23": "quimica-atomistica-ligacoes",
   "fuvest-quimica-24": "quimica-organica",
+
+  // Simulado oficial da FUVEST 2027, 1ª edição (abril) -- 31 pinos em 64
+  // questões (48%), acima dos 34-41% dos três cadernos de prova real. O
+  // simulado escolhe deliberadamente contextos híbridos (uma Bienal para
+  // falar de petróleo, uma medalha olímpica para falar de energia), e é
+  // justamente a moldura que o classificador lê.
+
+  // Clarice em citação longa parece teoria da narrativa -- o enunciado fala
+  // em narradora, leitor e desfecho. E Djaimilia caiu em colonial-romantismo
+  // pelo navio negreiro e pelos escravos mortos, sendo autora viva.
+  "fuvest-literatura-26": "literatura-contemporanea",
+  "fuvest-literatura-27": "literatura-contemporanea",
+
+  // Julia Lopes de Almeida (1899) foi para colonial-romantismo, e Rachel de
+  // Queiroz (1937) para realismo-naturalismo: as duas erram por uma geração,
+  // porque a régua do classificador é o vocabulário do enunciado, não a data.
+  "fuvest-literatura-29": "literatura-realismo-naturalismo",
+  "fuvest-literatura-30": "literatura-modernismo",
+
+  // Interpretação pina 5 de 5. Três caíram em gênero-discurso pelo suporte
+  // (canção, artigo de opinião) e duas trocaram ideia central por recursos
+  // de linguagem e vice-versa. É o mesmo padrão do inglês: o subtema de uma
+  // questão de leitura é a habilidade cobrada, e habilidade não deixa
+  // palavra no texto.
+  "fuvest-interpretacao-texto-8": "interpretacao-ideia-central",
+  "fuvest-interpretacao-texto-9": "interpretacao-recursos-linguagem",
+  "fuvest-interpretacao-texto-10": "interpretacao-ideia-central",
+  "fuvest-interpretacao-texto-11": "interpretacao-ideia-central",
+  "fuvest-interpretacao-texto-12": "interpretacao-recursos-linguagem",
+
+  // Reescrever período sem alterar o sentido é sintaxe do período, mas
+  // "sem alteração de sentido" puxa a questão para coesão-semântica.
+  "fuvest-gramatica-3": "gramatica-sintaxe-periodo",
+
+  // "Thrilling" e "step up to the plate" são vocabulário; a primeira caiu em
+  // grammar-structure por "o emprego do adjetivo", e a segunda não pontuou
+  // em lugar nenhum. A analogia do "sistema circulatório do solo" cobra
+  // inferência sobre a função da imagem, não o dado que ela veicula.
+  "fuvest-ingles-22": "ingles-vocabulary",
+  "fuvest-ingles-24": "ingles-vocabulary",
+  "fuvest-ingles-26": "ingles-inference",
+
+  // As independências hispano-americanas caíram em Brasil-colônia por
+  // "colônias" e "colonização".
+  "fuvest-historia-30": "historia-geral-contemporanea",
+
+  // Geografia pina 5 de 9. Saneamento e racismo ambiental foram para
+  // população-urbana pela periferia; o deslizamento de encosta e o mapa de
+  // Harley, para física-clima por "temporais" e "paisagens morfológicas"; o
+  // Delta do Níger, para agrária-econômica por "cadeia produtiva"; e as
+  // hidrovias, para física-clima por "rios navegáveis", quando o que se
+  // cobra ali é volume de carga.
+  "fuvest-geografia-23": "geografia-ambiente-sustentabilidade",
+  "fuvest-geografia-25": "geografia-ambiente-sustentabilidade",
+  "fuvest-geografia-26": "geografia-ambiente-sustentabilidade",
+  "fuvest-geografia-27": "geografia-cartografia",
+  "fuvest-geografia-29": "geografia-agraria-economica",
+
+  // A reclassificação racial no ENEM foi para trabalho-classes por
+  // "desigualdade social", e o viés de proxy dos LLMs, para
+  // conhecimento-lógica por "objetivação" e "critério". Simmel é sociologia,
+  // e as duas tratam de identidade e valor cultural.
+  "fuvest-filosofia-sociologia-18": "sociologia-cultura-identidade",
+  "fuvest-filosofia-sociologia-20": "sociologia-cultura-identidade",
+
+  // Bohr e o redshift caíram em ondas-óptica por "comprimento de onda" e
+  // "efeito Doppler"; o trenó do luge, em mecânica pela pista em declive,
+  // quando a pergunta é de perda de energia por forças não conservativas.
+  "fuvest-fisica-18": "fisica-moderna",
+  "fuvest-fisica-20": "fisica-energia-trabalho",
+
+  // Capsaicina e vacina foram para citologia por "membrana" e "célula"; os
+  // hemípteros da USP, também, por "seiva" -- e é relação ecológica. A do
+  // sapateado não pontuou em subtema nenhum: resistência cardiorrespiratória
+  // não tem vocabulário próprio no banco.
+  "fuvest-biologia-22": "biologia-fisiologia",
+  "fuvest-biologia-23": "biologia-fisiologia",
+  "fuvest-biologia-26": "biologia-ecologia",
+  "fuvest-biologia-29": "biologia-fisiologia",
+
+  // Extração do 1-hexadecanol e combustão da glicose caíram em
+  // estequiometria pelas massas molares, sendo uma de concentração e outra
+  // de termoquímica; o orto/para-nitrofenol foi para orgânica pelo nome dos
+  // compostos, quando se cobra ligação de hidrogênio; e as Blood Falls
+  // foram para soluções por "dissolvidos", sendo oxidação do ferro(II).
+  "fuvest-quimica-27": "quimica-solucoes",
+  "fuvest-quimica-28": "quimica-atomistica-ligacoes",
+  "fuvest-quimica-29": "quimica-termoquimica-cinetica",
+  "fuvest-quimica-30": "quimica-eletroquimica",
 };
 
 // ------------------------------------------------------------------- classificação

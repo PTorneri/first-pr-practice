@@ -3626,6 +3626,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Com A = (0,0) e B = (8,0), o quadrado tem lado 8 e centro (4,4). O prédio tangencia um lado no ponto médio, então seu centro está na perpendicular a esse lado passando pelo ponto médio, a 10 m do centro do quadrado. Tomando o lado x = 8, cujo ponto médio é (8,4), o centro fica em (14,4) — de fato a 10 m de (4,4) — e o raio é a distância até o ponto de tangência, 14 − 8 = 6. A equação é (x − 14)² + (y − 4)² = 36. Nenhuma das outras satisfaz as duas condições: B, C e E têm centros a 14 ou 20 m do centro do quadrado, e D o coloca na origem."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-19",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Quando estudamos a geometria do Globo terrestre, temos que a menor distância entre dois pontos na superfície da Terra é realizada por um arco de grande círculo que passa pelo centro do planeta. Esse conhecimento é essencial para a aviação, pois ao usar a rota ortodrômica (arco de círculo máximo) minimiza-se o consumo de combustível, maximizando a eficiência operacional. Considere que um avião quer fazer uma viagem entre as cidades de Turim (Itália) e Montreal (Canadá), que se encontram aproximadamente na mesma Latitude, 45° Norte, e que a diferença na Longitude pode ser considerada, aproximadamente, para fins de cálculos, 90°.",
+   "enunciado": "Denotando por R o raio da Terra, qual a distância que o avião irá percorrer ao viajar de Turim para Montreal?",
+   "alternativas": {
+    "a": "πR/2",
+    "b": "3πR",
+    "c": "2πR",
+    "d": "πR/4",
+    "e": "πR/3"
+   },
+   "resposta": "e",
+   "explicacao": "A distância é R vezes o ângulo central entre as duas cidades, e esse ângulo sai da lei dos cossenos na esfera: cos θ = sen 45° · sen 45° + cos 45° · cos 45° · cos 90°. O último termo zera, e sobra cos θ = 1/2, ou seja, θ = 60° = π/3. A distância é, portanto, πR/3 — alternativa E. O erro que a questão cobra é seguir o paralelo de 45° em vez do círculo máximo: aí se calcularia (R·cos 45°) × (π/2), que não é nenhuma das opções e é justamente mais longo que a rota ortodrômica. As alternativas A, B, C e D correspondem a frações do círculo máximo que o ângulo de 60° não produz."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-20",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Deseja-se projetar uma rodovia retilínea r de maneira que passe pelos pontos A(2,3) e B(14,9) em um mapa (escala em km). Uma torre de transmissão está localizada no ponto D(10,6), que representa o centro da torre, e tem um raio de alcance de 5 km, definindo uma área circular C. Para realizar a manutenção dessa torre, uma estrada de serviço s, também retilínea, deve ser construída de maneira que seja perpendicular à rodovia r, partindo do centro da torre D.",
+   "enunciado": "Com base nessas informações, analise as seguintes afirmações:\nI. A equação reduzida da reta r que representa a rodovia é y = (1/2)x + 2.\nII. A distância entre os pontos A e B é 6√5 km.\nIII. A rodovia r intercepta a área circular C em dois pontos distintos.\nIV. A equação da reta que representa a estrada de serviço s perpendicular à rodovia r que passa por D é y = −2x + 26.\nV. A equação da circunferência que representa a área circular C é (x − 10)² + (y − 6)² = 25.\nAssinale a alternativa correta.",
+   "alternativas": {
+    "a": "Apenas I, II e V são verdadeiras.",
+    "b": "Apenas II, III e V são verdadeiras.",
+    "c": "Apenas I, III e IV são verdadeiras.",
+    "d": "Apenas II, IV e V são verdadeiras.",
+    "e": "Todas as afirmações são verdadeiras."
+   },
+   "resposta": "e",
+   "explicacao": "As cinco fecham. O coeficiente angular de r é (9 − 3)/(14 − 2) = 1/2, e com A(2,3) vem y = x/2 + 2 (I). A distância AB é √(12² + 6²) = √180 = 6√5 (II). A perpendicular por D tem coeficiente −2 e passa por (10,6): y = −2x + 26 (IV). A circunferência de centro (10,6) e raio 5 é (x−10)² + (y−6)² = 25 (V). Para III, a distância de D à reta x − 2y + 4 = 0 é |10 − 12 + 4|/√5 = 2/√5 ≈ 0,89, menor que o raio 5, logo há dois pontos de interseção. Alternativa E. As demais só ficam de pé para quem erra a distância ponto-reta em III."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-22",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Duas circunferências são ditas ortogonais quando se interceptam em dois pontos distintos e nesses pontos suas retas tangentes são perpendiculares entre si. Sejam C1 e C2 duas circunferências quaisquer de centro O1 e O2, respectivamente.",
+   "enunciado": "Se C1 e C2 são circunferências ortogonais que se interceptam nos pontos P e Q, é correto afirmar:",
+   "alternativas": {
+    "a": "O2 não pertence à reta tangente à C1 passando por P.",
+    "b": "O triângulo determinado pelos pontos O1, O2 e P é obtuso.",
+    "c": "O quadrilátero de vértices O1, O2, P e Q é um quadrado.",
+    "d": "A reta PQ é mediatriz do segmento O1 O2.",
+    "e": "d(O1, O2)² = r1² + r2², em que d(O1, O2) é a distância entre os pontos O1 e O2 e r1 e r2 são os raios de C1 e C2, respectivamente."
+   },
+   "resposta": "e",
+   "explicacao": "A tangente a uma circunferência é perpendicular ao raio no ponto de contato. Se em P as duas tangentes são perpendiculares entre si, então O1P é perpendicular a O2P — o triângulo O1PO2 é retângulo em P, e Pitágoras dá d(O1,O2)² = r1² + r2². Alternativa E. A alternativa B chama esse triângulo de obtuso, quando ele é retângulo; A nega que O2 esteja na tangente a C1 por P, sendo essa tangente exatamente a reta O2P; C afirma que O1O2PQ é um quadrado, o que exigiria raios iguais e ainda assim daria um quadrado só nesse caso particular; e D põe PQ como mediatriz de O1O2, que só vale se os raios forem iguais."
   }
  ],
  "matematica-financeira": [
@@ -11317,6 +11377,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A condição é 200 × (1,1)ᵗ > 300, ou seja, (1,1)ᵗ > 1,5. Aplicando logaritmo: t · log 1,1 > log 1,5. Ora, log 1,1 = log 11 − log 10 = 1,0414 − 1 = 0,0414; e log 1,5 = log 3 − log 2 = 0,4771 − (1 − 0,6990) = 0,4771 − 0,3010 = 0,1761. Logo t > 0,1761 ÷ 0,0414 ≈ 4,25 semanas — o número de usuários ultrapassa 300 mil no intervalo entre 4 e 6 semanas. Os intervalos menores correspondem a valores de t em que a função ainda não chegou a 1,5 vez o valor inicial."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "fuvest-matematica-21",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A população brasileira vem enfrentando problemas em seu dia a dia devido às mudanças climáticas ocorridas nos últimos tempos. Longos períodos de secas, por exemplo, afetam a distribuição de água dos reservatórios. Pesquisadores brasileiros elaboraram um modelo matemático que contribui para controlar o volume de água dos reservatórios, reduzindo problemas na distribuição de água. O estudo indicou que mudanças nas regras de operação poderiam aumentar o volume mínimo de água armazenada. Uma das equações apresentadas pelos pesquisadores calcula a vazão de água de uma turbina em função de constantes e outras variáveis, como o nível de água do reservatório e a área de abertura da turbina. A essa equação pode-se relacionar uma função real f definida por f(x) = a(bx − c)^0,5, em que a, b, c são coeficientes reais maiores do que 1 e x ≥ c/b.",
+   "enunciado": "Considerando a função g: ℝ₊ → ℝ, definida por g(x) = x^0,5, pode-se afirmar que, partindo de g para chegar em f, a função g sofreu transformações na seguinte ordem:",
+   "alternativas": {
+    "a": "translação horizontal para a direita de b/c, alongamento vertical por fator a, compressão horizontal por fator b.",
+    "b": "translação horizontal para a esquerda de c/b, compressão horizontal por fator b, alongamento vertical por fator a.",
+    "c": "compressão horizontal por fator b, translação horizontal para a esquerda de a/b, alongamento vertical por fator b.",
+    "d": "compressão horizontal por fator b, translação horizontal para a direita de c/b, alongamento vertical por fator a.",
+    "e": "alongamento vertical por fator a, translação horizontal para a esquerda de b/c, compressão horizontal por fator b."
+   },
+   "resposta": "d",
+   "explicacao": "A ordem se lê de dentro para fora do argumento. Trocar x por bx comprime o gráfico horizontalmente pelo fator b: g(bx) = (bx)^0,5. Em seguida, (bx − c) = b(x − c/b) é a mesma compressão deslocada para a direita de c/b — o deslocamento vale c/b, não c, justamente porque já houve a compressão. Por fim, multiplicar por a alonga verticalmente. É a alternativa D. As alternativas B e E deslocam para a esquerda, invertendo o sinal; A e E fazem a translação de b/c em vez de c/b; e C alonga verticalmente por b em vez de a."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "fuvest-matematica-24",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Uma indústria de brinquedos produz 3 tipos de brinquedos (A, B e C) que contêm peças na cor verde em sua montagem. Na produção de 100 peças dos brinquedos A, B e C, utiliza-se, respectivamente, 21, 54 e 39 gramas de corante verde. Além disso, existe uma única máquina que produz essas peças e leva 1 hora na produção das 100 peças do brinquedo A, 3 horas na produção das 100 peças do brinquedo B e 4 horas na produção das 100 peças do brinquedo C. Sabe-se que a indústria utiliza pelo menos 81 gramas de corante verde e que, segundo o manual da máquina que produz as peças, ela pode funcionar no máximo 15 horas por dia, por questão de segurança.",
+   "enunciado": "Denotando por x, y e z a centena de unidade de peças verdes produzidas para os brinquedos A, B e C, respectivamente, as desigualdades que descrevem esta produção são:",
+   "alternativas": {
+    "a": "7x + 18y + 13z ≥ 27 e x + 3y + 4z ≥ 15",
+    "b": "7x + 18y + 13z ≥ 27 e x + 3y + 4z ≤ 15",
+    "c": "7x + 18y + 13z ≤ 27 e x + 3y + 4z ≤ 15",
+    "d": "7x + 54y + 39z ≥ 27 e x + 3y + 4z ≤ 15",
+    "e": "7x + 54y + 39z ≥ 27 e x + 3y + 4z ≥ 15"
+   },
+   "resposta": "b",
+   "explicacao": "Com x, y e z em centenas de peças, o corante gasto é 21x + 54y + 39z, e o enunciado exige pelo menos 81 gramas: 21x + 54y + 39z ≥ 81. Dividindo tudo por 3, 7x + 18y + 13z ≥ 27. O tempo é x + 3y + 4z horas e a máquina só pode funcionar no máximo 15 horas por dia: x + 3y + 4z ≤ 15. Alternativa B. A alternativa A troca o sentido da segunda desigualdade, permitindo passar do limite de segurança; C inverte a primeira, transformando o mínimo de corante em máximo; e D e E dividem apenas o primeiro coeficiente por 3 e deixam 54 e 39 intactos, o que desequilibra a inequação."
   }
  ],
  "matematica-probabilidade": [
@@ -15055,6 +15155,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O primeiro número perfeito é 6, pois 1 + 2 + 3 = 6. A progressão geométrica de razão 3 que começa em 6 é 6, 18, 54, 162, …, e todo termo é 6 × 3ⁿ⁻¹: como o fator 6 é par, o produto é sempre par. A alternativa A falha porque em (2ⁿ − 1) os termos 15 e 63, para n = 4 e n = 6, não são primos; C erra porque 31 é primo, não perfeito; D erra porque, sendo 15 não primo, a proposição de Euclides não se aplica, e 8 × 15 = 120 não é perfeito; e E confunde as sequências, pois as diferenças 2, 4, 8, 16 formam progressão geométrica de razão 2, não aritmética."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "fuvest-matematica-23",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "enunciado": "Em uma determinada competição de jogo de cartas, a regra é que certas cartas possuam valores numéricos que sigam uma progressão aritmética (PA). Definindo que a carta A tem o valor sen(π/12), a carta B tem o valor x, a carta C tem o valor y, a carta D tem o valor z e a carta E tem o valor de sen(75°), qual deve ser o valor de y² − xz para que os números das cartas A, B, C, D e E, nesta ordem, formem uma progressão aritmética (PA)?",
+   "alternativas": {
+    "a": "1",
+    "b": "1/8",
+    "c": "1/16",
+    "d": "1/32",
+    "e": "1/64"
+   },
+   "resposta": "d",
+   "explicacao": "Numa PA de cinco termos, y é o termo central, logo x = y − r e z = y + r. Então y² − xz = y² − (y − r)(y + r) = r², e a pergunta se reduz a achar a razão. Como π/12 rad é 15°, os extremos são sen 15° e sen 75°, e 4r = sen 75° − sen 15°. Pela transformação em produto, sen 75° − sen 15° = 2 · cos 45° · sen 30° = 2 · (√2/2) · (1/2) = √2/2. Daí r = √2/8 e r² = 2/64 = 1/32 — alternativa D. Quem esquece de dividir por 4 chega a 1/2·... e cai nas opções maiores; a resposta não depende de calcular x, y e z separadamente."
   }
  ],
  "matematica-logica-conjuntos": [
@@ -20658,6 +20777,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A água cai em queda livre do bico do bule até a lâmina de água, percorrendo a diferença de alturas D − H. Partindo do repouso, v² = 2g(D − H). Para v = 2 m/s: 4 = 20 × (D − 0,08), o que dá D − 0,08 = 0,20 e D = 0,28 m, ou 28 cm. As alternativas menores saem de esquecer de descontar a lâmina de 8 cm, que daria D = 20 cm, ou de trocar o quadrado da velocidade pela velocidade."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "fuvest-fisica-21",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "enunciado": "Uma esmerilhadeira, constituída de um disco abrasivo acoplado a um motor elétrico, é frequentemente utilizada para cortar superfícies metálicas. Com o motor ligado, o disco de uma esmerilhadeira doméstica é capaz de atingir 600 rotações por minuto. Ao desligar o motor, o disco é desacelerado uniformemente e, após 30 segundos, para completamente. Quantas voltas o disco completa nesse intervalo de tempo?",
+   "alternativas": {
+    "a": "60 voltas.",
+    "b": "100 voltas.",
+    "c": "120 voltas.",
+    "d": "150 voltas.",
+    "e": "180 voltas."
+   },
+   "resposta": "d",
+   "explicacao": "A desaceleração é uniforme, então a velocidade angular cai linearmente de 600 rpm a zero e a velocidade média no intervalo é a metade da inicial: 300 rpm. Em 30 segundos, meio minuto, isso dá 300 × 0,5 = 150 voltas — alternativa D. A alternativa E, 180, sai de multiplicar 600 rpm pelos 30 s inteiros como se não houvesse frenagem, dividido por dois de forma errada; C, 120, e B, 100, resultam de trocar o fator; e A, 60, confunde as 600 rotações por minuto com rotações por segundo. O único cuidado é a unidade: 30 segundos são 0,5 minuto, e a taxa está por minuto."
   }
  ],
  "fisica-termologia": [
@@ -22009,6 +22147,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Como os dois lados são água, o calor específico se cancela e a temperatura de equilíbrio é a média ponderada pelas massas. No primeiro contato: (250 × 100 + 1000 × 25) ÷ 1250 = 50 000 ÷ 1250 = 40 °C. Trocada a água da vasilha, o copo entra a 40 °C no segundo contato: (250 × 40 + 1000 × 25) ÷ 1250 = 35 000 ÷ 1250 = 28 °C. O valor 40 °C (C) é o resultado de parar no primeiro passo; 14 °C ficaria abaixo da temperatura ambiente, o que nenhuma troca de calor entre esses dois corpos produz; e 60 e 84 °C sobrestimam a inércia térmica do copo, que tem um quarto da massa da vasilha."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "fuvest-fisica-17",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Considere os textos a seguir que discorrem sobre copos térmicos: “O que realmente faz nossos produtos se destacarem é o isolamento térmico de ponta. Quase todos os itens da nossa seleção são feitos com dupla parede de aço inox 18/8 (...). E o grande segredo disso está na ciência. Sim, isso mesmo! Em outras palavras, nossos produtos possuem um espaço a vácuo entre as paredes que evita a troca de temperatura com o ambiente externo. Esse é um método inventado pelo nosso fundador, o físico e inventor William Stanley Jr., lá em 1913, quando a marca Stanley foi criada. Na época, as partes internas das garrafas eram feitas de vidro. William descobriu, então, que um processo de soldagem entre duas paredes de aço inox, a vácuo, seria muito mais eficiente.” Disponível em https://www.stanley1913.com.br/blogs/news/tecnologia-stanley/. “Copos térmicos possuem uma barreira extra que impede que as trocas de calor com o ambiente externo aconteçam muito rapidamente. Para isso, dispõem de um truque: possuem paredes duplas, às vezes até mesmo triplas, entre o líquido a superfície externa. Isto é, a segunda parede do copo, que é a de contato direto com o líquido, não está diretamente em contato com o meio externo. Entre essas paredes, há ainda um pequeno espaço vazio – um vácuo.” Disponível em: https://guiadoestudante.abril.com.br/.",
+   "enunciado": "De acordo com os textos e com os seus conhecimentos, é correto afirmar:",
+   "alternativas": {
+    "a": "Uma das funções do aço inox na composição das paredes do copo é o de aumentar a irradiação de calor do interior do copo para o ambiente externo, diminuindo a temperatura no interior do líquido.",
+    "b": "Por ser um metal, o aço inox é um isolante térmico melhor do que o vidro, que é tanto um bom isolante elétrico como um bom condutor de calor.",
+    "c": "A parede dupla de aço inox com camadas reflexivas separadas por uma região de vácuo suprime tanto a condução como a irradiação de calor entre o copo e o ambiente externo.",
+    "d": "A presença de uma região de vácuo entre as paredes de metal não inibe o processo de troca de calor por convecção com o ambiente externo.",
+    "e": "A principal função da região de vácuo entre as paredes do copo é a de suprimir a irradiação de calor do ambiente externo para o interior do recipiente."
+   },
+   "resposta": "c",
+   "explicacao": "O copo térmico ataca os três mecanismos de troca: o vácuo entre as paredes elimina condução e convecção, porque não há meio material para transportar calor, e a superfície metálica reflexiva devolve a radiação. A alternativa C é a única que reconhece a dupla ação — vácuo contra a condução, camadas reflexivas contra a irradiação. A alternativa A faz o aço aumentar a irradiação para fora; B chama o aço de melhor isolante que o vidro e o vidro de bom condutor de calor, invertendo os dois; D afirma que o vácuo não inibe a convecção, quando é exatamente o que ele inibe; e E reduz a função do vácuo à irradiação, deixando de fora a condução."
   }
  ],
  "fisica-ondas-optica": [
@@ -25128,6 +25286,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O texto diz que no plasma as partículas giram em torno das linhas de campo magnético. Só carga elétrica em movimento sofre força magnética, e essa força, sempre perpendicular à velocidade, é o que curva a trajetória em círculo em torno da linha de campo — logo o plasma é feito de partículas carregadas. A alternativa A restringe o mapeamento à direção paralela à polarização, quando o texto diz que o padrão é perpendicular ao campo; B afirma que o olho humano distingue a luz polarizada, e o texto diz o contrário; C atribui o campo a cargas em repouso, que não geram campo magnético; e E estende o método a qualquer onda eletromagnética, quando o que se usa é luz polarizada."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "fuvest-fisica-19",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Uma das hipóteses para explicar a orientação espacial de animais com percursos migratórios longos como tartarugas marinhas é a de que eles possuem cristais de magnetita (Fe3O4) em seus tecidos, permitindo que esses animais detectem variações na direção do campo magnético da Terra próximo à superfície. Em um experimento (Lohmann e Lohmann (1994)), filhotes de tartaruga-cabeçuda (Caretta caretta) foram expostos a um campo magnético de módulo 50 μT e diferentes ângulos de inclinação vertical em relação à superfície. Quando a inclinação era de 60º, as tartarugas interpretavam estar muito ao norte e mudavam sua rota para o sul. Quando a inclinação era de 30º, sentiam estar muito ao sul e ajustavam sua rota ao norte.\n\nNote e adote:\nsen 60º = cos 30º = √3/2 ≈ 0,866\nsen 30º = cos 60º = 1/2",
+   "enunciado": "Qual a variação (em valor absoluto) na componente do campo magnético vertical à superfície da Terra entre os dois ângulos de inclinação utilizados no experimento?",
+   "alternativas": {
+    "a": "18,3 μT",
+    "b": "25 μT",
+    "c": "43,3 μT",
+    "d": "50 μT",
+    "e": "100 μT"
+   },
+   "resposta": "a",
+   "explicacao": "A componente vertical é a projeção do campo sobre a vertical, B·sen θ, porque o ângulo de inclinação é medido em relação à superfície. A 60º ela vale 50 × 0,866 = 43,3 μT; a 30º, 50 × 0,5 = 25 μT. A diferença é 18,3 μT — alternativa A. As demais são os passos intermediários deixados no caminho: C é a componente a 60º, B é a componente a 30º, D é o módulo do campo, que não muda entre as duas situações, e E é o dobro dele. Quem confunde a inclinação com o ângulo em relação à vertical troca seno por cosseno e chega ao mesmo 18,3, mas por compensação, não por acerto."
   }
  ],
  "fisica-hidrostatica": [
@@ -27572,6 +27750,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "No alto, a energia é toda potencial: Ep = mgh = 300 × 10 × 50 = 150 000 J. Embaixo, é toda cinética: Ec = m·v²/2 = 300 × 30² ÷ 2 = 135 000 J. A diferença, 15 000 J, foi dissipada por atrito e resistência do ar. Os valores menores das outras alternativas correspondem a frações que não saem dessa subtração, e 20 000 J suporia uma velocidade final abaixo dos 30 m/s dados."
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "fuvest-fisica-20",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Nos Jogos Olímpicos de Inverno de 2026, a alemã Julia Taubitz ganhou a medalha de ouro no esporte Luge individual feminino com a volta mais rápida de 52,55 s e estimativa de velocidade, na linha de chegada, de 119,4 km/h. A competição ocorreu na pista artificial Eugenio Monti, a qual tem extensão de 1200 m na prova feminina, altitude da largada de 1321 m e altitude de chegada de 1254 m. A atleta, que tem 65 kg, inicia a prova, partindo do repouso, sentada em um pequeno trenó de 23 kg. Inicialmente, ela usa a força do corpo para produzir impulso e ganhar velocidade, percorrendo a pista em declive até a linha de chegada.\n\nNote e adote:\nAceleração da gravidade: g = 10 m/s².\nA definição de energia cinética é a metade do produto da massa pela velocidade ao quadrado, Ecin = (1/2)mv², e a de energia potencial gravitacional é o produto da massa, aceleração da gravidade e altura em relação ao nível de referência, Epot = mgh.",
+   "enunciado": "Usando o movimento de queda livre como referência, qual o porcentual estimado de perda de energia cinética provocado pelas forças não conservativas que atuam no conjunto atleta e trenó entre a linha de largada e a de chegada?",
+   "alternativas": {
+    "a": "Inferior a 5%.",
+    "b": "Igual ou superior a 5%, mas inferior a 10%.",
+    "c": "Igual ou superior a 10%, mas inferior a 15%.",
+    "d": "Igual ou superior a 15%, mas inferior a 20%.",
+    "e": "Igual ou superior a 20%."
+   },
+   "resposta": "d",
+   "explicacao": "O desnível é 1321 − 1254 = 67 m, e a massa do conjunto, 65 + 23 = 88 kg. Em queda livre toda a energia potencial viraria cinética: mgh = 88 × 10 × 67 = 58.960 J. A velocidade real na chegada é 119,4 km/h = 33,17 m/s, o que dá Ecin = (1/2) × 88 × 33,17² ≈ 48.400 J. A perda é (58.960 − 48.400)/58.960 ≈ 17,9%, faixa da alternativa D. A extensão de 1200 m e o tempo de 52,55 s não entram na conta — servem para descrever a prova, e quem tenta usá-los cai nas faixas vizinhas."
   }
  ],
  "fisica-moderna": [
@@ -28843,6 +29041,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A energia cinética do elétron ejetado é a energia do fóton menos a função trabalho: Ec = hf − φ. Só a frequência entra nessa conta pelo lado positivo, então aumentá-la é o único modo de aumentar Ec. A alternativa A aumenta a intensidade, que é o número de fótons: sai mais elétron, cada um com a mesma energia — foi exatamente esse resultado que a física clássica não explicou; B amplia a superfície, o que também só muda a quantidade; D aumenta a função trabalho, subtraindo mais; e E diminui a energia do fóton, reduzindo Ec."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "fuvest-fisica-16",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A produção de energia a partir de fontes renováveis continua a crescer no mundo todo. De acordo com estimativas da Agência Internacional de Energia, 450 GW de nova energia verde seriam instalados em todo o mundo até o final de 2023, dos quais dois terços seriam provenientes de sistemas fotovoltaicos. Esses sistemas funcionam com os módulos fotovoltaicos que convertem a energia recebida do sol em energia elétrica. A radiação solar direta que atinge a superfície da Terra, em um dia claro ao meio-dia, contém um fluxo de aproximadamente 3,0×1021 fótons por segundo por metro quadrado. O comprimento de onda dominante dessa radiação está em torno de 550 nanômetros (nm).\n\nNote e adote:\nCada fóton tem energia diretamente proporcional ao produto da constante de Planck (h) pela velocidade da luz (c) e inversamente proporcional ao comprimento de onda da luz (λ), ou seja, E = hc/λ.\nConstante de Planck: h = 6,6 × 10⁻³⁴ J·s\nVelocidade da luz: c = 3,0 × 10⁸ m/s\nPotência é definida como a quantidade de energia por intervalo de tempo, isto é, P = E/Δt",
+   "enunciado": "Considere um painel fotovoltaico com área de 2,0 m² sob incidência de radiação solar. A eficiência quântica do dispositivo, definida como a razão entre o número de elétrons coletados e o número de fótons incidentes, é de 20%. Qual é a potência elétrica aproximada gerada e como essa eficiência impacta o desempenho do sistema?",
+   "alternativas": {
+    "a": "Exatamente igual a 432 W. A eficiência de 20% significa que um quinto da energia luminosa total é convertida diretamente em eletricidade, sem perdas de calor.",
+    "b": "No máximo igual a 432 W. Apenas 20% dos fótons geram elétrons. Parte da energia de cada fóton é dissipada e transformada em calor, aquecendo o painel.",
+    "c": "Exatamente igual a 2160 W. De acordo com a lei da conservação de energia, toda a luz que atinge o painel deve ser transformada em eletricidade para ser usada na casa.",
+    "d": "Menor que 2160 W. A eficiência de 20% aplica-se apenas à metade do painel que está diretamente voltada para o sol ao meio-dia.",
+    "e": "Exatamente igual a 0 W. O efeito fotovoltaico somente funciona em laboratórios com luzes especiais (lasers) e não pode ser produzido pela luz do sol comum."
+   },
+   "resposta": "b",
+   "explicacao": "A conta fecha em dois passos. A energia de cada fóton é hc/λ = 6,6×10⁻³⁴ × 3,0×10⁸ / 550×10⁻⁹ ≈ 3,6×10⁻¹⁹ J; o painel de 2,0 m² recebe 6,0×10²¹ fótons por segundo, o que dá 2160 W incidentes. Com eficiência quântica de 20%, a potência elétrica é no máximo 432 W. O \"no máximo\" da alternativa B é o que a torna correta: só um quinto dos fótons gera elétron, e a energia dos demais vira calor no painel. A alternativa A dá o mesmo número mas nega as perdas térmicas; C e D usam os 2160 W incidentes como se fossem elétricos; e E nega o efeito fotovoltaico sob luz solar."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "fuvest-fisica-18",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O espectro atômico funciona como uma impressão digital cósmica, pois cada elemento químico emite ou absorve luz em comprimentos de onda específicos e imutáveis. Ao decompor a luz de estrelas e galáxias, os cientistas conseguem identificar esses padrões fixos, que servem como uma régua de comparação absoluta entre o que é observado no laboratório e o que vem das profundezas do espaço. A prova da expansão do universo surgiu quando Edwin Hubble percebeu que essas linhas espectrais em galáxias distantes estavam deslocadas para o vermelho (redshift). Esse fenômeno é análogo ao efeito Doppler sonoro. Como esse padrão se repete em quase todas as direções, conclui-se que o próprio espaço entre as galáxias está em constante expansão. Disponível em https://www.jpl.nasa.gov/edu/resources/. Adaptado.",
+   "enunciado": "Qual das alternativas explica corretamente a relação entre os modelos atômicos e a descoberta de Hubble?",
+   "alternativas": {
+    "a": "As linhas espectrais mudam de posição porque os átomos em galáxias distantes são mais antigos e possuem níveis de energia diferentes dos átomos encontrados atualmente na Via Láctea.",
+    "b": "O modelo atômico de Bohr estabelece que os elétrons emitem fótons em frequências específicas; o deslocamento dessas frequências conhecidas para o vermelho (redshift) comprova o afastamento das galáxias.",
+    "c": "O desvio para o vermelho ocorre porque os átomos das galáxias distantes estão se expandindo fisicamente, tornando-se maiores e alterando a distância entre o núcleo e os elétrons.",
+    "d": "Hubble provou que o hidrogênio nas galáxias distantes possui um espectro de emissão diferente do hidrogênio da Terra, o que invalidou o princípio da universalidade das leis da física.",
+    "e": "As linhas de absorção observadas por Hubble são causadas pela poeira cósmica que desacelera a luz, fazendo com que os fótons percam energia e mudem de cor sem que haja movimento real das galáxias."
+   },
+   "resposta": "b",
+   "explicacao": "A ponte entre as duas descobertas é o modelo de Bohr: os elétrons ocupam níveis de energia definidos e, ao saltarem entre eles, emitem ou absorvem fótons de frequências fixas, iguais em qualquer lugar do universo. É por serem fixas que servem de régua — e é por aparecerem deslocadas para o vermelho que Hubble concluiu o afastamento das galáxias. Alternativa B. A alternativa A supõe átomos distantes com níveis de energia diferentes, o que destruiria a régua; C faz os próprios átomos se expandirem; D declara o espectro do hidrogênio distante diferente do terrestre, invalidando a universalidade que o texto afirma; e E atribui o desvio à poeira cósmica, sem movimento real."
   }
  ],
  "quimica-eletroquimica": [
@@ -30234,6 +30472,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O teste funciona porque o ácido oferece H⁺, de potencial de redução zero: metal com potencial negativo se oxida e se dissolve, metal com potencial acima de zero resiste. Magnésio (−2,37), alumínio (−1,66) e ferro (−0,44) ficam todos abaixo do hidrogênio e seriam dissolvidos, denunciando a falsificação. A platina, com +1,20 V, é mais nobre que o hidrogênio e não é atacada — as raspas permanecem visíveis e o objeto passa por ouro. O F2 não é material de que se faça um objeto: é gás, e aparece na tabela como agente oxidante, não como metal a testar."
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "fuvest-quimica-30",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "No início do século XX, exploradores que atravessavam a Antártida observaram um fenômeno intrigante na geleira Taylor: água de cor avermelhada brotava do gelo, lembrando sangue. O fenômeno ficou conhecido como “Cachoeiras de Sangue” (Blood Falls). Durante muito tempo, acreditou-se que a coloração fosse causada por algas ou microrganismos pigmentados que viviam em reservatórios de água presas abaixo do gelo. Na verdade, análises químicas mostraram que essa água é extremamente rica em íons ferro(II) dissolvidos. Enquanto permanece sob o gelo, em um ambiente sem oxigênio, a água é incolor. No entanto, ao entrar em contato com o ar, ocorre uma reação química rápida, responsável pela coloração vermelha intensa, semelhante à observada na ferrugem e no tom avermelhado do sangue, associado à hemoglobina.",
+   "enunciado": "Do ponto de vista químico, qual reação explica corretamente a origem da coloração vermelha observada nas Blood Falls?",
+   "alternativas": {
+    "a": "Fe²⁺(aq) + 2e⁻ → Fe(s)",
+    "b": "Fe³⁺(aq) + e⁻ → Fe²⁺(aq)",
+    "c": "4Fe²⁺(aq) + O2(g) + 4H⁺(aq) → 4Fe³⁺(aq) + 2H2O(ℓ)",
+    "d": "2Fe(s) + O2(g) + 2H2O(ℓ) → 2Fe²⁺(aq) + 4OH⁻(aq)",
+    "e": "Fe³⁺(aq) + 3OH⁻(aq) → Fe(OH)3(s)"
+   },
+   "resposta": "c",
+   "explicacao": "O texto entrega o mecanismo: sob o gelo, sem oxigênio, a água com ferro(II) é incolor; ao encontrar o ar, a cor aparece. O que o ar traz é o O2, e o que ele faz é oxidar Fe²⁺ a Fe³⁺, íon responsável pelo tom avermelhado da ferrugem. É a alternativa C, a única em que o oxigênio é reagente e o ferro passa de +2 a +3. A alternativa A reduz Fe²⁺ a ferro metálico; B reduz Fe³⁺ a Fe²⁺, o caminho inverso; D parte de ferro metálico, que não é a espécie dissolvida no lago; e E é precipitação de hidróxido, etapa que só faria sentido depois de já existir o Fe³⁺ que a pergunta quer explicar."
   }
  ],
  "quimica-atomistica-ligacoes": [
@@ -31733,7 +31991,7 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "dificuldade": "media",
    "origem": "fuvest",
-   "texto_apoio": "Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons Li+ penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons Li+ intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon- sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta.\n\nNote e adote: Distribuição eletrônica: Li = 1s², 2s¹; Na = 1s², 2s², 2p⁶, 3s¹. Massa atômica (u): Li = 7; Na = 23.",
+   "texto_apoio": "Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons Li+ penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons Li+ intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon-sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta.\n\nNote e adote: Distribuição eletrônica: Li = 1s², 2s¹; Na = 1s², 2s², 2p⁶, 3s¹. Massa atômica (u): Li = 7; Na = 23.",
    "enunciado": "Considerando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado (Na+ ou Li+) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é",
    "alternativas": {
     "a": "maior do que de uma bateria íon-Li, pois o Na+ tem maior massa e menor raio iônico do que o Li+.",
@@ -31764,6 +32022,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Mesmo uma amostra quimicamente pura não é isotopicamente pura: entre os 44 carbonos da molécula, alguns aparecem como ¹³C em vez de ¹²C, e o mesmo vale para ¹⁵N, ¹⁷O e ¹⁸O. Cada substituição acrescenta um pouco de massa e gera um sinal vizinho, ligeiramente à direita do principal — a chamada distribuição isotópica. A alternativa C chama esses isótopos de mais abundantes, quando são os raros; E os diz mais leves, e os isótopos alternativos desses elementos são mais pesados; B invoca espécies de carga unitária, que não estão na amostra; e D faz a carga do cálcio conferir várias massas à mesma espécie."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fuvest-quimica-28",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Considere os compostos orgânicos isômeros de posição orto-nitrofenol (2-nitrofenol) e para-nitrofenol (4-nitrofenol). No primeiro, a posição dos grupos funcionais hidroxila (–OH) e nitro (–NO2) possibilita a formação de ligações de hidrogênio intramoleculares, ou seja, dentro da própria molécula, o que reduz a disponibilidade do grupo hidroxila para a formação de ligações de hidrogênio intermoleculares, isto é, com outras moléculas. Já no segundo, os grupos funcionais estão mais distantes, e a geometria da molécula não possibilita a formação de ligação de hidrogênio intramolecular.",
+   "enunciado": "Com base nos conceitos de ligações químicas e em suas consequências sobre propriedades físicas, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "O orto- e o para-nitrofenol apresentam propriedades físicas idênticas, pois possuem a mesma fórmula molecular e os mesmos grupos funcionais.",
+    "b": "No orto-nitrofenol, a presença de ligação de hidrogênio intramolecular aumenta a capacidade da molécula de interagir por ligações covalentes com a água.",
+    "c": "O para-nitrofenol possui maior ponto de ebulição que o orto-nitrofenol, uma vez que nele predominam ligações de hidrogênio intermoleculares.",
+    "d": "No orto-nitrofenol, a formação de ligação de hidrogênio intramolecular impede completamente a ocorrência de interações intermoleculares entre as moléculas.",
+    "e": "O orto-nitrofenol é mais solúvel em água que o para-nitrofenol, pois a ligação de hidrogênio intramolecular aumenta a polaridade da molécula."
+   },
+   "resposta": "c",
+   "explicacao": "Quem decide o ponto de ebulição é a interação entre moléculas diferentes. No orto, a hidroxila se dobra sobre o próprio grupo nitro e fica ocupada; no para, ela sobra para ligar-se às moléculas vizinhas, e é preciso mais energia para separá-las. Daí o para-nitrofenol ferver a temperatura mais alta — alternativa C. A alternativa A declara propriedades idênticas por terem a mesma fórmula, ignorando que isômeros de posição diferem; B fala em interagir com a água por ligações covalentes, que não é o tipo de interação em jogo; D diz que a ligação intramolecular impede completamente as intermoleculares, quando o texto afirma que apenas as reduz; e E dá maior solubilidade em água ao orto, sendo o para o mais disponível para ligar-se à água."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -36215,6 +36493,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Em 100 horas, a uma taxa constante de 7,3 mg/h, dissolvem-se 730 mg de vidro. Como 19% dessa massa é fosfato, são 730 × 0,19 = 138,7 mg, ou 0,1387 g. Dividindo pela massa molar, 0,1387 ÷ 95 = 1,46 × 10⁻³ mol, num litro de água — logo 1,46 × 10⁻³ mol/L. O valor 7,68 × 10⁻³ sairia de dividir a massa total sem aplicar a porcentagem; 730 × 10⁻³ é a massa em miligramas tomada como concentração; e os intermediários vêm de esquecer a conversão de miligrama para grama."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "fuvest-quimica-27",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Os fios de cabelo possuem uma camada externa composta por moléculas derivadas de ácidos graxos. Essa camada tem a função de proteger o cabelo, sendo responsável pela sensação de brilho e aparência de cabelos saudáveis.\n\nNote e adote:\nMM 1-hexadecanol = 242,5 g/mol.\nConsidere eficiência de separação de 100%.",
+   "enunciado": "Formulações para recuperar a função dessa camada exterior podem conter diversas espécies de cadeia longa que se depositam fisicamente sobre o cabelo, como o 1-hexadecanol, que costuma ser adicionado em quantidades variadas, dependendo do tratamento necessário. Para determinar a quantidade desse álcool, 1 g de uma formulação contendo o 1-hexadecanol, um procedimento de extração foi realizado. Para tanto, foi adicionada a um frasco contendo 10 mL de hexano que foi agitado e, em seguida, deixado em repouso. Após esse processo, a quantidade de 1-hexadecanol nesses 10 mL de hexano foi determinada por um método analítico específico como 62 mmol/L. A porcentagem em massa desse álcool nessa formulação será de",
+   "alternativas": {
+    "a": "0,25",
+    "b": "1,5",
+    "c": "3,9",
+    "d": "15",
+    "e": "39"
+   },
+   "resposta": "d",
+   "explicacao": "A extração leva todo o 1-hexadecanol para os 10 mL de hexano, e é lá que ele é medido: 62 mmol/L × 0,010 L = 0,62 mmol, ou 6,2×10⁻⁴ mol. Multiplicando pela massa molar, 6,2×10⁻⁴ × 242,5 ≈ 0,15 g. Como a amostra da formulação tinha 1 g, a porcentagem em massa é 15% — alternativa D. A alternativa E, 39, sai de usar 62 mmol como se fossem os mols em 1 L; C, 3,9, de dividir por dez a mais; B, 1,5, de errar uma potência de dez no volume; e A, 0,25, de deixar de multiplicar pela massa molar."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "fuvest-quimica-31",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "No início do século XX, exploradores que atravessavam a Antártida observaram um fenômeno intrigante na geleira Taylor: água de cor avermelhada brotava do gelo, lembrando sangue. O fenômeno ficou conhecido como “Cachoeiras de Sangue” (Blood Falls). Durante muito tempo, acreditou-se que a coloração fosse causada por algas ou microrganismos pigmentados que viviam em reservatórios de água presas abaixo do gelo. Na verdade, análises químicas mostraram que essa água é extremamente rica em íons ferro(II) dissolvidos. Enquanto permanece sob o gelo, em um ambiente sem oxigênio, a água é incolor. No entanto, ao entrar em contato com o ar, ocorre uma reação química rápida, responsável pela coloração vermelha intensa, semelhante à observada na ferrugem e no tom avermelhado do sangue, associado à hemoglobina.",
+   "enunciado": "O fluxo de água que dá origem às Blood Falls é fornecido por um lago subglacial de água com cerca de 4 vezes mais sais que a água do mar. Em condições normais, a água pura congela a 0 °C sob pressão atmosférica; no entanto, nesse lago, a água permanece líquida mesmo a temperaturas da ordem de −7 °C. Esse reservatório não congela mesmo em temperaturas abaixo de 0 °C, pois",
+   "alternativas": {
+    "a": "a elevada concentração de partículas dissolvidas reduz a temperatura de congelamento da água, dificultando a formação da estrutura cristalina do gelo.",
+    "b": "os íons de ferro presentes reagem quimicamente com a água, liberando calor e impedindo a solidificação.",
+    "c": "o aumento da densidade da água salgada pela concentração de sais dissolvidos eleva seu ponto de congelamento em relação à água pura.",
+    "d": "a pressão exercida pela geleira é suficiente, por si só, para impedir a mudança de fase da água.",
+    "e": "a ausência de oxigênio dissolvido dificulta a formação de ligações de hidrogênio entre as moléculas de água, dificultando a solidificação da água líquida."
+   },
+   "resposta": "a",
+   "explicacao": "É crioscopia, e o dado que a aciona está no enunciado: quatro vezes mais sais que a água do mar. Partículas dissolvidas atrapalham a organização das moléculas de água na rede cristalina do gelo, e a temperatura de congelamento cai proporcionalmente à concentração — por isso os −7 °C. Alternativa A. A alternativa C inverte o efeito, elevando o ponto de congelamento; B supõe reação exotérmica do ferro com a água, e o ferro está apenas dissolvido; D atribui tudo à pressão da geleira, insuficiente sozinha para 7 graus; e E diz que a falta de oxigênio dificulta as ligações de hidrogênio, que se formam entre as próprias moléculas de água."
   }
  ],
  "quimica-estequiometria": [
@@ -37463,7 +37781,7 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "dificuldade": "media",
    "origem": "fuvest",
-   "texto_apoio": "Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura. Durante o processo de geração de H2 Após o processo de geração de H2 Ao frasco à esquerda adicionou-se uma quantidade pré- determinada de raspas de zinco metálico e ácido clorídrico. Em seguida, o frasco foi fechado com uma rolha conectada a uma tubulação. À medida que o hidrogênio é produzido pela reação Zn0(s) + 2H+(aq) → Zn2+(aq) + H2(g), o gás se acumula em uma proveta previamente cheia de água. Dado que a solubilidade do hidrogênio na água é desprezível, o volume ocupado pelo gás na proveta corresponde ao volume de hidrogênio produzido durante a reação.\n\nNote e adote: Volume molar do gás ideal nas condições do experimento = 24,9 L. Massa molar do Zn = 65,4 g/mol.",
+   "texto_apoio": "Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura. Durante o processo de geração de H2 Após o processo de geração de H2 Ao frasco à esquerda adicionou-se uma quantidade pré-determinada de raspas de zinco metálico e ácido clorídrico. Em seguida, o frasco foi fechado com uma rolha conectada a uma tubulação. À medida que o hidrogênio é produzido pela reação Zn0(s) + 2H+(aq) → Zn2+(aq) + H2(g), o gás se acumula em uma proveta previamente cheia de água. Dado que a solubilidade do hidrogênio na água é desprezível, o volume ocupado pelo gás na proveta corresponde ao volume de hidrogênio produzido durante a reação.\n\nNote e adote: Volume molar do gás ideal nas condições do experimento = 24,9 L. Massa molar do Zn = 65,4 g/mol.",
    "enunciado": "Considerando que, nas condições do experimento, foram gerados 49,8 mL de hidrogênio, qual a quantidade de Zn metálico, em gramas, que de fato reagiu?",
    "alternativas": {
     "a": "0,07",
@@ -38908,6 +39226,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O texto diz que a decomposição só começa quando um gatilho gera calor suficiente e que, uma vez iniciada, ela \"se mantém autossuficiente até consumo total do reagente\". Uma reação que se sustenta sozinha precisa liberar mais energia do que consome para prosseguir: é exotérmica o bastante para manter a temperatura alta. A alternativa A a chama de endotérmica, confundindo energia de ativação alta com absorção líquida de calor; C pede baixa energia de ativação, o que tornaria o sal instável na prateleira; e B e E erram os números de oxidação, pois no clorato o cloro passa de +5 a −1, sendo reduzido, e o oxigênio de −2 a 0, sendo oxidado."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "fuvest-quimica-29",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Note e adote:\nConsidere a taxa de batimento cardíaco médio da pessoa de 70 batimentos por minuto.\nΔH da reação de combustão da glicose = -2.800 kJ/mol.",
+   "enunciado": "O custo energético para o funcionamento do coração pode ser estimado como sendo, em média, de 1 J por cada batida. Considerando que a energia para esse processo seja proveniente totalmente da reação de combustão da glicose C6H12O6 + 6O2 → 6CO2 + 6H2O, qual a quantidade de CO2, em mol, expelida em um dia por uma pessoa para manter seu coração funcionando?",
+   "alternativas": {
+    "a": "0,003.",
+    "b": "0,006.",
+    "c": "0,009.",
+    "d": "0,036.",
+    "e": "0,216."
+   },
+   "resposta": "e",
+   "explicacao": "Em um dia são 70 × 60 × 24 = 100.800 batidas, e a 1 J cada uma, 100.800 J, ou 100,8 kJ. Como a combustão de 1 mol de glicose libera 2.800 kJ, o coração consome 100,8/2.800 = 0,036 mol de glicose. A equação mostra que cada mol de glicose produz 6 mols de CO2, logo 6 × 0,036 = 0,216 mol — alternativa E. A alternativa D, 0,036, é a quantidade de glicose, e para nela quem esquece a estequiometria do gás; C, B e A saem de errar a conversão do dia em minutos, dividindo por 60 uma vez a mais em cada passo."
   }
  ],
  "gramatica-coesao-semantica": [
@@ -46061,6 +46399,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Em \"utilizou-se o caldo de cana\", o se é partícula apassivadora: a frase equivale a \"o caldo de cana foi utilizado\", com o sintagma funcionando como sujeito paciente e o agente ficando de fora. É a voz passiva sintética, recurso típico do texto científico, que põe o procedimento em primeiro plano e apaga quem o executou. A alternativa A confunde com o se índice de indeterminação do sujeito, que só ocorre com verbo intransitivo ou transitivo indireto, e ainda atribui ao pesquisador o desconhecimento da autoria; B e C descrevem efeitos de ênfase sem nomear a estrutura; e E chama de reflexiva uma construção em que o caldo não pratica ação alguma sobre si."
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "fuvest-gramatica-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "O período “A língua portuguesa, longe de ser apenas um idioma, ergueu uma muralha simbólica” é reescrito sem alteração de sentido em:",
+   "alternativas": {
+    "a": "Apesar de não ser só um idioma, a língua portuguesa ergueu uma muralha simbólica.",
+    "b": "Erguendo uma muralha simbólica, a língua portuguesa afastou-se de ser meramente um idioma.",
+    "c": "A língua portuguesa ergueu uma muralha simbólica quando deixou de ser exclusivamente um idioma.",
+    "d": "Sendo mais do que somente um idioma, a língua portuguesa ergueu uma muralha simbólica.",
+    "e": "A língua portuguesa, à medida que consiste em um mero idioma, ergueu uma muralha simbólica."
+   },
+   "resposta": "d",
+   "explicacao": "\"Longe de ser apenas um idioma\" nega o \"apenas\", não o \"ser\": a língua é idioma e é mais do que isso, e é por ser mais que ergueu a muralha. A alternativa D preserva os dois movimentos — \"sendo mais do que somente um idioma\" mantém o excedente e, no gerúndio causal, mantém o vínculo com o que se ergueu. A alternativa A troca a relação por concessão (\"apesar de\"), opondo o que no original se soma; B inverte o sujeito da mudança, fazendo a língua afastar-se de ser idioma; C introduz um antes e um depois (\"quando deixou de ser\") que o original não tem; e E afirma o contrário do texto, que a língua consiste em um mero idioma."
   }
  ],
  "interpretacao-argumentacao": [
@@ -51813,6 +52170,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Caetano põe \"tão pesado\" entre aspas porque a avaliação não é dele: é a dos adultos que não tiveram coragem de dar o nome ao bebê. As aspas marcam a palavra alheia dentro do próprio discurso, distanciando o narrador do julgamento que ele apenas reporta. A alternativa A vê realce denotativo e concordância, quando há justamente distanciamento; C chama a expressão de eufemismo, e ela é literal; D fala em neologismo, e \"pesado\" é palavra corrente; e E supõe que as aspas esclarecem o significado do nome."
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "fuvest-interpretacao-texto-9",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O paradoxo da identidade latina e o despertar decolonial João Carlos Corrêa Somente cerca de 4% dos brasileiros se reconhecem como “latino-americanos”. Este dado contrasta brutalmente com a média de 43% em países como Argentina ou México. E aqui reside nosso paradoxo histórico: enquanto rejeitamos o rótulo, 66% de nós acreditam que o Brasil deve representar a região no Conselho de Segurança da ONU. Desejamos liderar um clube ao qual relutamos em pertencer. Esta ambivalência não é acidental e, sim, a herança de uma ferida colonial que teima em não cicatrizar. Nossa desconexão com a latinidade tem raízes profundas e dolorosas. Enquanto a América hispânica forjou sua identidade no fogo das guerras de independência contra a coroa espanhola, o Brasil manteve laços umbilicalmente coloniais com Portugal, criando um isolamento que se transformou em mito fundador. A língua portuguesa, longe de ser apenas um idioma, ergueu uma muralha simbólica. Como bem aponta o pesquisador argentino Fernando Mourón (USP), o conceito de “América Latina sempre se associou à colonização espanhola”, excluindo o Brasil de um imaginário continental. Alimentamos a narrativa da excepcionalidade: somos um “país continente”, uma democracia racial”, como um biombo para ocultar nossa inegável pertença geográfica e cultural. A decolonização exige que reconheçamos que nossa suposta singularidade é uma armadilha colonial. Como argumentam teóricos inspirados em Theodor Adorno, como Santiago Castro-Gómez, a verdadeira unidade latino-americana reside na diversidade não homogeneizada, nas raízes indígenas sufocadas, nas culturas africanas resistentes e nos fluxos migratórios que nos moldaram, elementos que o Brasil compartilha intimamente com seus vizinhos. A América Latina existe como um campo simbólico onde Brasil e seus vizinhos disputam significados e poder. Para muitos, como aponta Mourón, a região segue sendo vista como “preocupação e problema”, não como lar coletivo. A verdadeira decolonização, no entanto, já emerge das bases. Movimentos indígenas e quilombolas no Brasil agem em redes transnacionais com parceiros andinos, de forma a nos dar o acalanto de perceber que a unicidade latino-americana se forja “de baixo para cima”, nas lutas comuns contra o extrativismo predatório, o racismo estrutural e a violência neocolonial. Disponível em https://memorial.org.br/. Adaptado.",
+   "enunciado": "Considerando o contexto, o par de palavras empregadas em sentido figurado com a mesma função semântica e argumentativa é",
+   "alternativas": {
+    "a": "“armadilha” e “diversidade”.",
+    "b": "“biombo” e “muralha”.",
+    "c": "“campo” e “lar”.",
+    "d": "“clube” e “laços”.",
+    "e": "“fluxos” e “bases”."
+   },
+   "resposta": "b",
+   "explicacao": "O par pedido tem de ser figurado nas duas palavras e cumprir a mesma função no argumento. \"Muralha\" e \"biombo\" são isso: a língua portuguesa \"ergueu uma muralha simbólica\" e a narrativa da excepcionalidade funciona \"como um biombo para ocultar nossa inegável pertença\" — dois anteparos, os dois separando o Brasil do continente. Em A, \"armadilha\" é figurado mas \"diversidade\" é literal; em C, \"campo\" e \"lar\" são espaciais, porém um nomeia disputa e o outro pertencimento; em D, \"clube\" e \"laços\" figuram, mas um é a região e o outro o vínculo com Portugal; e em E, \"fluxos migratórios\" está em sentido próprio."
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "fuvest-interpretacao-texto-12",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Velha roupa colorida Você não sente nem vê Mas eu não posso deixar de dizer, meu amigo Que uma nova mudança em breve vai acontecer E o que há algum tempo era jovem novo Hoje é antigo, e precisamos todos rejuvenescer Nunca mais meu pai falou: \"She's leaving home\" E meteu o pé na estrada, \"Like a Rolling Stone...\" Nunca mais eu convidei minha menina Para correr no meu carro... (loucura, chiclete e som) Nunca mais você saiu a rua em grupo reunido O dedo em V, cabelo ao vento, amor e flor, quero cartaz No presente a mente, o corpo é diferente E o passado é uma roupa que não nos serve mais Como Poe, poeta louco americano, eu pergunto ao passarinho: Black bird, Assum Preto, o que se faz?\" E raven never raven never raven Pássaro Preto, pássaro preto black bird me responde: \"Tudo já ficou atrás\" E raven never raven never raven Black bird, Pássaro Preto, Pássaro Preto me responde: \"O passado nunca mais\" Belchior, 1976.",
+   "enunciado": "A repetição da expressão “nunca mais” ao longo do texto não se limita a reforçar uma ideia já apresentada. No contexto da canção, tal repetição",
+   "alternativas": {
+    "a": "projeta as experiências mencionadas como possibilidade de retorno, mantendo aberta a relação com o passado.",
+    "b": "organiza as lembranças em sequência memorial, sem modificar a posição crítica assumida no texto.",
+    "c": "atribui ao conteúdo evocado valor categórico, conferindo ao enunciado sentido conclusivo.",
+    "d": "aproxima planos temporais distintos, reduzindo a tensão entre passado e presente na composição.",
+    "e": "intensifica as referências ao passado e as vincula a um tom nostálgico, sem alterar o sentido do enunciado."
+   },
+   "resposta": "c",
+   "explicacao": "Repetido cinco vezes e devolvido pelo pássaro no fecho — \"O passado nunca mais\" —, o \"nunca mais\" deixa de somar exemplos e passa a dar veredito: o que foi evocado está encerrado. É o valor categórico e o sentido conclusivo da alternativa C, reforçado pelo eco do \"nevermore\" de Poe, que a própria canção cita. A alternativa A mantém aberta a possibilidade de retorno, que a expressão fecha; B diz que a repetição não altera a posição crítica, quando é ela que a converte em conclusão; D afirma que aproxima os planos temporais e reduz a tensão, sendo que os separa; e E a trata como mera intensificação nostálgica, o que o enunciado já descarta."
   }
  ],
  "interpretacao-estrutura-coesao": [
@@ -55626,6 +56023,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Bortoni-Ricardo pede as duas coisas ao mesmo tempo: que os alunos sejam respeitados e vejam valorizadas suas peculiaridades linguístico-culturais, e que tenham o direito inalienável de aprender as variantes de prestígio. Respeitar e ensinar, não escolher entre os dois. A alternativa A troca o respeito por uma exigência de norma culta na escola; B incentiva a variação mas atribui à escola o preconceito, quando o texto atribui à sociedade; D e E falam em \"erros\", categoria que o texto substitui por variantes, e E ainda propõe permitir o erro para evitar exclusão, invertendo o argumento da ascensão social."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "fuvest-interpretacao-texto-8",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Do pouco que havemos expendido relativamente às qualidades naturais da mulher indígena, queremos concluir que ela é digna de ocupar outra posição em nossa terra; e que o desprezo com que foi sempre e continua a ser olhada a sua raça pelas nossas outras populações é um abuso antinacional, anticristão, que os nossos governantes e o nosso clero devem fazer desaparecer, empregando, por bem da pátria e da igreja, meios mais próprios e seguros para consegui-lo. A humanidade e a civilização reclamam imperiosamente deles convenientes medidas para arrancar essa pura, digna porção do povo brasileiro à vida em que vegeta, e torná-la útil como incontestavelmente pode ser a uma e a outra. Oferecendo o nosso mesquinho óbolo¹ à nobre causa das nossas aborígenes, temos concluído os pontos principais que fazem o objeto deste opúsculo. ¹óbolo: pequeno donativo feito aos pobres; esmola. Nísia Floresta. Opúsculo Humanitário.",
+   "enunciado": "Considerando o excerto, a autora",
+   "alternativas": {
+    "a": "sugere que a mulher indígena deve ser completamente integrada à cultura europeia, abandonando suas raízes e tradições para se tornar útil à pátria.",
+    "b": "defende que o desprezo pelas mulheres indígenas é um abuso, tanto em termos nacionais quanto cristãos, e que os governantes e o clero devem adotar medidas eficazes para melhorar a situação dessa população.",
+    "c": "faz uma crítica voltada para a opressão que as mulheres indígenas sofrem por parte de outras etnias, sem considerar o impacto das normas coloniais sobre os próprios colonizadores.",
+    "d": "considera que as mulheres indígenas já estão integradas e respeitadas o suficiente pela sociedade brasileira, prescindindo de reformas para melhorar sua situação.",
+    "e": "argumenta que a opressão das mulheres indígenas é um fenômeno isolado, sem relação com outras formas diversas de discriminação sofridas por outros grupos marginalizados no Brasil."
+   },
+   "resposta": "b",
+   "explicacao": "Nísia Floresta diz exatamente o que a alternativa B resume: o desprezo pela mulher indígena é \"um abuso antinacional, anticristão\", e cabe aos governantes e ao clero fazê-lo desaparecer \"empregando meios mais próprios e seguros\". As duas pontas — a denúncia e o destinatário da cobrança — estão na letra do texto. A alternativa A põe na autora a defesa do abandono das raízes, que ela não escreve; C desloca a opressão para outras etnias, quando o texto acusa \"as nossas outras populações\"; D afirma que a situação já está resolvida, o oposto do apelo; e E chama o problema de fenômeno isolado, sendo que o excerto o trata como abuso nacional."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "fuvest-interpretacao-texto-10",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O paradoxo da identidade latina e o despertar decolonial João Carlos Corrêa Somente cerca de 4% dos brasileiros se reconhecem como “latino-americanos”. Este dado contrasta brutalmente com a média de 43% em países como Argentina ou México. E aqui reside nosso paradoxo histórico: enquanto rejeitamos o rótulo, 66% de nós acreditam que o Brasil deve representar a região no Conselho de Segurança da ONU. Desejamos liderar um clube ao qual relutamos em pertencer. Esta ambivalência não é acidental e, sim, a herança de uma ferida colonial que teima em não cicatrizar. Nossa desconexão com a latinidade tem raízes profundas e dolorosas. Enquanto a América hispânica forjou sua identidade no fogo das guerras de independência contra a coroa espanhola, o Brasil manteve laços umbilicalmente coloniais com Portugal, criando um isolamento que se transformou em mito fundador. A língua portuguesa, longe de ser apenas um idioma, ergueu uma muralha simbólica. Como bem aponta o pesquisador argentino Fernando Mourón (USP), o conceito de “América Latina sempre se associou à colonização espanhola”, excluindo o Brasil de um imaginário continental. Alimentamos a narrativa da excepcionalidade: somos um “país continente”, uma democracia racial”, como um biombo para ocultar nossa inegável pertença geográfica e cultural. A decolonização exige que reconheçamos que nossa suposta singularidade é uma armadilha colonial. Como argumentam teóricos inspirados em Theodor Adorno, como Santiago Castro-Gómez, a verdadeira unidade latino-americana reside na diversidade não homogeneizada, nas raízes indígenas sufocadas, nas culturas africanas resistentes e nos fluxos migratórios que nos moldaram, elementos que o Brasil compartilha intimamente com seus vizinhos. A América Latina existe como um campo simbólico onde Brasil e seus vizinhos disputam significados e poder. Para muitos, como aponta Mourón, a região segue sendo vista como “preocupação e problema”, não como lar coletivo. A verdadeira decolonização, no entanto, já emerge das bases. Movimentos indígenas e quilombolas no Brasil agem em redes transnacionais com parceiros andinos, de forma a nos dar o acalanto de perceber que a unicidade latino-americana se forja “de baixo para cima”, nas lutas comuns contra o extrativismo predatório, o racismo estrutural e a violência neocolonial. Disponível em https://memorial.org.br/. Adaptado.",
+   "enunciado": "No texto, o termo decolonização remete à ideia de",
+   "alternativas": {
+    "a": "romper com as divisões simbólicas herdadas do domínio metropolitano para a construção de uma identidade baseada em problemas e lutas comuns.",
+    "b": "reler o passado colonial, refinando os saberes diversos dos povos originários a partir dos conhecimentos históricos constituídos pelas metrópoles.",
+    "c": "construir redes entre movimentos indígenas e quilombolas brasileiros e andinos para reestruturar fronteiras nacionais herdadas da colonização.",
+    "d": "abandonar o paradoxo de reivindicar culturalmente latinidade enquanto se rejeita politicamente estar associado a órgãos representativos desse espaço geográfico.",
+    "e": "formar narrativas de excepcionalidade que permitam recuperar o orgulho da latinidade, reconfigurando o mito fundador da democracia racial."
+   },
+   "resposta": "a",
+   "explicacao": "O texto define decolonização por dois gestos: reconhecer que a suposta singularidade brasileira \"é uma armadilha colonial\" e ver que a unidade se forja \"de baixo para cima\", nas lutas comuns contra o extrativismo predatório, o racismo estrutural e a violência neocolonial. É a alternativa A — romper as divisões simbólicas herdadas e construir identidade sobre problemas partilhados. B inverte a direção, fazendo os saberes originários serem refinados pelo conhecimento das metrópoles; C fala em reestruturar fronteiras nacionais, e o texto trata de redes transnacionais; D descreve o paradoxo, não a decolonização; e E propõe recuperar a narrativa da excepcionalidade, que é o alvo da crítica."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "fuvest-interpretacao-texto-11",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Velha roupa colorida Você não sente nem vê Mas eu não posso deixar de dizer, meu amigo Que uma nova mudança em breve vai acontecer E o que há algum tempo era jovem novo Hoje é antigo, e precisamos todos rejuvenescer Nunca mais meu pai falou: \"She's leaving home\" E meteu o pé na estrada, \"Like a Rolling Stone...\" Nunca mais eu convidei minha menina Para correr no meu carro... (loucura, chiclete e som) Nunca mais você saiu a rua em grupo reunido O dedo em V, cabelo ao vento, amor e flor, quero cartaz No presente a mente, o corpo é diferente E o passado é uma roupa que não nos serve mais Como Poe, poeta louco americano, eu pergunto ao passarinho: Black bird, Assum Preto, o que se faz?\" E raven never raven never raven Pássaro Preto, pássaro preto black bird me responde: \"Tudo já ficou atrás\" E raven never raven never raven Black bird, Pássaro Preto, Pássaro Preto me responde: \"O passado nunca mais\" Belchior, 1976.",
+   "enunciado": "Na canção Velha roupa colorida, ao propor uma reflexão sobre diferentes momentos, o título orienta o sentido geral do texto, levando à compreensão de que",
+   "alternativas": {
+    "a": "a valorização de referências do passado orienta uma leitura nostálgica que reafirma sua validade comportamental no presente.",
+    "b": "a inadequação de valores do passado ao presente sustenta uma crítica à manutenção irrefletida de referências históricas.",
+    "c": "o sentido do texto se desloca para um plano individual, configurando um contentamento pela perda da juventude do eu lírico.",
+    "d": "o passado é apresentado como identidade estável e resistente, preservada apesar das transformações impostas pelo tempo.",
+    "e": "a referência ao vestuário atua de modo acessório no texto, sem impacto significativo na progressão temática da canção."
+   },
+   "resposta": "b",
+   "explicacao": "O título nomeia a metáfora que a canção desenvolve e o próprio verso a fecha: \"o passado é uma roupa que não nos serve mais\". Roupa colorida é o traje datado — serviu, hoje não veste. Daí a alternativa B: a inadequação dos valores do passado ao presente sustenta a crítica a mantê-los sem reflexão, e é o que justifica \"precisamos todos rejuvenescer\". A alternativa A lê nostalgia validadora, quando o refrão responde \"o passado nunca mais\"; C reduz tudo a contentamento individual pela juventude perdida; D faz do passado uma identidade estável preservada, o contrário da roupa que não serve; e E chama o vestuário de acessório, sendo ele o eixo do texto."
   }
  ],
  "literatura-realismo-naturalismo": [
@@ -57297,7 +57754,7 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "dificuldade": "dificil",
    "origem": "fuvest",
-   "texto_apoio": "Sempre que brilha um novo dia, e que nos bate à porta o jornal, apoderamo-nos com solicitude dessa folha e avidamente percorremos a sessão das Câmaras do dia antecedente em procura do assunto que temos escrito no coração e no espírito - a educação da mulher brasileira -, e dobramos a folha desconsolados e aguardamos o dia seguinte, que se escoa na mesma expectativa, no mesmo desengano! (...) Um dia raiará mais propício para nós, em que os escolhidos da nação brasileira se dignem de achar a educação da mulher um objeto importante para dele ocuparem-se, com a circunspecção que merece. Nísia Floresta. Opúsculo Humanitário. Sonhando ser mestra, eu não imaginava o descanso, o repouso ameno que daria à minha mãe como recompensa dos grandes sacrifícios feitos por ela para meu bem-estar, eu não pensava em ser útil, em tornar-me necessária, imprescindível. Eu queria ser mestra para não morar em um cortiço mal- alumiado, infecto, úmido, nesta terra onde há tantas flores, tanta luz e tantas alegrias. O caso é que fosse qual fosse a mão que me escreveu no pensamento a resolução de vir a ser professora – pertencesse ela à tentação diabólica do luxo ou à compreensão de um dever –, fosse qual fosse, eu a abençoo. Julia Lopes de Almeida. Memórias de Martha.",
+   "texto_apoio": "Sempre que brilha um novo dia, e que nos bate à porta o jornal, apoderamo-nos com solicitude dessa folha e avidamente percorremos a sessão das Câmaras do dia antecedente em procura do assunto que temos escrito no coração e no espírito - a educação da mulher brasileira -, e dobramos a folha desconsolados e aguardamos o dia seguinte, que se escoa na mesma expectativa, no mesmo desengano! (...) Um dia raiará mais propício para nós, em que os escolhidos da nação brasileira se dignem de achar a educação da mulher um objeto importante para dele ocuparem-se, com a circunspecção que merece. Nísia Floresta. Opúsculo Humanitário. Sonhando ser mestra, eu não imaginava o descanso, o repouso ameno que daria à minha mãe como recompensa dos grandes sacrifícios feitos por ela para meu bem-estar, eu não pensava em ser útil, em tornar-me necessária, imprescindível. Eu queria ser mestra para não morar em um cortiço mal-alumiado, infecto, úmido, nesta terra onde há tantas flores, tanta luz e tantas alegrias. O caso é que fosse qual fosse a mão que me escreveu no pensamento a resolução de vir a ser professora – pertencesse ela à tentação diabólica do luxo ou à compreensão de um dever –, fosse qual fosse, eu a abençoo. Julia Lopes de Almeida. Memórias de Martha.",
    "enunciado": "A partir da leitura dos excertos e das obras citadas, é correto afirmar:",
    "alternativas": {
     "a": "Opúsculo Humanitário e Memórias de Martha são obras que defendem fortemente o abolicionismo e o acesso à educação pela população afrodescendente brasileira.",
@@ -57308,6 +57765,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Nísia Floresta cobra das Câmaras que a educação da mulher brasileira vire objeto de política; a narradora de Júlia Lopes de Almeida quer ser mestra para escapar do cortiço úmido e infecto. Nos dois casos a educação feminina aparece como resposta às contradições sociais e econômicas do Brasil oitocentista. A alternativa A põe o abolicionismo no centro, que nenhum dos trechos aborda; B restringe Nísia à modernização política; C fala em educação profissional para emancipação econômica, e o argumento é mais amplo que a profissionalização; e D situa a emancipação no espaço rural, quando as duas cenas são urbanas."
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "fuvest-literatura-29",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "enunciado": "Em Memórias de Martha (1899), Julia Lopes de Almeida apresenta uma narrativa que, embora dialogue com a estética naturalista, introduz deslocamentos críticos significativos. Considerando a trajetória da protagonista no romance, assinale a alternativa que caracteriza a relação entre a forma literária e a crítica social na obra.",
+   "alternativas": {
+    "a": "A narrativa adota o determinismo ambiental rigoroso para demonstrar que a promiscuidade do espaço coletivo de habitação anula qualquer possibilidade de desenvolvimento individual ou preservação da dignidade das mulheres trabalhadoras.",
+    "b": "A obra utiliza a estrutura do romance naturalista para celebrar a ascensão social de Martha como um exemplo de que o sistema educacional da época era plenamente democrático e inclusivo.",
+    "c": "A representação da pobreza na obra é suavizada por uma perspectiva idealista e romântica, que ignora as tensões de classe em favor de uma visão sentimental da vida comunitária nas estalagens.",
+    "d": "O romance limita-se a reproduzir as teorias de degenerescência racial da época, justificando a condição de Martha através de uma herança biológica que impede seu desenvolvimento intelectual.",
+    "e": "O foco na precariedade urbana é uma denúncia das \"vítimas do progresso\", evidenciando que a modernidade, na virada do século XIX para o XX, no Rio de Janeiro, fundamentava-se na exclusão e na invisibilidade do trabalho feminino, sobretudo o doméstico."
+   },
+   "resposta": "e",
+   "explicacao": "O enunciado avisa que o romance dialoga com o naturalismo mas introduz deslocamentos, e o deslocamento é justamente onde a alternativa E o localiza: Julia Lopes de Almeida usa a precariedade urbana do Rio da virada do século para denunciar as vítimas do progresso, mostrando que aquela modernidade se erguia sobre a invisibilidade do trabalho feminino, sobretudo o doméstico. A alternativa A adota o determinismo rigoroso que o romance rompe, ao permitir que Martha se desenvolva; B celebra um sistema educacional democrático que a obra não retrata; C diz que a pobreza é suavizada por idealismo romântico; e D reduz o livro à reprodução das teorias de degenerescência racial."
   }
  ],
  "literatura-colonial-romantismo": [
@@ -58526,6 +59002,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Na lira, Dirceu pede a Glauceste que não venha montado no \"Pégaso fogoso\" com dura lança traspassar o monstro da calúnia: a imagem é a do socorro heroico, e é dessa heroicidade que o preso abre mão ao dizer que se contenta com menos. Em Cecília, o cavalo do poeta Gonzaga \"não pisava neste mundo, mas nos planaltos da Arcádia\" — Pégaso vale pela inspiração, pela criação poética que sobreviveu ao homem. A alternativa A faz o cavalo de Gonzaga ser real; C e D trocam as atribuições entre os dois poemas; e E reduz tudo a um efeito de estranhamento que nenhum dos textos produz."
+  },
+  {
+   "subtema": "literatura-colonial-romantismo",
+   "id": "fuvest-literatura-28",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Leia os excertos dos poemas O Navio Negreiro (1868), de Castro Alves, e O africano e o poeta, extraído de Nebulosas (1872), de Narcisa Amália. 'Stamos em pleno mar...; [...] Albatroz! Albatroz! dá-me estas asas. [...] Mas que vejo eu aí... Que quadro d'amarguras! É canto funeral! ... Que tétricas figuras! ... Que cena infame e vil... Meu Deus! Meu Deus! Que horror! E ri-se a orquestra irônica, estridente... [...] Qual um sonho dantesco as sombras voam!... Gritos, ais, maldições, preces ressoam! E ri-se Satanás Senhor Deus dos desgraçados! Dizei-me vós, Senhor Deus, Se eu deliro... ou se é verdade Tanto horror perante os céus?!... Ó mar, por que não apagas Co'a esponja de tuas vagas Do teu manto este borrão? Castro Alves. O Navio Negreiro. [...] De imenso desgosto Silente expressão; Quem pensa? — O poeta [...] Lacera-me o seio Sulcado de dor, Quem sente? — O poeta [...] Sulquei vasto mar; Mas este queixume [...] Quem quer escutar?… — Quem quer? O poeta [...] Quem vê? — O poeta [...] Sem crenças na vida, Sem pátria querida, Só resta tombar! Mas… quem uma prece Na campa do escravo Que outrora foi bravo Triste há de rezar?!… — Quem há de?… O poeta Narcisa Amália. O africano e o poeta.",
+   "enunciado": "Depreende-se dos poemas:",
+   "alternativas": {
+    "a": "Castro Alves e Narcisa Amália, apesar de distantes no tempo e pertencentes a movimentos literários distintos, trazem críticas severas à escravidão e evidenciam a relação entre a poesia, a dor, a natureza e o sofrimento humano.",
+    "b": "Castro Alves descreve a dor do cativo com profundo envolvimento emocional; Narcisa Amália recorre à expressão \"Quem há?\" para enfatizar a solidão existencial do africano, sugerindo que o mundo deve se curvar à sua dor, mais profunda e sublime que a dos outros seres humanos.",
+    "c": "Ambos os poemas exaltam a liberdade, sendo o mar um símbolo positivo. Em O Navio Negreiro, o mar é uma libertação do sofrimento, enquanto, em O africano e o poeta, o poeta alcança uma transcendência que o liberta de sua dor através do contato com a natureza, principalmente com o mar.",
+    "d": "Em O Navio Negreiro, o autor constrói imagens complexas para atestar a dimensão da crueldade do momento histórico retratado. Em O africano e o poeta, a autora indicia a função crítica do poeta na sociedade, inscrevendo-a no próprio poetar. Desse modo, Narcisa Amália dialoga com Castro Alves, denunciando as injustiças da sociedade escravocrata.",
+    "e": "Ambos os poemas apresentam a figura do poeta como um ser divinizado, cuja percepção de dor transcende a realidade humana. Em O Navio Negreiro, o poeta é intermediário entre horrores do mar e as figuras mitológicas; em O africano e o poeta, a dor do humano destaca-se como um sofrimento internalizado, mas igualmente elevado a uma missão quase divina."
+   },
+   "resposta": "d",
+   "explicacao": "Castro Alves acumula imagens para medir o horror — \"Que tétricas figuras\", \"qual um sonho dantesco as sombras voam\", a orquestra irônica, Satanás rindo —, e Narcisa Amália constrói o poema inteiro sobre uma pergunta que se repete e sempre tem a mesma resposta: quem pensa, quem sente, quem escuta, quem reza pelo escravo? O poeta. A função crítica está inscrita no próprio ato de poetar, e é isso que a alternativa D lê nos dois. A alternativa A os separa em movimentos literários distintos, sendo ambos românticos e quase contemporâneos; B faz Narcisa exigir que o mundo se curve à dor do africano; C transforma o mar em símbolo positivo de libertação; e E diviniza os dois poetas."
   }
  ],
  "literatura-modernismo": [
@@ -59846,6 +60342,25 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Nos dois romances, a política pública invade a vida privada e vice-versa: Noemi milita à esquerda nos anos 1930 e é por isso que sua separação e seu novo amor viram escândalo; as três moças de Lygia atravessam a ditadura militar cada uma a seu modo, e Lia liga a luta armada ao próprio corpo e às próprias escolhas. Em ambos, personagens femininas desafiam padrões. A alternativa A liga Caminho de pedras ao divórcio, legalizado quarenta anos depois; B atribui às personagens Angelita e Ana Clara um papel que não têm; C faz política e religião apenas aprofundarem o controle, ignorando o que elas abrem; e E reduz os dois livros a uma crítica à mulher burguesa."
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "fuvest-literatura-30",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "enunciado": "Em Caminho de pedras (1937), Rachel de Queiroz desloca o foco do regionalismo rural para a militância política urbana. No entanto, a obra não se limita ao panfleto ideológico, construindo uma tensão constante entre a disciplina do partido e a subjetividade da protagonista Noemi. Assinale a alternativa que descreve corretamente como esse conflito é representado na narrativa.",
+   "alternativas": {
+    "a": "O romance de Rachel de Queiroz abandona a crítica social da Literatura de 1930 para focar em um drama passional de triângulo amoroso, despolitizando as relações de classe em favor do psicologismo.",
+    "b": "A subjetividade feminina é apresentada como um obstáculo reacionário que impede o avanço da causa proletária, sendo a narrativa um libelo contra o individualismo burguês encarnado por Noemi.",
+    "c": "O conflito central reside na impossibilidade de conciliar a militância política, focada no coletivo, com os dramas individuais e maternais de Noemi, expondo a fragilidade do projeto político diante da complexidade do desejo e da culpa.",
+    "d": "A obra adere à estética do realismo socialista, retratando Noemi como a heroína infalível que sacrifica sua vida pessoal em favor da revolução, sem hesitações ou conflitos internos.",
+    "e": "A organização política do partido é celebrada como a única via de cura para as neuroses femininas, sugerindo que a organização coletiva elimina as angústias do exílio doméstico vivido por Noemi no início da obra."
+   },
+   "resposta": "c",
+   "explicacao": "Caminho de pedras é romance de 1930 e o enunciado já nomeia a tensão: disciplina do partido de um lado, subjetividade de Noemi do outro. A alternativa C descreve o conflito como ele se dá — a militância pede o coletivo, e a vida de Noemi devolve o individual, a maternidade, o desejo e a culpa, e é essa distância que expõe a fragilidade do projeto político. A alternativa A diz que o romance abandona a crítica social pelo psicologismo; B faz da subjetividade feminina um obstáculo reacionário, invertendo a simpatia do livro; D adere ao realismo socialista com heroína infalível, quando Noemi hesita o tempo todo; e E apresenta o partido como cura das angústias."
   }
  ],
  "literatura-teoria-analise": [
@@ -63225,7 +63740,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A respeito dos contos “Nós matamos o Cão Tinhoso!”, “Dina”, “Papá, cobra e eu” e “Nhinguitimo”, de Nós matamos o Cão Tinhoso!, é possível afirmar:",
    "alternativas": {
     "a": "Os narradores e os protagonistas são crianças.",
-    "b": "São narrados em primeira pessoa, por narradores- protagonistas.",
+    "b": "São narrados em primeira pessoa, por narradores-protagonistas.",
     "c": "Os protagonistas são oprimidos socialmente, e a reação deles não é endereçada aos opressores.",
     "d": "São fábulas, e os protagonistas são animais.",
     "e": "O espaço representado é o das grandes cidades moçambicanas."
@@ -63392,6 +63907,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Fio Jasmim guarda o nome da esposa dos ouvidos de outras mulheres porque \"a de casa é santa\", separa as mulheres entre a santa e a namoradeira, e já se pergunta sobre uma conquista sem admitir interesse. São gestos de manual: a divisão entre a esposa idealizada e a outra disponível, e o desejo travestido de acaso. É masculinidade estereotipada, atendendo às expectativas sociais. As alternativas A e D o apresentam como ruptura ou resistência a esse padrão; B fala em relações igualitárias e respeito mútuo; e E lhe atribui culpa e arrependimento, que o trecho não mostra — ele apenas não entende o que se passa consigo."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-26",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Certas narrativas convidam o leitor a acompanhar a trama dos acontecimentos, buscando nela as relações de causa e efeito que acabam por produzir sentido ao desfecho proposto. Em A paixão segundo G.H., G.H. propõe outro jogo ao leitor: acompanhá-la no processo de busca de algum tipo possível de elaboração dos fragmentos de linguagem que se acumulam na experiência existencial do indivíduo singular.",
+   "enunciado": "Nesse processo de organização, explicita-se um diálogo entre narradora e leitor, como se observa em:",
+   "alternativas": {
+    "a": "“A verdade não faz sentido, a grandeza do mundo me encolhe. Aquilo que provavelmente pedi e finalmente tive, veio, no entanto me deixar carente como uma criança que anda sozinha pela terra.”",
+    "b": "“O mundo havia reivindicado a sua própria realidade, e, como depois de uma catástrofe, a minha civilização acabara: eu era apenas um dado histórico. Tudo em mim fora reivindicado pelo começo dos tempos e pelo meu próprio começo.”",
+    "c": "“Toda a parte mais inatingível de minha alma e que não me pertence - é aquela que toca na minha fronteira com o que já não é eu, e à qual me dou. Toda a minha ânsia tem sido esta proximidade inultrapassável e excessivamente próxima. Sou mais aquilo que em mim não é.”",
+    "d": "“Não estou à altura de imaginar uma pessoa inteira porque não sou uma pessoa inteira. E como imaginar um rosto se não sei de que expressão de rosto preciso? Logo que puder dispensar tua mão quente, irei sozinha e com horror.”",
+    "e": "“Esse murmúrio, sem nenhum sentido humano, seria a minha identidade tocando na identidade das coisas. Sei que, em relação ao humano, essa prece neutra seria uma monstruosidade.”"
+   },
+   "resposta": "d",
+   "explicacao": "A pergunta é por onde o diálogo entre narradora e leitor se explicita, e o que marca diálogo é a segunda pessoa. Só a alternativa D traz o interlocutor dentro da frase: \"Logo que puder dispensar tua mão quente, irei sozinha e com horror\" — há um \"tu\" a quem G.H. se dirige e de cuja mão ela se segura enquanto narra. As outras quatro são igualmente de Clarice e igualmente densas, mas todas falam em primeira pessoa sobre si e sobre o mundo: A trata do encolhimento diante da grandeza, B do desabamento da civilização pessoal, C da fronteira entre o eu e o que não é eu, e E do murmúrio neutro tocando a identidade das coisas. Nenhuma delas convoca alguém."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-27",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "La Bouche du Roi é a obra mais famosa de Romuald Hazoumè, artista plástico da República do Benim (África Ocidental), local de onde escravos africanos eram transportados para as Américas. Em La Bouche du Roi, vê-se uma instalação que recria o mapa do porão de um navio negreiro, utilizando centenas de máscaras, galões de petróleo vazios e outros materiais que representam a situação de pessoas escravizadas. A obra propõe uma revisão iconográfica da história do tráfico de escravos.\n\nNa obra A visão das plantas, de Djaimilia Pereira da Silva, o personagem Celestino retorna de sua vida de corsário assombrado pelos crimes que praticara. O pirata foi se transformando em um jardineiro, de cujas mãos nascem a beleza e o viço das plantas. Sob a paz da natureza, entretanto, assomam-se constantes lembranças dos escravos mortos.",
+   "enunciado": "Constata-se da leitura de A visão das plantas e da descrição de La Bouche du Roi:",
+   "alternativas": {
+    "a": "Em A visão das plantas, a crítica social manifesta-se de forma sutil, ao enfatizar o caráter idílico do jardim. Já em La Bouche du Roi, a crueza do material, proveniente do lixo, diminui a intensidade da crítica à violência e interfere negativamente na dimensão estética da obra.",
+    "b": "Em ambas as expressões artísticas, na escritura poética de Djaimilia e na híbrida instalação do artista plástico, ressoam vozes da história, espectros antes silenciosos a clamar pela responsabilidade da sociedade. Ambas demonstram como a arte não perdoa esquecimentos; como objetos artísticos, reinventam situações e são potentes formas de crítica e de regeneração dos sentimentos humanos.",
+    "c": "As duas obras compartilham uma estética de desconstrução das narrativas coloniais, mas A visão das plantas é uma obra de ficção que reinterpreta a história de uma maneira reconciliadora, enquanto La Bouche du Roi caracteriza-se por uma crítica desconfortável, buscando expor a violência das práticas coloniais com enfoque nos efeitos psicológicos do colonialismo sobre corpos africanos.",
+    "d": "Embora haja o reconhecimento dessas duas obras no campo das artes, seja na seara da arte literária, seja na das artes plásticas, elas não trazem contribuição ao cânone da literatura pós-colonial, tampouco acenam para a importância de revisitar o passado para compreender os ecos do presente.",
+    "e": "Em A visão das plantas, a autora utiliza elementos de ficção científica para explorar a desconexão emocional dos personagens em relação ao mundo natural. Em La Bouche du Roi, o escultor critica a globalização, utilizando materiais que imitam o “outro” de uma maneira distorcida, ressaltando a perda da identidade cultural africana diante de influências externas."
+   },
+   "resposta": "b",
+   "explicacao": "As duas obras fazem a mesma coisa por meios diferentes: dão voz ao que foi silenciado pelo tráfico. Hazoumè monta o porão do navio com máscaras e galões de petróleo, e Djaimilia devolve os mortos como assombração de um jardim — em ambas o passado reaparece cobrando responsabilidade, que é o que diz a alternativa B. A alternativa A afirma que o material do lixo diminui a crítica e prejudica a obra, juízo que nada sustenta; C chama o romance de reconciliador, quando as lembranças dos escravos mortos nunca se aquietam; D nega às duas qualquer contribuição ao pós-colonial; e E inventa ficção científica no romance e crítica à globalização na instalação."
   }
  ],
  "ingles-inference": [
@@ -66677,6 +67232,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O texto cita \"a chameleonic vine in the jungles of Chile mimicking the shape and color of nearby plants by a mechanism that's not yet understood\" e reforça no fim: não se sabe como a trepadeira reúne informação sobre as plantas ao redor para executar o mimetismo. A pergunta científica em aberto é, portanto, o modo como ela reproduz as características visuais das vizinhas. As demais alternativas propõem hipóteses que o texto não levanta: ciclo reprodutivo, polinizadores, altitude e simbiose com fungos."
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "fuvest-ingles-26",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "The Tyler Prize for Environmental Achievement was awarded to Dr Toby Kiers, an evolutionary biologist at Vrije University Amsterdam who has spent the past three decades studying the workings and significance of the soil’s circulatory system. Dr. Kiers studies mycorrhizal fungi, microbes that form vast, underground networks with carbon drawn from the roots of plants and trees. The fungal kingdom, which stands apart from plants and animals, contains anywhere from two million to five million species, including yeasts, mildew, lichens and mushrooms. In 2021, Dr. Kiers founded the Society for the Protection of Underground Networks, or SPUN, a global network of researchers and “underground explorers” that works to identify and protect hot spots of fungal diversity. Why fungi? These underground ecosystems play a crucial role in regulating the climate. Soils store about 75 percent of Earth’s terrestrial carbon and contain close to 60 percent of Earth’s biodiversity. Mycorrhizal fungi form the basis of food chains for those aboveground organisms, which together generate more soil and nutrients. They draw carbon from plants and get it to stick to minerals underground, where it’s hard to release back into the atmosphere. The vast majority of crops form partnerships with mycorrhizal fungi and rely on them for their nutrients. These fungi also hold soil together; their bodies are woven into the aggregate and produce sticky chemicals that are hard to break down. Take away that scaffolding and soils would erode and disappear. People think they know what soil and dirt is. With high-resolution imaging, we’re starting to make it visible and show that it’s alive. These are ecosystems with as much complexity as what’s happening aboveground. The New York Times. 14 January 2026. Adaptado.",
+   "enunciado": "Segundo o texto, a descrição dos fungos micorrízicos como parte do “sistema circulatório do solo” serve para",
+   "alternativas": {
+    "a": "sugerir que os fungos reproduzem anatomicamente o sistema vascular humano.",
+    "b": "construir uma analogia funcional que apresenta as redes fúngicas como mediadoras de fluxos e trocas dentro do ecossistema subterrâneo.",
+    "c": "indicar que o solo opera por mecanismos autônomos desvinculados da atividade biológica.",
+    "d": "afirmar que as plantas transferem nutrientes entre si por meio de estruturas visíveis acima do solo.",
+    "e": "estabelecer equivalência estrutural entre raízes vegetais e organismos animais subterrâneos."
+   },
+   "resposta": "b",
+   "explicacao": "Chamar as redes fúngicas de \"sistema circulatório do solo\" é analogia de função, não de anatomia: como um sistema circulatório, elas transportam e distribuem — carbono das raízes para os minerais, nutrientes para as lavouras, base das cadeias alimentares. É o que diz a alternativa B. A alternativa A toma a metáfora ao pé da letra e fala em reproduzir o sistema vascular humano; C conclui que o solo opera desvinculado da atividade biológica, o oposto do texto; D descreve transferência entre plantas por estruturas visíveis acima do solo; e E propõe equivalência estrutural entre raízes e animais subterrâneos."
   }
  ],
  "ingles-grammar-structure": [
@@ -71704,7 +72279,7 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "dificuldade": "facil",
    "origem": "fuvest",
-   "texto_apoio": "Over the last two decades, technology companies and policymakers warned of a “digital divide” in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply. But with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level. A combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion- dollar enterprise offering new opportunities — at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching. “What’s happened as sports has become privatized is that it has become the haves and have-nots,” said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. “Particularly for low-income kids, if they don’t have access to sports within the school setting, where are they going to get their physical activity?” Mr. Solomon said. “The answer is nowhere.” The New York Times. 24 March 2023. Adaptado.",
+   "texto_apoio": "Over the last two decades, technology companies and policymakers warned of a “digital divide” in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply. But with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level. A combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion-dollar enterprise offering new opportunities — at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching. “What’s happened as sports has become privatized is that it has become the haves and have-nots,” said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. “Particularly for low-income kids, if they don’t have access to sports within the school setting, where are they going to get their physical activity?” Mr. Solomon said. “The answer is nowhere.” The New York Times. 24 March 2023. Adaptado.",
    "enunciado": "Conforme o texto, um dos motivos para a disparidade relativa à prática de atividades físicas por alunos, segundo o nível de renda, reside",
    "alternativas": {
     "a": "no abismo persistente entre as notas de estudantes ricos e pobres.",
@@ -71935,6 +72510,86 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Rhoades descobriu que as árvores da floresta experimental haviam mudado a química das próprias folhas \"to the detriment of the caterpillars\" — e as lagartas começaram a morrer. É a alteração da composição foliar comprometendo a sobrevivência do herbívoro, e o achado ficou marcante porque árvores ainda não atacadas também mudaram, como se avisadas. A alternativa A fala em inimigos naturais, que aparecem no exemplo do feijão-de-lima, não neste; C atribui a resiliência à variabilidade das lagartas; D introduz fertilidade do solo; e E explica tudo pela oscilação natural das pragas, que é exatamente a hipótese que a descoberta afasta."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-20",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Until relatively recently, our knowledge of the realities of daily life in the Roman empire relied heavily on literary sources. They inevitably focused on the imperial elites. The past 40 years, however, have seen an explosion in the discovery of new material and textual evidence. The meticulous triangulation of all this new evidence by scholars has birthed a new, data-driven school of ancient history that has yielded an extraordinarily detailed picture of the lives and livelihoods not just of the empire’s privileged upper classes but of everyone else as well. The result is thrilling, because it overturns so many earlier assumptions. It used to be thought that the harsh living conditions of most ancient Romans must have taken a terrible toll on their health. Yet new bio-archaeological techniques reveal that skeletal signatures of childhood disease were twice as high in Victorian London as in Roman British cities. Dental records do reveal an alarming deterioration in oral health coincident with Roman rule. The Romans’ relative good health probably had something to do with their diet. Here, it is the assumption that most scraped by on a subsistence level which new data consigns to history. In fact, even slaves enjoyed typical daily calorific intakes nearly twice the subsistence level. Urban and rural diets were surprisingly rich and varied — bone analysis reveals a healthy mix of seafood, meat, dairy and legumes — even in the farthest-flung corners of the empire. The economic irrelevance of women and girls is another misconception. Textiles were a vast industry, employing up to half of all the labour in the empire, and what women could earn from spinning rivalled some male monthly wages. Thus, for an enormous number of Roman households, the female members were economically just as important as the males. Financial Times. 10 January 2026. Adaptado.",
+   "enunciado": "De acordo com o texto, a discussão sobre ingestão calórica e diversidade alimentar contribui para",
+   "alternativas": {
+    "a": "sustentar que a prosperidade econômica alcançava proporções equivalentes em todas as regiões do império.",
+    "b": "revisar a hipótese de que a maioria da população vivia estritamente em nível de subsistência.",
+    "c": "indicar que a dieta romana dependia de forma prioritária de cereais básicos de baixo valor nutritivo.",
+    "d": "demonstrar que o consumo alimentar variava exclusivamente conforme o status jurídico do indivíduo.",
+    "e": "afirmar que os escravizados recebiam alimentação idêntica à das elites senatoriais."
+   },
+   "resposta": "b",
+   "explicacao": "O parágrafo sobre alimentação abre dizendo o que os novos dados desfazem: \"it is the assumption that most scraped by on a subsistence level which new data consigns to history\". Em seguida vem a prova — mesmo escravizados ingeriam quase o dobro das calorias de subsistência, e a análise óssea mostra dieta variada até nos confins do império. É a alternativa B. A alternativa A generaliza para prosperidade igual em todas as regiões, o que o texto não afirma; C diz que a dieta dependia de cereais pobres, o oposto do \"rich and varied\"; D condiciona o consumo exclusivamente ao status jurídico; e E iguala a comida de escravizados à das elites senatoriais, e o texto compara com o nível de subsistência, não com a elite."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-21",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Until relatively recently, our knowledge of the realities of daily life in the Roman empire relied heavily on literary sources. They inevitably focused on the imperial elites. The past 40 years, however, have seen an explosion in the discovery of new material and textual evidence. The meticulous triangulation of all this new evidence by scholars has birthed a new, data-driven school of ancient history that has yielded an extraordinarily detailed picture of the lives and livelihoods not just of the empire’s privileged upper classes but of everyone else as well. The result is thrilling, because it overturns so many earlier assumptions. It used to be thought that the harsh living conditions of most ancient Romans must have taken a terrible toll on their health. Yet new bio-archaeological techniques reveal that skeletal signatures of childhood disease were twice as high in Victorian London as in Roman British cities. Dental records do reveal an alarming deterioration in oral health coincident with Roman rule. The Romans’ relative good health probably had something to do with their diet. Here, it is the assumption that most scraped by on a subsistence level which new data consigns to history. In fact, even slaves enjoyed typical daily calorific intakes nearly twice the subsistence level. Urban and rural diets were surprisingly rich and varied — bone analysis reveals a healthy mix of seafood, meat, dairy and legumes — even in the farthest-flung corners of the empire. The economic irrelevance of women and girls is another misconception. Textiles were a vast industry, employing up to half of all the labour in the empire, and what women could earn from spinning rivalled some male monthly wages. Thus, for an enormous number of Roman households, the female members were economically just as important as the males. Financial Times. 10 January 2026. Adaptado.",
+   "enunciado": "Conforme o texto, a análise do papel econômico feminino no setor têxtil desafia a percepção de que",
+   "alternativas": {
+    "a": "as mulheres ocupavam posição marginal na estrutura produtiva romana.",
+    "b": "a indústria têxtil substituía em sua totalidade outras atividades produtivas no império.",
+    "c": "o trabalho feminino restringia-se ao ambiente doméstico, sem impacto financeiro significativo.",
+    "d": "a remuneração feminina situava-se em patamar inferior ao dos trabalhadores do sexo masculino.",
+    "e": "a economia romana dependia exclusivamente da produção agrícola."
+   },
+   "resposta": "a",
+   "explicacao": "O texto chama a irrelevância econômica de mulheres e meninas de \"another misconception\" e desmonta-a com dois dados: os têxteis empregavam até metade de toda a mão de obra do império e o que as mulheres ganhavam fiando rivalizava com salários mensais masculinos. O que cai por terra é a ideia de posição marginal na estrutura produtiva — alternativa A. A alternativa B afirma que os têxteis substituíam por completo as demais atividades; C fala em restrição ao ambiente doméstico, e o texto não localiza o trabalho, mede seu peso; D diz que a remuneração feminina era inferior, quando o texto informa que rivalizava; e E declara a economia exclusivamente agrícola."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-23",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "When a bone grows, our bodies’ proteins help provide the structure. When a muscle tears, proteins help rebuild it. When we fight an infection, transport oxygen in our blood or send messages to a cell, proteins often step up to the plate. But how did these skilled molecules first form on Earth and help give rise to life? The mystery, which has evaded scientists for more than five decades, can be explained with rather simple chemistry, according to a study published in Nature. In lab experiments, scientists have successfully shown how two basic ingredients of life — ribonucleic acid (RNA) and amino acids — can combine to start protein synthesis. The basic ingredients and conditions — in water — are thought to have been around on Earth about 4 billion years ago, providing clues to how early life may have been kick-started or could arise on other planets. “It seems pretty probable” that this reaction would have been occurring on early Earth, said Matthew Powner, a chemist at University College London and an author of the new study. Powner’s lab investigates the chemical processes that lead to life, exploring key mechanisms seen in all living organisms. One of the most fundamental processes is how cells make proteins, the complex molecules responsible for our growth and survival from bone formation to immune support. Proteins are made of amino acids, which are thought to have been around long before life emerged. Proteins can’t replicate themselves and are built from blueprints, provided by nucleic acids like DNA and RNA, that instruct the amino acids to assemble. The Washington Post. 27 August 2025. Adaptado.",
+   "enunciado": "De acordo com o texto, a explicação de que proteínas são construídas a partir de instruções fornecidas por ácidos nucleicos está associada à ideia de que",
+   "alternativas": {
+    "a": "as proteínas representam estágio inicial na evolução dos mecanismos de armazenamento genético.",
+    "b": "os aminoácidos contêm arquitetura informacional suficiente para gerar estruturas biológicas autônomas.",
+    "c": "a replicação celular baseia-se prioritariamente em propriedades intrínsecas das cadeias proteicas.",
+    "d": "o DNA exerce função estrutural predominante na constituição física das proteínas.",
+    "e": "a síntese proteica depende de um sistema de informação molecular que determina a estrutura primária da proteína."
+   },
+   "resposta": "e",
+   "explicacao": "O último parágrafo diz que proteínas não se replicam e \"are built from blueprints, provided by nucleic acids like DNA and RNA, that instruct the amino acids to assemble\". Blueprint que instrui a montagem é sistema de informação determinando a sequência — a alternativa E. A alternativa A põe as proteínas como estágio inicial do armazenamento genético, e o texto dá esse papel aos ácidos nucleicos; B atribui aos aminoácidos arquitetura informacional própria, que é justamente o que eles não têm; C baseia a replicação em propriedades das cadeias proteicas, contra o \"proteins can’t replicate themselves\"; e D dá ao DNA função estrutural na constituição física da proteína, quando sua função no texto é informacional."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-25",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "The Tyler Prize for Environmental Achievement was awarded to Dr Toby Kiers, an evolutionary biologist at Vrije University Amsterdam who has spent the past three decades studying the workings and significance of the soil’s circulatory system. Dr. Kiers studies mycorrhizal fungi, microbes that form vast, underground networks with carbon drawn from the roots of plants and trees. The fungal kingdom, which stands apart from plants and animals, contains anywhere from two million to five million species, including yeasts, mildew, lichens and mushrooms. In 2021, Dr. Kiers founded the Society for the Protection of Underground Networks, or SPUN, a global network of researchers and “underground explorers” that works to identify and protect hot spots of fungal diversity. Why fungi? These underground ecosystems play a crucial role in regulating the climate. Soils store about 75 percent of Earth’s terrestrial carbon and contain close to 60 percent of Earth’s biodiversity. Mycorrhizal fungi form the basis of food chains for those aboveground organisms, which together generate more soil and nutrients. They draw carbon from plants and get it to stick to minerals underground, where it’s hard to release back into the atmosphere. The vast majority of crops form partnerships with mycorrhizal fungi and rely on them for their nutrients. These fungi also hold soil together; their bodies are woven into the aggregate and produce sticky chemicals that are hard to break down. Take away that scaffolding and soils would erode and disappear. People think they know what soil and dirt is. With high-resolution imaging, we’re starting to make it visible and show that it’s alive. These are ecosystems with as much complexity as what’s happening aboveground. The New York Times. 14 January 2026. Adaptado.",
+   "enunciado": "De acordo com o texto, a explicação sobre a interação entre fungos micorrízicos e minerais subterrâneos desenvolve a ideia de que",
+   "alternativas": {
+    "a": "a estabilidade química do solo depende prioritariamente da composição mineral original.",
+    "b": "o carbono retido pelas plantas circula livremente pelo solo antes de retornar ao ar.",
+    "c": "os fungos atuam como agentes centrais na emissão contínua de carbono para a atmosfera.",
+    "d": "esses organismos promovem a imobilização do carbono ao integrá-lo a estruturas minerais que dificultam sua liberação para a atmosfera.",
+    "e": "as plantas concentram o armazenamento de carbono sobretudo em tecidos aéreos."
+   },
+   "resposta": "d",
+   "explicacao": "A frase é literal no texto: os fungos \"draw carbon from plants and get it to stick to minerals underground, where it’s hard to release back into the atmosphere\". Retirar carbono e prendê-lo a minerais, de onde é difícil devolvê-lo ao ar, é imobilização — alternativa D. A alternativa A dá prioridade à composição mineral original, e o texto atribui a estabilidade à ação dos fungos; B faz o carbono circular livremente antes de voltar ao ar, contra o \"hard to release\"; C transforma os fungos em emissores de carbono; e E concentra o armazenamento em tecidos aéreos, quando o texto diz que os solos guardam cerca de 75% do carbono terrestre."
   }
  ],
  "ingles-vocabulary": [
@@ -73089,7 +73744,7 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "dificuldade": "media",
    "origem": "fuvest",
-   "texto_apoio": "Over the last two decades, technology companies and policymakers warned of a “digital divide” in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply. But with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level. A combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion- dollar enterprise offering new opportunities — at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching. “What’s happened as sports has become privatized is that it has become the haves and have-nots,” said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. “Particularly for low-income kids, if they don’t have access to sports within the school setting, where are they going to get their physical activity?” Mr. Solomon said. “The answer is nowhere.” The New York Times. 24 March 2023. Adaptado.",
+   "texto_apoio": "Over the last two decades, technology companies and policymakers warned of a “digital divide” in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply. But with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level. A combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion-dollar enterprise offering new opportunities — at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching. “What’s happened as sports has become privatized is that it has become the haves and have-nots,” said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. “Particularly for low-income kids, if they don’t have access to sports within the school setting, where are they going to get their physical activity?” Mr. Solomon said. “The answer is nowhere.” The New York Times. 24 March 2023. Adaptado.",
    "enunciado": "Considerado o contexto, o termo “far”, na expressão “far less” (2º parágrafo), expressa",
    "alternativas": {
     "a": "temporalidade.",
@@ -73100,6 +73755,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Em \"poor children and adolescents are participating far less in sports\", \"far\" não localiza nada no espaço nem no tempo: é um intensificador que reforça o comparativo \"less\", como em \"far better\" ou \"far more\". Equivale a \"muito menos\". O sentido de distância (B) é o literal da palavra, mas não o que ela tem diante de um comparativo; temporalidade, antecipação e progresso não cabem na construção."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "fuvest-ingles-22",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Until relatively recently, our knowledge of the realities of daily life in the Roman empire relied heavily on literary sources. They inevitably focused on the imperial elites. The past 40 years, however, have seen an explosion in the discovery of new material and textual evidence. The meticulous triangulation of all this new evidence by scholars has birthed a new, data-driven school of ancient history that has yielded an extraordinarily detailed picture of the lives and livelihoods not just of the empire’s privileged upper classes but of everyone else as well. The result is thrilling, because it overturns so many earlier assumptions. It used to be thought that the harsh living conditions of most ancient Romans must have taken a terrible toll on their health. Yet new bio-archaeological techniques reveal that skeletal signatures of childhood disease were twice as high in Victorian London as in Roman British cities. Dental records do reveal an alarming deterioration in oral health coincident with Roman rule. The Romans’ relative good health probably had something to do with their diet. Here, it is the assumption that most scraped by on a subsistence level which new data consigns to history. In fact, even slaves enjoyed typical daily calorific intakes nearly twice the subsistence level. Urban and rural diets were surprisingly rich and varied — bone analysis reveals a healthy mix of seafood, meat, dairy and legumes — even in the farthest-flung corners of the empire. The economic irrelevance of women and girls is another misconception. Textiles were a vast industry, employing up to half of all the labour in the empire, and what women could earn from spinning rivalled some male monthly wages. Thus, for an enormous number of Roman households, the female members were economically just as important as the males. Financial Times. 10 January 2026. Adaptado.",
+   "enunciado": "O emprego do adjetivo “thrilling” (4º parágrafo) para caracterizar os resultados da pesquisa",
+   "alternativas": {
+    "a": "enfatiza repercussão emocional junto ao público leigo mais do que entre especialistas.",
+    "b": "sugere impacto narrativo comparável ao de relatos ficcionais de suspense histórico.",
+    "c": "indica dependência metodológica de descobertas inesperadas para sustentar relevância acadêmica.",
+    "d": "apresenta avaliação neutra acerca da consistência dos procedimentos historiográficos recentes.",
+    "e": "transmite entusiasmo diante da revisão de interpretações consolidadas sobre a vida no Império Romano."
+   },
+   "resposta": "e",
+   "explicacao": "\"The result is thrilling, because it overturns so many earlier assumptions\" — a própria frase dá a razão do adjetivo: o entusiasmo vem de derrubar suposições consolidadas. É a alternativa E. A alternativa A desloca o efeito para o público leigo em oposição aos especialistas, distinção que o texto não faz; B lê \"thrilling\" como suspense ficcional, quando o termo qualifica o resultado da pesquisa; C transforma o entusiasmo em dependência metodológica de achados inesperados; e D chama de avaliação neutra o que é claramente elogioso."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "fuvest-ingles-24",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "When a bone grows, our bodies’ proteins help provide the structure. When a muscle tears, proteins help rebuild it. When we fight an infection, transport oxygen in our blood or send messages to a cell, proteins often step up to the plate. But how did these skilled molecules first form on Earth and help give rise to life? The mystery, which has evaded scientists for more than five decades, can be explained with rather simple chemistry, according to a study published in Nature. In lab experiments, scientists have successfully shown how two basic ingredients of life — ribonucleic acid (RNA) and amino acids — can combine to start protein synthesis. The basic ingredients and conditions — in water — are thought to have been around on Earth about 4 billion years ago, providing clues to how early life may have been kick-started or could arise on other planets. “It seems pretty probable” that this reaction would have been occurring on early Earth, said Matthew Powner, a chemist at University College London and an author of the new study. Powner’s lab investigates the chemical processes that lead to life, exploring key mechanisms seen in all living organisms. One of the most fundamental processes is how cells make proteins, the complex molecules responsible for our growth and survival from bone formation to immune support. Proteins are made of amino acids, which are thought to have been around long before life emerged. Proteins can’t replicate themselves and are built from blueprints, provided by nucleic acids like DNA and RNA, that instruct the amino acids to assemble. The Washington Post. 27 August 2025. Adaptado.",
+   "enunciado": "Considerado o contexto, a expressão idiomática “step up to the plate” (1º parágrafo) tem como efeito",
+   "alternativas": {
+    "a": "indicar que as proteínas participam de vias metabólicas de menor relevância para a homeostase celular.",
+    "b": "empregar uma metáfora para atribuir às proteínas papel ativo e decisivo nos processos vitais.",
+    "c": "sugerir que o estudo faz uso de analogias esportivas para explicar reações químicas complexas.",
+    "d": "apresentar descrição literal de movimentos celulares associados à regeneração muscular.",
+    "e": "estabelecer relação histórica entre descobertas científicas e a prática de atividades físicas."
+   },
+   "resposta": "b",
+   "explicacao": "\"Step up to the plate\" vem do beisebol e quer dizer assumir a vez e responder pelo lance decisivo. No parágrafo, a expressão fecha uma lista de tarefas vitais — construir osso, refazer músculo, combater infecção, transportar oxigênio, levar mensagens — e o que ela acrescenta é o papel ativo e determinante das proteínas em cada uma: alternativa B. A alternativa A inverte, pondo-as em vias de menor relevância; C confunde a metáfora do jornalista com o método do estudo; D a toma ao pé da letra, como movimento celular; e E inventa um vínculo histórico entre ciência e esporte."
+  },
+  {
+   "subtema": "ingles-vocabulary",
+   "id": "fuvest-ingles-27",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "The Tyler Prize for Environmental Achievement was awarded to Dr Toby Kiers, an evolutionary biologist at Vrije University Amsterdam who has spent the past three decades studying the workings and significance of the soil’s circulatory system. Dr. Kiers studies mycorrhizal fungi, microbes that form vast, underground networks with carbon drawn from the roots of plants and trees. The fungal kingdom, which stands apart from plants and animals, contains anywhere from two million to five million species, including yeasts, mildew, lichens and mushrooms. In 2021, Dr. Kiers founded the Society for the Protection of Underground Networks, or SPUN, a global network of researchers and “underground explorers” that works to identify and protect hot spots of fungal diversity. Why fungi? These underground ecosystems play a crucial role in regulating the climate. Soils store about 75 percent of Earth’s terrestrial carbon and contain close to 60 percent of Earth’s biodiversity. Mycorrhizal fungi form the basis of food chains for those aboveground organisms, which together generate more soil and nutrients. They draw carbon from plants and get it to stick to minerals underground, where it’s hard to release back into the atmosphere. The vast majority of crops form partnerships with mycorrhizal fungi and rely on them for their nutrients. These fungi also hold soil together; their bodies are woven into the aggregate and produce sticky chemicals that are hard to break down. Take away that scaffolding and soils would erode and disappear. People think they know what soil and dirt is. With high-resolution imaging, we’re starting to make it visible and show that it’s alive. These are ecosystems with as much complexity as what’s happening aboveground. The New York Times. 14 January 2026. Adaptado.",
+   "enunciado": "No texto, o emprego metafórico do termo “scaffolding” (7º parágrafo)",
+   "alternativas": {
+    "a": "sugere que a manutenção do solo depende principalmente de intervenções técnicas realizadas por agricultores.",
+    "b": "indica a existência de estruturas físicas artificiais incorporadas ao ambiente subterrâneo para proteger áreas agrícolas.",
+    "c": "evidencia a função estrutural das redes fúngicas ao associá-las a uma imagem de sustentação que mantém a coesão e a estabilidade do solo.",
+    "d": "apresenta descrição literal de suportes minerais responsáveis pela retenção de nutrientes no terreno.",
+    "e": "caracteriza os fungos como elementos periféricos que atuam apenas na superfície do ecossistema terrestre."
+   },
+   "resposta": "c",
+   "explicacao": "O parágrafo diz que os fungos mantêm o solo unido, que seus corpos estão tecidos no agregado e que produzem substâncias grudentas difíceis de degradar; e conclui: \"Take away that scaffolding and soils would erode and disappear\". Andaime é a imagem de sustentação que responde por essa coesão — alternativa C. A alternativa A atribui a manutenção do solo à intervenção técnica de agricultores; B toma \"scaffolding\" como estrutura artificial de fato instalada no subsolo; D também o lê literalmente, como suportes minerais; e E põe os fungos na periferia e na superfície, quando o texto trata de ecossistemas subterrâneos centrais."
   }
  ]
 };

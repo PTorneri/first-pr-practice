@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "historia",
- "total": 548,
+ "total": 555,
  "residuo": [
   "dir-historia-brasil-68",
   "dir-historia-brasil-95",
@@ -3266,6 +3266,47 @@
    "frenteDestino": "historia",
    "pontos": 9,
    "margem": 9
+  },
+  "fuvest-historia-29": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 14,
+   "margem": 14
+  },
+  "fuvest-historia-30": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "fuvest-historia-31": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "fuvest-historia-32": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "fuvest-historia-33": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fuvest-historia-34": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "fuvest-historia-35": {
+   "subtema": "historia-geral-contemporanea",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
   }
  }
 }

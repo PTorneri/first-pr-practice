@@ -6728,6 +6728,24 @@
    },
    "resposta": "d",
    "explicacao": "Em \"utilizou-se o caldo de cana\", o se é partícula apassivadora: a frase equivale a \"o caldo de cana foi utilizado\", com o sintagma funcionando como sujeito paciente e o agente ficando de fora. É a voz passiva sintética, recurso típico do texto científico, que põe o procedimento em primeiro plano e apaga quem o executou. A alternativa A confunde com o se índice de indeterminação do sujeito, que só ocorre com verbo intransitivo ou transitivo indireto, e ainda atribui ao pesquisador o desconhecimento da autoria; B e C descrevem efeitos de ênfase sem nomear a estrutura; e E chama de reflexiva uma construção em que o caldo não pratica ação alguma sobre si."
+  },
+  {
+   "id": "fuvest-gramatica-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "O período “A língua portuguesa, longe de ser apenas um idioma, ergueu uma muralha simbólica” é reescrito sem alteração de sentido em:",
+   "alternativas": {
+    "a": "Apesar de não ser só um idioma, a língua portuguesa ergueu uma muralha simbólica.",
+    "b": "Erguendo uma muralha simbólica, a língua portuguesa afastou-se de ser meramente um idioma.",
+    "c": "A língua portuguesa ergueu uma muralha simbólica quando deixou de ser exclusivamente um idioma.",
+    "d": "Sendo mais do que somente um idioma, a língua portuguesa ergueu uma muralha simbólica.",
+    "e": "A língua portuguesa, à medida que consiste em um mero idioma, ergueu uma muralha simbólica."
+   },
+   "resposta": "d",
+   "explicacao": "\"Longe de ser apenas um idioma\" nega o \"apenas\", não o \"ser\": a língua é idioma e é mais do que isso, e é por ser mais que ergueu a muralha. A alternativa D preserva os dois movimentos — \"sendo mais do que somente um idioma\" mantém o excedente e, no gerúndio causal, mantém o vínculo com o que se ergueu. A alternativa A troca a relação por concessão (\"apesar de\"), opondo o que no original se soma; B inverte o sujeito da mudança, fazendo a língua afastar-se de ser idioma; C introduz um antes e um depois (\"quando deixou de ser\") que o original não tem; e E afirma o contrário do texto, que a língua consiste em um mero idioma."
   }
  ]
 }

@@ -9019,6 +9019,119 @@
       },
       "resposta": "b",
       "explicacao": "O primeiro número perfeito é 6, pois 1 + 2 + 3 = 6. A progressão geométrica de razão 3 que começa em 6 é 6, 18, 54, 162, …, e todo termo é 6 × 3ⁿ⁻¹: como o fator 6 é par, o produto é sempre par. A alternativa A falha porque em (2ⁿ − 1) os termos 15 e 63, para n = 4 e n = 6, não são primos; C erra porque 31 é primo, não perfeito; D erra porque, sendo 15 não primo, a proposição de Euclides não se aplica, e 8 × 15 = 120 não é perfeito; e E confunde as sequências, pois as diferenças 2, 4, 8, 16 formam progressão geométrica de razão 2, não aritmética."
+    },
+    {
+      "id": "fuvest-matematica-19",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Quando estudamos a geometria do Globo terrestre, temos que a menor distância entre dois pontos na superfície da Terra é realizada por um arco de grande círculo que passa pelo centro do planeta. Esse conhecimento é essencial para a aviação, pois ao usar a rota ortodrômica (arco de círculo máximo) minimiza-se o consumo de combustível, maximizando a eficiência operacional. Considere que um avião quer fazer uma viagem entre as cidades de Turim (Itália) e Montreal (Canadá), que se encontram aproximadamente na mesma Latitude, 45° Norte, e que a diferença na Longitude pode ser considerada, aproximadamente, para fins de cálculos, 90°.",
+      "enunciado": "Denotando por R o raio da Terra, qual a distância que o avião irá percorrer ao viajar de Turim para Montreal?",
+      "alternativas": {
+        "a": "πR/2",
+        "b": "3πR",
+        "c": "2πR",
+        "d": "πR/4",
+        "e": "πR/3"
+      },
+      "resposta": "e",
+      "explicacao": "A distância é R vezes o ângulo central entre as duas cidades, e esse ângulo sai da lei dos cossenos na esfera: cos θ = sen 45° · sen 45° + cos 45° · cos 45° · cos 90°. O último termo zera, e sobra cos θ = 1/2, ou seja, θ = 60° = π/3. A distância é, portanto, πR/3 — alternativa E. O erro que a questão cobra é seguir o paralelo de 45° em vez do círculo máximo: aí se calcularia (R·cos 45°) × (π/2), que não é nenhuma das opções e é justamente mais longo que a rota ortodrômica. As alternativas A, B, C e D correspondem a frações do círculo máximo que o ângulo de 60° não produz."
+    },
+    {
+      "id": "fuvest-matematica-20",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Deseja-se projetar uma rodovia retilínea r de maneira que passe pelos pontos A(2,3) e B(14,9) em um mapa (escala em km). Uma torre de transmissão está localizada no ponto D(10,6), que representa o centro da torre, e tem um raio de alcance de 5 km, definindo uma área circular C. Para realizar a manutenção dessa torre, uma estrada de serviço s, também retilínea, deve ser construída de maneira que seja perpendicular à rodovia r, partindo do centro da torre D.",
+      "enunciado": "Com base nessas informações, analise as seguintes afirmações:\nI. A equação reduzida da reta r que representa a rodovia é y = (1/2)x + 2.\nII. A distância entre os pontos A e B é 6√5 km.\nIII. A rodovia r intercepta a área circular C em dois pontos distintos.\nIV. A equação da reta que representa a estrada de serviço s perpendicular à rodovia r que passa por D é y = −2x + 26.\nV. A equação da circunferência que representa a área circular C é (x − 10)² + (y − 6)² = 25.\nAssinale a alternativa correta.",
+      "alternativas": {
+        "a": "Apenas I, II e V são verdadeiras.",
+        "b": "Apenas II, III e V são verdadeiras.",
+        "c": "Apenas I, III e IV são verdadeiras.",
+        "d": "Apenas II, IV e V são verdadeiras.",
+        "e": "Todas as afirmações são verdadeiras."
+      },
+      "resposta": "e",
+      "explicacao": "As cinco fecham. O coeficiente angular de r é (9 − 3)/(14 − 2) = 1/2, e com A(2,3) vem y = x/2 + 2 (I). A distância AB é √(12² + 6²) = √180 = 6√5 (II). A perpendicular por D tem coeficiente −2 e passa por (10,6): y = −2x + 26 (IV). A circunferência de centro (10,6) e raio 5 é (x−10)² + (y−6)² = 25 (V). Para III, a distância de D à reta x − 2y + 4 = 0 é |10 − 12 + 4|/√5 = 2/√5 ≈ 0,89, menor que o raio 5, logo há dois pontos de interseção. Alternativa E. As demais só ficam de pé para quem erra a distância ponto-reta em III."
+    },
+    {
+      "id": "fuvest-matematica-21",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "A população brasileira vem enfrentando problemas em seu dia a dia devido às mudanças climáticas ocorridas nos últimos tempos. Longos períodos de secas, por exemplo, afetam a distribuição de água dos reservatórios. Pesquisadores brasileiros elaboraram um modelo matemático que contribui para controlar o volume de água dos reservatórios, reduzindo problemas na distribuição de água. O estudo indicou que mudanças nas regras de operação poderiam aumentar o volume mínimo de água armazenada. Uma das equações apresentadas pelos pesquisadores calcula a vazão de água de uma turbina em função de constantes e outras variáveis, como o nível de água do reservatório e a área de abertura da turbina. A essa equação pode-se relacionar uma função real f definida por f(x) = a(bx − c)^0,5, em que a, b, c são coeficientes reais maiores do que 1 e x ≥ c/b.",
+      "enunciado": "Considerando a função g: ℝ₊ → ℝ, definida por g(x) = x^0,5, pode-se afirmar que, partindo de g para chegar em f, a função g sofreu transformações na seguinte ordem:",
+      "alternativas": {
+        "a": "translação horizontal para a direita de b/c, alongamento vertical por fator a, compressão horizontal por fator b.",
+        "b": "translação horizontal para a esquerda de c/b, compressão horizontal por fator b, alongamento vertical por fator a.",
+        "c": "compressão horizontal por fator b, translação horizontal para a esquerda de a/b, alongamento vertical por fator b.",
+        "d": "compressão horizontal por fator b, translação horizontal para a direita de c/b, alongamento vertical por fator a.",
+        "e": "alongamento vertical por fator a, translação horizontal para a esquerda de b/c, compressão horizontal por fator b."
+      },
+      "resposta": "d",
+      "explicacao": "A ordem se lê de dentro para fora do argumento. Trocar x por bx comprime o gráfico horizontalmente pelo fator b: g(bx) = (bx)^0,5. Em seguida, (bx − c) = b(x − c/b) é a mesma compressão deslocada para a direita de c/b — o deslocamento vale c/b, não c, justamente porque já houve a compressão. Por fim, multiplicar por a alonga verticalmente. É a alternativa D. As alternativas B e E deslocam para a esquerda, invertendo o sinal; A e E fazem a translação de b/c em vez de c/b; e C alonga verticalmente por b em vez de a."
+    },
+    {
+      "id": "fuvest-matematica-22",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Duas circunferências são ditas ortogonais quando se interceptam em dois pontos distintos e nesses pontos suas retas tangentes são perpendiculares entre si. Sejam C1 e C2 duas circunferências quaisquer de centro O1 e O2, respectivamente.",
+      "enunciado": "Se C1 e C2 são circunferências ortogonais que se interceptam nos pontos P e Q, é correto afirmar:",
+      "alternativas": {
+        "a": "O2 não pertence à reta tangente à C1 passando por P.",
+        "b": "O triângulo determinado pelos pontos O1, O2 e P é obtuso.",
+        "c": "O quadrilátero de vértices O1, O2, P e Q é um quadrado.",
+        "d": "A reta PQ é mediatriz do segmento O1 O2.",
+        "e": "d(O1, O2)² = r1² + r2², em que d(O1, O2) é a distância entre os pontos O1 e O2 e r1 e r2 são os raios de C1 e C2, respectivamente."
+      },
+      "resposta": "e",
+      "explicacao": "A tangente a uma circunferência é perpendicular ao raio no ponto de contato. Se em P as duas tangentes são perpendiculares entre si, então O1P é perpendicular a O2P — o triângulo O1PO2 é retângulo em P, e Pitágoras dá d(O1,O2)² = r1² + r2². Alternativa E. A alternativa B chama esse triângulo de obtuso, quando ele é retângulo; A nega que O2 esteja na tangente a C1 por P, sendo essa tangente exatamente a reta O2P; C afirma que O1O2PQ é um quadrado, o que exigiria raios iguais e ainda assim daria um quadrado só nesse caso particular; e D põe PQ como mediatriz de O1O2, que só vale se os raios forem iguais."
+    },
+    {
+      "id": "fuvest-matematica-23",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "enunciado": "Em uma determinada competição de jogo de cartas, a regra é que certas cartas possuam valores numéricos que sigam uma progressão aritmética (PA). Definindo que a carta A tem o valor sen(π/12), a carta B tem o valor x, a carta C tem o valor y, a carta D tem o valor z e a carta E tem o valor de sen(75°), qual deve ser o valor de y² − xz para que os números das cartas A, B, C, D e E, nesta ordem, formem uma progressão aritmética (PA)?",
+      "alternativas": {
+        "a": "1",
+        "b": "1/8",
+        "c": "1/16",
+        "d": "1/32",
+        "e": "1/64"
+      },
+      "resposta": "d",
+      "explicacao": "Numa PA de cinco termos, y é o termo central, logo x = y − r e z = y + r. Então y² − xz = y² − (y − r)(y + r) = r², e a pergunta se reduz a achar a razão. Como π/12 rad é 15°, os extremos são sen 15° e sen 75°, e 4r = sen 75° − sen 15°. Pela transformação em produto, sen 75° − sen 15° = 2 · cos 45° · sen 30° = 2 · (√2/2) · (1/2) = √2/2. Daí r = √2/8 e r² = 2/64 = 1/32 — alternativa D. Quem esquece de dividir por 4 chega a 1/2·... e cai nas opções maiores; a resposta não depende de calcular x, y e z separadamente."
+    },
+    {
+      "id": "fuvest-matematica-24",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Uma indústria de brinquedos produz 3 tipos de brinquedos (A, B e C) que contêm peças na cor verde em sua montagem. Na produção de 100 peças dos brinquedos A, B e C, utiliza-se, respectivamente, 21, 54 e 39 gramas de corante verde. Além disso, existe uma única máquina que produz essas peças e leva 1 hora na produção das 100 peças do brinquedo A, 3 horas na produção das 100 peças do brinquedo B e 4 horas na produção das 100 peças do brinquedo C. Sabe-se que a indústria utiliza pelo menos 81 gramas de corante verde e que, segundo o manual da máquina que produz as peças, ela pode funcionar no máximo 15 horas por dia, por questão de segurança.",
+      "enunciado": "Denotando por x, y e z a centena de unidade de peças verdes produzidas para os brinquedos A, B e C, respectivamente, as desigualdades que descrevem esta produção são:",
+      "alternativas": {
+        "a": "7x + 18y + 13z ≥ 27 e x + 3y + 4z ≥ 15",
+        "b": "7x + 18y + 13z ≥ 27 e x + 3y + 4z ≤ 15",
+        "c": "7x + 18y + 13z ≤ 27 e x + 3y + 4z ≤ 15",
+        "d": "7x + 54y + 39z ≥ 27 e x + 3y + 4z ≤ 15",
+        "e": "7x + 54y + 39z ≥ 27 e x + 3y + 4z ≥ 15"
+      },
+      "resposta": "b",
+      "explicacao": "Com x, y e z em centenas de peças, o corante gasto é 21x + 54y + 39z, e o enunciado exige pelo menos 81 gramas: 21x + 54y + 39z ≥ 81. Dividindo tudo por 3, 7x + 18y + 13z ≥ 27. O tempo é x + 3y + 4z horas e a máquina só pode funcionar no máximo 15 horas por dia: x + 3y + 4z ≤ 15. Alternativa B. A alternativa A troca o sentido da segunda desigualdade, permitindo passar do limite de segurança; C inverte a primeira, transformando o mínimo de corante em máximo; e D e E dividem apenas o primeiro coeficiente por 3 e deixam 54 e 39 intactos, o que desequilibra a inequação."
     }
   ]
 }

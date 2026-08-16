@@ -8236,7 +8236,7 @@
    "formato": "direta",
    "dificuldade": "media",
    "origem": "fuvest",
-   "texto_apoio": "Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura. Durante o processo de geração de H2 Após o processo de geração de H2 Ao frasco à esquerda adicionou-se uma quantidade pré- determinada de raspas de zinco metálico e ácido clorídrico. Em seguida, o frasco foi fechado com uma rolha conectada a uma tubulação. À medida que o hidrogênio é produzido pela reação Zn0(s) + 2H+(aq) → Zn2+(aq) + H2(g), o gás se acumula em uma proveta previamente cheia de água. Dado que a solubilidade do hidrogênio na água é desprezível, o volume ocupado pelo gás na proveta corresponde ao volume de hidrogênio produzido durante a reação.\n\nNote e adote: Volume molar do gás ideal nas condições do experimento = 24,9 L. Massa molar do Zn = 65,4 g/mol.",
+   "texto_apoio": "Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura. Durante o processo de geração de H2 Após o processo de geração de H2 Ao frasco à esquerda adicionou-se uma quantidade pré-determinada de raspas de zinco metálico e ácido clorídrico. Em seguida, o frasco foi fechado com uma rolha conectada a uma tubulação. À medida que o hidrogênio é produzido pela reação Zn0(s) + 2H+(aq) → Zn2+(aq) + H2(g), o gás se acumula em uma proveta previamente cheia de água. Dado que a solubilidade do hidrogênio na água é desprezível, o volume ocupado pelo gás na proveta corresponde ao volume de hidrogênio produzido durante a reação.\n\nNote e adote: Volume molar do gás ideal nas condições do experimento = 24,9 L. Massa molar do Zn = 65,4 g/mol.",
    "enunciado": "Considerando que, nas condições do experimento, foram gerados 49,8 mL de hidrogênio, qual a quantidade de Zn metálico, em gramas, que de fato reagiu?",
    "alternativas": {
     "a": "0,07",
@@ -8349,7 +8349,7 @@
    "formato": "direta",
    "dificuldade": "media",
    "origem": "fuvest",
-   "texto_apoio": "Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons Li+ penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons Li+ intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon- sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta.\n\nNote e adote: Distribuição eletrônica: Li = 1s², 2s¹; Na = 1s², 2s², 2p⁶, 3s¹. Massa atômica (u): Li = 7; Na = 23.",
+   "texto_apoio": "Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons Li+ penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons Li+ intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon-sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta.\n\nNote e adote: Distribuição eletrônica: Li = 1s², 2s¹; Na = 1s², 2s², 2p⁶, 3s¹. Massa atômica (u): Li = 7; Na = 23.",
    "enunciado": "Considerando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado (Na+ ou Li+) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é",
    "alternativas": {
     "a": "maior do que de uma bateria íon-Li, pois o Na+ tem maior massa e menor raio iônico do que o Li+.",
@@ -8663,6 +8663,101 @@
    },
    "resposta": "a",
    "explicacao": "Em 100 horas, a uma taxa constante de 7,3 mg/h, dissolvem-se 730 mg de vidro. Como 19% dessa massa é fosfato, são 730 × 0,19 = 138,7 mg, ou 0,1387 g. Dividindo pela massa molar, 0,1387 ÷ 95 = 1,46 × 10⁻³ mol, num litro de água — logo 1,46 × 10⁻³ mol/L. O valor 7,68 × 10⁻³ sairia de dividir a massa total sem aplicar a porcentagem; 730 × 10⁻³ é a massa em miligramas tomada como concentração; e os intermediários vêm de esquecer a conversão de miligrama para grama."
+  },
+  {
+   "id": "fuvest-quimica-27",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Os fios de cabelo possuem uma camada externa composta por moléculas derivadas de ácidos graxos. Essa camada tem a função de proteger o cabelo, sendo responsável pela sensação de brilho e aparência de cabelos saudáveis.\n\nNote e adote:\nMM 1-hexadecanol = 242,5 g/mol.\nConsidere eficiência de separação de 100%.",
+   "enunciado": "Formulações para recuperar a função dessa camada exterior podem conter diversas espécies de cadeia longa que se depositam fisicamente sobre o cabelo, como o 1-hexadecanol, que costuma ser adicionado em quantidades variadas, dependendo do tratamento necessário. Para determinar a quantidade desse álcool, 1 g de uma formulação contendo o 1-hexadecanol, um procedimento de extração foi realizado. Para tanto, foi adicionada a um frasco contendo 10 mL de hexano que foi agitado e, em seguida, deixado em repouso. Após esse processo, a quantidade de 1-hexadecanol nesses 10 mL de hexano foi determinada por um método analítico específico como 62 mmol/L. A porcentagem em massa desse álcool nessa formulação será de",
+   "alternativas": {
+    "a": "0,25",
+    "b": "1,5",
+    "c": "3,9",
+    "d": "15",
+    "e": "39"
+   },
+   "resposta": "d",
+   "explicacao": "A extração leva todo o 1-hexadecanol para os 10 mL de hexano, e é lá que ele é medido: 62 mmol/L × 0,010 L = 0,62 mmol, ou 6,2×10⁻⁴ mol. Multiplicando pela massa molar, 6,2×10⁻⁴ × 242,5 ≈ 0,15 g. Como a amostra da formulação tinha 1 g, a porcentagem em massa é 15% — alternativa D. A alternativa E, 39, sai de usar 62 mmol como se fossem os mols em 1 L; C, 3,9, de dividir por dez a mais; B, 1,5, de errar uma potência de dez no volume; e A, 0,25, de deixar de multiplicar pela massa molar."
+  },
+  {
+   "id": "fuvest-quimica-28",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Considere os compostos orgânicos isômeros de posição orto-nitrofenol (2-nitrofenol) e para-nitrofenol (4-nitrofenol). No primeiro, a posição dos grupos funcionais hidroxila (–OH) e nitro (–NO2) possibilita a formação de ligações de hidrogênio intramoleculares, ou seja, dentro da própria molécula, o que reduz a disponibilidade do grupo hidroxila para a formação de ligações de hidrogênio intermoleculares, isto é, com outras moléculas. Já no segundo, os grupos funcionais estão mais distantes, e a geometria da molécula não possibilita a formação de ligação de hidrogênio intramolecular.",
+   "enunciado": "Com base nos conceitos de ligações químicas e em suas consequências sobre propriedades físicas, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "O orto- e o para-nitrofenol apresentam propriedades físicas idênticas, pois possuem a mesma fórmula molecular e os mesmos grupos funcionais.",
+    "b": "No orto-nitrofenol, a presença de ligação de hidrogênio intramolecular aumenta a capacidade da molécula de interagir por ligações covalentes com a água.",
+    "c": "O para-nitrofenol possui maior ponto de ebulição que o orto-nitrofenol, uma vez que nele predominam ligações de hidrogênio intermoleculares.",
+    "d": "No orto-nitrofenol, a formação de ligação de hidrogênio intramolecular impede completamente a ocorrência de interações intermoleculares entre as moléculas.",
+    "e": "O orto-nitrofenol é mais solúvel em água que o para-nitrofenol, pois a ligação de hidrogênio intramolecular aumenta a polaridade da molécula."
+   },
+   "resposta": "c",
+   "explicacao": "Quem decide o ponto de ebulição é a interação entre moléculas diferentes. No orto, a hidroxila se dobra sobre o próprio grupo nitro e fica ocupada; no para, ela sobra para ligar-se às moléculas vizinhas, e é preciso mais energia para separá-las. Daí o para-nitrofenol ferver a temperatura mais alta — alternativa C. A alternativa A declara propriedades idênticas por terem a mesma fórmula, ignorando que isômeros de posição diferem; B fala em interagir com a água por ligações covalentes, que não é o tipo de interação em jogo; D diz que a ligação intramolecular impede completamente as intermoleculares, quando o texto afirma que apenas as reduz; e E dá maior solubilidade em água ao orto, sendo o para o mais disponível para ligar-se à água."
+  },
+  {
+   "id": "fuvest-quimica-29",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Note e adote:\nConsidere a taxa de batimento cardíaco médio da pessoa de 70 batimentos por minuto.\nΔH da reação de combustão da glicose = -2.800 kJ/mol.",
+   "enunciado": "O custo energético para o funcionamento do coração pode ser estimado como sendo, em média, de 1 J por cada batida. Considerando que a energia para esse processo seja proveniente totalmente da reação de combustão da glicose C6H12O6 + 6O2 → 6CO2 + 6H2O, qual a quantidade de CO2, em mol, expelida em um dia por uma pessoa para manter seu coração funcionando?",
+   "alternativas": {
+    "a": "0,003.",
+    "b": "0,006.",
+    "c": "0,009.",
+    "d": "0,036.",
+    "e": "0,216."
+   },
+   "resposta": "e",
+   "explicacao": "Em um dia são 70 × 60 × 24 = 100.800 batidas, e a 1 J cada uma, 100.800 J, ou 100,8 kJ. Como a combustão de 1 mol de glicose libera 2.800 kJ, o coração consome 100,8/2.800 = 0,036 mol de glicose. A equação mostra que cada mol de glicose produz 6 mols de CO2, logo 6 × 0,036 = 0,216 mol — alternativa E. A alternativa D, 0,036, é a quantidade de glicose, e para nela quem esquece a estequiometria do gás; C, B e A saem de errar a conversão do dia em minutos, dividindo por 60 uma vez a mais em cada passo."
+  },
+  {
+   "id": "fuvest-quimica-30",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "No início do século XX, exploradores que atravessavam a Antártida observaram um fenômeno intrigante na geleira Taylor: água de cor avermelhada brotava do gelo, lembrando sangue. O fenômeno ficou conhecido como “Cachoeiras de Sangue” (Blood Falls). Durante muito tempo, acreditou-se que a coloração fosse causada por algas ou microrganismos pigmentados que viviam em reservatórios de água presas abaixo do gelo. Na verdade, análises químicas mostraram que essa água é extremamente rica em íons ferro(II) dissolvidos. Enquanto permanece sob o gelo, em um ambiente sem oxigênio, a água é incolor. No entanto, ao entrar em contato com o ar, ocorre uma reação química rápida, responsável pela coloração vermelha intensa, semelhante à observada na ferrugem e no tom avermelhado do sangue, associado à hemoglobina.",
+   "enunciado": "Do ponto de vista químico, qual reação explica corretamente a origem da coloração vermelha observada nas Blood Falls?",
+   "alternativas": {
+    "a": "Fe²⁺(aq) + 2e⁻ → Fe(s)",
+    "b": "Fe³⁺(aq) + e⁻ → Fe²⁺(aq)",
+    "c": "4Fe²⁺(aq) + O2(g) + 4H⁺(aq) → 4Fe³⁺(aq) + 2H2O(ℓ)",
+    "d": "2Fe(s) + O2(g) + 2H2O(ℓ) → 2Fe²⁺(aq) + 4OH⁻(aq)",
+    "e": "Fe³⁺(aq) + 3OH⁻(aq) → Fe(OH)3(s)"
+   },
+   "resposta": "c",
+   "explicacao": "O texto entrega o mecanismo: sob o gelo, sem oxigênio, a água com ferro(II) é incolor; ao encontrar o ar, a cor aparece. O que o ar traz é o O2, e o que ele faz é oxidar Fe²⁺ a Fe³⁺, íon responsável pelo tom avermelhado da ferrugem. É a alternativa C, a única em que o oxigênio é reagente e o ferro passa de +2 a +3. A alternativa A reduz Fe²⁺ a ferro metálico; B reduz Fe³⁺ a Fe²⁺, o caminho inverso; D parte de ferro metálico, que não é a espécie dissolvida no lago; e E é precipitação de hidróxido, etapa que só faria sentido depois de já existir o Fe³⁺ que a pergunta quer explicar."
+  },
+  {
+   "id": "fuvest-quimica-31",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "No início do século XX, exploradores que atravessavam a Antártida observaram um fenômeno intrigante na geleira Taylor: água de cor avermelhada brotava do gelo, lembrando sangue. O fenômeno ficou conhecido como “Cachoeiras de Sangue” (Blood Falls). Durante muito tempo, acreditou-se que a coloração fosse causada por algas ou microrganismos pigmentados que viviam em reservatórios de água presas abaixo do gelo. Na verdade, análises químicas mostraram que essa água é extremamente rica em íons ferro(II) dissolvidos. Enquanto permanece sob o gelo, em um ambiente sem oxigênio, a água é incolor. No entanto, ao entrar em contato com o ar, ocorre uma reação química rápida, responsável pela coloração vermelha intensa, semelhante à observada na ferrugem e no tom avermelhado do sangue, associado à hemoglobina.",
+   "enunciado": "O fluxo de água que dá origem às Blood Falls é fornecido por um lago subglacial de água com cerca de 4 vezes mais sais que a água do mar. Em condições normais, a água pura congela a 0 °C sob pressão atmosférica; no entanto, nesse lago, a água permanece líquida mesmo a temperaturas da ordem de −7 °C. Esse reservatório não congela mesmo em temperaturas abaixo de 0 °C, pois",
+   "alternativas": {
+    "a": "a elevada concentração de partículas dissolvidas reduz a temperatura de congelamento da água, dificultando a formação da estrutura cristalina do gelo.",
+    "b": "os íons de ferro presentes reagem quimicamente com a água, liberando calor e impedindo a solidificação.",
+    "c": "o aumento da densidade da água salgada pela concentração de sais dissolvidos eleva seu ponto de congelamento em relação à água pura.",
+    "d": "a pressão exercida pela geleira é suficiente, por si só, para impedir a mudança de fase da água.",
+    "e": "a ausência de oxigênio dissolvido dificulta a formação de ligações de hidrogênio entre as moléculas de água, dificultando a solidificação da água líquida."
+   },
+   "resposta": "a",
+   "explicacao": "É crioscopia, e o dado que a aciona está no enunciado: quatro vezes mais sais que a água do mar. Partículas dissolvidas atrapalham a organização das moléculas de água na rede cristalina do gelo, e a temperatura de congelamento cai proporcionalmente à concentração — por isso os −7 °C. Alternativa A. A alternativa C inverte o efeito, elevando o ponto de congelamento; B supõe reação exotérmica do ferro com a água, e o ferro está apenas dissolvido; D atribui tudo à pressão da geleira, insuficiente sozinha para 7 graus; e E diz que a falta de oxigênio dificulta as ligações de hidrogênio, que se formam entre as próprias moléculas de água."
   }
  ],
  "textos": [

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "literatura",
- "total": 442,
+ "total": 447,
  "residuo": [
   "dir-literatura-53",
   "dir-literatura-55",
@@ -2623,6 +2623,32 @@
    "frenteDestino": "literatura",
    "pontos": 5,
    "margem": 1
+  },
+  "fuvest-literatura-26": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "fuvest-literatura-27": {
+   "subtema": "literatura-contemporanea",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "fuvest-literatura-28": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fuvest-literatura-29": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "revisado": true
+  },
+  "fuvest-literatura-30": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "revisado": true
   }
  }
 }

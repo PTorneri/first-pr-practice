@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "matematica",
- "total": 1053,
+ "total": 1059,
  "residuo": [
   "dir-matematica-rlm-129",
   "dir-matematica-rlm-292",
@@ -6263,6 +6263,42 @@
    "frenteDestino": "matematica",
    "pontos": 12,
    "margem": 9
+  },
+  "fuvest-matematica-19": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 20,
+   "margem": 20
+  },
+  "fuvest-matematica-20": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 13,
+   "margem": 7
+  },
+  "fuvest-matematica-21": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 10,
+   "margem": 6
+  },
+  "fuvest-matematica-22": {
+   "subtema": "matematica-geometria",
+   "frenteDestino": "matematica",
+   "pontos": 19,
+   "margem": 19
+  },
+  "fuvest-matematica-23": {
+   "subtema": "matematica-sequencias",
+   "frenteDestino": "matematica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "fuvest-matematica-24": {
+   "subtema": "matematica-algebra",
+   "frenteDestino": "matematica",
+   "pontos": 3,
+   "margem": 3
   }
  }
 }

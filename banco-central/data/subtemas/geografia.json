@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "geografia",
- "total": 594,
+ "total": 603,
  "residuo": [
   "dir-geografia-24",
   "dir-geografia-28",
@@ -3545,6 +3545,55 @@
    "frenteDestino": "geografia",
    "pontos": 9,
    "margem": 4
+  },
+  "fuvest-geografia-21": {
+   "subtema": "geografia-geopolitica",
+   "frenteDestino": "geografia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "fuvest-geografia-22": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "fuvest-geografia-23": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "fuvest-geografia-24": {
+   "subtema": "geografia-populacao-urbana",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-geografia-25": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "fuvest-geografia-26": {
+   "subtema": "geografia-ambiente-sustentabilidade",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "fuvest-geografia-27": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "revisado": true
+  },
+  "fuvest-geografia-28": {
+   "subtema": "geografia-cartografia",
+   "frenteDestino": "geografia",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-geografia-29": {
+   "subtema": "geografia-agraria-economica",
+   "frenteDestino": "geografia",
+   "revisado": true
   }
  }
 }

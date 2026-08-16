@@ -9214,6 +9214,119 @@
    },
    "resposta": "e",
    "explicacao": "A água cai em queda livre do bico do bule até a lâmina de água, percorrendo a diferença de alturas D − H. Partindo do repouso, v² = 2g(D − H). Para v = 2 m/s: 4 = 20 × (D − 0,08), o que dá D − 0,08 = 0,20 e D = 0,28 m, ou 28 cm. As alternativas menores saem de esquecer de descontar a lâmina de 8 cm, que daria D = 20 cm, ou de trocar o quadrado da velocidade pela velocidade."
+  },
+  {
+   "id": "fuvest-fisica-16",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A produção de energia a partir de fontes renováveis continua a crescer no mundo todo. De acordo com estimativas da Agência Internacional de Energia, 450 GW de nova energia verde seriam instalados em todo o mundo até o final de 2023, dos quais dois terços seriam provenientes de sistemas fotovoltaicos. Esses sistemas funcionam com os módulos fotovoltaicos que convertem a energia recebida do sol em energia elétrica. A radiação solar direta que atinge a superfície da Terra, em um dia claro ao meio-dia, contém um fluxo de aproximadamente 3,0×1021 fótons por segundo por metro quadrado. O comprimento de onda dominante dessa radiação está em torno de 550 nanômetros (nm).\n\nNote e adote:\nCada fóton tem energia diretamente proporcional ao produto da constante de Planck (h) pela velocidade da luz (c) e inversamente proporcional ao comprimento de onda da luz (λ), ou seja, E = hc/λ.\nConstante de Planck: h = 6,6 × 10⁻³⁴ J·s\nVelocidade da luz: c = 3,0 × 10⁸ m/s\nPotência é definida como a quantidade de energia por intervalo de tempo, isto é, P = E/Δt",
+   "enunciado": "Considere um painel fotovoltaico com área de 2,0 m² sob incidência de radiação solar. A eficiência quântica do dispositivo, definida como a razão entre o número de elétrons coletados e o número de fótons incidentes, é de 20%. Qual é a potência elétrica aproximada gerada e como essa eficiência impacta o desempenho do sistema?",
+   "alternativas": {
+    "a": "Exatamente igual a 432 W. A eficiência de 20% significa que um quinto da energia luminosa total é convertida diretamente em eletricidade, sem perdas de calor.",
+    "b": "No máximo igual a 432 W. Apenas 20% dos fótons geram elétrons. Parte da energia de cada fóton é dissipada e transformada em calor, aquecendo o painel.",
+    "c": "Exatamente igual a 2160 W. De acordo com a lei da conservação de energia, toda a luz que atinge o painel deve ser transformada em eletricidade para ser usada na casa.",
+    "d": "Menor que 2160 W. A eficiência de 20% aplica-se apenas à metade do painel que está diretamente voltada para o sol ao meio-dia.",
+    "e": "Exatamente igual a 0 W. O efeito fotovoltaico somente funciona em laboratórios com luzes especiais (lasers) e não pode ser produzido pela luz do sol comum."
+   },
+   "resposta": "b",
+   "explicacao": "A conta fecha em dois passos. A energia de cada fóton é hc/λ = 6,6×10⁻³⁴ × 3,0×10⁸ / 550×10⁻⁹ ≈ 3,6×10⁻¹⁹ J; o painel de 2,0 m² recebe 6,0×10²¹ fótons por segundo, o que dá 2160 W incidentes. Com eficiência quântica de 20%, a potência elétrica é no máximo 432 W. O \"no máximo\" da alternativa B é o que a torna correta: só um quinto dos fótons gera elétron, e a energia dos demais vira calor no painel. A alternativa A dá o mesmo número mas nega as perdas térmicas; C e D usam os 2160 W incidentes como se fossem elétricos; e E nega o efeito fotovoltaico sob luz solar."
+  },
+  {
+   "id": "fuvest-fisica-17",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Considere os textos a seguir que discorrem sobre copos térmicos: “O que realmente faz nossos produtos se destacarem é o isolamento térmico de ponta. Quase todos os itens da nossa seleção são feitos com dupla parede de aço inox 18/8 (...). E o grande segredo disso está na ciência. Sim, isso mesmo! Em outras palavras, nossos produtos possuem um espaço a vácuo entre as paredes que evita a troca de temperatura com o ambiente externo. Esse é um método inventado pelo nosso fundador, o físico e inventor William Stanley Jr., lá em 1913, quando a marca Stanley foi criada. Na época, as partes internas das garrafas eram feitas de vidro. William descobriu, então, que um processo de soldagem entre duas paredes de aço inox, a vácuo, seria muito mais eficiente.” Disponível em https://www.stanley1913.com.br/blogs/news/tecnologia-stanley/. “Copos térmicos possuem uma barreira extra que impede que as trocas de calor com o ambiente externo aconteçam muito rapidamente. Para isso, dispõem de um truque: possuem paredes duplas, às vezes até mesmo triplas, entre o líquido a superfície externa. Isto é, a segunda parede do copo, que é a de contato direto com o líquido, não está diretamente em contato com o meio externo. Entre essas paredes, há ainda um pequeno espaço vazio – um vácuo.” Disponível em: https://guiadoestudante.abril.com.br/.",
+   "enunciado": "De acordo com os textos e com os seus conhecimentos, é correto afirmar:",
+   "alternativas": {
+    "a": "Uma das funções do aço inox na composição das paredes do copo é o de aumentar a irradiação de calor do interior do copo para o ambiente externo, diminuindo a temperatura no interior do líquido.",
+    "b": "Por ser um metal, o aço inox é um isolante térmico melhor do que o vidro, que é tanto um bom isolante elétrico como um bom condutor de calor.",
+    "c": "A parede dupla de aço inox com camadas reflexivas separadas por uma região de vácuo suprime tanto a condução como a irradiação de calor entre o copo e o ambiente externo.",
+    "d": "A presença de uma região de vácuo entre as paredes de metal não inibe o processo de troca de calor por convecção com o ambiente externo.",
+    "e": "A principal função da região de vácuo entre as paredes do copo é a de suprimir a irradiação de calor do ambiente externo para o interior do recipiente."
+   },
+   "resposta": "c",
+   "explicacao": "O copo térmico ataca os três mecanismos de troca: o vácuo entre as paredes elimina condução e convecção, porque não há meio material para transportar calor, e a superfície metálica reflexiva devolve a radiação. A alternativa C é a única que reconhece a dupla ação — vácuo contra a condução, camadas reflexivas contra a irradiação. A alternativa A faz o aço aumentar a irradiação para fora; B chama o aço de melhor isolante que o vidro e o vidro de bom condutor de calor, invertendo os dois; D afirma que o vácuo não inibe a convecção, quando é exatamente o que ele inibe; e E reduz a função do vácuo à irradiação, deixando de fora a condução."
+  },
+  {
+   "id": "fuvest-fisica-18",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O espectro atômico funciona como uma impressão digital cósmica, pois cada elemento químico emite ou absorve luz em comprimentos de onda específicos e imutáveis. Ao decompor a luz de estrelas e galáxias, os cientistas conseguem identificar esses padrões fixos, que servem como uma régua de comparação absoluta entre o que é observado no laboratório e o que vem das profundezas do espaço. A prova da expansão do universo surgiu quando Edwin Hubble percebeu que essas linhas espectrais em galáxias distantes estavam deslocadas para o vermelho (redshift). Esse fenômeno é análogo ao efeito Doppler sonoro. Como esse padrão se repete em quase todas as direções, conclui-se que o próprio espaço entre as galáxias está em constante expansão. Disponível em https://www.jpl.nasa.gov/edu/resources/. Adaptado.",
+   "enunciado": "Qual das alternativas explica corretamente a relação entre os modelos atômicos e a descoberta de Hubble?",
+   "alternativas": {
+    "a": "As linhas espectrais mudam de posição porque os átomos em galáxias distantes são mais antigos e possuem níveis de energia diferentes dos átomos encontrados atualmente na Via Láctea.",
+    "b": "O modelo atômico de Bohr estabelece que os elétrons emitem fótons em frequências específicas; o deslocamento dessas frequências conhecidas para o vermelho (redshift) comprova o afastamento das galáxias.",
+    "c": "O desvio para o vermelho ocorre porque os átomos das galáxias distantes estão se expandindo fisicamente, tornando-se maiores e alterando a distância entre o núcleo e os elétrons.",
+    "d": "Hubble provou que o hidrogênio nas galáxias distantes possui um espectro de emissão diferente do hidrogênio da Terra, o que invalidou o princípio da universalidade das leis da física.",
+    "e": "As linhas de absorção observadas por Hubble são causadas pela poeira cósmica que desacelera a luz, fazendo com que os fótons percam energia e mudem de cor sem que haja movimento real das galáxias."
+   },
+   "resposta": "b",
+   "explicacao": "A ponte entre as duas descobertas é o modelo de Bohr: os elétrons ocupam níveis de energia definidos e, ao saltarem entre eles, emitem ou absorvem fótons de frequências fixas, iguais em qualquer lugar do universo. É por serem fixas que servem de régua — e é por aparecerem deslocadas para o vermelho que Hubble concluiu o afastamento das galáxias. Alternativa B. A alternativa A supõe átomos distantes com níveis de energia diferentes, o que destruiria a régua; C faz os próprios átomos se expandirem; D declara o espectro do hidrogênio distante diferente do terrestre, invalidando a universalidade que o texto afirma; e E atribui o desvio à poeira cósmica, sem movimento real."
+  },
+  {
+   "id": "fuvest-fisica-19",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Uma das hipóteses para explicar a orientação espacial de animais com percursos migratórios longos como tartarugas marinhas é a de que eles possuem cristais de magnetita (Fe3O4) em seus tecidos, permitindo que esses animais detectem variações na direção do campo magnético da Terra próximo à superfície. Em um experimento (Lohmann e Lohmann (1994)), filhotes de tartaruga-cabeçuda (Caretta caretta) foram expostos a um campo magnético de módulo 50 μT e diferentes ângulos de inclinação vertical em relação à superfície. Quando a inclinação era de 60º, as tartarugas interpretavam estar muito ao norte e mudavam sua rota para o sul. Quando a inclinação era de 30º, sentiam estar muito ao sul e ajustavam sua rota ao norte.\n\nNote e adote:\nsen 60º = cos 30º = √3/2 ≈ 0,866\nsen 30º = cos 60º = 1/2",
+   "enunciado": "Qual a variação (em valor absoluto) na componente do campo magnético vertical à superfície da Terra entre os dois ângulos de inclinação utilizados no experimento?",
+   "alternativas": {
+    "a": "18,3 μT",
+    "b": "25 μT",
+    "c": "43,3 μT",
+    "d": "50 μT",
+    "e": "100 μT"
+   },
+   "resposta": "a",
+   "explicacao": "A componente vertical é a projeção do campo sobre a vertical, B·sen θ, porque o ângulo de inclinação é medido em relação à superfície. A 60º ela vale 50 × 0,866 = 43,3 μT; a 30º, 50 × 0,5 = 25 μT. A diferença é 18,3 μT — alternativa A. As demais são os passos intermediários deixados no caminho: C é a componente a 60º, B é a componente a 30º, D é o módulo do campo, que não muda entre as duas situações, e E é o dobro dele. Quem confunde a inclinação com o ângulo em relação à vertical troca seno por cosseno e chega ao mesmo 18,3, mas por compensação, não por acerto."
+  },
+  {
+   "id": "fuvest-fisica-20",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Nos Jogos Olímpicos de Inverno de 2026, a alemã Julia Taubitz ganhou a medalha de ouro no esporte Luge individual feminino com a volta mais rápida de 52,55 s e estimativa de velocidade, na linha de chegada, de 119,4 km/h. A competição ocorreu na pista artificial Eugenio Monti, a qual tem extensão de 1200 m na prova feminina, altitude da largada de 1321 m e altitude de chegada de 1254 m. A atleta, que tem 65 kg, inicia a prova, partindo do repouso, sentada em um pequeno trenó de 23 kg. Inicialmente, ela usa a força do corpo para produzir impulso e ganhar velocidade, percorrendo a pista em declive até a linha de chegada.\n\nNote e adote:\nAceleração da gravidade: g = 10 m/s².\nA definição de energia cinética é a metade do produto da massa pela velocidade ao quadrado, Ecin = (1/2)mv², e a de energia potencial gravitacional é o produto da massa, aceleração da gravidade e altura em relação ao nível de referência, Epot = mgh.",
+   "enunciado": "Usando o movimento de queda livre como referência, qual o porcentual estimado de perda de energia cinética provocado pelas forças não conservativas que atuam no conjunto atleta e trenó entre a linha de largada e a de chegada?",
+   "alternativas": {
+    "a": "Inferior a 5%.",
+    "b": "Igual ou superior a 5%, mas inferior a 10%.",
+    "c": "Igual ou superior a 10%, mas inferior a 15%.",
+    "d": "Igual ou superior a 15%, mas inferior a 20%.",
+    "e": "Igual ou superior a 20%."
+   },
+   "resposta": "d",
+   "explicacao": "O desnível é 1321 − 1254 = 67 m, e a massa do conjunto, 65 + 23 = 88 kg. Em queda livre toda a energia potencial viraria cinética: mgh = 88 × 10 × 67 = 58.960 J. A velocidade real na chegada é 119,4 km/h = 33,17 m/s, o que dá Ecin = (1/2) × 88 × 33,17² ≈ 48.400 J. A perda é (58.960 − 48.400)/58.960 ≈ 17,9%, faixa da alternativa D. A extensão de 1200 m e o tempo de 52,55 s não entram na conta — servem para descrever a prova, e quem tenta usá-los cai nas faixas vizinhas."
+  },
+  {
+   "id": "fuvest-fisica-21",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "enunciado": "Uma esmerilhadeira, constituída de um disco abrasivo acoplado a um motor elétrico, é frequentemente utilizada para cortar superfícies metálicas. Com o motor ligado, o disco de uma esmerilhadeira doméstica é capaz de atingir 600 rotações por minuto. Ao desligar o motor, o disco é desacelerado uniformemente e, após 30 segundos, para completamente. Quantas voltas o disco completa nesse intervalo de tempo?",
+   "alternativas": {
+    "a": "60 voltas.",
+    "b": "100 voltas.",
+    "c": "120 voltas.",
+    "d": "150 voltas.",
+    "e": "180 voltas."
+   },
+   "resposta": "d",
+   "explicacao": "A desaceleração é uniforme, então a velocidade angular cai linearmente de 600 rpm a zero e a velocidade média no intervalo é a metade da inicial: 300 rpm. Em 30 segundos, meio minuto, isso dá 300 × 0,5 = 150 voltas — alternativa D. A alternativa E, 180, sai de multiplicar 600 rpm pelos 30 s inteiros como se não houvesse frenagem, dividido por dois de forma errada; C, 120, e B, 100, resultam de trocar o fator; e A, 60, confunde as 600 rotações por minuto com rotações por segundo. O único cuidado é a unidade: 30 segundos são 0,5 minuto, e a taxa está por minuto."
   }
  ],
  "textos": [

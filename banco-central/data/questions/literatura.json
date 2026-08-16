@@ -6948,7 +6948,7 @@
    "enunciado": "A respeito dos contos “Nós matamos o Cão Tinhoso!”, “Dina”, “Papá, cobra e eu” e “Nhinguitimo”, de Nós matamos o Cão Tinhoso!, é possível afirmar:",
    "alternativas": {
     "a": "Os narradores e os protagonistas são crianças.",
-    "b": "São narrados em primeira pessoa, por narradores- protagonistas.",
+    "b": "São narrados em primeira pessoa, por narradores-protagonistas.",
     "c": "Os protagonistas são oprimidos socialmente, e a reação deles não é endereçada aos opressores.",
     "d": "São fábulas, e os protagonistas são animais.",
     "e": "O espaço representado é o das grandes cidades moçambicanas."
@@ -7210,7 +7210,7 @@
    "formato": "direta",
    "dificuldade": "dificil",
    "origem": "fuvest",
-   "texto_apoio": "Sempre que brilha um novo dia, e que nos bate à porta o jornal, apoderamo-nos com solicitude dessa folha e avidamente percorremos a sessão das Câmaras do dia antecedente em procura do assunto que temos escrito no coração e no espírito - a educação da mulher brasileira -, e dobramos a folha desconsolados e aguardamos o dia seguinte, que se escoa na mesma expectativa, no mesmo desengano! (...) Um dia raiará mais propício para nós, em que os escolhidos da nação brasileira se dignem de achar a educação da mulher um objeto importante para dele ocuparem-se, com a circunspecção que merece. Nísia Floresta. Opúsculo Humanitário. Sonhando ser mestra, eu não imaginava o descanso, o repouso ameno que daria à minha mãe como recompensa dos grandes sacrifícios feitos por ela para meu bem-estar, eu não pensava em ser útil, em tornar-me necessária, imprescindível. Eu queria ser mestra para não morar em um cortiço mal- alumiado, infecto, úmido, nesta terra onde há tantas flores, tanta luz e tantas alegrias. O caso é que fosse qual fosse a mão que me escreveu no pensamento a resolução de vir a ser professora – pertencesse ela à tentação diabólica do luxo ou à compreensão de um dever –, fosse qual fosse, eu a abençoo. Julia Lopes de Almeida. Memórias de Martha.",
+   "texto_apoio": "Sempre que brilha um novo dia, e que nos bate à porta o jornal, apoderamo-nos com solicitude dessa folha e avidamente percorremos a sessão das Câmaras do dia antecedente em procura do assunto que temos escrito no coração e no espírito - a educação da mulher brasileira -, e dobramos a folha desconsolados e aguardamos o dia seguinte, que se escoa na mesma expectativa, no mesmo desengano! (...) Um dia raiará mais propício para nós, em que os escolhidos da nação brasileira se dignem de achar a educação da mulher um objeto importante para dele ocuparem-se, com a circunspecção que merece. Nísia Floresta. Opúsculo Humanitário. Sonhando ser mestra, eu não imaginava o descanso, o repouso ameno que daria à minha mãe como recompensa dos grandes sacrifícios feitos por ela para meu bem-estar, eu não pensava em ser útil, em tornar-me necessária, imprescindível. Eu queria ser mestra para não morar em um cortiço mal-alumiado, infecto, úmido, nesta terra onde há tantas flores, tanta luz e tantas alegrias. O caso é que fosse qual fosse a mão que me escreveu no pensamento a resolução de vir a ser professora – pertencesse ela à tentação diabólica do luxo ou à compreensão de um dever –, fosse qual fosse, eu a abençoo. Julia Lopes de Almeida. Memórias de Martha.",
    "enunciado": "A partir da leitura dos excertos e das obras citadas, é correto afirmar:",
    "alternativas": {
     "a": "Opúsculo Humanitário e Memórias de Martha são obras que defendem fortemente o abolicionismo e o acesso à educação pela população afrodescendente brasileira.",
@@ -7316,6 +7316,99 @@
    },
    "resposta": "c",
    "explicacao": "Fio Jasmim guarda o nome da esposa dos ouvidos de outras mulheres porque \"a de casa é santa\", separa as mulheres entre a santa e a namoradeira, e já se pergunta sobre uma conquista sem admitir interesse. São gestos de manual: a divisão entre a esposa idealizada e a outra disponível, e o desejo travestido de acaso. É masculinidade estereotipada, atendendo às expectativas sociais. As alternativas A e D o apresentam como ruptura ou resistência a esse padrão; B fala em relações igualitárias e respeito mútuo; e E lhe atribui culpa e arrependimento, que o trecho não mostra — ele apenas não entende o que se passa consigo."
+  },
+  {
+   "id": "fuvest-literatura-26",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Certas narrativas convidam o leitor a acompanhar a trama dos acontecimentos, buscando nela as relações de causa e efeito que acabam por produzir sentido ao desfecho proposto. Em A paixão segundo G.H., G.H. propõe outro jogo ao leitor: acompanhá-la no processo de busca de algum tipo possível de elaboração dos fragmentos de linguagem que se acumulam na experiência existencial do indivíduo singular.",
+   "enunciado": "Nesse processo de organização, explicita-se um diálogo entre narradora e leitor, como se observa em:",
+   "alternativas": {
+    "a": "“A verdade não faz sentido, a grandeza do mundo me encolhe. Aquilo que provavelmente pedi e finalmente tive, veio, no entanto me deixar carente como uma criança que anda sozinha pela terra.”",
+    "b": "“O mundo havia reivindicado a sua própria realidade, e, como depois de uma catástrofe, a minha civilização acabara: eu era apenas um dado histórico. Tudo em mim fora reivindicado pelo começo dos tempos e pelo meu próprio começo.”",
+    "c": "“Toda a parte mais inatingível de minha alma e que não me pertence - é aquela que toca na minha fronteira com o que já não é eu, e à qual me dou. Toda a minha ânsia tem sido esta proximidade inultrapassável e excessivamente próxima. Sou mais aquilo que em mim não é.”",
+    "d": "“Não estou à altura de imaginar uma pessoa inteira porque não sou uma pessoa inteira. E como imaginar um rosto se não sei de que expressão de rosto preciso? Logo que puder dispensar tua mão quente, irei sozinha e com horror.”",
+    "e": "“Esse murmúrio, sem nenhum sentido humano, seria a minha identidade tocando na identidade das coisas. Sei que, em relação ao humano, essa prece neutra seria uma monstruosidade.”"
+   },
+   "resposta": "d",
+   "explicacao": "A pergunta é por onde o diálogo entre narradora e leitor se explicita, e o que marca diálogo é a segunda pessoa. Só a alternativa D traz o interlocutor dentro da frase: \"Logo que puder dispensar tua mão quente, irei sozinha e com horror\" — há um \"tu\" a quem G.H. se dirige e de cuja mão ela se segura enquanto narra. As outras quatro são igualmente de Clarice e igualmente densas, mas todas falam em primeira pessoa sobre si e sobre o mundo: A trata do encolhimento diante da grandeza, B do desabamento da civilização pessoal, C da fronteira entre o eu e o que não é eu, e E do murmúrio neutro tocando a identidade das coisas. Nenhuma delas convoca alguém."
+  },
+  {
+   "id": "fuvest-literatura-27",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "La Bouche du Roi é a obra mais famosa de Romuald Hazoumè, artista plástico da República do Benim (África Ocidental), local de onde escravos africanos eram transportados para as Américas. Em La Bouche du Roi, vê-se uma instalação que recria o mapa do porão de um navio negreiro, utilizando centenas de máscaras, galões de petróleo vazios e outros materiais que representam a situação de pessoas escravizadas. A obra propõe uma revisão iconográfica da história do tráfico de escravos.\n\nNa obra A visão das plantas, de Djaimilia Pereira da Silva, o personagem Celestino retorna de sua vida de corsário assombrado pelos crimes que praticara. O pirata foi se transformando em um jardineiro, de cujas mãos nascem a beleza e o viço das plantas. Sob a paz da natureza, entretanto, assomam-se constantes lembranças dos escravos mortos.",
+   "enunciado": "Constata-se da leitura de A visão das plantas e da descrição de La Bouche du Roi:",
+   "alternativas": {
+    "a": "Em A visão das plantas, a crítica social manifesta-se de forma sutil, ao enfatizar o caráter idílico do jardim. Já em La Bouche du Roi, a crueza do material, proveniente do lixo, diminui a intensidade da crítica à violência e interfere negativamente na dimensão estética da obra.",
+    "b": "Em ambas as expressões artísticas, na escritura poética de Djaimilia e na híbrida instalação do artista plástico, ressoam vozes da história, espectros antes silenciosos a clamar pela responsabilidade da sociedade. Ambas demonstram como a arte não perdoa esquecimentos; como objetos artísticos, reinventam situações e são potentes formas de crítica e de regeneração dos sentimentos humanos.",
+    "c": "As duas obras compartilham uma estética de desconstrução das narrativas coloniais, mas A visão das plantas é uma obra de ficção que reinterpreta a história de uma maneira reconciliadora, enquanto La Bouche du Roi caracteriza-se por uma crítica desconfortável, buscando expor a violência das práticas coloniais com enfoque nos efeitos psicológicos do colonialismo sobre corpos africanos.",
+    "d": "Embora haja o reconhecimento dessas duas obras no campo das artes, seja na seara da arte literária, seja na das artes plásticas, elas não trazem contribuição ao cânone da literatura pós-colonial, tampouco acenam para a importância de revisitar o passado para compreender os ecos do presente.",
+    "e": "Em A visão das plantas, a autora utiliza elementos de ficção científica para explorar a desconexão emocional dos personagens em relação ao mundo natural. Em La Bouche du Roi, o escultor critica a globalização, utilizando materiais que imitam o “outro” de uma maneira distorcida, ressaltando a perda da identidade cultural africana diante de influências externas."
+   },
+   "resposta": "b",
+   "explicacao": "As duas obras fazem a mesma coisa por meios diferentes: dão voz ao que foi silenciado pelo tráfico. Hazoumè monta o porão do navio com máscaras e galões de petróleo, e Djaimilia devolve os mortos como assombração de um jardim — em ambas o passado reaparece cobrando responsabilidade, que é o que diz a alternativa B. A alternativa A afirma que o material do lixo diminui a crítica e prejudica a obra, juízo que nada sustenta; C chama o romance de reconciliador, quando as lembranças dos escravos mortos nunca se aquietam; D nega às duas qualquer contribuição ao pós-colonial; e E inventa ficção científica no romance e crítica à globalização na instalação."
+  },
+  {
+   "id": "fuvest-literatura-28",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Leia os excertos dos poemas O Navio Negreiro (1868), de Castro Alves, e O africano e o poeta, extraído de Nebulosas (1872), de Narcisa Amália. 'Stamos em pleno mar...; [...] Albatroz! Albatroz! dá-me estas asas. [...] Mas que vejo eu aí... Que quadro d'amarguras! É canto funeral! ... Que tétricas figuras! ... Que cena infame e vil... Meu Deus! Meu Deus! Que horror! E ri-se a orquestra irônica, estridente... [...] Qual um sonho dantesco as sombras voam!... Gritos, ais, maldições, preces ressoam! E ri-se Satanás Senhor Deus dos desgraçados! Dizei-me vós, Senhor Deus, Se eu deliro... ou se é verdade Tanto horror perante os céus?!... Ó mar, por que não apagas Co'a esponja de tuas vagas Do teu manto este borrão? Castro Alves. O Navio Negreiro. [...] De imenso desgosto Silente expressão; Quem pensa? — O poeta [...] Lacera-me o seio Sulcado de dor, Quem sente? — O poeta [...] Sulquei vasto mar; Mas este queixume [...] Quem quer escutar?… — Quem quer? O poeta [...] Quem vê? — O poeta [...] Sem crenças na vida, Sem pátria querida, Só resta tombar! Mas… quem uma prece Na campa do escravo Que outrora foi bravo Triste há de rezar?!… — Quem há de?… O poeta Narcisa Amália. O africano e o poeta.",
+   "enunciado": "Depreende-se dos poemas:",
+   "alternativas": {
+    "a": "Castro Alves e Narcisa Amália, apesar de distantes no tempo e pertencentes a movimentos literários distintos, trazem críticas severas à escravidão e evidenciam a relação entre a poesia, a dor, a natureza e o sofrimento humano.",
+    "b": "Castro Alves descreve a dor do cativo com profundo envolvimento emocional; Narcisa Amália recorre à expressão \"Quem há?\" para enfatizar a solidão existencial do africano, sugerindo que o mundo deve se curvar à sua dor, mais profunda e sublime que a dos outros seres humanos.",
+    "c": "Ambos os poemas exaltam a liberdade, sendo o mar um símbolo positivo. Em O Navio Negreiro, o mar é uma libertação do sofrimento, enquanto, em O africano e o poeta, o poeta alcança uma transcendência que o liberta de sua dor através do contato com a natureza, principalmente com o mar.",
+    "d": "Em O Navio Negreiro, o autor constrói imagens complexas para atestar a dimensão da crueldade do momento histórico retratado. Em O africano e o poeta, a autora indicia a função crítica do poeta na sociedade, inscrevendo-a no próprio poetar. Desse modo, Narcisa Amália dialoga com Castro Alves, denunciando as injustiças da sociedade escravocrata.",
+    "e": "Ambos os poemas apresentam a figura do poeta como um ser divinizado, cuja percepção de dor transcende a realidade humana. Em O Navio Negreiro, o poeta é intermediário entre horrores do mar e as figuras mitológicas; em O africano e o poeta, a dor do humano destaca-se como um sofrimento internalizado, mas igualmente elevado a uma missão quase divina."
+   },
+   "resposta": "d",
+   "explicacao": "Castro Alves acumula imagens para medir o horror — \"Que tétricas figuras\", \"qual um sonho dantesco as sombras voam\", a orquestra irônica, Satanás rindo —, e Narcisa Amália constrói o poema inteiro sobre uma pergunta que se repete e sempre tem a mesma resposta: quem pensa, quem sente, quem escuta, quem reza pelo escravo? O poeta. A função crítica está inscrita no próprio ato de poetar, e é isso que a alternativa D lê nos dois. A alternativa A os separa em movimentos literários distintos, sendo ambos românticos e quase contemporâneos; B faz Narcisa exigir que o mundo se curve à dor do africano; C transforma o mar em símbolo positivo de libertação; e E diviniza os dois poetas."
+  },
+  {
+   "id": "fuvest-literatura-29",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "enunciado": "Em Memórias de Martha (1899), Julia Lopes de Almeida apresenta uma narrativa que, embora dialogue com a estética naturalista, introduz deslocamentos críticos significativos. Considerando a trajetória da protagonista no romance, assinale a alternativa que caracteriza a relação entre a forma literária e a crítica social na obra.",
+   "alternativas": {
+    "a": "A narrativa adota o determinismo ambiental rigoroso para demonstrar que a promiscuidade do espaço coletivo de habitação anula qualquer possibilidade de desenvolvimento individual ou preservação da dignidade das mulheres trabalhadoras.",
+    "b": "A obra utiliza a estrutura do romance naturalista para celebrar a ascensão social de Martha como um exemplo de que o sistema educacional da época era plenamente democrático e inclusivo.",
+    "c": "A representação da pobreza na obra é suavizada por uma perspectiva idealista e romântica, que ignora as tensões de classe em favor de uma visão sentimental da vida comunitária nas estalagens.",
+    "d": "O romance limita-se a reproduzir as teorias de degenerescência racial da época, justificando a condição de Martha através de uma herança biológica que impede seu desenvolvimento intelectual.",
+    "e": "O foco na precariedade urbana é uma denúncia das \"vítimas do progresso\", evidenciando que a modernidade, na virada do século XIX para o XX, no Rio de Janeiro, fundamentava-se na exclusão e na invisibilidade do trabalho feminino, sobretudo o doméstico."
+   },
+   "resposta": "e",
+   "explicacao": "O enunciado avisa que o romance dialoga com o naturalismo mas introduz deslocamentos, e o deslocamento é justamente onde a alternativa E o localiza: Julia Lopes de Almeida usa a precariedade urbana do Rio da virada do século para denunciar as vítimas do progresso, mostrando que aquela modernidade se erguia sobre a invisibilidade do trabalho feminino, sobretudo o doméstico. A alternativa A adota o determinismo rigoroso que o romance rompe, ao permitir que Martha se desenvolva; B celebra um sistema educacional democrático que a obra não retrata; C diz que a pobreza é suavizada por idealismo romântico; e D reduz o livro à reprodução das teorias de degenerescência racial."
+  },
+  {
+   "id": "fuvest-literatura-30",
+   "banca": "fuvest",
+   "sessao": "fuvest-simulado-2027-1ed",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "enunciado": "Em Caminho de pedras (1937), Rachel de Queiroz desloca o foco do regionalismo rural para a militância política urbana. No entanto, a obra não se limita ao panfleto ideológico, construindo uma tensão constante entre a disciplina do partido e a subjetividade da protagonista Noemi. Assinale a alternativa que descreve corretamente como esse conflito é representado na narrativa.",
+   "alternativas": {
+    "a": "O romance de Rachel de Queiroz abandona a crítica social da Literatura de 1930 para focar em um drama passional de triângulo amoroso, despolitizando as relações de classe em favor do psicologismo.",
+    "b": "A subjetividade feminina é apresentada como um obstáculo reacionário que impede o avanço da causa proletária, sendo a narrativa um libelo contra o individualismo burguês encarnado por Noemi.",
+    "c": "O conflito central reside na impossibilidade de conciliar a militância política, focada no coletivo, com os dramas individuais e maternais de Noemi, expondo a fragilidade do projeto político diante da complexidade do desejo e da culpa.",
+    "d": "A obra adere à estética do realismo socialista, retratando Noemi como a heroína infalível que sacrifica sua vida pessoal em favor da revolução, sem hesitações ou conflitos internos.",
+    "e": "A organização política do partido é celebrada como a única via de cura para as neuroses femininas, sugerindo que a organização coletiva elimina as angústias do exílio doméstico vivido por Noemi no início da obra."
+   },
+   "resposta": "c",
+   "explicacao": "Caminho de pedras é romance de 1930 e o enunciado já nomeia a tensão: disciplina do partido de um lado, subjetividade de Noemi do outro. A alternativa C descreve o conflito como ele se dá — a militância pede o coletivo, e a vida de Noemi devolve o individual, a maternidade, o desejo e a culpa, e é essa distância que expõe a fragilidade do projeto político. A alternativa A diz que o romance abandona a crítica social pelo psicologismo; B faz da subjetividade feminina um obstáculo reacionário, invertendo a simpatia do livro; D adere ao realismo socialista com heroína infalível, quando Noemi hesita o tempo todo; e E apresenta o partido como cura das angústias."
   }
  ],
  "textos": [

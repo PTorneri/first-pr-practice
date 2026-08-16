@@ -5441,7 +5441,7 @@
       "formato": "direta",
       "dificuldade": "dificil",
       "origem": "fuvest",
-      "texto_apoio": "iii. Busca Pelos campos fora Caminhava sempre Como se buscasse Uma presença ausente “Onde estás tu, morte? Não posso te ver: Neste dia de Maio Com rosas e trigo É como se tu não Vivesses comigo [...] É verdade que passas Pela cidade às vezes Nos caixões de chumbo: Mas viro o meu rosto Pois não te compreendo És um pesadelo Uma coisa inventada Que o vento desmente Com suas mãos frescas E a luz logo apaga” [...] Sophia de Mello Breyner Andresen. O Cristo cigano. É tão tenaz o desvio que a esquivança encobridora ante a morte exerce sobre a cotidianidade que, no ser-um-com-o- outro, seus ‘próximos’ ainda se empenham com frequência precisamente junto ao ‘moribundo’ para o persuadir de que escapa da morte e retorna em seguida à tranquila cotidianidade do mundo de suas ocupações. Tal ‘preocupação-com-o-outro’ pensa ‘consolar’ dessa maneira o ‘moribundo’. Ela quer devolvê-lo à existência, ajudando-o a encobrir ainda mais completamente sua possibilidade de ser mais própria e irremetente. A gente se ocupa dessa maneira de uma constante tranquilização sobre a morte. Mas, no fundo, ela vale tanto para o ‘moribundo’ quanto para ‘os que consolam’. E mesmo no caso do deixar de viver, a publicidade ainda não deve ser perturbada, nem inquietada pelo acontecimento na sua ocupada despreocupação. Pois não raro se vê na morte dos outros uma inconveniência social, quando não mesmo uma falta de tato, cuja publicidade deve ser poupada. Martin Heidegger. Ser e Tempo, §51.",
+      "texto_apoio": "iii. Busca Pelos campos fora Caminhava sempre Como se buscasse Uma presença ausente “Onde estás tu, morte? Não posso te ver: Neste dia de Maio Com rosas e trigo É como se tu não Vivesses comigo [...] É verdade que passas Pela cidade às vezes Nos caixões de chumbo: Mas viro o meu rosto Pois não te compreendo És um pesadelo Uma coisa inventada Que o vento desmente Com suas mãos frescas E a luz logo apaga” [...] Sophia de Mello Breyner Andresen. O Cristo cigano. É tão tenaz o desvio que a esquivança encobridora ante a morte exerce sobre a cotidianidade que, no ser-um-com-o-outro, seus ‘próximos’ ainda se empenham com frequência precisamente junto ao ‘moribundo’ para o persuadir de que escapa da morte e retorna em seguida à tranquila cotidianidade do mundo de suas ocupações. Tal ‘preocupação-com-o-outro’ pensa ‘consolar’ dessa maneira o ‘moribundo’. Ela quer devolvê-lo à existência, ajudando-o a encobrir ainda mais completamente sua possibilidade de ser mais própria e irremetente. A gente se ocupa dessa maneira de uma constante tranquilização sobre a morte. Mas, no fundo, ela vale tanto para o ‘moribundo’ quanto para ‘os que consolam’. E mesmo no caso do deixar de viver, a publicidade ainda não deve ser perturbada, nem inquietada pelo acontecimento na sua ocupada despreocupação. Pois não raro se vê na morte dos outros uma inconveniência social, quando não mesmo uma falta de tato, cuja publicidade deve ser poupada. Martin Heidegger. Ser e Tempo, §51.",
       "enunciado": "A escritora Sophia de Mello Breyner Andresen e o filósofo Martin Heidegger descrevem, por meio de recursos expositivos bem diferentes, uma mesma atitude geral comumente assumida por uma pessoa ante o desvelamento de sua própria mortalidade a partir da constatação da morte ou do adoecimento mortal de uma outra pessoa. Qual alternativa melhor descreve essa atitude?",
       "alternativas": {
         "a": "O enfrentamento heroico do absurdo existencial contido na morte.",
@@ -5452,6 +5452,82 @@
       },
       "resposta": "d",
       "explicacao": "O eu lírico de Sophia vira o rosto quando a morte passa nos caixões de chumbo e a chama de pesadelo, coisa inventada que o vento desmente. Heidegger descreve os próximos persuadindo o moribundo de que ele escapa, numa \"constante tranquilização\" que encobre a possibilidade de ser mais própria. Nos dois, a mesma fuga que acalma e esconde o sentido da mortalidade. A alternativa A propõe enfrentamento heroico; B, respeito às tradições; C, empatia com os mortos; e E, perda de sensibilidade que impediria perceber a morte — mas a morte é percebida, e justamente por isso encoberta."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-17",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "“A percepção é então um paradoxo, e a própria coisa percebida é paradoxal. Ela não existe senão enquanto alguém pode notá-la. Eu não posso mesmo por um instante imaginar um objeto em si. Como dizia Berkeley, se eu tento imaginar um lugar do mundo que jamais tenha sido visitado, o fato mesmo que eu o imagino me torna presente neste lugar; eu não posso, portanto, conceber lugar perceptível em que eu próprio não esteja presente. Mas os próprios lugares em que eu me encontro não me são jamais completamente dados, as coisas que eu vejo não são coisas para mim senão sob a condição de se retirar sempre além de seus aspectos apreensíveis. Há, então, na percepção, um paradoxo da imanência e da transcendência. Imanência, porque o percebido não poderia ser estrangeiro àquele que percebe; transcendência, porque ele comporta sempre um além disso que é atualmente dado.” Merleau-Ponty, M. O primado da percepção e suas consequências filosóficas.",
+      "enunciado": "De acordo com o texto, a natureza paradoxal da percepção reside no fato de que",
+      "alternativas": {
+        "a": "o objeto percebido é uma criação subjetiva, o que impede que o mundo tenha qualquer existência real ou independente fora da atividade do sujeito.",
+        "b": "a tentativa de imaginar um lugar não visitado mostra que a consciência humana é capaz de se desligar do corpo para alcançar realidades nas quais o sujeito não está presente.",
+        "c": "a percepção é um processo falho, pois o “objeto em si” só poderia ser conhecido se o sujeito fosse capaz de eliminar a subjetividade de suas formas de apreensão.",
+        "d": "o objeto remete ao sujeito para aparecer como percebido, ao mesmo tempo em que mantém um excesso que nunca se entrega totalmente ao olhar.",
+        "e": "a transcendência da “coisa percebida” indica que o mundo é uma ilusão, uma vez que aquilo que vemos “se retira sempre” e nunca se deixa apreender de forma definitiva."
+      },
+      "resposta": "d",
+      "explicacao": "Merleau-Ponty nomeia o paradoxo em duas palavras e define as duas: imanência, \"porque o percebido não poderia ser estrangeiro àquele que percebe\"; transcendência, \"porque ele comporta sempre um além disso que é atualmente dado\". A alternativa D reúne as duas — o objeto remete ao sujeito para aparecer e ao mesmo tempo guarda um excesso que não se entrega. As demais desfazem o paradoxo escolhendo um lado: A reduz tudo ao sujeito e nega existência real ao mundo; C trata a percepção como processo falho, quando para o autor ela é assim por natureza; E conclui que o mundo é ilusão; e B afirma que a consciência se desliga do corpo, contra o exemplo de Berkeley, em que imaginar já é estar presente."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-18",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Número de inscritos no Exame Nacional do Ensino Médio (ENEM) entre 2010 e 2016 segundo a cor/raça, definidas por autodeclaração, bem como a sua variação:\n\nBranca — inscritos em 2010: 4.810.664 | ganho: 569.867 (11,8%) | perda: -814.577 (-16,9%) | saldo: -244.710 (-5,1%)\nParda — inscritos em 2010: 5.046.457 | ganho: 1.134.748 (22,5%) | perda: -1.084.742 (-21,5%) | saldo: 50.006 (1,0%)\nPreta — inscritos em 2010: 1.421.157 | ganho: 568.701 (40,0%) | perda: -373.997 (-26,3%) | saldo: 194.704 (13,7%)\n\nA. Senkevics. De Brancos para Negros? Uma Análise Longitudinal da Reclassificação Racial no Enem 2010-2016. Adaptado.\n\nSobre a formação e reconfiguração racial, Winant sugere: \"A teoria da formação racial sugere que o padrão de significados raciais e identidades raciais identificáveis, as dimensões raciais da desigualdade social, o grau de mobilização política baseada na raça, tudo isto manifesta instabilidade e flexibilidade. Portanto, num momento específico de uma certa sociedade, a raça pode parecer fenômeno quase 'natural', aproblemático e apolítico, apenas uma questão de 'senso comum', noutro momento ou contexto social, a raça pode ser altamente politizada, como lócus de mobilização social significativa.\" H. Winant. Repensar a Raça no Brasil. Sociedade e Estado, 1994. Adaptado.",
+      "enunciado": "Tendo em vista o argumento de Winant e os dados apresentados, é possível afirmar que o aumento de inscritos no ENEM que se autodeclaram como pretos deve-se, entre outros fatores,",
+      "alternativas": {
+        "a": "a um crescimento demográfico relativo de pessoas da cor/raça preta na população brasileira e ao aumento do número de concluintes pretos no Ensino Médio.",
+        "b": "à diminuição do número absoluto de brancos entre concluintes do Ensino Médio e postulantes a uma vaga no Ensino Superior, que se tornam mais heterogêneos.",
+        "c": "a um aumento da autoidentificação de candidatos como pretos, o que reflete a ressignificação e mobilização social e política dessa categoria racial.",
+        "d": "ao aumento de vagas no Ensino Superior e à crescente adoção de políticas de cotas raciais para pretos e pardos por Instituições de Ensino Superior.",
+        "e": "à despolitização da categoria de raça, que normaliza a categoria preto, aumentando suas oportunidades educacionais e fomentando que mais candidatos se assumam como tal."
+      },
+      "resposta": "c",
+      "explicacao": "Os dados são de reclassificação, não de população: são os mesmos inscritos mudando a cor que declaram entre 2010 e 2016 — os brancos perdem 814 mil e ganham 569 mil, os pretos ganham 568 mil e perdem 373 mil. O que muda é a autodeclaração, e Winant dá o nome: a raça, antes tomada como senso comum, passa a lócus de mobilização. É a alternativa C. A alternativa A recorre a crescimento demográfico e a mais concluintes pretos, quando os números são de troca de categoria; B fala em queda absoluta de brancos entre concluintes, que a tabela não mede; D atribui o efeito às cotas e às vagas, fatores externos ao dado; e E fala em despolitização, o inverso do argumento citado."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-19",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "“Mas nunca fui mestre de ninguém: se, pois, alguém se mostrou desejoso da minha presença quando eu falava, e acudiam à minha procura jovens e velhos, nunca me recusei a ninguém. Nunca, ao menos, falei de dinheiro; mas igualmente me presto a me interrogar os ricos e os pobres, quando alguém, respondendo, quer ouvir o que digo. E se algum deles se torna melhor, ou não se torna, não posso ser responsável, pois que não prometi, nem dei, nesse sentido, nenhum ensinamento. E, se alguém afirmar que aprendeu ou ouviu de mim, em particular, qualquer coisa de diverso do que disse a todos os outros, sabei bem que não diz a verdade.” Platão. Apologia de Sócrates, Parágrafo XIX.",
+      "enunciado": "Nessa passagem, do texto Apologia de Sócrates, temos uma emblemática descrição do chamado método dialético socrático, um importante eixo de sua filosofia. Com base no trecho citado, qual das asserções a seguir melhor o sintetiza?",
+      "alternativas": {
+        "a": "Ensinar implica a afirmação de conhecimentos verdadeiros.",
+        "b": "Ensinar envolve estabelecer diretrizes para o conhecimento.",
+        "c": "Ensinar remete a um método objetivo de acesso à verdade.",
+        "d": "Ensinar envolve o estabelecimento de um diálogo.",
+        "e": "Ensinar requer definição clara da finalidade do aprendizado."
+      },
+      "resposta": "d",
+      "explicacao": "Sócrates nega tudo o que faria dele um mestre: nunca foi mestre de ninguém, nunca cobrou, não prometeu nem deu ensinamento, não responde se alguém se torna melhor ou não. O que resta e o que ele afirma é a disponibilidade de se deixar interrogar por quem quiser ouvir — ricos ou pobres, jovens ou velhos. Ensinar, aí, é estabelecer diálogo, alternativa D. As demais restituem justamente o que ele recusa: A afirma conhecimentos verdadeiros, B estabelece diretrizes, C promete um método objetivo de acesso à verdade e E exige finalidade definida do aprendizado. Nenhuma sobrevive ao \"não prometi, nem dei, nesse sentido, nenhum ensinamento\"."
+    },
+    {
+      "id": "fuvest-filosofia-sociologia-20",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Em um artigo recém-publicado intitulado The Silicon Gaze, os autores descrevem como os sistemas algorítmicos, nos quais se baseiam os modelos de linguagem (LLMs) de inteligência artificial, passam a interpretar o mundo social por meio de dados. Pessoas são traduzidas em padrões de comportamento, perfis estatísticos e probabilidades de consumo, risco ou desempenho. Entre os muitos vieses que esse processo produz, os autores identificam o chamado “viés de proxy”, que “surge quando o modelo confunde o que é mensurável com o que é valioso. Em vez de lidar com noções fugidias como ‘vibrância artística’, o sistema recorre a substitutos contáveis como locais listados como patrimônio cultural pela UNESCO ou avaliados com estrelas Michelin para avaliá-los.” F. Kerche. et al. “The silicon gaze: A typology of biases and inequality in LLMs through the lens of place.” Platforms & Society, 2026. Adaptado.",
+      "enunciado": "Na modernidade, segundo Georg Simmel, a vida social é atravessada por processos de racionalização e objetivação. As formas abstratas de cálculo tornam-se mediadoras das relações sociais, substituindo qualidades singulares por equivalências quantitativas. O fenômeno descrito como “viés de proxy” evidencia uma tensão típica da modernidade, pois demonstra que",
+      "alternativas": {
+        "a": "a ampliação do uso de dados permite que decisões sociais se tornem completamente objetivas, eliminando conflitos interpretativos e neutralizando preconceitos históricos sobre o que é valioso.",
+        "b": "a racionalização contemporânea possibilitada pelos modelos desloca o problema do valor do plano qualitativo para o plano quantitativo, tornando comparáveis realidades que antes resistiam à mensuração.",
+        "c": "os modelos de linguagem, ao responderem ao imperativo moderno da objetificação, recorrem à criação de métricas sempre que há ausência de dados suficientes para fundamentar avaliações de valor.",
+        "d": "ao acumular e processar grandes volumes de dados mensuráveis, os modelos de linguagem aprofundam a lógica da quantificação, mas também permitem avaliações culturais mais precisas e sensíveis às diferenças locais.",
+        "e": "a substituição de qualidades complexas por indicadores mensuráveis converte critérios quantitativos em parâmetros de valor e invisibiliza formas de herança cultural que não possuem métricas globais amplamente reconhecidas."
+      },
+      "resposta": "e",
+      "explicacao": "O viés de proxy é definido no texto: o modelo \"confunde o que é mensurável com o que é valioso\" e troca a vibrância artística por selos da UNESCO e estrelas Michelin. Quem não tem métrica global reconhecida some da conta — e é isso que a alternativa E acrescenta ao diagnóstico de Simmel: o indicador vira o próprio critério de valor e invisibiliza heranças culturais não catalogadas. A alternativa A conclui objetividade completa e fim dos preconceitos; B descreve a substituição sem apontar a perda, ficando aquém do que o exemplo mostra; C diz que os modelos criam métricas quando faltam dados, e o caso é de recorrer a substitutos existentes; e D promete avaliações mais sensíveis às diferenças locais, o oposto do viés."
     }
   ]
 }

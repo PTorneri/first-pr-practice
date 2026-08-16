@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "ingles",
- "total": 535,
+ "total": 543,
  "residuo": [
   "med-ingles-44",
   "med-ingles-46",
@@ -3089,6 +3089,51 @@
    "subtema": "ingles-inference",
    "frenteDestino": "ingles",
    "revisado": true
+  },
+  "fuvest-ingles-20": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fuvest-ingles-21": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fuvest-ingles-22": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "fuvest-ingles-23": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 5
+  },
+  "fuvest-ingles-24": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "fuvest-ingles-25": {
+   "subtema": "ingles-detail",
+   "frenteDestino": "ingles",
+   "pontos": 5,
+   "margem": 1
+  },
+  "fuvest-ingles-26": {
+   "subtema": "ingles-inference",
+   "frenteDestino": "ingles",
+   "revisado": true
+  },
+  "fuvest-ingles-27": {
+   "subtema": "ingles-vocabulary",
+   "frenteDestino": "ingles",
+   "pontos": 9,
+   "margem": 9
   }
  }
 }

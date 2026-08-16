@@ -8015,7 +8015,7 @@
       "formato": "direta",
       "dificuldade": "media",
       "origem": "fuvest",
-      "texto_apoio": "“Pesquisadores realizaram em 2022 uma expedição que promete fazer história. Destino: Serra do Imeri, um conjunto de montanhas no norte do Amazonas. O objetivo da missão foi a realização de um inventário de biodiversidade para saber que tipos de animais e plantas ocorrem na região e de que forma eles se relacionam, ou não, com as espécies que habitam as partes mais baixas do bioma. O Pico da Neblina, o mais alto do Brasil, com 2.995 m, faz parte da Serra do Imeri, mas integra maciço rochoso diferente, fisicamente separado da área da expedição. Do ponto de vista ecológico, são como dois arquipélagos distintos, separados por um grande mar de floresta verde.” Localização da Serra do Imeri. Disponível em https://jornal.usp.br/ciencias/rumo-a-amazonia- desconhecida/21/10/2022. Adaptado.",
+      "texto_apoio": "“Pesquisadores realizaram em 2022 uma expedição que promete fazer história. Destino: Serra do Imeri, um conjunto de montanhas no norte do Amazonas. O objetivo da missão foi a realização de um inventário de biodiversidade para saber que tipos de animais e plantas ocorrem na região e de que forma eles se relacionam, ou não, com as espécies que habitam as partes mais baixas do bioma. O Pico da Neblina, o mais alto do Brasil, com 2.995 m, faz parte da Serra do Imeri, mas integra maciço rochoso diferente, fisicamente separado da área da expedição. Do ponto de vista ecológico, são como dois arquipélagos distintos, separados por um grande mar de floresta verde.” Localização da Serra do Imeri. Disponível em https://jornal.usp.br/ciencias/rumo-a-amazonia-desconhecida/21/10/2022. Adaptado.",
       "enunciado": "Com base nas informações fornecidas e em seus conhecimentos, assinale a alternativa correta.",
       "alternativas": {
         "a": "As barreiras naturais da Serra do Imeri tornam possível o desenvolvimento do endemismo, pois há potencialização da formação de novas espécies em função do grande isolamento geográfico.",
@@ -8128,10 +8128,10 @@
       "formato": "direta",
       "dificuldade": "media",
       "origem": "fuvest",
-      "texto_apoio": "“Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil- réis e entregando-a ao Duque: ‘— Vá levantar esta letra. Você me devolve depois.’ Não é bem caridade... Ele não sabe explicar... Há nisso um certo tom de versatilidade... de facilidade... de um tal ou qual afrouxamento do caráter... Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, a ‘mesma’ cédula do bolso e entregando-lha... A casa aristocrática acha-se perto. A numeração já está em quase trezentos. Uma pequena aragem que sopra levemente nesta parte alta da rua passa-lhe pelas mãos e esfria-as... O seu corpo suado fica como que um bloco gelado e dá-lhe a sensação de que se encolhe, se retrai dentro da sua roupa quente e assoleada, que dela se despega como duma carapaça. Ao mesmo tempo o coração, que batia lá no fundo do peito, veio palpitar bem à superfície, quase à flor da pele, meio engasgando-o.” Dyonélio Machado. Os ratos.",
+      "texto_apoio": "“Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil-réis e entregando-a ao Duque: ‘— Vá levantar esta letra. Você me devolve depois.’ Não é bem caridade... Ele não sabe explicar... Há nisso um certo tom de versatilidade... de facilidade... de um tal ou qual afrouxamento do caráter... Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, a ‘mesma’ cédula do bolso e entregando-lha... A casa aristocrática acha-se perto. A numeração já está em quase trezentos. Uma pequena aragem que sopra levemente nesta parte alta da rua passa-lhe pelas mãos e esfria-as... O seu corpo suado fica como que um bloco gelado e dá-lhe a sensação de que se encolhe, se retrai dentro da sua roupa quente e assoleada, que dela se despega como duma carapaça. Ao mesmo tempo o coração, que batia lá no fundo do peito, veio palpitar bem à superfície, quase à flor da pele, meio engasgando-o.” Dyonélio Machado. Os ratos.",
       "enunciado": "Dentre as frases em destaque, a que caracteriza os efeitos fisiológicos em Naziazeno da reação de luta ou fuga pela ativação do sistema nervoso simpático é:",
       "alternativas": {
-        "a": "Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil- réis e entregando-a ao Duque.",
+        "a": "Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil-réis e entregando-a ao Duque.",
         "b": "Ele não sabe explicar... Há nisso um certo tom de versatilidade... de facilidade... de um tal ou qual afrouxamento do caráter...",
         "c": "Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, a “mesma” cédula do bolso e entregando-lha...",
         "d": "Uma pequena aragem que sopra levemente nesta parte alta da rua passa-lhe pelas mãos e esfria-as.",
@@ -8186,7 +8186,7 @@
       "dificuldade": "media",
       "origem": "fuvest",
       "texto_apoio": "Pesquisas e terapias com células-tronco têm se mostrado cada vez mais promissoras pela possibilidade de seu uso no tratamento de diferentes tipos de doenças, como câncer e doenças degenerativas. As células-tronco podem se diferenciar em células especializadas.",
-      "enunciado": "As células especializadas que derivam de uma mesma célula- tronco possuem os(as) mesmos(as)",
+      "enunciado": "As células especializadas que derivam de uma mesma célula-tronco possuem os(as) mesmos(as)",
       "alternativas": {
         "a": "genes.",
         "b": "RNAs.",
@@ -8348,6 +8348,157 @@
       },
       "resposta": "b",
       "explicacao": "A minhoca respira pela pele: as trocas gasosas exigem superfície úmida, e é por isso que ela sobe à superfície quando o solo encharca e morre quando ele seca. O besouro respira por traqueias, tubos que levam ar direto aos tecidos pelos espiráculos, e também depende de umidade para não desidratar. O bicho-de-conta, crustáceo terrestre, mantém brânquias modificadas e por isso vive em lugares úmidos — o que derruba a respiração traqueal que A lhe atribui e a pulmonar de C e E, além da respiração branquial que D estende aos três."
+    },
+    {
+      "id": "fuvest-biologia-22",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "A capsaicina é um composto orgânico, responsável pela sensação de ardor produzida por algumas pimentas. Pesquisas sobre como o organismo detecta calor e substâncias irritantes levaram à identificação do canal iônico TRPV1. Em humanos, a capsaicina liga-se a esse canal, localizado em terminações nervosas livres associadas à detecção de estímulos potencialmente lesivos. Quando ativado, o TRPV1 aumenta a permeabilidade da membrana neuronal a cátions, especialmente Na⁺ e Ca²⁺, promovendo despolarização e geração de potenciais de ação. Esses impulsos são interpretados pelo sistema nervoso central como dor em queimação.",
+      "enunciado": "Com base nessas informações e nos conhecimentos sobre receptores sensoriais, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "A capsaicina provoca sensação de ardor porque induz aumento da temperatura local nos tecidos com os quais entra em contato, sendo esse aumento detectado por receptores térmicos responsáveis pela percepção de calor.",
+        "b": "A ligação da capsaicina ao TRPV1 promove redução da entrada de cátions na célula sensorial, estabilizando o potencial de membrana e facilitando a propagação do impulso nervoso.",
+        "c": "A ativação do TRPV1 indica que um mesmo receptor sensorial pode responder a estímulos de naturezas distintas, desde que estes estejam associados a condições potencialmente lesivas ao organismo.",
+        "d": "A sensação de queimação ocorre porque a capsaicina estimula mecanorreceptores presentes na pele e nas mucosas, que respondem a alterações estruturais da membrana plasmática provocadas pelo contato com a substância.",
+        "e": "A capsaicina desencadeia sensação de ardor por ativar receptores térmicos responsáveis pela detecção de variações de temperatura não nocivas, os quais não participam de vias neurais associadas à dor."
+      },
+      "resposta": "c",
+      "explicacao": "O TRPV1 é o mesmo canal para dois estímulos de natureza distinta — o calor e uma molécula, a capsaicina — e o que os une é serem ambos potencialmente lesivos. É essa a generalização da alternativa C, e é por isso que a pimenta \"queima\" sem aquecer nada. A alternativa A supõe aumento real da temperatura no tecido; B faz a capsaicina reduzir a entrada de cátions e estabilizar a membrana, quando o texto diz que ela aumenta a permeabilidade e despolariza; D atribui a sensação a mecanorreceptores; e E a receptores térmicos de variações não nocivas fora das vias de dor, contra a descrição de terminações nervosas livres ligadas a estímulos lesivos."
+    },
+    {
+      "id": "fuvest-biologia-23",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Em novembro de 2025, a Anvisa aprovou o registro da Butantan-DV, a primeira vacina de dose única contra a dengue no mundo, desenvolvida pelo Instituto Butantan. Trata-se de uma vacina tetravalente de vírus vivo atenuado, capaz de estimular resposta imune contra os quatro sorotipos do vírus da dengue. Um ensaio clínico de fase III comparou a incidência acumulada de dengue sintomática, confirmada virologicamente, entre o grupo que recebeu a Butantan-DV (Vacinado) e o grupo que recebeu uma substância inerte (placebo), ao longo de aproximadamente dois anos de acompanhamento. Os dados demonstram eficácia vacinal significativa na redução dos casos sintomáticos.",
+      "enunciado": "Com base nos conhecimentos sobre mecanismos de ação das vacinas, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "A diferença progressiva entre os valores dos dois grupos indica que a vacina elimina completamente o vírus da dengue no organismo do vacinado, impedindo qualquer forma de infecção. Isso explica a incidência do grupo vacinado permanecer próxima de zero durante todo o período de acompanhamento do ensaio clínico.",
+        "b": "A eficácia vacinal demonstrada no gráfico significa que, no grupo vacinado, a maioria dos participantes desenvolveu anticorpos detectáveis, enquanto no grupo placebo nenhum participante apresentou qualquer tipo de resposta imunológica, conforme evidenciado pela diferença de incidência acumulada observada entre os dois grupos ao longo do seguimento.",
+        "c": "Por ser uma vacina de vírus vivo atenuado, a Butantan-DV introduz formas enfraquecidas dos quatro sorotipos virais, estimulando o sistema imune adaptativo a produzir anticorpos e células de memória. Isso reduz, mas não elimina totalmente, a probabilidade de dengue sintomática, fato coerente com os dados do grupo vacinado.",
+        "d": "A incidência acumulada mais elevada no grupo placebo demonstra que a substância inerte administrada provocou diretamente a doença nos participantes, funcionando como controle positivo do estudo. A vacina, por sua vez, atuou como controle negativo, sendo responsável pela menor incidência observada em seu grupo.",
+        "e": "Como a vacina é de vírus vivo atenuado, seu mecanismo de proteção baseia-se exclusivamente na produção de anticorpos pela imunidade inata, dispensando qualquer ativação do sistema imune adaptativo. Esse mecanismo seria suficiente para explicar a menor incidência acumulada de dengue sintomática observada no grupo vacinado."
+      },
+      "resposta": "c",
+      "explicacao": "Vírus vivo atenuado significa apresentar ao organismo formas enfraquecidas dos quatro sorotipos, suficientes para acionar a imunidade adaptativa — anticorpos e células de memória — sem causar a doença. Proteção assim reduz a probabilidade de dengue sintomática, mas não a zera, que é o que a alternativa C afirma e o que \"eficácia significativa na redução\" descreve. A alternativa A promete eliminação completa do vírus e incidência zero; B diz que nenhum participante do placebo teve resposta imunológica, o que nada tem a ver com incidência de doença; D faz o placebo causar a doença; e E atribui a proteção à imunidade inata, dispensando a adaptativa, que é precisamente o que uma vacina mobiliza."
+    },
+    {
+      "id": "fuvest-biologia-24",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "As membranas biológicas desempenham papel central na organização e no funcionamento das células. A presença de um sistema de endomembranas, com organelas delimitadas por bicamada lipídica simples ou dupla, constitui uma das principais características que diferenciam células eucarióticas de procarióticas, com consequências diretas sobre o metabolismo, o modo de vida parasitário de diversos organismos e a lógica de ação de fármacos.",
+      "enunciado": "Considerando esses aspectos, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Células procarióticas possuem membrana plasmática, porém a ausência de endomembranas impede a realização de qualquer via metabólica aeróbia, razão pela qual todos os procariontes são anaeróbios obrigatórios e dependem de processos fermentativos para a obtenção de energia a partir de substratos orgânicos.",
+        "b": "O parasitismo ocorre em organismos que carecem de compartimentalização interna por endomembranas, pois a ausência de organelas próprias torna o organismo dependente da maquinaria metabólica do hospedeiro.",
+        "c": "A compartimentalização por endomembranas nas células eucarióticas possibilita que reações metabólicas com exigências físico-químicas distintas ocorram simultaneamente em compartimentos separados.",
+        "d": "As células procarióticas compensam a ausência de núcleo delimitado por membrana por meio de um sistema endomembranoso rudimentar análogo ao retículo endoplasmático, no qual concentram a transcrição do DNA e a síntese de proteínas destinadas à exportação para o meio extracelular.",
+        "e": "Células procarióticas e eucarióticas apresentam grau equivalente de compartimentalização interna por membranas, diferindo fundamentalmente apenas no tamanho celular e na composição química da parede celular, característica que está presente em todos os representantes de ambos os grupos."
+      },
+      "resposta": "c",
+      "explicacao": "Compartimentar é permitir que reações incompatíveis aconteçam ao mesmo tempo na mesma célula: o pH ácido do lisossomo, o ambiente oxidante do retículo e a matriz mitocondrial coexistem porque estão separados por membrana. É a alternativa C, e é a mais curta das cinco. A alternativa A conclui que procariontes não fazem via aeróbia alguma, quando muitas bactérias respiram usando a própria membrana plasmática; B faz o parasitismo depender da falta de endomembranas, e há parasitas eucariontes como o Plasmodium; D inventa um retículo rudimentar nos procariontes; e E iguala o grau de compartimentalização dos dois grupos e ainda afirma parede celular em todos, que falta a muitos eucariontes."
+    },
+    {
+      "id": "fuvest-biologia-25",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "O javali foi introduzido no Brasil por ação humana e, hoje, suas populações causam fortes impactos ambientais, sobretudo na Mata Atlântica. Os javalis revolvem intensamente o solo durante a busca por alimento e apresentam dieta generalista, consumindo frutos, sementes, raízes, invertebrados e pequenos vertebrados. Espécies nativas de animais como cutias, quatis, tatus e pequenos marsupiais utilizam parte desses mesmos recursos alimentares. Em algumas áreas, o javali pode integrar a dieta de grandes predadores nativos, como a onça.",
+      "enunciado": "Considerando a estrutura de cadeias e teias tróficas, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "A redução de invertebrados do solo causada pelo javali interfere na decomposição da matéria orgânica, mas não afeta demais consumidores da cadeia trófica.",
+        "b": "Efeitos do javali sobre a teia trófica são limitados, pois a presença de vários consumidores generalistas reduz possíveis alterações provocadas por sua introdução na quantidade de organismos em cada nível da cadeia alimentar.",
+        "c": "A competição entre javalis e cutias por frutos tende a aumentar a disponibilidade de sementes no solo, pois a sobreposição de dieta favorece dispersão mais eficiente.",
+        "d": "A predação de invertebrados pelo javali pode reduzir a abundância de consumidores secundários insetívoros, alterando a transferência de energia para níveis tróficos superiores.",
+        "e": "A incorporação do javali como presa da onça-pintada tende a neutralizar seus impactos na comunidade, pois a predação restabelece o controle trófico sobre a espécie invasora."
+      },
+      "resposta": "d",
+      "explicacao": "O javali come invertebrados, e invertebrados são o alimento dos consumidores secundários insetívoros. Tirar a base tira o que sustenta esse nível, e a energia que chegaria aos predadores acima diminui junto — alternativa D. A alternativa A isola o efeito na decomposição, como se a redução de invertebrados não alcançasse os demais consumidores; B afirma que a generalidade da dieta amortece o impacto, quando é ela que o espalha por vários níveis; C diz que a competição por frutos aumenta a disponibilidade de sementes no solo, invertendo o resultado do consumo; e E supõe que a onça neutraliza a invasão, mas predação eventual não controla população de espécie exótica com dieta tão ampla."
+    },
+    {
+      "id": "fuvest-biologia-26",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Árvores que choram\nNa Cidade Universitária da USP, em algumas épocas do ano, pode-se observar gotas que caem de algumas árvores. Esse fenômeno é resultado de uma interação de insetos hemípteros com as árvores. Eles se alimentam da seiva das árvores, composta por água, açúcar e outras substâncias como aminoácidos. Ao sugar a seiva, absorvem os compostos nitrogenados e expelem o açúcar e água em excesso. Os hemípteros chegam às árvores sozinhos ou carregados por algumas espécies de formigas, que têm o comportamento de levá-los, defendê-los, e usufruem do produto açucarado.",
+      "enunciado": "A origem da seiva que o hemíptero suga e as relações ecológicas do hemiptero com a árvore, e da formiga com o hemíptero descritas no texto, são, respectivamente:",
+      "alternativas": {
+        "a": "Fotossíntese, competição e parasitismo.",
+        "b": "Fotossíntese, parasitismo e protocooperação.",
+        "c": "Fotossíntese, parasitismo e predação.",
+        "d": "Absorção do solo, comensalismo e mutualismo.",
+        "e": "Absorção do solo, parasitismo e competição."
+      },
+      "resposta": "b",
+      "explicacao": "A seiva que tem açúcar é a elaborada, produzida na fotossíntese e transportada pelo floema — não a que sobe do solo pelo xilema, que traz água e sais. O hemíptero se alimenta dela sem matar a árvore e em prejuízo dela: parasitismo. Já a formiga carrega, defende e em troca recebe o excreto açucarado, com ganho para os dois lados e sem obrigatoriedade: protocooperação. Alternativa B. As alternativas D e E erram já na origem, atribuindo o açúcar à absorção pelo solo; A chama a relação com a árvore de competição, e eles não disputam o mesmo recurso; e C chama a formiga de predadora do hemíptero, que ela protege em vez de comer."
+    },
+    {
+      "id": "fuvest-biologia-27",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "enunciado": "O declínio das populações de insetos polinizadores, sobretudo abelhas, causado por pesticidas e pela perda de habitat, impacta diretamente a agricultura porque",
+      "alternativas": {
+        "a": "reduz a absorção de nutrientes do solo pelas raízes, pois a polinização promovida pelas abelhas estimula o transporte ativo de minerais através do xilema.",
+        "b": "compromete a fixação biológica de nitrogênio no solo, processo que depende exclusivamente da interação simbionte entre o pólen carregado pelas abelhas e bactérias do gênero Rhizobium.",
+        "c": "diminui a variabilidade genética das populações vegetais, visto que a polinização cruzada favorece a recombinação gênica e a formação de sementes e frutos mais vigorosos.",
+        "d": "estimula a transição obrigatória das angiospermas para a anemofilia (polinização pelo vento), processo mais eficiente e que exige menor gasto energético da planta para a produção de néctar.",
+        "e": "induz a formação compulsória de frutos partenocárpicos em todas as angiospermas, o que mantém a produtividade da biomassa da colheita, mas impede a dispersão de sementes."
+      },
+      "resposta": "c",
+      "explicacao": "O polinizador leva pólen de uma planta a outra, e é a polinização cruzada que junta gametas de indivíduos diferentes. Sem ele, cresce a autofecundação, cai a recombinação e a variabilidade genética das populações cultivadas encolhe, junto com o vigor de sementes e frutos — alternativa C. A alternativa A liga a polinização ao transporte de minerais pelo xilema, processos sem relação; B faz a fixação de nitrogênio depender do pólen carregado por abelhas, quando ela é feita por bactérias nas raízes; D declara a anemofilia mais eficiente e de transição obrigatória; e E prevê frutos partenocárpicos em todas as angiospermas, o que não ocorre e ainda assim não manteria a produtividade."
+    },
+    {
+      "id": "fuvest-biologia-28",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Ao comparar a fisiologia de um inseto com a de um mamífero, observa-se que ambos possuem altas demandas metabólicas, mas utilizam estratégias distintas para a manutenção da homeostase e o transporte de substâncias.",
+      "enunciado": "Sobre a fisiologia comparada desses dois grupos, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Ambos utilizam pigmentos respiratórios metálicos, como a hemoglobina, dissolvidos obrigatoriamente no interior de células especializadas para garantir que o oxigênio chegue às mitocôndrias musculares.",
+        "b": "A hemolinfa dos insetos circula sob alta pressão em uma rede de capilares contínuos, o que permite uma velocidade de difusão de gases superior à encontrada no sistema circulatório fechado dos mamíferos.",
+        "c": "O coração dos insetos situa-se na posição ventral e é responsável pelo transporte de oxigênio para os tecidos, diferindo dos mamíferos, que possuem coração dorsal e pulmões responsáveis pela hematose.",
+        "d": "Nos insetos, o sistema circulatório aberto é dissociado do transporte de gases, enquanto nos mamíferos a integração entre os sistemas cardiovascular e respiratório é obrigatória para o suprimento de oxigênio aos tecidos.",
+        "e": "Tanto em insetos quanto em mamíferos, o sistema circulatório é o único responsável pelo transporte de oxigênio e gás carbônico, além de hormônios e excretas."
+      },
+      "resposta": "d",
+      "explicacao": "Nos insetos as traqueias levam ar direto às células, e a hemolinfa fica com o transporte de nutrientes, hormônios e excretas: circulação e respiração são sistemas separados. Nos mamíferos, o oxigênio depende do sangue para sair do pulmão e chegar ao tecido, e os dois sistemas são inseparáveis. Alternativa D. A alternativa A generaliza a hemoglobina em células aos dois grupos; B faz a hemolinfa circular sob alta pressão em capilares contínuos, quando o sistema é aberto e de baixa pressão; C põe o coração do inseto em posição ventral e transportando oxigênio, errando as duas coisas; e E dá ao sistema circulatório o monopólio do transporte de gases também nos insetos."
+    },
+    {
+      "id": "fuvest-biologia-29",
+      "banca": "fuvest",
+      "sessao": "fuvest-simulado-2027-1ed",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Segundo a Organização Mundial da Saúde (OMS), a prática de exercícios físicos traz diversos benefícios para a melhoria da qualidade de vida, como a produção de adaptações orgânicas que reduzem o risco de doenças crônicas. Considerando que a geração desses benefícios depende do atendimento aos princípios do treinamento, analise o caso a seguir: Mulher, 45 anos de idade, trabalha a maior parte do dia sentada e não tem rotina regular de exercícios. Há cerca de dois meses, passou a sentir falta de ar ao subir escadas. Para melhorar o condicionamento, iniciou aulas de sapateado aos sábados, que possuem duração de 90 minutos. Apesar de gostar das aulas, a dificuldade para respirar quando sobe escadas continua.",
+      "enunciado": "Com base nas informações apresentadas, é correto afirmar que a aula de sapateado por 90 minutos, uma vez na semana, pode ser considerada",
+      "alternativas": {
+        "a": "suficiente para a melhora da resistência cardiorrespiratória, portanto a falta de fôlego ao subir escadas deve ter outra causa, que precisaria ser investigada.",
+        "b": "inadequada porque o sapateado exige capacidade anaeróbia, enquanto subir escadas exige capacidade aeróbia.",
+        "c": "insuficiente para melhorar a resistência cardiorrespiratória, devendo ser aumentada sua duração.",
+        "d": "inadequada, na medida em que a continuidade da baixa resistência cardiorrespiratória indica que a aula de sapateado deveria ser mais intensa.",
+        "e": "insuficiente para melhorar a resistência cardiorrespiratória, devendo ser praticada com maior regularidade."
+      },
+      "resposta": "e",
+      "explicacao": "A aula tem 90 minutos, tempo de sobra; o que falta é acontecer mais de uma vez por semana. Sem frequência não há princípio da continuidade, e sem continuidade as adaptações cardiorrespiratórias não se instalam — daí a falta de ar persistir ao subir escadas. Alternativa E. A alternativa C tem o mesmo diagnóstico, mas prescreve aumentar a duração, que já é adequada; A declara o estímulo suficiente e manda procurar outra causa, ignorando o princípio violado; B opõe sapateado anaeróbio a escada aeróbia, e 90 minutos de sapateado são trabalho aeróbio; e D pede mais intensidade, quando o problema é o intervalo de uma semana entre as sessões."
     }
   ]
 }

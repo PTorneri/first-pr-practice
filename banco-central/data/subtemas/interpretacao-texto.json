@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "interpretacao-texto",
- "total": 534,
+ "total": 539,
  "residuo": [
   "dir-interpretacao-texto-10",
   "dir-interpretacao-texto-37",
@@ -3063,6 +3063,31 @@
    "frenteDestino": "interpretacao-texto",
    "pontos": 5,
    "margem": 1
+  },
+  "fuvest-interpretacao-texto-8": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "fuvest-interpretacao-texto-9": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "fuvest-interpretacao-texto-10": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "fuvest-interpretacao-texto-11": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "fuvest-interpretacao-texto-12": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
   }
  }
 }

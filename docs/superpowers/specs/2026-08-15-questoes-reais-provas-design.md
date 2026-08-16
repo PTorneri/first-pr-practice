@@ -100,7 +100,8 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 | 1 — piloto | FGV 2023.1, bloco Matemática + Humanas | 30 | **feito** (`be66418`) |
 | 1b | FGV 2023.1, bloco Biologia, Física e Química | 45 | **feito** |
 | 1c | FGV 2023.1, bloco de Inglês (4 textos-base) | 15 | **feito** |
-| 1d | FGV 2023.1, bloco de Língua Portuguesa e Literatura (pág. 8–12) | ~15 | a fazer |
+| 1d | FGV 2023.1, bloco de Língua Portuguesa e Literatura | 15 | **feito** |
+| **1 — total** | **FGV Unificado 2023.1, sessão completa, 4 cadernos** | **105** | **feito** |
 | 2 | FGV 2022.1 + 2021.1 (64 páginas) | ~200 | |
 | 3 | As 113 FGV já transcritas — recuperar o texto de apoio | 113 | |
 | 4 | Insper 2026.1, 2026.1 v.2 e 2026.2 (destravado) | 91+ | |

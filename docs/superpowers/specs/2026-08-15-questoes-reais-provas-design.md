@@ -28,6 +28,46 @@ Santa Casa 40, outras 10.
 | Insper 2026.1 (+ v.2) e 2026.2 | 91+ | destravado em 15/08/2026: os cadernos e gabaritos chegaram em `fgv e insper/`. O caderno "v.2" não aparece em staging nenhum e pode render questão inédita |
 | **ITA 2023, 2024, 2026 + Mauá 2024, 2025** | ~250–350 | banca nova, em `engenharia/`. O banco não tem **uma única** questão de ITA ou Mauá |
 
+## O que o ENEM ensinou (2026-08-16)
+
+**São três edições, não duas.** Os arquivos `ENEM D1 questões azul.pdf` e
+`ENEM D2 Questões amarelo.pdf` são de **2024**, não de 2025 — o ano só aparece
+na marca-d'água da capa. Com 2023, 2024 e 2025 são 540 questões, não 360.
+
+**O ENEM 2025 não tem gabarito na pasta.** Os quatro PDFs de gabarito cobrem
+2023 (dia 1 e 2) e 2024 (dia 1 e 2). Sem chave oficial, transcrever 2025 seria
+resolver 180 questões e apostar na própria resposta — e a regra desta migração
+é a oposta: questão cuja resposta não se consegue justificar não entra. A fase
+8e fica bloqueada até o gabarito do INEP entrar em `enem e fuvest/`.
+
+**O PDF do INEP tem camada de texto limpa**, ao contrário dos scans da FGV.
+`scratchpad/enem.py` quebra um caderno inteiro em questões com enunciado e
+alternativas separados, e erra em 7 de 555 — todas de Matemática ou Química,
+onde as alternativas são fórmulas compostas como imagem.
+
+**O tabulador é que separa alternativa de texto corrido, não o espaço.** Um
+casamento por espaço engole o enunciado inteiro dentro da alternativa (a)
+sempre que ele começa por artigo — e o ENEM começa por artigo o tempo todo
+("A definição de Sertão…", "A Cordilheira do Himalaia…").
+
+**A ordem do bloco de língua estrangeira não bate com a do gabarito.** No
+caderno, inglês vem antes de espanhol; no gabarito do INEP, a coluna da
+esquerda é inglês e a da direita é espanhol. Ler a coluna pela ordem do caderno
+troca as cinco respostas.
+
+**A referência bibliográfica precisa de campo próprio.** Dentro do
+`texto_apoio` ela era lida pelo classificador, e "Campinas: Unicamp, 2013"
+mandou uma questão sobre revista feminina de 1853 para a Primeira República.
+Agora é `fonte_texto`, renderizado sob o texto e fora do alcance das regras.
+
+**A tabela de subtemas não foi feita para prova de leitura.** Em Humanas e
+Linguagens, metade do lote fecha em ZERO ponto em todos os subtemas: o ENEM
+põe um texto e pergunta o que ele faz, sem nomear o assunto. Em Interpretação é
+estrutural — os seis subtemas descrevem HABILIDADES, e habilidade não deixa
+marca lexical. Em Natureza o problema não existe, porque "mol" e "cloroplasto"
+são palavras. Consequência prática: **um lote de Humanas do ENEM é ~70% pino em
+REVISADAS**, e isso não é sintoma de lote mal escrito.
+
 ## Decisões tomadas
 
 1. **Figura vira PNG recortado do PDF.** O app já renderiza imagem —
@@ -110,7 +150,11 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 | 5d | ITA 2023 e 2026 — os dois cadernos nunca minerados | ~120 | |
 | 6 | Medicina, banca a banca | ~594 | |
 | 7 | Discursivas: FGV com as grades oficiais (`*_GC.pdf`), depois Medicina | ~80 | |
-| **8** | **ENEM 2023 e 2025, os dois dias** — banca nova, chegou em 15/08/2026 | ~360 | **próxima** |
+| 8a | **ENEM 2023, 1º dia** — Humanas 44 + Linguagens 44 | 88 de 90 | **feito** (`5ea30a4`) |
+| 8b | ENEM 2023, 2º dia — as 20 de Natureza que se respondem pelo texto | 20 | **feito** (`cb4ef90`) |
+| 8c | ENEM 2023, 2º dia — o resto de Natureza e as 45 de Matemática | ~70 | **próxima** |
+| 8d | ENEM 2024, os dois dias (`ENEM D1/D2`, gabaritos oficiais no lugar) | ~180 | |
+| 8e | ENEM 2025, os dois dias — **falta o gabarito**, ver abaixo | ~180 | bloqueada |
 | 9 | FUVEST 2024 + os dois simulados oficiais — chegaram em 15/08/2026 | ~270 | |
 
 Os cadernos de ENEM e FUVEST chegaram em `enem e fuvest/`, na raiz, e a pasta

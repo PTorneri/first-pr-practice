@@ -102,12 +102,50 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 | 1c | FGV 2023.1, bloco de Inglês (4 textos-base) | 15 | **feito** |
 | 1d | FGV 2023.1, bloco de Língua Portuguesa e Literatura | 15 | **feito** |
 | **1 — total** | **FGV Unificado 2023.1, sessão completa, 4 cadernos** | **105** | **feito** |
+| 5a | **ITA 2024** — banca nova, trilha de Engenharia | 34 | **feito** (`c25242a`) |
+| 5b | **Mauá** — Física, Química, Biologia, Literatura, Gramática | 44 | **feito** (`9c4587b`, `50e9832`, `0a146bb`) |
+| 5c | Mauá — Humanas (15) e Matemática (36) | 49 | **falta** |
 | 2 | FGV 2022.1 + 2021.1 — **162 páginas**, ver o mapa abaixo | ~350 | |
 | 3 | As 113 FGV já transcritas — recuperar o texto de apoio | 113 | |
 | 4 | Insper 2026.1, 2026.1 v.2 e 2026.2 (destravado) | 91+ | |
-| 5 | **ITA + Mauá** — banca nova, trilha de Engenharia | ~250–350 | |
+| 5d | ITA 2023 e 2026 — os dois cadernos nunca minerados | ~120 | |
 | 6 | Medicina, banca a banca | ~594 | |
 | 7 | Discursivas: FGV com as grades oficiais (`*_GC.pdf`), depois Medicina | ~80 | |
+| **8** | **ENEM 2023 e 2025, os dois dias** — banca nova, chegou em 15/08/2026 | ~360 | **próxima** |
+| 9 | FUVEST 2024 + os dois simulados oficiais — chegaram em 15/08/2026 | ~270 | |
+
+Os cadernos de ENEM e FUVEST chegaram em `enem e fuvest/`, na raiz, e a pasta
+entrou no `.gitignore` pela mesma razão das outras: a raiz É o site.
+
+### O que o material já transcrito ensinou (fases 5a e 5b)
+
+- **O staging não é fonte de gabarito.** Nos três cadernos da Mauá a resposta
+  certa vem impressa em VERMELHO, e ler a cor do span com PyMuPDF conferiu as 95
+  de uma vez. **Seis divergiam** do staging: presencial Q4, inverno Q13 e as
+  on-line Q27, Q29, Q30 e Q44 — estas quatro registradas como "c" quando a certa
+  é "a". Todas as conferidas na mão confirmaram o PDF, nenhuma o staging. Antes
+  de usar qualquer staging, cheque o gabarito contra o caderno.
+- **O caderno on-line da Mauá traz a certa sempre em primeiro lugar.** É a versão
+  "prova e gabarito", não a prova aplicada — o vestibular on-line embaralha as
+  opções por candidato. Entrar como está deixaria as 31 questões daquela sessão
+  com gabarito "a". As opções são rotacionadas por um deslocamento tirado do id;
+  o conjunto não muda, só a ordem. **Rotacionar quebra referência por letra
+  dentro da explicação** ("a alternativa (e) é a de quem…"): escreva a explicação
+  citando o VALOR da opção, e ela sobrevive a qualquer reordenação.
+- **`dificuldade` só aceita `media` e `dificil`.** O `"muito dificil"` previsto
+  acima para o ITA não existe no vocabulário do app: `app.js:4300` renderizaria o
+  selo "Média" e uma classe CSS com espaço no nome. O ITA entrou como `dificil`.
+- **O staging também erra sobre figura.** Ele anotava figura na questão 45 do ITA;
+  a página 17 do caderno mostra enunciado inteiramente textual. Confira no PDF
+  antes de recortar.
+- **Frente que a trilha de origem não estuda espelha em Medicina, com o id
+  inteiro.** As de Biologia da Mauá não cabem no espelho de Engenharia (a trilha
+  não tem a frente). Vão para `vestibular-medicina/data/questions/`, e ali o
+  prefixo `eng-` FICA: tirá-lo produziria `biologia-01`, que já existe vindo de
+  `med-biologia-01`.
+- **A baseline de chutabilidade está pior do que se pensava.** A de Biologia foi
+  gravada com `n: 150`, e a frente tem 471 questões. Os 13,9% que o verify-banco
+  acusa são a defasagem dela, não o lote.
 
 O piloto validou o ciclo inteiro e mediu o peso das figuras (ver acima). As
 questões de ITA entram com `dificuldade: "muito dificil"`, porque o banco é

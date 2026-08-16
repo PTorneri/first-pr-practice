@@ -4293,6 +4293,14 @@
     const supportHtml = support
       ? `<div class="q-support">${escapeHtml(support)}</div>`
       : "";
+    // Crédito do texto CITADO pela banca (livro, reportagem, artigo), que é
+    // outro do crédito da prova. Campo separado do texto de apoio de propósito:
+    // a linha de referência é cheia de ano, cidade e editora, e dentro do
+    // texto_apoio ela era lida pelo classificador de subtema — "Unicamp, 2013"
+    // já mandou uma questão do século XIX para a Primeira República.
+    const fonteTextoHtml = q.fonte_texto
+      ? `<p class="q-fonte-texto">${escapeHtml(q.fonte_texto)}</p>`
+      : "";
     const tagHtml = tagLabel ? `<div class="q-tag">${escapeHtml(tagLabel)}</div>` : "";
     const fonteHtml = renderFonte(q);
     const visualHtml = renderVisual(q.visual);
@@ -4314,6 +4322,7 @@
       ${tagHtml}
       ${fonteHtml}
       ${supportHtml}
+      ${fonteTextoHtml}
       ${visualHtml}
       <div class="q-enunciado">${idx + 1}. ${escapeHtml(q.enunciado)} ${difficultyHtml}</div>
       <div class="q-alts">${altsHtml}</div>

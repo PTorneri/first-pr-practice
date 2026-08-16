@@ -1400,6 +1400,12 @@ h4 { font-size: 1.0625rem; }
   color: var(--text-muted); background: var(--surface-sunken); border-radius: var(--radius-pill);
   padding: 4px 11px; margin-bottom: var(--space-2);
 }
+/* Referência do texto que a banca citou — vem logo abaixo do texto de apoio,
+   como numa prova impressa, alinhada à direita e em corpo menor. */
+.q-fonte-texto {
+  font-size: 0.78rem; line-height: 1.4; color: var(--text-muted);
+  text-align: right; margin: -4px 0 var(--space-3);
+}
 /* Crédito da prova de origem, acima do texto de apoio. Discreto de propósito:
    informa a procedência sem competir com o enunciado pela atenção. */
 .q-fonte {

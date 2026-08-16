@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "quimica",
- "total": 487,
+ "total": 494,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -180,7 +180,7 @@
    "subtema": "quimica-equilibrio-acido-base",
    "frenteDestino": "quimica",
    "pontos": 10,
-   "margem": 5
+   "margem": 1
   },
   "med-quimica-29": {
    "subtema": "quimica-solucoes",
@@ -2914,6 +2914,48 @@
    "subtema": "quimica-equilibrio-acido-base",
    "frenteDestino": "quimica",
    "revisado": true
+  },
+  "enem-quimica-06": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-quimica-07": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-quimica-08": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "enem-quimica-09": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 13,
+   "margem": 4
+  },
+  "enem-quimica-10": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
+  },
+  "enem-quimica-11": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-quimica-12": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 10,
+   "margem": 10
   }
  }
 }

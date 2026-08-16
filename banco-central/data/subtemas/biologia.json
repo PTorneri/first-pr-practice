@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "biologia",
- "total": 482,
+ "total": 486,
  "residuo": [
   "med-biologia-09",
   "med-biologia-39",
@@ -2887,6 +2887,28 @@
    "frenteDestino": "biologia",
    "pontos": 7,
    "margem": 3
+  },
+  "enem-biologia-12": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "enem-biologia-13": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "enem-biologia-14": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "enem-biologia-15": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 15,
+   "margem": 8
   }
  }
 }

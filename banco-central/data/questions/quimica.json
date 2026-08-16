@@ -7863,6 +7863,143 @@
    },
    "resposta": "b",
    "explicacao": "O texto descreve um equilíbrio entre o alumínio preso no vidro e o alumínio em solução. O gluconato é o agente que se liga fortemente ao íon Al³⁺ e o retira da solução; pelo princípio de Le Chatelier, remover produto desloca o equilíbrio no sentido de repô-lo, ou seja, no sentido de dissolver mais alumínio do vidro. Quanto MAIOR a concentração de gluconato, mais intenso o deslocamento e maior a contaminação. Espessura e transparência do frasco não entram no equilíbrio, que depende da área de contato e da composição, não do volume de vidro nem da passagem de luz. A esterilização é anterior ao envase. E a alternativa sobre entalpia não indica sentido algum sem dizer a que temperatura o produto será guardado."
+  },
+  {
+   "id": "enem-quimica-06",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis. Composto I: n-decano. Composto II: n-heptano. Composto III: 2,2,4-trimetilpentano. Composto IV: 3-etil-4-metilex-1-eno. Composto V: 3-etil-2-metilpentan-1-ol.",
+   "enunciado": "Entre esses compostos, aquele que conferirá maior desempenho como combustível é o",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "c",
+   "explicacao": "O texto dá três exigências e é preciso atender às três ao mesmo tempo: ser hidrocarboneto, ter cadeia saturada e ter cadeia ramificada. O n-decano e o n-heptano são hidrocarbonetos saturados, mas o prefixo n- diz que a cadeia é normal, sem ramificação. O 3-etil-4-metilex-1-eno é ramificado, só que o sufixo -eno denuncia uma dupla ligação: a cadeia é insaturada. O 3-etil-2-metilpentan-1-ol é ramificado e saturado, mas o -ol o torna um álcool, e não um hidrocarboneto. Sobra o 2,2,4-trimetilpentano, saturado e com três ramificações — é o isoctano, justamente a substância que define o valor 100 da escala de octanagem."
+  },
+  {
+   "id": "enem-quimica-07",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "De acordo com a Constituição Federal, é competência dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem. Suponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão. Considere R = 0,082 L·atm·mol⁻¹·K⁻¹.",
+   "fonte_texto": "ZVEIBIL, V. Z. et al. Cartilha de limpeza urbana. Disponível em: www.ibam.org.br. Acesso em: 6 jul. 2015 (adaptado).",
+   "enunciado": "A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de",
+   "alternativas": {
+    "a": "756.",
+    "b": "533.",
+    "c": "76.",
+    "d": "53.",
+    "e": "13."
+   },
+   "resposta": "c",
+   "explicacao": "É a equação dos gases ideais, PV = nRT, com duas conversões de unidade que decidem a questão. O volume vai de 100 mL para 0,1 L, e a temperatura de 650 °C para 650 + 273 = 923 K. Então P = nRT/V = (0,1 × 0,082 × 923) / 0,1 = 0,082 × 923 ≈ 75,7 atm, isto é, cerca de 76. Quem esquece de converter a temperatura para kelvin e usa 650 direto chega a 53, a opção d; quem também deixa o volume em mililitros infla o resultado por mil e cai nos valores de centenas. Vale reter a ordem de grandeza: 76 atm dentro de uma latinha de desodorante explica por que a explosão é violenta."
+  },
+  {
+   "id": "enem-quimica-08",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, capaz de manter um solo fértil por anos. Admite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO⁻). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio, do cálcio e do magnésio, além de micronutrientes, como zinco e ferro. Essa ligação no solo fertilizado é predominantemente iônica. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44. Os valores de eletronegatividade dos cinco elementos metálicos são: K, 0,82; Ca, 1,00; Mg, 1,31; Zn, 1,65; Fe, 1,83.",
+   "fonte_texto": "MICHALOVIC, M. Ancient Soil Chemists of the Amazon. ChemMatters, fev. 2009 (adaptado).",
+   "enunciado": "O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente do elemento",
+   "alternativas": {
+    "a": "potássio.",
+    "b": "cálcio.",
+    "c": "magnésio.",
+    "d": "zinco.",
+    "e": "ferro."
+   },
+   "resposta": "a",
+   "explicacao": "O caráter iônico de uma ligação cresce com a diferença de eletronegatividade entre os dois átomos envolvidos. Do lado do carboxilato quem faz a ligação é o oxigênio, com 3,44 fixo para todos os casos, então basta procurar o metal de menor eletronegatividade — é ele que produz a maior diferença. As diferenças são: K, 3,44 − 0,82 = 2,62; Ca, 2,44; Mg, 2,13; Zn, 1,79; Fe, 1,61. O potássio vence com folga. Repare que a resposta não depende da carga do cátion nem do fato de o cálcio e o magnésio serem divalentes: a pergunta é sobre o tipo de ligação, não sobre a intensidade da atração eletrostática."
+  },
+  {
+   "id": "enem-quimica-09",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química: R₃N + HCl → (R₃NH)⁺Cl⁻.",
+   "enunciado": "O aumento da eficiência de circulação do fármaco no sangue, promovido por essa conversão, deve-se ao incremento de seu(sua)",
+   "alternativas": {
+    "a": "basicidade.",
+    "b": "lipofilicidade.",
+    "c": "caráter iônico.",
+    "d": "cadeia carbônica.",
+    "e": "estado de oxidação."
+   },
+   "resposta": "c",
+   "explicacao": "O plasma sanguíneo é um sistema aquoso, e a pergunta é sobre circular melhor nele — ou seja, sobre solubilidade em água. A equação mostra a amina neutra R₃N virando o sal (R₃NH)⁺Cl⁻: aparecem cargas onde não havia. Espécies iônicas interagem fortemente com a água, que é polar, e é esse ganho de caráter iônico que melhora a circulação. A lipofilicidade é o oposto do que se quer aqui (ela ajudaria a atravessar a membrana, não a dissolver no plasma), e de todo modo diminui com a formação do sal. A basicidade também cai, porque o par de elétrons do nitrogênio foi consumido na protonação. A cadeia carbônica não muda, e o número de oxidação dos átomos permanece o mesmo — não houve oxirredução, só uma reação ácido-base."
+  },
+  {
+   "id": "enem-quimica-10",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica tem fórmula C₁₂H₈Cl₆. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde. Um pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.",
+   "fonte_texto": "VIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. Química Nova, v. 26, n. 3, 2003 (adaptado).",
+   "enunciado": "Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?",
+   "alternativas": {
+    "a": "Saliva, por consequência da atividade de enzimas.",
+    "b": "Sangue, em função das hemácias e leucócitos.",
+    "c": "Lágrima, em razão da concentração de sais.",
+    "d": "Urina, pela presença de moléculas de ureia.",
+    "e": "Leite, por causa do alto teor de gorduras."
+   },
+   "resposta": "e",
+   "explicacao": "A informação decisiva está logo na primeira linha: o Aldrin é de baixa polaridade. Semelhante dissolve semelhante, então ele se concentra onde houver material apolar. Saliva, sangue, lágrima e urina são fluidos majoritariamente aquosos, e as justificativas oferecidas por essas opções (enzimas, células sanguíneas, sais, ureia) apontam justamente para componentes polares ou hidrossolúveis, que não dissolvem um organoclorado. O leite é o único da lista com alto teor de lipídios, e gordura é apolar — daí a acumulação. É também o mecanismo pelo qual esses inseticidas atravessam a cadeia alimentar e chegam ao lactente."
+  },
+  {
+   "id": "enem-quimica-11",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas.",
+   "fonte_texto": "CAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor de sacarose e CO₂ em refrigerantes. Química Nova na Escola, n. 3, ago. 2014 (adaptado).",
+   "enunciado": "Entre as duas versões apresentadas, o refrigerante comum possui",
+   "alternativas": {
+    "a": "maior densidade.",
+    "b": "menor viscosidade.",
+    "c": "maior volume de gás dissolvido.",
+    "d": "menor massa de solutos dissolvidos.",
+    "e": "maior temperatura de congelamento."
+   },
+   "resposta": "a",
+   "explicacao": "As duas latas têm o mesmo volume, e a comum leva grande quantidade de açúcar dissolvido enquanto a diet leva adoçantes de massa muito pequena. Mais massa no mesmo volume é, por definição, maior densidade — é exatamente por isso que a lata de refrigerante comum afunda num balde de água e a diet flutua, uma demonstração clássica. Pelo mesmo motivo a massa de solutos é maior, e não menor, o que derruba d. A viscosidade também aumenta com o açúcar, derrubando b. O volume de gás dissolvido é tratado como igual pelo enunciado (ambos são água carbonatada com os mesmos aditivos). E a temperatura de congelamento é mais baixa na comum, não mais alta: mais soluto significa maior abaixamento crioscópico."
+  },
+  {
+   "id": "enem-quimica-12",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. O detergente não biodegradável em questão tem como tensoativo um alquilbenzenossulfonato de sódio cuja cadeia carbônica é ramificada.",
+   "enunciado": "Qual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?",
+   "alternativas": {
+    "a": "Retirar a parte polar da molécula.",
+    "b": "Eliminar as insaturações do anel aromático.",
+    "c": "Trocar o grupo aniônico por um grupo neutro.",
+    "d": "Alterar o grupo aniônico por um grupo catiônico.",
+    "e": "Modificar a cadeia carbônica para cadeia normal."
+   },
+   "resposta": "e",
+   "explicacao": "O texto diz exatamente onde está o problema: os microrganismos não conseguem quebrar moléculas ramificadas. A correção, portanto, é trocar a cadeia ramificada por uma cadeia normal, isto é, linear — foi o que a indústria de fato fez ao substituir os antigos alquilbenzenossulfonatos ramificados pelos lineares. Mexer no grupo iônico (opções a, c e d) destrói a função do tensoativo, que só age porque tem uma ponta polar e outra apolar, e nada disso responde à objeção dos microrganismos. Eliminar as insaturações do anel aromático muda a molécula, mas a dificuldade de degradação apontada não é do anel: é da ramificação."
   }
  ],
  "textos": [

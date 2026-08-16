@@ -8469,7 +8469,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Na matriz A = [2 −1 3; 4 −2 6; 5 0 1], em que o ponto e vírgula separa as linhas, a segunda linha é ______ da primeira; por isso det A vale ______ e o sistema linear homogêneo que tem A como matriz dos coeficientes ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "o dobro – 0 – admite infinitas soluções, e não apenas a trivial, por ser indeterminado",
-    "b": "o dobro – 0 – admite apenas a solução trivial, já que um sistema homogêneo é determinado por definição",
+    "b": "o dobro – 0 – admite apenas a solução trivial, já que todo sistema homogêneo é determinado",
     "c": "a metade – 34 – tem solução única, obtida diretamente pela regra de Cramer",
     "d": "o dobro – 68 – é impossível, pois as duas primeiras equações se contradizem",
     "e": "independente – −34 – só admite solução quando os termos independentes são todos nulos"
@@ -8705,7 +8705,7 @@ window.QUESTION_BANKS = {
     "b": "possível e determinado para m ≠ 6 e impossível para m = 6",
     "c": "impossível para m = 6 e possível e indeterminado para m = 3",
     "d": "possível e determinado para qualquer valor real de m",
-    "e": "possível e indeterminado independentemente do valor de m, já que há duas equações e duas incógnitas"
+    "e": "possível e indeterminado para todo m, já que há duas equações e duas incógnitas"
    },
    "resposta": "a",
    "explicacao": "O determinante dos coeficientes é m − 6, então há solução única sempre que m ≠ 6. Com m = 6, a segunda equação vira 3x + 6y = 9, exatamente o triplo da primeira: mesma reta, infinitas soluções. A alternativa (b) é a armadilha central da discussão — quando o determinante zera, é obrigatório checar o termo independente antes de decidir entre impossível e indeterminado, e aqui ele acompanha a proporção.",
@@ -11963,7 +11963,7 @@ window.QUESTION_BANKS = {
     "a": "combinação – arranjo – 35 possibilidades, pois é preciso descontar as repetições geradas pela ordem dos escolhidos",
     "b": "combinação – arranjo – 210 possibilidades, uma vez que cada trio pode ser apresentado em ordens diferentes",
     "c": "permutação – arranjo – 21 possibilidades, resultado de multiplicar o total de pessoas pelo tamanho da comissão",
-    "d": "arranjo – combinação – 210 possibilidades, porque a escolha de pessoas para uma comissão pressuporia alguma hierarquia interna",
+    "d": "arranjo – combinação – 210 possibilidades, porque toda escolha de pessoas para uma comissão pressupõe alguma hierarquia",
     "e": "arranjo – combinação – 35 possibilidades, pois a comissão sem cargos não distingue a ordem dos três nomes escolhidos"
    },
    "resposta": "e",
@@ -33627,7 +33627,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A doutrina funciona na obra como:",
    "alternativas": {
     "a": "resumo das teorias científicas em circulação, apresentadas sem qualquer julgamento ao leitor",
-    "b": "exposição séria do pensamento do autor, que teria adotado essa doutrina como fundamento da sua produção literária inteira a partir daquele momento",
+    "b": "exposição séria do pensamento do autor, que teria adotado essa doutrina como fundamento de toda a sua produção literária a partir daquele momento",
     "c": "paródia das filosofias que transformam a força em direito, levando ao ridículo o darwinismo social do período",
     "d": "recurso de caracterização psicológica da personagem principal, sem qualquer relação com os debates intelectuais em curso naquele período",
     "e": "homenagem às correntes positivistas então dominantes no país, cujas ideias o autor divulgaria"
@@ -34176,7 +34176,7 @@ window.QUESTION_BANKS = {
     "a": "aparece sempre idealizada como espaço de progresso e de oportunidade, leitura que atravessa sem alteração os cinco momentos apresentados",
     "b": "mantém ao longo de todo o período a mesma função de pano de fundo neutro, sem qualquer influência sobre as personagens que nela circulam",
     "c": "deixa de ser cenário e passa a ser assunto e problema, aquilo de que a história trata e não apenas onde ela se passa",
-    "d": "é progressivamente abandonada em favor do espaço rural e essa mudança se completaria com a produção do romance regionalista dos anos trinta",
+    "d": "é progressivamente abandonada em favor do espaço rural, deslocamento que se completa com a produção do romance regionalista dos anos trinta",
     "e": "recebe tratamento exclusivamente documental, com registro estatístico das mudanças"
    },
    "resposta": "c",
@@ -35700,7 +35700,7 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "enunciado": "A metáfora da devoração, no Manifesto Antropófago, serve para defender",
    "alternativas": {
-    "a": "o isolamento cultural do país em relação às influências estrangeiras europeias.",
+    "a": "o isolamento cultural do país em relação a toda influência estrangeira.",
     "b": "a imitação fiel dos modelos europeus como caminho de modernização.",
     "c": "a apropriação transformadora do que vem de fora, sem recusa nem cópia.",
     "d": "o retorno a uma origem indígena tida como pura e anterior ao contato.",
@@ -37758,7 +37758,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "recusar o tema nacional em favor de assuntos universais, próximos das correntes europeias",
     "b": "abandonar por completo os recursos da retórica romântica, adotando linguagem contida",
-    "c": "restringir-se ao registro documental dos fatos observados, sem que o poeta manifeste posição alguma sobre a situação que descreve nos versos",
+    "c": "restringir-se ao registro documental dos fatos observados, sem que o poeta manifeste qualquer posição sobre a situação que descreve nos versos",
     "d": "deslocar o sofrimento do eu lírico para um sujeito coletivo e concreto, mantendo intacta a retórica romântica",
     "e": "adotar formas fixas rigorosas herdadas da tradição clássica, em contraste com os antecessores"
    },
@@ -38767,7 +38767,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "abandonar o português como língua literária e substituí-lo por uma língua formada a partir dos idiomas indígenas",
     "b": "reconhecer autonomia à variedade brasileira diante da norma lisboeta, recusando Lisboa como única medida de correção",
-    "c": "aceitar sem restrições os estrangeirismos em circulação no país, medida que os críticos portugueses consideravam empobrecedora do idioma nacional",
+    "c": "aceitar sem restrições todos os estrangeirismos em circulação no país, medida que os críticos portugueses consideravam empobrecedora do idioma",
     "d": "restringir a literatura brasileira a temas locais, deixando de lado o que interessasse a outros países",
     "e": "eliminar da escrita literária as marcas da oralidade, aproximando o texto de um padrão único"
    },
@@ -47426,7 +47426,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A leitura dessa data:",
    "alternativas": {
     "a": "difere entre o padrão britânico e o americano: três de abril no Reino Unido e quatro de março nos Estados Unidos",
-    "b": "é idêntica nos dois padrões, uma vez que a ordem dos elementos foi uniformizada por convenção internacional adotada pelos países signatários",
+    "b": "é idêntica nos dois padrões, uma vez que a ordem dos elementos foi uniformizada por convenção internacional adotada por todos os países",
     "c": "segue sempre a ordem ano, mês e dia nos textos escritos em língua inglesa, independentemente da variedade adotada por quem escreve",
     "d": "depende exclusivamente do contexto em que a data aparece, sem que exista qualquer convenção estabelecida para a escrita em cada país",
     "e": "é impossível de determinar sem a indicação expressa do dia da semana correspondente"
@@ -50540,7 +50540,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Em 1808, a família real portuguesa transferiu-se para o Rio de Janeiro diante do avanço das tropas napoleônicas.",
    "enunciado": "A primeira medida econômica adotada após a chegada foi:",
    "alternativas": {
-    "a": "a transferência das atividades produtivas da colônia para a metrópole, decisão adotada como resposta à ocupação do território europeu pelas tropas francesas",
+    "a": "a transferência de todas as atividades produtivas da colônia para a metrópole, decisão adotada como resposta à ocupação do território europeu",
     "b": "a proibição da entrada de produtos estrangeiros, para proteger a manufatura local",
     "c": "a abertura dos portos às nações amigas, que rompeu na prática o exclusivo e beneficiou a Inglaterra",
     "d": "a criação de um imposto único sobre a produção agrícola, em lugar dos demais",
@@ -50592,7 +50592,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "O período entre a abdicação de d. Pedro I e a antecipação da maioridade de d. Pedro II registrou revoltas em várias províncias.",
    "enunciado": "Essas revoltas tinham em comum:",
    "alternativas": {
-    "a": "a defesa do restabelecimento do vínculo colonial com Portugal, projeto sustentado pelos principais movimentos ocorridos naquele período no país",
+    "a": "a defesa do restabelecimento do vínculo colonial com Portugal, projeto sustentado por todos os movimentos ocorridos naquele período no país",
     "b": "insatisfação com a centralização do poder no Rio e com a exclusão das elites regionais das decisões",
     "c": "a exigência de abolição imediata da escravidão como pauta central de todos eles",
     "d": "a proposta de transferência da capital do império para o interior do território",
@@ -50712,7 +50712,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Entre as décadas de 1940 e 1970, dezenas de países da Ásia e da África conquistaram independência política.",
    "enunciado": "Entre os fatores que explicam esse processo está:",
    "alternativas": {
-    "a": "a decisão voluntária e unilateral das potências coloniais de encerrar seus impérios, sem mobilização alguma por parte das populações locais colonizadas",
+    "a": "a decisão voluntária e unilateral das potências coloniais de encerrar seus impérios, sem qualquer mobilização por parte das populações locais",
     "b": "o enfraquecimento das metrópoles com a guerra e a organização de movimentos nacionalistas locais",
     "c": "a intervenção militar direta das Nações Unidas em cada um dos territórios",
     "d": "o esgotamento completo dos recursos naturais das colônias, sem interesse econômico",
@@ -51793,7 +51793,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Eleito em 1960 com discurso de moralização da política, Jânio Quadros renunciou à Presidência da República após menos de sete meses de governo, em agosto de 1961.",
    "enunciado": "A renúncia de Jânio Quadros, cujas motivações ainda são debatidas por historiadores, desencadeou uma grave crise política porque:",
    "alternativas": {
-    "a": "O Brasil ficou sem sucessor previsto na Constituição então vigente, ainda que a linha sucessória do vice-presidente já estivesse claramente definida",
+    "a": "O Brasil ficou sem qualquer sucessor previsto na Constituição então vigente, quando a linha sucessória do vice-presidente estava definida",
     "b": "Foi seguida da imediata renúncia coletiva de todo o Alto Comando das Forças Armadas em protesto contra a posse do vice-presidente",
     "c": "O vice-presidente havia renunciado semanas antes, deixando a sucessão indefinida e abrindo espaço para intervenção militar",
     "d": "O vice-presidente, João Goulart, era mal visto por setores militares e conservadores, que tentaram impedir sua posse na Presidência",
@@ -52489,7 +52489,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Entre 1968 e 1973, a economia brasileira cresceu a taxas superiores a 10% ao ano, com expansão da indústria e grandes obras de infraestrutura.",
    "enunciado": "Esse período é chamado milagre econômico e teve como contrapartida:",
    "alternativas": {
-    "a": "a ampliação da liberdade de organização sindical, com negociação livre entre trabalhadores e empregadores nos diversos setores da economia nacional",
+    "a": "a ampliação da liberdade de organização sindical, com negociação livre entre trabalhadores e empregadores em todos os setores da economia",
     "b": "a redução da desigualdade de renda, com ganhos de produtividade repartidos",
     "c": "a eliminação da dívida externa brasileira, quitada com os recursos do crescimento",
     "d": "concentração de renda, arrocho salarial e endividamento externo apoiado em crédito barato",
@@ -52561,7 +52561,7 @@ window.QUESTION_BANKS = {
     "b": "distingue o caso brasileiro do da Argentina e do Chile, que levaram seus agentes a julgamento",
     "c": "impediu o retorno dos exilados ao território nacional até a constituição seguinte",
     "d": "foi revogada logo após o fim do regime, o que permitiu responsabilizar os envolvidos",
-    "e": "restringiu-se aos crimes cometidos por opositores do regime, sem efeito algum sobre a situação jurídica dos agentes estatais envolvidos na repressão"
+    "e": "restringiu-se aos crimes cometidos por opositores do regime, sem qualquer efeito sobre a situação jurídica dos agentes estatais envolvidos"
    },
    "resposta": "b",
    "explicacao": "Argentina e Chile levaram militares a julgamento; o Brasil, não. A Corte Interamericana condenou o país por isso, e a Comissão Nacional da Verdade apurou sem poder punir — a diferença marca a transição brasileira até hoje.",
@@ -52643,7 +52643,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Circulam com frequência afirmações que negam ou minimizam acontecimentos historicamente documentados, como o Holocausto ou a existência da ditadura militar brasileira.",
    "enunciado": "Diante desse tipo de afirmação, a posição historiográfica adequada é:",
    "alternativas": {
-    "a": "tratar as versões conflitantes como igualmente válidas, uma vez que a história não permitiria estabelecer grau algum de certeza sobre os acontecimentos",
+    "a": "tratar todas as versões como igualmente válidas, uma vez que a história não permite estabelecer qualquer grau de certeza sobre os acontecimentos",
     "b": "distinguir a divergência interpretativa, que é normal no campo, da negação de fatos documentados",
     "c": "aceitar a versão mais recente, uma vez que a produção historiográfica posterior sempre supera integralmente a que a antecedeu no mesmo campo",
     "d": "recusar o debate público sobre qualquer tema histórico, restringindo-o à academia",
@@ -52660,7 +52660,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "No início do século XX, campanhas contra febre amarela, peste e varíola no Rio de Janeiro combinaram medidas científicas com métodos autoritários de execução.",
    "enunciado": "Essa combinação, associada a Oswaldo Cruz, mostra que a saúde pública brasileira nasceu:",
    "alternativas": {
-    "a": "sob controle restrito de instituições privadas, sem participação alguma do Estado na formulação ou na execução das medidas sanitárias adotadas",
+    "a": "sob controle exclusivo de instituições privadas, sem qualquer participação do Estado na formulação ou na execução das medidas adotadas",
     "b": "a partir da adesão voluntária da população, obtida por campanhas educativas",
     "c": "sem qualquer fundamento científico, o que explica o fracasso das campanhas",
     "d": "com base científica sólida e prática impositiva e truculenta, o que gerou resistência popular",
@@ -52813,7 +52813,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Em novembro de 1910, marinheiros da Marinha brasileira, em sua maioria negros, tomaram navios de guerra no Rio de Janeiro e exigiram o fim dos castigos físicos aplicados a bordo, além de melhores condições de alimentação e serviço.",
    "enunciado": "Esse episódio, conhecido como Revolta da Chibata, evidencia:",
    "alternativas": {
-    "a": "a inexistência de hierarquia rígida na Marinha do período, o que teria permitido a negociação direta entre marinheiros e oficiais sem conflito aberto",
+    "a": "a inexistência de hierarquia rígida na Marinha do período, o que permitiu a negociação direta entre marinheiros e oficiais sem qualquer conflito",
     "b": "o caráter estritamente político da revolta, cujas reivindicações se limitavam à substituição do presidente da República recém-empossado",
     "c": "o pioneirismo da Marinha na abolição dos castigos corporais, suprimidos das forças armadas brasileiras ainda no início do período republicano",
     "d": "a ausência de organização entre os revoltosos, que agiram isoladamente e sem qualquer articulação prévia entre as tripulações dos navios",
@@ -52851,7 +52851,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "levou à imediata renúncia de Getúlio Vargas, substituído por um governo civil escolhido pelas oligarquias paulistas ainda em 1932",
     "b": "resultou na separação de São Paulo do restante da federação, situação mantida até a instalação do Estado Novo em novembro de 1937",
-    "c": "impediu alterações na legislação eleitoral brasileira, que teria permanecido inalterada até o final do período conhecido como Era Vargas, em 1945",
+    "c": "impediu qualquer alteração na legislação eleitoral brasileira, que permaneceu inalterada até o final do período conhecido como Era Vargas",
     "d": "provocou o cancelamento das medidas trabalhistas adotadas pelo governo provisório, revogadas por exigência dos vencedores do conflito",
     "e": "obteve seu objetivo político principal, com a eleição de uma constituinte em 1933 e a promulgação de nova Constituição no ano seguinte"
    },
@@ -54202,7 +54202,7 @@ window.QUESTION_BANKS = {
     "a": "A criação de um governo mundial responsável exclusivamente por políticas ambientais, órgão nunca instituído",
     "b": "A proibição total de qualquer forma de comércio internacional de energia, medida ausente do Acordo de Paris",
     "c": "Limitar o aumento da temperatura média global a bem abaixo de 2°C, por meio de metas nacionais de redução de emissões",
-    "d": "Estabelecer metas de redução obrigatórias e uniformes para os países signatários, com sanções comerciais previstas em caso de descumprimento",
+    "d": "Estabelecer metas de redução obrigatórias e uniformes para todos os países, com sanções comerciais em caso de descumprimento",
     "e": "A eliminação imediata de qualquer uso de combustíveis fósseis em todos os países signatários, meta não estabelecida"
    },
    "resposta": "c",
@@ -55026,7 +55026,7 @@ window.QUESTION_BANKS = {
     "a": "a distribuição uniforme dos casos entre todos os grupos sociais, sem qualquer diferença de mortalidade entre as regiões de cada uma das cidades",
     "b": "a eficiência do sistema de saúde então existente, capaz de atender toda a demanda",
     "c": "a inexistência de circulação internacional de pessoas naquele momento histórico",
-    "d": "a ausência de tratamento eficaz contra doenças infecciosas em geral, já que a bacteriologia era ciência ainda inexistente naquele período histórico",
+    "d": "a ausência de qualquer tipo de tratamento contra doenças infecciosas em geral, já que a bacteriologia era ciência ainda inexistente naquele período",
     "e": "a fragilidade da estrutura sanitária e a desigualdade de acesso, com mais mortes nos bairros pobres"
    },
    "resposta": "e",
@@ -55040,7 +55040,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "No início do século XX, difundiu-se no Brasil e no mundo um conjunto de ideias que propunha o aprimoramento da população por meio do controle da reprodução.",
    "enunciado": "Essas ideias, reunidas sob o nome de eugenia:",
    "alternativas": {
-    "a": "restringiram-se ao campo da ficção literária, sem repercussão alguma sobre o debate científico ou político daquele momento histórico no país",
+    "a": "restringiram-se ao campo da ficção literária, sem qualquer repercussão sobre o debate científico ou político daquele momento histórico no país",
     "b": "foram rejeitadas por toda a comunidade científica desde sua formulação, sem qualquer influência sobre as políticas públicas adotadas no período",
     "c": "tinham cátedras e congressos próprios na época e sustentaram políticas racistas e de imigração",
     "d": "surgiram apenas após a Segunda Guerra e passaram a orientar políticas de saúde",
@@ -55248,7 +55248,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "As grandes guerras do século XX aceleraram o desenvolvimento de técnicas cirúrgicas, transfusão de sangue, produção de antibióticos e organização de atendimento de urgência.",
    "enunciado": "Esse fato ilustra que o avanço médico:",
    "alternativas": {
-    "a": "foi interrompido durante os períodos de guerra, já que os investimentos foram deslocados para as áreas diretamente ligadas ao esforço militar",
+    "a": "foi interrompido durante os períodos de guerra, quando os investimentos foram deslocados para as áreas diretamente ligadas ao esforço militar",
     "b": "ocorre exclusivamente em períodos de paz, quando os recursos disponíveis podem ser integralmente direcionados à pesquisa em cada um dos países",
     "c": "independe do contexto histórico, sendo determinado apenas pelo acúmulo de conhecimento",
     "d": "resultou integralmente de pesquisas civis, sem relação com os conflitos armados",
@@ -55927,7 +55927,7 @@ window.QUESTION_BANKS = {
     "b": "capacidade de articular pesquisa científica, ensino técnico e produção em escala.",
     "c": "abandono do carvão como fonte de energia nas fábricas inglesas do período.",
     "d": "renúncia da Inglaterra ao comércio internacional depois de 1870.",
-    "e": "ausência de investimento estrangeiro nos setores de aço e de química na Alemanha e nos Estados Unidos ao longo do século dezenove inteiro."
+    "e": "ausência de investimento estrangeiro nos setores de aço e de química na Alemanha e nos Estados Unidos ao longo de todo o século."
    },
    "resposta": "b",
    "explicacao": "As novidades dessa segunda onda — química, elétrica, metalurgia do aço — dependiam de laboratório e de engenheiro formado, e não de habilidade de oficina: quem organizou universidade técnica, pesquisa e fábrica no mesmo circuito passou à frente. A mão de obra artesanal perdeu importância justamente nesse arranjo; o carvão continuou central; a Inglaterra seguiu comerciando; e houve investimento estrangeiro nos dois países.",
@@ -56187,7 +56187,7 @@ window.QUESTION_BANKS = {
     "b": "restabelecer o vínculo político e tributário com a metrópole britânica.",
     "c": "reduzir as competências do governo central em favor das assembleias estaduais.",
     "d": "transferir a soberania a um monarca eleito pelos representantes dos estados.",
-    "e": "unificar os sistemas jurídicos estaduais num código único de aplicação obrigatória no território inteiro da federação recém-formada."
+    "e": "unificar os sistemas jurídicos estaduais num código único de aplicação obrigatória em todo o território da federação recém-formada."
    },
    "resposta": "a",
    "explicacao": "Sob os Artigos, a autoridade central não conseguia arrecadar nem tratar do comércio entre os estados de modo eficaz, e a Constituição foi desenhada para corrigir isso sem eliminar os estados. Reduzir as competências centrais é o inverso do movimento; não houve retorno ao vínculo com a metrópole; a soberania ficou com o povo e não com um monarca; e os sistemas jurídicos estaduais permaneceram distintos.",
@@ -56691,7 +56691,7 @@ window.QUESTION_BANKS = {
     "b": "conferir prestígio ao financiador e legitimar sua posição na sociedade urbana",
     "c": "substituir a Igreja como única encomendante de obras religiosas na Europa",
     "d": "impedir que a arte se afastasse dos temas prescritos pela tradição anterior",
-    "e": "financiar somente as expedições marítimas organizadas pelos reinos ibéricos da península"
+    "e": "financiar exclusivamente as expedições marítimas organizadas pelos reinos ibéricos"
    },
    "resposta": "b",
    "explicacao": "O mecenato é investimento simbólico: encomendar uma capela ou um palácio traduz dinheiro em reputação e poder político. Isso explica por que o Renascimento floresce primeiro nas cidades italianas, onde a riqueza mercantil precisava de legitimidade social.",
@@ -56705,7 +56705,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O movimento iniciado por esse gesto, a Reforma protestante, teve entre suas consequências:",
    "alternativas": {
     "a": "a unificação religiosa da Europa sob a autoridade única do papado romano",
-    "b": "o fim imediato das diferentes formas de conflito religioso no continente europeu",
+    "b": "o fim imediato de qualquer forma de conflito religioso no continente europeu",
     "c": "a restauração do poder temporal da Igreja sobre os príncipes germânicos",
     "d": "a fragmentação religiosa da Europa e o fortalecimento dos príncipes locais",
     "e": "a proibição da tradução da Bíblia para as línguas faladas em cada região"
@@ -56790,7 +56790,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Em relação ao pensamento de Hobbes, a formulação de Rousseau se distingue por:",
    "alternativas": {
     "a": "manter o poder soberano nas mãos de um monarca hereditário e irresponsável",
-    "b": "recusar a existência de formas de contrato entre os membros da sociedade civil organizada",
+    "b": "recusar a existência de qualquer forma de contrato entre os membros da sociedade civil",
     "c": "atribuir a origem do poder político diretamente à vontade divina revelada",
     "d": "manter a soberania com o povo, que não a transfere de modo definitivo ao governante",
     "e": "defender que o estado de natureza seria uma guerra permanente entre os indivíduos"
@@ -58495,7 +58495,7 @@ window.QUESTION_BANKS = {
     "b": "Uma correção automática a cada censo, que reajusta o número de cadeiras de modo a manter a proporcionalidade populacional entre os estados",
     "c": "Uma vantagem sistemática para os estados do Sudeste, por concentrarem a maior parte das cadeiras mínimas garantidas a cada unidade",
     "d": "Uma distribuição de cadeiras definida exclusivamente pela extensão territorial de cada estado, e não por sua população efetiva",
-    "e": "Uma representação estritamente proporcional à população de cada estado, sem os limites mínimo e máximo hoje fixados para as bancadas na Câmara, regra vigente desde a Constituinte de 1988"
+    "e": "Uma representação estritamente proporcional à população de cada estado, sem qualquer limite mínimo ou máximo de cadeiras na Câmara, regra vigente desde a Constituinte de 1988"
    },
    "resposta": "a",
    "explicacao": "Como a Constituição estabelece número mínimo (8) e máximo (70) de deputados por estado, unidades menos populosas ficam relativamente super-representadas, enquanto estados muito populosos, como São Paulo, ficam sub-representados. A distribuição não é estritamente proporcional, não se baseia na extensão territorial, e a vantagem relativa recai sobre estados menos populosos, não sobre o Sudeste, que concentra os estados mais populosos do país.",
@@ -58760,7 +58760,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "",
    "enunciado": "O fenômeno conhecido como 'fuga de cérebros' (brain drain) refere-se à:",
    "alternativas": {
-    "a": "Um fenômeno restrito a migrações internas dentro de um mesmo país, sem componente internacional de espécie alguma, ainda que envolva impactos relevantes no país de origem e no de destino",
+    "a": "Um fenômeno restrito a migrações internas dentro de um mesmo país, sem qualquer componente internacional, ainda que envolva impactos relevantes no país de origem e no de destino",
     "b": "Emigração de profissionais altamente qualificados (como cientistas, médicos e engenheiros) para países mais desenvolvidos, em busca de melhores salários e condições de trabalho",
     "c": "Migração de trabalhadores de baixa qualificação de países desenvolvidos para países em desenvolvimento, em busca de menor custo de vida",
     "d": "Entrada de trabalhadores pouco qualificados vindos de países vizinhos, atraídos por vagas em setores de baixa remuneração",
@@ -58961,7 +58961,7 @@ window.QUESTION_BANKS = {
     "a": "Especulação imobiliária, na qual proprietários mantêm imóveis ociosos à espera de valorização futura, contribuindo para o encarecimento do solo urbano",
     "b": "Uma escassez real e absoluta de terrenos disponíveis nas áreas centrais das cidades brasileiras",
     "c": "Uma política pública já consolidada de distribuição igualitária de moradias em áreas centrais valorizadas",
-    "d": "Uma exigência técnica de engenharia que impede a ocupação imediata de terrenos urbanos recém-adquiridos, regra que não encontra respaldo nas normas municipais de uso do solo",
+    "d": "Uma exigência técnica de engenharia que impede a ocupação imediata de qualquer terreno urbano recém-adquirido, equívoco recorrente sobre normas de uso do solo",
     "e": "Restrições legais que impedem o uso residencial de imóveis situados em áreas centrais, obrigando sua manutenção sem ocupação"
    },
    "resposta": "a",
@@ -59002,6 +59002,24 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "A hierarquia urbana explica por que uma metrópole regional, como uma capital estadual, concentra serviços mais especializados e influencia uma rede de cidades menores que dependem deles — é a oferta de bens e serviços raros que define a posição, não o tamanho isolado. Supor que o porte demográfico basta para prever a oferta é o distrator mais fino, porque as duas coisas se correlacionam, e a hierarquia existe precisamente onde essa proporcionalidade se rompe: cidades de porte parecido oferecem serviços muito diferentes. Definir a posição apenas pelo número de habitantes comete o mesmo erro de forma mais crua. A extensão territorial não entra no critério. E cidades pequenas não exercem influência regional maior que metrópoles.",
+   "dificuldade": "media",
+   "formato": "direta",
+   "origem": "direito"
+  },
+  {
+   "subtema": "geografia-populacao-urbana",
+   "id": "dir-geografia-123",
+   "texto_apoio": "O Brasil possui uma extensa rede hidrográfica com potencial para o transporte de cargas por hidrovias, como a Hidrovia Tietê-Paraná.",
+   "enunciado": "Apesar desse potencial, a utilização das hidrovias no transporte de cargas no país permanece:",
+   "alternativas": {
+    "a": "Plenamente explorada, superando o transporte rodoviário em volume total de cargas no país, situação que só se verifica em trechos isolados da Amazônia, não no país como um todo",
+    "b": "Voltada exclusivamente ao transporte internacional de passageiros em cruzeiros fluviais",
+    "c": "Proporcionalmente pequena em relação ao seu potencial, em razão de investimentos históricos insuficientes em infraestrutura portuária fluvial, dragagem de rios e eclusas",
+    "d": "Limitada pela ausência de rios com extensão navegável no território, o que restringe o modal a trechos isolados do país",
+    "e": "Restrita por lei federal, que limita a navegação de cargas a rios de domínio estadual"
+   },
+   "resposta": "c",
+   "explicacao": "Apesar do relevante potencial hidrográfico brasileiro, a utilização das hidrovias no transporte de cargas permanece proporcionalmente pequena, resultado de investimentos históricos insuficientes em dragagem, eclusas e terminais fluviais. As hidrovias estão longe de superar o modal rodoviário, não há restrição legal federal desse tipo, e seu uso, quando existe, é voltado majoritariamente a cargas, não a cruzeiros de passageiros.",
    "dificuldade": "media",
    "formato": "direta",
    "origem": "direito"
@@ -59123,7 +59141,7 @@ window.QUESTION_BANKS = {
     "a": "Eliminar a circulação de automóveis particulares nas áreas centrais, condição apontada como necessária para o sistema funcionar",
     "b": "Reduzir o congestionamento, a poluição do ar e o tempo médio de deslocamento da população, promovendo uma mobilidade urbana mais eficiente, equitativa e sustentável",
     "c": "Eliminar por completo a necessidade de qualquer forma de transporte motorizado nas grandes cidades brasileiras",
-    "d": "Beneficiar sobretudo as famílias de alta renda, que seriam as principais usuárias de sistemas de metrô e trens urbanos, argumento não sustentado pelos dados de uso do transporte público no país",
+    "d": "Beneficiar exclusivamente famílias de alta renda, que seriam as principais usuárias de sistemas de metrô e trens urbanos, argumento não sustentado pelos dados de uso do transporte público",
     "e": "Aumentar deliberadamente o tempo médio de deslocamento da população, como forma de desestimular viagens desnecessárias"
    },
    "resposta": "b",
@@ -59397,7 +59415,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A urbanização brasileira se caracterizou por ser ______, ______ e acompanhada de ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "tardia – acelerada – concentração da população em poucas grandes cidades, sem infraestrutura correspondente",
-    "b": "precoce – gradual – distribuição equilibrada da população entre as cidades de pequeno, médio e grande porte existentes no território nacional brasileiro",
+    "b": "precoce – gradual – distribuição equilibrada da população entre as cidades de todos os portes existentes no território nacional brasileiro",
     "c": "planejada – contínua – oferta prévia de infraestrutura urbana nas áreas de destino",
     "d": "espontânea – reversível – retorno progressivo da população às áreas rurais",
     "e": "induzida – uniforme – crescimento simultâneo e proporcional de todas as regiões metropolitanas identificadas no território brasileiro"
@@ -59811,7 +59829,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Em lugar disso, a disputa se manifestou por meio de:",
    "alternativas": {
     "a": "guerra declarada e contínua entre os territórios das duas potências, com operações militares",
-    "b": "acordos comerciais bilaterais firmados entre as duas superpotências ao longo do período de vigência daquela configuração internacional bipolar",
+    "b": "acordos comerciais bilaterais firmados entre as duas superpotências ao longo de todo o período de vigência daquela configuração internacional",
     "c": "conflitos localizados em terceiros países, como Coreia e Vietnã, corrida armamentista e disputa ideológica",
     "d": "integração econômica progressiva entre os dois blocos, que teria levado ao fim pacífico da disputa",
     "e": "arbitragem permanente das Nações Unidas sobre todas as controvérsias surgidas entre os dois blocos ao longo daquelas quatro décadas"
@@ -59845,7 +59863,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Um dos critérios que orientam essa distribuição é:",
    "alternativas": {
     "a": "o tamanho da população de cada país, único fator considerado na localização das plantas",
-    "b": "a proximidade geográfica entre as unidades produtivas de uma mesma empresa, exigência que impede a distribuição das etapas entre continentes diferentes",
+    "b": "a proximidade geográfica entre todas as unidades produtivas, exigência que impede a distribuição das etapas entre continentes diferentes",
     "c": "custo da mão de obra, carga tributária e rigor da legislação ambiental de cada território de destino",
     "d": "a filiação de cada território a organizações internacionais, que autoriza a instalação",
     "e": "a exigência de manter todas as etapas no país de origem da empresa, conforme determinam as legislações nacionais dos países centrais"
@@ -60782,7 +60800,7 @@ window.QUESTION_BANKS = {
     "a": "Ao processo de ocupação irregular e desordenada dessas áreas, que dificulta o planejamento e a extensão de redes formais de água e esgoto pelo poder público",
     "b": "Um investimento público historicamente maior em saneamento nas periferias do que nas áreas centrais das cidades",
     "c": "Ao relevo acidentado dessas áreas, único fator a inviabilizar tecnicamente a instalação de redes de saneamento",
-    "d": "Uma legislação municipal que veda expressamente a instalação de redes de saneamento em áreas urbanas ocupadas de forma irregular, texto que não consta da legislação de nenhuma capital brasileira",
+    "d": "Uma legislação municipal que veda expressamente a instalação de redes de saneamento em áreas urbanas de qualquer tipo, proposta nunca formalizada por qualquer município",
     "e": "Uma política deliberada e já consolidada de universalização do saneamento nessas áreas, concluída nas últimas décadas"
    },
    "resposta": "a",
@@ -60869,7 +60887,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "",
    "enunciado": "Nas últimas décadas, ganhou espaço, em contraposição a antigas políticas de 'combate à seca', o paradigma da 'convivência com o semiárido', que propõe:",
    "alternativas": {
-    "a": "A proibição das atividades agrícolas de sequeiro no semiárido nordestino, restringindo a região à pecuária extensiva de grande porte, medida que destoa da própria noção de convivência com o semiárido",
+    "a": "A proibição de qualquer atividade agrícola no semiárido nordestino, restringindo a região exclusivamente à pecuária extensiva, medida que contraria a própria noção de convivência com o semiárido",
     "b": "O desenvolvimento de tecnologias sociais e práticas adaptadas às condições climáticas do semiárido, permitindo que a população permaneça na região com melhor qualidade de vida",
     "c": "A substituição de todas as tecnologias sociais locais por grandes barragens como única solução hídrica viável para a região, proposta que ignora décadas de tecnologias sociais consolidadas",
     "d": "A remoção definitiva de toda a população do semiárido nordestino para regiões de clima mais úmido do país",
@@ -61579,7 +61597,7 @@ window.QUESTION_BANKS = {
    "enunciado": "O princípio que fundamenta essa diferenciação é o das:",
    "alternativas": {
     "a": "responsabilidades comuns porém diferenciadas, que consideram as emissões históricas acumuladas na atmosfera",
-    "b": "metas idênticas para os países signatários, sem distinção entre economias centrais e periféricas, critério inscrito no texto do próprio acordo",
+    "b": "metas idênticas para todos os países signatários, critério que assegura tratamento igualitário no conjunto do sistema internacional atual",
     "c": "responsabilidades atribuídas exclusivamente aos países em desenvolvimento, cujas emissões cresceram",
     "d": "obrigações proporcionais à extensão territorial de cada um dos países signatários",
     "e": "isenção integral concedida às economias emergentes, que ficam dispensadas de qualquer compromisso de redução de emissões nos acordos"
@@ -62539,7 +62557,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Nas últimas décadas, tem crescido a utilização do chamado 'Arco Norte' — conjunto de portos localizados nas regiões Norte e Nordeste do Brasil (como Itaqui, Barcarena e Santarém) — para o escoamento da produção de soja do Centro-Oeste. Essa alternativa logística ganhou espaço, sobretudo, porque:",
    "alternativas": {
     "a": "Reduz a distância de transporte terrestre para produtores localizados no norte do Centro-Oeste e no Matopiba, diminuindo custos logísticos",
-    "b": "Depende de rotas inteiramente ferroviárias, sem nenhum trecho rodoviário no trajeto entre as fazendas e os portos, modelo raramente adotado no transporte de grãos brasileiro",
+    "b": "Depende de rotas exclusivamente ferroviárias, sem qualquer trecho rodoviário no trajeto entre as fazendas e os portos, modelo raramente adotado no transporte de grãos",
     "c": "Prioriza a exportação de manufaturados de alto valor agregado, deixando as commodities agrícolas para os portos do Sudeste",
     "d": "Foi imposta por uma legislação federal que restringiu a exportação de soja exclusivamente aos portos do Norte e Nordeste, medida nunca efetivamente implementada",
     "e": "Substituiu por completo o Porto de Santos, que deixou de operar com produtos do agronegócio a partir da consolidação do Arco Norte"
@@ -62557,7 +62575,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A indústria automobilística brasileira, historicamente concentrada no ABC paulista, passou, nas últimas décadas, por um processo de desconcentração, com a instalação de novas montadoras em estados como Bahia, Paraná, Goiás e Minas Gerais. Esse movimento foi favorecido, entre outros fatores, por:",
    "alternativas": {
     "a": "O encerramento definitivo das atividades de todas as montadoras historicamente instaladas no ABC paulista, decisão anunciada pelo setor em 2015",
-    "b": "A ausência histórica de infraestrutura rodoviária minimamente utilizável fora do eixo Sudeste, o que obrigou as montadoras a construí-la do zero, processo que se estendeu ao longo da década de 1990",
+    "b": "A ausência histórica de qualquer infraestrutura rodoviária fora do eixo Sudeste, o que obrigou as montadoras a construí-la do zero, processo que se estendeu por toda a década de 1990",
     "c": "Uma determinação do Ministério da Indústria que redistribuiu compulsoriamente as fábricas entre os estados, medida hipotética nunca prevista em lei",
     "d": "Incentivos fiscais oferecidos por governos estaduais e municipais para atrair essas indústrias (a chamada guerra fiscal), além de custos menores de mão de obra e terrenos",
     "e": "A proximidade das novas plantas em relação às jazidas de minério de ferro, insumo principal da produção de veículos"
@@ -62745,7 +62763,7 @@ window.QUESTION_BANKS = {
     "b": "A atividade de mineração instalada a montante das capitais, principal responsável pela carga poluidora desses rios urbanos",
     "c": "Uma política municipal que restringe a poluição a trechos específicos do rio, mantendo o restante do curso d'água preservado",
     "d": "Um processo natural de sedimentação, característico de qualquer rio que atravesse uma planície aluvial",
-    "e": "Atividades de natureza estritamente agrícola realizadas no interior do estado, sem contribuição alguma das áreas urbanas ao longo do curso do rio, realidade distante do caso do Tietê"
+    "e": "Atividades exclusivamente agrícolas realizadas no interior do estado, sem qualquer contribuição das áreas urbanas ao longo do curso do rio, realidade distante do caso do Tietê"
    },
    "resposta": "a",
    "explicacao": "A poluição de rios urbanos, como o Tietê, decorre principalmente do despejo de esgoto sem tratamento adequado e do descarte irregular de resíduos, agravados pelo crescimento urbano desordenado. O problema não é de origem exclusivamente rural, não é um processo natural de sedimentação, e não existe política que restrinja a poluição a trechos específicos do rio.",
@@ -62849,7 +62867,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "",
    "enunciado": "O termo 'Custo Brasil' é frequentemente utilizado para descrever um conjunto de fatores estruturais que elevam os custos de produção e de exportação de empresas instaladas no país, entre os quais se destaca:",
    "alternativas": {
-    "a": "O excesso histórico de investimentos em ferrovias e hidrovias, que teria elevado desnecessariamente os custos logísticos do país e drenado recursos das rodovias federais ao longo da segunda metade do século XX",
+    "a": "O excesso histórico de investimentos em ferrovias e hidrovias, que teria elevado desnecessariamente os custos logísticos do país, tese contrariada pelo baixo investimento histórico brasileiro nesses modais",
     "b": "A valorização cambial do real frente ao dólar, apontada como causa isolada da perda de competitividade da produção nacional",
     "c": "A ausência de qualquer tributo sobre a produção industrial, o que reduziria artificialmente o custo de bens brasileiros no exterior",
     "d": "A inexistência de qualquer imposto sobre operações de exportação ou importação no comércio exterior brasileiro",
@@ -63298,7 +63316,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "O Mercosul foi criado em 1991 com o objetivo de constituir um mercado comum entre os países-membros.",
    "enunciado": "Atualmente o bloco é classificado como união aduaneira imperfeita porque:",
    "alternativas": {
-    "a": "os países-membros ainda não eliminaram as tarifas sobre o comércio entre si, condição básica para a constituição de um bloco econômico regional",
+    "a": "os países-membros ainda não eliminaram as tarifas sobre o comércio entre si, condição básica para a constituição de qualquer bloco econômico",
     "b": "há longas listas de exceção à tarifa externa comum e a livre circulação de fatores não se completou",
     "c": "o bloco adotou moeda única sem convergência prévia entre as políticas econômicas dos membros",
     "d": "os membros abriram mão da soberania política em favor de instituições supranacionais",
@@ -63523,7 +63541,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Os rompimentos de barragens de rejeitos em Mariana e em Brumadinho provocaram mortes e contaminação de bacias hidrográficas inteiras.",
    "enunciado": "Os dois casos expuseram sobretudo:",
    "alternativas": {
-    "a": "a inexistência de tecnologia capaz de conter rejeitos de mineração, limitação técnica que se mantém sem solução nos principais países produtores",
+    "a": "a inexistência de tecnologia capaz de conter rejeitos de mineração, limitação técnica que se mantém sem solução em todos os países produtores",
     "b": "falhas no licenciamento, na fiscalização e no monitoramento de estruturas alteadas a montante",
     "c": "a ausência de qualquer legislação ambiental aplicável à mineração no país até então",
     "d": "a incompatibilidade absoluta entre a mineração e a preservação ambiental no país",
@@ -64097,24 +64115,6 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "geografia-geopolitica",
-   "id": "dir-geografia-123",
-   "texto_apoio": "O Brasil possui uma extensa rede hidrográfica com potencial para o transporte de cargas por hidrovias, como a Hidrovia Tietê-Paraná.",
-   "enunciado": "Apesar desse potencial, a utilização das hidrovias no transporte de cargas no país permanece:",
-   "alternativas": {
-    "a": "Plenamente explorada, superando o transporte rodoviário em volume total de cargas no país, situação que só se verifica em trechos isolados da Amazônia e não no conjunto do território nacional",
-    "b": "Voltada exclusivamente ao transporte internacional de passageiros em cruzeiros fluviais",
-    "c": "Proporcionalmente pequena em relação ao seu potencial, em razão de investimentos históricos insuficientes em infraestrutura portuária fluvial, dragagem de rios e eclusas",
-    "d": "Limitada pela ausência de rios com extensão navegável no território, o que restringe o modal a trechos isolados do país",
-    "e": "Restrita por lei federal, que limita a navegação de cargas a rios de domínio estadual"
-   },
-   "resposta": "c",
-   "explicacao": "Apesar do relevante potencial hidrográfico brasileiro, a utilização das hidrovias no transporte de cargas permanece proporcionalmente pequena, resultado de investimentos históricos insuficientes em dragagem, eclusas e terminais fluviais. As hidrovias estão longe de superar o modal rodoviário, não há restrição legal federal desse tipo, e seu uso, quando existe, é voltado majoritariamente a cargas, não a cruzeiros de passageiros.",
-   "dificuldade": "media",
-   "formato": "direta",
-   "origem": "direito"
-  },
-  {
-   "subtema": "geografia-geopolitica",
    "id": "med-geografia-58",
    "texto_apoio": "A dependência de uma única fonte para a geração elétrica expõe o sistema a riscos específicos.",
    "enunciado": "No caso brasileiro, o principal risco associado à hidreletricidade é:",
@@ -64243,7 +64243,7 @@ window.QUESTION_BANKS = {
     "a": "pela substituição do comércio internacional por acordos de autossuficiência regionais",
     "b": "pela eliminação de qualquer especialização produtiva entre os países, que passaram a produzir integralmente todos os bens de que necessitam",
     "c": "pelo retorno da produção industrial aos países centrais, revertendo a configuração anterior",
-    "d": "pela concentração das etapas produtivas nos países periféricos, incluindo o desenvolvimento tecnológico e a definição das estratégias corporativas",
+    "d": "pela concentração de todas as etapas produtivas nos países periféricos, incluindo o desenvolvimento tecnológico e a definição das estratégias",
     "e": "transferência de etapas industriais para a periferia, com o centro retendo pesquisa, marca e comando"
    },
    "resposta": "e",
@@ -66779,7 +66779,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Mapas coropléticos representam variáveis por meio de cores ou tonalidades aplicadas a unidades territoriais, como estados ou municípios.",
    "enunciado": "Um cuidado necessário na leitura desse tipo de mapa é:",
    "alternativas": {
-    "a": "conferir se o mapa utiliza projeção conforme, a única capaz de assegurar a representação adequada de variáveis estatísticas em escalas pequenas",
+    "a": "conferir se o mapa utiliza projeção conforme, única capaz de assegurar a representação adequada de variáveis estatísticas em qualquer escala",
     "b": "confirmar que todas as unidades representadas têm a mesma extensão territorial",
     "c": "verificar se a variável é relativa, pois o valor absoluto acaba reproduzindo o mapa da população",
     "d": "assegurar que a legenda apresente no máximo duas classes de valores distintos",
@@ -66816,7 +66816,7 @@ window.QUESTION_BANKS = {
     "a": "só pode ser elaborado por órgãos oficiais, únicos capazes de assegurar a imparcialidade necessária à representação de qualquer território",
     "b": "reproduz com exatidão a superfície terrestre, desde que siga as normas técnicas",
     "c": "perde qualquer utilidade como instrumento de análise por causa dessas escolhas",
-    "d": "deve ser substituído por imagens de satélite, registros que dispensam a intervenção humana na representação do território observado pelo sensor",
+    "d": "deve ser substituído por imagens de satélite, registros que dispensam qualquer intervenção humana na representação do território observado",
     "e": "é uma representação feita de escolhas de projeção, escala e centro, e não um registro neutro"
    },
    "resposta": "e",
@@ -68028,7 +68028,7 @@ window.QUESTION_BANKS = {
     "a": "a discussão sobre a legitimidade de o Estado tributar heranças acima de determinado valor",
     "b": "qualquer legislação recente sobre tecnologia, tanto a que protege dados dos cidadãos quanto a que amplia os poderes de vigilância do Estado sobre as comunicações privadas",
     "c": "a formulação, por Locke, de uma doutrina voltada a antecipar os efeitos das redes de compartilhamento de informação sobre a vida privada dos cidadãos",
-    "d": "a defesa de que o Estado deve deter poder amplo e indivisível sobre a vida e a propriedade dos cidadãos, já que só uma autoridade sem limites conseguiria garantir a paz civil e a segurança coletiva",
+    "d": "a defesa de que o Estado deve deter poder amplo e indivisível sobre a vida e a propriedade dos cidadãos, já que só uma autoridade sem limites conseguiria garantir a paz civil e a segurança de todos",
     "e": "o debate sobre leis de proteção de dados pessoais, que buscam limitar o poder de Estados e empresas sobre informações que pertenceriam, em certo sentido, ao próprio indivíduo"
    },
    "resposta": "e",
@@ -68110,7 +68110,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Hannah Arendt analisou como os regimes totalitários dependem do isolamento dos indivíduos e da destruição dos laços sociais que sustentam a ação política coletiva.",
    "enunciado": "Essa análise arendtiana sobre o isolamento como base do totalitarismo ajuda a interpretar qual crítica contemporânea às bolhas informacionais das redes sociais?",
    "alternativas": {
-    "a": "a de que o isolamento dos indivíduos pouco pesa na sustentação de um regime autoritário, que dependeria antes do controle direto sobre os meios de comunicação de massa e de um aparato policial capaz de reprimir a oposição que já estivesse organizada",
+    "a": "a de que o isolamento dos indivíduos pouco pesa na sustentação de um regime autoritário, que dependeria antes do controle direto sobre os meios de comunicação de massa e de um aparato policial capaz de reprimir toda oposição já organizada",
     "b": "a de que as plataformas digitais ampliam a esfera pública e fortalecem a ação política coletiva, ao permitir que pessoas dispersas por todo o território se reconheçam entre si e se organizem sem depender de intermediários",
     "c": "o crescimento de comunidades on-line dedicadas a hobbies e interesses técnicos muito específicos",
     "d": "a de que ambientes digitais que isolam usuários em bolhas de informação homogêneas podem enfraquecer a pluralidade de opiniões necessária à ação política coletiva, ainda que por mecanismos distintos dos regimes totalitários do século XX",
@@ -70152,7 +70152,7 @@ window.QUESTION_BANKS = {
     "a": "é absoluto e impede qualquer comunicação, mesmo diante de risco a terceiros identificáveis",
     "b": "admite ruptura, porque o risco a terceiros identificáveis constitui uma das exceções previstas",
     "c": "deixa de existir assim que o paciente informa fato relacionado à sua atividade profissional",
-    "d": "depende apenas da avaliação que o próprio paciente faz do risco que oferece às demais pessoas ao seu redor",
+    "d": "depende exclusivamente da avaliação que o próprio paciente faz do risco que oferece às demais pessoas",
     "e": "pode ser rompido a qualquer momento, já que serve apenas à conveniência do atendimento"
    },
    "resposta": "b",
@@ -70721,7 +70721,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "o fenômeno estudado deveria ser investigado exclusivamente pela medicina, campo ao qual caberia identificar suas causas e propor formas de intervenção",
     "b": "as motivações psicológicas de cada indivíduo explicam integralmente a decisão tomada por ele, o que dispensa qualquer investigação de natureza sociológica",
-    "c": "as taxas observadas variavam de forma inteiramente aleatória entre os grupos analisados, o que impediria estabelecer relação alguma entre elas e o contexto social",
+    "c": "as taxas observadas variavam de forma inteiramente aleatória entre os grupos analisados, o que impediria estabelecer qualquer relação entre elas e o contexto",
     "d": "os dados estatísticos disponíveis à época eram insuficientes para sustentar as conclusões apresentadas pelo autor",
     "e": "um ato aparentemente individual pode ter causas sociais identificáveis estatisticamente, como o grau de integração do grupo"
    },
@@ -71663,7 +71663,7 @@ window.QUESTION_BANKS = {
     "b": "a de que o preço desses itens reflete o custo de matérias-primas escassas empregadas na fabricação",
     "c": "a defesa de que o peso e o volume físico de um produto determinam automaticamente seu prestígio social, critério estranho ao conceito, para quem o valor-signo deriva da capacidade simbólica do objeto",
     "d": "a de que o preço e o prestígio de determinados itens de moda decorrem, em larga medida, de sua capacidade de comunicar pertencimento a um grupo e distinção social, e não apenas de sua utilidade funcional",
-    "e": "a ideia de que esses itens são valorizados apenas por seu valor de uso estritamente funcional, sem dimensão simbólica alguma associada, negando o que é central ao conceito de valor-signo, que Baudrillard opõe à mera utilidade material do objeto"
+    "e": "a ideia de que esses itens são valorizados apenas por seu valor de uso estritamente funcional, sem qualquer dimensão simbólica associada, negando o que é central ao conceito de valor-signo, que Baudrillard opõe à mera utilidade material do objeto"
    },
    "resposta": "d",
    "explicacao": "O valor-signo, em Baudrillard, é a capacidade de o objeto comunicar status e distinção, e é ele que explica por que certos tênis e roupas de marca alcançam preço e prestígio muito acima de sua utilidade — o item vale pelo que diz de quem o usa. A explicação pelo custo de materiais e mão de obra é a mais intuitiva e a que o conceito desloca: ela é insuficiente porque a diferença entre o custo de fabricação e o preço praticado é justamente o que o valor-signo cobre. Reduzir o valor à escassez de matérias-primas fica no mesmo terreno material. Fazer o prestígio depender do peso ou do volume do produto adota um critério físico onde o que opera é simbólico. E dizer que esses itens valem apenas por sua função nega a dimensão que dá nome ao conceito.",
@@ -72991,7 +72991,7 @@ window.QUESTION_BANKS = {
     "a": "preconceito individual, atitude isolada de quem seleciona os candidatos em cada processo",
     "b": "meritocracia, princípio de distribuição de posições segundo o desempenho de cada pessoa",
     "c": "racismo estrutural, funcionamento social que reproduz a desvantagem sem depender de intenção",
-    "d": "relativismo cultural, compreensão das práticas de um grupo a partir dos sentidos internos ao próprio grupo",
+    "d": "relativismo cultural, compreensão das práticas de um grupo a partir dos sentidos que ele atribui",
     "e": "aculturação, incorporação de traços de um grupo por outro em situação de contato prolongado"
    },
    "resposta": "c",
@@ -82256,7 +82256,7 @@ window.QUESTION_BANKS = {
     "b": "corre o risco de estetizar o sofrimento, tornando objeto de fruição aquilo que a denúncia queria fazer indignar",
     "c": "restringe-se a temas de paisagem natural, sem qualquer registro das condições de vida das populações fotografadas em cada uma das séries",
     "d": "utiliza recursos de manipulação digital que comprometeriam a veracidade das cenas apresentadas",
-    "e": "concentra-se em acontecimentos ocorridos apenas no território brasileiro, o que limitaria o alcance das questões por ele abordadas na obra"
+    "e": "concentra-se em acontecimentos ocorridos exclusivamente no território brasileiro, o que limitaria o alcance das questões por ele abordadas"
    },
    "resposta": "b",
    "explicacao": "O debate é legítimo e não tem resposta fechada: a beleza da imagem atrai o olhar que a denúncia precisa, e ao mesmo tempo pode transformar miséria em objeto de fruição. Susan Sontag formulou bem esse desconforto.",
@@ -82774,7 +82774,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A justificativa dessas escolhas é que o ambiente construído:",
    "alternativas": {
     "a": "deve ser padronizado de modo idêntico em todas as unidades de saúde, independentemente do perfil de atendimento de cada serviço da rede",
-    "b": "constitui elemento de natureza estritamente decorativa, sem repercussão alguma sobre a experiência dos pacientes internados nessas unidades",
+    "b": "constitui elemento de natureza estritamente decorativa, sem qualquer repercussão sobre a experiência dos pacientes internados nessas unidades",
     "c": "influencia desfechos como ansiedade, uso de analgésicos e tempo de internação, comportando-se como variável clínica",
     "d": "interfere apenas sobre a satisfação declarada dos profissionais que atuam nesses serviços",
     "e": "deve privilegiar exclusivamente critérios de fluxo e de assepsia, dimensões que esgotariam as decisões de projeto nesse tipo de edificação"
@@ -84378,7 +84378,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "A cerâmica marajoara apresenta padrões geométricos incisos e pintados; os grafismos kadiwéu organizam-se em simetrias complexas aplicadas ao corpo e à cerâmica.",
    "enunciado": "A leitura antropológica dessas produções sustenta que elas:",
    "alternativas": {
-    "a": "perderam a função que tinham nas comunidades atuais, sendo produzidas apenas para venda a visitantes nas regiões em que esses grupos ainda vivem",
+    "a": "perderam qualquer função nas comunidades atuais, sendo produzidas exclusivamente para venda a visitantes nas regiões em que esses grupos vivem",
     "b": "constituem decoração aplicada aos objetos sem qualquer relação com a organização social dos grupos que as produziram ao longo de sua história",
     "c": "reproduzem padrões trazidos pelos colonizadores europeus e incorporados a partir do contato colonial",
     "d": "resultam de execução individual sem qualquer transmissão entre gerações, o que explicaria a variedade de soluções encontradas em cada peça",
@@ -86390,7 +86390,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "resultar do trabalho individual de um autor responsável por todas as etapas de sua concepção e execução em cada uma das apresentações",
     "b": "ser obra coletiva e efêmera que integra várias linguagens sob uma concepção unificada e dura poucos minutos",
-    "c": "restringir-se à dimensão musical, sem elaboração visual ou cênica alguma por parte das agremiações que participam dos desfiles anuais",
+    "c": "restringir-se à dimensão musical, sem qualquer elaboração visual ou cênica por parte das agremiações que participam dos desfiles anuais",
     "d": "manter-se idêntico de um ano para outro, o que permitiria sua reapresentação em temporadas seguintes",
     "e": "prescindir de qualquer planejamento prévio, sendo organizado de forma espontânea pelos participantes no momento de sua realização"
    },
@@ -87973,7 +87973,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A diferença entre resultado primário e resultado nominal das contas públicas está em que o resultado nominal:",
    "alternativas": {
     "a": "é calculado apenas para estados e municípios, excluindo as contas da União desse cálculo",
-    "b": "refere-se apenas às contas do setor externo brasileiro, como o balanço de pagamentos e a conta de capital",
+    "b": "refere-se exclusivamente às contas do setor externo, como o balanço de pagamentos e a conta de capital",
     "c": "considera apenas as despesas de custeio, excluindo os investimentos do cálculo",
     "d": "inclui o pagamento de juros da dívida pública, enquanto o primário não considera essa despesa",
     "e": "exclui todas as receitas tributárias, considerando apenas as despesas correntes do governo"
@@ -88026,7 +88026,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "O envelhecimento populacional, decorrente do aumento da expectativa de vida combinado à queda da taxa de fecundidade, eleva a razão entre aposentados e trabalhadores ativos contribuindo para o sistema.",
    "enunciado": "Esse fenômeno demográfico é frequentemente apontado como justificativa central para:",
    "alternativas": {
-    "a": "a eliminação do sistema público de aposentadoria por repartição, substituindo-o integralmente por planos privados individuais",
+    "a": "a eliminação de qualquer sistema público de aposentadoria, substituindo-o integralmente por planos privados",
     "b": "a migração do regime de repartição simples para o de capitalização individual obrigatória",
     "c": "a redução da idade mínima de aposentadoria, ampliando o tempo médio de recebimento do benefício pelo INSS",
     "d": "o aumento do número de contribuintes informais, reduzindo a arrecadação do sistema previdenciário",
@@ -89294,7 +89294,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "substituir os promotores de Justiça na condução de investigações criminais",
     "b": "julgar recursos contra arquivamento de inquéritos civis pelos promotores de Justiça",
-    "c": "aprovar previamente as ações penais antes de seu ajuizamento, condicionando a atuação de cada promotor a autorização hierárquica prévia",
+    "c": "aprovar previamente qualquer ação penal antes de seu ajuizamento, condicionando a atuação de cada promotor a autorização prévia",
     "d": "controlar a atuação administrativa e financeira do Ministério Público e o cumprimento dos deveres funcionais de seus membros",
     "e": "definir o conteúdo das denúncias criminais oferecidas pelos membros do Ministério Público"
    },
@@ -90319,7 +90319,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "ataques digitais são incapazes de gerar danos reais a infraestruturas físicas, atuando apenas no plano simbólico",
     "b": "a segurança cibernética substitui integralmente a necessidade de manter forças armadas convencionais",
-    "c": "ataques cibernéticos são de imediato atribuíveis a um Estado específico, o que permitiria resposta militar rápida e proporcional",
+    "c": "ataques cibernéticos são sempre atribuíveis a um Estado específico, o que permite resposta militar imediata e proporcional",
     "d": "unicamente órgãos militares formais são capazes de realizar ataques cibernéticos contra outros países",
     "e": "infraestruturas críticas dependem cada vez mais de sistemas digitais interconectados, vulneráveis a ataques diversos"
    },
@@ -90872,7 +90872,7 @@ window.QUESTION_BANKS = {
     "a": "é decidida exclusivamente pelo país candidato, sem participação dos membros já integrantes",
     "b": "ocorre de forma automática e imediata, sem qualquer exigência prévia aos países candidatos",
     "c": "independe totalmente de qualquer avaliação institucional dos países candidatos ao ingresso no bloco",
-    "d": "é determinada apenas pelo peso econômico e demográfico do país candidato, dispensando a avaliação de critérios políticos",
+    "d": "é determinada exclusivamente pelo peso econômico do país candidato, dispensando avaliação de critérios políticos",
     "e": "depende do cumprimento de critérios políticos, econômicos e institucionais definidos pelo bloco antes da adesão"
    },
    "resposta": "e",
@@ -91583,7 +91583,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Críticos de determinados programas internacionais de financiamento de infraestrutura argumentam que empréstimos concedidos a países com baixa capacidade de pagamento podem, em caso de inadimplência, resultar na perda de controle de ativos estratégicos por parte do país devedor. Defensores desses programas, por sua vez, afirmam que eles preenchem uma lacuna de investimento em infraestrutura não atendida por outras fontes de financiamento.",
    "enunciado": "Esse debate, que contrapõe a crítica de uma suposta 'diplomacia da armadilha da dívida' à defesa do papel desses financiamentos no desenvolvimento de infraestrutura, ilustra:",
    "alternativas": {
-    "a": "a comprovação, aceita pelas partes envolvidas, de que os financiamentos foram concedidos com o objetivo declarado de obter ativos estratégicos",
+    "a": "a comprovação, aceita por todas as partes, de que os financiamentos foram concedidos com o objetivo declarado de obter ativos estratégicos",
     "b": "um consenso unânime entre analistas sobre os efeitos desses financiamentos internacionais",
     "c": "a existência de interpretações contrastantes sobre os riscos e benefícios desses programas de financiamento",
     "d": "a proibição legal desses financiamentos por parte de organismos multilaterais de crédito",
@@ -92641,7 +92641,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Empresas e alguns governos têm demonstrado interesse crescente na exploração de nódulos minerais localizados no fundo do oceano, em águas internacionais, ricos em metais usados em baterias e componentes eletrônicos. Cientistas alertam, porém, que os efeitos dessa atividade sobre ecossistemas marinhos pouco estudados ainda são amplamente desconhecidos.",
    "enunciado": "O debate em torno da regulação da mineração em águas internacionais profundas ilustra, sobretudo, a tensão entre:",
    "alternativas": {
-    "a": "a inexistência de órgão internacional responsável por regular as atividades de mineração no fundo do mar profundo",
+    "a": "a inexistência de qualquer órgão internacional responsável por regular atividades no fundo do mar profundo",
     "b": "o interesse econômico no acesso a minerais essenciais e a preocupação ambiental com ecossistemas marinhos",
     "c": "a existência de moratória internacional definitiva sobre qualquer atividade extrativa em fundos marinhos",
     "d": "a garantia científica de que essa atividade não gera qualquer impacto ambiental relevante",
@@ -99839,7 +99839,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "aguardar as listas de temas prováveis dos cursos preparatórios antes de estudar",
     "b": "reconhecer o nome de todos os acontecimentos noticiados no ano anterior à realização da prova em cada uma das áreas",
-    "c": "memorizar os números exatos dos indicadores divulgados pelos órgãos oficiais durante o período inteiro de preparação",
+    "c": "memorizar os números exatos de todos os indicadores divulgados pelos órgãos oficiais durante o período de preparação",
     "d": "acompanhar diariamente todas as fontes de informação disponíveis sem qualquer seleção prévia dos temas relevantes",
     "e": "conseguir explicar o mecanismo por trás de um tema novo e relacioná-lo a conteúdos das disciplinas"
    },
@@ -100523,7 +100523,7 @@ window.QUESTION_BANKS = {
     "b": "unidade de membrana, e a espessura constante observada nas membranas de todos os tipos celulares já descritos",
     "c": "matriz proteica, e a predominância das proteínas sobre os lipídios quando se compara a massa dos dois componentes",
     "d": "mosaico fluido, e a mobilidade lateral de lipídios e proteínas no plano da bicamada, que se comporta como um fluido",
-    "e": "bicamada rígida, e a disposição fixa que as proteínas mantêm em relação aos fosfolipídios ao longo da superfície celular inteira"
+    "e": "bicamada rígida, e a disposição fixa que as proteínas mantêm em relação aos fosfolipídios ao longo de toda a superfície"
    },
    "resposta": "d",
    "explicacao": "O modelo do mosaico fluido, de Singer e Nicolson, descreve a membrana como um mosaico de proteínas distribuídas numa bicamada lipídica cujos componentes se deslocam lateralmente. A alternativa (a) acerta o modelo e erra a justificativa: a bicamada é justamente permeável a moléculas apolares pequenas, sendo restritiva a íons e a moléculas polares.",
@@ -100822,7 +100822,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "O sarcômero é a unidade contrátil do músculo esquelético. Ao microscópio, apresenta faixas claras e escuras que se alteram durante a contração: a distância entre as linhas Z diminui, a banda A mantém o mesmo comprimento e a banda I encurta.",
    "enunciado": "O padrão descrito é explicado pelo modelo de deslizamento dos filamentos, segundo o qual durante a contração:",
    "alternativas": {
-    "a": "os filamentos de actina e miosina encurtam simultaneamente, o que reduz o comprimento das bandas do sarcômero em igual proporção durante a contração",
+    "a": "os filamentos de actina e miosina encurtam simultaneamente, o que reduz o comprimento de todas as bandas do sarcômero em igual proporção",
     "b": "apenas os filamentos de miosina encurtam, arrastando consigo os filamentos de actina em direção ao centro da unidade contrátil",
     "c": "os filamentos deslizam uns sobre os outros sem mudar de comprimento, e os de actina avançam sobre a região ocupada pelos de miosina",
     "d": "os filamentos de actina se fundem aos de miosina, formando um complexo único cujo comprimento total é menor que a soma dos dois",
@@ -100995,7 +100995,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "dispensar completamente a abertura dos estômatos, o que elimina qualquer perda de água por transpiração ao longo do período diurno",
     "b": "concentrar gás carbônico junto à enzima do ciclo de Calvin nas células da bainha, o que reduz a fotorrespiração em calor e luz intensa",
-    "c": "permitir que a fixação do carbono ocorra durante a noite, já que a temperatura mais baixa reduz a perda de água pelos estômatos abertos da planta",
+    "c": "permitir que a fixação do carbono ocorra durante a noite, quando a temperatura mais baixa reduz a perda de água pelos estômatos abertos",
     "d": "substituir a enzima do ciclo de Calvin por outra que não reage com oxigênio em nenhuma condição de temperatura ou luminosidade",
     "e": "aumentar o número de cloroplastos por célula, o que eleva proporcionalmente a captação de energia luminosa disponível no ambiente"
    },
@@ -102143,6 +102143,48 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-citologia",
+   "id": "enem-biologia-14",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A produção de ATP depende do gradiente de prótons gerado pela cadeia respiratória. Nessas reações, os elétrons provenientes da oxidação do NADH em NAD⁺ percorrem a cadeia até chegarem à citocromo c oxidase, reduzindo o Fe³⁺ a Fe²⁺. O oxigênio atua como aceptor final desses elétrons, formando água. O cianeto é uma espécie química altamente tóxica que tem grande afinidade pelo Fe³⁺. Quando células são expostas ao cianeto, ele se liga ao sítio de Fe³⁺ da citocromo c oxidase, impedindo a sua conversão em Fe²⁺ e bloqueando a cadeia respiratória.",
+   "fonte_texto": "ALBERTS, B. et al. Biologia molecular da célula. Porto Alegre: Artmed, 2010 (adaptado).",
+   "enunciado": "Esse bloqueio aumenta a concentração celular de",
+   "alternativas": {
+    "a": "ATP.",
+    "b": "água.",
+    "c": "NADH.",
+    "d": "dióxido de carbono.",
+    "e": "citocromo c oxidase."
+   },
+   "resposta": "c",
+   "explicacao": "A cadeia respiratória é uma fila: o NADH entrega elétrons na entrada e o oxigênio os recolhe na saída. O cianeto trava a última estação, a citocromo c oxidase, e o efeito sobe pela fila inteira — sem escoadouro, os transportadores permanecem reduzidos e o NADH deixa de ser oxidado a NAD⁺. Ele então se acumula. Tudo o que vem depois do ponto bloqueado diminui: a água, que é o produto da redução do oxigênio, e o ATP, que depende do gradiente de prótons que a cadeia deixou de gerar. O CO₂ também cai, porque o ciclo de Krebs para quando falta NAD⁺ para receber elétrons. E a quantidade de citocromo c oxidase não muda: ela é inibida, não produzida a mais."
+  },
+  {
+   "subtema": "biologia-citologia",
+   "id": "enem-biologia-15",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O ensaio de micronúcleos é um teste de avaliação de genotoxicidade que associa a presença de micronúcleos (pequenos núcleos que aparecem próximo aos núcleos das células) com lesões genéticas. Os micronúcleos são fragmentos de DNA encapsulados, provenientes do fuso mitótico durante a divisão celular.",
+   "fonte_texto": "DIAS, V. M. Micronúcleos em células tumorais: biologia e implicações para a tumorigênese. Dissertação de Mestrado. USP, 2006 (adaptado).",
+   "enunciado": "Os micronúcleos se originam dos(as)",
+   "alternativas": {
+    "a": "nucléolos.",
+    "b": "lisossomos.",
+    "c": "ribossomos.",
+    "d": "mitocôndrias.",
+    "e": "cromossomos."
+   },
+   "resposta": "e",
+   "explicacao": "O enunciado diz que os micronúcleos são fragmentos de DNA vindos do fuso mitótico, e o que o fuso mitótico movimenta são cromossomos — o DNA da célula em divisão está todo condensado neles. Quando um pedaço de cromossomo se solta ou um cromossomo inteiro fica para trás na anáfase, ele acaba envolto por membrana à parte e forma o micronúcleo. Nucléolo é uma região do núcleo dedicada à montagem de ribossomos, e não é feito de cromossomo destacado. Lisossomos e ribossomos não contêm DNA. A mitocôndria tem DNA próprio, mas ele não é manipulado pelo fuso mitótico nem se desprende dele — a origem apontada pelo texto exclui essa saída."
+  },
+  {
+   "subtema": "biologia-citologia",
    "id": "dir-ciencias-natureza-04",
    "texto_apoio": "As chuvas ácidas resultam da emissão de determinados poluentes atmosféricos provenientes de processos industriais e da queima de combustíveis.",
    "enunciado": "As chuvas ácidas são causadas, principalmente, pela reação da água presente na atmosfera com",
@@ -102325,7 +102367,7 @@ window.QUESTION_BANKS = {
     "a": "proteínas complexas, em um processo que consome dióxido de carbono do ambiente em vez de liberá-lo",
     "b": "ácido acético e água, resultado da oxidação completa do açúcar",
     "c": "álcool etílico (etanol) e dióxido de carbono, na ausência de oxigênio, como forma de obtenção de energia pelas leveduras",
-    "d": "ácido lático, o mesmo produto formado nas células musculares humanas durante o esforço intenso, situação em que a chegada de oxigênio não acompanha a demanda energética do tecido",
+    "d": "ácido lático, o mesmo produto formado nas células musculares humanas durante o esforço intenso, quando a chegada de oxigênio não acompanha a demanda energética do tecido",
     "e": "oxigênio molecular e água, na presença de oxigênio, de forma semelhante à respiração celular aeróbica"
    },
    "resposta": "c",
@@ -103106,7 +103148,7 @@ window.QUESTION_BANKS = {
     "b": "quatro fenótipos na proporção 9:3:3:1, resultado esperado sempre que dois genes independentes segregam em um mesmo cruzamento",
     "c": "dois fenótipos na proporção 3:1, já que o parental duplo-recessivo não contribui com variação para a descendência",
     "d": "três fenótipos na proporção 1:2:1, distribuição que reproduz na prole as classes genotípicas do parental di-híbrido",
-    "e": "um único fenótipo, uniforme, pois o parental di-híbrido transmite pelo menos um alelo dominante de cada gene aos descendentes da geração seguinte"
+    "e": "um único fenótipo, uniforme, pois o parental di-híbrido transmite pelo menos um alelo dominante de cada gene a todos os descendentes"
    },
    "resposta": "a",
    "explicacao": "PpMm produz quatro gametas equiprováveis: PM, Pm, pM e pm. O parental ppmm só produz pm, que não mascara nada. Cada descendente exibe, portanto, o fenótipo correspondente ao gameta recebido do di-híbrido, e as quatro classes saem em 1:1:1:1. A armadilha é (b): 9:3:3:1 exigiria di-hibridismo nos dois parentais. A opção (e) esquece que metade dos gametas do di-híbrido carrega o alelo recessivo de cada gene.",
@@ -104143,6 +104185,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O número 47 indica um cromossomo a mais que os 46 habituais, e a notação XXY diz exatamente onde está o excesso: nos cromossomos SEXUAIS. Essa é a síndrome de Klinefelter. As outras três trissomias listadas são autossômicas e também dão 47 cromossomos, mas o par extra é numerado — 21 na síndrome de Down, 13 na de Patau e 18 na de Edwards —, e nenhuma delas altera o padrão sexual. Turner é o oposto do que está descrito: falta um cromossomo sexual, com 45 cromossomos e cariótipo X0."
+  },
+  {
+   "subtema": "biologia-genetica",
+   "id": "enem-biologia-13",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A síndrome de Down é uma alteração genética associada à trissomia do cromossomo 21, ou seja, o indivíduo possui três cromossomos 21 e não um par, como é normal. Isso ocorre pela união de um gameta contendo um cromossomo 21 com um gameta possuidor de dois cromossomos 21. Embora, normalmente, as mulheres com a síndrome sejam estéreis, em 2008, no interior de São Paulo, uma delas deu à luz uma menina sem a síndrome de Down. Sabendo disso, um jovem casal, ambos com essa síndrome, procura um médico especialista para aconselhamento genético porque querem ter um bebê.",
+   "fonte_texto": "MORENO, T. Três anos após dar à luz, mãe portadora de síndrome de Down revela detalhes de seu dia a dia. Disponível em: www.band.uol.com.br. Acesso em: 31 out. 2013 (adaptado).",
+   "enunciado": "O médico informa ao casal que, com relação ao cromossomo 21, os zigotos formados serão",
+   "alternativas": {
+    "a": "todos normais.",
+    "b": "todos tetrassômicos.",
+    "c": "apenas normais ou tetrassômicos.",
+    "d": "apenas trissômicos ou tetrassômicos.",
+    "e": "normais, trissômicos ou tetrassômicos."
+   },
+   "resposta": "e",
+   "explicacao": "Cada um dos pais tem três cromossomos 21. Na meiose, três cromossomos não se dividem igualmente entre duas células: um gameta leva um e o outro leva dois. Logo cada progenitor produz gametas com 1 ou com 2 cromossomos 21. Combinando as possibilidades dos dois: 1 + 1 = 2 (zigoto normal), 1 + 2 = 3 (trissômico), 2 + 1 = 3 (trissômico) e 2 + 2 = 4 (tetrassômico). Os três resultados são possíveis, o que já é confirmado pelo próprio texto — a mãe com síndrome de Down do relato teve uma filha sem a síndrome, ou seja, um zigoto normal existiu de fato. As opções que excluem alguma das três categorias falham em uma dessas combinações."
   },
   {
    "subtema": "biologia-genetica",
@@ -106271,7 +106334,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "a proteína produzida pela levedura induz memória imunológica permanente, o que dispensa qualquer dose de reforço ao longo da vida",
     "b": "o imunizante não contém o vírus, nem inteiro nem atenuado, o que elimina o risco de o próprio produto causar a doença na pessoa vacinada",
-    "c": "a resposta imune produzida é apenas celular, evitando por completo a produção de anticorpos que poderiam reagir contra tecidos do próprio vacinado",
+    "c": "a resposta imune produzida é exclusivamente celular, evitando a produção de anticorpos que poderiam reagir contra tecidos do próprio vacinado",
     "d": "a vacina passa a proteger contra qualquer vírus que infecte o fígado, pois a proteína de superfície é comum a todos os agentes hepatotrópicos",
     "e": "a produção em leveduras dispensa a cadeia de frio no transporte, uma vez que proteínas de origem fúngica resistem a altas temperaturas"
    },
@@ -108938,6 +109001,26 @@ window.QUESTION_BANKS = {
   },
   {
    "subtema": "biologia-ecologia",
+   "id": "enem-biologia-12",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A biorremediação designa tratamentos que usam organismos para reduzir a quantidade de substâncias tóxicas no ambiente ou degradá-las em substâncias não tóxicas ou de menor toxicidade. Uma planta aquática, o aguapé, tem sido utilizada para a biorremediação de ambientes contaminados por metais tóxicos. Sabe-se que esses poluentes serão captados para dentro do corpo do vegetal.",
+   "enunciado": "Dentro do corpo do vegetal, esses contaminantes serão",
+   "alternativas": {
+    "a": "digeridos por enzimas.",
+    "b": "acumulados nos tecidos.",
+    "c": "eliminados pelos estômatos.",
+    "d": "metabolizados por glândulas.",
+    "e": "utilizados como fonte energética."
+   },
+   "resposta": "b",
+   "explicacao": "Metais são elementos químicos: não têm ligação covalente a ser rompida por enzimas digestivas nem podem ser convertidos em outra coisa por via metabólica, o que descarta a digestão enzimática e a metabolização. Também não servem de fonte de energia, já que o vegetal obtém energia da fotossíntese e da respiração de compostos orgânicos. E os estômatos regulam trocas gasosas — vapor de água, CO₂, O₂ —, não a saída de metais. O que a planta faz é absorver e reter esses íons nos seus tecidos, e é justamente por isso que a biorremediação funciona: o contaminante sai da água e fica preso no aguapé, que depois é retirado do corpo d'água."
+  },
+  {
+   "subtema": "biologia-ecologia",
    "id": "dir-ciencias-natureza-01",
    "texto_apoio": "O efeito estufa é um fenômeno natural essencial à manutenção da temperatura da Terra, mas sua intensificação tem sido associada às mudanças climáticas contemporâneas.",
    "enunciado": "A intensificação do efeito estufa observada nas últimas décadas está relacionada, principalmente, ao(à)",
@@ -109190,7 +109273,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "o aumento constante e ilimitado da extração de matérias-primas virgens da natureza, sem qualquer preocupação com reaproveitamento",
     "b": "a manutenção do padrão linear tradicional de produção, extração e descarte, sem qualquer alteração no ciclo de vida dos produtos",
-    "c": "a proibição total das formas de produção industrial em larga escala, medida radical incompatível com o objetivo de reaproveitamento da economia circular",
+    "c": "a proibição total de qualquer forma de produção industrial em larga escala, medida radical incompatível com o objetivo de reaproveitamento da economia circular",
     "d": "a substituição integral de materiais sintéticos por matérias-primas de origem vegetal",
     "e": "a reutilização, a reciclagem e a extensão da vida útil de produtos, reduzindo a extração de recursos naturais e a geração de resíduos"
    },
@@ -110632,7 +110715,7 @@ window.QUESTION_BANKS = {
     "a": "produzir previsões meteorológicas diárias para diferentes regiões do planeta, tarefa que compete a serviços meteorológicos nacionais, não ao IPCC",
     "b": "conduzir diretamente as negociações internacionais sobre metas de redução de emissões",
     "c": "definir, de forma unilateral e vinculante, políticas ambientais que todos os países são legalmente obrigados a seguir de imediato",
-    "d": "realizar apenas pesquisas de opinião pública sobre a percepção da população em relação ao clima, atividade bastante distinta da síntese técnico-científica que caracteriza os relatórios do IPCC",
+    "d": "realizar exclusivamente pesquisas de opinião pública sobre a percepção da população em relação ao clima, atividade distinta da síntese técnico-científica que caracteriza os relatórios do IPCC",
     "e": "sintetizar e avaliar, com base em evidências científicas revisadas por pares, o conhecimento sobre mudanças climáticas, servindo de base técnica para negociações e políticas públicas"
    },
    "resposta": "e",
@@ -112165,7 +112248,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "tetraédrica, trigonal plana e linear, formas que decorrem apenas do número de átomos ligados ao elemento central de cada molécula",
     "b": "trigonal plana, piramidal e angular, arranjos determinados pelo número total de pares de elétrons presentes na camada de valência",
-    "c": "tetraédrica, tetraédrica e tetraédrica, uma vez que as três apresentam quatro pares de elétrons distribuídos ao redor do elemento central da molécula",
+    "c": "tetraédrica, tetraédrica e tetraédrica, uma vez que todas apresentam quatro pares de elétrons distribuídos ao redor do elemento central",
     "d": "linear, angular e tetraédrica, sequência que acompanha o aumento do número de pares não ligantes presentes no átomo central",
     "e": "tetraédrica, piramidal e angular, formas definidas pelas posições dos átomos ligados, e não pelas dos pares de elétrons não ligantes"
    },
@@ -113272,6 +113355,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Numa usina nuclear o calor vem da fissão de núcleos de urânio, não de combustão. Como não há queima, não há emissão de CO2, de óxidos de enxofre ou de nitrogênio — e é justamente essa a vantagem que o enunciado pede, em contraste com as termelétricas a carvão ou a óleo. Os distratores atribuem à energia nuclear os problemas das fontes fósseis: gases tóxicos e chuva ácida vêm da queima, e desmatamento não é efeito de uma usina que ocupa área pequena. A primeira opção contradiz o próprio texto, que cita a geração de resíduos tóxicos entre as desvantagens: rejeito radioativo não é facilmente reciclável, e sim armazenado por décadas ou séculos."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "enem-quimica-08",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, capaz de manter um solo fértil por anos. Admite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO⁻). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio, do cálcio e do magnésio, além de micronutrientes, como zinco e ferro. Essa ligação no solo fertilizado é predominantemente iônica. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44. Os valores de eletronegatividade dos cinco elementos metálicos são: K, 0,82; Ca, 1,00; Mg, 1,31; Zn, 1,65; Fe, 1,83.",
+   "fonte_texto": "MICHALOVIC, M. Ancient Soil Chemists of the Amazon. ChemMatters, fev. 2009 (adaptado).",
+   "enunciado": "O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente do elemento",
+   "alternativas": {
+    "a": "potássio.",
+    "b": "cálcio.",
+    "c": "magnésio.",
+    "d": "zinco.",
+    "e": "ferro."
+   },
+   "resposta": "a",
+   "explicacao": "O caráter iônico de uma ligação cresce com a diferença de eletronegatividade entre os dois átomos envolvidos. Do lado do carboxilato quem faz a ligação é o oxigênio, com 3,44 fixo para todos os casos, então basta procurar o metal de menor eletronegatividade — é ele que produz a maior diferença. As diferenças são: K, 3,44 − 0,82 = 2,62; Ca, 2,44; Mg, 2,13; Zn, 1,79; Fe, 1,61. O potássio vence com folga. Repare que a resposta não depende da carga do cátion nem do fato de o cálcio e o magnésio serem divalentes: a pergunta é sobre o tipo de ligação, não sobre a intensidade da atração eletrostática."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -113480,7 +113584,7 @@ window.QUESTION_BANKS = {
     "b": "o pH é maior que 7, uma vez que a constante de ionização apresenta valor muito baixo em relação à concentração do ácido na solução",
     "c": "a adição de acetato de sódio aumentaria a ionização do ácido, elevando ainda mais a concentração de íons hidrogênio em solução",
     "d": "apenas uma pequena fração das moléculas está ionizada, e a concentração de íons hidrogênio resultante leva o pH a ficar em torno de 2,4",
-    "e": "o grau de ionização independe da concentração inicial, permanecendo constante nas diluições sucessivas realizadas a partir da amostra original"
+    "e": "o grau de ionização independe da concentração inicial, permanecendo constante em qualquer diluição realizada a partir da amostra original"
    },
    "resposta": "d",
    "explicacao": "O valor pequeno da constante indica ácido fraco, com ionização parcial. Estimando pela expressão do equilíbrio, a concentração de íons hidrogênio fica na ordem de 4 x 10⁻³ mol/L, o que corresponde a pH em torno de 2,4. Adicionar acetato deslocaria o equilíbrio no sentido inverso, o que torna (c) incorreta.",
@@ -115530,7 +115634,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "monômero, unidade estrutural simples que ainda não reagiu para formar uma cadeia maior",
     "b": "isômero, composto de mesma fórmula molecular e estrutura diferente de outro composto",
-    "c": "hidrocarboneto, composto formado apenas por átomos de carbono e hidrogênio ao longo da cadeia principal inteira",
+    "c": "hidrocarboneto, composto formado exclusivamente por átomos de carbono e hidrogênio ao longo de toda a cadeia",
     "d": "eletrólito, substância capaz de conduzir corrente elétrica quando dissolvida ou fundida",
     "e": "polímero, macromolécula formada pela repetição de unidades estruturais menores ligadas entre si"
    },
@@ -115708,7 +115812,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "O naftaleno, usado antigamente em repelentes de traça, é formado por dois anéis benzênicos fundidos, cada um mantendo o padrão de ligações deslocalizadas do benzeno.",
    "enunciado": "A presença de anéis com esse padrão de ligação classifica o naftaleno como um hidrocarboneto:",
    "alternativas": {
-    "a": "alifático saturado, formado apenas por ligações simples entre os átomos de carbono da cadeia principal",
+    "a": "alifático saturado, formado exclusivamente por ligações simples entre os átomos de carbono da cadeia",
     "b": "alicíclico, formado por um anel fechado sem as ligações deslocalizadas típicas do benzeno",
     "c": "alifático insaturado, formado por uma cadeia aberta com duplas ligações isoladas entre carbonos",
     "d": "heterocíclico, por apresentar em seu anel um átomo diferente de carbono na composição da cadeia",
@@ -115976,6 +116080,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A regra da oxidação de álcoois separa três casos: primário oxida a aldeído e depois a ácido carboxílico; secundário oxida a cetona; terciário não oxida nessas condições. Cetona, portanto, só vem de álcool secundário — e o carbono da carbonila tem de ser o mesmo do produto. Como o alvo é a hexan-3-ona, o material de partida precisa ter a hidroxila no carbono 3 de uma cadeia de seis carbonos: o hexan-3-ol. O hexan-1-ol tem a hidroxila na ponta, é primário, e daria hexanal e depois ácido hexanoico. Hexanal e ácido hexanoico já são produtos dessa outra via, e oxidar mais não os converte em cetona. E o hex-1-en-1-ol é um enol, forma instável que tautomeriza para aldeído, não para cetona nesta posição."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "enem-quimica-06",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis. Composto I: n-decano. Composto II: n-heptano. Composto III: 2,2,4-trimetilpentano. Composto IV: 3-etil-4-metilex-1-eno. Composto V: 3-etil-2-metilpentan-1-ol.",
+   "enunciado": "Entre esses compostos, aquele que conferirá maior desempenho como combustível é o",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "c",
+   "explicacao": "O texto dá três exigências e é preciso atender às três ao mesmo tempo: ser hidrocarboneto, ter cadeia saturada e ter cadeia ramificada. O n-decano e o n-heptano são hidrocarbonetos saturados, mas o prefixo n- diz que a cadeia é normal, sem ramificação. O 3-etil-4-metilex-1-eno é ramificado, só que o sufixo -eno denuncia uma dupla ligação: a cadeia é insaturada. O 3-etil-2-metilpentan-1-ol é ramificado e saturado, mas o -ol o torna um álcool, e não um hidrocarboneto. Sobra o 2,2,4-trimetilpentano, saturado e com três ramificações — é o isoctano, justamente a substância que define o valor 100 da escala de octanagem."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "enem-quimica-09",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química: R₃N + HCl → (R₃NH)⁺Cl⁻.",
+   "enunciado": "O aumento da eficiência de circulação do fármaco no sangue, promovido por essa conversão, deve-se ao incremento de seu(sua)",
+   "alternativas": {
+    "a": "basicidade.",
+    "b": "lipofilicidade.",
+    "c": "caráter iônico.",
+    "d": "cadeia carbônica.",
+    "e": "estado de oxidação."
+   },
+   "resposta": "c",
+   "explicacao": "O plasma sanguíneo é um sistema aquoso, e a pergunta é sobre circular melhor nele — ou seja, sobre solubilidade em água. A equação mostra a amina neutra R₃N virando o sal (R₃NH)⁺Cl⁻: aparecem cargas onde não havia. Espécies iônicas interagem fortemente com a água, que é polar, e é esse ganho de caráter iônico que melhora a circulação. A lipofilicidade é o oposto do que se quer aqui (ela ajudaria a atravessar a membrana, não a dissolver no plasma), e de todo modo diminui com a formação do sal. A basicidade também cai, porque o par de elétrons do nitrogênio foi consumido na protonação. A cadeia carbônica não muda, e o número de oxidação dos átomos permanece o mesmo — não houve oxirredução, só uma reação ácido-base."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "enem-quimica-12",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. O detergente não biodegradável em questão tem como tensoativo um alquilbenzenossulfonato de sódio cuja cadeia carbônica é ramificada.",
+   "enunciado": "Qual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?",
+   "alternativas": {
+    "a": "Retirar a parte polar da molécula.",
+    "b": "Eliminar as insaturações do anel aromático.",
+    "c": "Trocar o grupo aniônico por um grupo neutro.",
+    "d": "Alterar o grupo aniônico por um grupo catiônico.",
+    "e": "Modificar a cadeia carbônica para cadeia normal."
+   },
+   "resposta": "e",
+   "explicacao": "O texto diz exatamente onde está o problema: os microrganismos não conseguem quebrar moléculas ramificadas. A correção, portanto, é trocar a cadeia ramificada por uma cadeia normal, isto é, linear — foi o que a indústria de fato fez ao substituir os antigos alquilbenzenossulfonatos ramificados pelos lineares. Mexer no grupo iônico (opções a, c e d) destrói a função do tensoativo, que só age porque tem uma ponta polar e outra apolar, e nada disso responde à objeção dos microrganismos. Eliminar as insaturações do anel aromático muda a molécula, mas a dificuldade de degradação apontada não é do anel: é da ramificação."
   }
  ],
  "quimica-solucoes": [
@@ -117322,6 +117486,48 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Dureza da água é, por definição, a concentração de cátions de cálcio e magnésio. São eles que, com os ânions citados no texto, formam CaCO3 e CaSO4 — sais pouco solúveis que se depositam na parede quente da tubulação e produzem a incrustação. Medir cálcio é medir diretamente a causa. O cloreto forma sais de cálcio SOLÚVEIS, que não precipitam, e por isso não incrusta. Turbidez e sólidos sedimentáveis medem material em suspensão, que é outro tipo de sujeira: a incrustação em causa se forma dissolvida e precipita no lugar. E coliformes são indicador microbiológico, ligado à potabilidade e não à química da caldeira."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "enem-quimica-10",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica tem fórmula C₁₂H₈Cl₆. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde. Um pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.",
+   "fonte_texto": "VIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. Química Nova, v. 26, n. 3, 2003 (adaptado).",
+   "enunciado": "Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?",
+   "alternativas": {
+    "a": "Saliva, por consequência da atividade de enzimas.",
+    "b": "Sangue, em função das hemácias e leucócitos.",
+    "c": "Lágrima, em razão da concentração de sais.",
+    "d": "Urina, pela presença de moléculas de ureia.",
+    "e": "Leite, por causa do alto teor de gorduras."
+   },
+   "resposta": "e",
+   "explicacao": "A informação decisiva está logo na primeira linha: o Aldrin é de baixa polaridade. Semelhante dissolve semelhante, então ele se concentra onde houver material apolar. Saliva, sangue, lágrima e urina são fluidos majoritariamente aquosos, e as justificativas oferecidas por essas opções (enzimas, células sanguíneas, sais, ureia) apontam justamente para componentes polares ou hidrossolúveis, que não dissolvem um organoclorado. O leite é o único da lista com alto teor de lipídios, e gordura é apolar — daí a acumulação. É também o mecanismo pelo qual esses inseticidas atravessam a cadeia alimentar e chegam ao lactente."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "enem-quimica-11",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas.",
+   "fonte_texto": "CAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor de sacarose e CO₂ em refrigerantes. Química Nova na Escola, n. 3, ago. 2014 (adaptado).",
+   "enunciado": "Entre as duas versões apresentadas, o refrigerante comum possui",
+   "alternativas": {
+    "a": "maior densidade.",
+    "b": "menor viscosidade.",
+    "c": "maior volume de gás dissolvido.",
+    "d": "menor massa de solutos dissolvidos.",
+    "e": "maior temperatura de congelamento."
+   },
+   "resposta": "a",
+   "explicacao": "As duas latas têm o mesmo volume, e a comum leva grande quantidade de açúcar dissolvido enquanto a diet leva adoçantes de massa muito pequena. Mais massa no mesmo volume é, por definição, maior densidade — é exatamente por isso que a lata de refrigerante comum afunda num balde de água e a diet flutua, uma demonstração clássica. Pelo mesmo motivo a massa de solutos é maior, e não menor, o que derruba d. A viscosidade também aumenta com o açúcar, derrubando b. O volume de gás dissolvido é tratado como igual pelo enunciado (ambos são água carbonatada com os mesmos aditivos). E a temperatura de congelamento é mais baixa na comum, não mais alta: mais soluto significa maior abaixamento crioscópico."
   }
  ],
  "quimica-estequiometria": [
@@ -118500,6 +118706,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Cada mol de CaCl2 incorpora 2 mols de água, ou seja, 2 × 18 = 36 g de água para 111 g de sal. O ganho percentual é a massa incorporada dividida pela massa INICIAL: 36 / 111 ≈ 0,324, isto é, cerca de 32%. A armadilha está em escolher o denominador errado. Dividir 36 pela massa FINAL do hidrato (111 + 36 = 147 g) dá 24,5%, que é a fração de água no produto, e não o ganho — daí a opção de 24%. E 75% é a razão entre 36 e 48, número que aparece se alguém trocar a massa molar do sal pela do cálcio mais dois oxigênios. O enunciado pede quanto a massa aumentou em relação ao que havia antes."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "enem-quimica-07",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "De acordo com a Constituição Federal, é competência dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem. Suponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão. Considere R = 0,082 L·atm·mol⁻¹·K⁻¹.",
+   "fonte_texto": "ZVEIBIL, V. Z. et al. Cartilha de limpeza urbana. Disponível em: www.ibam.org.br. Acesso em: 6 jul. 2015 (adaptado).",
+   "enunciado": "A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de",
+   "alternativas": {
+    "a": "756.",
+    "b": "533.",
+    "c": "76.",
+    "d": "53.",
+    "e": "13."
+   },
+   "resposta": "c",
+   "explicacao": "É a equação dos gases ideais, PV = nRT, com duas conversões de unidade que decidem a questão. O volume vai de 100 mL para 0,1 L, e a temperatura de 650 °C para 650 + 273 = 923 K. Então P = nRT/V = (0,1 × 0,082 × 923) / 0,1 = 0,082 × 923 ≈ 75,7 atm, isto é, cerca de 76. Quem esquece de converter a temperatura para kelvin e usa 650 direto chega a 53, a opção d; quem também deixa o volume em mililitros infla o resultado por mil e cai nos valores de centenas. Vale reter a ordem de grandeza: 76 atm dentro de uma latinha de desodorante explica por que a explosão é violenta."
   }
  ],
  "quimica-termoquimica-cinetica": [
@@ -118653,7 +118880,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A principal dificuldade técnica para viabilizar a fusão controlada na Terra é:",
    "alternativas": {
     "a": "impedir a reação em cadeia descontrolada, que se propaga espontaneamente uma vez iniciada e libera energia de forma explosiva no reator",
-    "b": "obter os isótopos de hidrogênio necessários, elementos extremamente raros na crosta terrestre e nos oceanos do planeta em proporção aproveitável",
+    "b": "obter os isótopos de hidrogênio necessários, elementos extremamente raros na crosta terrestre e nos oceanos do planeta em qualquer proporção",
     "c": "conter os resíduos radioativos de meia-vida muito longa gerados pelo processo, cujo armazenamento exige instalações geológicas profundas",
     "d": "atingir e manter temperaturas altíssimas, necessárias para vencer a repulsão elétrica entre núcleos de carga positiva, e confinar o plasma",
     "e": "resfriar o combustível até temperaturas próximas do zero absoluto, condição em que os núcleos se aproximam o suficiente para se fundirem"
@@ -121968,6 +122195,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Na altura máxima a esfera para de subir e ainda não começou a descer: é o instante em que a velocidade troca de sinal, e por isso vale zero. Mas a aceleração não acompanha essa mudança — durante todo o percurso a única força é o peso, e a aceleração da gravidade aponta para baixo, com módulo constante de cerca de 10 m/s², inclusive no ponto mais alto. É justamente por a aceleração não ser nula ali que a esfera não fica parada no ar e passa a cair. A opção com a = 0 é o erro clássico de confundir velocidade nula com ausência de força. E as que põem a aceleração para cima invertem o sentido do peso: nada empurra a esfera para cima depois que ela deixa a mão."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "enem-fisica-11",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma concessionária é responsável por um trecho de 480 quilômetros de uma rodovia. Nesse trecho, foram construídas 10 praças de pedágio, onde funcionários recebem os pagamentos nas cabines de cobrança. Também existe o serviço automático, em que os veículos providos de um dispositivo passam por uma cancela, que se abre automaticamente, evitando filas e diminuindo o tempo de viagem. Segundo a concessionária, o tempo médio para efetuar a passagem em uma cabine é de 3 minutos, e as velocidades máximas permitidas na rodovia são 100 km/h, para veículos leves, e 80 km/h, para veículos de grande porte. Considere um carro e um caminhão viajando, ambos com velocidades constantes e iguais às máximas permitidas, e que somente o caminhão tenha o serviço automático de cobrança.",
+   "enunciado": "Comparado ao caminhão, quantos minutos a menos o carro leva para percorrer toda a rodovia?",
+   "alternativas": {
+    "a": "30",
+    "b": "42",
+    "c": "72",
+    "d": "288",
+    "e": "360"
+   },
+   "resposta": "b",
+   "explicacao": "O carro roda 480 km a 100 km/h, o que dá 4,8 h = 288 min, mas é ele quem não tem o serviço automático: para nas 10 praças, 3 min em cada, somando 30 min. Total do carro: 318 min. O caminhão roda 480 km a 80 km/h, o que dá 6 h = 360 min, e não perde tempo nenhum nas cancelas. A diferença é 360 − 318 = 42 min. A leitura invertida — supor que o caminhão é que para — daria 288 contra 390 e nenhuma opção; e quem esquece as paradas de vez chega a 72, que é a diferença só das velocidades e está ali como distrator."
   }
  ],
  "fisica-termologia": [
@@ -122289,7 +122536,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A temperatura final de equilíbrio:",
    "alternativas": {
     "a": "depende das massas e dos calores específicos dos dois corpos, resultando numa média ponderada pelas capacidades térmicas de cada um",
-    "b": "é igual à média aritmética entre as temperaturas iniciais, ou seja, cinquenta graus Celsius para as combinações de massas consideradas no problema",
+    "b": "é sempre a média aritmética entre as temperaturas iniciais, ou seja, cinquenta graus Celsius em qualquer combinação de massas considerada",
     "c": "é sempre mais próxima da temperatura do corpo mais quente, uma vez que ele possui maior quantidade de energia térmica acumulada no início",
     "d": "depende apenas da diferença entre as temperaturas iniciais, sem qualquer influência das características materiais de cada um dos corpos",
     "e": "corresponde à temperatura do corpo de maior massa, que impõe sua condição térmica ao corpo menor durante o processo de equilíbrio"
@@ -123198,6 +123445,47 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A geladeira não destrói calor: ela o bombeia de dentro para fora, e o que sai pela serpentina traseira é o calor retirado MAIS o trabalho elétrico do compressor. Com a porta aberta a cozinha vira o ambiente dos dois lados, e o saldo é positivo — ela esquenta. O primeiro instante realmente refresca, porque o ar frio já acumulado escapa, e é por isso que a alternativa (d) descreve as duas fases. A (c) erra ao supor um balanço nulo, ignorando a energia elétrica que entra; ela vale para uma máquina ideal sem consumo, que não existe. A (b) acerta o sentido, mas atribui o aquecimento só ao efeito Joule no motor, quando a maior parte é o calor bombeado de dentro para fora."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "enem-fisica-10",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em uma indústria alimentícia, para produção de doce de leite, utiliza-se um tacho de parede oca com uma entrada para vapor de água a 120 °C e uma saída para água líquida em equilíbrio com o vapor a 100 °C. Ao passar pela parte oca do tacho, o vapor de água transforma-se em líquido, liberando energia. A parede transfere essa energia para o interior do tacho, resultando na evaporação de água e consequente concentração do produto.",
+   "enunciado": "No processo de concentração do produto, é utilizada energia proveniente",
+   "alternativas": {
+    "a": "somente do calor latente de vaporização.",
+    "b": "somente do calor latente de condensação.",
+    "c": "do calor sensível e do calor latente de vaporização.",
+    "d": "do calor sensível e do calor latente de condensação.",
+    "e": "do calor latente de condensação e do calor latente de vaporização."
+   },
+   "resposta": "d",
+   "explicacao": "A pergunta é sobre a energia que SAI do vapor na parede oca, não sobre o que acontece dentro do tacho. O vapor entra a 120 °C e sai como líquido a 100 °C, então ele passa por duas etapas: primeiro esfria de 120 °C para 100 °C ainda como vapor, cedendo calor sensível (há variação de temperatura), e depois condensa a 100 °C, cedendo calor latente de condensação (há mudança de estado sem variação de temperatura). A vaporização citada nas outras opções é o que ocorre do lado de dentro, no produto — é o destino da energia, não a fonte dela."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "enem-fisica-13",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma cafeteria adotou copos fabricados a partir de uma composição de 50% de plástico reciclado não biodegradável e 50% de casca de café. O copo é reutilizável e retornável, pois o material, semelhante a uma cerâmica, suporta a lavagem. Embora ele seja comercializado por um preço considerado alto quando comparado ao de um copo de plástico descartável, essa cafeteria possibilita aos clientes retornarem o copo sujo e levarem o café quente servido em outro copo já limpo e higienizado. O material desse copo oferece também o conforto de não esquentar na parte externa.",
+   "fonte_texto": "Cafeteria adota copo reutilizável feito com casca de café. Disponível em: www.gazetadopovo.com.br. Acesso em: 5 dez. 2019 (adaptado).",
+   "enunciado": "Quais duas vantagens esse copo apresenta em comparação ao copo descartável?",
+   "alternativas": {
+    "a": "Ter a durabilidade de uma cerâmica e ser totalmente biodegradável.",
+    "b": "Ser tão durável quanto uma cerâmica e ter alta condutividade térmica.",
+    "c": "Ser um mau condutor térmico e aumentar o resíduo biodegradável na natureza.",
+    "d": "Ter baixa condutividade térmica e reduzir o resíduo não biodegradável na natureza.",
+    "e": "Ter alta condutividade térmica e possibilitar a degradação do material no meio ambiente."
+   },
+   "resposta": "d",
+   "explicacao": "As duas vantagens estão ditas no texto, uma em cada ponta. A frase \"não esquentar na parte externa\" com café quente dentro descreve um material que conduz mal o calor: baixa condutividade térmica. E o copo é reutilizável, então cada um deles substitui muitos descartáveis — o que reduz a quantidade de resíduo não biodegradável despejada na natureza. Cuidado com a segunda metade: metade do material é plástico reciclado NÃO biodegradável, então o copo não é biodegradável nem aumenta resíduo biodegradável, o que elimina a, c e e. E alta condutividade térmica contraria justamente o conforto descrito, derrubando b."
   }
  ],
  "fisica-ondas-optica": [
@@ -123511,7 +123799,7 @@ window.QUESTION_BANKS = {
     "b": "a metade – diminui, e o som se torna mais grave",
     "c": "o dobro – aumenta, e o som emitido se torna mais agudo",
     "d": "o quádruplo – aumenta, e o som se torna mais agudo",
-    "e": "a quarta parte – permanece a mesma, independentemente do dedilhado usado"
+    "e": "a quarta parte – permanece a mesma, qualquer que seja o dedilhado"
    },
    "resposta": "c",
    "explicacao": "No fundamental cabe meio comprimento de onda entre os dois nós, então o comprimento de onda é o dobro do da corda. Encurtar a corda reduz o comprimento de onda e, como a velocidade na corda não muda, a frequência sobe — é assim que se tocam notas mais agudas no braço do instrumento.",
@@ -124669,6 +124957,107 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A intensidade mínima é a que sobra na distância máxima, porque a onda esférica espalha a mesma potência por uma superfície que cresce com o quadrado do raio. A área da esfera de 10 m de raio é 4πr² = 4 × 3 × 100 = 1 200 m². Dividindo a potência pela área: 2,4 × 10⁻³ W ÷ 1,2 × 10³ m² = 2,0 × 10⁻⁶ W/m². Os distratores são as paradas do caminho: 2,4 × 10⁻³ é a potência em watts, sem dividir por área nenhuma; 2,4 × 10⁻⁵ sai de dividir só por 100, esquecendo o 4π; e 2,0 × 10⁻⁵ erra a potência de dez na mesma conta. Note que o enunciado pede o valor MÍNIMO, e é por isso que se usa o raio de 10 m — perto da antena a intensidade é maior."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-05",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.",
+   "fonte_texto": "SOUSA, M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado).",
+   "enunciado": "Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?",
+   "alternativas": {
+    "a": "Altura.",
+    "b": "Período.",
+    "c": "Amplitude.",
+    "d": "Velocidade.",
+    "e": "Comprimento de onda."
+   },
+   "resposta": "c",
+   "explicacao": "Quem fala continua falando do mesmo jeito: a fonte não muda, e por isso a frequência não muda — logo altura e período ficam iguais. O meio também não muda, é o mesmo barbante, então a velocidade de propagação e o comprimento de onda se mantêm. O que o barbante mais longo faz é dissipar mais energia ao longo do percurso, e energia menor chegando na outra lata significa oscilação de menor amplitude — o som chega mais fraco, não mais grave nem mais lento."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-06",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Informações digitais — dados — são gravadas em discos ópticos, como CD e DVD, na forma de cavidades microscópicas. A gravação e a leitura óptica dessas informações são realizadas por um laser (fonte de luz monocromática). Quanto menores as dimensões dessas cavidades, mais dados são armazenados na mesma área do disco. O fator limitante para a leitura de dados é o espalhamento da luz pelo efeito de difração, fenômeno que ocorre quando a luz atravessa um obstáculo com dimensões da ordem de seu comprimento de onda. Essa limitação motivou o desenvolvimento de lasers com emissão em menores comprimentos de onda, possibilitando armazenar e ler dados em cavidades cada vez menores.",
+   "enunciado": "Em qual região espectral se situa o comprimento de onda do laser que otimiza o armazenamento e a leitura de dados em discos de uma mesma área?",
+   "alternativas": {
+    "a": "Violeta.",
+    "b": "Azul.",
+    "c": "Verde.",
+    "d": "Vermelho.",
+    "e": "Infravermelho."
+   },
+   "resposta": "a",
+   "explicacao": "O próprio texto entrega o critério: cavidade menor guarda mais dado, e o que limita o tamanho da cavidade é a difração, que aparece quando o obstáculo tem dimensão da ordem do comprimento de onda. Então interessa o menor comprimento de onda disponível na lista. No espectro visível, o comprimento de onda cresce do violeta para o vermelho, e o infravermelho é maior ainda — o violeta é a ponta curta. É a história real do Blu-ray, que trocou o laser vermelho do DVD por um violeta e multiplicou a capacidade do disco sem mudar o tamanho dele."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-07",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos eletrônicos de consumo. Ela permite que aparelhos eletrônicos diferentes se conectem e troquem dados entre si. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possibilitam conectar dois dispositivos distanciados até 10 m. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π.",
+   "enunciado": "Para que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em W/m², é mais próximo de",
+   "alternativas": {
+    "a": "2,0 × 10⁻⁶.",
+    "b": "2,0 × 10⁻⁵.",
+    "c": "2,4 × 10⁻⁵.",
+    "d": "2,4 × 10⁻³.",
+    "e": "2,4 × 10⁻¹."
+   },
+   "resposta": "a",
+   "explicacao": "A intensidade mínima detectável é a que sobra na distância máxima de alcance, 10 m. A onda é esférica, então a potência se espalha pela superfície de uma esfera de raio 10 m: A = 4πr² = 4 × 3 × 10² = 1 200 m². Com P = 2,4 mW = 2,4 × 10⁻³ W, vem I = P/A = 2,4 × 10⁻³ / 1,2 × 10³ = 2,0 × 10⁻⁶ W/m². Repare que as opções que repetem o algarismo 2,4 são as de quem esqueceu de dividir pela área ou dividiu só por r²: a divisão por 4π é justamente o que troca o 2,4 por 2,0."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-12",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "É comum em viagens de avião sermos solicitados a desligar aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas, como celulares. A justificativa dada para esse procedimento é, entre outras coisas, a necessidade de eliminar fontes de sinais eletromagnéticos que possam interferir nas comunicações, via rádio, dos pilotos com a torre de controle.",
+   "enunciado": "Essa interferência poderá ocorrer somente se as ondas emitidas pelo celular e as recebidas pelo rádio do avião",
+   "alternativas": {
+    "a": "forem ambas audíveis.",
+    "b": "tiverem a mesma potência.",
+    "c": "tiverem a mesma frequência.",
+    "d": "tiverem a mesma intensidade.",
+    "e": "propagarem-se com velocidades diferentes."
+   },
+   "resposta": "c",
+   "explicacao": "Um receptor de rádio é sintonizado: ele responde à faixa de frequência para a qual foi ajustado e ignora o resto do espectro. Para que o sinal do celular se misture com o da torre, ele precisa cair dentro dessa faixa — ou seja, ter a mesma frequência. Potência e intensidade mudam o quanto o ruído incomoda, mas não fazem um sinal fora de sintonia ser captado. As ondas também não são audíveis: são eletromagnéticas, não sonoras, e o som só aparece depois que o alto-falante as converte. E todas as ondas eletromagnéticas viajam com a mesma velocidade no ar, o que descarta a última opção de saída."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-14",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso.",
+   "enunciado": "A velocidade do som na camada líquida, em metro por segundo, é",
+   "alternativas": {
+    "a": "270.",
+    "b": "540.",
+    "c": "818.",
+    "d": "1 500.",
+    "e": "1 800."
+   },
+   "resposta": "d",
+   "explicacao": "Os dois ecos percorrem exatamente o mesmo caminho na rocha de cima; o que os separa é só a travessia do líquido, ida e volta. A diferença de tempo é 1,1 − 0,5 = 0,6 s, e nesse tempo o som atravessou 450 m para baixo e 450 m para cima, ou seja, 900 m. Logo v = 900/0,6 = 1 500 m/s — que é, de fato, a ordem de grandeza da velocidade do som na água. Quem usa só 450 m em vez do percurso de ida e volta chega a 750; quem usa o tempo total de 1,1 s em vez da diferença chega perto de 818, a opção c."
   }
  ],
  "fisica-eletromagnetismo": [
@@ -125266,7 +125655,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A circulação sem bomba é possível porque a água aquecida nas placas:",
    "alternativas": {
     "a": "reduz sua viscosidade a ponto de escoar espontaneamente contra a gravidade, sem necessidade de diferença de densidade entre as porções",
-    "b": "aumenta de densidade ao ser aquecida e desce até as placas coletoras, criando um fluxo contínuo que dispensa o uso de equipamento auxiliar de bombeamento",
+    "b": "aumenta de densidade ao ser aquecida e desce até as placas coletoras, criando um fluxo contínuo que dispensa qualquer equipamento auxiliar",
     "c": "evapora parcialmente e o vapor formado empurra a coluna líquida até o reservatório instalado na parte superior da montagem residencial",
     "d": "adquire carga elétrica pelo atrito com as paredes das tubulações, o que gera um campo capaz de movimentar o fluido ao longo do circuito",
     "e": "torna-se menos densa ao se dilatar e sobe por empuxo até o reservatório, sendo substituída pela água mais fria e mais densa que vem dele"
@@ -126036,6 +126425,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A bobina sob a superfície do fogão é percorrida por corrente alternada de alta frequência e cria um campo magnético que varia no tempo. Pela lei de Faraday-Lenz, a variação do fluxo magnético através do fundo metálico da panela induz nele correntes parasitas, que aquecem o metal por efeito Joule. É por isso que só panela ferromagnética funciona, e por isso a placa permanece relativamente fria. As duas primeiras opções descrevem formas de transferir calor, não de induzir corrente, e o texto diz que o calor é gerado NA panela, e não transmitido a ela. Campo elétrico variável induz campo magnético, e não corrente em condutor por indução. E ressonância eletromagnética é fenômeno de outra natureza, ligado a frequências próprias."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "enem-fisica-09",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Um circuito com três lâmpadas incandescentes idênticas consiste em uma associação mista de resistores. Cada lâmpada (L1, L2 e L3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L2 queima, enquanto as demais permanecem acesas.",
+   "enunciado": "Em relação à situação em que todas as lâmpadas funcionam, após a queima de L2, os brilhos das lâmpadas serão",
+   "alternativas": {
+    "a": "os mesmos.",
+    "b": "mais intensos.",
+    "c": "menos intensos.",
+    "d": "menos intenso para L1 e o mesmo para L3.",
+    "e": "mais intenso para L1 e menos intenso para L3."
+   },
+   "resposta": "c",
+   "explicacao": "Cada conjunto é uma lâmpada em paralelo com um resistor R, e associação em paralelo tem resistência menor que a de qualquer um dos ramos. Quando L2 queima, aquele ramo abre e o conjunto 2 passa a ser só o resistor R — resistência maior do que a do paralelo que existia ali. Como os três conjuntos estão em série, a resistência total do circuito aumenta, e com a mesma fonte a corrente cai. As lâmpadas L1 e L3 continuam sendo percorridas por essa corrente menor, e a potência dissipada em cada uma cai junto: as duas brilham menos. As alternativas d e e supõem que L1 e L3 sejam afetadas de modos diferentes, mas em série a corrente é a mesma nos dois — a posição no circuito não distingue uma da outra."
   }
  ],
  "fisica-hidrostatica": [
@@ -127394,7 +127803,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Um objeto de 0,50 kg preso a uma mola oscila horizontalmente sobre superfície sem atrito. Na posição de máxima elongação, sua velocidade é nula; ao passar pela posição de equilíbrio, a velocidade é máxima.",
    "enunciado": "Ao longo de uma oscilação completa, a energia mecânica total do sistema:",
    "alternativas": {
-    "a": "depende apenas da massa do bloco suspenso, sem contribuição alguma da constante elástica ou da amplitude adotada na montagem experimental do laboratório",
+    "a": "depende exclusivamente da massa do bloco, sem qualquer contribuição da constante elástica ou da amplitude adotada na montagem experimental",
     "b": "aumenta continuamente, uma vez que a mola fornece energia adicional ao bloco a cada ciclo completo de oscilação realizado pelo sistema",
     "c": "diminui a cada ciclo, porque parte da energia se dissipa na deformação da mola mesmo na ausência de atrito com a superfície de apoio",
     "d": "é máxima na posição de equilíbrio e nula nos extremos, acompanhando a variação observada para a velocidade do bloco durante o movimento",
@@ -128452,7 +128861,7 @@ window.QUESTION_BANKS = {
     "b": "só se manifestam em velocidades muito próximas à da luz, condição jamais atingida por qualquer objeto construído pela engenharia humana",
     "c": "afetam exclusivamente partículas subatômicas em aceleradores, sem qualquer repercussão sobre instrumentos de escala macroscópica utilizados",
     "d": "têm consequências práticas mensuráveis em tecnologias de uso cotidiano, já que sem a correção o erro de posicionamento cresceria a cada dia",
-    "e": "contradizem as leis da mecânica clássica nas diversas escalas, o que tornaria inválido o uso das equações de Newton nas aplicações práticas usuais"
+    "e": "contradizem as leis da mecânica clássica em todas as escalas, o que torna inválido o uso das equações de Newton em qualquer aplicação prática"
    },
    "resposta": "d",
    "explicacao": "Sem as correções relativísticas — tanto a da velocidade orbital quanto a do campo gravitacional mais fraco em altitude —, o erro de posicionamento acumularia vários quilômetros por dia. A alternativa (e) exagera: a mecânica newtoniana continua válida como aproximação em baixas velocidades.",
@@ -129570,6 +129979,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "É a relatividade da simultaneidade: dois eventos simultâneos e separados por uma distância L₀ no referencial próprio deixam de ser simultâneos em outro referencial, com Δt = γ·v·L₀/c². Aqui v = 3×10⁶ m/s, ou 0,01c, de modo que γ ≈ 1 e a dilatação temporal é desprezível — o efeito é todo da separação espacial. Assim Δt ≈ (3×10⁶ · 700)/(3×10⁸)² = 2,1×10⁹/9×10¹⁶ ≈ 2,3×10⁻⁸ s, isto é, cerca de 20 ns. Os valores em microssegundo saem de dividir o comprimento pela velocidade do foguete, que responderia outra pergunta: quanto tempo o foguete leva para percorrer o próprio comprimento."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "enem-fisica-08",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os raios cósmicos são fontes de radiação ionizante potencialmente perigosas para o organismo humano. Para quantificar a dose de radiação recebida, utiliza-se o sievert (Sv), definido como a unidade de energia recebida por unidade de massa. A exposição à radiação proveniente de raios cósmicos aumenta com a altitude, o que pode representar um problema para as tripulações de aeronaves. Recentemente, foram realizadas medições acuradas das doses de radiação ionizante para voos entre Rio de Janeiro e Roma. Os resultados têm indicado que a dose média de radiação recebida na fase de cruzeiro (que geralmente representa 80% do tempo total de voo) desse trecho intercontinental é 2 μSv/h. As normas internacionais da aviação civil limitam em 1 000 horas por ano o tempo de trabalho para as tripulações que atuem em voos intercontinentais. Considere que a dose de radiação ionizante para uma radiografia torácica é estimada em 0,2 mSv.",
+   "fonte_texto": "RUAS, A. C. O tripulante de aeronaves e a radiação ionizante. São Paulo: Edição do Autor, 2019 (adaptado).",
+   "enunciado": "A quantas radiografias torácicas corresponde a dose de radiação ionizante à qual um tripulante que atue no trecho Rio de Janeiro−Roma é exposto ao longo de um ano?",
+   "alternativas": {
+    "a": "8",
+    "b": "10",
+    "c": "80",
+    "d": "100",
+    "e": "1 000"
+   },
+   "resposta": "a",
+   "explicacao": "A taxa de 2 μSv/h vale só para a fase de cruzeiro, que é 80% do tempo de voo. Do teto de 1 000 h por ano, portanto, 800 h são de cruzeiro: dose = 2 μSv/h × 800 h = 1 600 μSv = 1,6 mSv. Cada radiografia torácica equivale a 0,2 mSv, e 1,6 ÷ 0,2 = 8. A armadilha é ignorar os 80% e usar as 1 000 h cheias, o que daria 2 000 μSv = 2 mSv e levaria a 10 — a opção b existe exatamente para colher quem passou por cima dessa linha do texto. Também é preciso cuidar da troca de prefixo: μSv e mSv diferem por mil."
   }
  ]
 };

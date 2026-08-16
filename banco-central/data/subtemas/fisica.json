@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "fisica",
- "total": 538,
+ "total": 548,
  "residuo": [
   "med-fisica-31",
   "med-fisica-92",
@@ -3229,6 +3229,64 @@
    "frenteDestino": "fisica",
    "pontos": 5,
    "margem": 1
+  },
+  "enem-fisica-05": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 13,
+   "margem": 13
+  },
+  "enem-fisica-06": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "enem-fisica-07": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-fisica-08": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "revisado": true
+  },
+  "enem-fisica-09": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "enem-fisica-10": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "enem-fisica-11": {
+   "subtema": "fisica-mecanica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-fisica-12": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 15,
+   "margem": 15
+  },
+  "enem-fisica-13": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "revisado": true
+  },
+  "enem-fisica-14": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 18,
+   "margem": 13
   }
  }
 }

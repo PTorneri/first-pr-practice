@@ -9,6 +9,7 @@
   "dir-geografia-35",
   "dir-geografia-36",
   "dir-geografia-54",
+  "dir-geografia-123",
   "dir-geografia-124",
   "dir-geografia-127",
   "dir-geografia-149",
@@ -752,10 +753,9 @@
    "margem": 5
   },
   "dir-geografia-123": {
-   "subtema": "geografia-geopolitica",
+   "subtema": "geografia-populacao-urbana",
    "frenteDestino": "geografia",
-   "pontos": 4,
-   "margem": 4
+   "padrao": true
   },
   "dir-geografia-124": {
    "subtema": "geografia-populacao-urbana",

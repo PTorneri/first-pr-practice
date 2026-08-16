@@ -1322,6 +1322,23 @@ const REVISADAS = {
   // Aluminio do vidro e gluconato de calcio: deslocamento de equilibrio. O
   // nome do sal organico ganhava da palavra "equilibrio".
   "enem-quimica-05": "quimica-equilibrio-acido-base",
+
+  // --- ENEM 2023, 2o dia, segunda leva (questoes 111 a 135). Quatro pinos em
+  // 21 questoes, contra ~70% em Humanas: e a confirmacao de que a tabela foi
+  // feita para prova que nomeia o assunto, e Natureza nomeia.
+  //
+  // Aguape que absorve metal toxico. "Corpo do vegetal", "tecidos" e "enzimas"
+  // somaram para citologia; o assunto e biorremediacao, que e ecologia.
+  "enem-biologia-12": "biologia-ecologia",
+  // Casal com sindrome de Down: quais zigotos sao possiveis. "Cromossomo 21",
+  // "gameta" e "zigoto" puxam para citologia, mas a pergunta e de cruzamento.
+  "enem-biologia-13": "biologia-genetica",
+  // Sievert e a dose de raios cosmicos numa tripulacao. "Radiacao ionizante" e
+  // o assunto; "altitude", "voo" e "aeronave" e que levavam para mecanica.
+  "enem-fisica-08": "fisica-moderna",
+  // Copo de casca de cafe: a vantagem que decide e nao esquentar por fora.
+  // Nenhuma palavra de termologia aparece -- so "conduz" e "quente".
+  "enem-fisica-13": "fisica-termologia",
 };
 
 // ------------------------------------------------------------------- classificação

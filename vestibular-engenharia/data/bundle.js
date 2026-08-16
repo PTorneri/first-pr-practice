@@ -8469,7 +8469,7 @@ window.QUESTION_BANKS = {
    "enunciado": "Na matriz A = [2 −1 3; 4 −2 6; 5 0 1], em que o ponto e vírgula separa as linhas, a segunda linha é ______ da primeira; por isso det A vale ______ e o sistema linear homogêneo que tem A como matriz dos coeficientes ______. As lacunas são preenchidas por:",
    "alternativas": {
     "a": "o dobro – 0 – admite infinitas soluções, e não apenas a trivial, por ser indeterminado",
-    "b": "o dobro – 0 – admite apenas a solução trivial, já que um sistema homogêneo é determinado por definição",
+    "b": "o dobro – 0 – admite apenas a solução trivial, já que todo sistema homogêneo é determinado",
     "c": "a metade – 34 – tem solução única, obtida diretamente pela regra de Cramer",
     "d": "o dobro – 68 – é impossível, pois as duas primeiras equações se contradizem",
     "e": "independente – −34 – só admite solução quando os termos independentes são todos nulos"
@@ -8705,7 +8705,7 @@ window.QUESTION_BANKS = {
     "b": "possível e determinado para m ≠ 6 e impossível para m = 6",
     "c": "impossível para m = 6 e possível e indeterminado para m = 3",
     "d": "possível e determinado para qualquer valor real de m",
-    "e": "possível e indeterminado independentemente do valor de m, já que há duas equações e duas incógnitas"
+    "e": "possível e indeterminado para todo m, já que há duas equações e duas incógnitas"
    },
    "resposta": "a",
    "explicacao": "O determinante dos coeficientes é m − 6, então há solução única sempre que m ≠ 6. Com m = 6, a segunda equação vira 3x + 6y = 9, exatamente o triplo da primeira: mesma reta, infinitas soluções. A alternativa (b) é a armadilha central da discussão — quando o determinante zera, é obrigatório checar o termo independente antes de decidir entre impossível e indeterminado, e aqui ele acompanha a proporção.",
@@ -11963,7 +11963,7 @@ window.QUESTION_BANKS = {
     "a": "combinação – arranjo – 35 possibilidades, pois é preciso descontar as repetições geradas pela ordem dos escolhidos",
     "b": "combinação – arranjo – 210 possibilidades, uma vez que cada trio pode ser apresentado em ordens diferentes",
     "c": "permutação – arranjo – 21 possibilidades, resultado de multiplicar o total de pessoas pelo tamanho da comissão",
-    "d": "arranjo – combinação – 210 possibilidades, porque a escolha de pessoas para uma comissão pressuporia alguma hierarquia interna",
+    "d": "arranjo – combinação – 210 possibilidades, porque toda escolha de pessoas para uma comissão pressupõe alguma hierarquia",
     "e": "arranjo – combinação – 35 possibilidades, pois a comissão sem cargos não distingue a ordem dos três nomes escolhidos"
    },
    "resposta": "e",
@@ -18973,6 +18973,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Na altura máxima a esfera para de subir e ainda não começou a descer: é o instante em que a velocidade troca de sinal, e por isso vale zero. Mas a aceleração não acompanha essa mudança — durante todo o percurso a única força é o peso, e a aceleração da gravidade aponta para baixo, com módulo constante de cerca de 10 m/s², inclusive no ponto mais alto. É justamente por a aceleração não ser nula ali que a esfera não fica parada no ar e passa a cair. A opção com a = 0 é o erro clássico de confundir velocidade nula com ausência de força. E as que põem a aceleração para cima invertem o sentido do peso: nada empurra a esfera para cima depois que ela deixa a mão."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "enem-fisica-11",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma concessionária é responsável por um trecho de 480 quilômetros de uma rodovia. Nesse trecho, foram construídas 10 praças de pedágio, onde funcionários recebem os pagamentos nas cabines de cobrança. Também existe o serviço automático, em que os veículos providos de um dispositivo passam por uma cancela, que se abre automaticamente, evitando filas e diminuindo o tempo de viagem. Segundo a concessionária, o tempo médio para efetuar a passagem em uma cabine é de 3 minutos, e as velocidades máximas permitidas na rodovia são 100 km/h, para veículos leves, e 80 km/h, para veículos de grande porte. Considere um carro e um caminhão viajando, ambos com velocidades constantes e iguais às máximas permitidas, e que somente o caminhão tenha o serviço automático de cobrança.",
+   "enunciado": "Comparado ao caminhão, quantos minutos a menos o carro leva para percorrer toda a rodovia?",
+   "alternativas": {
+    "a": "30",
+    "b": "42",
+    "c": "72",
+    "d": "288",
+    "e": "360"
+   },
+   "resposta": "b",
+   "explicacao": "O carro roda 480 km a 100 km/h, o que dá 4,8 h = 288 min, mas é ele quem não tem o serviço automático: para nas 10 praças, 3 min em cada, somando 30 min. Total do carro: 318 min. O caminhão roda 480 km a 80 km/h, o que dá 6 h = 360 min, e não perde tempo nenhum nas cancelas. A diferença é 360 − 318 = 42 min. A leitura invertida — supor que o caminhão é que para — daria 288 contra 390 e nenhuma opção; e quem esquece as paradas de vez chega a 72, que é a diferença só das velocidades e está ali como distrator."
   }
  ],
  "fisica-termologia": [
@@ -19294,7 +19314,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A temperatura final de equilíbrio:",
    "alternativas": {
     "a": "depende das massas e dos calores específicos dos dois corpos, resultando numa média ponderada pelas capacidades térmicas de cada um",
-    "b": "é igual à média aritmética entre as temperaturas iniciais, ou seja, cinquenta graus Celsius para as combinações de massas consideradas no problema",
+    "b": "é sempre a média aritmética entre as temperaturas iniciais, ou seja, cinquenta graus Celsius em qualquer combinação de massas considerada",
     "c": "é sempre mais próxima da temperatura do corpo mais quente, uma vez que ele possui maior quantidade de energia térmica acumulada no início",
     "d": "depende apenas da diferença entre as temperaturas iniciais, sem qualquer influência das características materiais de cada um dos corpos",
     "e": "corresponde à temperatura do corpo de maior massa, que impõe sua condição térmica ao corpo menor durante o processo de equilíbrio"
@@ -20203,6 +20223,47 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A geladeira não destrói calor: ela o bombeia de dentro para fora, e o que sai pela serpentina traseira é o calor retirado MAIS o trabalho elétrico do compressor. Com a porta aberta a cozinha vira o ambiente dos dois lados, e o saldo é positivo — ela esquenta. O primeiro instante realmente refresca, porque o ar frio já acumulado escapa, e é por isso que a alternativa (d) descreve as duas fases. A (c) erra ao supor um balanço nulo, ignorando a energia elétrica que entra; ela vale para uma máquina ideal sem consumo, que não existe. A (b) acerta o sentido, mas atribui o aquecimento só ao efeito Joule no motor, quando a maior parte é o calor bombeado de dentro para fora."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "enem-fisica-10",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em uma indústria alimentícia, para produção de doce de leite, utiliza-se um tacho de parede oca com uma entrada para vapor de água a 120 °C e uma saída para água líquida em equilíbrio com o vapor a 100 °C. Ao passar pela parte oca do tacho, o vapor de água transforma-se em líquido, liberando energia. A parede transfere essa energia para o interior do tacho, resultando na evaporação de água e consequente concentração do produto.",
+   "enunciado": "No processo de concentração do produto, é utilizada energia proveniente",
+   "alternativas": {
+    "a": "somente do calor latente de vaporização.",
+    "b": "somente do calor latente de condensação.",
+    "c": "do calor sensível e do calor latente de vaporização.",
+    "d": "do calor sensível e do calor latente de condensação.",
+    "e": "do calor latente de condensação e do calor latente de vaporização."
+   },
+   "resposta": "d",
+   "explicacao": "A pergunta é sobre a energia que SAI do vapor na parede oca, não sobre o que acontece dentro do tacho. O vapor entra a 120 °C e sai como líquido a 100 °C, então ele passa por duas etapas: primeiro esfria de 120 °C para 100 °C ainda como vapor, cedendo calor sensível (há variação de temperatura), e depois condensa a 100 °C, cedendo calor latente de condensação (há mudança de estado sem variação de temperatura). A vaporização citada nas outras opções é o que ocorre do lado de dentro, no produto — é o destino da energia, não a fonte dela."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "enem-fisica-13",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma cafeteria adotou copos fabricados a partir de uma composição de 50% de plástico reciclado não biodegradável e 50% de casca de café. O copo é reutilizável e retornável, pois o material, semelhante a uma cerâmica, suporta a lavagem. Embora ele seja comercializado por um preço considerado alto quando comparado ao de um copo de plástico descartável, essa cafeteria possibilita aos clientes retornarem o copo sujo e levarem o café quente servido em outro copo já limpo e higienizado. O material desse copo oferece também o conforto de não esquentar na parte externa.",
+   "fonte_texto": "Cafeteria adota copo reutilizável feito com casca de café. Disponível em: www.gazetadopovo.com.br. Acesso em: 5 dez. 2019 (adaptado).",
+   "enunciado": "Quais duas vantagens esse copo apresenta em comparação ao copo descartável?",
+   "alternativas": {
+    "a": "Ter a durabilidade de uma cerâmica e ser totalmente biodegradável.",
+    "b": "Ser tão durável quanto uma cerâmica e ter alta condutividade térmica.",
+    "c": "Ser um mau condutor térmico e aumentar o resíduo biodegradável na natureza.",
+    "d": "Ter baixa condutividade térmica e reduzir o resíduo não biodegradável na natureza.",
+    "e": "Ter alta condutividade térmica e possibilitar a degradação do material no meio ambiente."
+   },
+   "resposta": "d",
+   "explicacao": "As duas vantagens estão ditas no texto, uma em cada ponta. A frase \"não esquentar na parte externa\" com café quente dentro descreve um material que conduz mal o calor: baixa condutividade térmica. E o copo é reutilizável, então cada um deles substitui muitos descartáveis — o que reduz a quantidade de resíduo não biodegradável despejada na natureza. Cuidado com a segunda metade: metade do material é plástico reciclado NÃO biodegradável, então o copo não é biodegradável nem aumenta resíduo biodegradável, o que elimina a, c e e. E alta condutividade térmica contraria justamente o conforto descrito, derrubando b."
   }
  ],
  "fisica-ondas-optica": [
@@ -20516,7 +20577,7 @@ window.QUESTION_BANKS = {
     "b": "a metade – diminui, e o som se torna mais grave",
     "c": "o dobro – aumenta, e o som emitido se torna mais agudo",
     "d": "o quádruplo – aumenta, e o som se torna mais agudo",
-    "e": "a quarta parte – permanece a mesma, independentemente do dedilhado usado"
+    "e": "a quarta parte – permanece a mesma, qualquer que seja o dedilhado"
    },
    "resposta": "c",
    "explicacao": "No fundamental cabe meio comprimento de onda entre os dois nós, então o comprimento de onda é o dobro do da corda. Encurtar a corda reduz o comprimento de onda e, como a velocidade na corda não muda, a frequência sobe — é assim que se tocam notas mais agudas no braço do instrumento.",
@@ -21674,6 +21735,107 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A intensidade mínima é a que sobra na distância máxima, porque a onda esférica espalha a mesma potência por uma superfície que cresce com o quadrado do raio. A área da esfera de 10 m de raio é 4πr² = 4 × 3 × 100 = 1 200 m². Dividindo a potência pela área: 2,4 × 10⁻³ W ÷ 1,2 × 10³ m² = 2,0 × 10⁻⁶ W/m². Os distratores são as paradas do caminho: 2,4 × 10⁻³ é a potência em watts, sem dividir por área nenhuma; 2,4 × 10⁻⁵ sai de dividir só por 100, esquecendo o 4π; e 2,0 × 10⁻⁵ erra a potência de dez na mesma conta. Note que o enunciado pede o valor MÍNIMO, e é por isso que se usa o raio de 10 m — perto da antena a intensidade é maior."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-05",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.",
+   "fonte_texto": "SOUSA, M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado).",
+   "enunciado": "Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?",
+   "alternativas": {
+    "a": "Altura.",
+    "b": "Período.",
+    "c": "Amplitude.",
+    "d": "Velocidade.",
+    "e": "Comprimento de onda."
+   },
+   "resposta": "c",
+   "explicacao": "Quem fala continua falando do mesmo jeito: a fonte não muda, e por isso a frequência não muda — logo altura e período ficam iguais. O meio também não muda, é o mesmo barbante, então a velocidade de propagação e o comprimento de onda se mantêm. O que o barbante mais longo faz é dissipar mais energia ao longo do percurso, e energia menor chegando na outra lata significa oscilação de menor amplitude — o som chega mais fraco, não mais grave nem mais lento."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-06",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Informações digitais — dados — são gravadas em discos ópticos, como CD e DVD, na forma de cavidades microscópicas. A gravação e a leitura óptica dessas informações são realizadas por um laser (fonte de luz monocromática). Quanto menores as dimensões dessas cavidades, mais dados são armazenados na mesma área do disco. O fator limitante para a leitura de dados é o espalhamento da luz pelo efeito de difração, fenômeno que ocorre quando a luz atravessa um obstáculo com dimensões da ordem de seu comprimento de onda. Essa limitação motivou o desenvolvimento de lasers com emissão em menores comprimentos de onda, possibilitando armazenar e ler dados em cavidades cada vez menores.",
+   "enunciado": "Em qual região espectral se situa o comprimento de onda do laser que otimiza o armazenamento e a leitura de dados em discos de uma mesma área?",
+   "alternativas": {
+    "a": "Violeta.",
+    "b": "Azul.",
+    "c": "Verde.",
+    "d": "Vermelho.",
+    "e": "Infravermelho."
+   },
+   "resposta": "a",
+   "explicacao": "O próprio texto entrega o critério: cavidade menor guarda mais dado, e o que limita o tamanho da cavidade é a difração, que aparece quando o obstáculo tem dimensão da ordem do comprimento de onda. Então interessa o menor comprimento de onda disponível na lista. No espectro visível, o comprimento de onda cresce do violeta para o vermelho, e o infravermelho é maior ainda — o violeta é a ponta curta. É a história real do Blu-ray, que trocou o laser vermelho do DVD por um violeta e multiplicou a capacidade do disco sem mudar o tamanho dele."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-07",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos eletrônicos de consumo. Ela permite que aparelhos eletrônicos diferentes se conectem e troquem dados entre si. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possibilitam conectar dois dispositivos distanciados até 10 m. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π.",
+   "enunciado": "Para que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em W/m², é mais próximo de",
+   "alternativas": {
+    "a": "2,0 × 10⁻⁶.",
+    "b": "2,0 × 10⁻⁵.",
+    "c": "2,4 × 10⁻⁵.",
+    "d": "2,4 × 10⁻³.",
+    "e": "2,4 × 10⁻¹."
+   },
+   "resposta": "a",
+   "explicacao": "A intensidade mínima detectável é a que sobra na distância máxima de alcance, 10 m. A onda é esférica, então a potência se espalha pela superfície de uma esfera de raio 10 m: A = 4πr² = 4 × 3 × 10² = 1 200 m². Com P = 2,4 mW = 2,4 × 10⁻³ W, vem I = P/A = 2,4 × 10⁻³ / 1,2 × 10³ = 2,0 × 10⁻⁶ W/m². Repare que as opções que repetem o algarismo 2,4 são as de quem esqueceu de dividir pela área ou dividiu só por r²: a divisão por 4π é justamente o que troca o 2,4 por 2,0."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-12",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "É comum em viagens de avião sermos solicitados a desligar aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas, como celulares. A justificativa dada para esse procedimento é, entre outras coisas, a necessidade de eliminar fontes de sinais eletromagnéticos que possam interferir nas comunicações, via rádio, dos pilotos com a torre de controle.",
+   "enunciado": "Essa interferência poderá ocorrer somente se as ondas emitidas pelo celular e as recebidas pelo rádio do avião",
+   "alternativas": {
+    "a": "forem ambas audíveis.",
+    "b": "tiverem a mesma potência.",
+    "c": "tiverem a mesma frequência.",
+    "d": "tiverem a mesma intensidade.",
+    "e": "propagarem-se com velocidades diferentes."
+   },
+   "resposta": "c",
+   "explicacao": "Um receptor de rádio é sintonizado: ele responde à faixa de frequência para a qual foi ajustado e ignora o resto do espectro. Para que o sinal do celular se misture com o da torre, ele precisa cair dentro dessa faixa — ou seja, ter a mesma frequência. Potência e intensidade mudam o quanto o ruído incomoda, mas não fazem um sinal fora de sintonia ser captado. As ondas também não são audíveis: são eletromagnéticas, não sonoras, e o som só aparece depois que o alto-falante as converte. E todas as ondas eletromagnéticas viajam com a mesma velocidade no ar, o que descarta a última opção de saída."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-14",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso.",
+   "enunciado": "A velocidade do som na camada líquida, em metro por segundo, é",
+   "alternativas": {
+    "a": "270.",
+    "b": "540.",
+    "c": "818.",
+    "d": "1 500.",
+    "e": "1 800."
+   },
+   "resposta": "d",
+   "explicacao": "Os dois ecos percorrem exatamente o mesmo caminho na rocha de cima; o que os separa é só a travessia do líquido, ida e volta. A diferença de tempo é 1,1 − 0,5 = 0,6 s, e nesse tempo o som atravessou 450 m para baixo e 450 m para cima, ou seja, 900 m. Logo v = 900/0,6 = 1 500 m/s — que é, de fato, a ordem de grandeza da velocidade do som na água. Quem usa só 450 m em vez do percurso de ida e volta chega a 750; quem usa o tempo total de 1,1 s em vez da diferença chega perto de 818, a opção c."
   }
  ],
  "fisica-eletromagnetismo": [
@@ -22271,7 +22433,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A circulação sem bomba é possível porque a água aquecida nas placas:",
    "alternativas": {
     "a": "reduz sua viscosidade a ponto de escoar espontaneamente contra a gravidade, sem necessidade de diferença de densidade entre as porções",
-    "b": "aumenta de densidade ao ser aquecida e desce até as placas coletoras, criando um fluxo contínuo que dispensa o uso de equipamento auxiliar de bombeamento",
+    "b": "aumenta de densidade ao ser aquecida e desce até as placas coletoras, criando um fluxo contínuo que dispensa qualquer equipamento auxiliar",
     "c": "evapora parcialmente e o vapor formado empurra a coluna líquida até o reservatório instalado na parte superior da montagem residencial",
     "d": "adquire carga elétrica pelo atrito com as paredes das tubulações, o que gera um campo capaz de movimentar o fluido ao longo do circuito",
     "e": "torna-se menos densa ao se dilatar e sobe por empuxo até o reservatório, sendo substituída pela água mais fria e mais densa que vem dele"
@@ -23041,6 +23203,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A bobina sob a superfície do fogão é percorrida por corrente alternada de alta frequência e cria um campo magnético que varia no tempo. Pela lei de Faraday-Lenz, a variação do fluxo magnético através do fundo metálico da panela induz nele correntes parasitas, que aquecem o metal por efeito Joule. É por isso que só panela ferromagnética funciona, e por isso a placa permanece relativamente fria. As duas primeiras opções descrevem formas de transferir calor, não de induzir corrente, e o texto diz que o calor é gerado NA panela, e não transmitido a ela. Campo elétrico variável induz campo magnético, e não corrente em condutor por indução. E ressonância eletromagnética é fenômeno de outra natureza, ligado a frequências próprias."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "enem-fisica-09",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Um circuito com três lâmpadas incandescentes idênticas consiste em uma associação mista de resistores. Cada lâmpada (L1, L2 e L3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L2 queima, enquanto as demais permanecem acesas.",
+   "enunciado": "Em relação à situação em que todas as lâmpadas funcionam, após a queima de L2, os brilhos das lâmpadas serão",
+   "alternativas": {
+    "a": "os mesmos.",
+    "b": "mais intensos.",
+    "c": "menos intensos.",
+    "d": "menos intenso para L1 e o mesmo para L3.",
+    "e": "mais intenso para L1 e menos intenso para L3."
+   },
+   "resposta": "c",
+   "explicacao": "Cada conjunto é uma lâmpada em paralelo com um resistor R, e associação em paralelo tem resistência menor que a de qualquer um dos ramos. Quando L2 queima, aquele ramo abre e o conjunto 2 passa a ser só o resistor R — resistência maior do que a do paralelo que existia ali. Como os três conjuntos estão em série, a resistência total do circuito aumenta, e com a mesma fonte a corrente cai. As lâmpadas L1 e L3 continuam sendo percorridas por essa corrente menor, e a potência dissipada em cada uma cai junto: as duas brilham menos. As alternativas d e e supõem que L1 e L3 sejam afetadas de modos diferentes, mas em série a corrente é a mesma nos dois — a posição no circuito não distingue uma da outra."
   }
  ],
  "fisica-hidrostatica": [
@@ -24399,7 +24581,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "Um objeto de 0,50 kg preso a uma mola oscila horizontalmente sobre superfície sem atrito. Na posição de máxima elongação, sua velocidade é nula; ao passar pela posição de equilíbrio, a velocidade é máxima.",
    "enunciado": "Ao longo de uma oscilação completa, a energia mecânica total do sistema:",
    "alternativas": {
-    "a": "depende apenas da massa do bloco suspenso, sem contribuição alguma da constante elástica ou da amplitude adotada na montagem experimental do laboratório",
+    "a": "depende exclusivamente da massa do bloco, sem qualquer contribuição da constante elástica ou da amplitude adotada na montagem experimental",
     "b": "aumenta continuamente, uma vez que a mola fornece energia adicional ao bloco a cada ciclo completo de oscilação realizado pelo sistema",
     "c": "diminui a cada ciclo, porque parte da energia se dissipa na deformação da mola mesmo na ausência de atrito com a superfície de apoio",
     "d": "é máxima na posição de equilíbrio e nula nos extremos, acompanhando a variação observada para a velocidade do bloco durante o movimento",
@@ -25457,7 +25639,7 @@ window.QUESTION_BANKS = {
     "b": "só se manifestam em velocidades muito próximas à da luz, condição jamais atingida por qualquer objeto construído pela engenharia humana",
     "c": "afetam exclusivamente partículas subatômicas em aceleradores, sem qualquer repercussão sobre instrumentos de escala macroscópica utilizados",
     "d": "têm consequências práticas mensuráveis em tecnologias de uso cotidiano, já que sem a correção o erro de posicionamento cresceria a cada dia",
-    "e": "contradizem as leis da mecânica clássica nas diversas escalas, o que tornaria inválido o uso das equações de Newton nas aplicações práticas usuais"
+    "e": "contradizem as leis da mecânica clássica em todas as escalas, o que torna inválido o uso das equações de Newton em qualquer aplicação prática"
    },
    "resposta": "d",
    "explicacao": "Sem as correções relativísticas — tanto a da velocidade orbital quanto a do campo gravitacional mais fraco em altitude —, o erro de posicionamento acumularia vários quilômetros por dia. A alternativa (e) exagera: a mecânica newtoniana continua válida como aproximação em baixas velocidades.",
@@ -26575,6 +26757,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "É a relatividade da simultaneidade: dois eventos simultâneos e separados por uma distância L₀ no referencial próprio deixam de ser simultâneos em outro referencial, com Δt = γ·v·L₀/c². Aqui v = 3×10⁶ m/s, ou 0,01c, de modo que γ ≈ 1 e a dilatação temporal é desprezível — o efeito é todo da separação espacial. Assim Δt ≈ (3×10⁶ · 700)/(3×10⁸)² = 2,1×10⁹/9×10¹⁶ ≈ 2,3×10⁻⁸ s, isto é, cerca de 20 ns. Os valores em microssegundo saem de dividir o comprimento pela velocidade do foguete, que responderia outra pergunta: quanto tempo o foguete leva para percorrer o próprio comprimento."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "enem-fisica-08",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os raios cósmicos são fontes de radiação ionizante potencialmente perigosas para o organismo humano. Para quantificar a dose de radiação recebida, utiliza-se o sievert (Sv), definido como a unidade de energia recebida por unidade de massa. A exposição à radiação proveniente de raios cósmicos aumenta com a altitude, o que pode representar um problema para as tripulações de aeronaves. Recentemente, foram realizadas medições acuradas das doses de radiação ionizante para voos entre Rio de Janeiro e Roma. Os resultados têm indicado que a dose média de radiação recebida na fase de cruzeiro (que geralmente representa 80% do tempo total de voo) desse trecho intercontinental é 2 μSv/h. As normas internacionais da aviação civil limitam em 1 000 horas por ano o tempo de trabalho para as tripulações que atuem em voos intercontinentais. Considere que a dose de radiação ionizante para uma radiografia torácica é estimada em 0,2 mSv.",
+   "fonte_texto": "RUAS, A. C. O tripulante de aeronaves e a radiação ionizante. São Paulo: Edição do Autor, 2019 (adaptado).",
+   "enunciado": "A quantas radiografias torácicas corresponde a dose de radiação ionizante à qual um tripulante que atue no trecho Rio de Janeiro−Roma é exposto ao longo de um ano?",
+   "alternativas": {
+    "a": "8",
+    "b": "10",
+    "c": "80",
+    "d": "100",
+    "e": "1 000"
+   },
+   "resposta": "a",
+   "explicacao": "A taxa de 2 μSv/h vale só para a fase de cruzeiro, que é 80% do tempo de voo. Do teto de 1 000 h por ano, portanto, 800 h são de cruzeiro: dose = 2 μSv/h × 800 h = 1 600 μSv = 1,6 mSv. Cada radiografia torácica equivale a 0,2 mSv, e 1,6 ÷ 0,2 = 8. A armadilha é ignorar os 80% e usar as 1 000 h cheias, o que daria 2 000 μSv = 2 mSv e levaria a 10 — a opção b existe exatamente para colher quem passou por cima dessa linha do texto. Também é preciso cuidar da troca de prefixo: μSv e mSv diferem por mil."
   }
  ],
  "quimica-eletroquimica": [
@@ -26656,7 +26859,7 @@ window.QUESTION_BANKS = {
     "a": "produzir previsões meteorológicas diárias para diferentes regiões do planeta, tarefa que compete a serviços meteorológicos nacionais, não ao IPCC",
     "b": "conduzir diretamente as negociações internacionais sobre metas de redução de emissões",
     "c": "definir, de forma unilateral e vinculante, políticas ambientais que todos os países são legalmente obrigados a seguir de imediato",
-    "d": "realizar apenas pesquisas de opinião pública sobre a percepção da população em relação ao clima, atividade bastante distinta da síntese técnico-científica que caracteriza os relatórios do IPCC",
+    "d": "realizar exclusivamente pesquisas de opinião pública sobre a percepção da população em relação ao clima, atividade distinta da síntese técnico-científica que caracteriza os relatórios do IPCC",
     "e": "sintetizar e avaliar, com base em evidências científicas revisadas por pares, o conhecimento sobre mudanças climáticas, servindo de base técnica para negociações e políticas públicas"
    },
    "resposta": "e",
@@ -28189,7 +28392,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "tetraédrica, trigonal plana e linear, formas que decorrem apenas do número de átomos ligados ao elemento central de cada molécula",
     "b": "trigonal plana, piramidal e angular, arranjos determinados pelo número total de pares de elétrons presentes na camada de valência",
-    "c": "tetraédrica, tetraédrica e tetraédrica, uma vez que as três apresentam quatro pares de elétrons distribuídos ao redor do elemento central da molécula",
+    "c": "tetraédrica, tetraédrica e tetraédrica, uma vez que todas apresentam quatro pares de elétrons distribuídos ao redor do elemento central",
     "d": "linear, angular e tetraédrica, sequência que acompanha o aumento do número de pares não ligantes presentes no átomo central",
     "e": "tetraédrica, piramidal e angular, formas definidas pelas posições dos átomos ligados, e não pelas dos pares de elétrons não ligantes"
    },
@@ -29296,6 +29499,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "Numa usina nuclear o calor vem da fissão de núcleos de urânio, não de combustão. Como não há queima, não há emissão de CO2, de óxidos de enxofre ou de nitrogênio — e é justamente essa a vantagem que o enunciado pede, em contraste com as termelétricas a carvão ou a óleo. Os distratores atribuem à energia nuclear os problemas das fontes fósseis: gases tóxicos e chuva ácida vêm da queima, e desmatamento não é efeito de uma usina que ocupa área pequena. A primeira opção contradiz o próprio texto, que cita a geração de resíduos tóxicos entre as desvantagens: rejeito radioativo não é facilmente reciclável, e sim armazenado por décadas ou séculos."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "enem-quimica-08",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, capaz de manter um solo fértil por anos. Admite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente (—COO⁻). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio, do cálcio e do magnésio, além de micronutrientes, como zinco e ferro. Essa ligação no solo fertilizado é predominantemente iônica. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a 3,44. Os valores de eletronegatividade dos cinco elementos metálicos são: K, 0,82; Ca, 1,00; Mg, 1,31; Zn, 1,65; Fe, 1,83.",
+   "fonte_texto": "MICHALOVIC, M. Ancient Soil Chemists of the Amazon. ChemMatters, fev. 2009 (adaptado).",
+   "enunciado": "O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente do elemento",
+   "alternativas": {
+    "a": "potássio.",
+    "b": "cálcio.",
+    "c": "magnésio.",
+    "d": "zinco.",
+    "e": "ferro."
+   },
+   "resposta": "a",
+   "explicacao": "O caráter iônico de uma ligação cresce com a diferença de eletronegatividade entre os dois átomos envolvidos. Do lado do carboxilato quem faz a ligação é o oxigênio, com 3,44 fixo para todos os casos, então basta procurar o metal de menor eletronegatividade — é ele que produz a maior diferença. As diferenças são: K, 3,44 − 0,82 = 2,62; Ca, 2,44; Mg, 2,13; Zn, 1,79; Fe, 1,61. O potássio vence com folga. Repare que a resposta não depende da carga do cátion nem do fato de o cálcio e o magnésio serem divalentes: a pergunta é sobre o tipo de ligação, não sobre a intensidade da atração eletrostática."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -29504,7 +29728,7 @@ window.QUESTION_BANKS = {
     "b": "o pH é maior que 7, uma vez que a constante de ionização apresenta valor muito baixo em relação à concentração do ácido na solução",
     "c": "a adição de acetato de sódio aumentaria a ionização do ácido, elevando ainda mais a concentração de íons hidrogênio em solução",
     "d": "apenas uma pequena fração das moléculas está ionizada, e a concentração de íons hidrogênio resultante leva o pH a ficar em torno de 2,4",
-    "e": "o grau de ionização independe da concentração inicial, permanecendo constante nas diluições sucessivas realizadas a partir da amostra original"
+    "e": "o grau de ionização independe da concentração inicial, permanecendo constante em qualquer diluição realizada a partir da amostra original"
    },
    "resposta": "d",
    "explicacao": "O valor pequeno da constante indica ácido fraco, com ionização parcial. Estimando pela expressão do equilíbrio, a concentração de íons hidrogênio fica na ordem de 4 x 10⁻³ mol/L, o que corresponde a pH em torno de 2,4. Adicionar acetato deslocaria o equilíbrio no sentido inverso, o que torna (c) incorreta.",
@@ -31554,7 +31778,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "monômero, unidade estrutural simples que ainda não reagiu para formar uma cadeia maior",
     "b": "isômero, composto de mesma fórmula molecular e estrutura diferente de outro composto",
-    "c": "hidrocarboneto, composto formado apenas por átomos de carbono e hidrogênio ao longo da cadeia principal inteira",
+    "c": "hidrocarboneto, composto formado exclusivamente por átomos de carbono e hidrogênio ao longo de toda a cadeia",
     "d": "eletrólito, substância capaz de conduzir corrente elétrica quando dissolvida ou fundida",
     "e": "polímero, macromolécula formada pela repetição de unidades estruturais menores ligadas entre si"
    },
@@ -31732,7 +31956,7 @@ window.QUESTION_BANKS = {
    "texto_apoio": "O naftaleno, usado antigamente em repelentes de traça, é formado por dois anéis benzênicos fundidos, cada um mantendo o padrão de ligações deslocalizadas do benzeno.",
    "enunciado": "A presença de anéis com esse padrão de ligação classifica o naftaleno como um hidrocarboneto:",
    "alternativas": {
-    "a": "alifático saturado, formado apenas por ligações simples entre os átomos de carbono da cadeia principal",
+    "a": "alifático saturado, formado exclusivamente por ligações simples entre os átomos de carbono da cadeia",
     "b": "alicíclico, formado por um anel fechado sem as ligações deslocalizadas típicas do benzeno",
     "c": "alifático insaturado, formado por uma cadeia aberta com duplas ligações isoladas entre carbonos",
     "d": "heterocíclico, por apresentar em seu anel um átomo diferente de carbono na composição da cadeia",
@@ -32000,6 +32224,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A regra da oxidação de álcoois separa três casos: primário oxida a aldeído e depois a ácido carboxílico; secundário oxida a cetona; terciário não oxida nessas condições. Cetona, portanto, só vem de álcool secundário — e o carbono da carbonila tem de ser o mesmo do produto. Como o alvo é a hexan-3-ona, o material de partida precisa ter a hidroxila no carbono 3 de uma cadeia de seis carbonos: o hexan-3-ol. O hexan-1-ol tem a hidroxila na ponta, é primário, e daria hexanal e depois ácido hexanoico. Hexanal e ácido hexanoico já são produtos dessa outra via, e oxidar mais não os converte em cetona. E o hex-1-en-1-ol é um enol, forma instável que tautomeriza para aldeído, não para cetona nesta posição."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "enem-quimica-06",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis. Composto I: n-decano. Composto II: n-heptano. Composto III: 2,2,4-trimetilpentano. Composto IV: 3-etil-4-metilex-1-eno. Composto V: 3-etil-2-metilpentan-1-ol.",
+   "enunciado": "Entre esses compostos, aquele que conferirá maior desempenho como combustível é o",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "c",
+   "explicacao": "O texto dá três exigências e é preciso atender às três ao mesmo tempo: ser hidrocarboneto, ter cadeia saturada e ter cadeia ramificada. O n-decano e o n-heptano são hidrocarbonetos saturados, mas o prefixo n- diz que a cadeia é normal, sem ramificação. O 3-etil-4-metilex-1-eno é ramificado, só que o sufixo -eno denuncia uma dupla ligação: a cadeia é insaturada. O 3-etil-2-metilpentan-1-ol é ramificado e saturado, mas o -ol o torna um álcool, e não um hidrocarboneto. Sobra o 2,2,4-trimetilpentano, saturado e com três ramificações — é o isoctano, justamente a substância que define o valor 100 da escala de octanagem."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "enem-quimica-09",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Para que uma molécula dê origem a um medicamento de administração oral, além de apresentar atividade farmacológica, deve ser capaz de atingir o local de ação. Para tanto, essa molécula não deve se degradar no estômago (onde o meio é fortemente ácido e há várias enzimas que reagem mediante catálise ácida), deve ser capaz de atravessar as membranas celulares e ser solúvel no plasma sanguíneo (sistema aquoso). Para os fármacos cujas estruturas são formadas por cadeias carbônicas longas contendo pelo menos um grupamento amino, um recurso tecnológico empregado é sua conversão no cloridrato correspondente. Essa conversão é representada, de forma genérica, pela equação química: R₃N + HCl → (R₃NH)⁺Cl⁻.",
+   "enunciado": "O aumento da eficiência de circulação do fármaco no sangue, promovido por essa conversão, deve-se ao incremento de seu(sua)",
+   "alternativas": {
+    "a": "basicidade.",
+    "b": "lipofilicidade.",
+    "c": "caráter iônico.",
+    "d": "cadeia carbônica.",
+    "e": "estado de oxidação."
+   },
+   "resposta": "c",
+   "explicacao": "O plasma sanguíneo é um sistema aquoso, e a pergunta é sobre circular melhor nele — ou seja, sobre solubilidade em água. A equação mostra a amina neutra R₃N virando o sal (R₃NH)⁺Cl⁻: aparecem cargas onde não havia. Espécies iônicas interagem fortemente com a água, que é polar, e é esse ganho de caráter iônico que melhora a circulação. A lipofilicidade é o oposto do que se quer aqui (ela ajudaria a atravessar a membrana, não a dissolver no plasma), e de todo modo diminui com a formação do sal. A basicidade também cai, porque o par de elétrons do nitrogênio foi consumido na protonação. A cadeia carbônica não muda, e o número de oxidação dos átomos permanece o mesmo — não houve oxirredução, só uma reação ácido-base."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "enem-quimica-12",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. O detergente não biodegradável em questão tem como tensoativo um alquilbenzenossulfonato de sódio cuja cadeia carbônica é ramificada.",
+   "enunciado": "Qual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?",
+   "alternativas": {
+    "a": "Retirar a parte polar da molécula.",
+    "b": "Eliminar as insaturações do anel aromático.",
+    "c": "Trocar o grupo aniônico por um grupo neutro.",
+    "d": "Alterar o grupo aniônico por um grupo catiônico.",
+    "e": "Modificar a cadeia carbônica para cadeia normal."
+   },
+   "resposta": "e",
+   "explicacao": "O texto diz exatamente onde está o problema: os microrganismos não conseguem quebrar moléculas ramificadas. A correção, portanto, é trocar a cadeia ramificada por uma cadeia normal, isto é, linear — foi o que a indústria de fato fez ao substituir os antigos alquilbenzenossulfonatos ramificados pelos lineares. Mexer no grupo iônico (opções a, c e d) destrói a função do tensoativo, que só age porque tem uma ponta polar e outra apolar, e nada disso responde à objeção dos microrganismos. Eliminar as insaturações do anel aromático muda a molécula, mas a dificuldade de degradação apontada não é do anel: é da ramificação."
   }
  ],
  "quimica-solucoes": [
@@ -33346,6 +33630,48 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Dureza da água é, por definição, a concentração de cátions de cálcio e magnésio. São eles que, com os ânions citados no texto, formam CaCO3 e CaSO4 — sais pouco solúveis que se depositam na parede quente da tubulação e produzem a incrustação. Medir cálcio é medir diretamente a causa. O cloreto forma sais de cálcio SOLÚVEIS, que não precipitam, e por isso não incrusta. Turbidez e sólidos sedimentáveis medem material em suspensão, que é outro tipo de sujeira: a incrustação em causa se forma dissolvida e precipita no lugar. E coliformes são indicador microbiológico, ligado à potabilidade e não à química da caldeira."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "enem-quimica-10",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica tem fórmula C₁₂H₈Cl₆. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde. Um pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância.",
+   "fonte_texto": "VIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. Química Nova, v. 26, n. 3, 2003 (adaptado).",
+   "enunciado": "Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?",
+   "alternativas": {
+    "a": "Saliva, por consequência da atividade de enzimas.",
+    "b": "Sangue, em função das hemácias e leucócitos.",
+    "c": "Lágrima, em razão da concentração de sais.",
+    "d": "Urina, pela presença de moléculas de ureia.",
+    "e": "Leite, por causa do alto teor de gorduras."
+   },
+   "resposta": "e",
+   "explicacao": "A informação decisiva está logo na primeira linha: o Aldrin é de baixa polaridade. Semelhante dissolve semelhante, então ele se concentra onde houver material apolar. Saliva, sangue, lágrima e urina são fluidos majoritariamente aquosos, e as justificativas oferecidas por essas opções (enzimas, células sanguíneas, sais, ureia) apontam justamente para componentes polares ou hidrossolúveis, que não dissolvem um organoclorado. O leite é o único da lista com alto teor de lipídios, e gordura é apolar — daí a acumulação. É também o mecanismo pelo qual esses inseticidas atravessam a cadeia alimentar e chegam ao lactente."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "enem-quimica-11",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas.",
+   "fonte_texto": "CAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor de sacarose e CO₂ em refrigerantes. Química Nova na Escola, n. 3, ago. 2014 (adaptado).",
+   "enunciado": "Entre as duas versões apresentadas, o refrigerante comum possui",
+   "alternativas": {
+    "a": "maior densidade.",
+    "b": "menor viscosidade.",
+    "c": "maior volume de gás dissolvido.",
+    "d": "menor massa de solutos dissolvidos.",
+    "e": "maior temperatura de congelamento."
+   },
+   "resposta": "a",
+   "explicacao": "As duas latas têm o mesmo volume, e a comum leva grande quantidade de açúcar dissolvido enquanto a diet leva adoçantes de massa muito pequena. Mais massa no mesmo volume é, por definição, maior densidade — é exatamente por isso que a lata de refrigerante comum afunda num balde de água e a diet flutua, uma demonstração clássica. Pelo mesmo motivo a massa de solutos é maior, e não menor, o que derruba d. A viscosidade também aumenta com o açúcar, derrubando b. O volume de gás dissolvido é tratado como igual pelo enunciado (ambos são água carbonatada com os mesmos aditivos). E a temperatura de congelamento é mais baixa na comum, não mais alta: mais soluto significa maior abaixamento crioscópico."
   }
  ],
  "quimica-estequiometria": [
@@ -34524,6 +34850,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Cada mol de CaCl2 incorpora 2 mols de água, ou seja, 2 × 18 = 36 g de água para 111 g de sal. O ganho percentual é a massa incorporada dividida pela massa INICIAL: 36 / 111 ≈ 0,324, isto é, cerca de 32%. A armadilha está em escolher o denominador errado. Dividir 36 pela massa FINAL do hidrato (111 + 36 = 147 g) dá 24,5%, que é a fração de água no produto, e não o ganho — daí a opção de 24%. E 75% é a razão entre 36 e 48, número que aparece se alguém trocar a massa molar do sal pela do cálcio mais dois oxigênios. O enunciado pede quanto a massa aumentou em relação ao que havia antes."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "enem-quimica-07",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "De acordo com a Constituição Federal, é competência dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem. Suponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão. Considere R = 0,082 L·atm·mol⁻¹·K⁻¹.",
+   "fonte_texto": "ZVEIBIL, V. Z. et al. Cartilha de limpeza urbana. Disponível em: www.ibam.org.br. Acesso em: 6 jul. 2015 (adaptado).",
+   "enunciado": "A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de",
+   "alternativas": {
+    "a": "756.",
+    "b": "533.",
+    "c": "76.",
+    "d": "53.",
+    "e": "13."
+   },
+   "resposta": "c",
+   "explicacao": "É a equação dos gases ideais, PV = nRT, com duas conversões de unidade que decidem a questão. O volume vai de 100 mL para 0,1 L, e a temperatura de 650 °C para 650 + 273 = 923 K. Então P = nRT/V = (0,1 × 0,082 × 923) / 0,1 = 0,082 × 923 ≈ 75,7 atm, isto é, cerca de 76. Quem esquece de converter a temperatura para kelvin e usa 650 direto chega a 53, a opção d; quem também deixa o volume em mililitros infla o resultado por mil e cai nos valores de centenas. Vale reter a ordem de grandeza: 76 atm dentro de uma latinha de desodorante explica por que a explosão é violenta."
   }
  ],
  "quimica-termoquimica-cinetica": [
@@ -34677,7 +35024,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A principal dificuldade técnica para viabilizar a fusão controlada na Terra é:",
    "alternativas": {
     "a": "impedir a reação em cadeia descontrolada, que se propaga espontaneamente uma vez iniciada e libera energia de forma explosiva no reator",
-    "b": "obter os isótopos de hidrogênio necessários, elementos extremamente raros na crosta terrestre e nos oceanos do planeta em proporção aproveitável",
+    "b": "obter os isótopos de hidrogênio necessários, elementos extremamente raros na crosta terrestre e nos oceanos do planeta em qualquer proporção",
     "c": "conter os resíduos radioativos de meia-vida muito longa gerados pelo processo, cujo armazenamento exige instalações geológicas profundas",
     "d": "atingir e manter temperaturas altíssimas, necessárias para vencer a repulsão elétrica entre núcleos de carga positiva, e confinar o plasma",
     "e": "resfriar o combustível até temperaturas próximas do zero absoluto, condição em que os núcleos se aproximam o suficiente para se fundirem"
@@ -52646,7 +52993,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A doutrina funciona na obra como:",
    "alternativas": {
     "a": "resumo das teorias científicas em circulação, apresentadas sem qualquer julgamento ao leitor",
-    "b": "exposição séria do pensamento do autor, que teria adotado essa doutrina como fundamento da sua produção literária inteira a partir daquele momento",
+    "b": "exposição séria do pensamento do autor, que teria adotado essa doutrina como fundamento de toda a sua produção literária a partir daquele momento",
     "c": "paródia das filosofias que transformam a força em direito, levando ao ridículo o darwinismo social do período",
     "d": "recurso de caracterização psicológica da personagem principal, sem qualquer relação com os debates intelectuais em curso naquele período",
     "e": "homenagem às correntes positivistas então dominantes no país, cujas ideias o autor divulgaria"
@@ -53195,7 +53542,7 @@ window.QUESTION_BANKS = {
     "a": "aparece sempre idealizada como espaço de progresso e de oportunidade, leitura que atravessa sem alteração os cinco momentos apresentados",
     "b": "mantém ao longo de todo o período a mesma função de pano de fundo neutro, sem qualquer influência sobre as personagens que nela circulam",
     "c": "deixa de ser cenário e passa a ser assunto e problema, aquilo de que a história trata e não apenas onde ela se passa",
-    "d": "é progressivamente abandonada em favor do espaço rural e essa mudança se completaria com a produção do romance regionalista dos anos trinta",
+    "d": "é progressivamente abandonada em favor do espaço rural, deslocamento que se completa com a produção do romance regionalista dos anos trinta",
     "e": "recebe tratamento exclusivamente documental, com registro estatístico das mudanças"
    },
    "resposta": "c",
@@ -54719,7 +55066,7 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "enunciado": "A metáfora da devoração, no Manifesto Antropófago, serve para defender",
    "alternativas": {
-    "a": "o isolamento cultural do país em relação às influências estrangeiras europeias.",
+    "a": "o isolamento cultural do país em relação a toda influência estrangeira.",
     "b": "a imitação fiel dos modelos europeus como caminho de modernização.",
     "c": "a apropriação transformadora do que vem de fora, sem recusa nem cópia.",
     "d": "o retorno a uma origem indígena tida como pura e anterior ao contato.",
@@ -56777,7 +57124,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "recusar o tema nacional em favor de assuntos universais, próximos das correntes europeias",
     "b": "abandonar por completo os recursos da retórica romântica, adotando linguagem contida",
-    "c": "restringir-se ao registro documental dos fatos observados, sem que o poeta manifeste posição alguma sobre a situação que descreve nos versos",
+    "c": "restringir-se ao registro documental dos fatos observados, sem que o poeta manifeste qualquer posição sobre a situação que descreve nos versos",
     "d": "deslocar o sofrimento do eu lírico para um sujeito coletivo e concreto, mantendo intacta a retórica romântica",
     "e": "adotar formas fixas rigorosas herdadas da tradição clássica, em contraste com os antecessores"
    },
@@ -57786,7 +58133,7 @@ window.QUESTION_BANKS = {
    "alternativas": {
     "a": "abandonar o português como língua literária e substituí-lo por uma língua formada a partir dos idiomas indígenas",
     "b": "reconhecer autonomia à variedade brasileira diante da norma lisboeta, recusando Lisboa como única medida de correção",
-    "c": "aceitar sem restrições os estrangeirismos em circulação no país, medida que os críticos portugueses consideravam empobrecedora do idioma nacional",
+    "c": "aceitar sem restrições todos os estrangeirismos em circulação no país, medida que os críticos portugueses consideravam empobrecedora do idioma",
     "d": "restringir a literatura brasileira a temas locais, deixando de lado o que interessasse a outros países",
     "e": "eliminar da escrita literária as marcas da oralidade, aproximando o texto de um padrão único"
    },
@@ -66445,7 +66792,7 @@ window.QUESTION_BANKS = {
    "enunciado": "A leitura dessa data:",
    "alternativas": {
     "a": "difere entre o padrão britânico e o americano: três de abril no Reino Unido e quatro de março nos Estados Unidos",
-    "b": "é idêntica nos dois padrões, uma vez que a ordem dos elementos foi uniformizada por convenção internacional adotada pelos países signatários",
+    "b": "é idêntica nos dois padrões, uma vez que a ordem dos elementos foi uniformizada por convenção internacional adotada por todos os países",
     "c": "segue sempre a ordem ano, mês e dia nos textos escritos em língua inglesa, independentemente da variedade adotada por quem escreve",
     "d": "depende exclusivamente do contexto em que a data aparece, sem que exista qualquer convenção estabelecida para a escrita em cada país",
     "e": "é impossível de determinar sem a indicação expressa do dia da semana correspondente"

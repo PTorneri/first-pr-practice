@@ -7429,6 +7429,199 @@
       },
       "resposta": "a",
       "explicacao": "A intensidade mínima é a que sobra na distância máxima, porque a onda esférica espalha a mesma potência por uma superfície que cresce com o quadrado do raio. A área da esfera de 10 m de raio é 4πr² = 4 × 3 × 100 = 1 200 m². Dividindo a potência pela área: 2,4 × 10⁻³ W ÷ 1,2 × 10³ m² = 2,0 × 10⁻⁶ W/m². Os distratores são as paradas do caminho: 2,4 × 10⁻³ é a potência em watts, sem dividir por área nenhuma; 2,4 × 10⁻⁵ sai de dividir só por 100, esquecendo o 4π; e 2,0 × 10⁻⁵ erra a potência de dez na mesma conta. Note que o enunciado pede o valor MÍNIMO, e é por isso que se usa o raio de 10 m — perto da antena a intensidade é maior."
+    },
+    {
+      "id": "enem-fisica-05",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.",
+      "fonte_texto": "SOUSA, M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado).",
+      "enunciado": "Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?",
+      "alternativas": {
+        "a": "Altura.",
+        "b": "Período.",
+        "c": "Amplitude.",
+        "d": "Velocidade.",
+        "e": "Comprimento de onda."
+      },
+      "resposta": "c",
+      "explicacao": "Quem fala continua falando do mesmo jeito: a fonte não muda, e por isso a frequência não muda — logo altura e período ficam iguais. O meio também não muda, é o mesmo barbante, então a velocidade de propagação e o comprimento de onda se mantêm. O que o barbante mais longo faz é dissipar mais energia ao longo do percurso, e energia menor chegando na outra lata significa oscilação de menor amplitude — o som chega mais fraco, não mais grave nem mais lento."
+    },
+    {
+      "id": "enem-fisica-06",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Informações digitais — dados — são gravadas em discos ópticos, como CD e DVD, na forma de cavidades microscópicas. A gravação e a leitura óptica dessas informações são realizadas por um laser (fonte de luz monocromática). Quanto menores as dimensões dessas cavidades, mais dados são armazenados na mesma área do disco. O fator limitante para a leitura de dados é o espalhamento da luz pelo efeito de difração, fenômeno que ocorre quando a luz atravessa um obstáculo com dimensões da ordem de seu comprimento de onda. Essa limitação motivou o desenvolvimento de lasers com emissão em menores comprimentos de onda, possibilitando armazenar e ler dados em cavidades cada vez menores.",
+      "enunciado": "Em qual região espectral se situa o comprimento de onda do laser que otimiza o armazenamento e a leitura de dados em discos de uma mesma área?",
+      "alternativas": {
+        "a": "Violeta.",
+        "b": "Azul.",
+        "c": "Verde.",
+        "d": "Vermelho.",
+        "e": "Infravermelho."
+      },
+      "resposta": "a",
+      "explicacao": "O próprio texto entrega o critério: cavidade menor guarda mais dado, e o que limita o tamanho da cavidade é a difração, que aparece quando o obstáculo tem dimensão da ordem do comprimento de onda. Então interessa o menor comprimento de onda disponível na lista. No espectro visível, o comprimento de onda cresce do violeta para o vermelho, e o infravermelho é maior ainda — o violeta é a ponta curta. É a história real do Blu-ray, que trocou o laser vermelho do DVD por um violeta e multiplicou a capacidade do disco sem mudar o tamanho dele."
+    },
+    {
+      "id": "enem-fisica-07",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos eletrônicos de consumo. Ela permite que aparelhos eletrônicos diferentes se conectem e troquem dados entre si. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possibilitam conectar dois dispositivos distanciados até 10 m. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π.",
+      "enunciado": "Para que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em W/m², é mais próximo de",
+      "alternativas": {
+        "a": "2,0 × 10⁻⁶.",
+        "b": "2,0 × 10⁻⁵.",
+        "c": "2,4 × 10⁻⁵.",
+        "d": "2,4 × 10⁻³.",
+        "e": "2,4 × 10⁻¹."
+      },
+      "resposta": "a",
+      "explicacao": "A intensidade mínima detectável é a que sobra na distância máxima de alcance, 10 m. A onda é esférica, então a potência se espalha pela superfície de uma esfera de raio 10 m: A = 4πr² = 4 × 3 × 10² = 1 200 m². Com P = 2,4 mW = 2,4 × 10⁻³ W, vem I = P/A = 2,4 × 10⁻³ / 1,2 × 10³ = 2,0 × 10⁻⁶ W/m². Repare que as opções que repetem o algarismo 2,4 são as de quem esqueceu de dividir pela área ou dividiu só por r²: a divisão por 4π é justamente o que troca o 2,4 por 2,0."
+    },
+    {
+      "id": "enem-fisica-08",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Os raios cósmicos são fontes de radiação ionizante potencialmente perigosas para o organismo humano. Para quantificar a dose de radiação recebida, utiliza-se o sievert (Sv), definido como a unidade de energia recebida por unidade de massa. A exposição à radiação proveniente de raios cósmicos aumenta com a altitude, o que pode representar um problema para as tripulações de aeronaves. Recentemente, foram realizadas medições acuradas das doses de radiação ionizante para voos entre Rio de Janeiro e Roma. Os resultados têm indicado que a dose média de radiação recebida na fase de cruzeiro (que geralmente representa 80% do tempo total de voo) desse trecho intercontinental é 2 μSv/h. As normas internacionais da aviação civil limitam em 1 000 horas por ano o tempo de trabalho para as tripulações que atuem em voos intercontinentais. Considere que a dose de radiação ionizante para uma radiografia torácica é estimada em 0,2 mSv.",
+      "fonte_texto": "RUAS, A. C. O tripulante de aeronaves e a radiação ionizante. São Paulo: Edição do Autor, 2019 (adaptado).",
+      "enunciado": "A quantas radiografias torácicas corresponde a dose de radiação ionizante à qual um tripulante que atue no trecho Rio de Janeiro−Roma é exposto ao longo de um ano?",
+      "alternativas": {
+        "a": "8",
+        "b": "10",
+        "c": "80",
+        "d": "100",
+        "e": "1 000"
+      },
+      "resposta": "a",
+      "explicacao": "A taxa de 2 μSv/h vale só para a fase de cruzeiro, que é 80% do tempo de voo. Do teto de 1 000 h por ano, portanto, 800 h são de cruzeiro: dose = 2 μSv/h × 800 h = 1 600 μSv = 1,6 mSv. Cada radiografia torácica equivale a 0,2 mSv, e 1,6 ÷ 0,2 = 8. A armadilha é ignorar os 80% e usar as 1 000 h cheias, o que daria 2 000 μSv = 2 mSv e levaria a 10 — a opção b existe exatamente para colher quem passou por cima dessa linha do texto. Também é preciso cuidar da troca de prefixo: μSv e mSv diferem por mil."
+    },
+    {
+      "id": "enem-fisica-09",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-2",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "enem",
+      "texto_apoio": "Um circuito com três lâmpadas incandescentes idênticas consiste em uma associação mista de resistores. Cada lâmpada (L1, L2 e L3) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada L2 queima, enquanto as demais permanecem acesas.",
+      "enunciado": "Em relação à situação em que todas as lâmpadas funcionam, após a queima de L2, os brilhos das lâmpadas serão",
+      "alternativas": {
+        "a": "os mesmos.",
+        "b": "mais intensos.",
+        "c": "menos intensos.",
+        "d": "menos intenso para L1 e o mesmo para L3.",
+        "e": "mais intenso para L1 e menos intenso para L3."
+      },
+      "resposta": "c",
+      "explicacao": "Cada conjunto é uma lâmpada em paralelo com um resistor R, e associação em paralelo tem resistência menor que a de qualquer um dos ramos. Quando L2 queima, aquele ramo abre e o conjunto 2 passa a ser só o resistor R — resistência maior do que a do paralelo que existia ali. Como os três conjuntos estão em série, a resistência total do circuito aumenta, e com a mesma fonte a corrente cai. As lâmpadas L1 e L3 continuam sendo percorridas por essa corrente menor, e a potência dissipada em cada uma cai junto: as duas brilham menos. As alternativas d e e supõem que L1 e L3 sejam afetadas de modos diferentes, mas em série a corrente é a mesma nos dois — a posição no circuito não distingue uma da outra."
+    },
+    {
+      "id": "enem-fisica-10",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Em uma indústria alimentícia, para produção de doce de leite, utiliza-se um tacho de parede oca com uma entrada para vapor de água a 120 °C e uma saída para água líquida em equilíbrio com o vapor a 100 °C. Ao passar pela parte oca do tacho, o vapor de água transforma-se em líquido, liberando energia. A parede transfere essa energia para o interior do tacho, resultando na evaporação de água e consequente concentração do produto.",
+      "enunciado": "No processo de concentração do produto, é utilizada energia proveniente",
+      "alternativas": {
+        "a": "somente do calor latente de vaporização.",
+        "b": "somente do calor latente de condensação.",
+        "c": "do calor sensível e do calor latente de vaporização.",
+        "d": "do calor sensível e do calor latente de condensação.",
+        "e": "do calor latente de condensação e do calor latente de vaporização."
+      },
+      "resposta": "d",
+      "explicacao": "A pergunta é sobre a energia que SAI do vapor na parede oca, não sobre o que acontece dentro do tacho. O vapor entra a 120 °C e sai como líquido a 100 °C, então ele passa por duas etapas: primeiro esfria de 120 °C para 100 °C ainda como vapor, cedendo calor sensível (há variação de temperatura), e depois condensa a 100 °C, cedendo calor latente de condensação (há mudança de estado sem variação de temperatura). A vaporização citada nas outras opções é o que ocorre do lado de dentro, no produto — é o destino da energia, não a fonte dela."
+    },
+    {
+      "id": "enem-fisica-11",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Uma concessionária é responsável por um trecho de 480 quilômetros de uma rodovia. Nesse trecho, foram construídas 10 praças de pedágio, onde funcionários recebem os pagamentos nas cabines de cobrança. Também existe o serviço automático, em que os veículos providos de um dispositivo passam por uma cancela, que se abre automaticamente, evitando filas e diminuindo o tempo de viagem. Segundo a concessionária, o tempo médio para efetuar a passagem em uma cabine é de 3 minutos, e as velocidades máximas permitidas na rodovia são 100 km/h, para veículos leves, e 80 km/h, para veículos de grande porte. Considere um carro e um caminhão viajando, ambos com velocidades constantes e iguais às máximas permitidas, e que somente o caminhão tenha o serviço automático de cobrança.",
+      "enunciado": "Comparado ao caminhão, quantos minutos a menos o carro leva para percorrer toda a rodovia?",
+      "alternativas": {
+        "a": "30",
+        "b": "42",
+        "c": "72",
+        "d": "288",
+        "e": "360"
+      },
+      "resposta": "b",
+      "explicacao": "O carro roda 480 km a 100 km/h, o que dá 4,8 h = 288 min, mas é ele quem não tem o serviço automático: para nas 10 praças, 3 min em cada, somando 30 min. Total do carro: 318 min. O caminhão roda 480 km a 80 km/h, o que dá 6 h = 360 min, e não perde tempo nenhum nas cancelas. A diferença é 360 − 318 = 42 min. A leitura invertida — supor que o caminhão é que para — daria 288 contra 390 e nenhuma opção; e quem esquece as paradas de vez chega a 72, que é a diferença só das velocidades e está ali como distrator."
+    },
+    {
+      "id": "enem-fisica-12",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "É comum em viagens de avião sermos solicitados a desligar aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas, como celulares. A justificativa dada para esse procedimento é, entre outras coisas, a necessidade de eliminar fontes de sinais eletromagnéticos que possam interferir nas comunicações, via rádio, dos pilotos com a torre de controle.",
+      "enunciado": "Essa interferência poderá ocorrer somente se as ondas emitidas pelo celular e as recebidas pelo rádio do avião",
+      "alternativas": {
+        "a": "forem ambas audíveis.",
+        "b": "tiverem a mesma potência.",
+        "c": "tiverem a mesma frequência.",
+        "d": "tiverem a mesma intensidade.",
+        "e": "propagarem-se com velocidades diferentes."
+      },
+      "resposta": "c",
+      "explicacao": "Um receptor de rádio é sintonizado: ele responde à faixa de frequência para a qual foi ajustado e ignora o resto do espectro. Para que o sinal do celular se misture com o da torre, ele precisa cair dentro dessa faixa — ou seja, ter a mesma frequência. Potência e intensidade mudam o quanto o ruído incomoda, mas não fazem um sinal fora de sintonia ser captado. As ondas também não são audíveis: são eletromagnéticas, não sonoras, e o som só aparece depois que o alto-falante as converte. E todas as ondas eletromagnéticas viajam com a mesma velocidade no ar, o que descarta a última opção de saída."
+    },
+    {
+      "id": "enem-fisica-13",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-2",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "enem",
+      "texto_apoio": "Uma cafeteria adotou copos fabricados a partir de uma composição de 50% de plástico reciclado não biodegradável e 50% de casca de café. O copo é reutilizável e retornável, pois o material, semelhante a uma cerâmica, suporta a lavagem. Embora ele seja comercializado por um preço considerado alto quando comparado ao de um copo de plástico descartável, essa cafeteria possibilita aos clientes retornarem o copo sujo e levarem o café quente servido em outro copo já limpo e higienizado. O material desse copo oferece também o conforto de não esquentar na parte externa.",
+      "fonte_texto": "Cafeteria adota copo reutilizável feito com casca de café. Disponível em: www.gazetadopovo.com.br. Acesso em: 5 dez. 2019 (adaptado).",
+      "enunciado": "Quais duas vantagens esse copo apresenta em comparação ao copo descartável?",
+      "alternativas": {
+        "a": "Ter a durabilidade de uma cerâmica e ser totalmente biodegradável.",
+        "b": "Ser tão durável quanto uma cerâmica e ter alta condutividade térmica.",
+        "c": "Ser um mau condutor térmico e aumentar o resíduo biodegradável na natureza.",
+        "d": "Ter baixa condutividade térmica e reduzir o resíduo não biodegradável na natureza.",
+        "e": "Ter alta condutividade térmica e possibilitar a degradação do material no meio ambiente."
+      },
+      "resposta": "d",
+      "explicacao": "As duas vantagens estão ditas no texto, uma em cada ponta. A frase \"não esquentar na parte externa\" com café quente dentro descreve um material que conduz mal o calor: baixa condutividade térmica. E o copo é reutilizável, então cada um deles substitui muitos descartáveis — o que reduz a quantidade de resíduo não biodegradável despejada na natureza. Cuidado com a segunda metade: metade do material é plástico reciclado NÃO biodegradável, então o copo não é biodegradável nem aumenta resíduo biodegradável, o que elimina a, c e e. E alta condutividade térmica contraria justamente o conforto descrito, derrubando b."
+    },
+    {
+      "id": "enem-fisica-14",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-2",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "enem",
+      "texto_apoio": "O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de 450 m de um líquido se encontra presa no subsolo entre duas camadas rochosas. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de 0,5 s. O segundo eco chega 1,1 s após a emissão do pulso.",
+      "enunciado": "A velocidade do som na camada líquida, em metro por segundo, é",
+      "alternativas": {
+        "a": "270.",
+        "b": "540.",
+        "c": "818.",
+        "d": "1 500.",
+        "e": "1 800."
+      },
+      "resposta": "d",
+      "explicacao": "Os dois ecos percorrem exatamente o mesmo caminho na rocha de cima; o que os separa é só a travessia do líquido, ida e volta. A diferença de tempo é 1,1 − 0,5 = 0,6 s, e nesse tempo o som atravessou 450 m para baixo e 450 m para cima, ou seja, 900 m. Logo v = 900/0,6 = 1 500 m/s — que é, de fato, a ordem de grandeza da velocidade do som na água. Quem usa só 450 m em vez do percurso de ida e volta chega a 750; quem usa o tempo total de 1,1 s em vez da diferença chega perto de 818, a opção c."
     }
   ]
 }

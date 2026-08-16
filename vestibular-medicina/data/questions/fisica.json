@@ -7869,6 +7869,158 @@
       },
       "resposta": "b",
       "explicacao": "Como os dois lados são água, o calor específico se cancela e a temperatura de equilíbrio é a média ponderada pelas massas. No primeiro contato: (250 × 100 + 1000 × 25) ÷ 1250 = 50 000 ÷ 1250 = 40 °C. Trocada a água da vasilha, o copo entra a 40 °C no segundo contato: (250 × 40 + 1000 × 25) ÷ 1250 = 35 000 ÷ 1250 = 28 °C. O valor 40 °C (C) é o resultado de parar no primeiro passo; 14 °C ficaria abaixo da temperatura ambiente, o que nenhuma troca de calor entre esses dois corpos produz; e 60 e 84 °C sobrestimam a inércia térmica do copo, que tem um quarto da massa da vasilha."
+    },
+    {
+      "id": "fuvest-fisica-5",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "O efeito Compton, descoberto na década de 1920, é hoje amplamente utilizado durante tratamentos radioterápicos. O efeito relaciona-se à mudança no comprimento de onda de fótons de raios X quando interagem com partículas como elétrons ou prótons. Quando um fóton com comprimento de onda λ₀ incide sobre uma partícula, ele emerge dessa interação formando um ângulo θ com sua direção inicial de movimento, e seu novo comprimento de onda λ′ é dado pela relação λ′ = λ₀ + (α/m)·(1 − cos θ), em que α é uma constante positiva e m é a massa da partícula.",
+      "enunciado": "Com base nessas informações e em seus conhecimentos sobre a propagação das ondas eletromagnéticas, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "A maior variação no comprimento de onda do fóton ocorre quando o ângulo 𝜃 é igual a 90°.",
+        "b": "Se o ângulo 𝜃 é igual a 30°, o fóton emergente tem frequência menor do que a frequência inicial.",
+        "c": "Quando 𝜃 = 0, a velocidade do fóton emergente é menor do que a do fóton incidente, devido à conservação da quantidade de movimento.",
+        "d": "Se o ângulo 𝜃 é igual a 60°, a variação no comprimento de onda do fóton é menor se a partícula for um elétron do que se a partícula for um próton.",
+        "e": "Um fóton que emergiu perpendicularmente à sua direção inicial não sofreu mudança em sua frequência."
+      },
+      "resposta": "b",
+      "explicacao": "Para qualquer θ diferente de zero, (1 − cos θ) é positivo e λ′ > λ₀. Comprimento de onda maior significa frequência menor, já que c = λf e a velocidade da luz não muda — é o que ocorre em θ = 30°. A alternativa A põe o máximo em 90°, quando (1 − cos θ) cresce até 180°; C afirma que a velocidade do fóton diminui, e ela é sempre c; D compara elétron e próton esquecendo que a variação é inversamente proporcional a m, e o elétron, muito mais leve, produz variação maior; e E diz que a 90° não há mudança de frequência, quando (1 − cos 90°) = 1 e a variação é justamente α/m."
+    },
+    {
+      "id": "fuvest-fisica-6",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Uma das possíveis tecnologias para a produção de telas sensíveis ao toque aproveita a reflexão interna total da luz. Esse tipo de reflexão ocorre quando um raio luminoso viaja do interior de um meio 1, com índice de refração n₁, em direção a um meio 2, com índice de refração n₂, formando com a direção perpendicular à interface entre os meios um ângulo θ maior do que um certo valor limite θL, tal que sen θL = n₂/n₁. Quando um objeto (como um dedo) se aproxima da interface entre os meios, a reflexão total não ocorre, o que é captado por sensores, revelando a posição do objeto. A tabela indica os índices de refração de alguns materiais candidatos à utilização no meio 1.\n\nMaterial — índice de refração n₁\nA — 1,0002\nB — 1,0003\nC — 1,1503\nD — 1,3204\nE — 1,4889",
+      "enunciado": "Tratando o meio 2 sempre como tendo índice de refração n₂ = 1,0003, o material que permite o maior intervalo de ângulos de incidência que produzem reflexão total é:",
+      "alternativas": {
+        "a": "Material A.",
+        "b": "Material B.",
+        "c": "Material C.",
+        "d": "Material D.",
+        "e": "Material E."
+      },
+      "resposta": "e",
+      "explicacao": "A reflexão total acontece para todo θ acima de θL, logo o intervalo útil vai de θL a 90° e é tanto maior quanto menor for θL. Como sen θL = n₂/n₁, com n₂ fixo, θL diminui quando n₁ aumenta: o melhor material é o de maior índice, 1,4889. Nos extremos opostos a conta se desfaz — o material A tem n₁ menor que n₂ e não produz reflexão total alguma, e o B tem n₁ igual a n₂, o que dá sen θL = 1 e θL = 90°, um intervalo nulo. C e D funcionam, mas com ângulo limite maior que o de E."
+    },
+    {
+      "id": "fuvest-fisica-7",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Considere o texto a seguir. The Event Horizon Telescope Collaboration. “Com observações feitas pela primeira vez em luz polarizada, a nova imagem do buraco negro que se esconde no coração da Via Láctea revelou um campo magnético com uma estrutura muito semelhante à de outro buraco negro situado no centro da galáxia M87, sugerindo que campos magnéticos intensos podem ser comuns a todos os buracos negros. A luz é uma onda eletromagnética que nos permite ver objetos. Por vezes, os campos elétrico e magnético associados à onda oscilam em direções preferenciais, definindo o que chamamos de luz polarizada. Apesar de estarmos rodeados por luz polarizada, aos olhos humanos essa luz é indistinguível da luz dita ‘normal’. No plasma que rodeia estes buracos negros, as partículas que giram em torno das linhas de campo magnético conferem-lhe um padrão de polarização com orientação na direção perpendicular ao campo magnético do buraco negro, o que permite aos astrônomos ver com muitos detalhes o que se passa nas regiões dos buracos negros e mapear as suas linhas de campo magnético.” “Astrônomos descobrem campos magnéticos em espiral nas bordas de buraco negro da Via Láctea”, Jornal da USP 29/03/2024. Disponível em https://jornal.usp.br/ciencias/ (Adaptado).",
+      "enunciado": "Com base no texto e em seus conhecimentos, é correto afirmar:",
+      "alternativas": {
+        "a": "A medida do padrão de polarização da luz mencionada no texto permite somente o mapeamento das linhas de campos magnéticos na direção paralela à direção da polarização.",
+        "b": "O olho humano pode discriminar as diferentes direções da luz polarizada dos buracos negros, mapeando suas linhas de campo.",
+        "c": "Campos magnéticos como os mencionados no texto são criados apenas por cargas elétricas em repouso no plasma que rodeia os buracos negros.",
+        "d": "O plasma é formado por partículas eletricamente carregadas, dado que essas partículas exibem um movimento circular perpendicular à direção do campo magnético.",
+        "e": "O processo de mapeamento das linhas de campo magnético mencionado no texto pode ser realizado por meio da detecção de qualquer tipo de onda eletromagnética gerada em buracos negros."
+      },
+      "resposta": "d",
+      "explicacao": "O texto diz que no plasma as partículas giram em torno das linhas de campo magnético. Só carga elétrica em movimento sofre força magnética, e essa força, sempre perpendicular à velocidade, é o que curva a trajetória em círculo em torno da linha de campo — logo o plasma é feito de partículas carregadas. A alternativa A restringe o mapeamento à direção paralela à polarização, quando o texto diz que o padrão é perpendicular ao campo; B afirma que o olho humano distingue a luz polarizada, e o texto diz o contrário; C atribui o campo a cargas em repouso, que não geram campo magnético; e E estende o método a qualquer onda eletromagnética, quando o que se usa é luz polarizada."
+    },
+    {
+      "id": "fuvest-fisica-8",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "O fenômeno físico conhecido como iridescência ocorre nas asas de certas espécies de borboletas e caracteriza-se pela variação das cores de acordo com o ângulo de observação. A existência de faixas coloridas na superfície das asas das borboletas ocorre devido a diferentes formas de superposição entre raios luminosos refletidos por uma fina camada de substância transparente existente na superfície das asas. Disponível em https://www.pbs.org/wgbh/.",
+      "enunciado": "Os fenômenos físicos diretamente relacionados com a iridescência são",
+      "alternativas": {
+        "a": "dilatação e reflexão.",
+        "b": "interferência e dilatação.",
+        "c": "dissipação e difração.",
+        "d": "convecção e dispersão.",
+        "e": "reflexão e interferência."
+      },
+      "resposta": "e",
+      "explicacao": "A luz que chega à asa é refletida duas vezes — na face superior e na face inferior da película transparente — e os dois raios voltam com uma diferença de caminho que depende da espessura e do ângulo de observação. Ao se superporem, interferem: para cada ângulo, um comprimento de onda sofre interferência construtiva e é o que se vê. Reflexão e interferência, portanto. Dilatação (A e B) é efeito térmico sobre dimensões; dissipação (C) é perda de energia; e convecção (D) é transporte de calor em fluido — nenhuma dessas tem papel na cor estrutural."
+    },
+    {
+      "id": "fuvest-fisica-9",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "WASSENBERGH, Sam Van; MIELKE, Maia. Physics Today, vol. 77 (2024) (Adaptado). Em um estudo relatado no periódico Physics Today, cientistas belgas mostraram que os pica-paus não dispõem de mecanismos de absorção de choques em seus ossos do crânio, ao contrário do que se acreditava anteriormente. Nos experimentos realizados, verificou-se que o cérebro de um pica-pau pode experimentar desacelerações instantâneas de até 400 𝑔, sendo 𝑔 o módulo da aceleração da gravidade.\n\nNote e adote: Aceleração da gravidade: g = 10 m/s².",
+      "enunciado": "Suponha que, durante uma batida em um tronco de árvore, o crânio do pica-pau, suposto perfeitamente rígido, sofra uma desaceleração constante de 200 𝑔 ao longo de um tempo de 2,0 milissegundos. Qual é a distância percorrida pelo crânio do pica-pau durante esse tempo, até atingir momentaneamente o repouso?",
+      "alternativas": {
+        "a": "2,0 mm",
+        "b": "4,0 mm",
+        "c": "8,0 mm",
+        "d": "16 mm",
+        "e": "32 mm"
+      },
+      "resposta": "b",
+      "explicacao": "Com desaceleração constante a = 200g = 2000 m/s² durante t = 2,0 × 10⁻³ s até parar, a distância é d = a·t²/2 = 2000 × (2,0 × 10⁻³)² ÷ 2 = 2000 × 4,0 × 10⁻⁶ ÷ 2 = 4,0 × 10⁻³ m, ou 4,0 mm. Dá no mesmo pela velocidade inicial: v₀ = a·t = 4,0 m/s e d = v₀²/(2a) = 16 ÷ 4000 = 4,0 mm. O valor 8,0 mm sai de esquecer a divisão por dois, e 2,0 mm de usar a desaceleração de 400 g citada no texto como limite, que não é a do enunciado."
+    },
+    {
+      "id": "fuvest-fisica-10",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fuvest",
+      "texto_apoio": "Os versos a seguir pertencem à canção Fall on Me, da banda norte-americana R.E.M., lançada em 1986. “There's a problem, feathers, iron Bargain buildings, weights and pulleys Feathers hit the ground before the weight can leave the air” Bill Berry, Peter Buck, Mike Mills e Michael Stipe.",
+      "enunciado": "A qual episódio (real ou hipotético) da história da física o trecho da música faz alusão?",
+      "alternativas": {
+        "a": "À queda de uma maçã, que teria inspirado Newton à descoberta da gravitação universal.",
+        "b": "À observação de um pássaro em voo, que teria levado Einstein a formular a teoria da relatividade.",
+        "c": "Aos experimentos com objetos de massas diferentes, que teriam indicado a Galileu os princípios da queda livre.",
+        "d": "Ao transbordamento da água em uma banheira, que teria sugerido a Arquimedes o conceito de empuxo.",
+        "e": "À queda de um bloco de ferro ligado a uma hélice, que teria levado Joule à equivalência entre calor e energia."
+      },
+      "resposta": "c",
+      "explicacao": "\"Feathers, iron... feathers hit the ground before the weight can leave the air\" evoca o experimento atribuído a Galileu na torre de Pisa, em que corpos de massas diferentes soltos da mesma altura chegam juntos ao chão — no vácuo, penas e ferro caem com a mesma aceleração. A canção brinca com a versão em que a pena chega antes, invertendo a intuição aristotélica. A maçã (A) é de Newton e trata da gravitação universal, não da queda livre comparada; o pássaro (B) não pertence à lenda de Einstein; a banheira (D) é de Arquimedes e do empuxo; e o bloco ligado a uma hélice (E) é o experimento de Joule sobre o equivalente mecânico do calor."
+    },
+    {
+      "id": "fuvest-fisica-11",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Um brinquedo bastante comum em parques de diversões, a montanha-russa, utiliza-se da transformação parcial de energia potencial em energia cinética (e vice-versa) como princípio de funcionamento. Uma das montanhas-russas mais famosas do mundo, a Takabisha, cuja pista possui mais de 1 km de extensão, localiza-se no Japão e tem vista para o Monte Fuji. Nela, a subida inicial até o ponto mais alto, situado a uma altura aproximada de 50 m do solo, é feita sob ângulo de aproximadamente 90 graus, seguida de uma descida vertiginosa, cuja velocidade, no ponto mais baixo desse trecho, atinge cerca de 30 m/s em poucos segundos. Montanha-russa Takabisha.\n\nNote e adote: Aceleração da gravidade: g = 10 m/s².",
+      "enunciado": "Considerando um carrinho ocupado com massa total de 300 kg em repouso na posição de altura máxima, a energia mecânica perdida durante a descida inicial é, aproximadamente,",
+      "alternativas": {
+        "a": "1200 J.",
+        "b": "2500 J.",
+        "c": "5000 J.",
+        "d": "15000 J.",
+        "e": "20000 J."
+      },
+      "resposta": "d",
+      "explicacao": "No alto, a energia é toda potencial: Ep = mgh = 300 × 10 × 50 = 150 000 J. Embaixo, é toda cinética: Ec = m·v²/2 = 300 × 30² ÷ 2 = 135 000 J. A diferença, 15 000 J, foi dissipada por atrito e resistência do ar. Os valores menores das outras alternativas correspondem a frações que não saem dessa subtração, e 20 000 J suporia uma velocidade final abaixo dos 30 m/s dados."
+    },
+    {
+      "id": "fuvest-fisica-12",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Um artigo publicado em 2018, na Revista Brasileira de Ensino de Física, reporta um curioso estudo sobre a pressão interna de “foguetes de garrafa PET”, propulsionados a partir da reação química entre ácido acético e bicarbonato de sódio.[1] Uma mistura de vinagre (que contém ácido acético, CH3COOH) com bicarbonato de sódio (NaHCO3) produz gás carbônico (CO2) por meio da reação química representada pela seguinte equação: CH3COOH + NaHCO3 → CH3COONa + CO2 + H2O A reação ocorre no interior de uma garrafa PET de 2 L de volume útil total, da qual foi retirado todo o ar. Insere-se na garrafa um volume inicial Vvin de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manômetro. A reação produzirá gás carbônico que ocupará um volume VCO2 e exercerá uma pressão PCO2 sobre a tampa da garrafa, medida pelo manômetro, como mostra a figura. [1] FONSECA et al, RBEF, vol. 40, nº 3, e3504 (2018). Disponível em http://dx.doi.org/10.1590/1806-9126-RBEF- 2017-0340.\n\nNote e adote: Assuma que a pressão atmosférica seja de 1 atm = 10⁵ Pa. Utilize π = 3. Considere que as forças relevantes atuando sobre a rolha no momento em que é expelida são apenas aquelas relativas à diferença de pressão entre os seus lados interno e externo.",
+      "enunciado": "Considere agora um outro experimento feito em condições semelhantes, em que o manômetro indica uma pressão de 5 atm e, sem que a pressão no interior da garrafa se altere, ele é cuidadosamente substituído por uma rolha de 10 g de massa e 2 cm de diâmetro (igual ao diâmetro interno do bocal da garrafa). Logo após a rolha ser encaixada no local, ela é expelida devido à pressão interna da garrafa ser maior que a pressão atmosférica. A aceleração da rolha no momento em que ela é expelida é de, aproximadamente,",
+      "alternativas": {
+        "a": "12 m/s2.",
+        "b": "120 m/s2.",
+        "c": "1200 m/s2.",
+        "d": "12000 m/s2.",
+        "e": "120000 m/s2."
+      },
+      "resposta": "d",
+      "explicacao": "A rolha é empurrada pela diferença entre a pressão de dentro e a de fora: ΔP = 5 − 1 = 4 atm = 4 × 10⁵ Pa. A área do bocal, de 2 cm de diâmetro, é A = π·r² = 3 × (0,01)² = 3 × 10⁻⁴ m². A força vale F = ΔP·A = 4 × 10⁵ × 3 × 10⁻⁴ = 120 N, e a aceleração, a = F/m = 120 ÷ 0,010 = 12 000 m/s². Os demais valores diferem por potências de dez: 1200 sai de usar a massa em gramas como se fosse quilograma, e 120 de esquecer também a conversão do diâmetro."
     }
   ]
 }

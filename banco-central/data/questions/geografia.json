@@ -9419,6 +9419,158 @@
    },
    "resposta": "b",
    "explicacao": "A separação nasce da guerra civil chinesa: derrotados pelos comunistas em 1949, os nacionalistas de Chiang Kai-shek se refugiaram na ilha de Formosa e ali mantiveram a República da China. Desde então Pequim considera Taiwan província rebelde, e a garantia militar norte-americana à ilha — venda de armamento, patrulhas no estreito — é o que sustenta o impasse e o que a China denuncia. A alternativa A data as tensões dos anos 1970 e supõe uma declaração de independência que Taipé nunca fez; C troca a China pela Rússia; D inventa independência com apoio soviético nos anos 1960; e E afirma reconhecimento formal de Taiwan pelos Estados Unidos, que mantêm relações oficiais com Pequim desde 1979."
+  },
+  {
+   "id": "fuvest-geografia-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "“Historiadores encontraram um mapa antigo onde não era possível identificar a escala do mapa. Com algum esforço e apoio de Geógrafos, foi possível avaliar a distância no mapa entre duas localidades como sendo de 20 centímetros. Buscando elementos na paisagem, foi possível quantificar a distância entre elas como equivalente a 40 quilômetros.” FITZ, Paulo Roberto. Cartografia Básica. São Paulo: Oficina de Textos, 2008 (Adaptado).",
+   "enunciado": "Com base nessas medidas, a escala numérica do mapa corresponde a",
+   "alternativas": {
+    "a": "1:20.000.",
+    "b": "1:200.000.",
+    "c": "1:2.000.000.",
+    "d": "1:2.200.000.",
+    "e": "1:20.000.000."
+   },
+   "resposta": "b",
+   "explicacao": "Escala é a razão entre a distância no mapa e a distância real, nas mesmas unidades. Convertendo: 40 km são 4.000.000 cm. A razão 20 : 4.000.000 simplifica para 1 : 200.000, ou seja, cada centímetro do mapa vale 2 km no terreno. Os erros típicos aparecem nas outras alternativas: 1:20.000 esquece um zero na conversão de quilômetro para centímetro, 1:2.000.000 mantém um zero a mais, e 1:20.000.000 erra em duas casas."
+  },
+  {
+   "id": "fuvest-geografia-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Atualmente 80% do comércio mundial transita pelos mares, principalmente em rotas que passam pelos Canais do Panamá e de Suez. Com a redução das calotas polares, novas rotas estão surgindo no Ártico. Mesmo com sua fragilidade ambiental, a região passou a ser uma nova fronteira para o comércio mundial. Carto Le monde en cartes, n.59, maio-junho 2020 (Adaptado).",
+   "enunciado": "Com base no texto e em seus conhecimentos sobre as rotas marítimas, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "A rota que liga os portos de Murmansk a Churchill é vantajosa em razão da facilidade de acesso e de não interferir na Zona Econômica Exclusiva, evitando conflitos territoriais.",
+    "b": "Os percursos advindos das rotas Noroeste e Nordeste possibilitam maior estratégia geopolítica dos países pertencentes à região, que utilizam, para isso, todas as zonas turísticas como sítios para bases militares.",
+    "c": "A rota Nordeste, que liga Roterdã a Shangai, aumenta a distância percorrida pelas frotas marítimas e ainda pode ser ameaçada pela ampliação da cobertura de gelo no futuro.",
+    "d": "A rota Noroeste, que liga Ásia a América, é percurso já consagrado pelo tráfego marítimo intenso, por sua menor distância e por percorrer muitos portos comerciais e bases militares.",
+    "e": "O fluxo comercial possibilitado pelas rotas Noroeste e Nordeste tende a se concentrar no Estreito de Bering, reduzindo a distância a ser percorrida em relação aos trajetos via Canais do Panamá e de Suez."
+   },
+   "resposta": "e",
+   "explicacao": "As rotas Noroeste, pelo arquipélago canadense, e Nordeste, ao longo da costa siberiana, convergem no estreito de Bering, único acesso entre o Ártico e o Pacífico. Quem sai de Roterdã para Xangai por ali corta milhares de quilômetros em relação ao trajeto por Suez, e é o encurtamento que explica o interesse comercial pela região. A alternativa A supõe rotas que não cruzam Zonas Econômicas Exclusivas, quando elas correm justamente por águas reivindicadas por Canadá e Rússia; B transforma zonas turísticas em bases militares; C diz que a rota Nordeste aumenta a distância e prevê mais gelo, contra o texto; e D chama de tráfego intenso e consagrado uma rota que só agora se abre."
+  },
+  {
+   "id": "fuvest-geografia-8",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Entre 2019 e 2022 foram desmatados 12.272 hectares no município de Formosa do Rio Preto (BA), na região do MATOPIBA, composta pelos estados do Maranhão, Tocantins, Piauí e Bahia.",
+   "enunciado": "Assinale a alternativa que apresenta, respectivamente, o bioma correspondente à região do MATOPIBA, a atividade econômica desenvolvida nesse local e o possível impacto ambiental negativo decorrente de tal atividade.",
+   "alternativas": {
+    "a": "Cerrado, agropecuária e processos erosivos.",
+    "b": "Cerrado, silvicultura e contaminação do solo.",
+    "c": "Amazônia, mineração e poluição das águas.",
+    "d": "Caatinga, pastagem e impermeabilização da superfície.",
+    "e": "Caatinga, extrativismo e perda de biodiversidade."
+   },
+   "resposta": "a",
+   "explicacao": "O MATOPIBA é a última fronteira agrícola do Cerrado: os chapadões planos do oeste baiano e do sul do Maranhão e do Piauí foram abertos para soja, algodão e pecuária. Retirada a vegetação nativa, cujas raízes profundas seguravam solos arenosos e pobres, as chuvas concentradas do verão abrem sulcos, ravinas e voçorocas — processos erosivos. A alternativa B troca a lavoura pela silvicultura; C põe o bioma amazônico e a mineração numa área de Cerrado; e D e E situam a região na Caatinga, que fica a leste, no semiárido, e não abrange os quatro estados citados."
+  },
+  {
+   "id": "fuvest-geografia-9",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Neste bioma, a vegetação nativa apresenta-se intercalada por extensas monoculturas de soja e de arroz. Em alguns lugares, a vegetação campestre original tem sido substituída por vegetação florestal, formada por árvores de eucaliptos. Em vários locais, observa-se a expansão de grandes areais, em que os solos arenosos ficam expostos e suscetíveis a uma intensa erosão. Este é o bioma brasileiro menos protegido por Unidades de Conservação, embora esteja entre aqueles que mais perderam vegetação nativa nas últimas três décadas.",
+   "enunciado": "A descrição da paisagem impactada por ações humanas refere-se ao bioma",
+   "alternativas": {
+    "a": "Caatinga.",
+    "b": "Cerrado.",
+    "c": "Mata Atlântica.",
+    "d": "Pampas.",
+    "e": "Pantanal."
+   },
+   "resposta": "d",
+   "explicacao": "Campos naturais entremeados de soja e arroz, substituição da vegetação campestre por eucalipto, areais expostos à erosão e a menor cobertura por Unidades de Conservação entre os biomas brasileiros: é o Pampa, no sul do Rio Grande do Sul, onde a arenização é um processo bem documentado. A vegetação campestre exclui Caatinga (A), de arbustos espinhosos, e Mata Atlântica (C), florestal; o Cerrado (B) é savana arbórea e tem área protegida maior; e o Pantanal (E) é planície alagável, sem areais em expansão."
+  },
+  {
+   "id": "fuvest-geografia-10",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "A temperatura do ar de um município varia no espaço conforme o padrão de uso e ocupação do solo, atingindo os valores mais altos nas áreas centrais e caindo em direção às periferias mais arborizadas.",
+   "enunciado": "A explicação para as características desse perfil de temperatura do ar deve-se",
+   "alternativas": {
+    "a": "à maior ocorrência de áreas verdes nas periferias, que absorvem mais radiação solar e aquecem o ambiente, ultrapassando os 32 °C.",
+    "b": "à maior absorção de radiação solar nas áreas centrais das cidades, compostas em sua maioria por asfalto, vidro e concreto.",
+    "c": "ao efeito de sombreamento dos edifícios nas áreas centrais, com maior disponibilidade de radiação solar e temperaturas inferiores a 30 °C.",
+    "d": "à presença de áreas comerciais e residenciais ao longo de todo perfil, que elevam a temperatura acima dos 32 °C e reduzem a umidade.",
+    "e": "à maior reflexão da radiação solar nas áreas centrais pelo asfalto, por apresentarem albedo menor que as superfícies vegetadas."
+   },
+   "resposta": "b",
+   "explicacao": "É a ilha de calor urbana. Asfalto, concreto e vidro têm albedo baixo e alta capacidade térmica: absorvem a radiação solar durante o dia e a devolvem como calor, enquanto a falta de vegetação suprime a evapotranspiração que resfriaria o ar. Por isso o centro é mais quente que a periferia arborizada. A alternativa A faz as áreas verdes aquecerem o ambiente, quando elas o resfriam; C usa o sombreamento dos edifícios para afirmar maior disponibilidade de radiação, contradizendo-se; D espalha o aquecimento por todo o perfil, apagando o contraste que se quer explicar; e E se desmente sozinha, pois maior reflexão significa albedo maior, não menor."
+  },
+  {
+   "id": "fuvest-geografia-11",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“A distribuição dos mosquitos, a frequência de suas picadas e o tempo de eclosão de seus ovos são afetados pela temperatura, pluviosidade e velocidade do vento, além de outros fatores, como deslocamento e densidade populacionais. Por exemplo, com uma temperatura de 27 °C, o período de incubação dos ovos é de dez dias; no entanto, a 37 °C, esse período passa a ser de sete dias. Além disso, a intermitência das chuvas no final da estação do verão e os ventos calmos acentuam a proliferação e a atuação do vetor.” MENDONÇA, Francisco de Assis. Aquecimento Global e Saúde: uma perspectiva geográfica – notas introdutórias. Terra Livre, 2003 (Adaptado).",
+   "enunciado": "Com base no texto, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "A elevação da temperatura e o aumento da pluviosidade, somados ao desmatamento, à urbanização e à circulação de pessoas em várias áreas, potencializam a expansão da dengue.",
+    "b": "A dengue é um problema nacional e está relacionada ao fato de o Brasil ser um país tropical com áreas de florestas, aspectos que, combinados à dispersão da população, contribuem para minimizar a epidemia.",
+    "c": "A proliferação do mosquito Aedes aegypti ocorre em áreas pouco povoadas nos centros urbanos, associada às baixas temperaturas que intensificam a transmissão da doença.",
+    "d": "No território brasileiro, as áreas com baixas temperaturas reduzem o tempo necessário para eclosão dos ovos, aumentando a proliferação do mosquito Aedes aegypti e a frequência de picadas.",
+    "e": "A dengue é um problema de saúde pública em escala mundial e sua disseminação está associada à diminuição de temperatura, aumento da velocidade do vento e redução da precipitação."
+   },
+   "resposta": "a",
+   "explicacao": "O texto diz que o calor encurta a incubação dos ovos — de dez dias a 27 °C para sete a 37 °C — e que chuvas intermitentes e ventos calmos favorecem o vetor. Somados ao desmatamento, à urbanização e ao deslocamento de pessoas, esses fatores ampliam a área e a intensidade da dengue. A alternativa B faz a dispersão populacional minimizar a epidemia, quando ela a espalha; C liga a proliferação a áreas pouco povoadas e a baixas temperaturas, contra o texto; D afirma que temperaturas baixas reduzem o tempo de eclosão, exatamente o inverso dos números citados; e E associa a disseminação a menos calor, mais vento e menos chuva, invertendo os três fatores."
+  },
+  {
+   "id": "fuvest-geografia-12",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“O eixo econômico do país, que já havia se deslocado para a zona de mineração, caminhou mais uma vez, deslocando-se em direção às ondulações do planalto paulista, que foram se recobrindo pelo verde escuro dos cafezais. Enquanto outras regiões brasileiras vegetavam ou iniciavam mesmo um processo de decadência econômica, a Província, logo depois estado de São Paulo, apresentava uma ascensão esplêndida e vigorosa.” PETRONE, Pasquale. As indústrias paulistanas e os fatores de sua expansão. Terra Livre. 1953, p. 27 (Adaptado).",
+   "enunciado": "Sobre a industrialização no território brasileiro, é correto afirmar:",
+   "alternativas": {
+    "a": "Tal como São Paulo, a Zona Franca de Manaus teve a expansão de suas indústrias dada pelo potencial do mercado consumidor local dos produtos resultantes da industrialização.",
+    "b": "O Nordeste teve sua expansão industrial durante o Estado Novo, em razão da alta concentração de capitais dos estados da região, permitindo conexões dos seus polos industriais já consolidados.",
+    "c": "O boom industrial que aconteceu na região Sul, a partir da década de 1980, foi similar ao desenvolvimento ocorrido no Sudeste, onde a mão de obra especializada aumentou a produção.",
+    "d": "A concentração industrial no Sudeste ocorreu devido à existência de mercado consumidor, de capitais, de mão de obra disponível e de maior capacidade dos meios de transporte.",
+    "e": "A região Centro-Oeste contou com a facilidade de obtenção de energia, por meio de hidrelétricas e termoelétricas, além da densa malha viária para o seu desenvolvimento industrial."
+   },
+   "resposta": "d",
+   "explicacao": "O café concentrou no Sudeste tudo de que a indústria precisava: capital acumulado na lavoura e na exportação, mercado consumidor formado pela população urbana, mão de obra disponível vinda da imigração e do campo, e a malha ferroviária e portuária construída para escoar a safra. A alternativa A explica a Zona Franca de Manaus pelo mercado local, quando ela nasce de incentivos fiscais e produz para o resto do país; B dá ao Nordeste concentração de capitais e polos consolidados no Estado Novo; C data um boom industrial do Sul nos anos 1980 equiparável ao do Sudeste; e E atribui ao Centro-Oeste uma malha viária densa que a região não tinha."
+  },
+  {
+   "id": "fuvest-geografia-13",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "“Consiste em uma faixa de terra semiárida e árida que contorna a borda sul do Deserto do Saara e percorre a extensão da África no sentido leste-oeste. Atua como um cinturão que divide o continente africano em dois, a África majoritariamente islâmica, ao norte, e a cristã, ao sul. Englobando ao menos onze países, a região é lar para dezenas de grupos étnicos.” VAGEN, Tor-Gunnar; GUMBRICHT, Thomas. UNEP/ONU, 2012 (Adaptado).",
+   "enunciado": "O texto descreve características da região denominada de",
+   "alternativas": {
+    "a": "Chifre da África.",
+    "b": "África Meridional.",
+    "c": "África Setentrional.",
+    "d": "Rift Valley.",
+    "e": "Sahel."
+   },
+   "resposta": "e",
+   "explicacao": "Sahel, do árabe para \"margem\" ou \"borda\", é a faixa semiárida que contorna o Saara pelo sul e atravessa a África de leste a oeste, do Senegal ao Sudão, servindo de zona de contato entre o norte majoritariamente islâmico e o sul cristão. O Chifre da África (A) é a ponta oriental, na Somália e Etiópia; a África Meridional (B) e a Setentrional (C) são os extremos sul e norte do continente; e o Rift Valley (D) é a fossa tectônica que corre no sentido norte-sul, não leste-oeste."
   }
  ]
 }

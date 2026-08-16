@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "interpretacao-texto",
- "total": 529,
+ "total": 530,
  "residuo": [
   "dir-interpretacao-texto-10",
   "dir-interpretacao-texto-37",
@@ -3034,6 +3034,11 @@
   },
   "fuvest-interpretacao-texto-2": {
    "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "fuvest-interpretacao-texto-3": {
+   "subtema": "interpretacao-ideia-central",
    "frenteDestino": "interpretacao-texto",
    "revisado": true
   }

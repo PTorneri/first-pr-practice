@@ -3882,6 +3882,44 @@
       },
       "resposta": "a",
       "explicacao": "Depois de \"seria o fim\", o texto se desmancha numa sequência de sintagmas encabeçados por \"de todos\" e \"de todas\": grandes amores, pequenos, juras, promessas, desamores, rancores, paixões, vínculos não experimentados — e fecha em \"de todos\". O indefinido é o que faz o texto avançar e, ao mesmo tempo, o que universaliza: se vale para todos, o enredo é um só. Os outros recursos existem no trecho, mas não fazem esse trabalho. O travessão e a conjunção \"mas\" aparecem uma única vez, e um elemento único não sustenta progressão. \"Isso\" retoma a duração dos encontros, um detalhe local. E a substantivação (\"os na-alegria-e-na-tristeza\") é efeito de estilo dentro da enumeração, não o mecanismo que a organiza."
+    },
+    {
+      "id": "fuvest-gramatica-1",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "“O que torna possível o surgimento de uma ‘cultura do cancelamento’ é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, seja no campo da publicidade, seja no campo da responsabilidade social da empresa. O conjunto de valores defendidos pelos movimentos sociais que lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento. Sendo assim, a sanção específica realizada pelos agentes do ‘cancelamento’ procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, mas sim impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito ‘cancelado’. Nesse contexto, a ‘cultura do cancelamento’ representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, como inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.” MARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. Extraprensa, v.15, n. esp., p.39, mai.2022 (Adaptado).",
+      "enunciado": "Em relação aos conectivos sublinhados no texto, é correto afirmar:",
+      "alternativas": {
+        "a": "seja...seja evidencia a dúvida das autoras quanto aos campos afetados pelo cancelamento.",
+        "b": "que é utilizado para intensificar o valor dos movimentos sociais na luta pela diversidade.",
+        "c": "sendo assim indica adesão autoral diante das formas de sanção aplicadas pelos agentes do cancelamento.",
+        "d": "mas sim ressalta a diferença entre como se pune na cultura do cancelamento e no direito penal.",
+        "e": "como introduz uma comparação entre distintas ações passíveis de gerar cancelamento."
+      },
+      "resposta": "d",
+      "explicacao": "O trecho opõe duas coisas: a sanção do cancelamento não busca a liberdade do sujeito, como faz o direito penal, nem a reparação indenizatória do direito civil, \"mas sim\" atingir sua trajetória econômica e profissional. O conector marca justamente essa diferença entre os modos de punir. A alternativa A lê dúvida em \"seja...seja\", que é alternância inclusiva e não hesitação; B trata o \"que\" relativo como intensificador; C vê no \"sendo assim\" adesão das autoras, quando ele apenas encadeia conclusão; e E chama de comparação o \"como\", que ali introduz exemplificação."
+    },
+    {
+      "id": "fuvest-gramatica-2",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Da moenda para a célula a combustível: caldo de cana é usado para produzir energia elétrica “Pesquisadores do Instituto de Pesquisas Energéticas e Nucleares (Ipen), órgão associado à USP, testaram o uso de caldo de cana para gerar energia elétrica em células a combustível. O processo dispensa a transformação do caldo in natura em etanol, feita nas usinas de álcool, impedindo a formação de resíduos nocivos ao meio ambiente. Após o êxito dos experimentos em laboratório, os cientistas vão desenvolver a aplicação da técnica em escala industrial. ‘A célula a combustível tem o mesmo princípio de funcionamento de uma pilha. A diferença é que o combustível serve como reagente para ser consumido e gerar eletricidade’, explica o pesquisador do Ipen, Almir Oliveira Neto, que coordenou a pesquisa. ‘No dispositivo que foi desenvolvido na pesquisa, a oxidação do caldo de cana acontece no ânodo e a redução de oxigênio no cátodo. O objetivo do experimento era obter energia da biomassa com o mínimo impacto ambiental possível. Para isso, utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica’, diz o pesquisador. ‘O uso do caldo de cana direto evita a formação de vinhaça, um resíduo ambientalmente perigoso decorrente da produção de etanol, contribuindo, assim, para a preservação do meio ambiente’.” Disponível em https://jornal.usp.br/ciencias/ (Adaptado).",
+      "enunciado": "Ao empregar o pronome se em “utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica”, o pesquisador",
+      "alternativas": {
+        "a": "indetermina o sujeito, tentando mostrar que desconhece a real autoria do experimento.",
+        "b": "valoriza o objeto “caldo de cana”, enfatizando a importância desse produto para o experimento.",
+        "c": "chama a atenção para o verbo transitivo “utilizar”, valorizando a importância de se experimentar diretamente o caldo de cana.",
+        "d": "faz uso da voz passiva, construção em que “caldo de cana” atua como sujeito, deixando de haver menção a quem realizou o experimento.",
+        "e": "escolhe uma construção reflexiva em que “caldo de cana” é, ao mesmo tempo, o agente e o objeto do experimento realizado."
+      },
+      "resposta": "d",
+      "explicacao": "Em \"utilizou-se o caldo de cana\", o se é partícula apassivadora: a frase equivale a \"o caldo de cana foi utilizado\", com o sintagma funcionando como sujeito paciente e o agente ficando de fora. É a voz passiva sintética, recurso típico do texto científico, que põe o procedimento em primeiro plano e apaga quem o executou. A alternativa A confunde com o se índice de indeterminação do sujeito, que só ocorre com verbo intransitivo ou transitivo indireto, e ainda atribui ao pesquisador o desconhecimento da autoria; B e C descrevem efeitos de ênfase sem nomear a estrutura; e E chama de reflexiva uma construção em que o caldo não pratica ação alguma sobre si."
     }
   ]
 }

@@ -7519,6 +7519,175 @@
       },
       "resposta": "b",
       "explicacao": "Entre reagentes e produtos, muitas reações passam por estados de transição e intermediários que existem por femtossegundos e desaparecem antes que qualquer técnica lenta os registre. Pulsos de laser de 10⁻¹⁵ s conseguem fotografá-los, e é isso que permite descrever o caminho real da reação, não só as pontas. A alternativa A generaliza dizendo que todos os processos são rapidíssimos, quando muitos são lentos; C faz o tempo de análise depender só da quantidade de produto; D usa a técnica ultrarrápida para estudar processos lentos, que dispensariam essa resolução; e E a emprega para medir pureza de reagentes isolados, que é análise de rotina."
+    },
+    {
+      "id": "fuvest-quimica-9",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "enunciado": "Sobre os modelos atômicos propostos por Dalton (1803), Thomson, Rutherford e Bohr (1913), é correto afirmar:",
+      "alternativas": {
+        "a": "Todos os modelos previram a presença de cargas positivas no núcleo atômico.",
+        "b": "O modelo proposto por Thomson, por prever a existência de nêutrons, não poderia explicar a radiação alfa (α).",
+        "c": "Diferentemente do modelo de Dalton, o modelo de Rutherford não explica a estrutura de cátions e ânions.",
+        "d": "Apenas o modelo de Bohr, com o advento de balanças de precisão, considerou a diferença de massa entre os elementos.",
+        "e": "Elementos radioativos não poderiam ser explicados pelo modelo proposto por Dalton."
+      },
+      "resposta": "e",
+      "explicacao": "Para Dalton o átomo era maciço, indivisível e imutável — um elemento não podia se transformar em outro. A radioatividade faz exatamente isso: o núcleo se desintegra e emite partículas, transmutando o elemento. Nenhum átomo indivisível explica isso. A alternativa A atribui núcleo positivo a todos os modelos, quando Dalton e Thomson não têm núcleo; B diz que Thomson previa nêutrons, descobertos só em 1932 por Chadwick; C afirma que Rutherford não explica cátions e ânions, sendo ele quem separa carga nuclear de elétrons e permite explicá-los; e D dá a Bohr o mérito de considerar a diferença de massa entre elementos, que é de Dalton."
+    },
+    {
+      "id": "fuvest-quimica-10",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons Li+ penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons Li+ intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon- sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta.\n\nNote e adote: Distribuição eletrônica: Li = 1s², 2s¹; Na = 1s², 2s², 2p⁶, 3s¹. Massa atômica (u): Li = 7; Na = 23.",
+      "enunciado": "Considerando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado (Na+ ou Li+) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é",
+      "alternativas": {
+        "a": "maior do que de uma bateria íon-Li, pois o Na+ tem maior massa e menor raio iônico do que o Li+.",
+        "b": "menor do que de uma bateria íon-Li, pois o Na+ tem maior massa e maior raio iônico do que o Li+.",
+        "c": "maior do que de uma bateria íon-Li, pois o Na+ tem menor massa e maior raio iônico do que o Li+.",
+        "d": "menor do que de uma bateria íon-Li, pois o Na+ tem menor massa e menor raio iônico do que o Li+.",
+        "e": "igual à de uma bateria íon-Li, pois ambos os íons são monovalentes."
+      },
+      "resposta": "b",
+      "explicacao": "O sódio está um período abaixo do lítio: tem uma camada eletrônica a mais, logo raio iônico maior, e massa atômica 23 contra 7. Como a energia armazenada é proporcional ao número de íons intercalados e esse número é limitado pelo espaço disponível, um íon maior cabe em menor quantidade no mesmo volume; e como a densidade de energia é por unidade de massa e volume, o íon mais pesado ainda penaliza o numerador duas vezes. A densidade de energia da bateria de sódio é, portanto, menor. As alternativas A, C e D erram ao inverter massa ou raio, e E supõe que a valência igual basta, ignorando o tamanho e a massa."
+    },
+    {
+      "id": "fuvest-quimica-11",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fuvest",
+      "enunciado": "Na zona sul da cidade de São Paulo, há uma esquina formada pelas ruas Cloreto de Sódio e Relíquia do Oceano. A coincidência do encontro dessas ruas chama a atenção, pois o cloreto de sódio",
+      "alternativas": {
+        "a": "praticamente não está presente no oceano, apesar de este ser salgado.",
+        "b": "é insolúvel na água do oceano por apresentar ligação iônica.",
+        "c": "utilizado no Brasil é quase todo proveniente do oceano.",
+        "d": "obtido do oceano apresenta ligação covalente, enquanto o extraído do sal-gema, ligação iônica.",
+        "e": "retirado do oceano tem mais átomos de cloro ligados ao sódio do que o oriundo de outras fontes."
+      },
+      "resposta": "c",
+      "explicacao": "O sal consumido no Brasil vem quase todo das salinas do litoral, sobretudo do Rio Grande do Norte, onde a água do mar é evaporada em tanques — daí a coincidência das duas ruas fazer sentido. A alternativa A nega a presença do NaCl no oceano, que é o que o torna salgado; B chama o sal de insolúvel, quando compostos iônicos como ele se dissolvem bem em água justamente por serem polares; D atribui ligação covalente ao NaCl do mar, sendo iônica em qualquer origem; e E supõe que a proporção entre cloro e sódio mude conforme a fonte, quando a fórmula é sempre a mesma."
+    },
+    {
+      "id": "fuvest-quimica-12",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "O processo de mumificação usado pelos egípcios começava com a retirada dos órgãos e desidratação do corpo utilizando uma mistura natural, obtida em leito de lagos, de sais solúveis de sódio, como carbonato, hidrogenocarbonato, cloreto e sulfato. Após a desidratação, o corpo era preenchido com uma mistura de serragem e ervas aromáticas como canela, cássia, mirra e até mesmo cebola, que, por conterem álcoois e aldeídos com propriedades antimicrobianas, dificultavam a decomposição do corpo. Por fim, o corpo era envolvido em tecido embebido em resinas insolúveis em água, como betume ou óleo de cedro, que, após seco, formava uma camada impermeabilizante.",
+      "enunciado": "A partir dessas informações, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "Os sais de sódio mencionados, por serem hidrofílicos, repelem a água.",
+        "b": "Propanona e hexano são exemplos de álcoois e aldeídos antimicrobianos.",
+        "c": "Assim como o betume e óleo de cedro, qualquer outro composto orgânico serviria como impermeabilizante.",
+        "d": "Todo sal iônico poderia ser utilizado em substituição aos sais de sódio mencionados.",
+        "e": "A impermeabilidade conferida pelas resinas se deve às suas características apolares ou muito pouco polares."
+      },
+      "resposta": "e",
+      "explicacao": "Betume e óleo de cedro são apolares ou muito pouco polares, e por isso não interagem com a água, que é polar — o revestimento seco funciona como barreira impermeável. É a regra do semelhante dissolve semelhante aplicada ao avesso. A alternativa A diz que os sais hidrofílicos repelem a água, quando hidrofílico significa o contrário; B chama propanona e hexano de álcool e aldeído, sendo cetona e hidrocarboneto; C generaliza para qualquer composto orgânico, e um álcool de cadeia curta seria solúvel em água; e D estende a qualquer sal iônico, ignorando que o processo depende de sais solúveis, capazes de retirar água do tecido."
+    },
+    {
+      "id": "fuvest-quimica-13",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Em países frios, é comum o uso de pequenos aquecedores de mãos, normalmente descartáveis, que podem ser colocados dentro de luvas. Uma alternativa mais sustentável é o aquecedor de mão reutilizável, que é constituído por uma solução aquosa supersaturada de acetato de sódio armazenada em um reservatório maleável, conforme mostrado na figura a seguir. Um choque mecânico nesse reservatório perturba a solução supersaturada e leva à precipitação do sal, resultando no seu aquecimento. Após o uso, o aquecedor pode ser regenerado por imersão em água quente, que dissolve o sal, deixando-o pronto para ser reutilizado.",
+      "enunciado": "Em relação à operação desse aquecedor, é correto afirmar:",
+      "alternativas": {
+        "a": "A precipitação do acetato de sódio é exotérmica e sua solubilização é endotérmica.",
+        "b": "A diminuição da temperatura aumenta a solubilidade do acetato de sódio.",
+        "c": "A solubilização do acetato de sódio para a regeneração do aquecedor libera energia, aquecendo o banho de água.",
+        "d": "Quando o aquecedor é regenerado, a solução interna passa de supersaturada para uma solução diluída.",
+        "e": "A concentração de acetato de sódio na solução dentro do reservatório não muda durante a regeneração do aquecedor."
+      },
+      "resposta": "a",
+      "explicacao": "A dissolução do acetato de sódio absorve calor: é endotérmica, e por isso a regeneração exige imersão em água quente. O processo inverso, a cristalização disparada pelo choque mecânico, devolve essa mesma energia ao ambiente — é exotérmica, e é dela que vem o calor na luva. A alternativa B afirma que baixar a temperatura aumenta a solubilidade, quando é o aquecimento que dissolve mais sal; C faz a solubilização liberar energia e aquecer o banho, invertendo o sinal; D diz que a solução regenerada fica diluída, quando ela volta a ser supersaturada; e E nega mudança de concentração, sendo a dissolução do precipitado justamente o que a altera."
+    },
+    {
+      "id": "fuvest-quimica-14",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "A toxicidade do Pb e o risco de sua ingestão ganharam notoriedade na mídia devido à presença desse elemento em copos térmicos amplamente comercializados. A exposição ao Pb, no entanto, pode ocorrer também por fontes naturais, como a ingestão de água em contato prolongado com minérios como a anglesita, rico em PbSO4 (Kps = 1,0 × 10ꟷ8).\n\nNote e adote: Massa molar (g/mol): Pb = 207.",
+      "enunciado": "Sabendo que a legislação estabelece a concentração máxima de Pb de 0,01 mg/L para água potável, assinale a alternativa correta em relação à ingestão de água que tenha contato prolongado com a anglesita.",
+      "alternativas": {
+        "a": "Não é segura, pois a concentração de Pb na água será de 2,07×101 mg/L, maior que o valor permitido.",
+        "b": "É segura, pois a concentração de Pb na água será de 1×10ꟷ4 mg/L, menor que o valor permitido.",
+        "c": "Não é segura, pois a concentração de Pb na água será de 1×10ꟷ8 mg/L, menor que o valor permitido.",
+        "d": "É segura, pois a concentração de Pb na água será de 1×10ꟷ2 mg/L, igual ao valor permitido.",
+        "e": "É segura, pois a concentração de Pb na água será de 2,07×10ꟷ6 mg/L, maior que o valor permitido."
+      },
+      "resposta": "a",
+      "explicacao": "A anglesita dissolve como PbSO4 ⇌ Pb²⁺ + SO4²⁻, com Kps = [Pb²⁺][SO4²⁻] = s². De 1,0 × 10⁻⁸ vem s = 1,0 × 10⁻⁴ mol/L. Multiplicando pela massa molar do chumbo: 1,0 × 10⁻⁴ × 207 = 2,07 × 10⁻² g/L, ou seja, 20,7 mg/L — cerca de duas mil vezes o limite legal de 0,01 mg/L. A água não é segura. Os valores das demais alternativas saem de esquecer a raiz quadrada do Kps (C), de não converter mol em massa (B) ou de errar a ordem de grandeza na conversão para miligrama (E, que ainda se contradiz ao chamar de segura uma concentração que diz ser maior que a permitida)."
+    },
+    {
+      "id": "fuvest-quimica-15",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "A utilização de matrizes energéticas limpas, tais como aquelas que não aumentam a concentração de CO2(g) na atmosfera, é essencial para evitar a escalada das alterações climáticas causadas pela emissão de gases de efeito estufa. Considere a seguinte proposta para a produção de uma matriz energética limpa:\n\n(I) Capturar o CO2(g) atmosférico utilizando NaOH(aq) para formar Na2CO3(aq).\n(II) Tratar essa solução, na presença de um catalisador, com H2(g) oriundo de fontes renováveis, para gerar CH4(g), um gás combustível.",
+      "enunciado": "Com base nessas informações e em seus conhecimentos, assinale a alternativa correta.",
+      "alternativas": {
+        "a": "O catalisador participa da reação de produção de metano e se decompõe em NaOH.",
+        "b": "A combustão do CH4 não emite CO2, motivo pelo qual a proposta se configura como uma matriz energética limpa.",
+        "c": "A proposta não representa uma matriz energética limpa, pois a combustão completa de 1 mol de CH4 emite mais CO2 do que o que é utilizado para a sua síntese.",
+        "d": "A retirada de CO2 da atmosfera seria maior se a proposta de usar uma matriz energética limpa se resumisse unicamente em utilizar o H2 como combustível.",
+        "e": "Em relação ao ciclo do carbono, a proposta é semelhante ao uso do etanol como combustível veicular."
+      },
+      "resposta": "e",
+      "explicacao": "A proposta fecha um ciclo: o carbono do metano veio da atmosfera na etapa I e volta a ela na queima, sem saldo positivo. É o mesmo raciocínio do etanol de cana, cujo carbono foi fixado pela fotossíntese antes de ser liberado no motor — daí a semelhança. A alternativa A faz o catalisador ser consumido e virar NaOH, quando catalisador se regenera; B afirma que a combustão do metano não emite CO2, e ela emite; C diz que a queima de 1 mol de CH4 libera mais CO2 do que o mol usado na síntese, e a proporção é de um para um; e D supõe que usar só o H2 retiraria mais CO2 da atmosfera, quando sem a etapa I não se retira nenhum."
+    },
+    {
+      "id": "fuvest-quimica-16",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "A reação do antibiótico sulfanilamida com halogênios leva à reação de substituição com o halogênio em duas posições distintas do anel aromático, como representado na equação não balanceada a seguir.",
+      "enunciado": "Em um experimento, 1 L de uma solução de sulfanilamida de pH 5 reagiu com Br2 em excesso, obtendo-se pH 4 após reação total. Considerando que o volume se manteve inalterado após a adição do halogênio, quantos mols de sulfanilamida reagiram com bromo?",
+      "alternativas": {
+        "a": "4,5 × 10ꟷ5",
+        "b": "9,0 × 10ꟷ5",
+        "c": "1,0 × 10ꟷ4",
+        "d": "5,0 × 10ꟷ2",
+        "e": "1,0 × 10ꟷ1"
+      },
+      "resposta": "a",
+      "explicacao": "A substituição eletrofílica no anel aromático troca um H por um Br e libera HBr, que em água se ioniza e acidifica o meio. O pH caiu de 5 para 4, ou seja, [H⁺] passou de 1,0 × 10⁻⁵ para 1,0 × 10⁻⁴ mol/L: em 1 litro, foram gerados 9,0 × 10⁻⁵ mol de H⁺. Como cada molécula de sulfanilamida sofre substituição em duas posições distintas, ela libera dois HBr — logo reagiram 9,0 × 10⁻⁵ ÷ 2 = 4,5 × 10⁻⁵ mol. A alternativa B para no total de H⁺ sem dividir por dois; C usa o valor final de [H⁺] sem descontar o inicial; e D e E erram em várias ordens de grandeza."
+    },
+    {
+      "id": "fuvest-quimica-17",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "Um artigo publicado em 2018, na Revista Brasileira de Ensino de Física, reporta um curioso estudo sobre a pressão interna de “foguetes de garrafa PET”, propulsionados a partir da reação química entre ácido acético e bicarbonato de sódio.[1] Uma mistura de vinagre (que contém ácido acético, CH3COOH) com bicarbonato de sódio (NaHCO3) produz gás carbônico (CO2) por meio da reação química representada pela seguinte equação: CH3COOH + NaHCO3 → CH3COONa + CO2 + H2O A reação ocorre no interior de uma garrafa PET de 2 L de volume útil total, da qual foi retirado todo o ar. Insere-se na garrafa um volume inicial Vvin de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manômetro. A reação produzirá gás carbônico que ocupará um volume VCO2 e exercerá uma pressão PCO2 sobre a tampa da garrafa, medida pelo manômetro, como mostra a figura. [1] FONSECA et al, RBEF, vol. 40, nº 3, e3504 (2018). Disponível em http://dx.doi.org/10.1590/1806-9126-RBEF- 2017-0340.\n\nNote e adote: Considere o CO2 como um gás ideal. Constante dos gases ideais: R = 0,08 atm·L/(K·mol). Assuma que todo o ácido acético do vinagre reagiu com o bicarbonato de sódio e que o líquido resultante da reação ocupa aproximadamente o mesmo volume do vinagre antes da reação.",
+      "enunciado": "Suponha que a reação produza 2 mols de CO2 para cada 3 litros de vinagre. Nas condições do experimento, em que o volume de líquido é 1/3 de litro à temperatura T = 300 K, a pressão PCO2 medida pelo manômetro será por volta de",
+      "alternativas": {
+        "a": "3,2 atm.",
+        "b": "4,1 atm.",
+        "c": "6,2 atm.",
+        "d": "9,0 atm.",
+        "e": "12 atm."
+      },
+      "resposta": "a",
+      "explicacao": "Com 1/3 de litro de vinagre e a proporção de 2 mol de CO2 para cada 3 litros, formam-se n = 2 × (1/3) ÷ 3 = 2/9 mol de gás. O gás ocupa o que sobra da garrafa: 2 − 1/3 = 5/3 L. Aplicando PV = nRT, P = (2/9 × 0,08 × 300) ÷ (5/3) = (16/3) × (3/5) = 3,2 atm. Os demais valores saem de errar uma das duas grandezas: contar o volume da garrafa inteira como espaço do gás, sem descontar o líquido, ou tomar os 2 mol da proporção como se fossem o total produzido."
     }
   ]
 }

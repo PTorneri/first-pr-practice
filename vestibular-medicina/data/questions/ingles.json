@@ -4610,6 +4610,101 @@
       },
       "resposta": "a",
       "explicacao": "Candelaria não nega que La Malinche tenha servido aos espanhóis; ela argumenta que a traição faz mais sentido psicológico quando se lembra que, ainda jovem, ela \"had been sold by her own mother into slavery\" — foi vendida como escrava pela própria mãe — e pergunta o que mais poderia fazer alguém rejeitada pelos seus. O argumento é o da preterição dentro da própria família. O texto descreve o uso dos idiomas como serviço aos espanhóis, não como proveito próprio (B); e não fala em inveja (C), em vulnerabilidades ignoradas (D) nem em disputa com os líderes (E)."
+    },
+    {
+      "id": "fuvest-ingles-6",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "“justice, each getting what he or she is due. Formal justice is the impartial and consistent application of principles, whether or not the principles themselves are just. Substantive justice is closely associated with rights, i.e., with what individuals can legitimately demand of one another or what they can legitimately demand of their government (e.g., with respect to the protection of liberty or the promotion of equality). Retributive justice concerns when and why punishment is justified. Debate continues over whether punishment is justified as retribution for past wrongdoing or because it deters future wrongdoing. Those who stress retribution as the justification for punishment usually believe human beings have libertarian free will, while those who stress deterrence usually accept determinism. At least since Aristotle, justice has commonly been identified both with obeying law and with treating everyone with fairness. But if law is, and justice is not, entirely a matter of convention, then justice cannot be identified with obeying law.” The Cambridge Dictionary of Philosophy. General Editor Robert Audi, Cambridge, U.K.: C.U.P., 1999. p.456.",
+      "enunciado": "Conforme o verbete, a justiça substantiva pode ser definida como a",
+      "alternativas": {
+        "a": "aplicação imparcial e consistente de princípios éticos e morais.",
+        "b": "promoção de punições rigorosas para qualquer tipo de crime.",
+        "c": "distribuição de recursos econômicos de maneira equitativa, com ênfase no coletivo.",
+        "d": "garantia de que todos recebam o que lhes é devido, contemplando direitos individuais.",
+        "e": "proteção exclusiva dos direitos das minorias, aumentando sua visibilidade social."
+      },
+      "resposta": "d",
+      "explicacao": "O verbete define: \"Substantive justice is closely associated with rights, i.e., with what individuals can legitimately demand of one another or what they can legitimately demand of their government\" — está ligada a direitos, ao que se pode legitimamente exigir. Somada à abertura do trecho, \"each getting what he or she is due\", resulta a garantia de que cada um receba o que lhe é devido, contemplando direitos individuais. A alternativa A define a justiça formal, descrita logo antes; B remete à justiça retributiva; C acrescenta uma ênfase coletiva e econômica que o verbete não traz; e E restringe a proteção às minorias."
+    },
+    {
+      "id": "fuvest-ingles-7",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "media",
+      "origem": "fuvest",
+      "texto_apoio": "Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado).",
+      "enunciado": "Segundo o texto, o processo de derretimento das calotas polares",
+      "alternativas": {
+        "a": "põe em dúvida a necessidade do conceito de segundo bissexto.",
+        "b": "desloca o fluxo de água para regiões afastadas da linha do Equador.",
+        "c": "deve antecipar em três anos o ajuste dos relógios atômicos.",
+        "d": "ultrapassa o alcance do sistema do Tempo Universal Coordenado.",
+        "e": "tende a reduzir a velocidade de rotação da Terra."
+      },
+      "resposta": "e",
+      "explicacao": "O texto explica que o degelo da Antártida e da Groenlândia desloca massa em direção ao equador, aumenta o bojo equatorial e, com isso, freia a aceleração da rotação causada pelo núcleo — tanto que o \"segundo bissexto negativo\" previsto para 2026 pode só ser necessário em 2029. O efeito líquido é retardar a rotação. A alternativa B inverte a direção do deslocamento da água; C fala em antecipar o ajuste em três anos, quando o texto o adia; e A e D negam a validade do segundo bissexto e do Tempo Universal Coordenado, que o texto mantém."
+    },
+    {
+      "id": "fuvest-ingles-8",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "facil",
+      "origem": "fuvest",
+      "texto_apoio": "Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado).",
+      "enunciado": "Conforme o texto, os fenômenos naturais que desempenham papel significativo na complexa interação gravitacional que afeta a rotação da Terra são",
+      "alternativas": {
+        "a": "terremotos.",
+        "b": "vulcões.",
+        "c": "avalanches.",
+        "d": "marés dos oceanos.",
+        "e": "ciclones."
+      },
+      "resposta": "d",
+      "explicacao": "O texto lista o que puxa a Terra na \"complicated gravitational dance\": a Lua, o Sol, as marés oceânicas, a atmosfera e o movimento do núcleo interno sólido. Entre as cinco alternativas, só as marés dos oceanos aparecem nessa lista. Terremotos, vulcões, avalanches e ciclones são fenômenos naturais reais, mas nenhum é citado no texto como parte da interação gravitacional que afeta a rotação."
+    },
+    {
+      "id": "fuvest-ingles-9",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "“Quick, quick, tell me something awful Like you are a poet trapped inside the body of a finance guy Tell me all your secrets, all you'll ever be is My eternal consolation prize You see, I was a debutante in another life, but Now I seem to be scared to go outside If comfort is a construct, I don't believe in good luck Now that I know what's what I hate it here so I will go to secret gardens in my mind People need a key to get to, the only one is mine I read about it in a book when I was a precocious child No mid-sized city hopes and small-town fears I'm there most of the year 'cause I hate it here I hate it here My friends used to play a game where We would pick a decade We wished we could live in instead of this I'd say the 1830s but without all the racists And getting married off for the highest bid Everyone would look down 'cause it wasn't fun now Seems like it was never even fun back then Nostalgia is a mind's trick If I'd been there, I'd hate it It was freezing in the palace” “I hate it here”, Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado).",
+      "enunciado": "Na letra da música, o verso “Like you are a poet trapped inside the body of a finance guy”",
+      "alternativas": {
+        "a": "enaltece a romantização e idealização de épocas passadas.",
+        "b": "destaca o papel de contextos externos no manejo de frustrações.",
+        "c": "expressa o sentimento de insatisfação ou inadequação em relação às expectativas sociais.",
+        "d": "critica a revelação de segredos e o rompimento de fronteiras pessoais.",
+        "e": "enfatiza a importância da sorte e de elementos culturais como mitos e rituais."
+      },
+      "resposta": "c",
+      "explicacao": "\"Um poeta preso dentro do corpo de um cara das finanças\" é a imagem de quem vive num papel que não é o seu: o que se sente por dentro não cabe no lugar que a vida social atribuiu. O verso expressa inadequação diante das expectativas sociais, o mesmo desconforto que reaparece em \"I hate it here\" e na fuga para os jardins secretos da mente. A alternativa A trata da nostalgia, tema de outra estrofe, e ainda a enaltece, quando a canção a chama de truque da mente; B fala em contextos externos que ajudam, e o eu lírico se refugia por dentro; D lê o verso como crítica à revelação de segredos, sendo o pedido dele; e E enfatiza a sorte, que a letra descrê."
+    },
+    {
+      "id": "fuvest-ingles-10",
+      "banca": "fuvest",
+      "sessao": "fuvest-2025-1f",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "fuvest",
+      "texto_apoio": "“Quick, quick, tell me something awful Like you are a poet trapped inside the body of a finance guy Tell me all your secrets, all you'll ever be is My eternal consolation prize You see, I was a debutante in another life, but Now I seem to be scared to go outside If comfort is a construct, I don't believe in good luck Now that I know what's what I hate it here so I will go to secret gardens in my mind People need a key to get to, the only one is mine I read about it in a book when I was a precocious child No mid-sized city hopes and small-town fears I'm there most of the year 'cause I hate it here I hate it here My friends used to play a game where We would pick a decade We wished we could live in instead of this I'd say the 1830s but without all the racists And getting married off for the highest bid Everyone would look down 'cause it wasn't fun now Seems like it was never even fun back then Nostalgia is a mind's trick If I'd been there, I'd hate it It was freezing in the palace” “I hate it here”, Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado).",
+      "enunciado": "No texto, a percepção de “conforto como construto” indica que o eu lírico vê o conforto como",
+      "alternativas": {
+        "a": "refúgio mental para apaziguar as pressões e o descontentamento da vida.",
+        "b": "concepção ligada às experiências infantis em mecanismos de enfrentamento.",
+        "c": "conceito pressuposto, dependente da realidade concreta das pessoas.",
+        "d": "dificuldade de ter autoafirmação, por conta de questões internas pendentes.",
+        "e": "algo criado pela sociedade, produzindo falsa sensação de segurança."
+      },
+      "resposta": "e",
+      "explicacao": "\"If comfort is a construct, I don't believe in good luck\": chamar o conforto de construto é dizer que ele não é dado do mundo, e sim algo montado socialmente — uma promessa de segurança que a letra desconfia ser falsa, tanto que o verso seguinte descarta também a boa sorte. A alternativa A descreve os jardins secretos da mente, que são o refúgio, não o conforto criticado; B liga o conforto às experiências infantis, e a infância aparece só na leitura precoce; C o faz depender da realidade concreta, o oposto de construto; e D o converte em dificuldade de autoafirmação."
     }
   ]
 }

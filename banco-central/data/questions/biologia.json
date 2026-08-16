@@ -8403,6 +8403,139 @@
    },
    "resposta": "c",
    "explicacao": "Todo cladograma parte de um ancestral comum na raiz, e por isso lampreia, tubarão, lagarto e ser humano compartilham um ancestral — os peixes e os tetrápodes descendem dele. A alternativa A confunde um grupo atual com o ancestral: a lampreia é uma linhagem viva, não o antepassado das demais; B repete o erro dizendo que o tubarão surgiu da lampreia; D é falsa porque lagarto e ser humano são ambos tetrápodes e se separaram do tubarão muito antes de se separarem entre si; e E aplica à filogenia uma escala de perfeição que ela não tem, já que todos os ramos têm o mesmo tempo de evolução."
+  },
+  {
+   "id": "fuvest-biologia-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado).",
+   "enunciado": "Considerando os seres vivos atuais, as informações trazidas pelo texto e os princípios da Teoria Sintética da Evolução, é correto afirmar que",
+   "alternativas": {
+    "a": "as espécies necessariamente se adaptarão às novas mudanças do planeta.",
+    "b": "somente espécies de dias longos, ou seja, aquelas que precisam de mais horas de luz, sobreviverão às mudanças previstas.",
+    "c": "é difícil prever como se dará a evolução das espécies, porque esse é um processo mediado pelo acaso.",
+    "d": "nenhuma espécie sobreviverá às mudanças na Terra e novas espécies surgirão em seu lugar.",
+    "e": "espécies aquáticas terão vantagem adaptativa sobre espécies terrestres, uma vez que todos os continentes submergirão com o derretimento das geleiras."
+   },
+   "resposta": "c",
+   "explicacao": "A Teoria Sintética não tem poder de previsão sobre qual variante será favorecida: a mutação é aleatória e independe da necessidade, e é o ambiente futuro — que ninguém conhece — que fará a seleção. Por isso não se pode dizer de antemão como as espécies evoluirão diante das mudanças descritas. A alternativa A garante adaptação necessária, e a extinção é o desfecho mais comum; B elege as espécies de dias longos sem qualquer base; D decreta a extinção de todas; e E supõe que todos os continentes submergirão, o que o degelo total não produziria, além de tratar o meio aquático como vantagem automática."
+  },
+  {
+   "id": "fuvest-biologia-8",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O aparecimento de uma barreira separou uma população de rinocerontes em duas, reduzindo o tamanho das populações resultantes.",
+   "enunciado": "É correto afirmar que, nas populações fragmentadas, ocorre",
+   "alternativas": {
+    "a": "maior variabilidade genética.",
+    "b": "maior risco de aparecimento de doenças genéticas recessivas.",
+    "c": "menor frequência de mutações.",
+    "d": "seleção natural dos indivíduos com características genéticas dominantes.",
+    "e": "favorecimento da mistura entre elas."
+   },
+   "resposta": "b",
+   "explicacao": "Populações pequenas e isoladas perdem variabilidade por deriva genética e passam a cruzar entre parentes. O endocruzamento aumenta a proporção de indivíduos homozigotos, e é na homozigose que os alelos recessivos deletérios — inofensivos enquanto escondidos em heterozigose — se manifestam como doença. A alternativa A promete maior variabilidade, quando a fragmentação a reduz; C fala em menos mutações, e a taxa de mutação não depende do tamanho da população; D transforma deriva em seleção de dominantes; e E prevê mistura entre as populações, que a barreira justamente impede."
+  },
+  {
+   "id": "fuvest-biologia-9",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Alguns corais contêm, em sua estrutura, algas fornecedoras de carboidratos que auxiliam no crescimento e na construção do esqueleto do coral. Os corais, por sua vez, fornecem um ambiente de proteção e importantes nutrientes às algas. As mudanças climáticas globais têm provocado a morte dessas algas e, em muitos casos, a morte dos corais.",
+   "enunciado": "Assinale a alternativa que representa a relação ecológica entre os corais e as algas, assim como o impacto imediato causado pela morte dos corais. Relação ecológica Impacto imediato",
+   "alternativas": {
+    "a": "Predação Formação das marés vermelhas e desoxigenação das águas oceânicas.",
+    "b": "Mutualismo Perda de habitat para diversas espécies marinhas, assim como diminuição de suas fontes de proteção e alimento.",
+    "c": "Colônia Aumento de habitats e nichos ecológicos para espécies que passam a viver no local antes ocupado pelos corais.",
+    "d": "Competição Invasão biológica por espécies que ocupam o nicho deixado vago pelos corais.",
+    "e": "Comensalismo Enriquecimento das águas oceânicas por cálcio e nitrogênio, favorecendo o desenvolvimento de algas marinhas."
+   },
+   "resposta": "b",
+   "explicacao": "As zooxantelas fornecem carboidratos ao coral e recebem abrigo e nutrientes: as duas espécies ganham e nenhuma vive bem sem a outra, que é a definição de mutualismo. Morto o coral, some a estrutura tridimensional do recife — e com ela o abrigo, o berçário e a fonte de alimento de milhares de espécies marinhas. A alternativa A chama de predação uma troca recíproca; C usa colônia, que descreve indivíduos da mesma espécie unidos, e ainda prevê aumento de habitats; D fala em competição entre parceiros; e E propõe comensalismo, em que só um lado ganha, além de um enriquecimento das águas que o branqueamento não produz."
+  },
+  {
+   "id": "fuvest-biologia-10",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil- réis e entregando-a ao Duque: ‘— Vá levantar esta letra. Você me devolve depois.’ Não é bem caridade... Ele não sabe explicar... Há nisso um certo tom de versatilidade... de facilidade... de um tal ou qual afrouxamento do caráter... Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, a ‘mesma’ cédula do bolso e entregando-lha... A casa aristocrática acha-se perto. A numeração já está em quase trezentos. Uma pequena aragem que sopra levemente nesta parte alta da rua passa-lhe pelas mãos e esfria-as... O seu corpo suado fica como que um bloco gelado e dá-lhe a sensação de que se encolhe, se retrai dentro da sua roupa quente e assoleada, que dela se despega como duma carapaça. Ao mesmo tempo o coração, que batia lá no fundo do peito, veio palpitar bem à superfície, quase à flor da pele, meio engasgando-o.” Dyonélio Machado. Os ratos.",
+   "enunciado": "Dentre as frases em destaque, a que caracteriza os efeitos fisiológicos em Naziazeno da reação de luta ou fuga pela ativação do sistema nervoso simpático é:",
+   "alternativas": {
+    "a": "Ele vê o gesto do advogado Dr. Otávio Conti, no café, metendo a mão no bolso, tirando uma cédula de cem mil- réis e entregando-a ao Duque.",
+    "b": "Ele não sabe explicar... Há nisso um certo tom de versatilidade... de facilidade... de um tal ou qual afrouxamento do caráter...",
+    "c": "Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, a “mesma” cédula do bolso e entregando-lha...",
+    "d": "Uma pequena aragem que sopra levemente nesta parte alta da rua passa-lhe pelas mãos e esfria-as.",
+    "e": "Ao mesmo tempo o coração, que batia lá no fundo do peito, veio palpitar bem à superfície, quase à flor da pele, meio engasgando-o."
+   },
+   "resposta": "e",
+   "explicacao": "A resposta de luta ou fuga é simpática: a adrenalina acelera o coração, redistribui o sangue, contrai vasos periféricos e prepara o corpo para agir. No trecho, isso aparece em \"o coração, que batia lá no fundo do peito, veio palpitar bem à superfície, quase à flor da pele, meio engasgando-o\" — taquicardia e palpitação percebidas pelo próprio Naziazeno. As frases A e C descrevem uma lembrança visual, B é reflexão moral, e D atribui o resfriamento das mãos à aragem da rua, causa externa, quando o efeito simpático seria a vasoconstrição."
+  },
+  {
+   "id": "fuvest-biologia-11",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "A maior parte da alimentação humana é constituída por grãos e cereais, que, em sua maioria, correspondem às sementes, em termos botânicos.",
+   "enunciado": "Esse consumo é adequado, uma vez que as sementes",
+   "alternativas": {
+    "a": "constituem o único órgão de reserva de amido das plantas, substância altamente energética para os seres vivos em geral.",
+    "b": "armazenam todas as vitaminas e nutrientes necessários para a planta e, portanto, também ao ser humano.",
+    "c": "possuem DNA da planta-mãe e do embrião, que constituem nutrientes sem os quais a espécie humana não sobrevive.",
+    "d": "contêm substâncias de reserva provedoras de energia para o desenvolvimento do embrião vegetal, que também servem de fonte energética aos seres humanos.",
+    "e": "possuem enzimas digestivas de amido e de proteínas, que disponibilizam energia ao embrião vegetal e também são usadas para promover a digestão em seres humanos."
+   },
+   "resposta": "d",
+   "explicacao": "A semente guarda reservas — amido, proteínas e lipídios no endosperma ou nos cotilédones — para alimentar o embrião até que a plântula faça fotossíntese própria. Como essas reservas são energéticas e nutritivas, servem igualmente a quem as come. A alternativa A chama a semente de único órgão de reserva de amido, esquecendo tubérculos, raízes e caules; B afirma que ela guarda todas as vitaminas e nutrientes necessários, o que nenhum alimento isolado faz; C trata o DNA como nutriente indispensável; e E supõe que as enzimas digestivas do vegetal promovem a digestão humana, quando são desnaturadas no estômago."
+  },
+  {
+   "id": "fuvest-biologia-12",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Dentre os animais invertebrados, alguns grupos apresentam o sistema circulatório fechado, enquanto outros apresentam o sistema circulatório aberto, o que leva a diferenças em processos fisiológicos.",
+   "enunciado": "Nos invertebrados, o sistema circulatório",
+   "alternativas": {
+    "a": "fechado apresenta uma menor pressão do sangue / hemolinfa em relação ao sistema circulatório aberto.",
+    "b": "aberto apresenta o coração dividido em quatro cavidades: dois átrios e dois ventrículos.",
+    "c": "fechado permite maior eficiência no transporte de oxigênio em relação ao sistema circulatório aberto.",
+    "d": "aberto facilita a distribuição dos nutrientes aos tecidos em relação ao sistema circulatório fechado.",
+    "e": "fechado mistura mais facilmente os gases respiratórios: oxigênio e dióxido de carbono."
+   },
+   "resposta": "c",
+   "explicacao": "No sistema fechado o sangue corre sempre dentro de vasos, o que mantém a pressão alta e permite dirigir o fluxo para onde é preciso — daí o transporte de oxigênio ser mais eficiente, como se vê em anelídeos e cefalópodes. No aberto, a hemolinfa se derrama em lacunas, a pressão cai e a distribuição fica lenta. A alternativa A inverte as pressões; B dá ao invertebrado de sistema aberto um coração de quatro cavidades, que é de ave e mamífero; D atribui ao aberto a distribuição mais fácil; e E fala em mistura de gases respiratórios, que não é característica do sistema fechado."
+  },
+  {
+   "id": "fuvest-biologia-13",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Pesquisas e terapias com células-tronco têm se mostrado cada vez mais promissoras pela possibilidade de seu uso no tratamento de diferentes tipos de doenças, como câncer e doenças degenerativas. As células-tronco podem se diferenciar em células especializadas.",
+   "enunciado": "As células especializadas que derivam de uma mesma célula- tronco possuem os(as) mesmos(as)",
+   "alternativas": {
+    "a": "genes.",
+    "b": "RNAs.",
+    "c": "proteínas.",
+    "d": "lipídeos.",
+    "e": "organelas."
+   },
+   "resposta": "a",
+   "explicacao": "Todas as células de um organismo descendem do zigoto por mitose e por isso carregam o mesmo genoma: uma célula muscular e um neurônio têm exatamente os mesmos genes. A diferenciação é a expressão seletiva desse conjunto — cada tipo transcreve uma parte diferente. É justamente por isso que RNAs (B), proteínas (C), lipídios de membrana (D) e organelas (E) diferem entre os tipos celulares: a mitocôndria é abundante no músculo, o retículo rugoso na célula secretora. O que permanece igual é o material genético."
   }
  ],
  "textos": [

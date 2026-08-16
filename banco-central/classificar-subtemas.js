@@ -1625,6 +1625,94 @@ const REVISADAS = {
   "fuvest-matematica-3": "matematica-probabilidade",
   "fuvest-matematica-5": "matematica-sequencias",
   "fuvest-matematica-6": "matematica-sequencias",
+
+  // FUVEST 2025, 1ª fase -- 29 pinos em 71 questões (41%), seis pontos acima da
+  // taxa de 2024. A diferença tem causa visível: esta edição é mais
+  // interdisciplinar. Uma questão de Física entra pela imagem de um buraco
+  // negro, uma de Biologia sai de um romance de 1935, uma de Química começa
+  // numa esquina de São Paulo. O classificador lê a moldura, não o conteúdo.
+
+  // A obra de Glicéria Tupinambá é arte contemporânea; "manto", "ancestral" e
+  // "tradições" a mandaram para patrimônio e cultura popular.
+  "fuvest-artes-cultura-1": "artes-contemporanea",
+
+  // Sementes como órgão de reserva: caiu em fisiologia porque a explicação fala
+  // de digestão e de enzimas ao descartar os distratores. Descartar o distrator
+  // custa pontos para o subtema do distrator, pela terceira edição seguida.
+  "fuvest-biologia-11": "biologia-diversidade",
+
+  // Husserl e a intersubjetividade foi para ética-moral por "depreciativas" e
+  // "outras pessoas"; o cancelamento, para cultura-identidade por "valores
+  // morais"; o colonialismo de dados, para conhecimento-lógica por "conceitos";
+  // e o esporte e gênero, para conhecimento-lógica pelo mesmo motivo. Nas
+  // quatro, o vocabulário do enunciado pertence a um subtema e a pergunta a
+  // outro.
+  "fuvest-filosofia-sociologia-6": "filosofia-conhecimento-logica",
+  "fuvest-filosofia-sociologia-8": "sociologia-instituicoes-movimentos",
+  "fuvest-filosofia-sociologia-9": "sociologia-trabalho-classes",
+  "fuvest-filosofia-sociologia-10": "sociologia-cultura-identidade",
+
+  // A polarização da luz do buraco negro caiu em ondas-óptica: o texto passa
+  // metade do tempo explicando o que é luz polarizada, e o que se cobra é o
+  // campo magnético. A montanha-russa caiu em mecânica por "velocidade" e
+  // "descida", e a conta é de conservação de energia.
+  "fuvest-fisica-7": "fisica-eletromagnetismo",
+  "fuvest-fisica-11": "fisica-energia-trabalho",
+
+  // O MATOPIBA foi para física-clima por "bioma" e "Cerrado", quando o assunto
+  // é fronteira agrícola; a ilha de calor, para física-clima por "temperatura
+  // do ar", quando é urbanização; e o Sahel, para geopolítica por "islâmica" e
+  // "cristã", quando é a faixa semiárida.
+  "fuvest-geografia-8": "geografia-agraria-economica",
+  "fuvest-geografia-10": "geografia-populacao-urbana",
+  "fuvest-geografia-13": "geografia-fisica-clima",
+
+  // Voz passiva sintética: o "se" mandou a questão para regência e crase.
+  "fuvest-gramatica-2": "gramatica-sintaxe-periodo",
+
+  // As veredas do tapir não pontuaram em lugar nenhum e caíram por acaso no
+  // subtema certo -- resíduo de sorte, pinado pela regra que o ENEM 2024
+  // firmou: sem pino, a primeira mexida nas regras o leva embora sem aviso.
+  "fuvest-historia-11": "historia-brasil-colonia-imperio",
+
+  // Colonização ibérica × inglesa foi para Brasil-colônia porque cita a
+  // América portuguesa; Weber e a ética protestante foi para antiga-medieval
+  // por "Reforma" e "religiosa". As duas são História Moderna.
+  "fuvest-historia-13": "historia-geral-moderna",
+  "fuvest-historia-16": "historia-geral-moderna",
+
+  // Inglês pina três de cinco, e as três por ausência de pontuação: em prova de
+  // leitura o subtema é a HABILIDADE cobrada (detalhe, inferência, ideia
+  // central), e habilidade não deixa palavra no texto. Já registrado no ENEM.
+  "fuvest-ingles-6": "ingles-detail",
+  "fuvest-ingles-9": "ingles-inference",
+  "fuvest-ingles-10": "ingles-inference",
+  "fuvest-interpretacao-texto-3": "interpretacao-ideia-central",
+
+  // Os ratos, de 1935, é modernismo; caiu em realismo-naturalismo porque a
+  // trama é de dívida e humilhação social, vocabulário de Machado. O conto de
+  // Honwana e o poema de Mel Duarte foram para teoria-análise porque as
+  // perguntas são de leitura, e o funcionalismo público em Os ratos também.
+  "fuvest-literatura-12": "literatura-modernismo",
+  "fuvest-literatura-13": "literatura-contemporanea",
+  "fuvest-literatura-14": "literatura-contemporanea",
+  "fuvest-literatura-18": "literatura-modernismo",
+
+  // A rampa da NBR 9050 e a expectativa de vida do IBGE caíram as duas em
+  // financeira, por "porcentagem" e por "média". Uma é proporção, a outra é
+  // estatística.
+  "fuvest-matematica-7": "matematica-algebra",
+  "fuvest-matematica-8": "matematica-probabilidade",
+
+  // Bateria de íon-lítio foi para eletroquímica pelo cenário -- e o que se
+  // cobra é raio iônico e massa atômica. O sal da esquina caiu em atomística
+  // por "ligação iônica", que está só nos distratores. O Kps da anglesita foi
+  // para soluções, e a sulfanilamida bromada também, sendo uma de equilíbrio e
+  // a outra de substituição em anel aromático.
+  "fuvest-quimica-10": "quimica-atomistica-ligacoes",
+  "fuvest-quimica-11": "quimica-solucoes",
+  "fuvest-quimica-14": "quimica-equilibrio-acido-base",
+  "fuvest-quimica-16": "quimica-organica",
 };
 
 // ------------------------------------------------------------------- classificação

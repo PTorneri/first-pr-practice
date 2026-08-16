@@ -3527,6 +3527,45 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O volume da caixa é 12 × 13 × 26 = 4056 cm³ e o da embalagem, 2 × 3 × 11 = 66 cm³, o que põe o teto em 61 — mas esse teto só se alcançaria sem sobra alguma, e 11 não divide nenhuma aresta da caixa. Um arranjo que chega a 60 divide a caixa em duas partes ao longo da aresta de 26: um bloco de 12 × 13 × 22, com a aresta de 11 na vertical em duas camadas, e uma laje de 12 × 13 × 4. Na secção 12 × 13, os retângulos 2 × 3 cabem sem folga, porque 13 = 3 + 3 + 3 + 2 + 2: as três faixas de 12 × 3 levam 6 peças cada e as duas de 12 × 2 levam 4 cada, somando 26 por camada, ou 52 nas duas. Na laje de 4 cm, entram duas camadas de 2 cm com as faces 3 × 11 deitadas, 4 embalagens em cada, mais 8. Total 60, e o 61 do cálculo de volume fica inatingível."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-11",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Considere um cilindro C de altura h > 0 e cujo raio das circunferências do topo e da base é r > 0; um cilindro C₁ cujo raio é igual ao de C e altura igual a h/2; e um cilindro C₂ com altura h e raio igual a r/2. Sejam V, V₁ e V₂ os volumes e A, A₁ e A₂ as áreas laterais dos cilindros C, C₁ e C₂, respectivamente.",
+   "enunciado": "Nessas condições, é correto afirmar:",
+   "alternativas": {
+    "a": "𝑉ൌ𝑉ଵ൅𝑉ଶ e 𝐴ൌ𝐴ଵ൅𝐴ଶ",
+    "b": "𝑉ൌ𝑉ଵ൅𝑉ଶ e 𝐴ൌ𝐴ଵ൅2𝐴ଶ",
+    "c": "𝑉ൌ𝑉ଵ൅2𝑉ଶ e 𝐴ൌ𝐴ଵ൅2𝐴ଶ",
+    "d": "𝑉ൌ𝑉ଵ൅2𝑉ଶ e 𝐴ൌ𝐴ଵ൅𝐴ଶ",
+    "e": "𝑉ൌ2𝑉ଵ൅2𝑉ଶ e 𝐴ൌ2𝐴ଵ൅2𝐴ଶ"
+   },
+   "resposta": "d",
+   "explicacao": "Volume: V = πr²h; V₁ = πr²(h/2) = V/2, porque só a altura caiu pela metade; V₂ = π(r/2)²h = V/4, porque o raio entra ao quadrado. Assim V₁ + 2V₂ = V/2 + V/2 = V. Área lateral: A = 2πrh; A₁ = 2πr(h/2) = A/2; A₂ = 2π(r/2)h = A/2, porque aqui o raio entra na primeira potência. Logo A₁ + A₂ = A. É a assimetria entre as duas fórmulas que separa a resposta das demais: quem trata volume e área do mesmo modo cai em A, C ou E."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "fuvest-matematica-12",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Em relação ao plano cartesiano Oxy, é correto afirmar que as equações x² + y² − 4x = −3 e x² + y² − 4y = −3 representam",
+   "alternativas": {
+    "a": "duas circunferências com raios de mesma medida e que se interceptam em dois pontos.",
+    "b": "duas circunferências com raios de medidas diferentes e que se interceptam em dois pontos.",
+    "c": "duas circunferências que se interceptam em um único ponto.",
+    "d": "duas circunferências concêntricas e que não se interceptam.",
+    "e": "duas circunferências com centros distintos e que não se interceptam."
+   },
+   "resposta": "e",
+   "explicacao": "Completando quadrados: x² − 4x + y² = −3 vira (x − 2)² + y² = 1, circunferência de centro (2, 0) e raio 1; e x² + y² − 4y = −3 vira x² + (y − 2)² = 1, centro (0, 2) e raio 1. Os raios são iguais e os centros, distintos. A distância entre eles é √(2² + 2²) = 2√2 ≈ 2,83, maior que a soma dos raios, que é 2 — as circunferências são externas uma à outra e não se tocam. Isso descarta a interseção em dois pontos (A e B), a tangência (C) e a concentricidade (D), que exigiria o mesmo centro."
   }
  ],
  "matematica-financeira": [
@@ -11138,6 +11177,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O custo é 2·20·L + 2·15·C = 6 000, que simplifica para 4L + 3C = 600. Isolando C = (600 − 4L)/3, a área fica A(L) = L·(600 − 4L)/3, uma parábola com concavidade para baixo cujo máximo está no vértice: L = 600/8 = 75 m. Daí C = (600 − 300)/3 = 100 m. O maior lado mede 100 m. O atalho vale a pena guardar: numa soma do tipo 4L + 3C fixa, o produto L·C é máximo quando as duas parcelas se igualam, isto é, 4L = 3C = 300."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "fuvest-matematica-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "A construção de uma rampa que seja acessível a usuários de cadeira de rodas deve seguir a norma ABNT NBR 9050, que regulamenta a inclinação admissível conforme o desnível máximo de cada segmento:\n\nDesnível h (em m) — inclinação i admissível (em %)\n1 < h ≤ 1,5 — i ≤ 5\n0,8 < h ≤ 1 — 5 < i ≤ 6,25\n0 < h ≤ 0,8 — 6,25 < i ≤ 8,33\n\nA inclinação i da rampa em porcentagem é calculada dividindo a altura h do desnível do segmento, em metros, pelo comprimento da projeção horizontal c, em metros, e multiplicando o resultado por 100. Determinada rampa de dois segmentos foi construída da seguinte maneira:\n- o primeiro segmento possui projeção horizontal de 10 m e inclinação de 6%;\n- o segundo segmento possui projeção horizontal de 7 m e desnível de 0,5 m.",
+   "enunciado": "Com base no que foi apresentado sobre a normativa, o que é correto afirmar sobre a adequação dessa rampa à norma de acessibilidade?",
+   "alternativas": {
+    "a": "A rampa não está adequada, pois os dois segmentos não estão de acordo com a norma.",
+    "b": "A rampa está adequada, pois os dois segmentos estão de acordo com a norma.",
+    "c": "A rampa não está adequada, pois o primeiro segmento não está de acordo com a norma.",
+    "d": "A rampa não está adequada, pois o segundo segmento não está de acordo com a norma.",
+    "e": "A rampa está adequada, pois, apesar de o segundo segmento não estar de acordo com a norma, o primeiro está."
+   },
+   "resposta": "c",
+   "explicacao": "Primeiro segmento: i = 6%, e de i = 100h/c vem h = 6 × 10 ÷ 100 = 0,6 m. Um desnível de 0,6 m cai na faixa 0 < h ≤ 0,8, que exige inclinação entre 6,25% e 8,33% — e 6% fica abaixo disso. Fora da norma. Segundo segmento: h = 0,5 m e c = 7 m dão i = 100 × 0,5 ÷ 7 ≈ 7,14%, que pertence à faixa 6,25 < i ≤ 8,33, cujo desnível admissível vai até 0,8 m; 0,5 m cabe. Dentro da norma. Logo a rampa é inadequada por causa do primeiro segmento, e não do segundo (D) nem de ambos (A)."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "fuvest-matematica-9",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "As enchentes ocorridas no Rio Grande do Sul, em maio de 2024, prejudicaram a infraestrutura de comunicação. A população afetada era informada sobre as notícias ao sintonizar, por rádio de pilhas, frequências de onda AM, cujo alcance é maior. Uma onda AM é modelada matematicamente por equações que envolvem a função cosseno, cuja variável independente é o tempo t, que aparece multiplicado pela frequência f da onda. Como exemplo, pode-se considerar a equação referente ao processo de modulação de uma onda AM: s(t) = A·[1 + k·m(t)]·cos(2π·f·t), em que A é a amplitude, f a frequência, k a constante de sensibilidade à amplitude e m(t) o sinal que contém a informação.",
+   "enunciado": "Quando a frequência f é multiplicada por 3, o comprimento da onda sofre alteração. Por causa dessa multiplicação, qual transformação ocorre no gráfico da função cosseno original?",
+   "alternativas": {
+    "a": "Expansão vertical.",
+    "b": "Translação horizontal.",
+    "c": "Expansão horizontal.",
+    "d": "Contração horizontal.",
+    "e": "Contração vertical."
+   },
+   "resposta": "d",
+   "explicacao": "Multiplicar a frequência por 3 transforma cos(2πft) em cos(2π·3f·t) = cos(3·2πft): é a substituição de x por 3x dentro do cosseno. Multiplicar a variável independente por um número maior que 1 comprime o gráfico em direção ao eixo vertical — o período cai a um terço e a curva completa três ciclos onde antes completava um. É contração horizontal, coerente com o comprimento de onda diminuir. Expansão horizontal (C) seria multiplicar t por um fator entre 0 e 1; expansão e contração verticais (A e E) viriam de mexer na amplitude A, fora do argumento; e translação horizontal (B) exigiria somar uma constante a t, não multiplicá-la."
   }
  ],
  "matematica-probabilidade": [
@@ -13512,6 +13591,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Ordenando a lista como a₁ ≤ a₂ ≤ a₃ ≤ a₄ ≤ a₅, cada condição fixa uma coisa: mediana 23 dá a₃ = 23; amplitude 23 dá a₅ = a₁ + 23; média 23 dá soma 115, o que, substituído, deixa 2a₁ + a₂ + a₄ = 69. A moda é a condição decisiva: para 23 ser moda ele precisa repetir, e como a₁ e a₅ diferem entre si em 23, a repetição só pode vir de a₂ = 23 ou a₄ = 23. Se a₂ = 23, então a₄ = 46 − 2a₁, e as desigualdades a₁ ≤ 23 ≤ a₄ ≤ a₁ + 23 restringem a₁ a 8, 9, 10 e 11. Se a₄ = 23, então a₂ = 46 − 2a₁, e as mesmas desigualdades restringem a₁ a 12, 13, 14 e 15. Os dois casos não se sobrepõem, porque teriam de valer a₁ = 11,5. São quatro listas de cada lado, oito ao todo — por exemplo (8, 23, 23, 30, 31) e (15, 16, 23, 23, 38). Contagens maiores admitem listas de valores todos distintos, que não têm moda alguma."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "fuvest-matematica-8",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Considere que a expectativa de vida no Brasil à idade de 19 anos pode ser calculada, de forma aproximada, como a média aritmética simples entre a expectativa de vida estimada à mesma idade dos homens e das mulheres. O mesmo pode ser feito à idade de 20 anos. Segundo dados do IBGE, em 2022, a expectativa de vida estimada no Brasil à idade de 19 anos era 58, e a expectativa de vida estimada dos homens à mesma idade era 54,7. Sabe-se que a diferença entre a expectativa de vida estimada dos homens e a das mulheres se manteve à idade de 20 anos e que a expectativa de vida estimada dos homens a essa idade (EVH20) era 53,8.",
+   "enunciado": "Com base nos dados apresentados, assinale a alternativa que apresenta a expectativa de vida estimada das mulheres à idade de 19 anos (EVM19) e a expectativa de vida estimada à idade de 20 anos no Brasil (EVB20) em 2022. EVM19 EVB20",
+   "alternativas": {
+    "a": "54,7 54,7",
+    "b": "54,7 58",
+    "c": "60 54",
+    "d": "61,3 56",
+    "e": "61,3 57,1"
+   },
+   "resposta": "e",
+   "explicacao": "A expectativa aos 19 anos é a média entre homens e mulheres: 58 = (54,7 + EVM19) ÷ 2, então EVM19 = 116 − 54,7 = 61,3. A diferença entre os sexos é 61,3 − 54,7 = 6,6 anos, e o enunciado diz que ela se mantém aos 20 — logo EVM20 = 53,8 + 6,6 = 60,4. A expectativa geral aos 20 é a média desses dois: (53,8 + 60,4) ÷ 2 = 114,2 ÷ 2 = 57,1. As demais alternativas erram um dos dois passos: repetem 54,7 ou 58 como se nada mudasse, ou arredondam para 60 e 56 sem preservar a diferença de 6,6 anos."
   }
  ],
  "matematica-sequencias": [
@@ -14816,6 +14915,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O n-ésimo triangular é n(n+1)/2 e o n-ésimo oblongo é n(n+1) — o oblongo é o dobro do triangular de mesma ordem. Para 210: 20 × 21 ÷ 2 = 210, logo é o 20º triangular; e 14 × 15 = 210, logo é o 14º oblongo. A alternativa A erra porque o 15º triangular é 15 × 16 ÷ 2 = 120, não 162; B erra duas vezes, pois o 13º triangular é 91 = 7 × 13, que não é primo, e todo oblongo n(n+1) é produto de dois inteiros consecutivos e portanto par; C erra porque 156 = 12 × 13 é oblongo; e E erra porque a diferença entre triangulares consecutivos é n+1, que forma progressão aritmética, não geométrica."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "fuvest-matematica-10",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Seja (aₙ) uma progressão aritmética cujo primeiro termo é a₁ e a razão é r, ambos números reais. É possível construir uma outra sequência (bₙ), em que o primeiro termo é um número real b₁, com a seguinte lei de formação: bₙ₊₁ = bₙ + aₙ, sendo n > 0 um número natural. Por exemplo, se b₁ = 0 e (aₙ) = (1, 3, 5, 7, 9, 11, …), tem-se (bₙ) = (0, 1, 4, 9, 16, 25, …).",
+   "enunciado": "Com base em tais informações, os valores de a₁ e r foram escolhidos de forma que (bₙ) também seja uma progressão aritmética de razão r′. Nessas condições, é correto afirmar:",
+   "alternativas": {
+    "a": "𝑟′ ൌ𝑎ଵ",
+    "b": "𝑟′ ൌ2𝑎ଵ",
+    "c": "𝑟′ ൌ𝑟",
+    "d": "𝑟′ ൌ2𝑟",
+    "e": "𝑟ᇱൌ𝑏ଵെ𝑎ଵ"
+   },
+   "resposta": "a",
+   "explicacao": "Pela lei de formação, a diferença entre dois termos consecutivos de (bₙ) é bₙ₊₁ − bₙ = aₙ. Para que (bₙ) seja progressão aritmética, essa diferença tem de ser constante, ou seja, aₙ precisa valer o mesmo para todo n — o que só acontece se a razão r de (aₙ) for zero. Nesse caso aₙ = a₁ para todo n, e a razão de (bₙ) é r′ = a₁. As alternativas B e D dobram esse valor sem motivo; C iguala r′ a r, que vale zero e só serviria se a₁ também fosse zero; e E envolve b₁, que fixa apenas onde a sequência começa e não influi na razão."
   }
  ],
  "matematica-logica-conjuntos": [
@@ -20359,6 +20478,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Partindo do repouso no alto da bacia, toda a energia potencial gravitacional vira cinética no ponto mais baixo, se não houver perdas: mgh = mv²/2, e a massa se cancela. Logo v = √(2gh) = √(2 × 10 × 2,45) = √49 = 7 m/s. Os valores 5 e 9 m/s corresponderiam a profundidades de 1,25 m e 4,05 m, e 3 e 11 m/s ficam ainda mais longe — nenhum deles sai dos 2,45 m dados."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "fuvest-fisica-9",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "WASSENBERGH, Sam Van; MIELKE, Maia. Physics Today, vol. 77 (2024) (Adaptado). Em um estudo relatado no periódico Physics Today, cientistas belgas mostraram que os pica-paus não dispõem de mecanismos de absorção de choques em seus ossos do crânio, ao contrário do que se acreditava anteriormente. Nos experimentos realizados, verificou-se que o cérebro de um pica-pau pode experimentar desacelerações instantâneas de até 400 𝑔, sendo 𝑔 o módulo da aceleração da gravidade.\n\nNote e adote: Aceleração da gravidade: g = 10 m/s².",
+   "enunciado": "Suponha que, durante uma batida em um tronco de árvore, o crânio do pica-pau, suposto perfeitamente rígido, sofra uma desaceleração constante de 200 𝑔 ao longo de um tempo de 2,0 milissegundos. Qual é a distância percorrida pelo crânio do pica-pau durante esse tempo, até atingir momentaneamente o repouso?",
+   "alternativas": {
+    "a": "2,0 mm",
+    "b": "4,0 mm",
+    "c": "8,0 mm",
+    "d": "16 mm",
+    "e": "32 mm"
+   },
+   "resposta": "b",
+   "explicacao": "Com desaceleração constante a = 200g = 2000 m/s² durante t = 2,0 × 10⁻³ s até parar, a distância é d = a·t²/2 = 2000 × (2,0 × 10⁻³)² ÷ 2 = 2000 × 4,0 × 10⁻⁶ ÷ 2 = 4,0 × 10⁻³ m, ou 4,0 mm. Dá no mesmo pela velocidade inicial: v₀ = a·t = 4,0 m/s e d = v₀²/(2a) = 16 ÷ 4000 = 4,0 mm. O valor 8,0 mm sai de esquecer a divisão por dois, e 2,0 mm de usar a desaceleração de 400 g citada no texto como limite, que não é a do enunciado."
+  },
+  {
+   "subtema": "fisica-mecanica",
+   "id": "fuvest-fisica-10",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Os versos a seguir pertencem à canção Fall on Me, da banda norte-americana R.E.M., lançada em 1986. “There's a problem, feathers, iron Bargain buildings, weights and pulleys Feathers hit the ground before the weight can leave the air” Bill Berry, Peter Buck, Mike Mills e Michael Stipe.",
+   "enunciado": "A qual episódio (real ou hipotético) da história da física o trecho da música faz alusão?",
+   "alternativas": {
+    "a": "À queda de uma maçã, que teria inspirado Newton à descoberta da gravitação universal.",
+    "b": "À observação de um pássaro em voo, que teria levado Einstein a formular a teoria da relatividade.",
+    "c": "Aos experimentos com objetos de massas diferentes, que teriam indicado a Galileu os princípios da queda livre.",
+    "d": "Ao transbordamento da água em uma banheira, que teria sugerido a Arquimedes o conceito de empuxo.",
+    "e": "À queda de um bloco de ferro ligado a uma hélice, que teria levado Joule à equivalência entre calor e energia."
+   },
+   "resposta": "c",
+   "explicacao": "\"Feathers, iron... feathers hit the ground before the weight can leave the air\" evoca o experimento atribuído a Galileu na torre de Pisa, em que corpos de massas diferentes soltos da mesma altura chegam juntos ao chão — no vácuo, penas e ferro caem com a mesma aceleração. A canção brinca com a versão em que a pena chega antes, invertendo a intuição aristotélica. A maçã (A) é de Newton e trata da gravitação universal, não da queda livre comparada; o pássaro (B) não pertence à lenda de Einstein; a banheira (D) é de Arquimedes e do empuxo; e o bloco ligado a uma hélice (E) é o experimento de Joule sobre o equivalente mecânico do calor."
   }
  ],
  "fisica-termologia": [
@@ -23322,6 +23481,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O nível mínimo aceitável é 45 + 5 = 50 dB, isto é, 10 dB abaixo dos 60 dB medidos a 1 m. Uma queda de 10 dB corresponde a dividir a intensidade por 10. Como a intensidade de uma fonte pontual cai com o quadrado da distância, dividir a intensidade por 10 exige multiplicar a distância por √10 ≈ 3,16. Partindo de 1 m, chega-se a cerca de 3,2 m — o valor mais próximo é 3,0 m. Quem trata a queda do nível sonoro como linear na distância cai nas alternativas maiores."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "fuvest-fisica-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Uma das possíveis tecnologias para a produção de telas sensíveis ao toque aproveita a reflexão interna total da luz. Esse tipo de reflexão ocorre quando um raio luminoso viaja do interior de um meio 1, com índice de refração n₁, em direção a um meio 2, com índice de refração n₂, formando com a direção perpendicular à interface entre os meios um ângulo θ maior do que um certo valor limite θL, tal que sen θL = n₂/n₁. Quando um objeto (como um dedo) se aproxima da interface entre os meios, a reflexão total não ocorre, o que é captado por sensores, revelando a posição do objeto. A tabela indica os índices de refração de alguns materiais candidatos à utilização no meio 1.\n\nMaterial — índice de refração n₁\nA — 1,0002\nB — 1,0003\nC — 1,1503\nD — 1,3204\nE — 1,4889",
+   "enunciado": "Tratando o meio 2 sempre como tendo índice de refração n₂ = 1,0003, o material que permite o maior intervalo de ângulos de incidência que produzem reflexão total é:",
+   "alternativas": {
+    "a": "Material A.",
+    "b": "Material B.",
+    "c": "Material C.",
+    "d": "Material D.",
+    "e": "Material E."
+   },
+   "resposta": "e",
+   "explicacao": "A reflexão total acontece para todo θ acima de θL, logo o intervalo útil vai de θL a 90° e é tanto maior quanto menor for θL. Como sen θL = n₂/n₁, com n₂ fixo, θL diminui quando n₁ aumenta: o melhor material é o de maior índice, 1,4889. Nos extremos opostos a conta se desfaz — o material A tem n₁ menor que n₂ e não produz reflexão total alguma, e o B tem n₁ igual a n₂, o que dá sen θL = 1 e θL = 90°, um intervalo nulo. C e D funcionam, mas com ângulo limite maior que o de E."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "fuvest-fisica-8",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "O fenômeno físico conhecido como iridescência ocorre nas asas de certas espécies de borboletas e caracteriza-se pela variação das cores de acordo com o ângulo de observação. A existência de faixas coloridas na superfície das asas das borboletas ocorre devido a diferentes formas de superposição entre raios luminosos refletidos por uma fina camada de substância transparente existente na superfície das asas. Disponível em https://www.pbs.org/wgbh/.",
+   "enunciado": "Os fenômenos físicos diretamente relacionados com a iridescência são",
+   "alternativas": {
+    "a": "dilatação e reflexão.",
+    "b": "interferência e dilatação.",
+    "c": "dissipação e difração.",
+    "d": "convecção e dispersão.",
+    "e": "reflexão e interferência."
+   },
+   "resposta": "e",
+   "explicacao": "A luz que chega à asa é refletida duas vezes — na face superior e na face inferior da película transparente — e os dois raios voltam com uma diferença de caminho que depende da espessura e do ângulo de observação. Ao se superporem, interferem: para cada ângulo, um comprimento de onda sofre interferência construtiva e é o que se vê. Reflexão e interferência, portanto. Dilatação (A e B) é efeito térmico sobre dimensões; dissipação (C) é perda de energia; e convecção (D) é transporte de calor em fluido — nenhuma dessas tem papel na cor estrutural."
   }
  ],
  "fisica-eletromagnetismo": [
@@ -24769,6 +24968,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O segundo texto dá os dois números: 66 mil nT nos polos e 22 mil nT na faixa que vai da África à América do Sul — a Anomalia Magnética do Atlântico Sul. O campo sobre o Brasil vale, portanto, cerca de um terço do valor polar. A alternativa A propõe variação menor que 10⁻⁶ T ao longo do Equador, quando a diferença citada é de dezenas de milhares de nanoteslas, ou seja, da ordem de 10⁻⁵ T; B afirma módulo constante ao longo de um meridiano, o que a própria anomalia desmente; C chama o campo de uniforme, e campo de dipolo não é uniforme; e E o atribui a cargas estáticas, quando o primeiro texto o explica pelo movimento do ferro líquido — corrente elétrica, não eletrostática."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "fuvest-fisica-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Considere o texto a seguir. The Event Horizon Telescope Collaboration. “Com observações feitas pela primeira vez em luz polarizada, a nova imagem do buraco negro que se esconde no coração da Via Láctea revelou um campo magnético com uma estrutura muito semelhante à de outro buraco negro situado no centro da galáxia M87, sugerindo que campos magnéticos intensos podem ser comuns a todos os buracos negros. A luz é uma onda eletromagnética que nos permite ver objetos. Por vezes, os campos elétrico e magnético associados à onda oscilam em direções preferenciais, definindo o que chamamos de luz polarizada. Apesar de estarmos rodeados por luz polarizada, aos olhos humanos essa luz é indistinguível da luz dita ‘normal’. No plasma que rodeia estes buracos negros, as partículas que giram em torno das linhas de campo magnético conferem-lhe um padrão de polarização com orientação na direção perpendicular ao campo magnético do buraco negro, o que permite aos astrônomos ver com muitos detalhes o que se passa nas regiões dos buracos negros e mapear as suas linhas de campo magnético.” “Astrônomos descobrem campos magnéticos em espiral nas bordas de buraco negro da Via Láctea”, Jornal da USP 29/03/2024. Disponível em https://jornal.usp.br/ciencias/ (Adaptado).",
+   "enunciado": "Com base no texto e em seus conhecimentos, é correto afirmar:",
+   "alternativas": {
+    "a": "A medida do padrão de polarização da luz mencionada no texto permite somente o mapeamento das linhas de campos magnéticos na direção paralela à direção da polarização.",
+    "b": "O olho humano pode discriminar as diferentes direções da luz polarizada dos buracos negros, mapeando suas linhas de campo.",
+    "c": "Campos magnéticos como os mencionados no texto são criados apenas por cargas elétricas em repouso no plasma que rodeia os buracos negros.",
+    "d": "O plasma é formado por partículas eletricamente carregadas, dado que essas partículas exibem um movimento circular perpendicular à direção do campo magnético.",
+    "e": "O processo de mapeamento das linhas de campo magnético mencionado no texto pode ser realizado por meio da detecção de qualquer tipo de onda eletromagnética gerada em buracos negros."
+   },
+   "resposta": "d",
+   "explicacao": "O texto diz que no plasma as partículas giram em torno das linhas de campo magnético. Só carga elétrica em movimento sofre força magnética, e essa força, sempre perpendicular à velocidade, é o que curva a trajetória em círculo em torno da linha de campo — logo o plasma é feito de partículas carregadas. A alternativa A restringe o mapeamento à direção paralela à polarização, quando o texto diz que o padrão é perpendicular ao campo; B afirma que o olho humano distingue a luz polarizada, e o texto diz o contrário; C atribui o campo a cargas em repouso, que não geram campo magnético; e E estende o método a qualquer onda eletromagnética, quando o que se usa é luz polarizada."
   }
  ],
  "fisica-hidrostatica": [
@@ -25908,6 +26127,26 @@ window.QUESTION_BANKS = {
    "explicacao": "O volume de líquido empurrado é o mesmo dos dois lados: 5,0 × 20 = 100 × h, e h = 1,0 cm. A prensa multiplica a força na mesma proporção em que reduz o percurso. Um fluido em equilíbrio transmite integralmente a pressão exercida sobre ele, e a densidade do líquido define a escala da pressão hidrostática de cada coluna.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "fisica-hidrostatica",
+   "id": "fuvest-fisica-12",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Um artigo publicado em 2018, na Revista Brasileira de Ensino de Física, reporta um curioso estudo sobre a pressão interna de “foguetes de garrafa PET”, propulsionados a partir da reação química entre ácido acético e bicarbonato de sódio.[1] Uma mistura de vinagre (que contém ácido acético, CH3COOH) com bicarbonato de sódio (NaHCO3) produz gás carbônico (CO2) por meio da reação química representada pela seguinte equação: CH3COOH + NaHCO3 → CH3COONa + CO2 + H2O A reação ocorre no interior de uma garrafa PET de 2 L de volume útil total, da qual foi retirado todo o ar. Insere-se na garrafa um volume inicial Vvin de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manômetro. A reação produzirá gás carbônico que ocupará um volume VCO2 e exercerá uma pressão PCO2 sobre a tampa da garrafa, medida pelo manômetro, como mostra a figura. [1] FONSECA et al, RBEF, vol. 40, nº 3, e3504 (2018). Disponível em http://dx.doi.org/10.1590/1806-9126-RBEF- 2017-0340.\n\nNote e adote: Assuma que a pressão atmosférica seja de 1 atm = 10⁵ Pa. Utilize π = 3. Considere que as forças relevantes atuando sobre a rolha no momento em que é expelida são apenas aquelas relativas à diferença de pressão entre os seus lados interno e externo.",
+   "enunciado": "Considere agora um outro experimento feito em condições semelhantes, em que o manômetro indica uma pressão de 5 atm e, sem que a pressão no interior da garrafa se altere, ele é cuidadosamente substituído por uma rolha de 10 g de massa e 2 cm de diâmetro (igual ao diâmetro interno do bocal da garrafa). Logo após a rolha ser encaixada no local, ela é expelida devido à pressão interna da garrafa ser maior que a pressão atmosférica. A aceleração da rolha no momento em que ela é expelida é de, aproximadamente,",
+   "alternativas": {
+    "a": "12 m/s2.",
+    "b": "120 m/s2.",
+    "c": "1200 m/s2.",
+    "d": "12000 m/s2.",
+    "e": "120000 m/s2."
+   },
+   "resposta": "d",
+   "explicacao": "A rolha é empurrada pela diferença entre a pressão de dentro e a de fora: ΔP = 5 − 1 = 4 atm = 4 × 10⁵ Pa. A área do bocal, de 2 cm de diâmetro, é A = π·r² = 3 × (0,01)² = 3 × 10⁻⁴ m². A força vale F = ΔP·A = 4 × 10⁵ × 3 × 10⁻⁴ = 120 N, e a aceleração, a = F/m = 120 ÷ 0,010 = 12 000 m/s². Os demais valores diferem por potências de dez: 1200 sai de usar a massa em gramas como se fosse quilograma, e 120 de esquecer também a conversão do diâmetro."
   }
  ],
  "fisica-energia-trabalho": [
@@ -27173,6 +27412,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Deformar metal exige trabalho, e esse trabalho vem da energia cinética do veículo. A zona de deformação converte parte dessa energia em deformação plástica e calor, de modo que menos energia sobra para ser dissipada nos ocupantes; de quebra, prolonga o tempo da colisão e reduz a força média sobre eles. A alternativa (c) é a armadilha física: em sistema isolado a quantidade de movimento se conserva sempre, ela não pode ser consumida — quem se dissipa é a energia. A (e) descreve consequência do choque, não da deformação."
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "fuvest-fisica-11",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Um brinquedo bastante comum em parques de diversões, a montanha-russa, utiliza-se da transformação parcial de energia potencial em energia cinética (e vice-versa) como princípio de funcionamento. Uma das montanhas-russas mais famosas do mundo, a Takabisha, cuja pista possui mais de 1 km de extensão, localiza-se no Japão e tem vista para o Monte Fuji. Nela, a subida inicial até o ponto mais alto, situado a uma altura aproximada de 50 m do solo, é feita sob ângulo de aproximadamente 90 graus, seguida de uma descida vertiginosa, cuja velocidade, no ponto mais baixo desse trecho, atinge cerca de 30 m/s em poucos segundos. Montanha-russa Takabisha.\n\nNote e adote: Aceleração da gravidade: g = 10 m/s².",
+   "enunciado": "Considerando um carrinho ocupado com massa total de 300 kg em repouso na posição de altura máxima, a energia mecânica perdida durante a descida inicial é, aproximadamente,",
+   "alternativas": {
+    "a": "1200 J.",
+    "b": "2500 J.",
+    "c": "5000 J.",
+    "d": "15000 J.",
+    "e": "20000 J."
+   },
+   "resposta": "d",
+   "explicacao": "No alto, a energia é toda potencial: Ep = mgh = 300 × 10 × 50 = 150 000 J. Embaixo, é toda cinética: Ec = m·v²/2 = 300 × 30² ÷ 2 = 135 000 J. A diferença, 15 000 J, foi dissipada por atrito e resistência do ar. Os valores menores das outras alternativas correspondem a frações que não saem dessa subtração, e 20 000 J suporia uma velocidade final abaixo dos 30 m/s dados."
   }
  ],
  "fisica-moderna": [
@@ -28384,6 +28643,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Compton fez raios X colidirem com elétrons de alvos leves e mediu o desvio no comprimento de onda da radiação espalhada — resultado que só se explica tratando o raio X como um feixe de partículas que troca momento na colisão. É a evidência do comportamento corpuscular. A alternativa A descarta metade da dualidade ao deixar só a onda; C contraria E = hf = hc/λ, que amarra a energia do fóton ao comprimento de onda; D diz que a hipótese corpuscular contraria os experimentos, quando foram eles que a confirmaram; e E põe Einstein negando a difração e a interferência, que continuam válidas — as duas descrições coexistem."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "fuvest-fisica-5",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "O efeito Compton, descoberto na década de 1920, é hoje amplamente utilizado durante tratamentos radioterápicos. O efeito relaciona-se à mudança no comprimento de onda de fótons de raios X quando interagem com partículas como elétrons ou prótons. Quando um fóton com comprimento de onda λ₀ incide sobre uma partícula, ele emerge dessa interação formando um ângulo θ com sua direção inicial de movimento, e seu novo comprimento de onda λ′ é dado pela relação λ′ = λ₀ + (α/m)·(1 − cos θ), em que α é uma constante positiva e m é a massa da partícula.",
+   "enunciado": "Com base nessas informações e em seus conhecimentos sobre a propagação das ondas eletromagnéticas, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "A maior variação no comprimento de onda do fóton ocorre quando o ângulo 𝜃 é igual a 90°.",
+    "b": "Se o ângulo 𝜃 é igual a 30°, o fóton emergente tem frequência menor do que a frequência inicial.",
+    "c": "Quando 𝜃 = 0, a velocidade do fóton emergente é menor do que a do fóton incidente, devido à conservação da quantidade de movimento.",
+    "d": "Se o ângulo 𝜃 é igual a 60°, a variação no comprimento de onda do fóton é menor se a partícula for um elétron do que se a partícula for um próton.",
+    "e": "Um fóton que emergiu perpendicularmente à sua direção inicial não sofreu mudança em sua frequência."
+   },
+   "resposta": "b",
+   "explicacao": "Para qualquer θ diferente de zero, (1 − cos θ) é positivo e λ′ > λ₀. Comprimento de onda maior significa frequência menor, já que c = λf e a velocidade da luz não muda — é o que ocorre em θ = 30°. A alternativa A põe o máximo em 90°, quando (1 − cos θ) cresce até 180°; C afirma que a velocidade do fóton diminui, e ela é sempre c; D compara elétron e próton esquecendo que a variação é inversamente proporcional a m, e o elétron, muito mais leve, produz variação maior; e E diz que a 90° não há mudança de frequência, quando (1 − cos 90°) = 1 e a variação é justamente α/m."
   }
  ],
  "quimica-eletroquimica": [
@@ -31246,6 +31525,45 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O enunciado dá a regra: quanto menor a diferença de eletronegatividade, menos polar a ligação e menos reativa ela é. Carbono e hidrogênio já são próximos, e fósforo e hidrogênio são ainda mais — o fósforo está um período abaixo do nitrogênio e a eletronegatividade cai ao descer o grupo, de modo que P e H praticamente empatam e a ligação P-H é quase apolar. Nas outras quatro há sempre um elemento fortemente eletronegativo do lado direito da tabela (N, F, O, Cl) puxando o par de elétrons, o que aumenta a polaridade e, com ela, a reatividade."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fuvest-quimica-9",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "enunciado": "Sobre os modelos atômicos propostos por Dalton (1803), Thomson, Rutherford e Bohr (1913), é correto afirmar:",
+   "alternativas": {
+    "a": "Todos os modelos previram a presença de cargas positivas no núcleo atômico.",
+    "b": "O modelo proposto por Thomson, por prever a existência de nêutrons, não poderia explicar a radiação alfa (α).",
+    "c": "Diferentemente do modelo de Dalton, o modelo de Rutherford não explica a estrutura de cátions e ânions.",
+    "d": "Apenas o modelo de Bohr, com o advento de balanças de precisão, considerou a diferença de massa entre os elementos.",
+    "e": "Elementos radioativos não poderiam ser explicados pelo modelo proposto por Dalton."
+   },
+   "resposta": "e",
+   "explicacao": "Para Dalton o átomo era maciço, indivisível e imutável — um elemento não podia se transformar em outro. A radioatividade faz exatamente isso: o núcleo se desintegra e emite partículas, transmutando o elemento. Nenhum átomo indivisível explica isso. A alternativa A atribui núcleo positivo a todos os modelos, quando Dalton e Thomson não têm núcleo; B diz que Thomson previa nêutrons, descobertos só em 1932 por Chadwick; C afirma que Rutherford não explica cátions e ânions, sendo ele quem separa carga nuclear de elétrons e permite explicá-los; e D dá a Bohr o mérito de considerar a diferença de massa entre elementos, que é de Dalton."
+  },
+  {
+   "subtema": "quimica-atomistica-ligacoes",
+   "id": "fuvest-quimica-10",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons Li+ penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons Li+ intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon- sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta.\n\nNote e adote: Distribuição eletrônica: Li = 1s², 2s¹; Na = 1s², 2s², 2p⁶, 3s¹. Massa atômica (u): Li = 7; Na = 23.",
+   "enunciado": "Considerando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado (Na+ ou Li+) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é",
+   "alternativas": {
+    "a": "maior do que de uma bateria íon-Li, pois o Na+ tem maior massa e menor raio iônico do que o Li+.",
+    "b": "menor do que de uma bateria íon-Li, pois o Na+ tem maior massa e maior raio iônico do que o Li+.",
+    "c": "maior do que de uma bateria íon-Li, pois o Na+ tem menor massa e maior raio iônico do que o Li+.",
+    "d": "menor do que de uma bateria íon-Li, pois o Na+ tem menor massa e menor raio iônico do que o Li+.",
+    "e": "igual à de uma bateria íon-Li, pois ambos os íons são monovalentes."
+   },
+   "resposta": "b",
+   "explicacao": "O sódio está um período abaixo do lítio: tem uma camada eletrônica a mais, logo raio iônico maior, e massa atômica 23 contra 7. Como a energia armazenada é proporcional ao número de íons intercalados e esse número é limitado pelo espaço disponível, um íon maior cabe em menor quantidade no mesmo volume; e como a densidade de energia é por unidade de massa e volume, o íon mais pesado ainda penaliza o numerador duas vezes. A densidade de energia da bateria de sódio é, portanto, menor. As alternativas A, C e D erram ao inverter massa ou raio, e E supõe que a valência igual basta, ignorando o tamanho e a massa."
   }
  ],
  "quimica-equilibrio-acido-base": [
@@ -32591,6 +32909,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "O H+ aparece como reagente da desmineralização. Pelo princípio de Le Chatelier, quanto maior a concentração de H+, mais o equilíbrio se desloca no sentido de consumir a hidroxiapatita — e maior concentração de H+ significa menor pH. Basta então procurar o creme mais ácido da lista: o IV, de pH 6,9, único abaixo da neutralidade. Os cremes I e II, francamente básicos, fazem o oposto e favorecem a mineralização; III e V, ligeiramente básicos, também protegem o esmalte."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "fuvest-quimica-14",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A toxicidade do Pb e o risco de sua ingestão ganharam notoriedade na mídia devido à presença desse elemento em copos térmicos amplamente comercializados. A exposição ao Pb, no entanto, pode ocorrer também por fontes naturais, como a ingestão de água em contato prolongado com minérios como a anglesita, rico em PbSO4 (Kps = 1,0 × 10ꟷ8).\n\nNote e adote: Massa molar (g/mol): Pb = 207.",
+   "enunciado": "Sabendo que a legislação estabelece a concentração máxima de Pb de 0,01 mg/L para água potável, assinale a alternativa correta em relação à ingestão de água que tenha contato prolongado com a anglesita.",
+   "alternativas": {
+    "a": "Não é segura, pois a concentração de Pb na água será de 2,07×101 mg/L, maior que o valor permitido.",
+    "b": "É segura, pois a concentração de Pb na água será de 1×10ꟷ4 mg/L, menor que o valor permitido.",
+    "c": "Não é segura, pois a concentração de Pb na água será de 1×10ꟷ8 mg/L, menor que o valor permitido.",
+    "d": "É segura, pois a concentração de Pb na água será de 1×10ꟷ2 mg/L, igual ao valor permitido.",
+    "e": "É segura, pois a concentração de Pb na água será de 2,07×10ꟷ6 mg/L, maior que o valor permitido."
+   },
+   "resposta": "a",
+   "explicacao": "A anglesita dissolve como PbSO4 ⇌ Pb²⁺ + SO4²⁻, com Kps = [Pb²⁺][SO4²⁻] = s². De 1,0 × 10⁻⁸ vem s = 1,0 × 10⁻⁴ mol/L. Multiplicando pela massa molar do chumbo: 1,0 × 10⁻⁴ × 207 = 2,07 × 10⁻² g/L, ou seja, 20,7 mg/L — cerca de duas mil vezes o limite legal de 0,01 mg/L. A água não é segura. Os valores das demais alternativas saem de esquecer a raiz quadrada do Kps (C), de não converter mol em massa (B) ou de errar a ordem de grandeza na conversão para miligrama (E, que ainda se contradiz ao chamar de segura uma concentração que diz ser maior que a permitida)."
   }
  ],
  "quimica-organica": [
@@ -34070,6 +34408,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "A definição vitalista, que ligava o orgânico à matéria viva, caiu com a síntese da ureia por Wöhler em 1828, a partir de material inorgânico. Desde então a química organiza esses compostos por critério estrutural: química orgânica é a química dos compostos de carbono. As alternativas (a), (b) e (d) confundem o termo técnico com o sentido comercial de “orgânico” aplicado a alimentos, e a (c) toma o CO2 como origem — e ele próprio, apesar de conter carbono, é classificado como inorgânico."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "fuvest-quimica-12",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "O processo de mumificação usado pelos egípcios começava com a retirada dos órgãos e desidratação do corpo utilizando uma mistura natural, obtida em leito de lagos, de sais solúveis de sódio, como carbonato, hidrogenocarbonato, cloreto e sulfato. Após a desidratação, o corpo era preenchido com uma mistura de serragem e ervas aromáticas como canela, cássia, mirra e até mesmo cebola, que, por conterem álcoois e aldeídos com propriedades antimicrobianas, dificultavam a decomposição do corpo. Por fim, o corpo era envolvido em tecido embebido em resinas insolúveis em água, como betume ou óleo de cedro, que, após seco, formava uma camada impermeabilizante.",
+   "enunciado": "A partir dessas informações, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "Os sais de sódio mencionados, por serem hidrofílicos, repelem a água.",
+    "b": "Propanona e hexano são exemplos de álcoois e aldeídos antimicrobianos.",
+    "c": "Assim como o betume e óleo de cedro, qualquer outro composto orgânico serviria como impermeabilizante.",
+    "d": "Todo sal iônico poderia ser utilizado em substituição aos sais de sódio mencionados.",
+    "e": "A impermeabilidade conferida pelas resinas se deve às suas características apolares ou muito pouco polares."
+   },
+   "resposta": "e",
+   "explicacao": "Betume e óleo de cedro são apolares ou muito pouco polares, e por isso não interagem com a água, que é polar — o revestimento seco funciona como barreira impermeável. É a regra do semelhante dissolve semelhante aplicada ao avesso. A alternativa A diz que os sais hidrofílicos repelem a água, quando hidrofílico significa o contrário; B chama propanona e hexano de álcool e aldeído, sendo cetona e hidrocarboneto; C generaliza para qualquer composto orgânico, e um álcool de cadeia curta seria solúvel em água; e D estende a qualquer sal iônico, ignorando que o processo depende de sais solúveis, capazes de retirar água do tecido."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "fuvest-quimica-16",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A reação do antibiótico sulfanilamida com halogênios leva à reação de substituição com o halogênio em duas posições distintas do anel aromático, como representado na equação não balanceada a seguir.",
+   "enunciado": "Em um experimento, 1 L de uma solução de sulfanilamida de pH 5 reagiu com Br2 em excesso, obtendo-se pH 4 após reação total. Considerando que o volume se manteve inalterado após a adição do halogênio, quantos mols de sulfanilamida reagiram com bromo?",
+   "alternativas": {
+    "a": "4,5 × 10ꟷ5",
+    "b": "9,0 × 10ꟷ5",
+    "c": "1,0 × 10ꟷ4",
+    "d": "5,0 × 10ꟷ2",
+    "e": "1,0 × 10ꟷ1"
+   },
+   "resposta": "a",
+   "explicacao": "A substituição eletrofílica no anel aromático troca um H por um Br e libera HBr, que em água se ioniza e acidifica o meio. O pH caiu de 5 para 4, ou seja, [H⁺] passou de 1,0 × 10⁻⁵ para 1,0 × 10⁻⁴ mol/L: em 1 litro, foram gerados 9,0 × 10⁻⁵ mol de H⁺. Como cada molécula de sulfanilamida sofre substituição em duas posições distintas, ela libera dois HBr — logo reagiram 9,0 × 10⁻⁵ ÷ 2 = 4,5 × 10⁻⁵ mol. A alternativa B para no total de H⁺ sem dividir por dois; C usa o valor final de [H⁺] sem descontar o inicial; e D e E erram em várias ordens de grandeza."
   }
  ],
  "quimica-solucoes": [
@@ -35498,6 +35876,45 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A concentração dada é de íon sódio, não de sal, e é aí que a questão separa quem lê com cuidado. Em 2 L, ou 2000 mL, há 1,4 × 2000 = 2800 mg = 2,8 g de Na+. Converter sódio em cloreto de sódio exige a razão entre as massas molares: 2,8 × 58,5/23 ≈ 7,1 g de NaCl no total. Como esse sal veio de duas colheres, cada uma traz cerca de 3,6 g. A alternativa (c) captura quem confunde massa de sódio com massa de sal, e a (e) quem esquece de dividir pelas duas colheres."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "fuvest-quimica-11",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "enunciado": "Na zona sul da cidade de São Paulo, há uma esquina formada pelas ruas Cloreto de Sódio e Relíquia do Oceano. A coincidência do encontro dessas ruas chama a atenção, pois o cloreto de sódio",
+   "alternativas": {
+    "a": "praticamente não está presente no oceano, apesar de este ser salgado.",
+    "b": "é insolúvel na água do oceano por apresentar ligação iônica.",
+    "c": "utilizado no Brasil é quase todo proveniente do oceano.",
+    "d": "obtido do oceano apresenta ligação covalente, enquanto o extraído do sal-gema, ligação iônica.",
+    "e": "retirado do oceano tem mais átomos de cloro ligados ao sódio do que o oriundo de outras fontes."
+   },
+   "resposta": "c",
+   "explicacao": "O sal consumido no Brasil vem quase todo das salinas do litoral, sobretudo do Rio Grande do Norte, onde a água do mar é evaporada em tanques — daí a coincidência das duas ruas fazer sentido. A alternativa A nega a presença do NaCl no oceano, que é o que o torna salgado; B chama o sal de insolúvel, quando compostos iônicos como ele se dissolvem bem em água justamente por serem polares; D atribui ligação covalente ao NaCl do mar, sendo iônica em qualquer origem; e E supõe que a proporção entre cloro e sódio mude conforme a fonte, quando a fórmula é sempre a mesma."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "fuvest-quimica-13",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Em países frios, é comum o uso de pequenos aquecedores de mãos, normalmente descartáveis, que podem ser colocados dentro de luvas. Uma alternativa mais sustentável é o aquecedor de mão reutilizável, que é constituído por uma solução aquosa supersaturada de acetato de sódio armazenada em um reservatório maleável, conforme mostrado na figura a seguir. Um choque mecânico nesse reservatório perturba a solução supersaturada e leva à precipitação do sal, resultando no seu aquecimento. Após o uso, o aquecedor pode ser regenerado por imersão em água quente, que dissolve o sal, deixando-o pronto para ser reutilizado.",
+   "enunciado": "Em relação à operação desse aquecedor, é correto afirmar:",
+   "alternativas": {
+    "a": "A precipitação do acetato de sódio é exotérmica e sua solubilização é endotérmica.",
+    "b": "A diminuição da temperatura aumenta a solubilidade do acetato de sódio.",
+    "c": "A solubilização do acetato de sódio para a regeneração do aquecedor libera energia, aquecendo o banho de água.",
+    "d": "Quando o aquecedor é regenerado, a solução interna passa de supersaturada para uma solução diluída.",
+    "e": "A concentração de acetato de sódio na solução dentro do reservatório não muda durante a regeneração do aquecedor."
+   },
+   "resposta": "a",
+   "explicacao": "A dissolução do acetato de sódio absorve calor: é endotérmica, e por isso a regeneração exige imersão em água quente. O processo inverso, a cristalização disparada pelo choque mecânico, devolve essa mesma energia ao ambiente — é exotérmica, e é dela que vem o calor na luva. A alternativa B afirma que baixar a temperatura aumenta a solubilidade, quando é o aquecimento que dissolve mais sal; C faz a solubilização liberar energia e aquecer o banho, invertendo o sinal; D diz que a solução regenerada fica diluída, quando ela volta a ser supersaturada; e E nega mudança de concentração, sendo a dissolução do precipitado justamente o que a altera."
   }
  ],
  "quimica-estequiometria": [
@@ -36757,6 +37174,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Os 49,8 mL de hidrogênio correspondem a 0,0498 L ÷ 24,9 L/mol = 2,0 × 10⁻³ mol de H2. A equação Zn + 2H⁺ → Zn²⁺ + H2 é 1 para 1, então reagiram 2,0 × 10⁻³ mol de zinco. Multiplicando pela massa molar, 2,0 × 10⁻³ × 65,4 = 0,13 g. O valor 0,26 (C) sairia de dobrar a proporção, como se cada mol de zinco desse dois de gás; 0,07 (A) sai de dividi-la pela metade; e 0,29 e 0,48 não correspondem a nenhuma leitura da estequiometria."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "fuvest-quimica-17",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Um artigo publicado em 2018, na Revista Brasileira de Ensino de Física, reporta um curioso estudo sobre a pressão interna de “foguetes de garrafa PET”, propulsionados a partir da reação química entre ácido acético e bicarbonato de sódio.[1] Uma mistura de vinagre (que contém ácido acético, CH3COOH) com bicarbonato de sódio (NaHCO3) produz gás carbônico (CO2) por meio da reação química representada pela seguinte equação: CH3COOH + NaHCO3 → CH3COONa + CO2 + H2O A reação ocorre no interior de uma garrafa PET de 2 L de volume útil total, da qual foi retirado todo o ar. Insere-se na garrafa um volume inicial Vvin de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manômetro. A reação produzirá gás carbônico que ocupará um volume VCO2 e exercerá uma pressão PCO2 sobre a tampa da garrafa, medida pelo manômetro, como mostra a figura. [1] FONSECA et al, RBEF, vol. 40, nº 3, e3504 (2018). Disponível em http://dx.doi.org/10.1590/1806-9126-RBEF- 2017-0340.\n\nNote e adote: Considere o CO2 como um gás ideal. Constante dos gases ideais: R = 0,08 atm·L/(K·mol). Assuma que todo o ácido acético do vinagre reagiu com o bicarbonato de sódio e que o líquido resultante da reação ocupa aproximadamente o mesmo volume do vinagre antes da reação.",
+   "enunciado": "Suponha que a reação produza 2 mols de CO2 para cada 3 litros de vinagre. Nas condições do experimento, em que o volume de líquido é 1/3 de litro à temperatura T = 300 K, a pressão PCO2 medida pelo manômetro será por volta de",
+   "alternativas": {
+    "a": "3,2 atm.",
+    "b": "4,1 atm.",
+    "c": "6,2 atm.",
+    "d": "9,0 atm.",
+    "e": "12 atm."
+   },
+   "resposta": "a",
+   "explicacao": "Com 1/3 de litro de vinagre e a proporção de 2 mol de CO2 para cada 3 litros, formam-se n = 2 × (1/3) ÷ 3 = 2/9 mol de gás. O gás ocupa o que sobra da garrafa: 2 − 1/3 = 5/3 L. Aplicando PV = nRT, P = (2/9 × 0,08 × 300) ÷ (5/3) = (16/3) × (3/5) = 3,2 atm. Os demais valores saem de errar uma das duas grandezas: contar o volume da garrafa inteira como espaço do gás, sem descontar o líquido, ou tomar os 2 mol da proporção como se fossem o total produzido."
   }
  ],
  "quimica-termoquimica-cinetica": [
@@ -38091,6 +38528,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Entre reagentes e produtos, muitas reações passam por estados de transição e intermediários que existem por femtossegundos e desaparecem antes que qualquer técnica lenta os registre. Pulsos de laser de 10⁻¹⁵ s conseguem fotografá-los, e é isso que permite descrever o caminho real da reação, não só as pontas. A alternativa A generaliza dizendo que todos os processos são rapidíssimos, quando muitos são lentos; C faz o tempo de análise depender só da quantidade de produto; D usa a técnica ultrarrápida para estudar processos lentos, que dispensariam essa resolução; e E a emprega para medir pureza de reagentes isolados, que é análise de rotina."
+  },
+  {
+   "subtema": "quimica-termoquimica-cinetica",
+   "id": "fuvest-quimica-15",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "A utilização de matrizes energéticas limpas, tais como aquelas que não aumentam a concentração de CO2(g) na atmosfera, é essencial para evitar a escalada das alterações climáticas causadas pela emissão de gases de efeito estufa. Considere a seguinte proposta para a produção de uma matriz energética limpa:\n\n(I) Capturar o CO2(g) atmosférico utilizando NaOH(aq) para formar Na2CO3(aq).\n(II) Tratar essa solução, na presença de um catalisador, com H2(g) oriundo de fontes renováveis, para gerar CH4(g), um gás combustível.",
+   "enunciado": "Com base nessas informações e em seus conhecimentos, assinale a alternativa correta.",
+   "alternativas": {
+    "a": "O catalisador participa da reação de produção de metano e se decompõe em NaOH.",
+    "b": "A combustão do CH4 não emite CO2, motivo pelo qual a proposta se configura como uma matriz energética limpa.",
+    "c": "A proposta não representa uma matriz energética limpa, pois a combustão completa de 1 mol de CH4 emite mais CO2 do que o que é utilizado para a sua síntese.",
+    "d": "A retirada de CO2 da atmosfera seria maior se a proposta de usar uma matriz energética limpa se resumisse unicamente em utilizar o H2 como combustível.",
+    "e": "Em relação ao ciclo do carbono, a proposta é semelhante ao uso do etanol como combustível veicular."
+   },
+   "resposta": "e",
+   "explicacao": "A proposta fecha um ciclo: o carbono do metano veio da atmosfera na etapa I e volta a ela na queima, sem saldo positivo. É o mesmo raciocínio do etanol de cana, cujo carbono foi fixado pela fotossíntese antes de ser liberado no motor — daí a semelhança. A alternativa A faz o catalisador ser consumido e virar NaOH, quando catalisador se regenera; B afirma que a combustão do metano não emite CO2, e ela emite; C diz que a queima de 1 mol de CH4 libera mais CO2 do que o mol usado na síntese, e a proporção é de um para um; e D supõe que usar só o H2 retiraria mais CO2 da atmosfera, quando sem a etapa I não se retira nenhum."
   }
  ],
  "gramatica-coesao-semantica": [
@@ -39330,6 +39787,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Depois de \"seria o fim\", o texto se desmancha numa sequência de sintagmas encabeçados por \"de todos\" e \"de todas\": grandes amores, pequenos, juras, promessas, desamores, rancores, paixões, vínculos não experimentados — e fecha em \"de todos\". O indefinido é o que faz o texto avançar e, ao mesmo tempo, o que universaliza: se vale para todos, o enredo é um só. Os outros recursos existem no trecho, mas não fazem esse trabalho. O travessão e a conjunção \"mas\" aparecem uma única vez, e um elemento único não sustenta progressão. \"Isso\" retoma a duração dos encontros, um detalhe local. E a substantivação (\"os na-alegria-e-na-tristeza\") é efeito de estilo dentro da enumeração, não o mecanismo que a organiza."
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "fuvest-gramatica-1",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“O que torna possível o surgimento de uma ‘cultura do cancelamento’ é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, seja no campo da publicidade, seja no campo da responsabilidade social da empresa. O conjunto de valores defendidos pelos movimentos sociais que lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento. Sendo assim, a sanção específica realizada pelos agentes do ‘cancelamento’ procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, mas sim impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito ‘cancelado’. Nesse contexto, a ‘cultura do cancelamento’ representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, como inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.” MARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. Extraprensa, v.15, n. esp., p.39, mai.2022 (Adaptado).",
+   "enunciado": "Em relação aos conectivos sublinhados no texto, é correto afirmar:",
+   "alternativas": {
+    "a": "seja...seja evidencia a dúvida das autoras quanto aos campos afetados pelo cancelamento.",
+    "b": "que é utilizado para intensificar o valor dos movimentos sociais na luta pela diversidade.",
+    "c": "sendo assim indica adesão autoral diante das formas de sanção aplicadas pelos agentes do cancelamento.",
+    "d": "mas sim ressalta a diferença entre como se pune na cultura do cancelamento e no direito penal.",
+    "e": "como introduz uma comparação entre distintas ações passíveis de gerar cancelamento."
+   },
+   "resposta": "d",
+   "explicacao": "O trecho opõe duas coisas: a sanção do cancelamento não busca a liberdade do sujeito, como faz o direito penal, nem a reparação indenizatória do direito civil, \"mas sim\" atingir sua trajetória econômica e profissional. O conector marca justamente essa diferença entre os modos de punir. A alternativa A lê dúvida em \"seja...seja\", que é alternância inclusiva e não hesitação; B trata o \"que\" relativo como intensificador; C vê no \"sendo assim\" adesão das autoras, quando ele apenas encadeia conclusão; e E chama de comparação o \"como\", que ali introduz exemplificação."
   }
  ],
  "gramatica-regencia-crase": [
@@ -45204,6 +45681,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "A oração é \"que levavam a trote largo dois fogosos cavalos\". O relativo \"que\" não é o sujeito aqui, e sim o objeto direto, retomando \"um carro elegante\" — quem leva são os cavalos, e o carro é levado. O sujeito, portanto, é \"dois fogosos cavalos\", que está EXPLÍCITO e vem depois do verbo, numa ordem invertida comum na prosa do século XIX. É por isso que o verbo está no plural. A silepse seria concordância com uma ideia subentendida, e aqui não há nada subentendido: o sujeito está escrito. E não há erro nenhum a justificar pela informalidade — o trecho é literário e a construção é padrão."
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "fuvest-gramatica-2",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Da moenda para a célula a combustível: caldo de cana é usado para produzir energia elétrica “Pesquisadores do Instituto de Pesquisas Energéticas e Nucleares (Ipen), órgão associado à USP, testaram o uso de caldo de cana para gerar energia elétrica em células a combustível. O processo dispensa a transformação do caldo in natura em etanol, feita nas usinas de álcool, impedindo a formação de resíduos nocivos ao meio ambiente. Após o êxito dos experimentos em laboratório, os cientistas vão desenvolver a aplicação da técnica em escala industrial. ‘A célula a combustível tem o mesmo princípio de funcionamento de uma pilha. A diferença é que o combustível serve como reagente para ser consumido e gerar eletricidade’, explica o pesquisador do Ipen, Almir Oliveira Neto, que coordenou a pesquisa. ‘No dispositivo que foi desenvolvido na pesquisa, a oxidação do caldo de cana acontece no ânodo e a redução de oxigênio no cátodo. O objetivo do experimento era obter energia da biomassa com o mínimo impacto ambiental possível. Para isso, utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica’, diz o pesquisador. ‘O uso do caldo de cana direto evita a formação de vinhaça, um resíduo ambientalmente perigoso decorrente da produção de etanol, contribuindo, assim, para a preservação do meio ambiente’.” Disponível em https://jornal.usp.br/ciencias/ (Adaptado).",
+   "enunciado": "Ao empregar o pronome se em “utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica”, o pesquisador",
+   "alternativas": {
+    "a": "indetermina o sujeito, tentando mostrar que desconhece a real autoria do experimento.",
+    "b": "valoriza o objeto “caldo de cana”, enfatizando a importância desse produto para o experimento.",
+    "c": "chama a atenção para o verbo transitivo “utilizar”, valorizando a importância de se experimentar diretamente o caldo de cana.",
+    "d": "faz uso da voz passiva, construção em que “caldo de cana” atua como sujeito, deixando de haver menção a quem realizou o experimento.",
+    "e": "escolhe uma construção reflexiva em que “caldo de cana” é, ao mesmo tempo, o agente e o objeto do experimento realizado."
+   },
+   "resposta": "d",
+   "explicacao": "Em \"utilizou-se o caldo de cana\", o se é partícula apassivadora: a frase equivale a \"o caldo de cana foi utilizado\", com o sintagma funcionando como sujeito paciente e o agente ficando de fora. É a voz passiva sintética, recurso típico do texto científico, que põe o procedimento em primeiro plano e apaga quem o executou. A alternativa A confunde com o se índice de indeterminação do sujeito, que só ocorre com verbo intransitivo ou transitivo indireto, e ainda atribui ao pesquisador o desconhecimento da autoria; B e C descrevem efeitos de ênfase sem nomear a estrutura; e E chama de reflexiva uma construção em que o caldo não pratica ação alguma sobre si."
   }
  ],
  "interpretacao-argumentacao": [
@@ -54669,6 +55166,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Antonio Candido parte da constatação de que casa, comida, instrução e saúde já são reconhecidos como direitos de todos, e pergunta se pensamos o mesmo de ler Dostoievski ou ouvir Beethoven. A tese que ele defende é que também esses bens devem ser reivindicados como direito, e não tolerados como privilégio de minorias. A alternativa A afirma justamente o que ele combate; C troca o argumento por uma constatação sobre vítimas; D inverte a direção, pois o texto não fala em minorias privilegiadas que compartilham; e E confunde o objeto: o acesso é o que se reivindica, não um requisito de quem luta."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "fuvest-interpretacao-texto-3",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Da moenda para a célula a combustível: caldo de cana é usado para produzir energia elétrica “Pesquisadores do Instituto de Pesquisas Energéticas e Nucleares (Ipen), órgão associado à USP, testaram o uso de caldo de cana para gerar energia elétrica em células a combustível. O processo dispensa a transformação do caldo in natura em etanol, feita nas usinas de álcool, impedindo a formação de resíduos nocivos ao meio ambiente. Após o êxito dos experimentos em laboratório, os cientistas vão desenvolver a aplicação da técnica em escala industrial. ‘A célula a combustível tem o mesmo princípio de funcionamento de uma pilha. A diferença é que o combustível serve como reagente para ser consumido e gerar eletricidade’, explica o pesquisador do Ipen, Almir Oliveira Neto, que coordenou a pesquisa. ‘No dispositivo que foi desenvolvido na pesquisa, a oxidação do caldo de cana acontece no ânodo e a redução de oxigênio no cátodo. O objetivo do experimento era obter energia da biomassa com o mínimo impacto ambiental possível. Para isso, utilizou-se o caldo de cana em uma célula a combustível para gerar energia elétrica’, diz o pesquisador. ‘O uso do caldo de cana direto evita a formação de vinhaça, um resíduo ambientalmente perigoso decorrente da produção de etanol, contribuindo, assim, para a preservação do meio ambiente’.” Disponível em https://jornal.usp.br/ciencias/ (Adaptado).",
+   "enunciado": "De acordo com o texto, a pesquisa com caldo de cana apresentou resultados promissores em relação à sustentabilidade ambiental, porque",
+   "alternativas": {
+    "a": "o caldo in natura é obtido com facilidade, demandando somente a utilização das moendas, o que barateia os custos do processo.",
+    "b": "a energia elétrica proveniente da célula a combustível é considerada limpa, já que esse dispositivo dispensa o uso de pilhas, cujo descarte constitui um problema ambiental.",
+    "c": "a vinhaça, resíduo danoso ao meio ambiente, deixa de ser produzida ao se evitar a transformação do caldo de cana em álcool.",
+    "d": "a célula a combustível se destaca pela economia energética gerada ao funcionar como uma pilha, reduzindo a quantidade de caldo de cana utilizada.",
+    "e": "o Ipen não produz o caldo de cana em escala industrial, o que diminui a produção da vinhaça poluidora do meio ambiente."
+   },
+   "resposta": "c",
+   "explicacao": "O pesquisador diz ao fim da reportagem que usar o caldo direto \"evita a formação de vinhaça, um resíduo ambientalmente perigoso decorrente da produção de etanol\". É esse o ganho ambiental: pulando a etapa de fermentação, o resíduo simplesmente não se forma. A alternativa A troca o argumento ambiental por barateamento; B afirma que a célula dispensa pilhas, quando o texto diz que ela funciona pelo mesmo princípio de uma pilha; D inventa economia de caldo; e E atribui o ganho ao fato de o Ipen não produzir em escala industrial, quando o plano é justamente levar a técnica à indústria."
   }
  ],
  "literatura-realismo-naturalismo": [
@@ -56311,6 +56828,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O leitor sabe o que os personagens não sabem: o baile da Ilha Fiscal aconteceu em novembro de 1889, dias antes da queda da monarquia. Enquanto isso, Flora se encanta com lampiões e navios e inveja uma princesa que “viria a ser imperatriz um dia” — trono que jamais existiria. A ironia machadiana está nesse descompasso: a elite dança e faz planos de futuro imperial na véspera do fim do Império. A frase “era assim que Flora definia o ofício de governar”, reduzindo governar a poder ficar sozinha ouvindo música, completa o retrato da alienação."
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "fuvest-literatura-17",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Mais de uma vez, o brasileiro Machado de Assis e o português Eça de Queirós foram aproximados porque traçaram linhas de compreensão das suas respectivas sociedades, em um mesmo tempo historicamente situado.",
+   "enunciado": "Os protagonistas Rubião, de Quincas Borba (1891), e Gonçalo, de A Ilustre Casa de Ramires (1900),",
+   "alternativas": {
+    "a": "representam, respectivamente, a ascensão política da burguesia brasileira durante a segunda metade do século XIX e a decadência da aristocracia portuguesa no mesmo período.",
+    "b": "têm suas aspirações de grandeza e reconhecimento social frustradas diretamente pelo envolvimento de ambos com as políticas partidárias nacionais, introduzindo reformas substanciais que alteram a situação periférica de cada país.",
+    "c": "buscam reconhecimento social, continuamente frustrados nesse propósito por se inserirem em meios sociais que privilegiam a grandeza moral e as virtudes humanas.",
+    "d": "comprometem-se com a superação dos atrasos civilizacionais de seus países. Apesar de terem destinos diferentes, confrontam-se com o descompromisso de suas respectivas sociedades quanto às transformações sociais e econômicas.",
+    "e": "são vítimas de suas ideias ambiciosas de modernização nacional, seja por Rubião promover ideias políticas “modernas”, seja por Gonçalo insistir na restauração da grandeza de sua família. Ao final, atingem seus objetivos."
+   },
+   "resposta": "d",
+   "explicacao": "Rubião herda a fortuna de Quincas Borba e se lança a modernizar a própria vida na Corte; Gonçalo Ramires escreve a novela do antepassado e se mete na política para restaurar o nome da casa. Os dois se comprometem com a superação de um atraso — e os dois esbarram em sociedades, a brasileira e a portuguesa, que não acompanham o gesto: Rubião enlouquece, Gonçalo vai para a África e volta rico, destinos diferentes diante do mesmo descompasso. A alternativa A dá a Rubião uma ascensão burguesa que termina em loucura; B afirma reformas substanciais que nenhum dos dois realiza; C diz que os meios sociais privilegiam a virtude moral, quando privilegiam a aparência; e E garante que ambos atingem seus objetivos."
   }
  ],
  "literatura-colonial-romantismo": [
@@ -57509,6 +58046,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Todo o conflito da cena é econômico. Aurélia enriqueceu e comprou o noivo que a havia abandonado por um dote maior; ela mesma dá o preço — cem contos de réis — e o classifica como barato. A palavra “vendido”, repetida, transforma o casamento em contrato mercantil, e é essa contaminação do sentimento pelo dinheiro que o romance denuncia. A alternativa (b) se apoia no juramento inicial de Seixas, que é apenas o gatilho da fala de Aurélia; a (a) atribui ao texto uma pauta que ele não sustenta, já que Aurélia usa o poder do dinheiro dentro das regras que a subjugam."
+  },
+  {
+   "subtema": "literatura-colonial-romantismo",
+   "id": "fuvest-literatura-19",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Leia os trechos das obras Marília de Dirceu e Romanceiro da Inconfidência: Lira VII (Parte II) “Meu prezado Glauceste, Se fazes o conceito Que, bem que réu, abrigo A cândida Virtude no meu peito; Se julgas, digo, que mereço ainda Da tua mão socorro; Ah! Vem dar-mo agora, Agora, sim, que morro! Não quero que, montado No Pégaso fogoso, Venhas com dura lança Ao monstro infame traspassar, raivoso. Deixa que viva a pérfida calúnia, E forje o meu tormento: Com menos, meu Glauceste, Com menos me contento.” Tomás Antônio Gonzaga. Marília de Dirceu. Romance LXVI ou De Outros Maldizentes “- Que fica, na fortaleza, daquele poeta Gonzaga? - Um par de esporas, somente. Um par de esporas de prata. (...) Dizem que tinha um cavalo que Pégaso se chamava. Não pisava neste mundo, mas nos planaltos da Arcádia!” Cecília Meireles. Romanceiro da Inconfidência.",
+   "enunciado": "Considerando o substantivo Pégaso, presente nos dois excertos, é correto afirmar:",
+   "alternativas": {
+    "a": "No poema de Cecília Meireles, a referência tem por objetivo destacar o animal mítico, enquanto na lira de Gonzaga o substantivo se refere a um animal real.",
+    "b": "No poema de Gonzaga, a referência ao animal mitológico serve para aludir às características heroicas de Glauceste, enquanto, no poema de Cecília Meireles, Pégaso alude à criação poética.",
+    "c": "Por pretender um tom épico, Cecília Meireles usa o animal mitológico para distinguir a condição heroica do poeta, enquanto Gonzaga se refere às suas diferenças com Glauceste.",
+    "d": "No poema de Cecília Meireles, a metáfora do cavalo alado indica a evasão da realidade, típica dos poetas árcades, enquanto, no poema de Gonzaga, a referência ao animal serve para aludir às suas próprias características heroicas.",
+    "e": "A referência ao cavalo alado provoca um efeito de estranhamento no leitor, tendo em vista as características específicas de cada obra poética."
+   },
+   "resposta": "b",
+   "explicacao": "Na lira, Dirceu pede a Glauceste que não venha montado no \"Pégaso fogoso\" com dura lança traspassar o monstro da calúnia: a imagem é a do socorro heroico, e é dessa heroicidade que o preso abre mão ao dizer que se contenta com menos. Em Cecília, o cavalo do poeta Gonzaga \"não pisava neste mundo, mas nos planaltos da Arcádia\" — Pégaso vale pela inspiração, pela criação poética que sobreviveu ao homem. A alternativa A faz o cavalo de Gonzaga ser real; C e D trocam as atribuições entre os dois poemas; e E reduz tudo a um efeito de estranhamento que nenhum dos textos produz."
   }
  ],
  "literatura-modernismo": [
@@ -58749,6 +59306,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O poema abre declarando impossível compor um poema e fecha com \"(Desconfio que escrevi um poema.)\". A contradição só é aparente porque o próprio texto é a prova de que a poesia sobrevive ao mundo mecanizado e violento que ele denuncia — ela resiste à negatividade do seu tempo. Os entraves não são removidos, permanecem (A); os trovadores estão mortos e esquecidos (B); as máquinas não são controladas por sabedoria alguma (C); e os percevejos que renascem são a imagem irônica da violência que se repete, não de heróis (D)."
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "fuvest-literatura-12",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“São os ratos!... Vai escutar com atenção, a respiração meio parada. Hão de ser muitos: há várias fontes daquele guinchinho, e de quando em quando, no forro, em vários pontos, o rufar... A casa está cheia de ratos...” Dyonélio Machado. Os ratos. A obra Os ratos (1935), de Dyonélio Machado, narra o dia em que Naziazeno saiu pela cidade de Porto Alegre no intuito de conseguir dinheiro para pagar a conta do leiteiro. Os animais que dão título à narrativa apenas aparecem em seus últimos capítulos e ocupam o tempo reservado para o descanso do protagonista.",
+   "enunciado": "É possível, então, afirmar:",
+   "alternativas": {
+    "a": "Naziazeno, inconformado com sua condição de devedor, perambula pela cidade, encontrando refúgio junto aos ratos que o acolhem.",
+    "b": "Os ratos são os credores de Naziazeno zoomorfizados, que se encontram à espreita para a cobrança de outras dívidas.",
+    "c": "Os “guinchinhos”, que ressoam nos ouvidos de Naziazeno, são o eco de seu dia de perambulação, como se lembrassem os obstáculos que venceu.",
+    "d": "Os ruídos dos roedores mostram que Naziazeno, ao pagar a sua dívida, esquece os obstáculos que venceu.",
+    "e": "O contraste entre o repouso de Naziazeno e o aparecimento dos roedores denuncia a permanência da sua situação de penúria social e financeira."
+   },
+   "resposta": "e",
+   "explicacao": "Naziazeno passa o romance inteiro atrás de dinheiro para pagar o leiteiro, e quando enfim se deita, ouve os ratos no forro. O contraste é o ponto: o descanso que deveria encerrar a jornada é invadido pelo roer que anuncia que nada se resolveu — a penúria continua, e continuará amanhã. A alternativa A faz dos ratos um refúgio acolhedor; B os converte em credores personificados, leitura que o texto não sustenta; C transforma o guincho em lembrança de obstáculos vencidos; e D afirma que Naziazeno pagou a dívida e esqueceu os obstáculos, quando o desfecho é justamente a ausência de solução."
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "fuvest-literatura-16",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "Carlos Drummond de Andrade foi o criador de uma obra lírica que, ao mesmo tempo, se aproxima e se afasta do Modernismo de 1922, propondo, a partir de traços desse movimento, uma poética original.",
+   "enunciado": "Com base no exposto, em Alguma poesia (1930),",
+   "alternativas": {
+    "a": "os aspectos prosaicos da linguagem modernista ganham expressão lírica a partir de um sujeito poético que repropõe, em versos livres, a nostalgia romântica da infância idealizada.",
+    "b": "o sujeito poético incorpora, sob a perspectiva de uma lírica de raiz subjetiva, vários procedimentos estilísticos das vanguardas modernistas, em especial a escrita automática e o surrealismo.",
+    "c": "a tópica literária do desconcerto do mundo ganha uma reconfiguração moderna, a partir de um sujeito poético que, mais do que revelar um mundo às avessas, focaliza o seu desajuste frente à realidade.",
+    "d": "o nacionalismo literário, tão típico da revisão empreendida pela primeira geração modernista sobre a realidade brasileira, apresenta-se como eixo temático de cunho ufanista.",
+    "e": "a paisagem mineira, no espaço literário, é configurada pelo sujeito poético como ambiente bucólico e refúgio privilegiado para os seus desajustes frente ao “vasto mundo”."
+   },
+   "resposta": "c",
+   "explicacao": "A tópica do desconcerto do mundo vem de Camões e atravessa a poesia em língua portuguesa como queixa de um mundo às avessas. Drummond a reconfigura em 1930: o \"gauche na vida\" não denuncia a desordem do mundo, mas registra o próprio desajuste diante dele — \"Mundo mundo vasto mundo, / se eu me chamasse Raimundo\". A alternativa A troca esse desajuste por nostalgia romântica da infância; B atribui ao livro a escrita automática surrealista, que não é o procedimento de Drummond; D o alinha ao nacionalismo ufanista, quando a ironia é o tom; e E faz da paisagem mineira um refúgio bucólico, sendo ela antes o ponto de partida do estranhamento."
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "fuvest-literatura-18",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "O funcionário público como personagem literário ganha destaque na literatura brasileira a partir dos anos 1930. Uma explicação para esse fenômeno está na tematização, por parte dos escritores, das mudanças do papel do Estado brasileiro na constituição do mercado de trabalho assalariado e como agente da modernização do país: “De 1930 em diante, foram criadas dezenas de comissões, instituições e órgãos de planejamento e/ou de promoção das atividades econômicas, notadamente as ligadas às atividades agrícolas e àquelas voltadas para a industrialização.” MATTOS, Fernando Augusto Mansor de. A trajetória do emprego público no Brasil desde o início do século XX. Ensaios FEE, v.36, n.1, p.95, jun.2015.",
+   "enunciado": "No romance Os ratos, de Dyonélio Machado, o funcionalismo público configura-se como",
+   "alternativas": {
+    "a": "solução final para o conflito básico da narrativa, uma vez que é a partir de seu emprego público que o protagonista do romance obtém recursos para superar as limitações financeiras que, inicialmente, impulsionam sua perambulação pela cidade.",
+    "b": "principal opção de sobrevivência para os homens livres da sociedade brasileira recém-saída da escravidão, em especial para os personagens negros, a quem era impossível, de outro modo, alçar posições nos estratos sociais mais elevados.",
+    "c": "retrato da constituição de uma cultura organizacional ligada ao Estado, cuja dinâmica conduz, ao longo do século XX, ao desenvolvimento econômico do país e à vertiginosa ascensão social das classes médias, apontada pelo desfecho positivo do romance.",
+    "d": "opção de ocupação para as camadas médias da sociedade brasileira, que, embora constitua meio legítimo de sobrevivência, acaba por marginalizá-las pela precarização dos ganhos e a desvalorização do trabalho, como retrata a trajetória do protagonista.",
+    "e": "estrutura de trabalho de cunho patrimonialista, cujas posições de autoridade são ocupadas pelas camadas proprietárias e na qual a distribuição de cargos públicos, entre os quais o do protagonista, objetivava a garantia de apoio político e social."
+   },
+   "resposta": "d",
+   "explicacao": "Naziazeno é funcionário público e é justamente isso que o romance põe em crise: o emprego é legítimo e estável, mas paga tão mal e vale tão pouco socialmente que não cobre a conta do leiteiro — a classe média baixa se vê marginalizada dentro do próprio trabalho formal. A alternativa A faz do emprego a solução do conflito, quando ele é a origem; B situa a cena entre homens livres recém-saídos da escravidão e personagens negros, que não são o foco; C promete ascensão social e desfecho positivo, e o romance termina sem saída; e E descreve o patrimonialismo de distribuição de cargos por apoio político, que não é a situação do protagonista."
   }
  ],
  "literatura-teoria-analise": [
@@ -60646,6 +61263,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "No texto I, Maria está no meio da machamba quando o capataz a agarra: a palavra designa a roça, a terra de cultivo, em sentido literal. No texto II, Nguila diz que Sarnau \"parece ser uma machamba difícil\", que ele \"semeia e não vê resultado\" e que não está para \"lavrar sem colher\" — a lavoura é metáfora do corpo da mulher e de sua fertilidade. O sentido, portanto, é literal no primeiro e figurado no segundo, na ordem oposta à de C e diferente das leituras uniformes de D e E."
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "fuvest-literatura-15",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Bem-vinda! “Eram faíscas suas palavras que me queimavam em doses homeopáticas durante todas as noites… Foram longos anos, dia após dia perdendo um pouco mais minha autoestima, abrindo mão das roupas que gostava, dos estudos, do trabalho e das amigas fazendo de tudo pra evitar brigas, mas ele sempre dizia que a culpa era minha. Até que um dia, me empurrou, me acuou como se eu pudesse caber em qualquer fresta, encurralada, me mandou ficar calada e, com medo, obedeci. Eu pedia desculpa toda vez depois de falar como se fosse um defeito de nascença querer me colocar. A minha casa se tornou um ambiente tão hostil e eu, prisioneira das minhas próprias ideias, acreditando que o amor era isso, esse abismo, onde só um fala e o outro, fica omisso. Precisei tirar forças de lugares sagrados pra me afastar e reagir, recolher meus pedaços. Meus olhos encheram de mar, eu desaguei, decidi não mais me calar, denunciei! E depois do silêncio quebrado, meus pensamentos em guerra cessaram, recuperei o fôlego e ouvi meu coração sendo grato. Encontrei em mim um porto seguro, entendi que meu corpo é meu lar e, no caminho até ele, escolho quem anda comigo e quem convido pra entrar. Hoje, quando olho pra dentro, vejo uma nova mulher renascendo, eu celebro sua chegada e contemplo essa nova vida. Sem medo, abro a janela de casa e, com olhar de quem há tanto tempo esperava, te pego pela mão e digo: Seja bem-vinda!” Mel Duarte. Colmeia - Poemas Reunidos.",
+   "enunciado": "Assinale a alternativa que apresenta uma correspondência correta entre os versos destacados e os recursos utilizados para evidenciar a dor expressa no poema.",
+   "alternativas": {
+    "a": "“Eram faíscas suas palavras que me queimavam em/ doses homeopáticas/ durante todas as noites…” ꟷ conotação: o predicativo “faíscas” e a forma verbal “queimavam” estão sendo usados em sentido figurado, enfatizando seu sofrimento.",
+    "b": "“Até que um dia, me empurrou, me acuou/como se eu pudesse caber em qualquer fresta, /encurralada” ꟷ antítese: os elementos “empurrou”, “acuou” e “encurralada” potencializam de forma contraditória seu sofrimento.",
+    "c": "“acreditando que o amor era isso, esse abismo, onde só/ um fala e o outro, fica omisso” ꟷ metonímia: o uso do aposto “esse abismo”, referindo-se a “amor”, expressa literalmente seu sofrimento.",
+    "d": "“Precisei tirar forças de lugares sagrados/ pra me afastar e reagir, recolher meus pedaços” ꟷ pleonasmo: o complemento “meus pedaços” reforça o significado do verbo “recolher”, acentuando seu sofrimento.",
+    "e": "“Meus olhos encheram de mar, eu desaguei, /decidi não mais me calar, denunciei!” ꟷ paronímia: os verbos “encher” e “desaguar” são elementos de significação próxima que dão ênfase a seu sofrimento."
+   },
+   "resposta": "a",
+   "explicacao": "Palavras não são faíscas nem queimam de verdade: chamá-las assim é transferir para o campo do fogo o efeito de uma agressão verbal, e isso é conotação, o uso figurado. As demais associações erram o nome da figura. \"Empurrou\", \"acuou\" e \"encurralada\" se somam na mesma direção, o que é gradação e não antítese (B); \"esse abismo\" aposto a \"amor\" é metáfora, e o próprio item se desmente ao dizer que expressa literalmente (C); \"recolher meus pedaços\" acrescenta sentido em vez de repeti-lo, logo não é pleonasmo (D); e \"encher\" e \"desaguar\" são próximos em sentido, o que é sinonímia, não paronímia, que trata de semelhança sonora (E)."
   }
  ],
  "literatura-contemporanea": [
@@ -62155,6 +62792,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Em Chiziane, o marido admite a bofetada e a chama de \"disciplina\", cobre a mulher de elogios e a pressiona pela falta de filhos: há agressão física e psicológica no mesmo trecho. Em Honwana, a violência é física e sexual e Maria a percebe e resiste — ela esbraceja e tenta libertar as pernas —, o que derruba as leituras de A (violência velada e não percebida), B (uma discussão) e C (consentimento). E inverte o sentido do texto II ao apresentar a agressão como zelo pelo casal."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-13",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“Madala pensou que devia dizer qualquer coisa ao Djimo, mas não se lembrou de repetir a pergunta para si mesmo e por isso não soube o que dizer. O capataz fazia sinais à Maria, mas esta parecia não entender. A planta que Madala segurava na mão oferecia ao seu esforço uma resistência exagerada. Por isso, o punho de Madala tremia. (...) O tom da voz de Djimo revelava certo nervosismo: - Madala... Mas o nervosismo desapareceu logo. Djimo deu uma ordem: - Madala, não olhes para lá! Dentro de Madala, qualquer coisa se crispou. Mas não eram os fios da sua doença.” Luís Bernardo Honwana. “Dina”. In: Nós matamos o cão tinhoso!.",
+   "enunciado": "Considerando o papel da antologia Nós matamos o cão tinhoso! na literatura moçambicana e como a sociedade de Moçambique dos anos 1950 e 1960 se configura literariamente no conto “Dina”, é correto afirmar:",
+   "alternativas": {
+    "a": "O conto apresenta, de modo documental e objetivo, a condição econômico-social de uma família, mediante a enumeração de objetos que conotam a vida difícil dos moçambicanos em busca de um lugar na hierarquia preestabelecida pelo colonizador europeu.",
+    "b": "O conto demonstra como Luís Bernardo Honwana recria consistentemente a estrutura do português do colonizador a partir das línguas originárias de Moçambique, fazendo da linguagem um instrumento de luta anticolonial.",
+    "c": "O conto retrata as primeiras reações dos trabalhadores do campo, como Madala e Djimbo, que se levantam em armas contra os aparelhos repressivos do Estado português e a violência nas relações de trabalho, representados no texto pelo capataz.",
+    "d": "No conto, a sociedade moçambicana vai sendo apresentada sob o ponto de vista do colonizador, de modo a comprovar o ideal civilizatório da colonização portuguesa na África e a convivência equilibrada entre colonizadores e colonizados.",
+    "e": "No conto, embora perceba ter ultrapassado um limite moral ao descobrir o parentesco entre Maria e Madala, o capataz personifica a imposição da violência e do patriarcalismo metropolitanos aos homens e mulheres de Moçambique."
+   },
+   "resposta": "e",
+   "explicacao": "Na cena, o capataz assedia Maria diante de Madala e, ao perceber o parentesco entre os dois, ordena que o velho não olhe. A ordem não é vergonha que o detenha: é a violência colonial e patriarcal se impondo sobre homens e mulheres moçambicanos, e Madala obedece. A alternativa A chama o conto de documental e objetivo, quando ele trabalha por sugestão e ponto de vista interno; B atribui a Honwana uma recriação sistemática do português a partir das línguas locais, que é projeto de outros autores; C põe os trabalhadores em armas, e nada acontece; e D adota o ponto de vista do colonizador para provar a harmonia colonial, o oposto do livro."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "fuvest-literatura-14",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Bem-vinda! “Eram faíscas suas palavras que me queimavam em doses homeopáticas durante todas as noites… Foram longos anos, dia após dia perdendo um pouco mais minha autoestima, abrindo mão das roupas que gostava, dos estudos, do trabalho e das amigas fazendo de tudo pra evitar brigas, mas ele sempre dizia que a culpa era minha. Até que um dia, me empurrou, me acuou como se eu pudesse caber em qualquer fresta, encurralada, me mandou ficar calada e, com medo, obedeci. Eu pedia desculpa toda vez depois de falar como se fosse um defeito de nascença querer me colocar. A minha casa se tornou um ambiente tão hostil e eu, prisioneira das minhas próprias ideias, acreditando que o amor era isso, esse abismo, onde só um fala e o outro, fica omisso. Precisei tirar forças de lugares sagrados pra me afastar e reagir, recolher meus pedaços. Meus olhos encheram de mar, eu desaguei, decidi não mais me calar, denunciei! E depois do silêncio quebrado, meus pensamentos em guerra cessaram, recuperei o fôlego e ouvi meu coração sendo grato. Encontrei em mim um porto seguro, entendi que meu corpo é meu lar e, no caminho até ele, escolho quem anda comigo e quem convido pra entrar. Hoje, quando olho pra dentro, vejo uma nova mulher renascendo, eu celebro sua chegada e contemplo essa nova vida. Sem medo, abro a janela de casa e, com olhar de quem há tanto tempo esperava, te pego pela mão e digo: Seja bem-vinda!” Mel Duarte. Colmeia - Poemas Reunidos.",
+   "enunciado": "A expressão bem-vinda usada no título e repetida no último verso faz alusão",
+   "alternativas": {
+    "a": "ao aprisionamento da mulher que não consegue se libertar do poderio masculino.",
+    "b": "à guerra interior e à falta de forças da mulher oprimida, que aceita sua condição.",
+    "c": "ao renascimento da mulher que alcança, após a opressão, coragem para encontrar-se a si mesma.",
+    "d": "ao rebaixamento da mulher que se cala e se desculpa, perdendo aos poucos sua autoestima.",
+    "e": "à força da mulher que, mesmo hostilizada, tem poder para fazer entrar em sua casa quem a encurralava."
+   },
+   "resposta": "c",
+   "explicacao": "O poema percorre o ciclo inteiro: a violência que corrói a autoestima, o silêncio imposto, a denúncia, e enfim o reencontro consigo. No fim, o eu lírico abre a janela e diz \"seja bem-vinda\" — a quem? A si mesma, à \"nova mulher renascendo\" que acabou de contemplar. A saudação é de renascimento, não de aprisionamento (A) nem de aceitação (B) nem de rebaixamento (D), estágios que o texto atravessa e supera. E inverte o destinatário, fazendo entrar de volta o agressor, quando o verso anterior diz que ela escolhe quem anda com ela e quem convida a entrar."
   }
  ],
  "ingles-inference": [
@@ -65380,6 +66057,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Candelaria não nega que La Malinche tenha servido aos espanhóis; ela argumenta que a traição faz mais sentido psicológico quando se lembra que, ainda jovem, ela \"had been sold by her own mother into slavery\" — foi vendida como escrava pela própria mãe — e pergunta o que mais poderia fazer alguém rejeitada pelos seus. O argumento é o da preterição dentro da própria família. O texto descreve o uso dos idiomas como serviço aos espanhóis, não como proveito próprio (B); e não fala em inveja (C), em vulnerabilidades ignoradas (D) nem em disputa com os líderes (E)."
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "fuvest-ingles-9",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“Quick, quick, tell me something awful Like you are a poet trapped inside the body of a finance guy Tell me all your secrets, all you'll ever be is My eternal consolation prize You see, I was a debutante in another life, but Now I seem to be scared to go outside If comfort is a construct, I don't believe in good luck Now that I know what's what I hate it here so I will go to secret gardens in my mind People need a key to get to, the only one is mine I read about it in a book when I was a precocious child No mid-sized city hopes and small-town fears I'm there most of the year 'cause I hate it here I hate it here My friends used to play a game where We would pick a decade We wished we could live in instead of this I'd say the 1830s but without all the racists And getting married off for the highest bid Everyone would look down 'cause it wasn't fun now Seems like it was never even fun back then Nostalgia is a mind's trick If I'd been there, I'd hate it It was freezing in the palace” “I hate it here”, Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado).",
+   "enunciado": "Na letra da música, o verso “Like you are a poet trapped inside the body of a finance guy”",
+   "alternativas": {
+    "a": "enaltece a romantização e idealização de épocas passadas.",
+    "b": "destaca o papel de contextos externos no manejo de frustrações.",
+    "c": "expressa o sentimento de insatisfação ou inadequação em relação às expectativas sociais.",
+    "d": "critica a revelação de segredos e o rompimento de fronteiras pessoais.",
+    "e": "enfatiza a importância da sorte e de elementos culturais como mitos e rituais."
+   },
+   "resposta": "c",
+   "explicacao": "\"Um poeta preso dentro do corpo de um cara das finanças\" é a imagem de quem vive num papel que não é o seu: o que se sente por dentro não cabe no lugar que a vida social atribuiu. O verso expressa inadequação diante das expectativas sociais, o mesmo desconforto que reaparece em \"I hate it here\" e na fuga para os jardins secretos da mente. A alternativa A trata da nostalgia, tema de outra estrofe, e ainda a enaltece, quando a canção a chama de truque da mente; B fala em contextos externos que ajudam, e o eu lírico se refugia por dentro; D lê o verso como crítica à revelação de segredos, sendo o pedido dele; e E enfatiza a sorte, que a letra descrê."
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "fuvest-ingles-10",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "fuvest",
+   "texto_apoio": "“Quick, quick, tell me something awful Like you are a poet trapped inside the body of a finance guy Tell me all your secrets, all you'll ever be is My eternal consolation prize You see, I was a debutante in another life, but Now I seem to be scared to go outside If comfort is a construct, I don't believe in good luck Now that I know what's what I hate it here so I will go to secret gardens in my mind People need a key to get to, the only one is mine I read about it in a book when I was a precocious child No mid-sized city hopes and small-town fears I'm there most of the year 'cause I hate it here I hate it here My friends used to play a game where We would pick a decade We wished we could live in instead of this I'd say the 1830s but without all the racists And getting married off for the highest bid Everyone would look down 'cause it wasn't fun now Seems like it was never even fun back then Nostalgia is a mind's trick If I'd been there, I'd hate it It was freezing in the palace” “I hate it here”, Taylor Swift, do álbum The Tortured Poets Department, 2024 (Adaptado).",
+   "enunciado": "No texto, a percepção de “conforto como construto” indica que o eu lírico vê o conforto como",
+   "alternativas": {
+    "a": "refúgio mental para apaziguar as pressões e o descontentamento da vida.",
+    "b": "concepção ligada às experiências infantis em mecanismos de enfrentamento.",
+    "c": "conceito pressuposto, dependente da realidade concreta das pessoas.",
+    "d": "dificuldade de ter autoafirmação, por conta de questões internas pendentes.",
+    "e": "algo criado pela sociedade, produzindo falsa sensação de segurança."
+   },
+   "resposta": "e",
+   "explicacao": "\"If comfort is a construct, I don't believe in good luck\": chamar o conforto de construto é dizer que ele não é dado do mundo, e sim algo montado socialmente — uma promessa de segurança que a letra desconfia ser falsa, tanto que o verso seguinte descarta também a boa sorte. A alternativa A descreve os jardins secretos da mente, que são o refúgio, não o conforto criticado; B liga o conforto às experiências infantis, e a infância aparece só na leitura precoce; C o faz depender da realidade concreta, o oposto de construto; e D o converte em dificuldade de autoafirmação."
   }
  ],
  "ingles-grammar-structure": [
@@ -70418,6 +71135,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O terceiro parágrafo enumera as causas e abre com ela: \"Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports\" — cortes de gasto e mudança de prioridades em algumas escolas públicas reduziram a educação física e os esportes organizados. As demais alternativas trazem fatores que o texto não menciona: notas escolares, seleção por talento, bolsas de estudo e campeonatos com doações de ONGs."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-6",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "“justice, each getting what he or she is due. Formal justice is the impartial and consistent application of principles, whether or not the principles themselves are just. Substantive justice is closely associated with rights, i.e., with what individuals can legitimately demand of one another or what they can legitimately demand of their government (e.g., with respect to the protection of liberty or the promotion of equality). Retributive justice concerns when and why punishment is justified. Debate continues over whether punishment is justified as retribution for past wrongdoing or because it deters future wrongdoing. Those who stress retribution as the justification for punishment usually believe human beings have libertarian free will, while those who stress deterrence usually accept determinism. At least since Aristotle, justice has commonly been identified both with obeying law and with treating everyone with fairness. But if law is, and justice is not, entirely a matter of convention, then justice cannot be identified with obeying law.” The Cambridge Dictionary of Philosophy. General Editor Robert Audi, Cambridge, U.K.: C.U.P., 1999. p.456.",
+   "enunciado": "Conforme o verbete, a justiça substantiva pode ser definida como a",
+   "alternativas": {
+    "a": "aplicação imparcial e consistente de princípios éticos e morais.",
+    "b": "promoção de punições rigorosas para qualquer tipo de crime.",
+    "c": "distribuição de recursos econômicos de maneira equitativa, com ênfase no coletivo.",
+    "d": "garantia de que todos recebam o que lhes é devido, contemplando direitos individuais.",
+    "e": "proteção exclusiva dos direitos das minorias, aumentando sua visibilidade social."
+   },
+   "resposta": "d",
+   "explicacao": "O verbete define: \"Substantive justice is closely associated with rights, i.e., with what individuals can legitimately demand of one another or what they can legitimately demand of their government\" — está ligada a direitos, ao que se pode legitimamente exigir. Somada à abertura do trecho, \"each getting what he or she is due\", resulta a garantia de que cada um receba o que lhe é devido, contemplando direitos individuais. A alternativa A define a justiça formal, descrita logo antes; B remete à justiça retributiva; C acrescenta uma ênfase coletiva e econômica que o verbete não traz; e E restringe a proteção às minorias."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-7",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "fuvest",
+   "texto_apoio": "Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado).",
+   "enunciado": "Segundo o texto, o processo de derretimento das calotas polares",
+   "alternativas": {
+    "a": "põe em dúvida a necessidade do conceito de segundo bissexto.",
+    "b": "desloca o fluxo de água para regiões afastadas da linha do Equador.",
+    "c": "deve antecipar em três anos o ajuste dos relógios atômicos.",
+    "d": "ultrapassa o alcance do sistema do Tempo Universal Coordenado.",
+    "e": "tende a reduzir a velocidade de rotação da Terra."
+   },
+   "resposta": "e",
+   "explicacao": "O texto explica que o degelo da Antártida e da Groenlândia desloca massa em direção ao equador, aumenta o bojo equatorial e, com isso, freia a aceleração da rotação causada pelo núcleo — tanto que o \"segundo bissexto negativo\" previsto para 2026 pode só ser necessário em 2029. O efeito líquido é retardar a rotação. A alternativa B inverte a direção do deslocamento da água; C fala em antecipar o ajuste em três anos, quando o texto o adia; e A e D negam a validade do segundo bissexto e do Tempo Universal Coordenado, que o texto mantém."
+  },
+  {
+   "subtema": "ingles-detail",
+   "id": "fuvest-ingles-8",
+   "banca": "fuvest",
+   "sessao": "fuvest-2025-1f",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "fuvest",
+   "texto_apoio": "Climate change is messing with time “The melting of polar ice due to global warming is affecting Earth’s rotation and could impact on precision timekeeping, according to a recent study. The planet is not about to jerk to a halt, nor speed up so rapidly that everyone gets flung into space. But timekeeping is an exact science in a highly technological society, which is why global authorities more than half a century ago felt compelled by the slight changes in Earth’s rotation to invent the concept of the ‘leap second’. Climate change makes these calculations even more complicated: Soon it may be necessary to insert a ‘negative leap second’ into the calendar to get the planet’s rotation in sync with Coordinated Universal Time. Timekeeping is based on an astronomical basis. Earth is a type of a clock. In simpler times, the planet would spin one full revolution on its axis, and everyone would call it a day. But Earth doesn’t spin at a perfectly constant speed. Our planet is in a complicated gravitational dance with the moon, the sun, the oceanic tides, Earth’s own atmosphere and the motion of the planet’s solid inner core. The planet’s fluctuating spin rate is carefully tracked by the International Earth Rotation and Reference Systems Service. In the early 1970s, Earth was clearly slowing down in its rotation, and a gap was forming between atomic time and astronomical time. Thus, was born the ‘leap second’ to adjust for the fact that the ‘day’ was getting a bit longer. The melting of the ice caps in Antarctica and Greenland shifts mass — meltwater — toward the equator. That process increases the equatorial bulge of the planet. Meanwhile, at the poles, the land that had been pressed down by ice rises, and Earth becomes more spherical. According to the study, although the core is causing the planet to spin faster, the planetary shape changes caused by a warming climate are slowing that process. Absent this effect, the overall acceleration of the planet’s rotation might require timekeepers to insert a ‘negative leap second’ at the end of 2026. Because of climate change, that might not be necessary until 2029.” Disponível em https://www.washingtonpost.com/science/2024/03/27/ (Adaptado).",
+   "enunciado": "Conforme o texto, os fenômenos naturais que desempenham papel significativo na complexa interação gravitacional que afeta a rotação da Terra são",
+   "alternativas": {
+    "a": "terremotos.",
+    "b": "vulcões.",
+    "c": "avalanches.",
+    "d": "marés dos oceanos.",
+    "e": "ciclones."
+   },
+   "resposta": "d",
+   "explicacao": "O texto lista o que puxa a Terra na \"complicated gravitational dance\": a Lua, o Sol, as marés oceânicas, a atmosfera e o movimento do núcleo interno sólido. Entre as cinco alternativas, só as marés dos oceanos aparecem nessa lista. Terremotos, vulcões, avalanches e ciclones são fenômenos naturais reais, mas nenhum é citado no texto como parte da interação gravitacional que afeta a rotação."
   }
  ],
  "ingles-vocabulary": [

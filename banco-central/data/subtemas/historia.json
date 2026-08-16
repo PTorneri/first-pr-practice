@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "historia",
- "total": 530,
+ "total": 539,
  "residuo": [
   "dir-historia-brasil-68",
   "dir-historia-brasil-95",
@@ -3165,6 +3165,57 @@
    "subtema": "historia-geral-moderna",
    "frenteDestino": "historia",
    "revisado": true
+  },
+  "fuvest-historia-11": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "fuvest-historia-12": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
+  },
+  "fuvest-historia-13": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "fuvest-historia-14": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 19,
+   "margem": 14
+  },
+  "fuvest-historia-15": {
+   "subtema": "historia-geral-antiga-medieval",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 10
+  },
+  "fuvest-historia-16": {
+   "subtema": "historia-geral-moderna",
+   "frenteDestino": "historia",
+   "revisado": true
+  },
+  "fuvest-historia-17": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 10,
+   "margem": 5
+  },
+  "fuvest-historia-18": {
+   "subtema": "historia-brasil-colonia-imperio",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 1
+  },
+  "fuvest-historia-19": {
+   "subtema": "historia-brasil-republica",
+   "frenteDestino": "historia",
+   "pontos": 5,
+   "margem": 0
   }
  }
 }

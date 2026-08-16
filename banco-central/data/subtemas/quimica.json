@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "quimica",
- "total": 511,
+ "total": 520,
  "residuo": [
   "med-quimica-10",
   "med-quimica-37",
@@ -3052,6 +3052,56 @@
    "subtema": "quimica-termoquimica-cinetica",
    "frenteDestino": "quimica",
    "revisado": true
+  },
+  "fuvest-quimica-9": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 9
+  },
+  "fuvest-quimica-10": {
+   "subtema": "quimica-atomistica-ligacoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fuvest-quimica-11": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fuvest-quimica-12": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "pontos": 18,
+   "margem": 13
+  },
+  "fuvest-quimica-13": {
+   "subtema": "quimica-solucoes",
+   "frenteDestino": "quimica",
+   "pontos": 9,
+   "margem": 4
+  },
+  "fuvest-quimica-14": {
+   "subtema": "quimica-equilibrio-acido-base",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fuvest-quimica-15": {
+   "subtema": "quimica-termoquimica-cinetica",
+   "frenteDestino": "quimica",
+   "pontos": 8,
+   "margem": 3
+  },
+  "fuvest-quimica-16": {
+   "subtema": "quimica-organica",
+   "frenteDestino": "quimica",
+   "revisado": true
+  },
+  "fuvest-quimica-17": {
+   "subtema": "quimica-estequiometria",
+   "frenteDestino": "quimica",
+   "pontos": 5,
+   "margem": 0
   }
  }
 }

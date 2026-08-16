@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "gramatica",
- "total": 413,
+ "total": 415,
  "residuo": [
   "dir-gramatica-01",
   "dir-gramatica-21",
@@ -2478,6 +2478,17 @@
   },
   "enem-gramatica-01": {
    "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "revisado": true
+  },
+  "fuvest-gramatica-1": {
+   "subtema": "gramatica-coesao-semantica",
+   "frenteDestino": "gramatica",
+   "pontos": 5,
+   "margem": 2
+  },
+  "fuvest-gramatica-2": {
+   "subtema": "gramatica-sintaxe-periodo",
    "frenteDestino": "gramatica",
    "revisado": true
   }

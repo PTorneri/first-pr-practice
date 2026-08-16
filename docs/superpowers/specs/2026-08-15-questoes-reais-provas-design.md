@@ -221,7 +221,10 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 | **8d — total** | **ENEM 2024 completo: 145 das 180 questões** | **145** | **feito** |
 | 8e | ENEM 2025, os dois dias — **falta o gabarito**, ver abaixo | ~180 | bloqueada |
 | **8 — geral** | **ENEM 2023 + 2024: 283 questões** | **283** | |
-| 9 | FUVEST — **seis** cadernos de 1ª fase, todos com gabarito ao lado | 520 | **próxima** |
+| 9a | FUVEST 2024, 1ª fase | 62 de 90 | **feito** (`d6c2b8d`) |
+| 9b | FUVEST 2025, 1ª fase | ~90 | **próxima** |
+| 9c–9f | FUVEST 2026 e os três simulados oficiais | ~340 | |
+| **9 — total** | **FUVEST: seis cadernos de 1ª fase** | 520 | em curso |
 
 Os cadernos de ENEM e FUVEST chegaram em `enem e fuvest/`, na raiz, e a pasta
 entrou no `.gitignore` pela mesma razão das outras: a raiz É o site.
@@ -242,6 +245,58 @@ que torna a fase 9 a maior reserva destravada do projeto:
 
 A estimativa anterior de ~270 contava três cadernos. A FUVEST cobra 90 questões
 de 1ª fase e os simulados oficiais, 80.
+
+### O que a FUVEST 2024 ensinou (2026-08-16)
+
+**O parser do ENEM não serve.** São três diferenças de layout, e cada uma quebra
+de um jeito:
+
+| ENEM | FUVEST |
+|---|---|
+| cabeçalho `QUESTÃO 137` | o número sozinho na linha: `04` |
+| alternativa começa com TABULADOR | alternativa é `(A) texto` |
+| enunciado e apoio separados | o apoio vem colado na frente da pergunta |
+
+O número sozinho **também aparece dentro de tabela** — a questão 33 de 2024 tem
+uma com `200`, `700`, `70` no meio. A regra que resolve é aceitar o cabeçalho só
+quando o número é o **próximo esperado**: a prova é sequencial de 1 a 90 e
+nenhuma tabela adivinha qual é o próximo.
+
+A **última alternativa quebra no fim da coluna** e continua no topo da seguinte —
+mas dali em diante também vem o texto de apoio da questão de baixo. Quem separa
+os dois é o **ponto final**: enquanto a (E) não fechou frase, a linha é dela.
+
+**O gabarito sai da página 2, não da 1.** A página 1 põe as cinco provas (V, K,
+Q, X, Z) lado a lado e o texto sai linearizado num fluxo único, que só se lê
+contando posição. A página 2 traz a tabela de correspondência no formato
+`RESPOSTA | PROVA V | …`, que vira o padrão **letra + cinco números** — esse se
+reconhece sem contar nada. O caderno de 2024 é a prova V, coluna 0.
+
+**Ponteiro para figura ausente é poda, não perda.** Quando a resposta não depende
+da imagem mas o enunciado manda olhá-la ("Observe o mapa a seguir… Sobre o
+conflito geopolítico **em questão**"), a frase fica pendurada apontando para
+nada. Trocar o ponteiro pelo que ele nomeava — "o conflito que envolve o povo
+curdo" — é legítimo **e só quando o nome já está nas cinco alternativas**. Se
+for preciso trazer informação de fora, a questão sai.
+
+**Taxa de pino: 35% (22 em 62)**, entre a de Natureza (12%) e a de Humanas (51%)
+do ENEM — o esperado de uma prova que mistura as áreas na mesma sequência. O que
+a FUVEST tem de próprio é cobrar **obra do programa pelo nome**: "Dois irmãos",
+"Nós matamos o Cão Tinhoso". O nome do livro não diz do que trata a pergunta, e
+por isso Literatura pinou 4 em 11 mesmo com o autor citado no texto.
+
+**Tabela vira prosa e o verify-banco reprova, com razão.** Três questões traziam
+tabela, e o PDF as entrega em fluxo único: "Componente A 200 700 Componente B 70
+500". Só a de matemática foi acusada, mas as três eram ilegíveis. Remonte com
+quebra de linha (`\n`) antes de inserir — a convenção já existe no banco, em 11
+questões de química.
+
+**A regressão de chutabilidade da FUVEST é real e não tem conserto.** História
+saiu de OK para REPROVADO, 19.4% → 20.6%, por três questões em que a alternativa
+certa é a mais comprida — Enciclopédia, JK e tupis —, copiadas como a banca as
+publicou. Fica registrado o que já valia para Interpretação: **antes de culpar o
+lote, meça a frente no HEAD**. Interpretação e filosofia-sociologia apareceram
+reprovadas junto, e as duas já reprovavam antes, com os mesmos números.
 
 ### O que o material já transcrito ensinou (fases 5a e 5b)
 

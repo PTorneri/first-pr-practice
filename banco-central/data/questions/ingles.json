@@ -8661,6 +8661,111 @@
    "resposta": "d",
    "explicacao": "O artigo inteiro se apoia num contraste: o TEXTO não atacava Putin, e ainda assim foi a IMAGEM que provocou a ameaça de processo do governo russo. Nenhuma palavra escrita produziu o efeito que duas figuras produziram — que é precisamente o sentido de \"uma imagem vale mais que mil palavras\". A alternativa e é a distratora mais elegante, porque a frase sobre a verdade como primeira vítima da guerra é verdadeira em geral, mas não explica o IMPACTO específico dos memes, que é o que a pergunta cobra.",
    "origem": "direito"
+  },
+  {
+   "id": "enem-ingles-01",
+   "_frente": "ingles",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Cartaz de campanha:\n\"The average american tosses 300 pounds of food each year, making food the number one contributor to America's landfills. Eat your leftovers and keep your perishables in the fridge – the Earth is counting on it.\"",
+   "fonte_texto": "Disponível em: https://mir-s3-cdn-cf.behance.net. Acesso em: 29 out. 2021 (adaptado).",
+   "enunciado": "Esse cartaz de campanha sugere que",
+   "alternativas": {
+    "a": "os lixões precisam de ampliação.",
+    "b": "o desperdício degrada o ambiente.",
+    "c": "os mercados doam alimentos perecíveis.",
+    "d": "a desnutrição compromete o raciocínio.",
+    "e": "as residências carecem de refrigeradores."
+   },
+   "resposta": "b",
+   "explicacao": "O cartaz encadeia três informações: cada americano joga fora 300 libras de comida por ano (\"tosses\" é descarta), isso faz da comida o principal item dos aterros (\"the number one contributor to America's landfills\"), e a Terra depende de que se mude isso (\"the Earth is counting on it\"). Ou seja, jogar comida fora prejudica o planeta. As demais invertem ou desviam a mensagem: ampliar aterros é o contrário do que a campanha quer, já que ela pede que se reduza o que vai para eles. Guardar os perecíveis na geladeira é um conselho a quem já a tem, não uma denúncia de falta. E nem doação por mercados nem efeito da desnutrição sobre o raciocínio aparecem no texto."
+  },
+  {
+   "id": "enem-ingles-02",
+   "_frente": "ingles",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "No man is an island,\nEntire of itself;\nEvery man is a piece of the continent,\nA part of the main.\n[...]\nAny man's death diminishes me,\nBecause I am involved in mankind.",
+   "fonte_texto": "DONNE, J. The Works of John Donne. Londres: John W. Parker, 1839 (fragmento).",
+   "enunciado": "Nesse poema, a expressão \"No man is an island\" ressalta o(a)",
+   "alternativas": {
+    "a": "medo da morte.",
+    "b": "ideia de conexão.",
+    "c": "conceito de solidão.",
+    "d": "risco de devastação.",
+    "e": "necessidade de empatia."
+   },
+   "resposta": "b",
+   "explicacao": "A metáfora funciona por oposição geográfica: ilha é terra cercada de água, separada de tudo; continente é terra contínua. Ao negar que alguém seja ilha e afirmar que cada um é \"a piece of the continent, a part of the main\", Donne afirma que as pessoas são partes ligadas de um mesmo todo. O verso final confirma — a morte de qualquer um me diminui porque estou envolvido na humanidade. A ideia é conexão. A solidão é o que a imagem NEGA, e por isso engana. A empatia é consequência dessa ligação, não o que a expressão em si ressalta; e nem morte como temor nem devastação estão no fragmento, que trata a morte como perda compartilhada."
+  },
+  {
+   "id": "enem-ingles-03",
+   "_frente": "ingles",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Things We Carry on the Sea\nWe carry tears in our eyes: good-bye father, good-bye mother\nWe carry soil in small bags: may home never fade in our hearts\nWe carry carnage of mining, droughts, floods, genocides\nWe carry dust of our families and neighbors incinerated in mushroom clouds\nWe carry our islands sinking under the sea\nWe carry our hands, feet, bones, hearts and best minds for a new life\nWe carry diplomas: medicine, engineer, nurse, education, math, poetry, even if they mean nothing to the other shore\nWe carry railroads, plantations, laundromats, bodegas, taco trucks, farms, factories, nursing homes, hospitals, schools, temples... built on our ancestors' backs\nWe carry old homes along the spine, new dreams in our chests\nWe carry yesterday, today and tomorrow\nWe're orphans of the wars forced upon us\nWe're refugees of the sea rising from industrial wastes\nAnd we carry our mother tongues\n[...]\nAs we drift... in our rubber boats... from shore... to shore... to shore...",
+   "fonte_texto": "PING, W. Disponível em: https://poets.org. Acesso em: 1 jun. 2023 (fragmento).",
+   "enunciado": "Ao retratar a trajetória de refugiados, o poema recorre à imagem de viagem marítima para destacar o(a)",
+   "alternativas": {
+    "a": "risco de choques culturais.",
+    "b": "impacto do ensino de história.",
+    "c": "importância da luta ambiental.",
+    "d": "existência de experiências plurais.",
+    "e": "necessidade de capacitação profissional."
+   },
+   "resposta": "d",
+   "explicacao": "A anáfora \"We carry\" abre uma bagagem que não cabe numa única história: lágrimas e terra num saquinho, mas também mineração, secas, enchentes, genocídios, bombas atômicas, ilhas afundando, diplomas de medicina e de poesia, ferrovias e lavanderias construídas por ancestrais, e as línguas maternas. Cada verso vem de uma origem e de um motivo de partida diferentes — o que o poema destaca é a pluralidade dessas experiências. As outras opções isolam um dos itens da lista e o tomam pelo todo: o meio ambiente aparece em alguns versos, os diplomas em outro, e o encontro entre culturas apenas se insinua em \"the other shore\". Nenhum deles organiza o poema; a enumeração, sim."
+  },
+  {
+   "id": "enem-ingles-04",
+   "_frente": "ingles",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Spanglish\npues estoy creando Spanglish / bi-cultural systems / scientific lexicographical / inter-textual integrations / two expressions / existentially wired / two dominant languages / continentally abrazándose / in colloquial combate / imperio spanglish emerges / sobre territorio bi-lingual / las novelas mexicanas / mixing with radiorocknroll / immigrant/migrant / nasal mispronouncements / hip-hop, street salsa, spanish pop / standard english classroom / with computer technicalities / spanglish is literally perfect",
+   "fonte_texto": "LAVIERA, T. Benedición: The Complete Poetry of Tato Laviera. Houston: Arte Público Press, 2014 (fragmento).",
+   "enunciado": "Nesse poema de Tato Laviera, o eu lírico destaca uma",
+   "alternativas": {
+    "a": "convergência linguístico-cultural.",
+    "b": "característica histórico-cultural.",
+    "c": "tendência estilístico-literária.",
+    "d": "discriminação cultural.",
+    "e": "censura musical."
+   },
+   "resposta": "a",
+   "explicacao": "O poema não fala sobre o spanglish, ele é escrito em spanglish: \"continentally abrazándose\", \"in colloquial combate\", \"imperio spanglish emerges sobre territorio bi-lingual\". Inglês e espanhol se misturam dentro da mesma linha, e a mistura não para na língua — novelas mexicanas com rock de rádio, hip-hop com salsa de rua e pop espanhol. É encontro de línguas e de culturas ao mesmo tempo, e o fecho o celebra: \"spanglish is literally perfect\". Nada ali é discriminação ou censura; ao contrário, o tom é afirmativo. E as duas opções restantes são vagas demais para o que o texto faz: ele não descreve um período histórico nem propõe um estilo literário, ele encena uma fusão."
+  },
+  {
+   "id": "enem-ingles-05",
+   "_frente": "ingles",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Cartum: num escritório, corredores e mesas estão ocupados por funcionários rigorosamente iguais entre si — todos homens brancos, de terno escuro, camisa clara e gravata, com o mesmo corte de cabelo. Um deles diz ao recém-chegado:\n\"Oh, you'll love working here. Nobody treats you any differently just because of your age, race, or gender.\"",
+   "fonte_texto": "Disponível em: www.cartoonstock.com. Acesso em: 25 out. 2021.",
+   "enunciado": "Ao retratar o ambiente de trabalho em um escritório, esse cartum tem por objetivo",
+   "alternativas": {
+    "a": "criticar um padrão de vestimenta.",
+    "b": "destacar a falta de diversidade.",
+    "c": "indicar um modo de interação.",
+    "d": "elogiar um modelo de organização.",
+    "e": "salientar o espírito de cooperação."
+   },
+   "resposta": "b",
+   "explicacao": "O humor está na contradição entre o que se diz e o que se vê. A fala se gaba de que ninguém é tratado de forma diferente por idade, raça ou gênero — mas o escritório inteiro é composto de homens brancos idênticos. Não há tratamento desigual porque não há ninguém diferente para ser tratado: a igualdade é consequência da exclusão prévia. É a falta de diversidade que o cartum denuncia. O terno igual em todos é o SINAL dessa uniformidade, não o alvo da crítica, o que afasta a leitura sobre vestimenta. E as três restantes leem a cena ao pé da letra, como se a frase do personagem fosse verdadeira — que é exatamente a armadilha da ironia."
   }
  ],
  "textos": [

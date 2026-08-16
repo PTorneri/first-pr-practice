@@ -1210,6 +1210,96 @@ const REVISADAS = {
   // Cavalgada de Sant'Ana, registrada pelo IPHAN. A palavra "catedral" puxava
   // para arte clássica; o assunto é festa popular e patrimônio imaterial.
   "enem-artes-cultura-01": "artes-patrimonio-cultura-popular",
+
+  // Interpretacao de texto do mesmo caderno. Esta e a tabela mais porosa do
+  // banco: os seis subtemas descrevem HABILIDADES (achar a ideia central,
+  // inferir, reconhecer o genero), e habilidade nao deixa marca lexica no
+  // texto. 15 das 21 fecham em zero ponto em todos eles. Aqui o pino nao e
+  // remendo -- e o unico jeito de a decisao existir.
+  // Lema olímpico ganha a palavra "juntos".
+  "enem-interpretacao-texto-01": "interpretacao-ideia-central",
+  // Agualusa: o desdém lusitano pelo português brasileiro.
+  "enem-interpretacao-texto-02": "interpretacao-recursos-linguagem",
+  // Como a notícia circulava na Idade Média.
+  "enem-interpretacao-texto-03": "interpretacao-ideia-central",
+  // As pistas que denunciam um perfil falso.
+  "enem-interpretacao-texto-04": "interpretacao-ideia-central",
+  // Maio Amarelo: o apelo por trás da enumeração.
+  "enem-interpretacao-texto-05": "interpretacao-argumentacao",
+  // Incêndio do Museu Nacional e as línguas sem falantes.
+  "enem-interpretacao-texto-06": "interpretacao-inferencia",
+  // Libras varia como qualquer língua.
+  "enem-interpretacao-texto-07": "interpretacao-recursos-linguagem",
+  // Os colchetes invertidos da revista ]cultura[.
+  "enem-interpretacao-texto-08": "interpretacao-recursos-linguagem",
+  // Poesia e Atlas da violência sustentando a mesma tese.
+  "enem-interpretacao-texto-09": "interpretacao-argumentacao",
+  // Eliane Brum sobre a linguagem que exclui.
+  "enem-interpretacao-texto-10": "interpretacao-argumentacao",
+  // Dicionário de sintomas populares do Ceará.
+  "enem-interpretacao-texto-11": "interpretacao-recursos-linguagem",
+  // A cantiga de voltar em Ponciá Vicêncio.
+  "enem-interpretacao-texto-12": "interpretacao-recursos-linguagem",
+  // Os Jetsons e o imaginário de gênero cristalizado.
+  "enem-interpretacao-texto-13": "interpretacao-inferencia",
+  // Anúncio da Defensoria: o imperativo é o que define.
+  "enem-interpretacao-texto-14": "interpretacao-genero-discurso",
+  // O nó na garganta de Roberta Estrela D Alva.
+  "enem-interpretacao-texto-15": "interpretacao-recursos-linguagem",
+  // O crescimento do esporte eletrônico no Brasil.
+  "enem-interpretacao-texto-16": "interpretacao-ideia-central",
+  // A petição que mudou o verbete casamento.
+  "enem-interpretacao-texto-17": "interpretacao-ideia-central",
+  // Laurel Hubbard e o teto de testosterona.
+  "enem-interpretacao-texto-18": "interpretacao-inferencia",
+  // Simone Biles e a saúde mental do atleta.
+  "enem-interpretacao-texto-19": "interpretacao-ideia-central",
+  // Prática corporal no lazer é privilégio de classe.
+  "enem-interpretacao-texto-20": "interpretacao-ideia-central",
+  // Carta aberta da SBGG sobre a saúde do idoso.
+  "enem-interpretacao-texto-21": "interpretacao-genero-discurso",
+
+  // Literatura, Artes, Gramatica e Ingles do mesmo caderno. A tabela de
+  // Literatura reconhece ESCOLA LITERARIA por nome de autor e de movimento, e
+  // o ENEM raramente diz de que escola o texto e -- ele poe o texto e pergunta
+  // o que ele faz. Autor vivo publicado nos anos 2010 nao dispara nenhuma
+  // regra, e a questao ia para teoria-e-analise por falta de rival.
+  // Jarid Arraes, Redemoinho em dia quente (2019).
+  "enem-literatura-01": "literatura-contemporanea",
+  // Lúcio Cardoso, Crônica da casa assassinada (1959).
+  "enem-literatura-02": "literatura-contemporanea",
+  // Mário de Andrade, Girassol da madrugada.
+  "enem-literatura-03": "literatura-modernismo",
+  // Guimarães Rosa, Dão Lalalão.
+  "enem-literatura-04": "literatura-modernismo",
+  // Caetano Veloso, de Alegria, alegria a Anjos tronchos.
+  "enem-literatura-05": "literatura-contemporanea",
+  // Itamar Vieira Junior, Torto arado (2019).
+  "enem-literatura-06": "literatura-contemporanea",
+  // João Alphonsus, o gato e os ratos da Inconfidência.
+  "enem-literatura-08": "literatura-contemporanea",
+  // José J. Veiga, Sombras de reis barbudos (1972).
+  "enem-literatura-09": "literatura-contemporanea",
+  // Ana Martins Marques, Migalhas (2021).
+  "enem-literatura-10": "literatura-contemporanea",
+  // Rui Barbosa: o discurso da ABL sobre Machado de Assis.
+  "enem-literatura-11": "literatura-teoria-analise",
+  // Marabaixo do Amapá, patrimônio cultural desde 2018.
+  "enem-artes-cultura-05": "artes-patrimonio-cultura-popular",
+  // Wolney Fernandes e a rede social como vitrine.
+  "enem-artes-cultura-06": "artes-contemporanea",
+  // Adriana Lisboa: a repetição de "todos" como progressão.
+  "enem-gramatica-01": "gramatica-coesao-semantica",
+  // Cartaz sobre desperdício de alimentos nos EUA.
+  "enem-ingles-01": "ingles-inference",
+  // John Donne, No man is an island.
+  "enem-ingles-02": "ingles-inference",
+  // Cartum do escritório sem diversidade nenhuma.
+  "enem-ingles-05": "ingles-inference",
+  // Wang Ping, Things We Carry on the Sea, e o Spanglish de Tato Laviera:
+  // os dois pedem o sentido do poema inteiro, nao um detalhe dele.
+  "enem-ingles-03": "ingles-main-idea",
+  "enem-ingles-04": "ingles-main-idea",
 };
 
 // ------------------------------------------------------------------- classificação

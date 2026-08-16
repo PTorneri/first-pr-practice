@@ -3861,6 +3861,27 @@
       "resposta": "c",
       "explicacao": "\"Anexo\" concorda em gênero e número com o termo a que se refere: relatórios anexos, cópia anexa. Só a locução \"em anexo\" fica invariável. \"Bastante\" varia quando quantifica um nome, valendo por \"muitos\"; fica invariável quando intensifica um verbo ou modificador, valendo por \"muito\".",
       "formato": "direta"
+    },
+    {
+      "id": "enem-gramatica-01",
+      "_frente": "gramatica",
+      "banca": "enem",
+      "sessao": "enem-2023-dia-1",
+      "formato": "direta",
+      "dificuldade": "dificil",
+      "origem": "enem",
+      "texto_apoio": "E assim as coisas continuaram acontecendo entre os dois, em quase sustos, um grande por acaso com cacoetes de gestos definitivos. Com o Nunca Mais se oferecendo o tempo todo, bastaria dizer foi um prazer ter te conhecido, bastaria não trocar telefones nem e-mails e enterrar a casualidade com a cal da sabedoria — nada poderia ser definitivo, os encontros duravam duas horas ou duas décadas ou duas vezes isso, mas em algum momento necessariamente seria o fim. De todos os grandes amores. De todos os pequenos. De todas as juras, das promessas, de todos os na-alegria-e-na-tristeza. De todos os não amores, os desamores, os casamentos para sempre, os rancores para sempre, de todas as paralelas que só se viabilizam na abstração da geometria, de todas as pequenas paixões e de todas as grandes paixões, de tudo que para na antessala da paixão, de todos os vínculos não experimentados, de todos.",
+      "fonte_texto": "LISBOA, A. Rakushisha. Rio de Janeiro: Objetiva, 2014.",
+      "enunciado": "O recurso que promove a progressão textual, contribuindo para a construção da ideia de que as relações amorosas têm um enredo comum, é a",
+      "alternativas": {
+        "a": "repetição do pronome indefinido \"todos\".",
+        "b": "utilização do travessão na marcação do aposto.",
+        "c": "retomada do antecedente pelo pronome \"isso\".",
+        "d": "contraposição de ideias marcada pela conjunção \"mas\".",
+        "e": "substantivação de expressões pela anteposição do artigo."
+      },
+      "resposta": "a",
+      "explicacao": "Depois de \"seria o fim\", o texto se desmancha numa sequência de sintagmas encabeçados por \"de todos\" e \"de todas\": grandes amores, pequenos, juras, promessas, desamores, rancores, paixões, vínculos não experimentados — e fecha em \"de todos\". O indefinido é o que faz o texto avançar e, ao mesmo tempo, o que universaliza: se vale para todos, o enredo é um só. Os outros recursos existem no trecho, mas não fazem esse trabalho. O travessão e a conjunção \"mas\" aparecem uma única vez, e um elemento único não sustenta progressão. \"Isso\" retoma a duração dos encontros, um detalhe local. E a substantivação (\"os na-alegria-e-na-tristeza\") é efeito de estilo dentro da enumeração, não o mecanismo que a organiza."
     }
   ]
 }

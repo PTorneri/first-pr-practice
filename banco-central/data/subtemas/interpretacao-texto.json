@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "interpretacao-texto",
- "total": 482,
+ "total": 503,
  "residuo": [
   "dir-interpretacao-texto-10",
   "dir-interpretacao-texto-37",
@@ -2797,6 +2797,111 @@
    "frenteDestino": "interpretacao-texto",
    "pontos": 10,
    "margem": 3
+  },
+  "enem-interpretacao-texto-01": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-02": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-03": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-04": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-05": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-06": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-07": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-08": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-09": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-10": {
+   "subtema": "interpretacao-argumentacao",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-11": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-12": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-13": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-14": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-15": {
+   "subtema": "interpretacao-recursos-linguagem",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-16": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-17": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-18": {
+   "subtema": "interpretacao-inferencia",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-19": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-20": {
+   "subtema": "interpretacao-ideia-central",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
+  },
+  "enem-interpretacao-texto-21": {
+   "subtema": "interpretacao-genero-discurso",
+   "frenteDestino": "interpretacao-texto",
+   "revisado": true
   }
  }
 }

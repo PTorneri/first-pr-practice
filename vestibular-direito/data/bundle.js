@@ -1452,6 +1452,69 @@ window.QUESTION_BANKS = {
    "resposta": "d",
    "explicacao": "A consecutiva se reconhece pelo par intensificador mais \"que\": em I, \"tantas... QUE\"; em II, \"tantas... QUE\"; em IV, \"de tal forma QUE\". Nos três casos a segunda oração enuncia o efeito produzido pela intensidade anunciada na primeira. Em III não há nada disso: \"lançando luz sobre...\" é oração reduzida de gerúndio, com valor explicativo do que o campo de estudos fez, sem qualquer intensificador correlato. Encontrar o par correlativo é o único movimento que a questão exige.",
    "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "enem-interpretacao-texto-05",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Maio foi colorido de amarelo, e o foi porque mundialmente amarelo é a cor convencionada para as advertências. No trânsito, essas advertências têm sido fatais. A estimativa, caso nada seja feito, é a de que se atinjam assustadoras 2,4 milhões de mortes no trânsito em 2030 em todo o mundo.\nA pressa constante, o sentimento de invencibilidade, a certeza de invulnerabilidade, a necessidade de poder, a falta de civilidade, a certeza de impunidade, a ausência de solidariedade, a inexistência de compaixão e o desrespeito por si próprio são circunstâncias reais que, não raro, concorrem para o comportamento violento no trânsito.\nO Maio Amarelo, que preconiza a atenção pela vida, é uma das iniciativas nesse sentido. E é precisamente a atenção pela vida que está esquecida. Essa atenção, por certo, requer menos pressa, mais civilidade, limites assegurados, consciência de vulnerabilidade, solidariedade, compaixão e respeito por si e pelo outro. Reafirmar e praticar esses princípios e valores talvez seja um caminho mais seguro e menos violento, que garanta a vida e não celebre a morte.",
+   "fonte_texto": "Disponível em: http://portaldotransito.com.br. Acesso em: 11 dez. 2018 (adaptado).",
+   "enunciado": "Considerando os procedimentos argumentativos utilizados, infere-se que o objetivo desse texto é",
+   "alternativas": {
+    "a": "enumerar as causas determinantes da violência no trânsito.",
+    "b": "contextualizar a campanha de advertência no cenário mundial.",
+    "c": "divulgar dados numéricos alarmantes sobre acidentes de trânsito.",
+    "d": "sensibilizar o público para a importância de uma direção responsável.",
+    "e": "restringir os problemas da violência no trânsito a aspectos emocionais."
+   },
+   "resposta": "d",
+   "explicacao": "O enunciado pede o OBJETIVO, e o texto o revela na estrutura: cada elemento negativo do segundo parágrafo reaparece invertido no terceiro — a pressa vira \"menos pressa\", a falta de civilidade vira \"mais civilidade\", a ausência de solidariedade vira \"solidariedade\". Esse espelhamento não descreve, prescreve; e o fecho, \"garanta a vida e não celebre a morte\", é apelo. Trata-se de sensibilizar quem dirige. As três primeiras alternativas confundem o objetivo com os MEIOS: a enumeração de causas, a contextualização da campanha e o número de 2,4 milhões são recursos a serviço do apelo, não a finalidade. E a última acusa o texto de reduzir tudo à emoção, quando ele cita também impunidade e limites, que são questões de norma."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "enem-interpretacao-texto-09",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "\"São tantas formas de matar um preto / Que para alguns sua morte é justificada / Devia tá fazendo coisa errada / Se não era bandido, um dia ia ser / Por ser PRETO sua morte é defendida / O PRETO sempre merece morrer\".\nA estrofe acima é do poeta e educador social Baticum Proletário, que atua na periferia de Fortaleza, no Ceará, preparando jovens — em quase sua totalidade negros — para enfrentar as dificuldades impostas pelo racismo estrutural no país.\nÉ a partir da arte que Baticum consegue envolver a juventude em um projeto de fortalecimento dessa população ao promover batalhas de rimas, slams e saraus com temáticas que discutem os problemas sociais. Não por acaso, o tema mais explorado nas rimas, versos e prosas é a violência. De acordo com o mais recente Atlas da violência, em 2019, os negros representaram 77% das vítimas de homicídios, quase 30 assassinatos por 100 mil habitantes, a maioria deles jovens.\nO Atlas revela ainda que um negro tem quase 2,7 vezes mais chance de ser morto do que um branco, o que justifica o movimento de resistência crescente no Brasil.",
+   "fonte_texto": "MENDONÇA, F. Disponível em: www.cartacapital.com.br. Acesso em: 22 nov. 2021 (adaptado).",
+   "enunciado": "O uso de citação e de dados estatísticos nesse texto tem o objetivo de",
+   "alternativas": {
+    "a": "ressaltar a importância da poesia para denunciar a morte de negros, que cresce a cada dia.",
+    "b": "destacar o crescimento exponencial da temática do preconceito na produção literária no Brasil.",
+    "c": "demonstrar o incremento no quantitativo de expressões artísticas na discussão de problemas sociais.",
+    "d": "evidenciar argumentos que reforçam a ideia de que os negros são vítimas em potencial da violência.",
+    "e": "salientar o aumento da participação de jovens nos movimentos de resistência na área da cultura."
+   },
+   "resposta": "d",
+   "explicacao": "Os dois recursos apontam para a mesma conclusão por caminhos diferentes. A estrofe traz a experiência dita de dentro (\"São tantas formas de matar um preto\"); o Atlas traz o número que a confirma de fora (77% das vítimas de homicídio, 2,7 vezes mais chance de morrer). Poesia e estatística se reforçam para sustentar uma tese: ser negro no Brasil é estar exposto à violência. As demais alternativas trocam a tese por um efeito lateral. O texto não afirma que a morte de negros cresce a cada dia, nem mede o crescimento da temática racial na literatura, nem contabiliza expressões artísticas ou participação juvenil — cita o trabalho de Baticum como exemplo, não como número que aumenta."
+  },
+  {
+   "subtema": "interpretacao-argumentacao",
+   "id": "enem-interpretacao-texto-10",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "No princípio era o verbo. A frase que abre o primeiro capítulo do Evangelho de João e remete à criação do mundo é a mais famosa da Bíblia. A ideia de que o mundo é criado pela palavra, porém, é tão estruturante que está presente em outras religiões. Como humanos, a linguagem é o mundo que habitamos. Basta tentar imaginar um mundo em que não podemos usar palavras para dizer de nós e dos outros para compreender o que isso significa. Ou um mundo em que aquilo que você diz não é entendido pelo outro, e o que o outro diz não é entendido por você.\nO que acontece então quando a palavra é destruída e, com ela, a linguagem?\nDurante séculos, em diferentes sociedades e línguas, a linguagem serviu — e ainda serve — para manter privilégios de grupos de poder e deixar todos os outros de fora. Quem entende linguagem de advogados, juízes e promotores, linguagem de médicos, linguagem de burocratas, linguagem de cientistas? A maior parte da população foi submetida à violência de propositalmente ser impedida de compreender a linguagem daqueles que determinam seus destinos.\nSe o princípio é o verbo, o fim pode ser o silenciamento.",
+   "fonte_texto": "BRUM, E. Disponível em: https://brasil.elpais.com. Acesso em: 5 nov. 2021.",
+   "enunciado": "Nesse texto, a estratégia usada para convencer o leitor de que uma grande parcela da população não compreende a linguagem daqueles que detêm o poder foi",
+   "alternativas": {
+    "a": "revelar a origem religiosa da linguagem.",
+    "b": "questionar o temor sobre o futuro da linguagem.",
+    "c": "descrever a relação entre sociedade e linguagem.",
+    "d": "apresentar as consequências do esfacelamento da linguagem.",
+    "e": "criticar o obstáculo promovido pelos usos especializados da linguagem."
+   },
+   "resposta": "e",
+   "explicacao": "O enunciado pede a estratégia que sustenta uma tese específica, e ela está concentrada numa pergunta retórica: \"Quem entende linguagem de advogados, juízes e promotores, linguagem de médicos, linguagem de burocratas, linguagem de cientistas?\". A lista é de linguagens especializadas, e a autora as apresenta como barreira deliberada — \"propositalmente ser impedida de compreender\". A crítica ao jargão é o argumento. As demais descrevem partes do texto que não provam essa tese: a abertura bíblica é introdução, a relação entre sociedade e linguagem é o pano de fundo, e o silenciamento é a consequência anunciada no fecho. Consequência não é prova; o que prova é o obstáculo apontado no meio."
   }
  ],
  "interpretacao-inferencia": [
@@ -2609,6 +2672,69 @@ window.QUESTION_BANKS = {
    "explicacao": "Cobertura de 80% no dia e economia de 46% no ano só se conciliam se boa parte do gasto acontecer à noite. Infere-se o peso do período noturno na conta.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-inferencia",
+   "id": "enem-interpretacao-texto-06",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As cinzas do Museu Nacional, no Rio de Janeiro, consumido pelas chamas no mês de setembro de 2018, são mais do que restos de fósseis, cerâmicas e espécimes raros. O museu abrigava, entre mais de 20 milhões de peças, os esqueletos com as respostas para perguntas que ainda não haviam sido respondidas — ou sequer feitas — por pesquisadores brasileiros. E o incêndio pode ter calado para sempre palavras e cantos indígenas ancestrais, de línguas que não existem mais no mundo.\nO acervo continha gravações de conversas, cantos e rituais de dezenas de sociedades indígenas, muitas feitas durante a década de 1960 com antigos gravadores de rolo e que ainda não haviam sido digitalizadas. Alguns dos registros abordavam línguas já extintas, sem falantes originais ainda vivos. \"A esperança é que outras instituições tenham registros dessas línguas\", diz a linguista Marilia Facó Soares. A pesquisadora, que trabalha com os índios Tikuna, crê ter perdido parte de seu material. \"Terei que fazer novas viagens de campo para recompor meus arquivos. Mas obviamente não dá para recuperar a fala de nativos já falecidos, geralmente os mais idosos\", lamenta.",
+   "fonte_texto": "Disponível em: https://brasil.elpais.com. Acesso em: 10 dez. 2018 (adaptado).",
+   "enunciado": "A perda dos registros linguísticos no incêndio do Museu Nacional tem impacto potencializado, uma vez que",
+   "alternativas": {
+    "a": "exige a retomada das pesquisas por especialistas de diferentes áreas.",
+    "b": "representa danos irreparáveis à memória e à identidade nacionais.",
+    "c": "impossibilita o surgimento de novas pesquisas na área.",
+    "d": "resulta na extinção da cultura de povos originários.",
+    "e": "inviabiliza o estudo da língua do povo Tikuna."
+   },
+   "resposta": "b",
+   "explicacao": "A palavra do enunciado é \"potencializado\": não basta ser dano, tem de ser dano que não se pode desfazer. O texto dá a razão exata — havia gravações de línguas já extintas, \"sem falantes originais ainda vivos\", e, nas palavras da pesquisadora, \"não dá para recuperar a fala de nativos já falecidos\". Perde-se memória que não tem como ser refeita. As outras três exageram para além do texto: a pesquisadora diz ter perdido PARTE do material e planeja novas viagens, o que desmente tanto a inviabilidade do estudo Tikuna quanto o fim das pesquisas na área; e a cultura dos povos originários não se extingue com o acervo, já que ela vive nos povos. A primeira descreve uma consequência real, mas menor: refazer pesquisa é trabalho, não é dano irreparável."
+  },
+  {
+   "subtema": "interpretacao-inferencia",
+   "id": "enem-interpretacao-texto-13",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nZapeei os canais e parei num que exibia um episódio daquela velha família do futuro, Os Jetsons. Nesse episódio, a Jane Jetson, esposa do George, tratava de dirigir aquele veículo voador deles. Meu queixo foi caindo à medida que as piadinhas machistas sobre mulheres dirigirem foram se acumulando. Impressionante! Que futuro careta aqueles roteiristas imaginavam! Seriam incapazes de projetar algo melhor, e não apenas em termos de tecnologias, robôs e carros voadores? Será que nossa máxima visão de futuro só atinge as coisas, e jamais as pessoas? Como a Jane, uma mulher de 33 anos no desenho, poderia ser o que foram as minhas bisavós? O futuro, naquele desenho, se esqueceu de ser melhor nas relações entre as pessoas.\n\nTEXTO II\nMasculino e feminino são campos escorregadios que só se definem por oposição, sempre incompleta, um do outro. São formações imaginárias que buscam produzir uma diferença radical e complementar onde só existem, de fato, mínimas diferenças. O resto é questão de estilo. Até pelo menos a segunda metade do século 19, o divisor de águas era claro: os homens ocupavam o espaço público. As mulheres tratavam da vida privada. Privada de quê? De visibilidade, diria Hannah Arendt. De visibilidade pública.",
+   "fonte_texto": "TEXTO I: RIBEIRO, A. E. Disponível em: www.rascunho.com.br. Acesso em: 21 out. 2021 (adaptado). — TEXTO II: KHEL, M. R. Disponível em: https://alias.estadao.com.br. Acesso em: 19 out. 2021 (adaptado).",
+   "enunciado": "A representação da mulher apresentada no Texto I pode ser explicada pelo Texto II no que diz respeito à(às)",
+   "alternativas": {
+    "a": "censura a formas de expressão femininas.",
+    "b": "ausência da figura feminina na vida pública.",
+    "c": "construções imaginárias cristalizadas na sociedade.",
+    "d": "limitações inerentes às figuras femininas e masculinas.",
+    "e": "dificuldade na atribuição de papéis masculinos e femininos."
+   },
+   "resposta": "c",
+   "explicacao": "O espanto do Texto I é que um desenho ambientado no futuro repita a piada do passado: a tecnologia avançou, o papel da mulher não. O Texto II explica por quê ao dizer que masculino e feminino são \"formações imaginárias que buscam produzir uma diferença radical onde só existem mínimas diferenças\" — imagens tão fixadas que sobrevivem até à mudança de época. É a cristalização que faz Jane Jetson ser \"o que foram as minhas bisavós\". A quarta opção diz o contrário do Texto II, que nega diferença radical e fala em mínimas diferenças, portanto não em limitações inerentes. As outras deslocam o problema: não há censura no episódio, a ausência da mulher no espaço público é dado histórico do Texto II e não o que o Texto I mostra (Jane está dirigindo), e não há dificuldade em atribuir papéis — o desenho os atribui com toda a facilidade, e é isso que incomoda."
+  },
+  {
+   "subtema": "interpretacao-inferencia",
+   "id": "enem-interpretacao-texto-18",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A neozelandesa Laurel Hubbard fez história nos Jogos Olímpicos. Apesar de ter ficado de fora da disputa por medalhas, a levantadora de peso deixou sua marca na edição de Tóquio por ser a primeira mulher abertamente transgênero a participar de uma competição olímpica. No início da carreira, na década de 1990, a neozelandesa participava de disputas na categoria masculina. Em 2001, aos 23 anos, ela se afastou da atividade. \"A pressão de tentar me encaixar em um mundo que talvez não tenha sido feito para pessoas como eu se tornou um fardo muito grande para suportar.\" Em 2012, Laurel começou sua transição de gênero por meio de terapias hormonais e, em 2013, declarou abertamente ser uma mulher trans. Para o Comitê Olímpico Internacional, a participação de mulheres trans nos Jogos é permitida caso o nível de testosterona, hormônio que aumenta a massa muscular, esteja abaixo de 10 nanomols por litro por pelo menos 12 meses.",
+   "fonte_texto": "Disponível em: https://revistagalileu.globo.com. Acesso em: 18 nov. 2021 (adaptado).",
+   "enunciado": "No texto, os limites do potencial inclusivo do esporte são dados pela",
+   "alternativas": {
+    "a": "dificuldade de conseguir bons resultados esportivos.",
+    "b": "dependência de características biológicas padronizadas.",
+    "c": "inexistência de uma categoria para pessoas transgênero.",
+    "d": "necessidade de afastamento temporário das competições.",
+    "e": "impossibilidade de uso controlado de substâncias exógenas."
+   },
+   "resposta": "b",
+   "explicacao": "O texto abre a porta e, na mesma frase, mostra a fechadura: a participação é permitida DESDE QUE a testosterona fique abaixo de 10 nanomols por litro por doze meses. A inclusão existe, mas condicionada a um número medido no corpo — é a exigência biológica que marca o limite. A terceira alternativa é a mais tentadora e falha por um detalhe: Laurel competiu na categoria feminina, e o texto não trata da falta de uma categoria própria. A quinta inverte a regra, que não proíbe substâncias, mas fixa um teto hormonal. E o afastamento de 2001 e a ausência de medalha são fatos da biografia dela, não limites impostos pelo esporte."
   }
  ],
  "interpretacao-genero-discurso": [
@@ -3928,6 +4054,48 @@ window.QUESTION_BANKS = {
    "explicacao": "A primeira metade é uma frase que já circula na cultura; a segunda a desloca para o campo da doação, dando ao dito um sentido literal que ele não tinha. É intertextualidade, e o efeito depende de o leitor reconhecer a origem.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-genero-discurso",
+   "id": "enem-interpretacao-texto-14",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Peça publicitária da Defensoria Pública, veiculada durante a pandemia:\n\"Em tempos de isolamento social por conta da pandemia de covid-19, a Defensoria Pública alerta para o aumento da violência contra a mulher! Não se cale! Denuncie! A Defensoria não para! #JuntasSomosMaisFortes — Disque 180\"",
+   "fonte_texto": "Disponível em: www.defensoriapublica.mt.gov.br. Acesso em: 29 out. 2021 (adaptado).",
+   "enunciado": "Esse anúncio publicitário, veiculado durante o contexto da pandemia de covid-19, tem por finalidade",
+   "alternativas": {
+    "a": "divulgar o canal telefônico de atendimento a casos de violência contra a mulher.",
+    "b": "informar sobre a atuação de uma entidade defensora da mulher vítima de violência.",
+    "c": "evidenciar o trabalho da Defensoria Pública em relação ao problema do abuso contra a mulher.",
+    "d": "alertar a sociedade sobre o aumento da violência contra a mulher em decorrência do coronavírus.",
+    "e": "incentivar o público feminino a denunciar crimes de violência contra a mulher durante o período de isolamento."
+   },
+   "resposta": "e",
+   "explicacao": "Anúncio se lê pelo que ele MANDA fazer, e aqui os verbos estão no imperativo dirigido a uma segunda pessoa: \"Não se cale! Denuncie!\". A hashtag #JuntasSomosMaisFortes, no feminino, confirma a quem a peça fala. O objetivo é levar a mulher em situação de violência a denunciar durante o isolamento. As demais alternativas listam elementos que a peça de fato contém — o Disque 180, a existência e o trabalho da Defensoria, o alerta sobre o aumento dos casos —, mas todos servem de apoio ao apelo. São meios de convencer; a finalidade é a ação que se pede de quem lê."
+  },
+  {
+   "subtema": "interpretacao-genero-discurso",
+   "id": "enem-interpretacao-texto-21",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Carta aberta à população brasileira\nPrezados Cidadãos e Cidadãs,\nO envelhecimento populacional é um fenômeno mundial. Infelizmente, nosso país ainda não está preparado para atender às demandas dessa população.\nEste é o retrato da saúde pública no Brasil, que, apesar dos indiscutíveis avanços, apresenta um cenário de deficiências e falta de integração em todos os níveis de atenção à saúde: primária (atendimento deficiente nas unidades de saúde da atenção básica), secundária (carência de centros de referência com atendimento por especialistas) e terciária (atendimento hospitalar com abordagem ao idoso centrada na doença), ou seja, não há, na prática, uma rede de atenção à saúde do idoso.\nDiante desse cenário, a Sociedade Brasileira de Geriatria e Gerontologia (SBGG) vem a público manifestar suas preocupações com o presente e o futuro dos idosos no Brasil. É preciso garantir a saúde como direito universal. Esperamos que tanto nossos atuais quanto os futuros governantes e legisladores reflitam sobre a necessidade de investir na saúde e na qualidade de vida associada ao envelhecimento.\nDignidade à saúde do idoso!\nRio de Janeiro, 15 de setembro de 2014.",
+   "fonte_texto": "Disponível em: www.sbgg.org.br. Acesso em: 20 out. 2021 (adaptado).",
+   "enunciado": "O objetivo desse texto é",
+   "alternativas": {
+    "a": "sensibilizar o idoso a respeito dos cuidados com a saúde.",
+    "b": "alertar os governantes sobre os cuidados requeridos pelo idoso.",
+    "c": "divulgar o trabalho da Sociedade Brasileira de Geriatria e Gerontologia.",
+    "d": "informar o setor público sobre o retrocesso da legislação destinada à população idosa.",
+    "e": "chamar a atenção da população sobre a qualidade dos serviços de saúde pública para o idoso."
+   },
+   "resposta": "e",
+   "explicacao": "O destinatário está no título e no vocativo: \"Carta aberta à população brasileira\", \"Prezados Cidadãos e Cidadãs\". Carta aberta é o gênero que se dirige a todos justamente para tornar pública uma denúncia — e o corpo do texto detalha as falhas dos três níveis de atenção à saúde do idoso. O alvo é a sociedade, e o assunto é a qualidade do serviço. A segunda opção é a armadilha do gênero: governantes e legisladores são citados, mas na terceira pessoa, como aqueles de quem se ESPERA algo, e não como interlocutores. As demais não se sustentam: a carta não orienta o idoso, não divulga a entidade (que assina, mas fala do país) e não menciona retrocesso na legislação."
   }
  ],
  "interpretacao-recursos-linguagem": [
@@ -5122,6 +5290,132 @@ window.QUESTION_BANKS = {
    "resposta": "d",
    "explicacao": "A primeira fala abre um campo grave e abstrato — \"questionamentos\" trazidos pela pandemia sugere dilemas existenciais, sanitários, éticos. A segunda desce abruptamente ao mais trivial dos incômodos, o óculos embaçado pela máscara. O humor nasce dessa distância entre o solene esperado e o banal entregue, e é isso que se chama CONTRASTE. Não há paradoxo, porque nada ali se contradiz logicamente; nem ambiguidade, porque nenhuma das falas admite dois sentidos; nem metalinguagem, porque a tirinha não fala de si mesma.",
    "origem": "direito"
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "enem-interpretacao-texto-02",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "De quem é esta língua?\nUma pequena editora brasileira, a Urutau, acaba de lançar em Lisboa uma \"antologia antirracista de poetas estrangeiros em Portugal\", com o título Volta para a tua terra. O livro denuncia as diversas formas de racismo a que os imigrantes estão sujeitos. Alguns dos poetas brasileiros antologiados queixam-se do desdém com que um grande número de portugueses acolhe o português brasileiro. É uma queixa frequente.\n\"Aqui em Portugal eles dizem / — eles dizem — / que nosso português é errado, que nós não falamos português\", escreve a poetisa paulista Maria Giulia Pinheiro, para concluir: \"Se a sua linguagem, a lusitana, / ainda conserva a palavra da opressão / ela não é a mais bonita do mundo. / Ela é uma das mais violentas\".",
+   "fonte_texto": "AGUALUSA, J. E. Disponível em: https://oglobo.globo.com. Acesso em: 22 nov. 2021 (adaptado).",
+   "enunciado": "O texto de Agualusa tematiza o preconceito em relação ao português brasileiro. Com base no trecho citado pelo autor, infere-se que esse preconceito se deve",
+   "alternativas": {
+    "a": "à dificuldade de consolidação da literatura brasileira em outros países.",
+    "b": "aos diferentes graus de instrução formal entre os falantes de língua portuguesa.",
+    "c": "à existência de uma língua ideal que alguns falantes lusitanos creem ser a falada em Portugal.",
+    "d": "ao intercâmbio cultural que ocorre entre os povos dos diferentes países de língua portuguesa.",
+    "e": "à distância territorial entre os falantes do português que vivem em Portugal e no Brasil."
+   },
+   "resposta": "c",
+   "explicacao": "O verso citado é literal: \"nosso português é errado, que nós não falamos português\". Dizer que o outro NÃO FALA a língua só faz sentido se existir uma versão tida como a língua verdadeira — e essa versão, nessa crença, é a de Portugal. É o mito da língua única e correta que sustenta o desdém. Note que o preconceito descrito não distingue quem estudou de quem não estudou: ele recai sobre o falar brasileiro como um todo, o que afasta a leitura pela instrução formal. E as outras três apontam fatos que não geram hierarquia: distância geográfica e intercâmbio cultural explicam a variação, não o desprezo por ela, e a circulação da literatura brasileira não está em causa no trecho."
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "enem-interpretacao-texto-07",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Mandioca, macaxeira, aipim e castelinha são nomes diferentes da mesma planta. Semáforo, sinaleiro e farol também significam a mesma coisa. O que muda é só o hábito cultural de cada região. A mesma coisa acontece com a Língua Brasileira de Sinais (Libras). Embora ela seja a comunicação oficial da comunidade surda no Brasil, existem sinais que variam em relação à região, à idade e até ao gênero de quem se comunica. A cor verde, por exemplo, possui sinais diferentes no Rio de Janeiro, Paraná e São Paulo.\n\"Muitas pessoas pensam que a língua de sinais é universal, o que não é verdade\", explica a professora e chefe do Departamento de Linguística da Unesp. \"Mesmo dentro de um mesmo país, ela sofre variação em relação à localização geográfica, à faixa etária e até ao gênero dos usuários\", completa. Em São Paulo, o sinal de \"cerveja\" é feito com um giro do punho como uma meia-volta. Em Minas, a bebida é citada quando os dedos indicador e médio batem no lado do rosto. Também ocorrem mudanças históricas.",
+   "fonte_texto": "Disponível em: www.educacao.sp.gov.br. Acesso em: 1 nov. 2021 (adaptado).",
+   "enunciado": "Nesse texto, a Língua Brasileira de Sinais (Libras)",
+   "alternativas": {
+    "a": "passa por fenômenos de variação linguística como qualquer outra língua.",
+    "b": "apresenta variações regionais, assumindo novo sentido para algumas palavras.",
+    "c": "sofre mudança estrutural motivada pelo uso de sinais diferentes para algumas palavras.",
+    "d": "diferencia-se em todo o Brasil, desenvolvendo cada região a sua própria língua de sinais.",
+    "e": "é ininteligível para parte dos usuários em razão das mudanças de sinais motivadas geograficamente."
+   },
+   "resposta": "a",
+   "explicacao": "O texto começa por mandioca/macaxeira/aipim e semáforo/sinaleiro/farol, e só depois diz: \"A mesma coisa acontece com Libras\". A comparação é a resposta — Libras varia por região, idade e gênero exatamente como as línguas orais, porque é uma língua como as outras. As demais deformam esse achado. \"Novo sentido\" e \"mudança estrutural\" são falsas: o sinal muda, o significado permanece (verde é verde em qualquer estado), e variar não é alterar a estrutura da língua. E as duas últimas transformam variação em fragmentação: se cada região tivesse língua própria, ou se os usuários não se entendessem, não haveria uma Libras — e o texto afirma que ela é a comunicação oficial da comunidade surda no Brasil."
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "enem-interpretacao-texto-08",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Como é bom reencontrar os leitores da Revista da Cultura por meio de uma publicação com outro visual, conteúdo de qualidade e interesses ampliados! ]cultura[, este nome simples, e eu diria mesmo familiar, nasce entre dois colchetes voltados para fora. E não é por acaso: são sinais abertos, receptivos, propícios à circulação de ideias. O DNA da publicação se mantém o mesmo, afinal, por longos anos montamos nossas edições com assuntos saídos das estantes de uma grande livraria — e assim continuará sendo. Literatura, sociologia, filosofia, artes... nunca será difícil montar a pauta da revista porque os livros nos ensinam que monotonia é só para quem não lê.",
+   "fonte_texto": "HERZ, P. ]cultura[, n. 1, jun. 2018 (adaptado).",
+   "enunciado": "O uso não padrão dos colchetes para nomear a revista atribui-lhes uma nova função e está correlacionado ao(à)",
+   "alternativas": {
+    "a": "perfil de público-alvo, constituído por leitores exigentes e especializados em leitura acadêmica.",
+    "b": "propósito do editor, chamando a atenção para o rigor normativo nos textos da revista.",
+    "c": "exclusividade na seleção temática, direcionada para a área das ciências humanas.",
+    "d": "identidade da revista, voltada para a recepção e a promoção de ideias circulantes em livros.",
+    "e": "padrão editorial dos artigos, organizados em torno de uma proposta de design inovador."
+   },
+   "resposta": "d",
+   "explicacao": "O colchete padrão fecha: ele isola um trecho do resto do texto. Invertidos, os colchetes de ]cultura[ deixam de cercar e passam a abrir — e o editor explicita a leitura: \"são sinais abertos, receptivos, propícios à circulação de ideias\". A pontuação vira, assim, a própria identidade da revista, que se define por acolher e fazer circular o que vem dos livros. As outras alternativas puxam para sentidos que o texto contraria. Rigor normativo é o oposto de um uso deliberadamente fora do padrão. Público acadêmico e recorte só de humanas não se sustentam num texto que fala em \"interesses ampliados\" e lista literatura, sociologia, filosofia e artes. E design inovador confunde a explicação dada com um efeito apenas visual."
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "enem-interpretacao-texto-11",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um grupo de pesquisadores da Universidade Federal do Ceará desenvolveu um dicionário para traduzir sintomas de doenças da linguagem popular para os termos médicos. Defruço, chanha e piloura, por exemplo, podem ser termos conhecidos para muitos, mas, durante uma consulta médica, o desconhecimento pode significar um diagnóstico errado. \"Isso é um registro histórico e pode ser muito útil para estudos dessas comunidades, na abordagem médica delas. É de certa forma pioneiro no Brasil e, sem dúvida, um instrumento de trabalho importante, porque a comunicação é fundamental na relação médico-paciente\", avalia o reitor da instituição.",
+   "fonte_texto": "Disponível em: https://g1.globo.com. Acesso em: 1 nov. 2021 (adaptado).",
+   "enunciado": "Ao registrarem usos regionais de termos da área médica, pesquisadores",
+   "alternativas": {
+    "a": "apontaram erros motivados pelo desconhecimento da variedade linguística local.",
+    "b": "explicaram problemas provocados pela incapacidade de comunicação.",
+    "c": "descobriram novos sintomas de doenças existentes na comunidade.",
+    "d": "propiciaram melhor compreensão dos sintomas dos pacientes.",
+    "e": "divulgaram um novo rol de doenças características da localidade."
+   },
+   "resposta": "d",
+   "explicacao": "O dicionário traduz: põe lado a lado o nome popular do sintoma e o termo médico correspondente, para que o profissional entenda o que o paciente está dizendo. O ganho, como diz o reitor, é a comunicação na relação médico-paciente — ou seja, compreender melhor os sintomas relatados. Duas alternativas inventam novidade clínica onde há apenas novidade de vocabulário: defruço, chanha e piloura são outros nomes para males conhecidos, não sintomas nem doenças recém-descobertos. E as duas restantes tratam a variedade popular como defeito: o texto não fala em erro do paciente nem em incapacidade de comunicar, e sim numa lacuna de tradução que o dicionário preenche."
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "enem-interpretacao-texto-12",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Alguém muito recentemente cortara o mato, que na época das chuvas crescia e rodeava a casa da mãe de Ponciá Vicêncio e de Luandi. Luandi sorriu. A mãe devia estar bastante forte, pois ainda labutava a terra. Cantou alto uma cantiga que aprendera com o pai, quando eles trabalhavam na terra dos brancos. Era uma canção que os negros mais velhos ensinavam aos mais novos. Eles diziam ser uma cantiga de voltar, que os homens, lá na África, entoavam sempre, quando estavam regressando da pesca, da caça ou de algum lugar. O pai de Luandi, no dia em que queria agradar à mulher, costumava entoar aquela cantiga ao se aproximar de casa. Luandi não entendia as palavras do canto; sabia, porém, que era uma língua que alguns negros falavam ainda, principalmente os velhos. Era uma cantiga alegre. Luandi, além de cantar, acompanhava o ritmo batendo com as palmas das mãos em um atabaque imaginário. Estava de regresso à terra. Voltava em casa. Chegava cantando, dançando a doce e vitoriosa cantiga de regressar.",
+   "fonte_texto": "EVARISTO, C. Ponciá Vicêncio. Rio de Janeiro: Pallas, 2018.",
+   "enunciado": "A leitura do texto permite reconhecer a \"cantiga de voltar\" como patrimônio linguístico que",
+   "alternativas": {
+    "a": "representa a memória de uma língua africana extinta.",
+    "b": "exalta a rotina executada por jovens afrodescendentes.",
+    "c": "preserva a ancestralidade africana por meio da tradição oral.",
+    "d": "resgata a musicalidade africana por meio de palavras inteligíveis.",
+    "e": "remonta à tristeza dos negros mais velhos com saudade da África."
+   },
+   "resposta": "c",
+   "explicacao": "O trecho mostra a cadeia de transmissão inteira: os velhos ensinam aos mais novos, o pai ensinou a Luandi, e Luandi canta. Nada disso passa por escrita — é boca a boca, geração a geração, e é assim que a origem africana sobrevive. Tradição oral preservando ancestralidade. Duas opções contrariam o texto no detalhe: a língua não está extinta, pois \"alguns negros falavam ainda, principalmente os velhos\"; e as palavras não são inteligíveis, já que \"Luandi não entendia as palavras do canto\". A quinta erra o tom — o texto diz três vezes que a cantiga é alegre, doce e vitoriosa, não triste. E a segunda troca o que é herança por rotina de trabalho."
+  },
+  {
+   "subtema": "interpretacao-recursos-linguagem",
+   "id": "enem-interpretacao-texto-15",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A garganta é a gruta que guarda o som\nA garganta está entre a mente e o coração\nVem coisa de cima, vem coisa de baixo e de repente um nó (e o que eu quero dizer?)\nÀs vezes, acontece um negócio esquisito\nQuando eu quero falar eu grito, quando eu quero gritar eu falo, o resultado\nCalo.",
+   "fonte_texto": "ESTRELA D'ALVA, R. Disponível em: https://claudia.abril.com.br. Acesso em: 23 nov. 2021 (fragmento).",
+   "enunciado": "A função emotiva presente no poema cumpre o propósito do eu lírico de",
+   "alternativas": {
+    "a": "revelar as desilusões amorosas.",
+    "b": "refletir sobre a censura à sua voz.",
+    "c": "expressar a dificuldade de comunicação.",
+    "d": "ressaltar a existência de pressões externas.",
+    "e": "manifestar as dores do processo de criação."
+   },
+   "resposta": "c",
+   "explicacao": "Todo o poema descreve um mecanismo que emperra: a garganta fica \"entre a mente e o coração\", vem coisa de cima e de baixo, e o encontro dá \"um nó\". O verso seguinte inverte o que se pretendia com o que sai — quero falar e grito, quero gritar e falo —, e o desfecho é o silêncio, num trocadilho entre calo (o que dói) e calo (do verbo calar). O tema é a fala que não sai como se quer. Note que a trava é interna: o nó está na própria garganta do eu lírico, o que afasta tanto a censura quanto as pressões externas, que suporiam alguém de fora impedindo. E não há, no fragmento, amor perdido nem obra sendo criada."
   }
  ],
  "interpretacao-estrutura-coesao": [
@@ -8508,6 +8802,153 @@ window.QUESTION_BANKS = {
    "formato": "lacunas",
    "banca": "fuvest",
    "origem": "medicina"
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "enem-interpretacao-texto-01",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A sessão do Comitê Olímpico Internacional (COI) aprovou uma mudança histórica e inédita no lema olímpico, criado em 1894 pelo Barão Pierre de Coubertin para expressar os valores e a excelência do esporte. Mais de 120 anos depois, o lema tem sua primeira alteração para ressaltar a solidariedade e incluir a palavra \"juntos\": mais rápido, mais alto, mais forte — juntos. A mudança foi aprovada por unanimidade pelos membros do COI e celebrada pelo presidente da entidade.",
+   "fonte_texto": "Disponível em: https://ge.globo.com. Acesso em: 10 nov. 2021 (adaptado).",
+   "enunciado": "De acordo com o texto, a alteração do lema olímpico teve como objetivo a",
+   "alternativas": {
+    "a": "unificação do lema anterior ao atual.",
+    "b": "aproximação entre o lema olímpico e o COI.",
+    "c": "junção do lema olímpico com os princípios esportivos.",
+    "d": "associação entre o lema olímpico e a cooperatividade.",
+    "e": "vinculação entre o lema olímpico e os eventos atléticos."
+   },
+   "resposta": "d",
+   "explicacao": "As três palavras originais — mais rápido, mais alto, mais forte — são todas comparativas: medem o atleta contra os outros. A palavra acrescentada, \"juntos\", puxa em direção oposta, e o próprio texto diz para quê: \"ressaltar a solidariedade\". Solidariedade é cooperação, e é isso que a alteração associa ao lema. As demais opções descrevem relações que já existiam antes da mudança e que, por isso, não poderiam ser o objetivo dela: o lema sempre foi do COI, sempre expressou princípios esportivos e sempre esteve vinculado às competições. E não houve unificação de dois lemas — houve acréscimo de uma palavra a um lema só."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "enem-interpretacao-texto-03",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Na Idade Média, as notícias se propagavam com surpreendente eficácia. Segundo uma emérita professora de Sorbonne, um cavalo era capaz de percorrer 30 quilômetros por dia, mas o tempo podia se acelerar dependendo do interesse da notícia. As ordens mendicantes tinham um papel importante na disseminação de informações, assim como os jograis, os peregrinos e os vagabundos, porque todos eles percorriam grandes distâncias. As cidades também tinham correios organizados e selos para lacrar mensagens e tentar certificar a veracidade das correspondências. Graças a tudo isso, a circulação de boatos era intensa e politicamente relevante. Um exemplo clássico de fake news da era medieval é a história do rei que desaparece na batalha e reaparece muito depois, idoso e transformado.",
+   "fonte_texto": "Disponível em: www.elpais.com.br. Acesso em: 18 jun. 2018 (adaptado).",
+   "enunciado": "A propagação sistemática de informações é um fenômeno recorrente na história e no desenvolvimento das sociedades. No texto, a eficácia dessa propagação está diretamente relacionada ao(à)",
+   "alternativas": {
+    "a": "velocidade de circulação das notícias.",
+    "b": "nível de letramento da população marginalizada.",
+    "c": "poder de censura por parte dos serviços públicos.",
+    "d": "legitimidade da voz dos representantes da nobreza.",
+    "e": "diversidade dos meios disponíveis em uma época histórica."
+   },
+   "resposta": "e",
+   "explicacao": "O texto enumera portadores muito diferentes entre si: ordens mendicantes, jograis, peregrinos, vagabundos e correios urbanos com selos. Nenhum deles é rápido — o cavalo faz 30 km por dia —, mas juntos cobrem todo o território, e é dessa soma que vem a eficácia. A palavra que resume a lista é diversidade de meios. A velocidade é o distrator mais forte e o próprio texto a relativiza, ao apresentá-la como variável e dependente do interesse da notícia, não como a causa. Letramento, censura e autoridade da nobreza sequer aparecem: o trecho não fala em quem sabia ler, em quem controlava a informação nem em quem lhe dava crédito."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "enem-interpretacao-texto-04",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Se a interferência de contas falsas em discussões políticas nas redes sociais já representava um perigo para os sistemas democráticos, sua sofisticação e maior semelhança com pessoas reais têm agravado o problema pelo mundo.\nO perigo cresceu porque a tecnologia e os métodos evoluíram dos robôs, os \"bots\" — softwares com tarefas on-line automatizadas —, para os \"ciborgues\" ou \"trolls\", contas controladas diretamente por humanos com ajuda de um pouco de automação.\nMas pesquisadores começam agora a observar outros padrões de comportamento: quando mensagens não são programadas, sua publicação se concentra só em horários de trabalho, já que é controlada por pessoas cuja profissão é exatamente essa. Outra pista: a pobreza vocabular das mensagens publicadas por esses perfis. Um funcionário de uma empresa que supostamente produzia e vendia perfis falsos explica que às vezes \"faltava criatividade\" para criar mensagens distintas controlando tantos perfis falsos ao mesmo tempo.",
+   "fonte_texto": "GRAGNANI, J. Disponível em: www.bbc.com. Acesso em: 16 dez. 2017.",
+   "enunciado": "De acordo com o texto, a análise de características da linguagem empregada por perfis automatizados contribui para o(a)",
+   "alternativas": {
+    "a": "controle da atuação dos profissionais de TI.",
+    "b": "desenvolvimento de tecnologias como os \"trolls\".",
+    "c": "flexibilização dos turnos de trabalho dos controladores.",
+    "d": "necessidade de regulamentação do funcionamento dos \"bots\".",
+    "e": "identificação de padrões de disseminação de informações inverídicas."
+   },
+   "resposta": "e",
+   "explicacao": "O texto chama as duas marcas de \"pistas\": publicação concentrada em horário comercial e pobreza vocabular. Pista serve para descobrir alguém — aqui, para reconhecer o perfil falso pela linguagem que ele usa. É esse o ganho: identificar como a informação inverídica se espalha. As demais confundem a análise com providências que ela não executa. Regulamentar bots é decisão jurídica, e o texto não a propõe. Flexibilizar turnos e desenvolver trolls são coisas do lado de quem opera as contas falsas, não de quem as detecta. E controlar profissionais de TI atribui aos pesquisadores um poder de fiscalização que o trecho não menciona."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "enem-interpretacao-texto-16",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A indústria do esporte eletrônico é um mercado que está crescendo em um ritmo mais rápido do que a economia mundial. Sua popularidade cresceu muito e no Brasil não é diferente. De acordo com os dados de uma pesquisa, mais de 64% dos brasileiros que jogam videogame já ouviram falar de esporte eletrônico. No entanto, o que chama a atenção é o crescimento superior a 10% do público praticante comparado ao ano anterior, que subiu de 44,7% para 55,4%. Trata-se de um percentual expressivo, já que o Brasil está no top 3 dentre os países que têm maior número de espectadores de esporte eletrônico do mundo. Comparado ao ano anterior, em 2020, o Brasil teve um marco de crescimento de 20% na audiência. Mundo afora, a árdua dedicação de grandes gamers contribuiu para o reconhecimento do Comitê Olímpico Internacional, aliado a outras cinco federações esportivas e suas desenvolvedoras de jogos, permitindo dar o primeiro passo para concretizar, pela primeira vez na história dos jogos eletrônicos, um evento olímpico oficial.",
+   "fonte_texto": "Disponível em: https://chicoterra.com. Acesso em: 19 nov. 2021 (adaptado).",
+   "enunciado": "O contexto em que o esporte eletrônico é apresentado no texto demonstra o(a)",
+   "alternativas": {
+    "a": "condição favorável à expansão dessa modalidade.",
+    "b": "promoção dessa prática por jogadores profissionais.",
+    "c": "impulsionamento de um processo de marketing.",
+    "d": "favorecimento de fabricantes dos jogos.",
+    "e": "modificação da audiência televisiva."
+   },
+   "resposta": "a",
+   "explicacao": "Todos os dados do texto apontam para cima e para o mesmo lado: mercado crescendo mais rápido que a economia mundial, praticantes subindo de 44,7% para 55,4%, audiência 20% maior, Brasil entre os três maiores públicos e, no fim, o reconhecimento do COI abrindo caminho para um evento olímpico. Reunidos, descrevem um terreno favorável à expansão da modalidade. As demais tomam uma parte pelo todo ou saem do texto: os gamers aparecem por sua dedicação, e não como promotores da prática; as desenvolvedoras são citadas ao lado das federações, sem qualquer menção a ganho delas; não se fala em marketing; e a audiência tratada é a do esporte eletrônico, não a da televisão."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "enem-interpretacao-texto-17",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A petição on-line criada por um cidadão paulista surtiu efeito: casado há três anos com seu companheiro, ele pedia a alteração da definição de \"casamento\" no tradicional dicionário Michaelis em português. Na definição anterior, casamento aparecia como \"união legítima entre homem e mulher\" e \"união legal entre homem e mulher, para constituir família\".\nO novo verbete não traz em nenhum momento as palavras homem ou mulher — agora a definição de casamento se refere a \"pessoas\".\nPara o diretor de comunicação do site onde a petição foi publicada, a iniciativa mostra a \"eficiência da mobilização\". \"Em dois dias, mudou-se uma definição que permanecia a mesma há décadas\", afirma. E conclui: \"A plataforma serve para todos os tipos de causas, para as mudanças que importam para as pessoas.\"",
+   "fonte_texto": "SENRA, R. Disponível em: www.bbc.com. Acesso em: 29 out. 2015.",
+   "enunciado": "A notícia trata da mudança ocorrida em um dicionário da língua portuguesa. Segundo o texto, essa mudança foi impulsionada pela",
+   "alternativas": {
+    "a": "inclusão de informações no verbete.",
+    "b": "relevância social da instituição casamento.",
+    "c": "utilização pública da petição pelos cidadãos.",
+    "d": "rapidez na disseminação digital do verbete.",
+    "e": "divulgação de plataformas para a criação de petição."
+   },
+   "resposta": "c",
+   "explicacao": "O enunciado pergunta o que IMPULSIONOU a mudança, e a notícia responde pela boca do diretor da plataforma: \"eficiência da mobilização\" — em dois dias caiu uma definição de décadas. O que moveu o dicionário foi a petição assinada publicamente por cidadãos, e não uma decisão editorial. A primeira opção troca causa por resultado: a alteração do verbete é o efeito. A segunda oferece uma explicação plausível, mas ausente do texto, que não discute a importância do casamento como instituição. E as duas últimas se fixam no suporte: a plataforma é o meio, e o que a fez funcionar foi haver gente assinando."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "enem-interpretacao-texto-19",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "\"Ganhei 25 medalhas em mundiais, sete em Jogos Olímpicos, e sou uma sobrevivente de abuso sexual.\" Foi assim que Simone Biles se apresentou ao comitê do Senado norte-americano que investiga as supostas falhas do FBI no caso Larry Nassar. Biles e outras três atletas, vítimas dos abusos do ex-médico da equipe de ginástica feminina dos EUA, exigiram que os agentes da investigação sejam processados por falta de ação prévia contra Nassar, agora preso. Biles esclareceu que culpa Larry Nassar e \"todo o sistema que o permitiu e o perpetrou\". A melhor ginasta do mundo é um ícone. Nos Jogos Olímpicos de Tóquio, uma lesão psicológica a impediu de competir como previa. No entanto, ela chegou ao topo como uma líder no trabalho de acabar com o preconceito com os problemas de saúde mental. \"Não quero que nenhum outro atleta olímpico sofra o horror que eu e outras centenas suportamos e continuamos suportando até hoje\", afirmou.",
+   "fonte_texto": "Disponível em: https://brasil.elpais.com. Acesso em: 31 out. 2021 (adaptado).",
+   "enunciado": "O fato relatado na notícia chama a atenção acerca da necessidade de reflexão sobre a relação entre o esporte e",
+   "alternativas": {
+    "a": "o desempenho atlético internacional.",
+    "b": "a dimensão emocional dos atletas.",
+    "c": "os comitês olímpicos nacionais.",
+    "d": "as instituições de inteligência.",
+    "e": "as federações esportivas."
+   },
+   "resposta": "b",
+   "explicacao": "A notícia constrói uma sequência: a atleta se apresenta somando medalhas e a condição de sobrevivente de abuso; depois vem a \"lesão psicológica\" que a impediu de competir em Tóquio; e o fecho é a liderança dela contra o preconceito com a saúde mental. O fio que costura tudo é o que o atleta sente, e não o que ele levanta. As demais opções nomeiam instituições que aparecem no relato — FBI, comitê olímpico, federação —, mas todas comparecem como parte do sistema acusado, isto é, como circunstância do caso. O que a notícia pede que se pense é a relação entre esporte e vida emocional de quem o pratica. E o desempenho internacional é justamente o que Biles já tinha, e que não a protegeu."
+  },
+  {
+   "subtema": "interpretacao-ideia-central",
+   "id": "enem-interpretacao-texto-20",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O acesso às Práticas Corporais/Atividades Físicas (PC/AF) é desigual no Brasil, à semelhança de outros indicadores sociais e de saúde. Em geral, PC/AF prazerosas, diversificadas, mais afeitas ao período de lazer estão concentradas nas populações mais abastadas. As atividades físicas de deslocamento, trajetos a pé ou de bicicleta para estudar ou trabalhar, por exemplo, são mais frequentes na classe social menos favorecida. Aqui, há uma relação inversa e perversa entre variáveis socioeconômicas de acesso às PC/AF. As maiores prevalências de inatividade física foram em mulheres, pessoas com 60 anos ou mais, negros, pessoas com autoavaliação de saúde ruim ou muito ruim, com renda familiar de até quatro salários mínimos por pessoa, pessoas que desconhecem programas públicos de PC/AF e residentes em áreas sem locais públicos para a prática.",
+   "fonte_texto": "KNUTH, A. G.; ANTUNES, P. C. Saúde e Sociedade, n. 2, 2021 (adaptado).",
+   "enunciado": "O fator central que impacta a realização de práticas corporais/atividades físicas no tempo de lazer no Brasil é a",
+   "alternativas": {
+    "a": "diferença entre homens e mulheres.",
+    "b": "inexistência de políticas públicas.",
+    "c": "diversidade de faixa etária.",
+    "d": "variação de condição étnica.",
+    "e": "desigualdade entre classes sociais."
+   },
+   "resposta": "e",
+   "explicacao": "A oposição que organiza o texto é de classe: a atividade prazerosa de lazer está \"concentrada nas populações mais abastadas\", enquanto na classe menos favorecida o exercício é o deslocamento obrigatório a pé ou de bicicleta para trabalhar. O próprio texto nomeia o eixo — \"variáveis socioeconômicas\" — e a renda de até quatro salários mínimos reaparece na lista de maior inatividade. Gênero, idade e cor também estão nessa lista, e é por isso que enganam: são fatores associados, mas o enunciado pede o CENTRAL, e os três atravessam todas as classes. Já a inexistência de políticas públicas é desmentida pelo próprio texto, que fala em pessoas que DESCONHECEM os programas públicos — logo, eles existem."
   }
  ],
  "gramatica-coesao-semantica": [
@@ -9725,6 +10166,28 @@ window.QUESTION_BANKS = {
    "explicacao": "As duas formulações comunicam a mesma informação essencial — o paciente relatou dor intensa —, apenas reorganizada, sem qualquer coesão perdida entre as partes; a reescrita mantém o sentido original.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-coesao-semantica",
+   "id": "enem-gramatica-01",
+   "_frente": "gramatica",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "E assim as coisas continuaram acontecendo entre os dois, em quase sustos, um grande por acaso com cacoetes de gestos definitivos. Com o Nunca Mais se oferecendo o tempo todo, bastaria dizer foi um prazer ter te conhecido, bastaria não trocar telefones nem e-mails e enterrar a casualidade com a cal da sabedoria — nada poderia ser definitivo, os encontros duravam duas horas ou duas décadas ou duas vezes isso, mas em algum momento necessariamente seria o fim. De todos os grandes amores. De todos os pequenos. De todas as juras, das promessas, de todos os na-alegria-e-na-tristeza. De todos os não amores, os desamores, os casamentos para sempre, os rancores para sempre, de todas as paralelas que só se viabilizam na abstração da geometria, de todas as pequenas paixões e de todas as grandes paixões, de tudo que para na antessala da paixão, de todos os vínculos não experimentados, de todos.",
+   "fonte_texto": "LISBOA, A. Rakushisha. Rio de Janeiro: Objetiva, 2014.",
+   "enunciado": "O recurso que promove a progressão textual, contribuindo para a construção da ideia de que as relações amorosas têm um enredo comum, é a",
+   "alternativas": {
+    "a": "repetição do pronome indefinido \"todos\".",
+    "b": "utilização do travessão na marcação do aposto.",
+    "c": "retomada do antecedente pelo pronome \"isso\".",
+    "d": "contraposição de ideias marcada pela conjunção \"mas\".",
+    "e": "substantivação de expressões pela anteposição do artigo."
+   },
+   "resposta": "a",
+   "explicacao": "Depois de \"seria o fim\", o texto se desmancha numa sequência de sintagmas encabeçados por \"de todos\" e \"de todas\": grandes amores, pequenos, juras, promessas, desamores, rancores, paixões, vínculos não experimentados — e fecha em \"de todos\". O indefinido é o que faz o texto avançar e, ao mesmo tempo, o que universaliza: se vale para todos, o enredo é um só. Os outros recursos existem no trecho, mas não fazem esse trabalho. O travessão e a conjunção \"mas\" aparecem uma única vez, e um elemento único não sustenta progressão. \"Isso\" retoma a duração dos encontros, um detalhe local. E a substantivação (\"os na-alegria-e-na-tristeza\") é efeito de estilo dentro da enumeração, não o mecanismo que a organiza."
   }
  ],
  "gramatica-regencia-crase": [
@@ -17180,6 +17643,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "É o soneto \"Língua Portuguesa\", de Olavo Bilac, o maior nome do Parnasianismo brasileiro — e a forma denuncia a escola antes mesmo do autor. O soneto é a forma fixa preferida dos parnasianos; o vocabulário é deliberadamente culto e raro (\"ganga\", \"procela\", \"clangor\"); as rimas são ricas, unindo palavras de classes gramaticais diferentes; e o poema tem como assunto a PRÓPRIA língua, isto é, o culto à forma que define o movimento. O sentimento presente não o torna romântico: no Parnasianismo o afeto aparece contido e trabalhado pela técnica, não derramado. E não há a musicalidade sugestiva nem o transcendentalismo que caracterizariam o Simbolismo."
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "enem-literatura-07",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A escravidão\nEsses meninos que aí andam jogando peteca não viram nunca um escravo... Quando crescerem, saberão que já houve no Brasil uma raça triste, votada à escravidão e ao desespero; e verão nos museus a coleção hedionda dos troncos, dos vira-mundos e dos bacalhaus; e terão notícias dos trágicos horrores de uma época maldita: filhos arrancados ao seio das mães, virgens violadas em pranto, homens assados lentamente em fornos de cal, mulheres nuas recebendo na sua mísera nudez desvalida o duplo ultraje das chicotadas e dos olhares do feitor bestial. [...] Mas a sua indignação nunca poderá ser tão grande como a daqueles que nasceram e cresceram em pleno horror, no meio desse horrível drama de sangue e lodo, sentindo dentro do ouvido e da alma, numa arrastada e contínua melopeia, o longo gemer da raça mártir — orquestração satânica de todos os soluços, de todas as impressões, de todos os lamentos que a tortura e a injustiça podem arrancar a gargantas humanas.",
+   "fonte_texto": "BILAC, O. Disponível em: www.escritas.org. Acesso em: 29 out. 2021.",
+   "enunciado": "Publicado em 1902, o texto de Olavo Bilac enfatiza as mazelas da escravidão no Brasil ao",
+   "alternativas": {
+    "a": "descrever de modo impessoal as consequências da exploração racial sobre as gerações futuras.",
+    "b": "contrapor a infância privilegiada das crianças da época à infância violentada das crianças escravizadas.",
+    "c": "antecipar o futuro apagamento das marcas da escravidão no contexto social.",
+    "d": "criticar a atenuação da violência contra os povos escravizados nas memórias retratadas pelos museus.",
+    "e": "imaginar a reação de indiferença de seus contemporâneos com os escravizados libertos."
+   },
+   "resposta": "c",
+   "explicacao": "Bilac escreve catorze anos depois da Abolição e olha para a frente: os meninos que jogam peteca \"não viram nunca um escravo\" e só \"saberão\" do horror por museus e notícias. A comparação final é explícita — a indignação deles \"nunca poderá ser tão grande\" quanto a de quem viveu aquilo. O que o texto antecipa é o esmaecimento da marca: o horror vira objeto de vitrine, não experiência. Repare que os museus são apresentados como guardiões da \"coleção hedionda\", sem atenuar nada, o que derruba a quarta opção; e a descrição, longe de impessoal, é carregada de adjetivos e indignação. A segunda inventa uma comparação entre infâncias que o texto não faz, e a quinta troca o esquecimento futuro por indiferença presente."
   }
  ],
  "literatura-colonial-romantismo": [
@@ -19516,6 +20000,48 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "O poema retoma a estrutura mais conhecida da poesia brasileira — \"Minha terra tem palmeiras, / Onde canta o sabiá\" — e a torce: palmares em vez de palmeiras, e o MAR gorjeando no lugar do sabiá. O original é a \"Canção do Exílio\", de Gonçalves Dias, publicada em 1846. As duas últimas estrofes fecham a identificação, porque parodiam justamente os versos \"Não permita Deus que eu morra, / Sem que eu volte para lá\", trocando o paraíso natural pelo progresso urbano da Rua 15. Atribuir a Canção do Exílio a Casimiro de Abreu é o distrator mais próximo: ele é romântico e da mesma geração, mas não é o autor deste poema."
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "enem-literatura-03",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Girassol da madrugada\nTeu dedo curioso me segue lento no rosto\nOs sulcos, as sombras machucadas por onde a vida passou.\nQue silêncio, prenda minha... Que desvio triunfal da verdade,\nQue círculos vagarosos na lagoa em que uma asa gratuita roçou...\nTive quatro amores eternos...\nO primeiro era moça donzela,\nO segundo... eclipse, boi que fala, cataclisma,\nO terceiro era a rica senhora,\nO quarto és tu... E eu afinal me repousei dos meus cuidados",
+   "fonte_texto": "ANDRADE, M. Poesias completas. Rio de Janeiro: Nova Fronteira, 2013 (fragmento).",
+   "enunciado": "Perante o outro, o eu lírico revela, na força das memórias evocadas, a",
+   "alternativas": {
+    "a": "vergonha das marcas provocadas pela passagem do tempo.",
+    "b": "indecisão em face das possibilidades afetivas do presente.",
+    "c": "serenidade sedimentada pela entrega pacífica ao desejo.",
+    "d": "frustração causada pela vontade de retorno ao passado.",
+    "e": "disponibilidade para a exploração do prazer efêmero."
+   },
+   "resposta": "c",
+   "explicacao": "O poema termina em repouso: depois de enumerar os quatro amores, o eu lírico diz \"E eu afinal me repousei dos meus cuidados\". Tudo antes disso confirma o tom — o dedo que percorre o rosto é aceito sem constrangimento, e as imagens são de calma (\"círculos vagarosos na lagoa\", \"asa gratuita\"). É serenidade de quem chegou ao fim de um percurso e se entrega. Os distratores propõem sentimentos que o texto não sustenta: os sulcos e sombras são mostrados ao outro sem vergonha; não há hesitação, pois o quarto amor já está escolhido (\"O quarto és tu\"); não há vontade de voltar atrás, e sim de descansar; e o repouso final é o oposto da busca por prazer passageiro."
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "enem-literatura-04",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Dão Lalalão\nDo povoado do Ão, ou dos sítios perto, alguém precisava urgente de querer vir por escutar a novela do rádio. Ouvia-a, aprendia-a, guardava na ideia, e, retornado ao Ão, no dia seguinte, a repetia a outros.\nAssim estavam jantando, vinham os do povoado receber a nova parte da novela do rádio. Ouvir já tinham ouvido tudo, de uma vez, fugia da regra: falhara ali no Ão, na véspera, o caminhão de um comprador de galinhas e ovos, seo Abrãozinho Buristém, que carregava um rádio pequeno, de pilhas, armara um fio no arame da cerca... Mas queriam escutar outra vez, por confirmação. — \"A estória é estável de boa, mal que acompridada: taca e não rende...\" — explicava o Zuz ao Dalberto.\nSoropita começou a recontar o capítulo da novela. Sem trabalho, se recordava das palavras, até com clareza — disso se admirava. Contava com prazer de demorar, encher a sala com o poder de outros altos personagens. Tomar a atenção de todos, pudesse contar aquilo noite adiante. Era preciso trazer luz, nem uns enxergavam mais os outros; quando alguém ria, ria de muito longe. O capítulo da novela estava terminando.",
+   "fonte_texto": "ROSA, J. G. Noites do sertão (Corpo de baile). São Paulo: Global, 2021.",
+   "enunciado": "Nesse trecho do conto, o gosto dos moradores do povoado por ouvir a novela de rádio recontada por Soropita deve-se ao(à)",
+   "alternativas": {
+    "a": "qualidade do som do rádio.",
+    "b": "estabilidade do enredo contado.",
+    "c": "ineditismo do capítulo da novela.",
+    "d": "jeito singular de falar aos ouvintes.",
+    "e": "dificuldade de compreensão da história."
+   },
+   "resposta": "d",
+   "explicacao": "O texto elimina sozinho as explicações mais óbvias: todos já tinham ouvido o capítulo pelo rádio de seo Abrãozinho, logo não há ineditismo, e a estória, segundo o Zuz, é \"estável de boa, mal que acompridada: taca e não rende\" — ou seja, o enredo não é o atrativo. O que resta é como Soropita conta: ele \"contava com prazer de demorar, encher a sala com o poder de outros altos personagens\", e prende a sala até escurecer. O encanto está no narrador, não na novela. E as duas restantes não têm apoio: o rádio era pequeno e de pilhas, com fio improvisado na cerca, e ninguém no trecho reclama de não entender a história."
   }
  ],
  "literatura-teoria-analise": [
@@ -21312,6 +21838,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "II se apoia no par \"dispersos\" e \"vagais\", que de fato evoca a vida errante de quem viaja de cidade em cidade — e o poema homenageia artistas de circo itinerante. III também se confirma no texto: \"Sois brasileiros, / Sois mais... um prodígio\" são predicativos que afirmam a nacionalidade e culminam em \"Aos primeiros igualais\", isto é, na equiparação com os artistas europeus. I é a única falsa, e erra o SENTIDO do verbo no contexto: \"avassalar um povo\" aqui é encantá-lo, dominá-lo pela admiração — a estrofe pergunta de onde vem esse dom, em tom de elogio, e não de crítica. A ligação etimológica com \"vassalo\" existe, mas não sustenta a leitura crítica que a proposição inventa."
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "enem-literatura-11",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Mestre e companheiro, disse eu que nos íamos despedir. Mas disse mal. A morte não extingue: transforma; não aniquila: renova; não divorcia: aproxima. Um dia supuseste \"morta e separada\" a consorte dos teus sonhos e das tuas agonias, que te soubera \"pôr um mundo inteiro no recanto\" do teu ninho; e, todavia, nunca ela te esteve mais presente, no íntimo de ti mesmo e na expressão do teu canto, no fundo do teu ser e na face de tuas ações. Esses catorze versos inimitáveis, em que o enlevo dos teus discípulos resume o valor de toda uma literatura, eram a aliança de ouro do teu segundo noivado, um anel de outras núpcias, para a vida nova do teu renascimento e da tua glorificação, com a sócia sem nódoa dos teus anos de mocidade e madureza, da florescência e frutificação de tua alma. Para os eleitos do mundo das ideias a miséria está na decadência, e não na morte. A nobreza de uma nos preserva das ruínas da outra.",
+   "fonte_texto": "BARBOSA, R. O adeus da Academia a Machado de Assis. Rio de Janeiro: Agir, 1962.",
+   "enunciado": "Esse é um trecho do discurso de Rui Barbosa na Academia Brasileira de Letras em homenagem a Machado de Assis por ocasião de sua morte. Uma das características desse discurso de homenagem é a presença de",
+   "alternativas": {
+    "a": "metáforas relacionadas à trajetória pessoal e criadora do homenageado.",
+    "b": "recursos fonológicos empregados para a valorização do ritmo do texto.",
+    "c": "frases curtas e diretas no relato da vida e da morte do homenageado.",
+    "d": "contraposição de ideias presentes na obra do homenageado.",
+    "e": "seleção vocabular representativa do sentimento de nostalgia."
+   },
+   "resposta": "a",
+   "explicacao": "Rui Barbosa fala da vida e da obra de Machado por imagens, e as duas se entrelaçam: o soneto a Carolina vira \"a aliança de ouro do teu segundo noivado\", \"um anel de outras núpcias\"; a viuvez vira \"renascimento\" e \"glorificação\"; a maturidade do escritor vira \"florescência e frutificação de tua alma\". São metáforas que dizem ao mesmo tempo do homem enlutado e do autor. A terceira alternativa é factualmente falsa: o período é longo e cheio de subordinadas. E as outras três descrevem traços ausentes ou secundários — não há trabalho sonoro em destaque, a contraposição está no discurso (morte/transformação), não na obra de Machado, e o tom não é de saudade, mas de exaltação de quem venceu a morte pela permanência."
   }
  ],
  "literatura-contemporanea": [
@@ -22457,6 +23004,153 @@ window.QUESTION_BANKS = {
    "explicacao": "O livro funciona como plataforma: quem publica leva junto outros autores do mesmo território. A dimensão coletiva é parte do projeto e explica os saraus, os coletivos e as editoras independentes que acompanham essa produção.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "enem-literatura-01",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Mais iluminada que outras\nTenho dois seios, estas duas coxas, duas mãos que me são muito úteis, olhos escuros, estas duas sobrancelhas que preencho com maquiagem comprada por dezenove e noventa e orelhas que não aceitam bijuterias. Este corpo é um corpo faminto, dentado, cruel, capaz e violento. Movo os braços e multidões correm desesperadas. Caminho no escuro com o rosto para baixo, pois cada parte isolada de mim tem sua própria vida e não quero domá-las. Animal da caatinga. Forte demais. Engolidora de espadas e espinhos.\nDizem e eu ouvi, mas depois também li, que o estado do Ceará aboliu a escravidão quatro anos antes do restante do país. Todos aqueles corpos que eram trazidos com seus dedos contados, seus calcanhares prontos e seus umbigos em fogo, todos eles foram interrompidos no porto. Um homem — dizem e eu ouvi e depois também li — liderou o levante. E todos esses corpos foram buscar outros incômodos. Foram ser incomodados.",
+   "fonte_texto": "ARRAES, J. Redemoinho em dia quente. São Paulo: Alfaguara, 2019.",
+   "enunciado": "Nesse texto, os recursos expressivos usados pela narradora",
+   "alternativas": {
+    "a": "revelam as marcas da violência de raça e de gênero na construção da identidade.",
+    "b": "questionam o pioneirismo do estado do Ceará no enfrentamento à escravidão.",
+    "c": "reproduzem padrões estéticos em busca da valorização da autoestima feminina.",
+    "d": "sugerem uma atmosfera onírica alinhada ao desejo de resgate da espiritualidade.",
+    "e": "mimetizam, na paisagem, os corpos transformados pela violência da escravidão."
+   },
+   "resposta": "a",
+   "explicacao": "O texto tem dois parágrafos e a chave está em ligá-los. No primeiro, a narradora inventaria o próprio corpo — seios, coxas, mãos, sobrancelhas — e o descreve como \"faminto, dentado, cruel, capaz e violento\", recusando-se a domá-lo. No segundo, aparecem outros corpos, os escravizados, \"com seus dedos contados, seus calcanhares prontos e seus umbigos em fogo\", também inventariados peça por peça, como mercadoria. O mesmo procedimento aproxima a mulher de hoje e o corpo negro escravizado: é aí que raça e gênero se somam na construção da identidade. As demais leem mal o texto ou o tom: o pioneirismo cearense é afirmado, não questionado; não há busca de padrão estético nem clima de sonho; e a caatinga entra como metáfora do corpo forte, não como paisagem que imita corpos violentados."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "enem-literatura-02",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Ainda daquela vez pude constatar a bizarrice dos costumes que constituíam as leis mais ou menos constantes do seu mundo: ao me aproximar, verifiquei que o Sr. Timóteo, gordo e suado, trajava um vestido de franjas e lantejoulas que pertencera a sua mãe. O corpete descia-lhe excessivamente justo na cintura, e aqui e ali rebentava através da costura um pouco da carne aprisionada, esgarçando a fazenda e tornando o prazer de vestir-se daquele modo uma autêntica espécie de suplício. Movia-se ele com lentidão, meneando todas as suas franjas e abanando-se vigorosamente com um desses leques de madeira de sândalo, o que o envolvia numa enjoativa onda de perfume. Não sei direito o que colocara sobre a cabeça, assemelhava-se mais a um turbante ou a um chapéu sem abas de onde saíam vigorosas mechas de cabelos alourados. Como era costume seu também, trazia o rosto pintado — e para isto, bem como para suas vestimentas, apoderara-se de todo o guarda-roupa deixado por sua mãe, também em sua época famosa pela extravagância com que se vestia — o que sem dúvida fazia sobressair-lhe o nariz enorme, tão característico da família Meneses.",
+   "fonte_texto": "CARDOSO, L. Crônica da casa assassinada. São Paulo: Círculo do Livro, s.d.",
+   "enunciado": "Pela voz de uma empregada da casa, a descrição de um dos membros da família exemplifica a renovação da ficção urbana nos anos 1950, aqui observada na",
+   "alternativas": {
+    "a": "opção por termos e expressões de sentido ambíguo.",
+    "b": "crítica social inspirada pelo convívio com os patrões.",
+    "c": "descrição impressionista do fetiche do personagem.",
+    "d": "presença de um foco narrativo de caráter impreciso.",
+    "e": "ambiência de mistério das relações entre familiares."
+   },
+   "resposta": "d",
+   "explicacao": "Quem narra é uma empregada, e ela não sabe o que está vendo: \"Não sei direito o que colocara sobre a cabeça, assemelhava-se mais a um turbante ou a um chapéu sem abas\". O \"mais ou menos constantes\", o \"sem dúvida\" que soa a suposição e a hesitação diante do objeto marcam um foco narrativo que enxerga parcialmente e admite não enxergar. É essa narração incerta — a mesma que faz o romance de Lúcio Cardoso ser contado por vozes fragmentadas — o traço de renovação apontado. A ambiguidade e o mistério existem na obra, mas como EFEITO da imprecisão do foco, não como o procedimento em si; e a descrição é minuciosa e concreta, não impressionista. Quanto à crítica social, a criada observa com espanto e curiosidade, sem julgar a classe dos patrões."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "enem-literatura-05",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I — Alegria, alegria\nO sol nas bancas de revista / Me enche de alegria e preguiça / Quem lê tanta notícia / Eu vou / Por entre fotos e nomes / Os olhos cheios de cores / O peito cheio de amores vãos / Eu vou / Por que não, por que não?\n\nTEXTO II — Anjos tronchos\nUns anjos tronchos do Vale do Silício / Desses que vivem no escuro em plena luz / Disseram vai ser virtuoso no vício / Das telas dos azuis mais do que azuis / Agora a minha história é um denso algoritmo / Que vende venda a vendedores reais / Neurônios meus ganharam novo outro ritmo / E mais, e mais, e mais, e mais, e mais",
+   "fonte_texto": "TEXTO I: VELOSO, C. Alegria, alegria. Rio de Janeiro: Polygram, 1990 (fragmento). — TEXTO II: VELOSO, C. Meu coco. Rio de Janeiro: Sony, 2021 (fragmento).",
+   "enunciado": "Embora oriundas de momentos históricos diferentes, essas letras de canção têm em comum a",
+   "alternativas": {
+    "a": "referência às cores como elemento de crítica a hábitos contemporâneos.",
+    "b": "percepção da profusão de informações gerada pela tecnologia.",
+    "c": "contraposição entre os vícios e as virtudes da vida moderna.",
+    "d": "busca constante pela liberdade de expressão individual.",
+    "e": "crítica à finalidade comercial das notícias."
+   },
+   "resposta": "b",
+   "explicacao": "Separadas por cinquenta anos, as duas canções descrevem o mesmo excesso, cada uma com a tecnologia do seu tempo. Em 1967 é a banca de revista: \"Quem lê tanta notícia\", \"por entre fotos e nomes\", \"os olhos cheios de cores\". Em 2021 é a tela do Vale do Silício, com o algoritmo e o \"e mais, e mais, e mais, e mais, e mais\" que encerra a estrofe imitando o rolar infinito do feed. O que se repete é a percepção da avalanche de informação. As cores aparecem nas duas, mas na primeira sem qualquer crítica — é alegria e preguiça. E a oposição vício/virtude, a liberdade de expressão e a crítica ao comércio da notícia estão, quando muito, em uma das letras, e o enunciado pede o que há de comum."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "enem-literatura-06",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Passado muito tempo, resolvi tentar falar, porque estava sozinha me embrenhando na mesma vereda que Donana costumava entrar. Ainda recordo da palavra que escolhi: arado. Me deleitava vendo meu pai conduzindo o arado velho da fazenda carregado pelo boi, rasgando a terra para depois lançar grãos de arroz em torrões marrons e vermelhos revolvidos. Gostava do som redondo, fácil e ruidoso que tinha ao ser enunciado. \"Vou trabalhar no arado.\" \"Vou arar a terra.\" \"Seria bom ter um arado novo, esse arado tá troncho e velho.\" O som que deixou minha boca era uma aberração, uma desordem, como se no lugar do pedaço perdido da língua tivesse um ovo quente. Era um arado torto, deformado, que penetrava a terra de tal forma a deixá-la infértil, destruída, dilacerada.",
+   "fonte_texto": "VIEIRA JR., I. Torto arado. São Paulo: Todavia, 2019.",
+   "enunciado": "Com a perda de parte da língua na infância, a narradora tenta voltar a falar. Essa tentativa revela uma experiência que",
+   "alternativas": {
+    "a": "reflete o olhar do pai sobre as etapas do plantio.",
+    "b": "metaforiza a linguagem como ferramenta de lavoura.",
+    "c": "explicita, na busca pela palavra, o medo da solidão.",
+    "d": "confirma a frustração da narradora com relação à terra.",
+    "e": "sugere, na ausência da linguagem, a estagnação do tempo."
+   },
+   "resposta": "b",
+   "explicacao": "A palavra escolhida é \"arado\", e o texto faz a palavra virar o objeto que ela nomeia. O arado bom rasga a terra para receber a semente; o som deformado que sai da boca mutilada é \"um arado torto\" que \"penetrava a terra de tal forma a deixá-la infértil, destruída, dilacerada\". Falar é arar: quando o instrumento está quebrado, o sulco não germina. É a linguagem convertida em ferramenta de lavoura. As demais tomam ao pé da letra o que é figurado — a frustração não é com a terra, e sim com a fala; o pai e o plantio são a lembrança que fornece a imagem, não o assunto; e nem solidão nem tempo parado são o que a passagem constrói."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "enem-literatura-08",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Era um gato preto, como convinha a um cultor das boas letras, que já lera Poe traduzido por Baudelaire. Preto e gordo. E lerdo. Tão gordo e lerdo que a certa altura observei que ia perdendo inteiramente as qualidades características da raça, que são em suma o ódio de morte aos ratos. Já nem os afugentava! Os ratos de Ouro Preto são também dignos e solenes — não ria — tradicionalistas... descendentes de outros ratos que naqueles mesmos casarões presenciaram acontecimentos importantes da nossa história... No sobrado do desembargador Tomás Antônio Gonzaga, imagine o senhor uma reunião dos sonhadores inconfidentes, com os antepassados daqueles ratos a passearem pelo sótão ou mesmo pelo assoalho por entre as pernas dos homens absortos na esperança da independência nacional! E depois, os ancestres daqueles roedores que eu via agora deslizar sutilmente no meu quarto podiam ter subido pelo poste da ignomínia colonial, onde estava exposta a cabeça do Tiradentes! E quando as órbitas se descarnaram ignominiosamente, podiam até ter penetrado no recesso daquele crânio onde verdadeiramente ardera a literatura, com a simplicidade do heroísmo, a febre nacionalista...",
+   "fonte_texto": "ALPHONSUS, J. Contos e novelas. Rio de Janeiro: Imago; Brasília: INL, 1976.",
+   "enunciado": "Descrevendo seu gato, o narrador remete ao contexto e a protagonistas da Inconfidência para criar um efeito desconcertante centrado no",
+   "alternativas": {
+    "a": "desenho imaginativo do casario colonial de Ouro Preto.",
+    "b": "efeito de apagamento de limites entre ficção e realidade.",
+    "c": "vínculo estabelecido entre animais urbanos e literatura.",
+    "d": "questionamento sutil quanto à sanidade dos inconfidentes.",
+    "e": "contraste entre austeridade pomposa e imagem repugnante."
+   },
+   "resposta": "e",
+   "explicacao": "O desconforto vem de colar duas coisas que não deveriam se tocar. De um lado, o vocabulário solene da história pátria: os \"sonhadores inconfidentes\", a \"esperança da independência nacional\", a \"febre nacionalista\", a cabeça de Tiradentes exposta. De outro, ratos — e ratos entrando pelas órbitas descarnadas do crânio do herói. Quanto mais nobre a frase, mais repulsiva a cena que ela carrega, e é nesse atrito que está o efeito. As alternativas restantes descrevem elementos presentes mas inofensivos: o casario, o gato leitor de Poe, o vínculo entre bicho e literatura. E ninguém, no trecho, põe em dúvida o juízo dos inconfidentes — eles são tratados com respeito, o que é justamente o que torna a imagem chocante."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "enem-literatura-09",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Enquanto estivemos entretidos com os urubus outras coisas andaram acontecendo na cidade. A Companhia baixou novas proibições, umas inteiramente bobocas, só pelo prazer de proibir (ninguém podia cuspir pra cima, nem carregar água em jacá, nem tapar o sol com peneira, como se todo mundo estivesse abusando dessas esquisitices); mas outras bem irritantes, como a de pular muro pra cortar caminho, tática que quase todo mundo que não sofria de reumatismo vinha adotando ultimamente, principalmente os meninos. E não confiando na proibição só, nem na força dos castigos, que eram rigorosos, a Companhia ainda mandou fincar cacos de garrafa nos muros. Achei isso um exagero, e comentei o assunto com mamãe. Meu pai ouviu lá do quarto e veio explicar. Disse que em épocas normais bastava uma coisa ou outra; mas agora a Companhia não podia admitir nenhuma brecha em suas ordens; se alguém desobedecesse à proibição podia se cortar nos cacos; se alguém conseguisse pular um muro quebrando o corte de alguns cacos, ou jogando um couro por cima, era apanhado pela proibição, nhoc — e fez o gesto de quem torce o pescoço de um frango.",
+   "fonte_texto": "VEIGA, J. J. Sombras de reis barbudos. Rio de Janeiro: Civilização Brasileira, 1978.",
+   "enunciado": "Sob a perspectiva do menino que narra, os fatos ficcionais oferecem um esboço do momento político vigente na década de 1970, aqui representado pelo",
+   "alternativas": {
+    "a": "culto ao medo, infiltrado em situações do cotidiano.",
+    "b": "sentimento de dúvida quanto à veracidade das informações.",
+    "c": "ambiente de sonho, delineado por imagens perturbadoras.",
+    "d": "incentivo ao desenvolvimento econômico com a iniciativa privada.",
+    "e": "espaço urbano marcado por uma política de isolamento das crianças."
+   },
+   "resposta": "a",
+   "explicacao": "A Companhia proíbe cuspir para cima e tapar o sol com peneira — regras absurdas cuja única função é lembrar a todos que existe alguém proibindo. Depois fecha o cerco: quem desobedece se corta nos cacos, quem escapa dos cacos cai na proibição, e o pai encerra a explicação com o gesto de torcer o pescoço de um frango. O medo se instala nas menores rotinas da cidade, e é essa a alegoria da ditadura publicada em 1972. As demais alternativas pegam elementos laterais: a Companhia é empresa, mas o texto não celebra desenvolvimento; as crianças são citadas como as que mais pulavam muros, sem política de isolamento; e a atmosfera é opressiva, não onírica. A dúvida sobre a informação, típica da censura, não é o que este trecho encena."
+  },
+  {
+   "subtema": "literatura-contemporanea",
+   "id": "enem-literatura-10",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Migalhas\nEntre a toalha branca e um bule de café\nseria inapropriado dizer\neu não te amo mais.\nEra necessário algo mais solene,\num jardim japonês\npara as perdas pensadas,\num noturno de tempestade\npara arrebentar de dor,\numa praia de pedras para chorar\nem silêncio, uma cama alta\npara o incenso da despedida,\numa janela\ndando para o abismo.\nNo entanto você abaixa os olhos\ne recolhe lentamente as migalhas de pão\nsobre a mesa posta para dois.",
+   "fonte_texto": "MARQUES, A. M. A vida submarina. São Paulo: Cia. das Letras, 2021.",
+   "enunciado": "Nesse poema, a representação do sentimento amoroso recupera a tradição lírica, mas se ajusta à visão contemporânea ao",
+   "alternativas": {
+    "a": "invocar o interlocutor para uma tomada de posição.",
+    "b": "questionar a validade do envolvimento romântico.",
+    "c": "diluir em banalidade a comoção de um amor frustrado.",
+    "d": "transformar em paz as emoções conflituosas do casal.",
+    "e": "condicionar a existência da paixão a espaços idealizados."
+   },
+   "resposta": "c",
+   "explicacao": "O poema pede cenários grandiosos para o fim do amor — jardim japonês, noturno de tempestade, praia de pedras, janela dando para o abismo — e essa é a herança da tradição lírica. Mas o \"No entanto\" derruba tudo: o que de fato acontece é alguém baixando os olhos e recolhendo migalhas de pão da mesa. O luto solene não vem; sobra o gesto miúdo, doméstico. É a comoção diluída no banal. As demais leem o poema pela metade: os espaços idealizados são recusados, não exigidos; não há convocação do interlocutor a decidir nada, nem paz alcançada — o silêncio final é constrangimento, não serenidade. E o poema não põe em dúvida o amor romântico: ele mostra que o fim dele acontece sem cerimônia."
   }
  ],
  "ingles-inference": [
@@ -25576,6 +26270,72 @@ window.QUESTION_BANKS = {
    "resposta": "d",
    "explicacao": "O artigo inteiro se apoia num contraste: o TEXTO não atacava Putin, e ainda assim foi a IMAGEM que provocou a ameaça de processo do governo russo. Nenhuma palavra escrita produziu o efeito que duas figuras produziram — que é precisamente o sentido de \"uma imagem vale mais que mil palavras\". A alternativa e é a distratora mais elegante, porque a frase sobre a verdade como primeira vítima da guerra é verdadeira em geral, mas não explica o IMPACTO específico dos memes, que é o que a pergunta cobra.",
    "origem": "direito"
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "enem-ingles-01",
+   "_frente": "ingles",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Cartaz de campanha:\n\"The average american tosses 300 pounds of food each year, making food the number one contributor to America's landfills. Eat your leftovers and keep your perishables in the fridge – the Earth is counting on it.\"",
+   "fonte_texto": "Disponível em: https://mir-s3-cdn-cf.behance.net. Acesso em: 29 out. 2021 (adaptado).",
+   "enunciado": "Esse cartaz de campanha sugere que",
+   "alternativas": {
+    "a": "os lixões precisam de ampliação.",
+    "b": "o desperdício degrada o ambiente.",
+    "c": "os mercados doam alimentos perecíveis.",
+    "d": "a desnutrição compromete o raciocínio.",
+    "e": "as residências carecem de refrigeradores."
+   },
+   "resposta": "b",
+   "explicacao": "O cartaz encadeia três informações: cada americano joga fora 300 libras de comida por ano (\"tosses\" é descarta), isso faz da comida o principal item dos aterros (\"the number one contributor to America's landfills\"), e a Terra depende de que se mude isso (\"the Earth is counting on it\"). Ou seja, jogar comida fora prejudica o planeta. As demais invertem ou desviam a mensagem: ampliar aterros é o contrário do que a campanha quer, já que ela pede que se reduza o que vai para eles. Guardar os perecíveis na geladeira é um conselho a quem já a tem, não uma denúncia de falta. E nem doação por mercados nem efeito da desnutrição sobre o raciocínio aparecem no texto."
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "enem-ingles-02",
+   "_frente": "ingles",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "No man is an island,\nEntire of itself;\nEvery man is a piece of the continent,\nA part of the main.\n[...]\nAny man's death diminishes me,\nBecause I am involved in mankind.",
+   "fonte_texto": "DONNE, J. The Works of John Donne. Londres: John W. Parker, 1839 (fragmento).",
+   "enunciado": "Nesse poema, a expressão \"No man is an island\" ressalta o(a)",
+   "alternativas": {
+    "a": "medo da morte.",
+    "b": "ideia de conexão.",
+    "c": "conceito de solidão.",
+    "d": "risco de devastação.",
+    "e": "necessidade de empatia."
+   },
+   "resposta": "b",
+   "explicacao": "A metáfora funciona por oposição geográfica: ilha é terra cercada de água, separada de tudo; continente é terra contínua. Ao negar que alguém seja ilha e afirmar que cada um é \"a piece of the continent, a part of the main\", Donne afirma que as pessoas são partes ligadas de um mesmo todo. O verso final confirma — a morte de qualquer um me diminui porque estou envolvido na humanidade. A ideia é conexão. A solidão é o que a imagem NEGA, e por isso engana. A empatia é consequência dessa ligação, não o que a expressão em si ressalta; e nem morte como temor nem devastação estão no fragmento, que trata a morte como perda compartilhada."
+  },
+  {
+   "subtema": "ingles-inference",
+   "id": "enem-ingles-05",
+   "_frente": "ingles",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Cartum: num escritório, corredores e mesas estão ocupados por funcionários rigorosamente iguais entre si — todos homens brancos, de terno escuro, camisa clara e gravata, com o mesmo corte de cabelo. Um deles diz ao recém-chegado:\n\"Oh, you'll love working here. Nobody treats you any differently just because of your age, race, or gender.\"",
+   "fonte_texto": "Disponível em: www.cartoonstock.com. Acesso em: 25 out. 2021.",
+   "enunciado": "Ao retratar o ambiente de trabalho em um escritório, esse cartum tem por objetivo",
+   "alternativas": {
+    "a": "criticar um padrão de vestimenta.",
+    "b": "destacar a falta de diversidade.",
+    "c": "indicar um modo de interação.",
+    "d": "elogiar um modelo de organização.",
+    "e": "salientar o espírito de cooperação."
+   },
+   "resposta": "b",
+   "explicacao": "O humor está na contradição entre o que se diz e o que se vê. A fala se gaba de que ninguém é tratado de forma diferente por idade, raça ou gênero — mas o escritório inteiro é composto de homens brancos idênticos. Não há tratamento desigual porque não há ninguém diferente para ser tratado: a igualdade é consequência da exclusão prévia. É a falta de diversidade que o cartum denuncia. O terno igual em todos é o SINAL dessa uniformidade, não o alvo da crítica, o que afasta a leitura sobre vestimenta. E as três restantes leem a cena ao pé da letra, como se a frase do personagem fosse verdadeira — que é exatamente a armadilha da ironia."
   }
  ],
  "ingles-grammar-structure": [
@@ -27985,6 +28745,50 @@ window.QUESTION_BANKS = {
    "explicacao": "A ideia central do texto é que cada tecnologia assume uma parte da tarefa e deixa intacto o julgamento do professor diante de um aluno concreto. As outras opções anunciam substituições que a passagem afasta.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "enem-ingles-03",
+   "_frente": "ingles",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Things We Carry on the Sea\nWe carry tears in our eyes: good-bye father, good-bye mother\nWe carry soil in small bags: may home never fade in our hearts\nWe carry carnage of mining, droughts, floods, genocides\nWe carry dust of our families and neighbors incinerated in mushroom clouds\nWe carry our islands sinking under the sea\nWe carry our hands, feet, bones, hearts and best minds for a new life\nWe carry diplomas: medicine, engineer, nurse, education, math, poetry, even if they mean nothing to the other shore\nWe carry railroads, plantations, laundromats, bodegas, taco trucks, farms, factories, nursing homes, hospitals, schools, temples... built on our ancestors' backs\nWe carry old homes along the spine, new dreams in our chests\nWe carry yesterday, today and tomorrow\nWe're orphans of the wars forced upon us\nWe're refugees of the sea rising from industrial wastes\nAnd we carry our mother tongues\n[...]\nAs we drift... in our rubber boats... from shore... to shore... to shore...",
+   "fonte_texto": "PING, W. Disponível em: https://poets.org. Acesso em: 1 jun. 2023 (fragmento).",
+   "enunciado": "Ao retratar a trajetória de refugiados, o poema recorre à imagem de viagem marítima para destacar o(a)",
+   "alternativas": {
+    "a": "risco de choques culturais.",
+    "b": "impacto do ensino de história.",
+    "c": "importância da luta ambiental.",
+    "d": "existência de experiências plurais.",
+    "e": "necessidade de capacitação profissional."
+   },
+   "resposta": "d",
+   "explicacao": "A anáfora \"We carry\" abre uma bagagem que não cabe numa única história: lágrimas e terra num saquinho, mas também mineração, secas, enchentes, genocídios, bombas atômicas, ilhas afundando, diplomas de medicina e de poesia, ferrovias e lavanderias construídas por ancestrais, e as línguas maternas. Cada verso vem de uma origem e de um motivo de partida diferentes — o que o poema destaca é a pluralidade dessas experiências. As outras opções isolam um dos itens da lista e o tomam pelo todo: o meio ambiente aparece em alguns versos, os diplomas em outro, e o encontro entre culturas apenas se insinua em \"the other shore\". Nenhum deles organiza o poema; a enumeração, sim."
+  },
+  {
+   "subtema": "ingles-main-idea",
+   "id": "enem-ingles-04",
+   "_frente": "ingles",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Spanglish\npues estoy creando Spanglish / bi-cultural systems / scientific lexicographical / inter-textual integrations / two expressions / existentially wired / two dominant languages / continentally abrazándose / in colloquial combate / imperio spanglish emerges / sobre territorio bi-lingual / las novelas mexicanas / mixing with radiorocknroll / immigrant/migrant / nasal mispronouncements / hip-hop, street salsa, spanish pop / standard english classroom / with computer technicalities / spanglish is literally perfect",
+   "fonte_texto": "LAVIERA, T. Benedición: The Complete Poetry of Tato Laviera. Houston: Arte Público Press, 2014 (fragmento).",
+   "enunciado": "Nesse poema de Tato Laviera, o eu lírico destaca uma",
+   "alternativas": {
+    "a": "convergência linguístico-cultural.",
+    "b": "característica histórico-cultural.",
+    "c": "tendência estilístico-literária.",
+    "d": "discriminação cultural.",
+    "e": "censura musical."
+   },
+   "resposta": "a",
+   "explicacao": "O poema não fala sobre o spanglish, ele é escrito em spanglish: \"continentally abrazándose\", \"in colloquial combate\", \"imperio spanglish emerges sobre territorio bi-lingual\". Inglês e espanhol se misturam dentro da mesma linha, e a mistura não para na língua — novelas mexicanas com rock de rádio, hip-hop com salsa de rua e pop espanhol. É encontro de línguas e de culturas ao mesmo tempo, e o fecho o celebra: \"spanglish is literally perfect\". Nada ali é discriminação ou censura; ao contrário, o tom é afirmativo. E as duas opções restantes são vagas demais para o que o texto faz: ele não descreve um período histórico nem propõe um estilo literário, ele encena uma fusão."
   }
  ],
  "ingles-detail": [
@@ -76351,6 +77155,27 @@ window.QUESTION_BANKS = {
    "formato": "direta",
    "banca": "einstein",
    "origem": "medicina"
+  },
+  {
+   "subtema": "artes-classica-moderna",
+   "id": "enem-artes-cultura-03",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "TEXTO I\nLasar Segall, Eternos caminhantes. Óleo sobre tela, 138 x 184 cm. Museu Lasar Segall, São Paulo, 1919. A tela mostra um grupo de figuras humanas alongadas e angulosas, de rostos alquebrados, caminhando amontoadas — imagem expressionista do êxodo judaico.\n\nTEXTO II\nEm 1933, a obra Eternos caminhantes ingressou em uma das primeiras edições das exposições de Arte Degenerada, promovida por membros do partido nazista alemão. Nos anos seguintes, ela voltaria a ser exibida na mostra denominada Exposição da Vergonha, promovida por pequenos grupos abastados. Em 1937, essa obra foi confiscada pelo Ministério da Propaganda daquele país, na grande ação nacional-socialista contra a \"Arte Degenerada\".",
+   "fonte_texto": "SCHWARTZ, J. Perseguição à Arte Moderna em tempos de guerra. São Paulo: Museu Lasar Segall, 2018 (adaptado).",
+   "enunciado": "Quase cinquenta obras de Lasar Segall foram confiscadas pelo regime totalitário alemão na primeira metade do século XX, entre elas a obra Eternos caminhantes, considerada degenerada por",
+   "alternativas": {
+    "a": "representar uma estética tida como inconveniente para o ideário político vigente.",
+    "b": "manifestar um posicionamento político-cultural concebido por grupos de oposição.",
+    "c": "expressar a cultura artística por meio da representação parcial do corpo humano.",
+    "d": "apresentar uma composição que antecipa o imaginário artístico germânico.",
+    "e": "estimular discussões sobre o papel da arte na construção coletiva de cultura."
+   },
+   "resposta": "a",
+   "explicacao": "\"Arte degenerada\" foi a categoria que o nazismo criou para tudo o que não servia ao seu programa: o regime queria corpos heroicos e idealizados, e o expressionismo de Segall entrega figuras deformadas, judias e em fuga. O confisco pelo Ministério da Propaganda diz a natureza do julgamento — é estético a serviço do político. As demais erram o motivo. A obra é de 1919 e não nasce como manifesto de um grupo de oposição ao regime, que ainda nem existia. A representação não é parcial, e sim distorcida, que é coisa diferente. E, em vez de antecipar o imaginário germânico oficial, ela era exatamente o que esse imaginário rejeitava. A quinta descreve um debate que a perseguição impediu."
   }
  ],
  "artes-audiovisual-midia": [
@@ -78940,6 +79765,27 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "O texto narra três tempos. Primeiro a cavalgada existe porque o cavalo é o único transporte: a prática é tradicional e funcional ao mesmo tempo. Depois o automóvel chega e ela se extingue — a modernidade elimina a necessidade prática. E em 2002 ela volta, agora sem função de transporte, como celebração que atrai gente da cidade e de municípios vizinhos. Tradição e modernidade convivem, e o que dá unidade às três fases é a devoção a Sant'Ana. Repare no que as outras quatro têm em comum: todas atribuem a mudança a uma ordem vinda de cima (papal, clerical, eclesiástica, paroquial), e no texto quem extingue a prática é o carro e quem a retoma é um grupo de moradores com a associação dos vaqueiros. A Igreja não decide nada nessa história."
+  },
+  {
+   "subtema": "artes-patrimonio-cultura-popular",
+   "id": "enem-artes-cultura-05",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O Marabaixo é uma expressão artístico-cultural formada nas tradições e na identificação cultural entre as comunidades negras do Amapá. O nome remonta às mortes de escravizados em navios negreiros que eram jogados na água. Em sua homenagem, hinos de lamento eram cantados mar abaixo, mar acima. Posteriormente, o Marabaixo se integrou à vivência das comunidades negras em um ciclo de danças, cantorias com tambores e festas religiosas, recebendo, em 2018, o título de Patrimônio Cultural do Brasil.",
+   "fonte_texto": "Disponível em: http://portal.iphan.gov.br. Acesso em: 15 nov. 2021 (adaptado).",
+   "enunciado": "A manifestação do Marabaixo se constituiu em expressão de arte e cultura, exercendo função de",
+   "alternativas": {
+    "a": "ressignificar episódios dramáticos em novas práticas culturais.",
+    "b": "adaptar coreografias como imitação dos movimentos do mar.",
+    "c": "lembrar dos mortos no passado escravista como forma de lamento.",
+    "d": "perpetuar uma narrativa de apagamento dos fatos históricos traumáticos.",
+    "e": "ritualizar a passagem de atos fúnebres nas produções coletivas com espírito festivo."
+   },
+   "resposta": "a",
+   "explicacao": "O texto narra uma transformação em duas etapas. Na origem, hinos de lamento pelos corpos lançados ao mar. \"Posteriormente\", o Marabaixo se integra à vida das comunidades como ciclo de danças, cantorias com tambores e festas religiosas — e em 2018 vira Patrimônio Cultural do Brasil. O luto não desapareceu, mas foi convertido em prática cultural viva: é ressignificação. A terceira alternativa é a mais próxima e para na primeira etapa, tratando o Marabaixo como se ainda fosse só lamento. A quarta o inverte: a manifestação preserva a memória do trauma em vez de apagá-la. E a segunda toma o nome ao pé da letra — \"mar abaixo, mar acima\" descreve o canto pelos mortos, não a imitação das ondas."
   }
  ],
  "artes-musica-cena": [
@@ -80008,6 +80854,48 @@ window.QUESTION_BANKS = {
    "formato": "lacunas",
    "banca": "unicamp",
    "origem": "medicina"
+  },
+  {
+   "subtema": "artes-musica-cena",
+   "id": "enem-artes-cultura-02",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O sol começa a descer por trás da vegetação da Ilha da Restinga, na outra margem do rio Paraíba, colorindo o céu de amarelo, laranja e lilás. Então se ouvem as primeiras notas do Bolero, do compositor francês Maurice Ravel, executadas pelo saxofonista Jurandy. É assim o pôr do sol da praia do Jacaré, em Cabedelo (Grande João Pessoa). Depois do Bolero, Jurandy toca Asa branca, de Luiz Gonzaga, e Meu sublime torrão, de Genival Macedo, espécie de hino não oficial da Paraíba.",
+   "fonte_texto": "PINHEIRO, A. Sol se põe embalado pelo Bolero de Ravel. Disponível em: http://tools.folha.com.br. Acesso em: 16 set. 2012 (adaptado).",
+   "enunciado": "A interpretação musical de Jurandy do Sax, codinome de José Jurandy Félix, apresenta um repertório caracterizado pela",
+   "alternativas": {
+    "a": "inter-relação de referenciais estéticos aparentemente distanciados.",
+    "b": "valorização de músicas que revelam mensagens de serenidade.",
+    "c": "consagração do repertório erudito como cultura dominante.",
+    "d": "iniciativa de estímulo à vocação turística da cidade.",
+    "e": "divisão hierárquica entre gêneros e estilos musicais."
+   },
+   "resposta": "a",
+   "explicacao": "O repertório de um único pôr do sol junta o Bolero de Ravel, peça do repertório erudito europeu, com Asa branca, de Luiz Gonzaga, e um hino não oficial paraibano. Erudito e popular, francês e nordestino, dividem o mesmo saxofone e o mesmo público — são referenciais que a classificação usual mantém afastados e que ali convivem. As duas alternativas sobre hierarquia dizem o oposto do que a cena mostra: se houvesse divisão entre gêneros, ou consagração do erudito como cultura dominante, Ravel não seria seguido de Luiz Gonzaga em pé de igualdade. A serenidade não descreve o Bolero, que é peça de crescendo obsessivo. E o turismo é efeito do encontro, não sua característica musical."
+  },
+  {
+   "subtema": "artes-musica-cena",
+   "id": "enem-artes-cultura-04",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Logo no início de Gira, espetáculo do Grupo Corpo, um grupo de sete bailarinas ocupa o centro da cena. Mãos cruzadas sobre a lateral esquerda do quadril, olhos fechados, troncos que pendulam sobre si mesmos em vaguíssimas órbitas, tudo nelas sugere o transe. Está estabelecido o caráter volátil do que se passará no palco dali para frente. Mas engana-se quem pensa que vai assistir a uma representação mimética dos cultos afro-brasileiros.",
+   "fonte_texto": "Disponível em: www.grupocorpo.com.br. Acesso em: 2 jul. 2019.",
+   "enunciado": "No diálogo que estabelece com religiões afro-brasileiras, sintetizado na descrição e na imagem do espetáculo, a dança exprime uma",
+   "alternativas": {
+    "a": "crítica aos movimentos padronizados do balé clássico.",
+    "b": "representação contemporânea de rituais ancestrais extintos.",
+    "c": "reelaboração estética erudita de práticas religiosas populares.",
+    "d": "releitura irônica da atmosfera mística presente no culto a entidades.",
+    "e": "oposição entre o resgate de tradições e a efemeridade da vida humana."
+   },
+   "resposta": "c",
+   "explicacao": "A frase decisiva é a última: \"engana-se quem pensa que vai assistir a uma representação mimética dos cultos afro-brasileiros\". A companhia toma o gesto do transe — mãos no quadril, olhos fechados, troncos em órbita — e o transforma em vocabulário de dança cênica. Não copia o ritual; reelabora-o em linguagem erudita de palco. Duas alternativas caem justamente na leitura que o texto proíbe: representar rituais, ainda que ditos extintos (o que é falso — a umbanda e o candomblé são vivos), é o que o Grupo Corpo diz NÃO fazer. Ironia exigiria distanciamento zombeteiro, e a descrição é respeitosa. E não há no trecho nem crítica ao balé clássico nem tema da efemeridade da vida."
   }
  ],
  "artes-contemporanea": [
@@ -81209,6 +82097,27 @@ window.QUESTION_BANKS = {
    "explicacao": "A fronteira entre as duas práticas é social, não formal: o mesmo gesto muda de nome conforme quem autoriza e quem reconhece. Perceber isso é entender por que a arte urbana continua sendo um campo em disputa, e não uma categoria estável.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "artes-contemporanea",
+   "id": "enem-artes-cultura-06",
+   "banca": "enem",
+   "sessao": "enem-2023-dia-1",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O uso das redes sociais como forma de ampliar universos foi uma descoberta recente para o artista Wolney Fernandes, que começou a criar quando o ambiente em Goiás era mais árido em relação às artes visuais. \"Hoje, ser diferente é uma potência e quem sabe o que quer com a própria arte encontra espaço\", diz. As colagens artísticas do goiano aparecem em capas de obras literárias pelo Brasil e exterior.",
+   "fonte_texto": "Disponível em: https://opopular.com.br. Acesso em: 15 nov. 2021 (adaptado).",
+   "enunciado": "O artista goiano Wolney Fernandes busca expor seu trabalho por meio de plataformas virtuais com o objetivo de",
+   "alternativas": {
+    "a": "dar suporte à técnica de colagem em Artes Visuais, contornando dificuldades práticas.",
+    "b": "aproximar-se da estética visual própria da editoração de obras artísticas, como capas de livros.",
+    "c": "oferecer uma vitrine internacional para sua produção artística, a fim de dar mais visibilidade a suas obras.",
+    "d": "enfatizar o caráter original e inovador de suas criações artísticas, diferenciando-se das artes tradicionais.",
+    "e": "trazer um sentido tecnológico às suas colagens, uma vez que as imagens artísticas são recorrentes nas redes sociais."
+   },
+   "resposta": "c",
+   "explicacao": "O texto encadeia problema e solução. O problema era geográfico: Goiás \"mais árido em relação às artes visuais\", ou seja, poucos espaços de exposição. A solução foi a rede social, que \"amplia universos\" — e o resultado está na última frase, com as colagens em capas de livros \"pelo Brasil e exterior\". A plataforma funciona como vitrine que dissolve a distância. As demais confundem meio com fim: a rede não conserta nada da técnica de colagem, que continua a mesma; a capa de livro é onde o trabalho foi parar, não a estética que ele persegue; e o suporte digital não torna a obra mais original nem mais tecnológica — o que muda é quem consegue vê-la."
   }
  ],
  "dh-fundamentos": [

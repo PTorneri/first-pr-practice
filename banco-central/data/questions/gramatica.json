@@ -6632,6 +6632,43 @@
    "explicacao": "\"Anexo\" concorda em gênero e número com o termo a que se refere: relatórios anexos, cópia anexa. Só a locução \"em anexo\" fica invariável. \"Bastante\" varia quando quantifica um nome, valendo por \"muitos\"; fica invariável quando intensifica um verbo ou modificador, valendo por \"muito\".",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "id": "eng-gramatica-01",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Leia com atenção as seguintes frases:\nI. 50% dos candidatos a uma vaga na universidade ainda não sabe o que quer.\nII. O time, que tinha como objetivo empatar para garantir a classificação, partiu para cima e encurralou totalmente os adversários. Foram criadas uma série de chances.\nIII. A Associação Paraibana dos Cronistas Esportivos (APBCE) destacou que o ataque contra jornalistas representam um ataque às leis, uma vez que um dos agressores, Breno Morais, foi banido do esporte pelo Superior Tribunal de Justiça Desportiva.\nIV. Produtores de tomates do Rio Grande do Sul e arredores, decide plantar mais esse ano.\nV. Há várias posições livres no esquadrão. Faz anos que ninguém consegue ocupar as vagas.\nEstão escritas corretamente todas as frases em",
+   "alternativas": {
+    "a": "III e IV.",
+    "b": "IV e V.",
+    "c": "V.",
+    "d": "I e II.",
+    "e": "II e III."
+   },
+   "resposta": "c",
+   "explicacao": "Só a V está correta, e ela testa dois verbos impessoais: \"há\" no sentido de existir e \"faz\" indicando tempo decorrido ficam ambos na terceira pessoa do singular, sem sujeito — exatamente como no enunciado. Nas outras quatro o erro é sempre de concordância verbal. Em I, o núcleo é o numeral percentual seguido de \"dos candidatos\", que puxa o plural: sabem. Em II, o sujeito de \"foram criadas\" é \"uma série\", singular: foi criada uma série de chances. Em III, o sujeito é \"o ataque\", e não \"jornalistas\", que está dentro do adjunto: representa. Em IV, o sujeito é \"produtores\", no plural, e ainda há uma vírgula indevida separando sujeito e verbo: decidem."
+  },
+  {
+   "id": "eng-gramatica-02",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "texto_apoio": "Fora no dia da minha chegada. Jantara com um companheiro de viagem, e ávidos ambos de conhecer a corte, saímos de braço dado a percorrer a cidade. Íamos, se não me engano, pela Rua das Mangueiras, quando, voltando-nos, vimos um carro elegante que levavam a trote largo dois fogosos cavalos.\n\nALENCAR, José de. Lucíola.",
+   "enunciado": "A concordância no plural, estabelecida pelo verbo \"levar\", pressupõe um caso típico de",
+   "alternativas": {
+    "a": "uso incorreto da linguagem justificado pela informalidade do texto.",
+    "b": "emprego da silepse para corresponder a uma ideia implícita à frase.",
+    "c": "coesão regressiva baseada no resgate do nome próprio \"Mangueiras\".",
+    "d": "inversão sintática e de utilização de um sujeito explícito e posposto.",
+    "e": "uso do pronome relativo com a finalidade de retomar o termo \"ambos\"."
+   },
+   "resposta": "d",
+   "explicacao": "A oração é \"que levavam a trote largo dois fogosos cavalos\". O relativo \"que\" não é o sujeito aqui, e sim o objeto direto, retomando \"um carro elegante\" — quem leva são os cavalos, e o carro é levado. O sujeito, portanto, é \"dois fogosos cavalos\", que está EXPLÍCITO e vem depois do verbo, numa ordem invertida comum na prosa do século XIX. É por isso que o verbo está no plural. A silepse seria concordância com uma ideia subentendida, e aqui não há nada subentendido: o sujeito está escrito. E não há erro nenhum a justificar pela informalidade — o trecho é literário e a construção é padrão."
   }
  ]
 }

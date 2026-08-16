@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "literatura",
- "total": 391,
+ "total": 397,
  "residuo": [
   "dir-literatura-53",
   "dir-literatura-55",
@@ -2339,6 +2339,42 @@
    "padrao": true
   },
   "dir-literatura-161": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 5
+  },
+  "eng-literatura-01": {
+   "subtema": "literatura-teoria-analise",
+   "frenteDestino": "literatura",
+   "pontos": 14,
+   "margem": 14
+  },
+  "eng-literatura-02": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 10
+  },
+  "eng-literatura-03": {
+   "subtema": "literatura-modernismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 10
+  },
+  "eng-literatura-04": {
+   "subtema": "literatura-colonial-romantismo",
+   "frenteDestino": "literatura",
+   "pontos": 5,
+   "margem": 0
+  },
+  "eng-literatura-05": {
+   "subtema": "literatura-realismo-naturalismo",
+   "frenteDestino": "literatura",
+   "pontos": 15,
+   "margem": 5
+  },
+  "eng-literatura-06": {
    "subtema": "literatura-teoria-analise",
    "frenteDestino": "literatura",
    "pontos": 5,

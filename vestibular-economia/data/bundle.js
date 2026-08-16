@@ -28282,6 +28282,25 @@ window.QUESTION_BANKS = {
    "explicacao": "\"Anexo\" concorda em gênero e número com o termo a que se refere: relatórios anexos, cópia anexa. Só a locução \"em anexo\" fica invariável. \"Bastante\" varia quando quantifica um nome, valendo por \"muitos\"; fica invariável quando intensifica um verbo ou modificador, valendo por \"muito\".",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-concordancia",
+   "id": "eng-gramatica-01",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "enunciado": "Leia com atenção as seguintes frases:\nI. 50% dos candidatos a uma vaga na universidade ainda não sabe o que quer.\nII. O time, que tinha como objetivo empatar para garantir a classificação, partiu para cima e encurralou totalmente os adversários. Foram criadas uma série de chances.\nIII. A Associação Paraibana dos Cronistas Esportivos (APBCE) destacou que o ataque contra jornalistas representam um ataque às leis, uma vez que um dos agressores, Breno Morais, foi banido do esporte pelo Superior Tribunal de Justiça Desportiva.\nIV. Produtores de tomates do Rio Grande do Sul e arredores, decide plantar mais esse ano.\nV. Há várias posições livres no esquadrão. Faz anos que ninguém consegue ocupar as vagas.\nEstão escritas corretamente todas as frases em",
+   "alternativas": {
+    "a": "III e IV.",
+    "b": "IV e V.",
+    "c": "V.",
+    "d": "I e II.",
+    "e": "II e III."
+   },
+   "resposta": "c",
+   "explicacao": "Só a V está correta, e ela testa dois verbos impessoais: \"há\" no sentido de existir e \"faz\" indicando tempo decorrido ficam ambos na terceira pessoa do singular, sem sujeito — exatamente como no enunciado. Nas outras quatro o erro é sempre de concordância verbal. Em I, o núcleo é o numeral percentual seguido de \"dos candidatos\", que puxa o plural: sabem. Em II, o sujeito de \"foram criadas\" é \"uma série\", singular: foi criada uma série de chances. Em III, o sujeito é \"o ataque\", e não \"jornalistas\", que está dentro do adjunto: representa. Em IV, o sujeito é \"produtores\", no plural, e ainda há uma vírgula indevida separando sujeito e verbo: decidem."
   }
  ],
  "gramatica-morfologia": [
@@ -31703,6 +31722,26 @@ window.QUESTION_BANKS = {
    "explicacao": "\"Aplicou-se o protocolo\" é construção de voz passiva sintética: \"o protocolo de urgência\" é o sujeito paciente, e \"se\" é a partícula apassivadora.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "gramatica-sintaxe-periodo",
+   "id": "eng-gramatica-02",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "texto_apoio": "Fora no dia da minha chegada. Jantara com um companheiro de viagem, e ávidos ambos de conhecer a corte, saímos de braço dado a percorrer a cidade. Íamos, se não me engano, pela Rua das Mangueiras, quando, voltando-nos, vimos um carro elegante que levavam a trote largo dois fogosos cavalos.\n\nALENCAR, José de. Lucíola.",
+   "enunciado": "A concordância no plural, estabelecida pelo verbo \"levar\", pressupõe um caso típico de",
+   "alternativas": {
+    "a": "uso incorreto da linguagem justificado pela informalidade do texto.",
+    "b": "emprego da silepse para corresponder a uma ideia implícita à frase.",
+    "c": "coesão regressiva baseada no resgate do nome próprio \"Mangueiras\".",
+    "d": "inversão sintática e de utilização de um sujeito explícito e posposto.",
+    "e": "uso do pronome relativo com a finalidade de retomar o termo \"ambos\"."
+   },
+   "resposta": "d",
+   "explicacao": "A oração é \"que levavam a trote largo dois fogosos cavalos\". O relativo \"que\" não é o sujeito aqui, e sim o objeto direto, retomando \"um carro elegante\" — quem leva são os cavalos, e o carro é levado. O sujeito, portanto, é \"dois fogosos cavalos\", que está EXPLÍCITO e vem depois do verbo, numa ordem invertida comum na prosa do século XIX. É por isso que o verbo está no plural. A silepse seria concordância com uma ideia subentendida, e aqui não há nada subentendido: o sujeito está escrito. E não há erro nenhum a justificar pela informalidade — o trecho é literário e a construção é padrão."
   }
  ],
  "literatura-realismo-naturalismo": [
@@ -33244,6 +33283,46 @@ window.QUESTION_BANKS = {
    "resposta": "a",
    "explicacao": "\"Porventura\" é advérbio de dúvida e equivale a \"talvez\", \"acaso\" — sentido confirmado pela continuação da frase, em que o narrador logo relativiza tudo ao dizer que \"a ótima delas é nenhuma\". A alternativa b vai na direção contrária, trocando dúvida por certeza; c afirma literalidade num trecho que compara imagens, isto é, figuras; e d e e introduzem consequência, relação que a frase não estabelece.",
    "origem": "direito"
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "eng-literatura-02",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "texto_apoio": "Razão, irmã do Amor e da Justiça,\nMais uma vez escuta a minha prece,\nÉ a voz d'um coração que te apetece,\nDuma alma livre, só a ti submissa.\n\nPor ti é que a poeira movediça\nDe astros e sóis e mundos permanece;\nE é por ti que a virtude prevalece,\nE a flor do heroísmo medra e viça.\n\nPor ti, na arena trágica, as nações\nBuscam a liberdade, entre clarões;\nE os que olham o futuro e cismam, mudos,\n\nPor ti, podem sofrer e não se abatem,\nMãe de filhos robustos, que combatem\nTendo o teu nome escrito em seus escudos!\n\nAntero de Quental",
+   "enunciado": "Antero de Quental é poeta português da segunda metade do século XIX, que fazia apologia a uma nova forma de pensamento que procurava superar a estética literária até então vigente.\nNessa perspectiva, de acordo com a temática, o soneto analisado carrega características",
+   "alternativas": {
+    "a": "modernas, na busca pela liberdade de expressão e pela prevalência da virtude racional nas obras de arte.",
+    "b": "parnasianas, no apreço a uma linguagem culta e puramente racional, livre de qualquer traço emotivo.",
+    "c": "simbolistas, na utilização de imagens oníricas para exaltar a razão e fazê-la o motor da vida humana.",
+    "d": "românticas, na súplica à razão para guiar as nações a um equilíbrio entre liberdade e justiça social.",
+    "e": "realistas, na exaltação da razão como fundamento das virtudes, das lutas sociais e do próprio mundo."
+   },
+   "resposta": "e",
+   "explicacao": "A pista está em \"superar a estética literária até então vigente\": na segunda metade do século XIX português, o que se supera é o Romantismo, e quem o supera é a Geração de 70 de Coimbra, à qual Antero de Quental pertence — o Realismo. O soneto confirma pelo conteúdo: a Razão é invocada como fundamento da virtude, do heroísmo e da luta das nações pela liberdade, que é exatamente o programa realista de submeter a arte à razão e à intervenção social. A opção romântica inverte a cronologia, pois o Romantismo é o movimento superado; a parnasiana erra ao exigir ausência total de emoção, e o poema é uma prece apaixonada; e o Simbolismo, além de posterior, prefere a sugestão e o vago à clareza racional."
+  },
+  {
+   "subtema": "literatura-realismo-naturalismo",
+   "id": "eng-literatura-05",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "texto_apoio": "Última flor do Lácio, inculta e bela,\nÉs, a um tempo, esplendor e sepultura:\nOuro nativo, que na ganga impura\nA bruta mina entre os cascalhos vela...\n\nAmo-te assim, desconhecida e obscura.\nTuba de alto clangor, lira singela,\nQue tens o trom e o silvo da procela,\nE o arrolo da saudade e da ternura!\n\nAmo o teu viço agreste e o teu aroma\nDe virgens selvas e de oceano largo!\nAmo-te, ó rude e doloroso idioma,\n\nem que da voz materna ouvi: \"meu filho!\",\nE em que Camões chorou, no exílio amargo,\nO gênio sem ventura e o amor sem brilho!\n\nOlavo Bilac",
+   "enunciado": "O poema acima, por suas características, pode ser imediatamente associado ao",
+   "alternativas": {
+    "a": "Realismo, pois retrata a sociedade de maneira mais real, sem idealizações e subjetividade, valorizando a objetividade.",
+    "b": "Simbolismo, pela presença de elementos místicos e transcendentais, musicalidade e figuras de linguagem como a sinestesia.",
+    "c": "Parnasianismo, pois apresenta vocabulário culto, descrições, rimas ricas e apreço pela métrica.",
+    "d": "Romantismo, pela presença de sentimentalismo, valorização das emoções pessoais, subjetivismo e egocentrismo.",
+    "e": "Arcadismo, seus versos representam o ideal árcade de valorização da vida simples, com base na natureza."
+   },
+   "resposta": "c",
+   "explicacao": "É o soneto \"Língua Portuguesa\", de Olavo Bilac, o maior nome do Parnasianismo brasileiro — e a forma denuncia a escola antes mesmo do autor. O soneto é a forma fixa preferida dos parnasianos; o vocabulário é deliberadamente culto e raro (\"ganga\", \"procela\", \"clangor\"); as rimas são ricas, unindo palavras de classes gramaticais diferentes; e o poema tem como assunto a PRÓPRIA língua, isto é, o culto à forma que define o movimento. O sentimento presente não o torna romântico: no Parnasianismo o afeto aparece contido e trabalhado pela técnica, não derramado. E não há a musicalidade sugestiva nem o transcendentalismo que caracterizariam o Simbolismo."
   }
  ],
  "literatura-colonial-romantismo": [
@@ -34402,6 +34481,26 @@ window.QUESTION_BANKS = {
    "explicacao": "Alencar chama o livro de lenda: a prosa se aproxima do poema e a heroína se confunde com a terra. O par indígena e colonizador serve de mito de origem do povo brasileiro, projeto central do romantismo nacionalista.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-colonial-romantismo",
+   "id": "eng-literatura-04",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "texto_apoio": "Goza, goza da flor da mocidade,\nQue o tempo trota a toda ligeireza,\nE imprime em toda flor sua pisada.\n\nOh, não aguardes, que a madura idade\nTe converta essa flor, essa beleza,\nEm terra, em cinza, em pó, em sombra, em nada.\n\nGregório de Matos",
+   "enunciado": "Os tercetos acima apresentam",
+   "alternativas": {
+    "a": "conceptismo e cultismo, expressões da poesia barroca, em um imaginário bucólico.",
+    "b": "oposição entre Reforma e Contrarreforma, dilema no plano religioso.",
+    "c": "caráter de jogo verbal próprio da poesia lírica do séc. XVI, sustentando uma crítica à preocupação feminina com a beleza.",
+    "d": "jogo metafórico do Barroco, a respeito da fugacidade da vida, exaltando gozo do momento.",
+    "e": "estilo pedagógico da poesia neoclássica, ratificando as reflexões do poeta a respeito das mulheres maduras."
+   },
+   "resposta": "d",
+   "explicacao": "São os dois temas clássicos do Barroco reunidos: o carpe diem, no convite a gozar a mocidade, e a fugacidade da vida, na imagem do tempo que pisa a flor. A gradação descendente do último verso — \"em terra, em cinza, em pó, em sombra, em nada\" — é o jogo metafórico típico da poesia de Gregório de Matos, levando a beleza ao aniquilamento. A opção que também fala em Barroco erra ao situar o poema num imaginário BUCÓLICO, que é o do Arcadismo, com pastores e vida campestre; aqui não há campo nenhum. E o conflito Reforma/Contrarreforma, embora seja o pano de fundo histórico do Barroco, não é o assunto destes versos, que são sobre o tempo e o corpo."
   }
  ],
  "literatura-modernismo": [
@@ -35540,6 +35639,26 @@ window.QUESTION_BANKS = {
    "explicacao": "Vidas Secas integra o romance de 30, fase do modernismo em que a ficção se volta para a denúncia social — estiagem, migração forçada, exploração — com uma prosa desnuda, sem ornamento. Graciliano Ramos reduz o período à frase essencial e alterna a descrição da paisagem hostil com a percepção limitada das figuras retratadas, cuja dificuldade com a palavra é ela mesma um dos temas do livro. Jorge Amado e Rachel de Queiroz compõem, com ele, a geração de 30.",
    "formato": "direta",
    "origem": "medicina"
+  },
+  {
+   "subtema": "literatura-modernismo",
+   "id": "eng-literatura-03",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "texto_apoio": "Canto de regresso à pátria\n\nMinha terra tem palmares\nOnde gorjeia o mar\nOs passarinhos daqui\nNão cantam como os de lá\nMinha terra tem mais rosas\nE quase que mais amores\nMinha terra tem mais ouro\nMinha terra tem mais terra\nOuro terra amor e rosas\nEu quero tudo de lá\nNão permita Deus que eu morra\nSem que volte para lá\nNão permita Deus que eu morra\nSem que veja a Rua 15\nE o progresso de São Paulo.\n\nOswald de Andrade",
+   "enunciado": "Esse poema, de Oswald de Andrade, parodia",
+   "alternativas": {
+    "a": "\"Uma Canção\", de Mário Quintana, em que o autor brinca com o texto original, chamando de aves invisíveis as que cantam nas palmeiras que não há.",
+    "b": "\"Europa, França e Bahia\", de Carlos Drummond de Andrade, com cais bolorentos de livros judeus.",
+    "c": "\"Canção do Exílio\", de Gonçalves Dias, recriando o texto com caráter humorístico.",
+    "d": "\"Canção do Exílio\", de Casimiro de Abreu, uma preciosidade do Romantismo brasileiro.",
+    "e": "\"Nova Canção do Exílio\", de Ferreira Gullar, representante do Modernismo brasileiro."
+   },
+   "resposta": "c",
+   "explicacao": "O poema retoma a estrutura mais conhecida da poesia brasileira — \"Minha terra tem palmeiras, / Onde canta o sabiá\" — e a torce: palmares em vez de palmeiras, e o MAR gorjeando no lugar do sabiá. O original é a \"Canção do Exílio\", de Gonçalves Dias, publicada em 1846. As duas últimas estrofes fecham a identificação, porque parodiam justamente os versos \"Não permita Deus que eu morra, / Sem que eu volte para lá\", trocando o paraíso natural pelo progresso urbano da Rua 15. Atribuir a Canção do Exílio a Casimiro de Abreu é o distrator mais próximo: ele é romântico e da mesma geração, mas não é o autor deste poema."
   }
  ],
  "literatura-teoria-analise": [
@@ -37296,6 +37415,46 @@ window.QUESTION_BANKS = {
    "resposta": "e",
    "explicacao": "\"Mirabolante\" é adjetivo, e no verso vem precedido do artigo \"o\" e do pronome \"todo\", o que o transforma em SUBSTANTIVO sem mudar-lhe uma letra sequer — a definição exata de derivação imprópria. Em b há personificação, já que a letra é que aparece qualificada de analfabeta, mas \"analfabeta\" continua adjetivo; em c, \"alto-falante\" já é substantivo; e em a e d não há troca de classe alguma.",
    "origem": "direito"
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "eng-literatura-01",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-presencial",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "engenharia",
+   "texto_apoio": "Razão, irmã do Amor e da Justiça,\nMais uma vez escuta a minha prece,\nÉ a voz d'um coração que te apetece,\nDuma alma livre, só a ti submissa.\n\nPor ti é que a poeira movediça\nDe astros e sóis e mundos permanece;\nE é por ti que a virtude prevalece,\nE a flor do heroísmo medra e viça.\n\nPor ti, na arena trágica, as nações\nBuscam a liberdade, entre clarões;\nE os que olham o futuro e cismam, mudos,\n\nPor ti, podem sofrer e não se abatem,\nMãe de filhos robustos, que combatem\nTendo o teu nome escrito em seus escudos!\n\nAntero de Quental",
+   "enunciado": "O uso das figuras de linguagem como recursos estilísticos e semânticos amplia a capacidade comunicativa dos textos. Nos versos \"É a voz d'um coração que te apetece / Duma alma livre, só a ti submissa\", a ideia central desenvolvida no soneto é apoiada inicialmente pelo emprego de um desses recursos denominado",
+   "alternativas": {
+    "a": "paradoxo, pois se estabelece a noção de que a alma só alcança a liberdade após sujeitar-se à razão.",
+    "b": "antítese, porque a oposição entre \"livre\" e \"submissa\" mostra que a alma está sempre presa à dualidade.",
+    "c": "metonímia, uma vez que indivíduo, representado pelo coração, desafia a razão para alcançar a liberdade.",
+    "d": "eufemismo, já que a submissão da alma a que se refere o eu lírico é, na verdade, a escravidão racional.",
+    "e": "redução, porque a vida do indivíduo fica limitada a uma busca pela liberdade calcada nos desígnios da razão."
+   },
+   "resposta": "a",
+   "explicacao": "A distinção que a questão cobra é entre antítese e paradoxo, e ela é sutil. Antítese é a simples aproximação de opostos, cada um mantendo o seu campo; paradoxo é a afirmação que parece contradizer-se a si mesma e ainda assim se sustenta. Aqui a alma é chamada de LIVRE e SUBMISSA ao mesmo tempo, no mesmo verso e no mesmo referente — não são dois polos comparados, é uma só entidade acumulando as duas condições. E o soneto inteiro depende de que essa contradição faça sentido: submeter-se à Razão é justamente o que liberta. Metonímia e eufemismo nomeiam figuras que não estão nos versos, e \"redução\" nem é nome de figura de linguagem."
+  },
+  {
+   "subtema": "literatura-teoria-analise",
+   "id": "eng-literatura-06",
+   "banca": "maua",
+   "sessao": "maua-verao-2025-online",
+   "formato": "escada",
+   "dificuldade": "dificil",
+   "origem": "engenharia",
+   "texto_apoio": "O menino sem ossos\n\nD'onde vos vem o condão\nDe avassalardes um povo;\nEm frenética ovação,\nDe um modo estranho, novo.\n\nSereis espíritos dispersos,\nQue no mundo vagais,\nOu seres animados\nQue a púrpura arrogais! (...)\n\nAh! Sois brasileiros,\nSois mais... um prodígio,\nMostrai à grande Europa\nQue t'bém temos prestígio!\nA'vante mancebos... Avante!\nNão temais aos rivais\nSe não sois os primeiros,\nAos primeiros igualais.\n\nMaria Firmina dos Reis, declamado para homenagear acrobatas de um espetáculo circense apresentado em 1880.",
+   "enunciado": "Sobre os versos, analise as seguintes proposições:\nI. O verbo \"avassalar\", da primeira estrofe, derivado do termo \"vassalo\", faz uma crítica ao modo como o povo vê seus artistas.\nII. O adjetivo \"dispersos\", reforçado pelo verbo \"vagais\", na segunda estrofe, faz alusão à vida itinerante dos artistas circenses.\nIII. Os predicativos, que iniciam a última estrofe, ressaltam a identidade nacional e equiparam os artistas brasileiros aos demais.\nÉ correto o que se afirma em",
+   "alternativas": {
+    "a": "I.",
+    "b": "I, II e III.",
+    "c": "I e II.",
+    "d": "II e III.",
+    "e": "III."
+   },
+   "resposta": "d",
+   "explicacao": "II se apoia no par \"dispersos\" e \"vagais\", que de fato evoca a vida errante de quem viaja de cidade em cidade — e o poema homenageia artistas de circo itinerante. III também se confirma no texto: \"Sois brasileiros, / Sois mais... um prodígio\" são predicativos que afirmam a nacionalidade e culminam em \"Aos primeiros igualais\", isto é, na equiparação com os artistas europeus. I é a única falsa, e erra o SENTIDO do verbo no contexto: \"avassalar um povo\" aqui é encantá-lo, dominá-lo pela admiração — a estrofe pergunta de onde vem esse dom, em tom de elogio, e não de crítica. A ligação etimológica com \"vassalo\" existe, mas não sustenta a leitura crítica que a proposição inventa."
   }
  ],
  "literatura-contemporanea": [

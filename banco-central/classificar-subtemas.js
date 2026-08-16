@@ -1074,6 +1074,9 @@ const REVISADAS = {
   "eng-biologia-09": "biologia-ecologia",
   // Xilema, floema e transpiração — fisiologia vegetal.
   "eng-biologia-08": "biologia-fisiologia",
+  // Sujeito posposto numa oração relativa de Alencar: identificar o sujeito é
+  // sintaxe, e a palavra "concordância" do enunciado puxou regência.
+  "eng-gramatica-02": "gramatica-sintaxe-periodo",
 };
 
 // ------------------------------------------------------------------- classificação

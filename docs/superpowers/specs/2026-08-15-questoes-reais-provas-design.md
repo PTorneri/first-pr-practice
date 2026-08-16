@@ -155,10 +155,27 @@ medido do projeto, e a fase 1 o mediu: seis figuras da 2023.1 somam 248 KB.
 | 8c | ENEM 2023, 2º dia — o resto de Natureza e as 45 de Matemática | ~70 | **próxima** |
 | 8d | ENEM 2024, os dois dias (`ENEM D1/D2`, gabaritos oficiais no lugar) | ~180 | |
 | 8e | ENEM 2025, os dois dias — **falta o gabarito**, ver abaixo | ~180 | bloqueada |
-| 9 | FUVEST 2024 + os dois simulados oficiais — chegaram em 15/08/2026 | ~270 | |
+| 9 | FUVEST — **seis** cadernos de 1ª fase, todos com gabarito ao lado | 520 | |
 
 Os cadernos de ENEM e FUVEST chegaram em `enem e fuvest/`, na raiz, e a pasta
 entrou no `.gitignore` pela mesma razão das outras: a raiz É o site.
+
+### O que há mesmo de FUVEST na pasta (conferido em 16/08/2026)
+
+São **seis** provas, não três — e as seis vêm com gabarito oficial ao lado, o
+que torna a fase 9 a maior reserva destravada do projeto:
+
+| caderno | questões | gabarito |
+|---|---|---|
+| FUVEST 2024, 1ª fase | 90 | `Gabarito_FUVEST_2024.pdf` |
+| FUVEST 2025, 1ª fase (V1) | 90 | `fuvest2025_gabarito_primeira_fase.pdf` |
+| FUVEST 2026, 1ª fase (V.1) | 90 | `FUVEST 2026 1ª fase Gabarito.pdf` |
+| Simulado oficial de abril | 80 | `Simulado oficial (abril) Gabarito.pdf` |
+| Simulado oficial de julho | 80 | `Simulado oficial (julho) Gabarito.pdf` |
+| Simulado oficial 2026 (S1) | 90 | `fuvest2026-simulado-fase1-gabarito.pdf` |
+
+A estimativa anterior de ~270 contava três cadernos. A FUVEST cobra 90 questões
+de 1ª fase e os simulados oficiais, 80.
 
 ### O que o material já transcrito ensinou (fases 5a e 5b)
 

@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "fisica",
- "total": 548,
+ "total": 557,
  "residuo": [
   "med-fisica-31",
   "med-fisica-92",
@@ -3287,6 +3287,58 @@
    "frenteDestino": "fisica",
    "pontos": 18,
    "margem": 13
+  },
+  "enem-fisica-15": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 14,
+   "margem": 14
+  },
+  "enem-fisica-16": {
+   "subtema": "fisica-moderna",
+   "frenteDestino": "fisica",
+   "revisado": true
+  },
+  "enem-fisica-17": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "revisado": true
+  },
+  "enem-fisica-18": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 19,
+   "margem": 19
+  },
+  "enem-fisica-19": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 7
+  },
+  "enem-fisica-20": {
+   "subtema": "fisica-energia-trabalho",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
+  },
+  "enem-fisica-21": {
+   "subtema": "fisica-ondas-optica",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-fisica-22": {
+   "subtema": "fisica-termologia",
+   "frenteDestino": "fisica",
+   "pontos": 5,
+   "margem": 5
+  },
+  "enem-fisica-23": {
+   "subtema": "fisica-eletromagnetismo",
+   "frenteDestino": "fisica",
+   "pontos": 10,
+   "margem": 10
   }
  }
 }

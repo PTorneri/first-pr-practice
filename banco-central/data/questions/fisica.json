@@ -8758,6 +8758,177 @@
    },
    "resposta": "d",
    "explicacao": "Os dois ecos percorrem exatamente o mesmo caminho na rocha de cima; o que os separa é só a travessia do líquido, ida e volta. A diferença de tempo é 1,1 − 0,5 = 0,6 s, e nesse tempo o som atravessou 450 m para baixo e 450 m para cima, ou seja, 900 m. Logo v = 900/0,6 = 1 500 m/s — que é, de fato, a ordem de grandeza da velocidade do som na água. Quem usa só 450 m em vez do percurso de ida e volta chega a 750; quem usa o tempo total de 1,1 s em vez da diferença chega perto de 818, a opção c."
+  },
+  {
+   "id": "enem-fisica-15",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma tirinha ilustra esquimós dentro de um iglu, habitação de formato hemisférico construída durante o inverno a partir de neve ou blocos de gelo. Essa estrutura de construção se justifica pelo fato de esse povo habitar as regiões mais setentrionais da Groenlândia, Canadá e Alasca. Na tirinha, os personagens mantêm uma geladeira dentro do iglu para fazer gelo.",
+   "enunciado": "Na tirinha, a geladeira é necessária para fazer gelo porque",
+   "alternativas": {
+    "a": "a temperatura interna do iglu é maior que a de solidificação da água.",
+    "b": "a umidade dentro do iglu dificulta o processo de mudança de fase da água.",
+    "c": "o ar dentro do iglu é isolante térmico, dificultando a perda de calor pela água.",
+    "d": "a temperatura uniforme no interior do iglu impede as correntes de convecção.",
+    "e": "a pressão do ar no interior do iglu é baixa, dificultando a solidificação da água."
+   },
+   "resposta": "a",
+   "explicacao": "O iglu funciona porque a neve compactada é péssima condutora de calor: ela retém o calor dos corpos e das lamparinas e mantém o interior bem acima da temperatura externa, tipicamente alguns graus positivos. Para a água congelar é preciso levá-la abaixo de 0 °C, e dentro do iglu isso não acontece — daí a geladeira. As demais alternativas invocam umidade, convecção e pressão, fatores que têm efeito desprezível diante do fato central: a temperatura ali dentro está acima do ponto de solidificação."
+  },
+  {
+   "id": "enem-fisica-16",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As placas que indicam saída de emergência brilham no escuro, pois apresentam substâncias que fosforecem na cor amarelo-esverdeada após exposição à luz ambiente. Esse fenômeno ocorre pela presença do sulfeto de zinco (ZnS), dopado com prata ou cobre, na superfície da placa.",
+   "enunciado": "O aparecimento do brilho nessas condições ocorre como consequência de",
+   "alternativas": {
+    "a": "colisões interatômicas.",
+    "b": "coloração dos átomos.",
+    "c": "transições eletrônicas.",
+    "d": "reações nucleares.",
+    "e": "reflexão da luz."
+   },
+   "resposta": "c",
+   "explicacao": "A luz ambiente excita elétrons do material, que saltam para níveis de energia mais altos. Na fosforescência esses elétrons ficam presos em estados metaestáveis — criados justamente pela dopagem com prata ou cobre — e retornam ao estado fundamental lentamente, emitindo fótons por minutos ou horas depois de cessada a iluminação. A cor amarelo-esverdeada corresponde à diferença de energia entre os níveis. Não há reação nuclear envolvida, e reflexão exige fonte de luz presente, o que contradiz o brilho no escuro."
+  },
+  {
+   "id": "enem-fisica-17",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O ciclo de Otto descreve o funcionamento de um motor de combustão interna, como os motores a gasolina ou a etanol utilizados nos automóveis. As etapas do ciclo são:\nEtapa I (0 a 1): admissão isobárica da mistura ar-combustível no cilindro do motor.\nEtapa II (1 a 2): compressão adiabática da mistura.\nEtapa III (2 a 3): introdução de energia na forma de calor da combustão.\nEtapa IV (3 a 4): expansão adiabática.\nEtapa V (4 a 1): liberação de energia na forma de calor.\nEtapa VI (1 a 0): liberação dos gases resultantes da combustão.",
+   "enunciado": "A transformação da energia térmica em energia útil ocorre na etapa",
+   "alternativas": {
+    "a": "II.",
+    "b": "III.",
+    "c": "IV.",
+    "d": "V.",
+    "e": "VI."
+   },
+   "resposta": "c",
+   "explicacao": "Energia útil, num motor, é trabalho entregue ao pistão. Na expansão adiabática da etapa IV não há troca de calor com o meio, então toda a variação de energia interna do gás se converte em trabalho — é o tempo motriz, o único em que o gás empurra o pistão. A etapa III apenas injeta calor no sistema, sem produzi-lo como trabalho; a II consome trabalho para comprimir; e as etapas V e VI descartam calor e gases já queimados."
+  },
+  {
+   "id": "enem-fisica-18",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Uma caixa decorativa utiliza duas pequenas lâmpadas, L1 (6 V – 9 W) e L2 (12 V – 18 W), ligadas em série a uma bateria. Um fio resistivo QR, de 48 centímetros, está ligado em paralelo à bateria. Cinco pontos, A, B, C, D e E, nessa ordem a partir de Q, dividem o fio QR em seis segmentos de comprimentos iguais. O circuito também tem um amperímetro com dois terminais. Um dos terminais (P) está ligado ao fio entre as duas lâmpadas. O outro terminal (S) está livre e será ligado ao fio QR. Dependendo do ponto em que esse terminal livre for conectado, ocorrerá a mudança na tensão à qual as lâmpadas são submetidas. Os demais fios do circuito têm resistências elétricas desprezíveis.",
+   "enunciado": "Em qual desses pontos o amperímetro deve ser conectado para que as lâmpadas acendam exatamente segundo as especificações de tensão e potência elétricas fornecidas?",
+   "alternativas": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "D",
+    "e": "E"
+   },
+   "resposta": "b",
+   "explicacao": "As duas lâmpadas puxam a mesma corrente nominal, 1,5 A (9/6 e 18/12), então podem mesmo operar em série, sob tensão total de 6 + 12 = 18 V. O fio QR, homogêneo e ligado em paralelo à bateria, funciona como divisor de tensão: a queda entre Q e um ponto qualquer é proporcional ao comprimento até ele. Para que L1 receba seus 6 V, o ponto de conexão deve estar a 6/18 = 1/3 do fio, ou seja, a 16 cm dos 48 — dois dos seis segmentos de 8 cm. Contando de Q, isso é o ponto B."
+  },
+  {
+   "id": "enem-fisica-19",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma ambulância em alta velocidade com a sirene ligada desloca-se em direção a um radar operado por uma pessoa. O radar emite ondas de rádio com frequência f0 que são refletidas pela dianteira da ambulância, retornando para o detector com frequência fr. A percepção do operador do radar, em relação ao som emitido pela sirene, é de que este se altera à medida que a ambulância se aproxima ou se afasta.",
+   "enunciado": "Durante a aproximação, como o operador percebe o som da sirene e qual é a relação entre as frequências fr e f0 medidas pelo radar?",
+   "alternativas": {
+    "a": "Mais grave do que o som emitido e fr < f0.",
+    "b": "Mais agudo do que o som emitido e fr < f0.",
+    "c": "Mais agudo do que o som emitido e fr = f0.",
+    "d": "Mais agudo do que o som emitido e fr > f0.",
+    "e": "Mais grave do que o som emitido e fr > f0."
+   },
+   "resposta": "d",
+   "explicacao": "O efeito Doppler vale para qualquer onda. Com a fonte se aproximando, as frentes de onda sonoras chegam ao observador mais juntas: a frequência aparente sobe e o som soa mais agudo. Com as ondas de rádio o deslocamento ocorre duas vezes — o veículo em aproximação recebe frequência maior e, ao refletir, comporta-se como fonte também em aproximação. Por isso fr > f0, e é dessa diferença que o radar calcula a velocidade. As alternativas (a) e (e) erram o timbre percebido, e (b) e (c) erram o sentido do deslocamento no rádio."
+  },
+  {
+   "id": "enem-fisica-20",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Muitas pessoas ainda se espantam com o fato de um passageiro sair ileso de um acidente de carro enquanto o veículo onde estava teve perda total. Essas pessoas talvez considerem, equivocadamente, que os carros mais seguros são os que têm as estruturas mais rígidas, ou seja, estruturas que, durante uma colisão, apresentam menor deformação. Na verdade, o que ocorre é o contrário. Por isso, a partir de 1958, passaram a ser produzidos carros com partes que se deformam facilmente, conhecidas como crumple zone (região deformável, em inglês).",
+   "enunciado": "Considerando o carro, seus ocupantes e o muro como um sistema isolado, o crumple zone aumenta a segurança dos passageiros porque, durante uma colisão, a deformação da estrutura do carro",
+   "alternativas": {
+    "a": "aciona os airbags do veículo.",
+    "b": "absorve a energia cinética do sistema.",
+    "c": "consome a quantidade de movimento do sistema.",
+    "d": "cria uma barreira de proteção para seus ocupantes.",
+    "e": "diminui a velocidade do centro de massa do sistema."
+   },
+   "resposta": "b",
+   "explicacao": "Deformar metal exige trabalho, e esse trabalho vem da energia cinética do veículo. A zona de deformação converte parte dessa energia em deformação plástica e calor, de modo que menos energia sobra para ser dissipada nos ocupantes; de quebra, prolonga o tempo da colisão e reduz a força média sobre eles. A alternativa (c) é a armadilha física: em sistema isolado a quantidade de movimento se conserva sempre, ela não pode ser consumida — quem se dissipa é a energia. A (e) descreve consequência do choque, não da deformação."
+  },
+  {
+   "id": "enem-fisica-21",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Dentre os parâmetros acústicos que afetam a inteligibilidade dos sons emitidos em ambientes fechados, destacam-se o ruído de fundo do ambiente e o decréscimo do nível sonoro com a distância da fonte emissora. Considere a situação a seguir: à distância de 1 metro, o nível sonoro da fala de um professor é de 60 dB e diminui com a distância. Considere, ainda, que o ruído de fundo nessa sala de aula pode chegar a 45 dB e que, para ser compreendida, o nível sonoro da fala do professor deve estar 5 dB acima desse ruído.",
+   "enunciado": "Para um valor máximo do ruído de fundo, a maior distância que um estudante pode estar do professor para que ainda consiga compreender sua fala é mais próxima de",
+   "alternativas": {
+    "a": "3,0 m.",
+    "b": "4,5 m.",
+    "c": "6,5 m.",
+    "d": "8,0 m.",
+    "e": "9,5 m."
+   },
+   "resposta": "a",
+   "explicacao": "O nível mínimo aceitável é 45 + 5 = 50 dB, isto é, 10 dB abaixo dos 60 dB medidos a 1 m. Uma queda de 10 dB corresponde a dividir a intensidade por 10. Como a intensidade de uma fonte pontual cai com o quadrado da distância, dividir a intensidade por 10 exige multiplicar a distância por √10 ≈ 3,16. Partindo de 1 m, chega-se a cerca de 3,2 m — o valor mais próximo é 3,0 m. Quem trata a queda do nível sonoro como linear na distância cai nas alternativas maiores."
+  },
+  {
+   "id": "enem-fisica-22",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Aquecedores solares são equipamentos utilizados para o aquecimento de água pelo calor do Sol. São compostos por coletores solares, nos quais ocorre o aquecimento da água, e por um reservatório térmico, em que é armazenada a água quente para ser utilizada posteriormente. O reservatório fica situado acima dos coletores, e a água circula entre eles sem uso de bomba.",
+   "enunciado": "O processo pelo qual ocorre transferência de calor dos coletores solares para o reservatório térmico é a",
+   "alternativas": {
+    "a": "difusão.",
+    "b": "absorção.",
+    "c": "condução.",
+    "d": "irradiação.",
+    "e": "convecção."
+   },
+   "resposta": "e",
+   "explicacao": "A água aquecida no coletor se dilata, fica menos densa e sobe para o reservatório; a água fria do reservatório, mais densa, desce para o coletor e ocupa o lugar dela. Esse ciclo é o termossifão, um caso de convecção natural — e é exatamente por isso que o reservatório é instalado acima dos coletores. A irradiação é o mecanismo pelo qual o Sol entrega energia ao coletor, não o que move a água entre as duas partes, e a condução exigiria contato direto sem transporte de matéria."
+  },
+  {
+   "id": "enem-fisica-23",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em aeroportos, por razões de segurança, os passageiros devem ter suas bagagens de mão examinadas antes do embarque, passando-as em esteiras para sua inspeção por aparelhos de raios X. Nessas inspeções, os passageiros são orientados a retirar seus computadores portáteis (notebooks ou laptops) de malas, mochilas ou bolsas para passá-los isoladamente pela esteira.",
+   "enunciado": "Que explicação física justifica esse procedimento?",
+   "alternativas": {
+    "a": "Os raios X não interagem com os componentes metálicos do computador, o que impede a formação de imagens.",
+    "b": "Os raios X desmagnetizam o disco rígido do computador, quando refratados pelos componentes metálicos das bagagens de mão.",
+    "c": "Os raios X aquecem os materiais metálicos encontrados em bagagens de mão, quando refletidos pelos componentes do computador.",
+    "d": "Os raios X não atravessam os componentes densos do computador, o que impede a visualização de objetos que estão à frente ou atrás deles.",
+    "e": "Os raios X ionizam os materiais metálicos normalmente encontrados em bagagens de mão, quando difratados pelos componentes do computador."
+   },
+   "resposta": "d",
+   "explicacao": "A imagem do escâner é uma radiografia: forma-se pela diferença de absorção dos raios X ao atravessarem os materiais. Bateria, blindagens e placas do computador são densos e absorvem quase toda a radiação, criando uma mancha opaca que esconde o que estiver alinhado atrás ou à frente dela. Retirar o aparelho elimina essa sombra. A alternativa (a) afirma o oposto do que ocorre — os raios X interagem intensamente com o metal, e é justamente esse o problema."
   }
  ],
  "textos": [

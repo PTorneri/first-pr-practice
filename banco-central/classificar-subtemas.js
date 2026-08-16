@@ -1380,6 +1380,73 @@ const REVISADAS = {
   // Cartelas de tiquete: sistema linear de duas equacoes. O preco em real
   // levava para financeira, mas nao ha juros, desconto nem porcentagem.
   "enem-matematica-28": "matematica-algebra",
+
+  // ENEM 2024, segundo dia -- Natureza. Quatro pinos em 32 questoes, a mesma
+  // taxa boa do 2023: Natureza nomeia o proprio conteudo, e a tabela acerta.
+  //
+  // Fisiologia perde para citologia sempre que a explicacao cita a organela
+  // que explica o fenomeno. Fibra muscular branca x vermelha se decide por
+  // "mitocondria" e "ATP" (10 pontos para citologia), e a nitrosamina se
+  // decide por "celulas parietais" -- mas o que se estuda nas duas e sistema
+  // muscular e sistema digestorio. Mesmo caso da enzima do milho, ao contrario:
+  // desnaturacao enzimatica e bioquimica celular, e caiu em fisiologia.
+  "enem-biologia-22": "biologia-citologia",
+  "enem-biologia-25": "biologia-fisiologia",
+  "enem-biologia-27": "biologia-fisiologia",
+  // Microplastico no tecido adiposo: o contexto e poluicao e o texto fala de
+  // cadeia alimentar, o que levou 10 pontos para ecologia. Mas a pergunta e
+  // "em qual TECIDO acumula" -- histologia, nao ciclo de materia.
+  "enem-biologia-24": "biologia-fisiologia",
+  // Sistema agroflorestal: "sucessao ecologica" e a resposta, e mesmo assim a
+  // questao caiu em evolucao, porque a explicacao precisa dizer por que
+  // coevolucao e adaptacao por selecao NAO servem. Descartar o distrator custa
+  // pontos para o subtema do distrator -- efeito que so aparece em questao cuja
+  // resposta certa depende de separar dois campos vizinhos.
+  "enem-biologia-26": "biologia-ecologia",
+  // Grafeno na chuva: "cations dissolvidos na agua" levou para solucoes. O que
+  // se cobra e geracao de ddp por separacao de cargas.
+  "enem-quimica-15": "quimica-eletroquimica",
+  // Soro caseiro: as massas molares no enunciado valem 9 pontos para
+  // estequiometria, mas a questao e de concentracao -- mg/mL em 2 L.
+  "enem-quimica-19": "quimica-solucoes",
+  // Ciclo de Otto: residuo puro, zero ponto em todos os sete subtemas. O
+  // enunciado descreve as etapas por nome proprio (admissao isobarica,
+  // compressao adiabatica) e nenhuma delas esta na tabela. Sem pino cairia em
+  // mecanica, que e o padrao de Fisica.
+  "enem-fisica-17": "fisica-termologia",
+  // Fosforescencia do ZnS: "brilho", "luz" e "cor" puxam para optica, e a
+  // resposta e transicao eletronica entre niveis de energia.
+  "enem-fisica-16": "fisica-moderna",
+  //
+  // Matematica de novo pede muito pino -- sete em 31, contra quatro em 32 de
+  // Natureza. A causa e a mesma ja registrada: o ENEM nomeia o CENARIO, nunca o
+  // conteudo. Densidade demografica cita quilometro quadrado e vai para
+  // geometria; galinheiro de area maxima cita area e vai para geometria; o
+  // encontro dos dois onibus cita percurso e vai para geometria. Em todos, o
+  // que se cobra e manipulacao algebrica.
+  "enem-matematica-35": "matematica-algebra",
+  "enem-matematica-40": "matematica-algebra",
+  "enem-matematica-61": "matematica-algebra",
+  // Microscopio: "combinacao" e "produto" levaram para probabilidade.
+  "enem-matematica-49": "matematica-algebra",
+  // Duas de residuo (zero ponto em tudo), o cego do pre-voo: tela de celular em
+  // fracao mista e o preco da porcao da doceira. Ambas cairiam no padrao.
+  "enem-matematica-36": "matematica-algebra",
+  "enem-matematica-48": "matematica-algebra",
+  // Parcelas com acrescimo percentual fixo: financeira ganhou por 9 pontos, e o
+  // cenario e mesmo um financiamento -- mas o que resolve a questao e saber que
+  // uma PG cresce, e por isso interessa jogar o mes isento para o fim.
+  "enem-matematica-37": "matematica-sequencias",
+  // Bauxita e latas de aluminio: residuo, e o cego do pre-voo pela terceira
+  // vez. O pre-voo disse "cai em estequiometria, margem 0" e passou -- mas
+  // margem 0 sobre um alvo que tambem tirou zero e empate, nao vitoria. Na
+  // classificacao do banco a questao apareceu com `padrao: true`, no subtema
+  // padrao de Quimica. A conta e proporcao de massas, sem formula nem mol.
+  "enem-quimica-16": "quimica-estequiometria",
+  // Corais verdadeiras e falsas: "predacao" leva a questao para ecologia, e o
+  // conteudo e mimetismo mulleriano -- resultado de selecao natural sobre o
+  // padrao de cor, que e evolucao.
+  "enem-biologia-28": "biologia-evolucao",
 };
 
 // ------------------------------------------------------------------- classificação

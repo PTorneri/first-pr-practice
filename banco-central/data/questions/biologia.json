@@ -8024,6 +8024,272 @@
    },
    "resposta": "e",
    "explicacao": "O enunciado diz que os micronúcleos são fragmentos de DNA vindos do fuso mitótico, e o que o fuso mitótico movimenta são cromossomos — o DNA da célula em divisão está todo condensado neles. Quando um pedaço de cromossomo se solta ou um cromossomo inteiro fica para trás na anáfase, ele acaba envolto por membrana à parte e forma o micronúcleo. Nucléolo é uma região do núcleo dedicada à montagem de ribossomos, e não é feito de cromossomo destacado. Lisossomos e ribossomos não contêm DNA. A mitocôndria tem DNA próprio, mas ele não é manipulado pelo fuso mitótico nem se desprende dele — a origem apontada pelo texto exclui essa saída."
+  },
+  {
+   "id": "enem-biologia-16",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Um experimento foi feito com células do protozoário Amoeba proteus. Nele, um grupo de células foi tratado com a droga citocalasina B, enquanto outro grupo não foi tratado, servindo como controle. O formato e o movimento das células tratadas foram comprometidos.",
+   "enunciado": "Qual componente celular foi afetado pela droga utilizada no experimento?",
+   "alternativas": {
+    "a": "Vacúolos.",
+    "b": "Mitocôndrias.",
+    "c": "Microfilamentos.",
+    "d": "Material genético.",
+    "e": "Membrana plasmática."
+   },
+   "resposta": "c",
+   "explicacao": "A ameba muda de formato e se locomove por pseudópodes, e quem produz esse movimento é o citoesqueleto — em especial os microfilamentos de actina, que se polimerizam e despolimerizam empurrando a membrana. A citocalasina B bloqueia justamente a polimerização da actina. Comprometer o formato E o movimento ao mesmo tempo aponta para a estrutura que faz as duas coisas: o microfilamento. Vacúolos e mitocôndrias afetariam o metabolismo, não a forma; dano ao material genético não muda a motilidade de imediato; e a membrana rompida mataria a célula."
+  },
+  {
+   "id": "enem-biologia-17",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Moradores do Brooklin, bairro de São Paulo, perdem o sono com um som alto, constante e estridente. O barulho é causado por anfíbios anuros trazidos do Caribe, da espécie Eleutherodactylus johnstonei, que têm tamanho um pouco maior que o de um grão de feijão e que encontraram na capital um ambiente favorável. Cientistas foram até o local e encontraram esses animais nos jardins das casas.",
+   "enunciado": "Ao emitirem o som estridente, esses anfíbios",
+   "alternativas": {
+    "a": "indicam que estão fora de seu hábitat natural.",
+    "b": "alertam para a presença de poluição urbana.",
+    "c": "sinalizam a existência de superpopulação.",
+    "d": "direcionam insetos para sua alimentação.",
+    "e": "atraem fêmeas para o acasalamento."
+   },
+   "resposta": "e",
+   "explicacao": "A vocalização dos anuros é um comportamento reprodutivo: quem canta é o macho, e o canto anuncia sua posição e sua qualidade às fêmeas da mesma espécie, além de demarcar território diante de outros machos. O texto reforça que o ambiente lhes é favorável — ou seja, eles estão se reproduzindo, não sinalizando desconforto. Anfíbios não emitem som para localizar presas (isso seria ecolocalização, de morcegos e cetáceos) nem para denunciar poluição ou densidade populacional."
+  },
+  {
+   "id": "enem-biologia-18",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em algumas vacinas contra a covid-19, a principal estrutura antigênica é uma proteína de superfície viral chamada espícula (spike, em inglês). Essa proteína só existe em coronavírus, incluindo o SARS-CoV-2. Ela se liga a receptores de membrana específicos das células humanas por um mecanismo do tipo “chave-fechadura”. Dessa forma, os vírus entram nas células, podendo se multiplicar e acarretar a doença.",
+   "enunciado": "Nessas vacinas, essa proteína viral induz a",
+   "alternativas": {
+    "a": "produção de anticorpos específicos contra os vírus.",
+    "b": "imunidade passiva contra o desenvolvimento da doença.",
+    "c": "alteração genômica para formação da memória imunológica.",
+    "d": "neutralização direta dos vírus presentes na circulação sanguínea.",
+    "e": "modificação dos receptores de membrana específicos para o vírus."
+   },
+   "resposta": "a",
+   "explicacao": "Vacina apresenta antígeno e deixa o organismo produzir a própria resposta: os linfócitos B reconhecem a espícula e fabricam anticorpos específicos contra ela, além de gerar células de memória. Isso é imunidade ativa, não passiva — passiva seria receber anticorpos prontos, como no soro. A memória imunológica não vem de alteração do genoma da pessoa, e a vacina não neutraliza vírus por si nem altera os receptores da célula humana; ela treina o sistema imune para bloquear a ligação antes que ela ocorra."
+  },
+  {
+   "id": "enem-biologia-19",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O vírus linfotrópico de células T humanas tipo 1 (HTLV-1) é um retrovírus do mesmo grupo do vírus da imunodeficiência humana (HIV). Ambos são transmitidos da mesma forma e infectam as mesmas células de defesa do organismo, os linfócitos T. A diferença entre eles é que o HTLV-1 estimula o aumento da produção desses linfócitos, enquanto o HIV causa destruição dessas células.",
+   "enunciado": "Uma possível consequência da infecção por HTLV-1 é o desenvolvimento de",
+   "alternativas": {
+    "a": "aids.",
+    "b": "câncer.",
+    "c": "diabetes.",
+    "d": "hepatite B.",
+    "e": "hemorragia."
+   },
+   "resposta": "b",
+   "explicacao": "A chave está no contraste que o próprio texto monta: o HIV destrói linfócitos T e por isso causa imunodeficiência; o HTLV-1 faz o oposto, estimula a multiplicação dessas células. Proliferação celular descontrolada é a definição de neoplasia — daí a leucemia/linfoma de células T do adulto associada ao HTLV-1. Aids exige perda de linfócitos, o que não ocorre aqui; diabetes, hepatite B e hemorragia têm causas alheias à proliferação de linfócitos T."
+  },
+  {
+   "id": "enem-biologia-20",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A fitorremediação é uma técnica que utiliza plantas para a remediação de ambientes contaminados. A descontaminação de solos pode ocorrer por descarte, absorção e metabolização, imobilização, extração ou volatilização do poluente.",
+   "enunciado": "O método que retira o mercúrio de uma área contaminada, impedindo sua entrada na cadeia alimentar, é a",
+   "alternativas": {
+    "a": "fitoestabilização, ficando o mercúrio disponível sob a superfície das raízes das plantas.",
+    "b": "fitovolatilização, permitindo a retirada do mercúrio por plantas e a sua transferência para uma forma volátil.",
+    "c": "fitodegradação, com a degradação do mercúrio promovida por enzimas, contidas nas raízes, formando espécies menos tóxicas.",
+    "d": "fitoestimulação, com a remoção do mercúrio pela ação de microrganismos presentes nas raízes que absorvem e imobilizam o metal.",
+    "e": "fitoextração, em que as plantas que acumulam o mercúrio são cultivadas nesses locais, e a biomassa rica no metal é retirada após o crescimento."
+   },
+   "resposta": "e",
+   "explicacao": "O enunciado pede duas coisas ao mesmo tempo: retirar o mercúrio da área E impedir que ele entre na cadeia alimentar. Só a fitoextração cumpre as duas, porque a planta concentra o metal na biomassa e essa biomassa é colhida e removida do local. A fitoestabilização e a fitoestimulação apenas imobilizam o metal no solo, que continua lá. A fitovolatilização o transfere para o ar, sem retirá-lo do ambiente. E a fitodegradação não se aplica: mercúrio é um elemento químico, não uma molécula orgânica que enzimas possam quebrar."
+  },
+  {
+   "id": "enem-biologia-21",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O desenvolvimento da biotecnologia e da clonagem gênica em procariotos fez com que a produção de proteínas se tornasse mais intensa, rápida e econômica. Para a produção de hormônios, enzimas e proteínas de resistência a drogas, uma variação da técnica de reação em cadeia pela polimerase (PCR, na sigla em inglês) utiliza a enzima transcriptase reversa (RT-PCR), que sintetiza moléculas de DNA complementares a partir de fitas de RNA.",
+   "enunciado": "Nesse contexto, essa técnica é importante para detectar genes",
+   "alternativas": {
+    "a": "expressos.",
+    "b": "plasmidiais.",
+    "c": "bacterianos.",
+    "d": "dominantes.",
+    "e": "autossômicos."
+   },
+   "resposta": "a",
+   "explicacao": "A RT-PCR parte de RNA, não de DNA. E só existe RNA mensageiro de um gene que foi transcrito — isto é, de um gene expresso naquela célula, naquele momento. Detectar RNA é, portanto, detectar expressão gênica, e o cDNA obtido corresponde apenas à parte codificante. As demais alternativas descrevem categorias de localização (plasmidial, bacteriano, autossômico) ou de comportamento alélico (dominante), e nenhuma delas depende de o gene estar sendo transcrito."
+  },
+  {
+   "id": "enem-biologia-22",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma agricultora, com a intenção de comercializar o milho recém-colhido, testou uma forma de preservar o sabor adocicado do seu produto. O melhor resultado foi obtido quando ela imergiu as espigas em água fervente durante alguns minutos e, em seguida, em água gelada. Com esse procedimento, parte da glicose do milho não foi transformada em amido, mantendo o seu sabor adocicado.",
+   "enunciado": "Utilizando esse procedimento, o sabor foi conservado porque houve",
+   "alternativas": {
+    "a": "desnaturação enzimática pela alta temperatura.",
+    "b": "conversão de nutrientes pela redução de temperatura.",
+    "c": "degradação das reservas nutritivas pelo choque térmico.",
+    "d": "impedimento da entrada de oxigênio pela fervura da água.",
+    "e": "desidratação dos grãos por causa da alteração da temperatura."
+   },
+   "resposta": "a",
+   "explicacao": "A conversão de glicose em amido é catalisada por enzimas do grão. Toda enzima é uma proteína cuja atividade depende da forma tridimensional, e temperatura alta rompe as ligações que sustentam essa forma — a desnaturação, que é irreversível. Fervendo a espiga, a agricultora inativa as enzimas e a reação para. A água gelada em seguida apenas interrompe o cozimento. As outras alternativas invertem o processo (degradar reservas produziria mais açúcar, não menos amido) ou apelam a oxigênio e desidratação, que não governam essa via."
+  },
+  {
+   "id": "enem-biologia-23",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "As autoridades sanitárias brasileiras têm se preocupado muito nos últimos anos com o aumento da ocorrência de doenças transmitidas por mosquitos, principalmente arboviroses como chikungunya e zika, que se tornaram epidêmicas ou endêmicas em áreas urbanas.",
+   "enunciado": "Nesse contexto, como a urbanização está causando riscos à saúde humana?",
+   "alternativas": {
+    "a": "Disseminando verminoses.",
+    "b": "Causando a eutrofização de lagoas.",
+    "c": "Aumentando a chance de contato com coliformes.",
+    "d": "Diminuindo a população de predadores aquáticos.",
+    "e": "Aproximando as pessoas das áreas de ocorrência de mosquitos."
+   },
+   "resposta": "e",
+   "explicacao": "As arboviroses citadas são transmitidas por mosquitos, e o enunciado é explícito ao dizer que elas se tornaram urbanas. O que a urbanização faz é criar criadouros artificiais e adensar a população humana no mesmo espaço onde o vetor se reproduz, aumentando a frequência de contato entre pessoa e mosquito. Verminoses e coliformes envolvem outras vias de transmissão, e eutrofização e perda de predadores aquáticos são impactos ambientais que não explicam a transmissão de chikungunya e zika."
+  },
+  {
+   "id": "enem-biologia-24",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A ação de fatores abióticos aliada à biodeterioração contribuem para a formação de microplásticos, os quais se aderem a outros poluentes orgânicos apolares persistentes, como os derivados de pesticidas lipossolúveis. Há uma proporcionalidade direta entre a solubilidade desses tipos de poluentes e sua concentração nos tecidos dos organismos expostos a eles.",
+   "enunciado": "Em animais vertebrados, essa associação de poluentes será preferencialmente acumulada no tecido",
+   "alternativas": {
+    "a": "ósseo.",
+    "b": "nervoso.",
+    "c": "epitelial.",
+    "d": "adiposo.",
+    "e": "sanguíneo."
+   },
+   "resposta": "d",
+   "explicacao": "O texto dá a pista química: os poluentes são apolares e lipossolúveis, e a concentração no tecido acompanha a solubilidade. Semelhante dissolve semelhante, então essas substâncias se acumulam onde há lipídio — o tecido adiposo, cujas células são quase inteiramente ocupadas por gordura. É por isso que poluentes organoclorados se concentram na gordura e se biomagnificam ao longo da cadeia alimentar. Osso é mineralizado, sangue é meio aquoso, e epitélio e tecido nervoso não são reservas de lipídio comparáveis ao adiposo."
+  },
+  {
+   "id": "enem-biologia-25",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Com base em testes realizados em ratos, concluiu-se que os compostos nitrosos são substâncias mutagênicas, ou seja, produzem mutações nas células e possivelmente câncer. Esses compostos podem ser obtidos pela reação entre o nitrito de sódio, que é um conservante adicionado às carnes, e o ácido clorídrico. O ácido nitroso produzido irá reagir com compostos nitrogenados, como as aminas, dando origem aos compostos nitrosos.",
+   "enunciado": "Em qual órgão esse processo será iniciado?",
+   "alternativas": {
+    "a": "Rim.",
+    "b": "Fígado.",
+    "c": "Intestino.",
+    "d": "Pâncreas.",
+    "e": "Estômago."
+   },
+   "resposta": "e",
+   "explicacao": "A reação exige ácido clorídrico, e o único ponto do corpo humano onde há HCl é o suco gástrico, secretado pelas células parietais do estômago. É ali, portanto, que o nitrito da carne processada encontra o meio ácido e forma o ácido nitroso que dá origem às nitrosaminas. O pâncreas secreta bicarbonato, que alcaliniza o quimo; o intestino delgado opera em pH básico; e fígado e rim não produzem ácido clorídrico."
+  },
+  {
+   "id": "enem-biologia-26",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Os sistemas agroflorestais alinham os interesses econômicos aos ecológicos. Esses sistemas podem ser usados na recuperação ambiental de áreas degradadas que se tornaram pouco produtivas, como as utilizadas por muito tempo para pastagem. Para isso, num primeiro momento, as árvores nativas são plantadas em conjunto com culturas agrícolas anuais, como feijão, mandioca, milho e abóbora. Em um segundo momento, são introduzidas outras espécies, como trepadeiras e arbustos, de acordo com um arranjo espacial e temporal preestabelecido. Nesse processo, ocorrerão mudanças graduais na estrutura e composição das comunidades vegetais ao longo do tempo, que culminarão no aumento da diversidade do ambiente.",
+   "enunciado": "O conjunto dessas mudanças graduais é análogo ao processo natural denominado",
+   "alternativas": {
+    "a": "rotação de culturas.",
+    "b": "sucessão ecológica.",
+    "c": "coevolução específica.",
+    "d": "adaptação por seleção.",
+    "e": "convergência adaptativa."
+   },
+   "resposta": "b",
+   "explicacao": "O texto descreve exatamente a definição de sucessão ecológica: substituição gradual de espécies numa comunidade ao longo do tempo, partindo de uma área degradada e caminhando para maior diversidade e complexidade estrutural. Rotação de culturas é prática agrícola de alternância, não sucessão de comunidades. Coevolução, adaptação por seleção e convergência adaptativa são processos evolutivos, que agem sobre populações ao longo de gerações — escala e natureza diferentes das mudanças de comunidade descritas."
+  },
+  {
+   "id": "enem-biologia-27",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As fibras musculares esqueléticas não são todas iguais. As fibras lentas, também conhecidas como fibras vermelhas, apresentam muitas mitocôndrias e são bem supridas por vasos sanguíneos. Já as fibras rápidas, ou fibras brancas, apresentam poucas mitocôndrias e recebem menor suprimento sanguíneo. Dessa forma, a distribuição das fibras nos músculos esqueléticos do corpo auxilia de forma diferenciada no desempenho físico de um atleta.",
+   "enunciado": "Um atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção de fibras brancas que fibras vermelhas teria mais vantagens na realização da prova de:",
+   "alternativas": {
+    "a": "Triatlo.",
+    "b": "Salto em altura.",
+    "c": "Marcha atlética.",
+    "d": "Maratona aquática.",
+    "e": "Ciclismo em estrada."
+   },
+   "resposta": "b",
+   "explicacao": "Poucas mitocôndrias e pouco suprimento sanguíneo significam pouca capacidade aeróbia: as fibras brancas produzem ATP sobretudo por via anaeróbia, geram muita força em pouco tempo e fadigam rápido. Isso serve a esforços explosivos e curtos, como o salto em altura. Triatlo, marcha atlética, maratona aquática e ciclismo de estrada são provas de longa duração, sustentadas por metabolismo aeróbio — o domínio das fibras vermelhas, ricas em mitocôndrias e bem irrigadas."
+  },
+  {
+   "id": "enem-biologia-28",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O Cerrado e a Amazônia abrigam grande número de serpentes popularmente conhecidas como cobras-corais. Na Amazônia predominam as corais-verdadeiras, que são peçonhentas, enquanto no Cerrado prevalecem as falsas-corais, que não possuem peçonha. Essas espécies apresentam um padrão de coloração muito semelhante. Essa similaridade traz uma vantagem tanto para as corais falsas como para as verdadeiras.",
+   "enunciado": "Qual é a vantagem dessa similaridade para as falsas-corais?",
+   "alternativas": {
+    "a": "Facilita a captura de presas.",
+    "b": "Diminui a competição por recursos.",
+    "c": "Possibilita a geração de indivíduos híbridos.",
+    "d": "Reduz a possibilidade de sofrerem predação.",
+    "e": "Otimiza o encontro de parceiros reprodutivos."
+   },
+   "resposta": "d",
+   "explicacao": "A falsa-coral não tem peçonha, mas exibe o mesmo padrão de anéis coloridos da espécie perigosa. O predador que aprendeu a evitar a coral-verdadeira evita também a falsa, e assim a espécie inofensiva colhe proteção sem pagar o custo de produzir veneno. Como as duas espécies aqui se beneficiam do padrão comum, trata-se de mimetismo mülleriano. A coloração é um sinal de advertência dirigido a predadores, não um mecanismo de caça, de partilha de recursos ou de reconhecimento entre parceiros — e espécies distintas não geram híbridos por semelhança de cor."
+  },
+  {
+   "id": "enem-biologia-29",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "O exoesqueleto dos crustáceos é formado por quitina e impregnações de sais calcários e, por isso, é mais duro quando comparado com o exoesqueleto de outros artrópodes. Esse revestimento externo confere proteção, mas, por ser duro, limita o crescimento desses animais.",
+   "enunciado": "Para superar essa limitação, o exoesqueleto deve ser",
+   "alternativas": {
+    "a": "formado somente na fase adulta do animal.",
+    "b": "fragmentado para expansão nas áreas de articulação.",
+    "c": "modelado continuamente para ajuste ao tamanho do corpo.",
+    "d": "substituído por meio de mudas que ocorrem periodicamente.",
+    "e": "impregnado por pequena quantidade de sais para sua distensão."
+   },
+   "resposta": "d",
+   "explicacao": "Um revestimento rígido e não vivo não acompanha o crescimento do corpo. A solução dos artrópodes é a ecdise: o animal secreta um novo exoesqueleto sob o antigo, desprende-se da carapaça velha e, enquanto o novo revestimento ainda está mole, aumenta de tamanho antes que ele endureça. É por isso que o crescimento desses animais é descontínuo, em saltos. As demais alternativas contrariam a natureza do material — ele não se remodela nem se distende, e o animal precisa de proteção desde a fase jovem."
   }
  ],
  "textos": [

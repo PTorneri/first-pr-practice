@@ -1,7 +1,7 @@
 {
  "gerado": "2026-08-16",
  "frente": "biologia",
- "total": 486,
+ "total": 500,
  "residuo": [
   "med-biologia-09",
   "med-biologia-39",
@@ -2909,6 +2909,84 @@
    "frenteDestino": "biologia",
    "pontos": 15,
    "margem": 8
+  },
+  "enem-biologia-16": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 6
+  },
+  "enem-biologia-17": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 4,
+   "margem": 0
+  },
+  "enem-biologia-18": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 8,
+   "margem": 1
+  },
+  "enem-biologia-19": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "pontos": 9,
+   "margem": 4
+  },
+  "enem-biologia-20": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 10,
+   "margem": 8
+  },
+  "enem-biologia-21": {
+   "subtema": "biologia-genetica",
+   "frenteDestino": "biologia",
+   "pontos": 11,
+   "margem": 2
+  },
+  "enem-biologia-22": {
+   "subtema": "biologia-citologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "enem-biologia-23": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "pontos": 4,
+   "margem": 4
+  },
+  "enem-biologia-24": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "enem-biologia-25": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "enem-biologia-26": {
+   "subtema": "biologia-ecologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "enem-biologia-27": {
+   "subtema": "biologia-fisiologia",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "enem-biologia-28": {
+   "subtema": "biologia-evolucao",
+   "frenteDestino": "biologia",
+   "revisado": true
+  },
+  "enem-biologia-29": {
+   "subtema": "biologia-diversidade",
+   "frenteDestino": "biologia",
+   "pontos": 5,
+   "margem": 5
   }
  }
 }

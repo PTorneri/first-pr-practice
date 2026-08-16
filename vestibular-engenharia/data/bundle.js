@@ -3327,6 +3327,166 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "A área de um círculo é proporcional ao quadrado do diâmetro, então comparar áreas é comparar a² com b² + c². Pela lei dos cossenos, a² = b² + c² − 2bc·cos α. Para que a² seja maior que b² + c² é preciso que −2bc·cos α seja positivo, ou seja, que cos α seja negativo — o que acontece exatamente quando α é obtuso, entre 90° e 180°. Em α = 90° vale a igualdade, que é o caso de Pitágoras citado no enunciado, e é a opção b. Com α agudo a soma das duas pizzas menores vence. Os valores de 180° em diante estão fora porque nenhum ângulo interno de triângulo os alcança."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-38",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A prefeitura de uma cidade planeja construir três postos de saúde. Esses postos devem ser construídos em locais equidistantes entre si e de forma que as distâncias desses três postos ao hospital dessa cidade sejam iguais. Foram conseguidos três locais para a construção dos postos de saúde que apresentam as características desejadas, e que distam 10 km entre si. O ponto H representa o local onde está construído o hospital; os pontos P1, P2 e P3, os postos de saúde; e esses quatro pontos estão em um mesmo plano. Considere √3 ≈ 1,73.",
+   "enunciado": "A distância, em quilômetro, entre o hospital e cada um dos postos de saúde, é um valor entre",
+   "alternativas": {
+    "a": "2 e 3.",
+    "b": "4 e 5.",
+    "c": "5 e 6.",
+    "d": "7 e 8.",
+    "e": "8 e 9."
+   },
+   "resposta": "c",
+   "explicacao": "Três pontos equidistantes entre si formam um triângulo equilátero de lado 10 km. O ponto equidistante dos três vértices é o circuncentro, que num equilátero coincide com o baricentro, e a distância dele a cada vértice é o raio da circunferência circunscrita: R = L/√3 = 10/1,73 ≈ 5,8 km. Esse valor está entre 5 e 6. A alternativa (a) é de quem calcula o raio da circunferência inscrita (apótema, cerca de 2,9 km), que é a distância aos lados e não aos vértices."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-39",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Um jardineiro dispõe de k metros lineares de cerca baixa para fazer um jardim ornamental. O jardim, delimitado por essa cerca, deve ter a forma de um triângulo equilátero, um quadrado ou um hexágono regular. A escolha será pela forma que resulte na maior área.",
+   "enunciado": "O jardineiro escolherá a forma de",
+   "alternativas": {
+    "a": "hexágono regular, pois a área do jardim, em metro quadrado, será k²√3/24.",
+    "b": "hexágono regular, pois a área do jardim, em metro quadrado, será 3√3k²/2.",
+    "c": "quadrado, pois a área do jardim, em metro quadrado, será k²/16.",
+    "d": "triângulo equilátero, pois a área do jardim, em metro quadrado, será k²√3/36.",
+    "e": "triângulo equilátero, pois a área do jardim, em metro quadrado, será k²√3/4."
+   },
+   "resposta": "a",
+   "explicacao": "Com perímetro fixo k, quanto mais lados tem o polígono regular, maior a área — então o hexágono vence. Falta conferir a fórmula. Lado do hexágono: k/6. A área de um hexágono regular é (3√3/2)·L², logo (3√3/2)·(k/6)² = (3√3/2)·(k²/36) = k²√3/24. Para comparar: o quadrado dá (k/4)² = k²/16 ≈ 0,0625k², o triângulo dá k²√3/36 ≈ 0,048k², e o hexágono dá k²√3/24 ≈ 0,072k² — o maior. A alternativa (b) usa a fórmula com k como lado, e não como perímetro."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-43",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma indústria faz uma parceria com uma distribuidora de sucos para lançar no mercado dois tipos de embalagens. Para a fabricação dessas embalagens, a indústria dispõe de folhas de alumínio retangulares, de dimensões 10 cm por 20 cm. Cada uma dessas folhas é utilizada para formar a superfície lateral da embalagem, em formato de cilindro circular reto, que posteriormente recebe fundo e tampa circulares. Há duas opções, dependendo de qual das duas extensões será utilizada como altura.",
+   "enunciado": "Dentre essas duas embalagens, a de maior capacidade apresentará volume, em centímetro cúbico, igual a",
+   "alternativas": {
+    "a": "4 000π",
+    "b": "2 000π",
+    "c": "4 000/π",
+    "d": "1 000/π",
+    "e": "500/π"
+   },
+   "resposta": "d",
+   "explicacao": "A folha vira a lateral, então um dos lados é a altura e o outro é o comprimento da circunferência da base. Primeira opção: altura 10 e circunferência 20, o que dá raio 20/(2π) = 10/π e volume π·(10/π)²·10 = 1 000/π. Segunda opção: altura 20 e circunferência 10, com raio 5/π e volume π·(5/π)²·20 = 500/π. A primeira é o dobro da segunda, então a maior capacidade é 1 000/π. O ponto da questão é que o raio entra ao quadrado: vale mais alargar a base do que esticar a altura. As alternativas com π no numerador vêm de tratar 10 e 20 como raios."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-45",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Um proprietário pretende instalar um sensor de presença para a proteção de seu imóvel. O sensor deverá detectar movimentos numa determinada região plana, cuja área de cobertura é um setor circular que depende da medida do ângulo α, em grau, e do raio R, em metro. Ao aumentar o ângulo α ou o raio R aumenta-se a área de cobertura do sensor. Entretanto, quanto maior essa área, maior o preço do sensor. Há cinco tipos de sensores disponíveis no mercado:\ntipo I: α = 15° e R = 20 m;\ntipo II: α = 30° e R = 22 m;\ntipo III: α = 40° e R = 12 m;\ntipo IV: α = 60° e R = 16 m;\ntipo V: α = 90° e R = 10 m.\nO proprietário pretende adquirir um desses sensores que seja capaz de cobrir, no mínimo, uma área de medida 70 m2, com o menor preço possível. Use 3 como valor aproximado para π.",
+   "enunciado": "O proprietário do imóvel deverá adquirir o sensor do tipo",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "e",
+   "explicacao": "A área de um setor circular é (α/360)·πR². Calculando cada tipo com π = 3: I dá (15/360)·3·400 = 50 m²; II dá (30/360)·3·484 = 121 m²; III dá (40/360)·3·144 = 48 m²; IV dá (60/360)·3·256 = 128 m²; V dá (90/360)·3·100 = 75 m². Dois tipos ficam abaixo do mínimo de 70 m² e saem: I e III. Entre os três que atendem, o preço acompanha a área, então o mais barato é o de menor área — o tipo V, com 75 m². A pegadinha é olhar só o ângulo ou só o raio: o V tem o maior ângulo e o menor raio ao mesmo tempo."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-56",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Para obter um sólido de revolução (rotação de 360° em torno de um eixo fixo), uma professora realizou as seguintes etapas: recortou o trapézio retângulo PQRS de um material rígido; afixou o lado PS do trapézio, que é o lado perpendicular às duas bases, em uma vareta fixa retilínea (eixo de rotação); girou o trapézio 360° em torno da vareta e obteve um sólido de revolução.",
+   "enunciado": "O sólido obtido foi um(a)",
+   "alternativas": {
+    "a": "cone.",
+    "b": "cilindro.",
+    "c": "pirâmide.",
+    "d": "tronco de cone.",
+    "e": "tronco de pirâmide."
+   },
+   "resposta": "d",
+   "explicacao": "Girando o trapézio em torno do lado perpendicular às bases, cada uma das duas bases paralelas varre um círculo — e como elas têm comprimentos diferentes, os dois círculos têm raios diferentes. O lado oblíquo varre a superfície lateral inclinada que liga um círculo ao outro. Isso é exatamente um tronco de cone. Se o polígono fosse um triângulo retângulo, o resultado seria um cone; se fosse um retângulo, um cilindro. Pirâmides e troncos de pirâmide têm faces planas e não podem surgir de revolução."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-57",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "O estádio do Maracanã passou por algumas modificações estruturais para a realização da Copa do Mundo de 2014, como, por exemplo, as dimensões do campo retangular. Para se adaptar aos padrões da Fifa, as dimensões do campo foram reduzidas de 110 m × 75 m para 105 m × 68 m.",
+   "enunciado": "Em quantos metros quadrados a área do campo do Maracanã foi reduzida?",
+   "alternativas": {
+    "a": "24",
+    "b": "35",
+    "c": "555",
+    "d": "1 110",
+    "e": "1 145"
+   },
+   "resposta": "d",
+   "explicacao": "Área antiga: 110 × 75 = 8 250 m². Área nova: 105 × 68 = 7 140 m². A redução é 8 250 − 7 140 = 1 110 m². A alternativa (a) é a soma das reduções lineares (5 + 7 = 12, dobrada), e a (b) o produto delas (5 × 7 = 35) — os dois erros clássicos de quem opera sobre as dimensões em vez de sobre as áreas. Reduzir 5 m de um lado e 7 m do outro não corresponde a nenhuma dessas contas: é preciso calcular cada área e subtrair."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-58",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Uma sala com piso no formato retangular, com lados de medidas 3 m e 6 m, será dividida em dois ambientes. Para isso, serão utilizadas colunas em formato cilíndrico, dispostas perpendicularmente ao piso. Os centros dessas colunas estarão sobre uma reta paralela aos lados de menor medida do piso da sala. Os vãos entre duas colunas e entre uma coluna e a parede não poderão ser superiores a 15 cm. Para efetuar a compra dessas colunas, foram feitos orçamentos com base em dados fornecidos por cinco lojas:\nloja I: raio 5 cm, R$ 60,00 por unidade;\nloja II: raio 10 cm, R$ 70,00 por unidade;\nloja III: raio 12 cm, R$ 75,00 por unidade;\nloja IV: raio 15 cm, R$ 90,00 por unidade;\nloja V: raio 20 cm, R$ 120,00 por unidade.\nA compra será realizada na loja cujo orçamento resulte no menor valor total possível.",
+   "enunciado": "A compra será realizada na loja",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "c",
+   "explicacao": "A fileira de colunas atravessa a largura de 3 m = 300 cm. Com n colunas de raio r, os diâmetros ocupam 2rn e sobram n + 1 vãos, cada um limitado a 15 cm. A condição é 2rn + 15(n + 1) ≥ 300. Resolvendo loja a loja: I (r=5) exige n ≥ 11,4, logo 12 colunas × 60 = R$ 720; II (r=10) exige n ≥ 8,1, logo 9 × 70 = R$ 630; III (r=12) exige n ≥ 7,3, logo 8 × 75 = R$ 600; IV (r=15) exige n ≥ 6,3, logo 7 × 90 = R$ 630; V (r=20) exige n ≥ 5,2, logo 6 × 120 = R$ 720. O menor total é o da loja III. Nem a coluna mais barata nem a mais larga vencem: o mínimo fica no meio."
+  },
+  {
+   "subtema": "matematica-geometria",
+   "id": "enem-matematica-59",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O arquiteto Renzo Piano exibiu a maquete da nova sede do Museu Whitney de Arte Americana, um prédio assimétrico que tem um vão aberto para a galeria principal, cuja medida da área é 1 672 m2. Considere que a escala da maquete exibida é 1 : 200.",
+   "enunciado": "A medida da área do vão aberto nessa maquete, em centímetro quadrado, é",
+   "alternativas": {
+    "a": "4,18.",
+    "b": "8,36.",
+    "c": "41,80.",
+    "d": "83,60.",
+    "e": "418,00."
+   },
+   "resposta": "e",
+   "explicacao": "Escala é razão entre comprimentos; para áreas, a razão é o quadrado dela — 1 : 200 em comprimento vira 1 : 40 000 em área. Convertendo primeiro a unidade: 1 672 m² = 1 672 × 10 000 = 16 720 000 cm². Dividindo por 40 000, chega-se a 418 cm². O erro que a questão persegue é dividir a área por 200 em vez de por 200², o que levaria a um valor 200 vezes maior; as alternativas menores vêm de conversões incompletas entre metro e centímetro quadrado."
   }
  ],
  "matematica-financeira": [
@@ -6967,6 +7127,186 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Basta comparar as médias de cada par de meses consecutivos: outubro e novembro, (250 + 150)/2 = 200 mm; novembro e dezembro, 175 mm; dezembro e janeiro, (200 + 450)/2 = 325 mm; janeiro e fevereiro, 275 mm; fevereiro e março, 150 mm. A maior é a dupla dezembro-janeiro, então o plantio deve começar no início de dezembro. A opção d, janeiro, é o erro de escolher o mês mais chuvoso isoladamente: janeiro tem 450 mm, mas plantar ali significaria emparelhá-lo com fevereiro, o mês mais seco da lista, e a média cairia para 275."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-32",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "A umidade relativa do ar é um dos indicadores utilizados na meteorologia para fazer previsões sobre o clima. As médias mensais, em porcentagem, da umidade relativa do ar em um período de seis meses consecutivos em uma cidade foram:\nMaio: 66.\nJunho: 64.\nJulho: 54.\nAgosto: 46.\nSetembro: 60.\nOutubro: 64.",
+   "enunciado": "Nessa cidade, a mediana desses dados, em porcentagem, da umidade relativa do ar no período considerado foi",
+   "alternativas": {
+    "a": "56.",
+    "b": "58.",
+    "c": "59.",
+    "d": "60.",
+    "e": "62."
+   },
+   "resposta": "e",
+   "explicacao": "Mediana exige ordenar antes de qualquer coisa: 46, 54, 60, 64, 64, 66. Como são seis valores, número par, a mediana é a média dos dois centrais, o terceiro e o quarto: (60 + 64)/2 = 62. A alternativa (c) corresponde a 59, que é aproximadamente a média aritmética dos seis valores — o erro clássico de trocar mediana por média. A (d) é de quem toma só um dos dois termos centrais em vez da média deles."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-33",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma empresa de engenharia foi contratada para realizar um serviço no valor de R$ 71 250,00. Os sócios da empresa decidiram que 40% desse valor seria destinado ao pagamento de três engenheiros que gerenciaram o serviço. O pagamento para cada um deles será feito de forma diretamente proporcional ao total de horas trabalhadas. O número de dias e o número de horas diárias trabalhadas pelos engenheiros foram, respectivamente:\nengenheiro I: 4 dias, numa jornada de 5 horas e meia por dia;\nengenheiro II: 5 dias, numa jornada de 4 horas por dia;\nengenheiro III: 6 dias, numa jornada de 2 horas e meia por dia.",
+   "enunciado": "Qual a maior diferença, em real, entre os valores recebidos por esse serviço entre dois desses engenheiros?",
+   "alternativas": {
+    "a": "1 000",
+    "b": "1 500",
+    "c": "3 500",
+    "d": "3 800",
+    "e": "5 250"
+   },
+   "resposta": "c",
+   "explicacao": "O montante a repartir é 40% de 71 250, ou seja, R$ 28 500,00. As horas de cada um: I trabalhou 4 × 5,5 = 22 h; II, 5 × 4 = 20 h; III, 6 × 2,5 = 15 h — total de 57 h. O valor da hora é 28 500/57 = R$ 500,00. Logo I recebe 11 000, II recebe 10 000 e III recebe 7 500. A maior diferença é entre o que mais e o que menos trabalhou: 11 000 − 7 500 = 3 500. A alternativa (a) é a diferença entre I e II, e a (b) entre II e III."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-44",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Contratos de vários serviços disponíveis na internet apresentam uma quantidade excessiva de informações. Isso faz com que o tempo necessário para a leitura desses contratos possa ser longo. O tempo considerado necessário para a leitura completa do contrato de alguns serviços digitais, em minuto, foi:\nserviço A: 36.\nserviço B: 17.\nserviço C: 27.\nserviço D: 13.\nserviço E: 13.\nserviço F: 13.",
+   "enunciado": "O tempo médio, em minuto, necessário para a leitura completa de um contrato de serviço dentre os listados no quadro é, com uma casa decimal, aproximadamente,",
+   "alternativas": {
+    "a": "13,0.",
+    "b": "15,0.",
+    "c": "19,8.",
+    "d": "20,0.",
+    "e": "23,3."
+   },
+   "resposta": "c",
+   "explicacao": "A média aritmética soma tudo e divide pela quantidade de termos: 36 + 17 + 27 + 13 + 13 + 13 = 119, e 119/6 ≈ 19,83, ou seja, 19,8. A alternativa (a) é a moda, valor que mais se repete; a (b) é a mediana, média dos dois centrais (13 e 17) da lista ordenada. A questão coloca as três medidas de tendência central lado a lado justamente para separar quem sabe distingui-las."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-47",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma piscina tem capacidade de 2 500 000 litros. Seu sistema de abastecimento foi regulado para ter uma vazão constante de 6 000 litros de água por minuto. O mesmo sistema foi instalado em uma segunda piscina, com capacidade de 2 750 000 litros, e regulado para ter uma vazão, também constante, capaz de enchê-la em um tempo 20% maior que o gasto para encher a primeira piscina.",
+   "enunciado": "A vazão do sistema de abastecimento da segunda piscina, em litro por minuto, é",
+   "alternativas": {
+    "a": "8 250.",
+    "b": "7 920.",
+    "c": "6 545.",
+    "d": "5 500.",
+    "e": "5 280."
+   },
+   "resposta": "d",
+   "explicacao": "O tempo da primeira piscina é 2 500 000/6 000 ≈ 416,67 min. Um tempo 20% maior é 416,67 × 1,2 = 500 min. A vazão da segunda é então 2 750 000/500 = 5 500 L/min. Vale conferir pela razão: o volume subiu 10% e o tempo subiu 20%, logo a vazão caiu para 1,1/1,2 do valor original, ou seja, 6 000 × 0,9167 ≈ 5 500 ✔. A alternativa (b) é de quem aumenta a vazão em vez de reduzi-la, esquecendo que mais tempo com pouco mais de volume significa vazão menor."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-50",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Ao calcular a média de suas notas em 4 provas, um estudante dividiu, por engano, a soma das notas por 5. Com isso, a média obtida foi 1 unidade menor do que deveria ser, caso fosse calculada corretamente.",
+   "enunciado": "O valor correto da média das notas desse estudante é",
+   "alternativas": {
+    "a": "4.",
+    "b": "5.",
+    "c": "6.",
+    "d": "19.",
+    "e": "21."
+   },
+   "resposta": "b",
+   "explicacao": "Seja S a soma das quatro notas. A média correta é S/4 e a errada é S/5, e o enunciado diz que a errada ficou 1 unidade abaixo: S/5 = S/4 − 1. Passando para o mesmo denominador, S/4 − S/5 = S/20 = 1, logo S = 20 e a média correta é 20/4 = 5. As alternativas (d) e (e) são para quem confunde a soma com a média, e a (a) é a média errada que o estudante obteve, 20/5 = 4."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-52",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Um artesão utiliza dois tipos de componentes, X e Y, nos enfeites que produz. Ele sempre compra todos os componentes em uma mesma loja. Os preços dos dois tipos de componentes nas lojas são:\nloja I: componente X a R$ 3,00 e componente Y a R$ 1,00;\nloja II: componente X a R$ 2,00 e componente Y a R$ 4,00.\nEle confeccionará enfeites formados por duas unidades do componente X e uma unidade do componente Y e efetuará a compra na loja que oferecer o menor valor total para a confecção de um enfeite.",
+   "enunciado": "O artesão efetuará a compra na loja",
+   "alternativas": {
+    "a": "I, pois o valor é R$ 7,00.",
+    "b": "I, pois o valor é R$ 4,00.",
+    "c": "II, pois o valor é R$ 6,00.",
+    "d": "I, pois anuncia o componente com o menor preço.",
+    "e": "II, pois o componente X, que é o mais utilizado, tem menor preço."
+   },
+   "resposta": "a",
+   "explicacao": "O que importa é o custo do enfeite montado, não o preço de uma peça isolada. Na loja I: 2 × 3,00 + 1,00 = 7,00. Na loja II: 2 × 2,00 + 4,00 = 8,00. A loja I é mais barata, com R$ 7,00. As alternativas (d) e (e) são justificativas que soam razoáveis e estão erradas: comparar preços unitários não decide nada quando as quantidades diferem — o Y caro da loja II anula a vantagem do X barato. A (b) soma apenas uma unidade de X."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-53",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "João e Felipe participaram, na escola, de uma maratona de matemática na qual, durante uma semana, resolveram 200 questões cada. Nessa maratona, a porcentagem P de acertos de cada participante é convertida em um conceito:\ninsatisfatório: se 0 ≤ P < 50;\nregular: se 50 ≤ P < 60;\nbom: se 60 ≤ P < 75;\nmuito bom: se 75 ≤ P < 90;\nexcelente: se 90 ≤ P ≤ 100.\nJoão acertou 75% das questões da maratona e Felipe acertou 30% a menos que a quantidade de questões que João acertou.",
+   "enunciado": "Os conceitos de João e Felipe foram, respectivamente,",
+   "alternativas": {
+    "a": "muito bom e bom.",
+    "b": "muito bom e regular.",
+    "c": "muito bom e insatisfatório.",
+    "d": "bom e regular.",
+    "e": "bom e insatisfatório."
+   },
+   "resposta": "b",
+   "explicacao": "João acertou 75% de 200, ou seja, 150 questões, e P = 75 cai na faixa muito bom, que começa exatamente em 75. Felipe acertou 30% a menos que a quantidade de João — repare que a redução incide sobre as 150 questões, não sobre os 75 pontos percentuais. Logo Felipe acertou 150 × 0,7 = 105 questões, o que dá 105/200 = 52,5%, faixa regular. A alternativa (a) sai de subtrair 30 diretamente de 75 e obter 45%... e a (c) de fazer isso e cair no insatisfatório: os dois erros vêm de confundir percentual de uma quantidade com diferença de pontos percentuais."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-55",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Uma casa de shows terá um evento cujo custo total de produção é de R$ 34 350,00, sendo que comporta 500 pessoas. O preço do ingresso será de R$ 130,00 e, normalmente, 60% das pessoas adquirem meia-entrada, pagando R$ 65,00 pelo ingresso. Além do faturamento proveniente da venda de ingressos, a casa de shows vende, com 60% de lucro, bebidas e petiscos ao público no dia do evento. Após ter vendido todos os 500 ingressos, constatou-se que a quantidade de meias-entradas vendidas superou em 50% o que estava previsto, impactando o faturamento estimado com a venda de ingressos. No dia do evento, decidiu-se manter o percentual de 60% de lucro sobre as bebidas e petiscos, pois todo o público que comprou ingresso compareceu ao show. Com isso, espera-se ter lucro de R$ 17 000,00 nesse evento.",
+   "enunciado": "Para que se alcance o lucro esperado, o gasto médio por pessoa com bebidas e petiscos, em real, deverá ser de",
+   "alternativas": {
+    "a": "19,50.",
+    "b": "28,80.",
+    "c": "34,00.",
+    "d": "52,00.",
+    "e": "68,70."
+   },
+   "resposta": "d",
+   "explicacao": "O previsto eram 60% de 500 = 300 meias-entradas. Elas superaram isso em 50%, indo a 450 meias e restando 50 inteiras. O faturamento com ingressos é 450 × 65 + 50 × 130 = 29 250 + 6 500 = 35 750, o que sobre o custo de 34 350 deixa apenas R$ 1 400,00 de lucro. Faltam então 17 000 − 1 400 = 15 600, que precisam vir do lucro de 60% sobre bebidas e petiscos: se G é o gasto total do público, 0,6G = 15 600 e G = 26 000. Dividindo pelas 500 pessoas, o gasto médio é R$ 52,00."
+  },
+  {
+   "subtema": "matematica-financeira",
+   "id": "enem-matematica-60",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Um instituto de pesquisa constatou que, nos últimos dez anos, o crescimento populacional de uma cidade foi de 135,25%.",
+   "enunciado": "Qual é a representação decimal da taxa percentual desse crescimento populacional?",
+   "alternativas": {
+    "a": "13 525,0",
+    "b": "135,25",
+    "c": "13,525",
+    "d": "1,3525",
+    "e": "0,13525"
+   },
+   "resposta": "d",
+   "explicacao": "Por cento significa dividido por cem: 135,25% = 135,25/100 = 1,3525. Na prática, basta deslocar a vírgula duas casas para a esquerda. A alternativa (b) apenas repete o número sem converter, e a (e) desloca três casas — erro de quem confunde a divisão por 100 com divisão por 1 000. Note que o resultado é maior que 1, coerente com um crescimento superior a 100%: a população mais que dobrou."
   }
  ],
  "matematica-algebra": [
@@ -10558,6 +10898,186 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "Sejam a e v os preços unitários. Duas cartelas azuis e uma vermelha somam 18a + 9v = 32,40, que dividido por 9 dá 2a + v = 3,60. A segunda informação diz a − v = v + 0,05, ou seja, a = 2v + 0,05. Substituindo: 2(2v + 0,05) + v = 3,60, isto é, 5v = 3,50 e v = 0,70. A pergunta é pelo preço da CARTELA vermelha, com nove tíquetes: 9 × 0,70 = 6,30. A opção a, 4,68, e a d são armadilhas de quem resolve certo mas responde o preço unitário ou o da cartela azul — vale conferir que a = 1,45 e a cartela azul sai por 13,05, o que fecha a conta: 2 × 13,05 + 6,30 = 32,40."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-31",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma empresa produz mochilas escolares sob encomenda. Essa empresa tem um custo total de produção, composto por um custo fixo, que não depende do número de mochilas, mais um custo variável, que é proporcional ao número de mochilas produzidas. O custo total cresce de forma linear, e a tabela apresenta esse custo para três quantidades de mochilas produzidas.\n30 mochilas: R$ 1 050,00.\n50 mochilas: R$ 1 650,00.\n100 mochilas: R$ 3 150,00.",
+   "enunciado": "O custo total, em real, para a produção de 80 mochilas será",
+   "alternativas": {
+    "a": "2 400,00.",
+    "b": "2 520,00.",
+    "c": "2 550,00.",
+    "d": "2 700,00.",
+    "e": "2 800,00."
+   },
+   "resposta": "c",
+   "explicacao": "O custo é uma função afim C(q) = a·q + b. O coeficiente angular sai de dois pontos quaisquer: de 30 para 50 mochilas o custo sobe R$ 600,00 em 20 unidades, então a = 30 reais por mochila. Substituindo, 1050 = 30·30 + b dá b = 150 de custo fixo. Conferindo com o terceiro ponto: 30·100 + 150 = 3150 ✔. Para 80 mochilas, C = 30·80 + 150 = 2550. A alternativa (a) é a de quem trata o custo como proporção direta e faz regra de três simples, esquecendo a parcela fixa."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-35",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A densidade demográfica de uma região é definida como sendo a razão entre o número de habitantes dessa região e sua área, expressa na unidade habitantes por quilômetro quadrado. Uma região R é subdividida em várias outras, sendo uma delas a região Q. A área de Q é igual a três quartos da área de R, e o número de habitantes de Q é igual à metade do número de habitantes de R. As densidades demográficas correspondentes a essas regiões são denotadas por d(Q) e d(R).",
+   "enunciado": "A expressão que relaciona d(Q) e d(R) é",
+   "alternativas": {
+    "a": "d(Q) = (1/4) · d(R)",
+    "b": "d(Q) = (1/2) · d(R)",
+    "c": "d(Q) = (3/4) · d(R)",
+    "d": "d(Q) = (3/2) · d(R)",
+    "e": "d(Q) = (2/3) · d(R)"
+   },
+   "resposta": "e",
+   "explicacao": "Sendo H o número de habitantes e A a área de R, temos d(R) = H/A. Para a região Q, o numerador cai à metade e o denominador vai a três quartos: d(Q) = (H/2)/(3A/4). Dividir por uma fração é multiplicar pelo inverso, então d(Q) = (H/2)·(4/3A) = 2H/(3A) = (2/3)·d(R). A alternativa (b) captura quem só considera a queda dos habitantes e ignora a redução da área; a (c) inverte a razão das áreas."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-36",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Atualmente, há telefones celulares com telas de diversos tamanhos e em formatos retangulares. O celular 1 apresenta tela medindo 3 1/2 polegadas. Com a inclusão de novas funções no celular, as telas ficaram maiores, e o celular 2 apresenta tela medindo 4 5/6 polegadas.",
+   "enunciado": "A diferença de tamanho, em valor absoluto, entre as medidas, em polegada, das telas do celular 2 e do celular 1, representada apenas com uma casa decimal, é",
+   "alternativas": {
+    "a": "0,1.",
+    "b": "0,5.",
+    "c": "1,0.",
+    "d": "1,3.",
+    "e": "1,8."
+   },
+   "resposta": "d",
+   "explicacao": "Convertendo os números mistos: 3 + 1/2 = 3,5 e 4 + 5/6 ≈ 4,833. A diferença é 4,833 − 3,5 = 1,333, que com uma casa decimal é 1,3. Alternativamente, com frações: 29/6 − 7/2 = 29/6 − 21/6 = 8/6 = 4/3 ≈ 1,33. A alternativa (c) é de quem trunca em vez de arredondar corretamente a parte fracionária, e a (e) surge de subtrair as partes fracionárias sem alinhá-las (5/6 − 1/2 lido como 0,8)."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-40",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Um aeroporto disponibiliza o serviço de transporte gratuito entre seus dois terminais utilizando os ônibus A e B, que partem simultaneamente, de hora em hora, de terminais diferentes. A distância entre os terminais é de 9 000 metros, e o percurso total dos ônibus, de um terminal ao outro, é monitorado por um sistema de cinco câmeras que cobrem, nesta ordem a partir do terminal 1, partes sucessivas do trecho:\ncâmera I: 1/5 do percurso;\ncâmera II: 3/10 do percurso;\ncâmera III: 1/10 do percurso;\ncâmera IV: 1/10 do percurso;\ncâmera V: 3/10 do percurso.\nEm determinado horário, o ônibus A parte do terminal 1 e realiza o percurso total com velocidade constante de 250 m/min; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 m/min.",
+   "enunciado": "Qual câmera registra o momento em que os ônibus A e B se encontram?",
+   "alternativas": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+   },
+   "resposta": "d",
+   "explicacao": "Os ônibus se aproximam a 250 + 150 = 400 m/min, de modo que os 9 000 m são vencidos em 22,5 min. Nesse tempo, A percorreu 250 × 22,5 = 5 625 m, ou 5 625/9 000 = 0,625 do percurso. Agora basta acumular os alcances a partir do terminal 1: a câmera I cobre até 0,2; a II, até 0,5; a III, até 0,6; a IV, até 0,7. A posição 0,625 cai na faixa da câmera IV. O erro mais comum é somar mal os trechos e parar na câmera III, que termina exatamente em 0,6 — pouco antes do encontro."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-42",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram magnitudes M1 e M2, medidos segundo a escala Richter, e liberaram energias iguais a E1 e E2, respectivamente. Entre os estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores, dada por\nM2 − M1 = (2/3) · log(E2/E1).\nEstudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M1 = 6,9 e a energia liberada foi um décimo da observada no segundo terremoto.",
+   "enunciado": "O valor aproximado da magnitude M2 do segundo terremoto, expresso com uma casa decimal, é igual a",
+   "alternativas": {
+    "a": "5,4.",
+    "b": "6,2.",
+    "c": "7,6.",
+    "d": "8,2.",
+    "e": "8,4."
+   },
+   "resposta": "c",
+   "explicacao": "Se E1 é um décimo de E2, então E2/E1 = 10 e log(E2/E1) = 1. A expressão fica M2 − 6,9 = (2/3)·1, ou seja, M2 = 6,9 + 0,667 ≈ 7,57, que arredondado dá 7,6. A alternativa (b) é de quem inverte a razão e usa log(1/10) = −1, subtraindo em vez de somar. Vale notar a escala: um salto de menos de sete décimos na magnitude Richter corresponde a dez vezes mais energia liberada — a escala é logarítmica, não linear."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-46",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "O valor V a ser pago por uma viagem de aplicativo de transporte, em real, varia em função de:\ntarifa base F: valor fixo, em real, cobrado no início da viagem;\ntempo T: tempo, em minuto, de duração da viagem;\ndistância D: distância percorrida, em quilômetro.\nUm desses aplicativos cobra R$ 2,00 de valor fixo, acrescido de R$ 0,26 por minuto de viagem e de R$ 1,40 por quilômetro rodado.",
+   "enunciado": "Nessas condições, a expressão que fornece o valor V a ser pago por uma viagem desse aplicativo é",
+   "alternativas": {
+    "a": "2,00F + 0,26T + 1,40D",
+    "b": "2,00 + 0,26T + 1,40D",
+    "c": "2,00 + 0,26T + D",
+    "d": "0,26T + 1,40D",
+    "e": "F + T + D"
+   },
+   "resposta": "b",
+   "explicacao": "A tarifa base é cobrada uma única vez e entra como termo constante: 2,00. Os outros dois componentes são taxas por unidade, então multiplicam suas variáveis: 0,26 por minuto vira 0,26T e 1,40 por quilômetro vira 1,40D. Somando, V = 2,00 + 0,26T + 1,40D. A alternativa (a) confunde o valor da tarifa base com a própria variável F e a multiplica por ela mesma; a (c) esquece a taxa por quilômetro e a (d) omite a parcela fixa."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-48",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Uma doceira vende e entrega, em seu bairro, porções de 100 g de docinhos de aniversário. Atualmente, a taxa única de entrega é R$ 10,00, e o valor cobrado por uma porção é R$ 25,00. Por uma estratégia de vendas, a partir da próxima semana, a taxa única de entrega será R$ 15,00, e um novo valor será cobrado por uma porção, de maneira que o valor total a ser pago por um cliente na compra de 5 porções permaneça o mesmo.",
+   "enunciado": "A partir da próxima semana, qual será o novo valor cobrado, em real, por uma porção?",
+   "alternativas": {
+    "a": "12,50",
+    "b": "20,00",
+    "c": "24,00",
+    "d": "30,00",
+    "e": "37,50"
+   },
+   "resposta": "c",
+   "explicacao": "O total atual para 5 porções é 10 + 5 × 25 = 135 reais. Com a nova taxa de 15, o valor unitário x deve satisfazer 15 + 5x = 135, então 5x = 120 e x = 24. Faz sentido: a taxa subiu 5 reais, e esses 5 reais precisam ser diluídos nas 5 porções, ou seja, 1 real a menos em cada uma. A alternativa (b) é de quem tira os 5 reais inteiros de uma única porção, e a (a) de quem divide o total pelas porções sem separar a taxa."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-49",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O tamanho mínimo que a visão humana é capaz de visualizar sem o uso de equipamento auxiliar é equivalente a 100 micrômetros (1 micrômetro = 10^-3 milímetros). Uma estudante pretende visualizar e analisar hemácias do sangue humano, que medem 0,007 mm de diâmetro. Ela adquiriu um microscópio óptico que tem uma lente ocular que amplia em 10 vezes a imagem do objeto em observação, e um conjunto de lentes objetivas com estas capacidades de ampliação:\nlente I: 2 vezes;\nlente II: 10 vezes;\nlente III: 15 vezes;\nlente IV: 1,1 vez;\nlente V: 1,4 vez.\nA capacidade de ampliação final é dada pelo produto entre as capacidades de ampliação da ocular e da objetiva. A estudante pretende selecionar a lente objetiva de menor capacidade de ampliação que permita, na combinação com a ocular, visualizar hemácias do sangue humano.",
+   "enunciado": "A lente objetiva a ser selecionada pela estudante é a",
+   "alternativas": {
+    "a": "I.",
+    "b": "II.",
+    "c": "III.",
+    "d": "IV.",
+    "e": "V."
+   },
+   "resposta": "a",
+   "explicacao": "A hemácia mede 0,007 mm, ou seja, 7 micrômetros, e precisa parecer ter ao menos 100 micrômetros. A ampliação total necessária é 100/7 ≈ 14,3 vezes. Como a ocular já amplia 10 vezes, a objetiva precisa dar pelo menos 1,43 vez. Testando as lentes: IV dá 10 × 1,1 = 11 (insuficiente), V dá 10 × 1,4 = 14 (ainda abaixo de 14,3), I dá 10 × 2 = 20 ✔. Entre as que servem — I, II e III — a de menor ampliação é a I. A alternativa (e) é a armadilha: 1,4 fica pouquíssimo abaixo do necessário, e só quem compara com o valor exato 14,3 percebe."
+  },
+  {
+   "subtema": "matematica-algebra",
+   "id": "enem-matematica-61",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Um fazendeiro pretende construir um galinheiro ocupando uma região plana de formato retangular, com lados de comprimentos L metro e C metro. Os lados serão cercados por telas de tipos diferentes. Nos dois lados de comprimento L metro, será utilizada uma tela cujo metro linear custa R$ 20,00, enquanto, nos outros dois lados, uma que custa R$ 15,00. O fazendeiro quer gastar, no máximo, R$ 6 000,00 na compra de toda a tela necessária para o galinheiro, e deseja que o galinheiro tenha a maior área possível.",
+   "enunciado": "Qual será a medida, em metro, do maior lado do galinheiro?",
+   "alternativas": {
+    "a": "85",
+    "b": "100",
+    "c": "175",
+    "d": "200",
+    "e": "350"
+   },
+   "resposta": "b",
+   "explicacao": "O custo é 2·20·L + 2·15·C = 6 000, que simplifica para 4L + 3C = 600. Isolando C = (600 − 4L)/3, a área fica A(L) = L·(600 − 4L)/3, uma parábola com concavidade para baixo cujo máximo está no vértice: L = 600/8 = 75 m. Daí C = (600 − 300)/3 = 100 m. O maior lado mede 100 m. O atalho vale a pena guardar: numa soma do tipo 4L + 3C fixa, o produto L·C é máximo quando as duas parcelas se igualam, isto é, 4L = 3C = 300."
   }
  ],
  "matematica-probabilidade": [
@@ -12852,6 +13372,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "Quanto mais senhas possíveis, menor a chance de acertar na primeira tentativa. São 10 + 26 + 26 + 6 = 68 caracteres permitidos. Tipo I: 68 × 67 × 66 × 65 = 19 545 240. Tipo II: 52 × 51 × 50 (as três letras) × 10 × 6 = 7 956 000. Tipo III: 52 × 51 × 10 × 9 × 6 × 5 = 7 160 400. O tipo I é o que tem mais combinações, apesar de ser o mais curto — porque cada posição pode receber qualquer um dos 68 caracteres, enquanto nos outros o formato fixo restringe cada posição a um subconjunto pequeno. Logo p₁ < p₂ < p₃. As opções b, c e e apelam para o comprimento ou a quantidade de letras, e é justamente esse raciocínio que a questão desmonta: mais caracteres não garantem mais segurança se o formato for previsível."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "enem-matematica-34",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Para melhorar o fluxo de ônibus em uma avenida que tem dois semáforos, a prefeitura reduzirá o tempo em que cada sinal ficará vermelho, que atualmente é de 15 segundos a cada 60 segundos. Admita que o instante de chegada de um ônibus a cada semáforo é aleatório. O engenheiro de tráfego da prefeitura calculou a probabilidade de um ônibus encontrar cada um deles vermelho, obtendo 15/60. A partir daí, estabeleceu uma mesma redução na quantidade do tempo, em segundo, em que cada sinal ficará vermelho, de maneira que a probabilidade de um ônibus encontrar ambos os sinais vermelhos numa mesma viagem seja igual a 4/100, considerando os eventos independentes.",
+   "enunciado": "Para isso, a redução do tempo em que o sinal ficará vermelho, em segundo, estabelecida pelo engenheiro foi de",
+   "alternativas": {
+    "a": "1,35.",
+    "b": "3,00.",
+    "c": "9,00.",
+    "d": "12,60.",
+    "e": "13,80."
+   },
+   "resposta": "b",
+   "explicacao": "Chamando de x a redução, o tempo de vermelho passa a 15 − x em cada ciclo de 60 s, e a probabilidade de pegar um sinal vermelho vira (15 − x)/60. Como os eventos são independentes, pegar os dois vermelhos tem probabilidade igual ao quadrado dessa fração, que deve valer 4/100. Extraindo a raiz, (15 − x)/60 = 2/10, ou seja, 15 − x = 12 e x = 3 segundos. A alternativa (c) resulta de igualar (15 − x)/60 diretamente a 4/100, sem passar pela raiz — o erro de esquecer que a probabilidade dada é a do evento conjunto."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "enem-matematica-41",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Na Cifra de César, cada letra do alfabeto é substituída pela letra três posições à frente: o “A” é substituído pelo “D”, o “B” pelo “E”, o “C” pelo “F”, e assim sucessivamente. Qualquer código que tenha um padrão de substituição de letras como o descrito é considerado uma Cifra de César. Note que, para decifrar uma Cifra de César, basta descobrir por qual letra o “A” foi substituído, pois isso define todas as demais substituições a serem feitas. Uma mensagem, em um alfabeto de 26 letras, foi codificada usando uma Cifra de César. Considere a probabilidade de se descobrir, aleatoriamente, o padrão utilizado nessa codificação, e que uma tentativa frustrada deverá ser eliminada nas tentativas seguintes.",
+   "enunciado": "A probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por",
+   "alternativas": {
+    "a": "1/25 + 1/25 + 1/25",
+    "b": "24/25 + 23/24 + 1/23",
+    "c": "1/25 × 1/24 × 1/23",
+    "d": "24/25 × 23/25 × 1/25",
+    "e": "24/25 × 23/24 × 1/23"
+   },
+   "resposta": "e",
+   "explicacao": "Acertar só na terceira tentativa exige três coisas simultâneas: errar, errar de novo e então acertar — daí a multiplicação, não a soma. Na primeira tentativa há 25 padrões possíveis e 24 deles erram: 24/25. Como a tentativa frustrada é eliminada, restam 24 padrões, dos quais 23 erram: 23/24. Na terceira, restam 23 e apenas um acerta: 1/23. O produto é 24/25 × 23/24 × 1/23. A alternativa (d) é a armadilha: mantém 25 no denominador em todas as etapas, ignorando a eliminação que o enunciado impôs."
+  },
+  {
+   "subtema": "matematica-probabilidade",
+   "id": "enem-matematica-51",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Para abrir a porta de uma empresa, cada funcionário deve cadastrar uma senha utilizando um teclado alfanumérico. A tecla que contém o número 2 traz as letras correlacionadas A, B e C. Cada toque nessa tecla mostra, sequencialmente, os seguintes caracteres: 2, A, B e C. Para os próximos toques, essa sequência se repete. As demais teclas funcionam da mesma maneira: a tecla 5 traz as letras J, K e L; a tecla 7 traz as letras P, Q, R e S; e as teclas 1 e 0 não têm letras correlacionadas. As senhas a serem cadastradas pelos funcionários devem conter 5 caracteres, sendo 2 algarismos distintos seguidos de 3 letras diferentes, nessa ordem. Um funcionário irá cadastrar a sua primeira senha, podendo escolher entre as teclas que apresentam os números 1, 2, 5, 7 e 0 e as respectivas letras correlacionadas, quando houver.",
+   "enunciado": "O número de possibilidades diferentes que esse funcionário tem para cadastrar sua senha é",
+   "alternativas": {
+    "a": "11 520.",
+    "b": "14 400.",
+    "c": "18 000.",
+    "d": "312 000.",
+    "e": "390 000."
+   },
+   "resposta": "b",
+   "explicacao": "A senha tem duas partes independentes, e o princípio multiplicativo junta as duas no fim. Os algarismos: há 5 teclas disponíveis (1, 2, 5, 7 e 0) e eles devem ser distintos, logo 5 × 4 = 20 pares ordenados. As letras: as teclas 2, 5 e 7 oferecem 3 + 3 + 4 = 10 letras, e escolher 3 diferentes em ordem dá 10 × 9 × 8 = 720. Multiplicando, 20 × 720 = 14 400. A alternativa (c) resulta de permitir algarismos repetidos (25 × 720), e as maiores vêm de contar letras repetidas."
   }
  ],
  "matematica-sequencias": [
@@ -14076,6 +14656,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "As diferenças entre termos consecutivos são 4, 7, 10, 13 e 16 — uma progressão aritmética de razão 3. A próxima diferença é 19, então o sétimo pentagonal é 51 + 19 = 70; a diferença seguinte é 22, e o oitavo é 70 + 22 = 92. Não é preciso conhecer a fórmula fechada n(3n − 1)/2, embora ela confirme: 8 × 23/2 = 92. O distrator mais próximo é 89, resultado de manter a diferença em 19 nos dois últimos passos, isto é, de tratar a sequência como se as diferenças fossem constantes em vez de crescerem de 3 em 3."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "enem-matematica-37",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Uma imobiliária iniciou uma campanha de divulgação para promover a venda de apartamentos que podem ser pagos em 100 parcelas mensais. O valor da primeira delas é fixado no momento da compra, com o pagamento dessa primeira parcela. A partir da segunda parcela, o valor é determinado pela aplicação de um acréscimo percentual fixo ao valor da parcela anterior. Como atrativo, a imobiliária fará o pagamento de todas as parcelas correspondentes ao mês de aniversário do comprador. Um cliente, que faz aniversário no mês de maio, decidiu comprar um desses apartamentos por meio do financiamento oferecido pela imobiliária, e pretende escolher o mês mais adequado para realizar essa compra, de modo que o valor total dos pagamentos seja o menor possível.",
+   "enunciado": "Qual é o mês que esse cliente deverá escolher para realizar a compra do apartamento?",
+   "alternativas": {
+    "a": "Fevereiro.",
+    "b": "Abril.",
+    "c": "Maio.",
+    "d": "Junho.",
+    "e": "Agosto."
+   },
+   "resposta": "a",
+   "explicacao": "As parcelas formam uma progressão geométrica crescente, então quanto mais tarde uma parcela cai, mais cara ela é. O cliente quer que as parcelas isentas — as de maio — sejam as mais caras possíveis. Cem parcelas cobrem 8 anos e 4 meses. Comprando em fevereiro, a primeira parcela é de fevereiro e a centésima cai justamente em maio, oito anos depois: o mês de maio aparece nove vezes, e a última delas é a parcela mais cara de todo o financiamento. Qualquer outro mês de início joga a última parcela para depois do maio final, deixando as mais caras fora da isenção."
+  },
+  {
+   "subtema": "matematica-sequencias",
+   "id": "enem-matematica-54",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma criança, utilizando um aplicativo, escreveu uma mensagem para enviar a um amigo. Essa mensagem foi escrita seguindo estas etapas:\n1ª etapa: inseriu três figuras iguais no visor de escrita da mensagem;\n2ª etapa: copiou o que havia inserido anteriormente e colou (inseriu o que havia copiado) ao lado;\n3ª etapa: copiou o que tinha no visor na 2ª etapa e colou ao lado.\nA criança seguiu copiando e colando, em cada etapa, o que tinha no visor na etapa imediatamente anterior, até concluir a 20ª etapa. Em seguida, enviou a mensagem.",
+   "enunciado": "Qual foi o total de figuras contidas na mensagem enviada?",
+   "alternativas": {
+    "a": "3 × 2^19",
+    "b": "3 × 2^20",
+    "c": "3 × 2^21",
+    "d": "3 × 2^20 − 1",
+    "e": "3 × 2^20 − 3"
+   },
+   "resposta": "a",
+   "explicacao": "Cada etapa duplica o que já estava no visor, então a quantidade de figuras é uma progressão geométrica de razão 2 começando em 3. Na 1ª etapa há 3 figuras; na 2ª, 6; na 3ª, 12. O termo geral é 3 × 2^(n−1), e para n = 20 isso dá 3 × 2^19. A alternativa (b) é o erro mais frequente: usar o expoente 20 esquecendo que a primeira etapa não envolveu duplicação alguma — ela apenas criou as três figuras iniciais."
   }
  ],
  "matematica-logica-conjuntos": [
@@ -20870,6 +21490,66 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "As duas vantagens estão ditas no texto, uma em cada ponta. A frase \"não esquentar na parte externa\" com café quente dentro descreve um material que conduz mal o calor: baixa condutividade térmica. E o copo é reutilizável, então cada um deles substitui muitos descartáveis — o que reduz a quantidade de resíduo não biodegradável despejada na natureza. Cuidado com a segunda metade: metade do material é plástico reciclado NÃO biodegradável, então o copo não é biodegradável nem aumenta resíduo biodegradável, o que elimina a, c e e. E alta condutividade térmica contraria justamente o conforto descrito, derrubando b."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "enem-fisica-15",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma tirinha ilustra esquimós dentro de um iglu, habitação de formato hemisférico construída durante o inverno a partir de neve ou blocos de gelo. Essa estrutura de construção se justifica pelo fato de esse povo habitar as regiões mais setentrionais da Groenlândia, Canadá e Alasca. Na tirinha, os personagens mantêm uma geladeira dentro do iglu para fazer gelo.",
+   "enunciado": "Na tirinha, a geladeira é necessária para fazer gelo porque",
+   "alternativas": {
+    "a": "a temperatura interna do iglu é maior que a de solidificação da água.",
+    "b": "a umidade dentro do iglu dificulta o processo de mudança de fase da água.",
+    "c": "o ar dentro do iglu é isolante térmico, dificultando a perda de calor pela água.",
+    "d": "a temperatura uniforme no interior do iglu impede as correntes de convecção.",
+    "e": "a pressão do ar no interior do iglu é baixa, dificultando a solidificação da água."
+   },
+   "resposta": "a",
+   "explicacao": "O iglu funciona porque a neve compactada é péssima condutora de calor: ela retém o calor dos corpos e das lamparinas e mantém o interior bem acima da temperatura externa, tipicamente alguns graus positivos. Para a água congelar é preciso levá-la abaixo de 0 °C, e dentro do iglu isso não acontece — daí a geladeira. As demais alternativas invocam umidade, convecção e pressão, fatores que têm efeito desprezível diante do fato central: a temperatura ali dentro está acima do ponto de solidificação."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "enem-fisica-17",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "O ciclo de Otto descreve o funcionamento de um motor de combustão interna, como os motores a gasolina ou a etanol utilizados nos automóveis. As etapas do ciclo são:\nEtapa I (0 a 1): admissão isobárica da mistura ar-combustível no cilindro do motor.\nEtapa II (1 a 2): compressão adiabática da mistura.\nEtapa III (2 a 3): introdução de energia na forma de calor da combustão.\nEtapa IV (3 a 4): expansão adiabática.\nEtapa V (4 a 1): liberação de energia na forma de calor.\nEtapa VI (1 a 0): liberação dos gases resultantes da combustão.",
+   "enunciado": "A transformação da energia térmica em energia útil ocorre na etapa",
+   "alternativas": {
+    "a": "II.",
+    "b": "III.",
+    "c": "IV.",
+    "d": "V.",
+    "e": "VI."
+   },
+   "resposta": "c",
+   "explicacao": "Energia útil, num motor, é trabalho entregue ao pistão. Na expansão adiabática da etapa IV não há troca de calor com o meio, então toda a variação de energia interna do gás se converte em trabalho — é o tempo motriz, o único em que o gás empurra o pistão. A etapa III apenas injeta calor no sistema, sem produzi-lo como trabalho; a II consome trabalho para comprimir; e as etapas V e VI descartam calor e gases já queimados."
+  },
+  {
+   "subtema": "fisica-termologia",
+   "id": "enem-fisica-22",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "Aquecedores solares são equipamentos utilizados para o aquecimento de água pelo calor do Sol. São compostos por coletores solares, nos quais ocorre o aquecimento da água, e por um reservatório térmico, em que é armazenada a água quente para ser utilizada posteriormente. O reservatório fica situado acima dos coletores, e a água circula entre eles sem uso de bomba.",
+   "enunciado": "O processo pelo qual ocorre transferência de calor dos coletores solares para o reservatório térmico é a",
+   "alternativas": {
+    "a": "difusão.",
+    "b": "absorção.",
+    "c": "condução.",
+    "d": "irradiação.",
+    "e": "convecção."
+   },
+   "resposta": "e",
+   "explicacao": "A água aquecida no coletor se dilata, fica menos densa e sobe para o reservatório; a água fria do reservatório, mais densa, desce para o coletor e ocupa o lugar dela. Esse ciclo é o termossifão, um caso de convecção natural — e é exatamente por isso que o reservatório é instalado acima dos coletores. A irradiação é o mecanismo pelo qual o Sol entrega energia ao coletor, não o que move a água entre as duas partes, e a condução exigiria contato direto sem transporte de matéria."
   }
  ],
  "fisica-ondas-optica": [
@@ -22442,6 +23122,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "Os dois ecos percorrem exatamente o mesmo caminho na rocha de cima; o que os separa é só a travessia do líquido, ida e volta. A diferença de tempo é 1,1 − 0,5 = 0,6 s, e nesse tempo o som atravessou 450 m para baixo e 450 m para cima, ou seja, 900 m. Logo v = 900/0,6 = 1 500 m/s — que é, de fato, a ordem de grandeza da velocidade do som na água. Quem usa só 450 m em vez do percurso de ida e volta chega a 750; quem usa o tempo total de 1,1 s em vez da diferença chega perto de 818, a opção c."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-19",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Uma ambulância em alta velocidade com a sirene ligada desloca-se em direção a um radar operado por uma pessoa. O radar emite ondas de rádio com frequência f0 que são refletidas pela dianteira da ambulância, retornando para o detector com frequência fr. A percepção do operador do radar, em relação ao som emitido pela sirene, é de que este se altera à medida que a ambulância se aproxima ou se afasta.",
+   "enunciado": "Durante a aproximação, como o operador percebe o som da sirene e qual é a relação entre as frequências fr e f0 medidas pelo radar?",
+   "alternativas": {
+    "a": "Mais grave do que o som emitido e fr < f0.",
+    "b": "Mais agudo do que o som emitido e fr < f0.",
+    "c": "Mais agudo do que o som emitido e fr = f0.",
+    "d": "Mais agudo do que o som emitido e fr > f0.",
+    "e": "Mais grave do que o som emitido e fr > f0."
+   },
+   "resposta": "d",
+   "explicacao": "O efeito Doppler vale para qualquer onda. Com a fonte se aproximando, as frentes de onda sonoras chegam ao observador mais juntas: a frequência aparente sobe e o som soa mais agudo. Com as ondas de rádio o deslocamento ocorre duas vezes — o veículo em aproximação recebe frequência maior e, ao refletir, comporta-se como fonte também em aproximação. Por isso fr > f0, e é dessa diferença que o radar calcula a velocidade. As alternativas (a) e (e) erram o timbre percebido, e (b) e (c) erram o sentido do deslocamento no rádio."
+  },
+  {
+   "subtema": "fisica-ondas-optica",
+   "id": "enem-fisica-21",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Dentre os parâmetros acústicos que afetam a inteligibilidade dos sons emitidos em ambientes fechados, destacam-se o ruído de fundo do ambiente e o decréscimo do nível sonoro com a distância da fonte emissora. Considere a situação a seguir: à distância de 1 metro, o nível sonoro da fala de um professor é de 60 dB e diminui com a distância. Considere, ainda, que o ruído de fundo nessa sala de aula pode chegar a 45 dB e que, para ser compreendida, o nível sonoro da fala do professor deve estar 5 dB acima desse ruído.",
+   "enunciado": "Para um valor máximo do ruído de fundo, a maior distância que um estudante pode estar do professor para que ainda consiga compreender sua fala é mais próxima de",
+   "alternativas": {
+    "a": "3,0 m.",
+    "b": "4,5 m.",
+    "c": "6,5 m.",
+    "d": "8,0 m.",
+    "e": "9,5 m."
+   },
+   "resposta": "a",
+   "explicacao": "O nível mínimo aceitável é 45 + 5 = 50 dB, isto é, 10 dB abaixo dos 60 dB medidos a 1 m. Uma queda de 10 dB corresponde a dividir a intensidade por 10. Como a intensidade de uma fonte pontual cai com o quadrado da distância, dividir a intensidade por 10 exige multiplicar a distância por √10 ≈ 3,16. Partindo de 1 m, chega-se a cerca de 3,2 m — o valor mais próximo é 3,0 m. Quem trata a queda do nível sonoro como linear na distância cai nas alternativas maiores."
   }
  ],
  "fisica-eletromagnetismo": [
@@ -23829,6 +24549,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Cada conjunto é uma lâmpada em paralelo com um resistor R, e associação em paralelo tem resistência menor que a de qualquer um dos ramos. Quando L2 queima, aquele ramo abre e o conjunto 2 passa a ser só o resistor R — resistência maior do que a do paralelo que existia ali. Como os três conjuntos estão em série, a resistência total do circuito aumenta, e com a mesma fonte a corrente cai. As lâmpadas L1 e L3 continuam sendo percorridas por essa corrente menor, e a potência dissipada em cada uma cai junto: as duas brilham menos. As alternativas d e e supõem que L1 e L3 sejam afetadas de modos diferentes, mas em série a corrente é a mesma nos dois — a posição no circuito não distingue uma da outra."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "enem-fisica-18",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Uma caixa decorativa utiliza duas pequenas lâmpadas, L1 (6 V – 9 W) e L2 (12 V – 18 W), ligadas em série a uma bateria. Um fio resistivo QR, de 48 centímetros, está ligado em paralelo à bateria. Cinco pontos, A, B, C, D e E, nessa ordem a partir de Q, dividem o fio QR em seis segmentos de comprimentos iguais. O circuito também tem um amperímetro com dois terminais. Um dos terminais (P) está ligado ao fio entre as duas lâmpadas. O outro terminal (S) está livre e será ligado ao fio QR. Dependendo do ponto em que esse terminal livre for conectado, ocorrerá a mudança na tensão à qual as lâmpadas são submetidas. Os demais fios do circuito têm resistências elétricas desprezíveis.",
+   "enunciado": "Em qual desses pontos o amperímetro deve ser conectado para que as lâmpadas acendam exatamente segundo as especificações de tensão e potência elétricas fornecidas?",
+   "alternativas": {
+    "a": "A",
+    "b": "B",
+    "c": "C",
+    "d": "D",
+    "e": "E"
+   },
+   "resposta": "b",
+   "explicacao": "As duas lâmpadas puxam a mesma corrente nominal, 1,5 A (9/6 e 18/12), então podem mesmo operar em série, sob tensão total de 6 + 12 = 18 V. O fio QR, homogêneo e ligado em paralelo à bateria, funciona como divisor de tensão: a queda entre Q e um ponto qualquer é proporcional ao comprimento até ele. Para que L1 receba seus 6 V, o ponto de conexão deve estar a 6/18 = 1/3 do fio, ou seja, a 16 cm dos 48 — dois dos seis segmentos de 8 cm. Contando de Q, isso é o ponto B."
+  },
+  {
+   "subtema": "fisica-eletromagnetismo",
+   "id": "enem-fisica-23",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Em aeroportos, por razões de segurança, os passageiros devem ter suas bagagens de mão examinadas antes do embarque, passando-as em esteiras para sua inspeção por aparelhos de raios X. Nessas inspeções, os passageiros são orientados a retirar seus computadores portáteis (notebooks ou laptops) de malas, mochilas ou bolsas para passá-los isoladamente pela esteira.",
+   "enunciado": "Que explicação física justifica esse procedimento?",
+   "alternativas": {
+    "a": "Os raios X não interagem com os componentes metálicos do computador, o que impede a formação de imagens.",
+    "b": "Os raios X desmagnetizam o disco rígido do computador, quando refratados pelos componentes metálicos das bagagens de mão.",
+    "c": "Os raios X aquecem os materiais metálicos encontrados em bagagens de mão, quando refletidos pelos componentes do computador.",
+    "d": "Os raios X não atravessam os componentes densos do computador, o que impede a visualização de objetos que estão à frente ou atrás deles.",
+    "e": "Os raios X ionizam os materiais metálicos normalmente encontrados em bagagens de mão, quando difratados pelos componentes do computador."
+   },
+   "resposta": "d",
+   "explicacao": "A imagem do escâner é uma radiografia: forma-se pela diferença de absorção dos raios X ao atravessarem os materiais. Bateria, blindagens e placas do computador são densos e absorvem quase toda a radiação, criando uma mancha opaca que esconde o que estiver alinhado atrás ou à frente dela. Retirar o aparelho elimina essa sombra. A alternativa (a) afirma o oposto do que ocorre — os raios X interagem intensamente com o metal, e é justamente esse o problema."
   }
  ],
  "fisica-hidrostatica": [
@@ -26213,6 +26973,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "Em velocidade constante a força motriz iguala a resistência, então o trabalho ÚTIL é W = F·d = 200·100 000 = 2×10⁷ J = 20 MJ. Esse é o trabalho entregue à estrada, não o que o combustível fornece: com rendimento de 30%, a energia de entrada é E = 20/0,30 ≈ 67 MJ. A opção de 20 MJ é exatamente o trabalho útil, de quem esqueceu o rendimento, e a de 60 MJ é o resultado de MULTIPLICAR por 0,3 em vez de dividir — o que daria menos energia no tanque do que o carro entrega, invertendo o sentido da perda."
+  },
+  {
+   "subtema": "fisica-energia-trabalho",
+   "id": "enem-fisica-20",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "Muitas pessoas ainda se espantam com o fato de um passageiro sair ileso de um acidente de carro enquanto o veículo onde estava teve perda total. Essas pessoas talvez considerem, equivocadamente, que os carros mais seguros são os que têm as estruturas mais rígidas, ou seja, estruturas que, durante uma colisão, apresentam menor deformação. Na verdade, o que ocorre é o contrário. Por isso, a partir de 1958, passaram a ser produzidos carros com partes que se deformam facilmente, conhecidas como crumple zone (região deformável, em inglês).",
+   "enunciado": "Considerando o carro, seus ocupantes e o muro como um sistema isolado, o crumple zone aumenta a segurança dos passageiros porque, durante uma colisão, a deformação da estrutura do carro",
+   "alternativas": {
+    "a": "aciona os airbags do veículo.",
+    "b": "absorve a energia cinética do sistema.",
+    "c": "consome a quantidade de movimento do sistema.",
+    "d": "cria uma barreira de proteção para seus ocupantes.",
+    "e": "diminui a velocidade do centro de massa do sistema."
+   },
+   "resposta": "b",
+   "explicacao": "Deformar metal exige trabalho, e esse trabalho vem da energia cinética do veículo. A zona de deformação converte parte dessa energia em deformação plástica e calor, de modo que menos energia sobra para ser dissipada nos ocupantes; de quebra, prolonga o tempo da colisão e reduz a força média sobre eles. A alternativa (c) é a armadilha física: em sistema isolado a quantidade de movimento se conserva sempre, ela não pode ser consumida — quem se dissipa é a energia. A (e) descreve consequência do choque, não da deformação."
   }
  ],
  "fisica-moderna": [
@@ -27384,6 +28164,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "A taxa de 2 μSv/h vale só para a fase de cruzeiro, que é 80% do tempo de voo. Do teto de 1 000 h por ano, portanto, 800 h são de cruzeiro: dose = 2 μSv/h × 800 h = 1 600 μSv = 1,6 mSv. Cada radiografia torácica equivale a 0,2 mSv, e 1,6 ÷ 0,2 = 8. A armadilha é ignorar os 80% e usar as 1 000 h cheias, o que daria 2 000 μSv = 2 mSv e levaria a 10 — a opção b existe exatamente para colher quem passou por cima dessa linha do texto. Também é preciso cuidar da troca de prefixo: μSv e mSv diferem por mil."
+  },
+  {
+   "subtema": "fisica-moderna",
+   "id": "enem-fisica-16",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "As placas que indicam saída de emergência brilham no escuro, pois apresentam substâncias que fosforecem na cor amarelo-esverdeada após exposição à luz ambiente. Esse fenômeno ocorre pela presença do sulfeto de zinco (ZnS), dopado com prata ou cobre, na superfície da placa.",
+   "enunciado": "O aparecimento do brilho nessas condições ocorre como consequência de",
+   "alternativas": {
+    "a": "colisões interatômicas.",
+    "b": "coloração dos átomos.",
+    "c": "transições eletrônicas.",
+    "d": "reações nucleares.",
+    "e": "reflexão da luz."
+   },
+   "resposta": "c",
+   "explicacao": "A luz ambiente excita elétrons do material, que saltam para níveis de energia mais altos. Na fosforescência esses elétrons ficam presos em estados metaestáveis — criados justamente pela dopagem com prata ou cobre — e retornam ao estado fundamental lentamente, emitindo fótons por minutos ou horas depois de cessada a iluminação. A cor amarelo-esverdeada corresponde à diferença de energia entre os níveis. Não há reação nuclear envolvida, e reflexão exige fonte de luz presente, o que contradiz o brilho no escuro."
   }
  ],
  "quimica-eletroquimica": [
@@ -28715,6 +29515,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "d",
    "explicacao": "I é a única errada, e erra nas duas metades: ΔG° = −nFE° é uma proporcionalidade INVERSA no sinal, e E° cresce com o logaritmo de K (E° = RT ln K/nF), não decresce. II é aritmética de referência: mudando o eletrodo de referência do hidrogênio para o calomelano, subtrai-se 0,24 de 0,34, dando 0,10 V. III diz o que o próprio zero convencionado do eletrodo de hidrogênio significa — não existe potencial absoluto de meia-célula, só diferença. IV descreve o que acontece ao recarregar uma pilha: o eletrodo troca de papel, mas as definições não mudam de lugar, porque catodo é por definição onde ocorre redução, e anodo onde ocorre oxidação."
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "enem-quimica-15",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Placas solares comuns dependem de dias ensolarados para gerar energia. Mas podemos gerar eletricidade com a ajuda de gotas de chuva, revestindo placas solares com uma fina camada de grafeno. Os íons dissociados a partir da água da chuva (Am+ e Bn−) tornam a combinação grafeno e água da chuva um par perfeito para geração de energia. O processo requer apenas uma camada de grafeno para que grande quantidade de elétrons (e−) se movimente ao longo da superfície.",
+   "enunciado": "Ao produzir eletricidade em dias chuvosos, o grafeno",
+   "alternativas": {
+    "a": "oxida os cátions dissolvidos na água da chuva.",
+    "b": "impede a difusão da água através das placas solares.",
+    "c": "diminui a energia de ativação da reação no pseudocapacitor.",
+    "d": "forma um compósito não metálico com os íons na água da chuva.",
+    "e": "gera uma diferença de potencial pela interação dos elétrons com os cátions."
+   },
+   "resposta": "e",
+   "explicacao": "O grafeno tem elétrons deslocalizados e muito móveis na superfície. Quando a água da chuva traz cátions, eles atraem esses elétrons e os concentram na interface, criando uma dupla camada elétrica — uma separação de cargas que é, por definição, uma diferença de potencial. É essa ddp que move corrente pelo circuito. A alternativa (a) inverte os papéis: cátion já está oxidado, quem se oxida cede elétrons. As demais descrevem funções de barreira, catálise ou formação de material que o texto não atribui ao grafeno."
+  },
+  {
+   "subtema": "quimica-eletroquimica",
+   "id": "enem-quimica-20",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Células a combustível microbianas (CCM) são capazes de gerar eletricidade a partir de águas residuárias. As CCM são compostas de duas câmaras. Numa delas, onde ocorre o tratamento da matéria orgânica, as bactérias eletrogênicas crescem formando um biofilme e se alimentam dos poluentes presentes no efluente. Ao se alimentarem, essas bactérias geram uma corrente elétrica que percorre o material sobre o qual elas formaram o biofilme. Um fio condutor externo possibilita a migração dessa corrente para uma segunda câmara, promovendo uma reação química. As semirreações envolvidas são:\nCH3COO− (aq) + 2 H2O (l) → 2 CO2 (g) + 7 H+ (aq) + 8 e−\n4 H+ (aq) + O2 (g) + 4 e− → 2 H2O (l)",
+   "enunciado": "Qual das equações representa a reação global que ocorre durante o funcionamento dessa CCM?",
+   "alternativas": {
+    "a": "CH3COO− (aq) + O2 (g) → 2 CO2 (g) + 3 H+ (aq)",
+    "b": "CO2 (g) + O2 (g) + H+ (aq) → H2O (l) + CH3COO− (aq)",
+    "c": "CH3COO− (aq) + H+ (aq) + 2 O2 (g) → 2 CO2 (g) + 2 H2O (l)",
+    "d": "CH3COO− (aq) + 6 H2O (l) → 2 CO2 (g) + 2 O2 (g) + 15 H+ (aq)",
+    "e": "2 CO2 (g) + 11 H+ (aq) + O2 (g) → CH3COO− (aq) + 4 H2O (l)"
+   },
+   "resposta": "c",
+   "explicacao": "Para somar as semirreações, os elétrons precisam se cancelar. A oxidação libera 8 e− e a redução consome 4, então a segunda equação é multiplicada por 2: 8 H+ + 2 O2 + 8 e− → 4 H2O. Somando com a primeira e cortando os elétrons, sobram 2 H2O e 8 H+ de um lado contra 7 H+ e 4 H2O do outro. Cancelando o que é comum, resta CH3COO− + H+ + 2 O2 → 2 CO2 + 2 H2O, que é a alternativa (c). As alternativas (b) e (e) apresentam a reação invertida, e (a) e (d) não fecham o balanço de massa nem de carga."
   }
  ],
  "quimica-atomistica-ligacoes": [
@@ -31451,6 +32291,26 @@ window.QUESTION_BANKS = {
    },
    "resposta": "b",
    "explicacao": "O texto descreve um equilíbrio entre o alumínio preso no vidro e o alumínio em solução. O gluconato é o agente que se liga fortemente ao íon Al³⁺ e o retira da solução; pelo princípio de Le Chatelier, remover produto desloca o equilíbrio no sentido de repô-lo, ou seja, no sentido de dissolver mais alumínio do vidro. Quanto MAIOR a concentração de gluconato, mais intenso o deslocamento e maior a contaminação. Espessura e transparência do frasco não entram no equilíbrio, que depende da área de contato e da composição, não do volume de vidro nem da passagem de luz. A esterilização é anterior ao envase. E a alternativa sobre entalpia não indica sentido algum sem dizer a que temperatura o produto será guardado."
+  },
+  {
+   "subtema": "quimica-equilibrio-acido-base",
+   "id": "enem-quimica-14",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A hidroxiapatita, Ca5(PO4)3OH, é um mineral constituinte do esmalte dos dentes. Entre as diversas reações que ocorrem no meio bucal, encontram-se em equilíbrio as reações de desmineralização e mineralização da hidroxiapatita em meio aquoso:\nCa5(PO4)3OH (s) + H+ (aq) ⇌ 5 Ca2+ (aq) + 3 PO4 3− (aq) + H2O (l)\nA reação da esquerda para a direita é a desmineralização, associada à fragilização do esmalte e à formação de cáries; a da direita para a esquerda é a mineralização. O quadro apresenta o agente de polimento e o pH de alguns cremes dentais comerciais.\nCreme dental I: bicarbonato de sódio, pH 9,5.\nCreme dental II: carbonato de cálcio, pH 11,0.\nCreme dental III: citrato de potássio, pH 7,7.\nCreme dental IV: dióxido de silício, pH 6,9.\nCreme dental V: fosfato de cálcio, pH 7,3.",
+   "enunciado": "Considerando o equilíbrio químico envolvido, qual creme dental promove a maior desmineralização do esmalte do dente?",
+   "alternativas": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+   },
+   "resposta": "d",
+   "explicacao": "O H+ aparece como reagente da desmineralização. Pelo princípio de Le Chatelier, quanto maior a concentração de H+, mais o equilíbrio se desloca no sentido de consumir a hidroxiapatita — e maior concentração de H+ significa menor pH. Basta então procurar o creme mais ácido da lista: o IV, de pH 6,9, único abaixo da neutralidade. Os cremes I e II, francamente básicos, fazem o oposto e favorecem a mineralização; III e V, ligeiramente básicos, também protegem o esmalte."
   }
  ],
  "quimica-organica": [
@@ -32890,6 +33750,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "e",
    "explicacao": "O texto diz exatamente onde está o problema: os microrganismos não conseguem quebrar moléculas ramificadas. A correção, portanto, é trocar a cadeia ramificada por uma cadeia normal, isto é, linear — foi o que a indústria de fato fez ao substituir os antigos alquilbenzenossulfonatos ramificados pelos lineares. Mexer no grupo iônico (opções a, c e d) destrói a função do tensoativo, que só age porque tem uma ponta polar e outra apolar, e nada disso responde à objeção dos microrganismos. Eliminar as insaturações do anel aromático muda a molécula, mas a dificuldade de degradação apontada não é do anel: é da ramificação."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "enem-quimica-18",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A nimesulida é um fármaco pouco solúvel em água, utilizado como anti-inflamatório, analgésico e antitérmico. Essa substância pode ser convertida em uma espécie eletricamente carregada, de maior solubilidade em água, mediante o tratamento com uma base de Brönsted-Lowry, isto é, uma espécie química capaz de capturar um próton (H+). Na estrutura da nimesulida estão presentes os grupamentos sulfonamida, metila, fenila, nitro e éter.",
+   "enunciado": "Na estrutura desse fármaco, o grupamento capaz de reagir com a base de Brönsted-Lowry é o grupo",
+   "alternativas": {
+    "a": "sulfonamida.",
+    "b": "metila.",
+    "c": "fenila.",
+    "d": "nitro.",
+    "e": "éter."
+   },
+   "resposta": "a",
+   "explicacao": "Uma base de Brönsted-Lowry captura próton, então o grupo que reage com ela é o que tem hidrogênio ionizável. Entre os cinco, só a sulfonamida possui um H ligado ao nitrogênio, e esse H é acidificado pelos dois oxigênios do grupo sulfonila, que estabilizam por ressonância o ânion formado. Perdendo esse próton, a molécula vira um ânion — daí a espécie carregada e mais solúvel em água que o enunciado descreve. Metila, fenila e éter não têm hidrogênio ácido, e o grupo nitro não possui hidrogênio algum para ceder."
+  },
+  {
+   "subtema": "quimica-organica",
+   "id": "enem-quimica-21",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "No senso comum, considera-se, ainda hoje, que compostos orgânicos são substâncias presentes nos seres vivos. Na Química, a expressão “compostos orgânicos” tem um uso histórico de mais de 200 anos, adquirindo diferentes conotações ao longo do desenvolvimento dessa ciência. Atualmente, atribui-se a essa expressão outro significado.",
+   "enunciado": "A concepção científica atual define esses compostos como substâncias",
+   "alternativas": {
+    "a": "benéficas à saúde humana.",
+    "b": "capazes de serem biodegradadas.",
+    "c": "formadas a partir de gás carbônico.",
+    "d": "produzidas sem o uso de agrotóxicos.",
+    "e": "contendo carbono como elemento principal."
+   },
+   "resposta": "e",
+   "explicacao": "A definição vitalista, que ligava o orgânico à matéria viva, caiu com a síntese da ureia por Wöhler em 1828, a partir de material inorgânico. Desde então a química organiza esses compostos por critério estrutural: química orgânica é a química dos compostos de carbono. As alternativas (a), (b) e (d) confundem o termo técnico com o sentido comercial de “orgânico” aplicado a alimentos, e a (c) toma o CO2 como origem — e ele próprio, apesar de conter carbono, é classificado como inorgânico."
   }
  ],
  "quimica-solucoes": [
@@ -34278,6 +35178,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "a",
    "explicacao": "As duas latas têm o mesmo volume, e a comum leva grande quantidade de açúcar dissolvido enquanto a diet leva adoçantes de massa muito pequena. Mais massa no mesmo volume é, por definição, maior densidade — é exatamente por isso que a lata de refrigerante comum afunda num balde de água e a diet flutua, uma demonstração clássica. Pelo mesmo motivo a massa de solutos é maior, e não menor, o que derruba d. A viscosidade também aumenta com o açúcar, derrubando b. O volume de gás dissolvido é tratado como igual pelo enunciado (ambos são água carbonatada com os mesmos aditivos). E a temperatura de congelamento é mais baixa na comum, não mais alta: mais soluto significa maior abaixamento crioscópico."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "enem-quimica-13",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "O magnésio metálico utilizado em ligas leves é produzido em um processo que envolve várias etapas e utiliza água do mar como matéria-prima. A primeira etapa desse processo consiste na reação entre o íon Mg2+ e hidróxido de cálcio, Ca(OH)2, obtendo uma mistura que contém hidróxido de magnésio, pouco solúvel, e íons Ca2+, de acordo com a equação química:\nMg2+ (aq) + Ca(OH)2 (aq) → Mg(OH)2 (s) + Ca2+ (aq)",
+   "enunciado": "O método adequado para separar o Mg(OH)2 dessa mistura é a",
+   "alternativas": {
+    "a": "filtração.",
+    "b": "catação.",
+    "c": "destilação.",
+    "d": "dissolução.",
+    "e": "evaporação."
+   },
+   "resposta": "a",
+   "explicacao": "A própria equação informa o estado físico: o Mg(OH)2 sai como sólido (s) dentro de uma fase aquosa. Separar sólido disperso em líquido é o caso clássico da filtração, que retém as partículas no filtro e deixa a solução passar. A catação exige fragmentos grandes o bastante para serem escolhidos à mão. Destilação e evaporação separam por diferença de volatilidade e levariam o solvente embora, deixando também os íons Ca2+ no resíduo. E dissolução não é método de separação — ela faria o contrário do pedido."
+  },
+  {
+   "subtema": "quimica-solucoes",
+   "id": "enem-quimica-19",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O soro caseiro serve para combater a desidratação por meio da reposição da água e sais minerais perdidos, por exemplo, por diarreia. Uma receita simples para a sua preparação consiste em utilizar duas colheres grandes (de sopa) de açúcar e duas colheres pequenas (de café) de sal de cozinha, dissolvidos em 2 L de água fervida, obtendo-se uma solução com concentração de íon sódio de 1,4 mg/mL. Considere as massas molares: NaCl = 58,5 g/mol; Na = 23 g/mol.",
+   "enunciado": "Qual é o valor mais próximo da massa, em grama, de cloreto de sódio presente em uma única colher pequena?",
+   "alternativas": {
+    "a": "0,7 g",
+    "b": "1,8 g",
+    "c": "2,8 g",
+    "d": "3,6 g",
+    "e": "7,0 g"
+   },
+   "resposta": "d",
+   "explicacao": "A concentração dada é de íon sódio, não de sal, e é aí que a questão separa quem lê com cuidado. Em 2 L, ou 2000 mL, há 1,4 × 2000 = 2800 mg = 2,8 g de Na+. Converter sódio em cloreto de sódio exige a razão entre as massas molares: 2,8 × 58,5/23 ≈ 7,1 g de NaCl no total. Como esse sal veio de duas colheres, cada uma traz cerca de 3,6 g. A alternativa (c) captura quem confunde massa de sódio com massa de sal, e a (e) quem esquece de dividir pelas duas colheres."
   }
  ],
  "quimica-estequiometria": [
@@ -35477,6 +36417,46 @@ window.QUESTION_BANKS = {
    },
    "resposta": "c",
    "explicacao": "É a equação dos gases ideais, PV = nRT, com duas conversões de unidade que decidem a questão. O volume vai de 100 mL para 0,1 L, e a temperatura de 650 °C para 650 + 273 = 923 K. Então P = nRT/V = (0,1 × 0,082 × 923) / 0,1 = 0,082 × 923 ≈ 75,7 atm, isto é, cerca de 76. Quem esquece de converter a temperatura para kelvin e usa 650 direto chega a 53, a opção d; quem também deixa o volume em mililitros infla o resultado por mil e cai nos valores de centenas. Vale reter a ordem de grandeza: 76 atm dentro de uma latinha de desodorante explica por que a explosão é violenta."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "enem-quimica-16",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A bauxita contém alumina (Al2O3), que é a matéria-prima para produção do alumínio (Al). De forma geral, são necessários 50 kg de bauxita para produzir 10 kg de alumínio. O Brasil fechou 2020 como um dos principais líderes mundiais em reciclagem de latas de alumínio: o país obteve um índice de reciclagem de 97,4%, de um total de 4,0 × 10^5 toneladas de latas vendidas. Considere que a lata é constituída de alumínio puro.",
+   "enunciado": "Levando em conta apenas a reciclagem de latas, qual é o valor mais próximo da massa de bauxita, em tonelada, que deixou de ser extraída da natureza em 2020 no Brasil?",
+   "alternativas": {
+    "a": "1,0 × 10^4 ton",
+    "b": "3,9 × 10^5 ton",
+    "c": "5,0 × 10^5 ton",
+    "d": "1,9 × 10^6 ton",
+    "e": "2,0 × 10^7 ton"
+   },
+   "resposta": "d",
+   "explicacao": "Primeiro, quanto alumínio voltou ao ciclo: 97,4% de 4,0 × 10^5 t dá cerca de 3,9 × 10^5 t. Depois, a proporção da bauxita: 50 kg de minério para cada 10 kg de metal é uma razão de 5 para 1. Logo a bauxita poupada é 5 × 3,9 × 10^5 ≈ 1,9 × 10^6 t. A alternativa (b) é a armadilha: para quem esquece o fator 5 e responde a massa de alumínio reciclado. A (c) ignora o índice de reciclagem, e as demais erram a ordem de grandeza."
+  },
+  {
+   "subtema": "quimica-estequiometria",
+   "id": "enem-quimica-17",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O biogás é uma alternativa energética muito importante, pois, além de reduzir a dependência por combustíveis fósseis, sua obtenção pode ser realizada a partir de resíduos da produção agroindustrial. Considere que o biogás produzido em um empreendimento de suinocultura contém 70% em volume de metano (massa molar 16 g/mol; volume molar 22 L/mol). Ele será utilizado para geração de energia em substituição ao etanol (massa molar 46 g/mol) em um gerador no qual 1 m3 de biogás de origem suína substitui 0,59 L de etanol anidro (densidade 0,78 g/mL).",
+   "enunciado": "Nessas condições, a massa de metano necessária para substituir 10 mol de etanol na produção de energia é mais próxima de",
+   "alternativas": {
+    "a": "300 g.",
+    "b": "400 g.",
+    "c": "510 g.",
+    "d": "590 g.",
+    "e": "720 g."
+   },
+   "resposta": "c",
+   "explicacao": "A cadeia de conversões é longa, mas cada elo é direto. Dez mols de etanol pesam 460 g e, com densidade 0,78 g/mL, ocupam cerca de 590 mL, ou seja, 0,59 L — exatamente o volume que 1 m³ de biogás substitui. Então basta 1 m³ = 1000 L de biogás. Desses, 70% são metano: 700 L. Dividindo pelo volume molar, 700/22 ≈ 31,8 mol, que a 16 g/mol dão cerca de 510 g. A alternativa (d) é a pegadinha para quem para no volume de etanol em mililitros e o lê como massa de metano."
   }
  ],
  "quimica-termoquimica-cinetica": [

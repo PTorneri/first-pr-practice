@@ -8000,6 +8000,177 @@
    },
    "resposta": "e",
    "explicacao": "O texto diz exatamente onde está o problema: os microrganismos não conseguem quebrar moléculas ramificadas. A correção, portanto, é trocar a cadeia ramificada por uma cadeia normal, isto é, linear — foi o que a indústria de fato fez ao substituir os antigos alquilbenzenossulfonatos ramificados pelos lineares. Mexer no grupo iônico (opções a, c e d) destrói a função do tensoativo, que só age porque tem uma ponta polar e outra apolar, e nada disso responde à objeção dos microrganismos. Eliminar as insaturações do anel aromático muda a molécula, mas a dificuldade de degradação apontada não é do anel: é da ramificação."
+  },
+  {
+   "id": "enem-quimica-13",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "O magnésio metálico utilizado em ligas leves é produzido em um processo que envolve várias etapas e utiliza água do mar como matéria-prima. A primeira etapa desse processo consiste na reação entre o íon Mg2+ e hidróxido de cálcio, Ca(OH)2, obtendo uma mistura que contém hidróxido de magnésio, pouco solúvel, e íons Ca2+, de acordo com a equação química:\nMg2+ (aq) + Ca(OH)2 (aq) → Mg(OH)2 (s) + Ca2+ (aq)",
+   "enunciado": "O método adequado para separar o Mg(OH)2 dessa mistura é a",
+   "alternativas": {
+    "a": "filtração.",
+    "b": "catação.",
+    "c": "destilação.",
+    "d": "dissolução.",
+    "e": "evaporação."
+   },
+   "resposta": "a",
+   "explicacao": "A própria equação informa o estado físico: o Mg(OH)2 sai como sólido (s) dentro de uma fase aquosa. Separar sólido disperso em líquido é o caso clássico da filtração, que retém as partículas no filtro e deixa a solução passar. A catação exige fragmentos grandes o bastante para serem escolhidos à mão. Destilação e evaporação separam por diferença de volatilidade e levariam o solvente embora, deixando também os íons Ca2+ no resíduo. E dissolução não é método de separação — ela faria o contrário do pedido."
+  },
+  {
+   "id": "enem-quimica-14",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A hidroxiapatita, Ca5(PO4)3OH, é um mineral constituinte do esmalte dos dentes. Entre as diversas reações que ocorrem no meio bucal, encontram-se em equilíbrio as reações de desmineralização e mineralização da hidroxiapatita em meio aquoso:\nCa5(PO4)3OH (s) + H+ (aq) ⇌ 5 Ca2+ (aq) + 3 PO4 3− (aq) + H2O (l)\nA reação da esquerda para a direita é a desmineralização, associada à fragilização do esmalte e à formação de cáries; a da direita para a esquerda é a mineralização. O quadro apresenta o agente de polimento e o pH de alguns cremes dentais comerciais.\nCreme dental I: bicarbonato de sódio, pH 9,5.\nCreme dental II: carbonato de cálcio, pH 11,0.\nCreme dental III: citrato de potássio, pH 7,7.\nCreme dental IV: dióxido de silício, pH 6,9.\nCreme dental V: fosfato de cálcio, pH 7,3.",
+   "enunciado": "Considerando o equilíbrio químico envolvido, qual creme dental promove a maior desmineralização do esmalte do dente?",
+   "alternativas": {
+    "a": "I",
+    "b": "II",
+    "c": "III",
+    "d": "IV",
+    "e": "V"
+   },
+   "resposta": "d",
+   "explicacao": "O H+ aparece como reagente da desmineralização. Pelo princípio de Le Chatelier, quanto maior a concentração de H+, mais o equilíbrio se desloca no sentido de consumir a hidroxiapatita — e maior concentração de H+ significa menor pH. Basta então procurar o creme mais ácido da lista: o IV, de pH 6,9, único abaixo da neutralidade. Os cremes I e II, francamente básicos, fazem o oposto e favorecem a mineralização; III e V, ligeiramente básicos, também protegem o esmalte."
+  },
+  {
+   "id": "enem-quimica-15",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Placas solares comuns dependem de dias ensolarados para gerar energia. Mas podemos gerar eletricidade com a ajuda de gotas de chuva, revestindo placas solares com uma fina camada de grafeno. Os íons dissociados a partir da água da chuva (Am+ e Bn−) tornam a combinação grafeno e água da chuva um par perfeito para geração de energia. O processo requer apenas uma camada de grafeno para que grande quantidade de elétrons (e−) se movimente ao longo da superfície.",
+   "enunciado": "Ao produzir eletricidade em dias chuvosos, o grafeno",
+   "alternativas": {
+    "a": "oxida os cátions dissolvidos na água da chuva.",
+    "b": "impede a difusão da água através das placas solares.",
+    "c": "diminui a energia de ativação da reação no pseudocapacitor.",
+    "d": "forma um compósito não metálico com os íons na água da chuva.",
+    "e": "gera uma diferença de potencial pela interação dos elétrons com os cátions."
+   },
+   "resposta": "e",
+   "explicacao": "O grafeno tem elétrons deslocalizados e muito móveis na superfície. Quando a água da chuva traz cátions, eles atraem esses elétrons e os concentram na interface, criando uma dupla camada elétrica — uma separação de cargas que é, por definição, uma diferença de potencial. É essa ddp que move corrente pelo circuito. A alternativa (a) inverte os papéis: cátion já está oxidado, quem se oxida cede elétrons. As demais descrevem funções de barreira, catálise ou formação de material que o texto não atribui ao grafeno."
+  },
+  {
+   "id": "enem-quimica-16",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "A bauxita contém alumina (Al2O3), que é a matéria-prima para produção do alumínio (Al). De forma geral, são necessários 50 kg de bauxita para produzir 10 kg de alumínio. O Brasil fechou 2020 como um dos principais líderes mundiais em reciclagem de latas de alumínio: o país obteve um índice de reciclagem de 97,4%, de um total de 4,0 × 10^5 toneladas de latas vendidas. Considere que a lata é constituída de alumínio puro.",
+   "enunciado": "Levando em conta apenas a reciclagem de latas, qual é o valor mais próximo da massa de bauxita, em tonelada, que deixou de ser extraída da natureza em 2020 no Brasil?",
+   "alternativas": {
+    "a": "1,0 × 10^4 ton",
+    "b": "3,9 × 10^5 ton",
+    "c": "5,0 × 10^5 ton",
+    "d": "1,9 × 10^6 ton",
+    "e": "2,0 × 10^7 ton"
+   },
+   "resposta": "d",
+   "explicacao": "Primeiro, quanto alumínio voltou ao ciclo: 97,4% de 4,0 × 10^5 t dá cerca de 3,9 × 10^5 t. Depois, a proporção da bauxita: 50 kg de minério para cada 10 kg de metal é uma razão de 5 para 1. Logo a bauxita poupada é 5 × 3,9 × 10^5 ≈ 1,9 × 10^6 t. A alternativa (b) é a armadilha: para quem esquece o fator 5 e responde a massa de alumínio reciclado. A (c) ignora o índice de reciclagem, e as demais erram a ordem de grandeza."
+  },
+  {
+   "id": "enem-quimica-17",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O biogás é uma alternativa energética muito importante, pois, além de reduzir a dependência por combustíveis fósseis, sua obtenção pode ser realizada a partir de resíduos da produção agroindustrial. Considere que o biogás produzido em um empreendimento de suinocultura contém 70% em volume de metano (massa molar 16 g/mol; volume molar 22 L/mol). Ele será utilizado para geração de energia em substituição ao etanol (massa molar 46 g/mol) em um gerador no qual 1 m3 de biogás de origem suína substitui 0,59 L de etanol anidro (densidade 0,78 g/mL).",
+   "enunciado": "Nessas condições, a massa de metano necessária para substituir 10 mol de etanol na produção de energia é mais próxima de",
+   "alternativas": {
+    "a": "300 g.",
+    "b": "400 g.",
+    "c": "510 g.",
+    "d": "590 g.",
+    "e": "720 g."
+   },
+   "resposta": "c",
+   "explicacao": "A cadeia de conversões é longa, mas cada elo é direto. Dez mols de etanol pesam 460 g e, com densidade 0,78 g/mL, ocupam cerca de 590 mL, ou seja, 0,59 L — exatamente o volume que 1 m³ de biogás substitui. Então basta 1 m³ = 1000 L de biogás. Desses, 70% são metano: 700 L. Dividindo pelo volume molar, 700/22 ≈ 31,8 mol, que a 16 g/mol dão cerca de 510 g. A alternativa (d) é a pegadinha para quem para no volume de etanol em mililitros e o lê como massa de metano."
+  },
+  {
+   "id": "enem-quimica-18",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "media",
+   "origem": "enem",
+   "texto_apoio": "A nimesulida é um fármaco pouco solúvel em água, utilizado como anti-inflamatório, analgésico e antitérmico. Essa substância pode ser convertida em uma espécie eletricamente carregada, de maior solubilidade em água, mediante o tratamento com uma base de Brönsted-Lowry, isto é, uma espécie química capaz de capturar um próton (H+). Na estrutura da nimesulida estão presentes os grupamentos sulfonamida, metila, fenila, nitro e éter.",
+   "enunciado": "Na estrutura desse fármaco, o grupamento capaz de reagir com a base de Brönsted-Lowry é o grupo",
+   "alternativas": {
+    "a": "sulfonamida.",
+    "b": "metila.",
+    "c": "fenila.",
+    "d": "nitro.",
+    "e": "éter."
+   },
+   "resposta": "a",
+   "explicacao": "Uma base de Brönsted-Lowry captura próton, então o grupo que reage com ela é o que tem hidrogênio ionizável. Entre os cinco, só a sulfonamida possui um H ligado ao nitrogênio, e esse H é acidificado pelos dois oxigênios do grupo sulfonila, que estabilizam por ressonância o ânion formado. Perdendo esse próton, a molécula vira um ânion — daí a espécie carregada e mais solúvel em água que o enunciado descreve. Metila, fenila e éter não têm hidrogênio ácido, e o grupo nitro não possui hidrogênio algum para ceder."
+  },
+  {
+   "id": "enem-quimica-19",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "O soro caseiro serve para combater a desidratação por meio da reposição da água e sais minerais perdidos, por exemplo, por diarreia. Uma receita simples para a sua preparação consiste em utilizar duas colheres grandes (de sopa) de açúcar e duas colheres pequenas (de café) de sal de cozinha, dissolvidos em 2 L de água fervida, obtendo-se uma solução com concentração de íon sódio de 1,4 mg/mL. Considere as massas molares: NaCl = 58,5 g/mol; Na = 23 g/mol.",
+   "enunciado": "Qual é o valor mais próximo da massa, em grama, de cloreto de sódio presente em uma única colher pequena?",
+   "alternativas": {
+    "a": "0,7 g",
+    "b": "1,8 g",
+    "c": "2,8 g",
+    "d": "3,6 g",
+    "e": "7,0 g"
+   },
+   "resposta": "d",
+   "explicacao": "A concentração dada é de íon sódio, não de sal, e é aí que a questão separa quem lê com cuidado. Em 2 L, ou 2000 mL, há 1,4 × 2000 = 2800 mg = 2,8 g de Na+. Converter sódio em cloreto de sódio exige a razão entre as massas molares: 2,8 × 58,5/23 ≈ 7,1 g de NaCl no total. Como esse sal veio de duas colheres, cada uma traz cerca de 3,6 g. A alternativa (c) captura quem confunde massa de sódio com massa de sal, e a (e) quem esquece de dividir pelas duas colheres."
+  },
+  {
+   "id": "enem-quimica-20",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "dificil",
+   "origem": "enem",
+   "texto_apoio": "Células a combustível microbianas (CCM) são capazes de gerar eletricidade a partir de águas residuárias. As CCM são compostas de duas câmaras. Numa delas, onde ocorre o tratamento da matéria orgânica, as bactérias eletrogênicas crescem formando um biofilme e se alimentam dos poluentes presentes no efluente. Ao se alimentarem, essas bactérias geram uma corrente elétrica que percorre o material sobre o qual elas formaram o biofilme. Um fio condutor externo possibilita a migração dessa corrente para uma segunda câmara, promovendo uma reação química. As semirreações envolvidas são:\nCH3COO− (aq) + 2 H2O (l) → 2 CO2 (g) + 7 H+ (aq) + 8 e−\n4 H+ (aq) + O2 (g) + 4 e− → 2 H2O (l)",
+   "enunciado": "Qual das equações representa a reação global que ocorre durante o funcionamento dessa CCM?",
+   "alternativas": {
+    "a": "CH3COO− (aq) + O2 (g) → 2 CO2 (g) + 3 H+ (aq)",
+    "b": "CO2 (g) + O2 (g) + H+ (aq) → H2O (l) + CH3COO− (aq)",
+    "c": "CH3COO− (aq) + H+ (aq) + 2 O2 (g) → 2 CO2 (g) + 2 H2O (l)",
+    "d": "CH3COO− (aq) + 6 H2O (l) → 2 CO2 (g) + 2 O2 (g) + 15 H+ (aq)",
+    "e": "2 CO2 (g) + 11 H+ (aq) + O2 (g) → CH3COO− (aq) + 4 H2O (l)"
+   },
+   "resposta": "c",
+   "explicacao": "Para somar as semirreações, os elétrons precisam se cancelar. A oxidação libera 8 e− e a redução consome 4, então a segunda equação é multiplicada por 2: 8 H+ + 2 O2 + 8 e− → 4 H2O. Somando com a primeira e cortando os elétrons, sobram 2 H2O e 8 H+ de um lado contra 7 H+ e 4 H2O do outro. Cancelando o que é comum, resta CH3COO− + H+ + 2 O2 → 2 CO2 + 2 H2O, que é a alternativa (c). As alternativas (b) e (e) apresentam a reação invertida, e (a) e (d) não fecham o balanço de massa nem de carga."
+  },
+  {
+   "id": "enem-quimica-21",
+   "banca": "enem",
+   "sessao": "enem-2024-dia-2",
+   "formato": "direta",
+   "dificuldade": "facil",
+   "origem": "enem",
+   "texto_apoio": "No senso comum, considera-se, ainda hoje, que compostos orgânicos são substâncias presentes nos seres vivos. Na Química, a expressão “compostos orgânicos” tem um uso histórico de mais de 200 anos, adquirindo diferentes conotações ao longo do desenvolvimento dessa ciência. Atualmente, atribui-se a essa expressão outro significado.",
+   "enunciado": "A concepção científica atual define esses compostos como substâncias",
+   "alternativas": {
+    "a": "benéficas à saúde humana.",
+    "b": "capazes de serem biodegradadas.",
+    "c": "formadas a partir de gás carbônico.",
+    "d": "produzidas sem o uso de agrotóxicos.",
+    "e": "contendo carbono como elemento principal."
+   },
+   "resposta": "e",
+   "explicacao": "A definição vitalista, que ligava o orgânico à matéria viva, caiu com a síntese da ureia por Wöhler em 1828, a partir de material inorgânico. Desde então a química organiza esses compostos por critério estrutural: química orgânica é a química dos compostos de carbono. As alternativas (a), (b) e (d) confundem o termo técnico com o sentido comercial de “orgânico” aplicado a alimentos, e a (c) toma o CO2 como origem — e ele próprio, apesar de conter carbono, é classificado como inorgânico."
   }
  ],
  "textos": [
